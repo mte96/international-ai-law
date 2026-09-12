@@ -1,0 +1,558 @@
+fristen:
+- id: us-ca-session-2026-f1
+  datum: 2026-08-31
+  beschreibung: 'Letzter Tag der Schlussabstimmungen in der kalifornischen Legislative. Cal. Const. Art.
+    IV § 10(b)(2) knüpft daran an, ob eine Vorlage „before September 1 of the second calendar year of
+    the biennium“ verabschiedet wurde; der letzte mögliche Tag ist damit der 31.08.2026. Für Vorlagen,
+    die der Gouverneur am oder nach dem 01.09. in Händen hält, läuft die Entscheidungsfrist bis zum 30.09.2026
+    — wird die Vorlage bis dahin nicht zurückgegeben, wird sie ohne Unterschrift Gesetz. Rund 24 KI-Vorlagen
+    waren betroffen.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  regelwerk: us-ca-session-2026
+  adressat: Beobachter der kalifornischen Gesetzgebung; betroffene Anbieter
+  quelle: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%2010.&article=IV
+  fundstelle_norm: Cal. Const. Art. IV § 10(b)(2)
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 7
+  notiz_erledigt: 'ERLEDIGT am 31.08.2026: Die Sitzungsperiode ist beendet. Laufend ist jetzt die Frist
+    des Gouverneurs bis zum 30.09.2026 (Cal. Const. Art. IV Sec. 10(b)(2)); wird eine Vorlage bis dahin
+    nicht zurückgegeben, wird sie ohne Unterschrift Gesetz. Nach dem 30.09.2026 prüfen, welche Vorlagen
+    unterzeichnet, mit Veto belegt oder ohne Unterschrift Gesetz geworden sind — belegbar beim Gouverneur
+    liegen SB 813, SB 947 und SB 1168; die Liste ist wegen der robots.txt-Sperre von leginfo nicht abschließend.'
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Am amtlichen Fristenkalender des kalifornischen Senats für 2026 bestätigt: "Aug. 31 —
+    Last day for each house to pass bills (Art. IV, Sec. 10(c)), (J.R. 61(b)(17))" und "Sept. 30 — Last
+    day for Governor to sign or veto bills passed by the Legislature before Sept. 1 and in the Governor''s
+    possession on or after Sept. 1 (Art. IV, Sec. 10(b)(2))". Die Unterzeichnungsmeldung von gov.ca.gov
+    vom 31.08.2026 umfasst dreizehn Vorlagen, darunter keine KI-Vorlage; eine spätere Meldung existiert
+    bis 07.09.2026 nicht.'
+- id: us-ct-2026-f1
+  datum: 2026-10-01
+  beschreibung: 'Connecticut, erste materielle Stufe des Public Act 26-15 (Substitute for S.B. No. 5,
+    „An Act Concerning Online Safety“, unterzeichnet am 27.05.2026). Zum 01.10.2026 werden wirksam: Offenlegungspflichten
+    abonnementbasierter KI-Anbieter (Sec. 1), Pflichten der Frontier-Entwickler zu katastrophenbezogenen
+    Risiken samt Repressalienverbot zugunsten der Beschäftigten (Sec. 2), der Rahmen für automatisierte
+    beschäftigungsbezogene Entscheidungstechnologie (Secs. 7 bis 12) und die Kennzeichnung synthetischer
+    Inhalte durch Anbieter generativer KI-Systeme mit über einer Million Nutzern im Monat (Sec. 15).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ct-2026
+  adressat: Anbieter mit Nutzern in Connecticut; Frontier-Entwickler
+  handlungsbedarf: Provenienzpflichten aus Sec. 15 (Anbieter generativer KI mit über 1 Mio. Nutzern/Monat)
+    mit den kalifornischen Vorgaben aus Bus. & Prof. Code §§ 22757 ff. abgleichen.
+  quelle: https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF
+  fundstelle_norm: Connecticut Public Act 26-15 (Substitute for S.B. No. 5, „An Act Concerning Online
+    Safety“), Secs. 1, 2, 7 bis 12, 15, 26, 30 und 38 — jeweils „(Effective October 1, 2026)“
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: us-ny-session-2026-f1
+  datum: 2026-12-31
+  beschreibung: 'RICHTWERT, KEIN NORMFESTER STICHTAG. N.Y. Const. Art. IV § 7 bemisst die Entscheidungsfrist
+    der Gouverneurin nach der Zuleitung, nicht nach dem Kalenderjahr: zehn Tage während der Sitzungsperiode,
+    dreißig Tage bei Zuleitung nach Sitzungsende. Der 31.12.2026 ist die übliche Praxis, dass alle Vorlagen
+    einer Sitzungsperiode bis Jahresende zugeleitet und beschieden werden, kein Datum aus dem Verfassungstext.
+    Stand 05.09.2026 sind S 9051-B (Kids Chatbot Safety Act, Senat 04.06.2026, Assembly 05.06.2026) und
+    A 6578 (AI Training Data Transparency Act, 04.06.2026) auf nysenate.gov als „Passed Senate & Assembly“
+    geführt und der Gouverneurin noch nicht zugeleitet. Erst mit der Zuleitung entsteht ein datierbarer
+    Stichtag.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  regelwerk: us-ny-session-2026
+  adressat: Modellanbieter, Chatbot-Anbieter, Medienunternehmen mit New-York-Bezug
+  handlungsbedarf: Laufend prüfen; bei Unterzeichnung von A 6578 ist eine zweite Trainingsdaten-Zusammenfassung
+    nach New Yorker Vorgaben zu erstellen.
+  quelle: https://www.nysenate.gov/legislation/bills/2025/S9051
+  fundstelle_norm: N.Y. Const. Art. IV § 7 (Entscheidungsfrist von 30 Tagen nach Zuleitung bei nach Sitzungsende
+    zugeleiteten Vorlagen)
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: us-ca-sb942-ab853-f1
+  datum: 2027-01-01
+  beschreibung: 'Kalifornien, zweite Stufe des AI Transparency Act. § 22757.3.1 verpflichtet große Online-Plattformen,
+    eingebettete Provenienzdaten auszulesen und dem Nutzer anzuzeigen, und zwar nur soweit technisch machbar
+    und mit den Spezifikationen einer etablierten Normungsorganisation vereinbar; § 22757.3.2 verbietet
+    Hosting-Plattformen für GenKI-Systeme, wissentlich ein System bereitzustellen, das keine Offenlegung
+    nach § 22757.3 vornimmt. Beide Vorschriften werden nach ihrem jeweiligen Schlussabsatz zum 01.01.2027
+    operativ.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ca-sb942-ab853
+  adressat: Große Online-Plattformen; Hosting-Plattformen (Modell-Hubs, App-Stores)
+  handlungsbedarf: Prüfen, ob eigene Verteilungswege als Hosting-Plattform gelten; Provenienz-Auslesefähigkeit
+    implementieren.
+  quelle: https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=8.&title=&part=&chapter=25.&article=
+  fundstelle_norm: Cal. Bus. & Prof. Code § 22757.3.1(c) und § 22757.3.2(b) — jeweils „This section shall
+    become operative on January 1, 2027“
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: us-co-sb26-189-f1
+  datum: 2027-01-01
+  beschreibung: 'Colorado SB 26-189 (Chapter 131, Session Laws of Colorado 2026, unterzeichnet am 14.05.2026)
+    wird auf folgenreiche Entscheidungen anwendbar, die an oder nach dem 01.01.2027 getroffen werden.
+    Zum selben Tag muss der Attorney General nach § 6-1-1704(4) die Offenlegungsanforderungen nach einem
+    nachteiligen Ergebnis durch Rechtsverordnung konkretisiert haben.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-co-sb26-189
+  adressat: Entwickler und Deployer von ADMT in Bildung, Beschäftigung, Wohnimmobilien, Finanz-/Kreditdienstleistungen,
+    Versicherungen, Gesundheit, staatlichen Leistungen
+  handlungsbedarf: Entwicklerdokumentation nach Colorado-Vorgaben aus der EU-Modelldokumentation ableiten;
+    Dreijahresarchiv einrichten; Verordnung des AG abwarten.
+  quelle: https://leg.colorado.gov/bills/sb26-189
+  fundstelle_norm: 'Sec. 5 SB 26-189 (Effective date — applicability: Anwendung auf „consequential decisions
+    made on or after January 1, 2027“) und Colo. Rev. Stat. § 6-1-1704(4) (Rechtsverordnung des Attorney
+    General „on or before January 1, 2027“)'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: us-ny-raise-f1
+  datum: 2027-01-01
+  beschreibung: 'New York RAISE Act wird anwendbar: Frontier AI Framework, Transparenzbericht vor Deployment,
+    72-Stunden-Vorfallmeldung an die Stelle beim Department of Financial Services, Offenlegungserklärung.
+    Die Ursprungsfassung (S 6953-B, unterzeichnet 19.12.2025 als Chapter 699 of the Laws of 2025) sah
+    ein Inkrafttreten am neunzigsten Tag nach Gesetzwerdung vor; die Chapter Amendment S 8828 (Chapter
+    96 of the Laws of 2026, unterzeichnet 27.03.2026) hat den Stichtag in ihrem § 3 auf den 01.01.2027
+    verschoben und die Definitionen an das kalifornische SB 53 angeglichen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ny-raise
+  adressat: Large frontier developers (>10^26 Operationen, >500 Mio. USD Umsatz)
+  handlungsbedarf: Meldeprozess auf 72 Stunden umstellen; SB-53-Framework auf New Yorker Abweichungen
+    prüfen (Schwelle 100 Betroffene, Sanktion bis 3 Mio. USD).
+  quelle: https://www.nysenate.gov/legislation/bills/2025/S8828
+  fundstelle_norm: '§ 3 des Änderungsgesetzes S 8828 (Chapter 96 of the Laws of 2026) zu Chapter 699 of
+    the Laws of 2025 (S 6953-B/A 6453-B): Inkrafttreten am 01.01.2027'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: us-il-sb315-f1
+  datum: 2027-01-01
+  beschreibung: 'Illinois AI Safety Measures Act (Public Act 104-0538, unterzeichnet am 06.07.2026) tritt
+    am 01.01.2027 in Kraft. Ab diesem Tag greifen die Offenlegungserklärung des large frontier developer
+    nach Section 18(a) sowie die Meldepflichten für kritische Sicherheitsvorfälle nach Section 15(c):
+    binnen 72 Stunden nach Kenntnis, bei unmittelbarer Gefahr binnen 24 Stunden an die Strafverfolgung.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-il-sb315
+  adressat: Frontier-Entwickler mit Angebot in Illinois
+  handlungsbedarf: Offenlegungserklärung vorbereiten; Meldeprozesse mit New York vereinheitlichen.
+  quelle: https://www.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=315&DocTypeID=SB&LegId=0&SessionID=114
+  fundstelle_norm: Illinois Public Act 104-0538 (SB 315, Artificial Intelligence Safety Measures Act),
+    Section 18(a) („January 1, 2027“) und Section 15(c); Inkrafttreten des Gesetzes am 01.01.2027
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: us-ca-sb53-f1
+  datum: 2027-01-01
+  beschreibung: 'Kalifornien SB 53 (Chapter 138, Statutes of 2025), drei zeitgleiche Stichtage zum 01.01.2027:
+    Das Office of Emergency Services veröffentlicht nach Bus. & Prof. Code § 22757.13(g)(1) den ersten
+    anonymisierten und aggregierten Jahresbericht über die geprüften kritischen Sicherheitsvorfälle; das
+    Department of Technology überprüft nach § 22757.14(a) erstmals und danach jährlich die Definitionen
+    des Kapitels — darunter „frontier model“ und „large frontier developer“ — und legt der Legislative
+    Empfehlungen vor; das CalCompute-Konsortium legt nach Gov. Code § 11546.8(f)(1) der Legislative den
+    Rahmen für Aufbau und Betrieb von CalCompute vor.
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  regelwerk: us-ca-sb53
+  adressat: Frontier-Entwickler; Beobachter der Schwellenentwicklung
+  handlungsbedarf: Die CDT-Empfehlung verfolgen — eine Absenkung der 10^26-Schwelle würde den Adressatenkreis
+    erheblich erweitern.
+  quelle: https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=8.&title=&part=&chapter=25.1.&article=
+  fundstelle_norm: Cal. Bus. & Prof. Code § 22757.13(g)(1) (Jahresbericht Cal OES „beginning January 1,
+    2027“), § 22757.14(a) (jährliche Überprüfung der Definitionen durch das Department of Technology „on
+    or before January 1, 2027“), Cal. Gov. Code § 11546.8(f)(1) (CalCompute-Bericht an die Legislative
+    „on or before January 1, 2027“)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ny-session-2026-f2
+  datum: 2027-01-01
+  beschreibung: 'Vorgesehener Anwendungsbeginn des New Yorker Kids Chatbot Safety Act (S 9051-B) — Funktionsverbote
+    für KI-Companion-Chatbots gegenüber unter 18-Jährigen, bis zu 25.000 USD je Verstoß. Die Schlussvorschrift
+    des Gesetzestextes bestimmt das Inkrafttreten auf den 01.01.2027 und erlaubt vorgezogenes Rulemaking.
+    Der Stichtag steht unter dem Vorbehalt der Unterzeichnung: Stand 05.09.2026 ist die Vorlage nach nysenate.gov
+    von beiden Kammern angenommen (04./05.06.2026), der Gouverneurin aber noch nicht zugeleitet.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ny-session-2026
+  adressat: Anbieter von Companion-Chatbots mit Nutzern in New York
+  handlungsbedarf: Nur relevant bei Unterzeichnung; dann Altersfeststellung und Funktionsbeschränkungen
+    implementieren.
+  quelle: https://www.nysenate.gov/legislation/bills/2025/S9051
+  fundstelle_norm: 'Schlussvorschrift des NY S 9051-B (Kids Chatbot Safety Act): „This act shall take
+    effect January 1, 2027“'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ct-2026-f2
+  datum: 2027-01-01
+  beschreibung: 'Connecticut, zweite Stufe des Public Act 26-15: Die Secs. 4 bis 6 zu KI-Begleitern werden
+    wirksam — Begriffsbestimmung des „artificial intelligence companion“ (Sec. 4) sowie die Betreiberverbote
+    und Schutzvorkehrungen der Secs. 5 und 6. Zum selben Tag treten die flankierenden Secs. 19 bis 21
+    in Kraft (Hinweispflicht des Labor Department, Vorhaben des Secretary of the State mit Charter Oak
+    State College, Vorhaben des Department of Housing).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ct-2026
+  adressat: Anbieter von KI-Begleitern mit Nutzern in Connecticut
+  handlungsbedarf: null
+  quelle: https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF
+  fundstelle_norm: Connecticut Public Act 26-15, Secs. 4 bis 6 sowie Secs. 19 bis 21 — jeweils „(Effective
+    January 1, 2027)“
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ca-cppa-admt-f1
+  datum: 2027-01-01
+  beschreibung: 'Cal. Code Regs. tit. 11, § 7200(b) lautet: „A business that uses ADMT for a significant
+    decision prior to January 1, 2027, must be in compliance with the requirements of this Article no
+    later than January 1, 2027. A business that uses ADMT on or after January 1, 2027, must be in compliance
+    with the requirements of this Article any time it is using ADMT for a significant decision.“ Wer ADMT
+    für wesentliche Entscheidungen (Finanzen, Wohnen, Bildung, Beschäftigung, Gesundheit) einsetzt, muss
+    Vorabinformation (§ 7220), Opt-out (§ 7221) und Auskunft über die Entscheidungslogik (§ 7222) zu diesem
+    Tag umgesetzt haben. Einen ADMT-Stichtag zum 01.04.2027 kennt die Verordnung nicht.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: us
+  regelwerk: us-ca-cppa-admt
+  adressat: Jedes 'business' im Sinne des CCPA mit ADMT-Einsatz — einschließlich europäischer Unternehmen
+    oberhalb der CCPA-Schwellen
+  handlungsbedarf: DSFA-Bestand auf die CPPA-Anforderungen mappen, Opt-out-Mechanismus und Logik-Auskunft
+    bis 01.01.2027 bauen, prüfen, ob eigene Systeme eine menschliche Entscheidung „ersetzen oder wesentlich
+    ersetzen“.
+  quelle: https://cppa.ca.gov/regulations/pdf/ccpa_statute_eff_20260101.pdf
+  fundstelle_norm: Cal. Code Regs. tit. 11, § 7200(b)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: us-ca-sb243-f1
+  datum: 2027-07-01
+  beschreibung: 'Kalifornien SB 243: § 22603(a) Bus. & Prof. Code verpflichtet Betreiber, ab dem 01.07.2027
+    jährlich an das Office of Suicide Prevention zu berichten — die Zahl der im vorangegangenen Kalenderjahr
+    nach § 22602 ausgegebenen Krisendienst-Verweise, die Protokolle zur Erkennung, Entfernung und Beantwortung
+    von Suizidgedanken sowie die Protokolle, die eine Chatbot-Antwort zu Suizidgedanken unterbinden. Der
+    Bericht darf keine Nutzerkennungen enthalten; das Office veröffentlicht die Daten (§ 22603(b) und
+    (c)).
+
+    '
+  typ: einreichung
+  jurisdiktion: us
+  regelwerk: us-ca-sb243
+  adressat: Betreiber von Companion-Chatbot-Plattformen mit Nutzern in Kalifornien
+  handlungsbedarf: Ab sofort zählen und dokumentieren — die Meldung betrifft rückwirkend den Zeitraum
+    seit Inkrafttreten.
+  quelle: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=22603.
+  fundstelle_norm: Cal. Bus. & Prof. Code § 22603(a) (eingefügt durch Stats. 2025, Ch. 677, Sec. 1 — SB
+    243)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: us-ut-aipa-f1
+  datum: 2027-07-01
+  beschreibung: 'Sonnenuntergang des Utah Artificial Intelligence Policy Act. § 63I-2-213(2) Utah Code
+    hebt Title 13, Chapter 72 zum 01.07.2027 auf. Erfasst ist damit das gesamte Kapitel — Offenlegungspflichten,
+    das Office of Artificial Intelligence Policy und das Reallabor samt Regulatory Mitigation Agreements.
+    Ohne erneute Verlängerung durch die Legislative in der Session 2027 entfällt es ersatzlos; andere
+    Kapitel des Utah Code sind von dieser Aufhebungsvorschrift nicht erfasst.
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  regelwerk: us-ut-aipa
+  adressat: Anbieter mit Utah-Bezug; Teilnehmer des Utah-Reallabors
+  handlungsbedarf: Session 2027 (Januar bis März) beobachten; Regulatory-Mitigation-Vereinbarungen auf
+    Fortgeltung prüfen.
+  quelle: https://le.utah.gov/xcode/Title63I/Chapter2/C63I-2-P2_1800010118000101.pdf
+  fundstelle_norm: 'Utah Code § 63I-2-213(2): „Title 13, Chapter 72, Artificial Intelligence Policy Act,
+    is repealed July 1, 2027.“'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ct-2026-f3
+  datum: 2027-10-01
+  beschreibung: 'Connecticut, dritte und für Arbeitgeber wichtigste Stufe. Die Secs. 7 bis 12 des Public
+    Act 26-15 sind zwar bereits zum 01.10.2026 wirksam, ihre Pflichten knüpfen aber tatbestandlich an
+    den 01.10.2027 an: Sec. 8(a) verpflichtet den Entwickler einer automatisierten beschäftigungsbezogenen
+    Entscheidungstechnologie, die „on or after October 1, 2027“ im Staat eingesetzt wird, dem Deployer
+    alle für dessen Pflichten nach Secs. 9 und 10 nötigen Informationen zu geben; Sec. 9(a) und Sec. 10
+    richten sich an Deployer, die ab diesem Tag solche Systeme im Umgang mit Beschäftigten oder Bewerbern
+    einsetzen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ct-2026
+  adressat: Arbeitgeber mit Beschäftigten in Connecticut; Anbieter von HR-Systemen
+  handlungsbedarf: null
+  quelle: https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF
+  fundstelle_norm: Connecticut Public Act 26-15, Secs. 8(a), 9(a) und 10 — Pflichten für Systeme, die
+    „on or after October 1, 2027“ im Staat eingesetzt werden
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ca-cppa-admt-f2
+  datum: 2027-12-31
+  beschreibung: 'Für Verarbeitungstätigkeiten nach § 7150(b), die das Unternehmen vor dem 01.01.2026 begonnen
+    hat und die darüber hinaus fortdauern, verlangt § 7155(c) die Durchführung und Dokumentation der Risikobewertung
+    „no later than December 31, 2027“; für die Übermittlung gilt dann § 7157(a)(1). Risikobewertungen
+    sind so lange aufzubewahren, wie die Verarbeitung andauert, mindestens aber fünf Jahre nach ihrem
+    Abschluss.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: us
+  regelwerk: us-ca-cppa-admt
+  adressat: CCPA-pflichtige Unternehmen mit auslösenden Verarbeitungen — einschließlich Training von ADMT
+    mit personenbezogenen Daten
+  handlungsbedarf: null
+  quelle: https://cppa.ca.gov/regulations/pdf/ccpa_statute_eff_20260101.pdf
+  fundstelle_norm: Cal. Code Regs. tit. 11, § 7155(c)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-il-sb315-f2
+  datum: 2028-01-01
+  beschreibung: 'Illinois, Beginn der Kernpflichten. Section 10(a) verlangt ab dem 01.01.2028 vom large
+    frontier developer, ein frontier AI framework zu erstellen, umzusetzen, einzuhalten und deutlich sichtbar
+    auf der eigenen Website zu veröffentlichen; Änderungen sind nach Section 10(b)(2) binnen 30 Tagen
+    zu veröffentlichen. Section 10(d) verpflichtet ab dem 01.01.2028 oder 90 Tage nach erstmaliger Qualifikation
+    als large frontier developer — je nachdem, was später eintritt — zum jährlichen unabhängigen Drittaudit;
+    die Zusammenfassung des Prüfberichts ist nach Section 10(d)(4)(A) binnen 30 Tagen nach Erhalt zu veröffentlichen.
+    Die Transparenzberichte nach Section 10(c) sind vor oder mit dem Deployment eines neuen oder wesentlich
+    geänderten Frontier-Modells fällig.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: us
+  regelwerk: us-il-sb315
+  adressat: Large frontier developers mit Angebot in Illinois
+  handlungsbedarf: Prüferauswahl frühzeitig beginnen — es gibt keinen etablierten Markt für qualifizierte
+    Frontier-Safety-Auditoren.
+  quelle: https://www.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=315&DocTypeID=SB&LegId=0&SessionID=114
+  fundstelle_norm: Illinois Public Act 104-0538 (SB 315), Section 10(a) („Beginning January 1, 2028“)
+    und Section 10(d) (Drittaudit ab 01.01.2028 oder 90 Tage nach erstmaliger Qualifikation, je nachdem
+    was später ist); Veröffentlichung der Prüfzusammenfassung nach Section 10(d)(4)(A) binnen 30 Tagen
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ca-sb942-ab853-f2
+  datum: 2028-01-01
+  beschreibung: 'Kalifornien, dritte Stufe des AI Transparency Act. § 22757.3.3(a) verpflichtet Hersteller
+    von Aufnahmegeräten für Geräte, die sie erstmals am oder nach dem 01.01.2028 zum Verkauf im Staat
+    herstellen, dem Nutzer die Aufnahme einer latenten Kennzeichnung anzubieten (Herstellername, Gerätename
+    und Versionsnummer, Zeit und Datum) und diese Kennzeichnung standardmäßig einzubetten; nach § 22757.3.3(c)
+    wird die Vorschrift zum 01.01.2028 operativ. Die Pflicht gilt nur, soweit technisch machbar und mit
+    den Spezifikationen einer etablierten Normungsorganisation vereinbar (§ 22757.3.3(b)).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ca-sb942-ab853
+  adressat: Hersteller von Kameras, Smartphones und Aufnahmegeräten mit Vertrieb in Kalifornien
+  handlungsbedarf: null
+  quelle: https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=8.&title=&part=&chapter=25.&article=
+  fundstelle_norm: Cal. Bus. & Prof. Code § 22757.3.3(a) und (c) (eingefügt durch Stats. 2025, Ch. 674,
+    Sec. 4 — AB 853)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+- id: us-ca-cppa-admt-f3
+  datum: 2028-04-01
+  beschreibung: 'Zwei Stichtage zum 01.04.2028. Nach § 7157(a)(1) sind für die in den Jahren 2026 und
+    2027 durchgeführten Risikobewertungen die Angaben nach § 7157(b) bis zum 01.04.2028 an die CPPA zu
+    übermitteln; danach jeweils bis zum 01.04. des Folgejahres (§ 7157(a)(2)). Nach § 7121(a)(1) ist bis
+    zum 01.04.2028 der erste Cybersicherheits-Auditbericht fertigzustellen, wenn der Jahresbruttoumsatz
+    2026 zum 01.01.2027 über 100 Mio. USD lag; der Prüfzeitraum ist der 01.01.2027 bis 01.01.2028. Weitere
+    Stufen: 01.04.2029 bei 50 bis 100 Mio. USD Umsatz 2027 (§ 7121(a)(2)) und 01.04.2030 bei unter 50
+    Mio. USD Umsatz 2028 (§ 7121(a)(3)).
+
+    '
+  typ: einreichung
+  jurisdiktion: us
+  regelwerk: us-ca-cppa-admt
+  adressat: CCPA-pflichtige Unternehmen; Bezugsgröße für Stufe 1 ist bereits der Umsatz 2026
+  handlungsbedarf: Umsatzabgrenzung 2026 jetzt dokumentieren — sie bestimmt die Audit-Stufe.
+  quelle: https://cppa.ca.gov/regulations/pdf/ccpa_statute_eff_20260101.pdf
+  fundstelle_norm: Cal. Code Regs. tit. 11, § 7157(a)(1) (Übermittlung an die Agency) und § 7121(a)(1)
+    bis (3) (Stufen des Cybersicherheits-Audits)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+- id: us-co-sb26-189-f2
+  datum: 2030-01-01
+  beschreibung: 'Colorado: Auslaufen der Heilungsmöglichkeit. § 6-1-1706(3) C.R.S. verpflichtet den Attorney
+    General, vor einer Klage eine Verletzungsanzeige zu erteilen und dem Entwickler oder Deployer sechzig
+    Tage zur Abhilfe zu lassen; die Vorschrift ist zum 01.01.2030 aufgehoben. Danach kann der Attorney
+    General ohne vorherige Abmahnung vorgehen.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  regelwerk: us-co-sb26-189
+  adressat: Entwickler und Deployer von ADMT mit Colorado-Bezug
+  handlungsbedarf: null
+  quelle: https://leg.colorado.gov/bills/sb26-189
+  fundstelle_norm: Colo. Rev. Stat. § 6-1-1706(3), aufgehoben mit Wirkung zum 01.01.2030
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+- id: us-ct-2026-f4
+  datum: 2027-07-01
+  beschreibung: 'PRÄZISIERT. Sec. 3 des Public Act 26-15 tritt am 01.07.2027 in Kraft; erst ab diesem
+    Tag besteht der Auftrag an den Commissioner of Economic and Community Development, im Benehmen mit
+    Banking, Administrative Services, Public Health und Insurance einen Plan für ein KI-Reallabor zu entwickeln,
+    der Anbietern die befristete Erprobung unter reduzierten Zulassungs- und Aufsichtsanforderungen erlaubt.
+    Der 01.07.2027 ist also kein Vorlagetermin: Die Empfehlungen für die nötige Gesetzgebung sind nach
+    Sec. 3 dem Gouverneur und den zuständigen Ausschüssen „not later than January 1, 2028“ vorzulegen.
+    Der Commissioner soll dabei die Reallabore anderer Staaten auf ein wechselseitiges Mehrstaatenprogramm
+    prüfen. Sec. 33 (ebenfalls zum 01.07.2027) richtet daneben beim Department of Consumer Protection
+    ein Pilotprogramm mit unabhängigen Verifizierungsstellen ein.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: us
+  regelwerk: us-ct-2026
+  adressat: Connecticut Artificial Intelligence Policy Office; an einer Teilnahme interessierte Anbieter
+  handlungsbedarf: Für europäische Anbieter als möglicher Markteintrittspfad beobachten — vergleichbar
+    dem Reallabor in Utah und Texas.
+  quelle: https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF
+  fundstelle_norm: Connecticut Public Act 26-15, Sec. 3 („Effective July 1, 2027“); Vorlage der Empfehlungen
+    „not later than January 1, 2028“
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ct-2026-f5
+  datum: 2027-12-31
+  beschreibung: 'Connecticut: Ende der ermessensabhängigen Heilungsmöglichkeit. Nach Sec. 12 des Public
+    Act 26-15 ist ein Verstoß gegen die Secs. 8 bis 11 eine unfaire oder irreführende Geschäftspraxis
+    im Sinne von § 42-110b(a) der General Statutes, die allein der Attorney General verfolgt. Vor einer
+    Klage wegen eines Verstoßes, der am oder vor dem 31.12.2027 eintritt, kann — nicht muss — der Attorney
+    General eine Verletzungsanzeige erteilen, wenn er eine Heilung für möglich hält; wird der Verstoß
+    nicht binnen sechzig Tagen nach Zugang geheilt, kann er klagen. Für Verstöße ab dem 01.01.2028 entfällt
+    diese Möglichkeit.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  regelwerk: us-ct-2026
+  adressat: Arbeitgeber mit Beschäftigten oder Bewerbern in Connecticut; Anbieter von HR-Software
+  handlungsbedarf: Die Hinweisprozesse müssen vor diesem Datum belastbar stehen — die Heilungsmöglichkeit
+    deckt nur Verstöße bis einschließlich 31.12.2027.
+  quelle: https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF
+  fundstelle_norm: Connecticut Public Act 26-15, Sec. 12 (Heilungsmöglichkeit nur für Verstöße, die „on
+    or before December 31, 2027“ eintreten)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ct-2026-f6
+  datum: 2028-01-01
+  beschreibung: 'Connecticut, vierte Stufe: Sec. 39 des Public Act 26-15 wird wirksam. Sie verpflichtet
+    „covered operators“ von Plattformen gegenüber erkannten Minderjährigen — unter anderem zu elterlich
+    einstellbaren Nutzungszeiten, zur Beschränkung der Sichtbarkeit von Inhalten Minderjähriger gegenüber
+    nicht verbundenen Nutzern und zu weiteren Schutzvorkehrungen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ct-2026
+  adressat: Betreiber sozialer Plattformen mit Nutzern in Connecticut
+  handlungsbedarf: null
+  quelle: https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF
+  fundstelle_norm: Connecticut Public Act 26-15, Sec. 39 („Effective January 1, 2028“)
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+- id: us-ct-2026-f7
+  datum: 2028-03-01
+  beschreibung: 'Offenlegungspflicht der Plattformbetreiber aus Sec. 39(e) des Public Act 26-15, keine
+    allgemeine Berichtspflicht des Gesetzes: Jeder „covered operator“ hat bis zum 01.03.2028 und danach
+    jährlich in der vom Attorney General vorgegebenen Form für das vorangegangene Kalenderjahr offenzulegen,
+    unter anderem die Gesamtzahl der Nutzer der Plattform in diesem Jahr. Adressat sind damit Plattformbetreiber,
+    nicht die nach anderen Teilen des Gesetzes verpflichteten Stellen.
+
+    '
+  typ: einreichung
+  jurisdiktion: us
+  regelwerk: us-ct-2026
+  adressat: Betreiber erfasster Plattformen („covered operators“) mit Nutzern in Connecticut
+  handlungsbedarf: null
+  quelle: https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF
+  fundstelle_norm: 'Connecticut Public Act 26-15, Sec. 39(e): „Not later than March 1, 2028, and annually
+    thereafter“'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90

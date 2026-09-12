@@ -1,0 +1,2608 @@
+stichworte:
+- \bK\.?I\.?\b
+- künstlich
+- kuenstlich
+- artificial intelligence
+- \bAI\b
+- machine learning
+- maschinelles Lernen
+- algorithm
+- Algorithmus
+- automated decision
+- automatisierte Entscheidung
+- large language model
+- \bLLM\b
+- foundation model
+- Basismodell
+- generative
+- deepfake
+- chatbot
+- GPAI
+- AI Act
+- KI-VO
+- KI-Verordnung
+- neural network
+- training data
+- Trainingsdaten
+- text and data mining
+- \bTDM\b
+- facial recognition
+- Gesichtserkennung
+- biometric
+- biometrisch
+- OpenAI
+- Anthropic
+- DeepMind
+- Stability AI
+- Midjourney
+- искусственн
+- нейросет
+- нейронн
+- машинное обучение
+- алгоритм
+- дипфейк
+- биометри
+- языковая модель
+- генеративн
+- 人工智能
+- 生成式
+- 深度合成
+- 深度伪造
+- 算法
+- 大模型
+- 大语言模型
+- 机器学习
+- 人脸识别
+- 生物识别
+- 训练数据
+- 인공지능
+- 알고리즘
+- 딥페이크
+- 생성형
+- 기계학습
+- 안면인식
+- 생체인식
+- 人工知能
+- 生成AI
+- アルゴリズム
+- ディープフェイク
+- 機械学習
+- 顔認識
+- 基盤モデル
+- intelig[êe]ncia artificial
+- inteligencia artificial
+- algoritm
+- aprendizado de m[áa]quina
+- aprendizaje autom[áa]tico
+- reconhecimento facial
+- reconocimiento facial
+- intelligence artificielle
+- apprentissage automatique
+- hypertrucage
+- reconnaissance faciale
+- mod[èe]le de fondation
+- kunstig intelligens
+- kunstmatige intelligentie
+- intelligenza artificiale
+- artificiell intelligens
+quellen:
+- id: au_fedcourt_judgments_rss
+  name: Federal Court of Australia — Judgments RSS
+  jurisdiktion: au
+  kategorie: rechtsprechung
+  url: https://www.judgments.fedcourt.gov.au/
+  feed_url: https://www.judgments.fedcourt.gov.au/rss/fca-judgments
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 6h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'RSS 2.0, taggleich aktuell — verifiziert mit neuestem Item 2026-08-27, ca. 100 Entscheidungen im Feed.
+    Wichtigste AU-Rechtsprechungsquelle, da AustLII Bots blockt. Zusätzlich News-Feed: https://www.fedcourt.gov.au/rss/news-and-events-rss
+
+    '
+- id: au_oaic_rss
+  name: OAIC — Office of the Australian Information Commissioner
+  jurisdiktion: au
+  kategorie: behoerde
+  url: https://www.oaic.gov.au/
+  feed_url: https://www.oaic.gov.au/rss
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0 "OAIC media RSS". Datenschutz + KI (Facial Recognition Guidance etc.). Aktualisierungsfrequenz
+    eher niedrig. Achtung: /updates/news-and-media/rss liefert 404 — korrekt ist /rss.
+
+    '
+- id: au_wa_legislation_atom
+  name: WA Legislation — Notification Feeds (9 Atom-Feeds)
+  jurisdiktion: au
+  kategorie: gesetzgebung
+  url: https://www.legislation.wa.gov.au/
+  feed_url: https://www.legislation.wa.gov.au/legislation/statutes.nsf/feeds.html
+  format: atom
+  format_original: Atom
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: "Überraschend gut ausgebaut — 9 getrennte Atom-Feeds, Übersichtsseite verifiziert. Einzelfeeds (aus\
+    \ offizieller Liste, selbst noch ungetestet):\n  consolidatedacts.atom   — Acts as amended\n  consolidatedsubs.atom\
+    \   — Subsidiary legislation as amended\n  reprintedacts.atom      — Acts as reprinted\n  reprintedsubs.atom\
+    \      — Subsidiary as reprinted\n  aspassed.atom           — Acts as passed   <- wichtigster Feed\n  asmade.atom\
+    \             — Subsidiary as made\n  leginfo.atom            — Legislative information\n  historical.atom \
+    \        — Historical indexes\n  gazettes.atom           — Government Gazettes\nAlle unter https://www.legislation.wa.gov.au/legislation/statutes.nsf/<name>\
+    \ Zusatz-Parameter \"&content=text\" liefert Textvariante.\n"
+- id: de_bgh_rss
+  name: Bundesgerichtshof — RSS-Feeds
+  jurisdiktion: de
+  kategorie: rechtsprechung
+  url: https://www.bundesgerichtshof.de/
+  feed_url: https://www.bundesgerichtshof.de/DE/Service/RSSFeed/Function/RSS_EN.xml?nn=373238
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: https://www.bundesgerichtshof.de/DE/Service/RSSFeed/RSSFeed_node.html
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 200 (Übersichtsseite verifiziert)
+  aktiv: true
+  hinweise: "ACHTUNG: Feed-Adressen wurden zum 30.12.2025 geändert — alte URLs aus Blogs/Anleitungen sind tot. Aktuelle,\
+    \ offiziell gelistete Feeds:\n  RSS_EN.xml   — heute neu eingestellte Entscheidungen  <- Hauptfeed\n  RSS_PM.xml\
+    \   — Pressemitteilungen\n  rssnewsfeed_Monographien.xml / _Aufsaetze.xml — Bibliothekszugänge\nalle mit Suffix\
+    \ ?nn=373238 unter https://www.bundesgerichtshof.de/DE/Service/RSSFeed/Function/\n"
+- id: de_bundestag_dip_api
+  name: Bundestag DIP API v1
+  jurisdiktion: de
+  kategorie: gesetzgebung
+  url: https://dip.bundestag.de/
+  feed_url: https://search.dip.bundestag.de/api/v1/vorgang
+  format: json
+  format_original: JSON-API
+  auth: true
+  api_doku: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api.pdf
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 401 (mit abgelaufenem öffentlichem Key)
+  aktiv: true
+  hinweise: 'WICHTIG — KEY-PROBLEM VERIFIZIERT: Der in vielen GitHub-Repos kursierende öffentliche Key
+    ist laut bundesAPI-Repo bis Ende Mai 2026 gültig gewesen — heute (Aug 2026) also ABGELAUFEN. Ein Test mit einem
+    älteren kursierenden Key ergab 401. Eigenen Key per E-Mail anfordern: parlamentsdokumentation@bundestag.de Key
+    ist 42 Zeichen, per Header ODER Query-Parameter "apikey". Formate: JSON oder XML (Parameter format). Limits
+    (offiziell): max. 25 gleichzeitige Requests, max. 100 Entitäten pro Request (10 bei Volltext-Ressourcen). Weitere
+    Rate-Limits existieren, werden aber "auch auf Nachfrage nicht veröffentlicht". ~15 Minuten Verzögerung zwischen
+    DB-Änderung und API-Sichtbarkeit. Nur lesende Verben (GET/HEAD/OPTIONS). Endpunkte: vorgang, drucksache, drucksache-text,
+    plenarprotokoll, aktivitaet, person. OpenAPI-Spec: https://github.com/bundesAPI/dip-bundestag-api
+
+    '
+- id: de_bverwg_rss
+  name: Bundesverwaltungsgericht — RSS-Feeds
+  jurisdiktion: de
+  kategorie: rechtsprechung
+  url: https://www.bverwg.de/
+  feed_url: https://www.bverwg.de/rss/entscheidungen.rss
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: https://www.bverwg.de/rss-feeds
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 200 (Übersichtsseite verifiziert)
+  aktiv: true
+  hinweise: "Drei Feeds, offiziell gelistet und verifiziert:\n  /rss/entscheidungen.rss    — Urteile und Beschlüsse\
+    \  <- Hauptfeed\n  /rss/pressemitteilungen.rss\n  /rss/termine.rss           — Verhandlungs-/Verkündungstermine\n\
+    Saubere, stabile URL-Struktur.\n"
+- id: de_recht_bund_bgbl
+  name: Bundesgesetzblatt (recht.bund.de)
+  jurisdiktion: de
+  kategorie: gesetzgebung
+  url: https://www.recht.bund.de/
+  feed_url: https://www.recht.bund.de/de/serviceseiten/rss/rss_node.html
+  format: rss
+  format_original: RSS + Webservice
+  auth: false
+  api_doku: https://www.recht.bund.de/de/service/webservice/webservice_node.html
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200 (Portal verifiziert); RSS-Unterseite: robots_disallowed'
+  aktiv: true
+  hinweise: 'Portal verifiziert: amtliche BGBl-Fassung als PDF, ab 2023 (Teil I: 1.494 Einträge, Teil II: 1.354),
+    Archiv davor. Es EXISTIEREN RSS-Feeds und ein "Datenabrufdienst/Webservice" — beide Seiten waren für meinen
+    Fetcher robots-gesperrt, die konkreten Feed-URLs konnte ich daher NICHT auslesen. Beim ersten Tracker-Lauf selbst
+    öffnen und Feed-URLs extrahieren. Das ist die einzige amtliche BGBl-Quelle.
+
+    '
+- id: de_rechtsprechung_im_internet
+  name: Rechtsprechung im Internet (Bundesgerichte, BMJ)
+  jurisdiktion: de
+  kategorie: rechtsprechung
+  url: https://www.rechtsprechung-im-internet.de/
+  feed_url: https://www.rechtsprechung-im-internet.de/rii-toc.xml
+  format: rss
+  format_original: XML (Gesamtindex) + RSS
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: robots_disallowed (Prüfpfad, beide URLs)
+  aktiv: true
+  hinweise: 'Nicht verifiziert — robots-gesperrt für meinen Fetcher. Bekannt und in der Praxis vielgenutzt: rii-toc.xml
+    ist ein XML-Gesamtinhaltsverzeichnis aller Entscheidungen der Bundesgerichte mit Links auf Einzel-XML je Entscheidung
+    — de facto der Open-Data-Zugang zur Bundesrechtsprechung. Ausserdem existiert ein RSS-Benachrichtigungsdienst
+    unter /jportal/portal/page/bsjrsprod.psml?cmsuri=%2Ftechnik%2Fde%2Fhilfe_1%2Fbsjrsrss.jsp HOHE PRIORITÄT für
+    den ersten eigenen Test — wenn rii-toc.xml erreichbar ist, ist das die stärkste deutsche Rechtsprechungsquelle.
+
+    '
+- id: eu_curia_press_rss
+  name: EuGH/EuG — CURIA Pressemitteilungen RSS
+  jurisdiktion: eu
+  kategorie: rechtsprechung
+  url: https://curia.europa.eu/
+  feed_url: http://curia.europa.eu/site/rss.jsp?lang=en&secondLang=fr
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: https://curia.europa.eu/site/jcms/qua1_6621/en/rss
+  intervall: 12h
+  zuverlaessigkeit: mittel
+  getestet: false
+  http_status: null
+  aktiv: true
+  hinweise: 'Übersichtsseite verifiziert [200], Feed selbst noch ungetestet. KRITISCHE EINSCHRÄNKUNG: CURIA bietet
+    RSS NUR für Pressemitteilungen (in 23 Sprachen, Sprache über lang/secondLang steuerbar). Es gibt KEINEN RSS-Feed
+    für Urteile/Schlussanträge und KEINE öffentliche InfoCuria-API. Pressemitteilungen decken nur die prominenten
+    Fälle ab. Für lückenlose EuGH-Verfolgung: InfoCuria-Suche scrapen oder über eu_sparql_cellar gehen (CELLAR enthält
+    auch die Rechtsprechung).
+
+    '
+- id: eu_digital_strategy_rss
+  name: EU Shaping Europe's Digital Future (AI Office / DG CNECT)
+  jurisdiktion: eu
+  kategorie: behoerde
+  url: https://digital-strategy.ec.europa.eu/
+  feed_url: https://digital-strategy.ec.europa.eu/en/rss.xml
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 6h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0, neuestes Item 2026-08-18. DIE Quelle für AI-Office- Output: Leitlinien, Codes
+    of Practice, Konsultationen zum AI Act. Es gibt KEINEN separaten AI-Office-Feed — dieser hier ist der Ersatz.
+
+    '
+- id: eu_edpb_rss
+  name: European Data Protection Board (EDPB) — News
+  jurisdiktion: eu
+  kategorie: behoerde
+  url: https://www.edpb.europa.eu/
+  feed_url: https://www.edpb.europa.eu/feed/news_en
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0 "EDPB News", 10 Items, neuestes 2026-07-30. ACHTUNG: das oft zitierte /feed_en
+    liefert 403 — korrekt ist /feed/news_en. Parallel existiert /feed/edpb_en für Publikationen (ungetestet).
+
+    '
+- id: eu_ep_opendata_api
+  name: European Parliament Open Data Portal API v2
+  jurisdiktion: eu
+  kategorie: gesetzgebung
+  url: https://data.europarl.europa.eu/
+  feed_url: https://data.europarl.europa.eu/api/v2/documents
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://data.europarl.europa.eu/en/developer-corner
+  intervall: 6h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert: liefert JSON-LD (@context/@graph), kein Key erkennbar. Parameter format=application/ld+json
+    und limit. Der moderne, saubere Ersatz für Scraping des EP-Dokumentenregisters. Auch MEP-, Plenar- und Abstimmungsdaten.
+    WICHTIG: das ist die Quelle, die man statt OEIL nimmt (OEIL selbst ist robots-gesperrt, siehe eu_oeil).
+
+    '
+- id: eu_ep_rss_feeds
+  name: European Parliament RSS-Feeds (Plenar, Pressemitteilungen, Texte)
+  jurisdiktion: eu
+  kategorie: gesetzgebung
+  url: https://www.europarl.europa.eu/at-your-service/en/stay-informed/rss-feeds
+  feed_url: https://www.europarl.europa.eu/rss/doc/texts-adopted/en.xml
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: mittel
+  getestet: false
+  http_status: Übersichtsseite 200; Einzelfeeds robots_disallowed
+  aktiv: true
+  hinweise: "Offizielle Feed-Liste verifiziert [200] — 20+ Feeds. Einzelabruf war robots-gesperrt, daher Feeds selbst\
+    \ ungetestet (im GitHub Action voraussichtlich abrufbar). Wichtigste, alle unter https://www.europarl.europa.eu/rss/doc/<name>/en.xml\
+    \ :\n  texts-adopted        <- angenommene Texte, wichtigster Feed\n  reports              <- Ausschussberichte\n\
+    \  amendments-plenary\n  parliament-positions\n  press-releases-committees\n  press-releases-plenary\n  agendas-plenary,\
+    \ minutes-plenary, debates-plenary\n  written-questions-answers, oral-questions, major-interpellations\nSprachkürzel\
+    \ /en.xml austauschbar (de, fr, ...).\n"
+- id: lit_arxiv_api
+  name: arXiv API (Suchabfragen)
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://arxiv.org/
+  feed_url: http://export.arxiv.org/api/query
+  format: atom
+  format_original: Atom
+  auth: false
+  api_doku: https://info.arxiv.org/help/api/user-manual.html
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: robots_disallowed (Prüfpfad)
+  aktiv: true
+  hinweise: 'Nicht direkt verifiziert (robots-gesperrt für meinen Fetcher), der RSS-Weg derselben Plattform ist
+    aber verifiziert (lit_arxiv_rss). Offizielle Regel von arXiv: max. 1 Request alle 3 Sekunden, Ergebnisse seitenweise
+    à max. 2.000. Kein Key. Vorteil gegenüber RSS: echte Suchqueries, z.B. search_query=cat:cs.CY+AND+abs:"AI Act"
+    Für einen GitHub-Action-Lauf mit eigenem User-Agent unproblematisch.
+
+    '
+- id: lit_arxiv_rss
+  name: arXiv RSS (cs.AI, cs.CY, cs.LG)
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://arxiv.org/
+  feed_url: https://rss.arxiv.org/rss/cs.AI
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: https://info.arxiv.org/help/api/index.html
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0, 50 Items, tagesaktuell (2026-08-27). Weitere: https://rss.arxiv.org/rss/cs.CY  (Computers
+    and Society — für Recht/Policy oft ergiebiger als cs.AI), /rss/cs.LG. Feed wird werktags aktualisiert (skipDays
+    Sa/So im Feed gesetzt). Für Suchabfragen statt Kategorien: arXiv-API (siehe lit_arxiv_api).
+
+    '
+- id: lit_crossref_api
+  name: Crossref REST API
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://www.crossref.org/
+  feed_url: https://api.crossref.org/works
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://api.crossref.org/swagger-ui/index.html
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert: JSON, 2.029.045 Treffer für "artificial intelligence regulation". Kein Key. WICHTIG: "Polite
+    Pool" nutzen — Parameter &mailto= mit einer echten Kontaktadresse oder User-Agent mit Kontakt; sonst landet man im langsamen anonymen
+    Pool. Filter nach type=journal-article, from-pub-date für Inkrementell-Abfragen.
+
+    '
+- id: lit_openalex_api
+  name: OpenAlex API
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://openalex.org/
+  feed_url: https://api.openalex.org/works
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://docs.openalex.org/
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 429 (Rate-Limit des Prüfpfads, mehrfach — nicht der Quelle)
+  aktiv: true
+  hinweise: 'NICHT VERIFIZIERT — drei Versuche liefen in 429 der geteilten Fetch-Infrastruktur, nicht in einen Fehler
+    von OpenAlex. Dokumentiert: kein Key nötig, Polite Pool über &mailto=<email>, 100.000 Requests/Tag und 10 req/s
+    im Polite Pool. Sehr gute Abdeckung, offene Lizenz (CC0), Volltextsuche über Titel/Abstract, Filter nach Konzept
+    und Datum. Beim ersten Lauf selbst gegenprüfen.
+
+    '
+- id: lit_osf_socarxiv_api
+  name: OSF API (SocArXiv Preprints)
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://osf.io/preprints/socarxiv
+  feed_url: https://api.osf.io/v2/preprints/?filter[provider]=socarxiv
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://developer.osf.io/
+  intervall: wöchentlich
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: robots_disallowed (Prüfpfad)
+  aktiv: true
+  hinweise: 'Nicht verifiziert. Dokumentiert: JSONAPI-Format, ohne Token ca. 100 req/h, mit kostenlosem OSF-Token
+    deutlich mehr. Token über OSF-Account -> Settings -> Personal Access Tokens.
+
+    '
+- id: lit_semantic_scholar_api
+  name: Semantic Scholar Graph API
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://www.semanticscholar.org/
+  feed_url: https://api.semanticscholar.org/graph/v1/paper/search
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://api.semanticscholar.org/api-docs/graph
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 429 (Rate-Limit des Prüfpfads — nicht der Quelle)
+  aktiv: true
+  hinweise: 'NICHT VERIFIZIERT (429, zwei Versuche). Dokumentiert: ohne Key stark gedrosselt (ca. 100 req/5min,
+    geteiltes Kontingent). Kostenloser API-Key auf Antrag über https://www.semanticscholar.org/product/api#api-key-form
+    (Bearbeitungszeit einige Tage). Mit Key 1 req/s. Für einen täglichen Lauf reicht der Zugang ohne Key meist.
+
+    '
+- id: pol_luiza_newsletter
+  name: Luiza's Newsletter (Luiza Jarovsky) — AI Policy & Regulation
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://www.luizasnewsletter.com/
+  feed_url: https://www.luizasnewsletter.com/feed
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0, neuester Artikel 2026-08-25, lastBuildDate 2026-08-26. ~99.000 Abonnenten. Volltext
+    teils paywalled, Feed liefert aber Titel/Teaser zuverlässig. Sehr guter Frühindikator für EU-AI-Act- Enforcement-Themen.
+
+    '
+- id: pol_oecd_ai
+  name: OECD.AI Policy Observatory
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://oecd.ai/
+  feed_url: https://wp.oecd.ai/feed/
+  format: rss
+  format_original: RSS (Blog) + HTML-Scraping (Policy-Datenbank)
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (Dashboard); Feed selbst ungetestet
+  aktiv: true
+  hinweise: 'Dashboard verifiziert. Der "Policy Navigator" umfasst 80+ Jurisdiktionen, bietet aber KEINE API und
+    KEINEN Export — nur Filter-UI. Im Footer ist ein WordPress-Feed referenziert: https://wp.oecd.ai/feed/ (deckt
+    Blog/News ab, nicht die Policy-Datenbank). Feed selbst noch ungetestet. Für die Policy-Datenbank ist Scraping
+    nötig.
+
+    '
+- id: pol_weitere_thinktanks
+  name: Brookings / CSIS / CEPS / Euractiv
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://www.brookings.edu/
+  feed_url: https://www.brookings.edu/feed/
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: Brookings 403; Euractiv proxy-abgewiesen; CSIS/CEPS ungetestet
+  aktiv: true
+  hinweise: 'Brookings /feed/ gab 403 (Bot-Abwehr, Feed existiert vermutlich). Euractiv /feed/ wurde vom Proxy abgewiesen
+    — ungeklärt. CSIS (csis.org) und CEPS (ceps.eu) wurden nicht getestet; beide sind WordPress-basiert, /feed/
+    ist dort der wahrscheinliche Pfad. Alle vier sind Sekundärquellen — niedrige Priorität, im ersten Lauf mit echtem
+    User-Agent nachtesten.
+
+    '
+- id: trk_ai_incident_database
+  name: AI Incident Database (Responsible AI Collaborative)
+  jurisdiktion: intl
+  kategorie: rechtsprechung
+  url: https://incidentdatabase.ai/
+  feed_url: https://incidentdatabase.ai/rss.xml
+  format: rss
+  format_original: RSS + GraphQL + Bulk-Snapshots
+  auth: false
+  api_doku: https://github.com/responsible-ai-collaborative/aiid
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: "Verifiziert RSS 2.0, 50+ Items, neuestes 2026-08-25. Der einzige KI-Tracker mit vollwertigem maschinenlesbarem\
+    \ Zugang:\n  - RSS: /rss.xml\n  - Komplett-Dump: https://incidentdatabase.ai/research/snapshots/\n  - Code +\
+    \ Schema: GitHub responsible-ai-collaborative/aiid\nTrackt Vorfälle, nicht Gerichtsverfahren — ergänzt die Case-Tracker,\
+    \ ersetzt sie nicht.\n"
+- id: defekt_ada_lovelace_feed
+  name: Ada Lovelace Institute RSS (leer!)
+  jurisdiktion: uk
+  kategorie: policy
+  url: https://www.adalovelaceinstitute.org/
+  feed_url: https://www.adalovelaceinstitute.org/feed/
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 200 (aber 0 Items)
+  aktiv: true
+  hinweise: 'ACHTUNG STILLER FEHLER: Der Feed ist syntaktisch valides RSS 2.0 mit korrektem lastBuildDate (2026-08-26
+    15:36 UTC), enthält aber KEIN einziges <item>. Ein naiver Parser meldet "keine Änderungen" statt eines Fehlers
+    — genau die Sorte Quelle, die ein Monitoring unbemerkt blind macht. EMPFEHLUNG: Feeds mit 0 Items aktiv als
+    Fehler behandeln und alarmieren. Bis zur Klärung Ada Lovelace per Scraping der Publikationsseite.
+
+    '
+- id: uk_find_case_law_atom
+  name: Find Case Law (The National Archives) — Atom + öffentliche API
+  jurisdiktion: uk
+  kategorie: rechtsprechung
+  url: https://caselaw.nationalarchives.gov.uk/
+  feed_url: https://caselaw.nationalarchives.gov.uk/atom.xml?query=artificial+intelligence
+  format: atom
+  format_original: Atom
+  auth: false
+  api_doku: https://nationalarchives.github.io/ds-find-caselaw-docs/public#tag/Document-metadata/operation/atomFeed
+  intervall: 6h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Glücksfall: freie Volltextsuche als Atom-Feed, Query direkt in der URL. Verifiziert 2026-08-13 als
+    neuestes Item, 49 Seiten Treffer zu "artificial intelligence". Liefert pro Entry Neutral Citation, Gericht,
+    Datum sowie Links auf PDF UND XML (LegalDocML) der Entscheidung. OpenAPI-Spec vorhanden: https://raw.githubusercontent.com/nationalarchives/ds-find-caselaw-docs/refs/heads/main/doc/openapi/public_api.yml
+    Beliebig viele thematische Feeds durch Variation des query-Parameters.
+
+    '
+- id: uk_govuk_org_atom
+  name: GOV.UK Organisations-Atom-Feeds (DSIT, CMA, AISI, ...)
+  jurisdiktion: uk
+  kategorie: behoerde
+  url: https://www.gov.uk/government/organisations
+  feed_url: https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology.atom
+  format: atom
+  format_original: Atom
+  auth: false
+  api_doku: https://content-api.publishing.service.gov.uk/
+  intervall: 6h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: "SEHR NÜTZLICHES MUSTER: jede GOV.UK-Organisationsseite + \".atom\". Einzeln verifiziert:\n  .../department-for-science-innovation-and-technology.atom\n\
+    \      -> \"DSIT - Activity on GOV.UK\", neuestes 2026-08-24  [200]\n  .../competition-and-markets-authority.atom\n\
+    \      -> \"CMA - Activity on GOV.UK\", neuestes 2026-08-21   [200]\n  .../ai-security-institute.atom\n    \
+    \  -> \"AI Security Institute - Activity on GOV.UK\",\n         neuestes 2026-05-25                        \
+    \        [200]\nAISI-Feed ist deutlich träger (Mai 2026) — normal, wenig Publikationen. Deckt DSIT, CMA, AISI\
+    \ und damit Punkt 3 weitgehend ab. Ergänzend GOV.UK Content API für strukturierte Inhalte.\n"
+- id: uk_hansard_api
+  name: UK Hansard API
+  jurisdiktion: uk
+  kategorie: gesetzgebung
+  url: https://hansard.parliament.uk/
+  feed_url: https://hansard-api.parliament.uk/
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://hansard-api.parliament.uk/swagger/ui/index
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (Seite erreichbar; OpenAPI-Spec referenziert)
+  aktiv: true
+  hinweise: 'Host antwortet, eine OpenAPI-Spezifikation ist auf der Seite referenziert; die konkreten Endpunkte
+    konnte ich aus der reinen Navigationsseite nicht auslesen. Kein Key erkennbar. Vor Produktivnutzung: Swagger-UI
+    öffnen und Endpunkte fixieren. Für Debatten/Ministeraussagen zu KI relevant, nicht für Gesetzestexte.
+
+    '
+- id: uk_ico
+  name: ICO — Information Commissioner's Office
+  jurisdiktion: uk
+  kategorie: behoerde
+  url: https://ico.org.uk/
+  feed_url: https://ico.org.uk/global/rss-feeds/news-and-blogs/
+  format: rss
+  format_original: RSS (News); Enforcement-Feed eingestellt
+  auth: false
+  api_doku: https://ico.org.uk/global/rss-feeds/
+  intervall: 12h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (Übersicht); /about-the-ico/media-centre/.../rss = 404
+  aktiv: true
+  hinweise: "WICHTIGER BEFUND — verifiziert: Der Enforcement-RSS-Feed ist EINGESTELLT. O-Ton ICO: \"The Enforcement\
+    \ RSS is currently unavailable as we've redesigned the way we present enforcement items.\" Man erwägt eine Neuauflage\
+    \ \"depending on demand\". Damit sind ICO-Bussgelder/Enforcement NUR per Scraping verfolgbar. Weiter vorhanden\
+    \ (Unterseiten, Feed-URLs selbst ungetestet):\n  /global/rss-feeds/news-and-blogs/\n  /global/rss-feeds/decision-notices/\n\
+    Die häufig zitierte URL /about-the-ico/media-centre/news-and-blogs/rss/ liefert 404.\n"
+- id: uk_judiciary_feed
+  name: Courts and Tribunals Judiciary (judiciary.uk)
+  jurisdiktion: uk
+  kategorie: rechtsprechung
+  url: https://www.judiciary.uk/
+  feed_url: https://www.judiciary.uk/feed/
+  format: atom
+  format_original: Atom
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert Atom 1.0, neuestes Item 2026-08-25. Enthält Speeches (u.a. Master of the Rolls zu Digitalisierung/KI),
+    Practice Directions und Ankündigungen — nicht die Urteile selbst (dafür Find Case Law).
+
+    '
+- id: uk_legislation_gov_uk
+  name: legislation.gov.uk — API / Atom-Feeds
+  jurisdiktion: uk
+  kategorie: gesetzgebung
+  url: https://www.legislation.gov.uk/
+  feed_url: https://www.legislation.gov.uk/new/data.feed
+  format: atom
+  format_original: Atom + XML (CLML) + RDF
+  auth: false
+  api_doku: https://www.legislation.gov.uk/developer
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: Developer-Seite 200; /new/data.feed robots_disallowed
+  aktiv: true
+  hinweise: 'Developer Zone verifiziert: Open Government Licence v3.0, "free for you to reuse", kein API-Key erwähnt,
+    keine Rate-Limits dokumentiert. URI-Schema: http://www.legislation.gov.uk/id/... Jede Inhaltsseite ist per Suffix
+    maschinenlesbar: /data.xml (CLML), /data.feed (Atom), /data.rdf, /data.htm. Der Neuerscheinungs-Feed /new/data.feed
+    war robots-gesperrt für meinen Fetcher — im GitHub Action mit eigenem User-Agent sehr wahrscheinlich abrufbar.
+    Erster Lauf: selbst gegenprüfen. Eine der technisch besten Legislativquellen weltweit.
+
+    '
+- id: uk_parliament_bills_api
+  name: UK Parliament Bills API v1
+  jurisdiktion: uk
+  kategorie: gesetzgebung
+  url: https://bills.parliament.uk/
+  feed_url: https://bills-api.parliament.uk/api/v1/Bills
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://bills-api.parliament.uk/index.html
+  intervall: 6h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert: sauberes JSON, 4.018 Bills gesamt, kein Key nötig. Parameter take/skip für Paging, Filter
+    nach Session/House/Stage. Deckt Gesetzgebungsverfahren inkl. Stages ab — ideal für Änderungserkennung über billId
+    + lastUpdate.
+
+    '
+- id: trk_chatgpt_eating_world
+  name: ChatGPT Is Eating the World (Edward Lee) — KI-Verfahrenstracker
+  jurisdiktion: us
+  kategorie: rechtsprechung
+  url: https://www.chatgptiseatingtheworld.com/
+  feed_url: https://chatgptiseatingtheworld.substack.com/feed
+  format: rss
+  format_original: RSS (Newsletter) + HTML-Scraping (Tracker-Tabellen)
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200 (Site); Substack-Feed: robots_disallowed beim Test'
+  aktiv: true
+  hinweise: 'Site verifiziert, neuester Beitrag 2026-08-23. Aktuell 137 US- Urheberrechtsklagen erfasst. Der inhaltlich
+    beste frei zugängliche KI-Verfahrenstracker. Enthält mehrere Tracker: AI Copyright Case Tracker, AI Tort Lawsuit
+    Tracker, BIPA Litigation Tracker, Web Scraping & AI Agents Case Tracker, Master Calendar of Copyright Suits.
+    KEIN Export/keine API für die Tabellen — Scraping nötig. Der Substack-Feed (Standard-Substack-Pfad /feed) deckt
+    die Blogposts ab, nicht die Tabellen; er war beim Test robots-limitiert, ist aber der übliche funktionierende
+    Substack-Feedpfad. Selbst nachtesten.
+
+    '
+- id: us_congress_api
+  name: Congress.gov API v3
+  jurisdiktion: us
+  kategorie: gesetzgebung
+  url: https://www.congress.gov/
+  feed_url: https://api.congress.gov/v3/bill
+  format: json
+  format_original: JSON-API
+  auth: true
+  api_doku: https://gpo.congress.gov/
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 429 (DEMO_KEY überlastet — Endpoint existiert, Key fehlt)
+  aktiv: true
+  hinweise: 'NICHT abschliessend verifiziert: mit DEMO_KEY kam durchgängig 429 (geteiltes Demo-Kontingent erschöpft).
+    Endpunkt und Pfadstruktur sind aber dokumentiert und der Host antwortet. Mit eigenem Key erneut testen. Key
+    kostenlos über https://api.data.gov/signup/ Endpunkte: /bill, /amendment, /summaries, /committee-report, /congress.
+
+    '
+- id: us_courtlistener_api
+  name: CourtListener / RECAP REST API v4 (Free Law Project)
+  jurisdiktion: us
+  kategorie: rechtsprechung
+  url: https://www.courtlistener.com/
+  feed_url: https://www.courtlistener.com/api/rest/v4/
+  format: json
+  format_original: JSON-API
+  auth: true
+  api_doku: https://www.courtlistener.com/help/api/rest/
+  intervall: 6h (Rate-Limit beachten!)
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 302 -> 200 (Doku via wiki.free.law)
+  aktiv: true
+  hinweise: 'Wichtigste US-Rechtsprechungsquelle. Token-Auth per Header "Authorization: Token <token>". Kostenlos.
+    HARTES RATE-LIMIT (verifiziert): 5 req/min, 50 req/h, 125 req/Tag im Default-Tier, rollierendes Fenster. Das
+    ist für einen stündlichen GitHub-Action-Lauf knapp — Requests bündeln, nicht pro Fall pollen. Membership/Commercial
+    Partnership hebt die Limits an. Deckt 3.359 Jurisdiktionen ab. ALERT-FUNKTION: Such-Alerts per E-Mail ODER WEBHOOK
+    — für den Tracker besser als Polling, spart das Rate-Limit komplett. Citation-Lookup-API als Halluzinationsschutz
+    vorhanden.
+
+    '
+- id: us_federal_register_api
+  name: Federal Register API v1
+  jurisdiktion: us
+  kategorie: gesetzgebung
+  url: https://www.federalregister.gov/
+  feed_url: https://www.federalregister.gov/api/v1/documents.json
+  format: json
+  format_original: JSON-API
+  auth: false
+  api_doku: https://www.federalregister.gov/developers/documentation/api/v1
+  intervall: 1h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Beste US-Quelle überhaupt. Kein Key, kein Rate-Limit-Problem, sauberes JSON. Volltextsuche + Facetten.
+    Presidential Documents (Executive Orders) über conditions[type][]=PRESDOCU — verifiziert: 8.553 Dokumente, neuestes
+    2026-08-26. Deckt damit auch Punkt "Executive Orders" vollständig ab. Ersetzt Scraping von whitehouse.gov für
+    alles ausser Tagesaktualität.
+
+    '
+- id: us_ftc_rss
+  name: FTC Press Releases
+  jurisdiktion: us
+  kategorie: behoerde
+  url: https://www.ftc.gov/
+  feed_url: https://www.ftc.gov/feeds/press-release.xml
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 6h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0 "Press Release Feed", neuestes 2026-08-26. FTC ist bei KI-Enforcement (Section
+    5, dark patterns, AI claims) die aktivste US-Behörde.
+
+    '
+- id: us_govinfo_api
+  name: GovInfo API (GPO)
+  jurisdiktion: us
+  kategorie: gesetzgebung
+  url: https://www.govinfo.gov/
+  feed_url: https://api.govinfo.gov/collections
+  format: json
+  format_original: JSON-API
+  auth: true
+  api_doku: https://api.govinfo.gov/docs
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200 (Doku verifiziert); Endpoint mit DEMO_KEY: 404/429'
+  aktiv: true
+  hinweise: 'Key kostenlos über https://api.data.gov/signup/ (40-Zeichen-String), identisch nutzbar für Congress.gov
+    und Regulations.gov. Zwei Services: Collections (neue/geänderte Dokumente seit Zeitstempel — genau das, was
+    ein Änderungstracker braucht) und Packages (Inhalte, Metadaten, PDF/HTML/XML). Deckt Federal Register, Congressional
+    Record, US Code, CFR ab. Rate-Limit in der Doku nicht beziffert; api.data.gov liegt üblicherweise bei 1.000
+    req/h.
+
+    '
+- id: us_legiscan_api
+  name: LegiScan API
+  jurisdiktion: us
+  kategorie: gesetzgebung
+  url: https://legiscan.com/
+  feed_url: https://api.legiscan.com/
+  format: json
+  format_original: JSON-API
+  auth: true
+  api_doku: https://legiscan.com/documentation/legiscan
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 200 (Doku verifiziert)
+  aktiv: false
+  hinweise: 'ABGESCHALTET 10.09.2026: Die Registrierung bei LegiScan setzt einen US-Wohnsitz voraus; von ausserhalb
+    der USA ist kein API-Schluessel zu bekommen. Ersatz fuer US-Bundesstaatengesetzgebung waere Congress.gov (Bund)
+    plus die Legislaturportale einzelner Staaten.'
+  hinweise_alt: 'DIE Lösung für US-Bundesstaaten — ersetzt 50 Einzel-Scraper und deckt Colorado, Texas, Illinois,
+    New York, Utah, Kalifornien gemeinsam ab. Key: kostenlose Registrierung auf legiscan.com, dann Key im Account
+    erzeugen (Login zwingend erforderlich). Tiers (verifiziert): Public API kostenlos, 30.000 Queries/Monat, Pull.
+    Pull API kostenpflichtig 100k-250k/Monat. Push API (Enterprise) repliziert die Datenbank, Updates alle 4h bzw.
+    optional 15min. 30k/Monat = ca. 1.000/Tag — für stündliches Polling mehrerer States ausreichend, wenn man getMasterList
+    (Change-Hashes!) statt getBill pollt. Change-Hash-Mechanik unbedingt nutzen, spart 90% der Calls. ERD + Client-Libs:
+    https://api.legiscan.com/dl/
+
+    '
+- id: us_nist_rss
+  name: NIST News (AI RMF, AI Standards)
+  jurisdiktion: us
+  kategorie: behoerde
+  url: https://www.nist.gov/
+  feed_url: https://www.nist.gov/news-events/news/rss.xml
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0 "NIST News", 40 Items, neuestes 2026-08-24. Breiter Feed (auch Quanten/Materialforschung)
+    — Filterung auf "AI"/"artificial intelligence" im Titel nötig, sonst viel Rauschen.
+
+    '
+- id: us_regulations_gov_api
+  name: Regulations.gov API v4
+  jurisdiktion: us
+  kategorie: behoerde
+  url: https://www.regulations.gov/
+  feed_url: https://api.regulations.gov/v4/documents
+  format: json
+  format_original: JSON-API
+  auth: true
+  api_doku: https://open.gsa.gov/api/regulationsgov/
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: 429 (DEMO_KEY überlastet — Endpoint existiert, Key fehlt)
+  aktiv: true
+  hinweise: 'NICHT abschliessend verifiziert (429 mit DEMO_KEY, mehrfach versucht). Key kostenlos über https://api.data.gov/signup/
+    Dokumentiertes Limit: 1.000 Requests/Stunde pro Key. Zugriff auf Dockets, Kommentare, Regulierungsdokumente
+    — die Quelle für Notice-and-Comment-Verfahren zu KI (NIST, FTC, OMB).
+
+    '
+- id: us_sec_rss
+  name: SEC Press Releases
+  jurisdiktion: us
+  kategorie: behoerde
+  url: https://www.sec.gov/
+  feed_url: https://www.sec.gov/news/pressreleases.rss
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: https://www.sec.gov/os/webmaster-faq#developers
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0, neuestes 2026-08-18. SEC verlangt laut eigener Policy einen aussagekräftigen User-Agent
+    mit Kontakt-E-Mail im User-Agent (Name des Dienstes plus eine echte Adresse) — im Feed selbst nicht erzwungen, aber bei EDGAR-Endpunkten
+    hart. Unbedingt setzen.
+
+    '
+- id: us_whitehouse_presidential_actions
+  name: White House Presidential Actions (Executive Orders)
+  jurisdiktion: us
+  kategorie: gesetzgebung
+  url: https://www.whitehouse.gov/presidential-actions/
+  feed_url: https://www.whitehouse.gov/presidential-actions/feed/
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 3h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Verifiziert RSS 2.0, neuestes Item 2026-08-26 21:18 UTC. Schneller als der Federal Register (dort erst
+    nach Veröffentlichung). Für Tagesaktualität diesen Feed nehmen, für Rechtsverbindlichkeit und Volltext den Federal
+    Register.
+
+    '
+- id: au_aph_bills
+  name: Parliament of Australia — Bills & Legislation / Committees
+  jurisdiktion: au
+  kategorie: gesetzgebung
+  url: https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig (RSS vermutet, nicht verifizierbar)
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '403'
+  aktiv: false
+  hinweise: 'Abruf mit 403 abgewiesen (Bot-Abwehr gegen meinen Fetcher). APH bietet historisch RSS-Feeds für Bills
+    und Committee-Inquiries an; die konkreten URLs konnte ich NICHT verifizieren. TODO beim ersten Lauf: https://www.aph.gov.au/
+    im Browser öffnen und RSS-Endpunkte aus dem <link rel="alternate"> im HTML-Head ziehen.
+
+    '
+- id: au_austlii
+  name: AustLII
+  jurisdiktion: au
+  kategorie: rechtsprechung
+  url: https://www.austlii.edu.au/
+  feed_url: null
+  format: blockiert
+  format_original: blockiert (Anti-Bot)
+  auth: false
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '403'
+  aktiv: false
+  hinweise: 'Abruf mit 403 abgewiesen (Bot-Abwehr). AustLII untersagt in seinen Nutzungsbedingungen automatisiertes
+    Crawling ohne Absprache. ERSATZ: au_fedcourt_judgments_rss (Federal Court, verifiziert) und die Gerichts-Feeds
+    direkt. Für AustLII-Volltext ggf. Kontakt zu AustLII aufnehmen (sie vergeben auf Anfrage Zugänge für Forschung).
+
+    '
+- id: au_federal_register_legislation
+  name: Federal Register of Legislation (AU)
+  jurisdiktion: au
+  kategorie: gesetzgebung
+  url: https://www.legislation.gov.au/
+  feed_url: https://www.legislation.gov.au/sitemap.xml
+  format: scraping
+  format_original: HTML-Scraping + Sitemap (keine öffentliche API)
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (robots.txt verifiziert)
+  aktiv: false
+  hinweise: "VERIFIZIERT: keine öffentliche API. Der australische API-Katalog api.gov.au listet KEINE Legislation-/Parliament-API\
+    \ (nur ABS, Superannuation, Beispiel-APIs) — geprüft. robots.txt erlaubt Crawling weitgehend:\n  User-agent:\
+    \ *  /  Crawl-delay: 10  /  Disallow: /assets/\n  Sitemap: https://www.legislation.gov.au/sitemap.xml\nCRAWL-DELAY\
+    \ 10 SEKUNDEN UNBEDINGT EINHALTEN. Scraping ist damit zulässig, aber langsam — Sitemap-Diff ist der effizienteste\
+    \ Weg zur Änderungserkennung.\n"
+- id: au_wa_digital_government
+  name: Office of Digital Government WA (DGov)
+  jurisdiktion: au
+  kategorie: behoerde
+  url: https://www.wa.gov.au/organisation/office-of-digital-government
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet. DGov WA hat die WA-KI-Policy (AI Assurance Framework) veröffentlicht. Kein bekannter
+    Feed — wöchentlicher Diff-Scrape oder manuelle Pflege.
+
+    '
+- id: au_wa_parliament
+  name: Parliament of Western Australia
+  jurisdiktion: au
+  kategorie: gesetzgebung
+  url: https://www.parliament.wa.gov.au/
+  feed_url: null
+  format: scraping
+  format_original: unbekannt, vermutlich HTML-Scraping
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '403'
+  aktiv: false
+  hinweise: '403 (Bot-Abwehr). Kein Feed nachweisbar. Ersatz für Gesetzesstände: au_wa_legislation_atom deckt den
+    Output (as passed / as made) verlässlich ab — der parlamentarische Zwischenstand fehlt dann allerdings.
+
+    '
+- id: au_wa_supreme_court
+  name: Supreme Court of Western Australia
+  jurisdiktion: au
+  kategorie: rechtsprechung
+  url: https://www.supremecourt.wa.gov.au/
+  feed_url: null
+  format: scraping
+  format_original: unbekannt, vermutlich HTML-Scraping
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet. WA-Entscheidungen laufen praktisch über AustLII (blockiert) oder eCourts Portal WA.
+    Kein bekannter Feed. Realistisch: manuelle Pflege oder Scraping des eCourts-Portals.
+
+    '
+- id: au_weitere_behoerden
+  name: ACCC / ASIC / APRA / National AI Centre / Productivity Commission / Standards Australia
+  jurisdiktion: au
+  kategorie: behoerde
+  url: https://www.industry.gov.au/
+  feed_url: null
+  format: unklar
+  format_original: gemischt, überwiegend ungetestet
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: ACCC 404, ASIC 404, Productivity Commission 404 (geratene Pfade)
+  aktiv: false
+  hinweise: 'Sammelposten. Die geratenen RSS-Pfade für ACCC (/rss/media-releases.xml), ASIC (/rss/media-releases.xml)
+    und Productivity Commission (/rss) lieferten jeweils 404. APRA, National AI Centre (industry.gov.au) und Standards
+    Australia wurden nicht getestet. TODO: je Behörde einmal die Startseite öffnen und <link rel="alternate" type="application/rss+xml">
+    aus dem HTML-Head auslesen — das ist der zuverlässigste Weg, statt Pfade zu raten.
+
+    '
+- id: de_bfdi
+  name: BfDI — Bundesbeauftragte für den Datenschutz
+  jurisdiktion: de
+  kategorie: behoerde
+  url: https://www.bfdi.bund.de/
+  feed_url: null
+  format: unklar
+  format_original: RSS vermutet, nicht verifiziert
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: robots_disallowed (Prüfpfad)
+  aktiv: false
+  hinweise: 'Geratener SiteGlobals-RSS-Pfad robots-gesperrt. Nicht verifiziert. Bundesbehörden auf Basis des Government
+    Site Builder nutzen typischerweise /SiteGlobals/Functions/RSSFeed/... — Pfad im HTML-Head gegenprüfen.
+
+    '
+- id: de_bsi
+  name: BSI — Bundesamt für Sicherheit in der Informationstechnik
+  jurisdiktion: de
+  kategorie: behoerde
+  url: https://www.bsi.bund.de/
+  feed_url: null
+  format: unklar
+  format_original: RSS vermutet, nicht verifiziert
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 404 (geratener Pfad)
+  aktiv: false
+  hinweise: 'Geratener Feed-Pfad lieferte 404. BSI bietet RSS an (Presse, Warnungen/CERT-Bund) — korrekte URLs aus
+    dem HTML-Head der Startseite ziehen. BSI ist für KI-Sicherheitsanforderungen und als mögliche Marktüberwachungsbehörde
+    relevant.
+
+    '
+- id: de_bundesnetzagentur
+  name: Bundesnetzagentur (KI-Marktüberwachung / KI-Servicedesk)
+  jurisdiktion: de
+  kategorie: behoerde
+  url: https://www.bundesnetzagentur.de/
+  feed_url: null
+  format: unklar
+  format_original: RSS vermutet, nicht verifiziert
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 404 (geratener Pfad)
+  aktiv: false
+  hinweise: 'Geratener Feed-Pfad lieferte 404, nicht verifiziert. HOHE INHALTLICHE PRIORITÄT: Die BNetzA ist als
+    deutsche Marktüberwachungsbehörde bzw. nationale Koordinierungsstelle nach AI Act vorgesehen. Feed-URL beim
+    ersten Lauf ermitteln.
+
+    '
+- id: de_bundesrat
+  name: Bundesrat
+  jurisdiktion: de
+  kategorie: gesetzgebung
+  url: https://www.bundesrat.de/
+  feed_url: null
+  format: unklar
+  format_original: RSS vermutet, nicht verifiziert
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: robots_disallowed (Prüfpfad)
+  aktiv: false
+  hinweise: 'Geratener Feed-Pfad robots-gesperrt, nicht verifiziert. Der Bundesrat betreibt ein Dokumentensystem
+    (Drucksachen) ohne bekannte öffentliche API. Praktikabler Ersatz: Bundesrats-Drucksachen tauchen weitgehend
+    auch im DIP (de_bundestag_dip_api) auf.
+
+    '
+- id: de_bverfg_rss
+  name: Bundesverfassungsgericht RSS
+  jurisdiktion: de
+  kategorie: rechtsprechung
+  url: https://www.bundesverfassungsgericht.de/
+  feed_url: null
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: robots_disallowed (Prüfpfad)
+  aktiv: false
+  hinweise: 'Der geratene SiteGlobals-Pfad war robots-gesperrt, die korrekte Feed-URL konnte NICHT bestätigt werden.
+    BVerfG bietet Feeds für Entscheidungen und Pressemitteilungen an — URLs beim ersten Lauf aus dem HTML-Head von
+    https://www.bundesverfassungsgericht.de/DE/Homepage/homepage_node.html auslesen (<link rel="alternate" type="application/rss+xml">).
+
+    '
+- id: de_dsk
+  name: Datenschutzkonferenz (DSK)
+  jurisdiktion: de
+  kategorie: behoerde
+  url: https://www.datenschutzkonferenz-online.de/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet. Die DSK veröffentlicht Orientierungshilfen (u.a. zu KI und Datenschutz) als PDF auf
+    einer schlichten Seite ohne bekannten Feed. Realistisch: wöchentlicher Diff-Scrape der Publikationsliste.
+
+    '
+- id: de_landesrechtsprechung
+  name: Landesrechtsprechungsdatenbanken (16 Länder)
+  jurisdiktion: de
+  kategorie: rechtsprechung
+  url: https://www.justiz.de/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig, uneinheitlich
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet. STRUKTURPROBLEM: 16 Bundesländer betreiben unterschiedliche Systeme (teils juris-basiert,
+    teils eigene). Kein einheitlicher Feed, keine gemeinsame API. Für KI-Rechtsprechung sind die Länder derzeit
+    ohnehin zweitrangig gegenüber BGH/BVerwG/BVerfG. EMPFEHLUNG: zunächst weglassen, später gezielt einzelne Länder
+    (NRW und Bayern haben die grössten offenen Datenbanken).
+
+    '
+- id: lit_hein_repec_de
+  name: HeinOnline / RePEc / deutsche Fachzeitschriften
+  jurisdiktion: de
+  kategorie: literatur
+  url: https://home.heinonline.org/
+  feed_url: null
+  format: kein-feed
+  format_original: 'gemischt: Paywall bzw. uneinheitlich'
+  auth: true
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: "Nicht getestet. Sammelposten mit drei unterschiedlichen Problemen: - HeinOnline: Institutslizenz nötig,\
+    \ API nur für Institutionen\n  (HeinOnline API auf Anfrage), kein offener Feed.\n- RePEc: bietet offene Metadaten\
+    \ (RDF/ReDIF über\n  Archive-Struktur, NEP-Reports als Mailinglisten) — für\n  Rechtswissenschaft aber dünn\
+    \ besetzt, primär Ökonomie.\n- Deutsche Fachzeitschriften (NJW, MMR, ZD, CR, K&R): fast\n  durchgängig Beck/Otto-Schmidt-Paywall\
+    \ OHNE Feeds.\n  Ausnahmen mit Feeds sind die Blogs: JuWissBlog, Verfassungsblog\n  (verfassungsblog.de/feed\
+    \ — WordPress, sehr wahrscheinlich nutzbar),\n  LTO (lto.de). Diese drei wären der pragmatische Einstieg für\
+    \ die\n  deutschsprachige Debatte, wurden hier aber NICHT getestet.\n"
+- id: defekt_edps_rss
+  name: EDPS RSS (nicht auffindbar)
+  jurisdiktion: eu
+  kategorie: behoerde
+  url: https://www.edps.europa.eu/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 404 (auf /rss_en)
+  aktiv: false
+  hinweise: '/rss_en liefert 404. Ein funktionierender EDPS-Feed liess sich nicht nachweisen. EDPS-Stellungnahmen
+    (auch zu KI) daher nur per Scraping von https://www.edps.europa.eu/data-protection/our-work/publications_en
+    oder indirekt über eu_edpb_rss (viele gemeinsame Opinions).
+
+    '
+- id: defekt_enisa_rss
+  name: ENISA RSS (nicht verifizierbar)
+  jurisdiktion: eu
+  kategorie: behoerde
+  url: https://www.enisa.europa.eu/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 403 (/rss-feeds), 404 (/front-page/rss-feeds und /media/.../RSS)
+  aktiv: false
+  hinweise: 'Drei plausible Feed-Pfade getestet, keiner nutzbar: /rss-feeds gab 403 (Bot-Abwehr), /front-page/rss-feeds
+    und der alte Plone-Pfad /media/news-items/news-wires/RSS gaben 404. ENISA hat die Site migriert; alte Feed-URLs
+    aus Anleitungen sind tot. Beim ersten Lauf im Browser prüfen, ob /rss-feeds mit echtem User-Agent erreichbar
+    ist — die Seite existiert offenbar (403 statt 404).
+
+    '
+- id: defekt_eurlex_display_feeds
+  name: EUR-Lex display-feeds.html (DEFEKT)
+  jurisdiktion: eu
+  kategorie: gesetzgebung
+  url: https://eur-lex.europa.eu/EN/display-feeds.html
+  feed_url: null
+  format: unklar
+  format_original: n/a
+  auth: false
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '404'
+  aktiv: false
+  hinweise: '404 verifiziert. Auch /predefined-rss.html lieferte zwar 200, die Feed-Liste war aber nicht auslesbar
+    (JS-gerendert); die archivierte Version dieser Seite liegt nur noch im UK National Archives EU-Exit- Webarchiv.
+    EUR-Lex-RSS funktioniert heute primär über personalisierte "My EUR-Lex"-Suchabos (Account nötig), nicht über
+    stabile öffentliche Feed-URLs. EMPFEHLUNG: EUR-Lex NICHT über RSS anbinden, sondern über eu_sparql_cellar. Das
+    ist der stabile, dokumentierte Weg.
+
+    '
+- id: defekt_kai_zenner_feed
+  name: Kai Zenner Website RSS (nicht vorhanden)
+  jurisdiktion: eu
+  kategorie: policy
+  url: https://www.kaizenner.eu/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 404 auf /feed
+  aktiv: false
+  hinweise: 'Kein RSS auffindbar. Zenner (Büro MdEP Voss) publiziert primär über LinkedIn/X — beides ohne offene
+    Feeds. Für den Tracker: entweder Scraping von kaizenner.eu/publications oder manuell verfolgen. Inhaltlich sehr
+    wertvoll für AI-Act-Implementierungsdetails.
+
+    '
+- id: eu_cen_cenelec_jtc21
+  name: CEN-CENELEC JTC 21 (KI-Normung / harmonisierte Normen)
+  jurisdiktion: eu
+  kategorie: behoerde
+  url: https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 200 (kein Feed/API vorhanden)
+  aktiv: false
+  hinweise: "Verifiziert: KEIN RSS, KEINE API. JTC 21 (gegründet 01.06.2021, 300+ Experten aus 20+ Ländern) erarbeitet\
+    \ die harmonisierten Normen zum AI Act — inhaltlich hochrelevant, technisch aber nur scrapebar. Maschinennäheste\
+    \ Einstiegspunkte (Arbeitsprogramm):\n  https://wp2025.cencenelec.eu/?Sectors[]=6737\n  https://standards.cencenelec.eu/dyn/www/f?p=205:7:0::::FSP_ORG_ID:2916257\n\
+    Eigene Seite: https://jtc21.eu/ (Newsletter statt Feed). EMPFEHLUNG: wöchentlicher Diff-Scrape des Arbeitsprogramms.\n"
+- id: eu_council_register
+  name: Rat der EU — Öffentliches Dokumentenregister
+  jurisdiktion: eu
+  kategorie: gesetzgebung
+  url: https://www.consilium.europa.eu/en/documents-publications/public-register/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 200 (Seite geladen, kein Feed/API auffindbar)
+  aktiv: false
+  hinweise: 'Seite verifiziert erreichbar, aber WEDER RSS NOCH API dokumentiert. Es gibt eine "Latest documents"-Ansicht,
+    die sich scrapen liesse. Das ist eine echte Lücke: Rats-Arbeitsdokumente (Trilog-Stände zum AI Act) sind so
+    nur mit Scraping oder manuell verfolgbar.
+
+    '
+- id: eu_have_your_say
+  name: Kommission — Have your say (Konsultationen)
+  jurisdiktion: eu
+  kategorie: behoerde
+  url: https://ec.europa.eu/info/law/better-regulation/have-your-say_en
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig (interne JSON-API vorhanden, undokumentiert)
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 200 (nur Metadaten, kein Feed dokumentiert)
+  aktiv: false
+  hinweise: 'Kein offizieller RSS-Feed und keine dokumentierte API auffindbar. Die SPA nutzt intern einen JSON-Endpunkt
+    unter ec.europa.eu/info/law/better-regulation/api/ — undokumentiert und ohne Stabilitätszusage; im Browser-DevTools-Netzwerktab
+    identifizierbar. Nutzung auf eigenes Risiko, Bruchgefahr bei Redesign.
+
+    '
+- id: eu_oeil
+  name: EP Legislative Observatory (OEIL)
+  jurisdiktion: eu
+  kategorie: gesetzgebung
+  url: https://oeil.secure.europarl.europa.eu/oeil/en/home
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: robots_disallowed
+  aktiv: false
+  hinweise: 'OEIL war für meinen Fetcher robots-gesperrt, eine öffentliche API oder ein RSS-Feed liessen sich nicht
+    nachweisen. OEIL bietet je Verfahren RSS an, aber keine dokumentierte Gesamt-Schnittstelle. EMPFEHLUNG: nicht
+    OEIL scrapen, sondern eu_ep_opendata_api nutzen — dort liegen dieselben Verfahrensdaten strukturiert als JSON-LD
+    vor.
+
+    '
+- id: eu_sparql_cellar
+  name: EU Publications Office SPARQL-Endpoint (CELLAR)
+  jurisdiktion: eu
+  kategorie: gesetzgebung
+  url: https://op.europa.eu/
+  feed_url: http://publications.europa.eu/webapi/rdf/sparql
+  format: sparql
+  format_original: SPARQL
+  auth: false
+  api_doku: https://op.europa.eu/en/web/eu-vocabularies/cellar
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Verifiziert: OpenLink Virtuoso 08.03.3335, öffentlich zugänglich, Upgrade auf Virtuoso 8 am 21.03.2026
+    — also aktiv gepflegt. Der mächtigste EU-Zugang: EUR-Lex-Metadaten, CELEX, Eurovoc, ELI, Rechtsakt-Beziehungen,
+    Konsolidierungen — alles abfragbar. Steile Lernkurve, aber löst das EUR-Lex-RSS-Problem (siehe eu_eurlex_rss)
+    vollständig. Für Änderungserkennung: Query auf work_date_document. Kontakt bei Problemen: OP-CELLAR@ec.europa.eu
+
+    '
+- id: defekt_ssrn_rss
+  name: SSRN RSS (Pfad tot)
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://www.ssrn.com/
+  feed_url: null
+  format: unklar
+  format_original: unbekannt / eingeschränkt
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 404 auf /index.cfm/en/rss/
+  aktiv: false
+  hinweise: 'Der klassische SSRN-RSS-Pfad ist tot. SSRN hat unter Elsevier die Feed-Infrastruktur stark eingeschränkt;
+    eJournal-Abos laufen heute überwiegend per E-Mail. ERSATZ-EMPFEHLUNG: SSRN-Volltexte sind über lit_openalex
+    und lit_crossref teilweise indexiert; für Rechtswissenschaft ist die Kombination arXiv (cs.CY) + OpenAlex +
+    gezielte E-Mail-Abos praktikabler als SSRN-Scraping (SSRN blockt Bots aggressiv).
+
+    '
+- id: lit_google_scholar_alerts
+  name: Google Scholar Alerts
+  jurisdiktion: intl
+  kategorie: literatur
+  url: https://scholar.google.com/
+  feed_url: null
+  format: kein-feed
+  format_original: nur E-Mail, kein Feed, kein API
+  auth: true
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet. Google Scholar hat KEINE öffentliche API und untersagt Scraping ausdrücklich; Alerts
+    gibt es ausschliesslich per E-Mail (Google-Account nötig). EINZIGE saubere Integration: Alerts an eine dedizierte
+    Mailbox schicken und diese per IMAP auslesen. Fachlich weitgehend ersetzbar durch OpenAlex + Crossref + arXiv.
+
+    '
+- id: pol_iapp_ai_tracker
+  name: IAPP Global AI Law and Policy Tracker
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://iapp.org/resources/article/global-ai-legislation-tracker/
+  feed_url: null
+  format: unklar
+  format_original: HTML/PDF, Mitgliedschaft erforderlich
+  auth: true
+  api_doku: null
+  intervall: monatlich (manuell)
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (Landingpage; Tracker hinter Login)
+  aktiv: false
+  hinweise: 'Verifiziert: MEMBER-Ressource, nicht frei. Stand der Datenbasis laut Seite: zuletzt aktualisiert 03.02.2026
+    — also mehrere Monate alt. Kein Export/API/Feed. Selbstbeschreibung räumt Unvollständigkeit ein. Für einen automatisierten
+    Tracker ungeeignet; allenfalls als periodischer manueller Abgleich.
+
+    '
+- id: pol_paid_newsletter
+  name: MLex / Politico Pro
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://mlex.com/
+  feed_url: null
+  format: kein-feed
+  format_original: Paywall, kein Feed
+  auth: true
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet. Beides Hochpreis-Abos (MLex und Politico Pro typischerweise vier- bis fünfstellig pro
+    Jahr) ohne öffentliche Feeds oder APIs. Inhaltlich exzellent und oft am schnellsten, aber für einen automatisierten
+    Tracker nur per E-Mail-Weiterleitung in eine Mailbox einbindbar (IMAP-Parsing), sofern ein Abo besteht.
+
+    '
+- id: uk_bailii
+  name: BAILII
+  jurisdiktion: uk
+  kategorie: rechtsprechung
+  url: https://www.bailii.org/
+  feed_url: null
+  format: blockiert
+  format_original: blockiert (Anti-Bot)
+  auth: false
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 403 (Anubis Anti-Bot / Access Denied)
+  aktiv: false
+  hinweise: 'VERIFIZIERT BLOCKIERT: BAILII setzt "Anubis" als Anti-Bot-Schutz ein; der Abruf lief auf eine Access-Denied-Seite.
+    Automatisierter Zugriff ist damit faktisch nicht vorgesehen und technisch unterbunden. NICHT versuchen zu umgehen.
+    ERSATZ: uk_find_case_law_atom (National Archives) deckt UK-Judikatur ab 2003 offiziell und maschinenlesbar ab
+    — für den Tracker die bessere Quelle.
+
+    '
+- id: defekt_lawfare_rss
+  name: Lawfare RSS (Pfad unbekannt)
+  jurisdiktion: us
+  kategorie: policy
+  url: https://www.lawfaremedia.org/
+  feed_url: null
+  format: unklar
+  format_original: unbekannt
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 404 auf /feed, /rss.xml und /feeds/all.rss
+  aktiv: false
+  hinweise: 'Drei übliche Pfade getestet, alle 404. Lawfare bietet ausweislich eigener Artikel RSS an, der aktuelle
+    Pfad liess sich aber nicht ermitteln. Nächster Schritt: https://www.lawfaremedia.org/subscribe im Browser öffnen
+    bzw. <link rel="alternate" type="application/rss+xml"> aus dem HTML-Head der Startseite auslesen.
+
+    '
+- id: defekt_stanford_hai_rss
+  name: Stanford HAI RSS (nicht vorhanden)
+  jurisdiktion: us
+  kategorie: policy
+  url: https://hai.stanford.edu/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 404 auf /rss.xml und /news/rss.xml
+  aktiv: false
+  hinweise: 'Kein Feed auffindbar. AI Index: aiindex.stanford.edu leitet (302) auf https://hai.stanford.edu/ai-index
+    um; dort waren KEINE Links auf CSV/XLSX-Rohdaten, GitHub-Repo oder API auffindbar. Der AI Index erscheint ohnehin
+    jährlich — für einen laufenden Tracker genügt ein manueller Termin einmal im Jahr (typisch April). Für Rohdaten
+    ist auf der Seite eine Kontaktadresse angegeben.
+
+    '
+- id: defekt_techpolicypress_rss
+  name: Tech Policy Press RSS (JS-gated)
+  jurisdiktion: us
+  kategorie: policy
+  url: https://www.techpolicy.press/
+  feed_url: null
+  format: unklar
+  format_original: unbekannt
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 200 aber leer (/feed/ und /rss/ liefern nur Tracking-Pixel)
+  aktiv: false
+  hinweise: 'Beide Pfade liefern statt XML nur HTML-Metadaten und ein Tracking-Pixel — vermutlich Bot-Interstitial
+    oder JS-Gate. Mit echtem User-Agent erneut testen; inhaltlich eine der besten Quellen für US-KI-Policy, daher
+    lohnt der zweite Versuch.
+
+    '
+- id: trk_bakerhostetler
+  name: BakerHostetler AI Case Tracker (Copyright/Class Actions)
+  jurisdiktion: us
+  kategorie: rechtsprechung
+  url: https://www.bakerlaw.com/services/artificial-intelligence-ai/case-tracker-artificial-intelligence-copyrights-and-class-actions/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (kein Export/Feed)
+  aktiv: false
+  hinweise: 'Existenz verifiziert. Trackt US-Verfahren mit Urheberrechts- und urheberrechtsnahen Fragen zu generativer
+    KI. Fallzahl und Aktualisierungsfrequenz auf der Landingpage nicht ausgewiesen. Kein Export/Feed/API.
+
+    '
+- id: trk_gwu_dail
+  name: GWU Database of AI Litigation (DAIL)
+  jurisdiktion: us
+  kategorie: rechtsprechung
+  url: https://blogs.gwu.edu/law-eti/ai-litigation-database/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (kein Export/Feed auffindbar)
+  aktiv: false
+  hinweise: 'Existenz verifiziert. Durchsuchbare Weboberfläche mit Filtern (Scope, Guide, Credits). KEIN Export,
+    KEIN Feed, KEINE API auffindbar. Letztes Aktualisierungsdatum auf der Seite nicht ausgewiesen — Pflegestand
+    vor Produktivnutzung prüfen. Akademisch sauber kuratiert, gute Ergänzung zu Lee.
+
+    '
+- id: trk_kanzlei_tracker_sonstige
+  name: McKool Smith / Mishcon de Reya / Debevoise — KI-Case-Tracker
+  jurisdiktion: us
+  kategorie: rechtsprechung
+  url: https://www.mckoolsmith.com/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: Debevoise Data Blog /feed/ = 403; McKool/Mishcon ungetestet
+  aktiv: false
+  hinweise: 'Kanzlei-Tracker generell: KEINE Exports, KEINE APIs, KEINE Feeds. Debevoise Data Blog (debevoisedatablog.com/feed/)
+    gab 403 — WordPress-Feed existiert vermutlich, Bot-Abwehr davor. McKool Smith (AI-Litigation-Tracker) und Mishcon
+    de Reya wurden nicht getestet. EINSCHÄTZUNG: Diese Tracker sind Marketing-Assets; Pflegestand schwankt und Struktur
+    ändert sich ohne Vorwarnung. Für ein automatisiertes Monitoring ungeeignet. EMPFEHLUNG: Als Primärquelle trk_chatgpt_eating_world
+    (breiteste Abdeckung, 137 Fälle) plus us_courtlistener_api (Alerts auf Aktenzeichen) nutzen und die Kanzlei-Tracker
+    nur quartalsweise manuell zum Abgleich heranziehen.
+
+    '
+- id: us_california_leginfo
+  name: California Legislative Information
+  jurisdiktion: us
+  kategorie: gesetzgebung
+  url: https://leginfo.legislature.ca.gov/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig (bzw. über LegiScan)
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (kein API/Feed dokumentiert)
+  aktiv: false
+  hinweise: 'Verifiziert: keine RSS/API/Bulk-Download-Optionen auf der Seite dokumentiert. Es gibt lediglich eine
+    Benachrichtigungsfunktion zu Bills nach dem Political Reform Act. (Kalifornien betreibt separat einen FTP-Bulk-Download
+    der Legislative-Datenbank — auf dieser Seite nicht beworben und hier nicht getestet.) EMPFEHLUNG: Kalifornien
+    über us_legiscan_api abdecken.
+
+    '
+- id: us_fcc_rss
+  name: FCC RSS-Feeds
+  jurisdiktion: us
+  kategorie: behoerde
+  url: https://www.fcc.gov/news-events/rss-feeds
+  feed_url: null
+  format: rss
+  format_original: RSS
+  auth: false
+  api_doku: null
+  intervall: 12h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '403'
+  aktiv: false
+  hinweise: 'Übersichtsseite mit 403 abgewiesen (Bot-Abwehr), Feed-URLs nicht auslesbar. FCC betreibt zahlreiche
+    RSS-Feeds (Headlines, Daily Digest, Docket-spezifisch). Mit eigenem User-Agent erneut versuchen. Für KI eher
+    randständig (Robocalls/AI-Voice), daher niedrige Priorität.
+
+    '
+- id: us_multistate_ai
+  name: MultiState AI Legislation Tracker
+  jurisdiktion: us
+  kategorie: policy
+  url: https://www.multistate.ai/
+  feed_url: null
+  format: kein-feed
+  format_original: Paywall, kein öffentlicher Zugang
+  auth: true
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: 200 (Landingpage; Inhalte subscriber-only)
+  aktiv: false
+  hinweise: 'Verifiziert: kostenpflichtig, "subscriber-only content". Zweiwöchentlicher E-Mail-Versand. Keine Angaben
+    zu Export/API/Feed auf der öffentlichen Seite. Für automatisiertes Tracking ungeeignet, sofern kein Abo besteht.
+    Alternative: LegiScan.
+
+    '
+- id: us_ncsl_ai
+  name: NCSL — Artificial Intelligence Legislation Database
+  jurisdiktion: us
+  kategorie: gesetzgebung
+  url: https://www.ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: wöchentlich
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: 200 (HTML-Tabelle, kein Export)
+  aktiv: false
+  hinweise: 'Verifiziert: reine HTML-Tabelle (Jurisdiktion, Bill-Nr., Titel, Status, Zusammenfassung, Kategorie).
+    KEIN API, KEIN CSV, KEIN RSS, KEIN JSON/XML. Bill-Nummern verlinken nach LexisNexis. Tabelle ist gut strukturiert
+    und damit zuverlässig parsebar (pandas read_html o.ä.). Jahresweise URLs — Pfad enthält das Jahr, jährlich anpassen.
+    EMPFEHLUNG: als Kontrollinstanz gegen LegiScan nutzen, nicht als Primärquelle.
+
+    '
+- id: us_omb
+  name: OMB — Office of Management and Budget (M-Memoranda zu KI)
+  jurisdiktion: us
+  kategorie: behoerde
+  url: https://www.whitehouse.gov/omb/
+  feed_url: null
+  format: scraping
+  format_original: HTML-Scraping nötig
+  auth: false
+  api_doku: null
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet. OMB-Memoranda (M-24-10 ff. zur KI-Governance in Bundesbehörden) erscheinen als PDF
+    ohne eigenen Feed. Teilweise über den Federal Register erfasst — dort zuerst suchen, bevor gescrapt wird.
+
+    '
+- id: us_pacer
+  name: PACER
+  jurisdiktion: us
+  kategorie: rechtsprechung
+  url: https://pacer.uscourts.gov/
+  feed_url: null
+  format: kein-feed
+  format_original: kostenpflichtig, kein offenes API
+  auth: true
+  api_doku: null
+  intervall: n/a
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  hinweise: 'Nicht getestet (Login-pflichtig, daher nicht sinnvoll prüfbar). Kosten: 0,10 USD pro Seite, gedeckelt
+    bei 3,00 USD pro Dokument; Gebühren unter 30 USD/Quartal werden erlassen. Einzelne Gerichte bieten CM/ECF-RSS-Feeds
+    für neue Einreichungen — uneinheitlich und je Gericht zu konfigurieren. EMPFEHLUNG: NICHT direkt anbinden. CourtListener/RECAP
+    (us_courtlistener_api) spiegelt PACER-Dokumente kostenlos und bietet Alerts — das ist der richtige Weg.
+
+    '
+- id: oecd_ai_policy_observatory
+  name: OECD.AI Policy Observatory — nationale KI-Politik
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://oecd.ai/en/dashboards/overview
+  feed_url: https://oecd.ai/en/rss
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: false
+  aktiv: true
+  hinweise: Fuehrt nationale KI-Politik weltweit. Der beste Einzelfilter fuer die Frage, ob irgendwo ein Staat etwas
+    Neues erlassen hat.
+- id: unctad_digital_economy
+  name: UNCTAD — Digital Economy und KI-Politik
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://unctad.org/topic/ecommerce-and-digital-economy
+  feed_url: https://unctad.org/rss.xml
+  format: rss
+  auth: false
+  intervall: 48h
+  zuverlaessigkeit: mittel
+  getestet: false
+  aktiv: true
+  hinweise: Deckt Schwellen- und Entwicklungslaender ab, die in westlichen Trackern fehlen.
+- id: iapp_ai_governance
+  name: IAPP — AI Governance Nachrichten
+  jurisdiktion: intl
+  kategorie: policy
+  url: https://iapp.org/news/ai-governance/
+  feed_url: https://iapp.org/news/rss
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: false
+  aktiv: true
+  hinweise: Fuehrt den Global AI Law and Policy Tracker.
+- id: ke_kenyalaw_judgments_api
+  name: Kenya Law — Volltextsuche Entscheidungen (JSON)
+  jurisdiktion: ke
+  kategorie: rechtsprechung
+  url: https://new.kenyalaw.org/judgments/
+  feed_url: https://new.kenyalaw.org/search/api/documents/?search=%22artificial+intelligence%22&nature=Judgment&ordering=-date
+  format: json
+  format_original: JSON (Akoma Ntoso / Laws.Africa)
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Am 07.09.2026 im Browser abgerufen: 41 Treffer, sauberes JSON mit citation, date, court, outcome, expression_frbr_uri
+    und Trefferkontext. Seitengroesse fest auf 10, page hochzaehlen. nature kennt auch Gazette, Bill, Act, Legal
+    Notice.'
+- id: at_ris_bvwg_api
+  name: RIS Österreich — Bundesverwaltungsgericht (JSON)
+  jurisdiktion: at
+  kategorie: rechtsprechung
+  url: https://www.ris.bka.gv.at/Bvwg/
+  feed_url: https://data.bka.gv.at/ris/api/v2.6/judikatur?Applikation=Bvwg&Suchworte=k%C3%BCnstliche+Intelligenz&DokumenteProSeite=Fifty&Seitennummer=1
+  format: json
+  format_original: RIS OGD API v2.6
+  auth: false
+  api_doku: https://data.bka.gv.at/ris/api/v2.6/
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: Am 07.09.2026 abgerufen, 188 Treffer. Applikation kennt Justiz, Vwgh, Vfgh, Bvwg, Lvwg, Dsk. VwGH und
+    VfGH liefern zu 'kuenstliche Intelligenz' null - die oesterreichische KI-Rechtsprechung entsteht am BVwG und
+    an der DSB. Beim Auslesen querySelector('pre').textContent parsen, nicht innerText.
+- id: at_ris_dsk_api
+  name: RIS Österreich — Datenschutzbehörde (JSON)
+  jurisdiktion: at
+  kategorie: behoerde
+  url: https://www.ris.bka.gv.at/Dsk/
+  feed_url: https://data.bka.gv.at/ris/api/v2.6/judikatur?Applikation=Dsk&Suchworte=k%C3%BCnstliche+Intelligenz&DokumenteProSeite=Fifty&Seitennummer=1
+  format: json
+  format_original: RIS OGD API v2.6
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: Am 07.09.2026 abgerufen. Die ergiebigste oesterreichische Quelle neben dem BVwG.
+- id: no_datatilsynet_sandkasse
+  name: Datatilsynet Norwegen — regulatorische Sandkasse
+  jurisdiktion: 'no'
+  kategorie: behoerde
+  url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/
+  feed_url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/
+  format: scraping
+  format_original: HTML-Liste
+  auth: false
+  intervall: 7d
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Am 07.09.2026 abgerufen: 20 abgeschlossene Projekte 2022-2026, jedes mit Abschlussbericht. Die dichteste
+    Verwaltungspraxis zu konkreten KI-Einsaetzen weltweit. Datum und Titel stehen als Geschwisterzeilen im Listenmarkup.'
+- id: ae_difc_courts_judgments
+  name: DIFC Courts — Judgments & Orders
+  jurisdiktion: ae
+  subjurisdiktion: ae-difc
+  kategorie: rechtsprechung
+  url: https://www.difccourts.ae/rules-decisions/judgments-orders
+  feed_url: https://www.difccourts.ae/rules-decisions/judgments-orders
+  format: scraping
+  format_original: HTML-Liste mit Abteilungsfiltern
+  auth: false
+  intervall: 7d
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: Am 07.09.2026 abgerufen, vollstaendig offen. Eigene Abteilung Digital Economy Court - die fuehrt bis
+    heute genau ein Verfahren (DEC 001/2025 Techteryx, Stablecoin, keine KI). Die einschlaegigen Sachen stehen im
+    Court of First Instance und im Court of Appeal.
+- id: za_saflii_zagpjhc
+  name: SAFLII — South Gauteng High Court
+  jurisdiktion: za
+  kategorie: rechtsprechung
+  url: https://www.saflii.org/za/cases/ZAGPJHC/
+  feed_url: https://www.saflii.org/za/cases/ZAGPJHC/2026/
+  format: scraping
+  format_original: HTML-Jahresliste
+  auth: false
+  intervall: 7d
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Am 07.09.2026 abgerufen: Volltexte als HTML, vollstaendig lesbar. Die Suchschnittstelle /cgi-bin/sinosrch-adw.cgi
+    antwortet dagegen mit 410 Gone - die alte SINO-Suche ist abgeschaltet. Jahresliste abgrasen statt suchen.'
+- id: nz_nzlii_cases
+  name: NZLII — neuseeländische Entscheidungen
+  jurisdiktion: nz
+  kategorie: rechtsprechung
+  url: https://www.nzlii.org/nz/cases/
+  feed_url: https://www.nzlii.org/cgi-bin/sinosrch.cgi?query=%22artificial+intelligence%22&results=50&meta=%2Fnzlii&mask_path=nz%2Fcases
+  format: scraping
+  format_original: SINO-Trefferliste
+  auth: false
+  intervall: 7d
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '200'
+  aktiv: true
+  hinweise: 'Am 07.09.2026 abgerufen, 83 Treffer. ACHTUNG: Cloudflare schiebt eine Sicherheitspruefung vor, die
+    etwa sechs Sekunden braucht - ein einfacher HTTP-Abruf sieht nur die Warteseite. Fuer den Tracker deshalb niedrig
+    eingestuft; verlaesslich ist der Weg nur im Browser.'
+- id: br_camara_proposicoes_api
+  name: Camara dos Deputados — neue Gesetzentwuerfe (PL)
+  jurisdiktion: br
+  kategorie: gesetzgebung
+  url: https://dadosabertos.camara.leg.br/
+  feed_url: https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&ordem=DESC&ordenarPor=id&itens=50
+  format: json
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://dadosabertos.camara.leg.br/swagger/api.html
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, sauberes JSON unter "dados". Bewusst OHNE den Parameter keywords:
+    der filtert serverseitig unscharf (zwei von fuenf Treffern waren nur mittelbar KI-bezogen). Der allgemeine Strom
+    aller neuen PL ist der bessere Weg, weil der Tracker seit dem 10.09.2026 auch portugiesisch filtert. Gepruefte
+    Beispieltitel aus dem allgemeinen Strom lagen vor. Sprache portugiesisch. itens von 5 auf 50 erhoeht, bei der
+    Probe zu bestaetigen.'
+- id: br_senado_materias_api
+  name: Senado Federal — Dados Abertos, geaenderte Vorlagen
+  jurisdiktion: br
+  kategorie: gesetzgebung
+  url: https://legis.senado.leg.br/dadosabertos/
+  feed_url: https://legis.senado.leg.br/dadosabertos/materia/atualizadas.json?numdias=5
+  format: json
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://legis.senado.leg.br/dadosabertos/
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, sauberes JSON, 50 Eintraege unter ListaMateriasAtualizadas/Materias/Materia.
+    Das angehaengte .json vor dem Fragezeichen schaltet die Ausgabe um; ohne .json liefert derselbe Pfad XML in
+    der Eigenstruktur des Senats (ebenfalls am 10.09.2026 geprueft, HTTP 200, 40 Eintraege) — es ist kein RSS/Atom,
+    ein Feedparser scheitert daran, deshalb die JSON-Fassung nehmen. Beispieleintraege: "PLS 78/1992 — DISPÕE SOBRE
+    A ARBITRAGEM." und "PLS 6/2003 — Institui o Estatuto do Portador de Deficiência e dá outras providências." Sprache
+    portugiesisch. numdias steuert das Fenster; bei zweimal taeglichem Lauf reicht numdias=2 bis 5. Einschraenkung:
+    der Endpunkt meldet zuletzt bewegte Vorlagen, auch sehr alte — die Trefferliste ist daher kein Neuzugangsstrom.
+    Der zugehoerige Suchendpunkt materia/pesquisa/lista?sigla=PL&numero=2338&ano=2023 wurde ebenfalls am 10.09.2026
+    geprueft: HTTP 200, XML, ementa "Dispõe sobre o uso da Inteligência Artificial.", CodigoMateria 157233. Derselbe
+    Pfad mit angehaengtem &v=6 antwortet mit HTTP 400 — also ohne Versionsparameter aufrufen. Kein Schluessel noetig.
+    api_doku ist eine Swagger-Oberflaeche, HTTP 200, laedt ihren Inhalt aber per JavaScript nach.'
+- id: br_camara_pl2338_tramitacao
+  name: Camara dos Deputados — Verfahrensstand PL 2338/2023 (KI-Gesetz)
+  jurisdiktion: br
+  kategorie: gesetzgebung
+  url: https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262
+  feed_url: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2487262/tramitacoes
+  format: json
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://dadosabertos.camara.leg.br/swagger/api.html
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, JSON, 82 Eintraege unter "dados", nach sequencia aufsteigend. Das
+    ist der Verfahrensstand des zentralen KI-Gesetzentwurfs auf der Seite der Abgeordnetenkammer, wohin der Senat
+    den Text am 17.03.2025 zur Revision uebersandt hat — hier liegt derzeit die lebende Beratung. Juengster Eintrag:
+    dataHora "2025-05-27T14:00", descricaoTramitacao "Aprovação de Requerimento", despacho beginnend "Aprovado o
+    requerimento nº 9/2025, da Sra. Adriana Ventura que requer a realização de audiência pública para discutir os
+    riscos que a proposição pode impor à liberdade de expressão...". Sprache portugiesisch. Die id 2487262 wurde
+    ueber ?siglaTipo=PL&numero=2338&ano=2023 ermittelt, nicht geraten. Einschraenkung: die Antwort ist lang, der
+    Abruf wurde einmal am Ende abgeschnitten — der Tracker sollte die Antwort streamen oder das Feld despacho begrenzen.
+    Kein Schluessel noetig.'
+- id: br_senado_pl2338_movimentacoes
+  name: Senado Federal — Verfahrensstand PL 2338/2023 (KI-Gesetz)
+  jurisdiktion: br
+  kategorie: gesetzgebung
+  url: https://www25.senado.leg.br/web/atividade/materias/-/materia/157233
+  feed_url: https://legis.senado.leg.br/dadosabertos/materia/movimentacoes/157233.json
+  format: json
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://legis.senado.leg.br/dadosabertos/
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, sauberes JSON, 47 InformeLegislativo-Eintraege. Das angehaengte
+    .json schaltet die Ausgabe um; ohne .json antwortet derselbe Pfad mit XML in der Eigenstruktur des Senats (ebenfalls
+    am 10.09.2026 geprueft, HTTP 200, 50 Eintraege), kein RSS/Atom. Juengste Eintraege: 2025-03-17 15:53:41 "Remetido
+    Ofício SF nº 235, de 17/03/25, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafo
+    do projeto para revisão, nos termos do art. 65 da Constituição Federal." und 2024-12-19 18:49:43 "Anexado o
+    texto revisado." Sprache portugiesisch. Einschraenkung: die Senatsspur ruht seit dem 17.03.2025, weil der Vorgang
+    bei der Abgeordnetenkammer liegt — die Quelle ist erst wieder ergiebig, wenn die Kammer den Text zurueckgibt.
+    Sie gehoert trotzdem beobachtet, denn genau diese Rueckgabe ist der naechste Schritt. Die CodigoMateria 157233
+    stammt aus materia/pesquisa/lista, nicht aus einer Schaetzung. Kein Schluessel noetig.'
+- id: sg_elitigation_gd_rechtsprechung
+  name: eLitigation — Grounds of Decision der Gerichte Singapurs
+  jurisdiktion: sg
+  kategorie: rechtsprechung
+  url: https://www.elitigation.sg/gd/Home/Index
+  feed_url: https://www.elitigation.sg/gd/Home/Index?filter=SUPCT&yearOfDecision=All&sortBy=DateOfDecision&sortAscending=False&currentPage=1
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, serverseitig gerendertes HTML, nach Entscheidungsdatum absteigend
+    sortiert, tagesaktuell. Beispieleintraege: "MOHAMED ERZAN TAIB ZOHRI v PUBLIC PROSECUTOR AND OTHER APPEALS",
+    Decision Date 10 Sep 2026, und "ARIEF PURWADA & 4 Ors v ARIANTO PURWADA & 2 Ors", 10 Sep 2026. Sprache englisch.
+    Kein RSS, kein Atom, keine JSON-Schnittstelle im Quelltext auffindbar — die Liste muss abgegriffen werden. Die
+    Sortier- und Filterparameter wirken und sind Teil der geprueften Adresse; filter=SUPCT begrenzt auf die Supreme
+    Court-Ebene, ohne diesen Parameter kommen auch die State Courts. judiciary.gov.sg/judgments/judgments-case-summaries
+    wurde ebenfalls geprueft (HTTP 200), fuehrt aber nur auf eLitigation weiter und listet selbst nichts. Kein Schluessel
+    noetig.'
+- id: sg_mddi_newsroom_policy
+  name: MDDI — Newsroom des Digitalministeriums
+  jurisdiktion: sg
+  kategorie: policy
+  url: https://www.mddi.gov.sg/
+  feed_url: https://www.mddi.gov.sg/newsroom/
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, serverseitig gerendertes HTML, 1543 Eintraege insgesamt, nach Datum
+    sortiert und nach Kategorie und Jahr filterbar. Das MDDI ist das fuer KI-Politik zustaendige Ressort; die drei
+    juengsten Eintraege waren am Abruftag saemtlich KI-bezogen: "MDDI''s Response to PQ on Future Data Centre Capacity
+    Plans in Support of AI Adoption" (9 September 2026), "MDDI''s Response to PQ on Singapore''s Position on the
+    World Artificial Intelligence Cooperation Association" (9 September 2026) und "MDDI''s Response to PQ on Encouraging
+    Gen-AI Micro-Drama Production by Local Artists and Content Providers through Grants or Incentives" (8 September
+    2026). Sprache englisch. Besonders wertvoll, weil die Antworten auf parlamentarische Anfragen den Regierungsstandpunkt
+    schriftlich festhalten. Kein RSS, kein Atom, keine JSON-Schnittstelle im Quelltext auffindbar. Einschraenkung:
+    der Unterpfad /newsroom/press-releases/ antwortet mit HTTP 404, ebenso /media-centre/press-releases — nur /newsroom/
+    mit Schraegstrich am Ende traegt. Kein Schluessel noetig.'
+- id: sg_reach_konsultationen_policy
+  name: REACH — oeffentliche Konsultationen der Regierung Singapurs
+  jurisdiktion: sg
+  kategorie: policy
+  url: https://www.reach.gov.sg/
+  feed_url: https://www.reach.gov.sg/participate/public-consultation
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, serverseitig gerendertes HTML. Ressortuebergreifende Sammelstelle
+    aller laufenden Konsultationen des Bundes, mit Behoerde und Frist je Eintrag — damit deckt sie zugleich die
+    Behoerden ab, deren eigene Seiten fuer den Abruf gesperrt sind. Beispieleintraege: "Public Consultation on the
+    Proposed Bill on Protecting Genetic Information" (7 August 2026, Ministry of Health), "Public Consultation on
+    Singapore''s Sustainability Disclosure Standards" (27 July 2026, ACRA) und "Public Consultation on Digital Infrastructure
+    Bill" (1 July 2026, MDDI). Sprache englisch. Kein RSS, kein Atom, keine JSON-Schnittstelle im Quelltext auffindbar.
+    Kein Schluessel noetig.'
+- id: sg_parliament_bills_gesetzgebung
+  name: Parliament of Singapore — eingebrachte Gesetzentwuerfe
+  jurisdiktion: sg
+  kategorie: gesetzgebung
+  url: https://www.parliament.gov.sg/
+  feed_url: https://www.parliament.gov.sg/parliamentary-business/bills-introduced
+  format: scraping
+  auth: false
+  intervall: 7d
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, serverseitig gerendertes HTML. Schwere Einschraenkung: die Tabelle
+    fuehrt nur Nummer und Daten, keine Titel — geprueft wurden die ersten fuenf Zeilen, sie lauten "Bill No: 13/2026,
+    Date Introduced 08.04.2026, Date Passed 05.05.2026", "Bill No: 12/2026, 07.04.2026, 07.05.2026", "Bill No: 11/2026,
+    07.04.2026, 07.05.2026" und zwei weitere ohne ausgewiesene Nummer. Damit greift die KI-Stichwortsuche des Trackers
+    hier nicht; die Quelle taugt nur als Ausloeser, dem ein zweiter Abruf der Einzelseite folgen muss. Deshalb 7d
+    und niedrig. Sprache englisch. Kein RSS, kein Atom, keine JSON-Schnittstelle auffindbar. Kein Schluessel noetig.'
+- id: ca_legisinfo_json
+  name: LEGISinfo — Gesetzentwuerfe des kanadischen Parlaments (JSON)
+  jurisdiktion: ca
+  kategorie: gesetzgebung
+  url: https://www.parl.ca/legisinfo/
+  feed_url: https://www.parl.ca/legisinfo/en/bills/json
+  format: json
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://www.parl.ca/legisinfo/
+  hinweise: 'Am 10.09.2026 abgerufen: sauberes JSON-Array, Datensaetze der laufenden Sitzungsperiode (45-1). Beispieltitel:
+    "An Act relating to railways" (NumberCode "S-1"). Jeder Datensatz traegt englische und franzoesische Titelfelder
+    (LongTitleEn / LongTitleFr, ShortTitleEn / ShortTitleFr), damit ist die Zweisprachigkeit ohne zweite Quelle
+    abgedeckt. Dieselbe Liste gibt es zusaetzlich als RSS: englisch https://www.parl.ca/legisinfo/en/bills/rss (am
+    10.09.2026 abgerufen, 282 Eintraege, Beispieltitel "S-1 (45-1) - An Act relating to railways"), franzoesisch
+    https://www.parl.ca/legisinfo/fr/projets-de-loi/rss (am 10.09.2026 abgerufen, 264 Eintraege, Beispieltitel "S-1
+    (45-1) - Loi concernant les chemins de fer"). Einschraenkung: erfasst nur Bundesgesetzentwuerfe, keine Verordnungen;
+    kanadische Verordnungsentwuerfe stehen in der Canada Gazette Part I, die keinen Feed hat.'
+- id: ca_opc_pipeda_rss
+  name: Datenschutzbeauftragter Kanada — PIPEDA-Feststellungen
+  jurisdiktion: ca
+  kategorie: behoerde
+  url: https://www.priv.gc.ca/en/opc-actions-and-decisions/
+  feed_url: https://www.priv.gc.ca/en/rss/pipeda/
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://www.priv.gc.ca/en/rss-feeds/
+  hinweise: 'Am 10.09.2026 abgerufen: RSS 2.0, ueber 150 Eintraege zurueck bis 2002. Beispieltitel: "PIPEDA Findings
+    #2026-004: Commissioner-initiated complaints concerning X Corp.''s and X.AI LLC''s compliance with PIPEDA" (11.06.2026).
+    Das ist die rechtlich dichteste kanadische Quelle im Bestand: Feststellungen des Datenschutzbeauftragten sind
+    quasi-rechtsprechende Entscheidungen und decken Trainingsdaten, Scraping und Profiling ab. Volumen gering, 24h
+    reicht. Der OPC unterhaelt zehn weitere Feeds unter derselben Adresse (u.a. /en/rss/pa/ fuer Privacy-Act-Feststellungen,
+    /en/rss/sc/ fuer Stellungnahmen zu Konsultationen); nur /en/rss/news/ und /en/rss/pipeda/ wurden geprueft. Einschraenkung:
+    nur englische Fassung geprueft, eine franzoesische Entsprechung unter /fr/rss/ wurde nicht abgerufen.'
+- id: ca_opc_news_rss
+  name: Datenschutzbeauftragter Kanada — Mitteilungen und Untersuchungen
+  jurisdiktion: ca
+  kategorie: behoerde
+  url: https://www.priv.gc.ca/en/opc-news/
+  feed_url: https://www.priv.gc.ca/en/rss/news/
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://www.priv.gc.ca/en/rss-feeds/
+  hinweise: 'Am 10.09.2026 abgerufen: RSS 2.0 mit Atom-Namensraum, ueber 200 Eintraege zurueck bis 2023. Beispieltitel:
+    "Notice of application filed with Federal Court in connection with search engine de-listing investigation" (28.08.2026).
+    Faengt Verfahrenseroeffnungen, gemeinsame Erklaerungen der Datenschutzbehoerden und Konsultationsbeitraege ab,
+    also den Vorlauf zu den Feststellungen aus ca_opc_pipeda_rss. Nicht KI-spezifisch, wird vom Tracker gefiltert.'
+- id: ca_ised_news_atom
+  name: ISED Kanada — Mitteilungen des Industrieministeriums (Atom)
+  jurisdiktion: ca
+  kategorie: policy
+  url: https://ised-isde.canada.ca/site/ised/en
+  feed_url: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofindustry&sort=publishedDate&orderBy=desc&publishedDate%3E=2025-01-01&pick=50&format=atom&atomtitle=Innovation,%20Science%20and%20Economic%20Development%20Canada
+  format: atom
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://www.canada.ca/en/news/web-feeds.html
+  hinweise: 'Am 10.09.2026 abgerufen: Atom, 50 Eintraege. Beispieltitel: "Government of Canada launches National
+    AI Literacy Initiative" (09.09.2026). ISED ist das federfuehrende Ressort fuer AIDA und die kanadische KI-Strategie,
+    deshalb die ergiebigste policy-Quelle. Die Schnittstelle api.io.canada.ca ist der amtliche Nachrichtendienst
+    der Bundesregierung; ueber dept= laesst sich jedes Ressort einzeln abrufen, die Liste der Kennungen steht in
+    der api_doku. Franzoesisch ueber /gc/news/fr/v2 mit denselben Parametern (nicht geprueft). Der Parameter publishedDate%3E=
+    setzt nur die untere Grenze und altert nicht; pick=50 begrenzt die Ausgabe. Einschraenkung: Pressemitteilungen,
+    keine Rechtstexte.'
+- id: in_indiankanoon_delhi_rss
+  name: Indian Kanoon — Entscheidungen des High Court of Delhi
+  jurisdiktion: in
+  kategorie: rechtsprechung
+  url: https://indiankanoon.org/browse/delhi/
+  feed_url: https://indiankanoon.org/feeds/latest/delhi/
+  format: rss
+  auth: false
+  intervall: 6h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://indiankanoon.org/feeds/
+  hinweise: 'Am 10.09.2026 abgerufen: RSS, 20 Eintraege. Beispieltitel: "Shri Krishan Grit Co vs Continental Engineering
+    Corporation on 8 September, 2026". Der High Court of Delhi ist fuer das KI-Recht der wichtigste indische Spruchkoerper,
+    dort laeuft ANI Media gegen OpenAI. Indian Kanoon ist keine amtliche Quelle, sondern eine frei zugaengliche
+    Sammlung; Belege muessen am Gerichtsdokument nachgezogen werden. Kein Schluessel, keine Anmeldung. Die Feedliste
+    bietet je einen Feed fuer jedes High Court, die Distriktgerichte und dreizehn Tribunale. Einschraenkung: der
+    gleichartige Feed https://indiankanoon.org/feeds/latest/supremecourt/ wurde am 10.09.2026 abgerufen und war
+    leer (gueltiges RSS, null Eintraege, lastBuildDate "Mon, 31 Aug 2026 02:34:44 +0000") - vor dem Freischalten
+    noch einmal pruefen. Nur 20 Eintraege im Fenster, bei taeglich vielen Urteilen deshalb 6h.'
+- id: in_rbi_notifications_rss
+  name: Reserve Bank of India — Rundschreiben und Bekanntmachungen
+  jurisdiktion: in
+  kategorie: behoerde
+  url: https://www.rbi.org.in/Scripts/NotificationUser.aspx
+  feed_url: https://www.rbi.org.in/notifications_rss.xml
+  format: rss
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: RSS, 10 Eintraege mit Datum. Beispieltitel: "Review of Circulars issued under
+    Foreign Exchange Management Act, 1999 (FEMA)" (08.09.2026). Die RBI ist die indische Behoerde mit den bislang
+    konkretesten Vorgaben zum Modelleinsatz im Finanzsektor. Zweiter gepruefter Feed derselben Bank: https://www.rbi.org.in/pressreleases_rss.xml
+    (am 10.09.2026 abgerufen, 10 Eintraege, Beispieltitel "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR)
+    auction under LAF on September 10, 2026") - dort ueberwiegt geldpolitisches Tagesgeschaeft. Einschraenkung:
+    nur 10 Eintraege im Fenster, deshalb 12h und nicht 24h.'
+- id: in_niti_rss
+  name: NITI Aayog — Beitraege und Strategiepapiere
+  jurisdiktion: in
+  kategorie: policy
+  url: https://www.niti.gov.in/
+  feed_url: https://www.niti.gov.in/rss.xml
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: RSS, 10 Eintraege. Erster Eintrag war unmittelbar einschlaegig: "Match AI
+    Models to workloads, not leaderboards" (02.09.2026). NITI Aayog ist der Planungsstab der indischen Regierung
+    und hat die nationale KI-Strategie sowie die Responsible-AI-Papiere vorgelegt. Einschraenkung: nur 10 Eintraege
+    im Fenster, geringe Frequenz; der Feed enthaelt Blogbeitraege und Mitteilungen, keine Rechtstexte, und Eintraege
+    erscheinen teils doppelt.'
+- id: in_sebi_rss
+  name: SEBI — Bekanntmachungen der indischen Wertpapieraufsicht
+  jurisdiktion: in
+  kategorie: behoerde
+  url: https://www.sebi.gov.in/
+  feed_url: https://www.sebi.gov.in/sebirss.xml
+  format: rss
+  auth: false
+  intervall: 6h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: RSS, 30 Eintraege mit Datum. Beispieltitel: "Release Order - Certificate No.
+    RC8767 of 2025 in respect of Subhasish Roy (PAN: ANIPR2464C) in the matter of Getrise Infotech Pvt Ltd." (09.09.2026).
+    SEBI hat Vorgaben zum Einsatz von KI und maschinellem Lernen durch Marktintermediaere erlassen, die Rundschreiben
+    laufen ueber denselben Feed. Einschraenkung: das Fenster wird von Eintreibungsbescheiden gegen Einzelpersonen
+    ueberschwemmt, Personennamen und Steuernummern inbegriffen - der Tracker muss hart filtern, und die 30 Eintraege
+    sind binnen eines Tages durchgelaufen, deshalb 6h.'
+- id: kr_law_go_kr_gesetze
+  name: Nationales Rechtsinformationszentrum — neu verkuendete Gesetze und Verordnungen
+  jurisdiktion: kr
+  kategorie: gesetzgebung
+  url: https://www.law.go.kr/
+  feed_url: https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=law&type=JSON&sort=ddes&display=20
+  format: json
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://open.law.go.kr/LSO/openApi/guideList.do
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, sauberes JSON, resultCode 00. totalCnt 5614, 20 Datensaetze je Abruf.
+    Mit sort=ddes absteigend nach Verkuendungsdatum, der erste Satz trug 공포일자 20260910, also denselben Tag. Beispieltitel:
+    "자동차손해배상 보장법 시행규칙", "아동수당법 시행규칙", "농업협동조합법 시행령". Sprache koreanisch. Der Parameter query schraenkt auf Stichworte
+    ein: query=인공지능 lieferte totalCnt 8, darunter "인공지능 발전과 신뢰 기반 조성 등에 관한 기본법" und "산업 디지털 전환 및 인공지능 활용 촉진법". Zum
+    Schluessel: der Parameter OC ist kein Schluessel im eigentlichen Sinn, sondern das Praefix der Anmeldekennung.
+    Der in der amtlichen Anleitung verwendete Beispielwert OC=test liefert am 10.09.2026 unveraendert vollstaendige
+    Daten, ohne jede Registrierung. Eine eigene OC waere kostenlos (open.law.go.kr, Freigabe in ein bis zwei Werktagen),
+    setzt aber nach der Anmeldeseite https://open.law.go.kr/LSO/usrJoin.do eine 실명확인 voraus, wahlweise ueber 휴대전화
+    본인 인증 oder 아이핀 — beides braucht eine koreanische Identifizierung und ist aus Deutschland nicht zu bekommen.
+    Eine Option fuer 외국인 gibt es dort nicht. Deshalb mittel: der Zugang haengt an einer geteilten Beispielkennung,
+    die gedrosselt oder abgeschaltet werden kann. Vor der Freischaltung pruefen, ob OC=test noch traegt.'
+- id: kr_law_go_kr_prec
+  name: Nationales Rechtsinformationszentrum — Entscheidungen der Gerichte
+  jurisdiktion: kr
+  kategorie: rechtsprechung
+  url: https://www.law.go.kr/
+  feed_url: https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=prec&type=JSON&display=20
+  format: json
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://open.law.go.kr/LSO/openApi/guideList.do
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, JSON, Wurzelschluessel PrecSearch. totalCnt 171782, 20 Datensaetze
+    je Abruf. Enthaelt 대법원 und Instanzgerichte. Beispieltitel: "(심리불속행) 과세처분 취소소송에서 비과세요건이나 감면요건, 공제요건 등에 대한 증명책임은
+    원칙적으로 납세의무자에게 있음", 대법원, 선고일자 2026.08.21; "토지 및 건물의 취득가액 산정 방법", 수원지방법원, 2026.08.19. Sprache koreanisch. Einschraenkung:
+    ohne sort-Parameter ist die Reihenfolge nicht nach Datum; fuer den Tracker sort=ddes ergaenzen und das Ergebnis
+    einmal gegenpruefen. Derselbe Zugang, dieselbe OC-Frage wie bei kr_law_go_kr_gesetze. Zwei weitere Ziele derselben
+    Schnittstelle wurden mitgeprueft und liefern ebenfalls HTTP 200: target=detc (헌재결정례, totalCnt 38672) und target=expc
+    (법령해석례 der 법제처, totalCnt 8842).'
+- id: kr_law_go_kr_admrul
+  name: Nationales Rechtsinformationszentrum — Verwaltungsvorschriften der Ressorts
+  jurisdiktion: kr
+  kategorie: behoerde
+  url: https://www.law.go.kr/
+  feed_url: https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=admrul&type=JSON&display=10&sort=ddes
+  format: json
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: niedrig
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://open.law.go.kr/LSO/openApi/guideList.do
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, JSON, totalCnt 24132, 10 Datensaetze je Abruf, absteigend nach Datum,
+    der erste Satz vom selben Tag. Beispieltitel: "공정거래위원회 공무직근로자 등 운영규정" (공정거래위원회, 10.09.2026), "서식지외보전기관 신규 지정
+    고시" (10.09.2026). Sprache koreanisch. Diese Ebene traegt die 고시 und 훈령 der Ressorts, also genau die Form, in
+    der koreanische KI-Leitlinien und Aufsichtsmassstaebe ergehen — fuer den Tracker die ergiebigste der drei law.go.kr-Ebenen
+    unterhalb des Gesetzes. Derselbe Zugang, dieselbe OC-Frage wie bei kr_law_go_kr_gesetze. Der Parameter query
+    wirkt auch hier.'
+- id: kr_pipc_bbs
+  name: Datenschutzkommission PIPC — Pressemitteilungen
+  jurisdiktion: kr
+  kategorie: behoerde
+  url: https://www.pipc.go.kr/
+  feed_url: https://www.pipc.go.kr/np/cop/bbs/selectBoardList.do?bbsId=BS074&mCode=C020010000
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200. Kein Feed — die Seite wird serverseitig ausgeliefert, Titel und
+    Datum stehen im HTML und sind ohne JavaScript zu lesen. 1303 Eintraege in 131 Seiten, 10 je Seite. Beispieltitel:
+    "개인정보 유출 사전예방·피해구제 강화를 위한 개인정보 보호법·시행령·고시, 9월 11일부터 시행" (10.09.2026) und "개인정보위, 2027년 예산안 996억 원 반영❶예방‧보호,
+    ❷AX 혁신 안전 활용에 중점 투자" (04.09.2026). Sprache koreanisch. Einschraenkung: PIPC bietet nirgends RSS an — geprueft
+    wurden die Startseite, /np/cop/bbs/selectRssBoardList.do mit und ohne mCode (beide 404) sowie eine Suche; es
+    gibt keinen Feed. Aufgenommen, weil PIPC die koennende Aufsicht fuer KI und Datenschutz ist und ueber law.go.kr
+    nur mittelbar erscheint. Wird nur ueber Abgriff des HTML zu beobachten sein.'
+- id: jp_egov_keyword_ki
+  name: e-Gov Rechtsdatenbank — Volltextsuche 人工知能
+  jurisdiktion: jp
+  kategorie: gesetzgebung
+  url: https://laws.e-gov.go.jp/
+  feed_url: https://laws.e-gov.go.jp/api/2/keyword?keyword=%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD&limit=100
+  format: json
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://laws.e-gov.go.jp/api/2/swagger-ui/index.html
+  hinweise: 'Am 10.09.2026 geprueft: die Schnittstelle antwortet mit HTTP 200 und sauberem JSON, ohne Kennung und
+    ohne Schluessel. Der Stichwort-Endpunkt suchte ueber den Gesetzestext und meldete total_count 165 fuer 人工知能.
+    Gegenueber dem gepruesten Aufruf wurden zwei Dinge geaendert: das Stichwort ist prozentkodiert, und limit steht
+    auf 100 statt 5 — beides ist bei der Probe zu bestaetigen. Der allgemeine Endpunkt /api/2/laws liefert die Gesetze
+    ohne erkennbare Ordnung und taugt fuer eine Beobachtung nicht. Sprache japanisch, Blaettern ueber next_offset.'
+- id: jp_egov_pubcom_rss
+  name: e-Gov Anhoerungen — laufende Stellungnahmeverfahren aller Ressorts
+  jurisdiktion: jp
+  kategorie: policy
+  url: https://public-comment.e-gov.go.jp/
+  feed_url: https://public-comment.e-gov.go.jp/rss/pcm_list.xml
+  format: rss
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://public-comment.e-gov.go.jp/contents/help/guide/rss.html
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, RSS 1.0, Wurzelelement rdf:RDF, Kanaltitel "パブリックコメント・意見募集案件一覧",
+    11 Eintraege, juengster vom 07.09.2026. Beispieltitel: "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令案に関する意見募集について".
+    Sprache japanisch. Deckt die Anhoerungen aller Ressorts ab, also auch PPC, METI und 総務省, und ist damit der einzige
+    Weg, an japanische Verordnungsentwuerfe zu kommen, bevor sie ergehen. Zweiter geprueter Feed derselben Reihe:
+    https://public-comment.e-gov.go.jp/rss/pcm_result.xml — HTTP 200, Kanaltitel "パブリックコメント・結果公示案件一覧", 4 Eintraege,
+    juengster 08.09.2026; das sind die Auswertungen nach Abschluss. Daneben 53 Sachgebietsfeeds nach dem Muster
+    pcm_list_0000000001.xml bis pcm_list_0000000053.xml, das erste Gebiet ist IT社会化推進. Einschraenkung: der Feed
+    traegt nur das jeweils offene Fenster, bei 12h kein Verlust. Die geratene Adresse pcm_all.xml gibt 404.'
+- id: jp_soumu_rss
+  name: Ministerium fuer Inneres und Kommunikation — Neuigkeiten
+  jurisdiktion: jp
+  kategorie: behoerde
+  url: https://www.soumu.go.jp/
+  feed_url: https://www.soumu.go.jp/news.rdf
+  format: rss
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: https://www.soumu.go.jp/menu_kyotsuu/rss_information.html
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200, RSS 1.0, Wurzelelement rdf:RDF, Kanaltitel "総務省ホームページ新着情報", 20 Eintraege,
+    juengste vom 09.09.2026, also einen Tag alt. Beispieltitel: "総務省・電波利用ホームページ新着情報・電波技術審議会・陸上無線通信委員会(第103号)" und
+    "令和7年度「資金コンテスト」の開催及びガイドラインについて". Sprache japanisch. Das Ressort fuehrt Telekommunikation und Rundfunk und ist
+    neben METI Traeger der AI事業者ガイドライン, deshalb als behoerde gefuehrt. Der Feed ist allgemein und nicht auf KI einzuschraenken;
+    die Stichwortpruefung muss der Tracker leisten. Einschraenkung: die naheliegende Adresse /menu_news/s-news/index.rdf
+    gibt 404, die Uebersichtsseite des Ressorts nennt allein news.rdf.'
+- id: jp_courts_hanrei_neu
+  name: Gerichte Japans — zuletzt veroeffentlichte Entscheidungen
+  jurisdiktion: jp
+  kategorie: rechtsprechung
+  url: https://www.courts.go.jp/
+  feed_url: https://www.courts.go.jp/hanrei/search2/index.html?courtCaseType=1&filter%5Brecent%5D=1
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: HTTP 200. Kein Feed, aber die Trefferliste steht im HTML und ist ohne JavaScript
+    zu lesen. 10 Entscheidungen je Seite. Beispieleintrag: "令和8(し)770 保釈許可の裁判に対する準抗告の決定に対する特別抗告事件 令和8年8月31日", dazu
+    "令和6(受)2169 建物買取代金請求事件 令和8年8月28日". Sprache japanisch, Datumsangaben in 元号-Zaehlung. Diese Adresse zeigt den
+    Obersten Gerichtshof; zwei Schwesteradressen wurden in der Sitemap gefunden und decken die Instanzgerichte (search4/index.html?courtCaseType=3&filter[recent]=1)
+    und das Gericht fuer geistiges Eigentum (search7/index.html?courtCaseType=6%207&filter[recent]=1&view=main)
+    ab — letzteres ist fuer KI und Urheberrecht das wichtigere und sollte mit aufgenommen werden. Einschraenkung:
+    die Gerichte bieten keinerlei Feed. Geprueft und ohne Erfolg: /rss/new_hanrei.xml, /toppage/rss/index.html und
+    /whatsnew/index.html, alle 404; die Sitemap unter /sitemap/index.html fuehrt keinen Feed. Abgriff des HTML ist
+    der einzige Weg.'
+- id: ru_pravo_publication_gesetzgebung
+  name: Offizielles Rechtsportal — zuletzt veroeffentlichte Rechtsakte
+  jurisdiktion: ru
+  kategorie: gesetzgebung
+  url: http://publication.pravo.gov.ru/
+  feed_url: http://publication.pravo.gov.ru/api/rss?pageSize=200
+  format: rss
+  auth: false
+  intervall: 12h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  api_doku: http://publication.pravo.gov.ru/rss
+  hinweise: 'Am 10.09.2026 abgerufen: sauberes RSS 2.0, Kanaltitel "Официальное опубликование", 94 Eintraege, jeder
+    mit pubDate und link. Beispieltitel: "Постановление Правительства Российской Федерации от 09.09.2026 № 1148
+    ''О внесении изменений в постановление Правительства Российской Федерации от 14 мая 2025 г. № 641''". Sprache
+    russisch. Amtliches Publikationsorgan; deckt alle Bloecke ab (Praesident, Regierung, Foederationsrat, Staatsduma,
+    Bundesbehoerden, Verfassungsgericht, voelkerrechtliche Vertraege) und ist damit der breiteste Einstieg. Parameter
+    pageSize nimmt 10/30/100/200; der Kanalgenerator unter /rss dokumentiert zusaetzlich den Parameter block. Einschraenkung:
+    der Host antwortet aus dem Ausland unzuverlaessig — von 14 Versuchen am 10.09.2026 kamen 2 durch, die uebrigen
+    liefen in eine Zeitueberschreitung schon beim Abruf der robots.txt. Der Tracker braucht deshalb Wiederholversuche;
+    ein Fehlschlag ist kein Beleg fuer eine tote Adresse.'
+- id: ru_government_alle_policy
+  name: Regierung der Russischen Foederation — Materialien aus allen Bereichen
+  jurisdiktion: ru
+  kategorie: policy
+  url: http://government.ru/all/
+  feed_url: http://government.ru/all/rss/
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: RSS 2.0, Kanaltitel "Материалы из всех разделов", 20 Eintraege. Beispieltitel:
+    "Правительство выделило свыше 9,7 млрд рублей на субсидирование перевозок сельхозпродукции по железной дороге".
+    Sprache russisch. Amtliche Regierungsseite; fuehrt Beschluesse, Anordnungen, Sitzungsergebnisse und Strategiepapiere
+    zusammen. Nicht KI-spezifisch — der Tracker filtert selbst; die einschlaegigen Treffer laufen ueber Stichworte
+    wie искусственный интеллект, нейросет, машинное обучение. Einschraenkung: nur 20 Eintraege je Abruf, bei taeglichem
+    Lauf ausreichend. http://government.ru/rss/ ist 404, der Pfad lautet /all/rss/.'
+- id: ru_cbr_ereignisse_behoerde
+  name: Bank von Russland — Ereignisse und Kommentare
+  jurisdiktion: ru
+  kategorie: behoerde
+  url: https://www.cbr.ru/press/
+  feed_url: https://www.cbr.ru/rss/eventrss
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: hoch
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: RSS 2.0, Kanaltitel "События и комментарии", 100 Eintraege. Beispieltitel:
+    "Банк России совершенствует квалификационные требования к должностным лицам, ответственным за управление рисками,
+    внутренний контроль, внутренний аудит в ряде финансовых организаций". Sprache russisch. Die Zentralbank ist
+    in Russland die Aufsicht, die zu Algorithmen, Scoring und KI im Finanzsektor Vorgaben und Konsultationen veroeffentlicht.
+    Der Host antwortete zuverlaessig, anders als die Regierungshosts. Zweiter, kleinerer Kanal derselben Stelle:
+    https://www.cbr.ru/rss/RssPress ("Пресс-релизы", 10 Eintraege, ebenfalls am 10.09.2026 mit 200 geprueft) — der
+    hier gewaehlte Kanal ist der breitere. Einschraenkung: https://www.cbr.ru/rss/ als Uebersichtsseite ist 404,
+    die Kanaladressen stehen nicht gesammelt auf der Seite.'
+- id: ru_pravo_ksrf_rechtsprechung
+  name: Offizielles Rechtsportal — Entscheidungen des Verfassungsgerichts
+  jurisdiktion: ru
+  kategorie: rechtsprechung
+  url: http://publication.pravo.gov.ru/
+  feed_url: http://publication.pravo.gov.ru/api/rss?block=court&pageSize=200
+  format: rss
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: niedrig
+  getestet: false
+  http_status: null
+  aktiv: false
+  api_doku: http://publication.pravo.gov.ru/rss
+  hinweise: 'Nicht bestaetigt. Am 10.09.2026 fuenfmal abgerufen (block=court mit pageSize 100 und 200, auch in umgekehrter
+    Parameterfolge) — jedes Mal Zeitueberschreitung beim Abruf der robots.txt, nie eine Antwort des Feeds selbst.
+    Die Adresse ist nicht geraten: sie steht woertlich im Kanalgenerator des Portals unter http://publication.pravo.gov.ru/rss
+    als "Решения Конституционного Суда Российской Федерации", und der Schwesterkanal auf demselben Muster (ohne
+    block-Parameter) hat am selben Tag mit 200 und 94 Eintraegen geantwortet. Vor dem Freischalten einmal von Hand
+    pruefen. Anmerkung: der breite Kanal ru_pravo_publication_gesetzgebung enthaelt die Verfassungsgerichtsentscheidungen
+    ohnehin mit; dieser Kanal dient nur der sauberen Zuordnung zur Rechtsprechung. Zu den Gerichtsseiten selbst:
+    vsrf.ru (Oberster Gerichtshof) antwortete am 10.09.2026 mit 200, hinterlegt aber keine Feedadresse; ksrf.ru
+    (Verfassungsgericht) antwortete gar nicht.'
+- id: cn_cac_zcfg_behoerde
+  name: Cyberspace-Verwaltung — Politik und Rechtsvorschriften
+  jurisdiktion: cn
+  kategorie: behoerde
+  url: https://www.cac.gov.cn/wxzw/zcfg/A093703index_1.htm
+  feed_url: https://www.cac.gov.cn/wxzw/zcfg/A093703index_1.htm
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: 20 Eintraege mit Titel und Datum, statisches HTML, kein Feed. Beispieltitel:
+    "专家解读｜深化数字化绿色化协同转型发展 加快发展新质生产力" (2026-09-04). Sprache chinesisch. Die CAC ist die Stelle, die die bindenden
+    KI-Regelwerke erlaesst (Verwaltungsmassnahmen fuer generative KI, Bestimmungen zur Tiefensynthese, Algorithmenempfehlung);
+    dieser Abschnitt fuehrt sie samt Auslegungen. Einschraenkung: kein RSS, kein Atom, keine JSON-Schnittstelle
+    — auf der gesamten Seite ist keine Feedadresse hinterlegt; der Tracker muss die Liste auslesen. Die Seitenzahl
+    steckt im Dateinamen (A093703index_1.htm, _2, _3 ...), was das Blaettern einfach macht, aber bei einem Umbau
+    der Seite bricht.'
+- id: cn_cac_wxan_gesetzgebung
+  name: Cyberspace-Verwaltung — Bekanntmachungen und Entwuerfe zur Anhoerung
+  jurisdiktion: cn
+  kategorie: gesetzgebung
+  url: https://www.cac.gov.cn/hdfw/wxan/A093802index_1.htm
+  feed_url: https://www.cac.gov.cn/hdfw/wxan/A093802index_1.htm
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: 20 Eintraege mit Titel und Datum, statisches HTML, kein Feed. Abschnittsname
+    "网信@你". Hier laufen die oeffentlichen Anhoerungen zu Rechtsetzungsentwuerfen ein — Beispieltitel: "国家互联网信息办公室关于《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见的通知"
+    (2026-07-03) und "国家互联网信息办公室关于《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见的通知" (2026-07-29). Sprache chinesisch. Das ist der
+    wichtigste Fruehindikator fuer neues chinesisches KI-Recht, weil Entwuerfe hier vor Erlass mit Frist erscheinen
+    — brauchbar zugleich fuer die Fristenebene. Einschraenkung: kein RSS und keine JSON-Schnittstelle; Blaettern
+    ueber A093802index_1.htm, _2, _3 ...'
+- id: cn_spc_sifajieshi_rechtsprechung
+  name: Oberster Volksgerichtshof — Justizielle Auslegungen
+  jurisdiktion: cn
+  kategorie: rechtsprechung
+  url: https://www.court.gov.cn/fabu/gengduo/16.html
+  feed_url: https://www.court.gov.cn/fabu/gengduo/16.html
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: Abschnitt "司法解释", rund 400 Eintraege in der Liste, jeder mit Titel und Datum,
+    statisches HTML. Beispieltitel: "最高人民法院关于适用《中华人民共和国生态环境法典》时间效力的若干规定" (2026-08-06). Sprache chinesisch. Justizielle
+    Auslegungen des Obersten Volksgerichtshofs sind in China bindend und damit die eigentliche Rechtsprechungsebene;
+    die Leitentscheidungen liegen daneben unter https://www.court.gov.cn/shenpan/gengduo/77.html. Einschraenkung:
+    kein RSS, kein Atom, keine JSON-Schnittstelle auf der Seite. Das Urteilsportal wenshu.court.gov.cn wurde bewusst
+    nicht aufgenommen: es verlangt Anmeldung und loest Captchas aus und ist fuer einen unbeaufsichtigten Lauf nicht
+    geeignet.'
+- id: cn_normung_tzgg_policy
+  name: Normungsausschuss Cybersicherheit TC260 — Mitteilungen und Bekanntmachungen
+  jurisdiktion: cn
+  kategorie: policy
+  url: https://www.tc260.org.cn/tc260/tzgg/list.shtml
+  feed_url: https://www.tc260.org.cn/tc260/tzgg/list.shtml
+  format: scraping
+  auth: false
+  intervall: 24h
+  zuverlaessigkeit: mittel
+  getestet: true
+  http_status: '200'
+  aktiv: false
+  hinweise: 'Am 10.09.2026 abgerufen: Abschnitt "通知公告", 10 Eintraege mit Titel und Datum, statisches HTML. Beispieltitel:
+    "关于发布《网络安全标准实践指南——个人用户使用人工智能服务安全指南》的通知" (2026-08-24) — ein KI-Treffer schon in den ersten drei Eintraegen. Sprache
+    chinesisch. Der TC260 setzt die technischen Normen, auf die die CAC-Regelwerke verweisen; die KI-Sicherheitsnormen
+    entstehen in der Arbeitsgruppe WG9. Einschraenkung: kein RSS und keine JSON-Schnittstelle. Die eigentliche Normenanhoerung
+    liegt unter https://www.tc260.org.cn/tc260/bzzqyj/yjzj_list.shtml; diese Seite wurde am 10.09.2026 mit 200 abgerufen,
+    lieferte aber nur Geruest ohne Liste — die Eintraege werden dort nachgeladen. Erst brauchbar, wenn die Nachladeadresse
+    gefunden ist; bis dahin traegt der hier gewaehlte Abschnitt, in dem die fertigen Normen ohnehin bekanntgemacht
+    werden.'

@@ -1,0 +1,72 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: ae-agentic-ai-rahmen-f1
+  datum: 2028-12-31
+  beschreibung: 'Zielquote des Agentic-AI-Rahmens der VAE: 50 % der Sektoren, Dienstleistungen und Abläufe
+    der Bundesverwaltung sollen bis 2028 agentische KI einsetzen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ae
+  regelwerk: ae-agentic-ai-rahmen
+  adressat: Bundesbehörden der VAE
+  handlungsbedarf: null
+  quelle: https://u.ae/en/about-the-uae/digital-uae/digital-technology/Agentic-AI-for-Government-Services
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 365
+  - 90
+  - 30
+- id: ae-pdpl-45-2021-f1
+  datum: null
+  beschreibung: 'Erlass der Durchführungsverordnung zum VAE-Datenschutzgesetz Nr. 45/2021. Das Gesetz
+    sah den Erlass binnen sechs Monaten vor; die Verordnung stand nach dem Kenntnisstand dieser Recherche
+    am 06.09.2026 noch aus. Mit ihrer Veröffentlichung beginnen die Übergangsfristen für Verantwortliche
+    und wird der Sanktionsapparat wirksam. Es gibt KEINEN festen Stichtag — das Datum ist deshalb null
+    und der Eintrag dient allein der Beobachtung.
+
+    '
+  typ: sonstiges
+  jurisdiktion: ae
+  regelwerk: ae-pdpl-45-2021
+  adressat: Verantwortliche und Auftragsverarbeiter in den VAE außerhalb von DIFC und ADGM
+  handlungsbedarf: 'uaelegislation.gov.ae und u.ae regelmäßig auf die Veröffentlichung der Durchführungsverordnung
+    prüfen.
+
+    '
+  quelle: https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dubai-ai-matrix-2026-f1
+  datum: 2026-04-28
+  beschreibung: 'Veröffentlichung des AI Integration Matrix Framework der Dubai Digital Authority (bereits
+    eingetreten; als Anknüpfungsdatum für die Auswertung erfasst).
+
+    '
+  typ: sonstiges
+  jurisdiktion: ae
+  regelwerk: dubai-ai-matrix-2026
+  adressat: Regierungsorganisationen des Emirats Dubai
+  handlungsbedarf: Das PDF auswerten — es ist in dieser Datei nur nachgewiesen, nicht gelesen.
+  quelle: https://www.digitaldubai.ae/knowledge-hub/publications/ai-integration-matrix-framework-for-government-organizations
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: adgm-dp-regulations-2021-f1
+  datum: 2025-07-02
+  beschreibung: 'Ende der ADGM-Konsultation Nr. 6 von 2025 über zusätzliche Verarbeitungsgrundlagen aus
+    überwiegendem öffentlichem Interesse (Änderung der Data Protection Regulations 2021). Bereits abgelaufen;
+    die Änderungsverordnung ist zu suchen.
+
+    '
+  typ: konsultation
+  jurisdiktion: ae
+  regelwerk: adgm-dp-regulations-2021
+  adressat: Im ADGM ansässige Verantwortliche
+  handlungsbedarf: Prüfen, ob die Änderungsverordnung inzwischen erlassen wurde.
+  quelle: https://www.adgm.com/legal-framework/public-consultations
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []

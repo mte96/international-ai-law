@@ -1,0 +1,4295 @@
+literatur:
+- id: 2021-lemley-casey-fair-learning
+  typ: aufsatz
+  autoren:
+  - Lemley, Mark A.
+  - Casey, Bryan
+  titel: Fair Learning
+  fundstelle: Texas Law Review 99 (2021), Heft 4, 743
+  jahr: 2021
+  sprache: en
+  ssrn_id: '3528447'
+  url: https://texaslawreview.org/fair-learning/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-kadrey-meta-sj
+  - us-2025-thomson-reuters-ross-fairuse
+  kernthese: Das Training von Modellen an geschützten Werken ist regelmäßig Fair Use, weil es die Werke
+    nicht wegen ihres Ausdrucks, sondern wegen der in ihnen enthaltenen unschützbaren Information nutzt.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, den jede Partei in jedem der US-Verfahren zitiert und an dem sich das US
+    Copyright Office in Teil 3 ausdrücklich abarbeitet. Alsup argumentiert in Bartz faktisch mit Lemley/
+    Casey, ohne sie zu nennen. Ohne diesen Aufsatz versteht man die amerikanische Diskussion nicht. Teilweise
+    überholt: Der Text stammt aus der Zeit vor generativer KI und behandelt vor allem diskriminative Modelle.
+    Zwei tragende Annahmen sind durch die Entwicklung erschüttert — erstens die Annahme, Modelle würden
+    keine Ausdrucksformen speichern (Memorisierung; dazu Cooper/Grimmelmann), zweitens die Annahme, es
+    gebe keinen Markt für Trainingslizenzen (den gibt es seit 2023). Chhabrias Marktverwässerungstheorie
+    ist die direkte Antwort auf die zweite Annahme. Lesen als Ausgangspunkt, nicht als geltenden Stand.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2017-sobel-fairuse-crisis
+  typ: aufsatz
+  autoren:
+  - Sobel, Benjamin L. W.
+  titel: Artificial Intelligence's Fair Use Crisis
+  fundstelle: Columbia Journal of Law & the Arts 41 (2017), 45
+  jahr: 2017
+  sprache: en
+  ssrn_id: '3032076'
+  url: https://www.bensobel.org/files/articles/41.1_Sobel-FINAL.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - arbeit
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Die Fair-Use-Doktrin kann maschinelles Lernen an expressiven Werken nicht mehr bewältigen,
+    weil sie zwischen nicht-expressiver Analyse und expressiver Ausgabe nicht trennen kann und Urheber
+    unentgolten lässt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die früheste Arbeit, die das Problem zutreffend benennt: Wenn generative Systeme
+    aus expressiven Werken expressive Ausgaben erzeugen, trägt die Rechtsprechung zu nicht-expressiver
+    Nutzung (Google Books, HathiTrust) nicht mehr. Sobel hat 2017 vorweggenommen, was Chhabria 2025 als
+    "market dilution" formuliert. Wer die Genealogie der Marktverwässerungstheorie verstehen will, fängt
+    hier an.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2016-grimmelmann-literate-robots
+  typ: aufsatz
+  autoren:
+  - Grimmelmann, James
+  titel: Copyright for Literate Robots
+  fundstelle: Iowa Law Review 101 (2016), 657
+  jahr: 2016
+  sprache: en
+  ssrn_id: '2606731'
+  url: https://james.grimmelmann.net/files/articles/copyright-for-literate-robots.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Das Urheberrecht hat sich stillschweigend darauf eingerichtet, maschinelles Lesen anders
+    zu behandeln als menschliches Lesen — das ist keine Anomalie, sondern eine tragende Struktur.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die dogmatische Grundlage der Lehre von der nicht-expressiven Nutzung, auf der die
+    gesamte amerikanische Verteidigungslinie ruht. Bibas hat sie in Thomson Reuters ./. ROSS im Ergebnis
+    verworfen, ohne sie zu widerlegen — er hat schlicht darauf abgestellt, dass ROSS ein Konkurrenzprodukt
+    gebaut hat. Angreifbar ist Grimmelmanns Prämisse, dass Maschinen nicht "genießen"; genau daran setzt
+    die japanische Regelung des Art. 30-4 an, dort aber gesetzlich statt richterrechtlich.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-106
+- id: 2018-levendowski-implicit-bias
+  typ: aufsatz
+  autoren:
+  - Levendowski, Amanda
+  titel: How Copyright Law Can Fix Artificial Intelligence's Implicit Bias Problem
+  fundstelle: Washington Law Review 93 (2018), 579
+  jahr: 2018
+  sprache: en
+  ssrn_id: '3024938'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024938
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - grundrechte
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Eine weite Fair-Use-Auslegung ist geboten, weil restriktives Urheberrecht Trainingsdaten
+    auf gemeinfreie und altersverzerrte Korpora verengt und dadurch Verzerrungen in Modellen verstärkt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das grundrechtliche Argument für die weite Schranke, das in der US-Debatte unterschätzt
+    wird und in der europäischen fast vollständig fehlt. Empirisch inzwischen überholt — moderne Korpora
+    sind nicht mehr Enron-E-Mails und Public-Domain-Bücher — aber die Argumentationsfigur (Schranke als
+    Instrument der Datenvielfalt) taucht 2025/26 in den Stellungnahmen von EFF und Authors Alliance unverändert
+    wieder auf.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2023-sag-copyright-safety
+  typ: aufsatz
+  autoren:
+  - Sag, Matthew
+  titel: Copyright Safety for Generative AI
+  fundstelle: Houston Law Review 61 (2023), 295
+  jahr: 2023
+  sprache: en
+  ssrn_id: '4438593'
+  url: https://houstonlawreview.org/article/92126-copyright-safety-for-generative-ai.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  - haftung
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-nyt-openai-mtd
+  kernthese: Training ist grundsätzlich zulässige nicht-expressive Nutzung, aber der Entwickler schuldet
+    Sorgfalt gegen Memorisierung und Regurgitation — Fair Use ist an Sicherheitsvorkehrungen geknüpft.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einflussreichste vermittelnde Position im US-Diskurs und die argumentative Brücke
+    zwischen der amerikanischen und der europäischen Debatte: Sag knüpft die Zulässigkeit an das Nichtvorhandensein
+    von Memorisierung — genau der Punkt, an dem das LG München I OpenAI verurteilt hat. Wer Sag ernst
+    nimmt, muss das Münchner Urteil im Ergebnis nicht ablehnen, sondern nur seine Prämisse zur Speicherung
+    im Modell prüfen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-106
+- id: 2024-sag-fairness-fairuse
+  typ: aufsatz
+  autoren:
+  - Sag, Matthew
+  titel: Fairness and Fair Use in Generative AI
+  fundstelle: Fordham Law Review 92 (2024), 1887
+  jahr: 2024
+  sprache: en
+  url: https://ir.lawnet.fordham.edu/flr/vol92/iss5/7/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Die Empörung über KI-Training speist sich aus Verteilungsgerechtigkeit, nicht aus Urheberrecht;
+    Fair Use ist das falsche Werkzeug, um dieses Unbehagen zu bearbeiten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Nützlich, weil Sag die normative von der dogmatischen Frage trennt und damit erklärt,
+    warum die deutsche und die amerikanische Debatte aneinander vorbeireden: In Deutschland wird das Verteilungsproblem
+    über die Schranke plus Vergütung gelöst, in den USA über Fair Use — mit der Folge, dass die Verteilungsfrage
+    im US-Recht keinen Ort hat und deshalb in Faktor vier hineingedrückt wird (Chhabria). Angreifbar:
+    Sag unterschätzt, dass Marktverwässerung auch dogmatisch fassbar ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2023-henderson-foundation-models-fairuse
+  typ: aufsatz
+  autoren:
+  - Henderson, Peter
+  - Li, Xüchen
+  - Jurafsky, Dan
+  - Hashimoto, Tatsunori
+  - Lemley, Mark A.
+  - Liang, Percy
+  titel: Foundation Models and Fair Use
+  fundstelle: Journal of Machine Learning Research 24 (2023), Nr. 400
+  jahr: 2023
+  sprache: en
+  ssrn_id: '4404340'
+  url: https://arxiv.org/abs/2303.15715
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  - sicherheit-export
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  kernthese: Fair Use trägt das Training nur, solange technische Maßnahmen (Deduplizierung, Ausgabefilter,
+    Differential Privacy) verhindern, dass Modelle geschützten Ausdruck reproduzieren.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die juristische mit der informatischen Debatte verbindet, und der einzige
+    mit einer konkreten Liste von Maßnahmen. Er ist der stillschweigende Maßstab hinter Alsups Formel
+    von der "quintessentially transformative" Nutzung ebenso wie hinter dem Vorwurf des LG München I,
+    OpenAI habe zumutbare Vorkehrungen unterlassen. Für die Frage der Modellgewichte zentral, weil er
+    zeigt, dass Memorisierung eine Design-Variable ist und keine Naturkonstante.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2024-lee-cooper-grimmelmann-supplychain
+  typ: aufsatz
+  autoren:
+  - Lee, Katherine
+  - Cooper, A. Feder
+  - Grimmelmann, James
+  titel: 'Talkin'' ''Bout AI Generation: Copyright and the Generative-AI Supply Chain'
+  fundstelle: Journal of the Copyright Society (2024); arXiv:2309.08133
+  jahr: 2024
+  sprache: en
+  ssrn_id: '4523551'
+  url: https://james.grimmelmann.net/files/articles/talkin-bout-ai-generation.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - haftung
+  - content
+  - gpai
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  kernthese: Urheberrechtliche Fragen der generativen KI lassen sich nur beantworten, wenn man die Lieferkette
+    in ihre acht Stufen zerlegt und für jede Stufe gesondert Handlung, Handelnden und Werkbezug bestimmt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Methodisch die sauberste Arbeit im Feld und das beste Gegenmittel gegen die verbreitete
+    Vermengung von Datensatzerstellung, Vortraining, Feinabstimmung und Inferenz. Genau diese Vermengung
+    ist der Grund, warum OLG Hamburg (Datensatz) und LG München I (Modell und Ausgabe) scheinbar widersprechen,
+    ohne dass sie dasselbe entschieden hätten. Wer die deutsche Divergenz sortieren will, braucht dieses
+    Raster.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-106
+  - usc-17-107
+  - usc-17-501-a
+- id: 2025-cooper-grimmelmann-files
+  typ: aufsatz
+  autoren:
+  - Cooper, A. Feder
+  - Grimmelmann, James
+  titel: 'The Files are in the Computer: On Copyright, Memorization, and Generative AI'
+  fundstelle: Chicago-Kent Law Review 100 (2025), Heft 1, 141
+  jahr: 2025
+  sprache: en
+  ssrn_id: '4803118'
+  url: https://james.grimmelmann.net/files/articles/the-files-are-in-the-computer.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - uk
+  themenachsen:
+  - urheberrecht
+  - content
+  - gpai
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - fair-use-training
+  bezug_urteile:
+  - uk-2025-getty-stability
+  - de-2025-gema-openai-lg
+  - us-2025-nyt-openai-mtd
+  kernthese: '"Memorisierung" bezeichnet in der Informatik mindestens sechs verschiedene Phänomene; nur
+    eines davon — extraktive Memorisierung — ist urheberrechtlich als Speicherung im Modell zu behandeln.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Schlüsseltext für den Streitstand `modellgewichte-kopie`, und der einzige, der
+    die technische Begriffsverwirrung auflöst, an der EWHC, LG München I und das Bezirksgericht Jinshan
+    unabhängig voneinander scheitern. Cooper/Grimmelmann zeigen, dass die Frage "enthält das Modell eine
+    Kopie?" falsch gestellt ist: Entscheidend ist, ob ein Werk mit vertretbarem Aufwand aus dem Modell
+    rekonstruierbar ist — eine graduelle, werkbezogene und modellversionsabhängige Eigenschaft. Damit
+    lässt sich zeigen, dass Getty und GEMA sich nicht widersprechen müssen: Der EWHC hat über Stable Diffusion
+    entschieden (Bild, starke Kompression, kaum extraktive Memorisierung), das LG München I über GPT-4
+    und neun konkrete Liedtexte (Text, kurze Werke, hohe Duplikation im Korpus). Wer diese Unterscheidung
+    nicht macht, hält eine Divergenz für gegeben, die es so nicht gibt. Angreifbar ist der Aufsatz dort,
+    wo er die Rekonstruierbarkeit zum alleinigen Kriterium macht: Das deutsche Recht kennt keinen Aufwandsvorbehalt
+    bei § 16 UrhG.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-16
+  - usc-17-106
+  - usc-17-107
+- id: 2024-lemley-upside-down
+  typ: aufsatz
+  autoren:
+  - Lemley, Mark A.
+  titel: How Generative AI Turns Copyright Law Upside Down
+  fundstelle: Science and Technology Law Review 25 (2024), Heft 2
+  jahr: 2024
+  sprache: en
+  doi: 10.52214/stlr.v25i2.12761
+  url: https://journals.library.columbia.edu/index.php/stlr/article/view/12761
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - schutzfähigkeit-output
+  - fair-use-training
+  kernthese: 'Generative KI kehrt die urheberrechtliche Grundstruktur um: Die schöpferische Leistung liegt
+    nicht mehr in der Ausführung, sondern in der Frage — und genau die schützt das Urheberrecht nicht.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die klarste Formulierung des Grundproblems hinter dem Streitstand `schutzfähigkeit-output`.
+    Lemleys Befund erklärt, warum die USA (Human Authorship, Prompt genügt nicht), China (Li ./. Liu:
+    Steuerungstiefe genügt) und Mexiko (kein Schutz, Gemeinfreiheit) zu drei verschiedenen Ergebnissen
+    kommen können, ohne dass eine der drei Positionen dogmatisch zwingend falsch wäre: Sie gewichten dieselbe
+    Umkehrung unterschiedlich.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-102-a
+- id: 2023-samuelson-science-genai
+  typ: aufsatz
+  autoren:
+  - Samuelson, Pamela
+  titel: Generative AI meets copyright
+  fundstelle: Science 381 (2023), 158
+  jahr: 2023
+  sprache: en
+  doi: 10.1126/science.adi0656
+  url: https://www.science.org/doi/10.1126/science.adi0656
+  zugang: unklar
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  - schutzfähigkeit-output
+  kernthese: Die urheberrechtlichen Fragen der generativen KI zerfallen in drei getrennte Komplexe — Eingabe,
+    Modell, Ausgabe —, die nicht einheitlich beantwortet werden können.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Zwei Seiten, die das Feld für Nichtjuristen aufgeschlossen haben und deshalb überproportional
+    zitiert werden. Als Einstieg geeignet, dogmatisch dünn. Der Wert liegt in der Dreiteilung, die inzwischen
+    Standard ist und der auch das EP-Gutachten Lucchi (Training / Creation / Regulation) folgt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2019-ginsburg-budiardjo-authors-machines
+  typ: aufsatz
+  autoren:
+  - Ginsburg, Jane C.
+  - Budiardjo, Luke Ali
+  titel: Authors and Machines
+  fundstelle: Berkeley Technology Law Journal 34 (2019), 343
+  jahr: 2019
+  sprache: en
+  ssrn_id: '3233885'
+  url: https://btlj.org/data/articles2019/34_2/01_Ginsburg_Web.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - schutzfähigkeit-output
+  bezug_urteile:
+  - us-2025-thaler-dc-circuit
+  - cn-2023-li-liu
+  - mx-2025-scjn-amparo-6-2025
+  kernthese: Urheber ist, wer die Ausgabe konzipiert und ihre Ausführung so weit steuert, dass das Ergebnis
+    ihm zurechenbar bleibt; Maschinen sind Werkzeuge, nie Urheber.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das dogmatische Fundament des amerikanischen Human-Authorship- Erfordernisses, auf
+    das sich das Copyright Office in Teil 2 ausdrücklich stützt. Bemerkenswert für den Rechtsvergleich:
+    Der von Ginsburg/Budiardjo entwickelte Maßstab "Konzeption plus Ausführungskontrolle" ist inhaltlich
+    fast deckungsgleich mit dem chinesischen Steuerungsansatz in Li ./. Liu — die Divergenz zwischen Washington
+    und Peking liegt nicht im Maßstab, sondern in der Schwelle, ab der Prompting als Ausführungskontrolle
+    zählt. Wer die Divergenz beschreiben will, sollte das nicht als Prinzipienstreit darstellen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-102-a
+  - usc-17-201-a
+- id: 2025-brauneis-training-human-authors
+  typ: aufsatz
+  autoren:
+  - Brauneis, Robert
+  titel: Copyright and the Training of Human Authors and Generative Machines
+  fundstelle: Columbia Journal of Law & the Arts (2025); GWU Legal Studies Research Paper
+  jahr: 2025
+  sprache: en
+  ssrn_id: '4909592'
+  url: https://scholarship.law.gwu.edu/faculty_publications/1751/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Der Vergleich zwischen maschinellem Training und dem Lernen menschlicher Autoren trägt nicht,
+    weil menschliches Lernen mit Werkgenuss verbunden ist und deshalb den Primärmarkt bedient.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die sorgfältigste Auseinandersetzung mit dem in jedem Verfahren vorgetragenen Analogieargument
+    ("Menschen lernen auch aus Büchern"). Brauneis zerlegt es überzeugend. Bemerkenswert ist, dass sein
+    Kriterium — Werkgenuss als Abgrenzung — inhaltlich genau das japanische Kriterium des Art. 30-4 ist
+    (Nutzung ohne "Genießen"), dort aber mit umgekehrtem Vorzeichen verwendet wird: In Japan begründet
+    fehlender Werkgenuss die Freistellung, bei Brauneis begründet er die Nichtvergleichbarkeit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2023-carlini-extracting-diffusion
+  typ: aufsatz
+  autoren:
+  - Carlini, Nicholas
+  - Hayes, Jamie
+  - Nasr, Milad
+  - Jagielski, Matthew
+  - Sehwag, Vikash
+  - Tramèr, Florian
+  - Balle, Borja
+  - Ippolito, Daphne
+  - Wallace, Eric
+  titel: Extracting Training Data from Diffusion Models
+  fundstelle: Proceedings of the 32nd USENIX Security Symposium (2023), 5253; arXiv:2301.13188
+  jahr: 2023
+  sprache: en
+  url: https://arxiv.org/pdf/2301.13188
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - datenschutz
+  - sicherheit-export
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  bezug_urteile:
+  - uk-2025-getty-stability
+  - de-2025-gema-openai-lg
+  kernthese: Aus Diffusionsmodellen lassen sich einzelne Trainingsbilder nahezu identisch rekonstruieren;
+    die Rate ist gering, aber sie ist nicht null.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die empirische Grundlage, ohne die die juristische Debatte über Modellgewichte reine
+    Spekulation bleibt — und der Befund, den der EWHC in Getty ./. Stability nicht adressiert, weil Getty
+    die Extraktionsansprüche im Verfahren fallengelassen hatte. Wer die Getty-Entscheidung als Präjudiz
+    für "Modellgewichte sind keine Kopie" liest, muss sich an dieser Arbeit messen lassen: Sie zeigt,
+    dass die Aussage empirisch nicht generell gilt, sondern von Werkart, Duplikationsgrad und Modellgröße
+    abhängt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-106
+- id: 2025-usco-part3-training
+  typ: bericht
+  autoren:
+  - United States Copyright Office
+  titel: 'Copyright and Artificial Intelligence, Part 3: Generative AI Training (Pre-Publication Version)'
+  fundstelle: U.S. Copyright Office, Washington D.C., Mai 2025
+  jahr: 2025
+  sprache: en
+  url: https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_regelwerke:
+  - us-copyright-ai-bericht
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-kadrey-meta-sj
+  - us-2025-thomson-reuters-ross-fairuse
+  kernthese: Training auf geschützten Werken ist nicht pauschal Fair Use; Transformativität nimmt ab,
+    je näher die Ausgabe an den Werken der Trainingsmenge liegt, und der vierte Faktor erfasst auch Marktverwässerung
+    durch nicht-verletzende Konkurrenzware.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Bericht ist der Ausgangspunkt jeder Diskussion über den Streitstand `fair-use-training`,
+    weil er die Marktverwässerung als vierten-Faktor-Argument überhaupt erst in die Debatte eingeführt
+    hat — sechs Wochen bevor Chhabria sie in Kadrey aufgriff. Die drei US-Urteile vom Juni 2025 lassen
+    sich als drei Antworten auf diesen Bericht lesen: Alsup ignoriert ihn, Chhabria übernimmt seine Kernthese,
+    Bibas hatte im Februar 2025 bereits ohne ihn ähnlich entschieden. Politisch belastet: Registerin Perlmutter
+    wurde einen Tag nach Veröffentlichung entlassen, der Bericht ist bis heute nur als "pre-publication
+    version" verfügbar und seine institutionelle Autorität ist umstritten. Das ist ein Argument gegen
+    sein Gewicht vor Gericht, keines gegen seine Lektüre — er ist die bestbelegte Zusammenstellung des
+    Streitstands, die es gibt, mit Auswertung von über 10.000 Konsultationsantworten. Gegenposition dazu
+    ausdrücklich: Lee (2025) und EFF (2025).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-106
+- id: 2025-usco-part2-copyrightability
+  typ: bericht
+  autoren:
+  - United States Copyright Office
+  titel: 'Copyright and Artificial Intelligence, Part 2: Copyrightability'
+  fundstelle: U.S. Copyright Office, Washington D.C., Januar 2025
+  jahr: 2025
+  sprache: en
+  url: https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_regelwerke:
+  - us-copyright-ai-bericht
+  bezug_streitstaende:
+  - schutzfähigkeit-output
+  bezug_urteile:
+  - us-2025-thaler-dc-circuit
+  - us-2024-allen-perlmutter
+  kernthese: Prompts allein begründen keine Urheberschaft; geschützt ist nur der menschliche Beitrag —
+    Auswahl, Anordnung, Bearbeitung —, nicht das KI-generierte Material selbst.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Darlegung der amerikanischen Position im Streitstand `schutzfähigkeit-output`
+    und der direkte Gegenpol zu Li ./. Liu. Der Bericht ist dogmatisch sorgfältiger als Teil 3 und politisch
+    unbelastet. Wichtig für den Rechtsvergleich ist seine ausdrückliche Ablehnung eines Sui-generis-Rechts
+    für computergenerierte Erzeugnisse — dieselbe Entscheidung, die das Vereinigte Königreich im März
+    2026 für s. 9(3) CDPA getroffen hat.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-102-a
+- id: 2025-lee-fairuse-origin
+  typ: aufsatz
+  autoren:
+  - Lee, Edward
+  titel: Fair Use and the Origin of AI Training
+  fundstelle: Houston Law Review (2025, im Erscheinen); Santa Clara University Legal Studies Research
+    Paper
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5253011'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5253011
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-kadrey-meta-sj
+  - us-2025-thomson-reuters-ross-fairuse
+  kernthese: 'Das Copyright Office irrt: Skalierung als Trainingsmethode stammt aus der universitären
+    Forschung, ist transformativ im Sinne von Google und Warhol, und Marktverwässerung durch nicht-verletzende
+    Erzeugnisse ist kein anerkannter Schaden.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die systematischste Widerlegung des Copyright-Office-Berichts und damit der notwendige
+    Gegenpol zu ihm — beide zusammen ergeben den Streitstand `fair-use-training` vollständig, keiner allein.
+    Lees Beitrag besteht in zwei Punkten: erstens der wissenschaftshistorischen Rekonstruktion, dass die
+    Skalierung auf große Korpora eine Erkenntnis universitärer Forschung war und keine kommerzielle Umgehungsstrategie;
+    zweitens dem dogmatischen Nachweis, dass die Marktverwässerungstheorie das Urheberrecht zu einem Konkurrenzschutzrecht
+    macht. Angreifbar: Lee behandelt die Beschaffungsfrage stiefmütterlich. Genau daran ist Anthropic
+    mit 1,5 Mrd. USD gescheitert, und genau dort liegt der Punkt, an dem Alsup und Chhabria sich einig
+    waren.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2024-charlesworth-illusory
+  typ: aufsatz
+  autoren:
+  - Charlesworth, Jacqueline C.
+  titel: Generative AI's Illusory Case for Fair Use
+  fundstelle: Vanderbilt Journal of Entertainment & Technology Law 26 (2024), Heft 4, 875
+  jahr: 2024
+  sprache: en
+  ssrn_id: '4924997'
+  url: https://scholarship.law.vanderbilt.edu/jetlaw/vol26/iss4/7/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  kernthese: 'Die Fair-Use-Verteidigung beruht auf einer technischen Fiktion: Generative Modelle speichern
+    Ausdruck in ihren Parametern und erzeugen Konkurrenzware, weshalb weder Faktor eins noch Faktor vier
+    für sie streiten.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die stärkste akademische Gegenposition zu Fair Use, geschrieben von der ehemaligen
+    General Counsel des Copyright Office — was erklärt, warum Teil 3 des Berichts ihrer Linie folgt. Charlesworth
+    argumentiert genau dort, wo die europäischen Gerichte im Herbst 2025 gelandet sind: dass das Modell
+    selbst Ausdruck enthält. Ihre Arbeit ist damit die brauchbarste Brücke, um den amerikanischen und
+    den deutschen Streitstand aufeinander zu beziehen. Angreifbar ist die technische Prämisse (dazu Cooper/
+    Grimmelmann), und der Aufsatz stammt aus der Zeit vor allen drei Urteilen — er kennt weder Alsups
+    Zweiteilung noch Chhabrias Ausformung der Marktverwässerung.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2025-samuelson-legally-speaking
+  typ: aufsatz
+  autoren:
+  - Samuelson, Pamela
+  titel: 'Legally Speaking: Does Using In-Copyright Works as Training Data Infringe?'
+  fundstelle: Communications of the ACM (2025); UC Berkeley Public Law Research Paper
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5342516'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5342516
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-kadrey-meta-sj
+  kernthese: 'Alsup und Chhabria sind sich in der Transformativität einig und uneins in genau zwei Punkten:
+    der Bedeutung rechtswidriger Beschaffung und der Tragfähigkeit der Marktverwässerungstheorie.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die knappste zuverlässige Bestandsaufnahme der Divergenz zwischen Bartz und Kadrey,
+    von einer Autorin ohne Lagerzugehörigkeit. Als erste Lektüre zum Streitstand besser geeignet als jede
+    Kanzleianalyse, weil Samuelson die beiden Streitpunkte isoliert, statt die Urteile nachzürzählen.
+    Kurz, deshalb keine Pflicht — aber die zwei Stunden, die man am günstigsten investiert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-106
+- id: 2026-bruni-training-on-trial
+  typ: aufsatz
+  autoren:
+  - Bruni, Barbara
+  titel: 'Training on Trial: Insights from Bartz and Kadrey'
+  fundstelle: Journal of the Copyright Society 73 (2026), 263
+  jahr: 2026
+  sprache: en
+  ssrn_id: '6725558'
+  doi: 10.2139/ssrn.6725558
+  url: https://copyrightsociety.org/wp-content/uploads/2026/04/73-J.-Copyright-Socy-263-2026.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-kadrey-meta-sj
+  kernthese: Beide Urteile legen dieselbe strukturelle Spannung im Fair Use offen — die Doktrin kann Wertabschöpfung
+    ohne Ausdrucksübernahme nicht erfassen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die erste ausführliche wissenschaftliche Aufarbeitung beider Urteile in einer Fachzeitschrift,
+    mit frei zugänglichem Volltext. Bruni ist unabhängig und dadurch weniger vorhersehbar als Lee oder
+    Charlesworth. Ihre Kategorie der "Wertabschöpfung" (value extraction) ist ein besserer Begriff als
+    Marktverwässerung, weil er nicht so tut, als sei der Schaden nachweisbar wettbewerblich. Wer nach
+    den Kanzleimemoranden etwas Belastbares zu Bartz und Kadrey lesen will, liest das.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-202
+- id: 2026-samuelson-pnas-collective-licensing
+  typ: aufsatz
+  autoren:
+  - Samuelson, Pamela
+  titel: Assessing the feasibility of collective licensing of in-copyright works as training data for
+    generative AI systems
+  fundstelle: Proceedings of the National Academy of Sciences (2026); UC Berkeley Public Law Research
+    Paper Nr. 6051014
+  jahr: 2026
+  sprache: en
+  ssrn_id: '6051014'
+  doi: 10.1073/pnas.2509769122
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6051014
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - vertrag
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  - tdm-schranke-de
+  kernthese: 'Kollektive Lizenzierung von Trainingsdaten ist als Kompromiss attraktiv, scheitert aber
+    an drei Problemen: Repertoirevollständigkeit, Verteilungsschlüssel und Marktzutrittsschranken für
+    kleine Entwickler.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die derzeit beste nüchterne Prüfung der Lösung, die in Europa als selbstverständlich
+    gilt (VG Wort, GEMA) und in den USA als exotisch. Samuelson ist keine Gegnerin kollektiver Verwertung,
+    weshalb ihre Skepsis mehr wiegt als die der Industrie. Für den deutschen Leser der wichtigste Punkt:
+    Sie zeigt, dass eine Verwertungsgesellschaftslösung strukturell die großen Anbieter begünstigt, weil
+    nur sie die Transaktionskosten tragen können — ein Argument, das in der deutschen Debatte über § 44b
+    plus Vergütung bisher kaum vorkommt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2026-bersh-dmca-1202
+  typ: aufsatz
+  autoren:
+  - Bersh, Larissa
+  titel: 'Beyond Infringement: Rethinking DMCA § 1202 for Generative AI'
+  fundstelle: Stanford Law Review 78 (2026), 667
+  jahr: 2026
+  sprache: en
+  url: https://review.law.stanford.edu/wp-content/uploads/sites/3/2026/03/Bersh-78-Stan.-L.-Rev.-667.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - haftung
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2024-doe-github-tigar
+  - us-2024-rawstory-mcmahon
+  - us-2025-intercept-rakoff
+  kernthese: 17 U.S.C. § 1202 wird zum Umgehungstatbestand des Urheberrechts, weil er weder Schutzfähigkeit
+    noch Fair Use voraussetzt; Haftung sollte auf identische Ausgaben beschränkt werden.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der bisher übersehene Nebenkriegsschauplatz der US-Verfahren: Wenn Fair Use das Training
+    deckt, bleibt § 1202 als Anspruch ohne Schrankenkorrektiv übrig. Die Entscheidungen Doe ./. GitHub,
+    Raw Story und Intercept haben hier eine eigene Divergenz erzeugt, die mit dem Fair-Use-Streit nichts
+    zu tun hat. Für den Auftraggeber nur relevant, wenn er die US-Verfahren tatsächlich prozessual verfolgt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-1202-b-1
+  - usc-17-1202-b-3
+  - usc-17-1202-c
+- id: 2025-eff-usco-draft-errs
+  typ: blogbeitrag
+  autoren:
+  - Electronic Frontier Foundation
+  titel: The U.S. Copyright Office's Draft Report on AI Training Errs on Fair Use
+  fundstelle: EFF Deeplinks, 15.05.2025
+  jahr: 2025
+  sprache: en
+  url: https://www.eff.org/deeplinks/2025/05/us-copyright-offices-draft-report-ai-training-errs-fair-use
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - grundrechte
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Der Bericht erfindet mit der Marktverwässerung einen Schadensbegriff, den das Gesetz nicht
+    kennt, und macht das Urheberrecht damit zu einem Instrument gegen Wettbewerb durch nicht-verletzende
+    Werke.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Interessenvertretung, nicht Wissenschaft — aber erfasst, weil die EFF die Marktverwässerungskritik
+    zwei Wochen vor Chhabrias Urteil in der Form vorgetragen hat, in der sie seither in Schriftsätzen
+    erscheint. Als Quelle für die Argumentationslage der Nutzerseite brauchbar, als Autorität nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2025-authorsalliance-ross-unpersuasive
+  typ: blogbeitrag
+  autoren:
+  - Authors Alliance
+  titel: 'Thomson Reuters v. Ross: The First AI Fair Use Ruling Fails to Persuade'
+  fundstelle: Authors Alliance Blog, 13.02.2025
+  jahr: 2025
+  sprache: en
+  url: https://www.authorsalliance.org/2025/02/13/thomson-reuters-v-ross-the-first-ai-fair-use-ruling-fails-to-persuade/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2025-thomson-reuters-ross-fairuse
+  - us-2026-ross-3circuit
+  kernthese: Bibas' Kehrtwende gegenüber seinem eigenen Urteil von 2023 ist methodisch nicht begründet
+    und beruht auf einer Verwechslung von Zwischennutzung und Endprodukt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kurz und interessengeleitet, aber die schnellste Darstellung dessen, was an ROSS
+    methodisch ungewöhnlich ist: Derselbe Richter hat 2023 Fair Use für möglich gehalten und 2025 ohne
+    neue Tatsachengrundlage das Gegenteil entschieden. Relevant für die Prognose des Berufungsverfahrens
+    vor dem Third Circuit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-102-a
+- id: 2024-dornis-stober-ki-training
+  typ: monographie
+  autoren:
+  - Dornis, Tim W.
+  - Stober, Sebastian
+  titel: Urheberrecht und Training generativer KI-Modelle. Technologische und juristische Grundlagen
+  fundstelle: Nomos, Baden-Baden 2024 (Recht und Digitalisierung Bd. 19)
+  jahr: 2024
+  sprache: de
+  ssrn_id: '4946214'
+  isbn: 978-3-7560-1866-2
+  url: https://urheber.info/media/pages/diskurs/ai-training-is-copyright-infringement/fde9e3aa84-1725457258/abstract_english_german.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - modellgewichte-kopie
+  bezug_urteile:
+  - de-2025-gema-openai-lg
+  - de-2025-laion-olg
+  - de-2026-laion-bgh
+  kernthese: Das Training generativer Modelle ist kein Text und Data Mining im Sinne der §§ 44b, 60d UrhG,
+    weil es nicht auf Informationsgewinnung, sondern auf Speicherung von Ausdruck in den Modellparametern
+    gerichtet ist.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Arbeit, der das LG München I in GEMA ./. OpenAI in der Sache gefolgt ist und
+    an der sich das OLG Hamburg in LAION abarbeitet. Ohne sie versteht man die deutsche Divergenz nicht.
+    Die Besonderheit ist die Doppelautorschaft: Stober ist Informatiker, weshalb der technische Teil belastbarer
+    ist als in der übrigen deutschen Literatur — und weshalb die Gegenargumentation an ihm ansetzen muss,
+    nicht an der juristischen Subsumtion. Angreifbar an drei Stellen. Erstens ist die Studie von der Initiative
+    Urheberrecht in Auftrag gegeben, was sie nicht falsch macht, aber bei der Gewichtung zu berücksichtigen
+    ist. Zweitens ist die These, die Modellparameter enthielten Vervielfältigungen, in dieser Allgemeinheit
+    durch die Memorisierungsforschung nicht gedeckt (Cooper/Grimmelmann; Getty ./. Stability). Drittens
+    verengt die Studie den TDM-Begriff auf "Informationsgewinnung" enger als Art. 2 Nr. 2 DSM-RL es hergibt
+    — genau hier hat das OLG Hamburg widersprochen. Der BGH verhandelt am 03.09.2026 über eben diese Frage.
+    Englische Fassung siehe 2025-dornis-stober-arxiv-en.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-2-nr-2
+  - urhg-16
+  - urhg-44b
+  - urhg-44b-abs-1
+  - urhg-60d
+- id: 2025-dornis-stober-arxiv-en
+  typ: aufsatz
+  autoren:
+  - Dornis, Tim W.
+  - Stober, Sebastian
+  titel: Generative AI Training and Copyright Law
+  fundstelle: arXiv:2502.15858 (cs.CY), Februar 2025, revidiert
+  jahr: 2025
+  sprache: en
+  url: https://arxiv.org/abs/2502.15858
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - modellgewichte-kopie
+  kernthese: Trainierte Modelle speichern Trainingsdaten in komprimierter Form; die europäischen TDM-Schranken
+    decken das Training deshalb nicht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die englische Kurzfassung der Nomos-Studie, unter CC BY frei abrufbar und deshalb
+    der praktikable Zugang für alle, die keine Bibliothek bemühen wollen. Für die internationale Wirkung
+    erheblich: Es ist der einzige deutsche Beitrag, der in der angelsächsischen Debatte über Modellgewichte
+    regelmäßig zitiert wird, und er wurde in den Verfahren Getty ./. Stability und in den US-Verfahren
+    von Klägerseite eingeführt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+  - urhg-16
+  - urhg-44b
+- id: 2022-margoni-kretschmer-tdm-deeper-look
+  typ: aufsatz
+  autoren:
+  - Margoni, Thomas
+  - Kretschmer, Martin
+  titel: 'A Deeper Look into the EU Text and Data Mining Exceptions: Harmonisation, Data Ownership, and
+    the Future of Technology'
+  fundstelle: GRUR International 71 (2022), Heft 8, 685
+  jahr: 2022
+  sprache: en
+  doi: 10.1093/grurint/ikac054
+  ssrn_id: '3886695'
+  url: https://academic.oup.com/grurint/article/71/8/685/6650009
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - urheberrecht
+  - content
+  - wettbewerb
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Art. 3 und 4 DSM-RL sind technologieneutral und erfassen jede automatisierte Analyse; der
+    Opt-out des Art. 4 begründet faktisch ein neues Ausschliesslichkeitsrecht an Daten, das die Richtlinie
+    nicht schaffen wollte.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Auslegung der TDM-Schranken vor dem Aufkommen generativer KI, frei
+    zugänglich, und der Text, auf den sich das OLG Hamburg im Ergebnis stützt, wenn es Training als TDM
+    qualifiziert. Er ist das Gegenstück zu Dornis/Stober und argumentiert von der Entstehungsgeschichte
+    her: Die Richtlinie wollte gerade nicht nach Zweck der Analyse differenzieren. Wer die deutsche Divergenz
+    beurteilen will, braucht beide.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-3
+  - dsm-rl-art-4
+- id: 2024-kretschmer-margoni-oruc-lifecycle
+  typ: aufsatz
+  autoren:
+  - Kretschmer, Martin
+  - Margoni, Thomas
+  - Oruç, Pınar
+  titel: Copyright Law and the Lifecycle of Machine Learning Models
+  fundstelle: IIC — International Review of Intellectual Property and Competition Law 55 (2024), 110
+  jahr: 2024
+  sprache: en
+  doi: 10.1007/s40319-023-01419-3
+  ssrn_id: '4670563'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4670563
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - uk
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - wettbewerb
+  - content
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - modellgewichte-kopie
+  kernthese: Urheberrechtliche Bewertung muss dem Lebenszyklus des Modells folgen — Datensammlung, Vortraining,
+    Feinabstimmung, Einsatz —, weil die Rechtslage auf jeder Stufe eine andere ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das europäische Gegenstück zu Lee/Cooper/Grimmelmann, mit drei Fallstudien statt
+    bloß dogmatischer Analyse. Der zentrale Befund — dass in eingesetzten Modellen die Eingaben regelmäßig
+    unbekannt sind, teils aus Rechtsunsicherheit, teils aus Geschäftsgeheimnis — ist die eigentliche Begründung
+    für Art. 53 Abs. 1 lit. d KI-VO und für die Transparenzdebatte. Für die Frage der Modellgewichte wichtig,
+    weil die Autoren die Stufe "Modell als Artefakt" ausdrücklich getrennt behandeln.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-1-lit-d
+  - uk-cdpa-1988-s-29a
+- id: 2025-quintais-genai-copyright-aiact
+  typ: aufsatz
+  autoren:
+  - Quintais, João Pedro
+  titel: Generative AI, Copyright and the AI Act
+  fundstelle: Computer Law & Security Review 56 (2025), 106107
+  jahr: 2025
+  sprache: en
+  doi: 10.1016/j.clsr.2025.106107
+  ssrn_id: '4912701'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912701
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - governance
+  - content
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - gpai-code-of-practice
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Die KI-Verordnung verändert das Urheberrecht nicht materiell, verschiebt aber über Art. 53
+    die Durchsetzungslage zugunsten der Rechteinhaber und macht den Opt-out des Art. 4 DSM-RL erstmals
+    kontrollierbar.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Analyse der Schnittstelle KI-VO / DSM-RL, auf die sich die europäische
+    Debatte seit 2024 stützt. Quintais arbeitet heraus, dass die Verweisung des Art. 53 Abs. 1 lit. c
+    KI-VO auf das Unionsurheberrecht extraterritoriale Wirkung hat: Wer in Drittstaaten trainiert und
+    in der Union anbietet, muss den Opt-out beachten. Genau dieser Punkt entscheidet, ob das Münchner
+    Urteil praktische Folgen hat oder nur symbolische.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-1-lit-c
+  - dsm-rl-art-4
+- id: 2025-senftleben-tdm-threestep
+  typ: working-paper
+  autoren:
+  - Senftleben, Martin
+  titel: TDM, GenAI and the Copyright Three-Step Test
+  fundstelle: SSRN Working Paper (2025)
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5373903'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5373903
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Die Anwendung der TDM-Schranken auf das Training generativer Modelle verstößt gegen den Dreistufentest
+    der RBÜ, weil sie die normale Verwertung der Werke beeinträchtigt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die völkerrechtliche Gegenposition zur weiten Schranke, und die einzige, die den
+    Streit aus dem nationalen Auslegungsrahmen heraushebt. Wenn Senftleben recht hat, ist die Frage nicht,
+    ob § 44b UrhG das Training deckt, sondern ob er es überhaupt darf. Für den BGH-Termin am 03.09.2026
+    relevant, weil der Dreistufentest über Art. 5 Abs. 5 InfoSoc-RL und Art. 7 Abs. 2 DSM-RL im Unionsrecht
+    verankert ist und eine Vorlage an den EuGH rechtfertigen könnte. Angreifbar: Der Dreistufentest richtet
+    sich an den Gesetzgeber, nicht an das auslegende Gericht — die Gegenauffassung dazu ist in der deutschen
+    Literatur herrschend.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - dsm-rl-art-4
+  - dsm-rl-art-7-abs-2
+- id: 2025-margoni-lawful-access-optouts
+  typ: working-paper
+  autoren:
+  - Margoni, Thomas
+  titel: 'TDM and Generative AI: Lawful Access and Opt-outs'
+  fundstelle: SSRN Working Paper (2025); CiTiP Working Paper
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5036164'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5036164
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2024-laion-lg
+  - de-2025-laion-olg
+  kernthese: Rechtmäßiger Zugang und wirksamer Nutzungsvorbehalt sind zwei getrennte Voraussetzungen;
+    die Vermengung beider in der Praxis führt zu einer faktischen Ausweitung des Opt-out weit über den
+    Wortlaut hinaus.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die genaueste dogmatische Arbeit zu den beiden Tatbestands- merkmalen, um die im
+    LAION-Verfahren tatsächlich gestritten wurde. Margoni zeigt, dass ein Nutzungsvorbehalt in Nutzungsbedingungen
+    nicht automatisch maschinenlesbar wird, nur weil die Bedingungen selbst maschinell abrufbar sind —
+    die Unterscheidung, die das OLG Hamburg im Ergebnis übergeht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+  - dsm-rl-art-4-abs-3
+  - urhg-44b
+  - urhg-44b-abs-3
+- id: 2025-keller-laion-round2
+  typ: blogbeitrag
+  autoren:
+  - Keller, Paul
+  titel: 'LAION Round 2: Machine-Readable but Still Not Actionable — The Lack of Progress on TDM Opt-Outs
+    (Teil 1 und 2)'
+  fundstelle: Kluwer Copyright Blog, 17.12.2025
+  jahr: 2025
+  sprache: en
+  url: https://legalblogs.wolterskluwer.com/copyright-blog/laion-round-2-machine-readable-but-still-not-actionable-the-lack-of-progress-on-tdm-opt-outs-part-1/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2025-laion-olg
+  - de-2026-laion-bgh
+  kernthese: Das OLG Hamburg verlangt vom Nutzungsvorbehalt nicht nur Maschinenlesbarkeit, sondern maschinelle
+    Umsetzbarkeit — ein Maßstab, den keiner der bestehenden Standards derzeit erfüllt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die beste frei zugängliche Analyse der Hamburger Berufungsentscheidung und die einzige,
+    die sie an den tatsächlichen technischen Standards misst (robots.txt, TDM Reservation Protocol, C2PA,
+    IETF-AIPREF). Kellers Befund ist unbequem für beide Seiten: Der Maßstab des OLG ist strenger als der
+    des LG, aber er wurde an der Technik von 2021 gemessen — was bedeutet, dass die Entscheidung für heutige
+    Sachverhalte wenig präjudiziert. Keller ist erklärter Verfechter offener Daten; das ist mitzulesen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4-abs-3
+  - urhg-44b
+  - urhg-44b-abs-3
+- id: 2025-kuschel-rostam-gema-openai
+  typ: blogbeitrag
+  autoren:
+  - Kuschel, Linda
+  - Rostam, Darius
+  titel: 'If It Looks Like a Duck: Zum Urteil des LG München in Sachen GEMA gegen OpenAI'
+  fundstelle: Verfassungsblog, 18.11.2025
+  jahr: 2025
+  sprache: de
+  url: https://verfassungsblog.de/lg-munchen-gema-open-ai/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2025-gema-openai-lg
+  kernthese: Das Gericht schließt vom Ergebnis auf die Ursache — was vorne hineingeht und hinten wieder
+    herauskommt, ist auch im Modell — und ersetzt damit die technische Prüfung durch einen Anscheinsbeweis.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die erste ernstzunehmende deutsche Besprechung des Münchner Urteils, frei zugänglich,
+    und die präziseste Benennung seines methodischen Kerns: Der "Entenschluss" ist ein prima-facie- Schluss
+    von der Reproduzierbarkeit auf die Speicherung. Das ist beweisrechtlich elegant und dogmatisch fragil
+    — er verträgt sich nicht mit der Erkenntnis, dass Reproduzierbarkeit auch aus Prompt-Kontext, Retrieval
+    oder Rekonstruktion aus verteilten statistischen Mustern folgen kann. Die Autoren ordnen das Urteil
+    zudem in die europäische Regulierungswende gegenüber Technologieunternehmen ein, was den Blick über
+    das Urheberrecht hinaus öffnet.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-16
+  - urhg-44b
+  - urhg-97
+- id: 2026-konertz-memorisierung
+  typ: aufsatz
+  autoren:
+  - Konertz, Roman
+  titel: Die bedenkliche Prämisse der Memorisierung von Werken in KI-Modellen als urheberrechtliche Vervielfältigungshandlung
+    und ihre Folgen — Zugleich Besprechung von LG München I, 11.11.2025 – 42 O 14139/24
+  fundstelle: WRP 2026, 148
+  jahr: 2026
+  sprache: de
+  zugang: bezahlt
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2025-gema-openai-lg
+  kernthese: Die Annahme, memorisierte Werke seien im Modell vervielfältigt, ist technisch unhaltbar und
+    führt in der Konsequenz dazu, dass jedes hinreichend große Sprachmodell rechtswidrig ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die schärfste deutsche Gegenposition zum Münchner Urteil und die einzige, die dessen
+    Folgen zu Ende denkt: Wenn statistische Rekonstruierbarkeit Vervielfältigung ist, gibt es keine rechtmäßige
+    Betriebsweise eines Sprachmodells mehr, weil Memorisierung mit der Modellgröße skaliert und nicht
+    abschaltbar ist. Nur über beck-online und juris erreichbar — gehört auf die Nachschlageliste. Für
+    den Streitstand `modellgewichte-kopie` der zentrale deutsche Gegentext zu Dornis/Stober.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-16
+  - urhg-44b
+- id: 2026-vonlewinski-gema-openai
+  typ: aufsatz
+  autoren:
+  - von Lewinski, Silke
+  titel: 'GEMA v. OpenAI: The Munich Regional Court Presents an Exemplary Judgment on a Well Conceived
+    Test Case'
+  fundstelle: GRUR International 75 (2026), Heft 4, 340
+  jahr: 2026
+  sprache: en
+  doi: 10.1093/grurint/ikag018
+  zugang: unklar
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2025-gema-openai-lg
+  kernthese: 'Das Münchner Urteil ist methodisch vorbildlich: Es trennt Vervielfältigung im Modell und
+    Vervielfältigung durch die Ausgabe, verneint die TDM-Schranke für beide und weist die Haftung dem
+    Anbieter statt dem Nutzer zu.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einflussreichste zustimmende Besprechung, geschrieben von einer der international
+    sichtbarsten deutschen Urheberrechtlerinnen und in der Zeitschrift, die im Ausland gelesen wird. Sie
+    ist der Grund, warum das Münchner Urteil international als "die europäische Position" wahrgenommen
+    wird, obwohl es eine erstinstanzliche Entscheidung ist, gegen die Berufung läuft. Hinter der Bezahlschranke
+    von Oxford Academic — Nachschlageliste. Als Gegenstück zu Konertz zu lesen; die beiden Texte markieren
+    die Bandbreite der deutschen Rezeption.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-16
+  - urhg-19a
+  - urhg-44b
+  - urhg-97
+- id: 2024-danevitch-laion-verfassungsblog
+  typ: blogbeitrag
+  autoren:
+  - Danevitch, Julia
+  titel: Frisch gewagt ist nur halb gewonnen. Zum Urteil des LG Hamburg über KI-Trainingsdaten
+  fundstelle: Verfassungsblog, 12.11.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/ki-trainingsdaten-urheberrecht-lg-hamburg/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2024-laion-lg
+  kernthese: Das LG Hamburg hat die Datensatzerstellung nicht sauber vom eigentlichen Modelltraining getrennt
+    und deshalb obiter zu einer Frage Stellung genommen, die gar nicht zur Entscheidung stand.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Teilweise überholt durch die Berufungsentscheidung des OLG Hamburg vom 10.12.2025,
+    aber weiter lesenswert wegen der zutreffenden Kritik an der Vermengung von Datensatzerstellung und
+    Training — genau der Punkt, an dem sich die Hamburger und die Münchner Linie in Wahrheit unterscheiden.
+    Wer nur eine deutsche LAION-Besprechung liest, sollte Keller (2025) lesen; wer die Entwicklung nachvollziehen
+    will, beide.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - urhg-60d
+  - urhg-60d-abs-2
+- id: 2026-radeisen-open-foundation-models
+  typ: aufsatz
+  autoren:
+  - Radeisen, Arne
+  titel: Open Foundation Models and TDM Exceptions to Copyright – Building Blocks for an AI Ecosystem
+  fundstelle: GRUR International 75 (2026), Heft 3, 224
+  jahr: 2026
+  sprache: en
+  doi: 10.1093/grurint/ikag002
+  url: https://academic.oup.com/grurint/advance-article/doi/10.1093/grurint/ikag002/8441974
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - wettbewerb
+  - content
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2025-laion-olg
+  kernthese: Art. 3 DSM-RL beziehungsweise § 60d UrhG trägt das Training offener Basismodelle, solange
+    das Ergebnis öffentlich zugänglich bleibt; der Lizenzmarkt entsteht dann erst auf der Stufe der Feinabstimmung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der ambitionierteste Versuch, die Forschungsschranke für die Grundlagenschicht der
+    KI-Entwicklung nutzbar zu machen, und damit die dogmatische Ausformulierung dessen, was LAION im Prozess
+    vorgetragen hat. Frei zugänglich unter CC BY. Angreifbar an der Stelle, an der es darauf ankommt:
+    Radeisen muss die kommerzielle Nachnutzung offener Modelle vom Schrankenzweck trennen, was Art. 3
+    Abs. 1 DSM-RL ("wissenschaftliche Forschung") schwer trägt. Genau hier setzt Rosati (2025) an. Beide
+    Texte gegeneinander lesen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-3
+  - urhg-60d
+  - urhg-60d-abs-2
+- id: 2025-rosati-research-learning
+  typ: aufsatz
+  autoren:
+  - Rosati, Eleonora
+  titel: Copyright Exceptions and Fair Use Defences for AI Training Done for "Research" and "Learning",
+    or the Inescapable Licensing Horizon
+  fundstelle: European Journal of Risk Regulation (2025)
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5331405'
+  url: https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/copyright-exceptions-and-fair-use-defences-for-ai-training-done-for-research-and-learning-or-the-inescapable-licensing-horizon/752DF1DB564AD1EDFE23BA8BB1110802
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - uk
+  themenachsen:
+  - urheberrecht
+  - content
+  - vertrag
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - fair-use-training
+  kernthese: Weder die europäischen Forschungsschranken noch die amerikanische Fair-Use-Doktrin tragen
+    das Training kommerzieller Modelle; der Weg führt zwangsläufig zur Lizenzierung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die europäische Gegenposition zu Radeisen und zugleich der europäische Gegenpol zu
+    Lee — Rosati argumentiert rechtsordnungsübergreifend, dass die Berufung auf Forschung und Lernen bei
+    kommerziellem Training ein Etikettenschwindel ist. Ihre These vom "unentrinnbaren Lizenzhorizont"
+    ist inzwischen teilweise Realität: Anthropic hat 1,5 Mrd. USD gezahlt, Suno und Udio haben sich verglichen,
+    und die britische Regierung hat im März 2026 auf den Lizenzmarkt statt auf eine Schranke gesetzt.
+    Rosati ist Mitherausgeberin des JIPLP und arbeitet auch beratend; die Nähe zur Rechteinhaberseite
+    ist bei der Gewichtung zu berücksichtigen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-3
+  - urhg-60d
+  - uk-cdpa-1988-s-29a
+  - usc-17-107
+- id: 2024-guadamuz-scanner-darkly
+  typ: aufsatz
+  autoren:
+  - Guadamuz, Andres
+  titel: 'A Scanner Darkly: Copyright Liability and Exceptions in Artificial Intelligence Inputs and Outputs'
+  fundstelle: GRUR International 73 (2024), Heft 2, 111
+  jahr: 2024
+  sprache: en
+  doi: 10.1093/grurint/ikad140
+  url: https://academic.oup.com/grurint/article/73/2/111/7529098
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  - eu
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  - haftung
+  bezug_regelwerke:
+  - uk-cdpa-1988
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - fair-use-training
+  - tdm-schranke-de
+  bezug_urteile:
+  - uk-2025-getty-stability
+  kernthese: Trainierte Modelle enthalten statistische Repräsentationen, keine Kopien; die meisten Eingabehandlungen
+    fallen unter bestehende Schranken, während die Rechtmäßigkeit der Ausgabe im Einzelfall zu prüfen
+    ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, dessen Position der EWHC in Getty ./. Stability im Ergebnis übernommen
+    hat, frei zugänglich unter CC BY, und der dogmatische Gegenpol zu Dornis/Stober im selben Publikationsorgan.
+    Guadamuz ist auch deshalb wichtig, weil er die englische Besonderheit — s. 23 CDPA, "infringing copy",
+    Sekundärverletzung durch Einfuhr eines Gegenstands — für kontinentale Leser erschließt. Diese Konstruktion
+    hat in Deutschland kein Gegenstück und erklärt, warum die englische und die deutsche Entscheidung
+    formal gar nicht dieselbe Frage beantworten.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+  - uk-cdpa-1988-s-29a
+  - usc-17-107
+- id: 2022-kleinkopf-tdm-dissertation
+  typ: dissertation
+  autoren:
+  - Kleinkopf, Felicitas Lea
+  titel: Text- und Data-Mining. Urheberrechtliche Grenzen der Wissensgenerierung
+  fundstelle: Nomos, Baden-Baden 2022; Dissertation Universität Freiburg
+  jahr: 2022
+  sprache: de
+  isbn: 978-3-7489-3536-0
+  url: https://directory.doabooks.org/handle/20.500.12854/93507
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Die §§ 44b und 60d UrhG sind Ausdruck eines Paradigmenwechsels vom Werkgenuss zur Informationsnutzung
+    und deshalb weit auszulegen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einzige deutsche Monografie zur TDM-Schranke, die vor der KI-Debatte entstanden
+    ist und deshalb unbelastet von ihr argumentiert — wertvoll gerade deswegen, weil sie zeigt, was der
+    Gesetzgeber 2021 gemeint haben kann und was nicht. Überholt in allem, was generative Modelle betrifft:
+    Die Arbeit kennt Diffusionsmodelle und große Sprachmodelle nicht. Als Beleg für den historischen Willen
+    des Gesetzgebers brauchbar, als Antwort auf die heutige Frage nicht. Zugang: Open Access über DOAB,
+    SSOAR und FreiDok Freiburg; die automatisierte Prüfung der Repositoriumsseiten scheiterte an Bot-Sperren,
+    der Titel ist aber in allen drei Verzeichnissen als frei zugänglich verzeichnet.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - urhg-44b-abs-1
+  - urhg-60d
+- id: 2024-hofmann-zehn-thesen
+  typ: aufsatz
+  autoren:
+  - Hofmann, Franz
+  titel: Zehn Thesen zu Künstlicher Intelligenz (KI) und Urheberrecht
+  fundstelle: WRP 2024, 11
+  jahr: 2024
+  sprache: de
+  zugang: bezahlt
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_regelwerke:
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - schutzfähigkeit-output
+  kernthese: Das Urheberrecht bewältigt die KI-Herausforderung nur, wenn es die Regulierungslast vom Ausschliesslichkeitsrecht
+    auf Transparenz- und Vergütungspflichten verlagert.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Thesenartige Bestandsaufnahme aus Erlangen, in der deutschen Diskussion viel zitiert
+    und als Zusammenfassung der herrschenden Lehre vor den Urteilen brauchbar. Nur über beck-online oder
+    juris — Nachschlageliste. Hofmanns Lehrstuhl hat den Münchner Fall 2025 in einer Lehrveranstaltung
+    aufgearbeitet, ein aktualisierter Beitrag ist zu erwarten.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-15
+  - urhg-44b
+  - urhg-97
+- id: 2024-lennartz-kraetzig-pastiche
+  typ: aufsatz
+  autoren:
+  - Lennartz, Jannis
+  - Krätzig, Viktoria
+  titel: AI Learning as Pastiche. Technical Reproduction as Artistic Imitation
+  fundstelle: GRUR 2024, 1258 (Heft 17-18)
+  jahr: 2024
+  sprache: en
+  zugang: bezahlt
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - grundrechte
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - fair-use-training
+  kernthese: Das Lernen aus geschützten Werken ist als Pastiche im Sinne des § 51a UrhG und des Art. 5
+    Abs. 3 lit. k InfoSoc-RL zu begreifen — technische Reproduktion ist die maschinelle Form künstlerischer
+    Nachahmung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der originellste deutsche Beitrag zur Trainingsfrage und der einzige, der die Schrankendiskussion
+    aus der TDM-Sackgasse herausführt: Wenn der BGH § 44b UrhG eng auslegt, bleibt § 51a UrhG als Auffangschranke
+    — eine Norm, die der EuGH in Pelham II (C-590/23) gerade erst weit ausgelegt hat. Die Autoren argumentieren
+    von der Kunstfreiheit her, nicht vom Innovationsinteresse, was die Position gegen den üblichen Vorwurf
+    der Technikfreundlichkeit immunisiert. Nur über beck-online oder juris — Nachschlageliste. Frei zugänglich
+    ist die englischsprachige Kurzfassung derselben Autoren in IIC 56 (2025), 241 ("Forbidden Fruits?
+    Artistic Creation in the AI Copyright War", DOI 10.1007/s40319-024-01551-8, Open Access), die den
+    Gedanken auf die Ausgabeseite erweitert. Angreifbar: Die Pastiche-Schranke setzt eine Auseinandersetzung
+    mit dem Vorbild voraus; ob ein statistischer Trainingsvorgang das leistet, ist zweifelhaft.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - urhg-51a
+- id: 2025-kraetzig-press-publishers
+  typ: aufsatz
+  autoren:
+  - Krätzig, Viktoria
+  titel: Press Publishers Versus AI – Not a Matter of Property but of Fairness
+  fundstelle: IIC — International Review of Intellectual Property and Competition Law 56 (2025), 1752
+  jahr: 2025
+  sprache: en
+  doi: 10.1007/s40319-025-01651-z
+  url: https://link.springer.com/content/pdf/10.1007/s40319-025-01651-z.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - content
+  - governance
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  bezug_urteile:
+  - eu-2025-like-company-google
+  - de-2026-lg-muenchen-ai-overviews
+  kernthese: Der Konflikt zwischen Presseverlegern und KI-Systemen ist kein Eigentums-, sondern ein Lauterkeitsproblem;
+    das Presseverlegerrecht ist gescheitert, weil Ausschliesslichkeitsrechte nur wirken, wenn jemand lizenzieren
+    will.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die konsequenteste Absage an den urheberrechtlichen Lösungsweg aus deutscher Feder,
+    offen zugänglich. Krätzigs Argument trifft die deutsche Debatte an ihrer schwächsten Stelle: Das Leistungsschutzrecht
+    für Presseverleger (Art. 15 DSM-RL) war genau der Versuch, ein Marktproblem mit einem Ausschliesslichkeitsrecht
+    zu lösen, und er ist gescheitert. Wer eine analoge Konstruktion für KI-Training fordert, muss erklären,
+    warum es diesmal anders liefe. Praktisch relevant für die anhängigen Verfahren um KI-Übersichten in
+    Suchmaschinen, wo der lauterkeitsrechtliche Ansatz bereits geltend gemacht wird.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-15
+- id: 2023-senftleben-author-remuneration
+  typ: aufsatz
+  autoren:
+  - Senftleben, Martin
+  titel: Generative AI and Author Remuneration
+  fundstelle: IIC — International Review of Intellectual Property and Competition Law 54 (2023), 1535
+  jahr: 2023
+  sprache: en
+  doi: 10.1007/s40319-023-01399-4
+  ssrn_id: '4478370'
+  url: https://pure.uva.nl/ws/files/153195971/s40319-023-01399-4.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - urheberrecht
+  - content
+  - arbeit
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Statt den Opt-out zu verschärfen, sollte das Unionsrecht die TDM-Schranke mit einem unverzichtbaren
+    Vergütungsanspruch verbinden, der über Verwertungsgesellschaften abgewickelt wird.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Ursprungstext der europäischen Vergütungslösung, frei zugänglich über das UvA-Repositorium,
+    und die Grundlage praktisch aller späteren Vorschläge — einschließlich der Forderungen der Initiative
+    Urheberrecht, des Deutschen Kulturrats und der Empfehlungen des EP-Gutachtens Lucchi. Senftlebens
+    Pointe: Der Opt-out nützt nur denen, die technisch und wirtschaftlich in der Lage sind, ihn auszuüben
+    — also nicht den einzelnen Urhebern, für die er gedacht war. Zusammen mit seinem Dreistufentest-Papier
+    von 2025 zu lesen; dort argumentiert er, warum eine Schranke ohne Vergütung völkerrechtlich unzulässig
+    sein könnte.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+- id: 2024-geiger-human-rights-framework
+  typ: aufsatz
+  autoren:
+  - Geiger, Christophe
+  titel: Elaborating a Human Rights-Friendly Copyright Framework for Generative AI
+  fundstelle: IIC — International Review of Intellectual Property and Competition Law 55 (2024), 1129
+  jahr: 2024
+  sprache: en
+  doi: 10.1007/s40319-024-01481-5
+  ssrn_id: '4634992'
+  url: https://link.springer.com/article/10.1007/s40319-024-01481-5
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - intl
+  themenachsen:
+  - urheberrecht
+  - grundrechte
+  - content
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Grundrechtlich geboten ist weder ein Verbot noch eine freie Schranke, sondern eine Nutzungsfreiheit
+    mit gesetzlichem Vergütungsanspruch, weil Art. 17 Abs. 2 GRCh und Art. 11 GRCh gleichrangig sind.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die grundrechtliche Fundierung der Vergütungslösung, offen zugänglich. Für die deutsche
+    Diskussion relevant, weil sie die Argumentationslinie liefert, mit der eine weite Auslegung von §
+    44b UrhG verfassungsrechtlich flankiert werden kann, ohne die Urheber leer ausgehen zu lassen. Schwäche:
+    Geiger benennt keine Verteilungsmechanik, und genau daran scheitern Vergütungsmodelle in der Praxis
+    (dazu Samuelson 2026).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - dsm-rl-art-4
+- id: 2025-thouvenin-whitepaper-urheberrecht
+  typ: bericht
+  autoren:
+  - Thouvenin, Florent
+  titel: White Paper Urheberrecht (Rechtsrahmen für KI in der Schweiz)
+  fundstelle: Center for Information Technology, Society, and Law (ITSL), Universität Zürich, Juni 2025
+  jahr: 2025
+  sprache: de
+  url: https://www.itsl.uzh.ch/dam/jcr:57eec5ba-2549-4905-b8ac-82ff1db729b3/ITSL%20-%20White%20Paper%20-%20KI%20und%20Urheberrecht.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - intl
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - governance
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - schutzfähigkeit-output
+  - tdm-schranke-de
+  kernthese: Modellparameter sind als bloße Zahlenwerte nicht schutzfähig und enthalten keine Werkvervielfältigungen;
+    erforderlich ist eine gesetzliche Lizenz mit maschinenlesbarem Opt-out.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die klarste und am besten zugängliche deutschsprachige Auseinandersetzung mit der
+    Frage der Modellgewichte, aus einer Rechtsordnung ohne DSM-Richtlinie und deshalb ohne den deutschen
+    Auslegungsballast. Thouvenin verneint sowohl die Schutzfähigkeit der Gewichte als auch ihre Eigenschaft
+    als Vervielfältigung — die genaue Gegenposition zum LG München I, formuliert vor dessen Urteil und
+    ohne polemischen Ton. Für den Auftraggeber der praktikabelste Einstieg in `modellgewichte-kopie`,
+    weil auf Deutsch, frei und kurz.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-scheufen-iw-autorenrechte
+  typ: bericht
+  autoren:
+  - Scheufen, Marc
+  titel: Generative KI und Autorenrechte
+  fundstelle: IW-Kurzbericht Nr. 79/2023, Institut der deutschen Wirtschaft, Köln, 30.10.2023
+  jahr: 2023
+  sprache: de
+  url: https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2023/IW-Kurzbericht_2023-KI-und-Autorenrechte.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - arbeit
+  - content
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Ein zu enges Urheberrecht verlagert KI-Entwicklung ins Ausland, ein zu weites entzieht der
+    Kreativwirtschaft die Erlösbasis; ökonomisch optimal ist eine Schranke mit Vergütung.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kurz, deutschsprachig, frei — und die einzige ökonomische Stellungnahme aus dem deutschen
+    Diskurs, die in der rechtspolitischen Debatte tatsächlich zitiert wird. Methodisch dünn (keine eigene
+    Empirie), aber als Beleg für die Position der arbeitgebernahen Ökonomie brauchbar. Durch de la Durantaye
+    (2025) empirisch überholt: Deren Befund, dass die Rechtslage für die Standortwahl praktisch irrelevant
+    ist, entzieht Scheufens Standortargument die Grundlage.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+- id: 2025-sag-yu-globalization
+  typ: aufsatz
+  autoren:
+  - Sag, Matthew
+  - Yu, Peter K.
+  titel: The Globalization of Copyright Exceptions for AI Training
+  fundstelle: Emory Law Journal 74 (2025), 1163
+  jahr: 2025
+  sprache: en
+  ssrn_id: '4976393'
+  url: https://scholarlycommons.law.emory.edu/elj/vol74/iss5/4/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - uk
+  - jp
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - uk-cdpa-1988
+  bezug_streitstaende:
+  - fair-use-training
+  - tdm-schranke-de
+  kernthese: Trotz unterschiedlicher Dogmatik konvergieren die Rechtsordnungen auf ein internationales
+    Gleichgewicht, in dem TDM zu KI-Zwecken grundsätzlich erlaubt und nur in bestimmten Konstellationen
+    untersagt ist.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche rechtsvergleichende Arbeit im Feld, frei über das Emory-Repositorium,
+    und die einzige, die Japan, Singapur, Israel, die EU, das Vereinigte Königreich und die USA in einem
+    dogmatisch belastbaren Raster nebeneinanderstellt statt bloß aufzuzählen. Sie liefert die Begriffe,
+    mit denen man den Auftrag "Rechtsvergleich TDM" überhaupt bearbeiten kann: Unterscheidung nach Zweckbindung,
+    nach Zugangsvoraussetzung und nach Opt-out-Mechanik. Zwei Einwände. Erstens ist die Konvergenzthese
+    durch die Ereignisse seit Fertigstellung unter Druck geraten — LG München I, OLG Hamburg und die britische
+    Kehrtwende vom März 2026 zeigen eher Divergenz. Zweitens sind beide Autoren erklärte Befürworter weiter
+    Schranken, was die Auswahl der Vergleichspunkte prägt. Als Gegengewicht de la Durantaye lesen, die
+    zum Teil dieselben Länder untersucht und zum gegenteiligen Ergebnis über die Wirkung der Regeln kommt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+  - jp-urhg-art-30-4
+  - jp-urhg-art-30-4-nr-2
+  - jp-urhg-art-30-4-vorbehalt
+  - sg-copyright-s187
+  - sg-copyright-s190
+  - sg-copyright-s243
+  - sg-copyright-s244
+  - uk-cdpa-1988-s-29a
+  - usc-17-107
+- id: 2025-deladurantaye-control-compensation
+  typ: aufsatz
+  autoren:
+  - de la Durantaye, Katharina
+  titel: Control and Compensation. A Comparative Analysis of Copyright Exceptions for Training Generative
+    AI
+  fundstelle: IIC — International Review of Intellectual Property and Competition Law 56 (2025), Heft
+    4, 737
+  jahr: 2025
+  sprache: en
+  doi: 10.1007/s40319-025-01569-6
+  url: https://link.springer.com/article/10.1007/s40319-025-01569-6
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - ca
+  - uk
+  - eu
+  - de
+  - cn
+  - jp
+  themenachsen:
+  - urheberrecht
+  - content
+  - marktzugang
+  - governance
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  - uk-cdpa-1988
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - fair-use-training
+  kernthese: Acht Rechtsordnungen ordnen dieselben vier Variablen — Kontrolle, Vergütung, Transparenz,
+    Rechtssicherheit — unterschiedlich; entscheidend für den Trainingsstandort ist aber nicht das Urheberrecht,
+    sondern die Verfügbarkeit von Rechenkapazität.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die beste rechtsvergleichende Arbeit aus deutscher Feder, offen zugänglich, und die
+    einzige, die die rechtspolitische Standortbehauptung empirisch prüft — mit einem Ergebnis, das beiden
+    Lagern weh tut: Die EU bietet die vergleichsweise klarsten Regeln für KI-Anbieter und wird trotzdem
+    kaum als Trainingsstandort genutzt, während in China trotz strengerer und in den USA trotz unsicherer
+    Rechtslage massiv trainiert wird. Damit ist das gesamte Argument "strenge Regeln vertreiben die Entwicklung"
+    für die deutsche Debatte entwertet. Für den Auftraggeber der zentrale Text, weil er rechtsvergleichende
+    Struktur, europäische Perspektive und empirische Kontrolle in einem liefert und weil de la Durantaye
+    als Mitglied des wissenschaftlichen Beirats in der deutschen Rechtspolitik gehört wird. Angreifbar:
+    Die Standortthese beruht auf einer Momentaufnahme; Rechenkapazität ist beweglicher als Recht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ca-copyright-s29
+  - ca-copyright-s3-1
+  - ca-copyright-s30-71
+  - ca-copyright-s41
+  - cn-genai-interim-measures-art-7
+  - dsm-rl-art-4
+  - jp-urhg-art-30-4
+  - jp-urhg-art-30-4-vorbehalt
+  - jp-urhg-art-47-5
+  - uk-cdpa-1988-s-29a
+  - urhg-44b
+  - urhg-44b-abs-3
+  - usc-17-107
+- id: 2021-ueno-nonenjoyment
+  typ: aufsatz
+  autoren:
+  - Üno, Tatsuhiro
+  titel: The Flexible Copyright Exception for 'Non-Enjoyment' Purposes — Recent Amendment in Japan and
+    Its Implication
+  fundstelle: GRUR International 70 (2021), Heft 2, 145
+  jahr: 2021
+  sprache: en
+  doi: 10.1093/grurint/ikaa184
+  url: https://academic.oup.com/grurint/article-abstract/70/2/145/6102831
+  zugang: unklar
+  jurisdiktionen:
+  - jp
+  - eu
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  - tdm-schranke-de
+  kernthese: Art. 30-4 des japanischen Urheberrechtsgesetzes erlaubt jede Nutzung, die nicht auf den Genuss
+    des Werkausdrucks gerichtet ist — die weiteste Trainingsschranke der Welt, aber mit einer Missbrauchsgrenze.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der maßgebliche Text zur japanischen Regelung, geschrieben von dem Wissenschaftler,
+    der an ihr mitgewirkt hat. Wichtig für den Rechtsvergleich, weil Japan als "Trainingsparadies" firmiert,
+    obwohl Art. 30-4 einen Vorbehalt für Nutzungen enthält, die "die Interessen des Rechteinhabers unbillig
+    beeinträchtigen" — eine Klausel, die die Kulturbehörde 2024 in ihren Leitlinien genau in Richtung
+    der europäischen Diskussion ausgelegt hat. Wer die Behauptung prüfen will, Japan erlaube alles, muss
+    diese Grenze kennen. Bei Oxford Academic nur das Abstract frei; freie Alternative ist Uenos WIPO-Vortragsfassung
+    "General Understanding on AI and Copyright in Japan".
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - jp-urhg-art-2-abs-1-nr-1
+  - jp-urhg-art-30-4
+  - jp-urhg-art-30-4-nr-1
+  - jp-urhg-art-30-4-nr-2
+  - jp-urhg-art-30-4-nr-3
+  - jp-urhg-art-30-4-vorbehalt
+  - jp-urhg-art-47-4
+  - jp-urhg-art-47-5
+- id: 2025-ueno-wipo-japan-understanding
+  typ: bericht
+  autoren:
+  - Üno, Tatsuhiro
+  titel: '''General Understanding'' on AI and Copyright in Japan'
+  fundstelle: WIPO / Japan Office, Vortragsfassung
+  jahr: 2025
+  sprache: en
+  url: https://www.wipo.int/documents/d/office-japan/docs-en-tatsuhiro-ueno_general-understanding-on-ai-and-copyright-in-japan_set.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - jp
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: 'Die Leitlinien der japanischen Kulturbehörde von 2024 schränken Art. 30-4 erheblich ein:
+    Training zur gezielten Nachahmung eines Stils oder unter Verwendung rechtswidrig beschaffter Werke
+    ist nicht gedeckt.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Frei zugängliche Ergänzung zum GRUR-Int-Aufsatz und praktisch die einzige englischsprachige
+    Darstellung der Leitlinien von 2024. Relevant, weil Japan damit ohne Gesetzesänderung genau die beiden
+    Fragen adressiert hat, die Alsup (rechtswidrige Beschaffung) und Chhabria (Marktverwässerung) in den
+    USA offengelassen haben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - jp-urhg-art-2-abs-1-nr-1
+  - jp-urhg-art-2-abs-1-nr-2
+  - jp-urhg-art-21
+  - jp-urhg-art-30-4
+  - jp-urhg-art-30-4-nr-2
+  - jp-urhg-art-30-4-vorbehalt
+  - jp-urhg-art-47-5
+- id: 2026-zhang-li-fairuse-china
+  typ: aufsatz
+  autoren:
+  - Zhang, Jiyu
+  - Li, Xinmeng
+  titel: 'Fair Use in Training AI Models: A Review and Prospect of the Relevant Legal Development in China'
+  fundstelle: German Law Journal 26 (2025), Sonderheft 7 (Comparative AI Law), veröffentlicht 24.04.2026
+  jahr: 2026
+  sprache: en
+  doi: 10.1017/glj.2026.10183
+  url: https://www.cambridge.org/core/journals/german-law-journal/article/fair-use-in-training-ai-models-a-review-and-prospect-of-the-relevant-legal-development-in-china/0AFA58E938B174406C9D23D78DEB40F8
+  zugang: open-access
+  jurisdiktionen:
+  - cn
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  bezug_urteile:
+  - cn-2023-li-liu
+  - cn-2025-shanghai-lora
+  kernthese: Maschinelles Lernen internalisiert Muster, statt Werke zu speichern; China sollte eine ausdrückliche
+    Schranke für maschinelles Lernen einführen, weil der geschlossene Katalog des Art. 24 UrhG-China die
+    Frage sonst nicht lösen kann.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die beste frei zugängliche Darstellung der chinesischen Diskussionslage, aus einem
+    Sonderheft des German Law Journal zum Rechtsvergleich — für einen deutschen Leser deshalb doppelt
+    nützlich, weil die Autoren die chinesische Lage bewusst gegen die europäische halten. Zentral ist
+    der Befund, dass China keine Generalklausel wie Fair Use hat und dass die Trainingsfreiheit dort faktisch
+    durch Nichtverfolgung entsteht, nicht durch eine Schranke. Die Autoren argumentieren offen für eine
+    Trainingsschranke; die Gegenposition (You/Luo) ist erfasst.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - cn-urhg-art-3
+  - cn-urhg-art-24
+  - cn-genai-interim-measures-art-7
+- id: 2025-you-luo-chinese-perspective
+  typ: aufsatz
+  autoren:
+  - You, Li
+  - Luo, Han
+  titel: 'Copyright Implications and Legal Responses to AI Training: A Chinese Perspective'
+  fundstelle: Laws 14 (2025), Heft 4, Art. 43
+  jahr: 2025
+  sprache: en
+  doi: 10.3390/laws14040043
+  url: https://www.mdpi.com/2075-471X/14/4/43
+  zugang: open-access
+  jurisdiktionen:
+  - cn
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  bezug_urteile:
+  - cn-2023-li-liu
+  - cn-2024-ultraman-gz
+  kernthese: 'China verfolgt eine Linie der "maßvollen Nachsicht": Aufsicht auf der Ausgabeseite, Zurückhaltung
+    auf der Eingabeseite; Theorien, wonach Modelle geschützten Ausdruck oder Stil speichern, sind zurückzuweisen.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die klarste Formulierung der chinesischen Mehrheitsposition zur Frage der Modellgewichte
+    — und damit ein wichtiger Kontrapunkt zur Entscheidung des Bezirksgerichts Jinshan/Shanghai vom 03.11.2025,
+    die in der Sache anders entschieden hat (LoRA- Modell als Verletzung). Die Autoren unterscheiden brauchbar
+    zwischen Training in Echtzeit und dauerhafter Speicherung. Zurückhaltend zu lesen: MDPI, Begutachtungsqualität
+    schwankend, und die Darstellung der Rechtspolitik ist affirmativ.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - cn-urhg-art-3
+  - cn-urhg-art-11
+  - cn-urhg-art-12
+- id: 2025-sun-china-us-ownership
+  typ: aufsatz
+  autoren:
+  - Sun, Haochen
+  titel: 'How Much Human Contribution Is Needed for "Ownership" of AI-Generated Content: A Comparison
+    of Copyright Determination for Generative AI in China and the United States'
+  fundstelle: The Journal of World Intellectual Property (2025)
+  jahr: 2025
+  sprache: en
+  doi: 10.1111/jwip.70011
+  url: https://onlinelibrary.wiley.com/doi/10.1111/jwip.70011
+  zugang: unklar
+  jurisdiktionen:
+  - cn
+  - us
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - schutzfähigkeit-output
+  bezug_urteile:
+  - cn-2023-li-liu
+  - us-2025-thaler-dc-circuit
+  kernthese: 'China und die USA verlangen beide menschlichen Beitrag, setzen die Schwelle aber unterschiedlich
+    an: Peking lässt iteratives Prompting genügen, Washington nicht.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die genaueste Gegenüberstellung der beiden Pole des Streitstands `schutzfähigkeit-output`.
+    Wichtig ist Suns Nachweis, dass es nicht um "Mensch oder Maschine" geht, sondern um die Frage, welche
+    Art von Steuerung als schöpferisch zählt — was die vermeintliche Prinzipiendivergenz auf eine Schwellenfrage
+    reduziert. Hinter Wiley-Schranke; ein Preprint war nicht auffindbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-102-a
+  - cn-urhg-art-3
+  - cn-urhg-art-11
+- id: 2025-minnjil-comparative-ownership
+  typ: blogbeitrag
+  autoren:
+  - Minnesota Journal of International Law
+  titel: Who Owns AI-Generated Creativity? A Comparative Look at International Copyright Approaches
+  fundstelle: Minnesota Journal of International Law Online, 25.11.2025
+  jahr: 2025
+  sprache: en
+  url: https://minnjil.org/2025/11/25/who-owns-ai-generated-creativity-a-comparative-look-at-international-copyright-approaches/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - cn
+  - eu
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - schutzfähigkeit-output
+  bezug_urteile:
+  - cn-2023-li-liu
+  - us-2025-thaler-dc-circuit
+  - mx-2025-scjn-amparo-6-2025
+  kernthese: Die Rechtsordnungen zerfallen in drei Gruppen — Human-Authorship-Erfordernis, Steuerungsansatz
+    und ausdrückliche Gemeinfreiheit —, wobei Mexiko als einziges Land die dritte Variante höchstrichterlich
+    festgeschrieben hat.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Erfasst mangels Alternative: Zur mexikanischen Position (SCJN, Amparo Directo 6/2025)
+    existiert bislang keine rechtswissenschaftliche Aufarbeitung außerhalb Mexikos, die über Kanzleimitteilungen
+    hinausgeht. Dieser studentische Beitrag ist die brauchbarste frei zugängliche Einordnung. Als Autorität
+    nicht zitierfähig; als Fundstellenüberblick und als Beleg dafür, dass die Lücke besteht, nützlich.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-102-a
+  - cn-urhg-art-3
+  - cn-urhg-art-11
+- id: 2026-uk-gov-report-copyright-ai
+  typ: bericht
+  autoren:
+  - Department for Science, Innovation and Technology
+  - Intellectual Property Office
+  - Department for Culture, Media and Sport
+  titel: Report on Copyright and Artificial Intelligence (mit Impact Assessment)
+  fundstelle: UK Government, CP 2602959, London, 18.03.2026
+  jahr: 2026
+  sprache: en
+  url: https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - uk-copyright-ai-prozess
+  - uk-cdpa-1988
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - schutzfähigkeit-output
+  bezug_urteile:
+  - uk-2025-getty-stability
+  kernthese: Die Regierung verwirft die bevorzugte Lösung einer weiten Schranke mit Opt-out, verzichtet
+    vorerst auf jede Gesetzesänderung, will Transparenz über Selbstverpflichtungen erreichen und den Schutz
+    für rein computergenerierte Werke (s. 9(3) CDPA) abschaffen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die politisch folgenreichste Entscheidung des Jahres 2026 im Feld, und für die deutsche
+    Debatte doppelt lehrreich. Erstens: Das Vereinigte Königreich hat den Opt-out, den die DSM-Richtlinie
+    der EU vorschreibt, nach breiter Konsultation ausdrücklich verworfen — mit der Begründung, er sei
+    technisch nicht umsetzbar. Genau das ist die Kritik, die Keller am OLG Hamburg übt. Zweitens: Die
+    geplante Streichung von s. 9(3) CDPA beseitigt das einzige Sui-generis-Recht an computergenerierten
+    Werken in einer großen Rechtsordnung und stellt das Vereinigte Königreich auf die amerikanische Seite
+    des Streitstands `schutzfähigkeit-output`. Die Konsultationsantworten von 2025 sind über die Regierungsseite
+    mitverlinkt; die wissenschaftlich gehaltvollste ist die von CREATe (gesondert erfasst).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4-abs-3
+  - uk-cdpa-1988-s-29a
+  - uk-cdpa-1988-s-9-3
+  - uk-cdpa-1988-s-12-7
+  - uk-duaa-2025-s-136
+- id: 2025-kretschmer-create-optin-optout
+  typ: aufsatz
+  autoren:
+  - Kretschmer, Martin
+  - Meletti, Bartolomeo
+  - Bently, Lionel
+  - Cifrodelli, Gabriele
+  - Eben, Magali
+  - Erickson, Kristofer
+  - Iramina, Aline
+  - Li, Zihao
+  - McDonagh, Luke
+  - Perot, Emma
+  - Porangaba, Luis
+  - Thomas, Amy
+  titel: 'Copyright and AI in the UK: Opting-In or Opting-Out?'
+  fundstelle: GRUR International 74 (2025), Heft 11, 1055
+  jahr: 2025
+  sprache: en
+  doi: 10.1093/grurint/ikaf093
+  url: https://academic.oup.com/grurint/article/74/11/1055/8209765
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  - eu
+  themenachsen:
+  - urheberrecht
+  - content
+  - wettbewerb
+  - arbeit
+  bezug_regelwerke:
+  - uk-cdpa-1988
+  - uk-copyright-ai-prozess
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Der Opt-out ist technisch nicht umsetzbar und marktverzerrend; stattdessen sollte vorkommerzielle
+    Forschung klar freigestellt und im Übrigen Transparenz mit angemessener Beteiligung der Urheber verbunden
+    werden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die wissenschaftliche Grundlage der britischen Kehrtwende, offen zugänglich, und
+    die einzige Arbeit im Feld, die 83 tatsächlich geschlossene Lizenzverträge zwischen Inhalteanbietern
+    und KI-Entwicklern ausgewertet hat. Das macht sie zur besten empirischen Quelle über den Lizenzmarkt,
+    den alle Beteiligten behaupten oder bestreiten. Der zentrale Befund für die deutsche Debatte: Lizenzeinnahmen
+    der Verlage und Plattformen erreichen die Urheber nicht — was genau Senftlebens Argument gegen den
+    Opt-out empirisch belegt und die Vergütungsdebatte in eine andere Richtung lenkt als die der Verwertungsgesellschaften.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - uk-cdpa-1988-s-29a
+- id: 2025-create-uk-consultation-response
+  typ: bericht
+  autoren:
+  - Kretschmer, Martin
+  - Meletti, Bartolomeo
+  - Bently, Lionel
+  - Cifrodelli, Gabriele
+  - Eben, Magali
+  - Erickson, Kristofer
+  - Iramina, Aline
+  - Li, Zihao
+  - McDonagh, Luke
+  - Perot, Emma
+  - Porangaba, Luis
+  - Thomas, Amy
+  titel: 'Copyright and AI: Response by the CREATe Centre to the UK Government''s Consultation'
+  fundstelle: CREATe Centre, University of Glasgow, 26.02.2025 (Zenodo)
+  jahr: 2025
+  sprache: en
+  doi: 10.5281/zenodo.14931964
+  url: https://zenodo.org/records/14931964
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  themenachsen:
+  - urheberrecht
+  - content
+  - arbeit
+  bezug_regelwerke:
+  - uk-copyright-ai-prozess
+  - uk-cdpa-1988
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Der Opt-in bleibt der richtige Ausgangspunkt; erweitert werden sollte nur s. 29A CDPA auf
+    jede vorkommerzielle Forschung, ergänzt um Transparenzpflichten und einen unverzichtbaren Beteiligungsanspruch
+    der Urheber.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die substantiellste der britischen Konsultationsantworten und die einzige mit eigener
+    Empirie. Inhaltlich weitgehend deckungs- gleich mit dem GRUR-Int-Aufsatz derselben Gruppe; wer beides
+    liest, liest zweimal dasselbe. Erfasst, weil der Auftrag ausdrücklich nach den britischen Konsultationsantworten
+    fragt und weil die Regierung im März 2026 dieser Antwort in drei von vier Punkten gefolgt ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - uk-cdpa-1988-s-29a
+- id: 2026-hall-getty-secondary-infringement
+  typ: aufsatz
+  autoren:
+  - Hall, James
+  titel: Why Getty Images v Stability AI Got Secondary Copyright Infringement Wrong
+  fundstelle: Journal of Intellectual Property Law & Practice, Bd. 21 (2026), Heft 8, S. 538–545 (online
+    first 29.06.2026)
+  jahr: 2026
+  sprache: en
+  doi: 10.1093/jiplp/jpag074
+  url: https://academic.oup.com/jiplp/article/21/8/538/8721803
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  themenachsen:
+  - urheberrecht
+  - content
+  - haftung
+  bezug_regelwerke:
+  - uk-cdpa-1988
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  bezug_urteile:
+  - uk-2025-getty-stability
+  kernthese: Der EWHC hat zu Recht angenommen, dass ein Modell ein "article" sein kann, aber zu Unrecht
+    verlangt, dass dieser Gegenstand eine Kopie des Werkes enthalten müsse — Bearbeitungen sind seit jeher
+    verletzend, ohne Kopien zu enthalten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die schärfste wissenschaftliche Kritik am Getty-Urteil, frei zugänglich unter CC
+    BY, und der Text, an dem sich das Berufungsverfahren orientieren wird. Für den Streitstand `modellgewichte-kopie`
+    zentral, weil Hall den Fehler nicht in der Technikbewertung sucht, sondern in der Auslegung von s.
+    27 CDPA — das Modell muss keine Kopie enthalten, es genügt, dass seine Herstellung eine Verletzung
+    gewesen wäre. Für den deutschen Leser wichtig als Warnung: Die englische Diskussion über "infringing
+    copy" hat kein deutsches Gegenstück, und die Übertragung des Getty-Ergebnisses auf § 16 UrhG wäre
+    ein Kategorienfehler.
+
+    '
+  letzte_pruefung: '2026-09-07'
+  normen:
+  - urhg-16
+  - uk-cdpa-1988-s-22
+  - uk-cdpa-1988-s-23
+  - uk-cdpa-1988-s-27-3
+- id: 2025-fairhurst-ipkat-getty
+  typ: blogbeitrag
+  autoren:
+  - Fairhurst, Oliver
+  titel: 'Getty Images v Stability: Long-Awaited Judgment Rejects Majority of Getty''s Claim'
+  fundstelle: The IPKat, 04.11.2025
+  jahr: 2025
+  sprache: en
+  url: https://ipkitten.blogspot.com/2025/11/getty-images-v-stability-long-awaited.html
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_regelwerke:
+  - uk-cdpa-1988
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  bezug_urteile:
+  - uk-2025-getty-stability
+  kernthese: Das Gericht hat die Modellgewichte als reines Produkt gelernter Muster eingestuft — 220 Terabyte
+    Trainingsdaten in einer 3,44 Gigabyte großen Datei — und deshalb eine Sekundärverletzung verneint.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die schnellste zuverlässige Zusammenfassung am Tag des Urteils, mit dem Kompressionsargument,
+    das seither in jeder Debatte über Modellgewichte auftaucht. Nützlich als Einstieg vor Hall. Zu beachten
+    ist der prozessuale Hintergrund, den Fairhurst benennt: Getty hatte die Trainingsansprüche mangels
+    Zuständigkeitsnachweis fallengelassen, weshalb das Urteil zur eigentlichen Trainingsfrage gerade nichts
+    sagt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - uk-cdpa-1988-s-22
+  - uk-cdpa-1988-s-23
+  - uk-cdpa-1988-s-27-3
+- id: 2026-delavega-iris-urheberrecht-ki-training
+  typ: bericht
+  autoren:
+  - de la Vega, Diego
+  titel: Urheberrecht und KI-Training
+  fundstelle: IRIS, Europäische Audiovisuelle Informationsstelle, Straßburg, Juli 2026
+  jahr: 2026
+  sprache: de
+  url: https://rm.coe.int/ai-copyright-report-1-input-de/48802cb930
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  - uk
+  - us
+  - jp
+  - cn
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - ki-vo-2024-1689
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - fair-use-training
+  kernthese: Die europäische Eingabeseite ordnet sich um drei Begriffe — Lernen, Einwilligung, Benachteiligung
+    —, und der Opt-out des Art. 4 DSM-RL trägt die Last, die er nicht tragen kann.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der aktuellste deutschsprachige Überblick über die internationale Lage, frei beim
+    Europarat, mit Stand Juli 2026 — also nach allen einschlägigen Urteilen und nach der britischen Kehrtwende.
+    Als Orientierungstext für den Einstieg gut geeignet, wissenschaftlich anspruchslos. Wer die Materie
+    schon kennt, findet nichts Neues; wer sie neu erschließt, spart Zeit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - cn-genai-interim-measures-art-7
+  - dsm-rl-art-4
+  - jp-urhg-art-30-4
+  - jp-urhg-art-30-4-nr-2
+  - jp-urhg-art-30-4-vorbehalt
+  - uk-cdpa-1988-s-29a
+  - usc-17-107
+- id: 2025-lucchi-ep-genai-copyright
+  typ: bericht
+  autoren:
+  - Lucchi, Nicola
+  titel: 'Generative AI and Copyright: Training, Creation, Regulation'
+  fundstelle: Europäisches Parlament, Fachabteilung für Bürgerrechte und konstitutionelle Angelegenheiten,
+    PE 774.095, 09.07.2025
+  jahr: 2025
+  sprache: en
+  url: https://www.europarl.europa.eu/RegData/etudes/STUD/2025/774095/IUST_STU(2025)774095_EN.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - governance
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - ki-vo-2024-1689
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - schutzfähigkeit-output
+  kernthese: Das Opt-out-Regime des Art. 4 DSM-RL ist gescheitert und sollte durch harmonisierte Vorbehaltsmechanismen,
+    verbindliche Transparenz und angemessene Lizenzmodelle ersetzt werden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Studie, auf die sich der Bericht des Rechtsausschusses des Europäischen Parlaments
+    zu Urheberrecht und generativer KI (A10-0019/2026) stützt — also der Text, der die absehbare europäische
+    Gesetzgebungsinitiative vorbereitet. Für den Auftraggeber deshalb praktisch wichtiger als manche wissenschaftlich
+    stärkere Arbeit: Wer wissen will, wohin die DSM-Richtlinie novelliert wird, liest das. Dogmatisch
+    nicht auf dem Niveau von Quintais oder Senftleben, und die Forderung nach harmonisiertem Opt-out steht
+    in Spannung zum britischen Befund, dass Opt-out technisch nicht funktioniert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+- id: 2025-peukert-ep-economics
+  typ: bericht
+  autoren:
+  - Peukert, Christian
+  titel: The Economics of Copyright and AI — Empirical Evidence and Optimal Policy
+  fundstelle: Europäisches Parlament, Fachabteilung für Bürgerrechte und konstitutionelle Angelegenheiten,
+    PE 778.859, 03.12.2025
+  jahr: 2025
+  sprache: en
+  url: https://www.europarl.europa.eu/thinktank/en/document/IUST_STU(2025)778859
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - content
+  - governance
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  kernthese: Von vier Politikoptionen — Schranke, Schranke mit Opt-out, Lizenzmarkt, gesetzliche Lizenz
+    — maximiert keine unter allen Annahmen die Wohlfahrt; entscheidend sind Transaktionskosten und die
+    Verteilung des Datenwerts.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die ökonomische Grundlage der laufenden EU-Debatte und der einzige Text, der die
+    vier diskutierten Regelungsmodelle formal gegeneinanderstellt. Für den Auftraggeber die wirtschaftswissenschaftliche
+    Pflichtergänzung zur juristischen Literatur — nicht wegen der Modelle, sondern wegen der Fallunterscheidungen:
+    Peukert zeigt, unter welchen Annahmen welches Modell überlegen ist, und macht damit sichtbar, dass
+    der rechtspolitische Streit in Wahrheit ein Streit über empirische Annahmen ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+- id: 2026-gans-copyright-policy-options
+  typ: aufsatz
+  autoren:
+  - Gans, Joshua S.
+  titel: Copyright Policy Options for Generative Artificial Intelligence
+  fundstelle: Journal of Law and Economics 69 (2026), Heft 1, 1; zuvor NBER Working Paper 32106
+  jahr: 2026
+  sprache: en
+  doi: 10.1086/733761
+  ssrn_id: '4716669'
+  url: https://www.nber.org/papers/w32106
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - intl
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Weil Transaktionskosten direkte Lizenzverhandlungen zwischen Rechteinhabern und Modellanbietern
+    verhindern, kann ein Ex-post-Mechanismus wie Fair Use eine höhere erwartete Wohlfahrt erzeugen als
+    ein Ausschliesslichkeitsrecht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche ökonomische Arbeit zu den Lizenzmärkten für Trainingsdaten, inzwischen
+    im Journal of Law and Economics erschienen, als NBER-Fassung frei. Gans'' Ergebnis ist für die europäische
+    Debatte unbequem, weil es die Vergütungslösung nicht stützt: Eine gesetzliche Lizenz senkt Transaktionskosten
+    zwar, erzeugt aber Bewertungskosten, die bei heterogenen Werkbeständen prohibitiv werden. Einschränkung:
+    Das Modell unterstellt einen einzigen Anbieter und einen homogenen Werkbestand — genau die Annahmen,
+    die Samuelson 2026 als unrealistisch verwirft.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+  - usc-17-504-c
+- id: 2025-cooper-martens-peukert-stocker-primer
+  typ: working-paper
+  autoren:
+  - Cooper, Zachary
+  - Martens, Bertin
+  - Peukert, Christian
+  - Stocker, Volker
+  titel: 'The Law and Economics of Generative AI and Copyright: A Primer to Core Challenges for Our Digital
+    Future'
+  fundstelle: Review of Network Economics (im Erscheinen); SSRN Working Paper, 11.09.2025
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5466891'
+  doi: 10.2139/ssrn.5466891
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5466891
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - intl
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - content
+  - governance
+  bezug_streitstaende:
+  - fair-use-training
+  - tdm-schranke-de
+  - schutzfähigkeit-output
+  kernthese: 'Eingabe- und Ausgabeseite sind ökonomisch verkoppelt: Wer die Eingabe verteuert, verändert
+    nicht nur die Kosten der Modellentwicklung, sondern auch die Anreize zur Produktion neuer Werke.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste Einstieg in die ökonomische Literatur für Juristen, weil er den Forschungsstand
+    ordnet statt ein eigenes Modell zu präsentieren, und weil er die Forschungslücken ausdrücklich benennt.
+    Peukert ist zugleich Verfasser der EP-Studie; wer beides liest, sieht, wie Forschungsstand in Politikberatung
+    übersetzt wird — und wo dabei Unsicherheit verlorengeht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2024-longpre-consent-in-crisis
+  typ: aufsatz
+  autoren:
+  - Longpre, Shayne
+  - Mahari, Robert
+  - Lee, Ariel
+  - Lund, Campbell
+  - Oderinwale, Hamidah
+  - Brannon, William
+  - Saxena, Nayan
+  - Obeng-Marnu, Naana
+  titel: 'Consent in Crisis: The Rapid Decline of the AI Data Commons'
+  fundstelle: Advances in Neural Information Processing Systems 37 (2024); arXiv:2407.14933
+  jahr: 2024
+  sprache: en
+  url: https://arxiv.org/pdf/2407.14933v1
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  - wettbewerb
+  - governance
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - fair-use-training
+  kernthese: Innerhalb eines Jahres haben Betreiber die Nutzung von über 28 Prozent der wichtigsten Webquellen
+    für KI-Training untersagt; die Sperren treffen kommerzielle und akademische Nutzer gleichermaßen und
+    sind rechtlich inkonsistent.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einzige belastbare Empirie zur tatsächlichen Ausübung von Nutzungsvorbehalten,
+    und deshalb der Text, der die deutsche Diskussion über Maschinenlesbarkeit erdet: Er zeigt, dass Vorbehalte
+    massenhaft erklärt werden, dass sie über robots.txt und Nutzungsbedingungen widersprüchlich sind,
+    und dass sie vor allem Forschung treffen, nicht die großen Anbieter. Das ist zugleich das stärkste
+    empirische Argument gegen die Annahme des OLG Hamburg, ein Vorbehalt in natürlicher Sprache sei praktisch
+    handhabbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-1201-a-1
+- id: 2024-wang-economic-solution
+  typ: working-paper
+  autoren:
+  - Wang, Jiachen T.
+  - Deng, Zhun
+  - Chiba-Okabe, Hiroaki
+  - Barak, Boaz
+  - Su, Weijie J.
+  titel: An Economic Solution to Copyright Challenges of Generative AI
+  fundstelle: arXiv:2404.13964
+  jahr: 2024
+  sprache: en
+  url: https://arxiv.org/pdf/2404.13964v2
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - intl
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Der Beitrag einzelner Werke zur Ausgabe eines Modells lässt sich über eine Shapley-artige
+    Zurechnung schätzen und als Grundlage einer Tantiemenverteilung verwenden.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der ernsthafteste technische Versuch, das Verteilungsproblem zu lösen, an dem alle
+    Vergütungsmodelle scheitern — und zugleich der Beleg dafür, wie teuer die Lösung wäre: Die vorgeschlagene
+    Berechnung erfordert wiederholtes Training mit und ohne die jeweiligen Werke. Für Juristen relevant
+    als Realitätsprüfung der Behauptung, eine gerechte Verteilung sei "technisch lösbar".
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2026-jips-gema-openai
+  typ: blogbeitrag
+  autoren:
+  - Juristisches Internetprojekt Saarbrücken (JIPS)
+  titel: GEMA vs. OpenAI (LG München I, 11.11.2025)
+  fundstelle: JIPS, Universität des Saarlandes, 07.01.2026
+  jahr: 2026
+  sprache: de
+  url: https://www.jura.uni-saarland.de/gema-vs-openai-lg-muenchen-i-11-11-2025/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_regelwerke:
+  - de-urhg-tdm
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  bezug_urteile:
+  - de-2025-gema-openai-lg
+  kernthese: Das Gericht bejaht sowohl eine Vervielfältigung im Modell als auch eine durch die Ausgabe
+    und verneint die TDM-Schranke für beide Vorgänge.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kurze, korrekte, frei zugängliche Zusammenfassung eines Universitätsangebots — brauchbar
+    zum schnellen Nachschlagen des Tenors und der Begründungsstruktur, ohne eigene Stellungnahme. Kein
+    Ersatz für Kuschel/Rostam oder Konertz.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-16
+  - urhg-44b
+  - urhg-97
+- id: 2026-jips-fairuse-usa
+  typ: blogbeitrag
+  autoren:
+  - Juristisches Internetprojekt Saarbrücken (JIPS)
+  titel: KI und Urheberrecht — Fair Use Doctrine der USA
+  fundstelle: JIPS, Universität des Saarlandes, 14.01.2026
+  jahr: 2026
+  sprache: de
+  url: https://www.jura.uni-saarland.de/ki-und-urheberrecht-fair-use-doctrine-der-usa/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - de
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-kadrey-meta-sj
+  kernthese: Die amerikanische Fair-Use-Prüfung ist eine Einzelfallabwägung ohne Entsprechung im deutschen
+    Schrankenkatalog; eine Übertragung der US-Urteile auf § 44b UrhG verbietet sich.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Deutschsprachige Einführung in die Fair-Use-Systematik für Leser, die aus dem geschlossenen
+    Schrankensystem kommen — nützlich als Korrektiv gegen die in der deutschen Berichterstattung verbreitete
+    Gleichsetzung von "Fair Use" und "TDM-Schranke". Kein eigener wissenschaftlicher Beitrag.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - usc-17-107
+- id: 2025-hacker-copyright-ai-cjeu-like-company
+  typ: blogbeitrag
+  autoren:
+  - Hacker, Philipp
+  titel: Copyright, AI, and the Future of Internet Search before the CJEU
+  fundstelle: Verfassungsblog, 17.07.2025
+  jahr: 2025
+  sprache: en
+  url: https://verfassungsblog.de/copyright-ai-cjeu/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  - hu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - schutzfähigkeit-output
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  - ki-vo-2024-1689
+  bezug_urteile:
+  - eu-2025-like-company-google
+  kernthese: In Like Company gegen Google wird der EuGH erstmals über KI und Urheberrecht entscheiden;
+    das Training dürfte von der TDM-Schranke des Art. 4 DSM-RL gedeckt sein, die Wiedergabe von Presseinhalten
+    im Chatbot-Output dagegen nicht, weshalb ein Vergütungsmechanismus erforderlich wird.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Philipp Hacker ist der international meistzitierte deutsche KI-Rechtswissenschaftler,
+    und dies ist der einzige seiner Texte, der in dieser Akte frei greifbar ist — seine Aufsätze liegen
+    auf SSRN, das nicht erreichbar war. Pflicht ist er wegen des Gegenstands: Like Company gegen Google
+    (C-250/25) ist die erste Vorlagefrage zum KI-Urheberrecht beim EuGH, und die Entscheidung wird die
+    deutschen Verfahren (LG Hamburg/LAION, LG München/GEMA) überlagern. Hackers Trennung zwischen Training
+    und Output ist die Struktur, entlang derer die Diskussion seither läuft, und sein Vergütungsargument
+    ist der Brückenschlag zu Art. 15 DSM-RL. Angreifbar ist die Zuversicht bei Art. 4 DSM-RL: Die Frage
+    des rechtmäßigen Zugangs und die Reichweite des Nutzungsvorbehalts sind offen, und Senftleben und
+    Dornis/Stober (beide in 30_lit_urheberrecht.yaml) argumentieren gegenteilig. Wer diese Akte nutzt,
+    sollte Hacker gegen Dornis/Stober lesen — das ist die deutsche Kontroverse in ihrer schärfsten Form.
+    Ergänzt Beck, wo Beck zur EuGH-Vorlage noch nichts hat. ACHTUNG, Verfallsdatum: Die Schlussanträge
+    des Generalanwalts Szpunar in C-250/25 sind für den 03.09.2026 terminiert (s. 22_eu_de.yaml). Der
+    Text ist ab diesem Tag an ihnen zu messen; hält Hackers Trennung von Training und Output stand, gewinnt
+    er an Gewicht, andernfalls ist der Eintrag herabzustufen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-4
+  - dsm-rl-art-15
+- id: 2026-stiemerling-automatisierung-der-automatisierung
+  typ: blogbeitrag
+  autoren:
+  - Stiemerling, Oliver
+  titel: Folgen aus der Automatisierung der Automatisierung für die Softwarebranche — The Show Must Go
+    On
+  fundstelle: CR-online Blog (Computer und Recht), 19.05.2026
+  jahr: 2026
+  sprache: de
+  url: https://www.cr-online.de/blog/2026/05/19/folgen-aus-der-automatisierung-der-automatisierung-fuer-die-softwarebranche-the-show-must-go-on/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - vertrag
+  - governance
+  bezug_streitstaende:
+  - schutzfähigkeit-output
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Wenn KI-Agenten den Code schreiben, entfällt die eigene geistige Schöpfung als Grundlage
+    des Softwareurheberrechts, und die Compliance muss von der nachträglichen Prüfung in die Systemgestaltung
+    wandern — Compliance by Design als operative Regel statt als Prüfungsmaßstab.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Vom IT-Sachverständigen geschrieben, nicht vom Juristen, und das ist der Reiz: Stiemerling
+    führt vor, wie ein KI-Agent eine diskriminierende Anweisung unter Verweis auf die Grundrechtecharta
+    zurückweist, und leitet daraus die These ab, dass Rechtsnormen zu Laufzeitparametern werden. Für die
+    Schutzfähigkeitsfrage (§ 69a UrhG, eigene geistige Schöpfung) ist der Befund ernst zu nehmen; die
+    rechtspolitische Schlussfolgerung ist naiv, weil sie unterstellt, ein Modell könne Rechtsnormen anwenden
+    statt Textmuster zu reproduzieren. Aufgenommen, weil der CR-Blog einer der wenigen frei zugänglichen
+    Ausläufer der Beck-nahen Fachwelt ist und weil die Softwarerechtsfrage sonst in dieser Akte fehlt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-2
+  - urhg-69a
+  - urhg-69c
+  - urhg-7
+- id: 2023-cooper-genlaw-report
+  typ: working-paper
+  autoren:
+  - Cooper, A. Feder
+  - Lee, Katherine
+  - Grimmelmann, James
+  - Ippolito, Daphne
+  - Callison-Burch, Christopher
+  - Choquette-Choo, Christopher A.
+  - Mireshghallah, Niloofar
+  - Brundage, Miles
+  - Mimno, David
+  - u.a.
+  titel: Report of the 1st Workshop on Generative AI and Law
+  fundstelle: arXiv:2311.06477 (cs.CY), 11.11.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2311.06477
+  url: https://arxiv.org/abs/2311.06477
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - urheberrecht
+  - governance
+  - haftung
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  - schutzfähigkeit-output
+  kernthese: Die juristische Debatte über generative KI scheitert überwiegend nicht an Rechtsfragen, sondern
+    daran, dass Juristen und Informatiker dieselben Wörter — Modell, Kopie, Memorisierung, Datensatz —
+    für verschiedene Sachen benutzen.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: die Vorfrage jeder anderen Frage dieser Akte — was genau ist
+    der Gegenstand, über den gestritten wird, wenn von "dem Modell" die Rede ist. PFLICHT, und zwar als
+    ERSTER Text überhaupt. Der Bericht ist das einzige Dokument im Feld, das von Informatikern und Juristen
+    gemeinsam mit dem ausdrücklichen Ziel geschrieben wurde, eine gemeinsame Begriffsgrundlage zu schaffen;
+    Lee, Cooper und Grimmelmann haben daraus später die Lieferkettenanalyse entwickelt, die in 30_lit_urheberrecht
+    erfasst ist. Der praktische Ertrag ist der Abschnitt zur Unterscheidung von Trainingsdatensatz, Trainingslauf,
+    Modellgewichten, Modell-als-Dienst und Ausgabe: Fünf Gegenstände, an die das Recht jeweils verschieden
+    anknüpft, und die in Schriftsätzen regelmäßig zu einem zusammengezogen werden. ANGREIFBAR: Der Bericht
+    referiert Positionen, statt zu entscheiden, und ist an mehreren Stellen bereits überholt — er kennt
+    weder die Memorisierungsergebnisse von 2025 noch die KI-VO in Anwendung. Das schadet nicht, weil sein
+    Wert im Vokabular liegt, nicht in den Ergebnissen. Etwa 30 Seiten Fließtext, ohne Formeln lesbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-107
+- id: 2020-carlini-extracting-training-data
+  typ: aufsatz
+  autoren:
+  - Carlini, Nicholas
+  - Tramèr, Florian
+  - Wallace, Eric
+  - Jagielski, Matthew
+  - Herbert-Voss, Ariel
+  - Lee, Katherine
+  - Roberts, Adam
+  - Brown, Tom
+  - Song, Dawn
+  - Erlingsson, Úlfar
+  - Oprea, Alina
+  - Raffel, Colin
+  titel: Extracting Training Data from Large Language Models
+  fundstelle: 30th USENIX Security Symposium (2021), 2633; arXiv:2012.07805 (cs.CR), 14.12.2020
+  jahr: 2020
+  sprache: en
+  doi: 10.48550/arXiv.2012.07805
+  url: https://arxiv.org/abs/2012.07805
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - datenschutz
+  - gpai
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  - fair-use-training
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  kernthese: Aus einem trainierten Sprachmodell lassen sich einzelne Trainingsbeispiele wörtlich zurückgewinnen,
+    allein durch Abfragen des Modells und ohne Zugriff auf die Trainingsdaten — darunter Namen, Anschriften
+    und Schlüssel, die nur einmal im Korpus vorkamen.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob ein Modell Trainingsdaten "enthält" — die Tatsachenfrage,
+    an der sowohl `modellgewichte-kopie` als auch die Reichweite der §§ 44b, 60d UrhG hängen. PFLICHT,
+    weil dies die Arbeit ist, die das Phänomen überhaupt begründet hat und in praktisch jedem Schriftsatz,
+    jedem Gutachten und jeder Gesetzesbegründung zum Thema zitiert wird — bei Dornis/Stober, bei Cooper/Grimmelmann,
+    im Bericht des US Copyright Office, in der Begründung des LG München I. Wer sie nicht selbst gelesen
+    hat, übernimmt Zusammenfassungen, die den entscheidenden Punkt regelmäßig verfehlen: Die Autoren extrahieren
+    aus GPT-2 rund 600 Sequenzen, viele davon aus Dokumenten, die NUR EINMAL im Trainingskorpus standen.
+    Die verbreitete Entlastungsformel, Memorisierung setze vielfache Wiederholung voraus, ist mit dieser
+    Arbeit unvereinbar. ANGREIFBAR — und das ist die Gegenseite des Arguments: Die Extraktion ist ein
+    ANGRIFF. Die Autoren generieren hunderttausende Ausgaben und filtern sie mit einem Mitgliedschaftstest;
+    die Trefferquote pro Abfrage ist verschwindend. Wer daraus schließt, das Modell gebe Werke wieder,
+    verwechselt Zugänglichkeit mit Speicherung. Beide Seiten dieses Befunds stehen in derselben Arbeit
+    — deshalb muss man sie selbst lesen. 18 Seiten, technisch, aber Abschnitte 1, 3 und 6 sind ohne Vorkenntnisse
+    lesbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - urhg-60d
+  - usc-17-106
+- id: 2022-carlini-quantifying-memorization
+  typ: aufsatz
+  autoren:
+  - Carlini, Nicholas
+  - Ippolito, Daphne
+  - Jagielski, Matthew
+  - Lee, Katherine
+  - Tramèr, Florian
+  - Zhang, Chiyuan
+  titel: Quantifying Memorization Across Neural Language Models
+  fundstelle: International Conference on Learning Representations (ICLR 2023); arXiv:2202.07646 (cs.LG),
+    15.02.2022, zuletzt geändert 06.03.2023
+  jahr: 2022
+  sprache: en
+  doi: 10.48550/arXiv.2202.07646
+  url: https://arxiv.org/abs/2202.07646
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - urheberrecht
+  - datenschutz
+  - gpai
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - ki-vo-2024-1689
+  kernthese: Memorisierung wächst log-linear mit drei Größen — Modellkapazität, Häufigkeit des Beispiels
+    im Trainingskorpus und Länge des vorgegebenen Kontexts —, ist also nicht Zufall, sondern eine vorhersagbare
+    Funktion von Entwurfsentscheidungen.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob Memorisierung eine steuerbare Entwurfsvariable ist — die Voraussetzung
+    dafür, aus ihr überhaupt eine Sorgfaltspflicht (Art. 53 Abs. 1 lit. c KI-VO, § 44b Abs. 3 UrhG) oder
+    ein Verschulden abzuleiten. PFLICHT, weil dieser Text die Brücke von "es passiert" zu "es ist beherrschbar"
+    schlägt, und weil beide Skalierungsrichtungen juristisch scharf sind. Nach OBEN: Memorisierung wächst
+    mit der Modellgröße — das ist Konertz'' (WRP 2026, 148) Argument, jedes hinreichend große Modell wäre
+    bei der Prämisse des LG München I rechtswidrig, in seiner empirischen Grundlage. Nach UNTEN: Memorisierung
+    wächst mit der Duplikatzahl — also ist Deduplizierung (dazu 2021-lee-deduplicating) eine zumutbare
+    Maßnahme, deren Unterlassen vorwerfbar sein kann. Die dritte Achse, Kontextlänge, ist die praktisch
+    wichtigste und die am seltensten zitierte: Je mehr Text man vorgibt, desto eher setzt das Modell wörtlich
+    fort. Daraus folgt für die Beweisaufnahme, dass jede Extraktionsdemonstration danach zu befragen ist,
+    wie viel Kontext der Prüfer vorgegeben hat — ein Prompt, der 500 Zeichen des Werks enthält, beweist
+    nichts über die Speicherung im Modell. ANGREIFBAR: gemessen an GPT-Neo/Pythia-Modellen bis 6 Mrd.
+    Parameter; die Extrapolation auf heutige Größenordnungen ist plausibel, aber nicht gemessen — Cooper
+    u.a. (2025) zeigen, dass sie nicht einfach linear fortschreibbar ist. 12 Seiten, drei Diagramme, die
+    man auch ohne Statistikkenntnisse lesen kann.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-1-lit-c
+  - urhg-44b
+  - usc-17-106
+- id: 2025-cooper-extracting-books
+  typ: working-paper
+  autoren:
+  - Cooper, A. Feder
+  - Gokaslan, Aaron
+  - Cyphert, Amy B.
+  - De Sa, Christopher
+  - Lemley, Mark A.
+  - Ho, Daniel E.
+  - Liang, Percy
+  titel: Extracting memorized pieces of (copyrighted) books from open-weight language models
+  fundstelle: arXiv:2505.12546 (cs.LG), 18.05.2025
+  jahr: 2025
+  sprache: en
+  doi: 10.48550/arXiv.2505.12546
+  url: https://arxiv.org/abs/2505.12546
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - de
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - fair-use-training
+  - tdm-schranke-de
+  bezug_urteile:
+  - us-2025-bartz-anthropic-fairuse
+  - us-2025-kadrey-meta-sj
+  - de-2025-gema-openai-lg
+  kernthese: Über 13 offene Modelle hinweg memorisieren auch die größten Modelle die meisten Bücher weder
+    ganz noch in Teilen — aber einzelne Modell-Werk-Paare, etwa Llama 3.1 70B und Harry Potter, zeigen
+    nahezu vollständige Memorisierung; der Befund ist modell- und werkabhängig und stützt keine der beiden
+    Prozessparteien.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: die Tatsachenfrage, wie sie sich einem Gericht 2026 tatsächlich
+    stellt — nicht "memorisieren Sprachmodelle?", sondern "memorisiert DIESES Modell DIESES Werk?". PFLICHT,
+    aus drei Gründen. Erstens ist es die aktuellste belastbare Messung, und sie ist ausdrücklich auf Bücher
+    und damit auf den Streitgegenstand der anhängigen Verfahren zugeschnitten (Books3 — das Korpus, um
+    das es in Kadrey und Bartz geht). Zweitens ist die Autorenschaft bemerkenswert: Lemley und Ho sind
+    Juristen, Liang und De Sa Informatiker; die Arbeit ist so gebaut, dass sie vor Gericht verwendbar
+    ist, und ihre Verfasser haben die Absicht ausgesprochen. Drittens — und das ist der eigentliche Wert
+    — widersteht sie beiden Vereinfachungen ausdrücklich: "die Belege haben urheberrechtliche Folgen,
+    aber keine, die eindeutig eine Seite begünstigen". Wer nach einem Text sucht, der die Gegenseite erledigt,
+    findet ihn hier nicht; wer prüfen will, wie ein Sachverständigengutachten in diesem Feld auszusehen
+    hat, findet die Vorlage. Praktischer Ertrag für die deutsche Diskussion: Die Feststellung, dass Memorisierung
+    werkabhängig ist, spricht gegen die pauschalierende Prämisse des LG München I ebenso wie gegen die
+    pauschale Entlastung — sie zwingt zur Einzelfallprüfung je Werk, mit den entsprechenden Folgen für
+    Streitwert, Klageantrag und Beweisaufnahme. ANGREIFBAR: nur offene Modelle, weil die Methode Zugriff
+    auf die Gewichte braucht. Über GPT-4, Claude und Gemini sagt sie nichts — und das sind die Modelle,
+    um die in Deutschland gestritten wird.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-17-106
+  - usc-17-107
+- id: 2019-feldman-long-tail
+  typ: aufsatz
+  autoren:
+  - Feldman, Vitaly
+  titel: Does Learning Require Memorization? A Short Tale about a Long Tail
+  fundstelle: 52nd ACM Symposium on Theory of Computing (STOC 2020), 954; arXiv:1906.05271 (cs.LG), 12.06.2019,
+    zuletzt geändert 10.01.2021
+  jahr: 2019
+  sprache: en
+  doi: 10.48550/arXiv.1906.05271
+  url: https://arxiv.org/abs/1906.05271
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - urheberrecht
+  - datenschutz
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  kernthese: Bei langschwänzig verteilten Daten ist die Memorisierung einzelner, seltener Trainingsbeispiele
+    nicht Nebenwirkung, sondern notwendige Bedingung annähernd optimaler Generalisierung — wer sie unterbindet,
+    verschlechtert das Modell nachweislich, und zwar am stärksten für die kleinsten Untergruppen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob Memorisierung als Sorgfaltsverstoß konstruierbar ist — und
+    die Antwort ist ein Nein, das die gesamte Sorgfaltsargumentation zwingt, sich neu zu begründen. Der
+    wichtigste einzelne Text dieser Akte für die Frage, wo die juristische Debatte technisch danebenliegt.
+    Feldman beweist, dass Memorisierung kein Fehler ist, der sich mit besserer Ingenieurskunst beheben
+    ließe, sondern eine Eigenschaft, die aus der Datenverteilung folgt: Reale Sprach- und Bilddaten sind
+    langschwänzig, ein großer Teil der Beispielklassen kommt nur ein- oder zweimal vor, und ein Lerner,
+    der diese Beispiele nicht memorisiert, kann sie auch nicht generalisieren. Für das Recht folgen zwei
+    Sätze in entgegengesetzte Richtungen, und beide sind unbequem. GEGEN DIE RECHTEINHABER: Ein Anspruch,
+    der auf "das Modell hätte nicht memorisieren dürfen" gestützt wird, verlangt etwas, das nach dem Stand
+    der Theorie mit dem Zweck des Trainings unvereinbar ist — nicht bloß teuer, sondern begrifflich ausgeschlossen.
+    GEGEN DIE ANBIETER: Wenn Memorisierung notwendig ist, ist sie in Kauf genommen und nicht unvorhergesehen;
+    die Berufung auf ein unbeabsichtigtes Nebenprodukt trägt nicht. Feldman liefert damit genau das, was
+    der TDM-Diskussion fehlt — eine Aussage darüber, was technisch NICHT anders geht. ANGREIFBAR: Der
+    Beweis betrifft die Memorisierung von LABELS in einem stilisierten Modell, nicht die wörtliche Speicherung
+    längerer Textsequenzen; die Übertragung auf generative Modelle ist naheliegend, aber nicht bewiesen.
+    Wer den Text als Beleg dafür zitiert, dass wörtliche Wiedergabe von Romanen notwendig sei, überdehnt
+    ihn. Formal anspruchsvoll; Einleitung und Abschnitt 1 genügen.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-schwarzschild-adversarial-compression
+  typ: aufsatz
+  autoren:
+  - Schwarzschild, Avi
+  - Feng, Zhili
+  - Maini, Pratyush
+  - Lipton, Zachary C.
+  - Kolter, J. Zico
+  titel: Rethinking LLM Memorization through the Lens of Adversarial Compression
+  fundstelle: Advances in Neural Information Processing Systems 37 (NeurIPS 2024); arXiv:2404.15146 (cs.LG),
+    23.04.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2404.15146
+  url: https://arxiv.org/abs/2404.15146
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - vertrag
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  kernthese: Ein Textstück gilt als memorisiert, wenn es sich durch eine Eingabe hervorrufen lässt, die
+    KÜRZER ist als das Textstück selbst — das Verhältnis beider Längen (Adversarial Compression Ratio)
+    liefert ein prüfbares, einzelfallbezogenes Maß.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: wie sich ein Gerichtsurteil oder eine Vertragsklausel operationalisieren
+    lässt, die dem Anbieter verbietet, ein bestimmtes Werk "im Modell zu speichern" — bislang die größte
+    Lücke zwischen Tenor und Vollstreckung. Der praktisch nützlichste Text des Blocks, weil er die Beweisfrage
+    in eine Prüfung übersetzt, die eine Partei durchführen und die Gegenseite nachvollziehen kann: Wenn
+    man ein Werk nur dadurch hervorrufen kann, dass man es im Prompt weitgehend selbst vorgibt, ist es
+    nicht das Modell, das es speichert — das ist genau der Einwand gegen die Extraktionsdemonstrationen
+    der Rechteinhaber, hier erstmals quantifiziert statt behauptet. Umgekehrt: Ein kurzes Prompt, das
+    eine lange Passage exakt erzeugt, ist Kompression und damit im informationstheoretischen Sinn Speicherung.
+    Die Autoren nennen die Compliance-Überwachung ausdrücklich als Anwendungsfall. ANGREIFBAR: Die Suche
+    nach dem kürzesten auslösenden Prompt ist ein Optimierungsproblem ohne Garantie — ein negatives Ergebnis
+    beweist nicht die Abwesenheit, nur das Scheitern der Suche. Für eine Beweislastverteilung ist das
+    erheblich: Das Maß taugt zum Nachweis, nicht zur Entlastung.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2021-lee-deduplicating
+  typ: aufsatz
+  autoren:
+  - Lee, Katherine
+  - Ippolito, Daphne
+  - Nystrom, Andrew
+  - Zhang, Chiyuan
+  - Eck, Douglas
+  - Callison-Burch, Chris
+  - Carlini, Nicholas
+  titel: Deduplicating Training Data Makes Language Models Better
+  fundstelle: 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022), 8424; arXiv:2107.06499
+    (cs.CL), 14.07.2021
+  jahr: 2021
+  sprache: en
+  doi: 10.48550/arXiv.2107.06499
+  url: https://arxiv.org/abs/2107.06499
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Übliche Trainingskorpora enthalten massenhaft Duplikate; wer sie entfernt, erhält Modelle,
+    die zehnmal seltener wörtlich aus dem Trainingsmaterial ausgeben — bei gleicher oder besserer Leistung
+    und geringerem Rechenaufwand.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob es eine zumutbare, wirksame und kostenlose Maßnahme gegen
+    Memorisierung gibt — die Voraussetzung jeder Sorgfaltspflicht und jedes Fahrlässigkeitsvorwurfs. Die
+    Antwort ist ungewöhnlich eindeutig und deshalb juristisch scharf: Deduplizierung senkt die wörtliche
+    Wiedergabe um etwa eine Größenordnung, verschlechtert das Modell nicht, sondern verbessert es, und
+    spart Rechenzeit. Eine Maßnahme, die wirkt, nichts kostet und dem Verpflichteten nützt, ist der Musterfall
+    der zumutbaren Vorkehrung — bei § 276 BGB, bei Art. 53 Abs. 1 lit. c KI-VO und bei der Frage, ob eine
+    Nutzung "angemessene Schutzmaßnahmen" trifft. Wer heute ein Modell ohne Deduplizierung trainiert und
+    dann memorisierungsbedingt in Anspruch genommen wird, hat mit diesem Text ein Problem; der Stand der
+    Technik ist seit 2021 dokumentiert. Das berühmte Beispiel — ein 61-Wort-Satz, der über 60.000 Mal
+    im Korpus stand — ist in Schriftsätzen unmittelbar verwendbar. ANGREIFBAR: Deduplizierung beseitigt
+    die Memorisierung SELTENER Beispiele gerade nicht (dazu Feldman 2019, Carlini 2020); sie senkt die
+    Häufigkeit, nicht das Prinzip. Wer sie als vollständige Abhilfe darstellt, überdehnt den Befund —
+    und wer sie als wirkungslos abtut, ignoriert ihn.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-1-lit-c
+- id: 2024-duan-mia-llms
+  typ: aufsatz
+  autoren:
+  - Duan, Michael
+  - Suri, Anshuman
+  - Mireshghallah, Niloofar
+  - Min, Sewon
+  - Shi, Weijia
+  - Zettlemoyer, Luke
+  - Tsvetkov, Yulia
+  - Choi, Yejin
+  - Evans, David
+  - Hajishirzi, Hannaneh
+  titel: Do Membership Inference Attacks Work on Large Language Models?
+  fundstelle: Conference on Language Modeling (COLM 2024); arXiv:2402.07841 (cs.CL), 12.02.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2402.07841
+  url: https://arxiv.org/abs/2402.07841
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - de
+  themenachsen:
+  - urheberrecht
+  - datenschutz
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - fair-use-training
+  - tdm-schranke-de
+  kernthese: Mitgliedschaftsangriffe auf große Sprachmodelle schlagen in den meisten Konstellationen kaum
+    das Raten; wo sie zu wirken scheinen, beruht der Erfolg auf einer Verschiebung der Datenverteilung
+    zwischen Mitglieds- und Nichtmitgliedsmenge, nicht auf tatsächlicher Angreifbarkeit.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob ein Rechteinhaber ohne Zugriff auf die Trainingsdokumentation
+    beweisen kann, dass SEIN Werk im Trainingskorpus war — die Beweisfrage, an der die meisten Ansprüche
+    praktisch scheitern. Die wichtigste GEGENPOSITION dieser Akte, und diejenige, die im juristischen
+    Schrifttum fast vollständig fehlt. Die Memorisierungsliteratur wird regelmäßig so gelesen, als ließe
+    sich aus dem Modell rekonstruieren, was hineingeflossen ist. Duan u.a. zeigen, dass das für den Einzelfall
+    gerade nicht gilt: Bei einem Korpus in Billionen-Token-Größe und wenigen Trainingsdurchläufen pro
+    Beispiel verschwimmt die Grenze zwischen "im Korpus" und "nicht im Korpus" so weit, dass die statistische
+    Unterscheidung zusammenbricht. Für die Praxis folgt: (a) Der Nachweis der Aufnahme eines konkreten
+    Werks gelingt in aller Regel nur über die Dokumentation des Anbieters, nicht über das Modell — was
+    die Transparenzpflichten des Art. 53 Abs. 1 lit. d KI-VO und die Offenlegungsanordnung nach Art. 10
+    der Produkthaftungsrichtlinie 2024/2853 zur eigentlichen Anspruchsgrundlage macht. (b) Umgekehrt ist
+    Vorsicht geboten gegenüber Privatgutachten, die eine Mitgliedschaft "nachweisen" — die Autoren zeigen,
+    dass solche Ergebnisse typischerweise ein Artefakt zeitlich verschobener Vergleichsmengen sind (das
+    Nichtmitgliedsmaterial ist jünger und deshalb anders verteilt). Genau dieser Fehler steckt in mehreren
+    als Beweis angebotenen Untersuchungen. ANGREIFBAR: gemessen an Pythia-Modellen und dem MIMIR-Maßstab;
+    für sehr große, mehrfach durchlaufene oder feinabgestimmte Modelle kann anderes gelten, und die Autoren
+    sagen das. Zur Gegenrichtung siehe 2024-meeus-copyright-traps, das den Nachweis durch vorsätzliche
+    Markierung führt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-1-lit-d
+  - pld-art-10
+- id: 2024-meeus-copyright-traps
+  typ: aufsatz
+  autoren:
+  - Meeus, Matthieu
+  - Shilov, Igor
+  - Faysse, Manuel
+  - de Montjoye, Yves-Alexandre
+  titel: Copyright Traps for Large Language Models
+  fundstelle: 41st International Conference on Machine Learning (ICML 2024); arXiv:2402.09363 (cs.CL),
+    14.02.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2402.09363
+  url: https://arxiv.org/abs/2402.09363
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - urheberrecht
+  - datenschutz
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - tdm-schranke-de
+  kernthese: Wer erfundene, hinreichend lange und hinreichend oft wiederholte Textstücke in sein Werk
+    einbettet, kann später nachweisen, dass ein Modell auf diesem Werk trainiert wurde — auch dort, wo
+    natürliche Memorisierung nicht auftritt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: wie ein Rechteinhaber sich den Beweis verschafft, den ihm Duan
+    u.a. gerade abgesprochen haben — durch Gestaltung des eigenen Werks statt durch Analyse des fremden
+    Modells. Der einzige Text dieser Akte, der ein Beweismittel KONSTRUIERT statt es zu bewerten, und
+    deshalb für die Beratungspraxis der interessanteste: Verlage, Presseverlage und Datenbankanbieter
+    können die Fallen heute einbauen; die Wirkung tritt erst bei künftigen Trainingsläufen ein. Wer Mandanten
+    auf der Rechteinhaberseite berät, sollte den Vorschlag kennen, bevor die Gegenseite ihn kennt. Der
+    Anschluss an das deutsche Recht ist naheliegend, aber unbearbeitet: Eine Falle ist eine technische
+    Maßnahme im weiteren Sinn, aber keine im Sinne des § 95a UrhG, und ihr Verhältnis zum maschinenlesbaren
+    Nutzungsvorbehalt nach § 44b Abs. 3 UrhG ist offen. ANGREIFBAR: mehrfach. Erstens brauchen die Fallen
+    erhebliche Wiederholungszahlen, was Werke unlesbar macht (die Autoren verstecken sie in nicht angezeigtem
+    HTML — was seinerseits an Manipulationsvorwürfe grenzt). Zweitens sind sie durch Deduplizierung entfernbar,
+    also gerade durch die Maßnahme, die der Anbieter ohnehin schuldet. Drittens gemessen an einem 1,3-Milliarden-Parameter-Modell;
+    die Übertragbarkeit auf Frontier-Modelle ist offen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - urhg-95a
+- id: 2023-vyas-provable-copyright-protection
+  typ: aufsatz
+  autoren:
+  - Vyas, Nikhil
+  - Kakade, Sham
+  - Barak, Boaz
+  titel: On Provable Copyright Protection for Generative Models
+  fundstelle: 40th International Conference on Machine Learning (ICML 2023), 35277; arXiv:2302.10870 (cs.LG),
+    21.02.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2302.10870
+  url: https://arxiv.org/abs/2302.10870
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  - fair-use-training
+  kernthese: Ein Modell heißt nahezu zugriffsfrei bezüglich eines Werks, wenn seine Ausgabeverteilung
+    höchstens um k Bit von der eines Modells abweicht, das dieses Werk nie gesehen hat; das lässt sich
+    konstruktiv erreichen und liefert eine beweisbare obere Schranke für die Wahrscheinlichkeit substantiell
+    ähnlicher Ausgaben.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: wie ein technischer Sorgfaltsmaßstab aussehen könnte, der die
+    Frage "hat der Anbieter genug getan?" justiziabel macht — die offene Flanke von Art. 53 Abs. 1 lit.
+    c KI-VO und des vierten Fair-Use-Faktors. Der Text ist der bislang ernsthafteste Versuch, eine urheberrechtliche
+    Kategorie — die Frage, ob eine Ausgabe auf Zugang zum Werk zurückgeht — in eine überprüfbare Modelleigenschaft
+    zu übersetzen, und er stammt von Informatikern, die die juristische Struktur verstanden haben: Der
+    Begriff ist ausdrücklich der Zugangs-und-Ähnlichkeits-Prüfung des US-Rechts nachgebildet. Wenn sich
+    ein Modell so bauen lässt, dass seine Ausgaben nachweisbar kaum von denen eines Modells ohne Zugang
+    zum Werk abweichen, dann ist das ein Sicherheitshafen, den ein Gesetzgeber oder ein Verhaltenskodex
+    anknüpfen könnte — und der GPAI-Verhaltenskodex hat genau hier nichts anzubieten. ANGREIFBAR, und
+    zwar erheblich. Die Autoren schützen gegen wörtliche Wiedergabe eines EINZELNEN Werks, nicht gegen
+    Stilübernahme, nicht gegen Marktverwässerung und nicht gegen die Ähnlichkeit zu einer Werkgruppe;
+    die Konstruktion setzt voraus, dass man das Korpus in disjunkte Teile zerlegen kann, was bei tatsächlichen
+    Trainingskorpora unrealistisch ist. Und der Maßstab misst Verteilungsabstand, nicht Ähnlichkeit im
+    Sinne des § 23 UrhG — die Übersetzung zurück ins Recht ist nicht geleistet. Trotzdem: Es ist der einzige
+    Vorschlag, über den sich streiten LÄSST.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-1-lit-c
+  - urhg-23
+  - usc-17-106
+- id: 2022-villalobos-run-out-of-data
+  typ: working-paper
+  autoren:
+  - Villalobos, Pablo
+  - Ho, Anson
+  - Sevilla, Jaime
+  - Besiroglu, Tamay
+  - Heim, Lennart
+  - Hobbhahn, Marius
+  titel: Will we run out of data? Limits of LLM scaling based on human-generated data
+  fundstelle: arXiv:2211.04325 (cs.LG), 26.10.2022, revidiert 04.06.2024; Epoch AI
+  jahr: 2022
+  sprache: en
+  doi: 10.48550/arXiv.2211.04325
+  url: https://arxiv.org/abs/2211.04325
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - de
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - marktzugang
+  - gpai
+  bezug_streitstaende:
+  - fair-use-training
+  - tdm-schranke-de
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - de-urhg-tdm
+  kernthese: Der Bestand an öffentlich verfügbarem, von Menschen erzeugtem Text wird bei fortgesetzten
+    Entwicklungstrends zwischen 2026 und 2032 erschöpft sein; danach entscheidet der Zugang zu nicht-öffentlichen
+    Beständen, synthetischen Daten und Datensparsamkeit über den Fortschritt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: die wirtschaftliche Vorfrage des vierten Fair-Use-Faktors und
+    der TDM-Debatte — ob urheberrechtlich geschützte Werke für die Entwickler ein knappes, also handelbares
+    Gut sind oder ein beliebig ersetzbares. Sie sind knapp, und das ist die juristisch folgenreichste
+    Aussage dieser Akte für das Urheberrecht. Aus der Knappheit folgt dreierlei. (1) Es gibt einen realen
+    Markt für Lizenzen an Trainingsdaten — die Voraussetzung dafür, im vierten Fair-Use-Faktor einen Marktschaden
+    anzunehmen, und für die deutsche Diskussion die Voraussetzung dafür, dem Nutzungsvorbehalt nach §
+    44b Abs. 3 UrhG wirtschaftliche Wirkung zuzusprechen. (2) Der Nutzungsvorbehalt ist deshalb nicht
+    symbolisch: Wenn Daten knapp werden, wirkt jeder Opt-out unmittelbar auf die Fähigkeit künftiger Modelle.
+    (3) Der Wechsel zu nicht-öffentlichen Beständen — Nutzerdaten, Bücher, Verlagsarchive, Betriebsdaten
+    — ist keine Möglichkeit, sondern eine Notwendigkeit; die datenschutz- und vertragsrechtlichen Streitigkeiten
+    der kommenden Jahre sind hier vorgezeichnet. ANGREIFBAR: eine Projektion unter Fortschreibung von
+    Trends, die sich seit 2024 erkennbar verschoben haben — synthetische Daten, Mehrfachdurchläufe und
+    Rechenaufwand zur Inferenzzeit verschieben die Grenze nach hinten, und die revidierte Fassung sagt
+    das. Wer die Erschöpfung als feststehendes Datum zitiert, zitiert falsch; wer die Knappheit als Richtung
+    zitiert, ist auf sicherem Boden.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - urhg-44b
+  - dsm-rl-art-4-abs-3
+- id: 2023-longpre-data-provenance
+  typ: aufsatz
+  autoren:
+  - Longpre, Shayne
+  - Mahari, Robert
+  - Chen, Anthony
+  - Obeng-Marnu, Naana
+  - Sileo, Damien
+  - Brannon, William
+  - u.a.
+  titel: 'The Data Provenance Initiative: A Large Scale Audit of Dataset Licensing & Attribution in AI'
+  fundstelle: arXiv:2310.16787 (cs.CL), 25.10.2023; später Nature Machine Intelligence 6 (2024), 975
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2310.16787
+  url: https://arxiv.org/abs/2310.16787
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - de
+  themenachsen:
+  - urheberrecht
+  - vertrag
+  - wettbewerb
+  - gpai
+  bezug_streitstaende:
+  - fair-use-training
+  - tdm-schranke-de
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - ki-vo-2024-1689
+  kernthese: Eine Prüfung von über 1.800 Textdatensätzen ergibt, dass mehr als 70 Prozent keine Lizenzangabe
+    führen und die Angaben auf den großen Verteilplattformen zu über 50 Prozent falsch sind.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob ein Anbieter die Lizenzlage seiner Trainingsdaten überhaupt
+    kennen KANN — die Vorfrage jeder Sorgfalts-, Verschuldens- und Dokumentationspflicht, insbesondere
+    der "hinreichend detaillierten Zusammenfassung" nach Art. 53 Abs. 1 lit. d KI-VO. Der Befund ist für
+    beide Seiten verwendbar und deshalb wertvoll. ENTLASTEND: Wer einen Datensatz von einer etablierten
+    Plattform bezieht und dessen Lizenzangabe vertraut, handelt nicht ohne weiteres fahrlässig, wenn diese
+    Angaben zu über der Hälfte falsch sind — die Fehlerquote ist objektiv und dokumentiert. BELASTEND:
+    Wer weiß, dass die Angaben zu über der Hälfte falsch sind, kann sich auf sie gerade nicht verlassen;
+    nach Veröffentlichung dieser Prüfung ist blindes Vertrauen selbst der Sorgfaltsverstoß. Der Wendepunkt
+    liegt damit auf Oktober 2023, und das ist ein Datum, mit dem sich argumentieren lässt. Zweiter Ertrag:
+    Die Prüfung zeigt, dass die attraktivsten Bestände — Sprachen mit wenig Material, synthetische Daten
+    — überwiegend proprietär sind, was den Marktzutritt für kleine Anbieter unabhängig vom Urheberrecht
+    erschwert. Die Verfasser betreiben ein fortgeschriebenes Verzeichnis, das für Beweiszwecke nutzbar
+    ist. ANGREIFBAR: geprüft wurden Datensätze zur Feinabstimmung, nicht die Vortrainingskorpora, um die
+    in den Verfahren gestritten wird; die Übertragung auf Common Crawl und Books3 ist naheliegend, aber
+    nicht gemessen. Longpre u.a., Consent in Crisis (2024), ist die Fortsetzung und steht in 30_lit_urheberrecht.yaml.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-1-lit-d
+- id: 2025-nunez-rocha-ia-derecho-autor
+  typ: aufsatz
+  autoren:
+  - Núñez Rocha, Hernán
+  titel: Inteligencia artificial y derecho de autor. Apuntes sobre la generación de contenidos
+  titel_deutsch: Künstliche Intelligenz und Urheberrecht. Anmerkungen zur Erzeugung von Inhalten
+  fundstelle: Boletín Mexicano de Derecho Comparado 58 (2025), Nr. 174, Artikel e20220
+  jahr: 2025
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/20220
+  doi: 10.22201/iij.24484873e.2025.174.20220
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  - us
+  - cn
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - schutzfaehigkeit-output
+  kernthese: 'Der mexikanische Werkbegriff verlangt menschliche Urheberschaft und ein Mindestmass an Schöpfungshöhe;
+    rein generativ erzeugte Inhalte erfüllen beides nicht und bleiben deshalb schutzlos.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der beste Einstiegstext, den ich für die mexikanische Seite der Schutzfähigkeitsfrage
+    gefunden habe, und der einzige, der sie dogmatisch statt essayistisch behandelt. Núñez Rocha arbeitet
+    mit dem Begriffspaar "impronta personal" und "umbral mínimo de creatividad" — das ist funktional die
+    mexikanische Entsprechung unserer persönlichen geistigen Schöpfung nach § 2 Abs. 2 UrhG, und genau
+    deshalb ist der Text für einen deutschen Leser lesbar: man kann die Argumentation eins zu eins gegen
+    die eigene Dogmatik halten. Schwach ist die Rechtsvergleichung — er nimmt USA und China als Kontrastfolie,
+    lässt die EU und damit die für Mexiko politisch näherliegende Referenzordnung weitgehend aus, und
+    die chinesische Rechtsprechung (Li v. Liu) referiert er aus zweiter Hand. Man braucht ihn als Fundstelle
+    dafür, dass die mexikanische Lehre den Output nicht schützt; für den Streitstand selbst braucht man
+    ihn nicht.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-alba-betancourt-propiedad-intelectual-era-digital
+  typ: aufsatz
+  autoren:
+  - Alba Betancourt, Ana Georgina
+  titel: 'Desafíos para la propiedad intelectual ante las nuevas formas de creación en la era digital:
+    redes sociales e inteligencia artificial'
+  titel_deutsch: 'Herausforderungen für das Immaterialgüterrecht angesichts neuer Schöpfungsformen im
+    digitalen Zeitalter: soziale Netzwerke und künstliche Intelligenz'
+  fundstelle: Boletín Mexicano de Derecho Comparado 58 (2025), Nr. 174, Artikel e20264
+  jahr: 2025
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/20264
+  doi: 10.22201/iij.24484873e.2025.174.20264
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - schutzfaehigkeit-output
+  - fair-use-training
+  kernthese: 'Weder die Originalitätskriterien des Urheberrechts noch das Patentrecht (DABUS) noch die
+    Notice-and-Takedown-Mechanik werden den Schöpfungsformen der Plattformökonomie und der generativen
+    Systeme gerecht.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Breiter angelegt als Núñez Rocha und deshalb flacher: Memes, Reels, virale Challenges,
+    Web Scraping und DABUS in einem Aufsatz ist zu viel. Der Mehrwert liegt im Scraping-Teil — Alba Betancourt
+    ist eine der wenigen mexikanischen Stimmen, die überhaupt thematisiert, dass Mexiko keine TDM-Schranke
+    kennt und die Trainingsfrage deshalb ohne die europäische Ausweichlösung beantwortet werden muss.
+    Das ist der Punkt, wegen dessen ich den Text aufnehme; alles davor ist Referat. Als Beleg dafür zitierbar,
+    dass die mexikanische Lehre die Trainingsfrage bislang nicht geklärt hat.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-buendia-romero-voces-sin-rostro
+  typ: aufsatz
+  autoren:
+  - Buendía Romero, Hugo Ignacio
+  titel: Voces sin rostro. Los retos de la inteligencia artificial en la industria del doblaje
+  titel_deutsch: Stimmen ohne Gesicht. Die Herausforderungen der künstlichen Intelligenz in der Synchronbranche
+  fundstelle: Boletín Mexicano de Derecho Comparado 58 (2025), Nr. 174, Artikel e20248
+  jahr: 2025
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/20248
+  doi: 10.22201/iij.24484873e.2025.174.20248
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  themenachsen:
+  - urheberrecht
+  - arbeit
+  - content
+  bezug_streitstaende:
+  - schutzfaehigkeit-output
+  kernthese: 'Stimmsynthese wirft drei getrennte Probleme auf — die Brüchigkeit der Einwilligung in Stimmentnahme
+    und algorithmische Weiterver- wendung, die Verdrängung der Synchronsprecher und die ungeklärte Rechtsnatur
+    des Stimmklons.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der Text hat einen Vorteil, den kein europäischer Aufsatz zum Thema hat: Mexiko-Stadt
+    ist das Zentrum der spanischsprachigen Synchronisation, die Branche ist gross, gewerkschaftlich organisiert
+    (ANDA) und seit 2023 in offenem Konflikt mit den Studios über Stimmklone. Buendía Romero schreibt
+    also nicht über ein hypothetisches, sondern über ein laufendes Arbeitskampf- problem, und er unterscheidet
+    sauber vier technische Verfahren der Stimmerzeugung, bevor er sie rechtlich einordnet — das macht
+    kaum jemand. Für die deutsche Diskussion um das Leistungsschutzrecht der ausübenden Künstler (§§ 73
+    ff. UrhG) und um § 22 KUG bei Stimmen der greifbarste Vergleichsfall. Schwäche: die Regelungsvorschläge
+    am Ende bleiben Prinzipienkatalog.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-jadresic-titularidad-ia
+  typ: aufsatz
+  autoren:
+  - Jadresic Simonetti, Tomás
+  titel: Creación y titularidad sobre activos de propiedad intelectual creados autónomamente por la inteligencia
+    artificial
+  titel_deutsch: Schöpfung und Inhaberschaft an autonom durch künstliche Intelligenz erzeugten Immaterialgütern
+  fundstelle: Revista Chilena de Derecho y Tecnología 13 (2024), Artikel 71922
+  jahr: 2024
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/71922
+  doi: 10.5354/0719-2584.2024.71922
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  themenachsen:
+  - urheberrecht
+  bezug_streitstaende:
+  - schutzfaehigkeit-output
+  kernthese: 'Nach geltendem chilenischem Recht (Ley 17.336) kann eine autonom erzeugte Schöpfung weder
+    Werk sein noch einem Rechtsinhaber zugeordnet werden; sie fällt in die Gemeinfreiheit.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der chilenische Standardtext zur Schutzfähigkeitsfrage. Er ist nicht originell —
+    die rechtsvergleichende Übersicht (USA, UK, DABUS) kennt man —, aber er beantwortet die Frage für
+    das chilenische Recht ausdrücklich und mit Normbezug, und genau das braucht man, wenn man die Rechtslage
+    zitieren muss. Bemerkenswert ist, dass Jadresic Simonetti anders als der britische Gesetzgeber (s.
+    9 Abs. 3 CDPA) keine Auffanglösung zugunsten des "Veranlassers" konstruiert, sondern die Gemeinfreiheit
+    hinnimmt. Wer die Bandbreite der möglichen Antworten auf die Frage nach computer-generated works sortiert,
+    hat mit Chile den Pol der strengen Ablehnung.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2021-izquierdo-mineria-textos-datos
+  typ: aufsatz
+  autoren:
+  - Izquierdo, H. Andrés
+  titel: 'Minería de textos y datos e Inteligencia Artificial: nuevas excepciones al derecho de autor'
+  titel_deutsch: 'Text- und Data-Mining und künstliche Intelligenz: neue Schranken des Urheberrechts'
+  fundstelle: THEMIS Revista de Derecho 79 (2021), 323–343
+  jahr: 2021
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/themis/article/view/24881
+  doi: 10.18800/themis.202101.018
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  - latam
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - fair-use-training
+  - tdm-schranke-de
+  kernthese: 'Die nationalen TDM-Schranken sind so unterschiedlich zugeschnitten, dass sie ein international
+    inkohärentes Forschungsumfeld erzeugen; erforderlich sind neue, forschungsbezogene Schranken.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der einzige spanischsprachige Text zur TDM-Schranke, den ich in der lateinamerikanischen
+    Literatur mit ernsthafter rechtsvergleichender Substanz gefunden habe — und der einzige, der das Problem
+    aus der Perspektive einer Region beschreibt, die überhaupt keine TDM-Schranke hat. Das ist der entscheidende
+    Punkt für einen deutschen Leser: Wir streiten über die Reichweite von § 44b UrhG und den Vorbehalt
+    nach Abs. 3; Lateinamerika hat dagegen die Ausgangsnorm nicht, arbeitet mit dem geschlossenen Schrankenkatalog
+    der Andengemeinschaftsentscheidung 351 und muss deshalb entweder die Zweckbindung des Vervielfältigungsrechts
+    oder das Vertragsrecht bemühen. Izquierdo arbeitet das sauber heraus. Alter des Textes ist der Nachteil:
+    2021 geschrieben, also vor allem, was seither geschah — die japanische Art.-30-4-Debatte, Singapur,
+    die EU-Praxis, die US-Verfahren. Man liest ihn für die Ausgangslage, nicht für den Stand.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2023-siniscalchi-dabus-argentina
+  typ: aufsatz
+  autoren:
+  - Siniscalchi, Mariana
+  titel: 'Patentes de invención e inteligencia artificial en Argentina: el caso DABUS'
+  titel_deutsch: 'Erfindungspatente und künstliche Intelligenz in Argentinien: der Fall DABUS'
+  fundstelle: Prudentia Iuris 96 (2023)
+  jahr: 2023
+  sprache: es
+  url: https://erevistas.uca.edu.ar/index.php/PRUDENTIA/es/article/view/6975
+  doi: 10.46553/prudentia.96.2023.8
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  themenachsen:
+  - urheberrecht
+  - marktzugang
+  bezug_streitstaende:
+  - schutzfaehigkeit-output
+  kernthese: 'Nach geltendem argentinischem Patentrecht (Ley 24.481) wäre eine Anmeldung mit einer KI
+    als Erfinder zurückzuweisen; die Autorin empfiehlt eine gesetzliche Klarstellung.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der beste argentinische Text zur Schutzfähigkeitsfrage und der einzige, der die DABUS-Serie
+    systematisch durchgeht und dann fragt, wie ein argentinisches Amt entscheiden müsste. Der hypothetische
+    Zuschnitt ist ehrlich — in Argentinien liegt keine solche Anmeldung vor —, und er zwingt die Autorin
+    dazu, die argentinischen Normen tatsächlich anzuwenden statt sich hinter ausländischen Entscheidungen
+    zu verstecken. Für einen deutschen Leser ist der Vergleich mit BGH X ZB 5/22 (DABUS, Beschluss vom
+    11.06.2024) unmittelbar aufschlussreich: Der BGH hat mit der Benennung des menschlichen Erfinders
+    plus Hinweis auf das System eine Zwischenlösung gefunden, Siniscalchi hält eine solche Konstruktion
+    für das argentinische Recht nicht für tragfähig und verlangt den Gesetzgeber. Wer die Bandbreite der
+    DABUS-Antworten abbilden will, braucht diesen Text als das strengere Ende. Als Pflicht eingestuft,
+    weil Argentinien sonst gar keinen belastbaren immaterialgüterrechtlichen Beitrag zu bieten hat.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-ordelin-propiedad-intelectual-transparencia
+  typ: bericht
+  autoren:
+  - Ordelin Font, Jorge Luis
+  titel: Derecho de la propiedad intelectual y transparencia de los sistemas de IA
+  titel_deutsch: Immaterialgüterrecht und Transparenz von KI-Systemen
+  fundstelle: Proyecto GuIA (CETyS, Universidad de San Andrés), Ausgabe 2021, veröffentlicht 2022
+  jahr: 2022
+  sprache: es
+  url: https://proyectoguia.lat/wp-content/uploads/2022/04/Derechos-de-propiedad-intelectual.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  themenachsen:
+  - urheberrecht
+  - governance
+  - gpai
+  kernthese: 'Der Schutz von Geschäftsgeheimnissen und Software durch das Immaterialgüterrecht steht den
+    Transparenzanforderungen an KI-Systeme entgegen; der Konflikt ist in Lateinamerika ungelöst.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Derselbe Autor wie bei "Cargas normativas", hier zu einem Konflikt, der in der europäischen
+    Diskussion um Art. 11 und Anhang IV KI-VO und um die Reichweite des Auskunftsanspruchs bei automatisierten
+    Entscheidungen (EuGH, Rs. C-203/22 Dun & Bradstreet Austria, Urteil vom 27.02.2025) ganz oben steht.
+    Ordelin Font arbeitet ihn für Lateinamerika heraus, wo der Schutz des Geschäftsgeheimnisses über die
+    TRIPS-Umsetzung und die Andengemeinschaftsentscheidung 486 läuft und die Transparenzseite praktisch
+    keine Norm hat — das Kräfteverhältnis ist also eindeutiger als bei uns. Kurz, als Politikpapier geschrieben,
+    ohne Rechtsprechung. Man liest es, um zu sehen, wie derselbe Konflikt aussieht, wenn eine der beiden
+    Seiten unbewaffnet ist.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-oriakhogba-ip-ki-strategien
+  typ: aufsatz
+  autoren:
+  - Oriakhogba, Desmond
+  titel: Centering Intellectual Property in Artificial Intelligence Strategies in Africa Through a Techno-legal
+    Analysis
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 29 (2026), 1-43
+  jahr: 2026
+  sprache: en
+  url: https://perjournal.co.za/article/view/23855
+  doi: 10.17159/1727-3781/2026/v29i0a23855
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - urheberrecht
+  - governance
+  - marktzugang
+  kernthese: Ob Afrika fuer KI neue Immaterialgueterregeln braucht, laesst sich nicht pauschal beantworten,
+    sondern haengt vom jeweiligen Einzelproblem ab; die elf vorliegenden nationalen KI-Strategien und
+    die AU-Strategie sollten IP menschenzentriert und entwicklungsorientiert einordnen, statt das Schutzniveau
+    pauschal anzuheben oder abzusenken.
+  eigene_bewertung: 'Der beste Einstieg in die suedafrikanische und panafrikanische IP-Debatte zu KI,
+    den ich gefunden habe. Oriakhogba arbeitet die Strategiepapiere systematisch durch und vergleicht
+    mit US, China, Australien und EU - fuer mich als deutschen Juristen ist besonders brauchbar, dass
+    er die Frage "neue Regeln oder Anwendung der alten" genau so stellt, wie sie sich bei uns im Streit
+    um Paragraf 44b UrhG stellt, aber unter voellig anderen Vorzeichen: Es geht ihm um Zugang zu Trainingsdaten
+    als Entwicklungsfrage, nicht um Verguetung als Verteilungsfrage. Schwach ist der Text dort, wo er
+    dogmatisch werden muesste: Zum suedafrikanischen Copyright Act 98 of 1978 und zur seit Jahren blockierten
+    Copyright Amendment Bill sagt er weniger, als der Titel verspricht. Man braucht ihn fuer den Rahmen,
+    nicht fuer die Subsumtion.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2026-jansen-performers-rights-ki
+  typ: aufsatz
+  autoren:
+  - Jansen, Gretchen
+  titel: Demystifying Performers' Rights in the Age of Artificial Intelligence
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 29 (2026), Beitrag a22804
+  jahr: 2026
+  sprache: en
+  url: https://perjournal.co.za/article/view/22804
+  doi: 10.17159/1727-3781/2026/v29i0a22804
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - urheberrecht
+  - content
+  - grundrechte
+  kernthese: Der Performers' Protection Act 11 of 1967 taugt nicht zur Bewaeltigung von Deepfakes, weil
+    Leistungsschutzrechte eine geschuetzte Darbietung voraussetzen, an der es bei rein synthetischer Nachbildung
+    gerade fehlt; wer nicht unter den gesetzlichen Begriff des "performer" faellt, steht voellig schutzlos.
+  eigene_bewertung: 'Fuer die deutsche Diskussion ueberraschend anschlussfaehig. Jansen fuehrt exakt den
+    Nachweis, den man auch fuer Paragraf 73 ff. UrhG fuehren muss: Das Leistungsschutzrecht des ausuebenden
+    Kuenstlers knuepft an eine tatsaechliche Darbietung an und laeuft bei rein generierter Stimm- und
+    Bildimitation leer. Die Folgerung, dass man deshalb ueber das allgemeine Persoenlichkeitsrecht gehen
+    muss, zieht sie fuer Suedafrika ueber die dignitas-Rechtsprechung; das ist die interessanteste Parallele
+    zu unserem Recht am eigenen Bild und an der eigenen Stimme. Schwaeche: Sie verarbeitet die suedafrikanische
+    Copyright Amendment Bill nur am Rande, obwohl deren Schicksal die Frage praktisch entscheidet. Trotzdem
+    der beste Deepfake-Text aus Suedafrika, den ich kenne.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-karjiker-rousseau-computergenerierte-werke
+  typ: aufsatz
+  autoren:
+  - Karjiker, Sadulla
+  - Rousseau, G.
+  titel: Analysing computer-generated works in South African copyright law in the age of artificial intelligence
+  fundstelle: Tydskrif vir die Suid-Afrikaanse Reg (TSAR) 2025, Heft 4, 727-759
+  jahr: 2025
+  sprache: en
+  doi: 10.47348/tsar/2025/i4a5
+  zugang: bezahlt
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - urheberrecht
+  - content
+  kernthese: Die Regelung ueber computergenerierte Werke im suedafrikanischen Copyright Act 98 of 1978
+    - Suedafrika gehoert zu der Handvoll Staaten mit einer solchen Vorschrift - traegt die Zurechnung
+    generativ erzeugter Ausgaben nicht, weil der Begriff des "author" als derjenige, der die noetigen
+    Vorkehrungen trifft, bei Grundmodellen niemanden mehr eindeutig bezeichnet.
+  eigene_bewertung: Der fuer den Streitstand schutzfaehigkeit-output wichtigste suedafrikanische Text.
+    Suedafrika hat - wie das Vereinigte Koenigreich mit s 9(3) CDPA, Indien, Irland, Neuseeland und Hongkong
+    - eine ausdrueckliche Norm fuer computergenerierte Werke; die Kommentierung dieser Norm im Zeitalter
+    generativer Modelle ist genau die Frage, die im deutschen Recht mangels Parallelnorm gar nicht erst
+    gestellt werden kann. Wer argumentieren will, dass eine Zurechnungsnorm das Problem nicht loest, sondern
+    nur verschiebt, findet hier die Belegstelle aus einer Rechtsordnung, die es versucht hat. Karjiker
+    ist Inhaber des Anton-Mostert-Lehrstuhls fuer Immaterialgueterrecht in Stellenbosch, der Text ist
+    entsprechend solide. Nur ueber Juta zugaenglich - Metadaten geprueft, Volltext nicht.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-miggels-fair-use-suedafrika
+  typ: aufsatz
+  autoren:
+  - Miggels, Alvizo
+  titel: The implementation of the fair use exception into South African copyright law in the age of artificial
+    intelligence
+  fundstelle: South African Intellectual Property Law Journal 13 (2025), Heft 2, 45-72
+  jahr: 2025
+  sprache: en
+  doi: 10.47348/saipl/v13/i2a3
+  zugang: bezahlt
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - urheberrecht
+  - content
+  kernthese: Die in der Copyright Amendment Bill vorgesehene Einfuehrung einer offenen Fair-Use-Schranke
+    nach US-Vorbild ist gerade wegen der Trainingsfrage geboten, weil das geltende suedafrikanische Recht
+    nur einen geschlossenen Katalog von Schrankentatbestaenden kennt, der Text und Data Mining nicht erfasst.
+  eigene_bewertung: 'Genau der Text, den man fuer den Rechtsvergleich beim Streitstand fair-use-training
+    braucht: Suedafrika ist die Rechtsordnung, in der die Frage "geschlossener Schrankenkatalog oder offene
+    Generalklausel" seit ueber zehn Jahren gesetzgeberisch offen ist - die Copyright Amendment Bill liegt
+    seit 2017 zwischen Parlament und Praesident hin und her, zuletzt wegen verfassungsrechtlicher Bedenken.
+    Miggels argumentiert fuer Fair Use ausdruecklich mit dem KI-Argument; das ist die Umkehrung der europaeischen
+    Debatte, in der Paragraf 44b UrhG und Art. 4 DSM-RL als zu weit kritisiert werden. Ich lese ihn als
+    Beleg dafuer, dass die Schrankensystematik selbst zum Standortargument geworden ist. Nur ueber Juta.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-vyas-schirru-indisches-urheberrecht-genai
+  typ: aufsatz
+  autoren:
+  - Vyas, Lokesh
+  - Schirru, Luca
+  titel: 'Indian Copyright Law in the Age of GenAI: Knowledge/Power, Patchwork, and Peril'
+  fundstelle: Indian Journal of Law and Technology 20 (2024), Heft 2, Beitrag 2
+  jahr: 2024
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol20/iss2/2
+  doi: 10.55496/ZGDS8505
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  kernthese: Die indische Debatte ueber generative KI und Urheberrecht hat sich vorschnell auf die importierten
+    Kategorien fair dealing, Lizenzierung und Schranken verengt; die Autoren fragen mit Foucault nach
+    den Machtstrukturen, die diese Verengung erzeugen, und halten die Frage offen, was das Urheberrecht
+    heute ueberhaupt leisten soll.
+  eigene_bewertung: 'Der theoretisch anspruchsvollste indische Beitrag, den ich gefunden habe, und der
+    einzige, der die eigene Diskursbildung zum Gegenstand macht. Der Befund ist auch fuer Europa richtig:
+    Wir diskutieren Paragraf 44b UrhG und Art. 53 Abs. 1 lit. c KI-VO in Kategorien, die aus dem US-Fair-Use-Streit
+    stammen, ohne zu pruefen, ob sie zu unserem Schrankensystem passen. Indien ist dabei ein besonders
+    klarer Fall, weil section 52 des Copyright Act 1957 ein geschlossener fair-dealing-Katalog ist und
+    zugleich section 2(d)(vi) den Urheber computergenerierter Werke bestimmt - eine Kombination, die es
+    in Europa nicht gibt. Nachteil: Der Text kritisiert den Rahmen, ohne einen eigenen zu liefern. Fuer
+    die Subsumtion unbrauchbar, fuer die Reflexion wertvoll.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2024-agrawal-human-enablement-copyright
+  typ: aufsatz
+  autoren:
+  - Agrawal, Akshat
+  titel: A Human Enablement Theory of Copyright
+  fundstelle: Indian Journal of Law and Technology 20 (2024), Heft 2, Beitrag 1
+  jahr: 2024
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol20/iss2/1
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - urheberrecht
+  - content
+  kernthese: Das Urheberrecht ist nicht als Belohnung fuer Schoepfung, sondern als Ermoeglichung menschlicher
+    Ausdrucksfaehigkeit zu begruenden; daraus folgt eine andere Behandlung maschinell erzeugter Erzeugnisse
+    und ein weiterer Zugangsanspruch.
+  eigene_bewertung: Ein theoretischer Gegenentwurf, der fuer den Streitstand schutzfaehigkeit-output brauchbar
+    ist, weil er die Schutzfrage nicht ueber den Schoepfungsbegriff, sondern ueber den Zweck des Schutzes
+    beantwortet. Wenn das Urheberrecht menschliche Ausdrucksfaehigkeit ermoeglichen soll, spricht das
+    gegen Schutz maschineller Erzeugnisse und zugleich fuer weite Schranken beim Training - eine Kombination,
+    die in der deutschen Diskussion selten zusammengedacht wird. Agrawal ist Praktiker und schreibt engagiert;
+    die Belegdichte ist geringer als bei einer deutschen Habilitation, das Argument dafuer klar. Nuetzlich
+    als Gegenposition zu den Verwertungsgesellschaftsargumenten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-chiu-generative-ki-urheberrechtsstrategie
+  typ: aufsatz
+  autoren:
+  - 邱文聰 (Qiu Wencong)
+  titel: 臺灣發展生成式AI的著作權法制策略
+  titel_deutsch: Die urheberrechtliche Regulierungsstrategie fuer die Entwicklung generativer KI in Taiwan
+  fundstelle: 月旦法學雜誌 (Yuedan Faxue Zazhi, The Taiwan Law Review) 375 (August 2026), 65-88
+  jahr: 2026
+  sprache: zh
+  doi: 10.53106/1025593137505
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - urheberrecht
+  - marktzugang
+  - governance
+  kernthese: Taiwan muss sich urheberrechtlich entscheiden, ob es generative KI als Entwicklungsziel oder
+    als Schutzproblem behandelt; der Autor entwirft eine Strategie, die Trainingszugang und Verguetung
+    der Rechteinhaber ins Verhaeltnis setzt.
+  eigene_bewertung: 'Der aktuellste und fuer meine Fragestellung wichtigste taiwanische Text. Qiu Wencong
+    forscht an der Academia Sinica und gehoert zu den Autoren, die die taiwanische Gesetzgebung tatsaechlich
+    beeinflussen. Taiwan ist als Vergleichsfall besonders interessant, weil es urheberrechtlich zwischen
+    den Bloecken steht: Das Urheberrechtsgesetz (著作權法) kennt in Art. 65 eine offene Faktorenabwaegung
+    nach US-Vorbild, aber keine TDM-Schranke nach europaeischem Muster, und die Halbleiterindustrie erzeugt
+    einen erheblichen Standortdruck zugunsten des Trainingszugangs. Genau diese Konstellation - Fair-Use-aehnliche
+    Generalklausel plus industriepolitisches Interesse - fehlt in der europaeischen Diskussion. Zugang
+    nur ueber Airiti beziehungsweise den Verlag; ich habe Titel, Fundstelle und DOI ueber Crossref geprueft,
+    den Text nicht gelesen. Die Umschrift folgt Hanyu Pinyin.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-huang-generative-ki-urheberrecht
+  typ: aufsatz
+  autoren:
+  - 黃銘傑 (Huang Mingjie)
+  titel: 生成式人工智慧與著作權法
+  titel_deutsch: Generative kuenstliche Intelligenz und Urheberrecht
+  fundstelle: 月旦法學雜誌 (Yuedan Faxue Zazhi, The Taiwan Law Review) 360 (Mai 2025), 6-18
+  jahr: 2025
+  sprache: zh
+  doi: 10.53106/1025593136001
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - urheberrecht
+  - content
+  kernthese: Generative Systeme stellen das taiwanische Urheberrecht an zwei Stellen in Frage - beim Training
+    an geschuetzten Werken und bei der Schutzfaehigkeit der Ausgaben -, und beide lassen sich mit dem
+    geltenden Recht nur unvollstaendig beantworten.
+  eigene_bewertung: Huang Mingjie ist emeritierter Professor der National Taiwan University und einer
+    der meistzitierten Immaterialgueterrechtler Taiwans; sein Wort hat in der dortigen Reformdiskussion
+    Gewicht. Der Aufsatz eroeffnet ein Schwerpunktheft der wichtigsten taiwanischen Rechtszeitschrift
+    und ist damit die beste Orientierung ueber den Stand der dortigen Diskussion. Fuer den Rechtsvergleich
+    interessiert mich vor allem, wie die Fair-Use-Abwaegung des Art. 65 taiwanisches Urheberrechtsgesetz
+    auf das Training angewandt wird - eine Frage, die in Taiwan anders als in Deutschland ohne Schrankentatbestand
+    auskommt. Nur ueber den Verlag zugaenglich.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-tsai-ki-werkverbindungen-urheberrecht
+  typ: aufsatz
+  autoren:
+  - 蔡明誠 (Cai Mingcheng)
+  titel: 論人工智慧時代著作權法上結合著作與其他著作類型之概念及利用
+  titel_deutsch: Zum Begriff und zur Nutzung verbundener Werke und anderer Werkarten im Urheberrecht des
+    Zeitalters der kuenstlichen Intelligenz
+  fundstelle: 月旦法學雜誌 (Yuedan Faxue Zazhi, The Taiwan Law Review) 344 (Januar 2024), 6-21
+  jahr: 2024
+  sprache: zh
+  doi: 10.53106/1025593134401
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - urheberrecht
+  kernthese: Die urheberrechtlichen Kategorien der Werkverbindung und der Werkarten muessen im KI-Zeitalter
+    neu bestimmt werden, weil generierte Bestandteile sich weder als Bearbeitung noch als Miturheberschaft
+    einordnen lassen.
+  eigene_bewertung: Cai Mingcheng war Richter am taiwanischen Verfassungsgericht und ist einer der Begruender
+    der dortigen Immaterialgueterrechtswissenschaft; der Beitrag hat entsprechendes Gewicht, ist aber
+    dogmatisch enger als der Titel vermuten laesst. Die Frage, wie sich ein Werk einordnen laesst, das
+    zu Teilen generiert und zu Teilen menschlich geschaffen ist, entspricht unserer Diskussion um Paragraf
+    3 und Paragraf 8 UrhG bei KI-Beteiligung. Fuer den Rechtsvergleich brauchbar, aber ich wuerde zuerst
+    Huang 2025 und Qiu 2026 lesen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2023-chen-ki-werke-zurechnung-haftung
+  typ: aufsatz
+  autoren:
+  - 陳豐年 (Chen Fengnian)
+  titel: 人工智慧「作品」之著作權歸屬暨民事侵權責任——美國法制的啟示
+  titel_deutsch: Urheberrechtszuordnung und zivilrechtliche Verletzungshaftung bei KI-"Werken" - Anregungen
+    aus dem US-amerikanischen Recht
+  fundstelle: 月旦律評 (Yuedan Lueping, Anwaltsrundschau) 19 (Oktober 2023), 103-112
+  jahr: 2023
+  sprache: zh
+  doi: 10.53106/279069731910
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - urheberrecht
+  - haftung
+  kernthese: Fuer die Zuordnung von Rechten an KI-Erzeugnissen und die Haftung fuer Verletzungen durch
+    solche Erzeugnisse bietet das US-Recht Taiwan die naeherliegenden Anhaltspunkte als das kontinentaleuropaeische.
+  eigene_bewertung: 'Praxisorientierter Kurzbeitrag in einer Anwaltszeitschrift, kein Grundlagentext.
+    Ich fuehre ihn, weil er die Rezeptionsrichtung belegt, die fuer Taiwan charakteristisch ist: Bei Fragen
+    des Urheberrechts und der Haftung schaut man nach Washington, nicht nach Bruessel - anders als beim
+    Datenschutz, wo das taiwanische Gesetz zum Schutz personenbezogener Daten europaeisch gepraegt ist
+    und Taiwan seit Jahren um einen Angemessenheitsbeschluss bemueht ist. Diese Zweiteilung ist fuer die
+    Einordnung der taiwanischen Debatte wichtiger als der Inhalt des Aufsatzes.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2023-gao-patentsystem-ki-schoepfungen
+  typ: aufsatz
+  autoren:
+  - 高慶仁 (Gao Qingren)
+  titel: 論專利制度該如何應對人工智慧之創作
+  titel_deutsch: Wie das Patentsystem auf Schoepfungen kuenstlicher Intelligenz reagieren sollte
+  fundstelle: 專利師 (Zhuanlishi, Taiwan Patent Attorneys Journal) 55 (Oktober 2023), 73-101
+  jahr: 2023
+  sprache: zh
+  doi: 10.53106/221845622023100055004
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  kernthese: Das taiwanische Patentrecht sollte KI-gestuetzte Erfindungen nicht ueber die Erfinderbenennung,
+    sondern ueber den Massstab des Fachmanns und die erfinderische Taetigkeit erfassen.
+  eigene_bewertung: 'Die taiwanische Antwort auf den DABUS-Komplex, und sie ist die dogmatisch sauberere:
+    Statt an der Erfindereigenschaft herumzudeuteln, verschiebt Gao die Frage dorthin, wo sie hingehoert
+    - zum Massstab des durchschnittlichen Fachmanns nach Art. 22 Abs. 2 taiwanisches Patentgesetz, der
+    sich veraendert, wenn Fachleute routinemaessig generative Werkzeuge einsetzen. Das ist derselbe Gedanke,
+    der bei uns zu Paragraf 4 PatG diskutiert wird, aber hier fruher und ausfuehrlicher ausgefuehrt. Fuer
+    die Patentachse nuetzlich; fuer die Hauptachsen des Projekts Randlage.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-lee-sun-stimmklonen
+  typ: aufsatz
+  autoren:
+  - Lee, Jyn-An
+  - Sun, Xuan
+  titel: Vocal Identity Under Siege by AI Voice Cloning Technologies
+  fundstelle: Singapore Journal of Legal Studies 2026 (Maerz), 46-76
+  jahr: 2026
+  sprache: en
+  url: https://law.nus.edu.sg/sjls/current-issue/
+  zugang: open-access
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  - grundrechte
+  kernthese: Das Klonen von Stimmen durch KI trifft ein Schutzgut, fuer das weder Urheberrecht noch Leistungsschutzrecht
+    noch das Recht am eigenen Bild einen passenden Tatbestand bereithalten; noetig sei ein eigenstaendiger
+    Schutz der stimmlichen Identitaet.
+  eigene_bewertung: 'Fuer die Frage nach dem Schutz der Stimme genau der Text, den ich gesucht habe, und
+    er trifft sich in der Diagnose mit Jansen 2026 aus Suedafrika: Leistungsschutzrechte setzen eine Darbietung
+    voraus, an der es bei rein synthetischer Nachbildung fehlt. In Deutschland wuerde man ueber das allgemeine
+    Persoenlichkeitsrecht und Paragraf 823 Abs. 1 BGB gehen und mit der Herrenreiter- und der Marlene-Dietrich-Rechtsprechung
+    argumentieren; ob das die kommerzielle Dimension des Stimmklonens erfasst, ist offen. Die Autoren
+    arbeiten die verschiedenen Schutzansaetze rechtsvergleichend durch, was den Aufsatz fuer eine deutsche
+    Argumentation unmittelbar verwertbar macht. Frei zugaenglich.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2026-he-hindernisse-schutzfaehigkeit-output
+  typ: aufsatz
+  autoren:
+  - He, Tianxiang
+  titel: Three Obstacles to AI-Generated Content Copyrightability
+  fundstelle: Singapore Journal of Legal Studies 2026 (Maerz), 77-106
+  jahr: 2026
+  sprache: en
+  url: https://law.nus.edu.sg/sjls/current-issue/
+  zugang: open-access
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  bezug_streitstaende:
+  - schutzfaehigkeit-output
+  kernthese: Der Schutzfaehigkeit KI-erzeugter Inhalte stehen drei voneinander unabhaengige Hindernisse
+    entgegen - das Erfordernis menschlicher Urheberschaft, der Nachweis schoepferischer Auswahlentscheidungen
+    und die Bestimmbarkeit des geschuetzten Gegenstands.
+  eigene_bewertung: 'Der klarste mir bekannte Beitrag zum Streitstand schutzfaehigkeit-output aus asiatischer
+    Perspektive. Die Dreiteilung ist analytisch nuetzlich, weil sie zeigt, dass die verbreitete Fokussierung
+    auf das Merkmal der menschlichen Schoepfung zu kurz greift: Selbst wenn man dieses Erfordernis aufgibt
+    - wie es die chinesische Rechtsprechung in Li v Liu 2023 im Ergebnis getan hat -, bleiben die beiden
+    anderen Huerden bestehen. Fuer die Auslegung von Paragraf 2 Abs. 2 UrhG und die Frage, wie viel Promptarbeit
+    eine persoenliche geistige Schoepfung begruendet, ist das die praezisere Fragestellung. He lehrt in
+    Hongkong, publiziert hier in Singapur; die Perspektive ist ostasiatisch-rechtsvergleichend. Frei zugaenglich.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2026-chen-geschaeftsgeheimnisse-halboeffentliche-datenbanken
+  typ: aufsatz
+  autoren:
+  - Chen, Yang
+  titel: Against Trade Secrets Protection for "Semi-Public" Databases
+  fundstelle: Singapore Journal of Legal Studies 2026 (Maerz), 107-128
+  jahr: 2026
+  sprache: en
+  url: https://law.nus.edu.sg/sjls/current-issue/
+  zugang: open-access
+  jurisdiktionen:
+  - sg
+  themenachsen:
+  - urheberrecht
+  - marktzugang
+  - wettbewerb
+  kernthese: Datenbanken, die einem begrenzten Kreis zugaenglich sind, sollten nicht als Geschaeftsgeheimnis
+    geschuetzt werden, weil der Schutz dann Zugangsschranken verfestigt, ohne einen Geheimhaltungswert
+    zu sichern.
+  eigene_bewertung: 'Auf den ersten Blick abseitig, fuer die Trainingsdatenfrage aber unmittelbar relevant:
+    Wenn Datensammlungen ueber den Geheimnisschutz abgeschottet werden, entfaellt fuer Wettbewerber und
+    Forschung die Zugangsmoeglichkeit, die das Urheberrecht ueber Schranken gerade eroeffnet. Genau diese
+    Verlagerung vom Urheber- zum Geheimnisschutz beobachtet man auch in Europa seit der Geschaeftsgeheimnis-Richtlinie
+    und Paragraf 2 GeschGehG. Chen argumentiert dagegen und liefert die Begruendung, die man fuer eine
+    einschraenkende Auslegung braucht. Fuer die Achsen marktzugang und wettbewerb nuetzlich; kein Grundlagentext,
+    aber ein Argument, das man sonst schwer findet.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2025-colangelo-wettbewerbspolitik-urheberrecht-genai
+  typ: aufsatz
+  autoren:
+  - Colangelo, Giuseppe
+  titel: A Competition Policy Analysis of Copyright Protection in Generative AI
+  fundstelle: Singapore Journal of Legal Studies 2025 (September), 271
+  jahr: 2025
+  sprache: en
+  url: https://law.nus.edu.sg/sjls/all-issues/
+  zugang: open-access
+  jurisdiktionen:
+  - sg
+  - eu
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - marktzugang
+  kernthese: 'Die urheberrechtliche Behandlung des Modelltrainings ist zugleich eine wettbewerbspolitische
+    Weichenstellung: Ein hohes Schutzniveau beguenstigt die Anbieter, die sich Lizenzen leisten koennen,
+    und verfestigt damit die Marktkonzentration.'
+  eigene_bewertung: 'Das Argument, das in der deutschen Diskussion um Paragraf 44b UrhG und den Nutzungsvorbehalt
+    zu selten faellt: Wer die Schranke eng auslegt, entscheidet damit auch ueber die Marktstruktur, weil
+    nur die grossen Anbieter Lizenzen in der noetigen Breite erwerben koennen. Colangelo (Basilicata und
+    Stanford) fuehrt das mit kartellrechtlichem Instrumentarium durch. Fuer den Streitstand fair-use-training
+    und tdm-schranke-de ein zusaetzlicher Argumentationsstrang, der von der Verteilungsfrage wegfuehrt
+    und zur Marktzutrittsfrage hinfuehrt. Die Fundstelle habe ich ueber das Inhaltsverzeichnis der Ausgabe
+    September 2025 geprueft; die Endseite ist dort nicht ausgewiesen.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2021-miernicki-ng-ki-urheberpersoenlichkeitsrecht
+  typ: aufsatz
+  autoren:
+  - Miernicki, Martin
+  - Ng, Irene
+  titel: Artificial intelligence and moral rights
+  fundstelle: AI & Society 36 (2021), Heft 1, 319-329
+  jahr: 2021
+  sprache: en
+  doi: 10.1007/s00146-020-01027-6
+  zugang: bezahlt
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - urheberrecht
+  - content
+  kernthese: Urheberpersoenlichkeitsrechte lassen sich auf KI-Erzeugnisse nicht uebertragen, weil sie
+    an die persoenliche Beziehung des Schoepfers zum Werk anknuepfen; die Autoren pruefen, ob und wie
+    die Interessen der Beteiligten anderweitig geschuetzt werden koennen.
+  eigene_bewertung: 'Aus dem Centre for AI and Data Governance der Singapore Management University, wo
+    Irene Ng geforscht hat. Der Beitrag ist deshalb fuer mich wichtig, weil das Urheberpersoenlichkeitsrecht
+    die Stelle ist, an der der kontinentaleuropaeische und der angelsaechsische Zugriff am staerksten
+    auseinanderfallen - Paragraf 12 bis 14 UrhG gegen den duennen Schutz des Common Law - und weil generative
+    Systeme diese Differenz sichtbar machen: Wer sich gegen Entstellung wehren will, braucht ein Recht,
+    das an die Person und nicht an die Verwertung anknuepft. Miernicki und Ng arbeiten das sauber heraus.
+    Aeltere Arbeit (vor ChatGPT), aber im Kern nicht ueberholt.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

@@ -1,0 +1,226 @@
+fristen:
+- id: ru-243-fz-ki-f1
+  datum: 2027-03-01
+  beschreibung: 'Zweite Stufe des 243-FZ. Das Gesetz ist nach Art. 13 Abs. 1 im Übrigen bereits am 01.09.2026
+    in Kraft getreten; Art. 13 Abs. 2 schiebt einen abschließend aufgezählten Teil auf den 01.03.2027:
+    die Punkte 3 bis 5 des Art. 5 Abs. 2, die Absätze 2 bis 5 des Art. 6 sowie die Artikel 8 bis 10. Ab
+    diesem Tag gelten: die Pflichten der Entwickler souveräner und nationaler großer fundamentaler Modelle
+    (Art. 8); die Kennzeichnungsregeln des Art. 9 — für Nutzer eine bloße Möglichkeit, für Betreiber von
+    Seiten mit mehr als 500.000 Tagesnutzern in Russland dagegen die Pflicht, ihren Nutzern die technische
+    Möglichkeit zur Kennzeichnung KI-erzeugter Inhalte einzuräumen (Art. 9 Abs. 3); und die Anforderungen
+    des Art. 10, dessen Absatz 1 die Anbieter von Zugängen zu großen fundamentalen Modellen verpflichtet,
+    die Nutzer über die Zuordnung der Rechte an den Arbeitsergebnissen und über die Bedingungen des Zugangs,
+    der Nutzung und der Aufbewahrung dieser Ergebnisse zu unterrichten, während Absatz 2 eine Trainingsschranke
+    für rechtmäßig erlangte oder ohne technische Beschränkung offengelegte Werke enthält.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ru
+  regelwerk: ru-243-fz-ki
+  adressat: Entwickler souveräner und nationaler Modelle; Plattformbetreiber ab 500.000 Tagesnutzern;
+    Anbieter von Modellzugängen
+  handlungsbedarf: Nutzungsbedingungen für KI-Dienste mit russischem Nutzerbezug auf die Informationspflicht
+    des Art. 10 Abs. 1 prüfen; bei Plattformen die Nutzerzahlschwelle des Art. 9 Abs. 3 (500.000 Tagesnutzer
+    in Russland) klären.
+  quelle: http://publication.pravo.gov.ru/document/0001202607260003
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+  letzte_pruefung: &id001 2026-09-05
+  fundstelle_norm: 'Art. 13 Abs. 2 des Föderationsgesetzes vom 26.07.2026 Nr. 243-FZ "Über die Unterstützung
+    der Entwicklung von Technologien der künstlichen Intelligenz in der Russischen Föderation": "Пункты
+    3 - 5 части 2 статьи 5, части 2 - 5 статьи 6, статьи 8 - 10 настоящего Федерального закона вступают
+    в силу с 1 марта 2027 года"; amtlich veröffentlicht am 26.07.2026, Veröffentlichungsnummer 0001202607260003'
+- id: ru-243-fz-ki-f2
+  datum: 2032-09-01
+  beschreibung: 'Ende der Übergangsfrist des 243-FZ nach dessen Art. 13 Abs. 3: Bis zum 01.09.2032 gelten
+    die Anforderungen zur Verwendung souveräner oder nationaler großer fundamentaler Modelle nicht für
+    Informationssysteme, die Modelle einsetzen, die vor dem Inkrafttreten des Gesetzes geschaffen wurden
+    — vorausgesetzt, die gesamte Datenverarbeitung findet auf russischem Staatsgebiet statt. Danach müssen
+    Systeme in den von der Regierung benannten Anwendungsbereichen umgestellt sein.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: ru
+  regelwerk: ru-243-fz-ki
+  adressat: Betreiber von Systemen in benannten sensiblen Bereichen; ausländische Modellanbieter
+  handlungsbedarf: null
+  quelle: http://publication.pravo.gov.ru/document/0001202607260003
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 365
+  - 90
+  letzte_pruefung: *id001
+  fundstelle_norm: Art. 13 Abs. 3 des Föderationsgesetzes vom 26.07.2026 Nr. 243-FZ (Übergangsregelung
+    bis zum 01.09.2032 für vor Inkrafttreten geschaffene Modelle bei vollständiger Datenverarbeitung in
+    Russland)
+- id: ru-243-fz-ki-f3
+  datum: 2026-12-31
+  beschreibung: 'Von Duma-Vorsitzendem Wjatscheslaw Wolodin am 09.07.2026 angekündigte Wiedervorlage zentraler
+    Bestimmungen des KI-Gesetzes. Kein gesetzlicher Stichtag: Art. 13 des 243-FZ, der die Staffelung des
+    Inkrafttretens abschließend regelt (01.09.2026 / 01.03.2027 / 01.09.2032), kennt kein Datum zum Jahresende
+    2026. Es handelt sich um eine politische Zusage, hier allein als Beobachtungstermin geführt. NICHT
+    AMTLICH BELEGT: Die amtliche Duma-Meldung zur Verabschiedung (duma.gov.ru/news/63849/) war aus dieser
+    Umgebung weder über WebFetch noch über den Browser abrufbar (robots.txt-Zeitüberschreitung bzw. Fehlerseite,
+    je zwei Versuche).
+
+    '
+  typ: pruefung
+  jurisdiktion: ru
+  regelwerk: ru-243-fz-ki
+  adressat: Staatsduma; Regierung
+  handlungsbedarf: null
+  quelle: https://www.comnews.ru/content/246290/2026-07-09/2026-w28/1008/tri-chteniya-za-dva-dnya-gosduma-prinyala-zakon-o-podderzhke-razvitiya-tekhnologiy-iskusstvennogo-intellekta
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 60
+  - 30
+  letzte_pruefung: *id001
+  fundstelle_norm: Keine. Der 243-FZ enthält keinen Stichtag zum 31.12.2026; die Angabe beruht auf einer
+    Presseäußerung des Duma-Vorsitzenden vom 09.07.2026
+- id: ru-1317978-8-markierung-f1
+  datum: 2027-03-01
+  beschreibung: 'Geplantes Inkrafttreten der obligatorischen Kennzeichnungspflicht nach der Duma-Vorlage
+    1317978-8, falls sie verabschiedet wird. Die Vorlage wurde nach übereinstimmenden Berichten am 17.08.2026
+    eingebracht und sieht den 01.03.2027 als Inkrafttretenstag vor — damit wäre die bloße Möglichkeit
+    der Kennzeichnung nach Art. 9 Abs. 1 und 2 des 243-FZ zeitgleich mit dessen Anwendungsbeginn durch
+    eine Pflicht ersetzt. NICHT AMTLICH BELEGT: sozd.duma.gov.ru/bill/1317978-8 war weder über WebFetch
+    (robots.txt-Zeitüberschreitung) noch über den Browser (Leseberechtigung für die Domain verweigert)
+    erreichbar; je zwei Versuche. Gesetzgebungsstand und Datum vor jeder Verwendung dort prüfen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ru
+  regelwerk: ru-1317978-8-markierung
+  adressat: Anbieter von Zugängen zu großen fundamentalen Modellen
+  handlungsbedarf: null
+  quelle: https://www.klerk.ru/buh/news/704942/
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  letzte_pruefung: *id001
+  fundstelle_norm: Duma-Vorlage Nr. 1317978-8 (Entwurf), vorgesehenes Inkrafttreten 01.03.2027 — am amtlichen
+    Gesetzgebungssystem nicht bestätigt
+- id: ru-mintsifry-entwurf-2026-f1
+  datum: 2027-09-01
+  beschreibung: 'Ursprünglich geplantes Inkrafttreten des Mintsifry-Entwurfs zur staatlichen KI-Regulierung.
+    Der Entwurf ist in dieser Fassung nicht Gesetz geworden; das verabschiedete 243-FZ enthält weder Risikoklassen
+    noch eine Pflichtkennzeichnung, Sperrbefugnis oder ein Anfechtungsrecht gegen KI-gestützte Behördenentscheidungen.
+    Das Datum bleibt als Bezugspunkt für eine mögliche Novelle. NICHT AMTLICH BELEGT: Für einen nicht
+    eingebrachten Ministeriumsentwurf existiert keine amtliche Fundstelle; die Angabe beruht auf einer
+    Agenturmeldung. Ein Abgleich mit sozd.duma.gov.ru war aus dieser Umgebung nicht möglich (Domain nicht
+    abrufbar).
+
+    '
+  typ: sonstiges
+  jurisdiktion: ru
+  regelwerk: ru-mintsifry-entwurf-2026
+  adressat: Beobachtung
+  handlungsbedarf: null
+  quelle: https://www.interfax.ru/digital/1078702
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 180
+  letzte_pruefung: *id001
+  fundstelle_norm: Keine. Nicht eingebrachter Entwurf des Ministeriums für digitale Entwicklung; kein
+    amtlich veröffentlichter Stichtag
+- id: ru-123-fz-moskau-f1
+  datum: 2025-07-01
+  beschreibung: 'ABGELAUFEN. Das Moskauer KI-Experiment nach dem Föderationsgesetz vom 24.04.2020 Nr.
+    123-FZ war nach Art. 1 Abs. 3 auf fünf Jahre ab dem 01.07.2020 befristet ("Экспериментальный правовой
+    режим устанавливается на пять лет с 1 июля 2020 года"). Die Frist ist am 01.07.2025 abgelaufen. Die
+    letzte Änderung des Gesetzes stammt vom 08.08.2024 (233-FZ); eine Verlängerung des Fünfjahreszeitraums
+    ist in den Rechtsdatenbanken nicht verzeichnet. Die Datenbanken führen das Gesetz weiterhin als geltend,
+    ohne es als "утратил силу" zu kennzeichnen — die auf seiner Grundlage ergangenen Rechtsakte treten
+    nach seinen eigenen Bestimmungen mit Ablauf des Experiments außer Kraft. TEILWEISE UNBELEGT: Die Befristung
+    ist bei ConsultantPlus am Normtext nachgewiesen, nicht aber am Primärbestand — pravo.gov.ru war für
+    die Fassung von 2020 aus dieser Umgebung nicht abrufbar (Host nicht in der Egress-Freigabe; Browser
+    liefert Fehlerseite).
+
+    '
+  typ: pruefung
+  jurisdiktion: ru
+  regelwerk: ru-123-fz-moskau
+  adressat: Beobachtung
+  quelle: http://publication.pravo.gov.ru/document/0001202004240030
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  letzte_pruefung: *id001
+  notiz_erledigt: Fünfjahresfrist am 01.07.2025 abgelaufen. Vor jeder Berufung auf das Moskauer Sonderregime
+    ist am Primärbestand (pravo.gov.ru) zu prüfen, ob eine Verlängerungsnovelle ergangen ist.
+  fundstelle_norm: 'Art. 1 Abs. 3 des Föderationsgesetzes vom 24.04.2020 Nr. 123-FZ (Experimenteller Rechtsrahmen
+    für fünf Jahre ab dem 01.07.2020), amtlich veröffentlicht am 24.04.2020 unter der Veröffentlichungsnummer
+    0001202004240030; Stand der Fassung: Änderung durch 233-FZ vom 08.08.2024. Der Normtext wurde bei
+    ConsultantPlus gelesen — die amtliche Veröffentlichungsseite war aus dieser Umgebung nicht abrufbar
+    (robots.txt-Zeitüberschreitung, zwei Versuche)'
+- id: ru-265-fz-transfer-f1
+  datum: 2026-07-26
+  beschreibung: 'Das Föderationsgesetz vom 26.07.2026 Nr. 265-FZ "Über Änderungen des Art. 12 des Föderationsgesetzes
+    ''Über personenbezogene Daten'' und einzelner Rechtsakte" ist nach seinem Art. 7 Abs. 1 bereits am
+    Tag seiner amtlichen Veröffentlichung in Kraft getreten; amtlich veröffentlicht wurde es am 26.07.2026.
+    Die Verschärfung der grenzüberschreitenden Übermittlung gilt also seit dem 26.07.2026 und nicht erst
+    ab dem 01.09.2026. Art. 1 formt die Kriterien des Art. 12 Abs. 2 des 152-FZ um: Maßgeblich ist nicht
+    mehr die Mitgliedschaft eines Staates im Europaratsübereinkommen über den Schutz bei automatisierter
+    Verarbeitung, sondern ob sein nationales Recht dessen Anforderungen inhaltlich entspricht; die entsprechenden
+    Vorzugsregeln für Vertragsstaaten in Art. 12 Abs. 5 Nr. 2, Abs. 10 und Abs. 11 entfallen. Die Angemessenheitsliste
+    kann auf dieser Grundlage überarbeitet werden. Das Anzeige- und Wartefristverfahren für nicht gelistete
+    Staaten folgt weiterhin aus dem unveränderten Art. 12 des 152-FZ und wurde durch den 265-FZ nicht
+    neu geschaffen. Art. 2 des 265-FZ betrifft nicht den Datentransfer, sondern fügt dem Gesetz über den
+    Status der Hauptstadt einen Art. 23 zu Informationssystemen Moskaus an; er tritt erst am 01.09.2027
+    in Kraft (Art. 7 Abs. 2).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ru
+  regelwerk: ru-265-fz-transfer
+  adressat: Jeder Verantwortliche, der Daten aus Russland in Drittstaaten übermittelt
+  quelle: http://publication.pravo.gov.ru/document/0001202607260024
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  letzte_pruefung: *id001
+  notiz_erledigt: Die Neufassung gilt bereits. Bestehende Übermittlungswege aus russischen Einheiten in
+    die EU umgehend auf die geänderten Angemessenheitskriterien des Art. 12 Abs. 2 des 152-FZ prüfen.
+  fundstelle_norm: 'Art. 7 des Föderationsgesetzes vom 26.07.2026 Nr. 265-FZ: Abs. 1 — Inkrafttreten am
+    Tag der amtlichen Veröffentlichung mit Ausnahme des Art. 2; Abs. 2 — Art. 2 tritt am 01.09.2027 in
+    Kraft. Amtliche Veröffentlichung am 26.07.2026, Veröffentlichungsnummer 0001202607260024'
+- id: ru-2025-presnenskij-ki-bilder-f1
+  datum: 2026-08-24
+  beschreibung: 'GEGENSTANDSLOS — die Berufung ist entschieden. Das Moskauer Stadtgericht hat die Berufung
+    im Verfahren 02-4220/2025 nach übereinstimmender Berichterstattung der Rechtsnachrichtenagentur RAPSI
+    am 24.08.2026 entschieden, die Entscheidung des Presnenskij-Bezirksgerichts aufgehoben und der Klage
+    teilweise stattgegeben (50.000 Rubel). Inhaltlich ist die verbreitete Einordnung als Entscheidung
+    über KI-erzeugte Bilder ungenau: Streitgegenständlich waren mit Photoshop bearbeitete Fassungen bekannter
+    Werke ("Mona Lisa mit Wein", "Freiheitsstatue mit Wein"). Die erste Instanz hatte die Urheberschaft
+    mit der Begründung verneint, technische Bearbeitung sei kein schöpferischer Beitrag; die Berufungsinstanz
+    hat die Urheberschaft bejaht und damit die Grenze zwischen menschlicher Gestaltung und bloßer technischer
+    oder maschineller Erzeugung gezogen. Der frühere Eintrag führte den 01.10.2026 als bloße Schätzung
+    nach üblichen Bearbeitungszeiten. NICHT AMTLICH BELEGT: Die Fallakte bei mos-gorsud.ru ließ sich aus
+    dieser Umgebung nicht öffnen (Seite lud auch nach 45 Sekunden nicht, zwei Versuche).
+
+    '
+  typ: pruefung
+  jurisdiktion: ru
+  regelwerk: ru-gk-teil-4
+  adressat: Beobachtung
+  handlungsbedarf: null
+  quelle: https://mos-gorsud.ru/mgs/services/cases/appeal-civil
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  letzte_pruefung: *id001
+  fundstelle_norm: Berufungsentscheidung des Moskauer Stadtgerichts vom 24.08.2026 im Verfahren 02-4220/2025
+    (Aufhebung der Entscheidung des Presnenskij-Bezirksgerichts) — nur über die Rechtsnachrichtenagentur
+    RAPSI belegt, Fallakte am amtlichen Portal nicht abrufbar

@@ -1,0 +1,129 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: de-urhg-tdm-f1
+  datum: 2026-09-03
+  beschreibung: 'Mündliche Verhandlung des Bundesgerichtshofs in Sachen I ZR 281/25 (Kneschke ./. LAION,
+    Erstellen eines Datensatzes für KI-Training) — erste höchstrichterliche Befassung mit §§ 44b, 60d
+    UrhG und dem maschinenlesbaren Nutzungsvorbehalt.
+
+    '
+  typ: pruefung
+  jurisdiktion: de
+  regelwerk: de-urhg-tdm
+  adressat: Alle, die Trainingsdatensätze erstellen oder Nutzungsvorbehalte setzen; Rechtsinhaber; GPAI-Anbieter
+    mit Art.-53-Pflichten
+  handlungsbedarf: Termin verfolgen; bei Vorlage an den EuGH verschiebt sich die Klärung erheblich. Für
+    eine Publikation ist das der Aufhänger.
+  quelle: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026085.html
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 7
+  - 1
+- id: de-bdsg-scoring-f1
+  datum: 2026-10-21
+  beschreibung: 'Verkündungstermin des I. Zivilsenats des Bundesgerichtshofs um 8.45 Uhr in Sachen I ZR
+    227/25 bis I ZR 230/25 (Auskunftsanspruch gegen Wirtschaftsauskunftei). KORREKTUR des Aktenzeichens:
+    Nach den Terminhinweisen des BGH ist im Verfahren I ZR 226/25 die Klage zurückgenommen worden; verkündet
+    wird nur noch in den vier Verfahren I ZR 227/25 bis I ZR 230/25. Verhandelt wurde am 18.06.2026 (Pressemitteilung
+    Nr. 52/2026). Vorinstanzen: Landgerichte Leipzig, Chemnitz und Görlitz, Oberlandesgericht Dresden
+    (Urteile vom 07.10.2025). Es geht um Umfang und Tiefe der Auskunft über die Berechnung von Bonitätsscores
+    nach Art. 15 Abs. 1 lit. h DSGVO; das Berufungsgericht hatte eine laienverständliche Information verlangt,
+    die eine Prüfung des Scorewerts auf Fehler und mangelnde Plausibilität ermöglicht.
+
+    '
+  typ: pruefung
+  jurisdiktion: de
+  regelwerk: de-bdsg-scoring
+  adressat: Auskunfteien, Kreditgeber, Versicherer, alle Betreiber bewertender KI-Systeme
+  handlungsbedarf: Entscheidung auswerten — sie bestimmt den deutschen Transparenzmaßstab für intransparente
+    Bewertungsmodelle.
+  quelle: https://www.bundesgerichtshof.de/DE/Presse/Terminhinweise/terminhinweise_node.html
+  verifiziert: true
+  fundstelle_norm: 'Terminhinweise des Bundesgerichtshofs (Verkündungstermin 21.10.2026, 8.45 Uhr, I ZR
+    227/25 bis I ZR 230/25); Pressemitteilung Nr. 52/2026 zum Verhandlungstermin; Sachfrage: Art. 15 Abs.
+    1 lit. h DSGVO'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  uhrzeit: 08:45
+- id: de-prodhaftg-modernisierung-f1
+  datum: 2026-12-09
+  beschreibung: 'Ablauf der Umsetzungsfrist der Richtlinie (EU) 2024/2853 (Art. 22 Abs. 1) und vorgesehenes
+    Inkrafttreten des neuen deutschen Produkthaftungsgesetzes. Ab diesem Tag haften Hersteller für fehlerhafte
+    Software einschließlich KI-Systemen verschuldensunabhängig; für vorher in Verkehr gebrachte Produkte
+    gilt das ProdHaftG 1989 fort.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: de
+  regelwerk: de-prodhaftg-modernisierung
+  adressat: Hersteller und Anbieter von Software und KI-Systemen, Einführer, Bevollmächtigte, Fulfilment-Dienstleister,
+    Online-Plattformen
+  handlungsbedarf: Verfahrensstand im Herbst 2026 wöchentlich prüfen; bei Fristversäumnis ist die richtlinienkonforme
+    Auslegung des alten Rechts die Auffanglinie.
+  quelle: https://dserver.bundestag.de/btd/21/042/2104297.pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: de-ki-vo-durchfuehrungsgesetz-f1
+  datum: 2027-08-02
+  beschreibung: 'Spätester Termin für ein betriebsbereites KI-Reallabor in Deutschland (Art. 57 Abs. 1
+    KI-VO i.V.m. § 13 KI-MIG). Die Bundesnetzagentur muss mindestens ein Reallabor eingerichtet haben,
+    mit Vorrangzugang für Forschungseinrichtungen.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: de
+  regelwerk: de-ki-vo-durchführungsgesetz
+  adressat: Bundesnetzagentur; KMU und Start-ups als potenzielle Teilnehmer
+  handlungsbedarf: Verfahrensregeln beobachten — sie sind noch nicht veröffentlicht.
+  quelle: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/5_Innovationen/start.html
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: de-ki-justiz-f1
+  datum: 2027-12-02
+  beschreibung: 'Anwendungsbeginn der Hochrisiko-Pflichten für Anhang-III-Systeme, darunter Nr. 8 (Rechtspflege
+    und demokratische Prozesse) sowie Nr. 5 (Zugang zu wesentlichen öffentlichen Diensten) — nach der
+    Änderung durch VO (EU) 2026/1744 vom 02.08.2026 auf dieses Datum verschoben. Justiz- und Verwaltungsbehörden
+    müssen bis dahin Rollenklärung, Registrierung und Grundrechte-Folgenabschätzung nach Art. 27 KI-VO
+    erledigt haben.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: de
+  regelwerk: de-ki-justiz
+  adressat: Justizverwaltungen der Länder, Sozial- und Finanzverwaltung, Strafverfolgungsbehörden
+  handlungsbedarf: Prüfen, welche eingesetzten Assistenzsysteme unter Anhang III fallen und ob die Behörde
+    Anbieter oder Betreiber ist.
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: bgh-i-zr-281-25-verkuendung
+  datum: '2026-12-17'
+  beschreibung: Verkuendungstermin des Bundesgerichtshofs in der Sache LAION (I ZR 281/25), 8:45 Uhr.
+    Erste hoechstrichterliche Entscheidung zur Reichweite der Text-und-Data-Mining-Schranke des § 44b
+    UrhG beim KI-Training. Verhandelt am 03.09.2026.
+  typ: sonstiges
+  jurisdiktion: de
+  adressat: Rechteinhaber, Modellanbieter, Betreiber von Trainingsdatensaetzen
+  handlungsbedarf: Entscheidung am Verkuendungstag abrufen; die Streitstaende tdm-schranke-de und training-schranken-international
+    sind unmittelbar danach fortzuschreiben.
+  quelle: https://www.bundesgerichtshof.de/SharedDocs/Termine/DE/Termine/IZR281-25.html
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  - 1

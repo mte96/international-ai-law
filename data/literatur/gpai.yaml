@@ -1,0 +1,1145 @@
+literatur:
+- id: 2026-carey-regulating-uncertainty
+  typ: aufsatz
+  autoren:
+  - Carey, Samuel
+  titel: 'Regulating Uncertainty: Governing General-Purpose AI Models and Systemic Risk'
+  fundstelle: European Journal of Risk Regulation 17 (2026), Heft 1
+  jahr: 2026
+  sprache: en
+  doi: 10.1017/err.2025.10040
+  url: https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/regulating-uncertainty-governing-generalpurpose-ai-models-and-systemic-risk/7EEFE1D8421A43A98CE91F7C697DE538
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Das systemische Risiko der Art. 51 ff. KI-VO ist keine Rechtskategorie, sondern ein Platzhalter
+    für Unwissen; die Verordnung institutionalisiert damit die Ungewissheit, die sie beseitigen soll.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die schärfste Analyse des GPAI-Kapitels und der einzige Text, der die drei Konstruktionsprobleme
+    sauber trennt: (1) institutionalisierte Ungewissheit, (2) Delegation der Risikodefinition an die Risikoverursacher
+    über den Code of Practice, (3) die Regelungslücke zwischen Modell und System. Punkt (2) trifft den
+    Kern der Legitimationsfrage und lässt sich unmittelbar auf die Normungsdebatte übertragen — es ist
+    dieselbe Delegationsstruktur, nur einmal an CEN-CENELEC und einmal an die Modellanbieter. Der 10^25-FLOP-Kritik
+    fehlt die technische Tiefe der JRC-Studie (s. 2025-erben-jrc-compute), dafür ist die rechtsdogmatische
+    Einordnung dort besser. Als Pflichtlektüre erfasst, weil GPAI der einzige Teil der KI-VO ist, der
+    seit 02.08.2025 vollständig gilt und vom Omnibus NICHT verschoben wurde. CC BY-NC.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51
+  - ki-vo-art-55
+- id: 2026-mougan-proportionality-science
+  typ: aufsatz
+  autoren:
+  - Mougan, Carlos
+  - Schellärt, Wout
+  - u.a.
+  titel: The Science and Practice of Proportionality in AI Risk Evaluations
+  fundstelle: Science 391 (2026), 769
+  jahr: 2026
+  sprache: en
+  doi: 10.1126/science.aea3835
+  zugang: bezahlt
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Die KI-VO verlangt Systemrisikoevaluierungen, liefert aber keine Methodik zur Bestimmung
+    des verhältnismäßigen Prüfaufwands; ohne sie können Aufsichtsbehörden die Abwägung nicht führen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kurzer Policy-Beitrag in Science (25.02.2026), unterzeichnet von über zwanzig Evaluierungsforschern.
+    Rechtlich wenig, aber als Beleg wertvoll: Die technische Community sagt selbst, dass die Evaluierungspflichten
+    des Art. 55 ohne Methodik nicht operationalisierbar sind. Science liegt hinter einer Bezahlschranke;
+    RAND weist den Beitrag als External Publication nach (EP71258), ebenfalls ohne freien Volltext.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-55
+- id: 2026-cdt-gpai-rights-blindspot
+  typ: bericht
+  autoren:
+  - Lazaro Cabrera, Laura
+  - Maier, Magdalena
+  titel: 'General-Purpose AI Code of Practice Implementation: A Rights Blindspot'
+  fundstelle: Center for Democracy and Technology Europe, 31.07.2026
+  jahr: 2026
+  sprache: en
+  url: https://cdt.org/insights/general-purpose-ai-code-of-practice-implementation-a-rights-blindspot/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Kein GPAI-Anbieter berücksichtigt Grundrechts- oder Gesundheitsrisiken in seiner Frontier-Risikoidentifikation,
+    weil der Code of Practice nur vier systemische Risiken zwingend vorschreibt und alles Weitere ins
+    Ermessen stellt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die erste empirische Auswertung der tatsächlich veröffentlichten Sicherheitsrahmen
+    der GPAI-Anbieter — und der Befund ist hart: CBRN, Kontrollverlust, Cyber und schädliche Manipulation
+    werden geprüft, Grundrechte von niemandem. Das ist der beste verfügbare Beleg für Careys These, dass
+    die Delegation an die Risikoverursacher systematisch unterreguliert. Methodisch begrenzt (Dokumentenanalyse,
+    keine Interviews), aber überprüfbar. Für das eigene Publikationsvorhaben zur Legitimation privater
+    Regelsetzung der empirische Anker.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-55
+  - ki-vo-art-56
+- id: 2024-heim-koessler-compute-thresholds
+  typ: working-paper
+  autoren:
+  - Heim, Lennart
+  - Kössler, Leonie
+  titel: 'Training Compute Thresholds: Features and Functions in AI Regulation'
+  fundstelle: arXiv:2405.10799, Centre for the Governance of AI, Oxford 2024
+  jahr: 2024
+  sprache: en
+  url: https://arxiv.org/abs/2405.10799
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - gpai
+  - marktzugang
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Trainingsrechenaufwand ist ein brauchbares Screening-Kriterium, weil er messbar, verifizierbar
+    und früh feststellbar ist — er darf aber nicht isoliert über Schutzmaßnahmen entscheiden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die begriffliche Grundlage der 10^25-FLOP-Schwelle des Art. 51 Abs. 2 KI-VO, verfasst
+    von den Autoren, deren Arbeiten in die Entstehung der Norm eingeflossen sind. Wichtig ist die Einschränkung,
+    die der Gesetzgeber nicht übernommen hat: Schwellen sollen Meldepflichten und weitere Prüfung auslösen,
+    nicht die Rechtsfolge selbst tragen. Genau das tut Art. 51 aber — die Vermutungsregel knüpft unmittelbar
+    an die Schwelle an. Wer die Schwellenkritik führen will, hat hier die Kronzeugen der Gegenseite.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-2
+  - cal-bpc-22757-11
+- id: 2025-erben-jrc-compute
+  typ: bericht
+  autoren:
+  - Erben, Alexander
+  - Negele, M.
+  - Heim, Lennart
+  - Sevilla, Jaime
+  titel: Training Compute Thresholds — Key Considerations for the EU AI Act
+  fundstelle: JRC143255, Amt für Veröffentlichungen der Europäischen Union, Luxemburg 2025
+  jahr: 2025
+  sprache: en
+  url: https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143255/JRC143255_01.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - marktzugang
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  - durchfuehrungs-und-delegierte-rechtsakte-ki-vo
+  kernthese: Die Schwelle sollte von 10^25 auf 10^26 FLOP angehoben werden, weil 10^25 zu viele Modelle
+    erfasst, die kein systemisches Risiko begründen; die kumulierte Rechenleistung ist über das geometrische
+    Mittel zweier Schätzverfahren zu bestimmen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die hauseigene Studie der Kommission und damit die Grundlage jeder künftigen Anpassung
+    der Schwelle durch delegierten Rechtsakt nach Art. 51 Abs. 3 KI-VO. Sie liefert, was der Rechtsliteratur
+    fehlt: eine Messvorschrift (20-%-Bagatellregel, Einbeziehungsregeln, halbjährliche Überprüfung) und
+    eine nüchterne Analyse der Verifikationsgrenzen. Politisch brisant: Ein Anheben auf 10^26 würde die
+    Zahl der erfassten Modelle drastisch senken — die Deregulierungsdebatte hat hier eine technische Fortsetzung,
+    die in der Omnibus-Diskussion unterging.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-3
+- id: 2024-uuk-taxonomy-systemic-risks
+  typ: working-paper
+  autoren:
+  - Uuk, Risto
+  - Gutierrez, Carlos Ignacio
+  - Guppy, Daniel
+  - Lauwärt, Lode
+  - Kasirzadeh, Atoosa
+  - Velasco, Lucia
+  - Slattery, Peter
+  - Prunkl, Carina
+  titel: A Taxonomy of Systemic Risks from General-Purpose AI
+  fundstelle: arXiv:2412.07780
+  jahr: 2024
+  sprache: en
+  ssrn_id: '5030173'
+  url: https://arxiv.org/abs/2412.07780
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Systematische Auswertung von 86 aus 1.781 Arbeiten ergibt 13 Kategorien systemischer Risiken
+    und 50 Risikoquellen — deutlich mehr als die vier Kategorien, auf die sich die Praxis beschränkt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste verfügbare Beleg dafür, dass der Risikobegriff des Art. 3 Nr. 65 KI-VO
+    offen ist und die Verengung auf CBRN, Kontrollverlust, Cyber und Manipulation eine Entscheidung der
+    Anbieter ist, keine der Verordnung. Zusammen mit CDT (2026) ergibt das eine belastbare Argumentationskette:
+    Die Verordnung lässt dreizehn Risikokategorien zu, der Code of Practice verlangt vier, die Anbieter
+    prüfen vier. Methodisch eine Literaturauswertung, keine eigene Risikoanalyse — die Kategorien sind
+    entsprechend heterogen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-3-nr-65
+- id: 2025-ebers-guidance-overreach
+  typ: blogbeitrag
+  autoren:
+  - Ebers, Martin
+  titel: 'When Guidance Becomes Overreach: How the Forthcoming Code of Practice Threatens to Undermine
+    the EU''s AI Act'
+  fundstelle: Verfassungsblog, 08.04.2025
+  jahr: 2025
+  sprache: en
+  url: https://verfassungsblog.de/when-guidance-becomes-overreach-gpai-codeofpractice-aiact/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - urheberrecht
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  kernthese: Der Code of Practice begründet Pflichten, die die KI-VO nicht kennt — externe Evaluierung
+    vor Markteinführung, robots.txt-Beachtung, Verhinderung nachgelagerter Urheberrechtsverletzungen —
+    und überschreitet damit die Grenzen der Durchführungsbefugnis nach Art. 56 Abs. 6.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die kompetenzrechtlich sauberste Kritik am Code of Practice: Ein Durchführungsrechtsakt
+    darf den Basisrechtsakt weder ändern noch ergänzen, auch nicht in nicht wesentlichen Elementen. Das
+    Argument ist justiziabel — es beschreibt einen Nichtigkeitsgrund, nicht nur eine Unschönheit. Bemerkenswert
+    die Frontstellung: Derselbe Autor, der die Verordnung für zu wenig risikobasiert hält (2025-ebers-truly-risk-based),
+    hält den Code für zu streng. Das ist keine Inkonsistenz, sondern die Konsequenz einer formalen Position
+    — und genau deshalb der beste Einstieg für eine eigene Auseinandersetzung mit der Rechtsnatur des
+    Code of Practice.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-56-abs-6
+  - ki-vo-art-53-abs-1-lit-c
+  - dsm-rl-art-4
+- id: 2025-gilgasiola-gpai-code
+  typ: blogbeitrag
+  autoren:
+  - Gil Gasiola, Gustavo
+  titel: 'The GPAI Code of Practice: Delayed, Yet Full of Promise'
+  fundstelle: Verfassungsblog, 16.07.2025
+  jahr: 2025
+  sprache: en
+  url: https://verfassungsblog.de/the-gpai-code-of-practice/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Der Code of Practice ist trotz Verzögerung ein tragfähiger Rahmen, dessen Erfolg davon abhängt,
+    ob er Befolgungslasten senkt und Rechtssicherheit schafft.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Gegenposition zu Ebers auf demselben Blog, drei Monate später — nützlich als
+    Beleg dafür, dass die Kritik nicht einhellig war. Sachlich blass: Der Beitrag geht auf das Kompetenzargument
+    nicht ein, sondern beschreibt den Inhalt. Erfasst, weil eine Literaturliste ohne Gegenstimme falsch
+    recherchiert wäre.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-gstrein-haleem-zwitter-gpai
+  typ: aufsatz
+  autoren:
+  - Gstrein, Oskar J.
+  - Haleem, Noman
+  - Zwitter, Andrej
+  titel: General-Purpose AI Regulation and the European Union AI Act
+  fundstelle: Internet Policy Review 13 (2024), Heft 3
+  jahr: 2024
+  sprache: en
+  doi: 10.14763/2024.3.1790
+  url: https://policyreview.info/articles/analysis/general-purpose-ai-regulation-and-ai-act
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - marktzugang
+  - urheberrecht
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  kernthese: Die KI-VO vollzieht den Übergang von reaktiver zu proaktiver KI-Governance; die GPAI-Pflichten
+    sind ein Hybrid aus Produktsicherheit und Grundrechtsschutz mit ungelösten Durchsetzungs- und Legitimationsfragen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die beste frei zugängliche Gesamtdarstellung des GPAI-Kapitels und zugleich einer
+    der wenigen Texte, die den Brüsseler Effekt noch bejahen. Nach zwei Jahren teilweise überholt (Code
+    of Practice, Leitlinien vom Juli 2025), als systematische Einordnung aber weiter brauchbar. Für die
+    eigene Arbeit vor allem als Kontrastfolie zu Carey und Bologa.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53
+- id: 2023-stein-dunlop-safe-before-sale
+  typ: bericht
+  autoren:
+  - Stein, Merlin
+  - Dunlop, Connor
+  titel: 'Safe Before Sale: Learnings from the FDA''s Model of Life Sciences Oversight for Foundation
+    Models'
+  fundstelle: Ada Lovelace Institute, London, 14.12.2023
+  jahr: 2023
+  sprache: en
+  url: https://www.adalovelaceinstitute.org/report/safe-before-sale/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - uk
+  - us
+  themenachsen:
+  - gpai
+  - marktzugang
+  - governance
+  - sektor-medizin
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - mdr-ivdr-ki-schnittstelle
+  - gpai-code-of-practice
+  kernthese: Foundation Models sollten wie Medizinprodukte der Klasse III behandelt werden — mit Vorabgenehmigung,
+    Drittprüfung und verpflichtender Marktbeobachtung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die radikalste marktzugangsrechtliche Position im Feld: Nicht Selbstbewertung, sondern
+    Zulassung. Sechzehn konkrete Empfehlungen über drei Ebenen (Daten/Rechenleistung, Modell, Anwendung).
+    Die KI-VO ist dem nicht gefolgt — der Text ist damit die Maximalforderung, gegen die man die tatsächliche
+    Regelungsintensität abtragen kann. Nützlich auch als Gegenprobe: Wenn schon die Beobachtungspflichten
+    des Art. 55 als überzogen gelten, wie realistisch ist dann eine Zulassungslösung?
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-55
+- id: 2023-keller-frankenstein-open-source
+  typ: blogbeitrag
+  autoren:
+  - Keller, Paul
+  titel: 'A Frankenstein-Like Approach: Open Source in the AI Act'
+  fundstelle: Open Future, 14.12.2023
+  jahr: 2023
+  sprache: en
+  url: https://openfuture.eu/blog/a-frankenstein-like-approach-open-source-in-the-ai-act/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - marktzugang
+  - wettbewerb
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Die Open-Source-Ausnahme der KI-VO erlaubt es freien Modellen, weniger transparent und schlechter
+    dokumentiert zu sein als proprietäre — sie kehrt damit ihren eigenen Zweck um.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kurzer, aber origineller Befund zu Art. 53 Abs. 2 KI-VO: Die Ausnahme setzt einen
+    Anreiz, formal offen zu lizenzieren und inhaltlich intransparent zu bleiben. Für die wettbewerbsrechtliche
+    Betrachtung interessant, weil sie eine Ungleichbehandlung nach Lizenzform statt nach Risiko begründet.
+    Blogformat, kein Nachweisapparat.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-2
+- id: 2021-bommasani-foundation-models
+  typ: bericht
+  autoren:
+  - Bommasani, Rishi
+  - Hudson, Drew A.
+  - Adeli, Ehsan
+  - Altman, Ruß
+  - Arora, Simran
+  - Liang, Percy
+  - u.a. (insgesamt 177 Verfasser)
+  titel: On the Opportunities and Risks of Foundation Models
+  fundstelle: arXiv:2108.07258 (cs.LG); Center for Research on Foundation Models, Stanford HAI, 16.08.2021
+  jahr: 2021
+  sprache: en
+  doi: 10.48550/arXiv.2108.07258
+  url: https://arxiv.org/abs/2108.07258
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - gpai
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Modelle, die auf breiten Datenmengen vortrainiert und anschließend für viele Aufgaben angepasst
+    werden, bilden eine eigene Technologieklasse, deren Homogenisierungseffekt Fehler und Verzerrungen
+    auf alle nachgelagerten Anwendungen überträgt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: warum die KI-VO überhaupt eine eigene Regulierungsschicht für
+    Modelle statt für Anwendungen kennt (Art. 51 ff.) — die Homogenisierungsthese dieses Berichts ist
+    die technische Begründung dafür. Der Text hat den Begriff "foundation model" geprägt, der über den
+    Entwurfsprozess in Art. 3 Nr. 63 KI-VO als "KI-Modell mit allgemeinem Verwendungszweck" eingegangen
+    ist; wer die Entstehungsgeschichte der GPAI-Schicht rekonstruieren muss, kommt hier nicht vorbei.
+    LESEHINWEIS: 214 Seiten, 177 Verfasser — nicht am Stück lesen. Abschnitt 1 (Einführung, insbesondere
+    die Unterscheidung von Emergenz und Homogenisierung) und Abschnitt 5 (Gesellschaft) genügen; Abschnitt
+    4.4 zu Rechtsfragen ist von Juristen geschrieben und inzwischen überholt. ANGREIFBAR: Der Bericht
+    ist Manifest und Bestandsaufnahme zugleich; die Kritik (Gebru, Bender) lautet, dass die Prägung eines
+    neuen Oberbegriffs vor allem der Institution diente, die ihn prägte. Für die juristische Verwendung
+    ist das gleichgültig — der Begriff steht im Gesetz.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-3-nr-63
+  - ki-vo-art-51
+- id: 2023-turpin-cot-unfaithful
+  typ: aufsatz
+  autoren:
+  - Turpin, Miles
+  - Michael, Julian
+  - Perez, Ethan
+  - Bowman, Samuel R.
+  titel: 'Language Models Don''t Always Say What They Think: Unfaithful Explanations in Chain-of-Thought
+    Prompting'
+  fundstelle: Advances in Neural Information Processing Systems 36 (NeurIPS 2023); arXiv:2305.04388 (cs.CL),
+    07.05.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2305.04388
+  url: https://arxiv.org/abs/2305.04388
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - gpai
+  - grundrechte
+  - governance
+  - berufsrecht
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die von einem Sprachmodell ausgegebene Gedankenkette nennt systematisch nicht die Faktoren,
+    die das Ergebnis tatsächlich getragen haben; eingeschleuste Verzerrungen im Prompt ändern die Antwort
+    um bis zu 36 Prozentpunkte, ohne in der Begründung aufzutauchen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob sogenannte Reasoning-Modelle ihre eigene Transparenzpflicht
+    erfüllen, indem sie ihren Gedankengang ausgeben — die Standardantwort der Anbieter auf Art. 13 KI-VO
+    und Art. 86 KI-VO seit 2025. Die Antwort ist Nein, und sie ist experimentell sauber belegt: Die Autoren
+    manipulieren den Prompt so, dass eine sachfremde Größe die Antwort steuert (etwa die Reihenfolge der
+    Antwortoptionen oder eine Suggestion des Nutzers), und die ausgegebene Begründung erwähnt diese Größe
+    in keinem einzigen Fall — sie liefert stattdessen eine plausible Scheinbegründung. Der Befund ist
+    für zwei ganz verschiedene Rechtsfragen tragend. ERSTENS für die Transparenzpflichten: Eine Gedankenkette
+    ist eine AUSGABE des Modells, kein Protokoll seines Rechenwegs; sie unter Art. 13 KI-VO als Erklärung
+    anzubieten, ist derselbe Kategorienfehler wie eine post-hoc-Erklärung, nur besser getarnt. ZWEITENS
+    für das Berufsrecht und die Sorgfaltspflichten beim Einsatz: Wenn die Begründung systematisch nicht
+    die tragenden Gründe nennt, kann ein Anwalt oder ein Sachbearbeiter die Ausgabe nicht durch Lektüre
+    der Begründung prüfen — die naheliegendste Kontrollmaßnahme ist unwirksam. Besonders unangenehm ist
+    der Nebenbefund zur Stereotypenbildung: Die Modelle folgen sozialen Vorurteilen im Prompt und begründen
+    das Ergebnis dann sachlich. Für Art. 10 KI-VO und § 22 AGG heißt das, dass eine Verzerrung vorliegen
+    kann, ohne dass sie in der Dokumentation je sichtbar wird. ANGREIFBAR: gemessen an GPT-3.5 und Claude
+    1.0; die Modellgeneration ist überholt, und die Anbieter behaupten Fortschritte. Belastbare Gegenmessungen
+    für aktuelle Reasoning-Modelle liegen nicht vor — was das Argument nicht widerlegt, sondern die Beweislast
+    verschiebt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-13
+  - ki-vo-art-86
+  - ki-vo-art-10
+- id: 2022-liang-helm
+  typ: aufsatz
+  autoren:
+  - Liang, Percy
+  - Bommasani, Rishi
+  - Lee, Tony
+  - Tsipras, Dimitris
+  - Soylu, Dilara
+  - Yasunaga, Michihiro
+  - u.a.
+  titel: Holistic Evaluation of Language Models
+  fundstelle: Transactions on Machine Learning Research (2023); arXiv:2211.09110 (cs.CL), 16.11.2022
+  jahr: 2022
+  sprache: en
+  doi: 10.48550/arXiv.2211.09110
+  url: https://arxiv.org/abs/2211.09110
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Modellbewertung darf nicht auf Treffergenauigkeit verengt werden; erst die gleichzeitige
+    Messung von sieben Größen — darunter Kalibrierung, Robustheit, Fairness, Verzerrung und Toxizität
+    — über 42 standardisierte Szenarien macht Modelle vergleichbar.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was der Anbieter eines GPAI-Modells nach Art. 55 Abs. 1 lit.
+    a KI-VO ("Modellbewertung nach dem Stand der Technik") und nach Anhang XI konkret durchzuführen und
+    zu dokumentieren hat. HELM ist der De-facto-Referenzrahmen, auf den sich die europäische Praxis stützt,
+    wenn sie "Stand der Technik" bei der Modellbewertung ausfüllen muss; wer die Pflichten des Art. 55
+    auslegt, sollte einmal gesehen haben, wie eine vollständige Bewertung aussieht. Der wichtigste Befund
+    für Juristen steht in der Einleitung: Vor HELM waren die dreißig untersuchten Modelle nur auf 17,9
+    % der Szenarien überhaupt geprüft, und kaum zwei auf denselben — es gab also keine Vergleichbarkeit,
+    obwohl alle Anbieter Benchmarkzahlen veröffentlichten. Für die Bewertung von Anbieterangaben in Verfahren
+    und Vergabeverfahren ist das der entscheidende Punkt: Eine genannte Benchmarkzahl ohne Angabe von
+    Szenario, Prompt und Bedingungen ist keine überprüfbare Behauptung. HELM veröffentlicht sämtliche
+    Prompts und Antworten — der Maßstab, an dem sich Transparenzbehauptungen messen lassen. ANGREIFBAR:
+    HELM misst, was messbar ist, und die Auswahl der 42 Szenarien ist selbst eine normative Entscheidung
+    ohne Verfahren (dazu 2021-raji-everything-benchmark). Zudem veraltet der Rahmen schnell; die 2022er
+    Fassung deckt heutige Fähigkeiten nicht ab.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-55-abs-1-lit-a
+- id: 2021-raji-everything-benchmark
+  typ: aufsatz
+  autoren:
+  - Raji, Inioluwa Deborah
+  - Bender, Emily M.
+  - Paullada, Amandalynne
+  - Denton, Emily
+  - Hanna, Alex
+  titel: AI and the Everything in the Whole Wide World Benchmark
+  fundstelle: NeurIPS 2021 Track on Datasets and Benchmarks; arXiv:2111.15366 (cs.LG), 26.11.2021
+  jahr: 2021
+  sprache: en
+  doi: 10.48550/arXiv.2111.15366
+  url: https://arxiv.org/abs/2111.15366
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Allgemeine Benchmarks beanspruchen, allgemeine Fähigkeit zu messen, erfüllen aber die Anforderungen
+    an Konstruktvalidität nicht — sie messen die Bearbeitung ihrer eigenen Aufgabenmenge, nicht die Eigenschaft,
+    deren Namen sie tragen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: welchen Beweiswert ein Benchmarkergebnis im Verfahren hat — und
+    ob ein Anbieter, der eine Fähigkeitsschwelle anhand von Benchmarks bestreitet oder behauptet, damit
+    etwas belegt. Der Text importiert den Begriff der Konstruktvalidität aus der Testtheorie in die KI-Bewertung,
+    und genau dieser Begriff fehlt der juristischen Diskussion. Die Frage lautet nicht "wie hoch ist die
+    Punktzahl?", sondern "misst der Test die Eigenschaft, um die es rechtlich geht?" — und für die "Fähigkeiten
+    mit hohem Wirkungsgrad" des Art. 51 Abs. 1 lit. a KI-VO ist die Antwort in aller Regel Nein, weil
+    niemand die zu messende Eigenschaft je definiert hat. Praktischer Ertrag: Wer eine Anbieterbehauptung
+    angreift, die auf Benchmarkergebnissen beruht, sollte nicht die Zahl bestreiten, sondern die Konstruktvalidität
+    — das ist der Angriff, gegen den es keine Erwiderung gibt, solange die Norm die Fähigkeit nicht operationalisiert.
+    Umgekehrt gilt dasselbe gegen die Aufsicht: Auch das KI-Büro kann eine Einstufung nicht allein auf
+    Benchmarkergebnisse stützen. ANGREIFBAR: Die Arbeit ist Kritik ohne Gegenvorschlag; sie sagt, was
+    Benchmarks nicht können, nicht, woran man sich stattdessen halten soll. Für die Verwaltungspraxis
+    ist das unbefriedigend — ein Regulierer, der nichts messen darf, reguliert nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-1-lit-a
+- id: 2024-reuel-betterbench
+  typ: aufsatz
+  autoren:
+  - Reül, Anka
+  - Hardy, Amelia
+  - Smith, Chandler
+  - Lamparth, Max
+  - Hardy, Malcolm
+  - Kochenderfer, Mykel J.
+  titel: 'BetterBench: Assessing AI Benchmarks, Uncovering Issues, and Establishing Best Practices'
+  fundstelle: Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Track on Datasets and
+    Benchmarks; arXiv:2411.12990 (cs.LG), 19.11.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2411.12990
+  url: https://arxiv.org/abs/2411.12990
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Gemessen an 46 Anforderungen über den gesamten Lebenszyklus erfüllen die gebräuchlichen KI-Benchmarks
+    grundlegende Qualitätsanforderungen nicht; insbesondere fehlt fast durchgängig die Angabe statistischer
+    Signifikanz.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob ein konkreter Benchmark, auf den sich eine Partei oder eine
+    Behörde stützt, methodisch tragfähig ist — und liefert dafür eine Prüfliste, die ein Jurist ohne Statistikkenntnisse
+    abarbeiten kann. Der praktisch nützlichste Text des Blocks, weil er das Abstrakte von Raji u.a. in
+    46 konkrete Fragen übersetzt und die Ergebnisse für 24 verbreitete Benchmarks öffentlich hinterlegt
+    (betterbench.stanford.edu). Wenn ein Anbieter eine Einstufung als Modell mit systemischem Risiko bestreitet
+    und dazu Benchmarkzahlen vorlegt, ist dies das Werkzeug, um die Vorlage zu entkräften. Der schärfste
+    Einzelbefund: Kaum ein Benchmark gibt Konfidenzintervalle an — die vorgelegten Zahlen sind also nicht
+    einmal innerhalb ihres eigenen Rahmens vergleichbar. Für die Beweiswürdigung heißt das, dass Rangunterschiede
+    zwischen Modellen regelmäßig nicht signifikant sind, auch wenn sie in Tabellen so aussehen. ANGREIFBAR:
+    Die 46 Kriterien sind selbst gesetzt und nicht validiert; die Autoren wenden auf Benchmarks einen
+    Maßstab an, den sie ihrerseits nicht begründen. Und die Bewertung ist eine Momentaufnahme von 2024.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51
+- id: 2025-eriksson-trust-ai-benchmarks
+  typ: working-paper
+  autoren:
+  - Eriksson, Maria
+  - Purificato, Erasmo
+  - Noroozian, Arman
+  - Vinagre, João
+  - Chaslot, Guillaume
+  - Gómez, Emilia
+  - Fernández-Llorca, David
+  titel: Can We Trust AI Benchmarks? An Interdisciplinary Review of Current Issues in AI Evaluation
+  fundstelle: arXiv:2502.06559 (cs.CY), 10.02.2025, revidiert 25.05.2025; Verfasser überwiegend Gemeinsame
+    Forschungsstelle der Kommission (JRC)
+  jahr: 2025
+  sprache: en
+  doi: 10.48550/arXiv.2502.06559
+  url: https://arxiv.org/abs/2502.06559
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - harmonisierte-normen-jtc21
+  kernthese: Eine Auswertung von rund 100 Studien aus zehn Jahren zeigt, dass Benchmarkpraxis durch kulturelle,
+    kommerzielle und wettbewerbliche Dynamiken geprägt ist — Datenkontamination, Fehlanreize und Ergebnisoptimierung
+    sind strukturell, nicht Einzelfälle.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob quantitative Benchmarks eine taugliche Grundlage für die Konformitätsbewertung
+    nach Art. 43 KI-VO und für die harmonisierten Normen des JTC 21 sein können — die Frage, die derzeit
+    in der europäischen Normung entschieden wird, ohne dass sie gestellt würde. Der einzige Text des Blocks,
+    der aus dem europäischen Regulierungsapparat selbst kommt (JRC-Verfasser) und die Benchmarkkritik
+    ausdrücklich an die Regulierung anschließt. Das macht ihn zitierfähig gegenüber Behörden in einer
+    Weise, in der ein US-Konferenzpapier es nicht ist. Der für die Praxis wichtigste Einzelbefund ist
+    die DATENKONTAMINATION: Wenn Testaufgaben im Trainingskorpus enthalten waren — und bei webweit trainierten
+    Modellen sind sie das regelmäßig —, misst der Benchmark Memorisierung statt Fähigkeit. Damit hängen
+    zwei Blöcke dieser Akte zusammen, die getrennt diskutiert werden: Das Memorisierungsproblem des Urheberrechts
+    ist dasselbe Problem wie das Validitätsproblem der Modellbewertung. Diese Verbindung auszuarbeiten,
+    ist eine offene Aufsatzidee. ANGREIFBAR: ein Überblick, keine eigene Messung; die Arbeit trägt zusammen,
+    was andere gefunden haben, und ihr normativer Teil bleibt allgemein.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-43
+- id: 2023-schaeffer-emergent-mirage
+  typ: aufsatz
+  autoren:
+  - Schäffer, Rylan
+  - Miranda, Brando
+  - Koyejo, Sanmi
+  titel: Are Emergent Abilities of Large Language Models a Mirage?
+  fundstelle: Advances in Neural Information Processing Systems 36 (NeurIPS 2023), Outstanding Paper Award;
+    arXiv:2304.15004 (cs.AI), 28.04.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2304.15004
+  url: https://arxiv.org/abs/2304.15004
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  - sicherheit-export
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: 'Die angeblich sprunghaft auftretenden Fähigkeiten großer Sprachmodelle sind ein Artefakt
+    der gewählten Messgröße: Unstetige oder nichtlineare Metriken erzeugen scheinbare Sprünge, stetige
+    Metriken zeigen glatte, vorhersagbare Verläufe.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob die Regulierungsprämisse der KI-VO — dass ab einer Schwelle
+    plötzlich neue, gefährliche Fähigkeiten auftreten und deshalb eine Schwelle der richtige Anknüpfungspunkt
+    ist — technisch trägt. Die zentrale GEGENPOSITION zur Emergenzthese von Wei u.a. (Emergent Abilities
+    of Large Language Models, TMLR 2022, arXiv:2206.07682), die ihrerseits die verbreitete Rechtfertigung
+    für Schwellenwertregulierung liefert. Wenn Schäffer u.a. recht haben, ist der gesetzgeberische Grundgedanke
+    des Art. 51 KI-VO — jenseits von 10^25 FLOP beginne eine qualitativ andere Risikoklasse — nicht bloß
+    grob, sondern falsch konstruiert: Fähigkeiten wachsen stetig, und eine Stufe im Recht bildet keine
+    Stufe in der Sache ab. Für die Auslegung folgt daraus, dass die Vermutungsregel des Art. 51 Abs. 2
+    KI-VO tatsächlich eine reine Verwaltungsvereinfachung ist und nicht, wie Erwägungs- grund 111 nahelegt,
+    die Abbildung eines Naturphänomens; das hat Folgen für die Widerlegbarkeit nach Art. 52 Abs. 2. Für
+    die Praxis der Anbieter heißt es umgekehrt, dass die Fähigkeiten eines geplanten Modells VORHERSAGBAR
+    sind — was die Berufung auf Überraschung als Entlastung entwertet. ANGREIFBAR, und der Streit ist
+    nicht entschieden: Die Autoren zeigen, dass die gemessenen Sprünge metrikabhängig sind, nicht dass
+    keine relevanten Diskontinuitäten existieren; für sicherheitsrelevante Fähigkeiten ist gerade die
+    unstetige Metrik ("schafft es der Angriff oder nicht?") die rechtlich maßgebliche. Wer den Text als
+    Beleg dafür zitiert, es gebe keine Fähigkeitssprünge, geht zu weit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-2
+  - ki-vo-art-52-abs-2
+- id: 2023-shevlane-extreme-risks
+  typ: working-paper
+  autoren:
+  - Shevlane, Toby
+  - Farquhar, Sebastian
+  - Garfinkel, Ben
+  - Phuong, Mary
+  - Whittlestone, Jess
+  - Leung, Jade
+  - Kokotajlo, Daniel
+  - Marchal, Nahema
+  - Anderljung, Markus
+  - Kolt, Noam
+  - u.a.
+  titel: Model evaluation for extreme risks
+  fundstelle: arXiv:2305.15324 (cs.AI), 24.05.2023; Google DeepMind, Centre for the Governance of AI u.a.
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2305.15324
+  url: https://arxiv.org/abs/2305.15324
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - uk
+  - us
+  themenachsen:
+  - gpai
+  - governance
+  - sicherheit-export
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Extreme Risiken sind über zwei getrennte Prüfungen zu erfassen — Bewertung gefährlicher Fähigkeiten
+    (was kann das Modell?) und Bewertung der Ausrichtung (wozu neigt es?) —; erst beide zusammen tragen
+    eine Aussage über das Risiko.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was Art. 55 Abs. 1 lit. a und b KI-VO inhaltlich verlangen —
+    der Begriff der "Bewertung gefährlicher Fähigkeiten" stammt aus diesem Text und ist über den GPAI-Verhaltenskodex
+    ins Unionsrecht gewandert. Faktisch die Quelle der europäischen und britischen Aufsichtspraxis: Die
+    Zweiteilung Fähigkeit/Ausrichtung strukturiert die Sicherheitsrahmen von Anthropic, OpenAI und DeepMind
+    ebenso wie die Sicherheitskapitel des GPAI-Verhaltenskodex. Wer die Pflichten des Art. 55 auslegt
+    oder eine Modelldokumentation prüft, sollte wissen, woher die Struktur kommt und was sie voraussetzt.
+    Der juristisch wichtigste Satz steht am Rand: Die Verfasser betonen, dass Bewertungen NEGATIVE Ergebnisse
+    nicht beweisen können — das Ausbleiben einer gefährlichen Fähigkeit im Test belegt nicht ihr Fehlen,
+    weil die Elicitation unvollständig sein kann. Für die Beweislast im Aufsichtsverfahren ist das entscheidend:
+    Eine bestandene Bewertung ist keine Unbedenklichkeitsbescheinigung, und ein Anbieter, der sie als
+    solche anführt, überdehnt sie. ANGREIFBAR: Die Verfasserliste besteht überwiegend aus Angehörigen
+    der Labore, deren Modelle bewertet werden sollen; das Papier begründet zugleich ein Verfahren und
+    die Zuständigkeit derer, die es entworfen haben. Diese Selbstregulierungs- schleife ist im Papier
+    nicht reflektiert und der stärkste Einwand gegen seine Übernahme ins Aufsichtsrecht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-55-abs-1-lit-a
+  - ki-vo-art-55-abs-1-lit-b
+- id: 2025-kwa-metr-time-horizons
+  typ: working-paper
+  autoren:
+  - Kwa, Thomas
+  - West, Ben
+  - Becker, Joel
+  - Deng, Amy
+  - Garcia, Katharyn
+  - Hasin, Max
+  - Jawhar, Sami
+  - Kinniment, Megan
+  - u.a. (METR)
+  titel: Measuring AI Ability to Complete Long Tasks
+  fundstelle: arXiv:2503.14499 (cs.AI), 18.03.2025; NeurIPS 2025
+  jahr: 2025
+  sprache: en
+  doi: 10.48550/arXiv.2503.14499
+  url: https://arxiv.org/abs/2503.14499
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - uk
+  themenachsen:
+  - gpai
+  - governance
+  - arbeit
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Modellfähigkeit lässt sich als Zeithorizont ausdrücken — diejenige Aufgabendauer, die ein
+    Mensch braucht und die das Modell noch mit 50 Prozent Erfolgswahrscheinlichkeit bewältigt —; dieser
+    Horizont verdoppelt sich seit 2019 etwa alle sieben Monate.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: wie sich Fähigkeitszuwachs in einer Einheit ausdrücken lässt,
+    die ein Gericht oder ein Gesetzgeber versteht — nämlich in Zeit statt in Punktzahlen, und damit zugleich,
+    wie schnell eine an Fähigkeiten anknüpfende Norm veraltet. Der beste Gegenentwurf zur Benchmarkpunktzahl
+    und der Text, den man einer Kammer vorlegen kann: "Das Modell erledigt Aufgaben, für die ein Fachmann
+    etwa 50 Minuten braucht" ist eine Aussage, mit der sich arbeiten lässt, und "diese Dauer verdoppelt
+    sich alle sieben Monate" ist eine Aussage, die jeden Regulierungsvorschlag mit fester Fähigkeitsschwelle
+    in Frage stellt. Zusammen mit 2024-ho-algorithmic-progress bildet der Text die empirische Grundlage
+    für das Argument, dass die KI-VO Anknüpfungspunkte gewählt hat, die sich schneller bewegen als ihre
+    Änderungsverfahren. Zweiter Nutzen: für die Agenten- und Zurechnungsdiskussion, weil er misst, wie
+    lange ein System unbeaufsichtigt arbeiten kann — genau die Größe, die für Aufsichtspflichten maßgeblich
+    ist. ANGREIFBAR, und deutlich: gemessen an Softwareentwicklungsaufgaben mit automatischer Erfolgsprüfung;
+    die Verallgemeinerung auf Tätigkeiten ohne klares Erfolgskriterium — juristische Arbeit eingeschlossen
+    — ist nicht belegt. METR ist zudem eine Organisation, deren Zweck die Warnung vor Fähigkeitszuwachs
+    ist; die Aufgabenauswahl ist nicht neutral. Die 50-Prozent-Schwelle ist willkürlich und für rechtliche
+    Zwecke zu niedrig.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2020-kaplan-scaling-laws
+  typ: working-paper
+  autoren:
+  - Kaplan, Jared
+  - McCandlish, Sam
+  - Henighan, Tom
+  - Brown, Tom B.
+  - Chess, Benjamin
+  - Child, Rewon
+  - Gray, Scott
+  - Radford, Alec
+  - Wu, Jeffrey
+  - Amodei, Dario
+  titel: Scaling Laws for Neural Language Models
+  fundstelle: arXiv:2001.08361 (cs.LG), 23.01.2020
+  jahr: 2020
+  sprache: en
+  doi: 10.48550/arXiv.2001.08361
+  url: https://arxiv.org/abs/2001.08361
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - gpai
+  - marktzugang
+  - wettbewerb
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Der Vorhersagefehler eines Sprachmodells fällt als Potenzgesetz in Modellgröße, Datenmenge
+    und eingesetzter Rechenleistung — über mehr als sieben Größenordnungen hinweg und weitgehend unabhängig
+    von der Architektur.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: warum das Unionsrecht überhaupt an Rechenleistung anknüpfen KANN
+    — die Skalierungsgesetze sind der Grund, aus dem Compute als Stellvertreter für Fähigkeit taugt, und
+    zugleich der Grund, aus dem er es nur ungefähr tut. Ohne diesen Text ist Art. 51 Abs. 2 KI-VO nicht
+    verständlich: Die Vermutung, dass ein bestimmtes FLOP-Budget eine bestimmte Fähigkeitsklasse indiziert,
+    setzt voraus, dass zwischen beidem ein stabiler, monotoner Zusammenhang besteht — und genau diesen
+    behauptet Kaplan. Der zweite juristisch erhebliche Befund ist die ARCHITEKTURUNABHÄNGIGKEIT: Breite
+    und Tiefe des Netzes spielen kaum eine Rolle. Das trägt die Technikneutralität der Anknüpfung — der
+    Gesetzgeber muss nicht wissen, WIE trainiert wurde, sondern nur, WIE VIEL. Für die Praxis: Wer die
+    Angemessenheit der Schwelle bestreiten will, muss an der Skalierungsbeziehung ansetzen, nicht an der
+    Zahl. ANGREIFBAR: Die konkrete Empfehlung Kaplans — sehr große Modelle auf vergleichsweise wenig Daten
+    — ist zwei Jahre später widerlegt worden (2022-hoffmann-chinchilla). Das Potenzgesetz gilt für den
+    Vorhersagefehler, nicht für nachgelagerte Fähigkeiten; die Übersetzung von "geringerer Fehler" in
+    "gefährlichere Fähigkeit" leistet der Text nicht und niemand sonst. Genau in dieser Lücke steht die
+    10^25-Schwelle.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-2
+- id: 2022-hoffmann-chinchilla
+  typ: aufsatz
+  autoren:
+  - Hoffmann, Jordan
+  - Borgeaud, Sebastian
+  - Mensch, Arthur
+  - Buchatskaya, Elena
+  - Cai, Trevor
+  - Rutherford, Eliza
+  - de Las Casas, Diego
+  - Hendricks, Lisa Anne
+  - u.a.
+  - Sifre, Laurent
+  titel: Training Compute-Optimal Large Language Models
+  fundstelle: Advances in Neural Information Processing Systems 35 (NeurIPS 2022), 30016; arXiv:2203.15556
+    (cs.CL), 29.03.2022
+  jahr: 2022
+  sprache: en
+  doi: 10.48550/arXiv.2203.15556
+  url: https://arxiv.org/abs/2203.15556
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - gpai
+  - marktzugang
+  - urheberrecht
+  - wettbewerb
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  kernthese: Für ein gegebenes Rechenbudget ist ein Modell erst dann optimal trainiert, wenn Parameterzahl
+    und Tokenzahl gemeinsam verdoppelt werden; die bis dahin gebauten Modelle waren durchweg zu groß und
+    mit zu wenig Daten trainiert.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: gleich zwei Fragen, und die zweite ist in der juristischen Diskussion
+    noch nicht angekommen. ERSTENS die Compute-Frage: Wer 10^25 FLOP als Schwelle auslegt, muss wissen,
+    dass dieselbe FLOP-Zahl je nach Aufteilung zwischen Parametern und Daten sehr verschiedene Modelle
+    ergibt — die Schwelle misst ein Budget, nicht ein Ergebnis. ZWEITENS die Urheberrechtsfrage, und hier
+    liegt der eigentliche Wert: Chinchilla verschiebt den Engpass von der Rechenleistung auf die DATENMENGE.
+    Seit 2022 ist Trainingsdatenbedarf keine Nebenbedingung mehr, sondern die bindende Restriktion (dazu
+    2022-villalobos-run-out-of-data). Das ist die technische Grundlage für zwei juristische Argumente:
+    für die Marktschadenanalyse im vierten Fair-Use-Faktor — die Nachfrage nach lizenzierbaren Daten ist
+    real und quantifizierbar — und für die Verhältnismässigkeitsprüfung beim Nutzungsvorbehalt nach Art.
+    4 DSM-RL, weil sich zeigen lässt, dass der Verzicht auf ein Korpus tatsächlich Leistung kostet und
+    nicht bloß Bequemlichkeit. Wer behauptet, es gebe keinen Markt für Trainingsdaten, argumentiert gegen
+    dieses Papier. ANGREIFBAR: Die Optimalitätsaussage gilt für das reine Vortraining und ist durch mehrfaches
+    Durchlaufen, Destillation, synthetische Daten und Rechenaufwand zur Inferenzzeit inzwischen relativiert;
+    die heutige Praxis trainiert bewusst "über-optimal". Für die Anknüpfung an Trainings-FLOP heißt das,
+    dass ein wachsender Teil der Fähigkeit gar nicht mehr im Trainingsbudget entsteht — ein Einwand gegen
+    Art. 51 Abs. 2, der noch niemandem gehört.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-2
+  - dsm-rl-art-4
+- id: 2024-ho-algorithmic-progress
+  typ: working-paper
+  autoren:
+  - Ho, Anson
+  - Besiroglu, Tamay
+  - Erdil, Ege
+  - Owen, David
+  - Rahman, Robi
+  - Guo, Zifan Carl
+  - Atkinson, David
+  - Thompson, Neil
+  - Sevilla, Jaime
+  titel: Algorithmic progress in language models
+  fundstelle: arXiv:2403.05812 (cs.CL), 09.03.2024; Epoch AI
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2403.05812
+  url: https://arxiv.org/abs/2403.05812
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - uk
+  themenachsen:
+  - gpai
+  - governance
+  - marktzugang
+  - wettbewerb
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  kernthese: 'Der Rechenaufwand, der für eine festgelegte Sprachmodellleistung nötig ist, halbiert sich
+    etwa alle acht Monate (95-%-Intervall: fünf bis vierzehn Monate) — deutlich schneller als das mooresche
+    Gesetz; den größeren Beitrag zum Fortschritt leistete gleichwohl die schiere Zunahme der Rechenleistung.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was die 10^25-FLOP-Schwelle des Art. 51 Abs. 2 KI-VO im Jahr
+    ihrer Anwendung tatsächlich erfasst — und dass die Antwort jedes Jahr eine andere ist, ohne dass der
+    Wortlaut sich ändert. PFLICHT, weil dies der Text ist, der die verbreitetste juristische Fehlannahme
+    dieses Feldes widerlegt: dass eine FLOP-Zahl ein fester Maßstab sei. Sie ist es nicht. Wenn sich der
+    Aufwand für eine gegebene Leistung alle acht Monate halbiert, dann bezeichnet dieselbe Zahl nach drei
+    Jahren eine rund zwanzigfach höhere Fähigkeit — oder umgekehrt: Ein Modell, das die Fähigkeiten von
+    GPT-4 erreicht, unterschreitet die Schwelle nach wenigen Jahren. Die Folgen sind konkret und in mindestens
+    drei Richtungen verwendbar. (1) AUSLEGUNG: Art. 51 Abs. 2 in Verbindung mit Art. 51 Abs. 3 KI-VO gibt
+    der Kommission die Befugnis, die Schwelle anzupassen; dieser Text ist die Grundlage für die Behauptung,
+    dass die Nichtanpassung ermessensfehlerhaft wird, sobald der Zusammenhang zwischen Schwelle und Fähigkeit
+    gerissen ist. (2) VERTEIDIGUNG: Ein Anbieter, der unterhalb der Schwelle bleibt, aber vergleichbare
+    Fähigkeiten erreicht, kann sich auf die Vermutungswirkung berufen — die Norm privilegiert den effizienteren
+    Entwickler, was gesetzgeberisch ersichtlich nicht gewollt ist. (3) WETTBEWERB: Der Effizienzgewinn
+    diffundiert, die Schwelle wirkt deshalb zunehmend nur noch gegen die Großen — was die Marktzutrittswirkung
+    der Norm über die Zeit umkehrt. Kurz, gut geschrieben, mit einer Abbildung, die man einer Kammer zeigen
+    kann. ANGREIFBAR: gestützt auf über 200 Modellauswertungen von 2012 bis 2023 und auf Perplexität als
+    Zielgröße, nicht auf Fähigkeiten; die Konfidenzintervalle sind breit, und der Nebenbefund — der größere
+    Teil des Fortschritts kam aus mehr Rechenleistung, nicht aus besseren Algorithmen — stützt die Compute-Anknüpfung
+    gerade wieder. Beide Seiten stehen in demselben Papier, und beide sind zitierfähig.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-2
+  - ki-vo-art-51-abs-3
+- id: 2026-epoch-notable-ai-models
+  typ: bericht
+  autoren:
+  - Epoch AI
+  titel: Notable AI Models — Datenbank zu Trainingsrechenleistung, Parameterzahl, Datensatzgröße und Trainingskosten
+  fundstelle: Epoch AI, Notable AI Models, epoch.ai (Onlinedatenbank); laufend fortgeschrieben, über 3.500
+    Modelle ab 1950, CSV-Download unter CC BY; ergänzend Rahman/Owen/You, Tracking Large-Scale AI Models,
+    05.04.2024
+  jahr: 2026
+  sprache: en
+  url: https://epoch.ai/data/notable-ai-models
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - uk
+  themenachsen:
+  - gpai
+  - governance
+  - wettbewerb
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  kernthese: Trainingsrechenleistung einzelner Modelle lässt sich aus öffentlichen Angaben mit angegebener
+    Unsicherheit rekonstruieren — die Datenbank kennzeichnet jede Schätzung als gesichert (Faktor 3),
+    wahrscheinlich (Faktor 10) oder spekulativ (Faktor 30).
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: die praktische Frage, ob ein bestimmtes Modell die Schwelle des
+    Art. 51 Abs. 2 KI-VO überschreitet — und zwar überprüfbar, mit Quellenangabe und beziffertem Fehlerbereich.
+    Kein Aufsatz, sondern das Arbeitsmittel, und deshalb hier erfasst: Es gibt keine andere öffentliche
+    Quelle, aus der sich die Trainingsrechenleistung konkreter Modelle mit Nachweis entnehmen lässt. Für
+    die Beratung heißt das, dass eine Ersteinschätzung, ob ein Anbieter unter Art. 51 ff. KI-VO fällt,
+    in Minuten möglich ist. Für das Aufsichtsverfahren ist die Unsicherheitskennzeichnung das Entscheidende:
+    Die meisten Schätzungen sind nur auf einen Faktor 3 bis 10 genau, das heißt, für Modelle in der Nähe
+    von 10^25 FLOP ist aus öffentlichen Quellen regelmäßig NICHT feststellbar, ob die Schwelle überschritten
+    ist. Damit ist die Vermutungsregel des Art. 51 Abs. 2 ohne Mitwirkung des Anbieters kaum vollziehbar
+    — ein Befund, der die Meldepflicht des Art. 52 Abs. 1 von einer Formalie zur eigentlichen Durchsetzungsnorm
+    macht. Die begleitende Auswertung von 2024 nennt zudem den Befund, dass die Zahl der Modelle oberhalb
+    von 10^23 FLOP von zwei (2017) auf über achtzig (Anfang 2024) gestiegen ist, und mahnt ausdrücklich,
+    dass Schwellen mitwachsen müssen. ANGREIFBAR: Schätzungen aus Herstellerangaben, Veröffentlichungen
+    und Presse; Epoch AI ist privat finanziert und wählt aus, was "bemerkenswert" ist. Für Modelle chinesischer
+    Anbieter und für nicht veröffentlichte Modelle ist die Abdeckung lückenhaft.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51-abs-2
+  - ki-vo-art-52-abs-1
+- id: 2023-zhou-chatgpt-regulierung-eu-entwurf
+  typ: aufsatz
+  autoren:
+  - 周靖媛 (Zhou Jingyuan)
+  titel: 規範ChatGPT——通用人工智慧與歐盟人工智慧法草案
+  titel_deutsch: ChatGPT regulieren - Universelle kuenstliche Intelligenz und der Entwurf der EU-Verordnung
+    ueber kuenstliche Intelligenz
+  fundstelle: 月旦律評 (Yuedan Lueping, Anwaltsrundschau) 16 (Juli 2023), 142-156
+  jahr: 2023
+  sprache: zh
+  doi: 10.53106/279069731613
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  - eu
+  themenachsen:
+  - gpai
+  - governance
+  kernthese: Der Entwurf der europaeischen KI-Verordnung erfasst Universalmodelle wie ChatGPT nur unzureichend,
+    weil die Risikoklassifikation an den Verwendungszweck anknuepft, den der Anbieter eines Grundmodells
+    gerade nicht bestimmt.
+  eigene_bewertung: Bemerkenswert, weil ein taiwanischer Beitrag den europaeischen Verordnungsentwurf
+    zum Gegenstand macht - das belegt, wie stark der Bruesseler Entwurf auch in Ostasien als Referenz
+    gelesen wurde. Der Text stammt aus Juli 2023 und damit aus der Phase vor der Einigung ueber Kapitel
+    V; die dort formulierte Kritik ist genau der Punkt, den der Trilog mit den Art. 51 ff. KI-VO und der
+    Schwelle von 10 hoch 25 Gleitkommaoperationen zu loesen versuchte. Als Zeitdokument der aussereuropaeischen
+    Rezeption nuetzlich, inhaltlich ueberholt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-lim-heterogenitaet-genai-governance
+  typ: aufsatz
+  autoren:
+  - Lim, Daryl
+  titel: 'The Surprising Virtues of Heterogeneity: Legal Pluralism and the Governance of Generative AI'
+  fundstelle: Singapore Journal of Legal Studies 2026 (Maerz), 11-45
+  jahr: 2026
+  sprache: en
+  url: https://law.nus.edu.sg/sjls/current-issue/
+  zugang: open-access
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - gpai
+  - governance
+  - urheberrecht
+  kernthese: Die Uneinheitlichkeit der KI-Regulierung ueber Rechtsordnungen hinweg ist kein zu behebender
+    Mangel, sondern erzeugt als Rechtspluralismus Lernvorteile und Machtbalancen, die eine Harmonisierung
+    zerstoeren wuerde.
+  eigene_bewertung: 'Die Gegenthese zu Raso 2026 aus Kanada, und beide zusammen bilden den interessantesten
+    Streit, den ich in diesem Konvolut gefunden habe: Raso greift Interoperabilitaet als verdeckte Vereinheitlichungspolitik
+    an, Lim verteidigt die Vielfalt als produktiv. Fuer die Beurteilung des Bruesseler Effekts und der
+    Frage, ob die KI-VO als globaler Standard wuenschenswert ist, sollte man beide lesen. Lim schreibt
+    aus der US-Perspektive (Penn State), publiziert aber in der singapurischen Leitzeitschrift im Rahmen
+    eines Sonderteils zu Immaterialgueterrecht und Technologie, den David Tan herausgegeben hat. Das Heft
+    ist frei zugaenglich - Singapur ist damit die einzige der hier untersuchten asiatischen Rechtsordnungen
+    mit offener Leitzeitschrift.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07

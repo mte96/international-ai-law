@@ -1,0 +1,162 @@
+fristen:
+- id: uk-av-act-2024-f1
+  datum: 2026-09-09
+  beschreibung: 'Ende der Konsultationsfrist zur Statement of Safety Principles nach dem Automated Vehicles
+    Act 2024 (23:59 Uhr). Voraussetzung für die Operationalisierung des gesamten britischen AV-Zulassungsregimes.
+
+    '
+  typ: konsultation
+  jurisdiktion: uk
+  regelwerk: uk-av-act-2024
+  adressat: Hersteller automatisierter Fahrzeuge, Flottenbetreiber, Kommunen, Versicherer, Öffentlichkeit
+  handlungsbedarf: null
+  quelle: https://www.gov.uk/government/consultations/automated-vehicles-statement-of-safety-principles/automated-vehicles-statement-of-safety-principles-consultation
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: uk-ukgdpr-dpa-2018-f1
+  datum: 2026-09-09
+  beschreibung: 'Ende der Frist des Call for Evidence "Data regulation in the age of AI and other data-intensive
+    technologies" (23:59 Uhr). Prüft ausdrücklich, ob das UK-Datenschutzrecht für KI ausreicht — der derzeit
+    plausibelste Ausgangspunkt einer künftigen KI-bezogenen Gesetzgebung.
+
+    '
+  typ: konsultation
+  jurisdiktion: uk
+  regelwerk: uk-gdpr
+  adressat: Unternehmen, Forschung, Zivilgesellschaft, Wissenschaft
+  handlungsbedarf: null
+  quelle: https://www.gov.uk/government/calls-for-evidence/data-regulation-in-the-age-of-ai-and-other-data-intensive-technologies
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: uk-ai-growth-lab-f1
+  datum: 2026-09-27
+  beschreibung: 'Bewerbungsschluss für das beratende AI Growth Lab Rechtsdienstleistungen (erste sektorale
+    Umsetzung des Sandbox-Konzepts) am 27.09.2026, 23:59 Uhr. Bewerbungsfenster geöffnet am 03.08.2026,
+    Auftaktwebinar 10.08.2026, Auswahlergebnisse Ende Oktober 2026, Teilnahmedauer bis zu neun Monate
+    ab Aufnahme. Antragsberechtigt ist nur eine "UK-established legal entity or UK-registered branch".
+    Beteiligt sind sechs Regulierungs- und Aufsichtsstellen, darunter Solicitors Regulation Authority,
+    Information Commissioner''s Office und Legal Services Board.
+
+    '
+  typ: einreichung
+  jurisdiktion: uk
+  regelwerk: uk-ai-growth-lab
+  adressat: Kanzleien, LegalTech-Anbieter, ABS, Conveyancer, KI-Entwickler, öffentliche Stellen, KMU
+  handlungsbedarf: null
+  quelle: https://www.gov.uk/government/publications/advisory-ai-growth-lab-legal-services/legal-services-advisory-ai-growth-lab-overview
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  uhrzeit: '23:59'
+  fundstelle_norm: 'GOV.UK, "Legal services: Advisory AI Growth Lab — overview" (Ministry of Justice /
+    DSIT), erstveröffentlicht 03.08.2026, zuletzt geändert 27.08.2026: "Closes: 27 September 2026 at 11:59
+    PM"'
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Am amtlichen Dokument geprüft; verifiziert von false auf true gesetzt. Das Übersichtsdokument
+    nennt Öffnung und Schluss des Bewerbungsfensters ausdrücklich mit Uhrzeit. Das Schwesterdokument "application
+    eligibility and support" wiederholt die Frist nicht, sondern verweist auf die Übersicht. Keine Anzeichen
+    einer Verlängerung.'
+- id: uk-copyright-ai-prozess-f1
+  datum: 2026-09-30
+  beschreibung: 'Zugesagte Konsultation zu "digital replicas" und Persönlichkeitsrecht. PLATZHALTER, KEIN
+    BELEGTES DATUM: Das Written Ministerial Statement HCWS1416 vom 18.03.2026 (Liz Kendall, Secretary
+    of State for Science, Innovation and Technology) sagt wörtlich zu: "We will launch a consultation
+    in the summer to seek views on how we address these harms, while protecting legitimate innovation"
+    — ohne Datum, ohne Ressort, ohne Zeitplan. Der hier geführte 30.09.2026 bildet nur das Ende des zugesagten
+    Zeitraums ab. Stand 07.09.2026: Die Konsultation ist nicht eröffnet; der meteorologische Sommer ist
+    am 31.08.2026 abgelaufen. Anders als beim Urheberrecht, wo s. 137 Data (Use and Access) Act 2025 die
+    Regierung zum Handeln zwingt, besteht hier keine gesetzliche Frist und damit keine Sanktion für die
+    Verzögerung.
+
+    '
+  typ: konsultation
+  jurisdiktion: uk
+  regelwerk: uk-copyright-ai-prozess
+  adressat: Kreativwirtschaft, Verwertungsgesellschaften, KI-Entwickler, Persönlichkeitsrechtsinhaber
+  handlungsbedarf: Beobachten; bei Eröffnung Frist prüfen und Konsultationsdokument auswerten.
+  quelle: https://questions-statements.parliament.uk/written-statements/detail/2026-03-18/hcws1416
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Zweite Prüfung nach dem 27.08.2026. Auf gov.uk ist zum Stichtag keine eröffnete Konsultation
+    zu digital replicas, Persönlichkeitsrecht, Likeness oder Leistungsschutzrechten auffindbar; der "Report
+    on Copyright and Artificial Intelligence" vom 18.03.2026 formuliert nur die Prüfzusage, ob "it would
+    be beneficial to introduce a new digital replica or personality right", und das statement of progress
+    nach s. 137 DUAA 2025 erwähnt digital replicas nur als aufkommendes Thema. Zwei fachanwaltliche Beiträge
+    vom 06. und 10.08.2026 bestätigen den Negativbefund.'
+- id: uk-copyright-ai-prozess-f2
+  datum: 2026-11-30
+  beschreibung: 'Zwischenbericht der Taskforce zur Kennzeichnung KI-generierter Inhalte (HCWS1416: "Herbst
+    2026"). Datum ist ein Platzhalter für das Ende des zugesagten Zeitraums.
+
+    '
+  typ: pruefung
+  jurisdiktion: uk
+  regelwerk: uk-copyright-ai-prozess
+  adressat: KI-Anbieter, Plattformen, Kreativwirtschaft
+  handlungsbedarf: null
+  quelle: https://questions-statements.parliament.uk/written-statements/detail/2026-03-18/hcws1416
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: uk-osa-2023-f1
+  datum: 2027-01-10
+  beschreibung: 'Äußerstes Ende des gesetzlichen Fensters für den Ofcom-Bericht über die Nutzung von App-Stores
+    durch Kinder. Section 161(1) Online Safety Act 2023 verpflichtet Ofcom zu einem Bericht, der insbesondere
+    bewertet, welche Rolle App-Stores dabei spielen, dass Kinder auf kinderschädliche Inhalte, kinderschädliche
+    Suchinhalte oder regulierte pornografische Inhalte stoßen, wie verbreitet und wie wirksam Altersverifikation
+    bei App-Store-Anbietern ist und ob weitergehende Maßnahmen den Kinderschutz verbessern würden. Section
+    161(3) bestimmt das Fenster: frühestens zwei, spätestens drei Jahre nach dem Inkrafttreten der Sections
+    12 und 29. Beide traten am 10.01.2024 in Kraft (S.I. 2023/1420, reg. 2(d) und 2(j)); das Fenster läuft
+    daher vom 10.01.2026 bis zum 10.01.2027. Eine Berechnung ''drei Jahre nach Royal Assent'' (26.10.2026)
+    trifft nicht zu; Section 161(3) knüpft an das Inkrafttreten der Sections 12 und 29 an, nicht an den
+    Royal Assent. Ofcom hat im Juli 2026 den gesetzlichen Bericht zur Altersverifikation (s. 157) veröffentlicht;
+    der App-Store-Bericht steht bei Rechercheschluss aus.
+
+    '
+  typ: pruefung
+  jurisdiktion: uk
+  regelwerk: uk-osa-2023
+  adressat: Ofcom, Regierung, Parlament
+  handlungsbedarf: null
+  quelle: https://www.legislation.gov.uk/ukpga/2023/50/section/161
+  verifiziert: true
+  fundstelle_norm: s. 161(3) Online Safety Act 2023 i.V.m. der Inkraftsetzung der ss. 12, 29 durch S.I.
+    2023/1420, reg. 2(d), 2(j) (10.01.2024)
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: uk-regulating-for-growth-bill-f1
+  datum: 2027-05-31
+  beschreibung: 'Sessionsende 2026-27: Bis dahin muss die Regulating for Growth Bill eingebracht sein
+    und alle Stadien durchlaufen haben, sonst verfällt sie wie die KI-Entwürfe der Vorsession. Datum geschätzt
+    aus dem Sessionsrhythmus, nicht amtlich bestätigt.
+
+    '
+  typ: sonstiges
+  jurisdiktion: uk
+  regelwerk: uk-regulating-for-growth-bill
+  adressat: Regierung, Parlament, Regulierer, KI-Anbieter
+  handlungsbedarf: Einbringung und Gesetzestext beobachten; die Sandbox-Befugnis ist ohne Text nicht bewertbar.
+  quelle: https://commonslibrary.parliament.uk/research-briefings/cbp-10893/
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30

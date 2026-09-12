@@ -1,0 +1,41 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Erzeugt, nicht gepflegt: build.py baut beides aus data/. Der Pages-Lauf
+# erzeugt sie vor jeder Veroeffentlichung neu, taeglich und bei jeder
+# Aenderung. Eingecheckt wuerde data.json bei jeder Datenaenderung mit rund
+# 9 MB in die Historie wandern und das Repo binnen Monaten aufblaehen.
+app/data.json
+app/fristen.ics
+
+# tracker/zustand.json und tracker/gemeldete_fristen.json stehen hier
+# ABSICHTLICH NICHT: der Tracker sichert sie nach jedem Lauf mit
+# "git add -A tracker/" zurueck ins Repo. Waeren sie ignoriert, waere jeder
+# Lauf wieder ein Erstlauf - und ein Erstlauf meldet nichts.
+_bestand.tar.gz
+*.tar.gz
+
+# Persoenliche Schicht und Rohmaterial. Diese Dateien duerfen im
+# Arbeitsordner liegen, gehen aber nie in einen Commit. Der Eintrag ist ein
+# Netz, kein Ersatz fuer den Blick vor dem Push.
+_research/
+_recherche/
+lernen/
+output/
+CHARTA.md
+STAND.md
+JOURNAL.md
+STARTPROMPT*.md
+docs/STAND.md
+docs/JOURNAL.md
+docs/EINRICHTUNG.md
+docs/STARTPROMPT*.md
+docs/ARBEITSTEILUNG.md
+docs/BETRIEB.md
+data/lernen/
+data/fristen/lernen.yaml
+
+# Erzeugte Grossdateien: vorschau.html enthielt frueher persoenliche Stellen.
+docs/vorschau.html
+docs/anleitung.html

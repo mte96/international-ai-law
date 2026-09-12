@@ -1,0 +1,119 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: vn-ki-gesetz-134-2025-f1
+  datum: 2027-03-01
+  beschreibung: 'Ablauf der Übergangsfrist nach Điều 35 Luật Trí tuệ nhân tạo für KI-Systeme außerhalb
+    der Sektoren Gesundheit, Bildung und Finanzen, die vor dem 01.03.2026 in Betrieb genommen wurden (12
+    Monate).
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: vn
+  regelwerk: vn-ki-gesetz-134-2025
+  adressat: Anbieter (nhà cung cấp) und Betreiber (bên triển khai) von KI-Systemen in Vietnam
+  handlungsbedarf: 'Fristlänge am amtlichen Text prüfen — sie stammt bisher nur aus einer nichtamtlichen
+    englischen Übersetzung.
+
+    '
+  quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Law-134-2025-QH15-Artificial-Intelligence-689735.aspx
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: vn-ki-gesetz-134-2025-f2
+  datum: 2027-09-01
+  beschreibung: 'Ablauf der Übergangsfrist nach Điều 35 Luật Trí tuệ nhân tạo für KI-Systeme in den Sektoren
+    Gesundheit, Bildung und Finanzen, die vor dem 01.03.2026 in Betrieb genommen wurden (18 Monate).
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: vn
+  regelwerk: vn-ki-gesetz-134-2025
+  adressat: Anbieter und Betreiber von KI-Systemen im Gesundheits-, Bildungs- und Finanzsektor Vietnams
+  handlungsbedarf: Fristlänge am amtlichen Text prüfen.
+  quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Law-134-2025-QH15-Artificial-Intelligence-689735.aspx
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: id-uu-pdp-27-2022-f1
+  datum: 2026-12-31
+  beschreibung: 'Angekündigte Errichtung der eigenständigen indonesischen Datenschutzbehörde (Lembaga
+    Pelindungan Data Pribadi). Bis dahin nimmt das Kementerian Komunikasi dan Digital die Aufgaben übergangsweise
+    wahr. Ohne diese Behörde gibt es in Indonesien keine eigenständige Aufsicht über KI-gestützte Datenverarbeitung.
+
+    '
+  typ: sonstiges
+  jurisdiktion: id
+  regelwerk: id-uu-pdp-27-2022
+  adressat: Regierung der Republik Indonesien; mittelbar alle Verantwortlichen
+  handlungsbedarf: 'Beobachten, ob der Errichtungsakt (voraussichtlich eine Peraturan Presiden) ergeht;
+    das Datum ist eine Ankündigung, kein gesetzlicher Stichtag.
+
+    '
+  quelle: https://www.dlapiperdataprotection.com/index.html?t=law&c=ID
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: th-ai-act-entwurf-f1
+  datum: 2026-08-14
+  beschreibung: 'Ende der öffentlichen Konsultation der ETDA über den Entwurf des thailändischen KI-Gesetzes
+    ((ร่าง) พระราชบัญญัติว่าด้วยปัญญาประดิษฐ์ พ.ศ. ....). ABGELAUFEN. Nächster Verfahrensschritt: Staatsrat
+    und Kabinett, danach Einbringung ins Parlament (angekündigt für September 2026).
+
+    '
+  typ: konsultation
+  jurisdiktion: th
+  regelwerk: th-ai-act-entwurf
+  adressat: Öffentlichkeit, Unternehmen, Verbände
+  handlungsbedarf: 'Prüfen, ob der Entwurf inzwischen dem Staatsrat vorliegt oder ins Parlament eingebracht
+    wurde.
+
+    '
+  quelle: https://aitoolkit.rajahtannasia.com/2026/07/28/thailands-proposed-ai-law-moving-towards-a-risk-based-regulatory-framework/
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: my-ai-governance-bill-f1
+  datum: 2026-07-31
+  beschreibung: 'Ende der öffentlichen Konsultation des National AI Office über das malaysische AI Governance
+    Bill. ABGELAUFEN. Die Einbringung ins Parlament war für 2026 angekündigt.
+
+    '
+  typ: konsultation
+  jurisdiktion: my
+  regelwerk: my-ai-governance-bill
+  adressat: Öffentlichkeit, Unternehmen, Verbände
+  handlungsbedarf: 'Prüfen, ob der Gesetzentwurf im Dewan Rakyat eingebracht wurde (parlimen.gov.my).
+
+    '
+  quelle: https://www.rahmatlim.com/perspectives/articles/33264/mykh-national-ai-office-issues-public-consultation-paper-on-proposed-artificial-intelligence-ai-governance-bill
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: my-pdp-admp-leitlinie-f1
+  datum: 2025-05-19
+  beschreibung: 'Ende der Konsultation über die malaysische Leitlinie zu automatisierter Entscheidungsfindung
+    und Profilbildung (Public Consultation Paper No. 3/2025). ABGELAUFEN. Ob die Endfassung ergangen ist,
+    ist ungeklärt — sie würde KI und generative KI ausdrücklich als Instrument automatisierter Entscheidungsfindung
+    erfassen.
+
+    '
+  typ: konsultation
+  jurisdiktion: my
+  regelwerk: my-pdp-admp-leitlinie
+  adressat: Verantwortliche (data controllers) in Malaysia
+  handlungsbedarf: 'Bei der Datenschutzbehörde prüfen, ob die Endfassung veröffentlicht wurde. Das ist
+    die wichtigste offene malaysische Recherche.
+
+    '
+  quelle: https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/JPDP-FSB-200325-ADMP-PCP-ENG-TC.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []

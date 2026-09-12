@@ -1,0 +1,2857 @@
+regelwerke:
+- id: au-safe-responsible-ai-2023
+  jurisdiktion: au
+  kurztitel: Safe and Responsible AI — Discussion Paper und Interim Response
+  offizieller_titel: 'Safe and Responsible AI in Australia — Discussion Paper (Juni 2023) und Safe and
+    Responsible AI in Australia consultation — Australian Government''s interim response (17. Januar 2024)
+
+    '
+  fundstelle: Department of Industry, Science and Resources (DISR)
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Historischer Ausgangspunkt, heute überholt. Das Discussion Paper (Juni 2023) und die
+    Interim Response (17.01.2024) begründeten den risikobasierten Ansatz und kündigten verbindliche Guardrails
+    für Hochrisiko-Anwendungen an. Dieser Pfad wurde am 02.12.2025 mit dem National AI Plan aufgegeben.
+
+    '
+  kurzbeschreibung: 'Das Discussion Paper 2023 stellte zur Konsultation, ob Australien KI mit bestehenden
+    Gesetzen, mit sektoralen Anpassungen oder mit einem eigenen KI-Gesetz regulieren solle; es gingen
+    über 500 Stellungnahmen ein. Die Interim Response vom 17.01.2024 zog daraus den Schluss, dass bestehendes
+    Recht Lücken aufweist, kündigte verbindliche Guardrails für "high-risk settings" an, richtete eine
+    temporäre AI Expert Group ein und stellte einen freiwilligen Sicherheitsstandard in Aussicht. Sanktionen
+    enthielt keines der Dokumente — es handelt sich um Politikpapiere ohne Bindungswirkung.
+
+    '
+  inkrafttreten:
+    datum: 2024-01-17
+    verifiziert: true
+    quelle: https://www.industry.gov.au/news/australian-governments-interim-response-safe-and-responsible-ai-consultation
+    fundstelle_norm: Kein Rechtsakt. Massgeblich ist die Veroeffentlichung der Interim Response des Department
+      of Industry, Science and Resources am 17.01.2024 (das Discussion Paper stammt von Juni 2023)
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Discussion Paper Juni 2023: Konsultation über Regulierungsoptionen, über 500 Submissions.'
+  - 'Interim Response 17.01.2024: Bekenntnis zu verbindlichen Guardrails für Hochrisiko-KI.'
+  - Einsetzung einer temporären AI Expert Group zur Beratung der Regierung.
+  - 'Ankündigung eines freiwilligen Sicherheitsstandards (später: VAISS, 05.09.2024).'
+  - Kein eigenes KI-Gesetz zugesagt; Präferenz für Anpassung bestehenden Rechts.
+  dokumente:
+  - datum: 2024-01-17
+    typ: bericht
+    titel: Safe and Responsible AI in Australia — Interim Response (Zusammenfassung)
+    url: https://securiti.ai/blog/safe-and-responsible-ai-in-australia/
+    sprache: en
+    urheber: Securiti (Sekundärquelle zur Regierungsantwort)
+    verifiziert: true
+    notiz: 'Primärquelle industry.gov.au war nicht abrufbar; diese Sekundärquelle fasst die Interim Response
+      zusammen.
+
+      '
+  offene_punkte:
+  - Primärdokumente auf industry.gov.au nicht abrufbar (robots/403).
+  - Genaues Datum des Discussion Paper (Juni 2023) nicht taggenau verifiziert.
+  monitoring_quellen:
+  - https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence
+  bezug_regelwerke:
+  - au-vaiss-2024
+  - au-guardrails-proposals-2024
+  - au-national-ai-plan-2025
+  letzte_pruefung: 2026-08-27
+  pruefvermerk:
+  - 'Bestaetigt. Status softlaw bestaetigt, inhaltlich ueberholt: Der angekuendigte Pfad verbindlicher
+    Guardrails wurde mit dem National AI Plan vom 02.12.2025 aufgegeben. Ein foermlicher Aufhebungsakt
+    existiert nicht, daher bleibt der Status softlaw und nicht ''aufgehoben''.'
+- id: au-vaiss-2024
+  jurisdiktion: au
+  kurztitel: Voluntary AI Safety Standard (VAISS) — zehn Guardrails
+  offizieller_titel: Voluntary AI Safety Standard
+  fundstelle: National AI Centre (NAIC), Department of Industry, Science and Resources
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Am 05.09.2024 veröffentlicht, weiterhin in Kraft als freiwilliger Standard ohne Bindungswirkung.
+    Im Dezember 2025 aktualisiert; seit 21.10.2025 durch die "Guidance for AI Adoption" (sechs "essential
+    practices") des NAIC ergänzt bzw. praktisch abgelöst.
+
+    '
+  kurzbeschreibung: 'Der VAISS richtet sich an alle Organisationen, die KI entwickeln oder einsetzen,
+    und formuliert zehn Guardrails von Governance und Risikomanagement über Tests, menschliche Aufsicht
+    und Transparenz bis zu Dokumentation und Stakeholder-Einbindung. Guardrails 1 bis 9 sind wortgleich
+    mit den 2024 vorgeschlagenen verbindlichen Guardrails; nur Guardrail 10 unterscheidet sich (Stakeholder-
+    Einbindung statt Konformitätsbewertung). Der Standard ist ausdrücklich freiwillig, es gibt keine Sanktionen,
+    keine Aufsichtsbehörde und keinen Registrierungsmechanismus.
+
+    '
+  inkrafttreten:
+    datum: 2024-09-05
+    verifiziert: true
+    quelle: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
+  anwendungsdaten:
+  - datum: 2024-09-05
+    was_gilt: Veröffentlichung des VAISS mit zehn Guardrails (freiwillig).
+    verifiziert: true
+    quelle: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
+  - datum: 2025-10-21
+    was_gilt: 'NAIC veröffentlicht "Guidance for AI Adoption" (AI6) mit sechs "essential practices"; verdichtet
+      und aktualisiert den VAISS.
+
+      '
+    verifiziert: true
+    quelle: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
+  themenachsen:
+  - governance
+  - gpai
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Guardrail 1: Rechenschaftsprozesse, Governance, Compliance-Strategie.'
+  - 'Guardrail 2: Risikomanagementprozess zur Identifikation und Minderung von Risiken.'
+  - 'Guardrail 3: Schutz der KI-Systeme, Data Governance, Datenqualität und -provenienz.'
+  - 'Guardrail 4: Test und Evaluation der Modelle, Monitoring nach dem Einsatz.'
+  - 'Guardrail 5: Menschliche Kontrolle und Eingriffsmöglichkeit (meaningful oversight).'
+  - 'Guardrail 6: Information der Endnutzer über KI-gestützte Entscheidungen und KI-Inhalte.'
+  - 'Guardrail 7: Verfahren, mit denen Betroffene KI-Einsatz oder -Ergebnisse anfechten können.'
+  - 'Guardrail 8: Transparente Informationsweitergabe entlang der KI-Lieferkette.'
+  - 'Guardrail 9: Aufzeichnungen, die eine Konformitätsbewertung durch Dritte ermöglichen.'
+  - 'Guardrail 10: Stakeholder-Einbindung mit Fokus auf Sicherheit, Diversität, Inklusion, Fairness.'
+  - 'Wichtig: kein Anhang mit Hochrisiko-Kategorien, keine Sanktion, keine Behörde.'
+  dokumente:
+  - datum: 2024-09-05
+    typ: norm
+    titel: Voluntary AI Safety Standard — die zehn Guardrails im Überblick
+    url: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
+    sprache: en
+    urheber: SafeAI-Aus (Aufbereitung des NAIC-Standards)
+    verifiziert: true
+    notiz: Vollständige Wiedergabe der zehn Guardrails und des Aktualisierungsstands 2026.
+  - datum: 2024-09-05
+    typ: uebersicht
+    titel: Australia releases new mandatory guardrails and voluntary standards on AI
+    url: https://www.hsfkramer.com/insights/2024-09/australia-releases-new-mandatory-guardrails-and-voluntary-standards-on-ai
+    sprache: en
+    urheber: Herbert Smith Freehills Kramer
+    verifiziert: true
+    notiz: Ordnet VAISS und Proposals Paper vom selben Tag zueinander ein.
+  offene_punkte:
+  - Verhältnis des VAISS zu den künftigen verbindlichen Australian Standards for AI ungeklärt.
+  - Ob der VAISS mit dem Gesetz 2027 aufgehoben oder inkorporiert wird, ist offen.
+  monitoring_quellen:
+  - https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence
+  bezug_regelwerke:
+  - au-guardrails-proposals-2024
+  - au-national-ai-plan-2025
+  - au-standards-for-ai-2026
+  letzte_pruefung: 2026-08-27
+- id: au-guardrails-proposals-2024
+  jurisdiktion: au
+  kurztitel: Proposals Paper — verbindliche Guardrails für Hochrisiko-KI
+  offizieller_titel: 'Safe and responsible AI in Australia — Proposals paper for introducing mandatory
+    guardrails for AI in high-risk settings
+
+    '
+  fundstelle: Department of Industry, Science and Resources (DISR)
+  verfahrensnummer: null
+  status: gescheitert
+  status_detail: 'AUFGEGEBEN. Das Proposals Paper vom 05.09.2024 schlug zehn verbindliche Guardrails und
+    drei Umsetzungsoptionen vor (darunter ein eigener Australian AI Act). Es kam weder ein Gesetzentwurf
+    noch ein AI Act zustande: Mit dem National AI Plan vom 02.12.2025 hat die Regierung den Ansatz ausdrücklich
+    verworfen und durch technologieneutrale Anpassung bestehenden Rechts ersetzt. Die Regierungsantwort
+    auf den Senatsausschuss vom 01.04.2026 bestätigte die Absage an ein eigenständiges KI-Gesetz.
+
+    '
+  kurzbeschreibung: 'Das Papier definierte Hochrisiko-KI in zwei Kategorien (bekannte Anwendungsrisiken
+    für Rechte, Gesundheit, Rechtsstellung sowie breite wirtschaftliche und gesellschaftliche Auswirkungen;
+    sowie General-Purpose-KI-Modelle als eigene Kategorie) und schlug zehn verbindliche Guardrails vor,
+    die inhaltlich dem VAISS entsprachen, aber statt Stakeholder-Einbindung eine Konformitätsbewertung
+    verlangten. Zur Umsetzung standen drei Optionen zur Wahl: eine domänenspezifische Einbettung in Fachgesetze,
+    ein Rahmengesetz ("framework approach") oder ein eigenes KI-Gesetz mit neuer Behörde ("whole-of-economy").
+    Keine der Optionen wurde umgesetzt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.corrs.com.au/insights/australia-releases-proposed-mandatory-guardrails-for-ai-regulation
+  anwendungsdaten:
+  - datum: 2024-09-05
+    was_gilt: Veröffentlichung des Proposals Paper, Beginn der Konsultation.
+    verifiziert: true
+    quelle: https://www.corrs.com.au/insights/australia-releases-proposed-mandatory-guardrails-for-ai-regulation
+  - datum: 2025-12-02
+    was_gilt: 'National AI Plan ersetzt den Guardrails-Ansatz durch technologieneutrale Anpassung bestehenden
+      Rechts — faktisches Ende des Vorhabens.
+
+      '
+    verifiziert: true
+    quelle: https://piperalderman.com.au/insight/australia-now-has-a-national-ai-plan-now-what/
+  - datum: 2026-04-01
+    was_gilt: 'Regierungsantwort auf den Senate Select Committee on Adopting AI lehnt ein eigenständiges
+      KI-Gesetz ausdrücklich ab.
+
+      '
+    verifiziert: true
+    quelle: https://www.industry.gov.au/publications/australian-government-response-senate-select-committee-adopting-artificial-intelligence-ai-report
+  themenachsen:
+  - marktzugang
+  - gpai
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - Zehn verbindliche Guardrails, Nr. 1-9 wortgleich mit dem VAISS.
+  - 'Guardrail 10 abweichend: Konformitätsbewertung (conformity assessment) statt Stakeholder-Einbindung.'
+  - 'Hochrisiko-Definition Kategorie 1: prinzipienbasiert, Risiken für Rechte, Gesundheit, Rechtsstellung,
+    Gruppenrechte, Wirtschaft und Gesellschaft.'
+  - 'Hochrisiko-Definition Kategorie 2: General-Purpose-KI-Modelle pauschal, wegen unvorhersehbarer Einsatzkontexte.'
+  - 'Drei Umsetzungsoptionen: domänenspezifisch / Rahmengesetz / eigenes KI-Gesetz mit neuem Regulator.'
+  - 'Warum es scheiterte: Sorge um Innovationshemmnisse, Regulierungsdoppelung, Wahl 2025, Kurswechsel
+    zu Produktivitätsagenda.'
+  dokumente:
+  - datum: 2024-09-05
+    typ: konsultation
+    titel: 'Safe and responsible AI in Australia — Proposals paper for introducing mandatory guardrails
+      for AI in high-risk settings
+
+      '
+    url: https://storage.googleapis.com/converlens-au-industry/industry/p/prj2f6f02ebfe6a8190c7bdc/page/proposals_paper_for_introducing_mandatory_guardrails_for_ai_in_high_risk_settings.pdf
+    sprache: en
+    urheber: Australian Government, DISR
+    verifiziert: false
+    notiz: 'Primär-PDF der Regierung. URL aus Suchergebnis, Abruf in dieser Sitzung nicht durchgeführt
+      — vor Zitat prüfen.
+
+      '
+  - datum: 2024-09-09
+    typ: uebersicht
+    titel: Australia releases proposed mandatory guardrails for AI regulation
+    url: https://www.corrs.com.au/insights/australia-releases-proposed-mandatory-guardrails-for-ai-regulation
+    sprache: en
+    urheber: Corrs Chambers Westgarth
+    verifiziert: true
+    notiz: Detaillierte Wiedergabe der zehn Guardrails, der Hochrisiko-Definition und der drei Optionen.
+  - datum: 2026-04-01
+    typ: stellungnahme
+    titel: 'Australian Government response: Senate Select Committee on Adopting AI report'
+    url: https://www.industry.gov.au/publications/australian-government-response-senate-select-committee-adopting-artificial-intelligence-ai-report
+    sprache: en
+    urheber: Australian Government, DISR
+    verifiziert: true
+    notiz: Belegt die ausdrückliche Absage an ein eigenständiges KI-Gesetz.
+  offene_punkte:
+  - 'Zu beobachten, ob die 2027 erwarteten Australian Standards for AI inhaltlich auf die zehn Guardrails
+    zurückgreifen.
+
+    '
+  monitoring_quellen:
+  - https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence
+  bezug_regelwerke:
+  - au-vaiss-2024
+  - au-national-ai-plan-2025
+  - au-standards-for-ai-2026
+  - au-select-cttee-adopting-ai-2024
+  letzte_pruefung: 2026-08-27
+- id: au-national-ai-plan-2025
+  jurisdiktion: au
+  kurztitel: National AI Plan 2025
+  offizieller_titel: National Artificial Intelligence Plan
+  fundstelle: Australian Government, Department of Industry, Science and Resources
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Am 02.12.2025 veröffentlicht. Politische Strategie ohne Bindungswirkung. Entscheidend:
+    Der Plan gibt die 2024 zugesagten verbindlichen Guardrails ausdrücklich auf und ersetzt sie durch
+    ein zweigleisiges Vorgehen — Klärung und Ertüchtigung bestehender, technologieneutraler Gesetze plus
+    Leitlinien. Der ursprünglich angekündigte "National AI Capability Plan" ist in diesem Plan aufgegangen;
+    ein separates Dokument dieses Namens existiert nicht.
+
+    '
+  kurzbeschreibung: 'Der National AI Plan formuliert drei Ziele: Chancen nutzen (Infrastruktur, Investitionen),
+    Nutzen verbreiten (Qualifikation, Adoption in KMU und Non-Profits) und Australier schützen (Sicherheit
+    und Vertrauen). Er bündelt über 460 Mio. AUD aus bestehenden Programmen, richtet einen CRC AI Accelerator
+    ein, verlangt Chief AI Officers im öffentlichen Dienst und schafft das Australian AI Safety Institute.
+    Regulatorisch verzichtet er auf KI-spezifische Gesetzgebung; stattdessen sollen Fachregulatoren Lücken
+    in ihren Bereichen schließen. Sanktionen enthält der Plan keine — seine Wirkung ist rein programmatisch.
+
+    '
+  inkrafttreten:
+    datum: 2025-12-02
+    verifiziert: true
+    quelle: https://membership.acs.org.au/member-insight/2025-12-02-Australia-s-New-National-AI-Plan-Top-9-Highlights.html
+  anwendungsdaten:
+  - datum: 2025-12-02
+    was_gilt: 'Veröffentlichung des Plans; Aufgabe des Guardrails-Ansatzes zugunsten technologieneutraler
+      Regulierung.
+
+      '
+    verifiziert: true
+    quelle: https://piperalderman.com.au/insight/australia-now-has-a-national-ai-plan-now-what/
+  themenachsen:
+  - governance
+  - marktzugang
+  - arbeit
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Drei Säulen: Chancen nutzen / Nutzen verbreiten / Australier schützen.'
+  - Über 460 Mio. AUD aus bestehenden Programmen für KI-Forschung, Innovation, Qualifikation.
+  - Ausdrückliche Absage an ein eigenständiges KI-Gesetz ('regulation by evolution').
+  - Einrichtung des Australian AI Safety Institute (rund 29,8-29,9 Mio. AUD über 4 Jahre).
+  - Chief AI Officers in Commonwealth-Behörden.
+  - Leitlinien zur Kennzeichnung KI-generierter Inhalte angekündigt.
+  - 'Kritik: keine messbaren Erfolgsindikatoren, Infrastruktur- und Datenschutzfragen offen.'
+  dokumente:
+  - datum: 2025-12-02
+    typ: bericht
+    titel: Australia's New National AI Plan — Top 9 Highlights
+    url: https://membership.acs.org.au/member-insight/2025-12-02-Australia-s-New-National-AI-Plan-Top-9-Highlights.html
+    sprache: en
+    urheber: Australian Computer Society (ACS)
+    verifiziert: true
+    notiz: Datiert die Veröffentlichung taggenau und listet die neun Kernpunkte.
+  - datum: 2025-12-08
+    typ: stellungnahme
+    titel: Australia now has a National AI Plan. Now What?
+    url: https://piperalderman.com.au/insight/australia-now-has-a-national-ai-plan-now-what/
+    sprache: en
+    urheber: Piper Alderman
+    verifiziert: true
+    notiz: 'Belegt ausdrücklich, dass die 2024 zugesagten mandatory guardrails mit diesem Plan aufgegeben
+      wurden.
+
+      '
+  - datum: 2025-12-05
+    typ: uebersicht
+    titel: 'Australia''s National AI Plan: big ambitions, but light on details'
+    url: https://www.whitecase.com/insight-alert/australias-national-ai-plan-big-ambitions-light-details
+    sprache: en
+    urheber: White & Case LLP
+    verifiziert: true
+    notiz: Kritische Einordnung; benennt die Regelungslücken des Plans.
+  offene_punkte:
+  - 'Der Plan wurde nach nur sieben Monaten durch die Ankündigung verbindlicher Australian Standards for
+    AI (15.07.2026) teilweise überholt — Verhältnis beider Dokumente ungeklärt.
+
+    '
+  - Kein separater 'National AI Capability Plan' erschienen; im National AI Plan aufgegangen.
+  monitoring_quellen:
+  - https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence
+  bezug_regelwerke:
+  - au-guardrails-proposals-2024
+  - au-standards-for-ai-2026
+  - au-aisi-2026
+  letzte_pruefung: 2026-08-27
+- id: au-standards-for-ai-2026
+  jurisdiktion: au
+  kurztitel: Australian Standards for AI (angekündigt)
+  offizieller_titel: Australian Standards for AI
+  fundstelle: Ankündigung des Premierministers vom 15. Juli 2026; noch kein Gesetzestext
+  verfahrensnummer: null
+  status: idee
+  status_detail: 'KEHRTWENDE. Premierminister Albanese kündigte am 15.07.2026 verbindliche, national einheitliche
+    "Australian Standards for AI" an — nach der Absage an verbindliche Regeln nur sieben Monate zuvor.
+    Gleichzeitig wurde mit sofortiger Wirkung ein Office of AI im Department of the Prime Minister and
+    Cabinet eingerichtet. Das National Cabinet sollte die Standards im August 2026 behandeln; Gesetzentwürfe
+    werden für Anfang 2027 erwartet. Es existiert heute (27.08.2026) KEIN Gesetzestext und kein Exposure
+    Draft.
+
+    Stand 07.09.2026: Das National Cabinet hat am 26.08.2026 — alle neun Regierungen — die Entwicklung
+    "consistent mandatory standards for data centre energy, water and land-use" gemeinsam beschlossen
+    und Ausbildungs- und Qualifizierungsmaßnahmen zugesagt. Das ist die erste gemeinsame Befassung von
+    Bund und Ländern mit dem am 15.07.2026 angekündigten Vorhaben. Wörtlich aus dem Kommuniqué: "The Commonwealth
+    intends to legislate the AI standards in early 2027, including conditions associated with delivering
+    AI training." Die Bundesregelung soll die Planungs- und Genehmigungsverfahren der Länder "complement,
+    not duplicate". Ein Entwurfstext und ein Konsultationspapier liegen weiterhin nicht vor; consult.industry.gov.au
+    weist keine laufende Konsultation aus.
+
+    '
+  kurzbeschreibung: 'Angekündigt ist ein bundesweit einheitlicher, verbindlicher Standardrahmen mit drei
+    Schwerpunkten. Erstens Rechenzentren: Großbetreiber sollen neue Stromversorgung selbst unterlegen
+    und die vollen Netzanschlusskosten tragen, den Verbrauch bei Netzengpässen senken, eigene Erzeugung
+    aufbauen (Ziel: Netto-Energieerzeuger) und Wassereffizienz sicherstellen; hinzu treten Standortauflagen,
+    damit Rechenzentren nicht mit Wohnbau konkurrieren. Zweitens Urheberrecht: Künstler, Autoren, Musiker
+    und Journalisten sollen Eigentum und Kontrolle über die Nutzung ihrer Werke behalten; kein Unternehmen
+    soll australische Kreativwerke ohne Zustimmung zum KI-Training nutzen dürfen. Drittens Verbrauchersicherheit
+    als ressortübergreifender Ansatz. Sanktionen sind noch nicht bekannt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.pm.gov.au/media/ai-australias-interests
+  anwendungsdaten:
+  - datum: 2026-07-15
+    was_gilt: 'Ankündigung der Australian Standards for AI; Office of AI im Department of the Prime Minister
+      and Cabinet mit sofortiger Wirkung eingerichtet.
+
+      '
+    verifiziert: true
+    quelle: https://www.pm.gov.au/media/ai-australias-interests
+  - datum: 2026-08-01
+    was_gilt: 'Befassung des National Cabinet im August 2026 angekündigt (kein taggenaues Datum in der
+      Primärquelle).
+
+      '
+    verifiziert: false
+    quelle: https://www.pm.gov.au/media/ai-australias-interests
+  themenachsen:
+  - marktzugang
+  - governance
+  - urheberrecht
+  - gpai
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Erklärtes Ziel: ''clear, consistent and mandatory'' — national einheitlich, verbindlich.'
+  - 'Rechenzentren: Selbstunterlegung neuer Stromversorgung, volle Anschlusskosten, Lastreduktion bei
+    Netzengpässen, Wassereffizienz, Ziel Netto-Energieerzeuger.'
+  - 'Standortsteuerung: keine Konkurrenz mit Wohnbauflächen.'
+  - 'Urheberrecht: Kontrolle der Kreativen über Nutzung und Preis; kein Training ohne Zustimmung.'
+  - Office of AI im PM&C koordiniert Standardentwicklung ressortübergreifend.
+  - 'Zitat Albanese: ''This world leading framework is about Australia choosing to shape the future rather
+    than letting the future of AI shape us.'''
+  - Gesetzgebung angekündigt für Anfang 2027 — kein Datum, kein Entwurf.
+  dokumente:
+  - datum: 2026-07-15
+    typ: pressemitteilung
+    titel: AI in Australia's interests
+    url: https://www.pm.gov.au/media/ai-australias-interests
+    sprache: en
+    urheber: Prime Minister of Australia (Anthony Albanese), Senator Tim Ayres, Dr Andrew Charlton
+    verifiziert: true
+    notiz: PRIMÄRQUELLE der Ankündigung. Nennt Office of AI, Rechenzentrumsauflagen und Zeitplan.
+  - datum: 2026-07-17
+    typ: uebersicht
+    titel: Commonwealth Government announces establishment of Australian Standards for AI
+    url: https://www.maddocks.com.au/insights/commonwealth-government-announces-establishment-of-australian-standards-for-ai
+    sprache: en
+    urheber: Maddocks
+    verifiziert: true
+    notiz: Juristische Einordnung; bestätigt verbindlichen Charakter und Zeitplan 2027.
+  - datum: 2026-07-16
+    typ: uebersicht
+    titel: 'Prime Minister announces national AI regulation: key takeaways'
+    url: https://www.gadens.com/legal-insights/prime-minister-announces-national-ai-regulation-key-takeaways-for-investors-developers-and-operators/
+    sprache: en
+    urheber: Gadens
+    verifiziert: true
+    notiz: Detaillierte Aufschlüsselung der drei Rechenzentrumsauflagen und der IP-Zusagen.
+  - datum: 2026-07-16
+    typ: pressemitteilung
+    titel: Office of AI announced by Federal Government
+    url: https://www.dundaslawyers.com.au/office-of-ai-announced-by-federal-government/
+    sprache: en
+    urheber: Dundas Lawyers
+    verifiziert: true
+    notiz: Belegt Aufnahme der Tätigkeit des Office of AI am 15.07.2026 und Bezug zum AISI.
+  offene_punkte:
+  - 'KRITISCH: Kein Gesetzestext, kein Exposure Draft, kein Konsultationsverfahren bekannt.'
+  - Ergebnis der National-Cabinet-Befassung im August 2026 nicht abschließend verifizierbar.
+  - Sanktionsregime, Adressatenkreis außerhalb von Rechenzentren und Verhältnis zum VAISS offen.
+  - Ob 'Standards' Rechtsnormen oder technische Normen (Standards Australia) meint, ist begrifflich unklar.
+  monitoring_quellen:
+  - https://www.pm.gov.au/media
+  - https://www.minister.industry.gov.au/t-ayres/media
+  bezug_regelwerke:
+  - au-national-ai-plan-2025
+  - au-vaiss-2024
+  - au-copyright-act-1968
+  - au-consumer-safety-priorities-2026
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Amtliches Kommuniqué des National Cabinet vom 26.08.2026 (pm.gov.au) abgerufen. Es bestätigt
+    Ankündigungsdatum (15.07.2026), Regelungsziel und Zeitplan (Gesetzgebung Anfang 2027), enthält aber
+    keinen Konsultationszeitplan. Die allgemeine KI-Seite von industry.gov.au erwähnt die Australian Standards
+    for AI nicht und führt nur die AI Ethics Principles und den VAISS. Inhaltlich bislang nur in Stichworten
+    bekannt: Betreiber großer Rechenzentren als Netto-Erzeuger, volle Übernahme von Anschluss- und Übertragungskosten,
+    Lastreduktion zur Netzstabilisierung, Wassereffizienz und Infrastrukturbeiträge, Standortsteuerung.'
+- id: au-aisi-2026
+  jurisdiktion: au
+  kurztitel: Australian AI Safety Institute (AISI)
+  offizieller_titel: Australia's AI Safety Institute
+  fundstelle: Department of Industry, Science and Resources
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Im National AI Plan (02.12.2025) angekündigt, Anfang 2026 aufgebaut, seit Juni 2026
+    operativ. Kate Conroy wurde im Mai 2026 zur ersten General Managerin ernannt. Das Institut hat KEINE
+    Regulierungs- oder Sanktionsbefugnisse; es evaluiert, forscht und berät.
+
+    '
+  kurzbeschreibung: 'Das AISI ist mit rund 29,8 bis 29,9 Mio. AUD über vier Jahre ausgestattet und testet
+    fortgeschrittene ("frontier") KI-Modelle, zum Teil vor deren Veröffentlichung und in Zusammenarbeit
+    mit dem Australian Signals Directorate. Es berät die Regierung zu Regulierungslücken, veröffentlicht
+    Forschung und Sicherheitsbenchmarks und ist Teil des International Network of AI Safety Institutes.
+    Es erlässt keine verbindlichen Vorgaben und kann keine Sanktionen verhängen — seine Bedeutung liegt
+    in der Vorbereitung künftiger Regulierung.
+
+    '
+  inkrafttreten:
+    datum: 2025-11-25
+    verifiziert: true
+    quelle: https://www.minister.industry.gov.au/ministers/timayres/media-releases/establishment-australian-ai-safety-institute
+    fundstelle_norm: Kein Rechtsakt mit Inkrafttretensvorschrift. Massgeblich ist die gemeinsame Medienmitteilung
+      des Ministers fuer Industrie und Innovation, Senator Tim Ayres, und des Assistant Minister Dr Andrew
+      Charlton, 'Establishment of Australian AI Safety Institute', vom 25.11.2025
+  anwendungsdaten:
+  - datum: 2026-05-29
+    was_gilt: Kate Conroy zur ersten General Managerin des AISI ernannt.
+    verifiziert: false
+    quelle: https://www.abc.net.au/news/2026-05-29/kate-conroy-leading-ai-safety-institute/106736306
+  - datum: 2026-06-01
+    was_gilt: AISI operativ (Monatsangabe, kein taggenaues Datum belegt).
+    verifiziert: false
+    quelle: https://www.dundaslawyers.com.au/office-of-ai-announced-by-federal-government/
+  themenachsen:
+  - governance
+  - gpai
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - Evaluation fortgeschrittener KI-Modelle, auch vor Veroffentlichung; Kooperation mit dem Australian
+    Signals Directorate.
+  - Beratung der Regierung zu Regulierungs- und Compliance-Lücken.
+  - Veröffentlichung von Forschung, Sicherheitsbenchmarks und Branchenleitlinien.
+  - Mitglied im International Network of AI Safety Institutes.
+  - AUSDRÜCKLICH OHNE Hoheitsbefugnisse — rein beratend und evaluierend.
+  dokumente:
+  - datum: 2026-01-15
+    typ: uebersicht
+    titel: Unpacking Australia's New Safety Institute
+    url: https://privacy108.com.au/insights/australia-ai-safety-institute/
+    sprache: en
+    urheber: Privacy 108
+    verifiziert: true
+    notiz: Funktionen, Finanzierung, ausdrückliche Feststellung fehlender Regulierungsbefugnisse.
+  - datum: 2026-05-29
+    typ: pressemitteilung
+    titel: Kate Conroy appointed inaugural general manager of Australian AI Safety Institute
+    url: https://www.abc.net.au/news/2026-05-29/kate-conroy-leading-ai-safety-institute/106736306
+    sprache: en
+    urheber: ABC News
+    verifiziert: false
+    notiz: Personalie. In dieser Sitzung nicht abgerufen — vor Zitat prüfen.
+  offene_punkte:
+  - Verhältnis AISI / Office of AI (PM&C) / National AI Centre nicht abschließend geklärt.
+  - Ob das AISI unter den Australian Standards for AI Aufsichtsaufgaben erhält, ist offen.
+  monitoring_quellen:
+  - https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute
+  bezug_regelwerke:
+  - au-national-ai-plan-2025
+  - au-standards-for-ai-2026
+  letzte_pruefung: 2026-08-27
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war 01.06.2026 — ein Monatsplatzhalter fuer ''seit Juni 2026 operativ''.
+    Die Errichtung wurde bereits am 25.11.2025 durch ministerielle Medienmitteilung verkuendet, also eine
+    Woche VOR dem National AI Plan vom 02.12.2025; auch das status_detail (''Im National AI Plan angekuendigt'')
+    ist danach zu berichtigen. Die Aufnahme des Betriebs im Juni 2026 und die Ernennung von Kate Conroy
+    zur ersten General Managerin (Mai 2026, ABC-Bericht vom 29.05.2026) sind spaetere Schritte, kein Inkrafttreten.
+    Vorher: 2026-06-01.'
+- id: au-jsc-ai-2026
+  jurisdiktion: au
+  kurztitel: Joint Select Committee on Artificial Intelligence
+  offizieller_titel: Joint Select Committee on Artificial Intelligence
+  fundstelle: 'Eingesetzt durch Beschluss (resolution of appointment) beider Häuser des Commonwealth-Parlaments
+    am 20. August 2026
+
+    '
+  verfahrensnummer: null
+  status: verfahren
+  status_detail: 'LAUFEND UND FRISTGEBUNDEN. Am 20.08.2026 durch gleichlautenden Beschluss von House of
+    Representatives und Senat eingesetzt, auf Initiative der Opposition, von der Regierung mitgetragen.
+    Berichtsfrist 30.11.2026 — ein außergewöhnlich kurzes Mandat von gut drei Monaten. Nach Angabe der
+    National Association for the Visual Arts schließt die Einreichungsfrist für Submissions am 14.09.2026.
+
+    Stand 07.09.2026 nach dem Wortlaut der Einsetzungsentschließung beider Häuser vom 20.08.2026: Der
+    Ausschuss hat seinen Abschlussbericht spätestens am 30.11.2026 vorzulegen ("The committee present
+    its final report by no later than 30 November 2026"). Zusammensetzung: zwölf Mitglieder — sechs Abgeordnete
+    (drei Regierung, zwei Opposition, eine Person aus den Minderheitsfraktionen oder unabhängig) und sechs
+    Senatoren im selben Schlüssel; Vorsitz bei der Regierung, stellvertretender Vorsitz bei der Opposition,
+    Stichentscheid des Vorsitzenden. Unterausschüsse ab drei Mitgliedern dürfen öffentliche Anhörungen
+    durchführen. Terms of Reference (Kurzfassung der Beschlusspunkte): (a) Chancen für Resilienz, Produktivität,
+    Wettbewerbsfähigkeit und Lebensstandard; (b) regionale Verteilung und Sektorvorteile in Landwirtschaft,
+    Rohstoffen, Gesundheit, Fertigung und Verteidigung; (c) und (d) Adoptionshemmnisse, besonders für
+    KMU; (e) souveräne Fähigkeiten, Halten von Talent und Investitionen; (f) Datensouveränität und domänenspezifische,
+    auf australischen Daten trainierte Modelle; (g) Arbeitsmarktfolgen und Eignung des Bildungssystems;
+    (h) staatliche Nutzung und Transparenz; (i) Lücken des Regulierungsrahmens; (j) Verhältnis von KI-Training
+    zu Immaterialgüter- und Urheberrecht sowie zu australischen Kreativinhalten; (k) Risiken einschließlich
+    Betrug, Deepfakes und Kinderschutz; (l) nationale Sicherheit, Cybersicherheit, ausländische Einflussnahme
+    und kritische Infrastruktur; (m) Folgen neu entstehender Fähigkeiten für die strategische Resilienz.
+
+    '
+  kurzbeschreibung: 'Der Ausschuss untersucht Risiken und Chancen künstlicher Intelligenz mit einem bewusst
+    weiten Mandat. Er befasst sich mit dem Beitrag von KI zu Innovation, Produktivität und Lebensstandard,
+    mit Adoptionshemmnissen, mit dem Aufbau souveräner KI-Fähigkeit, mit Auswirkungen auf Arbeitsmarkt
+    und Qualifikationen sowie — juristisch am wichtigsten — mit der Angemessenheit des geltenden Rechts
+    einschließlich Urheber- und Immaterialgüterrecht. Hinzu kommen nationale Sicherheit, Datensouveränität,
+    Verbraucherschutz, Deepfakes und Cybersicherheit. Der Ausschuss kann jede von ihm als KI-bezogen angesehene
+    Frage aufgreifen. Er erlässt kein Recht; seine Empfehlungen sind unverbindlich, prägen aber absehbar
+    die für Anfang 2027 erwartete Gesetzgebung.
+
+    '
+  inkrafttreten:
+    datum: 2026-08-20
+    verifiziert: true
+    quelle: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
+  anwendungsdaten:
+  - datum: 2026-08-20
+    was_gilt: 'Einsetzung durch Beschluss beider Häuser des Parlaments.
+
+      '
+    verifiziert: true
+    quelle: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
+  - datum: 2026-09-14
+    was_gilt: 'Ende der Einreichungsfrist für Submissions (nur durch Sekundärquelle NAVA belegt — unbedingt
+      auf aph.gov.au prüfen).
+
+      '
+    verifiziert: false
+    quelle: https://visualarts.net.au/news-opinion/2026/have-your-say-current-inquiries-and-consultations/
+  - datum: 2026-11-30
+    was_gilt: Berichtsfrist des Ausschusses.
+    verifiziert: true
+    quelle: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
+  themenachsen:
+  - governance
+  - urheberrecht
+  - arbeit
+  - grundrechte
+  - content
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'ToR: Beitrag von KI zu Innovation, Produktivität und Lebensstandard.'
+  - 'ToR: Hemmnisse der KI-Adoption.'
+  - 'ToR: Aufbau souveräner KI-Fähigkeit (sovereign AI capability).'
+  - 'ToR: Auswirkungen auf Arbeitskräfte und Qualifikationen.'
+  - 'ToR: Angemessenheit geltender Gesetze und Regulierungsrahmen, ausdrücklich einschließlich Urheber-
+    und Immaterialgüterrecht.'
+  - 'ToR: nationale Sicherheit, Datensouveränität, Verbraucherschutz, Deepfakes, Cybersicherheit.'
+  - 'Weites Auffangmandat: ''a wide remit to review any matters it deems related to AI''.'
+  - 'Politisch: Initiative der Koalition (Hastie, Duniam, Violi), von der Regierung übernommen.'
+  - 'Zeitdruck: gut drei Monate zwischen Einsetzung und Berichtsfrist.'
+  dokumente:
+  - datum: 2026-08-24
+    typ: uebersicht
+    titel: Australia Charts a New Course on AI Regulation and Policy
+    url: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
+    sprache: en
+    urheber: Baker McKenzie
+    verifiziert: true
+    notiz: 'BESTE VERFÜGBARE QUeLLE zu Einsetzungsdatum, Terms of Reference und Berichtsfrist, da aph.gov.au
+      nicht abrufbar war.
+
+      '
+  - datum: 2026-08-20
+    typ: pressemitteilung
+    titel: Establishment of a Joint Select Committee on Artificial Intelligence
+    url: https://www.liberal.org.au/2026/08/20/establishment-of-a-joint-select-committee-on-artificial-intelligence
+    sprache: en
+    urheber: Liberal Party of Australia (Hastie, Duniam, Violi)
+    verifiziert: true
+    notiz: Belegt Datum und politische Genese; ohne ToR-Wortlaut und Fristen.
+  - datum: 2026-08-01
+    typ: uebersicht
+    titel: 'Have your say: current inquiries and consultations'
+    url: https://visualarts.net.au/news-opinion/2026/have-your-say-current-inquiries-and-consultations/
+    sprache: en
+    urheber: National Association for the Visual Arts (NAVA)
+    verifiziert: true
+    notiz: 'EINZIGE gefundene Quelle für die Einreichungsfrist 14.09.2026. NAVA führt zusätzlich die Schwerpunkte
+      Urheberrecht, Datensouveränität, Arbeitsmarkt, Transparenz staatlicher KI-Nutzung und Deepfakes
+      auf.
+
+      '
+  offene_punkte:
+  - 'HANDLUNGSBEDARF: Einreichungsfrist 14.09.2026 nur durch eine Sekundärquelle belegt. Vor Einreichung
+    zwingend auf aph.gov.au verifizieren — die Parlamentsseite war für automatisierte Abrufe gesperrt.
+
+    '
+  - Mitglieder und Vorsitz des Ausschusses konnten nicht ermittelt werden.
+  - Wortlaut der resolution of appointment nicht im Original eingesehen.
+  - Ob öffentliche Anhörungen stattfinden und wann, ist unbekannt.
+  monitoring_quellen:
+  - https://www.aph.gov.au/Parliamentary_Business/Committees
+  - https://www.aph.gov.au/Parliamentary_Business/Committees/Joint
+  bezug_regelwerke:
+  - au-select-cttee-adopting-ai-2024
+  - au-standards-for-ai-2026
+  - au-copyright-act-1968
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Der Einsetzungsbeschluss vom 20.08.2026 liegt in der Hansard-Spiegelung beider Kammern
+    übereinstimmend vor; Terms of Reference, Zusammensetzung und das Berichtsdatum 30.11.2026 sind daraus
+    wörtlich belegt. Die amtliche Ausschussseite aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence
+    lieferte bei drei Abrufversuchen HTTP 403; ob dort bereits Submissions veröffentlicht sind und ob
+    Anhörungen terminiert wurden, war deshalb nicht festzustellen. Der Einreichungsschluss 14.09.2026
+    bleibt unverändert und ist am 05.09.2026 unmittelbar auf aph.gov.au bestätigt worden.'
+- id: au-select-cttee-adopting-ai-2024
+  jurisdiktion: au
+  kurztitel: Senate Select Committee on Adopting AI — Bericht 2024
+  offizieller_titel: 'Select Committee on Adopting Artificial Intelligence (AI) — Final Report; nebst
+    Australian Government response (1. April 2026)
+
+    '
+  fundstelle: 'Australian Senate; Regierungsantwort: DISR'
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'ABGESCHLOSSEN UND WEITGEHEND ZURÜCKGEWIESEN. Der Ausschuss legte am 26.11.2024 seinen
+    Abschlussbericht mit 13 Empfehlungen vor; Empfehlung 1 forderte ein umfassendes KI-Gesetz nach EU-Vorbild.
+    Die Regierung antwortete erst am 01.04.2026 und lehnte ein eigenständiges KI-Gesetz ausdrücklich ab.
+
+    '
+  kurzbeschreibung: 'Der Senatsausschuss untersuchte Chancen und Auswirkungen der KI-Nutzung in Australien
+    und empfahl ein umfassendes KI-Gesetz zur Regulierung von Hochrisiko-KI, ausdrücklich nach europäischem
+    statt US-amerikanischem sektoralem Vorbild. Als hochriskant sollten unter anderem KI am Arbeitsplatz,
+    General-Purpose-KI und automatisierte Entscheidungen mit erheblicher Wirkung gelten. Weiter empfahl
+    er Transparenzpflichten und Vergütungsmechanismen für Rechteinhaber sowie Konsultationen zu fairer
+    Vergütung von Kreativen. Die Regierungsantwort vom 01.04.2026 wies den Kern zurück: bestehende Rahmen
+    (Datenschutz, Verwaltungsrecht, Online Safety, Gesellschaftsrecht, Immaterialgüterrecht, Arbeitsrecht)
+    blieben Fundament; stattdessen AISI und sektorale Eingriffe.
+
+    '
+  inkrafttreten:
+    datum: 2024-11-26
+    verifiziert: true
+    quelle: https://www.minterellison.com/articles/increased-ai-regulation-final-senate-report-key-takeaways
+  anwendungsdaten:
+  - datum: 2024-11-26
+    was_gilt: Vorlage des Abschlussberichts mit 13 Empfehlungen.
+    verifiziert: true
+    quelle: https://www.minterellison.com/articles/increased-ai-regulation-final-senate-report-key-takeaways
+  - datum: 2026-04-01
+    was_gilt: 'Regierungsantwort: Absage an ein eigenständiges KI-Gesetz, Bekenntnis zu risikobasiertem,
+      sektoralem Vorgehen; AISI mit 29,8 Mio. AUD über vier Jahre.
+
+      '
+    verifiziert: true
+    quelle: https://www.industry.gov.au/publications/australian-government-response-senate-select-committee-adopting-artificial-intelligence-ai-report
+  themenachsen:
+  - governance
+  - arbeit
+  - urheberrecht
+  - gpai
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Empfehlung 1: umfassendes KI-Gesetz für Hochrisiko-KI, EU-Vorbild statt US-Sektoransatz — von der
+    Regierung abgelehnt.'
+  - 'Hochrisiko-Kategorien laut Ausschuss: KI am Arbeitsplatz, General-Purpose-KI, automatisierte Entscheidungen
+    mit erheblicher Wirkung, Personalplanung und -überwachung.'
+  - 'Arbeitgeberpflichten: Risikobewertung und Beschäftigtenkonsultation vor Einführung; Arbeitsschutzrecht
+    auf KI-Risiken erstrecken.'
+  - 'Urheberrecht: verbindliche Transparenzpflichten und Vergütungsmechanismen für Rechteinhaber.'
+  - 'Weitere Themen: Umweltauswirkungen, Transparenz automatisierter Entscheidungen, KI-Infrastruktur,
+    souveräne KI.'
+  - 'Regierungsantwort 01.04.2026 (Zitat): ''the government''s regulatory approach to AI will continue
+    to build on Australia''s robust existing legal and regulatory frameworks''.'
+  - 'Bemerkenswert: 16 Monate zwischen Bericht und Regierungsantwort.'
+  dokumente:
+  - datum: 2024-11-26
+    typ: ausschussbericht
+    titel: Senate Select Committee on Adopting AI — final report, key takeaways
+    url: https://www.minterellison.com/articles/increased-ai-regulation-final-senate-report-key-takeaways
+    sprache: en
+    urheber: MinterEllison
+    verifiziert: true
+    notiz: Datiert die Vorlage und listet die zentralen Empfehlungen einschließlich Empfehlung 1.
+  - datum: 2026-04-01
+    typ: stellungnahme
+    titel: 'Australian Government response: Senate Select Committee on Adopting AI report'
+    url: https://www.industry.gov.au/publications/australian-government-response-senate-select-committee-adopting-artificial-intelligence-ai-report
+    sprache: en
+    urheber: Australian Government, DISR
+    verifiziert: true
+    notiz: 'PRIMÄRQUELLE der Absage an ein KI-Gesetz. Zentral für die Frage, ob Australien verbindliche
+      KI-Regeln hat.
+
+      '
+  - datum: 2024-11-26
+    typ: ausschussbericht
+    titel: Select committee on adopting artificial intelligence (AI) — Bericht
+    url: https://apo.org.au/node/329154
+    sprache: en
+    urheber: Analysis & Policy Observatory (Spiegelung des Berichts)
+    verifiziert: false
+    notiz: 'Alternative Fundstelle, da aph.gov.au nicht abrufbar. In dieser Sitzung nicht abgerufen.
+
+      '
+  offene_punkte:
+  - Volltext des Berichts nicht eingesehen (aph.gov.au gesperrt); Empfehlungen aus Sekundärquelle.
+  - 'Zu beobachten, ob der Joint Select Committee 2026 an Empfehlung 1 anknüpft, nachdem die Regierung
+    im Juli 2026 die Kehrtwende vollzogen hat.
+
+    '
+  monitoring_quellen:
+  - https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Adopting_Artificial_Intelligence_AI
+  bezug_regelwerke:
+  - au-guardrails-proposals-2024
+  - au-jsc-ai-2026
+  - au-standards-for-ai-2026
+  letzte_pruefung: 2026-08-27
+- id: au-senate-ai-datacentres-2026
+  jurisdiktion: au
+  kurztitel: Senatsuntersuchung KI und Rechenzentren
+  offizieller_titel: 'Senate Environment and Communications References Committee — Inquiry into Artificial
+    Intelligence and Data Centres
+
+    '
+  fundstelle: Australian Senate, Environment and Communications References Committee
+  verfahrensnummer: null
+  status: verfahren
+  status_detail: 'LAUFEND. Am 13.05.2026 eingesetzt, Vorsitz Senatorin Sarah Hanson-Young (Greens). Der
+    ursprüngliche Einreichungsschluss 26.06.2026 wurde offenbar auf den 01.09.2026 verlängert (widersprüchliche
+    Quellen). Berichtsdatum nicht ermittelt.
+
+    '
+  kurzbeschreibung: 'Der Ausschuss untersucht die Wirksamkeit des geltenden Regulierungsrahmens für das
+    Wachstum von Rechenzentren sowie die Auswirkungen von KI und Rechenzentren auf Gemeinden, Industrie,
+    Umwelt, Wasser und Energie. Die Untersuchung ist der parlamentarische Gegenpart zu den am 15.07.2026
+    angekündigten Rechenzentrumsauflagen der Australian Standards for AI. Der Ausschuss erlässt kein Recht;
+    seine Empfehlungen sind unverbindlich.
+
+    '
+  inkrafttreten:
+    datum: 2026-05-13
+    verifiziert: true
+    quelle: https://www.claytonutz.com/insights/2026/may/watts-on-the-line-unpacking-the-senates-data-centre-and-ai-inquiry
+  anwendungsdaten:
+  - datum: 2026-05-13
+    was_gilt: Einsetzung des Untersuchungsausschusses.
+    verifiziert: true
+    quelle: https://www.claytonutz.com/insights/2026/may/watts-on-the-line-unpacking-the-senates-data-centre-and-ai-inquiry
+  - datum: 2026-09-01
+    was_gilt: 'Verlängerter Einreichungsschluss für Submissions (ursprünglich 26.06.2026).
+
+      '
+    verifiziert: false
+    quelle: https://www.foe.org.au/ai_datacentre_submissions
+  themenachsen:
+  - governance
+  - wettbewerb
+  - marktzugang
+  regelungsschwerpunkte:
+  - Wirksamkeit des geltenden Regulierungsrahmens für Rechenzentren.
+  - Auswirkungen auf Gemeinden, Industrie, Umwelt, Wasser- und Energieverbrauch.
+  - 'Vorsitz: Senatorin Sarah Hanson-Young (Australian Greens).'
+  - 'Politischer Kontext: parlamentarische Flankierung der Rechenzentrumsauflagen vom 15.07.2026.'
+  dokumente:
+  - datum: 2026-05-20
+    typ: uebersicht
+    titel: Watts on the line? Unpacking the Senate's data centre and AI inquiry
+    url: https://www.claytonutz.com/insights/2026/may/watts-on-the-line-unpacking-the-senates-data-centre-and-ai-inquiry
+    sprache: en
+    urheber: Clayton Utz
+    verifiziert: true
+    notiz: Nennt Einsetzung 13.05.2026, ToR und ursprünglichen Einreichungsschluss 26.06.2026.
+  - datum: 2026-08-01
+    typ: konsultation
+    titel: Send a submission to the AI Data Centre Inquiry
+    url: https://www.foe.org.au/ai_datacentre_submissions
+    sprache: en
+    urheber: Friends of the Earth Australia
+    verifiziert: true
+    notiz: Belegt den verlängerten Einreichungsschluss 01.09.2026.
+  offene_punkte:
+  - 'WIDERSPRUCH: Einreichungsschluss 26.06.2026 (Clayton Utz) vs. 01.09.2026 (Fö, NAVA).'
+  - Berichtsdatum unbekannt (aph.gov.au gesperrt).
+  monitoring_quellen:
+  - https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
+  bezug_regelwerke:
+  - au-standards-for-ai-2026
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Überweisung 13.05.2026 und Einreichungsschluss 26.06.2026 gesichert; das Berichtsdatum
+    war nicht zu ermitteln (aph.gov.au HTTP 403). WARNUNG — Verwechslungsgefahr: Der kursierende Berichtstermin
+    30.09.2026 gehört zur Untersuchung des Parlaments von New South Wales, nicht zur Senatsuntersuchung
+    des Commonwealth.'
+- id: au-consumer-safety-priorities-2026
+  jurisdiktion: au
+  kurztitel: AI Consumer Safety Priorities (Juli 2026)
+  offizieller_titel: AI consumer safety priorities — joint ministerial statement
+  fundstelle: Gemeinsame Ministererklärung vom 20. Juli 2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Am 20.07.2026 von mehreren Ressorts gemeinsam veröffentlicht (Attorney-General, Industrie,
+    Treasury/Andrew Leigh, Kommunikation, Beschäftigung). Programmatische Festlegung von fünf Regulierungsprioritäten;
+    noch keine Gesetzestexte.
+
+    '
+  kurzbeschreibung: 'Die Erklärung benennt fünf Prioritäten, mit denen KI-Risiken über bestehendes Recht
+    adressiert werden sollen. Erstens eine gesetzlich verankerte digitale Sorgfaltspflicht (digital duty
+    of care), die KI-Unternehmen zu Safety-by-Design verpflichtet. Zweitens die Modernisierung des Datenschutzrechts.
+    Drittens KI-Sicherheit am Arbeitsplatz (Transparenz und Rechenschaft bei Recruiting, Überwachung,
+    Dienstplanung, Leistungsbewertung). Viertens eine Überprüfung des Verbraucherrechts, besonders zu
+    Surveillance Pricing und agentischem Handel. Fünftens ein Rahmen für automatisierte Entscheidungen
+    in Bundesbehörden. Die Erklärung selbst schafft keine Pflichten und keine Sanktionen.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-20
+    verifiziert: true
+    quelle: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
+  anwendungsdaten:
+  - datum: 2026-07-20
+    was_gilt: Veröffentlichung der fünf Prioritäten.
+    verifiziert: true
+    quelle: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
+  themenachsen:
+  - governance
+  - datenschutz
+  - arbeit
+  - sektor-oeffentlich
+  - content
+  - haftung
+  regelungsschwerpunkte:
+  - 'Priorität 1 — Digital Duty of Care: gesetzliche Sorgfaltspflicht, Safety by Design (Kommunikationsministerium).'
+  - 'Priorität 2 — Datenschutzreform: Modernisierung für KI-gestützte Dienste (Attorney-General).'
+  - 'Priorität 3 — KI-Sicherheit am Arbeitsplatz: Recruiting, Monitoring, Dienstplanung, Leistungsbewertung;
+    AI Workplace and Employment Forum.'
+  - 'Priorität 4 — Verbraucherrecht: Review der Australian Consumer Law zu Surveillance Pricing und agentic
+    commerce (Assistant Minister Andrew Leigh).'
+  - 'Priorität 5 — Automatisierte Entscheidungen des Bundes: Rahmen für faire, richtige und transparente
+    Verwaltungsentscheidungen (Attorney-General).'
+  - 'Anknüpfung an bereits Erreichtes: AI Safety Institute, Deepfake-Strafrecht.'
+  dokumente:
+  - datum: 2026-07-20
+    typ: pressemitteilung
+    titel: AI consumer safety priorities
+    url: https://ministers.ag.gov.au/media-centre/ai-consumer-safety-priorities-20-07-2026
+    sprache: en
+    urheber: Attorney-General's portfolio
+    verifiziert: false
+    notiz: 'PRIMÄRQUELLE. Abruf in dieser Sitzung durch robots.txt blockiert; Inhalt über Sekundärquellen
+      rekonstruiert.
+
+      '
+  - datum: 2026-07-21
+    typ: uebersicht
+    titel: Australia lists consumer protection and a digital duty of care as AI safety priorities
+    url: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
+    sprache: en
+    urheber: Australasian Lawyer
+    verifiziert: true
+    notiz: Listet alle fünf Prioritäten mit federführenden Ressorts.
+  - datum: 2026-07-22
+    typ: uebersicht
+    titel: 'Australian AI regulation: what proposed AI standards and safety reforms mean for business'
+    url: https://landers.com.au/legal-insights-news/australian-ai-regulation-what-proposed-ai-standards-and-safety-reforms-mean-for-business
+    sprache: en
+    urheber: Lander & Rogers
+    verifiziert: true
+    notiz: Verbindet die fünf Prioritäten mit den Australian Standards for AI und dem Zeitplan.
+  offene_punkte:
+  - Keine Gesetzestexte, keine Konsultationsfristen veröffentlicht.
+  - Verhältnis der digital duty of care zum Online Safety Act ungeklärt.
+  monitoring_quellen:
+  - https://ministers.ag.gov.au/media-centre
+  - https://ministers.treasury.gov.au/
+  bezug_regelwerke:
+  - au-standards-for-ai-2026
+  - au-privacy-tranche2
+  - au-online-safety-act-2021
+  - au-adm-reform-robodebt
+  - au-acl-2010
+  letzte_pruefung: 2026-08-27
+- id: au-privacy-act-1988
+  jurisdiktion: au
+  kurztitel: Privacy Act 1988 (mit Reform 2024)
+  offizieller_titel: 'Privacy Act 1988 (Cth), geändert durch den Privacy and Other Legislation Amendment
+    Act 2024 (Cth)
+
+    '
+  fundstelle: Privacy Act 1988 (Cth); Privacy and Other Legislation Amendment Act 2024 (Cth) No. 106,
+    2024
+  verfahrensnummer: Privacy and Other Legislation Amendment Bill 2024
+  status: teilanwendbar
+  status_detail: 'WICHTIGSTES GELTENDES KI-RELEVANTES BUNDESGESETZ. Die Änderungsnovelle erhielt am 10.12.2024
+    die Zustimmung; ihre Teile treten gestaffelt in Kraft. Der deliktische Anspruch wegen schwerwiegender
+    Verletzung der Privatsphäre gilt seit 10.06.2025. Die Transparenzpflicht für automatisierte Entscheidungen
+    (APP 1.7) gilt ab 10.12.2026 — bis dahin besteht KEINE bundesrechtliche KI-Transparenzpflicht des
+    Privatrechts.
+
+    '
+  kurzbeschreibung: 'Der Privacy Act bindet APP-Entitäten (Bundesbehörden sowie Unternehmen ab 3 Mio.
+    AUD Jahresumsatz und bestimmte kleinere Unternehmen) an die dreizehn Australian Privacy Principles.
+    Für KI zentral: Ab 10.12.2026 müssen Datenschutzerklärungen offenlegen, welche Arten personenbezogener
+    Daten in automatisierte Entscheidungssysteme einfließen und welche Arten von Entscheidungen entweder
+    ausschließlich automatisiert getroffen oder durch Computerprogramme maßgeblich vorbereitet werden
+    — sofern die Entscheidung Rechte oder Interessen der Person erheblich berühren kann. Verstöße gegen
+    die Datenschutzerklärungspflicht sind über Infringement Notices, Compliance Notices und zivilrechtliche
+    Strafen durchsetzbar. Daneben steht seit 10.06.2025 der eigenständige Deliktsanspruch offen, der auch
+    Nicht-APP-Entitäten erfasst.
+
+    '
+  inkrafttreten:
+    datum: 1989-01-01
+    verifiziert: true
+    quelle: https://www.legislation.gov.au/C2004A03712/latest/text
+    fundstelle_norm: 'Sec. 2 Privacy Act 1988: "This Act commences on a day to be fixed by Proclamation."
+      Endnote 3 (Legislation history) der amtlichen Kompilation: "Privacy Act 1988 | 119, 1988 | Assent
+      14 Dec 1988 | Commencement 1 Jan 1989 (s 2 and gaz 1988, No S399)". Zuvor gespeichert: 21.12.1988
+      — das ist der Tag der Proklamation im Gazette, nicht des Inkrafttretens.'
+  anwendungsdaten:
+  - datum: 2024-12-10
+    was_gilt: 'Zustimmung (Royal Assent) zum Privacy and Other Legislation Amendment Act 2024.
+
+      '
+    verifiziert: false
+    quelle: https://www.nortonrosefulbright.com/en/knowledge/publications/be98b0ff/australian-privacy-alert-parliament-passes-major-and-meaningful-privacy-law-reform
+  - datum: 2024-12-11
+    was_gilt: 'Erweiterte Durchsetzungsbefugnisse des OAIC (Infringement Notices, Compliance Notices)
+      in Kraft.
+
+      '
+    verifiziert: true
+    quelle: https://jws.com.au/what-we-think/practical-implications-of-new-transparency-requirements-for-automated-decision-making/
+  - datum: 2025-06-10
+    was_gilt: 'Statutory tort of serious invasion of privacy (Schedule 2) anwendbar: Klage wegen Eindringens
+      in die Abgeschiedenheit oder Missbrauchs personenbezogener Informationen.
+
+      '
+    verifiziert: true
+    quelle: https://www.oaic.gov.au/privacy/your-privacy-rights/more-privacy-rights/statutory-tort-for-serious-invasions-of-privacy
+  - datum: 2026-12-10
+    was_gilt: 'TRANSPARENZPFLICHT FÜR AUTOMATISIERTE ENTSCHEIDUNGEN (APP 1.7): Datenschutzerklärungen
+      müssen Arten personenbezogener Daten in ADM-Systemen und Arten der betroffenen Entscheidungen offenlegen.
+
+      '
+    verifiziert: true
+    quelle: https://jws.com.au/what-we-think/practical-implications-of-new-transparency-requirements-for-automated-decision-making/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  - governance
+  regelungsschwerpunkte:
+  - 'APP 1.7 (ab 10.12.2026): Offenlegungspflicht in der Datenschutzerklärung für automatisierte Entscheidungen.'
+  - Erfasst sind sowohl vollautomatisierte als auch 'substantially facilitated' menschliche Entscheidungen.
+  - 'Schwelle: Entscheidung kann Rechte oder Interessen der Person erheblich berühren (''significantly
+    affect'').'
+  - 'WICHTIG: Es ist eine reine TRANSPARENZ-, keine Verbots- oder Erklärungspflicht — kein Recht auf Erläuterung
+    im Einzelfall, kein Widerspruchsrecht wie Art. 22 DSGVO.'
+  - 24 Monate Übergangsfrist ab Zustimmung (10.12.2024 bis 10.12.2026).
+  - 'Statutory tort (seit 10.06.2025): Eindringen in Abgeschiedenheit oder Missbrauch personenbezogener
+    Informationen; berechtigte Privatheitserwartung erforderlich; Abwägung mit gegenläufigem öffentlichem
+    Interesse.'
+  - 'Tort-Verjährung: früheres von einem Jahr ab Kenntnis oder drei Jahren ab Verletzung; Minderjährige
+    bis zum 21. Geburtstag.'
+  - 'Tort-Ausnahmen: Nachrichtendienste, Strafverfolgung, bestimmte Journalisten.'
+  - 'Tort-Rechtsfolgen: Schadensersatz, Unterlassung, Entschuldigung; OAIC hat KEINE Rolle.'
+  - Doxxing-Straftatbestand ebenfalls durch die Novelle eingeführt.
+  dokumente:
+  - datum: 2026-01-15
+    typ: leitlinie
+    titel: Practical implications of the new transparency requirements for automated decision making
+    url: https://jws.com.au/what-we-think/practical-implications-of-new-transparency-requirements-for-automated-decision-making/
+    sprache: en
+    urheber: Johnson Winter Slattery
+    verifiziert: true
+    notiz: Belegt Anwendungsbeginn 10.12.2026, Inhalt und Sanktionen der APP-1.7-Pflicht.
+  - datum: 2025-06-10
+    typ: leitlinie
+    titel: Statutory tort for serious invasions of privacy
+    url: https://www.oaic.gov.au/privacy/your-privacy-rights/more-privacy-rights/statutory-tort-for-serious-invasions-of-privacy
+    sprache: en
+    urheber: Office of the Australian Information Commissioner (OAIC)
+    verifiziert: true
+    notiz: 'PRIMÄRQUELLE der Aufsichtsbehörde: Anwendungsbeginn, Tatbestand, Verjährung, Rechtsfolgen.'
+  - datum: 2024-11-29
+    typ: uebersicht
+    titel: 'Australian Privacy Alert: Parliament passes major and meaningful privacy law reform'
+    url: https://www.nortonrosefulbright.com/en/knowledge/publications/be98b0ff/australian-privacy-alert-parliament-passes-major-and-meaningful-privacy-law-reform
+    sprache: en
+    urheber: Norton Rose Fulbright
+    verifiziert: false
+    notiz: Gesamtüberblick der Novelle. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Ob das OAIC bis 10.12.2026 spezifische APP-1.7-Leitlinien veröffentlicht, ist offen.
+  - Auslegung von 'substantially facilitated' bislang ungeklärt — Hauptstreitfrage der Praxis.
+  - Erste Rechtsprechung zum statutory tort noch nicht ermittelt.
+  monitoring_quellen:
+  - https://www.oaic.gov.au/privacy
+  - https://www.legislation.gov.au/C2004A03712
+  bezug_regelwerke:
+  - au-coppc-2026
+  - au-privacy-tranche2
+  - au-oaic-ai-guidance-2024
+  - au-adm-reform-robodebt
+  - au-wa-prisa-2024
+  letzte_pruefung: 2026-09-05
+- id: au-coppc-2026
+  jurisdiktion: au
+  kurztitel: Children's Online Privacy Code
+  offizieller_titel: Children's Online Privacy Code (APP code under the Privacy Act 1988)
+  fundstelle: Office of the Australian Information Commissioner
+  verfahrensnummer: null
+  status: entwurf
+  status_detail: 'IN ARBEIT MIT HARTER FRIST. Die dritte Konsultationsphase endete im Juni 2026; das OAIC
+    wertet die Stellungnahmen aus. Der Kodex MUSS bis zum 10.12.2026 finalisiert und registriert sein
+    — eine gesetzliche Frist.
+
+    '
+  kurzbeschreibung: 'Der Kodex bindet Anbieter von Online-Diensten (Social Media, relevant electronic
+    services, designated internet services), die von Kindern genutzt werden oder sich an Kinder richten,
+    mit Ausnahme von Gesundheitsdienstleistern. Er konkretisiert die Australian Privacy Principles für
+    Kinder und ist KI-relevant, weil er Profilbildung, algorithmische Empfehlungssysteme und Altersverifikation
+    betrifft. Als registrierter APP-Kodex ist er verbindlich; Verstöße werden wie Verstöße gegen die APPs
+    geahndet.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes/childrens-online-privacy-code
+  anwendungsdaten:
+  - datum: 2026-06-30
+    was_gilt: Abschluss der dritten Konsultationsphase (Monatsangabe).
+    verifiziert: false
+    quelle: https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes/childrens-online-privacy-code
+  - datum: 2026-12-10
+    was_gilt: 'GESETZLICHE FRIST: Der Kodex muss finalisiert und registriert sein.
+
+      '
+    verifiziert: true
+    quelle: https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes/childrens-online-privacy-code
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - content
+  regelungsschwerpunkte:
+  - 'Adressaten: Social Media, relevant electronic services, designated internet services mit Kindernutzung.'
+  - 'Ausgenommen: Gesundheitsdienstleister.'
+  - 'KI-Bezug: Profilbildung, Empfehlungsalgorithmen, Altersverifikation, zielgerichtete Werbung.'
+  - Registrierter APP-Kodex — verbindlich, nicht softlaw.
+  - Harte gesetzliche Registrierungsfrist 10.12.2026.
+  dokumente:
+  - datum: 2026-08-05
+    typ: konsultation
+    titel: Children's Online Privacy Code
+    url: https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes/childrens-online-privacy-code
+    sprache: en
+    urheber: OAIC
+    verifiziert: true
+    notiz: PRIMÄRQUELLE. Bestätigt Verfahrensstand und Frist 10.12.2026 (Seitenstand 05.08.2026).
+  offene_punkte:
+  - Endfassung des Kodex liegt noch nicht vor.
+  - Übergangsfristen für die Umsetzung nach Registrierung unbekannt.
+  monitoring_quellen:
+  - https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes/childrens-online-privacy-code
+  bezug_regelwerke:
+  - au-privacy-act-1988
+  - au-online-safety-act-2021
+  letzte_pruefung: 2026-08-27
+- id: au-privacy-tranche2
+  jurisdiktion: au
+  kurztitel: Privacy Act Reform — Tranche 2
+  offizieller_titel: Second tranche of Privacy Act reforms (angekündigt)
+  fundstelle: Attorney-General's Department; noch kein Gesetzentwurf
+  verfahrensnummer: null
+  status: idee
+  status_detail: 'OFFEN UND UNTERMINIERT. Stand August 2026 ist die zweite Tranche eine Regierungszusage
+    ohne Gesetzentwurf: kein Bill eingebracht, kein Anwendungsbeginn festgelegt. Der Attorney-General
+    erklärte im Juli 2025, ein Entwurf werde für das Kabinett vorbereitet; die Ministererklärung vom 20.07.2026
+    führt Datenschutzmodernisierung erneut als Priorität.
+
+    '
+  kurzbeschreibung: 'Erwartet werden ein übergreifender "fair and reasonable"-Test für Erhebung, Nutzung
+    und Offenlegung personenbezogener Daten, eine Klärung des Begriffs personenbezogener Daten einschließlich
+    de-identifizierter und abgeleiteter (inferred) Daten — für KI besonders bedeutsam —, erweiterte Betroffenenrechte
+    einschließlich eines möglichen Löschungsanspruchs, verschärfte Einwilligungs- und Transparenzanforderungen
+    sowie die mögliche Streichung der Ausnahmen für Kleinunternehmen und Beschäftigtendaten. Die Regierung
+    unterstützt die Streichung der Kleinunternehmensausnahme im Grundsatz, ohne Datum. Ein direktes Klagerecht
+    (direct right of action) steht ebenfalls im Raum.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://rulesmate.com.au/insights/privacy-act-second-tranche-reforms-2026-outlook
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - '''Fair and reasonable''-Test als übergreifender Maßstab.'
+  - Klärung, ob de-identifizierte und abgeleitete Daten personenbezogen sind — KI-Kernfrage.
+  - Mögliche Streichung der Ausnahmen für Kleinunternehmen und Beschäftigtendaten.
+  - Erweiterte Betroffenenrechte, möglicher Löschungsanspruch.
+  - Direktes Klagerecht im Gespräch.
+  - 'WARNUNG: kursierende Zeitpläne sind Spekulation, kein geltendes Recht.'
+  dokumente:
+  - datum: 2026-06-01
+    typ: uebersicht
+    titel: 'The second tranche of Privacy Act reforms: what''s proposed and what''s still uncertain'
+    url: https://rulesmate.com.au/insights/privacy-act-second-tranche-reforms-2026-outlook
+    sprache: en
+    urheber: Rules Mate
+    verifiziert: true
+    notiz: 'Nüchterne Bestandsaufnahme; stellt ausdrücklich fest, dass kein Bill verabschiedet und kein
+      Datum fixiert ist.
+
+      '
+  offene_punkte:
+  - Kein Exposure Draft, kein Bill, kein Zeitplan.
+  - Zu beobachten, ob Tranche 2 in den Australian Standards for AI aufgeht.
+  monitoring_quellen:
+  - https://www.ag.gov.au/rights-and-protections/privacy
+  bezug_regelwerke:
+  - au-privacy-act-1988
+  - au-consumer-safety-priorities-2026
+  letzte_pruefung: 2026-08-27
+- id: au-oaic-ai-guidance-2024
+  jurisdiktion: au
+  kurztitel: OAIC-Leitlinien zu KI und Datenschutz
+  offizieller_titel: 'Guidance on privacy and the use of commercially available AI products; Guidance
+    on privacy and developing and training generative AI models
+
+    '
+  fundstelle: Office of the Australian Information Commissioner
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Beide Leitlinien am 21.10.2024 veröffentlicht. Die Entwickler- Leitlinie wurde zuletzt
+    am 27.11.2024, die Anwender-Leitlinie am 17.01.2025 aktualisiert. Sie sind rechtlich unverbindlich,
+    beschreiben aber die Auslegung der APPs durch die Aufsichtsbehörde und sind damit praktisch maßgeblich.
+
+    '
+  kurzbeschreibung: 'Die Entwickler-Leitlinie stellt klar, dass öffentliche Zugänglichkeit von Daten deren
+    Nutzung nicht legitimiert: Scraping ist eine verdeckte Erhebung und kann gegen das Fairness-Gebot
+    des APP 3 verstoßen. Aus dem Ausbleiben eines Widerspruchs darf keine Einwilligung abgeleitet werden.
+    Für die Zweitnutzung bereits erhobener Daten zum KI-Training verlangt das OAIC Einwilligung oder den
+    Nachweis vernünftiger Erwartung — was "in vielen Fällen schwierig" sei. Die Anwender-Leitlinie behandelt
+    Eingaben und Ausgaben kommerzieller KI-Produkte: Erzeugt oder folgert ein System personenbezogene
+    Daten, ist das eine Erhebung nach APP 3. Als beste Praxis empfiehlt das OAIC, personenbezogene und
+    besonders sensible Daten NICHT in öffentlich verfügbare generative KI-Werkzeuge einzugeben.
+
+    '
+  inkrafttreten:
+    datum: 2024-10-21
+    verifiziert: true
+    quelle: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models
+  anwendungsdaten:
+  - datum: 2024-10-21
+    was_gilt: Veröffentlichung beider Leitlinien.
+    verifiziert: true
+    quelle: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models
+  - datum: 2024-11-27
+    was_gilt: Letzte Aktualisierung der Entwickler-Leitlinie.
+    verifiziert: true
+    quelle: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models
+  - datum: 2025-01-17
+    was_gilt: Letzte Aktualisierung der Anwender-Leitlinie.
+    verifiziert: true
+    quelle: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  regelungsschwerpunkte:
+  - 'Scraping: ''just because data is publicly available or otherwise accessible does not mean it can
+    legally be used'' — verdeckte Erhebung, Fairness-Problem unter APP 3.'
+  - Keine konkludente Einwilligung aus fehlendem Widerspruch.
+  - 'Zweitnutzung zum Training: Einwilligung oder vernünftige Erwartung erforderlich (APP 6) — Nachweis
+    regelmäßig schwierig.'
+  - 'Weitere einschlägige Grundsätze: APP 1 (Transparenz), APP 5 (Mitteilung), APP 10 (Richtigkeit).'
+  - Im Zweifel sind Daten als personenbezogen zu behandeln.
+  - 'Anwenderseite: KI-generierte oder gefolgerte personenbezogene Daten sind eine Erhebung nach APP 3.'
+  - 'Empfehlung: keine personenbezogenen und sensiblen Daten in öffentliche generative KI-Werkzeuge eingeben.'
+  - Erwartet werden Due Diligence, Datenschutz-Folgenabschätzungen und menschliche Aufsicht.
+  dokumente:
+  - datum: 2024-10-21
+    typ: leitlinie
+    titel: Guidance on privacy and developing and training generative AI models
+    url: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models
+    sprache: en
+    urheber: OAIC
+    verifiziert: true
+    notiz: PRIMÄRQUELLE für Entwickler; maßgeblich für Scraping und Trainingsdaten.
+  - datum: 2024-10-21
+    typ: leitlinie
+    titel: Guidance on privacy and the use of commercially available AI products
+    url: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products
+    sprache: en
+    urheber: OAIC
+    verifiziert: true
+    notiz: PRIMÄRQUELLE für Anwender; relevant für jeden Kanzlei- und Unternehmenseinsatz von KI.
+  offene_punkte:
+  - Keine Aktualisierung im Hinblick auf die ab 10.12.2026 geltende APP-1.7-Pflicht ersichtlich.
+  monitoring_quellen:
+  - https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies
+  bezug_regelwerke:
+  - au-privacy-act-1988
+  - au-copyright-act-1968
+  letzte_pruefung: 2026-08-27
+- id: au-copyright-act-1968
+  jurisdiktion: au
+  kurztitel: Copyright Act 1968 — keine TDM-Schranke
+  offizieller_titel: Copyright Act 1968 (Cth)
+  fundstelle: Copyright Act 1968 (Cth) No. 63, 1968
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'UNVERÄNDERT UND BEWUSST SO BELASSEN. Australien kennt kein Fair-Use-Prinzip, sondern
+    nur enumerierte "fair dealing"-Ausnahmen, unter die Text und Data Mining nicht fällt. Am 26.10.2025
+    hat Attorney-General Michelle Rowland ausdrücklich entschieden, KEINE TDM-Ausnahme einzuführen — entgegen
+    dem Vorschlag der Productivity Commission aus deren Interim Report (August 2025). KI-Training an urheberrechtlich
+    geschütztem Material ohne Lizenz ist damit in Australien grundsätzlich rechtswidrig.
+
+    '
+  kurzbeschreibung: 'Der Copyright Act schützt Werke ohne Registrierung; Vervielfältigung im Rahmen von
+    KI-Training berührt das Vervielfältigungsrecht. Da die "fair dealing"-Ausnahmen abschließend sind
+    (Forschung und Studium, Kritik und Besprechung, Berichterstattung, Rechtsberatung, Parodie und Satire)
+    und keine davon TDM abdeckt, benötigen KI-Entwickler eine Lizenz. Die Productivity Commission schlug
+    im Interim Report 2025 eine TDM-Ausnahme bzw. ein neues fair dealing für TDM vor und löste damit heftigen
+    Widerspruch der Kreativwirtschaft aus. Die Regierung folgte dem nicht, sondern verfolgt seit dem 26.10.2025
+    eine Lizenzlösung. Rechtsfolgen einer Verletzung sind Unterlassung, Schadensersatz oder Gewinnherausgabe.
+
+    '
+  inkrafttreten:
+    datum: 1969-05-01
+    verifiziert: true
+    quelle: https://www.legislation.gov.au/C1968A00063/latest/text
+    fundstelle_norm: 'Endnote 3 (Legislation history) der amtlichen Kompilation des Copyright Act 1968:
+      "63, 1968 | Assent 27 June 1968 | Commencement 1 May 1969 (see Gazette 1969, p. 2543)".'
+  anwendungsdaten:
+  - datum: 2025-08-05
+    was_gilt: 'Productivity Commission empfiehlt im Interim Report ein fair dealing für Text und Data
+      Mining (Monatsangabe).
+
+      '
+    verifiziert: false
+    quelle: https://www.hsfkramer.com/insights/2025-08/australian-productivity-commission-proposes-text-data-mining-exception-to-copyright-infringement
+  - datum: 2025-10-26
+    was_gilt: 'Attorney-General Michelle Rowland schließt eine TDM-Ausnahme ausdrücklich aus; stattdessen
+      Prüfung von Lizenzmodellen.
+
+      '
+    verifiziert: true
+    quelle: https://www.dundaslawyers.com.au/federal-gov-rules-out-copyright-text-and-data-mining-exception-for-ai/
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - Kein Fair Use, nur enumerierte fair-dealing-Ausnahmen — TDM fällt unter keine.
+  - KI-Training an geschütztem Material ohne Lizenz ist grundsätzlich Verletzung.
+  - 'Productivity Commission Interim Report (August 2025): Vorschlag eines fair dealing für TDM — NICHT
+    umgesetzt.'
+  - 'Regierungsentscheidung 26.10.2025: keine TDM-Ausnahme; Fokus auf Lizenzierung.'
+  - Gegenposition der Kreativwirtschaft war politisch ausschlaggebend ('creators first').
+  - 'Ergänzend Zusage vom 15.07.2026: kein Training an australischen Kreativwerken ohne Zustimmung.'
+  - Schutzfähigkeit KI-generierter Erzeugnisse (Erfordernis menschlicher Urheberschaft) ist ungeklärt
+    und Gegenstand der CAIRG-Arbeit.
+  dokumente:
+  - datum: 2025-10-27
+    typ: pressemitteilung
+    titel: Federal Gov rules out copyright text and data mining exception for AI
+    url: https://www.dundaslawyers.com.au/federal-gov-rules-out-copyright-text-and-data-mining-exception-for-ai/
+    sprache: en
+    urheber: Dundas Lawyers
+    verifiziert: true
+    notiz: Datiert die Entscheidung auf den 26.10.2025 und benennt die drei Lizenzoptionen.
+  - datum: 2025-08-12
+    typ: bericht
+    titel: Australian Productivity Commission proposes text and data mining exception
+    url: https://www.hsfkramer.com/insights/2025-08/australian-productivity-commission-proposes-text-data-mining-exception-to-copyright-infringement
+    sprache: en
+    urheber: Herbert Smith Freehills Kramer
+    verifiziert: false
+    notiz: Zum Vorschlag der Productivity Commission. In dieser Sitzung nicht abgerufen.
+  - datum: 2025-11-01
+    typ: uebersicht
+    titel: Australia rules out a text and data mining exception for copyright infringement
+    url: https://wrays.com.au/ip-now/australia-rules-out-a-text-and-data-mining-exception-for-copyright-infringement/
+    sprache: en
+    urheber: Wrays IP
+    verifiziert: true
+    notiz: Ordnet Entscheidung, CAIRG-Arbeit und Lizenzkonsultation ein.
+  offene_punkte:
+  - Kein taggenaues Datum des Productivity-Commission-Interim-Reports ermittelt.
+  - Keine australische Leitentscheidung zu KI-Training und Urheberrecht ermittelt.
+  - Schutzfähigkeit KI-generierter Erzeugnisse ungeklärt.
+  monitoring_quellen:
+  - https://www.ag.gov.au/rights-and-protections/copyright
+  - https://www.pc.gov.au/
+  bezug_regelwerke:
+  - au-cairg-2025
+  - au-standards-for-ai-2026
+  - au-jsc-ai-2026
+  letzte_pruefung: 2026-09-05
+- id: au-cairg-2025
+  jurisdiktion: au
+  kurztitel: CAIRG — Copyright and AI Reference Group
+  offizieller_titel: Copyright and Artificial Intelligence Reference Group (CAIRG)
+  fundstelle: Attorney-General's Department
+  verfahrensnummer: null
+  status: verfahren
+  status_detail: 'LAUFEND, INTRANSPARENT. Als ständiger Mechanismus 2023 eingerichtet. Nach der Entscheidung
+    gegen eine TDM-Ausnahme tagte CAIRG am 27. und 28.10.2025 zu drei Prioritäten. Stand August 2026 ist
+    WEDER das Konsultationspapier NOCH eine Zusammenfassung der Rückmeldungen veröffentlicht; ein Einreichungsschluss
+    ist nicht bekannt. Eine Umsetzung vor Ende 2026 gilt als unwahrscheinlich.
+
+    '
+  kurzbeschreibung: 'CAIRG berät die Regierung zum Verhältnis von Urheberrecht und KI und ist mit Vertretern
+    der Technologiebranche, der Kreativwirtschaft, der Verwertungsgesellschaften, der Verwaltung, des
+    Bildungswesens, der Medien und der Wissenschaft besetzt. Die drei Prioritäten sind: erstens legale
+    Wege zur Nutzung urheberrechtlich geschützten Materials für KI — konkret die Wahl zwischen gesetzlicher
+    Lizenz, kollektiver Lizenzierung über Verwertungsgesellschaften und rein freiwilliger Lizenzierung;
+    zweitens Rechtssicherheit für KI-generierte Inhalte; drittens ein Small-Claims-Forum für geringwertige
+    Urheberrechtsstreitigkeiten. CAIRG erlässt kein Recht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.minterellison.com/articles/copyright-and-ai-consultation-on-licensing-for-ai-training
+  anwendungsdaten:
+  - datum: 2025-10-27
+    was_gilt: 'CAIRG-Sitzung am 27. und 28.10.2025 zu den drei Prioritäten.
+
+      '
+    verifiziert: true
+    quelle: https://www.dundaslawyers.com.au/federal-gov-rules-out-copyright-text-and-data-mining-exception-for-ai/
+  themenachsen:
+  - urheberrecht
+  - vertrag
+  - content
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Priorität 1: Lizenzwege — gesetzliche Lizenz vs. kollektive Lizenzierung vs. freiwillige Lizenzierung.'
+  - 'Priorität 2: Rechtssicherheit für KI-generierte Inhalte (Schutzfähigkeit, Zurechnung).'
+  - 'Priorität 3: Small-Claims-Forum für geringwertige Urheberrechtsstreitigkeiten.'
+  - 'Regierungsabsicht: ''expeditiously'' umsetzen — bislang ohne Ergebnis.'
+  - 'Kritik: keine Veröffentlichung des Konsultationspapiers, keine Rückmeldungszusammenfassung, kein
+    Zeitplan.'
+  dokumente:
+  - datum: 2026-02-01
+    typ: konsultation
+    titel: 'Copyright and AI: Consultation on licensing for AI training'
+    url: https://www.minterellison.com/articles/copyright-and-ai-consultation-on-licensing-for-ai-training
+    sprache: en
+    urheber: MinterEllison
+    verifiziert: true
+    notiz: 'Beste verfügbare Darstellung der drei CAIRG-Prioritäten und der Lizenzoptionen; nennt ausdrücklich
+      keinen Fristablauf.
+
+      '
+  offene_punkte:
+  - Kein öffentlicher Einreichungsschluss — Beteiligung nur über Interessenbekundung bei CAIRG möglich.
+  - Konsultationspapier und Feedback-Zusammenfassung nicht veröffentlicht.
+  - Ob die Australian Standards for AI die CAIRG-Ergebnisse vorwegnehmen, ist offen.
+  monitoring_quellen:
+  - https://www.ag.gov.au/rights-and-protections/copyright
+  bezug_regelwerke:
+  - au-copyright-act-1968
+  - au-standards-for-ai-2026
+  - au-jsc-ai-2026
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Nicht am amtlichen Dokument prüfbar: ag.gov.au sperrt per robots.txt, aph.gov.au liefert
+    HTTP 403. Neue Sitzungen oder Papiere seit August 2026 sind nicht nachweisbar. Substanziell bleibt
+    maßgeblich, dass eine TDM-Ausnahme nach dem australischen Weg ausgeschlossen ist und am 15.07.2026
+    vom Premierminister erneut ausgeschlossen wurde; falls der Eintrag die Frage noch als offen führt,
+    ist er in der nächsten Runde daran zu messen.'
+- id: au-adm-reform-robodebt
+  jurisdiktion: au
+  kurztitel: Rahmen für automatisierte Entscheidungen der Verwaltung (Robodebt)
+  offizieller_titel: 'Use of automated decision-making by government — Umsetzung der Empfehlung 17.1 der
+    Royal Commission into the Robodebt Scheme
+
+    '
+  fundstelle: Attorney-General's Department; Royal Commission into the Robodebt Scheme (Bericht 07.07.2023)
+  verfahrensnummer: null
+  status: idee
+  status_detail: 'KONSULTIERT, ABER NICHT UMGESETZT. Die Konsultation lief vom 13.11.2024 bis 15.01.2025;
+    es gingen über 40 Stellungnahmen und 20 Umfrageantworten von 46 Organisationen ein. Stand August 2026
+    ist KEIN Gesetzentwurf eingebracht. Die Ministererklärung vom 20.07.2026 führt den Rahmen als Priorität
+    5 erneut auf.
+
+    '
+  kurzbeschreibung: 'Die Robodebt-Royal-Commission untersuchte das rechtswidrige automatisierte Einkommensabgleichsverfahren
+    der Sozialverwaltung und empfahl in Empfehlung 17.1 einen konsistenten gesetzlichen Rahmen für automatisierte
+    Verwaltungsentscheidungen. Erwartet werden eine ausdrückliche gesetzliche Ermächtigung für ADM, Transparenz
+    über den Einsatz, Begründbarkeit und wirksamer Rechtsschutz. Robodebt ist der prägende australische
+    Referenzfall für die Gefahren automatisierter Entscheidungen und erklärt, warum die Transparenzpflicht
+    des Privacy Act 1988 (APP 1.7) politisch durchsetzbar war. Bislang ohne verbindliche Wirkung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://consultations.ag.gov.au/integrity/adm/
+  anwendungsdaten:
+  - datum: 2024-11-13
+    was_gilt: Beginn der Konsultation 'Use of automated decision-making by government'.
+    verifiziert: true
+    quelle: https://consultations.ag.gov.au/integrity/adm/
+  - datum: 2025-01-15
+    was_gilt: Ende der Konsultation.
+    verifiziert: true
+    quelle: https://consultations.ag.gov.au/integrity/adm/
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Empfehlung 17.1 der Robodebt-Royal-Commission: konsistenter gesetzlicher ADM-Rahmen.'
+  - 'Lehre aus Robodebt: fehlende Rechtsgrundlage, fehlende Transparenz, umgekehrte Beweislast, kein wirksamer
+    Rechtsschutz.'
+  - 'Konsultationsbeteiligung: 46 Organisationen, über 40 Submissions, 20 Umfrageantworten.'
+  - Stand 22.08.2025 letzter Verfahrensvermerk; seither kein Fortschritt öffentlich.
+  - Erneute Zusage als Priorität 5 der Ministererklärung vom 20.07.2026.
+  - 'Praktische Bedeutung: Ohne diesen Rahmen gilt für Bundesbehörden nur allgemeines Verwaltungsrecht
+    plus DTA-Policy.'
+  dokumente:
+  - datum: 2025-08-22
+    typ: konsultation
+    titel: Automated Decision-Making Reform
+    url: https://consultations.ag.gov.au/integrity/adm/
+    sprache: en
+    urheber: Attorney-General's Department
+    verifiziert: true
+    notiz: PRIMÄRQUELLE mit Konsultationsdaten und Bezug zu Empfehlung 17.1.
+  - datum: 2024-11-13
+    typ: konsultation
+    titel: Use of automated decision-making by government — Consultation paper
+    url: https://consultations.ag.gov.au/integrity/adm/user_uploads/consultation-paper-use-of-automated-decision-making-by-government.pdf
+    sprache: en
+    urheber: Attorney-General's Department
+    verifiziert: false
+    notiz: Konsultationspapier. In dieser Sitzung nicht abgerufen.
+  - datum: 2023-07-07
+    typ: bericht
+    titel: Royal Commission into the Robodebt Scheme — Report
+    url: https://robodebt.royalcommission.gov.au/publications/report
+    sprache: en
+    urheber: Royal Commission into the Robodebt Scheme
+    verifiziert: false
+    notiz: Grundlagenbericht. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Seit Januar 2025 kein sichtbarer Fortschritt; kein Gesetzentwurf.
+  - Verhältnis zur DTA-Policy und zur APP-1.7-Pflicht ungeklärt.
+  monitoring_quellen:
+  - https://consultations.ag.gov.au/integrity/adm/
+  bezug_regelwerke:
+  - au-privacy-act-1988
+  - au-dta-ai-policy-2025
+  - au-consumer-safety-priorities-2026
+  - au-wa-prisa-2024
+  letzte_pruefung: 2026-08-27
+- id: au-deepfake-act-2024
+  jurisdiktion: au
+  kurztitel: Deepfake-Strafrecht (Criminal Code Amendment 2024)
+  offizieller_titel: Criminal Code Amendment (Deepfake Sexual Material) Act 2024 (Cth)
+  fundstelle: Criminal Code Amendment (Deepfake Sexual Material) Act 2024 (Cth)
+  verfahrensnummer: Criminal Code Amendment (Deepfake Sexual Material) Bill 2024
+  status: anwendbar
+  status_detail: 'IN KRAFT. Im Juni 2024 eingebracht, 2024 verabschiedet. Das Gesetz schafft einen eigenständigen
+    Straftatbestand für die Übermittlung sexuell expliziten Materials ohne Einwilligung über Trägerdienste,
+    ausdrücklich auch KI-generiertes Material.
+
+    '
+  kurzbeschreibung: 'Der Grundtatbestand stellt die Übermittlung sexuell expliziten Materials über einen
+    Trägerdienst (carriage service) ohne Einwilligung der dargestellten Person unter Strafe; Höchststrafe
+    sechs Jahre Freiheitsstrafe. Erfasst ist Material, das Erwachsene in sexuellen Posen oder Handlungen
+    zeigt oder Intimbereiche darstellt — auch wenn es die Person nur SCHEINBAR zeigt, womit Deepfakes
+    eindeutig einbezogen sind. Standbilder und Videos sind erfasst, reine Audioinhalte nicht. Zwei Qualifikationen
+    greifen, wenn der Täter zuvor drei oder mehr zivilrechtliche Sanktionen nach dem Online Safety Act
+    2021 erhalten hat oder wenn er das Material selbst erstellt oder verändert hat. WICHTIGE LÜCKE: Das
+    bloße Erstellen oder Verändern nicht einvernehmlicher intimer Darstellungen ist auf Bundesebene für
+    sich genommen NICHT strafbar — strafbar ist erst die Übermittlung.
+
+    '
+  inkrafttreten:
+    datum: 2024-09-03
+    verifiziert: true
+    quelle: https://www.legislation.gov.au/C2024A00078/asmade/2024-09-02/text/original/epub/OEBPS/document_1/document_1.html
+    fundstelle_norm: 's. 2 Criminal Code Amendment (Deepfake Sexual Material) Act 2024 (No. 78, 2024),
+      Commencement table: ''The whole of this Act — The day after this Act receives the Royal Assent.''
+      Royal Assent am 02.09.2024, mithin Inkrafttreten am 03.09.2024'
+  anwendungsdaten:
+  - datum: 2024-06-05
+    was_gilt: Einbringung des Bill im Parlament (Anfang Juni 2024).
+    verifiziert: false
+    quelle: https://www.gtlaw.com.au/insights/australian-government-targets-sexually-explicit-deepfakes
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Grundtatbestand: Übermittlung sexuell expliziten Materials ohne Einwilligung über Trägerdienst; bis
+    zu sechs Jahre Freiheitsstrafe.'
+  - Erfasst auch Material, das die Person nur SCHEINBAR zeigt — damit Deepfakes eindeutig einbezogen.
+  - Standbilder und Videos erfasst; reine Audioinhalte NICHT.
+  - 'Qualifikation 1: drei oder mehr vorangegangene zivilrechtliche Sanktionen nach dem Online Safety
+    Act 2021.'
+  - 'Qualifikation 2: der Täter hat das Material selbst erstellt oder verändert.'
+  - 'LÜCKE: bloßes Erstellen oder Verändern ohne Übermittlung bundesrechtlich nicht strafbar.'
+  - Ergänzend greifen Landesstrafrecht und das zivilrechtliche Bild-Missbrauchs-Regime des Online Safety
+    Act.
+  dokumente:
+  - datum: 2024-06-20
+    typ: uebersicht
+    titel: Australian Government targets sexually explicit deepfakes
+    url: https://www.gtlaw.com.au/insights/australian-government-targets-sexually-explicit-deepfakes
+    sprache: en
+    urheber: Gilbert + Tobin
+    verifiziert: true
+    notiz: Tatbestand, Strafrahmen, Qualifikationen und die Lücke beim bloßen Erstellen.
+  - datum: 2024-08-21
+    typ: endfassung
+    titel: 'Passed: Criminal Code Amendment (Deepfake Sexual Material) Act 2024'
+    url: https://digitalpolicyalert.org/event/22170-passed-criminal-code-amendment-deepfake-sexual-material-act-2024
+    sprache: en
+    urheber: Digital Policy Alert
+    verifiziert: false
+    notiz: Verfahrensdatum. In dieser Sitzung nicht abgerufen — Zustimmungsdatum nicht taggenau verifiziert.
+  offene_punkte:
+  - Datum von Royal Assent und Inkrafttreten nicht taggenau verifiziert.
+  - Genaue Paragrafennummern im Criminal Code nicht ermittelt.
+  monitoring_quellen:
+  - https://www.legislation.gov.au/
+  bezug_regelwerke:
+  - au-online-safety-act-2021
+  - au-jsc-ai-2026
+  letzte_pruefung: 2026-08-27
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war der 02.09.2024 — das ist der Royal Assent, also ein Vorakt. Die
+    Inkrafttretenstabelle des s. 2 stellt ausdruecklich auf den Tag NACH der Ausfertigung ab; das Gesetz
+    gilt seit dem 03.09.2024. Am amtlichen ''as made''-Text des Federal Register of Legislation geprueft.
+    Vorher: 2024-09-02.'
+- id: au-online-safety-act-2021
+  jurisdiktion: au
+  kurztitel: Online Safety Act 2021 und eSafety-Industriekodizes
+  offizieller_titel: 'Online Safety Act 2021 (Cth); Online Safety Amendment (Social Media Minimum Age)
+    Act 2024 (Cth); Age-Restricted Material Codes
+
+    '
+  fundstelle: Online Safety Act 2021 (Cth) No. 76, 2021; registrierte Industriekodizes
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'DIE PRAKTISCH SCHÄRFSTE KI-BEZOGENE REGULIERUNG AUSTRALIENS. Die am 09.03.2026 in Kraft
+    getretenen Age-Restricted Material Codes erfassen ausdrücklich KI-Chatbots, die explizite oder schädliche
+    Inhalte erzeugen können, und verlangen Altersverifikation. Damit gelten für KI-Companion-Chatbots
+    verbindliche, durchsetzbare Pflichten — anders als im übrigen KI-Recht des Bundes.
+
+    '
+  kurzbeschreibung: 'Der Online Safety Act gibt der eSafety Commissioner Befugnisse zu Entfernungsanordnungen,
+    zivilrechtlichen Sanktionen und zur Registrierung verbindlicher Industriekodizes. Die Age-Restricted
+    Material Codes verpflichten seit dem 09.03.2026 Anbieter, vor dem Zugang zu Pornografie, schwerer
+    Gewaltdarstellung und suizidbezogenem Material das Alter zu prüfen; ein bestimmtes Verfahren schreiben
+    die Codes nicht vor und eine Ausweisprüfung verlangen sie ausdrücklich nicht — die Wahl einer angemessenen
+    und verhältnismäßigen Methode liegt beim Anbieter. Erfasst sind neben KI-Chatbots auch App-Stores,
+    Spieleplattformen und bestimmte Nachrichtendienste. App-Stores müssen Minderjährigen den Bezug nicht
+    altersgerechter Anwendungen verwehren; Suchmaschinen müssen explizite Inhalte für nicht angemeldete
+    oder als minderjährig erkannte Nutzer unkenntlich machen. Einzelne Anbieter haben Australien statt
+    der Umsetzung den Zugang gesperrt.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-23
+    verifiziert: true
+    quelle: https://www.legislation.gov.au/C2021A00076/latest/text
+    fundstelle_norm: 'Sec. 2(1) Online Safety Act 2021 (Commencement-Tabelle) i.V.m. Endnote 3 der amtlichen
+      Kompilation: "76, 2021 | Assent 23 July 2021 | Commencement 23 Jan 2022 (s 2(1) item 1)".'
+  anwendungsdaten:
+  - datum: 2026-03-09
+    was_gilt: 'Age-Restricted Material Codes in Kraft: Altersverifikation auch für KI-Chatbots, App-Stores,
+      Spieleplattformen und bestimmte Nachrichtendienste.
+
+      '
+    verifiziert: true
+    quelle: https://cadeproject.org/updates/australia-expands-age-verification-rules-to-ai-chatbots-app-stores-and-online-platforms/
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  - marktzugang
+  regelungsschwerpunkte:
+  - Age-Restricted Material Codes (ab 09.03.2026) erfassen ausdrücklich KI-Chatbots mit Fähigkeit zu expliziten
+    oder schädlichen Inhalten.
+  - Kein vorgeschriebenes Verfahren der Altersprüfung; die Codes verlangen ausdrücklich keine Ausweisprüfung,
+    die Wahl einer angemessenen und verhältnismäßigen Methode liegt beim Anbieter.
+  - 'App-Stores: Verhinderung des Bezugs nicht altersgerechter Anwendungen durch Minderjährige.'
+  - 'Suchmaschinen: Unkenntlichmachung expliziter oder gewalthaltiger Inhalte für nicht angemeldete bzw.
+    minderjährige Nutzer.'
+  - Eigene Kodexinitiative gegen KI-Chatbots, die Suizid befördern oder sexualisierte Gespräche mit Kindern
+    führen.
+  - Durchsetzung durch die eSafety Commissioner; zivilrechtliche Sanktionen.
+  - Social Media Minimum Age (Novelle 2024) mit Verschärfungsvorhaben 2026 (Online Safety Amendment Bill
+    2026, r7512).
+  - Verhältnis zur geplanten digital duty of care noch ungeklärt.
+  dokumente:
+  - datum: 2026-03-10
+    typ: uebersicht
+    titel: Australia expands age verification rules to AI chatbots, app stores and online platforms
+    url: https://cadeproject.org/updates/australia-expands-age-verification-rules-to-ai-chatbots-app-stores-and-online-platforms/
+    sprache: en
+    urheber: Civil Society Alliances for Digital Empowerment (CADE)
+    verifiziert: true
+    notiz: Belegt Inkrafttreten 09.03.2026 und die ausdrückliche Erfassung von KI-Chatbots.
+  - datum: 2026-01-01
+    typ: pressemitteilung
+    titel: New industry codes seek to take on AI chatbots that encourage suicide and engage in sexually
+      explicit conversations with children
+    url: https://www.esafety.gov.au/newsroom/media-releases/new-industry-codes-seek-to-take-on-ai-chatbots-that-encourage-suicide-and-engage-in-sexually-explicit-conversations-with-aussie-kids
+    sprache: en
+    urheber: eSafety Commissioner
+    verifiziert: false
+    notiz: 'PRIMÄRQUELLE der Aufsichtsbehörde. Abruf durch robots.txt blockiert; Datum geschätzt — vor
+      Zitat prüfen.
+
+      '
+  offene_punkte:
+  - Genaues Datum der Kodexregistrierung und Bußgeldrahmen nicht ermittelt (esafety.gov.au für Abrufe
+    gesperrt).
+  - Stand des Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum Age) Bill
+    2026 offen.
+  - Verhältnis zur geplanten digital duty of care unklar.
+  monitoring_quellen:
+  - https://www.esafety.gov.au/industry/codes
+  - https://www.esafety.gov.au/newsroom/media-releases
+  bezug_regelwerke:
+  - au-deepfake-act-2024
+  - au-coppc-2026
+  - au-consumer-safety-priorities-2026
+  letzte_pruefung: 2026-09-05
+- id: au-apra-cps230-cps234
+  jurisdiktion: au
+  kurztitel: APRA CPS 230 und CPS 234
+  offizieller_titel: 'Prudential Standard CPS 230 Operational Risk Management; Prudential Standard CPS
+    234 Information Security
+
+    '
+  fundstelle: APRA Prudential Standards CPS 230, CPS 234. CPS 230 im Schedule der Determination F2026L00475
+    (Federal Register of Legislation), in Kraft seit 01.07.2026.
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'VERBINDLICH FÜR BEAUFSICHTIGTE FINANZUNTERNEHMEN. CPS 234 gilt seit 01.07.2019, CPS
+    230 seit 01.07.2025. Die Determination F2023L01242, die CPS 230 bis dahin trug, wurde am 01.07.2026
+    aufgehoben und durch F2026L00475 (erlassen am 29.04.2026) ersetzt; seither gilt CPS 230 in dieser
+    Fassung, mit veränderter Absatzzählung. Beide Standards sind technologieneutral, erfassen KI aber
+    über operationelles Risiko, kritische Geschäftsprozesse und Drittparteienrisiko. Am 30.04.2026 richtete
+    APRA ein Schreiben zur KI-Governance an beaufsichtigte Institute.
+
+    '
+  kurzbeschreibung: 'CPS 230 verpflichtet Banken, Versicherer und Pensionsfonds, das operationelle Risiko
+    zu steuern, kritische Geschäftsprozesse zu identifizieren, Toleranzgrenzen festzulegen, Betriebsfähigkeit
+    aufrechtzuerhalten und Risiken aus Dienstleistern zu beherrschen. Da KI-Modelle regelmäßig in kritische
+    Prozesse eingebunden und über Drittanbieter bezogen werden, erfasst der Standard sie mittelbar, aber
+    wirksam. CPS 234 verlangt Informations- sicherheitsfähigkeiten, die dem Bedrohungsniveau angemessen
+    sind. Verstöße können aufsichtsrechtliche Maßnahmen bis hin zu Auflagen und Lizenzeingriffen nach
+    sich ziehen. Für KI in Finanzunternehmen ist dies faktisch das schärfste geltende Regime.
+
+    '
+  inkrafttreten:
+    datum: 2025-07-01
+    verifiziert: true
+    quelle: https://www.apra.gov.au/standards/cps-230
+  anwendungsdaten:
+  - datum: 2019-07-01
+    was_gilt: CPS 234 Information Security anwendbar.
+    verifiziert: false
+    quelle: https://www.apra.gov.au/
+  - datum: 2025-07-01
+    was_gilt: CPS 230 Operational Risk Management anwendbar.
+    verifiziert: true
+    quelle: https://www.apra.gov.au/standards/cps-230
+  - datum: 2026-04-30
+    was_gilt: APRA-Schreiben zur KI-Governance an beaufsichtigte Institute.
+    verifiziert: false
+    quelle: https://briefonline.com.au/2026/05/27/two-regulators-are-rewriting-the-ai-governance-rules-what-wa-legal-practitioners-need-to-do-now/
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'CPS 230: Steuerung operationeller Risiken, kritische Geschäftsprozesse, Toleranzgrenzen, Betriebsfähigkeit.'
+  - 'CPS 230: Drittparteienrisiko — erfasst KI-Anbieter und Modell-APIs, soweit das Institut sich für
+    einen kritischen Prozess auf sie stützt oder sie es einem wesentlichen operationellen Risiko aussetzen
+    (Abs. 48).'
+  - 'CPS 234: dem Bedrohungsniveau angemessene Informationssicherheit.'
+  - Technologieneutral, aber praktisch das schärfste geltende KI-Regime im Finanzsektor.
+  - APRA-Schreiben vom 30.04.2026 konkretisiert Erwartungen an KI-Governance.
+  - 'Flankierend: s 180 Corporations Act 2001 — ''Ich wusste nicht, was der Algorithmus tut'' ist keine
+    Verteidigung.'
+  dokumente:
+  - datum: 2025-07-01
+    typ: norm
+    titel: CPS 230 Operational Risk Management
+    url: https://www.apra.gov.au/standards/cps-230
+    sprache: en
+    urheber: Australian Prudential Regulation Authority (APRA)
+    verifiziert: false
+    notiz: PRIMÄRQUELLE des Standards. In dieser Sitzung nicht abgerufen.
+  - datum: 2026-05-27
+    typ: uebersicht
+    titel: Two regulators are rewriting the AI governance rules — what WA legal practitioners need to
+      do now
+    url: https://briefonline.com.au/2026/05/27/two-regulators-are-rewriting-the-ai-governance-rules-what-wa-legal-practitioners-need-to-do-now/
+    sprache: en
+    urheber: Brief (Law Society of Western Australia)
+    verifiziert: true
+    notiz: 'WA-BEZUG: ordnet APRA und ASIC für westaustralische Anwälte ein; nennt das APRA-Schreiben
+      vom 30.04.2026.
+
+      '
+  offene_punkte:
+  - Volltext des APRA-Schreibens vom 30.04.2026 nicht eingesehen.
+  - CPS-234-Inkrafttreten nicht primär verifiziert.
+  monitoring_quellen:
+  - https://www.apra.gov.au/news-and-publications
+  bezug_regelwerke:
+  - au-asic-ai-2024
+  letzte_pruefung: 2026-08-27
+- id: au-asic-ai-2024
+  jurisdiktion: au
+  kurztitel: ASIC und KI-Governance (REP 798)
+  offizieller_titel: 'REP 798 Beware the gap: Governance arrangements in the face of AI innovation
+
+    '
+  fundstelle: ASIC Report 798
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Im Oktober 2024 veröffentlicht. Der Bericht selbst ist unverbindlich, konkretisiert
+    aber Erwartungen an die gesetzlichen Pflichten von Inhabern einer Australian Financial Services Licence.
+    ASIC hat 2026 zum "Year of Accountability" erklärt.
+
+    '
+  kurzbeschreibung: 'REP 798 untersuchte die KI-Governance von Finanzdienstleistern und stellte eine Lücke
+    zwischen KI-Einsatz und Governance fest: Der Einsatz wachse schneller als die Steuerung. ASIC leitet
+    daraus Erwartungen aus den bestehenden Lizenzpflichten ab, insbesondere der Pflicht, Finanzdienstleistungen
+    effizient, redlich und fair zu erbringen. Der Bericht schafft kein neues Recht; Verstöße werden über
+    die allgemeinen Lizenz- und Verhaltenspflichten sanktioniert.
+
+    '
+  inkrafttreten:
+    datum: 2024-10-29
+    verifiziert: true
+    quelle: https://www.asic.gov.au/regulatory-resources/find-a-document/reports/rep-798-beware-the-gap-governance-arrangements-in-the-face-of-ai-innovation
+    fundstelle_norm: 'Kein Rechtsakt. ASIC Report 798 ''Beware the gap: Governance arrangements in the
+      face of AI innovation'', laut Kopf der amtlichen Seite ''Released 29 October 2024'''
+  anwendungsdaten:
+  - datum: 2024-10-29
+    was_gilt: Veröffentlichung von REP 798 (Monat Oktober 2024 belegt, Tag geschätzt).
+    verifiziert: false
+    quelle: https://briefonline.com.au/2026/05/27/two-regulators-are-rewriting-the-ai-governance-rules-what-wa-legal-practitioners-need-to-do-now/
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - haftung
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Kernbefund: KI-Einsatz wächst schneller als die Governance (''beware the gap'').'
+  - Anknüpfung an bestehende AFSL-Pflichten, insbesondere 'efficiently, honestly and fairly'.
+  - Kein neues Recht, aber Maßstab für aufsichtsrechtliches Handeln.
+  - 2026 von ASIC als 'Year of Accountability' ausgerufen.
+  dokumente:
+  - datum: 2024-10-29
+    typ: bericht
+    titel: 'REP 798 Beware the gap: Governance arrangements in the face of AI innovation'
+    url: https://www.asic.gov.au/regulatory-resources/find-a-document/reports/rep-798-beware-the-gap-governance-arrangements-in-the-face-of-ai-innovation
+    sprache: en
+    urheber: Australian Securities and Investments Commission (ASIC)
+    verifiziert: false
+    notiz: PRIMÄRQUELLE. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Taggenaues Veröffentlichungsdatum nicht verifiziert.
+  - Ob ASIC 2026 KI-spezifische Regulatory Guides erlassen hat, wurde nicht ermittelt.
+  monitoring_quellen:
+  - https://www.asic.gov.au/newsroom
+  bezug_regelwerke:
+  - au-apra-cps230-cps234
+  letzte_pruefung: 2026-08-27
+  pruefvermerk:
+  - 'Bestaetigt am Veroeffentlichungsdatum der ASIC-Seite. Status softlaw bestaetigt: Der Bericht konkretisiert
+    nur die Erwartungen an bestehende gesetzliche Pflichten der AFS-Lizenzinhaber.'
+- id: au-tga-ai-devices
+  jurisdiktion: au
+  kurztitel: TGA — KI als Medizinprodukt
+  offizieller_titel: 'Therapeutic Goods Act 1989 (Cth) und Therapeutic Goods (Medical Devices) Regulations
+    2002; TGA-Leitlinien zu KI-basierter Medizinproduktesoftware
+
+    '
+  fundstelle: Therapeutic Goods Act 1989 (Cth); TGA-Leitlinien Februar 2026
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'GELTENDES RECHT, 2026 KONKRETISIERT. Die TGA hat im Februar 2026 ausführliche Leitlinien
+    veröffentlicht, die klarstellen, wann KI-Software als Medizinprodukt reguliert wird. Software as a
+    Medical Device (SaMD) gehört zu den zwölf Aufsichtsschwerpunkten der TGA für 2026/27. Ein KI-Review
+    wurde durchgeführt und der Ergebnisbericht veröffentlicht.
+
+    '
+  kurzbeschreibung: 'KI-Software wird als Medizinprodukt reguliert, wenn sie zur Diagnose, Vorbeugung,
+    Überwachung, Vorhersage, Prognose, Behandlung oder Linderung von Krankheiten bestimmt ist. Maßgeblich
+    ist der Zweckbestimmung (intended purpose), nicht die Funktionsweise — Marketingmaterial, technische
+    Dokumentation und Kennzeichnung können die Zweckbestimmung begründen, sodass Produkte ungewollt in
+    die Regulierung geraten können. Erfasst sind maschinelles Lernen, große Sprachmodelle, generative
+    KI, Sprachverarbeitung und Bilderkennung. Regulierte Produkte bedürfen der Eintragung im Australian
+    Register of Therapeutic Goods; die TGA führt seit 2025 eine Liste KI-gestützter Medizinprodukte. Inverkehrbringen
+    ohne Eintragung ist mit empfindlichen Sanktionen bedroht.
+
+    '
+  inkrafttreten:
+    datum: 1991-02-15
+    verifiziert: false
+    quelle: https://www.tga.gov.au/
+  anwendungsdaten:
+  - datum: 2025-01-01
+    was_gilt: 'Erste TGA-Liste KI-gestützter Medizinprodukte im ARTG (Jahresangabe).
+
+      '
+    verifiziert: false
+    quelle: https://www.claytonutz.com/insights/2026/july/healthcare-software-tga-clarifies-when-ai-will-be-regulated-as-a-medical-device
+  - datum: 2026-02-01
+    was_gilt: 'TGA-Leitlinien zur Regulierung KI-basierter Medizinproduktesoftware veröffentlicht (Monatsangabe).
+
+      '
+    verifiziert: true
+    quelle: https://www.claytonutz.com/insights/2026/july/healthcare-software-tga-clarifies-when-ai-will-be-regulated-as-a-medical-device
+  themenachsen:
+  - sektor-medizin
+  - marktzugang
+  - haftung
+  regelungsschwerpunkte:
+  - 'Regulierungsauslöser: Zweckbestimmung, nicht Funktionsweise.'
+  - 'Zitat: ''diagnosis, prevention, monitoring, prediction, prognosis, treatment or alleviation of disease''.'
+  - 'Erfasst: maschinelles Lernen, LLMs, generative KI, Sprachverarbeitung, Bilderkennung.'
+  - Risiko der unbeabsichtigten Regulierung durch Marketingaussagen.
+  - SaMD unter den zwölf TGA-Aufsichtsschwerpunkten 2026/27.
+  - 'Parallel: Australian Commission on Safety and Quality in Health Care entwickelt KI-Sicherheitsleitlinien.'
+  dokumente:
+  - datum: 2026-07-01
+    typ: uebersicht
+    titel: 'Healthcare software: TGA clarifies when AI will be regulated as a medical device'
+    url: https://www.claytonutz.com/insights/2026/july/healthcare-software-tga-clarifies-when-ai-will-be-regulated-as-a-medical-device
+    sprache: en
+    urheber: Clayton Utz
+    verifiziert: true
+    notiz: Aktuellste Darstellung der TGA-Leitlinien Februar 2026 und der Aufsichtsschwerpunkte.
+  - datum: 2025-01-01
+    typ: bericht
+    titel: 'Clarifying and strengthening the regulation of Medical Device Software including Artificial
+      Intelligence — Outcomes report
+
+      '
+    url: https://consultations.tga.gov.au/tga/clarifying-and-strengthening-the-regulation-of-ai/supporting_documents/tga-report-clarifying-and-strengthening-the-regulation-of-medical-device-software-including-artificial-intelligence-aipdf
+    sprache: en
+    urheber: Therapeutic Goods Administration (TGA)
+    verifiziert: false
+    notiz: Ergebnisbericht des KI-Reviews. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Taggenaü Datierung der Leitlinien Februar 2026 nicht ermittelt.
+  - Geplante Rechtsänderungen aus dem KI-Review und deren Zeitplan offen.
+  - 'Inkrafttreten nicht belegbar: legislation.gov.au (Series C2004A03952 — Volltext wird nur per JavaScript
+    nachgeladen, Endnote nicht auslesbar), AustLII (s. 2 im Volltext geprueft), tga.gov.au (nennt kein
+    Datum), WTO-Legislationsdatenbank (Feld ''First EIF'' leer), Wikipedia (nur Royal Assent 17.01.1990).
+    Der Therapeutic Goods Act 1989 ist als Act No. 21 of 1990 ergangen; s. 2 nennt KEIN Datum, sondern
+    eine Bedingung: ''This Act commences on the day after the day on which a House of the Parliament approves
+    regulations made under this Act in the same form as approved by the other House ...''. Das tatsaechliche
+    Inkrafttretensdatum ergibt sich erst aus der parlamentarischen Billigung der Verordnungen und ist
+    nur einer Endnote oder dem Gazette zu entnehmen; es liess sich nicht belegen. Der eingetragene 15.02.1991
+    ist WEDER Ausfertigung (17.01.1990) NOCH Verkuendung, also kein Vorakt-Datum, und damit plausibel
+    — aber unbelegt. Verifiziert bleibt false. Empfehlung: Endnote 3 der aktuellen Kompilation auf legislation.gov.au
+    im Browser mit vollstaendig geladener Textansicht pruefen.'
+  monitoring_quellen:
+  - https://www.tga.gov.au/news
+  - https://consultations.tga.gov.au/
+  bezug_regelwerke:
+  - au-ahpra-ai-2024
+  letzte_pruefung: 2026-08-27
+- id: au-ahpra-ai-2024
+  jurisdiktion: au
+  kurztitel: Ahpra — KI-Pflichten der Gesundheitsberufe
+  offizieller_titel: 'Meeting your professional obligations when using Artificial Intelligence in healthcare
+
+    '
+  fundstelle: Australian Health Practitioner Regulation Agency (Ahpra) und National Boards
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Am 11.10.2024 veröffentlicht. Formal Leitlinie, praktisch maßgeblich: Sie konkretisiert
+    die Verhaltenskodizes, deren Verletzung berufsrechtliche Maßnahmen bis zur Streichung nach sich ziehen
+    kann.
+
+    '
+  kurzbeschreibung: 'Die Leitlinie stellt klar, dass registrierte Gesundheitsberufe für jeden KI-Einsatz
+    in ihrer Praxis letztverantwortlich bleiben. Sie müssen menschliche Aufsicht und eigenes Urteil wahren,
+    von KI erzeugte Aufzeichnungen vor Verwendung auf Richtigkeit prüfen, Werkzeuge vor dem klinischen
+    Einsatz testen, Trainingsdaten, Verzerrungen, Risiken und Grenzen des Systems verstehen, über Datenerhebung,
+    -speicherung und -schutz Bescheid wissen, Patienten über den KI-Einsatz informieren und vor der Eingabe
+    von Patientendaten eine informierte Einwilligung einholen. Ferner sind TGA-Anforderungen einzuhalten
+    und eine angemessene Berufshaftpflichtversicherung vorzuhalten. Die Struktur ist für das Berufsrecht
+    anderer Berufe, auch der Anwaltschaft, aufschlussreich.
+
+    '
+  inkrafttreten:
+    datum: 2024-10-11
+    verifiziert: true
+    quelle: https://www.minterellison.com/articles/ahpra-introduces-ai-guidelines-for-health-practitioners
+  anwendungsdaten:
+  - datum: 2024-10-11
+    was_gilt: Veröffentlichung der Leitlinie.
+    verifiziert: true
+    quelle: https://www.minterellison.com/articles/ahpra-introduces-ai-guidelines-for-health-practitioners
+  themenachsen:
+  - sektor-medizin
+  - berufsrecht
+  - haftung
+  - datenschutz
+  regelungsschwerpunkte:
+  - Letztverantwortung des Behandlers für jeden KI-Einsatz — unabhängig von Zulassung oder Ruf des Systems.
+  - Menschliche Aufsicht und eigenes fachliches Urteil.
+  - Prüfung KI-erzeugter Aufzeichnungen auf Richtigkeit vor Verwendung.
+  - Kenntnis von Trainingsdaten, Verzerrungen, Risiken und Grenzen.
+  - Patienteninformation über KI-Einsatz; informierte Einwilligung vor Eingabe von Patientendaten.
+  - Einhaltung der TGA-Anforderungen; angemessene Berufshaftpflichtversicherung.
+  - Durchsetzung über die Verhaltenskodizes der National Boards.
+  dokumente:
+  - datum: 2024-10-11
+    typ: leitlinie
+    titel: Ahpra introduces AI guidelines for health practitioners
+    url: https://www.minterellison.com/articles/ahpra-introduces-ai-guidelines-for-health-practitioners
+    sprache: en
+    urheber: MinterEllison (zur Ahpra-Leitlinie)
+    verifiziert: true
+    notiz: Datierung und vollständige Pflichtenliste.
+  offene_punkte:
+  - Primärdokument auf ahpra.gov.au nicht abgerufen.
+  - Erste berufsrechtliche Entscheidungen zu KI-Fehlgebrauch nicht ermittelt.
+  monitoring_quellen:
+  - https://www.ahpra.gov.au/News.aspx
+  bezug_regelwerke:
+  - au-tga-ai-devices
+  - au-gerichte-ki-2026
+  - au-wa-lpb-ai-2024
+  letzte_pruefung: 2026-08-27
+- id: au-acl-2010
+  jurisdiktion: au
+  kurztitel: Australian Consumer Law und KI
+  offizieller_titel: 'Australian Consumer Law (Schedule 2 to the Competition and Consumer Act 2010 (Cth))
+
+    '
+  fundstelle: Competition and Consumer Act 2010 (Cth), Schedule 2
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'GELTENDES RECHT, REVIEW ANGEKÜNDIGT. Die ACL gilt technologieneutral für KI-gestützte
+    Produkte und Dienste. Als Priorität 4 der Ministererklärung vom 20.07.2026 ist eine Überprüfung angekündigt,
+    insbesondere zu Surveillance Pricing und agentischem Handel. Ein Gesetzentwurf liegt nicht vor.
+
+    '
+  kurzbeschreibung: 'Die ACL verbietet irreführendes und täuschendes Verhalten (s 18), unlautere Geschäftspraktiken
+    und missbräuchliche Vertragsklauseln und begründet Verbrauchergarantien für Waren und Dienstleistungen,
+    einschließlich der Garantie angemessener Sorgfalt und Fachkunde. Auf KI angewandt heißt das: unzutreffende
+    Aussagen über Fähigkeiten eines KI-Produkts ("AI washing"), fehlerhafte KI-Ausgaben in kommerziellen
+    Diensten und intransparente algorithmische Preisgestaltung können ACL-Verstöße sein. Durchsetzung
+    durch die ACCC mit erheblichen Geldbußen. Die ACL ist damit neben dem Privacy Act das wichtigste allgemeine
+    Auffangregime für KI-Schäden im Verhältnis zu Verbrauchern.
+
+    '
+  inkrafttreten:
+    datum: 2011-01-01
+    verifiziert: true
+    quelle: https://en.wikipedia.org/wiki/Australian_Consumer_Law
+    fundstelle_norm: Australian Consumer Law = Schedule 2 des Competition and Consumer Act 2010 (Cth);
+      in Kraft getreten am 01.01.2011 ('The law commenced on 1 January 2011, replacing 20 different consumer
+      laws across the Commonwealth and the states and territories'). Der Competition and Consumer Act
+      2010 ist die zum selben Termin umbenannte Fassung des Trade Practices Act 1974
+  anwendungsdaten:
+  - datum: 2026-07-20
+    was_gilt: 'Ankündigung eines ACL-Review zu Surveillance Pricing und agentic commerce (Priorität 4).
+
+      '
+    verifiziert: true
+    quelle: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
+  themenachsen:
+  - haftung
+  - wettbewerb
+  - vertrag
+  - content
+  regelungsschwerpunkte:
+  - 's 18 ACL: irreführendes und täuschendes Verhalten — erfasst ''AI washing''.'
+  - Verbrauchergarantien, insbesondere angemessene Sorgfalt und Fachkunde bei KI-gestützten Diensten.
+  - Missbräuchliche Vertragsklauseln in KI-Nutzungsbedingungen.
+  - 'Angekündigter Review: Surveillance Pricing, agentic commerce.'
+  - Durchsetzung durch die ACCC.
+  dokumente:
+  - datum: 2026-07-21
+    typ: uebersicht
+    titel: Australia lists consumer protection and a digital duty of care as AI safety priorities
+    url: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
+    sprache: en
+    urheber: Australasian Lawyer
+    verifiziert: true
+    notiz: Belegt den angekündigten ACL-Review und seinen Zuschnitt.
+  offene_punkte:
+  - Kein Konsultationspapier, kein Zeitplan für den ACL-Review.
+  - ACCC-Durchsetzungspraxis zu KI in dieser Recherche nicht systematisch erfasst.
+  monitoring_quellen:
+  - https://www.accc.gov.au/media-releases
+  - https://treasury.gov.au/consultation
+  bezug_regelwerke:
+  - au-consumer-safety-priorities-2026
+  - au-privacy-act-1988
+  letzte_pruefung: 2026-08-27
+  pruefvermerk:
+  - 'Bestaetigt. Hinweis: Als Beleg dient hier eine Enzyklopaedie, weil die amtliche Seite des Federal
+    Register of Legislation den Inkrafttretenstext nur per JavaScript nachlaedt und accc.gov.au kein Datum
+    nennt; das Datum 01.01.2011 ist jedoch unstreitig und in zahlreichen Kanzleianalysen belegt. Fuer
+    eine amtliche Fundstelle waere die Inkrafttretenstabelle des Trade Practices Amendment (Australian
+    Consumer Law) Act (No. 2) 2010 heranzuziehen.'
+- id: au-antidiskriminierung-adm
+  jurisdiktion: au
+  kurztitel: Antidiskriminierungsrecht und automatisierte Entscheidungen
+  offizieller_titel: 'Racial Discrimination Act 1975, Sex Discrimination Act 1984, Disability Discrimination
+    Act 1992, Age Discrimination Act 2004 (Cth); Arbeiten der Australian Human Rights Commission
+
+    '
+  fundstelle: Diverse Bundesgesetze; AHRC-Publikationen
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'GELTENDES RECHT OHNE KI-SPEZIFISCHE ANPASSUNG. Die Antidiskriminierungsgesetze des Bundes
+    gelten technologieneutral und erfassen algorithmische Diskriminierung als mittelbare Diskriminierung.
+    Eine KI-spezifische Novelle gibt es nicht. Die AHRC fordert seit Jahren bessere KI-Regulierung; ihre
+    Vorschläge wurden nicht umgesetzt.
+
+    '
+  kurzbeschreibung: 'Diskriminierung wegen Rasse, Geschlecht, Behinderung oder Alter ist verboten; erfasst
+    wird auch mittelbare Diskriminierung durch scheinbar neutrale Kriterien, worunter algorithmische Entscheidungen
+    fallen. Praktisch ist die Durchsetzung schwierig: Betroffene erfahren regelmäßig nicht, dass und wie
+    ein Algorithmus entschieden hat — weshalb die Transparenzpflicht des Privacy Act ab 10.12.2026 mittelbar
+    auch dem Diskriminierungsschutz dient. Die AHRC hat unter anderem eine Leitlinie zu KI und Diskriminierung
+    in der Versicherungspreisbildung und -risikoprüfung (gemeinsam mit dem Actuaries Institute, 01.12.2022)
+    vorgelegt und zu den KI-Untersuchungen des Parlaments Stellung genommen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://humanrights.gov.au/our-work/technology-and-human-rights
+  anwendungsdaten:
+  - datum: 2022-12-01
+    was_gilt: 'AHRC und Actuaries Institute veröffentlichen die Leitlinie zu KI und Diskriminierung in
+      der Versicherung.
+
+      '
+    verifiziert: true
+    quelle: https://humanrights.gov.au/about/news/media-releases/artificial-intelligence-and-anti-discrimination-major-new-publication
+  themenachsen:
+  - grundrechte
+  - haftung
+  - arbeit
+  - sektor-finanz
+  regelungsschwerpunkte:
+  - Mittelbare Diskriminierung erfasst algorithmische Entscheidungen — ohne KI-spezifische Norm.
+  - 'Beweisproblem: Betroffene erfahren regelmäßig nichts vom Algorithmus.'
+  - Deshalb ist die Transparenzpflicht APP 1.7 (ab 10.12.2026) mittelbar diskriminierungsrechtlich bedeutsam.
+  - AHRC-Leitlinie 01.12.2022 zu KI und Diskriminierung in Versicherungspreisbildung und Risikoprüfung.
+  - 'Zitat AHRC: algorithmische Verzerrung kann Diskriminierung wegen Alter, Rasse, Behinderung oder Geschlecht
+    bewirken.'
+  - 'AHRC-Position: Australien braucht bessere KI-Regulierung — bislang nicht umgesetzt.'
+  dokumente:
+  - datum: 2022-12-01
+    typ: leitlinie
+    titel: 'Artificial intelligence and anti-discrimination: major new publication'
+    url: https://humanrights.gov.au/about/news/media-releases/artificial-intelligence-and-anti-discrimination-major-new-publication
+    sprache: en
+    urheber: Australian Human Rights Commission und Actuaries Institute
+    verifiziert: true
+    notiz: Belegt Titel, Datum und Kernaussagen der Versicherungsleitlinie.
+  - datum: 2025-01-15
+    typ: stellungnahme
+    titel: Use of automated decision-making by government — AHRC-Stellungnahme
+    url: https://humanrights.gov.au/resource-hub/by-resource-type/submissions/use-of-automated-decision-making-by-government
+    sprache: en
+    urheber: Australian Human Rights Commission
+    verifiziert: false
+    notiz: Stellungnahme zur ADM-Konsultation. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Keine australische Leitentscheidung zu algorithmischer Diskriminierung ermittelt.
+  - Ein Australian Human Rights Act existiert weiterhin nicht.
+  monitoring_quellen:
+  - https://humanrights.gov.au/our-work/technology-and-human-rights
+  bezug_regelwerke:
+  - au-privacy-act-1988
+  - au-adm-reform-robodebt
+  letzte_pruefung: 2026-08-27
+- id: au-dta-ai-policy-2025
+  jurisdiktion: au
+  kurztitel: Policy for the responsible use of AI in government (DTA)
+  offizieller_titel: Policy for the responsible use of AI in government — Version 2.0
+  fundstelle: Digital Transformation Agency (DTA), digital.gov.au
+  verfahrensnummer: null
+  status: teilanwendbar
+  status_detail: 'VERBINDLICH FÜR COMMONWEALTH-BEHÖRDEN, GESTAFFELT ANWENDBAR. Version 1 galt ab 01.09.2024.
+    Version 2.0 trat am 15.12.2025 in Kraft; die erste Pflichtanforderung griff am 15.06.2026, die übrigen
+    im Dezember 2026. Am 31.03.2026 startete ein zentrales Register der AI Transparency Statements.
+
+    '
+  kurzbeschreibung: 'Die Policy bindet nichtkorporative und korporative Commonwealth-Behörden (Verteidigung
+    und Nachrichtendienste ausgenommen). Sie verlangt die Benennung eines verantwortlichen Amtsträgers
+    (accountable official, in der Praxis Chief AI Officer), die Veröffentlichung eines AI Transparency
+    Statement, interne Register der KI-Anwendungsfälle, Folgenabschätzungen zu Fairness, Sicherheit, Datenschutz,
+    Transparenz, Sicherheit und menschzentrierten Werten, klare Genehmigungs- und Aufsichtsprozesse, Schulung
+    des Personals in den Australian AI Ethics Principles, Vorfallreaktion und Meldewege sowie strategische
+    KI-Planung. Grundlagenschulung ist im gesamten Australian Public Service verpflichtend. Sie ist eine
+    Verwaltungsvorschrift, kein Gesetz, und begründet keine subjektiven Rechte Dritter.
+
+    '
+  inkrafttreten:
+    datum: 2025-12-15
+    verifiziert: true
+    quelle: https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government
+  anwendungsdaten:
+  - datum: 2024-09-01
+    was_gilt: Version 1 der Policy anwendbar.
+    verifiziert: false
+    quelle: https://www.digital.gov.au/ai/ai-in-government-policy
+  - datum: 2025-12-15
+    was_gilt: Version 2.0 in Kraft (strategische KI-Planung, Betriebspraxis, Personalbefähigung).
+    verifiziert: true
+    quelle: https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government
+  - datum: 2026-03-31
+    was_gilt: 'Zentrales Register der AI Transparency Statements auf digital.gov.au gestartet; 94 pflichtige
+      plus 20 freiwillige Behörden.
+
+      '
+    verifiziert: true
+    quelle: https://www.dta.gov.au/articles/new-central-register-ai-transparency-statements-commonwealth-entities
+  - datum: 2026-06-15
+    was_gilt: Erste Pflichtanforderung der Version 2.0 wirksam.
+    verifiziert: true
+    quelle: https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government
+  - datum: 2026-12-01
+    was_gilt: 'Übrige Pflichtanforderungen der Version 2.0 wirksam (Monatsangabe Dezember 2026, kein Tag
+      genannt).
+
+      '
+    verifiziert: false
+    quelle: https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - Accountable official / Chief AI Officer in jeder pflichtigen Behörde.
+  - AI Transparency Statement — seit 31.03.2026 zentral registriert und öffentlich einsehbar.
+  - Internes Register der KI-Anwendungsfälle mit benannten Verantwortlichen.
+  - Folgenabschätzungen zu Fairness, Sicherheit, Datenschutz, Transparenz, menschzentrierten Werten.
+  - Verpflichtende Grundlagenschulung im gesamten APS.
+  - Vorfallreaktion und Meldewege für Sicherheitsbedenken.
+  - Verwaltungsvorschrift ohne subjektive Rechte Dritter — kein Rechtsschutz für Betroffene.
+  dokumente:
+  - datum: 2026-01-12
+    typ: leitlinie
+    titel: 'AI Policy Update: Strengthening responsible use across government'
+    url: https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government
+    sprache: en
+    urheber: Digital Transformation Agency
+    verifiziert: true
+    notiz: PRIMÄRQUELLE für Version 2.0, Inkrafttreten 15.12.2025 und die Fristen 15.06.2026 / Dezember
+      2026.
+  - datum: 2026-03-31
+    typ: pressemitteilung
+    titel: New central register of AI transparency statements for Commonwealth entities
+    url: https://www.dta.gov.au/articles/new-central-register-ai-transparency-statements-commonwealth-entities
+    sprache: en
+    urheber: Digital Transformation Agency
+    verifiziert: true
+    notiz: Belegt Start des Registers und die Zahl der beteiligten Behörden.
+  - datum: 2025-12-15
+    typ: leitlinie
+    titel: Policy for the responsible use of AI in government — Version 2.0
+    url: https://www.digital.gov.au/ai/ai-in-government-policy
+    sprache: en
+    urheber: Digital Transformation Agency
+    verifiziert: false
+    notiz: 'PRIMÄRTEXT der Policy. Abruf durch robots.txt blockiert; Inhalt über DTA-Meldungen rekonstruiert.
+
+      '
+  offene_punkte:
+  - Taggenaues Datum der Dezember-2026-Frist nicht ermittelt.
+  - Welche einzelne Anforderung am 15.06.2026 griff, ist nicht präzise benannt.
+  - Primärtext der Policy nicht eingesehen (robots.txt).
+  monitoring_quellen:
+  - https://www.dta.gov.au/updates
+  - https://www.digital.gov.au/ai/ai-in-government-policy
+  bezug_regelwerke:
+  - au-adm-reform-robodebt
+  - au-privacy-act-1988
+  - au-wa-ai-policy-2024
+  letzte_pruefung: 2026-08-27
+- id: au-wa-prisa-2024
+  jurisdiktion: au
+  subjurisdiktion: au-wa
+  kurztitel: PRIS Act — WA-Datenschutzgesetz mit ADM-Grundsatz
+  offizieller_titel: Privacy and Responsible Information Sharing Act 2024 (WA)
+  fundstelle: Privacy and Responsible Information Sharing Act 2024 (WA)
+  verfahrensnummer: null
+  status: teilanwendbar
+  status_detail: 'WICHTIGSTES WA-SPEZIFISCHES REGELWERK MIT KI-BEZUG. Der Großteil der materiellen Pflichten
+    gilt seit 01.07.2026. Das Notifiable Information Breach Scheme folgt am 01.01.2027. Für den Bearbeiter
+    besonders relevant: IPP 10 enthält eine eigenständige Regelung automatisierter Entscheidungen, die
+    über das Bundesrecht hinausgeht.
+
+    '
+  kurzbeschreibung: 'Das Gesetz führt erstmals ein allgemeines Datenschutzregime für den öffentlichen
+    Sektor Westaustraliens ein und bindet Minister, Ressorts, öffentliche Stellen, die WA Police Force,
+    Kommunen, Justizkörperschaften, benannte Einrichtungen sowie vertraglich gebundene Dienstleister —
+    womit auch private Unternehmen erfasst sein können, die für WA-Behörden tätig werden. Es enthält elf
+    Information Privacy Principles mit einem übergreifenden Gebot der Fairness und Angemessenheit. IPP
+    10 regelt automatisierte Entscheidungen und verlangt Folgenabschätzungen, Unterrichtung der Betroffenen
+    und die Möglichkeit menschlichen Eingreifens bei erheblichen automatisierten Entscheidungen. IPP 11
+    schützt de-identifizierte Daten und untersagt Re-Identifizierung. Behörden mussten bis 01.07.2026
+    Privacy Officer und Information Sharing Officer benennen, Richtlinien veröffentlichen, PIAs für risikoreiche
+    Vorhaben durchführen und ein Breach-Register führen.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-01
+    verifiziert: true
+    quelle: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
+  anwendungsdaten:
+  - datum: 2026-07-01
+    was_gilt: 'Großteil der materiellen Pflichten anwendbar: elf IPPs einschließlich IPP 10 (automatisierte
+      Entscheidungen) und IPP 11 (de-identifizierte Daten); Benennung von Privacy Officer und Information
+      Sharing Officer; veröffentlichte Richtlinien; PIAs; Breach-Register.
+
+      '
+    verifiziert: true
+    quelle: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
+  - datum: 2027-01-01
+    was_gilt: Notifiable Information Breach Scheme anwendbar.
+    verifiziert: true
+    quelle: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'IPP 10 — AUTOMATISIERTE ENTSCHEIDUNGEN: Folgenabschätzung, Unterrichtung der Betroffenen, Möglichkeit
+    menschlichen Eingreifens bei erheblichen Entscheidungen.'
+  - Damit geht WA über die bloße Transparenzpflicht des Bundes (APP 1.7) hinaus — Quelle spricht von 'unique
+    protections around automated decision-making'.
+  - 'IPP 11: Schutz de-identifizierter Daten, Verbot der Re-Identifizierung — für KI-Trainingsdaten unmittelbar
+    bedeutsam.'
+  - Übergreifendes Gebot 'fair and reasonable' für Erhebung, Nutzung und Offenlegung.
+  - 'Adressaten: IPP Entities einschließlich Kommunen, Polizei und vertraglich gebundener Dienstleister.'
+  - 'Zweite Säule: Information Sharing Scheme für verantwortlichen Datenaustausch zwischen WA-Behörden.'
+  - 'Pflichten seit 01.07.2026: Privacy Officer, Information Sharing Officer, veröffentlichte Richtlinien,
+    PIAs, Breach-Register.'
+  dokumente:
+  - datum: 2026-01-15
+    typ: uebersicht
+    titel: ExPRIS Delivery — Timetable set for the commencement of WA's new privacy laws
+    url: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
+    sprache: en
+    urheber: HWL Ebsworth
+    verifiziert: true
+    notiz: 'BESTE QUeLLE: vollständiger Zeitplan, Adressatenkreis und ausdrückliche Darstellung von IPP
+      10 und IPP 11.
+
+      '
+  - datum: 2024-01-01
+    typ: endfassung
+    titel: Privacy and Responsible Information Sharing Act 2024 (WA)
+    url: https://www.legislation.wa.gov.au/legislation/statutes.nsf/RedirectURL?OpenAgent=&query=mrdoc_47994.htm
+    sprache: en
+    urheber: Parliament of Western Australia
+    verifiziert: false
+    notiz: PRIMÄRTEXT. In dieser Sitzung nicht abgerufen — vor Zitat prüfen.
+  - datum: 2026-07-21
+    typ: uebersicht
+    titel: 'Privacy, data and a new era of accountability: WA''s PRIS Act takes effect'
+    url: https://briefonline.com.au/2026/07/21/privacy-data-and-a-new-era-of-accountability-was-pris-act-takes-effect/
+    sprache: en
+    urheber: Brief (Law Society of Western Australia)
+    verifiziert: false
+    notiz: WA-Anwaltsperspektive. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Genauer Wortlaut von IPP 10 nicht im Primärtext eingesehen.
+  - Schwellenwert 'significant' bei automatisierten Entscheidungen und Sanktionsregime nicht ermittelt.
+  - Ob der WA Information Commissioner Leitlinien zu IPP 10 veröffentlicht hat, ist offen.
+  monitoring_quellen:
+  - https://www.wa.gov.au/government/privacy-and-responsible-information-sharing
+  - https://www.wa.gov.au/organisation/office-of-the-information-commissioner/privacy-western-australia
+  bezug_regelwerke:
+  - au-privacy-act-1988
+  - au-wa-ai-policy-2024
+  - au-adm-reform-robodebt
+  letzte_pruefung: 2026-08-27
+- id: au-wa-ai-policy-2024
+  jurisdiktion: au
+  subjurisdiktion: au-wa
+  kurztitel: WA Government AI Policy and Assurance Framework
+  offizieller_titel: 'Western Australian Government Artificial Intelligence Policy and Artificial Intelligence
+    Assurance Framework
+
+    '
+  fundstelle: 'Department of the Premier and Cabinet, Office of Digital Government (DGov)
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'VERBINDLICH FÜR WA-REGIERUNGSSTELLEN. Am 05.03.2024 veröffentlicht, zuletzt am 25.08.2026
+    aktualisiert (Version 2). Die Benennungsfrist für AI Accountable Officers lief am 19.09.2025 ab.
+
+    '
+  kurzbeschreibung: 'Die Policy gilt für Stellen der WA-Landesregierung und erfasst sowohl beschaffte
+    als auch selbst entwickelte KI-Systeme. Jede Stelle muss einen AI Accountable Officer auf Führungsebene
+    benennen, der den KI-Einsatz beaufsichtigt und die Selbstbewertungen nach dem Assurance Framework
+    freigibt. Für jedes System oder Vorhaben, das durch KI oder automatisierte Entscheidungsfindung getrieben
+    wird, ist in allen Projektphasen eine Online-Selbstbewertung durchzuführen. Erreicht ein Vorhaben
+    ein mittleres oder höheres Restrisiko, wird es aus dem Digital Capability Fund finanziert oder übersteigen
+    die Gesamtkosten fünf Millionen AUD, ist es dem AI Advisory Board zur Prüfung vorzulegen. Niedrigrisiko-Vorhaben
+    bedürfen keiner weiteren Schritte. Es handelt sich um Verwaltungsvorgaben ohne Außenwirkung.
+
+    '
+  inkrafttreten:
+    datum: 2024-03-05
+    verifiziert: true
+    quelle: https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework
+  anwendungsdaten:
+  - datum: 2024-03-05
+    was_gilt: Veröffentlichung von Policy und Assurance Framework.
+    verifiziert: true
+    quelle: https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework
+  - datum: 2025-09-19
+    was_gilt: Frist zur Benennung der AI Accountable Officers.
+    verifiziert: true
+    quelle: https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework
+  - datum: 2026-08-25
+    was_gilt: Letzte Aktualisierung (Version 2 der Policy).
+    verifiziert: true
+    quelle: https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - AI Accountable Officer auf Führungsebene in jeder WA-Regierungsstelle.
+  - 'Zitat: ''The AI Accountable Officer ensures that their entity uses AI in alignment with the Policy
+    and approves AI Assurance Framework self-assessments.'''
+  - Selbstbewertung für jedes System oder Vorhaben, das durch KI ODER automatisierte Entscheidungsfindung
+    getrieben wird — in allen Projektphasen.
+  - Vorlage beim AI Advisory Board bei mittlerem oder höherem Restrisiko, Finanzierung aus dem Digital
+    Capability Fund oder Gesamtkosten über 5 Mio. AUD.
+  - Erfasst beschaffte UND selbst entwickelte Systeme.
+  - 'Sehr aktuell: Aktualisierung vom 25.08.2026, zwei Tage vor Rechercheschluss.'
+  - Reine Verwaltungsvorgabe ohne subjektive Rechte Dritter.
+  dokumente:
+  - datum: 2026-08-25
+    typ: leitlinie
+    titel: WA Government Artificial Intelligence Policy and Assurance Framework
+    url: https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework
+    sprache: en
+    urheber: Department of the Premier and Cabinet, Office of Digital Government (DGov)
+    verifiziert: true
+    notiz: 'PRIMÄRQUELLE, am 25.08.2026 aktualisiert. Enthält Policy und Assurance Framework samt Schwellenwerten.
+
+      '
+  - datum: 2023-05-09
+    typ: leitlinie
+    titel: Artificial Intelligence Usage in the Western Australian Government (Advisory 20230509001)
+    url: https://soc.cyber.wa.gov.au/advisories/20230509001-artificial-intelligence-usage-in-the-western-australian-government/
+    sprache: en
+    urheber: WA Cyber Security Unit (DGov Technical)
+    verifiziert: false
+    notiz: 'Frühere Sicherheitswarnung zum KI-Einsatz in der WA-Verwaltung. In dieser Sitzung nicht abgerufen.
+
+      '
+  offene_punkte:
+  - Inhalt der Änderungen vom 25.08.2026 gegenüber Version 1 nicht ermittelt.
+  - Zusammensetzung und Entscheidungspraxis des AI Advisory Board unbekannt.
+  - Ob die Policy auf Kommunen erstreckt wurde, ist offen.
+  monitoring_quellen:
+  - https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/policies-and-guidance
+  - https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework
+  bezug_regelwerke:
+  - au-wa-prisa-2024
+  - au-dta-ai-policy-2025
+  letzte_pruefung: 2026-08-27
+- id: au-wa-lpb-ai-2024
+  jurisdiktion: au
+  subjurisdiktion: au-wa
+  kurztitel: Legal Practice Board WA — KI in der Rechtsberatung
+  offizieller_titel: 'Statement on the use of artificial intelligence in Australian legal practice (gemeinsame
+    Erklärung der Anwaltsaufsichten)
+
+    '
+  fundstelle: 'Gemeinsame Erklärung der Law Society of New South Wales, des Legal Practice Board of Western
+    Australia und des Victorian Legal Services Board and Commissioner vom 6. Dezember 2024
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'UNMITTELBAR BERUFSRECHTLICH RELEVANT FÜR WA. Am 06.12.2024 veröffentlicht. Formal eine
+    Erklärung ohne eigene Sanktion, aber sie legt aus, wie die bestehenden Berufspflichten auf KI anzuwenden
+    sind — deren Verletzung ist als unsatisfactory professional conduct oder professional misconduct verfolgbar.
+    Ein eigener KI-Kodex des Legal Practice Board WA wurde nicht gefunden.
+
+    '
+  kurzbeschreibung: 'Die Erklärung stellt fest, dass ethische Standards und Berufspflichten für KI genauso
+    gelten wie für jede andere Tätigkeit. Vier Pflichten stehen im Vordergrund: Verschwiegenheit — sensible
+    Mandantendaten dürfen nicht in öffentliche KI-Chatbots eingegeben werden, sonst droht der Verlust
+    des Berufsgeheimnisschutzes; unabhängiges Urteil — KI-Ausgaben ersetzen nicht die eigene forensische
+    Bewertung; Kompetenz und Redlichkeit — wegen Halluzinationen muss jeder Inhalt vor Verwendung persönlich
+    geprüft werden; angemessene Kosten — die Abrechnung muss die tatsächlich erbrachte Leistung abbilden
+    und darf nicht durch unnötige Prüfschleifen aufgebläht werden. Empfohlen werden risikobasierte Kanzleirichtlinien,
+    die Beschränkung auf risikoärmere Tätigkeiten und Transparenz gegenüber Mandanten und Gerichten.
+
+    '
+  inkrafttreten:
+    datum: 2024-12-06
+    verifiziert: true
+    quelle: https://www.lpbwa.org.au/ai-guidance-to-safeguard-consumers-of-legal-services
+  anwendungsdaten:
+  - datum: 2024-12-06
+    was_gilt: Veröffentlichung der gemeinsamen Erklärung.
+    verifiziert: true
+    quelle: https://www.lpbwa.org.au/ai-guidance-to-safeguard-consumers-of-legal-services
+  themenachsen:
+  - berufsrecht
+  - datenschutz
+  - haftung
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Zitat: ''ethical standards and professional obligations of lawyers ... apply equally to the use of
+    AI as to any aspect of a practitioner''s work.'''
+  - 'Verschwiegenheit: keine sensiblen Mandantendaten in öffentliche KI-Chatbots — Risiko für das Berufsgeheimnis.'
+  - 'Unabhängiges Urteil: KI ersetzt nicht die eigene forensische Bewertung.'
+  - 'Kompetenz und Redlichkeit: persönliche Prüfung wegen Halluzinationen zwingend.'
+  - 'Angemessene Kosten: keine Aufblähung der Rechnung durch KI-bedingte Prüfschleifen.'
+  - 'Empfehlung: risikobasierte Kanzleirichtlinien, Beschränkung auf risikoärmere Tätigkeiten (z. B. E-Mail-Entwürfe
+    statt Übersetzung von Rechtsrat).'
+  - Transparenz gegenüber Mandanten und Gerichten, soweit erforderlich.
+  - 'Zitat VLSB+C: ''it''s their duty to provide accurate legal information, not the duty of the AI program
+    they use.'''
+  dokumente:
+  - datum: 2024-12-06
+    typ: leitlinie
+    titel: AI guidance to safeguard consumers of legal services
+    url: https://www.lpbwa.org.au/ai-guidance-to-safeguard-consumers-of-legal-services
+    sprache: en
+    urheber: Legal Practice Board of Western Australia
+    verifiziert: true
+    notiz: WA-PRIMÄRQUELLE. Für den Bearbeiter als künftigen WA-Berufsträger unmittelbar einschlägig.
+  - datum: 2024-12-06
+    typ: leitlinie
+    titel: Statement on the use of artificial intelligence in Australian legal practice
+    url: https://lsbc.vic.gov.au/news-updates/news/statement-use-artificial-intelligence-australian-legal-practice
+    sprache: en
+    urheber: Victorian Legal Services Board and Commissioner (für alle drei Aufsichten)
+    verifiziert: true
+    notiz: Volltextnächste Fassung der gemeinsamen Erklärung mit allen vier Pflichtenkreisen.
+  - datum: 2026-05-27
+    typ: uebersicht
+    titel: Two regulators are rewriting the AI governance rules — what WA legal practitioners need to
+      do now
+    url: https://briefonline.com.au/2026/05/27/two-regulators-are-rewriting-the-ai-governance-rules-what-wa-legal-practitioners-need-to-do-now/
+    sprache: en
+    urheber: Brief (Law Society of Western Australia)
+    verifiziert: true
+    notiz: 'Aktuelle WA-Perspektive: Anwälte als Berater, als Direktoren (s 180 Corporations Act) und
+      als Kanzleiinhaber mit Aufsichtspflicht über KI-Ausgaben.
+
+      '
+  offene_punkte:
+  - Kein eigenständiger KI-Kodex des Legal Practice Board WA gefunden.
+  - Keine WA-Disziplinarentscheidung zu KI-Fehlgebrauch ermittelt.
+  - Ob die Law Society of WA eigene Praxisleitlinien erlassen hat, wurde nicht abschließend geprüft.
+  monitoring_quellen:
+  - https://www.lpbwa.org.au/
+  - https://briefonline.com.au/
+  - https://lawsocietywa.asn.au/
+  bezug_regelwerke:
+  - au-gerichte-ki-2026
+  - au-ahpra-ai-2024
+  - au-oaic-ai-guidance-2024
+  letzte_pruefung: 2026-08-27
+- id: au-gerichte-ki-2026
+  jurisdiktion: au
+  kurztitel: Gerichtliche Regelwerke zu generativer KI in Schriftsätzen
+  offizieller_titel: 'Practice Notes, Practice Directions und Guidelines australischer Gerichte und Tribunale
+    zur Nutzung generativer künstlicher Intelligenz
+
+    '
+  fundstelle: 'Federal Court GPN-AI; FCFCOA PD-AI; NSW Supreme Court Practice Note SC Gen 23; Supreme
+    Court of Victoria SC Gen 25; Supreme Court of Queensland PD 5 of 2025; Supreme Court of South Australia
+    Guidelines; Supreme Court of WA (nur Konsultation)
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'FLICKENTEPPICH MIT UNTERSCHIEDLICHER VERBINDLICHKEIT. Practice Notes und Practice Directions
+    sind für Verfahrensbeteiligte verbindlich und über Kostenentscheidungen und Berufsrecht durchsetzbar,
+    auch wenn sie keine Gesetze sind. Der Bund und alle großen Ostküstenstaaten haben Regelungen erlassen.
+    WESTERN AUSTRALIA IST DAS SCHLUSSLICHT: Der Supreme Court of WA hat im März 2025 lediglich eine Consultation
+    Note veröffentlicht (Einreichungsschluss 31.03.2025); eine erlassene Practice Direction war am 27.08.2026
+    nicht auffindbar. Widersprüchliche Quellenlage, siehe meta.quellenkonflikte.
+
+    '
+  kurzbeschreibung: 'Die Regelwerke verpflichten Verfahrensbeteiligte, die Grenzen generativer KI zu kennen,
+    ihre Nutzung offenzulegen, wo verlangt, und die Richtigkeit jeder Angabe selbst zu verantworten. Der
+    Federal Court verlangt in GPN-AI (Chief Justice Mortimer, erlassen 16.04.2026), dass Schriftsätze
+    keine erfundenen Fälle, falschen Zitate oder unzutreffenden Rechtsausführungen enthalten und dass
+    zitierte Entscheidungen tatsächlich existieren und die behauptete Aussage tragen. Bei eidesstattlichen
+    Versicherungen und Sachverständigengutachten gilt Besonderes: Sie müssen das eigene Wissen und die
+    eigene Gedankenführung des Zeugen oder Sachverständigen wiedergeben; ein KI-Einsatz zur Zusammenfassung
+    oder Analyse zugrunde liegender Informationen ist offenzulegen. Vertrauliche Informationen dürfen
+    nicht in gewöhnliche KI-Werkzeuge eingegeben werden. Sanktion sind nachteilige Kostenentscheidungen
+    und berufsrechtliche Folgen.
+
+    '
+  inkrafttreten:
+    datum: 2024-02-01
+    verifiziert: false
+    quelle: https://www.lawsociety.com.au/AI-hub/court-protocols-ai
+  anwendungsdaten:
+  - datum: 2024-11-21
+    was_gilt: 'NSW Supreme Court Practice Note SC Gen 23 erlassen (Generative AI Practice Note and Judicial
+      Guidelines).
+
+      '
+    verifiziert: false
+    quelle: https://supremecourt.nsw.gov.au/documents/Practice-and-Procedure/Practice-Notes/general/current/PN_Generative_AI_21112024.pdf
+  - datum: 2025-02-03
+    was_gilt: 'SC Gen 23 in NSW wirksam; begleitende Änderung der Verfahrensregeln (Monatsangabe Februar
+      2025).
+
+      '
+    verifiziert: false
+    quelle: https://www.smokeball.com.au/blog/guide-to-the-court-protocols-on-ai-in-australian-courts
+  - datum: 2025-03-01
+    was_gilt: 'Supreme Court of Western Australia veröffentlicht Consultation Note zu generativer KI;
+      Einreichungsschluss 31.03.2025.
+
+      '
+    verifiziert: true
+    quelle: https://www.supremecourt.wa.gov.au/_files/AI_practice_direction.pdf
+  - datum: 2025-11-17
+    was_gilt: NSW Supreme Court gibt Überprüfung der Practice Note bekannt.
+    verifiziert: false
+    quelle: https://supremecourt.nsw.gov.au/content/dam/dcj/ctsd/supreme-court/documents/media/Statement-AI-20251117.pdf
+  - datum: 2025-12-01
+    was_gilt: 'Supreme Court of South Australia erlässt Guidelines zu generativer KI in der Prozessführung.
+
+      '
+    verifiziert: false
+    quelle: https://www.courts.sa.gov.au/2026/01/19/supreme-court-issues-guidelines-for-the-use-of-generative-ai/
+  - datum: 2026-01-12
+    was_gilt: Local Court of NSW Practice Note zu generativer KI in Kraft.
+    verifiziert: false
+    quelle: https://localcourt.nsw.gov.au/documents/practice-notes/other/Practice_Note_Generative_Artificial_Intelligence_Commences_12.01.26.pdf
+  - datum: 2026-04-16
+    was_gilt: 'Federal Court of Australia: Practice Note GPN-AI erlassen (Chief Justice D S Mortimer).
+
+      '
+    verifiziert: true
+    quelle: https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-ai
+  - datum: 2026-05-01
+    was_gilt: 'Federal Circuit and Family Court of Australia: PD-AI aktualisiert (Monatsangabe Mai 2026).
+
+      '
+    verifiziert: false
+    quelle: https://www.lawsociety.com.au/AI-hub/court-protocols-ai
+  themenachsen:
+  - berufsrecht
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'BUND — Federal Court GPN-AI (16.04.2026): Kenntnis der Grenzen generativer KI; keine erfundenen Fälle,
+    falschen Zitate, unzutreffenden Rechtsausführungen.'
+  - 'GPN-AI: zitierte Entscheidungen müssen existieren UND die behauptete Aussage tragen; Tatsachenbehauptungen
+    müssen beweisbar sein.'
+  - 'GPN-AI: Bei affidavits und Sachverständigengutachten muss das Dokument eigenes Wissen und eigene
+    Gedankenführung wiedergeben; KI-Einsatz zur Zusammenfassung oder Analyse ist offenzulegen.'
+  - 'GPN-AI: keine vertraulichen Informationen in gewöhnliche KI-Werkzeuge.'
+  - 'GPN-AI: Sanktion sind nachteilige Kostenentscheidungen und berufsrechtliche Folgen.'
+  - NSW — Practice Note SC Gen 23 (erlassen 21.11.2024, wirksam Februar 2025), am 17.11.2025 in Überprüfung;
+    ergänzt durch Judicial Guidelines.
+  - 'NSW weiter: Land and Environment Court, District Court GPN 2, Local Court (ab 12.01.2026), NCAT Procedural
+    Direction 7, Personal Injury Commission PIC13.'
+  - VICTORIA — Supreme Court SC Gen 25 'The use of Artificial Intelligence by Court users'; Guidelines
+    for Litigants; County Court Guidelines.
+  - QUEENSLAND — Supreme Court Practice Direction No. 5 of 2025 'Accuracy of References in Submissions';
+    SCPD 14 of 2024; Leitlinien für Nichtjuristen und für Richter; QCAT PD 10 of 2025.
+  - SOUTH AUSTRALIA — Supreme Court Guidelines (Dezember 2025).
+  - 'WESTERN AUSTRALIA — NUR Consultation Note (März 2025, Frist 31.03.2025). District Court of WA: keine
+    Regelung. WA ist die am wenigsten regulierte Jurisdiktion.'
+  - 'WA-Kontext: Chief Justice Peter Quinlan hielt am 07.08.2026 die Minds Count Annual Lecture ''What
+    the Machine Doesn''t Know: Humanity, Artificial Intelligence and the Law''.'
+  - 'Tasmanien, ACT, NT: keine Regelwerke ermittelt.'
+  dokumente:
+  - datum: 2026-04-16
+    typ: leitlinie
+    titel: Use of Generative Artificial Intelligence Practice Note (GPN-AI)
+    url: https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-ai
+    sprache: en
+    urheber: Federal Court of Australia (Chief Justice D S Mortimer)
+    verifiziert: true
+    notiz: PRIMÄRQUELLE des Bundesgerichts; strengste und aktuellste Regelung.
+  - datum: 2026-05-14
+    typ: uebersicht
+    titel: Court Protocols on AI
+    url: https://www.lawsociety.com.au/AI-hub/court-protocols-ai
+    sprache: en
+    urheber: The Law Society of New South Wales
+    verifiziert: true
+    notiz: 'Beste Gesamtübersicht aller australischen Gerichts- und Tribunalregelungen mit Statusangabe
+      (Stand 14.05.2026). ACHTUNG: führt für den SCWA aktive Guidelines, was die SCWA-Website nicht bestätigt.
+
+      '
+  - datum: 2025-03-01
+    typ: konsultation
+    titel: Supreme Court of Western Australia — Consultation Note on Generative Artificial Intelligence
+    url: https://www.supremecourt.wa.gov.au/_files/AI_practice_direction.pdf
+    sprache: en
+    urheber: Supreme Court of Western Australia
+    verifiziert: true
+    notiz: 'WA-PRIMÄRQUELLE. Trotz des Dateinamens ''AI_practice_direction'' handelt es sich um eine Konsultation,
+      NICHT um eine erlassene Practice Direction. Einreichungsschluss war der 31.03.2025.
+
+      '
+  - datum: 2024-11-21
+    typ: leitlinie
+    titel: Supreme Court Practice Note SC Gen 23 — Use of Generative Artificial Intelligence
+    url: https://supremecourt.nsw.gov.au/documents/Practice-and-Procedure/Practice-Notes/general/current/PN_SC_Gen_23.pdf
+    sprache: en
+    urheber: Supreme Court of New South Wales
+    verifiziert: false
+    notiz: PRIMÄRTEXT SC Gen 23. In dieser Sitzung nicht abgerufen.
+  - datum: 2026-08-07
+    typ: bericht
+    titel: 'What the Machine Doesn''t Know: Humanity, Artificial Intelligence and the Law (Minds Count
+      Annual Lecture 2026)'
+    url: https://www.supremecourt.wa.gov.au/_files/Minds%20Count%20Annual%20Lecture%202026.pdf
+    sprache: en
+    urheber: The Hon Chief Justice Peter Quinlan, Supreme Court of Western Australia
+    verifiziert: true
+    notiz: 'WA-relevant: aktuellste öffentliche Positionierung der WA-Gerichtsspitze zu KI und Recht.
+
+      '
+  - datum: 2025-04-11
+    typ: stellungnahme
+    titel: Submission to the Supreme Court of WA — Generative Artificial Intelligence
+    url: https://lawsocietywa.asn.au/wp-content/uploads/2025/04/2025APR11-Submission-to-SCWA-Generative-Artificial-Intelligence.pdf
+    sprache: en
+    urheber: Law Society of Western Australia
+    verifiziert: false
+    notiz: Stellungnahme der WA-Anwaltschaft zur Konsultation. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - 'WIDERSPRUCH ZU KLÄREN: Hat der Supreme Court of WA inzwischen Guidelines erlassen? Law Society of
+    NSW sagt ja, die SCWA-Website zeigt nur die Konsultation von 2025. Direkte Nachfrage bei Gericht oder
+    Law Society of WA empfohlen.
+
+    '
+  - Ergebnis der NSW-Überprüfung von SC Gen 23 (angekündigt 17.11.2025) nicht ermittelt.
+  - Mehrere Datumsangaben nur monatsgenau.
+  - Keine australische Sanktionsentscheidung wegen KI-Halluzinationen im Schriftsatz systematisch erfasst.
+  - 'Inkrafttreten nicht belegbar: lawsociety.com.au/AI-hub/court-protocols-ai (die im Eintrag hinterlegte
+    Quelle; Stand 14.05.2026, ein reines Verzeichnis ohne Datumsangaben je Protokoll), fedcourt.gov.au,
+    supremecourt.nsw.gov.au. Der eingetragene 01.02.2024 laesst sich keinem der aufgefuehrten Regelwerke
+    zuordnen: Die belegten Daten sind 03.02.2025 (NSW SC Gen 23), 16.04.2026 (Federal Court GPN-AI), 2025
+    (Queensland PD 5 of 2025), 12.01.2026 (Local Court of NSW). Ein Protokoll vom Februar 2024 ist nicht
+    auffindbar. Der Eintrag ist ein Sammeleintrag ueber mehrere Regelwerke mit verschiedenen Daten; ein
+    einziges Inkrafttretensdatum ist dafuer nicht sinnvoll bestimmbar. Empfehlung: entweder auf das aelteste
+    belegte Datum (03.02.2025, NSW) setzen oder den Eintrag in anwendungsdaten je Gericht aufloesen. Es
+    wurde bewusst kein Datum gesetzt; verifiziert bleibt false.'
+  monitoring_quellen:
+  - https://www.lawsociety.com.au/AI-hub/court-protocols-ai
+  - https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-ai
+  - https://www.supremecourt.wa.gov.au/
+  - https://supremecourt.nsw.gov.au/practice-procedure/generative-artificial-intelligence.html
+  bezug_regelwerke:
+  - au-wa-lpb-ai-2024
+  - au-ahpra-ai-2024
+  letzte_pruefung: 2026-08-27
+- id: au-sa-royal-commission-ai-2026
+  jurisdiktion: au
+  kurztitel: Royal Commission into AI (South Australia)
+  offizieller_titel: Royal Commission into Artificial Intelligence (South Australia)
+  fundstelle: Government of South Australia, Department of the Premier and Cabinet
+  verfahrensnummer: null
+  status: verfahren
+  status_detail: 'AUSTRALIENWEIT ERSTE ROYAL COMMISSION ZU KI. Am 10.08.2026 vom südaustralischen Premier
+    angekündigt. Beginn der Arbeit 01.10.2026, Abschlussbericht bis 01.07.2027. Stand 18.08.2026 waren
+    weder die Terms of Reference noch die Commissioners noch Einreichungsfristen veröffentlicht. Aufgenommen
+    als nationaler Kontext, obwohl nicht WA.
+
+    Stand 07.09.2026, amtlich (Office for AI South Australia): Der Abschlussbericht ist spätestens am
+    01.07.2027 vorzulegen ("Final Report Due: No later than 1 July 2027") — diese Angabe fehlte bisher.
+    Untersuchungsgegenstand nach der Mitteilung des Department of the Premier and Cabinet vom 11.08.2026:
+    Landes- und Bundespolitik sowie Regulierungsrahmen; Auswirkungen auf Schulen, Hochschulen und berufliche
+    Bildung; Folgen für den öffentlichen Dienst, insbesondere das Gesundheitswesen; Arbeitskräfte und
+    Qualifikationen; Chancen der KI-Infrastruktur einschließlich Energie- und Wasserfragen. Unverändert
+    offen: Terms of Reference ("to be determined"), Commissioners ("a panel of commissioners will be appointed")
+    und Einreichungsfristen. Arbeitsbeginn bleibt 01.10.2026.
+
+    '
+  kurzbeschreibung: 'Die Royal Commission untersucht wirtschaftliche und gesellschaftliche Chancen und
+    Herausforderungen künstlicher Intelligenz für South Australia. Sie will Beweise aus einem breiten
+    Querschnitt der Gesellschaft erheben — Wirtschaft, Branchenverbände, Gewerkschaften, Technologieentwickler,
+    Wissenschaft, unabhängige Sachverständige und Vertreter der Kreativwirtschaft. Als Royal Commission
+    verfügt sie über Zwangsbefugnisse zur Beweiserhebung, erlässt aber kein Recht; ihre Empfehlungen sind
+    unverbindlich. Wegen des Vorbilds der Robodebt-Royal-Commission ist mit erheblicher politischer Wirkung
+    auch über South Australia hinaus zu rechnen.
+
+    '
+  inkrafttreten:
+    datum: 2026-10-01
+    verifiziert: true
+    quelle: https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
+  anwendungsdaten:
+  - datum: 2026-08-10
+    was_gilt: Ankündigung der Royal Commission durch den Premier von South Australia.
+    verifiziert: false
+    quelle: https://www.abc.net.au/news/2026-08-10/artificial-intelligence-royal-commission-announced-in-sa/107017502
+  - datum: 2026-10-01
+    was_gilt: Beginn der Arbeit der Royal Commission.
+    verifiziert: true
+    quelle: https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
+  - datum: 2027-07-01
+    was_gilt: Frist für den Abschlussbericht.
+    verifiziert: true
+    quelle: https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
+  themenachsen:
+  - governance
+  - arbeit
+  - grundrechte
+  - urheberrecht
+  regelungsschwerpunkte:
+  - Erste Royal Commission zu KI in Australien — höchste Untersuchungsform des australischen Rechts.
+  - 'Untersuchungsgegenstand: wirtschaftliche und gesellschaftliche Chancen und Herausforderungen von
+    KI für South Australia.'
+  - Breite Beweiserhebung einschließlich Gewerkschaften und Kreativwirtschaft.
+  - Zwangsbefugnisse zur Beweiserhebung, aber keine Rechtsetzungsbefugnis.
+  - 'Stand 18.08.2026: Terms of Reference und Commissioners noch nicht benannt.'
+  - 'Kontakt für Beteiligung: artificialintelligence@sa.gov.au'
+  dokumente:
+  - datum: 2026-08-18
+    typ: uebersicht
+    titel: Royal Commission into Artificial Intelligence
+    url: https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
+    sprache: en
+    urheber: Office for AI, Government of South Australia
+    verifiziert: true
+    notiz: PRIMÄRQUELLE mit Beginn- und Berichtsdatum sowie Kontaktadresse.
+  - datum: 2026-08-10
+    typ: pressemitteilung
+    titel: Royal Commission into Artificial Intelligence announced
+    url: https://www.dpc.sa.gov.au/news/royal-commission-into-artificial-intelligence-announced
+    sprache: en
+    urheber: Department of the Premier and Cabinet, South Australia
+    verifiziert: false
+    notiz: Ankündigung. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Terms of Reference, Commissioners und Einreichungsfristen noch nicht veröffentlicht — laufend beobachten.
+  - Ankündigungsdatum 10.08.2026 nur über Sekundärquelle.
+  monitoring_quellen:
+  - https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
+  - https://www.dpc.sa.gov.au/news
+  bezug_regelwerke:
+  - au-jsc-ai-2026
+  - au-adm-reform-robodebt
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: ai.sa.gov.au und dpc.sa.gov.au abgerufen. Die Berichtsfrist 01.07.2027 ist neu und amtlich
+    belegt. Terms of Reference und Commissioners sind zum Stichtag ausdrücklich noch nicht festgelegt.
+    WIDERSPRUCH beim Ankündigungsdatum: die DPC-Mitteilung datiert auf den 11.08.2026, die ABC-Meldung
+    auf den 10.08.2026, die Seite von ai.sa.gov.au weist den 18.08.2026 als Veröffentlichungs- und Änderungsdatum
+    aus; maßgeblich ist die DPC-Mitteilung. Terms of Reference und Berufungen müssen bis zum Arbeitsbeginn
+    01.10.2026 vorliegen — erneute Prüfung Ende September angezeigt.'

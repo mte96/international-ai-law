@@ -1,0 +1,186 @@
+fristen:
+- id: us-2026-concord-anthropic-sj-f1
+  datum: null
+  beschreibung: 'TERMIN NICHT BELEGBAR. Der Antrag der Verlage auf partielles Summary Judgment (Dkt. 594
+    vom 23.03.2026) war auf den 15.07.2026, 10:00 Uhr, Courtroom 7, San Jose, terminiert; diese Anhörung
+    hat nicht stattgefunden. Die Schriftsatzrunde zu den gegenläufigen Anträgen (Dkt. 594 und Dkt. 693)
+    ist seit dem 18.08.2026 abgeschlossen. Weder das CourtListener-Docket (Stand 04.09.2026) noch die
+    Fallseite des Gerichts (cand.uscourts.gov) weisen einen neuen Anhörungstermin aus. Statt dessen belegt
+    die Minute Entry Dkt. 795: Am 02.09.2026 fand eine Statuskonferenz statt, in der das Gericht seine
+    vorläufige Entscheidung zur gestuften Discovery übernahm und den Parteien aufgab, bis zum 11.09.2026
+    zu erklären, welche Daubert-Anträge zusammen mit den Summary-Judgment-Anträgen zu behandeln sind,
+    und bis zum 23.09.2026 einen abgestimmten Koordinierungs- und Verfahrensleitungsbeschluss vorzuschlagen.
+    Mit Dkt. 792 vom 01.09.2026 wurde außerdem das Verfahren 26-cv-8505 als verwandt zugeordnet.
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  verfahren: us-2026-concord-anthropic-sj
+  adressat: Anbieter generativer Modelle; Musikverlage; Rechteinhaber kurzer Werke
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/
+  fundstelle_norm: N.D. Cal., No. 5:24-cv-03811-EKL, Dkt. 594 (Motion Hearing set for 7/15/2026) und Dkt.
+    795 (Minute Entry vom 02.09.2026)
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: us-2026-mosaic-sj-f1
+  datum: 2026-10-30
+  uhrzeit: '10:00'
+  beschreibung: 'Summary-Judgment-Anhörung In re Mosaic LLM Litigation vor Judge Charles R. Breyer, N.D.
+    Cal., am 30.10.2026, 10:00 Uhr, Courtroom 06, 17. Stock, San Francisco. Die Terminverfügung setzt
+    zugleich die Schriftsatzfristen: Erwiderungen bis 13.08.2026, Repliken bis 14.09.2026 — nicht, wie
+    andernorts vermerkt, bis zum Anhörungstag.
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  verfahren: us-2026-mosaic-llm-sj
+  adressat: Anbieter von Textmodellen; Buchautoren
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/68325564/in-re-mosaic-llm-litigation/
+  fundstelle_norm: 'N.D. Cal., No. 3:24-cv-01451-CRB, Terminverfügung zum Summary-Judgment-Antrag: „Motion
+    Hearing set for 10/30/2026 10:00 AM in San Francisco, Courtroom 06, 17th Floor before Judge Charles
+    R. Breyer“'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: us-2026-openai-mdl-f1
+  datum: 2026-11-06
+  beschreibung: 'Fällig: Repliken zu den Summary-Judgment- und Daubert-Anträgen im In re OpenAI, Inc.,
+    Copyright Infringement Litigation (MDL 3143), S.D.N.Y., Judge Stein. Der Scheduling Order vom 23.03.2026
+    setzt die Kette: Anträge bis 04.09.2026, Erwiderungen bis 09.10.2026, Repliken bis 06.11.2026. Zum
+    selben 06.11.2026 hat jede Partei etwaige Schwärzungsanträge zu ihrer eigenen Replik zu stellen, Stellungnahmen
+    Dritter dazu bis 16.11.2026. Ein Anhörungstermin ist im Docket nicht gesetzt.
+
+    '
+  typ: einreichung
+  jurisdiktion: us
+  verfahren: us-2026-openai-mdl-sj
+  adressat: OpenAI; Microsoft; New York Times und übrige MDL-Kläger
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/69879510/in-re-openai-inc-copyright-infringement-litigation/
+  fundstelle_norm: 'S.D.N.Y., MDL No. 1:25-md-03143-SHS-OTW, Scheduling Order von Judge Sidney H. Stein
+    vom 23.03.2026: „The last day to file replies in support of motions for summary judgment and Daubert
+    motions is November 6, 2026“'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: us-2026-ross-3circuit-f1
+  datum: 2026-12-31
+  beschreibung: 'SCHÄTZDATUM, KEIN GERICHTLICH GESETZTER TERMIN. Erwartete Entscheidung des Third Circuit
+    in Thomson Reuters v. ROSS Intelligence (No. 25-2153) — erste US-Berufungsentscheidung zu Fair Use
+    beim KI-Training. Mündliche Verhandlung war am 11.06.2026. Stand 05.09.2026 ist keine Entscheidung
+    ergangen: Das CourtListener-Docket weist als letzten Eintrag den 24.06.2026 aus, eine veröffentlichte
+    Entscheidung ist in der Opinion-Datenbank nicht auffindbar. Berufungsgerichte setzen für ihre Entscheidungen
+    keine Termine; der 31.12.2026 bleibt eine Schätzung („late 2026“) und darf nicht als Frist behandelt
+    werden.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  verfahren: us-2026-ross-3circuit
+  adressat: Sämtliche Anbieter und Nutzer generativer KI mit US-Bezug
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/70622297/thomson-reuters-enterprise-centre-gmbh-v-ross-intelligence-inc/
+  fundstelle_norm: null
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: us-2027-suno-sj-f1
+  datum: 2027-04-09
+  beschreibung: 'Fällig: dispositive Anträge einschließlich Summary Judgment in UMG Recordings u.a. v.
+    Suno, D. Mass., Judge Saylor. Der Terminplan ist mehrfach geändert worden: 19.06.2026 (Beschluss vom
+    03.10.2025), 14.08.2026 (Beschluss vom 19.12.2025), 08.01.2027 (Beschluss vom 09.03.2026) und zuletzt
+    09.04.2027 durch den Beschluss vom 30.06.2026. Dieser setzt zugleich: Rebuttal Expert Reports bis
+    16.12.2026, Reply Expert Reports bis 15.01.2027, Trial Expert Depositions bis 05.03.2027.
+
+    '
+  typ: einreichung
+  jurisdiktion: us
+  verfahren: us-2026-suno-mtd
+  adressat: Anbieter generativer Musikmodelle; Tonträgerhersteller
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/68878608/umg-recordings-inc-v-suno-inc/
+  fundstelle_norm: 'D. Mass., No. 1:24-cv-11611-FDS, Electronic Order von District Judge F. Dennis Saylor
+    IV vom 30.06.2026 („AMENDED ORDERED DEADLINES: … Dispositive Motions by 4/9/27“)'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 60
+  - 14
+- id: us-2027-andersen-sj-f1
+  datum: 2027-02-17
+  uhrzeit: '14:00'
+  beschreibung: 'Anhörung über den Antrag auf Klassenzulassung (class certification) in Andersen v. Stability
+    AI, N.D. Cal., Judge William H. Orrick — am 17.02.2027, 14:00 Uhr, per Videokonferenz. Der Scheduling
+    Order vom 02.02.2026 setzt daneben: Ende der Tatsachen-Discovery 01.06.2026, Pretrial Conference 26.04.2027,
+    14:00 Uhr, und Geschworenenprozess ab 01.06.2027, 8:30 Uhr, Courtroom 02, 17. Stock, San Francisco.
+    Ein Summary-Judgment-Termin ist im Docket nicht gesetzt.
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  verfahren: us-2026-andersen-status
+  adressat: Anbieter von Bildgeneratoren; bildende Künstler
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd/
+  fundstelle_norm: 'N.D. Cal., No. 3:23-cv-00201-WHO, Scheduling Order von Judge William H. Orrick vom
+    02.02.2026: „Hearing on Motion for Class Certification set for 2/17/2027 02:00 PM via Videoconference“'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 60
+  - 14
+- id: us-2027-kadrey-sj-f1
+  datum: 2027-02-25
+  beschreibung: 'Anhörung über die dispositiven Anträge in Kadrey v. Meta, N.D. Cal., Judge Vince Chhabria,
+    am 25.02.2027. Die Terminfestsetzung vom 26.03.2026 legt die vollständige Kette fest: Sachverständigengutachten
+    18.09.2026, Rebuttal 16.10.2026, Reply Expert Reports 30.10.2026, Ende der Sachverständigen-Discovery
+    20.11.2026, Summary-Judgment-Schriftsatz 1 (Kläger) 11.12.2026, Schriftsatz 2 (Beklagte, zugleich
+    Erwiderung) 11.01.2027, Schriftsatz 3 (Kläger, Erwiderung und Replik) 29.01.2027, Schriftsatz 4 (Replik
+    der Beklagten) 12.02.2027. Danach werden Endurteil und Berufung zum Ninth Circuit erwartet.
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  verfahren: us-2026-kadrey-interlocutory-denied
+  adressat: Meta; Buchautoren; alle Verfahren mit Shadow-Library-Bezug
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/67569326/kadrey-v-meta-platforms-inc/
+  fundstelle_norm: 'N.D. Cal., No. 3:23-cv-03417-VC, Terminfestsetzung („Set Deadlines/Hearings“) vom
+    26.03.2026: „Dispositive Motion Hearing set for 2/25/2027“'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 60
+  - 14
+- id: us-2027-google-genai-f1
+  datum: 2027-03-10
+  beschreibung: 'NUR VORGESCHLAGEN, NICHT GERICHTLICH GESETZT. Für In re Google Generative AI Copyright
+    Litigation (N.D. Cal., No. 5:23-cv-03440-EKL, Judge Eumi K. Lee) war der 10.03.2027 als Anhörungstermin
+    für Summary Judgment vorgeschlagen worden. Im Docket findet sich zu diesem Datum nichts — es enthält
+    überhaupt keinen Eintrag mit einem Termin im Jahr 2027. Letzter Eintrag ist der 25.08.2026; die letzten
+    Vorgänge betreffen die Rücknahme des Beitrittsantrags von Cengage Learning und Hachette (Dkt. 473
+    bis 477).
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  verfahren: us-2026-google-genai
+  adressat: Google/Alphabet; Buchautoren und Künstler
+  handlungsbedarf: null
+  quelle: https://www.courtlistener.com/docket/67599029/l-v-alphabet-inc/
+  fundstelle_norm: null
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 60
+  - 14

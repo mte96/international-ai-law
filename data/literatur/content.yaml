@@ -1,0 +1,1744 @@
+# Gepflegte Datenbasis.
+literatur:
+- id: 2023-hacker-engel-mauer-regulating-chatgpt
+  typ: aufsatz
+  autoren:
+  - Hacker, Philipp
+  - Engel, Andreas
+  - Mauer, Marco
+  titel: Regulating ChatGPT and Other Large Generative AI Models
+  fundstelle: FAccT '23, Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency,
+    1112
+  jahr: 2023
+  sprache: en
+  doi: 10.1145/3593013.3594067
+  url: https://arxiv.org/abs/2302.02337
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - content
+  - datenschutz
+  - governance
+  - gpai
+  - marktzugang
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - dsgvo-schnittstelle
+  - gpai-code-of-practice
+  - ki-vo-2024-1689
+  kernthese: Große generative Modelle passen weder in das Hochrisikoschema der KI-VO noch in das Plattformregime
+    des DSA; nötig sind gestufte Pflichten entlang der Wertschöpfungskette und die Übertragung der DSA-Inhaltemoderation
+    auf Modellanbieter.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die GPAI-Regulierung der KI-VO wesentlich mitgeprägt hat und in der
+    Trilogphase intensiv rezipiert wurde; Hacker war zu den Foundation-Model-Regeln auch als Sachverständiger
+    beteiligt. Wer die Entstehungsgeschichte des Kapitels V rekonstruiert, kommt daran nicht vorbei. Der
+    Vorschlag, DSA-Moderationspflichten auf Modellanbieter zu übertragen, ist nicht Gesetz geworden —
+    die Frage stellt sich mit der Omnibus-Erweiterung der KI-Büro-Zuständigkeit auf in sehr große Online-Plattformen
+    eingebettete Systeme neu.
+
+    '
+  letzte_pruefung: 2026-08-27
+  bezug_streitstaende: []
+  bezug_urteile: []
+  auch_erfasst_in:
+  - 31_lit_eu
+  - 33_lit_datenschutz
+  normen:
+  - ki-vo-art-51
+  - ki-vo-art-53
+- id: 2023-kirchenbauer-watermark-llm
+  typ: aufsatz
+  autoren:
+  - Kirchenbauer, John
+  - Geiping, Jonas
+  - Wen, Yuxin
+  - Katz, Jonathan
+  - Miers, Ian
+  - Goldstein, Tom
+  titel: A Watermark for Large Language Models
+  fundstelle: ICML 2023; arXiv:2301.10226
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2301.10226
+  url: https://arxiv.org/abs/2301.10226
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - content
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - cn-ai-labelling
+  kernthese: Ein Wasserzeichen lässt sich durch Bevorzugung einer pseudozufällig bestimmten Tokenmenge
+    beim Sampling einbetten, ist für Menschen unsichtbar und ohne Zugriff auf das Modell statistisch nachweisbar.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das technische Referenzverfahren, auf das sich jede Diskussion über Art. 50 Abs.
+    2 KI-VO und über die chinesische Kennzeichnungspflicht bezieht, und der Beleg dafür, dass die Pflicht
+    technisch grundsätzlich erfüllbar ist. Juristisch wichtig sind drei Eigenschaften, die der Text offenlegt
+    und die in der Rechtsliteratur meist untergehen: Das Verfahren funktioniert nur bei hinreichend langem
+    Text, es setzt Kontrolle über den Sampling-Vorgang voraus — also geschlossene Modelle — und es ist
+    anbieterspezifisch, weil der Schlüssel beim Anbieter liegt. Damit ist die Kennzeichnungspflicht für
+    offene Gewichte konstruktiv nicht erfüllbar, was Art. 50 Abs. 2 KI-VO nicht thematisiert. Gegenposition
+    ist Zhang u.a. 2023.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-2
+- id: 2023-zhang-watermarks-in-the-sand
+  typ: aufsatz
+  autoren:
+  - Zhang, Hanlin
+  - Edelman, Benjamin L.
+  - Francati, Danilo
+  - Venturi, Daniele
+  - Ateniese, Giuseppe
+  - Barak, Boaz
+  titel: 'Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models'
+  fundstelle: ICML 2024; arXiv:2311.04378 (Fassung vom 27.05.2025)
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2311.04378
+  url: https://arxiv.org/abs/2311.04378
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - content
+  - governance
+  - gpai
+  - sicherheit-export
+  bezug_regelwerke:
+  - cn-ai-labelling
+  - ki-vo-2024-1689
+  kernthese: 'Starke Wasserzeichen sind unter natürlichen Annahmen unmöglich: Ein generischer Angriff
+    entfernt die Markierung aus drei etablierten Verfahren bei nur geringfügigem Qualitätsverlust, auch
+    wenn der Schlüssel geheim bleibt.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob Art. 50 Abs. 2 KI-VO — Markierungen, die "wirksam, interoperabel,
+    robust und zuverlässig" sind, "soweit dies technisch möglich ist" — eine erfüllbare Pflicht begründet,
+    und gegenüber welchem Angreifermodell. PFLICHT, weil dies das dritte Unmöglichkeitsergebnis dieser
+    Akte ist und weil es unmittelbar auf einen Normtext trifft, der 2026 in Anwendung geht. Der Beweis
+    ist konstruktiv: Die Autoren geben einen universellen Angriff an, der nur zwei Fähigkeiten voraussetzt
+    — beurteilen können, ob eine Ausgabe gut ist, und sie leicht verändern können — und führen ihn erfolgreich
+    gegen drei veröffentlichte Verfahren. Beides hat ein Angreifer mit Zugang zu irgendeinem hinreichend
+    guten Modell, also praktisch jeder. Für die Auslegung folgt: Der Vorbehalt "soweit technisch möglich"
+    ist keine Randbemerkung, sondern die tragende Einschränkung der Norm, und er ist nach dem Stand der
+    Forschung gegenüber einem vorsätzlichen Entferner erfüllt — die Pflicht läuft dort leer. Umgekehrt
+    bleibt sie gegenüber dem unvorsätzlichen Weiterverbreiter wirksam, und das ist der Adressat, den die
+    Norm ausweislich Erwägungsgrund 133 eigentlich meint. Wer diese Unterscheidung — Angreifer gegen Zufallsnutzer
+    — in die Auslegung einführt, löst den scheinbaren Widerspruch zwischen diesem Text und 2024-dathathri-synthid,
+    und das ist der derzeit originellste Zugang zu Art. 50. ANGREIFBAR: Der Satz gilt für "starkes" Wasserzeichnen
+    mit den definierten Qualitäts- und Störungsorakeln; die Autoren räumen ein, dass schwächere Garantien
+    praktisch wertvoll bleiben. Wer den Text als Beleg dafür zitiert, Kennzeichnung sei sinnlos, missbraucht
+    ihn.
+
+    '
+  letzte_pruefung: 2026-08-27
+  bezug_streitstaende: []
+  bezug_urteile: []
+  auch_erfasst_in:
+  - 33_lit_datenschutz
+  - 35_lit_technik
+  normen:
+  - ki-vo-art-50-abs-2
+- id: 2024-srinivasan-detecting-ai-fingerprints
+  typ: bericht
+  autoren:
+  - Srinivasan, Siddarth
+  titel: 'Detecting AI Fingerprints: A Guide to Watermarking and Beyond'
+  fundstelle: Brookings Institution, 04.01.2024
+  jahr: 2024
+  sprache: en
+  url: https://www.brookings.edu/articles/detecting-ai-fingerprints-a-guide-to-watermarking-and-beyond/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - content
+  - governance
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - us-eo-14110
+  - cn-ai-labelling
+  kernthese: Wasserzeichen und Provenienzdaten nach C2PA sind komplementär und beide umgehbar; ein realistisches
+    Ziel ist nicht lückenlose Erkennung, sondern die Erhöhung der Umgehungskosten in einem mehrschichtigen,
+    kontextabhängigen Ansatz.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die beste juristisch verwertbare Übersetzung des technischen Streitstands und der
+    Text, den man einem Gesetzgebungsreferenten in die Hand gibt. Srinivasan trennt sauber, was in der
+    Rechtsliteratur regelmäßig vermischt wird: statistische Wasserzeichen (am Modell), Metadaten-Provenienz
+    (an der Datei, C2PA), und nachträgliche Detektion (am Artefakt). Für Art. 50 KI-VO ist die Pointe,
+    dass die Norm Abs. 2 (maschinenlesbare Markierung durch den Anbieter) und Abs. 4 (Offenlegungspflicht
+    des Deployers bei Deepfakes) nebeneinanderstellt, ohne zu regeln, was gilt, wenn die Markierung —
+    wie regelmäßig — durch Screenshot oder Re-Encoding verlorengeht. Angreifbar: Der Beitrag ist von Anfang
+    2024 und kennt weder die C2PA-Fassung 2.1 noch die chinesische Praxis seit September 2025.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-2
+  - ki-vo-art-50-abs-4
+  - cal-bpc-22757-3
+- id: 2025-cn-kennzeichnungsmassnahmen
+  typ: bericht
+  autoren:
+  - Cyberspace Administration of China
+  - Ministry of Industry and Information Technology
+  - Ministry of Public Security
+  - National Radio and Television Administration
+  titel: 人工智能生成合成内容标识办法 — Maßnahmen zur Kennzeichnung von durch künstliche Intelligenz erzeugten und synthetisierten
+    Inhalten
+  fundstelle: Bekanntmachung vom 07.03.2025, in Kraft seit 01.09.2025 (flankiert durch den nationalen
+    Zwangsstandard GB 45438-2025)
+  jahr: 2025
+  sprache: zh
+  url: https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm
+  zugang: open-access
+  jurisdiktionen:
+  - cn
+  themenachsen:
+  - content
+  - marktzugang
+  - governance
+  bezug_regelwerke:
+  - cn-ai-labelling
+  - cn-deep-synthesis
+  - cn-genai-interim-measures
+  - ki-vo-2024-1689
+  kernthese: Anbieter müssen KI-erzeugte Inhalte doppelt kennzeichnen — sichtbar für den Nutzer und implizit
+    in den Metadaten —, und Plattformen müssen die Metadaten beim Upload prüfen und fehlende Kennzeichnung
+    ergänzen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der rechtsvergleichende Bezugspunkt, an dem sich Art. 50 KI-VO messen lassen muss,
+    und die einzige Rechtsordnung, die die Kennzeichnungspflicht seit über einem Jahr tatsächlich vollzieht.
+    Zwei Unterschiede sind systembildend: Erstens verpflichtet China nicht nur den Modellanbieter, sondern
+    die Verbreitungsplattform zur Prüfung und Nachkennzeichnung — damit wird die Lücke geschlossen, die
+    Zhang u.a. offenlegen, indem die Durchsetzung an den Verbreitungspunkt verlagert wird. Zweitens ist
+    die Kennzeichnung durch einen verbindlichen nationalen Standard technisch spezifiziert, während die
+    Union auf harmonisierte Normen wartet, die noch nicht existieren. Wer für die Union argumentiert,
+    dass die Pflicht undurchführbar sei, muss erklären, warum sie in China durchgeführt wird. Wer das
+    chinesische Modell empfiehlt, muss die Kehrseite benennen: Die Kennzeichnungsinfrastruktur ist zugleich
+    eine Zuordnungsinfrastruktur und mit der Klarnamenpflicht verbunden. Aufgenommen als `bericht`, weil
+    der Rechtstext selbst in 24_asien_latam.yaml geführt wird und hier nur als Vergleichsmaßstab dient.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50
+  - cn-ai-labelling-art-2
+  - cn-ai-labelling-art-3
+  - cn-ai-labelling-art-4
+  - cn-ai-labelling-art-5
+  - cn-ai-labelling-art-6
+  - cn-ai-labelling-art-9
+  - cn-ai-labelling-art-10
+  - cn-deep-synthesis-art-16
+  - cn-deep-synthesis-art-17
+  - cn-genai-interim-measures-art-12
+- id: 2023-simon-altay-mercier-misinformation-overblown
+  typ: aufsatz
+  autoren:
+  - Simon, Felix M.
+  - Altay, Sacha
+  - Mercier, Hugo
+  titel: Misinformation Reloaded? Fears About the Impact of Generative AI on Misinformation Are Overblown
+  fundstelle: Harvard Kennedy School Misinformation Review, 18.10.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.37016/mr-2020-127
+  url: https://misinforeview.hks.harvard.edu/article/misinformation-reloaded-fears-about-the-impact-of-generative-ai-on-misinformation-are-overblown/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  kernthese: Der Konsum von Falschinformation ist nachfrage- und nicht angebotsbeschränkt; eine billigere
+    Produktion durch generative Modelle verändert deshalb weder Menge noch Wirkung nennenswert.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die notwendige Gegenposition zur Begründungserwägung der halben KI-VO. Wer Art. 50
+    Abs. 4 KI-VO, das DSA-Risikomanagement oder nationale Deepfake-Straftatbestände mit der Gefahr für
+    die demokratische Willensbildung begründet, muss diese Arbeit entkräften — sie bestreitet nicht die
+    Möglichkeit, sondern die empirische Relevanz. Das stärkste Argument ist das Größenverhältnis: Damit
+    KI die Waage kippt, müsste die Anziehungskraft von Falschinformation um das Zwanzig- bis Hundertfache
+    steigen. Angreifbar ist die Ausblendung der nicht-politischen Anwendungsfälle — Betrug, Erpressung,
+    bildbasierte sexualisierte Gewalt —, bei denen die Angebotsseite sehr wohl bindend ist; genau dort
+    liegt der Anwendungsbereich, den die Autoren nicht bestreiten und der die Deepfake-Regulierung tatsächlich
+    trägt. Wer den Text gegen NCII-Strafnormen wendet, missbraucht ihn.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-4
+- id: 2024-kapoor-narayanan-78-election-deepfakes
+  typ: blogbeitrag
+  autoren:
+  - Kapoor, Sayash
+  - Narayanan, Arvind
+  titel: We Looked at 78 Election Deepfakes. Political Misinformation Is Not an AI Problem
+  fundstelle: Knight First Amendment Institute at Columbia University, 13.12.2024
+  jahr: 2024
+  sprache: en
+  url: https://knightcolumbia.org/blog/we-looked-at-78-election-deepfakes-political-misinformation-is-not-an-ai-problem
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  kernthese: Die Hälfte der dokumentierten Wahl-Deepfakes des Jahres 2024 war gar nicht täuschend, und
+    billige Fälschungen ohne KI kamen siebenmal häufiger vor — die Kosten der Erzeugung sind nicht der
+    begrenzende Faktor.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die empirische Ergänzung zu Simon/Altay/Mercier und die wirksamste Entgegnung auf
+    die Wahlbeeinflussungsdebatte, weil sie an Fällen und nicht an Modellen argumentiert. Für die europäische
+    Diskussion ist der wichtigste Befund die Verwendungsstruktur: Ein großer Teil der Deepfakes war Satire,
+    Kampagnenmaterial mit erkennbarer Urheberschaft oder Selbstdarstellung — also genau das, was Kennzeichnungspflichten
+    adressieren und Strafnormen nicht erfassen sollen. Das stützt Art. 50 KI-VO und schwächt zugleich
+    die Straftatbestände. Angreifbar ist die Methodik: Erfasst wird, was dokumentiert wurde, also die
+    entdeckten Fälle; über die nicht entdeckten sagt die Sammlung nichts, und genau die wären der Beleg
+    für die Gegenthese. Die Autoren räumen das ein, die Rezeption nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50
+- id: 2020-rini-epistemic-backstop
+  typ: aufsatz
+  autoren:
+  - Rini, Regina
+  titel: Deepfakes and the Epistemic Backstop
+  fundstelle: Philosophers' Imprint 20 (2020), Heft 24, 1–16
+  jahr: 2020
+  sprache: en
+  url: https://philpapers.org/rec/RINDAT
+  zugang: unklar
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - content
+  - grundrechte
+  kernthese: Aufzeichnungen haben bislang als epistemische Rückversicherung des Zeugnisses gedient; Deepfakes
+    zerstören diese Funktion und untergraben damit die Verlässlichkeit von Zeugenaussagen insgesamt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als die theoretische Grundlage des Beweisrechtsproblems, das Delfino
+    und Grossman/Grimm juristisch ausarbeiten: Wenn die Aufzeichnung ihre Beglaubigungsfunktion verliert,
+    verschiebt sich die Beweislast in jedem Verfahren, in dem Bild oder Ton eine Rolle spielen. Rini formuliert
+    damit die Prämisse, aus der sowohl die Ausweitung der richterlichen Gatekeeper-Rolle als auch der
+    Vorschlag einer FRE 707 folgt. Die `url` führt auf den Nachweis, nicht auf den Volltext.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2019-chesney-citron-deep-fakes
+  typ: aufsatz
+  autoren:
+  - Chesney, Robert
+  - Citron, Danielle Keats
+  titel: 'Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security'
+  fundstelle: California Law Review 107 (2019), 1753
+  jahr: 2019
+  sprache: en
+  url: https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - us-take-it-down-act
+  - us-no-fakes-act
+  - de-deepfake-strafrecht
+  - ki-vo-2024-1689
+  kernthese: Deepfakes bedrohen Privatheit, Demokratie und nationale Sicherheit zugleich, und der gefährlichste
+    Effekt ist nicht die Fälschung selbst, sondern die Lügendividende — die Möglichkeit, echte Aufnahmen
+    als Fälschung abzutun.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Gründungstext des gesamten Rechtsgebiets; ohne ihn ist keine Deepfake-Debatte
+    der letzten sieben Jahre zu verstehen, weil sowohl das Vokabular (liar''s dividend) als auch die Systematik
+    (Privatheit, Demokratie, Sicherheit als drei getrennte Schutzgüter) von hier stammen. Für die europäische
+    Arbeit ist die zweite Hälfte die wichtigere: Chesney und Citron gehen die Rechtsbehelfe durch — Delikt,
+    Strafrecht, Plattformhaftung, Marktlösungen — und kommen zu dem Ergebnis, dass keiner allein trägt;
+    genau diese Einsicht liegt der Kombination aus Art. 50 KI-VO, DSA-Risikomanagement und nationalen
+    Strafnormen zugrunde, ohne dass die Union sie zitiert. Pflicht auch deshalb, weil der Text die Gegenposition
+    zu den Entwarnungsstudien (Simon/Altay/Mercier, Kapoor/Narayanan) auf dem höchsten Niveau formuliert:
+    Die Lügendividende ist ein Effekt, den die Zählung dokumentierter Deepfakes methodisch nicht erfassen
+    kann. Angreifbar ist das amerikanische Zuschneiden — First Amendment, § 230 CDA —, das die Übertragung
+    auf das deutsche Recht erschwert, und die Prognose, die Technik werde die Erkennung dauerhaft überholen;
+    sie hat sich so nicht bestätigt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50
+  - us-const-amend-1
+  - usc-47-223-h-1
+- id: 2019-citron-sexual-privacy
+  typ: aufsatz
+  autoren:
+  - Citron, Danielle Keats
+  titel: Sexual Privacy
+  fundstelle: Yale Law Journal 128 (2019), 1870
+  jahr: 2019
+  sprache: en
+  url: https://www.yalelawjournal.org/article/sexual-privacy
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - content
+  - grundrechte
+  bezug_regelwerke:
+  - us-take-it-down-act
+  - de-deepfake-strafrecht
+  kernthese: Sexuelle Privatheit ist ein eigenständiges, dem Persönlichkeitsschutz vorgelagertes Schutzgut,
+    das Grundlage sexueller Selbstbestimmung und Menschenwürde ist und eigene straf- und haftungsrechtliche
+    Instrumente verlangt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die dogmatische Grundlage der NCII-Gesetzgebung beiderseits des Atlantiks und der
+    Text, der erklärt, warum synthetische Darstellungen ein Rechtsgut verletzen, obwohl nichts Reales
+    abgebildet ist — das Argument, das die deutsche Debatte um § 201b StGB-E trägt (vgl. Crone in 34_lit_deutsch.yaml)
+    und das im amerikanischen Verfassungsrecht gerade NICHT durchdringt, wie Anderegg zeigt. Genau darin
+    liegt der Wert für diese Akte: Citron formuliert die europäische Position in amerikanischer Sprache,
+    ohne sie in den USA durchsetzen zu können. Angreifbar ist die Weite des Schutzguts; wer sexuelle Privatheit
+    als eigenes Recht anerkennt, muss die Kollision mit der Meinungsfreiheit auflösen, und Citron tut
+    das über eine Kategorienbildung (low-value speech), die der Supreme Court in dieser Form nicht anerkennt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-47-223-h-3
+- id: 2025-eff-take-it-down-zensur
+  typ: blogbeitrag
+  autoren:
+  - Mullin, Joe
+  titel: 'The TAKE IT DOWN Act: A Flawed Attempt to Protect Victims That Will Lead to Censorship'
+  fundstelle: Electronic Frontier Foundation, Deeplinks, 11.02.2025
+  jahr: 2025
+  sprache: en
+  url: https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - us-take-it-down-act
+  - us-cda-230
+  kernthese: Die 48-Stunden-Löschfrist zwingt Plattformen zu automatisierten Filtern, erfasst Satire und
+    Berichterstattung mit und lässt Ende-zu-Ende-verschlüsselte Dienste ohne tragfähige Ausnahme.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Gegenposition zum einzigen materiellen US-Bundesgesetz über synthetische
+    Inhalte und für die europäische Diskussion aufschlussreich, weil dieselben Einwände gegen die DSA-Löschmechanik
+    erhoben werden — nur dort ohne Erfolg. Der stärkste Punkt ist der Verfahrenspunkt: Die Frist ist kürzer
+    als jede Prüfungsmöglichkeit, weshalb die Norm faktisch eine Notice-and-Takedown-Pflicht ohne Gegenvorstellung
+    begründet. Der Verschlüsselungseinwand ist schwächer, als die EFF ihn führt — das Gesetz verpflichtet
+    zur Entfernung dessen, was der Dienst sieht. Der dritte Einwand (Überflüssigkeit wegen bestehender
+    Landesgesetze) ist nach der ersten Verurteilung (Strahler, S.D. Ohio, April 2026) empirisch widerlegt:
+    Der Bundestatbestand hat gewirkt. Reine Advocacy, entsprechend zu lesen, aber sauber argumentiert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+  - usc-47-230-c-1
+  - usc-47-223a
+- id: 2023-delfino-deepfakes-on-trial
+  typ: aufsatz
+  autoren:
+  - Delfino, Rebecca A.
+  titel: 'Deepfakes on Trial: A Call to Expand the Trial Judge''s Gatekeeping Role to Protect Legal Proceedings
+    from Technological Fakery'
+  fundstelle: Hastings Law Journal / UC Law Journal 74 (2023), 293
+  jahr: 2023
+  sprache: en
+  url: https://repository.uclawsf.edu/hastings_law_journal/vol74/iss2/3/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - content
+  - berufsrecht
+  - grundrechte
+  bezug_regelwerke:
+  - de-ki-justiz
+  kernthese: Die geltenden Authentizitätsregeln des Beweisrechts sind gegen Deepfakes untauglich; die
+    Entscheidung über die Echtheit audiovisueller Beweismittel muss von den Geschworenen auf den Richter
+    als Gatekeeper verlagert werden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, aus dem der Vorschlag einer eigenen Beweisregel für maschinell erzeugte
+    Beweismittel hervorgegangen ist (FRE 707, s. 25_berufsrecht.yaml), und die beste Analyse des Problems,
+    dass ein niedriger Authentizitätsmassstab — prima facie genügt die Aussage eines Zeugen, die Aufnahme
+    sehe echt aus — bei synthetischen Medien leerläuft. Für das deutsche Recht ist der Ertrag begrenzt,
+    weil § 286 ZPO und der Grundsatz der freien Beweiswürdigung die Gatekeeper-Funktion ohnehin beim Gericht
+    bündeln; interessant ist die Umkehrung: Delfinos Vorschlag beschreibt im Kern das, was das deutsche
+    Recht schon kennt. Angreifbar ist die Kostenfolge — eine Echtheitsprüfung vor jeder Verwertung ist
+    in der Massenjustiz nicht leistbar —, und die Frage, wer die Sachkunde des Richters sicherstellt,
+    bleibt offen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - fre-901
+  - fre-702
+  - fre-707
+- id: 2023-thiel-csam-in-trainingsdaten
+  typ: bericht
+  autoren:
+  - Thiel, David
+  titel: Identifying and Eliminating CSAM in Generative ML Training Data and Models
+  fundstelle: Stanford Internet Observatory, Cyber Policy Center, 20.12.2023
+  jahr: 2023
+  sprache: en
+  url: https://purl.stanford.edu/kh752sm9123
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - de
+  themenachsen:
+  - content
+  - sicherheit-export
+  - urheberrecht
+  bezug_streitstaende:
+  - ki-csam-besitz
+  bezug_urteile:
+  - de-2026-laion-bgh
+  - de-2025-laion-olg
+  kernthese: Der Datensatz LAION-5B enthält hunderte bestätigte Fundstellen echten Missbrauchsmaterials,
+    weshalb darauf trainierte Modelle nicht als rein synthetisch behandelt werden können und die Datensätze
+    zu bereinigen sind.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Befund, der die gesamte Diskussion verschiebt, und deshalb Pflicht: Solange man
+    annahm, KI-generiertes Missbrauchsmaterial sei rein synthetisch, war die amerikanische Doktrin aus
+    Ashcroft v. Free Speech Coalition in sich stimmig — kein reales Opfer, kein legitimes Verbotsinteresse.
+    Thiel zeigt, dass die Prämisse falsch ist: In den Trainingsdaten steckt echtes Material, und die erzeugten
+    Bilder tragen dessen Spuren. Damit ist die Kausalkette zum realen Opfer wiederhergestellt, und genau
+    diesen Einwand greifen die Richter Lee und Kolar in ihrem Zusatzvotum zu Anderegg auf, ohne ihn zur
+    Grundlage der Entscheidung zu machen — dort liegt der Ansatzpunkt für die zu erwartende Supreme-Court-Vorlage.
+    Der Bericht ist zugleich der Schnittpunkt zur deutschen LAION-Rechtsprechung: Derselbe Datensatz,
+    um dessen urheberrechtliche Behandlung BGH und OLG Hamburg streiten, ist der Gegenstand dieses Befunds
+    — dass beide Verfahrensstränge nebeneinander herlaufen, ohne sich zu berühren, ist eine bemerkenswerte
+    Lücke und eine Publikationsmöglichkeit. Angreifbar ist die Quantifizierung: Die gefundene Menge ist
+    gemessen an fünf Milliarden Paaren winzig, und ob eine derart geringe Kontamination die Ausgaben messbar
+    prägt, ist nicht gezeigt, sondern plausibilisiert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stgb-184b
+- id: 2023-thiel-stroebel-portnoff-generative-ml-csam
+  typ: bericht
+  autoren:
+  - Thiel, David
+  - Ströbel, Melissa
+  - Portnoff, Rebecca
+  titel: 'Generative ML and CSAM: Implications and Mitigations'
+  fundstelle: Stanford Internet Observatory und Thorn, 24.06.2023
+  jahr: 2023
+  sprache: en
+  url: https://purl.stanford.edu/jv206yg3793
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - content
+  - sicherheit-export
+  - governance
+  bezug_streitstaende:
+  - ki-csam-besitz
+  kernthese: Offene Bildmodelle erlauben die Erzeugung fotorealistischen Missbrauchsmaterials einschließlich
+    der Abbildung bestimmter realer Kinder, was die Ermittlungsarbeit überlastet und Erkennungssysteme
+    entwertet.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die frühere und breitere der beiden Stanford-Arbeiten und diejenige, die das Vollzugsargument
+    liefert, auf das sich die europäische und britische Gesetzgebung stützt: Wenn synthetisches und echtes
+    Material ununterscheidbar werden, bindet die Triage Ermittlungsressourcen, die für reale Opfer fehlen.
+    Das ist ein Argument, das ohne Rückgriff auf ein Rechtsgut auskommt und deshalb auch im amerikanischen
+    Verfassungsrecht tragen könnte — der Seventh Circuit hat es in Anderegg ausdrücklich verworfen ("the
+    Government may not suppress lawful speech as the means to suppress unlawful speech"). Wer die transatlantische
+    Divergenz erklären will, findet hier die eine Seite in ihrer besten Fassung und im Volokh-Beitrag
+    die andere. Angreifbar: Thorn ist kein neutraler Akteur, sondern Anbieter von Erkennungstechnologie;
+    der Bericht empfiehlt Maßnahmen, an denen der Mitherausgeber verdient.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-iwf-harm-without-limits
+  typ: bericht
+  autoren:
+  - Internet Watch Foundation
+  titel: 'Harm Without Limits: AI Child Sexual Abuse Material Through the Eyes of Our Analysts'
+  fundstelle: Internet Watch Foundation, Cambridge, 2026 (Berichtsjahr 2025)
+  jahr: 2026
+  sprache: en
+  url: https://www.iwf.org.uk/about-us/why-we-exist/our-research/how-ai-is-being-abused-to-create-child-sexual-abuse-imagery/
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  - eu
+  - us
+  themenachsen:
+  - content
+  - sicherheit-export
+  bezug_streitstaende:
+  - ki-csam-besitz
+  kernthese: Im Jahr 2025 bewertete die IWF 8.029 KI-erzeugte Darstellungen als realistisches Missbrauchsmaterial;
+    die Zahl der KI-erzeugten Videos stieg von 13 auf 3.443, davon rund 65 Prozent in der schwersten Kategorie.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die belastbarste verfügbare Mengenangabe und die empirische Grundlage, auf die sich
+    die britische Gesetzgebung (Verbot von auf CSAM optimierten Modellen, s. 12_uk.yaml) und die Neufassung
+    der EU-Richtlinie zur Bekämpfung des sexuellen Missbrauchs stützen. Die Videozahlen sind die eigentliche
+    Nachricht: Der Sprung um drei Größenordnungen in einem Jahr belegt, dass die Zugangsschwelle gefallen
+    ist, und entkräftet das Argument, die Technik sei zu aufwendig für Gelegenheitstäter. Angreifbar ist
+    die Zählweise — erfasst wird, was der IWF gemeldet oder von ihr gefunden wird, nicht die Grundmenge;
+    Steigerungen können Aufmerksamkeitseffekte sein. Die IWF ist außerdem eine Meldestelle mit Eigeninteresse
+    an der Dringlichkeit des Problems. Für die deutsche Diskussion ist der Bericht das Gegengewicht zu
+    der These, § 184b StGB in seiner Erstreckung auf "wirklichkeitsnahe" Darstellungen sei symbolisches
+    Strafrecht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - uk-crime-policing-act-2026-s-72
+- id: 2026-volokh-anderegg-besitz
+  typ: blogbeitrag
+  autoren:
+  - Volokh, Eugene
+  titel: Home Possession of AI-Generated Porn Depicting Fake Children Remains Constitutionally Protected,
+    Seventh Circuit Rules
+  fundstelle: The Volokh Conspiracy (Reason), 27.08.2026
+  jahr: 2026
+  sprache: en
+  url: https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - content
+  - grundrechte
+  bezug_streitstaende:
+  - ki-csam-besitz
+  bezug_urteile:
+  - us-2026-anderegg-7circuit
+  kernthese: 'Stanley v. Georgia und Ashcroft v. Free Speech Coalition beherrschen den Fall: Ohne reales
+    Opfer entfällt das in Ferber und Osborne anerkannte zwingende Interesse, und Vollzugsschwierigkeiten
+    rechtfertigen kein Verbot geschützter Rede.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die erste und bislang einzige zeitnahe Besprechung der Entscheidung, die den Streitstand
+    `ki-csam-besitz` definiert, und für die europäische Leserschaft die wirtschaftlichste Einführung in
+    eine Dogmatik, die von außen unverständlich wirkt. Volokh arbeitet die entscheidende Trennlinie heraus:
+    Herstellung, Verbreitung und Übermittlung an Minderjährige bleiben strafbar, nur der häusliche Besitz
+    nicht — eine Unterscheidung, die bei lokal betriebenen Modellen technisch zusammenfällt, weil Erzeugen
+    und Speichern derselbe Vorgang sind. Ebenso wichtig ist der Hinweis auf das Zusatzvotum: Lee und Kolar
+    benennen die Kontamination der Trainingsdaten (vgl. Thiel 2023) als möglichen Anknüpfungspunkt für
+    eine künftige Korrektur durch den Supreme Court. Volokh ist Partei — er vertritt seit Jahrzehnten
+    eine weite Auslegung des First Amendment —, und die Besprechung referiert mehr, als sie kritisiert.
+    Für die deutsche Seite ist der Kontrast in einem Satz zu haben: § 184b Abs. 1 Nr. 3, Abs. 3 StGB erfasst
+    wirklichkeitsnahe Darstellungen ohne reales Opfer und stellt den Besitz unter Strafe — dieselbe Handlung,
+    die der Seventh Circuit für verfassungsrechtlich geschützt hält.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2023-volokh-lemley-henderson-freedom-of-speech-ai
+  typ: aufsatz
+  autoren:
+  - Volokh, Eugene
+  - Lemley, Mark A.
+  - Henderson, Peter
+  titel: Freedom of Speech and AI Output
+  fundstelle: Journal of Free Speech Law 3 (2023), 651
+  jahr: 2023
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/volokhlemleyhenderson.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - content
+  - grundrechte
+  - gpai
+  bezug_streitstaende:
+  - chatbot-output-speech
+  kernthese: Ob KI-Ausgaben vom First Amendment geschützt sind, hängt nicht von einem Sprecherwillen der
+    Maschine ab, sondern von den Interessen der menschlichen Nutzer und Empfänger an Erzeugung und Zugang.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als die Vorfrage, ohne die Anderegg nicht zu verstehen ist: Der Seventh
+    Circuit setzt voraus, dass Modellausgaben Rede sind, und begründet das nicht. Diese Begründung liefert
+    der Aufsatz — über die Rezipienten- und nicht über die Sprecherseite —, und genau diese Konstruktion
+    trägt die Entscheidung. Der Streitstand `chatbot-output-speech` wird in 32_lit_haftung.yaml geführt;
+    hier steht der Text nur als Scharnier zur CSAM-Frage.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2026-friedl-gpai-detectability
+  typ: blogbeitrag
+  autoren:
+  - Friedl, Paul
+  titel: The Problems with 'General Purpose AI Detectability'
+  fundstelle: Verfassungsblog, 08.07.2026
+  jahr: 2026
+  sprache: en
+  url: https://verfassungsblog.de/the-problems-with-general-purpose-ai-detectability/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - content
+  - governance
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  - de-deepfake-strafrecht
+  kernthese: Der am 10.06.2026 angenommene Verhaltenskodex zur Transparenz KI-generierter Inhalte behandelt
+    die Erkennbarkeit synthetischer Medien als einheitliches technisches Problem, obwohl sie ein kontextabhängiges
+    und politisches Problem ist, das dauerhafte Koordination zwischen mehreren Akteuren verlangt.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste frei zugängliche Text zu Art. 50 Abs. 2 KI-VO, und Art. 50 ist die Vorschrift,
+    die deutsche Mandanten ab sofort trifft — sie gilt, anders als die Hochrisiko-Pflichten, nach der
+    Omnibus-Einigung unverändert. Friedl (Postdoc, HU Berlin) formuliert das Argument, das die Kennzeichnungsdebatte
+    strukturiert: Ein breit verfügbares Detektionswerkzeug ist zugleich ein Trainingsziel für den Angreifer,
+    das Wettrüsten ist eingebaut. Daraus folgt seine institutionelle These — nicht ein einmaliger Kodex,
+    sondern ein ständiges Forum. Der Text ist englisch, aber von einem deutschen Autor an einer deutschen
+    Fakultät und in der deutschen Debatte anschlussfähig. Angreifbar ist er dort, wo er die forensische
+    Detektion gegen die offene Detektion ausspielt, ohne zu sagen, wer die forensischen Werkzeuge halten
+    soll — das ist eine Zuständigkeitsfrage, die er offen lässt. Ergänzt Beck nicht nur, sondern liegt
+    dort in dieser Zuspitzung nicht vor.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-2
+- id: 2026-dorowski-kennzeichnung-art50
+  typ: blogbeitrag
+  autoren:
+  - Dorowski, Philipp
+  titel: Kennzeichnung von KI-Inhalten nach Art. 50 KI-VO
+  fundstelle: Dr. Datenschutz (intersoft consulting), 17.08.2026
+  jahr: 2026
+  sprache: de
+  url: https://www.dr-datenschutz.de/kennzeichnung-von-ki-inhalten-nach-art-50-ki-vo/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - content
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-deepfake-strafrecht
+  kernthese: Art. 50 KI-VO staffelt die Transparenzpflichten nach Interaktionssystem, synthetischem Medium,
+    Deepfake und Text zu Angelegenheiten öffentlichen Interesses, wobei die Ausnahmen für redaktionelle
+    Kontrolle und offenkundig künstlerische Werke die praktisch wichtigsten Weichenstellungen sind.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die sauberste frei zugängliche deutschsprachige Durchdringung des Art. 50 KI-VO Absatz
+    für Absatz — das, wofür man sonst einen Beck-Kommentar aufschlägt. Kanzleinah geschrieben, ohne wissenschaftlichen
+    Apparat, aber die Normzitate sind korrekt und die Abgrenzungen (Abs. 3 Satz 2 für erkennbar künstlerische
+    Werke, Abs. 4 Satz 2 für redaktionell geprüfte Texte) sind genau die, an denen sich die Praxis aufhängt.
+    Ersetzt eine Kommentierung nicht — es fehlt jede Auseinandersetzung mit dem Streitstand, etwa der
+    Frage, ob "maschinenlesbar" in Abs. 2 eine bestimmte Technik vorschreibt. Als Einstieg und für die
+    Mandantenberatung reicht es. Zusammen mit Friedl deckt es Art. 50 frei ab, und das ist bemerkenswert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50
+  - ki-vo-art-50-abs-2
+  - ki-vo-art-50-abs-3
+  - ki-vo-art-50-abs-4
+- id: 2026-beck-nussbaum-ki-grok-deepfakes
+  typ: blogbeitrag
+  autoren:
+  - Beck, Susanne
+  - Nussbaum, Maximilian
+  titel: KI ohne Verantwortung? Grok, sexualisierte Deepfakes und die Verantwortung des Plattformbetreibers
+  fundstelle: Verfassungsblog, 16.02.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/ki-grok-deepfakes-strafrecht/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - content
+  - haftung
+  - grundrechte
+  bezug_streitstaende:
+  - ki-csam-besitz
+  bezug_regelwerke:
+  - de-deepfake-strafrecht
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  kernthese: Wenn Produktion, Verbreitung und Gestaltungsmacht in einer Plattform gebündelt sind, ist
+    die Verantwortung für massenhaft erzeugte sexualisierte Deepfakes keine individuelle, sondern eine
+    strukturelle Frage, die das Strafrecht bei den Architekturentscheidungen des Betreibers ansetzen lassen
+    muss.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Susanne Beck ist die Autorin, an der in der deutschen Strafrechtswissenschaft zur
+    KI kein Weg vorbeiführt, und dieser Beitrag ist ihr aktuellster frei zugänglicher Text. Er ist Pflicht,
+    weil er den Streitstand definiert, um den seit 2026 alles kreist: Reicht die Zurechnung an den Nutzer,
+    oder muss die Architekturentscheidung des Betreibers selbst strafbewehrt sein? Beck und Nussbaum arbeiten
+    die Lücken präzise heraus — § 201a StGB erfasst synthetische Darstellungen nicht, weil er an die Aufnahme
+    anknüpft; § 33 KUG greift nur bei Bildnissen; §§ 184b ff. StGB greifen nur bei scheinbar Minderjährigen;
+    § 201b StGB-E ist Entwurf. Der Text ist zugleich der Schlüssel zu der Frage, die diese Sammlung durchzieht,
+    nämlich der ki-csam-besitz-Kontroverse: Bei Minderjährigen greift das deutsche Recht bereits die Herstellung,
+    bei Erwachsenen erst die Verbreitung — eine Wertungsdifferenz, die niemand befriedigend begründet.
+    Angreifbar ist die Zuspitzung auf eine Person (Musk); das ist publizistisch wirksam und strafrechtlich
+    unbrauchbar, weil Täterschaft konkrete Handlungen braucht. Ersetzt Beck-Online nicht — dort steht
+    die dogmatische Ausarbeitung —, aber es ist der Text, der die Debatte eröffnet hat, und er ist frei.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stgb-184b
+  - stgb-184k
+  - stgb-201a
+- id: 2026-epik-deepfakes-strafrechtsfalle
+  typ: blogbeitrag
+  autoren:
+  - Epik, Aziz
+  titel: Deepfakes und die Strafrechtsfalle
+  fundstelle: Verfassungsblog, 24.03.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/deepfakes-und-die-strafrechtsfalle/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - content
+  - grundrechte
+  bezug_streitstaende:
+  - ki-csam-besitz
+  bezug_regelwerke:
+  - de-deepfake-strafrecht
+  kernthese: Der Ruf nach einem Deepfake-Straftatbestand ist berechtigt, aber die Konzentration auf das
+    Strafrecht verdeckt die strukturellen Probleme; § 184j StGB zeigt, wohin überhastete Anlassgesetzgebung
+    führt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die notwendige Gegenposition zu Beck/Nussbaum und Crone, und die einzige in der freien
+    Literatur. Epik warnt vor der symbolischen Strafgesetzgebung und führt § 184j StGB als Mahnmal an
+    — ein Tatbestand, der aus einem Einzelereignis entstand, diskriminierende Untertöne trug und praktisch
+    bedeutungslos blieb. Das ist der stärkste rechtspolitische Einwand gegen § 201b StGB-E. Schwach ist,
+    dass Epik keine Alternative benennt, die über Prävention, Opferhilfe und Plattformverantwortung —
+    also über Appelle — hinausgeht. Wer für den Tatbestand argumentiert, muss diesen Text entkräften;
+    wer dagegen argumentiert, hat hier seine Grundlage. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stgb-184k
+  - stgb-201a
+- id: 2026-crone-bildbasiert-aber-unsichtbar
+  typ: blogbeitrag
+  autoren:
+  - Crone, Theresia
+  titel: Bildbasiert aber unsichtbar. Warum pornografische Deepfakes einen eigenen Straftatbestand brauchen
+  fundstelle: Verfassungsblog, 23.01.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/pornografische-deepfakes/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - content
+  - grundrechte
+  bezug_streitstaende:
+  - ki-csam-besitz
+  bezug_regelwerke:
+  - de-deepfake-strafrecht
+  - ki-vo-2024-1689
+  kernthese: Der Bundesratsentwurf zu § 201b StGB pönalisiert nur die Verbreitung; die Verletzung der
+    sexuellen Selbstbestimmung tritt aber bereits mit der Herstellung ein, wie §§ 184b, 184c StGB für
+    Minderjährige längst anerkennen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das schärfste Argument der Debatte, und es ist ein Wertungswiderspruchsargument:
+    Der Gesetzgeber bestraft die Herstellung synthetischer Missbrauchsdarstellungen von Kindern, aber
+    nicht die synthetischer Darstellungen erwachsener Frauen; die Begründung dafür fehlt. Wer zum Streitstand
+    ki-csam-besitz arbeitet, findet hier die deutsche Anschlussstelle. Crone stützt sich zusätzlich auf
+    Art. 3 Abs. 2 Satz 2 GG, die Istanbul-Konvention und die Richtlinie (EU) 2024/1385 — das ist die vollständige
+    Anspruchsgrundlagenkette. Angreifbar: Die Vorverlagerung auf die Herstellung schafft ein Beweisproblem
+    und berührt den Kernbereich privater Lebensgestaltung, was Crone nur streift. Nach der Trilogeinigung
+    vom Mai 2026 über das Nudifier-Verbot hat ihre Position auf Unionsebene gewonnen. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stgb-184b
+  - stgb-201a
+- id: 2025-lennartz-fake-oder-fiktion
+  typ: blogbeitrag
+  autoren:
+  - Lennartz, Jannis
+  titel: Fake oder Fiktion? KI, Kunstfreiheit und Deepfakes
+  fundstelle: Verfassungsblog, 07.04.2025
+  jahr: 2025
+  sprache: de
+  url: https://verfassungsblog.de/fake-oder-fiktion-ki-kunstfreiheit-deepfakes/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - content
+  - grundrechte
+  bezug_regelwerke:
+  - de-deepfake-strafrecht
+  - ki-vo-2024-1689
+  kernthese: Ein pauschales Deepfake-Verbot verletzt die Kunstfreiheit aus Art. 5 Abs. 3 GG; das geltende
+    Recht bewältigt die missbräuchlichen Fälle über Persönlichkeitsrecht und Ehrschutz, und die Einzelfallabwägung
+    nach Mephisto ist der richtige Maßstab.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die kunstfreiheitliche Gegenposition, ohne die die Deepfake-Debatte einseitig bleibt,
+    und der Text, der die Ausnahme in Art. 50 Abs. 4 KI-VO für erkennbar künstlerische, kreative, satirische
+    oder fiktionale Werke rechtlich unterfüttert. Lennartz argumentiert, dass die Kunstfreiheit nicht
+    am Medium hängt und ein synthetisch erzeugtes Werk keinen geringeren Schutz genießt als ein gemaltes.
+    Angreifbar ist die Mephisto-Analogie: Dort ging es um einen erkennbar literarischen Text, hier um
+    fotorealistische Erzeugnisse, die gerade nicht als Fiktion erkennbar sind — der Erkennbarkeitsvorbehalt
+    trägt die Analogie nicht ohne Weiteres. Zusammen mit Crone und Epik ergibt sich die vollständige Kontroverse;
+    das ist in einer beckfreien Akte selten und deshalb hervorzuheben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+  - gg-art-5-abs-3
+  - ki-vo-art-50-abs-4
+  - kug-22
+  - kug-23
+- id: 2026-maatz-digitaler-koerper
+  typ: blogbeitrag
+  autoren:
+  - Maatz, Jann
+  titel: Wem gehört mein digitaler Körper?
+  fundstelle: Verfassungsblog, 23.04.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/digitaler-korper/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - content
+  - grundrechte
+  bezug_regelwerke:
+  - de-deepfake-strafrecht
+  kernthese: Der Schutz der körperlichen Integrität muss auf den 'digitalen Körper' erstreckt werden,
+    weil die synthetische Nachbildung einer Person eine eigenständige Personenverletzung darstellt und
+    nicht nur ein Informationsproblem ist.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der spekulativste Text dieser Akte und deshalb interessant: Maatz überträgt die BGH-Rechtsprechung
+    zu abgetrennten Körperteilen (BGHZ 124, 52) und das IT-Grundrecht (BVerfGE 120, 274) auf synthetische
+    Abbilder und will daraus einen Anspruch auf körperliche Integrität ohne Körperlichkeit ableiten. Das
+    trägt dogmatisch nicht — § 223 StGB setzt eine Substanzverletzung voraus, und das allgemeine Persönlichkeitsrecht
+    deckt die Fälle bereits ab. Als Denkfigur für die Schutzgutbestimmung des § 201b StGB-E aber brauchbar:
+    Wenn das geschützte Rechtsgut nicht die Information, sondern die Person ist, folgt daraus Crones Herstellungsstrafbarkeit.
+    Aufgenommen als Ideengeber, nicht als Autorität.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+- id: 2024-hilgendorf-papiermuehlen-fake-research
+  typ: aufsatz
+  autoren:
+  - Hilgendorf, Eric
+  titel: Künstliche Intelligenz, Papiermühlen und 'fake research papers'. Neue Formen der Wissenschaftskriminalität
+    in strafrechtlicher Perspektive
+  fundstelle: Ordnung der Wissenschaft 2024, 113–124
+  jahr: 2024
+  sprache: de
+  url: https://ordnungderwissenschaft.de/2024/kuenstliche-intelligenz-papiermuehlen-und-fake-research-papers-neue-formen-der-wissenschaftskriminalitaet-in-strafrechtlicher-perspektive/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - content
+  - berufsrecht
+  kernthese: Generative KI und organisierte Publikationsfälschung erzeugen neue Formen der Wissenschaftskriminalität,
+    die das geltende Strafrecht teilweise erfasst, deren Ursache aber in den Fehlanreizen der Szientometrie
+    liegt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Hilgendorf (Würzburg) ist einer der drei oder vier deutschen Strafrechtler, die zum
+    KI-Recht kontinuierlich publizieren, und die meisten seiner Arbeiten stehen hinter der Bezahlschranke
+    — dieser Text nicht. Das Thema wirkt randständig, ist es aber nicht: Es ist der einzige frei zugängliche
+    deutsche Text, der die Frage stellt, wann die Nutzung generativer KI die Schwelle zum Betrug (§ 263
+    StGB) oder zur Urkundenfälschung überschreitet, und diese Frage stellt sich in jedem Beruf mit Prüfungs-
+    und Begutachtungspflichten. Angreifbar ist die rechtspolitische Schlussfolgerung, das Problem sei
+    primär strukturell zu lösen — das entlastet den Strafrechtler von der Dogmatik, die er schuldig bleibt.
+    Ordnung der Wissenschaft ist vollständig frei; das ist der Fund, den man sich merken sollte.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stgb-263a
+  - stgb-269
+- id: 2026-schaal-lenner-akinyemi-chatgpt-vlose
+  typ: blogbeitrag
+  autoren:
+  - Schaal, Jacob
+  - Lenner, Maximilian
+  - Akinyemi, Tunmise
+  titel: Searching for Answers. Is ChatGPT Search a Very Large Online Search Engine under the DSA?
+  fundstelle: Verfassungsblog, 20.02.2026
+  jahr: 2026
+  sprache: en
+  url: https://verfassungsblog.de/searching-for-answers/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - content
+  - wettbewerb
+  - governance
+  - gpai
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - ki-vo-2024-1689
+  kernthese: Die Suchfunktion von ChatGPT erfüllt die Definition der Online-Suchmaschine in Art. 3 lit.
+    j DSA und ist bei Überschreiten der Schwelle des Art. 33 Abs. 1 DSA als sehr große Online-Suchmaschine
+    zu benennen, mit der Folge der Risikobewertungspflichten aus Art. 34 f. DSA.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die praktisch folgenreichste Auslegungsfrage des europäischen Plattformrechts im
+    Jahr 2026: Wenn generative Suchdienste VLOSE sind, greifen Systemrisikobewertung, Auditpflichten und
+    Bußgelder bis 6 Prozent des Weltumsatzes, und zwar unabhängig von der KI-VO und ohne deren verschobene
+    Fristen. Die Autoren argumentieren funktional aus dem Wortlaut "in irgendeinem Format" — das ist überzeugend.
+    Angreifbar ist der geopolitische Teil, der die Auslegung mit Souveränitätserwägungen stützt; das ist
+    kein Auslegungskriterium. Für die deutsche Praxis wichtig, weil die Presseverlage denselben Weg über
+    Art. 15 DSM-RL versuchen und beide Wege sich ergänzen. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsm-rl-art-15
+- id: 2026-bassini-palumbo-genai-dsa
+  typ: blogbeitrag
+  autoren:
+  - Bassini, Marco
+  - Palumbo, Andrea
+  titel: Beyond Intermediaries. Generative AI and the Digital Services Act
+  fundstelle: Verfassungsblog, 12.04.2026
+  jahr: 2026
+  sprache: en
+  url: https://verfassungsblog.de/genai-dsa/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - content
+  - haftung
+  - governance
+  - gpai
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - ki-vo-2024-1689
+  kernthese: Der DSA erfasst generative KI-Anbieter nicht unmittelbar, sondern nur die Plattformen, die
+    sie einbetten; die Lücke sollte durch eine Zug-um-Zug-Lösung geschlossen werden, die Risikomanagementpflichten
+    gegen Haftungsprivilegien tauscht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Gegenposition zu Schaal/Lenner/Akinyemi und der systematisch sauberere Zugriff:
+    Statt GenAI in den vorhandenen VLOSE-Begriff zu pressen, schlagen Bassini und Palumbo eine eigene
+    Kategorie mit eigenem Pflichtenprogramm vor. Für die deutsche Haftungsdebatte ist das der interessantere
+    Vorschlag, weil er das Haftungsprivileg der §§ 7 ff. TMG beziehungsweise Art. 4 ff. DSA ausdrücklich
+    adressiert — die Frage, ob ein Chatbot-Betreiber Diensteanbieter im Sinne des Haftungsprivilegs ist,
+    ist in Deutschland ungeklärt und entscheidet über die Reichweite von § 823 BGB bei Halluzinationen.
+    Angreifbar: Der Vorschlag ist de lege ferenda und hilft im laufenden Mandat nicht. Beide Autoren sind
+    in den Niederlanden und Belgien tätig, der Text ist aber auf dem deutschen Verfassungsblog erschienen
+    und in der deutschen Debatte verankert.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-laude-daum-ki-wahlkampf
+  typ: blogbeitrag
+  autoren:
+  - Laude, Lennart
+  - Daum, Andreas
+  titel: KI als neues Wahlkampfinstrument
+  fundstelle: Verfassungsblog, 03.05.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/ki-als-neues-wahlkampfinstrument/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  - de-deepfake-strafrecht
+  kernthese: Die KI-VO adressiert die parteipolitische Nutzung generativer Systeme nicht, weil sie am
+    kommerziellen Risiko ansetzt; Parteien, die KI-erzeugte Unwahrheiten über Gegner verbreiten, verletzen
+    ihre Mitwirkungspflicht aus Art. 21 GG und können verwaltungsgerichtlich in Anspruch genommen werden.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die These, aus Art. 21 Abs. 1 GG folge eine Wahrhaftigkeitspflicht der Parteien,
+    die verwaltungsgerichtlich durchsetzbar sei, ist gewagt und in der Staatsrechtslehre nicht anerkannt
+    — der Parteienstatus begründet Aufgaben, nicht subjektive Abwehrrechte Dritter. Der Text ist trotzdem
+    erfasst, weil er die einzige frei zugängliche deutsche Auseinandersetzung mit KI im Wahlkampf ist
+    und weil er die Regelungslücke korrekt beschreibt: Art. 50 Abs. 4 KI-VO greift bei politischen Deepfakes
+    nur, soweit es um Texte zu Angelegenheiten öffentlichen Interesses geht, und die Kennzeichnung heilt
+    die Täuschung nicht. Nach der Trilogeinigung 2026 ist die Lücke geblieben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-4
+- id: 2026-algorithmwatch-google-ki-uebersichten-wahlen
+  typ: bericht
+  autoren:
+  - AlgorithmWatch
+  titel: 'Meinungsbildung mit KI: Welche Informationen zeigen Googles KI-Übersichten zu Wahlen?'
+  fundstelle: AlgorithmWatch, Berlin, 01.09.2026
+  jahr: 2026
+  sprache: de
+  url: https://algorithmwatch.org/de/google-ki-ubersichten-meinungsbildung/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - ki-vo-2024-1689
+  kernthese: Googles KI-Übersichten liefern zu Wahlfragen systematisch verzerrte oder unvollständige Informationen
+    und werden damit zum Faktor der Meinungsbildung, ohne den Pflichten für sehr große Plattformen zu
+    unterliegen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die AlgorithmWatch-Publikationsliste belegt, Volltext nicht gelesen. Erfasst,
+    weil es die empirische Grundlage zu der Rechtsfrage liefert, die Schaal/Lenner/Akinyemi dogmatisch
+    stellen — ob generative Suchübersichten Systemrisiken im Sinne des Art. 34 DSA erzeugen. Ohne empirische
+    Belege bleibt die Systemrisikoprüfung leer; das ist die strukturelle Schwäche des DSA, und NGO-Untersuchungen
+    füllen sie faute de mieux. Methodische Belastbarkeit vor Zitierung prüfen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - mstv-19
+  - mstv-93
+  - mstv-94
+- id: 2023-kirchenbauer-watermark
+  typ: aufsatz
+  autoren:
+  - Kirchenbauer, John
+  - Geiping, Jonas
+  - Wen, Yuxin
+  - Katz, Jonathan
+  - Miers, Ian
+  - Goldstein, Tom
+  titel: A Watermark for Large Language Models
+  fundstelle: 40th International Conference on Machine Learning (ICML 2023), 17061; arXiv:2301.10226 (cs.LG),
+    24.01.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2301.10226
+  url: https://arxiv.org/abs/2301.10226
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - content
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Ein Wasserzeichen lässt sich beim Erzeugen einbetten, indem der Wortschatz vor jedem Token
+    zufällig in eine bevorzugte und eine gemiedene Hälfte geteilt wird; die Erkennung braucht weder Modellzugriff
+    noch Schnittstelle und liefert einen statistischen p-Wert.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was technisch überhaupt gemeint ist, wenn Art. 50 Abs. 2 KI-VO
+    von "maschinenlesbarer Markierung" spricht — und warum die Norm zwischen Wasserzeichen, Metadaten
+    und Fingerabdrücken nicht unterscheidet, obwohl diese sich in Robustheit und Nachweisbarkeit grundlegend
+    unterscheiden. Der Referenztext, an dem sich die gesamte Folgeliteratur abarbeitet, und für den Juristen
+    deshalb der richtige Einstieg in den Block. Zwei Eigenschaften sind rechtlich erheblich und werden
+    regelmäßig übersehen. ERSTENS liefert das Verfahren einen p-Wert, also ein Wahrscheinlichkeitsurteil,
+    keinen Beweis — für die Beweiswürdigung nach § 286 ZPO heißt das, dass die Wasserzeichenerkennung
+    ein Indiz mit bezifferbarer Irrtumswahrscheinlichkeit ist, was sie von den meisten technischen Nachweisen
+    positiv abhebt. ZWEITENS braucht die Erkennung KEINEN Zugriff auf das Modell — ein Dritter, etwa eine
+    Behörde oder ein Gericht, kann sie durchführen, was für die Durchsetzbarkeit des Art. 50 entscheidend
+    ist. ANGREIFBAR: Das Verfahren wirkt nur bei hinreichend langen und hinreichend entropiereichen Texten;
+    kurze oder stark determinierte Ausgaben (Übersetzungen, Codefragmente, Faktenantworten) lassen sich
+    nicht tragfähig markieren. Und es ist gegen einen motivierten Angreifer nicht robust — dazu 2023-zhang-watermarks-in-the-sand
+    und 2023-sadasivan-reliable-detection.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-2
+- id: 2024-dathathri-synthid
+  typ: aufsatz
+  autoren:
+  - Dathathri, Sumanth
+  - See, Abigail
+  - Ghaisas, Sumedh
+  - Huang, Po-Sen
+  - McAdam, Rob
+  - Welbl, Johannes
+  - u.a.
+  titel: Scalable watermarking for identifying large language model outputs
+  fundstelle: Nature 634 (2024), 818–823
+  jahr: 2024
+  sprache: en
+  doi: 10.1038/s41586-024-08025-4
+  url: https://www.nature.com/articles/s41586-024-08025-4
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - uk
+  themenachsen:
+  - content
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: SynthID-Text bettet ein Wasserzeichen beim Erzeugen ein, ohne die Ausgabequalität messbar
+    zu mindern, ist ohne Modellzugriff erkennbar und wurde über nahezu 20 Millionen Nutzerinteraktionen
+    im Produktivbetrieb von Gemini erprobt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob der Vorbehalt "soweit dies technisch möglich ist" in Art.
+    50 Abs. 2 KI-VO dem Anbieter zugute kommt — die Antwort lautet für den Normalbetrieb Nein, denn es
+    ist möglich, es ist erprobt, und es kostet nichts an Qualität. Die entscheidende GEGENPOSITION zu
+    Zhang u.a., und der Grund, warum beide Texte zusammen gelesen werden müssen. Der Nachweis im Produktivbetrieb
+    über 20 Millionen Antworten und die Freigabe der Umsetzung nehmen dem Einwand der technischen Unmöglichkeit
+    die Grundlage — jedenfalls in der Fassung "es geht nicht". Was bleibt, ist der Einwand "es hält einem
+    Angreifer nicht stand", und den beantwortet die Arbeit nicht, weil sie ihn nicht behandelt. Für die
+    Rechtsanwendung ergibt sich daraus eine saubere Zweiteilung, die im Schrifttum fehlt: Gegenüber dem
+    Anbieter ist die Einbettungspflicht durchsetzbar (es ist möglich), gegenüber dem Verwerter ist die
+    Erkennungserwartung unbegründet (es ist entfernbar). Art. 50 verteilt die Pflichten genau umgekehrt,
+    wenn man Abs. 2 und Abs. 4 zusammenliest — Anbieter markieren, Betreiber offenlegen — und deshalb
+    ist die Norm in ihrer zweiten Hälfte schwächer als in ihrer ersten. In Nature erschienen und frei
+    zugänglich, was für die Zitierfähigkeit gegenüber Gerichten erheblich ist. ANGREIFBAR: von DeepMind
+    verfasst, also von dem Unternehmen, dessen Pflichterfüllung damit belegt werden soll; die Robustheitsprüfung
+    ist entsprechend wohlwollend. Und das Verfahren wirkt nur bei entropiereichen Ausgaben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-2
+  - ki-vo-art-50-abs-4
+- id: 2023-sadasivan-reliable-detection
+  typ: aufsatz
+  autoren:
+  - Sadasivan, Vinu Sankar
+  - Kumar, Aounon
+  - Balasubramanian, Sriram
+  - Wang, Wenxiao
+  - Feizi, Soheil
+  titel: Can AI-Generated Text be Reliably Detected?
+  fundstelle: Transactions on Machine Learning Research (2025); arXiv:2303.11156 (cs.CL), 17.03.2023,
+    zuletzt geändert 17.01.2025
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2303.11156
+  url: https://arxiv.org/abs/2303.11156
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - de
+  themenachsen:
+  - content
+  - governance
+  - berufsrecht
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Rekursives Paraphrasieren umgeht Wasserzeichen, neuronale Detektoren und Nullstichprobenverfahren
+    gleichermaßen; theoretisch nähert sich die Erkennungsleistung mit besser werdenden Modellen dem Zufall,
+    und Angreifer können umgekehrt menschliche Texte als maschinell erzeugt markieren.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob ein Detektorergebnis als Beweismittel taugt — im Prüfungsrecht,
+    im Berufsrecht, bei Plagiatsvorwürfen und im Verfahren nach Art. 50 Abs. 4 KI-VO. Die Antwort ist
+    Nein, und der zweite Befund ist der juristisch gefährlichere: Ein Angreifer kann einen ECHTEN menschlichen
+    Text so verändern, dass ein Detektor ihn als maschinell erzeugt ausweist. Damit ist die Detektion
+    nicht nur unzuverlässig, sondern als Belastungsbeweis manipulierbar — wer eine Prüfungsleistung, einen
+    Schriftsatz oder eine journalistische Arbeit anhand eines Detektors beanstandet, stützt sich auf ein
+    Beweismittel, das der Beanstandende selbst hätte herstellen können. Für die Hochschul- und Prüfungspraxis,
+    in der solche Werkzeuge routinemäßig eingesetzt werden, ist das die zentrale Fundstelle; für das anwaltliche
+    Berufsrecht ebenso, weil dieselbe Logik für die Frage gilt, ob ein Gericht einen Schriftsatz als KI-erzeugt
+    behandeln darf. In TMLR begutachtet erschienen, also nicht bloß Preprint. ANGREIFBAR: Die theoretische
+    Schranke gilt asymptotisch für den Fall, dass maschinelle und menschliche Textverteilung zusammenfallen;
+    heute tun sie das nicht vollständig, und Detektion mit hoher Falsch-Positiv-Kontrolle bleibt in engen
+    Anwendungsbereichen möglich. Die Autoren widersprechen der Gegenposition (Kirchenbauer u.a., On the
+    Reliability of Watermarks) nicht in allen Punkten; der Streit über die praktische Robustheit ist offen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-4
+- id: 2025-c2pa-spezifikation
+  typ: bericht
+  autoren:
+  - Coalition for Content Provenance and Authenticity (C2PA)
+  titel: C2PA Technical Specification (Content Credentials), Version 2.2
+  fundstelle: Joint Development Foundation Projects, LLC — C2PA Series; spec.c2pa.org, Fassung 2.2 (Folgefassungen
+    bis 2.4)
+  jahr: 2025
+  sprache: en
+  url: https://spec.c2pa.org/specifications/specifications/2.2/index.html
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - content
+  - governance
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Herkunftsnachweis wird nicht durch Erkennung am Inhalt geführt, sondern durch kryptographisch
+    signierte, an die Datei gebundene Manifeste, die Erzeugung und jede Bearbeitung als Behauptungen eines
+    identifizierten Ausstellers festhalten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was der Verordnungsgeber meint, wenn Erwägungsgrund 133 KI-VO
+    auf "Provenienz"-Verfahren verweist, und warum Kennzeichnung nach Art. 50 etwas grundlegend anderes
+    ist als Detektion — die Verwechslung, die fast die gesamte deutschsprachige Kommentierung durchzieht.
+    Der begriffliche Ertrag ist größer als der technische: C2PA behauptet nicht, KI-Inhalte zu erkennen,
+    sondern bindet eine SIGNIERTE HERKUNFTSBEHAUPTUNG an die Datei. Das verschiebt die Rechtsfrage vollständig
+    — es geht nicht mehr um Beweis durch Analyse, sondern um Zurechnung einer Erklärung zu einem identifizierten
+    Aussteller, also um eine Struktur, die dem Signaturrecht (eIDAS) und dem Urkundenbeweis näher steht
+    als der Sachverständigenbeweis. Wer Art. 50 Abs. 2 auslegt, sollte diese Unterscheidung führen: Ein
+    Wasserzeichen ist eine Spur im Inhalt, ein C2PA-Manifest eine Erklärung über den Inhalt, und nur die
+    zweite hat einen Aussteller, den man in Anspruch nehmen kann. Praktisch relevant, weil die Spezifikation
+    von Adobe, Microsoft, Google, OpenAI und mehreren Kameraherstellern umgesetzt wird und damit der wahrscheinlichste
+    Anknüpfungspunkt der harmonisierten Normung ist. Frei lesbar, gut gegliedert; für Juristen genügen
+    die Abschnitte zu Manifesten, Behauptungen und harter/weicher Bindung. ANGREIFBAR, und zwar an der
+    entscheidenden Stelle: Die Bindung an die Datei ist nicht überlebensfähig — ein Bildschirmfoto, ein
+    Neukodieren oder das Hochladen auf die meisten Plattformen entfernt das Manifest rückstandslos. C2PA
+    beweist also die Herkunft eines Inhalts, DER SIE NOCH TRÄGT, und sagt nichts über einen Inhalt, der
+    sie verloren hat. Ein fehlendes Manifest ist kein Indiz — genau so wird es aber in der politischen
+    Diskussion verwendet.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-2
+- id: 2026-aguirre-lanegra-deepfakes-sexuales
+  typ: aufsatz
+  autoren:
+  - Aguirre-Lanegra, Andherson Jhordan
+  - Ramos, Fernando
+  titel: 'Deepfakes sexuales y violencia algorítmica: hacia un marco normativo integral de protección
+    de la dignidad digital'
+  titel_deutsch: 'Sexuelle Deepfakes und algorithmische Gewalt: auf dem Weg zu einem umfassenden Normrahmen
+    zum Schutz der digitalen Würde'
+  fundstelle: Estudios en Derecho a la Información 11 (2026), Nr. 21, Artikel e20198
+  jahr: 2026
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-informacion/article/view/20198
+  doi: 10.22201/iij.25940082e.2026.21.20198
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  - pe
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  kernthese: 'Sexuelle Deepfakes sprengen die Kategorien des klassischen Strafrechts; erforderlich sind
+    ein qualifizierter digitaler Einwilligungsbegriff mit algorithmischer Rückverfolgbarkeit, ein Begriff
+    der digitalen Würde und eine Neufassung der Erheblichkeits- schwelle für symbolische Schäden.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der begrifflich ehrgeizigste der mexikanischen Texte und gleichzeitig der, bei dem
+    ich am meisten Vorbehalte habe. "Digitale Würde", "symbolischer Schaden", "epistemischer Bruch" —
+    das ist Theoriesprache, die einen deutschen Strafrechtler schnell abschreckt, und die Autoren liefern
+    zu wenig positives Recht, um den Aufwand zu rechtfertigen. Trotzdem aufgenommen, weil der Vorschlag
+    der "algorithmischen Rückverfolgbarkeit als Verfahrensgarantie" die einzige mir bekannte lateinamerikanische
+    Antwort auf die Beweisnot bei synthetischen Bildern ist und weil der Text die jüngere peruanische
+    Strafgesetzgebung zu synthetischen Bildaufnahmen mitverarbeitet (Normnummer im Volltext zu prüfen,
+    aus dem Abstract nicht belegbar). Für die Ley-Olimpia-Debatte in Mexiko und den Anschluss an unsere
+    §§ 184k, 201a StGB der interessanteste Vergleichspunkt.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-navarro-dolmestch-ia-criminogena
+  typ: aufsatz
+  autoren:
+  - Navarro-Dolmestch, Roberto Andrés
+  titel: Aproximación a la inteligencia artificial como factor criminógeno
+  titel_deutsch: Annäherung an die künstliche Intelligenz als kriminogener Faktor
+  fundstelle: Derecho PUCP 95 (2025), 303–339
+  jahr: 2025
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/derechopucp/article/view/30551
+  doi: 10.18800/derechopucp.202502.009
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  - latam
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  kernthese: 'KI wirkt kriminogen auf zwei Ebenen — mikrokriminogen als technisches Mittel der Tatbegehung,
+    makrokriminogen dadurch, dass ein "KI-Kapitalismus" soziale Konflikte erzeugt und den Strafrechtsapparat
+    zu seinem eigenen Schutz in Anspruch nimmt.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der originellste kriminalpolitische Text der Sammlung. Die mikrokriminogene Ebene
+    ist Standard — Deepfakes, automatisierter Betrug, synthetisches Missbrauchsmaterial —, aber die makrokriminogene
+    These ist neu und unbequem: Navarro-Dolmestch behauptet, der KI-Kapitalismus erzeuge die Konflikte,
+    zu deren Bewältigung er dann selbst das Strafrecht in Anspruch nehme. Das ist eine kriminalsoziologische,
+    keine dogmatische Aussage, und sie ist empirisch nicht belegt; als Denkanstoss gegen die reflexhafte
+    Forderung nach neuen Straftatbeständen (Deepfake- Delikte, Modellmanipulation) ist sie trotzdem wertvoll.
+    Für die deutsche Diskussion um § 184b StGB und synthetisches Material und um die geplanten Deepfake-Tatbestände
+    die interessanteste Gegenstimme, die ich in der Region gefunden habe. Chilenischer Autor, peruanische
+    Zeitschrift.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-thomasen-ki-medien-kranke-kinder
+  typ: aufsatz
+  autoren:
+  - Thomasen, Kristen
+  - Zuniga-Villaneuva, Gregorio
+  - Mukadam, Muhammed
+  - Lysecki, David
+  titel: 'R-AI-sing Questions: Exploring the Ethical and Legal Landscape of Artificial Intelligence-Generated
+    Media of Medicalized Children'
+  fundstelle: Canadian Journal of Law and Technology 23 (2026), Heft 2
+  jahr: 2026
+  sprache: en
+  url: https://digitalcommons.schulichlaw.dal.ca/cjlt/vol23/iss2/6
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - content
+  - sektor-medizin
+  - grundrechte
+  kernthese: KI-erzeugte Bilder schwerkranker Kinder werfen eigenstaendige ethische und rechtliche Fragen
+    auf, die weder das Persoenlichkeitsrecht noch das Medizinrecht bislang erfassen.
+  eigene_bewertung: 'Ungewoehnlicher Zuschnitt, interdisziplinaer (Juristinnen und Palliativmediziner),
+    und gerade deshalb interessant: Der Beitrag zeigt an einem eng umgrenzten Fall, dass synthetische
+    Darstellungen realer Personen nicht nur ein Persoenlichkeitsrechts-, sondern auch ein Einwilligungs-
+    und Fuersorgeproblem sind - bei Kindern also ein Sorgerechtsproblem. Fuer die Deepfake-Achse eine
+    Perspektive, die in der europaeischen Diskussion (Art. 50 Abs. 4 KI-VO, Kennzeichnungspflichten) voellig
+    fehlt. Randlage fuer die Hauptachsen, aber als Beleg dafuer brauchbar, dass Kennzeichnung das Problem
+    nicht loest.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-wilson-empfehlungsalgorithmen-verbraucher
+  typ: aufsatz
+  autoren:
+  - Wilson, Margaret
+  titel: 'Recommended For You: Streaming Platform Recommendation Algorithms and Consumer Rights'
+  fundstelle: Canadian Journal of Law and Technology 23 (2025), Heft 1
+  jahr: 2025
+  sprache: en
+  url: https://digitalcommons.schulichlaw.dal.ca/cjlt/vol23/iss1/2
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - content
+  - wettbewerb
+  - vertrag
+  kernthese: Empfehlungsalgorithmen von Streamingdiensten beruehren Verbraucherrechte, weil sie das Leistungsversprechen
+    des Dienstes faktisch bestimmen, ohne dass Transparenz- oder Wahlrechte bestuenden.
+  eigene_bewertung: Solide Studentenarbeit, kein Grundlagentext. Ich fuehre sie, weil sie die Bruecke
+    zwischen Empfehlungssystemen und Verbrauchervertragsrecht schlaegt, die in Europa ueber Art. 27 DSA
+    und die Omnibus-Richtlinie gezogen wird, in Kanada aber ueber das allgemeine Verbraucherschutzrecht
+    gezogen werden muss. Der Vergleich lohnt sich, weil er zeigt, wie viel die europaeische Loesung an
+    spezialgesetzlicher Anordnung braucht. Fuer die Hauptachsen Randlage.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-garg-shukla-ki-csam-indien
+  typ: aufsatz
+  autoren:
+  - Garg, Dhruv
+  - Shukla, Dedipyaman
+  titel: 'Combatting AI-Generated Child Sexual Exploitation and Abuse Material: An Analysis of India''s
+    Techno-Legal Response'
+  fundstelle: Indian Journal of Law and Technology 21 (2025), Heft 1, Beitrag 4
+  jahr: 2025
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol21/iss1/4
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - content
+  - grundrechte
+  bezug_streitstaende:
+  - ki-csam-besitz
+  kernthese: Der indische Rechtsrahmen - POCSO Act, Information Technology Act und die IT Rules 2021 -
+    erfasst KI-generiertes Missbrauchsmaterial nur unvollstaendig, weil Tatbestaende und Meldepflichten
+    an die Existenz eines realen Opfers anknuepfen.
+  eigene_bewertung: 'Fuer den Streitstand um den Besitz synthetischer Missbrauchsdarstellungen der wichtigste
+    ausserwestliche Text, den ich habe. Indien ist deshalb interessant, weil der Supreme Court 2024 in
+    Just Rights for Children Alliance v S Harish entschieden hat, dass schon der Besitz strafbar ist,
+    und weil section 15 POCSO anders als Paragraf 184b StGB nicht ausdruecklich auf wirklichkeitsnahe
+    Darstellungen abstellt. Die Autoren arbeiten die Bruchstelle sauber heraus: Ohne reales Opfer fehlt
+    der Anknuepfungspunkt fuer die Meldepflicht der Intermediaere. Genau diese Frage stellt sich bei uns
+    zu Paragraf 184b Abs. 1 Nr. 1 lit. c StGB und zur Reichweite des Wirklichkeitsbezugs. Pflichtlektuere
+    fuer die Achse content.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-gurumurthy-deepfake-indien
+  typ: aufsatz
+  autoren:
+  - Gurumurthy, Jyothsna
+  titel: 'In the Pursuance of a Robust Legal Framework to Address Deepfake Harms: An Analysis of the Indian
+    Legal Discourse'
+  fundstelle: Indian Journal of Law and Technology 20 (2024), Heft 1, Beitrag 1
+  jahr: 2024
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol20/iss1/1
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - content
+  - grundrechte
+  kernthese: Indien begegnet Deepfakes bislang mit einem Flickwerk aus IT Act, IT Rules 2021 und allgemeinen
+    Strafnormen; noetig sei ein eigener Rahmen, der zwischen Persoenlichkeitsverletzung, Wahlmanipulation
+    und Betrug differenziert.
+  eigene_bewertung: 'Nuetzlich als Bestandsaufnahme der indischen Lage vor den Deepfake-Regelungen, die
+    das Ministerium fuer Elektronik und IT ab 2024 in Konsultation gab. Der Text ist beschreibend und
+    in der Loesungsfrage konventionell (Ruf nach Spezialgesetz), aber er dokumentiert die Rechtslage sauber
+    und benennt die indische Besonderheit: Der Rueckgriff auf das Persoenlichkeitsrecht laeuft in Indien
+    ueber Article 21 der Verfassung und die Puttaswamy-Rechtsprechung, also verfassungsunmittelbar, waehrend
+    wir ueber Paragraf 823 Abs. 1 BGB und Paragraf 22 KUG gehen. Fuer die Deepfake-Achse ein guter Ausgangspunkt,
+    aber nicht der letzte Stand.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2020-elkin-koren-contesting-algorithms
+  typ: aufsatz
+  autoren:
+  - Elkin-Koren, Niva
+  titel: 'Contesting algorithms: Restoring the public interest in content filtering by artificial intelligence'
+  fundstelle: Big Data & Society 7 (2020), Heft 2
+  jahr: 2020
+  sprache: en
+  doi: 10.1177/2053951720932296
+  zugang: open-access
+  jurisdiktionen:
+  - il
+  - intl
+  themenachsen:
+  - content
+  - urheberrecht
+  - grundrechte
+  kernthese: Algorithmische Inhaltefilterung durch Plattformen entzieht dem oeffentlichen Interesse die
+    Verfahrensform; Elkin-Koren schlaegt vor, dem Filter einen institutionalisierten Gegenspieler entgegenzusetzen,
+    der die Nutzerinteressen algorithmisch vertritt.
+  eigene_bewertung: 'Niva Elkin-Koren (Tel Aviv) ist die einflussreichste israelische Urheberrechtlerin
+    und diese Arbeit ihr meistzitierter Beitrag zum Thema. Der Gedanke des "contesting algorithm" - ein
+    Gegenalgorithmus, der systematisch Widerspruch erhebt - ist die interessanteste institutionelle Idee,
+    die ich in der Filterdebatte kenne, und sie beantwortet die Frage, an der Art. 17 Abs. 9 DSM-Richtlinie
+    und Art. 20 DSA praktisch scheitern: Beschwerdeverfahren nutzen nichts, wenn die Betroffenen die Sperrung
+    gar nicht bemerken. Frei verfuegbar. Zwei Einwaende: Die Umsetzung bleibt vage, und die Arbeit stammt
+    aus der Zeit vor generativer KI, behandelt also Filterung, nicht Erzeugung.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2023-elkin-koren-perel-democratic-friction
+  typ: sammelband
+  autoren:
+  - Elkin-Koren, Niva
+  - Perel, Maayan
+  titel: Democratic friction in speech governance by AI
+  fundstelle: 'in: Simon Lindgren (Hrsg.), Handbook of Critical Studies of Artificial Intelligence, Edward
+    Elgar, Cheltenham 2023, 643-655'
+  jahr: 2023
+  sprache: en
+  doi: 10.4337/9781803928562.00066
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  kernthese: Meinungsregulierung durch KI beseitigt die Reibung, die demokratische Willensbildung braucht;
+    die Autorinnen pladieren dafuer, Reibung als Gestaltungsziel in die Governance-Architektur einzubauen.
+  eigene_bewertung: 'Die Fortschreibung des Contesting-Algorithms-Gedankens ins Grundsaetzliche. Der Begriff
+    der demokratischen Reibung ist rhetorisch stark und begrifflich unscharf, aber er benennt etwas Richtiges:
+    Effizienzgewinne der automatisierten Moderation werden mit dem Verlust von Aushandlungsvorgaengen
+    erkauft. Ich verwende den Beitrag als Beleg dafuer, dass Verfahren einen Eigenwert hat, wenn ich gegen
+    rein ergebnisorientierte Argumente zur Moderationspflicht argumentiere. Als eigenstaendiger Erkenntnisgewinn
+    ueber Elkin-Koren 2020 hinaus eher begrenzt.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-zhang-minderjaehrigenschutz-ki
+  typ: aufsatz
+  autoren:
+  - 張珮岳 (Zhang Peiyue)
+  titel: 人工智慧時代的未成年人保護
+  titel_deutsch: Der Schutz Minderjaehriger im Zeitalter der kuenstlichen Intelligenz
+  fundstelle: 月旦法學雜誌 (Yuedan Faxue Zazhi, The Taiwan Law Review) 362 (Juli 2025), 84-97
+  jahr: 2025
+  sprache: zh
+  doi: 10.53106/1025593136205
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  kernthese: Der Jugendschutz Taiwans ist auf Inhalte zugeschnitten und erfasst die spezifischen Gefaehrdungen
+    generativer Systeme - Begleitanwendungen, synthetische Darstellungen, personalisierte Beeinflussung
+    - nicht.
+  eigene_bewertung: 'Nuetzlich fuer die Achse content, weil der Beitrag die Verschiebung benennt, die
+    auch im deutschen Jugendmedienschutz noch nicht nachvollzogen ist: Der Schutz knuepft an Inhalte an,
+    die Gefaehrdung geht aber von der Interaktion aus. Angesichts der Verfahren gegen Anbieter von Begleit-Chatbots
+    in den USA ab 2024 hat das Thema an Dringlichkeit gewonnen. Taiwanspezifisch ist wenig; der Text referiert
+    weitgehend internationale Entwicklungen.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-graham-nicht-einvernehmliche-deepfakes
+  typ: aufsatz
+  autoren:
+  - Graham, Claire
+  titel: 'Fake Images, Real Harm: A Case for Criminalising Non-consensual Intimate Deepfakes'
+  fundstelle: Victoria University of Wellington Law Review 56 (2026), Heft 2, 159-192
+  jahr: 2026
+  sprache: en
+  url: https://ojs.victoria.ac.nz/vuwlr/article/view/10758
+  doi: 10.26686/vuwlr.v56i2.10758
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - content
+  - grundrechte
+  kernthese: Herstellung, Verbreitung und angedrohte Verbreitung nicht einvernehmlicher intimer Deepfakes
+    sind in Neuseeland eigenstaendig zu poenalisieren, weil die vorhandenen Regelungswege - insbesondere
+    der Harmful Digital Communications Act 2015 - die Schaeden nicht erfassen.
+  eigene_bewertung: 'Aktuellster neuseelaendischer Beitrag der Auswahl und fuer die Achse content unmittelbar
+    brauchbar. Der Vergleich mit Deutschland ist ergiebig, weil beide Rechtsordnungen dasselbe Grundproblem
+    haben: Wir behelfen uns mit Paragraf 201a Abs. 1 Nr. 2 StGB und Paragraf 33 KunstUrhG und treffen
+    den Fall der rein synthetischen Darstellung nur unvollkommen; Neuseeland behilft sich mit dem Harmful
+    Digital Communications Act und trifft ihn ebenso wenig. Graham arbeitet die Schadensdimensionen sauber
+    heraus und begruendet, warum zivilrechtliche und plattformbezogene Loesungen nicht ausreichen - das
+    ist die Argumentation, die man fuer eine Stellungnahme zum deutschen Reformvorhaben braucht. Am Objekt
+    geprueft.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2023-dodgson-chatgpt-leichtglaeubigkeit
+  typ: aufsatz
+  autoren:
+  - Dodgson, Neil
+  titel: 'Artificial Intelligence: ChatGPT and Human Gullibility'
+  fundstelle: Policy Quarterly 19 (2023), Heft 3, 19-24
+  jahr: 2023
+  sprache: en
+  doi: 10.26686/pq.v19i3.8308
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - content
+  - governance
+  kernthese: Die eigentliche Gefahr generativer Sprachmodelle liegt nicht in ihren Faehigkeiten, sondern
+    in der Bereitschaft der Nutzer, ihren Ausgaben zu glauben.
+  eigene_bewertung: Von einem Informatiker geschrieben, nicht von einem Juristen, und trotzdem fuer die
+    juristische Arbeit brauchbar - weil die Frage der Nutzererwartung genau der Anknuepfungspunkt fuer
+    Kennzeichnungspflichten (Art. 50 KI-VO) und fuer die Frage der Irrefuehrung im Lauterkeitsrecht ist.
+    Wer begruenden muss, warum ein Hinweis auf KI-Herkunft die Fehlvorstellung nicht beseitigt, findet
+    hier die empirisch gestuetzte Beobachtung. Sonst nichts Juristisches.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

@@ -1,0 +1,58 @@
+name: Datenbasis prüfen
+
+# Läuft bei jeder Änderung an den Daten und meldet, wenn etwas nicht
+# stimmt: unbekanntes Vokabular, doppelte ids, tote Verweise, verfälschte
+# Umlaute. Erzeugt zusätzlich die App-Daten als herunterladbares Ergebnis,
+# damit man sie ansehen kann, ohne den Bau lokal zu wiederholen.
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "schema/**", "build/**", "app/**", ".github/workflows/pruefen.yml"]
+  pull_request:
+    paths: ["data/**", "schema/**", "build/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: {python-version: "3.12"}
+
+      - name: Abhaengigkeiten
+        run: |
+          pip install pyyaml spylls
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq hunspell-de-de hunspell-en-us
+
+      - name: Vokabular, ids und Verweise
+        run: python3 schema/validate.py
+
+      - name: Fremdsprachige Umlautschäden
+        run: python3 build/fremdumlaut.py
+
+      - name: Fundstellen einstufen
+        run: python3 build/quellenart.py --pruefen
+
+      - name: App-Daten erzeugen
+        run: python3 build/build.py
+
+      - name: Güte des Bestandes
+        run: python3 build/guete.py
+
+      - name: Reifegrad je Rechtsordnung
+        run: python3 build/abdeckung.py
+
+      - name: Ergebnis sichern
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-daten
+          path: |
+            app/data.json
+            app/fristen.ics
+          retention-days: 14

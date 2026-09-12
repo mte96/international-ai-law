@@ -1,0 +1,961 @@
+fristen:
+- id: it-legge-132-2025-f1
+  datum: 2025-10-10
+  beschreibung: 'Inkrafttreten der Legge 132/2025 in vollem Umfang. Ab diesem Tag gelten die Grundsaetze,
+    die Sektorregeln, die Behoerdenbenennung (AgID/ACN), die urheberrechtlichen Aenderungen und das Strafrechtspaket
+    einschliesslich Art. 612-quater c.p. Zugleich Fristbeginn fuer alle Delegationen und Ausfuehrungsdekrete.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Alle Anbieter, Betreiber und Nutzer von KI-Systemen in Italien; oeffentliche Verwaltungen,
+    Gesundheitseinrichtungen, Arbeitgeber, Angehoerige freier Berufe, Gerichte
+  handlungsbedarf: null
+  quelle: https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: it-legge-132-2025-f2
+  datum: 2026-01-08
+  beschreibung: 'Ablauf der Neunzig-Tage-Frist des Art. 12 Abs. 2 Legge 132/2025 fuer das Dekret zur Zusammensetzung
+    und Arbeitsweise des Osservatorio sull''adozione di sistemi di intelligenza artificiale nel mondo
+    del lavoro. ERFUELLT: DM 173 vom 15.12.2025.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Ministero del Lavoro e delle Politiche Sociali
+  handlungsbedarf: null
+  quelle: https://www.lavoro.gov.it/documenti-e-norme/dm-173-del-15122025
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: it-legge-132-2025-f3
+  datum: 2026-02-07
+  beschreibung: 'Ablauf der Hundertzwanzig-Tage-Frist des Art. 9 Abs. 1 Legge 132/2025 fuer das Dekret
+    des Gesundheitsministers zur vereinfachten Verarbeitung personenbezogener und besonderer Daten in
+    der KI-gestuetzten Gesundheitsforschung. STATUS UNKLAR: weder Erlass noch Fristueberschreitung amtlich
+    belegbar.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Ministero della Salute; Garante per la protezione dei dati personali; forschende Einrichtungen
+    und IRCCS
+  handlungsbedarf: Amtliche Klaerung, ob das Dekret ergangen ist — Suche in der Gazzetta Ufficiale und
+    auf salute.gov.it
+  quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: it-legge-132-2025-f4
+  datum: 2026-10-10
+  beschreibung: 'Ablauf der Delega des Art. 16 Abs. 1 Legge 132/2025 (zwoelf Monate): ein oder mehrere
+    decreti legislativi zur organischen Regelung der Nutzung von Daten, Algorithmen und mathematischen
+    Methoden fuer das Training von KI-Systemen, einschliesslich Rechtsregime, Schutzinstrumenten, Sanktionen
+    und Zuweisung der Streitigkeiten an die sezioni specializzate in materia di impresa. NICHT AUSGEUEBT.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Governo italiano; mittelbar Anbieter von KI-Modellen, Rechteinhaber, Datenbankhersteller
+  handlungsbedarf: Verfolgen, ob bis zum 10.10.2026 ein schema di decreto legislativo zu Art. 16 den Kammern
+    zugeleitet wird; andernfalls verfaellt die Delega
+  quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: it-legge-132-2025-f5
+  datum: 2026-10-10
+  beschreibung: 'Ablauf der Delega des Art. 24 Abs. 1 Legge 132/2025 (zwoelf Monate) zur Anpassung des
+    nationalen Rechts an die Verordnung (EU) 2024/1689. TEILWEISE AUSGEUEBT: Atto del Governo n. 421 (Befugnisse
+    der nationalen Behoerden, KI in der Bildung), am 04.08.2026 endgueltig beschlossen, Veroeffentlichung
+    in der Gazzetta Ufficiale am 04.09.2026 noch nicht nachweisbar.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Governo italiano; AgID, ACN, Garante, Banca d'Italia, CONSOB, IVASS
+  handlungsbedarf: Veroeffentlichung des Dekrets in der Gazzetta Ufficiale und dessen Nummer nachtragen
+  quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: it-legge-132-2025-f6
+  datum: 2026-10-10
+  beschreibung: 'Ablauf der Delega des Art. 24 Abs. 3 Legge 132/2025 (zwoelf Monate) zur Regelung der
+    rechtswidrigen Herstellung und Nutzung von KI-Systemen einschliesslich eigenstaendiger Straftatbestaende,
+    Kriterien straf- und verwaltungsrechtlicher Verantwortlichkeit, zivilrechtlichem Schaedigtenschutz
+    und KI-Einsatz in den Ermittlungen. TEILWEISE AUSGEUEBT: Atto del Governo n. 418, am 04.08.2026 endgueltig
+    beschlossen, Veroeffentlichung noch nicht nachweisbar.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Governo italiano; Strafverfolgungsbehoerden, Polizei, Gerichte, Anbieter und Betreiber von
+    KI-Systemen, Haftpflichtversicherer
+  handlungsbedarf: Veroeffentlichung des Dekrets in der Gazzetta Ufficiale und dessen Nummer nachtragen;
+    pruefen, ob Art. 437-bis c.p. in Kraft getreten ist
+  quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: it-legge-132-2025-f7
+  datum: 2026-12-09
+  beschreibung: 'Aeusserster denkbarer Ablauf der Delegationen der Art. 16 und 24 unter Anwendung der
+    Verlaengerungsklausel des Art. 24 Abs. 4 (sechzig Tage), falls die Frist fuer die parlamentarischen
+    Stellungnahmen in den letzten dreissig Tagen der Delegationsfrist oder danach ausliefe. NACH DEM WORTLAUT
+    NICHT EINSCHLAEGIG fuer AG 418 und AG 421: deren Stellungnahmefristen liefen am 25.08. bzw. 16.08.2026
+    ab, also mehr als dreissig Tage vor dem 10.10.2026. Fuer eine etwaige spaete Zuleitung eines Dekrets
+    zu Art. 16 koennte die Klausel dagegen greifen.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Governo italiano
+  handlungsbedarf: Rechnerisch pruefen, sobald ein weiteres schema di decreto legislativo zugeleitet wird
+  quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: it-ag-418-dlgs-polizia-responsabilita-f1
+  datum: 2026-08-25
+  beschreibung: 'Ablauf der Sechzig-Tage-Frist fuer die parlamentarischen Stellungnahmen zum Atto del
+    Governo n. 418 (Uebermittlung 24.06.2026). ABGELAUFEN; alle Stellungnahmen wurden fristgerecht abgegeben
+    (Commissioni riunite I und II am 30.07.2026, V. Kommission am 22.07.2026, XIV. Kommission am 03.08.2026).
+
+    '
+  typ: einreichung
+  jurisdiktion: it
+  regelwerk: it-ag-418-dlgs-polizia-responsabilita
+  adressat: Commissioni parlamentari competenti
+  handlungsbedarf: null
+  quelle: https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: it-ag-421-dlgs-autorita-formazione-f1
+  datum: 2026-08-16
+  beschreibung: 'Ablauf der Frist fuer die Stellungnahmen der federfuehrenden Kommissionen IX und X zum
+    Atto del Governo n. 421 (Uebermittlung 03.07.2026); die V. Kommission hatte bis 27.07.2026 Zeit. ABGELAUFEN;
+    beide Stellungnahmen ergingen am 29.07.2026.
+
+    '
+  typ: einreichung
+  jurisdiktion: it
+  regelwerk: it-ag-421-dlgs-autorita-formazione
+  adressat: Commissioni parlamentari competenti
+  handlungsbedarf: null
+  quelle: https://www.camera.it/leg19/682?atto=421&idLegislatura=19&tab=&tipoAtto=atto
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: it-agid-linee-guida-ia-pa-f1
+  datum: 2025-03-20
+  beschreibung: 'Ablauf der oeffentlichen Konsultation zu den AgID-Leitlinien fuer den KI-Einsatz in der
+    oeffentlichen Verwaltung (eroeffnet mit Determinazione n. 17 vom 17.02.2025). ABGELAUFEN; eine endgueltige
+    Fassung ist bis 04.09.2026 nicht ergangen.
+
+    '
+  typ: konsultation
+  jurisdiktion: it
+  regelwerk: it-agid-linee-guida-ia-pa
+  adressat: Oeffentliche Verwaltungen nach Art. 2 Abs. 2 CAD, Anbieter, Verbaende, Oeffentlichkeit
+  handlungsbedarf: Beobachten, ob die Leitlinien noch verabschiedet werden
+  quelle: https://www.agid.gov.it/it/notizie/intelligenza-artificiale-in-consultazione-le-linee-guida-pa
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: it-bankitalia-comunicazione-ia-2026-f1
+  datum: 2026-12-31
+  beschreibung: 'Frist der Banca d''Italia für die Vorlage der Relazione zur digitalen operativen Resilienz
+    angesichts fortgeschrittener KI-Modelle. Die Comunicazione al mercato vom 17.07.2026 verlangt, dass
+    das Verwaltungsorgan die Mitteilung befasst, einen Verantwortlichen benennt (regelmäßig die Kontrollfunktion
+    für IKT-Risiken der zweiten Ebene) und für jeden benannten Risikobereich Exposition, Angemessenheit
+    der bestehenden Schutzmaßnahmen, festgestellte Lücken und Interventionsprioritäten darstellt. Der
+    Text bestimmt: ''La Relazione, con allegato il piano di lavoro, deve essere trasmessa alla Vigilanza
+    entro il 31 dicembre 2026.''
+
+    '
+  typ: einreichung
+  jurisdiktion: it
+  regelwerk: it-bankitalia-comunicazione-ia-2026
+  adressat: 'Von der Banca d''Italia unmittelbar beaufsichtigte Intermediäre: Banken, Zahlungs- und E-Geld-Institute,
+    Wertpapierfirmen, Kryptowerte-Dienstleister, Verwalter alternativer Fonds und weitere Finanzintermediäre'
+  handlungsbedarf: null
+  quelle: https://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/2026.07.17-comunicazione/Comunicazione-al-mercato-in-materia-di-resilienza-operativa-digitale-e-modelli-avanzati-di-intelligenza-artificiale.pdf
+  verifiziert: true
+  fundstelle_norm: Comunicazione al mercato der Banca d'Italia vom 17.07.2026 in materia di resilienza
+    operativa digitale e modelli avanzati di intelligenza artificiale (Übermittlung der Relazione an die
+    Vigilanza bis 31.12.2026)
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+  quellenhinweis: 'Primärquelle der Aufsichtsbehörde. Die Domain bancaditalia.it ist in der Quellenklassifikation
+    des Projekts nicht als amtlich hinterlegt; eine Veröffentlichung in der Gazzetta Ufficiale gibt es
+    für eine Comunicazione al mercato nicht.
+
+    '
+- id: it-legge-132-2025-f8
+  datum: 2025-08-02
+  beschreibung: 'Unionsrechtliche Frist des Art. 70 Abs. 2 KI-VO zur Benennung der zustaendigen nationalen
+    Behoerden. VON ITALIEN VERFEHLT: Art. 20 Legge 132/2025, der AgID und ACN benennt, ist erst am 10.10.2025
+    in Kraft getreten — rund zwei Monate zu spaet.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: Italienische Republik gegenueber der Europaeischen Kommission
+  handlungsbedarf: null
+  quelle: https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: it-legge-132-2025-f9
+  datum: 2027-12-02
+  beschreibung: 'Anwendungsbeginn der Vorschriften der KI-VO zu Hochrisikosystemen nach Anhang III (Kapitel
+    III Abschnitte 1 bis 3). Ab diesem Tag muessen ACN und AgID ihre Aufsichts- und Sanktionsbefugnisse
+    gegenueber Anbietern und Betreibern solcher Systeme tatsaechlich ausueben koennen — die dafuer erforderliche
+    nationale Ausgestaltung steht im noch nicht veroeffentlichten Dekret AG 421. Die Governance- und die
+    Sanktionsvorschriften der KI-VO (Kapitel VII und Kapitel XII, ausgenommen Art. 101) gelten davon unabhaengig
+    seit dem 02.08.2025.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: it
+  regelwerk: it-legge-132-2025
+  adressat: ACN, AgID, Garante, Banca d'Italia, CONSOB, IVASS; Anbieter und Betreiber von Hochrisiko-KI
+  handlungsbedarf: Pruefen, ob und mit welchen Befugnissen die ACN tatsaechlich Sanktionen verhaengen
+    kann; die Sanktionsvorschriften des Kapitels XII KI-VO gelten seit dem 02.08.2025
+  quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: it-strategia-nazionale-ia-f1
+  datum: 2027-10-10
+  beschreibung: 'Erster Ablauf des zweijaehrigen Fortschreibungsrhythmus der nationalen KI-Strategie nach
+    Art. 19 Legge 132/2025, gerechnet ab Inkrafttreten des Gesetzes. Die geltende Strategie deckt den
+    Zeitraum 2024-2026 ab; eine Fortschreibung war am 04.09.2026 nicht nachweisbar.
+
+    '
+  typ: pruefung
+  jurisdiktion: it
+  regelwerk: it-strategia-nazionale-ia
+  adressat: Presidenza del Consiglio dei Ministri; Comitato interministeriale per la transizione digitale
+  handlungsbedarf: Beobachten, ob eine Strategie fuer den Zyklus ab 2027 beschlossen wird
+  quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: es-rd-729-2023-f1
+  datum: 2025-08-02
+  beschreibung: 'Frist des Art. 70 Abs. 2 KI-VO für die Benennung der notifizierenden Behörde und der
+    Marktüberwachungsbehörden sowie für deren Mitteilung an die Kommission. Spanien hat sie verfehlt:
+    eine förmliche Benennung soll erst durch Art. 4 bis 6 des Proyecto de Ley Orgánica erfolgen, das nicht
+    verabschiedet ist.'
+  typ: umsetzungsfrist
+  jurisdiktion: es
+  regelwerk: es-rd-729-2023
+  adressat: Königreich Spanien gegenüber der Europäischen Kommission
+  handlungsbedarf: Beobachten, ob die Kommission ein Vertragsverletzungsverfahren einleitet und ob Spanien
+    vor Verabschiedung des organischen Gesetzes eine vorläufige Benennung mitteilt.
+  quelle: https://aesia.digital.gob.es/
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: es-lo-gobernanza-ia-f1
+  datum: 2026-06-30
+  beschreibung: Ablauf der Frist für Änderungsanträge zum Proyecto de Ley Orgánica (15 Arbeitstage ab
+    Veröffentlichung im BOCG am 12.06.2026), Comisión de Economía, Comercio y Transformación Digital.
+  typ: einreichung
+  jurisdiktion: es
+  regelwerk: es-lo-gobernanza-ia
+  adressat: Parlamentarische Gruppen des Congreso de los Diputados
+  handlungsbedarf: null
+  quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: es-lo-gobernanza-ia-f2
+  datum: 2026-08-02
+  beschreibung: Anwendungsbeginn der Transparenzpflichten des Art. 50 KI-VO. Spanien hat zu diesem Zeitpunkt
+    weder benannte Marktüberwachungsbehörden noch nationale Sanktionstatbestände; die Kennzeichnungspflicht
+    für KI-erzeugte Inhalte gilt materiell, ohne dass ein nationaler Bußgeldtatbestand sie bewehrt. Die
+    Hochrisikopflichten für Systeme nach Anhang III werden erst am 02.12.2027 anwendbar.
+  typ: anwendungsbeginn
+  jurisdiktion: es
+  regelwerk: es-lo-gobernanza-ia
+  adressat: Anbieter und Betreiber generativer KI-Systeme mit Bezug zu Spanien
+  handlungsbedarf: Prüfen, welche spanische Behörde bis zur Verabschiedung des organischen Gesetzes faktisch
+    Beschwerden nach Art. 85 KI-VO entgegennimmt.
+  quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: es-rd-817-2023-f1
+  datum: 2026-11-10
+  beschreibung: Ende der Höchstgeltungsdauer von 36 Monaten des Real Decreto 817/2023 (Reallabor) nach
+    seiner disposición final segunda, gerechnet ab dem Inkrafttreten am 10.11.2023. Danach fehlt die Rechtsgrundlage
+    des staatlichen KI-Reallabors, solange Art. 11 des Proyecto de Ley Orgánica nicht in Kraft ist.
+  typ: pruefung
+  jurisdiktion: es
+  regelwerk: es-rd-817-2023
+  adressat: Secretaría de Estado de Digitalización e Inteligencia Artificial, AESIA und Teilnehmer des
+    Reallabors
+  handlungsbedarf: Beobachten, ob eine Nachfolgeregelung oder Verlängerung ergeht; andernfalls entsteht
+    eine Lücke bei der Reallabor-Pflicht des Art. 57 Abs. 1 KI-VO (Frist 02.08.2026).
+  quelle: https://www.boe.es/eli/es/rd/2023/11/08/817
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: es-ley-12-2021-f1
+  datum: 2026-12-02
+  beschreibung: Umsetzungsfrist der Richtlinie (EU) 2024/2831 über die Verbesserung der Arbeitsbedingungen
+    in der Plattformarbeit. Spanien muss unter anderem Art. 9 (Unterrichtung über automatisierte Überwachungs-
+    und Entscheidungssysteme) umsetzen; Art. 64.4.d) ET deckt das teilweise ab, die Richtlinie geht bei
+    Beschäftigtenrechten, menschlicher Überprüfung und der Vermutungsregel aber weiter.
+  typ: umsetzungsfrist
+  jurisdiktion: es
+  regelwerk: es-ley-12-2021
+  adressat: Königreich Spanien; mittelbar Plattformbetreiber und Arbeitnehmervertretungen
+  handlungsbedarf: Prüfen, ob ein Umsetzungsgesetz eingebracht wird und ob es Art. 64.4.d) ET erweitert.
+  quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15767
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: es-lo-menores-digitales-f1
+  datum: 2025-12-12
+  beschreibung: Veröffentlichung der Änderungsanträge zum Proyecto de Ley Orgánica Minderjährigenschutz
+    (BOCG-A-52-4) und damit Ende der Änderungsantragsphase in der Comisión de Justicia. Seither ist kein
+    Verfahrensschritt mehr veröffentlicht worden — trotz Behandlung im Dringlichkeitsverfahren.
+  typ: einreichung
+  jurisdiktion: es
+  regelwerk: es-lo-menores-digitales
+  adressat: Comisión de Justicia des Congreso de los Diputados
+  handlungsbedarf: Beobachten, ob ein Ponencia-Bericht (BOCG-A-52-5) erscheint; ohne ihn kann das Vorhaben
+    mit dem Ende der XV. Legislaturperiode verfallen.
+  quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-4.PDF
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: es-dl-2-2023-extremadura-f1
+  datum: 2023-12-10
+  beschreibung: Ablauf der Neun-Monats-Frist der disposición adicional des Decreto-ley 2/2023 für die
+    Ausarbeitung der Estrategia Extremeña de Inteligencia Artificial (EEIA), gerechnet ab Inkrafttreten
+    am 11.03.2023. Ob die Strategie erlassen wurde, ist nicht belegt.
+  typ: umsetzungsfrist
+  jurisdiktion: es
+  regelwerk: es-dl-2-2023-extremadura
+  adressat: Junta de Extremadura
+  handlungsbedarf: Im DOE prüfen, ob die EEIA erlassen wurde.
+  quelle: https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8795
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: es-lo-gobernanza-ia-f3
+  datum: 2027-08-02
+  beschreibung: Anwendungsbeginn der Hochrisikopflichten für KI-Systeme als Sicherheitsbauteile von Produkten
+    nach Art. 6 Abs. 1 KI-VO. Betrifft in Spanien insbesondere KI-gestützte Medizinprodukte, für die weder
+    der Estatuto der AESIA (Art. 4 Abs. 1 RD 729/2023 nimmt sie aus) noch der bisher bekannte Behördenkatalog
+    des Proyecto de Ley Orgánica eine Marktüberwachungsbehörde ausweist.
+  typ: anwendungsbeginn
+  jurisdiktion: es
+  regelwerk: es-lo-gobernanza-ia
+  adressat: Hersteller KI-gestützter Produkte, insbesondere Medizinprodukte; AEMPS
+  handlungsbedarf: Klären, ob die AEMPS förmlich als Marktüberwachungsbehörde benannt wird.
+  quelle: https://www.boe.es/eli/es/rd/2023/08/22/729
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: gr-n-4961-2022-f1
+  datum: 2023-01-01
+  beschreibung: Inkrafttreten des ΚΕΦΑΛΑΙΟ Β΄ des ΜΕΡΟΣ Α΄ ν. 4961/2022. Ab diesem Tag galten der Gesetzesvorbehalt
+    für Verwaltungs-KI, die algorithmische Folgenabschätzung, die Offenlegungs- und Registerpflichten
+    sowie die Unterrichtungspflicht des Arbeitgebers und die Register- und Datenethikpflicht mittlerer
+    und großer Unternehmen. Damit war Griechenland gut zwei Jahre vor der KI-VO der einzige Mitgliedstaat
+    mit materiellem KI-Recht für die Privatwirtschaft.
+  typ: anwendungsbeginn
+  jurisdiktion: gr
+  regelwerk: gr-n-4961-2022
+  adressat: Öffentliche Stellen nach ν. 4270/2014; private Arbeitgeber; mittlere und große Einheiten nach
+    ν. 4308/2014
+  handlungsbedarf: null
+  quelle: https://api.et.gr/apiLAW/1/2022/4961/pdf
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: gr-n-5321-2026-f1
+  datum: 2025-08-02
+  beschreibung: 'Unionsrechtliche Frist des Art. 70 Abs. 2 KI-VO zur Benennung der notifizierenden Behörde
+    und der Marktüberwachungsbehörden und zu deren Mitteilung an die Kommission. Griechenland hat sie
+    um knapp ein Jahr verfehlt: Die Benennung erfolgte erst durch die Άρθρα 3 bis 5 ν. 5321/2026 mit Wirkung
+    vom 20.07.2026.'
+  typ: umsetzungsfrist
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Hellenische Republik gegenüber der Europäischen Kommission
+  handlungsbedarf: Prüfen, ob die Kommission wegen der Fristüberschreitung ein Vertragsverletzungsverfahren
+    eingeleitet hat und ob die Meldung nach Art. 70 Abs. 2 KI-VO inzwischen erfolgt ist.
+  quelle: https://api.et.gr/apiLAW/1/2026/5321/pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: gr-n-5321-2026-f2
+  datum: 2026-07-06
+  beschreibung: Ablauf der öffentlichen elektronischen Konsultation zum Durchführungsgesetz auf opengov.gr
+    (09:00 Uhr), begonnen am 21.06.2026 um 23:10 Uhr. Die Konsultation dauerte damit gut zwei Wochen;
+    das Gesetz wurde zehn Tage später im Plenum angenommen.
+  typ: konsultation
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Verbände, Unternehmen, Behörden und Öffentlichkeit
+  handlungsbedarf: null
+  quelle: https://archive.opengov.gr/digitalandbrief/?p=3997
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: gr-n-5321-2026-f3
+  datum: 2026-07-20
+  beschreibung: Verkündung und Inkrafttreten des ν. 5321/2026 im ΦΕΚ Α΄ 114. Zeitgleich treten die Behördenbenennung
+    nach Art. 70 KI-VO und die Aufhebung des ΚΕΦΑΛΑΙΟ Β΄ ν. 4961/2022 in Kraft. Die privatwirtschaftlichen
+    Pflichten der Άρθρα 9 und 10 ν. 4961/2022 enden mit diesem Tag ersatzlos.
+  typ: anwendungsbeginn
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Anbieter und Betreiber von KI-Systemen mit Bezug zu Griechenland; öffentliche Stellen; ΑΠΔΠΧ
+    und ΕΕΤΤ
+  handlungsbedarf: Für Mandate mit griechischem Bezug prüfen, ob KI-Register und Datenethik-Leitlinien
+    nach Άρθρο 10 ν. 4961/2022 noch fortgeführt werden müssen — die Rechtspflicht ist entfallen, vertragliche
+    und konzerninterne Bindungen können fortbestehen.
+  quelle: https://api.et.gr/apiLAW/1/2026/5321/pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: gr-n-5321-2026-f4
+  datum: 2027-12-02
+  beschreibung: Anwendungsbeginn der Hochrisikopflichten für Systeme nach Anhang III KI-VO (Kapitel III
+    Abschnitte 1 bis 3). Griechenland tritt in diesen Stichtag mit einer seit dem 20.07.2026 benannten
+    Marktüberwachungsbehörde und einem nationalen Sanktionsrahmen ein. Die Governance- und die Sanktionsvorschriften
+    der KI-VO (Kapitel VII und Kapitel XII, ausgenommen Art. 101) gelten davon unabhängig seit dem 02.08.2025.
+  typ: anwendungsbeginn
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Anbieter und Betreiber von Hochrisiko-KI-Systemen nach Anhang III mit Bezug zu Griechenland
+  handlungsbedarf: null
+  quelle: https://www.dpa.gr/el/enimerwtiko/deltia/i-arhi-prostasias-dedomenon-analambanei-kombiko-rolo-stin-efarmogi-toy
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: gr-n-5321-2026-f5
+  datum: 2027-08-02
+  beschreibung: Unionsrechtliche Frist des Art. 57 Abs. 1 KI-VO, bis zu der mindestens ein KI-Reallabor
+    auf nationaler Ebene eingerichtet und einsatzbereit sein muss. Griechenland hat die Rechtsgrundlage
+    mit Άρθρο 12 ν. 5321/2026 am 20.07.2026 geschaffen; ein Teilnahmeaufruf der ΕΕΤΤ war am 04.09.2026
+    nicht auffindbar.
+  typ: pruefung
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων; Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+  handlungsbedarf: Beobachten, ob die ΕΕΤΤ den Teilnahmeaufruf nach Άρθρο 12 Abs. 3 veröffentlicht und
+    ob das Reallabor tatsächlich arbeitet.
+  quelle: https://archive.opengov.gr/digitalandbrief/?p=3985
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: gr-n-5321-2026-f6
+  datum: 2026-10-31
+  beschreibung: 'Ablauf der Übergangsfrist des Άρθρο 25 Abs. 2 ν. 5321/2026: Öffentliche Stellen, die
+    vor Inkrafttreten des Gesetzes bereits KI-Systeme einsetzen, müssen unverzüglich, spätestens aber
+    bis zu diesem Tag, eine Registrierungserklärung im Μητρώο des Άρθρο 21 abgeben («αμελλητί και πάντως
+    όχι πέραν της 31ης.10.2026»). Dies ist die einzige echte, noch laufende nationale Stichtagsfrist des
+    griechischen KI-Rechts.'
+  typ: einreichung
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Alle Stellen des öffentlichen Sektors im Sinne des ν. 4270/2014, die KI-Systeme einsetzen
+  handlungsbedarf: Bei Mandaten mit griechischen öffentlichen Auftraggebern prüfen, ob die Registrierungserklärung
+    abgegeben ist und ob das Register technisch bereitsteht; das Register war am 04.09.2026 auf ai.gov.gr
+    nicht sichtbar. Sanktion bei Fristversäumnis ist nicht ersichtlich.
+  quelle: https://archive.opengov.gr/digitalandbrief/?p=3973
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 14
+  - 7
+- id: gr-n-4961-2022-f2
+  datum: 2026-12-02
+  beschreibung: Umsetzungsfrist der Richtlinie (EU) 2024/2831 über die Verbesserung der Arbeitsbedingungen
+    in der Plattformarbeit. Ihr Kapitel III (algorithmisches Management, insbesondere Unterrichtung über
+    automatisierte Überwachungs- und Entscheidungssysteme, menschliche Überprüfung und Verbot bestimmter
+    Datenverarbeitungen) deckt teilweise das ab, was Άρθρο 9 ν. 4961/2022 bis zum 19.07.2026 national
+    geregelt hatte. Griechenland hat die nationale Vorschrift aufgehoben, bevor die Richtlinie umgesetzt
+    ist — dazwischen liegt eine Schutzlücke von gut viereinhalb Monaten.
+  typ: umsetzungsfrist
+  jurisdiktion: gr
+  regelwerk: gr-n-4961-2022
+  adressat: Hellenische Republik; mittelbar Plattformbetreiber und Arbeitnehmervertretungen
+  handlungsbedarf: Beobachten, ob ein Umsetzungsgesetz eingebracht wird und ob es die Unterrichtungspflicht
+    des aufgehobenen Άρθρο 9 ν. 4961/2022 für alle Arbeitgeber wiederherstellt oder nur für Plattformarbeit.
+  quelle: https://api.et.gr/apiLAW/1/2022/4961/pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: gr-n-5321-2026-f7
+  datum: 2026-12-09
+  beschreibung: Umsetzungsfrist der Richtlinie (EU) 2024/2853 über die Haftung für fehlerhafte Produkte,
+    die Software und KI-Systeme ausdrücklich als Produkte erfasst und Beweiserleichterungen bei technischer
+    Komplexität einführt. Eine griechische Umsetzung war am Rechercheschluss nicht ersichtlich; bis dahin
+    gilt ν. 2251/1994 in der bisherigen Fassung.
+  typ: umsetzungsfrist
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Hellenische Republik; mittelbar Hersteller und Anbieter von KI-Systemen
+  handlungsbedarf: Beobachten, ob ein Umsetzungsentwurf auf opengov.gr in Konsultation geht.
+  quelle: https://api.et.gr/apiLAW/1/2026/5321/pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: gr-n-5321-2026-f8
+  datum: 2027-08-02
+  beschreibung: Anwendungsbeginn des Art. 6 Abs. 1 KI-VO für Hochrisikosysteme, die Sicherheitsbauteile
+    von Produkten nach Anhang I sind. Erst ab diesem Tag wird praktisch relevant, welche griechische Behörde
+    nach Άρθρο 3 Abs. 2 ν. 5321/2026 sektoral zuständig ist — eine Frage, die das Gesetz offenlässt und
+    die die Ο.Κ.Ε. gerügt hat.
+  typ: anwendungsbeginn
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Anbieter produktintegrierter Hochrisiko-KI; sektorale griechische Marktüberwachungsbehörden
+  handlungsbedarf: Bis dahin klären, welche griechische Stelle für welches Anhang-I-Produkt zuständig
+    ist; gegebenenfalls Auskunft bei der ΑΠΔΠΧ als einziger Anlaufstelle einholen.
+  quelle: https://archive.opengov.gr/digitalandbrief/?p=3994
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: gr-n-5321-2026-f9
+  datum: 2028-07-20
+  beschreibung: Ablauf des zweijährigen Sonderregimes des Άρθρο 25 Abs. 1 ν. 5321/2026, nach dem der Personalbedarf
+    der ΑΠΔΠΧ aus den neuen KI-Aufgaben in entsprechender Anwendung des Άρθρο 31 ν. 4873/2021 über Personalmobilität
+    gedeckt wird. Danach fehlt ein besonderes Beschaffungsinstrument — genau davor hat die Behörde in
+    ihrer Γνωμοδότηση 9/2026 gewarnt.
+  typ: pruefung
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα; Υπουργείο Ψηφιακής Διακυβέρνησης και Τεχνητής
+    Νοημοσύνης
+  handlungsbedarf: Beobachten, ob eine dauerhafte Stellenausstattung geschaffen wird; andernfalls droht
+    ein Vollzugsdefizit bei der KI-Marktüberwachung.
+  quelle: https://archive.opengov.gr/digitalandbrief/?p=3973
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+- id: gr-n-5321-2026-f10
+  datum: 2027-08-02
+  beschreibung: 'Ablauf der Übergangsfrist des Art. 111 Abs. 3 KI-VO für Anbieter von Universalmodellen,
+    die vor dem 02.08.2025 in Verkehr gebracht wurden. Für Griechenland ohne eigene nationale Zusatzregelung:
+    Das Durchführungsgesetz weist die Aufsicht über Universalmodelle nicht der ΑΠΔΠΧ zu, sie liegt beim
+    Büro für Künstliche Intelligenz der Kommission.'
+  typ: anwendungsbeginn
+  jurisdiktion: gr
+  regelwerk: gr-n-5321-2026
+  adressat: Anbieter von KI-Modellen mit allgemeinem Verwendungszweck
+  handlungsbedarf: Klären, ob die ΑΠΔΠΧ bei Universalmodellen überhaupt eine Rolle hat; Άρθρο 3 ν. 5321/2026
+    nennt sie nicht.
+  quelle: https://archive.opengov.gr/digitalandbrief/?p=3994
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: fr-loi-2023-380-f1
+  datum: 2025-03-31
+  beschreibung: 'Ablauf der ursprünglichen Befristung der VSA-Experimentierung nach Art. 10 der LOI n°
+    2023-380 vom 19.05.2023. Ab dem 01.04.2025 waren neue präfektorale Genehmigungen nicht mehr möglich,
+    weil die Verlängerung durch das Transportsicherheitsgesetz am 24.04.2025 als cavalier législatif zensiert
+    worden ist. STAND HEUTE (an Legifrance geprüft): Art. 10 gilt in der seit dem 20.08.2026 geltenden
+    Fassung, geändert durch Art. 50 der LOI n° 2026-798 vom 18.08.2026; die Experimentierung mit algorithmischer
+    Verarbeitung von Bildern aus Videoüberwachung und Drohnen läuft danach ''à titre expérimental, jusqu''au
+    31 décembre 2030''. Das hier eingetragene Datum bleibt als historischer Endpunkt der ersten Befristung
+    stehen; sein Wortlaut ist in der aktuellen konsolidierten Fassung nicht mehr sichtbar und daher nicht
+    am Normtext belegt.
+
+    '
+  typ: sonstiges
+  jurisdiktion: fr
+  regelwerk: fr-loi-2023-380
+  adressat: Nationale Polizei und Gendarmerie, Militärpolizei, städtische Polizeien, Feuerwehr- und Rettungsdienste,
+    SNCF und RATP
+  handlungsbedarf: null
+  quelle: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047561974
+  verifiziert: false
+  fundstelle_norm: 'Art. 10 LOI n° 2023-380 du 19 mai 2023 (Ursprungsfassung); geltende Fassung: Art.
+    10 i.d.F. des Art. 50 der LOI n° 2026-798 du 18 août 2026 — Befristung bis 31.12.2030'
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: fr-designation-autorites-ia-f1
+  datum: 2025-08-02
+  beschreibung: 'Frist des Art. 70 Abs. 2 KI-VO für die Benennung der zuständigen nationalen Behörden
+    und die Mitteilung an die Kommission. Frankreich hat die Frist VERFEHLT: am 09.09.2025 wurde lediglich
+    ein Benennungsplan von DGE und DGCCRF veröffentlicht; die rechtsverbindliche Benennung soll erst durch
+    Art. 24 des DDADUE-Gesetzes erfolgen, das bis zum Rechercheschluss nicht verabschiedet ist.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: fr
+  regelwerk: fr-designation-autorites-ia
+  adressat: Französischer Staat (DGE, DGCCRF, CNIL, Arcom, ACPR)
+  handlungsbedarf: Prüfen, ob und wann Frankreich der Kommission die Behörden gemeldet hat — nicht feststellbar.
+  quelle: https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-0
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: fr-ddadue-2026-f1
+  datum: 2027-12-02
+  beschreibung: 'Anwendungsbeginn der Vorschriften der KI-Verordnung für Hochrisikosysteme nach Anhang
+    III (Kapitel III Abschnitte 1 bis 3). Frankreich tritt in diesen Zeitraum ohne gesetzlich benannte
+    Marktüberwachungsbehörden und ohne eigenständiges Sanktionsregime ein; die einzige bezifferte nationale
+    Sanktionsnorm (Art. 63 DDADUE, bis 50.000 Euro) ist noch Entwurf. Die Sanktions- und Governancevorschriften
+    der KI-VO selbst (Kapitel VII und Kapitel XII) gelten seit dem 02.08.2025, Art. 101 seit dem 02.08.2026.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: fr
+  regelwerk: fr-ddadue-2026
+  adressat: Anbieter und Betreiber von Hochrisiko-KI-Systemen in Frankreich; die vorgesehenen Aufsichtsbehörden
+  handlungsbedarf: Verfahrensstand des DDADUE-Gesetzentwurfs in der Assemblée nationale laufend prüfen.
+  quelle: https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: fr-loi-2026-798-f1
+  datum: 2027-12-31
+  beschreibung: 'Ablauf des mit der LOI n° 2026-798 eingeführten Experiments algorithmischer Videoüberwachung
+    im privaten Einzelhandel („À titre expérimental et jusqu''au 31 décembre 2027“). Bis dahin ist zu
+    erwarten, dass eine Evaluierung vorgelegt und über eine Verlängerung oder Verstetigung entschieden
+    wird.
+
+    '
+  typ: pruefung
+  jurisdiktion: fr
+  regelwerk: fr-loi-2026-798
+  adressat: Betreiber von Geschäften, Supermärkten und Einkaufszentren; CNIL als Genehmigungsbehörde
+  handlungsbedarf: Durchführungsdekret und CNIL-Genehmigungspraxis beobachten; bislang liegt beides nicht
+    vor.
+  quelle: https://www.assemblee-nationale.fr/dyn/17/amendements/2984/AN/844.pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: fr-loi-2026-798-f2
+  datum: 2030-12-31
+  beschreibung: 'Ablauf der verlängerten VSA-Experimentierung nach Art. 10 der loi n° 2023-380 in der
+    Fassung der LOI n° 2026-798. Bis dahin muss der Gesetzgeber entscheiden, ob das Regime ausläuft, erneut
+    verlängert oder — wie es die PPL Verzelen vorschlägt — dauerhaft in den code de la sécurité intérieure
+    überführt wird.
+
+    '
+  typ: pruefung
+  jurisdiktion: fr
+  regelwerk: fr-loi-2026-798
+  adressat: Innenministerium, Präfekturen, Polizei- und Verkehrsbetriebe, CNIL, Gesetzgeber
+  handlungsbedarf: null
+  quelle: https://www.assemblee-nationale.fr/dyn/17/amendements/2984/AN/907
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 365
+  - 180
+  - 90
+- id: fr-loi-2024-449-f1
+  datum: 2024-11-22
+  beschreibung: 'Ablauf der Sechsmonatsfrist des Art. 31 der loi SREN für das Dekret, das die Modalitäten
+    des Schutzes strategischer und sensibler Daten beim Einsatz privater Cloud-Dienste durch staatliche
+    Stellen und die befristeten Ausnahmen (höchstens achtzehn Monate) regeln soll. Ob das Dekret ergangen
+    ist, wurde nicht geprüft. Dieselbe Sechsmonatsfrist gilt für den Bericht nach Art. 6 SREN.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: fr
+  regelwerk: fr-loi-2024-449
+  adressat: Regierung; staatliche Stellen, die private Cloud-Dienste für KI-Anwendungen nutzen
+  handlungsbedarf: Prüfen, ob das Dekret zu Art. 31 SREN erlassen wurde.
+  quelle: https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049565888
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ophavsret-digitale-efterligninger-f1
+  datum: 2025-08-21
+  beschreibung: Ablauf der Verbändeanhörung des Kulturministeriums zum Entwurf über Leistungsschutz und
+    Schutz vor digital erzeugten Nachbildungen (Høringssag HOR 70269, j.nr. 213983). Stellungnahmen an
+    ophavsret@kum.dk. Die Anhörungsauswertung ist bis heute unveröffentlicht, weil ihre Veröffentlichung
+    an die nie erfolgte Einbringung geknüpft war.
+  typ: konsultation
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Verbände der Høringsliste, Rechteinhaber, Plattformen, Öffentlichkeit
+  handlungsbedarf: null
+  quelle: https://hoeringsportalen.dk/Hearing/Details/70269
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ophavsret-digitale-efterligninger-f2
+  datum: 2025-10-31
+  beschreibung: Notifizierung des Entwurfs bei der Europäischen Kommission nach Art. 5 der Richtlinie
+    (EU) 2015/1535 unter der Nummer 2025/0654/DK durch Erhvervsstyrelsen und Kulturministeriet. Beginn
+    der dreimonatigen Stillhaltefrist des Art. 6 Abs. 1.
+  typ: einreichung
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Königreich Dänemark gegenüber der Europäischen Kommission
+  handlungsbedarf: null
+  quelle: https://technical-regulation-information-system.ec.europa.eu/en/notification/27420
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ophavsret-digitale-efterligninger-f3
+  datum: 2025-11-28
+  beschreibung: Frist für die dänische Antwort auf das Auskunftsersuchen der Kommission vom 14.11.2025
+    (MSG 2025/3235, vierzehn Fragen u.a. zur Vereinbarkeit mit dem urheberrechtlichen Acquis, zur Deepfake-Definition
+    des Art. 50 KI-VO und zur DSA). Dänemark hat fristgerecht geantwortet (MSG 2025/3402).
+  typ: einreichung
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Kulturministeriet gegenüber der Europäischen Kommission
+  handlungsbedarf: null
+  quelle: https://technical-regulation-information-system.ec.europa.eu/en/notification/27420/message/113779/EN
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ophavsret-digitale-efterligninger-f4
+  datum: 2026-02-03
+  beschreibung: 'Ablauf der Stillhaltefrist zu TRIS 2025/0654/DK. KEINE Verlängerung: Es ist weder eine
+    ausführliche Stellungnahme (detailed opinion) der Kommission noch eines Mitgliedstaats ergangen, sondern
+    nur eine Reaktion des Typs „Comments“ (MSG 2026/0352). Ab dem 04.02.2026 durfte Dänemark den Entwurf
+    erlassen — es hat ihn nicht einmal eingebracht. Am selben Tag reichte Justitia seine Stellungnahme
+    ein.'
+  typ: pruefung
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Königreich Dänemark; Kommission; Mitgliedstaaten
+  handlungsbedarf: Prüfen, ob eine Wiedereinbringung mit geändertem Text eine erneute Notifizierung nach
+    Art. 5 Abs. 1 UAbs. 3 RL (EU) 2015/1535 auslöst.
+  quelle: https://technical-regulation-information-system.ec.europa.eu/en/notification/27420
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ophavsret-digitale-efterligninger-f5
+  datum: 2026-03-31
+  beschreibung: 'Ursprünglich geplantes Inkrafttreten nach dem Høringsbrev des Kulturministeriums vom
+    07.07.2025. Das dänische Anhörungsportal führt die Anhörung Nr. 70269 (''Høring over forslag til lov
+    om ændring af lov om ophavsret — Indførelse af en præstationsbeskyttelse og beskyttelse mod digitalt
+    genererede efterligninger mv.'') mit der Angabe ''Ikrafttrædelsesdato: 31-03-2026'' und einer Stellungnahmefrist
+    bis zum 21.08.2025. Folgenlos verstrichen; im notifizierten Entwurf war das Datum bereits auf den
+    01.07.2026 verschoben.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Alle natürlichen Personen, ausübende Künstler, Plattformen
+  handlungsbedarf: null
+  quelle: https://hoeringsportalen.dk/Hearing/Details/70269
+  verifiziert: true
+  fundstelle_norm: Høringsportalen, Høring Nr. 70269 (Kulturministeriet, Høringsbrev vom 07.07.2025),
+    Feld 'Ikrafttrædelsesdato'
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ophavsret-digitale-efterligninger-f6
+  datum: 2026-07-01
+  beschreibung: 'Im notifizierten Entwurf vorgesehenes Inkrafttreten (§ 2 Abs. 1: „Loven træder i kraft
+    den 1. juli 2026“). Ebenfalls folgenlos verstrichen — das Gesetz ist nicht ergangen. Damit ist die
+    im Auftragstext angenommene Rechtslage widerlegt.'
+  typ: anwendungsbeginn
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Alle natürlichen Personen, ausübende Künstler, Plattformen
+  handlungsbedarf: null
+  quelle: https://technical-regulation-information-system.ec.europa.eu/en/notification/27420/text/D/DA
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ai-lov-l111-bortfaldet-f1
+  datum: 2026-03-24
+  beschreibung: Ende der Folketingssamling 2025-26 (1. samling). Sämtliche anhängigen Vorlagen verfallen
+    (Status „Bortfaldet“), darunter das Lovforslag L 111 (AI-loven) nach nur einer Behandlung am 17.03.2026
+    und der Antrag B 84 zum KI-Einsatz bei Einbürgerungsanträgen. Die 2. samling beginnt am selben Tag;
+    ihre erste Plenarsitzung ist der 10.04.2026, an dem auch der Wahlprüfungsausschuss tagt.
+  typ: sonstiges
+  jurisdiktion: dk
+  regelwerk: dk-ai-lov-l111-bortfaldet
+  adressat: Folketinget; Digitaliseringsministeriet
+  handlungsbedarf: Wiedereinbringung beobachten — ohne sie fehlen Dänemark Aufsichtsbefugnisse und Sanktionen
+    zur KI-VO.
+  quelle: https://oda.ft.dk/api/Periode?$filter=id%20gt%20155&$format=json
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-lov-467-2025-f1
+  datum: 2025-08-02
+  beschreibung: Unionsrechtliche Doppelfrist des Art. 70 Abs. 2 KI-VO (Benennung und Mitteilung der notifizierenden
+    Behörde und der Marktüberwachungsbehörden) und des Art. 99 Abs. 1 KI-VO (Mitteilung der Sanktionsvorschriften).
+    Die Benennung hat Dänemark mit Lov nr. 467 af 14/05/2025 rechtzeitig vorgenommen; ein nationales Sanktionsregime
+    existiert dagegen bis heute nicht, weil der einschlägige Entwurf L 111 verfallen ist.
+  typ: umsetzungsfrist
+  jurisdiktion: dk
+  regelwerk: dk-lov-467-2025
+  adressat: Königreich Dänemark gegenüber der Europäischen Kommission
+  handlungsbedarf: Prüfen, ob die Kommission wegen der fehlenden Sanktionsvorschriften ein Vertragsverletzungsverfahren
+    eingeleitet hat.
+  quelle: https://www.retsinformation.dk/eli/lta/2025/467
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-lov-467-2025-f2
+  datum: 2026-08-02
+  beschreibung: Anwendungsbeginn der Transparenzvorschriften der KI-VO (Art. 50) nach Art. 113 KI-VO.
+    Dänemark erreicht diesen Stichtag mit dem Behördenbenennungsgesetz von 2025, aber ohne Auskunfts-,
+    Kontroll- und Veröffentlichungsbefugnisse und ohne Bußgeldtatbestand. Die Hochrisikopflichten nach
+    Art. 6 Abs. 2 mit Anhang III werden erst am 02.12.2027 anwendbar.
+  typ: anwendungsbeginn
+  jurisdiktion: dk
+  regelwerk: dk-lov-467-2025
+  adressat: Anbieter und Betreiber von KI-Systemen mit Transparenzpflichten nach Art. 50 KI-VO in Dänemark;
+    Digitaliseringsstyrelsen, Datatilsynet, Domstolsstyrelsen
+  handlungsbedarf: null
+  quelle: https://digst.dk/tilsyn/ai-forordningen/reglerne-i-ai-forordningen/
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-ki-sandkasse-f1
+  datum: 2027-08-02
+  beschreibung: 'Frist des Art. 57 Abs. 1 KI-VO: Bis zu diesem Tag muss jeder Mitgliedstaat mindestens
+    ein KI-Reallabor auf nationaler Ebene eingerichtet und einsatzbereit haben. Die dänische Sandkasse
+    von Datatilsynet und Digitaliseringsstyrelsen arbeitet als Beratungsangebot ohne gesetzliche Grundlage;
+    der Gesetzentwurf, der sie hätte tragen können, ist am 24.03.2026 verfallen.'
+  typ: umsetzungsfrist
+  jurisdiktion: dk
+  regelwerk: dk-ki-sandkasse
+  adressat: Königreich Dänemark; Digitaliseringsstyrelsen und Datatilsynet
+  handlungsbedarf: Prüfen, ob Dänemark die Sandkasse förmlich als Reallabor nach Art. 57 KI-VO notifiziert
+    hat und auf welcher Rechtsgrundlage.
+  quelle: https://www.datatilsynet.dk/regler-og-vejledning/kunstig-intelligens/regulatorisk-sandkasse
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-lov-674-2025-su-ki-f1
+  datum: 2025-07-01
+  beschreibung: Inkrafttreten der Lov nr. 674 af 17/06/2025 und damit der ersten ausdrücklichen dänischen
+    Gesetzesermächtigung, Regeln über den Einsatz künstlicher Intelligenz in der behördlichen Sachbearbeitung
+    zu erlassen (SU-Behindertenzuschlag).
+  typ: anwendungsbeginn
+  jurisdiktion: dk
+  regelwerk: dk-lov-674-2025-su-ki
+  adressat: Uddannelses- og Forskningsstyrelsen; Antragsteller des SU-Behindertenzuschlags
+  handlungsbedarf: Prüfen, ob die ausfüllende bekendtgørelse erlassen worden ist und welchen Automatisierungsgrad
+    sie zulässt.
+  quelle: https://oda.ft.dk/api/Sag(101043)?$format=json
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: dk-platformdirektiv-2024-2831-f1
+  datum: 2026-12-02
+  beschreibung: 'Umsetzungsfrist des Art. 29 der Richtlinie (EU) 2024/2831 über die Verbesserung der Arbeitsbedingungen
+    in der Plattformarbeit. Ihr Kapitel III über algorithmisches Management wäre die erste dänische Regelung
+    dieser Materie überhaupt. Ein Umsetzungsentwurf ist am 04.09.2026 nicht auffindbar; verbleibende Zeit:
+    knapp drei Monate.'
+  typ: umsetzungsfrist
+  jurisdiktion: dk
+  regelwerk: dk-platformdirektiv-2024-2831
+  adressat: Königreich Dänemark; Beskæftigelsesministeriet; Tarifparteien
+  handlungsbedarf: Lovkatalog zur Eröffnung des Folketingsjahres am 06.10.2026 auf einen Umsetzungsentwurf
+    prüfen.
+  quelle: https://oda.ft.dk/api/Sag?$filter=substringof('platformsarbejde',titel)&$format=json
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: dk-ophavsret-digitale-efterligninger-f7
+  datum: 2026-10-06
+  beschreibung: Ende der Folketingssamling 2025-26 (2. samling). Am folgenden Tag beginnt das neue Folketingsjahr;
+    zur Eröffnung legt die Regierung ihren Lovkatalog vor. Das ist der nächste realistische Zeitpunkt,
+    zu dem sich zeigt, ob das Deepfake-Gesetz und die AI-loven wieder aufgegriffen werden.
+  typ: pruefung
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Regeringen (Firkløverregeringen); Kulturministeriet; Digitaliseringsministeriet
+  handlungsbedarf: Lovkatalog des Folketingsjahres 2026-27 auswerten; oda.ft.dk auf neue Sag-Einträge
+    mit „ophavsret“ und „kunstig intelligens“ prüfen.
+  quelle: https://oda.ft.dk/api/Periode?$filter=id%20gt%20155&$format=json
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: dk-ophavsret-digitale-efterligninger-f8
+  datum: 2025-10-21
+  beschreibung: Archivierungsdatum der Høringssag HOR 70269 auf hoeringsportalen.dk. Ab diesem Tag ist
+    die Anhörung geschlossen; die Høringssvar sind gleichwohl nie veröffentlicht worden.
+  typ: sonstiges
+  jurisdiktion: dk
+  regelwerk: dk-ophavsret-digitale-efterligninger
+  adressat: Kulturministeriet
+  handlungsbedarf: null
+  quelle: https://hoeringsportalen.dk/Hearing/Details/70269
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []

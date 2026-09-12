@@ -1,0 +1,2006 @@
+# Gepflegte Datenbasis.
+regelwerke:
+- id: it-legge-132-2025
+  jurisdiktion: it
+  kurztitel: Legge 132/2025 — italienisches KI-Gesetz
+  offizieller_titel: Legge 23 settembre 2025, n. 132 — Disposizioni e deleghe al Governo in materia di
+    intelligenza artificiale
+  fundstelle: Gazzetta Ufficiale della Repubblica Italiana, Serie Generale n. 223 del 25 settembre 2025;
+    codice redazionale 25G00143
+  verfahrensnummer: A.S. 1146 (19ª legislatura) — A.C. 2316 — A.S. 1146-B; Schlussabstimmung Senat 17.09.2025
+  status: anwendbar
+  status_detail: 'In Kraft seit 10.10.2025 (fuenfzehnter Tag nach Verkuendung, Art. 73 Abs. 3 Cost.).
+    Materiell voll anwendbar; die beiden Verordnungsermaechtigungen (Art. 16 und Art. 24) laufen bis 10.10.2026
+    und sind erst teilweise ausgeuebt. Erstes eigenstaendiges nationales KI-Gesetz eines EU-Mitgliedstaats.
+
+    '
+  kurzbeschreibung: 'Das Gesetz legt ueber die unmittelbar geltende KI-Verordnung (EU) 2024/1689 ein eigenes
+    materielles Stockwerk: Grundsaetze (anthropozentrischer Ansatz, menschliche Aufsicht, Nichtdiskriminierung),
+    sektorale Vorgaben fuer Gesundheitswesen, Forschung, Arbeitsverhaeltnis, freie Berufe, oeffentliche
+    Verwaltung, Justiz und Cybersicherheit, eine Behoerdenarchitektur (AgID als notifizierende Stelle,
+    ACN als Marktueberwachungsbehoerde, Fortbestand der Zustaendigkeiten von Garante privacy, Banca d''Italia,
+    CONSOB, IVASS und AGCOM), ein Einwilligungserfordernis der Sorgeberechtigten fuer den Zugang von Kindern
+    unter vierzehn Jahren zu KI-Technologien, urheberrechtliche Klarstellungen (Schutz nur fuer menschliche
+    Schoepfungen; TDM-Erlaubnis im Rahmen der Art. 70-ter/70-quater l. 633/1941) sowie ein Strafrechtspaket.
+    Sanktionen: neuer Straftatbestand Art. 612-quater c.p. (Freiheitsstrafe ein bis fuenf Jahre), allgemeiner
+    KI-Erschwerungsgrund Art. 61 Nr. 11-decies c.p., Strafschaerfungen bei Wahltaeuschung (Art. 294 c.p.:
+    zwei bis sechs Jahre), Marktmanipulation (Art. 2637 c.c. und Art. 185 TUF: zwei bis sieben Jahre,
+    Geldstrafe bis sechs Millionen Euro) und ein neuer urheberstrafrechtlicher Tatbestand (Art. 171 lit.
+    a-ter l. 633/1941). Dazu ein Investitionsrahmen von bis zu einer Milliarde Euro (Art. 23) und zwei
+    Verordnungsermaechtigungen.
+
+    '
+  inkrafttreten:
+    datum: 2025-10-10
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg
+  anwendungsdaten:
+  - datum: 2025-09-17
+    was_gilt: Endgueltige Verabschiedung durch den Senat in dritter Lesung (A.S. 1146-B).
+    verifiziert: false
+    quelle: https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?tab=datiGenerali&did=59313
+  - datum: 2025-09-25
+    was_gilt: Verkuendung in der Gazzetta Ufficiale Serie Generale n. 223.
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  - datum: 2025-10-10
+    was_gilt: 'Inkrafttreten des gesamten Gesetzes: Grundsaetze (Art. 1-6), Sektorregeln (Art. 7-18),
+      Behoerdenbenennung (Art. 20), urheberrechtliche Klarstellungen (Art. 25) und das Strafrechtspaket
+      (Art. 26). Ab diesem Tag laufen die Delegationsfristen der Art. 16 und Art. 24.
+
+      '
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg
+  themenachsen:
+  - governance
+  - marktzugang
+  - urheberrecht
+  - datenschutz
+  - haftung
+  - grundrechte
+  - sektor-medizin
+  - sektor-finanz
+  - sektor-oeffentlich
+  - berufsrecht
+  - arbeit
+  - content
+  regelungsschwerpunkte:
+  - 'Aufbau: Capo I Principi e finalita (Art. 1-6), Capo II Disposizioni di settore (Art. 7-18), Capo
+    III Strategia nazionale, autorita nazionali e azioni di promozione (Art. 19-24), Capo IV Disposizioni
+    a tutela degli utenti e in materia di diritto d''autore (Art. 25), Capo V Disposizioni penali (Art.
+    26), Capo VI Disposizioni finanziarie e finali (Art. 27-28). 28 Artikel.'
+  - 'Art. 1: Zweck und Anwendungsbereich — foerdert einen ''utilizzo corretto, trasparente e responsabile,
+    in una dimensione antropocentrica'' der KI und die Aufsicht ueber wirtschaftliche, soziale und grundrechtliche
+    Risiken; ausdrueckliche Konformitaet mit der Verordnung (EU) 2024/1689.'
+  - 'Art. 2: Definitionen — Verweis auf die KI-VO fuer ''sistema di intelligenza artificiale'' und ''modelli'';
+    eigenstaendige weite Datendefinition (''qualsiasi rappresentazione digitale di atti, fatti o informazioni'',
+    einschliesslich Ton- und audiovisueller Aufzeichnungen).'
+  - 'Art. 3: Allgemeine Grundsaetze — Abs. 1 bindet Forschung, Erprobung, Entwicklung, Einfuehrung und
+    Nutzung an Verfassungsgrundrechte, Unionsrecht und die Grundsaetze Transparenz, Verhaeltnismaessigkeit,
+    Sicherheit, Datenschutz, Vertraulichkeit, Genauigkeit, Nichtdiskriminierung, Geschlechtergleichheit
+    und Nachhaltigkeit; Abs. 3 verlangt ''la sorveglianza e l''intervento umano'' sowie Erkennbarkeit,
+    Transparenz und Erklaerbarkeit; Abs. 4 schuetzt demokratisches und institutionelles Leben; Abs. 5
+    stellt klar, dass keine ueber die KI-VO hinausgehenden Pflichten begruendet werden; Abs. 6 Cybersicherheit
+    ueber den gesamten Lebenszyklus; Abs. 7 Barrierefreiheit.'
+  - 'Art. 4 Abs. 1: KI in der Information darf ''la liberta e il pluralismo dei mezzi di comunicazione''
+    nicht beeintraechtigen — eine medienrechtliche Schranke mit Verfassungsbezug.'
+  - 'Art. 4 Abs. 4 (MINDERJAEHRIGE): ''L''accesso alle tecnologie di intelligenza artificiale da parte
+    dei minori di anni quattordici nonche il conseguente trattamento dei dati personali richiedono il
+    consenso di chi esercita la responsabilita genitoriale, nel rispetto di quanto previsto dal regolamento
+    (UE) 2016/679.'' Damit wird die italienische Altersgrenze des Art. 2-quinquies Codice privacy (14
+    Jahre) vom Datenschutz auf den blossen ZUGANG zur Technologie ausgedehnt — eine Zugangsschranke, keine
+    reine Datenschutzregel. Zwischen 14 und 18 Jahren genuegt die Einwilligung des Minderjaehrigen selbst,
+    wenn die Information klar und verstaendlich ist.'
+  - 'Art. 5: Wirtschaftliche Entwicklung — technologische Souveraenitaet, Zugang zu qualifizierten Daten,
+    Foerderung der Datenlokalisierung auf nationalen Servern mit hohen Sicherheitsstandards. Die im Senatsentwurf
+    noch strikte Serverstandort-Pflicht wurde in der Camera abgeschwaecht.'
+  - 'Art. 6: Bereichsausnahme — Taetigkeiten fuer nationale Sicherheit (legge 124/2007), Cybersicherheit,
+    Verteidigung und Kriminalpraevention sind ''escluse dall''ambito applicativo della presente legge''.
+    Eine der weitreichendsten Regelungen des Gesetzes: sie nimmt genau die grundrechtssensibelsten Anwendungsfelder
+    aus dem nationalen Regime heraus (die KI-VO gilt insoweit unberuehrt weiter, Art. 2 Abs. 3 KI-VO).'
+  - 'Art. 7: KI im Gesundheitswesen — Beitrag zu Praevention, Diagnose und Therapie; Diskriminierungsverbot
+    beim Leistungszugang; Informationsrecht der Patientinnen und Patienten ueber den KI-Einsatz; die Entscheidungshoheit
+    bleibt bei der Aerztin/dem Arzt; Zuverlaessigkeit, regelmaessige Ueberpruefung und Aktualisierung
+    der Systeme.'
+  - 'Art. 8: Forschung und wissenschaftliche Erprobung im Gesundheitsbereich — die Verarbeitung durch
+    oeffentliche und private Non-Profit-Einrichtungen sowie IRCCS wird zum ''rilevante interesse pubblico''
+    erklaert; Sekundaernutzung anonymisierter Daten ohne erneute Einwilligung; AGENAS kann nach Anhoerung
+    des Garante Leitlinien zu Anonymisierung und synthetischen Daten erlassen; Mitteilung an den Garante
+    30 Tage vor Verarbeitungsbeginn.'
+  - 'Art. 9: Ermaechtigung des Gesundheitsministers, binnen 120 Tagen (Frist: 07.02.2026) ein Dekret zur
+    vereinfachten Verarbeitung personenbezogener — auch besonderer — Daten fuer KI-gestuetzte Forschung
+    zu erlassen.'
+  - 'Art. 10: Elektronische Gesundheitsakte, Ueberwachungssysteme und digitale Gesundheitsverwaltung —
+    AGENAS wird zur ''Agenzia nazionale per la sanita digitale'' aufgewertet und betreibt eine nationale
+    KI-Plattform mit unverbindlichen Unterstuetzungsdiensten fuer Fachpersonal und Patienten.'
+  - 'Art. 11 (ARBEIT): Abs. 2 verweist fuer die Informationspflicht ausdruecklich auf ''l''articolo 1-bis
+    del decreto legislativo 26 maggio 1997, n. 152'' — also auf die durch das decreto trasparenza (d.lgs.
+    104/2022) eingefuegte und durch DL 48/2023 / Legge 85/2023 geaenderte Vorschrift. Das Gesetz schafft
+    im Arbeitsrecht KEINE neue Informationspflicht, sondern kanalisiert den KI-Einsatz in das bestehende
+    Regime. Abs. 1: Einsatz zur Verbesserung der Arbeitsbedingungen und zum Schutz der psychophysischen
+    Integritaet; Abs. 3: Diskriminierungsverbot nach Geschlecht, Alter, ethnischer Herkunft, Religion,
+    sexueller Orientierung und politischer Ueberzeugung.'
+  - 'Art. 12: Osservatorio sull''adozione di sistemi di intelligenza artificiale nel mondo del lavoro
+    beim Arbeitsministerium; Zusammensetzung durch Dekret binnen 90 Tagen (Frist 08.01.2026); Mitglieder
+    ohne Verguetung; keine zusaetzlichen Haushaltsmittel.'
+  - 'Art. 13 (FREIE BERUFE): Abs. 1 — ''L''utilizzo di sistemi di intelligenza artificiale nelle professioni
+    intellettuali e finalizzato al solo esercizio delle attivita strumentali e di supporto all''attivita
+    professionale e con prevalenza del lavoro intellettuale oggetto della prestazione d''opera.'' Abs.
+    2 — zur Sicherung des Vertrauensverhaeltnisses sind die Informationen ueber die eingesetzten KI-Systeme
+    dem Mandanten ''con linguaggio chiaro, semplice ed esaustivo'' mitzuteilen. Rechtsfolge ist nicht
+    ausdruecklich geregelt: einschlaegig sind das jeweilige Standesrecht (Disziplinarverfahren) und Art.
+    2229 ff. c.c. (Werkvertragsrecht der freien Berufe).'
+  - 'Art. 14 (VERWALTUNG): Einsatz zur Effizienzsteigerung und Verfahrensverkuerzung ''assicurando agli
+    interessati la conoscibilita del suo funzionamento e la tracciabilita del suo utilizzo''; der Einsatz
+    bleibt instrumentell und unterstuetzend, ''l''autonomia e il potere decisionale della persona'' bleibt
+    unberuehrt, die handelnde Person bleibt allein verantwortlich fuer den Verwaltungsakt; technische,
+    organisatorische und Fortbildungsmassnahmen; Haushaltsneutralitaet.'
+  - 'Art. 15 (JUSTIZ): Abs. 1 — ''Nei casi di impiego dei sistemi di intelligenza artificiale nell''attivita
+    giudiziaria e sempre riservata al magistrato ogni decisione sull''interpretazione e sull''applicazione
+    della legge.'' Abs. 2 — das Justizministerium regelt den KI-Einsatz fuer Organisation, Vereinfachung
+    der Gerichtsarbeit und Verwaltungstaetigkeiten. Abs. 3 — Erprobungen in den ordentlichen Gerichten
+    beduerfen der Genehmigung des Justizministeriums nach Anhoerung der Behoerden des Art. 20. Abs. 4
+    — Fortbildung von Richterschaft und Verwaltungspersonal.'
+  - 'Art. 16: Delega al Governo in materia di dati, algoritmi e metodi matematici per l''addestramento
+    — binnen zwoelf Monaten (Frist 10.10.2026) eine ''disciplina organica'' zum Rechtsregime der Trainingsdaten,
+    mit Schutz- und Sanktionsinstrumenten und Zuweisung der Streitigkeiten an die sezioni specializzate
+    in materia di impresa. Diese Delega ist bislang NICHT ausgeuebt.'
+  - 'Art. 17: Aenderung des Art. 9 Abs. 2 c.p.c. — Klagen, die ''il funzionamento di un sistema di intelligenza
+    artificiale'' zum Gegenstand haben, fallen in die ausschliessliche Zustaendigkeit des Tribunale (und
+    damit nicht in die des giudice di pace).'
+  - 'Art. 18: Einfuegung von Art. 7 Abs. 1 lit. m-quater in das DL 82/2021 — die ACN foerdert und entwickelt
+    Initiativen, auch ueber Kooperationsvereinbarungen mit Privaten, ''volta a valorizzare l''intelligenza
+    artificiale come risorsa per il rafforzamento della cybersicurezza nazionale''.'
+  - 'Art. 19: Nationale KI-Strategie, erarbeitet von der zustaendigen Stelle der Praesidentschaft des
+    Ministerrats, alle zwei Jahre vom Comitato interministeriale per la transizione digitale genehmigt;
+    Comitato di coordinamento unter Vorsitz des Ministerpraesidenten.'
+  - 'Art. 20 (BEHOERDENARCHITEKTUR): AgID ist zustaendig fuer Innovationsfoerderung und Entwicklung sowie
+    fuer Notifizierung, Bewertung und Akkreditierung — sie ist die ''autorita di notifica'' im Sinne der
+    KI-VO. Die ACN ist Marktueberwachungsbehoerde (''autorita di vigilanza del mercato'') mit Inspektions-
+    und Sanktionsbefugnissen. Unberuehrt bleiben die marktaufsichtsrechtlichen Rollen von Banca d''Italia,
+    CONSOB und IVASS (''Ferma restando l''attribuzione alla Banca d''Italia, alla CONSOB e all''IVASS
+    del ruolo di autorita di vigilanza del mercato''). Koordinierungsausschuss bei der Praesidentschaft
+    des Ministerrats mit den Direktoren beider Agenturen. Befugnisse des Garante per la protezione dei
+    dati personali und der AGCOM bleiben vollstaendig erhalten.'
+  - 'Art. 21: Erprobung von KI in den konsularischen Diensten des Aussenministeriums; 300.000 Euro jaehrlich
+    fuer 2025 und 2026 — die einzige Vorschrift, die von der Haushaltsneutralitaetsklausel des Art. 27
+    ausgenommen ist.'
+  - 'Art. 22: Foerderung von Schuelerinnen und Schuelern mit hohem kognitiven Potenzial in der KI-Forschung;
+    Zugaenglichkeit von KI im Sport, besonders zur Inklusion von Menschen mit Behinderung.'
+  - 'Art. 23: Investitionen bis zu einem Gesamtbetrag von einer Milliarde Euro in Form von equity und
+    quasi equity ueber Venture-Capital-Fonds von CDP Venture Capital SGR in KI, Cybersicherheit und Quantenrechnen;
+    Ziel sind innovative KMU und nationale Technologie-Champions.'
+  - 'Art. 24 (DELEGHE): Abs. 1 — Anpassung des nationalen Rechts an die Verordnung (EU) 2024/1689 binnen
+    zwoelf Monaten (Frist 10.10.2026) nach dem Verfahren des Art. 31 legge 234/2012, nach Stellungnahmen
+    der zustaendigen Parlamentsausschuesse, der Conferenza unificata und des Garante. Abs. 2 — Leitgrundsaetze:
+    Uebertragung der Aufsichts-, Inspektions- und Sanktionsbefugnisse auf die Behoerden des Art. 20, Anpassung
+    des geltenden Rechts, Sekundaerrecht der benannten Behoerden, Verwaltungssanktionen, Wege der KI-Alphabetisierung
+    und -Fortbildung, Berufsfortbildung, Staerkung der MINT-Kompetenzen in den Lehrplaenen, eine eigene
+    Regelung des KI-Einsatzes in der Polizeiarbeit (lit. h), Hochschul-, AFAM- und ITS-Ausbildung, Aufwertung
+    der Hochschulforschung und des Technologietransfers, Marktueberwachungsbefugnisse und Anpassung des
+    Sanktionsrahmens. Abs. 3 — zweite, eigenstaendige Delega binnen zwoelf Monaten fuer die ''realizzazione
+    e impiego illeciti'' von KI-Systemen. Abs. 4 — Verfahren: 60 Tage fuer die parlamentarischen Stellungnahmen;
+    laeuft diese Frist in den letzten 30 Tagen der Delegationsfrist oder danach ab, verlaengert sich die
+    Delega um 60 Tage. Abs. 5 — Leitgrundsaetze der zweiten Delega: Instrumente gegen die Verbreitung
+    rechtswidrig erzeugter Inhalte, eigenstaendige Straftatbestaende, Kriterien straf- und verwaltungsrechtlicher
+    Verantwortlichkeit, Schutz des Geschaedigten im Zivilhaftungsrecht, Regelung des KI-Einsatzes in den
+    Ermittlungen und Koordinierungsaenderungen. Abs. 6 — Haushaltsneutralitaet.'
+  - 'Art. 25 (URHEBERRECHT): lit. a) aendert Art. 1 legge 633/1941 — nach ''opere dell''ingegno'' wird
+    ''umano'' eingefuegt und nach ''forma di espressione'' angefuegt: ''anche laddove create con l''ausilio
+    di strumenti di intelligenza artificiale, purche costituenti risultato del lavoro intellettuale dell''autore''.
+    Damit ist das Erfordernis menschlicher Schoepfung erstmals im italienischen Gesetzestext ausdruecklich
+    verankert. lit. b) fuegt Art. 70-septies ein: ''Fermo restando quanto previsto dalla Convenzione di
+    Berna [...], le riproduzioni e le estrazioni da opere o da altri materiali contenuti in rete o in
+    banche di dati a cui si ha legittimamente accesso, ai fini dell''estrazione di testo e di dati attraverso
+    modelli e sistemi di intelligenza artificiale, anche generativa, sono consentite in conformita alle
+    disposizioni di cui agli articoli 70-ter e 70-quater.'' Das ist eine Klarstellung, keine neue Schranke:
+    die TDM-Ausnahmen der DSM-Richtlinie werden ausdruecklich auf generative Modelle erstreckt, samt Opt-out-Vorbehalt
+    des Art. 70-quater.'
+  - 'Art. 26 (STRAFRECHT): lit. a) neuer Erschwerungsgrund Art. 61 Nr. 11-decies c.p.; lit. b) Aenderung
+    Art. 294 c.p. (Wahltaeuschung); lit. c) neuer Art. 612-quater c.p.; ferner Art. 171 lit. a-ter legge
+    633/1941, Art. 2637 c.c. und Art. 185 d.lgs. 58/1998 (TUF). Systematische Entscheidung: kein KI-Sonderstrafrecht,
+    sondern ein Erschwerungsgrund plus ein einziger neuer Tatbestand plus punktuelle Qualifikationen in
+    schon bestehenden Delikten.'
+  - 'Art. 26 — Art. 612-quater c.p. im Wortlaut: ''Illecita diffusione di contenuti generati o alterati
+    con sistemi di intelligenza artificiale. — Chiunque cagiona un danno ingiusto ad una persona, cedendo,
+    pubblicando o altrimenti diffondendo, senza il suo consenso, immagini, video o voci falsificati o
+    alterati mediante l''impiego di sistemi di intelligenza artificiale e idonei a indurre in inganno
+    sulla loro genuinita, e punito con la reclusione da uno a cinque anni. Il delitto e punibile a querela
+    della persona offesa. Si procede tuttavia d''ufficio se il fatto e connesso con altro delitto per
+    il quale si deve procedere d''ufficio ovvero se e commesso nei confronti di persona incapace, per
+    eta o per infermita, o di una pubblica autorita a causa delle funzioni esercitate.'' Stellung im Titel
+    XII, Delitti contro la persona, Sezione III (delitti contro la liberta morale) — unmittelbar nach
+    dem Revenge-Porn-Tatbestand Art. 612-ter c.p.'
+  - 'Art. 26 — Art. 61 Nr. 11-decies c.p. im Wortlaut: ''l''avere commesso il fatto mediante l''impiego
+    di sistemi di intelligenza artificiale, quando gli stessi, per la loro natura o per le modalita di
+    utilizzo, abbiano costituito mezzo insidioso, ovvero quando il loro impiego abbia comunque ostacolato
+    la pubblica o la privata difesa, ovvero aggravato le conseguenze del reato.'' Allgemeiner (nicht:
+    besonderer) Erschwerungsgrund, damit auf JEDE vorsaetzliche Straftat anwendbar; Strafschaerfung bis
+    zu einem Drittel nach Art. 64 c.p.'
+  - 'Art. 26 — Art. 294 c.p. (Attentati contro i diritti politici del cittadino): ''La pena e della reclusione
+    da due a sei anni se l''inganno e posto in essere mediante l''impiego di sistemi di intelligenza artificiale.''
+    Der Grundtatbestand sieht ein bis fuenf Jahre vor; die KI-Variante hebt Mindest- und Hoechstmass an
+    — Wahlmanipulation durch Deepfakes.'
+  - 'Art. 26 — Art. 2637 c.c. (Aggiotaggio): ''La pena e della reclusione da due a sette anni se il fatto
+    e commesso mediante l''impiego di sistemi di intelligenza artificiale.'''
+  - 'Art. 26 — Art. 185 d.lgs. 58/1998 (Manipolazione del mercato): ''La pena e della reclusione da due
+    a sette anni e della multa da euro venticinquemila a euro sei milioni se il fatto e commesso mediante
+    l''impiego di sistemi di intelligenza artificiale.'''
+  - 'Art. 26 — Art. 171 legge 633/1941 neue lit. a-ter): strafbar ist, wer ''riproduce o estrae testo
+    o dati da opere o altri materiali disponibili in rete o in banche di dati in violazione degli articoli
+    70-ter e 70-quater, anche attraverso sistemi di intelligenza artificiale''. Damit wird die Verletzung
+    des TDM-Opt-out KRIMINALISIERT (Art. 171 Abs. 1: Geldstrafe von 51 bis 2.065 Euro) — europaweit bislang
+    ohne Parallele.'
+  - 'Art. 27: Haushaltsneutralitaetsklausel — mit Ausnahme des Art. 21 duerfen aus der Durchfuehrung keine
+    neuen oder hoeheren Lasten fuer die oeffentliche Hand entstehen.'
+  - 'Art. 28: Schlussbestimmungen — Neufassung des Art. 7 Abs. 1 lit. z) DL 82/2021 (die ACN darf Kooperationsvereinbarungen
+    mit Privaten und oeffentlich-private Partnerschaften schliessen und mit Genehmigung des Ministerpraesidenten
+    Konsortien, Stiftungen oder Gesellschaften mit italienischen oder EU-Partnern beitreten) sowie Aenderungen
+    der legge 90/2024 (Cybersicherheit). Keine eigene Inkrafttretensregelung — es gilt die Regelfrist
+    von fuenfzehn Tagen.'
+  dokumente:
+  - datum: 2025-09-25
+    typ: endfassung
+    titel: LEGGE 23 settembre 2025, n. 132 — Disposizioni e deleghe al Governo in materia di intelligenza
+      artificiale (ELI-Landeseite)
+    url: https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg
+    sprache: it
+    urheber: Istituto Poligrafico e Zecca dello Stato — Gazzetta Ufficiale
+    verifiziert: true
+    abruf: nur-metadaten
+    notiz: Amtliche ELI-Fundstelle. Liefert Titel, GU-Nummer und Inkrafttretensdatum (10.10.2025), aber
+      keinen Volltext — dieser steht in der Ausgaben-PDF.
+  - datum: 2025-09-25
+    typ: endfassung
+    titel: Gazzetta Ufficiale Serie Generale n. 223 del 25-09-2025 — Ausgaben-PDF mit dem vollstaendigen
+      Gesetzestext
+    url: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+    sprache: it
+    urheber: Istituto Poligrafico e Zecca dello Stato
+    verifiziert: true
+    abruf: ok
+    notiz: MASSGEBLICHER VOLLTEXT. Alle woertlichen Zitate dieser Datei stammen aus dieser PDF — Sommario,
+      Art. 1-28, Art. 612-quater c.p., Art. 61 Nr. 11-decies c.p., Art. 70-septies l. 633/1941.
+  - datum: 2025-09-25
+    typ: konsolidiert
+    titel: Normattiva — Legge 23 settembre 2025, n. 132 (atto originario)
+    url: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2025-09-25&atto.codiceRedazionale=25G00143&tipoDettaglio=originario
+    sprache: it
+    urheber: Normattiva — Presidenza del Consiglio dei Ministri
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche konsolidierte Fassung. Liefert die Kapitelgliederung (Capo I-VI) und die Artikelzuordnung;
+      der Artikeltext laedt nachtraeglich.
+  - datum: 2025-06-17
+    typ: ausschussbericht
+    titel: Dossier n. 206 — Elementi di valutazione sulla qualita del testo e su specificita, omogeneita
+      e limiti di contenuto del decreto-legge (A.C. 2316)
+    url: https://documenti.camera.it/leg19/dossier/pdf/Cost206.pdf
+    sprache: it
+    urheber: Servizi della Camera dei deputati
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche verfassungsrechtliche Bewertung des Entwurfs durch die Kammerdienste; belegt die Kapitelstruktur
+      vor der dritten Lesung.
+  - datum: 2025-06-27
+    typ: ausschussbericht
+    titel: Dossier 289/4 (Senato) und 305/4 (Camera) — A.S. 1146-B, Disposizioni e deleghe al Governo
+      in materia di intelligenza artificiale
+    url: https://documenti.camera.it/leg19/dossier/pdf/ID0010d.pdf
+    sprache: it
+    urheber: Servizio Studi del Senato della Repubblica und Servizio Studi della Camera dei deputati
+    verifiziert: true
+    abruf: ok
+    notiz: Gemeinsames Dossier zur dritten Lesung; dokumentiert die Aenderungen zwischen Senats- und Kammerfassung,
+      u.a. die Streichung der strikten Serverstandort-Pflicht in Art. 6.
+  - datum: 2024-11-04
+    typ: ausschussbericht
+    titel: Dossier — Disposizioni e deleghe al Governo in materia di intelligenza artificiale (A.C. 2316,
+      Schede di lettura, Teil a)
+    url: https://documenti.camera.it/leg19/dossier/pdf/ID0010a.pdf
+    sprache: it
+    urheber: Servizio Studi della Camera dei deputati
+    verifiziert: false
+    abruf: ok
+    notiz: Artikelweise Lesehilfen der Kammerdienste. Nur Existenz und Erreichbarkeit geprueft, Inhalt
+      nicht im Einzelnen ausgewertet.
+  - datum: 2026-06-24
+    typ: entwurf
+    titel: Atto del Governo n. 418 — Schema di decreto legislativo recante adeguamento della normativa
+      nazionale al regolamento (UE) 2024/1689 in materia di utilizzo dei sistemi di intelligenza artificiale
+      per l'attivita di polizia e di responsabilita penale e civile
+    url: https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+    sprache: it
+    urheber: Camera dei deputati — Atti del Governo sottoposti a parere
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Verfahrensakte: Uebermittlung 24.06.2026, Fristablauf fuer die Stellungnahme 25.08.2026,
+      federfuehrend Commissioni riunite I (Affari costituzionali) und II (Giustizia).'
+  - datum: 2026-07-03
+    typ: entwurf
+    titel: Atto del Governo n. 421 — Schema di decreto legislativo recante adeguamento della normativa
+      nazionale al regolamento (UE) 2024/1689 in materia di poteri delle Autorita nazionali e di utilizzo
+      dell'intelligenza artificiale nella formazione
+    url: https://www.camera.it/leg19/682?atto=421&idLegislatura=19&tab=&tipoAtto=atto
+    sprache: it
+    urheber: Camera dei deputati — Atti del Governo sottoposti a parere
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Verfahrensakte: Uebermittlung 03.07.2026, Fristablauf 16.08.2026, federfuehrend Commissioni
+      riunite IX und X; parere favorevole con osservazioni am 29.07.2026.'
+  - datum: 2026-07-14
+    typ: stellungnahme
+    titel: Parere su uno schema di decreto legislativo di adeguamento della normativa interna al regolamento
+      (UE) 2024/1689 in materia di poteri delle Autorita nazionali e di utilizzo dell'intelligenza artificiale
+      nella formazione [doc. web 10275626]
+    url: https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10275626
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: true
+    abruf: ok
+    notiz: Pflichtstellungnahme nach Art. 24 Abs. 1 Legge 132/2025, Registernr. 532 vom 14.07.2026. Betrifft
+      AG 421 und parallel AG 418. Der Garante verlangt u.a. ausdrueckliche Verweise auf Art. 166 Codice
+      privacy fuer das Sanktionsverfahren und eine Erstreckung auf bewertende Entscheidungen mit erheblichen
+      Auswirkungen auf das Arbeitsverhaeltnis.
+  - datum: 2026-07-21
+    typ: stellungnahme
+    titel: Audizione del Presidente del Garante — Esame dello schema di decreto legislativo A.G. n. 421
+      [doc. web 10273842]
+    url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10273842
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: true
+    abruf: ok
+    notiz: Anhoerung vor den vereinigten Kommissionen IX und X der Camera. Der Garante soll Aufsichtsbehoerde
+      fuer Hochrisiko-KI in Strafverfolgung, Grenzverwaltung, Justiz und demokratischen Prozessen werden
+      und mahnt fehlende Ressourcen an.
+  - datum: 2026-06-24
+    typ: entwurf
+    titel: Testo dello schema di decreto legislativo A.G. n. 418 (Senato della Repubblica, XIX legislatura,
+      N. 418)
+    url: null
+    sekundaerquelle_url: https://www.sistemapenale.it/pdf_contenuti/1783072012_-ag-418-448483.pdf
+    sprache: it
+    urheber: Governo italiano / Senato della Repubblica; hier gespiegelt bei Sistema Penale
+    verifiziert: true
+    abruf: ok
+    notiz: Volltext des Dekretentwurfs (22 Artikel, zwei Titel). Die amtliche Originalfundstelle auf senato.it
+      beantwortet automatisierte Abrufe mit 403, weshalb hier die Spiegelung als Sekundaerquelle gefuehrt
+      wird.
+  - datum: 2025-09-17
+    typ: abstimmung
+    titel: Disegno di legge S. 1146-B — scheda ddl, 19ª legislatura
+    url: https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?tab=datiGenerali&did=59313
+    sprache: it
+    urheber: Senato della Repubblica
+    verifiziert: false
+    abruf: 403
+    notiz: Amtliche Verfahrensakte der dritten Lesung. Automatisierter Abruf mit 403 abgewiesen; Datum
+      der Schlussabstimmung (17.09.2025) nur mittelbar belegt.
+  offene_punkte:
+  - Ist das Dekret nach Art. 9 Abs. 1 (Gesundheitsdaten, Frist 07.02.2026) ergangen? Kein amtlicher Beleg
+    auffindbar — moeglicherweise ueberfaellig.
+  - Die Delega des Art. 16 (Daten, Algorithmen, mathematische Methoden fuer das Training) ist bislang
+    nicht ausgeuebt; sie laeuft am 10.10.2026 ab. Sie waere die einzige nationale Regelung zum Rechtsregime
+    der Trainingsdaten und beruehrt unmittelbar die urheberrechtliche Debatte um Art. 70-septies.
+  - 'Verhaeltnis von Art. 6 (Bereichsausnahme fuer Sicherheit, Verteidigung, Kriminalpraevention) zur
+    Delega des Art. 24 Abs. 2 lit. h) (Regelung des KI-Einsatzes in der Polizeiarbeit): das Gesetz nimmt
+    die Polizeiarbeit aus dem eigenen Anwendungsbereich heraus und ermaechtigt zugleich zu ihrer Regelung.
+    Ob AG 418 diese Spannung aufloest, ist offen.'
+  - Art. 3 Abs. 5 stellt klar, dass keine ueber die KI-VO hinausgehenden Pflichten begruendet werden —
+    dennoch enthaelt das Gesetz mit Art. 4 Abs. 4 (Zugangsschranke fuer unter 14-Jaehrige), Art. 13 (freie
+    Berufe) und Art. 171 lit. a-ter l. 633/1941 (Kriminalisierung der TDM-Opt-out-Verletzung) Regelungen
+    ohne Entsprechung in der KI-VO. Das Verhaeltnis zum Harmonisierungsanspruch der Verordnung ist ungeklaert
+    und ein Kandidat fuer ein Vertragsverletzungsverfahren.
+  - Art. 612-quater c.p. verlangt einen 'danno ingiusto' als Taterfolg. Ob damit ein Erfolgsdelikt oder
+    ein Delikt mit blossem objektivem Bedingungsmerkmal gemeint ist, wird in der Literatur unterschiedlich
+    beurteilt; die Antragserfordernis (querela) begrenzt die Verfolgung zusaetzlich.
+  - Die Behoerdenarchitektur des Art. 20 ist doppelspurig (AgID/ACN) und ueberlagert sich mit Garante,
+    AGCOM, Banca d'Italia, CONSOB und IVASS. Ein Koordinierungsmechanismus ist nur rudimentaer geregelt
+    (Comitato bei der Praesidentschaft des Ministerrats).
+  - Italien hat die unionsrechtliche Frist des Art. 70 Abs. 2 KI-VO zur Behoerdenbenennung (02.08.2025)
+    verfehlt; Art. 20 gilt erst ab 10.10.2025.
+  monitoring_quellen:
+  - https://www.gazzettaufficiale.it/ricerca/atto/serie_generale
+  - https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2025-09-25&atto.codiceRedazionale=25G00143&tipoDettaglio=multivigenza
+  - https://www.camera.it/leg19/682
+  - https://www.garanteprivacy.it/temi/intelligenza-artificiale
+  - https://www.agid.gov.it/it/intervention-areas/artificial-intelligence
+  bezug_regelwerke:
+  - it-ag-418-dlgs-polizia-responsabilita
+  - it-ag-421-dlgs-autorita-formazione
+  - it-dlgs-104-2022-trasparenza
+  - it-dl-82-2021-acn
+  - it-agid-linee-guida-ia-pa
+  - it-strategia-nazionale-ia
+  - it-csm-raccomandazioni-ia
+  - it-cnf-guida-ia-generativa
+  - it-garante-decalogo-ia-sanita
+  - it-agcom-delibera-127-26-cons
+  - it-mim-dm-166-2025-ia-scuola
+  letzte_pruefung: 2026-09-04
+- id: it-ag-418-dlgs-polizia-responsabilita
+  jurisdiktion: it
+  kurztitel: Durchfuehrungsdekret I — KI in der Polizeiarbeit, Straf- und Zivilhaftung
+  offizieller_titel: Schema di decreto legislativo recante adeguamento della normativa nazionale alle
+    disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno
+    2024, che stabilisce regole armonizzate sull'intelligenza artificiale, in materia di utilizzo dei
+    sistemi di intelligenza artificiale per l'attivita di polizia e di responsabilita penale e civile
+  fundstelle: 'Noch keine Gazzetta-Ufficiale-Fundstelle. Parlamentarische Fundstelle: Atto del Governo
+    n. 418, XIX legislatura'
+  verfahrensnummer: A.G. 418 (Camera und Senato); Consiglio dei Ministri n. 177 vom 10.06.2026 (esame
+    preliminare), Consiglio dei Ministri vom 04.08.2026 (esame definitivo)
+  status: verabschiedet
+  status_detail: 'Am 10.06.2026 vom Ministerrat vorlaeufig, am 04.08.2026 endgueltig beschlossen. Eine
+    Veroeffentlichung in der Gazzetta Ufficiale war am 04.09.2026 nicht nachweisbar; das Dekret ist damit
+    beschlossen, aber nicht in Kraft. Die zugrunde liegende Delega (Art. 24 Abs. 2 lit. h, Abs. 3-5 Legge
+    132/2025) laeuft am 10.10.2026 ab.
+
+    '
+  kurzbeschreibung: 'Erstes von zwei Dekreten zur Ausfuellung der deleghe des Art. 24 Legge 132/2025.
+    Es besteht aus 22 Artikeln in zwei Titeln. Titel I (elf Artikel) regelt den KI-Einsatz in der Polizeiarbeit:
+    allgemeine Bestimmungen und Definitionen, Entwicklung, Erprobung und Schulung, Verarbeitung biometrischer
+    Daten, biometrische Fernidentifizierung in Echtzeit (Art. 8) und nachtraegliche Gesichtserkennung
+    (Art. 10). Titel II (elf Artikel) enthaelt das Straf- und Zivilhaftungsrecht: einen neuen Art. 437-bis
+    c.p. (unterlassene Sicherheitsmassnahmen bei KI-Systemen und rechtswidrige Systemveraenderung, ein
+    bis fuenf Jahre bei konkreter Gefahr fuer Leben und koerperliche Unversehrtheit, zwei bis acht Jahre
+    bei Gefahr fuer die oeffentliche oder staatliche Sicherheit, zwei bis sechs bzw. drei bis zehn Jahre
+    bei rechtswidriger Systemveraenderung, Strafmilderung um ein Drittel bis ein Sechstel bei grober Fahrlaessigkeit),
+    einen neuen Art. 359-ter c.p.p. zur biometrischen Echtzeit-Fernidentifizierung im Ermittlungsverfahren
+    unter Richtervorbehalt, die Erweiterung der Verbandsverantwortlichkeit (Art. 25-vicies d.lgs. 231/2001)
+    um die KI-Straftatbestaende sowie zivilrechtliche Beweiserleichterungen: Offenlegungsanspruch (Art.
+    17), Kausalitaetsvermutung bei Verletzung von KI-VO-Pflichten (Art. 18) und Direktanspruch gegen den
+    Haftpflichtversicherer (Art. 20).
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-06-10
+    was_gilt: Vorlaeufiger Beschluss des Ministerrats (esame preliminare), comunicato stampa n. 177.
+    verifiziert: false
+    quelle: https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-177/32050
+  - datum: 2026-06-24
+    was_gilt: Uebermittlung an die Kammern als Atto del Governo n. 418; Beginn der 60-Tage-Frist fuer
+      die parlamentarischen Stellungnahmen.
+    verifiziert: true
+    quelle: https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+  - datum: 2026-07-22
+    was_gilt: Parere favorevole con rilievi der V. Kommission (Bilancio e Tesoro) der Camera.
+    verifiziert: true
+    quelle: https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+  - datum: 2026-07-30
+    was_gilt: Parere favorevole con osservazioni der vereinigten Kommissionen I (Affari costituzionali)
+      und II (Giustizia) der Camera.
+    verifiziert: true
+    quelle: https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+  - datum: 2026-08-03
+    was_gilt: Parere favorevole con osservazione der XIV. Kommission (Politiche dell'Unione europea) der
+      Camera.
+    verifiziert: true
+    quelle: https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+  - datum: 2026-08-04
+    was_gilt: Endgueltiger Beschluss des Ministerrats (esame definitivo).
+    verifiziert: false
+    quelle: https://www.affarieuropei.gov.it/it/comunicazione/notizie/cdm-4-ago-26/
+  themenachsen:
+  - haftung
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Rechtsgrundlage: Art. 24 Abs. 2 lit. h) (KI in der Polizeiarbeit), Abs. 3, 4 und 5 (rechtswidrige
+    Herstellung und Nutzung von KI-Systemen, Straf- und Zivilrecht) Legge 132/2025.'
+  - 'Titel I, Art. 8: biometrische Fernidentifizierung in Echtzeit — nationale Ausfuellung der Ausnahmen
+    des Art. 5 Abs. 1 lit. h) KI-VO.'
+  - 'Titel I, Art. 10: nachtraegliche Gesichtserkennung (post-remote biometric identification) — Art.
+    26 Abs. 10 KI-VO.'
+  - 'Titel II: neuer Art. 437-bis c.p. ''Omessa adozione di misure di sicurezza nei sistemi di intelligenza
+    artificiale e alterazione illecita dei sistemi'' — Gefaehrdungsdelikt im Titel VI c.p. (Delitti contro
+    l''incolumita pubblica), systematisch neben Art. 437 c.p. (Unterlassung von Unfallverhuetungsmassnahmen).'
+  - 'Titel II: neuer Art. 359-ter c.p.p. — biometrische Echtzeit-Fernidentifizierung im Ermittlungsverfahren
+    mit richterlicher Genehmigung.'
+  - 'Titel II: Erweiterung des Katalogs der Verbandsstraftaten um KI-Delikte (Art. 25-vicies d.lgs. 231/2001),
+    einschliesslich Art. 612-quater c.p.'
+  - 'Titel II, Art. 17-20: zivilrechtliches Beweisregime — Offenlegung von Beweismitteln, Kausalitaetsvermutung
+    bei Verstoss gegen KI-VO-Pflichten, Direktanspruch gegen den Versicherer. Das ist eine nationale Vorwegnahme
+    wesentlicher Gedanken der zurueckgezogenen EU-KI-Haftungsrichtlinie.'
+  dokumente:
+  - datum: 2026-06-24
+    typ: entwurf
+    titel: Atto del Governo n. 418 — Verfahrensakte der Camera dei deputati
+    url: https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+    sprache: it
+    urheber: Camera dei deputati
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Verfahrensakte mit Titel, Uebermittlungsdatum (24.06.2026), Fristablauf (25.08.2026),
+      Kommissionszuweisung und allen Stellungnahmen.
+  - datum: 2026-06-24
+    typ: entwurf
+    titel: Volltext des Schema di decreto legislativo A.G. n. 418
+    url: null
+    sekundaerquelle_url: https://www.sistemapenale.it/pdf_contenuti/1783072012_-ag-418-448483.pdf
+    sprache: it
+    urheber: Governo italiano / Senato della Repubblica (Spiegelung bei Sistema Penale)
+    verifiziert: true
+    abruf: ok
+    notiz: Einzige erreichbare Volltextfassung. Belegt Titel, Rechtsgrundlage, Aufbau (22 Artikel, zwei
+      Titel), Art. 437-bis c.p. und Art. 359-ter c.p.p.
+  - datum: 2026-07-14
+    typ: stellungnahme
+    titel: Parere del Garante per la protezione dei dati personali [doc. web 10275626]
+    url: https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10275626
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: true
+    abruf: ok
+    notiz: Bezieht sich ausdruecklich auf AG 418 und AG 421.
+  - datum: 2026-06-10
+    typ: pressemitteilung
+    titel: Comunicato stampa del Consiglio dei Ministri n. 177
+    url: https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-177/32050
+    sprache: it
+    urheber: Presidenza del Consiglio dei Ministri
+    verifiziert: false
+    abruf: 403
+    notiz: Amtliche Fundstelle des vorlaeufigen Beschlusses. Automatisierter Abruf mit 403 abgewiesen.
+  - datum: 2026-08-04
+    typ: pressemitteilung
+    titel: Consiglio dei Ministri del 4 agosto 2026 — endgueltiger Beschluss der Anpassungsdekrete
+    url: https://www.affarieuropei.gov.it/it/comunicazione/notizie/cdm-4-ago-26/
+    sprache: it
+    urheber: Dipartimento per gli Affari Europei — Presidenza del Consiglio dei Ministri
+    verifiziert: false
+    abruf: robots
+    notiz: Amtliche Fundstelle des endgueltigen Beschlusses. robots.txt-Abruf schlug fehl; Inhalt nur
+      mittelbar belegt.
+  - datum: 2026-09-02
+    typ: bericht
+    titel: 'Intelligenza artificiale: in arrivo nuovi reati e nuove responsabilita per gli enti'
+    url: null
+    sekundaerquelle_url: https://www.giurisprudenzapenale.com/2026/09/02/intelligenza-artificiale-in-arrivo-nuovi-reati-e-nuove-responsabilita-per-gli-enti/
+    sprache: it
+    urheber: Giurisprudenza Penale
+    verifiziert: true
+    abruf: ok
+    notiz: 'Stichtagsbeleg: Am 02.09.2026 waren die neuen Straftatbestaende ausdruecklich noch ''in arrivo''.
+      Der Beitrag nennt den endgueltigen Beschluss des Ministerrats vom 04.08.2026, aber keine Veroeffentlichung
+      in der Gazzetta Ufficiale. Er beschreibt Art. 437-bis c.p., Art. 612-quater c.p. und den neuen Art.
+      25-vicies d.lgs. 231/2001 (Verbandsverantwortlichkeit).
+
+      '
+  offene_punkte:
+  - Veroeffentlichung in der Gazzetta Ufficiale und damit Nummer, Datum und Inkrafttreten des Dekrets
+    sind am 04.09.2026 offen.
+  - Die Delega laeuft am 10.10.2026 ab. Massgeblich ist nach italienischer Staatspraxis die Emanation
+    durch den Staatspraesidenten, nicht die Veroeffentlichung; ob diese rechtzeitig erfolgt, ist zu beobachten.
+  - 'Ob die 60-Tage-Verlaengerungsklausel des Art. 24 Abs. 4 greift, ist zu pruefen: die parlamentarische
+    Frist lief am 25.08.2026 ab, also mehr als 30 Tage vor dem 10.10.2026 — nach dem Wortlaut also KEINE
+    Verlaengerung.'
+  - Der endgueltige Text ist nicht oeffentlich; ob und wie die Stellungnahmen von Garante und Kommissionen
+    eingearbeitet wurden, laesst sich nicht pruefen.
+  - 'Kein Inkrafttretensdatum einzutragen: Das decreto legislativo ist am 04.08.2026 endgültig vom Ministerrat
+    beschlossen, aber bis zum 05.09.2026 nicht in der Gazzetta Ufficiale veröffentlicht. Ein italienisches
+    decreto legislativo tritt erst nach Veröffentlichung in der GU in Kraft (regelmäßig am 15. Tag danach,
+    sofern es nichts anderes bestimmt). Status "verabschiedet" ist damit zutreffend. Zu beobachten: GU-Veröffentlichung.'
+  monitoring_quellen:
+  - https://www.camera.it/leg19/682?atto=418&idLegislatura=19&tab=&tipoAtto=atto
+  - https://www.gazzettaufficiale.it/ricerca/atto/serie_generale
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-ag-421-dlgs-autorita-formazione
+  letzte_pruefung: 2026-09-05
+- id: it-ag-421-dlgs-autorita-formazione
+  jurisdiktion: it
+  kurztitel: Durchfuehrungsdekret II — Befugnisse der nationalen Behoerden, KI in der Bildung
+  offizieller_titel: Schema di decreto legislativo recante adeguamento della normativa nazionale alle
+    disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno
+    2024, che stabilisce regole armonizzate sull'intelligenza artificiale, in materia di poteri delle
+    Autorita nazionali e di utilizzo dell'intelligenza artificiale nella formazione
+  fundstelle: 'Noch keine Gazzetta-Ufficiale-Fundstelle. Parlamentarische Fundstelle: Atto del Governo
+    n. 421, XIX legislatura'
+  verfahrensnummer: A.G. 421 (Camera und Senato); Consiglio dei Ministri n. 177 vom 10.06.2026 (esame
+    preliminare), Consiglio dei Ministri vom 04.08.2026 (esame definitivo)
+  status: verabschiedet
+  status_detail: 'Am 10.06.2026 vorlaeufig, am 04.08.2026 endgueltig vom Ministerrat beschlossen. Keine
+    Gazzetta-Ufficiale-Veroeffentlichung bis 04.09.2026 nachweisbar. Rechtsgrundlage ist Art. 24 Abs.
+    1 und 2 Legge 132/2025; die Delega laeuft am 10.10.2026 ab.
+
+    '
+  kurzbeschreibung: 'Zweites Durchfuehrungsdekret. Es fuellt die Behoerdenarchitektur des Art. 20 Legge
+    132/2025 mit Befugnissen aus: AgID als notifizierende Behoerde mit Bewertungs- und Akkreditierungsfunktionen,
+    ACN als Marktueberwachungsbehoerde mit Inspektions- und Sanktionsbefugnissen, Regelung der nationalen
+    Reallabore (sandbox), Fortbestand der Zustaendigkeiten von Banca d''Italia, CONSOB und IVASS fuer
+    den Finanzsektor und des Garante fuer den Datenschutz. Der Garante soll zusaetzlich Aufsichtsbehoerde
+    fuer Hochrisiko-KI in Strafverfolgung, Grenzverwaltung, Justiz und demokratischen Prozessen werden
+    (Art. 74 Abs. 8 KI-VO). Zweiter Regelungsblock ist die Aus- und Fortbildung: KI-Alphabetisierung nach
+    Art. 4 KI-VO, Berufsfortbildung, MINT-Kompetenzen in den Lehrplaenen, Hochschul-, AFAM- und ITS-Ausbildung;
+    nach Angaben des Bildungsministeriums sind 100 Mio. Euro fuer die Lehrerfortbildung vorgesehen.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-06-10
+    was_gilt: Vorlaeufiger Beschluss des Ministerrats (esame preliminare).
+    verifiziert: false
+    quelle: https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-177/32050
+  - datum: 2026-07-03
+    was_gilt: Uebermittlung an die Kammern als Atto del Governo n. 421.
+    verifiziert: true
+    quelle: https://www.camera.it/leg19/682?atto=421&idLegislatura=19&tab=&tipoAtto=atto
+  - datum: 2026-07-14
+    was_gilt: Stellungnahme des Garante per la protezione dei dati personali (Registernr. 532).
+    verifiziert: true
+    quelle: https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10275626
+  - datum: 2026-07-29
+    was_gilt: Parere favorevole con osservazioni der vereinigten Kommissionen IX und X der Camera; parere
+      favorevole con rilievi der V. Kommission.
+    verifiziert: true
+    quelle: https://www.camera.it/leg19/682?atto=421&idLegislatura=19&tab=&tipoAtto=atto
+  - datum: 2026-08-04
+    was_gilt: Endgueltiger Beschluss des Ministerrats (esame definitivo).
+    verifiziert: false
+    quelle: https://www.affarieuropei.gov.it/it/comunicazione/notizie/cdm-4-ago-26/
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  - datenschutz
+  - arbeit
+  regelungsschwerpunkte:
+  - 'Rechtsgrundlage: Art. 24 Abs. 1 und 2 Legge 132/2025 (Anpassung an die KI-VO).'
+  - Ausgestaltung der Aufsichts-, Inspektions- und Sanktionsbefugnisse von ACN und AgID einschliesslich
+    Sekundaerrechtsetzung.
+  - Nationale Reallabore (sandbox) nach Art. 57 ff. KI-VO; der Garante fordert in seiner Stellungnahme
+    eine unmittelbare Beteiligung.
+  - Benennung des Garante als Marktueberwachungsbehoerde fuer Hochrisiko-KI in Strafverfolgung, Grenzverwaltung,
+    Justiz und demokratischen Prozessen (Anhang III Nr. 6-8 KI-VO in Verbindung mit Art. 74 Abs. 8 KI-VO).
+  - Verwaltungssanktionen; der Garante verlangt einen ausdruecklichen Verweis auf Art. 166 Codice privacy
+    fuer das Sanktionsverfahren sowie eine klare Regelung der Verwendung der Bussgeldeinnahmen.
+  - Klarstellung der Verantwortlichkeit nach Art. 31 Abs. 9 KI-VO (Konformitaetsbewertungsstellen).
+  - 'Art. 11 des Entwurfs: Erweiterung der Kompetenzen des Garante auf Leitlinien und Empfehlungen im
+    KI-Bereich.'
+  - 'Art. 26 des Entwurfs: Beteiligung des Garante bei Projekten mit Verarbeitung personenbezogener Daten.'
+  - 'Art. 40 des Entwurfs: der Garante regt an, die Regelung auf bewertende Entscheidungen mit erheblichen
+    Auswirkungen auf das Arbeitsverhaeltnis zu erstrecken — ein arbeitsrechtlicher Anknuepfungspunkt neben
+    Art. 1-bis d.lgs. 152/1997.'
+  - 'Bildungsteil: KI-Alphabetisierung (Art. 4 KI-VO), MINT-Kompetenzen, Hochschul- und AFAM-Ausbildung,
+    Berufsfortbildung; nach Angaben des MIM 100 Mio. Euro fuer die Lehrerfortbildung.'
+  dokumente:
+  - datum: 2026-07-03
+    typ: entwurf
+    titel: Atto del Governo n. 421 — Verfahrensakte der Camera dei deputati
+    url: https://www.camera.it/leg19/682?atto=421&idLegislatura=19&tab=&tipoAtto=atto
+    sprache: it
+    urheber: Camera dei deputati
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Verfahrensakte: vollstaendiger Titel, Uebermittlung 03.07.2026, Fristablauf 16.08.2026
+      (Hauptkommissionen) bzw. 27.07.2026 (V. Kommission), Stellungnahmen vom 29.07.2026.'
+  - datum: 2026-07-14
+    typ: stellungnahme
+    titel: Parere del Garante per la protezione dei dati personali, 14 luglio 2026 [doc. web 10275626]
+    url: https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10275626
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: true
+    abruf: ok
+    notiz: 'Die inhaltlich ergiebigste amtliche Quelle zum Entwurf: benennt Rechtsgrundlage, Artikelstruktur
+      und die Kritikpunkte des Garante.'
+  - datum: 2026-07-21
+    typ: stellungnahme
+    titel: Audizione del Presidente del Garante sullo schema di decreto legislativo A.G. n. 421 [doc.
+      web 10273842]
+    url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10273842
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: true
+    abruf: ok
+    notiz: Anhoerung vor den vereinigten Kommissionen IX und X der Camera am 21.07.2026.
+  - datum: 2026-07-29
+    typ: ausschussbericht
+    titel: 4ª Commissione permanente, Resoconto sommario n. 366 del 29/07/2026
+    url: https://parlamento.it/show-doc?id=1517911&leg=19&part=doc_dc&tipodoc=SommComm
+    sprache: it
+    urheber: Senato della Repubblica
+    verifiziert: false
+    abruf: 403
+    notiz: Amtliches Sitzungsprotokoll zur Beratung des Dekretentwurfs. Automatisierter Abruf mit 403
+      abgewiesen.
+  offene_punkte:
+  - Veroeffentlichung in der Gazzetta Ufficiale, Nummer und Inkrafttreten am 04.09.2026 offen.
+  - Ob die Forderungen des Garante (Art. 166 Codice privacy, Sandbox-Beteiligung, Erstreckung auf arbeitsrechtliche
+    Bewertungsentscheidungen) uebernommen wurden, ist ohne den Endtext nicht pruefbar.
+  - Die Ressourcenausstattung des Garante fuer die neuen Aufsichtsaufgaben ist nach dessen eigener Aussage
+    unzureichend — ein Umsetzungsrisiko fuer Art. 74 Abs. 8 KI-VO.
+  - 'Kein Inkrafttretensdatum einzutragen: Das decreto legislativo ist am 04.08.2026 endgültig vom Ministerrat
+    beschlossen, aber bis zum 05.09.2026 nicht in der Gazzetta Ufficiale veröffentlicht und damit nicht
+    in Kraft. Status "verabschiedet" ist zutreffend. Zu beobachten: GU-Veröffentlichung; die Delega nach
+    Art. 24 Legge 132/2025 ist befristet.'
+  monitoring_quellen:
+  - https://www.camera.it/leg19/682?atto=421&idLegislatura=19&tab=&tipoAtto=atto
+  - https://www.garanteprivacy.it/temi/intelligenza-artificiale
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-ag-418-dlgs-polizia-responsabilita
+  - it-mim-dm-166-2025-ia-scuola
+  letzte_pruefung: 2026-09-05
+- id: it-dlgs-104-2022-trasparenza
+  jurisdiktion: it
+  kurztitel: Decreto trasparenza — Art. 1-bis d.lgs. 152/1997 (algorithmisches Management)
+  offizieller_titel: Decreto legislativo 27 giugno 2022, n. 104 — Attuazione della direttiva (UE) 2019/1152
+    del Parlamento europeo e del Consiglio del 20 giugno 2019, relativa a condizioni di lavoro trasparenti
+    e prevedibili nell'Unione europea
+  fundstelle: Gazzetta Ufficiale Serie Generale n. 176 del 29 luglio 2022 (codice redazionale 22G00113);
+    Aenderung durch Art. 26 DL 4 maggio 2023, n. 48, umgewandelt mit Aenderungen durch Legge 3 luglio
+    2023, n. 85
+  verfahrensnummer: d.lgs. 104/2022; DL 48/2023 conv. L. 85/2023
+  status: anwendbar
+  status_detail: 'In Kraft seit 13.08.2022. Art. 4 d.lgs. 104/2022 hat Art. 1-bis in das d.lgs. 26 maggio
+    1997, n. 152 eingefuegt. Das DL 48/2023 (''decreto lavoro''), umgewandelt durch Legge 85/2023, hat
+    den Anwendungsbereich auf ''sistemi decisionali o di monitoraggio INTEGRALMENTE automatizzati'' verengt
+    und die Vorschrift damit erheblich entschaerft. Art. 11 Abs. 2 Legge 132/2025 verweist fuer den KI-Einsatz
+    im Arbeitsverhaeltnis ausdruecklich auf diese Norm.
+
+    '
+  kurzbeschreibung: 'Die zentrale italienische Vorschrift zum algorithmischen Management. Art. 1-bis d.lgs.
+    152/1997 verpflichtet Arbeitgeber und Auftraggeber, Beschaeftigte ueber den Einsatz automatisierter
+    Entscheidungs- oder Ueberwachungssysteme zu informieren, die Einstellung, Aufgabenzuweisung, Beendigung
+    oder Leistungsbewertung beeinflussen. Zu informieren ist vor Arbeitsaufnahme ueber die betroffenen
+    Aspekte des Arbeitsverhaeltnisses, Zwecke und Ziele des Systems, seine Logik und Funktionsweise, die
+    verwendeten Datenkategorien und Parameter, Kontroll-, Korrektur- und Qualitaetssicherungsmassnahmen
+    sowie ueber Genauigkeit, Robustheit, Cybersicherheit und potenziell diskriminierende Metriken. Beschaeftigte
+    haben einen Zugangsanspruch, den der Arbeitgeber binnen dreissig Tagen schriftlich zu erfuellen hat;
+    Aenderungen sind mindestens vierundzwanzig Stunden vorher schriftlich mitzuteilen. Die Informationen
+    sind zusaetzlich den Gewerkschaften und der Arbeitsbehoerde in strukturiertem Format zu uebermitteln.
+    Sanktion: Verwaltungsgeldbusse von 100 bis 750 Euro je Monat und betroffenem Beschaeftigten (Art.
+    19 Abs. 2 d.lgs. 276/2003 in der geaenderten Fassung).
+
+    '
+  inkrafttreten:
+    datum: 2022-08-13
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/id/2022/07/29/22G00113/sg
+  anwendungsdaten:
+  - datum: 2022-08-13
+    was_gilt: Inkrafttreten des d.lgs. 104/2022 einschliesslich des neuen Art. 1-bis d.lgs. 152/1997.
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/id/2022/07/29/22G00113/sg
+  - datum: 2023-07-05
+    was_gilt: 'Inkrafttreten des Umwandlungsgesetzes Legge 85/2023: Der Anwendungsbereich des Art. 1-bis
+      wird auf VOLLSTAENDIG automatisierte Systeme beschraenkt; Systeme mit menschlicher Zwischenentscheidung
+      fallen heraus.
+
+      '
+    verifiziert: false
+    quelle: https://www.gazzettaufficiale.it/eli/gu/2023/07/03/153/sg/pdf
+  - datum: 2025-10-10
+    was_gilt: 'Art. 11 Abs. 2 Legge 132/2025 macht Art. 1-bis d.lgs. 152/1997 zur massgeblichen Informationsnorm
+      auch fuer KI-Systeme im Arbeitsverhaeltnis.
+
+      '
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  themenachsen:
+  - arbeit
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 4 d.lgs. 104/2022 fuegt Art. 1-bis in das d.lgs. 152/1997 ein: ''Ulteriori obblighi informativi
+    nel caso di utilizzo di sistemi decisionali o di monitoraggio automatizzati''.'
+  - 'Abs. 1: Adressat ist der Arbeitgeber oder oeffentliche/private Auftraggeber; erfasst sind Systeme
+    mit Auswirkungen auf Einstellung, Aufgabenzuweisung, Beendigung und Leistungsbewertung.'
+  - 'Abs. 2: Katalog der vor Arbeitsaufnahme zu erteilenden Informationen — betroffene Aspekte, Zwecke
+    und Ziele, Logik und Funktionsweise, Datenkategorien und Parameter, Kontroll- und Korrekturmassnahmen
+    und Verantwortlicher fuer die Qualitaetssicherung, Genauigkeit, Robustheit, Cybersicherheit und diskriminierungsrelevante
+    Metriken.'
+  - 'Abs. 3: Zugangsanspruch der Beschaeftigten; schriftliche Antwort binnen dreissig Tagen.'
+  - 'Abs. 5: Aenderungsmitteilung mindestens vierundzwanzig Stunden im Voraus.'
+  - 'Abs. 6: Uebermittlung an Gewerkschaften und Arbeitsbehoerde in strukturiertem, maschinenlesbarem
+    Format.'
+  - 'Sanktion ueber Art. 19 Abs. 2 d.lgs. 276/2003: 100 bis 750 Euro monatlich fuer Verstoesse gegen die
+    Abs. 2, 3 und 5.'
+  - 'Die Verengung durch DL 48/2023 / Legge 85/2023 auf ''integralmente automatizzati'' ist der zentrale
+    Streitpunkt: Systeme mit human-in-the-loop — also gerade der praktische Regelfall KI-gestuetzter Personalentscheidungen
+    — fallen nach herrschender Lesart aus dem Anwendungsbereich heraus.'
+  dokumente:
+  - datum: 2022-07-29
+    typ: endfassung
+    titel: Decreto legislativo 27 giugno 2022, n. 104 (ELI-Landeseite)
+    url: https://www.gazzettaufficiale.it/eli/id/2022/07/29/22G00113/sg
+    sprache: it
+    urheber: Gazzetta Ufficiale della Repubblica Italiana
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Fundstelle: GU Serie Generale n. 176 vom 29.07.2022, Inkrafttreten 13.08.2022.'
+  - datum: 2022-07-29
+    typ: endfassung
+    titel: Gazzetta Ufficiale Serie Generale n. 176 del 29-07-2022 — Ausgaben-PDF mit dem Volltext des
+      d.lgs. 104/2022
+    url: https://www.gazzettaufficiale.it/eli/gu/2022/07/29/176/sg/pdf
+    sprache: it
+    urheber: Istituto Poligrafico e Zecca dello Stato
+    verifiziert: true
+    abruf: ok
+    notiz: Volltext des Art. 4 mit dem eingefuegten Art. 1-bis d.lgs. 152/1997 einschliesslich Sanktionsverweis.
+  - datum: 2023-07-03
+    typ: endfassung
+    titel: Legge 3 luglio 2023, n. 85 — Conversione in legge, con modificazioni, del decreto-legge 4 maggio
+      2023, n. 48, recante misure urgenti per l'inclusione sociale e l'accesso al mondo del lavoro (GU
+      Serie Generale n. 153 del 03.07.2023, codice redazionale 23G00095)
+    url: https://www.gazzettaufficiale.it/eli/gu/2023/07/03/153/sg/pdf
+    sprache: it
+    urheber: Istituto Poligrafico e Zecca dello Stato
+    verifiziert: true
+    abruf: ok
+    notiz: Umwandlungsgesetz mit der Verengung auf vollstaendig automatisierte Systeme (Art. 26 DL 48/2023).
+      Ausgaben-PDF geprueft; der exakte Aenderungswortlaut liess sich aus der PDF nicht vollstaendig extrahieren.
+  - datum: 2025-12-15
+    typ: norm
+    titel: Normative — Rechtsgrundlagen des Osservatorio sull'adozione di sistemi di intelligenza artificiale
+      nel mondo del lavoro
+    url: https://www.lavoro.gov.it/osservatorio-adozione-sistemi-intelligenza-artificiale/pagine/normative
+    sprache: it
+    urheber: Ministero del Lavoro e delle Politiche Sociali
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Zusammenstellung der einschlaegigen Normen; nennt Legge 132/2025, DM 173 vom 15.12.2025
+      und ein DM 180 vom 17.12.2025 (letzteres nicht verifizierbar).
+  offene_punkte:
+  - Verhaeltnis von Art. 1-bis d.lgs. 152/1997 zu Art. 22 DSGVO und zu Art. 26 KI-VO (Betreiberpflichten
+    bei Hochrisiko-KI am Arbeitsplatz, Anhang III Nr. 4) ist ungeklaert; drei Informationsregime laufen
+    nebeneinander.
+  - 'Die Verengung auf ''integralmente automatizzati'' koennte gegen Art. 9 der Plattformarbeits-Richtlinie
+    (EU) 2024/2831 verstossen, die auf ''sistemi di monitoraggio e decisionali automatizzati'' ohne dieses
+    Merkmal abstellt. Umsetzungsfrist der Richtlinie: 02.12.2026.'
+  - Ob das im amtlichen Normenverzeichnis genannte 'DM n. 180 del 17 dicembre 2025 — Linee guida per l'implementazione
+    dell'IA nel mondo del lavoro' als eigenstaendiger Akt existiert, konnte nicht geklaert werden.
+  monitoring_quellen:
+  - https://www.lavoro.gov.it/osservatorio-adozione-sistemi-intelligenza-artificiale/pagine/normative
+  - https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2022-07-29&atto.codiceRedazionale=22G00113&tipoDettaglio=multivigenza
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-osservatorio-ia-lavoro
+  letzte_pruefung: 2026-09-04
+- id: it-osservatorio-ia-lavoro
+  jurisdiktion: it
+  kurztitel: Osservatorio IA nel mondo del lavoro (DM 173/2025)
+  offizieller_titel: Decreto del Ministro del Lavoro e delle Politiche Sociali 15 dicembre 2025, n. 173
+    — Istituzione dell'Osservatorio sull'adozione di sistemi di intelligenza artificiale nel mondo del
+    lavoro
+  fundstelle: m_lps.28.DECRETO MINISTRO.R.0000173 del 15.12.2025; keine Gazzetta-Ufficiale-Veroeffentlichung
+    (Ministerialdekret nicht normativer Art)
+  verfahrensnummer: DM 173/2025
+  status: anwendbar
+  status_detail: 'Am 15.12.2025 von Ministerin Marina Calderone unterzeichnet und damit innerhalb der
+    Neunzig-Tage-Frist des Art. 12 Abs. 2 Legge 132/2025 (Ablauf 08.01.2026) erlassen. Operativer Start
+    Anfang 2026. Der Osservatorio wird nach eigener Darstellung des Ministeriums derzeit reorganisiert.
+
+    '
+  kurzbeschreibung: 'Errichtungsdekret des Beobachtungsgremiums nach Art. 12 Legge 132/2025 beim Arbeitsministerium.
+    Aufgaben sind die Entwicklung einer nationalen Strategie zur KI in der Arbeitswelt, die Beobachtung
+    der Auswirkungen auf Arbeitsmarkt, Beschaeftigung, Produktivitaet, Arbeitsbedingungen und Kompetenzbedarf,
+    die Bestimmung besonders betroffener Sektoren und Berufe, die Foerderung einer ethisch und sozial
+    nachhaltigen KI-Integration, die Unterstuetzung bei der Umschulung gefaehrdeter Beschaeftigter und
+    die laufende Aktualisierung nationaler Leitlinien. Struktur: Vorsitz der Arbeitsministerin, Lenkungsausschuss,
+    vier technisch-wissenschaftliche Fachkomitees, eine Ethikkommission (Vorsitz Paolo Benanti) und ein
+    Konsultationsgremium der Sozialpartner. Die Mitglieder erhalten keine Verguetung; die Arbeit erfolgt
+    mit vorhandenen Mitteln.
+
+    '
+  inkrafttreten:
+    datum: 2025-12-15
+    verifiziert: true
+    quelle: https://www.lavoro.gov.it/documenti-e-norme/dm-173-del-15122025
+  anwendungsdaten:
+  - datum: 2025-12-15
+    was_gilt: Unterzeichnung des Errichtungsdekrets; Erfuellung der Frist des Art. 12 Abs. 2 Legge 132/2025.
+    verifiziert: true
+    quelle: https://www.lavoro.gov.it/stampa-e-media/comunicati/pagine/nasce-losservatorio-sullia-nel-mondo-del-lavoro
+  themenachsen:
+  - arbeit
+  - governance
+  regelungsschwerpunkte:
+  - 'Rechtsgrundlage: Art. 12 Abs. 2 Legge 132/2025 (Dekret binnen 90 Tagen).'
+  - 'Gremienstruktur: Vorsitz der Ministerin, comitato di indirizzo, vier comitati tecnico-scientifici,
+    commissione etica (Vorsitz Paolo Benanti), consulta delle parti sociali.'
+  - Keine Verguetung der Mitglieder, keine zusaetzlichen Haushaltsmittel (Art. 12 Abs. 3 Legge 132/2025).
+  - 'Kein Regelungs-, sondern Beobachtungs- und Strategiegremium: keine Aufsichts- oder Sanktionsbefugnisse.'
+  dokumente:
+  - datum: 2025-12-15
+    typ: norm
+    titel: DM 173 del 15.12.2025 — Istituzione dell'Osservatorio sull'adozione di sistemi di intelligenza
+      artificiale nel mondo del lavoro
+    url: https://www.lavoro.gov.it/documenti-e-norme/dm-173-del-15122025
+    sprache: it
+    urheber: Ministero del Lavoro e delle Politiche Sociali
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Dokumentenseite des Ministeriums mit Aktenzeichen, Datum, Aufgaben und Gremienstruktur.
+  - datum: 2025-12-15
+    typ: pressemitteilung
+    titel: Nasce l'Osservatorio sull'IA nel mondo del lavoro
+    url: https://www.lavoro.gov.it/stampa-e-media/comunicati/pagine/nasce-losservatorio-sullia-nel-mondo-del-lavoro
+    sprache: it
+    urheber: Ministero del Lavoro e delle Politiche Sociali
+    verifiziert: true
+    abruf: ok
+    notiz: Belegt Unterzeichnungsdatum, Zusammensetzung und operativen Start Anfang 2026.
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: Osservatorio sull'adozione di sistemi di Intelligenza Artificiale nel mondo del lavoro — Portalseite
+    url: https://www.lavoro.gov.it/pagine/osservatorio-sulladozione-di-sistemi-di-intelligenza-artificiale-nel-mondo-del-lavoro
+    sprache: it
+    urheber: Ministero del Lavoro e delle Politiche Sociali
+    verifiziert: true
+    abruf: ok
+    notiz: Traegt am Abrufdatum einen AVVISO, dass der Osservatorio durch Ministerialdekret reorganisiert
+      wird.
+  offene_punkte:
+  - Der Volltext des DM 173/2025 ist auf der Ministeriumsseite nicht als PDF verlinkt; nur eine Inhaltsbeschreibung
+    ist zugaenglich.
+  - Die angekuendigte Reorganisation des Osservatorio ist zu beobachten.
+  monitoring_quellen:
+  - https://www.lavoro.gov.it/osservatorio-adozione-sistemi-intelligenza-artificiale/pagine/normative
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-dlgs-104-2022-trasparenza
+  letzte_pruefung: 2026-09-04
+- id: it-dl-82-2021-acn
+  jurisdiktion: it
+  kurztitel: DL 82/2021 — Errichtung der ACN, KI-Auftrag (Art. 7 Abs. 1 lit. m-quater)
+  offizieller_titel: Decreto-legge 14 giugno 2021, n. 82 — Disposizioni urgenti in materia di cybersicurezza,
+    definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza
+    nazionale
+  fundstelle: Gazzetta Ufficiale Serie Generale n. 140 del 14 giugno 2021 (codice redazionale 21G00098);
+    umgewandelt mit Aenderungen durch Legge 4 agosto 2021, n. 109
+  verfahrensnummer: DL 82/2021, conv. L. 109/2021; geaendert durch Art. 18 und Art. 28 Legge 132/2025
+  status: anwendbar
+  status_detail: 'In Kraft seit 15.06.2021. Rechtsgrundlage der ACN, die durch Art. 20 Legge 132/2025
+    zur nationalen Marktueberwachungsbehoerde fuer KI bestimmt wurde. Art. 18 Legge 132/2025 hat den Aufgabenkatalog
+    um lit. m-quater (KI als Ressource der Cybersicherheit) erweitert, Art. 28 Legge 132/2025 hat lit.
+    z) neu gefasst.
+
+    '
+  kurzbeschreibung: 'Das Dekret schafft die nationale Cybersicherheitsarchitektur und die Agenzia per
+    la cybersicurezza nazionale (ACN). Fuer das KI-Recht ist es aus zwei Gruenden zentral: Erstens ist
+    die ACN nach Art. 20 Abs. 2 Legge 132/2025 die ''autorita di vigilanza del mercato'' im Sinne der
+    KI-Verordnung, also die Behoerde mit Inspektions- und Sanktionsbefugnissen. Zweitens hat Art. 18 Legge
+    132/2025 den Aufgabenkatalog des Art. 7 Abs. 1 um lit. m-quater ergaenzt: die ACN ''promuove e sviluppa
+    ogni iniziativa, anche attraverso la conclusione di accordi di collaborazione con i privati, volta
+    a valorizzare l''intelligenza artificiale come risorsa per il rafforzamento della cybersicurezza nazionale''.
+    Art. 28 Legge 132/2025 erweitert zusaetzlich die Kooperationsbefugnisse der ACN (lit. z): Vereinbarungen
+    mit Privaten, oeffentlich-private Partnerschaften und — mit Genehmigung des Ministerpraesidenten —
+    die Beteiligung an Konsortien, Stiftungen und Gesellschaften mit italienischen oder EU-Partnern.
+
+    '
+  inkrafttreten:
+    datum: 2021-06-15
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/id/2021/06/14/21G00098/sg
+  anwendungsdaten:
+  - datum: 2021-06-15
+    was_gilt: Inkrafttreten des DL 82/2021; Errichtung der ACN.
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/id/2021/06/14/21G00098/sg
+  - datum: 2025-10-10
+    was_gilt: 'Art. 18 und Art. 28 Legge 132/2025 treten in Kraft: neuer KI-Auftrag der ACN (Art. 7 Abs.
+      1 lit. m-quater) und erweiterte Kooperationsbefugnisse (lit. z). Zugleich wird die ACN nach Art.
+      20 Abs. 2 Legge 132/2025 nationale Marktueberwachungs- behoerde fuer KI.
+
+      '
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  themenachsen:
+  - governance
+  - marktzugang
+  - sicherheit-export
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 5 DL 82/2021: Errichtung der ACN als Behoerde unter der Aufsicht des Ministerpraesidenten und
+    der Autorita delegata.'
+  - 'Art. 7 Abs. 1 lit. m-quater (eingefuegt durch Art. 18 Legge 132/2025): KI als Ressource fuer die
+    nationale Cybersicherheit; ausdrueckliche Ermaechtigung zu Kooperationsvereinbarungen mit Privaten.'
+  - 'Art. 7 Abs. 1 lit. z) (neu gefasst durch Art. 28 Abs. 1 Legge 132/2025): Kooperationsvereinbarungen,
+    oeffentlich-private Partnerschaften und Beteiligung an Konsortien, Stiftungen und Gesellschaften mit
+    italienischen oder EU-Partnern, letzteres mit Genehmigung des Ministerpraesidenten.'
+  - 'Die ACN vereinigt damit drei Rollen: Cybersicherheitsbehoerde, KI-Marktueberwachungsbehoerde und
+    Foerdereinrichtung mit Beteiligungsbefugnis an privaten Rechtstraegern — eine im europaeischen Vergleich
+    ungewoehnliche Buendelung.'
+  - Art. 6 Abs. 1 Legge 132/2025 nimmt zugleich die Cybersicherheits- und Sicherheitstaetigkeiten vom
+    Anwendungsbereich des KI-Gesetzes aus; die ACN ueberwacht also einen Bereich, in dem sie selbst nicht
+    dem nationalen KI-Gesetz unterliegt.
+  dokumente:
+  - datum: 2021-06-14
+    typ: endfassung
+    titel: Decreto-legge 14 giugno 2021, n. 82 (ELI-Landeseite)
+    url: https://www.gazzettaufficiale.it/eli/id/2021/06/14/21G00098/sg
+    sprache: it
+    urheber: Gazzetta Ufficiale della Repubblica Italiana
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Fundstelle: GU Serie Generale n. 140 vom 14.06.2021, Inkrafttreten 15.06.2021, Umwandlung
+      durch L. 109/2021.'
+  - datum: 2025-09-25
+    typ: endfassung
+    titel: Art. 18 und Art. 28 Legge 132/2025 (Volltext in der Ausgaben-PDF der GU n. 223/2025)
+    url: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+    sprache: it
+    urheber: Istituto Poligrafico e Zecca dello Stato
+    verifiziert: true
+    abruf: ok
+    notiz: Wortlaut der Aenderungen des Art. 7 Abs. 1 DL 82/2021 durch das KI-Gesetz.
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: AgID — Bereich Intelligenza artificiale (Rolle der AgID nach Art. 20 Legge 132/2025)
+    url: https://www.agid.gov.it/en/intervention-areas/artificial-intelligence
+    sprache: it
+    urheber: Agenzia per l'Italia digitale
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Selbstbeschreibung: AgID ist eine der beiden nationalen KI-Behoerden, zustaendig
+      fuer Innovationsfoerderung, Notifizierung, Bewertung, Akkreditierung und Ueberwachung der pruefenden
+      Stellen sowie fuer Reallabore. Nennt als Bezugsdokumente die Strategia 2024-2026, die Linee guida
+      (Determinazione 17/2025, ausdruecklich ''in Adoption'') und den Piano triennale per l''informatica
+      2024-2026.'
+  offene_punkte:
+  - Die Ausgestaltung der Marktueberwachungsbefugnisse der ACN steht im noch nicht veroeffentlichten Dekret
+    AG 421.
+  - Ob und wann die ACN eigene Sekundaerrechtsakte (Regolamenti) zur KI-Marktueberwachung erlaesst, ist
+    offen.
+  monitoring_quellen:
+  - https://www.acn.gov.it/portale/
+  - https://www.agid.gov.it/en/intervention-areas/artificial-intelligence
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-ag-421-dlgs-autorita-formazione
+  letzte_pruefung: 2026-09-04
+- id: it-agid-linee-guida-ia-pa
+  jurisdiktion: it
+  kurztitel: AgID-Leitlinien fuer den KI-Einsatz in der oeffentlichen Verwaltung
+  offizieller_titel: Linee guida per l'adozione dell'Intelligenza Artificiale nella Pubblica Amministrazione
+  fundstelle: Determinazione AgID n. 17 del 17 febbraio 2025 (Einleitung des Konsultations- und Informationsverfahrens);
+    Entwurfsfassung 1.0 vom 14.02.2025
+  verfahrensnummer: Determinazione n. 17/2025
+  status: entwurf
+  status_detail: 'Am 17.02.2025 mit Determinazione n. 17 in die oeffentliche Konsultation gegeben, Frist
+    20.03.2025. Eine endgueltige Verabschiedung der Leitlinien war am 04.09.2026 nicht nachweisbar; die
+    zugaengliche Fassung traegt weiterhin den Titel ''Bozza di linee guida''. Damit ist die zentrale verwaltungsrechtliche
+    Konkretisierung des Art. 14 Legge 132/2025 seit ueber achtzehn Monaten in der Schwebe.
+
+    '
+  kurzbeschreibung: 'Leitlinien der AgID fuer die Einfuehrung von KI-Systemen in den oeffentlichen Verwaltungen
+    nach Art. 2 Abs. 2 des Codice dell''amministrazione digitale. Sie beschreiben KI-Lebenszyklusmodelle,
+    die Risikoeinstufung nach der KI-Verordnung, einen Implementierungsrahmen aus Strategie-, Governance-
+    und Ueberwachungsphasen sowie Anforderungen an Datenschutz, Cybersicherheit, Datenverwaltung, Kompetenzaufbau
+    und Transparenz. Das Dokument unterscheidet sprachlich zwischen verpflichtenden Vorgaben (''MUSS'')
+    und Empfehlungen (''SOLLTE''); es ist als Verwaltungsleitlinie nach Art. 71 CAD konzipiert, entfaltet
+    aber ohne Verabschiedung keine Bindungswirkung. Erarbeitet wurde es in einem Koordinierungskreis unter
+    Beteiligung von AgID, ACN, ANAC und weiteren Stellen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.agid.gov.it/it/notizie/intelligenza-artificiale-in-consultazione-le-linee-guida-pa
+  anwendungsdaten:
+  - datum: 2025-02-17
+    was_gilt: 'Determinazione n. 17/2025: Einleitung des Konsultations- und Informationsverfahrens.'
+    verifiziert: true
+    quelle: https://trasparenza.agid.gov.it/page/103/details/5299/determinazione-n-17-del-17-febbraio-2025-avvio-delliter-di-consultazione-e-informazione-delle-linee-guida-per-ladozione-dellintelligenza-artificiale-nella-pubblica-amministrazione.html
+  - datum: 2025-03-20
+    was_gilt: Ablauf der oeffentlichen Konsultationsfrist.
+    verifiziert: true
+    quelle: https://www.agid.gov.it/it/notizie/intelligenza-artificiale-in-consultazione-le-linee-guida-pa
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Adressaten: alle Verwaltungen nach Art. 2 Abs. 2 CAD.'
+  - KI-Lebenszyklus und Risikoeinstufung nach der Systematik der KI-Verordnung.
+  - 'Implementierungsrahmen: Strategie, Governance, Ueberwachung.'
+  - Anforderungen zu Datenschutz, Cybersicherheit, Datenverwaltung, Kompetenzaufbau, Transparenz und ethischer
+    Governance.
+  - Normative Sprache mit MUSS/SOLLTE-Abstufung; Rechtsnatur nach Verabschiedung waere die einer Linea
+    guida nach Art. 71 CAD (verbindlich fuer die Verwaltungen).
+  - Praktisch bedeutsam als Konkretisierung von Art. 14 Legge 132/2025 (Erkennbarkeit der Funktionsweise,
+    Nachvollziehbarkeit des Einsatzes, alleinige Verantwortlichkeit der handelnden Person).
+  dokumente:
+  - datum: 2025-02-18
+    typ: konsultation
+    titel: 'Intelligenza Artificiale: in consultazione le prime Linee Guida per la PA'
+    url: https://www.agid.gov.it/it/notizie/intelligenza-artificiale-in-consultazione-le-linee-guida-pa
+    sprache: it
+    urheber: Agenzia per l'Italia digitale
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Bekanntmachung mit Konsultationsfrist 20.03.2025 und Verweis auf Determinazione n.
+      17/2025.
+  - datum: 2025-02-14
+    typ: entwurf
+    titel: Bozza di linee guida per l'adozione di IA nella pubblica amministrazione, versione 1.0
+    url: https://www.agid.gov.it/sites/agid/files/2025-02/Linee_Guida_adozione_IA_nella_PA.pdf
+    sprache: it
+    urheber: AgID unter Beteiligung von ACN, ANAC und weiteren Stellen
+    verifiziert: true
+    abruf: ok
+    notiz: Volltext des Entwurfs, Version 1.0 vom 14.02.2025. Ausdruecklich als Konsultationsfassung gekennzeichnet.
+  - datum: 2025-02-17
+    typ: norm
+    titel: Determinazione n. 17 del 17 febbraio 2025 — Avvio dell'iter di consultazione e informazione
+      delle Linee guida
+    url: https://trasparenza.agid.gov.it/page/103/details/5299/determinazione-n-17-del-17-febbraio-2025-avvio-delliter-di-consultazione-e-informazione-delle-linee-guida-per-ladozione-dellintelligenza-artificiale-nella-pubblica-amministrazione.html
+    sprache: it
+    urheber: Agenzia per l'Italia digitale — Ufficio Segreteria tecnica e coordinamento, Portale Trasparenza
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Fundstelle der Determinazione, veroeffentlicht am 18.02.2025. PDF der Determinazione
+      unter https://trasparenza.agid.gov.it/download/9389.html, Anlage 1 (Linee guida) unter /download/9390.html,
+      Anlage 2 unter /download/9391.html.
+  offene_punkte:
+  - Die endgueltige Verabschiedung der Linee guida steht seit ueber achtzehn Monaten aus. Ob sie noch
+    erfolgt oder in den Durchfuehrungsdekreten zur Legge 132/2025 aufgeht, ist offen.
+  - Ohne verabschiedete Leitlinien fehlt der zentrale Massstab fuer Art. 14 Legge 132/2025.
+  monitoring_quellen:
+  - https://www.agid.gov.it/en/intervention-areas/artificial-intelligence
+  - https://trasparenza.agid.gov.it/
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-strategia-nazionale-ia
+  letzte_pruefung: 2026-09-04
+- id: it-strategia-nazionale-ia
+  jurisdiktion: it
+  kurztitel: Strategia Italiana per l'Intelligenza Artificiale 2024-2026
+  offizieller_titel: Strategia Italiana per l'Intelligenza Artificiale 2024-2026
+  fundstelle: Dipartimento per la trasformazione digitale, Presidenza del Consiglio dei Ministri, veroeffentlicht
+    22.07.2024; seit Art. 19 Legge 132/2025 gesetzlich verankert
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Am 22.07.2024 veroeffentlicht, erarbeitet von einer 14-koepfigen Expertengruppe unter
+    Leitung von Gianluigi Greco. Seit Art. 19 Legge 132/2025 hat die Strategie eine gesetzliche Grundlage:
+    sie wird von der zustaendigen Stelle der Praesidentschaft des Ministerrats erarbeitet und alle zwei
+    Jahre vom Comitato interministeriale per la transizione digitale genehmigt. Eine Fortschreibung ueber
+    2026 hinaus war am 04.09.2026 nicht nachweisbar.
+
+    '
+  kurzbeschreibung: 'Politisches Strategiedokument ohne Bindungswirkung, das die italienische KI-Politik
+    in vier Handlungsfeldern buendelt: Forschung, oeffentliche Verwaltung, Unternehmen und Bildung. Es
+    enthaelt ein Ueberwachungssystem und eine regulatorische Analyse. Mit Art. 19 Legge 132/2025 ist die
+    Strategie institutionalisiert worden: sie wird zweijaehrlich fortgeschrieben und vom Comitato interministeriale
+    per la transizione digitale beschlossen; flankierend richtet Art. 19 ein Comitato di coordinamento
+    unter Vorsitz des Ministerpraesidenten ein, das die Taetigkeit oeffentlicher und privater Akteure
+    im Innovationsbereich koordiniert.
+
+    '
+  inkrafttreten:
+    datum: 2024-07-22
+    verifiziert: true
+    quelle: https://innovazione.gov.it/notizie/articoli/strategia-italiana-per-l-intelligenza-artificiale-2024-2026/
+  anwendungsdaten:
+  - datum: 2024-07-22
+    was_gilt: Veroeffentlichung des vollstaendigen Strategiedokuments.
+    verifiziert: true
+    quelle: https://innovazione.gov.it/notizie/articoli/strategia-italiana-per-l-intelligenza-artificiale-2024-2026/
+  - datum: 2025-10-10
+    was_gilt: 'Art. 19 Legge 132/2025 tritt in Kraft: die Strategie erhaelt eine gesetzliche Grundlage
+      und einen zweijaehrigen Fortschreibungsrhythmus mit Beschlussfassung durch das Comitato interministeriale
+      per la transizione digitale.
+
+      '
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Vier Handlungsfelder: Ricerca, Pubblica Amministrazione, Imprese, Formazione.'
+  - Enthaelt ein Monitoringsystem und eine Analyse des Regulierungsrahmens.
+  - Keine Bindungswirkung; Bedeutung als Bezugspunkt fuer Foerderentscheidungen und als Grundlage des
+    Art. 19 Legge 132/2025.
+  - Art. 19 Legge 132/2025 verankert den zweijaehrigen Zyklus und das Comitato di coordinamento unter
+    Vorsitz des Ministerpraesidenten.
+  dokumente:
+  - datum: 2024-07-22
+    typ: leitlinie
+    titel: Pubblicato il documento completo della Strategia Italiana per l'Intelligenza Artificiale 2024-2026
+    url: https://innovazione.gov.it/notizie/articoli/strategia-italiana-per-l-intelligenza-artificiale-2024-2026/
+    sprache: it
+    urheber: Dipartimento per la trasformazione digitale — Presidenza del Consiglio dei Ministri
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Bekanntmachung mit Angaben zur Expertengruppe, den vier Handlungsfeldern und dem PDF-Link.
+  - datum: 2024-07-19
+    typ: leitlinie
+    titel: Strategia Italiana per l'Intelligenza Artificiale 2024-2026 (Volltext-PDF)
+    url: https://assets.innovazione.gov.it/1721376223-01-strategia-italiana-per-l-intelligenza-artificiale-2024-2026.pdf
+    sprache: it
+    urheber: Dipartimento per la trasformazione digitale / AgID
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Volltext. Bestaetigt Laufzeit 2024-2026, Herausgeberschaft der AgID und die vier
+      Handlungsfelder Ricerca, Pubblica Amministrazione, Imprese, Formazione; loest die Strategie von
+      2021 ab.
+  offene_punkte:
+  - Eine Fortschreibung fuer den Zyklus ab 2026 nach Art. 19 Legge 132/2025 ist nicht nachweisbar; der
+    zweijaehrige Rhythmus laeuft ab Inkrafttreten (10.10.2025).
+  monitoring_quellen:
+  - https://innovazione.gov.it/
+  - https://www.agid.gov.it/en/intervention-areas/artificial-intelligence
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-agid-linee-guida-ia-pa
+  letzte_pruefung: 2026-09-04
+- id: it-csm-raccomandazioni-ia
+  jurisdiktion: it
+  kurztitel: CSM-Empfehlungen zum KI-Einsatz in der Justiz
+  offizieller_titel: Consiglio Superiore della Magistratura — Raccomandazioni sull'uso dell'intelligenza
+    artificiale negli uffici giudiziari (delibera plenaria 8 ottobre 2025; aggiornamento 22 luglio 2026)
+  fundstelle: Delibere del Plenum del CSM vom 08.10.2025 und vom 22.07.2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Das Plenum des CSM hat am 08.10.2025 — zwei Tage vor Inkrafttreten der Legge 132/2025
+    — Empfehlungen zum KI-Einsatz in den Gerichtsbehoerden beschlossen und diese am 22.07.2026 erweitert
+    und praezisiert. Es handelt sich um Selbstverwaltungsakte des Richterrats ohne Rechtsnormqualitaet;
+    disziplinarrechtlich sind sie gleichwohl als Massstab richterlichen Verhaltens erheblich.
+
+    '
+  kurzbeschreibung: 'Zentrale Vorgabe ist, dass KI den Richter unterstuetzt und nicht ersetzt: Entscheidungen
+    ueber Rechtsauslegung, Tatsachenwuerdigung und Anordnungen bleiben ausschliesslich dem Magistrat vorbehalten
+    — die berufsrechtliche Parallele zu Art. 15 Abs. 1 Legge 132/2025. Zulaessig sind nach der Fassung
+    von 2025 Dokumentenrecherche, Zusammenfassungen, Arbeitsorganisation, standardisierte Entwuerfe in
+    einfachen Faellen, Datenkontrollen und Terminverwaltung; nur vom Justizministerium autorisierte Systeme
+    innerhalb der Justizdomaene duerfen genutzt werden, mit Datennachverfolgbarkeit und menschlicher Kontrolle.
+    Die Aktualisierung vom 22.07.2026 erlaubt zusaetzlich die Analyse und den Vergleich von Prozessakten,
+    aber ausschliesslich innerhalb des institutionellen Tenants des Justizministeriums, und nennt fuenf
+    weitere zulaessige Taetigkeiten: Klassifizierung von Akten, strukturierte Analyse der Parteivortraege,
+    Zusammenfassung von Dokumenten, Vergleich der Positionen zur Bestimmung von thema decidendum und thema
+    probandum sowie unterstuetztes Ausfuellen standardisierter Formulare. Die Anonymisierung wird von
+    einer absoluten Anforderung zur empfohlenen guten Praxis herabgestuft.
+
+    '
+  inkrafttreten:
+    datum: 2025-10-08
+    verifiziert: false
+    quelle: https://www.csm.it/portale/web/csm-internet/w/raccomandazioni-intelligenza-artificiale
+    fundstelle_norm: Delibera des Plenums des Consiglio Superiore della Magistratura vom 08.10.2025, erweitert
+      durch Delibera vom 22.07.2026. Selbstverwaltungsakt ohne Inkrafttretensvorschrift; eingetragen ist
+      das Datum der Beschlussfassung.
+  anwendungsdaten:
+  - datum: 2025-10-08
+    was_gilt: Beschluss der urspruenglichen Raccomandazioni durch das Plenum des CSM.
+    verifiziert: false
+    quelle: https://www.csm.it/portale/web/csm-internet/w/raccomandazioni-intelligenza-artificiale
+  - datum: 2026-07-22
+    was_gilt: 'Aktualisierung durch das Plenum: Analyse und Vergleich von Prozessakten im institutionellen
+      Tenant zulaessig; fuenf weitere erlaubte Taetigkeiten; Anonymisierung nur noch als buona pratica.
+
+      '
+    verifiziert: false
+    quelle: https://www.csm.it/portale/web/csm-internet/intelligenza-artificiale
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Leitprinzip: KI unterstuetzt, ersetzt aber nicht — Entscheidungen ueber Auslegung, Tatsachenwuerdigung
+    und Anordnungen bleiben dem Magistrat vorbehalten (Parallele zu Art. 15 Abs. 1 Legge 132/2025).'
+  - Nur vom Justizministerium autorisierte Systeme innerhalb der Justizdomaene; Datensouveraenitaet, Minimierung
+    sensibler Daten, menschliche Aufsicht, regelmaessige Audits.
+  - 'Fassung 2025 — zulaessig: Dokumentenrecherche, Zusammenfassungen, Arbeitsorganisation, standardisierte
+    Entwuerfe in einfachen Faellen, Datenkontrollen, Terminverwaltung.'
+  - 'Fassung 2026 — zusaetzlich zulaessig: Analyse und Vergleich von Prozessakten (nur im institutionellen
+    Tenant des Ministeriums), Klassifizierung von Akten, strukturierte Analyse der Parteipositionen, Dokumentzusammenfassungen,
+    Vergleich zur Bestimmung von thema decidendum und thema probandum, unterstuetztes Ausfuellen standardisierter
+    Formulare.'
+  - Fassung 2026 — Herabstufung der Anonymisierung von einer Pflicht zur empfohlenen guten Praxis; das
+    ist die datenschutzrechtlich bemerkenswerteste Aenderung.
+  - Das CSM hatte bereits zum Gesetzentwurf A.S. 1146/24 eine Stellungnahme abgegeben.
+  dokumente:
+  - datum: 2025-10-08
+    typ: leitlinie
+    titel: Raccomandazioni sull'uso dell'intelligenza artificiale
+    url: https://www.csm.it/portale/web/csm-internet/w/raccomandazioni-intelligenza-artificiale
+    sprache: it
+    urheber: Consiglio Superiore della Magistratura
+    verifiziert: false
+    abruf: 403
+    notiz: Amtliche Seite mit der Delibera. csm.it beantwortet automatisierte Abrufe durchgaengig mit
+      403; Datum und Inhalt daher nur mittelbar belegt.
+  - datum: 2026-07-22
+    typ: leitlinie
+    titel: Intelligenza artificiale — Sammelseite des CSM mit den Delibere und dem Aggiornamento vom 22.07.2026
+    url: https://www.csm.it/portale/web/csm-internet/intelligenza-artificiale
+    sprache: it
+    urheber: Consiglio Superiore della Magistratura
+    verifiziert: false
+    abruf: 403
+    notiz: Amtliche Sammelseite. Nicht abrufbar (403).
+  - datum: 2025-01-01
+    typ: stellungnahme
+    titel: Parere sul ddl 1146/24 in materia di intelligenza artificiale
+    url: https://www.csm.it/portale/web/csm-internet/w/parere-sul-ddl-1146/24-in-materia-di-intelligenza-artificiale
+    sprache: it
+    urheber: Consiglio Superiore della Magistratura
+    verifiziert: false
+    abruf: 403
+    notiz: Stellungnahme des CSM zum Gesetzentwurf. Datum nicht verifiziert; Seite nicht abrufbar (403).
+  - datum: 2026-07-22
+    typ: bericht
+    titel: 'Magistrati e AI: aggiornate le raccomandazioni del CSM'
+    url: null
+    sekundaerquelle_url: https://giuricivile.it/magistrati-e-ai-aggiornate-le-raccomandazioni-del-csm/
+    sprache: it
+    urheber: Giuricivile
+    verifiziert: true
+    abruf: ok
+    notiz: Einzige erreichbare Quelle fuer Datum und Inhalt der Aktualisierung vom 22.07.2026.
+  - datum: 2025-10-15
+    typ: bericht
+    titel: 'Giudici e IA: le raccomandazioni del CSM'
+    url: null
+    sekundaerquelle_url: https://www.misterlex.it/doc/giudici-ia-raccomandazioni-csm/
+    sprache: it
+    urheber: MisterLex
+    verifiziert: true
+    abruf: ok
+    notiz: Belegt Datum (08.10.2025), beschliessendes Organ (Plenum) und Inhalt der urspruenglichen Empfehlungen.
+  offene_punkte:
+  - Die Volltexte beider Delibere sind ueber csm.it fuer automatisierte Abrufe nicht zugaenglich (403).
+    Datum und Inhalt sind nur ueber Sekundaerquellen belegt.
+  - 'Verhaeltnis zu Art. 15 Abs. 2 und 3 Legge 132/2025: Das Justizministerium regelt den KI-Einsatz und
+    genehmigt Erprobungen; das CSM beansprucht parallel eine Regelungskompetenz aus der Selbstverwaltung.
+    Die Abgrenzung ist ungeklaert.'
+  - Ob das Justizministerium den nach Art. 15 Abs. 2 Legge 132/2025 vorgesehenen Regelungsakt erlassen
+    hat, konnte nicht festgestellt werden.
+  - Datum der CSM-Delibera (08.10.2025) am 05.09.2026 nicht an der amtlichen Delibera selbst geprüft,
+    sondern nur der CSM-Portalseite entnommen.
+  monitoring_quellen:
+  - https://www.csm.it/portale/web/csm-internet/intelligenza-artificiale
+  - https://www.giustizia.it/
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-cnf-guida-ia-generativa
+  letzte_pruefung: 2026-09-05
+- id: it-cnf-guida-ia-generativa
+  jurisdiktion: it
+  kurztitel: CNF/CCBE-Leitfaden zum Einsatz generativer KI durch Anwaeltinnen und Anwaelte
+  offizieller_titel: Guida del CCBE sull'uso dell'intelligenza artificiale generativa da parte degli avvocati
+    (italienische Fassung, herausgegeben vom Consiglio Nazionale Forense)
+  fundstelle: CCBE, 2. Oktober 2025; italienische Uebersetzung des Bruesseler Buero des Consiglio Nazionale
+    Forense, veroeffentlicht auf consiglionazionaleforense.it
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Der Leitfaden des Council of Bars and Law Societies of Europe vom 02.10.2025 ist vom
+    CNF in italienischer Uebersetzung veroeffentlicht worden. Er hat keine Bindungswirkung, konkretisiert
+    aber die Berufspflichten, an denen sich die Disziplinarorgane orientieren, und ist die einzige auf
+    CNF-Ebene verfuegbare Handreichung zu generativer KI. Ein eigenstaendiger, vom CNF selbst gesetzter
+    Verhaltenskodex zur KI war am 04.09.2026 nicht nachweisbar.
+
+    '
+  kurzbeschreibung: 'Der Leitfaden beschreibt Chancen und Risiken generativer KI in der Anwaltspraxis
+    und leitet aus den anwaltlichen Kernpflichten konkrete Anforderungen ab: Verschwiegenheit (keine Eingabe
+    mandatsbezogener Daten in GenAI-Oberflaechen ohne gesicherte Auftragsverarbeitung), Fachkompetenz
+    (fortlaufende Fortbildung, Verifikation jedes Outputs vor Verwendung, Kenntnis der Grenzen des Systems),
+    Unabhaengigkeit (Minimierung von Verzerrungs- und Beeinflussungsrisiken), Transparenz (Information
+    des Mandanten ueber den GenAI-Einsatz in seiner Sache) und Vermeidung von Interessenkonflikten bei
+    mandatsuebergreifender Nutzung. Als Hauptrisiken benennt er Halluzinationen, Datenschutz, fehlende
+    Nachvollziehbarkeit (''Black Box''), Bias, Immaterialgueterrechtsprobleme und Betrug. Die Transparenzanforderung
+    deckt sich inhaltlich mit Art. 13 Abs. 2 Legge 132/2025, der die Information des Mandanten gesetzlich
+    vorschreibt.
+
+    '
+  inkrafttreten:
+    datum: 2025-10-02
+    verifiziert: true
+    quelle: https://www.consiglionazionaleforense.it/documents/20182/3593400/Guida+del+CCBE+sull%E2%80%99uso+dell%E2%80%99intelligenza+artificiale+generativa+da+parte+degli+avvocati.pdf/0fdee427-fb50-7e41-fbd6-5bae7acec75c?t=1763380452292
+  anwendungsdaten:
+  - datum: 2025-10-02
+    was_gilt: Verabschiedung des Leitfadens durch den CCBE.
+    verifiziert: true
+    quelle: https://www.consiglionazionaleforense.it/documents/20182/3593400/Guida+del+CCBE+sull%E2%80%99uso+dell%E2%80%99intelligenza+artificiale+generativa+da+parte+degli+avvocati.pdf/0fdee427-fb50-7e41-fbd6-5bae7acec75c?t=1763380452292
+  themenachsen:
+  - berufsrecht
+  - datenschutz
+  - haftung
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Verschwiegenheit: keine Eingabe sensibler Mandantendaten in GenAI-Oberflaechen; Absicherung ueber
+    Auftragsverarbeitungsvertraege.'
+  - 'Fachkompetenz: ''Gli avvocati devono mantenere le proprie competenze professionali attraverso la
+    formazione continua''; Verifikationspflicht vor Verwendung jedes Outputs.'
+  - 'Unabhaengigkeit: Minimierung von Bias und algorithmischer Beeinflussung.'
+  - Transparenz gegenueber dem Mandanten beim GenAI-Einsatz — deckungsgleich mit der gesetzlichen Pflicht
+    des Art. 13 Abs. 2 Legge 132/2025.
+  - Interessenkonflikte bei mandatsuebergreifender Nutzung desselben Systems.
+  - 'Risikokatalog: Halluzinationen, Datenschutz, Black Box, Bias, IP, Betrug.'
+  - 'Rechtsnatur: unverbindliche Handreichung; die italienische Fassung ist eine ''traduzione non ufficiale''
+    des CNF-Bueros in Bruessel.'
+  dokumente:
+  - datum: 2025-10-02
+    typ: leitlinie
+    titel: Guida del CCBE sull'uso dell'intelligenza artificiale generativa da parte degli avvocati
+    url: https://www.consiglionazionaleforense.it/documents/20182/3593400/Guida+del+CCBE+sull%E2%80%99uso+dell%E2%80%99intelligenza+artificiale+generativa+da+parte+degli+avvocati.pdf/0fdee427-fb50-7e41-fbd6-5bae7acec75c?t=1763380452292
+    sprache: it
+    urheber: CCBE; italienische Uebersetzung durch das Bruesseler Buero des Consiglio Nazionale Forense
+    verifiziert: true
+    abruf: ok
+    notiz: Volltext-PDF auf der amtlichen CNF-Domain. Belegt Datum (02.10.2025), Urheberschaft und alle
+      Kernpflichten.
+  offene_punkte:
+  - Ein eigenstaendiger CNF-Kodex oder eine CNF-Auslegung des Art. 13 Legge 132/2025 fuer die Anwaltschaft
+    war nicht auffindbar; einzelne Ordini (Rom, Torre Annunziata) haben eigene Vademecum erlassen, die
+    hier nicht erfasst sind.
+  - Die Rechtsfolge eines Verstosses gegen Art. 13 Abs. 2 Legge 132/2025 (Informationspflicht) ist gesetzlich
+    nicht bestimmt; in Betracht kommen Disziplinarrecht und Honorarminderung nach Art. 2229 ff. c.c.
+  monitoring_quellen:
+  - https://www.consiglionazionaleforense.it/
+  - https://www.ccbe.eu/
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-csm-raccomandazioni-ia
+  letzte_pruefung: 2026-09-04
+- id: it-garante-decalogo-ia-sanita
+  jurisdiktion: it
+  kurztitel: Garante-Decalogo zur KI im nationalen Gesundheitsdienst
+  offizieller_titel: Decalogo per la realizzazione di servizi sanitari nazionali attraverso sistemi di
+    Intelligenza Artificiale
+  fundstelle: Garante per la protezione dei dati personali, doc. web n. 9938038, veroeffentlicht am 10
+    ottobre 2023
+  verfahrensnummer: doc. web 9938038
+  status: softlaw
+  status_detail: 'Am 10.10.2023 veroeffentlicht, zwei Jahre vor der Legge 132/2025. Der Decalogo ist kein
+    Bescheid, sondern eine Orientierungshilfe des Garante; er bleibt neben Art. 7 bis 10 Legge 132/2025
+    der praktisch massgebliche Datenschutzmassstab fuer KI im Gesundheitswesen und wird durch Art. 8 Legge
+    132/2025 (Leitlinien der AGENAS nach Anhoerung des Garante) ergaenzt, nicht ersetzt.
+
+    '
+  kurzbeschreibung: 'Zehn-Punkte-Katalog des italienischen Datenschutzbeauftragten zur datenschutzkonformen
+    Gestaltung KI-gestuetzter Dienste im nationalen Gesundheitsdienst. Der Decalogo behandelt insbesondere
+    die Rechtsgrundlage der Verarbeitung, die Rollenverteilung zwischen Verantwortlichem und Auftragsverarbeiter,
+    die Datenschutz-Folgenabschaetzung, Transparenz und Information der Betroffenen, Genauigkeit und Aktualitaet
+    der Daten, Nichtdiskriminierung, menschliche Aufsicht ueber automatisierte Entscheidungen sowie Datensicherheit.
+    Er ist der wichtigste Vorlaeufer der spaeteren gesetzlichen Regelung und wird in der italienischen
+    Praxis als Pruefraster fuer Art. 22 DSGVO und Art. 14 KI-VO im Gesundheitsbereich verwendet.
+
+    '
+  inkrafttreten:
+    datum: 2023-10-10
+    verifiziert: true
+    quelle: https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9938038
+  anwendungsdaten:
+  - datum: 2023-10-10
+    was_gilt: Veroeffentlichung des Decalogo; zeitgleiche Ankuendigung im Newsletter des Garante.
+    verifiziert: true
+    quelle: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9937730
+  themenachsen:
+  - sektor-medizin
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - Rechtsgrundlage der Verarbeitung besonderer Kategorien von Gesundheitsdaten und Erforderlichkeit einer
+    gesetzlichen Grundlage fuer nationale KI-Gesundheitsdienste.
+  - Rollen und Verantwortlichkeiten (Verantwortlicher, Auftragsverarbeiter) bei zentral betriebenen KI-Plattformen.
+  - Verpflichtende Datenschutz-Folgenabschaetzung.
+  - Transparenz, Information und Verstaendlichkeit gegenueber den Betroffenen.
+  - Datenqualitaet, Genauigkeit, Nichtdiskriminierung, Vermeidung von Bias.
+  - Menschliche Aufsicht ueber automatisierte Entscheidungen (Art. 22 DSGVO).
+  - 'Bezug zur spaeteren Regelung: Art. 7 Abs. 3 Legge 132/2025 (Informationsrecht der Patienten) und
+    Art. 8 Legge 132/2025 (AGENAS-Leitlinien zu Anonymisierung und synthetischen Daten nach Anhoerung
+    des Garante) bauen erkennbar darauf auf.'
+  dokumente:
+  - datum: 2023-10-10
+    typ: leitlinie
+    titel: Decalogo per la realizzazione di servizi sanitari nazionali attraverso sistemi di Intelligenza
+      Artificiale [doc. web 9938038]
+    url: https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9938038
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Dokumentenseite mit Titel, Datum und Registernummer; der Volltext liegt als PDF dahinter.
+  - datum: 2023-10-10
+    typ: leitlinie
+    titel: Decalogo — Volltext-PDF
+    url: https://www.garanteprivacy.it/documents/10160/0/Decalogo+per+la+realizzazione+di+servizi+sanitari+nazionali+attraverso+sistemi+di+Intelligenza+Artificiale.pdf/a5c4a24d-4823-e014-93bf-1543f1331670?version=2.0
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: false
+    abruf: robots
+    notiz: Amtliches Volltext-PDF. Abruf durch robots.txt des Garante untersagt; Existenz ueber die Dokumentenseite
+      belegt.
+  - datum: 2023-10-10
+    typ: pressemitteilung
+    titel: 'Newsletter del 10 ottobre 2023 — Sanita: decalogo del Garante Privacy sull''uso dell''intelligenza
+      artificiale [doc. web 9937730]'
+    url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9937730
+    sprache: it
+    urheber: Garante per la protezione dei dati personali
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Ankuendigung des Decalogo vom 10.10.2023. Hebt drei Kernpunkte hervor: Transparenz
+      der Entscheidungsprozesse (Patienten muessen wissen, ob und wie automatisiert entschieden wird),
+      menschliche Aufsicht (Personal muss die Verarbeitung kontrollieren, bestaetigen oder widerlegen
+      koennen) und Schutz vor Diskriminierung durch regelmaessige Genauigkeitspruefungen; ferner Rechtsgrundlage,
+      verpflichtende Folgenabschaetzung und Dokumentation von Algorithmen und Trainingsmetriken.
+
+      '
+  offene_punkte:
+  - Ob der Garante den Decalogo nach Inkrafttreten der Legge 132/2025 und der KI-VO aktualisiert, ist
+    offen.
+  - Die Leitlinien der AGENAS nach Art. 8 Legge 132/2025 (Anonymisierung, synthetische Daten) sind noch
+    nicht ergangen.
+  monitoring_quellen:
+  - https://www.garanteprivacy.it/temi/intelligenza-artificiale
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-ag-421-dlgs-autorita-formazione
+  letzte_pruefung: 2026-09-04
+- id: it-agcom-delibera-127-26-cons
+  jurisdiktion: it
+  kurztitel: AGCOM-Delibera 127/26/CONS — Tavolo tecnico KI, Pluralismus und Urheberrecht
+  offizieller_titel: Delibera n. 127/26/CONS — Istituzione di un tavolo tecnico per la garanzia del pluralismo
+    e la tutela del diritto d'autore sulle piattaforme digitali che utilizzano sistemi di intelligenza
+    artificiale
+  fundstelle: Autorita per le garanzie nelle comunicazioni, delibera n. 127/26/CONS del 27 maggio 2026
+  verfahrensnummer: 127/26/CONS
+  status: softlaw
+  status_detail: 'Am 27.05.2026 beschlossen. Die Delibera errichtet ein staendiges technisches Gremium;
+    sie begruendet keine unmittelbaren Pflichten der Plattformen, sondern organisiert einen Dialog. Google,
+    FIEG und FISC haben ihre Teilnahme bereits erklaert. Der Rat der AGCOM wird mindestens halbjaehrlich
+    unterrichtet.
+
+    '
+  kurzbeschreibung: 'Die AGCOM richtet ein staendiges technisches Gremium ein, an dem Plattformen mit
+    sozialen Netzwerken und Suchmaschinen, Presseverleger und Branchenverbaende teilnehmen. Arbeitsschwerpunkte
+    sind vier Felder: der Schutz des Urheberrechts bei der KI-gestuetzten Nutzung von Inhalten einschliesslich
+    Transparenz- und Verguetungsgrundsaetzen, Opt-out-Mechanismen nach der Urheberrechtsrichtlinie (EU)
+    2019/790, Mechanismen der Nachrichtenauswahl zur Sicherung des Medienpluralismus sowie die Verhinderung
+    von Desinformation beim KI-Einsatz. Als Rechtsgrundlagen nennt die Delibera das nationale Recht sowie
+    die Verordnungen (EU) 2022/2065 (DSA), (EU) 2024/1689 (KI-VO) und (EU) 2024/1083 (EMFA) und die Richtlinie
+    (EU) 2019/790. Damit ist die AGCOM der einzige italienische Regulierer, der die urheberrechtliche
+    Opt-out-Frage — die Legge 132/2025 in Art. 25 ausdruecklich offen laesst — institutionell bearbeitet.
+
+    '
+  inkrafttreten:
+    datum: 2026-05-27
+    verifiziert: true
+    quelle: https://www.agcom.it/sites/default/files/provvedimenti/delibera/2026/Delibera_127_26_CONS.pdf
+  anwendungsdaten:
+  - datum: 2026-05-27
+    was_gilt: Beschluss der Delibera und Errichtung des Tavolo tecnico.
+    verifiziert: true
+    quelle: https://www.agcom.it/sites/default/files/provvedimenti/delibera/2026/Delibera_127_26_CONS.pdf
+  - datum: 2026-06-17
+    was_gilt: Veroeffentlichung des zweiteiligen AGCOM-Berichts zur kuenstlichen Intelligenz (Teil I technisch-oekonomisch,
+      Teil II Bericht des KI-Komitees).
+    verifiziert: true
+    quelle: https://www.agcom.it/comunicazione/avvisi/intelligenza-artificiale-2026
+  themenachsen:
+  - content
+  - urheberrecht
+  - wettbewerb
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Vier Arbeitsfelder: Urheberrechtsschutz bei KI-Nutzung mit Transparenz- und Verguetungsgrundsaetzen;
+    Opt-out-Mechanismen nach der DSM-Richtlinie; Mechanismen der Nachrichtenauswahl und Medienpluralismus;
+    Desinformationspraevention.'
+  - 'Teilnehmer: Anbieter sozialer Netzwerke und Suchmaschinen, Presseverleger, Branchenverbaende; Google,
+    FIEG und FISC haben Teilnahme erklaert.'
+  - Berichtspflicht an den Consiglio der AGCOM mindestens halbjaehrlich.
+  - 'Rechtsgrundlagen: DSA (EU) 2022/2065, DSM-Richtlinie (EU) 2019/790, KI-VO (EU) 2024/1689, EMFA (EU)
+    2024/1083.'
+  - 'Praktische Bedeutung: die AGCOM bearbeitet damit die Schnittstelle, die Art. 25 Legge 132/2025 (Verweis
+    auf Art. 70-ter/70-quater l. 633/1941) normativ offen laesst — naemlich wie das TDM-Opt-out gegenueber
+    generativen Modellen praktisch ausgeuebt und durchgesetzt wird.'
+  dokumente:
+  - datum: 2026-05-27
+    typ: norm
+    titel: Delibera n. 127/26/CONS (Volltext-PDF)
+    url: https://www.agcom.it/sites/default/files/provvedimenti/delibera/2026/Delibera_127_26_CONS.pdf
+    sprache: it
+    urheber: Autorita per le garanzie nelle comunicazioni
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Volltext mit Datum, Titel, Arbeitsfeldern, Teilnehmerkreis, Berichtspflicht und Rechtsgrundlagen.
+  - datum: 2026-06-17
+    typ: bericht
+    titel: Intelligenza Artificiale 2026 — Bericht der AGCOM (Teil I und Teil II)
+    url: https://www.agcom.it/comunicazione/avvisi/intelligenza-artificiale-2026
+    sprache: it
+    urheber: Autorita per le garanzie nelle comunicazioni
+    verifiziert: true
+    abruf: ok
+    notiz: 'Zweiteiliger Bericht vom 17.06.2026: technisch-oekonomischer Teil und Bericht des KI-Komitees,
+      jeweils italienisch und englisch.'
+  - datum: 2026-06-17
+    typ: bericht
+    titel: 'Intelligenza Artificiale — II PARTE: Rapporto del Comitato di esperti sull''Intelligenza Artificiale,
+      2026'
+    url: https://www.agcom.it/sites/default/files/media/allegato/2026/II%20parte%20-%20Report_IA.pdf
+    sprache: it
+    urheber: Comitato di esperti sull'Intelligenza Artificiale, eingesetzt von der Autorita per le garanzie
+      nelle comunicazioni
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtlicher Expertenbericht. Behandelt in Kap. 6 (Giuseppe Cassano) ausdruecklich Art. 25 Legge
+      132/2025 und die Frage, wann mit KI-Werkzeugen geschaffene Werke als Ergebnis der intellektuellen
+      Arbeit des Urhebers geschuetzt bleiben; ferner das Training auf geschuetzten Datensaetzen, algorithmische
+      Verstaerkung als Pluralismusrisiko und die Luecke der EU-Regeln zu politischer Werbung. Empfehlungen
+      gegliedert nach ex ante, in itinere, ex post.
+
+      '
+  offene_punkte:
+  - Ob aus dem Tavolo verbindliche Regulierungsakte (Delibere mit Verhaltenspflichten) hervorgehen, ist
+    offen.
+  - Das Verhaeltnis der AGCOM-Zustaendigkeit zu jener von ACN und AgID nach Art. 20 Legge 132/2025 ist
+    nur ueber die Unberuehrtheitsklausel des Art. 20 Abs. 4 geregelt.
+  monitoring_quellen:
+  - https://www.agcom.it/en/provvedimenti
+  - https://www.agcom.it/comunicazione/avvisi/intelligenza-artificiale-2026
+  bezug_regelwerke:
+  - it-legge-132-2025
+  letzte_pruefung: 2026-09-04
+- id: it-bankitalia-comunicazione-ia-2026
+  jurisdiktion: it
+  kurztitel: Banca d'Italia — Comunicazione zu digitaler operativer Resilienz und fortgeschrittenen KI-Modellen
+  offizieller_titel: Comunicazione al mercato in materia di resilienza operativa digitale e modelli avanzati
+    di Intelligenza Artificiale
+  fundstelle: Banca d'Italia, Comunicazione vom 17 luglio 2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Am 17.07.2026 veroeffentlicht. Aufsichtsrechtliche Mitteilung (comunicazione al mercato)
+    ohne formelle Verordnungsqualitaet, aber mit konkreter Handlungserwartung und einer harten Frist:
+    die beaufsichtigten Institute muessen dem Verwaltungsorgan bis zum 31.12.2026 einen Bericht mit Massnahmenplan
+    vorlegen und diesen der Aufsicht uebermitteln.
+
+    '
+  kurzbeschreibung: 'Die Banca d''Italia adressiert die von ihr unmittelbar beaufsichtigten Intermediaere
+    — Banken, Zahlungs- und E-Geld-Institute, Wertpapierfirmen, Anbieter von Kryptowerte-Dienstleistungen,
+    Verwalter alternativer Fonds und weitere Finanzintermediaere — und verlangt Massnahmen zur Staerkung
+    der digitalen und Cybersicherheits-Resilienz angesichts fortgeschrittener KI-Systeme, die Schwachstellen
+    selbstaendig auffinden und ausnutzen koennen. Sie benennt sechs Handlungsfelder: Governance (Ueberpruefung
+    des Risikorahmens, Sicherheitsmassnahmen, Lieferantensteuerung), IT-Hygiene (mehrschichtiges Sicherheitsmodell,
+    Netzsegmentierung), Ressourcenverwaltung (Inventare kritischer Systeme, Ablösung veralteter Infrastruktur),
+    Schwachstellenmanagement, Ueberwachung und Abwehr (auch mit KI-Werkzeugen) sowie Resilienz- und Szenariotests.
+    Die Mitteilung ergaenzt DORA (Verordnung (EU) 2022/2554) und flankiert die Rolle der Banca d''Italia
+    als Marktueberwachungsbehoerde nach Art. 20 Abs. 2 Legge 132/2025.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-17
+    verifiziert: true
+    quelle: https://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/2026.07.17-comunicazione/index.html
+  anwendungsdaten:
+  - datum: 2026-07-17
+    was_gilt: Veroeffentlichung der Comunicazione al mercato.
+    verifiziert: true
+    quelle: https://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/2026.07.17-comunicazione/index.html
+  - datum: 2026-12-31
+    was_gilt: 'Frist fuer die Vorlage eines detaillierten Berichts mit Massnahmenplan an das Verwaltungsorgan
+      und dessen Uebermittlung an die Aufsicht.
+
+      '
+    verifiziert: true
+    quelle: https://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/2026.07.17-comunicazione/Comunicazione-al-mercato-in-materia-di-resilienza-operativa-digitale-e-modelli-avanzati-di-intelligenza-artificiale.pdf
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Adressaten: sämtliche unmittelbar von der Banca d''Italia beaufsichtigten Intermediaere.'
+  - 'Sechs Handlungsfelder: Governance, IT-Hygiene, Ressourcenverwaltung, Schwachstellenmanagement, Ueberwachung
+    und Abwehr, Testaktivitaeten.'
+  - Anlass ist ausdruecklich die Faehigkeit fortgeschrittener KI-Modelle, Schwachstellen selbstaendig
+    zu identifizieren und auszunutzen — offensive KI als Aufsichtsthema.
+  - Harte Frist 31.12.2026 fuer Bericht und Massnahmenplan an das Verwaltungsorgan und die Aufsicht.
+  - 'Institutioneller Hintergrund: Art. 20 Abs. 2 Legge 132/2025 belaesst Banca d''Italia, CONSOB und
+    IVASS die Rolle der Marktueberwachungsbehoerde fuer ihren Sektor.'
+  dokumente:
+  - datum: 2026-07-17
+    typ: leitlinie
+    titel: Comunicazione al mercato in materia di resilienza operativa digitale e modelli avanzati di
+      Intelligenza Artificiale — Ankuendigungsseite
+    url: https://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/2026.07.17-comunicazione/index.html
+    sprache: it
+    urheber: Banca d'Italia
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Ankuendigung mit Datum und Adressatenkreis.
+  - datum: 2026-07-17
+    typ: leitlinie
+    titel: Comunicazione al mercato — Volltext-PDF
+    url: https://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/2026.07.17-comunicazione/Comunicazione-al-mercato-in-materia-di-resilienza-operativa-digitale-e-modelli-avanzati-di-intelligenza-artificiale.pdf
+    sprache: it
+    urheber: Banca d'Italia
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Volltext mit den sechs Handlungsfeldern und der Berichtsfrist 31.12.2026.
+  offene_punkte:
+  - 'Rechtsnatur und Sanktionierbarkeit einer comunicazione al mercato: sie ist kein Regolamento, wird
+    aufsichtsrechtlich aber wie eine Erwartung mit Rechtfertigungslast behandelt.'
+  - Abgrenzung zu DORA und zu den Betreiberpflichten des Art. 26 KI-VO ist nicht ausdruecklich geregelt.
+  monitoring_quellen:
+  - https://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-consob-suptech-ia
+  letzte_pruefung: 2026-09-04
+- id: it-consob-suptech-ia
+  jurisdiktion: it
+  kurztitel: CONSOB — KI in der Finanzmarktaufsicht (Quaderni FinTech)
+  offizieller_titel: CONSOB, Quaderni FinTech n. 15 — Riflessioni in tema di intelligenza artificiale
+    e attivita di vigilanza; Quaderni FinTech n. 19 — Sperimentazione dell'IA nell'azione di vigilanza
+  fundstelle: Commissione Nazionale per le Societa e la Borsa, Quaderni FinTech n. 15 (agosto 2025) und
+    n. 19
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Die Quaderni FinTech sind Forschungsarbeiten der CONSOB, keine Aufsichtsakte; sie binden
+    weder Marktteilnehmer noch die Behoerde. Erfasst werden sie hier, weil die CONSOB nach Art. 20 Abs.
+    2 Legge 132/2025 Marktueberwachungsbehoerde fuer ihren Sektor ist und weil Art. 26 Legge 132/2025
+    mit der Qualifikation des Art. 185 TUF unmittelbar in ihren Zustaendigkeitsbereich eingreift. Ein
+    eigenstaendiger Aufsichtsakt der CONSOB zur KI (etwa ein richiamo di attenzione) war am 04.09.2026
+    nicht nachweisbar.
+
+    '
+  kurzbeschreibung: 'Die CONSOB naehert sich der KI bislang forschend, nicht regulierend. Quaderno FinTech
+    n. 15 vom August 2025 verbindet eine normative Analyse mit internationalen SupTech-Erfahrungen und
+    empirischen Befunden zur datengestuetzten Aufsicht; Quaderno n. 19 behandelt die Erprobung von KI
+    in der Aufsichtstaetigkeit selbst. Rechtlich relevant ist die CONSOB im italienischen KI-Recht an
+    drei Stellen: als Marktueberwachungsbehoerde nach Art. 20 Abs. 2 Legge 132/2025 fuer den ihr unterstellten
+    Sektor, als Verfolgungsbehoerde fuer die verwaltungsrechtliche Marktmanipulation nach Art. 187-ter
+    TUF und als Anzeigenerstatterin fuer die durch Art. 26 Legge 132/2025 qualifizierte Straftat des Art.
+    185 TUF (Freiheitsstrafe von zwei bis sieben Jahren und Geldstrafe von 25.000 bis sechs Millionen
+    Euro bei Begehung mittels KI-Systemen).
+
+    '
+  inkrafttreten:
+    datum: 2025-08-06
+    verifiziert: true
+    quelle: https://www.consob.it/web/area-pubblica/ft15
+  anwendungsdaten:
+  - datum: 2025-08-06
+    was_gilt: Veroeffentlichung des Quaderno FinTech n. 15 mit begleitender Pressemitteilung.
+    verifiziert: true
+    quelle: https://www.consob.it/web/area-pubblica/ft15
+  themenachsen:
+  - sektor-finanz
+  - governance
+  regelungsschwerpunkte:
+  - 'Quaderno FinTech n. 15 (August 2025): normative Analyse, internationale SupTech-Erfahrungen, empirische
+    Befunde zur datengestuetzten Aufsicht. Autorinnen P. Deriu und S. Racioppi.'
+  - 'Quaderno FinTech n. 19: Erprobung von KI in der Aufsichtstaetigkeit.'
+  - Keine Bindungswirkung — Forschungsreihe, kein Aufsichtsakt.
+  - 'Institutionelle Rolle: Marktueberwachungsbehoerde nach Art. 20 Abs. 2 Legge 132/2025 fuer den Finanzsektor.'
+  - 'Materielle Beruehrung: Art. 26 Legge 132/2025 fuegt Art. 185 d.lgs. 58/1998 (TUF) eine KI-Qualifikation
+    an — zwei bis sieben Jahre Freiheitsstrafe und Geldstrafe von 25.000 bis 6.000.000 Euro.'
+  dokumente:
+  - datum: 2025-08-06
+    typ: bericht
+    titel: Quaderno FinTech n. 15 — Riflessioni in tema di intelligenza artificiale e attivita di vigilanza
+    url: https://www.consob.it/web/area-pubblica/ft15
+    sprache: it
+    urheber: CONSOB
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Publikationsseite mit Titel, Datum, Autorinnen und Volltext-Link. Ausdruecklich eine
+      Studie, kein Aufsichtsakt.
+  - datum: 2025-08-06
+    typ: pressemitteilung
+    titel: Comunicato stampa del 6 agosto 2025 — Intelligenza artificiale e vigilanza sui mercati finanziari
+    url: https://www.consob.it/documents/d/asset-library-1912910/cs_20250806-2
+    sprache: it
+    urheber: CONSOB
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliche Pressemitteilung zum Quaderno n. 15. Position der CONSOB: KI-Systeme sollen als ''digitale
+      Assistenten'' wirken, die abschliessende Bewertung bleibt beim Menschen; verlangt werden vollstaendige
+      Nachvollziehbarkeit und Erklaerbarkeit der Entscheidungsprozesse. Autorinnen Paola Deriu und Stefania
+      Racioppi.
+
+      '
+  - datum: 2026-07-01
+    typ: bericht
+    titel: Quaderni FinTech n. 19 — Sperimentazione dell'IA nell'azione di contrasto della CONSOB agli
+      abusivismi finanziari
+    url: https://www.consob.it/documents/d/area-pubblica/fintech19
+    sprache: it
+    urheber: CONSOB; M. Trerotola, A. Boghi, P. Deriu, G. Frega
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtlicher Volltext, Juli 2026. Beschreibt einen CONSOB-eigenen Softwareprototyp, der mit LLM
+      und NLP Anlegerbeschwerden auswertet und verdaechtige Websites auf unerlaubte Finanzdienstleistungen
+      untersucht; behandelt hybride Verfahren, deren Grenzen, den Rechtsrahmen und die Sicherung menschlicher
+      Aufsicht. Damit setzt die CONSOB KI selbst als Aufsichtswerkzeug ein — ein Anwendungsfall des Art.
+      14 Legge 132/2025 in einer unabhaengigen Behoerde.
+
+      '
+  offene_punkte:
+  - Ein eigenstaendiger Aufsichtsakt der CONSOB zur KI (richiamo di attenzione, Comunicazione) ist nicht
+    nachweisbar; im Vergleich zur Banca d'Italia (Comunicazione vom 17.07.2026) besteht eine Regelungsluecke.
+  - Genaues Erscheinungsdatum des Quaderno n. 19 nicht verifiziert.
+  monitoring_quellen:
+  - https://www.consob.it/web/area-pubblica/quaderni-fintech
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-bankitalia-comunicazione-ia-2026
+  letzte_pruefung: 2026-09-04
+- id: it-mim-dm-166-2025-ia-scuola
+  jurisdiktion: it
+  kurztitel: DM 166/2025 — Leitlinien fuer die Einfuehrung von KI in Schulen
+  offizieller_titel: Decreto ministeriale n. 166 del 9 agosto 2025 — Linee guida per l'introduzione dell'Intelligenza
+    Artificiale nelle Istituzioni scolastiche (allegato)
+  fundstelle: Ministero dell'Istruzione e del Merito, d.m. n. 166 del 9 agosto 2025; keine Gazzetta-Ufficiale-Veroeffentlichung
+  verfahrensnummer: DM 166/2025
+  status: anwendbar
+  status_detail: 'Am 09.08.2025 erlassen, also zwei Monate vor Inkrafttreten der Legge 132/2025. Als Ministerialdekret
+    mit Anlage bindet es die staatlichen Schulen. Das Durchfuehrungsdekret AG 421 ergaenzt den Bildungsbereich
+    um KI-Alphabetisierung und Lehrerfortbildung (nach Ministeriumsangaben 100 Mio. Euro).
+
+    '
+  kurzbeschreibung: 'Erstes verbindliches Regelwerk fuer den KI-Einsatz an italienischen Schulen. Die
+    Leitlinien ruhen auf vier Saeulen: allgemeine Bezugsgrundsaetze, ethische, technische und normative
+    Anforderungen, operative Einfuehrungsmodalitaeten sowie Kommunikation und Governance. Zentrale Vorgaben
+    sind die menschliche Aufsicht (''sorveglianza umana'') ueber jeden KI-Einsatz, die Vermeidung von
+    Diskriminierung und algorithmischem Bias sowie die Konformitaet mit der KI-Verordnung. Praktisch beruehrt
+    das Dekret unmittelbar die Altersschwelle des Art. 4 Abs. 4 Legge 132/2025: fuer Schuelerinnen und
+    Schueler unter vierzehn Jahren bedarf der Zugang zu KI-Technologien der Einwilligung der Sorgeberechtigten.
+
+    '
+  inkrafttreten:
+    datum: 2025-08-09
+    verifiziert: false
+    quelle: https://www.mim.gov.it/documents/20182/0/MIM_Linee+guida+IA+nella+Scuola_09_08_2025-signed.pdf
+    fundstelle_norm: Decreto ministeriale n. 166 del 9 agosto 2025 des Ministero dell'Istruzione e del
+      Merito. Das Dekret ist nicht in der Gazzetta Ufficiale veröffentlicht; eine eigene Inkrafttretensvorschrift
+      ist nicht nachgewiesen. Eingetragen ist das Datum des Dekrets selbst.
+  anwendungsdaten:
+  - datum: 2025-08-09
+    was_gilt: Erlass des DM 166/2025 mit den Linee guida als Anlage.
+    verifiziert: false
+    quelle: https://www.mim.gov.it/-/pubblicate-le-linee-guida-per-l-introduzione-dell-intelligenza-artificiale-nelle-istituzioni-scolastiche-allegato-al-dm-n-166-del-09-08-2025
+  - datum: 2025-10-10
+    was_gilt: 'Inkrafttreten des Art. 4 Abs. 4 Legge 132/2025: der Zugang von Kindern unter vierzehn Jahren
+      zu KI-Technologien setzt die Einwilligung der Sorgeberechtigten voraus — unmittelbar relevant fuer
+      den Schuleinsatz.
+
+      '
+    verifiziert: true
+    quelle: https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - 'Vier Saeulen: allgemeine Bezugsgrundsaetze; ethische, technische und normative Anforderungen; operative
+    Einfuehrungsmodalitaeten; Kommunikation und Governance.'
+  - Menschliche Aufsicht ueber jeden KI-Einsatz im Unterricht.
+  - Vermeidung von Diskriminierung und algorithmischem Bias.
+  - Ausrichtung an der Verordnung (EU) 2024/1689, insbesondere an der Einstufung von KI in der allgemeinen
+    und beruflichen Bildung als Hochrisiko (Anhang III Nr. 3 KI-VO).
+  - 'Schnittstelle zu Art. 4 Abs. 4 Legge 132/2025: Einwilligungserfordernis der Sorgeberechtigten fuer
+    unter 14-Jaehrige.'
+  - Der zweite Regelungsblock des Durchfuehrungsdekrets AG 421 (Alphabetisierung nach Art. 4 KI-VO, MINT-Kompetenzen,
+    Lehrerfortbildung mit nach Ministeriumsangaben 100 Mio. Euro) baut hierauf auf.
+  dokumente:
+  - datum: 2025-08-09
+    typ: leitlinie
+    titel: Pubblicate le Linee guida per l'introduzione dell'Intelligenza Artificiale nelle Istituzioni
+      scolastiche (allegato al DM n. 166 del 09/08/2025)
+    url: https://www.mim.gov.it/-/pubblicate-le-linee-guida-per-l-introduzione-dell-intelligenza-artificiale-nelle-istituzioni-scolastiche-allegato-al-dm-n-166-del-09-08-2025
+    sprache: it
+    urheber: Ministero dell'Istruzione e del Merito
+    verifiziert: false
+    abruf: 403
+    notiz: Amtliche Bekanntmachungsseite. mim.gov.it beantwortet automatisierte Abrufe durchgaengig mit
+      403.
+  - datum: 2025-08-09
+    typ: leitlinie
+    titel: MIM — Linee guida IA nella Scuola, 09.08.2025 (signiertes PDF)
+    url: https://www.mim.gov.it/documents/20182/0/MIM_Linee+guida+IA+nella+Scuola_09_08_2025-signed.pdf/b70fdc45-4b75-1f7e-73bf-eab12989b928?t=1756468797694
+    sprache: it
+    urheber: Ministero dell'Istruzione e del Merito
+    verifiziert: false
+    abruf: 403
+    notiz: Amtliches Volltext-PDF der Linee guida. Nicht abrufbar (403); URL aus der amtlichen Trefferliste
+      uebernommen.
+  - datum: 2025-08-09
+    typ: uebersicht
+    titel: AI Legal Atlas — Italia, Ministero dell'Istruzione e del Merito, Linee guida per l'introduzione
+      dell'IA nelle Istituzioni scolastiche
+    url: null
+    sekundaerquelle_url: https://www.biodiritto.org/AI-Legal-Atlas/AI-Docs/Italia-Ministero-dell-Istruzione-e-del-Merito-Linee-guida-per-l-introduzione-dell-Intelligenza-Artificiale-nelle-Istituzioni-scolastiche
+    sprache: it
+    urheber: Universita di Trento — Biodiritto, AI Legal Atlas
+    verifiziert: true
+    abruf: ok
+    notiz: Einzige erreichbare Quelle zur Bestaetigung von Dekretnummer (166), Datum (09.08.2025) und
+      Aufbau der Leitlinien.
+  offene_punkte:
+  - Der Volltext der Linee guida konnte nicht abgerufen werden; Inhalt nur ueber die Sekundaerquelle belegt.
+  - Ob das Dekret nach Inkrafttreten der Legge 132/2025 und nach dem Durchfuehrungsdekret AG 421 angepasst
+    wird, ist offen.
+  - 'Inkrafttreten des d.m. 166/2025 nicht verifiziert: Die MIM-Seite zum Dekret antwortet auf automatisierte
+    Abrufe mit HTTP 403. Zu prüfen ist, ob das Dekret oder die Anlage eine Anwendungsbestimmung (etwa
+    ab dem Schuljahr 2025/2026) enthält.'
+  monitoring_quellen:
+  - https://www.mim.gov.it/
+  bezug_regelwerke:
+  - it-legge-132-2025
+  - it-ag-421-dlgs-autorita-formazione
+  letzte_pruefung: 2026-09-05
+- id: it-ac-1940-ia-commercio-elettronico
+  jurisdiktion: it
+  kurztitel: A.C. 1940 — KI im elektronischen Handel (Gesetzesvorschlag)
+  offizieller_titel: Disposizioni concernenti l'impiego di sistemi di intelligenza artificiale nel settore
+    del commercio elettronico nonche delega al Governo in materia di disciplina delle funzioni di vigilanza
+  fundstelle: Camera dei deputati, proposta di legge A.C. 1940, XIX legislatura
+  verfahrensnummer: A.C. 1940 (eingebracht 02.07.2024, Zuweisung an die X. Kommission am 07.08.2024)
+  status: verfahren
+  status_detail: 'Am 02.07.2024 eingebracht, am 07.08.2024 der X. Kommission (Attivita produttive, commercio
+    e turismo) zugewiesen; das Lesedossier der Kammerdienste datiert vom 04.11.2024. Seither liessen sich
+    keine weiteren Verfahrensschritte feststellen — das Vorhaben ruht faktisch, seit die Legge 132/2025
+    den Regelungsstoff weitgehend besetzt hat. Nicht Gesetz geworden.
+
+    '
+  kurzbeschreibung: 'Parlamentarische Initiative mit acht Artikeln zum KI-Einsatz im elektronischen Handel.
+    Kernstueck ist eine Transparenzpflicht: Anbieter sollen ''informazioni complete, chiare, accessibili
+    e comprensibili'' ueber die Funktionsweise der eingesetzten Algorithmen veroeffentlichen. Hinzu kommen
+    die Verpflichtung auf die Datenschutz-Grundverordnung, eine Verordnungsermaechtigung zur Ausgestaltung
+    der Aufsichtsfunktionen mit Zuweisung an die Agenzia per la cybersicurezza nazionale und die Agenzia
+    per l''Italia digitale, ein Foerderfonds von zehn Millionen Euro fuer kleine und mittlere Unternehmen
+    sowie digitale Qualifizierungsprogramme. Bemerkenswert ist, dass die spaeter in Art. 20 Legge 132/2025
+    gewaehlte Doppelstruktur ACN/AgID hier bereits vorgezeichnet ist.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://documenti.camera.it/leg19/dossier/testi/AP0156.htm
+  anwendungsdaten:
+  - datum: 2024-07-02
+    was_gilt: Einbringung der proposta di legge in der Camera dei deputati.
+    verifiziert: true
+    quelle: https://documenti.camera.it/leg19/dossier/testi/AP0156.htm
+  - datum: 2024-08-07
+    was_gilt: Zuweisung an die X. Kommission (Attivita produttive, commercio e turismo).
+    verifiziert: true
+    quelle: https://documenti.camera.it/leg19/dossier/testi/AP0156.htm
+  themenachsen:
+  - wettbewerb
+  - content
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - Acht Artikel; Transparenzpflicht ueber Funktionsweise der im E-Commerce eingesetzten Algorithmen.
+  - Bindung an die Datenschutz-Grundverordnung.
+  - Delega zur Ausgestaltung der Aufsichtsfunktionen mit Zuweisung an ACN und AgID — Vorwegnahme der Doppelstruktur
+    des Art. 20 Legge 132/2025.
+  - Foerderfonds von zehn Millionen Euro fuer KMU.
+  - Digitale Qualifizierungsprogramme.
+  dokumente:
+  - datum: 2024-11-04
+    typ: ausschussbericht
+    titel: Dossier AP0156 — Schede di lettura zur proposta di legge A.C. 1940
+    url: https://documenti.camera.it/leg19/dossier/testi/AP0156.htm
+    sprache: it
+    urheber: Servizio Studi della Camera dei deputati
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliches Lesedossier mit Einbringungs- und Zuweisungsdatum, Artikelzahl und Regelungsinhalt.
+  offene_punkte:
+  - Der aktuelle Verfahrensstand konnte nicht amtlich verifiziert werden; die letzten nachweisbaren Schritte
+    stammen aus 2024/Anfang 2025.
+  - Ob das Vorhaben nach Inkrafttreten der Legge 132/2025 fortgefuehrt wird oder gegenstandslos geworden
+    ist, ist offen.
+  monitoring_quellen:
+  - https://www.camera.it/leg19/126?leg=19&idDocumento=1940
+  bezug_regelwerke:
+  - it-legge-132-2025
+  letzte_pruefung: 2026-09-04

@@ -1,0 +1,2506 @@
+regelwerke:
+- id: cl-ki-gesetz-entwurf
+  jurisdiktion: cl
+  kurztitel: Chilenischer KI-Gesetzentwurf (Boletín 15869-19 / 16821-19)
+  offizieller_titel: 'Proyecto de ley que regula los sistemas de inteligencia artificial, la robótica
+    y las tecnologías conexas, en sus distintos ámbitos de aplicación (Gesetzentwurf zur Regelung von
+    Systemen künstlicher Intelligenz, der Robotik und verwandter Technologien in ihren verschiedenen Anwendungsbereichen)
+    — refundido mit dem Mensaje „Regula los sistemas de inteligencia artificial" (Regelt die Systeme künstlicher
+    Intelligenz)
+
+    '
+  fundstelle: 'Boletín N° 15869-19 (matriz, Moción, Cámara de Diputados, 24.04.2023) und Boletín N° 16821-19
+    (Mensaje del Presidente de la República, Cámara de Diputados, 07.05.2024); am 29.05.2024 in der Cámara
+    de Diputados zur gemeinsamen Behandlung zusammengeführt (refundidos).
+
+    '
+  verfahrensnummer: Boletín 15869-19 / 16821-19 (refundidos)
+  status: verfahren
+  status_detail: 'Am 06.09.2026 im zweiten konstitutionellen Verfahrensgang (segundo trámite constitucional)
+    im Senat, Unterstufe „Primer informe de comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación".
+    Die Cámara de Diputados hat den Entwurf am 04.08.2025 in der Generaldebatte und am 13.10.2025 in der
+    Einzelberatung angenommen und ihn am 14.10.2025 mit Oficio N° 20.843 an den Senat übermittelt. Seither
+    liegt er in der Zukunftskommission des Senats. Die Regierung hat den Entwurf mit wechselnden Dringlichkeiten
+    belegt; die zuletzt registrierte Urgencia ist eine „Simple“ vom 01.09.2026. Ein Gesetz ist daraus
+    bis zum 06.09.2026 NICHT geworden.
+
+    '
+  kurzbeschreibung: 'Der Entwurf ist der erste ausformulierte, risikobasierte KI-Rechtsakt Chiles und
+    folgt der Systematik der EU-KI-Verordnung, weicht aber in der Aufsichtsarchitektur und in der Durchsetzung
+    deutlich ab. Er teilt KI-Systeme in vier Kategorien ein: inakzeptables Risiko (verboten, weil mit
+    der Gewährleistung der Grundrechte unvereinbar), hohes Risiko (Systeme mit erheblichem Gefährdungspotenzial
+    für Grundrechte, insbesondere bei Fehlfunktion), begrenztes Risiko (Manipulations- oder Fehlerrisiken
+    ohne erhebliches Gewicht) und offenkundig risikofreie Systeme. Die Aufsicht wird nicht einer neuen
+    KI-Behörde, sondern der durch Ley N° 21.719 geschaffenen Agencia de Protección de Datos Personales
+    übertragen; daneben tritt ein Consejo Asesor Técnico de Inteligencia Artificial mit höchstens zehn
+    Mitgliedern und ohne Kontrollbefugnisse. Die Durchsetzung ist ausdrücklich als Ex-post-Aufsicht konzipiert:
+    nach dem Kommissionsbericht greift die Kontrolle erst, wenn empirische Anhaltspunkte für einen eingetretenen
+    Schaden vorliegen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15869
+  themenachsen:
+  - marktzugang
+  - gpai
+  - grundrechte
+  - datenschutz
+  - governance
+  - haftung
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Vier Risikostufen statt der drei bzw. vier der EU-KI-VO: riesgo inaceptable, riesgo alto, riesgo
+    limitado, sin riesgo evidente.'
+  - 'Aufsicht bei der Agencia de Protección de Datos Personales (APDP) — also bei der Datenschutzbehörde,
+    die selbst erst mit dem Inkrafttreten der Ley N° 21.719 am 01.12.2026 arbeitsfähig wird. Der KI-Entwurf
+    ist damit institutionell an das Datenschutzrecht gekoppelt.
+
+    '
+  - 'Consejo Asesor Técnico de Inteligencia Artificial: höchstens zehn Mitglieder, beratend, ohne Aufsichts-
+    oder Sanktionsbefugnis.'
+  - Der Consejo para la Transparencia bleibt für den Informationszugang zuständig; das Wissenschaftsministerium
+    für die politische Koordination.
+  - 'Ex-post-Durchsetzung: „la fiscalización solo procederá cuando haya evidencia empírica de un daño"
+    (Zweiter Bericht der Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación). Das ist
+    der zentrale Unterschied zur EU-KI-VO, die eine Ex-ante-Konformitätsbewertung verlangt.
+
+    '
+  - 'Zwei Ursprünge: eine parlamentarische Moción von acht Abgeordneten (Aedo Jeldres, Lagomarsino Guzmán,
+    Medina Vásquez, Mellado Pino, Olivera De La Fuente, Oyarzo Figueroa, Santibáñez Novoa, Venegas Salazar)
+    vom 24.04.2023 und ein Mensaje der Regierung vom 07.05.2024. Die Moción ist die matriz; der Regierungsentwurf
+    wurde ihr zugeschlagen.
+
+    '
+  - 'Die Corte Suprema hat am 01.07.2024 von Amts wegen zum Entwurf Stellung genommen (Oficio N° 199-2024)
+    — in Chile der übliche Weg, auf dem die Justiz zu Gesetzentwürfen gehört wird, die ihre Zuständigkeiten
+    berühren.
+
+    '
+  dokumente:
+  - datum: 2023-04-24
+    typ: entwurf
+    titel: 'Moción: Regula los sistemas de inteligencia artificial, la robótica y las tecnologías conexas
+      (Boletín 15869-19)'
+    url: http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=16416&tipodoc=mensaje_mocion
+    sprache: es
+    urheber: Acht Abgeordnete der Cámara de Diputados
+    verifiziert: true
+    notiz: Ursprungstext (matriz) des heutigen Verfahrens. Der Link steht so im XML-Webdienst des Senats;
+      er leitet auf tramitacion.senado.cl weiter.
+  - datum: 2024-07-01
+    typ: stellungnahme
+    titel: Oficio N° 199-2024 de la Corte Suprema (Stellungnahme des Obersten Gerichtshofs zum KI-Gesetzentwurf)
+    url: http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=33571&tipodoc=ofic
+    sprache: es
+    urheber: Corte Suprema de Chile
+    verifiziert: true
+    notiz: Einzige Äußerung der chilenischen Justiz zum KI-Gesetzentwurf im Verfahren.
+  - datum: 2025-05-28
+    typ: ausschussbericht
+    titel: Primer informe de la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación
+    url: http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27259&tipodoc=info
+    sprache: es
+    urheber: Cámara de Diputados, Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación
+    verifiziert: true
+    notiz: Erster Sachbericht; hier wurde die Risikosystematik festgelegt.
+  - datum: 2025-07-07
+    typ: ausschussbericht
+    titel: Primer informe de la Comisión de Hacienda
+    url: http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27345&tipodoc=info
+    sprache: es
+    urheber: Cámara de Diputados, Comisión de Hacienda
+    verifiziert: true
+    notiz: Finanzausschuss; relevant für die Ausstattung der Aufsichtsbehörde.
+  - datum: 2025-10-07
+    typ: ausschussbericht
+    titel: Segundo informe de la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación
+    url: http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=27542&tipodoc=info
+    sprache: es
+    urheber: Cámara de Diputados, Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación
+    verifiziert: true
+    notiz: 'Wichtigstes Dokument des Verfahrens. Enthält die vier Risikokategorien, die Zuständigkeit
+      der Agencia de Protección de Datos Personales, den Consejo Asesor Técnico und den Grundsatz der
+      Ex-post-Aufsicht. Abgerufen über die Weiterleitung auf https://tramitacion.senado.cl/appsenado/index.php?ac=getDocto&iddocto=27542&mo=tramitacion&tipodoc=info
+
+      '
+  - datum: 2025-10-13
+    typ: abstimmung
+    titel: Oficio N° 20.843 de la Cámara de Diputados al Senado (Übermittlung des angenommenen Textes)
+    url: http://www.senado.cl/appsenado/index.php?mo=tramitacion&ac=getDocto&iddocto=35352&tipodoc=ofic
+    sprache: es
+    urheber: Cámara de Diputados de Chile
+    verifiziert: true
+    notiz: Der von der Abgeordnetenkammer beschlossene Gesetzestext, wie er dem Senat vorliegt.
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Tramitación (XML-Webdienst des Senats) — vollständiger Verfahrensgang, Urgencias, Informes,
+      Dokumentlinks
+    url: https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15869
+    sprache: es
+    urheber: Senado de la República de Chile
+    verifiziert: true
+    notiz: 'Amtliche Primärquelle für den Verfahrensstand. Die Abfrage mit boletin=16821 liefert denselben
+      Datensatz; die Abfrage mit boletin=16821-19 (mit Kammerzusatz) liefert dagegen „No existe el número
+      de boletín solicitado“ — der Dienst will die Nummer OHNE Kammerzusatz.
+
+      '
+  offene_punkte:
+  - 'Der Sanktionsrahmen des Entwurfs ist aus dem Zweiten Kommissionsbericht nicht abschließend zu entnehmen;
+    der Bericht nennt keine Bußgeldhöhen. Zu prüfen am Text des Oficio N° 20.843.
+
+    '
+  - 'Ob der Senat den Entwurf vor dem Ende der Legislaturperiode abschließt, ist offen. Der Entwurf liegt
+    seit dem 14.10.2025 ohne Kommissionsbericht im Senat; die Urgencia „Simple“ vom 01.09.2026 setzt eine
+    Frist von 30 Tagen, ist aber in Chile wiederholt verlängerbar und in der Praxis wenig verbindlich.
+
+    '
+  - 'Verhältnis zur Ley N° 21.719: Der Entwurf überträgt die Aufsicht der Datenschutzbehörde, die selbst
+    erst am 01.12.2026 zu arbeiten beginnt. Ob die APDP die KI-Aufsicht personell und fachlich übernehmen
+    kann, ist im Verfahren umstritten.
+
+    '
+  monitoring_quellen:
+  - https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15869
+  - https://www.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=15869-19
+  - https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmBOLETIN=16821-19
+  bezug_regelwerke:
+  - cl-ley-21719
+  - cl-ley-19628
+  - cl-politica-ia
+  - cl-ley-21663
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-21719
+  jurisdiktion: cl
+  kurztitel: Neues chilenisches Datenschutzgesetz (Ley N° 21.719)
+  offizieller_titel: 'Ley N° 21.719, Regula la protección y el tratamiento de los datos personales y crea
+    la Agencia de Protección de Datos Personales (Gesetz Nr. 21.719, Regelung des Schutzes und der Verarbeitung
+    personenbezogener Daten und Errichtung der Datenschutzbehörde)
+
+    '
+  fundstelle: 'Diario Oficial de la República de Chile Nr. 44.023 vom 13.12.2024; promulgiert am 25.11.2024;
+    Ministerio Secretaría General de la Presidencia. LeyChile idNorma 1209272.
+
+    '
+  verfahrensnummer: Boletines 11144-07 y 11092-07 (refundidos)
+  status: verabschiedet
+  status_detail: 'Verkündet und im Diario Oficial veröffentlicht, aber noch nicht anwendbar. Nach dem
+    Artículo primero transitorio treten die Änderungen an der Ley N° 19.628, der Ley N° 20.285 und der
+    Ley N° 19.496 „el día primero del mes vigésimo cuarto posterior a la publicación de esta ley en el
+    Diario Oficial" in Kraft — das ist der 01.12.2026, also in weniger als drei Monaten. Die konsolidierte
+    Fassung in LeyChile trägt das Versionsdatum 05.02.2026; das Gesetz ist also nach seiner Verkündung
+    noch geändert worden.
+
+    '
+  kurzbeschreibung: 'Das Gesetz ersetzt den materiellen Teil der Ley N° 19.628 von 1999 vollständig und
+    bringt Chile auf ein DSGVO-nahes Schutzniveau. Es schafft mit der Agencia de Protección de Datos Personales
+    erstmals eine eigenständige Datenschutzbehörde mit Untersuchungs-, Anordnungs- und Bußgeldbefugnis
+    und einem öffentlichen Registro Nacional de Sanciones y Cumplimiento. Für KI ist vor allem Art. 8°
+    bis der neuen Fassung der Ley N° 19.628 einschlägig: ein Recht, sich automatisierten Einzelentscheidungen
+    einschließlich Profiling zu widersetzen, flankiert von einem Recht auf Erklärung, auf menschliche
+    Intervention, auf Darlegung des eigenen Standpunkts und auf Überprüfung der Entscheidung. Daneben
+    stehen ausdrückliche Sonderregeln für biometrische Daten (Art. 16 ter), Gesundheits- und Genomdaten
+    (Art. 16 bis), Geolokalisierungsdaten (Art. 16 sexies) und Daten von Kindern und Jugendlichen (Art.
+    16 quater). Für Kleinstunternehmen sieht der Artículo sexto transitorio in den ersten zwölf Monaten
+    nach Inkrafttreten die Möglichkeit vor, statt einer Geldbuße eine schriftliche Verwarnung auszusprechen.
+
+    '
+  inkrafttreten:
+    datum: 2026-12-01
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  anwendungsdaten:
+  - datum: 2025-06-13
+    was_gilt: 'Frist des Artículo segundo transitorio: Die im Gesetz vorgesehenen Reglamentos waren binnen
+      sechs Monaten nach der Veröffentlichung zu erlassen (Veröffentlichung 13.12.2024).
+
+      '
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  - datum: 2026-06-01
+    was_gilt: 'Artículo cuarto transitorio: Die erstmalige Bestellung der Direktoren des Consejo Directivo
+      der Agencia de Protección de Datos Personales hat sechs Monate vor dem Inkrafttreten zu erfolgen;
+      die Amtszeiten sind gestaffelt (zwei, vier und sechs Jahre), die Bestellung bedarf der Zustimmung
+      des Senats.
+
+      '
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  - datum: 2026-12-01
+    was_gilt: 'Die Neufassung der Ley N° 19.628 sowie die Änderungen der Ley N° 20.285 (Informationszugang)
+      und der Ley N° 19.496 (Verbraucherschutz) werden anwendbar; die Agencia de Protección de Datos Personales
+      nimmt ihre Aufsichts- und Sanktionsbefugnisse auf.
+
+      '
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  - datum: 2027-12-01
+    was_gilt: 'Ende der zwölfmonatigen Milderungsphase des Artículo sexto transitorio, in der die Agencia
+      gegenüber „empresas calificadas como de menor tamaño" statt einer Sanktion eine schriftliche Verwarnung
+      aussprechen kann.
+
+      '
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  - sektor-oeffentlich
+  - arbeit
+  regelungsschwerpunkte:
+  - 'Art. 8° bis (neue Fassung der Ley N° 19.628): „El titular de datos tiene derecho a oponerse y a no
+    ser objeto de decisiones basadas en el tratamiento automatizado de sus datos personales, incluida
+    la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente."
+    Ausnahmen bei Vertragserfüllung, ausdrücklicher Einwilligung und gesetzlicher Verpflichtung; in diesen
+    Fällen muss der Verantwortliche „el derecho a obtener una explicación, a la intervención humana, a
+    expresar su punto de vista y a solicitar la revisión de la decisión" sichern. Das ist die zentrale
+    KI-Vorschrift des chilenischen Rechts ab dem 01.12.2026.
+
+    '
+  - 'Título I (Art. 4°–11°): Betroffenenrechte — Auskunft, Berichtigung, Löschung, Widerspruch, Datenübertragbarkeit,
+    Sperrung.'
+  - 'Art. 16 bis: Gesundheitsdaten und biologisches Profil; Art. 16 ter: biometrische Daten; Art. 16 quater:
+    Kinder und Jugendliche; Art. 16 quinquies: historische, statistische und wissenschaftliche Zwecke;
+    Art. 16 sexies: Geolokalisierungsdaten.'
+  - 'Título III (Art. 17°–19°): Daten über finanzielle und wirtschaftliche Verpflichtungen — das chilenische
+    DICOM-Recht, das in der Praxis die meisten Scoring-Fälle trägt.'
+  - 'Título IV (Art. 20°–22°): Verarbeitung durch Organe der Staatsverwaltung.'
+  - 'Registro Nacional de Sanciones y Cumplimiento: öffentliches Register der verhängten Sanktionen (Art.
+    39 der neuen Fassung).'
+  - 'Artículo sexto transitorio: Verwarnung statt Geldbuße gegenüber Kleinunternehmen in den ersten zwölf
+    Monaten.'
+  - 'Artículo tercero transitorio: Das Servicio de Registro Civil e Identificación hat das nach dem geltenden
+    Art. 22 Ley 19.628 geführte Register der Datenbanken binnen 60 Tagen vor Inkrafttreten zu löschen.'
+  dokumente:
+  - datum: 2024-12-13
+    typ: endfassung
+    titel: Ley N° 21.719 — konsolidierte Fassung in LeyChile (Versionsdatum 05.02.2026)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: 'XML-Ausgabe der konsolidierten Fassung mit Versionsdatum. Die JavaScript-Oberfläche unter
+      https://www.bcn.cl/leychile/navegar?idNorma=1209272 zeigt dieselbe Fassung, ist aber für Abrufwerkzeuge
+      nicht lesbar.
+
+      '
+  offene_punkte:
+  - 'Das Versionsdatum der konsolidierten Fassung ist der 05.02.2026. Welche Norm die Ley N° 21.719 zwischen
+    ihrer Veröffentlichung und diesem Datum geändert hat, konnte nicht geklärt werden. Das ist der erste
+    Punkt, den der nächste Bearbeiter anfassen sollte, weil eine Änderung kurz vor dem Inkrafttreten auch
+    die Fristen berühren kann.
+
+    '
+  - 'Ob die nach dem Artículo segundo transitorio bis zum 13.06.2025 zu erlassenden Reglamentos tatsächlich
+    ergangen sind, konnte nicht verifiziert werden.
+
+    '
+  - 'Der Auftrag nennt „Inkrafttreten Dezember 2026“. Der Normwortlaut ergibt den 01.12.2026 (erster Tag
+    des vierundzwanzigsten Monats nach der Publikation), nicht den 13.12.2026.
+
+    '
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  - https://www.bcn.cl/leychile/navegar?idNorma=1209272
+  bezug_regelwerke:
+  - cl-ley-19628
+  - cl-ley-21096
+  - cl-ki-gesetz-entwurf
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-19628
+  jurisdiktion: cl
+  kurztitel: Altes chilenisches Datenschutzgesetz (Ley N° 19.628)
+  offizieller_titel: 'Ley N° 19.628, Sobre protección de la vida privada (Gesetz Nr. 19.628 über den Schutz
+    des Privatlebens)
+
+    '
+  fundstelle: 'Diario Oficial vom 28.08.1999; promulgiert am 18.08.1999; Ministerio Secretaría General
+    de la Presidencia. LeyChile idNorma 141599. Im Sprachgebrauch „Ley DICOM“.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Bis zum 30.11.2026 das geltende chilenische Datenschutzrecht. Es kennt keine Aufsichtsbehörde,
+    keine Bußgelder und keine Vorschrift zu automatisierten Entscheidungen; durchgesetzt wird es über
+    den Zivilrechtsweg (Art. 23: Schadensersatz) und über den Verfassungsbeschwerdeweg (recurso de protección,
+    Art. 20 der Verfassung, in Verbindung mit Art. 19 Nr. 4 in der Fassung der Ley N° 21.096). Ab dem
+    01.12.2026 wird es durch die Neufassung nach Ley N° 21.719 ersetzt.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt die Verarbeitung personenbezogener Daten durch private und öffentliche
+    Stellen. Es folgt einem Einwilligungsmodell (Art. 4), gibt den Betroffenen Auskunfts-, Berichtigungs-,
+    Lösch- und Sperrrechte (Art. 12–16), enthält ein eigenes Regime für Wirtschafts-, Finanz- und Handelsdaten
+    (Art. 17–19) und regelt die Verarbeitung durch Behörden (Art. 20–22). Für KI-Sachverhalte ist es die
+    heute maßgebliche Norm — mit der Besonderheit, dass es weder eine Rechtsgrundlage für algorithmische
+    Transparenz noch eine Behörde kennt, die sie durchsetzen könnte. Deshalb werden algorithmische Streitfälle
+    in Chile bislang über den recurso de protección und über das Verbraucherrecht geführt.
+
+    '
+  inkrafttreten:
+    datum: 1999-08-28
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=141599
+  anwendungsdaten:
+  - datum: 2026-12-01
+    was_gilt: 'Die durch Ley N° 21.719 beschlossene Neufassung tritt an die Stelle des heutigen Textes;
+      die Ley N° 19.628 bleibt als Gesetzeskörper bestehen, wird aber materiell vollständig ausgetauscht.
+
+      '
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 1–3: Grundsätze der Verarbeitung.'
+  - 'Art. 4–11: Zulässigkeit der Verarbeitung; Einwilligungsmodell.'
+  - 'Art. 12–16: Rechte der Betroffenen (Auskunft, Berichtigung, Löschung, Sperrung).'
+  - 'Art. 17–19: Wirtschafts-, Finanz- und Handelsdaten (DICOM-Regime) — praktisch der wichtigste Anwendungsbereich,
+    weil hier Scoring stattfindet.'
+  - 'Art. 20–22: Verarbeitung durch Organe der Staatsverwaltung; Art. 22 verpflichtet zur Führung eines
+    Registers der Datenbanken beim Registro Civil.'
+  - 'Art. 23: Haftung auf Schadensersatz einschließlich immateriellen Schadens — die einzige Sanktion
+    des geltenden Rechts.'
+  dokumente:
+  - datum: 1999-08-28
+    typ: konsolidiert
+    titel: Ley N° 19.628 — konsolidierte Fassung in LeyChile
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=141599
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung; maßgeblich bis zum 30.11.2026.
+  offene_punkte:
+  - Das Versionsdatum der konsolidierten Fassung wurde nicht ausgelesen und ist nachzutragen.
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=141599
+  bezug_regelwerke:
+  - cl-ley-21719
+  - cl-ley-21096
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-21096
+  jurisdiktion: cl
+  kurztitel: Verfassungsänderung Datenschutz (Ley N° 21.096)
+  offizieller_titel: 'Ley N° 21.096, Consagra el derecho a protección de los datos personales (Gesetz
+    Nr. 21.096, Verankerung des Rechts auf Schutz personenbezogener Daten)
+
+    '
+  fundstelle: 'Diario Oficial vom 16.06.2018; Ministerio Secretaría General de la Presidencia. LeyChile
+    idNorma 1119730.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Die Änderung ergänzt Art. 19 Nr. 4 der Verfassung um den Halbsatz, dass jeder
+    Person „la protección de sus datos personales“ zusteht und deren Verarbeitung in der durch Gesetz
+    bestimmten Form und unter den durch Gesetz bestimmten Bedingungen zu erfolgen hat.
+
+    '
+  kurzbeschreibung: 'Die Norm ist kurz, aber für KI-Verfahren in Chile zentral: Sie hebt den Datenschutz
+    auf Verfassungsrang und eröffnet damit den recurso de protección nach Art. 20 der Verfassung. Weil
+    die Ley N° 19.628 keine Behörde und keine Bußgelder kennt, ist der recurso de protección heute der
+    praktisch wichtigste Rechtsbehelf gegen algorithmische Datenverarbeitung, biometrische Erfassung und
+    Gesichtserkennung in Chile.
+
+    '
+  inkrafttreten:
+    datum: 2018-06-16
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1119730
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Ergänzung von Art. 19 Nr. 4 der Constitución Política: Recht auf Schutz der personenbezogenen Daten
+    mit Gesetzesvorbehalt.'
+  - Öffnet den recurso de protección (Art. 20 CPR) für Datenschutzverletzungen — der Weg, über den chilenische
+    Gerichte bislang KI- und Biometriefälle entscheiden.
+  dokumente:
+  - datum: 2018-06-16
+    typ: endfassung
+    titel: Ley N° 21.096 — konsolidierte Fassung in LeyChile
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1119730
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Verfassungsrechtliche Grundlage des chilenischen Datenschutzes.
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=1119730
+  bezug_regelwerke:
+  - cl-ley-19628
+  - cl-ley-21719
+  letzte_pruefung: 2026-09-06
+- id: pe-ley-31814
+  jurisdiktion: pe
+  kurztitel: Peruanisches KI-Gesetz (Ley N.º 31814)
+  offizieller_titel: 'Ley N.º 31814, Ley que promueve el uso de la inteligencia artificial en favor del
+    desarrollo económico y social del país (Gesetz Nr. 31814 zur Förderung der Nutzung künstlicher Intelligenz
+    zugunsten der wirtschaftlichen und sozialen Entwicklung des Landes)
+
+    '
+  fundstelle: 'Ley N.º 31814, Congreso de la República del Perú; veröffentlicht im Diario Oficial El Peruano.
+    Der amtliche Titel ist im Titel des Decreto Supremo N.º 115-2025-PCM wörtlich wiedergegeben und dort
+    verifiziert.
+
+    '
+  verfahrensnummer: Ley N.º 31814
+  status: anwendbar
+  status_detail: 'Erstes KI-Gesetz Lateinamerikas. In Kraft; seit dem Erlass der Durchführungsverordnung
+    Decreto Supremo N.º 115-2025-PCM (veröffentlicht am 09.09.2025) auch untergesetzlich ausgeformt. Das
+    Gesetz selbst ist ein Förder- und Organisationsgesetz: Es erklärt die Förderung der Nutzung von KI
+    zum nationalen Interesse, benennt Leitprinzipien und weist der Präsidialverwaltung (PCM) über die
+    Secretaría de Gobierno y Transformación Digital die Zuständigkeit zu. Es enthält KEINEN Verbotskatalog,
+    KEINE Risikoklassifizierung und KEINEN Bußgeldrahmen — diese Elemente hat erst das Reglamento von
+    2025 nachgeliefert, ohne dass ihm eine eigene Sanktionsermächtigung zur Seite stünde.
+
+    '
+  kurzbeschreibung: 'Das Gesetz erklärt die Förderung der Nutzung künstlicher Intelligenz zur Stärkung
+    der wirtschaftlichen und sozialen Entwicklung Perus zum nationalen Interesse. Es adressiert öffentliche
+    Stellen, Privatwirtschaft, Hochschulen und Zivilgesellschaft, benennt Grundsätze (unter anderem Nichtdiskriminierung,
+    Datenschutz, Schutz der Grundrechte, Sicherheit, Transparenz, menschliche Aufsicht, Nachhaltigkeit)
+    und macht die Presidencia del Consejo de Ministros über die Secretaría de Gobierno y Transformación
+    Digital zur nationalen Behörde. Sanktionen sieht das Gesetz nicht vor; wer gegen die Vorgaben verstößt,
+    wird nach dem Reglamento an die allgemeinen Behörden verwiesen — an INDECOPI (Verbraucherschutz und
+    geistiges Eigentum), an die Autoridad Nacional de Protección de Datos Personales, an die Contraloría
+    General de la República und an die Polizei (Delitos informáticos).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  - datenschutz
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Förderrechtlicher, nicht risikobasierter Ansatz: Zweck ist die Förderung der KI-Nutzung, nicht deren
+    Beschränkung.'
+  - 'Zuständige Behörde: Presidencia del Consejo de Ministros (PCM) über die Secretaría de Gobierno y
+    Transformación Digital (SGTD) — im Reglamento, Art. 8, bestätigt und ausgestaltet.'
+  - Keine eigene Sanktionsnorm. Die Durchsetzung des Reglamento läuft über Anzeigen an INDECOPI, die ANPDP,
+    die Contraloría und die Polizei (Reglamento, Art. 34 und 36).
+  - Das Gesetz ist der Anknüpfungspunkt für die Estrategia Nacional de Inteligencia Artificial (ENIA)
+    bis 2030, die nach der Cuarta Disposición Complementaria Final des Reglamento von der SGTD auszuarbeiten
+    und von der PCM zu billigen ist.
+  dokumente:
+  - datum: 2025-09-09
+    typ: konsolidiert
+    titel: 'Decreto Supremo N.º 115-2025-PCM (enthält im Titel und in den Considerandos die amtliche Bezeichnung
+      der Ley N.º 31814)
+
+      '
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Diario Oficial El Peruano / Presidencia del Consejo de Ministros
+    verifiziert: true
+    notiz: 'Ersatzbeleg. Der amtliche Titel und der Regelungsgegenstand der Ley N.º 31814 sind hier verifiziert;
+      der Volltext des Gesetzes selbst konnte in dieser Sitzung nicht abgerufen werden (siehe offene_punkte).
+
+      '
+  offene_punkte:
+  - 'NICHT VERIFIZIERT: der Volltext und das genaue Veröffentlichungsdatum der Ley N.º 31814. Gesucht
+    wurde (a) über busquedas.elperuano.pe/dispositivo/NL/<id>-1 mit rund dreißig sondierten Publikations-IDs
+    im Bereich 2189000-2200000 (die El-Peruano-IDs sind dort nicht dicht belegt; Treffer gab es nur für
+    2195300 = 13.07.2023, 2196000 = 14.07.2023, 2230511 = 01.11.2023), (b) über die Slug-Route /normaslegales/<slug>/
+    (404), (c) über die Suchpfade /search, /buscar, /buscador, /api/search (alle 404), (d) über das Archivo
+    Digital de la Legislación del Perú (www.leyes.congreso.gob.pe; die Startseiten sind abrufbar, die
+    Formularsuche ist ASP.NET-postbackgebunden, die PDF-Pfade /Documentos/2021_2026/ADLP/Normas_Legales/31814-LEY.pdf,
+    /31814.pdf und /LEY-31814.pdf antworten mit 404 bzw. Zeitüberschreitung), (e) über spij.minjus.gob.pe
+    (robots.txt nicht erreichbar) und (f) über www.gob.pe (HTTP 418). Als Quelle genannt wird als Datum
+    den 05.07.2023; dieses Datum ist hier NICHT nachgeprüft.
+
+    '
+  - 'Zu prüfen ist, ob das Gesetz seit 2023 geändert wurde (in Peru häufig durch „Ley que modifica la
+    Ley N.º 31814“).
+
+    '
+  monitoring_quellen:
+  - https://www.leyes.congreso.gob.pe/LeyNumePP.aspx?xNorma=0
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  - pe-ley-29733
+  - pe-dl-1412
+  letzte_pruefung: 2026-09-06
+- id: pe-ds-115-2025-pcm
+  jurisdiktion: pe
+  kurztitel: Reglamento des peruanischen KI-Gesetzes (DS N.º 115-2025-PCM)
+  offizieller_titel: 'Decreto Supremo N.º 115-2025-PCM, Decreto Supremo que aprueba el Reglamento de la
+    Ley N.º 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico
+    y social del país (Oberstes Dekret Nr. 115-2025-PCM zur Billigung der Durchführungsverordnung zum
+    Gesetz Nr. 31814)
+
+    '
+  fundstelle: 'Diario Oficial El Peruano vom 09.09.2025 (Publikations-ID 2436426-1); in Lima ausgefertigt
+    am 08.09.2025, unterzeichnet von der Präsidentin der Republik Dina Ercilia Boluarte Zegarra.
+
+    '
+  verfahrensnummer: Decreto Supremo N.º 115-2025-PCM
+  status: teilanwendbar
+  status_detail: 'Das Dekret hat vier Artikel, eine Disposición Complementaria Final und eine Disposición
+    Complementaria Derogatoria; das gebilligte Reglamento umfasst sechs Titel, 36 Artikel und sechs Schlussbestimmungen.
+    Die Vigencia-Regel lautet wörtlich: „El presente Decreto Supremo entra en vigencia a partir de los
+    noventa (90) días hábiles siguientes de su publicación en el diario oficial El Peruano, con excepción
+    de la Primera, Segunda, Cuarta y Quinta Disposiciones Complementarias Finales del Reglamento aprobado
+    mediante el artículo 1, las cuales entran en vigencia al día siguiente de la publicación." Die vier
+    ausgenommenen Schlussbestimmungen (Umsetzungsfahrplan, Ergänzungsnormen, ENIA, ENGD) galten also bereits
+    ab dem 10.09.2025; der Hauptteil erst nach Ablauf von 90 Werktagen. Zugleich hebt das Dekret die Resolución
+    Ministerial N.º 246-2007-PCM auf.
+
+    '
+  kurzbeschreibung: 'Das Reglamento ist der eigentliche materielle KI-Rechtsakt Perus. Es definiert künstliche
+    Intelligenz als „maschinengestütztes System, das aus erhaltenen Eingaben Vorhersagen, Inhalte oder
+    Empfehlungen ableitet, um physische oder digitale Umgebungen zu beeinflussen", legt zehn Leitprinzipien
+    fest und errichtet eine Governance-Struktur mit der SGTD/PCM als nationaler Behörde und einem Centro
+    Nacional de Innovación en Inteligencia Artificial. Kern ist Titel V: Art. 23 verbietet bestimmte Nutzungen,
+    Art. 24 benennt Hochrisikonutzungen, Art. 25 verlangt Transparenz und eine sichtbare Kennzeichnung
+    KI-gestützter Produkte und Dienste, Art. 26 verweist auf die Ley N.º 29733. Titel VI unterscheidet
+    Pflichten des öffentlichen Sektors (Art. 28-30, unter anderem eine institutionelle KI-Richtlinie nach
+    NTP-ISO/IEC 42001:2025, Veröffentlichung des Quellcodes auf der PNSSP, menschliche Aufsicht bei Hochrisikoentscheidungen
+    und eine Folgenabschätzung vor der Inbetriebnahme) von denen des Privatsektors (Art. 31-33, unter
+    anderem ein Register über Funktionsweise, Datenquellen und Algorithmuslogik und eine freiwillige Folgenabschätzung
+    mit dreijähriger Aufbewahrungspflicht). Sanktionen enthält das Reglamento nicht; Art. 34 bis 36 regeln
+    stattdessen Monitoring durch die SGTD, Anzeige an die Contraloría General de la República und einen
+    Bürgerbeschwerdekanal unter www.gob.pe/iaperu mit Verweisung an INDECOPI, die Cybercrime-Abteilung
+    und die Autoridad Nacional de Protección de Datos Personales.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-20
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  anwendungsdaten:
+  - datum: 2025-09-10
+    was_gilt: 'Erste, Zweite, Vierte und Fünfte Disposición Complementaria Final des Reglamento treten
+      in Kraft (Umsetzungsfahrplan, Ermächtigung der SGTD zu Ergänzungsnormen, Auftrag zur Estrategia
+      Nacional de Inteligencia Artificial bis 2030, Auftrag zur Estrategia Nacional de Gobierno de Datos).
+
+      '
+    verifiziert: true
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  - datum: 2026-01-20
+    was_gilt: 'Der übrige Teil des Dekrets und des Reglamento tritt in Kraft (90 días hábiles nach der
+      Veröffentlichung). BERECHNET, NICHT AMTLICH BESTÄTIGT: 90 Werktage ab dem 10.09.2025 ergeben ohne
+      Berücksichtigung von Feiertagen den 13.01.2026, unter Berücksichtigung der peruanischen Feiertage
+      08.10.2025, 01.11.2025, 08.12.2025, 09.12.2025, 25.12.2025 und 01.01.2026 den 20.01.2026.
+
+      '
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - arbeit
+  - content
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Art. 23 (Verbotene Nutzungen): manipulative oder täuschende Beeinflussung von Entscheidungen; autonome
+    tödliche Wirkung ohne menschliche Aufsicht; Massenüberwachung ohne Rechtsgrundlage; Diskriminierung
+    anhand sensibler Merkmale (Rasse, Religion, Sexualität); Gesichtserkennung in Echtzeit im öffentlichen
+    Raum, mit Ausnahmen für Authentifizierung und für die Ermittlung schwerer Straftaten. Leitsatz: Systeme
+    mit irreversiblen, erheblichen und negativen Auswirkungen auf Grundrechte sind verboten.
+
+    '
+  - 'Art. 24 (Hochrisikonutzungen): kritische nationale Infrastruktur; Bewertung von Schülerinnen und
+    Schülern ohne menschliche Validierung; Personalauswahl und Kündigungen; Sozialleistungsprogramme;
+    Kreditvergabe (außer Betrugserkennung); Gesundheitsentscheidungen; Emotionserkennung am Arbeitsplatz.
+
+    '
+  - 'Art. 25 (Transparenz und Kennzeichnung): vorherige Information über Zweck, Funktionen und Entscheidungsarten;
+    bei Grundrechtsbetroffenheit eine Erklärungspflicht; sichtbare Kennzeichnung, dass ein Produkt oder
+    ein Dienst KI-gestützt ist, mit Ausnahmen für interne Verwaltungsprozesse.
+
+    '
+  - 'Art. 26: Verweis auf die Ley N.º 29733 (Datenschutz). Art. 27: Ethik, diverse Entwicklungsteams,
+    Bias-Vermeidung, Umweltauswirkungen.'
+  - 'Art. 28-30 (öffentliche Stellen): institutionelle KI-Richtlinie auf Grundlage der NTP-ISO/IEC 42001:2025;
+    multidisziplinäre Teams; Veröffentlichung des Quellcodes auf der Plataforma Nacional de Software Público
+    (PNSSP) unter transparenter Lizenz; Schulung des Personals mit der Fähigkeit, ein System anzuhalten;
+    menschliche Aufsicht bei Hochrisikoentscheidungen; Risikomanagement, Privacy by Design, Sicherheitsaudits
+    vor und während des Betriebs, Vorfallmanagement; Folgenabschätzung vor Einführung eines Hochrisikosystems.
+
+    '
+  - 'Art. 31-33 (Privatsektor): Register über Funktionsweise, Datenquellen und Algorithmuslogik; klare
+    Richtlinien zu Sicherheit, Transparenz und Verantwortung; Schulung; menschliche Aufsicht bei Hochrisikosystemen;
+    freiwillige Folgenabschätzung mit Dokumentation und mindestens dreijähriger Aufbewahrung; Bezugnahme
+    auf NTP-ISO/IEC 27002:2022, NTP-ISO/IEC 42001:2025 und ISO/IEC 23053:2022.
+
+    '
+  - 'Art. 34-36 (Aufsicht): Die SGTD überwacht Umsetzung, Entwicklung und Einsatz verbotener und hochriskanter
+    Systeme, fordert Auskünfte an, arbeitet mit CSIRT-Teams zusammen und meldet Verstöße der Contraloría
+    General de la República; Bürgerinnen und Bürger können sich über www.gob.pe/iaperu beschweren und
+    werden an INDECOPI, die Cybercrime-Abteilung und die ANPDP verwiesen.
+
+    '
+  - 'Sechste Disposición Complementaria Final: Für öffentliche Stellen sind die jeweils geltenden NTP-ISO/IEC
+    27002 und NTP-ISO 31000 verbindlich.
+
+    '
+  - 'Zweite Disposición Complementaria Final: Die SGTD erlässt Durchführungsnormen durch Resolución Secretarial;
+    Ethik-Leitlinien binnen 180 Werktagen.
+
+    '
+  - 'Derogatoria: Aufhebung der Resolución Ministerial N.º 246-2007-PCM.'
+  dokumente:
+  - datum: 2025-09-09
+    typ: endfassung
+    titel: 'Decreto Supremo N.º 115-2025-PCM — Volltext im Diario Oficial El Peruano
+
+      '
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: 'Amtlicher Volltext. Enthält das Dekret, das vollständige Reglamento mit sechs Titeln und 36
+      Artikeln und die sechs Disposiciones Complementarias Finales.
+
+      '
+  offene_punkte:
+  - 'Das genaue Datum des Inkrafttretens (90 días hábiles) ist berechnet, nicht amtlich belegt. Peru zählt
+    die días hábiles ohne Samstage, Sonntage und die im Decreto Legislativo N.º 713 bzw. durch Sondergesetz
+    bestimmten Feiertage; für 2025 kamen zusätzliche nichtarbeitsfreie Tage des öffentlichen Sektors hinzu,
+    die die Zählung verschieben können. Zu verifizieren an einer amtlichen Verlautbarung der SGTD.
+
+    '
+  - 'Ob die nach der Zweiten Disposición Complementaria Final binnen 180 Werktagen zu erlassenden Ethik-Leitlinien
+    der SGTD ergangen sind und ob die Estrategia Nacional de Inteligencia Artificial (ENIA) sowie die
+    Estrategia Nacional de Gobierno de Datos (ENGD) binnen eines Jahres gebilligt wurden, konnte nicht
+    geprüft werden — die Seiten der SGTD liegen auf www.gob.pe und waren nicht abrufbar.
+
+    '
+  - 'Das Reglamento enthält Verbote und Hochrisikokategorien, aber keine Sanktion. Ob eine Verordnung
+    ohne gesetzliche Sanktionsermächtigung Verbote dieser Reichweite tragen kann, ist die zentrale offene
+    Rechtsfrage des peruanischen KI-Rechts; die Ley N.º 31814 enthält keine entsprechende Ermächtigung.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  - https://www.gob.pe/iaperu
+  bezug_regelwerke:
+  - pe-ley-31814
+  - pe-ley-29733
+  - pe-dl-1412
+  - pe-du-006-2020
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-21663
+  jurisdiktion: cl
+  kurztitel: Chilenisches Cybersicherheitsrahmengesetz (Ley N° 21.663)
+  offizieller_titel: 'Ley N° 21.663, Ley Marco de Ciberseguridad e Infraestructura Crítica de la Información
+    (Rahmengesetz Nr. 21.663 über Cybersicherheit und kritische Informationsinfrastruktur)
+
+    '
+  fundstelle: 'Diario Oficial de la República de Chile Nr. 43.820 vom 08.04.2024, Abschnitt 01, CVE 2475674.
+    LeyChile idNorma 1202434.
+
+    '
+  verfahrensnummer: Boletín N° 14847-06 (Mensaje, Senado, eingebracht 15.03.2022)
+  status: anwendbar
+  status_detail: 'Verkündet und im Diario Oficial vom 08.04.2024 veröffentlicht. Nach der Selbstdarstellung
+    der durch das Gesetz errichteten Agencia Nacional de Ciberseguridad (ANCI) verfolgt es drei Ziele:
+    die institutionelle Ordnung, die Grundsätze und die Normen der Cybersicherheit für die Staatsverwaltung
+    zu bestimmen, Mindestanforderungen an die Bewältigung von Sicherheitsvorfällen festzulegen und Pflichten
+    für staatliche Stellen und private Betreiber kritischer Infrastruktur zu begründen.
+
+    '
+  kurzbeschreibung: 'Das Gesetz errichtet die Agencia Nacional de Ciberseguridad als Aufsichtsbehörde,
+    definiert „servicios esenciales“ und „operadores de importancia vital" und verpflichtet diese zu Risikomanagement,
+    Sicherheitsmaßnahmen und zur Meldung erheblicher Sicherheitsvorfälle. Für KI ist es aus zwei Gründen
+    einschlägig: Erstens fallen KI-gestützte Systeme, die essenzielle Dienste tragen, unter die Pflichtenordnung;
+    zweitens ist die ANCI neben der künftigen Datenschutzbehörde die einzige chilenische Behörde mit technischer
+    Aufsichtskompetenz über algorithmische Systeme — sie ist im KI-Gesetzentwurf aber gerade NICHT als
+    KI-Aufsicht vorgesehen.
+
+    '
+  inkrafttreten:
+    datum: 2024-04-08
+    verifiziert: true
+    quelle: https://www.diariooficial.interior.gob.cl/publicaciones/2024/04/08/43820/01/2475674.pdf
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Errichtung der Agencia Nacional de Ciberseguridad (ANCI) als Aufsichts- und Koordinierungsbehörde.
+  - Kategorie der „operadores de importancia vital“ mit erhöhten Pflichten; Kategorie der „servicios esenciales“.
+  - Meldepflicht bei erheblichen Sicherheitsvorfällen; Mindestanforderungen an die Vorfallbewältigung.
+  - Anwendbar auf Organe der Staatsverwaltung und auf private Betreiber kritischer Informationsinfrastruktur.
+  dokumente:
+  - datum: 2024-04-08
+    typ: endfassung
+    titel: Ley N° 21.663 — Veröffentlichung im Diario Oficial (PDF, CVE 2475674)
+    url: https://www.diariooficial.interior.gob.cl/publicaciones/2024/04/08/43820/01/2475674.pdf
+    sprache: es
+    urheber: Diario Oficial de la República de Chile
+    verifiziert: false
+    notiz: 'Die URL ist von der amtlichen Seite der ANCI übernommen und dort verifiziert; der Abruf des
+      PDF selbst war in dieser Sitzung nicht möglich, weil diariooficial.interior.gob.cl das Abrufwerkzeug
+      über robots.txt sperrt.
+
+      '
+  - datum: 2024-04-08
+    typ: konsolidiert
+    titel: Ley N° 21.663 — konsolidierte Fassung in LeyChile (idNorma 1202434)
+    url: https://www.bcn.cl/leychile/navegar?idNorma=1202434
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: 'Die idNorma 1202434 ist von der amtlichen ANCI-Seite übernommen und stimmt mit dem in dieser
+      Sitzung sondierten Publikationsdatum (08.04.2024) überein. Der XML-Volltext unter https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1202434
+      war am Ende der Sitzung wegen anhaltender HTTP-429-Antworten des BCN-Dienstes nicht mehr abrufbar.
+
+      '
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Normativa der Agencia Nacional de Ciberseguridad zur Ley Marco
+    url: https://anci.gob.cl/normativa/ley-marco-ciberseguridad/
+    sprache: es
+    urheber: Agencia Nacional de Ciberseguridad (ANCI)
+    verifiziert: true
+    notiz: Amtliche Seite der Aufsichtsbehörde mit den Links auf Gesetzestext und Diario Oficial.
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Tramitación des Boletín 14847 (XML-Webdienst des Senats)
+    url: https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=14847
+    sprache: es
+    urheber: Senado de la República de Chile
+    verifiziert: true
+    notiz: 'Vollständiger Verfahrensgang: Eingang 15.03.2022, Annahme in genere im Senat 18.10.2022, Übermittlung
+      an die Cámara 26.04.2023, Annahme in genere in der Cámara 12.12.2023, Übermittlung an die Exekutive
+      14.12.2023, Mitteilung der Exekutive zum Verzicht auf Art. 73 CPR am 19.12.2023, Publikation 08.04.2024.
+
+      '
+  offene_punkte:
+  - 'Sanktionsrahmen, Meldefristen und die Durchführungsverordnungen (Reglamentos) der Ley N° 21.663 konnten
+    nicht verifiziert werden: Die ANCI-Seite nennt sie nicht, der LeyChile-Dienst war am Ende der Sitzung
+    durch HTTP 429 gesperrt und das Diario Oficial sperrt das Abrufwerkzeug.
+
+    '
+  - 'Zu klären ist das Verhältnis zwischen ANCI und der im KI-Gesetzentwurf vorgesehenen Aufsicht durch
+    die Agencia de Protección de Datos Personales. Bei KI-Systemen in kritischer Infrastruktur überschneiden
+    sich beide Zuständigkeiten.
+
+    '
+  monitoring_quellen:
+  - https://anci.gob.cl/normativa/ley-marco-ciberseguridad/
+  - https://www.bcn.cl/leychile/navegar?idNorma=1202434
+  bezug_regelwerke:
+  - cl-ley-21459
+  - cl-ki-gesetz-entwurf
+  - cl-ley-21719
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-21459
+  jurisdiktion: cl
+  kurztitel: Chilenisches Computerstrafrecht (Ley N° 21.459)
+  offizieller_titel: 'Ley N° 21.459, Establece normas sobre delitos informáticos, deroga la ley N° 19.223
+    y modifica otros cuerpos legales con el objeto de adecuarlos al Convenio de Budapest (Gesetz Nr. 21.459
+    über Computerstraftaten, Aufhebung des Gesetzes Nr. 19.223 und Anpassung weiterer Gesetze an das Budapester
+    Übereinkommen)
+
+    '
+  fundstelle: 'Diario Oficial de la República de Chile Nr. 43.283 vom 20.06.2022; promulgiert am 09.06.2022;
+    Ministerio de Justicia y Derechos Humanos. LeyChile idNorma 1177743.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 2022. Das Gesetz ist die strafrechtliche Auffangebene für KI-Sachverhalte
+    in Chile: Es erfasst den durch Datenmanipulation begangenen Betrug (Art. 7 fraude informático), die
+    Datenfälschung (Art. 5 falsificación informática) und den Missbrauch von Werkzeugen (Art. 8), enthält
+    aber KEINEN eigenen Deepfake- oder Identitätsmissbrauchstatbestand.
+
+    '
+  kurzbeschreibung: 'Das Gesetz setzt das Budapester Übereinkommen um und schafft acht Straftatbestände.
+    Für KI sind vor allem drei bedeutsam: Art. 5 (falsificación informática — Einführen oder Verändern
+    von Daten mit der Absicht, dass sie als echt genommen werden; qualifiziert bei Amtsträgern), Art.
+    7 (fraude informático — Manipulation eines informatischen Systems zur Erlangung eines Vermögensvorteils
+    unter Schädigung eines anderen, mit vier nach der Schadenshöhe gestaffelten Strafrahmen) und Art.
+    8 (Abgabe, Beschaffung, Einfuhr oder Verbreitung von Vorrichtungen, Programmen, Passwörtern oder Codes,
+    die vorwiegend zur Begehung der Taten geschaffen wurden). Art. 2 enthält eine Verantwortungsausnahme
+    für registrierte Cybersicherheitsfachleute unter sieben Bedingungen. Art. 12 erlaubt verdeckte Online-Ermittlungen
+    unter Richtervorbehalt, Art. 14 regelt die Sicherung elektronischer Beweismittel nach Weisung des
+    Fiscal Nacional.
+
+    '
+  inkrafttreten:
+    datum: 2022-06-20
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1177743
+  themenachsen:
+  - content
+  - sicherheit-export
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 1: Angriff auf die Systemintegrität (presidio menor en sus grados medio a máximo).'
+  - 'Art. 2: Unbefugter Zugang; Verantwortungsausnahme für registrierte Cybersicherheitsfachleute unter
+    sieben Bedingungen.'
+  - 'Art. 3: Unbefugtes Abfangen, auch durch Erfassung elektromagnetischer Abstrahlung.'
+  - 'Art. 4: Angriff auf die Datenintegrität, wenn ein schwerer Schaden entsteht.'
+  - 'Art. 5: Datenfälschung — Einführen oder Verändern von Daten mit der Absicht, dass sie als echt genommen
+    werden. Das ist die Norm, unter der manipulierte KI-Ausgaben in Chile strafrechtlich erfasst werden
+    können, solange kein eigener Deepfake-Tatbestand besteht.
+
+    '
+  - 'Art. 6: Hehlerei an rechtswidrig erlangten Daten; Strafe des Grunddelikts, um einen Grad gemildert.'
+  - 'Art. 7: Computerbetrug mit vier nach dem Schaden gestaffelten Strafrahmen (bis 4 UTM; 4 bis 40 UTM;
+    über 40 UTM; über 400 UTM).
+
+    '
+  - 'Art. 8: Missbrauch von Vorrichtungen und Programmen.'
+  - 'Art. 12: verdeckte Online-Ermittlungen unter Richtervorbehalt mit Strafausschluss für notwendige
+    Begleittaten. Art. 14: Sicherung elektronischer Beweismittel.'
+  dokumente:
+  - datum: 2022-06-20
+    typ: konsolidiert
+    titel: Ley N° 21.459 — konsolidierte Fassung in LeyChile
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1177743
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: XML-Volltext mit allen Straftatbeständen und Strafrahmen.
+  offene_punkte:
+  - 'Das Versionsdatum der konsolidierten Fassung wurde vom Abrufwerkzeug als „2. Februar 2222“ wiedergegeben
+    — ein offensichtlicher Lesefehler. Der Wert ist am XML nachzuprüfen.
+
+    '
+  - 'Chile hat KEINEN eigenen Deepfake-Straftatbestand. Ob ein solcher im Verfahren ist, konnte ohne Suchmaschine
+    nicht geklärt werden.
+
+    '
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=1177743
+  bezug_regelwerke:
+  - cl-ley-21663
+  - cl-ley-21719
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-17336
+  jurisdiktion: cl
+  kurztitel: Chilenisches Urheberrechtsgesetz (Ley N° 17.336)
+  offizieller_titel: 'Ley N° 17.336, Propiedad intelectual (Gesetz Nr. 17.336 über geistiges Eigentum)
+
+    '
+  fundstelle: 'Diario Oficial vom 02.10.1970; promulgiert am 28.08.1970; Ministerio de Educación Pública.
+    LeyChile idNorma 28933.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes chilenisches Urheberrecht. Es enthält KEINE Vorschrift zu computergenerierten
+    Werken und KEINE Text- und Data-Mining-Ausnahme. Computerprogramme sind nach Art. 3 Nr. 16 geschützt;
+    Art. 8 weist die Rechte an Computerprogrammen, die Beschäftigte in Ausübung ihrer Tätigkeit schaffen,
+    den natürlichen oder juristischen Personen zu, für die sie tätig sind. Für KI-Training gibt es damit
+    weder eine ausdrückliche Erlaubnis noch ein ausdrückliches Verbot.
+
+    '
+  kurzbeschreibung: 'Das Gesetz schützt die Rechte, die Urheber allein durch die Schöpfung des Werkes
+    erwerben (Art. 1), zählt in Art. 3 die geschützten Werkarten auf (Nr. 16: programas computacionales)
+    und regelt in Art. 8 die Urheberschaftsvermutung mit der besonderen Zuweisung für Computerprogramme.
+    Die Schrankenregelungen stehen in den Art. 71 A ff., die durch die Ley N° 20.435 von 2010 eingefügt
+    wurden; eine Schranke für Text- und Data-Mining ist darunter nicht. Für Chile bedeutet das: Das Training
+    generativer Modelle an geschützten Werken ist weder erlaubt noch ausdrücklich untersagt, und die Frage
+    der Urheberschaft an KI-Ausgaben ist gesetzlich nicht geregelt.
+
+    '
+  inkrafttreten:
+    datum: 1970-10-02
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=28933
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - 'Art. 1: Schutz kraft Schöpfung, ohne Registrierungserfordernis.'
+  - 'Art. 3 Nr. 16: Computerprogramme als geschützte Werkart.'
+  - 'Art. 8: Urheberschaftsvermutung; Sonderregel für Computerprogramme, die Beschäftigte in Ausübung
+    ihrer Tätigkeit schaffen.'
+  - 'Art. 71 A ff. (eingefügt durch Ley N° 20.435 von 2010): Schrankenkatalog. Keine Text- und Data-Mining-Schranke.'
+  - Keine Vorschrift zu computergenerierten oder KI-erzeugten Werken.
+  dokumente:
+  - datum: 1970-10-02
+    typ: konsolidiert
+    titel: Ley N° 17.336 — konsolidierte Fassung in LeyChile
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=28933
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: 'Der XML-Abruf lieferte den Text bis Art. 69; der Abschnitt mit den Schranken (Art. 71 A ff.)
+      war in der Ausgabe des Abrufwerkzeugs abgeschnitten. Das Versionsdatum wurde als 03.11.2017 wiedergegeben
+      und ist nachzuprüfen.
+
+      '
+  offene_punkte:
+  - 'Der Schrankenkatalog der Art. 71 A bis 71 S konnte nicht im Wortlaut ausgelesen werden (Abschneiden
+    der Werkzeugausgabe). Für die Trainingsdatenfrage ist genau dieser Abschnitt maßgeblich.
+
+    '
+  - 'Das genannte Versionsdatum 03.11.2017 erscheint zu alt; Chile hat das Urheberrecht seither mehrfach
+    geändert. Nachzuprüfen.
+
+    '
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=28933
+  bezug_regelwerke:
+  - cl-ki-gesetz-entwurf
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-19880
+  jurisdiktion: cl
+  kurztitel: Chilenisches Verwaltungsverfahrensgesetz (Ley N° 19.880)
+  offizieller_titel: 'Ley N° 19.880, Establece bases de los procedimientos administrativos que rigen los
+    actos de los órganos de la Administración del Estado (Gesetz Nr. 19.880 über die Grundlagen der Verwaltungsverfahren,
+    die für die Akte der Organe der Staatsverwaltung gelten)
+
+    '
+  fundstelle: 'Diario Oficial vom 29.05.2003; promulgiert am 22.05.2003; Ministerio Secretaría General
+    de la Presidencia. LeyChile idNorma 210676. Konsolidierte Fassung mit Versionsdatum 05.02.2026.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft, seit der Ley N° 21.180 in weiten Teilen auf elektronische Verfahren umgestellt.
+    Art. 5 lautet in der geltenden Fassung, das Verfahren werde „por escrito a través de medios electrónicos“
+    geführt, soweit das Gesetz nichts anderes bestimmt; Art. 18 macht die elektronische Akte zur Regel,
+    Art. 19 unterwirft die elektronischen Plattformen Standards für Sicherheit, Interoperabilität, Verbindung
+    und Cybersicherheit. Eine ausdrückliche Vorschrift über automatisierte Entscheidungen enthält das
+    Gesetz NICHT.
+
+    '
+  kurzbeschreibung: 'Das Gesetz ist die zentrale Norm, an der in Chile automatisierte Verwaltungsentscheidungen
+    zu messen sind — nicht weil es sie regelt, sondern weil es sie an die allgemeinen Anforderungen bindet:
+    Art. 11 verlangt, dass die Gründe „siempre“ in jenen Akten auszudrücken sind, die Rechte Privater
+    berühren; Art. 16 verpflichtet auf Transparenz, „de manera que permita y promueva el conocimiento,
+    contenidos y fundamentos de las decisiones"; Art. 41 verlangt, dass die Endentscheidung begründet
+    ist und die statthaften Rechtsbehelfe nennt. Wer eine Verwaltungsentscheidung algorithmisch vorbereitet,
+    muss sie danach so begründen können, dass die Gründe nachvollziehbar sind. Das ist in Chile die praktisch
+    wichtigste Rechtsgrundlage gegen intransparente Verwaltungsalgorithmen.
+
+    '
+  inkrafttreten:
+    datum: 2003-05-29
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=210676
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 5: Schriftlichkeit über elektronische Mittel als Regelform des Verfahrens.'
+  - 'Art. 11: Unparteilichkeit und Begründungspflicht — „los fundamentos deberán siempre expresarse en
+    aquellos actos que afectaren los derechos de los particulares“.'
+  - 'Art. 16: Transparenzgrundsatz mit dem Gebot, Kenntnis von Inhalt UND Gründen der Entscheidungen zu
+    ermöglichen und zu fördern.'
+  - 'Art. 18: elektronische Akte als Regel. Art. 19: Standards für Sicherheit, Interoperabilität, Verbindung
+    und Cybersicherheit der Plattformen.'
+  - 'Art. 41: Inhalt der Endentscheidung — „contendrán la decisión, que será fundada“ und Nennung der
+    Rechtsbehelfe.'
+  - KEINE ausdrückliche Vorschrift über automatisierte Einzelentscheidungen. Die Lücke schließt ab dem
+    01.12.2026 Art. 8° bis der Ley N° 19.628 in der Fassung der Ley N° 21.719.
+  dokumente:
+  - datum: 2003-05-29
+    typ: konsolidiert
+    titel: Ley N° 19.880 — konsolidierte Fassung in LeyChile (Versionsdatum 05.02.2026)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=210676
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Fassung mit den durch Ley N° 21.180 eingefügten elektronischen Verfahrensvorschriften.
+  offene_punkte:
+  - 'Sowohl die Ley N° 19.880 als auch die Ley N° 21.719 tragen in LeyChile dasselbe Versionsdatum 05.02.2026.
+    Welche Norm am 05.02.2026 in Kraft trat und beide Gesetze änderte, ist offen und zuerst zu klären.
+
+    '
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=210676
+  bezug_regelwerke:
+  - cl-ley-21180
+  - cl-ley-21719
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-21180
+  jurisdiktion: cl
+  kurztitel: Digitale Transformation des Staates (Ley N° 21.180)
+  offizieller_titel: 'Ley N° 21.180, Transformación digital del Estado (Gesetz Nr. 21.180 über die digitale
+    Transformation des Staates)
+
+    '
+  fundstelle: 'Diario Oficial de la República de Chile Nr. 42.499 vom 11.11.2019; promulgiert am 25.10.2019;
+    Ministerio Secretaría General de la Presidencia. LeyChile idNorma 1138479.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Das Gesetz ändert die Ley N° 19.880 und stellt das Verwaltungsverfahren auf
+    elektronische Dokumente, elektronische Akten und elektronische Signatur um. Es sieht ein gestaffeltes
+    Inkrafttreten nach Behördengruppen vor, das mehrfach verlängert wurde; die genauen Stufen konnten
+    nicht ausgelesen werden.
+
+    '
+  kurzbeschreibung: 'Die Ley N° 21.180 ist die Grundlage der digitalen Verwaltung in Chile. Sie macht
+    das elektronische Verfahren zum Regelfall, führt die elektronische Akte ein und verpflichtet die Behörden
+    zu Interoperabilität. Für KI ist sie der Rahmen, in dem Verwaltungsalgorithmen überhaupt eingesetzt
+    werden: Wo das Verfahren elektronisch geführt wird, entsteht die Datengrundlage für automatisierte
+    Vorentscheidungen; die materiellen Grenzen (Begründung, Transparenz, Rechtsbehelf) bleiben die der
+    Ley N° 19.880.
+
+    '
+  inkrafttreten:
+    datum: 2019-11-11
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1138479
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Umstellung der Ley N° 19.880 auf elektronische Dokumente, elektronische Akte und elektronische Signatur.
+  - Gestaffeltes Inkrafttreten nach Behördengruppen ( nicht im Einzelnen verifiziert).
+  - Interoperabilitätspflichten zwischen den Organen der Staatsverwaltung.
+  dokumente:
+  - datum: 2019-11-11
+    typ: konsolidiert
+    titel: Ley N° 21.180 — konsolidierte Fassung in LeyChile
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1138479
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Titel, Nummer, Promulgations- und Publikationsdatum sowie die Diario-Oficial-Nummer 42.499
+      sind hier verifiziert.
+  offene_punkte:
+  - 'Die gestaffelten Inkrafttretensdaten und ihre Verlängerungen (unter anderem durch die Ley N° 21.464)
+    konnten wegen der HTTP-429-Sperre des BCN-Dienstes am Ende der Sitzung nicht ausgelesen werden. Sie
+    gehören in die Fristenliste.
+
+    '
+  - Der Reglamento zur Ley N° 21.180 (Decreto Supremo des MINSEGPRES) ist nachzutragen.
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=1138479
+  bezug_regelwerke:
+  - cl-ley-19880
+  letzte_pruefung: 2026-09-06
+- id: cl-politica-ia
+  jurisdiktion: cl
+  kurztitel: Política Nacional de Inteligencia Artificial (Chile)
+  offizieller_titel: 'Política Nacional de Inteligencia Artificial (Nationale Politik für künstliche Intelligenz),
+    nebst Plan de Acción
+
+    '
+  fundstelle: 'Ministerio de Ciencia, Tecnología, Conocimiento e Innovación. Erste Fassung 2021; aktualisierte
+    Fassung am 02.05.2024 im Patio de Las Camelias des Palacio de La Moneda von Ministerin Aisén Etcheverry
+    vorgestellt.
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Kein Rechtsakt, sondern eine Regierungspolitik ohne Bindungswirkung. Die Fassung von
+    2021 beruhte auf einem partizipativen Prozess 2019/2020 und gliederte sich in drei Achsen (Factores
+    Habilitantes; Desarrollo y Adopción; Gobernanza y Ética). 2023 wurde wegen der Entwicklung generativer
+    Systeme die dritte Achse (Gobernanza y Ética) überarbeitet; 2024 erschien ein Ergebnisbericht. Die
+    am 02.05.2024 vorgestellte aktualisierte Politik umfasst 177 Maßnahmen, von denen 100 bis 2026 umgesetzt
+    werden sollen, und wird von 14 Ministerien getragen. Fünf neue Themen kamen hinzu: internationale
+    Zusammenarbeit, Klimaschutz, Inklusion, Kinder und Jugendliche, Kultur.
+
+    '
+  kurzbeschreibung: 'Die Politik ist der politische Rahmen, in dem der chilenische KI-Gesetzentwurf steht.
+    Sie ordnet die KI-Politik heute fünf Achsen zu: Regulierung und Governance (dort steht das Gesetzgebungsvorhaben),
+    Infrastruktur (Supercomputing und Rechenzentren), internationale Zusammenarbeit (OECD, Vereinte Nationen,
+    regionale Zusammenarbeit), Ausbildung und Fähigkeiten sowie Anwendung und Entwicklung im Staat (Gesundheit,
+    Verkehr, Landwirtschaft). Ergänzend nennt das Wissenschaftsministerium eine „Circular de IA“ für den
+    verantwortlichen Einsatz künstlicher Intelligenz in den öffentlichen Diensten.
+
+    '
+  inkrafttreten:
+    datum: 2021-10-01
+    verifiziert: false
+    quelle: https://www.minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/
+  anwendungsdaten:
+  - datum: 2024-05-02
+    was_gilt: Vorstellung der aktualisierten Política Nacional de Inteligencia Artificial mit 177 Maßnahmen
+      und dem Plan de Acción.
+    verifiziert: true
+    quelle: https://www.minciencia.gob.cl/noticias/con-mas-de-100-acciones-comprometidas-para-2026-ministra-de-ciencia-presenta-nueva-politica-de-inteligencia-artificial/
+  - datum: 2026-12-31
+    was_gilt: Zielhorizont für 100 der 177 Maßnahmen des Plan de Acción.
+    verifiziert: true
+    quelle: https://www.minciencia.gob.cl/noticias/con-mas-de-100-acciones-comprometidas-para-2026-ministra-de-ciencia-presenta-nueva-politica-de-inteligencia-artificial/
+  themenachsen:
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Fünf Achsen: Regulación y Gobernanza; Infraestructura; Cooperación Internacional; Formación y Capacidades;
+    Usos y desarrollo en el Estado.'
+  - 177 Maßnahmen, koordiniert von 14 Ministerien; 100 Maßnahmen bis 2026.
+  - Überarbeitung der Achse Gobernanza y Ética 2023 wegen generativer KI, Ergebnisbericht 2024.
+  - „Circular de IA“ für den verantwortlichen KI-Einsatz in den öffentlichen Diensten — vom Ministerium
+    genannt, nicht auffindbar.
+  dokumente:
+  - datum: 2024-05-02
+    typ: pressemitteilung
+    titel: '„Con más de 100 acciones comprometidas para 2026, ministra de Ciencia presenta nueva Política
+      de Inteligencia Artificial"
+
+      '
+    url: https://www.minciencia.gob.cl/noticias/con-mas-de-100-acciones-comprometidas-para-2026-ministra-de-ciencia-presenta-nueva-politica-de-inteligencia-artificial/
+    sprache: es
+    urheber: Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+    verifiziert: true
+    notiz: Amtliche Verlautbarung mit Datum, Zahl der Maßnahmen und den Dokumentlinks.
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Política Nacional de Inteligencia Artificial — Themenseite des Wissenschaftsministeriums
+    url: https://www.minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/
+    sprache: es
+    urheber: Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+    verifiziert: true
+    notiz: 'Amtliche Einstiegsseite. Die verlinkten Volltexte (Política, Plan de Acción, Informe de Resultados
+      2024, aktualisierte Governance-Achse) liegen auf Google Drive und nicht auf einem Regierungsserver
+      — für eine amtliche Zitierung ein Mangel, der hier vermerkt wird.
+
+      '
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Themenseite Inteligencia Artificial des Wissenschaftsministeriums (fünf Achsen, Circular de
+      IA)
+    url: https://www.minciencia.gob.cl/areas/inteligencia-artificial/Inteligencia-Artificial/
+    sprache: es
+    urheber: Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+    verifiziert: true
+    notiz: Nennt die fünf Achsen und die Circular de IA für den öffentlichen Dienst.
+  offene_punkte:
+  - 'Die „Circular de IA“ für den öffentlichen Dienst ist auf der amtlichen Seite genannt, aber nicht
+    verlinkt. Ihre Fundstelle, ihr Datum und ihr Urheber (Wissenschaftsministerium oder MINSEGPRES) sind
+    zu klären. Sie wäre das einzige verbindlichere KI-Instrument, das in Chile heute schon gilt.
+
+    '
+  - 'Die amtlichen Volltexte der Politik liegen auf Google Drive (drive.google.com/file/d/11OLxLp8NyKgpeRFLe45X0zStY7SFEJIC,
+    .../1YhKNO8zFyHnqN8FuiPinB22KKVXmplQp, .../1feyZ3GSPyxKXEEvi9aVZA9jS6aHdC-96, .../1zwzbpEbh8EhE1bzbNrMYEuewc4p785G1,
+    .../1_OBKuSUgvbbGv-FGuTHy8mISHaozsv2O). Sie sind über die amtliche Ministeriumsseite verlinkt, aber
+    nicht auf einem amtlichen Server gehostet; sie sind hier deshalb NICHT als amtliche Fundstelle eingetragen.
+
+    '
+  - Das genaue Datum der Erstfassung 2021 ist nicht verifiziert.
+  monitoring_quellen:
+  - https://www.minciencia.gob.cl/areas/inteligencia-artificial/Inteligencia-Artificial/
+  - https://www.minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/
+  bezug_regelwerke:
+  - cl-ki-gesetz-entwurf
+  letzte_pruefung: 2026-09-06
+- id: cl-strafrecht-ki-entwurf
+  jurisdiktion: cl
+  kurztitel: Chilenischer Entwurf zum Missbrauch von KI im Strafrecht (Boletín 15935-07)
+  offizieller_titel: 'Proyecto de ley que modifica el Código Penal para sancionar el mal uso de la inteligencia
+    artificial (Gesetzentwurf zur Änderung des Strafgesetzbuchs, um den Missbrauch künstlicher Intelligenz
+    unter Strafe zu stellen)
+
+    '
+  fundstelle: 'Boletín N° 15935-07, Moción, Cámara de Diputados, eingebracht am 15.05.2023.
+
+    '
+  verfahrensnummer: Boletín N° 15935-07
+  status: verfahren
+  status_detail: 'Am 06.09.2026 im ersten konstitutionellen Verfahrensgang in der Cámara de Diputados,
+    Unterstufe „Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento". Seit
+    dem 05.06.2023 ist kein Verfahrensschritt mehr verzeichnet: Der Entwurf wurde am 05.06.2023 zur Kenntnis
+    genommen, zunächst der Zukunftskommission zugewiesen und dann in die Verfassungskommission verlegt.
+    Es gibt keinen Ausschussbericht und KEINE Urgencia. Der Entwurf ruht — er ist der praktische Beleg
+    dafür, dass Chile den strafrechtlichen Teil des KI-Rechts (Deepfakes, Identitätsmissbrauch) bislang
+    nicht angefasst hat, während der verwaltungsrechtliche Teil (Boletín 15869-19/16821-19) weit gediehen
+    ist.
+
+    '
+  kurzbeschreibung: 'Die Moción von neun Abgeordneten will das chilenische Strafgesetzbuch um Tatbestände
+    für den Missbrauch künstlicher Intelligenz ergänzen. Sie stammt weitgehend von denselben Abgeordneten,
+    die auch die Moción zum KI-Rahmengesetz eingebracht haben (Aedo Jeldres, Lagomarsino Guzmán, Medina
+    Vásquez, Olivera De La Fuente, Oyarzo Figueroa und weitere). Weil kein Bericht vorliegt, ist der Inhalt
+    des Entwurfs aus den Verfahrensdaten allein nicht zu rekonstruieren.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15935
+  themenachsen:
+  - content
+  - haftung
+  - grundrechte
+  regelungsschwerpunkte:
+  - Änderung des Código Penal zur Sanktionierung des Missbrauchs künstlicher Intelligenz.
+  - 'Autoren: Aedo Jeldres, Lagomarsino Guzmán, Lilayu Vivanco, Medina Vásquez, Olivera De La Fuente,
+    Oyarzo Figueroa, Pérez Olea, Pulgar Castillo, Rivas Sánchez.'
+  - Kein Bericht, keine Urgencia, kein Verfahrensschritt seit dem 05.06.2023 — faktisch ruhend.
+  dokumente:
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Tramitación des Boletín 15935 (XML-Webdienst des Senats)
+    url: https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15935
+    sprache: es
+    urheber: Senado de la República de Chile
+    verifiziert: true
+    notiz: Amtlicher Verfahrensstand einschließlich Autorenliste und Oficio N° 18427 vom 05.06.2023.
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Tramitación des Boletín 15935-07 bei der Cámara de Diputados
+    url: https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16473&prmBOLETIN=15869-19
+    sprache: es
+    urheber: Cámara de Diputados de Chile
+    verifiziert: true
+    notiz: 'ACHTUNG bei der Zitierweise der Cámara: Maßgeblich ist der Parameter prmID, nicht prmBOLETIN.
+      prmID=16473 führt auf Boletín 15935-07, auch wenn im Link prmBOLETIN=15869-19 steht. Wer nur prmBOLETIN
+      ändert, bekommt ein anderes Vorhaben angezeigt. Über dieselbe prmID sind Informes, Oficios, Indicaciones,
+      Urgencias und Votaciones erreichbar (…/informes.aspx?prmID=16473, …/votaciones.aspx?prmID=16473
+      usw.).
+
+      '
+  offene_punkte:
+  - Der Text der Moción ist nachzutragen; er lag nicht abrufbar vor.
+  - Zu beobachten, ob der Entwurf im Zuge des Rahmengesetzes wiederbelebt oder mit ihm zusammengeführt
+    wird.
+  monitoring_quellen:
+  - https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15935
+  - https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=16473&prmBOLETIN=15869-19
+  bezug_regelwerke:
+  - cl-ki-gesetz-entwurf
+  - cl-ley-21459
+  letzte_pruefung: 2026-09-06
+- id: pe-ley-29733
+  jurisdiktion: pe
+  kurztitel: Peruanisches Datenschutzgesetz (Ley N.º 29733)
+  offizieller_titel: 'Ley N.º 29733, Ley de Protección de Datos Personales (Gesetz Nr. 29733 über den
+    Schutz personenbezogener Daten)
+
+    '
+  fundstelle: 'Ley N.º 29733. Im Decreto Supremo N.º 115-2025-PCM als „Ley N° 29733, Protección de Datos
+    Personales" zitiert.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes peruanisches Datenschutzrecht. Art. 26 des Reglamento zur Ley N.º 31814 verweist
+    für die Verarbeitung personenbezogener Daten durch KI-Systeme ausdrücklich auf dieses Gesetz; die
+    Autoridad Nacional de Protección de Datos Personales ist nach Art. 36 des Reglamento eine der Stellen,
+    an die sich Betroffene wenden können. Damit ist die Ley N.º 29733 — nicht das KI-Gesetz — die Norm,
+    an der KI-Sachverhalte in Peru tatsächlich durchgesetzt werden, weil nur sie ein Sanktionsregime kennt.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt die Verarbeitung personenbezogener Daten durch private und öffentliche
+    Stellen in Peru, richtet die Autoridad Nacional de Protección de Datos Personales beim Justizministerium
+    ein und stattet sie mit Untersuchungs- und Bußgeldbefugnissen aus. Die Durchführungsverordnung wurde
+    2024 durch das Decreto Supremo N.º 016-2024-JUS neu gefasst. Für KI ist das Gesetz aus drei Gründen
+    die Kernnorm: Es ist die einzige peruanische Norm mit Sanktionen im Datenbereich, seine Behörde ist
+    die einzige mit einschlägiger Aufsichtserfahrung, und das KI-Reglamento verweist selbst auf sie.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - Einrichtung der Autoridad Nacional de Protección de Datos Personales (ANPDP) beim Ministerio de Justicia
+    y Derechos Humanos.
+  - 'Verweisnorm des KI-Rechts: Art. 26 des Reglamento zur Ley N.º 31814 unterstellt die Datenverarbeitung
+    durch KI-Systeme diesem Gesetz.'
+  - Art. 36 des KI-Reglamento nennt die ANPDP als eine der Stellen, an die sich Betroffene wenden können.
+  dokumente:
+  - datum: 2025-09-09
+    typ: konsolidiert
+    titel: Zitat der Ley N.º 29733 in den Considerandos des Decreto Supremo N.º 115-2025-PCM
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für Existenz und amtlichen Kurztitel; NICHT für den Inhalt des Gesetzes.
+  offene_punkte:
+  - 'NICHT VERIFIZIERT: Volltext, Publikationsdatum (nach dem Breitenscreening 2011), Bußgeldrahmen, Vorschriften
+    zu automatisierten Entscheidungen. Der Volltext liegt in Peru amtlich bei busquedas.elperuano.pe und
+    spij.minjus.gob.pe; beide waren nicht nutzbar (siehe Bericht).
+
+    '
+  - 'Zu prüfen ist insbesondere, ob die Ley N.º 29733 oder ihr Reglamento eine Art. 22 DSGVO entsprechende
+    Vorschrift über automatisierte Einzelentscheidungen enthält. Der Auftrag nennt „Richtlinien der ANPDP
+    zu automatisierten Entscheidungen"; solche Richtlinien konnten nicht belegt werden.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  - https://www.gob.pe/anpd
+  bezug_regelwerke:
+  - pe-ds-016-2024-jus
+  - pe-ds-115-2025-pcm
+  - pe-ley-31814
+  letzte_pruefung: 2026-09-06
+- id: pe-ds-016-2024-jus
+  jurisdiktion: pe
+  kurztitel: Neues Reglamento zum peruanischen Datenschutzgesetz (DS N.º 016-2024-JUS)
+  offizieller_titel: 'Decreto Supremo N.º 016-2024-JUS, Reglamento de la Ley N.º 29733, Ley de Protección
+    de Datos Personales (Oberstes Dekret Nr. 016-2024-JUS, Durchführungsverordnung zum Datenschutzgesetz)
+
+    '
+  fundstelle: Decreto Supremo N.º 016-2024-JUS, Ministerio de Justicia y Derechos Humanos.
+  verfahrensnummer: Decreto Supremo N.º 016-2024-JUS
+  status: anwendbar
+  status_detail: 'Neufassung der Durchführungsverordnung zum peruanischen Datenschutzgesetz; sie ersetzt
+    das Reglamento von 2013 (Decreto Supremo N.º 003-2013-JUS). Der Auftrag dieser Recherche nennt sie
+    als die praktisch maßgebliche Ebene des peruanischen Datenschutzrechts. Konnte weder das Publikationsdatum
+    noch der Inhalt an einer amtlichen Quelle verifiziert werden.
+
+    '
+  kurzbeschreibung: 'Die Verordnung konkretisiert die Ley N.º 29733 und ist damit die Norm, an der Profiling,
+    Scoring und automatisierte Datenverarbeitung in Peru zu messen sind. Ihr Verhältnis zum KI-Reglamento
+    DS N.º 115-2025-PCM ist ungeklärt: Beide beanspruchen Geltung für Datenverarbeitung durch KI-Systeme,
+    beide werden von verschiedenen Behörden vollzogen (ANPDP beim Justizministerium, SGTD bei der Präsidialverwaltung),
+    und nur die datenschutzrechtliche Ebene kennt Sanktionen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - Ersetzt das Reglamento DS N.º 003-2013-JUS.
+  - Praktisch maßgebliche Ebene für Profiling und automatisierte Verarbeitung in Peru.
+  dokumente: []
+  offene_punkte:
+  - 'VOLLSTÄNDIG UNVERIFIZIERT. Es konnte keine amtliche Fundstelle für das Decreto Supremo N.º 016-2024-JUS
+    gefunden werden. Gesucht wurde über busquedas.elperuano.pe (Publikations-ID unbekannt, Sondierung
+    im Bereich 2270000-2285000 ergab nur Treffer für andere Normen: 2280137 = 17.04.2024), über spij.minjus.gob.pe
+    (robots.txt nicht erreichbar) und über www.gob.pe (HTTP 418). Der nächste Bearbeiter sollte hier zuerst
+    ansetzen.
+
+    '
+  - 'Zu klären: Publikationsdatum, Inkrafttreten (das Reglamento sah nach dem Breitenscreening eine gestaffelte
+    Vacatio vor), Vorschriften zu automatisierten Entscheidungen, Verhältnis zum KI-Reglamento.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  - https://www.gob.pe/anpd
+  bezug_regelwerke:
+  - pe-ley-29733
+  - pe-ds-115-2025-pcm
+  letzte_pruefung: 2026-09-06
+- id: pe-dl-1412
+  jurisdiktion: pe
+  kurztitel: Peruanisches Gesetz über digitale Verwaltung (Decreto Legislativo N.º 1412)
+  offizieller_titel: 'Decreto Legislativo N.º 1412, Ley de Gobierno Digital (Gesetzesdekret Nr. 1412,
+    Gesetz über die digitale Regierung)
+
+    '
+  fundstelle: 'Decreto Legislativo N.º 1412. In den Considerandos des Decreto Supremo N.º 115-2025-PCM
+    ausdrücklich als „Decreto Legislativo N° 1412 (Ley de Gobierno Digital)" zitiert.
+
+    '
+  verfahrensnummer: Decreto Legislativo N.º 1412
+  status: anwendbar
+  status_detail: 'Grundlage der digitalen Verwaltung Perus und die Norm, aus der die Zuständigkeit der
+    Secretaría de Gobierno y Transformación Digital (SGTD) der Präsidialverwaltung folgt. Das KI-Reglamento
+    stützt seine Governance-Architektur (Titel II, Art. 8-12) auf diese Norm.
+
+    '
+  kurzbeschreibung: 'Das Gesetzesdekret errichtet das Sistema Nacional de Transformación Digital, bestimmt
+    die SGTD zur federführenden Stelle und regelt digitale Identität, digitale Dienste, Interoperabilität
+    und digitale Sicherheit der Verwaltung. Für KI ist es die organisationsrechtliche Grundlage: Ohne
+    das Gobierno-Digital-Recht gäbe es in Peru keine Behörde, der das KI-Reglamento die Aufsicht übertragen
+    könnte.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Errichtung des Sistema Nacional de Transformación Digital; Federführung der SGTD/PCM.
+  - Organisationsrechtliche Grundlage der KI-Aufsicht nach dem Reglamento DS N.º 115-2025-PCM (Art. 8).
+  dokumente:
+  - datum: 2025-09-09
+    typ: konsolidiert
+    titel: Zitat des Decreto Legislativo N.º 1412 in den Considerandos des DS N.º 115-2025-PCM
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für Existenz und amtlichen Kurztitel; nicht für den Inhalt.
+  offene_punkte:
+  - 'NICHT VERIFIZIERT: Volltext, Publikationsdatum (nach dem Breitenscreening 2018) und die Änderungen
+    seit 2018.'
+  - 'Der Auftrag nennt zusätzlich das Decreto Supremo N.º 029-2021-PCM als Durchführungsverordnung zum
+    Decreto Legislativo N.º 1412. Diese Norm wird in den Considerandos des KI-Reglamento NICHT zitiert;
+    dort stehen stattdessen das Decreto de Urgencia N.º 006-2020 und dessen Reglamento Decreto Supremo
+    N.º 157-2021-PCM. Der Widerspruch ist zu klären.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  - pe-du-006-2020
+  letzte_pruefung: 2026-09-06
+- id: pe-du-006-2020
+  jurisdiktion: pe
+  kurztitel: 'Sistema Nacional de Transformación Digital (Decreto de Urgencia N.º 006-2020) nebst Reglamento
+    DS N.º 157-2021-PCM
+
+    '
+  offizieller_titel: 'Decreto de Urgencia N.º 006-2020, que crea el Sistema Nacional de Transformación
+    Digital (Dringlichkeitsdekret Nr. 006-2020 zur Schaffung des Nationalen Systems der digitalen Transformation),
+    nebst Decreto Supremo N.º 157-2021-PCM (Reglamento)
+
+    '
+  fundstelle: 'Beide Normen sind in den Considerandos des Decreto Supremo N.º 115-2025-PCM ausdrücklich
+    zitiert.
+
+    '
+  verfahrensnummer: Decreto de Urgencia N.º 006-2020; Decreto Supremo N.º 157-2021-PCM
+  status: anwendbar
+  status_detail: 'Das Dringlichkeitsdekret schafft das Sistema Nacional de Transformación Digital; das
+    Decreto Supremo N.º 157-2021-PCM ist seine Durchführungsverordnung. Beide bilden zusammen mit dem
+    Decreto Legislativo N.º 1412 die Rechtsgrundlage, auf die sich das KI-Reglamento in seinen Considerandos
+    stützt.
+
+    '
+  kurzbeschreibung: 'Die beiden Normen ordnen die digitale Transformation Perus als funktionales System
+    der Staatsverwaltung und weisen der Präsidialverwaltung die Führung zu. Sie sind der Grund, warum
+    das peruanische KI-Recht bei der PCM und nicht bei einem Fachministerium oder einer unabhängigen Behörde
+    liegt — mit der Folge, dass die KI-Aufsicht in Peru Teil der Regierungsorganisation ist und keine
+    unabhängige Stellung hat.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Sistema Nacional de Transformación Digital als funktionales System der Staatsverwaltung.
+  - Führungsrolle der PCM/SGTD — organisationsrechtliche Wurzel der peruanischen KI-Aufsicht.
+  dokumente:
+  - datum: 2025-09-09
+    typ: konsolidiert
+    titel: Zitate des DU N.º 006-2020 und des DS N.º 157-2021-PCM in den Considerandos des DS N.º 115-2025-PCM
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für Existenz und amtliche Kurztitel.
+  offene_punkte:
+  - 'NICHT VERIFIZIERT: Volltexte, Publikationsdaten, Inhalt.'
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-dl-1412
+  - pe-ds-115-2025-pcm
+  letzte_pruefung: 2026-09-06
+- id: pe-ley-27444
+  jurisdiktion: pe
+  kurztitel: Peruanisches Verwaltungsverfahrensgesetz (Ley N.º 27444, TUO DS N.º 004-2019-JUS)
+  offizieller_titel: 'Texto Único Ordenado de la Ley N.º 27444, Ley del Procedimiento Administrativo General,
+    aprobado por Decreto Supremo N.º 004-2019-JUS (Einheitlicher Text des Gesetzes Nr. 27444 über das
+    allgemeine Verwaltungsverfahren)
+
+    '
+  fundstelle: 'In den Considerandos des Decreto Supremo N.º 115-2025-PCM über den Verweis auf das Decreto
+    Supremo N.º 004-2019-JUS zitiert.
+
+    '
+  verfahrensnummer: 'Ley N.º 27444; TUO: Decreto Supremo N.º 004-2019-JUS'
+  status: anwendbar
+  status_detail: 'Allgemeines Verwaltungsverfahrensrecht Perus. Es ist die Norm, an der automatisierte
+    Verwaltungsentscheidungen in Peru zu messen sind: Begründungspflicht, Anspruch auf rechtliches Gehör
+    und Rechtsbehelfe gelten unabhängig davon, ob ein Algorithmus die Entscheidung vorbereitet. Das KI-Reglamento
+    verlangt in Art. 28 für hochriskante Anwendungen öffentlicher Stellen ausdrücklich menschliche Aufsicht
+    und die Fähigkeit des Personals, das System anzuhalten — das ist die verwaltungsrechtliche Absicherung
+    dieser Grundsätze.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt Verfahrensgrundsätze, Verwaltungsakt, Begründung, Rechtsbehelfe
+    und Verwaltungssanktionen. Für KI ist es doppelt einschlägig: als Maßstab für algorithmisch vorbereitete
+    Entscheidungen und als Rahmen für jedes Sanktionsverfahren, das eine peruanische Behörde wegen eines
+    KI-Verstoßes führen wollte — wobei das KI-Recht selbst keine Sanktion vorsieht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Begründungspflicht und Rechtsbehelfe gegen Verwaltungsakte — Maßstab für algorithmisch vorbereitete
+    Entscheidungen.
+  - Grundlage jedes Verwaltungssanktionsverfahrens in Peru; das KI-Recht selbst enthält keine Sanktionsnorm.
+  dokumente:
+  - datum: 2025-09-09
+    typ: konsolidiert
+    titel: Zitat des DS N.º 004-2019-JUS (TUO der Ley N.º 27444) in den Considerandos des DS N.º 115-2025-PCM
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für Existenz und amtlichen Kurztitel.
+  offene_punkte:
+  - 'NICHT VERIFIZIERT: Volltext, Artikelnummern der Begründungspflicht, Regelungen zur elektronischen
+    Verfahrensführung.'
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  letzte_pruefung: 2026-09-06
+- id: pe-dl-822
+  jurisdiktion: pe
+  kurztitel: Peruanisches Urheberrechtsgesetz (Decreto Legislativo N.º 822)
+  offizieller_titel: 'Decreto Legislativo N.º 822, Ley sobre el Derecho de Autor (Gesetzesdekret Nr. 822,
+    Gesetz über das Urheberrecht)
+
+    '
+  fundstelle: Decreto Legislativo N.º 822. Vollzug durch INDECOPI.
+  verfahrensnummer: Decreto Legislativo N.º 822
+  status: anwendbar
+  status_detail: 'Geltendes peruanisches Urheberrecht. Es ist die Norm, an der sich die urheberrechtliche
+    Seite des KI-Trainings und der KI-Ausgaben in Peru entscheidet. Das KI-Reglamento nimmt darauf mittelbar
+    Bezug: Nach Art. 34 des Reglamento eskaliert die SGTD Verstöße, die geistiges Eigentum oder den Datenschutz
+    berühren, an die zuständigen Stellen — für das geistige Eigentum ist das INDECOPI. Der Grundsatz des
+    Schutzes der Urheberschaft steht zudem unter den Leitprinzipien des Art. 7 des Reglamento.
+
+    '
+  kurzbeschreibung: 'Das Gesetzesdekret regelt Urheberrecht und verwandte Schutzrechte in Peru und wird
+    von INDECOPI vollzogen. Eine ausdrückliche Schranke für Text- und Data-Mining ist in Peru nicht bekannt;
+    eine Regelung zu computergenerierten Werken ebenfalls nicht. Beides konnte nicht am Normtext geprüft
+    werden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - Urheberrecht und verwandte Schutzrechte; Vollzug durch INDECOPI.
+  - 'Anknüpfung im KI-Recht: Art. 7 des Reglamento DS N.º 115-2025-PCM nennt den Schutz der Urheberschaft
+    unter den Leitprinzipien; Art. 34 verpflichtet die SGTD, Verstöße mit Bezug zum geistigen Eigentum
+    zu eskalieren.
+
+    '
+  dokumente: []
+  offene_punkte:
+  - 'VOLLSTÄNDIG UNVERIFIZIERT. Es konnte keine amtliche Fundstelle für das Decreto Legislativo N.º 822
+    abgerufen werden (busquedas.elperuano.pe: Publikations-ID unbekannt und für 1996 nicht sondierbar;
+    spij.minjus.gob.pe: robots.txt nicht erreichbar; www.indecopi.gob.pe: DNS-Auflösung fehlgeschlagen;
+    www.gob.pe: HTTP 418).
+
+    '
+  - 'Zu klären: Bestehen einer Schranke für Text- und Data-Mining, Behandlung computergenerierter Werke,
+    Zuständigkeit und Verfahren vor der Comisión de Derecho de Autor des INDECOPI.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  letzte_pruefung: 2026-09-06
+- id: pe-ds-029-2021-pcm
+  jurisdiktion: pe
+  kurztitel: Reglamento zum Gobierno-Digital-Recht (DS N.º 029-2021-PCM)
+  offizieller_titel: 'Decreto Supremo N.º 029-2021-PCM, que aprueba el Reglamento del Decreto Legislativo
+    N.º 1412, Decreto Legislativo que aprueba la Ley de Gobierno Digital, y establece disposiciones sobre
+    las condiciones, requisitos y uso de las tecnologías y medios electrónicos en el procedimiento administrativo
+    (Oberstes Dekret Nr. 029-2021-PCM zur Billigung der Durchführungsverordnung zum Gesetz über die digitale
+    Regierung und mit Bestimmungen über Bedingungen, Anforderungen und Nutzung von Technologien und elektronischen
+    Mitteln im Verwaltungsverfahren)
+
+    '
+  fundstelle: Decreto Supremo N.º 029-2021-PCM, Presidencia del Consejo de Ministros.
+  verfahrensnummer: Decreto Supremo N.º 029-2021-PCM
+  status: anwendbar
+  status_detail: 'Vom Auftrag als eine der Gobierno-Digital-Normen benannt. WIDERSPRUCH: In den Considerandos
+    des KI-Reglamento DS N.º 115-2025-PCM wird diese Norm NICHT zitiert; dort stehen stattdessen das Decreto
+    de Urgencia N.º 006-2020 und das Decreto Supremo N.º 157-2021-PCM. Ob das DS N.º 029-2021-PCM in Kraft,
+    geändert oder ersetzt ist, konnte nicht geprüft werden.
+
+    '
+  kurzbeschreibung: 'Die Verordnung führt das Decreto Legislativo N.º 1412 aus und regelt die Bedingungen
+    für den Einsatz elektronischer Mittel im Verwaltungsverfahren. Sie ist damit — neben der Ley N.º 27444
+    — die Norm, an der die verfahrensrechtliche Zulässigkeit algorithmisch gestützter Verwaltungsentscheidungen
+    in Peru hängt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Durchführungsverordnung zum Decreto Legislativo N.º 1412.
+  - Bedingungen, Anforderungen und Nutzung elektronischer Mittel im Verwaltungsverfahren.
+  dokumente: []
+  offene_punkte:
+  - 'VOLLSTÄNDIG UNVERIFIZIERT — weder Fundstelle noch Publikationsdatum noch Fortgeltung konnten belegt
+    werden. Der offizielle Titel oben ist aus dem Auftrag und aus Modellwissen rekonstruiert und deshalb
+    ausdrücklich als ungeprüft gekennzeichnet.
+
+    '
+  - 'Zu klären ist das Verhältnis zwischen DS N.º 029-2021-PCM und DS N.º 157-2021-PCM. Das KI-Reglamento
+    stützt sich nur auf das zweitgenannte.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-dl-1412
+  - pe-ley-27444
+  - pe-du-006-2020
+  letzte_pruefung: 2026-09-06
+- id: pe-sgtd
+  jurisdiktion: pe
+  kurztitel: Peruanische KI-Aufsicht (SGTD der Präsidialverwaltung)
+  offizieller_titel: 'Secretaría de Gobierno y Transformación Digital de la Presidencia del Consejo de
+    Ministros (Sekretariat für digitale Regierung und Transformation der Präsidialverwaltung) als Autoridad
+    Nacional nach Art. 8 des Reglamento der Ley N.º 31814
+
+    '
+  fundstelle: 'Art. 8 des durch Decreto Supremo N.º 115-2025-PCM gebilligten Reglamento; organisationsrechtliche
+    Grundlage im Decreto Legislativo N.º 1412 und im Decreto de Urgencia N.º 006-2020.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Die PCM ist über die SGTD die Behörde für die technische Normsetzung und trägt die Verantwortung
+    für Leitung, Bewertung und Überwachung der KI-Nutzung. Die Befugnisse sind in Art. 34 bis 36 des Reglamento
+    ausgestaltet: Überwachung der Umsetzung, Auskunftsverlangen, Zusammenarbeit mit den CSIRT-Teams, Meldung
+    von Verstößen an die Contraloría General de la República, Eskalation bei Verstößen mit Bezug zu geistigem
+    Eigentum oder Datenschutz, Betrieb eines Bürgerbeschwerdekanals unter www.gob.pe/iaperu. Eine eigene
+    Sanktionsbefugnis hat die SGTD NICHT.
+
+    '
+  kurzbeschreibung: 'Die peruanische KI-Aufsicht ist keine unabhängige Behörde, sondern eine Abteilung
+    der Präsidialverwaltung. Sie normiert technisch (Zweite Disposición Complementaria Final: Durchführungsnormen
+    durch Resolución Secretarial, Ethik-Leitlinien binnen 180 Werktagen), überwacht und meldet weiter,
+    kann aber nicht sanktionieren. Die Sanktionsbefugnis liegt bei anderen Stellen: bei der Contraloría
+    (öffentliche Bedienstete), bei INDECOPI (Verbraucherschutz, geistiges Eigentum), bei der ANPDP (Datenschutz)
+    und bei der Polizei (Delitos informáticos). Das ist der zentrale Konstruktionsunterschied zum chilenischen
+    Entwurf, der die Aufsicht der Datenschutzbehörde mit Bußgeldbefugnis zuweist.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-20
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 8 Reglamento: PCM über SGTD als Autoridad Nacional für technische Normsetzung, Leitung, Bewertung
+    und Überwachung.'
+  - 'Art. 12 Reglamento: Centro Nacional de Innovación en Inteligencia Artificial — stellt Behörden Dienste
+    für den sicheren Entwurf KI-gestützter Systeme bereit.'
+  - 'Art. 34-36 Reglamento: Überwachung, Auskunftsverlangen, CSIRT-Zusammenarbeit, Meldung an die Contraloría,
+    Bürgerbeschwerdekanal www.gob.pe/iaperu, Verweisung an INDECOPI, Cybercrime-Abteilung und ANPDP.'
+  - KEINE eigene Sanktionsbefugnis.
+  dokumente:
+  - datum: 2025-09-09
+    typ: endfassung
+    titel: Reglamento der Ley N.º 31814, Art. 8, 12 und 34-36 (Aufsichtsstruktur)
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Amtlicher Volltext der Zuständigkeits- und Befugnisnormen.
+  offene_punkte:
+  - Ob die SGTD die vorgesehenen Resoluciones Secretariales und die Ethik-Leitlinien erlassen hat, konnte
+    nicht geprüft werden (Seiten auf www.gob.pe, HTTP 418).
+  monitoring_quellen:
+  - https://www.gob.pe/iaperu
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  - pe-dl-1412
+  letzte_pruefung: 2026-09-06
+- id: cl-apdp
+  jurisdiktion: cl
+  kurztitel: Chilenische Datenschutzbehörde (Agencia de Protección de Datos Personales)
+  offizieller_titel: 'Agencia de Protección de Datos Personales (Behörde für den Schutz personenbezogener
+    Daten), errichtet durch Ley N° 21.719
+
+    '
+  fundstelle: Ley N° 21.719 (Diario Oficial vom 13.12.2024), LeyChile idNorma 1209272.
+  verfahrensnummer: null
+  status: verabschiedet
+  status_detail: 'Die Behörde ist gesetzlich errichtet, nimmt ihre Tätigkeit aber erst mit dem Inkrafttreten
+    der Ley N° 21.719 am 01.12.2026 auf. Nach dem Artículo cuarto transitorio waren die ersten Direktoren
+    des Consejo Directivo sechs Monate vor dem Inkrafttreten — also bis zum 01.06.2026 — zu bestellen;
+    die Amtszeiten sind auf zwei, vier und sechs Jahre gestaffelt, die Bestellung bedarf der Zustimmung
+    des Senats. Der chilenische KI-Gesetzentwurf (Boletín 15869-19/16821-19) weist derselben Behörde die
+    KI-Aufsicht zu.
+
+    '
+  kurzbeschreibung: 'Die APDP ist die erste unabhängige Datenschutzbehörde Chiles. Sie erhält Untersuchungs-,
+    Anordnungs- und Bußgeldbefugnisse und führt das Registro Nacional de Sanciones y Cumplimiento. Für
+    die KI-Regulierung ist sie doppelt wichtig: Sie vollzieht ab dem 01.12.2026 den Art. 8° bis über automatisierte
+    Einzelentscheidungen, und sie soll nach dem Gesetzentwurf zugleich die KI-Aufsicht übernehmen. Ob
+    eine erst aufzubauende Behörde beides leisten kann, ist im Verfahren umstritten.
+
+    '
+  inkrafttreten:
+    datum: 2026-12-01
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  anwendungsdaten:
+  - datum: 2026-06-01
+    was_gilt: Frist für die erstmalige Bestellung der Direktoren des Consejo Directivo (Artículo cuarto
+      transitorio Ley N° 21.719).
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - Untersuchungs-, Anordnungs- und Bußgeldbefugnis; Registro Nacional de Sanciones y Cumplimiento.
+  - Vollzug des Art. 8° bis (automatisierte Einzelentscheidungen, Profiling) ab dem 01.12.2026.
+  - Nach dem KI-Gesetzentwurf zugleich Aufsichtsbehörde für KI-Systeme.
+  - 'Milderungsphase für Kleinunternehmen: bis 30.11.2027 schriftliche Verwarnung statt Sanktion möglich
+    (Artículo sexto transitorio).'
+  dokumente:
+  - datum: 2024-12-13
+    typ: endfassung
+    titel: Ley N° 21.719 (Errichtung der Agencia de Protección de Datos Personales)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Rechtsgrundlage der Behörde einschließlich der Übergangsbestimmungen zur Bestellung des Rates.
+  offene_punkte:
+  - 'Ob die Direktoren bis zum 01.06.2026 tatsächlich bestellt und vom Senat bestätigt wurden, konnte
+    nicht geprüft werden. Das ist die entscheidende Frage für die Arbeitsfähigkeit der Behörde am 01.12.2026
+    und gehört an den Anfang der nächsten Bearbeitung.
+
+    '
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=1209272
+  - https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15869
+  bezug_regelwerke:
+  - cl-ley-21719
+  - cl-ki-gesetz-entwurf
+  letzte_pruefung: 2026-09-06
+- id: cl-anci
+  jurisdiktion: cl
+  kurztitel: Chilenische Cybersicherheitsbehörde (Agencia Nacional de Ciberseguridad)
+  offizieller_titel: 'Agencia Nacional de Ciberseguridad (ANCI), errichtet durch Ley N° 21.663
+
+    '
+  fundstelle: Ley N° 21.663 (Diario Oficial Nr. 43.820 vom 08.04.2024), LeyChile idNorma 1202434.
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Errichtet und tätig. Nach ihrer eigenen Darstellung hat die Ley N° 21.663 die institutionelle
+    Ordnung, die Grundsätze und die Normen der Cybersicherheit für die Staatsverwaltung zu bestimmen,
+    Mindestanforderungen an die Vorfallbewältigung festzulegen und Pflichten für staatliche Stellen und
+    private Betreiber kritischer Informationsinfrastruktur zu begründen.
+
+    '
+  kurzbeschreibung: 'Die ANCI ist derzeit die einzige chilenische Behörde mit technischer Aufsichtskompetenz
+    über informationstechnische Systeme. Für KI ist sie mittelbar zuständig, soweit KI-Systeme essenzielle
+    Dienste tragen; im KI-Gesetzentwurf ist sie dagegen nicht als KI-Aufsicht vorgesehen. Damit entsteht
+    in Chile eine Doppelstruktur: technische Aufsicht bei der ANCI, KI- und Datenschutzaufsicht bei der
+    APDP.
+
+    '
+  inkrafttreten:
+    datum: 2024-04-08
+    verifiziert: true
+    quelle: https://anci.gob.cl/normativa/ley-marco-ciberseguridad/
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Aufsicht über servicios esenciales und operadores de importancia vital.
+  - Mindestanforderungen an die Bewältigung von Sicherheitsvorfällen.
+  - Keine Zuständigkeit für KI als solche; im KI-Gesetzentwurf nicht als Aufsicht vorgesehen.
+  dokumente:
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Normativa-Seite der ANCI zur Ley Marco de Ciberseguridad
+    url: https://anci.gob.cl/normativa/ley-marco-ciberseguridad/
+    sprache: es
+    urheber: Agencia Nacional de Ciberseguridad
+    verifiziert: true
+    notiz: Amtliche Selbstdarstellung mit den Links auf Gesetzestext und Diario Oficial.
+  offene_punkte:
+  - Befugnisse, Meldefristen und Sanktionsrahmen im Einzelnen nicht verifiziert (siehe cl-ley-21663).
+  monitoring_quellen:
+  - https://anci.gob.cl/normativa/ley-marco-ciberseguridad/
+  bezug_regelwerke:
+  - cl-ley-21663
+  - cl-ki-gesetz-entwurf
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-20285
+  jurisdiktion: cl
+  kurztitel: Chilenisches Informationszugangsgesetz (Ley N° 20.285)
+  offizieller_titel: 'Ley N° 20.285, Sobre acceso a la información pública (Gesetz Nr. 20.285 über den
+    Zugang zu öffentlichen Informationen)
+
+    '
+  fundstelle: 'Diario Oficial vom 20.08.2008. LeyChile idNorma 276363; konsolidierte Fassung mit Versionsdatum
+    11.07.2025.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Das Gesetz begründet den Transparenzgrundsatz der chilenischen Verwaltung
+    und errichtet den Consejo para la Transparencia als unabhängiges Kontrollorgan. Die Ley N° 21.719
+    ändert es mit Wirkung zum 01.12.2026 (Artículo segundo permanente, Inkrafttreten nach dem Artículo
+    primero transitorio).
+
+    '
+  kurzbeschreibung: 'Für KI ist das Gesetz der Hebel, mit dem in Chile Auskunft über Verwaltungsalgorithmen
+    erzwungen werden kann: Wer wissen will, welches System eine Behörde einsetzt, nach welchen Kriterien
+    es arbeitet und welche Daten es verwendet, stellt einen Antrag nach der Ley N° 20.285 und kann eine
+    Ablehnung mit dem amparo vor dem Consejo para la Transparencia angreifen. Der Consejo bleibt nach
+    dem KI-Gesetzentwurf ausdrücklich für den Informationszugang zuständig.
+
+    '
+  inkrafttreten:
+    datum: 2008-08-20
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=276363
+  anwendungsdaten:
+  - datum: 2026-12-01
+    was_gilt: Die durch Art. segundo permanente der Ley N° 21.719 beschlossenen Änderungen treten in Kraft.
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - Transparenzgrundsatz und Recht auf Zugang zu Verwaltungsinformationen.
+  - Consejo para la Transparencia als unabhängiges Kontrollorgan mit amparo-Verfahren.
+  - Praktischer Zugangsweg zu Informationen über Verwaltungsalgorithmen.
+  dokumente:
+  - datum: 2008-08-20
+    typ: konsolidiert
+    titel: Ley N° 20.285 — konsolidierte Fassung in LeyChile (Versionsdatum 11.07.2025)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=276363
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung.
+  offene_punkte:
+  - Ob der Consejo para la Transparencia bereits Entscheidungen zu algorithmischen Systemen getroffen
+    hat, konnte nicht geprüft werden (jurisprudencia.cplt.cl bietet nur eine Formularsuche).
+  monitoring_quellen:
+  - https://jurisprudencia.cplt.cl/
+  - https://www.consejotransparencia.cl/
+  bezug_regelwerke:
+  - cl-ley-21719
+  - cl-ki-gesetz-entwurf
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-19496
+  jurisdiktion: cl
+  kurztitel: Chilenisches Verbraucherschutzgesetz (Ley N° 19.496)
+  offizieller_titel: 'Ley N° 19.496, Establece normas sobre protección de los derechos de los consumidores
+    (Gesetz Nr. 19.496 über den Schutz der Verbraucherrechte)
+
+    '
+  fundstelle: 'Diario Oficial vom 07.03.1997. LeyChile idNorma 61438; konsolidierte Fassung mit Versionsdatum
+    20.04.2021.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Wird durch den Artículo tercero permanente der Ley N° 21.719 mit Wirkung zum
+    01.12.2026 geändert. Vollzogen wird es vom Servicio Nacional del Consumidor (SERNAC).
+
+    '
+  kurzbeschreibung: 'Das Verbraucherschutzgesetz ist in Chile — wie in ganz Lateinamerika — der praktisch
+    wichtigste Hebel gegen algorithmische Benachteiligung im Massengeschäft: dynamische Preisbildung,
+    automatisierte Kreditablehnung, Empfehlungssysteme, Chatbots im Kundenkontakt. Weil das geltende Datenschutzrecht
+    keine Behörde kennt, ist SERNAC bis zum 01.12.2026 die einzige chilenische Behörde, die algorithmische
+    Praktiken gegenüber Verbrauchern überhaupt verfolgen kann.
+
+    '
+  inkrafttreten:
+    datum: 1997-03-07
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=61438
+  anwendungsdaten:
+  - datum: 2026-12-01
+    was_gilt: Die durch Art. tercero permanente der Ley N° 21.719 beschlossenen Änderungen treten in Kraft.
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  themenachsen:
+  - vertrag
+  - haftung
+  - grundrechte
+  - wettbewerb
+  regelungsschwerpunkte:
+  - Vollzug durch SERNAC; kollektive Verbraucherverfahren.
+  - Bis zum 30.11.2026 der einzige behördlich durchsetzbare Rechtsrahmen gegen algorithmische Benachteiligung
+    von Verbrauchern in Chile.
+  - Änderung durch Ley N° 21.719 mit Wirkung zum 01.12.2026.
+  dokumente:
+  - datum: 1997-03-07
+    typ: konsolidiert
+    titel: Ley N° 19.496 — konsolidierte Fassung in LeyChile (Versionsdatum 20.04.2021)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=61438
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung.
+  offene_punkte:
+  - Der Inhalt der durch Ley N° 21.719 vorgenommenen Änderungen wurde nicht im Einzelnen ausgelesen.
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=61438
+  bezug_regelwerke:
+  - cl-ley-21719
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-19223
+  jurisdiktion: cl
+  kurztitel: Altes chilenisches Computerstrafrecht (Ley N° 19.223, aufgehoben)
+  offizieller_titel: 'Ley N° 19.223, Tipifica figuras penales relativas a la informática (Gesetz Nr. 19.223
+    über Straftatbestände im Bereich der Informatik)
+
+    '
+  fundstelle: Diario Oficial vom 07.06.1993. LeyChile idNorma 30590.
+  verfahrensnummer: null
+  status: aufgehoben
+  status_detail: 'Am 20.06.2022 durch die Ley N° 21.459 aufgehoben. Das Gesetz kannte vier Tatbestände:
+    Zerstörung oder Blockade von Informationssystemen, unbefugter Zugriff auf Daten, Beschädigung von
+    Datensätzen und unbefugte Offenlegung von Informationen. Es erklärt, warum das chilenische Computerstrafrecht
+    bis 2022 keinen Computerbetrug und keine Datenfälschung kannte — und damit, warum KI-gestützte Täuschung
+    in Chile erst seit 2022 überhaupt einen passenden Tatbestand hat.
+
+    '
+  kurzbeschreibung: 'Die aufgehobene Norm gehört in die Datenbasis, weil sie den Zustand beschreibt, den
+    die Ley N° 21.459 beendet hat: Bis 2022 gab es in Chile weder fraude informático noch falsificación
+    informática. Sachverhalte, die heute unter Art. 5 und Art. 7 der Ley N° 21.459 fallen, mussten zuvor
+    über den allgemeinen Betrug oder gar nicht erfasst werden.
+
+    '
+  inkrafttreten:
+    datum: 1993-06-07
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=30590
+  anwendungsdaten:
+  - datum: 2022-06-20
+    was_gilt: Aufhebung durch die Ley N° 21.459.
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=30590
+  themenachsen:
+  - content
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Vier Tatbestände: Systemzerstörung/-blockade, unbefugter Datenzugriff, Datenbeschädigung, unbefugte
+    Offenlegung.'
+  - Kein Computerbetrug, keine Datenfälschung — die Lücke, die erst die Ley N° 21.459 geschlossen hat.
+  dokumente:
+  - datum: 1993-06-07
+    typ: konsolidiert
+    titel: Ley N° 19.223 — Fassung in LeyChile (derogada am 20.06.2022)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=30590
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: LeyChile weist die Norm ausdrücklich als aufgehoben aus.
+  offene_punkte: []
+  monitoring_quellen: []
+  bezug_regelwerke:
+  - cl-ley-21459
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-20575
+  jurisdiktion: cl
+  kurztitel: Zweckbindungsgrundsatz bei Wirtschaftsdaten (Ley N° 20.575)
+  offizieller_titel: 'Ley N° 20.575, Establece el principio de finalidad en el tratamiento de datos personales
+    (Gesetz Nr. 20.575 zur Einführung des Zweckbindungsgrundsatzes bei der Verarbeitung personenbezogener
+    Daten)
+
+    '
+  fundstelle: 'Diario Oficial Nr. 40.190 vom 17.02.2012; promulgiert am 14.02.2012. LeyChile idNorma 1037366.
+    Umgangssprachlich „Ley DICOM“.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Das Gesetz beschränkt die Verwendung wirtschaftlicher, finanzieller, bankmäßiger
+    und kommerzieller Personendaten auf die Bewertung von Kreditrisiken und den Kreditvergabeprozess.
+
+    '
+  kurzbeschreibung: 'Die Norm ist die chilenische Scoring-Vorschrift und damit die praktisch wichtigste
+    Grenze für algorithmische Bonitätsbewertung. Sie verbietet die Zweckentfremdung von Wirtschaftsdaten
+    — etwa für Personalauswahl, Vermietung oder Versicherungstarife — und trifft damit genau jene Sekundärnutzung,
+    die Modelle des maschinellen Lernens attraktiv finden. Sie ergänzt Título III der Ley N° 19.628 und
+    bleibt neben der Neufassung durch die Ley N° 21.719 zu beachten.
+
+    '
+  inkrafttreten:
+    datum: 2012-02-17
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1037366
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  - arbeit
+  regelungsschwerpunkte:
+  - 'Zweckbindung: Wirtschafts-, Finanz-, Bank- und Handelsdaten nur zur Kreditrisikobewertung und für
+    den Kreditvergabeprozess.'
+  - Verbot der Zweckentfremdung — die schärfste chilenische Schranke gegen algorithmisches Cross-Domain-Scoring.
+  dokumente:
+  - datum: 2012-02-17
+    typ: konsolidiert
+    titel: Ley N° 20.575 — konsolidierte Fassung in LeyChile
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1037366
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Versionsdatum 17.02.2012 — die Norm ist seit ihrem Erlass unverändert.
+  offene_punkte:
+  - Verhältnis zur Neufassung des Título III der Ley N° 19.628 durch die Ley N° 21.719 ab dem 01.12.2026
+    ist zu klären.
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=1037366
+  bezug_regelwerke:
+  - cl-ley-19628
+  - cl-ley-21719
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-19799
+  jurisdiktion: cl
+  kurztitel: Elektronische Dokumente und Signatur (Ley N° 19.799)
+  offizieller_titel: 'Ley N° 19.799, Sobre documentos electrónicos, firma electrónica y servicios de certificación
+    de dicha firma (Gesetz Nr. 19.799 über elektronische Dokumente, elektronische Signatur und Zertifizierungsdienste)
+
+    '
+  fundstelle: 'Diario Oficial Nr. 37.233 vom 12.04.2002; promulgiert am 25.03.2002. LeyChile idNorma 196640;
+    konsolidierte Fassung mit Versionsdatum 09.02.2024.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft und 2024 zuletzt geändert. Grundsätze sind technologische Neutralität und internationale
+    Kompatibilität.
+
+    '
+  kurzbeschreibung: 'Das Gesetz begründet die Rechtswirksamkeit elektronischer Dokumente und Signaturen
+    und regelt die Akkreditierung von Zertifizierungsdiensten. Es ist die Grundlage, auf der die Ley N°
+    21.180 das Verwaltungsverfahren elektronisieren konnte, und damit mittelbar die Voraussetzung für
+    jede automatisierte Verwaltungsentscheidung in Chile: Eine algorithmisch erzeugte Entscheidung braucht
+    eine rechtsgültige elektronische Form.
+
+    '
+  inkrafttreten:
+    datum: 2002-04-12
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=196640
+  themenachsen:
+  - sektor-oeffentlich
+  - vertrag
+  - governance
+  regelungsschwerpunkte:
+  - Rechtswirksamkeit elektronischer Dokumente und Signaturen; technologische Neutralität.
+  - Akkreditierung von Zertifizierungsdiensten.
+  - Grundlage der elektronischen Verfahrensführung nach Ley N° 21.180 und Ley N° 19.880.
+  dokumente:
+  - datum: 2002-04-12
+    typ: konsolidiert
+    titel: Ley N° 19.799 — konsolidierte Fassung in LeyChile (Versionsdatum 09.02.2024)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=196640
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung.
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=196640
+  bezug_regelwerke:
+  - cl-ley-21180
+  - cl-ley-19880
+  letzte_pruefung: 2026-09-06
+- id: pe-anpdp
+  jurisdiktion: pe
+  kurztitel: Peruanische Datenschutzbehörde (Autoridad Nacional de Protección de Datos Personales)
+  offizieller_titel: 'Autoridad Nacional de Protección de Datos Personales (ANPDP) beim Ministerio de
+    Justicia y Derechos Humanos, Rechtsgrundlage Ley N.º 29733
+
+    '
+  fundstelle: 'Ley N.º 29733 nebst Reglamento Decreto Supremo N.º 016-2024-JUS; im Reglamento der Ley
+    N.º 31814 (Art. 36) ausdrücklich als Anlaufstelle für Betroffene genannt.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Bestehende Behörde mit Untersuchungs- und Sanktionsbefugnis im Datenschutzrecht. Nach
+    Art. 36 des KI-Reglamento können sich Betroffene an sie wenden; nach Art. 34 eskaliert die SGTD Verstöße
+    mit Datenschutzbezug an sie. Sie ist damit die einzige peruanische Stelle, die einen KI-Sachverhalt
+    mit einer Sanktion beenden kann — allerdings nur über die datenschutzrechtliche Brücke.
+
+    '
+  kurzbeschreibung: 'Die ANPDP ist Teil des Justizministeriums und nicht unabhängig. Ihre Zuständigkeit
+    für KI ist nicht eigenständig geregelt, sondern folgt aus dem Verweis des Art. 26 des KI-Reglamento
+    auf die Ley N.º 29733 und aus der Anlaufstellenregelung des Art. 36. Der Auftrag dieser Recherche
+    nennt „Richtlinien der ANPDP zu automatisierten Entscheidungen“; solche Richtlinien konnten nicht
+    belegt werden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - Untersuchungs- und Sanktionsbefugnis nach der Ley N.º 29733.
+  - 'Art. 34 und 36 des KI-Reglamento: Eskalationsadresse der SGTD und Anlaufstelle für Betroffene.'
+  - Keine eigenständige KI-Zuständigkeit; Anknüpfung nur über das Datenschutzrecht.
+  dokumente:
+  - datum: 2025-09-09
+    typ: endfassung
+    titel: Reglamento der Ley N.º 31814, Art. 34 und 36 (Nennung der ANPDP)
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für die Rolle der ANPDP im peruanischen KI-Rechtsschutz.
+  offene_punkte:
+  - 'NICHT VERIFIZIERT: Bußgeldrahmen, Verfahrensordnung, Richtlinien zu automatisierten Entscheidungen
+    und der Rechtsstatus nach dem neuen Reglamento DS N.º 016-2024-JUS. Die Seiten der ANPDP liegen auf
+    www.gob.pe und waren nicht abrufbar (HTTP 418).
+
+    '
+  monitoring_quellen:
+  - https://www.gob.pe/anpd
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ley-29733
+  - pe-ds-016-2024-jus
+  - pe-ds-115-2025-pcm
+  letzte_pruefung: 2026-09-06
+- id: pe-indecopi
+  jurisdiktion: pe
+  kurztitel: INDECOPI als KI-Beschwerdestelle (Verbraucherschutz und geistiges Eigentum)
+  offizieller_titel: 'Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad
+    Intelectual (INDECOPI)
+
+    '
+  fundstelle: 'Im Reglamento der Ley N.º 31814 (Art. 34 und 36) ausdrücklich als Eskalations- und Anlaufstelle
+    genannt.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Bestehende Behörde. Nach Art. 36 des KI-Reglamento können sich Betroffene bei INDECOPI
+    beschweren; nach Art. 34 eskaliert die SGTD Verstöße mit Bezug zum geistigen Eigentum dorthin. INDECOPI
+    vollzieht zugleich das Urheberrecht (Decreto Legislativo N.º 822) und das Verbraucherschutzrecht und
+    ist damit für KI in Peru doppelt zuständig: für Trainingsdaten- und Ausgabenstreitigkeiten und für
+    algorithmische Praktiken gegenüber Verbrauchern.
+
+    '
+  kurzbeschreibung: 'INDECOPI ist die peruanische Parallele zum chilenischen SERNAC, verbunden mit einer
+    Urheberrechtsbehörde. Weil das peruanische KI-Recht keine eigenen Sanktionen kennt, ist INDECOPI neben
+    der ANPDP die Stelle, bei der KI-Sachverhalte tatsächlich durchgesetzt werden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - urheberrecht
+  - vertrag
+  - wettbewerb
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 34 und 36 des KI-Reglamento: Eskalations- und Beschwerdestelle.'
+  - Zuständig für Urheberrecht (Decreto Legislativo N.º 822) und Verbraucherschutz.
+  dokumente:
+  - datum: 2025-09-09
+    typ: endfassung
+    titel: Reglamento der Ley N.º 31814, Art. 34 und 36 (Nennung von INDECOPI)
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für die Rolle von INDECOPI im peruanischen KI-Rechtsschutz.
+  offene_punkte:
+  - 'www.indecopi.gob.pe war nicht auflösbar (DNS-Fehler „Name or service not known“); Entscheidungen
+    der Comisión de Protección al Consumidor und der Comisión de Derecho de Autor zu KI konnten daher
+    nicht geprüft werden.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  - pe-dl-822
+  letzte_pruefung: 2026-09-06
+- id: pe-rm-246-2007-pcm
+  jurisdiktion: pe
+  kurztitel: Aufgehobene Sicherheitsnorm der peruanischen Verwaltung (RM N.º 246-2007-PCM)
+  offizieller_titel: 'Resolución Ministerial N.º 246-2007-PCM (Ministerialbeschluss Nr. 246-2007-PCM),
+    aufgehoben durch die Disposición Complementaria Derogatoria des Decreto Supremo N.º 115-2025-PCM
+
+    '
+  fundstelle: 'Resolución Ministerial N.º 246-2007-PCM, Presidencia del Consejo de Ministros; Aufhebung
+    in der Disposición Complementaria Derogatoria des Decreto Supremo N.º 115-2025-PCM (Diario Oficial
+    El Peruano vom 09.09.2025).
+
+    '
+  verfahrensnummer: Resolución Ministerial N.º 246-2007-PCM
+  status: aufgehoben
+  status_detail: 'Mit dem Inkrafttreten des KI-Reglamento aufgehoben. Die Norm regelte die für die peruanische
+    Staatsverwaltung verbindlichen technischen Sicherheitsnormen; an ihre Stelle treten nach der Sechsten
+    Disposición Complementaria Final des Reglamento die jeweils geltenden Fassungen der NTP-ISO/IEC 27002
+    und der NTP-ISO 31000.
+
+    '
+  kurzbeschreibung: 'Die Aufhebung gehört in die Datenbasis, weil sie zeigt, wie Peru sein KI-Recht baut:
+    Es ersetzt eine achtzehn Jahre alte Informationssicherheitsnorm durch einen dynamischen Verweis auf
+    jeweils geltende technische Normen und macht damit die Normung (NTP-ISO/IEC) zur eigentlichen Regelungsebene.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  anwendungsdaten:
+  - datum: 2026-01-20
+    was_gilt: 'Aufhebung wirksam mit dem Inkrafttreten des Decreto Supremo N.º 115-2025-PCM (berechnetes
+      Datum, siehe pe-ds-115-2025-pcm).
+
+      '
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - sektor-oeffentlich
+  - sicherheit-export
+  - governance
+  regelungsschwerpunkte:
+  - Technische Sicherheitsnormen für die peruanische Staatsverwaltung.
+  - Ersetzt durch den dynamischen Verweis der Sechsten Disposición Complementaria Final des KI-Reglamento
+    auf NTP-ISO/IEC 27002 und NTP-ISO 31000.
+  dokumente:
+  - datum: 2025-09-09
+    typ: endfassung
+    titel: Disposición Complementaria Derogatoria des Decreto Supremo N.º 115-2025-PCM
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für die Aufhebung.
+  offene_punkte:
+  - Volltext und Publikationsdatum der aufgehobenen Norm nicht verifiziert.
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  - pe-ntp-normen
+  letzte_pruefung: 2026-09-06
+- id: pe-ntp-normen
+  jurisdiktion: pe
+  kurztitel: Verbindliche technische Normen des peruanischen KI-Rechts (NTP-ISO/IEC)
+  offizieller_titel: 'NTP-ISO/IEC 42001:2025 (Managementsystem für künstliche Intelligenz), NTP-ISO/IEC
+    27002:2022 (Informationssicherheitsmaßnahmen), NTP-ISO 31000 (Risikomanagement) und ISO/IEC 23053:2022
+    (Rahmenwerk für Systeme des maschinellen Lernens), in Bezug genommen durch das Reglamento der Ley
+    N.º 31814
+
+    '
+  fundstelle: 'Art. 28, Art. 33 und Sexta Disposición Complementaria Final des durch Decreto Supremo N.º
+    115-2025-PCM gebilligten Reglamento (Diario Oficial El Peruano vom 09.09.2025).
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Die peruanischen technischen Normen werden durch das KI-Reglamento rechtsverbindlich:
+    Art. 28 verpflichtet öffentliche Stellen, ihre institutionelle KI-Richtlinie auf Grundlage der NTP-ISO/IEC
+    42001:2025 zu erlassen; die Sechste Disposición Complementaria Final macht die jeweils geltenden NTP-ISO/IEC
+    27002 und NTP-ISO 31000 für öffentliche Stellen zwingend; Art. 33 nennt für den Privatsektor NTP-ISO/IEC
+    27002:2022, NTP-ISO/IEC 42001:2025 und ISO/IEC 23053:2022.
+
+    '
+  kurzbeschreibung: 'Peru verlagert die materielle Regelungsdichte des KI-Rechts in die technische Normung.
+    Das ist der wichtigste strukturelle Unterschied zum chilenischen Entwurf, der die Anforderungen im
+    Gesetz selbst formuliert. Praktisch bedeutet es: Wer in Peru wissen will, was eine öffentliche Stelle
+    beim KI-Einsatz schuldet, muss die NTP-ISO/IEC 42001:2025 lesen, die kostenpflichtig bei INACAL zu
+    beziehen ist — ein Zugangsproblem, das die Durchsetzbarkeit betrifft.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-20
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Art. 28 Reglamento: NTP-ISO/IEC 42001:2025 als Grundlage der institutionellen KI-Richtlinie öffentlicher
+    Stellen.'
+  - 'Art. 33 Reglamento: NTP-ISO/IEC 27002:2022, NTP-ISO/IEC 42001:2025 und ISO/IEC 23053:2022 für den
+    Privatsektor.'
+  - 'Sexta Disposición Complementaria Final: NTP-ISO/IEC 27002 und NTP-ISO 31000 in der jeweils geltenden
+    Fassung zwingend für öffentliche Stellen — ein dynamischer Verweis.'
+  dokumente:
+  - datum: 2025-09-09
+    typ: norm
+    titel: Reglamento der Ley N.º 31814, Art. 28, Art. 33 und Sexta Disposición Complementaria Final (Normverweise)
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Amtlicher Beleg für die Verbindlichkeit der technischen Normen.
+  offene_punkte:
+  - 'Die Normtexte selbst (NTP-ISO/IEC 42001:2025 usw.) sind nicht frei zugänglich; sie werden von INACAL
+    vertrieben. Ein amtlicher Nachweis der Existenz und des Ausgabejahres der NTP-ISO/IEC 42001:2025 konnte
+    nicht geführt werden — die Zitierung im Reglamento ist der einzige Beleg.
+
+    '
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  - pe-rm-246-2007-pcm
+  letzte_pruefung: 2026-09-06
+- id: pe-ley-29158
+  jurisdiktion: pe
+  kurztitel: Peruanisches Exekutivorganisationsgesetz (Ley N.º 29158)
+  offizieller_titel: 'Ley N.º 29158, Ley Orgánica del Poder Ejecutivo (Organgesetz Nr. 29158 über die
+    Exekutive)
+
+    '
+  fundstelle: 'In den Considerandos des Decreto Supremo N.º 115-2025-PCM ausdrücklich als „Ley N° 29158,
+    Ley Orgánica del Poder Ejecutivo" zitiert.
+
+    '
+  verfahrensnummer: Ley N.º 29158
+  status: anwendbar
+  status_detail: 'Das Organgesetz ist die Ermächtigungsgrundlage, auf die sich der peruanische Verordnungsgeber
+    beim Erlass des KI-Reglamento stützt. Es bestimmt, welche Regelungen die Exekutive durch Decreto Supremo
+    treffen darf. Für die Frage, ob das KI-Reglamento seine Verbote (Art. 23) und Hochrisikokategorien
+    (Art. 24) ohne gesetzliche Sanktionsermächtigung tragen kann, ist es die maßgebliche Norm.
+
+    '
+  kurzbeschreibung: 'Die Ley N.º 29158 ordnet die Zuständigkeiten der peruanischen Exekutive und die Rechtsformen
+    ihres Handelns. Sie ist deshalb hier verzeichnet, weil an ihr die kompetenzrechtliche Kernfrage des
+    peruanischen KI-Rechts hängt: Ein Reglamento darf nur ausführen, was das Gesetz vorgibt — die Ley
+    N.º 31814 sieht aber weder Verbote noch Risikoklassen vor.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Rechtsformen des Exekutivhandelns; Ermächtigungsgrundlage für Decretos Supremos.
+  - Maßstab für die Frage, ob das KI-Reglamento über die Ermächtigung der Ley N.º 31814 hinausgeht.
+  dokumente:
+  - datum: 2025-09-09
+    typ: konsolidiert
+    titel: Zitat der Ley N.º 29158 in den Considerandos des DS N.º 115-2025-PCM
+    url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+    sprache: es
+    urheber: Presidencia del Consejo de Ministros / Diario Oficial El Peruano
+    verifiziert: true
+    notiz: Beleg für Existenz und amtlichen Kurztitel.
+  offene_punkte:
+  - 'NICHT VERIFIZIERT: Volltext und Publikationsdatum.'
+  monitoring_quellen:
+  - https://busquedas.elperuano.pe/
+  bezug_regelwerke:
+  - pe-ds-115-2025-pcm
+  - pe-ley-31814
+  letzte_pruefung: 2026-09-06
+- id: cl-ley-20393
+  jurisdiktion: cl
+  kurztitel: Strafrechtliche Verantwortlichkeit juristischer Personen (Ley N° 20.393)
+  offizieller_titel: 'Ley N° 20.393, Establece la responsabilidad penal de las personas jurídicas en los
+    delitos que indica (Gesetz Nr. 20.393 über die strafrechtliche Verantwortlichkeit juristischer Personen
+    bei den genannten Straftaten)
+
+    '
+  fundstelle: 'Diario Oficial vom 02.12.2009. LeyChile idNorma 1008668; konsolidierte Fassung mit Versionsdatum
+    17.08.2023 — dem Tag, an dem die Ley N° 21.595 über Wirtschaftsstraftaten den Katalog der Anknüpfungstaten
+    grundlegend erweitert hat.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft, seit 2023 in erheblich erweiterter Fassung. Für KI ist das Gesetz die Norm,
+    über die Unternehmen für Taten haften, die mit oder durch KI-Systeme begangen werden — namentlich
+    für die Computerstraftaten der Ley N° 21.459 (Computerbetrug, Datenfälschung), soweit sie im Anknüpfungskatalog
+    stehen. Es begründet zugleich die Pflicht, ein Präventionsmodell zu unterhalten; bei KI-gestützten
+    Prozessen wird daraus faktisch eine Compliance-Pflicht für algorithmische Systeme.
+
+    '
+  kurzbeschreibung: 'Die Ley N° 20.393 macht juristische Personen für bestimmte Straftaten ihrer Leitungspersonen
+    und Beschäftigten strafrechtlich verantwortlich und knüpft die Entlastung an ein wirksames Präventionsmodell.
+    Nach der Erweiterung durch die Ley N° 21.595 (Wirtschaftsstraftaten, wirksam seit 2023/2024) ist der
+    Anknüpfungskatalog stark ausgeweitet. Das ist der chilenische Weg, algorithmische Fehlsteuerung in
+    Unternehmen zu sanktionieren, solange es kein KI-Gesetz gibt.
+
+    '
+  inkrafttreten:
+    datum: 2009-12-02
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1008668
+  anwendungsdaten:
+  - datum: 2023-08-17
+    was_gilt: 'Versionsdatum der konsolidierten Fassung; an diesem Tag wurde die Ley N° 21.595 über Wirtschaftsstraftaten
+      im Diario Oficial veröffentlicht, die den Anknüpfungskatalog der Ley N° 20.393 erweitert.
+
+      '
+    verifiziert: true
+    quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1008668
+  themenachsen:
+  - haftung
+  - sektor-finanz
+  - governance
+  regelungsschwerpunkte:
+  - Strafrechtliche Verantwortlichkeit juristischer Personen mit Entlastung durch ein wirksames Präventionsmodell.
+  - Anknüpfungskatalog seit der Ley N° 21.595 (2023) erheblich erweitert.
+  - Praktische Brücke, über die KI-gestützte Straftaten in Unternehmen sanktioniert werden können.
+  dokumente:
+  - datum: 2009-12-02
+    typ: konsolidiert
+    titel: Ley N° 20.393 — konsolidierte Fassung in LeyChile (Versionsdatum 17.08.2023)
+    url: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1008668
+    sprache: es
+    urheber: Biblioteca del Congreso Nacional de Chile
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung.
+  offene_punkte:
+  - 'Ob und mit welcher Nummer die Straftatbestände der Ley N° 21.459 im Anknüpfungskatalog stehen, wurde
+    nicht im Wortlaut geprüft. Ebenso wenig die Fundstelle der Ley N° 21.595 in LeyChile.
+
+    '
+  monitoring_quellen:
+  - https://www.bcn.cl/leychile/navegar?idNorma=1008668
+  bezug_regelwerke:
+  - cl-ley-21459
+  letzte_pruefung: 2026-09-06

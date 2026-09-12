@@ -1,0 +1,2678 @@
+# Gepflegte Datenbasis.
+regelwerke:
+- id: za-constitution-1996
+  jurisdiktion: za
+  kurztitel: Verfassung der Republik Südafrika 1996
+  offizieller_titel: Constitution of the Republic of South Africa, 1996
+  fundstelle: Act 108 of 1996 (heute zitiert ohne Aktennummer); Government Gazette No. 17678 of 18 December
+    1996
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'In Kraft seit 04.02.1997. Die Verfassung enthält keine KI-spezifische Vorschrift. Sie
+    ist gleichwohl das tragende Regelwerk: Der einzige südafrikanische Verfassungsgerichtsentscheid mit
+    KI-Relevanz — Ex parte President, In re Copyright Amendment Bill [2026] ZACC 26 vom 26.06.2026 — misst
+    die geplante Fair-Use-Schranke an s. 25(1) (willkürliche Eigentumsentziehung) und hält sie für verfassungsgemäss.
+    S. 14 (Privatsphäre) trägt POPIA, s. 33 trägt PAJA, s. 165 trägt die richterliche Unabhängigkeit,
+    auf die sich der Entwurf der KI-Richtlinie der Judiciary stützt.
+
+    '
+  kurzbeschreibung: 'Verfassung von 1996 mit unmittelbar anwendbarer Grundrechtsbindung (Bill of Rights,
+    Kapitel 2). Für das KI-Recht wirkt sie auf fünf Wegen. Erstens als Grundlage des Datenschutzes: s.
+    14 (''Everyone has the right to privacy'') ist die Norm, die POPIA ausführt. Zweitens als Eigentumsgarantie:
+    s. 25(1) verbietet willkürliche Eigentumsentziehung; an dieser Norm ist in ZACC 26 die Bildungsschranke
+    des s. 12D(1)-(5) Copyright Amendment Bill gescheitert, während die Fair-Use-Klausel des s. 12A sie
+    passiert hat. Drittens als Meinungsfreiheit (s. 16), die den Gegenpol jeder Deepfake- und Kennzeichnungsregulierung
+    bildet. Viertens über s. 33 (Recht auf rechtmässiges, vernünftiges und verfahrensfaires Verwaltungshandeln),
+    das die Grenze automatisierter Verwaltungsakte zieht. Fünftens über s. 165 (die richterliche Gewalt
+    liegt bei den Gerichten; sie sind allein Verfassung und Gesetz unterworfen) — die eigentliche Sperre
+    gegen einen maschinengestützten Spruchkörper. Eigene Sanktionen kennt die Verfassung nicht; Rechtsfolge
+    ist die Nichtigerklärung der Norm oder des Verwaltungsakts.
+
+    '
+  inkrafttreten:
+    datum: 1997-02-04
+    verifiziert: true
+    quelle: https://www.justice.gov.za/constitution/chp14.html
+    fundstelle_norm: s. 243(2)-(3) Constitution — Inkrafttreten durch Proklamation des Praesidenten (Proc.
+      No. R.6 of 1997, GG 17737 v. 24.01.1997) am 04.02.1997; s. 243(5) ordnet fuer einzelne Vorschriften
+      spaetere Daten an
+  anwendungsdaten:
+  - datum: 1997-06-30
+    was_gilt: s. 160(1)(b) (Wahl des Buergermeisters durch den Gemeinderat)
+    verifiziert: true
+    quelle: https://en.wikisource.org/wiki/Constitution_of_the_Republic_of_South_Africa,_1996
+  - datum: 1998-01-01
+    was_gilt: ss. 213-216, 218, 226-230 (Finanzverfassung) — kraft s. 243(5) Constitution
+    verifiziert: true
+    quelle: https://www.justice.gov.za/constitution/chp14.html
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - urheberrecht
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 's. 9 (Equality): Diskriminierungsverbot, unmittelbar auch gegenüber Privaten (s. 9(4)). Massstab
+    jeder algorithmischen Auswahlentscheidung; ausgeführt durch den Promotion of Equality and Prevention
+    of Unfair Discrimination Act 4 of 2000.'
+  - 's. 14 (Privacy): ''Everyone has the right to privacy, which includes the right not to have — (a)
+    their person or home searched; (b) their property searched; (c) their possessions seized; or (d) the
+    privacy of their communications infringed.'' Grundlage von POPIA.'
+  - 's. 16 (Freedom of expression): Schutzbereich mit ausdrücklichen Ausnahmen für Kriegspropaganda, Gewaltaufstachelung
+    und Hassrede (s. 16(2)). Der Gegenpol jeder Deepfake- und Kennzeichnungsregulierung.'
+  - 's. 25(1) (Property): ''No one may be deprived of property except in terms of law of general application,
+    and no law may permit arbitrary deprivation of property.'' In ZACC 26 der Massstab, an dem die urheberrechtlichen
+    Schranken gemessen wurden — mit der ausdrücklichen Feststellung, dass die Entziehung unkörperlichen
+    Eigentums geringeren Rechtfertigungsanforderungen unterliegt als die körperlichen Eigentums.'
+  - 's. 32 (Access to information): Grundlage des PAIA; für KI relevant als Anspruch auf Offenlegung von
+    Entscheidungsgrundlagen der öffentlichen Hand.'
+  - 's. 33 (Just administrative action): Anspruch auf rechtmässiges, vernünftiges und verfahrensfaires
+    Verwaltungshandeln und auf schriftliche Begründung. Ausgeführt durch PAJA. Die Norm, an der sich vollautomatisierte
+    Verwaltungsentscheidungen messen lassen müssen — bislang ohne einschlägige Rechtsprechung.'
+  - 's. 34 (Access to courts): Anspruch auf Entscheidung durch ein Gericht ''or, where appropriate, another
+    independent and impartial tribunal or forum''. Der Wortlaut lässt offen, ob ein Forum im Sinne dieser
+    Norm maschinell gestützt sein darf.'
+  - 's. 165 (Judicial authority): ''The judicial authority of the Republic is vested in the courts.''
+    s. 165(2): ''The courts are independent and subject only to the Constitution and the law, which they
+    must apply impartially and without fear, favour or prejudice.'' Die tragende Norm des Entwurfs der
+    KI-Richtlinie der Judiciary.'
+  - 's. 79 (Assent to Bills): Das Verfahren, in dem der Präsident einen Gesetzentwurf wegen verfassungsrechtlicher
+    Bedenken an das Parlament zurückverweisen und anschliessend nach s. 79(4)(b) dem Verfassungsgericht
+    vorlegen kann. Der Weg, auf dem der Copyright Amendment Bill 2024 nach Karlsruher Vorbild zum Verfassungsgericht
+    gelangte.'
+  - 'LÜCKE: Kein Grundrecht auf Erklärung automatisierter Entscheidungen. Das südafrikanische Gegenstück
+    zu Art. 22 DSGVO steht ausschliesslich im einfachen Gesetz (s. 71 POPIA).'
+  dokumente:
+  - datum: 1996-12-18
+    typ: konsolidiert
+    titel: Constitution of the Republic of South Africa, 1996 (consolidated)
+    url: https://www.gov.za/documents/constitution-republic-south-africa-1996
+    sprache: en
+    urheber: Republic of South Africa (gov.za)
+    verifiziert: false
+    notiz: Amtliche Sammelseite der Verfassung. Die Einzelvorschriften sind über die Kapitelgliederung
+      erreichbar; der Volltext wurde für diese Erfassung nicht artikelweise nachgeprüft.
+  - datum: 2026-06-26
+    typ: endfassung
+    titel: 'Ex parte President of the Republic of South Africa: In re Constitutionality of the Copyright
+      Amendment Bill and the Performers'' Protection Amendment Bill (CCT 306/24) [2026] ZACC 26'
+    url: https://www.saflii.org/za/cases/ZACC/2026/26.html
+    sprache: en
+    urheber: Constitutional Court of South Africa
+    verifiziert: true
+    notiz: 'Der einzige Verfassungsgerichtsentscheid mit unmittelbarer Relevanz für KI-Training: Er hält
+      die geplante Fair-Use-Schranke am Massstab von s. 25(1) für verfassungsgemäss.'
+  offene_punkte:
+  - Ob s. 33 einer vollautomatisierten Verwaltungsentscheidung entgegensteht, ist ungeklärt. Es gibt kein
+    südafrikanisches Gegenstück zu SyRI oder zur niederländischen Kinderopvangtoeslag-Affäre.
+  - Ob s. 34 ('another independent and impartial tribunal or forum') eine maschinelle Vorentscheidung
+    zulässt, ist nicht entschieden.
+  monitoring_quellen:
+  - https://www.concourt.org.za/
+  - https://www.saflii.org/za/cases/ZACC/
+  bezug_regelwerke:
+  - za-popia
+  - za-paja-2000
+  - za-copyright-amendment-bill
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - s. 243 der Verfassung selbst nennt kein Datum, sondern ermaechtigt den Praesidenten, das Inkrafttreten
+    durch Proklamation zu bestimmen (spaetestens 01.07.1997) und fuer einzelne Vorschriften verschiedene
+    Daten festzusetzen. Die Proklamation R.6 of 1997 (GG 17737 v. 24.01.1997) hat den 04.02.1997 bestimmt.
+    Eingetragenes Datum bestaetigt; gestaffelte Stufen ergaenzt.
+- id: za-paja-2000
+  jurisdiktion: za
+  kurztitel: PAJA — Promotion of Administrative Justice Act
+  offizieller_titel: Promotion of Administrative Justice Act 3 of 2000
+  fundstelle: Act No. 3 of 2000; Government Gazette No. 20853 of 3 February 2000
+  verfahrensnummer: B56B-99
+  status: anwendbar
+  status_detail: 'In Kraft seit 30.11.2000. Das Gesetz führt s. 33 der Verfassung aus. Es kennt den Begriff
+    der künstlichen Intelligenz nicht, definiert ''administrative action'' aber als Entscheidung ''by
+    an organ of state'' und verlangt in s. 3 und s. 5 Verfahrensfairness und schriftliche Begründung.
+    Damit ist PAJA die Norm, an der jede automatisierte Verwaltungsentscheidung in Südafrika zu messen
+    wäre. Einschlägige Rechtsprechung zu KI existiert bislang nicht.
+
+    '
+  kurzbeschreibung: 'Allgemeines Verwaltungsverfahrens- und Verwaltungsprozessrecht Südafrikas. Es gilt
+    für jede ''administrative action'' — jede Entscheidung eines Staatsorgans oder eines Privaten in Ausübung
+    hoheitlicher Befugnisse, die unmittelbare rechtliche Wirkung entfaltet. Adressaten sind alle Behörden
+    des Bundes, der Provinzen und der Kommunen. PAJA gibt dem Betroffenen Anhörungsrechte (s. 3), einen
+    Anspruch auf schriftliche Begründung binnen 90 Tagen (s. 5) und einen Katalog von Aufhebungsgründen
+    (s. 6), darunter die Rüge, die Behörde habe ihr Ermessen ''at the behest of another person or body''
+    oder unter unzulässiger Bindung ausgeübt (s. 6(2)(e)(iv) und s. 6(2)(f)(ii)). Rechtsfolge eines Verstosses
+    ist die gerichtliche Aufhebung (s. 8). Für das KI-Recht ist PAJA deshalb bedeutsam, weil die Delegation
+    der Entscheidung an ein Modell dogmatisch als unzulässige Ermessensbindung oder als Entscheidung durch
+    einen Unzuständigen einzuordnen wäre — eine Frage, die kein südafrikanisches Gericht bisher entschieden
+    hat.
+
+    '
+  inkrafttreten:
+    datum: 2000-11-30
+    verifiziert: true
+    quelle: https://justice.gov.za/legislation/acts/2000-003.pdf
+    fundstelle_norm: 's. 11 PAJA (Short title and commencement) i. V. m. der Praesidialproklamation; amtlicher
+      Kopf des Gesetzes: ''[ASSENTED TO 3 FEBRUARY 2000] [DATE OF COMMENCEMENT: 30 NOVEMBER 2000]'''
+  anwendungsdaten:
+  - datum: 2002-07-31
+    was_gilt: ss. 4 und 10 PAJA (Verwaltungshandeln mit Aussenwirkung gegenueber der Allgemeinheit; Erlass
+      der Regulations)
+    verifiziert: true
+    quelle: https://justice.gov.za/legislation/acts/2000-003.pdf
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 's. 1 (Definitions): ''administrative action'' als Entscheidung eines Staatsorgans in Ausübung öffentlicher
+    Gewalt mit unmittelbarer äusserer Rechtswirkung; ausgenommen ist unter anderem die Rechtsprechung.'
+  - 's. 3 (Procedurally fair administrative action affecting any person): Anhörung, angemessene Frist,
+    Mitteilung der Gründe.'
+  - 's. 5 (Reasons for administrative action): Anspruch auf schriftliche Begründung binnen 90 Tagen. Bei
+    einem opaken Modell ist die Begründungspflicht die schärfste Waffe des Betroffenen — sie zwingt die
+    Behörde, den Entscheidungsgrund in Worten anzugeben, nicht in Gewichten.'
+  - 's. 6(2)(e)(iv): Aufhebungsgrund, wenn die Entscheidung ''because of the unauthorised or unwarranted
+    dictates of another person or body'' ergangen ist. Die naheliegende dogmatische Anknüpfung für eine
+    Entscheidung, die faktisch das Modell getroffen hat.'
+  - 's. 6(2)(f)(ii): Aufhebungsgrund der Unvernünftigkeit (''not rationally connected to ... the information
+    before the administrator'').'
+  - 's. 8: Rechtsfolgen — Aufhebung, Zurückverweisung, in Ausnahmefällen Ersetzung der Entscheidung durch
+    das Gericht.'
+  - 'LÜCKE: PAJA kennt weder eine Offenlegungspflicht für den Einsatz automatisierter Systeme noch ein
+    Verbot vollautomatisierter Entscheidungen. Der einzige gesetzliche Anknüpfungspunkt bleibt s. 71 POPIA,
+    der aber nur die Verarbeitung personenbezogener Daten erfasst.'
+  dokumente:
+  - datum: 2000-02-03
+    typ: endfassung
+    titel: Promotion of Administrative Justice Act 3 of 2000
+    url: https://www.justice.gov.za/legislation/acts/2000-003.pdf
+    sprache: en
+    urheber: Department of Justice and Constitutional Development
+    verifiziert: false
+    notiz: Amtliche Fassung auf dem Portal des Justizministeriums. Der Volltext wurde für diese Erfassung
+      nicht paragraphenweise nachgeprüft; die Angaben zu s. 3, 5, 6 und 8 beruhen auf der allgemein bekannten
+      Systematik des Gesetzes.
+  offene_punkte:
+  - Kein südafrikanisches Urteil wendet PAJA auf eine algorithmisch gestützte Verwaltungsentscheidung
+    an. Die Frage, ob s. 6(2)(e)(iv) auf Modellausgaben passt, ist offen.
+  - Das Verhältnis von s. 5 PAJA (Begründungsanspruch) zu s. 71(3)(b) POPIA (Anspruch auf 'sufficient
+    information about the underlying logic') ist nicht geklärt; die Massstäbe könnten auseinanderfallen.
+  monitoring_quellen:
+  - https://www.justice.gov.za/legislation/acts/
+  - https://www.saflii.org/za/cases/
+  bezug_regelwerke:
+  - za-constitution-1996
+  - za-popia
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Amtlicher Gesetzeskopf bestaetigt 30.11.2000. Der 03.02.2000 (in der Fundstelle genannt) ist nur die
+    Ausfertigung (assent) — er stand nicht im Datumsfeld, sondern richtig im Fundstellenfeld. Gestaffeltes
+    Inkrafttreten der ss. 4 und 10 (31.07.2002) ergaenzt.
+- id: za-ai-policy-framework-2024
+  jurisdiktion: za
+  kurztitel: National AI Policy Framework 2024
+  offizieller_titel: South Africa National Artificial Intelligence Policy Framework
+  fundstelle: Herausgegeben vom Department of Communications and Digital Technologies, August 2024 (Datierung
+    des Dokuments); auf der Ministeriumsseite veröffentlicht am 14.08.2024
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Nicht bindendes Rahmendokument. Es ist kein Government Notice, wurde nicht in der Government
+    Gazette verkündet und begründet keine Pflichten. Es war ausdrücklich als Vorstufe einer ''comprehensive
+    National AI Policy'' gedacht. Diese Politik wurde am 10.04.2026 als Entwurf veröffentlicht und am
+    26.04.2026 zurückgezogen; das Framework von 2024 bleibt damit bis heute das einzige nationale KI-Politikdokument
+    Südafrikas.
+
+    '
+  kurzbeschreibung: 'Rahmenpapier des Kommunikations- und Digitalministeriums vom August 2024, hervorgegangen
+    aus dem National AI Summit vom 05.04.2024 und einem vorgeschalteten Diskussionspapier. Es formuliert
+    einen Zukunftsentwurf (''Futures Triangle'': gegenwärtige Treiber, angestrebte Zukunft, historische
+    Hemmnisse einschliesslich der digitalen Kluft) und zerlegt ihn in strategische Handlungsfelder — Talent-
+    und Kapazitätsaufbau, digitale Infrastruktur, Forschung und Entwicklung, ethische Leitlinien, Datenschutz,
+    Sicherheit und die Bewahrung der Sprachenvielfalt. Zielsektoren sind Gesundheit, Landwirtschaft, Bildung,
+    Finanzwesen und öffentliche Verwaltung. Leitbild ist ein menschenzentrierter Einsatz, bei dem KI menschliche
+    Entscheidungen ''augment rather than replace''. Adressat ist die Regierung selbst; Sanktionen enthält
+    das Dokument nicht.
+
+    '
+  inkrafttreten:
+    datum: 2024-08-14
+    verifiziert: false
+    quelle: https://www.dcdt.gov.za/sa-national-ai-policy-framework.html
+  anwendungsdaten:
+  - datum: 2024-04-05
+    was_gilt: National AI Summit des Ministeriums; Start des Politikprozesses mit einem Diskussionspapier
+      zur öffentlichen Konsultation.
+    verifiziert: false
+    quelle: https://www.ellipsis.co.za/artificial-intelligence-regulation-in-south-africa/
+  - datum: 2024-08-14
+    was_gilt: Veröffentlichung des 'South Africa National AI Policy Framework August 2024' durch das DCDT.
+    verifiziert: false
+    quelle: https://www.ellipsis.co.za/artificial-intelligence-regulation-in-south-africa/
+  - datum: 2026-02-25
+    was_gilt: Das DCDT teilt dem Portfolio Committee on Communications and Digital Technologies mit, die
+      Draft National AI Policy befinde sich in der Kabinettsabstimmung und werde binnen Monaten zur Kommentierung
+      veröffentlicht.
+    verifiziert: false
+    quelle: https://www.fasken.com/en/knowledge/2026/03/ai-regulation-progress-in-south-africa-a-further-step-in-the-right-direction-2
+  themenachsen:
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  - arbeit
+  regelungsschwerpunkte:
+  - 'Vision: ''AI for inclusive economic growth, job creation, cost reduction, and a developing Africa.'''
+  - 'Menschenzentrierung: KI-Anwendungen sollen menschliche Entscheidungen ergänzen, nicht ersetzen —
+    die begriffliche Vorlage für den späteren Entwurf der KI-Richtlinie der Judiciary.'
+  - 'Sprachenpolitik als eigenständiges KI-Ziel: Digitalisierung und Modellierung der zwölf amtlichen
+    Sprachen Südafrikas. Das ist ein Regelungsziel, das kein europäisches Rahmendokument kennt.'
+  - 'Fünf Zielsektoren: Gesundheit, Landwirtschaft, Bildung, Finanzdienstleistungen, öffentliche Verwaltung.'
+  - Anbindung an die AU Continental AI Strategy, die eine nationale Politikverabschiedung im Zeitraum
+    2025/26 vorsah — ein Zeitplan, den Südafrika mit der Rücknahme vom April 2026 gerissen hat.
+  - Kein Risikoansatz, keine Verbote, keine Konformitätsbewertung, keine Aufsichtsbehörde. Das Framework
+    ist Industriepolitik, nicht Produktregulierung.
+  dokumente:
+  - datum: 2024-08-14
+    typ: uebersicht
+    titel: SA National AI Policy Framework — Download-Seite des Ministeriums
+    url: https://www.dcdt.gov.za/sa-national-ai-policy-framework.html
+    sprache: en
+    urheber: Department of Communications and Digital Technologies
+    verifiziert: true
+    notiz: 'Amtliche Bereitstellungsseite; im Browser geöffnet. Sie führt den Titel ''SA National AI Policy
+      Framework'' und einen Download-Knopf (Zieldatei: /sa-national-ai-policy-framework/file/338-sa-national-ai-policy-framework.html).
+      Der Dokumenttext selbst wurde nicht geöffnet.'
+  - datum: 2024-10-01
+    typ: uebersicht
+    titel: 'OECD.AI Policy Initiative: South Africa National Artificial Intelligence Policy Framework'
+    url: https://oecd.ai/en/dashboards/policy-initiatives/south-africa-national-artificial-intelligence-policy-framework
+    sprache: en
+    urheber: OECD AI Policy Observatory
+    verifiziert: true
+    notiz: 'Zweite, unabhängige Erfassung mit Inhaltsangabe. WIDERSPRUCH: Die OECD datiert das Framework
+      auf Oktober 2024, das Dokument selbst und die südafrikanischen Quellen auf August 2024.'
+  offene_punkte:
+  - Ob das Framework nach der Rücknahme der Draft Policy fortgilt oder mit ihr überholt ist, hat das Ministerium
+    nicht erklärt. Faktisch ist es das einzige verbliebene Dokument.
+  - 'Datierung: August 2024 (Dokument, DCDT, Fasken) gegen Oktober 2024 (OECD.AI). Nicht aufgelöst.'
+  - 'Inkrafttreten nicht belegbar: dcdt.gov.za (robots/TLS-Sperre), gov.za, Bowmans-Analyse, PolicyVault,
+    Ellipsis. Das Rahmenpapier traegt nur die Datierung ''August 2024'', ist kein Government Notice und
+    wurde nie in der Government Gazette verkuendet; ein foermliches Datum der Veroeffentlichung ist nicht
+    feststellbar. Bowmans berichtet im August 2024 ausdruecklich, das Papier sei zu dem Zeitpunkt noch
+    nicht foermlich auf der Ministeriumsseite veroeffentlicht gewesen. Der eingetragene 14.08.2024 laesst
+    sich damit nicht am amtlichen Dokument belegen; er ist aber auch nicht widerlegt. Status softlaw und
+    inkrafttreten-Datum unveraendert gelassen, verifiziert bleibt false.'
+  monitoring_quellen:
+  - https://www.dcdt.gov.za/
+  - https://oecd.ai/en/dashboards/policy-initiatives/south-africa-national-artificial-intelligence-policy-framework
+  bezug_regelwerke:
+  - za-draft-ai-policy-2026
+  letzte_pruefung: 2026-09-06
+- id: za-draft-ai-policy-2026
+  jurisdiktion: za
+  kurztitel: Draft National AI Policy 2026 (zurückgezogen)
+  offizieller_titel: Draft South Africa National Artificial Intelligence (AI) Policy
+  fundstelle: General Notice 3880 of 2026, Government Gazette No. 54477 of 10 April 2026; zurückgenommen
+    durch General Notice 3978 of 2026, Government Gazette No. 54840 of 12 June 2026
+  verfahrensnummer: GN 3880/2026 (Veröffentlichung); GN 3978/2026 (Rücknahme)
+  status: gescheitert
+  status_detail: 'Am 10.04.2026 mit sechzigtägiger Kommentarfrist im Government Gazette veröffentlicht,
+    am 26.04.2026 vom Minister öffentlich zurückgezogen und am 12.06.2026 förmlich aufgehoben. Grund:
+    Das Literaturverzeichnis der Politik enthielt erfundene wissenschaftliche Quellen — nach Einschätzung
+    des Ministers ''the most plausible explanation is that AI-generated citations were included without
+    proper verification''. Vier Beamte, darunter der zuständige Chief Director, wurden vom Dienst suspendiert.
+    Eine überarbeitete Fassung soll im November 2026 dem Kabinett vorgelegt und im Januar 2027 zur Kommentierung
+    veröffentlicht werden.
+
+    '
+  kurzbeschreibung: 'Erster Entwurf einer umfassenden nationalen KI-Politik Südafrikas, vom Kabinett am
+    02.04.2026 zur Veröffentlichung freigegeben und am 10.04.2026 als General Notice 3880 in der Government
+    Gazette 54477 verkündet. Er ruhte auf sechs Säulen: Kapazitäts- und Talententwicklung; inklusives
+    Wachstum und Beschäftigung; verantwortliche Governance einschliesslich Sicherheit und Datenschutz;
+    ethische und inklusive KI; kulturelle Bewahrung und internationale Anschlussfähigkeit; menschenzentrierter
+    Einsatz. Institutionell sah er sieben neue Einrichtungen vor, darunter eine National AI Commission,
+    ein AI Ethics Board, ein Büro einer AI Ombudsperson und — international ohne Vorbild — einen ''AI
+    Insurance Superfund'' zur Deckung KI-verursachter Schäden. Adressaten wären der öffentliche und der
+    private Sektor gewesen; eigene Sanktionen enthielt der Entwurf nicht, er war Politik, nicht Gesetz.
+    Rechtspolitisch ist er heute vor allem als Präzedenzfall bedeutsam: die erste nationale KI-Politik
+    weltweit, die an KI-Halluzinationen in ihrem eigenen Fussnotenapparat gescheitert ist.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-10
+    verifiziert: true
+    quelle: https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf
+  anwendungsdaten:
+  - datum: 2026-04-02
+    was_gilt: Das Kabinett gibt die Veröffentlichung des Entwurfs zur öffentlichen Kommentierung frei.
+    verifiziert: false
+    quelle: https://www.ellipsis.co.za/artificial-intelligence-regulation-in-south-africa/
+  - datum: 2026-04-10
+    was_gilt: Veröffentlichung als General Notice 3880 in Government Gazette 54477; Beginn der sechzigtägigen
+      Kommentarfrist.
+    verifiziert: true
+    quelle: https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf
+  - datum: 2026-04-26
+    was_gilt: 'Minister Solly Malatsi zieht den Entwurf öffentlich zurück: ''This failure is not a mere
+      technical issue. It has compromised the integrity and credibility of the draft policy.''
+
+      '
+    verifiziert: false
+    quelle: https://techcentral.co.za/malatsi-withdraws-ai-policy-after-fictitious-sources-scandal/280674/
+  - datum: 2026-05-26
+    was_gilt: Unterrichtung des Portfolio Committee on Communications and Digital Technologies über Rücknahmegründe,
+      Zeitplan und Konsequenzenmanagement.
+    verifiziert: false
+    quelle: https://www.itweb.co.za/article/government-sets-target-for-revised-ai-policy/lwrKxv3Y2QyMmg1o
+  - datum: 2026-06-10
+    was_gilt: Ablauf der ursprünglichen Kommentarfrist (16:00). Die Frist lief formal noch, obwohl der
+      Entwurf politisch bereits zurückgezogen war.
+    verifiziert: true
+    quelle: https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf
+  - datum: 2026-06-12
+    was_gilt: Förmliche Aufhebung des GN 3880 durch General Notice 3978 in Government Gazette 54840 (Notiz
+      unterzeichnet 04.06.2026).
+    verifiziert: true
+    quelle: https://www.gov.za/sites/default/files/gcis_document/202606/54840gen3978.pdf
+  themenachsen:
+  - governance
+  - grundrechte
+  - haftung
+  - sektor-oeffentlich
+  - arbeit
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Säule 1 — Capacity and Talent Development: Bildung, Ausbildung, digitale Infrastruktur.'
+  - 'Säule 2 — AI for Inclusive Growth and Job Creation: Forschung, Entwicklung, Start-ups und Kleinstunternehmen.'
+  - 'Säule 3 — Responsible Governance: Sicherheit, Cybersicherheit, Privatsphäre, Datenschutz.'
+  - 'Säule 4 — Ethical and Inclusive AI: Leitlinien, Fairness, Verzerrungsminderung.'
+  - 'Säule 5 — Cultural Preservation and International Integration: kulturelle Werte, globale Zusammenarbeit;
+    Digitalisierung der zwölf Amtssprachen.'
+  - 'Säule 6 — Human-Centred Deployment: menschliche Kontrolle, Transparenz, Einsatz im öffentlichen Sektor.'
+  - 'Sieben vorgeschlagene Einrichtungen, darunter National AI Commission, AI Ethics Board, Office of
+    the AI Ombudsperson und ein ''AI Insurance Superfund''. Der Superfund ist international ohne Vorbild:
+    ein staatlich getragener Deckungspool für KI-Schäden statt einer Haftungsregel.'
+  - 'Adressat der Stellungnahmen: Director-General des DCDT, z.Hd. Mr M. Mashologu (DDG Digital Society
+    and Economy), Block A, iParioli Office Park, 1166 Park Street, Hatfield, Pretoria; Private Bag X860,
+    Pretoria 0001; aipolicy@dcdt.gov.za.'
+  - 'SELBSTWIDERSPRUCH: Der Entwurf verlangte ''vigilant human oversight'' und wurde ausweislich der Ministererklärung
+    ohne Überprüfung der KI-erzeugten Belegstellen ausgeliefert. Das ist der eigentliche Befund — nicht
+    ein Politikversagen, sondern ein Beleg dafür, dass die von der Politik geforderte Prüfpflicht in der
+    Verwaltung, die sie fordert, nicht eingehalten wurde.'
+  dokumente:
+  - datum: 2026-04-10
+    typ: entwurf
+    titel: Draft South Africa National Artificial Intelligence (AI) Policy — General Notice 3880 of 2026,
+      GG 54477
+    url: https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf
+    sprache: en
+    urheber: Department of Communications and Digital Technologies
+    verifiziert: true
+    notiz: 'Amtliche Gazette-Fassung. Am Primärdokument geprüft: Notice 3880 of 2026, Gazette No. 54477,
+      Datum 10.04.2026, Kommentarfrist 10.06.2026 16:00, Einreichungsadresse, sechs strategische Säulen.
+      Dies ist das Dokument, dessen Literaturverzeichnis erfundene Quellen enthielt.'
+  - datum: 2026-06-12
+    typ: endfassung
+    titel: Withdrawal of draft South Africa National Artificial Intelligence (AI) Policy — General Notice
+      3978 of 2026, GG 54840
+    url: https://www.gov.za/sites/default/files/gcis_document/202606/54840gen3978.pdf
+    sprache: en
+    urheber: Department of Communications and Digital Technologies; gezeichnet Mr Solly Malatsi, MP, Minister
+    verifiziert: true
+    notiz: 'Amtliche Rücknahmenotiz. Am Primärdokument geprüft: Notice 3978 of 2026, Gazette 54840, Veröffentlichung
+      12.06.2026, Unterzeichnung 04.06.2026; sie hebt ''Government Notice Number 3880 published in Government
+      Gazette Number 54477 on 10 April 2026'' auf. HINWEIS ZUR ABLAGE: Die Sammelseite auf gov.za führt
+      die Notiz irreführend unter der Rubrik ''Promotion of Access to Information Act''.'
+  - datum: 2026-04-10
+    typ: konsultation
+    titel: 'Call for comment: Draft South Africa National Artificial Intelligence (AI) Policy (PMG-Fassung
+      der Gazette-Notiz)'
+    url: https://static.pmg.org.za/260410AIpolicynotice.pdf
+    sprache: en
+    urheber: Parliamentary Monitoring Group
+    verifiziert: false
+    notiz: Zweitfassung der Konsultationsnotiz beim Parliamentary Monitoring Group; nützlich, weil die
+      Gazette-PDFs auf gov.za erfahrungsgemäss nach Jahren umziehen.
+  - datum: 2026-05-01
+    typ: bericht
+    titel: 'The Withdrawal of South Africa''s Draft Artificial Intelligence Policy: An Opportunity?'
+    url: https://www.dlapiper.com/en/insights/publications/2026/05/withdrawal-of-south-africa-draft-ai-policy
+    sprache: en
+    urheber: DLA Piper
+    verifiziert: true
+    notiz: Sekundärquelle. Nennt als Rücknahmegrund, dass 'at least 10% of the references to academic
+      sources in the document's reference list were fictitious', und ordnet die Verzögerung im Verhältnis
+      zur AU Continental AI Strategy ein.
+  offene_punkte:
+  - 'Zahl der erfundenen Belegstellen nicht abschliessend geklärt (DLA Piper: mindestens 10 % des Literaturverzeichnisses).'
+  - Ausgang der Disziplinarverfahren gegen die vier suspendierten Beamten unbekannt.
+  - Ob die überarbeitete Fassung die sieben Institutionen und den AI Insurance Superfund beibehält, ist
+    offen.
+  - Ob nach der Politik ein Gesetzentwurf folgt, ist nicht entschieden. Es gibt bis heute keinen südafrikanischen
+    KI-Gesetzentwurf und keine Ankündigung eines solchen.
+  monitoring_quellen:
+  - https://www.dcdt.gov.za/
+  - https://www.gov.za/documents/notices
+  - https://pmg.org.za/committees/78/
+  bezug_regelwerke:
+  - za-ai-policy-framework-2024
+  - za-popia
+  letzte_pruefung: 2026-09-06
+- id: za-patents-act-1978
+  jurisdiktion: za
+  kurztitel: Patents Act 57 of 1978
+  offizieller_titel: Patents Act, 1978 (Act No. 57 of 1978)
+  fundstelle: Act No. 57 of 1978, angenommen am 26.04.1978, in Kraft seit 01.01.1979; zuletzt geändert
+    durch den Intellectual Property Laws Amendment Act 58 of 2002
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Geltendes Patentgesetz. Sein entscheidendes Merkmal für das KI-Recht ist das Fehlen
+    einer materiellen Prüfung. s. 34 verpflichtet den Registrar, jede Anmeldung ''in the prescribed manner''
+    zu prüfen und anzunehmen, wenn sie den Anforderungen des Gesetzes entspricht — das heisst in der Praxis:
+    Formalprüfung. Neuheit, erfinderische Tätigkeit und gewerbliche Anwendbarkeit werden erst im Nichtigkeits-
+    oder Verletzungsverfahren geprüft. Südafrika ist deshalb ein Registrierungssystem (depository system).
+    Genau darauf beruht die weltweit einzige Patenterteilung an eine Maschine als Erfinderin: ZA 2021/03242
+    (Stephen L. Thaler, Erfinder ''DABUS''), angenommen am 24.06.2021, erteilt mit der Veröffentlichung
+    im Patent Journal vom 28.07.2021. Ein Nichtigkeitsverfahren nach s. 61 ist nicht dokumentiert.
+
+    '
+  kurzbeschreibung: 'Das Patentgesetz von 1978 regelt Anmeldung, Erteilung, Aufrechterhaltung, Übertragung,
+    Verletzung und Nichtigkeit südafrikanischer Patente. Anmeldeberechtigt ist nach s. 27(1) ''the inventor
+    or ... any other person acquiring from him the right to apply''. Der Begriff des Erfinders wird im
+    Gesetz nicht definiert. Erteilt wird ohne materielle Prüfung: Nach s. 42(2)(b) gilt das Patent mit
+    der Veröffentlichung der Annahme im Patent Journal als versiegelt und erteilt. Sanktionsseitig kennt
+    das Gesetz die Nichtigkeitsklage jedermanns nach s. 61 — unter anderem mit dem Grund, der Patentinhaber
+    sei nicht nach s. 27 anmeldeberechtigt gewesen — sowie die Unterlassungs-, Auskunfts- und Schadensersatzklage
+    des Inhabers nach s. 65. Für das KI-Recht ist das Gesetz aus zwei Gründen weltweit einzigartig: Es
+    erlaubt faktisch die Nennung einer Maschine als Erfinderin, weil niemand prüft, ob der Genannte ein
+    Mensch ist — und es hält zugleich mit s. 61(1) den Hebel bereit, mit dem dieselbe Erteilung jederzeit
+    angegriffen werden könnte.
+
+    '
+  inkrafttreten:
+    datum: 1979-01-01
+    verifiziert: true
+    quelle: https://www.wipo.int/wipolex/en/legislation/details/4091
+  anwendungsdaten:
+  - datum: 2021-06-24
+    was_gilt: Die CIPC nimmt die Anmeldung ZA 2021/03242 (nationale Phase aus PCT/IB2019/057809, Anmelder
+      Stephen L. Thaler, Erfinder 'DABUS') an.
+    verifiziert: false
+    quelle: https://ipwatchdog.com/2021/07/29/dabus-gets-first-patent-south-africa-formalities-examination/
+  - datum: 2021-07-28
+    was_gilt: 'Veröffentlichung der Annahme im Patent Journal Vol. 54 Nr. 7 vom 28.07.2021. Damit gilt
+      das Patent nach s. 42(2)(b) als versiegelt und erteilt — die weltweit erste und bis heute einzige
+      Patenterteilung mit einer künstlichen Intelligenz als benannter Erfinderin.
+
+      '
+    verifiziert: false
+    quelle: https://iponline.cipc.co.za/Publications/PublishedJournals/E_Journal_July%202021%20Part%202.pdf
+  - datum: 2026-02-19
+    was_gilt: 'Die CIPC weitet ihr Experiential Learning Programme aus: Auch national eingereichte vollständige
+      Anmeldungen können nun freiwillig in eine kostenlose Recherche und materielle Prüfung durch Prüferanwärter
+      einbezogen werden. Das ist der Vorlauf zur angekündigten Substantive Search and Examination, aber
+      keine Rechtsänderung.
+
+      '
+    verifiziert: false
+    quelle: https://www.kisch-ip.com/Articles/Read/482/The-South-African-Patent-Office-is-offering-free-substantive-search-and-examination
+  themenachsen:
+  - urheberrecht
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - 's. 2 (Definitions): ''''invention'''' means an invention for which a patent may be granted under
+    section 25''. Der Begriff ''''inventor'''' wird NICHT definiert — das ist die Lücke, durch die DABUS
+    gegangen ist.'
+  - 's. 25 (Patentable inventions): Patentierbar ist ''any new invention which involves an inventive step
+    and which is capable of being used or applied in trade or industry or agriculture''. Ausgenommen sind
+    unter anderem Entdeckungen, wissenschaftliche Theorien, mathematische Methoden, Schemata für gedankliche
+    Tätigkeiten und — ausdrücklich — Computerprogramme ''as such''.'
+  - 's. 27(1): ''An application for a patent in respect of an invention may be made by the inventor or
+    by any other person acquiring from him the right to apply or by both such inventor and such other
+    person.'' Die Norm setzt eine Person voraus, aus deren Recht abgeleitet wird. Genau daran setzt die
+    Kritik an der DABUS-Erteilung an: Wenn DABUS keine Person ist, konnte Thaler von ihm nichts erwerben.'
+  - 's. 30: Anmeldung in der vorgeschriebenen Form gegen Gebühr, mit vorläufiger oder vollständiger Beschreibung.'
+  - 's. 34 (Examination of applications): ''The registrar shall examine in the prescribed manner every
+    application for a patent and every complete specification accompanying such application or lodged
+    at the patent office in pursuance of such application and if it complies with the requirements of
+    this Act, he shall accept it.'' Die Norm ordnet KEINE Neuheitsprüfung an. Das ist die eigentliche
+    Ursache der DABUS-Erteilung — kein Wertungsentscheid, sondern eine strukturelle Eigenschaft des Registrierungssystems.'
+  - 's. 42 (Acceptance and publication): Der Registrar teilt die Annahme schriftlich mit; die Mitteilung
+    enthält das Annahmedatum und den Hinweis, dass das Patent mit der Veröffentlichung der Annahme im
+    Journal durch den Anmelder ''shall be deemed to have been sealed and granted as from the date of such
+    publication''. Die Erteilung ist also ein Publikationsakt des Anmelders, nicht ein Hoheitsakt des
+    Amtes.'
+  - 's. 43: Öffentliche Einsicht in Patent, Anmeldung und Begleitunterlagen nach der Veröffentlichung
+    gegen Gebühr.'
+  - 's. 43F(2): Sonderregeln für Anmeldungen aus dem PCT-Verfahren. Über diese Vorschrift ist die DABUS-Anmeldung
+    in die nationale Phase gelangt.'
+  - 's. 61(1) (Grounds for application for revocation): Jedermann kann jederzeit die Nichtigerklärung
+    beantragen — unter anderem mit der Begründung, der Patentinhaber sei nicht nach s. 27 anmeldeberechtigt
+    gewesen, die Erfindung sei nicht patentierbar, die Beschreibung offenbare die Erfindung nicht ausreichend
+    oder die Ansprüche gingen über die Offenbarung hinaus. Das ist der Hebel, mit dem das DABUS-Patent
+    angegriffen werden könnte; ein solcher Antrag ist bis heute nicht dokumentiert.'
+  - 's. 65: Verletzungsklage. Die materielle Schutzfähigkeit wird in Südafrika typischerweise erst hier
+    oder im Nichtigkeitsverfahren geprüft — mit der Folge, dass ein ''erteiltes'' südafrikanisches Patent
+    eine deutlich schwächere Vermutungswirkung hat als ein geprüftes europäisches.'
+  - 'Formalitäten in der Praxis: Die Kritik (Adams & Adams; van der Merwe/Ncube) rügt, dass in der DABUS-Akte
+    die Erklärung über den Rechtserwerb aus Formblatt P3 gestrichen war, keine Erklärung nach PCT-Regel
+    4.17(ii) vorlag und kein Übertragungsnachweis eingereicht wurde — Anforderungen, die eine Registrar-Direktive
+    von April 2009 für PCT-gestützte Anmeldungen aufstellt. Die Erteilung war danach auch nach geltendem
+    Formalrecht angreifbar.'
+  dokumente:
+  - datum: 1978-04-26
+    typ: konsolidiert
+    titel: Patents Act 57 of 1978 (Government Gazette-Fassung, gov.za)
+    url: https://www.gov.za/sites/default/files/gcis_document/201504/act-57-1978.pdf
+    sprache: en
+    urheber: Republic of South Africa
+    verifiziert: true
+    notiz: Amtliche Fassung auf gov.za; im Volltext abgerufen. s. 27, 30, 34, 43 und die Systematik von
+      s. 61 wurden hier geprüft.
+  - datum: 1996-10-04
+    typ: konsolidiert
+    titel: Patents Act 1978 (Act No. 57 of 1978, as amended up to Act No. 49 of 1996) — WIPO Lex ZA026
+    url: https://www.wipo.int/wipolex/en/legislation/details/4091
+    sprache: en
+    urheber: WIPO Lex
+    verifiziert: true
+    notiz: Belegt Annahmedatum 26.04.1978 und Inkrafttreten 01.01.1979 sowie die Änderungskette. Der unmittelbare
+      PDF-Link (za026en.pdf) leitet auf die spätere Fassung ZA-6256 um.
+  - datum: 2015-04-09
+    typ: konsolidiert
+    titel: Patents Act 57 of 1978 (Universitätsfassung mit Regulations-Verweis)
+    url: https://www.ufs.ac.za/docs/librariesprovider41/default-document-library/patents-act-57-of-1978-1255.pdf?sfvrsn=6328cd21_0
+    sprache: en
+    urheber: University of the Free State (Wiedergabe der konsolidierten Fassung)
+    verifiziert: true
+    notiz: Aus dieser Fassung sind der Wortlaut von s. 34 und s. 42(2) sowie die Definition von 'invention'
+      in s. 2 wörtlich entnommen. Keine amtliche Quelle, aber textidentisch mit der gov.za-Fassung.
+  - datum: 2021-07-28
+    typ: uebersicht
+    titel: Patent Journal Vol. 54 No. 07, 28 July 2021 (Part 2 of 2)
+    url: https://iponline.cipc.co.za/Publications/PublishedJournals/E_Journal_July%202021%20Part%202.pdf
+    sprache: en
+    urheber: Companies and Intellectual Property Commission (CIPC)
+    verifiziert: false
+    notiz: 'Amtliches Publikationsorgan; die Ausgabe, mit der das DABUS-Patent nach s. 42(2)(b) als erteilt
+      gilt. Die Ausgabe wurde geöffnet und trägt Vol. 54 Nr. 07 vom 28.07.2021; der Einzeleintrag zu 2021/03242
+      liess sich im abrufbaren Auszug nicht auffinden. Deshalb verifiziert: false.'
+  - datum: 2021-07-29
+    typ: bericht
+    titel: DABUS Gets Its First Patent in South Africa Under Formalities Examination
+    url: https://ipwatchdog.com/2021/07/29/dabus-gets-first-patent-south-africa-formalities-examination/
+    sprache: en
+    urheber: IPWatchdog
+    verifiziert: true
+    notiz: Sekundärquelle. Belegt Annahmedatum 24.06.2021, Journalausgabe Juli 2021, Anmelder Thaler,
+      Erfinderangabe DABUS und den Gegenstand (Lebensmittelbehälter auf fraktaler Geometrie).
+  - datum: 2021-08-01
+    typ: bericht
+    titel: South African Patent Office's Recent Grant of a Patent for an Invention Created by Artificial
+      Intelligence
+    url: https://www.adams.africa/intellectual-property/south-african-patent-offices-recent-grant-of-a-patent-for-an-invention-created-by-artificial-intelligence/
+    sprache: en
+    urheber: Adams & Adams
+    verifiziert: true
+    notiz: 'Sekundärquelle, aber die genaueste: Aktenzeichen SA 2021/03242, PCT/IB2019/057809, Erteilungsdatum
+      28.07.2021, Erfinderangabe ''DABUS, The invention was autonomously generated by an artificial intelligence'',
+      Verweis auf s. 43F(2) Patents Act, PCT-Regeln 51bis.2 und 4.17(i) sowie auf die Registrar-Direktive
+      von April 2009.'
+  - datum: 2021-09-01
+    typ: stellungnahme
+    titel: South Africa was wrong to patent an AI's 'invention'
+    url: https://techcentral.co.za/south-africa-was-wrong-to-patent-an-ais-invention/218389/
+    sprache: en
+    urheber: TechCentral (Beitrag von IP-Wissenschaftlern)
+    verifiziert: true
+    notiz: 'Die Gegenposition: Die Erteilung sei schon nach geltendem Formalrecht fehlerhaft gewesen,
+      weil die Erklärung über den Rechtserwerb aus Formblatt P3 gestrichen, keine PCT-Regel-4.17(ii)-Erklärung
+      abgegeben und kein Übertragungsnachweis eingereicht wurde.'
+  offene_punkte:
+  - 'RECHTSSTAND DES DABUS-PATENTS UNGEKLÄRT. Weder Erlöschen wegen Nichtzahlung der Jahresgebühren noch
+    ein Nichtigkeitsantrag nach s. 61 sind belegt. Das Patentregister der CIPC ist ohne Anmeldung nicht
+    abfragbar; Espacenet lieferte keinen darstellbaren Treffer. Für die Datenbank gilt: das Patent ist
+    erteilt, sein Fortbestand ist nicht verifiziert.'
+  - Kein südafrikanisches Gericht hat je über die Erfinderfähigkeit einer Maschine entschieden. Alle bekannten
+    Entscheidungen zu DABUS stammen aus Prüfungsstaaten (EPA J 8/20, UK Supreme Court 20.12.2023, Australien
+    Full Court 13.04.2022, USA CAFC 2022, Neuseeland, Schweiz BVGer 26.06.2025).
+  - Der Titel der DABUS-Erfindung ist in keiner abgerufenen amtlichen Quelle wörtlich belegt; die Sekundärquellen
+    sprechen von einem 'food container based on fractal geometry'.
+  - Ob die angekündigte Substantive Search and Examination rückwirkend auf bereits erteilte Patente wirken
+    könnte, ist ausgeschlossen — sie erfasst nur künftige Anmeldungen. Das DABUS-Patent bliebe also auch
+    nach der Reform bestehen, solange niemand s. 61 bemüht.
+  monitoring_quellen:
+  - https://iponline.cipc.co.za/Publications/JournalPublications.aspx
+  - https://www.cipc.co.za/
+  - https://www.wipo.int/wipolex/en/legislation/details/4091
+  bezug_regelwerke:
+  - za-cipc-sse-praxis
+  - za-patents-bill
+  - za-copyright-act-1978
+  letzte_pruefung: 2026-09-06
+- id: za-cipc-sse-praxis
+  jurisdiktion: za
+  kurztitel: CIPC-Prüfungspraxis und Experiential Learning Programme
+  offizieller_titel: Practice of the Companies and Intellectual Property Commission (CIPC) as receiving
+    and granting office under the Patents Act 57 of 1978, including the Experiential Learning Programme
+    (ELP) for voluntary substantive search and examination
+  fundstelle: Keine förmliche Rechtsgrundlage; Verwaltungspraxis des Registrar of Patents auf der Grundlage
+    von s. 34 Patents Act und der Patent Regulations
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Die CIPC prüft Patentanmeldungen bis heute nur formell. Seit Februar 2026 bietet sie
+    im Rahmen des Experiential Learning Programme eine freiwillige, kostenlose Recherche und materielle
+    Prüfung durch Prüferanwärter an, die seither auch national eingereichten vollständigen Anmeldungen
+    offensteht. Das Ergebnis ist ein Recherche- und Prüfbericht ohne Rechtsfolgen. Eine verbindliche Substantive
+    Search and Examination (SSE) ist angekündigt, aber bis zum 06.09.2026 nicht eingeführt; sie setzt
+    den Patents Bill voraus.
+
+    '
+  kurzbeschreibung: 'Die Companies and Intellectual Property Commission ist das südafrikanische Patentamt.
+    Ihre Praxis ist für das KI-Recht deshalb bedeutsam, weil sie erklärt, wie eine Maschine Erfinderin
+    werden konnte: Der Registrar prüft Anmeldungen nur auf Vollständigkeit und Formgerechtigkeit; ob der
+    als Erfinder Genannte eine natürliche Person ist und ob der Anmelder das Recht zur Anmeldung wirksam
+    erworben hat, wird nicht materiell geprüft. Seit 2018 sieht die Intellectual Property Policy Phase
+    I den Übergang zu einer materiellen Prüfung vor. Als Vorstufe bildet die CIPC seit Jahren Patentprüfer
+    aus und lässt sie im Experiential Learning Programme an echten Anmeldungen üben; die Teilnahme ist
+    freiwillig und gebührenfrei, und seit einer Bekanntmachung vom 19.02.2026 können auch national eingereichte
+    vollständige Anmeldungen einbezogen werden. Sanktionen knüpfen an dieses Programm nicht an; der Prüfbericht
+    dient dem Anmelder als Erkenntnisquelle und dem Amt als Ausbildung.
+
+    '
+  inkrafttreten:
+    datum: 2026-02-19
+    verifiziert: true
+    quelle: https://www.kisch-ip.com/Articles/Read/482/The-South-African-Patent-Office-is-offering-free-substantive-search-and-examination
+    fundstelle_norm: Keine Inkrafttretensvorschrift — reine Verwaltungspraxis. Datum der Bekanntgabe des
+      South African Institute of Intellectual Property Law vom 19.02.2026, mit der die Oeffnung des Experiential
+      Learning Programme fuer national eingereichte vollstaendige Anmeldungen mitgeteilt wurde
+  anwendungsdaten:
+  - datum: 2018-05-31
+    was_gilt: Das Kabinett genehmigt die Intellectual Property Policy of the Republic of South Africa
+      Phase I; sie sieht unter anderem die Einführung einer materiellen Prüfung vor.
+    verifiziert: false
+    quelle: https://www.gov.za/sites/default/files/gcis_document/201808/ippolicy2018-phasei.pdf
+  - datum: 2025-09-23
+    was_gilt: Stakeholder-Workshop des dtic/CIPC zu Patents Bill und Designs Amendment Bill.
+    verifiziert: false
+    quelle: https://www.adams.africa/adams-news/south-africa-prepares-major-patent-and-design-law-reforms/
+  - datum: 2026-02-19
+    was_gilt: 'Bekanntmachung der CIPC: Ausweitung des Experiential Learning Programme auf national eingereichte
+      vollständige Anmeldungen; kostenlose Recherche und materielle Prüfung auf Antrag.'
+    verifiziert: false
+    quelle: https://www.kisch-ip.com/Articles/Read/482/The-South-African-Patent-Office-is-offering-free-substantive-search-and-examination
+  themenachsen:
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - 'Registrierungssystem: ''South Africa is a non-examining country with regard to the content of a patent
+    specification'' (Chambers, Patent Litigation 2026). Erteilt wird, wenn die Formalien stimmen; Neuheit
+    und erfinderische Tätigkeit werden erst im Streitfall geprüft.'
+  - 'Experiential Learning Programme: freiwillige, gebührenfreie Recherche und materielle Prüfung durch
+    Prüferanwärter. Ergebnis ist ein objektiver Prüfbericht des Patentamts, an den keine Rechtsfolge geknüpft
+    ist.'
+  - 'Ausweitung vom 19.02.2026: bis dahin waren national originierende vollständige Anmeldungen vom Programm
+    ausgeschlossen; seither können sie einbezogen werden.'
+  - 'Angekündigte SSE nach dem Patents Bill: gestufte materielle Prüfung in ausgewählten technischen Gebieten
+    (Chemie, Biochemie, IKT, Physik, Ingenieurwesen), Veröffentlichung der Anmeldung mit der Möglichkeit
+    von Einwendungen Dritter, Prüfungsantrag innerhalb einer Frist.'
+  - 'PRAKTISCHE FOLGE FÜR KI: Solange die Formalprüfung gilt, kann jede Anmeldung eine Maschine als Erfinderin
+    benennen. Umgekehrt gilt: Ein südafrikanisches Patent beweist nichts über die materielle Schutzfähigkeit
+    — die DABUS-Erteilung ist deshalb kein Präjudiz für die Erfinderfähigkeit von Maschinen, sondern ein
+    Beleg für die Prüfungslücke.'
+  dokumente:
+  - datum: 2018-08-01
+    typ: bericht
+    titel: Intellectual Property Policy of the Republic of South Africa — Phase I, 2018
+    url: https://www.gov.za/sites/default/files/gcis_document/201808/ippolicy2018-phasei.pdf
+    sprache: en
+    urheber: Department of Trade and Industry
+    verifiziert: false
+    notiz: Amtliches Politikdokument, das den Übergang zur materiellen Prüfung vorgibt. Nur über die Trefferliste
+      belegt, nicht im Volltext geöffnet.
+  - datum: 2026-02-19
+    typ: pressemitteilung
+    titel: The South African Patent Office is offering free substantive search and examination
+    url: https://www.kisch-ip.com/Articles/Read/482/The-South-African-Patent-Office-is-offering-free-substantive-search-and-examination
+    sprache: en
+    urheber: KISCH IP
+    verifiziert: true
+    notiz: Sekundärquelle. Belegt Ausweitung des ELP am 19.02.2026, Freiwilligkeit und Gebührenfreiheit.
+  - datum: 2026-01-01
+    typ: bericht
+    titel: 'Patent Litigation 2026 — South Africa: Trends and Developments'
+    url: https://practiceguides.chambers.com/practice-guides/patent-litigation-2026/south-africa/trends-and-developments
+    sprache: en
+    urheber: Chambers and Partners
+    verifiziert: true
+    notiz: Belegt den Status als Nichtprüfungsstaat, die geplante gestufte SSE in Chemie, Biochemie, IKT,
+      Physik und Ingenieurwesen sowie die für 2026 erwartete öffentliche Konsultation zum Patents Bill.
+  offene_punkte:
+  - Ob und wann eine verbindliche SSE eingeführt wird, hängt am Patents Bill; ein Gesetzestext war am
+    06.09.2026 nicht veröffentlicht.
+  - Ob die CIPC die Erfindereigenschaft künftig materiell prüfen wird, ist in keiner Quelle angesprochen.
+    Die angekündigte SSE betrifft Stand der Technik, nicht Erfinderfähigkeit.
+  monitoring_quellen:
+  - https://www.cipc.co.za/
+  - https://iponline.cipc.co.za/Publications/JournalPublications.aspx
+  bezug_regelwerke:
+  - za-patents-act-1978
+  - za-patents-bill
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Bestaetigt, aber mit Vorbehalt: Es gibt keine Rechtsnorm und keine Government-Gazette-Verkuendung.
+    Der 19.02.2026 ist das Datum der Bekanntgabe, ab dem national eingereichte Anmeldungen in das Programm
+    einbezogen werden koennen. Das Programm selbst laeuft seit laengerem fuer PCT-Anmeldungen. Status
+    softlaw bestaetigt; eine verbindliche Substantive Search and Examination ist bis 06.09.2026 nicht
+    eingefuehrt.'
+- id: za-patents-bill
+  jurisdiktion: za
+  kurztitel: Patents Bill (angekündigt)
+  offizieller_titel: Patents Bill (Arbeitstitel; begleitet vom Designs Amendment Bill)
+  fundstelle: Noch nicht im Government Gazette veröffentlicht; keine Bill-Nummer
+  verfahrensnummer: ''
+  status: idee
+  status_detail: 'Angekündigt, aber nicht veröffentlicht. Nach einem Stakeholder-Workshop vom 23.09.2025
+    war die Einbringung ins Parlament für Anfang 2026 angekündigt; bis zum 06.09.2026 ist kein Text erschienen.
+    Erwartet werden eine gestufte materielle Prüfung, Gebrauchsmuster, eine Neuheitsschonfrist, ein Einspruchsverfahren
+    nach Erteilung, gestaffelte Gebühren zugunsten kleiner Anmelder und ein Verwaltungstribunal für Zwangslizenzen.
+
+    '
+  kurzbeschreibung: 'Geplante Vollreform des südafrikanischen Patentrechts, die das Registrierungssystem
+    von 1978 ablösen soll. Kernstück ist die Substantive Search and Examination: Anmeldungen sollen künftig
+    veröffentlicht werden, Dritte sollen Einwendungen erheben können, und in ausgewählten technischen
+    Gebieten soll die Behörde Neuheit und erfinderische Tätigkeit vor der Erteilung prüfen. Adressaten
+    sind Anmelder, Vertreter und die CIPC. Für das KI-Recht ist der Entwurf aus zwei Gründen wichtig:
+    Er würde erstens die strukturelle Ursache der DABUS-Erteilung beseitigen, ohne sie rückwirkend zu
+    heilen. Und er ist zweitens die einzige Gelegenheit, bei der der südafrikanische Gesetzgeber sich
+    zur Erfinderfähigkeit von Maschinen äussern könnte — bislang ist dazu in keinem verfügbaren Bericht
+    ein Vorschlag enthalten.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.adams.africa/adams-news/south-africa-prepares-major-patent-and-design-law-reforms/
+    fundstelle_norm: Kein Inkrafttreten — kein Text, keine Bill-Nummer, keine Veroeffentlichung im Government
+      Gazette bis 06.09.2026
+  anwendungsdaten:
+  - datum: 2025-09-23
+    was_gilt: Stakeholder-Workshop zu Patents Bill und Designs Amendment Bill; Rückmeldungen ausdrücklich
+      erbeten.
+    verifiziert: false
+    quelle: https://www.adams.africa/adams-news/south-africa-prepares-major-patent-and-design-law-reforms/
+  themenachsen:
+  - marktzugang
+  - urheberrecht
+  - governance
+  regelungsschwerpunkte:
+  - 'Gestufte materielle Prüfung (''phased substantive search and examination in selected technical fields''):
+    Chemie, Biochemie, IKT, Physik, Ingenieurwesen — dort, wo Prüferkapazität besteht.'
+  - Veröffentlichung der Anmeldung mit Möglichkeit von Einwendungen Dritter ('third-party observations').
+  - Prüfungsantrag innerhalb einer gesetzlichen Frist.
+  - 'Neue Schutzrechtsform: Gebrauchsmuster (utility models).'
+  - Einspruchsverfahren nach der Erteilung (post-grant opposition).
+  - Neuheitsschonfrist; gestaffelte Gebühren zugunsten kleiner Anmelder; Verwaltungstribunal für Zwangslizenzen.
+  - 'LÜCKE: In keinem der abgerufenen Berichte findet sich ein Vorschlag zur Erfinderdefinition oder zur
+    Behandlung maschinell erzeugter Erfindungen. Der Entwurf setzt an der Prüfungstiefe an, nicht an der
+    Erfinderfähigkeit.'
+  dokumente:
+  - datum: 2025-10-01
+    typ: bericht
+    titel: South Africa Prepares Major Patent and Design Law Reforms
+    url: https://www.adams.africa/adams-news/south-africa-prepares-major-patent-and-design-law-reforms/
+    sprache: en
+    urheber: Adams & Adams
+    verifiziert: true
+    notiz: Sekundärquelle. Belegt Workshop vom 23.09.2025, angekündigte Einbringung Anfang 2026, gestufte
+      SSE, Gebrauchsmuster, post-grant opposition, gestaffelte Gebühren.
+  - datum: 2026-01-01
+    typ: bericht
+    titel: 'Patent Litigation 2026 — South Africa: Trends and Developments'
+    url: https://practiceguides.chambers.com/practice-guides/patent-litigation-2026/south-africa/trends-and-developments
+    sprache: en
+    urheber: Chambers and Partners
+    verifiziert: true
+    notiz: Belegt, dass der Entwurf am Jahresanfang 2026 noch ausstand und eine öffentliche Konsultation
+      'expected in 2026' war.
+  offene_punkte:
+  - Kein Text, keine Bill-Nummer, kein Zeitplan. Die für Anfang 2026 angekündigte Einbringung ist ausgeblieben.
+  - Ob der Entwurf die Erfinderdefinition anfasst, ist offen — dies wäre die einzige Gelegenheit, die
+    DABUS-Frage gesetzgeberisch zu klären.
+  monitoring_quellen:
+  - https://www.parliament.gov.za/bills
+  - https://www.gov.za/documents/bills
+  - https://www.cipc.co.za/
+  bezug_regelwerke:
+  - za-patents-act-1978
+  - za-cipc-sse-praxis
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten null, Status idee. Kein amtlicher Text auffindbar; die Einbringung war
+    nach dem Stakeholder-Workshop vom 23.09.2025 fuer Anfang 2026 angekuendigt, ist aber nicht erfolgt.'
+- id: za-popia
+  jurisdiktion: za
+  kurztitel: POPIA — Protection of Personal Information Act
+  offizieller_titel: Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+  fundstelle: Act No. 4 of 2013; Government Gazette Vol. 581, No. 37067 of 26 November 2013; angenommen
+    (assented to) am 19.11.2013
+  verfahrensnummer: B9-2009
+  status: anwendbar
+  status_detail: 'Gestaffelt in Kraft getreten: s. 1 und Kapitel 5 Teil A (ss. 39-54, Information Regulator)
+    sowie ss. 112, 113 am 11.04.2014; die materiellen Vorschriften ss. 2-38 und 55-109 am 01.07.2020 mit
+    einjähriger Übergangsfrist bis 30.06.2021; ss. 110 und 114(4) am 30.06.2021; s. 58(2) in Bezug auf
+    s. 57 am 01.02.2022. s. 71 (automatisierte Entscheidungsfindung) gilt seit dem 01.07.2020 und ist
+    seit dem 01.07.2021 durchsetzbar. Bis zum 06.09.2026 hat die Information Regulator zu s. 71 KEINE
+    Guidance Note erlassen und KEINEN Enforcement Notice ausgesprochen; es gibt keine veröffentlichte
+    Gerichtsentscheidung dazu.
+
+    '
+  kurzbeschreibung: 'Allgemeines Datenschutzgesetz Südafrikas, strukturell an der DSGVO-Vorgängergeneration
+    orientiert. Es gilt für jede Verarbeitung personenbezogener Daten durch öffentliche und private Verantwortliche
+    (''responsible parties'') mit Sitz in Südafrika oder unter Nutzung von Mitteln in Südafrika (s. 3).
+    Es schützt auch juristische Personen — eine Besonderheit gegenüber der DSGVO: ''data subject'' ist
+    ''the person to whom personal information relates'', und ''person'' erfasst nach s. 1 auch ''a juristic
+    person''. Es kennt acht Verarbeitungsbedingungen (Kapitel 3), eine Aufsichtsbehörde mit Ermittlungs-,
+    Anordnungs- und Bussgeldbefugnis (Information Regulator, ss. 39 ff., 95, 109) und Sanktionen bis zu
+    10 Mio. ZAR beziehungsweise zehn Jahren Freiheitsstrafe (s. 107). Für das KI-Recht ist die zentrale
+    Norm s. 71: das südafrikanische Gegenstück zu Art. 22 DSGVO. Sie verbietet Entscheidungen, die allein
+    auf automatisierter Verarbeitung zur Profilbildung beruhen und rechtliche Folgen haben oder erheblich
+    beeinträchtigen — mit zwei Ausnahmen und der Pflicht, dem Betroffenen ''sufficient information about
+    the underlying logic'' zu geben. POPIA kennt keine Regel zum Modelltraining und keine Rechtsgrundlage
+    ''berechtigtes Interesse'' im europäischen Zuschnitt; die Verarbeitung stützt sich auf s. 11 (Einwilligung,
+    Vertrag, gesetzliche Pflicht, öffentliche Aufgabe, berechtigtes Interesse).
+
+    '
+  inkrafttreten:
+    datum: 2020-07-01
+    verifiziert: true
+    quelle: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
+  anwendungsdaten:
+  - datum: 2014-04-11
+    was_gilt: Inkrafttreten von s. 1, Kapitel 5 Teil A (ss. 39-54, Information Regulator), ss. 112 und
+      113 (ProcR25 in GG 37544).
+    verifiziert: true
+    quelle: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
+  - datum: 2020-07-01
+    was_gilt: Inkrafttreten der materiellen Vorschriften ss. 2-38, 55-109, 111 und 114(1)-(3) — darunter
+      s. 71 (ProcR21 in GG 43461).
+    verifiziert: true
+    quelle: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
+  - datum: 2021-06-30
+    was_gilt: Ende der einjährigen Übergangsfrist nach s. 114(1); Inkrafttreten von ss. 110 und 114(4).
+      Seither ist s. 71 vollständig durchsetzbar.
+    verifiziert: true
+    quelle: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
+  - datum: 2022-02-01
+    was_gilt: Inkrafttreten von s. 58(2), soweit auf Verarbeitungen nach s. 57 anwendbar (Vorabprüfung).
+    verifiziert: true
+    quelle: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-finanz
+  - arbeit
+  - governance
+  regelungsschwerpunkte:
+  - 's. 1: ''person'' schliesst juristische Personen ein; ''data subject'' ist ''the person to whom personal
+    information relates''. POPIA schützt damit auch Unternehmen — für KI-Anwendungen im B2B-Bereich ein
+    Unterschied zur DSGVO, der leicht übersehen wird.'
+  - 's. 1: ''biometrics'' ist ausdrücklich definiert (''a technique of personal identification that is
+    based on physical, physiological or behavioural characterisation including blood typing, fingerprinting,
+    DNA analysis, retinal scanning and voice recognition''). Biometrische Daten sind nach s. 26 besondere
+    personenbezogene Daten.'
+  - 's. 3: räumlicher Anwendungsbereich. Erfasst sind auch nicht in Südafrika ansässige Verantwortliche,
+    die ''automated or non-automated means in the Republic'' einsetzen, es sei denn, diese dienen nur
+    der Durchleitung. s. 3(4) definiert ''automated means'' als ''any equipment capable of operating automatically
+    in response to instructions given for the purpose of processing information''.'
+  - 's. 5(g): Betroffenenrecht, ''not to be subject, under certain circumstances, to a decision which
+    is based solely on the basis of the automated processing of his, her or its personal information intended
+    to provide a profile of such person as provided for in terms of section 71''. Beachte die Formulierung
+    ''his, her or its'' — auch hier die juristische Person.'
+  - 's. 8-25 (Kapitel 3): die acht Verarbeitungsbedingungen — Rechenschaftspflicht, Rechtmässigkeit, Zweckbindung,
+    Weiterverarbeitung, Informationsqualität, Offenheit, Sicherheit, Beteiligung des Betroffenen.'
+  - 's. 11: Rechtsgrundlagen der Verarbeitung, einschliesslich s. 11(1)(f) (berechtigtes Interesse des
+    Verantwortlichen oder eines Dritten). Die einzige Norm, auf die sich ein Modelltraining mit personenbezogenen
+    Daten in Südafrika stützen liesse — eine Auslegungshilfe der Aufsicht dazu fehlt.'
+  - 's. 26-27: Verbot der Verarbeitung besonderer personenbezogener Daten (u.a. biometrische Daten) mit
+    Ausnahmen und behördlicher Genehmigung.'
+  - 's. 57: Vorabprüfung (''prior authorisation'') unter anderem bei der Verarbeitung eindeutiger Kennungen
+    zu einem anderen Zweck als dem Erhebungszweck und bei der automatisierten Verarbeitung besonderer
+    Daten zur Profilbildung. Das ist der zweite, oft übersehene KI-Anknüpfungspunkt neben s. 71.'
+  - 's. 71: automatisierte Entscheidungsfindung — siehe eigene Normeinträge za-popia-s71-abs1 bis -abs3.'
+  - 's. 72: Übermittlung ins Ausland nur bei vergleichbarem Schutzniveau, Einwilligung, Vertragserfüllung
+    oder Vorteil des Betroffenen. Praktisch die Norm, an der die Nutzung ausländischer Modellanbieter
+    hängt.'
+  - 's. 95: Enforcement Notice der Information Regulator; s. 103: Straftatbestand der Nichtbefolgung;
+    s. 107: Geldstrafe bis 10 Mio. ZAR oder Freiheitsstrafe bis zehn Jahre; s. 109: Verwaltungsgeldbusse
+    bis 10 Mio. ZAR.'
+  - 's. 99: zivilrechtlicher Schadensersatzanspruch des Betroffenen, verschuldensunabhängig ausgestaltet
+    (''whether or not there is intent or negligence on the part of the responsible party'').'
+  - 'LÜCKE: POPIA kennt keine Text- und Data-Mining-Schranke, keine Regelung zum Training von Modellen
+    und keine Transparenzpflicht für generative Systeme. Alles, was für KI gilt, ist Auslegung der allgemeinen
+    Bedingungen.'
+  dokumente:
+  - datum: 2013-11-26
+    typ: konsolidiert
+    titel: Protection of Personal Information Act 4 of 2013 — konsolidierte Fassung, Stand 01.02.2022
+    url: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
+    sprache: en
+    urheber: SAFLII (konsolidierte Gesetzessammlung)
+    verifiziert: true
+    notiz: Im Browser geöffnet. Belegt Gazette 37067 vom 26.11.2013, Assent 19.11.2013 und die vollständige
+      Inkrafttretensstaffel einschliesslich der Proklamationen (ProcR25 in GG 37544, ProcR21 in GG 43461,
+      GN 297 in GG 44383). Der Wortlaut von s. 5(g) ist hier wörtlich entnommen. Der Volltext von s. 71
+      lag jenseits des abrufbaren Seitenausschnitts.
+  - datum: 2013-11-26
+    typ: endfassung
+    titel: Protection of Personal Information Act 4 of 2013 (Government Gazette No. 37067)
+    url: https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013protectionofpersonalinforcorrect.pdf
+    sprache: en
+    urheber: Republic of South Africa
+    verifiziert: true
+    notiz: Amtliche Gazette-Fassung; abgerufen. Belegt Aktnummer, Assent-Datum und Gazette-Nummer sowie
+      den Katalog der Betroffenenrechte in s. 5.
+  - datum: 2024-12-03
+    typ: leitlinie
+    titel: Guidance Note on direct marketing in terms of the Protection of Personal Information Act of
+      2013 (POPIA)
+    url: https://inforegulator.org.za/guidance-notes/
+    sprache: en
+    urheber: Information Regulator (South Africa)
+    verifiziert: true
+    notiz: 'Übersichtsseite der Guidance Notes, im Browser geöffnet. BEFUND: Die Behörde hat sechs Guidance
+      Notes erlassen (Direktmarketing 03.12.2024; Wahlen 14.05.2024; besondere Daten 28.06.2021; Kinderdaten
+      28.06.2021; COVID-19 03.04.2020; Wählerdaten politischer Parteien 28.01.2019). KEINE davon betrifft
+      künstliche Intelligenz oder s. 71.'
+  - datum: 2024-05-14
+    typ: leitlinie
+    titel: Guidance Note on the processing of personal information of voters, and the countering of misinformation
+      and disinformation during elections in terms of POPIA
+    url: https://inforegulator.org.za/wp-content/uploads/2020/07/FINAL-GUIDANCE-NOTE-ON-THE-PROCESSING-OF-PERSONAL-INFORMATION-OF-VOTERS-AND-THE-COUNTERING-OF-MISINFORMATION-AND-DISINFORMATION-DURING-ELECTIONS.pdf
+    sprache: en
+    urheber: Information Regulator (South Africa)
+    verifiziert: false
+    notiz: 'Die einzige Guidance Note mit thematischer Nähe zu KI: Sie behandelt Desinformation im Wahlkampf.
+      Der PDF-Link ist an der Behördenseite belegt; das Dokument selbst wurde nicht geöffnet, der KI-Bezug
+      ist deshalb nicht verifiziert.'
+  offene_punkte:
+  - KEINE RECHTSPRECHUNG ZU s. 71. Weder ein High-Court-Urteil noch eine Entscheidung des Enforcement
+    Committee ist auffindbar. Die Norm gilt seit über sechs Jahren ungetestet.
+  - 'KEINE AUFSICHTSPRAXIS ZU KI. Die Enforcement-Notice-Liste der Information Regulator (Stand 06.09.2026:
+    Gauteng Department of Health 10.06.2026, Sibanye Stillwater 02.06.2026, Central Johannesburg TVET
+    20.05.2026) enthält keinen KI-Fall; die Medienmitteilungen 2026 ebenfalls nicht.'
+  - 'Ob s. 71 auf generative Systeme passt, ist ungeklärt: Der Tatbestand verlangt eine Entscheidung ''based
+    solely on ... automated processing of personal information intended to provide a profile''. Ein Sprachmodell,
+    das keinen Profilzweck verfolgt, fällt nach dem Wortlaut heraus.'
+  - Das Verhältnis von s. 71(3)(b) (Anspruch auf Information über die 'underlying logic') zu Geschäftsgeheimnissen
+    ist nicht geregelt — POPIA kennt keine dem Erwägungsgrund 63 DSGVO entsprechende Schranke.
+  - Ob s. 57 (Vorabprüfung) das Training von Modellen mit besonderen Daten erfasst, ist offen.
+  monitoring_quellen:
+  - https://inforegulator.org.za/guidance-notes/
+  - https://inforegulator.org.za/enforcement-notices/
+  - https://inforegulator.org.za/media-statements/
+  bezug_regelwerke:
+  - za-constitution-1996
+  - za-paja-2000
+  - za-ecta-2002
+  - za-cybercrimes-act-2020
+  letzte_pruefung: 2026-09-06
+- id: za-information-regulator-praxis
+  jurisdiktion: za
+  kurztitel: Aufsichtspraxis der Information Regulator zu KI
+  offizieller_titel: Regulatory practice of the Information Regulator (South Africa) under the Protection
+    of Personal Information Act 4 of 2013 and the Promotion of Access to Information Act 2 of 2000, in
+    relation to artificial intelligence
+  fundstelle: Guidance Notes, Enforcement Notices und Medienmitteilungen der Behörde; keine förmliche
+    Rechtsquelle
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'NEGATIVBEFUND. Die Information Regulator hat bis zum 06.09.2026 keine Guidance Note
+    zu künstlicher Intelligenz oder zu s. 71 POPIA erlassen, keinen KI-bezogenen Enforcement Notice ausgesprochen
+    und keine KI-bezogene Medienmitteilung veröffentlicht. Die Volltextsuche auf inforegulator.org.za
+    nach ''artificial intelligence'' liefert null Treffer. Dieser Eintrag hält den Befund fest, damit
+    er nicht mit einer Lücke in der Recherche verwechselt wird.
+
+    '
+  kurzbeschreibung: 'Die Information Regulator ist die südafrikanische Datenschutz- und Informationsfreiheitsbehörde.
+    Sie ist nach ss. 39 ff. POPIA errichtet, seit 2021 voll operativ und zugleich für den Promotion of
+    Access to Information Act zuständig. Sie erlässt Guidance Notes, führt Untersuchungen, spricht Enforcement
+    Notices nach s. 95 POPIA und s. 77J PAIA aus und kann Verwaltungsgeldbussen bis 10 Mio. ZAR verhängen.
+    Ihre bisherigen sechs Guidance Notes betreffen Direktmarketing, Wahlen, besondere Daten, Kinderdaten,
+    COVID-19 und Wählerdaten politischer Parteien. Zu automatisierten Entscheidungen, Profilbildung, Training
+    von Modellen oder generativer KI schweigt sie. Für die Rechtspraxis bedeutet das: Wer in Südafrika
+    ein KI-System betreibt, hat für s. 71 POPIA keinen behördlichen Auslegungsanker — und muss sich an
+    europäischen Massstäben orientieren, die dort formal nicht gelten.
+
+    '
+  inkrafttreten:
+    datum: 2021-07-01
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/2013/4
+    fundstelle_norm: 's. 114(1) POPIA (Act 4 of 2013) — einjaehrige Uebergangsfrist ab dem Inkrafttreten
+      der Kapitel 2-4 (ss. 3-38) am 01.07.2020 durch Proclamation R.21 of 2020; die Verarbeitungsbedingungen
+      sind seit dem 01.07.2021 durchsetzbar. Ergaenzend: s. 110 und s. 114(4) POPIA seit 30.06.2021 (Uebergang
+      der PAIA-Aufgaben auf die Information Regulator)'
+  anwendungsdaten:
+  - datum: 2026-05-20
+    was_gilt: Enforcement Notice gegen Central Johannesburg TVET nach s. 95 POPIA und Reg. 12(2)(c) —
+      ohne KI-Bezug.
+    verifiziert: true
+    quelle: https://inforegulator.org.za/enforcement-notices/
+  - datum: 2026-06-02
+    was_gilt: Enforcement Notice gegen Sibanye Stillwater Limited nach s. 77J PAIA — ohne KI-Bezug.
+    verifiziert: true
+    quelle: https://inforegulator.org.za/enforcement-notices/
+  - datum: 2026-06-10
+    was_gilt: Enforcement Notice gegen das Gauteng Department of Health nach s. 77J PAIA — ohne KI-Bezug.
+    verifiziert: true
+    quelle: https://inforegulator.org.za/enforcement-notices/
+  - datum: 2026-08-27
+    was_gilt: Ankündigung einer Medienunterrichtung zu 'high-profile cases, enforcements and investigations'
+      unter POPIA und PAIA; Themen nicht genannt.
+    verifiziert: true
+    quelle: https://inforegulator.org.za/media-statements/
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Sechs Guidance Notes insgesamt, keine zu KI: Direktmarketing (03.12.2024), Wahlen und Desinformation
+    (14.05.2024), besondere personenbezogene Daten (28.06.2021), Kinderdaten (28.06.2021), COVID-19 (03.04.2020),
+    Wählerdaten politischer Parteien (28.01.2019).'
+  - 'Enforcement Notices 2026 (Stand 06.09.2026): drei Stück, alle ohne KI-Bezug.'
+  - 'Medienmitteilungen 2026: zwölf Einträge, keiner mit KI-Bezug. Thematisch prägend sind der Streit
+    um die Veröffentlichung der Matrikergebnisse (Rechtsmittel des Regulators, 21.01.2026 und Folgeverfahren)
+    und ein Verhaltenskodex für Zugangskontrollen an Wohnanlagen.'
+  - Der Regulator war 2026 Gastgeber eines internationalen Treffens von Medien-, Digital- und Informationsaufsichten
+    zur menschenrechtsbasierten Plattformgovernance (Medienhinweis vom 10.02.2026) — der einzige Berührungspunkt
+    mit der Plattform- und KI-Debatte.
+  - 'PRAKTISCHE FOLGE: In Südafrika gibt es zu s. 71 POPIA weder Verwaltungspraxis noch Rechtsprechung.
+    Die Norm ist ein reines Gesetzesrecht ohne Anwendungsschicht.'
+  dokumente:
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Guidance Notes der Information Regulator (Übersichtsseite)
+    url: https://inforegulator.org.za/guidance-notes/
+    sprache: en
+    urheber: Information Regulator (South Africa)
+    verifiziert: true
+    notiz: Im Browser geöffnet und vollständig gelesen. Grundlage des Negativbefunds.
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Enforcement Notices der Information Regulator (Übersichtsseite)
+    url: https://inforegulator.org.za/enforcement-notices/
+    sprache: en
+    urheber: Information Regulator (South Africa)
+    verifiziert: true
+    notiz: Im Browser geöffnet. Zeigt für 2026 drei Enforcement Notices, keiner mit KI-Bezug.
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Media Statements der Information Regulator (Übersichtsseite)
+    url: https://inforegulator.org.za/media-statements/
+    sprache: en
+    urheber: Information Regulator (South Africa)
+    verifiziert: true
+    notiz: Im Browser geöffnet. Zwölf Mitteilungen 2026, keine mit KI-Bezug.
+  offene_punkte:
+  - Ob die für den 27.08.2026 angekündigte Medienunterrichtung zu 'high-profile cases' einen KI-Fall betraf,
+    ist nicht ermittelt — das Ergebnis war am 06.09.2026 nicht veröffentlicht.
+  - Die Volltextsuche der Behördenseite indexiert keine PDF-Anhänge. Ein KI-Bezug innerhalb einer der
+    sechs Guidance Notes ist deshalb nicht vollständig auszuschliessen; geprüft wurden nur die Titel und
+    Kurzbeschreibungen.
+  monitoring_quellen:
+  - https://inforegulator.org.za/guidance-notes/
+  - https://inforegulator.org.za/enforcement-notices/
+  - https://inforegulator.org.za/media-statements/
+  bezug_regelwerke:
+  - za-popia
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Bestaetigt. Der Eintrag ist ein Negativbefund zur Aufsichtspraxis; ein eigenes Inkrafttreten hat
+    er nicht. Verankert ist er am Ende der POPIA-Uebergangsfrist (01.07.2021), ab der die Behoerde ueberhaupt
+    durchsetzen kann. POPIA selbst ist gestuft in Kraft getreten: 11.04.2014 (Errichtung der Behoerde,
+    ss. 39-54, Proc. R.25/2014), 01.07.2020 (Kapitel 2-4, Proc. R.21/2020), 30.06.2021 (ss. 110, 114(4)).
+    Kein Anhaltspunkt fuer ein Vorakt-Datum.'
+- id: za-copyright-act-1978
+  jurisdiktion: za
+  kurztitel: Copyright Act 98 of 1978
+  offizieller_titel: Copyright Act, 1978 (Act No. 98 of 1978)
+  fundstelle: Act No. 98 of 1978, angenommen am 20.06.1978; zuletzt geändert durch den Copyright Amendment
+    Act 9 of 2002
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Geltendes Urheberrecht. Es enthält seit der Novelle von 1992 eine ausdrückliche Regelung
+    computererzeugter Werke: Nach der Definition von ''author'' in s. 1(1) ist Urheber eines literarischen,
+    dramatischen, musikalischen oder künstlerischen Werks oder Computerprogramms, das computererzeugt
+    ist, ''the person by whom the arrangements necessary for the creation of the work were undertaken''.
+    Südafrika gehört damit zu der kleinen Gruppe von Staaten (mit dem Vereinigten Königreich, Irland,
+    Neuseeland, Indien und Hongkong), die computererzeugte Werke ausdrücklich schützen. Eine Schranke
+    für Text- und Data-Mining kennt das Gesetz nicht; sie soll erst mit dem Copyright Amendment Bill kommen.
+
+    '
+  kurzbeschreibung: 'Das Urheberrechtsgesetz von 1978 schützt literarische, musikalische und künstlerische
+    Werke, Filme, Tonaufnahmen, Sendungen, programmtragende Signale, veröffentlichte Ausgaben und — seit
+    1992 als eigene Werkart — Computerprogramme. Schutzvoraussetzung ist nach s. 2(1) Originalität und
+    nach s. 2(2) die Festlegung in materieller Form, wobei der Wortlaut seit 1992 ausdrücklich ''represented
+    in digital data or signals'' einschliesst. Urheber ist grundsätzlich, wer das Werk schafft; für computererzeugte
+    Werke bestimmt s. 1(1) abweichend denjenigen, der die für die Schaffung notwendigen Vorkehrungen getroffen
+    hat. Die Rechtsinhaberschaft regelt s. 21: Grundsätzlich der Urheber (s. 21(1)(a)), abweichend bei
+    Zeitungsangestellten (b), bei bestimmten Auftragswerken — Fotografie, Porträt, Film, Tonaufnahme —
+    (c) und bei Arbeitnehmerwerken (d). Schranken enthält s. 12 (fair dealing für Forschung, Privatgebrauch,
+    Kritik, Rezension und Berichterstattung über Tagesereignisse) — ein geschlossener Katalog, der KI-Training
+    nicht deckt. Sanktionen sind zivilrechtlich (Unterlassung, Schadensersatz, Gewinnabschöpfung nach
+    s. 24) und strafrechtlich (s. 27).
+
+    '
+  inkrafttreten:
+    datum: 1979-01-01
+    verifiziert: true
+    quelle: https://www.wipo.int/wipolex/en/text/130429
+    fundstelle_norm: 'Amtlicher Gesetzeskopf: ''COPYRIGHT ACT 98 OF 1978 [ASSENTED TO 20 JUNE 1978] [DATE
+      OF COMMENCEMENT: 1 JANUARY 1979]'''
+  anwendungsdaten:
+  - datum: 1992-01-01
+    was_gilt: 'Der Copyright Amendment Act 125 of 1992 fügt Computerprogramme als eigene Werkart ein und
+      ergänzt die Definition von ''author'' um die Absätze zu computererzeugten Werken und zu Computerprogrammen.
+
+      '
+    verifiziert: false
+    quelle: https://www.saflii.org/za/legis/consol_act/ca1978133/
+  themenachsen:
+  - urheberrecht
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - 's. 1(1), Definition ''author'', Abs. (h): Urheber eines ''literary, dramatic, musical or artistic
+    work or computer program which is computer-generated'' ist ''the person by whom the arrangements necessary
+    for the creation of the work were undertaken''. Das ist die südafrikanische Zuweisungsnorm für maschinell
+    erzeugte Werke — nicht s. 21(1)(d), wie gelegentlich zitiert wird.'
+  - 's. 1(1), Definition ''author'', Abs. (i): Urheber eines Computerprogramms ist ''the person who exercised
+    control over the making of the computer program''.'
+  - 's. 1(1), Definition ''computer program'': ''a set of instructions fixed or stored in any manner and
+    which, when used directly or indirectly in a computer, directs its operation to bring about a result''.'
+  - 'BEFUND ZUR BEGRIFFSBILDUNG: Anders als s. 178 UK CDPA 1988 (''computer-generated, in relation to
+    a work, means that the work is generated by computer in circumstances such that there is no human
+    author of the work'') definiert der südafrikanische Copyright Act den Begriff ''computer-generated''
+    NICHT. Er verwendet ihn nur in der Autorendefinition. Ob damit auch Werke ohne jeden menschlichen
+    Urheber erfasst sind oder nur solche mit maschineller Ausführung menschlicher Vorgaben, ist offen.'
+  - 's. 2(1): Werkarten, einschliesslich Computerprogramme. s. 2(2): ''A work ... shall not be eligible
+    for copyright unless the work has been written down, recorded, represented in digital data or signals
+    or otherwise reduced to material form.'''
+  - 's. 2(2) i.V.m. der Originalitätsanforderung: Nach südafrikanischer Rechtsprechung verlangt Originalität
+    eigenes Können und eigene Arbeit (''skill, effort and intellectual judgment''). Die Praxis leitet
+    daraus ab, dass eine blosse Prompteingabe mit oberflächlicher Nachbearbeitung die Schwelle nicht erreicht
+    — mit der Folge, dass die Autorenzuweisung des s. 1(1)(h) leerläuft, weil bereits kein schutzfähiges
+    Werk vorliegt. Dieser innere Widerspruch zwischen ausdrücklichem Schutz und Originalitätserfordernis
+    ist die zentrale offene Frage des südafrikanischen KI-Urheberrechts.'
+  - 's. 12: fair dealing als geschlossener Katalog (Forschung, Privatstudium, Privatgebrauch, Kritik,
+    Rezension, Berichterstattung über Tagesereignisse) mit Quellenangabepflicht. Kein Auffangtatbestand
+    — Trainingskopien sind davon nicht gedeckt.'
+  - 's. 21(1): (a) Urheber; (b) Werke von Zeitungsangestellten; (c) bestimmte Auftragswerke (Fotografie,
+    Porträt, Film, Tonaufnahme) gegen Entgelt; (d) Arbeitnehmerwerke im Rahmen des Arbeitsverhältnisses.
+    HINWEIS: s. 21(1)(d) ist die Arbeitnehmerregel, NICHT die Regel für computererzeugte Werke.'
+  - 's. 24, s. 27: zivil- und strafrechtliche Sanktionen.'
+  - 'LÜCKE: keine TDM-Schranke, keine Regelung zur Transparenz von Trainingsdaten, kein Leistungsschutzrecht
+    für Presseverleger. Diese Lücke ist der Grund, aus dem die Competition Commission die KI-Frage 2025
+    im Wettbewerbsrecht statt im Urheberrecht behandelt hat.'
+  dokumente:
+  - datum: 1978-06-20
+    typ: konsolidiert
+    titel: Copyright Act 98 of 1978 — konsolidierte Fassung
+    url: https://www.saflii.org/za/legis/consol_act/ca1978133/
+    sprache: en
+    urheber: SAFLII (konsolidierte Gesetzessammlung)
+    verifiziert: true
+    notiz: Abgerufen. Aus dieser Fassung stammen die Definitionen von 'computer program' und die Absätze
+      (h) und (i) der Autorendefinition sowie der Wortlaut von s. 2(2). Massgeblich für die Erfassung
+      der Normebene.
+  - datum: 2015-04-16
+    typ: endfassung
+    titel: Copyright Act 98 of 1978 (Ursprungsfassung, gov.za)
+    url: https://www.gov.za/sites/default/files/gcis_document/201504/act-98-1978.pdf
+    sprache: en
+    urheber: Republic of South Africa
+    verifiziert: true
+    notiz: 'Amtliche Fassung auf gov.za; abgerufen. ACHTUNG: Die dort bereitgestellte Datei gibt die Fassung
+      VOR der Novelle von 1992 wieder — die Absätze zu computererzeugten Werken fehlen dort. Für die KI-relevanten
+      Definitionen ist die konsolidierte SAFLII-Fassung heranzuziehen.'
+  - datum: 2002-01-01
+    typ: konsolidiert
+    titel: Copyright Act, 1978 (Act No. 98 of 1978, amended up to Act No. 9 of 2002) — WIPO Lex
+    url: https://www.wipo.int/wipolex/en/legislation/details/4067
+    sprache: en
+    urheber: WIPO Lex
+    verifiziert: false
+    notiz: Dritte Fassung zur Gegenprobe; nur über die Trefferliste belegt, nicht geöffnet.
+  - datum: 2025-08-01
+    typ: stellungnahme
+    titel: 'Copyright and Artificial Intelligence in South Africa: Rethinking Authorship and Originality
+      in the Digital Age'
+    url: https://lexafrica.com/2025/08/copyright-and-artificial-intelligence-in-south-africa/
+    sprache: en
+    urheber: LEX Africa
+    verifiziert: true
+    notiz: 'Sekundärquelle. Formuliert den Widerspruch zwischen der Autorendefinition für computererzeugte
+      Werke und dem Originalitätserfordernis: Werke ohne bedeutsamen menschlichen Beitrag seien ''unlikely
+      to qualify for copyright protection under South African law''.'
+  offene_punkte:
+  - Kein südafrikanisches Gericht hat s. 1(1)(h) je auf ein KI-erzeugtes Werk angewandt. Es gibt kein
+    Gegenstück zu den chinesischen Entscheidungen (Li v Liu) oder zur US-amerikanischen Thaler-Linie.
+  - Der Widerspruch zwischen ausdrücklicher Zuweisung (s. 1(1)(h)) und dem Originalitätserfordernis (s.
+    2(1)) ist ungelöst. Solange er besteht, ist der südafrikanische Schutz computererzeugter Werke Papier.
+  - Die Definition von 'computer-generated' fehlt. Ob der Begriff wie in s. 178 UK CDPA das Fehlen eines
+    menschlichen Urhebers voraussetzt, ist offen.
+  - Ob Trainingskopien unter s. 12 fallen, ist zu verneinen — was die praktische Bedeutung der geplanten
+    Fair-Use-Klausel des s. 12A Copyright Amendment Bill erklärt.
+  monitoring_quellen:
+  - https://www.saflii.org/za/legis/consol_act/ca1978133/
+  - https://www.parliament.gov.za/bills
+  bezug_regelwerke:
+  - za-copyright-amendment-bill
+  - za-performers-protection-amendment-bill
+  - za-mdpmi-2025
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Bestaetigt. Der 20.06.1978 ist die Ausfertigung, nicht das Inkrafttreten; eingetragen war korrekt
+    der 01.01.1979. Das Gesetz gilt fort; der Copyright Amendment Bill B13B-2017 ist bis 06.09.2026 nicht
+    Gesetz geworden (vgl. za-copyright-amendment-bill).
+- id: za-copyright-amendment-bill
+  jurisdiktion: za
+  kurztitel: Copyright Amendment Bill [B13B-2017]
+  offizieller_titel: Copyright Amendment Bill (as amended; ursprünglich B13-2017, in der Fassung B13B-2017
+    beziehungsweise B13D-2017)
+  fundstelle: Bill B13-2017 / B13B-2017; Parlamentsakte 2291650; Verfassungsgerichtsverfahren CCT 306/24
+  verfahrensnummer: B13-2017; B13B-2017; B13D-2017
+  status: verfahren
+  status_detail: 'Nach neun Jahren immer noch nicht Gesetz. Am 28.03.2019 von beiden Kammern verabschiedet,
+    am 16.06.2020 vom Präsidenten wegen verfassungsrechtlicher Bedenken an die Nationalversammlung zurückverwiesen,
+    2021 bis 2024 erneut beraten, im Februar 2024 neuerlich verabschiedet und anschliessend vom Präsidenten
+    nach s. 79(4)(b) der Verfassung dem Verfassungsgericht vorgelegt. Am 26.06.2026 hat die Corte in [2026]
+    ZACC 26 entschieden: Die Fair-Use-Klausel des s. 12A und die Schranken der ss. 12B, 12C, 19B und 19C
+    sind verfassungsgemäss; die Bildungsschranke des s. 12D(1)-(5) ist wegen willkürlicher Eigentumsentziehung
+    (s. 25(1) Verfassung) verfassungswidrig; hinsichtlich der ss. 6A, 7A und 8A (Vergütungsanspruch) war
+    die Vorlage unzulässig. Damit liegt der Ball wieder beim Parlament: Ein unterschriftsreifer Gesetzestext
+    existiert nicht.
+
+    '
+  kurzbeschreibung: 'Die grösste Urheberrechtsreform Südafrikas seit 1978. Sie führt eine offene Fair-Use-Schranke
+    nach US-amerikanischem Vorbild ein (s. 12A), ergänzt sie um Schranken für Bibliotheken, Archive, Museen
+    (s. 19C), Menschen mit Behinderungen (s. 19D) und Bildung (s. 12D), verankert einen unabtretbaren
+    Vergütungsanspruch der Urheber und ausübenden Künstler (ss. 6A, 7A, 8A) und verbietet Vertragsklauseln,
+    die die Schranken abbedingen (s. 39B). Adressaten sind Rechtsinhaber, Nutzer, Verwertungsgesellschaften
+    und Bildungseinrichtungen. Für das KI-Recht ist s. 12A die entscheidende Norm: Eine offene Fair-Use-Klausel
+    mit vier Abwägungsfaktoren — Art des Werks, Umfang und Wesentlichkeit des benutzten Teils, Zweck und
+    Charakter der Nutzung einschliesslich der Frage, ob sie einem anderen Zweck dient als das Werk, und
+    der Substitutionseffekt auf den Markt — ist die Rechtsfigur, unter der sich Trainingskopien in den
+    Vereinigten Staaten diskutieren lassen. Südafrika wäre der erste afrikanische Staat mit einer solchen
+    Klausel. Das Verfassungsgericht hat sie ausdrücklich gebilligt, ohne KI oder Text- und Data-Mining
+    auch nur zu erwähnen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.saflii.org/za/cases/ZACC/2026/26.html
+    fundstelle_norm: 'Kein Inkrafttreten — der Entwurf ist bis 06.09.2026 nicht Gesetz. Das Verfassungsgericht
+      hat mit Ex parte President of the RSA: In re Constitutionality of the Copyright Amendment Bill and
+      the Performers'' Protection Amendment Bill (CCT 306/24) [2026] ZACC 26 v. 26.06.2026 ss. 12D(1)-(5)
+      fuer verfassungswidrig erklaert und den Entwurf zur Nachbesserung an das Parlament zurueckverwiesen'
+  anwendungsdaten:
+  - datum: 2017-05-12
+    was_gilt: Einbringung des Copyright Amendment Bill B13-2017 in die Nationalversammlung.
+    verifiziert: true
+    quelle: https://pmg.org.za/bill/705/
+  - datum: 2018-12-04
+    was_gilt: Annahme durch die Nationalversammlung; Übermittlung an den National Council of Provinces.
+    verifiziert: true
+    quelle: https://pmg.org.za/bill/705/
+  - datum: 2019-03-28
+    was_gilt: Annahme durch beide Kammern; Übermittlung an den Präsidenten.
+    verifiziert: true
+    quelle: https://pmg.org.za/bill/705/
+  - datum: 2020-06-13
+    was_gilt: 'Rückverweisung durch den Präsidenten an die Nationalversammlung wegen verfassungsrechtlicher
+      Bedenken (u.a. Rückwirkung der ss. 6A(7), 7A(7) und 8A(5), Unbestimmtheit der Fair-Use-Klausel,
+      Vereinbarkeit mit völkerrechtlichen Verpflichtungen). PMG datiert die Rückgabe auf den 13.06.2020.
+
+      '
+    verifiziert: true
+    quelle: https://pmg.org.za/bill/705/
+  - datum: 2021-05-29
+    was_gilt: Die Nationalversammlung hebt ihren Beschluss auf und verweist den Entwurf an den Ausschuss
+      zurück.
+    verifiziert: true
+    quelle: https://pmg.org.za/bill/705/
+  - datum: 2024-02-29
+    was_gilt: Letzter im PMG-Verfahrensverlauf dokumentierter parlamentarischer Schritt vor der Vorlage
+      an das Verfassungsgericht.
+    verifiziert: true
+    quelle: https://pmg.org.za/bill/705/
+  - datum: 2026-06-26
+    was_gilt: 'Ex parte President, In re Constitutionality of the Copyright Amendment Bill and the Performers''
+      Protection Amendment Bill (CCT 306/24) [2026] ZACC 26: s. 12A (fair use) verfassungsgemäss; ss.
+      12B, 12C, 19B, 19C verfassungsgemäss; s. 12D(1)-(5) verfassungswidrig; s. 12D(6)-(9) verfassungsgemäss;
+      Vorlage zu ss. 6A, 7A, 8A unzulässig.
+
+      '
+    verifiziert: true
+    quelle: https://www.saflii.org/za/cases/ZACC/2026/26.html
+  themenachsen:
+  - urheberrecht
+  - grundrechte
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - 's. 12A (fair use): ''In addition to uses specifically authorised, fair use in respect of a work or
+    the performance of that work, for the following purposes, does not infringe copyright in that work''
+    — Forschung, Privatstudium, Privatgebrauch, Kritik oder Rezension, Berichterstattung über Tagesereignisse,
+    Wissenschaft, Lehre und Bildung, vergleichende Werbung, Parodie, Satire, Karikatur, Pastiche, Zitat,
+    Vorführung und Ähnliches. Die Aufzählung ist durch ''such as'' geöffnet.'
+  - 's. 12A(b): vier Abwägungsfaktoren — (i) ''the nature of the work in question''; (ii) ''the amount
+    and substantiality of the part of the work affected by the act in relation to the whole of the work'';
+    (iii) ''the purpose and character of the use, including whether such use serves a purpose different
+    from that of the work affected'' und ob sie gewerblich oder für gemeinnützige Forschung, Bibliotheken
+    oder Bildung erfolgt; (iv) ''the substitution effect of the act upon the potential market for the
+    work in question''. Faktor (iii) ist die südafrikanische Fassung des Transformativitätskriteriums,
+    Faktor (iv) die des Marktschadens — die beiden Faktoren, an denen sich die US-Trainingsverfahren entscheiden.'
+  - 's. 12A(c): Pflicht zur Quellen- und Urhebernennung.'
+  - 's. 12B, 12C: weitere allgemeine Schranken (u.a. vorübergehende Vervielfältigung); vom Verfassungsgericht
+    gebilligt. s. 12C ist die Norm, die technisch notwendige Zwischenkopien deckt — für Trainingspipelines
+    der zweite relevante Anknüpfungspunkt neben s. 12A.'
+  - 's. 12D(1)-(5): Bildungsschranke (Vervielfältigung ganzer Werke für den Unterricht) — vom Verfassungsgericht
+    als willkürliche Eigentumsentziehung nach s. 25(1) der Verfassung verworfen. s. 12D(6)-(9) bleiben
+    bestehen.'
+  - 'ss. 6A, 7A, 8A: unabtretbarer Anspruch der Urheber und ausübenden Künstler auf Beteiligung. Die Vorlage
+    hierzu hat die Corte als unzulässig behandelt, weil der Präsident dem Parlament nur die Rückwirkungsklauseln
+    (6A(7), 7A(7), 8A(5)) zur Prüfung vorgelegt hatte, die das Parlament daraufhin gestrichen hat; der
+    neue Einwand gegen s. 6A(2) selbst war dem Parlament nie zur Beratung zugeleitet worden.'
+  - 's. 19B: Ausnahmen für Computerprogramme (Dekompilierung, Fehlerbehebung, Sicherungskopie) — verfassungsgemäss.'
+  - 's. 19C: Schranken für Bibliotheken, Archive, Museen und Galerien — verfassungsgemäss.'
+  - 's. 39B: Unwirksamkeit vertraglicher Abbedingung der Schranken. Für Lizenzverträge über Trainingsdaten
+    zentral: Wenn die Schranke greift, kann sie nicht wegverhandelt werden.'
+  - 'KEIN KI-BEZUG IM TEXT: Der Entwurf erwähnt weder künstliche Intelligenz noch Text- und Data-Mining
+    noch maschinelles Lernen. Seine Bedeutung für KI ist mittelbar — über die Offenheit der Fair-Use-Klausel.'
+  dokumente:
+  - datum: 2026-06-26
+    typ: endfassung
+    titel: 'Ex parte President of the Republic of South Africa: In re Constitutionality of the Copyright
+      Amendment Bill and the Performers'' Protection Amendment Bill (CCT 306/24) [2026] ZACC 26'
+    url: https://www.saflii.org/za/cases/ZACC/2026/26.html
+    sprache: en
+    urheber: Constitutional Court of South Africa; Mhlantla J (Mehrheit), Majiedt J (abweichend)
+    verifiziert: true
+    notiz: Am Primärdokument geprüft. Der Tenor unterscheidet sieben Punkte; tragend ist die Feststellung,
+      dass s. 12A verfassungsgemäss ist und dass die Entziehung unkörperlichen Eigentums geringeren Rechtfertigungsanforderungen
+      unterliegt als die körperlichen Eigentums.
+  - datum: 2017-05-12
+    typ: uebersicht
+    titel: Copyright Amendment Bill — Verfahrensakte des Parliamentary Monitoring Group (Bill 705)
+    url: https://pmg.org.za/bill/705/
+    sprache: en
+    urheber: Parliamentary Monitoring Group
+    verifiziert: true
+    notiz: Vollständiger Verfahrensverlauf 2017 bis Februar 2024, einschliesslich der Anhörungen 2017
+      und 2023 und der Rückverweisung durch den Präsidenten. Die Akte endet vor dem Verfassungsgerichtsverfahren.
+  - datum: 2024-01-01
+    typ: uebersicht
+    titel: Copyright Amendment Bill (B13-2017) — Bill-Seite des Parlaments
+    url: https://www.parliament.gov.za/bill/2291650
+    sprache: en
+    urheber: Parliament of the Republic of South Africa
+    verifiziert: false
+    notiz: Amtliche Bill-Seite; nur über die Trefferliste belegt, nicht geöffnet.
+  - datum: 2026-07-01
+    typ: stellungnahme
+    titel: 'Long walk to copyright reform #12: The Constitutional Court clarifies the constitutional anatomy
+      of South Africa''s copyright exceptions'
+    url: https://ipkitten.blogspot.com/2026/07/guest-post-long-walk-to-copyright.html
+    sprache: en
+    urheber: The IPKat (Gastbeitrag)
+    verifiziert: true
+    notiz: 'Die genaueste verfügbare Auswertung von ZACC 26. Belegt, dass die Corte die Bezeichnung ''fair
+      use'' gegenüber ''fair dealing'' für nachrangig hält, dass die offene Zweckliste über die ejusdem-generis-Regel
+      eingehegt bleibt und dass das Parlament nun drei Wege hat: Streichung, Neufassung des s. 12D oder
+      Teilreform. Stellt ausdrücklich fest, dass das Urteil selbst KI und TDM nicht behandelt.'
+  - datum: 2019-03-01
+    typ: stellungnahme
+    titel: The proposed fair use exception under South Africa's Copyright Amendment Bill
+    url: https://ipkitten.blogspot.com/2019/03/the-proposed-fair-use-exception-under.html
+    sprache: en
+    urheber: The IPKat
+    verifiziert: true
+    notiz: Aus diesem Beitrag stammt der Wortlaut der vier Abwägungsfaktoren des s. 12A(b) und der Hinweis
+      auf die Quellenangabepflicht in s. 12A(c).
+  offene_punkte:
+  - Der Entwurf ist nicht Gesetz. Wann und in welcher Fassung das Parlament s. 12D neu fasst, ist offen;
+    der Beobachtungspunkt ist das Portfolio Committee on Trade, Industry and Competition.
+  - 'Ob die Fair-Use-Klausel Trainingskopien deckt, ist eine Auslegungsfrage, die niemand gestellt hat.
+    Weder das Parlament noch das Verfassungsgericht haben KI erwähnt. Genau darin liegt die rechtspolitische
+    Sprengkraft: Südafrika bekäme eine Fair-Use-Klausel ohne jede Debatte über ihre wichtigste Anwendung.'
+  - 'Verhältnis zu den Empfehlungen der Competition Commission (MDPMI): Die Wettbewerbsbehörde hat 2025
+    eine Opt-out-Lösung für KI-Training verordnet, während der Gesetzgeber eine Schranke plant, die Opt-outs
+    gerade überspielen könnte. Diese Kollision ist in keiner Quelle angesprochen.'
+  - Der Volltext der Fassung B13B-2017 beziehungsweise B13D-2017 wurde nicht abgerufen; der Wortlaut des
+    s. 12A stammt aus der Auswertung von 2019 und kann von der zuletzt beschlossenen Fassung abweichen.
+  monitoring_quellen:
+  - https://pmg.org.za/bill/705/
+  - https://www.parliament.gov.za/bills
+  - https://www.saflii.org/za/cases/ZACC/
+  bezug_regelwerke:
+  - za-copyright-act-1978
+  - za-performers-protection-amendment-bill
+  - za-constitution-1996
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten bleibt null, Status verfahren. Geprueft wurde, ob der Entwurf nach dem
+    Urteil vom 26.06.2026 unterzeichnet oder verkuendet wurde — er wurde es nicht. Kein Datum erfunden.'
+- id: za-performers-protection-amendment-bill
+  jurisdiktion: za
+  kurztitel: Performers' Protection Amendment Bill [B24-2016]
+  offizieller_titel: Performers' Protection Amendment Bill
+  fundstelle: Bill B24-2016 (Zwillingsentwurf zum Copyright Amendment Bill); Verfassungsgerichtsverfahren
+    CCT 306/24
+  verfahrensnummer: B24-2016; B24B-2016
+  status: verfahren
+  status_detail: 'Zwillingsentwurf des Copyright Amendment Bill, gemeinsam mit ihm dem Verfassungsgericht
+    vorgelegt und in [2026] ZACC 26 mitentschieden: Die Feststellungen zu den Vorschriften des Copyright
+    Amendment Bill gelten ''equally to corresponding PPAB provisions''. Auch dieser Entwurf ist damit
+    nicht unterschriftsreif.
+
+    '
+  kurzbeschreibung: 'Novelle des Performers'' Protection Act 11 of 1967. Sie stärkt die Rechte ausübender
+    Künstler, führt einen unabtretbaren Vergütungsanspruch ein und verlangt Schriftform und Mindestinhalte
+    für Verträge über Darbietungen. Für das KI-Recht ist der Entwurf aus einem Grund interessant, den
+    die südafrikanische Literatur ausdrücklich anspricht: Ein gestärktes Leistungsschutzrecht der ausübenden
+    Künstler ist der dogmatisch naheliegendste Ansatzpunkt gegen Deepfakes von Stimme und Bild, weil das
+    südafrikanische Recht kein allgemeines Persönlichkeitsrecht am eigenen Bild kennt, sondern nur die
+    actio iniuriarum des common law. Der Entwurf selbst erwähnt KI nicht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.saflii.org/za/cases/ZACC/2026/26.html
+    fundstelle_norm: Kein Inkrafttreten — Bill B24-2016 ist bis 06.09.2026 nicht Gesetz. Zusammen mit
+      dem Copyright Amendment Bill durch [2026] ZACC 26 v. 26.06.2026 an das Parlament zurueckverwiesen
+  anwendungsdaten:
+  - datum: 2026-06-26
+    was_gilt: 'ZACC 26: Die Feststellungen zur Verfassungsmässigkeit gelten entsprechend für die korrespondierenden
+      Vorschriften des PPAB.'
+    verifiziert: true
+    quelle: https://www.saflii.org/za/cases/ZACC/2026/26.html
+  themenachsen:
+  - urheberrecht
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - Unabtretbarer Vergütungsanspruch der ausübenden Künstler, parallel zu ss. 6A/7A/8A Copyright Amendment
+    Bill.
+  - Schriftform und Mindestinhalte für Verträge über Darbietungen.
+  - 'Rechtspolitischer KI-Bezug (Literatur, nicht Gesetzestext): Ein Leistungsschutzrecht an der Darbietung
+    wäre der praktikabelste Schutz gegen Stimm- und Bild-Deepfakes, weil es an ein bestehendes Ausschliesslichkeitsrecht
+    anknüpft statt an ein erst zu begründendes Persönlichkeitsrecht.'
+  dokumente:
+  - datum: 2026-06-26
+    typ: endfassung
+    titel: 'Ex parte President of the Republic of South Africa: In re Constitutionality of the Copyright
+      Amendment Bill and the Performers'' Protection Amendment Bill (CCT 306/24) [2026] ZACC 26'
+    url: https://www.saflii.org/za/cases/ZACC/2026/26.html
+    sprache: en
+    urheber: Constitutional Court of South Africa
+    verifiziert: true
+    notiz: Der Tenor erstreckt die Feststellungen ausdrücklich auf die korrespondierenden PPAB-Vorschriften.
+  - datum: 2024-01-01
+    typ: stellungnahme
+    titel: 'Unmasking deception: deepfake regulation in the context of South African law, could a rethinking
+      of performers'' protection rights be the answer?'
+    url: https://academic.oup.com/ijlit/article/doi/10.1093/ijlit/eaae026/7888817
+    sprache: en
+    urheber: International Journal of Law and Information Technology (Oxford)
+    verifiziert: false
+    notiz: Die Arbeit, die den Vorschlag begründet, Deepfakes über das Leistungsschutzrecht der ausübenden
+      Künstler zu erfassen. Nur über die Trefferliste belegt, nicht geöffnet.
+  offene_punkte:
+  - Der Bill-Text wurde nicht abgerufen; die Angaben zum Inhalt stammen aus Sekundärquellen.
+  - Ob das Parlament beide Entwürfe gemeinsam neu fasst, ist offen.
+  monitoring_quellen:
+  - https://www.parliament.gov.za/bills
+  - https://pmg.org.za/
+  bezug_regelwerke:
+  - za-copyright-amendment-bill
+  - za-copyright-act-1978
+  - za-films-publications-act
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten bleibt null, Status verfahren. Der Zwillingsentwurf teilt das Schicksal
+    des Copyright Amendment Bill; das Verfassungsgericht hat beide Entwuerfe im selben Urteil behandelt.'
+- id: za-films-publications-act
+  jurisdiktion: za
+  kurztitel: Films and Publications Act 65 of 1996 (i.d.F. des Act 11 of 2019)
+  offizieller_titel: Films and Publications Act, 1996 (Act No. 65 of 1996), as amended by the Films and
+    Publications Amendment Act, 2019 (Act No. 11 of 2019)
+  fundstelle: Act No. 65 of 1996; Änderungsgesetz Act No. 11 of 2019, angenommen am 19.09.2019, Government
+    Gazette No. 42743 vom 03.10.2019
+  verfahrensnummer: B37B-2015 (Änderungsgesetz)
+  status: anwendbar
+  status_detail: 'Das Änderungsgesetz 11 of 2019 ist am 01.03.2022 in Kraft getreten. Es hat mit s. 18F
+    erstmals einen Straftatbestand für die nicht einvernehmliche Verbreitung privater sexueller Aufnahmen
+    geschaffen — im südafrikanischen Sprachgebrauch ''revenge porn''. Der Tatbestand ist technikneutral
+    formuliert und erfasst deshalb auch synthetische Aufnahmen, verlangt aber Schädigungsabsicht. Das
+    ist die praktisch wichtigste Deepfake-Norm Südafrikas; ein Bezug auf künstliche Intelligenz fehlt
+    im Gesetzestext.
+
+    '
+  kurzbeschreibung: 'Das Films and Publications Act regelt Klassifizierung und Verbreitung von Filmen,
+    Spielen und Publikationen und errichtet das Film and Publication Board. Die Novelle von 2019 hat es
+    zu einem Online-Content-Gesetz ausgebaut: Sie unterwirft kommerzielle Onlinediensteanbieter der Klassifizierungspflicht,
+    schafft Straftatbestände für die Verbreitung von Filmen und Fotografien, die sexuelle Gewalt oder
+    Vergewaltigung zeigen (s. 18C), von Aufnahmen der Bewusstlosigkeit oder Hilflosigkeit (s. 18D) und
+    von Hassrede (s. 18E) und verbietet in s. 18F die Verbreitung privater sexueller Aufnahmen ohne Einwilligung
+    des Abgebildeten und in Schädigungsabsicht. Adressaten sind alle Personen einschliesslich Diensteanbieter;
+    s. 18F(6) verpflichtet Internetdiensteanbieter, dem Board oder der Polizei auf Verlangen die Identität
+    des Veröffentlichers mitzuteilen. Sanktion ist nach s. 24E eine Geldstrafe bis 150.000 ZAR oder Freiheitsstrafe
+    bis zwei Jahre; wird das Opfer identifizierbar dargestellt, verdoppelt sich der Rahmen.
+
+    '
+  inkrafttreten:
+    datum: 1998-06-01
+    verifiziert: true
+    quelle: https://powerlaw.africa/wp-content/uploads/2021/06/4.-Films-and-Publications-Act-65-of-1996.pdf
+    fundstelle_norm: 'Amtlicher Gesetzeskopf des Films and Publications Act 65 of 1996: ''[ASSENTED TO
+      30 OCTOBER, 1996] [DATE OF COMMENCEMENT: 1 JUNE, 1998]'''
+  anwendungsdaten:
+  - datum: 2022-03-01
+    was_gilt: Films and Publications Amendment Act 11 of 2019 — darunter s. 18F (nicht einvernehmliche
+      Verbreitung privater sexueller Aufnahmen), die praktisch wichtigste Deepfake-Norm Suedafrikas; Proclamation
+      No. 52 of 2022, GG 45959
+    verifiziert: true
+    quelle: https://www.gov.za/documents/notices/films-and-publications-amendment-act-commencement-1-march-2022-english-afrikaans
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 's. 18F(1): ''No person may expose, through any medium, including the internet'' eine private sexuelle
+    Aufnahme ''without the consent of the individual'' und ''with the intention of causing that individual
+    harm''. Der Tatbestand ist technikneutral und deckt deshalb auch synthetische Aufnahmen; er verlangt
+    aber Schädigungsabsicht — die zentrale Schwachstelle bei kommerziell motivierten Deepfakes.'
+  - 's. 18F(2): Rechtfertigungsgrund, wenn die Offenlegung zur Verhütung oder Aufklärung von Straftaten
+    vernünftigerweise erforderlich war.'
+  - 's. 18F(4): Eine Aufnahme ist ''privat'', wenn sie nach den Umständen nicht für die Öffentlichkeit
+    bestimmt war.'
+  - 's. 18F(5): ''sexuell'' ist eine Aufnahme, die entblösste Intimbereiche zeigt oder die eine vernünftige
+    Person als sexuell einordnen würde.'
+  - 's. 18F(6): Auskunftspflicht der Internetdiensteanbieter über die Identität des Veröffentlichers gegenüber
+    Board oder Polizei.'
+  - 's. 18C, 18D, 18E: Verbreitung von Darstellungen sexueller Gewalt, von Aufnahmen hilfloser Personen
+    und von Hassrede.'
+  - 's. 24E: Strafrahmen — bis 150.000 ZAR Geldstrafe oder bis zwei Jahre Freiheitsstrafe; erhöht, wenn
+    das Opfer identifizierbar ist.'
+  - 'LÜCKE FÜR DEEPFAKES: Erfasst sind nur sexuelle Aufnahmen. Ein Deepfake, der eine Person politische
+    Aussagen treffen lässt oder ein gefälschtes Produktversprechen abgibt — die tatsächlich verbreitete
+    südafrikanische Fallgruppe (Leanne Manas 2024, Salim Abdool Karim 2025, gefälschte Anlageversprechen)
+    — fällt nicht unter s. 18F. Dafür bleiben nur der Cybercrimes Act, POPIA, der Electoral Act, der Protection
+    from Harassment Act und die actio iniuriarum des common law.'
+  dokumente:
+  - datum: 2019-10-03
+    typ: endfassung
+    titel: Films and Publications Amendment Act 11 of 2019
+    url: https://www.ellipsis.co.za/wp-content/uploads/2019/07/Films-and-Publications-Amendment-Act-11-of-2019.pdf
+    sprache: en
+    urheber: Republic of South Africa (Wiedergabe durch Ellipsis)
+    verifiziert: true
+    notiz: Abgerufen. Belegt Aktnummer 11 of 2019, Assent 19.09.2019, Gazette 42743 vom 03.10.2019 sowie
+      den Wortlaut von s. 18F(1), (2), (4), (5), (6) und den Strafrahmen in s. 24E. Keine amtliche Quelle,
+      aber textidentische Wiedergabe der Gazette-Fassung.
+  - datum: 2019-06-07
+    typ: bericht
+    titel: Act will take revenge on porn
+    url: https://mg.co.za/news/south-africa/2019-06-07-act-will-take-revenge-on-porn/
+    sprache: en
+    urheber: Mail & Guardian
+    verifiziert: false
+    notiz: Zeitgenössische Einordnung der Novelle; nur über die Trefferliste belegt.
+  - datum: 2025-09-01
+    typ: stellungnahme
+    titel: 'Deepfakes and South African law: remedies on paper, gaps in practice'
+    url: https://theconversation.com/deepfakes-and-south-african-law-remedies-on-paper-gaps-in-practice-263850
+    sprache: en
+    urheber: The Conversation (Beitrag südafrikanischer Rechtswissenschaftler)
+    verifiziert: false
+    notiz: 'Formuliert den Befund, der auch aus der Aktenlage folgt: Südafrika hat Verbote, aber keine
+      Durchsetzung. Nur über die Trefferliste belegt.'
+  offene_punkte:
+  - Kein veröffentlichtes südafrikanisches Urteil zu s. 18F, weder zu echten noch zu synthetischen Aufnahmen.
+  - Das Erfordernis der Schädigungsabsicht ('with the intention of causing that individual harm') ist
+    in der Literatur als zentrale Schwachstelle kritisiert; für kommerziell motivierte Deepfakes fehlt
+    es regelmässig.
+  - 'Genaues Inkrafttretensdatum des Änderungsgesetzes nicht am Primärdokument geprüft (Sekundärquelle:
+    01.03.2022).'
+  monitoring_quellen:
+  - https://www.fpb.org.za/
+  - https://www.gov.za/documents/acts
+  bezug_regelwerke:
+  - za-cybercrimes-act-2020
+  - za-popia
+  - za-performers-protection-amendment-bill
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'DATUM KORRIGIERT/GETRENNT. Eingetragen war 01.03.2022 — das ist das Inkrafttreten des Aenderungsgesetzes
+    11 of 2019, nicht des Stammgesetzes. Das Stammgesetz 65 of 1996 ist am 01.06.1998 in Kraft getreten
+    (Ausfertigung 30.10.1996). Die KI-relevante Stufe (s. 18F) steht jetzt in anwendungsdaten. Status
+    anwendbar bestaetigt. Vorher: 2022-03-01.'
+- id: za-cybercrimes-act-2020
+  jurisdiktion: za
+  kurztitel: Cybercrimes Act 19 of 2020
+  offizieller_titel: Cybercrimes Act, 2020 (Act No. 19 of 2020)
+  fundstelle: Act No. 19 of 2020; angenommen am 26.05.2021; Government Gazette Vol. 672, No. 44651 vom
+    01.06.2021
+  verfahrensnummer: B6B-2017
+  status: teilanwendbar
+  status_detail: 'Der überwiegende Teil des Gesetzes ist am 01.12.2021 in Kraft getreten; einzelne Vorschriften
+    (u.a. zur Meldepflicht der Diensteanbieter nach s. 54 und zu Teilen der internationalen Zusammenarbeit)
+    sind bis heute nicht in Kraft. Für das KI-Recht sind ss. 14 bis 16 einschlägig: die Straftatbestände
+    der schädigenden Datennachricht. s. 16 (Verbreitung einer Datennachricht mit einer intimen Aufnahme
+    ohne Einwilligung) ist die zweite Deepfake-Norm neben s. 18F Films and Publications Act und verlangt
+    anders als jene keine Schädigungsabsicht.
+
+    '
+  kurzbeschreibung: 'Das Cybercrimes Act kodifiziert das südafrikanische Computerstrafrecht. Es stellt
+    unbefugten Zugriff, Abfangen von Daten, Bereitstellung von Angriffswerkzeugen, Eingriffe in Daten
+    und Systeme, Erlangung von Zugangsdaten, Cyberbetrug, Cyberfälschung, Cybererpressung und den Diebstahl
+    unkörperlicher Sachen unter Strafe (ss. 2-11) und ergänzt in ss. 14-16 drei Tatbestände der schädigenden
+    Datennachricht. Adressat ist jedermann; Diensteanbieter treffen Melde- und Mitwirkungspflichten. Sanktionen
+    reichen bis zu fünfzehn Jahren Freiheitsstrafe (s. 19). Für das KI-Recht ist das Gesetz auf drei Wegen
+    relevant: erstens als Deepfake-Norm über s. 16, zweitens als Auffangtatbestand für KI-gestützten Betrug
+    (s. 8 Cyberbetrug — der Tatbestand, unter den gefälschte Anlageversprechen mit synthetischen Prominentenvideos
+    fallen), drittens als Rahmen für KI-gestützte Angriffswerkzeuge (s. 4).
+
+    '
+  inkrafttreten:
+    datum: 2021-12-01
+    verifiziert: true
+    quelle: https://www.justice.gov.za/legislation/notices/2021/20211130-gg45562re11363proc42-CyberCrimes.pdf
+    fundstelle_norm: 's. 61(2) Cybercrimes Act 19 of 2020 i. V. m. Proclamation No. R.42 of 2021, GG 45562
+      v. 30.11.2021 — in Kraft ab 01.12.2021: Chapter 1; Chapter 2 ohne Part VI; Chapter 3; Chapter 4
+      ohne ss. 38(1)(d)-(f), 40(3)-(4), 41-44; Chapter 7; Chapter 8 ohne s. 54; Chapter 9'
+  anwendungsdaten:
+  - datum: 2021-06-01
+    was_gilt: Verkündung in Government Gazette 44651 (Vol. 672); Assent 26.05.2021.
+    verifiziert: true
+    quelle: https://www.gov.za/sites/default/files/gcis_document/202106/44651gon324.pdf
+  - datum: 2021-12-01
+    was_gilt: Inkrafttreten des überwiegenden Teils des Gesetzes einschliesslich der Straftatbestände
+      ss. 2-16.
+    verifiziert: false
+    quelle: https://www.ellipsis.co.za/cybercrimes-act-19-of-2020/
+  themenachsen:
+  - content
+  - sicherheit-export
+  - haftung
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'ss. 2-11: unbefugter Zugriff (2), unbefugtes Abfangen von Daten (3), unbefugte Handlungen mit Soft-
+    oder Hardwarewerkzeugen (4), unbefugter Eingriff in Daten oder Computerprogramme (5), unbefugter Eingriff
+    in Speichermedien oder Systeme (6), unbefugte Erlangung von Passwörtern und Zugangscodes (7), Cyberbetrug
+    (8), Cyberfälschung und -gebrauch (9), Cybererpressung (10), qualifizierte Fälle (11).'
+  - 's. 14: ''Any person who discloses, by means of an electronic communications service, a data message
+    to a person, group of persons or the general public with the intention to incite — (a) the causing
+    of any damage to property belonging to; or (b) violence against, a person or a group of persons, is
+    guilty of an offence.'' Die Norm erfasst KI-erzeugte Aufstachelungsinhalte, ohne sie zu nennen.'
+  - 's. 15: rechtswidrige und vorsätzliche Verbreitung einer Datennachricht mit der Drohung von Sachbeschädigung
+    oder Gewalt.'
+  - 's. 16: ''Any person (''''A'''') who unlawfully and intentionally discloses, by means of an electronic
+    communications service, a data message of an intimate image of a person (''''B''''), without the consent
+    of B, is guilty of an offence.'' Kein Erfordernis der Schädigungsabsicht — darin liegt der praktische
+    Vorteil gegenüber s. 18F Films and Publications Act. Ob eine synthetische Aufnahme ein ''intimate
+    image of a person'' ist, wenn die Person die abgebildete Handlung nie vorgenommen hat, ist ungeklärt.'
+  - 's. 8 (Cyberbetrug): der Tatbestand, unter den die südafrikanische Deepfake-Praxis tatsächlich fällt
+    — gefälschte Videos mit Prominenten zur Bewerbung betrügerischer Anlagen.'
+  - 's. 19: Strafrahmen bis fünfzehn Jahre für die schwersten Tatbestände.'
+  - 'LÜCKE: Kein Tatbestand der Herstellung oder Verbreitung synthetischer Medien als solcher, keine Kennzeichnungspflicht,
+    keine Plattformpflicht zur Entfernung.'
+  dokumente:
+  - datum: 2021-06-01
+    typ: endfassung
+    titel: Cybercrimes Act 19 of 2020 (Government Gazette No. 44651, GN 324)
+    url: https://www.gov.za/sites/default/files/gcis_document/202106/44651gon324.pdf
+    sprache: en
+    urheber: Republic of South Africa
+    verifiziert: true
+    notiz: Amtliche Gazette-Fassung; abgerufen. Belegt Assent 26.05.2021, Gazette 44651 vom 01.06.2021
+      sowie den Wortlaut von ss. 14, 15 und 16 und den Katalog der ss. 2-11.
+  - datum: 2021-06-01
+    typ: uebersicht
+    titel: Cybercrimes Act 19 of 2020 — Dokumentenseite der Regierung
+    url: https://www.gov.za/documents/acts/cybercrimes-act-19-2020-english-afrikaans-01-jun-2021
+    sprache: en
+    urheber: Republic of South Africa
+    verifiziert: false
+    notiz: Amtliche Sammelseite mit englischer und afrikaanser Fassung; nur über die Trefferliste belegt.
+  offene_punkte:
+  - Ob s. 16 synthetische intime Aufnahmen erfasst, ist ungeklärt. Der Wortlaut spricht von 'an intimate
+    image of a person'; ob das Bild echt sein muss, sagt das Gesetz nicht.
+  - Kein veröffentlichtes Urteil zu ss. 14-16 mit KI-Bezug.
+  - Genaues Inkrafttretensdatum (01.12.2021) nur über Sekundärquelle belegt; die Proklamation wurde nicht
+    geprüft.
+  monitoring_quellen:
+  - https://www.justice.gov.za/legislation/acts/
+  - https://www.saflii.org/za/cases/
+  bezug_regelwerke:
+  - za-films-publications-act
+  - za-popia
+  - za-ecta-2002
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Bestaetigt. Ausfertigung 26.05.2021, Verkuendung GG 44651 v. 01.06.2021, Inkrafttreten der Hauptteile
+    01.12.2021 durch Proc. R.42/2021. Nicht in Kraft sind bis 06.09.2026: Chapter 2 Part VI (ss. 20-23,
+    Schutzanordnungen gegen schaedliche Nachrichten — die fuer Deepfakes praktisch wichtigste Rechtsfolge),
+    Chapter 5 (Rechtshilfe), Chapter 6 (24/7-Kontaktstelle), s. 54 (Pflichten der Diensteanbieter) sowie
+    ss. 38(1)(d)-(f), 40(3)-(4), 41-44. Status teilanwendbar bestaetigt. Proklamationsnummer praezisiert
+    (R.42/2021).'
+- id: za-ecta-2002
+  jurisdiktion: za
+  kurztitel: ECTA — Electronic Communications and Transactions Act
+  offizieller_titel: Electronic Communications and Transactions Act, 2002 (Act No. 25 of 2002)
+  fundstelle: Act No. 25 of 2002; Government Gazette Vol. 446, No. 23708; assented 31.07.2002
+  verfahrensnummer: B8-2002
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 30.08.2002. s. 20 ist die älteste KI-relevante Norm Südafrikas: Sie
+    regelt seit 2002, wann ein Vertrag zustande kommt, an dem auf einer oder auf beiden Seiten ein ''electronic
+    agent'' beteiligt ist. Die Definition des elektronischen Agenten (''a computer program or an electronic
+    or other automated means used independently to initiate an action or respond to data messages'') ist
+    technikoffen und erfasst nach ihrem Wortlaut auch autonome Systeme des Jahres 2026. Die Vorschrift
+    ist seit 24 Jahren unverändert und wurde, soweit ersichtlich, nie gerichtlich auf ein generatives
+    System angewandt.
+
+    '
+  kurzbeschreibung: 'Rahmengesetz des elektronischen Rechtsverkehrs. Es regelt die Gleichstellung von
+    Datennachricht und Schriftform, die elektronische Signatur, den Verbraucherschutz im Fernabsatz, die
+    Haftungsprivilegierung von Diensteanbietern (Kapitel XI), die Domainverwaltung und die Cyberinspektoren.
+    Für das KI-Recht ist s. 20 der Kern: Ein Vertrag kommt auch zustande, wenn ein elektronischer Agent
+    die zur Vertragsbildung erforderliche Handlung vornimmt; wer einen solchen Agenten einsetzt, ist an
+    dessen Erklärungen gebunden, gleichgültig ob er sie geprüft hat. Wer mit dem Agenten eines anderen
+    interagiert, ist nur gebunden, wenn die Bedingungen von einer natürlichen Person zur Kenntnis genommen
+    werden konnten. Und ein Vertrag kommt nicht zustande, wenn eine natürliche Person einen wesentlichen
+    Eingabefehler macht, der Agent keine Korrekturmöglichkeit bot, die Person den Fehler unverzüglich
+    anzeigt, das Erlangte zurückgewährt und keinen wesentlichen Vorteil gezogen hat. Damit hat Südafrika
+    2002 eine Zurechnungsregel für Maschinenerklärungen geschaffen, die Europa erst mit der Diskussion
+    um autonome Agenten entdeckt.
+
+    '
+  inkrafttreten:
+    datum: 2002-08-30
+    verifiziert: true
+    quelle: https://www.sagc.org.za/pdf/legislation/Electronic%20Communications%20and%20Transactions%20Act%2025%20of%202002.pdf
+    fundstelle_norm: 'Amtlicher Gesetzeskopf: ''[ASSENTED TO 31 JULY 2002] [DATE OF COMMENCEMENT: 30 AUGUST
+      2002]''; s. 95 ECTA (Short title and commencement)'
+  anwendungsdaten:
+  - datum: 2025-11-13
+    was_gilt: 'Die Competition Commission empfiehlt im MDPMI-Abschlussbericht dem DCDT, unter dem ECTA
+      Vorschriften zur Inhaltemoderation zu erlassen — die erste ernsthafte Reaktivierung des Gesetzes
+      im Plattformkontext.
+
+      '
+    verifiziert: false
+    quelle: https://legalacademy.co.za/news/read/media-digital-platforms-market-inquiry-final-report-released
+  themenachsen:
+  - vertrag
+  - haftung
+  - content
+  - marktzugang
+  regelungsschwerpunkte:
+  - 's. 1, Definition ''automated transaction'': ''an electronic transaction conducted or performed, in
+    whole or in part, by means of data messages in which the conduct or data messages of one or both parties
+    are not reviewed by a natural person in the ordinary course of such natural person''s business or
+    employment''.'
+  - 's. 1, Definition ''electronic agent'': ''a computer program or an electronic or other automated means
+    used independently to initiate an action or respond to data messages or performances in whole or in
+    part, in an automated transaction''. Technikoffen; deckt nach dem Wortlaut auch LLM-gestützte Agenten.'
+  - 's. 20(a): Ein Vertrag kann zustande kommen, wenn ein elektronischer Agent die zur Vertragsbildung
+    erforderliche Handlung vornimmt.'
+  - 's. 20(b): Ein Vertrag kann zustande kommen, wenn beide Parteien oder eine von ihnen einen elektronischen
+    Agenten einsetzen.'
+  - 's. 20(c): Wer einen elektronischen Agenten einsetzt, ist an dessen Bedingungen gebunden, ''irrespective
+    of whether that person reviewed the actions of the electronic agent or the terms of the agreement''.
+    Das ist die südafrikanische Antwort auf die Zurechnungsfrage bei autonomen Agenten — Risikozurechnung
+    an den Verwender, ohne Verschulden.'
+  - 's. 20(d): Wer mit dem Agenten eines anderen interagiert, ist nicht gebunden, wenn die Bedingungen
+    nicht von einer natürlichen Person zur Kenntnis genommen werden konnten.'
+  - 's. 20(e): Kein Vertragsschluss bei wesentlichem Eingabefehler einer natürlichen Person, wenn der
+    Agent keine Korrekturmöglichkeit bot, der Fehler unverzüglich angezeigt, das Erlangte zurückgewährt
+    und kein wesentlicher Vorteil gezogen wurde.'
+  - 'Kapitel XI (ss. 70-79): Haftungsprivilegierung der Diensteanbieter (blosse Durchleitung, Caching,
+    Hosting, Informationssuchwerkzeuge) — die südafrikanische Fassung des Notice-and-Takedown, an die
+    die Empfehlungen der Competition Commission zur Inhaltemoderation anknüpfen.'
+  - 'OFFENE FRAGE: s. 20(c) bindet den Verwender an die Erklärungen seines Agenten. Ob dies auch gilt,
+    wenn ein generativer Agent eine Erklärung abgibt, die der Verwender weder vorgesehen noch vorhersehen
+    konnte, hat kein südafrikanisches Gericht entschieden. Der Wortlaut spricht dafür.'
+  dokumente:
+  - datum: 2002-08-02
+    typ: endfassung
+    titel: Electronic Communications and Transactions Act 25 of 2002 (Government Gazette No. 23708)
+    url: https://www.gov.za/sites/default/files/gcis_document/201409/a25-02.pdf
+    sprache: en
+    urheber: Republic of South Africa
+    verifiziert: true
+    notiz: Amtliche Gazette-Fassung; abgerufen. Aus ihr stammen die Definitionen von 'automated transaction'
+      und 'electronic agent' sowie der Wortlaut von s. 20(a)-(e).
+  - datum: 2002-08-02
+    typ: konsolidiert
+    titel: Electronic Communications and Transactions Act, 2002 (ITU-Fassung)
+    url: https://www.itu.int/ITU-D/projects/ITU_EC_ACP/hipssa/Activities/SA/docs/SA-1_Legislations/South%20Africa/ElecComm.PDF
+    sprache: en
+    urheber: International Telecommunication Union
+    verifiziert: false
+    notiz: Zweitfassung zur Gegenprobe; nur über die Trefferliste belegt.
+  offene_punkte:
+  - Keine Rechtsprechung zu s. 20 mit KI-Bezug. Die Norm ist seit 2002 in Kraft und, soweit ersichtlich,
+    nie auf ein lernendes System angewandt worden.
+  - 'Das Verhältnis von s. 20(c) (unbedingte Bindung des Verwenders) zu s. 20(e) (Fehlerregel zugunsten
+    der natürlichen Person) ist asymmetrisch: Der Verwender des Agenten trägt das Risiko, sein Gegenüber
+    nicht. Ob das bei autonomen Agenten auf beiden Seiten trägt, ist offen.'
+  - Ob die von der Competition Commission empfohlenen Inhaltemoderationsvorschriften unter dem ECTA erlassen
+    wurden, ist nicht geprüft.
+  monitoring_quellen:
+  - https://www.dcdt.gov.za/
+  - https://www.gov.za/documents/acts
+  bezug_regelwerke:
+  - za-cybercrimes-act-2020
+  - za-popia
+  - za-mdpmi-2025
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Bestaetigt. Ausfertigung 31.07.2002, Verkuendung GG 23708 v. 02.08.2002, Inkrafttreten 30.08.2002
+    — das eingetragene Datum ist das Inkrafttreten.
+- id: za-competition-act-1998
+  jurisdiktion: za
+  kurztitel: Competition Act 89 of 1998
+  offizieller_titel: Competition Act, 1998 (Act No. 89 of 1998), as amended by the Competition Amendment
+    Act 18 of 2018
+  fundstelle: Act No. 89 of 1998; Änderungsgesetz Act No. 18 of 2018
+  verfahrensnummer: B31-2018 (Änderungsgesetz)
+  status: anwendbar
+  status_detail: 'Geltendes Kartellrecht. Es kennt keine KI-spezifische Vorschrift, ist für das südafrikanische
+    KI-Recht aber das wirksamste Instrument, das tatsächlich zu verbindlichen Pflichten für KI-Entwickler
+    geführt hat: Über das Instrument der Marktuntersuchung (Kapitel 4A, ss. 43A-43G, eingefügt 2018) hat
+    die Competition Commission in der Media and Digital Platforms Market Inquiry Abhilfemassnahmen durchgesetzt,
+    die KI-Entwicklern Opt-out-Mechanismen und Schulungspflichten gegenüber südafrikanischen Medien auferlegen.
+    Das ist bislang die einzige verbindliche KI-Regulierung Südafrikas — und sie steht im Kartellrecht.
+
+    '
+  kurzbeschreibung: 'Das Wettbewerbsgesetz verbietet wettbewerbsbeschränkende Vereinbarungen (s. 4), Preisbindung
+    der zweiten Hand (s. 5) und den Missbrauch marktbeherrschender Stellung (s. 8, 9) und regelt die Zusammenschlusskontrolle
+    (Kapitel 3). Die Novelle von 2018 hat mit Kapitel 4A ein Marktuntersuchungsverfahren geschaffen, das
+    der Competition Commission erlaubt, nach Feststellung eines ''adverse effect on competition'' selbst
+    Abhilfemassnahmen anzuordnen (s. 43C) — ein Instrument, das dem britischen Market Investigation Regime
+    nachgebildet ist und ohne Nachweis eines individuellen Verstosses auskommt. Adressaten sind alle Unternehmen
+    mit Wirkung im Inland, auch ausländische. Sanktionen sind Verwaltungsgeldbussen bis 10 % des Jahresumsatzes
+    (25 % bei Wiederholung) und, bei Kartellabsprachen, die persönliche Strafbarkeit von Geschäftsleitern
+    (s. 73A). Für KI ist zweierlei relevant: die Erfassung algorithmischer Preisabstimmung unter s. 4(1)(b)
+    — bislang ohne südafrikanischen Anwendungsfall — und die Marktuntersuchung nach Kapitel 4A, unter
+    der die KI-Abhilfemassnahmen von 2025 ergangen sind.
+
+    '
+  inkrafttreten:
+    datum: 1998-11-30
+    verifiziert: true
+    quelle: https://www.compcom.co.za/wp-content/uploads/2021/03/Competition-Act-A6.pdf
+    fundstelle_norm: 's. 89 Competition Act 89 of 1998 i. V. m. Proclamation R.121 of 1998; amtlicher
+      Gesetzeskopf: ''[ASSENTED TO 20 OCTOBER, 1998] [DATE OF COMMENCEMENT: 30 NOVEMBER, 1998] (Unless
+      otherwise indicated)'''
+  anwendungsdaten:
+  - datum: 1999-09-01
+    was_gilt: materielle Verbotstatbestaende — Chapter 2 Part A (ss. 4-5, horizontale und vertikale Absprachen),
+      ss. 7-9 (Marktbeherrschung) und Chapter 5 (ss. 44-58); Proclamation R.88 of 1999
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/1998/89
+  - datum: 2013-04-01
+    was_gilt: Chapter 4A (ss. 43A-43G, Market Inquiries) — Rechtsgrundlage der Media and Digital Platforms
+      Market Inquiry
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/1998/89
+  - datum: 2019-07-12
+    was_gilt: erste Stufe der Aenderungen durch den Competition Amendment Act 18 of 2018
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/1998/89
+  - datum: 2020-02-13
+    was_gilt: zweite Stufe der Aenderungen durch den Competition Amendment Act 18 of 2018
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/1998/89
+  themenachsen:
+  - wettbewerb
+  - urheberrecht
+  - content
+  - marktzugang
+  regelungsschwerpunkte:
+  - 's. 4(1)(b): Per-se-Verbot horizontaler Preisabsprachen, Marktaufteilung und Angebotsabsprachen. Die
+    Norm, unter die algorithmische Preisabstimmung fiele — ein südafrikanischer Anwendungsfall ist nicht
+    bekannt.'
+  - 's. 8: Missbrauchsverbot für marktbeherrschende Unternehmen, einschliesslich Kampfpreisen, Verweigerung
+    des Zugangs zu wesentlichen Einrichtungen und Kopplung.'
+  - 'Kapitel 4A (ss. 43A-43G), eingefügt durch Act 18 of 2018: Marktuntersuchung. s. 43B verpflichtet
+    die Commission zur Untersuchung, wenn Grund zur Annahme eines Marktmerkmals besteht, das den Wettbewerb
+    beeinträchtigt; s. 43C ermächtigt sie, selbst Abhilfemassnahmen zu treffen. Das ist die Rechtsgrundlage
+    der KI-Abhilfemassnahmen von 2025.'
+  - 's. 59: Verwaltungsgeldbussen bis 10 % des Jahresumsatzes, bei Wiederholung bis 25 %.'
+  - 's. 73A: persönliche Strafbarkeit von Geschäftsleitern bei Kartellabsprachen.'
+  - 'BEFUND: Südafrika hat KI-Entwicklern über das Kartellrecht Pflichten auferlegt, bevor es eine KI-Politik
+    hatte. Der Grund ist institutionell: Die Competition Commission verfügt über ein Instrument, das ohne
+    Gesetzgeber auskommt, während das DCDT einen Kabinettsbeschluss braucht.'
+  dokumente:
+  - datum: 2025-11-13
+    typ: bericht
+    titel: Media and Digital Platforms Market Inquiry — Final Report (non-confidential)
+    url: https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf
+    sprache: en
+    urheber: Competition Commission South Africa
+    verifiziert: true
+    notiz: Amtlicher Abschlussbericht; abgerufen. Kapitel 5 ('Generative Artificial Intelligence', ca.
+      S. 84-96) enthält die Feststellungen zum Training auf südafrikanischen Nachrichteninhalten und die
+      Abhilfemassnahmen in Abschnitt 5.5.2.
+  - datum: 2023-10-17
+    typ: uebersicht
+    titel: Media and Digital Platforms Market Inquiry — Verfahrensseite der Competition Commission
+    url: https://www.compcom.co.za/media-and-digital-platforms-market-inquiry/
+    sprache: en
+    urheber: Competition Commission South Africa
+    verifiziert: true
+    notiz: Amtliche Verfahrensseite mit Anhörungsprotokollen, Konsumentenbefragungen und Arbeitspapieren,
+      darunter 'Reviewing South Africa's Content Moderation for Social Media Platforms' (August 2025).
+  offene_punkte:
+  - Kein südafrikanischer Fall zu algorithmischer Preisabstimmung unter s. 4(1)(b).
+  - Ob die KI-Abhilfemassnahmen auf s. 43C gestützt oder in Vergleichsvereinbarungen aufgenommen wurden,
+    ist aus den abgerufenen Quellen nicht eindeutig; der Bericht nennt Entwurfsanordnungen vom 29./30.09.2025
+    und weist auf eine mögliche Befassung des Competition Tribunal hin.
+  monitoring_quellen:
+  - https://www.compcom.co.za/
+  - https://www.comptrib.co.za/
+  bezug_regelwerke:
+  - za-mdpmi-2025
+  - za-copyright-act-1978
+  - za-ecta-2002
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war 01.09.1999 — das ist das Inkrafttreten der materiellen Verbotstatbestaende
+    (ss. 4-5, 7-9), nicht des Gesetzes. Das Gesetz selbst ist am 30.11.1998 in Kraft getreten (Proc. R.121/1998).
+    Ausserdem inhaltlich: Chapter 4A (Market Inquiries) wurde nicht 2018, sondern durch den Competition
+    Amendment Act 1 of 2009 eingefuegt und ist am 01.04.2013 in Kraft getreten; der Amendment Act 18 of
+    2018 hat es nur geaendert (in Kraft 12.07.2019 / 13.02.2020). status_detail des Eintrags sollte entsprechend
+    angepasst werden. Vorher: 1999-09-01.'
+- id: za-mdpmi-2025
+  jurisdiktion: za
+  kurztitel: Media and Digital Platforms Market Inquiry (MDPMI)
+  offizieller_titel: 'Media and Digital Platforms Market Inquiry: Final Report'
+  fundstelle: Competition Commission South Africa, Abschlussbericht vom 13. November 2025; Verfahren nach
+    Kapitel 4A Competition Act 89 of 1998
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Abschlussbericht vom 13.11.2025. Kapitel 5 behandelt generative KI und stellt fest,
+    dass KI-Entwickler südafrikanische Nachrichteninhalte ohne Vereinbarung, Vergütung oder Nennung zum
+    Training ihrer Modelle genutzt haben und dass Inhalte lizenzierter Anbieter in KI-Zusammenfassungen
+    bevorzugt werden. Die Abhilfemassnahmen verpflichten KI-Unternehmen, südafrikanischen Medien dieselben
+    Inhaltekontrollen und Opt-out-Mechanismen einzuräumen wie in der Europäischen Union, und halbjährliche
+    Schulungen anzubieten. Google zahlt ein Medienpaket im Wert von 688 Mio. ZAR und muss EU-äquivalente
+    Transparenz- und Selbstbevorzugungsverbote in Südafrika umsetzen sowie künftige EU- oder US-Strukturmassnahmen
+    binnen sechs Monaten erstrecken. Die Beteiligten haben den Massnahmen weitgehend zugestimmt.
+
+    '
+  kurzbeschreibung: 'Die erste Marktuntersuchung der Welt, in der eine Wettbewerbsbehörde KI-Entwicklern
+    verbindliche Pflichten gegenüber Presseverlegern auferlegt hat. Eingeleitet am 17.10.2023, vorläufiger
+    Bericht November 2024, Abschlussbericht 13.11.2025. Untersucht wurden Suchmaschinen, soziale Netzwerke,
+    Videoplattformen und generative KI-Dienste in ihrem Verhältnis zu südafrikanischen Nachrichtenmedien.
+    Der Befund zur KI: KI-Entwickler zeigen ''scant interest'' an Lizenzverträgen mit südafrikanischen
+    Verlegern und schliessen solche nur mit grossen globalen Medienhäusern; die Inhalte der Lizenznehmer
+    werden in KI-Antworten bevorzugt, was südafrikanische Verleger doppelt benachteiligt. Abhilfemassnahmen:
+    gleichwertige Inhaltekontrollen und Opt-out-Mechanismen wie in der EU (einschliesslich der Möglichkeit,
+    Training und Zusammenfassung getrennt zu blockieren), halbjährliche Schulungen zum Aufbau eines funktionierenden
+    Lizenzmarktes, kollektive Vermarktung für kleinere Verleger; für Google zusätzlich EU-äquivalente
+    Transparenz und Selbstbevorzugungsverbote und ein Medienpaket von 688 Mio. ZAR (davon 114 Mio. ZAR
+    über drei Jahre und 71 Mio. ZAR jährlich für Showcase-Verträge). Ausdrücklich NICHT geschaffen wurde
+    ein Vergütungs- oder Lizenzregime für Trainingsdaten — die strukturelle Lücke bleibt.
+
+    '
+  inkrafttreten:
+    datum: 2025-11-13
+    verifiziert: true
+    quelle: https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf
+  anwendungsdaten:
+  - datum: 2023-10-17
+    was_gilt: Einleitung der Marktuntersuchung.
+    verifiziert: false
+    quelle: https://www.engineeringnews.co.za/print-version/competition-commission-launches-enquiry-into-media-digital-platforms-2023-10-17
+  - datum: 2024-11-01
+    was_gilt: Veröffentlichung des vorläufigen Berichts.
+    verifiziert: true
+    quelle: https://www.compcom.co.za/media-and-digital-platforms-market-inquiry/
+  - datum: 2025-09-29
+    was_gilt: Entwurfsanordnungen (draft orders) nach Abschluss der Abhilfegespräche vom Juni bis September
+      2025.
+    verifiziert: false
+    quelle: https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf
+  - datum: 2025-11-13
+    was_gilt: 'Veröffentlichung des Abschlussberichts mit den KI-Abhilfemassnahmen; die meisten grossen
+      Plattformen haben zugestimmt und setzen unmittelbar nach der Veröffentlichung um.
+
+      '
+    verifiziert: true
+    quelle: https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf
+  - datum: 2026-01-13
+    was_gilt: Berichte über die Umsetzung des Google-Medienpakets in Höhe von 688 Mio. ZAR.
+    verifiziert: false
+    quelle: https://africanantitrust.com/2026/01/13/google-to-pay-r688-million-to-sa-media-following-competition-commission-inquiry/
+  themenachsen:
+  - wettbewerb
+  - urheberrecht
+  - content
+  - gpai
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Kapitel 5 des Berichts (''Generative Artificial Intelligence''): Feststellung, dass Nachrichteninhalte
+    substantiell zur Modellqualität beitragen, ohne dass die Urheber daran teilhaben — eingeordnet als
+    ''adverse effect on competition''.'
+  - 'Abhilfemassnahme: KI-Unternehmen müssen südafrikanischen Medien ''the same content controls and opt-out
+    mechanisms available in the EU'' einräumen, einschliesslich der Möglichkeit, Training und Zusammenfassung
+    getrennt zu blockieren.'
+  - 'Abhilfemassnahme: halbjährliche Schulungen (''bi-annual training to support the development of a
+    fair and functioning market for licensed content'') — begründet damit, dass kleinere Verleger die
+    technische Expertise für die Ausübung von Opt-outs nicht haben.'
+  - 'Abhilfemassnahme: kollektive Vermarktung, damit kleinere Medien Lizenzverträge verhandeln können.'
+  - 'Google: EU-äquivalente Transparenz- und Selbstbevorzugungsverbote in Südafrika; Erstreckung künftiger
+    EU- oder US-Strukturmassnahmen binnen sechs Monaten nach deren Umsetzung. Das ist eine dynamische
+    Verweisung auf fremdes Recht — ein bemerkenswertes Regulierungsinstrument für einen Staat ohne eigene
+    Plattformregulierung.'
+  - 'Google: Medienpaket von insgesamt 688 Mio. ZAR, darunter 114 Mio. ZAR über drei Jahre und 71 Mio.
+    ZAR jährlich für Showcase-Verträge.'
+  - Empfehlung an das DCDT, unter dem Electronic Communications and Transactions Act 25 of 2002 Vorschriften
+    zur Inhaltemoderation zu erlassen.
+  - 'AUSDRÜCKLICHE LÜCKE: Die Massnahmen schaffen kein Lizenz- oder Vergütungsregime für Trainingsdaten.
+    Der Bericht verlagert die Last auf das Opt-out — genau die Konstruktion, die in Europa mit Art. 4
+    Abs. 3 DSM-Richtlinie als unzureichend kritisiert wird.'
+  dokumente:
+  - datum: 2025-11-13
+    typ: bericht
+    titel: 'Media and Digital Platforms Market Inquiry: Final Report (non-confidential)'
+    url: https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf
+    sprache: en
+    urheber: Competition Commission South Africa
+    verifiziert: true
+    notiz: Amtlicher Bericht; abgerufen. Kapitel 5 behandelt generative KI, Abschnitt 5.5.2 die Abhilfemassnahmen.
+  - datum: 2025-11-13
+    typ: pressemitteilung
+    titel: The Competition Commission Launches the MDPMI Final Report
+    url: https://compcomdev.co.za/mdpmi_final_report/
+    sprache: en
+    urheber: Competition Commission South Africa
+    verifiziert: true
+    notiz: Amtliche Begleitseite. Aus ihr stammt die wörtliche Fassung der KI-Abhilfemassnahme ('the same
+      content controls and opt-out mechanisms available in the EU, alongside biannual training ...').
+  - datum: 2025-11-14
+    typ: bericht
+    titel: Five key takeaways from the Competition Commission report into Big Tech and the SA media
+    url: https://www.dailymaverick.co.za/article/2025-11-14-five-key-takeaways-from-the-competition-commission-report-into-big-tech-and-the-sa-media/
+    sprache: en
+    urheber: Daily Maverick
+    verifiziert: true
+    notiz: Sekundärquelle. Belegt Berichtsdatum 13.11.2025, die Zahlen zum Google-Paket (114 Mio. ZAR
+      über drei Jahre plus 71 Mio. ZAR jährlich) und die Feststellung, dass KI-Unternehmen 'scant interest'
+      an Verträgen mit südafrikanischen Verlegern zeigen.
+  - datum: 2025-12-09
+    typ: stellungnahme
+    titel: A Pragmatic Win, Not a Structural Fix, in South Africa's Deal with Big Tech
+    url: https://www.techpolicy.press/a-pragmatic-win-not-a-structural-fix-in-south-africas-deal-with-big-tech/
+    sprache: en
+    urheber: Tech Policy Press
+    verifiziert: true
+    notiz: 'Die schärfste Kritik: Die Massnahmen schaffen kein Lizenz- oder Vergütungsregime für Trainingsdaten
+      und lassen damit ''a structural gap''. Belegt ausserdem die dynamische Erstreckungspflicht für Google
+      (EU- oder US-Strukturmassnahmen binnen sechs Monaten).'
+  offene_punkte:
+  - Ob und wie die Opt-out-Pflichten durchgesetzt werden, ist offen; der Bericht nennt keine Fristen für
+    die laufende Erfüllung.
+  - Welche KI-Unternehmen namentlich gebunden sind, ist aus den öffentlichen Fassungen nicht abschliessend
+    zu entnehmen; genannt werden Google (Gemini), OpenAI (ChatGPT) und Meta.
+  - Ob die Massnahmen auf s. 43C Competition Act gestützt oder vertraglich vereinbart sind, ist nicht
+    eindeutig belegt — davon hängt ab, ob ein Verstoss eine Geldbusse oder nur eine Vertragsverletzung
+    auslöst.
+  - 'Verhältnis zur geplanten Fair-Use-Klausel des Copyright Amendment Bill ungeklärt: Ein gesetzliches
+    Fair Use könnte die kartellrechtlich erzwungenen Opt-outs entwerten.'
+  monitoring_quellen:
+  - https://www.compcom.co.za/media-and-digital-platforms-market-inquiry/
+  - https://www.comptrib.co.za/
+  bezug_regelwerke:
+  - za-competition-act-1998
+  - za-copyright-act-1978
+  - za-ecta-2002
+  letzte_pruefung: 2026-09-06
+- id: za-fsca-pa-ai-report-2025
+  jurisdiktion: za
+  kurztitel: FSCA/PA-Bericht zu KI im Finanzsektor
+  offizieller_titel: Artificial Intelligence in the South African Financial Sector
+  fundstelle: Gemeinsamer Bericht der Financial Sector Conduct Authority (FSCA) und der Prudential Authority
+    (PA), veröffentlicht am 24. November 2025
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Kein Rechtsakt, sondern eine Bestandsaufnahme. Der Bericht ist die erste umfassende
+    Übersicht über den KI-Einsatz im südafrikanischen Finanzsektor und stützt sich auf eine Erhebung bei
+    beaufsichtigten Instituten. Er begründet keine Pflichten und kündigt keine Regulierung an; er ist
+    die Vorstufe, auf der eine spätere Aufsichtsleitlinie aufbauen würde. Eine KI-spezifische Verhaltens-
+    oder Aufsichtsvorschrift für den südafrikanischen Finanzsektor gibt es bis zum 06.09.2026 nicht.
+
+    '
+  kurzbeschreibung: 'Gemeinsamer Bericht der Marktverhaltensaufsicht (FSCA) und der Bankenaufsicht (Prudential
+    Authority, angesiedelt bei der South African Reserve Bank) vom 24.11.2025. Er erfasst Verbreitung
+    und Anwendungsfälle von maschinellem Lernen und generativer KI bei Banken, Versicherern, Vermögensverwaltern
+    und Finanzdienstleistern und ordnet die damit verbundenen Aufsichtsfragen ein — Modellrisiko, Erklärbarkeit,
+    Fairness im Vertrieb, Auslagerung an Modellanbieter, Konzentrationsrisiken bei wenigen Anbietern,
+    Datenschutz nach POPIA sowie Geschäftsgeheimnis- und Schutzrechtsfragen an Modellen und Trainingsdaten.
+    Adressaten sind die beaufsichtigten Institute; Sanktionen enthält der Bericht nicht. Aufsichtsrechtlich
+    bleibt es bei den allgemeinen Instrumenten: Treating Customers Fairly, die Conduct Standards der FSCA,
+    die Auslagerungsvorgaben der PA und der Financial Advisory and Intermediary Services Act.
+
+    '
+  inkrafttreten:
+    datum: 2025-11-24
+    verifiziert: true
+    quelle: https://www.resbank.co.za/en/home/publications/publication-detail-pages/media-releases/2025/artificial-intelligence-in-the-south-african-financial-sector
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - datenschutz
+  - haftung
+  regelungsschwerpunkte:
+  - Erste umfassende Erhebung zum KI-Einsatz im südafrikanischen Finanzsektor, getragen von zwei Aufsichtsbehörden
+    gemeinsam.
+  - 'Erfasste Techniken: maschinelles Lernen und generative KI.'
+  - 'Aufsichtsthemen: Modellrisiko, Erklärbarkeit, faire Kundenbehandlung, Auslagerung, Konzentrationsrisiko,
+    Datenschutz nach POPIA, Schutz von Modellen und Trainingsdaten als Geschäftsgeheimnis.'
+  - KEINE NEUEN PFLICHTEN. Der Bericht ist Diagnose, nicht Regulierung. Wer in Südafrika ein KI-System
+    im Finanzsektor betreibt, unterliegt weiterhin nur dem allgemeinen Aufsichtsrecht.
+  dokumente:
+  - datum: 2025-11-24
+    typ: bericht
+    titel: Artificial Intelligence in the South African Financial Sector (Medienmitteilung mit Bericht)
+    url: https://www.resbank.co.za/en/home/publications/publication-detail-pages/media-releases/2025/artificial-intelligence-in-the-south-african-financial-sector
+    sprache: en
+    urheber: South African Reserve Bank (Prudential Authority) und Financial Sector Conduct Authority
+    verifiziert: true
+    notiz: 'Amtliche Veröffentlichungsseite; abgerufen. Belegt Titel, Datum 24.11.2025 und die beiden
+      herausgebenden Behörden. Direkter Berichtslink: https://www.resbank.co.za/content/dam/sarb/publications/media-releases/2025/sarbfsca-ai-report/Artificial%20Intelligence%20in%20the%20South%20African%20Financial%20Sector%20Final.pdf'
+  - datum: 2025-12-01
+    typ: stellungnahme
+    titel: 'South Africa: Regulators assess AI in finance'
+    url: https://www.bakermckenzie.com/en/insight/publications/alerts/2025/12/south-africa-regulators-assess-ai-in-finance
+    sprache: en
+    urheber: Baker McKenzie
+    verifiziert: false
+    notiz: Sekundärauswertung; nur über die Trefferliste belegt.
+  offene_punkte:
+  - Ob FSCA oder PA eine KI-Leitlinie oder einen Conduct Standard folgen lassen, ist offen; der Bericht
+    kündigt nichts an.
+  - Der Berichtstext selbst wurde nicht im Volltext geöffnet; die Inhaltsangabe stützt sich auf die amtliche
+    Medienmitteilung und Sekundärauswertungen.
+  monitoring_quellen:
+  - https://www.fsca.co.za/
+  - https://www.resbank.co.za/en/home/publications
+  bezug_regelwerke:
+  - za-popia
+  - za-ai-policy-framework-2024
+  letzte_pruefung: 2026-09-06
+- id: za-hpcsa-booklet-20
+  jurisdiktion: za
+  kurztitel: HPCSA Booklet 20 — Ethikrichtlinie KI in der Gesundheitsversorgung
+  offizieller_titel: Ethical Guidelines on the Use of Artificial Intelligence in Health Care (Booklet
+    20)
+  fundstelle: Health Professions Council of South Africa, Booklet 20, veröffentlicht November 2025
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Berufsethische Leitlinie des Health Professions Council of South Africa, im November
+    2025 als Booklet 20 der HPCSA-Ethikreihe veröffentlicht. Verstösse werden über das Berufsaufsichtsverfahren
+    des Health Professions Act 56 of 1974 geahndet; die Leitlinie selbst ist kein Gesetz. Für 2026 sind
+    flankierende Änderungen der Ethical Rules angekündigt.
+
+    '
+  kurzbeschreibung: 'Erste berufsrechtliche KI-Regelung Südafrikas. Sie richtet sich an alle beim HPCSA
+    registrierten Gesundheitsberufe — Ärztinnen und Ärzte, Psychologen, Radiologen, Ergo- und Physiotherapeuten
+    und weitere. Kern ist die Trennung von Werkzeug und Verantwortung: KI darf Dokumentation, Triage,
+    Bildauswertung und klinische Entscheidungsunterstützung unterstützen, ersetzt aber nicht das klinische
+    Urteil; die Behandlerin bleibt für Befunderhebung und Entscheidung verantwortlich. Hinzu treten eine
+    Aufklärungspflicht (Patientinnen und Patienten müssen erfahren, wenn KI in ihre Behandlung einfliesst),
+    eine Validierungspflicht (nur Systeme, deren Zuverlässigkeit und kulturelle Angemessenheit für die
+    südafrikanische Bevölkerung belegt ist) und die Bindung an das Datenschutzrecht (POPIA). Sanktion
+    ist das berufsrechtliche Verfahren vor dem Professional Conduct Committee.
+
+    '
+  inkrafttreten:
+    datum: 2025-11-01
+    verifiziert: false
+    quelle: https://www.hpcsa-blogs.co.za/wp-content/uploads/2025/11/ETHICAL-GUIDELINES-USE-OF-AI.pdf
+  anwendungsdaten:
+  - datum: 2026-01-01
+    was_gilt: Flankierende Änderungen der HPCSA Ethical Rules zu KI-Einsatz und Entscheidungen am Lebensende
+      werden berichtet; Gazette-Fundstelle nicht ermittelt.
+    verifiziert: false
+    quelle: https://www.thomsonwilks.co.za/news-and-media/hpcsas-new-ethical-rules-ai-use-and-end-of-life-decisions
+  themenachsen:
+  - sektor-medizin
+  - berufsrecht
+  - haftung
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Verantwortungsprinzip: ''AI systems may assist with documentation, triage, image analysis and clinical
+    decision support, but cannot replace clinical judgement.'' Die Behandlerin bleibt für Beurteilung
+    und Entscheidung verantwortlich.'
+  - 'Aufklärungspflicht: Patientinnen und Patienten sind zu informieren, wenn KI-Systeme in ihre Versorgung
+    einfliessen.'
+  - 'Validierungspflicht: nur Systeme verwenden, deren Zuverlässigkeit belegt und deren Eignung für die
+    südafrikanische Patientenpopulation geprüft ist (''cultural appropriateness'') — eine Anforderung,
+    die in europäischen Leitlinien fehlt und auf die Verzerrungsproblematik bei importierten Modellen
+    zielt.'
+  - 'Drei Säulen: ethische Nutzung, Rechtskonformität (einschliesslich POPIA) und technische Absicherung.'
+  - Verweis auf die SAHPRA-Vorgaben für KI/ML-gestützte Medizinprodukte.
+  dokumente:
+  - datum: 2025-11-01
+    typ: leitlinie
+    titel: Ethical Guidelines on the Use of Artificial Intelligence (HPCSA Booklet 20)
+    url: https://www.hpcsa-blogs.co.za/wp-content/uploads/2025/11/ETHICAL-GUIDELINES-USE-OF-AI.pdf
+    sprache: en
+    urheber: Health Professions Council of South Africa
+    verifiziert: false
+    notiz: PDF auf dem Blogserver des HPCSA. Der Abruf scheiterte an der robots.txt-Prüfung; die URL ist
+      über die Trefferliste belegt und wird vom HPCSA selbst ausgeliefert. Inhalt aus Sekundärauswertungen.
+  - datum: 2025-03-01
+    typ: leitlinie
+    titel: HPCSA Booklet 20 — Ethical Guidelines on the use of Artificial Intelligence (Zweitfassung)
+    url: https://ethiqal.co.za/wp-content/uploads/2025/03/HPCSA-Booklet-20-Ethical-Guidelines-on-the-use-of-Artificial-Intelligence.pdf
+    sprache: en
+    urheber: Health Professions Council of South Africa (Wiedergabe durch Ethiqal)
+    verifiziert: false
+    notiz: Zweitfassung mit früherem Datum (März 2025) — WIDERSPRUCH zur Datierung November 2025. Möglicherweise
+      handelt es sich um eine Entwurfs- und eine Endfassung; nicht aufgelöst.
+  - datum: 2026-01-09
+    typ: stellungnahme
+    titel: 'HPCSA''s new Ethical Rules: AI use and End-Of-Life Decisions'
+    url: https://www.thomsonwilks.co.za/news-and-media/hpcsas-new-ethical-rules-ai-use-and-end-of-life-decisions
+    sprache: en
+    urheber: Thomson Wilks Attorneys
+    verifiziert: true
+    notiz: Sekundärquelle. Belegt die drei Säulen, die Aufklärungs- und Validierungspflicht und den Verweis
+      auf die SAHPRA-Vorgaben. Nennt keine Gazette-Fundstelle für die Ethical Rules.
+  offene_punkte:
+  - 'DATIERUNGSWIDERSPRUCH: Eine Fassung datiert auf März 2025, eine auf November 2025. Welche gilt, ist
+    nicht geklärt.'
+  - Die angekündigten Änderungen der Ethical Rules (Gazette-Fundstelle unbekannt) wurden nicht ermittelt.
+  - Der Volltext von Booklet 20 wurde nicht gelesen; die Nummerierung der Grundsätze ist deshalb nicht
+    erfasst.
+  - 'Inkrafttreten nicht belegbar: hpcsa-blogs.co.za (robots-Sperre auf Seite und PDF), hpcsa.co.za, Bowmans,
+    ethiqal.co.za. Belegt ist nur, dass die HPCSA die ueberarbeiteten Ethikrichtlinien am 20.11.2025 angekuendigt
+    hat (Bowmans). Zugleich zirkuliert ein Booklet-20-PDF bereits seit Maerz 2025 (ethiqal.co.za/wp-content/uploads/2025/03/).
+    Damit ist offen, ob der eingetragene 01.11.2025 die Erstfassung oder die Neufassung bezeichnet. Ohne
+    das amtliche Deckblatt mit Council-Beschlussdatum kein Beleg; verifiziert bleibt false. Hinweis: die
+    flankierenden Ethical Rules wurden Anfang 2026 geaendert.'
+  monitoring_quellen:
+  - https://www.hpcsa.co.za/
+  - https://www.hpcsa-blogs.co.za/
+  bezug_regelwerke:
+  - za-sahpra-md08-2025
+  - za-popia
+  letzte_pruefung: 2026-09-06
+- id: za-sahpra-md08-2025
+  jurisdiktion: za
+  kurztitel: SAHPRA MD08 — KI/ML-gestützte Medizinprodukte
+  offizieller_titel: Regulatory Requirements of Artificial Intelligence and Machine Learning (AI/ML) Enabled
+    Medical Devices (MD08-2025/2026, Version 1)
+  fundstelle: South African Health Products Regulatory Authority, Dokument MD08-2025/2026 Version 1, wirksam
+    ab 19. August 2025
+  verfahrensnummer: MD08-2025/2026
+  status: softlaw
+  status_detail: 'Mitteilung der Arzneimittel- und Medizinproduktebehörde an die Industrie, wirksam seit
+    dem 19.08.2025. Sie ist keine Rechtsverordnung, sondern eine Auslegungs- und Verfahrensmitteilung
+    zu den bestehenden Anforderungen des Medicines and Related Substances Act 101 of 1965 und der Medical
+    Devices Regulations. Faktisch bestimmt sie, was die Behörde von Antragstellern für KI- und ML-gestützte
+    Medizinprodukte verlangt.
+
+    '
+  kurzbeschreibung: 'Erste produktregulatorische KI-Vorgabe Südafrikas. Sie richtet sich an Hersteller
+    und Inverkehrbringer von Medizinprodukten, deren Funktion auf künstlicher Intelligenz oder maschinellem
+    Lernen beruht, und legt fest, welche Nachweise die SAHPRA im Zulassungs- und Lizenzverfahren erwartet
+    — insbesondere zur Validierung, zur klinischen Leistungsfähigkeit, zum Umgang mit lernenden Systemen
+    nach der Zulassung und zur laufenden Überwachung. Sanktion ist die Versagung oder der Widerruf der
+    Zulassung beziehungsweise der Herstellungs- und Vertriebslizenz. Zusammen mit dem HPCSA-Booklet 20
+    bildet sie die einzige sektorspezifische KI-Regelung Südafrikas mit unmittelbarer Praxiswirkung.
+
+    '
+  inkrafttreten:
+    datum: 2025-08-19
+    verifiziert: true
+    quelle: https://www.sahpra.org.za/document/regulatory-requirements-of-artificial-intelligence-and-machine-learning-ai-ml-enabled-medical-devices/
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-medizin
+  - marktzugang
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Zweckbestimmung: ''This communication is intended to provide industry stakeholders with the regulatory
+    requirements of Artificial Intelligence and Machine Learning (AI/ML)-enabled medical devices in South
+    Africa.'''
+  - Anforderungen an Validierung und klinische Leistungsfähigkeit KI-gestützter Produkte.
+  - Umgang mit lernenden Systemen nach der Zulassung (Änderungskontrolle) und laufende Überwachung.
+  - 'Flankierung durch die berufsethische Ebene: Booklet 20 des HPCSA verweist ausdrücklich auf diese
+    Vorgaben.'
+  dokumente:
+  - datum: 2025-08-19
+    typ: leitlinie
+    titel: Regulatory Requirements of Artificial Intelligence and Machine Learning (AI/ML) Enabled Medical
+      Devices — MD08-2025/2026 v1
+    url: https://www.sahpra.org.za/document/regulatory-requirements-of-artificial-intelligence-and-machine-learning-ai-ml-enabled-medical-devices/
+    sprache: en
+    urheber: South African Health Products Regulatory Authority (SAHPRA)
+    verifiziert: true
+    notiz: 'Amtliche Dokumentenseite; abgerufen. Belegt Dokumentnummer MD08-2025/2026, Version 1, Wirksamkeit
+      ab 19.08.2025 und die Zweckbestimmung. Direktes PDF: https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf'
+  offene_punkte:
+  - Der Volltext der Mitteilung wurde nicht gelesen; die einzelnen Anforderungen sind deshalb nicht abschliessend
+    erfasst.
+  - Ob die SAHPRA eine Regelung für nach der Zulassung fortlernende Systeme (predetermined change control
+    plans nach FDA-Vorbild) vorsieht, ist nicht geprüft.
+  monitoring_quellen:
+  - https://www.sahpra.org.za/documents/
+  bezug_regelwerke:
+  - za-hpcsa-booklet-20
+  letzte_pruefung: 2026-09-06
+- id: za-legal-practice-act-2014
+  jurisdiktion: za
+  kurztitel: Legal Practice Act 28 of 2014 und LPC Code of Conduct
+  offizieller_titel: Legal Practice Act, 2014 (Act No. 28 of 2014), nebst dem Code of Conduct for all
+    Legal Practitioners, Candidate Legal Practitioners and Juristic Entities (published under section
+    97(1)(b))
+  fundstelle: Act No. 28 of 2014; Code of Conduct veröffentlicht im Government Gazette No. 42337 vom 29.
+    März 2019 (Board Notice), zuletzt geändert
+  verfahrensnummer: B20-2012
+  status: anwendbar
+  status_detail: 'Das Berufsrecht der südafrikanischen Anwaltschaft. Weder das Gesetz noch der Code of
+    Conduct des Legal Practice Council enthalten eine KI-spezifische Vorschrift; bis zum 06.09.2026 hat
+    der LPC keine KI-Richtlinie erlassen. Die Sanktionierung erfundener Fundstellen läuft deshalb über
+    die allgemeinen Pflichten — Ehrlichkeit gegenüber dem Gericht, Sorgfalt, Aufsicht über Berufsanfänger
+    — und über die Kostenentscheidung des Gerichts. Die Gerichte haben seit 2023 in mehreren Verfahren
+    Akten an den LPC überwiesen (Northbound Processing 30.06.2025, Mavundla 08.01.2025, F.J.L v T.G.O
+    31.07.2026); der Ausgang dieser Verfahren ist nicht veröffentlicht.
+
+    '
+  kurzbeschreibung: 'Das Legal Practice Act vereinheitlicht seit 2014 das Berufsrecht von Attorneys und
+    Advocates und errichtet den Legal Practice Council als landesweite Aufsichtskammer. Der Council erlässt
+    nach s. 97(1)(b) einen Code of Conduct, führt Disziplinarverfahren und kann von der Rolle streichen.
+    Adressaten sind alle eingetragenen Rechtsanwältinnen und Rechtsanwälte, Berufsanfänger und juristische
+    Personen der Rechtsberatung. Für das KI-Recht ist entscheidend, dass die Berufspflichten technikneutral
+    formuliert sind: Die Pflicht, dem Gericht keine unrichtigen Angaben zu machen, und die Pflicht zur
+    Beaufsichtigung von Berufsanfängern greifen unabhängig davon, ob die Fehlerquelle ein Modell oder
+    ein Mensch war. Der praktisch bedeutsamste Befund für die Zurechnung stammt aus F.J.L v T.G.O: Ein
+    Acting Judge bleibt eingetragener Rechtsanwalt und unterliegt deshalb weiter der Disziplinargewalt
+    des LPC, während die Judicial Service Commission für ihn nicht zuständig ist, weil sie ihn nicht ernannt
+    hat.
+
+    '
+  inkrafttreten:
+    datum: 2015-02-01
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/2014/28
+    fundstelle_norm: 's. 121(2) Legal Practice Act 28 of 2014 i. V. m. Proclamation R.2 of 2015 — erste
+      Stufe: Chapter 10 Part 1 (ss. 96-108) und Part 2 (s. 109), Uebergangs- und Errichtungsvorschriften'
+  anwendungsdaten:
+  - datum: 2018-10-31
+    was_gilt: Chapter 2 Part 1 (ss. 4-13) und Part 2 (ss. 15-23) — Konstituierung des Legal Practice Council;
+      Proclamation R.31 of 2018 v. 29.10.2018
+    verifiziert: true
+    quelle: https://www.lssa.org.za/wp-content/uploads/2019/12/LSSA-Advisory-Implementation-of-the-Legal-Practice-Act-28-of-2014.pdf
+  - datum: 2018-11-01
+    was_gilt: die uebrigen Vorschriften (Chapters 1, 3, 4, 6, 7, 8, 9 und Teile von Chapter 10) mit Ausnahmen;
+      Proclamation R.31 of 2018 — hierauf beruht die berufsrechtliche Aufsicht des LPC
+    verifiziert: true
+    quelle: https://www.lssa.org.za/wp-content/uploads/2019/12/LSSA-Advisory-Implementation-of-the-Legal-Practice-Act-28-of-2014.pdf
+  - datum: 2022-03-01
+    was_gilt: s. 14, s. 42, Chapter 5 (ss. 45-52, Legal Services Ombud); Proclamation No. 53 of 2022
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/2014/28
+  - datum: 2023-05-26
+    was_gilt: ss. 37(5)(e)(ii), 40(1)(b)(ii), 40(7)(b), 41 (Disziplinarverfahren); Proclamation No. 120
+      of 2023
+    verifiziert: true
+    quelle: https://lawlibrary.org.za/akn/za/act/2014/28
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 's. 97(1)(b): Ermächtigung des Legal Practice Council zum Erlass eines Code of Conduct.'
+  - 'Code of Conduct: Pflicht zur Redlichkeit gegenüber dem Gericht, Sorgfaltspflicht, Pflicht zur Beaufsichtigung
+    von Candidate Legal Practitioners. Alle drei greifen bei erfundenen Fundstellen; keine ist auf KI
+    zugeschnitten.'
+  - Disziplinargewalt des LPC über eingetragene Rechtsanwälte, einschliesslich solcher, die als Acting
+    Judge tätig sind — die tragende Feststellung von F.J.L v T.G.O.
+  - 'Kostenhaftung de bonis propriis als paralleles Sanktionsinstrument des Gerichts: In Mavundla wurden
+    die Kosten zweier zusätzlicher Termine der Kanzlei auf scale A auferlegt.'
+  - 'LÜCKE: KEINE KI-RICHTLINIE DES LPC. Trotz vier Überweisungen aus vier Verfahren seit 2023 hat der
+    Legal Practice Council bis zum 06.09.2026 keine Leitlinie zum KI-Einsatz veröffentlicht. Die Fachdiskussion
+    (De Rebus, golegal) fordert sie seit Oktober 2025.'
+  dokumente:
+  - datum: 2025-10-29
+    typ: stellungnahme
+    titel: 'Responsible AI use in South African legal practice: A call for ethical guidelines'
+    url: https://www.polity.org.za/article/responsible-ai-use-in-south-african-legal-practice-a-call-for-ethical-guidelines-2025-10-29
+    sprache: en
+    urheber: Polity (Wiedergabe eines De-Rebus-Beitrags)
+    verifiziert: false
+    notiz: Belegt, dass die Forderung nach berufsrechtlichen KI-Leitlinien in Südafrika seit Oktober 2025
+      offen erhoben wird — und damit, dass es sie nicht gibt.
+  - datum: 2026-01-01
+    typ: stellungnahme
+    titel: 'Responsible AI Use in South African legal practice: Our revised guidelines and the consultation
+      that shaped them'
+    url: https://www.derebus.org.za/responsible-ai-use-in-south-african-legal-practice-our-revised-guidelines-and-the-consultation-that-shaped-them/
+    sprache: en
+    urheber: De Rebus (Zeitschrift der südafrikanischen Anwaltschaft)
+    verifiziert: false
+    notiz: Folgebeitrag mit überarbeiteten Leitlinienvorschlägen aus der Fachöffentlichkeit — nicht des
+      Legal Practice Council. Nur über die Trefferliste belegt.
+  offene_punkte:
+  - Ausgang der LPC-Verfahren aus Mavundla, Northbound Processing und F.J.L v T.G.O ist nicht veröffentlicht.
+  - Ob der LPC eine KI-Richtlinie vorbereitet, ist nicht ermittelt; die Verbandsseite lpc.org.za wurde
+    nicht ausgewertet.
+  - Das genaue Inkrafttretensdatum des Legal Practice Act (schrittweise 2015-2018) und die Fundstelle
+    des Code of Conduct wurden nicht am Primärdokument geprüft.
+  monitoring_quellen:
+  - https://lpc.org.za/
+  - https://www.derebus.org.za/
+  bezug_regelwerke:
+  - za-ocj-draft-ai-policy
+  - za-constitution-1996
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'DATUM PRAEZISIERT. Eingetragen war 01.11.2018 — das ist das Inkrafttreten des Hauptteils, nicht des
+    Gesetzes. Erstes Inkrafttreten ist der 01.02.2015 (Proc. R.2/2015, Chapter 10). Alle fuenf Stufen
+    sind jetzt erfasst. Der Code of Conduct (GG 42337 v. 29.03.2019) beruht auf s. 97(1)(b) und ist eine
+    eigene Rechtsquelle mit eigenem Datum. Vorher: 2018-11-01.'
+- id: za-ocj-draft-ai-policy
+  jurisdiktion: za
+  kurztitel: Entwurf einer KI-Richtlinie für die Judiciary
+  offizieller_titel: Draft Policy on Artificial Intelligence for the Judiciary in South Africa (Arbeitstitel;
+    amtliche Bezeichnung nicht ermittelt)
+  fundstelle: Nicht veröffentlicht; Inhalt bekannt aus der Berichterstattung vom 08.05.2026
+  verfahrensnummer: ''
+  status: entwurf
+  status_detail: 'Entwurf des Office of the Chief Justice, im Mai 2026 aus der Berichterstattung bekannt
+    geworden, bis zum 06.09.2026 nicht förmlich veröffentlicht. Die Portalsuche auf judiciary.org.za nach
+    ''artificial'' liefert null Treffer. Der Entwurf ist inhaltlich detailliert und geht über die britischen
+    Judicial Guidance-Papiere hinaus: Er enthält einen Katalog verbotener Verwendungen, eine Offenlegungspflicht
+    für Richterinnen und Richter, eine Aussetzungsklausel für nicht erklärbare Systeme und eine Disziplinardrohung.
+
+    '
+  kurzbeschreibung: 'Erste Regelung des KI-Einsatzes durch die südafrikanische Justiz selbst. Sie bindet
+    KI-Systeme als blosse Hilfsmittel: Sie dürfen richterliches Denken, Ermessen und Entscheiden nicht
+    ersetzen. Ausdrücklich untersagt sind Beweiswürdigung, Beurteilung der Glaubwürdigkeit von Zeugen,
+    Auslegung und Anwendung des Rechts, das Treffen richterlicher Entscheidungen sowie Entscheidungen
+    über Kaution, Strafzumessung und Risikoprognosen. Zulässig sind Verwaltungsaufgaben — Terminierung,
+    Verfahrenssteuerung, Zusammenfassung von Dokumenten, Übersetzung, Sprache, Stil, Formatierung und
+    die Vorbereitung nicht inhaltlicher Unterlagen —, jeweils unter menschlicher Aufsicht und mit Überprüfung.
+    Hinzu treten eine Offenlegungspflicht (''Judicial officers must disclose any material contribution
+    of generative AI in court documents, specifying the AI tool used and its contribution''), eine Verifikationspflicht
+    gegen autoritative Quellen, Datenschutz- und Vertraulichkeitsanforderungen einschliesslich POPIA sowie
+    ein Erklärbarkeitsgebot mit der Sanktion, dass Systeme, die es nicht erfüllen, ausgesetzt werden.
+    Vor der Nutzung ist eine Schulung über Grenzen und Risiken einschliesslich Verzerrung und Halluzination
+    Pflicht; Systeme müssen vor der Einführung Erklärbarkeit, Datenschutzkonformität, Verzerrungsprüfung,
+    Pilotbetrieb und Datenschutz-Folgenabschätzung durchlaufen. Verstösse können disziplinarische Folgen
+    haben. Überprüfung mindestens alle zwei Jahre.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://iol.co.za/news/2026-05-08-ai-in-the-courtroom-south-africas-new-policy-strikes-a-balance/
+    fundstelle_norm: Kein Inkrafttreten — der Entwurf des Office of the Chief Justice ist bis 06.09.2026
+      nicht foermlich veroeffentlicht; er ist nur aus der Berichterstattung vom 08.05.2026 bekannt
+  anwendungsdaten:
+  - datum: 2026-05-08
+    was_gilt: Der Inhalt des Entwurfs wird über die Presse bekannt; das Dokument selbst bleibt unveröffentlicht.
+    verifiziert: true
+    quelle: https://iol.co.za/news/2026-05-08-ai-in-the-courtroom-south-africas-new-policy-strikes-a-balance/
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Grundsatz: KI-Systeme ''should be used solely as assistive tools and not as substitutes for judicial
+    reasoning, discretion, or decision-making in adjudicative functions''.'
+  - 'Richterliche Unabhängigkeit: ''Judicial officers must exercise authority free from external influence
+    or reliance on AI systems for interpreting laws, evaluating evidence, or making judicial decisions.'''
+  - 'Verbotskatalog: Beweiswürdigung, Glaubwürdigkeitsbeurteilung, Auslegung und Anwendung des Rechts,
+    richterliche Entscheidungen, Kaution, Strafzumessung, Risikoprognosen.'
+  - 'Erlaubniskatalog: Terminierung, Verfahrenssteuerung, Zusammenfassung von Dokumenten, Übersetzung,
+    Grammatik, Stil, Formatierung, Vorbereitung nicht inhaltlicher Unterlagen — unter menschlicher Aufsicht
+    und mit Überprüfung.'
+  - 'Offenlegungspflicht: ''Judicial officers must disclose any material contribution of generative AI
+    in court documents, specifying the AI tool used and its contribution. AI outputs must be independently
+    verified against authoritative sources.'' Das geht weiter als die britische Judicial Guidance, die
+    keine Offenlegung verlangt.'
+  - 'Erklärbarkeit mit Sanktion: ''AI systems must produce outputs that are intelligible, explainable,
+    and open to scrutiny. Systems failing to meet this standard will be suspended.'''
+  - 'Datenschutz und Sicherheit: Einhaltung der Datenschutzgesetze einschliesslich POPIA, Vertraulichkeit,
+    Cybersicherheit, Schutzrechte.'
+  - 'Schulungspflicht vor Nutzung: Grenzen und Risiken einschliesslich Verzerrung und Halluzination.'
+  - 'Einführungsvoraussetzungen für Systeme: Erklärbarkeit, Datenschutzkonformität, Verzerrungsprüfung,
+    Pilotbetrieb, Datenschutz-Folgenabschätzung.'
+  - 'Zugang zur Justiz: Effizienzgewinne dürfen keine Barrieren für Menschen ohne digitale Kompetenz oder
+    Technikzugang schaffen.'
+  - 'Verantwortung und Sanktion: Richterinnen, Richter und Gerichtspersonal haften für die ordnungsgemässe
+    Nutzung; Fahrlässigkeit oder Verstoss kann disziplinarische Folgen haben.'
+  - 'Überprüfungsklausel: mindestens alle zwei Jahre; Zwischenleitlinien möglich.'
+  dokumente:
+  - datum: 2026-05-08
+    typ: bericht
+    titel: 'AI in the courtroom: South Africa''s new policy strikes a balance'
+    url: https://iol.co.za/news/2026-05-08-ai-in-the-courtroom-south-africas-new-policy-strikes-a-balance/
+    sprache: en
+    urheber: Independent Online (IOL), Loyiso Sidimba
+    verifiziert: true
+    notiz: Im Browser vollständig gelesen. EINZIGE Quelle für den Inhalt des Entwurfs; enthält mehrere
+      wörtliche Zitate aus dem Dokument. Presse, deshalb Sekundärquelle — die amtliche Fassung ist nicht
+      öffentlich.
+  offene_punkte:
+  - AMTLICHER TEXT NICHT ÖFFENTLICH. Weder judiciary.org.za noch gov.za führen das Dokument; die Portalsuche
+    nach 'artificial' liefert null Treffer. Titel, Datum, Verfahrensstand und Adressatenkreis sind deshalb
+    nicht amtlich belegt.
+  - Ob eine Konsultation stattfindet und wann die Richtlinie in Kraft treten soll, ist unbekannt.
+  - Ob die Richtlinie auch für Acting Judges gilt, ist offen — gerade dort liegt nach F.J.L v T.G.O das
+    praktische Problem.
+  - Keine Division des High Court hat, soweit ersichtlich, eine eigene Practice Directive zum KI-Einsatz
+    erlassen. Die Directives-Seite der Gauteng Division wurde geprüft; ein KI-Bezug fehlt.
+  monitoring_quellen:
+  - https://www.judiciary.org.za/
+  - https://www.judiciary.org.za/index.php/courts/high-courts/gauteng-division-of-the-high-court/directives
+  bezug_regelwerke:
+  - za-legal-practice-act-2014
+  - za-popia
+  - za-constitution-1996
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten null, Status entwurf. Kein amtlicher Text; das Datum 08.05.2026 ist ein
+    Pressedatum und gehoert nicht in das Inkrafttretensfeld — es stand dort auch nicht.'
+- id: za-aoa-ai-guidelines-2025
+  jurisdiktion: za
+  kurztitel: AoA-Leitlinien zu KI in Schieds- und Adjudikationsverfahren
+  offizieller_titel: Guidelines on the Use of Artificial Intelligence (AI) in Arbitrations and Adjudications
+  fundstelle: Association of Arbitrators (Southern Africa) NPC, veröffentlicht am 15. Mai 2025
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Verbandsleitlinie ohne Bindungswirkung; sie wirkt, wenn die Parteien sie vereinbaren
+    oder das Schiedsgericht sie in einer Verfahrensverfügung übernimmt. Sie ist die erste KI-Regelung
+    im südafrikanischen Streitbeilegungsrecht überhaupt — fast ein Jahr vor dem Entwurf der Judiciary.
+
+    '
+  kurzbeschreibung: 'Leitlinien des südafrikanischen Schiedsrichterverbandes zum Einsatz künstlicher Intelligenz
+    in Schieds- und Adjudikationsverfahren, vom 15.05.2025. Sie verfolgen vier Ziele: den verantwortlichen
+    Nutzen von KI zu heben, die Integrität des Verfahrens zu wahren, ethische und rechtliche Risiken zu
+    adressieren und internationale wie nationale Anschlussfähigkeit herzustellen. Adressaten sind Parteien
+    und Spruchkörper; Sanktionen enthalten sie nicht. Der Verband hat sie mit einer Veranstaltungsreihe
+    begleitet (Juli 2025 Technik und KI im Bauwesen, August 2025 Arbeitsabläufe, Oktober 2025 Werkzeuge
+    für Adjudikatoren, Dezember 2025 die Leitlinien und KI in der alternativen Streitbeilegung, Mai 2026
+    Grenzen bei der Abfassung von Adjudikationsentscheidungen).
+
+    '
+  inkrafttreten:
+    datum: 2025-05-15
+    verifiziert: true
+    quelle: https://www.arbitrators.co.za/ai-guidelines-15-may-2025/
+    fundstelle_norm: Beschluss des Board der Association of Arbitrators (Southern Africa) NPC vom 15.05.2025
+      ('its Board adopted these AI Guidelines on 15 May 2025'); Veroeffentlichung am 20.05.2025. Die Leitlinien
+      selbst enthalten keine Inkrafttretensklausel — sie wirken kraft Parteivereinbarung oder Verfahrensverfuegung
+  anwendungsdaten:
+  - datum: 2025-12-04
+    was_gilt: Verbandsveranstaltung 'The AoA's AI Guidelines and the Use of AI in ADR'.
+    verifiziert: false
+    quelle: https://www.arbitrators.co.za/aoa-ai-guidelines-and-use-of-ai-in-adr-4-dec-2025/
+  themenachsen:
+  - berufsrecht
+  - governance
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Vier Zielsetzungen: verantwortliche Nutzung der Vorteile; Wahrung der Verfahrensintegrität; Adressierung
+    ethischer und rechtlicher Risiken; internationale und nationale Konsistenz.'
+  - 'Zweckbestimmung: ''intended to serve as a guide to assist parties and tribunals''.'
+  - 'Rechtsnatur: unverbindlich, wirksam durch Parteivereinbarung oder Verfahrensverfügung.'
+  dokumente:
+  - datum: 2025-05-15
+    typ: leitlinie
+    titel: AI Guidelines (15 May 2025)
+    url: https://www.arbitrators.co.za/ai-guidelines-15-may-2025/
+    sprache: en
+    urheber: Association of Arbitrators (Southern Africa) NPC
+    verifiziert: false
+    notiz: Ankündigungsseite des Verbandes; nur über die Trefferliste belegt.
+  - datum: 2025-05-15
+    typ: leitlinie
+    titel: AI Guidelines — Ressourcenseite des Verbandes
+    url: https://www.arbitrators.co.za/resources/ai-guidelines/
+    sprache: en
+    urheber: Association of Arbitrators (Southern Africa) NPC
+    verifiziert: true
+    notiz: Abgerufen. Belegt den vollständigen Titel 'Guidelines on the Use of Artificial Intelligence
+      (AI) in Arbitrations and Adjudications' und die vier Zielsetzungen. Der Text selbst wird nur über
+      einen Flipbook-Viewer (arbitrators.aflip.in/ai-guidelines) ausgeliefert und liess sich nicht durchblättern;
+      das Datum der Verabschiedung steht nicht auf der Seite.
+  offene_punkte:
+  - Wortlaut und Gliederung der Leitlinien nicht erfasst (Flipbook-Auslieferung).
+  - Datum 15.05.2025 stammt aus dem Titel der Ankündigungsseite, nicht aus dem Dokument.
+  monitoring_quellen:
+  - https://www.arbitrators.co.za/resources/ai-guidelines/
+  bezug_regelwerke:
+  - za-ocj-draft-ai-policy
+  - za-legal-practice-act-2014
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Bestaetigt. Eingetragen war der Beschlussdatum 15.05.2025, das fuer eine Verbandsleitlinie das massgebliche
+    Datum ist; die Veroeffentlichung folgte am 20.05.2025. Status softlaw bestaetigt.

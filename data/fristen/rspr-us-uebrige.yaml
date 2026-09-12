@@ -1,0 +1,209 @@
+fristen:
+- id: us-uebrige-termin-t1
+  datum: 2026-08-13
+  beschreibung: 'GEGENSTANDSLOS — die Entscheidung ist ergangen. Das Docket zeigt folgenden Verlauf: Die
+    Anhörung über den Klageabweisungsantrag (Dkt. 42) wurde mehrfach verlegt — mit Dkt. 61 vom 10.07.2026
+    vom 15.07. auf den 29.07.2026, mit Clerk''s Notice Dkt. 62 vom 14.07.2026 weiter auf den 03.08.2026.
+    Die Anhörung fand am 03.08.2026 statt (Minute Entry Dkt. 65, 49 Minuten, Antrag zur Entscheidung angenommen),
+    am 13.08.2026 erging Dkt. 68: „ORDER Granting in part 42 Motion to Dismiss“, gezeichnet von Judge
+    Eumi K. Lee.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2025-otter-ai
+  quelle: https://storage.courtlistener.com/recap/gov.uscourts.cand.454675/gov.uscourts.cand.454675.68.0.pdf
+  fundstelle_norm: N.D. Cal., No. 5:25-cv-06911-EKL, Dkt. 68 — „ORDER Granting in part 42 Motion to Dismiss“,
+    gezeichnet von Judge Eumi K. Lee am 13.08.2026
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: us-uebrige-termin-t2
+  datum: '2026-09-22'
+  beschreibung: 'Ausschluss- und Widerspruchsfrist im RealPage-Vergleich, jeweils bis 22.09.2026, 23:59
+    Uhr EST. Der gerichtlich genehmigte Long Form Notice nennt durchgängig den 22.09.2026; die Dokumentenliste
+    der Vergleichsseite führt dazu eine "Court-Approved Extension of Certain Settlement Deadlines" vom
+    28.08.2026. Rubrum: In re RealPage, Inc., Rental Software Antitrust Litigation (No. II), Case No.
+    3:23-MD-3071, MDL No. 3071, M.D. Tenn., Nashville Division. NICHT AM AMTLICHEN TEXT BELEGT: Das PDF
+    der Verlängerungsanordnung war nicht abrufbar; Titel und Datum stammen aus der Dokumentenliste, der
+    Inhalt ergibt sich mittelbar aus dem geänderten Long Form Notice. Die Fallseite des Gerichts (tnmd.uscourts.gov)
+    führt keine Vergleichstermine, CourtListener ist per robots.txt gesperrt.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2026-realpage-mdl-vergleich
+  quelle: https://www.realpagerentalsettlement.com/important-documents
+  fundstelle_norm: M.D. Tenn., MDL No. 3071 (3:23-md-03071), Dkt. 1408 vom 22.05.2026 (Order Approving
+    Notice Plan), geändert durch die "Court-Approved Extension of Certain Settlement Deadlines" vom 28.08.2026
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  uhrzeit: '23:59'
+  sekundaerquelle: https://angeion-public.s3.amazonaws.com/www.realpagerentalsettlement.com/docs/RealPage%20-%20Long%20Form%20Notice%20(Final).pdf
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Datum von 01.09.2026 auf 22.09.2026 berichtigt. Der gerichtlich genehmigte Long Form
+    Notice lautet wörtlich: Ausschluss "11:59 p.m. EST on September 22, 2026", Widerspruch "11:59 p.m.
+    on September 22, 2026", Anmeldung "11:59 p.m. EST on January 29, 2027". WIDERSPRUCH, aufgelöst: Die
+    Pressemitteilung der Settlement Class Counsel vom 20.08.2026 nennt noch "no later than September 1,
+    2026"; sie gibt den Stand vor der Verlängerung wieder und ist überholt. Wer den Bestand nur an dieser
+    Pressemitteilung prüft, übernimmt ein falsches, bereits abgelaufenes Datum.'
+- id: us-uebrige-termin-t3
+  datum: 2026-09-23
+  beschreibung: 'Weitere Case Management Conference in JCCP 5431 (In re: ChatGPT Product Liability Cases)
+    am 23.09.2026; nach einer der Quellen ist an diesem Tag zugleich ein Antrag auf Pseudonymisierung
+    in Jean Doe v. OpenAI terminiert. Zuständig ist Hon. Ethan P. Schulman, Department 304, als Coordination
+    Trial Judge. Das Koordinationsdekret vom 03.02.2026 stammt von Hon. Stephen M. Murphy, Department
+    606 — er hat dem Petition for Coordination stattgegeben und zugleich angeordnet, dass alle Verfahren
+    "stayed pending the assignment of a Coordination Trial Judge" sind; das Verfahren wurde danach Judge
+    Schulman "for all purposes" zugewiesen. Dept. 606 ist danach nicht die zuständige Kammer, auch wenn
+    es verbreitet so genannt wird. Verfahrensstand: erste Case Management Conference 24.07.2026, Case
+    Management Order No. 1 vom 04.08.2026 (Leadership-Struktur, mit handschriftlichem Vorbehalt zugunsten
+    selbstvertretener Kläger), Beitritt eines weiteren Verfahrens durch Beschluss vom 21.07.2026; derzeit
+    acht Klägerverfahren. NICHT AMTLICH BELEGT: Der Superior Court of California, County of San Francisco,
+    veröffentlicht kein zugängliches Register of Actions zu JCCP 5431; CourtListener und govinfo führen
+    einzelstaatliche kalifornische Verfahren nicht. Der Termin beruht auf zwei voneinander unabhängigen
+    Trackerquellen mit Stand 02.09.2026.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2025-raine-openai
+  quelle: https://reason.com/wp-content/uploads/2026/06/chatgpt-product-liability-cases-coordination.pdf
+  fundstelle_norm: null
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  sekundaerquelle: https://lawsuitinformer.com/raine-v-openai-lawsuit
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Das Koordinationsdekret (JCCP 5431, "Order Re Petition for Coordination", 03.02.2026)
+    nennt Gericht, JCCP-Nummer, Dept. 606 und Judge Murphy und stellt den Vorbehalt der späteren Zuweisung
+    eines Coordination Trial Judge ausdrücklich klar; der auf den 19.02.2026 terminierte Stay-Antrag der
+    Beklagten wurde "off calendar as moot" gesetzt. Zwei Trackerseiten nennen übereinstimmend Judge Ethan
+    P. Schulman, Department 304, die CMC vom 24.07.2026, die CMO No. 1 vom 04.08.2026 und eine "further
+    case management conference" am 23.09.2026. Der Eintrag hat damit erstmals belastbare Quellen, bleibt
+    aber unverifiziert.'
+- id: us-uebrige-termin-t4
+  datum: 2026-10-15
+  beschreibung: 'Fairness Hearing über die endgültige Genehmigung des RealPage-Vergleichs am 15.10.2026,
+    13:00 Uhr CT, vor Chief Judge Waverly D. Crenshaw, Jr., Courtroom 5D, Fred D. Thompson United States
+    Courthouse, 719 Church Street, Nashville, Tennessee 37203. Der Termin ergibt sich mit Uhrzeit, Richter
+    und Saal aus dem gerichtlich genehmigten Long Form Notice; Dkt. 1406 Ziff. 14 hatte die Anhörung noch
+    "by separate order at a later date" vorbehalten. Der Terminbeschluss selbst ist weiterhin nicht als
+    PDF abrufbar.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2026-realpage-mdl-vergleich
+  quelle: https://www.realpagerentalsettlement.com/
+  fundstelle_norm: M.D. Tenn., MDL No. 3071 (3:23-md-03071), Dkt. 1408 vom 22.05.2026
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  uhrzeit: 13:00 CT
+  sekundaerquelle: https://angeion-public.s3.amazonaws.com/www.realpagerentalsettlement.com/docs/RealPage%20-%20Long%20Form%20Notice%20(Final).pdf
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Long Form Notice wörtlich: "A Fairness Hearing will be held on October 15, 2026, at 1:00
+    p.m. (CT) ... before the Honorable Waverly D. Crenshaw, Jr., in Courtroom 5D of the Fred D. Thompson
+    United States Courthouse". Verifiziert bleibt false, weil der zugrundeliegende Beschluss nicht am
+    Dokument geprüft werden konnte.'
+- id: us-uebrige-termin-t5
+  datum: 2027-01-29
+  beschreibung: 'Anmeldefrist für Gruppenmitglieder im RealPage-Vergleich. NICHT AM AMTLICHEN TEXT BELEGT
+    — wie bei den übrigen Vergleichsfristen setzt erst der Beschluss über den Benachrichtigungsplan (Dkt.
+    1408 vom 22.05.2026) die Termine, und dessen PDF ist über RECAP nicht verfügbar. Das Datum stammt
+    aus der Vergleichswebsite.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2026-realpage-mdl-vergleich
+  quelle: https://www.courtlistener.com/docket/67174489/in-re-realpage-inc-rental-software-antitrust-litigation-no-ii/
+  fundstelle_norm: M.D. Tenn., MDL No. 3071 (3:23-md-03071), Dkt. 1408 vom 22.05.2026
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  uhrzeit: 23:59 EST
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Anmeldefrist 29.01.2027, 23:59 Uhr EST, im gerichtlich genehmigten Long Form Notice bestätigt
+    und durch die Verlängerung vom 28.08.2026 nicht berührt. Verifiziert bleibt false — der Terminbeschluss
+    Dkt. 1408 ist als PDF weiterhin nicht abrufbar.'
+- id: us-uebrige-termin-t6
+  datum: null
+  beschreibung: 'KEIN STICHTAG, PRÄMISSE ÜBERHOLT. Über einen Antrag auf einstweilige Verfügung ist nicht
+    entschieden worden; das Docket zeigt stattdessen eine einvernehmliche vorübergehende Aussetzung der
+    Durchsetzung: Am 24.04.2026 beantragten die Parteien gemeinsam, die Scheduling Conference aufzuheben,
+    die Verfahrensfristen auszusetzen und die Durchsetzung vorläufig zu stoppen (Dkt. 18); der Antrag
+    wurde noch am selben Tag an Magistrate Judge Chung verwiesen (Dkt. 20), der Stipulated Order erging
+    am 27.04.2026. Damit gibt es auch keinen daran anknüpfenden 14-Tage-Lauf. Hinzu kommt, dass das angegriffene
+    Gesetz — der Colorado AI Act (SB 24-205) — am 14.05.2026 durch SB 26-189 aufgehoben und neu erlassen
+    wurde; der Streitgegenstand ist damit weitgehend entfallen. Die RECAP-Abdeckung des Dockets endet
+    am 27.04.2026; der weitere Gang des Verfahrens ist über CourtListener nicht feststellbar.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2026-xai-weiser
+  quelle: https://www.courtlistener.com/docket/73171074/x-ai-llc-v-weiser/
+  fundstelle_norm: D. Colo., No. 1:26-cv-01515-DDD-CYC, Dkt. 18 und 20 vom 24.04.2026 (Joint Motion to
+    Vacate Scheduling Conference and Suspend Case Deadlines and Stipulation to Temporarily Stay Enforcement;
+    Verweisung an Magistrate Judge Chung)
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: us-uebrige-termin-t7
+  datum: null
+  beschreibung: 'KEIN STICHTAG GESETZT — Zwischenstand belegt. Nach der Aufhebung der Vergleichsgenehmigung
+    durch den Seventh Circuit (argued 28.01.2026, decided 13.07.2026) gingen Mandat und beglaubigte Abschrift
+    des Urteils am 04.08.2026 beim N.D. Ill. ein (Dkt. 652 bis 654). Judge Sharon Johnson Coleman setzte
+    mit Minute Entry vom 13.08.2026 (Dkt. 658) eine Statuskonferenz auf den 25.08.2026, 10:15 Uhr, in
+    Präsenz an. Am 04.09.2026 ging ein weiterer Beitrittsantrag ein (Dkt. 662). Ein Termin für ein neues
+    Vergleichsverfahren ist im Docket nicht gesetzt.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2026-clearview-7circuit
+  quelle: https://www.courtlistener.com/docket/29102457/in-re-clearview-ai-inc-consumer-privacy-litigation/
+  fundstelle_norm: N.D. Ill., No. 1:21-cv-00135, Dkt. 652 bis 654 (Mandat und beglaubigte Abschrift des
+    Urteils des Seventh Circuit, No. 25-1673, vom 04.08.2026) und Dkt. 658 (Minute Entry vom 13.08.2026)
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: us-uebrige-termin-t8
+  datum: null
+  beschreibung: 'Erwartete Entscheidungen zu demurrer, Section 230 und First Amendment in JCCP 5431. NICHT
+    BELEGBAR: kein Stichtag und kein zugängliches amtliches Register. Das Verfahren läuft vor dem Superior
+    Court of California, County of San Francisco; sfsuperiorcourt.org ist durch eine Bot-Prüfung gesperrt
+    (zwei Versuche), CourtListener und govinfo führen kalifornische Landesverfahren nicht.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  urteil: us-2026-jccp-5431
+  quelle: null
+  fundstelle_norm: null
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7

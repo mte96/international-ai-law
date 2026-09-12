@@ -1,0 +1,2187 @@
+regelwerke:
+- id: co-constitucion-1991
+  jurisdiktion: co
+  kurztitel: Verfassung Kolumbiens (CP)
+  offizieller_titel: Constitución Política de Colombia
+  fundstelle: Gaceta Constitucional No. 116 de 20 de julio de 1991 (segunda edición corregida)
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Die Verfassung enthält keine KI-spezifische Vorschrift. Sie ist gleichwohl das tragende
+    Regelwerk der gesamten kolumbianischen KI-Rechtsprechung: Die Sentencia T-323/24 stützt ihre Kriterien
+    für den richterlichen KI-Einsatz ausschließlich auf Art. 29 (debido proceso), Art. 228 (Unabhängigkeit
+    der Rechtsprechung), Art. 229 (Zugang zur Justiz) und Art. 230 (Bindung des Richters allein an das
+    Gesetz). Art. 15 (habeas data) ist die Grundlage des gesamten Datenschutzrechts, Art. 61 die des Urheberrechts.
+
+    '
+  kurzbeschreibung: 'Bundesverfassung von 1991. Für das KI-Recht wirkt sie auf vier Wegen. Erstens als
+    Maßstab der Grundrechtsklage (acción de tutela, Art. 86) — in diesem Verfahren ist T-323/24 ergangen.
+    Zweitens als Maßstab der abstrakten Normenkontrolle: In C-212/26 hat die Corte Constitucional den
+    ersten KI-Straftatbestand Kolumbiens am Bestimmtheitsgebot gemessen. Drittens als Kompetenz- und Organisationsordnung:
+    Art. 257 Nr. 3 gibt dem Consejo Superior de la Judicatura die Regelungsbefugnis, auf die das Acuerdo
+    PCSJA24-12243 gestützt ist. Viertens als Quelle des habeas data (Art. 15), das die Ley 1581 de 2012
+    ausführt. Sanktionen enthält die Verfassung nicht; Rechtsfolge einer Verletzung ist die Nichtigerklärung
+    der Norm, der Grundrechtsschutz durch tutela oder — wie beim Tribunal Superior de Bogotá 2025 — die
+    Nichtigkeit der gerichtlichen Entscheidung.
+
+    '
+  inkrafttreten:
+    datum: 1991-07-04
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125
+    fundstelle_norm: 'ARTÍCULO 380 CP: ''Queda derogada la Constitución hasta ahora vigente con todas
+      sus reformas. Esta Constitución rige a partir del día de su promulgación.'' Promulgation am 04.07.1991
+      (Gaceta Constitucional No. 114); die zweite, berichtigte Ausgabe erschien als Gaceta Constitucional
+      No. 116 vom 20.07.1991'
+  anwendungsdaten: []
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - governance
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Art. 15: habeas data. ''Todas las personas tienen derecho a su intimidad personal y familiar y a
+    su buen nombre [...] De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones
+    que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.''
+    Grundlage der Ley 1581 de 2012 und der Ley 1266 de 2008 und damit der KI-Leitlinie der SIC.'
+  - 'Art. 20: Meinungs- und Informationsfreiheit; Gegenpol jeder Kennzeichnungs- und Deepfake-Regulierung.'
+  - 'Art. 29: debido proceso. ''El debido proceso se aplicará a toda clase de actuaciones judiciales y
+    administrativas.'' Der Prüfungsmaßstab von T-323/24 und der Grund, aus dem das Tribunal Superior de
+    Bogotá 2025 ein halluziniertes Strafurteil kassiert hat.'
+  - 'Art. 61: Schutz des geistigen Eigentums (''El Estado protegerá la propiedad intelectual por el tiempo
+    y mediante las formalidades que establezca la ley'').'
+  - 'Art. 86: acción de tutela — das Verfahren, in dem T-323/24 und die Entscheidungen der Corte Suprema
+    zu halluzinierten Fundstellen ergangen sind.'
+  - 'Art. 228: ''Las decisiones de la administración de justicia son independientes.'' In T-323/24 Rn.
+    226 ausdrücklich zusammen mit Art. 230 als Schranke des KI-Einsatzes angeführt.'
+  - 'Art. 229: Recht auf Zugang zur Rechtspflege. T-323/24 Rn. 78: Die Verletzung der Verfahrensgarantien
+    im Justizdienst bedeutet zugleich eine Verletzung ''de los artículos 29, 228 y 229 superiores''.'
+  - 'Art. 230: ''Los jueces, en sus providencias, sólo están sometidos al imperio de la ley.'' Von T-323/24
+    Rn. 226 wörtlich zitiert. Das ist die eigentliche Sperre gegen einen KI-gestützten Spruchkörper: Ein
+    Modell ist keine Rechtsquelle.'
+  - 'Art. 241 Nr. 9: Zuständigkeit der Corte Constitucional zur Revision von Tutela-Urteilen — die Kompetenznorm
+    von T-323/24.'
+  - 'Art. 257 Nr. 3: Regelungsbefugnis des Consejo Superior de la Judicatura (''dictar los reglamentos
+    necesarios para el eficaz funcionamiento de la administración de justicia''). Rechtsgrundlage des
+    Acuerdo PCSJA24-12243.'
+  dokumente:
+  - datum: 1991-07-20
+    typ: konsolidiert
+    titel: Constitución Política de Colombia — texto vigente con notas de vigencia y control de constitucionalidad
+    url: http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html
+    sprache: es
+    urheber: Senado de la República, Secretaría General
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung des Senats; letzte Aktualisierung dort ausgewiesen mit 31.08.2026.
+      Art. 15, 20 und 29 im Volltext geprüft; Art. 61, 86, 116, 228-230 und 257 liegen auf den Folgeseiten
+      derselben Sammlung.
+  offene_punkte:
+  - Ob Art. 230 einer gesetzlichen Ermächtigung für teilautomatisierte Entscheidungen entgegensteht, ist
+    offen. T-323/24 hat die Frage nicht entschieden, sondern über den Grundsatz der 'no sustitución de
+    la racionalidad humana' umschifft.
+  monitoring_quellen:
+  - http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html
+  - https://www.corteconstitucional.gov.co/relatoria/
+  bezug_regelwerke:
+  - co-ley-2213-2022
+  - co-ley-1581-2012
+  - co-acuerdo-pcsja24-12243
+  - co-ley-2502-2025
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Am amtlichen konsolidierten Text im Gestor Normativo der Función Pública geprueft. Datum richtig.
+    Zu beachten: Die im Bestand gefuehrte Fundstelle (Gaceta Constitucional No. 116 vom 20.07.1991) ist
+    die berichtigte Zweitausgabe, nicht die Promulgation; das Inkrafttreten knuepft an die Promulgation
+    vom 04.07.1991 an.'
+- id: co-ley-2213-2022
+  jurisdiktion: co
+  kurztitel: Ley 2213 de 2022 — dauerhafte digitale Justiz
+  offizieller_titel: Ley 2213 de 2022, por medio de la cual se establece la vigencia permanente del Decreto
+    Legislativo 806 de 2020 y se adoptan medidas para implementar las tecnologías de la información y
+    las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar
+    la atención a los usuarios del servicio de justicia y se dictan otras disposiciones
+  fundstelle: Diario Oficial No. 52.064 de 13 de junio de 2022
+  verfahrensnummer: Proyecto de Ley 231/2021 Cámara — 424/2021 Senado (nicht abschließend verifiziert)
+  status: anwendbar
+  status_detail: 'In Kraft seit 13.06.2022 (Art. 15: ''rige a partir de su promulgación''). Das Gesetz
+    macht das pandemiebedingte Decreto Legislativo 806 de 2020 zu Dauerrecht. Es gilt für alle Gerichtsbarkeiten.
+    Die Corte Constitucional hat sich in C-121/23 zu Art. 1 und 7 nicht in der Sache geäußert (Prozessentscheidung,
+    Inhibición); weitere Klagen gegen Art. 6 waren anhängig. Kein einziger Artikel erwähnt künstliche
+    Intelligenz.
+
+    '
+  kurzbeschreibung: 'Verfahrensrechtliches Rahmengesetz für den Einsatz von Informations- und Kommunikationstechnologie
+    in allen kolumbianischen Gerichtsverfahren. Es verpflichtet Gerichte und Parteien zum Gebrauch digitaler
+    Kanäle, schafft die elektronische Klageerhebung, die elektronische Zustellung, die virtuelle Verhandlung
+    und die digitale Akte, und beseitigt Erfordernisse handschriftlicher Unterschrift und persönlicher
+    Vorlage. Adressaten sind Gerichte, Parteien und Verfahrensbevollmächtigte. Eigene Sanktionen enthält
+    das Gesetz nicht; Rechtsfolge einer Verletzung sind die allgemeinen prozessualen Folgen (Unzulässigkeit
+    der Klage nach Art. 6, Wirksamkeit der Zustellung an die zuletzt angegebene Adresse nach Art. 3, Nichtigkeit
+    nach allgemeinem Prozessrecht). Rechtspolitisch ist das Gesetz für das KI-Recht deshalb bedeutsam,
+    weil es die einzige Norm ist, auf die kolumbianische Richter ihren KI-Einsatz stützen: Der Berufungsrichter
+    im Fall T-323/24 hat ChatGPT ausdrücklich mit dem Argument befragt, ''la Ley 2213 de 2022 tiene por
+    objeto la incorporación de las TIC en los procesos judiciales''. Die Corte Constitucional ist dieser
+    Auslegung nicht ausdrücklich entgegengetreten, hat den KI-Einsatz aber an zwölf eigene Kriterien gebunden.
+
+    '
+  inkrafttreten:
+    datum: 2022-06-13
+    verifiziert: true
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html
+  anwendungsdaten:
+  - datum: 2020-06-04
+    was_gilt: Inkrafttreten des Decreto Legislativo 806 de 2020, dessen Regeln die Ley 2213 wörtlich übernimmt
+      (befristet auf zwei Jahre).
+    verifiziert: false
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html
+  - datum: 2022-06-13
+    was_gilt: Verkündung im Diario Oficial 52.064 und Inkrafttreten; das Sonderrecht der Pandemie wird
+      Dauerrecht.
+    verifiziert: true
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html
+  - datum: 2023-04-26
+    was_gilt: 'Sentencia C-121/23: Die Corte Constitucional erklärt sich hinsichtlich der Klage gegen
+      Art. 1 und 7 (teilweise) für unzuständig zur Sachentscheidung (Inhibición wegen ineptitud sustantiva
+      de la demanda). Die Vorschriften bleiben unangetastet.'
+    verifiziert: true
+    quelle: https://www.corteconstitucional.gov.co/relatoria/2023/C-121-23.htm
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 1 (Objeto): Übernahme des Decreto Ley 806 de 2020 als Dauerrecht, ''para implementar el uso
+    de las tecnologías de la información y las comunicaciones en las actuaciones judiciales'' und zur
+    Beschleunigung der Verfahren in allen Gerichtsbarkeiten. Ausdrücklich garantiert bleibt die persönliche
+    Vorsprache im Gericht; besondere Vorkehrungen für schutzbedürftige Gruppen und für Gebiete ohne Netzanbindung.'
+  - 'Art. 2 (Uso de las tecnologías): ''Se podrán utilizar las tecnologías de la información y de las
+    comunicaciones, cuando se disponga de los mismos de manera idónea, en la gestión y trámite de los
+    procesos judiciales.'' Erfordernisse handschriftlicher Unterschrift, persönlicher Vorlage und Beglaubigung
+    entfallen. Diese Norm ist die einzige, auf die der Berufungsrichter in T-323/24 seinen ChatGPT-Einsatz
+    gestützt hat — sie erlaubt ''Technologien'', kennt aber keine generative KI und keine Verifikationspflicht.'
+  - 'Art. 3 (Deberes de los sujetos procesales): Pflicht der Parteien, digitale Kanäle anzugeben und Änderungen
+    mitzuteilen; andernfalls gelten Zustellungen an die zuletzt genannte Adresse als wirksam.'
+  - 'Art. 4 (Expedientes): Zusammenarbeit bei fehlendem Zugang zur Papierakte; ausdrückliche Zulassung
+    hybrider digitaler Akten.'
+  - 'Art. 5 (Poderes): Vollmachten können durch bloße Datennachricht ohne handschriftliche oder digitale
+    Signatur erteilt werden; sie gelten als authentisch.'
+  - 'Art. 6 (Demanda): Elektronische Klageerhebung; Angabe digitaler Kanäle bei Vermeidung der Unzulässigkeit;
+    Pflicht des Klägers, die Klage gleichzeitig an die Gegenseite zu übersenden. Gegen diese Vorschrift
+    richtete sich 2023 eine gesonderte Verfassungsklage.'
+  - 'Art. 7 (Audiencias): ''Las audiencias deberán realizarse utilizando los medios tecnológicos a disposición
+    de las autoridades judiciales o por cualquier otro medio puesto a disposición por una o por ambas
+    partes.'' Beweisaufnahme in Präsenz, wenn Sicherheit, Unmittelbarkeit und Beweiskraft es verlangen;
+    im Strafverfahren kann der Richter Virtualität nur ausnahmsweise anordnen.'
+  - 'Art. 8 (Notificaciones personales): Zustellung per E-Mail ohne vorherige Ladung; sie gilt zwei Werktage
+    nach Absendung als bewirkt. Die Partei muss eidesstattlich versichern, dass die Adresse dem Empfänger
+    zuzuordnen ist.'
+  - 'Art. 9 (Notificación por estado y traslados): Virtuelle Anschlagliste ohne Ausdruck und ohne Unterschrift
+    des Urkundsbeamten.'
+  - 'Art. 10 (Emplazamiento): Öffentliche Ladung ausschließlich über das registro nacional de personas
+    emplazadas, ohne Presseveröffentlichung.'
+  - 'Art. 11 (Comunicaciones, oficios y despachos): Übermittlung durch Datennachricht; Authentizitätsvermutung
+    für Nachrichten aus der amtlichen Adresse der Behörde.'
+  - 'Art. 12 und 13: Sonderregeln des Berufungsverfahrens in Zivil- und Familiensachen (Art. 12) sowie
+    in Arbeitssachen (Art. 13), jeweils mit Fünf-Tage-Fristen für Begründung und Erwiderung.'
+  - 'Art. 14 (Informe anual): Die Rama Judicial muss dem Kongress jährlich ein eigenes Kapitel über den
+    Stand ihrer digitalen Transformation vorlegen — die einzige Berichtspflicht, an die sich ein KI-Monitoring
+    anknüpfen ließe.'
+  - 'Art. 15: Inkrafttreten mit der Verkündung; Aufhebung entgegenstehender Vorschriften.'
+  - 'LÜCKE: Das Gesetz kennt weder den Begriff der künstlichen Intelligenz noch eine Offenlegungs-, Verifikations-
+    oder Dokumentationspflicht. Alles, was in Kolumbien für den KI-Einsatz in der Justiz gilt, ist deshalb
+    Richterrecht (T-323/24) oder Verwaltungsrecht der Justizverwaltung (Acuerdo PCSJA24-12243) — nicht
+    Gesetzesrecht.'
+  dokumente:
+  - datum: 2022-06-13
+    typ: konsolidiert
+    titel: Ley 2213 de 2022 — texto vigente con notas de vigencia y control de constitucionalidad
+    url: http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html
+    sprache: es
+    urheber: Senado de la República, Secretaría General
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung mit Angabe des Diario Oficial 52.064; Grundlage der artikelweisen
+      Erfassung. Die Seite markiert bei Art. 6 und 7 'Jurisprudencia Vigencia', ohne die Sentencias im
+      sichtbaren Text zu nennen.
+  - datum: 2023-04-26
+    typ: endfassung
+    titel: Sentencia C-121 de 2023 (Expediente D-14.853), demanda contra los artículos 1º y 7º parciales
+      de la Ley 2213 de 2022
+    url: https://www.corteconstitucional.gov.co/relatoria/2023/C-121-23.htm
+    sprache: es
+    urheber: Corte Constitucional, Sala Plena; M.S. Antonio José Lizarazo Ocampo
+    verifiziert: true
+    notiz: 'Volltext im Browser geprüft. Resuelve: ''INHIBIRSE de emitir pronunciamiento de fondo [...]
+      por ineptitud sustantiva de los cargos.'' Damit ist die Verfassungsmäßigkeit der digitalen Verhandlung
+      nach Art. 7 bis heute nicht sachlich geklärt.'
+  offene_punkte:
+  - Ob Art. 2 überhaupt eine taugliche Ermächtigungsgrundlage für generative KI ist, ist ungeklärt. Der
+    Wortlaut spricht von 'tecnologías de la información y de las comunicaciones' in der 'gestión y trámite'
+    der Verfahren — also von Verfahrensverwaltung, nicht von Entscheidungsfindung. T-323/24 hat die Frage
+    offen gelassen.
+  - Die Verfassungsklagen gegen Art. 6 (elektronische Klageerhebung) sind nicht abschließend nachverfolgt;
+    C-121/23 betraf nur Art. 1 und 7.
+  - Der Jahresbericht nach Art. 14 wäre der natürliche Ort für eine KI-Statistik der Rama Judicial; ob
+    er sie enthält, ist nicht geprüft.
+  monitoring_quellen:
+  - http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html
+  - https://www.corteconstitucional.gov.co/relatoria/
+  bezug_regelwerke:
+  - co-constitucion-1991
+  - co-decreto-806-2020
+  - co-ley-270-1996
+  - co-acuerdo-pcsja24-12243
+  letzte_pruefung: 2026-09-06
+- id: co-decreto-806-2020
+  jurisdiktion: co
+  kurztitel: Decreto Legislativo 806 de 2020 — Notstandsrecht der digitalen Justiz
+  offizieller_titel: Decreto Legislativo 806 de 2020, por el cual se adoptan medidas para implementar
+    las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los
+    procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia, en el marco
+    del Estado de Emergencia Económica, Social y Ecológica
+  fundstelle: Diario Oficial, 4 de junio de 2020
+  verfahrensnummer: Decreto Legislativo des Präsidenten im Ausnahmezustand (Art. 215 CP)
+  status: aufgehoben
+  status_detail: 'Auf zwei Jahre befristetes Notstandsdekret der COVID-19-Pandemie, von der Corte Constitucional
+    in der automatischen Kontrolle geprüft und im Wesentlichen aufrechterhalten. Mit der Ley 2213 de 2022
+    (13.06.2022) in Dauerrecht überführt und dadurch ersetzt. Historisch bedeutsam, weil die gesamte technologische
+    Öffnung des kolumbianischen Prozessrechts aus einem Notstandsakt stammt — eine Ermächtigung, die nie
+    für generative KI gedacht war.
+
+    '
+  kurzbeschreibung: 'Notstandsdekret vom 4. Juni 2020, das die elektronische Klageerhebung, die elektronische
+    Zustellung, die virtuelle Verhandlung und die digitale Akte einführte. Sämtliche Vorschriften wurden
+    2022 wörtlich in die Ley 2213 übernommen. Für das KI-Recht ist es die Vorgeschichte: Die Norm, auf
+    die sich der Richter in T-323/24 berief, ist ihrer Herkunft nach eine Pandemieregel zur Aufrechterhaltung
+    des Gerichtsbetriebs, kein Innovationsmandat.
+
+    '
+  inkrafttreten:
+    datum: 2020-06-04
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=127580
+    fundstelle_norm: 'ARTÍCULO 16. Vigencia y derogatoria: ''El presente decreto legislativo rige a partir
+      de su publicación y estará vigente durante los dos (2) años siguientes a partir de su expedición.''
+      Expedición und Veroeffentlichung am 04.06.2020'
+  anwendungsdaten:
+  - datum: 2022-06-04
+    was_gilt: Ablauf der in Art. 16 selbst angeordneten Zweijahresfrist ab Erlass; das Dekret verliert
+      seine Geltung.
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=127580
+  - datum: 2022-06-13
+    was_gilt: Ersetzt durch die Ley 2213 de 2022, die den Inhalt als Dauerrecht fortschreibt.
+    verifiziert: true
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Inhaltlich identisch mit Art. 1-13 der Ley 2213 de 2022.
+  - Erlassen auf Grundlage des Ausnahmezustands nach Art. 215 CP; deshalb automatischer Verfassungskontrolle
+    unterworfen (Sentencia C-420 de 2020, nicht aus der Primärquelle verifiziert).
+  dokumente:
+  - datum: 2022-06-13
+    typ: konsolidiert
+    titel: Ley 2213 de 2022 — enthält den vollständigen übernommenen Text des Decreto 806 de 2020
+    url: http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html
+    sprache: es
+    urheber: Senado de la República, Secretaría General
+    verifiziert: true
+    notiz: Ersatzbeleg. Der amtliche Volltext des Dekrets liegt auf suin-juriscol.gov.co, das in dieser
+      Sitzung nicht erreichbar war.
+  offene_punkte:
+  - Sentencia C-420 de 2020 (automatische Kontrolle des Decreto 806) ist nicht aus der Primärquelle geprüft;
+    Nummer aus Sekundärquellen.
+  monitoring_quellen:
+  - https://www.corteconstitucional.gov.co/relatoria/
+  bezug_regelwerke:
+  - co-ley-2213-2022
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Am amtlichen Text geprueft. Datum richtig. Neu belegt ist das Ausserkrafttreten kraft eigener Befristung
+    am 04.06.2022 — neun Tage vor dem Inkrafttreten der Ley 2213 de 2022 (13.06.2022); zwischen beiden
+    Zeitpunkten bestand eine Luecke. Status 'aufgehoben' bleibt richtig. Das Dekret wurde von der Corte
+    Constitucional mit Sentencia C-420 de 2020 fuer exequible erklaert.
+- id: co-ley-270-1996
+  jurisdiktion: co
+  kurztitel: Ley Estatutaria 270 de 1996 — Justizverfassungsgesetz
+  offizieller_titel: Ley Estatutaria 270 de 1996, Estatutaria de la Administración de Justicia (modificada
+    por la Ley 2430 de 2024)
+  fundstelle: 'Diario Oficial No. 42.745 de 15 de marzo de 1996; Änderungsgesetz: Ley 2430 de 2024'
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Organgesetz der kolumbianischen Justiz, 2024 durch die Ley 2430 de 2024 umfassend novelliert.
+    Für das KI-Recht zählen zwei Stränge: die Verwaltungs- und Regelungsbefugnisse des Consejo Superior
+    de la Judicatura (Art. 85), auf die das Acuerdo PCSJA24-12243 gestützt ist, und die Vorschriften über
+    den Technologieeinsatz in der Rechtspflege. Ein ausdrücklicher KI-Bezug fehlt.
+
+    '
+  kurzbeschreibung: 'Als Ley Estatutaria steht das Gesetz zwischen Verfassung und einfachem Recht und
+    unterliegt der vorherigen Verfassungskontrolle. Es organisiert die Rechtspflege, bestimmt die Aufgaben
+    des Consejo Superior de la Judicatura und der Escuela Judicial Rodrigo Lara Bonilla und enthält den
+    allgemeinen Auftrag zur technologischen Modernisierung der Justiz. Adressaten sind die Organe der
+    Rama Judicial. Sanktionen enthält es nicht; seine Bedeutung liegt in der Kompetenzzuweisung: Ohne
+    Art. 85 Nr. 1a hätte der Consejo Superior de la Judicatura keine Grundlage, den KI-Einsatz durch Richterinnen
+    und Richter verbindlich zu regeln, und die Anordnung aus T-323/24 wäre ins Leere gegangen.
+
+    '
+  inkrafttreten:
+    datum: 1996-03-15
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6548
+    fundstelle_norm: 'ARTÍCULO 210. VIGENCIA: ''La presente ley tiene vigencia a partir de su promulgación
+      y deroga todas las disposiciones que le sean contrarias, en especial el Decreto 2652 de 1991.''
+      Promulgation im Diario Oficial No. 42.745 vom 15.03.1996 (Sanktion am 07.03.1996)'
+  anwendungsdaten:
+  - datum: 2024-10-09
+    was_gilt: Ley 2430 de 2024 (Diario Oficial No. 52.904 vom 09.10.2024) novelliert die Ley 270 de 1996
+      umfassend — Aenderung, Ergaenzung und Teilaufhebung, unter anderem des Art. 85 (Befugnisse des Consejo
+      Superior de la Judicatura). Der Vigencia-Artikel der Ley 2430 konnte nicht aus dem Primaertext geprueft
+      werden; angegeben ist das Datum des Diario Oficial.
+    verifiziert: false
+    quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/ley_2430_2024.htm
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - berufsrecht
+  regelungsschwerpunkte:
+  - 'Art. 85 Nr. 1a (i.d.F. der Ley 2430 de 2024): Regelungsbefugnis des Consejo Superior de la Judicatura
+    für das wirksame Funktionieren der Rechtspflege. Zusammen mit Art. 257 Nr. 3 CP die ausdrücklich zitierte
+    Rechtsgrundlage des Acuerdo PCSJA24-12243.'
+  - 'Escuela Judicial Rodrigo Lara Bonilla: Fortbildungsanstalt der Justiz. T-323/24 Ziff. SEXTO hat ihr
+    die Verbreitung der Entscheidung und die dauerhafte KI-Fortbildung aller Gerichte aufgegeben; Art.
+    13 des Acuerdo PCSJA24-12243 setzt das um.'
+  - Kein KI-spezifischer Tatbestand. Anders als die italienische Legge 132/2025 (Art. 15) kennt Kolumbien
+    keine gesetzliche Regel, die die Auslegung und Anwendung des Rechts dem Menschen vorbehält — dieser
+    Satz steht in Kolumbien nur im Urteil T-323/24 und im Acuerdo des Justizrats.
+  dokumente:
+  - datum: 2024-12-16
+    typ: norm
+    titel: Acuerdo PCSJA24-12243 — Considerandos mit den Rechtsgrundlagen (Art. 257 Nr. 3 CP; Art. 85
+      Nr. 1a Ley 270 de 1996, modificado por la Ley 2430 de 2024)
+    url: https://actosadministrativos.ramajudicial.gov.co/Home/GetFile?nombreArchivo=PCSJA24-12243.pdf
+    sprache: es
+    urheber: Consejo Superior de la Judicatura
+    verifiziert: true
+    notiz: 'Ersatzbeleg für die Kompetenznorm: Der Justizrat zitiert Art. 85 Nr. 1a Ley 270 i.d.F. der
+      Ley 2430 de 2024 als seine Ermächtigung.'
+  - datum: 2024-01-01
+    typ: konsolidiert
+    titel: Ley 2430 de 2024 — Gestor Normativo
+    url: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=253156
+    sprache: es
+    urheber: Departamento Administrativo de la Función Pública
+    verifiziert: false
+    notiz: URL aus der Suche der Función Pública; der Abruf scheiterte in dieser Sitzung an robots.txt.
+      Inhalt nicht selbst geprüft.
+  offene_punkte:
+  - Datum, Diario Oficial und genauer Inhalt der Ley 2430 de 2024 sind nicht aus der Primärquelle geprüft.
+    Nachzuholen über funcionpublica.gov.co/eva/gestornormativo/norma.php?i=253156 oder secretariasenado.gov.co/senado/basedoc/ley_2430_2024.html.
+  - Ob die Ley 2430 de 2024 eine eigene Vorschrift zum Technologieeinsatz enthält, die als gesetzliche
+    Grundlage für KI taugt, ist offen und wäre der wichtigste Prüfpunkt für die nächste Runde.
+  monitoring_quellen:
+  - http://www.secretariasenado.gov.co/senado/basedoc/ley_2430_2024.html
+  - https://www.ramajudicial.gov.co/web/ley-estatutaria/inicio
+  bezug_regelwerke:
+  - co-constitucion-1991
+  - co-acuerdo-pcsja24-12243
+  - co-ley-2213-2022
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Am amtlichen konsolidierten Text geprueft. Das Inkrafttretensdatum war richtig (Promulgation = Einrueckung
+    in den Diario Oficial, Art. 52 Código de Régimen Político y Municipal). Das Platzhalter-Anwendungsdatum
+    2024-01-01 ist durch das belegte Datum der Ley 2430 de 2024 ersetzt (09.10.2024, DO 52.904). NEUER
+    BEFUND: Der Gestor Normativo weist zusaetzlich eine ''Modificación por Ley 2570 de 2026'' aus, die
+    im Bestand bislang fehlt; Datum und Inhalt sind noch zu erheben. Vorher: Anwendungsdatum 2024-01-01
+    (''Genaues Verkuendungsdatum nicht bestaetigt'').'
+- id: co-acuerdo-pcsja24-12243
+  jurisdiktion: co
+  kurztitel: Acuerdo PCSJA24-12243 — KI-Leitlinien der kolumbianischen Justiz
+  offizieller_titel: Acuerdo PCSJA24-12243 de 16 de diciembre de 2024, por el cual se adoptan lineamientos
+    para el uso y aprovechamiento respetuoso, responsable, seguro y ético de la inteligencia artificial
+    en la Rama Judicial
+  fundstelle: Consejo Superior de la Judicatura, Acuerdo PCSJA24-12243; veröffentlicht am 18.12.2024
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'In Kraft seit der Veröffentlichung (Art. 16). Es ist die unmittelbare Erfüllung der
+    Anordnung QUINTO aus T-323/24, die dem Consejo Superior de la Judicatura eine Viermonatsfrist gesetzt
+    hatte. Das Acuerdo ist bislang das einzige verbindliche KI-Regelwerk Kolumbiens für die Justiz und
+    international eines der detailliertesten überhaupt. Ein Änderungs- oder Nachfolgeakt ist bis zum 06.09.2026
+    nicht ersichtlich.
+
+    '
+  kurzbeschreibung: 'Verwaltungsrechtlicher Beschluss des Justizrats mit 16 Artikeln in fünf Kapiteln.
+    Er definiert KI, generative KI, große Sprachmodelle, Halluzination und Bias, stellt fünfzehn Grundsätze
+    auf, teilt die zulässigen Einsatzfelder in drei Stufen ein (uneingeschränkte Verwaltungsunterstützung,
+    fachliche Unterstützung mit Verifikationspflicht, Einsatzfelder mit gesteigerter Transparenzpflicht),
+    verbietet bestimmte Praktiken, begründet eine Offenlegungspflicht in der Entscheidung selbst und weist
+    der Unidad de Transformación Digital Folgenabschätzungs- und Sicherheitspflichten zu. Adressaten sind
+    sämtliche Amtsträger und Bedienstete der Rama Judicial. Eigene Sanktionen enthält das Acuerdo nicht;
+    Verstöße wirken über das Disziplinarrecht der Comisión Nacional de Disciplina Judicial und — wie der
+    Fall des Juzgado 21 Penal del Circuito de Bogotá 2025 zeigt — über die prozessuale Nichtigkeit der
+    Entscheidung.
+
+    '
+  inkrafttreten:
+    datum: 2024-12-18
+    verifiziert: true
+    quelle: https://actosadministrativos.ramajudicial.gov.co/Home/DetalleActoAdministrativo/19280
+  anwendungsdaten:
+  - datum: 2024-08-02
+    was_gilt: T-323/24 ordnet dem Consejo Superior de la Judicatura an, binnen vier Monaten ab Zustellung
+      eine Leitlinie zur generativen KI zu veröffentlichen (Ziff. QUINTO).
+    verifiziert: true
+    quelle: https://www.corteconstitucional.gov.co/relatoria/2024/T-323-24.htm
+  - datum: 2024-12-16
+    was_gilt: Erlass des Acuerdo PCSJA24-12243 durch die Sala Administrativa des Consejo Superior de la
+      Judicatura.
+    verifiziert: true
+    quelle: https://actosadministrativos.ramajudicial.gov.co/Home/DetalleActoAdministrativo/19280
+  - datum: 2024-12-18
+    was_gilt: Veröffentlichung und Inkrafttreten (Art. 16).
+    verifiziert: true
+    quelle: https://actosadministrativos.ramajudicial.gov.co/Home/GetFile?nombreArchivo=PCSJA24-12243.pdf
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - governance
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Rechtsgrundlage: Art. 257 Nr. 3 CP und Art. 85 Nr. 1a Ley 270 de 1996 i.d.F. der Ley 2430 de 2024;
+    ausdrücklich in den Considerandos die Sentencia T-323 vom 02.08.2024.'
+  - 'Aufbau: Kapitel I Allgemeine Bestimmungen (Art. 1-3), Kapitel II Nutzungsdirektiven für Justizbedienstete
+    (Art. 4-10), Kapitel III Institutionelle Umsetzung (Art. 11-12), Kapitel IV Fortbildung (Art. 13),
+    Kapitel V Überwachung und Inkrafttreten (Art. 14-16).'
+  - 'Art. 1-2: Legaldefinitionen von KI-System, generativer KI, LLM, Algorithmus, Halluzination und Verzerrung
+    — die einzigen verbindlichen KI-Definitionen im kolumbianischen Recht neben Art. 2 Ley 2502 de 2025.'
+  - 'Art. 3: fünfzehn Grundsätze, darunter der Vorrang der Grundrechte, Transparenz, menschliche Kontrolle
+    und Datenschutz. Art. 3.6 enthält die Zurechnungsregel: ''Toda decisión o actuación judicial en la
+    que se haya hecho uso de la IA se atribuye al funcionario judicial.'''
+  - 'Art. 4.1 (uneingeschränkt zulässig): Textbearbeitung, Korrektur, Terminverwaltung, Präsentationen,
+    Formatkonversion, Übersetzungen — reine Verwaltungsunterstützung.'
+  - 'Art. 4.2 (zulässig mit gründlicher Überprüfung): Rechtsprechungsrecherche und -synthese, Fallzusammenfassungen
+    ohne personenbezogene Daten, Transkription von Verhandlungen, Dokumentenklassifikation, statistische
+    Auswertung, Unterstützung bei Sachverhaltszusammenfassungen und Entscheidungsentwürfen.'
+  - 'Art. 4.3 (gesteigerte Transparenzpflicht): Simulation von Entscheidungsszenarien, Unterstützung bei
+    mathematischen Operationen und bei Aufgaben, die die Begründungsleistung berühren.'
+  - 'Art. 8 (VERBOTE): Verwendung frei zugänglicher kommerzieller Chatbots; Einsatz von KI zur Beweiswürdigung;
+    ausschließliche Stützung der Rechtsanwendung oder der Entscheidungsbegründung auf KI-Ausgaben; Eingabe
+    personenbezogener oder sensibler Daten in Systeme ohne Datenschutzgarantien; Verschweigen der KI-Nutzung.'
+  - 'Art. 10 (OFFENLEGUNG): Bei substanziellen Entscheidungen sind Werkzeugbezeichnung, Modell, Anbieter,
+    Nutzungsdatum, die Bestätigung der Kenntnisnahme der Nutzungsbedingungen, der Verwendungszweck, die
+    Art der Verwendung und die verwendeten Prompts zu dokumentieren; die von der KI stammenden Textstellen
+    sind typografisch kenntlich zu machen. Das ist die weltweit weitestgehende Offenlegungspflicht für
+    richterliche KI-Nutzung.'
+  - 'Art. 11: Pflichten der Unidad de Transformación Digital — algorithmische Folgenabschätzung, Datensicherheitskontrollen,
+    Bereinigung von Trainingsdaten um personenbezogene Informationen, Datenschutz-Folgenabschätzung, Sicherung
+    der technologischen Unabhängigkeit.'
+  - 'Art. 12: priorisierte Einsatzfelder — Verwaltungs- und Dokumentenmanagement, Rechtsprechungsrecherche
+    (nicht fallbezogene Auslegung), Textkorrektur mit menschlicher Nachkontrolle.'
+  - 'Art. 13: Fortbildungspflicht über die Escuela Judicial Rodrigo Lara Bonilla. Art. 14: Meldepflichten
+    für eingesetzte KI-Initiativen und für Verdachtsfälle von Fehlfunktionen oder Schäden. Art. 15: laufende
+    Beobachtung und Wissensmanagement.'
+  - 'RECHTSVERGLEICH: Der Katalog geht über die englische Practice Guidance (2023/2025), die brasilianische
+    Resolução CNJ 615/2025 und den italienischen Art. 15 Legge 132/2025 hinaus, weil er nicht nur Grundsätze
+    aufstellt, sondern Einsatzfelder positiv listet, ein Verbot des Einsatzes frei zugänglicher Chatbots
+    ausspricht und die Prompt-Dokumentation verlangt.'
+  dokumente:
+  - datum: 2024-12-16
+    typ: norm
+    titel: ACUERDO PCSJA24-12243 de 16 de diciembre de 2024 (Volltext, PDF)
+    url: https://actosadministrativos.ramajudicial.gov.co/Home/GetFile?nombreArchivo=PCSJA24-12243.pdf
+    sprache: es
+    urheber: Consejo Superior de la Judicatura
+    verifiziert: true
+    notiz: Amtlicher Volltext aus dem Register der Verwaltungsakte der Rama Judicial. Grundlage der artikelweisen
+      Erfassung.
+  - datum: 2024-12-16
+    typ: uebersicht
+    titel: Detalle Acto Administrativo — Acuerdo PCSJA24-12243 de 2024
+    url: https://actosadministrativos.ramajudicial.gov.co/Home/DetalleActoAdministrativo/19280
+    sprache: es
+    urheber: Consejo Superior de la Judicatura, Relatoría
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte mit Datum, Titel und Veröffentlichungsangabe.
+  - datum: 2024-12-18
+    typ: pressemitteilung
+    titel: Consejo Superior de la Judicatura expidió lineamientos para el uso responsable y seguro de
+      la IA generativa en la Rama Judicial
+    url: https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/consejo-superior-de-la-judicatura-expidi%C3%B3-lineamientos-para-el-uso-responsable-y-seguro-de-la-ia-generativa-en-la-rama-judicial
+    sprache: es
+    urheber: Consejo Superior de la Judicatura
+    verifiziert: true
+    notiz: Amtliche Mitteilung; nennt die drei Kategorien zulässiger Nutzung und die Offenlegungspflicht.
+  - datum: 2025-01-01
+    typ: uebersicht
+    titel: 'Inteligencia Artificial — Unidad de Transformación Digital (UTDI): Acuerdo, Documento Técnico
+      de Lineamientos, ABC de la Sentencia T-323/24, Manual de uso de IA, Encuesta IA 2025'
+    url: https://www.ramajudicial.gov.co/web/utdi/inteligencia-artificial1
+    sprache: es
+    urheber: Consejo Superior de la Judicatura, Unidad de Transformación Digital
+    verifiziert: true
+    notiz: Amtliche Sammelseite. Enthält neben dem Acuerdo das technische Leitliniendokument (Dezember
+      2024), ein ABC zur Sentencia T-323/24, ein Handbuch und den Bericht zur KI-Umfrage in der Rama Judicial
+      (Januar 2025). Die Materialien sind das beste vorhandene Anschauungsmaterial für eine deutsche Justiz-Leitlinie.
+  offene_punkte:
+  - 'Ob das Acuerdo seit Dezember 2024 geändert oder ergänzt wurde, konnte nur negativ festgestellt werden:
+    Die UTDI-Seite weist keine Akte nach 2024 aus. Zu beobachten.'
+  - Die Verzahnung mit dem Disziplinarrecht ist ungeklärt. Das Acuerdo enthält keine eigene Sanktion;
+    die Comisión Nacional de Disciplina Judicial hat im Fall des Juzgado 21 Penal Kopien zur Prüfung angefordert
+    — der Ausgang ist offen und wäre der erste Anwendungsfall.
+  - Ob die Corte Constitucional oder die Corte Suprema für sich selbst eigene KI-Regeln erlassen haben,
+    ließ sich nicht belegen. Die Corte Constitucional betreibt auf ihrer Relatoría ein 'Panel IA' mit
+    dem Hinweis 'Próximamente integraremos el API' — ein KI-gestützter Zusammenfassungsdienst zu eigenen
+    Entscheidungen, ohne veröffentlichte Rechtsgrundlage.
+  monitoring_quellen:
+  - https://actosadministrativos.ramajudicial.gov.co/
+  - https://www.ramajudicial.gov.co/web/utdi/inteligencia-artificial1
+  bezug_regelwerke:
+  - co-constitucion-1991
+  - co-ley-270-1996
+  - co-ley-2213-2022
+  - co-ley-1581-2012
+  letzte_pruefung: 2026-09-06
+- id: co-ley-1581-2012
+  jurisdiktion: co
+  kurztitel: Ley 1581 de 2012 — allgemeines Datenschutzgesetz (Habeas Data)
+  offizieller_titel: Ley Estatutaria 1581 de 2012, por la cual se dictan disposiciones generales para
+    la protección de datos personales
+  fundstelle: Diario Oficial No. 48.587 de 18 de octubre de 2012
+  verfahrensnummer: Proyecto de Ley Estatutaria; vorherige Verfassungskontrolle durch Sentencia C-748
+    de 2011
+  status: anwendbar
+  status_detail: 'In Kraft seit Oktober 2012, als Ley Estatutaria vor der Verkündung durch die Corte Constitucional
+    geprüft (C-748 de 2011). Sie ist das Auffangregime jeder KI-Datenverarbeitung in Kolumbien. Eine Änderung
+    mit KI-Bezug ist bis 06.09.2026 nicht erfolgt; die Anpassung an KI leistet stattdessen die Circular
+    Externa 002 de 2024 der SIC auf Auslegungsebene.
+
+    '
+  kurzbeschreibung: 'Führt das habeas data des Art. 15 CP aus. Sie gilt für personenbezogene Daten in
+    öffentlichen und privaten Datenbanken in Kolumbien, mit Ausnahmen unter anderem für rein persönliche
+    Archive, nationale Sicherheit, nachrichtendienstliche Daten und journalistische Inhalte. Sie kennt
+    acht Verarbeitungsgrundsätze, ein grundsätzliches Einwilligungserfordernis (autorización previa, expresa
+    e informada), ein verschärftes Schriftformerfordernis für sensible Daten einschließlich biometrischer
+    Daten, Betroffenenrechte auf Kenntnis, Aktualisierung und Berichtigung, Sicherheits- und Meldepflichten
+    sowie ein Register der Datenbanken. Die Aufsicht liegt bei der Superintendencia de Industria y Comercio
+    über eine eigene Delegatura (Art. 19). Sanktionen nach Art. 23: Geldbußen bis zum Zweitausendfachen
+    des gesetzlichen Monatsmindestlohns, Aussetzung der Verarbeitungstätigkeit bis zu sechs Monaten, zeitweiliges
+    oder endgültiges Verbot der Verarbeitung, für Private auch Schließung des Betriebs. Anders als Art.
+    22 DSGVO kennt das Gesetz KEIN eigenständiges Recht, einer ausschließlich automatisierten Einzelentscheidung
+    nicht unterworfen zu werden — diese Lücke ist der zentrale Befund für das kolumbianische KI-Datenschutzrecht.
+
+    '
+  inkrafttreten:
+    datum: 2012-10-18
+    verifiziert: true
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html
+  anwendungsdaten:
+  - datum: 2011-10-06
+    was_gilt: 'Sentencia C-748 de 2011: vorherige Verfassungskontrolle des Entwurfs der Ley Estatutaria;
+      Datum nicht aus der Primärquelle geprüft.'
+    verifiziert: false
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html
+  - datum: 2024-08-21
+    was_gilt: Die SIC konkretisiert das Regime für KI-Systeme durch die Circular Externa 002 de 2024.
+    verifiziert: true
+    quelle: https://sedeelectronica.sic.gov.co/sites/default/files/normativa/Circular%20Externa%20No.%20002%20del%2021%20de%20agosto%20de%202024.pdf
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Art. 1: Gegenstand — Ausführung der Rechte aus Art. 15 und 20 CP (Kenntnis, Aktualisierung, Berichtigung).'
+  - 'Art. 2: Anwendungsbereich mit Ausnahmen für Privat- und Hausarchive, nationale Sicherheit und Verteidigung,
+    Geldwäscheprävention, nachrichtendienstliche Daten, journalistische Inhalte sowie die von der Ley
+    1266 de 2008 erfassten Finanzdatenbanken.'
+  - 'Art. 3: Legaldefinitionen, insbesondere ''autorización'': vorherige, ausdrückliche und informierte
+    Einwilligung des Betroffenen.'
+  - 'Art. 4: acht Grundsätze — legalidad, finalidad, libertad, veracidad o calidad, transparencia, acceso
+    y circulación restringida, seguridad, confidencialidad. Der Grundsatz der finalidad ist die schärfste
+    Schranke für die Zweckänderung zu Trainingszwecken.'
+  - 'Art. 5 und 6: sensible Daten (u.a. Gesundheit, Sexualleben, biometrische Daten). Ihre Verarbeitung
+    ist grundsätzlich untersagt; die Einwilligung muss ausdrücklich sein und der Betroffene ist darauf
+    hinzuweisen, dass er sie verweigern darf. Für biometrische KI-Anwendungen ist das die entscheidende
+    Norm.'
+  - 'Art. 8: Betroffenenrechte — Kenntnis, Aktualisierung, Berichtigung, Nachweis der Einwilligung, Auskunft
+    über die Verwendung, Beschwerde bei der SIC, Widerruf und Löschung, kostenfreier Zugang.'
+  - 'Art. 9 und 10: Einwilligungserfordernis und seine Ausnahmen (öffentlich zugängliche Daten, gerichtliche
+    Anordnung, medizinischer Notfall, historische, statistische oder wissenschaftliche Zwecke).'
+  - 'Art. 12: Informationspflicht über Zweck und Rechte. Art. 13: Zulässige Empfänger.'
+  - 'Art. 15: Reklamationsverfahren; Antwortfrist 15 Werktage.'
+  - 'Art. 17 und 18: Pflichtenkatalog für responsable und encargado del tratamiento, einschließlich Sicherheit,
+    Aktualität und Bearbeitung von Beschwerden.'
+  - 'Art. 19 und 21: Die Superintendencia de Industria y Comercio ist über die Delegatura para la Protección
+    de Datos Personales Aufsichtsbehörde; Ermittlungs-, Anordnungs- und Sperrbefugnisse.'
+  - 'Art. 23: Sanktionen bis zu 2.000 gesetzlichen Monatsmindestlöhnen, Aussetzung bis sechs Monate, zeitweiliges
+    oder endgültiges Verarbeitungsverbot, Betriebsschließung. Art. 24: Zumessungskriterien.'
+  - 'LÜCKE: Kein Art.-22-DSGVO-Äquivalent. Kolumbien kennt weder ein Verbot ausschließlich automatisierter
+    Einzelentscheidungen noch ein Recht auf Erläuterung. Die SIC hat diese Lücke 2024 nur teilweise über
+    Transparenz- und Folgenabschätzungspflichten geschlossen — ohne gesetzliche Grundlage für ein subjektives
+    Abwehrrecht.'
+  dokumente:
+  - datum: 2012-10-17
+    typ: konsolidiert
+    titel: Ley Estatutaria 1581 de 2012 — texto vigente con notas de vigencia y control de constitucionalidad
+    url: http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html
+    sprache: es
+    urheber: Senado de la República, Secretaría General
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung mit Diario Oficial 48.587 und dem Verweis auf die vorherige
+      Kontrolle durch C-748/11.
+  offene_punkte:
+  - Sentencia C-748 de 2011 ist nicht aus der Primärquelle geprüft (Datum, Vorbehalte gegen einzelne Vorschriften).
+  - 'Ob der Gesetzgeber die Art.-22-Lücke schließt, hängt an den KI-Entwürfen: PL 025/2026C sieht Transparenz-
+    und Erklärbarkeitspflichten vor, aber kein Widerspruchsrecht in der Diktion der DSGVO.'
+  monitoring_quellen:
+  - http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html
+  - https://sedeelectronica.sic.gov.co/publicaciones/boletin-juridico
+  bezug_regelwerke:
+  - co-constitucion-1991
+  - co-ley-1266-2008
+  - co-decreto-1074-2015
+  - co-sic-circular-002-2024
+  letzte_pruefung: 2026-09-06
+- id: co-ley-1266-2008
+  jurisdiktion: co
+  kurztitel: Ley 1266 de 2008 — Habeas Data für Finanz- und Kreditdaten
+  offizieller_titel: Ley Estatutaria 1266 de 2008, por la cual se dictan las disposiciones generales del
+    hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial
+    la financiera, crediticia, comercial, de servicios y la proveniente de terceros países
+  fundstelle: Diario Oficial No. 47.219 de 31 de diciembre de 2008
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Sektorales Sonderregime für Finanz-, Kredit-, Handels- und Dienstleistungsdaten, das
+    neben der Ley 1581 de 2012 fortgilt. Für das KI-Recht bedeutsam, weil es die einzige kolumbianische
+    Vorschrift enthält, die unmittelbar an ein algorithmisches Bewertungsverfahren anknüpft: die Scoring-Regeln.
+
+    '
+  kurzbeschreibung: 'Regelt Betreiber (operadores), Quellen (fuentes) und Nutzer (usuarios) von Finanz-
+    und Kreditdatenbanken. Sie kennt Löschfristen für negative Einträge (Art. 13: höchstens vier Jahre),
+    ein Beschwerdeverfahren (Art. 16) und eine geteilte Aufsicht zwischen der Superintendencia de Industria
+    y Comercio und der Superintendencia Financiera de Colombia (Art. 17). Ihre KI-Relevanz liegt in der
+    Scoring-Schranke: Die bloße laufende Abfrage einer Kreditakte darf nicht zur Verschlechterung der
+    Risikobewertung führen, und Nutzer dürfen ihre Bewertungsmodelle nicht ausschließlich auf negative
+    Historien stützen, sondern müssen weitere Risikofaktoren einbeziehen. Damit besteht in Kolumbien —
+    anders als beim allgemeinen Datenschutz — ein punktuelles materielles Recht der algorithmischen Bewertung.
+
+    '
+  inkrafttreten:
+    datum: 2008-12-31
+    verifiziert: true
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Art. 1-4: Zweck, Anwendungsbereich, Definitionen (operador, fuente, usuario), Grundsätze der Datenverwaltung.'
+  - 'Art. 6: Rechte der Betroffenen — habeas data, Zugang, Berichtigung.'
+  - 'Art. 7-9: Pflichten von Betreibern, Quellen und Nutzern.'
+  - 'Art. 13: Höchstdauer negativer Einträge (vier Jahre ab Tilgung).'
+  - 'SCORING: Die laufende Abfrage darf nicht selbst ''causal de disminución en la calificación de riesgo,
+    récord (scorings-score)'' sein; Nutzer dürfen die Bewertung nicht allein auf negative Kredithistorie
+    stützen, sondern müssen weitere Risikofaktoren berücksichtigen. Das ist der einzige materielle Maßstab
+    algorithmischer Bewertung im kolumbianischen Recht.'
+  - 'Art. 16: Reklamationsverfahren. Art. 17 und 18: Aufsicht durch SIC und Superintendencia Financiera;
+    Sanktionen.'
+  dokumente:
+  - datum: 2008-12-31
+    typ: konsolidiert
+    titel: Ley Estatutaria 1266 de 2008 — texto vigente
+    url: http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html
+    sprache: es
+    urheber: Senado de la República, Secretaría General
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung mit Diario Oficial 47.219; enthält die Scoring-Vorschriften.
+  offene_punkte:
+  - Ob die SIC oder die Superintendencia Financiera die Scoring-Schranke bereits auf KI-gestützte Kreditentscheidungen
+    angewandt hat, ist nicht ermittelt.
+  monitoring_quellen:
+  - http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html
+  - https://www.superfinanciera.gov.co/publicaciones/10115974/circulares-externas-2026/
+  bezug_regelwerke:
+  - co-ley-1581-2012
+  - co-constitucion-1991
+  letzte_pruefung: 2026-09-06
+- id: co-decreto-1074-2015
+  jurisdiktion: co
+  kurztitel: Decreto Único Reglamentario 1074 de 2015 — Ausführungsrecht zum Datenschutz
+  offizieller_titel: 'Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria
+    y Turismo (Libro 2, Parte 2, Título 2, Capítulo 25: compila el Decreto 1377 de 2013 reglamentario
+    de la Ley 1581 de 2012)'
+  fundstelle: Diario Oficial, 26 de mayo de 2015 (compila el Decreto 1377 de 2013, Diario Oficial 48.834
+    de 27 de junio de 2013)
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Ausführungsrecht zur Ley 1581 de 2012. Das Decreto 1377 de 2013 ist in das Einheitsdekret
+    des Handelsressorts kompiliert worden und gilt seither in dieser Form fort. Es konkretisiert die Einwilligung,
+    die Verarbeitungspolitik (política de tratamiento), die Informationspflichten und das Register der
+    Datenbanken (RNBD). NICHT AUS DER PRIMÄRQUELLE GEPRÜFT: Der Gestor Normativo der Función Pública und
+    suin-juriscol waren nicht abrufbar.
+
+    '
+  kurzbeschreibung: 'Führt die Ley 1581 de 2012 aus: Form und Nachweis der Einwilligung, Pflichtinhalt
+    der Datenschutzerklärung, Verfahren zur Ausübung der Betroffenenrechte, Umgang mit Daten von Kindern
+    und Jugendlichen sowie das Registro Nacional de Bases de Datos bei der SIC. Für KI-Anwendungen ist
+    es einschlägig, weil jede Trainingsdatenbank mit personenbezogenen Daten registrierungspflichtig ist
+    und weil der Nachweis der Einwilligung dem Verantwortlichen obliegt.
+
+    '
+  inkrafttreten:
+    datum: 2015-05-26
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76608
+    fundstelle_norm: 'ARTÍCULO 3.1.2 Vigencia: ''El presente Decreto rige a partir de su publicación en
+      el Diario Oficial.'' Ausgefertigt am 26.05.2015, Diario Oficial vom 26.05.2015'
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - Form und Beweislast der Einwilligung; Nachweispflicht des Verantwortlichen.
+  - Pflichtinhalt der 'política de tratamiento de la información'.
+  - 'Registro Nacional de Bases de Datos (RNBD) bei der SIC: Registrierungspflicht auch für Trainings-
+    und Auswertungsdatenbanken mit personenbezogenen Daten.'
+  - Sonderregeln für Daten von Kindern und Jugendlichen.
+  dokumente:
+  - datum: 2024-08-21
+    typ: leitlinie
+    titel: Circular Externa 002 de 2024 der SIC — nennt Ley 1581 de 2012, Ley 1266 de 2008 und das Ausführungsrecht
+      als Rahmen der KI-Datenverarbeitung
+    url: https://sedeelectronica.sic.gov.co/sites/default/files/normativa/Circular%20Externa%20No.%20002%20del%2021%20de%20agosto%20de%202024.pdf
+    sprache: es
+    urheber: Superintendencia de Industria y Comercio
+    verifiziert: true
+    notiz: Ersatzbeleg. Der amtliche Volltext des Decreto 1074 de 2015 war in dieser Sitzung nicht abrufbar
+      (funcionpublica robots, suin-juriscol offline).
+  offene_punkte:
+  - Volltext, genaue Fundstelle und Artikelnummern (Libro 2, Parte 2, Título 2, Capítulo 25) sind nachzuholen
+    über funcionpublica.gov.co/eva/gestornormativo.
+  - Ob das Ausführungsrecht seit 2015 mit Blick auf KI geändert wurde, ist nicht geprüft.
+  monitoring_quellen:
+  - https://www.funcionpublica.gov.co/eva/gestornormativo/
+  - https://sedeelectronica.sic.gov.co/transparencia/normativa
+  bezug_regelwerke:
+  - co-ley-1581-2012
+  - co-sic-circular-002-2024
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Am amtlichen konsolidierten Text im Gestor Normativo geprueft; der bisherige Vermerk 'NICHT AUS DER
+    PRIMAERQUELLE GEPRUEFT' ist damit erledigt. Datum richtig. Status 'anwendbar' bleibt richtig; das
+    Dekret ist vielfach geaendert (zuletzt u.a. Decreto 1121 de 2024), aber in Kraft.
+- id: co-sic-circular-002-2024
+  jurisdiktion: co
+  kurztitel: SIC Circular Externa 002 de 2024 — KI-Leitlinie der Datenschutzaufsicht
+  offizieller_titel: Circular Externa No. 002 del 21 de agosto de 2024 — Lineamientos sobre el Tratamiento
+    de Datos Personales en Sistemas de Inteligencia Artificial
+  fundstelle: Superintendencia de Industria y Comercio, Circular Externa 002 de 2024, 21 de agosto de
+    2024
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Rundverfügung der Aufsichtsbehörde an die von ihr beaufsichtigten Stellen. Sie schafft
+    keine neuen Pflichten, sondern legt die Ley 1581 de 2012 und die Ley 1266 de 2008 für KI-Systeme aus.
+    Faktisch ist sie der Maßstab jeder Aufsichtsmaßnahme und damit für die Praxis das wichtigste KI-Dokument
+    Kolumbiens außerhalb der Justiz. Erlassen ein knappes Jahr vor der ersten kolumbianischen KI-Gesetzgebung
+    und knapp drei Wochen nach T-323/24.
+
+    '
+  kurzbeschreibung: 'Zehn nummerierte Leitlinien (I-X) für die Verarbeitung personenbezogener Daten in
+    KI-Systemen. Adressaten sind alle der SIC unterstehenden Verantwortlichen und Auftragsverarbeiter.
+    Rechtsgrundlagen sind die Ley Estatutaria 1581 de 2012, die Ley Estatutaria 1266 de 2008 und das CONPES
+    3975; die KI-Definition übernimmt die Behörde von der OECD (Fassung 2023). Die Circular verlangt eine
+    Verhältnismäßigkeitsprüfung in vier Schritten, ein Vorsorgeprinzip, Risikomanagement, eine Datenschutz-Folgenabschätzung
+    vor der Entwicklung von Hochrisiko-Anwendungen, Datenqualität, technische Schutzmaßnahmen einschließlich
+    Differential Privacy, Transparenz, Sicherheits- und Auditpflichten sowie — der praktisch schärfste
+    Punkt — die Klarstellung, dass öffentlich zugängliche Daten nicht automatisch ''datos públicos'' im
+    Rechtssinne sind und ihre Verwendung für das Training daher der Einwilligung bedarf. Eigene Sanktionen
+    enthält die Circular nicht; durchgesetzt wird sie über die Sanktionen des Art. 23 Ley 1581.
+
+    '
+  inkrafttreten:
+    datum: 2024-08-21
+    verifiziert: true
+    quelle: https://sedeelectronica.sic.gov.co/sites/default/files/normativa/Circular%20Externa%20No.%20002%20del%2021%20de%20agosto%20de%202024.pdf
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'I. Verhältnismäßigkeit: Die Verarbeitung muss geeignet, erforderlich, angemessen und verhältnismäßig
+    sein — vier kumulative Anforderungen.'
+  - 'II. Vorsorgeprinzip: Bei Unsicherheit über mögliche Schäden ist von der Verarbeitung abzusehen oder
+    es sind Schutzmaßnahmen zu ergreifen.'
+  - 'III. Risikomanagement: Identifizierung, Klassifizierung und laufende Überwachung der Verarbeitungsrisiken.'
+  - IV. Datenschutz-Folgenabschätzung VOR der Entwicklung von KI mit hohem Risiko, mit Beschreibung der
+    Verarbeitung, Risikobewertung und Schutzmaßnahmen. Damit führt die SIC ein DSFA-Erfordernis ein, das
+    die Ley 1581 selbst nicht kennt.
+  - 'V. Datenqualität: Daten müssen wahr, vollständig, genau, aktuell und nachvollziehbar sein — die Übersetzung
+    des Grundsatzes der veracidad in die Trainingsdatenfrage.'
+  - VI. Technische Schutzmaßnahmen, ausdrücklich Differential Privacy als Umsetzungstechnik.
+  - VII. Informationszugang und Transparenz gegenüber den Betroffenen.
+  - VIII. Sicherheitsmaßnahmen technischer, administrativer und physischer Art gegen unbefugten Zugriff
+    und Missbrauch; Auditpflicht.
+  - 'IX. ÖFFENTLICH ZUGÄNGLICHE DATEN: Frei im Netz auffindbare Daten sind nicht ohne Weiteres ''öffentliche
+    Daten'' im Sinne des Gesetzes; für ihre Verwendung ist grundsätzlich die Einwilligung des Betroffenen
+    erforderlich. Das ist die kolumbianische Antwort auf die Scraping-Frage und steht in scharfem Gegensatz
+    zur Praxis der großen Modellanbieter.'
+  - X. Nachweisbare Compliance-Strategien zur Wahrung der Rechte aus Ley 1581 und Ley 1266.
+  dokumente:
+  - datum: 2024-08-21
+    typ: leitlinie
+    titel: Circular Externa No. 002 del 21 de agosto de 2024 (Volltext, PDF)
+    url: https://sedeelectronica.sic.gov.co/sites/default/files/normativa/Circular%20Externa%20No.%20002%20del%2021%20de%20agosto%20de%202024.pdf
+    sprache: es
+    urheber: Superintendencia de Industria y Comercio
+    verifiziert: true
+    notiz: Amtlicher Volltext auf der elektronischen Amtsstelle der SIC. Grundlage der Erfassung der zehn
+      Leitlinien.
+  - datum: 2024-08-21
+    typ: uebersicht
+    titel: Circular Externa 2 de 2024 — Eintrag im Normenverzeichnis der SIC
+    url: https://sedeelectronica.sic.gov.co/transparencia/normativa/circular-externa-2-de-2024-de-la-superintendencia-de-industria-y-comercio-lineamientos-sobre-el-tratamiento-de-datos
+    sprache: es
+    urheber: Superintendencia de Industria y Comercio
+    verifiziert: true
+    notiz: Amtlicher Nachweis von Nummer, Datum und Titel.
+  offene_punkte:
+  - Ob die SIC auf Grundlage der Circular bereits Sanktionsverfahren gegen KI-Anbieter geführt hat, ist
+    nicht ermittelt. Die Boletines Jurídicos der SIC enthalten Auslegungshinweise zu KI im Verbraucherdienst
+    und zum habeas data in gewerblicher KI-Nutzung; sie sind nicht einzeln erfasst.
+  - Das Verhältnis der Leitlinie IX (öffentlich zugängliche Daten) zu Art. 10 lit. b Ley 1581 (Ausnahme
+    für 'datos de naturaleza pública') ist dogmatisch nicht ausgeführt und wäre ein lohnender Aufsatzgegenstand.
+  monitoring_quellen:
+  - https://sedeelectronica.sic.gov.co/transparencia/normativa
+  - https://sedeelectronica.sic.gov.co/publicaciones/boletin-juridico
+  bezug_regelwerke:
+  - co-ley-1581-2012
+  - co-ley-1266-2008
+  - co-decreto-1074-2015
+  - co-conpes-3975
+  letzte_pruefung: 2026-09-06
+- id: co-ley-2502-2025
+  jurisdiktion: co
+  kurztitel: Ley 2502 de 2025 — KI-Strafschärfung bei Identitätsanmaßung
+  offizieller_titel: Ley 2502 de 2025, por medio de la cual se modifica y establece un agravante al artículo
+    296 de la Ley 599 de 2000, Código Penal colombiano, y se dictan otras disposiciones
+  fundstelle: Diario Oficial No. 53.198 de 31 de julio de 2025; sancionada el 28 de julio de 2025
+  verfahrensnummer: nicht ermittelt
+  status: anwendbar
+  status_detail: 'Sanktioniert am 28.07.2025, verkündet am 31.07.2025. Das Gesetz gilt seit seiner Sanktion;
+    die Strafrechtsänderung selbst tritt nach der Übergangsvorschrift erst ein Jahr später in Kraft, also
+    am 28.07.2026 — sie ist damit seit gut sechs Wochen anwendbar. Am 15./18.07.2026 hat die Corte Constitucional
+    die Vorschrift in der Sentencia C-212 de 2026 für verfassungsgemäß erklärt. Damit ist Ley 2502 de
+    2025 die erste und bislang einzige materiell KI-spezifische Norm des kolumbianischen Gesetzesrechts.
+
+    '
+  kurzbeschreibung: 'Das Gesetz fügt dem Straftatbestand der falsedad personal (Art. 296 Código Penal)
+    einen Erschwerungsgrund für den Einsatz künstlicher Intelligenz hinzu: Wird die Personenfälschung
+    unter Verwendung von KI begangen, erhöht sich die Geldstrafe um bis zu ein Drittel. Es definiert in
+    Art. 2 erstmals im kolumbianischen Gesetzesrecht die Begriffe DeepFake, Identität und Bild. Art. 4
+    verpflichtet die Regierung, binnen zwei Jahren eine öffentliche Politik gegen den täuschenden Einsatz
+    von KI mit acht Leitlinien zu formulieren (Ethik, sektorübergreifende Zusammenarbeit, Bildung, Technologie,
+    Transparenz, internationale Kooperation, schnelle Reaktion, Außenbeziehungen). Art. 5 verpflichtet
+    die Fiscalía General de la Nación zur systematischen Erfassung solcher Fälle und zum jährlichen Bericht
+    an den Kongress. Adressaten sind Täter der Personenfälschung, die Exekutive und die Staatsanwaltschaft.
+
+    '
+  inkrafttreten:
+    datum: 2025-07-31
+    verifiziert: true
+    quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/ley_2502_2025.htm
+  anwendungsdaten:
+  - datum: 2025-07-28
+    was_gilt: Sanktion des Gesetzes; Inkrafttreten des allgemeinen Teils (Definitionen, Politikauftrag,
+      Berichtspflicht).
+    verifiziert: true
+    quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/ley_2502_2025.htm
+  - datum: 2025-07-31
+    was_gilt: Verkündung im Diario Oficial 53.198.
+    verifiziert: true
+    quelle: https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=188454
+  - datum: 2026-07-28
+    was_gilt: 'Inkrafttreten der Strafrechtsänderung (Art. 3): Der KI-Erschwerungsgrund des Art. 296 Código
+      Penal ist seither anwendbar.'
+    verifiziert: true
+    quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/ley_2502_2025.htm
+  - datum: 2026-07-15
+    was_gilt: 'Sentencia C-212 de 2026 (Expediente D-17.052, M.P. Jorge Enrique Ibáñez Najar): Die Corte
+      Constitucional erklärt den KI-Erschwerungsgrund für exequible. Das Fehlen einer gesetzlichen KI-Definition
+      verletzt das Bestimmtheitsgebot nicht, weil objektive und überprüfbare Bezugspunkte (OECD, nationale
+      Dekrete, internationale Regelwerke) vorliegen.'
+    verifiziert: false
+    quelle: https://www.corteconstitucional.gov.co/comunicados/comunicado-23-julio-15-de-2026.pdf
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 1 (Objeto): Änderung des Straftatbestands der falsedad personal um einen Erschwerungsgrund für
+    den KI-Einsatz bei Identitätsanmaßung.'
+  - 'Art. 2 (Definiciones): erste gesetzliche Legaldefinitionen. DeepFake: ''creación, modificación y
+    utilización de un registro audiovisual [...] mediante Inteligencia Artificial [...] de manera que
+    parezca auténtico''. Ferner Identität (Gesamtheit der Merkmale, die eine Person als Rechtssubjekt
+    kenntlich machen) und Bild (äußere Projektion der Person, geschützt gegen unbefugte Verwendung).'
+  - 'Art. 3 (Strafrechtsänderung): Anfügung eines Absatzes an Art. 296 Ley 599 de 2000 — ''Cuando la falsedad
+    personal se realizare con la utilización de Inteligencia Artificial la multa se aumentará hasta en
+    una tercera parte.'' Bemerkenswert: Verschärft wird nur die GELDSTRAFE, nicht die Freiheitsstrafe.
+    Der praktische Effekt ist damit gering; die Bedeutung des Gesetzes liegt in der Definitionsnorm und
+    im Politikauftrag.'
+  - 'Art. 4 (Política pública): Auftrag an die Regierung, binnen zwei Jahren (Frist: 28.07.2027) Leitlinien
+    gegen den täuschenden Einsatz von KI zu formulieren, mit acht inhaltlichen Vorgaben.'
+  - 'Art. 5 (Berichtspflicht): Die Fiscalía General de la Nación erfasst die Fälle systematisch und berichtet
+    dem Kongress jährlich über die Entwicklung.'
+  - 'Vigencia: Das Gesetz gilt ab der Sanktion; die Strafrechtsänderung ein Jahr danach.'
+  - 'VERFASSUNGSRECHTLICH: In C-212/26 wurde gerügt, der Erschwerungsgrund knüpfe an einen gesetzlich
+    nicht definierten Begriff an und lade zu willkürlicher Auslegung ein. Die Corte hat die Vorschrift
+    gehalten — die gleiche Frage, die die mexikanische SCJN 2025 in den acciones de inconstitucionalidad
+    66/2024, 80/2024 und 104/2024 zu landesrechtlichen KI-Straftatbeständen ebenso beantwortet hat. Damit
+    stehen zwei lateinamerikanische Verfassungsgerichte auf derselben Linie: Ein funktionaler KI-Begriff
+    genügt dem Bestimmtheitsgebot.'
+  dokumente:
+  - datum: 2025-07-28
+    typ: konsolidiert
+    titel: Ley 2502 de 2025 — Compilación Jurídica del MINTIC
+    url: https://normograma.mintic.gov.co/mintic/compilacion/docs/ley_2502_2025.htm
+    sprache: es
+    urheber: Ministerio de Tecnologías de la Información y las Comunicaciones, Normograma
+    verifiziert: true
+    notiz: Amtliche Normensammlung des Fachressorts mit Volltext, Diario-Oficial-Angabe und Vigencia-Klausel.
+  - datum: 2025-07-28
+    typ: konsolidiert
+    titel: Ley 2502 de 2025 — Régimen Legal de Bogotá D.C.
+    url: https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=188454
+    sprache: es
+    urheber: Alcaldía Mayor de Bogotá D.C., Secretaría Jurídica Distrital
+    verifiziert: true
+    notiz: Zweiter amtlicher Beleg; bestätigt Diario Oficial 53.198 vom 31.07.2025 und die Vigencia ab
+      31.07.2025.
+  - datum: 2026-07-15
+    typ: abstimmung
+    titel: Comunicado 23 de 2026 de la Corte Constitucional (Sentencia C-212 de 2026, Expediente D-17.052)
+    url: https://www.corteconstitucional.gov.co/comunicados/comunicado-23-julio-15-de-2026.pdf
+    sprache: es
+    urheber: Corte Constitucional de Colombia
+    verifiziert: false
+    notiz: 'URL existiert und wurde im Browser angesteuert, der Inhalt konnte aber nicht gelesen werden:
+      PDFs von corteconstitucional.gov.co sind in dieser Sitzung durch die Egress-Politik gesperrt. Angaben
+      zu C-212/26 aus zwei unabhängigen Sekundärquellen (El Tiempo 18.07.2026; Diario Judicial), die in
+      Expediente, Datum, Berichterstatter und Tenor übereinstimmen.'
+  - datum: 2026-07-20
+    typ: bericht
+    titel: IA, suplantación y pena agravada — Bericht zur Sentencia C-212/26 (Expediente D-17.052)
+    url: https://www.diariojudicial.com/news-104025-ia-suplantacion-y-pena-agravada
+    sprache: es
+    urheber: Diario Judicial
+    verifiziert: true
+    notiz: SEKUNDÄRQUELLE. Nennt Expediente D-17052, Datum 15.07.2026, M.P. Jorge Enrique Ibáñez Najar
+      und den Tenor der Exequibilidad; deckt sich mit El Tiempo.
+  offene_punkte:
+  - 'Sentencia C-212 de 2026 ist nicht aus der Primärquelle geprüft: Expediente-Nummer, genaues Entscheidungsdatum
+    (15. oder 18.07.2026) und der Wortlaut des Resuelve fehlen. Der Volltext war am 06.09.2026 in der
+    Relatoría noch nicht unter /relatoria/2026/C-212-26.htm veröffentlicht.'
+  - Die Politik nach Art. 4 ist bis 28.07.2027 zu formulieren; ein Entwurf ist nicht bekannt.
+  - Ob die Fiscalía den ersten Jahresbericht nach Art. 5 vorgelegt hat, ist nicht ermittelt.
+  - Ley 2573 de 2026 (Ley Estatutaria vom 19.05.2026, Diario Oficial 53.496 vom 20.05.2026, in Kraft ab
+    19.11.2026) betrifft den Schutz vor Negativeinträgen bei Identitätsanmaßung. Sie wird in der Literatur
+    oft zusammen mit Ley 2502 genannt, erwähnt aber weder KI noch Biometrie noch Deepfakes und wird deshalb
+    hier nicht als KI-Regelwerk geführt.
+  monitoring_quellen:
+  - https://normograma.mintic.gov.co/mintic/compilacion/
+  - https://www.corteconstitucional.gov.co/relatoria/
+  bezug_regelwerke:
+  - co-constitucion-1991
+  - co-conpes-4144
+  letzte_pruefung: 2026-09-06
+- id: co-conpes-3975
+  jurisdiktion: co
+  kurztitel: CONPES 3975 de 2019 — erste KI-Politik Kolumbiens
+  offizieller_titel: Documento CONPES 3975 — Política Nacional para la Transformación Digital e Inteligencia
+    Artificial
+  fundstelle: Consejo Nacional de Política Económica y Social, Documento CONPES 3975 de 2019
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Verabschiedet 2019 vom CONPES unter Federführung des DNP. Fünfjähriger Umsetzungshorizont,
+    damit 2024 ausgelaufen und 2025 durch das CONPES 4144 abgelöst. Rechtlich unverbindlich, faktisch
+    der Bezugspunkt der gesamten kolumbianischen KI-Verwaltungspraxis: Die SIC stützt ihre Circular Externa
+    002 de 2024 ausdrücklich auf dieses Dokument.
+
+    '
+  kurzbeschreibung: 'Erste nationale KI- und Digitalisierungspolitik Kolumbiens. Sie sollte Wert durch
+    den strategischen Einsatz digitaler Technologien im öffentlichen und privaten Sektor schaffen. Vier
+    Handlungsachsen: Abbau von Adoptionshindernissen, Schaffung von Innovationsbedingungen, Stärkung des
+    Humankapitals, Vorbereitung auf die wirtschaftlichen und sozialen Veränderungen durch KI. Geschätztes
+    Investitionsvolumen 121.619 Millionen Pesos über fünf Jahre. Beteiligt waren MinTIC, Finanz-, Arbeits-
+    und Handelsministerium sowie das DNP. Das Dokument formuliert 14 Leitprinzipien für die KI-Entwicklung,
+    darunter Marktschaffung, experimentelle Regulierung (Sandbox), ethische Rahmenbedingungen und die
+    Anwerbung internationalen Talents. Sanktionen enthält es nicht.
+
+    '
+  inkrafttreten:
+    datum: 2019-11-08
+    verifiziert: true
+    quelle: https://normograma.dian.gov.co/dian/compilacion/docs/conpes_dnp_3975_2019.htm
+    fundstelle_norm: 'Documento CONPES 3975 DNP de 2019, Kopf: ''Bogotá, noviembre 8 de 2019'' — Datum
+      der Billigung durch den Consejo Nacional de Política Económica y Social; ein CONPES-Dokument kennt
+      keine Vigencia-Klausel, massgeblich ist der Billigungstermin'
+  anwendungsdaten:
+  - datum: 2025-02-14
+    was_gilt: Abgelöst durch das CONPES 4144 (Política Nacional de Inteligencia Artificial).
+    verifiziert: true
+    quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/CONPES_DNP_4144_2025.htm
+  themenachsen:
+  - governance
+  - marktzugang
+  - arbeit
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Vier Handlungsachsen: (1) Abbau von Hindernissen bei der Einführung digitaler Technologien; (2) Schaffung
+    von Innovationsbedingungen im öffentlichen und privaten Sektor; (3) Stärkung der Kompetenzen des Humankapitals;
+    (4) Vorbereitung auf die wirtschaftlichen und sozialen Veränderungen durch KI.'
+  - 14 Leitprinzipien für die KI-Entwicklung, darunter experimentelle Regulierung (sandbox regulatorio)
+    und ein ethischer Rahmen.
+  - Investitionsvolumen 121.619 Millionen Pesos, fünf Jahre Umsetzung.
+  - 'BEDEUTUNG: Es ist die Rechtsgrundlage, auf die sich die SIC in ihrer KI-Leitlinie beruft, und die
+    einzige KI-Politik, die zum Zeitpunkt von T-323/24 (August 2024) existierte. Die Corte Constitucional
+    stellt in Rn. 130 fest: Solange kein Gesetz die Materie regele, sei auf Selbstregulierung, Selbstbeschränkung
+    und freiwillige kollektive Gestaltung zurückzugreifen.'
+  dokumente:
+  - datum: 2019-11-08
+    typ: bericht
+    titel: Documento CONPES 3975 de 2019 — Política Nacional para la Transformación Digital e Inteligencia
+      Artificial
+    url: https://normograma.dian.gov.co/dian/compilacion/docs/conpes_dnp_3975_2019.htm
+    sprache: es
+    urheber: Consejo Nacional de Política Económica y Social / Departamento Nacional de Planeación
+    verifiziert: true
+    notiz: Amtliche Normensammlung der DIAN mit dem Volltext; Grundlage der Erfassung von Achsen, Budget
+      und Zeithorizont. Der PDF-Volltext auf colaboracion.dnp.gov.co war in dieser Sitzung nicht abrufbar.
+  offene_punkte:
+  - Das genaue Verabschiedungsdatum (8. November 2019) ist aus Sekundärquellen übernommen und nicht aus
+    dem Dokumentkopf bestätigt.
+  monitoring_quellen:
+  - https://colaboracion.dnp.gov.co/CDT/Conpes/
+  bezug_regelwerke:
+  - co-conpes-4144
+  - co-sic-circular-002-2024
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Am amtlich kompilierten Volltext geprueft. Datum richtig. Status 'softlaw' bleibt richtig. Die Abloesung
+    durch das CONPES 4144 am 14.02.2025 war bereits verifiziert.
+- id: co-conpes-4144
+  jurisdiktion: co
+  kurztitel: CONPES 4144 — Política Nacional de Inteligencia Artificial
+  offizieller_titel: Documento CONPES 4144 — Política Nacional de Inteligencia Artificial
+  fundstelle: Consejo Nacional de Política Económica y Social, Documento CONPES 4144 de 14 de febrero
+    de 2025
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Am 14.02.2025 vom CONPES verabschiedet. Es ist das geltende Leitdokument der kolumbianischen
+    KI-Politik und der Ersatz für das CONPES 3975 de 2019. Rechtlich unverbindlich; seine Maßnahmen sind
+    über den Plan de Acción y Seguimiento (Anexo A) den beteiligten Stellen zugewiesen. Der Umstand, dass
+    Kolumbien 2026 immer noch kein KI-Gesetz hat, macht dieses Dokument zum faktischen Rahmen: Verwaltung,
+    Aufsichtsbehörden und Gerichte orientieren sich an ihm.
+
+    '
+  kurzbeschreibung: 'Nationale KI-Politik mit dem Ziel, die Kapazitäten für Forschung, Entwicklung, Einführung
+    und den ethischen und nachhaltigen Einsatz von KI-Systemen zu schaffen. Sechs strategische Achsen:
+    Ethik und Governance; Daten und Infrastruktur; Forschung, Entwicklung und Innovation; Kompetenzaufbau
+    und digitales Talent; Risikominderung; Einsatz und Verbreitung von KI. Beteiligt sind das DNP und
+    die Ministerien für Informations- und Kommunikationstechnologien, Verteidigung, Arbeit, Handel, Bildung
+    und Wissenschaft sowie die Präsidentschaft. Die Umsetzung koordiniert ein interinstitutioneller KI-Ausschuss.
+    Zeithorizont 2025 bis 2030. Adressaten sind ausschließlich staatliche Stellen; Sanktionen gibt es
+    nicht.
+
+    '
+  inkrafttreten:
+    datum: 2025-02-14
+    verifiziert: true
+    quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/CONPES_DNP_4144_2025.htm
+  anwendungsdaten:
+  - datum: 2025-02-14
+    was_gilt: Verabschiedung des CONPES 4144 durch den Consejo Nacional de Política Económica y Social.
+    verifiziert: true
+    quelle: https://www.cancilleria.gov.co/normograma/compilacion/docs/conpes_dnp_4144_2025.htm
+  - datum: 2030-12-31
+    was_gilt: Ende des Politikhorizonts 2025-2030.
+    verifiziert: false
+    quelle: https://oecd.ai/en/dashboards/policy-initiatives/national-policy-on-artificial-intelligence-conpes-4144-3012
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  - grundrechte
+  - arbeit
+  - gpai
+  regelungsschwerpunkte:
+  - 'Sechs Achsen (ejes): 1. Ética y Gobernanza; 2. Datos e Infraestructura; 3. Investigación, Desarrollo
+    e Innovación (I+D+i); 4. Desarrollo de Capacidades y Talento Digital; 5. Mitigación de Riesgos; 6.
+    Uso y Adopción de la IA.'
+  - 'Beteiligte Stellen: DNP, MinTIC, MinDefensa, MinTrabajo, MinComercio, MinEducación, MinCiencias und
+    die Präsidentschaft.'
+  - Interinstitutioneller KI-Ausschuss als Koordinierungsgremium.
+  - Zeithorizont 2025-2030; Plan de Acción y Seguimiento als Anexo A (Excel).
+  - 'EINORDNUNG: Das CONPES 4144 ist Politik, nicht Recht. Es begründet keine Pflichten für Private und
+    keine Rechte für Betroffene. Wer aus Kolumbien ''Regulierung'' meldet, meint in aller Regel dieses
+    Dokument — die entsprechenden Presseberichte sind entsprechend zu lesen. Der eigentliche Regelungsversuch,
+    der Gesetzentwurf PL 043/2025S, ist im Juni 2026 archiviert worden.'
+  dokumente:
+  - datum: 2025-02-14
+    typ: bericht
+    titel: Documento CONPES 4144 de 2025 — Política Nacional de Inteligencia Artificial (Compilación Jurídica
+      del MINTIC)
+    url: https://normograma.mintic.gov.co/mintic/compilacion/docs/CONPES_DNP_4144_2025.htm
+    sprache: es
+    urheber: Consejo Nacional de Política Económica y Social / Departamento Nacional de Planeación
+    verifiziert: true
+    notiz: Amtliche Normensammlung des Fachressorts, Fassung 'versión aprobada'. Bestätigt Datum, Titel
+      und beteiligte Stellen.
+  - datum: 2025-02-14
+    typ: bericht
+    titel: Documento 4144 de 2025 DNP — Compilación jurídica de la Cancillería
+    url: https://www.cancilleria.gov.co/normograma/compilacion/docs/conpes_dnp_4144_2025.htm
+    sprache: es
+    urheber: Ministerio de Relaciones Exteriores, Normograma
+    verifiziert: true
+    notiz: Zweiter amtlicher Beleg; nennt CONPES 3975 de 2019 als Vorgängerdokument.
+  - datum: 2025-02-14
+    typ: bericht
+    titel: Documento CONPES 4144 (PDF-Volltext) und Anexo A. PAS 4144 (Plan de Acción y Seguimiento)
+    url: https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/4144.pdf
+    sprache: es
+    urheber: Departamento Nacional de Planeación
+    verifiziert: false
+    notiz: Amtliche Primärquelle. Der Abruf scheiterte in dieser Sitzung wiederholt an robots.txt-Timeouts
+      auf colaboracion.dnp.gov.co; Investitionsvolumen und Zahl der Maßnahmen sind deshalb NICHT erfasst.
+  - datum: 2025-12-25
+    typ: uebersicht
+    titel: National Policy on Artificial Intelligence (CONPES 4144) — OECD.AI Policy Observatory
+    url: https://oecd.ai/en/dashboards/policy-initiatives/national-policy-on-artificial-intelligence-conpes-4144-3012
+    sprache: en
+    urheber: OECD.AI Policy Observatory
+    verifiziert: true
+    notiz: Bestätigt die sechs Achsen und den Horizont 2025-2030. Die dort angegebene Budgetzahl ist offensichtlich
+      fehlerhaft ('EUR 400 per year') und wurde nicht übernommen.
+  - datum: 2025-04-01
+    typ: pressemitteilung
+    titel: Ante la academia, el Gobierno Nacional presentó el Conpes de Inteligencia Artificial
+    url: https://mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/400044:Ante-la-academia-el-Gobierno-Nacional-presento-el-Conpes-de-Inteligencia-Artificial
+    sprache: es
+    urheber: Ministerio TIC
+    verifiziert: true
+    notiz: Amtliche Mitteilung; bestätigt die sechs Achsen wörtlich.
+  offene_punkte:
+  - Investitionsvolumen, Zahl der Maßnahmen und die konkreten Fristen des Plan de Acción y Seguimiento
+    sind ungeklärt — der DNP-Server war nicht erreichbar. Nachzuholen.
+  - Ob der interinstitutionelle KI-Ausschuss durch Dekret formalisiert wurde, ist nicht ermittelt.
+  monitoring_quellen:
+  - https://colaboracion.dnp.gov.co/CDT/Conpes/
+  - https://oecd.ai/en/dashboards/policy-initiatives
+  bezug_regelwerke:
+  - co-conpes-3975
+  - co-guia-etica-ia-2025
+  - co-pl-025-2026
+  letzte_pruefung: 2026-09-06
+- id: co-guia-etica-ia-2025
+  jurisdiktion: co
+  kurztitel: Guía Ética für KI in der öffentlichen Verwaltung
+  offizieller_titel: Guía Ética para la Implementación, Desarrollo y Uso de Sistemas de Inteligencia Artificial
+    en Entidades Públicas de Colombia
+  fundstelle: Presidencia de la República / DNP / MinTIC / MinCiencias / CRC; Fassung Dezember 2025, zuletzt
+    aktualisiert 07.01.2026
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Leitfaden ohne Rechtsform: weder Dekret noch Resolución. Trotz Presseberichten von einem
+    ''verbindlichen ethischen Rahmen'' ließ sich kein Rechtsakt nachweisen, der ihn verbindlich macht.
+    Er richtet sich an die Stellen der nationalen Verwaltung und ist die operative Umsetzung der Achse
+    ''Ética y Gobernanza'' des CONPES 4144.
+
+    '
+  kurzbeschreibung: 'Leitfaden der Präsidentschaft mit DNP, MinTIC, MinCiencias und der Comisión de Regulación
+    de Comunicaciones. Er formuliert ethische Grundprinzipien, Ermöglicher (habilitadores), Schutzmaßnahmen
+    (salvaguardas), gute Praktiken und einen durchgerechneten Anwendungsfall für Behörden, die KI einführen
+    wollen. Inhaltlich stehen Transparenz, menschliche Aufsicht, Datenschutz und Nichtdiskriminierung
+    im Mittelpunkt. Sanktionen enthält der Leitfaden nicht; disziplinarrechtliche Folgen können sich mittelbar
+    über die allgemeinen Amtspflichten ergeben.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-01-07
+    was_gilt: Letzte Aktualisierung der Veröffentlichungsseite beim MinTIC.
+    verifiziert: true
+    quelle: https://www.mintic.gov.co/portal/715/w3-article-425888.html
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Adressaten: Stellen des nationalen Verwaltungsbereichs (entidades del orden nacional).'
+  - 'Struktur: ethische Grundprinzipien, Ermöglicher, Schutzmaßnahmen, gute Praktiken, praktischer Anwendungsfall.'
+  - 'Inhaltliche Schwerpunkte: Transparenz, menschliche Aufsicht, Datenschutz, Nichtdiskriminierung.'
+  - 'RECHTSNATUR: Es handelt sich um eine Guía, nicht um ein Dekret oder eine Resolución. Der in der Kanzleiliteratur
+    verbreitete Begriff eines ''marco ético obligatorio'' hat keine nachweisbare Rechtsgrundlage.'
+  dokumente:
+  - datum: 2026-01-07
+    typ: leitlinie
+    titel: Guía Ética para la Implementación, Desarrollo y Uso de Sistemas de Inteligencia Artificial
+      en Entidades Públicas de Colombia
+    url: https://www.mintic.gov.co/portal/715/w3-article-425888.html
+    sprache: es
+    urheber: Presidencia de la República; MinTIC; MinCiencias; CRC; DNP
+    verifiziert: true
+    notiz: Amtliche Veröffentlichungsseite mit Dokument-PDF unter /portal/715/articles-425888_recurso_1.pdf.
+  offene_punkte:
+  - Das Erstveröffentlichungsdatum (Dezember 2025) ist aus Sekundärquellen; die amtliche Seite weist nur
+    die Aktualisierung vom 07.01.2026 aus.
+  - Ob eine Directiva Presidencial oder eine Resolución den Leitfaden verbindlich macht, konnte nicht
+    geklärt werden — nach dem Ergebnis der Recherche existiert sie nicht.
+  monitoring_quellen:
+  - https://www.mintic.gov.co/portal/715/w3-article-425888.html
+  - https://gobiernodigital.mintic.gov.co/
+  bezug_regelwerke:
+  - co-conpes-4144
+  - co-hoja-ruta-ia
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Inkrafttreten auf null gesetzt. Der bisherige Wert 2025-12-01 ist ein Monatsanfangs- Platzhalter
+    ohne Beleg. Status ''softlaw'' bleibt richtig; das bereits verifizierte Anwendungsdatum 07.01.2026
+    (letzte Aktualisierung der MinTIC-Seite) bleibt unberuehrt. Vorher: 2025-12-01.'
+- id: co-hoja-ruta-ia
+  jurisdiktion: co
+  kurztitel: Hoja de Ruta für die ethische KI-Einführung
+  offizieller_titel: Hoja de Ruta para el desarrollo y aplicación de la Inteligencia Artificial en Colombia
+    — adopción ética y sostenible
+  fundstelle: Ministerio de Ciencia, Tecnología e Innovación
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Strategisches Leitdokument von MinCiencias nach der Methodik der missionsorientierten
+    Forschungs- und Innovationspolitik (PIIOM). Es versteht sich ausdrücklich als ''documento vivo'' ohne
+    festen Zeithorizont. Rechtlich unverbindlich.
+
+    '
+  kurzbeschreibung: 'Fahrplan für die ethische und nachhaltige Einführung von KI in Kolumbien, erarbeitet
+    vom Wissenschaftsministerium. Fünf Handlungsfelder: Ethik und Governance; Bildung, Forschung und Innovation;
+    Daten und Organisationen; innovative und aufstrebende Industrien; Privatsphäre, Cybersicherheit und
+    Verteidigung. Er ist der inhaltliche Vorläufer des CONPES 4144 und des Regierungsentwurfs PL 043/2025S;
+    die dort vorgesehene nationale KI-Behörde unter Federführung von MinCiencias hat hier ihren Ursprung.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - datenschutz
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Fünf Handlungsfelder: Ética y Gobernanza; Educación, Investigación e Innovación; Datos y Organizaciones;
+    Industrias Innovadoras y Emergentes; Privacidad, Ciberseguridad y Defensa.'
+  - 'Methodik: Políticas de Investigación e Innovación Orientadas por Misiones (PIIOM).'
+  - Selbstverständnis als fortschreibbares 'documento vivo' ohne festen Zeithorizont.
+  dokumente:
+  - datum: 2023-01-01
+    typ: bericht
+    titel: Hoja de Ruta para la adopción ética y sostenible de Inteligencia Artificial en Colombia (PDF)
+    url: https://minciencias.gov.co/sites/default/files/upload/noticias/hoja_de_ruta_adopcion_etica_y_sostenible_de_inteligencia_artificial_colombia_0.pdf
+    sprache: es
+    urheber: Ministerio de Ciencia, Tecnología e Innovación
+    verifiziert: true
+    notiz: Amtlicher Volltext auf dem Server von MinCiencias. Ein Erscheinungsdatum ist im Dokument nicht
+      ausgewiesen; die inhaltlichen Bezüge deuten auf 2023.
+  offene_punkte:
+  - Erscheinungsdatum und Fortschreibungsstand sind ungeklärt.
+  monitoring_quellen:
+  - https://minciencias.gov.co/sala_de_prensa
+  bezug_regelwerke:
+  - co-conpes-4144
+  - co-pl-043-2025
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Inkrafttreten auf null gesetzt. Der bisherige Wert 2023-01-01 ist ein Jahresanfangs- Platzhalter
+    ohne Beleg; am amtlichen PDF von MinCiencias liess sich kein Datum ermitteln. Status ''softlaw'' bleibt
+    richtig. Vorher: 2023-01-01.'
+- id: co-pl-025-2026
+  jurisdiktion: co
+  kurztitel: PL 025/2026C — laufender KI-Gesetzentwurf
+  offizieller_titel: Proyecto de Ley 025 de 2026 Cámara, por medio de la cual se regula la inteligencia
+    artificial en Colombia para garantizar su desarrollo ético y responsable y se dictan otras disposiciones
+  fundstelle: Gaceta del Congreso No. 878 de 2026
+  verfahrensnummer: 'P.L. 025/2026 Cámara (Senado: noch nicht eingebracht); proyecto-36127'
+  status: verfahren
+  status_detail: 'Eingebracht am 21.07.2026, veröffentlicht in der Gaceta 878 de 2026, zugewiesen an die
+    Comisión Sexta Constitucional Permanente der Cámara de Representantes, Verfahrensstand am 06.09.2026
+    ''Trámite en Comisión'' (erste Lesung noch nicht abgeschlossen). Es ist der einzige derzeit lebende
+    horizontale KI-Gesetzentwurf Kolumbiens und der Neuanlauf nach der Archivierung des Regierungsentwurfs
+    PL 043/2025S.
+
+    '
+  kurzbeschreibung: 'Horizontaler KI-Gesetzentwurf nach europäischem Vorbild. 33 Abgeordnete und 11 Senatorinnen
+    und Senatoren zeichnen als Autoren, überwiegend aus dem Pacto Histórico; Koordinierender Berichterstatter
+    für die erste Lesung ist David Alejandro Toro Ramírez, Berichterstatter sind Laura Isabel Vera Zapata
+    und Mauricio Andrés Toro Orjuela. Der Entwurf übernimmt die vierstufige Risikosystematik der KI-Verordnung
+    (verbotene Praktiken, Hochrisiko, begrenztes Risiko mit Transparenzpflichten, minimales Risiko), verlangt
+    Transparenz und Erklärbarkeit, schützt personenbezogene Daten, verankert Arbeitnehmerschutz bei KI-bedingtem
+    Stellenabbau samt Umschulungspflichten und einem Bewertungsausschuss, verschärft die Strafe für Identitätsanmaßung
+    mittels KI (Deepfakes, Audiofakes, ''Callfakes'') unter Berufung auf das Recht am eigenen Bild (Sentencia
+    T-634 de 2013), schafft eine urheberrechtliche Ausnahme für Text- und Data-Mining zu Forschungszwecken
+    im Rahmen des Drei-Stufen-Tests unter ausdrücklicher Bezugnahme auf Art. 9 Abs. 2 der Berner Übereinkunft
+    und Art. 21 der Decisión Andina 351 de 1993, sieht kollektive Verwertung vor und richtet regulatorische
+    Sandkästen ein. Der Sanktionsrahmen nennt Verwarnung, Geldbuße, Aussetzung der Tätigkeit und Verarbeitungsverbote.
+    Eine ausdrücklich bezifferte Aufsichtsbehörde ist im vorliegenden Text nicht benannt; anders als der
+    Regierungsentwurf PL 043/2025S, der eine Autoridad Nacional de Inteligencia Artificial unter MinCiencias
+    vorsah.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-07-21
+    was_gilt: Einbringung in der Cámara de Representantes (Bogotá, 21. Juli 2026), Veröffentlichung in
+      der Gaceta 878 de 2026.
+    verifiziert: true
+    quelle: https://www.camara.gov.co/wp-content/uploads/2026/07/proyectos-ley/documentos/proyecto-36127/P.L.025-2026SC-INTELIGENCIA-ARTIFICIAL.pdf
+  themenachsen:
+  - marktzugang
+  - gpai
+  - urheberrecht
+  - datenschutz
+  - grundrechte
+  - arbeit
+  - content
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Risikosystematik nach dem Vorbild der Verordnung (EU) 2024/1689: verbotene Systeme (Sozialkreditbewertung,
+    Verhaltensmanipulation), Hochrisiko (kritische Infrastruktur, Bildung, Beschäftigung, öffentliche
+    Dienste, Strafverfolgung, Migration), begrenztes Risiko (Chatbots mit Transparenzpflicht), niedriges
+    Risiko (Spamfilter, Videospiele).'
+  - Transparenz und Erklärbarkeit KI-gestützter Entscheidungen.
+  - 'Arbeitsrecht: Schutz der Beschäftigungsstabilität, Umschulungs- und Umsetzungspflichten bei KI-bedingtem
+    Stellenabbau, Bewertungsausschuss für Beschäftigungswirkungen. Das geht über Art. 11 der italienischen
+    Legge 132/2025 hinaus, die nur auf das bestehende Transparenzregime verweist.'
+  - 'Strafrecht: Verschärfung der falsedad personal bei KI-Einsatz, ausdrücklich für Deepfakes, Audiofakes
+    und ''Callfakes''; dogmatisch gestützt auf das Recht am eigenen Bild (derecho a la propia imagen)
+    nach Sentencia T-634 de 2013. Damit würde das Gesetz die Regelung der Ley 2502 de 2025 fortschreiben,
+    die bislang nur die Geldstrafe erhöht.'
+  - 'Urheberrecht: Ausnahme für Text- und Data-Mining zu Forschungszwecken im Rahmen des Drei-Stufen-Tests,
+    mit Bezug auf Art. 9 Abs. 2 der Berner Übereinkunft und Art. 21 Decisión Andina 351 de 1993; Vorsehung
+    kollektiver Verwertung. Das wäre die erste TDM-Schranke des kolumbianischen Rechts überhaupt — bislang
+    gibt es keine.'
+  - 'Innovationsförderung: regulatorische Sandkästen (sandboxes).'
+  - 'Sanktionen: Verwarnung, Geldbußen, Aussetzung der Tätigkeit, Verarbeitungsverbote.'
+  - 'Bezugsrahmen der Begründung: OECD, UNESCO und die KI-Verordnung der EU.'
+  dokumente:
+  - datum: 2026-07-21
+    typ: entwurf
+    titel: Proyecto de Ley 025 de 2026 Cámara — texto radicado con exposición de motivos
+    url: https://www.camara.gov.co/wp-content/uploads/2026/07/proyectos-ley/documentos/proyecto-36127/P.L.025-2026SC-INTELIGENCIA-ARTIFICIAL.pdf
+    sprache: es
+    urheber: Cámara de Representantes / 33 Representantes y 11 Senadores
+    verifiziert: true
+    notiz: Amtlicher Einbringungstext mit Begründung. Die Begründung ist ausführlicher als der Normtext;
+      Artikelnummern zu den einzelnen Regelungsblöcken ließen sich aus dem abrufbaren Teil nicht durchgängig
+      zuordnen.
+  - datum: 2026-07-21
+    typ: uebersicht
+    titel: INTELIGENCIA ARTIFICIAL — Verfahrensakte des Proyecto de Ley 025/2026C
+    url: https://www.camara.gov.co/inteligencia-artificial-2
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: true
+    notiz: 'Amtliche Verfahrensakte: Nummer, Titel, Einbringungsdatum, Gaceta 878/2026, Comisión Sexta,
+      Stand ''Trámite en Comisión'', Autoren und Berichterstatter.'
+  offene_punkte:
+  - Die Artikelnummerierung des Normtextes ist nicht erfasst; der abgerufene PDF-Teil enthält überwiegend
+    die exposición de motivos. Nachzuholen.
+  - Ob eine eigene Aufsichtsbehörde vorgesehen ist und ob sie bei MinCiencias, MinTIC oder der SIC angesiedelt
+    werden soll, ist nicht geklärt.
+  - 'Ob der Entwurf die erste Lesung in der Comisión Sexta bis zum Ende der Legislaturperiode 2026/2027
+    (20.06.2027) besteht, entscheidet über sein Schicksal: Nach Art. 190 Ley 5 de 1992 ist er sonst zu
+    archivieren wie seine fünf Vorgänger.'
+  monitoring_quellen:
+  - https://www.camara.gov.co/inteligencia-artificial-2
+  - https://www.camara.gov.co/proyectos-de-ley/
+  - http://leyes.senado.gov.co/
+  bezug_regelwerke:
+  - co-pl-043-2025
+  - co-conpes-4144
+  - co-ley-2502-2025
+  - co-decision-andina-351
+  - co-ley-23-1982
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - An der amtlichen Verfahrensakte der Cámara de Representantes geprueft. Status 'verfahren' und fehlendes
+    Inkrafttreten bleiben richtig. Der Entwurf ist weiterhin der einzige lebende horizontale KI-Gesetzentwurf
+    Kolumbiens.
+- id: co-pl-043-2025
+  jurisdiktion: co
+  kurztitel: PL 043/2025S – 324/2025C — Regierungsentwurf zur KI (archiviert)
+  offizieller_titel: Proyecto de Ley 043 de 2025 Senado — 324 de 2025 Cámara, por medio de la cual se
+    regula la Inteligencia Artificial en Colombia para garantizar su desarrollo ético, responsable, competitivo
+    e innovador, y se dictan otras disposiciones
+  fundstelle: Gaceta del Congreso No. 2349 de 2025 (ponencia primer debate)
+  verfahrensnummer: P.L. 043/2025 Senado — 324/2025 Cámara; proyecto-35981
+  status: gescheitert
+  status_detail: 'Von MinCiencias federführend erarbeiteter Regierungsentwurf, mit Dringlichkeitsbotschaft
+    des Präsidenten (mensaje de urgencia) eingebracht und deshalb in gemeinsamer Sitzung der Comisiones
+    Sextas beider Kammern zu behandeln. Die positive Berichterstattung für die erste Lesung lag im Dezember
+    2025 vor (Gaceta 2349/2025, Berichterstatter Gerson Lisímaco Montaño Arizala); die Regierung drängte
+    auf eine Sitzung vor dem 16.12.2025. Die Cámara führt den Entwurf am 06.09.2026 als ''Archivado (artículo
+    190 Ley 5 de 1992)''. WIDERSPRUCH: Der Bericht der Zeitschrift Cambio vom August 2026 beschreibt das
+    Vorhaben noch als ''im Kongress in Bearbeitung''. Der amtlichen Verfahrensakte ist der Vorrang zu
+    geben; die Neueinbringung als PL 025/2026C am 21.07.2026 stützt die Archivierung.
+
+    '
+  kurzbeschreibung: 'Der bislang wichtigste Regulierungsversuch Kolumbiens. Erarbeitet vom Ministerio
+    de Ciencia, Tecnología e Innovación unter Ministerin Yesenia Olaya Requene in Abstimmung mit DNP,
+    MinTIC und Bildungsministerium; nach Angaben von MinCiencias integriert er mehr als dreizehn frühere
+    Einzelinitiativen zu einem einheitlichen Rahmen. Inhaltlich: Risikoklassifizierung nach europäischem
+    Vorbild mit an das Ausmaß der Beeinträchtigung von Freiheit oder Gesundheit gekoppelten Pflichten,
+    eine Autoridad Nacional de Inteligencia Artificial mit Zertifizierungs-, Aufsichts- und Koordinierungsaufgaben
+    unter Federführung von MinCiencias, Transparenzvorgaben, regulatorische Sandkästen sowie Förderung
+    von Forschung, Talentbildung, technologischer Souveränität und Bürgerbeteiligung. Sein Scheitern erklärt,
+    warum Kolumbien 2026 kein KI-Gesetz hat.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2025-07-28
+    was_gilt: MinCiencias bringt den Entwurf im Kongress ein (Angabe des Ministeriums).
+    verifiziert: true
+    quelle: https://minciencias.gov.co/sala_de_prensa/colombia-le-vuelve-apostar-al-uso-etico-la-inteligencia-artificial-minciencias-radica
+  - datum: 2025-09-10
+    was_gilt: Einbringungsdatum in der Cámara nach der Verfahrensakte der Cámara (324/2025C).
+    verifiziert: true
+    quelle: https://www.camara.gov.co/inteligencia-artificial/
+  - datum: 2025-10-29
+    was_gilt: Einbringungsdatum im Senado nach der Verfahrensakte der Cámara (043/2025S). WIDERSPRUCH
+      zur Angabe von MinCiencias (28.07.2025) — nicht aufgelöst.
+    verifiziert: true
+    quelle: https://www.camara.gov.co/inteligencia-artificial/
+  - datum: 2025-12-03
+    was_gilt: Positive Berichterstattung für die erste Lesung liegt vor (Gaceta 2349/2025); die Regierung
+      fordert eine gemeinsame Sitzung der Comisiones Sextas vor dem 16.12.2025.
+    verifiziert: true
+    quelle: https://minciencias.gov.co/sala_de_prensa/colombia-avanza-hacia-un-marco-moderno-y-habilitante-para-la-inteligencia-artificial
+  - datum: 2026-06-20
+    was_gilt: Archivierung nach Art. 190 Ley 5 de 1992 (Ende der Legislaturperiode ohne Abschluss der
+      Debatten). Genaues Archivierungsdatum nicht ausgewiesen; der Termin entspricht dem Ende der Legislaturperiode.
+    verifiziert: false
+    quelle: https://www.camara.gov.co/inteligencia-artificial/
+  themenachsen:
+  - marktzugang
+  - gpai
+  - governance
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Risikobasierter Ansatz nach europäischem Vorbild; Pflichtendichte abhängig vom Grad der Beeinträchtigung
+    von Freiheit oder Gesundheit.
+  - Autoridad Nacional de Inteligencia Artificial mit Zertifizierungs-, Aufsichts- und Koordinierungsaufgaben,
+    federführend MinCiencias.
+  - Transparenzvorgaben, regulatorische Sandkästen, Förderung von Forschung und technologischer Souveränität,
+    Bürgerbeteiligung.
+  - 'Verfahren: mensaje de urgencia des Präsidenten mit der Folge gemeinsamer Beratung in den Comisiones
+    Sextas beider Kammern (Art. 163 CP).'
+  - 'SCHEITERN: Trotz Regierungsinitiative, Dringlichkeitsbotschaft und positiver Berichterstattung wurde
+    die erste Lesung nicht abgeschlossen. Das ist der aussagekräftigste Befund zum kolumbianischen KI-Recht:
+    Nicht inhaltlicher Dissens, sondern die Zwei-Legislaturperioden-Regel des Art. 190 Ley 5 de 1992 hat
+    sechs Entwürfe hintereinander erledigt.'
+  dokumente:
+  - datum: 2025-09-10
+    typ: uebersicht
+    titel: INTELIGENCIA ARTIFICIAL — Verfahrensakte des Proyecto de Ley 043/2025S – 324/2025C
+    url: https://www.camara.gov.co/inteligencia-artificial/
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte; weist den Stand 'Archivado (artículo 190 Ley 5 de 1992)', die Comisión
+      Sexta und den Berichterstatter aus.
+  - datum: 2025-09-10
+    typ: entwurf
+    titel: PL 043-25 — Regulación Inteligencia Artificial (texto radicado)
+    url: https://www.camara.gov.co/wp-content/uploads/2025/12/proyectos-ley/documentos/proyecto-35981/PL-043-25-REGULACION-INTELIGENCIA-ARTIFICIAL.pdf
+    sprache: es
+    urheber: Ministerio de Ciencia, Tecnología e Innovación / Congreso de la República
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte übernommen; PDF in dieser Sitzung nicht selbst geöffnet.
+  - datum: 2025-12-03
+    typ: ausschussbericht
+    titel: Ponencia para primer debate al Proyecto de Ley 043 de 2025 Senado — 324 de 2025 Cámara (Gaceta
+      2349/2025)
+    url: https://www.camara.gov.co/wp-content/uploads/2025/12/proyectos-ley/publicaciones/proyecto-35981/PPDSC-PL-043-25S-324-25C-INTELIGENCIA-ARTIFICIAL-SC.pdf
+    sprache: es
+    urheber: Comisiones Sextas Constitucionales Permanentes
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte; PDF in dieser Sitzung nicht selbst geöffnet.
+  - datum: 2026-05-25
+    typ: stellungnahme
+    titel: Comentarios al PL IA 043 de 2025 Senado — 324 de 2025 Cámara, primer debate
+    url: https://www.camara.gov.co/wp-content/uploads/2026/06/proyectos-ley/publicaciones/proyecto-35981/COMENTARIOS-PL-IA-043-DE-2025-S-324-DE-2025-C-PRIMER-DEBATE.pdf
+    sprache: es
+    urheber: Eingaben an die Comisiones Sextas (adressiert an Sen. Pedro Florez Porras)
+    verifiziert: false
+    notiz: Amtlich veröffentlichte Stellungnahme vom 25.05.2026 — Beleg dafür, dass das Verfahren bis
+      kurz vor Ende der Legislaturperiode lief.
+  - datum: 2025-07-28
+    typ: pressemitteilung
+    titel: 'Colombia le vuelve a apostar al uso ético de la inteligencia artificial: MinCiencias radica
+      nuevo proyecto de ley'
+    url: https://minciencias.gov.co/sala_de_prensa/colombia-le-vuelve-apostar-al-uso-etico-la-inteligencia-artificial-minciencias-radica
+    sprache: es
+    urheber: Ministerio de Ciencia, Tecnología e Innovación
+    verifiziert: true
+    notiz: 'Amtliche Mitteilung: Der Entwurf integriert ''mehr als dreizehn vorherige Legislativvorschläge'';
+      nennt die Autoridad Nacional de IA und die Sandkästen.'
+  - datum: 2025-12-03
+    typ: pressemitteilung
+    titel: Colombia avanza hacia un marco moderno y habilitante para la Inteligencia Artificial
+    url: https://minciencias.gov.co/sala_de_prensa/colombia-avanza-hacia-un-marco-moderno-y-habilitante-para-la-inteligencia-artificial
+    sprache: es
+    urheber: Ministerio de Ciencia, Tecnología e Innovación
+    verifiziert: true
+    notiz: Belegt die Dringlichkeitsbotschaft des Präsidenten und den Zeitdruck vor dem 16.12.2025.
+  offene_punkte:
+  - 'Widersprüchliche Einbringungsdaten: MinCiencias nennt den 28.07.2025, die Verfahrensakte der Cámara
+    den 10.09.2025 (Cámara) und den 29.10.2025 (Senado). Nicht aufgelöst; als Widerspruch belassen.'
+  - Das genaue Datum und der Rechtsgrund der Archivierung sind nicht dokumentiert.
+  - Ob PL 025/2026C den Text von PL 043/2025S übernimmt oder eigenständig ist, wurde nicht Artikel für
+    Artikel verglichen. Die Autorenlisten überschneiden sich nur teilweise; der Regierungsentwurf kam
+    von MinCiencias, der neue Entwurf aus dem Parlament.
+  monitoring_quellen:
+  - https://www.camara.gov.co/inteligencia-artificial/
+  - https://minciencias.gov.co/sala_de_prensa
+  bezug_regelwerke:
+  - co-pl-025-2026
+  - co-conpes-4144
+  - co-hoja-ruta-ia
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Kein Inkrafttreten: nach Art. 190 Ley 5 de 1992 archiviert. Status ''gescheitert'' bleibt richtig.'
+- id: co-pl-005-2024
+  jurisdiktion: co
+  kurztitel: PL 005/2024C — Ley de Inteligencia Artificial Ética y Sostenible (archiviert)
+  offizieller_titel: Proyecto de Ley 005 de 2024 Cámara — Ley de Inteligencia Artificial Ética y Sostenible
+    para el Bienestar Social
+  fundstelle: Gaceta del Congreso No. 1045 de 2024; Ponencia Gaceta 2013 de 2024
+  verfahrensnummer: P.L. 005/2024 Cámara; proyecto-33227
+  status: gescheitert
+  status_detail: 'Am 20.07.2024 — dem Eröffnungstag der Legislaturperiode — in der Cámara eingebracht,
+    Comisión Sexta, mit Ponencia (Gaceta 2013/2024) und einer ausdrücklichen Stellungnahme der SIC. Verfahrensstand
+    am 06.09.2026: Archivado. Es ist der älteste der sechs horizontalen Entwürfe und der einzige, zu dem
+    die Datenschutzaufsicht förmlich Stellung genommen hat.
+
+    '
+  kurzbeschreibung: 'Abgeordnetenentwurf für ein ethisches und nachhaltiges KI-Gesetz zum sozialen Wohl.
+    Autorinnen und Autoren: Gloria Liliana Rodríguez Valencia, Jaime Raúl Salamanca Torres, María del
+    Mar Pizarro García, Olga Lucía Velásquez Nieto und Wilmer Yair Castellanos Hernández; Berichterstatter
+    Diego Fernando Caicedo Navas und Haiver Rincón Gutiérrez, Koordinator Alejandro García Ríos. Für die
+    Datenbank wertvoll ist weniger der Entwurf selbst als die im Verfahren veröffentlichte Stellungnahme
+    der Superintendencia de Industria y Comercio — sie ist die früheste dokumentierte Positionierung der
+    kolumbianischen Datenschutzaufsicht zu einem KI-Gesetz und geht der Circular Externa 002 de 2024 voraus.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2024-07-20
+    was_gilt: Einbringung in der Cámara de Representantes; Veröffentlichung in der Gaceta 1045 de 2024.
+    verifiziert: true
+    quelle: https://www.camara.gov.co/ley-de-inteligencia-artificial-etica
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  - datenschutz
+  regelungsschwerpunkte:
+  - Ethik- und Nachhaltigkeitsansatz statt Risikoklassifizierung; 'bienestar social' als Leitbegriff.
+  - Stellungnahme der SIC im Gesetzgebungsverfahren — der Ort, an dem die Datenschutzaufsicht ihre Position
+    zu einem KI-Gesetz erstmals aktenkundig gemacht hat.
+  dokumente:
+  - datum: 2024-07-20
+    typ: uebersicht
+    titel: LEY DE INTELIGENCIA ARTIFICIAL ÉTICA — Verfahrensakte des PL 005/2024C
+    url: https://www.camara.gov.co/ley-de-inteligencia-artificial-etica
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte mit Stand 'Archivado', Autoren, Ponentes und Dokumentenliste.
+  - datum: 2024-07-20
+    typ: entwurf
+    titel: PL 005 de 2024 Cámara — Ley de Inteligencia Artificial Ética (texto radicado)
+    url: https://www.camara.gov.co/wp-content/uploads/2025/10/proyectos-ley/documentos/proyecto-33227/pl_005_2024c_ley_de_inteligencia_artificial_etica-5f51996a.pdf
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte; PDF nicht selbst geöffnet.
+  - datum: 2024-09-01
+    typ: stellungnahme
+    titel: Comentarios de la Superintendencia de Industria y Comercio al PL 005 de 2024 Cámara
+    url: https://www.camara.gov.co/wp-content/uploads/2025/10/proyectos-ley/publicaciones/proyecto-33227/05_24c_comenntarios_sic-218e7db7.pdf
+    sprache: es
+    urheber: Superintendencia de Industria y Comercio
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte; PDF nicht selbst geöffnet. Datum geschätzt. Inhaltlich
+      der wichtigste Einzelbeleg dieses Verfahrens.
+  offene_punkte:
+  - Inhalt der SIC-Stellungnahme ist nicht erfasst — lohnender Prüfpunkt, weil er das Verhältnis von Datenschutzaufsicht
+    und künftiger KI-Aufsicht klären dürfte.
+  monitoring_quellen:
+  - https://www.camara.gov.co/ley-de-inteligencia-artificial-etica
+  bezug_regelwerke:
+  - co-pl-043-2025
+  - co-sic-circular-002-2024
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Kein Inkrafttreten: archivado. Status ''gescheitert'' bleibt richtig.'
+- id: co-pl-098-2025
+  jurisdiktion: co
+  kurztitel: PL 098/2025C — Marco regulatorio de IA (archiviert)
+  offizieller_titel: Proyecto de Ley 098 de 2025 Cámara, por medio de la cual se establece un marco regulatorio
+    para el desarrollo y uso de la inteligencia artificial
+  fundstelle: Gaceta del Congreso No. 1484 de 2025
+  verfahrensnummer: P.L. 098/2025 Cámara; proyecto-33950
+  status: gescheitert
+  status_detail: 'Am 29.07.2025 in der Cámara eingebracht, Comisión Sexta, Verfahrensstand am 06.09.2026:
+    Archivado nach Art. 190 Ley 5 de 1992.
+
+    '
+  kurzbeschreibung: 'Abgeordnetenentwurf für einen KI-Regulierungsrahmen mit psychosozialem und digital-gerechtigkeitsbezogenem
+    Schwerpunkt. Autorinnen und Autoren: Gloria Liliana Rodríguez Valencia, Olga Lucía Velásquez Nieto
+    und Wilmer Yair Castellanos Hernández — dieselbe Gruppe, die schon PL 005/2024C eingebracht hatte.
+    Der Entwurf ist der zweite Anlauf derselben Abgeordneten und lief parallel zum Regierungsentwurf PL
+    043/2025S; die Konkurrenz mehrerer Entwürfe in derselben Kommission gehört zu den Gründen, aus denen
+    keiner die erste Lesung erreicht hat.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2025-07-29
+    was_gilt: Einbringung in der Cámara; Gaceta 1484 de 2025.
+    verifiziert: true
+    quelle: https://www.camara.gov.co/marco-regulatorio-inteligencia-artificial-263/
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  - arbeit
+  regelungsschwerpunkte:
+  - Regulierungsrahmen mit psychosozialem Fokus und dem Leitbegriff der digitalen Gerechtigkeit (justicia
+    digital).
+  - Zweiter Anlauf derselben Abgeordnetengruppe nach PL 005/2024C.
+  dokumente:
+  - datum: 2025-07-29
+    typ: uebersicht
+    titel: MARCO REGULATORIO INTELIGENCIA ARTIFICIAL — Verfahrensakte des PL 098/2025C
+    url: https://www.camara.gov.co/marco-regulatorio-inteligencia-artificial-263/
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte mit Stand 'Archivado (artículo 190 Ley 5 de 1992)'.
+  - datum: 2025-07-29
+    typ: entwurf
+    titel: P.L. 098 de 2025 — Marco regulatorio de inteligencia artificial (texto radicado)
+    url: https://www.camara.gov.co/wp-content/uploads/2025/10/proyectos-ley/documentos/proyecto-33950/p_l_098_2025sc_marco_regulatorio_de_inteligencia_artificial-f6c87c61.pdf
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte; PDF nicht selbst geöffnet.
+  offene_punkte:
+  - Inhalt des Entwurfs nicht im Einzelnen erfasst.
+  monitoring_quellen:
+  - https://www.camara.gov.co/marco-regulatorio-inteligencia-artificial-263/
+  bezug_regelwerke:
+  - co-pl-005-2024
+  - co-pl-043-2025
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Kein Inkrafttreten: archivado. Status ''gescheitert'' bleibt richtig.'
+- id: co-pl-384-2025
+  jurisdiktion: co
+  kurztitel: PL 384/2025C — KI-Plattformen und Minderjährige (archiviert)
+  offizieller_titel: Proyecto de Ley 384 de 2025 Cámara, por medio de la cual se regula el acceso y uso
+    de plataformas digitales de inteligencia artificial en niños, niñas y adolescentes y se dictan otras
+    disposiciones
+  fundstelle: Gaceta del Congreso No. 2379 de 2025 (ponencia primer debate)
+  verfahrensnummer: P.L. 384/2025 Cámara; proyecto-35918
+  status: gescheitert
+  status_detail: 'Am 01.10.2025 in der Cámara eingebracht, Comisión Sexta, Berichterstatterin Ingrid Marlen
+    Sogamoso Alfonso, Ponencia für die erste Lesung in der Gaceta 2379/2025. Verfahrensstand am 06.09.2026:
+    Archivado nach Art. 190 Ley 5 de 1992. Von den sechs Entwürfen der einzige mit einem klar umgrenzten
+    sektoralen Gegenstand — und damit derjenige, der eine reelle Chance auf Wiedervorlage hat.
+
+    '
+  kurzbeschreibung: 'Regelung des Zugangs von Kindern und Jugendlichen zu digitalen KI-Plattformen. Neun
+    Abgeordnete und drei Senatorinnen und Senatoren zeichnen als Autoren, darunter Ángela María Vergara
+    González, Juana Carolina Londoño Jaramillo, Karina Espinosa Oliver und Marcos Daniel Pineda García.
+    Der Regelungsansatz entspricht funktional Art. 4 Abs. 4 der italienischen Legge 132/2025, der den
+    Zugang von unter Vierzehnjährigen zu KI-Technologien an die Einwilligung der Sorgeberechtigten bindet.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2025-10-01
+    was_gilt: Einbringung in der Cámara de Representantes.
+    verifiziert: true
+    quelle: https://www.camara.gov.co/regulacion-y-uso-de-la-ia/
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - Zugang und Nutzung digitaler KI-Plattformen durch Kinder und Jugendliche.
+  - 'Rechtsvergleichend: funktional dasselbe Regelungsziel wie Art. 4 Abs. 4 Legge 132/2025 (Italien)
+    — dort mit einer Altersgrenze von vierzehn Jahren und Einwilligung der Sorgeberechtigten.'
+  dokumente:
+  - datum: 2025-10-01
+    typ: uebersicht
+    titel: REGULACIÓN Y USO DE LA IA — Verfahrensakte des PL 384/2025C
+    url: https://www.camara.gov.co/regulacion-y-uso-de-la-ia/
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte mit Stand 'Archivado', Autoren, Ponentin und Dokumenten.
+  - datum: 2025-10-01
+    typ: entwurf
+    titel: P.L. 384 de 2025 — Regulación y uso de la IA (texto radicado)
+    url: https://www.camara.gov.co/wp-content/uploads/2025/12/proyectos-ley/documentos/proyecto-35918/P.L.384-2025SC-REGULACION-Y-USO-DE-LA-IA.pdf
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte; PDF nicht selbst geöffnet.
+  - datum: 2025-12-01
+    typ: ausschussbericht
+    titel: Ponencia para primer debate al PL 384 de 2025 Cámara (Gaceta 2379/2025)
+    url: https://www.camara.gov.co/wp-content/uploads/2025/12/proyectos-ley/publicaciones/proyecto-35918/PONENCIA-384.25C.pdf
+    sprache: es
+    urheber: Comisión Sexta Constitucional Permanente, Cámara de Representantes
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte; PDF nicht selbst geöffnet. Datum aus der Gaceta-Nummer
+      geschätzt.
+  offene_punkte:
+  - Altersgrenze, Einwilligungsmodell und Sanktionsregime des Entwurfs sind nicht erfasst.
+  monitoring_quellen:
+  - https://www.camara.gov.co/regulacion-y-uso-de-la-ia/
+  bezug_regelwerke:
+  - co-pl-025-2026
+  - co-ley-1581-2012
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Kein Inkrafttreten: archivado. Status ''gescheitert'' bleibt richtig.'
+- id: co-pl-447-2024-idec
+  jurisdiktion: co
+  kurztitel: Ley de Datos / IDEC — PL 447/2024C – 248/2024S (archiviert)
+  offizieller_titel: Proyecto de Ley 447 de 2024 Cámara — 248 de 2024 Senado, por medio de la cual se
+    dictan disposiciones para el suministro, intercambio y aprovechamiento de la infraestructura de datos
+    del Estado colombiano (IDEC) y la interoperabilidad de los sistemas de información de las entidades
+    públicas
+  fundstelle: Gaceta del Congreso No. 654 de 2024 (texto original); Gaceta 1484 de 2024 (texto definitivo
+    plenaria Cámara)
+  verfahrensnummer: P.L. 447/2024 Cámara — 248/2024 Senado
+  status: gescheitert
+  status_detail: 'Regierungsentwurf des MinTIC, am 22.05.2024 in der Cámara eingebracht, am 03.09.2024
+    im Plenum der Cámara verabschiedet (Acta 171), am 26.11.2024 in dritter Lesung von der Comisión Sexta
+    des Senats mit zehn Stimmen gebilligt. Danach im Senatsplenum nicht mehr abgeschlossen. Verfahrensstand
+    am 06.09.2026: Archivado. Die ''Ley de Datos'', in der Öffentlichkeit als Grundlage der kolumbianischen
+    KI-Entwicklung angekündigt, ist damit ebenfalls gescheitert.
+
+    '
+  kurzbeschreibung: 'Vier Kapitel, 35 Artikel. Der Entwurf sollte die Bereitstellung, den Austausch und
+    die Nutzung der staatlichen Dateninfrastruktur (IDEC) sowie die Interoperabilität der Informationssysteme
+    öffentlicher Stellen regeln. Der Datenschutz sollte über anonymisierte oder pseudonymisierte Daten
+    gewahrt werden. Erklärtes Ziel war ausdrücklich, die Datengrundlage für die Entwicklung künstlicher
+    Intelligenz in Kolumbien zu schaffen — MinTIC bewarb ihn als Gesetz ''para impulsar la inteligencia
+    artificial en el país''. Sein Scheitern bedeutet, dass Kolumbien weder ein KI-Gesetz noch ein Datenzugangsgesetz
+    hat.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2024-05-22
+    was_gilt: Einbringung in der Cámara de Representantes durch den Minister für Informations- und Kommunikationstechnologien.
+    verifiziert: true
+    quelle: https://www.camara.gov.co/infraestructura-de-datos-del-estado-colombiano-1017/
+  - datum: 2024-09-03
+    was_gilt: Verabschiedung im Plenum der Cámara (Acta 171); endgültiger Text in der Gaceta 1484 de 2024.
+    verifiziert: true
+    quelle: https://www.camara.gov.co/infraestructura-de-datos-del-estado-colombiano-1017/
+  - datum: 2024-11-26
+    was_gilt: Billigung in dritter Lesung durch die Comisión Sexta des Senats mit zehn Stimmen; Berichterstatter
+      und Kommissionsvorsitzender Sen. Pedro Flórez.
+    verifiziert: true
+    quelle: https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/398857:Comision-Sexta-del-Senado-aprueba-en-tercer-debate-el-Proyecto-de-Ley-de-Datos-para-impulsar-la-inteligencia-artificial-en-el-pais
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - Vier Kapitel, 35 Artikel; Gegenstand ist die Infraestructura de Datos del Estado Colombiano (IDEC)
+    und die Interoperabilität der Informationssysteme öffentlicher Stellen.
+  - Datenschutz durch Anonymisierung und Pseudonymisierung statt durch Einwilligung.
+  - 'Erklärter KI-Zweck: Bereitstellung der Datengrundlage für die öffentliche Politik und die KI-Entwicklung.'
+  - 'Verfahrensgeschichte: drei von vier Lesungen bestanden, gescheitert im Senatsplenum. Von allen kolumbianischen
+    Digitalvorhaben ist dieses am weitesten gekommen.'
+  dokumente:
+  - datum: 2024-05-22
+    typ: uebersicht
+    titel: INFRAESTRUCTURA DE DATOS DEL ESTADO COLOMBIANO — Verfahrensakte des PL 447/2024C – 248/2024S
+    url: https://www.camara.gov.co/infraestructura-de-datos-del-estado-colombiano-1017/
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte mit Stand 'Archivado', Autoren, Ponentes, Gacetas und dem Abstimmungsprotokoll
+      Acta 171 vom 03.09.2024.
+  - datum: 2024-05-22
+    typ: entwurf
+    titel: PL 447 de 2024 Cámara — Infraestructura de Datos del Estado Colombiano (texto radicado)
+    url: https://www.camara.gov.co/wp-content/uploads/2025/10/proyectos-ley/documentos/proyecto-33228/pl_447_2024c_infraestructura_de_datos_del_estado_colombiano_0-14f1fca8.pdf
+    sprache: es
+    urheber: Ministerio TIC / Cámara de Representantes
+    verifiziert: false
+    notiz: URL aus der amtlichen Verfahrensakte; PDF nicht selbst geöffnet.
+  - datum: 2024-11-26
+    typ: pressemitteilung
+    titel: Comisión Sexta del Senado aprueba en tercer debate el Proyecto de Ley de Datos para impulsar
+      la inteligencia artificial en el país
+    url: https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/398857:Comision-Sexta-del-Senado-aprueba-en-tercer-debate-el-Proyecto-de-Ley-de-Datos-para-impulsar-la-inteligencia-artificial-en-el-pais
+    sprache: es
+    urheber: Ministerio TIC
+    verifiziert: true
+    notiz: 'Amtliche Mitteilung: Projektnummern Senado 248/2024 und Cámara 447/2024, vier Kapitel, 35
+      Artikel, zehn Ja-Stimmen.'
+  offene_punkte:
+  - Ob die Regierung einen Neuanlauf der Ley de Datos plant, ist nicht ermittelt.
+  monitoring_quellen:
+  - https://www.camara.gov.co/infraestructura-de-datos-del-estado-colombiano-1017/
+  - https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/
+  bezug_regelwerke:
+  - co-conpes-4144
+  - co-ley-1581-2012
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Kein Inkrafttreten: archivado. Status ''gescheitert'' bleibt richtig.'
+- id: co-ley-23-1982
+  jurisdiktion: co
+  kurztitel: Ley 23 de 1982 — kolumbianisches Urheberrechtsgesetz
+  offizieller_titel: Ley 23 de 1982, sobre derechos de autor
+  fundstelle: Diario Oficial, 1982; konsolidierte Fassung im Gestor Normativo der Función Pública
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Grundgesetz des kolumbianischen Urheberrechts, mehrfach geändert, unter anderem durch
+    die Ley 44 de 1993, die Ley 1520 de 2012 (Neufassung des Definitionsartikels 8) und die Ley 1915 de
+    2018 (Schranken und Ausnahmen). Ein KI-Bezug fehlt vollständig. Die Frage der Schutzfähigkeit KI-erzeugter
+    Erzeugnisse ist in Kolumbien nicht vom Gesetzgeber, sondern von der Registerbehörde DNDA entschieden
+    worden.
+
+    '
+  kurzbeschreibung: 'Das Gesetz schützt Werke der Wissenschaft, Literatur und Kunst. Art. 2 (i.d.F. der
+    Ley 44 de 1993) erfasst ''todas las creaciones del espíritu en el campo científico, literario y artístico,
+    cualquiera que sea el modo o forma de expresión''. Der Rückgriff auf die ''creación del espíritu''
+    ist der dogmatische Anker, mit dem die Dirección Nacional de Derecho de Autor (DNDA) 2023 dreimal
+    die Eintragung KI-erzeugter Erzeugnisse abgelehnt hat: Ohne menschliche Schöpfung kein Werk. Art.
+    8 enthält den Definitionskatalog (i.d.F. des Art. 2 Ley 1520 de 2012). Sanktionen ergeben sich aus
+    dem Urheberstrafrecht (Art. 270 ff. Código Penal) und dem Zivilrecht. Entscheidend für das KI-Recht
+    ist die Lücke: Kolumbien kennt KEINE Schranke für Text- und Data-Mining. Die Ley 1915 de 2018 hat
+    einen abschließenden Katalog neuer Ausnahmen eingeführt — vorübergehende technische Vervielfältigung,
+    Bibliotheksprivilegien, Parodie und Karikatur, Unterrichtsvervielfältigung —, aber gerade kein TDM.
+    Das Training generativer Modelle auf geschützten Werken hat in Kolumbien damit keine gesetzliche Grundlage.
+
+    '
+  inkrafttreten:
+    datum: 1982-02-19
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3431
+    fundstelle_norm: 'ARTÍCULO 260: ''Esta Ley regirá a partir de su promulgación.'' Promulgation = Veroeffentlichung
+      im Diario Oficial No. 35.949 vom 19.02.1982 (amtlicher Schlussvermerk des Gestor Normativo); Sanktion
+      am 28.01.1982'
+  anwendungsdaten:
+  - datum: 1993-02-05
+    was_gilt: Ley 44 de 1993 ergänzt Art. 2 (Werkbegriff).
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3431
+  - datum: 2012-04-13
+    was_gilt: Ley 1520 de 2012 fasst Art. 8 (Definitionen) neu.
+    verifiziert: true
+    quelle: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3431
+  - datum: 2018-07-12
+    was_gilt: Ley 1915 de 2018 (Diario Oficial 50.652) führt in Art. 16 einen neuen Katalog von Schranken
+      ein — ohne TDM-Ausnahme.
+    verifiziert: true
+    quelle: http://www.secretariasenado.gov.co/senado/basedoc/ley_1915_2018.html
+  - datum: 2023-05-02
+    was_gilt: 'DNDA, Resolución 137: Ablehnung der Eintragung von ''Conversaciones Poéticas con ChatGPT''.'
+    verifiziert: false
+    quelle: https://www.institutoautor.com/colombia-la-dnda-deniega-el-registro-de-creaciones-desarrolladas-con-inteligencia-artificial/
+  - datum: 2023-06-14
+    was_gilt: 'DNDA, Resolución 185: Ablehnung der Eintragung mit Midjourney erzeugter Bildwerke.'
+    verifiziert: false
+    quelle: https://www.institutoautor.com/colombia-la-dnda-deniega-el-registro-de-creaciones-desarrolladas-con-inteligencia-artificial/
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - 'Art. 2 (i.d.F. der Ley 44 de 1993): Werkbegriff — ''todas las creaciones del espíritu en el campo
+    científico, literario y artístico, cualquiera que sea el modo o forma de expresión''. Der Begriff
+    ''creación del espíritu'' setzt einen menschlichen Schöpfer voraus; anders als Italien mit Art. 25
+    lit. a Legge 132/2025 hat Kolumbien das nie ausdrücklich in den Gesetzestext geschrieben.'
+  - 'Art. 8 (i.d.F. des Art. 2 Ley 1520 de 2012): Definitionskatalog, unter anderem der Werkarten.'
+  - 'SCHRANKEN (Art. 16 Ley 1915 de 2018): lit. a vorübergehende elektronische Vervielfältigung, die ''transitoria
+    o accesoria'' ist und einen integralen und wesentlichen Bestandteil eines technischen Verfahrens bildet,
+    ohne eigenständige wirtschaftliche Bedeutung; lit. b und c Bibliotheksausleihe und Terminalzugang
+    für Forschung und persönliches Studium; lit. d Parodie und Karikatur; lit. e reprografische Vervielfältigung
+    für den Unterricht ohne Gewinnerzielungsabsicht.'
+  - KEINE TDM-SCHRANKE. Die Schranke der vorübergehenden Vervielfältigung erfasst Zwischenspeicherungen
+    im Übertragungsvorgang, nicht die dauerhafte Auswertung eines Korpus zu Trainingszwecken. Wer in Kolumbien
+    Modelle auf geschützten Werken trainiert, kann sich auf keine gesetzliche Ausnahme berufen — der Unterschied
+    zu Japan (Art. 30-4), zur EU (Art. 3 und 4 DSM-RL) und zu Italien (Art. 70-septies l. 633/1941) ist
+    fundamental.
+  - Der Gesetzentwurf PL 025/2026C will erstmals eine Forschungs-TDM-Schranke einführen und beruft sich
+    dafür auf den Drei-Stufen-Test und Art. 21 Decisión Andina 351 de 1993.
+  dokumente:
+  - datum: 1982-01-28
+    typ: konsolidiert
+    titel: Ley 23 de 1982 — Gestor Normativo, texto vigente con notas de modificación
+    url: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3431
+    sprache: es
+    urheber: Departamento Administrativo de la Función Pública
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung, im Browser geprüft. Bestätigt Art. 2 i.d.F. der Ley 44 de 1993
+      und Art. 8 i.d.F. der Ley 1520 de 2012.
+  - datum: 2018-07-12
+    typ: konsolidiert
+    titel: Ley 1915 de 2018 — texto vigente (Diario Oficial 50.652)
+    url: http://www.secretariasenado.gov.co/senado/basedoc/ley_1915_2018.html
+    sprache: es
+    urheber: Senado de la República, Secretaría General
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung. Grundlage der Feststellung, dass Art. 16 keine TDM-Schranke
+      enthält.
+  - datum: 2023-06-14
+    typ: bericht
+    titel: 'Colombia: La DNDA se pronuncia sobre el registro de creaciones desarrolladas con inteligencia
+      artificial (Resoluciones 137, 147 y 185 de 2023)'
+    url: https://www.institutoautor.com/colombia-la-dnda-deniega-el-registro-de-creaciones-desarrolladas-con-inteligencia-artificial/
+    sprache: es
+    urheber: Instituto de Derecho de Autor (Madrid)
+    verifiziert: true
+    notiz: SEKUNDÄRQUELLE. Nennt drei Ablehnungsbescheide der DNDA aus 2023 mit Nummer, Datum, Gegenstand
+      und Rechtsgrundlagen. Die amtlichen Resolutionen selbst sind im Bestand nicht abgerufen.
+  offene_punkte:
+  - Die drei DNDA-Resolutionen (137 vom 02.05.2023, 147 vom 18.05.2023, 185 vom 14.06.2023) sind nur über
+    eine Sekundärquelle belegt. Der amtliche Weg führt über derechodeautor.gov.co; die dortige Normensammlung
+    war nicht auffindbar.
+  - Ob die DNDA seit 2023 ihre Linie geändert oder ein Verwaltungsgericht sie überprüft hat, ist nicht
+    ermittelt.
+  - Das genaue Verkündungsdatum der Ley 23 de 1982 (28.01.1982) ist nicht aus dem Dokumentkopf bestätigt.
+  monitoring_quellen:
+  - https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3431
+  - https://www.derechodeautor.gov.co/
+  bezug_regelwerke:
+  - co-decision-andina-351
+  - co-constitucion-1991
+  - co-pl-025-2026
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'FEHLER KORRIGIERT. Eingetragen war das Sanktionsdatum (28.01.1982). Art. 260 knuepft die Geltung
+    ausdruecklich an die Promulgation; diese erfolgte nach dem amtlichen Vermerk im Gestor Normativo erst
+    mit dem Diario Oficial No. 35.949 vom 19.02.1982. Status ''anwendbar'' bleibt richtig. Die uebrigen
+    Anwendungsdaten (Ley 44/1993, Ley 1520/2012, Ley 1915/2018) sind unveraendert. Vorher: 1982-01-28.'
+- id: co-decision-andina-351
+  jurisdiktion: co
+  kurztitel: Decisión Andina 351 de 1993 — gemeinsames Urheberrecht der Andengemeinschaft
+  offizieller_titel: Decisión 351 de la Comisión del Acuerdo de Cartagena — Régimen Común sobre Derecho
+    de Autor y Derechos Conexos
+  fundstelle: Gaceta Oficial del Acuerdo de Cartagena; Decisión 351 de 17 de diciembre de 1993
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Unmittelbar geltendes und vorrangiges Gemeinschaftsrecht der Comunidad Andina für Bolivien,
+    Kolumbien, Ecuador und Peru. Es geht dem nationalen Urheberrecht vor; der Tribunal de Justicia de
+    la Comunidad Andina legt es im Vorabentscheidungsverfahren aus. Für das kolumbianische KI-Recht ist
+    es die eigentliche Sperre gegen die Schutzfähigkeit maschinell erzeugter Erzeugnisse: Autor ist nach
+    der Definition des Art. 3 die natürliche Person, die die geistige Schöpfung erbringt. NICHT AUS DER
+    PRIMÄRQUELLE GEPRÜFT: Weder comunidadandina.org noch WIPO Lex lieferten einen abrufbaren Volltext.
+
+    '
+  kurzbeschreibung: 'Gemeinsames Urheberrechtsregime der Andengemeinschaft von 1993. Es definiert Werk
+    und Autor, bestimmt Umfang und Dauer der Rechte, regelt Schranken und verwandte Schutzrechte. Adressaten
+    sind die vier Mitgliedstaaten und ihre Rechtsunterworfenen. Die kolumbianische DNDA hat ihre Ablehnungsbescheide
+    zu KI-erzeugten Erzeugnissen ausdrücklich auf die Decisión 351 zusammen mit der Ley 23 de 1982 gestützt.
+    Der Gesetzentwurf PL 025/2026C beruft sich für die geplante TDM-Schranke auf Art. 21 der Decisión
+    — die Schrankenvorschrift, die den Drei-Stufen-Test umsetzt. Damit steht fest: Eine kolumbianische
+    TDM-Ausnahme muss sich am Andengemeinschaftsrecht messen lassen, und eine Ausnahme, die über Art.
+    21 hinausgeht, wäre gemeinschaftsrechtswidrig. Das ist die eigentliche Schranke der kolumbianischen
+    Gestaltungsfreiheit im Trainingsdatenrecht.
+
+    '
+  inkrafttreten:
+    datum: 1993-12-21
+    verifiziert: true
+    quelle: https://www.wipo.int/wipolex/es/legislation/details/9445
+    fundstelle_norm: 'Die Decisión 351 enthaelt selbst keine Vigencia-Klausel (Capítulo XIV Disposiciones
+      Complementarias, Art. 58-61, sowie eine Disposición Transitoria Única). Massgeblich ist Art. 3 des
+      Tratado de Creación del Tribunal de Justicia de la Comunidad Andina: unmittelbare Anwendbarkeit
+      ab der Veroeffentlichung in der Gaceta Oficial del Acuerdo de Cartagena. Veroeffentlicht in der
+      Gaceta Oficial No. 145 vom 21.12.1993; angenommen in Lima am 17.12.1993.'
+  anwendungsdaten: []
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - 'Art. 3: Legaldefinitionen. Autor ist die natürliche Person, die die geistige Schöpfung erbringt;
+    Werk ist jede originelle geistige Schöpfung, die verbreitet oder vervielfältigt werden kann. Diese
+    Definition ist der Grund, aus dem KI-Erzeugnisse in Kolumbien nicht eintragungsfähig sind.'
+  - 'Art. 21: Schranken und Ausnahmen; Umsetzung des Drei-Stufen-Tests. Bezugspunkt der im PL 025/2026C
+    geplanten TDM-Ausnahme.'
+  - 'VORRANG: Als Andengemeinschaftsrecht geht die Decisión dem nationalen Recht vor. Ein kolumbianisches
+    KI-Gesetz kann das Urheberrecht deshalb nur innerhalb des von Art. 21 gezogenen Rahmens öffnen — ein
+    struktureller Unterschied zur Lage in Japan oder den USA.'
+  dokumente:
+  - datum: 1993-12-17
+    typ: konsolidiert
+    titel: Decisión N° 351 de la Comisión de la Comunidad Andina — Régimen Común sobre Derecho de Autor
+      y Derechos Conexos (WIPO Lex)
+    url: https://www.wipo.int/wipolex/es/legislation/details/18831
+    sprache: es
+    urheber: Comisión del Acuerdo de Cartagena; Nachweis bei der WIPO
+    verifiziert: false
+    notiz: Der Datensatz existiert in WIPO Lex; der Volltextabruf schlug in dieser Sitzung fehl (404 auf
+      der Textseite). Inhaltliche Angaben stammen aus dem Gesetzentwurf PL 025/2026C und aus den DNDA-Bescheiden.
+  - datum: 2026-07-21
+    typ: entwurf
+    titel: PL 025/2026C — beruft sich für die TDM-Ausnahme auf Art. 9 Abs. 2 der Berner Übereinkunft und
+      Art. 21 Decisión Andina 351 de 1993
+    url: https://www.camara.gov.co/wp-content/uploads/2026/07/proyectos-ley/documentos/proyecto-36127/P.L.025-2026SC-INTELIGENCIA-ARTIFICIAL.pdf
+    sprache: es
+    urheber: Cámara de Representantes
+    verifiziert: true
+    notiz: Ersatzbeleg für die Bedeutung des Art. 21 Decisión 351 im kolumbianischen KI-Diskurs.
+  offene_punkte:
+  - Volltext, Gaceta-Oficial-Nummer und der genaue Wortlaut der Art. 3 und 21 sind nachzuholen (comunidadandina.org/normativa-andina/gacetas
+    oder WIPO Lex).
+  - Ob der Tribunal de Justicia de la Comunidad Andina sich zu KI-erzeugten Erzeugnissen geäußert hat,
+    ist nicht ermittelt — das wäre die erste supranationale Entscheidung Lateinamerikas zu dieser Frage.
+  monitoring_quellen:
+  - https://www.comunidadandina.org/normativa-andina/decisiones/
+  - https://www.wipo.int/wipolex/es/legislation/details/18831
+  bezug_regelwerke:
+  - co-ley-23-1982
+  - co-pl-025-2026
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'FEHLER KORRIGIERT. Eingetragen war das Datum der Beschlussfassung durch die Comisión del Acuerdo
+    de Cartagena (17.12.1993). Am amtlichen Text der Comunidad Andina wurde geprueft, dass eine Vigencia-Klausel
+    fehlt; WIPO Lex weist als Inkrafttreten den 21.12.1993 aus, das Datum der Gaceta Oficial No. 145.
+    Status ''anwendbar'' bleibt richtig; die Decisión gilt unveraendert als vorrangiges Gemeinschaftsrecht
+    der Andengemeinschaft. Vorher: 1993-12-17.'
+- id: co-resolucion-1644-2026
+  jurisdiktion: co
+  kurztitel: Resolución 1644 de 2026 — Telemedizin mit KI-Vorgaben
+  offizieller_titel: Resolución 1644 de 2026 del Ministerio de Salud y Protección Social, por la cual
+    se actualizan las disposiciones sobre telesalud y telemedicina
+  fundstelle: Ministerio de Salud y Protección Social, Resolución 1644 de 31 de julio de 2026
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Am 31.07.2026 erlassen; ersetzt die Resolución 2654 de 2019. Sie gilt seit dem Erlass,
+    mit einer zwölfmonatigen Übergangsfrist für bereits zugelassene Dienste. Sie ist die einzige sektorale
+    kolumbianische Vorschrift mit ausdrücklichen KI-Anforderungen. NICHT AUS DER PRIMÄRQUELLE GEPRÜFT:
+    Der amtliche PDF-Volltext auf minsalud.gov.co war unter der aus Sekundärquellen bekannten Adresse
+    nicht abrufbar.
+
+    '
+  kurzbeschreibung: 'Neuordnung der Telegesundheit und Telemedizin in Kolumbien mit vier Versorgungsformen.
+    Für das KI-Recht enthält sie den Grundsatz, dass künstliche Intelligenz assistiert, aber das klinische
+    Urteil nicht ersetzt und die Entscheidungshoheit bei der Ärztin oder dem Arzt bleibt. Nach dem zugrunde
+    liegenden Entwurf (Art. 23) müssen KI-gestützte Plattformen unter menschlicher Aufsicht arbeiten und
+    Nachvollziehbarkeit, dokumentierte Funktionsnachweise, Algorithmenvalidierung, hochwertige Trainingsdaten
+    und Vorkehrungen gegen Verzerrungen bieten; KI-Systeme mit diagnostischer Funktion bedürfen der Registrierung
+    beim INVIMA als Medizinprodukt. Adressaten sind EPS, IPS und Anbieter digitaler Gesundheitsdienste.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-31
+    verifiziert: true
+    quelle: https://consultorsalud.com/wp-content/uploads/2026/08/Resolucion-No-1644-de-2026.pdf
+    fundstelle_norm: 'Artículo 44. Vigencia y derogatoria: ''La presente resolución rige a partir de la
+      fecha de su expedición, y deroga la Resolución 2654 de 2019.'' Ausgefertigt am 31.07.2026 (Kopfzeile:
+      ''001644 DE 31 JUL 2026''), unterzeichnet vom Ministro de Salud y Protección Social Guillermo Alfonso
+      Jaramillo Martínez'
+  anwendungsdaten:
+  - datum: 2027-07-31
+    was_gilt: Ablauf der Uebergangsfrist von zwoelf Monaten nach Artículo 43 (Disposición transitoria)
+      fuer Leistungserbringer, die bei Inkrafttreten bereits ueber zugelassene Telemedizindienste verfuegen;
+      bis dahin behalten die bestehenden habilitaciones ihre rechtliche und operative Gueltigkeit.
+    verifiziert: true
+    quelle: https://consultorsalud.com/wp-content/uploads/2026/08/Resolucion-No-1644-de-2026.pdf
+  - datum: 2027-07-31
+    was_gilt: Ablauf der Frist von zwoelf Monaten ab Erlass, binnen derer das Ministerio de Salud y Protección
+      Social nach Artículo 23 Parágrafo die technischen Leitlinien fuer Einfuehrung, Bewertung und Einsatz
+      KI-gestuetzter Plattformen in der Telemedizin zu erlassen hat.
+    verifiziert: true
+    quelle: https://consultorsalud.com/wp-content/uploads/2026/08/Resolucion-No-1644-de-2026.pdf
+  themenachsen:
+  - sektor-medizin
+  - governance
+  - haftung
+  - datenschutz
+  regelungsschwerpunkte:
+  - Ersetzt die Resolución 2654 de 2019; vier Modalitäten der telemedizinischen Versorgung.
+  - 'KI als Hilfsmittel: ''La IA se reconoce como una herramienta que asiste, pero no reemplaza el juicio
+    clínico: el profesional conserva el control de la decisión.'' Das ist funktional dieselbe Regel wie
+    Art. 7 der italienischen Legge 132/2025 und wie das Kriterium der ''no sustitución de la racionalidad
+    humana'' aus T-323/24 — dreimal derselbe Gedanke in drei verschiedenen Rechtsgebieten.'
+  - 'Anforderungen nach dem Entwurf (Art. 23): menschliche Aufsicht, Rückverfolgbarkeit, dokumentierte
+    Funktionsnachweise, Algorithmenvalidierung, Qualität der Trainingsdaten, Mechanismen gegen Verzerrungen.'
+  - KI-Systeme mit diagnostischer Funktion sind beim INVIMA als Medizinprodukt zu registrieren — der einzige
+    kolumbianische Marktzugangstatbestand für KI.
+  dokumente:
+  - datum: 2026-06-01
+    typ: konsultation
+    titel: Proyecto de Resolución de Telesalud y Telemedicina (Konsultationsfassung mit Art. 23 zur künstlichen
+      Intelligenz)
+    url: https://consultorsalud.com/wp-content/uploads/2026/06/PR-Telesalud-y-Telemedicina.pdf
+    sprache: es
+    urheber: Ministerio de Salud y Protección Social (Entwurf), gespiegelt bei Consultorsalud
+    verifiziert: true
+    notiz: Konsultationsfassung mit dem KI-Artikel. Nicht die verkündete Endfassung; gespiegelt auf einer
+      Fachplattform, nicht auf minsalud.gov.co.
+  - datum: 2026-07-31
+    typ: endfassung
+    titel: Resolución No. 1644 de 2026 — Ministerio de Salud y Protección Social
+    url: https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%201644%20de%202026.pdf
+    sprache: es
+    urheber: Ministerio de Salud y Protección Social
+    verifiziert: false
+    notiz: Amtliche Adresse aus einer Sekundärquelle; der Abruf lieferte am 06.09.2026 einen 404. Die
+      Existenz und das Datum der Resolución sind durch mehrere unabhängige Fachberichte belegt, der Volltext
+      ist nicht geprüft.
+  offene_punkte:
+  - Der amtliche Volltext ist nachzuholen. Insbesondere ist zu prüfen, ob der KI-Artikel des Entwurfs
+    (Art. 23) in der Endfassung erhalten geblieben ist und welche Nummer er dort trägt.
+  - Die INVIMA-Registrierungspflicht für diagnostische KI ist nur aus dem Entwurf belegt; ihre Rechtsgrundlage
+    im Medizinprodukterecht (Decreto 4725 de 2005) ist nicht geprüft.
+  monitoring_quellen:
+  - https://www.minsalud.gov.co/Normatividad_Nuevo/Forms/AllItems.aspx
+  - https://www.invima.gov.co/
+  bezug_regelwerke:
+  - co-conpes-4144
+  - co-ley-1581-2012
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Am Volltext der unterzeichneten Resolución (31 Seiten, Faksimile der Ausfertigung mit Briefkopf des
+    Ministerio de Salud y Protección Social) geprueft; der bisherige Vermerk ''NICHT AUS DER PRIMAERQUELLE
+    GEPRUEFT'' ist erledigt. Datum richtig — die Resolución gilt ab Erlass, nicht ab Veroeffentlichung
+    im Diario Oficial. Der amtliche Ablageort auf minsalud.gov.co war nicht erreichbar (404); die verwendete
+    Fundstelle gibt den unterzeichneten Text vollstaendig wieder. NEUER BEFUND zur KI-Regelung: Art. 23
+    verlangt fuer KI mit klinischer Wirkung eine dokumentierte technische und klinische Validierung (Leistung,
+    Verzerrungen, Datenqualitaet, Cybersicherheit, menschliche Aufsicht, Aenderungsmanagement) unter Verantwortung
+    des Leistungserbringers.'

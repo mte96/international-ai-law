@@ -1,0 +1,451 @@
+# Gepflegte Datenbasis.
+urteile:
+- id: de-2023-hessendata-bverfg
+  jurisdiktion: de
+  gericht: Bundesverfassungsgericht, Erster Senat
+  instanz: verfassungsgericht
+  aktenzeichen: 1 BvR 1547/19, 1 BvR 2634/20
+  ecli: ECLI:DE:BVerfG:2023:rs20230216.1bvr154719
+  datum: 2023-02-16
+  parteien:
+    klaeger: Sechs Beschwerdeführende, darunter Franz Josef Hanke (Humanistische Union) und Rechtsanwältin
+      Seda Başay-Yıldız, unterstützt von der Gesellschaft für Freiheitsrechte
+    beklagter: Land Hessen (1 BvR 1547/19) und Freie und Hansestadt Hamburg (1 BvR 2634/20)
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG (Recht auf informationelle Selbstbestimmung);
+    § 25a Abs. 1 Alt. 1 HSOG; § 49 Abs. 1 Alt. 1 HmbPolDVG
+  kernfrage: Unter welchen verfassungsrechtlichen Voraussetzungen darf die Polizei bereits gespeicherte
+    personenbezogene Daten mit einer automatisierten Anwendung datenbankübergreifend analysieren?
+  ergebnis: 'Der Erste Senat erklärte § 49 Abs. 1 Alt. 1 des Hamburgischen PolDVG für mit Art. 2 Abs.
+    1 i.V.m. Art. 1 Abs. 1 GG unvereinbar und nichtig und § 25a Abs. 1 Alt. 1 HSOG für mit denselben Normen
+    unvereinbar, ließ die hessische Vorschrift aber bis zum 30. September 2023 unter verschärften Maßgaben
+    fort gelten. Tragend ist, dass die automatisierte Datenanalyse einen eigenständigen Grundrechtseingriff
+    darstellt, dessen Gewicht über das der vorangegangenen Datenerhebung hinausgeht, weil sie durch Mustererkennung
+    und Profilbildung neue, persönlichkeitsrelevante Informationen erzeugen kann, die sonst unzugänglich
+    blieben. Beide Vorschriften blieben nach den Worten des Gerichts "weit hinter der verfassungsrechtlich
+    gebotenen Schwelle einer konkretisierten Gefahr" zurück. Die Verfassungsbeschwerde im Verfahren 1
+    BvR 2634/20 wurde im Übrigen zurückgewiesen; Hamburg hat den Beschwerdeführenden zwei Drittel der
+    notwendigen Auslagen zu erstatten.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/02/rs20230216_1bvr154719.html
+  zusammenfassung_url: https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2023/bvg23-018.html
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - de-stpo-digitale-ermittlungsmassnahmen
+  - ki-vo-2024-1689
+  instanzenzug:
+  - de-2024-hsog-neufassung-bverfg
+  - de-2025-baypag-61a-bverfg
+  - de-2024-polg-nrw-bverfg
+  - de-2026-asog-berlin-verfgh
+  quelle_tracker: Bundesverfassungsgericht (Entscheidungsdatenbank und Pressemitteilung), Gesellschaft
+    für Freiheitsrechte, Verfassungsblog
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Die Leitentscheidung zur algorithmischen Verarbeitung im Sicherheitsrecht. Fünf Leitsätze
+    tragen sie. Erstens: Die automatisierte Verarbeitung gespeicherter Daten durch Datenanalyseanwendungen
+    greift in das Recht auf informationelle Selbstbestimmung aller Personen ein, deren Daten einbezogen
+    werden - auch der völlig Unbeteiligten. Zweitens: Das Gewicht dieses Eingriffs speist sich aus der
+    Belastung durch die vorangegangene Erhebung und aus eigenständigen Wirkungen; die Verhältnismäßigkeit
+    verlangt deshalb eine stärkere Rechtfertigung als die Erhebung allein. Drittens: Die Rechtfertigungsanforderungen
+    richten sich nach der Eingriffsintensität der gesetzlichen Ausgestaltung; der Gesetzgeber kann das
+    Eingriffsgewicht über Regeln zu Art und Umfang der Daten und zu den Analysemethoden steuern. Viertens:
+    Eingriffsintensive automatisierte Analyse ist nur zum Schutz gewichtiger Rechtsgüter bei konkretisierter
+    Gefahr zulässig, sofern nicht gesetzliche Begrenzungen von Daten und Methoden das Eingriffsgewicht
+    deutlich senken. Fünftens - der praktisch folgenreichste Satz: Die wesentlichen Begrenzungen muss
+    der Gesetzgeber selbst treffen; wo er die Ausgestaltung der Verwaltung überlässt, muss diese die Kriterien
+    abstrakt formulieren und transparent veröffentlichen. Damit ist die Entscheidung nicht nur Polizeirecht,
+    sondern eine Wesentlichkeitsentscheidung über algorithmische Verwaltung insgesamt: Die Parameter eines
+    Analysesystems sind nicht Verwaltungsinternum, sondern regelungsbedürftiger Grundrechtseingriff. Übersehen
+    wird oft, dass das Gericht kein Verbot ausgesprochen hat - es hat eine Skala eingezogen und dem Gesetzgeber
+    Stellschrauben benannt. Genau diese Offenheit hat die Länder zu sehr unterschiedlichen Regelungsmodellen
+    veranlasst und den Streit in die nächste Runde getragen. Die ECLI konnte auf der amtlichen Seite nicht
+    angezeigt werden; die hier eingetragene Kennung folgt dem systematischen BVerfG-Schema und ist insoweit
+    nicht primärquellenbelegt.
+
+    '
+  normen:
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+  - hmbpoldvg-49
+  - hsog-25a
+  quelle_art: amtlich
+  sachverhalt: 'Hessen erwarb bereits 2017 das Programm „Gotham" des Softwareunternehmens Palantir und
+    setzte es unter dem Namen „hessenDATA" ein; eine eigene Rechtsgrundlage schuf der Landesgesetzgeber
+    erst 2018 mit § 25a HSOG, unter Hinweis auf die Mordserie des „NSU". Die Vorschrift — und die ihr
+    weitgehend gleichlautende Regelung in § 49 HmbPolDVG — erlaubt der Polizei, bisher unverbundene automatisierte
+    Dateien und Datenquellen in einer Analyseplattform zu vernetzen und die Bestände durch Suchfunktionen
+    systematisch zu erschließen: Beziehungen zwischen Personen, Gruppierungen, Institutionen, Organisationen
+    und Sachen herzustellen, unbedeutende Informationen auszuschließen und eingehende Erkenntnisse bekannten
+    Sachverhalten zuzuordnen. Einbezogen werden dabei auch die Daten von Personen, die mit einer Straftat
+    nichts zu tun haben. In Hessen wird von dieser Befugnis jährlich tausendfach Gebrauch gemacht; § 49
+    HmbPolDVG war bis dahin nicht angewendet worden. Sechs Betroffene — unter ihnen Franz Josef Hanke
+    von der Humanistischen Union und die Rechtsanwältin Seda Başay-Yıldız —, unterstützt von der Gesellschaft
+    für Freiheitsrechte, erhoben gegen beide Vorschriften Verfassungsbeschwerde.'
+  sachverhalt_quelle: volltext
+- id: de-2024-hsog-neufassung-bverfg
+  jurisdiktion: de
+  gericht: Bundesverfassungsgericht
+  instanz: verfassungsgericht
+  aktenzeichen: 1 BvR 1557/24
+  ecli: null
+  datum: 2024-06-21
+  parteien:
+    klaeger: Sechs Beschwerdeführende, darunter Franz Josef Hanke und Seda Başay-Yıldız; Prozessbevollmächtigter
+      Prof. Dr. Tobias Singelnstein; unterstützt von der Gesellschaft für Freiheitsrechte
+    beklagter: Land Hessen
+  status: anhaengig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG; § 25a HSOG in der Fassung des Gesetzes zur
+    Änderung sicherheitsrechtlicher Vorschriften und zur Umorganisation der hessischen Bereitschaftspolizei
+    vom 29.06.2023 (GVBl. S. 456)
+  kernfrage: Genügt die hessische Neufassung des § 25a HSOG den Maßstäben, die das BVerfG im hessenDATA-Urteil
+    für die automatisierte Datenanalyse aufgestellt hat?
+  ergebnis: 'Noch nicht entschieden. Die Beschwerdeschrift datiert vom 21. Juni 2024, die Erhebung wurde
+    am 25. Juni 2024 bekannt gegeben. Angegriffen werden § 25a Abs. 2 Satz 1 Nr. 1 bis 3 HSOG jeweils
+    in Verbindung mit § 25a Abs. 1 Sätze 2 bis 5, Abs. 2 Sätze 2 bis 4, Abs. 3, Abs. 4 Satz 6 und Abs.
+    5 Satz 2 HSOG. Die Beschwerdeführenden rügen, dass weiterhin Daten völlig unbeteiligter Personen in
+    die Analysesoftware eingespeist werden dürfen, dass die Schwellen für das Hineingeraten in den Fokus
+    absurd niedrig seien, dass klare Kennzeichnungspflichten für Daten nach ihrem Erhebungszweck fehlten
+    und dass wesentliche Regelungsbefugnisse an die Polizeibehörden delegiert würden, die sie ohne parlamentarische
+    Debatte ändern könnten.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesverfassungsgericht.de/DE/Aktuelles/AusgewaehlteNeueingaenge/vs_2024/ausgewaehlte-Neueingaenge2024_node.html
+  zusammenfassung_url: https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/hessen-big-data-analyse
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  instanzenzug:
+  - de-2023-hessendata-bverfg
+  quelle_tracker: Gesellschaft für Freiheitsrechte, netzpolitik.org
+  verifiziert: true
+  letzte_pruefung: '2026-09-07'
+  eigene_bewertung: 'Die eigentliche Bewährungsprobe des hessenDATA-Urteils. Die Beschwerde zielt genau
+    auf den fünften Leitsatz: ob der hessische Gesetzgeber die wesentlichen Begrenzungen selbst getroffen
+    hat oder ob er sie faktisch der Polizei überlassen hat. Wird die Beschwerde Erfolg haben, ist auch
+    die Regelungstechnik der übrigen Länder erschüttert, weil sie derselben Logik folgt. Bemerkenswert:
+    Die Beschwerde ist seit über zwei Jahren anhängig, während die betroffene Software in Hessen weiter
+    läuft und die Bundesregierung mit § 9b BKAG-E parallel eine Bundesrechtsgrundlage schafft - das Gericht
+    entscheidet also möglicherweise über eine Regelungstechnik, die sich zwischenzeitlich bundesweit verfestigt
+    hat. Ein Aktenzeichen ist öffentlich nicht auffindbar.
+
+    '
+  sekundaerquelle_url: https://freiheitsrechte.org/uploads/documents/Freiheit-im-digitalen-Zeitalter/Polizeigesetz-Hessen/Verfassungsbeschwerdeschrift-HSOG.pdf
+  dokumenttyp: Amtliche Verfahrensmitteilung des Gerichts (Ausgewählte Neueingänge 2024) — Entscheidung
+    noch nicht ergangen
+  pruefvermerk:
+  - In der Sache ist bis heute keine Entscheidung ergangen; ein 'Volltext' im Sinne eines Urteils oder
+    Beschlusses existiert daher nicht. Amtlich verfügbar ist allein der Nachweis des Verfahrens in der
+    vom Gericht selbst geführten Rubrik 'Ausgewählte Neueingänge'.
+  - Dort geführt als 1 BvR 1557/24, Gegenstand 'Automatisierte Datenanalyse durch die Hessischen Polizeibehörden'
+    (§ 25a HSOG), Eingang Juni 2024 — deckungsgleich mit dem Eintragsdatum 21.06.2024.
+  - Damit ist die im Eintrag stehende Angabe 'Aktenzeichen nicht veröffentlicht' überholt; das Aktenzeichen
+    ist amtlich bekannt gemacht.
+  - Der bisherige Link (Verfassungsbeschwerdeschrift auf freiheitsrechte.org) ist eine Parteischrift,
+    kein Gerichtsdokument, und bleibt als Beleg für Beschwerdeführer und Prozessbevollmächtigten brauchbar.
+  - Bestätigt durch die Stellungnahme des CCC vom Jahr 2026 zum Verfahren 1 BvR 1557/24 (ccc.de/updates/2026/palantir-hsog).
+  - '07.09.2026: 1 BvR 1557/24 (automatisierte Datenanalyse nach § 25a HSOG) ist in der amtlichen Liste
+    der geplanten Entscheidungen des Ersten Senats nicht aufgeführt. Die Liste umfasst zwanzig Verfahren,
+    darunter mehrere polizeirechtliche (1 BvF 1/18, 1 BvR 2271/18, 1 BvR 506/19 zum BayPAG; 1 BvR 2817/20
+    zum SächsPVDG; 1 BvR 2450/24 zur TKÜ eines Journalisten), nicht aber das hessische Verfahren. Keine
+    Entscheidung, kein Termin.'
+  normen:
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+  - hsog-25a
+  quelle_art: amtlich
+  sachverhalt: Nach dem hessenDATA-Urteil des Bundesverfassungsgerichts vom 16. Februar 2023 musste Hessen
+    § 25a HSOG bis zum 30. September 2023 neu fassen. Der Landtag tat das mit dem Gesetz zur Änderung
+    sicherheitsrechtlicher Vorschriften und zur Umorganisation der hessischen Bereitschaftspolizei vom
+    29. Juni 2023 (GVBl. S. 456); die Polizei setzt die Analysesoftware seither weiter ein. Sechs Personen
+    — unter ihnen wieder Franz Josef Hanke und die Rechtsanwältin Seda Başay-Yıldız — erhoben am 21. Juni
+    2024 erneut Verfassungsbeschwerde, vertreten von Prof. Dr. Tobias Singelnstein und unterstützt von
+    der Gesellschaft für Freiheitsrechte; die Erhebung wurde am 25. Juni 2024 bekannt gegeben. Sie beanstanden,
+    dass weiterhin Daten völlig unbeteiligter Personen in die Software eingespeist werden dürften, dass
+    die Schwellen für das Hineingeraten in den Fokus zu niedrig seien, dass Kennzeichnungspflichten für
+    Daten nach ihrem Erhebungszweck fehlten und dass wesentliche Regelungsbefugnisse an die Polizeibehörden
+    abgegeben würden.
+  sachverhalt_quelle: eintrag
+- id: de-2025-baypag-61a-bverfg
+  jurisdiktion: de
+  gericht: Bundesverfassungsgericht
+  instanz: verfassungsgericht
+  aktenzeichen: 1 BvR 1446/25
+  ecli: null
+  datum: 2025-07-23
+  parteien:
+    klaeger: Acht Beschwerdeführende, darunter ein Strafverteidiger, Aktivistinnen und Aktivisten, Mitglieder
+      der Fanhilfe der SpVgg Greuther Fürth und der Musiker Johannes König; unterstützt von der Gesellschaft
+      für Freiheitsrechte und dem Chaos Computer Club
+    beklagter: Freistaat Bayern
+  status: anhaengig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG; Art. 10 GG (Fernmeldegeheimnis); Art. 61a
+    BayPAG
+  kernfrage: Ist Art. 61a BayPAG, der der bayerischen Polizei die anlassbezogene automatisierte Zusammenführung
+    von Daten mit der Palantir-Plattform VeRA erlaubt, mit dem Recht auf informationelle Selbstbestimmung
+    und dem Fernmeldegeheimnis vereinbar?
+  ergebnis: 'Noch nicht entschieden. Die Verfassungsbeschwerde wurde am 23. Juli 2025 in Karlsruhe erhoben.
+    Sie richtet sich gegen den Einsatz der Palantir-Software Gotham (in Bayern unter dem Namen VeRA) für
+    Data-Mining, das auch Personen ohne jeden Bezug zu einer Straftat erfasst. Gerügt wird insbesondere
+    die Intransparenz der eingesetzten Algorithmen - die Polizei dürfe bei ihren Ermittlungen nicht intransparente
+    Algorithmen ans Steuer lassen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesverfassungsgericht.de/DE/Aktuelles/AusgewaehlteNeueingaenge/vs_2025/ausgewaehlte-Neueingaenge2025_node.html
+  zusammenfassung_url: https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/palantir-bayern
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  instanzenzug:
+  - de-2023-hessendata-bverfg
+  quelle_tracker: Gesellschaft für Freiheitsrechte, Chaos Computer Club
+  verifiziert: true
+  letzte_pruefung: '2026-09-07'
+  eigene_bewertung: 'Bayern hat die Software VeRA schon 2022 über einen Rahmenvertrag beschafft und jahrelang
+    Lizenzgebühren gezahlt, bevor die Rechtsgrundlage stand - Art. 61a BayPAG kam erst nach dem hessenDATA-Urteil.
+    Die Norm ist handwerklich vorsichtiger gefasst als das hessische Vorbild: Sie verbietet ausdrücklich
+    automatisierte Einzelentscheidungen und selbstlernende Systeme und knüpft die Zusammenführung an einen
+    Anlass. Ob das reicht, hängt daran, wie das Gericht die vierte Leitsatzstufe anwendet - ob also die
+    gesetzlichen Begrenzungen von Daten und Methoden das Eingriffsgewicht wirklich so weit senken, dass
+    unterhalb der konkretisierten Gefahr gerechtfertigt werden kann. Prozesstaktisch interessant ist die
+    Auswahl der Beschwerdeführenden: Fußballfans und Demonstrationsorganisatoren sind typische Betroffene
+    polizeilicher Verbunddateien, ohne Beschuldigte zu sein - genau die Gruppe, für die der erste Leitsatz
+    geschrieben wurde.
+
+    '
+  sekundaerquelle_url: https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/palantir-bayern
+  dokumenttyp: Amtliche Verfahrensmitteilung des Gerichts (Ausgewählte Neueingänge 2025) — Entscheidung
+    noch nicht ergangen
+  pruefvermerk:
+  - Auch hier liegt keine Entscheidung vor; das Verfahren ist anhängig. Amtlicher Nachweis ist der Eintrag
+    in den 'Ausgewählten Neueingängen 2025'.
+  - Dort geführt als 1 BvR 1446/25, Gegenstand 'Automatisierte Datenanalyse durch die Bayerischen Polizeibehörden'
+    nach Art. 61a BayPAG, Eingang Juli 2025 — deckungsgleich mit dem Eintragsdatum 23.07.2025.
+  - Die Angabe 'Aktenzeichen nicht veröffentlicht' ist damit überholt.
+  - Der bisherige Link (Themenseite der GFF) ist eine Verbandsseite; die dort abrufbare geschwärzte Beschwerdeschrift
+    vom 23.07.2025 ist eine Parteischrift, kein Gerichtsdokument.
+  - '07.09.2026: 1 BvR 1446/25 (Art. 61a BayPAG, automatisierte Datenanalyse mit VeRA) ist in der amtlichen
+    Liste der geplanten Entscheidungen des Ersten Senats nicht aufgeführt. ABGRENZUNG, wichtig: Die mündliche
+    Verhandlung des Ersten Senats am 7. und 8. Juli 2026 "in Sachen Bayerisches Polizeiaufgabengesetz"
+    betrifft NICHT Art. 61a BayPAG und nicht dieses Verfahren, sondern 1 BvF 1/18, 1 BvR 2271/18 und 1
+    BvR 506/19 gegen die BayPAG-Novelle 2017/2018 (Kernbegriff "drohende Gefahr"). Die dort zu erwartende
+    Entscheidung dürfte für 1 BvR 1446/25 präjudiziell wirken und ist als Vorlauf zu beobachten.'
+  normen:
+  - baypag-61a
+  - gg-art-1-abs-1
+  - gg-art-10
+  - gg-art-2-abs-1
+  quelle_art: amtlich
+  sachverhalt: Bayern beschaffte 2022 über einen Rahmenvertrag die Analyseplattform Gotham der Firma Palantir
+    — dort unter dem Namen VeRA geführt — und zahlte jahrelang Lizenzgebühren, bevor eine Rechtsgrundlage
+    für den Einsatz bestand. Erst nach dem hessenDATA-Urteil schuf der Landtag mit Art. 61a BayPAG die
+    Ermächtigung zur anlassbezogenen automatisierten Zusammenführung polizeilicher Daten; die Vorschrift
+    verbietet ausdrücklich automatisierte Einzelentscheidungen und selbstlernende Systeme. Die Zusammenführung
+    erfasst auch Daten von Personen, die mit einer Straftat nichts zu tun haben; welche Algorithmen dabei
+    arbeiten, wird nicht offengelegt. Acht Betroffene — darunter ein Strafverteidiger, Aktivistinnen und
+    Aktivisten, Mitglieder der Fanhilfe der SpVgg Greuther Fürth und der Musiker Johannes König — erhoben
+    am 23. Juli 2025 Verfassungsbeschwerde, unterstützt von der Gesellschaft für Freiheitsrechte und dem
+    Chaos Computer Club.
+  sachverhalt_quelle: eintrag
+- id: de-2024-polg-nrw-bverfg
+  jurisdiktion: de
+  gericht: Bundesverfassungsgericht
+  instanz: verfassungsgericht
+  aktenzeichen: Aktenzeichen nicht veröffentlicht
+  ecli: null
+  datum: 2023-01-01
+  parteien:
+    klaeger: Beschwerdeführende mit Unterstützung der Gesellschaft für Freiheitsrechte
+    beklagter: Land Nordrhein-Westfalen
+  status: anhaengig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG; § 23 PolG NRW (Rechtsgrundlage für die Plattform
+    DAR / Palantir Gotham)
+  kernfrage: Ist die nordrhein-westfälische Rechtsgrundlage für die datenbankübergreifende automatisierte
+    Analyse mit Palantir-Software (DAR) verfassungsgemäß?
+  ergebnis: 'Noch nicht entschieden. Nordrhein-Westfalen setzt Palantir-Software seit 2019 unter dem Namen
+    DAR (Datenbankübergreifende Analyse und Recherche) ein, seit 2022 auf gesetzlicher Grundlage. Die
+    Verfassungsbeschwerde gegen die nordrhein-westfälische Rechtsgrundlage war bereits Anfang 2024 anhängig,
+    ein Verhandlungstermin war nicht angesetzt. 2025 novellierte das Land sein Polizeigesetz; § 23 Abs.
+    6, 6a und 7 PolG NRW bilden die geltende Grundlage. Die Landesbeauftragte für Datenschutz und Informationsfreiheit
+    Bettina Gayk hält diese Fassung ausweislich ihres Tätigkeitsberichts für nicht verfassungskonform.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://netzpolitik.org/2026/automatisierte-datenanalyse-in-nrw-palantir-gesetz-nicht-verfassungskonform/
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  instanzenzug:
+  - de-2023-hessendata-bverfg
+  quelle_tracker: Gesellschaft für Freiheitsrechte, netzpolitik.org
+  verifiziert: false
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der schwächst belegte der vier Länderfälle: Dass eine Verfassungsbeschwerde gegen
+    die nordrhein-westfälische Rechtsgrundlage anhängig ist, wird von der GFF und von netzpolitik.org
+    übereinstimmend berichtet, ein Aktenzeichen und ein Erhebungsdatum sind aber nicht auffindbar. Das
+    hier eingetragene Datum ist ein Platzhalter und ausdrücklich nicht verifiziert; belegt ist nur, dass
+    das Verfahren im Januar 2024 bereits lief. Praktisch bedeutsam wird der Fall dadurch, dass die Aufsichtsbehörde
+    selbst die Verfassungswidrigkeit feststellt - ein seltener Vorgang - und dass der NRW-Vertrag mit
+    Palantir Mitte Oktober 2026 ausläuft. Die Landesregierung könnte die Frage durch Nichtverlängerung
+    faktisch erledigen, bevor Karlsruhe entscheidet.
+
+    '
+  sekundaerquelle_url: https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/hessen-big-data-analyse
+  pruefvermerk:
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde eine Entscheidung des Bundesverfassungsgerichts
+    zur Verfassungsbeschwerde gegen die Befugnis zur automatisierten Datenanalyse ("Data Mining") im Polizeigesetz
+    Nordrhein-Westfalen. Ermitt'
+  suchadresse: https://www.bundesverfassungsgericht.de/DE/Entscheidungen/Entscheidungen_node.html (Entscheidungssuche,
+    Suchbegriff 'Polizeigesetz Nordrhein-Westfalen' bzw. 'automatisierte Datenanalyse')
+  normen:
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+  - polg-nrw-23
+  quelle_art: fehlt
+- id: de-2026-asog-berlin-verfgh
+  jurisdiktion: de
+  gericht: Verfassungsgerichtshof des Landes Berlin
+  instanz: verfassungsgericht
+  aktenzeichen: Aktenzeichen nicht veröffentlicht
+  ecli: null
+  datum: 2026-08-28
+  parteien:
+    klaeger: Fraktionen von Bündnis 90/Die Grünen und Die Linke im Abgeordnetenhaus von Berlin
+    beklagter: Land Berlin (abstrakte Normenkontrolle)
+  status: anhaengig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Verfassung von Berlin i.V.m. Art. 2 Abs. 1, Art. 1 Abs. 1 GG; Allgemeines Sicherheits-
+    und Ordnungsgesetz (ASOG) in der Fassung der Novelle vom Dezember 2025
+  kernfrage: Sind die durch die ASOG-Novelle vom Dezember 2025 geschaffenen Befugnisse, insbesondere die
+    plattformgestützte automatisierte Datenanalyse, mit der Verfassung von Berlin vereinbar?
+  ergebnis: 'Noch nicht entschieden. Die Fraktionen von Grünen und Linken haben am 28. August 2026 einen
+    Normenkontrollantrag beim Verfassungsgerichtshof des Landes Berlin gestellt. Angegriffen werden fünf
+    erweiterte Befugnisse; im Zentrum steht die automatisierte Datenanalyse, die es der Polizei erlaubt,
+    Datenbestände auf einer Plattform zusammenzuführen und KI-gestützt auszuwerten. Der Senat erklärt,
+    Palantir-Software nicht einsetzen zu wollen; die Antragsteller halten dem entgegen, dass die Befugnis
+    besteht und von künftigen Mehrheiten genutzt werden könnte. Mit einer Entscheidung wird frühestens
+    in ein bis zwei Jahren gerechnet.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://netzpolitik.org/2025/neues-polizeigesetz-in-berlin-abkehr-von-der-grundrechtsfreundlichen-politik/
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  instanzenzug:
+  - de-2023-hessendata-bverfg
+  quelle_tracker: netzpolitik.org
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der erste der Palantir-Folgefälle, der nicht als Individualverfassungs- beschwerde
+    in Karlsruhe, sondern als abstrakte Normenkontrolle vor einem Landesverfassungsgericht geführt wird.
+    Das ist prozessual bedeutsam: Die Antragsteller müssen keine eigene Betroffenheit darlegen und können
+    die Norm unabhängig von einem konkreten Einsatz angreifen - genau das Argument, das die Berliner Landesregierung
+    mit dem Hinweis entkräften will, sie plane Palantir gar nicht einzusetzen. Ob der VerfGH Berlin dem
+    Bundesverfassungsgericht folgt oder eigene landesverfassungsrechtliche Maßstäbe entwickelt, ist offen.
+    Der Antrag datiert vom 28. August 2026 und liegt damit einen Tag nach dem hier gesetzten Prüfstichtag.
+
+    '
+  sekundaerquelle_url: https://netzpolitik.org/2026/berliner-polizeigesetz-linke-und-gruene-ziehen-vor-den-verfassungsgerichtshof/
+  pruefvermerk:
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde ein amtliches Dokument des Verfassungsgerichtshofs
+    des Landes Berlin zum abstrakten Normenkontrollantrag der Fraktionen von Bündnis 90/Die Grünen und
+    Die Linke gegen die ASOG-Novelle. De'
+  suchadresse: https://www.berlin.de/gerichte/sonstige-gerichte/verfassungsgerichtshof/pressemitteilungen/
+    (Pressemitteilungen 2026) und https://gesetze.berlin.de/bsbe/search (Berliner Vorschriften- und Rechtsprechungsdatenbank,
+    Suche 'ASOG' / 'VerfGH')
+  normen:
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+  quelle_art: fehlt
+- id: de-2024-bkag-ii-bverfg
+  jurisdiktion: de
+  gericht: Bundesverfassungsgericht, Erster Senat
+  instanz: verfassungsgericht
+  aktenzeichen: 1 BvR 1160/19
+  ecli: ECLI:DE:BVerfG:2024:rs20241001.1bvr116019
+  datum: 2024-10-01
+  parteien:
+    klaeger: Beschwerdeführende gegen Vorschriften des Bundeskriminalamtgesetzes, unterstützt von der
+      Gesellschaft für Freiheitsrechte
+    beklagter: Bundesrepublik Deutschland
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG; § 18 Abs. 1 Nr. 2 i.V.m. § 18 Abs. 2 Nr.
+    1 BKAG; § 45 Abs. 1 Satz 1 Nr. 4 BKAG
+  kernfrage: Welche Schwellen und Fristen verlangt das Grundgesetz für die Vorratsspeicherung personenbezogener
+    Daten im polizeilichen Informationsverbund und für die verdeckte Überwachung von Kontaktpersonen?
+  ergebnis: 'Der Erste Senat erklärte § 18 Abs. 1 Nr. 2 i.V.m. § 18 Abs. 2 Nr. 1 BKAG (Speicherung durch
+    das BKA als Zentralstelle) und § 45 Abs. 1 Satz 1 Nr. 4 BKAG (Datenerhebung bei Kontaktpersonen) für
+    verfassungswidrig. Tragende Leitsätze: Die verdeckte Überwachung von Kontaktpersonen mit eingriffsintensiven
+    Mitteln setzt voraus, dass auch die Überwachung der verantwortlichen Person polizeirechtlich zulässig
+    wäre; zweckgebunden erhobene Daten sind grundsätzlich nach Zweckerreichung zu löschen, sofern nicht
+    neue Ermittlungsansätze die Weiterspeicherung rechtfertigen; die vorsorgliche Speicherung personenbezogener
+    Daten verlangt eine angemessene Speicherschwelle und angemessene Speicherfristen auf der Grundlage
+    hinreichender Tatsachen und einer belastbaren Prognose. Dem Gesetzgeber wurde eine Frist bis zum 31.
+    Juli 2025 gesetzt; bis dahin galten die Vorschriften eingeschränkt fort.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/10/rs20241001_1bvr116019.html
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - de-stpo-digitale-ermittlungsmassnahmen
+  instanzenzug: []
+  quelle_tracker: Bundesverfassungsgericht (Entscheidungsdatenbank), Verfassungsblog
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Nicht als KI-Entscheidung geschrieben, aber der zweite Baustein, an dem die geplanten
+    Bundesregelungen zur automatisierten Datenanalyse scheitern könnten. hessenDATA regelt, was mit gespeicherten
+    Daten geschehen darf; BKAG II regelt, was überhaupt gespeichert bleiben darf. Wer beide zusammenliest
+    - wie es Jonas Botta im Verfassungsblog tut -, kommt zu dem Ergebnis, dass die dauerhafte Zusammenführung
+    eines Grunddatenbestands ohne Speicherschwellen und ohne Speicherfristen bereits für sich genommen
+    ein eigenständiger Grundrechtseingriff ist. § 9b BKAG-E setzt an der Analyse an und lässt die Frage
+    des Grunddatenbestands offen; das ist die wahrscheinlichste Sollbruchstelle des Bundesvorhabens. Die
+    ECLI folgt dem systematischen BVerfG-Schema und wurde auf der amtlichen Seite nicht angezeigt.
+
+    '
+  normen:
+  - bkag-18
+  - bkag-45
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+  quelle_art: amtlich
+  sachverhalt: Das Gesetz zur Neustrukturierung des Bundeskriminalamtgesetzes vom 1. Juni 2017 trat am
+    25. Mai 2018 in Kraft. Es erlaubt dem Bundeskriminalamt, zur Abwehr von Gefahren des internationalen
+    Terrorismus auch Kontaktpersonen mit eingriffsintensiven verdeckten Mitteln zu überwachen (§ 45 Abs.
+    1 Satz 1 Nr. 4 BKAG), und regelt die Weiterverarbeitung bereits erhobener personenbezogener Daten
+    im Informationssystem des Bundeskriminalamts und im polizeilichen Informationsverbund — darunter die
+    Speicherung durch das BKA in seiner Funktion als Zentralstelle. Fünf Betroffene, deren Namen in der
+    Veröffentlichung geschwärzt sind, erhoben am 22. Mai 2019 Verfassungsbeschwerde; bevollmächtigt waren
+    Prof. Dr. Matthias Bäcker und Rechtsanwalt Dr. Bijan Moini, unterstützt wurden sie von der Gesellschaft
+    für Freiheitsrechte. Den zunächst ebenfalls angegriffenen Teil zu Online-Durchsuchung und Quellen-Telekommunikationsüberwachung
+    nahmen sie mit Schriftsatz vom 27. April 2022 zurück; im Übrigen ergänzten sie die Beschwerde am 29.
+    September 2022. Der Erste Senat verhandelte am 20. Dezember 2023 mündlich.
+  sachverhalt_quelle: volltext

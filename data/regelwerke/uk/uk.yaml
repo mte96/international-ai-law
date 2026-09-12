@@ -1,0 +1,1851 @@
+regelwerke:
+- id: uk-ai-white-paper-2023
+  jurisdiktion: uk
+  kurztitel: KI-Weißbuch 2023 / Fünf-Prinzipien-Rahmen
+  offizieller_titel: 'A pro-innovation approach to AI regulation (Command Paper CP 815) nebst Regierungsantwort
+    "A pro-innovation approach to AI regulation: government response"
+
+    '
+  fundstelle: CP 815 (Weißbuch); Regierungsantwort ISBN 978-1-5286-4565-2
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Weiterhin der maßgebliche, aber rein nicht-bindende Ordnungsrahmen. Die Labour-Regierung
+    hat ihn nie förmlich aufgehoben und auch nie durch ein Gesetz ersetzt; sie hat ihn 2025/26 vielmehr
+    bekräftigt ("regulation at the point of use") und um Berichtspflichten der Regulierer ergänzt.
+
+    '
+  kurzbeschreibung: 'Das Weißbuch vom 29.03.2023 lehnt ein horizontales KI-Gesetz und eine eigene KI-Behörde
+    ausdrücklich ab. Stattdessen legt es fünf sektorübergreifende Prinzipien fest — Sicherheit/Robustheit,
+    Transparenz und Erklärbarkeit, Fairness, Rechenschaft und Governance sowie Anfechtbarkeit und Rechtsbehelf
+    — die die bestehenden Sektorregulierer in ihren jeweiligen Zuständigkeiten auf nicht-statutarischer
+    Grundlage anwenden sollen. Es gibt keine Adressatenpflichten und keine Sanktion; verbindlich wird
+    ein Prinzip nur, soweit es sich in einem bestehenden Regime (Datenschutz, Wettbewerb, Produktsicherheit,
+    Online Safety) wiederfindet. Die Konsultation lief vom 29.03.2023 bis 21.06.2023; die Regierungsantwort
+    vom 06.02.2024 hielt am Ansatz fest und stellte eine spätere gesetzliche Verankerung ("targeted binding
+    requirements" für die leistungsfähigsten Modelle) lediglich in Aussicht.
+
+    '
+  inkrafttreten:
+    datum: 2023-03-29
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach
+  anwendungsdaten:
+  - datum: 2024-02-06
+    was_gilt: 'Regierungsantwort veröffentlicht; Beibehaltung des nicht-statutarischen Ansatzes, keine
+      KI-Behörde.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals
+  - datum: 2024-04-30
+    was_gilt: 'Stichtag, bis zu dem 13 angeschriebene Regulierer (FCA, Bank of England, ICO, Ofcom, MHRA,
+      ONR, HSE, Ofsted, Ofqual, Legal Services Board, Ofgem, CMA, EHRC) ihren strategischen KI-Ansatz
+      veröffentlichen sollten.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/request-for-regulators-to-publish-an-update-on-their-strategic-approach-to-ai-secretary-of-state-letters
+  - datum: 2026-01-28
+    was_gilt: 'Gemeinsamer Brief von Liz Kendall (DSIT) und Peter Kyle (DBT) an 19 Regulierer: Pflicht
+      zur Veröffentlichung eines Plans, wie sie sichere KI-Innovation unterstützen, und zur jährlichen
+      Fortschrittsberichterstattung.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/how-will-regulators-enable-safe-ai-powered-innovation-joint-letter-from-dsit-secretary-of-state-and-dbt-secretary-of-state
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Fünf Prinzipien: safety/security/robustness; appropriate transparency and explainability; fairness;
+    accountability and governance; contestability and redress. Keine gesetzliche Verankerung, kein Adressat,
+    keine Sanktion.'
+  - Bewusster Verzicht auf eine zentrale KI-Behörde und auf eine gesetzliche Definition von KI; das Weißbuch
+    beschreibt KI funktional über 'adaptivity' und 'autonomy'.
+  - 'Zentraler Konstruktionsfehler aus Sicht der Kritiker: der Rahmen erfasst nur, wofür bereits ein Regulierer
+    zuständig ist. Anwendungen ohne sektoralen Regulierer (etwa allgemeine Beschäftigtenauswahl außerhalb
+    des Datenschutzes, private Nutzung von Basismodellen) fallen durch. Lord Holmes am 04.06.2026: ''accountability
+    deficits''.'
+  - 'Die Labour-Regierung hat den Ansatz materiell übernommen: Baroness Lloyd of Effra am 04.06.2026 in
+    den Lords: ''AI is a general-purpose technology with a wide range of applications, which is why the
+    Government believe that most AI systems should be regulated at the point of use.'''
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Der Fünf-Prinzipien-Rahmen erzeugt keine einzige durchsetzbare
+    Pflicht. Wo die KI-VO Anbieter- und Betreiberpflichten (Art. 16, 26), Risikomanagement (Art. 9), Daten-Governance
+    (Art. 10), technische Dokumentation (Art. 11), Protokollierung (Art. 12) und menschliche Aufsicht
+    (Art. 14) statuiert, verweist das UK auf die Auslegung durch je zuständige Regulierer im Rahmen ihrer
+    vorhandenen Befugnisse.'
+  dokumente:
+  - datum: 2023-03-29
+    typ: konsultation
+    titel: 'AI regulation: a pro-innovation approach (White Paper, CP 815)'
+    url: https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach
+    sprache: en
+    urheber: Department for Science, Innovation and Technology
+    verifiziert: true
+    notiz: Gründungsdokument des britischen Ansatzes; erklärt, warum es kein UK-KI-Gesetz gibt.
+  - datum: 2024-02-06
+    typ: konsultation
+    titel: 'AI regulation: a pro-innovation approach — policy proposals (Konsultation und Regierungsantwort)'
+    url: https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals
+    sprache: en
+    urheber: Department for Science, Innovation and Technology
+    verifiziert: true
+    notiz: Konsultationszeitraum 29.03.-21.06.2023; Regierungsantwort 06.02.2024, ISBN 978-1-5286-4565-2.
+  - datum: 2024-02-15
+    typ: leitlinie
+    titel: Request for regulators to publish an update on their strategic approach to AI — Secretary of
+      State letters
+    url: https://www.gov.uk/government/publications/request-for-regulators-to-publish-an-update-on-their-strategic-approach-to-ai-secretary-of-state-letters
+    sprache: en
+    urheber: DSIT
+    verifiziert: true
+    notiz: Liste der 13 erstadressierten Regulierer und Frist 30.04.2024.
+  - datum: 2026-01-28
+    typ: leitlinie
+    titel: 'How will regulators enable safe AI-powered innovation: joint letter from DSIT and DBT Secretaries
+      of State'
+    url: https://www.gov.uk/government/publications/how-will-regulators-enable-safe-ai-powered-innovation-joint-letter-from-dsit-secretary-of-state-and-dbt-secretary-of-state
+    sprache: en
+    urheber: DSIT / DBT
+    verifiziert: true
+    notiz: 19 Regulierer; Plan + jährlicher Fortschrittsbericht. Der aktuelle Steuerungsmechanismus anstelle
+      eines Gesetzes.
+  - datum: 2026-06-10
+    typ: bericht
+    titel: AI regulation in the UK (House of Commons Library Research Briefing CBP-10003)
+    url: https://researchbriefings.files.parliament.uk/documents/CBP-10003/CBP-10003.pdf
+    sprache: en
+    urheber: House of Commons Library
+    verifiziert: true
+    notiz: Beste parlamentarische Gesamtdarstellung; dokumentiert die Aufgabe der Manifest-Zusage.
+  offene_punkte:
+  - Ob die 19 Regulierer ihre Pläne fristgerecht veröffentlicht haben und ob es eine zentrale Übersicht
+    gibt, war nicht abschließend zu klären.
+  - Die Regierungsantwort 2024 hatte 'targeted binding requirements' für die leistungsfähigsten Modelle
+    angekündigt; dies ist bis 27.08.2026 nicht umgesetzt.
+  monitoring_quellen:
+  - https://www.gov.uk/government/collections/ai-regulation
+  - https://commonslibrary.parliament.uk/research-briefings/cbp-10003/
+  bezug_regelwerke:
+  - uk-regulating-for-growth-bill
+  - uk-sektorregulierer-ki
+  - uk-ai-regulation-bill-holmes
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: uk-ai-regulation-bill-holmes
+  jurisdiktion: uk
+  kurztitel: AI (Regulation) Bill (Lord Holmes)
+  offizieller_titel: 'Artificial Intelligence (Regulation) Bill [HL] — A bill to make provision for the
+    regulation of artificial intelligence; and for connected purposes
+
+    '
+  fundstelle: HL Bill (Session 2024-26); Bill-ID 3942
+  verfahrensnummer: 'bills.parliament.uk/bills/3942 (Vorgänger: Session 2023-24, Bill-ID 3519)'
+  status: gescheitert
+  status_detail: 'Private Member''s Bill von Lord Holmes of Richmond (Cons.). Am 04.03.2025 zum zweiten
+    Mal eingebracht (1st reading), danach nie zur 2nd reading aufgerufen. Mit dem Ende der Session 2024-26
+    vor der Königsrede am 13.05.2026 verfallen. Bills-API am 27.08.2026: currentStage "1st reading", sessionId
+    39, isAct false, keine Wiedereinbringung in der Session 2026-27. Der Vorgängerentwurf (2. Lesung 22./23.03.2024)
+    war bereits mit der Parlamentsauflösung 2024 verfallen.
+
+    '
+  kurzbeschreibung: 'Der Entwurf ist das einzige ausformulierte britische Modell eines horizontalen KI-Gesetzes.
+    Er hätte eine "AI Authority" als Qürschnittsstelle geschaffen, die die Kompetenz der bestehenden Regulierer
+    bewertet und Lücken identifiziert (Klausel 1), die fünf Weißbuch-Prinzipien gesetzlich verankert (Klausel
+    2), Reallabore vorgeschrieben (Klausel 3), für Unternehmen einen "AI responsible officer" verpflichtend
+    gemacht (Klausel 4) und — urheberrechtlich zentral — eine Kennzeichnungspflicht für KI-Erzeugnisse
+    sowie eine Berichtspflicht über die Nutzung fremden geistigen Eigentums und fremder Daten im Training
+    eingeführt (Klausel 5). Sanktionen wären per Rechtsverordnung zu schaffen gewesen (Klausel 8). Der
+    Entwurf hat nie Regierungsunterstützung gefunden und ist zweimal gescheitert; er bleibt der Referenzpunkt
+    der Debatte.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://bills-api.parliament.uk/api/v1/Bills/3942
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - marktzugang
+  - urheberrecht
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Klausel 1: AI Authority — keine Vollzugs-, sondern eine Kohärenzbehörde. Sie hätte Regulierer bewertet,
+    nicht Unternehmen beaufsichtigt. Bewusst schwächer als das EU-KI-Büro.'
+  - 'Klausel 4: ''AI responsible officer'' als benannte Person in jedem Unternehmen, das KI entwickelt
+    oder einsetzt — funktional dem Datenschutzbeauftragten nachgebildet, ohne Entsprechung in der KI-VO.'
+  - 'Klausel 5: Kennzeichnung von KI-Erzeugnissen plus Offenlegung genutzter Drittdaten und Drittrechte
+    im Training. Dies ist der Punkt, an dem der Entwurf am weitesten über das geltende UK-Recht hinausgeht
+    und Art. 50 sowie Art. 53 Abs. 1 lit. c/d KI-VO nahekommt.'
+  - 'Klausel 7: weite KI-Definition über Wahrnehmung, automatisierte Verarbeitung mit Annäherung an kognitive
+    Fähigkeiten und Empfehlungen/Vorhersagen/Entscheidungen.'
+  - 'Politischer Befund: Dass ein Private Member''s Bill zweimal ohne 2. Lesung verfällt, während die
+    Regierung ein eigenes Gesetz ablehnt, ist die präziseste Beschreibung des britischen Status quo.'
+  dokumente:
+  - datum: 2025-03-04
+    typ: entwurf
+    titel: Artificial Intelligence (Regulation) Bill [HL] — Bill-Seite mit Verfahrensstand
+    url: https://bills.parliament.uk/bills/3942
+    sprache: en
+    urheber: UK Parliament
+    verifiziert: true
+    notiz: 1st reading 04.03.2025; letzte Aktualisierung 30.04.2026; kein weiterer Verfahrensschritt.
+  - datum: 2025-03-04
+    typ: entwurf
+    titel: Artificial Intelligence (Regulation) Bill [HL] — Verfahrensstadien
+    url: https://bills.parliament.uk/bills/3942/stages
+    sprache: en
+    urheber: UK Parliament
+    verifiziert: true
+    notiz: Belegt, dass nur die 1st reading stattgefunden hat.
+  - datum: 2024-03-22
+    typ: plenarprotokoll
+    titel: Artificial Intelligence (Regulation) Bill [HL] — Second Reading (Fassung 2023-24)
+    url: https://chrisholmes.co.uk/hansard/artificial-intelligence-regulation-bill-hl-second-reading-lords-debates-2/
+    sprache: en
+    urheber: Lord Holmes of Richmond / Hansard
+    verifiziert: true
+    notiz: Einzige inhaltliche Debatte des Entwurfs; enthält die Klausel-für-Klausel-Begründung.
+  - datum: 2026-06-04
+    typ: plenarprotokoll
+    titel: AI Regulation Bill — Question for Short Debate, House of Lords
+    url: https://hansard.parliament.uk/Lords/2026-06-04/debates/0A1BCBAE-E906-4071-AA92-BCE005D57121/AIRegulationBill
+    sprache: en
+    urheber: Hansard
+    verifiziert: true
+    notiz: 'Kein Gesetzesstadium, sondern eine von Lord Holmes erzwungene Grundsatzdebatte. Enthält die
+      klarste Regierungsposition: Regulierung ''at the point of use'', Verweis auf die Regulating for
+      Growth Bill, kein Zeitplan für ein KI-Gesetz.
+
+      '
+  offene_punkte:
+  - 'Ob Lord Holmes den Entwurf in der Session 2026-27 erneut einbringt, war am 27.08.2026 nicht ersichtlich
+    (Bills-API: keine neue Session-ID).'
+  - Das exakte Prorogationsdatum der Session 2024-26 konnte nicht verifiziert werden; es liegt zwischen
+    dem 05.05.2026 (letzte Bill-Aktivität) und dem 13.05.2026 (Königsrede).
+  monitoring_quellen:
+  - https://bills.parliament.uk/bills/3942
+  - https://bills-api.parliament.uk/api/v1/Bills?SearchTerm=Artificial%20Intelligence
+  bezug_regelwerke:
+  - uk-ai-white-paper-2023
+  - uk-public-authority-adm-bill
+  - uk-regulating-for-growth-bill
+  letzte_pruefung: 2026-08-27
+- id: uk-public-authority-adm-bill
+  jurisdiktion: uk
+  kurztitel: Bill zu algorithmischen Entscheidungen der Verwaltung (Lord Clement-Jones)
+  offizieller_titel: 'Public Authority Algorithmic and Automated Decision-Making Systems Bill [HL]
+
+    '
+  fundstelle: HL Bill 27 of 2024-25; Bill-ID 3760
+  verfahrensnummer: bills.parliament.uk/bills/3760
+  status: gescheitert
+  status_detail: 'Private Member''s Bill von Lord Clement-Jones (LibDem), eingebracht am 09.09.2024, 2.
+    Lesung 13.12.2024. Der Entwurf hat als einziger KI-Entwurf das Oberhaus vollständig durchlaufen und
+    erreichte am 05.05.2026 die 1st reading im Unterhaus — eine Woche vor dem Sessionsende. Damit verfallen.
+    Bills-API am 27.08.2026: currentStage "1st reading" (Commons), sessionId 39, isAct false.
+
+    '
+  kurzbeschreibung: 'Der Entwurf hätte für Behörden verbindliche Pflichten beim Einsatz algorithmischer
+    und automatisierter Entscheidungssysteme geschaffen: verpflichtende Folgenabschätzung vor dem Einsatz,
+    Transparenzstandards und Veröffentlichung in einem Register sowie Rechenschaftsmechanismen. Er ist
+    das britische Funktionsäquivalent zu Art. 27 KI-VO (Grundrechtsfolgenabschätzung öffentlicher Stellen)
+    und zur verpflichtenden Registrierung nach Art. 49 Abs. 3 KI-VO. Sein Scheitern bedeutet, dass für
+    den staatlichen KI-Einsatz im UK weiterhin nur der freiwillige Algorithmic Transparency Recording
+    Standard (ATRS) gilt, ergänzt durch die allgemeinen Vorgaben des Datenschutzrechts, des Equality Act
+    2010 und des Verwaltungsrechts.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://bills-api.parliament.uk/api/v1/Bills/3760
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - Pflicht zur Folgenabschätzung vor dem Einsatz — im UK-Recht ohne Vorbild außerhalb der DSFA nach Art.
+    35 UK GDPR.
+  - 'Transparenz- und Registerpflicht: hätte den freiwilligen ATRS in eine gesetzliche Pflicht überführt.'
+  - 'Bedeutung des Scheiterns: Der britische Staat setzt KI in Sozialleistungs-, Migrations- und Steuerverwaltung
+    ein, ohne dass eine spezifische gesetzliche Ex-ante-Prüfpflicht besteht. Die ICO adressiert dies seit
+    2026 aufsichtlich statt gesetzlich (vgl. uk-sektorregulierer-ki).'
+  dokumente:
+  - datum: 2024-09-09
+    typ: entwurf
+    titel: Public Authority Algorithmic and Automated Decision-Making Systems Bill [HL] — Bill-Seite
+    url: https://bills.parliament.uk/bills/3760
+    sprache: en
+    urheber: UK Parliament
+    verifiziert: true
+    notiz: Verfahrensstand; letzte Aktualisierung 05.05.2026 (Commons 1st reading).
+  - datum: 2024-11-01
+    typ: bericht
+    titel: 'Public Authority Algorithmic and Automated Decision-Making Systems Bill [HL]: HL Bill 27 of
+      2024-25 (Lords Library Briefing LLN-2024-0071)'
+    url: https://lordslibrary.parliament.uk/research-briefings/lln-2024-0071/
+    sprache: en
+    urheber: House of Lords Library
+    verifiziert: false
+    notiz: Ausführliche Klauselanalyse. URL aus Suchergebnis, in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Wiedereinbringung in der Session 2026-27 nicht ersichtlich.
+  - Ob die Regierung die Substanz in die geplante ICO-Verhaltensregel zu KI und automatisierten Entscheidungen
+    überführt, ist offen.
+  monitoring_quellen:
+  - https://bills.parliament.uk/bills/3760
+  bezug_regelwerke:
+  - uk-duaa-2025
+  - uk-ai-regulation-bill-holmes
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: uk-regulating-for-growth-bill
+  jurisdiktion: uk
+  kurztitel: Regulating for Growth Bill
+  offizieller_titel: Regulating for Growth Bill (angekündigt in der Königsrede 2026)
+  fundstelle: The King's Speech 2026, background briefing notes, S. zum Vorhaben Nr. 7
+  verfahrensnummer: null
+  status: idee
+  status_detail: 'Am 13.05.2026 in der Königsrede angekündigt, aber am 27.08.2026 noch NICHT in das Parlament
+    eingebracht; es existiert kein Gesetzestext. Eine Suche in bills.parliament.uk lieferte keinen Treffer.
+    Der Regierungsvortrag lautet, die Einbringung erfolge "over the coming months". Dies ist das einzige
+    KI-relevante Gesetzesvorhaben der Regierung — und es ist ein Deregulierungsinstrument.
+
+    '
+  kurzbeschreibung: 'Das Vorhaben soll erstens sektorübergreifende Sandbox-Befugnisse schaffen ("cross-cutting
+    AI sandboxes, enabling responsible testing and adoption of AI-enabled products and services across
+    multiple sectors where existing regulatory frameworks currently slow innovation"), zweitens die "Growth
+    Duty" der Regulierer verschärfen und drittens Ministern erlauben, den Regulierern förmliche "strategic
+    steers" zu erteilen sowie deren Leistung gegen die Growth Duty zu berichten. Kernstück ist die Befugnis,
+    geltendes Recht für zeitlich befristete Erprobungen zu modifizieren oder auszusetzen und erfolgreiche
+    Erprobungen per Rechtsverordnung dauerhaft zu machen. Als "rote Linien" nennt das Hintergrundpapier
+    Verbraucher-, Beschäftigten- und Grundrechtsschutz. Es enthält keine einzige neue KI-Pflicht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://commonslibrary.parliament.uk/research-briefings/cbp-10893/
+  anwendungsdaten:
+  - datum: 2026-05-13
+    was_gilt: 'Ankündigung in der Königsrede zur zweiten Session des 2024er Parlaments; Veröffentlichung
+      der Hintergrundpapiere.
+
+      '
+    verifiziert: true
+    quelle: https://assets.publishing.service.gov.uk/media/6a046665c0cc74b4523e4d3b/The_King_s_Speech_2026_-_background_briefing_notes.pdf
+  themenachsen:
+  - governance
+  - marktzugang
+  - wettbewerb
+  - sektor-medizin
+  regelungsschwerpunkte:
+  - 'Sandbox-Befugnis mit Modifikations- und Suspendierungswirkung: qualitativ etwas anderes als Art.
+    57-58 KI-VO, die Reallabore ausdrücklich innerhalb des geltenden Rechts anordnen. Hier soll geltendes
+    Recht selbst disponibel werden.'
+  - 'Verstetigungsmechanismus: erfolgreiche Erprobungen sollen per Sekundärrecht dauerhaft werden — Verlagerung
+    materieller Regulierungsentscheidungen aus dem Parlament in die Exekutive. Lord Holmes hat genau dies
+    als ''executive power grab'' kritisiert.'
+  - 'Verschärfte Growth Duty und ministerielle ''strategic steers'': Die Regulierer (genannt u. a. Natural
+    England, Health and Safety Executive) sollen Wachstum stärker gewichten. Das ist die institutionelle
+    Gegenbewegung zum Prinzipienrahmen von 2023 — nicht mehr ''Regulierer wenden KI-Prinzipien an'', sondern
+    ''Regulierer werden auf Wachstum verpflichtet''.'
+  - 'Begründungsbeispiel des Hintergrundpapiers ist medizinisch: Bildgebungsnachfrage +7 % p.a. bei nur
+    +3,9 % Radiologie-Personal; KI übertreffe bei bestimmten Vorhersageaufgaben 78-90 % der Radiologen.'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Während die KI-VO ab 02.12.2027 (Anhang III) Hochrisikopflichten
+    begründet, will das UK im selben Zeitraum Befugnisse schaffen, bestehende Pflichten für KI-Erprobungen
+    auszusetzen.'
+  dokumente:
+  - datum: 2026-05-13
+    typ: uebersicht
+    titel: The King's Speech 2026 — background briefing notes
+    url: https://assets.publishing.service.gov.uk/media/6a046665c0cc74b4523e4d3b/The_King_s_Speech_2026_-_background_briefing_notes.pdf
+    sprache: en
+    urheber: Prime Minister's Office, 10 Downing Street
+    verifiziert: true
+    notiz: 'Primärbeleg dafür, dass unter 37 angekündigten Vorhaben KEIN KI-Gesetz ist, und für den Inhalt
+      der Regulating for Growth Bill.
+
+      '
+  - datum: 2026-05-14
+    typ: bericht
+    titel: '2026 King''s Speech: Progress of legislation (Commons Library CBP-10893)'
+    url: https://commonslibrary.parliament.uk/research-briefings/cbp-10893/
+    sprache: en
+    urheber: House of Commons Library
+    verifiziert: true
+    notiz: Verfahrensstandsverfolgung aller Vorhaben der Session 2026-27.
+  - datum: 2026-05-14
+    typ: pressemitteilung
+    titel: 'King''s Speech: sandboxes central to ''regulating for growth'' plans'
+    url: https://www.pinsentmasons.com/out-law/news/sandboxes-central-regulating-growth-plans
+    sprache: en
+    urheber: Pinsent Masons
+    verifiziert: true
+    notiz: Belegt Growth Duty, strategic steers und dass die Einbringung noch aussteht.
+  - datum: 2025-10-21
+    typ: konsultation
+    titel: AI Growth Lab — Call for Evidence
+    url: https://www.gov.uk/government/calls-for-evidence/ai-growth-lab/ai-growth-lab
+    sprache: en
+    urheber: DSIT
+    verifiziert: true
+    notiz: 'Politische Vorstufe der Bill. Schlusstermin 07.01.2026, 23:59 Uhr; eine Regierungsantwort
+      war am 27.08.2026 nicht veröffentlicht.
+
+      '
+  offene_punkte:
+  - Einbringungstermin und Gesetzestext offen. Ohne Text ist nicht beurteilbar, wie weit die Suspendierungsbefugnis
+    reicht und wie die 'roten Linien' justiziabel ausgestaltet werden.
+  - Regierungsantwort auf den AI-Growth-Lab-Call-for-Evidence steht aus.
+  - Verhältnis zum bereits laufenden, nicht-gesetzlichen 'Advisory AI Growth Lab' (vgl. uk-ai-growth-lab)
+    ist ungeklärt.
+  monitoring_quellen:
+  - https://commonslibrary.parliament.uk/research-briefings/cbp-10893/
+  - https://bills.parliament.uk/
+  - https://www.gov.uk/government/calls-for-evidence/ai-growth-lab
+  bezug_regelwerke:
+  - uk-ai-white-paper-2023
+  - uk-ai-growth-lab
+  - uk-sektorregulierer-ki
+  letzte_pruefung: 2026-08-27
+- id: uk-duaa-2025
+  jurisdiktion: uk
+  kurztitel: Data (Use and Access) Act 2025 (DUAA)
+  offizieller_titel: Data (Use and Access) Act 2025
+  fundstelle: 2025 c. 18
+  verfahrensnummer: Data (Use and Access) Bill [HL], Session 2024-26
+  status: teilanwendbar
+  status_detail: 'Royal Assent am 19.06.2025. Die datenschutzrechtlichen Kernvorschriften einschließlich
+    s. 80 (automatisierte Entscheidungen) und Schedule 6 sind seit dem 05.02.2026 in Kraft (SI 2026/82,
+    Commencement No. 6). Weitere Teile folgen gestaffelt (Beschwerdeverfahren 19.06.2026, Information
+    Commission zu späterem Zeitpunkt). Die für KI wichtigste Sekundärgesetzgebung — die Verordnung, die
+    die ICO zur Erstellung einer Verhaltensregel zu KI und automatisierten Entscheidungen verpflichtet
+    — ist noch in Vorbereitung.
+
+    '
+  kurzbeschreibung: 'Der DUAA ist das materiell wichtigste britische Gesetz mit KI-Bezug. Er ersetzt den
+    strengen Art. 22 UK GDPR durch die neuen Art. 22A-22D und stellt damit für automatisierte Entscheidungen
+    vom Verbot mit Erlaubnisvorbehalt auf ein Erlaubnismodell mit Schutzmaßnahmen um. Daneben führt er
+    "recognised legitimate interests" (Schedule 4) ein, lockert die Zweckbindung für Forschungszwecke,
+    ändert das Cookie-Regime und erweitert die Durchsetzungsbefugnisse der Aufsichtsbehörde. In Part 7
+    (ss. 135-137) verpflichtet er die Regierung, über die Nutzung urheberrechtlich geschützter Werke bei
+    der KI-Entwicklung zu berichten — das Ergebnis des Gesetzgebungskonflikts um Transparenzpflichten.
+    Außerdem schafft er (s. 138) den Straftatbestand der Herstellung eines vorgeblichen intimen Bildes
+    ohne Einwilligung; er ist seit dem 06.02.2026 in Kraft und erfasst Deepfakes.
+
+    '
+  inkrafttreten:
+    datum: 2025-06-19
+    verifiziert: true
+    quelle: https://www.legislation.gov.uk/ukpga/2025/18/introduction
+  anwendungsdaten:
+  - datum: 2026-02-05
+    was_gilt: 'Kern der Datenschutzreform in Kraft (SI 2026/82): s. 67 (Forschungs- und Statistikzwecke),
+      s. 70 (Rechtmäßigkeit), s. 80 mit den neuen Art. 22A-22D UK GDPR (automatisierte Entscheidungen),
+      s. 85 (internationale Übermittlungen), s. 86 (Schutzmaßnahmen Forschung), s. 112 (Cookies), s. 115
+      (erweiterte ICO-Durchsetzung), Schedule 4 (recognised legitimate interests), Schedule 6 (Folgeänderungen
+      ADM).
+
+      '
+    verifiziert: true
+    quelle: https://www.legislation.gov.uk/uksi/2026/82/regulation/2/made
+  - datum: 2026-02-06
+    was_gilt: 'Straftatbestand der Herstellung bzw. Veranlassung der Herstellung eines nicht einvernehmlichen
+      vorgeblichen intimen Bildes (Deepfake) wirksam; verlängerte Verfolgungsfristen.
+
+      '
+    verifiziert: false
+    quelle: https://www.lewissilkin.com/insights/2026/02/23/online-safety-reforms-to-be-fast-tracked-amid-rising-ai-risks-102mk2r
+  - datum: 2026-06-19
+    was_gilt: Neues Beschwerdeverfahren gegenüber Verantwortlichen.
+    verifiziert: false
+    quelle: https://www.womblebonddickinson.com/uk/insights/articles-and-briefings/duaa-commencement-no-6-regulations-are-now-force-what-organisations
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  - urheberrecht
+  - arbeit
+  regelungsschwerpunkte:
+  - 's. 80 DUAA / Art. 22A UK GDPR: ''significant decision'' = Entscheidung mit rechtlicher oder ähnlich
+    erheblicher Wirkung. ''based solely on automated processing'' liegt vor, wenn ''there is no meaningful
+    human involvement in the taking of the decision''; dabei ist zu berücksichtigen, in welchem Ausmaß
+    die Entscheidung durch Profiling zustande kommt. Diese Legaldefinition der ''meaningful human involvement''
+    ist neu und verschiebt die Beweisführung.'
+  - 'Art. 22B UK GDPR: Das Verbot bleibt nur, wenn besondere Kategorien personenbezogener Daten verarbeitet
+    werden. Dann ist eine vollautomatisierte erhebliche Entscheidung nur bei ausdrücklicher Einwilligung
+    oder bei Vertragserfüllung/gesetzlicher Verpflichtung in Verbindung mit Art. 9 Abs. 2 lit. g zulässig.
+    Außerdem unzulässig, wenn die zugrunde liegende Verarbeitung auf Art. 6 Abs. 1 lit. ea (recognised
+    legitimate interests) gestützt wird.'
+  - 'Art. 22C UK GDPR — die vier Schutzmaßnahmen: Information über die Entscheidung, Möglichkeit zur Stellungnahme,
+    menschliches Eingreifen, Anfechtbarkeit. Für alle anderen Fälle ersetzt dieses Bündel das frühere
+    Verbot.'
+  - 'Art. 22D UK GDPR: Verordnungsermächtigung des Secretary of State zur Konkretisierung von ''meaningful
+    human involvement'' und ''similarly significant effect'' sowie zur Anordnung zusätzlicher Schutzmaßnahmen.
+    Das ist der Hebel, über den KI-Regulierung im UK ohne KI-Gesetz erfolgen kann.'
+  - 'ss. 135-137 (Part 7, ''Copyright works and artificial intelligence systems''): s. 135 Wirtschaftsfolgenabschätzung,
+    s. 136 Bericht über die Nutzung urheberrechtlich geschützter Werke bei der KI-Entwicklung, s. 137
+    Zwischenbericht. Diese Berichtspflichten sind der Kompromiss, mit dem der monatelange Ping-Pong-Konflikt
+    zwischen Lords und Commons um eine Transparenzpflicht für KI-Entwickler beendet wurde (vgl. uk-copyright-ai-prozess).'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Ein Beschäftigten-Scoring, das in der EU nach Anhang III Nr. 4
+    KI-VO ab 02.12.2027 hochrisikopflichtig wäre UND nach Art. 22 DSGVO grundsätzlich verboten ist, ist
+    im UK zulässig, sofern die vier Schutzmaßnahmen des Art. 22C UK GDPR eingehalten werden und keine
+    besonderen Datenkategorien verarbeitet werden. Das ist die praktisch folgenreichste Divergenz.'
+  dokumente:
+  - datum: 2025-06-19
+    typ: endfassung
+    titel: Data (Use and Access) Act 2025 (2025 c. 18) — Inhaltsverzeichnis
+    url: https://www.legislation.gov.uk/ukpga/2025/18/contents
+    sprache: en
+    urheber: UK Parliament / The National Archives
+    verifiziert: true
+    notiz: 'Struktur: 8 Parts; ADM in Part 5 Ch. 1 s. 80 und Schedule 6; Copyright/AI in Part 7 ss. 135-137.'
+  - datum: 2025-06-19
+    typ: endfassung
+    titel: Data (Use and Access) Act 2025, Section 80 — Automated decision-making
+    url: https://www.legislation.gov.uk/ukpga/2025/18/section/80
+    sprache: en
+    urheber: UK Parliament / The National Archives
+    verifiziert: true
+    notiz: Wortlaut der neuen Art. 22A-22D UK GDPR. Der zentrale Text für KI-Compliance im UK.
+  - datum: 2026-01-26
+    typ: delegiert
+    titel: The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions)
+      Regulations 2026 (SI 2026/82)
+    url: https://www.legislation.gov.uk/uksi/2026/82/regulation/2/made
+    sprache: en
+    urheber: Secretary of State (DSIT)
+    verifiziert: true
+    notiz: 'Bringt s. 80 (Buchstabe j) und Schedule 6 (Buchstabe z8) zum 05.02.2026 in Kraft. Das Datum
+      des Erlasses (26.01.2026) ist aus der SI-Nummerierung erschlossen und nicht verifiziert.
+
+      '
+  - datum: 2026-02-05
+    typ: uebersicht
+    titel: 'DUAA: The Commencement No. 6 Regulations are now in force — what organisations need to know'
+    url: https://www.womblebonddickinson.com/uk/insights/articles-and-briefings/duaa-commencement-no-6-regulations-are-now-force-what-organisations
+    sprache: en
+    urheber: Womble Bond Dickinson
+    verifiziert: true
+    notiz: Vollständige Liste der zum 05.02.2026 in Kraft getretenen Vorschriften und der Nachzügler.
+  offene_punkte:
+  - Die Verordnung nach Art. 22D UK GDPR (Konkretisierung 'meaningful human involvement') ist nicht erlassen;
+    damit bleibt der Kernbegriff der britischen ADM-Regelung unbestimmt.
+  - Die im Gesetzgebungsverfahren zugesagte Sekundärgesetzgebung, die die ICO zur Erstellung einer statutarischen
+    Verhaltensregel zu KI und automatisierten Entscheidungen verpflichtet, war am 27.08.2026 noch in Vorbereitung.
+  - Genaues Erlassdatum von SI 2026/82 nicht verifiziert; Inkrafttretensdatum 05.02.2026 dagegen aus dem
+    SI-Text belegt.
+  - Ob das EU-Angemessenheitsbeschluss-Regime die Art.-22A-22D-Reform trägt, ist offen; die Kommission
+    hatte die UK-Angemessenheit zuletzt verlängert.
+  monitoring_quellen:
+  - https://www.legislation.gov.uk/ukpga/2025/18/contents
+  - https://ico.org.uk/for-organisations/data-use-and-access-act-2025/
+  - https://www.legislation.gov.uk/all?title=Data%20%28Use%20and%20Access%29%20Act%202025
+  bezug_regelwerke:
+  - uk-gdpr
+  - uk-copyright-ai-prozess
+  - uk-sektorregulierer-ki
+  - uk-public-authority-adm-bill
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: uk-osa-2023
+  jurisdiktion: uk
+  kurztitel: Online Safety Act 2023
+  offizieller_titel: Online Safety Act 2023
+  fundstelle: 2023 c. 50
+  verfahrensnummer: null
+  status: teilanwendbar
+  status_detail: 'Royal Assent 26.10.2023; gestaffelte Inkraftsetzung durch Ofcom-Codes seit März 2025
+    (illegale Inhalte) und Juli 2025 (Kinderschutz, Altersverifikation). Ofcom hat mit offenem Brief vom
+    08.11.2024 klargestellt, dass generative KI und Chatbots erfasst sind. Der Crime and Policing Act
+    2026 hat den Anwendungsbereich am 29.04.2026 um eine Verordnungsermächtigung für bislang unregulierte
+    KI-Chatbots erweitert.
+
+    '
+  kurzbeschreibung: 'Der OSA ist das britische Regime mit der größten praktischen Durchgriffswirkung auf
+    KI-Anwendungen. Er verpflichtet Nutzer-zu-Nutzer-Dienste und Suchdienste zu Risikobewertungen für
+    illegale Inhalte und für Kinder, zu verhältnismäßigen Schutzmaßnahmen, zu Melde- und Abhilfeverfahren
+    und zu Altersverifikation bei pornografischen Inhalten. Ofcom hat festgestellt, dass KI-generierte
+    Inhalte genauso behandelt werden wie von Menschen erstellte, dass Plattformen mit nutzergeteilten
+    Chatbot-Ausgaben, Dienste zum Erstellen und Teilen eigener Chatbots sowie generative Suchwerkzeuge
+    in den Anwendungsbereich fallen und dass eine bloße Kennzeichnung als KI-generiert nicht entlastet.
+    Bußgelder nach Schedule 13 Ziff. 4 Abs. 1 bis 18 Mio. GBP oder 10 % des qualifizierten weltweiten
+    Umsatzes, je nachdem, welcher Betrag höher ist.
+
+    '
+  inkrafttreten:
+    datum: 2023-10-26
+    verifiziert: true
+    quelle: https://www.legislation.gov.uk/ukpga/2023/50/section/240
+    fundstelle_norm: 'Sec. 240(4) Online Safety Act 2023: die dort aufgezaehlten Vorschriften (u.a. Parts
+      1 und 2, Part 3 Kap. 1, Schedules 4-7, 11) treten "on the day on which this Act is passed" in Kraft;
+      Royal Assent laut Kopfzeile "2023 CHAPTER 50 ... [26th October 2023]". Uebrige Vorschriften nach
+      sec. 240(1) durch Regulations, einzelne nach zwei Monaten.'
+  anwendungsdaten:
+  - datum: 2024-11-08
+    was_gilt: 'Ofcom stellt im offenen Brief klar, wie der OSA auf generative KI und Chatbots anzuwenden
+      ist.
+
+      '
+    verifiziert: true
+    quelle: https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/open-letter-to-uk-online-service-providers-regarding-generative-ai-and-chatbots
+  - datum: 2025-03-17
+    was_gilt: 'Frist für Risikobewertungen zu illegalen Inhalten; danach Wirksamkeit der Pflichten zu
+      illegalen Inhalten.
+
+      '
+    verifiziert: false
+    quelle: https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/open-letter-to-uk-online-service-providers-regarding-generative-ai-and-chatbots
+  - datum: 2026-04-29
+    was_gilt: 'Crime and Policing Act 2026 ändert s. 216 OSA: Verordnungsbefugnis des Technologieministers,
+      "illegal AI-generated content" und "AI services" (einschließlich eigenständiger KI-Chatbots) den
+      OSA-Pflichten zu unterwerfen; außerdem 48-Stunden-Löschpflicht für intime Bilder.
+
+      '
+    verifiziert: true
+    quelle: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
+  themenachsen:
+  - content
+  - grundrechte
+  - sektor-oeffentlich
+  - haftung
+  regelungsschwerpunkte:
+  - 'Ofcom, offener Brief vom 08.11.2024: ''any AI-generated text, audio, images or videos that are shared
+    by users on a user-to-user service is user-generated content''. Damit ist der OSA — nicht ein KI-Gesetz
+    — die britische Antwort auf synthetische Inhalte.'
+  - 'Erfasst sind: Plattformen mit Chatbot-Funktion und Teilen der Ausgaben; Dienste, auf denen Nutzer
+    eigene Chatbots erstellen und in eine Bibliothek einstellen; generative Suchdienste, die live Ergebnisse
+    aus dem Netz liefern; Dienste, die pornografische Inhalte erzeugen können (dann Altersverifikationspflicht).'
+  - 'Regelungslücke bis 2026: Ein eigenständiger 1:1-Chatbot ohne Teilen-Funktion war nicht erfasst. Diese
+    Lücke schließt der Crime and Policing Act 2026 — allerdings nur durch eine ERMÄCHTIGUNG, nicht durch
+    unmittelbare Pflichten; die Verordnung muss noch erlassen werden.'
+  - 'Altersverifikation: Seit Juli 2025 gelten ''highly effective age assurance''-Pflichten. Sie gelten
+    auch für KI-Dienste, die pornografische Inhalte generieren können.'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Der OSA setzt beim Verbreiten an, die KI-VO beim Erzeugen. Art.
+    50 Abs. 2 KI-VO verpflichtet den ANBIETER des generativen Systems zur maschinenlesbaren Markierung;
+    der OSA verpflichtet den PLATTFORMBETREIBER zur Risikominderung. Ein UK-Anbieter eines Bildgenerators
+    ohne eigene Plattform trifft nach OSA keine Kennzeichnungspflicht.'
+  - 'RECHTSPRECHUNGSHINWEIS: Bislang keine höchstrichterliche UK-Entscheidung zur Anwendung des OSA auf
+    generative KI; Ofcom führt seit 2026 Untersuchungen gegen KI-Plattformen.'
+  dokumente:
+  - datum: 2024-11-08
+    typ: leitlinie
+    titel: Open letter to UK online service providers regarding generative AI and chatbots
+    url: https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/open-letter-to-uk-online-service-providers-regarding-generative-ai-and-chatbots
+    sprache: en
+    urheber: Ofcom
+    verifiziert: true
+    notiz: Das maßgebliche Dokument dafür, wie generative KI im UK reguliert ist — nämlich über Online-Sicherheitsrecht.
+  - datum: 2026-02-23
+    typ: uebersicht
+    titel: Online safety reforms to be fast-tracked amid rising AI risks
+    url: https://www.lewissilkin.com/insights/2026/02/23/online-safety-reforms-to-be-fast-tracked-amid-rising-ai-risks-102mk2r
+    sprache: en
+    urheber: Lewis Silkin
+    verifiziert: true
+    notiz: Chronologie der beschleunigten Reformen; Ankündigung der Chatbot-Erweiterung am 16.02.2026.
+  - datum: 2026-05-01
+    typ: uebersicht
+    titel: Digital regulation — UK Regulatory Outlook May 2026
+    url: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
+    sprache: en
+    urheber: Osborne Clarke
+    verifiziert: true
+    notiz: Belegt s.-216-OSA-Änderung, 48-Stunden-Löschpflicht, Hash-Matching-Empfehlung für Herbst 2026.
+  offene_punkte:
+  - Die Verordnung, die eigenständige KI-Chatbots tatsächlich unter den OSA stellt, ist noch nicht erlassen.
+    Bis dahin bleibt die Lücke bestehen.
+  - Inkrafttretensdatum des OSA (26.10.2023) und die Frist 17.03.2025 nicht durch Primärquellenabruf verifiziert.
+  - Ofcoms gesetzlicher Bericht zu kinderschädlichen Inhalten ist Berichten zufolge zum 26.10.2026 fällig
+    — nicht primärquellenverifiziert.
+  monitoring_quellen:
+  - https://www.ofcom.org.uk/online-safety/
+  - https://www.legislation.gov.uk/ukpga/2023/50/contents
+  bezug_regelwerke:
+  - uk-crime-policing-act-2026
+  - uk-duaa-2025
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: uk-crime-policing-act-2026
+  jurisdiktion: uk
+  kurztitel: Crime and Policing Act 2026
+  offizieller_titel: Crime and Policing Act 2026
+  fundstelle: 2026 c. 20
+  verfahrensnummer: Crime and Policing Bill, Bill-ID 3938, Session 2024-26
+  status: verabschiedet
+  status_detail: 'Royal Assent am 29.04.2026. Die KI-bezogenen Vorschriften treten gestaffelt durch Commencement
+    Orders in Kraft; ein Inkrafttretensdatum für die Chatbot-Ermächtigung war am 27.08.2026 nicht feststellbar.
+    Die Chapter-Nummer 2026 c. 20 stammt aus Wikipedia und ließ sich wegen einer robots.txt-Sperre nicht
+    unmittelbar auf legislation.gov.uk verifizieren.
+
+    '
+  kurzbeschreibung: 'Das Gesetz ist — neben dem DUAA — der konkreteste britische KI-Rechtsakt und zeigt
+    exemplarisch die britische Methode: KI wird nicht als Technologie reguliert, sondern über Straftatbestände
+    und Verordnungsermächtigungen an einzelnen Schadensbildern. Es verbietet KI-Modelle, die auf die Erzeugung
+    von Darstellungen sexuellen Kindesmissbrauchs optimiert sind, kriminalisiert das Herstellen, Anpassen,
+    Liefern und Anbieten von Werkzeugen zur Erzeugung vorgeblicher intimer Bilder ("Nudification-Tools"),
+    erweitert die Straftatbestände zu nicht einvernehmlichen intimen Bildern einschließlich KI-generierter
+    Deepfakes und ermächtigt den Technologieminister, bislang unregulierte KI-Chatbots per Verordnung
+    den Pflichten des Online Safety Act 2023 zu unterwerfen. Zugleich führt es eine 48-Stunden-Löschpflicht
+    für intime Bilder und eine persönliche Verantwortlichkeit leitender Personen bei Nichtbefolgung von
+    Ofcom-Anordnungen ein.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-29
+    verifiziert: true
+    quelle: https://en.wikipedia.org/wiki/Crime_and_Policing_Act_2026
+  anwendungsdaten:
+  - datum: 2026-04-29
+    was_gilt: Royal Assent; einzelne Vorschriften treten erst durch Commencement Orders in Kraft.
+    verifiziert: true
+    quelle: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Maßnahme 49 des Regierungs-Factsheets: ''Introducing a power for the Technology Secretary to make
+    regulations to bring unregulated AI chatbots into scope of the Online Safety Act 2023'' — Änderung
+    von s. 216 OSA. Erfasst ''illegal AI-generated content'' und ''AI services'', definiert als Internetdienst,
+    der KI-generierte Inhalte erzeugen kann.'
+  - 'Maßnahme 20: Verbot von KI-Modellen, die auf die Erzeugung von CSAM optimiert sind, sowie Ausweitung
+    des Tatbestands der ''pädophile manuals''. Dies ist weltweit einer der wenigen Fälle, in denen ein
+    MODELL als solches verboten wird — funktional vergleichbar mit Art. 5 KI-VO, aber strafrechtlich statt
+    marktaufsichtsrechtlich konstruiert.'
+  - 'Maßnahme 31: Kriminalisierung von Nudification-Tools — Herstellen, Anpassen, Liefern, Anbieten. Erfasst
+    die Werkzeugebene, nicht nur die Erzeugnisebene.'
+  - 'Maßnahmen 28-34: nicht einvernehmliche intime Bilder einschließlich KI-generierter Deepfakes als
+    priority offences im Sinne des OSA; 48-Stunden-Löschpflicht; strafrechtliche Verantwortlichkeit leitender
+    Personen bei Nichtbefolgung von Ofcom-Löschanordnungen.'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Die KI-VO adressiert KI-generierte nicht einvernehmliche intime
+    Darstellungen erst mit den ab 02.12.2026 geltenden neuen Verbotstatbeständen des Art. 5 (Digital-Omnibus-Fassung)
+    und sanktioniert verwaltungsrechtlich. Das UK sanktioniert früher, strafrechtlich und gegen natürliche
+    Personen — dafür ohne jede Pflicht zu Risikomanagement oder Vorab-Bewertung.'
+  dokumente:
+  - datum: 2026-04-29
+    typ: uebersicht
+    titel: 'Crime and Policing Act 2026: overarching factsheet'
+    url: https://www.gov.uk/government/publications/crime-and-policing-act-2026-factsheets/crime-and-policing-act-overarching-factsheet
+    sprache: en
+    urheber: Home Office
+    verifiziert: true
+    notiz: Amtliche Übersicht mit den nummerierten Maßnahmen 20, 31 und 49 zu KI.
+  - datum: 2026-05-01
+    typ: uebersicht
+    titel: Digital regulation — UK Regulatory Outlook May 2026
+    url: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
+    sprache: en
+    urheber: Osborne Clarke
+    verifiziert: true
+    notiz: Royal Assent 29.04.2026; Details der OSA-Änderung und der Löschpflichten.
+  offene_punkte:
+  - 'Sektionsnummern der KI-Vorschriften nicht abschließend verifiziert; eine Sekundärquelle nennt s.
+    255 ''AI chatbots: offences''. legislation.gov.uk war wegen robots.txt nicht abrufbar.'
+  - Kein Commencement Order zur Chatbot-Ermächtigung feststellbar; die Vorschrift ist damit noch nicht
+    wirksam.
+  - Chapter-Nummer 2026 c. 20 nur sekundärquellenbelegt.
+  monitoring_quellen:
+  - https://www.legislation.gov.uk/ukpga/2026/20/contents
+  - https://www.gov.uk/government/publications/crime-and-policing-act-2026-factsheets
+  - https://bills.parliament.uk/bills/3938
+  bezug_regelwerke:
+  - uk-osa-2023
+  - uk-duaa-2025
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: uk-cdpa-1988
+  jurisdiktion: uk
+  kurztitel: CDPA 1988 — Urheberrecht und TDM
+  offizieller_titel: Copyright, Designs and Patents Act 1988
+  fundstelle: 1988 c. 48
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Unverändert. Trotz Konsultation, Regierungsbericht und parlamentarischem Konflikt ist
+    das britische Urheberrecht im Hinblick auf KI-Training am 27.08.2026 nicht geändert worden. Die Regierung
+    hat am 18.03.2026 ausdrücklich erklärt, sie habe keinen bevorzugten Weg mehr und werde nicht reformieren,
+    bevor sie sicher sei.
+
+    '
+  kurzbeschreibung: 'Der CDPA enthält in s. 29A eine TDM-Schranke, die ausschließlich Vervielfältigungen
+    zum Zweck der Text- und Datenanalyse für NICHT-KOMMERZIELLE Forschung erlaubt und die rechtmäßigen
+    Zugang voraussetzt. Kommerzielles KI-Training ist damit im UK grundsätzlich lizenzpflichtig — enger
+    als Art. 4 DSM-Richtlinie. Zugleich enthält s. 9 Abs. 3 CDPA die weltweit ungewöhnliche Regelung für
+    "computer-generated works" ohne menschlichen Urheber mit 50 Jahren Schutzdauer; die Regierung schlägt
+    vor, sie zu streichen. Ein Reformversuch von 2022 (breite kommerzielle TDM-Schranke) wurde zurückgezogen;
+    der Vorschlag von 2024 (breite Schranke mit Rechtevorbehalt) wurde 2026 aufgegeben.
+
+    '
+  inkrafttreten:
+    datum: 1989-08-01
+    verifiziert: true
+    quelle: https://www.legislation.gov.uk/uksi/1989/816/made
+    fundstelle_norm: Art. 2 der Copyright, Designs and Patents Act 1988 (Commencement No. 1) Order 1989,
+      SI 1989/816, erlassen auf Grundlage von sec. 305(3) CDPA 1988 (Teile I bis VII treten am 1. August
+      1989 in Kraft).
+  anwendungsdaten:
+  - datum: 2014-06-01
+    was_gilt: s. 29A CDPA (TDM-Schranke für nicht-kommerzielle Forschung) wirksam.
+    verifiziert: false
+    quelle: https://www.legislation.gov.uk/ukpga/1988/48/section/29A
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - vertrag
+  regelungsschwerpunkte:
+  - 's. 29A CDPA: TDM nur für ''non-commercial research'' und nur bei rechtmäßigem Zugang; vertragliche
+    Abbedingung ist unwirksam. Für kommerzielles Training des Basismodells gibt es KEINE Schranke — das
+    ist der zentrale Unterschied zur EU, wo Art. 4 DSM-RL kommerzielles TDM mit Opt-out-Vorbehalt erlaubt.'
+  - 's. 9 Abs. 3 CDPA: Urheber eines computergenerierten Werkes ohne menschlichen Urheber ist, wer die
+    für die Schöpfung notwendigen Vorkehrungen trifft; 50 Jahre Schutz (s. 12 Abs. 7). Der Bericht vom
+    18.03.2026 schlägt die Abschaffung für rein KI-erzeugte Werke vor und will den Schutz auf menschlich
+    unterstützte Erzeugnisse begrenzen.'
+  - 'RECHTSPRECHUNGSHINWEIS — Getty Images (US) Inc & Ors v Stability AI Ltd [2025] EWHC 2863 (Ch), High
+    Court (Ch), Mrs Justice Joanna Smith, Urteil vom 04.11.2025, Aktenzeichen IL-2023-000007: Getty gab
+    die Ansprüche wegen unmittelbarer Urheberrechtsverletzung im Verlauf des Verfahrens (Juni 2025) auf,
+    weil sich nicht nachweisen ließ, dass Vervielfältigungshandlungen im Vereinigten Königreich stattfanden
+    — das Training erfolgte auf Rechnern außerhalb des UK. Der Anspruch wegen mittelbarer Verletzung nach
+    ss. 22/23 CDPA scheiterte: Das Gericht hielt zwar fest, dass ein ''article'' im Sinne der Vorschrift
+    auch eine unkörperliche elektronische Kopie sein kann, entschied aber, dass die Modellgewichte von
+    Stable Diffusion selbst keine ''infringing copy'' sind, weil das Modell die Trainingswerke nicht speichert.
+    Getty obsiegte lediglich in einem eng begrenzten Umfang wegen Markenverletzung (Getty-Wasserzeichen
+    in Ausgaben). BEDEUTUNG: Solange ein Modell keine Werkkopien enthält, greift das UK-Urheberrecht den
+    Modellimport nicht — die Auslandsverlagerung des Trainings entzieht das Vorhaben faktisch der britischen
+    Jurisdiktion. Genau dies ist das Argument der Kreativwirtschaft für eine gesetzliche Transparenzpflicht.'
+  - 'RECHTSPRECHUNGSHINWEIS — Getty Images (US) Inc & Ors v Stability AI Ltd (Re Form of Order) [2025]
+    EWHC 3343 (Ch): Im Dezember 2025 erteilte Mrs Justice Smith Getty die Zulassung der Berufung zur mittelbaren
+    Verletzung, weil es sich um eine reine Rechtsfrage der Gesetzesauslegung handele, ''on which the minds
+    of reasonable lawyers may differ'' — nämlich ob eine ''infringing copy'' die Werke tatsächlich enthalten
+    muss. Stability AIs Antrag auf Zulassung der Berufung gegen die Markenfeststellung wurde abgelehnt.
+    Ein Termin des Court of Appeal war am 27.08.2026 nicht bekannt.'
+  - 'RECHTSPRECHUNGSHINWEIS — Thaler v Comptroller-General of Patents, Designs and Trade Marks [2023]
+    UKSC 49, Urteil vom 20.12.2023: Der Supreme Court entschied einstimmig, dass ein KI-System (DABUS)
+    nach dem Patents Act 1977 nicht als Erfinder benannt werden kann; s. 13 Abs. 2 lit. a verlangt in
+    jedem Fall die Benennung einer Person, und Dr. Thaler konnte kein Recht auf Erteilung aus dem Eigentum
+    an der Maschine ableiten. BEDEUTUNG: Britisches Immaterialgüterrecht knüpft Schutzrechtsinhaberschaft
+    an natürliche Personen. Zusammen mit dem Vorschlag, s. 9 Abs. 3 CDPA zu streichen, ergibt sich eine
+    konsistente Linie: rein maschinelle Erzeugnisse sind schutzlos.'
+  dokumente:
+  - datum: 2025-11-04
+    typ: endfassung
+    titel: Getty Images v Stability AI [2025] EWHC 2863 (Ch) — Urteil
+    url: https://www.judiciary.uk/judgments/getty-images-v-stability-ai/
+    sprache: en
+    urheber: Courts and Tribunals Judiciary
+    verifiziert: true
+    notiz: Amtliche Urteilsfundstelle. 205 Seiten nebst Anhängen.
+  - datum: 2023-12-20
+    typ: endfassung
+    titel: Thaler (Appellant) v Comptroller-General of Patents, Designs and Trademarks (Respondent) [2023]
+      UKSC 49
+    url: https://www.supremecourt.uk/cases/uksc-2021-0201
+    sprache: en
+    urheber: UK Supreme Court
+    verifiziert: true
+    notiz: Höchstrichterliche Entscheidung zur Erfindereigenschaft von KI.
+  - datum: 2026-01-15
+    typ: stellungnahme
+    titel: Permission to appeal granted in Getty Images v Stability copyright claim
+    url: https://ipkitten.blogspot.com/2026/01/permission-to-appeal-granted-in-getty.html
+    sprache: en
+    urheber: The IPKat
+    verifiziert: true
+    notiz: Belegt Berufungszulassung, Zitat [2025] EWHC 3343 (Ch) und die Ablehnung von Stabilitys Gegenantrag.
+  offene_punkte:
+  - Berufungstermin des Court of Appeal in Getty v Stability nicht bekannt; die Entscheidung wird die
+    britische Rechtslage zur mittelbaren Verletzung durch Modellgewichte bestimmen.
+  - Inkrafttretensdaten von CDPA 1988 und s. 29A nicht durch Primärquellenabruf verifiziert.
+  - Kein Gesetzgebungsvorhaben zur Änderung von s. 29A oder s. 9 Abs. 3 CDPA anhängig.
+  monitoring_quellen:
+  - https://www.legislation.gov.uk/ukpga/1988/48/contents
+  - https://www.judiciary.uk/judgments/
+  - https://ipkitten.blogspot.com/
+  bezug_regelwerke:
+  - uk-copyright-ai-prozess
+  - uk-duaa-2025
+  - uk-ai-regulation-bill-holmes
+  letzte_pruefung: 2026-09-05
+- id: uk-copyright-ai-prozess
+  jurisdiktion: uk
+  kurztitel: Copyright and AI — Konsultation, DUAA-Berichte, Folgeprozess
+  offizieller_titel: 'Copyright and Artificial Intelligence (Konsultation Dez. 2024 – Feb. 2025); Report
+    on Copyright and Artificial Intelligence und Copyright and Artificial Intelligence: Impact Assessment
+    (CP2602959) nach ss. 135, 136 Data (Use and Access) Act 2025
+
+    '
+  fundstelle: CP2602959; Bericht ISBN 978-1-5286-6308-3, Folgenabschätzung ISBN 978-1-5286-6317-5
+  verfahrensnummer: Written Ministerial Statement HCWS1416 (18.03.2026)
+  status: softlaw
+  status_detail: 'Abgeschlossener Berichtsprozess ohne Gesetzgebungsergebnis. Die Regierung hat ihren
+    ursprünglich bevorzugten Weg (Option 3: breite TDM-Schranke mit Rechtevorbehalt/Opt-out) am 18.03.2026
+    aufgegeben und keinen neuen bevorzugten Weg benannt. Angekündigt sind lediglich weitere Evidenzsammlung,
+    freiwillige Best-Practice-Arbeit und zwei Folgeprozesse: eine Konsultation zu "digital replicas" (Sommer
+    2026) und ein Zwischenbericht der Taskforce zur Kennzeichnung KI-generierter Inhalte (Herbst 2026).
+
+    '
+  kurzbeschreibung: 'Die Konsultation lief vom 17.12.2024 bis 25.02.2025 und erhielt gut 11.500 Antworten,
+    die von einer 80-köpfigen Taskforce ohne KI-Einsatz ausgewertet wurden. Sie schlug vier Optionen vor,
+    von denen die Regierung Option 3 bevorzugte: eine breite TDM-Schranke für jeden Zweck, soweit Rechteinhaber
+    sich die Rechte nicht vorbehalten. Während der Beratung des Data (Use and Access) Bill entbrannte
+    ein monatelanger Konflikt zwischen Lords und Commons um von Baroness Kidron eingebrachte Transparenzpflichten
+    für KI-Entwickler. Der Kompromiss bestand darin, statt materieller Pflichten Berichtspflichten zu
+    schaffen (ss. 135-137 DUAA). Der Zwischenbericht nach s. 137 erschien am 15.12.2025, der Bericht nach
+    s. 136 nebst Wirtschaftsfolgenabschätzung nach s. 135 am 18.03.2026. Ergebnis: kein Opt-out, keine
+    Transparenzpflicht, kein Eingriff in den Lizenzmarkt, keine Reform vor gesicherter Erkenntnis.
+
+    '
+  inkrafttreten:
+    datum: 2024-12-17
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report/copyright-and-artificial-intelligence-statement-of-progress-under-section-137-data-use-and-access-act
+  anwendungsdaten:
+  - datum: 2025-02-25
+    was_gilt: Ende der Konsultationsfrist; gut 11.500 Antworten.
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report/copyright-and-artificial-intelligence-statement-of-progress-under-section-137-data-use-and-access-act
+  - datum: 2025-12-15
+    was_gilt: 'Statement of Progress nach s. 137 DUAA veröffentlicht; vier Experten-Arbeitsgruppen (Kontrolle/technische
+      Standards, Transparenz, Lizenzierung, breitere Unterstützung der Kreativwirtschaft) mit über 50
+      Mitgliedern eingesetzt.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report/copyright-and-artificial-intelligence-statement-of-progress-under-section-137-data-use-and-access-act
+  - datum: 2026-03-18
+    was_gilt: 'Bericht nach s. 136 und Wirtschaftsfolgenabschätzung nach s. 135 veröffentlicht (CP2602959),
+      zugleich Written Ministerial Statement HCWS1416 von Liz Kendall. Option 3 aufgegeben, kein neuer
+      bevorzugter Weg, keine Gesetzgebung.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'TDM/Opt-out: ''Wir verfolgen Option 3 nicht als bevorzugten Weg weiter.'' Die Regierung will stattdessen
+    ''further evidence on how copyright laws are impacting the development and deployment of AI across
+    the economy'' sammeln. Konsequenz: s. 29A CDPA bleibt unverändert, kommerzielles Training bleibt lizenzpflichtig
+    — und faktisch unkontrolliert, solange das Training im Ausland stattfindet (vgl. Getty v Stability).'
+  - 'Transparenz: Die Regierung bekennt sich zum Ziel, will aber nur ''work with industry and experts
+    to develop best practice on input transparency'' und internationale Entwicklungen, insbesondere die
+    EU-Regeln, beobachten, bevor sie eine britische Gesetzgebung erwägt. Baroness Lloyd am 16.07.2026:
+    Die Vorschläge hätten ''did not command the support of the creative industry or the technology industry''.'
+  - 'Lizenzmarkt: kein Eingriff. ''Monitor the market as it develops and will keep market-led approaches
+    to licensing under review.'' Kein Zwangslizenz- oder Vergütungsmodell.'
+  - 'Digitale Ebenbilder/Persönlichkeitsrecht: Die Regierung erkennt Schutzbedarf an, entscheidet aber
+    nicht; sie will ''a range of options'' prüfen, einschließlich eines neuen ''digital replica or personality
+    right''. Konsultation für Sommer 2026 zugesagt — am 27.08.2026 nicht auffindbar und damit überfällig.'
+  - 'Computergenerierte Werke: Vorschlag, den Schutz für rein ohne menschliche Beteiligung erzeugte Werke
+    abzuschaffen (s. 9 Abs. 3 CDPA), menschlich unterstützte Erzeugnisse aber geschützt zu lassen.'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Art. 53 Abs. 1 lit. c KI-VO verpflichtet GPAI-Anbieter zu einer
+    Urheberrechts-Policy einschließlich der Beachtung von Rechtevorbehalten nach Art. 4 Abs. 3 DSM-RL,
+    lit. d zu einer öffentlichen, hinreichend detaillierten Zusammenfassung der Trainingsinhalte nach
+    dem Muster des KI-Büros. Das UK hat exakt diese beiden Pflichten geprüft und ausdrücklich NICHT eingeführt.
+    Ein GPAI-Anbieter, der nur den britischen Markt bedient, unterliegt keiner Trainingsdaten-Offenlegung.'
+  dokumente:
+  - datum: 2024-12-17
+    typ: konsultation
+    titel: Copyright and Artificial Intelligence (Konsultationsdokument)
+    url: https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence/copyright-and-artificial-intelligence
+    sprache: en
+    urheber: DSIT / DCMS / Intellectual Property Office
+    verifiziert: false
+    notiz: Enthält die vier Optionen. In dieser Sitzung nicht direkt abgerufen.
+  - datum: 2025-12-15
+    typ: bericht
+    titel: 'Copyright and artificial intelligence: statement of progress under Section 137 Data (Use and
+      Access) Act'
+    url: https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report/copyright-and-artificial-intelligence-statement-of-progress-under-section-137-data-use-and-access-act
+    sprache: en
+    urheber: DSIT / IPO
+    verifiziert: true
+    notiz: 'Verfahrensdokumentation: 11.500 Antworten, vier Arbeitsgruppen, Fristbindung auf den 18.03.2026.'
+  - datum: 2026-03-18
+    typ: bericht
+    titel: Report and impact assessment on Copyright and Artificial Intelligence (CP2602959)
+    url: https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence
+    sprache: en
+    urheber: DSIT / DCMS / Intellectual Property Office
+    verifiziert: true
+    notiz: 'Sammelseite. Bericht 125 S., Folgenabschätzung 52 S. Seite zuletzt aktualisiert am 20.08.2026.
+
+      '
+  - datum: 2026-03-18
+    typ: bericht
+    titel: Report on Copyright and Artificial Intelligence (HTML-Fassung)
+    url: https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence
+    sprache: en
+    urheber: DSIT / DCMS / IPO
+    verifiziert: true
+    notiz: Volltext des Berichts nach s. 136 DUAA mit den Schlussfolgerungen zu TDM, Transparenz, Lizenzierung,
+      Persönlichkeitsrecht.
+  - datum: 2026-03-18
+    typ: plenarprotokoll
+    titel: Copyright and AI Progress — Written Ministerial Statement HCWS1416
+    url: https://questions-statements.parliament.uk/written-statements/detail/2026-03-18/hcws1416
+    sprache: en
+    urheber: Liz Kendall MP, Secretary of State for Science, Innovation and Technology
+    verifiziert: true
+    notiz: 'Enthält die einzigen datierten Folgezusagen: Konsultation zu digital replicas im Sommer 2026,
+      Zwischenbericht der Kennzeichnungs-Taskforce im Herbst 2026.
+
+      '
+  - datum: 2026-07-16
+    typ: plenarprotokoll
+    titel: 'Artificial Intelligence: Legislation — House of Lords'
+    url: https://hansard.parliament.uk/Lords/2026-07-16/debates/E7578DA3-9339-4E53-97DA-D907647C6C66/ArtificialIntelligenceLegislation
+    sprache: en
+    urheber: Hansard
+    verifiziert: true
+    notiz: 'Baroness Lloyd of Effra: Transparenzvorschläge fanden weder bei Kreativ- noch bei Technologiewirtschaft
+      Zustimmung; weitere Konsultation ''over the summer and beyond''.
+
+      '
+  offene_punkte:
+  - Die für Sommer 2026 zugesagte Konsultation zu digital replicas war am 27.08.2026 auf gov.uk nicht
+    auffindbar — überfällig oder unmittelbar bevorstehend.
+  - Zwischenbericht der Taskforce zur Kennzeichnung KI-generierter Inhalte für Herbst 2026 angekündigt,
+    ohne Datum.
+  - Warum die Sammelseite am 20.08.2026 aktualisiert wurde, konnte nicht geklärt werden.
+  - Ein Bericht des Lords Communications and Digital Committee ('AI, copyright and the creative industries',
+    HL Paper 267) wurde identifiziert, aber nicht abgerufen; Datum und Empfehlungen unverifiziert.
+  monitoring_quellen:
+  - https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence
+  - https://www.gov.uk/search/policy-papers-and-consultations?keywords=copyright%20artificial%20intelligence
+  - https://questions-statements.parliament.uk/written-statements
+  bezug_regelwerke:
+  - uk-cdpa-1988
+  - uk-duaa-2025
+  - uk-ai-regulation-bill-holmes
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: uk-av-act-2024
+  jurisdiktion: uk
+  kurztitel: Automated Vehicles Act 2024
+  offizieller_titel: Automated Vehicles Act 2024
+  fundstelle: 2024 c. 10
+  verfahrensnummer: Automated Vehicles Bill [HL], Bill-ID 3506
+  status: verabschiedet
+  status_detail: 'Royal Assent am 20.05.2024, aber bis zum 10.09.2026 nicht operativ: Die Vorschriften
+    des Ersten Teils sind nach s. 99 Abs. 1 nicht in Kraft gesetzt; in Kraft ist bislang nur s. 78 für
+    bestimmte Zwecke (01.01.2026, S.I. 2025/1339). Das Zulassungsregime steht darüber hinaus und fällt
+    mit der Statement of Safety Principles und weiteren Rechtsverordnungen. Die Konsultation zur Statement
+    of Safety Principles wurde erst am 17.06.2026 eröffnet und lief bis zum 09.09.2026. Die einschlägige
+    UNECE-Regelung für automatisierte Fahrsysteme wird für Anfang 2027 erwartet.
+
+    '
+  kurzbeschreibung: 'Der AV Act ist das einzige britische Gesetz, das für eine KI-getriebene Technologie
+    ein vollständiges Marktzugangsregime schafft — und damit strukturell dem AI Act ähnelt. Er sieht den
+    "self-driving test" vor, ein Zulassungsverfahren (Authorisation) durch den Secretary of State, die
+    Figur des "authorised self-driving entity" (ASDE) mit fortlaufender Verantwortung, das "no-user-in-charge
+    operator"-Regime und eine Freistellung des "user-in-charge" von Straftaten, die aus der Art und Weise
+    des Fahrens folgen. Für automatisierte Personenbeförderung sieht er ein eigenes Genehmigungsschema
+    vor. Die Statement of Safety Principles legt fest, woran die Sicherheit gemessen wird; der aktuelle
+    Entwurf enthält zehn Grundsätze. Die Vorschriften des Ersten Teils sind zum 10.09.2026 sämtlich nicht
+    in Kraft (s. 99 Abs. 1); in Kraft gesetzt ist bislang nur s. 78 für bestimmte Zwecke (01.01.2026,
+    S.I. 2025/1339).
+
+    '
+  inkrafttreten:
+    datum: 2024-05-20
+    verifiziert: true
+    quelle: https://bills.parliament.uk/bills/3506
+  anwendungsdaten:
+  - datum: 2026-06-17
+    was_gilt: 'Konsultation zur Statement of Safety Principles eröffnet (zehn vorgeschlagene Sicherheitsgrundsätze).
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/consultations/automated-vehicles-statement-of-safety-principles/automated-vehicles-statement-of-safety-principles-consultation
+  themenachsen:
+  - marktzugang
+  - haftung
+  - sicherheit-export
+  - governance
+  regelungsschwerpunkte:
+  - 'Statement of Safety Principles nach dem AV Act: doppelte Funktion — Maßstab für die Zulassungsentscheidung
+    des Secretary of State (''travel safely and autonomously'') und Maßstab der jährlichen Bewertung der
+    Flottenleistung.'
+  - 'Verantwortungsverteilung: Solange die zugelassene Funktion aktiviert ist, ist der Nutzer kein Fahrer
+    und nach s. 47 von Straftaten freigestellt, die aus der Art und Weise des Fahrens folgen; s. 47 weist
+    die Verantwortung aber niemandem zu — die fortlaufende Einstandspflicht der ASDE folgt aus den Zulassungsanforderungen
+    nach s. 6. Dies ist das britische Gegenstück zu Art. 26 KI-VO (Betreiberpflichten), aber deutlich
+    weiter: Es geht um strafrechtliche Zurechnung, nicht nur um Sorgfaltspflichten. Zum 10.09.2026 ist
+    keine dieser Vorschriften in Kraft.'
+  - 'Strukturelle Ähnlichkeit zum AI Act: Zulassung vor Inverkehrbringen, benannte verantwortliche Stelle,
+    laufende Überwachung, Meldepflichten. Der AV Act zeigt, dass das UK ein Ex-ante-Regime durchaus baut
+    — nur eben sektoral und nicht technologiehorizontal.'
+  - 'Praktische Bremse: Ohne Commencement Order nach s. 99 Abs. 1, ohne Safety Principles und ohne die
+    UNECE-ADS-Regelung (erwartet Anfang 2027) kann keine Zulassung erteilt werden. Das Gesetz hat seit
+    über zwei Jahren Royal Assent, ist im Ersten Teil aber nicht in Kraft und hat keinen Anwendungsfall.'
+  dokumente:
+  - datum: 2024-05-20
+    typ: endfassung
+    titel: Automated Vehicles Act 2024 — Bill-Seite mit Royal Assent
+    url: https://bills.parliament.uk/bills/3506
+    sprache: en
+    urheber: UK Parliament
+    verifiziert: true
+    notiz: Belegt Royal Assent 20.05.2024 und Chapter 10.
+  - datum: 2026-06-17
+    typ: konsultation
+    titel: 'Automated vehicles: statement of safety principles consultation'
+    url: https://www.gov.uk/government/consultations/automated-vehicles-statement-of-safety-principles/automated-vehicles-statement-of-safety-principles-consultation
+    sprache: en
+    urheber: Department for Transport
+    verifiziert: true
+    notiz: Läuft bis 09.09.2026, 23:59 Uhr. Voraussetzung für die Operationalisierung des gesamten Regimes.
+  offene_punkte:
+  - Kein Termin für den Erlass der Statement of Safety Principles und der übrigen Rechtsverordnungen.
+  - Verhältnis zum automated passenger services permit scheme und zu laufenden Pilotprojekten nicht abschließend
+    geklärt.
+  - Ob die Regulating for Growth Bill Sandbox-Befugnisse auch auf AV-Erprobungen erstreckt, ist offen.
+  monitoring_quellen:
+  - https://www.gov.uk/government/collections/automated-vehicles-act-2024
+  - https://www.legislation.gov.uk/ukpga/2024/10/contents
+  bezug_regelwerke:
+  - uk-regulating-for-growth-bill
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: uk-aisi
+  jurisdiktion: uk
+  kurztitel: AI Security Institute (AISI)
+  offizieller_titel: 'AI Security Institute (bis 14.02.2025: AI Safety Institute) — Direktorat der zuständigen
+    Fachverwaltung
+
+    '
+  fundstelle: null
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Nicht-statutarische Einrichtung ohne eigene Rechtspersönlichkeit und ohne Hoheitsbefugnisse;
+    organisatorisch ein Direktorat des früheren DSIT, seit Juli 2026 im Ressort des KI-Ministers (DBIST).
+    Die Labour-Regierung hatte eine gesetzliche Verankerung und die Überführung freiwilliger Zusagen der
+    Entwickler in bindende Verpflichtungen versprochen; beides ist bis zum 27.08.2026 nicht geschehen.
+    Finanzierung: 240 Mio. GBP aus dem Spending Review 2025.
+
+    '
+  kurzbeschreibung: 'Das AISI ist die zentrale britische KI-Institution und zugleich der Beleg für die
+    Grenzen des britischen Ansatzes. Es beschäftigt über 100 technische Mitarbeiter, hat nach eigenen
+    Angaben mehr als 30 Frontier-Modelle getestet und forscht zu Cyberfähigkeiten, Überzeugungswirkung,
+    biologischen und chemischen Risiken sowie kriminellem Missbrauch. Es hat jedoch keinerlei Befugnis,
+    Zugang zu Modellen zu verlangen, Prüfungen anzuordnen, Ergebnisse zu veröffentlichen oder Maßnahmen
+    durchzusetzen — der Zugang beruht ausschließlich auf freiwilligen Vereinbarungen mit den Entwicklern.
+    Am 14.02.2025 wurde es von "Safety" in "Security" umbenannt und auf schwere Sicherheitsrisiken fokussiert;
+    ausdrücklich ausgenommen sind seither Verzerrung (bias) und Meinungsfreiheit.
+
+    '
+  inkrafttreten:
+    datum: 2023-11-02
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/ai-safety-institute-overview
+    fundstelle_norm: Kein Rechtsakt, daher keine Inkrafttretensvorschrift. Massgeblich ist die Veroeffentlichung
+      des Regierungspapiers "Introducing the AI Safety Institute" auf gov.uk ("Published 2 November 2023",
+      am Rande des AI Safety Summit in Bletchley Park).
+  anwendungsdaten:
+  - datum: 2025-02-14
+    was_gilt: 'Umbenennung in AI Security Institute; Mandatsverengung auf schwere Sicherheitsrisiken (chemische
+      und biologische Waffen, Cyberangriffe, Betrug, Darstellungen sexuellen Kindesmissbrauchs); ausdrücklicher
+      Verzicht auf Verzerrung und Meinungsfreiheit. Neue Partnerschaften mit Home Office, Dstl, NCSC,
+      LASR und Anthropic.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/news/tackling-ai-security-risks-to-unleash-growth-and-deliver-plan-for-change
+  - datum: 2026-05-25
+    was_gilt: Abkommen mit Australien über KI-Sicherheitsrisiken.
+    verifiziert: true
+    quelle: https://www.gov.uk/government/organisations/ai-security-institute
+  themenachsen:
+  - gpai
+  - sicherheit-export
+  - governance
+  regelungsschwerpunkte:
+  - 'Rechtsstellung: Direktorat einer Fachverwaltung, keine Behörde. Keine Auskunftsverlangen, keine Betretungsrechte,
+    keine Anordnungen, keine Sanktionen. Lord Taylor of Warwick am 16.07.2026: das AISI ''does not have
+    powers to compel companies''.'
+  - 'Zugangsmodell: freiwillige Pre-Deployment-Testvereinbarungen mit Frontier-Entwicklern. Verweigert
+    ein Entwickler den Zugang, gibt es kein Rechtsmittel.'
+  - 'Mandatsverengung 2025: Peter Kyle ausdrücklich, das Institut ''will not focus on bias or freedom
+    of speech, but on advancing our understanding of the most serious risks posed by the technology''.
+    Damit wandert Diskriminierungsschutz vollständig zu ICO und EHRC.'
+  - Vorschlag im Lords-Debattenverlauf (Lord Tarassenko, 04.06.2026), das AISI auf eine gesetzliche Grundlage
+    zu stellen — von der Regierung nicht aufgegriffen.
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Das EU-KI-Büro hat nach Art. 88-94 KI-VO Auskunfts-, Bewertungs-
+    und Massnahmenbefugnisse gegenüber GPAI-Anbietern samt Bußgeldern nach Art. 101. Das AISI hat davon
+    nichts. Es ist eine Forschungseinrichtung, keine Aufsicht.'
+  dokumente:
+  - datum: 2025-02-14
+    typ: pressemitteilung
+    titel: Tackling AI security risks to unleash growth and deliver Plan for Change
+    url: https://www.gov.uk/government/news/tackling-ai-security-risks-to-unleash-growth-and-deliver-plan-for-change
+    sprache: en
+    urheber: DSIT
+    verifiziert: true
+    notiz: Amtlicher Beleg für Umbenennung, Mandatsverengung und Partnerschaften.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: AI Security Institute — Organisationsseite
+    url: https://www.gov.uk/government/organisations/ai-security-institute
+    sprache: en
+    urheber: GOV.UK
+    verifiziert: true
+    notiz: 'Aktuelle Veröffentlichungen: Bewertung von KI-Fähigkeiten und Arbeitsmarktwirkung (28.01.2026),
+      Call for information zu sicherer KI-Infrastruktur (29.01.2026), internationale Koalition mit OpenAI
+      und Microsoft (19.02.2026), UK-Australien-Abkommen (25.05.2026).
+
+      '
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: AI Security Institute — Institutswebsite
+    url: https://www.aisi.gov.uk/
+    sprache: en
+    urheber: AI Security Institute
+    verifiziert: true
+    notiz: 'Selbstbeschreibung als ''directorate of the Department of Science, Innovation, and Technology'';
+      über 100 technische Mitarbeiter; Forschung zu Cyberfähigkeiten und Überzeugungswirkung; MOU mit
+      Google DeepMind.
+
+      '
+  offene_punkte:
+  - Gesetzliche Verankerung des AISI weiterhin offen; die Commons Library stellt am 10.06.2026 ausdrücklich
+    fest, dass sie nicht umgesetzt ist.
+  - Gründungsdatum (02.11.2023, Bletchley Park) nicht durch Primärquellenabruf verifiziert.
+  - Nach der Auflösung des DSIT im Juli 2026 ist die formale Ressortzuordnung des AISI nicht abschließend
+    dokumentiert; die gov.uk-Seite nennt weiterhin DSIT.
+  monitoring_quellen:
+  - https://www.aisi.gov.uk/
+  - https://www.gov.uk/government/organisations/ai-security-institute
+  bezug_regelwerke:
+  - uk-ai-white-paper-2023
+  - uk-ai-opportunities-action-plan
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: uk-ai-opportunities-action-plan
+  jurisdiktion: uk
+  kurztitel: AI Opportunities Action Plan
+  offizieller_titel: 'AI Opportunities Action Plan (Januar 2025) nebst Regierungsantwort und Fortschrittsbericht
+    "AI Opportunities Action Plan: One Year On"
+
+    '
+  fundstelle: null
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Umsetzungsstrategie ohne Rechtswirkung, am 13.01.2025 vorgelegt (50 Empfehlungen, von
+    der Regierung angenommen). Fortschrittsbericht vom 29.01.2026: 38 von 50 Maßnahmen erledigt. Der Plan
+    ist die politische Klammer, unter der Regulierung im UK ausdrücklich als Wachstumshemmnis behandelt
+    wird.
+
+    '
+  kurzbeschreibung: 'Der Plan verfolgt drei Stränge: Infrastruktur (Rechenkapazität, AI Growth Zones,
+    National Data Library), Verbreitung in Verwaltung und Wirtschaft sowie souveräne KI-Fähigkeit. Konkrete
+    Ergebnisse bis Januar 2026: fünf AI Growth Zones (Culham, Blyth/North Tyneside, Nord- und Südwales,
+    Lanarkshire) mit 28,2 Mrd. GBP privater Investition, Isambard-AI-Supercomputer in Bristol, über eine
+    Million kostenlose KI-Weiterbildungsplätze auf dem Weg zu zehn Millionen bis 2030, KI-gestützte Auswertung
+    von 2,4 Mio. Röntgenaufnahmen jährlich im NHS, Health Data Research Service (600 Mio. GBP mit Wellcome).
+    Regulatorisch relevant sind vor allem das AI Growth Lab, der AI Assurance Innovation Fund (11 Mio.
+    GBP, erste Antragsrunde Frühjahr 2026) und die Sovereign AI Unit (500 Mio. GBP, nächste Phase April
+    2026).
+
+    '
+  inkrafttreten:
+    datum: 2025-01-13
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/ai-opportunities-action-plan
+    fundstelle_norm: Kein Rechtsakt, daher keine Inkrafttretensvorschrift. Massgeblich ist die Veroeffentlichung
+      durch das Department for Science, Innovation and Technology auf gov.uk ("Published 13 January 2025").
+  anwendungsdaten:
+  - datum: 2026-01-29
+    was_gilt: 'Fortschrittsbericht "One Year On": 38 von 50 Maßnahmen erledigt; AISI mit 240 Mio. GBP
+      und über 30 getesteten Frontier-Modellen; AI Growth Lab als Call for Evidence gestartet.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on
+  themenachsen:
+  - governance
+  - wettbewerb
+  - arbeit
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Der Plan enthält keine einzige regulatorische Pflicht. Sein regulatorischer Gehalt besteht ausschließlich
+    aus Abbau: Sandboxes, Growth Duty, Regulatory Innovation Office.'
+  - 'KI-Assurance als Marktlösung: Der AI Assurance Innovation Fund (11 Mio. GBP) fördert einen privaten
+    Prüf- und Zertifizierungsmarkt anstelle gesetzlicher Konformitätsbewertung. Das ist die bewusste britische
+    Alternative zu Art. 43 KI-VO und zum System notifizierter Stellen.'
+  - 'Planungs-KI-Werkzeuge: regionale Erprobung ab Mai 2026, landesweite Einführung 2027 — staatlicher
+    KI-Einsatz ohne die gescheiterte gesetzliche Folgenabschätzungspflicht (vgl. uk-public-authority-adm-bill).'
+  - Die Commons Library merkt an, dass die für 2025 zugesagte öffentliche Konsultation zur KI-Regulierung
+    'um mindestens ein Jahr' verschoben und bis Juni 2026 nicht eröffnet wurde.
+  dokumente:
+  - datum: 2026-01-29
+    typ: bericht
+    titel: 'AI Opportunities Action Plan: One Year On'
+    url: https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on
+    sprache: en
+    urheber: DSIT
+    verifiziert: true
+    notiz: Amtlicher Fortschrittsbericht mit den Zahlen und den datierten Folgezusagen.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: AI Opportunities Action Plan — Fortschritts-Dashboard
+    url: https://delivery.ai.gov.uk/
+    sprache: en
+    urheber: UK Government
+    verifiziert: false
+    notiz: Laufendes Umsetzungs-Dashboard. In dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Publikationsdatum des Ursprungsplans (13.01.2025) nicht durch Primärquellenabruf verifiziert.
+  - Die zugesagte öffentliche Konsultation zur KI-Regulierung ist weiterhin nicht eröffnet.
+  - National Data Library weiterhin 'under policy development'.
+  monitoring_quellen:
+  - https://delivery.ai.gov.uk/
+  - https://www.gov.uk/government/publications/ai-opportunities-action-plan
+  bezug_regelwerke:
+  - uk-aisi
+  - uk-ai-growth-lab
+  - uk-regulating-for-growth-bill
+  letzte_pruefung: 2026-09-05
+- id: uk-ai-growth-lab
+  jurisdiktion: uk
+  kurztitel: AI Growth Lab (Reallabor)
+  offizieller_titel: 'AI Growth Lab — Call for Evidence (Okt. 2025); Advisory AI Growth Lab: legal services
+    (Aug. 2026)
+
+    '
+  fundstelle: null
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Zweistufig. Stufe 1 ist bereits operativ, aber rein beratend: das "Advisory AI Growth
+    Lab" für Rechtsdienstleistungen, Bewerbung ab 06.08.2026. Es erklärt lediglich, wie geltendes Recht
+    auf KI-Werkzeuge anzuwenden ist, und erteilt keine Ausnahmen. Stufe 2 — die Befugnis, geltendes Recht
+    zeitlich befristet zu modifizieren oder auszusetzen — setzt die noch nicht eingebrachte Regulating
+    for Growth Bill voraus.
+
+    '
+  kurzbeschreibung: 'Das AI Growth Lab ist das operative Herzstück der britischen KI-Politik anstelle
+    eines KI-Gesetzes. Der Call for Evidence vom 21.10.2025 (Schlusstermin 07.01.2026) fragte nach einem
+    "pioneering cross-economy sandbox" mit befristeten Ausnahmen für qualifizierte Unternehmen und Produkte,
+    der Möglichkeit, Vorschriften per Sekundärrecht zeitweise zu ändern oder auszusetzen, "roten Linien"
+    für Verbraucherrechte, Sicherheit, Grundrechte und Beschäftigtenschutz sowie einem Mechanismus zur
+    dauerhaften Übernahme erfolgreicher Erprobungen. Eine Regierungsantwort lag am 27.08.2026 nicht vor.
+    Parallel startete ein rein beratendes Lab für Rechtsdienstleistungen, betreut von SRA, Legal Services
+    Board und Council for Licensed Conveyancers.
+
+    '
+  inkrafttreten:
+    datum: 2025-10-21
+    verifiziert: true
+    quelle: https://www.gov.uk/government/calls-for-evidence/ai-growth-lab/ai-growth-lab
+  anwendungsdaten:
+  - datum: 2026-01-07
+    was_gilt: Ende der Frist des Call for Evidence (23:59 Uhr).
+    verifiziert: true
+    quelle: https://www.gov.uk/government/calls-for-evidence/ai-growth-lab/ai-growth-lab
+  - datum: 2026-08-06
+    was_gilt: 'Eröffnung der Bewerbung für das beratende AI Growth Lab Rechtsdienstleistungen; Bewerbungsschluss
+      27.09.2026.
+
+      '
+    verifiziert: false
+    quelle: https://www.gov.uk/government/publications/advisory-ai-growth-lab-legal-services
+  themenachsen:
+  - governance
+  - berufsrecht
+  - marktzugang
+  - sektor-medizin
+  regelungsschwerpunkte:
+  - 'Entscheidende Unterscheidung: Das laufende Lab ist BERATEND (''explain how existing rules apply to
+    AI tools rather than to write new ones''). Die eigentliche Sandbox-Befugnis mit Suspendierungswirkung
+    existiert noch nicht.'
+  - 'Rote Linien: Verbraucherrechte, Sicherheit, Grundrechte, Beschäftigtenschutz sollen nicht modifizierbar
+    sein. Ohne Gesetzestext ist offen, wie diese Grenzen justiziabel werden.'
+  - 'Verstetigungsmechanismus per Sekundärrecht: der eigentliche verfassungsrechtliche Streitpunkt (Lord
+    Holmes: ''executive power grab'').'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Art. 57 ff. KI-VO verpflichten Mitgliedstaaten zu Reallaboren,
+    die Anbieter bei der Erfüllung — nicht bei der Umgehung — der Pflichten unterstützen; Art. 60 erlaubt
+    Tests unter Realbedingungen mit strengen Voraussetzungen und Einwilligung. Das UK-Modell zielt in
+    die Gegenrichtung.'
+  dokumente:
+  - datum: 2025-10-21
+    typ: konsultation
+    titel: AI Growth Lab — Call for Evidence
+    url: https://www.gov.uk/government/calls-for-evidence/ai-growth-lab/ai-growth-lab
+    sprache: en
+    urheber: DSIT
+    verifiziert: true
+    notiz: Geschlossen am 07.01.2026; Regierungsantwort steht aus.
+  - datum: 2026-08-06
+    typ: leitlinie
+    titel: 'Advisory AI Growth Lab: legal services'
+    url: https://www.gov.uk/government/publications/advisory-ai-growth-lab-legal-services
+    sprache: en
+    urheber: DSIT / Ministry of Justice
+    verifiziert: false
+    notiz: 'Erste sektorale Umsetzung. URL aus gov.uk-Suchergebnis; die Unterseiten (Overview, Eligibility,
+      Case studies) wurden in dieser Sitzung nicht einzeln abgerufen.
+
+      '
+  offene_punkte:
+  - Regierungsantwort auf den Call for Evidence steht aus.
+  - Bewerbungsschluss 27.09.2026 für das Rechtsdienstleistungs-Lab nur sekundärquellenbelegt (resultsense.com);
+    Primärquelle nicht abgerufen.
+  - Welche Sektoren nach Rechtsdienstleistungen folgen, ist nicht angekündigt.
+  monitoring_quellen:
+  - https://www.gov.uk/government/calls-for-evidence/ai-growth-lab
+  - https://www.gov.uk/government/publications/advisory-ai-growth-lab-legal-services
+  bezug_regelwerke:
+  - uk-regulating-for-growth-bill
+  - uk-ai-opportunities-action-plan
+  - uk-sektorregulierer-ki
+  letzte_pruefung: 2026-08-27
+- id: uk-sektorregulierer-ki
+  jurisdiktion: uk
+  kurztitel: Sektorale Regulierer und DRCF
+  offizieller_titel: 'KI-Leitlinien und Aufsichtspraxis von ICO, CMA, FCA, Ofcom und weiteren Regulierern;
+    Digital Regulation Cooperation Forum (DRCF)
+
+    '
+  fundstelle: null
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Der eigentliche Vollzug der britischen KI-Politik. Kein Regulierer hat KI-spezifische
+    gesetzliche Befugnisse; alle wenden ihre vorhandenen Regime auf KI an. Koordiniert wird über das DRCF
+    (CMA, FCA, ICO, Ofcom) sowie über die Berichtspflichten aus dem Ministerbrief vom 28.01.2026 an 19
+    Regulierer. Ein Koordinierungsrahmen namens "AIRIA" ließ sich nicht verifizieren und existiert nach
+    dieser Recherche nicht.
+
+    '
+  kurzbeschreibung: 'Die ICO führt seit 2025 eine KI- und Biometrie-Strategie, prüft Gesichtserkennung
+    bei der Polizei, bereitet Leitlinien zu automatisierten Entscheidungen und Profiling vor (Konsultation
+    31.03.-29.05.2026) und soll auf gesetzlicher Grundlage eine Verhaltensregel zu KI und automatisierten
+    Entscheidungen erlassen, sobald die entsprechende Rechtsverordnung ergangen ist. Die FCA betreibt
+    das AI Lab mit "AI Live Testing" und dem "Supercharged Sandbox"; Bank of England, FCA und HM Treasury
+    haben im Mai 2026 eine gemeinsame Erklärung zu Frontier-KI-Cyberrisiken abgegeben, ohne neue Pflichten
+    zu schaffen. Die CMA prüft Basismodelle seit 2023 unter Wettbewerbsgesichtspunkten. Ofcom vollzieht
+    den Online Safety Act auch gegenüber generativer KI. Das DRCF hat 2025/26 einen Thematic Innovation
+    Hub mit Schwerpunkt agentische KI gestartet und im März 2026 das Foresight-Papier "The Future of Agentic
+    AI" veröffentlicht.
+
+    '
+  inkrafttreten:
+    datum: 2024-04-30
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/request-for-regulators-to-publish-an-update-on-their-strategic-approach-to-ai-secretary-of-state-letters
+  anwendungsdaten:
+  - datum: 2026-01-28
+    was_gilt: '19 Regulierer werden verpflichtet, einen Plan zur Unterstützung sicherer KI-Innovation
+      zu veröffentlichen und jährlich über den Fortschritt zu berichten.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/how-will-regulators-enable-safe-ai-powered-innovation-joint-letter-from-dsit-secretary-of-state-and-dbt-secretary-of-state
+  - datum: 2026-03-31
+    was_gilt: ICO eröffnet Konsultation zur Leitlinie über automatisierte Entscheidungen und Profiling
+      (bis 29.05.2026).
+    verifiziert: true
+    quelle: https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/
+  themenachsen:
+  - governance
+  - datenschutz
+  - sektor-finanz
+  - wettbewerb
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'ICO: Strategie KI und Biometrie; Auditberichte zur polizeilichen Gesichtserkennung (South Wales und
+    Gwent August 2025, Essex und Leicestershire März 2026, West Yorkshire laufend, Greater Manchester
+    ab April 2026). Bericht und Empfehlungen zu automatisierten Entscheidungen im Bewerbungsverfahren
+    angekündigt. Forschung zu agentischer KI (Januar 2026).'
+  - 'ICO-Verhaltensregel zu KI und automatisierten Entscheidungen: im DUAA-Verfahren zugesagt; die verpflichtende
+    Rechtsverordnung ist in Vorbereitung, ein Termin steht nicht fest. Sie wäre das erste KI-spezifische,
+    gesetzlich verankerte Regelwerk im UK.'
+  - 'FCA: AI Lab, AI Live Testing (zweite Kohorte ab Januar 2026, acht Firmen), Supercharged Sandbox.
+    Kein KI-Regelwerk — die FCA betont ausdrücklich, dass die bestehenden Grundsätze (Consumer Duty, SM&CR,
+    operationale Resilienz) genügen.'
+  - 'Bank of England / FCA / HM Treasury, gemeinsame Erklärung Mai 2026 zu Frontier-KI und Cyberrisiko:
+    Verwaltungsratsverantwortung, Schwachstellenmanagement, Drittparteirisiko, KI-gestützte Verteidigung
+    — ausdrücklich OHNE neue regulatorische Pflichten.'
+  - 'DRCF: CMA, FCA, ICO, Ofcom. Der AI and Digital Hub lief als einjähriger Pilot bis April 2025 (30
+    Anträge, 9 vollständige regulierungsübergreifende Antworten, 8 anonymisierte Fallstudien) und wurde
+    in den Thematic Innovation Hub überführt; erster Schwerpunkt agentische KI. Zweites Responsible AI
+    Forum am 10.03.2026 mit über 200 Teilnehmern.'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Die KI-VO ordnet Marktüberwachungsbehörden mit Befugnissen nach
+    Art. 74 ff. zu, einschließlich Rückruf, Marktrücknahme und Zugang zu Trainingsdaten und Quellcode
+    (Art. 74 Abs. 12/13). Kein britischer Regulierer hat gegenüber KI-Systemen als solchen eine vergleichbare
+    Befugnis; jeder kann nur innerhalb seines eigenen Regimes handeln.'
+  dokumente:
+  - datum: 2026-03-01
+    typ: bericht
+    titel: AI and biometrics strategy update — March 2026
+    url: https://ico.org.uk/about-the-ico/our-information/our-strategies-and-plans/artificial-intelligence-and-biometrics-strategy/ai-and-biometrics-strategy-update-march-2026/
+    sprache: en
+    urheber: Information Commissioner's Office
+    verifiziert: true
+    notiz: Belegt Stand der Verhaltensregel, der ADM-Leitlinie und der Gesichtserkennungs-Audits.
+  - datum: 2026-03-31
+    typ: konsultation
+    titel: ICO consultation on the draft guidance about automated decision-making, including profiling
+    url: https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/
+    sprache: en
+    urheber: ICO
+    verifiziert: true
+    notiz: 31.03.-29.05.2026. Erste Auslegung der neuen Art. 22A-22D UK GDPR.
+  - datum: 2026-04-01
+    typ: bericht
+    titel: DRCF Annual Report 2025/26
+    url: https://www.drcf.org.uk/siteassets/drcf/pdf-files/drcf-annual-report-2025-26.pdf
+    sprache: en
+    urheber: Digital Regulation Cooperation Forum
+    verifiziert: true
+    notiz: 'Belegt Mitglieder, Thematic Innovation Hub, Foresight-Papier zu agentischer KI (März 2026),
+      Ende des AI and Digital Hub Pilots (April 2025). Kein Hinweis auf eine Struktur namens "AIRIA".
+
+      '
+  - datum: 2026-01-28
+    typ: leitlinie
+    titel: 'How will regulators enable safe AI-powered innovation: joint letter'
+    url: https://www.gov.uk/government/publications/how-will-regulators-enable-safe-ai-powered-innovation-joint-letter-from-dsit-secretary-of-state-and-dbt-secretary-of-state
+    sprache: en
+    urheber: DSIT / DBT
+    verifiziert: true
+    notiz: 19 Regulierer; Plan plus jährlicher Fortschrittsbericht.
+  offene_punkte:
+  - 'Der vom Auftrag genannte Koordinierungsrahmen ''AIRIA'' ließ sich nicht verifizieren. Existierende
+    Strukturen: DRCF, Regulatory Innovation Office (RIO), Berichtspflichten aus dem Brief vom 28.01.2026.'
+  - 'Vollständige Liste der 19 adressierten Regulierer nicht ermittelt (belegt: FCA, Care Quality Commission,
+    Health and Safety Executive und weitere).'
+  - Endfassung der ICO-ADM-Leitlinie und Termin der Rechtsverordnung für die Verhaltensregel offen.
+  - Aktuelle CMA-Position zu Basismodellen konnte nicht auf einen Stand nach 2024 gebracht werden; die
+    abgerufenen Quellen waren veraltet.
+  monitoring_quellen:
+  - https://www.drcf.org.uk/news-and-events/news/
+  - https://ico.org.uk/about-the-ico/our-information/our-strategies-and-plans/artificial-intelligence-and-biometrics-strategy/
+  - https://www.fca.org.uk/firms/ai-financial-services
+  - https://www.ofcom.org.uk/online-safety/
+  - https://www.gov.uk/government/organisations/regulatory-innovation-office
+  bezug_regelwerke:
+  - uk-ai-white-paper-2023
+  - uk-duaa-2025
+  - uk-osa-2023
+  - uk-mhra-ki-medizinprodukte
+  - uk-ai-growth-lab
+  letzte_pruefung: 2026-08-27
+- id: uk-mhra-ki-medizinprodukte
+  jurisdiktion: uk
+  kurztitel: MHRA — KI als Medizinprodukt, AI Airlock, Nationale Kommission
+  offizieller_titel: 'AI Airlock — the regulatory sandbox for AI as a Medical Device (AIaMD); National
+    Commission into the Regulation of AI in Healthcare
+
+    '
+  fundstelle: null
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Der einzige britische Sektor mit einem echten Ex-ante-Regime für KI (UKCA-Konformitätsbewertung
+    nach dem Medizinprodukterecht) und zugleich der Sektor mit dem konkretesten Reformprozess. AI Airlock
+    Phase 2 lief von April 2025 bis Mai 2026 mit sieben Innovatoren; Phase 3 ist mit 3,6 Mio. GBP über
+    drei Jahre bis 2029 finanziert und wird derzeit ausgestaltet. Die am 26.09.2025 eingesetzte Nationale
+    Kommission soll 2026 einen neuen Regulierungsrahmen für KI im Gesundheitswesen vorlegen.
+
+    '
+  kurzbeschreibung: 'KI als Medizinprodukt unterliegt im UK bereits heute einer Vorabbewertung durch UK
+    Approved Bodies — funktional dem Hochrisikoregime der KI-VO vergleichbar, aber über das Medizinprodukterecht,
+    nicht über KI-Recht. Der AI Airlock ist das Reallabor, in dem MHRA, Approved Bodies, NHS und weitere
+    Regulierer an realen Produkten klären, welche Regeln fehlen. Die Ergebnisse aus Phase 2 (klinische
+    Dokumentation und Zusammenfassung, Krebsdiagnostik, Erkennung seltener Augenerkrankungen, Adipositastherapie)
+    haben zu Empfehlungen für Leitlinien zu "predetermined change control plans" (PCCP), zur Qualifikation
+    von Software und Zweckbestimmung sowie zur Leistungsbewertung KI-gestützter In-vitro-Diagnostika geführt.
+    Die Nationale Kommission unter Prof. Alastair Denniston (stellvertretend Prof. Henrietta Hughes, Patient
+    Safety Commissioner) soll daraus einen Regulierungsrahmen entwickeln und Zwischenleitlinien für dringende
+    Unsicherheiten herausgeben.
+
+    '
+  inkrafttreten:
+    datum: 2024-05-09
+    verifiziert: true
+    quelle: https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd
+    fundstelle_norm: Kein Rechtsakt, daher keine Inkrafttretensvorschrift. Massgeblich ist die Veroeffentlichung
+      der MHRA-Sammlung zum AI Airlock auf gov.uk ("Published 9 May 2024"); Start des Reallabors im Fruehjahr
+      2024. Zuvor gespeichertes Datum 01.05.2024 nicht belegbar.
+  anwendungsdaten:
+  - datum: 2025-04-30
+    was_gilt: Ende der Pilotphase des AI Airlock (vier Produkte).
+    verifiziert: true
+    quelle: https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd
+  - datum: 2025-09-26
+    was_gilt: Einsetzung der National Commission into the Regulation of AI in Healthcare.
+    verifiziert: true
+    quelle: https://www.gov.uk/government/groups/national-commission-into-the-regulation-of-ai-in-healthcare
+  - datum: 2026-04-08
+    was_gilt: MHRA erhält 3,6 Mio. GBP über drei Jahre zur Ausweitung des AI Airlock (Phase 3 bis 2029).
+    verifiziert: true
+    quelle: https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd
+  - datum: 2026-05-31
+    was_gilt: Abschluss von Phase 2 des AI Airlock (sieben Innovatoren, drei regulatorische Fragestellungen).
+    verifiziert: true
+    quelle: https://medregs.blog.gov.uk/2026/06/09/advancing-ai-regulation-in-healthcare-insights-from-ai-airlock-phase-2/
+  themenachsen:
+  - sektor-medizin
+  - marktzugang
+  - haftung
+  - governance
+  regelungsschwerpunkte:
+  - 'PCCP (predetermined change control plans): Die zentrale regulatorische Frage lernender Systeme —
+    wie darf sich ein zugelassenes Modell nach der Zulassung ändern, ohne neu bewertet zu werden. Die
+    KI-VO regelt dies in Art. 43 Abs. 4 durch vorab festgelegte Änderungen; die MHRA erarbeitet dazu erst
+    Leitlinien.'
+  - 'Zweckbestimmung und Softwarequalifikation: Empfehlung, die Leitlinien um KI-spezifische Erwägungen
+    zu ergänzen.'
+  - 'Leistungsbewertung KI-gestützter In-vitro-Diagnostika: eigene Bewertungsleitlinie empfohlen.'
+  - 'Ökosystem-Governance: Empfehlung, über das einzelne Produkt hinaus den Einsatzkontext (NHS-Beschaffung,
+    klinische Einbettung) zu regulieren — inhaltlich nahe an Art. 26 KI-VO (Betreiberpflichten), im UK
+    bisher ohne Rechtsgrundlage.'
+  - 'MATERIELLE ABGRENZUNG ZUM AI ACT: Ein KI-Medizinprodukt der Klasse IIa unterliegt in der EU ab 02.08.2028
+    kumulativ dem MDR und dem Hochrisikoregime nach Anhang I KI-VO. Im UK gilt allein das Medizinprodukterecht
+    — ohne Grundrechtsfolgenabschätzung, ohne KI-spezifische Protokollierungs- und Transparenzpflichten,
+    ohne Registrierung in einer KI-Datenbank.'
+  dokumente:
+  - datum: 2026-06-09
+    typ: bericht
+    titel: 'Advancing AI Regulation in Healthcare: Insights from AI Airlock Phase 2'
+    url: https://medregs.blog.gov.uk/2026/06/09/advancing-ai-regulation-in-healthcare-insights-from-ai-airlock-phase-2/
+    sprache: en
+    urheber: MHRA (MedRegs Blog)
+    verifiziert: true
+    notiz: Ergebnisse und Empfehlungen aus Phase 2; Verweis auf Phase 3 bis 2029.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: 'AI Airlock: the regulatory sandbox for AIaMD'
+    url: https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd
+    sprache: en
+    urheber: MHRA
+    verifiziert: true
+    notiz: Sammelseite mit Phasen, Fördermitteln und Verweis auf die Nationale Kommission.
+  - datum: 2025-09-26
+    typ: uebersicht
+    titel: National Commission into the Regulation of AI in Healthcare
+    url: https://www.gov.uk/government/groups/national-commission-into-the-regulation-of-ai-in-healthcare
+    sprache: en
+    urheber: MHRA
+    verifiziert: true
+    notiz: 'Vorsitz Prof. Alastair Denniston, Stellvertretung Prof. Henrietta Hughes; monatliche Sitzungen
+      mit veröffentlichten Kurzprotokollen; neuer Regulierungsrahmen für 2026 angekündigt.
+
+      '
+  offene_punkte:
+  - Ob die Nationale Kommission ihren Rahmen noch 2026 vorlegt, ist offen; ein Datum ist nicht genannt.
+  - Gründungsdatum des AI Airlock (Mai 2024) nicht durch Primärquellenabruf verifiziert.
+  - Zeitplan der geplanten Reform des britischen Medizinprodukterechts (Pre-Market-Rechtsverordnung) nicht
+    ermittelt.
+  monitoring_quellen:
+  - https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd
+  - https://medregs.blog.gov.uk/tag/medicaldevices
+  - https://www.gov.uk/government/groups/national-commission-into-the-regulation-of-ai-in-healthcare
+  bezug_regelwerke:
+  - uk-sektorregulierer-ki
+  - uk-regulating-for-growth-bill
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: uk-gdpr
+  jurisdiktion: uk
+  kurztitel: UK GDPR
+  offizieller_titel: 'Regulation (EU) 2016/679 in ihrer für das Vereinigte Königreich beibehaltenen und
+    angepassten Fassung (assimiliertes Recht), zuletzt geändert durch den Data (Use and Access) Act 2025
+
+    '
+  fundstelle: Assimiliertes Recht; Anpassungen durch die Data Protection, Privacy and Electronic Communications
+    (Amendments etc.) (EU Exit) Regulations 2019 (SI 2019/419)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht, seit dem 05.02.2026 in der Fassung des Data (Use and Access) Act 2025.
+    Die Europäische Kommission hat die Angemessenheitsbeschlüsse am 19.12.2025 erneuert; sie laufen am
+    27.12.2031 aus und werden spätestens nach vier Jahren überprüft.
+
+    '
+  kurzbeschreibung: 'Die UK GDPR ist der materielle Datenschutzkern des britischen Rechts und zugleich
+    das einzige horizontal wirkende Regime, das KI-Systeme unabhängig vom Sektor erfasst — soweit personenbezogene
+    Daten verarbeitet werden. Nach der DUAA-Reform gilt für automatisierte Entscheidungen nicht mehr Art.
+    22 in der europäischen Fassung, sondern die neuen Art. 22A bis 22D: Ein Verbot besteht nur noch, wenn
+    besondere Kategorien personenbezogener Daten verarbeitet werden; in allen übrigen Fällen genügt das
+    Bündel der vier Schutzmaßnahmen des Art. 22C (Information, Stellungnahme, menschliches Eingreifen,
+    Anfechtbarkeit). Art. 22A definiert erstmals gesetzlich, wann eine Entscheidung "ausschließlich" automatisiert
+    ergeht, nämlich wenn keine "meaningful human involvement" vorliegt. Art. 22D ermächtigt den Secretary
+    of State, diese Begriffe und zusätzliche Schutzmaßnahmen durch Verordnung zu bestimmen — der Hebel,
+    über den KI-Regulierung im Vereinigten Königreich ohne KI-Gesetz erfolgen kann.
+
+    '
+  inkrafttreten:
+    datum: 2020-12-31
+    verifiziert: true
+    quelle: https://www.legislation.gov.uk/uksi/2020/1586/regulation/1/made
+    fundstelle_norm: Die UK GDPR entstand mit dem IP completion day (31.12.2020, 23:00 Uhr GMT; sec. 39(1)
+      European Union (Withdrawal Agreement) Act 2020). Reg. 1(2) SI 2019/419 ("they come into force on
+      exit day", ersetzt durch IP completion day) und Reg. 1(2) SI 2020/1586 ("they come into force immediately
+      before IP completion day"). Zuvor gespeichertes Datum 01.01.2021 war die verbreitete Verkuerzung,
+      nicht der Norminhalt.
+  anwendungsdaten:
+  - datum: 2026-02-05
+    was_gilt: Art. 22A-22D anstelle des bisherigen Art. 22; Schedule 4 DUAA (recognised legitimate interests)
+      wirksam.
+    verifiziert: false
+    quelle: https://www.legislation.gov.uk/uksi/2026/82/regulation/2/made
+  - datum: 2025-12-19
+    was_gilt: 'Erneuerung der Angemessenheitsbeschlüsse durch die Europäische Kommission — je einer nach
+      Art. 45 DSGVO und Art. 36 der Richtlinie (EU) 2016/680 —, gültig bis 27.12.2031, nach Stellungnahme
+      des EDSA vom 16.10.2025 und einer Zwischenverlängerung im Juni 2025.
+
+      '
+    verifiziert: true
+    quelle: https://eucrim.eu/news/commission-renewed-adequacy-decisions-for-data-transfers-to-the-uk/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - arbeit
+  - gpai
+  regelungsschwerpunkte:
+  - 'Die Angemessenheit ist die praktisch wichtigste Nachricht für europäische Anbieter: Datenübermittlungen
+    ins Vereinigte Königreich brauchen bis Ende 2031 keine zusätzlichen Garantien. Die Kommission überwacht
+    laufend; weitere Sekundärgesetzgebung nach dem DUAA kann das ändern.'
+  - 'Art. 22A: ''no meaningful human involvement'' als gesetzliches Merkmal. Die Beweisführung verschiebt
+    sich damit von der Frage, ob überhaupt ein Mensch beteiligt war, zur Qualität der Beteiligung.'
+  - 'Art. 22B: Verbot nur noch bei besonderen Kategorien personenbezogener Daten; zusätzlich unzulässig,
+    wenn die Verarbeitung auf die neuen ''recognised legitimate interests'' gestützt wird.'
+  - 'Art. 22D: Verordnungsermächtigung zur Konkretisierung. Wer die britische KI-Regulierung beobachten
+    will, beobachtet diese Verordnungen — nicht Gesetzentwürfe.'
+  - 'Trainingsdaten: Art. 6 Abs. 1 lit. f (legitimate interests) bleibt die einzige praktikable Grundlage
+    für das Scraping personenbezogener Daten. Die ''recognised legitimate interests'' des DUAA erfassen
+    KI-Training gerade NICHT.'
+  - 'Anwendungsgrenze: Ein KI-System ohne Personenbezug unterliegt im Vereinigten Königreich keiner horizontalen
+    Regulierung. In der EU wäre es gleichwohl KI-VO-pflichtig, wenn es unter Anhang I oder III fällt.'
+  dokumente:
+  - datum: 2025-12-19
+    typ: uebersicht
+    titel: Commission Renewed Adequacy Decisions for Data Transfers to the UK
+    url: https://eucrim.eu/news/commission-renewed-adequacy-decisions-for-data-transfers-to-the-uk/
+    sprache: en
+    urheber: eucrim — The European Criminal Law Associations' Forum
+    verifiziert: true
+    notiz: Quelle für Datum, Laufzeit bis 27.12.2031, Rechtsgrundlagen und EDSA-Stellungnahme.
+  - datum: 2016-04-27
+    typ: konsolidiert
+    titel: Regulation (EU) 2016/679 (assimiliertes Recht des Vereinigten Königreichs)
+    url: https://www.legislation.gov.uk/eur/2016/679/contents
+    sprache: en
+    urheber: The National Archives
+    verifiziert: false
+    notiz: Amtliche britische Fassung mit den Anpassungen des EU-Austritts.
+  bedeutung_eu_anbieter: 'Zwei Konsequenzen. Erstens: Übermittlungen ins Vereinigte Königreich bleiben
+    bis Ende 2031 privilegiert — die Angemessenheitserneuerung vom Dezember 2025 hat die DUAA-Unsicherheit
+    beendet. Zweitens: Für automatisierte Entscheidungen gilt im Vereinigten Königreich ein niedrigeres
+    Schutzniveau als in der EU. Wer ein Beschäftigten- oder Kundenscoring betreibt, kann es in London
+    zulässig gestalten, wo es in Frankfurt an Art. 22 DSGVO scheitert — und muss das in einer konzernweiten
+    Systemarchitektur bewusst trennen.
+
+    '
+  offene_punkte:
+  - Endfassung der ICO-Leitlinie zu automatisierten Entscheidungen (Konsultation 31.03.-29.05.2026).
+  - Ob Verordnungen nach Art. 22D erlassen werden und ob sie die Angemessenheit berühren.
+  monitoring_quellen:
+  - https://ico.org.uk/
+  - https://www.legislation.gov.uk/
+  bezug_regelwerke:
+  - uk-dpa-2018
+  - uk-duaa-2025
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: uk-dpa-2018
+  jurisdiktion: uk
+  kurztitel: Data Protection Act 2018
+  offizieller_titel: Data Protection Act 2018
+  fundstelle: 2018 c. 12
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht, laufend geändert, zuletzt umfangreich durch den Data (Use and Access)
+    Act 2025 (2025 c. 18). Das Gesetz ergänzt die UK GDPR und regelt allein die Bereiche, die außerhalb
+    ihres Anwendungsbereichs liegen — Strafverfolgung (Part 3) und Nachrichtendienste (Part 4). Für KI
+    in der Verwaltung und bei der Polizei ist dies die maßgebliche Rechtsgrundlage, nicht die UK GDPR.
+
+    '
+  kurzbeschreibung: 'Der DPA 2018 enthält die nationalen Ausfüllungen der UK GDPR (Part 2 mit den Ausnahmen
+    der Schedules 2 bis 4), das eigenständige Regime für die Verarbeitung zu Strafverfolgungszwecken (Part
+    3, Umsetzung der Richtlinie (EU) 2016/680), das Regime für die Nachrichtendienste (Part 4), die Rechtsstellung
+    und Befugnisse der Aufsichtsbehörde (Part 5) und die Durchsetzung (Part 6) mit Bußgeldern bis 17,5
+    Mio. GBP oder 4 % des weltweiten Jahresumsatzes (s. 157). Für automatisierte Entscheidungen enthält
+    er eigene Vorschriften: ss. 49 und 50 für die Strafverfolgung — eine ausschließlich automatisierte
+    Entscheidung mit nachteiliger Rechtswirkung ist nur zulässig, wenn ein Gesetz sie erlaubt, und die
+    betroffene Person ist zu unterrichten und kann binnen eines Monats eine Überprüfung verlangen — sowie
+    ss. 96 und 97 für die Nachrichtendienste.
+
+    '
+  inkrafttreten:
+    datum: 2018-05-25
+    verifiziert: true
+    quelle: https://www.legislation.gov.uk/uksi/2018/625/regulation/2/made
+    fundstelle_norm: Sec. 212(1) Data Protection Act 2018 i.V.m. Reg. 2 der Data Protection Act 2018 (Commencement
+      No. 1 and Transitional and Saving Provisions) Regulations 2018, SI 2018/625 ("Provisions coming
+      into force on 25th May 2018"); Royal Assent am 23.05.2018, einzelne Vorschriften bereits nach sec.
+      212(2) in Kraft.
+  anwendungsdaten:
+  - datum: 2026-02-05
+    was_gilt: Folgeänderungen der DUAA-Reform zu automatisierten Entscheidungen (Schedule 6 DUAA) wirksam.
+    verifiziert: false
+    quelle: https://www.legislation.gov.uk/uksi/2026/82/regulation/2/made
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'ss. 49, 50: Das Strafverfolgungsregime enthält den strengeren Maßstab — Gesetzesvorbehalt für vollautomatisierte
+    belastende Entscheidungen, Unterrichtungspflicht und Überprüfungsrecht binnen eines Monats. Für polizeiliche
+    Gesichtserkennung und Risikobewertung ist das die einschlägige Norm, nicht Art. 22 UK GDPR.'
+  - 'Part 4 (ss. 96, 97): Für die Nachrichtendienste gilt ein noch weiter abgeschwächtes Regime; die Aufsicht
+    ist eingeschränkt.'
+  - 's. 157: Bußgeldrahmen 17,5 Mio. GBP oder 4 % Weltjahresumsatz. Es gibt keinen KI-spezifischen Bußgeldtatbestand
+    — jede britische KI-Sanktion läuft über diese Norm.'
+  - 'Schedules 2-4: die nationalen Ausnahmen, darunter die für Einwanderungszwecke, die 2021 im Verfahren
+    Open Rights Group gerichtlich beanstandet und nachgebessert wurde. Für KI-gestützte Verwaltungsverfahren
+    ist die Reichweite dieser Ausnahmen entscheidend, weil sie Auskunfts- und Informationsrechte suspendieren.'
+  - Der DPA 2018 ist das Gesetz, auf das sich die britische Rechtsprechung zu Bridges (Gesichtserkennung)
+    und zur Visa-Streaming-Software stützt — dort in Verbindung mit der Equality Act-Pflicht des s. 149.
+  dokumente:
+  - datum: 2018-05-23
+    typ: konsolidiert
+    titel: Data Protection Act 2018 (2018 c. 12) — konsolidierte Fassung
+    url: https://www.legislation.gov.uk/ukpga/2018/12/contents
+    sprache: en
+    urheber: The National Archives
+    verifiziert: true
+    notiz: Amtliche Fassung mit Änderungsnachweisen; Struktur der Parts und die Vorschriften zu automatisierten
+      Entscheidungen (ss. 14, 49, 50, 96, 97) bestätigt. Ob s. 14 durch die DUAA aufgehoben oder neu gefasst
+      wurde, ergab sich aus der abgerufenen Seite nicht eindeutig.
+  bedeutung_eu_anbieter: 'Für Anbieter, die britische Behörden oder Polizeikräfte beliefern, ist Part
+    3 der maßgebliche Prüfmaßstab — und er ist strenger als das, was für die Privatwirtschaft gilt. Wer
+    ein System für Risikobewertung oder biometrische Identifizierung anbietet, muss die Frage beantworten,
+    welches Gesetz die vollautomatisierte Entscheidung erlaubt; ohne diese Grundlage bleibt nur die Entscheidungsunterstützung
+    mit belegbarer menschlicher Beteiligung.
+
+    '
+  offene_punkte:
+  - Genauer Stand des s. 14 nach der DUAA-Reform.
+  - Ob die Einwanderungsausnahme in Schedule 2 erneut angegriffen wird.
+  monitoring_quellen:
+  - https://www.legislation.gov.uk/ukpga/2018/12/contents
+  - https://ico.org.uk/
+  bezug_regelwerke:
+  - uk-gdpr
+  - uk-duaa-2025
+  - uk-equality-act-2010
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05

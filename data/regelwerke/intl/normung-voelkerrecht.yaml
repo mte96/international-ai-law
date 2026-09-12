@@ -1,0 +1,3528 @@
+regelwerke:
+- id: iso-normungsauftrag-m593-m613
+  jurisdiktion: iso
+  kurztitel: Normungsauftrag M/593 / M/613 an CEN und CENELEC
+  offizieller_titel: 'Durchführungsbeschluss C(2023) 3215 final der Kommission vom 22. Mai 2023 über einen
+    Normungsauftrag an das Europäische Komitee für Normung und das Europäische Komitee für elektrotechnische
+    Normung zur Unterstützung der Politik der Union für künstliche Intelligenz (M/593), geändert durch
+    M/613 und durch C(2025) 3871
+
+    '
+  fundstelle: C(2023) 3215 final; Änderung C(2025) 3871
+  verfahrensnummer: M/593; Änderungsauftrag M/613
+  status: verfahren
+  status_detail: 'Der Auftrag läuft. Die ursprüngliche Lieferfrist 30.04.2025 wurde verfehlt; die Kommission
+    verlängerte sie durch C(2025) 3871 auf den 31.08.2025 — auch diese Frist verstrich ohne Lieferung.
+    CEN und CENELEC arbeiten seit Oktober 2025 unter einem außergewöhnlichen Beschleunigungsregime auf
+    den Zielhorizont Q4 2026 hin. Bei Rechercheschluss ist eine von zehn angeforderten Normen veröffentlicht
+    und keine im Amtsblatt zitiert.
+
+    '
+  kurzbeschreibung: 'Der Normungsauftrag ist das Scharnier zwischen der KI-VO und der technischen Normung.
+    Die Kommission fordert darin von CEN und CENELEC Normen in zehn Bereichen an: Risikomanagement, Governance
+    und Qualität von Datensätzen, Aufzeichnungspflichten, Transparenz, menschliche Aufsicht, Genauigkeit,
+    Robustheit, Cybersicherheit, Qualitätsmanagement und Konformitätsbewertung. Nur Normen, die auf diesen
+    Auftrag zurückgehen, von der Kommission bewertet und im Amtsblatt zitiert werden, lösen die Konformitätsvermutung
+    nach Art. 40 KI-VO aus. Der Auftrag ist kein Rechtsakt gegenüber Anbietern — er verpflichtet die Normungsorganisationen.
+    Für Anbieter entsteht die Wirkung erst über die zitierte Norm.
+
+    '
+  inkrafttreten:
+    datum: 2023-05-22
+    verifiziert: true
+    quelle: https://artificialintelligenceact.eu/standard-setting-overview/
+  anwendungsdaten:
+  - datum: 2023-05-22
+    was_gilt: Erlass des Normungsauftrags M/593 (C(2023) 3215 final).
+    verifiziert: true
+    quelle: https://artificialintelligenceact.eu/standard-setting-overview/
+  - datum: 2025-04-30
+    was_gilt: Ursprüngliche Lieferfrist des Auftrags — verstrichen ohne Lieferung.
+    verifiziert: true
+    quelle: https://artificialintelligenceact.eu/standard-setting-overview/
+  - datum: 2025-08-31
+    was_gilt: 'Durch C(2025) 3871 verlängerte Lieferfrist — ebenfalls verstrichen ohne Lieferung einer
+      einzigen Norm.
+
+      '
+    verifiziert: true
+    quelle: https://artificialintelligenceact.eu/standard-setting-overview/
+  - datum: 2025-10-16
+    was_gilt: 'Gemeinsame Sitzung der Technischen Boards von CEN und CENELEC (14.-16.10.2025) beschließt
+      das außergewöhnliche Maßnahmenpaket.
+
+      '
+    verifiziert: true
+    quelle: https://www.cencenelec.eu/news-events/news/2025/brief-news/2025-10-23-ai-standardization/
+  - datum: 2026-12-31
+    was_gilt: 'Zielhorizont Q4 2026 für die Verfügbarkeit der Schlüsselnormen — Verfügbarkeit, nicht Zitierung
+      im Amtsblatt.
+
+      '
+    verifiziert: true
+    quelle: https://www.cencenelec.eu/news-events/news/2025/brief-news/2025-10-23-ai-standardization/
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  - sicherheit-export
+  rechtswirkung: 'Der Auftrag selbst bindet nur CEN und CENELEC. Für Anbieter entsteht Rechtswirkung erst
+    mittelbar: Eine auf den Auftrag zurückgehende und im Amtsblatt zitierte Norm begründet nach Art. 40
+    Abs. 1 KI-VO die widerlegliche Vermutung, dass die davon erfassten Anforderungen erfüllt sind. Ohne
+    Zitierung ist die Norm eine private technische Regel ohne jede Vermutungswirkung — und Anbieter tragen
+    die volle Darlegungslast für die Einhaltung der Art. 8-15 KI-VO.
+
+    '
+  regelungsschwerpunkte:
+  - 'Zehn angeforderte Normungsbereiche: Risikomanagement, Datenqualität und -governance, Aufzeichnung,
+    Transparenz, menschliche Aufsicht, Genauigkeit, Robustheit, Cybersicherheit, Qualitätsmanagement,
+    Konformitätsbewertung.'
+  - 'Dreistufiges Nadelöhr des Art. 40 KI-VO: (1) Entwicklung auf Normungsauftrag, (2) Bewertung durch
+    die Kommission (HAS-Consultants prüfen auf Übereinstimmung mit dem Auftrag und der Verordnung), (3)
+    Zitierung im Amtsblatt. Erst der dritte Schritt löst die Vermutung aus.'
+  - 'Art. 41 KI-VO als Notausgang: Die Kommission kann gemeinsame Spezifikationen im Wege eines Durchführungsrechtsakts
+    erlassen, wenn die Normung ausbleibt oder unzureichend ist. Von dieser Befugnis wurde bei Rechercheschluss
+    kein Gebrauch gemacht — obwohl der Tatbestand seit dem Verstreichen der zweiten Lieferfrist erkennbar
+    vorliegt.'
+  - 'Der Auftrag verlangt ausdrücklich die Berücksichtigung von Grundrechten — der wunde Punkt: Normungsgremien
+    sind für Produktsicherheit gebaut, nicht für Grundrechtsabwägung. Der JRC-Bericht (JRC139430, Oktober
+    2024) benennt genau diese Lücke.'
+  - 'Warum keine schlichte Übernahme von ISO/IEC-Normen: Die Kommission hat die Übernahme internationaler
+    Normen als Erfüllung des Auftrags nicht akzeptiert, weil ISO/IEC-Normen nicht auf die Anforderungen
+    der KI-VO zugeschnitten sind. Die europäische Eigenentwicklung (EN 18286, prEN 18228 ff.) ist die
+    Folge.'
+  dokumente:
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Standardisation of the AI Act — Shaping Europe's digital future
+    url: https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation
+    sprache: en
+    urheber: Europäische Kommission, GD CNECT
+    verifiziert: true
+    notiz: 'Amtliche Seite der Kommission zum Normungsauftrag. Nennt die zehn Bereiche und bestätigt den
+      30.10.2025 als Beginn der öffentlichen Umfrage zu prEN 18286. Auffällig zurückhaltend: kein Wort
+      zur verstrichenen Frist und keine Zeitplanung.
+
+      '
+  - datum: 2025-10-23
+    typ: pressemitteilung
+    titel: Update on CEN and CENELEC's Decision to Accelerate the Development of Standards for Artificial
+      Intelligence
+    url: https://www.cencenelec.eu/news-events/news/2025/brief-news/2025-10-23-ai-standardization/
+    sprache: en
+    urheber: CEN-CENELEC
+    verifiziert: true
+    notiz: 'Die Primärquelle für das außergewöhnliche Maßnahmenpaket: Direktveröffentlichung nach positiver
+      Umfrage ohne gesonderte Schlussabstimmung (nach den Internen Regeln zulässig) und Einsetzung einer
+      kleinen Redaktionsgruppe für sechs verzögerte Entwürfe. Zielhorizont Q4 2026.
+
+      '
+  - datum: 2024-10-25
+    typ: bericht
+    titel: Harmonised Standards for the European AI Act (JRC139430)
+    url: https://publications.jrc.ec.europa.eu/repository/handle/JRC139430
+    sprache: en
+    urheber: Gemeinsame Forschungsstelle (JRC) der Kommission
+    verifiziert: true
+    notiz: 'Die kommissionseigene Analyse der Normungslücken. Kernbefund: Die Übersetzung grundrechtlicher
+      Anforderungen in messbare technische Anforderungen ist der ungelöste Teil des Auftrags.
+
+      '
+  - datum: 2025-11-28
+    typ: stellungnahme
+    titel: From Consensus to Exceptionality — What the EU's AI Standards Crisis Reveals About Delegated
+      Technical Governance
+    url: https://realaw.blog/2025/11/28/from-consensus-to-exceptionality-what-the-eus-ai-standards-crisis-reveals-about-delegated-technical-governance-by-marta-cantero-gamito/
+    sprache: en
+    urheber: Marta Cantero Gamito, REALaw.blog
+    verifiziert: true
+    notiz: 'Die schärfste Legitimitätskritik am Oktober-Paket: Der Wegfall der Schlussabstimmung ändere
+      die normative Bedeutung des Konsenses, ohne gleichwertige Verfahrensgarantien zu schaffen; kleine
+      Redaktionsgruppen begünstigten die Vereinnahmung durch große Unternehmen und dominante nationale
+      Normungsinstitute. Verweist auf Art. 11 EUV und VO (EU) Nr. 1025/2012.
+
+      '
+  - datum: 2025-10-06
+    typ: stellungnahme
+    titel: 'Standards and the EU AI Act: legitimacy, state of play, and future challenges'
+    url: https://www.tandfonline.com/doi/full/10.1080/13600834.2025.2570966
+    sprache: en
+    urheber: Information & Communications Technology Law
+    verifiziert: false
+    notiz: 'Aufsatz zur Legitimität der Normungsdelegation. In dieser Sitzung nicht abrufbar (403); über
+      die Trefferliste identifiziert.
+
+      '
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — CEN-CENELEC AI Act Deliverables
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: 'Vollständige Tabelle aller neun Kernnormen mit Stufe, Zielhorizont und ABl.-Zitierstatus (Stand
+      Juni 2026). Die brauchbarste Einzelübersicht; Primärquellen sind daran zu prüfen.
+
+      '
+  offene_punkte:
+  - Ob und wann die Kommission von Art. 41 KI-VO (gemeinsame Spezifikationen) Gebrauch macht. Der Tatbestand
+    liegt seit August 2025 vor; die politische Zurückhaltung ist unerklärt.
+  - Wie lange die Bewertung durch die HAS-Consultants und die Zitierung im Amtsblatt nach Veröffentlichung
+    einer Norm dauern. Für EN 18286 gibt es bei Rechercheschluss keinen Zeitplan.
+  - Ob die Direktveröffentlichung nach positiver Umfrage vor Gericht Bestand hätte, wenn ein Betroffener
+    die Verfahrensordnung angreift.
+  - Ob nach der Verschiebung der Hochrisiko-Pflichten auf den 02.12.2027 (Anhang III) und 02.08.2028 (Anhang
+    I) der Zeitdruck für die Normung faktisch entfällt — und damit auch der Anreiz zur Beschleunigung.
+  monitoring_quellen:
+  - https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/
+  - https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation
+  - https://ai-act-standards.com/
+  - https://jtc21.eu/
+  - https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards_en
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - harmonisierte-normen-jtc21
+  - digital-omnibus-ai-2026-1744
+  - iso-en-18286
+  - iso-pren-18228
+  - iso-pren-18285
+  letzte_pruefung: 2026-09-01
+- id: iso-en-18286
+  jurisdiktion: iso
+  kurztitel: EN 18286:2026 — Qualitätsmanagementsystem
+  offizieller_titel: 'EN 18286:2026 — Artificial intelligence — Quality management system for EU AI Act
+    regulatory purposes
+
+    '
+  normnummer: EN 18286:2026
+  fundstelle: CEN-CENELEC, angenommen 12.07.2026, veröffentlicht 31.07.2026
+  verfahrensnummer: CEN/CLC/JTC 21, WI 00021002
+  status: softlaw
+  status_detail: 'Veröffentlicht, aber ohne Rechtswirkung. Erste und bei Rechercheschluss einzige fertiggestellte
+    harmonisierte Norm zur KI-VO. Annahme durch CEN-CENELEC am 12.07.2026, Veröffentlichung am 31.07.2026.
+    Die Zitierung im Amtsblatt steht aus; bis dahin trägt sie keine Konformitätsvermutung. Umfang 51 Seiten
+    (Umfrageentwurf: 58).
+
+    '
+  kurzbeschreibung: 'Die Norm legt Anforderungen an ein Qualitätsmanagementsystem für Anbieter von KI-Systemen
+    fest und bedient Art. 17 KI-VO. Sie ist sektorunabhängig und lebenszyklusorientiert: Konzeption, Entwicklung,
+    Bereitstellung, Überwachung, Außerbetriebnahme. Zehn normative Abschnitte und fünf informative Anhänge
+    (A-C, ZA, ZB). Anhang ZA weist die Zuordnung zu Art. 17 Abs. 1 und Art. 11 Abs. 1 Satz 1 KI-VO aus
+    — er ist der Grund, warum die Norm nach Zitierung eine Vermutung tragen kann. Ausdrücklich als architektonischer
+    Bruch mit ISO 9001 und EN ISO/IEC 42001 angelegt: Sie ist kein Managementsystem für die Organisation,
+    sondern ein Regulierungs-QMS für den Anbieter eines Hochrisikosystems.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-31
+    verifiziert: true
+    quelle: https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-07-30-ai-quality-management/
+  anwendungsdaten:
+  - datum: 2025-10-30
+    was_gilt: 'prEN 18286 tritt als erste harmonisierte KI-Norm in die öffentliche Umfrage ein.
+
+      '
+    verifiziert: true
+    quelle: https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation
+  - datum: 2026-03-31
+    was_gilt: 'Konsensbildung über mehr als 1.000 Umfragekommentare in London unter Federführung des BSI.
+
+      '
+    verifiziert: false
+    quelle: https://adamleonsmith.substack.com/p/en-182862026-is-finally-published
+  - datum: 2026-06-30
+    was_gilt: Abschluss der Schlussabstimmung der nationalen Normungsinstitute (einstimmig, bei Enthaltungen).
+    verifiziert: true
+    quelle: https://lawandtechnology.eu/en/en-18286-the-quality-management-system-for-article-17-of-the-ai-act-nears-publication/
+  - datum: 2026-07-12
+    was_gilt: Annahme durch CEN-CENELEC.
+    verifiziert: true
+    quelle: https://adamleonsmith.substack.com/p/en-182862026-is-finally-published
+  - datum: 2026-07-31
+    was_gilt: Veröffentlichung als EN 18286:2026.
+    verifiziert: true
+    quelle: https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-07-30-ai-quality-management/
+  themenachsen:
+  - governance
+  - marktzugang
+  bedient_artikel: Art. 17 Abs. 1 KI-VO (Qualitätsmanagementsystem); Anhang ZA erfasst zusätzlich Art.
+    11 Abs. 1 Satz 1 (technische Dokumentation)
+  bearbeitungsstand: veröffentlicht; ABl.-Zitierung ausstehend
+  rechtswirkung: 'Derzeit keine. Erst mit der Zitierung im Amtsblatt entsteht die widerlegliche Vermutung
+    nach Art. 40 Abs. 1 KI-VO, dass ein nach dieser Norm betriebenes QMS Art. 17 Abs. 1 KI-VO genügt.
+    Bis dahin ist die Anwendung freiwillig und beweisrechtlich lediglich ein Indiz. Wer die Norm heute
+    umsetzt, kauft Vorbereitungszeit, keine Rechtssicherheit.
+
+    '
+  regelungsschwerpunkte:
+  - 'Zehn normative Abschnitte: allgemeine Anforderungen, Dokumentation, Leitungsverantwortung, Planung
+    und unterstützende Prozesse, Produktrealisierung, Betrieb und Steuerung, Leistungsbewertung und Verbesserung.'
+  - 'Anhang ZA — der rechtlich entscheidende Teil: Zuordnungstabelle Norm/Artikel. Ohne ihn keine Vermutungswirkung.'
+  - Deckt die sieben Anforderungsbereiche der Art. 9-15 KI-VO prozessual ab (Risikomanagement, Daten und
+    Data Governance, technische Dokumentation, Aufzeichnung, Transparenz, menschliche Aufsicht, Genauigkeit/Robustheit/Cybersicherheit),
+    ohne sie inhaltlich zu ersetzen — dafür sind prEN 18228 ff. zuständig.
+  - Lieferantensteuerung und Änderungsmanagement sind eigenständige Pflichtelemente — praktisch relevant
+    für Anbieter, die Basismodelle Dritter integrieren.
+  - Beobachtung nach dem Inverkehrbringen ist Teil des QMS, nicht nachgelagert — das entspricht Art. 72
+    KI-VO.
+  bedeutung_praxis: 'Für einen Anbieter, der 2027 ein Hochrisikosystem in Verkehr bringen will, ist dies
+    die einzige heute vollständig lesbare Beschreibung dessen, was Art. 17 KI-VO verlangt. Wer bereits
+    ISO/IEC 42001 betreibt, hat die Governance-Ebene, nicht aber die anbieterbezogenen Regulierungspflichten
+    (technische Dokumentation, Beobachtung nach Inverkehrbringen, Lieferantenaufsicht). Die Norm ist kostenpflichtig
+    über die nationalen Normungsinstitute (in Deutschland Beuth/DIN) zu beziehen — ein eigenständiges
+    praktisches Problem, weil der faktische Prüfmaßstab hinter einer Bezahlschranke liegt.
+
+    '
+  dokumente:
+  - datum: 2026-07-30
+    typ: norm
+    titel: 'EN 18286 in the Spotlight: Supporting Compliance with the AI Act'
+    url: https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-07-30-ai-quality-management/
+    sprache: en
+    urheber: CEN-CENELEC
+    verifiziert: true
+    notiz: 'Amtliche Ankündigung der Veröffentlichung. Bestätigt Anwendungsbereich, Sektorunabhängigkeit
+      und den Bezug zu Art. 17; schweigt zur Zitierung im Amtsblatt.
+
+      '
+  - datum: 2026-07-20
+    typ: stellungnahme
+    titel: EN 18286:2026 is finally published, the first AI Act standard to reach that milestone
+    url: https://adamleonsmith.substack.com/p/en-182862026-is-finally-published
+    sprache: en
+    urheber: Adam Leon Smith (JTC 21-Mitwirkender)
+    verifiziert: true
+    notiz: 'Aus dem Gremium heraus geschrieben. Belegt Annahmedatum 12.07.2026, 51 Seiten, über 1.000
+      Umfragekommentare und den bewussten Bruch mit ISO 9001 und EN ISO/IEC 42001.
+
+      '
+  - datum: 2026-07-15
+    typ: stellungnahme
+    titel: 'EN 18286: the quality-management system for Article 17 of the AI Act nears publication'
+    url: https://lawandtechnology.eu/en/en-18286-the-quality-management-system-for-article-17-of-the-ai-act-nears-publication/
+    sprache: en
+    urheber: lawandtechnology.eu
+    verifiziert: true
+    notiz: 'Juristisch präzise: trennt Veröffentlichung und ABl.-Zitierung und benennt Letztere als „the
+      legally decisive point“.
+
+      '
+  - datum: 2026-08-15
+    typ: uebersicht
+    titel: EN 18286:2026 — Early Breakdown of the EU AI Act Standard
+    url: https://www.lumenova.ai/blog/en-18286-eu-ai-act-standard/
+    sprache: en
+    urheber: Lumenova AI
+    verifiziert: true
+    notiz: 'Beste frei zugängliche Strukturübersicht: zehn normative Abschnitte, fünf Anhänge, Abgrenzung
+      zu ISO/IEC 42001 und die Feststellung, dass Anhang ZA auf Art. 17 Abs. 1 und Art. 11 Abs. 1 Satz
+      1 zielt.
+
+      '
+  - datum: 2026-08-31
+    typ: norm
+    titel: EN 18286:2026 — Katalogeintrag
+    url: https://standards.iteh.ai/catalog/standards/cen/34ea911c-a980-4433-85ac-1344f93da01b/en-18286-2026
+    sprache: en
+    urheber: iTeh Standards
+    verifiziert: false
+    notiz: Katalognachweis der Normnummer; in dieser Sitzung nicht vollständig abrufbar (JavaScript).
+  offene_punkte:
+  - Kein Zeitplan für die Bewertung durch die HAS-Consultants und die Zitierung im Amtsblatt.
+  - Ob die Kommission Einwände gegen den Anhang ZA erhebt — die Zuordnung zu Art. 11 Abs. 1 Satz 1 ist
+    ambitioniert, weil die technische Dokumentation inhaltlich in Anhang IV KI-VO geregelt ist.
+  - Wie sich die Norm zur laufenden Revision von ISO/IEC 42001 verhält.
+  monitoring_quellen:
+  - https://www.cencenelec.eu/news-events/news/
+  - https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards_en
+  - https://adamleonsmith.substack.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-normungsauftrag-m593-m613
+  - iso-iec-42001
+  - iso-pren-18285
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18228
+  jurisdiktion: iso
+  kurztitel: prEN 18228 — Risikomanagement
+  offizieller_titel: prEN 18228 — Artificial intelligence — Risk management
+  normnummer: prEN 18228
+  fundstelle: CEN/CLC/JTC 21, Entwurf im Umfrageverfahren
+  verfahrensnummer: CEN/CLC/JTC 21
+  status: entwurf
+  status_detail: 'Öffentliche Umfrage (Enquiry) seit Mai 2026, Einreichungsfrist Ende Juli 2026. Nach
+    dem Oktober-2025-Beschluss kann bei positivem Umfrageergebnis direkt veröffentlicht werden, ohne gesonderte
+    Schlussabstimmung. Zielhorizont für die Verfügbarkeit: Q4 2026. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Die zentrale Norm für Art. 9 KI-VO und damit für jedes Hochrisikosystem. Nach eigener
+    Aussage die erste horizontale KI-Risikomanagementnorm weltweit, die aus der Produktsicherheit heraus
+    gedacht ist. Drei Gestaltungsentscheidungen prägen sie: Der Risikobegriff folgt der Produktsicherheitskonvention,
+    wird aber auf Grundrechte erstreckt; interne Richtlinien zählen ausdrücklich nicht als Risikominderungsmaßnahme,
+    sondern nur substanzielle Maßnahmen am System; und Risiko wird nicht durchgängig als quantifizierbar
+    vorausgesetzt. Die zweite Entscheidung ist die praktisch schärfste — sie entwertet Compliance-Papier
+    als Nachweis.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten:
+  - datum: 2026-05-08
+    was_gilt: 'Zwei grundlegende KI-Normen (prEN 18228 und prEN 18282) gehen in die öffentliche Konsultation.
+
+      '
+    verifiziert: true
+    quelle: https://jtc21.eu/new-advancements-in-european-standardization-for-artificial-intelligence/
+  - datum: 2026-07-31
+    was_gilt: Ende der öffentlichen Umfrage zu prEN 18228.
+    verifiziert: true
+    quelle: https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/
+  - datum: 2026-12-31
+    was_gilt: Zielhorizont Q4 2026 für die Verfügbarkeit.
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  - haftung
+  bedient_artikel: Art. 9 KI-VO (Risikomanagementsystem); mittelbar Art. 17 Abs. 1 lit. g
+  bearbeitungsstand: Enquiry (Umfrage abgeschlossen, Kommentarauswertung)
+  rechtswirkung: 'Derzeit keine — Entwurf. Nach Veröffentlichung und Zitierung im Amtsblatt widerlegliche
+    Konformitätsvermutung für Art. 9 KI-VO. Weil Art. 9 die Anker­norm für sämtliche Hochrisikopflichten
+    ist, ist diese Norm rechtlich die folgenreichste des gesamten Programms.
+
+    '
+  regelungsschwerpunkte:
+  - Risikobegriff aus der Produktsicherheit, erweitert auf Grundrechte — der Versuch, die Grundrechtsdimension
+    der KI-VO normungsfähig zu machen.
+  - Interne Richtlinien und Governance-Dokumente sind keine Risikokontrollen im Sinne der Norm. Nur Maßnahmen,
+    die am System ansetzen, zählen.
+  - Risiko muss nicht quantifizierbar sein — Abkehr von der Erwartung numerischer Risikomatrizen.
+  - 'Verhältnis zu ISO/IEC 23894: Die ISO-Norm ist Leitfaden (guidance), prEN 18228 formuliert Anforderungen
+    (requirements). Der Unterschied entscheidet über Auditierbarkeit.'
+  dokumente:
+  - datum: 2026-05-20
+    typ: stellungnahme
+    titel: 'prEN 18228 heads to Enquiry: the product-safety answer to AI risk management'
+    url: https://adamleonsmith.substack.com/p/pren-18228-heads-to-enquiry-the-product
+    sprache: en
+    urheber: Adam Leon Smith
+    verifiziert: true
+    notiz: 'Die einzige inhaltliche Auswertung des Entwurfs aus dem Gremium. Belegt die drei Gestaltungsentscheidungen.
+
+      '
+  - datum: 2026-07-15
+    typ: uebersicht
+    titel: European standards supporting the AI Act (CEN-CENELEC/ETUC-Newsletter OTS 73)
+    url: https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/
+    sprache: en
+    urheber: CEN-CENELEC
+    verifiziert: true
+    notiz: 'Amtliche Statusangabe: prEN 18228 in der Umfrage bis Ende Juli 2026, prEN 18286 in der Schlussabstimmung,
+      prEN 18283 in Bearbeitung.
+
+      '
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — Stufe und Zielhorizont
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Weist prEN 18228 auf der Stufe Enquiry mit Zielhorizont Q4 2026 aus, nicht zitiert.
+  offene_punkte:
+  - Ob CEN-CENELEC von der Direktveröffentlichung ohne Schlussabstimmung Gebrauch macht — und ob das die
+    Zitierfähigkeit gefährdet.
+  - Ob die Kommission die Erstreckung des Risikobegriffs auf Grundrechte als ausreichend ansieht; der
+    JRC-Bericht war insoweit skeptisch.
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://ai-act-standards.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-normungsauftrag-m593-m613
+  - iso-iec-23894
+  - iso-en-18286
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18229-1
+  jurisdiktion: iso
+  kurztitel: 'prEN 18229-1 — Vertrauenswürdigkeit, Teil 1: Aufzeichnung'
+  offizieller_titel: 'prEN 18229-1 — Artificial intelligence — AI trustworthiness framework — Part 1:
+    Logging
+
+    '
+  normnummer: prEN 18229-1
+  fundstelle: CEN/CLC/JTC 21
+  verfahrensnummer: CEN/CLC/JTC 21
+  status: entwurf
+  status_detail: 'Stufe Enquiry (Stand Juni 2026), Zielhorizont Q4 2026. Teil 1 der dreiteiligen Reihe
+    zum Rahmen der Vertrauenswürdigkeit. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Bedient Art. 12 KI-VO — die Pflicht von Hochrisikosystemen, während des Betriebs
+    automatisch Ereignisse aufzuzeichnen. Die Norm legt fest, was aufgezeichnet werden muss, in welcher
+    Granularität, wie lange und in welcher Form, damit die Rückverfolgbarkeit über die Lebensdauer gewährleistet
+    ist. Praktisch die Grundlage jeder späteren Beweisführung: Ohne normkonforme Protokollierung lässt
+    sich weder gegenüber der Marktüberwachung noch im Haftungsprozess rekonstruieren, was das System getan
+    hat.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten:
+  - datum: 2026-12-31
+    was_gilt: Zielhorizont Q4 2026 für die Verfügbarkeit.
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  themenachsen:
+  - governance
+  - marktzugang
+  - haftung
+  bedient_artikel: Art. 12 KI-VO (Aufzeichnungspflichten); mittelbar Art. 19 (Aufbewahrung der Protokolle)
+  bearbeitungsstand: Enquiry
+  rechtswirkung: 'Derzeit keine. Nach Zitierung Konformitätsvermutung für Art. 12 KI-VO. Beweisrechtlich
+    wird die Norm auch ohne Zitierung Wirkung entfalten: Sie definiert den Stand der Technik, an dem sich
+    die Zumutbarkeit der Protokollierung im Haftungsfall messen lässt.
+
+    '
+  regelungsschwerpunkte:
+  - Abgrenzung zum parallelen internationalen Projekt prEN ISO/IEC 24970 (AI system logging) — Doppelnormung
+    mit Abstimmungsbedarf.
+  - Teil 1 der Reihe 18229; Teile 2 und 3 stehen deutlich früher im Verfahren.
+  dokumente:
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — prEN 18229-1
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Stufe Enquiry, Art. 12, Zielhorizont Q4 2026, nicht zitiert.
+  - datum: 2026-05-01
+    typ: uebersicht
+    titel: The CEN-CENELEC JTC 21 work programme supporting the EU AI Act
+    url: https://adamleonsmith.substack.com/p/the-cen-cenelec-jtc-21-work-programme
+    sprache: en
+    urheber: Adam Leon Smith
+    verifiziert: true
+    notiz: 'Ordnet prEN 18229-1 den Art. 12, 13 und 14 zu und benennt prEN ISO/IEC 24970 als paralleles
+      ISO/IEC-Projekt.
+
+      '
+  offene_punkte:
+  - Verhältnis zu prEN ISO/IEC 24970 ungeklärt — welche Norm am Ende zitiert wird, ist offen.
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://ai-act-standards.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-normungsauftrag-m593-m613
+  - iso-pren-18229-2
+  - iso-pren-18229-3
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18229-2
+  jurisdiktion: iso
+  kurztitel: prEN 18229-2 — Genauigkeit und Robustheit
+  offizieller_titel: 'prEN 18229-2 — Artificial intelligence — AI trustworthiness framework — Part 2:
+    Accuracy and robustness
+
+    '
+  normnummer: prEN 18229-2
+  fundstelle: CEN/CLC/JTC 21
+  verfahrensnummer: CEN/CLC/JTC 21
+  status: entwurf
+  status_detail: 'Stufe Drafting (Stand Juni 2026) — frühe Bearbeitungsstufe, Termin ausdrücklich „evolving“.
+    Nicht Teil der vier Schlüsselnormen mit Zielhorizont Q4 2026. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Bedient Art. 15 KI-VO, soweit es um Genauigkeit und Robustheit geht. Das ist die
+    technisch anspruchsvollste und juristisch heikelste Anforderung der Verordnung: Art. 15 Abs. 3 verlangt
+    die Angabe von Genauigkeitsgraden in der Gebrauchsanweisung, ohne zu sagen, wie Genauigkeit zu messen
+    ist. Solange die Norm fehlt, ist die Pflicht praktisch unbestimmt. Flankiert wird sie durch aufgabenspezifische
+    Bewertungsverfahren (prEN 18281 für Bildverarbeitung, prEN ISO/IEC 23282 für Sprachverarbeitung).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - marktzugang
+  - haftung
+  bedient_artikel: Art. 15 KI-VO (Genauigkeit, Robustheit, Cybersicherheit) — Teilbereich Genauigkeit
+    und Robustheit
+  bearbeitungsstand: Drafting
+  rechtswirkung: 'Keine. Der Rückstand ist praktisch bedeutsam: Art. 15 Abs. 3 KI-VO verlangt die Angabe
+    der Genauigkeitsgrade, ohne ein Messverfahren vorzugeben. Ohne Norm kann jeder Anbieter seine eigene
+    Metrik wählen — ein Ergebnis, das die Vergleichbarkeit, auf die die Verordnung zielt, gerade verhindert.
+
+    '
+  regelungsschwerpunkte:
+  - 'Aufgabenspezifische Bewertungsverfahren als Ergänzung: prEN 18281 (Computer Vision), prEN ISO/IEC
+    23282 (NLP), ISO/IEC 24029-3 (statistische Robustheit neuronaler Netze).'
+  - Die Trennung von Genauigkeit (Teil 2) und Cybersicherheit (prEN 18282) folgt nicht der Systematik
+    des Art. 15, der beides zusammenfasst.
+  dokumente:
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — prEN 18229-2
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Stufe Drafting, Art. 15, Termin evolving, nicht zitiert.
+  offene_punkte:
+  - Kein Termin. Nach dem Oktober-Paket war dieser Entwurf einer der sechs, für die eine kleine Redaktionsgruppe
+    eingesetzt wurde.
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://ai-act-standards.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-normungsauftrag-m593-m613
+  - iso-pren-18282
+  - iso-pren-18229-1
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18229-3
+  jurisdiktion: iso
+  kurztitel: prEN 18229-3 — Transparenz und menschliche Aufsicht
+  offizieller_titel: 'prEN 18229-3 — Artificial intelligence — AI trustworthiness framework — Part 3:
+    Transparency and human oversight
+
+    '
+  normnummer: prEN 18229-3
+  fundstelle: CEN/CLC/JTC 21
+  verfahrensnummer: CEN/CLC/JTC 21
+  status: entwurf
+  status_detail: 'Stufe Drafting (Stand Juni 2026), Termin „evolving“. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Bedient Art. 13 (Transparenz und Bereitstellung von Informationen an Betreiber) und
+    Art. 14 KI-VO (menschliche Aufsicht). Juristisch die interessanteste der Reihe, weil Art. 14 eine
+    Verhaltensanforderung an Menschen normungsfähig machen soll: Das System muss so gestaltet sein, dass
+    eine natürliche Person es wirksam beaufsichtigen kann — einschließlich der Fähigkeit, dem Automatisierungsbias
+    zu widerstehen (Art. 14 Abs. 4 lit. b). Eine technische Norm kann das nur mittelbar über Gestaltungsanforderungen
+    an die Schnittstelle abbilden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  - arbeit
+  bedient_artikel: Art. 13 KI-VO (Transparenz gegenüber Betreibern), Art. 14 KI-VO (menschliche Aufsicht)
+  bearbeitungsstand: Drafting
+  rechtswirkung: 'Keine. Praktisch heißt das: Die Pflicht zur menschlichen Aufsicht ist ab dem 02.12.2027
+    (Anhang III) anwendbar, ohne dass eine Norm sagt, wann sie erfüllt ist. Betreiber und Anbieter werden
+    auf die Kommissionsleitlinien und die Aufsichtspraxis der nationalen Behörden angewiesen sein.
+
+    '
+  regelungsschwerpunkte:
+  - Art. 14 Abs. 4 lit. b KI-VO (Automatisierungsbias) ist der Punkt, an dem technische Normung an die
+    Grenze zur Arbeitsorganisation stößt.
+  - Verhältnis zu prEN ISO/IEC 12792 (Transparenztaxonomie) und ISO/IEC 42105 (Human oversight of AI systems,
+    im FDIS-Verfahren) ungeklärt — dieselbe Materie wird in zwei Gremien bearbeitet.
+  dokumente:
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — prEN 18229-3
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Stufe Drafting, Art. 13 und 14, Termin evolving, nicht zitiert.
+  offene_punkte:
+  - Ob ISO/IEC 42105 (Human oversight) als EN übernommen wird und prEN 18229-3 dadurch entbehrlich wird.
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://ai-act-standards.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-normungsauftrag-m593-m613
+  - iso-iec-sc42-arbeitsprogramm
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18282
+  jurisdiktion: iso
+  kurztitel: prEN 18282 — Cybersicherheit für KI-Systeme
+  offizieller_titel: 'prEN 18282 — Artificial intelligence — Cybersecurity specifications for AI systems
+
+    '
+  normnummer: prEN 18282
+  fundstelle: CEN/CLC/JTC 21
+  verfahrensnummer: CEN/CLC/JTC 21, Arbeitsgruppe Cybersicherheit
+  status: entwurf
+  status_detail: 'Stufe Enquiry (Stand Juni 2026); die öffentliche Konsultation wurde gemeinsam mit prEN
+    18228 im Mai 2026 eröffnet. Zielhorizont Q4 2026. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Bedient Art. 15 Abs. 5 KI-VO — die Pflicht, Hochrisikosysteme gegen Versuche zu härten,
+    ihr Verhalten durch Ausnutzung von Schwachstellen zu verändern. Erfasst KI-spezifische Angriffsklassen,
+    die klassische IT-Sicherheitsnormen nicht kennen: Vergiftung von Trainingsdaten und Modellen, gegnerische
+    Beispiele, Modellextraktion, Prompt-Injektion. Schnittstellenrelevant zum Cyber Resilience Act, dessen
+    Anforderungen für Produkte mit digitalen Elementen parallel gelten.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten:
+  - datum: 2026-05-08
+    was_gilt: Eröffnung der öffentlichen Konsultation gemeinsam mit prEN 18228.
+    verifiziert: true
+    quelle: https://jtc21.eu/new-advancements-in-european-standardization-for-artificial-intelligence/
+  - datum: 2026-12-31
+    was_gilt: Zielhorizont Q4 2026 für die Verfügbarkeit.
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  themenachsen:
+  - governance
+  - marktzugang
+  - sicherheit-export
+  bedient_artikel: Art. 15 Abs. 5 KI-VO (Cybersicherheit, Widerstandsfähigkeit gegen Manipulationsversuche)
+  bearbeitungsstand: Enquiry
+  rechtswirkung: 'Derzeit keine. Nach Zitierung Konformitätsvermutung für Art. 15 Abs. 5. Bis dahin bleibt
+    für die Praxis der Rückgriff auf ISO/IEC 27001 und die entstehende ISO/IEC 27090 (Schutz vor Angriffen
+    auf KI-Systeme) — beide ohne Vermutungswirkung.
+
+    '
+  regelungsschwerpunkte:
+  - 'KI-spezifische Angriffsklassen: Data Poisoning, Model Poisoning, Adversarial Examples, Modellextraktion,
+    Prompt-Injektion.'
+  - 'Doppelregulierung mit dem Cyber Resilience Act (VO (EU) 2024/2847): Ein KI-System in einem vernetzten
+    Produkt unterliegt beiden Regimen; die Konformitätsbewertung ist zu koordinieren.'
+  - Paralleles ISO/IEC-Projekt 27090 (Guidance for addressing security threats to AI systems) in Bearbeitung.
+  dokumente:
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — prEN 18282
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Stufe Enquiry, Art. 15, Zielhorizont Q4 2026, nicht zitiert.
+  - datum: 2026-05-08
+    typ: pressemitteilung
+    titel: New Advancements in European Standardization for Artificial Intelligence
+    url: https://jtc21.eu/new-advancements-in-european-standardization-for-artificial-intelligence/
+    sprache: en
+    urheber: JTC 21 (Informationsportal)
+    verifiziert: true
+    notiz: Belegt die gleichzeitige Konsultation von prEN 18228 und prEN 18282.
+  offene_punkte:
+  - Abgrenzung zur Konformitätsbewertung nach dem Cyber Resilience Act.
+  - Ob ISO/IEC 27090 vor oder nach prEN 18282 fertig wird und wer sich an wen anpasst.
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://ai-act-standards.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - cyber-resilience-act-2024-2847
+  - iso-normungsauftrag-m593-m613
+  - iso-pren-18229-2
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18283
+  jurisdiktion: iso
+  kurztitel: prEN 18283 — Umgang mit Verzerrungen (Bias)
+  offizieller_titel: 'prEN 18283 — Artificial intelligence — Concepts, measures and requirements for managing
+    bias in AI systems
+
+    '
+  normnummer: prEN 18283
+  fundstelle: CEN/CLC/JTC 21
+  verfahrensnummer: CEN/CLC/JTC 21
+  status: entwurf
+  status_detail: 'Früheste Bearbeitungsstufe (Drafting) aller Kernnormen; Verfügbarkeit ausdrücklich erst
+    nach Q4 2026. Von der Kommission förmlich angefordert. Der ETUC bringt Beiträge zur Bias-Minderung
+    ein. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Bedient Art. 10 Abs. 2 lit. f und g KI-VO — die Pflicht, Datensätze auf mögliche
+    Verzerrungen zu untersuchen, die Gesundheit, Sicherheit oder Grundrechte beeinträchtigen oder zu verbotener
+    Diskriminierung führen können, und geeignete Gegenmaßnahmen zu treffen. Damit ist dies die Norm, an
+    der sich entscheidet, ob die KI-VO ihr grundrechtliches Versprechen technisch einlösen kann. Sie ist
+    zugleich die am weitesten zurückliegende.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten: []
+  themenachsen:
+  - grundrechte
+  - governance
+  - marktzugang
+  - arbeit
+  bedient_artikel: Art. 10 Abs. 2 lit. f und g KI-VO (Untersuchung und Minderung von Verzerrungen)
+  bearbeitungsstand: Drafting (früheste Stufe)
+  rechtswirkung: 'Keine, auf absehbare Zeit auch nicht. Die praktische Folge: Die Diskriminierungsdimension
+    der KI-VO wird zuerst durch die Aufsicht und die Gerichte konkretisiert, nicht durch die Normung.
+    Für die Verteidigung eines Anbieters heißt das, dass ISO/IEC TR 24027 (Bias in AI systems and AI aided
+    decision making) und ISO/IEC TS 12791 (Treatment of unwanted bias in classification and regression
+    machine learning tasks) einstweilen die einzigen zitierfähigen Referenzen sind — als Stand der Technik,
+    nicht als Vermutungsgrundlage.
+
+    '
+  regelungsschwerpunkte:
+  - 'Verhältnis zu Art. 10 Abs. 5 KI-VO: Die Verarbeitung besonderer Datenkategorien zur Bias-Erkennung
+    ist erlaubt, aber an strenge Bedingungen geknüpft; der Digital Omnibus hat mit dem neuen Art. 4a KI-VO
+    die Erlaubnis auf alle KI-Systeme erstreckt.'
+  - Bezug zu ISO/IEC TR 24027 und ISO/IEC TS 12791 als vorhandene internationale Vorarbeiten.
+  - Beteiligung des ETUC — ein seltener Fall organisierter Arbeitnehmerbeteiligung in der technischen
+    Normung.
+  dokumente:
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — prEN 18283
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Stufe Drafting, Art. 10, Verfügbarkeit nach Q4 2026, nicht zitiert.
+  - datum: 2026-07-15
+    typ: uebersicht
+    titel: European standards supporting the AI Act (CEN-CENELEC/ETUC-Newsletter OTS 73)
+    url: https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/
+    sprache: en
+    urheber: CEN-CENELEC
+    verifiziert: true
+    notiz: 'Bestätigt, dass prEN 18283 von der Kommission förmlich angefordert wurde und dass der ETUC
+      Beiträge zur Bias-Minderung eingebracht hat.
+
+      '
+  offene_punkte:
+  - Kein Termin. Die Norm zur Diskriminierungsvermeidung ist die letzte des Programms — ein politisch
+    erklärungsbedürftiger Befund.
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://www.etuc.org/en/issue/artificial-intelligence
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  - iso-pren-18284
+  - iso-normungsauftrag-m593-m613
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18284
+  jurisdiktion: iso
+  kurztitel: prEN 18284 — Qualität und Governance von Datensätzen
+  offizieller_titel: 'prEN 18284 — Artificial intelligence — Quality and governance of datasets in AI
+
+    '
+  normnummer: prEN 18284
+  fundstelle: CEN/CLC/JTC 21
+  verfahrensnummer: CEN/CLC/JTC 21
+  status: entwurf
+  status_detail: 'Stufe Drafting (Stand Juni 2026), Termin „evolving“. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Bedient Art. 10 KI-VO — Daten und Daten-Governance. Legt fest, wie Trainings-, Validierungs-
+    und Testdatensätze zu erheben, zu dokumentieren, auf Repräsentativität und Vollständigkeit zu prüfen
+    und über den Lebenszyklus zu verwalten sind. Aufbauend auf den internationalen Vorarbeiten der Reihe
+    ISO/IEC 5259 und dem Technischen Bericht CEN/CLC/TR 18115 zu Daten-Governance und -qualität. Für Anbieter
+    der praktisch aufwendigste Pflichtenkomplex der Verordnung, weil er in die Beschaffung und in die
+    Vertragsgestaltung mit Datenlieferanten durchschlägt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - marktzugang
+  - datenschutz
+  - urheberrecht
+  bedient_artikel: Art. 10 KI-VO (Daten und Daten-Governance); mittelbar Art. 17 Abs. 1 lit. f
+  bearbeitungsstand: Drafting
+  rechtswirkung: 'Keine. Bis zur Zitierung ist die Reihe ISO/IEC 5259 (Teile 1-5, 2024/2025) der maßgebliche
+    Stand der Technik — ohne Vermutungswirkung, aber mit erheblichem Gewicht in der Vertragsgestaltung
+    und in der Auseinandersetzung mit der Marktüberwachung.
+
+    '
+  regelungsschwerpunkte:
+  - 'Vorarbeiten: CEN/CLC/TR 18115 (Data governance and quality for AI, veröffentlicht 18.12.2024) und
+    ISO/IEC 5259 Teile 1-5.'
+  - 'Schnittstelle zum Urheberrecht: Art. 10 KI-VO regelt Datenqualität, nicht Rechtmäßigkeit der Datenherkunft
+    — diese folgt aus Art. 4 DSM-RL und Art. 53 Abs. 1 lit. c KI-VO.'
+  - 'Schnittstelle zur DSGVO: Repräsentativitätsprüfung setzt oft die Verarbeitung besonderer Datenkategorien
+    voraus (Art. 10 Abs. 5 KI-VO, neu Art. 4a KI-VO).'
+  dokumente:
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — prEN 18284
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Stufe Drafting, Art. 10, Termin evolving, nicht zitiert.
+  offene_punkte:
+  - Ob die Norm die Frage der Datenherkunft (Rechtmäßigkeit) ausspart oder aufgreift — normungspolitisch
+    heikel, weil urheberrechtlich.
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://ai-act-standards.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-iec-5259
+  - iso-pren-18283
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  letzte_pruefung: 2026-09-01
+- id: iso-pren-18285
+  jurisdiktion: iso
+  kurztitel: prEN 18285 — Rahmen der Konformitätsbewertung
+  offizieller_titel: 'prEN 18285 — Artificial intelligence — Conformity assessment framework
+
+    '
+  normnummer: prEN 18285
+  fundstelle: CEN/CLC/JTC 21
+  verfahrensnummer: CEN/CLC/JTC 21
+  status: entwurf
+  status_detail: 'Stufe Drafting (Stand Juni 2026), Termin „evolving“. Keine ABl.-Zitierung.
+
+    '
+  kurzbeschreibung: 'Bedient Art. 43 und Anhang VII KI-VO — das Verfahren der Konformitätsbewertung, insbesondere
+    die Bewertung durch benannte Stellen bei biometrischen Hochrisikosystemen. Die Norm beschreibt, wie
+    eine benannte Stelle das Qualitätsmanagementsystem und die technische Dokumentation eines Anbieters
+    prüft. Ohne sie fehlt den benannten Stellen ein einheitlicher Prüfmaßstab — was die Vergleichbarkeit
+    der Bescheinigungen im Binnenmarkt untergräbt. Vorarbeit: CEN/CLC/TR 18115:2024 zur Konformitätsbewertung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://kla.digital/blog/jtc-21-standards-tracker
+  anwendungsdaten: []
+  themenachsen:
+  - marktzugang
+  - governance
+  bedient_artikel: Art. 43 KI-VO und Anhang VII (Konformitätsbewertung auf der Grundlage einer Bewertung
+    des Qualitätsmanagementsystems und der technischen Dokumentation)
+  bearbeitungsstand: Drafting
+  rechtswirkung: 'Keine. Die praktische Folge betrifft nicht in erster Linie die Anbieter, sondern die
+    benannten Stellen: Sie werden nach Art. 31 KI-VO benannt und akkreditiert, bevor die Norm existiert,
+    an der sie ihre Prüfung ausrichten sollen. Für den Zeitraum bis zur Zitierung ist mit uneinheitlicher
+    Prüfpraxis zu rechnen.
+
+    '
+  regelungsschwerpunkte:
+  - Vorarbeit CEN/CLC/TR 18115:2024 (Technischer Bericht zur KI-Konformitätsbewertung, veröffentlicht
+    18.12.2024).
+  - Verhältnis zu ISO/IEC 42006:2025 (Anforderungen an Stellen, die KI-Managementsysteme auditieren und
+    zertifizieren) — die internationale Norm regelt die Zertifizierung nach ISO/IEC 42001, nicht die Konformitätsbewertung
+    nach der KI-VO.
+  - Die Akkreditierung benannter Stellen läuft parallel zur Normung; sie stützt sich einstweilen auf die
+    allgemeinen Anforderungen des Art. 31 KI-VO und die Akkreditierungsverordnung (EG) Nr. 765/2008.
+  dokumente:
+  - datum: 2026-06-30
+    typ: uebersicht
+    titel: JTC 21 Standards Tracker — prEN 18285
+    url: https://kla.digital/blog/jtc-21-standards-tracker
+    sprache: en
+    urheber: kla.digital
+    verifiziert: true
+    notiz: Stufe Drafting, Art. 43/Anhang VII, Termin evolving, nicht zitiert.
+  - datum: 2025-01-02
+    typ: norm
+    titel: CEN/CLC/TR 18115:2024 — AI conformity assessment (Veröffentlichungsmeldung)
+    url: https://jtc21.eu/category/news/
+    sprache: en
+    urheber: JTC 21 (Informationsportal)
+    verifiziert: true
+    notiz: 'Meldung vom 02.01.2025: TR 18115 wurde am 18.12.2024 veröffentlicht. Technischer Bericht,
+      keine Norm — ohne jede Vermutungswirkung.
+
+      '
+  offene_punkte:
+  - Ob benannte Stellen vor Vorliegen der Norm überhaupt sinnvoll benannt werden können.
+  - 'Widersprüchliche Angaben zum Gegenstand von TR 18115: Eine Quelle führt ihn unter Konformitätsbewertung,
+    eine andere unter Daten-Governance und -qualität. Möglicherweise zwei Berichte.'
+  monitoring_quellen:
+  - https://jtc21.eu/
+  - https://ai-act-standards.com/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-en-18286
+  - iso-iec-42006
+  - iso-normungsauftrag-m593-m613
+  letzte_pruefung: 2026-09-01
+- id: iso-jtc21-uebernommene-en-iso-iec
+  jurisdiktion: iso
+  kurztitel: Von JTC 21 übernommene EN ISO/IEC-Normen und Technische Berichte
+  offizieller_titel: 'Als Europäische Normen übernommene internationale KI-Normen und eigenständige Technische
+    Berichte des CEN-CENELEC JTC 21
+
+    '
+  fundstelle: CEN/CLC/JTC 21, Arbeitsprogramm
+  verfahrensnummer: CEN/CLC/JTC 21 (gegründet 01.06.2021, über 300 Experten aus mehr als 20 Ländern)
+  status: softlaw
+  status_detail: 'Teils veröffentlicht, teils in Bearbeitung. Keine dieser Normen ist im Amtsblatt zitiert;
+    sie sind auch nicht dafür bestimmt — sie bilden den terminologischen und methodischen Unterbau, auf
+    den die harmonisierten Normen aufsetzen. Wer die harmonisierten Normen liest, ohne sie zu kennen,
+    versteht die Definitionen nicht.
+
+    '
+  kurzbeschreibung: 'JTC 21 entwickelt nicht nur eigene Normen, sondern übernimmt internationale Normen
+    als EN ISO/IEC und erstellt Technische Berichte. Veröffentlicht sind unter anderem EN ISO/IEC 22989:2023
+    (Begriffe und Konzepte), EN ISO/IEC 23053:2023 (Rahmenwerk für KI-Systeme mit maschinellem Lernen),
+    EN ISO/IEC 8183:2023 (Datenlebenszyklus), EN ISO/IEC 25059 (Qualitätsmodell), EN ISO/IEC 23894 (Risikomanagement),
+    CEN/CLC/TR 18115:2024 (Konformitätsbewertung bzw. Daten-Governance) und CEN/CLC/TR 18145:2025 (grüne
+    und nachhaltige KI). In Bearbeitung sind prEN ISO/IEC 24970 (Protokollierung), prEN ISO/IEC 12792
+    (Transparenztaxonomie), prEN ISO/IEC 23282 (Bewertungsverfahren für Sprachverarbeitung), prEN 18281
+    (Bewertungsverfahren für Bildverarbeitung) und prEN ISO/IEC 25029 (KI-gestütztes Nudging).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://jtc21.eu/wp-content/uploads/2025/06/CEN-CENELEC-JTC21-AI-Standards-Complete-Detailed-Overview.pdf
+  anwendungsdaten:
+  - datum: 2024-12-18
+    was_gilt: Veröffentlichung von CEN/CLC/TR 18115:2024.
+    verifiziert: true
+    quelle: https://jtc21.eu/category/news/
+  themenachsen:
+  - governance
+  - marktzugang
+  bedient_artikel: kein einzelner Artikel — terminologischer und methodischer Unterbau des gesamten Programms
+  bearbeitungsstand: 'gemischt: veröffentlicht und in Bearbeitung'
+  rechtswirkung: 'Keine unmittelbare. Technische Berichte (TR) können nach den CEN-CENELEC-Regeln überhaupt
+    nicht harmonisiert werden — sie tragen nie eine Konformitätsvermutung. Die übernommenen EN ISO/IEC-Normen
+    sind europäische Normen, aber nicht auf den Normungsauftrag hin entwickelt und daher nicht zitierfähig.
+    Ihr Gewicht liegt in der Definitionsmacht: EN ISO/IEC 22989 legt fest, was „KI-System“ im Normungskontext
+    heißt — die KI-VO hat davon abweichend in Art. 3 Nr. 1 eine eigene Definition.
+
+    '
+  regelungsschwerpunkte:
+  - 'Fünf Arbeitsgruppen: Strategischer Beirat (SAG), Operative Aspekte, Technische Aspekte, Grundlagen
+    und gesellschaftliche Aspekte, Cybersicherheit für KI-Systeme.'
+  - 'Definitionsdivergenz: Art. 3 Nr. 1 KI-VO gegen EN ISO/IEC 22989 — die Verordnung folgt der OECD-Definition
+    in der Fassung von 2023, nicht der ISO-Definition.'
+  - CEN/CLC/TR 18145:2025 zu grüner und nachhaltiger KI — ohne Anknüpfungspunkt in der KI-VO, aber anschlussfähig
+    an die Berichtspflichten der CSRD.
+  - 'Doppelnormung: prEN ISO/IEC 24970 (Protokollierung) und prEN 18229-1 (Logging) bearbeiten dieselbe
+    Materie.'
+  dokumente:
+  - datum: 2025-06-01
+    typ: uebersicht
+    titel: CEN-CENELEC JTC21 AI Standards — Complete Detailed Overview
+    url: https://jtc21.eu/wp-content/uploads/2025/06/CEN-CENELEC-JTC21-AI-Standards-Complete-Detailed-Overview.pdf
+    sprache: en
+    urheber: JTC 21 (Informationsportal)
+    verifiziert: true
+    notiz: 'Die vollständigste frei zugängliche Aufstellung des Arbeitsprogramms einschließlich der übernommenen
+      ISO/IEC-Normen und der Arbeitsgruppenstruktur. Kein amtliches Dokument des Gremiums; Stand Juni
+      2025.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Artificial Intelligence — CEN-CENELEC
+    url: https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/
+    sprache: en
+    urheber: CEN-CENELEC
+    verifiziert: true
+    notiz: 'Amtliche Übersichtsseite. Nennt Gründung am 01.06.2021, über 300 Experten aus mehr als 20
+      Ländern und die fünf Arbeitsgruppen.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: CEN/CLC/JTC 21 — Business Plan
+    url: https://standards.cencenelec.eu/BPCEN/2916257.pdf
+    sprache: en
+    urheber: CEN-CENELEC
+    verifiziert: false
+    notiz: Amtlicher Geschäftsplan des Gremiums; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Vollständige amtliche Liste des Arbeitsprogramms nur über die CEN-CENELEC-Datenbank abrufbar, die
+    JavaScript verlangt.
+  - Widersprüchliche Angaben zum Gegenstand von CEN/CLC/TR 18115.
+  monitoring_quellen:
+  - https://standards.cencenelec.eu/dyn/www/f?p=205:22:0::::FSP_ORG_ID,FSP_LANG_ID:2916257,25
+  - https://jtc21.eu/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-normungsauftrag-m593-m613
+  - iso-iec-sc42-arbeitsprogramm
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-42001
+  jurisdiktion: iso
+  kurztitel: ISO/IEC 42001:2023 — KI-Managementsystem
+  offizieller_titel: 'ISO/IEC 42001:2023 — Information technology — Artificial intelligence — Management
+    system
+
+    '
+  normnummer: ISO/IEC 42001:2023
+  fundstelle: ISO/IEC JTC 1/SC 42, veröffentlicht 18.12.2023, 1. Ausgabe, 51 Seiten
+  verfahrensnummer: ISO/IEC JTC 1/SC 42/WG 1
+  status: softlaw
+  status_detail: 'Veröffentlicht und weltweit zertifizierbar; Stufe 60.60. Keine Revision im Verfahren,
+    systematische Überprüfung läuft. Die weltweit erste Managementsystemnorm für künstliche Intelligenz
+    und faktisch der Marktstandard für KI-Governance. Rechtlich in der EU ohne Vermutungswirkung.
+
+    '
+  kurzbeschreibung: 'Legt Anforderungen an Aufbau, Umsetzung, Aufrechterhaltung und fortlaufende Verbesserung
+    eines KI-Managementsystems (AIMS) fest. Folgt der Harmonisierten Struktur der ISO-Managementsystemnormen
+    (Plan-Do-Check-Act) und ist damit für Organisationen anschlussfähig, die bereits ISO/IEC 27001 oder
+    ISO 9001 betreiben. Adressiert sind Organisationen jeder Größe, die KI-Systeme bereitstellen oder
+    einsetzen. Anhang A enthält 38 Steuerungsziele, Anhang B Umsetzungshinweise, Anhang C eine Aufstellung
+    KI-bezogener Organisationsziele und Risikoquellen. Zertifizierung erfolgt durch akkreditierte Stellen
+    nach ISO/IEC 42006:2025.
+
+    '
+  inkrafttreten:
+    datum: 2023-12-18
+    verifiziert: true
+    quelle: https://www.iso.org/standard/42001
+  anwendungsdaten:
+  - datum: 2023-12-18
+    was_gilt: Veröffentlichung der ersten Ausgabe.
+    verifiziert: true
+    quelle: https://www.iso.org/standard/42001
+  - datum: 2025-07-07
+    was_gilt: 'Veröffentlichung von ISO/IEC 42006:2025 — erst damit ist akkreditierte Zertifizierung nach
+      einheitlichen Anforderungen möglich.
+
+      '
+    verifiziert: true
+    quelle: https://www.iso.org/standard/42006
+  themenachsen:
+  - governance
+  - marktzugang
+  bedient_artikel: 'keinen unmittelbar. Inhaltlich anschlussfähig an Art. 17 KI-VO (Qualitätsmanagementsystem)
+    und Art. 9 (Risikomanagement), ohne die dortigen anbieterbezogenen Regulierungspflichten abzudecken.
+
+    '
+  bearbeitungsstand: veröffentlicht (60.60), systematische Überprüfung
+  rechtswirkung: 'Keine Konformitätsvermutung nach Art. 40 KI-VO — und zwar nicht aus inhaltlichen, sondern
+    aus verfahrensrechtlichen Gründen: Die Norm ist nicht auf Normungsauftrag der Kommission entstanden,
+    nicht von einer europäischen Normungsorganisation entwickelt und nicht im Amtsblatt zitiert. Wer nach
+    ISO/IEC 42001 zertifiziert ist, hat damit nicht das nach Art. 17 KI-VO erforderliche Qualitätsmanagementsystem.
+    Die Zertifizierung kann Einhaltung „Anforderung für Anforderung“ belegen — sie ersetzt die Prüfung
+    nicht. Praktisch ist sie gleichwohl wertvoll: als Nachweis organisatorischer Sorgfalt gegenüber Kunden,
+    Versicherern und Aufsicht, und in den USA als Anknüpfungspunkt für vertragliche Zusicherungen.
+
+    '
+  regelungsschwerpunkte:
+  - 38 Steuerungsziele in Anhang A, unter anderem KI-Politik, Rollen und Verantwortlichkeiten, Ressourcen,
+    Folgenabschätzung, Datenmanagement, Informationen für Interessenträger, Umgang mit Dritten.
+  - 'Der entscheidende Unterschied zu EN 18286: ISO/IEC 42001 ist organisationsbezogen und branchenoffen;
+    EN 18286 ist anbieterbezogen und regulatorisch — sie bildet Pflichten der KI-VO ab (technische Dokumentation,
+    Beobachtung nach Inverkehrbringen, Lieferantenaufsicht).'
+  - Adam Leon Smith beschreibt EN 18286 ausdrücklich als bewussten architektonischen Bruch mit ISO 9001
+    und EN ISO/IEC 42001 — die beiden Normen sind nicht ineinander überführbar.
+  - Crosswalks zu NIST AI RMF und zur KI-VO sind verbreitet, aber privat erstellt und ohne amtliche Anerkennung.
+  bedeutung_praxis: 'Für einen europäischen Anbieter, der in den USA verkauft und in der EU einem Hochrisikoregime
+    unterliegt, ist ISO/IEC 42001 die Brückennorm: Sie wird von US-Kunden nachgefragt, ist auditierbar
+    und lässt sich auf das NIST AI RMF abbilden. Wer sie betreibt, hat den organisatorischen Unterbau
+    für EN 18286 — nicht mehr. Vertragliche Zusicherungen sollten nicht „AI Act compliant“ lauten, sondern
+    die Norm und ihre Fassung benennen.
+
+    '
+  dokumente:
+  - datum: 2026-08-31
+    typ: norm
+    titel: ISO/IEC 42001:2023 — Katalogeintrag
+    url: https://www.iso.org/standard/42001
+    sprache: en
+    urheber: ISO/IEC
+    verifiziert: true
+    notiz: 'Amtlicher Katalogeintrag: Veröffentlichung 18.12.2023, Ausgabe 1, 51 Seiten, Stufe 60.60,
+      keine Revision im Verfahren.'
+  - datum: 2026-08-25
+    typ: stellungnahme
+    titel: 'ISO/IEC 42001 and the AI Act: why certification is not (yet) a presumption of conformity'
+    url: https://lawandtechnology.eu/en/iso-iec-42001-and-the-ai-act-why-certification-is-not-yet-a-presumption-of-conformity/
+    sprache: en
+    urheber: lawandtechnology.eu
+    verifiziert: true
+    notiz: 'Die präziseste juristische Auseinandersetzung: Die Vermutung folgt nicht aus der technischen
+      Beschaffenheit der Norm, sondern aus einem Verfahren. Kernsatz zur Abgrenzung von EN 18286.
+
+      '
+  - datum: 2026-04-28
+    typ: stellungnahme
+    titel: 'EU AI Act Compliance: prEN 18286 and ISO 42001'
+    url: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-pren-18286-iso-42001-20260428-cs/
+    sprache: en
+    urheber: Cloud Security Alliance
+    verifiziert: false
+    notiz: Gegenüberstellung beider Normen aus Anbietersicht; in dieser Sitzung nicht vollständig abgerufen.
+  offene_punkte:
+  - Ob und wann eine Revision oder ein Änderungsblatt kommt; die systematische Überprüfung läuft.
+  - Ob die Kommission ISO/IEC 42001 mittelbar über eine Übernahme als EN ISO/IEC in den harmonisierten
+    Bestand holt — bisher nicht geschehen.
+  monitoring_quellen:
+  - https://www.iso.org/standard/42001
+  - https://www.iso.org/committee/6794475.html
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - iso-en-18286
+  - iso-iec-42006
+  - iso-iec-23894
+  - us-nist-ai-rmf
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-42006
+  jurisdiktion: iso
+  kurztitel: ISO/IEC 42006:2025 — Anforderungen an Zertifizierungsstellen
+  offizieller_titel: 'ISO/IEC 42006:2025 — Information technology — Artificial intelligence — Requirements
+    for bodies providing audit and certification of artificial intelligence management systems
+
+    '
+  normnummer: ISO/IEC 42006:2025
+  fundstelle: ISO/IEC JTC 1/SC 42, veröffentlicht 07.07.2025, 1. Ausgabe
+  verfahrensnummer: ISO/IEC JTC 1/SC 42
+  status: softlaw
+  status_detail: 'Veröffentlicht am 07.07.2025. Ergänzt ISO/IEC 17021-1 um KI-spezifische Auditanforderungen.
+    Erst mit dieser Norm ist die Akkreditierung von Zertifizierungsstellen für ISO/IEC 42001 auf einheitlicher
+    Grundlage möglich; Akkreditierungsstellen wie ANAB stützen ihre Programme darauf.
+
+    '
+  kurzbeschreibung: 'Legt fest, welche Anforderungen Stellen erfüllen müssen, die KI-Managementsysteme
+    nach ISO/IEC 42001 auditieren und zertifizieren: Kompetenz der Auditoren, Auditzeiten, Umgang mit
+    Mehrfachstandorten, Behandlung von KI-spezifischen Prüffeldern wie Ethik, Datenqualität, Risiko und
+    Transparenz. Adressaten sind Zertifizierungs- und Akkreditierungsstellen, nicht Anbieter. Die Norm
+    entscheidet über den Wert jeder ISO/IEC 42001-Bescheinigung: Ohne akkreditierte Zertifizierung ist
+    die Bescheinigung eine Privaturkunde.
+
+    '
+  inkrafttreten:
+    datum: 2025-07-07
+    verifiziert: true
+    quelle: https://www.iso.org/standard/42006
+  anwendungsdaten:
+  - datum: 2025-07-07
+    was_gilt: Veröffentlichung; Grundlage der Akkreditierungsprogramme.
+    verifiziert: true
+    quelle: https://www.iso.org/standard/42006
+  themenachsen:
+  - governance
+  - marktzugang
+  - berufsrecht
+  bedient_artikel: keinen. Betrifft die private Zertifizierungsinfrastruktur, nicht die Konformitätsbewertung
+    nach Art. 43 KI-VO.
+  bearbeitungsstand: veröffentlicht
+  rechtswirkung: 'Keine gegenüber Anbietern. Mittelbar erheblich: Sie trennt akkreditierte von nicht akkreditierter
+    Zertifizierung und ist damit das Instrument, mit dem sich die Belastbarkeit einer vorgelegten Bescheinigung
+    prüfen lässt. Für die Vertragsgestaltung heißt das: Nicht „ISO 42001-zertifiziert“ zusichern lassen,
+    sondern „zertifiziert durch eine nach ISO/IEC 42006 akkreditierte Stelle, Akkreditierungsstelle benannt".
+
+    '
+  regelungsschwerpunkte:
+  - Ergänzt ISO/IEC 17021-1 (allgemeine Anforderungen an Managementsystem-Zertifizierer) um KI-spezifische
+    Elemente.
+  - Kompetenzanforderungen an Auditoren — der praktische Engpass, weil qualifizierte KI-Auditoren knapp
+    sind.
+  - 'Abgrenzung: regelt nicht die benannten Stellen nach Art. 31 KI-VO. Deren Anforderungen folgen aus
+    der Verordnung selbst und aus prEN 18285.'
+  dokumente:
+  - datum: 2026-08-31
+    typ: norm
+    titel: ISO/IEC 42006:2025 — Katalogeintrag
+    url: https://www.iso.org/standard/42006
+    sprache: en
+    urheber: ISO/IEC
+    verifiziert: true
+    notiz: Amtlicher Katalogeintrag mit Veröffentlichungsdatum 07.07.2025 und Abgrenzung zu ISO/IEC 17021-1.
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Artificial Intelligence Management Systems — ISO/IEC 42001 Certification Bodies (ANAB)
+    url: https://anab.ansi.org/accreditation/iso-iec-42001-artificial-intelligence-management-systems/
+    sprache: en
+    urheber: ANSI National Accreditation Board
+    verifiziert: false
+    notiz: Akkreditierungsprogramm der US-Akkreditierungsstelle; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Wie viele Stellen tatsächlich akkreditiert sind und ob die Akkreditierungslandschaft international
+    einheitlich ist.
+  monitoring_quellen:
+  - https://www.iso.org/standard/42006
+  - https://anab.ansi.org/
+  bezug_regelwerke:
+  - iso-iec-42001
+  - iso-pren-18285
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-42005
+  jurisdiktion: iso
+  kurztitel: ISO/IEC 42005:2025 — Folgenabschätzung für KI-Systeme
+  offizieller_titel: 'ISO/IEC 42005:2025 — Information technology — Artificial intelligence (AI) — AI
+    system impact assessment
+
+    '
+  normnummer: ISO/IEC 42005:2025
+  fundstelle: ISO/IEC JTC 1/SC 42, veröffentlicht 28.05.2025, 1. Ausgabe
+  verfahrensnummer: ISO/IEC JTC 1/SC 42
+  status: softlaw
+  status_detail: 'Veröffentlicht am 28.05.2025. Leitfaden, keine Anforderungsnorm — daher nicht zertifizierbar,
+    aber als Umsetzungshilfe zu Anhang A von ISO/IEC 42001 gedacht.
+
+    '
+  kurzbeschreibung: 'Gibt Organisationen an die Hand, wie sie die Auswirkungen eines KI-Systems auf Einzelne,
+    Gruppen und die Gesellschaft über den Lebenszyklus hinweg ermitteln, bewerten und dokumentieren. Enthält
+    Vorgaben zu Zeitpunkt, Umfang, Beteiligten und Dokumentation der Folgenabschätzung. Für europäische
+    Anwender die naheliegendste methodische Grundlage der Grundrechte-Folgenabschätzung nach Art. 27 KI-VO
+    — mit dem Vorbehalt, dass die ISO-Norm auf Auswirkungen allgemein zielt, Art. 27 dagegen spezifisch
+    auf Grundrechte.
+
+    '
+  inkrafttreten:
+    datum: 2025-05-28
+    verifiziert: true
+    quelle: https://www.iso.org/standard/42005
+  anwendungsdaten:
+  - datum: 2025-05-28
+    was_gilt: Veröffentlichung.
+    verifiziert: true
+    quelle: https://www.iso.org/standard/42005
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  bedient_artikel: 'keinen unmittelbar. Methodisch anschlussfähig an Art. 27 KI-VO (Grundrechte-Folgenabschätzung
+    durch bestimmte Betreiber) und an Art. 35 DSGVO (Datenschutz-Folgenabschätzung).
+
+    '
+  bearbeitungsstand: veröffentlicht
+  rechtswirkung: 'Keine. Ein Leitfaden ohne Anforderungen kann auch international nicht zertifiziert werden.
+    Praktische Bedeutung als Dokumentationsvorlage: Wer nach Art. 27 KI-VO eine Grundrechte-Folgenabschätzung
+    schuldet und sie nach ISO/IEC 42005 strukturiert, kann die Methodenwahl gegenüber der Aufsicht begründen.
+    Die inhaltlichen Anforderungen ergeben sich aber aus Art. 27, nicht aus der Norm — und die HUDERIA-Methodik
+    des Europarats ist dafür der genauere Zuschnitt.
+
+    '
+  regelungsschwerpunkte:
+  - Ergänzt ISO/IEC 42001 (Anhang A) und ISO/IEC 23894; die drei Normen bilden zusammen den ISO-Governance-Kern.
+  - 'Konkurrenz zu HUDERIA (Europarat, Methodik 26.02.2025, Modell 25.02.2026): Beide beanspruchen dasselbe
+    Feld; HUDERIA ist grundrechtsspezifisch, ISO/IEC 42005 organisationsbezogen.'
+  dokumente:
+  - datum: 2026-08-31
+    typ: norm
+    titel: ISO/IEC 42005:2025 — Katalogeintrag
+    url: https://www.iso.org/standard/42005
+    sprache: en
+    urheber: ISO/IEC
+    verifiziert: true
+    notiz: 'Amtlicher Katalogeintrag: Veröffentlichung 28.05.2025, Ausgabe 1.'
+  offene_punkte:
+  - Ob die Kommission in den Leitlinien zu Art. 27 KI-VO eine Methodik empfiehlt und ob sie ISO/IEC 42005
+    oder HUDERIA nennt.
+  monitoring_quellen:
+  - https://www.iso.org/standard/42005
+  bezug_regelwerke:
+  - iso-iec-42001
+  - iso-iec-23894
+  - coe-huderia
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-23894
+  jurisdiktion: iso
+  kurztitel: ISO/IEC 23894:2023 — Leitfaden Risikomanagement
+  offizieller_titel: 'ISO/IEC 23894:2023 — Information technology — Artificial intelligence — Guidance
+    on risk management
+
+    '
+  normnummer: ISO/IEC 23894:2023
+  fundstelle: ISO/IEC JTC 1/SC 42, veröffentlicht 06.02.2023, 1. Ausgabe
+  verfahrensnummer: ISO/IEC JTC 1/SC 42; als EN ISO/IEC 23894 in Europa übernommen
+  status: softlaw
+  status_detail: 'Veröffentlicht am 06.02.2023 und als Europäische Norm übernommen — aber nicht harmonisiert
+    und nicht im Amtsblatt zitiert. Der europäische Gegenentwurf prEN 18228 befindet sich im Umfrageverfahren.
+
+    '
+  kurzbeschreibung: 'Überträgt die generische Risikomanagementmethodik der ISO 31000 auf KI. Beschreibt
+    Grundsätze, Rahmenwerk und Prozess des KI-Risikomanagements und enthält in Anhang C eine Aufstellung
+    KI-spezifischer Risikoquellen (unter anderem mangelnde Transparenz, Datenqualität, Automatisierungsbias,
+    Sicherheit, Komplexität der Lieferkette). Ein Leitfaden, keine Anforderungsnorm — der entscheidende
+    Unterschied zu prEN 18228, die Anforderungen formuliert und damit auditierbar ist.
+
+    '
+  inkrafttreten:
+    datum: 2023-02-06
+    verifiziert: true
+    quelle: https://www.iso.org/standard/77304.html
+  anwendungsdaten:
+  - datum: 2023-02-06
+    was_gilt: Veröffentlichung.
+    verifiziert: true
+    quelle: https://www.iso.org/standard/77304.html
+  themenachsen:
+  - governance
+  - haftung
+  - marktzugang
+  bedient_artikel: 'keinen unmittelbar. Methodisch anschlussfähig an Art. 9 KI-VO; ersetzt prEN 18228
+    nicht.
+
+    '
+  bearbeitungsstand: veröffentlicht; europäisch übernommen als EN ISO/IEC 23894
+  rechtswirkung: 'Keine Vermutungswirkung. Beweisrechtlich relevant als Stand der Technik: Wer ein Risikomanagementsystem
+    gänzlich ohne Anlehnung an ISO/IEC 23894 oder ISO 31000 betreibt, wird im Haftungsfall erklären müssen,
+    warum.
+
+    '
+  regelungsschwerpunkte:
+  - 'Anhang C: Katalog KI-spezifischer Risikoquellen — die praktisch nützlichste Passage.'
+  - 'Leitfaden gegen Anforderungsnorm: ISO/IEC 23894 sagt „sollte“, prEN 18228 sagt „muss“. Nur Letzteres
+    ist auditierbar und vermutungsfähig.'
+  dokumente:
+  - datum: 2026-08-31
+    typ: norm
+    titel: ISO/IEC 23894:2023 — Katalogeintrag
+    url: https://www.iso.org/standard/77304.html
+    sprache: en
+    urheber: ISO/IEC
+    verifiziert: true
+    notiz: 'Amtlicher Katalogeintrag: Veröffentlichung 06.02.2023, Ausgabe 1.'
+  offene_punkte:
+  - Ob prEN 18228 die europäische Übernahme EN ISO/IEC 23894 ablöst oder neben ihr steht.
+  monitoring_quellen:
+  - https://www.iso.org/standard/77304.html
+  bezug_regelwerke:
+  - iso-pren-18228
+  - iso-iec-42001
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-tr-24028
+  jurisdiktion: iso
+  kurztitel: ISO/IEC TR 24028:2020 — Vertrauenswürdigkeit (Überblick)
+  offizieller_titel: 'ISO/IEC TR 24028:2020 — Information technology — Artificial intelligence — Overview
+    of trustworthiness in artificial intelligence
+
+    '
+  normnummer: ISO/IEC TR 24028:2020
+  fundstelle: ISO/IEC JTC 1/SC 42, veröffentlicht Mai 2020, 1. Ausgabe
+  verfahrensnummer: ISO/IEC JTC 1/SC 42
+  status: softlaw
+  status_detail: 'Technischer Bericht, veröffentlicht Mai 2020, in systematischer Überprüfung, bislang
+    nicht überarbeitet. Sechs Jahre alt und damit älter als jedes große Sprachmodell des heutigen Markts
+    — als Bestandsaufnahme überholt, als Begriffsquelle weiterhin einschlägig.
+
+    '
+  kurzbeschreibung: 'Der begriffliche Ausgangspunkt der gesamten KI-Normung: Der Bericht entfaltet, was
+    Vertrauenswürdigkeit bedeutet — Transparenz, Erklärbarkeit, Steuerbarkeit, Verfügbarkeit, Widerstandsfähigkeit,
+    Zuverlässigkeit, Genauigkeit, Sicherheit, Datenschutz — und beschreibt technische Schwachstellen und
+    Gegenmaßnahmen. Er legt ausdrücklich keine Vertraünswürdigkeitsstufen fest. Genau diese Zurückhaltung
+    ist der Grund, warum er als Rechtsgrundlage nichts trägt: Ein Technischer Bericht kann nach den ISO-Regeln
+    keine Anforderungen enthalten.
+
+    '
+  inkrafttreten:
+    datum: 2020-05-01
+    verifiziert: true
+    quelle: https://www.iso.org/standard/77608.html
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - grundrechte
+  bedient_artikel: keinen. Begriffsquelle für die Trustworthiness-Terminologie der KI-VO-Erwägungsgründe.
+  bearbeitungsstand: veröffentlicht (TR), systematische Überprüfung
+  rechtswirkung: 'Keine. Technische Berichte sind nach den ISO/IEC-Regeln keine Normen; sie enthalten
+    keine Anforderungen, sind nicht zertifizierbar und nicht harmonisierbar. Wer eine „Zertifizierung
+    nach ISO 24028“ angeboten bekommt, sollte misstrauisch werden.
+
+    '
+  regelungsschwerpunkte:
+  - Schließt Vertraünswürdigkeitsstufen ausdrücklich aus dem Anwendungsbereich aus.
+  - Begrifflicher Vorlauf zu ISO/IEC 22989 (Konzepte und Terminologie) und zu den Trustworthiness-Erwägungsgründen
+    der KI-VO.
+  dokumente:
+  - datum: 2026-08-31
+    typ: norm
+    titel: ISO/IEC TR 24028:2020 — Katalogeintrag
+    url: https://www.iso.org/standard/77608.html
+    sprache: en
+    urheber: ISO/IEC
+    verifiziert: true
+    notiz: 'Amtlicher Katalogeintrag: Ausgabe 1, Mai 2020, in systematischer Überprüfung.'
+  offene_punkte:
+  - Ob eine Überarbeitung kommt — sechs Jahre ohne Revision in einem Feld dieser Dynamik ist bemerkenswert.
+  monitoring_quellen:
+  - https://www.iso.org/standard/77608.html
+  bezug_regelwerke:
+  - iso-iec-42001
+  - iso-iec-sc42-arbeitsprogramm
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-25059
+  jurisdiktion: iso
+  kurztitel: ISO/IEC 25059:2023 — Qualitätsmodell für KI-Systeme
+  offizieller_titel: 'ISO/IEC 25059:2023 — Software engineering — Systems and software Quality Requirements
+    and Evaluation (SQuaRE) — Quality model for AI systems
+
+    '
+  normnummer: ISO/IEC 25059:2023
+  fundstelle: ISO/IEC JTC 1/SC 42, veröffentlicht Juni 2023, 1. Ausgabe
+  verfahrensnummer: ISO/IEC JTC 1/SC 42; als EN ISO/IEC 25059 in Europa übernommen
+  status: softlaw
+  status_detail: 'Veröffentlicht Juni 2023; im Katalog auf Stufe 90.92 geführt, also zur Überarbeitung
+    vorgesehen. Europäisch übernommen, nicht harmonisiert.
+
+    '
+  kurzbeschreibung: 'Erweitert das Qualitätsmodell der SQuaRE-Reihe (ISO/IEC 25010) um KI-spezifische
+    Merkmale und Teilmerkmale — unter anderem funktionale Anpassungsfähigkeit, Robustheit, Transparenz,
+    Interpretierbarkeit, Steuerbarkeit, Ethik-bezogene Merkmale. Damit liefert sie die Vokabeln, in denen
+    sich Genauigkeit und Robustheit im Sinne des Art. 15 KI-VO überhaupt formulieren lassen. Ohne ein
+    solches Modell bleibt „Genauigkeit“ ein Wort ohne Maß.
+
+    '
+  inkrafttreten:
+    datum: 2023-06-01
+    verifiziert: true
+    quelle: https://www.iso.org/standard/80655.html
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - marktzugang
+  - haftung
+  bedient_artikel: keinen unmittelbar. Methodische Grundlage für Art. 15 KI-VO (Genauigkeit, Robustheit)
+    und für prEN 18229-2.
+  bearbeitungsstand: veröffentlicht, zur Überarbeitung vorgesehen (90.92)
+  rechtswirkung: 'Keine Vermutungswirkung. Praktisch die maßgebliche Referenz für die Angabe von Genauigkeitsgraden
+    nach Art. 15 Abs. 3 KI-VO, solange prEN 18229-2 fehlt.
+
+    '
+  regelungsschwerpunkte:
+  - Erweiterung von ISO/IEC 25010 um KI-Merkmale; ergänzt durch ISO/IEC TS 25058 (Leitfaden zur Bewertung).
+  - Bezug zu ISO/IEC TS 4213 (Bewertung der Klassifikationsleistung maschinellen Lernens) und ISO/IEC
+    24029 (Robustheit neuronaler Netze).
+  dokumente:
+  - datum: 2026-08-31
+    typ: norm
+    titel: ISO/IEC 25059:2023 — Katalogeintrag
+    url: https://www.iso.org/standard/80655.html
+    sprache: en
+    urheber: ISO/IEC
+    verifiziert: true
+    notiz: 'Amtlicher Katalogeintrag: Ausgabe 1, Juni 2023, Stufe 90.92 (zur Überarbeitung vorgesehen).'
+  offene_punkte:
+  - Termin der Überarbeitung offen.
+  monitoring_quellen:
+  - https://www.iso.org/standard/80655.html
+  bezug_regelwerke:
+  - iso-pren-18229-2
+  - ki-vo-2024-1689
+  - iso-iec-sc42-arbeitsprogramm
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-5259
+  jurisdiktion: iso
+  kurztitel: ISO/IEC 5259 (Teile 1-5) — Datenqualität für Analytik und maschinelles Lernen
+  offizieller_titel: 'ISO/IEC 5259-1 bis -5 — Artificial intelligence — Data quality for analytics and
+    machine learning (ML)
+
+    '
+  normnummer: ISO/IEC 5259-1:2024, -2:2024, -3:2024, -4:2024, -5:2025
+  fundstelle: ISO/IEC JTC 1/SC 42, Teile 1-4 veröffentlicht 2024, Teil 5 2025
+  verfahrensnummer: ISO/IEC JTC 1/SC 42
+  status: softlaw
+  status_detail: 'Vollständig veröffentlicht: Teil 1 (Überblick, Terminologie, Beispiele), Teil 2 (Datenqualitätsmaße),
+    Teil 3 (Anforderungen und Leitlinien für das Datenqualitätsmanagement), Teil 4 (Prozessrahmenwerk)
+    2024; Teil 5 (Governance-Rahmenwerk für Datenqualität) 2025. Nicht harmonisiert.
+
+    '
+  kurzbeschreibung: 'Die international vollständigste Regelung der Datenqualität für maschinelles Lernen
+    und damit die einzige ausgereifte Referenz für Art. 10 KI-VO, solange prEN 18284 im Entwurfsstadium
+    steckt. Teil 3 enthält Anforderungen und ist damit auditierbar; die übrigen Teile sind Rahmenwerke
+    und Leitlinien. Die Reihe deckt Erhebung, Kennzeichnung, Messung, Verwaltung und Governance von Datensätzen
+    ab.
+
+    '
+  inkrafttreten:
+    datum: 2024-01-01
+    verifiziert: false
+    quelle: https://www.iso.org/standard/81088.html
+  anwendungsdaten:
+  - datum: 2025-01-01
+    was_gilt: Veröffentlichung von Teil 5 (Governance-Rahmenwerk).
+    verifiziert: false
+    quelle: https://www.iso.org/standard/84150.html
+  themenachsen:
+  - governance
+  - datenschutz
+  - marktzugang
+  bedient_artikel: keinen unmittelbar. Methodische Grundlage für Art. 10 KI-VO und für prEN 18284.
+  bearbeitungsstand: vollständig veröffentlicht
+  rechtswirkung: 'Keine Vermutungswirkung. Faktisch der Prüfmaßstab, an dem sich Datenqualitätsmanagement
+    heute messen lassen muss — auch weil die Reihe in Lieferverträgen über Trainingsdaten zunehmend in
+    Bezug genommen wird.
+
+    '
+  regelungsschwerpunkte:
+  - Teil 3 ist die einzige Anforderungsnorm der Reihe und damit der zertifizierungsfähige Teil.
+  - Teil 2 (Datenqualitätsmaße) liefert die Metriken, ohne die Art. 10 Abs. 3 KI-VO („relevant, hinreichend
+    repräsentativ, weitestgehend fehlerfrei und vollständig“) nicht operationalisierbar ist.
+  dokumente:
+  - datum: 2026-08-31
+    typ: norm
+    titel: ISO/IEC 5259-1:2024 — Katalogeintrag
+    url: https://www.iso.org/standard/81088.html
+    sprache: en
+    urheber: ISO/IEC
+    verifiziert: false
+    notiz: Katalogeintrag Teil 1; in dieser Sitzung nicht einzeln abgerufen, aus dem SC-42-Katalog übernommen.
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: ISO/IEC JTC 1/SC 42 — Standardkatalog
+    url: https://www.iso.org/committee/6794475/x/catalogue/p/1/u/0/w/0/d/0
+    sprache: en
+    urheber: ISO
+    verifiziert: true
+    notiz: 'Amtlicher Katalog des Unterausschusses. Belegt die Veröffentlichungsjahre aller fünf Teile
+      der Reihe 5259 sowie den Bestand der übrigen SC-42-Normen.
+
+      '
+  offene_punkte:
+  - Einzelne Veröffentlichungsdaten der Teile 1-5 nicht taggenau verifiziert.
+  monitoring_quellen:
+  - https://www.iso.org/committee/6794475.html
+  bezug_regelwerke:
+  - iso-pren-18284
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: iso-iec-sc42-arbeitsprogramm
+  jurisdiktion: iso
+  kurztitel: ISO/IEC JTC 1/SC 42 — laufende Arbeiten
+  offizieller_titel: 'ISO/IEC JTC 1/SC 42 Artificial intelligence — Arbeitsprogramm der in Bearbeitung
+    befindlichen Normen und Technischen Spezifikationen
+
+    '
+  fundstelle: ISO/IEC JTC 1/SC 42, Standardkatalog
+  verfahrensnummer: ISO/IEC JTC 1/SC 42 (Sekretariat ANSI)
+  status: verfahren
+  status_detail: 'Laufend. SC 42 ist das Mutterschiff der internationalen KI-Normung und liefert den Bestand,
+    aus dem sich JTC 21 bedient. Bei Rechercheschluss sind unter anderem ISO/IEC FDIS 42105 (menschliche
+    Aufsicht), ISO/IEC FDIS 24970 (Protokollierung), ISO/IEC FDIS 24029-3 (statistische Robustheit), ISO/IEC
+    DIS 23282 (Bewertungsverfahren Sprachverarbeitung), ISO/IEC DIS 25029 (KI-gestütztes Nudging), ISO/IEC
+    CD TS 22440 (funktionale Sicherheit), ISO/IEC DTS 22443 (gesellschaftliche und ethische Belange),
+    ISO/IEC TS 42119 (Prüfung und Verifikation), ISO/IEC 42007, ISO/IEC 42102 (Taxonomie von Methoden
+    und Fähigkeiten) und ISO/IEC 27090 (Sicherheitsbedrohungen für KI-Systeme) im Verfahren.
+
+    '
+  kurzbeschreibung: 'SC 42 gliedert sich in mehrere Arbeitsgruppen (Grundlagen, Big Data, Vertrauenswürdigkeit,
+    Anwendungsfälle, Governance, Datenqualität, KI-Systemtechnik). Zum veröffentlichten Bestand gehören
+    neben den hier einzeln erfassten Normen unter anderem ISO/IEC 22989:2022 (Konzepte und Terminologie),
+    ISO/IEC 23053:2022 (Rahmenwerk für KI-Systeme mit maschinellem Lernen), ISO/IEC 5338:2023 (Lebenszyklusprozesse),
+    ISO/IEC 5339:2024 (Leitfaden für KI-Anwendungen), ISO/IEC 8183:2023 (Datenlebenszyklus), ISO/IEC 38507:2022
+    (Governance-Implikationen des KI-Einsatzes), ISO/IEC 24029-2:2023 (Robustheit neuronaler Netze) sowie
+    mehrere Technische Berichte zu Verzerrungen (TR 24027), Ethik (TR 24368), funktionaler Sicherheit
+    (TR 5469) und Anwendungsfällen (TR 24030).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.iso.org/committee/6794475/x/catalogue/p/1/u/0/w/0/d/0
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - marktzugang
+  - sicherheit-export
+  - grundrechte
+  bedient_artikel: kein einzelner. Der Bestand ist der Steinbruch, aus dem JTC 21 europäische Normen formt.
+  bearbeitungsstand: laufend
+  rechtswirkung: 'Keine. Für die europäische Praxis mittelbar erheblich: Jede ISO/IEC-Norm, die als EN
+    ISO/IEC übernommen wird, kann Grundlage einer späteren Harmonisierung werden — der Weg über ISO ist
+    schneller als die europäische Eigenentwicklung, aber die Kommission hat ihn für die Kernanforderungen
+    der KI-VO nicht akzeptiert.
+
+    '
+  regelungsschwerpunkte:
+  - ISO/IEC 42105 (Human oversight of AI systems, FDIS) ist die international unmittelbarste Entsprechung
+    zu Art. 14 KI-VO und weiter als prEN 18229-3.
+  - ISO/IEC 27090 (Sicherheitsbedrohungen für KI-Systeme) läuft parallel zu prEN 18282.
+  - ISO/IEC TS 22440 (funktionale Sicherheit) ist die Schnittstelle zur Maschinenverordnung und zur Medizinprodukteregulierung.
+  - 'Die Doppelbearbeitung derselben Materie in Genf und Brüssel ist das strukturelle Problem: Sie bindet
+    dieselben knappen Experten.'
+  dokumente:
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Standards by ISO/IEC JTC 1/SC 42 — Artificial intelligence
+    url: https://www.iso.org/committee/6794475/x/catalogue/p/1/u/0/w/0/d/0
+    sprache: en
+    urheber: ISO
+    verifiziert: true
+    notiz: 'Amtlicher Katalog: veröffentlichte Normen und Vorhaben in Bearbeitung mit Verfahrensstufen.
+      Die belastbarste Quelle zum Arbeitsprogramm.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: 'ISO/IEC AI Standards: Comprehensive Reference'
+    url: https://www.aigl.blog/iso-iec-ai-standards-comprehensive-reference/
+    sprache: en
+    urheber: AI Governance Library
+    verifiziert: true
+    notiz: 'Thematisch geordnete Landkarte des ISO/IEC-Bestands; nützlich zur Orientierung, ohne Verfahrensstufen.
+
+      '
+  offene_punkte:
+  - Ob ISO/IEC 42105 als EN übernommen wird und prEN 18229-3 damit entbehrlich macht.
+  - Ob die von Cantero Gamito berichtete Aussetzung der Zusammenarbeit zwischen ISO/IEC-Gremien und JTC
+    21 nach dem Oktober-2025-Paket tatsächlich stattgefunden hat — von keiner Primärquelle bestätigt.
+  monitoring_quellen:
+  - https://www.iso.org/committee/6794475.html
+  - https://aistandardshub.org/search_committee_reference/iso-iec-jtc-1-sc-42/
+  bezug_regelwerke:
+  - iso-iec-42001
+  - iso-iec-5259
+  - iso-jtc21-uebernommene-en-iso-iec
+  - iso-pren-18229-3
+  letzte_pruefung: 2026-09-01
+- id: iso-nist-rahmenwerke
+  jurisdiktion: iso
+  kurztitel: NIST-Rahmenwerke als Normungsinstrument
+  offizieller_titel: 'NIST AI 100-1 (AI RMF 1.0), NIST AI 600-1 (Generative AI Profile) und SP 800-53
+    Control Overlays for Securing AI Systems (COSAiS) — normungsbezogene Einordnung
+
+    '
+  fundstelle: National Institute of Standards and Technology, U.S. Department of Commerce
+  verfahrensnummer: 'gesetzliche Grundlage: National AI Initiative Act of 2020'
+  status: softlaw
+  status_detail: 'Ausdrücklich freiwillig und ohne Rechtsgrundlage im Regulierungsrecht. Das AI RMF 1.0
+    wird nach dem AI Action Plan vom 23.07.2025 überarbeitet, mit dem Auftrag, Bezüge auf Fehlinformation,
+    Diversity/Equity/Inclusion und Klimawandel zu streichen; eine Neufassung lag bei Rechercheschluss
+    nicht vor. Die COSAiS-Overlays sind über den Stand eines Diskussionsentwurfs (08.01.2026) nicht hinaus.
+    Ausführliche Erfassung der US-Perspektive in 10_us_bund.yaml (us-nist-ai-rmf, us-nist-ai-600-1, us-caisi);
+    dieser Eintrag betrifft die Normungsdimension.
+
+    '
+  kurzbeschreibung: 'NIST ist keine Normungsorganisation im Sinne der VO (EU) Nr. 1025/2012, sondern eine
+    Bundesbehörde, die freiwillige Rahmenwerke veröffentlicht. Das AI RMF 1.0 (26.01.2023) ordnet KI-Risikomanagement
+    in vier Funktionen (Govern, Map, Measure, Manage) und sieben Merkmale vertrauenswürdiger KI. Das Generative
+    AI Profile (NIST AI 600-1, 26.07.2024) ergänzt es um generative Systeme. Am 07.04.2026 kündigte NIST
+    ein Profil für kritische Infrastrukturen an. Seit Juli 2025 läuft das Projekt COSAiS, das Sicherheitsmaßnahmen
+    aus SP 800-53 als KI-spezifische Overlays zuschneidet — der erste Anwendungsfall (Nutzung und Feinabstimmung
+    prädiktiver KI) liegt seit 08.01.2026 als annotierter Entwurf vor.
+
+    '
+  inkrafttreten:
+    datum: 2023-01-26
+    verifiziert: true
+    quelle: https://www.nist.gov/itl/ai-risk-management-framework
+  anwendungsdaten:
+  - datum: 2024-07-26
+    was_gilt: Veröffentlichung des Generative AI Profile (NIST AI 600-1).
+    verifiziert: true
+    quelle: https://www.nist.gov/itl/ai-risk-management-framework
+  - datum: 2025-07-10
+    was_gilt: Start des Projekts COSAiS (SP 800-53 Control Overlays for Securing AI Systems).
+    verifiziert: true
+    quelle: https://csrc.nist.gov/Projects/cosais/faqs
+  - datum: 2026-01-08
+    was_gilt: 'Annotierter Diskussionsentwurf des ersten COSAiS-Anwendungsfalls („Using and Fine-Tuning
+      Predictive AI“); Kommentarfrist bis 13.02.2026.
+
+      '
+    verifiziert: true
+    quelle: https://csrc.nist.gov/Projects/cosais/faqs
+  - datum: 2026-04-07
+    was_gilt: Konzeptnotiz für ein AI RMF Profile zu vertrauenswürdiger KI in kritischen Infrastrukturen.
+    verifiziert: true
+    quelle: https://www.nist.gov/itl/ai-risk-management-framework
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - gpai
+  bedient_artikel: keinen. Ohne Bezug zu einer Rechtsnorm; Anschluss an die KI-VO nur über private Crosswalks.
+  bearbeitungsstand: AI RMF 1.0 in Überarbeitung; COSAiS im Entwurfsstadium
+  rechtswirkung: 'Politische Absichtserklärung mit erheblicher faktischer Wirkung, aber ohne jede Bindung.
+    Rechtswirkung entsteht nur über Verweisung: Bundesbeschaffung (OMB-Rundschreiben), einzelstaatliche
+    Gesetze — der Colorado AI Act nimmt das Rahmenwerk als Safe-Harbor-Maßstab in Bezug — sowie Verträge,
+    Versicherungspolicen und Prüfungsstandards. Genau diese Verweisungstechnik macht die angeordnete Überarbeitung
+    gefährlich: Ein dynamischer Verweis auf „NIST AI RMF“ ändert seinen Inhalt mit der Neufassung. Vertragliche
+    Bezugnahmen sind zu versionieren („AI RMF 1.0, Fassung vom 26.01.2023“).
+
+    '
+  regelungsschwerpunkte:
+  - Vier Funktionen Govern, Map, Measure, Manage; sieben Merkmale vertrauenswürdiger KI.
+  - Profile als Anpassungsmechanismus (Generative AI, kritische Infrastrukturen) — der Grund, warum das
+    Rahmenwerk anschlussfähig bleibt, ohne selbst geändert zu werden.
+  - COSAiS verbindet erstmals die etablierte Sicherheitsmaßnahmenwelt von SP 800-53 mit KI-spezifischen
+    Bedrohungen; funktional das US-Gegenstück zu prEN 18282.
+  - 'Verhältnis zu ISO/IEC 42001: Das AI RMF beschreibt Funktionen, ISO/IEC 42001 fordert ein Managementsystem.
+    Sie sind komplementär, nicht austauschbar; verbreitete Crosswalks sind privat erstellt und ohne amtliche
+    Anerkennung.'
+  - CAISI (Center for AI Standards and Innovation, seit Juni 2025 aus dem US AI Safety Institute hervorgegangen)
+    ist die Stelle, über die die USA in der internationalen Normung und im Evaluierungsnetzwerk auftreten
+    — ohne Anordnungsbefugnis.
+  dokumente:
+  - datum: 2026-08-13
+    typ: norm
+    titel: AI Risk Management Framework — Übersichtsseite NIST
+    url: https://www.nist.gov/itl/ai-risk-management-framework
+    sprache: en
+    urheber: NIST
+    verifiziert: true
+    notiz: 'Amtliche Seite, letzter Stand 13.08.2026. Bestätigt die laufende Überarbeitung „as part of
+      the White House AI Action Plan“ und die Konzeptnotiz zum Profil für kritische Infrastrukturen vom
+      07.04.2026. Eine überarbeitete Fassung ist nicht veröffentlicht.
+
+      '
+  - datum: 2026-01-08
+    typ: entwurf
+    titel: SP 800-53 Control Overlays for Securing AI Systems (COSAiS) — FAQ und Projektstand
+    url: https://csrc.nist.gov/Projects/cosais/faqs
+    sprache: en
+    urheber: NIST, Computer Security Resource Center
+    verifiziert: true
+    notiz: 'Belegt Projektstart 10.07.2025, Konzeptpapier August 2025 und den annotierten Entwurf vom
+      08.01.2026 zum ersten Anwendungsfall. Keine endgültige Fassung.
+
+      '
+  offene_punkte:
+  - Zeitpunkt und Umfang der Überarbeitung des AI RMF offen; ob als Fassung 2.0 oder als Ergänzung — für
+    vertragliche Verweise entscheidend.
+  - Ob die USA nach der Umbenennung des Evaluierungsnetzwerks (Dezember 2025) international noch auf Sicherheit
+    oder nur noch auf Messbarkeit setzen.
+  monitoring_quellen:
+  - https://www.nist.gov/itl/ai-risk-management-framework
+  - https://csrc.nist.gov/projects/cosais
+  - https://airc.nist.gov/
+  bezug_regelwerke:
+  - us-nist-ai-rmf
+  - us-nist-ai-600-1
+  - us-caisi
+  - us-ai-action-plan
+  - iso-iec-42001
+  - iso-pren-18282
+  - intl-netzwerk-ki-evaluierung
+  letzte_pruefung: 2026-09-01
+- id: iso-ieee-7000-serie
+  jurisdiktion: iso
+  kurztitel: IEEE 7000er-Reihe — Ethik in der Systemgestaltung
+  offizieller_titel: 'IEEE Standards for Autonomous and Intelligent Systems — Reihe IEEE 7000 ff.
+
+    '
+  normnummer: IEEE Std 7000-2021 ff.
+  fundstelle: IEEE Standards Association
+  verfahrensnummer: IEEE SA, Initiative Autonomous and Intelligent Systems
+  status: softlaw
+  status_detail: 'Zehn Normen der Reihe sind veröffentlicht, weitere in Bearbeitung. Keine ist in der
+    EU harmonisiert; die IEEE ist keine europäische Normungsorganisation. Die Reihe entstand aus der Initiative
+    „Ethically Aligned Design“ und ist damit die älteste systematische Normungsanstrengung zur KI-Ethik
+    — sieben Jahre vor der KI-VO begonnen.
+
+    '
+  kurzbeschreibung: 'Veröffentlicht sind unter anderem IEEE Std 7000-2021 (Modellprozess zur Behandlung
+    ethischer Belange bei der Systemgestaltung), 7001-2021 (Transparenz autonomer Systeme), 7002-2022
+    (Datenschutzprozess), 7003-2024 (algorithmische Verzerrungen), 7005-2021 (transparente Arbeitgeber-Datenverwaltung),
+    7007-2021 (ontologischer Standard für ethisch geleitete Robotik), 7009-2024 (ausfallsichere Gestaltung),
+    7010-2020 (Bewertung der Auswirkungen auf das menschliche Wohlergehen), 7012-2025 (maschinenlesbare
+    Datenschutzbedingungen) und 7014-2024 (emulierte Empathie). Ergänzend IEEE 2089-2021 (altersgerechte
+    digitale Dienste), 2089.1-2024 (Online-Altersverifikation) und der Entwurf IEEE 3119 zur Beschaffung
+    von KI- und automatisierten Entscheidungssystemen.
+
+    '
+  inkrafttreten:
+    datum: 2021-09-15
+    verifiziert: false
+    quelle: https://standards.ieee.org/initiatives/autonomous-intelligence-systems/standards/
+  anwendungsdaten:
+  - datum: 2024-01-01
+    was_gilt: Veröffentlichung von IEEE Std 7003-2024 (algorithmische Verzerrungen).
+    verifiziert: true
+    quelle: https://standards.ieee.org/initiatives/autonomous-intelligence-systems/standards/
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  - arbeit
+  - vertrag
+  bedient_artikel: keinen. Ohne Bezug zur KI-VO; inhaltliche Überschneidungen mit Art. 10, 13, 14 und
+    27.
+  bearbeitungsstand: teils veröffentlicht, teils in Bearbeitung
+  rechtswirkung: 'Keine. Private Normen einer US-Berufsorganisation ohne Anerkennungsakt in der Union.
+    Praktische Bedeutung dreifach: als Gestaltungshilfe (7000 ist ein Prozessmodell, kein Prüfmaßstab),
+    als Argumentationsgrundlage im Haftungsfall (Stand der Technik) und als Bezugspunkt öffentlicher Beschaffung
+    — IEEE 3119 zielt genau darauf.
+
+    '
+  regelungsschwerpunkte:
+  - IEEE Std 7001-2021 ist der weltweit einzige eigenständige Transparenzstandard für autonome Systeme
+    und definiert Transparenzstufen je Adressatengruppe (Nutzer, Aufsicht, Unfalluntersucher, Öffentlichkeit)
+    — konzeptionell weiter als Art. 13 KI-VO.
+  - IEEE Std 7003-2024 (Bias) ist erschienen, während prEN 18283 noch in der frühesten Bearbeitungsstufe
+    steckt.
+  - 'IEEE 3119 (Beschaffung) füllt eine Lücke, die die KI-VO offen lässt: Sie regelt Anbieter- und Betreiberpflichten,
+    nicht die Vergabe.'
+  - 'Widersprüchliche Bestandsangaben: OCEANIS (ethicsstandards.org) führt 7001, 7002 und 7003 als in
+    Entwicklung; die IEEE selbst weist sie als veröffentlicht aus. Der IEEE wird gefolgt.'
+  dokumente:
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: IEEE SA — Autonomous and Intelligent Systems (AIS) Standards
+    url: https://standards.ieee.org/initiatives/autonomous-intelligence-systems/standards/
+    sprache: en
+    urheber: IEEE Standards Association
+    verifiziert: true
+    notiz: 'Amtliche Bestandsliste mit Normnummern und Jahren. Maßgeblich gegenüber der veralteten OCEANIS-Übersicht.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: IEEE P7000 Projects — OCEANIS
+    url: https://ethicsstandards.org/p7000/
+    sprache: en
+    urheber: OCEANIS
+    verifiziert: true
+    notiz: 'Projektübersicht des Normungsobservatoriums; Bearbeitungsstände veraltet, führt bereits veröffentlichte
+      Normen als in Entwicklung.
+
+      '
+  offene_punkte:
+  - Ob IEEE 3119 (Beschaffung) veröffentlicht ist; als Entwurf gefuehrt.
+  - Einzelne Veröffentlichungsdaten nicht taggenau verifiziert (nur Jahresangaben).
+  monitoring_quellen:
+  - https://standards.ieee.org/initiatives/autonomous-intelligence-systems/standards/
+  - https://ethicsstandards.org/p7000/
+  bezug_regelwerke:
+  - iso-ieee-certifaied
+  - iso-pren-18283
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: iso-ieee-certifaied
+  jurisdiktion: iso
+  kurztitel: IEEE CertifAIEd — Zertifizierungsprogramm
+  offizieller_titel: 'IEEE CertifAIEd — Certification Program for Assessing Ethics of Autonomous Intelligent
+    Systems
+
+    '
+  fundstelle: IEEE Standards Association, ICAP (Industry Connections Activities Program)
+  verfahrensnummer: IEEE SA ICAP
+  status: softlaw
+  status_detail: 'Aktives privates Zertifizierungsprogramm. 2025/2026 überarbeitet: neu gefasste Berufszertifizierung,
+    ein Fachprogramm zur KI-Sicherheit für Kinder und ein Lizenzierungs- und Produktregisterprogramm für
+    zugelassene Prüfer. Keine aufsichtsrechtliche Anerkennung in der EU.
+
+    '
+  kurzbeschreibung: 'Zertifiziert zwei Gegenstände: Personen (Berufszertifikat für die Anwendung des IEEE-KI-Ethikrahmens)
+    und Produkte (Bewertung autonomer intelligenter Systeme durch von der IEEE zugelassene Prüfer). Der
+    Bewertungsrahmen beruht auf vier ontologischen Spezifikationen: Transparenz, Rechenschaft, algorithmische
+    Verzerrung, Datenschutz. Das Programm wirbt mit Anschlussfähigkeit an die KI-VO, ohne dass eine förmliche
+    Anerkennung besteht.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-01
+    verifiziert: false
+    quelle: https://standards.ieee.org/products-programs/icap/ieee-certifaied/
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - grundrechte
+  - berufsrecht
+  bedient_artikel: keinen. Keine benannte Stelle nach Art. 31 KI-VO; keine Konformitätsbewertung nach
+    Art. 43.
+  bearbeitungsstand: aktives Programm, 2025/2026 überarbeitet
+  rechtswirkung: 'Keine. Eine CertifAIEd-Bescheinigung ist eine private Urkunde ohne aufsichtsrechtliche
+    Wirkung. Sie ersetzt weder die Konformitätsbewertung nach Art. 43 KI-VO noch die CE-Kennzeichnung.
+    Warnhinweis für die Praxis: Anbieter, die mit „AI-Act-Zertifizierung“ werben, sollten danach gefragt
+    werden, welche benannte Stelle nach welchem Verfahren tätig geworden ist — im Zweifel keine.
+
+    '
+  regelungsschwerpunkte:
+  - 'Vier ontologische Spezifikationen: Transparenz, Rechenschaft, algorithmische Verzerrung, Datenschutz.'
+  - 'Zwei Zertifizierungspfade: Personen und Produkte.'
+  - 'Verhältnis zu ISO/IEC 42001: CertifAIEd bewertet Systeme, ISO/IEC 42001 zertifiziert Managementsysteme
+    — die beiden Bescheinigungen sagen Unterschiedliches aus und sind nicht austauschbar.'
+  dokumente:
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: IEEE SA — IEEE CertifAIEd, The Global Mark of Ethical and Trustworthy AI
+    url: https://standards.ieee.org/products-programs/icap/ieee-certifaied/
+    sprache: en
+    urheber: IEEE Standards Association
+    verifiziert: true
+    notiz: 'Amtliche Programmseite. Belegt die vier Spezifikationen, beide Zertifizierungspfade und die
+      2025/2026 vorgenommenen Programmänderungen. Formuliert lediglich eine „Ausrichtung“ an der KI-VO,
+      keine Anerkennung.
+
+      '
+  offene_punkte:
+  - Zahl der tatsächlich zertifizierten Produkte und zugelassenen Prüfer nicht öffentlich.
+  - Startdatum des Programms nicht primärquellenbelegt.
+  monitoring_quellen:
+  - https://standards.ieee.org/products-programs/icap/ieee-certifaied/
+  bezug_regelwerke:
+  - iso-ieee-7000-serie
+  - iso-iec-42006
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: coe-rahmenkonvention-ki-cets-225
+  jurisdiktion: coe
+  kurztitel: Rahmenkonvention über KI (CETS 225)
+  offizieller_titel: 'Rahmenübereinkommen des Europarats über künstliche Intelligenz und Menschenrechte,
+    Demokratie und Rechtsstaatlichkeit
+
+    '
+  fundstelle: SEV Nr. 225 (CETS No. 225); angenommen 17.05.2024, aufgelegt zur Zeichnung 05.09.2024 in
+    Vilnius
+  verfahrensnummer: Ausschuss für künstliche Intelligenz (CAI), Textfertigstellung 14.03.2024
+  status: verabschiedet
+  status_detail: 'Angenommen und gezeichnet, bei Rechercheschluss nach überwiegender Quellenlage noch
+    nicht in Kraft. Art. 30 verlangt fünf Ratifikationen, darunter drei Mitgliedstaaten des Europarats.
+    Die Europäische Union hat am 15.05.2026 beim 135. Ministerkomitee in Chișinău ratifiziert; nach der
+    Berechnung von nicfab.eu wird die Konvention für die Union zum 01.09.2026 wirksam. CAIDP (Stand 02.09.2026)
+    und regulations.ai führen sie dagegen weiterhin als „Awaiting Entry“. Die amtliche Ratifikationstabelle
+    war nicht abrufbar. Der Widerspruch ist ungeklärt.
+
+    '
+  kurzbeschreibung: 'Der erste völkerrechtlich bindende Vertrag über künstliche Intelligenz. Acht Kapitel,
+    36 Artikel. Er verpflichtet die Vertragsparteien, Tätigkeiten im Lebenszyklus von KI-Systemen mit
+    Menschenrechten, Demokratie und Rechtsstaatlichkeit in Einklang zu bringen: Grundsätze (Menschenwürde,
+    Transparenz, Rechenschaft, Gleichheit, Privatheit, Zuverlässigkeit, sichere Innovation), Rechtsbehelfe
+    einschließlich des Rechts, KI-gestützte Entscheidungen anzufechten, Risiko- und Folgenabschätzung,
+    ein Aufsichtsmechanismus (Art. 26) und ein Folgeverfahren durch die Konferenz der Vertragsparteien.
+    Die entscheidende Einschränkung steht in Art. 3: Unmittelbar erfasst sind nur öffentliche Stellen
+    und private Akteure, die für sie handeln; wie die Parteien mit dem übrigen privaten Sektor umgehen,
+    bestimmen sie durch Erklärung gegenüber dem Generalsekretär selbst. Nationale Sicherheit ist ausgenommen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://rm.coe.int/1680afae3c
+    hinweis: 'Art. 30: erster Tag des Monats nach Ablauf von drei Monaten nach der fünften Zustimmung,
+      darunter mindestens drei Mitgliedstaaten des Europarats. Ob diese Schwelle erreicht ist, war in
+      dieser Sitzung nicht verifizierbar; Quellen widersprechen sich.
+
+      '
+  anwendungsdaten:
+  - datum: 2024-05-17
+    was_gilt: Annahme des Übereinkommens durch das Ministerkomitee.
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence
+  - datum: 2024-09-05
+    was_gilt: Auflegung zur Zeichnung in Vilnius; erste Unterzeichnungen, darunter EU, USA, Vereinigtes
+      Königreich.
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence
+  - datum: 2026-03-11
+    was_gilt: Zustimmung des Europäischen Parlaments zum Abschluss (Empfehlung A10-0007/2026).
+    verifiziert: true
+    quelle: https://www.europarl.europa.eu/doceo/document/A-10-2026-0007_EN.html
+  - datum: 2026-05-15
+    was_gilt: Hinterlegung der Ratifikationsurkunde der Europäischen Union in Chișinău.
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/artificial-intelligence/-/european-union-ratifies-the-council-of-europe-framework-convention-on-artificial-intelligence
+  - datum: 2026-09-01
+    was_gilt: 'Nach der Berechnung von nicfab.eu Wirksamwerden für die Union (Art. 30 Abs. 4). Von keiner
+      Primärquelle bestätigt.
+
+      '
+    verifiziert: false
+    quelle: https://www.nicfab.eu/en/posts/cets225-ratifica-ue/
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  rechtswirkung: 'Bindendes Völkerrecht — aber nur für die Vertragsparteien, nur im Umfang ihrer Erklärungen
+    nach Art. 3 und ohne unmittelbare Wirkung für Einzelne. Kein Individualbeschwerdeverfahren, kein Gerichtshof,
+    keine Sanktion. Das Übereinkommen bindet dort tatsächlich, wo ein Staat KI in der Verwaltung, Justiz
+    oder Polizei einsetzt: Dort entstehen Pflichten zu Folgenabschätzung, Transparenz und Rechtsbehelf,
+    die sich über die EMRK-Rechtsprechung mittelbar justiziabel machen lassen. Folgenlos bleibt es dort,
+    wo private Anbieter ohne staatlichen Auftrag handeln — dort verweist die Union schlicht auf die KI-VO
+    — und im Bereich der nationalen Sicherheit, den Art. 3 Abs. 2 ausnimmt.
+
+    '
+  regelungsschwerpunkte:
+  - 'Art. 3 Abs. 1 lit. b: Für den privaten Sektor jenseits staatlichen Handelns entscheiden die Parteien
+    selbst über die Art der Umsetzung und teilen sie dem Generalsekretär mit. Die Union hat erklärt, dass
+    die Umsetzung für private Akteure ausschließlich über die KI-VO erfolgt — keine zweite Regelungsschicht.'
+  - 'Art. 3 Abs. 2: Ausnahme für Tätigkeiten zum Schutz nationaler Sicherheitsinteressen, vorbehaltlich
+    der Beachtung des Völkerrechts und demokratischer Institutionen. Der schwerwiegendste Vorbehalt; die
+    CETaS-Analyse des Alan Turing Institute hat ihn früh benannt.'
+  - 'Art. 22: Günstigkeitsklausel — weitergehender Schutz bleibt möglich. Das ist der Anknüpfungspunkt,
+    an dem die KI-VO als Übererfüllung eingeordnet wird.'
+  - 'Art. 26: Pflicht zur Einrichtung oder Benennung wirksamer, unabhängiger Aufsichtsmechanismen. In
+    der Union werden dafür die Behörden nach Art. 70 KI-VO herangezogen.'
+  - Kein Vorbehaltsrecht im klassischen Sinn, aber die Erklärung nach Art. 3 Abs. 1 lit. b wirkt funktional
+    wie einer — sie bestimmt die materielle Reichweite.
+  - 'Verhältnis zur KI-VO: unterschiedliche Ebenen. Die KI-VO harmonisiert den Binnenmarkt und bindet
+    Private unmittelbar; CETS 225 formuliert rechtebasierte Grundsätze, die als Auslegungsmaßstab für
+    die Anwendung der KI-VO dienen.'
+  dokumente:
+  - datum: 2024-09-05
+    typ: endfassung
+    titel: CETS 225 — Rahmenübereinkommen über künstliche Intelligenz und Menschenrechte, Demokratie und
+      Rechtsstaatlichkeit (Vertragstext)
+    url: https://rm.coe.int/1680afae3c
+    sprache: en
+    urheber: Europarat
+    verifiziert: true
+    notiz: 'Primärquelle. Art. 30 (Inkrafttreten), Art. 3 (Anwendungsbereich, private Akteure, nationale
+      Sicherheit), Art. 22 (weitergehender Schutz), Art. 26 (Aufsichtsmechanismen) wurden im Wortlaut
+      geprüft.
+
+      '
+  - datum: 2024-09-05
+    typ: bericht
+    titel: Explanatory Report to CETS 225
+    url: https://rm.coe.int/1680afae67
+    sprache: en
+    urheber: Europarat
+    verifiziert: false
+    notiz: Erläuternder Bericht; in dieser Sitzung nicht abgerufen. Maßgeblich für die Auslegung des Art.
+      3.
+  - datum: 2026-05-15
+    typ: pressemitteilung
+    titel: European Union ratifies the Council of Europe Framework Convention on Artificial Intelligence
+    url: https://www.coe.int/en/web/artificial-intelligence/-/european-union-ratifies-the-council-of-europe-framework-convention-on-artificial-intelligence
+    sprache: en
+    urheber: Europarat
+    verifiziert: true
+    notiz: 'Primärquelle für Datum und Ort der EU-Ratifikation. Schweigt zu Inkrafttreten und Zahl der
+      Ratifikationen.
+
+      '
+  - datum: 2026-05-20
+    typ: stellungnahme
+    titel: 'The EU Ratification of the Framework Convention on AI: AI Act, Fundamental Rights and the
+      New Regulatory Architecture'
+    url: https://www.nicfab.eu/en/posts/cets225-ratifica-ue/
+    sprache: en
+    urheber: Nicola Fabiano
+    verifiziert: true
+    notiz: 'Nennt die Verfahrenskette (Ratsbeschluss (EU) 2022/2349 zur Aufnahme der Verhandlungen, Ratsbeschluss
+      (EU) 2024/2218 zur Zeichnung, Zustimmung des EP am 11.03.2026), die EU-Erklärung zur Umsetzung über
+      die KI-VO und die Berechnung des 01.09.2026.
+
+      '
+  - datum: 2026-09-02
+    typ: uebersicht
+    titel: International AI Treaty — Signatur- und Ratifikationsstand
+    url: https://www.caidp.org/resources/coe-ai-treaty/
+    sprache: en
+    urheber: Center for AI and Digital Policy
+    verifiziert: true
+    notiz: 'Führt zum 02.09.2026 47 Unterzeichner und die Konvention ausdrücklich als noch nicht in Kraft.
+      Widerspricht der Berechnung von nicfab.eu und der Unterzeichnerzahl des Europarats.
+
+      '
+  - datum: 2026-03-11
+    typ: ausschussbericht
+    titel: Empfehlung zum Entwurf eines Beschlusses des Rates über den Abschluss von CETS 225 (A10-0007/2026)
+    url: https://www.europarl.europa.eu/doceo/document/A-10-2026-0007_EN.html
+    sprache: en
+    urheber: Europäisches Parlament
+    verifiziert: false
+    notiz: Parlamentarische Zustimmung; in dieser Sitzung nicht im Volltext abgerufen.
+  offene_punkte:
+  - Ob und wann die Konvention allgemein in Kraft getreten ist — die entscheidende offene Frage dieses
+    Eintrags. Die amtliche Ratifikationstabelle des Vertragsbüros ist nur mit JavaScript abrufbar.
+  - Welche Erklärungen nach Art. 3 Abs. 1 lit. b abgegeben wurden — sie bestimmen die materielle Reichweite
+    je Partei und sind nirgends konsolidiert veröffentlicht.
+  - Ob die USA nach dem Regierungswechsel die Zeichnung vom 05.09.2024 weiterverfolgen; eine Ratifikation
+    ist nicht erkennbar.
+  - Ob EU-Mitgliedstaaten neben der Union gesondert ratifizieren — eucrim verneint das wegen ausschließlicher
+    Unionszuständigkeit, CAIDP führt sie gleichwohl als Unterzeichner.
+  monitoring_quellen:
+  - https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence
+  - https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=225
+  - https://www.caidp.org/resources/coe-ai-treaty/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - coe-huderia
+  - dsgvo-schnittstelle
+  letzte_pruefung: 2026-09-01
+- id: coe-huderia
+  jurisdiktion: coe
+  kurztitel: HUDERIA — Methodik und Modell
+  offizieller_titel: 'Methodik zur Risiko- und Folgenabschätzung von Systemen künstlicher Intelligenz
+    aus der Sicht der Menschenrechte, der Demokratie und der Rechtsstaatlichkeit (HUDERIA) nebst HUDERIA-Modell
+
+    '
+  fundstelle: Ministerkomitee des Europarats; Methodik angenommen 26.02.2025, Modell angenommen 25.02.2026
+  verfahrensnummer: Ausschuss für künstliche Intelligenz (CAI); methodische Entwicklung durch das Alan
+    Turing Institute
+  status: softlaw
+  status_detail: 'Beide Teile angenommen und veröffentlicht. Ausdrücklich als „standalone, non-legally
+    binding guidance“ bezeichnet: Die Vertragsparteien von CETS 225 können sie ganz oder teilweise verwenden
+    oder anpassen. Damit ist HUDERIA das methodische Begleitwerk der Konvention, nicht ihr Durchführungsrecht.
+
+    '
+  kurzbeschreibung: 'Die erste zwischenstaatlich abgestimmte Methodik für die Folgenabschätzung von KI-Systemen
+    aus grundrechtlicher Sicht. Vier Bestandteile: kontextbezogene Risikoanalyse (COBRA) mit Risikofaktoren
+    nach Anwendungs-, Entwicklungs- und Einsatzkontext und einer Triage zur Priorisierung; ein Verfahren
+    zur Einbindung Betroffener (Stakeholder Engagement Process); die eigentliche Risiko- und Folgenabschätzung
+    nach Ausmaß, Reichweite, Umkehrbarkeit und Wahrscheinlichkeit; und ein Minderungsplan einschließlich
+    Abhilfemechanismen. Ein Abschnitt zur iterativen Überprüfung erstreckt die Methodik auf den gesamten
+    Lebenszyklus. Teil II (Modell) enthält die Arbeitsmittel: Listen von Risikofaktoren, Beispielfelder
+    möglicher Betroffenheit und eine Zuordnung nach Sektoren.
+
+    '
+  inkrafttreten:
+    datum: 2025-02-26
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/artificial-intelligence/huderia-risk-and-impact-assessment-of-ai-systems
+  anwendungsdaten:
+  - datum: 2025-02-26
+    was_gilt: Annahme der HUDERIA-Methodik durch das Ministerkomitee.
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/artificial-intelligence/huderia-risk-and-impact-assessment-of-ai-systems
+  - datum: 2026-02-25
+    was_gilt: Annahme des HUDERIA-Modells (Teil II, Arbeitsmittel) durch das Ministerkomitee.
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/artificial-intelligence/huderia-risk-and-impact-assessment-of-ai-systems
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-oeffentlich
+  rechtswirkung: 'Keine. Ausdrücklich unverbindlich, auch für die Vertragsparteien von CETS 225. Praktische
+    Bedeutung dort, wo eine Grundrechte-Folgenabschätzung geschuldet ist, ohne dass das Gesetz eine Methode
+    vorgibt: Art. 27 KI-VO verpflichtet bestimmte Betreiber zur Grundrechte-Folgenabschätzung, sagt aber
+    nicht, wie sie durchzuführen ist. HUDERIA ist dafür die einzige zwischenstaatlich abgestimmte Methodik
+    und deshalb die begründungsstärkste Wahl — stärker als ISO/IEC 42005, weil grundrechtsspezifisch.
+
+    '
+  regelungsschwerpunkte:
+  - 'COBRA-Triage: Nicht jedes System durchläuft die volle Abschätzung; die Risikoanalyse entscheidet
+    über die Prüftiefe. Das ist der Mechanismus, der die Methodik praktikabel macht.'
+  - Einbindung Betroffener als eigenständiger Verfahrensschritt — in der KI-VO gibt es dazu keine Entsprechung.
+  - Iterative Überprüfung über den Lebenszyklus; kein einmaliger Akt.
+  - Entwickelt vom Alan Turing Institute im Auftrag des CAI — der seltene Fall, in dem eine zwischenstaatliche
+    Methodik aus der Forschung heraus geschrieben wurde.
+  dokumente:
+  - datum: 2026-02-25
+    typ: leitlinie
+    titel: Council of Europe HUDERIA Methodology and Model (angenommene vorläufige Fassung 2026)
+    url: https://rm.coe.int/huderia-methodology-and-model-adopted-provisional-version-2026/48802ac001
+    sprache: en
+    urheber: Ministerkomitee des Europarats
+    verifiziert: true
+    notiz: 'Primärquelle mit beiden Teilen. Belegt Annahmedaten, die vier Bestandteile, den Abschnitt
+      zur iterativen Überprüfung und die COBRA-Ressourcen A, B, C, E und F.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: HUDERIA — risk and impact assessment of AI systems
+    url: https://www.coe.int/en/web/artificial-intelligence/huderia-risk-and-impact-assessment-of-ai-systems
+    sprache: en
+    urheber: Europarat
+    verifiziert: true
+    notiz: 'Amtliche Übersichtsseite. Bestätigt die Annahmedaten und die ausdrückliche Unverbindlichkeit.
+
+      '
+  - datum: 2025-01-15
+    typ: pressemitteilung
+    titel: Council of Europe adopts Turing-developed human rights risk and impact assessment for AI systems
+    url: https://www.turing.ac.uk/news/council-europe-adopts-turing-developed-human-rights-risk-and-impact-assessment-ai-systems
+    sprache: en
+    urheber: The Alan Turing Institute
+    verifiziert: false
+    notiz: Belegt die Urheberschaft der Methodik; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Ob die Kommission HUDERIA in den Leitlinien zu Art. 27 KI-VO aufgreift.
+  - Ob eine Vertragspartei HUDERIA verbindlich vorschreibt — bislang nicht ersichtlich.
+  monitoring_quellen:
+  - https://www.coe.int/en/web/artificial-intelligence/huderia-risk-and-impact-assessment-of-ai-systems
+  - https://www.coe.int/en/web/artificial-intelligence/cai
+  bezug_regelwerke:
+  - coe-rahmenkonvention-ki-cets-225
+  - ki-vo-2024-1689
+  - iso-iec-42005
+  letzte_pruefung: 2026-09-01
+- id: oecd-ki-grundsaetze
+  jurisdiktion: oecd
+  kurztitel: OECD-Empfehlung zu künstlicher Intelligenz (AI Principles)
+  offizieller_titel: 'Recommendation of the Council on Artificial Intelligence (OECD/LEGAL/0449), angenommen
+    am 22. Mai 2019, überarbeitet am 3. Mai 2024
+
+    '
+  fundstelle: OECD/LEGAL/0449
+  verfahrensnummer: OECD-Rat; Committee on Digital Policy (CDEP)
+  status: softlaw
+  status_detail: 'In Kraft als OECD-Rechtsinstrument der Kategorie „Recommendation“ — politisch bindend,
+    rechtlich unverbindlich. Die Überarbeitung vom Mai 2024 passte den Text an generative KI und Basismodelle
+    an; 47 Adhärenten, darunter acht Nichtmitglieder (Argentinien, Brasilien, Ägypten, Malta, Peru, Rumänien,
+    Singapur, Ukraine) und die Europäische Union.
+
+    '
+  kurzbeschreibung: 'Das älteste zwischenstaatliche KI-Instrument und die Referenzgrundlage aller späteren:
+    Die KI-VO übernimmt in Art. 3 Nr. 1 die OECD-Definition des KI-Systems in der Fassung von 2023, der
+    G7-Verhaltenskodex baut ausdrücklich auf den Grundsätzen auf, die UN-Resolutionen nehmen auf sie Bezug.
+    Fünf wertebasierte Grundsätze: integratives Wachstum und Wohlergehen; Menschenrechte und demokratische
+    Werte einschließlich Fairness und Privatheit; Transparenz und Erklärbarkeit; Robustheit, Sicherheit
+    und Gefahrlosigkeit; Rechenschaft. Fünf Empfehlungen an die Politik: Investitionen in Forschung und
+    Entwicklung; ein förderliches Ökosystem; ein interoperables Governance- und Politikumfeld; Aufbau
+    menschlicher Fähigkeiten und Vorbereitung des Arbeitsmarktwandels; internationale Zusammenarbeit.
+
+    '
+  inkrafttreten:
+    datum: 2019-05-22
+    verifiziert: true
+    quelle: https://oecd.ai/en/ai-principles
+  anwendungsdaten:
+  - datum: 2019-05-22
+    was_gilt: Annahme der Empfehlung durch den OECD-Rat.
+    verifiziert: true
+    quelle: https://oecd.ai/en/ai-principles
+  - datum: 2024-05-03
+    was_gilt: 'Überarbeitung der Grundsätze; Anpassung an generative KI und Basismodelle, Ergänzung um
+      Informationsintegrität und Umgang mit Fehlinformation.
+
+      '
+    verifiziert: true
+    quelle: https://www.oecd.org/en/about/news/press-releases/2024/05/oecd-updates-ai-principles-to-stay-abreast-of-rapid-technological-developments.html
+  themenachsen:
+  - governance
+  - grundrechte
+  - arbeit
+  - wettbewerb
+  rechtswirkung: 'Politische Absichtserklärung. OECD-Empfehlungen sind nach Art. 5 lit. b des OECD-Übereinkommens
+    nicht rechtsverbindlich; die Adhärenten erklären lediglich ihre Absicht, sie umzusetzen, und berichten
+    dem Rat. Die tatsächliche Wirkung liegt woanders: in der Definitionsmacht. Die Definition des KI-Systems,
+    die heute in Art. 3 Nr. 1 KI-VO, im koreanischen Rahmengesetz und in mehreren US-Bundesstaatengesetzen
+    steht, stammt aus diesem Instrument. Wer den Anwendungsbereich der KI-VO bestimmen will, liest die
+    OECD-Erläuterungen mit.
+
+    '
+  regelungsschwerpunkte:
+  - Definition des KI-Systems (überarbeitet November 2023) — der wirkmächtigste Satz des gesamten transnationalen
+    KI-Rechts.
+  - Fünf wertebasierte Grundsätze und fünf Politikempfehlungen; die Nummerierung 1.1-1.5 und 2.1-2.5 wird
+    von anderen Instrumenten übernommen.
+  - Berichtspflicht der Adhärenten an den Rat — der einzige Durchsetzungsmechanismus, und er besteht aus
+    Berichten.
+  - 47 Adhärenten sind deutlich weniger als die 193 UNESCO-Mitgliedstaaten, aber die Adhärenten decken
+    den Großteil der KI-Entwicklung ab.
+  dokumente:
+  - datum: 2026-08-31
+    typ: endfassung
+    titel: Recommendation of the Council on Artificial Intelligence (OECD/LEGAL/0449)
+    url: https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449
+    sprache: en
+    urheber: OECD
+    verifiziert: false
+    notiz: 'Amtlicher Volltext des Rechtsinstruments. In dieser Sitzung nur als JavaScript-Gerüst abrufbar;
+      Inhalt über öcd.ai belegt.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: AI Principles Overview — OECD.AI
+    url: https://oecd.ai/en/ai-principles
+    sprache: en
+    urheber: OECD
+    verifiziert: true
+    notiz: 'Belegt Instrumentennummer, Annahme 2019, Überarbeitung Mai 2024, 47 Adhärenten und die acht
+      Nichtmitglieder sowie den Wortlaut der zehn Grundsätze und Empfehlungen.
+
+      '
+  - datum: 2024-05-03
+    typ: pressemitteilung
+    titel: OECD updates AI Principles to stay abreast of rapid technological developments
+    url: https://www.oecd.org/en/about/news/press-releases/2024/05/oecd-updates-ai-principles-to-stay-abreast-of-rapid-technological-developments.html
+    sprache: en
+    urheber: OECD
+    verifiziert: false
+    notiz: Primärquelle für das Revisionsdatum; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Was die Überarbeitung 2024 im Einzelnen geändert hat — die OECD-Seite beschreibt es nur allgemein.
+  - Ob nach dem Kurswechsel der US-Administration die Grundsätze erneut überarbeitet werden.
+  monitoring_quellen:
+  - https://oecd.ai/
+  - https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - g7-hiroshima-ki-prozess
+  - oecd-haip-berichtsrahmen
+  - oecd-ki-observatorium
+  - un-res-79-325
+  letzte_pruefung: 2026-09-01
+- id: oecd-ki-observatorium
+  jurisdiktion: oecd
+  kurztitel: OECD AI Policy Observatory und Klassifizierungsrahmen
+  offizieller_titel: 'OECD.AI Policy Observatory nebst OECD Framework for the Classification of AI Systems
+    (OECD Digital Economy Papers No. 323, Februar 2022)
+
+    '
+  fundstelle: OECD Digital Economy Papers No. 323
+  verfahrensnummer: OECD Committee on Digital Policy (CDEP), Netzwerk von Experten (ONE AI)
+  status: softlaw
+  status_detail: 'Laufend. Das Observatorium führt die Datenbank nationaler KI-Politiken (über 1.000 Initiativen
+    aus mehr als 70 Rechtsordnungen), den Katalog der Werkzeuge und Metriken für vertrauenswürdige KI,
+    das Verzeichnis der KI-Vorfälle (AIM) und seit 2025 die HAIP-Berichtsplattform. Der Klassifizierungsrahmen
+    von 2022 ist unverändert in Kraft.
+
+    '
+  kurzbeschreibung: 'Das Observatorium ist keine Rechtsquelle, sondern Infrastruktur — und als solche
+    das nützlichste Werkzeug der transnationalen Ebene für die Rechtsvergleichung: Wer wissen will, welche
+    Rechtsordnung welches Instrument erlassen hat, findet es hier zuerst. Der Klassifizierungsrahmen ordnet
+    KI-Systeme nach fünf Dimensionen: Menschen und Planet; wirtschaftlicher Kontext; Daten und Eingaben;
+    KI-Modell; Aufgabe und Ausgabe. Er ist der methodische Vorläufer der Risikoklassifizierung der KI-VO
+    und wird von mehreren Aufsichtsbehörden für die Systemkategorisierung herangezogen.
+
+    '
+  inkrafttreten:
+    datum: 2022-02-22
+    verifiziert: false
+    quelle: https://www.oecd.org/en/publications/oecd-framework-for-the-classification-of-ai-systems_cb6d9eca-en.html
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - wettbewerb
+  rechtswirkung: 'Keine. Politische und wissenschaftliche Infrastruktur. Mittelbare Bedeutung, weil Aufsichtsbehörden
+    und Gerichte auf den Klassifizierungsrahmen zurückgreifen, wenn sie ein System einordnen müssen, und
+    weil der Katalog der Werkzeuge und Metriken in der Neufassung des HAIP-Berichtsrahmens verlinkt ist.
+
+    '
+  regelungsschwerpunkte:
+  - 'Fünf Dimensionen der Klassifizierung: Menschen und Planet, wirtschaftlicher Kontext, Daten und Eingaben,
+    KI-Modell, Aufgabe und Ausgabe.'
+  - Datenbank nationaler KI-Politiken — die einzige systematische Sammlung dieser Art.
+  - AI Incidents Monitor (AIM) — Vorfallsverzeichnis; für die Haftungsforschung eine bislang unterschätzte
+    Quelle.
+  dokumente:
+  - datum: 2022-02-22
+    typ: bericht
+    titel: OECD Framework for the Classification of AI systems (OECD Digital Economy Papers No. 323)
+    url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57/cb6d9eca-en.pdf
+    sprache: en
+    urheber: OECD
+    verifiziert: false
+    notiz: Volltext des Klassifizierungsrahmens; in dieser Sitzung nicht abgerufen.
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: OECD.AI Policy Observatory
+    url: https://oecd.ai/
+    sprache: en
+    urheber: OECD
+    verifiziert: true
+    notiz: Einstiegsseite; führt Politikdatenbank, Werkzeugkatalog, Vorfallsverzeichnis und HAIP-Plattform.
+  offene_punkte:
+  - Ob der Klassifizierungsrahmen an generative KI angepasst wird — die Fassung von 2022 kennt Basismodelle
+    noch nicht.
+  monitoring_quellen:
+  - https://oecd.ai/
+  - https://oecd.ai/en/incidents
+  bezug_regelwerke:
+  - oecd-ki-grundsaetze
+  - oecd-haip-berichtsrahmen
+  letzte_pruefung: 2026-09-01
+- id: oecd-haip-berichtsrahmen
+  jurisdiktion: oecd
+  kurztitel: HAIP-Berichtsrahmen (Hiroshima AI Process Reporting Framework)
+  offizieller_titel: 'Hiroshima Artificial Intelligence Process (HAIP) Reporting Framework — Berichtsrahmen
+    zum G7-Verhaltenskodex, betrieben von der OECD
+
+    '
+  fundstelle: OECD, transparency.öcd.ai; Fassung 2.0 vom 28.05.2026
+  verfahrensnummer: G7-Auftrag; Umsetzung durch die OECD
+  status: softlaw
+  status_detail: 'Aktiv, aber schwach genutzt. Erste Runde Februar bis April 2025: 19 Organisationen aus
+    Japan, den USA, Deutschland, Kanada, Korea, Rumänien und Israel. Fassung 2.0 am 28.05.2026 bei einem
+    Tech7-Termin während des G7-Ministertreffens für Digitales und Technologie in Paris vorgestellt; über
+    50 Organisationen sagten Berichte zu, darunter Amazon, Google, Microsoft, OpenAI, Mistral AI und Cohere.
+    Einreichungen laufend, Stichtag für die nächste Auswertung 01.09.2026.
+
+    '
+  kurzbeschreibung: 'Der einzige Mechanismus, mit dem die freiwilligen G7-Verpflichtungen aus dem Verhaltenskodex
+    überhaupt überprüfbar werden. Organisationen beantworten einen strukturierten Fragebogen zu Risikoerkennung,
+    Risikominderung, Governance, Sicherheitsvorkehrungen, Inhaltsauthentifizierung, Forschung und Datenschutz;
+    die Antworten werden auf einer öffentlichen Plattform veröffentlicht. Fassung 2.0 unterscheidet erstmals
+    zwischen Modellentwicklern, Anwendungsentwicklern und Betreibern, senkt die Hürde für kleine und mittlere
+    Unternehmen und behandelt agentische KI.
+
+    '
+  inkrafttreten:
+    datum: 2025-02-07
+    verifiziert: false
+    quelle: https://transparency.oecd.ai/
+  anwendungsdaten:
+  - datum: 2025-04-30
+    was_gilt: 'Ende der ersten Berichtsrunde; 19 Organisationen hatten eingereicht.
+
+      '
+    verifiziert: true
+    quelle: https://oecd.ai/en/wonk/haip-reporting-insights
+  - datum: 2026-05-28
+    was_gilt: Vorstellung der Fassung 2.0 beim G7-Ministertreffen in Paris.
+    verifiziert: true
+    quelle: https://oecd.ai/en/haip-2-launch
+  - datum: 2026-09-01
+    was_gilt: 'Stichtag für die Aufnahme in die nächste analytische Auswertung; Einreichung ansonsten
+      laufend möglich.
+
+      '
+    verifiziert: true
+    quelle: https://oecd.ai/en/haip-2-launch
+  themenachsen:
+  - governance
+  - gpai
+  - content
+  - sicherheit-export
+  rechtswirkung: 'Politische Absichtserklärung ohne jede Verbindlichkeit — keine Einreichungspflicht,
+    keine Prüfung der Angaben, keine Folge bei Falschangaben. Der praktische Wert liegt in der Vergleichbarkeit:
+    Weil alle Berichte demselben Raster folgen und öffentlich sind, entstehen erstmals belastbare Aussagen
+    darüber, was große Anbieter über ihre eigenen Sicherheitsvorkehrungen behaupten. Für die europäische
+    Praxis relevant, weil dieselben Anbieter unter Art. 55 KI-VO und dem GPAI-Verhaltenskodex Vergleichbares
+    erklären — und Abweichungen zwischen beiden Erklärungen angreifbar sind.
+
+    '
+  regelungsschwerpunkte:
+  - 'Erste Runde: 19 Organisationen. Das ist die zentrale Zahl zur „tatsächlichen Nutzung“ — der Rahmen
+    war in der ersten Runde faktisch bedeutungslos.'
+  - Fassung 2.0 trennt Modellentwickler, Anwendungsentwickler und Betreiber; verlinkt den OECD-Katalog
+    der Werkzeuge und Metriken; behandelt agentische KI.
+  - Über 50 zugesagte Berichte für die zweite Runde, darunter alle großen US-Anbieter und Mistral AI —
+    ein qualitativer Sprung, dessen Einlösung am 01.09.2026 zu prüfen ist.
+  - 'Verhältnis zum GPAI-Verhaltenskodex der EU: Beide verlangen Erklärungen zu Risikomanagement und Sicherheit;
+    der EU-Kodex ist an Art. 53, 55 KI-VO angebunden und damit sanktionsbewehrt, der HAIP-Rahmen nicht.'
+  dokumente:
+  - datum: 2026-05-28
+    typ: pressemitteilung
+    titel: OECD launches Hiroshima AI Process Reporting Framework 2.0
+    url: https://oecd.ai/en/haip-2-launch
+    sprache: en
+    urheber: OECD
+    verifiziert: true
+    notiz: 'Belegt Datum und Ort der Vorstellung, die Änderungen der Fassung 2.0, die über 50 zugesagten
+      Berichte samt Unternehmensnamen und den Stichtag 01.09.2026.
+
+      '
+  - datum: 2025-06-01
+    typ: bericht
+    titel: 'Shaping trustworthy AI: Early insights from the Hiroshima AI Process Reporting Framework'
+    url: https://oecd.ai/en/wonk/haip-reporting-insights
+    sprache: en
+    urheber: OECD
+    verifiziert: true
+    notiz: 'Die Auswertung der ersten Runde: 19 Organisationen aus sieben Ländern, überwiegend Entwickler
+      oder Betreiber fortgeschrittener Systeme. Die belastbarste Quelle zur tatsächlichen Nutzung.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: HAIP Reporting Framework — Berichtsplattform
+    url: https://transparency.oecd.ai/
+    sprache: en
+    urheber: OECD
+    verifiziert: true
+    notiz: 'Die Plattform mit den eingereichten Berichten. Nennt als Startdatum den 07.02.2024, was der
+      Auswertung der ersten Runde widerspricht; als unverifiziert geführt.
+
+      '
+  offene_punkte:
+  - Ob die über 50 zugesagten Berichte zum 01.09.2026 tatsächlich vorliegen — bei Rechercheschluss nicht
+    überprüfbar.
+  - Widersprüchliches Startdatum (07.02.2024 gegen Februar 2025).
+  monitoring_quellen:
+  - https://transparency.oecd.ai/
+  - https://oecd.ai/en/hiroshima
+  bezug_regelwerke:
+  - g7-hiroshima-ki-prozess
+  - oecd-ki-grundsaetze
+  - gpai-code-of-practice
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: un-ga-ki-resolutionen-2024
+  jurisdiktion: un
+  kurztitel: Resolutionen der UN-Generalversammlung zu KI (2024)
+  offizieller_titel: 'A/RES/78/265 „Seizing the opportunities of safe, secure and trustworthy artificial
+    intelligence systems for sustainable development“ (21.03.2024) und A/RES/78/311 „Enhancing international
+    cooperation on capacity-building of artificial intelligence“ (01.07.2024)
+
+    '
+  fundstelle: A/RES/78/265; A/RES/78/311
+  verfahrensnummer: 78. Tagung der Generalversammlung
+  status: softlaw
+  status_detail: 'Beide ohne Abstimmung im Konsens angenommen. A/RES/78/265 ging auf eine Initiative der
+    Vereinigten Staaten zurück und wurde von mehr als 120 Staaten mitgetragen; A/RES/78/311 auf eine Initiative
+    Chinas. Die beiden Resolutionen markieren die geopolitische Arbeitsteilung: Der Westen setzte das
+    Thema Sicherheit und Vertrauenswürdigkeit, China das Thema Kapazitätsaufbau und Zugang des globalen
+    Südens.
+
+    '
+  kurzbeschreibung: 'Die ersten eigenständigen KI-Resolutionen der Generalversammlung. A/RES/78/265 ruft
+    die Mitgliedstaaten auf, sichere und vertrauenswürdige KI-Systeme zu fördern, Menschenrechte über
+    den gesamten Lebenszyklus zu achten, Regulierungs- und Governance-Ansätze zu entwickeln und die Kluft
+    zwischen entwickelten und Entwicklungsländern zu schließen. A/RES/78/311 verpflichtet auf internationale
+    Zusammenarbeit beim Aufbau von KI-Fähigkeiten, Technologietransfer und Finanzierung. Beide sind Absichtserklärungen
+    ohne Umsetzungsmechanismus; ihre Bedeutung liegt darin, dass KI-Governance damit auf der Tagesordnung
+    der Generalversammlung angekommen ist — die Vorstufe zu A/RES/79/325.
+
+    '
+  inkrafttreten:
+    datum: 2024-03-21
+    verifiziert: true
+    quelle: https://digitallibrary.un.org/record/4043244/files/A_RES_78_265-EN.pdf?version=1
+  anwendungsdaten:
+  - datum: 2024-03-21
+    was_gilt: Annahme von A/RES/78/265 im Konsens.
+    verifiziert: true
+    quelle: https://digitallibrary.un.org/record/4043244/files/A_RES_78_265-EN.pdf?version=1
+  - datum: 2024-07-01
+    was_gilt: Annahme von A/RES/78/311 im Konsens.
+    verifiziert: true
+    quelle: https://digitallibrary.un.org/record/4054005/files/A_RES_78_311-EN.pdf
+  themenachsen:
+  - governance
+  - grundrechte
+  - sicherheit-export
+  rechtswirkung: 'Politische Absichtserklärung. Resolutionen der Generalversammlung sind nach Art. 10,
+    11 UN-Charta Empfehlungen und begründen keine Rechtspflichten. Sie können allenfalls als Beleg für
+    eine entstehende Rechtsüberzeugung im Sinne des Völkergewohnheitsrechts herangezogen werden — bei
+    zwei Resolutionen im Konsens, die ausschließlich Empfehlungssprache verwenden, ist das fernliegend.
+
+    '
+  regelungsschwerpunkte:
+  - Konsensannahme ohne Abstimmung bei beiden — bemerkenswert angesichts der geopolitischen Lage, aber
+    erkauft durch die Unverbindlichkeit.
+  - 'Arbeitsteilung: Sicherheit und Vertrauenswürdigkeit (US-Initiative) gegen Kapazitätsaufbau und Zugang
+    (chinesische Initiative).'
+  - Keine Institution, kein Berichtsverfahren, kein Zeitplan — der Unterschied zu A/RES/79/325 ist genau
+    dieser.
+  dokumente:
+  - datum: 2024-03-21
+    typ: endfassung
+    titel: A/RES/78/265 — Seizing the opportunities of safe, secure and trustworthy artificial intelligence
+      systems for sustainable development
+    url: https://digitallibrary.un.org/record/4043244/files/A_RES_78_265-EN.pdf?version=1
+    sprache: en
+    urheber: Generalversammlung der Vereinten Nationen
+    verifiziert: false
+    notiz: Volltext der Resolution; in dieser Sitzung nicht einzeln abgerufen.
+  - datum: 2024-07-01
+    typ: endfassung
+    titel: A/RES/78/311 — Enhancing international cooperation on capacity-building of artificial intelligence
+    url: https://digitallibrary.un.org/record/4054005/files/A_RES_78_311-EN.pdf
+    sprache: en
+    urheber: Generalversammlung der Vereinten Nationen
+    verifiziert: false
+    notiz: Volltext der Resolution; in dieser Sitzung nicht einzeln abgerufen.
+  offene_punkte:
+  - Genaue Zahl der Mitträger von A/RES/78/265 nicht primärquellenbelegt.
+  monitoring_quellen:
+  - https://digitallibrary.un.org/
+  - https://www.un.org/digital-emerging-technologies/
+  bezug_regelwerke:
+  - un-res-79-325
+  - un-global-digital-compact
+  letzte_pruefung: 2026-09-01
+- id: un-global-digital-compact
+  jurisdiktion: un
+  kurztitel: Global Digital Compact
+  offizieller_titel: 'Global Digital Compact — Anlage I zum Zukunftspakt (Pact for the Future), angenommen
+    am 22. September 2024
+
+    '
+  fundstelle: A/RES/79/1, Anlage I
+  verfahrensnummer: Zukunftsgipfel der Vereinten Nationen, 22.-23.09.2024; Ko-Moderation Schweden und
+    Sambia
+  status: softlaw
+  status_detail: 'Angenommen als Teil des Zukunftspakts. Der Abschnitt zu künstlicher Intelligenz enthält
+    die Verpflichtungen, aus denen die Resolution A/RES/79/325 vom 26.08.2025 den Wissenschaftlichen Ausschuss
+    und den Globalen Dialog entwickelt hat. Die Umsetzung liegt beim Büro für digitale und neu entstehende
+    Technologien (ODET).
+
+    '
+  kurzbeschreibung: 'Der Compact ist der erste umfassende zwischenstaatliche Verpflichtungskatalog zur
+    digitalen Governance. Fünf Ziele: Schließen der digitalen Kluft; Ausweitung der Vorteile der digitalen
+    Wirtschaft; Förderung eines inklusiven, offenen, sicheren digitalen Raums unter Achtung der Menschenrechte;
+    Datengovernance; und — als fünftes — Stärkung der internationalen Governance künstlicher Intelligenz
+    zum Nutzen der Menschheit. Der KI-Abschnitt sieht ausdrücklich die Einrichtung eines unabhängigen
+    internationalen wissenschaftlichen Gremiums und eines globalen Dialogs über KI-Governance vor, ferner
+    einen globalen Fonds für KI-Kapazitätsaufbau.
+
+    '
+  inkrafttreten:
+    datum: 2024-09-22
+    verifiziert: false
+    quelle: https://www.un.org/pact-for-the-future/en/annex-i-global-digital-compact
+  anwendungsdaten:
+  - datum: 2024-09-22
+    was_gilt: Annahme des Zukunftspakts einschließlich Anlage I (Global Digital Compact).
+    verifiziert: false
+    quelle: https://www.un.org/pact-for-the-future/en/annex-i-global-digital-compact
+  - datum: 2025-08-26
+    was_gilt: 'Umsetzung der KI-Verpflichtungen durch A/RES/79/325 (Wissenschaftlicher Ausschuss und Globaler
+      Dialog).
+
+      '
+    verifiziert: true
+    quelle: https://www.un.org/pga/wp-content/uploads/sites/110/2025/12/A_RES_79_325-EN.pdf
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  rechtswirkung: 'Politische Absichtserklärung. Der Compact ist Teil einer Resolution der Generalversammlung
+    und damit rechtlich unverbindlich. Seine tatsächliche Wirkung besteht in genau einem Punkt: Er hat
+    die institutionellen Verpflichtungen erzeugt, die ein Jahr später in A/RES/79/325 tatsächlich umgesetzt
+    wurden. Das ist mehr, als die meisten UN-Absichtserklärungen erreichen.
+
+    '
+  regelungsschwerpunkte:
+  - Ziel 5 (KI-Governance) ist die Rechtsgrundlage des Wissenschaftlichen Ausschusses und des Globalen
+    Dialogs.
+  - Globaler Fonds für KI-Kapazitätsaufbau — bislang ohne belastbare Finanzierungszusagen.
+  - Ko-Moderation der KI-Verhandlungen durch Costa Rica und Spanien.
+  dokumente:
+  - datum: 2024-09-22
+    typ: endfassung
+    titel: 'Annex I: Global Digital Compact (Pact for the Future)'
+    url: https://www.un.org/pact-for-the-future/en/annex-i-global-digital-compact
+    sprache: en
+    urheber: Generalversammlung der Vereinten Nationen
+    verifiziert: false
+    notiz: Volltext der Anlage; in dieser Sitzung nicht abgerufen.
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Global Digital Compact — Artificial Intelligence
+    url: https://www.un.org/global-digital-compact/en/ai
+    sprache: en
+    urheber: Vereinte Nationen
+    verifiziert: true
+    notiz: 'Amtliche Seite; bestätigt, dass A/RES/79/325 vom 26.08.2025 den Wissenschaftlichen Ausschuss
+      und den Globalen Dialog als Umsetzung des Compact eingerichtet hat, und nennt Costa Rica und Spanien
+      als Ko-Moderatoren.
+
+      '
+  offene_punkte:
+  - Ob der globale Fonds für KI-Kapazitätsaufbau je gefüllt wird.
+  - Annahmedatum und Resolutionsnummer nicht am Primärdokument geprüft.
+  monitoring_quellen:
+  - https://www.un.org/global-digital-compact/en
+  - https://www.un.org/digital-emerging-technologies/
+  bezug_regelwerke:
+  - un-res-79-325
+  - un-ga-ki-resolutionen-2024
+  letzte_pruefung: 2026-09-01
+- id: un-res-79-325
+  jurisdiktion: un
+  kurztitel: Wissenschaftlicher Ausschuss und Globaler Dialog (A/RES/79/325)
+  offizieller_titel: 'Resolution A/RES/79/325 der Generalversammlung vom 26. August 2025 — Terms of Reference
+    and Modalities for the Establishment and Functioning of the Independent International Scientific Panel
+    on Artificial Intelligence and the Global Dialogue on Artificial Intelligence Governance
+
+    '
+  fundstelle: A/RES/79/325 vom 26.08.2025 (Verteilung 27.08.2025)
+  verfahrensnummer: 79. Tagung der Generalversammlung; ohne Befassung eines Hauptausschusses
+  status: anwendbar
+  status_detail: 'Umgesetzt. Die Generalversammlung hat am 12.02.2026 die 40 Mitglieder des Unabhängigen
+    Internationalen Wissenschaftlichen Ausschusses ernannt (19 Frauen, 21 Männer, alle fünf Regionalgruppen);
+    Ko-Vorsitzende sind Yoshua Bengio (Kanada) und Maria Ressa (Philippinen). Der Globale Dialog tagte
+    erstmals inhaltlich am 06./07.07.2026 in Genf; die nächste Sitzung ist für den 03./04.05.2027 in New
+    York vorgesehen.
+
+    '
+  kurzbeschreibung: 'Die institutionelle Antwort der Vereinten Nationen auf die KI-Governance-Lücke. Der
+    Wissenschaftliche Ausschuss besteht aus 40 Mitgliedern, die in persönlicher Eigenschaft für drei Jahre
+    berufen werden — höchstens zwei Ausgewählte derselben Staatsangehörigkeit oder Zugehörigkeit. Er erstellt
+    evidenzbasierte wissenschaftliche Bewertungen und legt jährlich einen politikrelevanten, aber nicht
+    präskriptiven Zusammenfassungsbericht vor, ergänzt um thematische Kurzberichte. Der Globale Dialog
+    ist eine jährliche, höchstens zweitägige Mehrparteienveranstaltung mit hochrangigem Regierungssegment,
+    die zwischen Genf und New York wechselt; die Ko-Vorsitzenden verfassen Zusammenfassungen. Finanzierung
+    im Rahmen vorhandener Mittel und über freiwillige Beiträge — der schwächste Punkt der Konstruktion.
+
+    '
+  inkrafttreten:
+    datum: 2025-08-26
+    verifiziert: true
+    quelle: https://www.un.org/pga/wp-content/uploads/sites/110/2025/12/A_RES_79_325-EN.pdf
+  anwendungsdaten:
+  - datum: 2025-08-26
+    was_gilt: Annahme der Resolution ohne Abstimmung.
+    verifiziert: true
+    quelle: https://www.un.org/pga/wp-content/uploads/sites/110/2025/12/A_RES_79_325-EN.pdf
+  - datum: 2026-02-12
+    was_gilt: 'Ernennung der 40 Mitglieder des Wissenschaftlichen Ausschusses durch die Generalversammlung.
+
+      '
+    verifiziert: true
+    quelle: https://en.wikipedia.org/wiki/Independent_International_Scientific_Panel_on_AI
+  - datum: 2026-07-06
+    was_gilt: Erste inhaltliche Sitzung des Globalen Dialogs in Genf (06./07.07.2026).
+    verifiziert: true
+    quelle: https://www.un.org/global-dialogue-ai-governance/en
+  - datum: 2027-05-03
+    was_gilt: 'Zweite Sitzung des Globalen Dialogs in New York (03./04.05.2027), zeitgleich mit dem 11.
+      Mehrparteienforum für Wissenschaft, Technologie und Innovation.
+
+      '
+    verifiziert: true
+    quelle: https://www.un.org/global-dialogue-ai-governance/en
+  themenachsen:
+  - governance
+  - grundrechte
+  - sicherheit-export
+  rechtswirkung: 'Die Resolution selbst ist unverbindlich, aber sie ist mehr als eine Absichtserklärung:
+    Sie hat zwei Institutionen tatsächlich errichtet und besetzt. Weder Ausschuss noch Dialog können Regeln
+    setzen — der Bericht ist ausdrücklich „policy-relevant but non-prescriptive“. Die Wirkung ist epistemisch:
+    Wenn ein UN-Gremium mit 40 benannten Wissenschaftlern feststellt, dass ein Risiko besteht, verschiebt
+    sich die Darlegungslast in nationalen Verfahren. Für die Rechtspraxis ist das der Punkt, an dem der
+    Bericht relevant wird — als Beleg für Erkennbarkeit und Vorhersehbarkeit im Haftungsrecht.
+
+    '
+  regelungsschwerpunkte:
+  - 40 Mitglieder in persönlicher Eigenschaft, drei Jahre, höchstens zwei derselben Staatsangehörigkeit
+    oder Zugehörigkeit; Auswahl durch offenen kriteriengeleiteten Aufruf des Generalsekretärs, Ernennung
+    durch die Generalversammlung.
+  - Zwei Ko-Vorsitzende, je einer aus einem entwickelten und einem Entwicklungsland; bis zu drei stellvertretende
+    Vorsitzende.
+  - Ein jährlicher Bericht plus thematische Kurzberichte; Vorlage bei jeder Sitzung des Globalen Dialogs
+    und zweimal jährlich Aktualisierung gegenüber der Generalversammlung.
+  - 'Vier thematische Stränge des Dialogs: Chancen und Auswirkungen; Überbrückung der KI-Kluft; sichere
+    und vertrauenswürdige Systeme mit interoperablen Ansätzen; Schutz der Menschenrechte durch Transparenz,
+    Rechenschaft und menschliche Aufsicht.'
+  - Ko-Vorsitzende der zweiten Sitzung führen Konsultationen über vorrangige Felder der internationalen
+    KI-Governance — die einzige Stelle, an der die Resolution eine Weiterentwicklung anlegt.
+  - 'Abgrenzung zum Internationalen KI-Sicherheitsbericht: Dieser geht auf den Gipfel von Bletchley Park
+    zurück, ist nicht UN-gebunden und wird ebenfalls von Bengio geleitet — dieselbe Person, zwei Mandate.'
+  dokumente:
+  - datum: 2025-08-26
+    typ: endfassung
+    titel: A/RES/79/325 — Terms of Reference and Modalities (Volltext)
+    url: https://www.un.org/pga/wp-content/uploads/sites/110/2025/12/A_RES_79_325-EN.pdf
+    sprache: en
+    urheber: Generalversammlung der Vereinten Nationen
+    verifiziert: true
+    notiz: 'Primärquelle. Belegt Zusammensetzung, Auswahlverfahren, Mandat, Sitzungsrhythmus, Finanzierung
+      und die Formel „policy-relevant but non-prescriptive“.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Home — Global Dialogue on AI Governance
+    url: https://www.un.org/global-dialogue-ai-governance/en
+    sprache: en
+    urheber: Vereinte Nationen
+    verifiziert: true
+    notiz: 'Amtliche Seite. Belegt Genf 06./07.07.2026 und New York 03./04.05.2027 sowie die vier thematischen
+      Stränge.
+
+      '
+  - datum: 2026-02-12
+    typ: uebersicht
+    titel: Independent International Scientific Panel on AI — Zusammensetzung und Mandat
+    url: https://en.wikipedia.org/wiki/Independent_International_Scientific_Panel_on_AI
+    sprache: en
+    urheber: Wikipedia
+    verifiziert: true
+    notiz: 'Sekundärquelle für Ernennungsdatum 12.02.2026, Geschlechterverhältnis und die Ko-Vorsitzenden
+      Bengio und Ressa. Am Primärdokument (Pressemitteilung GA/12751) zu prüfen — dieses war in dieser
+      Sitzung nicht abrufbar.
+
+      '
+  - datum: 2026-02-12
+    typ: pressemitteilung
+    titel: General Assembly Appoints Artificial Intelligence Panel (GA/12751)
+    url: https://press.un.org/en/2026/ga12751.doc.htm
+    sprache: en
+    urheber: Vereinte Nationen
+    verifiziert: false
+    notiz: Amtliche Sitzungsberichterstattung; in dieser Sitzung nicht abrufbar (JavaScript).
+  offene_punkte:
+  - Ob und wann der erste Jahresbericht des Wissenschaftlichen Ausschusses erscheint — bei Rechercheschluss
+    nicht ersichtlich.
+  - Ergebnis der Genfer Sitzung vom 06./07.07.2026 nicht erfasst; die Zusammenfassung der Ko-Vorsitzenden
+    war nicht auffindbar.
+  - 'Finanzierung: „im Rahmen vorhandener Mittel“ plus freiwillige Beiträge — ob das für 40 Mitglieder
+    und ein Sekretariat trägt, ist offen.'
+  monitoring_quellen:
+  - https://www.un.org/global-dialogue-ai-governance/en
+  - https://www.un.org/digital-emerging-technologies/
+  - https://press.un.org/en
+  bezug_regelwerke:
+  - un-global-digital-compact
+  - un-ga-ki-resolutionen-2024
+  - intl-ki-sicherheitsbericht
+  letzte_pruefung: 2026-09-01
+- id: unesco-ki-ethikempfehlung
+  jurisdiktion: unesco
+  kurztitel: UNESCO-Empfehlung zur Ethik der künstlichen Intelligenz
+  offizieller_titel: 'Recommendation on the Ethics of Artificial Intelligence, angenommen von der Generalkonferenz
+    der UNESCO am 23. November 2021
+
+    '
+  fundstelle: UNESCO-Generalkonferenz, 41. Tagung, November 2021
+  verfahrensnummer: 41 C/Resolution 41
+  status: softlaw
+  status_detail: 'Von allen 193 Mitgliedstaaten angenommen — das breiteste KI-Instrument der Welt und
+    zugleich das unverbindlichste. Umsetzung über die Readiness Assessment Methodology (RAM), die bis
+    2026 in mehr als 70 Staaten durchgeführt oder begonnen wurde, veröffentlichte Länderberichte (unter
+    anderem Ghana, Ukraine, Kolumbien, Philippinen, Nigeria, Thailand) und das Global AI Ethics and Governance
+    Observatory. Alle vier Jahre berichten die Mitgliedstaaten über die Umsetzung.
+
+    '
+  kurzbeschreibung: 'Der erste globale Standard zur KI-Ethik. Er formuliert vier Werte (Achtung der Menschenrechte
+    und Menschenwürde; Leben in friedlichen, gerechten und vernetzten Gesellschaften; Vielfalt und Inklusivität;
+    Gedeihen von Umwelt und Ökosystem) und zehn Grundsätze (Verhältnismäßigkeit und Schadensvermeidung,
+    Sicherheit, Privatheit, Multi-Stakeholder-Governance, Verantwortung und Rechenschaft, Transparenz
+    und Erklärbarkeit, menschliche Aufsicht, Nachhaltigkeit, Bewusstsein und Bildung, Fairness und Nichtdiskriminierung).
+    Elf Politikfelder konkretisieren sie — darunter Datenpolitik, Umwelt, Geschlechtergleichstellung,
+    Kultur, Bildung, Gesundheit, Wirtschaft und Arbeit. Die Umsetzungswerkzeuge sind RAM (Reifegradbewertung
+    eines Staates) und die Ethical Impact Assessment (EIA) für einzelne Systeme.
+
+    '
+  inkrafttreten:
+    datum: 2021-11-23
+    verifiziert: false
+    quelle: https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+  anwendungsdaten:
+  - datum: 2021-11-23
+    was_gilt: Annahme durch die Generalkonferenz; alle 193 Mitgliedstaaten.
+    verifiziert: false
+    quelle: https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+  - datum: 2026-08-31
+    was_gilt: 'Mehr als 70 Staaten haben die Readiness Assessment Methodology durchgeführt oder begonnen.
+
+      '
+    verifiziert: true
+    quelle: https://www.unesco.org/ethics-ai/en/ram
+  themenachsen:
+  - grundrechte
+  - governance
+  - arbeit
+  - sektor-oeffentlich
+  rechtswirkung: 'Politische Absichtserklärung. Eine Empfehlung nach Art. IV Abs. 4 der UNESCO-Verfassung
+    verpflichtet die Mitgliedstaaten lediglich, sie den zuständigen nationalen Stellen vorzulegen und
+    über die Umsetzung zu berichten — sie begründet keine Rechtspflicht. Der Wert liegt in der Reichweite:
+    193 Staaten, darunter alle, die weder OECD-Adhärenten noch Europaratsmitglieder sind. Für Rechtsordnungen
+    ohne eigenes KI-Recht ist die Empfehlung häufig der einzige Bezugsrahmen; mehrere afrikanische, südamerikanische
+    und asiatische Strategien nehmen sie ausdrücklich auf.
+
+    '
+  regelungsschwerpunkte:
+  - Vier Werte, zehn Grundsätze, elf Politikfelder.
+  - RAM als Reifegradbewertung eines Staates — das praktisch wirksamste Element, weil es Regierungen zu
+    einer Selbstbestandsaufnahme zwingt.
+  - Ethical Impact Assessment (EIA) für Einzelsysteme — konzeptioneller Vorläufer der Grundrechte-Folgenabschätzung
+    nach Art. 27 KI-VO und von HUDERIA.
+  - Berichtspflicht im Vierjahresrhythmus — die einzige Nachverfolgung.
+  - Ausdrückliches Verbot von Sozialkreditsystemen und von Massenüberwachung — inhaltlich schärfer als
+    die OECD-Grundsätze und näher an Art. 5 KI-VO als jedes andere globale Instrument.
+  dokumente:
+  - datum: 2026-08-31
+    typ: leitlinie
+    titel: Recommendation on the Ethics of Artificial Intelligence — Übersichtsseite
+    url: https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+    sprache: en
+    urheber: UNESCO
+    verifiziert: true
+    notiz: 'Amtliche Seite. Bestätigt Annahme November 2021 durch 193 Mitgliedstaaten, elf Politikfelder
+      und zehn Grundsätze; schweigt zur Berichtspflicht und zur Rechtsnatur.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: AI Readiness Assessment Methodology (RAM)
+    url: https://www.unesco.org/ethics-ai/en/ram
+    sprache: en
+    urheber: UNESCO
+    verifiziert: true
+    notiz: 'Belegt, dass zum Stand 2026 mehr als 70 Staaten die RAM durchgeführt haben oder durchführen,
+      und nennt sechs Länderfallstudien.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Global Forum on the Ethics of AI
+    url: https://www.unesco.org/en/forum-ethics-ai
+    sprache: en
+    urheber: UNESCO
+    verifiziert: false
+    notiz: Jährliches Forum zur Umsetzung; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Ob eine Überarbeitung der Empfehlung angesichts generativer KI ansteht — sie stammt aus der Zeit vor
+    ChatGPT.
+  - Ergebnisse der Vierjahresberichte der Mitgliedstaaten nicht konsolidiert auffindbar.
+  monitoring_quellen:
+  - https://www.unesco.org/ethics-ai/en
+  - https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+  bezug_regelwerke:
+  - oecd-ki-grundsaetze
+  - coe-huderia
+  - un-res-79-325
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: un-itu-ki-normung
+  jurisdiktion: un
+  kurztitel: ITU — KI-Normung und AI for Good
+  offizieller_titel: 'Internationale Fernmeldeunion (ITU) — Normungssektor ITU-T, Studiengruppen und Fokusgruppen
+    zu künstlicher Intelligenz sowie AI for Good Global Summit
+
+    '
+  fundstelle: ITU-T Studiengruppen 13, 16, 17; Fokusgruppen; AI for Good
+  verfahrensnummer: ITU-T; Sonderorganisation der Vereinten Nationen
+  status: softlaw
+  status_detail: 'Laufend. Die ITU normt KI dort, wo sie ihre angestammte Kompetenz hat: in Netzen und
+    in der Sicherheit. Der AI for Good Global Summit fand 2026 vom 07. bis 10.07.2026 in Genf statt. Die
+    ITU betreibt zudem den AI Standards Exchange, eine Datenbank der weltweiten KI-Normen und -Normungsvorhaben.
+
+    '
+  kurzbeschreibung: 'Die ITU ist die einzige UN-Sonderorganisation mit Normungskompetenz. Ihre Empfehlungen
+    (ITU-T Recommendations) sind technische Normen für Telekommunikation; zu KI zählen unter anderem Y.3172
+    (Architekturrahmen für maschinelles Lernen in künftigen Netzen, Juni 2019), Y.3173 (Bewertung von
+    Intelligenzgraden, Februar 2020), Y.3174 (Datenhandhabung für maschinelles Lernen, Februar 2020),
+    Y.3115 (KI-fähige domänenübergreifende Netze, Februar 2022) und die Reihe X.2200-X.2249 zur Sicherheit
+    von KI/ML. Fokusgruppen bearbeiten zeitlich befristete Themen: FG-ML5G (2018-2020), FG-AI4AD zu autonomem
+    Fahren (2020-2022), FG-AI4H zu KI in der Gesundheit (mit WHO und WIPO) und seit Juli 2024 FG-AINN
+    zu KI-nativen Netzen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://aiforgood.itu.int/summit26/
+  anwendungsdaten:
+  - datum: 2026-07-07
+    was_gilt: AI for Good Global Summit 2026 in Genf (07.-10.07.2026).
+    verifiziert: true
+    quelle: https://aiforgood.itu.int/summit26/
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - sektor-medizin
+  rechtswirkung: 'ITU-T-Empfehlungen sind rechtlich unverbindlich, werden aber in nationalen Telekommunikationsregulierungen
+    und in Verträgen zwischen Netzbetreibern regelmäßig in Bezug genommen und dadurch faktisch verbindlich.
+    Für das KI-Recht im engeren Sinn ist die ITU nachrangig: Sie normt KI im Netz, nicht KI als Produkt.
+    Der AI for Good Summit ist ein Konferenzformat ohne Beschlusskompetenz.
+
+    '
+  regelungsschwerpunkte:
+  - 'Arbeitsteilung mit ISO/IEC: SC 42 normt KI als Technologie, ITU-T normt KI in Netzen und deren Sicherheit.'
+  - FG-AI4H (KI in der Gesundheit, mit WHO) ist die substanziellste Arbeit — sie entwickelt Bewertungsrahmen
+    für KI-gestützte Diagnostik und berührt damit die Schnittstelle zur MDR.
+  - AI Standards Exchange als Metadatenbank der weltweiten KI-Normung.
+  dokumente:
+  - datum: 2026-07-10
+    typ: uebersicht
+    titel: AI for Good Global Summit 2026
+    url: https://aiforgood.itu.int/summit26/
+    sprache: en
+    urheber: ITU
+    verifiziert: true
+    notiz: Amtliche Seite des Gipfels 2026 in Genf.
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: AI Governance by ITU — Studiengruppen, Fokusgruppen, Empfehlungen
+    url: https://regulations.ai/regulations/RAI-XT-GO-SUMMARY-2026
+    sprache: en
+    urheber: Regulations.ai
+    verifiziert: true
+    notiz: 'Sekundärquelle; nennt die einschlägigen Empfehlungen mit Nummern und Daten sowie die Fokusgruppen.
+      Am ITU-Primärkatalog zu prüfen.
+
+      '
+  offene_punkte:
+  - Bestand und Status der ITU-T-Empfehlungen nicht am amtlichen Katalog geprüft.
+  - Ob die ITU im Rahmen des UN-Globalen Dialogs eine erweiterte Rolle erhält.
+  monitoring_quellen:
+  - https://www.itu.int/en/ITU-T/AI/
+  - https://aiforgood.itu.int/
+  bezug_regelwerke:
+  - un-res-79-325
+  - iso-iec-sc42-arbeitsprogramm
+  letzte_pruefung: 2026-09-01
+- id: g7-hiroshima-ki-prozess
+  jurisdiktion: g7
+  kurztitel: 'G7-Hiroshima-Prozess: Leitprinzipien und Verhaltenskodex'
+  offizieller_titel: 'Hiroshima Process International Guiding Principles for Organizations Developing
+    Advanced AI Systems und Hiroshima Process International Code of Conduct for Organizations Developing
+    Advanced AI Systems, beide vom 30. Oktober 2023
+
+    '
+  fundstelle: G7-Erklärung der Staats- und Regierungschefs zum Hiroshima-KI-Prozess vom 30.10.2023
+  verfahrensnummer: japanische G7-Präsidentschaft 2023; Fortschreibung unter französischer Präsidentschaft
+    2026
+  status: softlaw
+  status_detail: 'In Kraft als politische Selbstverpflichtung, laufend fortgeschrieben. Die Ministererklärung
+    zu Digitales und Technologie vom 29.05.2026 (französische Präsidentschaft, Paris) würdigt den überarbeiteten
+    HAIP-Berichtsrahmen als „key multi-stakeholder platform“ und begründet neue Arbeitsstränge: Vergleichbarkeit
+    von KI-Risikobewertungsrahmen gemeinsam mit dem Internationalen Netzwerk für fortgeschrittene KI-Messung
+    und -Evaluierung und der OECD, eine Vision zu KI-Offenheit, ein Werkzeug zur KI-Reife kleiner und
+    mittlerer Unternehmen mit der OECD und gemeinsame Grundsätze zum Schutz Minderjähriger im Netz.
+
+    '
+  kurzbeschreibung: 'Die Leitprinzipien richten sich an Staaten und Organisationen, der Verhaltenskodex
+    an Organisationen, die die fortgeschrittensten KI-Systeme entwickeln — Basismodelle und generative
+    Systeme. Elf Handlungsfelder: Risikoidentifikation und -minderung über den Lebenszyklus; Beobachtung
+    nach dem Inverkehrbringen; öffentliche Berichterstattung über Fähigkeiten, Grenzen und geeignete Verwendungsbereiche;
+    Informationsaustausch über Sicherheitsrisiken; Governance und Risikomanagement einschließlich Offenlegung;
+    Sicherheitsvorkehrungen einschließlich Insider-Bedrohungen; Inhaltsauthentifizierung, wo technisch
+    machbar, etwa durch Wasserzeichen; Forschung zu Risikominderung; Ausrichtung auf gesellschaftliche
+    Herausforderungen; Mitwirkung an internationalen technischen Normen; Datenqualität und Achtung von
+    Datenschutz- und Immaterialgüterrechten.
+
+    '
+  inkrafttreten:
+    datum: 2023-10-30
+    verifiziert: true
+    quelle: https://g7.utoronto.ca/summit/2023hiroshima/231030-ai-principles.html
+  anwendungsdaten:
+  - datum: 2023-10-30
+    was_gilt: Veröffentlichung von Leitprinzipien und Verhaltenskodex.
+    verifiziert: true
+    quelle: https://g7.utoronto.ca/summit/2023hiroshima/231030-ai-principles.html
+  - datum: 2025-02-07
+    was_gilt: Start des HAIP-Berichtsrahmens bei der OECD (Datum widersprüchlich).
+    verifiziert: false
+    quelle: https://transparency.oecd.ai/
+  - datum: 2026-05-29
+    was_gilt: 'Ministererklärung zu Digitales und Technologie unter französischer G7-Präsidentschaft;
+      Würdigung des HAIP-Berichtsrahmens 2.0 und neue Arbeitsstränge.
+
+      '
+    verifiziert: true
+    quelle: https://www.gov.uk/government/publications/g7-digital-and-technology-ministerial-declaration-29-may-2026/g7-digital-and-technology-ministerial-declaration-29-may-2026
+  themenachsen:
+  - gpai
+  - governance
+  - content
+  - sicherheit-export
+  rechtswirkung: 'Politische Absichtserklärung ohne jede Rechtswirkung — weder für die G7-Staaten noch
+    für die adressierten Unternehmen. Es gibt keine Beitrittserklärung, keine Prüfung, keine Sanktion.
+    Die einzige Verbindung zur Wirklichkeit ist der HAIP-Berichtsrahmen, und der ist freiwillig. Die tatsächliche
+    Bedeutung liegt in der Vorlagenfunktion: Der GPAI-Verhaltenskodex der EU und mehrere nationale Selbstverpflichtungen
+    übernehmen Struktur und Formulierungen des Kodex — was ihn zum wirkmächtigsten unverbindlichen Text
+    der KI-Governance macht.
+
+    '
+  regelungsschwerpunkte:
+  - Elf Handlungsfelder; Nummer 7 (Inhaltsauthentifizierung, Wasserzeichen) ist der Vorläufer des Art.
+    50 Abs. 2 KI-VO, allerdings unter dem Vorbehalt technischer Machbarkeit.
+  - Nummer 10 verpflichtet ausdrücklich zur Mitwirkung an internationalen technischen Normen — der Kodex
+    verweist damit auf die Normungsebene, die er selbst nicht ersetzen kann.
+  - Nummer 11 nennt Datenqualität, Datenschutz und Immaterialgüterrechte in einem Atemzug — die einzige
+    Stelle, an der ein G7-Instrument die Trainingsdatenfrage berührt.
+  - 'Ministererklärung 29.05.2026: Vergleichbarkeit der Risikobewertungsrahmen mit dem Evaluierungsnetzwerk
+    und der OECD; G7 SME AI Readiness Tool; Vision zu KI-Offenheit; gemeinsame Grundsätze zum Schutz Minderjähriger.'
+  dokumente:
+  - datum: 2023-10-30
+    typ: leitlinie
+    titel: Hiroshima Process International Guiding Principles for Organizations Developing Advanced AI
+      Systems
+    url: https://g7.utoronto.ca/summit/2023hiroshima/231030-ai-principles.html
+    sprache: en
+    urheber: G7
+    verifiziert: true
+    notiz: 'Volltext der elf Leitprinzipien. Die Formulierung „where technically feasible, such as watermarking“
+      in Nummer 7 ist der Punkt, an dem der Kodex hinter Art. 50 KI-VO zurückbleibt.
+
+      '
+  - datum: 2023-10-30
+    typ: leitlinie
+    titel: Hiroshima Process International Code of Conduct for Advanced AI Systems
+    url: https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-code-conduct-advanced-ai-systems
+    sprache: en
+    urheber: G7 / Europäische Kommission (Bereitstellung)
+    verifiziert: true
+    notiz: 'Bezeichnet sich ausdrücklich als „voluntary guidance“ und als „non-exhaustive list of actions“;
+      baut auf den OECD-Grundsätzen auf.
+
+      '
+  - datum: 2026-05-29
+    typ: endfassung
+    titel: G7 Digital and Technology Ministerial Declaration, 29 May 2026
+    url: https://www.gov.uk/government/publications/g7-digital-and-technology-ministerial-declaration-29-may-2026/g7-digital-and-technology-ministerial-declaration-29-may-2026
+    sprache: en
+    urheber: G7 (französische Präsidentschaft)
+    verifiziert: true
+    notiz: 'Aktuellster G7-Text. Belegt die Würdigung des HAIP-Rahmens 2.0 und die vier neuen Arbeitsstränge.
+
+      '
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: Documents of Achievement — Hiroshima AI Process
+    url: https://www.soumu.go.jp/hiroshimaaiprocess/en/documents.html
+    sprache: en
+    urheber: Japanisches Ministerium für Inneres und Kommunikation
+    verifiziert: false
+    notiz: Amtliche Dokumentensammlung Japans zum Prozess; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Ob die vier Arbeitsstränge der Erklärung vom 29.05.2026 zu Dokumenten führen.
+  - Ob die G7 den Kodex angesichts agentischer Systeme überarbeiten.
+  monitoring_quellen:
+  - https://www.soumu.go.jp/hiroshimaaiprocess/en/index.html
+  - https://oecd.ai/en/hiroshima
+  - https://g7g20-documents.org/
+  bezug_regelwerke:
+  - oecd-haip-berichtsrahmen
+  - oecd-ki-grundsaetze
+  - gpai-code-of-practice
+  - intl-netzwerk-ki-evaluierung
+  letzte_pruefung: 2026-09-01
+- id: wipo-conversation-ip-frontier-technologies
+  jurisdiktion: wipo
+  kurztitel: WIPO Conversation on IP and Frontier Technologies
+  offizieller_titel: 'The WIPO Conversation on Intellectual Property and Frontier Technologies — offener
+    Mehrparteienprozess der Weltorganisation für geistiges Eigentum
+
+    '
+  fundstelle: WIPO, Genf; seit September 2019
+  verfahrensnummer: WIPO-Sekretariat; kein Normsetzungsverfahren
+  status: softlaw
+  status_detail: 'Laufend, zwölf Sitzungen bis Rechercheschluss. Die zwölfte Sitzung (28./29.10.2025)
+    behandelte geistiges Eigentum und synthetische Medien — KI-erzeugte Bilder, Videos, Audio und Text,
+    Deepfakes und die unbefugte Nutzung von Werken und Persönlichkeitsmerkmalen. Insgesamt haben rund
+    17.000 Teilnehmende aus 172 Staaten mitgewirkt. Kein Normungs- oder Vertragsverfahren; die WIPO hat
+    zu KI bislang keinen Vertragsentwurf vorgelegt.
+
+    '
+  kurzbeschreibung: 'Das einzige globale Forum, in dem die immaterialgüterrechtlichen Fragen der KI zwischen
+    Staaten, Ämtern, Wissenschaft und Wirtschaft verhandelt werden. Themen der Sitzungen: Grundsatzfragen
+    zu KI und geistigem Eigentum (1-3), Daten (4), neue Technologien in der Verwaltung von Schutzrechten
+    (5), KI-Erfindungen und die Rolle der Ämter (6), Metaverse (7), generative KI und Schaffen (8), Trainingsdaten
+    und Schutzrechte (9-10), Urheberrechtsinfrastruktur für generative KI (11), synthetische Medien (12).
+    Ergänzend führt die WIPO ein AI and IP Clearing House, das die einschlägigen staatlichen Instrumente
+    sammelt, sowie die Reihe WIPO Technology Trends.
+
+    '
+  inkrafttreten:
+    datum: 2019-09-27
+    verifiziert: false
+    quelle: https://www.wipo.int/en/web/frontier-technologies/frontier_conversation
+  anwendungsdaten:
+  - datum: 2025-10-28
+    was_gilt: 'Zwölfte Sitzung: Geistiges Eigentum und synthetische Medien (28./29.10.2025).'
+    verifiziert: true
+    quelle: https://www.wipo.int/en/web/frontier-technologies/frontier_conversation
+  themenachsen:
+  - urheberrecht
+  - governance
+  - content
+  rechtswirkung: 'Keine. Ein Gesprächsformat ohne Beschlusskompetenz; die Sitzungen enden mit einer Zusammenfassung
+    des Sekretariats, nicht mit einem Beschluss. Für die Erfinderschaftsfrage bedeutet das: Die WIPO hat
+    die Divergenz zwischen den Rechtsordnungen dokumentiert (DABUS-Linie — EPA, UK Supreme Court, USPTO,
+    australischer Full Court gegen die südafrikanische Erteilung), aber keine Harmonisierung vorbereitet.
+    Wer in diesem Feld arbeitet, findet bei der WIPO die Materialsammlung, nicht die Lösung.
+
+    '
+  regelungsschwerpunkte:
+  - Sitzung 6 (2022) zu KI-Erfindungen mit Faktenblatt zur Praxis der Ämter — die Referenz zur Erfinderschaftsfrage.
+  - Sitzungen 9 bis 11 zu Trainingsdaten und Urheberrechtsinfrastruktur — die Materialgrundlage der Debatte
+    um Transparenz, Zustimmung und Vergütung, die in der EU über Art. 53 Abs. 1 lit. c und d KI-VO geführt
+    wird.
+  - 'AI and IP Clearing House: laufend aktualisierte Sammlung staatlicher Instrumente zu KI und geistigem
+    Eigentum.'
+  - Kein Vertragsentwurf, keine Empfehlung, kein Musterrecht — die WIPO verhält sich in der KI-Frage deutlich
+    zurückhaltender als bei früheren Technologiesprüngen.
+  dokumente:
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: The WIPO Conversation on Intellectual Property and Frontier Technologies
+    url: https://www.wipo.int/en/web/frontier-technologies/frontier_conversation
+    sprache: en
+    urheber: WIPO
+    verifiziert: true
+    notiz: 'Amtliche Übersicht aller Sitzungen mit Themen. Belegt die zwölfte Sitzung am 28./29.10.2025
+      und rund 17.000 Teilnehmende aus 172 Staaten.
+
+      '
+  - datum: 2025-10-29
+    typ: ausschussbericht
+    titel: 'Twelfth Session of the WIPO Conversation: Intellectual Property and Synthetic Media'
+    url: https://www.wipo.int/meetings/en/details.jsp?meeting_id=89408
+    sprache: en
+    urheber: WIPO
+    verifiziert: false
+    notiz: Sitzungsseite mit Programm und Unterlagen; in dieser Sitzung nicht abgerufen.
+  - datum: 2026-08-31
+    typ: uebersicht
+    titel: WIPO and Artificial Intelligence — AI and IP Clearing House
+    url: https://www.wipo.int/en/web/frontier-technologies/artificial-intelligence/index
+    sprache: en
+    urheber: WIPO
+    verifiziert: true
+    notiz: 'Belegt das Clearing House als laufend aktualisierte Sammlung staatlicher Instrumente und die
+      Themen der Sitzungen 6 bis 11.
+
+      '
+  offene_punkte:
+  - Ob 2026 eine dreizehnte Sitzung stattfindet — nicht ermittelbar.
+  - Ob die WIPO-Mitgliedstaaten ein Normsetzungsmandat zu KI erteilen; bislang nicht ersichtlich.
+  monitoring_quellen:
+  - https://www.wipo.int/en/web/frontier-technologies
+  - https://www.wipo.int/meetings/en/topic.jsp?group_id=412
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - us-uspto-erfinderschaft
+  letzte_pruefung: 2026-09-01
+- id: intl-netzwerk-ki-evaluierung
+  jurisdiktion: intl
+  kurztitel: Internationales Netzwerk für fortgeschrittene KI-Messung und -Evaluierung
+  offizieller_titel: 'International Network for Advanced AI Measurement, Evaluation and Science — vormals
+    International Network of AI Safety Institutes
+
+    '
+  fundstelle: gegründet November 2024 in San Francisco; umbenannt Dezember 2025
+  verfahrensnummer: Folgeformat des KI-Sicherheitsgipfels von Seoul (Mai 2024)
+  status: softlaw
+  status_detail: 'Aktiv unter neuem Namen. Am 19.12.2025 wurde die Umbenennung bekanntgegeben — das Wort
+    „Sicherheit“ ist aus dem Namen verschwunden, der Schwerpunkt liegt nun auf wissenschaftlicher Messung
+    und Evaluierung. Mitglieder: Australien, Kanada, die Europäische Union, Frankreich, Japan, Kenia,
+    Südkorea, Singapur, das Vereinigte Königreich und die Vereinigten Staaten.
+
+    '
+  kurzbeschreibung: 'Das Netzwerk verbindet die staatlichen Evaluierungsinstitute — in den USA CAISI (vormals
+    US AI Safety Institute), im Vereinigten Königreich das AI Security Institute (vormals AI Safety Institute),
+    in der EU das KI-Büro. Aufgabe ist die Abstimmung von Bewertungsmethoden für fortgeschrittene KI-Systeme,
+    gemeinsame Testläufe und der Austausch von Ergebnissen. Die zweifache Umbenennung — erst das britische,
+    dann das US-amerikanische, dann das Netzwerk selbst — ist der sichtbarste Ausdruck der politischen
+    Verschiebung von Sicherheit zu Wettbewerbsfähigkeit.
+
+    '
+  inkrafttreten:
+    datum: 2024-11-20
+    verifiziert: false
+    quelle: https://babl.ai/international-ai-safety-coalition-renames-itself-to-emphasize-ai-evaluation-science/
+  anwendungsdaten:
+  - datum: 2025-12-19
+    was_gilt: 'Bekanntgabe der Umbenennung in International Network for Advanced AI Measurement, Evaluation
+      and Science.
+
+      '
+    verifiziert: true
+    quelle: https://babl.ai/international-ai-safety-coalition-renames-itself-to-emphasize-ai-evaluation-science/
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - gpai
+  rechtswirkung: 'Keine. Ein Verwaltungsnetzwerk ohne Rechtsgrundlage, ohne Beschlüsse und ohne Befugnisse
+    gegenüber Unternehmen. Mittelbare Bedeutung für die EU: Die Bewertungsmethoden, auf die sich das Netzwerk
+    einigt, werden voraussichtlich in die Praxis des KI-Büros bei der Bewertung von GPAI-Modellen mit
+    systemischem Risiko nach Art. 55 KI-VO einfließen — ohne dass die Verordnung darauf verweist.
+
+    '
+  regelungsschwerpunkte:
+  - Zehn Mitglieder; die EU ist über das KI-Büro vertreten.
+  - Die G7-Ministererklärung vom 29.05.2026 beauftragt das Netzwerk gemeinsam mit der OECD, die Vergleichbarkeit
+    der KI-Risikobewertungsrahmen zu verbessern — das erste konkrete Mandat von außen.
+  - 'Der Namenswechsel ist inhaltlich: von der Frage, ob ein System sicher ist, zur Frage, wie man es
+    misst.'
+  dokumente:
+  - datum: 2025-12-19
+    typ: pressemitteilung
+    titel: International AI Safety Coalition Renames Itself to Emphasize AI Evaluation Science
+    url: https://babl.ai/international-ai-safety-coalition-renames-itself-to-emphasize-ai-evaluation-science/
+    sprache: en
+    urheber: BABL AI
+    verifiziert: true
+    notiz: 'Belegt neuen Namen, Datum der Bekanntgabe und die zehn Mitglieder. Sekundärquelle; eine amtliche
+      Mitteilung des Netzwerks war nicht auffindbar.
+
+      '
+  - datum: 2026-05-29
+    typ: endfassung
+    titel: G7 Digital and Technology Ministerial Declaration, 29 May 2026
+    url: https://www.gov.uk/government/publications/g7-digital-and-technology-ministerial-declaration-29-may-2026/g7-digital-and-technology-ministerial-declaration-29-may-2026
+    sprache: en
+    urheber: G7
+    verifiziert: true
+    notiz: Belegt das Mandat zur Vergleichbarkeit der Risikobewertungsrahmen.
+  offene_punkte:
+  - Keine amtliche Netzwerkseite auffindbar; Mitgliederliste und Arbeitsergebnisse nur über Sekundärquellen.
+  - Ob gemeinsame Testläufe stattgefunden haben und mit welchem Ergebnis.
+  monitoring_quellen:
+  - https://www.nist.gov/caisi
+  - https://www.aisi.gov.uk/
+  bezug_regelwerke:
+  - us-caisi
+  - iso-nist-rahmenwerke
+  - g7-hiroshima-ki-prozess
+  - governance-ki-buero-board-gremien
+  letzte_pruefung: 2026-09-01
+- id: intl-ki-sicherheitsbericht
+  jurisdiktion: intl
+  kurztitel: Internationaler KI-Sicherheitsbericht
+  offizieller_titel: 'International AI Safety Report — jährlicher Bericht über die Fähigkeiten und Risiken
+    universell einsetzbarer künstlicher Intelligenz unter dem Vorsitz von Yoshua Bengio
+
+    '
+  fundstelle: internationalaisafetyreport.org; Ausgabe 2026 vom 03.02.2026
+  verfahrensnummer: Auftrag des KI-Sicherheitsgipfels von Bletchley Park (November 2023)
+  status: softlaw
+  status_detail: 'Zweite Vollausgabe am 03.02.2026 veröffentlicht, erstellt von über 100 Sachverständigen
+    unter Beteiligung eines Beirats aus mehr als 30 Staaten und internationalen Organisationen, darunter
+    EU, OECD und Vereinte Nationen. Ausdrücklich ohne Politikempfehlungen und ohne Bindung der beteiligten
+    Regierungen.
+
+    '
+  kurzbeschreibung: 'Der Bericht ist der Versuch, für KI zu leisten, was der Weltklimarat für das Klima
+    leistet: eine gemeinsame, von Regierungen getragene wissenschaftliche Grundlage. Die Ausgabe 2026
+    ordnet die Risiken in drei Gruppen — böswillige Nutzung (Cyberangriffe, biologische Waffen), Fehlfunktionen
+    (Zuverlässigkeitsversagen, Kontrollverlust) und systemische Risiken (Arbeitsmarktverwerfungen, Bedrohungen
+    der menschlichen Autonomie). Kernbefunde: Die Fähigkeiten wachsen weiter rasch, besonders in Mathematik,
+    Programmierung und autonomem Handeln; technische Schutzvorkehrungen haben erhebliche Grenzen, gestaffelte
+    Verteidigung wirkt besser; die Verbreitung ist regional stark ungleich — über 50 Prozent in einzelnen
+    Staaten, unter 10 Prozent in weiten Teilen Afrikas, Asiens und Lateinamerikas.
+
+    '
+  inkrafttreten:
+    datum: 2026-02-03
+    verifiziert: true
+    quelle: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
+  anwendungsdaten:
+  - datum: 2026-02-03
+    was_gilt: Veröffentlichung der Ausgabe 2026.
+    verifiziert: true
+    quelle: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - gpai
+  - arbeit
+  rechtswirkung: 'Keine. Der Bericht macht ausdrücklich keine Politikempfehlungen und gibt nicht die Auffassung
+    der beteiligten Regierungen wieder. Seine juristische Bedeutung ist mittelbar, aber real: Er ist die
+    am breitesten getragene Feststellung dessen, was über Fähigkeiten und Risiken bekannt ist, und damit
+    die naheliegende Referenz für die Frage, was ein Anbieter zu einem bestimmten Zeitpunkt wissen musste.
+    Für Art. 55 KI-VO (systemisches Risiko) und für die Haftung nach der Produkthaftungsrichtlinie ist
+    das der Anknüpfungspunkt.
+
+    '
+  regelungsschwerpunkte:
+  - 'Drei Risikogruppen: böswillige Nutzung, Fehlfunktionen, systemische Risiken.'
+  - 'Fortschritte seit der Ausgabe 2025: Goldmedaillenniveau bei Aufgaben der Internationalen Mathematikolympiade;
+    KI-Agenten bewältigen zuverlässig Programmieraufgaben von 30 Minuten Dauer (zuvor 10).'
+  - Mehrere Entwickler haben Schutzvorkehrungen ergänzt, weil sie nicht ausschließen konnten, dass ihre
+    Modelle Laien bei der Entwicklung biologischer Waffen unterstützen — die konkreteste Aussage des Berichts.
+  - 'Personelle Überschneidung mit dem UN-Wissenschaftsausschuss: Bengio führt beide Gremien.'
+  dokumente:
+  - datum: 2026-02-03
+    typ: bericht
+    titel: International AI Safety Report 2026
+    url: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
+    sprache: en
+    urheber: Yoshua Bengio (Vorsitz) und über 100 Sachverständige
+    verifiziert: true
+    notiz: 'Primärquelle. Belegt Veröffentlichungsdatum, Beteiligung von mehr als 30 Staaten und Organisationen,
+      die drei Risikogruppen und die ausdrückliche Unverbindlichkeit.
+
+      '
+  - datum: 2026-02-10
+    typ: stellungnahme
+    titel: International AI Safety Report 2026 Examines AI Capabilities, Risks, and Safeguards
+    url: https://www.insideglobaltech.com/2026/02/10/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/
+    sprache: en
+    urheber: Covington & Burling
+    verifiziert: false
+    notiz: Anwaltliche Auswertung; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Verhältnis zum Jahresbericht des UN-Wissenschaftsausschusses — zwei parallele Berichtswerke unter
+    demselben Vorsitz.
+  monitoring_quellen:
+  - https://internationalaisafetyreport.org/
+  bezug_regelwerke:
+  - un-res-79-325
+  - intl-ki-gipfel
+  - intl-netzwerk-ki-evaluierung
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-01
+- id: intl-ki-gipfel
+  jurisdiktion: intl
+  kurztitel: Die Reihe der KI-Gipfel (Bletchley, Seoul, Paris, Neu-Delhi)
+  offizieller_titel: 'AI Safety Summit (Bletchley Park 2023), AI Seoul Summit (2024), AI Action Summit
+    (Paris 2025), India AI Impact Summit (Neu-Delhi 2026)
+
+    '
+  fundstelle: Gipfelerklärungen; zuletzt New Delhi Declaration vom 21.02.2026
+  verfahrensnummer: keine institutionelle Grundlage; wechselnde Gastgeberstaaten
+  status: softlaw
+  status_detail: 'Der Gipfel von Neu-Delhi tagte vom 16. bis 21.02.2026 mit 118 vertretenen Staaten; 89
+    billigten die New Delhi Declaration. Die Verschiebung der Bezeichnungen — von „Safety“ über „Action“
+    zu „Impact“ — beschreibt den inhaltlichen Kurswechsel der Reihe präzise: von Risikobegrenzung zu Verbreitung
+    und Nutzen.
+
+    '
+  kurzbeschreibung: 'Die Gipfelreihe ist das sichtbarste, aber unverbindlichste Format der KI-Governance.
+    Bletchley Park (November 2023) brachte die Bletchley-Erklärung von 28 Staaten und der EU und den Auftrag
+    für den Internationalen KI-Sicherheitsbericht. Seoul (Mai 2024) brachte die Frontier AI Safety Commitments
+    von 16 Unternehmen und die Gründung des Netzwerks der Sicherheitsinstitute. Paris (Februar 2025) endete
+    ohne Unterschrift der USA und des Vereinigten Königreichs unter der Abschlusserklärung. Neu-Delhi
+    (Februar 2026) setzte auf Verbreitung: eine Charter for the Democratic Diffusion of AI, ein Global
+    AI Impact Commons, ein Trusted AI Commons, ein Netzwerk von Institutionen für KI in der Wissenschaft,
+    eine Plattform zur sozialen Teilhabe, ein Playbook zur Arbeitskräfteentwicklung und Leitgrundsätze
+    zu belastbarer und effizienter KI. Alle Zusagen ausdrücklich freiwillig und nicht bindend.
+
+    '
+  inkrafttreten:
+    datum: 2023-11-01
+    verifiziert: false
+    quelle: https://internationalaisafetyreport.org/about
+  anwendungsdaten:
+  - datum: 2026-02-16
+    was_gilt: India AI Impact Summit in Neu-Delhi (16.-21.02.2026), 118 vertretene Staaten.
+    verifiziert: true
+    quelle: https://www.visionias.in/blog/current-affairs/india-ai-impact-summit-2026-and-new-delhi-declaration-indias-leap-into-the-global-ai-order
+  - datum: 2026-02-21
+    was_gilt: Annahme der New Delhi Declaration durch 89 Staaten.
+    verifiziert: true
+    quelle: https://www.visionias.in/blog/current-affairs/india-ai-impact-summit-2026-and-new-delhi-declaration-indias-leap-into-the-global-ai-order
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - gpai
+  rechtswirkung: 'Politische Absichtserklärung ohne jede Rechtswirkung. Die Gipfel haben genau zwei dauerhafte
+    Institutionen hervorgebracht — den Internationalen KI-Sicherheitsbericht und das Netzwerk der Evaluierungsinstitute.
+    Alles Übrige sind Erklärungen. Bemerkenswert ist, was die Zahlen zeigen: In Neu-Delhi billigten 89
+    von 118 vertretenen Staaten die Erklärung — das ist keine Einstimmigkeit, und schon in Paris hatten
+    die USA und das Vereinigte Königreich nicht unterzeichnet.
+
+    '
+  regelungsschwerpunkte:
+  - 'Bletchley 2023: Erklärung von 28 Staaten und der EU; Auftrag für den Internationalen KI-Sicherheitsbericht.'
+  - 'Seoul 2024: Frontier AI Safety Commitments von 16 Unternehmen; Gründung des Netzwerks der Sicherheitsinstitute.'
+  - 'Paris 2025: keine Unterschrift der USA und des Vereinigten Königreichs unter die Abschlusserklärung
+    — der Bruch der Reihe.'
+  - 'Neu-Delhi 2026: Verbreitungsagenda; rund 250 Mrd. USD Infrastrukturzusagen und 20 Mrd. USD Wagniskapital
+    angekündigt; alle Zusagen freiwillig.'
+  - Ob die USA und China die New Delhi Declaration gebilligt haben, ist aus den vorliegenden Quellen nicht
+    ersichtlich.
+  dokumente:
+  - datum: 2026-02-21
+    typ: pressemitteilung
+    titel: AI Impact Summit 2026 Concludes with Adoption of New Delhi Declaration
+    url: https://www.mea.gov.in/press-releases.htm
+    sprache: en
+    urheber: Indisches Außenministerium
+    verifiziert: false
+    notiz: 'Amtliche Mitteilung des Gastgebers; die tiefe Verlinkung war in dieser Sitzung nicht abrufbar
+      (403).
+
+      '
+  - datum: 2026-02-22
+    typ: uebersicht
+    titel: India AI Impact Summit 2026 and New Delhi Declaration
+    url: https://www.visionias.in/blog/current-affairs/india-ai-impact-summit-2026-and-new-delhi-declaration-indias-leap-into-the-global-ai-order
+    sprache: en
+    urheber: Vision IAS
+    verifiziert: true
+    notiz: 'Sekundärquelle; belegt Daten (16.-21.02.2026), 118 vertretene Staaten, 89 Zustimmungen, die
+      sieben Ergebnisdokumente und die ausdrückliche Freiwilligkeit. Am Primärdokument zu prüfen.
+
+      '
+  - datum: 2026-02-21
+    typ: pressemitteilung
+    titel: 'India AI Impact Summit 2026: Landmark Global Declaration and Major AI Investment Commitments'
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234343&reg=3&lang=1
+    sprache: en
+    urheber: Press Information Bureau, Regierung Indiens
+    verifiziert: false
+    notiz: Amtliche Mitteilung; in dieser Sitzung nicht abgerufen.
+  offene_punkte:
+  - Volltext der New Delhi Declaration nicht am Primärdokument geprüft; Unterzeichnerliste unbekannt.
+  - Gastgeber und Termin des nächsten Gipfels nicht ermittelbar.
+  monitoring_quellen:
+  - https://impact.indiaai.gov.in/
+  - https://internationalaisafetyreport.org/
+  bezug_regelwerke:
+  - intl-ki-sicherheitsbericht
+  - intl-netzwerk-ki-evaluierung
+  - un-res-79-325
+  letzte_pruefung: 2026-09-01

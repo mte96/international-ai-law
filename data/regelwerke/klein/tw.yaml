@@ -1,0 +1,2478 @@
+regelwerke:
+- id: tw-ki-basisgesetz
+  jurisdiktion: tw
+  kurztitel: KI-Basisgesetz Taiwan (人工智慧基本法)
+  offizieller_titel: 人工智慧基本法 — Artificial Intelligence Basic Act
+  fundstelle: 'Präsidialerlass vom 14.01.2026 (民國115年1月14日), 華總一義字第11500001671號令, 制定公布全文 20 條；並自公布之日起施行.
+    Legislativ-Yuan-Drucksache: 公報 115卷001期 總號5400. Gesetzeskategorie: 行政 ＞ 國家科學及技術委員會 ＞ 科學技術目.
+
+    '
+  verfahrensnummer: '院總第20號; Regierungsvorlage 20政11015829; dritte Lesung im 立法院第11屆第4會期第14次會議 am 23.12.2025
+    (1141223)
+
+    '
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 14.01.2026 (Art. 20: 自公布之日起施行 — mit dem Tag der Verkündung). Vollständig
+    anwendbar, aber als 基本法 (Grundsatzgesetz) ohne unmittelbare Verhaltenspflichten für Private und ohne
+    Sanktionsvorschriften. Die Umsetzung läuft: Der Exekutiv-Yuan hat am 21.05.2026 den Bericht des Digitalministeriums
+    zur ''Durchführungsplanung'' entgegengenommen, das 國家人工智慧戰略特別委員會 (Art. 6) eingesetzt und den NSTC
+    mit der Erarbeitung der ersten 國家人工智慧發展綱領 beauftragt. Der Risikoklassifizierungsrahmen nach Art. 16
+    ist am 07.07.2026 ergangen.
+
+    '
+  kurzbeschreibung: 'Zweites eigenständiges KI-Rahmengesetz Ostasiens nach dem südkoreanischen. Es verpflichtet
+    in 20 Artikeln ausschließlich die öffentliche Hand: Es legt sieben Governance-Grundsätze fest (Art.
+    4), definiert KI (Art. 3) in enger Anlehnung an die OECD-Definition, verpflichtet die Regierung, schädigende
+    Anwendungen zu verhindern (Art. 5 Abs. 1), sieht für als hochriskant eingestufte Produkte eine Hinweis-
+    und Warnpflicht vor (Art. 5 Abs. 2), errichtet ein Strategiekomitee beim Exekutiv-Yuan (Art. 6), regelt
+    Bildung (Art. 7), Haushalt (Art. 9), Förderung (Art. 10), Reallabore (Art. 11), Datengovernance (Art.
+    13), Datenschutz durch Voreinstellung (Art. 14), Arbeitnehmerrechte (Art. 15), eine international
+    anschlussfähige Risikoklassifizierung (Art. 16), Haftungszuordnung und Entschädigungsmechanismen für
+    Hochrisiko-KI (Art. 17), eine Zweijahresfrist zur Anpassung des gesamten Fachrechts (Art. 18) und
+    Risikobewertungspflichten für den staatlichen KI-Einsatz (Art. 19). SANKTION: keine. Das Gesetz enthält
+    weder Bußgeld- noch Straftatbestände; die Durchsetzung erfolgt über das jeweilige Fachrecht, das nach
+    Art. 18 bis zum 14.01.2028 angepasst werden muss.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-14
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=H0160093
+  anwendungsdaten:
+  - datum: 2024-07-15
+    was_gilt: 'Öffentliche Vorankündigung des Entwurfs durch den NSTC (科會前字第1130048999號), Konsultationsfrist
+      bis 13.09.2024.
+
+      '
+    verifiziert: false
+    quelle: https://law.nstc.gov.tw/LawContent.aspx?id=GL000592
+  - datum: 2025-08-28
+    was_gilt: 'Der Exekutiv-Yuan beschließt die Regierungsvorlage (民國114年8月28日) und leitet sie dem Legislativ-Yuan
+      zu; federführend ist nicht mehr der NSTC, sondern das Digitalministerium (數位發展部).
+
+      '
+    verifiziert: true
+    quelle: https://www.nstc.gov.tw/folksonomy/detail/ed981806-1852-4b63-8dfd-9eea04157971?l=ch
+  - datum: 2025-12-04
+    was_gilt: 'Fraktionsverhandlung (黨團協商會議) über die Vorlagen; Ergebnis ''協商完畢''. Fundstelle: 公報 114卷101期
+      總號5394, S. 389-418.
+
+      '
+    verifiziert: true
+    quelle: https://lis.ly.gov.tw/billtpc/dispprog
+  - datum: 2025-12-19
+    was_gilt: 'Zweite Lesung (廣泛討論 und 逐條討論) im Plenum; 公報 115卷001期 總號5400.
+
+      '
+    verifiziert: true
+    quelle: https://lis.ly.gov.tw/billtpc/dispprog
+  - datum: 2025-12-23
+    was_gilt: 'Dritte Lesung (三讀): ''完成三讀。人工智慧基本法制定通過；通過附帶決議5項'' — angenommen samt fünf begleitenden Entschließungen.
+
+      '
+    verifiziert: true
+    quelle: https://lis.ly.gov.tw/billtpc/dispprog
+  - datum: 2026-01-08
+    was_gilt: 'Der Legislativ-Yuan übermittelt die fünf begleitenden Entschließungen an die Regierung
+      (台立院議字第1140704341號).
+
+      '
+    verifiziert: false
+    quelle: https://www.ttsh.tp.edu.tw/wp-content/uploads/doc/g151/人工智慧基本法附帶決議.pdf
+  - datum: 2026-01-14
+    was_gilt: 'Verkündung durch den Präsidenten und Inkrafttreten des gesamten Gesetzes. Ab diesem Tag
+      laufen die Fristen des Art. 18 (zwei Jahre) und der begleitenden Entschließungen.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=H0160093
+  - datum: 2026-05-21
+    was_gilt: 'Der Exekutiv-Yuan nimmt den Bericht ''Durchführungsplanung zum KI-Basisgesetz'' des Digitalministeriums
+      entgegen, richtet das 國家人工智慧戰略特別委員會 nach Art. 6 ein und beauftragt den NSTC mit der ersten 國家人工智慧發展綱領.
+
+      '
+    verifiziert: true
+    quelle: https://www.ey.gov.tw/Page/9277F759E41CCD91/999df6da-6539-4941-913f-5125d684c58d
+  - datum: 2026-07-07
+    was_gilt: 'Das Digitalministerium erlässt den Risikoklassifizierungsrahmen nach Art. 16 (數位策略字第1150015933號),
+      Inkrafttreten am selben Tag.
+
+      '
+    verifiziert: true
+    quelle: https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  - datenschutz
+  - haftung
+  - arbeit
+  - sektor-oeffentlich
+  - content
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Aufbau: 20 Artikel ohne Kapitelgliederung. Art. 1-3 Zweck, Behörde, Begriff; Art. 4-5 Grundsätze
+    und Schutzauftrag; Art. 6 Strategiekomitee; Art. 7-13 Förderauftrag (Bildung, Kooperation, Haushalt,
+    Förderung, Reallabore, internationale Zusammenarbeit, Daten); Art. 14-17 Schutzauftrag (Datenschutz,
+    Arbeit, Risikoklassifizierung, Haftung); Art. 18-19 Rechtsanpassung und staatlicher KI-Einsatz; Art.
+    20 Inkrafttreten.
+
+    '
+  - '''Art. 1: Zweckbestimmung mit neun Zielen — 建設智慧國家 (Aufbau eines intelligenten Staates), 以人為本 (menschenzentriert),
+    數位平權 (digitale Gleichstellung), 保障人民基本權利, 維護國家文化價值 (Wahrung nationaler Kulturwerte), 提升國際競爭力. Satz
+    2 enthält eine Subsidiaritätsklausel: 本法未規定者，適用其他法律之規定 — was dieses Gesetz nicht regelt, richtet sich
+    nach den übrigen Gesetzen. Das ist der klassische Bauplan eines taiwanischen 基本法.''
+
+    '
+  - '''Art. 2 (BEHÖRDENARCHITEKTUR): Zentrale Behörde ist der 國家科學及技術委員會 (National Science and Technology
+    Council, NSTC), auf lokaler Ebene die Regierungen der Sonderstädte und Landkreise. Abs. 2 verweist
+    alle in die Ressortzuständigkeit fallenden Materien an die jeweiligen 目的事業主管機關 (Fachaufsichtsbehörden).
+    Diese Aufspaltung ist der Schlüssel zum Verständnis des Gesetzes: es gibt keine zentrale KI-Marktaufsicht
+    taiwanischer Prägung, sondern eine Koordinierungsbehörde (NSTC), ein operatives Ministerium (數位發展部/MODA,
+    Art. 5 und 16) und n Fachaufsichten.''
+
+    '
+  - '''Art. 3 (KI-BEGRIFF): 具自主運行能力之系統，該系統透過輸入或感測，經由機器學習 及演算法，可為明確或隱含之目標實現預測、內容、建議或決策等影響實體或虛擬環境之產出. Amtliche
+    Übersetzung: a system capable of autonomous operation, which, through input or sensing and by means
+    of machine learning and algorithms, can generate outputs such as predictions, content, recommendations,
+    or decisions that affect physical or virtual environments to achieve explicit or implicit objectives.
+    Der Text folgt erkennbar der OECD-Definition von 2023 und damit auch Art. 3 Nr. 1 KI-VO — mit einem
+    wesentlichen Unterschied: er verengt die technische Grundlage ausdrücklich auf 機器學習及演算法 (maschinelles
+    Lernen UND Algorithmen), während die KI-VO technologieneutral formuliert. Ein rein regelbasiertes
+    Expertensystem fällt nach dem Wortlaut nicht unter das taiwanische Gesetz.''
+
+    '
+  - '''Art. 4 (SIEBEN GRUNDSÄTZE): (1) 永續發展與福祉 Nachhaltigkeit und Wohlergehen, einschließlich Bildung
+    zur Verringerung digitaler Spaltung; (2) 人類自主 menschliche Autonomie, Achtung des Persönlichkeitsrechts
+    (人格權), menschliche Aufsicht, Rechtsstaatlichkeit und demokratische Werte; (3) 隱私保護與資料治理 Datenschutz
+    und Datengovernance, ausdrücklich einschließlich der Geschäftsgeheimnisse von Unternehmen (營業秘密) und
+    des Datenminimierungsgrundsatzes, zugleich Förderung der Öffnung nicht sensibler Daten; (4) 資安與安全
+    Cybersicherheit; (5) 透明與可解釋 Transparenz und Erklärbarkeit — die Ausgaben von KI sind 適當資訊揭露或標記 (angemessen
+    offenzulegen oder zu kennzeichnen); (6) 公平與不歧視; (7) 問責 Rechenschaft, ausdrücklich unterteilt in 內部治理責任
+    (interne Governance-Verantwortung) und 外部社會責任 (externe gesellschaftliche Verantwortung). Adressat
+    der Grundsätze ist nach dem Wortlaut die Regierung (政府推動人工智慧之研發與應用), nicht der Entwickler.''
+
+    '
+  - '''Art. 5 (SCHUTZAUFTRAG UND HOCHRISIKO-KENNZEICHNUNG): Abs. 1 nennt den Katalog abzuwehrender Folgen
+    — Verletzung von Leben, Körper, Freiheit oder Eigentum; Zerstörung der sozialen Ordnung, der nationalen
+    Sicherheit oder der ökologischen Umwelt; Verzerrung, Diskriminierung, irreführende Werbung, Informationsmanipulation
+    oder Fälschung. Abs. 2 ist die einzige Vorschrift des Gesetzes mit produktbezogenem Regelungsgehalt:
+    Wird ein KI-Produkt oder -System von der zuständigen Fachaufsicht IM BENEHMEN MIT DEM DIGITALMINISTERIUM
+    als Hochrisikoanwendung eingestuft, 應明確標示注意事項或警語 — sind Hinweise oder Warnhinweise deutlich anzubringen.
+    Abs. 2 stellt zugleich das Kindeswohl als Leitprinzip voran (以兒少最佳利益為原則). Abs. 3 und 4 verpflichten
+    das Digitalministerium zur Bereitstellung von Bewertungs- und Verifizierungswerkzeugen und deren Erarbeitung
+    unter Anhörung von Interessengruppen, Industrie, Wissenschaft, Zivilgesellschaft und Rechtsexperten.''
+
+    '
+  - '''Art. 6 (STRATEGIEKOMITEE): 國家人工智慧戰略特別委員會 beim Exekutiv-Yuan, einberufen vom Premierminister, besetzt
+    mit Wissenschaft, Verbänden, Industrie, Ministern ohne Geschäftsbereich, Behördenleitern und den Leitern
+    der Kommunalverwaltungen. Aufgabe: Koordinierung, Förderung und Aufsicht über sämtliche nationalen
+    KI-Angelegenheiten sowie Beschlussfassung über die 國家人工智慧發展綱領 (National AI Development Guidelines).
+    Mindestens eine Sitzung jährlich; bei plötzlichen Notlagen oder Großereignissen ist eine Sondersitzung
+    einzuberufen. Geschäftsstelle: NSTC. Das Komitee wurde am 21.05.2026 vom Premierminister förmlich
+    eingesetzt.''
+
+    '
+  - '''Art. 11 (INNOVATIONSVORRANG UND REALLABORE): Abs. 1 Satz 2 enthält eine bemerkenswerte Kollisionsregel:
+    相關法規之解釋與適用，如與其他法規扞格， 在符合本法第四條基本原則之前提下，以促進新技術與服務之提供為優先原則 — kollidieren Auslegung und Anwendung einschlägiger
+    Vorschriften mit anderen Vorschriften, gilt vorbehaltlich der Grundsätze des Art. 4 der Vorrang der
+    Förderung neuer Technologien und Dienste. Das ist ein gesetzlich angeordnetes Auslegungsprinzip zugunsten
+    der Innovation, das im europäischen Recht keine Entsprechung hat. Abs. 2 ermächtigt die Fachaufsichten
+    zur Einrichtung von Reallaboren (創新實驗環境).''
+
+    '
+  - '''Art. 13 Abs. 2 (DATEN UND GEISTIGES EIGENTUM): 政府應致力提升我國人工智慧 使用資料之品質與數量，確保訓練及產出結果足以展現國家多元文化價值與維護智慧財產權
+    — die Regierung soll Qualität und Menge der für KI genutzten Daten erhöhen und sicherstellen, dass
+    Training und Ausgabe die kulturelle Vielfalt des Landes abbilden UND das geistige Eigentum wahren.
+    Das ist die einzige urheberrechtliche Aussage des Gesetzes und zugleich der Anknüpfungspunkt für die
+    Leitlinienarbeit des TIPO.''
+
+    '
+  - '''Art. 16 (RISIKOKLASSIFIZIERUNG): Abs. 1 verpflichtet das Digitalministerium, unter Bezugnahme auf
+    internationale Standards einen mit internationalen Rahmenwerken interoperablen 人工智慧風險分類框架 zu betreiben
+    und die Fachaufsichten bei der Aufstellung risikobasierter Verwaltungsvorschriften zu unterstützen.
+    Abs. 2 verpflichtet die Fachaufsichten, dem Rahmen folgend eigene risikobasierte Vorschriften zu erlassen
+    und die Branchen bei Selbstverpflichtungen zu unterstützen; liegt ein Fall des Art. 5 Abs. 1 vor,
+    應依法令限制或禁止之 — ist er nach den Gesetzen zu beschränken oder zu verbieten. Der Verweis auf 法令 macht deutlich:
+    das Verbot folgt nicht aus diesem Gesetz, sondern aus dem jeweiligen Fachrecht.''
+
+    '
+  - '''Art. 17 (HAFTUNG): Abs. 1 — bei der Anwendung von Hochrisiko-KI soll die Regierung 明確其責任歸屬及歸責條件
+    (Haftungszuordnung und Zurechnungsvoraussetzungen klarstellen) und 救濟、補償或保險機制 (Rechtsschutz-, Entschädigungs-
+    oder Versicherungsmechanismen) errichten. Abs. 2 nimmt die Forschung und Entwicklung VOR der tatsächlichen
+    Anwendung aus, mit Rückausnahme für Tests in realer Umgebung und für die Nutzung der Entwicklungsergebnisse
+    zur Erbringung von Produkten und Diensten. Das ist eine Regelungsanweisung an den Gesetzgeber, keine
+    Anspruchsgrundlage: Ein Geschädigter kann aus Art. 17 heute nichts herleiten.''
+
+    '
+  - '''Art. 18 (ZWEIJAHRESFRIST): Abs. 1 — die Regierung hat ihr Fachrecht und ihre Verwaltungsmaßnahmen
+    zu überprüfen; wo sie diesem Gesetz widersprechen oder wo Regelungen fehlen, ist die Rechtsetzung,
+    -änderung oder -aufhebung binnen ZWEI JAHREN ab Inkrafttreten abzuschließen — Frist: 14.01.2028. Abs.
+    2 ordnet für die Übergangszeit an, dass bei Regelungslücken die zentrale Fachaufsicht im Benehmen
+    mit der zentralen Behörde (NSTC) nach diesem Gesetz auslegt und anwendet. Damit wirkt das Gesetz bereits
+    vor jeder Fachrechtsanpassung als Auslegungsmaßstab.''
+
+    '
+  - '''Art. 19 (STAATLICHER KI-EINSATZ): Abs. 1 — setzt die Regierung KI zur Aufgabenerfüllung oder Dienstleistungserbringung
+    ein, hat sie eine Risikobewertung durchzuführen und Gegenmaßnahmen zu planen. Abs. 2 — je nach Art
+    der Aufgabe sind Nutzungsvorschriften oder interne Kontrollmechanismen zu erlassen. Diese Vorschrift
+    ist die Rechtsgrundlage der Justizleitlinie des 司法院 vom 22.04.2026 und der Ressortleitlinien.''
+
+    '
+  - '''FÜNF BEGLEITENDE ENTSCHLIESSUNGEN (附帶決議, angenommen am 23.12.2025, übermittelt am 08.01.2026 mit
+    台立院議字第1140704341號): (1) Der für Technologie zuständige Minister ohne Geschäftsbereich hat das Digitalministerium
+    gemeinsam mit NSTC, Bildungs- und Gesundheitsministerium anzuweisen, binnen drei Monaten nach der
+    dritten Lesung eine Kinder- und Jugendfolgenabschätzung zum KI-Einsatz abzuschließen und zu veröffentlichen;
+    (2) entsprechend für Kinderwohl-, Menschenrechts- und Geschlechterfolgenabschätzung, jeweils mit dauerhaftem
+    Bewertungsmechanismus; (3) sämtliche staatlichen Stellen haben binnen sechs Monaten die Risikobewertung
+    ihrer bestehenden KI-gestützten Dienste abzuschließen und binnen eines Jahres Nutzungsvorschriften
+    oder interne Kontrollen einzurichten; (4) zur Infrastruktur im Sinne des Art. 10 zählen ausdrücklich
+    Rechenzentren und Energieanlagen; (5) das Bildungsministerium hat binnen sechs Monaten Leitlinien
+    zur KI-Nutzung und zum KI-Lernen für Schulen zu veröffentlichen, die Minderjährigenschutz, Informationsethik,
+    Privatsphäre und richtige Nutzung abdecken. Die Entschließungen (1), (2), (3) und (5) sind erfüllt
+    worden — die Folgenabschätzungen wurden bis Mai 2026 vorgelegt, die Schulleitlinie am 05.06.2026 erlassen.''
+
+    '
+  - '''GESETZGEBUNGSVERFAHREN — 34 VORLAGEN: Die dritte Lesung erfasste im Wege der 併案審查 (verbundene Beratung)
+    33 Abgeordneten- und Fraktionsvorlagen plus die Regierungsvorlage (20政11015829). Vorlagen unter dem
+    Titel 人工智慧基本法草案 stammten u.a. von 葛如鈞等37人, 邱若華等17人, 羅廷瑋等17人, 萬美玲等18人, 許宇甄等20人, 張嘉郡等21人, 林倩綺等23人, 邱議瑩等20人,
+    吳宗憲等17人, 賴士葆等28人, 楊瓊瓔等26人, 許智傑等27人, 林宜瑾等26人, 張雅琳等18人, 謝衣鳯等17人, 陳秀寳等25人, 林思銘等17人, 范雲等18人, 徐巧芯等16人,
+    王美惠等18人, 廖偉翔等19人, 賴瑞隆等20人, 吳沛憶等23人, 郭昱晴等19人, 林月琴等28人, 徐富癸等16人, 黃捷等17人, 邱鎮軍等22人, 陳菁徽等21人, 葉元之等18人 und
+    伍麗華Saidhai Tahovecahe等21人. Federführend berieten der Bildungs- und Kulturausschuss und der Verkehrsausschuss
+    (教育及文化、交通兩委員會) gemeinsam. Diese Zahl konkurrierender Vorlagen ist selbst ein Befund: Praktisch jede
+    Fraktion und zahlreiche einzelne Abgeordnete beider Lager hatten eine eigene Fassung eingebracht.''
+
+    '
+  - '''ABWEICHENDES REGELUNGSMODELL DER TPP: Die Fraktion der 台灣民眾黨 (Taiwan People''''s Party) legte als
+    einzige keinen Entwurf für ein 基本法 vor, sondern für ein 人工智慧發展及管理條例 (Artificial Intelligence Development
+    and Management Act) — also für ein Regelungsgesetz mit unmittelbaren Pflichten statt eines Grundsatzgesetzes.
+    Diese Fassung ist im Verfahren nicht durchgedrungen. Sie markiert die eigentliche Grundsatzentscheidung
+    des taiwanischen Gesetzgebers: Grundsätze statt Ge- und Verbote.''
+
+    '
+  - '''WAS DAS GESETZ NICHT ENTHÄLT: keine Verbotstatbestände (kein Pendant zu Art. 5 KI-VO), keine Konformitätsbewertung,
+    keine Registrierung, keine Marktüberwachungsbehörde, keine Sanktionen, keine GPAI-Vorschriften, keine
+    Transparenzpflicht des Anbieters gegenüber dem Nutzer (Art. 4 Nr. 5 richtet sich an die Regierung),
+    keine Trainingsdaten-Offenlegung, keine Regelung der Urheberrechtsschranken. Wer das Gesetz mit der
+    KI-VO vergleicht, vergleicht ein Staatszielbestimmungsgesetz mit einem Produktsicherheitsrecht.''
+
+    '
+  dokumente:
+  - datum: 2026-01-14
+    typ: endfassung
+    titel: 人工智慧基本法 — amtlicher chinesischer Volltext (全國法規資料庫)
+    url: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: 'Amtliche Gesetzessammlung. Enthält alle 20 Artikel im Wortlaut, Verkündungsdatum und Rechtskategorie.
+
+      '
+  - datum: 2026-01-14
+    typ: endfassung
+    titel: Artificial Intelligence Basic Act — amtliche englische Fassung
+    url: https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=H0160093
+    sprache: en
+    urheber: 法務部 / Laws & Regulations Database of the Republic of China (Taiwan)
+    verifiziert: true
+    notiz: 'Die amtliche englische Übersetzung ist vollständig und aktuell — im Gegensatz zur englischen
+      Fassung des Strafgesetzbuchs, die die Deepfake-Vorschriften noch nicht enthält. Für die vergleichende
+      Arbeit die maßgebliche Fundstelle.
+
+      '
+  - datum: 2026-01-14
+    typ: endfassung
+    titel: 法規沿革 — Verkündungsnachweis (華總一義字第11500001671號令)
+    url: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=H0160093
+    sprache: zh
+    urheber: 法務部
+    verifiziert: true
+    notiz: 'Einziger Eintrag der Rechtsgeschichte: ''中華民國一百十五年一月十四日 總統華總一義字第 11500001671 號令 制定公布全文 20
+      條；並自公布之日起施行''.
+
+      '
+  - datum: 2026-01-14
+    typ: endfassung
+    titel: 總統府公報 — Präsidialerlass zur Verkündung des KI-Basisgesetzes
+    url: https://www.president.gov.tw/File/Doc/80165b6d-cb49-4b49-952f-56e1e6abe51b
+    sprache: zh
+    urheber: 總統府 (Präsidialamt)
+    verifiziert: true
+    notiz: Amtsblattfassung mit Erlassdatum und Erlassnummer.
+  - datum: 2025-12-23
+    typ: abstimmung
+    titel: 立法院 審議進度 — 人工智慧基本法草案 (dritte Lesung)
+    url: https://lis.ly.gov.tw/billtpc/dispprog
+    sprache: zh
+    urheber: 立法院 (Legislativ-Yuan)
+    verifiziert: true
+    notiz: 'Amtlicher Verfahrensnachweis. Führt alle 34 verbundenen Vorlagen mit Antragsnummern auf und
+      dokumentiert den Beschluss ''完成三讀 ... 通過附帶決議5項''. Die Datenbank vergibt sitzungsgebundene URLs;
+      die Trefferseite ist über die Suche 人工智慧基本法 im Modul billtpc/dispprog erreichbar.
+
+      '
+  - datum: 2025-12-24
+    typ: pressemitteilung
+    titel: '立法院三讀通過《人工智慧基本法》 構築我國AI創新與安全治理基石 (Legislative Yuan Passes Artificial Intelligence Fundamental
+      Act in Third Reading)
+
+      '
+    url: https://moda.gov.tw/en/press/press-releases/18316
+    sprache: en
+    urheber: 數位發展部 (Ministry of Digital Affairs, MODA)
+    verifiziert: true
+    notiz: 'Amtliche englische Pressemitteilung des federführenden Ministeriums. Belegt die Übernahme
+      des Gesetzgebungsvorhabens vom NSTC (2024) auf MODA (2025) und nennt die sieben Grundsätze. Verwendet
+      den Titel ''Artificial Intelligence Fundamental Act'' — abweichend von der amtlichen Gesetzessammlung.
+
+      '
+  - datum: 2025-12-24
+    typ: pressemitteilung
+    titel: 人工智慧基本法三讀通過 — NSTC-Pressemitteilung
+    url: https://www.nstc.gov.tw/folksonomy/detail/ed981806-1852-4b63-8dfd-9eea04157971?l=ch
+    sprache: zh
+    urheber: 國家科學及技術委員會 (NSTC)
+    verifiziert: true
+    notiz: 'Zentral für das Verständnis der Behördenarchitektur: ''依我國基本法立法 體例，行政院版之人工智慧基本法原未訂主管機關'' —
+      die Regierungsvorlage sah nach diesem amtlichen Text ursprünglich überhaupt keine zuständige Behörde
+      vor. Nennt zudem das Datum des Kabinettsbeschlusses (28.08.2025).
+
+      '
+  - datum: 2026-01-08
+    typ: ausschussbericht
+    titel: 立法院函 — 人工智慧基本法附帶決議 (fünf begleitende Entschließungen)
+    url: ''
+    sprache: zh
+    urheber: 立法院
+    verifiziert: false
+    notiz: 'Schreiben 台立院議字第1140704341號. Volltext auf ly.gov.tw in dieser Sitzung nicht erreichbar (Egress-Sperre);
+      die Fassung wurde über eine weiterleitende Behördenveröffentlichung erschlossen. Fundstelle in sekundaerquelle_url.
+
+      '
+    sekundaerquelle_url: https://www.ttsh.tp.edu.tw/wp-content/uploads/doc/g151/人工智慧基本法附帶決議.pdf
+  - datum: 2024-07-15
+    typ: konsultation
+    titel: '國家科學及技術委員會公告：預告制定「人工智慧基本法」草案 (科會前字第1130048999號)
+
+      '
+    url: https://law.nstc.gov.tw/LawContent.aspx?id=GL000592
+    sprache: zh
+    urheber: 國家科學及技術委員會
+    verifiziert: false
+    notiz: 'Konsultationsfrist 15.07.2024 bis 13.09.2024. Die Entwurfsseite des NSTC-Rechtsportals (DraftOpinionContent)
+      lieferte in dieser Sitzung einen Systemfehler; die Rechtsinhaltsseite GL000592 führt die heute geltende
+      Fassung, nicht den Entwurf von 2024. Der Entwurf ist damit nur mittelbar belegt.
+
+      '
+  - datum: 2025-10-22
+    typ: bericht
+    titel: 人工智慧基本法草案評估報告 (Evaluierungsbericht, 62 Seiten)
+    url: ''
+    sprache: zh
+    urheber: 立法院法制局 / 立法院
+    verifiziert: false
+    notiz: 'Der Bericht stellt fest: ''行政院函請本院審議之「人工智慧基本法草案」共計 17 條。經本報告研析，建議修正4 條（第3 條、第4 條、第7 條及第16
+      條）並 新增1 條'' — die Regierungsvorlage hatte 17 Artikel, empfohlen wurde die Änderung von vier Artikeln
+      und die Einfügung eines weiteren. Das verabschiedete Gesetz hat 20 Artikel. Das PDF liegt auf www.ly.gov.tw
+      und war in dieser Sitzung weder über den Agent-Proxy noch über den Browser lesbar.
+
+      '
+    sekundaerquelle_url: https://www.ly.gov.tw/Pages/ashx/File.ashx?FilePath=~/File/Attach/255581/File_19861327.pdf
+  - datum: 2026-05-21
+    typ: bericht
+    titel: '落實「人工智慧基本法」 卓揆宣布成立「國家人工智慧戰略特別委員會」 並研擬首部「國家人工智慧發展綱領」
+
+      '
+    url: https://www.ey.gov.tw/Page/9277F759E41CCD91/999df6da-6539-4941-913f-5125d684c58d
+    sprache: zh
+    urheber: 行政院 (Exekutiv-Yuan), 新聞傳播處
+    verifiziert: true
+    notiz: 'Das wichtigste Umsetzungsdokument. Nennt drei gesetzliche Pflichtaufgaben mit Terminen: (1)
+      alle staatlichen Stellen haben bis Juli 2026 die Risikobewertung des dienstlichen KI-Einsatzes abzuschließen
+      und binnen eines Jahres interne Kontrollvorschriften zu erlassen; (2) ressortübergreifende Förderung
+      von Bildung, Fachkräften und Infrastruktur, MODA betreibt Risikoklassifizierung, Verifizierungswerkzeuge
+      und Datengovernance-Recht; (3) sämtliche Fachaufsichten haben BIS JANUAR 2028 für ihren Bereich
+      Verwaltungsvorschriften und Branchenleitlinien zu erlassen und die Rechtsanpassung abzuschließen.
+
+      '
+  - datum: 2026-03-23
+    typ: uebersicht
+    titel: AI 基本法｜治理與評測 — Themenseite des Digitalministeriums
+    url: https://moda.gov.tw/major-policies/ai/governance/19248.html
+    sprache: zh
+    urheber: 數位發展部
+    verifiziert: false
+    notiz: 'Sammelseite mit Volltext und begleitenden Entschließungen als PDF. In dieser Sitzung nur über
+      den IPFS-Spiegel (ipfs.moda.gov.tw) nachgewiesen; die Hauptdomain wurde nicht abgerufen.
+
+      '
+  offene_punkte:
+  - 'Die 國家人工智慧發展綱領 (National AI Development Guidelines) nach Art. 6 ist am 06.09.2026 noch nicht veröffentlicht.
+    Der NSTC erarbeitet sie; die Verabschiedung erfolgt durch das Strategiekomitee. Sie wird das eigentliche
+    Steuerungsdokument.
+
+    '
+  - 'Art. 5 Abs. 2 macht die Hinweis- und Warnpflicht von einer Einstufung als Hochrisikoanwendung durch
+    die jeweilige Fachaufsicht ''im Benehmen mit dem Digitalministerium'' abhängig. Bis heute ist keine
+    einzige solche Einstufung veröffentlicht. Die Vorschrift läuft damit vorerst leer.
+
+    '
+  - 'Art. 17 verlangt Haftungszuordnung und Entschädigungs- oder Versicherungsmechanismen für Hochrisiko-KI.
+    Kein Ressort hat dazu bisher einen Entwurf vorgelegt. Die Frist des Art. 18 (14.01.2028) gilt auch
+    hierfür.
+
+    '
+  - 'Ob die Zweijahresfrist des Art. 18 zu einer Novelle des Urheberrechtsgesetzes führt, ist offen: Das
+    TIPO hat sich in der Anhörung vom 20.07.2026 ausdrücklich gegen eine TDM-Schranke nach europäischem
+    oder japanischem Vorbild ausgesprochen (siehe tw-tipo-genai-urheberrecht).
+
+    '
+  - 'Verhältnis zum Recht der Volksrepublik China: Taiwan hat bewusst KEINE der chinesischen Kennzeichnungspflichten
+    für KI-generierte Inhalte übernommen; die einzige gesetzliche Kennzeichnungspflicht steht in § 31
+    詐欺犯罪危害防制條例 und betrifft nur Werbung auf Internet-Werbeplattformen.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093
+  - https://moda.gov.tw/press/press-releases
+  - https://www.nstc.gov.tw/folksonomy/list/c79bf57b-dc94-4aff-8d14-3262b5559cfc?l=ch
+  - https://www.ey.gov.tw/Page/9277F759E41CCD91
+  - https://lis.ly.gov.tw/billtpc/dispprog
+  bezug_regelwerke:
+  - tw-ki-risikoklassifizierung
+  - tw-ki-basisgesetz-entwurf-nstc-2024
+  - tw-ki-entwicklungs-verwaltungsgesetz-tpp
+  - tw-ey-genai-leitlinie
+  - tw-judicial-yuan-ki-leitlinie
+  - tw-moe-schul-ki-leitlinie
+  - tw-mohw-genai-krankenhaus
+  - tw-fsc-ki-leitlinie
+  - tw-urhg
+  - tw-pdpa
+  - kr-ai-framework-act
+  - jp-ki-foerderungsgesetz
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-06
+- id: tw-ki-basisgesetz-entwurf-nstc-2024
+  jurisdiktion: tw
+  kurztitel: NSTC-Entwurf eines KI-Basisgesetzes (2024)
+  offizieller_titel: 人工智慧基本法草案 (Entwurf des National Science and Technology Council)
+  fundstelle: 'Bekanntmachung des 國家科學及技術委員會 vom 15.07.2024 (民國113年7月15日), 科會前字第1130048999號, ergangen
+    auf der Grundlage eines Erlasses des Generalsekretärs des Exekutiv-Yuan vom 23.10.2023. Konsultationszeitraum
+    15.07.2024 bis 13.09.2024.
+
+    '
+  verfahrensnummer: 科會前字第1130048999號
+  status: aufgehoben
+  status_detail: 'Ersetzt. Der NSTC-Entwurf vom Juli 2024 war die erste amtliche Fassung eines taiwanischen
+    KI-Rahmengesetzes. Er wurde nach der Konsultation nicht unverändert weiterverfolgt: 2025 übernahm
+    das Digitalministerium die Federführung, überarbeitete den Text und legte ihn dem Kabinett vor, das
+    ihn am 28.08.2025 als Regierungsvorlage mit 17 Artikeln beschloss. Verabschiedet wurde am 23.12.2025
+    eine Fassung mit 20 Artikeln.
+
+    '
+  kurzbeschreibung: 'Erster amtlicher Entwurf. Er folgte bereits der Grundanlage des späteren Gesetzes
+    (Grundsatzgesetz ohne Sanktionen, sieben Governance-Grundsätze, Ressortprinzip), unterschied sich
+    aber in der Artikelzahl und — nach dem Befund des NSTC selbst — in der Frage der zuständigen Behörde:
+    Die Regierungsvorlage enthielt, dem taiwanischen Gesetzgebungsstil für 基本法 folgend, ursprünglich überhaupt
+    keine Bestimmung einer Fachaufsicht. Der Legislativ-Yuan hat den NSTC erst im Verfahren in Art. 2
+    eingesetzt. Der Entwurf ist erfasst, weil er erklärt, warum das geltende Gesetz eine so ungewöhnliche
+    Behördenarchitektur hat.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://law.nstc.gov.tw/LawContent.aspx?id=GL000592
+  anwendungsdaten:
+  - datum: 2024-07-15
+    was_gilt: Vorankündigung des Entwurfs, Beginn der Konsultation.
+    verifiziert: false
+    quelle: https://law.nstc.gov.tw/LawContent.aspx?id=GL000592
+  - datum: 2024-09-13
+    was_gilt: Ende der Konsultationsfrist (60 Tage).
+    verifiziert: false
+    quelle: https://law.nstc.gov.tw/LawContent.aspx?id=GL000592
+  - datum: 2025-08-28
+    was_gilt: 'Ersetzt durch die Regierungsvorlage des Exekutiv-Yuan (17 Artikel), federführend Digitalministerium.
+
+      '
+    verifiziert: true
+    quelle: https://www.nstc.gov.tw/folksonomy/detail/ed981806-1852-4b63-8dfd-9eea04157971?l=ch
+  themenachsen:
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Der Entwurf wurde nach dem Verfahren der amtlichen Vorankündigung öffentlich bekanntgemacht — ein
+    Konsultationsmodell, das dem deutschen Referentenentwurf mit Verbändeanhörung entspricht. Frist: 60
+    Tage.
+
+    '
+  - 'Der Evaluierungsbericht des Legislativ-Yuan vom 22.10.2025 hält fest, dass die dem Parlament zugeleitete
+    Fassung 17 Artikel hatte, und empfiehlt Änderungen an Art. 3 (KI-Begriff), Art. 4 (Grundsätze), Art.
+    7 (Bildung) und Art. 16 (Risikoklassifizierung) sowie die Einfügung eines weiteren Artikels. Das verabschiedete
+    Gesetz hat 20 Artikel; die Differenz geht auf die Ausschussberatung und die Fraktionsverhandlung zurück.
+
+    '
+  dokumente:
+  - datum: 2024-07-15
+    typ: entwurf
+    titel: 國家科學及技術委員會公告：預告制定「人工智慧基本法」草案
+    url: https://law.nstc.gov.tw/LawContent.aspx?id=GL000592
+    sprache: zh
+    urheber: 國家科學及技術委員會
+    verifiziert: false
+    notiz: 'Die Rechtsinhaltsseite GL000592 des NSTC-Rechtsportals führt heute die geltende Fassung des
+      Gesetzes; die eigentliche Entwurfsseite (law.nstc.gov.tw/DraftOpinionContent.aspx) lieferte in dieser
+      Sitzung einen Systemfehler. Bekanntmachungsdatum und Aktenzeichen sind über die Konsultationsplattform
+      join.gov.tw belegt, nicht durch direkten Abruf der Entwurfsseite.
+
+      '
+    sekundaerquelle_url: https://join.gov.tw/policies/detail/
+  offene_punkte:
+  - 'Der Volltext des NSTC-Entwurfs vom Juli 2024 (Artikelfassung) ließ sich nicht aus amtlicher Quelle
+    beschaffen. Ein artikelweiser Vergleich Entwurf 2024 / Regierungsvorlage 2025 / Gesetz 2026 steht
+    damit aus.
+
+    '
+  monitoring_quellen:
+  - https://law.nstc.gov.tw/LawContent.aspx?id=GL000592
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  letzte_pruefung: 2026-09-06
+- id: tw-ki-entwicklungs-verwaltungsgesetz-tpp
+  jurisdiktion: tw
+  kurztitel: TPP-Entwurf eines KI-Entwicklungs- und Verwaltungsgesetzes
+  offizieller_titel: 人工智慧發展及管理條例草案 (Artificial Intelligence Development and Management Act, Entwurf)
+  fundstelle: 'Vorlage der Fraktion 台灣民眾黨黨團 (Taiwan People''s Party Caucus) im Legislativ-Yuan, 11. Wahlperiode,
+    unter der Sammelnummer 院總第20號; verbunden beraten mit den Vorlagen zum 人工智慧基本法.
+
+    '
+  verfahrensnummer: 院總第20號 (Fraktionsvorlage der 台灣民眾黨黨團)
+  status: gescheitert
+  status_detail: 'Nicht durchgedrungen. Der Entwurf wurde am 19. und 23.12.2025 gemeinsam mit den 33 anderen
+    Vorlagen beraten; das Plenum verabschiedete das 人工智慧基本法, nicht das 條例. Die Vorlage ist damit erledigt.
+
+    '
+  kurzbeschreibung: 'Der einzige der 34 Entwürfe, der kein Grundsatzgesetz (基本法), sondern ein Regelungsgesetz
+    (條例) vorsah. Die Bezeichnung ist juristisch bedeutsam: Ein 基本法 richtet sich in der taiwanischen Gesetzestechnik
+    an den Staat und enthält Zielbestimmungen und Aufträge; ein 條例 ist ein Sonderfachgesetz mit unmittelbaren
+    Pflichten und regelmäßig mit Sanktionen. Der Titel ''Entwicklung UND Verwaltung'' (發展及管理) markiert
+    denselben Gegensatz wie die europäische Debatte zwischen Förderrecht und Produktregulierung. Das Scheitern
+    dieses Entwurfs ist die eigentliche Grundsatzentscheidung des taiwanischen Gesetzgebers: Taiwan hat
+    sich bewusst gegen ein Ge- und Verbotsgesetz entschieden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://lis.ly.gov.tw/billtpc/dispprog
+  anwendungsdaten:
+  - datum: 2025-12-23
+    was_gilt: 'Erledigt durch Verabschiedung des 人工智慧基本法 in der verbundenen Beratung.
+
+      '
+    verifiziert: true
+    quelle: https://lis.ly.gov.tw/billtpc/dispprog
+  themenachsen:
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - '''Die amtliche Verfahrensakte des Legislativ-Yuan führt die Vorlage wörtlich als: 台灣民眾黨黨團擬具「人工智慧發展及管理條例草案」
+    — innerhalb einer Aufzählung, in der alle übrigen Vorlagen als 「人工智慧基本法草案」 bezeichnet sind. Der Unterschied
+    ist damit amtlich dokumentiert.''
+
+    '
+  - 'Der Volltext der TPP-Vorlage ließ sich nicht beschaffen (Drucksachen auf ly.gov.tw nicht erreichbar).
+    Der Regelungsgehalt ist daher nicht erfasst; belegt ist allein die Existenz und der abweichende Gesetzestyp.
+
+    '
+  dokumente:
+  - datum: 2025-12-23
+    typ: abstimmung
+    titel: 立法院 審議進度 — verbundene Beratung, Nachweis der TPP-Vorlage
+    url: https://lis.ly.gov.tw/billtpc/dispprog
+    sprache: zh
+    urheber: 立法院
+    verifiziert: true
+    notiz: 'Der Eintrag zur dritten Lesung listet die Vorlage der TPP-Fraktion unter abweichendem Titel
+      auf und belegt damit den konkurrierenden Regelungsansatz.
+
+      '
+  offene_punkte:
+  - 'Volltext und Antragsnummer der TPP-Vorlage sind nicht ermittelt. Für einen Vergleich der Regelungsmodelle
+    wäre die Drucksache (議案關係文書) auf ppg.ly.gov.tw beizuziehen.
+
+    '
+  monitoring_quellen:
+  - https://lis.ly.gov.tw/billtpc/dispprog
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  letzte_pruefung: 2026-09-06
+- id: tw-ki-risikoklassifizierung
+  jurisdiktion: tw
+  kurztitel: KI-Risikoklassifizierungsrahmen (人工智慧風險分類框架)
+  offizieller_titel: 人工智慧風險分類框架 (v1.0) — AI Risk Classification Framework
+  fundstelle: 'Erlass des 數位發展部 (Ministry of Digital Affairs) vom 07.07.2026 (民國115年7月7日), 數位策略字第1150015933號:
+    「訂定『人工智慧風險分類框架』，並自即日生效」 — in Kraft mit dem Tag des Erlasses. Aufgenommen in das Rechtsportal des Ministeriums
+    (數位發展部主管法規共用系統, 體系: 數位策略目).
+
+    '
+  verfahrensnummer: 數位策略字第1150015933號
+  status: softlaw
+  status_detail: 'In Kraft seit dem 07.07.2026. Verwaltungsvorschrift ohne unmittelbare Außenwirkung gegenüber
+    Privaten: Der Rahmen ist nach Art. 16 Abs. 1 KI-Basisgesetz das gemeinsame Referenzraster, an dem
+    die Fachaufsichten ihre eigenen risikobasierten Verwaltungsvorschriften auszurichten haben. Verbindlich
+    wird er erst über diese Fachvorschriften, die nach Art. 18 KI-Basisgesetz bis Januar 2028 zu erlassen
+    sind.
+
+    '
+  kurzbeschreibung: 'Das materiell wichtigste Durchführungsinstrument des KI-Basisgesetzes. Anders als
+    die KI-Verordnung klassifiziert der Rahmen nicht nach RisikoSTUFEN (verboten / hoch / begrenzt / minimal),
+    sondern nach RisikoTYPEN: drei Kategorien mit insgesamt zwanzig Untertypen, die den Behörden eine
+    gemeinsame Sprache für die Risikoidentifikation geben. Dazu tritt ein vierschrittiges Verfahren (Anwendungsszenarien
+    erfassen — Risiken identifizieren — Risiken bewerten — Risiken behandeln) mit Prüfbögen. Anwendungsbereich:
+    ausschließlich zivile KI-Anwendungen (民用領域之 AI 應用); militärische Anwendungen sind ausdrücklich ausgenommen
+    und dem Verteidigungsrecht vorbehalten. Sanktion: keine.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-07
+    verifiziert: true
+    quelle: https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR
+  anwendungsdaten:
+  - datum: 2026-05-21
+    was_gilt: 'Der Exekutiv-Yuan beauftragt das Digitalministerium ausdrücklich mit der Fortführung des
+      Rahmens, der Verifizierungswerkzeuge und der Datengovernance-Rechtsetzung.
+
+      '
+    verifiziert: true
+    quelle: https://www.ey.gov.tw/Page/9277F759E41CCD91/999df6da-6539-4941-913f-5125d684c58d
+  - datum: 2026-07-07
+    was_gilt: 'Erlass und Inkrafttreten des Rahmens v1.0 (數位策略字第1150015933號).
+
+      '
+    verifiziert: true
+    quelle: https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  - sicherheit-export
+  - content
+  - urheberrecht
+  - datenschutz
+  regelungsschwerpunkte:
+  - '''Rechtsgrundlage und Zweck (Nr. 2.1): 本框架由數位發展部依據《人工智慧基本法》 第16 條訂定 — erlassen auf der Grundlage
+    des Art. 16 KI-Basisgesetz. Das ist die erste und bislang einzige förmliche Durchführungsvorschrift
+    zum Rahmengesetz.''
+
+    '
+  - '''KATEGORIE A — 「AI 系統本身之技術設計缺陷」 (technische Konstruktionsmängel des Systems selbst), acht Untertypen:
+    (A1) Sicherheitslücken und Angriffe auf das KI-System; (A2) fehlende Transparenz oder Erklärbarkeit;
+    (A3) Abweichung des KI-Verhaltens von menschlicher Absicht und gesellschaftlichen Werten; (A4) gefährliche
+    Fähigkeiten der KI; (A5) Beeinträchtigung der Privatsphäre und Verstöße gegen das Datenschutzrecht;
+    (A6) Fragen des geistigen Eigentums; (A7) unzulässige Diskriminierung oder Verzerrung; (A8) fehlerhafte
+    oder irreführende Informationen.''
+
+    '
+  - '''KATEGORIE B — 「部署後操作及人機互動問題」 (Betrieb nach dem Einsatz und Mensch-Maschine-Interaktion), sechs
+    Untertypen: (B1) Überabhängigkeit und unsichere Nutzung; (B2) Verlust menschlicher Autonomie; (B3)
+    Erzeugung rechtswidriger Inhalte; (B4) Betrug und Missbrauch von Deepfake-Technik; (B5) Einsatz in
+    Cyberangriffen; (B6) unbefugtes Verhalten von KI-Agenten. Untertyp (B6) ist bemerkenswert: Der Rahmen
+    benennt agentische KI ausdrücklich als eigenen Risikotyp.''
+
+    '
+  - '''KATEGORIE C — 「社會結構與環境衝擊」 (Auswirkungen auf Gesellschaftsstruktur und Umwelt), sechs Untertypen:
+    (C1) Ungleichgewicht der Wettbewerbsordnung zwischen Unternehmen und Staaten; (C2) Machtkonzentration
+    und ungerechte Nutzenverteilung; (C3) Verschärfung der Ungleichheit und Verschlechterung der Beschäftigungsqualität;
+    (C4) Entwertung menschlicher schöpferischer Leistung in Wirtschaft und Kultur; (C5) Umweltschäden;
+    (C6) kognitive Kriegführung und Informationssouveränität (認知作戰與資訊主權). Untertyp (C6) hat in keinem
+    westlichen Rahmenwerk eine Entsprechung und spiegelt Taiwans spezifische Bedrohungslage durch Informationsoperationen.''
+
+    '
+  - '''Vierschrittiges Verfahren: 盤點應用情境 → 識別風險 → 評估風險 → 應對風險 (Anwendungsszenarien erfassen — Risiken
+    identifizieren — Risiken bewerten — Risiken behandeln), mit Prüfbögen in den Anhängen; Anhang 1 führt
+    die zwanzig Untertypen tabellarisch, Anhang 2 die zugehörigen Maßnahmen.''
+
+    '
+  - '''Anwendungsbereich: 民用領域之 AI 應用 — zivile KI-Anwendungen. Militärische Zwecke sind ausdrücklich ausgenommen;
+    verteidigungsbezogene KI-Systeme unterliegen gesondertem Verteidigungsrecht. Das entspricht funktional
+    der Bereichsausnahme des Art. 2 Abs. 3 KI-VO, ist hier aber im untergesetzlichen Rahmen und nicht
+    im Gesetz selbst geregelt: Das KI-Basisgesetz kennt keine ausdrückliche Ausnahme für nationale Sicherheit
+    und Verteidigung.''
+
+    '
+  - '''Systemunterschied zur KI-Verordnung: Der taiwanische Rahmen ordnet Risiken keine Rechtsfolgen zu.
+    Er erzeugt keine Pflichtenkataloge, sondern ein Vokabular. Erst die Fachaufsicht entscheidet nach
+    Art. 16 Abs. 2 KI-Basisgesetz, welche Rechtsfolge sie an welchen Risikotyp knüpft. Für die vergleichende
+    Arbeit ist das der interessanteste Punkt: Taiwan trennt Risikotaxonomie und Rechtsfolge, die EU verbindet
+    beide in Anhang III.''
+
+    '
+  dokumente:
+  - datum: 2026-07-07
+    typ: leitlinie
+    titel: 人工智慧風險分類框架 (Volltext, PDF)
+    url: https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR
+    sprache: zh
+    urheber: 數位發展部 (Ministry of Digital Affairs)
+    verifiziert: true
+    notiz: 'Amtlicher Volltext mit Rechtsgrundlage, Anwendungsbereich, den drei Kategorien mit zwanzig
+      Untertypen, dem vierschrittigen Verfahren und den Prüfbögen.
+
+      '
+  - datum: 2026-07-07
+    typ: pressemitteilung
+    titel: 訂定「人工智慧風險分類框架」，並自即日生效 (行政公告)
+    url: https://moda.gov.tw/press/bulletin
+    sprache: zh
+    urheber: 數位發展部
+    verifiziert: false
+    notiz: 'Verwaltungsbekanntmachung mit Erlassdatum und Aktenzeichen 數位策略字第1150015933號. Die Einzelseite
+      der Bekanntmachung war in dieser Sitzung nicht direkt adressierbar; belegt über die Übersichtsseite
+      und das Rechtsportal des Ministeriums.
+
+      '
+  - datum: 2026-07-07
+    typ: konsolidiert
+    titel: 法規內容 — 人工智慧風險分類框架 (數位發展部主管法規共用系統)
+    url: ''
+    sprache: zh
+    urheber: 數位發展部
+    verifiziert: false
+    notiz: 'Amtliches Rechtsportal des Ministeriums, Rubrik 數位策略目, unter law.moda.gov.tw. In dieser Sitzung
+      durch eine Cloudflare-Bot-Prüfung blockiert; die konkrete Dokument-id konnte nicht verifiziert werden.
+
+      '
+    sekundaerquelle_url: https://www.leeandli.com/TW/NewslettersDetail/
+  offene_punkte:
+  - 'Der Rahmen trägt die Versionsnummer v1.0. Ob und in welchem Rhythmus er fortgeschrieben wird, ist
+    nicht geregelt. Zu beobachten.
+
+    '
+  - 'Die nach Art. 5 Abs. 3 KI-Basisgesetz vom Digitalministerium bereitzustellenden Bewertungs- und Verifizierungswerkzeuge
+    (評估驗證之工具或方法) sind noch nicht veröffentlicht.
+
+    '
+  - 'Keine der Fachaufsichten hat bisher eine ausdrücklich auf den Rahmen gestützte risikobasierte Verwaltungsvorschrift
+    nach Art. 16 Abs. 2 erlassen. Die vorhandenen Sektorleitlinien (Finanzaufsicht 2024, Gesundheitsministerium
+    2026) sind älter als der Rahmen bzw. auf ihn nicht ausdrücklich gestützt.
+
+    '
+  monitoring_quellen:
+  - https://moda.gov.tw/major-policies/ai/governance
+  - https://moda.gov.tw/press/bulletin
+  - https://law.moda.gov.tw
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-fsc-ki-leitlinie
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-06
+- id: tw-ey-genai-leitlinie
+  jurisdiktion: tw
+  kurztitel: Exekutiv-Yuan-Leitlinie zu generativer KI in der Verwaltung
+  offizieller_titel: '行政院及所屬機關（構）使用生成式AI參考指引 — Reference Guidelines for the Use of Generative AI by the
+    Executive Yuan and its Subordinate Agencies
+
+    '
+  fundstelle: 'Beschluss der Kabinettssitzung des 行政院 vom 31.08.2023 (民國112年8月31日); Rundschreiben (函頒)
+    nach mehreren weiterleitenden Behördenmitteilungen am 03.10.2023 (民國112年10月3日), ''self即日生效'' — mit
+    sofortiger Wirkung. Erarbeitet vom 國家科學及技術委員會 gemeinsam mit zwölf Ressorts sowie Technik- und Rechtssachverständigen.
+    Zehn Nummern.
+
+    '
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'In Kraft und angewandt. Verwaltungsvorschrift ohne Außenwirkung (參考指引 — Referenzleitlinie).
+    Sie ist der älteste KI-spezifische Rechtsakt Taiwans und lag zweieinhalb Jahre vor dem KI-Basisgesetz.
+    Nach dessen Art. 19 Abs. 2 haben die Ressorts nunmehr eigene, an der Aufgabenart ausgerichtete Nutzungsvorschriften
+    zu erlassen; die Leitlinie bleibt daneben Auffangregelung und ausdrücklicher Bezugspunkt für die Regelwerke
+    von Judikative (2026) und anderen Verfassungsorganen.
+
+    '
+  kurzbeschreibung: 'Die Leitlinie bindet sämtliche Stellen des Exekutiv-Yuan und seiner nachgeordneten
+    Behörden und Einrichtungen beim dienstlichen Einsatz generativer KI. Kernaussagen: Verantwortungsbewusster
+    und vertrauenswürdiger Einsatz; Beachtung von Informationssicherheit, Datenschutz, Urheberrecht und
+    Informationsnutzungsregeln; Bewusstsein für die Gefahr der Verletzung von Immaterialgüter- und Persönlichkeitsrechten;
+    Wahrung von Autonomie und Kontrolle. Nr. 9 erstreckt die Geltung im Wege der entsprechenden Anwendung
+    (準用) auf weitere Einrichtungen, Nr. 10 ermächtigt andere Verfassungsorgane, sich an ihr zu orientieren.
+    Genau davon hat das 司法院 im Jahr 2026 Gebrauch gemacht. Sanktion: keine; Verstöße werden dienstrechtlich
+    behandelt.
+
+    '
+  inkrafttreten:
+    datum: 2023-08-31
+    verifiziert: true
+    quelle: https://www.ey.gov.tw/Page/448DE008087A1971/40c1a925-121d-4b6b-8f40-7e9e1a5401f2
+  anwendungsdaten:
+  - datum: 2023-08-31
+    was_gilt: 'Beschluss der Leitlinie in der Kabinettssitzung des Exekutiv-Yuan (院會議案).
+
+      '
+    verifiziert: true
+    quelle: https://www.ey.gov.tw/Page/448DE008087A1971/40c1a925-121d-4b6b-8f40-7e9e1a5401f2
+  - datum: 2023-10-03
+    was_gilt: 'Förmliches Rundschreiben an die Behörden, Geltung ab sofort. Dieses Datum tragen die weiterleitenden
+      Mitteilungen nachgeordneter Stellen und die Rechtsdatenbank rootlaw (LawID A040030001028300-1121003).
+
+      '
+    verifiziert: false
+    quelle: https://www.rootlaw.com.tw/LawContent.aspx?LawID=A040030001028300-1121003
+  - datum: 2026-01-14
+    was_gilt: 'Mit Inkrafttreten des KI-Basisgesetzes tritt Art. 19 als gesetzliche Grundlage neben die
+      Leitlinie; die Ressorts sind nunmehr gesetzlich zur Risikobewertung und zum Erlass eigener Nutzungsvorschriften
+      verpflichtet.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  - urheberrecht
+  regelungsschwerpunkte:
+  - '''Aufbau: Zweck (Nr. 1), zu beachtende Punkte beim Einsatz generativer KI (Nr. 2 bis 8), entsprechend
+    anwendende Einrichtungen (Nr. 9), Ermächtigung anderer Behörden zur Aufstellung eigener Regeln unter
+    Anlehnung an diese Leitlinie (Nr. 10).''
+
+    '
+  - '''Nr. 7 (in der Fassung, die die weiterleitenden Behördenmitteilungen zitieren): 使用生成式 AI 應遵守資通安全、個人資料保護、著作權及相關資訊使用規定，
+    並注意其侵害智慧財產權與人格權之可能性。各機關得依使用生成式 AI 之設備及業務性質， 訂定使用生成式 AI 之規範或內控管理措施 — beim Einsatz generativer KI sind
+    die Vorschriften über Informationssicherheit, Datenschutz, Urheberrecht und Informationsnutzung einzuhalten
+    und die Möglichkeit der Verletzung von Immaterialgüter- und Persönlichkeitsrechten zu beachten; die
+    Behörden können nach Art der Geräte und Aufgaben eigene Vorschriften oder interne Kontrollmaßnahmen
+    erlassen. Diese Nummer ist der Vorläufer des heutigen Art. 19 Abs. 2 KI-Basisgesetz.''
+
+    '
+  - 'Leitbegriffe der Leitlinie sind Sicherheit (安全性), Privatheit und Datengovernance (隱私性、資料治理), Rechenschaft
+    (問責) sowie Autonomie und Kontrolle (自主權與控制權). Der NSTC hat zugesagt, die Leitlinie rollierend an die
+    internationale Entwicklung anzupassen (滾動調整).
+
+    '
+  - 'Bedeutung für die Rechtsvergleichung: Die Leitlinie ist funktional das taiwanische Gegenstück zur
+    italienischen Art. 14 Legge 132/2025 und zu den Verwaltungs-KI-Vorgaben des griechischen N. 4961/2022
+    — nur eben zweieinhalb Jahre früher und ohne Gesetzesrang.
+
+    '
+  dokumente:
+  - datum: 2023-08-31
+    typ: leitlinie
+    titel: 行政院及所屬機關（構）使用生成式AI參考指引 (Kabinettsvorlage)
+    url: https://www.ey.gov.tw/Page/448DE008087A1971/40c1a925-121d-4b6b-8f40-7e9e1a5401f2
+    sprache: zh
+    urheber: 行政院 / 國家科學及技術委員會
+    verifiziert: true
+    notiz: 'Amtliche Seite des Exekutiv-Yuan zur Kabinettsvorlage mit Gesamtbegründung und Regelungstext.
+
+      '
+  - datum: 2023-10-03
+    typ: leitlinie
+    titel: 行政院及所屬機關（構）使用生成式AI參考指引 — Volltext und FAQ
+    url: https://www.nstc.gov.tw/folksonomy/list/c79bf57b-dc94-4aff-8d14-3262b5559cfc?l=ch
+    sprache: zh
+    urheber: 國家科學及技術委員會
+    verifiziert: false
+    notiz: 'Themenseite des NSTC mit ''總說明及規定'' und ''FAQ''. Die Sammelseite ist die dauerhafte Fundstelle
+      für Volltext und Auslegungshilfen.
+
+      '
+  offene_punkte:
+  - 'Die Datierung ist uneinheitlich: Kabinettsbeschluss 31.08.2023, Rundschreiben 03.10.2023. Welches
+    Datum als Erlassdatum zu führen ist, lässt sich ohne Einsicht in das Originalrundschreiben nicht abschließend
+    klären.
+
+    '
+  - 'Ob die Leitlinie nach Inkrafttreten des KI-Basisgesetzes überarbeitet oder durch eine auf Art. 19
+    gestützte Vorschrift ersetzt wird, ist offen. Der Exekutiv-Yuan hat am 21.05.2026 lediglich Fristen
+    für die Ressorts gesetzt, ohne die Leitlinie selbst anzupassen.
+
+    '
+  monitoring_quellen:
+  - https://www.nstc.gov.tw/folksonomy/list/c79bf57b-dc94-4aff-8d14-3262b5559cfc?l=ch
+  - https://www.ey.gov.tw/Page/448DE008087A1971
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-judicial-yuan-ki-leitlinie
+  - tw-moe-schul-ki-leitlinie
+  letzte_pruefung: 2026-09-06
+- id: tw-judicial-yuan-ki-leitlinie
+  jurisdiktion: tw
+  kurztitel: Justiz-Leitlinie zum KI-Einsatz (司法院-Leitlinie 2026)
+  offizieller_titel: '司法院及所屬各機關使用人工智慧系統參考指引 — Reference Guidelines on the Use of Artificial Intelligence
+    Systems by the Judicial Yuan and its Subordinate Agencies
+
+    '
+  fundstelle: 'Rundschreiben (函頒) des 司法院 (Judicial Yuan) vom 22.04.2026 (民國115年4月22日). Bekanntgabe in
+    司法周刊 第2311期 第1版 vom 05.06.2026; Nachweis der Rechtsetzung in der Rubrik 法制動態 des 司法周刊: 「司法院115年4月22日訂定『司法院及所屬各機關使用人工智慧系統參考指引』」.
+
+    '
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'In Kraft seit dem 22.04.2026 und in der Gerichtspraxis angewandt: Mehrere Instanzgerichte
+    (臺中地院, 南投地院, 士林地院, 金門高分院) berufen sich in ihren Fortbildungsmitteilungen seit Mai 2026 ausdrücklich
+    auf sie. Das 司法院 hat angekündigt, die Leitlinie fortzuschreiben (適時調整指引). Verwaltungsvorschrift ohne
+    Außenwirkung gegenüber den Verfahrensbeteiligten; für die Richterschaft dienstrechtlich verbindlich.
+
+    '
+  kurzbeschreibung: 'Eine der weltweit wenigen ausdrücklichen Regelungen des KI-Einsatzes durch Gerichte,
+    und die bislang klarste in Ostasien. Sie enthält drei Regelungsblöcke: ein absolutes Eingabeverbot
+    für geschützte und nicht öffentliche Verfahrensdaten in nicht genehmigte KI-Systeme; eine funktionale
+    Begrenzung der KI auf das Hilfsmittel (審判輔助工具) mit einem Kernbereichsvorbehalt zugunsten des Richters;
+    und eine Kompetenzanforderung an den Nutzer. Sanktion: keine eigene; Verstöße betreffen die Amts-
+    und Verschwiegenheitspflichten und können dienstaufsichtlich geahndet werden.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-22
+    verifiziert: true
+    quelle: https://www.judicial.gov.tw/tw/cp-1429-1559552-524e3-1.html
+  anwendungsdaten:
+  - datum: 2026-04-22
+    was_gilt: Erlass der Leitlinie durch Rundschreiben des 司法院.
+    verifiziert: true
+    quelle: https://www.judicial.gov.tw/tw/cp-1429-1559552-524e3-1.html
+  - datum: 2026-06-05
+    was_gilt: 'Amtliche Bekanntgabe in 司法周刊 第2311期 第1版 unter der Überschrift 「兼顧科技創新與資通安全」.
+
+      '
+    verifiziert: true
+    quelle: https://www.judicial.gov.tw/tw/cp-1429-1559552-524e3-1.html
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - '''EINGABEVERBOT: 涉及受法律保護之機密資訊、個人資料或未對公眾公開之訴訟資料 （如未公開之起訴書、書狀、筆錄、法庭錄音、調查訪視紀錄、裁判草稿等）， 禁止輸入、上傳或以任何形式提供予非經司法院核准或核備使用之人工智慧系統
+    — gesetzlich geschützte Geheimnisse, personenbezogene Daten und nicht öffentliche Verfahrensunterlagen
+    (namentlich unveröffentlichte Anklageschriften, Schriftsätze, Protokolle, Gerichtsaufzeichnungen,
+    Ermittlungs- und Besuchsprotokolle sowie Entscheidungsentwürfe) dürfen nicht in KI-Systeme eingegeben,
+    hochgeladen oder auf sonstige Weise übermittelt werden, die nicht vom 司法院 genehmigt oder gebilligt
+    sind. Bemerkenswert ist die ausdrückliche Erfassung des ENTSCHEIDUNGSENTWURFS (裁判草稿) — genau der Anwendungsfall,
+    den das 司法院 selbst mit seinem Projekt zur KI-gestützten Erstellung strafrechtlicher Entscheidungsentwürfe
+    erprobt hatte.''
+
+    '
+  - '''FUNKTIONALE BEGRENZUNG: 本指引將人工智慧系統定位為「審判輔助工具」，其功能僅限於 協助法官進行資料檢索、摘要分析及輔助作業流程優化 — die Leitlinie ordnet
+    KI-Systeme als Hilfsmittel der Rechtsprechung ein; ihre Funktion ist beschränkt auf die Unterstützung
+    des Richters bei Recherche, zusammenfassender Analyse und Optimierung von Arbeitsabläufen.''
+
+    '
+  - '''KERNBEREICHSVORBEHALT: 至於證據價值之判斷、事實認定、法律適用或量刑等核心工作， 仍須由法官親自為之 — die Kernaufgaben, nämlich die Beurteilung
+    des Beweiswerts, die Tatsachenfeststellung, die Rechtsanwendung und die Strafzumessung, hat der Richter
+    persönlich vorzunehmen. Das ist wortgleich die Linie des italienischen Art. 15 Abs. 1 Legge 132/2025
+    (jede Entscheidung über Auslegung und Anwendung des Gesetzes bleibt dem Richter vorbehalten) und des
+    kolumbianischen Acuerdo PCSJA24-12243 (Art. 8), aber mit einem zusätzlichen Element: Die taiwanische
+    Fassung nennt die STRAFZUMESSUNG (量刑) ausdrücklich mit, weil in Taiwan KI-gestützte Strafzumessungsdatenbanken
+    seit Jahren im Einsatz sind.''
+
+    '
+  - '''KI-KOMPETENZ: 同仁於公務使用人工智慧系統前，應具備人工智慧基本知識與素養， 充分瞭解系統之功能限制、倫理規範及潛在風險 — vor dem dienstlichen Einsatz
+    müssen die Bediensteten über KI-Grundkenntnisse verfügen und die Funktionsgrenzen, die ethischen Vorgaben
+    und die potenziellen Risiken des Systems vollständig verstehen. Funktional das Pendant zu Art. 4 KI-VO
+    (KI-Kompetenz).''
+
+    '
+  - '''BEGRÜNDUNGSANSATZ: Die amtliche Mitteilung begründet die Zurückhaltung damit, dass 各國司法針對人工智慧之應用普遍採取較為審慎之態度
+    (die Justizverwaltungen weltweit gehen mit KI überwiegend vorsichtig um) und dass 司法案件具高度機敏性 (Justizsachen
+    sind hochsensibel), sowie mit dem Satz 司法公信力仍是不可動搖的基石 — die Glaubwürdigkeit der Justiz bleibt der
+    unverrückbare Grundstein.''
+
+    '
+  - 'Systematische Einordnung: Die Leitlinie ist Ausfluss des Art. 19 KI-Basisgesetz, formal aber ein
+    Akt der richterlichen Selbstverwaltung — das 司法院 ist eines der fünf Yuan und dem Exekutiv-Yuan nicht
+    unterstellt. Die Regelung war durch Nr. 10 der Exekutiv-Yuan-Leitlinie von 2023 bereits angelegt,
+    die andere Verfassungsorgane ausdrücklich zur Anlehnung ermächtigt hatte.
+
+    '
+  dokumente:
+  - datum: 2026-06-05
+    typ: leitlinie
+    titel: '兼顧科技創新與資通安全 — 司法院函頒司法院及所屬各機關使用人工智慧系統參考指引
+
+      '
+    url: https://www.judicial.gov.tw/tw/cp-1429-1559552-524e3-1.html
+    sprache: zh
+    urheber: 司法院 參事室 (Judicial Yuan, Councillors' Office)
+    verifiziert: true
+    notiz: 'Amtliche Bekanntgabe in 司法周刊 第2311期 第1版. Enthält die drei Regelungsblöcke der Leitlinie im
+      Wortlaut referiert. Wichtigste zugängliche Fundstelle; der Leitlinientext selbst wird auf der Seite
+      nicht als Anlage geführt.
+
+      '
+  - datum: 2026-04-22
+    typ: uebersicht
+    titel: 司法周刊 法制動態 — Rechtsetzungsnachweis vom 22.04.2026
+    url: https://www.judicial.gov.tw/tw/cp-1429-1559552-524e3-1.html
+    sprache: zh
+    urheber: 司法院
+    verifiziert: false
+    notiz: 'Die Rubrik 法制動態 des 司法周刊 führt den Erlass unter dem Datum 115年4月22日 gemeinsam mit zwei weiteren
+      Verwaltungsvorschriften auf. Die Rubrikseite konnte nicht einzeln adressiert werden.
+
+      '
+  offene_punkte:
+  - 'Der Volltext der Leitlinie ist nicht öffentlich abrufbar. Die Regelungsinhalte sind über die amtliche
+    Bekanntgabe des 司法院 belegt, der Wortlaut der einzelnen Nummern nicht.
+
+    '
+  - 'Die Leitlinie verweist auf ''vom 司法院 genehmigte oder gebilligte'' KI-Systeme. Eine Liste dieser Systeme
+    ist nicht veröffentlicht.
+
+    '
+  - 'Ob die Leitlinie auch für Rechtsanwälte und sonstige externe Nutzer Wirkungen entfaltet (etwa über
+    Verfahrensordnungen), ist nicht geregelt; sie bindet nach ihrem Wortlaut nur die Bediensteten des
+    司法院 und der nachgeordneten Gerichte.
+
+    '
+  monitoring_quellen:
+  - https://www.judicial.gov.tw/tw/cp-1429-1.html
+  - https://www.judicial.gov.tw/tw/np-117-1.html
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-ey-genai-leitlinie
+  - it-legge-132-2025
+  - co-pcsja24-12243
+  letzte_pruefung: 2026-09-06
+- id: tw-moe-schul-ki-leitlinie
+  jurisdiktion: tw
+  kurztitel: Schul-KI-Leitlinie des Bildungsministeriums (2026)
+  offizieller_titel: '高級中等以下學校人工智慧使用和學習指引 — Guidelines on the Use of and Learning about Artificial Intelligence
+    in Schools at and below the Senior Secondary Level
+
+    '
+  fundstelle: 'Erlass des 教育部 (Ministry of Education) vom 05.06.2026 (民國115年6月5日), 臺教資（一）字第1152701618號函,
+    ergangen ausdrücklich in Ausführung der fünften begleitenden Entschließung des Legislativ-Yuan zum
+    人工智慧基本法.
+
+    '
+  verfahrensnummer: 臺教資（一）字第1152701618號
+  status: softlaw
+  status_detail: 'In Kraft seit dem 05.06.2026, an die Schulverwaltungen weitergeleitet ab dem 12.06.2026.
+    Sie tritt neben die bereits bestehenden Instrumente des Ministeriums (中小學數位教學指引 3.0 vom August 2024,
+    中小學使用生成式人工智慧注意事項 2.1, 中小學生成式AI之學習應用手冊) und ist die erste, die unmittelbar auf das KI-Basisgesetz zurückgeht.
+
+    '
+  kurzbeschreibung: 'Die Leitlinie richtet sich getrennt an Schulleitungen, Lehrkräfte, Schülerinnen und
+    Schüler sowie Eltern und beschreibt für jede Rolle, wie KI sicher, angemessen und verantwortlich genutzt
+    wird. Sie stellt die körperliche und geistige Entwicklung und den Schutz Minderjähriger in den Mittelpunkt
+    (重視未成年人之身心發展與保護), verlangt Nutzung unter angemessener Anleitung und Begleitung, integriert Informationsethik
+    und verbindet Datenschutz mit Informationssicherheit. Sanktion: keine; Umsetzung über die Schulaufsicht.
+
+    '
+  inkrafttreten:
+    datum: 2026-06-05
+    verifiziert: true
+    quelle: https://unfps.ntct.edu.tw/p/404-1066-499881.php
+  anwendungsdaten:
+  - datum: 2025-12-23
+    was_gilt: 'Der Legislativ-Yuan beschließt mit der fünften begleitenden Entschließung zum KI-Basisgesetz,
+      dass das Bildungsministerium binnen sechs Monaten Leitlinien zur KI-Nutzung und zum KI-Lernen an
+      Schulen zu veröffentlichen hat (Minderjährigenschutz, Informationsethik, Privatsphäre und Sicherheit,
+      richtige Nutzung).
+
+      '
+    verifiziert: false
+    quelle: https://www.ttsh.tp.edu.tw/wp-content/uploads/doc/g151/人工智慧基本法附帶決議.pdf
+  - datum: 2026-06-05
+    was_gilt: 'Erlass der Leitlinie (臺教資（一）字第1152701618號) — die Frist der Entschließung ist damit gewahrt.
+
+      '
+    verifiziert: true
+    quelle: https://unfps.ntct.edu.tw/p/404-1066-499881.php
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - '''Rechtsgrundlage im Weiterleitungsschreiben ausdrücklich benannt: 依據教育部115年6月5日臺教資（一）字第1152701618號函及立法院第11屆第4會期
+    第14次會議制定「人工智慧基本法」通過之附帶決議第5項事項辦理 — die Leitlinie ergeht auf der Grundlage des Ministerialerlasses und
+    der fünften begleitenden Entschließung des Legislativ-Yuan zum KI-Basisgesetz. Das ist der seltene
+    Fall einer parlamentarischen Entschließung, deren Erfüllung sich urkundlich nachweisen lässt.''
+
+    '
+  - '''Rollendifferenzierung: Die Leitlinie behandelt getrennt 校長 (Schulleitung), 教師 (Lehrkräfte), 學生
+    (Schülerinnen und Schüler) und 家長 (Eltern) — ein Regelungsansatz, der in europäischen Bildungs-KI-Leitlinien
+    unüblich ist.''
+
+    '
+  - '''Leitprinzipien: 重視未成年人之身心發展與保護，強調在適當引導與陪伴下使用人工智慧； 同時融入資訊倫理觀念，培養正確使用態度與責任意識，兼顧隱私保護與資訊安全 — Schutz
+    der körperlichen und geistigen Entwicklung Minderjähriger, Nutzung nur unter angemessener Anleitung
+    und Begleitung, Vermittlung von Informationsethik, Aufbau einer verantwortungsbewussten Nutzungshaltung,
+    Datenschutz und Informationssicherheit zugleich.''
+
+    '
+  - 'Verhältnis zu Art. 5 Abs. 2 KI-Basisgesetz: Dieser stellt das Kindeswohl (兒少最佳利益) als Leitprinzip
+    an den Anfang der Hochrisiko-Kennzeichnung. Die Schul-Leitlinie ist die erste konkrete Ausfüllung
+    dieses Prinzips.
+
+    '
+  - 'Bestehende Vorläuferinstrumente des Ministeriums, die neben der neuen Leitlinie fortgelten: 中小學數位教學指引
+    (1.0 von 2022, 3.0 vom August 2024), 中小學使用生成式人工智慧注意事項 2.1 (Fassungen für Lehrkräfte, Verwaltungspersonal
+    und Eltern) sowie das 中小學生成式AI之學習應用手冊.
+
+    '
+  dokumente:
+  - datum: 2026-06-05
+    typ: leitlinie
+    titel: 教育部「高級中等以下學校人工智慧使用和學習指引」 (Weiterleitungsschreiben mit Anlage)
+    url: https://unfps.ntct.edu.tw/p/404-1066-499881.php
+    sprache: zh
+    urheber: 教育部 (Ministry of Education), weitergeleitet durch eine Schulbehörde
+    verifiziert: true
+    notiz: 'Enthält Erlassdatum, Aktenzeichen und den ausdrücklichen Bezug auf die fünfte begleitende
+      Entschließung zum KI-Basisgesetz. Die Ministeriumsseite selbst war in dieser Sitzung nicht auffindbar;
+      die Weiterleitung einer öffentlichen Schule ist die belastbarste zugängliche Fundstelle für Datum
+      und Aktenzeichen.
+
+      '
+  - datum: 2026-06-05
+    typ: leitlinie
+    titel: 教育部「高級中等以下學校人工智慧使用和學習指引」 (Inhaltsdarstellung)
+    url: https://ypjhs.ntct.edu.tw/p/404-1032-499929.php?Lang=zh-tw
+    sprache: zh
+    urheber: 教育部, weitergeleitet
+    verifiziert: false
+    notiz: 'Zweite Weiterleitung mit wörtlicher Wiedergabe der Leitprinzipien.
+
+      '
+  offene_punkte:
+  - 'Der Volltext der Leitlinie und ihre Fundstelle auf moe.gov.tw konnten nicht ermittelt werden. Erfasst
+    sind Erlassdatum, Aktenzeichen, Rechtsgrundlage und Leitprinzipien.
+
+    '
+  monitoring_quellen:
+  - https://depart.moe.edu.tw/ED2700/
+  - https://www.moe.gov.tw
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-ey-genai-leitlinie
+  letzte_pruefung: 2026-09-06
+- id: tw-urhg
+  jurisdiktion: tw
+  kurztitel: Urheberrechtsgesetz Taiwan (著作權法)
+  offizieller_titel: 著作權法 — Copyright Act
+  fundstelle: 'Erstmals verkuendet am 14.05.1928 (民國17年5月14日); geltende Fassung nach 22 Novellen, zuletzt
+    15.06.2022 (民國111年6月15日), 華總一經字第11100049761號 (§§ 46, 47, 48 geaendert, § 46-1 eingefuegt). Die Novelle
+    vom 04.05.2022 (華總一經字第11100037471號, §§ 91, 91-1, 100, 117 geaendert, §§ 98, 98-1 gestrichen) ist bis
+    heute nicht in Kraft: ihr Inkrafttreten bestimmt der Exekutiv-Yuan und hat es bis zum 06.09.2026 nicht
+    getan. Rechtskategorie: 行政 ＞ 經濟部 ＞ 智慧財產權目.
+
+    '
+  verfahrensnummer: null
+  status: teilanwendbar
+  status_detail: 'Anwendbar mit einer offenen Teilstelle: Die Strafrechtsnovelle vom 04.05.2022 ist mangels
+    Bestimmung des Inkrafttretens durch den Exekutiv-Yuan seit vier Jahren nicht in Kraft. Fuer KI ist
+    das Gesetz unveraendert: Es kennt KEINE Schranke fuer Text und Data Mining, keine Regelung KI-erzeugter
+    Ausgaben und keine Opt-out-Vorschrift. Die Zweijahresfrist des Art. 18 KI-Basisgesetz (14.01.2028)
+    erfasst auch das Urheberrechtsgesetz; das TIPO hat bis zum 06.09.2026 keinen Novellierungsentwurf
+    vorgelegt.
+
+    '
+  kurzbeschreibung: 'Taiwans Urheberrecht ist ein Mischsystem: kontinentaleuropaeische Werkkategorien
+    und Urheberpersoenlichkeitsrechte, aber eine Fair-Use-Generalklausel nach US-Vorbild (§ 65) mit den
+    vier Faktoren des 17 U.S.C. § 107. Fuer KI folgt daraus ein anderer Streitstand als in der EU: Es
+    gibt keine TDM-Schranke, ueber die man streiten koennte, sondern eine offene Abwaegungsklausel, deren
+    Anwendung auf das Training generativer Modelle bisher weder Gesetzgeber noch Gerichte entschieden
+    haben. Sanktion: Das Gesetz ist in weiten Teilen Strafrecht — § 91 stellt die unbefugte Vervielfaeltigung
+    mit bis zu drei, bei Verkaufsabsicht mit bis zu fuenf Jahren Freiheitsstrafe unter Strafe. Schutzfaehigkeit
+    KI-erzeugter Ausgaben: nach der Auslegung des TIPO nur bei tatsaechlichem menschlichem Schoepfungsbeitrag.
+
+    '
+  inkrafttreten:
+    datum: 1928-05-14
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0070017
+  anwendungsdaten:
+  - datum: 2022-05-04
+    was_gilt: 'Novelle der Strafvorschriften (§§ 91, 91-1, 100, 117; Streichung §§ 98, 98-1). Inkrafttreten
+      durch den Exekutiv-Yuan zu bestimmen — bis 06.09.2026 nicht bestimmt.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0070017
+  - datum: 2022-06-15
+    was_gilt: 'Letzte in Kraft getretene Novelle: Neufassung der Bildungsschranken §§ 46, 47, 48 und Einfuegung
+      des § 46-1 (Fernunterricht).
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0070017
+  themenachsen:
+  - urheberrecht
+  - content
+  - gpai
+  regelungsschwerpunkte:
+  - '''FAIR USE STATT TDM-SCHRANKE: § 65 Abs. 2 uebernimmt die vier Faktoren des US-Rechts woertlich und
+    erstreckt sie ausdruecklich auf "sonstige Faelle angemessener Nutzung" ausserhalb der Schrankenkataloge
+    der §§ 44 bis 63. Taiwan ist damit die einzige ostasiatische Rechtsordnung mit einer offenen Fair-Use-Generalklausel
+    — Japan hat Art. 30-4 UrhG, Korea eine enumerative Schranke, die Volksrepublik ebenfalls. Wer in Taiwan
+    fuer das Training argumentiert, argumentiert mit US-Dogmatik, nicht mit europaeischer.''
+
+    '
+  - '''KEINE OPT-OUT-VORSCHRIFT: Das Gesetz kennt kein Aequivalent zu Art. 4 Abs. 3 DSM-RL. Ein Rechtsvorbehalt
+    des Rechtsinhabers hat im taiwanischen Urheberrecht keine gesetzliche Wirkung; er kann allenfalls
+    im Rahmen des ersten und vierten Faktors des § 65 Abs. 2 beruecksichtigt werden.''
+
+    '
+  - '''§ 22 ABS. 3 ALS EINZIGE TECHNISCHE AUSNAHME: Voruebergehende Vervielfaeltigungen sind vom Vervielfaeltigungsrecht
+    ausgenommen, wenn sie bei rechtmaessiger Netzuebermittlung oder rechtmaessiger Werknutzung technisch
+    notwendig, fluechtig oder begleitend sind und keine eigenstaendige wirtschaftliche Bedeutung haben.
+    Computerprogramme sind ausgenommen. Die Vorschrift traegt das Trainingskopieren nicht: Das Einlesen
+    in einen Trainingsdatensatz ist weder fluechtig noch ohne eigenstaendige wirtschaftliche Bedeutung.''
+
+    '
+  - '''§ 10-1 (Idea-expression-Dichotomie) ist die Norm, an der die Behauptung eines Urheberrechtsschutzes
+    an Prompts scheitert: geschuetzt ist nur die Ausdrucksform, nicht das Verfahren, das System oder die
+    Betriebsmethode.''
+
+    '
+  - '''STRAFRECHTLICHE DURCHSETZUNG: § 91 (Vervielfaeltigung), § 92 (oeffentliche Uebertragung) und §
+    87 (fiktive Verletzungen) machen das Urheberrecht zum Anknuepfungspunkt der Staatsanwaltschaft. Fuer
+    KI-Anbieter bedeutet das ein anderes Risikoprofil als in Europa: nicht Schadensersatz, sondern Anklage.''
+
+    '
+  dokumente:
+  - datum: 2022-06-15
+    typ: konsolidiert
+    titel: 著作權法 — amtlicher chinesischer Volltext (全國法規資料庫)
+    url: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung mit allen 117 Artikeln.
+  - datum: 2022-06-15
+    typ: konsolidiert
+    titel: Copyright Act — amtliche englische Fassung
+    url: https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=J0070017
+    sprache: en
+    urheber: 法務部
+    verifiziert: false
+    notiz: 'Die englische Fassung der Gesetzessammlung; im Rahmen dieser Sitzung nur die chinesische Einzelnormseite
+      abgerufen.
+
+      '
+  - datum: 2022-06-15
+    typ: uebersicht
+    titel: 著作權法 沿革 — Rechtsgeschichte mit 22 Novellen
+    url: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0070017
+    sprache: zh
+    urheber: 法務部
+    verifiziert: true
+    notiz: 'Belegt, dass die Novelle vom 04.05.2022 bis heute nicht in Kraft gesetzt worden ist — ein
+      Beispiel dafuer, wie lange in Taiwan die Bestimmung des Inkrafttretens durch den Exekutiv-Yuan dauern
+      kann. Fuer die Prognose zur Frist des Art. 18 KI-Basisgesetz relevant.
+
+      '
+  offene_punkte:
+  - 'Ob das Training generativer Modelle auf geschuetzten Werken unter § 65 faellt, ist in Taiwan weder
+    gesetzlich noch gerichtlich geklaert. Bis zum 06.09.2026 existiert keine einzige taiwanische Entscheidung
+    dazu.
+
+    '
+  - 'Ob die Zweijahresfrist des Art. 18 KI-Basisgesetz (14.01.2028) zu einer Urheberrechtsnovelle fuehrt,
+    ist offen. Das TIPO hat bis heute keinen Entwurf vorgelegt.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017
+  - https://www.tipo.gov.tw/tw/cp-85-855816-e5f22-1.html
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-tipo-genai-urheberrecht
+  - tw-patentgesetz
+  letzte_pruefung: 2026-09-06
+- id: tw-patentgesetz
+  jurisdiktion: tw
+  kurztitel: Patentgesetz Taiwan (專利法)
+  offizieller_titel: 專利法 — Patent Act
+  fundstelle: 'Neufassung vom 21.12.2011 (民國100年12月21日), in Kraft seit 01.01.2013; zuletzt geaendert am
+    04.05.2022 (民國111年5月4日), 華總一經字第11100037451號 (Einfuegung des § 60-1), in Kraft seit 01.07.2022 (行政院院臺經字第1110017213號).
+    Rechtskategorie: 行政 ＞ 經濟部 ＞ 智慧財產權目.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Vollstaendig anwendbar. Das Gesetz enthaelt keine KI-spezifische Vorschrift. Die KI-Frage
+    ist in Taiwan durch Rechtsprechung geklaert: Erfinder muss eine natuerliche Person sein; ein KI-System
+    kann nicht Erfinder sein (智慧財產及商業法院 110年度行專訴字第3號 und 第4號; 最高行政法院 111年度上字第55號 und 110年度上字第813號).
+
+    '
+  kurzbeschreibung: 'Taiwans Patentgesetz kennt drei Schutzrechte (Erfindung, Gebrauchsmuster, Design).
+    Fuer KI sind vier Vorschriften massgeblich: § 5 Abs. 2 (Recht auf das Patent steht dem Erfinder zu),
+    § 21 (Erfindung als Schoepfung technischer Ideen unter Nutzung von Naturgesetzen), § 22 (Neuheit und
+    erfinderische Taetigkeit) und § 26 (Offenbarung, die den Fachmann zur Ausfuehrung befaehigt). Auf
+    dieser Grundlage hat das TIPO 2020 zwei Anmeldungen von Stephen Thaler, die das KI-System DABUS als
+    Erfinder benannten, nach § 17 Abs. 1 als nicht angenommen behandelt; beide Instanzenzuege sind rechtskraeftig
+    gegen den Anmelder ausgegangen. SANKTION: keine Strafvorschrift fuer die Falschbenennung; die Folge
+    ist die Nichtannahme der Anmeldung.
+
+    '
+  inkrafttreten:
+    datum: 2013-01-01
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0070007
+  anwendungsdaten:
+  - datum: 2022-07-01
+    was_gilt: 'Inkrafttreten des § 60-1 (Verhaeltnis von Patentnichtigkeitsverfahren und Arzneimittelzulassung),
+      festgesetzt durch den Exekutiv-Yuan am 13.06.2022.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0070007
+  themenachsen:
+  - urheberrecht
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - '''§ 5 Abs. 2: Anmeldeberechtigt ist der Erfinder, Gebrauchsmusterschoepfer oder Designer bzw. dessen
+    Rechtsnachfolger. Aus der Uebertragbarkeit und Vererblichkeit des Anmelderechts (§§ 6 Abs. 1, 7 Abs.
+    4) folgert die Rechtsprechung, dass der Erfinder Rechtsfaehigkeit besitzen muss — und damit natuerliche
+    Person sein muss.''
+
+    '
+  - '''NAMENSNENNUNGSRECHT ALS PERSOENLICHKEITSRECHT: Die 專利法施行細則 §§ 16, 31 und 83 verlangen die Angabe
+    von Name und Staatsangehoerigkeit des Erfinders in Anmeldung und Veroeffentlichungsblatt. Das TIPO
+    leitet daraus in seiner 專利法逐條釋義 zu § 5 ab: "由於法人之研發工作，係透過自然人 進行，所以本法所稱之發明人、新型創作人及設計人，均僅限於自然人." Das
+    專利審查基準 Teil 1 Kap. 1-2-1 sagt es ausdruecklich: 發明人必為自然人.''
+
+    '
+  - '''§ 17 Abs. 1 ist die verfahrensrechtliche Schaltstelle: wird eine gesetzte Frist zur Nachreichung
+    versaeumt, wird die Anmeldung nicht angenommen (不予受理). Ueber diesen Weg — nicht ueber eine materielle
+    Zurueckweisung — hat das TIPO die DABUS-Anmeldungen erledigt.''
+
+    '
+  - '''§ 26 (Offenbarung) ist der Pruefungsmassstab, an dem KI-gestuetzte Erfindungen scheitern koennen:
+    die Beschreibung muss den Fachmann in die Lage versetzen, die Erfindung auszufuehren. Bei trainierten
+    Modellen ist umstritten, ob die Angabe von Architektur und Trainingsdaten dafuer genuegt. Taiwanische
+    Rechtsprechung dazu gibt es bis zum 06.09.2026 nicht.''
+
+    '
+  dokumente:
+  - datum: 2022-05-04
+    typ: konsolidiert
+    titel: 專利法 — amtlicher chinesischer Volltext (全國法規資料庫)
+    url: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070007
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung, 159 Artikel.
+  - datum: 2022-05-04
+    typ: uebersicht
+    titel: 專利法 沿革 — Rechtsgeschichte
+    url: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0070007
+    sprache: zh
+    urheber: 法務部
+    verifiziert: true
+    notiz: Belegt Verkuendungs- und Inkrafttretensdaten aller Novellen.
+  offene_punkte:
+  - 'Ob KI-gestuetzte, aber menschlich veranlasste Erfindungen einen besonderen Offenbarungsmassstab nach
+    § 26 erfordern, ist in Taiwan ungeklaert.
+
+    '
+  - 'Das TIPO hat bis zum 06.09.2026 keine Pruefungsrichtlinie zu KI-gestuetzten Erfindungen veroeffentlicht,
+    wie sie EPA, USPTO und JPO haben.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070007
+  - https://www.tipo.gov.tw/
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-urhg
+  letzte_pruefung: 2026-09-06
+- id: tw-pdpa
+  jurisdiktion: tw
+  kurztitel: Datenschutzgesetz Taiwan (個人資料保護法, PDPA)
+  offizieller_titel: 個人資料保護法 — Personal Data Protection Act
+  fundstelle: 'Urspruenglich 電腦處理個人資料保護法 vom 11.08.1995 (民國84年8月11日); Umbenennung und Neufassung am 26.05.2010
+    (民國99年5月26日), in Kraft seit 01.10.2012. Zuletzt geaendert am 11.11.2025 (民國114年11月11日), 華總一經字第11400114521號.
+    Rechtskategorie: 行政 ＞ 個人資料保護委員會籌備處 ＞ 通用目.
+
+    '
+  verfahrensnummer: 'Regierungsvorlage des Exekutiv-Yuan vom 27.03.2025 (民國114年3月27日); dritte Lesung im
+    立法院院會第11屆第4會期第5次會議 am 17.10.2025.
+
+    '
+  status: teilanwendbar
+  status_detail: 'Das Gesetz in seiner Fassung von 2015 ist anwendbar. Die beiden entscheidenden Novellen
+    sind es NICHT: § 1-1 (Zustaendigkeit der 個人資料保護委員會), eingefuegt am 31.05.2023, und das gesamte Paket
+    vom 11.11.2025 (Meldepflicht bei Datenschutzvorfaellen, Datenschutz- beauftragte der Behoerden, Beschraenkung
+    internationaler Transfers, Audit- und Pruefbefugnisse, neues Kapitel III-1) treten erst in Kraft,
+    wenn der Exekutiv-Yuan das Datum bestimmt. Das setzt nach amtlicher Auskunft der Vorbereitungsstelle
+    die Verabschiedung des noch nicht beschlossenen 個人資料保護委員會組織法 voraus. Bis dahin bleibt es bei der dezentralen
+    Aufsicht durch die jeweiligen Fachaufsichten — die das 最高行政法院 am 07.08.2026 ausdruecklich bestaetigt
+    hat.
+
+    '
+  kurzbeschreibung: 'Taiwans Datenschutzgesetz ist aelter als die DSGVO und folgt einer anderen Grundstruktur:
+    keine zentrale Aufsichtsbehoerde, sondern dezentrale Aufsicht durch die Fachaufsichten (分散式管理); keine
+    Rechtsgrundlagensystematik nach Art. 6 DSGVO, sondern getrennte Kataloge fuer oeffentliche (§§ 15,
+    16) und nichtoeffentliche Stellen (§§ 19, 20); und — fuer KI entscheidend — KEIN Recht auf Nichtunter-
+    werfung unter automatisierte Entscheidungen und KEIN Anspruch auf Auskunft ueber die Entscheidungslogik.
+    Das taiwanische Recht kennt kein Aequivalent zu Art. 22 DSGVO. SANKTION: Bussgelder von 20.000 bis
+    200.000 NTD (§ 48) und, was in der Praxis wichtiger ist, die Strafvorschrift des § 41 mit Freiheitsstrafe
+    bis zu fuenf Jahren und Geldstrafe bis zu 1.000.000 NTD — die in KI-Faellen regelmaessig die schwerste
+    Norm der Idealkonkurrenz ist.
+
+    '
+  inkrafttreten:
+    datum: 2012-10-01
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=I0050021
+  anwendungsdaten:
+  - datum: 2016-03-15
+    was_gilt: 'Inkrafttreten der Novelle vom 30.12.2015 (§§ 6 bis 8, 11, 15, 16, 19, 20, 41, 45, 53, 54),
+      festgesetzt durch den Exekutiv-Yuan am 25.02.2016 (院臺法字第1050154280號).
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=I0050021
+  - datum: 2023-05-31
+    was_gilt: 'Einfuegung des § 1-1 (Zustaendigkeit der 個人資料保護委員會) sowie Verschaerfung des § 48. § 48
+      gilt ab Verkuendung, § 1-1 erst nach Bestimmung durch den Exekutiv-Yuan — bis 06.09.2026 nicht bestimmt.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=I0050021
+  - datum: 2024-01-01
+    was_gilt: 'Uebergang der Zustaendigkeiten nach §§ 53 und 55 vom 國家發展委員會 auf die 個人資料保護委員會籌備處 (Bekanntmachung
+      vom 28.12.2023, 發法字第1122002856號 / 個資籌法字第1120400005號).
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=I0050021
+  - datum: 2025-10-17
+    was_gilt: 'Dritte Lesung der Novelle im Legislativ-Yuan (114-10-17). Sie begruendet Meldepflichten
+      bei Datenschutzvorfaellen, eine einheitliche Grundverordnung zur Datensicherheit, den behoerdlichen
+      Datenschutzbeauftragten (個資保護長), die Beschraenkung internationaler Datentransfers sowie Audit- und
+      Pruefbefugnisse.
+
+      '
+    verifiziert: true
+    quelle: https://www.pdpc.gov.tw/News_Content/20/1001/
+  - datum: 2025-11-11
+    was_gilt: 'Verkuendung der Novelle (華總一經字第11400114521號). Inkrafttreten durch den Exekutiv-Yuan zu
+      bestimmen — am 06.09.2026 nicht bestimmt.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=I0050021
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - '''KEIN ART. 22 DSGVO: Das PDPA kennt weder ein Verbot noch eine Beschraenkung automatisierter Einzelentscheidungen
+    und keinen Anspruch auf Erlaeuterung der Entscheidungslogik. § 3 zaehlt fuenf unverzichtbare Betroffenenrechte
+    auf — Auskunft, Kopie, Berichtigung, Unterlassung, Loeschung — und keines davon erfasst die Logik
+    einer algorithmischen Entscheidung. Diese Luecke ist der Grund, weshalb Art. 14 KI-Basisgesetz auf
+    "Datenschutz durch Voreinstellung und Technikgestaltung" ausweicht statt auf Betroffenenrechte.''
+
+    '
+  - '''§ 19 Abs. 1 Nr. 7 (Daten aus allgemein zugaenglichen Quellen) ist die Vorschrift, auf die sich
+    Web Scraping fuer Trainingszwecke in Taiwan stuetzen muesste. Sie steht unter einem Interessenvorbehalt
+    zugunsten des Betroffenen und wird durch die Loeschpflicht des Abs. 2 flankiert: Widerspricht der
+    Betroffene, ist die Verarbeitung einzustellen. Das ist ein gesetzliches Opt-out — nicht im Urheberrecht,
+    sondern im Datenschutzrecht.''
+
+    '
+  - '''§ 41 ALS SCHWERSTE NORM: Wer in Schaedigungsabsicht gegen § 20 Abs. 1 verstoesst, wird mit Freiheitsstrafe
+    bis zu fuenf Jahren und Geldstrafe bis 1.000.000 NTD bestraft. Weil § 319-4 Abs. 2 StGB nur bis 500.000
+    NTD reicht, ist in der taiwanischen Praxis bei KI-Deepfakes das Datenschutzstrafrecht die schwerere
+    Norm — mit der Folge, dass Gerichte aus der Idealkonkurrenz heraus nach § 41 PDPA verurteilen und
+    nicht nach dem Deepfake-Tatbestand (臺灣新竹地方法院 115年度訴字第339號; 臺灣臺北地方法院 115年度訴字第41號).''
+
+    '
+  - '''DEZENTRALE AUFSICHT: § 22 Abs. 1 weist die Aufsicht ueber nichtoeffentliche Stellen den zentralen
+    Fachaufsichten und den Kommunen zu. Das 最高行政法院 hat am 07.08.2026 entschieden, dass die Befugnisse
+    aus §§ 27 und 48 — anders als die aus §§ 22 bis 26 — NICHT auf nachgeordnete Behoerden uebertragen
+    werden koennen. Fuer die KI-Aufsicht bedeutet das: Auch die Befugnisse aus Art. 5 Abs. 2 und Art.
+    16 KI-Basisgesetz sind bei der jeweiligen zentralen Fachaufsicht selbst angesiedelt.''
+
+    '
+  - '''§ 6 Abs. 1 Nr. 4 (Forschungsprivileg fuer besondere Datenkategorien) ist die Grundlage der taiwanischen
+    Gesundheitsdatennutzung. Sie war Gegenstand der Verfassungsgerichtsentscheidung 111年憲判字第13號 (2022),
+    die die Errichtung einer unabhaengigen Aufsichtsbehoerde und einen Widerspruchsmechanismus verlangte
+    — der Ausloeser fuer § 1-1 und die 個人資料保護委員會.''
+
+    '
+  dokumente:
+  - datum: 2025-11-11
+    typ: konsolidiert
+    titel: 個人資料保護法 — amtlicher chinesischer Volltext (全國法規資料庫)
+    url: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: 'Enthaelt die noch nicht in Kraft getretenen Vorschriften mit ausdruecklichem Hinweis auf den
+      ausstehenden Inkrafttretensbeschluss des Exekutiv-Yuan.
+
+      '
+  - datum: 2025-11-11
+    typ: uebersicht
+    titel: 個人資料保護法 沿革 — Rechtsgeschichte mit fuenf Novellen
+    url: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=I0050021
+    sprache: zh
+    urheber: 法務部
+    verifiziert: true
+    notiz: 'Belegt die Verkuendungsnummer 華總一經字第11400114521號 und den offenen Inkrafttretensvorbehalt.
+
+      '
+  - datum: 2025-10-17
+    typ: pressemitteilung
+    titel: 立法院三讀通過「個人資料保護法」部分條文修正草案
+    url: https://www.pdpc.gov.tw/News_Content/20/1001/
+    sprache: zh
+    urheber: 個人資料保護委員會籌備處
+    verifiziert: true
+    notiz: 'Zentrale amtliche Quelle. Nennt das Datum der Regierungsvorlage (27.03.2025), erklaert die
+      vier Regelungsbloecke der Novelle und stellt fest, dass die foermliche Errichtung der Kommission
+      erst nach Verabschiedung des Organisationsgesetzes moeglich ist, dessen Entwurf im Rechtsausschuss
+      die erste Lesung passiert hat.
+
+      '
+  - datum: 2026-08-07
+    typ: bericht
+    titel: 最高行政法院 114年度上字第193號判決 — Reichweite der PDPA-Aufsichtsbefugnisse
+    url: https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPAA,114,%E4%B8%8A,193,20260807,1
+    sprache: zh
+    urheber: 最高行政法院
+    verifiziert: true
+    notiz: 'Hoechstrichterliche Bestaetigung der dezentralen Aufsichtsarchitektur und des Delegationsverbots
+      fuer §§ 27 und 48.
+
+      '
+  offene_punkte:
+  - 'Das 個人資料保護委員會組織法 ist am 06.09.2026 noch nicht verabschiedet. Solange es fehlt, kann weder die Kommission
+    errichtet noch die Novelle vom 11.11.2025 in Kraft gesetzt werden. Taiwan hat damit seit ueber drei
+    Jahren ein Datenschutzgesetz, dessen Aufsichtsbehoerde auf dem Papier steht.
+
+    '
+  - 'Ob die Novelle eine Rechtsgrundlage fuer KI-Training schafft, ist offen: Die veroeffentlichten Regelungspunkte
+    betreffen Aufsicht und Sicherheit, nicht die Zulaessigkeit der Verarbeitung.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021
+  - https://www.pdpc.gov.tw/
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-strafgesetzbuch
+  - tw-betrugsbekaempfungsgesetz
+  letzte_pruefung: 2026-09-06
+- id: tw-strafgesetzbuch
+  jurisdiktion: tw
+  kurztitel: Strafgesetzbuch Taiwan (中華民國刑法), Kapitel 28-1
+  offizieller_titel: 中華民國刑法 — Criminal Code of the Republic of China
+  fundstelle: 'Verkuendet 01.01.1935 (民國24年1月1日); die hier massgeblichen §§ 319-1 bis 319-6 und das Kapitel
+    28-1 妨害性隱私及不實性影像罪 wurden durch die Novelle vom 08.02.2023 (民國112年2月8日), 華總一義字第11200007241號, eingefuegt
+    und traten mit der Verkuendung in Kraft; zugleich wurde § 10 um die Definition des 性影像 (Abs. 8) ergaenzt.
+    Letzte Novelle des Gesetzes: 22.07.2026 (民國115年7月22日).
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Anwendbar seit 08.02.2023. Das Kapitel 28-1 ist die einzige Stelle des taiwanischen
+    Strafrechts mit einem ausdruecklichen Deepfake-Tatbestand. Er ist auf sexuelle Bilder beschraenkt;
+    ein allgemeiner Straftatbestand fuer Deepfakes existiert nicht. Politische Deepfakes werden ueber
+    § 104 Abs. 2 選罷法 erfasst, kommerzielle ueber § 339-4 und § 31 詐欺犯罪危害防制條例.
+
+    '
+  kurzbeschreibung: 'Taiwan hat im Februar 2023 — vor der KI-VO, vor dem daenischen Modell und vor dem
+    US-amerikanischen TAKE IT DOWN Act — ein eigenes Strafrechtskapitel gegen sexualisierte Deepfakes
+    geschaffen. § 319-4 stellt das Herstellen unwahrer sexueller Bilder einer anderen Person durch Computersynthese
+    oder andere technische Methoden in Verbreitungsabsicht unter Strafe (bis fuenf Jahre, bis 500.000
+    NTD); Abs. 2 stellt das blosse Verbreiten gleich, Abs. 3 erhoeht bei Gewinnerzielungsabsicht auf sieben
+    Jahre und 700.000 NTD. § 319-5 ordnet die zwingende Einziehung an. Anders als § 319-1 Abs. 1 und §
+    319-3 Abs. 1 ist § 319-4 ein Offizialdelikt (§ 319-6 e contrario) — das Opfer muss keinen Strafantrag
+    stellen. SANKTION: Freiheitsstrafe und Geldstrafe wie beschrieben, zuzueglich Einziehung.
+
+    '
+  inkrafttreten:
+    datum: 2023-02-08
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=C0000001
+  anwendungsdaten:
+  - datum: 2023-02-08
+    was_gilt: 'Inkrafttreten des Kapitels 28-1 (§§ 319-1 bis 319-6) und der Definition des 性影像 in § 10
+      Abs. 8. Nur § 91-1 trat spaeter (01.07.2023) in Kraft.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=C0000001
+  - datum: 2023-05-31
+    was_gilt: 'Novelle der Betrugsvorschriften (§ 339-4) und Einfuegung des § 302-1 (華總一義字第11200045431號).
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=C0000001
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - '''TATBESTANDSTECHNIK: § 319-4 knuepft nicht an "KI" an, sondern an "Computersynthese oder andere
+    technische Methoden" (以電腦合成或其他 科技方法). Das ist technikneutral und erfasst auch Photomontagen ohne maschinelles
+    Lernen. Die taiwanische Gesetzgebung hat damit den Fehler vermieden, den Tatbestand an eine Technikgeneration
+    zu binden.''
+
+    '
+  - '''ANKNUEPFUNG AN § 10 ABS. 8: Der Begriff des 性影像 ist eng definiert (Geschlechtsverkehr, Geschlechtsteile
+    oder objektiv sexuell erregende bzw. schamverletzende Koerperpartien und Handlungen). Ein Deepfake,
+    der eine Person nur in einer kompromittierenden, aber nicht sexuellen Situation zeigt, faellt nicht
+    darunter.''
+
+    '
+  - '''OFFIZIALDELIKT: § 319-6 macht nur § 319-1 Abs. 1 und § 319-3 Abs. 1 samt Versuch antragsabhaengig.
+    § 319-4 ist damit von Amts wegen zu verfolgen — ein bewusst strengerer Massstab fuer synthetische
+    als fuer echte Aufnahmen.''
+
+    '
+  - '''PRAKTISCHE NACHRANGIGKEIT: In der Rechtsprechung tritt § 319-4 in der Idealkonkurrenz regelmaessig
+    hinter § 41 PDPA zurueck, weil dessen Geldstrafrahmen hoeher ist. Die Gerichte verurteilen dann wegen
+    unbefugter Nutzung personenbezogener Daten — mit der Folge, dass die Deepfake-Vorschrift in den Urteilstenoren
+    kaum sichtbar wird (臺灣新竹地方法院 115年度訴字第339號 vom 12.06.2026).''
+
+    '
+  - '''§ 339-4 (qualifizierter Betrug) ist die Norm, unter der KI-gestuetzter Anlagebetrug mit gefaelschten
+    Prominentenvideos abgeurteilt wird. Ob Nr. 4 auf KI-erzeugte Inhalte beschraenkt ist, war Gegenstand
+    des Streits im Verfahren 臺灣高等法院 115年度上訴字第3891號.''
+
+    '
+  dokumente:
+  - datum: 2023-02-08
+    typ: endfassung
+    titel: 中華民國刑法 第 319-4 條 — amtlicher Volltext
+    url: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0000001&flno=319-4
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: Der Deepfake-Tatbestand im Wortlaut.
+  - datum: 2023-02-08
+    typ: uebersicht
+    titel: 中華民國刑法 沿革 — Nachweis der Novelle Nr. 50
+    url: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=C0000001
+    sprache: zh
+    urheber: 法務部
+    verifiziert: true
+    notiz: 'Eintrag 50 belegt: ''中華民國一百十二年二月八日總統華總一義字第 11200007241 號令修正公布第 10、91-1 條條文；增訂第 319-1～319-6
+      條條文及第二編第二十八章之一 章名''.
+
+      '
+  - datum: 2023-02-08
+    typ: konsolidiert
+    titel: Criminal Code of the Republic of China — amtliche englische Fassung
+    url: https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=C0000001
+    sprache: en
+    urheber: 法務部
+    verifiziert: false
+    notiz: 'Die englische Fassung der Gesetzessammlung enthaelt nach dem Befund des Vorgaengers die Deepfake-Vorschriften
+      noch nicht. In dieser Sitzung nicht nachgeprueft.
+
+      '
+  offene_punkte:
+  - 'Ein allgemeiner Deepfake-Straftatbestand ausserhalb des sexuellen Bereichs und des Wahlrechts fehlt.
+    Wer ein Deepfake-Video eines Unternehmers oder Beamten erstellt, ist nur ueber Ehrschutzdelikte (§§
+    309 ff.), Urkundenfaelschung (§§ 210, 220 Abs. 2) oder das PDPA zu fassen.
+
+    '
+  - 'Ob der Regelungsauftrag des Art. 18 KI-Basisgesetz (Frist 14.01.2028) zu einer Erweiterung des Kapitels
+    28-1 fuehrt, ist offen; das Justizministerium hat bis 06.09.2026 keinen Entwurf vorgelegt.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000001
+  bezug_regelwerke:
+  - tw-pdpa
+  - tw-wahlgesetz
+  - tw-betrugsbekaempfungsgesetz
+  - tw-ki-basisgesetz
+  letzte_pruefung: 2026-09-06
+- id: tw-wahlgesetz
+  jurisdiktion: tw
+  kurztitel: Wahl- und Abberufungsgesetz (公職人員選舉罷免法)
+  offizieller_titel: 公職人員選舉罷免法 — Public Officials Election and Recall Act
+  fundstelle: 'Verkuendet 14.05.1980 (民國69年5月14日); die Deepfake- und Werbetransparenzvorschriften wurden
+    durch die grosse Novelle vom 09.06.2023 (民國112年6月9日), 華總一義字第11200050131號, eingefuegt (u.a. §§ 51-1
+    bis 51-3, 104-1; Neufassung des § 104). Zuletzt geaendert am 01.07.2026 (民國115年7月1日). Rechtskategorie:
+    行政 ＞ 內政部 ＞ 民政目.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Anwendbar seit 09.06.2023. Die Deepfake-Qualifikation des § 104 Abs. 2 galt erstmals
+    fuer die Wahlen zum Praesidenten und zum Legislativ-Yuan am 13.01.2024 und fuer die Abberufungswellen
+    2025. Bis zum 06.09.2026 ist in der amtlichen Entscheidungsdatenbank keine rechtskraeftige Verurteilung
+    nach § 104 Abs. 2 nachweisbar; die Vorschrift wird in Wahlstrafverfahren zitiert, die Verurteilungen
+    ergehen aber nach Abs. 1 oder nach § 41 PDPA.
+
+    '
+  kurzbeschreibung: 'Taiwan hat 2023 als eine der ersten Rechtsordnungen weltweit einen besonderen Straftatbestand
+    fuer politische Deepfakes geschaffen. § 104 Abs. 2 erhoeht die Strafe fuer die Verbreitung unwahrer
+    Tatsachen in Wahlbeeinflussungsabsicht von fuenf auf SIEBEN Jahre, wenn sie durch Verbreiten, Senden
+    oder Zugaenglichmachen deepgefaelschter Stimme, Bilder oder elektromagnetischer Aufzeichnungen des
+    Kandidaten, Abberufungsbetroffenen oder Initiators geschieht; Abs. 3 erhoeht bei Gewinnerzielungsabsicht
+    um bis zur Haelfte und stellt eine Geldstrafe von 2 bis 10 Mio. NTD daneben. Flankierend verpflichten
+    §§ 51-1 und 51-2 Medien und Internetdiensteanbieter zur Auftraggeberpruefung, zum Verbot auslaendischer
+    und festlandchinesischer Auftraege und zu einer vierjaehrigen Aufbewahrung des Werbearchivs samt Targeting-Parametern.
+    § 113 Abs. 3 ordnet bei jeder Freiheitsstrafe zwingend die Aberkennung der buergerlichen Ehrenrechte
+    an.
+
+    '
+  inkrafttreten:
+    datum: 1980-05-14
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020010
+  anwendungsdaten:
+  - datum: 2023-06-09
+    was_gilt: 'Inkrafttreten der Deepfake-Qualifikation (§ 104 Abs. 2 und 3), der Werbetransparenzvorschriften
+      (§§ 51-1 bis 51-3) und des § 104-1.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020010
+  - datum: 2024-01-13
+    was_gilt: 'Erste Wahl unter der neuen Rechtslage (Praesidentschafts- und Parlamentswahl).
+
+      '
+    verifiziert: false
+    quelle: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=104
+  - datum: 2026-01-21
+    was_gilt: 'Novelle vom 21.01.2026 (華總一義字第11500003931號): §§ 57, 70 bis 71, 73 geaendert — Wahlorganisation,
+      nicht KI-bezogen.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020010
+  themenachsen:
+  - content
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - '''SIEBEN JAHRE FUER POLITISCHE DEEPFAKES: § 104 Abs. 2 ist strenger als jede Deepfake-Vorschrift
+    der EU-Mitgliedstaaten und strenger als § 319-4 StGB Taiwan. Der Strafrahmen von sieben Jahren steht
+    neben dem Grundtatbestand von fuenf Jahren; die Qualifikation setzt voraus, dass das Material den
+    KANDIDATEN SELBST zeigt — Deepfakes Dritter oder fiktiver Personen fallen nicht darunter.''
+
+    '
+  - '''GEGENSTAND DER QUALIFIKATION sind ausdruecklich 聲音、影像、電磁紀錄 (Stimme, Bilder, elektromagnetische
+    Aufzeichnungen). Reiner Text ist nicht erfasst — eine von einem Sprachmodell erfundene Aussage in
+    Textform bleibt beim Grundtatbestand.''
+
+    '
+  - '''AUSLANDSBEZUG: § 51-1 verbietet Medien und Internetdiensteanbietern, Wahlwerbung mittelbar oder
+    unmittelbar im Auftrag auslaendischer, festlandchinesischer sowie hongkonger und macauischer Personen
+    und Einrichtungen zu schalten, und verpflichtet zur Pruefung samt schriftlicher Versicherung des Auftraggebers.
+    Das ist der taiwanische Zuschnitt des Problems: nicht Desinformation als solche, sondern Desinformation
+    aus der Volksrepublik.''
+
+    '
+  - '''WERBEARCHIV MIT TARGETING-PARAMETERN: § 51-2 verlangt die vierjaehrige Aufbewahrung der Anzeigendatei,
+    der eingestellten Zielgruppen und Bedingungen sowie der Versicherung. Die Ausfuehrungsverordnung erlaesst
+    die zentrale Wahlkommission. Das entspricht funktional dem Anzeigenarchiv der VO (EU) 2024/900.''
+
+    '
+  - '''ZWINGENDE EHRENRECHTSABERKENNUNG: § 113 Abs. 3 ist lex specialis zu § 37 Abs. 2 StGB und greift
+    ohne die dortige Mindeststrafschwelle von einem Jahr — auch bei einer Freiheitsstrafe von fuenf Monaten,
+    wie das 臺灣南投地方法院 am 19.08.2026 entschieden hat.''
+
+    '
+  dokumente:
+  - datum: 2023-06-09
+    typ: endfassung
+    titel: 公職人員選舉罷免法 第 104 條 — amtlicher Volltext
+    url: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=104
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: Deepfake-Qualifikation im Wortlaut.
+  - datum: 2023-06-09
+    typ: endfassung
+    titel: 公職人員選舉罷免法 第 51-1 條 und 第 51-2 條 — Werbetransparenz
+    url: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=51-2
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: 'Aufbewahrungspflicht fuer Werbearchiv und Targeting-Parameter, vier Jahre.
+
+      '
+  - datum: 2026-07-01
+    typ: uebersicht
+    titel: 公職人員選舉罷免法 沿革 — 38 Novellen
+    url: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020010
+    sprache: zh
+    urheber: 法務部
+    verifiziert: true
+    notiz: 'Eintrag 35 belegt die Novelle vom 09.06.2023 mit Verkuendungsnummer und dem vollstaendigen
+      Aenderungsumfang.
+
+      '
+  offene_punkte:
+  - 'Ob § 104 Abs. 2 bereits angewandt worden ist, liess sich am 06.09.2026 nicht belegen. Die Volltextsuche
+    in der amtlichen Entscheidungsdatenbank findet die Vorschrift nur als zitierten Gesetzestext, nicht
+    im Tenor.
+
+    '
+  - 'Fuer die Praesidentschaftswahl gilt die Parallelvorschrift des 總統副總統選舉罷免法; sie wurde nicht geprueft.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010
+  - https://www.cec.gov.tw/
+  bezug_regelwerke:
+  - tw-strafgesetzbuch
+  - tw-betrugsbekaempfungsgesetz
+  - tw-ki-basisgesetz
+  letzte_pruefung: 2026-09-06
+- id: tw-betrugsbekaempfungsgesetz
+  jurisdiktion: tw
+  kurztitel: Betrugsbekaempfungsgesetz (詐欺犯罪危害防制條例)
+  offizieller_titel: 詐欺犯罪危害防制條例 — Fraud Crime Hazard Prevention Act
+  fundstelle: 'Verkuendet 31.07.2024 (民國113年7月31日), 華總一義字第11300068891號, 58 Artikel. Die meisten Vorschriften
+    gelten seit dem Tag der Verkuendung; §§ 19, 20, 22, 24 seit 30.11.2024 (行政院院臺打詐字第 1131032356號); §
+    39 Abs. 2 bis 5 (Verkehrssteuerung, DNS-Sperre, Zugangsbeschraenkung) und § 40 Abs. 1 Nr. 6 harren
+    weiterhin der Bestimmung durch den Exekutiv-Yuan. Zuletzt geaendert 21.01.2026 (民國115年1月21日), 華總一義字第11500003941號.
+    Rechtskategorie: 行政 ＞ 內政部 ＞ 警政目.
+
+    '
+  verfahrensnummer: null
+  status: teilanwendbar
+  status_detail: 'Ueberwiegend anwendbar. §§ 30 und 31 — die fuer KI massgeblichen Vorschriften — gelten
+    seit dem 31.07.2024. Die Netzsperrenvorschriften des § 39 Abs. 2 bis 5 sind am 06.09.2026 weiterhin
+    nicht in Kraft.
+
+    '
+  kurzbeschreibung: 'Das Betrugsbekaempfungsgesetz vom Juli 2024 enthaelt die einzige Legaldefinition
+    des Deepfake und die einzige gesetzliche Kennzeichnungspflicht fuer KI-erzeugte Inhalte im taiwanischen
+    Recht — und zwar nicht im Medien- oder KI-Recht, sondern im Betrugsstrafrecht. § 31 Abs. 1 Nr. 4 verpflichtet
+    Internet-Werbeplattformbetreiber, in der Anzeige offenzulegen, dass sie Deepfake-Technik oder KI-generierte
+    Personenbilder verwendet; § 31 Abs. 4 definiert Deepfake als technische Ausdrucksform, die unwahre
+    Aeusserungen oder Handlungen der betroffenen Person erzeugt und geeignet ist, andere an ihre Echtheit
+    glauben zu lassen. § 30 verpflichtet dieselben Plattformen zur Identitaetsverifizierung von Auftraggeber
+    und Finanzier mittels digitaler Signatur oder FIDO, zu einer Risikoanalyse, einem Betrugspraeventionsplan
+    und einem jaehrlichen Transparenzbericht. SANKTION: Verwaltungsstrafen nach den §§ 42 ff.; die konkrete
+    Hoehe wurde nicht geprueft.
+
+    '
+  inkrafttreten:
+    datum: 2024-07-31
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0080226
+  anwendungsdaten:
+  - datum: 2024-11-30
+    was_gilt: 'Inkrafttreten der §§ 19, 20, 22 und 24 (Finanz- und Telekommunikationsmassnahmen), festgesetzt
+      am 29.11.2024.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0080226
+  - datum: 2026-01-21
+    was_gilt: 'Novelle vom 21.01.2026 (§§ 7 bis 11, 13, 42 bis 44, 46, 47, 50).
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0080226
+  themenachsen:
+  - content
+  - sicherheit-export
+  - sektor-finanz
+  - marktzugang
+  regelungsschwerpunkte:
+  - '''§ 31 Abs. 4 — TAIWANS DEEPFAKE-DEFINITION: 以電腦合成或其他科技方法 製作本人不實之言行，並足使他人誤信為真之技術表現形式. Drei Merkmale:
+    technische Erzeugung, Unwahrheit der dargestellten Aeusserung oder Handlung DER BETROFFENEN PERSON
+    SELBST, und Eignung zur Taeuschung ueber die Echtheit. Rein fiktive Personen sind nicht erfasst.''
+
+    '
+  - '''§ 31 Abs. 1 Nr. 4 ist eine Offenlegungspflicht des PLATTFORM- BETREIBERS, nicht des Werbetreibenden
+    und nicht des KI-Anbieters. Taiwan hat damit bewusst NICHT das chinesische Modell der Anbieterkennzeichnung
+    uebernommen (vgl. 互聯網信息服務深度合成管理規定), sondern eine Intermediaerspflicht in einem eng umgrenzten Kontext.''
+
+    '
+  - '''ABS. 2 ENTHAELT EINE RISIKOBASIERTE ERLEICHTERUNG: Hat der Betreiber die Identitaet nach § 30 Abs.
+    2 Nr. 1 verifiziert und handelt es sich nicht um einen Hochrisiko-Geschaeftspartner, darf die Offenlegung
+    vereinfacht werden. Das ist derselbe risikobasierte Ansatz, den Art. 16 KI-Basisgesetz zwei Jahre
+    spaeter verallgemeinert hat.''
+
+    '
+  - '''ZUSTAENDIG ist die 數位經濟相關產業主管機關 — also das Digitalministerium. Damit liegt die einzige geltende
+    KI-Kennzeichnungspflicht bei derselben Behoerde, die Art. 5 Abs. 2 und Art. 16 KI-Basisgesetz ausfuehrt.''
+
+    '
+  dokumente:
+  - datum: 2024-07-31
+    typ: endfassung
+    titel: 詐欺犯罪危害防制條例 第 31 條 — Kennzeichnungspflicht und Deepfake-Definition
+    url: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0080226&flno=31
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: Amtlicher Wortlaut der Definition und der Offenlegungspflicht.
+  - datum: 2024-07-31
+    typ: endfassung
+    titel: 詐欺犯罪危害防制條例 第 30 條 — Sorgfaltspflichten der Werbeplattformen
+    url: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0080226&flno=30
+    sprache: zh
+    urheber: 法務部 / 全國法規資料庫
+    verifiziert: true
+    notiz: 'Identitaetsverifizierung, Risikoanalyse, Betrugspraeventionsplan und jaehrlicher Transparenzbericht.
+
+      '
+  - datum: 2026-01-21
+    typ: uebersicht
+    titel: 詐欺犯罪危害防制條例 沿革
+    url: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0080226
+    sprache: zh
+    urheber: 法務部
+    verifiziert: true
+    notiz: 'Belegt die gestaffelte Inkraftsetzung und den weiterhin offenen Inkrafttretensvorbehalt fuer
+      die Netzsperrenvorschriften.
+
+      '
+  offene_punkte:
+  - 'Die Ausfuehrungsverordnung zu § 31 Abs. 5 (Offenlegungsstandards, Vereinfachungsverfahren) wurde
+    nicht auf ihren Erlass geprueft.
+
+    '
+  - 'Ob die Kennzeichnungspflicht in der Aufsichtspraxis des Digitalministeriums durchgesetzt wird, ist
+    unbelegt.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080226
+  - https://moda.gov.tw/press/press-releases
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-ki-risikoklassifizierung
+  - tw-strafgesetzbuch
+  letzte_pruefung: 2026-09-06
+- id: tw-gerichtsverfassungsgesetz
+  jurisdiktion: tw
+  kurztitel: Gerichtsverfassungsgesetz (法院組織法), Aufzeichnungsvorschriften
+  offizieller_titel: 法院組織法 — Court Organization Act
+  fundstelle: '§§ 90-1 und 90-3 in der Fassung vom 16.07.2025 (民國114年7月16日); Ausfuehrungsverordnung 法庭錄音錄影及其利用保存辦法
+    in der Fassung vom 22.07.2022 (民國111年7月22日), § 8 Abs. 1.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Anwendbar. Aufgenommen, weil die taiwanischen Gerichte seit September 2025 aus diesen
+    Vorschriften eine eigenstaendige KI-Doktrin entwickelt haben: Das Risiko, dass eine herausgegebene
+    Gerichtsaufzeichnung ausserhalb der gerichtlichen Kontrolle mit KI-Technik deepgefaelscht wird, rechtfertigt
+    die Ablehnung des Herausgabeantrags.
+
+    '
+  kurzbeschreibung: '§ 90-1 Abs. 1 gibt Parteien und Akteneinsichtsberechtigten einen Anspruch auf Herausgabe
+    der Gerichtsaufzeichnung zur Wahrung ihrer rechtlichen Interessen; § 8 Abs. 1 der Ausfuehrungsverordnung
+    macht die Herausgabe von einer begruendeten richterlichen Erlaubnisentscheidung abhaengig. In dieses
+    Ermessen haben die taiwanischen Gerichte seit 2025 das Deepfake-Risiko eingestellt: Es gebe derzeit
+    keinen verlaesslichen Mechanismus, der verhindere, dass eine einmal herausgegebene Aufzeichnung nach
+    dem Verlassen des ausschliesslichen gerichtlichen Verwaltungsbereichs von Dritten mit KI-Technik deepgefaelscht
+    werde; wo das Gericht dem Antragsteller andere Wege zur Ueberpruefung der Protokollrichtigkeit von
+    Amts wegen eroeffne, sei der Antrag abzulehnen. SANKTION: keine — es geht um eine Ermessensentscheidung
+    im Zwischenverfahren.
+
+    '
+  inkrafttreten:
+    datum: 2015-07-03
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0010053
+    fundstelle_norm: '§§ 90-1 bis 90-4 法院組織法 eingefuegt durch Aenderungsgesetz vom 民國104年7月1日 (01.07.2015,
+      Praesidialerlass 華總一義字第10400077201號). § 115 S. 1 法院組織法: 本法自公布日施行 (''Dieses Gesetz tritt am Tag der
+      Verkuendung in Kraft''), i.V.m. § 13 中央法規標準法 (Wirksamkeit ab dem dritten Tag, gerechnet vom Verkuendungstag)
+      — also 03.07.2015.'
+  anwendungsdaten:
+  - datum: 1935-07-01
+    was_gilt: Stammgesetz 法院組織法 in Kraft (民國24年7月1日); verkuendet am 民國21年10月28日 = 28.10.1932.
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0010053
+  - datum: 2015-07-03
+    was_gilt: '§§ 90-1 bis 90-4 in Kraft: Herausgabeanspruch auf Gerichtsaufzeichnungen (§ 90-1), Aufbewahrungsfrist
+      (§ 90-2), Verordnungsermaechtigung (§ 90-3), Verbreitungsverbot mit Bussgeld 30.000 bis 300.000
+      NT$ (§ 90-4).'
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0010053
+  - datum: 2022-08-01
+    was_gilt: Neufassung des § 90-2 in Kraft — verkuendet 民國111年6月22日 (22.06.2022), in Kraft gesetzt durch
+      Erlass des Judicial Yuan 院台廳司一字第1110019956號 vom 民國111年7月4日 zum 民國111年8月1日.
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0010053
+  - datum: 2025-10-16
+    was_gilt: 'Novelle vom 民國114年6月27日, verkuendet 民國114年7月16日 (16.07.2025, 華總一義字第11400069691號): Neufassung
+      der §§ 86, 90, 91, 93 und 115 — oeffentliche Uebertragung von Gerichtsaufzeichnungen. § 115 letzter
+      Satz: 自公布後三個月施行 (drei Monate nach Verkuendung), also 16.10.2025. Betrifft NICHT die §§ 90-1 und
+      90-3.'
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0010053
+  - datum: 2026-05-15
+    was_gilt: 'Juengste Novelle: verkuendet 民國115年5月13日 (13.05.2026, 華總一義字第11500042661號), betrifft allein
+      § 106 (Einsicht in das Beratungsbuch); § 115 S. 1 i.V.m. § 13 中央法規標準法.'
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0010053
+  themenachsen:
+  - sektor-oeffentlich
+  - content
+  - berufsrecht
+  - grundrechte
+  regelungsschwerpunkte:
+  - '''RICHTERRECHTLICHE KI-DOKTRIN OHNE GESETZESGRUNDLAGE: Weder § 90-1 法院組織法 noch § 8 der Verordnung
+    erwaehnen KI, Deepfakes oder Manipulationsrisiken. Die Gerichte haben das Risiko in das Erlaubnisermessen
+    hineingelesen. Das ist funktional dasselbe Vorgehen wie in Mexiko (autocontención) und Kolumbien —
+    mit umgekehrtem Vorzeichen: dort begrenzt das Gericht den eigenen KI-Einsatz, hier begrenzt es die
+    Rechte der Partei wegen fremden KI-Einsatzes.''
+
+    '
+  - '''BREITE ANWENDUNG: Die Erwaegung findet sich zwischen September 2025 und August 2026 in mindestens
+    acht Entscheidungen des 臺北高等行政法院 (Hoehere und Bezirkskammer) sowie in einer Familiensache des 臺灣臺北地方法院
+    — sie ist keine Einzelmeinung, sondern eine gefestigte Spruchpraxis.''
+
+    '
+  - '''RECHTSSCHUTZPROBLEM: Der Antragsteller will die Richtigkeit des Sitzungsprotokolls ueberpruefen.
+    Wird ihm die Aufzeichnung mit Blick auf ein abstraktes Manipulationsrisiko verweigert, traegt er die
+    Beweislast fuer eine Protokollunrichtigkeit, die er nicht belegen kann. Die Gerichte begegnen dem
+    mit dem Hinweis auf andere, gerichtsintern bereitgestellte Ueberpruefungswege.''
+
+    '
+  dokumente:
+  - datum: 2026-08-24
+    typ: bericht
+    titel: 臺北高等行政法院 115年度聲字第84號裁定 — Leitentscheidung
+    url: https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,115,%E8%81%B2,84,20260824,1
+    sprache: zh
+    urheber: 臺北高等行政法院
+    verifiziert: true
+    notiz: 'Enthaelt die Formel: ''現行並無任何可靠機制可防堵法庭錄音光碟逸脫法院專屬管理 範圍之後任由他人以AI科技技術進行深度偽造之風險''.
+
+      '
+  offene_punkte:
+  - 'Ob das 最高行政法院 die Doktrin bestaetigt, ist offen; die Entscheidungen ergehen im Zwischenverfahren
+    und sind nur beschraenkt anfechtbar.
+
+    '
+  monitoring_quellen:
+  - https://judgment.judicial.gov.tw/FJUD/default.aspx
+  bezug_regelwerke:
+  - tw-judicial-yuan-ki-leitlinie
+  - tw-ki-basisgesetz
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'FEHLER, doppelt. Eingetragen war 2025-07-16 — der Verkuendungstag (公布日) einer Novelle, die (1) erst
+    drei Monate spaeter, am 16.10.2025, in Kraft trat (§ 115 letzter Satz: 自公布後三個月施行) und (2) die hier
+    einschlaegigen §§ 90-1 und 90-3 gar nicht beruehrt: geaendert wurden die §§ 86, 90, 91, 93 und 115.
+    Die fuer die taiwanische Deepfake-Doktrin tragenden §§ 90-1 und 90-3 stammen unveraendert aus der
+    Novelle vom 01.07.2015 und gelten seit dem 03.07.2015. Die Bestandsangabe ''in der Fassung vom 16.07.2025''
+    in der fundstelle ist entsprechend zu berichtigen. Jahreszaehlung 民國: 21=1932, 24=1935, 104=2015,
+    111=2022, 114=2025, 115=2026. Vorher: 2025-07-16.'
+- id: tw-tipo-genai-urheberrecht
+  jurisdiktion: tw
+  kurztitel: TIPO-Auskuenfte zu generativer KI und Urheberrecht
+  offizieller_titel: '經濟部智慧財產局 著作權主題網 解釋資料 — Auslegungsauskuenfte des Intellectual Property Office zu
+    generativer KI (電子郵件字-Reihe)
+
+    '
+  fundstelle: 'Auskunft 電子郵件1140522c vom 22.05.2025 (民國114年5月22日) sowie weitere Auskuenfte derselben Reihe,
+    u.a. 電子郵件字第1140829號 zum Training generativer KI mit historischen Fotografien. Veroeffentlicht im 著作權主題網
+    des TIPO.
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Verwaltungsauskuenfte ohne Bindungswirkung fuer die Gerichte. Sie sind gleichwohl die
+    einzige amtliche Auslegungsquelle Taiwans zu generativer KI und Urheberrecht und werden von Kanzleien
+    und Hochschulen als massgeblich behandelt. Ein Gesetzgebungsvorhaben ist daraus bis zum 06.09.2026
+    nicht geworden.
+
+    '
+  kurzbeschreibung: 'Das TIPO beantwortet auf seiner Themenseite Anfragen zum Urheberrecht und veroeffentlicht
+    die Antworten als 電子郵件字-Auskuenfte. Zur generativen KI hat es eine gefestigte Linie: Wird die KI nur
+    als Hilfswerkzeug eingesetzt und leistet ein Mensch einen tatsaechlichen schoepferischen Beitrag,
+    entsteht Urheberrechtsschutz und der schaffende Mensch — nicht das Unternehmen — ist Urheber, soweit
+    nicht Arbeits- oder Auftragsverhaeltnisse etwas anderes bestimmen. Erfolgt der Schaffensvorgang dagegen
+    vollstaendig durch KI-Algorithmen ohne menschlichen geistigen Beitrag, besteht kein Urheberrechtsschutz.
+    Fuer die kommerzielle Nutzung warnt das TIPO vor Verletzungen, wenn die erzeugten Bilder den Trainingsdaten
+    wesentlich aehneln, und verweist auf die Nutzungsbedingungen der Anbieter. SANKTION: keine — die Auskuenfte
+    binden niemanden.
+
+    '
+  inkrafttreten:
+    datum: 2025-05-22
+    verifiziert: true
+    quelle: https://www.tipo.gov.tw/tw/copyright/692-34252.html
+  anwendungsdaten:
+  - datum: 2026-04-05
+    was_gilt: 'TIPO-Newsletter Nr. 238 behandelt die Rechtmaessigkeit des Trainings generativer Modelle
+      (mit Bezug auf GEMA gegen OpenAI) und die Eignung der europaeischen TDM-Schranken fuer das KI-Training.
+
+      '
+    verifiziert: true
+    quelle: https://www.tipo.gov.tw/tw/tipo1/90.html?id=80958
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  regelungsschwerpunkte:
+  - '''ZWEISTUFIGE PRUEFUNG: (1) KI als Hilfswerkzeug mit tatsaechlichem menschlichem Schoepfungsbeitrag
+    — Schutz, Urheber ist der Mensch; (2) Schaffensvorgang vollstaendig durch Algorithmen ohne menschlichen
+    geistigen Beitrag — kein Schutz. Das entspricht der US-Linie (Thaler v. Perlmutter) und weicht ausdruecklich
+    von der chinesischen ab (Li gegen Liu, Internetgericht Peking 2023).''
+
+    '
+  - '''SUBSTANTIAL SIMILARITY ALS RISIKOMASSSTAB: Das TIPO warnt vor Verletzungen, wenn die Ausgabe den
+    Trainingswerken "wesentlich aehnelt". Damit verlagert es die Frage vom Training auf den Output — dieselbe
+    Weichenstellung wie im US-Recht, und eine andere als in der EU, wo Art. 4 DSM-RL beim Input ansetzt.''
+
+    '
+  - '''KEIN VORSTOSS FUER EINE TDM-SCHRANKE: Der TIPO-Newsletter befasst sich zwar mit den europaeischen
+    TDM-Vorschriften, aber ausdruecklich unter der Fragestellung ihrer "Anwendungsschwierigkeiten". Ein
+    Gesetzentwurf zur Einfuehrung einer TDM-Schranke nach europaeischem oder japanischem Vorbild liegt
+    am 06.09.2026 nicht vor.''
+
+    '
+  dokumente:
+  - datum: 2025-05-22
+    typ: leitlinie
+    titel: 電子郵件1140522c — TIPO-Auskunft zum Urheberrechtsschutz von ChatGPT-Bildern
+    url: https://www.tipo.gov.tw/tw/copyright/692-34252.html
+    sprache: zh
+    urheber: 經濟部智慧財產局 (TIPO)
+    verifiziert: true
+    notiz: 'Amtliche Auslegungsauskunft. Enthaelt die zweistufige Pruefung und die Warnung vor wesentlicher
+      Aehnlichkeit zu Trainingswerken.
+
+      '
+  - datum: 2026-04-05
+    typ: bericht
+    titel: 智慧財產權電子報 第 238 期 — KI, Trainingsdaten und TDM
+    url: https://www.tipo.gov.tw/tw/tipo1/90.html?id=80958
+    sprache: zh
+    urheber: 經濟部智慧財產局 (TIPO)
+    verifiziert: true
+    notiz: 'Amtlicher Newsletter. Behandelt GEMA gegen OpenAI, die europaeischen TDM-Schranken und die
+      japanischen Stimmrechte.
+
+      '
+  offene_punkte:
+  - 'Die vom Vorgaenger angenommene Anhoerung des TIPO vom 20.07.2026, in der es sich gegen eine TDM-Schranke
+    ausgesprochen haben soll, liess sich nicht belegen. Der Befund bleibt offen.
+
+    '
+  - 'Die Auskuenfte sind ueber die Themenseite einzeln abrufbar; eine konsolidierte amtliche Darstellung
+    der TIPO-Linie zu KI existiert nicht.
+
+    '
+  monitoring_quellen:
+  - https://www.tipo.gov.tw/tw/cp-85-855816-e5f22-1.html
+  - https://www.tipo.gov.tw/tw/tipo1/90.html
+  bezug_regelwerke:
+  - tw-urhg
+  - tw-ki-basisgesetz
+  - tw-patentgesetz
+  letzte_pruefung: 2026-09-06
+- id: tw-fsc-ki-leitlinie
+  jurisdiktion: tw
+  kurztitel: FSC-Leitlinie zum KI-Einsatz im Finanzsektor
+  offizieller_titel: '金融業運用人工智慧（AI）指引 — Guidelines on the Application of Artificial Intelligence by the
+    Financial Industry
+
+    '
+  fundstelle: 'Erlass der 金融監督管理委員會 (Financial Supervisory Commission) vom 20.06.2024 (民國113年6月20日), veroeffentlicht
+    im 主管法規共用系統 unter GL003920. Vorlaeufer: 金融業運用人工智慧（AI）之核心原則與相關推動政策 vom 17.10.2023 (民國112年10月17日), GL003916.
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Nicht bindende Aufsichtsleitlinie. Sie ist gleichwohl der Prototyp der sektoralen Regelung,
+    die Art. 16 Abs. 2 KI-Basisgesetz von allen Fachaufsichten verlangt — die FSC hat sie zwei Jahre vor
+    dem Basisgesetz erlassen. Die Bankenvereinigung (銀行公會) hat auf ihrer Grundlage eigene Branchenregeln
+    beschlossen.
+
+    '
+  kurzbeschreibung: 'Die FSC hat den KI-Einsatz im Finanzsektor in zwei Schritten geregelt: im Oktober
+    2023 mit sechs Kernprinzipien und einer Foerderpolitik, im Juni 2024 mit der eigentlichen Leitlinie.
+    Sie richtet sich an alle beaufsichtigten Finanzinstitute und deckt den gesamten Lebenszyklus ab —
+    Governance und Verantwortlichkeit, Fairness und Menschenzentrierung, Schutz von Privatsphaere und
+    Kundenrechten, Systemrobustheit und Sicherheit, Transparenz und Erklaerbarkeit sowie Nachhaltigkeit.
+    Kernmechanismus ist ein risikobasierter Ansatz: Die Institute haben ihre KI-Anwendungen selbst zu
+    klassifizieren und die Kontrolldichte daran auszurichten; ausgelagerte KI-Dienste bleiben in der Verantwortung
+    des Instituts. SANKTION: keine unmittelbare; die Leitlinie wirkt ueber die allgemeine Aufsicht und
+    die interne Revisionspflicht.
+
+    '
+  inkrafttreten:
+    datum: 2024-06-20
+    verifiziert: true
+    quelle: https://law.fsc.gov.tw/LawContent.aspx?id=GL003920
+  anwendungsdaten:
+  - datum: 2023-10-17
+    was_gilt: 'Veroeffentlichung der Kernprinzipien und der Foerderpolitik (GL003916) nach oeffentlicher
+      Konsultation im August 2023.
+
+      '
+    verifiziert: true
+    quelle: https://law.fsc.gov.tw/LawContent.aspx?id=GL003916
+  - datum: 2024-06-20
+    was_gilt: Erlass der Leitlinie selbst (GL003920).
+    verifiziert: true
+    quelle: https://law.fsc.gov.tw/LawContent.aspx?id=GL003920
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - marktzugang
+  - grundrechte
+  regelungsschwerpunkte:
+  - '''ZEITLICHER VORLAUF: Die FSC hat den risikobasierten Ansatz im Juni 2024 eingefuehrt — 25 Monate
+    vor dem Risikoklassifizierungsrahmen des Digitalministeriums vom 07.07.2026. Wer verstehen will, wie
+    Taiwan Art. 16 Abs. 2 KI-Basisgesetz mit Leben fuellen wird, liest die FSC-Leitlinie, nicht das Basisgesetz.''
+
+    '
+  - '''AUSLAGERUNGSVERANTWORTUNG: Die Leitlinie stellt klar, dass die Verantwortung fuer ausgelagerte
+    oder eingekaufte KI-Dienste beim Institut bleibt. Das ist die funktionale Entsprechung der Wertschoepfungskettenregelung
+    der KI-VO — ohne deren Rollenbegriffe.''
+
+    '
+  dokumente:
+  - datum: 2024-06-20
+    typ: leitlinie
+    titel: 金融業運用人工智慧（AI）指引 — Rechtsinhaltsseite
+    url: https://law.fsc.gov.tw/LawContent.aspx?id=GL003920
+    sprache: zh
+    urheber: 金融監督管理委員會 (FSC)
+    verifiziert: true
+    notiz: Amtliche Fundstelle im Regelwerksystem der FSC.
+  - datum: 2024-06-20
+    typ: leitlinie
+    titel: 金融業運用人工智慧(AI)指引 — Volltext-PDF
+    url: https://www.fsc.gov.tw/websitedowndoc?file=chfsc/202406201802440.pdf&filedisplay=%E9%99%84%E4%BB%B6_%E9%87%91%E8%9E%8D%E6%A5%AD%E9%81%8B%E7%94%A8AI%E6%8C%87%E5%BC%95.pdf
+    sprache: zh
+    urheber: 金融監督管理委員會 (FSC)
+    verifiziert: false
+    notiz: 'Volltext-PDF der Leitlinie. In dieser Sitzung nur ueber die Suchergebnisliste nachgewiesen,
+      nicht abgerufen.
+
+      '
+  - datum: 2023-10-17
+    typ: leitlinie
+    titel: 金融業運用人工智慧（AI）之核心原則與相關推動政策
+    url: https://law.fsc.gov.tw/LawContent.aspx?id=GL003916
+    sprache: zh
+    urheber: 金融監督管理委員會 (FSC)
+    verifiziert: true
+    notiz: Die sechs Kernprinzipien, Vorstufe der Leitlinie.
+  offene_punkte:
+  - 'Ob die FSC ihre Leitlinie nach Art. 16 Abs. 2 KI-Basisgesetz in eine verbindliche 管理規範 ueberfuehrt,
+    ist offen; die Frist des Art. 18 (14.01.2028) gilt auch fuer sie.
+
+    '
+  monitoring_quellen:
+  - https://law.fsc.gov.tw/
+  - https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-ki-risikoklassifizierung
+  letzte_pruefung: 2026-09-06
+- id: tw-mohw-genai-krankenhaus
+  jurisdiktion: tw
+  kurztitel: MOHW-Leitlinie zu generativer KI in Gesundheitseinrichtungen
+  offizieller_titel: '醫療機構應用生成式人工智慧指引 — Guidelines on the Application of Generative Artificial Intelligence
+    by Medical Institutions
+
+    '
+  fundstelle: 'Rundschreiben (函頒) des 衛生福利部 (Ministry of Health and Welfare) vom 29.05.2026 (民國115年5月29日),
+    衛部醫字第1151663164號函.
+
+    '
+  verfahrensnummer: 衛部醫字第1151663164號
+  status: softlaw
+  status_detail: 'Nicht bindende Ressortleitlinie, erlassen unter der Geltung des KI-Basisgesetzes und
+    der Sache nach eine Ausfuehrung des Art. 16 Abs. 2 fuer den Gesundheitsbereich. Sie ist die erste
+    taiwanische Verwaltungsvorschrift, die generative KI ueber ihren gesamten Einfuehrungslebenszyklus
+    regelt.
+
+    '
+  kurzbeschreibung: 'Die Leitlinie ordnet den Einsatz generativer KI in Krankenhaeusern und Kliniken entlang
+    von sechs Risikotypen und neun Handlungspunkten. Risikotypen: Grundmodellrisiken (systematische Verzerrungen
+    aus Architektur, Trainingsstrategie und Trainingsdaten mit der Folge fehlerhafter Diagnosen bei bestimmten
+    Erkrankungen oder Patientengruppen), Datenquellenrisiken (minderwertige, veraltete oder unzuverlaessige
+    Wissensbasen und Patientenakten), Ausgaberisiken (plausible, aber falsche Inhalte — erfundene Fachliteratur,
+    falsche Arzneimittelwechselwirkungen), Cybersicherheitsrisiken (Prompt Injection, Datendiebstahl,
+    Modellmanipulation, Data Poisoning), Ueberabhaengigkeitsrisiken (Verlust des klinischen Urteilsvermoegens)
+    und Dienstunterbrechungsrisiken (Abhaengigkeit von externen Cloud-APIs). Die neun Handlungspunkte
+    gliedern sich in die Phasen vor der Einfuehrung (Risikoinventur, Rechtskonformitaetspruefung, Sicherheits-
+    und Datenschutzbewertung), Integration (Systemintegration und Leistungsvalidierung, Lieferantenmanagement)
+    und nach der Einfuehrung (fortlaufende Ueberwachung und Abweichungsmanagement, Risikokultur, Verantwortungsteilung
+    und Schulung, Informationstransparenz). SANKTION: keine.
+
+    '
+  inkrafttreten:
+    datum: 2026-05-29
+    verifiziert: true
+    quelle: https://www.mohw.gov.tw/dl-100614-c7d35394-0a6b-448e-9d90-295294596d98.html
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-medizin
+  - governance
+  - datenschutz
+  - haftung
+  regelungsschwerpunkte:
+  - '''HALLUZINATION ALS EIGENER RISIKOTYP: Der dritte Risikotyp nennt ausdruecklich erfundene medizinische
+    Fachliteratur und falsche Arzneimittelwechselwirkungen. Das ist die erste taiwanische Verwaltungsvorschrift,
+    die die Halluzination als Regelungsgegenstand benennt — und sie tut es im Gesundheitswesen, nicht
+    im Berufsrecht.''
+
+    '
+  - '''PROMPT INJECTION ALS AUFSICHTLICHES RISIKO: Der vierte Risikotyp nennt Prompt-Injection-Angriffe
+    neben Datendiebstahl, Modellmanipulation und Data Poisoning. Damit ist eine spezifisch generative
+    Angriffsform in eine amtliche Risikotaxonomie aufgenommen.''
+
+    '
+  - '''DIENSTUNTERBRECHUNG DURCH API-AENDERUNG: Der sechste Risikotyp nennt die Abhaengigkeit von externen
+    Cloud-APIs und ausdruecklich Diensteinstellungen, API-Aenderungen und Preisanpassungen als Patientensicherheitsrisiko.
+    Das ist eine wirtschaftliche Abhaengigkeitsbetrachtung, wie sie im europaeischen Medizinprodukterecht
+    fehlt.''
+
+    '
+  - '''LEBENSZYKLUSSTRUKTUR: Die neun Punkte folgen den Phasen vor, waehrend und nach der Einfuehrung.
+    Diese Struktur entspricht dem Aufbau der ISO/IEC 42001 und ist damit anschlussfaehig an den Anspruch
+    des Art. 16 Abs. 1 KI-Basisgesetz auf internationale Interoperabilitaet.''
+
+    '
+  dokumente:
+  - datum: 2026-05-29
+    typ: leitlinie
+    titel: 醫療機構應用生成式人工智慧指引 — amtlicher Volltext
+    url: https://www.mohw.gov.tw/dl-100614-c7d35394-0a6b-448e-9d90-295294596d98.html
+    sprache: zh
+    urheber: 衛生福利部 (Ministry of Health and Welfare)
+    verifiziert: true
+    notiz: 'Amtliche Downloadfassung mit Erlassdatum und Aktenzeichen im Kopf (''115 年5 月29 日衛部醫字第1151663164
+      號函頒'').
+
+      '
+  - datum: 2025-12-01
+    typ: bericht
+    titel: 2025年衛生福利部負責任AI執行中心成果發表會 — Zehn Krankenhaeuser
+    url: https://www.mohw.gov.tw/cp-16-82236-1.html
+    sprache: zh
+    urheber: 衛生福利部
+    verifiziert: false
+    notiz: 'Ergebnisbericht des Programms 負責任AI執行中心 (Responsible AI Execution Centers) mit zehn Krankenhaeusern.
+      Datum in dieser Sitzung nicht verifiziert.
+
+      '
+  offene_punkte:
+  - 'Ob das MOHW die Leitlinie nach Art. 16 Abs. 2 KI-Basisgesetz in eine verbindliche Verwaltungsvorschrift
+    ueberfuehrt, ist offen.
+
+    '
+  - 'Das Verhaeltnis zur Medizinprodukteregulierung (醫療器材管理法) und zur Zulassung KI-gestuetzter Software
+    als Medizinprodukt (SaMD) regelt die Leitlinie nicht.
+
+    '
+  monitoring_quellen:
+  - https://www.mohw.gov.tw/
+  - https://www.fda.gov.tw/
+  bezug_regelwerke:
+  - tw-ki-basisgesetz
+  - tw-ki-risikoklassifizierung
+  - tw-ey-genai-leitlinie
+  letzte_pruefung: 2026-09-06
+- id: tw-werbetransparenz-vo
+  jurisdiktion: tw
+  kurztitel: Werbetransparenzverordnung (網路廣告資訊揭露基準及作業辦法)
+  offizieller_titel: '網路廣告資訊揭露基準及作業辦法 — Regulations on the Standards and Operating Procedures for Information
+    Disclosure in Online Advertising
+
+    '
+  fundstelle: 'Erlassen vom 數位發展部 (Ministry of Digital Affairs) am 28.11.2024 (民國113年11月28日) auf der Grundlage
+    des § 31 Abs. 5 詐欺犯罪危害防制條例; in Kraft seit dem 30.11.2024 (§ 5). Rechtskategorie: 行政 ＞ 數位發展部 ＞ 數位產業目.
+    Eine von vier Durchfuehrungsverordnungen des Digitalministeriums zu den Pflichten der Internet-Werbeplattformen.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 30.11.2024. Damit ist Taiwans einzige gesetzliche Kennzeichnungspflicht
+    fuer KI-erzeugte Inhalte seit fast zwei Jahren durchfuehrungsreif — mehr als ein Jahr vor dem KI-Basisgesetz.
+
+    '
+  kurzbeschreibung: 'Die Verordnung konkretisiert die Offenlegungspflichten des § 31 詐欺犯罪危害防制條例 und damit
+    auch dessen Nummer 4, die den Hinweis auf Deepfake-Technik und KI-generierte Personenbilder verlangt.
+    Drei Regelungen sind fuer KI von Bedeutung: Die Angaben sind in der Werbeoberflaeche selbst anzubringen
+    und nicht in verlinkten Nebenbedingungen (§ 2 Abs. 1); der Plattformbetreiber hat den KI-Hinweis vom
+    Auftraggeber und vom Finanzier bereits bei der Auftragserteilung zu verlangen (§ 2 Abs. 3), womit
+    die Pflicht in die Werbekette durchgereicht wird; und wer Dritten die unmittelbare Schaltung ueberlaesst,
+    hat mindestens viermal jaehrlich zu pruefen und die Pruefungen drei Jahre lang zu dokumentieren (§
+    4). SANKTION: nach den §§ 42 ff. 詐欺犯罪危害防制條例; nicht geprueft.
+
+    '
+  inkrafttreten:
+    datum: 2024-11-30
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030157
+  anwendungsdaten:
+  - datum: 2024-11-28
+    was_gilt: Erlass der Verordnung durch das Digitalministerium.
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030157
+  - datum: 2024-11-30
+    was_gilt: 'Inkrafttreten nach § 5. Ab diesem Tag ist die Offenlegung von Deepfake-Technik und KI-generierten
+      Personenbildern in Internetwerbung durchsetzbar.
+
+      '
+    verifiziert: true
+    quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030157
+  themenachsen:
+  - content
+  - marktzugang
+  - sektor-finanz
+  regelungsschwerpunkte:
+  - '''§ 2 ABS. 3 IST DIE INTERESSANTESTE VORSCHRIFT: Sie verpflichtet den Plattformbetreiber, den KI-Hinweis
+    nicht selbst zu ermitteln, sondern vom Auftraggeber und vom Finanzier einzufordern. Die Kennzeichnung
+    beruht damit auf einer Erklaerung des Werbetreibenden, nicht auf einer technischen Erkennung durch
+    die Plattform — eine pragmatische Loesung des Detektionsproblems, das die taiwanische Kriminaltechnik
+    nach eigener Auskunft nicht loesen kann.''
+
+    '
+  - '''PLATZIERUNG IN DER WERBEOBERFLAECHE: § 2 Abs. 1 verlangt die Anbringung im 廣告表層 und laesst nur
+    bei begrenztem Anzeigenraum einen Verweis zu — und auch dann nicht fuer die Werbekennzeichnung selbst.
+    Das ist strenger als die Praxis vieler Plattformen, die Transparenzangaben in verlinkte Bibliotheken
+    auslagern.''
+
+    '
+  - '''VIER PRUEFUNGEN JAEHRLICH: § 4 verlangt bei Direktschaltung durch Dritte mindestens vierteljaehrliche
+    Kontrollen mit dreijaehriger Dokumentation und raeumt der Fachaufsicht ein Stichprobenrecht ein. Das
+    ist eine Auditpflicht, wie sie das KI-Basisgesetz nicht kennt.''
+
+    '
+  dokumente:
+  - datum: 2024-11-28
+    typ: delegiert
+    titel: 網路廣告資訊揭露基準及作業辦法 — amtlicher Volltext
+    url: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030157
+    sprache: zh
+    urheber: 數位發展部 / 全國法規資料庫
+    verifiziert: true
+    notiz: 'Fuenf Paragraphen. § 1 nennt die Ermaechtigungsgrundlage, § 2 Abs. 3 reicht die KI-Kennzeichnung
+      an den Werbetreibenden durch, § 5 setzt das Inkrafttreten auf den 30.11.2024.
+
+      '
+  offene_punkte:
+  - 'Die drei weiteren Durchfuehrungsverordnungen des Digitalministeriums zum Betrugsbekaempfungsgesetz
+    (Identitaetsverifizierung, Betrugspraeventionsplan, Transparenzbericht) wurden nicht erfasst.
+
+    '
+  - 'Die Sanktionsvorschriften der §§ 42 ff. 詐欺犯罪危害防制條例 und die bisherige Bussgeldpraxis des 數位產業署 sind
+    nicht geprueft.
+
+    '
+  monitoring_quellen:
+  - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030157
+  - https://moda.gov.tw/ADI/news/bulletin-board/953
+  bezug_regelwerke:
+  - tw-betrugsbekaempfungsgesetz
+  - tw-ki-basisgesetz
+  - tw-ki-risikoklassifizierung
+  letzte_pruefung: 2026-09-06

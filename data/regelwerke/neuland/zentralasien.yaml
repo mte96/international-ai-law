@@ -1,0 +1,3181 @@
+regelwerke:
+- id: kz-ki-gesetz
+  jurisdiktion: kz
+  kurztitel: KI-Gesetz Kasachstan (Nr. 230-VIII)
+  offizieller_titel: 'Қазақстан Республикасының Заңы „Жасанды интеллект туралы" / Закон Республики Казахстан
+    „Об искусственном интеллекте" — Gesetz der Republik Kasachstan „Über künstliche Intelligenz"
+
+    '
+  fundstelle: 'Закон Республики Казахстан от 17 ноября 2025 года № 230-VIII ЗРК. Erstveröffentlichung:
+    газета „Егемен Қазақстан" № 222 (31202) vom 18.11.2025; газета „Казахстанская правда" № 222 (30600)
+    vom 18.11.2025; Эталонный контрольный банк НПА РК в электронном виде (Referenzkontrollbank der NPA
+    in elektronischer Form) vom 20.11.2025. Registriernummer im Staatsregister der normativen Rechtsakte:
+    217048. Erlassort: Astana.
+
+    '
+  verfahrensnummer: 'Gesetzentwurf im Mazhilis eingebracht September 2025 (Dossier bei online.zakon.kz
+    doc_id=34868071); Registriernummer des Normgebers: 230-VIII
+
+    '
+  status: anwendbar
+  status_detail: 'In Kraft. Art. 31: „Настоящий Закон вводится в действие по истечении шестидесяти календарных
+    дней после дня его первого официального опубликования" — das Gesetz tritt nach Ablauf von sechzig
+    Kalendertagen nach dem Tag der Erstveröffentlichung in Kraft. Erstveröffentlichung 18.11.2025, damit
+    Inkrafttreten Mitte Januar 2026. Bereits geändert durch Gesetz Nr. 326-VIII vom 24.06.2026 (Art. 1,
+    13, 17, 20, 28); die Änderungen sind nach Angabe von adilet.zan.kz seit dem 25.08.2026 im Text.
+
+    '
+  kurzbeschreibung: 'Sechs Kapitel, 31 Artikel. Adressaten sind Eigentümer (собственник), Besitzer/Betreiber
+    (владелец) und Nutzer (пользователь) von KI-Systemen; eine Anbieter-/Betreiber-Dichotomie nach dem
+    Muster der KI-VO kennt das Gesetz nicht. Art. 17 teilt KI-Systeme in drei Risikostufen (minimal, mittel,
+    hoch), zusätzlich in drei Autonomiestufen (niedrig, mittel, hoch) und in drei Nutzungsregime (offen,
+    geschlossen, lokal) ein; die Einstufung nimmt der Eigentümer oder Besitzer SELBST vor. Art. 17 Abs.
+    3 verbietet sieben Funktionalitäten (Manipulation, Ausnutzung von Verwundbarkeit, Social Scoring,
+    rechtswidrige Datenverarbeitung, biometrische Kategorisierung zu Diskriminierungszwecken, Emotionserkennung
+    ohne Einwilligung, Erzeugung verbotener Inhalte). Art. 21 verlangt Kennzeichnung synthetischer Ergebnisse
+    in maschinenlesbarer Form plus visuelle Warnung. Art. 23 regelt das Urheberrecht an KI-Ergebnissen
+    und am Training. Sanktion: kein eigener Bußgeldrahmen im Gesetz (Art. 30 verweist auf die Gesetze),
+    sondern Art. 641-1 КоАП (15 bis 200 МРП, im Wiederholungsfall bis 200 МРП und Aussetzung oder Verbot
+    des Betriebs des KI-Systems).
+
+    '
+  inkrafttreten:
+    datum: 2026-01-17
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z2500000230
+  anwendungsdaten:
+  - datum: 2026-01-17
+    was_gilt: 'Gesamtes Gesetz. Berechnet aus Art. 31 (60 Kalendertage nach Erstveröffentlichung) und
+      der Erstveröffentlichung vom 18.11.2025. Die kasachische Zählpraxis (Beginn am Tag nach der Veröffentlichung,
+      Wirksamkeit „по истечении" = mit Ablauf) führt je nach Lesart auf den 17. oder 18.01.2026; adilet.zan.kz
+      nennt kein Kalenderdatum, sondern gibt nur die Formel wieder.
+
+      '
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z2500000230
+  - datum: 2026-08-25
+    was_gilt: 'Fassung nach dem Änderungsgesetz Nr. 326-VIII vom 24.06.2026 (Art. 1, 13, 17, 20, 28).
+      Das Änderungsgesetz tritt seinerseits 60 Kalendertage nach seiner Erstveröffentlichung in Kraft;
+      adilet.zan.kz führt als „Дата изменения акта" den 25.08.2026.
+
+      '
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/Z2500000230/info
+  themenachsen:
+  - governance
+  - marktzugang
+  - urheberrecht
+  - datenschutz
+  - grundrechte
+  - content
+  - haftung
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 1: Begriffsbestimmungen. Bemerkenswert der eigenständige Begriff „синтетические результаты деятельности
+    систем искусственного интеллекта" (synthetische Ergebnisse der Tätigkeit von KI-Systemen) — Bild,
+    Video, Audio, Texte oder Kombinationen, die von einem KI-System erzeugt oder verändert wurden und
+    das Aussehen, die Stimme, das Verhalten einer natürlichen Person oder tatsächlich nicht eingetretene
+    Ereignisse imitieren. Das ist eine Deepfake-Legaldefinition im Gesetzesrang. Ferner „библиотека данных"
+    (Datenbibliothek) und „изготовитель библиотеки данных" (Hersteller der Datenbibliothek) als eigene
+    Rechtsfiguren.
+
+    '
+  - 'Art. 7 Abs. 2: Wer von einer mit KI getroffenen Entscheidung betroffen ist, hat das Recht, über das
+    Verfahren der automatisierten Verarbeitung und deren Folgen informiert zu werden, Widerspruch gegen
+    die automatisierte Verarbeitung einzulegen und über den Rechtsschutzweg unterrichtet zu werden.
+
+    '
+  - 'Art. 17 Abs. 1: Dreistufige Risikoklassifikation (minimal, mittel, hoch). Die Zuordnung nimmt der
+    Eigentümer und/oder Besitzer selbst vor, nach den „Regeln der Klassifizierung digitaler Objekte".
+    Hochrisiko-KI, die zugleich als kritisch wichtiges digitales Objekt eingestuft ist oder staatliche
+    digitale Ressourcen bilden soll, wird für die Cybersicherheitsanforderungen staatlichen Systemen gleichgestellt.
+
+    '
+  - 'Art. 17 Abs. 2: Zusätzliche Klassifikation nach Autonomiegrad. Hochautonome Systeme sind solche,
+    bei denen eine Korrektur oder Aufhebung der Entscheidung durch den Menschen vollständig ausgeschlossen
+    oder technisch unmöglich ist; ihre Erstellung und ihr Betrieb sind Sondergesetzen vorbehalten. Diese
+    Achse (Autonomie neben Risiko) hat kein Vorbild in der KI-VO.
+
+    '
+  - 'Art. 17 Abs. 3: Verbotskatalog mit sieben Ziffern — (1) unterschwellige oder manipulative Techniken;
+    (2) Ausnutzung moralischer oder körperlicher Verwundbarkeit wegen Alters, Behinderung, sozialer Stellung;
+    (3) Bewertung und Klassifikation von Personen nach Sozialverhalten oder vermuteten/prognostizierten
+    persönlichen Eigenschaften (Social Scoring), soweit nicht gesetzlich erlaubt; (4) Erhebung und Verarbeitung
+    personenbezogener Daten unter Verstoß gegen das Datenschutzrecht; (5) biometrische Kategorisierung
+    zur Ableitung von Rasse, politischer Anschauung, Religionszugehörigkeit u.a. zu Diskriminierungszwecken;
+    (6) Emotionserkennung ohne Einwilligung der betroffenen Person, soweit nicht gesetzlich erlaubt; (7)
+    Erzeugung und Verbreitung gesetzlich verbotener KI-Ergebnisse. Anders als Art. 5 KI-VO gilt der Katalog
+    OHNE Ausnahmen für Strafverfolgung und ohne die dortigen Verfahrensgarantien; die Öffnungsklauseln
+    stehen in Ziff. 3 und 6 („за исключением случаев, предусмотренных законами").
+
+    '
+  - 'Art. 17 Abs. 4: Offene, geschlossene und lokale KI-Systeme. Offene Systeme dürfen zur Verarbeitung
+    gesetzlich zugangsbeschränkter Daten nur unter Beachtung des Informatisierungsrechts eingesetzt werden;
+    lokale Systeme (ohne Anbindung an öffentliche Telekommunikationsnetze) sind für zugangsbeschränkte
+    Daten vorgesehen. Eine solche ausdrückliche Regelung offener Modelle findet sich in kaum einer anderen
+    Rechtsordnung.
+
+    '
+  - 'Art. 18: Risikomanagement als kontinuierlicher Prozess über den gesamten Lebenszyklus, mit Pflicht
+    zur Aktualisierung MINDESTENS EINMAL JÄHRLICH (Abs. 1 Ziff. 4). Bei Anzeichen für das Vorliegen eines
+    Verbotstatbestands nach Art. 17 Abs. 3 unverzügliche Maßnahmen bis zur Aussetzung oder vollständigen
+    Einstellung des Betriebs (Abs. 2).
+
+    '
+  - 'Art. 19: Ressortbehörden führen „Listen vertrauenswürdiger KI-Systeme hoher Risikostufe" (перечни
+    доверенных систем искусственного интеллекта высокой степени риска) und veröffentlichen sie fortlaufend
+    im Internet. Wer aufgenommen werden will, muss ein Audit durchführen lassen (Abs. 2). Das ist ein
+    Positivlisten-Modell: nicht Verbot mit Erlaubnisvorbehalt, sondern staatlich kuratierte Vertrauensliste.
+
+    '
+  - 'Art. 20: Audit nach den Regeln über das Audit digitaler Systeme; zusätzlich zu bewerten sind (1)
+    Qualität und Rechtmäßigkeit der Nutzung der Trainings-Datenbibliotheken und (2) das Vorliegen verbotener
+    Funktionalitäten.
+
+    '
+  - 'Art. 21 Abs. 1: Nutzer müssen darüber informiert werden, dass Waren, Arbeiten und Dienstleistungen
+    unter Einsatz von KI-Systemen hergestellt oder erbracht werden. Abs. 2: Verbreitung synthetischer
+    Ergebnisse nur bei Kennzeichnung in MASCHINENLESBARER FORM und mit visueller oder anderer Warnung,
+    die ohne Erschwernisse wahrnehmbar ist. Abs. 3: Verantwortlich sind die Eigentümer oder Besitzer der
+    Systeme — nicht die verbreitende Plattform und nicht der Nutzer.
+
+    '
+  - 'Art. 22: Maschinenlesbare Formen als eigenes Rechtsinstitut; Verfahren zu Entwicklung, Anwendung
+    und Verbreitung bestimmt die zuständige Behörde. Diese Vorschrift trägt sowohl die Kennzeichnungspflicht
+    (Art. 21) als auch den urheberrechtlichen Vorbehalt (Art. 23 Abs. 5) und die Herstellerangabe bei
+    Datenbibliotheken (Art. 27 Abs. 5).
+
+    '
+  - 'Art. 23 — die international bemerkenswerteste Vorschrift des Gesetzes. Abs. 1: Werke, die unter Einsatz
+    von KI-Systemen geschaffen wurden, sind urheberrechtlich nur geschützt, wenn ein schöpferischer Beitrag
+    eines Menschen vorliegt. Abs. 2: Textprompts an KI-Systeme sind, soweit sie Ergebnis schöpferischer
+    geistiger Tätigkeit eines Menschen sind, urheberrechtliche Schutzgegenstände — eine positivrechtliche
+    Anerkennung des Prompts als Werk. Abs. 3: Die Nutzung von Werken zum Training von KI-Modellen gehört
+    NICHT zu den Fällen der freien Nutzung zu Bildungs- oder Wissenschaftszwecken. Abs. 4: Trainingsnutzung
+    gilt nicht als Nutzung in den Formen der Urheberpersönlichkeits- und Verwertungsrechte (Vervielfältigung,
+    Verbreitung, Bearbeitung, öffentliche Wiedergabe usw.). Abs. 5: Trainingsnutzung ist nur zulässig,
+    solange kein in MASCHINENLESBARER FORM erklärter Vorbehalt des Urhebers oder Rechteinhabers vorliegt.
+    Abs. 3 bis 5 zusammengelesen ergeben ein Regime, das im Ausgangspunkt weiter ist als Art. 4 DSM-RL
+    (die Trainingsnutzung ist schon begrifflich keine verwertungsrechtliche Nutzung), zugleich aber den
+    maschinenlesbaren Opt-out zur ausdrücklichen Zulässigkeitsvoraussetzung macht.
+
+    '
+  - 'Art. 24: Ersatz des durch KI-Systeme verursachten Schadens nach dem Zivilgesetzbuch; Haftpflichtversicherung
+    nach den Gesetzen. Keine eigene Gefährdungshaftung, keine Beweislastumkehr.
+
+    '
+  - 'Art. 25 bis 27: Nationale KI-Plattform als staatlich betriebene kontrollierte Umgebung für Entwicklung,
+    Training und Probebetrieb; Zugang zu Rechenressourcen nach Regeln der zuständigen Behörde und nach
+    Prioritätssektoren; Datenbibliotheken mit Rechten und Pflichten ihrer Eigentümer, darunter die Pflicht,
+    die Angaben zum Hersteller der Datenbibliothek in maschinenlesbarer Form anzugeben und bei jeder Weitergabe
+    mitzuführen (Art. 27 Abs. 5) — eine Datenprovenienz-Pflicht.
+
+    '
+  - 'Art. 30: „Verstöße gegen das KI-Recht ziehen die durch die Gesetze der Republik Kasachstan bestimmte
+    Verantwortlichkeit nach sich." Der Bußgeldtatbestand steht in Art. 641-1 КоАП.
+
+    '
+  dokumente:
+  - datum: 2025-11-17
+    typ: endfassung
+    titel: 'Закон Республики Казахстан от 17 ноября 2025 года № 230-VIII ЗРК „Об искусственном интеллекте"
+      (konsolidierte amtliche Fassung, russisch)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z2500000230
+    sprache: ru
+    urheber: 'Parlament der Republik Kasachstan / ИПС „Әділет", Institut für Gesetzgebung und Rechtsinformation
+      des Justizministeriums
+
+      '
+    verifiziert: true
+    notiz: 'Amtliche konsolidierte Fassung mit Fußnoten zu allen Änderungen. Maßgeblicher Text dieser
+      Datei.
+
+      '
+  - datum: 2025-11-17
+    typ: endfassung
+    titel: 'Қазақстан Республикасының 2025 жылғы 17 қарашадағы № 230-VIII ҚРЗ Заңы „Жасанды интеллект
+      туралы" (kasachische Fassung)
+
+      '
+    url: https://adilet.zan.kz/kaz/docs/Z2500000230
+    sprache: kk
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Kasachischsprachige Parallelfassung, abgerufen und im Titel bestätigt („Жасанды интеллект
+      туралы"); der Artikeltext wurde in dieser Sitzung nicht gelesen, weil die russischsprachige Fassung
+      in Kasachstan gleichermaßen amtlich ist.
+
+      '
+  - datum: 2025-11-17
+    typ: konsolidiert
+    titel: Dokumentkarte („Информация") mit Veröffentlichungsangaben
+    url: https://adilet.zan.kz/rus/docs/Z2500000230/info
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Belegt Erstveröffentlichung (18.11.2025 in beiden Amtsblättern), Registriernummer 217048 und
+      das Datum der letzten Änderung (25.08.2026). Ohne diese Karte lässt sich das Inkrafttreten nicht
+      berechnen, weil das Gesetz selbst nur die 60-Tage-Formel enthält.
+
+      '
+  offene_punkte:
+  - 'Der exakte Kalendertag des Inkrafttretens ist am amtlichen Text NICHT belegbar: Art. 31 nennt nur
+    die Formel („60 Kalendertage nach dem Tag der Erstveröffentlichung"), adilet.zan.kz rechnet sie nicht
+    aus. Aus der Erstveröffentlichung vom 18.11.2025 folgt der 17. oder 18.01.2026, je nachdem, ob man
+    den Ablauf des 60. Tages oder den Folgetag nimmt. Deshalb `verifiziert: false`. Zu prüfen wäre eine
+    Verlautbarung des Justizministeriums oder des Ministeriums für künstliche Intelligenz und digitale
+    Entwicklung.
+
+    '
+  - 'Welche Behörde konkret „уполномоченный орган в сфере искусственного интеллекта" ist, sagt das Gesetz
+    nicht (Art. 1 Ziff. 10 definiert nur abstrakt „zentrales Vollzugsorgan"). Aus der Anordnung des Premierministers
+    Nr. 2-р vom 14.01.2026 ergibt sich zwingend das Министерство искусственного интеллекта и цифрового
+    развития (Ministerium für künstliche Intelligenz und digitale Entwicklung), das dort für 22 von 23
+    Rechtsakten zuständig ist. Ein Rechtsakt, der die Behörde ausdrücklich benennt, war nicht auffindbar.
+
+    '
+  - 'Ob die 23 untergesetzlichen Rechtsakte nach der Anordnung Nr. 2-р tatsächlich im Januar 2026 ergangen
+    sind, konnte nicht geprüft werden — die Anordnung verlangt eine monatliche Veröffentlichung des Umsetzungsstands,
+    die aber auf einem „общедоступный государственный объект информатизации" (egov.kz) liegt, das nicht
+    erreichbar war.
+
+    '
+  - 'Der Inhalt der Änderungen durch Gesetz Nr. 326-VIII vom 24.06.2026 an Art. 1, 13, 17, 20 und 28 des
+    KI-Gesetzes ist in dieser Datei nur als Existenz vermerkt, nicht im Einzelnen ausgewertet.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/Z2500000230
+  - https://adilet.zan.kz/rus/docs/Z2500000230/history
+  - https://www.gov.kz/memleket/entities/mdai?lang=ru
+  bezug_regelwerke:
+  - kz-ki-begleitgesetz-231
+  - kz-koap-641-1
+  - kz-digitalkodex
+  - kz-anordnung-2r
+  - kz-datenschutzgesetz
+  - kz-urhg
+  letzte_pruefung: 2026-09-06
+- id: kz-ki-begleitgesetz-231
+  jurisdiktion: kz
+  kurztitel: KI-Begleitgesetz Kasachstan (Nr. 231-VIII)
+  offizieller_titel: 'Закон Республики Казахстан „О внесении изменений и дополнений в некоторые законодательные
+    акты Республики Казахстан по вопросам искусственного интеллекта и цифровизации" — Gesetz der Republik
+    Kasachstan „Über Änderungen und Ergänzungen einiger Gesetzgebungsakte der Republik Kasachstan in Fragen
+    der künstlichen Intelligenz und der Digitalisierung"
+
+    '
+  fundstelle: Закон Республики Казахстан от 17 ноября 2025 года № 231-VIII ЗРК
+  verfahrensnummer: 231-VIII
+  status: anwendbar
+  status_detail: 'In Kraft. Art. 2: Inkrafttreten 60 Kalendertage nach Erstveröffentlichung, mit Ausnahme
+    von Art. 1 Ziff. 9 (Postgesetz), der rückwirkend zum 01.01.2025 in Kraft gesetzt wird. Zusammen mit
+    dem KI-Gesetz Nr. 230-VIII und dem Ordnungswidrigkeitengesetz Nr. 232-VIII am 17.11.2025 unterzeichnet
+    und am 18.11.2025 veröffentlicht.
+
+    '
+  kurzbeschreibung: 'Das materiell wichtigste Stück des kasachischen KI-Pakets. Es ändert elf Gesetze.
+    Für das KI-Recht entscheidend sind vier davon: das Datenschutzgesetz (neuer Art. 19-1 über automatisierte
+    Verarbeitung, Verbot der zweckwidrigen Datenextraktion aus öffentlich zugänglichen Quellen, Einschränkung
+    biometrischer Erfassung im öffentlichen Raum), das Verbraucherschutzgesetz (Informationspflicht über
+    KI-Komponenten in Waren und Dienstleistungen), das Massenmediengesetz (Kennzeichnungspflicht für mit
+    KI erzeugte Medienprodukte) und das Informatisierungsgesetz (Zugang des Plattformbetreibers zu vertraulichen
+    Ressourcen nur anonymisiert; staatliche KI-Systeme unterliegen zusätzlich dem KI-Recht). Daneben ein
+    umfangreicher, KI-fremder Teil zu Lizenzierung im Bereich Informationssicherheit, digitalen Vermögenswerten
+    und Postdienstleistungen.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-17
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z2500000231
+  anwendungsdaten:
+  - datum: 2026-01-17
+    was_gilt: 'Sämtliche KI-relevanten Änderungen (Datenschutz-, Verbraucherschutz-, Massenmedien- und
+      Informatisierungsgesetz). 60 Kalendertage nach Erstveröffentlichung vom 18.11.2025; genauer Tag
+      wie beim KI-Gesetz nicht amtlich ausgerechnet.
+
+      '
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z2500000231
+  - datum: 2025-01-01
+    was_gilt: 'Art. 1 Ziff. 9 (Änderung des Postgesetzes zur Erstattung der Bargeldzustellungskosten des
+      nationalen Postbetreibers) — im Gesetz ausdrücklich rückwirkend zum 01.01.2025 in Kraft gesetzt.
+      Kein KI-Bezug, aber ein Beleg für die Sammelgesetzgebungstechnik.
+
+      '
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/Z2500000231
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - content
+  - governance
+  - sektor-oeffentlich
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Art. 1 Ziff. 5 — Verbraucherschutzgesetz vom 04.05.2010, Art. 27 neuer Abs. 6: Der Verkäufer (Hersteller,
+    Erbringer) ist VERPFLICHTET, den Verbraucher über mögliche Risiken und die Bedingungen der sicheren
+    Verwendung einer Ware (Arbeit, Dienstleistung) zu informieren, die KI-Komponenten enthält oder von
+    einem KI-System hergestellt oder erbracht wird; die Information muss in der Begleitdokumentation,
+    auf der Verbraucherverpackung, auf Etiketten oder in sonst branchenüblicher Weise stehen. Damit steht
+    die KI-Aufklärungspflicht im Verbraucherrecht, nicht nur im KI-Gesetz — und wird über die Verbraucherschutzaufsicht
+    durchsetzbar.
+
+    '
+  - 'Art. 1 Ziff. 6 — Datenschutzgesetz Nr. 94-V. Neu: Legaldefinition der „automatisierten Verarbeitung
+    personenbezogener Daten" (Art. 1 Ziff. 2-3): Verarbeitung durch ein Informatisierungsobjekt unter
+    Ausschluss der Beteiligung des Eigentümers, Betreibers oder Dritten am Verarbeitungsvorgang. Der Begriff
+    „сведения" (Angaben) wird in der Definition personenbezogener Daten durch „данные, в том числе биометрические"
+    (Daten, einschließlich biometrischer) ersetzt.
+
+    '
+  - 'Art. 1 Ziff. 6 — Datenschutzgesetz Art. 7 neuer Abs. 11: VERBOT der Erhebung und Verarbeitung personenbezogener
+    Daten zur Schaffung oder Erweiterung von Datenbanken durch zweckwidrige Extraktion personenbezogener
+    Daten aus öffentlich zugänglichen Quellen („нецелевое извлечение из общедоступных источников"). Das
+    ist eine ausdrückliche gesetzliche Antwort auf Web-Scraping zum KI-Training — soweit ersichtlich eine
+    der wenigen positivrechtlichen Scraping-Verbotsnormen weltweit. Zu Abs. 11 ist bereits eine Änderung
+    durch Gesetz Nr. 326-VIII vom 24.06.2026 vorgesehen.
+
+    '
+  - 'Art. 1 Ziff. 6 — Datenschutzgesetz Art. 7 neuer Abs. 12: Der Einsatz technologischer Mittel zur Erhebung
+    biometrischer Daten und zur Identifizierung von Personen AN ÖFFENTLICHEN ORTEN sowie die Nutzung der
+    so erhobenen Daten ist ausschließlich zum Schutz der Verfassungsordnung, der öffentlichen Ordnung,
+    der Rechte und Freiheiten des Menschen, der Gesundheit und Sittlichkeit der Bevölkerung zulässig —
+    außer bei Einwilligung der betroffenen Person. Funktional ist das die kasachische Entsprechung zum
+    Regime der biometrischen Fernidentifizierung nach Art. 5 Abs. 1 lit. h KI-VO, aber ohne Richtervorbehalt
+    und ohne Katalog von Anlasstaten.
+
+    '
+  - 'Art. 1 Ziff. 6 — Datenschutzgesetz Art. 8 neue Abs. 5 bis 7: Die Einwilligung darf nicht länger gelten
+    als für die Zweckerreichung erforderlich; ohne Fristangabe gilt sie bis zur Zweckerreichung; die betroffene
+    Person kann die Einwilligung WIDERRUFEN, und der Verantwortliche muss binnen fünfzehn Arbeitstagen
+    die Verarbeitung einstellen oder eine begründete Ablehnung vorlegen.
+
+    '
+  - 'Art. 1 Ziff. 6 — Datenschutzgesetz Art. 17 neuer Abs. 3: Bei Erhebung und Verarbeitung personenbezogener
+    Daten FÜR DIE NATIONALE KI-PLATTFORM nimmt der Plattformbetreiber die Anonymisierung nach den von
+    der Regierung gebilligten Datenverwaltungsanforderungen vor, soweit der Verantwortliche sie nicht
+    selbst vorgenommen hat.
+
+    '
+  - 'Art. 1 Ziff. 6 — Datenschutzgesetz NEUER ART. 19-1 („Anforderungen an die automatisierte Verarbeitung
+    personenbezogener Daten"). Abs. 1: VERBOT der automatisierten Verarbeitung, in deren Ergebnis Rechte
+    oder berechtigte Interessen der betroffenen Person entstehen, sich ändern oder erlöschen — es sei
+    denn, es liegt eine Einwilligung vor oder ein Gesetz lässt es zu. Abs. 2: Aufklärungspflicht über
+    Verfahren und mögliche Folgen, Recht auf Widerspruch, Aufklärung über den Rechtsschutz. Abs. 3: Der
+    Widerspruch ist BINNEN DREI ARBEITSTAGEN zu bescheiden; Rechtsbehelf gegen Handeln und Unterlassen.
+    Die Vorschrift ist deutlich strenger als Art. 22 DSGVO: Sie kennt keine Ausnahme für die Vertragserfüllung
+    und verlangt für den Regelfall Einwilligung oder gesetzliche Grundlage.
+
+    '
+  - 'Art. 1 Ziff. 8 — Informatisierungsgesetz Nr. 418-V. Art. 35 neuer Abs. 2-2: Der Zugang des Betreibers
+    der nationalen KI-Plattform zu VERTRAULICHEN elektronischen Informationsressourcen erfolgt nur unter
+    Sicherstellung der Anonymisierung. Art. 36 Abs. 6: Die automatisierte Verarbeitung personenbezogener
+    Daten richtet sich nach dem Datenschutzrecht (die bisherige eigenständige Regelung im Informatisierungsgesetz
+    entfällt). Art. 39 neuer Abs. 7: Erstellung und Entwicklung von KI-Systemen, die zu den Informatisierungsobjekten
+    des „elektronischen Regierens" gehören, erfolgen unter Beachtung der Besonderheiten des KI-Rechts.
+
+    '
+  - 'Art. 1 Ziff. 11 — Massenmediengesetz vom 19.06.2024, Art. 14 neuer Abs. 7: Die Verbreitung von MASSENMEDIENPRODUKTEN,
+    die unter Einsatz eines KI-Systems geschaffen wurden, ist nur zulässig, wenn darüber nach dem KI-Gesetz
+    informiert wird. Damit gilt die Kennzeichnungspflicht für redaktionelle Inhalte unabhängig davon,
+    ob es sich um synthetische Ergebnisse im Sinne des Art. 1 Ziff. 4 KI-Gesetz handelt.
+
+    '
+  dokumente:
+  - datum: 2025-11-17
+    typ: endfassung
+    titel: 'Закон Республики Казахстан от 17 ноября 2025 года № 231-VIII ЗРК (konsolidierte amtliche Fassung)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z2500000231
+    sprache: ru
+    urheber: Parlament der Republik Kasachstan / ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Vollständiger Text aller elf Änderungsblöcke einschließlich der Inkrafttretensvorschrift des
+      Art. 2.
+
+      '
+  - datum: 2013-05-21
+    typ: konsolidiert
+    titel: 'Закон Республики Казахстан от 21 мая 2013 года № 94-V „О персональных данных и их защите"
+      — konsolidierte Fassung mit eingearbeitetem Art. 19-1
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z1300000094
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Zeigt Art. 19-1 im geltenden Wortlaut mit der Fußnote zur Einfügung durch Gesetz Nr. 231-VIII
+      sowie Art. 7 Abs. 11 und 12.
+
+      '
+  offene_punkte:
+  - 'Das Verhältnis zwischen Art. 19-1 Abs. 1 Datenschutzgesetz (Verbot automatisierter Verarbeitung mit
+    Rechtsfolgen ohne Einwilligung) und Art. 43 Digitalkodex (Recht auf Überprüfung durch einen Menschen
+    bei vollautomatisierten Entscheidungen) ist ungeklärt. Die beiden Normen stammen aus zwei Gesetzgebungsvorgängen
+    (17.11.2025 und 09.01.2026) und verwenden unterschiedliche Begriffe („автоматизированная обработка"
+    vs. „полностью автоматизированное решение").
+
+    '
+  - 'Ob Art. 7 Abs. 11 Datenschutzgesetz (Scraping-Verbot) auf das Training von KI-Modellen mit öffentlich
+    zugänglichen Daten anwendbar ist, wenn dabei keine Datenbank im Rechtssinne entsteht, ist am Wortlaut
+    nicht zu entscheiden. Die für 2026 vorgesehene Änderung durch Gesetz Nr. 326-VIII deutet auf Nachbesserungsbedarf.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/Z2500000231
+  - https://adilet.zan.kz/rus/docs/Z1300000094/history
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-datenschutzgesetz
+  - kz-digitalkodex
+  - kz-koap-641-1
+  letzte_pruefung: 2026-09-06
+- id: kz-koap-641-1
+  jurisdiktion: kz
+  kurztitel: KI-Bußgeldtatbestand im КоАП (Art. 641-1)
+  offizieller_titel: 'Қазақстан Республикасының Әкімшілік құқық бұзушылық туралы кодексі / Кодекс Республики
+    Казахстан об административных правонарушениях, Статья 641-1 „Нарушение законодательства Республики
+    Казахстан в сфере искусственного интеллекта" — Ordnungswidrigkeitenkodex der Republik Kasachstan,
+    Art. 641-1 „Verstoß gegen das Recht der Republik Kasachstan im Bereich der künstlichen Intelligenz"
+
+    '
+  fundstelle: 'Кодекс Республики Казахстан от 5 июля 2014 года № 235-V; Art. 641-1 und Art. 692-3 eingefügt
+    durch Закон РК от 17.11.2025 № 232-VIII („О внесении изменений и дополнений в Кодекс Республики Казахстан
+    об административных правонарушениях")
+
+    '
+  verfahrensnummer: 235-V (Kodex); 232-VIII (Änderungsgesetz)
+  status: anwendbar
+  status_detail: 'In Kraft. Das Änderungsgesetz Nr. 232-VIII tritt nach seiner Fußnote 60 Kalendertage
+    nach Erstveröffentlichung in Kraft, also zeitgleich mit dem KI-Gesetz Mitte Januar 2026. Ohne Art.
+    641-1 wäre das KI-Gesetz sanktionslos: Art. 30 KI-Gesetz verweist nur pauschal auf „die Gesetze".
+
+    '
+  kurzbeschreibung: 'Einziger Bußgeldtatbestand des kasachischen KI-Rechts. Erfasst sind NUR ZWEI Pflichtverletzungen:
+    die Nichtinformation der Nutzer über irreführungsgeeignete synthetische Ergebnisse und die unterlassene
+    Risikosteuerung bei Hochrisiko-KI, sofern daraus ein Schaden entstanden ist. Alle übrigen Pflichten
+    des KI-Gesetzes (Dokumentation, Audit, Nutzervereinbarung, Verbotskatalog des Art. 17 Abs. 3) sind
+    ordnungswidrigkeitenrechtlich NICHT bewehrt. Zuständig ist nach Art. 692-3 КоАП die KI-Behörde selbst,
+    entschieden wird durch deren Leiter oder dessen Stellvertreter.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-17
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/K1400000235
+  themenachsen:
+  - content
+  - haftung
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Art. 641-1 Abs. 1 Ziff. 1: Unterlassene Information der Nutzer durch Eigentümer oder Besitzer von
+    KI-Systemen über synthetische Ergebnisse, „die sie in die Irre führen können". Tatbestandlich erfasst
+    ist also nur die irreführungsgeeignete Synthetik, nicht jede Kennzeichnungslücke nach Art. 21 Abs.
+    2 KI-Gesetz.
+
+    '
+  - 'Art. 641-1 Abs. 1 Ziff. 2: Unterlassene Risikosteuerung bei KI-Systemen HOHER Risikostufe, die zu
+    negativen Auswirkungen auf Gesundheit oder Wohlergehen von Menschen, zur Erzeugung oder Verbreitung
+    verbotener oder falscher Informationen, zu Diskriminierung, zur Verletzung von Menschenrechten oder
+    zu sonstigem Schaden geführt hat, sofern keine Straftat vorliegt. Erfolgsdelikt: ohne eingetretene
+    Folge kein Bußgeld.
+
+    '
+  - 'Bußgeldrahmen Abs. 1: 15 МРП (natürliche Personen), 20 МРП (Kleinunternehmen und Nichtkommerzielle
+    Organisationen), 30 МРП (mittlere Unternehmen), 100 МРП (Großunternehmen). Bei 1 МРП = 4 325 KZT (2026)
+    entspricht die Höchstsumme rund 432 500 KZT, also etwa 700 bis 800 Euro. Der Rahmen ist damit um Größenordnungen
+    niedriger als der der KI-VO.
+
+    '
+  - 'Bußgeldrahmen Abs. 2 (Wiederholung binnen eines Jahres): 30 / 50 / 70 / 200 МРП, ZUSÄTZLICH mit „приостановление
+    или запрещение деятельности системы искусственного интеллекта" — Aussetzung oder Verbot des Betriebs
+    des KI-Systems. Diese Nebenfolge ist die eigentlich scharfe Sanktion; sie entspricht funktional der
+    Marktrücknahme, wird aber vom Ordnungswidrigkeitenrichter bzw. der Behörde verhängt.
+
+    '
+  - 'Art. 692-3 КоАП: Die KI-Behörde („уполномоченный орган в сфере искусственного интеллекта") verhandelt
+    die Sachen nach Art. 641-1 selbst; entscheidungsbefugt sind der Behördenleiter und seine Stellvertreter.
+    Damit liegen Regelsetzung (Art. 13 KI-Gesetz), Aufsicht und Sanktionierung in einer Hand.
+
+    '
+  dokumente:
+  - datum: 2014-07-05
+    typ: konsolidiert
+    titel: 'Кодекс Республики Казахстан об административных правонарушениях от 5 июля 2014 года № 235-V
+      (konsolidierte Fassung mit Art. 641-1 und Art. 692-3)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/K1400000235
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Enthält beide Vorschriften mit den Einfügungsfußnoten auf Gesetz Nr. 232-VIII vom 17.11.2025.
+
+      '
+  - datum: 2025-11-17
+    typ: endfassung
+    titel: 'Закон Республики Казахстан от 17 ноября 2025 года № 232-VIII ЗРК „О внесении изменений и дополнений
+      в Кодекс Республики Казахстан об административных правонарушениях"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z2500000232
+    sprache: ru
+    urheber: Parlament der Republik Kasachstan
+    verifiziert: true
+    notiz: 'Das Änderungsgesetz selbst. Es ist ganz überwiegend KI-fremd (Bauträgerrecht, Tabak- und Energydrinkwerbung,
+      Lizenzrecht); die KI-Vorschriften sind zwei Ziffern in einem langen Katalog. Das ist für die Einordnung
+      wichtig: Kasachstan hat den KI-Bußgeldtatbestand nicht in einem eigenen Verfahren, sondern im laufenden
+      Ordnungswidrigkeiten-Sammelgesetz erlassen.
+
+      '
+  offene_punkte:
+  - 'Die Verjährungsvorschrift des Art. 62 Abs. 2 КоАП nimmt juristische Personen bei Verstößen gegen
+    das Datenschutzrecht und (nach dem Wortlaut) das Digitalrecht von der Verjährungsprivilegierung aus.
+    Ob Art. 641-1 davon erfasst ist, war am Text nicht abschließend zu klären.
+
+    '
+  - 'Ob und wie oft Art. 641-1 seit Januar 2026 angewandt wurde, ist offen — die Sanktionsstatistik des
+    Komitees für Rechtsstatistik der Generalstaatsanwaltschaft (qamqor.gov.kz / pravstat.gov.kz) war nicht
+    erreichbar.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/K1400000235
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-ki-begleitgesetz-231
+  letzte_pruefung: 2026-09-06
+- id: kz-digitalkodex
+  jurisdiktion: kz
+  kurztitel: Digitalkodex Kasachstan (Nr. 255-VIII)
+  offizieller_titel: 'Қазақстан Республикасының Цифрлық кодексі / ЦИФРОВОЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+    — Digitalkodex der Republik Kasachstan
+
+    '
+  fundstelle: 'Кодекс Республики Казахстан от 9 января 2026 года № 255-VIII. Erstveröffentlichung: газета
+    „Егемен Қазақстан" № 5-6 (31237) vom 10.01.2026; газета „Казахстанская правда" № 5-6 (30634-30635)
+    vom 10.01.2026; Эталонный контрольный банк НПА РК в электронном виде vom 12.01.2026. Registriernummer
+    im Staatsregister: 221101.
+
+    '
+  verfahrensnummer: 255-VIII
+  status: anwendbar
+  status_detail: 'In Kraft. Art. 106 Abs. 1: Der Kodex tritt nach Ablauf von SECHS MONATEN nach dem Tag
+    der Erstveröffentlichung in Kraft; aus der Veröffentlichung vom 10.01.2026 folgt Mitte Juli 2026.
+    Bereits geändert durch Gesetz Nr. 352-VIII vom 23.07.2026 (adilet.zan.kz führt als „Дата изменения
+    акта" den 23.07.2026). Damit hat Kasachstan das gesamte Digitalrecht binnen 14 Monaten dreimal neu
+    geordnet: KI-Gesetz November 2025, Digitalkodex Januar 2026, erste Kodexnovelle Juli 2026.
+
+    '
+  kurzbeschreibung: 'Sechs Abschnitte, 19 Kapitel, 106 Artikel. Der Kodex ist der Rahmen, in den das KI-Gesetz
+    eingebettet ist: Er definiert das „digitale Objekt", die „digitalen Daten", die Subjekte der digitalen
+    Umgebung und deren Grundrechte. Für das KI-Recht sind drei Vorschriften entscheidend: Art. 43 (Rechte
+    gegenüber algorithmischen Systemen und vollautomatisierten Entscheidungen), Art. 41 (Recht auf Löschung,
+    Anonymisierung und Verarbeitungsbeschränkung) und Art. 100 (Qualitätsaudit von KI-Systemen). Er hat
+    zugleich das Informatisierungsgesetz weitgehend entkernt; dessen Rest wurde zum Cybersicherheitsgesetz
+    umbenannt.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-10
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/K2600000255
+  anwendungsdaten:
+  - datum: 2026-07-10
+    was_gilt: 'Gesamter Kodex nach Art. 106 Abs. 1 (sechs Monate nach der Erstveröffentlichung vom 10.01.2026).
+      Der amtliche Text nennt wie beim KI-Gesetz nur die Formel, kein Kalenderdatum; je nach Zählweise
+      10. oder 11.07.2026.
+
+      '
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/K2600000255
+  - datum: 2026-07-23
+    was_gilt: 'Änderungen durch Gesetz Nr. 352-VIII vom 23.07.2026, u.a. an Art. 106 selbst (Abs. 2 neu
+      gefasst, Abs. 3 gestrichen); diese Änderungen treten ihrerseits 60 Kalendertage nach ihrer Erstveröffentlichung
+      in Kraft.
+
+      '
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/K2600000255
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 43 — „Права субъектов цифровой среды при использовании алгоритмических систем и полностью автоматизированных
+    решений" (Rechte der Subjekte der digitalen Umgebung beim Einsatz algorithmischer Systeme und vollautomatisierter
+    Entscheidungen). Abs. 1 definiert die „алгоритмическая система" als digitales System, das auf Grundlage
+    automatisierter Datenverarbeitung Entscheidungen trifft oder beeinflusst, EINSCHLIESSLICH KI-Systemen.
+    Damit ist der Oberbegriff weiter als „KI-System" und erfasst auch regelbasierte Verfahren.
+
+    '
+  - 'Art. 43 Abs. 2: Entscheidungen mit algorithmischen Systemen dürfen nicht zu Diskriminierung führen,
+    einschließlich Diskriminierung nach den gesetzlich bestimmten Merkmalen.
+
+    '
+  - 'Art. 43 Abs. 3: „Vollautomatisierte Entscheidung" ist eine Entscheidung, die ohne Beteiligung eines
+    Menschen an der Bewertung der Umstände oder an der Bestätigung des Ergebnisses getroffen wird, in
+    den durch Gesetz oder VEREINBARUNG vorgesehenen Fällen. Bemerkenswert: Auch eine vertragliche Vereinbarung
+    kann eine vollautomatisierte Entscheidung legitimieren.
+
+    '
+  - 'Art. 43 Abs. 4 — die Kernvorschrift. Wer einer vollautomatisierten algorithmischen Entscheidung unterworfen
+    ist, hat drei Rechte: (1) Information über die Tatsache des Einsatzes einer algorithmischen Systems;
+    (2) ERKLÄRUNG der Schlüsselfaktoren und Kriterien, die die Entscheidung beeinflusst haben, OHNE Offenlegung
+    von Algorithmen, Quellcode oder gesetzlich geschützten Geheimnissen; (3) Anspruch auf ÜBERPRÜFUNG
+    DER ENTSCHEIDUNG UNTER BETEILIGUNG EINES BEFUGTEN FACHKUNDIGEN, wenn die Entscheidung Rechtsfolgen
+    hat oder Rechte und berechtigte Interessen beeinflussen kann. Ziffer 2 ist eine ausdrückliche positivrechtliche
+    Antwort auf den Streit um den Umfang der Erklärungspflicht: Kasachstan schließt die Offenlegung des
+    Algorithmus ausdrücklich aus und begrenzt den Anspruch auf die „Schlüsselfaktoren und Kriterien".
+
+    '
+  - 'Art. 41: Recht auf Löschung, Anonymisierung oder Beschränkung der Verarbeitung personenbezogener
+    Daten in der digitalen Umgebung, UNABHÄNGIG VON DER GRUNDLAGE IHRER ERLANGUNG. Bei gesetzlichen Aufbewahrungsfristen
+    ist statt der Löschung der Zugang zu beschränken und die Verarbeitung auszusetzen. Ausnahmekatalog
+    in Abs. 4 (Lebens- und Gesundheitsschutz, Ordnungswidrigkeits- und Strafverfahren, Justiz, gesetzlich
+    bestimmtes öffentliches Interesse, Statistik und Forschung bei Anonymisierung, staatliche Aufgaben
+    und Dienstleistungen).
+
+    '
+  - 'Art. 100 Abs. 4: Beim Qualitätsaudit von KI-Systemen sind zu bewerten die Qualität und Rechtmäßigkeit
+    der für das Training verwendeten Datenbibliotheken und das Vorliegen verbotener Funktionalitäten nach
+    dem KI-Gesetz. Damit wird das Auditregime des Art. 20 KI-Gesetz im Kodex gespiegelt.
+
+    '
+  - 'Art. 42: Digitale Barrierefreiheit; staatliche Stellen müssen digitale Systeme und Dienste für alle
+    Nutzergruppen einschließlich Menschen mit Behinderungen zugänglich machen, nach einheitlichen Anforderungen,
+    die unter Berücksichtigung internationaler Ansätze fortgeschrieben werden.
+
+    '
+  - 'Art. 93: Legaldefinition der „цифровая трансформация" — sie stützt sich ausdrücklich auf Datenanalytik
+    UND künstliche Intelligenz. Art. 14 Ziff. 14: Die Digitalisierungsbehörde wirkt an der Erarbeitung
+    von Normungsdokumenten im Bereich der künstlichen Intelligenz mit — die Anknüpfung an die technische
+    Normung.
+
+    '
+  - 'Art. 40: Recht auf digitale Identität als persönliches Nichtvermögensgut; NIEMAND darf zur digitalen
+    Identifizierung gezwungen werden, soweit das Gesetz die Pflicht nicht ausdrücklich vorsieht. Praktisch
+    relevant für biometrische Zugangssysteme.
+
+    '
+  dokumente:
+  - datum: 2026-01-09
+    typ: endfassung
+    titel: 'Кодекс Республики Казахстан от 9 января 2026 года № 255-VIII „Цифровой кодекс Республики Казахстан"
+      (konsolidierte amtliche Fassung)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/K2600000255
+    sprache: ru
+    urheber: Parlament der Republik Kasachstan / ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Vollständiger Text mit Art. 43 (algorithmische Systeme) und Art. 106 (Inkrafttreten).
+
+      '
+  - datum: 2026-01-09
+    typ: endfassung
+    titel: 'Закон Республики Казахстан от 9 января 2026 года № 256-VIII „О внесении изменений и дополнений
+      в некоторые законодательные акты Республики Казахстан по вопросам цифровизации, транспорта и предпринимательства"
+      — Einführungsgesetz zum Digitalkodex
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z2600000256
+    sprache: ru
+    urheber: Parlament der Republik Kasachstan
+    verifiziert: true
+    notiz: 'Das Begleitgesetz zum Kodex. Es hat unter anderem den TITEL des Informatisierungsgesetzes
+      Nr. 418-V in „О кибербезопасности" geändert und dessen Präambel gestrichen — mit einer Frist von
+      sechs Monaten nach Erstveröffentlichung. Wer nach dem „kasachischen Informatisierungsgesetz" sucht,
+      findet ab Juli 2026 ein Cybersicherheitsgesetz.
+
+      '
+  offene_punkte:
+  - 'Verhältnis von Art. 43 Abs. 4 Ziff. 3 Digitalkodex (Überprüfung durch einen „уполномоченный специалист")
+    zu Art. 19-1 Abs. 3 Datenschutzgesetz (Bescheidung des Widerspruchs binnen drei Arbeitstagen): Der
+    Kodex verweist für Fristen auf „das Recht", nennt aber keine eigene. Ob die Drei-Tage-Frist auch für
+    die Überprüfung nach dem Kodex gilt, ist offen.
+
+    '
+  - 'Der genaue Kalendertag des Inkrafttretens ist wie beim KI-Gesetz nicht amtlich ausgerechnet; deshalb
+    `verifiziert: false`.
+
+    '
+  - 'Der Inhalt der Kodexnovelle Nr. 352-VIII vom 23.07.2026 wurde nicht ausgewertet.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/K2600000255
+  - https://adilet.zan.kz/rus/docs/K2600000255/history
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-ki-begleitgesetz-231
+  - kz-cybersicherheitsgesetz
+  - kz-datenschutzgesetz
+  letzte_pruefung: 2026-09-06
+- id: kz-anordnung-2r
+  jurisdiktion: kz
+  kurztitel: Umsetzungsanordnung KI-Paket (Nr. 2-р)
+  offizieller_titel: 'Распоряжение Премьер-Министра Республики Казахстан „О мерах по реализации законов
+    Республики Казахстан от 17 ноября 2025 года «Об искусственном интеллекте» и «О внесении изменений
+    и дополнений в некоторые законодательные акты Республики Казахстан по вопросам искусственного интеллекта
+    и цифровизации»" — Anordnung des Premierministers über Maßnahmen zur Umsetzung der Gesetze vom 17.11.2025
+
+    '
+  fundstelle: 'Распоряжение Премьер-Министра Республики Казахстан от 14 января 2026 года № 2-р
+
+    '
+  verfahrensnummer: 2-р
+  status: anwendbar
+  status_detail: 'In Kraft. Unterzeichnet von Premierminister O. Bektenow. Sie verpflichtet die staatlichen
+    Organe, die 23 aufgeführten Rechtsakte zu entwerfen bzw. zu erlassen, und schreibt eine monatliche
+    Berichtspflicht vor. Der Umsetzungsstand konnte nicht geprüft werden.
+
+    '
+  kurzbeschreibung: 'Die Anordnung ist der Fahrplan der kasachischen KI-Durchführung. Sie listet 23 untergesetzliche
+    Rechtsakte mit Frist „Januar 2026", davon 22 in der Verantwortung des Ministeriums für künstliche
+    Intelligenz und digitale Entwicklung. Sie ist zugleich der einzige gefundene amtliche Beleg dafür,
+    WELCHE Behörde der „уполномоченный орган в сфере искусственного интеллекта" des KI-Gesetzes ist. Die
+    staatlichen Organe müssen monatlich bis zum 30. über den Stand berichten, das Justizministerium bis
+    zum 5. des Folgemonats eine Gesamtübersicht veröffentlichen.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-14
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/R2600000002
+  anwendungsdaten:
+  - datum: 2026-01-31
+    was_gilt: 'Frist „Januar 2026" für sämtliche 23 Rechtsakte des Anhangs. Die Anordnung nennt nur den
+      Monat, keinen Tag.
+
+      '
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/R2600000002
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - marktzugang
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Ziff. 5 des Anhangs: Regierungsbeschluss über die Liste der PRIORITÄREN WIRTSCHAFTSSEKTOREN für die
+    KI-Einführung (Art. 12 Ziff. 3 KI-Gesetz). Diese Liste steuert nach Art. 26 Abs. 3 KI-Gesetz zugleich
+    den Zugang zu den staatlichen Rechenressourcen.
+
+    '
+  - 'Ziff. 6 des Anhangs: Ministerialerlass zur Änderung der „Regeln der Klassifizierung von Informatisierungsobjekten"
+    — das ist die Rechtsgrundlage, nach der die Betreiber ihre KI-Systeme nach Art. 17 Abs. 1 KI-Gesetz
+    selbst in die drei Risikostufen einordnen.
+
+    '
+  - 'Ziff. 8 des Anhangs: Liste der DOKUMENTATION für KI-Systeme (Art. 13 Abs. 1 Ziff. 5 und Art. 15 Abs.
+    2 Ziff. 3 KI-Gesetz). Ziff. 9: Kriterien für die Einordnung von Informatisierungsobjekten ALS KI-Systeme
+    (Art. 13 Abs. 1 Ziff. 6 KI-Gesetz) — ohne diese Kriterien ist der sachliche Anwendungsbereich des
+    Gesetzes offen.
+
+    '
+  - 'Ziff. 11 des Anhangs: Regeln über Entwicklung, Anwendung und Verbreitung MASCHINENLESBARER FORMEN
+    (Art. 22 Abs. 3 KI-Gesetz). Diese Regeln tragen sowohl die Kennzeichnungspflicht (Art. 21 Abs. 2)
+    als auch den urheberrechtlichen Trainingsvorbehalt (Art. 23 Abs. 5). Solange sie fehlen, ist unklar,
+    wie ein Rechteinhaber den Vorbehalt wirksam erklärt.
+
+    '
+  - 'Ziff. 12 des Anhangs: Regeln, nach denen die Ressortbehörden die Listen vertrauenswürdiger Hochrisiko-KI
+    bilden und veröffentlichen (Art. 19 Abs. 1 KI-Gesetz).
+
+    '
+  - 'Ziff. 7 des Anhangs: Änderung der Regeln über das Audit von Informationssystemen (Anknüpfung für
+    Art. 20 KI-Gesetz). Ziff. 10 und 13: Regeln über den Zugang zu Rechenressourcen und über die Zusammenarbeit
+    des Plattformbetreibers mit Privaten (Art. 25 Abs. 2, Art. 26 Abs. 1 KI-Gesetz).
+
+    '
+  - 'Ziff. 16 bis 20 des Anhangs: fünf datenschutzrechtliche Ministerialerlasse (Schutzmaßnahmen, Erhebungs-
+    und Verarbeitungsregeln, staatlicher Zugriffskontrolldienst, Datenminimierungsliste, Meldung von Datenschutzverletzungen)
+    — sie zeigen, dass die kasachische KI-Regulierung praktisch als Datenschutzregulierung vollzogen wird.
+
+    '
+  dokumente:
+  - datum: 2026-01-14
+    typ: delegiert
+    titel: 'Распоряжение Премьер-Министра Республики Казахстан от 14 января 2026 года № 2-р mit Anhang
+      (Liste von 23 Rechtsakten)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/R2600000002
+    sprache: ru
+    urheber: Premierminister der Republik Kasachstan (O. Bektenow)
+    verifiziert: true
+    notiz: 'Enthält die vollständige Liste mit Aktform, verantwortlichem Organ, Frist und namentlich verantwortlichem
+      Beamten.
+
+      '
+  offene_punkte:
+  - 'Ob die 23 Rechtsakte fristgerecht ergangen sind, ist offen. Die Anordnung verlangt monatliche Veröffentlichung
+    auf einem „общедоступный государственный объект информатизации"; dieses Portal (egov.kz / gov.kz)
+    war nicht erreichbar. Das ist der erste Punkt, den der nächste Bearbeiter anfassen sollte: ohne die
+    Regeln zu Klassifizierung, Dokumentation und maschinenlesbaren Formen ist das KI-Gesetz nicht vollziehbar.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/R2600000002
+  - https://www.gov.kz/memleket/entities/mdai/documents?lang=ru
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-ki-begleitgesetz-231
+  - kz-ki-behoerde
+  letzte_pruefung: 2026-09-06
+- id: kz-ki-behoerde
+  jurisdiktion: kz
+  kurztitel: Ministerium für KI und digitale Entwicklung (МИИЦР)
+  offizieller_titel: 'Қазақстан Республикасының Жасанды интеллект және цифрлық даму министрлігі / Министерство
+    искусственного интеллекта и цифрового развития Республики Казахстан — Ministerium für künstliche Intelligenz
+    und digitale Entwicklung der Republik Kasachstan
+
+    '
+  fundstelle: 'Errichtet durch Umbildung des Ministeriums für digitale Entwicklung, Innovationen und Luft-
+    und Raumfahrtindustrie (МЦРИАП) auf Grundlage des Указ Президента РК от 18 сентября 2025 года № 997
+    „О мерах по дальнейшему совершенствованию системы государственного управления"; Durchführung: Постановление
+    Правительства РК от 9 октября 2025 года № 846 (geändert durch ПП РК № 263 von 2026). Der Minister
+    ist zugleich stellvertretender Premierminister (Ж. Мадиев / Zhaslan Madiyev).
+
+    '
+  verfahrensnummer: Указ № 997 (18.09.2025); ПП № 846 (09.10.2025)
+  status: anwendbar
+  status_detail: 'Bestehend. Aus den Ministerialerlassen ergibt sich die Binnenstruktur: Комитет искусственного
+    интеллекта и управления данными (Komitee für künstliche Intelligenz und Datenverwaltung, Erlass Nr.
+    555/НҚ vom 04.11.2025, aufgehoben durch Erlass Nr. 13/НҚ vom 13.01.2026), Комитет цифровых активов
+    и прорывных технологий (Komitee für digitale Vermögenswerte und Durchbruchstechnologien — es zeichnet
+    für die KI-Durchführungserlasse verantwortlich) und Комитет по информационной безопасности (Erlass
+    Nr. 527/НҚ vom 21.10.2025). Die Zuständigkeit für KI wurde also binnen zweier Monate von einem Komitee
+    auf ein anderes verschoben.
+
+    '
+  kurzbeschreibung: 'Der „уполномоченный орган в сфере искусственного интеллекта" des KI-Gesetzes. Er
+    vereinigt vier Funktionen, die in der EU auf mehrere Stellen verteilt sind: Normsetzung (Art. 13 Abs.
+    1 Ziff. 3, 5, 6 KI-Gesetz), Aufsicht (Art. 13 Abs. 1 Ziff. 1 — „контрольно-надзорные функции"), Sanktionierung
+    (Art. 692-3 КоАП) und Förderung (Art. 28 KI-Gesetz). Er ist zugleich Datenschutzaufsicht, weil die
+    datenschutzrechtlichen Regeln nach dem Datenschutzgesetz Nr. 94-V von demselben Ministerium erlassen
+    werden. Eine unabhängige KI- oder Datenschutzaufsicht im europäischen Sinn existiert nicht.
+
+    '
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Der KI-Minister ist zugleich stellvertretender Premierminister. Sämtliche KI-Durchführungserlasse
+    dieser Datei sind mit „Заместитель Премьер-Министра – Министр искусственного интеллекта и цифрового
+    развития Республики Казахстан Ж. Мадиев" gezeichnet. Die Regulierungsbehörde sitzt damit im Kabinett
+    — das Gegenteil der institutionellen Unabhängigkeit, die Art. 70 KI-VO für die nationalen Behörden
+    verlangt.
+
+    '
+  - 'Das KI-Gesetz benennt die Behörde nicht ausdrücklich. Die Zuordnung ergibt sich erst aus der Anordnung
+    Nr. 2-р vom 14.01.2026 (22 von 23 Rechtsakten beim МИИЦР) und aus der Zeichnung der Durchführungserlasse.
+
+    '
+  - 'Aufsichtsinstrumente: Art. 13 Abs. 1 Ziff. 1 KI-Gesetz nennt pauschal „контрольно-надзорные функции",
+    ohne Befugnisnormen. Konkrete Eingriffsbefugnisse ergeben sich nur mittelbar aus Art. 641-1 und 692-3
+    КоАП (Bußgeld, Aussetzung oder Verbot des Systembetriebs im Wiederholungsfall) und aus dem allgemeinen
+    Kontrollrecht des Unternehmerkodex.
+
+    '
+  dokumente:
+  - datum: 2025-10-09
+    typ: delegiert
+    titel: 'Постановление Правительства Республики Казахстан от 9 октября 2025 года № 846 „О мерах по
+      реализации Указа Президента Республики Казахстан от 18 сентября 2025 года № 997"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/P2500000846
+    sprache: ru
+    urheber: Regierung der Republik Kasachstan
+    verifiziert: true
+    notiz: 'Der Regierungsbeschluss, der die Umbildung des МЦРИАП in das МИИЦР vollzieht. Der Präsidialerlass
+      Nr. 997 selbst war unter keiner der geprüften adilet-Kennungen abrufbar (siehe offene_punkte).
+
+      '
+  - datum: 2025-11-04
+    typ: norm
+    titel: 'Приказ и.о. Министра искусственного интеллекта и цифрового развития РК от 4 ноября 2025 года
+      № 555/НҚ „Об утверждении Положения о РГУ «Комитет искусственного интеллекта и управления данными»"
+      (aufgehoben)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/G25IPM00555
+    sprache: ru
+    urheber: МИИЦР
+    verifiziert: true
+    notiz: 'Belegt die ursprüngliche Binnenzuständigkeit und deren Aufhebung durch Erlass Nr. 13/НҚ vom
+      13.01.2026 — also genau in der Woche, in der das KI-Gesetz in Kraft trat.
+
+      '
+  offene_punkte:
+  - 'Der Präsidialerlass Nr. 997 vom 18.09.2025 war unter keiner der versuchten adilet-Kennungen (U2500000997,
+    U250000997, U2500997, U25000997) abrufbar; belegt ist er nur mittelbar über die Titelzitate in ПП
+    № 846 und ПП № 263. Der nächste Bearbeiter sollte ihn über die adilet-Volltextsuche nachtragen.
+
+    '
+  - 'Es gibt kein veröffentlichtes „Положение" (Statut) des Ministeriums selbst in dieser Datei; nur die
+    Statuten dreier Komitees.
+
+    '
+  monitoring_quellen:
+  - https://www.gov.kz/memleket/entities/mdai?lang=ru
+  - https://adilet.zan.kz/rus/search/docs?fulltext=%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-koap-641-1
+  - kz-anordnung-2r
+  letzte_pruefung: 2026-09-06
+- id: kz-kriterien-ki-systeme
+  jurisdiktion: kz
+  kurztitel: Kriterien für die Einordnung als KI-System (Erlass 171/НҚ)
+  offizieller_titel: 'Приказ Заместителя Премьер-Министра – Министра искусственного интеллекта и цифрового
+    развития Республики Казахстан „Об утверждении критериев отнесения объектов информатизации к системам
+    искусственного интеллекта" — Erlass über die Kriterien für die Einordnung von Informatisierungsobjekten
+    als KI-Systeme
+
+    '
+  fundstelle: 'Приказ Заместителя Премьер-Министра – Министра искусственного интеллекта и цифрового развития
+    РК от 1 апреля 2026 года № 171/НҚ; staatlich registriert im Justizministerium (adilet-Kennung V2600038288)
+
+    '
+  verfahrensnummer: 171/НҚ
+  status: anwendbar
+  status_detail: 'In Kraft. Ziff. 4 des Erlasses: Inkrafttreten nach Ablauf von zehn Kalendertagen nach
+    der Erstveröffentlichung. Der Erlass beruht auf Art. 13 Abs. 1 Ziff. 6 KI-Gesetz und war nach der
+    Anordnung Nr. 2-р bis JANUAR 2026 zu erlassen; er ist am 01.04.2026 ergangen — rund zweieinhalb Monate
+    zu spät.
+
+    '
+  kurzbeschreibung: 'Bestimmt den sachlichen Anwendungsbereich des KI-Gesetzes. Ohne diesen Erlass wäre
+    der Begriff „система искусственного интеллекта" des Art. 1 Ziff. 5 KI-Gesetz nicht handhabbar. Der
+    Erlass wählt einen FUNKTIONSKATALOG statt einer technischen Definition: Ein Informatisierungsobjekt
+    ist ein KI-System, wenn es eine der aufgezählten Fähigkeiten aufweist (Computer Vision, Verarbeitung
+    natürlicher Sprache, Spracherkennung und -synthese und weitere). Das ist methodisch das Gegenteil
+    des Anhangs I der KI-VO in ihrer ursprünglichen Fassung, der Techniken auflistete.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-01
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/V2600038288
+  themenachsen:
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - 'Ziff. 2 Ziff. 1: Computer Vision — Erkennung, Identifikation und Analyse von Objekten, Ereignissen
+    oder Merkmalen; Bildung digitaler Modelle der Umgebung einschließlich 3D-Rekonstruktion und räumlicher
+    Navigation; autonome semantische Segmentierung, Klassifikation und Identifikation, auch in Echtzeit;
+    Diagnose, Kontrolle, Anomalie- und Risikoerkennung.
+
+    '
+  - 'Ziff. 2 Ziff. 2: Verarbeitung natürlicher Sprache — Analyse und Interpretation von Text und gesprochener
+    Sprache, Semantik und Syntax, Spracherkennung, ERKENNUNG VON ABSICHTEN UND EMOTIONALER FÄRBUNG von
+    Sprache oder Text, maschinelle Übersetzung, Synthese eigenständiger Texte, halbautomatische Inhaltserzeugung,
+    Untertitelung, Gebärdensprachübersetzung. Der Verweis auf Emotionserkennung verzahnt den Katalog mit
+    dem Verbot des Art. 17 Abs. 3 Ziff. 6 KI-Gesetz.
+
+    '
+  - 'Ziff. 2 Ziff. 3: Spracherkennung und -synthese — mehraufgabenfähige Sprachassistenten, AUTHENTIFIZIERUNG
+    VON PERSONEN ANHAND VON STIMMMERKMALEN, Erkennung in schwierigen Umgebungen, Steuerung von Emotion
+    und Intonation in synthetischer Sprache, mehrsprachige Sprachsynthese, ERKENNUNG ANTHROPOLOGISCHER
+    MERKMALE ANHAND DER STIMME, Erkennung emotionaler Nuancen.
+
+    '
+  dokumente:
+  - datum: 2026-04-01
+    typ: norm
+    titel: 'Приказ № 171/НҚ от 1 апреля 2026 года mit Anlage „Критерии отнесения объектов информатизации
+      к системам искусственного интеллекта"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/V2600038288
+    sprache: ru
+    urheber: 'Stellvertretender Premierminister – Minister für künstliche Intelligenz und digitale Entwicklung
+      (Ж. Мадиев)
+
+      '
+    verifiziert: true
+    notiz: 'Der Erlass definiert den Anwendungsbereich des KI-Gesetzes. Der vollständige Kriterienkatalog
+      geht über die drei hier wiedergegebenen Gruppen hinaus; er wurde in dieser Sitzung nur bis zur dritten
+      Gruppe ausgelesen.
+
+      '
+  offene_punkte:
+  - 'Der Kriterienkatalog wurde nur teilweise erfasst (die ersten drei von mehreren Gruppen). Der Rest
+    ist nachzutragen.
+
+    '
+  - 'Das exakte Datum der Erstveröffentlichung und damit des Inkrafttretens (zehn Kalendertage danach)
+    ist der Dokumentkarte zu entnehmen; sie wurde nicht abgerufen.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/V2600038288
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-anordnung-2r
+  letzte_pruefung: 2026-09-06
+- id: kz-maschinenlesbare-formen
+  jurisdiktion: kz
+  kurztitel: Regeln über maschinenlesbare Formen (Erlass 202/НҚ)
+  offizieller_titel: 'Приказ Заместителя Премьер-Министра – Министра искусственного интеллекта и цифрового
+    развития Республики Казахстан „Об утверждении Правил разработки, применения и распространения машиночитаемых
+    форм" — Erlass über die Regeln für Entwicklung, Anwendung und Verbreitung maschinenlesbarer Formen
+
+    '
+  fundstelle: 'Приказ Заместителя Премьер-Министра – Министра искусственного интеллекта и цифрового развития
+    РК от 15 апреля 2026 года № 202/НҚ; adilet-Kennung V2600038444
+
+    '
+  verfahrensnummer: 202/НҚ
+  status: anwendbar
+  status_detail: 'In Kraft; Ziff. 4: zehn Kalendertage nach Erstveröffentlichung. Ergangen auf Grundlage
+    von Art. 22 Abs. 3 KI-Gesetz; Frist nach Anordnung Nr. 2-р war Januar 2026.
+
+    '
+  kurzbeschreibung: 'Der technisch wichtigste Durchführungsakt des kasachischen KI-Rechts. Er bestimmt,
+    in welcher Gestalt der urheberrechtliche Trainingsvorbehalt nach Art. 23 Abs. 5 KI-Gesetz, die Deepfake-Kennzeichnung
+    nach Art. 21 Abs. 2 und die Herstellerangabe bei Datenbibliotheken nach Art. 27 Abs. 5 zu erklären
+    sind. Ziff. 5 nennt sechs zulässige Datenformate, verlangt eine gebilligte Datenschema-Definition,
+    UTF-8 und maschinell prüfbare Pflichtfelder. Ziff. 9 wiederholt den Trainingsvorbehalt wörtlich.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-15
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/V2600038444
+  themenachsen:
+  - urheberrecht
+  - content
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Ziff. 5: Zulässige Strukturierungsformate sind XML, JSON, RDF, CSV, YAML und JSON-LD; verlangt sind
+    ferner eine gebilligte Datenschemadefinition, einheitliche Kodierung (UTF-8), maschinelle Prüfbarkeit
+    der Pflicht- und Zusatzfelder und maschinenlesbare Metadaten, deren Zusammensetzung sich nach dem
+    Zweck der Form, der Art der verarbeiteten Daten und den nationalen oder internationalen Normen richtet.
+    Damit ist die kasachische Rechtsordnung eine der wenigen, die den Rechteinhaber-Vorbehalt FORMATSCHARF
+    regelt — vergleichbare Konkretisierungen zu Art. 4 Abs. 3 DSM-RL fehlen in der EU.
+
+    '
+  - 'Ziff. 9: „Die Nutzung von Werken für das Training von KI-Modellen ist nur zulässig, wenn kein in
+    maschinenlesbarer Form erklärter Vorbehalt des Urhebers oder Rechteinhabers vorliegt." Wortgleiche
+    Wiederholung des Art. 23 Abs. 5 KI-Gesetz auf Verordnungsebene — der Vorbehalt gilt damit auch für
+    die Anwendung der Regeln selbst und nicht nur für den Gesetzesvollzug.
+
+    '
+  - 'Ziff. 6 und 7: Änderungen an maschinenlesbaren Formen erfolgen durch Aktualisierung unter Wahrung
+    der Abwärtskompatibilität; bei wesentlichen Strukturänderungen ist der Parallelbetrieb mehrerer Versionen
+    zulässig; die Aktualisierungsfristen ergeben sich aus den Metadaten der Form selbst.
+
+    '
+  - 'Ziff. 10 und 11: Die Anwendung muss Korrektheit der automatisierten Verarbeitung, Reproduzierbarkeit
+    der Ergebnisse, nachträgliche Kontroll- und Auditierbarkeit sowie Schutz vor unbefugter Datenänderung
+    gewährleisten; das Anwendungsverfahren umfasst Identifikation und Authentifizierung der Datenquelle,
+    Integritäts- und Echtheitsprüfung, Parsing und Schemaprüfung. Das ist faktisch eine Provenienz- und
+    Integritätskette für Trainingsdaten.
+
+    '
+  - 'Ziff. 12: Über die Anwendung konkreter Typen maschinenlesbarer Formen entscheidet der Eigentümer
+    und/oder Besitzer des KI-Systems. Die Regeln schreiben also keinen einheitlichen Standard vor, sondern
+    einen Formatkorridor.
+
+    '
+  dokumente:
+  - datum: 2026-04-15
+    typ: norm
+    titel: 'Приказ № 202/НҚ от 15 апреля 2026 года mit Anlage „Правила разработки, применения и распространения
+      машиночитаемых форм"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/V2600038444
+    sprache: ru
+    urheber: МИИЦР (Ж. Мадиев)
+    verifiziert: true
+    notiz: 'Die Vorschrift, an der die praktische Wirksamkeit des kasachischen TDM-Opt-out hängt.
+
+      '
+  offene_punkte:
+  - 'Die Regeln sagen nicht, WO der Vorbehalt zu hinterlegen ist (Datei am Werk, robots.txt-artige Ressource,
+    zentrales Register). Ziff. 12 überlässt die Wahl des Formats dem Systembetreiber, was die Frage aufwirft,
+    wie ein Rechteinhaber einen Vorbehalt so erklärt, dass er von allen Trainingsbetreibern gelesen werden
+    MUSS. Das ist der zentrale offene Punkt des kasachischen Urheberrechtsmodells.
+
+    '
+  - 'Die Regeln wurden bis Ziff. 12 gelesen; ein möglicher vierter Abschnitt über die Verbreitung maschinenlesbarer
+    Formen ist nachzutragen.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/V2600038444
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-urhg
+  - kz-anordnung-2r
+  letzte_pruefung: 2026-09-06
+- id: kz-vertrauenswuerdige-listen
+  jurisdiktion: kz
+  kurztitel: Regeln über Listen vertrauenswürdiger Hochrisiko-KI (Erlass 196/НҚ)
+  offizieller_titel: 'Приказ Заместителя Премьер-Министра – Министра искусственного интеллекта и цифрового
+    развития Республики Казахстан „Об утверждении Правил формирования отраслевыми государственными органами
+    перечней доверенных систем искусственного интеллекта высокой степени риска и их публикации на интернет-ресурсах
+    государственных органов"
+
+    '
+  fundstelle: 'Приказ от 10 апреля 2026 года № 196/НҚ; adilet-Kennung V2600038422
+
+    '
+  verfahrensnummer: 196/НҚ
+  status: anwendbar
+  status_detail: 'In Kraft; zehn Kalendertage nach Erstveröffentlichung. Grundlage: Art. 19 Abs. 1 KI-Gesetz.
+    Frist nach Anordnung Nr. 2-р war Januar 2026, ergangen am 10.04.2026.
+
+    '
+  kurzbeschreibung: 'Regelt das Verfahren, in dem die Ressortbehörden die Listen vertrauenswürdiger Hochrisiko-KI-Systeme
+    bilden und im Internet veröffentlichen. Die Aufnahme setzt nach Art. 19 Abs. 2 KI-Gesetz ein Audit
+    des Systems voraus. Das Modell ist eine freiwillige staatliche Vertrauensliste, kein Zulassungsverfahren:
+    Der Betrieb eines Hochrisiko-Systems ist auch ohne Listeneintrag zulässig.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-10
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/V2600038422
+  themenachsen:
+  - marktzugang
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Die Listenführung liegt bei den FACHRESSORTS (отраслевые государственные органы), nicht bei der KI-Behörde.
+    Damit entsteht eine sektorale Aufsichtsstruktur neben der horizontalen Zuständigkeit des МИИЦР.
+
+    '
+  - 'Auf der Rechtsfolgenseite ist die Liste ein Reputations- und Beschaffungsinstrument, keine Marktzugangsvoraussetzung.
+    Das unterscheidet das Modell grundlegend von der Konformitätsbewertung nach Art. 43 KI-VO.
+
+    '
+  dokumente:
+  - datum: 2026-04-10
+    typ: norm
+    titel: Приказ № 196/НҚ от 10 апреля 2026 года mit Anlage
+    url: https://adilet.zan.kz/rus/docs/V2600038422
+    sprache: ru
+    urheber: МИИЦР (Ж. Мадиев)
+    verifiziert: true
+    notiz: 'In dieser Sitzung wurde nur der verfügende Teil des Erlasses gelesen, nicht die Anlage mit
+      dem Verfahren.
+
+      '
+  offene_punkte:
+  - 'Die Anlage (das eigentliche Verfahren: Antrag, Auditnachweis, Aufnahme, Streichung, Rechtsschutz)
+    wurde nicht ausgewertet. Ebenso wenig ist geklärt, ob bereits Listen veröffentlicht wurden.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/V2600038422
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-anordnung-2r
+  letzte_pruefung: 2026-09-06
+- id: kz-plattformregeln
+  jurisdiktion: kz
+  kurztitel: Regeln zur nationalen KI-Plattform (Erlass 482/НҚ)
+  offizieller_titel: 'Приказ Заместителя Премьер-Министра – Министра искусственного интеллекта и цифрового
+    развития Республики Казахстан „Об утверждении правил взаимодействия оператора национальной платформы
+    искусственного интеллекта с физическими и юридическими лицами в рамках оказания услуг на национальной
+    платформе искусственного интеллекта для разработки, размещения платформенных программных продуктов,
+    моделей искусственного интеллекта на национальной платформе искусственного интеллекта"
+
+    '
+  fundstelle: 'Приказ от 13 августа 2026 года № 482/НҚ; im Justizministerium registriert am 14.08.2026
+    unter Nr. 39591
+
+    '
+  verfahrensnummer: 482/НҚ; Justizregistrierung Nr. 39591
+  status: anwendbar
+  status_detail: 'Neu (Stand 06.09.2026). Grundlage: Art. 25 Abs. 2 KI-Gesetz. Die Anordnung Nr. 2-р hatte
+    den Erlass für Januar 2026 vorgesehen; tatsächlich ergangen im August 2026 — sieben Monate Verzug.
+
+    '
+  kurzbeschreibung: 'Regelt, unter welchen Bedingungen Private die staatliche KI-Plattform nutzen, dort
+    Modelle und Plattformsoftware entwickeln und hosten dürfen. Betreiber der Plattform ist nach dem Regierungsbeschluss
+    Nr. 25 vom 23.01.2024 die АО „Национальные информационные технологии" (NIT). Die Plattform ist nach
+    Art. 25 Abs. 1 KI-Gesetz ausdrücklich als „kontrollierte Umgebung" für Entwicklung, Training und Probebetrieb
+    während eines begrenzten Zeitraums ausgestaltet — funktional ein staatlich betriebenes Reallabor,
+    aber ohne die Aufsichtserleichterungen, die Art. 57 ff. KI-VO für Reallabore vorsehen.
+
+    '
+  inkrafttreten:
+    datum: 2026-08-14
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/V2600039591
+  themenachsen:
+  - marktzugang
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Zusammenspiel mit Art. 17 Abs. 3 Datenschutzgesetz: Für die nationale KI-Plattform nimmt der Plattformbetreiber
+    die Anonymisierung personenbezogener Daten selbst vor, soweit der Verantwortliche sie nicht bereits
+    vorgenommen hat.
+
+    '
+  - 'Zusammenspiel mit Art. 35 Abs. 2-2 Informatisierungs-/ Cybersicherheitsgesetz: Der Zugang des Plattformbetreibers
+    zu VERTRAULICHEN elektronischen Informationsressourcen ist nur unter Sicherstellung der Anonymisierung
+    zulässig.
+
+    '
+  dokumente:
+  - datum: 2026-08-13
+    typ: norm
+    titel: Приказ № 482/НҚ от 13 августа 2026 года
+    url: https://adilet.zan.kz/rus/search/docs?fulltext=%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B
+    sprache: ru
+    urheber: МИИЦР
+    verifiziert: false
+    notiz: 'Der Erlass wurde in dieser Sitzung nur über die adilet-Volltextsuche nachgewiesen (Titel,
+      Datum, Justizregistrierungsnummer 39591 vom 14.08.2026); die Dokument-URL selbst wurde nicht aufgerufen.
+      Deshalb `verifiziert: false` und Suchtreffer statt Direktlink.
+
+      '
+  - datum: 2024-01-23
+    typ: delegiert
+    titel: 'Постановление Правительства Республики Казахстан от 23 января 2024 года № 25 „Об определении
+      оператора национальной платформы искусственного интеллекта"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/P2400000025
+    sprache: ru
+    urheber: Regierung der Republik Kasachstan (A. Smailow)
+    verifiziert: true
+    notiz: 'Bestimmt die АО „Национальные информационные технологии" zum Betreiber der nationalen KI-Plattform.
+      Erlassen bereits 22 Monate VOR dem KI-Gesetz, auf Grundlage von Art. 1 Ziff. 55 des damaligen Informatisierungsgesetzes
+      — die Plattform ist also älter als ihr gesetzlicher Rahmen.
+
+      '
+  offene_punkte:
+  - 'Die adilet-Kennung des Erlasses Nr. 482/НҚ ist nicht gesichert (vermutet: V2600039591). Der Direktlink
+    ist nachzutragen.
+
+    '
+  - 'Der Regierungsbeschluss Nr. 25 verweist auf Art. 1 Ziff. 55 Informatisierungsgesetz; genau diese
+    Ziffer wurde durch das KI-Begleitgesetz Nr. 231-VIII GESTRICHEN. Die Rechtsgrundlage des Betreiberbeschlusses
+    ist damit entfallen, ohne dass der Beschluss aufgehoben oder auf Art. 12 Ziff. 2 KI-Gesetz umgestellt
+    worden wäre. Nach der Anordnung Nr. 2-р (Ziff. 2 des Anhangs) war eine Änderung des Beschlusses Nr.
+    25 für Januar 2026 vorgesehen; ob sie ergangen ist, war nicht feststellbar.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/P2400000025
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-anordnung-2r
+  - kz-datenschutzgesetz
+  letzte_pruefung: 2026-09-06
+- id: kz-verfassung-2026
+  jurisdiktion: kz
+  kurztitel: Verfassung Kasachstans 2026 (Art. 21)
+  offizieller_titel: 'Қазақстан Республикасының Конституциясы / Конституция Республики Казахстан — Verfassung
+    der Republik Kasachstan, angenommen im republikanischen Referendum vom 15. März 2026
+
+    '
+  fundstelle: 'Конституция принята на республиканском референдуме 15 марта 2026 года. Sie hat die Verfassung
+    vom 30.08.1995 mit Wirkung vom 01.07.2026 abgelöst (adilet.zan.kz führt die Verfassung von 1995 als
+    „Утративший силу — Прекратила действие с 01.07.2026").
+
+    '
+  status: anwendbar
+  status_detail: 'Geltendes Verfassungsrecht seit dem 01.07.2026. Für das KI-Recht ist Art. 21 Abs. 1
+    einschlägig, der den Schutz personenbezogener Daten AUSDRÜCKLICH und AUSDRÜCKLICH AUCH GEGEN DEN EINSATZ
+    DIGITALER TECHNOLOGIEN in Verfassungsrang hebt.
+
+    '
+  kurzbeschreibung: 'Die neue kasachische Verfassung enthält in Art. 21 Abs. 1 ein ausdrückliches Grundrecht
+    auf Schutz personenbezogener Daten vor rechtswidriger Erhebung, Verarbeitung, Speicherung und Nutzung,
+    „einschließlich unter Anwendung digitaler Technologien". Art. 21 Abs. 2 erstreckt denselben Zusatz
+    auf das Bank-, Post- und Fernmeldegeheimnis. Damit hat Kasachstan die datenschutzrechtliche Grundlage
+    des KI-Rechts auf Verfassungsebene verankert — anders als die Verfassung von 1995, die in Art. 18
+    nur allgemein die Unantastbarkeit des Privatlebens schützte. Für die Auslegung des Verbotskatalogs
+    des Art. 17 Abs. 3 KI-Gesetz und des Art. 19-1 Datenschutzgesetz ist das die maßgebliche Auslegungsleitlinie.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-01
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/K2600000000
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Art. 21 Abs. 1: „Право на неприкосновенность частной жизни, личную и семейную тайну, ЗАЩИТУ ПЕРСОНАЛЬНЫХ
+    ДАННЫХ от их незаконного сбора, обработки, хранения и использования, В ТОМ ЧИСЛЕ С ПРИМЕНЕНИЕМ ЦИФРОВЫХ
+    ТЕХНОЛОГИЙ, гарантируется законом."
+
+    '
+  - 'Art. 21 Abs. 2: Das Geheimnis von Bankgeschäften, Einlagen, Korrespondenz, Telefongesprächen sowie
+    Post- und sonstigen über Kommunikationsmittel übertragenen Mitteilungen, „einschließlich unter Anwendung
+    digitaler Technologien", ist gesetzlich geschützt; Einschränkungen nur in den gesetzlich bestimmten
+    Fällen und Verfahren.
+
+    '
+  - 'Art. 21 Abs. 3: Staatliche Organe, gesellschaftliche Vereinigungen, Amtsträger und Massenmedien müssen
+    jedem die Möglichkeit geben, die ihn in seinen Rechten und Interessen berührenden Dokumente und Entscheidungen
+    einzusehen. Das ist die verfassungsrechtliche Wurzel des Auskunftsanspruchs, auf dem Art. 43 Abs.
+    4 Ziff. 2 Digitalkodex und Art. 16 Abs. 1 Ziff. 4 und 5 KI-Gesetz aufbauen.
+
+    '
+  dokumente:
+  - datum: 2026-03-15
+    typ: endfassung
+    titel: Конституция Республики Казахстан (Referendum vom 15.03.2026)
+    url: https://adilet.zan.kz/rus/docs/K2600000000
+    sprache: ru
+    urheber: Republikanisches Referendum / ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Amtlicher Text der geltenden Verfassung. Wichtig für die Verdrahtung: Alle kasachischen KI-Regelwerke
+      dieser Datei sind VOR dem 01.07.2026 erlassen worden und stehen damit unter einer Verfassung, die
+      es bei ihrem Erlass noch nicht gab.
+
+      '
+  offene_punkte:
+  - 'Ob und wie sich der Verfassungswechsel auf die Auslegung des KI-Gesetzes auswirkt, ist noch nicht
+    Gegenstand veröffentlichter Rechtsprechung. Zu beobachten ist insbesondere, ob das Verfassungsgericht
+    Art. 21 Abs. 1 als Prüfungsmaßstab für biometrische Systeme heranzieht (vgl. Art. 7 Abs. 12 Datenschutzgesetz).
+
+    '
+  - 'Der Verfassungstext wurde nur nach den Stichworten „цифров", „персональн" und „искусственн" durchsucht;
+    eine vollständige Auswertung auf KI-relevante Gewährleistungen steht aus.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/K2600000000
+  bezug_regelwerke:
+  - kz-datenschutzgesetz
+  - kz-ki-gesetz
+  - kz-digitalkodex
+  letzte_pruefung: 2026-09-06
+- id: kz-datenschutzgesetz
+  jurisdiktion: kz
+  kurztitel: Datenschutzgesetz Kasachstan (Nr. 94-V)
+  offizieller_titel: 'Қазақстан Республикасының Заңы „Дербес деректер және оларды қорғау туралы" / Закон
+    Республики Казахстан „О персональных данных и их защите" — Gesetz der Republik Kasachstan „Über personenbezogene
+    Daten und deren Schutz"
+
+    '
+  fundstelle: Закон Республики Казахстан от 21 мая 2013 года № 94-V
+  verfahrensnummer: 94-V
+  status: anwendbar
+  status_detail: 'In Kraft, mehrfach geändert. Für das KI-Recht maßgeblich sind die Änderungen durch das
+    KI-Begleitgesetz Nr. 231-VIII vom 17.11.2025 (Art. 1 Ziff. 2-3, Art. 7 Abs. 11 und 12, Art. 8 Abs.
+    5-7, Art. 17 Abs. 3, Art. 19-1) sowie die für 2026 vorgesehenen Änderungen durch Gesetz Nr. 256-VIII
+    vom 09.01.2026 und Gesetz Nr. 326-VIII vom 24.06.2026 (letzteres ändert Art. 7 Abs. 11 — das Scraping-Verbot
+    — erneut).
+
+    '
+  kurzbeschreibung: 'Das Gesetz, an dem die meisten kasachischen KI-Fälle tatsächlich entschieden werden.
+    Es kennt seit November 2025 einen eigenen Abschnitt über automatisierte Verarbeitung (Art. 19-1),
+    ein Verbot der zweckwidrigen Datenextraktion aus öffentlich zugänglichen Quellen zum Aufbau von Datenbanken
+    (Art. 7 Abs. 11), eine Beschränkung biometrischer Erfassung im öffentlichen Raum (Art. 7 Abs. 12)
+    und einen Anonymisierungsauftrag zugunsten der nationalen KI-Plattform (Art. 17 Abs. 3). Sanktioniert
+    wird über Art. 79 КоАП mit Bußgeldern bis 2 000 МРП — dem ZEHNFACHEN des KI-Bußgeldrahmens des Art.
+    641-1 КоАП. Wer in Kasachstan gegen KI-Recht verstößt, wird deshalb regelmäßig über das Datenschutzrecht
+    schärfer belangt als über das KI-Recht.
+
+    '
+  inkrafttreten:
+    datum: 2013-05-21
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/Z1300000094
+  anwendungsdaten:
+  - datum: 2026-01-17
+    was_gilt: 'Art. 19-1 (Anforderungen an automatisierte Verarbeitung), Art. 7 Abs. 11 und 12, Art. 8
+      Abs. 5-7, Art. 17 Abs. 3 — eingefügt durch Gesetz Nr. 231-VIII, in Kraft 60 Kalendertage nach der
+      Erstveröffentlichung vom 18.11.2025.
+
+      '
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z1300000094
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 1 Ziff. 2-3: „автоматизированная обработка персональных данных" — Verarbeitung durch ein Informatisierungsobjekt
+    UNTER AUSSCHLUSS der Beteiligung des Eigentümers, Betreibers oder Dritten am Verarbeitungsvorgang.
+    Der kasachische Begriff stellt auf die Abwesenheit menschlicher Beteiligung AM VORGANG ab, nicht wie
+    Art. 22 DSGVO auf die Ausschließlichkeit der Entscheidungsgrundlage.
+
+    '
+  - 'Art. 7 Abs. 11: Verbot der Erhebung und Verarbeitung personenbezogener Daten zum Aufbau oder zur
+    Erweiterung von Datenbanken mittels zweckwidriger Extraktion aus öffentlich zugänglichen Quellen.
+    Die praktisch bedeutsamste Vorschrift für das Training von Modellen mit Webdaten.
+
+    '
+  - 'Art. 7 Abs. 12: Einsatz technischer Mittel zur biometrischen Erfassung und Identifizierung AN ÖFFENTLICHEN
+    ORTEN nur zum Schutz der Verfassungsordnung, der öffentlichen Ordnung, der Rechte und Freiheiten,
+    der Gesundheit und Sittlichkeit — oder mit Einwilligung.
+
+    '
+  - 'Art. 8 Abs. 5 bis 7: Höchstdauer der Einwilligung, Auslegung bei fehlender Fristangabe, WIDERRUFSRECHT
+    mit Fünfzehn-Arbeitstage- Frist zur Einstellung der Verarbeitung oder begründeten Ablehnung.
+
+    '
+  - 'Art. 19-1 Abs. 1: Verbot der automatisierten Verarbeitung, in deren Ergebnis Rechte oder berechtigte
+    Interessen entstehen, sich ändern oder erlöschen — außer bei Einwilligung oder gesetzlicher Erlaubnis.
+    Abs. 2: Aufklärungs- und Widerspruchsrecht. Abs. 3: Bescheidung binnen DREI ARBEITSTAGEN, Rechtsbehelf.
+
+    '
+  - 'Art. 17 Abs. 3: Anonymisierung für die nationale KI-Plattform durch den Plattformbetreiber nach den
+    Datenverwaltungs- anforderungen der Regierung (ПП РК № 925 vom 07.11.2024).
+
+    '
+  - 'Sanktion: Art. 79 КоАП. Abs. 1 rechtswidrige Erhebung und Verarbeitung: 30/60/100/200 МРП. Abs. 2
+    unter Ausnutzung der Dienststellung: 100/200/300/600 МРП. Abs. 3 Nichtbeachtung der Schutzmaßnahmen:
+    150/300/450/600 МРП. Abs. 4 daraus folgender Verlust oder rechtswidrige Verarbeitung: 200/750/1000/2000
+    МРП.
+
+    '
+  dokumente:
+  - datum: 2013-05-21
+    typ: konsolidiert
+    titel: 'Закон Республики Казахстан от 21 мая 2013 года № 94-V „О персональных данных и их защите"
+      (konsolidierte Fassung)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z1300000094
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Enthält Art. 19-1 und Art. 7 Abs. 11 und 12 im geltenden Wortlaut mit Änderungsfußnoten.
+
+      '
+  - datum: 2024-11-07
+    typ: delegiert
+    titel: 'Постановление Правительства Республики Казахстан от 7 ноября 2024 года № 925 „Об утверждении
+      требований по управлению данными"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/P2400000925
+    sprache: ru
+    urheber: Regierung der Republik Kasachstan
+    verifiziert: true
+    notiz: 'Die „Anforderungen an die Datenverwaltung", auf die das KI-Gesetz (Art. 13 Abs. 2, Art. 14
+      Ziff. 4, Art. 27 Abs. 4) und das Datenschutzgesetz (Art. 17 Abs. 3) durchgehend verweisen. Nach
+      der Anordnung Nr. 2-р (Ziff. 3) war eine KI-Anpassung dieser Anforderungen für Januar 2026 vorgesehen.
+
+      '
+  offene_punkte:
+  - 'Der Inhalt der Änderung des Art. 7 Abs. 11 durch Gesetz Nr. 326-VIII vom 24.06.2026 wurde nicht ausgewertet;
+    adilet vermerkt sie nur als Ankündigung („предусматривается изменение").
+
+    '
+  - 'Ob die Datenverwaltungsanforderungen (ПП № 925) tatsächlich um KI-Vorgaben ergänzt wurden, ist nicht
+    geprüft.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/Z1300000094/history
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-ki-begleitgesetz-231
+  - kz-digitalkodex
+  - kz-verfassung-2026
+  - kz-koap-641-1
+  letzte_pruefung: 2026-09-06
+- id: kz-appk
+  jurisdiktion: kz
+  kurztitel: Verwaltungsverfahrenskodex (АППК, Nr. 350-VI)
+  offizieller_titel: 'Қазақстан Республикасының Әкімшілік рәсімдік-процестік кодексі / АДМИНИСТРАТИВНЫЙ
+    ПРОЦЕДУРНО-ПРОЦЕССУАЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН — Verwaltungsverfahrens- und Verwaltungsprozesskodex
+    der Republik Kasachstan
+
+    '
+  fundstelle: Кодекс Республики Казахстан от 29 июня 2020 года № 350-VI
+  verfahrensnummer: 350-VI
+  status: anwendbar
+  status_detail: 'In Kraft. Für das KI-Recht einschlägig sind zwei Vorschriften: Art. 73 Abs. 2 Ziff.
+    7 (Entfallen der Anhörung bei automatisiertem Verfahren ohne Ermessen) und Art. 24 Abs. 7 (automatisierte
+    Spruchkörperbildung).
+
+    '
+  kurzbeschreibung: 'Der АППК regelt das kasachische Verwaltungsverfahren und den Verwaltungsprozess.
+    Er enthält die einzige positivrechtliche Regelung des vollautomatisierten Verwaltungsakts in Kasachstan:
+    Nach Art. 73 Abs. 2 Ziff. 7 entfällt die sonst zwingende Anhörung des Verfahrensbeteiligten, WENN
+    die Entscheidung im Rahmen eines automatisierten Prozesses ergeht UND die Behörde oder der Amtsträger
+    kein Verwaltungsermessen hat. Das entspricht in der Konstruktion § 24 Abs. 1 Satz 3 VwVfG und § 28
+    Abs. 2 Nr. 4 VwVfG, verzichtet aber auf jede Beschränkung auf gebundene Entscheidungen im Massenverfahren.
+
+    '
+  inkrafttreten:
+    datum: 2021-07-01
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/K2000000350
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 73 Abs. 2 Ziff. 7: Die Pflicht, dem Beteiligten spätestens drei Arbeitstage vor Erlass des Verwaltungsakts
+    Gelegenheit zur Stellungnahme zur vorläufigen Entscheidung zu geben (Abs. 1), entfällt, wenn „решение
+    по административному делу принимается при осуществлении автоматизированного процесса, при этом административный
+    орган, должностное лицо не наделены административным усмотрением". Die Vorschrift knüpft an das FEHLENDE
+    ERMESSEN an, nicht an die Belastungswirkung — anders als Art. 19-1 Abs. 1 Datenschutzgesetz, das jede
+    rechtsgestaltende automatisierte Verarbeitung verbietet. Beide Normen sind nebeneinander anwendbar
+    und laufen inhaltlich auseinander.
+
+    '
+  - 'Art. 73 Abs. 1 Ziff. 2: Die Anhörung selbst darf „durch Nutzung digitaler Systeme" (использование
+    цифровых систем) durchgeführt werden — die Digitalisierung des Anhörungsverfahrens ist damit ausdrücklich
+    zugelassen.
+
+    '
+  - 'Art. 24 Abs. 7: Der Spruchkörper für eine Verwaltungssache wird unter Berücksichtigung von Belastung
+    und Spezialisierung der Richter in einem Verfahren gebildet, das die Einflussnahme interessierter
+    Personen ausschließt, „в том числе с использованием автоматизированной цифровой системы" — auch unter
+    Einsatz eines automatisierten digitalen Systems. Das ist die gesetzliche Grundlage der algorithmischen
+    Geschäftsverteilung an kasachischen Verwaltungsgerichten.
+
+    '
+  dokumente:
+  - datum: 2020-06-29
+    typ: konsolidiert
+    titel: 'Административный процедурно-процессуальный кодекс Республики Казахстан от 29 июня 2020 года
+      № 350-VI (konsolidierte Fassung)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/K2000000350
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Enthält Art. 73 Abs. 2 Ziff. 7 und Art. 24 Abs. 7 im geltenden Wortlaut.
+
+      '
+  offene_punkte:
+  - 'Der АППК ist nicht an das KI-Gesetz oder den Digitalkodex angepasst worden. Insbesondere fehlt eine
+    Verzahnung des Art. 73 Abs. 2 Ziff. 7 mit dem Anspruch auf Überprüfung durch einen Menschen nach Art.
+    43 Abs. 4 Ziff. 3 Digitalkodex. Nach dem Wortlaut kann ein automatisierter Verwaltungsakt ohne Anhörung
+    ergehen, gegen den anschließend ein Überprüfungsanspruch nach dem Digitalkodex besteht — das Verhältnis
+    der beiden Verfahren ist offen.
+
+    '
+  - 'Das Datum des Inkrafttretens (üblicherweise 01.07.2021) wurde nicht am Kodextext verifiziert.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/K2000000350
+  bezug_regelwerke:
+  - kz-digitalkodex
+  - kz-datenschutzgesetz
+  - kz-ki-gesetz
+  letzte_pruefung: 2026-09-06
+- id: kz-urhg
+  jurisdiktion: kz
+  kurztitel: Urheberrechtsgesetz Kasachstan (Nr. 6-I)
+  offizieller_titel: 'Қазақстан Республикасының Заңы „Авторлық құқық және сабақтас құқықтар туралы" /
+    Закон Республики Казахстан „ОБ АВТОРСКОМ ПРАВЕ И СМЕЖНЫХ ПРАВАХ" — Gesetz der Republik Kasachstan
+    „Über das Urheberrecht und die verwandten Schutzrechte"
+
+    '
+  fundstelle: 'Закон Республики Казахстан от 10 июня 1996 года № 6-I; Ведомости Парламента РК 1996 г.,
+    № 8-9, ст. 237. Letzte Textänderung nach adilet: 20.08.2026.
+
+    '
+  verfahrensnummer: 6-I
+  status: anwendbar
+  status_detail: 'In Kraft. Das Gesetz enthält KEINE eigene KI-Vorschrift. Die urheberrechtlichen KI-Regeln
+    Kasachstans stehen ausschließlich in Art. 23 des KI-Gesetzes und in den Regeln über maschinenlesbare
+    Formen (Erlass Nr. 202/НҚ). Das ist ein bewusster regelungssystematischer Bruch: Kasachstan hat die
+    Zuordnung KI-erzeugter Ergebnisse und den Trainingsvorbehalt NICHT ins Urheberrechtsgesetz eingestellt,
+    sondern ins KI-Gesetz.
+
+    '
+  kurzbeschreibung: 'Klassisches Urheberrechtsgesetz kontinentaleuropäischer Prägung. Autor ist nach Art.
+    2 die natürliche Person, durch deren schöpferische Arbeit das Werk geschaffen wurde. Werke sind nach
+    Art. 6 schutzfähig, wenn sie Ergebnis schöpferischer Tätigkeit sind und in objektiver Form vorliegen.
+    Datenbanken sind als Sammelwerke geschützt, soweit Auswahl oder Anordnung schöpferisch sind. Die Schranken
+    (freie Nutzung) stehen in den Art. 18 ff.; Art. 23 Abs. 3 KI-Gesetz stellt ausdrücklich klar, dass
+    das Training von KI-Modellen NICHT unter die Bildungs- und Wissenschaftsschranke fällt.
+
+    '
+  inkrafttreten:
+    datum: 1996-06-10
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/Z960000006_
+  themenachsen:
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Art. 2: Legaldefinitionen. Datenbank ist eine nach Auswahl oder Anordnung schöpferische Zusammenstellung
+    von Daten, systematisiert zur Auffindung und Verarbeitung mittels Rechenanlage. Computerprogramm ist
+    ein Befehlssatz, dessen Aufzeichnung auf einem maschinenlesbaren Träger die Ausführung einer bestimmten
+    Aufgabe durch die Rechenanlage bewirkt.
+
+    '
+  - 'Das Gesetz kennt keinen Werkbegriff, der maschinelle Erzeugung erfasst, und keine dem Art. 23 KI-Gesetz
+    entsprechende Zuordnungsregel. Die materielle Antwort auf die Schutzfähigkeit KI-erzeugter Ergebnisse
+    steht in Art. 23 Abs. 1 KI-Gesetz („nur bei schöpferischem Beitrag eines Menschen").
+
+    '
+  - 'Die Anerkennung des PROMPTS als eigenständiger urheberrechtlicher Schutzgegenstand (Art. 23 Abs.
+    2 KI-Gesetz) hat im Urheberrechtsgesetz keine Entsprechung; sie ist über die Verweisung „в соответствии
+    с законодательством Республики Казахстан об авторском праве и смежных правах" an dessen Werkbegriff
+    angebunden.
+
+    '
+  dokumente:
+  - datum: 1996-06-10
+    typ: konsolidiert
+    titel: 'Закон Республики Казахстан от 10 июня 1996 года № 6-I „Об авторском праве и смежных правах"
+      (konsolidierte Fassung)
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z960000006_
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Volltextprüfung ergab: keine Fundstelle für „искусственный интеллект", „обучение модели" oder
+      „машиночитаемая форма". Das belegt, dass die KI-Regelung Kasachstans außerhalb des Urheberrechtsgesetzes
+      steht.
+
+      '
+  - datum: 2015-11-24
+    typ: uebersicht
+    titel: 'WIPO Lex: Закон Республики Казахстан № 6-I от 10.06.1996 г. „Об авторском праве и смежных
+      правах" (Fassung 2015)
+
+      '
+    url: https://www.wipo.int/wipolex/ru/legislation/details/16010
+    sprache: ru
+    urheber: WIPO
+    verifiziert: false
+    notiz: 'Nur als Zusatznachweis; die maßgebliche konsolidierte Fassung steht auf adilet.zan.kz. Die
+      WIPO-Fassung ist auf dem Stand 2015 und damit veraltet.
+
+      '
+  offene_punkte:
+  - 'Die Schrankenbestimmungen (Art. 18 ff.) wurden nicht im Einzelnen ausgewertet. Für die Frage, welche
+    Schranke Art. 23 Abs. 3 KI-Gesetz ausschließt („freie Nutzung zu Bildungs- oder Wissenschaftszwecken"),
+    ist der genaue Wortlaut der einschlägigen Schranke nachzutragen.
+
+    '
+  - 'Ungeklärt ist, wie sich Art. 23 Abs. 4 KI-Gesetz (Training ist keine Nutzung in den Formen der Verwertungsrechte)
+    zu Art. 16 Urheberrechtsgesetz (Katalog der Verwertungsrechte) verhält: Nach dem Wortlaut nimmt das
+    KI-Gesetz das Training aus dem Verwertungsrechtskatalog heraus, macht es aber zugleich vom Fehlen
+    eines Vorbehalts abhängig — eine Konstruktion ohne Vorbild.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/Z960000006_
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-maschinenlesbare-formen
+  letzte_pruefung: 2026-09-06
+- id: kz-cybersicherheitsgesetz
+  jurisdiktion: kz
+  kurztitel: Cybersicherheitsgesetz (ehem. Informatisierungsgesetz, Nr. 418-V)
+  offizieller_titel: 'Закон Республики Казахстан „О кибербезопасности" (bis Juli 2026: „Об информатизации")
+    — Gesetz der Republik Kasachstan „Über die Cybersicherheit" (vormals „Über die Informatisierung")
+
+    '
+  fundstelle: 'Закон Республики Казахстан от 24 ноября 2015 года № 418-V ЗРК; „Казахстанская правда" vom
+    26.11.2015 № 227 (28103); „Егемен Қазақстан" vom 26.11.2015 № 227 (28705); Ведомости Парламента РК
+    2015 г., № 22-V, ст. 155. Registriernummer im Staatsregister: 95699.
+
+    '
+  verfahrensnummer: 418-V
+  status: anwendbar
+  status_detail: 'In Kraft, aber grundlegend umgebaut. Der TITEL des Gesetzes wurde durch Gesetz Nr. 256-VIII
+    vom 09.01.2026 von „Об информатизации" in „О кибербезопасности" geändert, die Präambel gestrichen
+    und die Abschnittsüberschrift des Abschnitts 1 aufgehoben — jeweils mit Wirkung sechs Monate nach
+    Erstveröffentlichung, also ab Juli 2026. adilet führt als letztes Änderungsdatum den 25.08.2026.
+
+    '
+  kurzbeschreibung: 'Das Gesetz war bis 2026 das kasachische Grundgesetz der Informatisierung; mit dem
+    Digitalkodex ist sein Informatisierungsteil weggefallen und der Rest zum Cybersicherheitsgesetz geworden.
+    Für das KI-Recht bleiben drei durch das KI-Begleitgesetz Nr. 231-VIII eingefügte Vorschriften bedeutsam:
+    Art. 35 Abs. 2-2 (anonymisierter Zugang des KI-Plattformbetreibers zu vertraulichen Ressourcen), Art.
+    36 Abs. 6 (Verweisung der automatisierten Verarbeitung ins Datenschutzrecht) und Art. 39 Abs. 7 (staatliche
+    KI-Systeme unterliegen zusätzlich dem KI-Recht). Der Begriff „критически важные цифровые объекты"
+    (kritisch wichtige digitale Objekte) des Art. 1 ist die Anknüpfung, über die Hochrisiko-KI nach Art.
+    17 Abs. 1 KI-Gesetz den staatlichen Cybersicherheitsanforderungen unterworfen wird.
+
+    '
+  inkrafttreten:
+    datum: 2016-01-01
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z1500000418
+  anwendungsdaten:
+  - datum: 2026-07-10
+    was_gilt: 'Neuer Titel „О кибербезопасности", Streichung der Präambel und der Abschnittsüberschrift
+      — angeordnet durch Gesetz Nr. 256-VIII vom 09.01.2026 mit einer Frist von sechs Monaten nach Erstveröffentlichung.
+
+      '
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z1500000418
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Art. 1 Ziff. 3: „критически важные цифровые объекты" — digitale Objekte, deren Störung oder Ausfall
+    zur rechtswidrigen Erhebung und Verarbeitung zugangsbeschränkter personenbezogener Daten, zu Notlagen
+    sozialen oder technogenen Charakters oder zu erheblichen negativen Folgen für Verteidigung, Sicherheit,
+    internationale Beziehungen, Wirtschaft, einzelne Wirtschaftsbereiche oder die Lebenstätigkeit der
+    Bevölkerung führt; einschließlich der Infrastrukturen Wärme-, Strom-, Gas- und Wasserversorgung, Industrie,
+    Gesundheit, Telekommunikation, Bankwesen, Verkehr, Wasserbau, Strafverfolgung und „digitale Regierung".
+
+    '
+  - 'Art. 35 Abs. 2-2 (eingefügt durch Nr. 231-VIII): Zugang des Betreibers der nationalen KI-Plattform
+    zu VERTRAULICHEN elektronischen Informationsressourcen nur unter Sicherstellung der Anonymisierung;
+    die Daten werden nach den Datenverwaltungsanforderungen bereitgestellt.
+
+    '
+  - 'Art. 39 Abs. 7 (eingefügt durch Nr. 231-VIII): Erstellung und Entwicklung von KI-Systemen, die zu
+    den Informatisierungsobjekten des „elektronischen Regierens" gehören, erfolgen unter Beachtung der
+    Besonderheiten des KI-Rechts.
+
+    '
+  - 'Art. 9-1 (eingefügt durch Nr. 231-VIII): Lizenzpflicht für Tätigkeiten im Bereich der Informationssicherheit.
+    Zusammen mit der Änderung des Art. 1 Ziff. 30-6 und 30-7 (Betreiber müssen Residenten Kasachstans
+    OHNE ausländische Beteiligung sein) ergibt sich eine Lokalisierungsanforderung für Informationssicherheits-Dienstleister,
+    die auch KI-Auditoren trifft.
+
+    '
+  dokumente:
+  - datum: 2015-11-24
+    typ: konsolidiert
+    titel: 'Закон Республики Казахстан от 24 ноября 2015 года № 418-V ЗРК „О кибербезопасности" (konsolidierte
+      Fassung; bis Juli 2026 „Об информатизации")
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z1500000418
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Die Titelfußnote („Сноска. Заголовок Закона - в редакции Закона РК от 09.01.2026 № 256-VIII")
+      belegt die Umbenennung. Wer nach dem kasachischen Informatisierungsgesetz sucht, muss diese Fundstelle
+      kennen.
+
+      '
+  offene_punkte:
+  - 'Welche Vorschriften des alten Informatisierungsgesetzes in den Digitalkodex übergegangen und welche
+    ersatzlos entfallen sind, wurde nicht systematisch abgeglichen. Das ist für die Verdrahtung der Verweisungen
+    im KI-Gesetz (Art. 17 Abs. 4 verweist auf „законодательство об информатизации") erheblich: Das KI-Gesetz
+    verweist auf ein Gesetz, das es unter diesem Namen seit Juli 2026 nicht mehr gibt.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/Z1500000418/history
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-digitalkodex
+  - kz-ki-begleitgesetz-231
+  letzte_pruefung: 2026-09-06
+- id: kz-zugang-information
+  jurisdiktion: kz
+  kurztitel: Gesetz über den Zugang zu Informationen (Nr. 401-V)
+  offizieller_titel: 'Закон Республики Казахстан „О доступе к информации" — Gesetz der Republik Kasachstan
+    „Über den Zugang zu Informationen"
+
+    '
+  fundstelle: Закон Республики Казахстан от 16 ноября 2015 года № 401-V ЗРК
+  verfahrensnummer: 401-V
+  status: anwendbar
+  status_detail: 'In Kraft. Es enthält keine KI-spezifische Vorschrift. Seine Bedeutung für das KI-Recht
+    liegt in der Verzahnung mit Art. 21 Abs. 3 der Verfassung 2026 und mit den Auskunftsansprüchen des
+    Art. 16 KI-Gesetz und des Art. 43 Digitalkodex: Der Anspruch auf Erklärung einer algorithmischen Entscheidung
+    gegenüber einer Behörde läuft über dieses Gesetz.
+
+    '
+  kurzbeschreibung: 'Regelt den Zugang zu Informationen bei staatlichen Stellen, Quasistaats- und marktbeherrschenden
+    Unternehmen. Für den KI-Einsatz in der Verwaltung ist es die Anspruchsgrundlage, über die Betroffene
+    Informationen über eingesetzte Systeme, Kriterien und Datengrundlagen erlangen können — soweit nicht
+    die Ausnahme des Art. 43 Abs. 4 Ziff. 2 Digitalkodex (keine Offenlegung von Algorithmen, Quellcode
+    und geschützten Geheimnissen) entgegensteht.
+
+    '
+  inkrafttreten:
+    datum: 2016-01-01
+    verifiziert: false
+    quelle: https://adilet.zan.kz/rus/docs/Z1500000401
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Das Gesetz kennt keine Kategorie „algorithmische Entscheidung". Der Auskunftsanspruch ist auf „Informationen"
+    gerichtet; ob Modellparameter, Trainingsdatenbeschreibungen oder Risikoeinstufungen darunterfallen,
+    ist ungeklärt.
+
+    '
+  - 'Kollisionsnorm: Art. 43 Abs. 4 Ziff. 2 Digitalkodex schließt die Offenlegung von Algorithmen und
+    Quellcode ausdrücklich aus. Diese spätere und speziellere Vorschrift begrenzt den Informationszugangsanspruch
+    für den KI-Bereich.
+
+    '
+  dokumente:
+  - datum: 2015-11-16
+    typ: konsolidiert
+    titel: 'Закон Республики Казахстан от 16 ноября 2015 года № 401-V ЗРК „О доступе к информации"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/Z1500000401
+    sprache: ru
+    urheber: ИПС „Әділет"
+    verifiziert: true
+    notiz: 'Amtliche konsolidierte Fassung. In dieser Sitzung wurde nur der Kopf des Dokuments geprüft,
+      nicht der Volltext auf KI-Bezugspunkte durchsucht.
+
+      '
+  offene_punkte:
+  - 'Volltextauswertung steht aus. Zu prüfen wäre insbesondere, ob die Liste der zwingend zu veröffentlichenden
+    Informationen (offene Daten) durch den Digitalkodex um Angaben zu eingesetzten algorithmischen Systemen
+    erweitert wurde.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/Z1500000401
+  bezug_regelwerke:
+  - kz-digitalkodex
+  - kz-verfassung-2026
+  - kz-ki-gesetz
+  letzte_pruefung: 2026-09-06
+- id: kz-ki-konzeption-2024
+  jurisdiktion: kz
+  kurztitel: KI-Konzeption 2024–2029 (ПП № 592)
+  offizieller_titel: 'Постановление Правительства Республики Казахстан „Об утверждении Концепции развития
+    искусственного интеллекта на 2024 – 2029 годы" — Regierungsbeschluss über die Billigung der Konzeption
+    zur Entwicklung der künstlichen Intelligenz für 2024–2029
+
+    '
+  fundstelle: 'Постановление Правительства Республики Казахстан от 24 июля 2024 года № 592
+
+    '
+  verfahrensnummer: '592'
+  status: softlaw
+  status_detail: 'In Kraft seit dem Tag der Unterzeichnung (Ziff. 4). Sie ist das Programmdokument, aus
+    dem das KI-Gesetz von 2025 hervorgegangen ist: Richtung 5 der Konzeption („Regulierung der Rechtsverhältnisse
+    im Bereich der künstlichen Intelligenz") beschreibt die Bausteine, die das Gesetz Nr. 230-VIII später
+    tatsächlich enthält. Berichtspflicht des Ministeriums jährlich bis zum 1. Februar.
+
+    '
+  kurzbeschreibung: 'Fünf Richtungen: Daten, Infrastruktur, Humankapital, Forschung, Regulierung. Für
+    das Rechtsverständnis wichtig ist, dass die Konzeption die Regulierungsziele bereits 2024 ausformuliert
+    hat: Begriffsapparat, ethische Grundsätze, staatliche Regulierung, Verantwortlichkeit, Sicherheitsnormen,
+    Übereinstimmung von KI-Produkten mit dem Recht des geistigen Eigentums, vereinfachte Einführungsmechanismen,
+    Verhinderung krimineller Nutzung und KENNZEICHNUNG von mit KI erzeugten Ergebnissen und Produkten.
+    Alle diese Punkte sind im Gesetz von 2025 wiederzufinden. Angekündigt, aber im Gesetz NICHT umgesetzt
+    sind: eigene Ethiknormen, ein nationales Normungs- und Konformitätsbewertungssystem für KI-Produkte
+    und ein Branchenrat für KI-Entwicklung.
+
+    '
+  inkrafttreten:
+    datum: 2024-07-24
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/P2400000592
+  themenachsen:
+  - governance
+  - urheberrecht
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Richtung 5 Ziff. 1: Katalog der zu regelnden Aspekte, darunter ausdrücklich „маркировка результатов
+    и продуктов, полученных с применением или созданных с помощью искусственного интеллекта" — die Kennzeichnungspflicht,
+    die Art. 21 KI-Gesetz später positiviert hat.
+
+    '
+  - 'Richtung 5 Ziff. 2: Ethiknormen zur Verhinderung jeder Art von Diskriminierung durch mangelhafte
+    KI-Entscheidungen und zur Vereinbarkeit mit sittlichen, geistigen und kulturellen Werten. Ein solches
+    Ethikdokument war bis 06.09.2026 nicht auffindbar.
+
+    '
+  - 'Richtung 5 Ziff. 3: Nationales Normungssystem und Konformitätsbewertung mit einem Mindestbestand
+    technischer Anforderungen an KI-Produkte. Umgesetzt ist davon nur die Anbindung an die Normung über
+    Art. 14 Ziff. 14 Digitalkodex.
+
+    '
+  - 'Richtung 5 Ziff. 4: Branchenrat für KI-Entwicklung als beratendes Gremium, unter anderem zur Bestimmung
+    der prioritären Branchen. Das Gesetz hat diese Aufgabe statt dessen der Regierung (Art. 12 Ziff. 3)
+    und dem Ministerium (Art. 13 Abs. 1 Ziff. 7) zugewiesen.
+
+    '
+  dokumente:
+  - datum: 2024-07-24
+    typ: leitlinie
+    titel: 'Постановление Правительства РК от 24 июля 2024 года № 592 mit Anlage „Концепция развития искусственного
+      интеллекта на 2024 – 2029 годы"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/P2400000592
+    sprache: ru
+    urheber: Regierung der Republik Kasachstan (O. Bektenow)
+    verifiziert: true
+    notiz: 'Zeigt, welche Regelungsziele Kasachstan sich 2024 gesetzt hat und welche es 2025 tatsächlich
+      umgesetzt hat. Für die Bewertung der Regelungslücken (Ethik, Normung, Branchenrat) der maßgebliche
+      Vergleichsmaßstab.
+
+      '
+  offene_punkte:
+  - 'Ob die angekündigten Ethiknormen, technischen Regelwerke und der Branchenrat inzwischen ergangen
+    bzw. eingesetzt sind, war nicht feststellbar. Die jährlichen Umsetzungsberichte an die Regierung (Ziff.
+    2 des Beschlusses) sind nicht öffentlich auffindbar.
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/P2400000592
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-digital-qazaqstan
+  letzte_pruefung: 2026-09-06
+- id: kz-digital-qazaqstan
+  jurisdiktion: kz
+  kurztitel: Strategie „Digital Qazaqstan" bis 2029 (Указ № 1311)
+  offizieller_titel: 'Указ Президента Республики Казахстан „Об утверждении Общенациональной стратегии
+    масштабной цифровизации и тотального внедрения технологий искусственного интеллекта «Digital Qazaqstan»
+    до 2029 года" — Erlass des Präsidenten über die Billigung der gesamtnationalen Strategie der umfassenden
+    Digitalisierung und der totalen Einführung von KI-Technologien „Digital Qazaqstan" bis 2029
+
+    '
+  fundstelle: Указ Президента Республики Казахстан от 9 июня 2026 года № 1311
+  verfahrensnummer: '1311'
+  status: softlaw
+  status_detail: 'In Kraft seit dem Tag der Unterzeichnung (Ziff. 5). Ergangen auf Grundlage von Ziff.
+    3 des Gesamtnationalen Maßnahmenplans zur Umsetzung der Präsidentenbotschaft vom 08.09.2025 („Kasachstan
+    im Zeitalter der künstlichen Intelligenz"), gebilligt durch Präsidialerlass Nr. 1042 vom 13.10.2025.
+    Die Regierung hatte binnen dreier Monate (also bis etwa 09.09.2026) einen Aktionsplan zu erarbeiten
+    und zu billigen.
+
+    '
+  kurzbeschreibung: 'Die Dachstrategie der kasachischen KI-Politik. Sie bilanziert ausdrücklich die 2025/2026
+    geschaffene Rechtsarchitektur (KI-Gesetz und Digitalkodex), die Infrastruktur (Supercomputer „Alem.Cloud"
+    und „Al-Farabium", Positionen 86 und 103 der TOP500) und das internationale KI-Zentrum „Alem.AI",
+    und formuliert daraus sektorale Einführungsziele — unter anderem den Übergang zu „налоги как сервис"
+    mit prädiktiver KI-Analytik in der Steuerverwaltung. Rechtlich ist sie kein Regelwerk mit Verhaltenspflichten,
+    aber sie ist der Bezugspunkt, an dem die Ressorts ihre KI-Vorhaben ausrichten müssen; die persönliche
+    Verantwortung für die Kennzahlen liegt bei den Behördenleitern (Ziff. 3).
+
+    '
+  inkrafttreten:
+    datum: 2026-06-09
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/U2600001311
+  anwendungsdaten:
+  - datum: 2026-09-09
+    was_gilt: 'Ablauf der Dreimonatsfrist (Ziff. 2 Ziff. 1) für Regierung und Behörden, einen Aktionsplan
+      zur Umsetzung der Strategie zu erarbeiten und zu billigen.
+
+      '
+    verifiziert: true
+    quelle: https://adilet.zan.kz/rus/docs/U2600001311
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - sektor-finanz
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Die Strategie ordnet die Rechtsakte selbst ein: „приняты Закон Республики Казахстан «Об искусственном
+    интеллекте» и Цифровой кодекс, открыт международный центр ИИ «Alem.AI», сформирована национальная
+    платформа ИИ" — sie ist damit die amtliche Selbstbeschreibung der kasachischen KI-Rechtsordnung.
+
+    '
+  - 'Steuerverwaltung: Übergang vom nachträglichen Kontrollmodell zu „Steuern als Dienstleistung" mit
+    prädiktiver KI-Analytik und automatischer Begleitung von Geschäftsvorgängen. Das ist der praktisch
+    bedeutsamste angekündigte Anwendungsfall vollautomatisierter Verwaltungsentscheidungen und wird an
+    Art. 73 Abs. 2 Ziff. 7 АППК und Art. 43 Digitalkodex zu messen sein.
+
+    '
+  - 'Ziff. 3: Persönliche Verantwortung der ersten Behördenleiter für die Erreichung der Kennzahlen; Kontrolle
+    bei der Präsidialadministration. Das ist der Durchsetzungsmechanismus, der die Strategie faktisch
+    verbindlicher macht als ihr Rechtscharakter nahelegt.
+
+    '
+  dokumente:
+  - datum: 2026-06-09
+    typ: leitlinie
+    titel: 'Указ Президента РК от 9 июня 2026 года № 1311 mit Anlage „Общенациональная стратегия «Digital
+      Qazaqstan» до 2029 года"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/U2600001311
+    sprache: ru
+    urheber: Präsident der Republik Kasachstan (K. Tokajew)
+    verifiziert: true
+    notiz: 'Umfangreiches Dokument (rund 160 000 Zeichen). In dieser Sitzung nur nach Regulierungsbezügen
+      durchsucht, nicht vollständig ausgewertet.
+
+      '
+  - datum: 2025-10-13
+    typ: leitlinie
+    titel: 'Указ Президента РК от 13 октября 2025 года № 1042 „О мерах по реализации Послания Главы государства
+      народу Казахстана от 8 сентября 2025 года «Казахстан в эпоху искусственного интеллекта»"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/U2500001042
+    sprache: ru
+    urheber: Präsident der Republik Kasachstan
+    verifiziert: true
+    notiz: 'Der Gesamtnationale Maßnahmenplan, aus dem sowohl die Strategie Nr. 1311 als auch — zeitlich
+      unmittelbar anschließend — das KI-Gesetz vom 17.11.2025 hervorgegangen sind. Berichtspflicht der
+      Regierung an die Präsidialadministration jährlich bis zum 5. Februar und bis zum 25. Juli.
+
+      '
+  - datum: 2026-01-31
+    typ: leitlinie
+    titel: 'Постановление Правительства РК от 31 января 2026 года № 60 „Об утверждении Плана мероприятий
+      по проведению Года цифровизации и искусственного интеллекта"
+
+      '
+    url: https://adilet.zan.kz/rus/docs/P2600000060
+    sprache: ru
+    urheber: Regierung der Republik Kasachstan
+    verifiziert: true
+    notiz: 'Ergangen auf Grundlage des Präsidialerlasses Nr. 1151 vom 06.01.2026, mit dem 2026 zum „Jahr
+      der Digitalisierung und der künstlichen Intelligenz" erklärt wurde. Quartalsweise Berichtspflicht
+      an das МИИЦР bis zum 10. des Folgemonats.
+
+      '
+  offene_punkte:
+  - 'Der Präsidialerlass Nr. 1151 vom 06.01.2026 („Об объявлении Года цифровизации и искусственного интеллекта")
+    steht auf adilet unter https://adilet.zan.kz/rus/docs/U2600001151; sein Inhalt wurde nicht ausgewertet.
+
+    '
+  - 'Ob der nach Ziff. 2 Ziff. 1 des Erlasses Nr. 1311 binnen drei Monaten zu billigende Aktionsplan ergangen
+    ist, war am 06.09.2026 nicht feststellbar — die Frist lief zu diesem Zeitpunkt noch (bis etwa 09.09.2026).
+
+    '
+  monitoring_quellen:
+  - https://adilet.zan.kz/rus/docs/U2600001311
+  - https://www.akorda.kz/ru/legal_acts/decrees
+  bezug_regelwerke:
+  - kz-ki-gesetz
+  - kz-ki-konzeption-2024
+  - kz-digitalkodex
+  - kz-ki-behoerde
+  letzte_pruefung: 2026-09-06
+- id: uz-ki-omnibus-1115
+  jurisdiktion: uz
+  kurztitel: KI-Omnibusnovelle Usbekistan (ЎРҚ-1115)
+  offizieller_titel: 'Ўзбекистон Республикасининг Қонуни „Сунъий интеллектни қўллаш орқали юзага келадиган
+    муносабатлар тартибга солиниши муносабати билан Ўзбекистон Республикасининг айрим қонун ҳужжатларига
+    қўшимча ва ўзгартиришлар киритиш тўғрисида" — Gesetz der Republik Usbekistan „Über die Einführung
+    von Ergänzungen und Änderungen in einzelne Gesetzgebungsakte der Republik Usbekistan im Zusammenhang
+    mit der Regelung der durch die Anwendung künstlicher Intelligenz entstehenden Verhältnisse"
+
+    '
+  fundstelle: 'Ўзбекистон Республикасининг 2026 йил 21 январдаги ЎРҚ-1115-сон Қонуни / Закон Республики
+    Узбекистан от 21 января 2026 года № ЗРУ-1115. Amtliche Veröffentlichung: Қонунчилик маълумотлари миллий
+    базаси (Nationale Gesetzgebungsdatenbank), 21.01.2026, Nr. 03/26/1115/0063. Angenommen von der Gesetzgebungskammer
+    am 12.08.2025, gebilligt vom Senat am 01.11.2025, unterzeichnet von Präsident Sh. Mirziyoyev in Taschkent
+    am 21.01.2026.
+
+    '
+  verfahrensnummer: ЎРҚ-1115 / ЗРУ-1115
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 21.01.2026. Art. 4: „Ушбу Қонун расмий эълон қилинган кундан эътиборан
+    кучга киради" — das Gesetz tritt mit dem Tag der amtlichen Veröffentlichung in Kraft; Veröffentlichung
+    und Inkrafttreten fallen also auf denselben Tag. Zwischen der Annahme durch die Gesetzgebungskammer
+    (12.08.2025) und der Unterzeichnung (21.01.2026) liegen mehr als fünf Monate.
+
+    '
+  kurzbeschreibung: 'Usbekistan hat KEIN eigenständiges KI-Gesetz. Diese Novelle ist der gesamte gesetzesrangige
+    KI-Regelungsbestand des Landes. Sie ändert genau ZWEI Rechtsakte: das Informatisierungsgesetz Nr.
+    560-II von 2003 (Legaldefinition der KI, staatspolitische Zielbestimmung, Behördenzuständigkeiten,
+    ein neuer Art. 7-1 über den KI-Einsatz bei Informationsressourcen und Informationssystemen, eine Ergänzung
+    des Verbotskatalogs für Webseitenbetreiber in Art. 12-1) und den Ordnungswidrigkeitenkodex (neuer
+    Abs. 2 des Art. 46-2 mit einem Bußgeldtatbestand für die rechtswidrige KI-gestützte Verarbeitung personenbezogener
+    Daten). Die Präambel benennt die drei Regelungszwecke ausdrücklich: eine Legaldefinition der KI auf
+    Gesetzesebene, allgemeine Regeln für den KI-Einsatz, und Verwaltungssanktionen für rechtswidrige KI-gestützte
+    Datenverarbeitung.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-21
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/8008401
+  themenachsen:
+  - governance
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  - content
+  regelungsschwerpunkte:
+  - 'Art. 1 Ziff. 1 — Informatisierungsgesetz Art. 3, neuer neunter Absatz, Legaldefinition: „сунъий интеллект
+    — инсоннинг билим ва кўникмаларига тақлид қилиш, шу жумладан мустақил равишда ўрганиш ва ечимларни
+    излаш ҳамда аниқ вазифаларни бажаришда инсон ақлий фаолияти натижалари билан таққосланадиган натижаларни
+    олиш имконини берадиган технологик ечимлар мажмуи" — künstliche Intelligenz ist eine Gesamtheit technologischer
+    Lösungen, die es erlaubt, Wissen und Fertigkeiten des Menschen nachzuahmen, einschließlich selbständigen
+    Lernens und der Suche nach Lösungen, und bei der Erfüllung konkreter Aufgaben Ergebnisse zu erzielen,
+    die mit den Ergebnissen menschlicher geistiger Tätigkeit vergleichbar sind. Die Definition ist erkennbar
+    an der russischen Legaldefinition (Ukas Nr. 490/2019) orientiert, nicht an der OECD- oder KI-VO-Definition,
+    und verzichtet auf jedes Autonomie- oder Risikomerkmal.
+
+    '
+  - 'Art. 1 Ziff. 4 — NEUER ART. 7-1 Informatisierungsgesetz („Ахборот ресурсларини яратишда хамда ахборот
+    тизимлари ишида сунъий интеллектдан фойдаланиш" — Nutzung künstlicher Intelligenz bei der Schaffung
+    von Informationsressourcen und im Betrieb von Informationssystemen). Abs. 1: Mit KI geschaffene Informationsressourcen
+    und auf KI-Technologien beruhende Informationssysteme DÜRFEN dem Menschen, seinem Leben, seiner Gesundheit,
+    Freiheit, Ehre und Würde KEINEN SCHADEN ZUFÜGEN und seine sonstigen unveräußerlichen Rechte nicht
+    verletzen. Abs. 2: „Инсоннинг ҳуқуқи ва эркинлигига алоқадор бўлган юридик аҳамиятга эга қарорларни
+    қабул қилиш чоғида фақат сунъий интеллектдан фойдаланган ҳолда яратилган ахборот ресурслари ва сунъий
+    интеллект технологиялари асосида ишлайдиган ахборот тизимларининг хулосаларига таяниш мумкин эмас"
+    — bei der Fassung RECHTLICH BEDEUTSAMER ENTSCHEIDUNGEN, die die Rechte und Freiheiten des Menschen
+    berühren, darf man sich NICHT AUSSCHLIESSLICH auf die Schlussfolgerungen KI-gestützter Informationsressourcen
+    und -systeme stützen. Das ist die usbekische Kernvorschrift zum vollautomatisierten Entscheiden. Sie
+    gilt allgemein, nicht nur für Behörden, und knüpft — anders als Art. 22 DSGVO — nicht an personenbezogene
+    Daten an, sondern an die Rechtserheblichkeit der Entscheidung.
+
+    '
+  - 'Art. 1 Ziff. 5 — Informatisierungsgesetz Art. 12-1 Abs. 1, neuer achter Absatz: Webseitenbetreiber
+    und BLOGGER dürfen ihre Ressourcen nicht zur „незаконная обработка персональных данных с использованием
+    технологий искусственного интеллекта, их распространение в средствах массовой информации, сетях телекоммуникаций
+    или всемирной информационной сети Интернет" nutzen — rechtswidrige KI-gestützte Verarbeitung personenbezogener
+    Daten und deren Verbreitung. Damit steht das Verbot in demselben Katalog wie Aufrufe zum Umsturz,
+    Extremismuspropaganda und Falschnachrichtenverbreitung; es unterliegt derselben Sperrsystematik.
+
+    '
+  - 'Art. 1 Ziff. 2 und 3 — Informatisierungsgesetz Art. 4 Abs. 2 (staatspolitische Zielbestimmung: Schaffung
+    der notwendigen Bedingungen für Einführung und Entwicklung der KI sowie Bestimmung der rechtlichen,
+    technologischen und wirtschaftlichen Grundlagen) und Art. 6 (drei neue Zuständigkeiten der Fachbehörde:
+    Bedingungen für Investitionen in die KI-Richtung schaffen; technische Infrastruktur für die KI-gestützte
+    Verarbeitung der Daten staatlicher Organe bilden; Aus-, Fort- und Weiterbildung von KI-Fachkräften
+    organisieren).
+
+    '
+  - 'Art. 2 — Ordnungswidrigkeitenkodex Art. 46-2 („Verstoß gegen das Recht über personenbezogene Daten"),
+    NEUER ABS. 2: rechtswidrige Verarbeitung personenbezogener Daten unter Nutzung von KI-Technologien
+    sowie deren Verbreitung in Massenmedien, Telekommunikationsnetzen oder im Internet — Geldbuße von
+    50 bis 100 БРВ (базавий ҳисоблаш миқдори / Basisrechengröße) MIT EINZIEHUNG der Tatwerkzeuge. Zum
+    Vergleich: Abs. 1 (allgemeine rechtswidrige Datenverarbeitung) sieht nur 7 БРВ für Bürger und 50 БРВ
+    für Amtsträger vor. Der KI-Zuschlag ist damit ein Vielfaches des Grundtatbestands — Usbekistan behandelt
+    den KI-Einsatz als qualifizierenden Umstand.
+
+    '
+  - 'Art. 3: Das Ministerkabinett hat die Regierungsbeschlüsse an das Gesetz anzupassen, die republikanischen
+    Vollzugsorgane müssen ihre entgegenstehenden Rechtsakte überprüfen und aufheben, und die Bedeutung
+    des Gesetzes ist der Bevölkerung zu erläutern. Eine Frist nennt das Gesetz NICHT.
+
+    '
+  dokumente:
+  - datum: 2026-01-21
+    typ: endfassung
+    titel: 'ЎРҚ-1115-сон 21.01.2026 — usbekische Fassung (kyrillisch), amtlicher Text
+
+      '
+    url: https://lex.uz/ru/docs/8008401
+    sprache: uz
+    urheber: 'Oliy Majlis der Republik Usbekistan / Национальная база данных законодательства (lex.uz)
+
+      '
+    verifiziert: true
+    notiz: 'DIE MASSGEBLICHE FASSUNG. lex.uz weist bei allen durch dieses Gesetz eingefügten Vorschriften
+      ausdrücklich darauf hin, dass die russische Fassung ein „Неофициальный перевод" (unamtliche Übersetzung)
+      ist und der amtliche Text auf Usbekisch maßgeblich ist. Das ist ein Unterschied zu Kasachstan, wo
+      die russische Fassung gleichermaßen amtlich ist.
+
+      '
+  - datum: 2026-01-21
+    typ: uebersicht
+    titel: 'LRU-1115 — englische Arbeitsübersetzung auf lex.uz (nur Metadaten, kein Volltext)
+
+      '
+    url: https://lex.uz/en/docs/8011930
+    sprache: en
+    urheber: lex.uz
+    verifiziert: true
+    notiz: 'Die englische Seite enthält KEINEN Artikeltext, sondern nur Titel, Nummer, Datum und den Hinweis
+      „The text of the act is given in uzbek and russian". Wer nur diese Seite kennt, kennt den Regelungsinhalt
+      nicht — das erklärt, warum das Breitenscreening den Inhalt des Gesetzes nur pauschal beschreiben
+      konnte.
+
+      '
+  offene_punkte:
+  - 'Das Gesetz enthält KEINE Kennzeichnungspflicht für synthetische Inhalte, KEINEN Verbotskatalog, KEINE
+    Risikoklassifizierung, KEINE urheberrechtliche Regelung und KEINE Aufsichtsbefugnis. Ob Usbekistan
+    ein eigenständiges KI-Gesetz vorbereitet, war nicht feststellbar; regulation.gov.uz (Konsultationsportal)
+    ließ sich nicht gezielt durchsuchen.
+
+    '
+  - 'Art. 7-1 Abs. 2 Informatisierungsgesetz verbietet, sich AUSSCHLIESSLICH auf KI-Schlussfolgerungen
+    zu stützen, sagt aber nicht, welches Maß menschlicher Beteiligung genügt, und knüpft keine Rechtsfolge
+    an einen Verstoß. Ein Bußgeldtatbestand besteht nur für die datenschutzrechtliche Variante (Art. 46-2
+    Abs. 2 КоАО). Die Vorschrift ist damit weitgehend sanktionslos.
+
+    '
+  - 'Die Behörde („ваколатли давлат органи") ist im Informatisierungsgesetz nicht namentlich genannt;
+    aus PP-358 und УП-189 ergibt sich das Министерство цифровых технологий (Ministerium für digitale Technologien)
+    mit dem ihm unterstehenden Центр развития искусственного интеллекта и цифровой экономики.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/8008401
+  - https://regulation.gov.uz/ru
+  bezug_regelwerke:
+  - uz-informatisierungsgesetz
+  - uz-koao-462
+  - uz-pp358
+  - uz-up189
+  - uz-datenschutzgesetz
+  letzte_pruefung: 2026-09-06
+- id: uz-informatisierungsgesetz
+  jurisdiktion: uz
+  kurztitel: Informatisierungsgesetz Usbekistan (Nr. 560-II)
+  offizieller_titel: 'Ўзбекистон Республикасининг „Ахборотлаштириш тўғрисида"ги Қонуни / Закон Республики
+    Узбекистан „Об информатизации" — Gesetz der Republik Usbekistan „Über die Informatisierung"
+
+    '
+  fundstelle: 'Ўзбекистон Республикасининг 2003 йил 11 декабрда қабул қилинган 560-II-сонли Қонуни; Ўзбекистон
+    Республикаси Олий Мажлисининг Ахборотномаси, 2004 йил, № 1-2, 10-модда. In Kraft seit 11.02.2004.
+
+    '
+  verfahrensnummer: 560-II
+  status: anwendbar
+  status_detail: 'In Kraft. Seit dem 21.01.2026 (ЎРҚ-1115) enthält es die KI-Legaldefinition und den neuen
+    Art. 7-1. Es ist damit — mangels eigenständigem KI-Gesetz — das KI-Grundgesetz Usbekistans.
+
+    '
+  kurzbeschreibung: 'Rahmengesetz über Informationsressourcen, Informationssysteme und ihre Rechtsstellung.
+    Für das KI-Recht tragen es vier Stellen: Art. 3 (Legaldefinition der KI), Art. 4 Abs. 2 (Staatspolitik),
+    Art. 6 (Behördenzuständigkeiten für KI), Art. 7-1 (Schadensverbot und Verbot der ausschließlichen
+    Stützung auf KI bei rechtlich bedeutsamen Entscheidungen) und Art. 12-1 (Verbotskatalog für Webseitenbetreiber
+    und Blogger, ergänzt um die rechtswidrige KI-gestützte Datenverarbeitung).
+
+    '
+  inkrafttreten:
+    datum: 2004-02-11
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/82956
+  anwendungsdaten:
+  - datum: 2026-01-21
+    was_gilt: 'Art. 3 (KI-Definition), Art. 4 Abs. 2, Art. 6, Art. 7-1 und Art. 12-1 Abs. 1 achter Absatz
+      — eingefügt durch ЎРҚ-1115, in Kraft mit dem Tag der Veröffentlichung.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/83472
+  themenachsen:
+  - governance
+  - grundrechte
+  - content
+  - sektor-oeffentlich
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Art. 7-1 Abs. 1: Verbot der Schädigung des Menschen, seines Lebens, seiner Gesundheit, Freiheit,
+    Ehre und Würde durch KI-gestützte Informationsressourcen und -systeme sowie der Verletzung seiner
+    sonstigen unveräußerlichen Rechte. Ein Generalklausel-Verbot ohne Konkretisierung — funktional ein
+    Ersatz für den Verbotskatalog, den Kasachstan in Art. 17 Abs. 3 seines KI-Gesetzes ausformuliert hat.
+
+    '
+  - 'Art. 7-1 Abs. 2: Verbot, sich bei rechtlich bedeutsamen Entscheidungen, die Rechte und Freiheiten
+    des Menschen berühren, AUSSCHLIESSLICH auf KI-Schlussfolgerungen zu stützen. Anders als Art. 24 Datenschutzgesetz
+    (LRU-547), der eine Einwilligungs- und Vertragsausnahme kennt, ist dieses Verbot AUSNAHMSLOS formuliert.
+    Beide Normen stehen unabgestimmt nebeneinander.
+
+    '
+  - 'Art. 12-1 Abs. 1 achter Absatz: rechtswidrige KI-gestützte Verarbeitung personenbezogener Daten und
+    deren Verbreitung als verbotener Inhalt für Webseitenbetreiber und Blogger. Der Katalog ist die Anknüpfung
+    für Sperrverfügungen der Aufsichtsbehörde.
+
+    '
+  - 'Art. 6: Die Fachbehörde schafft Bedingungen für die Anziehung von Investitionen in die KI-Richtung,
+    bildet die technische Infrastruktur für die KI-gestützte Verarbeitung der Daten staatlicher Organe
+    und organisiert die Aus- und Weiterbildung. Es sind Förder-, keine Aufsichtsbefugnisse: Das Gesetz
+    weist der Behörde für KI KEINE Kontroll- oder Sanktionskompetenz zu.
+
+    '
+  dokumente:
+  - datum: 2003-12-11
+    typ: konsolidiert
+    titel: '560-II-сон 11.12.2003 „Ахборотлаштириш тўғрисида" — konsolidierte usbekische Fassung mit Art.
+      7-1
+
+      '
+    url: https://lex.uz/ru/docs/83472
+    sprache: uz
+    urheber: lex.uz / Национальная база данных законодательства
+    verifiziert: true
+    notiz: 'Amtliche Fassung. Enthält Art. 7-1 mit der Fußnote auf ЎРҚ-1115 und die Fundstelle 03/26/1115/0063
+      vom 21.01.2026.
+
+      '
+  - datum: 2003-12-11
+    typ: konsolidiert
+    titel: '560-II-сон 11.12.2003 „Об информатизации" — russische Fassung (von lex.uz als unamtliche Übersetzung
+      gekennzeichnet)
+
+      '
+    url: https://lex.uz/ru/docs/82956
+    sprache: ru
+    urheber: lex.uz
+    verifiziert: true
+    notiz: 'Diese Fassung enthält die KI-Vorschriften im russischen Wortlaut, jeweils mit dem Hinweis
+      „Комментарий LexUz — Неофициальный перевод. См. официальный текст на узбекском языке." Für die Arbeit
+      brauchbar, aber nicht maßgeblich.
+
+      '
+  offene_punkte:
+  - 'Das Verhältnis von Art. 7-1 Abs. 2 Informatisierungsgesetz (ausnahmsloses Verbot) zu Art. 24 Datenschutzgesetz
+    LRU-547 (Verbot mit Einwilligungs-, Vertrags- und Gesetzesausnahme) ist ungeklärt. Da beide Gesetze
+    denselben Rang haben und das Informatisierungsgesetz durch ЎРҚ-1115 später geändert wurde, spricht
+    viel für einen Vorrang des Art. 7-1 als lex posterior — das ist aber nicht entschieden.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/83472
+  bezug_regelwerke:
+  - uz-ki-omnibus-1115
+  - uz-datenschutzgesetz
+  - uz-koao-462
+  letzte_pruefung: 2026-09-06
+- id: uz-koao-462
+  jurisdiktion: uz
+  kurztitel: KI-Bußgeldtatbestand im КоАО (Art. 46-2 Abs. 2)
+  offizieller_titel: 'Ўзбекистон Республикасининг Маъмурий жавобгарлик тўғрисидаги кодекси, 46-2-модда
+    / Кодекс Республики Узбекистан об административной ответственности, статья 46-2 — Kodex der Republik
+    Usbekistan über die Verwaltungsverantwortlichkeit, Art. 46-2
+
+    '
+  fundstelle: 'Кодекс, утвержденный Законом Республики Узбекистан от 22 сентября 1994 года № 2015-XII;
+    Art. 46-2 Abs. 2 eingefügt durch Gesetz ЎРҚ-1115 vom 21.01.2026 (Қонунчилик маълумотлари миллий базаси,
+    21.01.2026, Nr. 03/26/1115/0063)
+
+    '
+  verfahrensnummer: 2015-XII (Kodex); ЎРҚ-1115 (Novelle)
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 21.01.2026. Der einzige KI-spezifische Sanktionstatbestand der usbekischen
+    Rechtsordnung.
+
+    '
+  kurzbeschreibung: 'Art. 46-2 Abs. 2 КоАО ahndet die rechtswidrige Verarbeitung personenbezogener Daten
+    UNTER NUTZUNG VON KI-TECHNOLOGIEN sowie deren Verbreitung in Massenmedien, Telekommunikationsnetzen
+    oder im Internet mit einer Geldbuße von 50 bis 100 БРВ und der EINZIEHUNG DER TATWERKZEUGE. Der Grundtatbestand
+    des Abs. 1 (rechtswidrige Erhebung, Systematisierung, Speicherung, Änderung, Ergänzung, Nutzung, Übermittlung,
+    Verbreitung, Anonymisierung und Vernichtung personenbezogener Daten sowie Verstöße gegen die Datenlokalisierungspflicht)
+    sieht dagegen nur 7 БРВ für Bürger und 50 БРВ für Amtsträger vor.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-21
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/97664
+  themenachsen:
+  - datenschutz
+  - content
+  - haftung
+  regelungsschwerpunkte:
+  - 'Tatbestand: „Сунъий интеллект технологияларидан фойдаланган ҳолда шахсга доир маълумотларга қонунга
+    хилоф равишда ишлов бериш, уларни оммавий ахборот воситаларида, телекоммуникация тармоқларида ёки
+    Интернет жаҳон ахборот тармоғида тарқатиш". Erfasst sind zwei Varianten: die KI-gestützte rechtswidrige
+    Verarbeitung ALS SOLCHE und die Verbreitung. Ob die Verbreitung ein eigener Tatbestand oder ein Erfolgsmerkmal
+    ist, lässt der Wortlaut offen.
+
+    '
+  - 'Rechtsfolge: „маъмурий ҳуқуқбузарликни содир этиш қуролларини мусодара қилиб, базавий ҳисоблаш миқдорининг
+    эллик бараваридан юз бараваригача миқдорда жарима" — Geldbuße von 50 bis 100 БРВ mit Einziehung der
+    Tatwerkzeuge. Die Einziehung („мусодара") kann bei KI-Anwendungen die Hardware oder Datenträger erfassen;
+    eine Beschränkung auf das Werkzeug im engeren Sinn enthält der Wortlaut nicht.
+
+    '
+  - 'Der Tatbestand unterscheidet NICHT nach Täterqualität (Bürger, Amtsträger, juristische Person) —
+    anders als Abs. 1. Das ist gesetzestechnisch auffällig und wirft die Frage auf, ob juristische Personen
+    überhaupt erfasst sind.
+
+    '
+  - 'Flankierend: Strafgesetzbuch Art. 141-1 (Verletzung der Unantastbarkeit des Privatlebens: rechtswidrige
+    Sammlung oder Verbreitung von Angaben über das Privatleben nach vorheriger Verwaltungsahndung, 50
+    bis 100 БРВ Geldstrafe, gemeinnützige Arbeit bis 300 Stunden oder Besserungsarbeit bis zwei Jahre;
+    bei schweren Folgen oder Gewinnsucht bis drei Jahre Freiheitsstrafe) und Art. 141-2 (Verstoß gegen
+    das Datenschutzrecht). Beide enthalten KEINE KI-Bezugnahme.
+
+    '
+  dokumente:
+  - datum: 1994-09-22
+    typ: konsolidiert
+    titel: 'Ўзбекистон Республикасининг Маъмурий жавобгарлик тўғрисидаги кодекси (konsolidierte usbekische
+      Fassung mit Art. 46-2 Abs. 2)
+
+      '
+    url: https://lex.uz/ru/docs/97664
+    sprache: uz
+    urheber: lex.uz
+    verifiziert: true
+    notiz: 'Amtliche Fassung mit der Einfügungsfußnote auf ЎРҚ-1115.
+
+      '
+  - datum: 1994-09-22
+    typ: konsolidiert
+    titel: 'Кодекс Республики Узбекистан об административной ответственности (russische Fassung, unamtliche
+      Übersetzung)
+
+      '
+    url: https://lex.uz/ru/docs/97661
+    sprache: ru
+    urheber: lex.uz
+    verifiziert: true
+    notiz: 'Enthält Art. 46-2 Abs. 2 im russischen Wortlaut mit dem Übersetzungsvorbehalt.
+
+      '
+  - datum: 1994-09-22
+    typ: konsolidiert
+    titel: 'Уголовный кодекс Республики Узбекистан (russische Fassung), Art. 141-1 und 141-2
+
+      '
+    url: https://lex.uz/ru/docs/111457
+    sprache: ru
+    urheber: lex.uz
+    verifiziert: true
+    notiz: 'VOLLTEXTPRÜFUNG: Das usbekische Strafgesetzbuch enthält Stand 06.09.2026 KEINE Fundstelle
+      für „искусственный интеллект", „дипфейк", „монтаж" oder vergleichbare Begriffe. Die im Auftrag vermuteten
+      Deepfake-Strafvorschriften von 2024/2025 EXISTIEREN NICHT. Deepfakes werden zivilrechtlich über
+      das Persönlichkeitsrecht erfasst (siehe uz-plenum-21-2025).
+
+      '
+  offene_punkte:
+  - 'Der Wert der БРВ (базавий ҳисоблаш миқдори) für 2026 wurde nicht ermittelt; ohne ihn lässt sich die
+    Bußgeldhöhe nicht in Euro umrechnen.
+
+    '
+  - 'Zuständigkeit und Verfahren: Welche Behörde Art. 46-2 Abs. 2 vollzieht, wurde nicht geprüft (in Betracht
+    kommen das Staatliche Personendaten-Register beim Ministerium für digitale Technologien und die Gerichte
+    für Verwaltungsangelegenheiten).
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/97664
+  bezug_regelwerke:
+  - uz-ki-omnibus-1115
+  - uz-datenschutzgesetz
+  - uz-informatisierungsgesetz
+  letzte_pruefung: 2026-09-06
+- id: uz-datenschutzgesetz
+  jurisdiktion: uz
+  kurztitel: Datenschutzgesetz Usbekistan (ЗРУ-547)
+  offizieller_titel: 'Ўзбекистон Республикасининг „Шахсга доир маълумотлар тўғрисида"ги Қонуни / Закон
+    Республики Узбекистан „О персональных данных" — Gesetz der Republik Usbekistan „Über personenbezogene
+    Daten"
+
+    '
+  fundstelle: Закон Республики Узбекистан от 2 июля 2019 года № ЗРУ-547
+  verfahrensnummer: ЗРУ-547 / ЎРҚ-547
+  status: anwendbar
+  status_detail: 'In Kraft. Nicht durch ЎРҚ-1115 geändert — die KI-Novelle hat das Datenschutzgesetz bewusst
+    UNBERÜHRT gelassen und statt dessen im Informatisierungsgesetz und im Ordnungswidrigkeitenkodex angesetzt.
+    Art. 24 (automatisierte Verarbeitung) stammt bereits aus der Fassung von 2019.
+
+    '
+  kurzbeschreibung: 'Das usbekische Datenschutzgesetz folgt eng dem Muster der DSGVO. Art. 24 enthält
+    den Anspruch, keiner ausschließlich auf automatisierter Verarbeitung beruhenden Entscheidung unterworfen
+    zu werden, die Rechte und berechtigte Interessen berührt und Rechtsfolgen erzeugt — mit drei Ausnahmen
+    (schriftliche Einwilligung einschließlich elektronischer Form, Erfüllung eines Vertrags mit dem Verantwortlichen,
+    gesetzliche Erlaubnis) und einem Widerspruchsrecht, das binnen ZEHN TAGEN schriftlich zu bescheiden
+    ist. Bekannt ist Usbekistan ferner für seine Datenlokalisierungspflicht (Verarbeitung usbekischer
+    Bürgerdaten auf im Inland befindlichen technischen Mitteln und in registrierten Datenbanken), die
+    über Art. 46-2 Abs. 1 КоАО bußgeldbewehrt ist.
+
+    '
+  inkrafttreten:
+    datum: 2019-10-01
+    verifiziert: false
+    quelle: https://lex.uz/ru/docs/4396428
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 24 Abs. 1: „Субъект имеет право не подвергаться принятию решения на основании исключительно
+    автоматизированной обработки его персональных данных, затрагивающей его права и законные интересы,
+    порождающей юридические последствия" — mit Ausnahmen in Abs. 2. Praktisch wortgleich mit Art. 22 Abs.
+    1 und 2 DSGVO.
+
+    '
+  - 'Art. 24 Abs. 3: Aufklärungspflicht über das Verfahren der ausschließlich automatisierten Entscheidung
+    und deren mögliche Rechtsfolgen, Ermöglichung des Widerspruchs, Aufklärung über den Rechtsschutz.
+    Abs. 4: Bescheidung des Widerspruchs und SCHRIFTLICHE Mitteilung des Ergebnisses BINNEN ZEHN TAGEN
+    (Kasachstan: drei Arbeitstage nach Art. 19-1 Abs. 3 Datenschutzgesetz).
+
+    '
+  - 'Art. 21: Einwilligung in beliebiger Form, die den Erhalt belegbar macht; für BESONDERE Kategorien
+    personenbezogener Daten Schriftform. Für eine ausschließlich automatisierte Entscheidung verlangt
+    Art. 24 Abs. 2 ebenfalls Schriftform.
+
+    '
+  - 'Art. 23: Bei Weitergabe an Dritte Mitteilung an die betroffene Person binnen drei Tagen; entfällt
+    unter anderem bei Erhebung aus ÖFFENTLICH ZUGÄNGLICHEN QUELLEN. Anders als Kasachstan (Art. 7 Abs.
+    11 Datenschutzgesetz) kennt Usbekistan KEIN Verbot des zweckwidrigen Scrapings öffentlich zugänglicher
+    Daten — für das Training von Modellen mit Webdaten ist das der wichtigste Unterschied zwischen den
+    beiden Rechtsordnungen.
+
+    '
+  dokumente:
+  - datum: 2019-07-02
+    typ: konsolidiert
+    titel: 'ЗРУ-547-сон 02.07.2019 „О персональных данных" (konsolidierte Fassung)
+
+      '
+    url: https://lex.uz/ru/docs/4396428
+    sprache: ru
+    urheber: lex.uz
+    verifiziert: true
+    notiz: 'Enthält Art. 24 im Wortlaut. Die Ausnahme für die Erhebung aus öffentlich zugänglichen Quellen
+      (Art. 23) ist der Ansatzpunkt für die Frage nach der Zulässigkeit von Trainingsdatenerhebung.
+
+      '
+  offene_punkte:
+  - 'Das Datum des Inkrafttretens (üblicherweise 01.10.2019) wurde nicht am Gesetzestext verifiziert.
+
+    '
+  - 'Ob das Datenschutzgesetz nach ЎРҚ-1115 angepasst werden soll (Art. 3 der Novelle verpflichtet nur
+    das Ministerkabinett zur Anpassung von Regierungsbeschlüssen), war nicht feststellbar.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/4396428
+  bezug_regelwerke:
+  - uz-ki-omnibus-1115
+  - uz-koao-462
+  - uz-informatisierungsgesetz
+  letzte_pruefung: 2026-09-06
+- id: uz-urhg
+  jurisdiktion: uz
+  kurztitel: Urheberrechtsgesetz Usbekistan (ЗРУ-42)
+  offizieller_titel: 'Ўзбекистон Республикасининг „Муаллифлик ҳуқуқи ва турдош ҳуқуқлар тўғрисида"ги Қонуни
+    / Закон Республики Узбекистан „Об авторском праве и смежных правах"
+
+    '
+  fundstelle: 'Закон Республики Узбекистан от 20 июля 2006 года № ЗРУ-42; angenommen von der Gesetzgebungskammer
+    am 23.03.2006, gebilligt vom Senat am 09.06.2006
+
+    '
+  verfahrensnummer: ЗРУ-42
+  status: anwendbar
+  status_detail: 'In Kraft. Enthält KEINE KI-Vorschrift. Anders als Kasachstan hat Usbekistan weder im
+    Urheberrechtsgesetz noch anderswo eine Regel über die Schutzfähigkeit KI-erzeugter Ergebnisse oder
+    über das Training von Modellen erlassen.
+
+    '
+  kurzbeschreibung: 'Klassisches Urheberrechtsgesetz. Art. 4: Autor ist „физическое лицо, творческим трудом
+    которого создано произведение" — die natürliche Person, durch deren schöpferische Arbeit das Werk
+    geschaffen wurde. Datenbanken sind als Sammelwerke geschützt, soweit Auswahl oder Anordnung Ergebnis
+    schöpferischer Arbeit sind (Art. 4, Art. 7). Die urheberrechtliche Behandlung KI-erzeugter Ergebnisse
+    folgt in Usbekistan deshalb allein aus dem allgemeinen Werk- und Autorenbegriff, ergänzt durch die
+    Auslegungsvorgaben des Plenums des Obersten Gerichts.
+
+    '
+  inkrafttreten:
+    datum: 2006-07-20
+    verifiziert: false
+    quelle: https://lex.uz/ru/docs/1023494
+  themenachsen:
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Art. 4: Autor ist die natürliche Person, durch deren schöpferische Arbeit das Werk geschaffen wurde.
+    Es gibt keine Fiktion, keine Zuordnung an den Veranlasser und keine dem britischen s. 9(3) CDPA vergleichbare
+    Regel für computergenerierte Werke.
+
+    '
+  - 'Art. 8: Nicht urheberrechtsfähig sind amtliche Dokumente, Symbole und Zeichen, Volksschöpfungen sowie
+    Tatsachenmitteilungen. Ein Ausschluss maschinell erzeugter Ergebnisse fehlt.
+
+    '
+  - 'Auslegungshilfe: Постановление Пленума Верховного суда № 19 vom 23.06.2023 „О некоторых вопросах
+    рассмотрения дел, связанных с интеллектуальной собственностью", Ziff. 26: Autor ist die natürliche
+    Person, die das Werk durch ihre schöpferische Arbeit geschaffen hat; Personen, die ihr TECHNISCHE
+    UNTERSTÜTZUNG geleistet haben (Texterfassung, Korrektur usw.), werden NICHT als Miturheber anerkannt.
+    Diese Abgrenzung zwischen schöpferischer und technischer Leistung ist der dogmatische Ansatzpunkt,
+    an dem usbekische Gerichte KI-erzeugte Ergebnisse einordnen werden.
+
+    '
+  dokumente:
+  - datum: 2006-07-20
+    typ: konsolidiert
+    titel: 'ЗРУ-42-сон 20.07.2006 „Об авторском праве и смежных правах" (konsolidierte Fassung)
+
+      '
+    url: https://lex.uz/ru/docs/1023494
+    sprache: ru
+    urheber: lex.uz
+    verifiziert: true
+    notiz: 'VOLLTEXTPRÜFUNG: keine Fundstelle für „искусственный интеллект". Belegt die Regelungslücke.
+
+      '
+  - datum: 2023-06-23
+    typ: leitlinie
+    titel: 'Постановление Пленума Верховного суда Республики Узбекистан № 19 от 23 июня 2023 года „О некоторых
+      вопросах рассмотрения дел, связанных с интеллектуальной собственностью"
+
+      '
+    url: https://lex.uz/ru/docs/6522625
+    sprache: ru
+    urheber: Plenum des Obersten Gerichts der Republik Usbekistan
+    verifiziert: true
+    notiz: 'In Usbekistan sind Plenumsbeschlüsse für die Gerichte verbindliche Auslegungsakte. Ziff. 26
+      (schöpferische versus technische Leistung) und Ziff. 36 (Sammelwerke) sind die Vorschriften, an
+      denen sich die Behandlung KI-erzeugter Ergebnisse entscheiden wird. Der Beschluss selbst erwähnt
+      künstliche Intelligenz NICHT.
+
+      '
+  offene_punkte:
+  - 'Es fehlt jede Regelung zum Text- und Data-Mining. Ob die Vervielfältigung urheberrechtlich geschützter
+    Werke zum Modelltraining in Usbekistan zulässig ist, ist ungeklärt; die Schrankenbestimmungen wurden
+    nicht ausgewertet.
+
+    '
+  - 'Die usbekische Fassung des Gesetzes wurde nicht abgerufen; die hier verlinkte Fassung (doc 1023494)
+    ist die russische.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/1023494
+  bezug_regelwerke:
+  - uz-ki-omnibus-1115
+  bezug_urteile:
+  - uz-plenum-19-2023
+  letzte_pruefung: 2026-09-06
+- id: uz-pp358
+  jurisdiktion: uz
+  kurztitel: KI-Strategie bis 2030 (ПҚ-358 / ПП-358)
+  offizieller_titel: 'Ўзбекистон Республикаси Президентининг Қарори „Сунъий интеллект технологияларини
+    2030 йилга қадар ривожлантириш стратегиясини тасдиқлаш тўғрисида" / Постановление Президента Республики
+    Узбекистан „Об утверждении Стратегии развития технологий искусственного интеллекта до 2030 года"
+
+    '
+  fundstelle: 'Ўзбекистон Республикаси Президентининг 2024 йил 14 октябрдаги ПҚ-358-сон Қарори / Постановление
+    Президента Республики Узбекистан от 14 октября 2024 года № ПП-358. Inkrafttreten 17.10.2024.
+
+    '
+  verfahrensnummer: ПҚ-358 / ПП-358
+  status: softlaw
+  status_detail: 'In Kraft seit dem 17.10.2024. Mehrfach geändert: durch Указ Президента № УП-189 vom
+    22.10.2025 (veröffentlicht 27.10.2025, Nr. 06/25/189/0978) und durch Указ Президента № УП-141 vom
+    24.07.2026. Bis zum Erlass von ЎРҚ-1115 im Januar 2026 war dieser Präsidialbeschluss der GESAMTE KI-Regelungsbestand
+    Usbekistans.
+
+    '
+  kurzbeschreibung: 'Die usbekische KI-Strategie bis 2030 mit drei Anlagen: der Strategie selbst, einem
+    Maßnahmenplan 2024–2026 und einer Liste der in Wirtschaft und Sozialbereich zu bildenden „Big Data".
+    Zielgrößen bis 2030: 1,5 Mrd. USD Umsatz mit KI-gestützten Produkten und Dienstleistungen; 10 % der
+    Leistungen des Einheitlichen Portals interaktiver staatlicher Dienste auf KI-Basis; 20 KI-Forschungslabore
+    samt Hochleistungsrechnern; Aufnahme in die Top 50 des Government AI Readiness Index. Rechtlich wichtig
+    ist Ziff. 1 Buchst. b erster Spiegelstrich: „формирование нормативно-правовой базы, направленной на
+    развитие технологий искусственного интеллекта" — die Bildung des Rechtsrahmens ist als vorrangige
+    Aufgabe formuliert; ЎРҚ-1115 ist deren Erfüllung.
+
+    '
+  inkrafttreten:
+    datum: 2024-10-17
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7158606
+  anwendungsdaten:
+  - datum: 2025-05-01
+    was_gilt: 'Ziff. 5: Ministerien und Behörden mussten dem Ministerium für digitale Technologien die
+      Angaben nach Anlage Nr. 3 unter Beachtung des Datenschutzrechts (auch anonymisiert) zur Bildung
+      der Big-Data-Basis übermitteln.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7158606
+  - datum: 2025-09-01
+    was_gilt: 'Ziff. 5: Das Ministerium für digitale Technologien musste die Big-Data-Basis unter Einhaltung
+      aller Informationssicherheitsmaßnahmen errichten.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7158606
+  - datum: 2026-05-01
+    was_gilt: 'Ziff. 5: Das Ministerium für digitale Technologien musste die für KI-Projekte bestimmten
+      Rechenkapazitäten in Betrieb nehmen.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7158606
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - sektor-finanz
+  - sektor-medizin
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Ziff. 3: Prioritäre Einführungsbereiche — Bank- und Finanzwesen (Betrugsprävention, Bonitätsbewertung,
+    Marktprognose), Steuer- und Zollwesen (Schattenwirtschaft, Erkennung verdächtiger Zollvorgänge, Risikomanagement),
+    Gesundheit (Diagnostik, Behandlungswahl, Bildanalyse, Patientendatenverwaltung), Landwirtschaft, Energie.
+    Diese Liste ist die usbekische Entsprechung zum Hochrisiko-Anhang der KI-VO — allerdings als FÖRDERLISTE,
+    nicht als Risikoliste.
+
+    '
+  - 'Ziff. 4: Zinsloser Kredit des Fonds für Rekonstruktion und Entwicklung an das Ministerium für digitale
+    Technologien in Höhe von 50 Mio. USD über fünf Jahre (zwei Jahre tilgungsfrei) ab dem 01.01.2025 zur
+    KI-Entwicklung.
+
+    '
+  - 'Ziff. 7: Errichtung des staatlichen Учреждения „Центр развития искусственного интеллекта и цифровой
+    экономики" (Zentrum für die Entwicklung der künstlichen Intelligenz und der digitalen Wirtschaft)
+    auf Basis des „Центр исследований цифровой экономики" in der Struktur des Ministeriums für digitale
+    Technologien. Staatliche Stellen und Unternehmen mit staatlicher Beteiligung müssen dem Zentrum auf
+    Anfrage ungehinderten Zugang zu ihren Informationssystemen und Datenbanken einräumen (mit Ausnahme
+    gesetzlich geschützter Daten); das Zentrum führt die Prüfung (экспертиза) von Informationssystemen
+    und Software daraufhin durch, ob sie auf KI-Technologien beruhen.
+
+    '
+  - 'Ziff. 7-1 (eingefügt durch УП-189): Aufgaben des Zentrums, darunter erstens die „формирование нормативно-правовой
+    базы, необходимой для развития технологий искусственного интеллекта, внедрение международных стандартов"
+    — das Zentrum ist damit der faktische Normvorbereiter des usbekischen KI-Rechts.
+
+    '
+  dokumente:
+  - datum: 2024-10-14
+    typ: leitlinie
+    titel: 'ПҚ-358-сон 14.10.2024 — usbekische Fassung (amtlicher Text)
+
+      '
+    url: https://lex.uz/ru/docs/7158604
+    sprache: uz
+    urheber: Präsident der Republik Usbekistan (Sh. Mirziyoyev)
+    verifiziert: true
+    notiz: 'Amtliche usbekische Fassung; lex.uz verweist bei den russischen Änderungstexten ausdrücklich
+      auf sie.
+
+      '
+  - datum: 2024-10-14
+    typ: leitlinie
+    titel: 'ПП-358 от 14.10.2024 „Об утверждении Стратегии развития технологий искусственного интеллекта
+      до 2030 года" (russische Fassung mit Änderungsfußnoten)
+
+      '
+    url: https://lex.uz/ru/docs/7158606
+    sprache: ru
+    urheber: Präsident der Republik Usbekistan
+    verifiziert: true
+    notiz: 'Enthält die Zielgrößen, die Prioritätsbereiche, die Finanzierung und die Aufgaben des KI-Entwicklungszentrums
+      samt aller Änderungen bis Juli 2026.
+
+      '
+  - datum: 2024-10-17
+    typ: endfassung
+    titel: PDF-Fassung von ПП-358 auf lex.uz
+    url: https://lex.uz/ru/pdfs/7158606
+    sprache: ru
+    urheber: lex.uz
+    verifiziert: false
+    notiz: 'Nur als alternativer Zugang genannt; in dieser Sitzung nicht abgerufen.
+
+      '
+  offene_punkte:
+  - 'Die Anlagen 1 bis 3 (Strategie, Maßnahmenplan 2024–2026, Big-Data-Liste) wurden nicht im Einzelnen
+    ausgewertet.
+
+    '
+  - 'Ob die Fristen 01.05.2025, 01.09.2025 und 01.05.2026 eingehalten wurden, war nicht feststellbar;
+    die Berichte an die Koordinationskommission sind nicht öffentlich.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/7158606
+  - https://ai.gov.uz
+  bezug_regelwerke:
+  - uz-up189
+  - uz-ki-omnibus-1115
+  - uz-digital-uzbekistan-2030
+  letzte_pruefung: 2026-09-06
+- id: uz-up189
+  jurisdiktion: uz
+  kurztitel: KI-Zusatzmaßnahmenerlass (УП-189)
+  offizieller_titel: 'Ўзбекистон Республикаси Президентининг Фармони „Сунъий интеллект технологияларини
+    янада ривожлантиришга оид қўшимча чора-тадбирлар тўғрисида" / Указ Президента Республики Узбекистан
+    „О дополнительных мерах по дальнейшему развитию технологий искусственного интеллекта"
+
+    '
+  fundstelle: 'Указ Президента Республики Узбекистан от 22 октября 2025 года № УП-189; Национальная база
+    данных законодательства, 27.10.2025, № 06/25/189/0978
+
+    '
+  verfahrensnummer: УП-189
+  status: softlaw
+  status_detail: 'In Kraft. Der operativ dichteste KI-Rechtsakt Usbekistans: fünf Abschnitte mit Zielen,
+    institutionellen Maßnahmen, Rahmenbedingungen, Fachkräfteausbildung und Vollzugskontrolle. Er enthält
+    die einzige usbekische Rechtsgrundlage für KI-SICHERHEITS- UND ETHIKNORMEN (Ziff. 17 Buchst. g).
+
+    '
+  kurzbeschreibung: 'Der Erlass setzt vier Ziele: bis Ende 2026 mindestens 100 Projekte zur breiten KI-Einführung
+    in Verwaltung, Sozialbereich und Wirtschaft; bis Ende 2030 über 1 Mrd. USD Auslandsinvestitionen in
+    KI-Infrastruktur; ab dem Schuljahr 2026/2027 KI-Themen in den Lehrplänen und Lehrbüchern der allgemeinen
+    Mittel- und der Hochschulbildung; bis Ende 2026 fünfzehn KI-Labore an Hochschulen. Institutionell
+    schafft er einen Beirat beim Ministerium für digitale Technologien, das Nationale Portal ai.gov.uz,
+    die nichtstaatliche „Альянс искусственного интеллекта" und eine Beraterstelle für digitale Technologien
+    und KI in jeder Region und jedem Bezirk. Rechtlich bedeutsam sind vor allem drei Vorgaben: die Pflichtabstimmung
+    aller KI-bezogenen Rechtsetzungsentwürfe mit der Nationalen Agentur für Perspektivprojekte ab 01.01.2026,
+    die Zuständigkeit derselben Agentur für KI in Kryptoassets, E-Commerce, Versicherung, Wertpapieren
+    und Blockchain, und der Auftrag, binnen dreier Monate Grundsätze für Schaffung, Einführung und Anwendung
+    KI-gestützter Lösungen sowie SICHERHEITS- UND ETHIKNORMEN zu billigen.
+
+    '
+  inkrafttreten:
+    datum: 2025-10-27
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7790236
+  anwendungsdaten:
+  - datum: 2025-12-31
+    was_gilt: 'Ziff. 2 Buchst. b: Start des Nationalen Portals „ai.gov.uz" mit Angaben zu Projekten, Programmen,
+      Start-ups und kostenlosen Onlinekursen; Betrieb und Informationssicherheit beim Zentrum für KI-Entwicklung.
+      Ziff. 17 Buchst. c: Vorlage methodischer Empfehlungen für den wirksamen und SICHEREN Einsatz von
+      KI-Technologien in staatlichen Organen und Wirtschaftsgesellschaften beim Ministerkabinett.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7790236
+  - datum: 2026-01-22
+    was_gilt: 'Ziff. 17 Buchst. g: Dreimonatsfrist für das Ministerium für digitale Technologien, „принципы
+      создания, внедрения и применения решений, основанных на искусственном интеллекте в Республике Узбекистан,
+      а также НОРМЫ БЕЗОПАСНОСТИ И ЭТИКИ" zu billigen. Das wäre der erste usbekische KI-Ethikkodex.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7790236
+  - datum: 2026-01-01
+    was_gilt: 'Ziff. 3 Buchst. a: Entwürfe normativer Rechtsakte UND technischer Aufgabenstellungen, die
+      die Einführung von KI-Technologien vorsehen, werden ZWINGEND mit der Nationalen Agentur für Perspektivprojekte
+      abgestimmt. Ziff. 3 Buchst. b: Dieselbe Agentur bestimmt die Verfahren für den KI-Einsatz im Kryptoasset-Umlauf,
+      im E-Commerce, in Versicherung und Wertpapieren sowie in blockchainbasierten Informationssystemen.
+      Ziff. 8 Buchst. b: Staatliche Organe und Wirtschaftsgesellschaften dürfen Grafikprozessoren direkt
+      bei offiziellen Distributoren beschaffen.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7790236
+  - datum: 2026-03-01
+    was_gilt: 'Ziff. 10 Buchst. a: Einführung eines KI-gestützten Systems zur Wetterfrühwarnung. Ziff.
+      13: Bildung eines KI-Clusters an der Universität „Neues Usbekistan". Ziff. 4 Buchst. b: Beginn des
+      halbjährlichen Wettbewerbs „Bestes KI-Projekt" zwischen den Ministerien.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7790236
+  - datum: 2026-06-01
+    was_gilt: 'Ziff. 8 Buchst. c: Öffentliche Beschaffung KI-gestützter Informationssysteme nur noch bei
+      Unternehmen aus einem eigens geführten Register — oder, bei Verträgen bis zum 2 500-fachen der Basisrechengröße,
+      im Direktvertrag. Das ist eine faktische MARKTZUGANGSREGEL für KI-Anbieter im öffentlichen Sektor.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7790236
+  - datum: 2026-12-31
+    was_gilt: 'Ziff. 10 Buchst. b: Schaffung eines „Korpus der usbekischen Sprache" mit mindestens 15
+      Milliarden Parametern und dessen Einführung in mindestens fünf OFFENEN großen Sprachmodellen. Ziff.
+      1 Buchst. a: mindestens 100 KI-Einführungsprojekte. Ziff. 1 Buchst. g: 15 KI-Labore an Hochschulen.
+
+      '
+    verifiziert: true
+    quelle: https://lex.uz/ru/docs/7790236
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  - sektor-finanz
+  - arbeit
+  regelungsschwerpunkte:
+  - 'Ziff. 3 Buchst. a: Pflichtabstimmung KI-bezogener Rechtsetzungsentwürfe und technischer Aufgabenstellungen
+    mit der Национальное агентство перспективных проектов (Nationale Agentur für Perspektivprojekte, NAPP)
+    ab dem 01.01.2026. Damit hat Usbekistan eine zweite KI-Behörde neben dem Ministerium für digitale
+    Technologien — mit einem Vetorecht im Rechtsetzungsverfahren.
+
+    '
+  - 'Ziff. 17 Buchst. g: Auftrag zur Billigung von Grundsätzen für Schaffung, Einführung und Anwendung
+    KI-gestützter Lösungen sowie von Sicherheits- und Ethiknormen binnen dreier Monate. Ob dieses Dokument
+    ergangen ist, war am 06.09.2026 nicht feststellbar — es wäre das eigentliche usbekische KI-Regelwerk.
+
+    '
+  - 'Ziff. 17 Buchst. a: Vorschlag zum Beitritt zum Programm der internationalen Zusammenarbeit der OECD
+    im Bereich der künstlichen Intelligenz binnen zweier Monate.
+
+    '
+  - 'Ziff. 9: Gesamtnationaler KI-Hackathon in den Bereichen Gesundheit, Bildung, JUSTIZSYSTEM, Wasserwirtschaft
+    und Unternehmensentwicklung — die ausdrückliche Nennung des Justizsystems verzahnt den Erlass mit
+    der Justizstrategie УП-160.
+
+    '
+  - 'Ziff. 11 Buchst. b: Die Projektliste wird „исходя из СТЕПЕНИ РИСКА в сферах" gebildet — nach dem
+    Risikograd in den Bereichen. Das ist die einzige Stelle im usbekischen Recht, an der ein Risikoansatz
+    auftaucht; er dient allerdings der Projektpriorisierung, nicht der Regulierung.
+
+    '
+  - 'Ziff. 16: In jeder Region und jedem Bezirk wird eine Stelle des „советник, ответственный за развитие
+    цифровых технологий и технологий искусственного интеллекта" eingerichtet, besetzt auf Empfehlung des
+    Ministeriums für digitale Technologien aus dem Kreis ausländischer Fachleute und Landsleute im Ausland,
+    mit marktgerechter Vergütung.
+
+    '
+  dokumente:
+  - datum: 2025-10-22
+    typ: leitlinie
+    titel: 'УП-189-сон 22.10.2025 „О дополнительных мерах по дальнейшему развитию технологий искусственного
+      интеллекта"
+
+      '
+    url: https://lex.uz/ru/docs/7790236
+    sprache: ru
+    urheber: Präsident der Republik Usbekistan (Sh. Mirziyoyev)
+    verifiziert: true
+    notiz: 'Die russische Fassung ist auf lex.uz durchgängig als unamtliche Übersetzung gekennzeichnet.
+      Anlagen 1 bis 4 liegen nur auf Usbekisch vor (ausdrücklicher Hinweis im Text: „Приложения №№ 1 —
+      4 приводятся на узбекском языке").
+
+      '
+  offene_punkte:
+  - 'DER WICHTIGSTE OFFENE PUNKT DIESER DATEI FÜR USBEKISTAN: Ob die nach Ziff. 17 Buchst. g bis etwa
+    22.01.2026 zu billigenden „Grundsätze der Schaffung, Einführung und Anwendung KI-gestützter Lösungen
+    sowie Sicherheits- und Ethiknormen" ergangen sind. Eine Suche auf lex.uz nach diesem Dokument blieb
+    erfolglos; das Ministerium für digitale Technologien veröffentlicht seine Erlasse nicht vollständig
+    auf lex.uz. Zu prüfen wären ai.gov.uz und digital.uz.
+
+    '
+  - 'Anlagen 1 bis 4 (Vergünstigungspaket für Karakalpakstan- Investoren, Maßnahmenplan Fachkräfte, Liste
+    der Sprachkorpus-Zulieferer, Liste der Hochschullabore) liegen nur auf Usbekisch vor und wurden nicht
+    ausgewertet.
+
+    '
+  - 'Ob das Register der für die KI-Beschaffung zugelassenen Unternehmen (Ziff. 8 Buchst. c) errichtet
+    wurde und nach welchen Kriterien die Aufnahme erfolgt, ist offen. Das ist die einzige marktzugangsrelevante
+    Vorschrift des usbekischen KI-Rechts.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/7790236
+  - https://ai.gov.uz
+  bezug_regelwerke:
+  - uz-pp358
+  - uz-ki-omnibus-1115
+  - uz-justiz-2030
+  letzte_pruefung: 2026-09-06
+- id: uz-justiz-2030
+  jurisdiktion: uz
+  kurztitel: Justizstrategie „Правосудие-2030" (УП-160)
+  offizieller_titel: 'Указ Президента Республики Узбекистан „О Стратегии «Правосудие-2030»: построение
+    в Новом Узбекистане народной и справедливой судебной системы, надежно защищающей права человека" —
+    Erlass des Präsidenten über die Strategie „Justiz-2030"
+
+    '
+  fundstelle: 'Указ Президента Республики Узбекистан от 14 августа 2026 года № УП-160
+
+    '
+  verfahrensnummer: УП-160
+  status: softlaw
+  status_detail: 'In Kraft (August 2026). Enthält die bislang einzige ausdrückliche Regelung des KI-Einsatzes
+    in der usbekischen Justiz.
+
+    '
+  kurzbeschreibung: 'Sechs Prioritäten für die Justizreform bis 2030. Für das KI-Recht ist Priorität V
+    („Внедрение современных технологий") einschlägig: Ziff. 5.1 Abkehr von der Papierform im Gerichtsverfahren
+    („Цифровой суд"), Ziff. 5.2 Ausbau des Zugangs zum Recht durch Digitalisierung, und Ziff. 5.3 die
+    Kernvorschrift: „Обеспечение безопасного, ответственного и целевого использования технологий искусственного
+    интеллекта С СОХРАНЕНИЕМ ИСКЛЮЧИТЕЛЬНЫХ ПОЛНОМОЧИЙ СУДЬИ ПО ОСУЩЕСТВЛЕНИЮ ПРАВОСУДИЯ" — sichere, verantwortliche
+    und zweckgebundene KI-Nutzung UNTER WAHRUNG DER AUSSCHLIESSLICHEN BEFUGNIS DES RICHTERS ZUR RECHTSPRECHUNG.
+    Die Strategie richtet beim Obersten Gericht zugleich ein „Департамент цифровых технологий и искусственного
+    интеллекта" mit 27 Stellen ein.
+
+    '
+  inkrafttreten:
+    datum: 2026-08-14
+    verifiziert: false
+    quelle: https://lex.uz/ru/docs/8407362
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  - berufsrecht
+  regelungsschwerpunkte:
+  - 'Ziff. 5.3: Richtervorbehalt für die Rechtsprechung bei gleichzeitiger Zulassung von KI-Werkzeugen.
+    Die Formel („сохранение исключительных полномочий судьи") ist die usbekische Entsprechung zu den Justiz-KI-Leitlinien
+    anderer Rechtsordnungen, steht hier aber in einem Präsidialerlass, nicht in einer Selbstregulierung
+    der Judikative.
+
+    '
+  - 'Zielbild 2030: Die Justiz soll „функционирующей на основе современных цифровых технологий и искусственного
+    интеллекта" sein — KI ist als Strukturmerkmal des Zielzustands formuliert, nicht als Risiko.
+
+    '
+  - 'Organisation: Beim Obersten Gericht wird ein Departement für digitale Technologien und künstliche
+    Intelligenz mit 27 Stellen eingerichtet — eine der größten KI-Organisationseinheiten einer obersten
+    Gerichtsbarkeit weltweit.
+
+    '
+  dokumente:
+  - datum: 2026-08-14
+    typ: leitlinie
+    titel: 'УП-160-сон 14.08.2026 „О Стратегии «Правосудие-2030»"
+
+      '
+    url: https://lex.uz/ru/docs/8407362
+    sprache: ru
+    urheber: Präsident der Republik Usbekistan
+    verifiziert: true
+    notiz: 'In dieser Sitzung nur nach KI-Bezügen durchsucht (drei Fundstellen), nicht vollständig ausgewertet.
+      Das genaue Veröffentlichungs- und Inkrafttretensdatum wurde nicht geprüft.
+
+      '
+  offene_punkte:
+  - 'Inkrafttretensdatum nicht verifiziert; die lex.uz-Karte wurde nicht abgerufen.
+
+    '
+  - 'Ob dem Erlass eine Verfahrensregel folgt, die den KI-Einsatz im Einzelverfahren regelt (Offenlegung
+    gegenüber den Parteien, Aktenvermerk, Rechtsmittelgrund), ist offen.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/8407362
+  bezug_regelwerke:
+  - uz-up189
+  - uz-informatisierungsgesetz
+  bezug_urteile:
+  - uz-plenum-21-2025
+  letzte_pruefung: 2026-09-06
+- id: uz-staatsaudit-ki
+  jurisdiktion: uz
+  kurztitel: KI im Staatsaudit (УП-123)
+  offizieller_titel: 'Ўзбекистон Республикаси Президентининг Фармони „Давлат аудити фаолиятида сунъий
+    интеллект ва рақамлаштиришни янада ривожлантиришга оид чора-тадбирлар тўғрисида" / Указ Президента
+    Республики Узбекистан „О мерах по дальнейшему развитию искусственного интеллекта и цифровизации в
+    деятельности по государственному аудиту"
+
+    '
+  fundstelle: Указ Президента Республики Узбекистан от 6 июля 2026 года № УП-123
+  verfahrensnummer: УП-123
+  status: softlaw
+  status_detail: 'In Kraft (Juli 2026). Sektorbezogener KI-Erlass für die staatliche Finanzkontrolle und
+    die Rechnungskammer.
+
+    '
+  kurzbeschreibung: 'Setzt Ziele der digitalen Transformation des Staatsaudits für 2026–2030: Wirksamkeit
+    der Risikofrüherkennung in den Haushalten auf 50 %, Steigerung der Aufdeckung von Haushaltsdisziplinverstößen
+    um das 1,4-fache DURCH KI-EINSATZ, Aufbau von 30 KI-gestützten Risikoanalyse-Mechanismen und 50 Diensten
+    und Modulen durch Integration der Informationssysteme staatlicher Organe, sowie Fortbildung der Prüfer.
+    Der Erlass ist das deutlichste Beispiel für den usbekischen Ansatz, KI sektorweise per Präsidialerlass
+    einzuführen statt horizontal zu regulieren — und er wirft die Frage auf, wie sich KI-gestützte Risikoscoring-Systeme
+    in der Finanzkontrolle zu Art. 7-1 Abs. 2 Informatisierungsgesetz (Verbot der ausschließlichen Stützung
+    auf KI bei rechtlich bedeutsamen Entscheidungen) verhalten.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-06
+    verifiziert: false
+    quelle: https://lex.uz/ru/docs/8309051
+  themenachsen:
+  - sektor-oeffentlich
+  - sektor-finanz
+  - governance
+  regelungsschwerpunkte:
+  - 'Ziff. 1: Vier Zielgrößen der digitalen Transformation des Staatsaudits 2026–2030, sämtlich KI-bezogen.
+
+    '
+  - 'Das Zusammentreffen von KI-gestütztem Risikoscoring mit Sanktionsentscheidungen (Nachforderungen,
+    Kontosperren) ist der praktisch bedeutsamste Anwendungsfall des Art. 7-1 Abs. 2 Informatisierungsgesetz.
+    Der Erlass selbst adressiert diese Schranke nicht.
+
+    '
+  dokumente:
+  - datum: 2026-07-06
+    typ: leitlinie
+    titel: 'УП-123-сон 06.07.2026 „О мерах по дальнейшему развитию искусственного интеллекта и цифровизации
+      в деятельности по государственному аудиту" (russische Fassung)
+
+      '
+    url: https://lex.uz/ru/docs/8309051
+    sprache: ru
+    urheber: Präsident der Republik Usbekistan
+    verifiziert: true
+    notiz: '23 Fundstellen für „искусственный интеллект". In dieser Sitzung nur Abschnitt I (Ziele) ausgewertet.
+
+      '
+  - datum: 2026-07-06
+    typ: leitlinie
+    titel: 'Usbekische Fassung desselben Erlasses („Давлат аудити фаолиятида сунъий интеллект…")
+
+      '
+    url: https://lex.uz/ru/docs/8309048
+    sprache: uz
+    urheber: Präsident der Republik Usbekistan
+    verifiziert: true
+    notiz: Amtlicher Text.
+  offene_punkte:
+  - 'Abschnitte II bis V des Erlasses wurden nicht ausgewertet. Inkrafttretensdatum nicht verifiziert.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/8309051
+  bezug_regelwerke:
+  - uz-informatisierungsgesetz
+  - uz-up189
+  letzte_pruefung: 2026-09-06
+- id: uz-digital-uzbekistan-2030
+  jurisdiktion: uz
+  kurztitel: Strategie „Цифровой Узбекистан-2030" (УП-6079)
+  offizieller_titel: 'Указ Президента Республики Узбекистан „Об утверждении Стратегии «Цифровой Узбекистан-2030»
+    и мерах по ее эффективной реализации"
+
+    '
+  fundstelle: 'Указ Президента Республики Узбекистан от 5 октября 2020 года № УП-6079
+
+    '
+  verfahrensnummer: УП-6079
+  status: softlaw
+  status_detail: 'In Kraft. Die Dachstrategie, in deren Rahmen die KI-Strategie ПП-358 ausdrücklich ergangen
+    ist („обеспечения исполнения целей и задач, определенных в Стратегии «Цифровой Узбекистан — 2030»").
+    Ihre Koordinationskommission unter Leitung des Premierministers A. Aripow ist zugleich das Steuerungsgremium
+    der KI-Politik: Sie billigt die Liste der prioritären KI-Projekte und verteilt die Mittel nach УП-189
+    Ziff. 7.
+
+    '
+  kurzbeschreibung: 'Rahmenstrategie der usbekischen Digitalpolitik. Für das KI-Recht ist sie institutionell
+    erheblich: Die „Координационная комиссия по реализации Стратегии «Цифровой Узбекистан — 2030»" ist
+    nach ПП-358 Ziff. 5 und 6 und nach УП-189 Ziff. 7 und 11 das Gremium, das über die KI-Projektliste,
+    die Mittelverteilung und die Wirksamkeitsbewertung entscheidet — ohne dass es dafür eine gesetzliche
+    Grundlage gäbe.
+
+    '
+  inkrafttreten:
+    datum: 2020-10-05
+    verifiziert: false
+    quelle: https://lex.uz/ru/docs/5031048
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Die Koordinationskommission ist das faktische KI-Steuerungsorgan Usbekistans. Ihre Zusammensetzung,
+    ihr Verfahren und die Rechtsnatur ihrer Beschlüsse ergeben sich nicht aus einem Gesetz, sondern aus
+    Präsidialerlassen — ein struktureller Unterschied zur kasachischen Lösung, die die Zuständigkeiten
+    in Art. 12 und 13 des KI-Gesetzes normiert.
+
+    '
+  dokumente:
+  - datum: 2020-10-05
+    typ: leitlinie
+    titel: 'УП-6079-сон 05.10.2020 „Об утверждении Стратегии «Цифровой Узбекистан-2030»"
+
+      '
+    url: https://lex.uz/ru/docs/5031048
+    sprache: ru
+    urheber: Präsident der Republik Usbekistan
+    verifiziert: true
+    notiz: 'In dieser Sitzung nur über den Verweis in ПП-358 nachgewiesen und im Titel geprüft; der Volltext
+      wurde nicht ausgewertet.
+
+      '
+  offene_punkte:
+  - 'Volltext nicht ausgewertet; Inkrafttretensdatum nicht verifiziert. Zu prüfen wäre, ob die Strategie
+    selbst KI-Zielgrößen enthält, die von denen der ПП-358 abweichen.
+
+    '
+  monitoring_quellen:
+  - https://lex.uz/ru/docs/5031048
+  bezug_regelwerke:
+  - uz-pp358
+  - uz-up189
+  letzte_pruefung: 2026-09-06

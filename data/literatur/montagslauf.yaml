@@ -1,0 +1,83 @@
+# Aus dem Montagslauf uebernommen (build/uebernehmen.py).
+literatur:
+- id: 2026-gentile-tdm-registry
+  typ: blogbeitrag
+  autoren:
+  - Gentile, Stefano
+  titel: 'TDM registry: effective opt-out through content-based fingerprinting technologies'
+  fundstelle: Kluwer Copyright Blog, 25. August 2026
+  jahr: 2026
+  sprache: en
+  url: https://legalblogs.wolterskluwer.com/copyright-blog/tdm-registry-effective-optout-through-content-based-fingerprinting-technologies/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  bezug_streitstaende:
+  - tdm-schranke-de
+  - training-schranken-international
+  kernthese: 'Der maschinenlesbare Nutzungsvorbehalt nach Art. 4 Abs. 3 DSM-RL scheitert nicht am Recht,
+    sondern daran, dass das Signal an die Datei gebunden ist: Metadaten fallen beim Weiterverbreiten ab.
+    Inhaltsbasiertes Fingerprinting (ISCC) sei überlegen; vorgeschlagen wird ein Register mit zwei Arbeitsabläufen
+    — Erklärung (Signatur berechnen, Eintrag anlegen, Vorbehalt erklären) und Erkennung (Inhalt beziehen,
+    Signatur berechnen, Register abfragen) — mit API-Priorität für Entwickler und manueller Eingabe für
+    Einzelurheber.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Trifft die Frage, an der das LAION-Verfahren hängt, von der technischen Seite: Woran
+    bemisst sich Maschinenlesbarkeit? Hamburg hat sie im Fließtext einer Nutzungsbedingung bejaht, der
+    BGH verhandelte am 03.09.2026 über einen Vorbehalt, der Programme, Applets und Bots untersagte. Gentile
+    verschiebt den Maßstab vom Dokument-Metadatum auf ein registergestütztes Inhaltsmerkmal — das würde
+    die Streitfrage des Einzelfalls in eine Infrastrukturfrage überführen und wäre der erste ernsthafte
+    Vorschlag, wie ein Opt-out nach der ersten Weiterverbreitung überhaupt wirken kann. Einschränkung:
+    Der Beitrag nennt weder Kneschke ./. LAION noch § 44b UrhG und argumentiert rein auf Ebene des Art.
+    4 Abs. 3 DSM-RL; der Verfasser ist Angehöriger der Kommission, der Text aber kein Kommissionsdokument.
+
+    '
+  letzte_pruefung: '2026-09-07'
+  normen:
+  - dsm-rl-art-4
+  - urhg-44b-abs-3
+- id: 2026-trimble-third-fair-use-factor
+  typ: blogbeitrag
+  autoren:
+  - Trimble, Marketa
+  titel: The Underappreciated Third U.S. Fair Use Factor in Copyright Infringement Cases Concerning AI
+    Training
+  fundstelle: Kluwer Copyright Blog, 5. August 2026
+  jahr: 2026
+  sprache: en
+  url: https://legalblogs.wolterskluwer.com/copyright-blog/the-underappreciated-third-us-fair-use-factor-in-copyright-infringement-cases-concerning-ai-training-2/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - urheberrecht
+  - gpai
+  bezug_streitstaende:
+  - fair-use-training
+  bezug_urteile:
+  - us-2026-concord-anthropic-sj
+  - us-2025-thomson-reuters-ross-fairuse
+  kernthese: 'Der dritte Fair-Use-Faktor (amount and substantiality) werde in den Trainingsfällen unterschätzt
+    und müsse gegen fair use ausschlagen: Weil das allgemeine Training kein einzelnes bestimmtes Werk
+    erfordert, lasse sich die Übernahme des ganzen Werks nicht als reasonably necessary rechtfertigen
+    — "if the purpose does not necessitate the use of a particular work at all, the use of any portion
+    of a work must be unreasonably large for the purpose".'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Gegenentwurf zu der Lesart, die seit Bartz und Kadrey die Diskussion beherrscht:
+    dass Faktor 1 alles entscheidet und die Übernahme des Vollwerks in Faktor 3 folgenlos bleibt. Trimbles
+    Umkehrung ist elegant — gerade die Austauschbarkeit des einzelnen Werks fürs Training macht seine
+    vollständige Übernahme unverhältnismäßig. Ob sie trägt, ist offen; sie schneidet aber genau die Stelle
+    an, an der die Summary-Judgment-Anträge im SDNY-MDL vom 04.09.2026 und die Berufung in ROSS auseinandergehen.
+    Für einen deutschen Leser zusätzlich lehrreich, weil § 44b UrhG die Frage nach dem Umfang gar nicht
+    erst stellt.
+
+    '
+  letzte_pruefung: '2026-09-07'

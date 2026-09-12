@@ -1,0 +1,244 @@
+# =====================================================================
+# schema.yaml — Datenmodell des Projekts
+# Vier Entitaeten, ueber ids verknuepft. Alles andere ist Sicht darauf.
+#
+#   regelwerk  <--- urteil (feld: bezug_regelwerke)
+#       ^                ^
+#       |                |
+#       +---- literatur -+  (felder: bezug_regelwerke, bezug_urteile)
+#       |
+#   frist (feld: regelwerk)
+#
+# Konvention: ids sind kleingeschrieben, bindestrichgetrennt, stabil.
+#   regelwerk:
+regelwerk:
+  pflichtfelder:
+  - id
+  - jurisdiktion
+  - kurztitel
+  - status
+  - themenachsen
+  felder:
+    id: Stabiler Schluessel, s.o.
+    jurisdiktion: id aus taxonomie.jurisdiktionen
+    subjurisdiktion: optional, id aus taxonomie.subjurisdiktionen
+    kurztitel: Wie man es im Gespraech nennt
+    offizieller_titel: Vollstaendige amtliche Bezeichnung
+    fundstelle: Amtsblatt, BGBl., Public Law No. o.ae.
+    celex: 'EU: CELEX-Nummer'
+    eli: European Legislation Identifier
+    verfahrensnummer: z.B. 2021/0106(COD), Bill-Nummer, Drucksachennummer
+    status: id aus taxonomie.statuswerte.regelwerk
+    kurzbeschreibung: 3-5 Saetze. Was regelt es, fuer wen, mit welcher Sanktion.
+    inkrafttreten:
+      datum: date
+      verifiziert: bool
+      quelle: url
+    anwendungsdaten:
+    - datum: date
+      was_gilt: text
+      verifiziert: bool
+      quelle: url
+    themenachsen: Liste von ids aus taxonomie.themenachsen
+    dokumente:
+    - datum: date
+      typ: id aus taxonomie.dokumenttypen
+      titel: text
+      url: url
+      sprache: iso639-1
+      urheber: text
+      verifiziert: bool
+      notiz: Warum ist dieses Dokument wichtig?
+    fristen: Liste von frist-ids
+    bezug_regelwerke: ids verwandter oder aendernder Regelwerke
+    offene_punkte: Was noch unklar ist, was zu beobachten ist
+    monitoring_quellen: ids aus quellen.yaml
+    letzte_pruefung: date
+    eigene_bewertung: 'Freitext. Was ist die praktisch relevante Frage, wo ist der Streit, was wird uebersehen.
+      Das ist der Teil, der spaeter publikationsfaehig wird.
+
+      '
+    status_detail: Ein bis zwei Saetze zum tatsaechlichen Stand heute
+    regelungsschwerpunkte: 'Stichpunkte: das juristisch Interessante'
+    pruefvermerk: 'Liste: woran wurde geprueft, was kam dabei heraus'
+    bedeutung_eu_anbieter: Was es fuer einen europaeischen Anbieter bedeutet
+    originaltitel: Titel in Originalsprache und -schrift
+    eu_anbieter_relevanz: dito, kurz
+    rechtswirkung: bindend | empfehlend | programmatisch
+    transliteration: Umschrift des Originaltitels
+    quellenlage: Wie gut belegt der Eintrag ist
+    bedient_artikel: Welche Artikel eines Rahmenrechtsakts es ausfuellt
+    bearbeitungsstand: Wie weit der Eintrag gediehen ist
+    normnummer: Amtliche Nummer
+    provinz: Untergliederung unterhalb der Subjurisdiktion
+    sekundaerquelle_url: Presse, Kanzlei, Tracker - niemals als volltext_url
+    bundesstaat: dito
+    bedeutung_praxis: Praktische Tragweite
+    bezug_urteile: ids zugehoeriger Entscheidungen
+    unterzeichner: Wer den Vertrag gezeichnet hat
+    normen_stand_2026_06: Altlast, bei Gelegenheit entfernen
+urteil:
+  pflichtfelder:
+  - id
+  - jurisdiktion
+  - gericht
+  - status
+  - themenachsen
+  felder:
+    id: Stabiler Schluessel, s.o.
+    jurisdiktion: id aus taxonomie.jurisdiktionen
+    gericht: Vollstaendige Bezeichnung
+    instanz: erstinstanzlich | berufung | revision | verfassungsgericht | schiedsgericht
+    aktenzeichen: text
+    ecli: European Case Law Identifier, falls vorhanden
+    datum: date
+    parteien:
+      klaeger: text
+      beklagter: text
+    status: id aus taxonomie.statuswerte.verfahren
+    themenachsen: Liste von ids
+    anspruchsgrundlage: Welche Norm wurde geltend gemacht
+    kernfrage: Ein Satz. Worum geht es rechtlich.
+    ergebnis: Wie wurde entschieden
+    bedeutung: hoch | mittel | niedrig — steuert, ob es in die Leseliste kommt
+    volltext_url: url
+    zusammenfassung_url: url
+    bezug_regelwerke: ids
+    instanzenzug: ids anderer urteile im selben Verfahren
+    quelle_tracker: Woher haben wir davon erfahren
+    letzte_pruefung: date
+    eigene_bewertung: text
+    verifiziert: 'bool: am Dokument geprueft'
+    quelle_art: amtlich | datenbank | sekundaer | fehlt - wird beim Bau erzeugt, nicht von Hand setzen
+    normen: ids aus data/normen/
+    pruefvermerk: 'Liste: woran wurde geprueft, was kam dabei heraus'
+    sekundaerquelle_url: Presse, Kanzlei, Tracker - niemals als volltext_url
+    dokumenttyp: Art der Entscheidung (Urteil, Beschluss, Bescheid)
+    aktenzeichen_original: Aktenzeichen in Originalschrift
+    suchadresse: Wie man die Entscheidung im Portal wiederfindet
+    leitsatz: Der tragende Satz, wenn das Gericht einen formuliert
+    zweifelhaft: 'Kennzeichnung: Angaben nicht abschliessend gesichert'
+    parteien_beklagter: dito
+    verfahrensstadium: 'Praezisierung zu status: anhaengig - unterscheidet Klageerhebung von anberaumtem
+      Termin'
+    parteien_klaeger: Zusatz zum Rubrum, wenn parteien.klaeger zu knapp ist
+    bedeutung_begruendung: Warum die Entscheidung fuer die Datenbasis zaehlt
+    sprache: Sprache des Volltextes
+    sachverhalt: Worum es tatsaechlich ging - erzaehlend, fuer Vortrag und Video
+    offene_punkte: Was fehlt oder zu beobachten ist
+    richter: Spruchkoerper oder Berichterstatter
+    regelwerk: id des einschlaegigen Regelwerks
+    hinweis_widerspruch: Widerspruch zwischen Quellen, ausdruecklich vermerkt
+    fundstelle: Amtliche Fundstelle
+    terminuebersicht_url: Rollierende Terminseite - nie als volltext_url
+    hinweis_datenqualitaet: Vorbehalt zur Belastbarkeit
+    dokumenttyp_hinweis: Vorbehalt zur Einordnung
+    bisheriger_link: Ersetzter Verweis, zur Nachvollziehbarkeit
+    sachverhalt_quelle: eintrag | volltext - woraus der Sachverhalt geschrieben wurde
+literatur:
+  pflichtfelder:
+  - id
+  - typ
+  - titel
+  - jahr
+  felder:
+    id: Stabiler Schluessel, s.o.
+    typ: aufsatz | monografie | kommentar | handbuch | dissertation | blogbeitrag | bericht | working-paper
+    autoren: Liste
+    titel: text
+    fundstelle: Zeitschrift, Band, Seite / Verlag / URL
+    jahr: int
+    doi: text
+    ssrn_id: text
+    isbn: text
+    sprache: iso639-1
+    jurisdiktionen: Liste von ids — worauf bezieht sich der Text
+    themenachsen: Liste von ids
+    bezug_regelwerke: ids
+    bezug_urteile: ids
+    zugang: open-access | juris | beck | heinonline | westlaw | kauf | bibliothek
+    url: url
+    lesestatus: ungelesen | angelesen | gelesen | exzerpiert
+    prioritaet: pflicht | wichtig | optional
+    exzerpt_datei: Pfad zu einer Markdown-Datei mit eigenen Notizen
+    eigene_bewertung: text
+    kernthese: 'Ein bis zwei Saetze: was der Text behauptet'
+    letzte_pruefung: date
+    normen: ids aus data/normen/
+    verifiziert: 'bool: am Dokument geprueft'
+    bezug_streitstaende: ids aus data/streitstaende/
+    titel_deutsch: Uebersetzung nichtdeutscher Titel
+    auch_erfasst_in: Wenn der Titel doppelt gefuehrt wird
+frist:
+  pflichtfelder:
+  - id
+  - datum
+  - beschreibung
+  felder:
+    id: text
+    datum: date
+    uhrzeit: optional
+    beschreibung: Was laeuft ab
+    typ: anwendungsbeginn | umsetzungsfrist | konsultation | bewerbung | einreichung | pruefung | sonstiges
+    jurisdiktion: id
+    regelwerk: id, falls zugehoerig
+    adressat: Wen betrifft es
+    handlungsbedarf: Was muss ICH bis dahin tun — leer, wenn nur beobachtend
+    quelle: url
+    verifiziert: bool
+    kalender_sync: true = wird als Kalendertermin angelegt
+    vorwarnung_tage: Liste, z.B. [90, 30, 7, 1]
+    fundstelle_norm: Die Vorschrift, aus der die Frist folgt - wortwoertlich
+    urteil: id der zugehoerigen Entscheidung
+    letzte_pruefung: date
+    verfahren: Bezeichnung des Verfahrens
+    notiz_erledigt: Was geschah, als die Frist ablief
+    pruefvermerk: 'Liste: woran wurde geprueft, was kam dabei heraus'
+    sekundaerquelle: wie sekundaerquelle_url
+    subjurisdiktion: id aus taxonomie.subjurisdiktionen
+    quellenhinweis: Vorbehalt zur Quelle
+streitstand:
+  pflichtfelder:
+  - id
+  - titel
+  - frage
+  - jurisdiktionen
+  - themenachsen
+  - stand
+  - positionen
+  felder:
+    id: Stabiler Schluessel, sprechend
+    titel: Wie man die Frage nennt
+    frage: Ein Satz, den ein Gericht mit ja oder nein beantworten muesste
+    jurisdiktionen: Liste von ids
+    themenachsen: Liste von ids
+    stand: Wo die Frage heute steht - wer hat entschieden, was ist anhaengig
+    positionen: Liste von {position, gericht, begruendung, urteile}
+    aufloesung: 'Prognose: wie es sich entwickelt und woran man es erkennt. ACHTUNG: heisst aufloesung,
+      nicht aufloesungsprognose - die App liest dieses Feld.'
+    unterfragen: Liste von {frage, stand} - Teilfragen innerhalb des Streits
+    fehlende_belege: Was zur Beurteilung fehlt
+    eigene_bewertung: text
+    normen: ids aus data/normen/
+    bezug_regelwerke: ids aus data/regelwerke/ - NICHT regelwerke
+    bezug_literatur: ids aus data/literatur/
+    bezug_streitstaende: ids anderer Streitstaende
+    letzte_pruefung: date
+norm:
+  pflichtfelder:
+  - id
+  - regelwerk
+  - bezeichnung
+  felder:
+    id: Stabiler Schluessel, z.B. ki-vo-art-50-abs-4
+    regelwerk: id des Regelwerks, zu dem die Vorschrift gehoert
+    bezeichnung: Wie man sie zitiert, in Originalsprache
+    thema: Ein Stichwort - wofuer steht die Vorschrift
+    jurisdiktion: id aus taxonomie.jurisdiktionen
+    amtlicher_text_url: Direkt zur Vorschrift, nicht zum ganzen Gesetz
+    inhalt: 'Ein bis drei Saetze: was die Vorschrift anordnet'
+    via: Ueber welches Regelwerk sie eingefuegt wurde
+    geaendertes_regelwerk: id des durch sie geaenderten Regelwerks
+  hinweis: 'Nur 136 von 2068 Vorschriften fuehren inhalt und amtlicher_text_url. Die uebrigen sind Verweise:
+    sie taugen zum Verknuepfen und Filtern, nicht zum Lesen. Wer die Ebene ausbaut, fuellt genau diese
+    zwei Felder.'

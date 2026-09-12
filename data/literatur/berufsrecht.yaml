@@ -1,0 +1,661 @@
+literatur:
+- id: 2024-magesh-hallucination-free
+  typ: aufsatz
+  autoren:
+  - Magesh, Varun
+  - Surani, Faiz
+  - Dahl, Matthew
+  - Suzgun, Mirac
+  - Manning, Christopher D.
+  - Ho, Daniel E.
+  titel: Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools
+  fundstelle: Journal of Empirical Legal Studies (2025); arXiv:2405.20362, 30.05.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2405.20362
+  url: https://arxiv.org/abs/2405.20362
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - us
+  themenachsen:
+  - berufsrecht
+  - content
+  - governance
+  - haftung
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  - de-ki-justiz
+  bezug_urteile:
+  - us-2023-mata-avianca
+  kernthese: Auch die auf Retrieval Augmented Generation gestützten juristischen Rechercheprodukte von
+    LexisNexis und Thomson Reuters halluzinieren in 17 bis 33 Prozent der Fälle, entgegen der Werbeaussage
+    der Anbieter, das Problem sei gelöst.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Studie, auf die sich die berufsrechtliche Sorgfaltsdiskussion weltweit stützt,
+    und der Grund, warum Gerichte und Kammern die Prüfpflicht nicht auf Allzweckchatbots beschränken.
+    Ihre Bedeutung liegt in der Adressierung des Gegenarguments: Der Einwand, die Sanktionsfälle beträfen
+    nur unbedarfte Anwälte mit ChatGPT, war nach dieser Studie nicht mehr haltbar — auch die juristischen
+    Fachprodukte erfinden Fundstellen und geben Rechtssätze falsch wieder. Für das deutsche Berufsrecht
+    folgt daraus, dass § 43 BRAO und die Mandantensorgfalt eine Verifikationspflicht begründen, die der
+    Anwalt nicht an den Anbieter delegieren kann, unabhängig davon, welches Produkt er einsetzt. Pflicht,
+    weil sie die empirische Grundlage jeder Praxisrichtlinie liefert und weil sie methodisch überprüfbar
+    ist: Die Autoren legen Aufgabenset und Kodierung offen. Angreifbar ist die Aktualität — gemessen wurde
+    2024, die Produkte haben sich verändert — und die Definition von "Halluzination", die falsche Rechtssätze
+    und falsche Fundstellen zusammenfasst, obwohl die berufsrechtliche Bewertung auseinanderfällt. Die
+    Anbieter haben genau das eingewandt; die Replik der Autoren ist überzeugend, aber die Wiederholung
+    der Messung mit den Produkten von 2026 steht aus und wäre eine Publikationsmöglichkeit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  bezug_streitstaende: []
+  auch_erfasst_in:
+  - 33_lit_datenschutz
+  - 35_lit_technik
+  normen:
+  - frcp-11-b
+- id: 2026-charlotin-hallucination-cases
+  typ: bericht
+  autoren:
+  - Charlotin, Damien
+  titel: AI Hallucination Cases — Datenbank gerichtlicher Entscheidungen über den Gebrauch halluzinierter
+    KI-Inhalte
+  fundstelle: 'damiencharlotin.com, laufend aktualisiert; Stand 01.09.2026: 2.005 erfasste Fälle'
+  jahr: 2026
+  sprache: en
+  url: https://www.damiencharlotin.com/hallucinations/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - ca
+  - au
+  - uk
+  - de
+  - in
+  - br
+  - il
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - governance
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  - de-ki-justiz
+  bezug_urteile:
+  - us-2023-mata-avianca
+  - us-2025-lacey-statefarm
+  - ca-2024-zhang-chen
+  kernthese: Der Gebrauch halluzinierter Fundstellen vor Gericht ist kein Einzelfallproblem, sondern ein
+    weltweit dokumentiertes Massenphänomen mit über zweitausend gerichtlich festgestellten Fällen in mehr
+    als vierzig Jurisdiktionen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die empirische Grundlage der gesamten Sanktionsdiskussion und das einzige Instrument,
+    mit dem sich Entwicklung und geografische Verteilung nachvollziehen lassen. Die Zahlen zum Stichtag
+    sind der stärkste Einzelbefund dieser Akte: 2.005 Fälle, davon 1.375 in den USA, 214 in Kanada, 110
+    in Australien, 62 im Vereinigten Königreich — die Commonwealth-Staaten sind gemessen an ihrer Größe
+    massiv überrepräsentiert, was die Erklärung "amerikanisches Prozessrecht" ausschließt und auf die
+    Verbreitung englischsprachiger Werkzeuge deutet. Für Deutschland ist die niedrige Zahl kein Entwarnungssignal,
+    sondern ein Hinweis auf fehlende Entdeckung: Wo Urteile nicht systematisch veröffentlicht werden,
+    fällt die Falschzitierung nicht auf. Methodisch sauber ist die Abgrenzung — erfasst wird nur, wo ein
+    Gericht die Verwendung festgestellt hat, nicht die bloße Behauptung. Angreifbar ist die Erhebung:
+    Ein Einzelner sammelt, was er findet; Sprachen außerhalb des Englischen sind systematisch unterrepräsentiert.
+    Als Zitat immer mit Abrufdatum zu versehen, weil sich die Zahl täglich ändert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - br-cpc-art-77
+  - br-cpc-art-80
+  - br-cpc-art-81
+  - ca-abkb-notice-ki-2023
+  - ca-fc-notice-ki-erklaerung
+  - ca-mbkb-pd-ki-2023
+  - ca-on-scj-ppd-abschnitt-k
+  - frcp-11-b
+  - frcp-11-c
+  - usc-28-1927
+- id: 2024-aba-formal-opinion-512
+  typ: bericht
+  autoren:
+  - American Bar Association, Standing Committee on Ethics and Professional Responsibility
+  titel: 'Formal Opinion 512: Generative Artificial Intelligence Tools'
+  fundstelle: American Bar Association, 29.07.2024
+  jahr: 2024
+  sprache: en
+  url: https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - berufsrecht
+  - vertrag
+  - datenschutz
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  kernthese: Der Einsatz generativer Werkzeuge löst Pflichten aus fünf Regeln zugleich aus — Kompetenz,
+    Verschwiegenheit, Mandanteninformation, Aufsicht und Gebühren —, und die Verschwiegenheit verlangt
+    vor Eingabe von Mandantsinformationen in selbstlernende Systeme die informierte Einwilligung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die erste umfassende berufsrechtliche Stellungnahme einer großen Anwaltsorganisation
+    und die Vorlage, an der sich Kammern weltweit orientieren. Für das deutsche Recht sind zwei Punkte
+    unmittelbar übertragbar. Erstens die Verschwiegenheit: Die ABA verlangt informierte Einwilligung vor
+    der Eingabe in selbstlernende Systeme — im deutschen Recht führt der Weg über § 43e BRAO (Dienstleister),
+    § 203 Abs. 3 StGB und die Vertraulichkeitsvereinbarung, mit dem entscheidenden Unterschied, dass §
+    43e BRAO die Einwilligung des Mandanten gerade NICHT verlangt, sondern eine Verpflichtung des Dienstleisters
+    genügen lässt. Wer Cloud-KI einsetzt, sollte diesen Unterschied kennen. Zweitens die Gebührenfrage:
+    Zeit, die durch KI eingespart wird, darf nicht abgerechnet werden, und die Einarbeitung in das Werkzeug
+    ist nicht erstattungsfähig — eine Feststellung, die im deutschen RVG-System anders liegt und deshalb
+    selbständig zu entwickeln wäre. Angreifbar ist die Pauschalität der Kategorie "selbstlernend": Ob
+    ein Modell aus Eingaben lernt, ist Vertragsfrage, nicht Technikeigenschaft, und die Opinion verwischt
+    das.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-grossman-grimm-brown-gptjudge
+  typ: aufsatz
+  autoren:
+  - Grossman, Maura R.
+  - Grimm, Paul W.
+  - Brown, Daniel G.
+  - Xu, Molly (Yiming)
+  titel: 'The GPTJudge: Justice in a Generative AI World'
+  fundstelle: Duke Law & Technology Review 23 (2023), 1–34
+  jahr: 2023
+  sprache: en
+  url: https://scholarship.law.duke.edu/dltr/vol23/iss1/1/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - berufsrecht
+  - content
+  - haftung
+  bezug_regelwerke:
+  - de-ki-justiz
+  kernthese: Generative Systeme erzeugen Beweismittel, die von menschlich erzeugten nicht mehr zu unterscheiden
+    sind, weshalb Authentifizierung, Geschworenenverständnis und Prozesskosten neu geregelt werden müssen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der praktisch nützlichste Text der amerikanischen Justiz-KI-Literatur, weil er Handlungsanweisungen
+    für Gericht und Anwaltschaft gibt statt Prinzipien zu formulieren, und die Grundlage der Diskussion
+    um eine eigene Beweisregel für maschinell erzeugte Beweismittel (FRE 707). Für die deutsche Praxis
+    interessant ist die Behandlung der Deepfake-Verteidigung — der Einwand, ein echtes Beweismittel sei
+    gefälscht — und der Vorschlag, dafür eine Substantiierungslast einzuführen; im deutschen Zivilprozess
+    wäre das eine Frage des Bestreitens mit Nichtwissen nach § 138 Abs. 4 ZPO, was noch niemand ausgearbeitet
+    hat. Angreifbar ist die Kostenschätzung, die auf Annahmen beruht, und die Annahme, Sachverständige
+    für digitale Forensik stünden in ausreichender Zahl zur Verfügung.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - fre-702
+  - fre-901
+  - fre-902
+- id: 2022-grimm-grossman-artificial-justice
+  typ: aufsatz
+  autoren:
+  - Grimm, Paul W.
+  - Grossman, Maura R.
+  - Gless, Sabine
+  - Hildebrandt, Mireille
+  titel: 'Artificial Justice: The Quandary of AI in the Courtroom'
+  fundstelle: Judicature International 2021/22
+  jahr: 2022
+  sprache: en
+  url: https://judicature.duke.edu/articles/artificial-justice-the-quandary-of-ai-in-the-courtroom/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - berufsrecht
+  - grundrechte
+  - sektor-oeffentlich
+  bezug_regelwerke:
+  - de-ki-justiz
+  - ki-vo-2024-1689
+  kernthese: Der Einsatz algorithmischer Systeme in der Strafjustiz gefährdet Verfahrensgrundrechte durch
+    Verzerrung, Undurchsichtigkeit und Erosion des rechtlichen Gehörs und verlangt richterliche Torwächterfunktion,
+    Transparenzpflichten und teilweise Verbote.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen wegen der Besetzung: Gless und Hildebrandt bringen die kontinentaleuropäische
+    Perspektive in einen amerikanischen Text, was in dieser Literatur selten ist und den Vergleich erleichtert.
+    Substanziell bleibt der Beitrag hinter GPTJudge zurück, weil er auf der Ebene der Prinzipien verharrt.
+    Nützlich für die Einordnung des Art. 6 Abs. 2 KI-VO in Verbindung mit Anhang III Nr. 8 (Rechtspflege
+    als Hochrisikobereich).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-6-abs-2
+  - fre-702
+- id: 2019-re-solow-niederman-ai-justice
+  typ: aufsatz
+  autoren:
+  - Re, Richard M.
+  - Solow-Niederman, Alicia
+  titel: Developing Artificially Intelligent Justice
+  fundstelle: Stanford Technology Law Review 22 (2019), Heft 2, 242
+  jahr: 2019
+  sprache: en
+  url: https://law.stanford.edu/publications/developing-artificially-intelligent-justice/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - berufsrecht
+  - grundrechte
+  - sektor-oeffentlich
+  bezug_regelwerke:
+  - de-ki-justiz
+  kernthese: KI-gestützte Rechtsprechung verschiebt die Justiz von einer auf Einzelfallgerechtigkeit angelegten
+    zu einer kodifizierten Justiz, die Standardisierung über moralische Einzelfallabwägung stellt und
+    dabei undurchsichtig, datenabhängig und öffentlich unverständlich wird.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste theoretische Rahmen für die Frage, wofür ein Richter KI einsetzen darf,
+    und der Text, der die Diskussion von der Effizienz auf die Verfassungsfrage verschiebt: Nicht ob die
+    Maschine richtig entscheidet, ist das Problem, sondern dass sich der Begriff der richtigen Entscheidung
+    verändert, wenn man sie einsetzt. Für die deutsche Debatte ist das der Anschlusspunkt zum gesetzlichen
+    Richter (Art. 101 Abs. 1 Satz 2 GG) und zur richterlichen Unabhängigkeit (Art. 97 GG), die beide durch
+    eine Entscheidungsunterstützung berührt werden, deren Vorschlägen der Richter faktisch folgt — das
+    ist der Automatisierungsbias, den Re und Solow-Niederman als "codified justice" beschreiben, ohne
+    die deutschen Normen zu kennen. Angreifbar ist die Prognose: Der Aufsatz ist von 2019 und unterstellt
+    spezialisierte Entscheidungssysteme; die tatsächliche Entwicklung geht zu Allzweckassistenten, was
+    die Fragestellung eher verschärft.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-legaltechverband-ai-report
+  typ: bericht
+  autoren:
+  - Legal Tech Verband Deutschland
+  - TalentRocket
+  titel: 'AI Report 2025 — KI in der Rechtspraxis: Generative Künstliche Intelligenz und ihre Auswirkungen'
+  fundstelle: Legal Tech Verband Deutschland, Whitepaper, 10.06.2025
+  jahr: 2025
+  sprache: de
+  url: https://www.legaltechverband.de/aktivitaeten/ai-report-2025/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - berufsrecht
+  - arbeit
+  - governance
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  kernthese: Generative KI verändert Rollenbilder, Kompetenzanforderungen und Arbeitsorganisation im deutschen
+    Rechtsmarkt schneller als Berufsrecht und Ausbildung darauf reagieren.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als eine der wenigen frei zugänglichen deutschen Bestandsaufnahmen zum
+    tatsächlichen Einsatz in Kanzleien, Unternehmen und Gerichten — die berufsrechtliche Diskussion wird
+    sonst ohne Empirie geführt. Interessengeleitet: Der Verband vertritt Legal-Tech-Anbieter und wirbt
+    für Deregulierung des Fremdbesitzverbots; die Befunde sind Interviews, keine repräsentative Erhebung.
+    Als Beleg für Verbreitung brauchbar, als Beleg für Wirkung nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-schwarcz-ai-powered-lawyering
+  typ: working-paper
+  autoren:
+  - Schwarcz, Daniel
+  - Manning, Sam
+  - Barry, Patrick
+  - Cleveland, David R.
+  - Prescott, J.J.
+  - Rich, Beverly
+  titel: 'AI-Powered Lawyering: AI Reasoning Models, Retrieval Augmented Generation, and the Future of
+    Legal Practice'
+  fundstelle: Minnesota Legal Studies Research Paper; SSRN
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5162111'
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - berufsrecht
+  - arbeit
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  kernthese: In einem randomisierten Experiment mit Jurastudierenden verbesserten Reasoning-Modelle die
+    Qualität juristischer Arbeitsergebnisse messbar und verringerten zugleich die Halluzinationsrate —
+    anders als die frühere Generation von Sprachmodellen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die notwendige Gegenposition zu Magesh u.a. und zur Sanktionsrechtsprechung: Wer
+    aus den Halluzinationsfällen auf die Untauglichkeit der Werkzeuge schließt, generalisiert eine Modellgeneration.
+    Schwarcz u.a. messen randomisiert und finden Qualitätsgewinne bei sinkender Fehlerrate — das verschiebt
+    die berufsrechtliche Frage von "darf man" zu "wie prüft man". Methodisch ist die Arbeit der Magesh-Studie
+    überlegen (Randomisierung, Kontrollgruppe), inhaltlich schwächer, weil Studierende keine Anwälte sind
+    und Übungsaufgaben keine Mandate. KEINE `url`: SSRN beantwortet automatisierte Abrufe durchgängig
+    mit HTTP 429; der Text ist dort frei, nur nicht maschinell abrufbar. Vor Zitat prüfen, ob inzwischen
+    eine Zeitschriftenfassung vorliegt.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-bauermeister-gruenberger-pesch-hamburger-protokoll
+  typ: blogbeitrag
+  autoren:
+  - Baürmeister, Tabea
+  - Grünberger, Michael
+  - Pesch, Paulina Jo
+  titel: 'Was und wie lehren wir im Jurastudium in Zeiten von KI? Das Hamburger Protokoll: KI-Edition'
+  fundstelle: Verfassungsblog, 25.03.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/was-und-wie-lehren-wir-im-jurastudium-in-zeiten-von-ki/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - berufsrecht
+  - governance
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  kernthese: Die juristische Ausbildung muss drei Kompetenzfelder verbinden — juristische Kernfertigkeiten,
+    reflektierte Technikkompetenz und Kommunikationsfähigkeit —, und dabei die genuin menschlichen Fähigkeiten
+    schärfen, die Juristen von ihren digitalen Werkzeugen unterscheiden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Grünberger (Hamburg) gehört zu den in diesem Auftrag ausdrücklich genannten Autoren,
+    und dies ist sein zugänglichster aktueller Text zum Thema. Das Hamburger Protokoll ist aus einem Workshop
+    im Dezember 2025 mit Prüfungsämtern, Richtern, Praktikern und Legal-Tech- Unternehmen hervorgegangen;
+    es hat den Charakter eines Reformpapiers, nicht eines Aufsatzes. Für die Frage, wie das Berufsbild
+    sich verändert, ist es die deutsche Referenzstelle, und es verbindet sich unmittelbar mit "Juristisches
+    Prüfen 2030". Angreifbar ist die Kernannahme, es gebe stabil identifizierbare "genuin menschliche"
+    juristische Fähigkeiten — das ist eine empirische Behauptung, die das Papier nicht belegt und die
+    von der Modellentwicklung laufend widerlegt wird. Bemerkenswert: Der 75. Deutsche Juristentag behandelt
+    2026 die Ausbildungsreform, ohne KI zum Schwerpunkt zu machen; dieses Papier füllt die Lücke.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-fries-juristisches-pruefen-2030
+  typ: blogbeitrag
+  autoren:
+  - Fries, Martin
+  - Gössl, Susanne Lilian
+  - Hähnchen, Susanne
+  - Heidebach, Martin
+  - Krönke, Christoph
+  - Strecker, Michael Benjamin
+  - Wischmeyer, Thomas
+  - Zwickel, Martin
+  titel: Juristisches Prüfen 2030
+  fundstelle: Verfassungsblog, 23.09.2025
+  jahr: 2025
+  sprache: de
+  url: https://verfassungsblog.de/juristisches-prufen-2030/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - berufsrecht
+  - governance
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  kernthese: Bis 2030 lösen KI-Systeme juristische Standardfälle selbständig; statt eines Verbots braucht
+    es gestufte Prüfungsformate — Präsenzklausur, Hybridklausur mit begrenztem Datenbankzugriff und KI-Klausur
+    mit vollem Werkzeugzugang — und Hausarbeiten mit Qüllenverifikationspflicht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Acht Autorinnen und Autoren aus dem Kreis der deutschen Rechtsdidaktik, darunter
+    Wischmeyer, der im Auftrag ausdrücklich genannt ist. Der praktische Wert liegt in der dreistufigen
+    Prüfungsarchitektur, die konkret genug ist, um in eine Prüfungsordnung übernommen zu werden — und
+    die die bayerische Regelung, um die Rachut und Elmentaler/Hof streiten, überflüssig machen würde,
+    weil sie den Durchsetzungskonflikt durch Formatgestaltung auflöst. Das ist der stärkere Weg. Angreifbar
+    ist die Prognose selbst ("bis 2030 selbständig"), die weder belegt noch operational ist, und die Annahme,
+    Quellenverifikation sei prüfbar. Für jeden, der an Prüfungsordnungen mitwirkt, einschlägig.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-becerril-torres-brain-plasticity
+  typ: aufsatz
+  autoren:
+  - Becerril Torres, Luis
+  titel: Human Brain Plasticity as a Limiting Factor in the Use of Artificial Intelligence as a Tool in
+    Legal Argumentation
+  titel_deutsch: Die Plastizität des menschlichen Gehirns als begrenzender Faktor beim Einsatz künstlicher
+    Intelligenz in der juristischen Argumentation
+  fundstelle: Mexican Law Review XVIII (2026), Nr. 2, Artikel e20416
+  jahr: 2026
+  sprache: en
+  url: https://revistas.juridicas.unam.mx/index.php/mexican-law-review/article/view/20416
+  doi: 10.22201/iij.24485306e.2026.2.20416
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  themenachsen:
+  - berufsrecht
+  - grundrechte
+  kernthese: 'Generative Systeme können die "conceptos de violación" des mexikanischen Amparo — den argumentativen
+    Kern der Verfassungs- beschwerde — nicht bilden, weil dieser eine wertende Leistung verlangt, die
+    algorithmisch nicht abbildbar ist.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Auf Englisch, was den Zugang erleichtert, und mit einer konkreten Fragestellung,
+    was ihn von der üblichen "Kann KI Richter ersetzen"-Literatur abhebt: Becerril Torres nimmt eine einzelne,
+    formstrenge Schriftsatzgattung des mexikanischen Rechts und fragt, was ein Sprachmodell an ihr scheitern
+    lässt. Die neurowissen- schaftliche Rahmung (Hirnplastizität) trägt nichts und ist Beiwerk; man kann
+    den Text ohne Verlust ab Abschnitt III lesen. Für die deutsche Debatte um KI-gestützte Schriftsatzerstellung
+    und die anwaltliche Sorgfaltspflicht der beste lateinamerikanische Anknüpfungspunkt, weil er die Formstrenge
+    als eigenständiges Argument einführt.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2021-valero-quispe-derecho-ia-peru
+  typ: aufsatz
+  autoren:
+  - Valero Quispe, Christian Dennis
+  titel: 'Derecho e Inteligencia Artificial en el mundo de hoy: escenarios internacionales y los desafíos
+    que representan para el Perú'
+  titel_deutsch: 'Recht und künstliche Intelligenz heute: internationale Szenarien und die Herausforderungen
+    für Peru'
+  fundstelle: THEMIS Revista de Derecho 79 (2021), 311–322
+  jahr: 2021
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/themis/article/view/24880
+  doi: 10.18800/themis.202101.017
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  themenachsen:
+  - berufsrecht
+  - governance
+  kernthese: 'Der mechanische Teil der Rechtsarbeit wird von Maschinen übernommen, der praktische bleibt
+    beim Menschen; Richter erster Instanz seien ersetzbar, die Rechtsmittelinstanzen nicht.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Aufgenommen als Beleg für den Ton der frühen peruanischen Debatte, nicht wegen der
+    Argumente. Die These, erstinstanzliche Richter seien durch Software ersetzbar, wird nicht begründet,
+    sondern behauptet, und sie ist so pauschal, dass sie dem Autor heute vermutlich selbst unangenehm
+    wäre. Wer sich fragt, warum die lateinamerikanische Justizdebatte über KI ein anderes Ausgangsniveau
+    hat als die europäische, findet hier einen Grund: Der Ersetzungsgedanke war 2021 salonfähig. Für die
+    Sache überspringen; als Zeitdokument und als Kontrast zu Becerril Torres (Mexiko) und Sanromán Aranda
+    brauchbar.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2023-ialab-directrices-chatgpt-justicia
+  typ: bericht
+  autoren:
+  - Corvalán, Juan Gustavo
+  - Sánchez Caparrós, Mariana
+  - Heleg, Giselle
+  - Papini, Carina M.
+  - Raban, Melisa
+  - Stringhini, Antonella
+  titel: Guía de directrices para el uso de ChatGPT e IA generativa de texto en la Justicia
+  titel_deutsch: Leitlinien für den Einsatz von ChatGPT und textgenerativer KI in der Justiz
+  fundstelle: UBA IALAB (Laboratorio de Innovación e Inteligencia Artificial, Facultad de Derecho, Universidad
+    de Buenos Aires) gemeinsam mit Dyntec-Lab, Buenos Aires 2023, 31 Seiten
+  jahr: 2023
+  sprache: es
+  url: https://web.ialab.com.ar/webia/wp-content/uploads/2023/11/Guia-de-directrices-usos-de-ChatGPT-e-IA-generativa-en-la-justicia.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - governance
+  kernthese: 'Generative Modelle dürfen in der Justiz nur als Assistenz eingesetzt werden: vorherige und
+    nachträgliche menschliche Kontrolle sind zwingend, die Delegation der Entscheidung ist verboten, Ausgaben
+    gelten stets als Entwurf.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Die früheste ausformulierte Nutzungsleitlinie für generative Modelle in der Justiz,
+    die ich weltweit gefunden habe — Ende 2023, also vor den entsprechenden Papieren aus England und Wales
+    und lange vor irgendetwas Deutschem. Auf 31 Seiten steht mehr Brauchbares als in manchem Aufsatz:
+    fünf Grundsätze, dann operative Anweisungen zu Vertraulichkeit, Bias-Prüfung, Entwurfscharakter, Prompting
+    und Verifikation. Der Satz "control humano esencial previo y posterior. Prohibición de delegación
+    de toma de decisiones" ist die schärfste Formulierung des Delegationsverbots, die ich kenne, und sie
+    ist präziser als Art. 14 KI-VO, weil sie die Kontrolle zeitlich verortet. Für die Arbeit an Nutzungsrichtlinien
+    in deutschen Gerichten und Anwaltskanzleien direkt als Vorlage verwendbar. Einschränkung: Es ist eine
+    Handreichung, keine Untersuchung — Begründungen stehen nicht darin, und die datenschutzrechtliche
+    Analyse fehlt ganz.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-begazo-caceres-razon-practica
+  typ: aufsatz
+  autoren:
+  - Begazo Cáceres, Alonso Ramiro
+  titel: 'IA generativa, razón práctica y Derecho: ¿Pueden los modelos generativos de lenguaje realizar
+    verdaderos razonamientos prácticos?'
+  titel_deutsch: 'Generative KI, praktische Vernunft und Recht: Können generative Sprachmodelle echte
+    praktische Schlüsse ziehen?'
+  fundstelle: IUS ET VERITAS 71 (2025), 177–200
+  jahr: 2025
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/iusetveritas/article/view/33510
+  doi: 10.18800/iusetveritas.202502.011
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  themenachsen:
+  - berufsrecht
+  - grundrechte
+  kernthese: 'Generative Sprachmodelle können aus aristotelischer Sicht keine praktischen Schlüsse ziehen,
+    weil ihnen die rationalen Eigenschaften fehlen, die das Recht als handlungsleitende Ordnung voraussetzt.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Rechtsphilosophie aus Arequipa, aristotelisch-thomistisch grundiert und deshalb für
+    einen deutschen Leser mit Rechtspositivismus im Rücken zunächst befremdlich. Ich nehme den Aufsatz
+    trotzdem auf, weil er die Frage präzise stellt, die in der deutschen Debatte um KI-gestützte Rechtsanwendung
+    meist umgangen wird: nicht ob das Modell die richtige Antwort produziert, sondern ob es überhaupt
+    in dem Sinne schliesst, in dem juristisches Schliessen normative Geltung beansprucht. Die Antwort
+    (nein, mangels praktischer Vernunft) ist voraussehbar, die Begründung sorgfältiger als bei den vielen
+    Aufsätzen, die dasselbe mit Verweis auf "das Menschliche" behaupten. Wer die Argumentationslinie kennt
+    (Finnis, MacIntyre), kann den Text in einer Stunde lesen; wer sie nicht kennt, sollte ihn überspringen,
+    weil der praktische Ertrag gering ist.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-hemrajani-chatgpt-law-school
+  typ: aufsatz
+  autoren:
+  - Hemrajani, Rahul
+  - Gupta, Vedant
+  - Srivatsan, R.
+  - Singhal, Radhika
+  titel: ChatGPT Goes to (National) Law School
+  fundstelle: Indian Journal of Law and Technology 20 (2024), Heft 2, Beitrag 3
+  jahr: 2024
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol20/iss2/3
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - berufsrecht
+  kernthese: Eine empirische Untersuchung an der National Law School of India University misst die Leistung
+    von ChatGPT in juristischen Pruefungen und ordnet sie im Verhaeltnis zu Studierendenleistungen ein.
+  eigene_bewertung: Empirisch, nicht dogmatisch - und in dieser Gattung der einzige indische Beitrag,
+    den ich gefunden habe. Der Wert liegt darin, dass die Erhebung an einer nicht-westlichen Rechtsfakultaet
+    und an indischem Pruefungsstoff durchgefuehrt wurde; die bekannten Studien (Katz u.a. zum US-Bar-Exam,
+    Choi zu Minnesota) sind sonst durchweg amerikanisch. Fuer die Frage nach dem Einsatz generativer Systeme
+    in Ausbildung und Anwaltschaft brauchbar, fuer die Regulierungsfragen nicht. Autorenliste sehr lang
+    (ueber 20 Personen), ich fuehre die zuerst genannten.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-qiu-ki-in-der-rechtsprechung
+  typ: aufsatz
+  autoren:
+  - 邱琇涵 (Qiu Xiuhan)
+  titel: 司法審判運用人工智慧之展望
+  titel_deutsch: Perspektiven des Einsatzes kuenstlicher Intelligenz in der Rechtsprechung
+  fundstelle: 月旦律評 (Yuedan Lueping, Anwaltsrundschau) 27 (Juni 2024), 110-120
+  jahr: 2024
+  sprache: zh
+  doi: 10.53106/279069732709
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  kernthese: Der Einsatz von KI in der taiwanischen Justiz ist praktisch bereits begonnen; noetig seien
+    Leitplanken fuer Strafzumessungsempfehlungen und Entscheidungsentwuerfe, nicht ein Verbot.
+  eigene_bewertung: Taiwan hat die richterliche Nutzung generativer Systeme frueher und offener diskutiert
+    als die meisten europaeischen Rechtsordnungen - der Justizausschuss des Judicial Yuan hat dazu ab
+    2023 Leitlinien erarbeitet, und es gab den vielbeachteten Fall eines Urteils mit KI-erzeugten Passagen.
+    Der Beitrag ist kurz und praxisnah, dokumentiert aber diese Entwicklung. Fuer den Streitstand zur
+    KI im Spruchkoerper eine aussereuropaeische Vergleichsstelle, die man sonst schwer findet. Kein dogmatischer
+    Ertrag.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2023-chesterman-roboterrichter
+  typ: aufsatz
+  autoren:
+  - Chesterman, Simon
+  - Bennett Moses, Lyria
+  - Pagallo, Ugo
+  titel: All Rise for the Honourable Robot Judge? Using Artificial Intelligence to Regulate AI
+  fundstelle: Technology and Regulation 2023, 45-57
+  jahr: 2023
+  sprache: en
+  doi: 10.71265/0p137y60
+  zugang: open-access
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - governance
+  kernthese: KI kann als Regulierungswerkzeug fuer KI dienen, aber nicht als Entscheidungstraeger im Gericht;
+    die Autoren trennen die Aufgaben, bei denen maschinelle Unterstuetzung die Rechtspflege verbessert,
+    von denen, bei denen sie ihre Legitimation zerstoert.
+  eigene_bewertung: 'Frei verfuegbar und fuer den Streitstand zum KI-Einsatz im Spruchkoerper direkt einschlaegig.
+    Die Dreierbesetzung - Singapur, Australien, Italien - macht den Text rechtsvergleichend breiter als
+    uebliche Beitraege. Der brauchbarste Teil ist die Unterscheidung zwischen Aufgaben mit und ohne Wertungsspielraum:
+    Terminverwaltung, Aktenerschliessung und Entscheidungsrecherche einerseits, Beweiswuerdigung und Strafzumessung
+    andererseits. Das ist genau die Grenzziehung, die Art. 6 i.V.m. Anhang III Nr. 8 lit. a KI-VO mit
+    dem Begriff der Unterstuetzung bei der Auslegung und Anwendung des Rechts vornimmt, ohne sie zu praezisieren.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

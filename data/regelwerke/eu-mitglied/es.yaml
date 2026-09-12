@@ -1,0 +1,1893 @@
+regelwerke:
+- id: es-lo-gobernanza-ia
+  jurisdiktion: es
+  kurztitel: Ley Orgánica IA (Proyecto) — buen uso y gobernanza de la IA
+  offizieller_titel: Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial
+  fundstelle: Boletín Oficial de las Cortes Generales, Congreso de los Diputados, XV Legislatura, Serie
+    A (Proyectos de Ley), núm. 97-1, de 12 de junio de 2026
+  verfahrensnummer: 121/000096 (Congreso de los Diputados, XV Legislatura)
+  status: verfahren
+  status_detail: 'Nicht verabschiedet. Vom Ministerrat am 26.05.2026 beschlossen, dem Congreso am 28.05.2026
+    zugeleitet, von der Mesa am 08.06.2026 qualifiziert und am 12.06.2026 im BOCG Serie A núm. 97-1 veröffentlicht.
+    Zuständig ist die Comisión de Economía, Comercio y Transformación Digital; die Frist für Änderungsanträge
+    lief am 30.06.2026 ab. Bis zum Rechercheschluss ist kein weiteres BOCG-Teildokument erschienen (97-2
+    und 97-3 antworten mit HTTP 404), also weder ein Änderungsantragsband noch ein Ponencia-Bericht, ein
+    Ausschussdictamen oder ein an den Senado übermittelter Text. Es gibt folglich auch keine BOE-Fundstelle
+    und keine ELI-Adresse.
+
+    '
+  kurzbeschreibung: 'Nationales Durchführungsgesetz zur KI-Verordnung (EU) 2024/1689 mit 41 Artikeln in
+    fünf Kapiteln. Es benennt die Dirección General de Inteligencia Artificial als notifizierende Behörde
+    und acht staatliche Marktüberwachungsbehörden, macht die AESIA zur zentralen Anlaufstelle, regelt
+    die Governance der Reallabore, verpflichtet den staatlichen öffentlichen Sektor zu einem Inventar
+    der eingesetzten KI-Systeme und zur Benennung eines "delegado de inteligencia artificial" und schafft
+    ein eigenständiges nationales Sanktionsregime. Adressaten sind Anbieter, Betreiber, Einführer, Händler,
+    Bevollmächtigte und notifizierte Stellen sowie die staatliche Verwaltung. Die Geldbußen reichen bis
+    35 Mio. Euro bzw. 7 % des weltweiten Jahresumsatzes; Bagatellverstöße beginnen bei 6.000 Euro (anteproyecto)
+    bzw. werden bis 500.000 Euro bzw. 0,5 % geahndet.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF
+  anwendungsdaten:
+  - datum: 2025-03-11
+    was_gilt: Ministerrat billigt den anteproyecto und gibt ihn in die audiencia e información pública.
+    verifiziert: true
+    quelle: https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2025/03/2025-03-11
+  - datum: 2026-05-26
+    was_gilt: Ministerrat beschließt den proyecto de ley orgánica und seine Zuleitung an den Congreso.
+    verifiziert: true
+    quelle: https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2026/260526-rueda-prensa-ministros.aspx
+  - datum: 2026-06-12
+    was_gilt: Veröffentlichung im BOCG Serie A núm. 97-1; Beginn des parlamentarischen Verfahrens.
+    verifiziert: true
+    quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF
+  - datum: 2026-06-30
+    was_gilt: Ablauf der Frist für Änderungsanträge (15 Arbeitstage ab Veröffentlichung).
+    verifiziert: true
+    quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  - sektor-finanz
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Aufbau: Capítulo I Disposiciones generales (Art. 1-3), Capítulo II Gobernanza y supervisión del mercado
+    (Art. 4-10), Capítulo III Espacios controlados de pruebas para la IA (Art. 11), Capítulo IV Buen uso
+    de la IA en el sector público estatal (Art. 12), Capítulo V Régimen sancionador (ab Art. 13). Insgesamt
+    41 Artikel.'
+  - Art. 1 Objeto, Art. 2 Definiciones, Art. 3 Ámbito de aplicación.
+  - 'Art. 4 Autoridad notificante: die Dirección General de Inteligencia Artificial der Secretaría de
+    Estado de Digitalización e Inteligencia Artificial, nicht die AESIA. Damit sind notifizierende Stelle
+    und Marktüberwachung institutionell getrennt (Art. 28 KI-VO).'
+  - 'Art. 5 Autoridades de vigilancia del mercado: dezentrales Modell mit acht staatlichen Behörden. AESIA
+    ist Auffangzuständigkeit und zuständig für verbotene Praktiken, Biometrie außerhalb Migration und
+    Justiz, kritische Infrastrukturen, Bildung, Beschäftigung, wesentliche Dienste, Transparenzpflichten
+    und demokratische Prozesse. AEPD: verbotene Praktiken mit Datenschutzbezug, Biometrie außerhalb der
+    Justiz, Migration, Asyl und Grenzkontrolle. CGPJ: KI in der Justizverwaltung und Biometrie im Justizkontext.
+    Banco de España: Bonitäts- und Solvenzbewertung bei beaufsichtigten Kreditinstituten. CNMV: Bonitäts-
+    und Solvenzbewertung bei beaufsichtigten Wertpapierdienstleistern. Dirección General de Seguros y
+    Fondos de Pensiones: Risikobewertung und Preisbildung in der Lebens- und Krankenversicherung.'
+  - 'Art. 6 Punto de contacto único (Art. 70 Abs. 2 KI-VO): AESIA.'
+  - Art. 7 Actuaciones de las autoridades de vigilancia de mercado; Art. 8 Coordinación (Koordinierungspflicht
+    zwischen den acht Behörden); Art. 9 Reclamaciones ante una autoridad de vigilancia del mercado (Beschwerderecht
+    nach Art. 85 KI-VO); Art. 10 Protección del informante (Whistleblowing, Art. 87 KI-VO).
+  - 'Art. 11 Gobernanza de los espacios controlados de pruebas: die AESIA MUSS ein Reallabor einrichten
+    (Pflicht nach Art. 57 Abs. 1 KI-VO); die übrigen zuständigen Behörden KÖNNEN in ihrem Zuständigkeitsbereich
+    weitere einrichten.'
+  - 'Art. 12 Actuaciones para el buen uso de la IA en el sector público estatal: (a) Pflicht zu aktueller,
+    einschlägiger Information über den Einsatz von KI-Systemen, (b) verpflichtendes Inventar/Register
+    der in Verwaltungsverfahren eingesetzten KI-Systeme, (c) Benennung eines ''delegado de inteligencia
+    artificial'' je Einrichtung zur Koordination von Rechtsanwendung und gutem Technikgebrauch, (d) Schulungspflichten.
+    Das geht über die KI-VO hinaus: Art. 49 Abs. 3 KI-VO kennt nur die Registrierung von Hochrisikosystemen,
+    das Inventar erfasst sämtliche KI-Systeme.'
+  - 'Capítulo V Régimen sancionador (Art. 13 ff., Wortlaut nicht lesbar): dreistufige Ordnung muy graves
+    / graves / leves. Verjährung ein Jahr (leves), drei Jahre (graves), fünf Jahre (muy graves). Zusätzlich
+    multas coercitivas (Zwangsgelder) und Nebenfolgen — Nutzungsverbot und Abschaltung (desconexión) von
+    Systemen; Kriterien der Bußgeldbemessung; Verfahren nach Ley 39/2015; Veröffentlichung von Sanktionen
+    koordiniert über die AESIA.'
+  - 'Bußgeldstaffel nach dem anteproyecto (Art. 13 Abs. 1 des anteproyecto, im proyecto der Höhe nach
+    unverändert): (a) sehr schwere Verstöße durch verbotene Praktiken 7.500.001 bis 35.000.000 Euro oder,
+    bei Gesellschaften und Konzernen, 2 % bis 7 % des weltweiten Jahresumsatzes; (b) sonstige sehr schwere
+    Verstöße (Hochrisiko) 7.500.001 bis 15.000.000 Euro oder 2 % bis 3 %; (c) schwere Verstöße 500.001
+    bis 7.500.000 Euro oder 1 % bis 2 %; (d) leichte Verstöße 6.000 bis 500.000 Euro oder 0,5 % bis 1
+    %. Bei KMU gilt jeweils der niedrigere von Betrag und Prozentsatz — das ist die Umkehrung von Art.
+    99 Abs. 6 KI-VO, der für KMU ebenfalls den niedrigeren Wert vorsieht, hier also gleichlaufend.'
+  - 'WIDERSPRUCH IN DEN QUELLEN zur Kategorie ''graves'': die Zusammenfassung von finreg360 zum proyecto
+    nennt 7,5 Mio. Euro oder 1 % als Obergrenze, der anteproyecto-Volltext 7.500.000 Euro oder 1 % bis
+    2 %. Nicht aufgelöst, weil Kapitel V des proyecto nicht im Wortlaut zugänglich war.'
+  - 'Tatbestände sehr schwerer Verstöße (anteproyecto Art. 14): Inverkehrbringen oder Inbetriebnahme verbotener
+    Systeme nach Art. 5 Abs. 1 lit. a) bis g) KI-VO; Einsatz biometrischer Echtzeit-Fernidentifizierung
+    ohne zulässigen Zweck oder ohne vorherige Genehmigung; Nichtmeldung schwerwiegender Vorfälle an die
+    Marktüberwachungsbehörde; Nichtbefolgung angeordneter Abhilfemaßnahmen; Wiederholung eines schweren
+    Verstoßes binnen zwei Jahren.'
+  - 'Tatbestände schwerer Verstöße (anteproyecto Art. 15-21), gestaffelt nach Akteursrolle: für alle Akteure
+    Widerstand oder Behinderung von Inspektionen, Missachtung vorläufiger Maßnahmen, Nichtvorlage angeforderter
+    Informationen (Art. 15); für Anbieter Verletzung von Dokumentations- und Registrierungspflichten,
+    unterlassene Information über die Interaktion mit einem KI-System und Verletzung der Hochrisikoanforderungen
+    (Art. 16); für Bevollmächtigte fehlende Registrierung in der nationalen Datenbank (Art. 17); für Einführer
+    fehlende Konformitätsprüfung und fehlende Kontaktangaben (Art. 18); für Händler fehlende Prüfung der
+    Kennzeichnung und unsachgemäße Lagerung (Art. 19); für Betreiber unterlassene Information über Emotionserkennungssysteme,
+    Verletzung technischer Aufsichtsmaßnahmen und der Beobachtung nach Inverkehrbringen (Art. 20); für
+    notifizierte Stellen Interessenkonflikte, fehlende Unabhängigkeit und Verletzung der Vertraulichkeit
+    (Art. 21).'
+  - 'Tatbestände leichter Verstöße (anteproyecto Art. 22-26): unvollständige, unrichtige oder irreführende
+    Auskunft (Art. 22); fehlende Handelsangaben auf der Verpackung, Nichtbehebung formaler Mängel, fehlende
+    CE-Kennzeichnung (Art. 23); Aufbewahrungspflichtverletzung durch Einführer (Art. 24); fehlende Registrierung
+    durch öffentliche Stellen als Betreiber (Art. 25); organisatorische Mängel und unzureichendes Personal
+    notifizierter Stellen (Art. 26).'
+  - 'KENNZEICHNUNG KI-ERZEUGTER INHALTE: der anteproyecto verankert sie zweifach. Art. 16 Abs. 1 lit.
+    c) verpflichtet den Anbieter, die Ausgaben von Systemen, die synthetische Audio-, Bild-, Video- oder
+    Textinhalte erzeugen, so zu kennzeichnen, dass ihre künstliche Natur erkennbar ist (''marcar los resultados
+    de salida de tal modo que pueda detectarse su naturaleza artificial''). Art. 20 Abs. 1 lit. b) verpflichtet
+    den Betreiber, die künstliche Natur der Ausgaben offenzulegen (''hacer pública la naturaleza artificial
+    de los resultados de salida'') bei Systemen, die Bilder oder Audio-/Videomaterial erzeugen oder manipulieren,
+    das eine ultrasuplantación (Deepfake) darstellt, oder Text zu Angelegenheiten von öffentlichem Interesse.'
+  - 'Juristischer Kernpunkt: die Verletzung der Kennzeichnungspflicht ist ein SCHWERER Verstoß (Anbieter-
+    bzw. Betreiberpflicht), die bloß fehlerhafte oder unvollständige Kennzeichnung ein LEICHTER. Das nationale
+    Gesetz füllt damit Art. 50 KI-VO aus, für den die KI-VO selbst in Art. 99 Abs. 4 lit. g) nur die Obergrenze
+    setzt und die Sanktionsfestlegung den Mitgliedstaaten überlässt.'
+  - 'Disposiciones finales: DF 1ª ändert die Ley General Tributaria (automatisierte Systeme und KI in
+    der Betrugsbekämpfung); DF 2ª ändert das Sozialversicherungsrecht (Zusammenarbeit der Verwaltungsträger);
+    DF 3ª fügt der Wahlgesetzgebung (LOREG) eine Bestimmung hinzu, mit der die AESIA den Schutz demokratischer
+    Prozesse überwacht; DF 4ª Kompetenztitel; DF 5ª Bestimmung der Vorschriften mit Rang eines organischen
+    Gesetzes; DF 6ª Verordnungsermächtigung; DF 7ª Errichtung einer nationalen Datenbank für KI-Systeme
+    in kritischen Infrastrukturen; DF 8ª Inkrafttreten.'
+  - 'Verfassungsrechtliche Streitfrage: die Literatur kritisiert, dass ein nationales Gesetz eine unmittelbar
+    geltende Verordnung materiell nachzeichnet (Wiederholungsverbot, EuGH-Rechtsprechung zu Art. 288 AEUV).
+    Der spanische Gesetzgeber begründet den Ley-Orgánica-Rang mit den Grundrechtsbezügen (Biometrie, Justiz,
+    Wahlrecht).'
+  dokumente:
+  - datum: 2026-06-12
+    typ: entwurf
+    titel: Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial (121/000096)
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF
+    sprache: es
+    urheber: Gobierno de España / Congreso de los Diputados, BOCG Serie A núm. 97-1
+    verifiziert: true
+    notiz: Amtlicher Volltext der Regierungsvorlage. Beim Abruf über den WebFetch-Kanal bricht die Textkonversion
+      in Artikel 12 ab; Exposición de motivos und Kapitel I bis IV sind lesbar, Kapitel V nicht.
+  - datum: 2025-03-11
+    typ: entwurf
+    titel: Anteproyecto de Ley para el buen uso y la gobernanza de la inteligencia artificial (Text der
+      audiencia pública)
+    url: https://avance.digital.gob.es/_layouts/15/HttpHandlerParticipacionPublicaAnexos.ashx?k=19128
+    sprache: es
+    urheber: Ministerio para la Transformación Digital y de la Función Pública
+    verifiziert: true
+    notiz: 'Einzige in dieser Sitzung zugängliche Quelle mit dem vollständigen Wortlaut des Sanktionsregimes
+      (Art. 13-27) und der Kennzeichnungspflichten (Art. 16.1.c, Art. 20.1.b). Achtung: Vorläuferfassung
+      mit vier Kapiteln und abweichender Artikelzählung.'
+  - datum: 2025-03-11
+    typ: folgenabschaetzung
+    titel: Memoria del análisis de impacto normativo del anteproyecto de ley para el buen uso y la gobernanza
+      de la inteligencia artificial
+    url: https://avance.digital.gob.es/_layouts/15/HttpHandlerParticipacionPublicaAnexos.ashx?k=19129
+    sprache: es
+    urheber: Ministerio para la Transformación Digital y de la Función Pública
+    verifiziert: false
+    notiz: Amtliche Folgenabschätzung zum anteproyecto. In dieser Sitzung nur über die Trefferliste nachgewiesen,
+      nicht selbst geöffnet.
+  - datum: 2026-05-26
+    typ: pressemitteilung
+    titel: Referencia del Consejo de Ministros — El Gobierno regula la inteligencia artificial para asegurar
+      un uso confiable, ético y garantista
+    url: https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2026/260526-rueda-prensa-ministros.aspx
+    sprache: es
+    urheber: Gobierno de España, La Moncloa
+    verifiziert: true
+    notiz: 'Amtlicher Beleg für das Datum des Ministerratsbeschlusses (26.05.2026) und für die politische
+      Kernaussage: verpflichtende menschliche Aufsicht, AESIA mit Sitz A Coruña als zentrales Organ, delegado
+      de IA im öffentlichen Sektor.'
+  - datum: 2026-05-26
+    typ: pressemitteilung
+    titel: El Gobierno aprueba el proyecto de ley que garantizará una supervisión humana y un uso confiable
+      de la IA
+    url: https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/05/el-gobierno-aprueba-el-proyecto-de-ley-que-garantizara-una-super
+    sprache: es
+    urheber: Ministerio para la Transformación Digital y de la Función Pública
+    verifiziert: false
+    notiz: Ressortmitteilung. Die Seite liefert beim Abruf nur das Navigationsgerüst; der Meldungstext
+      wird per JavaScript nachgeladen und war nicht lesbar.
+  sekundaerquelle_url:
+  - https://cms.law/es/esp/publication/claves-del-proyecto-de-ley-organica-de-inteligencia-artificial
+  - https://finreg360.com/alerta/el-congreso-inicia-el-tramite-del-proyecto-de-ley-organica-para-el-buen-uso-y-la-gobernanza-de-la-inteligencia-artificial/
+  - https://www.cuatrecasas.com/es/spain/propiedad-intelectual/art/proyecto-ley-organica-buen-uso-gobernanza-ia
+  offene_punkte:
+  - Artikelnummern und Wortlaut des Capítulo V (Régimen sancionador) der Fassung vom 12.06.2026 sind nicht
+    verifiziert; die Angaben stammen aus dem anteproyecto von 2025 und aus Kanzleianalysen.
+  - 'Ob die Frist für Änderungsanträge über den 30.06.2026 hinaus verlängert wurde, ist nicht feststellbar:
+    eine Fristverlängerung würde im BOCG Serie A als Teildokument 97-2 erscheinen, das nicht existiert.'
+  - Ob das Vorhaben die für ein organisches Gesetz nötige absolute Mehrheit findet, ist offen; dieselbe
+    Mehrheitsfrage hat das Minderjährigenschutzgesetz seit Dezember 2025 blockiert.
+  - Das Verhältnis der nationalen Bußgeldtatbestände zu den unmittelbar geltenden Bußgeldrahmen des Art.
+    99 KI-VO ist im Entwurf nicht ausdrücklich geregelt (Doppelsanktionierungsrisiko).
+  - Der Anwendungsbeginn (disposición final octava) ist nicht verifiziert; finreg360 gibt 'am Tag nach
+    der Verkündung' an.
+  monitoring_quellen:
+  - https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF
+  - https://www.congreso.es/es/proyectos-de-ley?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121%2F000096
+  - https://www.boe.es/diario_boe/
+  - https://aesia.digital.gob.es/
+  bezug_regelwerke:
+  - es-rd-729-2023
+  - es-rd-817-2023
+  - es-ley-15-2022
+  - es-ley-40-2015-automatizada
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: es-rd-729-2023
+  jurisdiktion: es
+  kurztitel: Real Decreto 729/2023 — Estatuto der AESIA
+  offizieller_titel: Real Decreto 729/2023, de 22 de agosto, por el que se aprueba el Estatuto de la Agencia
+    Española de Supervisión de Inteligencia Artificial
+  fundstelle: BOE núm. 210, de 2 de septiembre de 2023, págs. 122289-122316 (BOE-A-2023-18911)
+  verfahrensnummer: 'Real Decreto 729/2023; Rechtsgrundlage: disposición adicional nonagésima de la Ley
+    22/2021 de Presupuestos Generales del Estado para 2022'
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 03.09.2023 (Tag nach der Verkündung, disposición final tercera). Die
+    AESIA war damit über elf Monate vor Inkrafttreten der KI-Verordnung die erste eigenständige nationale
+    KI-Aufsichtsbehörde eines EU-Mitgliedstaats. ACHTUNG: Der Estatuto ist NICHT die Benennung als Marktüberwachungsbehörde
+    nach Art. 70 KI-VO. Eine solche förmliche Benennung ist bis zum Rechercheschluss nicht ergangen; sie
+    soll erst durch Art. 5 und 6 des Proyecto de Ley Orgánica (es-lo-gobernanza-ia) erfolgen. Spanien
+    hat die Benennungsfrist des Art. 70 Abs. 2 KI-VO (02.08.2025) damit verfehlt.
+
+    '
+  kurzbeschreibung: 'Errichtungsstatut der Agencia Española de Supervisión de Inteligencia Artificial.
+    Die AESIA ist eine entidad de derecho público mit eigener Rechtspersönlichkeit, eigenem Vermögen und
+    Verwaltungsautonomie, zugeordnet dem für Digitalisierung zuständigen Ministerium über die Secretaría
+    de Estado de Digitalización e Inteligencia Artificial (Art. 1). Sitz ist A Coruña, Gebäude "La Terraza"
+    (Art. 2). Ihre Aufgaben sind zum Zeitpunkt des Erlasses überwiegend fördernd und koordinierend — Reallabore,
+    Zertifizierungsrahmen, Aufklärung, Bias-Vermeidung —, mit einer Öffnungsklausel für Aufsicht und Sanktion
+    nach Maßgabe des europäischen Rechts (Art. 10 Abs. 1 lit. k). Eigene Bußgeldbefugnisse begründet der
+    Estatuto nicht.
+
+    '
+  inkrafttreten:
+    datum: 2023-09-03
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-18911
+  anwendungsdaten:
+  - datum: 2023-09-03
+    was_gilt: Errichtung der AESIA als eigenständige öffentliche Einrichtung; Sitz A Coruña.
+    verifiziert: true
+    quelle: https://www.boe.es/eli/es/rd/2023/08/22/729
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 1: Rechtsnatur — entidad de derecho público con personalidad jurídica propia, patrimonio propio
+    y autonomía de gestión; Anbindung an das Digitalisierungsministerium über die Secretaría de Estado
+    de Digitalización e Inteligencia Artificial.'
+  - 'Art. 2: Sitz A Coruña. Die Standortentscheidung erging 2022 im Wege eines Wettbewerbs zwischen spanischen
+    Städten und ist als Dezentralisierungsmaßnahme angelegt.'
+  - 'Art. 4 Abs. 1: negative Kompetenzabgrenzung. Die AESIA ist NICHT zuständig für Arzneimittel und Medizinprodukte
+    (Gesundheitsministerium und AEMPS) und nicht für arbeitsrechtliche Fragen (Arbeitsministerium und
+    Inspección de Trabajo y Seguridad Social).'
+  - 'Art. 5: Ermächtigung zum Abschluss von convenios mit anderen öffentlichen und privaten, inländischen
+    und ausländischen Stellen sowie internationalen Organisationen. AEPD, CNMC, Banco de España und CNMV
+    werden dort NICHT namentlich genannt; die sektoralen Zuständigkeiten dieser Behörden bleiben unberührt.'
+  - 'Art. 6: allgemeine Verwaltungsbefugnisse mit Ausnahme der Enteignungsbefugnis (potestad expropiatoria).'
+  - 'Art. 10 Abs. 1: Aufgabenkatalog — lit. a) Förderung von Reallaboren, lit. b) energieeffiziente und
+    nachhaltige KI, lit. c) Geschlechterperspektive und Vermeidung diskriminierender Verzerrungen, lit.
+    d) freiwilliger Zertifizierungsrahmen für verantwortungsvolle KI, lit. e) Beobachtung gesellschaftlicher
+    Auswirkungen, lit. g) Wissensaufbau, Schulung, Sensibilisierung, lit. k) Überwachung und gegebenenfalls
+    Sanktion ''de acuerdo con lo estipulado en la normativa europea''.'
+  - 'Art. 11-27: Organisationsverfassung — Presidencia (Art. 12-14, wahrgenommen vom Staatssekretär bzw.
+    der Staatssekretärin für Digitalisierung und KI), Consejo Rector (Art. 15-18, mit vier Vertretern
+    des Digitalisierungsressorts sowie Vertretern des Finanz- und des Industrieressorts und einer KI-Fachperson),
+    Comisión de Control (Art. 20-22), Dirección (Art. 23-24), Subdirección General de Informes e Infraestructuras
+    de Prueba (Art. 25), Subdirección General de Certificación y Coordinación (Art. 26), Secretaría General
+    (Art. 27).'
+  - 'Institutionelle Pointe: die Präsidentschaft liegt bei der politischen Leitung des Fachressorts. Für
+    eine Behörde, die nach Art. 70 Abs. 1 UAbs. 2 KI-VO ''objektiv und unparteiisch'' handeln und für
+    grundrechtssensible Hochrisikofelder nach Art. 74 Abs. 8 KI-VO unabhängig sein muss, ist das eine
+    offene Flanke — der Proyecto de Ley Orgánica löst sie über die Zuweisung von Justiz und Biometrie
+    an CGPJ und AEPD.'
+  - 'Verhältnis zur AEPD: kein Über-/Unterordnungsverhältnis. Die AEPD bleibt als unabhängige Datenschutzaufsicht
+    nach Art. 51 DSGVO und LO 3/2018 zuständig; nach Art. 74 Abs. 8 KI-VO ist sie zugleich naheliegende
+    Marktüberwachungsbehörde für biometrische Hochrisikosysteme. Der Proyecto de Ley Orgánica weist ihr
+    genau diese Felder plus Migration, Asyl und Grenzkontrolle zu.'
+  - 'Verhältnis zur CNMC: die CNMC ist als Wettbewerbs- und Regulierungsbehörde sowie als Koordinator
+    für den Digital Services Act zuständig und wird im Estatuto nicht erwähnt. Im Proyecto de Ley Orgánica
+    erscheint sie nach den ausgewerteten Zusammenfassungen NICHT unter den acht Marktüberwachungsbehörden
+    — die Zuständigkeit für Plattformen und Medien läuft über den DSA-Koordinator, nicht über die KI-VO.'
+  dokumente:
+  - datum: 2023-09-02
+    typ: endfassung
+    titel: Real Decreto 729/2023, de 22 de agosto, por el que se aprueba el Estatuto de la Agencia Española
+      de Supervisión de Inteligencia Artificial
+    url: https://www.boe.es/eli/es/rd/2023/08/22/729
+    sprache: es
+    urheber: Gobierno de España, Boletín Oficial del Estado
+    verifiziert: true
+    notiz: Amtliche ELI-Adresse; führt auf den konsolidierten Volltext.
+  - datum: 2023-09-02
+    typ: endfassung
+    titel: BOE-A-2023-18911 — Diario-Fassung mit Seitenangabe (BOE núm. 210, págs. 122289-122316)
+    url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-18911
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: true
+    notiz: 'Belegt die korrekte Fundstelle: BOE núm. 210 vom 02.09.2023, nicht núm. 200 vom 22.08.2023.'
+  - datum: 2025-05-27
+    typ: bericht
+    titel: Resolución de 27 de mayo de 2025, de la Presidencia de la AESIA, por la que se resuelve la
+      convocatoria de libre designación de la Dirección
+    url: https://aesia.digital.gob.es/storage/media/20250602-resolucion-ld2-2025.pdf
+    sprache: es
+    urheber: Agencia Española de Supervisión de la Inteligencia Artificial
+    verifiziert: true
+    notiz: Amtlicher Beleg für den Aufbau der Behördenspitze (BOE núm. 130 vom 30.05.2025, disposición
+      10695); unterzeichnet von María González Veracruz als Präsidentin des Consejo Rector.
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: Amtlicher Webauftritt der AESIA
+    url: https://aesia.digital.gob.es/
+    sprache: es
+    urheber: Agencia Española de Supervisión de la Inteligencia Artificial
+    verifiziert: true
+    notiz: 'Beim Abruf am 04.09.2026 findet sich KEIN Hinweis auf eine förmliche Benennung als Marktüberwachungsbehörde
+      nach Art. 70 KI-VO und kein entsprechender Rechtsakt. Unterseiten: /es/estructura-organizativa,
+      /es/guias, /es/divulgacion.'
+  offene_punkte:
+  - Eine förmliche Benennung der AESIA als Marktüberwachungsbehörde nach Art. 70 KI-VO ist nicht auffindbar
+    — weder als Real Decreto, Orden ministerial noch als Resolución. Sie ist im Proyecto de Ley Orgánica
+    (Art. 5) vorgesehen, das nicht verabschiedet ist.
+  - Ob Spanien der Kommission nach Art. 70 Abs. 2 KI-VO eine vorläufige Behörde und eine zentrale Anlaufstelle
+    gemeldet hat, ließ sich aus amtlichen spanischen Quellen nicht belegen.
+  - Die Sanktionsöffnungsklausel des Art. 10 Abs. 1 lit. k) des Estatuto trägt für sich genommen keine
+    Bußgeldbefugnis; ohne das organische Gesetz fehlt der nationale Sanktionstatbestand für Art. 99 KI-VO.
+  monitoring_quellen:
+  - https://aesia.digital.gob.es/
+  - https://aesia.digital.gob.es/es/guias
+  - https://www.boe.es/diario_boe/
+  bezug_regelwerke:
+  - es-lo-gobernanza-ia
+  - es-rd-817-2023
+  - es-estrategia-ia-2024
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: es-rd-817-2023
+  jurisdiktion: es
+  kurztitel: Real Decreto 817/2023 — KI-Reallabor (sandbox)
+  offizieller_titel: Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de
+    pruebas para el ensayo del cumplimiento de la propuesta de Reglamento del Parlamento Europeo y del
+    Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial
+  fundstelle: BOE núm. 268, de 9 de noviembre de 2023 (BOE-A-2023-22767)
+  verfahrensnummer: Real Decreto 817/2023
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 10.11.2023. Weltweit das erste Reallabor, das ausdrücklich für die
+    Erprobung der Anforderungen der damals noch nicht verabschiedeten KI-Verordnung geschaffen wurde.
+    Die disposición final segunda befristet die Geltung auf höchstens 36 Monate oder bis zur Anwendbarkeit
+    der KI-Verordnung in Spanien — die 36 Monate laufen am 09.11.2026 ab. Ob und wie das Reallabor danach
+    fortgeführt wird, soll Art. 11 des Proyecto de Ley Orgánica regeln, der die AESIA zur Einrichtung
+    eines Reallabors verpflichtet.
+
+    '
+  kurzbeschreibung: 'Verordnung über ein staatliches Reallabor, in dem Anbieter und Betreiber die Anforderungen
+    des künftigen europäischen KI-Rechts unter Aufsicht erproben. Teilnehmen können private Einrichtungen,
+    öffentliche Verwaltungen und Einrichtungen des öffentlichen Sektors mit Sitz oder fester Niederlassung
+    in Spanien. Erfasst sind Hochrisikosysteme, Systeme mit allgemeinem Verwendungszweck und Basismodelle.
+    Die Auswahl erfolgt über öffentliche Aufrufe; Auswahlkriterien sind unter anderem Innovationsgrad,
+    soziale Wirkung, Transparenz, Übereinstimmung mit der Carta de Derechos Digitales und Diversität der
+    beteiligten Unternehmen (Art. 8). Ergebnis sind technische Leitfäden und Praxisempfehlungen. Es gibt
+    kein Bußgeldregime; die Teilnahme ist freiwillig, Sanktion ist der Ausschluss.
+
+    '
+  inkrafttreten:
+    datum: 2023-11-10
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-22767
+  anwendungsdaten:
+  - datum: 2023-11-10
+    was_gilt: Einrichtung des entorno controlado de pruebas; Zuständigkeit der Secretaría de Estado de
+      Digitalización e Inteligencia Artificial.
+    verifiziert: true
+    quelle: https://www.boe.es/eli/es/rd/2023/11/08/817
+  - datum: 2026-11-10
+    was_gilt: Ende der Höchstgeltungsdauer von 36 Monaten ab Inkrafttreten nach der disposición final
+      segunda, sofern die Verordnung nicht vorher wegen Anwendbarkeit der KI-VO in Spanien außer Kraft
+      tritt.
+    verifiziert: true
+    quelle: https://www.boe.es/eli/es/rd/2023/11/08/817
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Zweck: Erprobung der Anforderungen des Verordnungsvorschlags KOM(2021) 206 vor dessen Verabschiedung
+    — der Rechtsakt nimmt ausdrücklich auf einen noch nicht geltenden Rechtsakt Bezug, was rechtstechnisch
+    ungewöhnlich ist und den Charakter als Experimentierrecht unterstreicht.'
+  - 'Teilnahmeberechtigt: private Einrichtungen, öffentliche Verwaltungen und Einrichtungen des öffentlichen
+    Sektors mit Sitz oder Betriebsstätte in Spanien.'
+  - 'Erfasste Systeme: Hochrisikosysteme, Systeme mit allgemeinem Verwendungszweck (propósito general)
+    und Basismodelle (modelos fundacionales).'
+  - 'Art. 8: Auswahlkriterien der öffentlichen Aufrufe — Innovation, soziale Wirkung, Transparenz, Übereinstimmung
+    mit der Carta de Derechos Digitales, Diversität der Teilnehmer.'
+  - 'Art. 11: Pflichten der Teilnehmer — Risikomanagementsystem, technische Dokumentation, Ermöglichung
+    menschlicher Aufsicht, Genauigkeit, Robustheit und Sicherheit. Das nimmt Art. 9 bis 15 KI-VO vorweg.'
+  - 'Ergebnis: technische Leitfäden (guías técnicas) und Empfehlungen guter Praxis, die dem europäischen
+    Normungsprozess zuarbeiten sollen.'
+  - 'Disposición final segunda, amtlicher Wortlaut: „Este real decreto tendrá una vigencia de máximo treinta
+    y seis meses desde su entrada en vigor o, en su caso, hasta que sea aplicable en el Reino de España
+    el Reglamento del Parlamento Europeo y del Consejo por el que se establecen normas armonizadas en
+    materia de inteligencia artificial.“ Automatischer Verfall (sunset clause) — in der spanischen Verordnungspraxis
+    selten. Die 36 Monate laufen ab Inkrafttreten (10.11.2023), also bis zum 10.11.2026.'
+  dokumente:
+  - datum: 2023-11-09
+    typ: endfassung
+    titel: Real Decreto 817/2023, de 8 de noviembre (entorno controlado de pruebas de IA)
+    url: https://www.boe.es/eli/es/rd/2023/11/08/817
+    sprache: es
+    urheber: Gobierno de España, Boletín Oficial del Estado
+    verifiziert: true
+    notiz: 'Amtliche ELI-Adresse; geöffnet. Wortlaut der disposición final segunda: „Este real decreto
+      tendrá una vigencia de máximo treinta y seis meses desde su entrada en vigor o, en su caso, hasta
+      que sea aplicable en el Reino de España el Reglamento del Parlamento Europeo y del Consejo por el
+      que se establecen normas armonizadas en materia de inteligencia artificial.“'
+  - datum: 2023-11-09
+    typ: endfassung
+    titel: BOE-A-2023-22767 — Diario-Fassung
+    url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-22767
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: true
+    notiz: 'Geöffnet und inhaltlich abgeglichen: Teilnehmerkreis, Systemkategorien, Art. 8 Auswahlkriterien,
+      Art. 11 Pflichten, Befristung.'
+  offene_punkte:
+  - Ob nach dem Auslaufen des Real Decreto 817/2023 eine Nachfolgeregelung ergangen ist, ließ sich nicht
+    feststellen; Art. 11 des nicht verabschiedeten Proyecto de Ley Orgánica ist die vorgesehene Grundlage.
+  - Die Ergebnisse der Reallaborzyklen (guías técnicas) waren über die amtlichen Seiten nicht auffindbar.
+  monitoring_quellen:
+  - https://aesia.digital.gob.es/
+  - https://digital.gob.es/
+  bezug_regelwerke:
+  - es-rd-729-2023
+  - es-lo-gobernanza-ia
+  - es-carta-derechos-digitales
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: es-ley-12-2021
+  jurisdiktion: es
+  kurztitel: Ley 12/2021 („Ley Rider“)
+  offizieller_titel: Ley 12/2021, de 28 de septiembre, por la que se modifica el texto refundido de la
+    Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre,
+    para garantizar los derechos laborales de las personas dedicadas al reparto en el ámbito de plataformas
+    digitales
+  fundstelle: BOE núm. 233, de 29 de septiembre de 2021, págs. 119341-119344 (BOE-A-2021-15767)
+  verfahrensnummer: Ley 12/2021; hervorgegangen aus dem Real Decreto-ley 9/2021, de 11 de mayo (BOE-A-2021-7840),
+    das nach Art. 86 Abs. 3 CE als proyecto de ley weiterbehandelt wurde
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 30.09.2021. Materiell galten die beiden eingefügten Vorschriften bereits
+    seit dem 12.08.2021 über das Real Decreto-ley 9/2021 (dreimonatige vacatio legis). Beide Vorschriften
+    sind ungeändert Bestandteil des konsolidierten Estatuto de los Trabajadores. Art. 64.4.d) ET ist das
+    erste algorithmenbezogene Auskunftsrecht der Arbeitnehmervertretung in Europa und Vorbild für Art.
+    9 der EU-Plattformarbeitsrichtlinie (EU) 2024/2831.
+
+    '
+  kurzbeschreibung: 'Das Gesetz ändert den Estatuto de los Trabajadores an zwei Stellen. Erstens erhält
+    der Betriebsrat (comité de empresa) mit dem neuen Art. 64 Abs. 4 lit. d) ET ein Recht darauf, über
+    die Parameter, Regeln und Anweisungen unterrichtet zu werden, auf denen Algorithmen oder KI-Systeme
+    beruhen, die Entscheidungen mit Auswirkungen auf Arbeitsbedingungen, Zugang zur Beschäftigung und
+    Erhalt des Arbeitsplatzes beeinflussen, einschließlich der Profilbildung. Zweitens begründet die neue
+    disposición adicional vigesimotercera ET eine widerlegliche Beschäftigungsvermutung für Personen,
+    die entgeltlich Waren ausliefern, wenn der Auftraggeber die Arbeitgeberbefugnisse unmittelbar, mittelbar
+    oder implizit durch algorithmische Steuerung des Dienstes oder der Arbeitsbedingungen über eine digitale
+    Plattform ausübt. Das Auskunftsrecht ist nicht auf Plattformen beschränkt, sondern gilt für alle Unternehmen
+    mit Arbeitnehmervertretung. Sanktioniert wird der Verstoß nicht durch ein eigenes Bußgeld, sondern
+    über das allgemeine Arbeitsordnungswidrigkeitenrecht (LISOS) und — wie die Rechtsprechung 2025 entschieden
+    hat — über den Schutz der Koalitionsfreiheit nach Art. 28 der Verfassung mit Schadensersatzfolge.
+
+    '
+  inkrafttreten:
+    datum: 2021-09-30
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15767
+  anwendungsdaten:
+  - datum: 2021-08-12
+    was_gilt: Materielles Wirksamwerden beider Vorschriften über das Real Decreto-ley 9/2021 (drei Monate
+      nach Verkündung am 12.05.2021).
+    verifiziert: true
+    quelle: https://www.boe.es/eli/es/rdl/2021/05/11/9
+  - datum: 2021-09-30
+    was_gilt: Inkrafttreten der Ley 12/2021 (Tag nach der Verkündung); Ablösung des Real Decreto-ley 9/2021.
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15767
+  themenachsen:
+  - arbeit
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'NORMTEXT Art. 64 Abs. 4 lit. d) ET, amtlicher Wortlaut: „Ser informado por la empresa de los parámetros,
+    reglas e instrucciones en los que se basan los algoritmos o sistemas de inteligencia artificial que
+    afectan a la toma de decisiones que pueden incidir en las condiciones de trabajo, el acceso y mantenimiento
+    del empleo, incluida la elaboración de perfiles.“'
+  - 'Systematische Einordnung: Art. 64 Abs. 4 ET zählt die Unterrichtungsrechte auf, die der Betriebsrat
+    mindestens einmal jährlich ausüben kann. lit. d) steht damit im Regime der derechos de información
+    y consulta, nicht im Zustimmungs- oder Mitbestimmungsregime — es besteht kein Vetorecht und kein Verhandlungsanspruch.'
+  - 'Reichweite: erfasst sind Algorithmen UND KI-Systeme; Auslöser ist die Beeinflussung von Entscheidungen
+    über Arbeitsbedingungen, Zugang zur Beschäftigung und Erhalt des Arbeitsplatzes; die Profilbildung
+    ist ausdrücklich einbezogen. Kein Plattformbezug — die Vorschrift gilt branchenübergreifend.'
+  - Gegenstand der Auskunft sind „parámetros, reglas e instrucciones“, nicht der Quellcode. Der Gesetzgeber
+    verlangt die Entscheidungslogik, nicht die technische Implementierung — eine Parallele zu Art. 15
+    Abs. 1 lit. h) DSGVO („lógica aplicada“) und zu Art. 22 Abs. 3 KI-VO.
+  - 'NORMTEXT disposición adicional vigesimotercera ET, amtlicher Wortlaut: „Por aplicación de lo establecido
+    en el artículo 8.1, se presume incluida en el ámbito de esta ley la actividad de las personas que
+    presten servicios retribuidos consistentes en el reparto o distribución de cualquier producto de consumo
+    o mercancía, por parte de empleadoras que ejercen las facultades empresariales de organización, dirección
+    y control de forma directa, indirecta o implícita, mediante la gestión algorítmica del servicio o
+    de las condiciones de trabajo, a través de una plataforma digital. Esta presunción no afecta a lo
+    previsto en el artículo 1.3 de la presente norma.“'
+  - 'Dogmatische Pointe der Vermutung: die algorithmische Steuerung (gestión algorítmica) wird selbst
+    zum Indiz der Weisungsgebundenheit erhoben. Die Vermutung ist widerleglich und knüpft an Art. 8 Abs.
+    1 ET (allgemeine Arbeitsverhältnisvermutung) an; Art. 1 Abs. 3 ET (ausgenommene Tätigkeiten) bleibt
+    unberührt.'
+  - 'Entstehungsgeschichte: Umsetzung des Dreiparteienabkommens vom 10.03.2021 zwischen Regierung, Gewerkschaften
+    (CCOO, UGT) und Arbeitgeberverbänden (CEOE, CEPYME) sowie Kodifikation der Rechtsprechung des Tribunal
+    Supremo, Sala de lo Social, im Pleno-Urteil 805/2020 vom 25.09.2020 (Glovo).'
+  - 'RECHTSPRECHUNG zu Art. 64.4.d) ET: Audiencia Nacional, Sala de lo Social, Sentencia 101/2025 vom
+    04.07.2025, Verfahren 182/2025 (CGT gegen Foundever Spain S.A.). Erste veröffentlichte Entscheidung
+    zum algorithmischen Auskunftsrecht. Die Weigerung, Auskunft über die Algorithmen zur Schicht- und
+    Pausenvergabe zu erteilen, verletzt nicht nur Art. 64.4.d) ET, sondern die Koalitionsfreiheit nach
+    Art. 28 der Verfassung in Verbindung mit Art. 10 Abs. 3 Nr. 1 LOLS; verurteilt wurde zu 6.250 Euro
+    Schadensersatz. Der Verstoß wird damit aus dem Ordnungswidrigkeitenrecht in das Grundrechtsverfahren
+    (tutela de derechos fundamentales) gehoben — mit umgekehrter Beweislast und Schadensersatzfolge.'
+  - 'RECHTSPRECHUNG zur disposición adicional vigesimotercera: Juzgado Central de lo Contencioso-administrativo
+    núm. 10, Sentencia 90/2024 vom 26.07.2024 (procedimiento ordinario 34/2023, ECLI ES:AN:2024:4355)
+    gab Glovo Recht und hob die Nachforderungs- und Sanktionsbescheide der Sozialversicherung auf — die
+    Vermutung sei durch den Nachweis tatsächlicher Selbständigkeit widerlegt. Die Audiencia Nacional (Sala
+    de lo Contencioso-administrativo) hat diese Entscheidung mit Urteil vom 16.07.2025 aufgehoben und
+    die Arbeitnehmereigenschaft bestätigt. Damit besteht ein Nebeneinander von sozialgerichtlicher (laboralidad
+    seit 2020) und verwaltungsgerichtlicher Linie.'
+  - 'Verhältnis zur EU: Art. 64.4.d) ET ist Vorlage für Art. 9 der Richtlinie (EU) 2024/2831 über die
+    Verbesserung der Arbeitsbedingungen in der Plattformarbeit (Unterrichtung über automatisierte Überwachungs-
+    und Entscheidungssysteme); die spanische Regelung geht weiter, weil sie nicht auf Plattformarbeit
+    beschränkt ist.'
+  dokumente:
+  - datum: 2021-09-29
+    typ: endfassung
+    titel: Ley 12/2021, de 28 de septiembre (Ley Rider)
+    url: https://www.boe.es/eli/es/l/2021/09/28/12
+    sprache: es
+    urheber: Cortes Generales / Boletín Oficial del Estado
+    verifiziert: true
+    notiz: Amtliche ELI-Adresse; geöffnet und abgeglichen.
+  - datum: 2021-09-29
+    typ: endfassung
+    titel: BOE-A-2021-15767 — Diario-Fassung mit Seitenangabe (BOE núm. 233, págs. 119341-119344)
+    url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15767
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: true
+    notiz: Quelle des wörtlich zitierten Normtextes von Art. 64.4.d) ET und der disposición adicional
+      vigesimotercera.
+  - datum: 2015-10-24
+    typ: konsolidiert
+    titel: Texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015),
+      konsolidierte Fassung, Art. 64
+    url: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430&tn=1#a64
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: false
+    notiz: Konsolidierter Volltext des ET. Der Abruf lieferte wegen der Länge des Dokuments nur die Artikel
+      bis Art. 26; Art. 64 wurde deshalb aus der Änderungsnorm (BOE-A-2021-15767) belegt.
+  - datum: 2025-09-30
+    typ: bericht
+    titel: Faustino Cavas Martínez, No informar a los representantes sindicales sobre los algoritmos utilizados
+      en la empresa para fijar determinadas condiciones de trabajo vulnera el derecho a la libertad sindical,
+      Revista de Jurisprudencia Laboral 8/2025, S. 1-8
+    url: https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2025-00000003064
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado (Revista de Jurisprudencia Laboral)
+    verifiziert: true
+    notiz: Amtliche Zeitschrift des BOE. Belegt Gericht, Datum, Aktenzeichen, Parteien und Tenor der SAN
+      101/2025 (Foundever).
+  - datum: 2024-09-30
+    typ: bericht
+    titel: María Emilia Casas Baamonde, Trabajo autónomo no ficticio en plataformas digitales de reparto.
+      Presunción legal de laboralidad… (caso GLOVO), Revista de Jurisprudencia Laboral 8/2024, S. 1-17
+    url: https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2024-00000002734
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado (Revista de Jurisprudencia Laboral)
+    verifiziert: true
+    notiz: Belegt die verwaltungsgerichtliche Gegenlinie zur Beschäftigungsvermutung (Sentencia 90/2024,
+      ECLI ES:AN:2024:4355).
+  offene_punkte:
+  - Der Volltext der SAN 101/2025 (Foundever) und des Urteils der Audiencia Nacional (Sala CA) vom 16.07.2025
+    war über CENDOJ nicht erreichbar; beide sind nur über die amtliche BOE-Zeitschrift bzw. über Fachbeiträge
+    belegt.
+  - Ob der Verstoß gegen Art. 64.4.d) ET zusätzlich als Ordnungswidrigkeit nach Art. 7 Nr. 7 LISOS geahndet
+    wird, ist nicht abschließend geklärt; die Praxis der Inspección de Trabajo dazu ist nicht dokumentiert.
+  - Die Anpassung des spanischen Rechts an die Plattformarbeitsrichtlinie (EU) 2024/2831 (Umsetzungsfrist
+    02.12.2026) war zum Rechercheschluss nicht als Gesetzentwurf auffindbar.
+  monitoring_quellen:
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
+  - https://www.poderjudicial.es/search/indexAN.jsp
+  - https://www.boe.es/biblioteca_juridica/index.php?tipo=RJL
+  bezug_regelwerke:
+  - es-rdl-9-2021
+  - es-ley-15-2022
+  - es-lo-gobernanza-ia
+  - dsgvo-schnittstelle
+  - plattformarbeit-rl
+  letzte_pruefung: 2026-09-04
+- id: es-rdl-9-2021
+  jurisdiktion: es
+  kurztitel: Real Decreto-ley 9/2021 (Vorläufer der Ley Rider)
+  offizieller_titel: Real Decreto-ley 9/2021, de 11 de mayo, por el que se modifica el texto refundido
+    de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23
+    de octubre, para garantizar los derechos laborales de las personas dedicadas al reparto en el ámbito
+    de plataformas digitales
+  fundstelle: BOE núm. 113, de 12 de mayo de 2021 (BOE-A-2021-7840)
+  verfahrensnummer: Real Decreto-ley 9/2021; konvalidiert durch den Congreso und als proyecto de ley weiterbehandelt
+    (Art. 86 Abs. 3 CE)
+  status: aufgehoben
+  status_detail: 'Durch die Ley 12/2021 abgelöst; die Gesetzesfassung übernahm den Wortlaut beider Vorschriften
+    unverändert. Der Rechtsakt bleibt erheblich, weil er den materiellen Anwendungsbeginn bestimmt: die
+    dreimonatige vacatio legis der disposición final segunda ließ das algorithmische Auskunftsrecht und
+    die Beschäftigungsvermutung bereits am 12.08.2021 wirksam werden, sechseinhalb Wochen vor Inkrafttreten
+    der Ley 12/2021.
+
+    '
+  kurzbeschreibung: 'Dringlichkeitsverordnung mit Gesetzeskraft, die den Estatuto de los Trabajadores
+    um Art. 64 Abs. 4 lit. d) (algorithmisches Auskunftsrecht der Arbeitnehmervertretung) und die disposición
+    adicional vigesimotercera (Beschäftigungsvermutung für Plattformzusteller) ergänzt hat. Der Wortlaut
+    ist mit dem der späteren Ley 12/2021 identisch. Erlassgrund war die Umsetzung des Dreiparteienabkommens
+    vom 10.03.2021 und der Rechtsprechung des Tribunal Supremo (STS 805/2020). Eigene Sanktionen enthält
+    der Rechtsakt nicht.
+
+    '
+  inkrafttreten:
+    datum: 2021-08-12
+    verifiziert: true
+    quelle: https://www.boe.es/eli/es/rdl/2021/05/11/9
+  anwendungsdaten:
+  - datum: 2021-05-12
+    was_gilt: Verkündung im BOE núm. 113; Beginn der dreimonatigen vacatio legis.
+    verifiziert: true
+    quelle: https://www.boe.es/eli/es/rdl/2021/05/11/9
+  - datum: 2021-08-12
+    was_gilt: Wirksamwerden von Art. 64.4.d) ET und der disposición adicional vigesimotercera ET.
+    verifiziert: true
+    quelle: https://www.boe.es/eli/es/rdl/2021/05/11/9
+  themenachsen:
+  - arbeit
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Wortlaut beider eingefügter Vorschriften identisch mit der späteren Ley 12/2021 — es gab im parlamentarischen
+    Verfahren keine materielle Änderung.
+  - 'Disposición final segunda: Inkrafttreten drei Monate nach Verkündung. Ungewöhnlich lange vacatio
+    für eine Dringlichkeitsverordnung; sie diente der Anpassungszeit für die Plattformen.'
+  - 'Rechtstechnisch bedeutsam für Altfälle: Sachverhalte zwischen dem 12.08.2021 und dem 30.09.2021 richten
+    sich nach dem RDL, nicht nach der Ley 12/2021.'
+  dokumente:
+  - datum: 2021-05-12
+    typ: endfassung
+    titel: Real Decreto-ley 9/2021, de 11 de mayo
+    url: https://www.boe.es/eli/es/rdl/2021/05/11/9
+    sprache: es
+    urheber: Gobierno de España / Boletín Oficial del Estado
+    verifiziert: true
+    notiz: Geöffnet; belegt BOE núm. 113, BOE-A-2021-7840, die dreimonatige vacatio legis und die Wortlautidentität
+      mit der Ley 12/2021.
+  offene_punkte:
+  - Das Konvalidierungsdatum im Congreso (Resolución del Congreso de los Diputados) wurde nicht gesondert
+    belegt.
+  monitoring_quellen:
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2021-7840
+  bezug_regelwerke:
+  - es-ley-12-2021
+  letzte_pruefung: 2026-09-04
+- id: es-lo-menores-digitales
+  jurisdiktion: es
+  kurztitel: Ley Orgánica Minderjährigenschutz in digitalen Umgebungen (Proyecto) — Deepfake-Straftatbestand
+  offizieller_titel: Proyecto de Ley Orgánica para la protección de las personas menores de edad en los
+    entornos digitales
+  fundstelle: Boletín Oficial de las Cortes Generales, Congreso de los Diputados, XV Legislatura, Serie
+    A (Proyectos de Ley), núm. 52-1, de 11 de abril de 2025
+  verfahrensnummer: 121/000052 (Congreso de los Diputados, XV Legislatura)
+  status: verfahren
+  status_detail: 'NICHT im BOE verkündet und nicht verabschiedet. Der in der Auftragsbeschreibung genannte
+    10.09.2025 ist nicht das Datum einer Verabschiedung, sondern der Ablehnung der enmienda a la totalidad
+    de devolución des Grupo Parlamentario VOX durch das Plenum — also der Freigabe zur Ausschussberatung.
+    Verfahrensgang: Veröffentlichung des Entwurfs am 11.04.2025 (BOCG-A-52-1), Beschluss über das Dringlichkeitsverfahren
+    nach Art. 93 Abs. 2 der Geschäftsordnung am 09.05.2025 (52-2), Rückgabeantrag von VOX am 24.06.2025
+    (52-3), Ablehnung im Plenum am 10.09.2025, Änderungsanträge zum Text am 12.12.2025 in der Comisión
+    de Justicia (52-4). Seither ist kein weiteres BOCG-Teildokument erschienen (52-5, 52-6 und 52-8 antworten
+    mit HTTP 404): kein Ponencia-Bericht, kein Ausschussdictamen, keine Schlussabstimmung, keine Senatsbefassung.
+    Das Vorhaben ruht seit rund neun Monaten — trotz Dringlichkeitsverfahren.
+
+    '
+  kurzbeschreibung: 'Querschnittsgesetz zum Schutz Minderjähriger in digitalen Umgebungen mit einem Vorspann-Titel
+    und fünf Titeln (Art. 1-15) sowie umfangreichen disposiciones finales, die den Código Penal und mehrere
+    Fachgesetze ändern. Für das KI-Recht zentral ist die disposición final tercera: sie führt mit einem
+    neuen Art. 173 bis Código Penal einen eigenständigen Straftatbestand für sexuelle Deepfakes (ultrafalsificaciones,
+    ultrasuplantaciones) ein, erweitert Art. 186 CP (Verbreitung pornografischen Materials an Minderjährige),
+    verschärft die Art. 181 bis 189 CP bei technischer Identitätsverschleierung und schafft mit Änderungen
+    der Art. 33, 39, 40, 45, 48, 56, 70, 83 und 96 Abs. 3 CP eine digitale Kontaktsperre — ein Verbot
+    des Zugangs zu sozialen Netzwerken und virtuellen Räumen als Straf- und Maßregelfolge. Daneben wird
+    das Einwilligungsalter für die Datenverarbeitung in der LO 3/2018 von 14 auf 16 Jahre angehoben.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-1.PDF
+  anwendungsdaten:
+  - datum: 2025-03-25
+    was_gilt: Ministerrat beschließt den proyecto de ley orgánica und seine Zuleitung an den Congreso.
+    verifiziert: false
+    quelle: https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2025/250325-rueda-de-prensa-ministros.aspx
+  - datum: 2025-04-11
+    was_gilt: Veröffentlichung im BOCG Serie A núm. 52-1; Beginn des parlamentarischen Verfahrens.
+    verifiziert: true
+    quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-1.PDF
+  - datum: 2025-05-09
+    was_gilt: Beschluss der Behandlung im Dringlichkeitsverfahren (Art. 93 Abs. 2 der Geschäftsordnung
+      des Congreso).
+    verifiziert: true
+    quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-2.PDF
+  - datum: 2025-09-10
+    was_gilt: Plenum lehnt die enmienda a la totalidad de devolución (VOX) ab; der Entwurf geht in die
+      Ausschussberatung.
+    verifiziert: false
+    quelle: https://www.mpr.gob.es/prencom/notas/paginas/2025/100925-tramitacion-lo-proteccion-menores-entornos.aspx
+  - datum: 2025-12-12
+    was_gilt: Veröffentlichung der Änderungsanträge zum Text (enmiendas al articulado) in der Comisión
+      de Justicia.
+    verifiziert: true
+    quelle: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-4.PDF
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  - haftung
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Aufbau: Título Preliminar Disposiciones generales (Art. 1-3), Título I Protección de consumidores
+    y usuarios (Art. 4-5), Título II Medidas educativas (Art. 6-7), Título III Protección de víctimas
+    de violencia de género y sexual (Art. 8-9), Título IV Medidas sanitarias (Art. 10-11), Título V Medidas
+    en el sector público (Art. 12-15), dazu disposiciones finales.'
+  - 'DISPOSICIÓN FINAL TERCERA — Änderung des Código Penal. Kernstück ist der neue Art. 173 bis CP: strafbar
+    macht sich, wer ohne Einwilligung Bild- oder Stimmaufnahmen einer Person verbreitet, ausstellt oder
+    überlässt, die mittels automatisierter Systeme erzeugt, verändert oder nachgebildet wurden, so dass
+    sie echt erscheinen, und dabei Situationen sexuellen Inhalts simulieren. Entwurfsformulierung: „difundan,
+    exhiban o cedan su imagen corporal o audio de voz generada, modificada o recreada mediante sistemas
+    automatizados… de modo que parezca real, simulando situaciones de contenido sexual.“'
+  - 'Systematische Verortung: Art. 173 bis CP steht im Titel über Straftaten gegen die moralische Unversehrtheit
+    (integridad moral), nicht bei den Sexualstraftaten und nicht bei den Delikten gegen die Privatsphäre
+    (Art. 197 CP). Das ist eine bewusste Entscheidung: geschütztes Rechtsgut ist die Würde und moralische
+    Integrität, nicht die sexuelle Selbstbestimmung — der Deepfake bildet ja keinen realen Vorgang ab.
+    Die Tathandlung ist die VERBREITUNG, nicht die Herstellung.'
+  - 'Änderung des Art. 186 CP: Ausweitung des Verbreitungstatbestands pornografischen Materials an Minderjährige;
+    die bisherige Beschränkung auf „medios directos“ entfällt, damit ungezielte Massenverbreitung erfasst
+    wird.'
+  - 'Verschärfung der Art. 181 bis 189 CP: qualifizierender Umstand, wenn der Täter bei Sexualstraftaten
+    gegen Minderjährige Technik zur Verschleierung der Identität einsetzt — das erfasst KI-gestützte Identitätsfälschung
+    im Grooming.'
+  - 'Digitale Kontaktsperre („alejamiento digital“): Änderung der Art. 33, 39, 40, 45, 48, 56, 70 und
+    96 Abs. 3 CP sowie Art. 83 CP, um das Verbot des Zugangs zu sozialen Netzwerken und virtuellen Räumen
+    als Nebenstrafe, Maßregel und Bewährungsauflage zu verankern. Das ist rechtsvergleichend bemerkenswert:
+    eine räumlich gedachte Schutzanordnung wird auf digitale Räume übertragen.'
+  - 'Änderung der LO 3/2018 (LOPDGDD): Anhebung des Einwilligungsalters für die Verarbeitung personenbezogener
+    Daten von 14 auf 16 Jahre — Ausübung der Öffnungsklausel des Art. 8 Abs. 1 DSGVO in die restriktive
+    Richtung.'
+  - 'Weitere Änderungen: Ley 13/2022 General de Comunicación Audiovisual (Altersverifikation, Kindersicherungen),
+    Ley 34/2002 LSSI (erweiterte Befugnisse zur Unterbrechung von Diensten zum Schutz Minderjähriger),
+    Prozessgesetze (Zuständigkeit für die richterliche Anordnung von Maßnahmen gegen Inhalte).'
+  - 'Politischer Zusammenhang: Spanien betreibt parallel auf EU-Ebene die Aufnahme sexueller Deepfakes
+    in den Verbotskatalog des Art. 5 KI-VO. Der nationale Straftatbestand ist die Absicherung für den
+    Fall, dass dieser Weg scheitert.'
+  dokumente:
+  - datum: 2025-04-11
+    typ: entwurf
+    titel: Proyecto de Ley Orgánica para la protección de las personas menores de edad en los entornos
+      digitales (121/000052)
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-1.PDF
+    sprache: es
+    urheber: Gobierno de España / Congreso de los Diputados, BOCG Serie A núm. 52-1
+    verifiziert: true
+    notiz: Amtlicher Volltext der Regierungsvorlage einschließlich der disposición final tercera mit dem
+      neuen Art. 173 bis CP.
+  - datum: 2025-05-09
+    typ: uebersicht
+    titel: Acuerdo de tramitación por el procedimiento de urgencia (BOCG-A-52-2)
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-2.PDF
+    sprache: es
+    urheber: Congreso de los Diputados
+    verifiziert: true
+    notiz: Belegt die Behandlung im Dringlichkeitsverfahren nach Art. 93 Abs. 2 der Geschäftsordnung.
+  - datum: 2025-06-24
+    typ: aenderungsantrag
+    titel: Enmienda a la totalidad de devolución del Grupo Parlamentario VOX (BOCG-A-52-3)
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-3.PDF
+    sprache: es
+    urheber: Congreso de los Diputados
+    verifiziert: true
+    notiz: Rückgabeantrag; am 10.09.2025 im Plenum abgelehnt.
+  - datum: 2025-12-12
+    typ: aenderungsantrag
+    titel: Enmiendas al articulado (BOCG-A-52-4) — Grupo Parlamentario Plurinacional SUMAR (31) und Grupo
+      Parlamentario Vasco EAJ-PNV (7)
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-4.PDF
+    sprache: es
+    urheber: Congreso de los Diputados, Comisión de Justicia
+    verifiziert: true
+    notiz: Letztes veröffentlichtes Verfahrensdokument. Bestätigt die Zuständigkeit der Comisión de Justicia.
+  - datum: 2025-09-10
+    typ: pressemitteilung
+    titel: El Congreso da luz verde a la tramitación de la ley orgánica para la protección de los menores
+      en entornos digitales
+    url: https://www.mpr.gob.es/prencom/notas/paginas/2025/100925-tramitacion-lo-proteccion-menores-entornos.aspx
+    sprache: es
+    urheber: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes
+    verifiziert: false
+    notiz: 'Amtliche Ressortmitteilung zum Plenartermin vom 10.09.2025. NICHT ABRUFBAR: mpr.gob.es sperrt
+      automatisierten Abruf (robots.txt, ConnectTimeout). Dass der 10.09.2025 kein Verabschiedungs-, sondern
+      ein Totalidad-Termin war, ist unabhängig davon durch die BOCG-Kette belegt: der Rückgabeantrag steht
+      in 52-3 (24.06.2025), die Änderungsanträge zum Text in 52-4 (12.12.2025) — die articulado-Phase
+      öffnet sich erst nach dem Totalidad-Debattentermin.'
+  - datum: 2025-03-25
+    typ: pressemitteilung
+    titel: El Gobierno aprueba tipificar como delito los deepfakes de contenido sexual y el grooming
+    url: https://www.mjusticia.gob.es/es/ElMinisterio/GabineteComunicacion/Paginas/Proteccion-menores-entorno-digital.aspx
+    sprache: es
+    urheber: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes
+    verifiziert: true
+    notiz: Geöffnet; bestätigt den Ministerratsbeschluss vom 25.03.2025, die Pönalisierung von „ultrafalsificaciones
+      usando el rostro o cuerpo de una persona sin su consentimiento“, die Grooming-Verschärfung bei Täuschung
+      über eine fingierte Identität und das „alejamiento digital“. Konkrete Artikelnummern des Código
+      Penal nennt die Mitteilung nicht.
+  offene_punkte:
+  - Kein Anwendungsbeginn feststellbar — das Gesetz existiert nicht. Die in Übersichten kursierende Angabe,
+    es sei am 10.09.2025 „angenommen“ worden, ist falsch.
+  - Der exakte Wortlaut des Art. 173 bis CP in der Fassung nach den Änderungsanträgen vom 12.12.2025 ist
+    nicht feststellbar; ein Ponencia-Bericht liegt nicht vor.
+  - Ob die politische Blockade (Mehrheitsfrage bei einem organischen Gesetz) noch überwunden wird, ist
+    offen; das Dringlichkeitsverfahren hat den Stillstand nicht verhindert.
+  - Die Nummerierung des neuen Straftatbestands (Art. 173 bis CP) kann sich im weiteren Verfahren ändern.
+  monitoring_quellen:
+  - https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-1.PDF
+  - https://www.congreso.es/es/proyectos-de-ley?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121%2F000052
+  - https://www.boe.es/diario_boe/
+  bezug_regelwerke:
+  - es-lo-gobernanza-ia
+  - es-aepd-orientaciones-ia
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  letzte_pruefung: 2026-09-04
+- id: es-ley-15-2022
+  jurisdiktion: es
+  kurztitel: Ley 15/2022 — Gleichbehandlungsgesetz, Art. 23 (Algorithmen)
+  offizieller_titel: Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación
+  fundstelle: BOE núm. 167, de 13 de julio de 2022 (BOE-A-2022-11589)
+  verfahrensnummer: Ley 15/2022
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 14.07.2022. Art. 23 ist die erste positive KI-Regelung des spanischen
+    Rechts überhaupt — sie ist knapp zwei Jahre älter als die KI-Verordnung. Der Tribunal Supremo hat
+    sie in der BOSCO-Entscheidung vom 11.09.2025 als Auslegungsmaßstab für den Zugang zum Quellcode verwaltungsbehördlicher
+    Entscheidungssysteme herangezogen.
+
+    '
+  kurzbeschreibung: 'Horizontales Antidiskriminierungsgesetz. Für das KI-Recht ist Art. 23 einschlägig:
+    er verpflichtet die öffentlichen Verwaltungen, Mechanismen zu fördern, damit die in ihren Entscheidungsprozessen
+    eingesetzten Algorithmen Kriterien der Bias-Minimierung, der Transparenz und der Rechenschaftspflicht
+    berücksichtigen, bezieht dabei Entwurf und Trainingsdaten ein und verlangt die Auseinandersetzung
+    mit möglichen diskriminierenden Wirkungen; dafür sollen Folgenabschätzungen zur Ermittlung diskriminierender
+    Verzerrungen durchgeführt werden. Ergänzend fordert Art. 23 Abs. 2 Vorrang für Transparenz und Interpretierbarkeit,
+    Art. 23 Abs. 3 die Förderung ethischer, vertrauenswürdiger und grundrechtskonformer KI bei Verwaltungen
+    und Unternehmen und Art. 23 Abs. 4 ein Gütesiegel für Algorithmen. Die Norm ist final formuliert („favorecerán“,
+    „promoverán“) und begründet keinen unmittelbaren Individualanspruch; das Gesetz enthält allerdings
+    in Título IV (Art. 46-52) ein eigenes Sanktionsregime für Diskriminierungsverstöße.
+
+    '
+  inkrafttreten:
+    datum: 2022-07-14
+    verifiziert: true
+    quelle: https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589
+  anwendungsdaten:
+  - datum: 2022-07-14
+    was_gilt: Geltung von Art. 23 (Inteligencia artificial y mecanismos de toma de decisión automatizados).
+    verifiziert: true
+    quelle: https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'NORMTEXT Art. 23 Abs. 1, amtlicher Wortlaut: „En el marco de la Estrategia Nacional de Inteligencia
+    Artificial, de la Carta de Derechos Digitales y de las iniciativas europeas en torno a la Inteligencia
+    Artificial, las administraciones públicas favorecerán la puesta en marcha de mecanismos para que los
+    algoritmos involucrados en la toma de decisiones que se utilicen en las administraciones públicas
+    tengan en cuenta criterios de minimización de sesgos, transparencia y rendición de cuentas, siempre
+    que sea factible técnicamente. En estos mecanismos se incluirán su diseño y datos de entrenamiento,
+    y abordarán su potencial impacto discriminatorio. Para lograr este fin, se promoverá la realización
+    de evaluaciones de impacto que determinen el posible sesgo discriminatorio.“'
+  - 'NORMTEXT Art. 23 Abs. 2: „Las administraciones públicas, en el marco de sus competencias en el ámbito
+    de los algoritmos involucrados en procesos de toma de decisiones, priorizarán la transparencia en
+    el diseño y la implementación y la capacidad de interpretación de las decisiones adoptadas por los
+    mismos.“'
+  - 'NORMTEXT Art. 23 Abs. 3: „Las administraciones públicas y las empresas promoverán el uso de una Inteligencia
+    Artificial ética, confiable y respetuosa con los derechos fundamentales, siguiendo especialmente las
+    recomendaciones de la Unión Europea en este sentido.“'
+  - 'NORMTEXT Art. 23 Abs. 4: „Se promoverá un sello de calidad de los algoritmos.“'
+  - 'Rechtsnatur: Programmsatz mit Bindungswirkung für die Verwaltung. Der Vorbehalt „siempre que sea
+    factible técnicamente“ in Abs. 1 schwächt die Verpflichtung erheblich und war Gegenstand der Kritik
+    in der Literatur.'
+  - 'Wirkung über den Wortlaut hinaus: der Tribunal Supremo hat Art. 23 Abs. 2 in der BOSCO-Entscheidung
+    (STS 1119/2025) als Argument dafür herangezogen, dass Transparenz und Interpretierbarkeit algorithmischer
+    Verwaltungsentscheidungen ein normativ verankertes Ziel sind — die Programmnorm wird damit auslegungsleitend
+    für das Transparenzgesetz.'
+  - 'Verhältnis zur KI-VO: Art. 23 überschneidet sich sachlich mit Art. 10 KI-VO (Daten-Governance, Bias)
+    und Art. 27 KI-VO (Grundrechte-Folgenabschätzung für öffentliche Stellen), ist aber weiter, weil er
+    nicht auf Hochrisikosysteme beschränkt ist, und schwächer, weil er nicht durchsetzbar ist.'
+  - Título IV (Art. 46-52) enthält ein Sanktionsregime für Diskriminierungsverstöße; ein spezifischer
+    Bußgeldtatbestand für Verstöße gegen Art. 23 ist darin nicht ausgewiesen.
+  dokumente:
+  - datum: 2022-07-13
+    typ: konsolidiert
+    titel: Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación (konsolidierte
+      Fassung)
+    url: https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: true
+    notiz: Geöffnet; Art. 23 im Wortlaut entnommen. Título IV (Infracciones y Sanciones, Art. 46-52) ist
+      im abgerufenen Ausschnitt nur überschriftlich erfasst.
+  - datum: 2022-07-13
+    typ: endfassung
+    titel: Ley 15/2022 — PDF der konsolidierten Fassung
+    url: https://www.boe.es/buscar/pdf/2022/BOE-A-2022-11589-consolidado.pdf
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: false
+    notiz: Amtliche PDF-Ausgabe; in dieser Sitzung nicht selbst geöffnet.
+  offene_punkte:
+  - Ob und wie das in Art. 23 Abs. 4 vorgesehene „sello de calidad de los algoritmos“ umgesetzt wurde,
+    ist nicht feststellbar; der freiwillige Zertifizierungsrahmen der AESIA (Art. 10 Abs. 1 lit. d RD
+    729/2023) ist der naheliegende Anknüpfungspunkt.
+  - Der Volltext des Título IV (Sanktionen) wurde nicht abgerufen.
+  monitoring_quellen:
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589
+  bezug_regelwerke:
+  - es-carta-derechos-digitales
+  - es-estrategia-ia-2024
+  - es-ley-40-2015-automatizada
+  - es-lo-gobernanza-ia
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: es-ley-40-2015-automatizada
+  jurisdiktion: es
+  kurztitel: Ley 40/2015 — automatisierte Verwaltungshandlung und Quellcodetransparenz (BOSCO)
+  offizieller_titel: Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público
+  fundstelle: BOE núm. 236, de 2 de octubre de 2015 (BOE-A-2015-10566)
+  verfahrensnummer: Ley 40/2015
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 02.10.2016. Art. 41 (actuación administrativa automatizada) ist die
+    allgemeine Rechtsgrundlage für vollständig automatisierte Verwaltungsentscheidungen in Spanien und
+    damit die Norm, an der sich der Einsatz von KI in Verwaltungsverfahren misst. Durch das Urteil des
+    Tribunal Supremo vom 11.09.2025 (Fall BOSCO) ist sie zusammen mit Art. 157 Abs. 2 desselben Gesetzes
+    und dem Transparenzgesetz Ley 19/2013 zur Grundlage eines Anspruchs auf Zugang zum Quellcode verwaltungsbehördlicher
+    Entscheidungsanwendungen geworden.
+
+    '
+  kurzbeschreibung: 'Allgemeines Verwaltungsorganisationsgesetz. Art. 41 definiert die automatisierte
+    Verwaltungshandlung als jeden vollständig elektronisch und ohne unmittelbare Mitwirkung eines Bediensteten
+    vorgenommenen Akt im Rahmen eines Verwaltungsverfahrens und verlangt, dass die Behörde vorab festlegt
+    und bekanntgibt, welches Organ für die Festlegung von Spezifikationen, Programmierung, Wartung, Überwachung
+    und Qualitätskontrolle zuständig ist und welches Organ für Rechtsbehelfe verantwortlich zeichnet.
+    Art. 157 Abs. 2 verpflichtet die Verwaltungen, ihre Anwendungen zur Weiterverwendung durch andere
+    Verwaltungen bereitzustellen — die Norm, aus der der Tribunal Supremo die Existenz eines dokumentierten,
+    herausgabefähigen Quellcodes ableitet. Sanktionen enthält das Gesetz nicht; die Durchsetzung erfolgt
+    über das Transparenz- und Verwaltungsprozessrecht.
+
+    '
+  inkrafttreten:
+    datum: 2016-10-02
+    verifiziert: true
+    quelle: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
+    fundstelle_norm: 'Disposición final decimoctava der Ley 40/2015 (Inkrafttreten ein Jahr nach der Veröffentlichung);
+      amtlicher Vermerk der konsolidierten BOE-Fassung: "Entrada en vigor: 02/10/2016". Veröffentlichung
+      im BOE núm. 236 vom 02.10.2015.'
+  anwendungsdaten:
+  - datum: 2016-10-02
+    was_gilt: Geltung von Art. 41 (actuación administrativa automatizada).
+    verifiziert: false
+    quelle: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
+  - datum: 2025-09-11
+    was_gilt: Tribunal Supremo erkennt den Anspruch auf Zugang zum Quellcode einer automatisierten Verwaltungsanwendung
+      an (BOSCO).
+    verifiziert: true
+    quelle: https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2025-00000003101
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 41 Ley 40/2015: Legaldefinition der actuación administrativa automatizada — jeder vollständig
+    über elektronische Mittel vorgenommene Akt einer öffentlichen Verwaltung im Rahmen eines Verwaltungsverfahrens
+    ohne unmittelbare Mitwirkung eines öffentlich Bediensteten. Abs. 2 verlangt die vorherige Festlegung
+    und Bekanntgabe des für Spezifikationen, Programmierung, Wartung, Überwachung und Qualitätskontrolle
+    zuständigen Organs sowie des für Rechtsbehelfe verantwortlichen Organs. ACHTUNG: Der Wortlaut konnte
+    nicht abgerufen werden (die konsolidierte BOE-Fassung bricht beim Abruf in Art. 18 ab); die Wiedergabe
+    ist inhaltlich, nicht wörtlich.'
+  - 'Art. 157 Abs. 2 Ley 40/2015: Pflicht der Verwaltungen, ihre Anwendungen anderen Verwaltungen zur
+    Weiterverwendung bereitzustellen. Der Tribunal Supremo nutzt diese Norm als Beleg dafür, dass der
+    Quellcode ein vorhandenes, dokumentiertes und übertragbares Verwaltungsdokument ist und damit dem
+    Informationszugang unterfällt.'
+  - 'LEITENTSCHEIDUNG BOSCO: Tribunal Supremo, Sala de lo Contencioso-Administrativo, Sección Tercera,
+    Sentencia 1119/2025 vom 11.09.2025, recurso de casación 7878/2024, ECLI ES:TS:2025:3826, Berichterstatter
+    Juan Pedro Quintana Carretero. Klägerin: Fundación Ciudadana Civio. Beklagte: Ministerium für den
+    ökologischen Wandel. Gegenstand: Zugang zum Programmcode der Anwendung BOSCO, die über die Berechtigung
+    zum bono social eléctrico (Sozialtarif Strom) entscheidet.'
+  - 'Tragende Erwägungen der BOSCO-Entscheidung: Der Zugang zum Quellcode digitaler Systeme, die automatisierte
+    Verwaltungsentscheidungen treffen, ist Teil des Rechts auf Informationszugang. Urheberrechtliche Einwände
+    können die Transparenzpflicht nicht ausschalten, soweit es um die Entscheidungslogik geht, die über
+    Rechte der Bürger befindet; der Einwand der öffentlichen Sicherheit greift nicht pauschal. Herangezogene
+    Normen: Ley 19/2013 de transparencia (Art. 14-16), Ley 40/2015 (Art. 157 Abs. 2), Ley 15/2022 (Art.
+    23 Abs. 2), DSGVO (Art. 13 Abs. 2 lit. f, Art. 14 Abs. 2 lit. g, Art. 15 Abs. 1 lit. h) und die Interoperabilitätsverordnung
+    (EU) 2024/903 (Art. 5).'
+  - 'Bedeutung: erste höchstrichterliche Anerkennung eines Quellcode-Zugangsanspruchs in der EU. Die Entscheidung
+    wirkt unmittelbar auf das Inventar der KI-Systeme, das Art. 12 des Proyecto de Ley Orgánica für die
+    staatliche Verwaltung vorschreibt — die Registrierungspflicht bekommt durch BOSCO ein durchsetzbares
+    Gegenstück.'
+  - 'Grenzen: BOSCO ist eine regelbasierte Anwendung, kein lernendes System. Ob der Anspruch auf Modellgewichte
+    und Trainingsdaten eines maschinell lernenden Systems durchschlägt, ist nicht entschieden.'
+  dokumente:
+  - datum: 2015-10-02
+    typ: konsolidiert
+    titel: Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (konsolidierte Fassung)
+    url: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: false
+    notiz: Abruf erfolgt, der Textkonverter bricht jedoch in Art. 18 ab; Art. 41 und Art. 157 konnten
+      nicht im Wortlaut gelesen werden.
+  - datum: 2025-09-30
+    typ: bericht
+    titel: Pilar Rivas Vallejo, Inclusión del conocimiento del código fuente de sistemas digitales como
+      parte del derecho de acceso a la información en decisiones administrativas automatizadas, Revista
+      de Jurisprudencia Laboral 9/2025, S. 1-11
+    url: https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2025-00000003101
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado (Revista de Jurisprudencia Laboral)
+    verifiziert: true
+    notiz: Amtliche BOE-Zeitschrift; belegt Gericht, Sektion, Datum, Sentencia-Nummer 1119/2025, recurso
+      7878/2024, ECLI ES:TS:2025:3826, Berichterstatter und die herangezogenen Normen. DOI 10.55104/RJL_00684.
+  sekundaerquelle_url:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-la-Administracion-a-facilitar-a-una-Fundacion-Ciudadana-el-codigo-fuente-de-la-aplicacion-informatica-que-acredita-a-los-beneficiarios-del-bono-social-electrico
+  - https://civio.es/novedades/2025/09/17/civio-abre-camino-en-la-transparencia-algoritmica-el-supremo-condena-al-gobierno-a-entregar-el-codigo-fuente-de-bosco/
+  offene_punkte:
+  - 'Der Volltext der STS 1119/2025 war nicht abrufbar: poderjudicial.es (CENDOJ und Pressemitteilung)
+    wird vom Egress-Proxy mit HTTP 403 beantwortet.'
+  - Der Wortlaut von Art. 41 und Art. 157 Abs. 2 Ley 40/2015 konnte nicht am amtlichen Text verifiziert
+    werden.
+  - Ob das Ministerium den Quellcode tatsächlich herausgegeben hat und in welchem Umfang, ist nicht dokumentiert.
+  monitoring_quellen:
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
+  - https://www.poderjudicial.es/search/indexAN.jsp
+  bezug_regelwerke:
+  - es-ley-15-2022
+  - es-lo-gobernanza-ia
+  - es-carta-derechos-digitales
+  - dsgvo-schnittstelle
+  letzte_pruefung: 2026-09-05
+- id: es-cgpj-instruccion-2-2026
+  jurisdiktion: es
+  kurztitel: CGPJ Instrucción 2/2026 — KI in der Rechtsprechungstätigkeit
+  offizieller_titel: Acuerdo de 28 de enero de 2026, del Pleno del Consejo General del Poder Judicial,
+    por el que se aprueba la Instrucción 2/2026, sobre la utilización de sistemas de inteligencia artificial
+    en el ejercicio de la actividad jurisdiccional
+  fundstelle: BOE núm. 26, de 30 de enero de 2026 (BOE-A-2026-2205)
+  verfahrensnummer: Instrucción 2/2026 del Pleno del Consejo General del Poder Judicial
+  status: anwendbar
+  status_detail: 'In Kraft seit der Veröffentlichung am 30.01.2026. Bindend für die Richterschaft im Rahmen
+    der Aufsichtsbefugnisse des CGPJ, aber ohne Bußgeldregime; Verstöße werden über das richterliche Disziplinarrecht
+    und die Verantwortung für den eigenen Spruch aufgefangen. Die Instrucción ist die erste ausdrückliche
+    Regelung des KI-Einsatzes durch die Judikative in Spanien und trifft die Unterscheidung, die der Proyecto
+    de Ley Orgánica institutionell nachvollzieht, indem er dem CGPJ die Marktüberwachung für KI in der
+    Justiz zuweist.
+
+    '
+  kurzbeschreibung: 'Verwaltungsvorschrift des spanischen Richterrats über den Einsatz von KI-Systemen
+    einschließlich generativer Werkzeuge in der Rechtsprechungstätigkeit. Sie gilt für alle KI-Systeme,
+    die Richter bei ihrer Tätigkeit nutzen (Ordinal 2). Leitprinzipien sind wirksame menschliche Kontrolle,
+    Nichtersetzbarkeit des Richters, volle Verantwortung des Spruchkörpers, richterliche Unabhängigkeit,
+    Grundrechtsschutz, Datenschutz, Vermeidung algorithmischer Verzerrungen und Verhältnismäßigkeit des
+    Einsatzes (Ordinal 4). Zulässig sind Recherche und Auffinden juristischer Information, Dokumentenanalyse,
+    interne Arbeitsentwürfe und Verwaltungsaufgaben, jeweils nur als Hilfsmittel (Ordinal 6). Untersagt
+    sind automatisierte Entscheidungsfindung, die Ersetzung der Urteilsfindung, die unkritische Übernahme
+    KI-erzeugter Inhalte und die unzulässige Verarbeitung besonders geschützter Daten (Ordinal 8). Der
+    Richter muss jeden KI-gestützten Entwurf vollständig persönlich prüfen und kritisch validieren (Ordinal
+    7); dem CGPJ obliegen Qualitätskontrolle und Audit der bereitgestellten Systeme (Ordinal 12).
+
+    '
+  inkrafttreten:
+    datum: 2026-01-30
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2205
+  anwendungsdaten:
+  - datum: 2026-01-28
+    was_gilt: Beschluss des Pleno des CGPJ.
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2205
+  - datum: 2026-01-30
+    was_gilt: Veröffentlichung im BOE und Inkrafttreten.
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2205
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Ordinal 2 Anwendungsbereich: alle KI-Systeme, die Richterinnen und Richter in der Rechtsprechungstätigkeit
+    einsetzen, ausdrücklich einschließlich generativer Werkzeuge — auch solche, die nicht vom CGPJ bereitgestellt
+    werden.'
+  - 'Ordinal 4 Grundsätze: wirksame menschliche Kontrolle, Nichtersetzung des Richters, volle Verantwortung
+    des Spruchkörpers, richterliche Unabhängigkeit, Achtung der Grundrechte, Datenschutz, Vermeidung algorithmischer
+    Verzerrungen, Verhältnismäßigkeit.'
+  - 'Ordinal 6 zulässige Nutzungen: „búsqueda y localización de información jurídica“, Dokumentenanalyse,
+    interne Arbeitsentwürfe, Verwaltungsaufgaben — sämtlich nur als Unterstützungswerkzeug.'
+  - 'Ordinal 7 Pflicht des Richters: vollständige persönliche Durchsicht und kritische Validierung jedes
+    KI-gestützten Entwurfs vor Verwendung.'
+  - 'Ordinal 8 Verbote: automatisierte Entscheidungsfindung, Ersetzung der Urteilsfindung, unkritische
+    Übernahme KI-erzeugter Inhalte, unzulässige Verarbeitung besonders geschützter Daten.'
+  - 'Ordinal 12 Zuständigkeiten des CGPJ: Qualitätskontrolle und Audit sämtlicher bereitgestellter Systeme.'
+  - 'Verhältnis zur KI-VO: Anhang III Nr. 8 lit. a) KI-VO stuft KI-Systeme, die Justizbehörden bei der
+    Rechtsfindung unterstützen, als Hochrisikosysteme ein. Die Instrucción setzt die Anforderungen der
+    Art. 14 (menschliche Aufsicht) und Art. 26 (Betreiberpflichten) KI-VO für die Judikative vorab um,
+    ohne sich ausdrücklich darauf zu stützen.'
+  - 'Institutionelle Pointe: Spanien löst das Problem der Unabhängigkeit der Marktüberwachung im Justizbereich
+    (Art. 74 Abs. 8 KI-VO) dadurch, dass der Richterrat sich selbst beaufsichtigt — der Proyecto de Ley
+    Orgánica weist dem CGPJ die Marktüberwachung für KI in der Justizverwaltung förmlich zu.'
+  dokumente:
+  - datum: 2026-01-30
+    typ: leitlinie
+    titel: Instrucción 2/2026 del CGPJ sobre la utilización de sistemas de inteligencia artificial en
+      el ejercicio de la actividad jurisdiccional
+    url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2205
+    sprache: es
+    urheber: Consejo General del Poder Judicial
+    verifiziert: true
+    notiz: Amtlicher Volltext im BOE; geöffnet und inhaltlich abgeglichen.
+  offene_punkte:
+  - Ob es eine vorangehende Instrucción 1/2026 mit KI-Bezug gibt (Nummerierung), wurde nicht geprüft.
+  - Ob und welche KI-Werkzeuge der CGPJ den Gerichten tatsächlich bereitstellt, ist nicht dokumentiert.
+  monitoring_quellen:
+  - https://www.boe.es/diario_boe/
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Consejo-General-del-Poder-Judicial/
+  bezug_regelwerke:
+  - es-lo-gobernanza-ia
+  - es-cgae-circular-3-2026
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: es-cgae-circular-3-2026
+  jurisdiktion: es
+  kurztitel: CGAE Circular 3/2026 — generative KI in Anwaltsschriftsätzen
+  offizieller_titel: Circular Interpretativa del Código Deontológico de la Abogacía Española número 3/2026,
+    sobre la elaboración, firma y presentación de escritos generados con asistencia de inteligencia artificial
+    generativa
+  fundstelle: Circular Interpretativa 3/2026 del Pleno del Consejo General de la Abogacía Española
+  verfahrensnummer: Circular Interpretativa 3/2026
+  status: softlaw
+  status_detail: 'Vom Pleno des Consejo General de la Abogacía Española am 20.03.2026 beschlossen und
+    am 10.04.2026 bekanntgegeben. Formal eine Auslegung des Código Deontológico, nicht selbst Satzungsrecht
+    — die Bindungswirkung ergibt sich mittelbar über die ausgelegten Vorschriften und deren Disziplinartatbestände
+    im Estatuto General de la Abogacía Española. WIDERSPRÜCHLICHE DATIERUNG: das Dokument selbst trägt
+    den 20.03.2026, mehrere Fachbeiträge zitieren sie als „Circular 3/2026 de 10 de abril“ (Datum der
+    Veröffentlichung).
+
+    '
+  kurzbeschreibung: 'Berufsrechtliche Auslegungsrichtlinie zum Einsatz generativer KI bei der Erstellung,
+    Unterzeichnung und Einreichung anwaltlicher Schriftsätze. Ausgelegt werden Art. 4 Abs. 1 (Sorgfalt,
+    Vertrauen und Integrität), Art. 10 Abs. 2 lit. e (Verhältnis zu den Gerichten), Art. 12 Buchst. A
+    Nr. 8 (eifrige und gewissenhafte Verteidigung) und Art. 21 Abs. 2 (verantwortungsvoller Technikeinsatz)
+    des Código Deontológico. Kernaussage: der unterzeichnende Anwalt trägt die Verantwortung für den Inhalt
+    vollständig; KI-Fehler entschuldigen nicht, sondern belegen die Verletzung der Aufsichtspflicht. Der
+    Verstoß ist mit der Einreichung des Schriftsatzes vollendet; rechtzeitige Korrektur vor Einreichung
+    schließt ihn aus. Schwere Fälle erfüllen Art. 125 lit. u) EGAE (schwerer Verstoß), besonders gravierende
+    Art. 124 lit. g) EGAE (sehr schwerer Verstoß).
+
+    '
+  inkrafttreten:
+    datum: 2026-03-20
+    verifiziert: true
+    quelle: https://www.abogacia.es/wp-content/uploads/2026/04/CIRCULAR-INTERPRETATIVA-DEL-CODIGO-DEONTOLOGICO-3-2026.pdf
+  anwendungsdaten:
+  - datum: 2026-03-20
+    was_gilt: Beschluss des Pleno des Consejo General de la Abogacía Española.
+    verifiziert: true
+    quelle: https://www.abogacia.es/wp-content/uploads/2026/04/CIRCULAR-INTERPRETATIVA-DEL-CODIGO-DEONTOLOGICO-3-2026.pdf
+  - datum: 2026-04-10
+    was_gilt: Öffentliche Bekanntgabe durch die Abogacía Española.
+    verifiziert: true
+    quelle: https://www.abogacia.es/actualidad/noticias/la-abogacia-espanola-advierte-de-los-riesgos-de-usar-la-ia-generativa-en-textos-profesionales/
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - content
+  regelungsschwerpunkte:
+  - 'Ausgelegte Vorschriften des Código Deontológico de la Abogacía Española: Art. 4 Abs. 1 (diligencia,
+    confianza e integridad), Art. 10 Abs. 2 lit. e (relaciones con los tribunales), Art. 12 Buchst. A
+    Nr. 8 (defensa diligente), Art. 21 Abs. 2 (uso responsable de la tecnología).'
+  - 'Prüfungspflicht: KI-erzeugte Texte sind vollständig und kritisch zu lesen; Aussagen dürfen nicht
+    als zutreffend übernommen werden, nur weil sie plausibel wirken. Verifikation gegen externe, verlässliche
+    Rechtsquellen ist zwingend.'
+  - 'Verantwortung für Halluzinationen: der unterzeichnende Anwalt haftet vollständig für den Inhalt;
+    ein KI-Fehler ist keine Entschuldigung, sondern der Beleg der Aufsichtspflichtverletzung.'
+  - 'Vollendungszeitpunkt: der berufsrechtliche Verstoß ist mit der Einreichung des Schriftsatzes in der
+    Absicht, Rechtswirkungen auszulösen, „konsumiert“. Rechtzeitige Korrektur vor Einreichung verhindert
+    ihn — eine tätige-Reue-Konstruktion im Berufsrecht.'
+  - 'Disziplinarfolgen: schwerer Verstoß nach Art. 125 lit. u) des Estatuto General de la Abogacía Española;
+    besonders gravierende Fälle können Art. 124 lit. g) EGAE (sehr schwerer Verstoß) erfüllen.'
+  - 'Nicht Gegenstand dieser Circular sind Berufsgeheimnis und Datenschutz beim Einsatz generativer KI;
+    hierfür ist eine gesonderte Circular vorgesehen. Achtung: mehrere Fachbeiträge behandeln die Circular
+    3/2026 fälschlich als Datenschutz- und Verschwiegenheitsregelung.'
+  - 'Rechtsvergleichender Kontext: Spanien regelt damit als eines der ersten europäischen Länder die anwaltliche
+    Verantwortung für KI-Halluzinationen berufsrechtlich, nachdem Gerichte in mehreren Jurisdiktionen
+    Sanktionen wegen erfundener Fundstellen verhängt hatten.'
+  dokumente:
+  - datum: 2026-03-20
+    typ: leitlinie
+    titel: Circular Interpretativa del Código Deontológico de la Abogacía Española 3/2026
+    url: https://www.abogacia.es/wp-content/uploads/2026/04/CIRCULAR-INTERPRETATIVA-DEL-CODIGO-DEONTOLOGICO-3-2026.pdf
+    sprache: es
+    urheber: Pleno del Consejo General de la Abogacía Española
+    verifiziert: true
+    notiz: Amtlicher Volltext auf dem Portal des Berufsverbandes; geöffnet und inhaltlich abgeglichen.
+  - datum: 2026-04-10
+    typ: pressemitteilung
+    titel: La Abogacía Española advierte de los riesgos de usar la IA generativa en textos profesionales
+    url: https://www.abogacia.es/actualidad/noticias/la-abogacia-espanola-advierte-de-los-riesgos-de-usar-la-ia-generativa-en-textos-profesionales/
+    sprache: es
+    urheber: Consejo General de la Abogacía Española
+    verifiziert: true
+    notiz: Amtliche Bekanntgabe; belegt das Veröffentlichungsdatum 10.04.2026 und die Kernpflichten.
+  offene_punkte:
+  - Datierungswiderspruch 20.03.2026 (Dokument) gegen 10.04.2026 (Zitierweise in der Literatur) nicht
+    aufgelöst.
+  - Die angekündigte gesonderte Circular zu Berufsgeheimnis und Datenschutz bei generativer KI war zum
+    Rechercheschluss nicht auffindbar.
+  - Ob die Circular von den 83 Rechtsanwaltskammern einheitlich angewandt wird, ist nicht dokumentiert.
+  monitoring_quellen:
+  - https://www.abogacia.es/actualidad/noticias/
+  - https://www.abogacia.es/portal-de-transparencia/
+  bezug_regelwerke:
+  - es-cgpj-instruccion-2-2026
+  - es-lo-gobernanza-ia
+  letzte_pruefung: 2026-09-04
+- id: es-aepd-orientaciones-ia
+  jurisdiktion: es
+  kurztitel: AEPD — Leitlinien zu KI und Datenschutz
+  offizieller_titel: Leitlinienwerk der Agencia Española de Protección de Datos zu künstlicher Intelligenz
+    (u.a. „Inteligencia Artificial Agéntica desde la perspectiva de protección de datos“, V1.2, Februar
+    2026; „Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial“,
+    2021; „Guía de adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial“)
+  fundstelle: Veröffentlichungen der Agencia Española de Protección de Datos (aepd.es)
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Laufend fortgeschriebenes Leitlinienwerk ohne Bindungswirkung, das aber die Aufsichtspraxis
+    der AEPD abbildet und im Streitfall als Auslegungsmaßstab herangezogen wird. Die AEPD ist zugleich
+    die Behörde, der der Proyecto de Ley Orgánica die Marktüberwachung für biometrische Systeme, Migration,
+    Asyl und Grenzkontrolle zuweisen will; ihre Leitlinien sind damit ein Vorgriff auf diese Zuständigkeit.
+    Der jüngste Baustein sind die Orientierungen zu agentischer KI vom 18.02.2026 (76 Seiten, Version
+    1.2).
+
+    '
+  kurzbeschreibung: 'Die spanische Datenschutzaufsicht hat als eine der ersten Behörden in Europa systematische
+    Leitlinien zum Verhältnis von KI und Datenschutz veröffentlicht. Das Werk umfasst Anforderungen an
+    Audits von KI-gestützten Verarbeitungen (2021), einen Leitfaden zur DSGVO-Anpassung von Produkten
+    und Diensten mit KI, ein Dekalog mit Empfehlungen für Nutzer von KI-Werkzeugen, eine interne Richtlinie
+    der Behörde zum eigenen Einsatz generativer KI (nach Angaben der AEPD die erste ihrer Art im öffentlichen
+    Sektor) sowie die Orientierungen zu agentischer KI. Adressaten sind Verantwortliche, Auftragsverarbeiter,
+    Entwickler und Datenschutzbeauftragte. Sanktionen ergeben sich nicht aus den Leitlinien, sondern aus
+    Art. 83 DSGVO und der LO 3/2018.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.aepd.es/guias/orientaciones-ia-agentica.pdf
+  anwendungsdaten:
+  - datum: 2021-01-12
+    was_gilt: Veröffentlichung der Anforderungen an Audits von Verarbeitungen mit KI.
+    verifiziert: true
+    quelle: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-publica-guia-requisitos-auditorias-tratamiento-ia
+  - datum: 2026-02-18
+    was_gilt: Veröffentlichung der Orientierungen zu agentischer KI (V1.2, Februar 2026).
+    verifiziert: true
+    quelle: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-publica-unas-orientaciones-sobre-inteligencia
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  - gpai
+  regelungsschwerpunkte:
+  - 'Orientaciones sobre Inteligencia Artificial agéntica (V1.2, Februar 2026, 76 Seiten). Gliederung:
+    I. Introducción, II. Agentes de IA, III. Agentes de IA en los tratamientos, IV. Vulnerabilidades y
+    tratamientos de datos personales, V. Aspectos de cumplimiento de la normativa de protección de datos,
+    VI. Amenazas, VII. Medidas, VIII. Reflexiones finales, IX. Referencias.'
+  - 'Kernthese der Agenten-Leitlinie: Systeme, die nicht nur antworten, sondern autonom handeln („capaz
+    no solo de responder a preguntas, sino de interactuar de forma autónoma“), werfen eigenständige Datenschutzfragen
+    auf — Zweckbindung, Verantwortlichkeitszuordnung, Kontrolle über Weiterverarbeitung. Die AEPD empfiehlt
+    zugleich, agentische KI proaktiv für besseren Datenschutz durch Technikgestaltung zu nutzen.'
+  - 'Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial
+    (Januar 2021): objektive Kriterien für die Prüfung KI-gestützter Verarbeitungen aus Datenschutzsicht;
+    Adressaten sind Verantwortliche, Entwickler und Datenschutzbeauftragte.'
+  - 'Guía de adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial: Umsetzung der
+    Datenschutzgrundsätze bei KI-gestützten Verarbeitungen, Audit als Bewertungsinstrument.'
+  - 'Política general para el uso de IA generativa en la AEPD: nach Angaben der Behörde die erste interne
+    KI-Nutzungsrichtlinie einer öffentlichen Stelle in Spanien — praktisch der Prototyp dessen, was Art.
+    12 des Proyecto de Ley Orgánica für den gesamten staatlichen Sektor verlangt.'
+  - 'Schnittstelle zur KI-VO: die AEPD ist nach Art. 74 Abs. 8 KI-VO die naheliegende Marktüberwachungsbehörde
+    für biometrische Hochrisikosysteme; der Proyecto de Ley Orgánica weist ihr diese Rolle zu. Ihre Leitlinien
+    nehmen die Auslegung von Art. 5 und Anhang III KI-VO teilweise vorweg.'
+  dokumente:
+  - datum: 2026-02-18
+    typ: leitlinie
+    titel: Inteligencia Artificial Agéntica desde la perspectiva de protección de datos (V1.2, febrero
+      2026)
+    url: https://www.aepd.es/guias/orientaciones-ia-agentica.pdf
+    sprache: es
+    urheber: Agencia Española de Protección de Datos
+    verifiziert: true
+    notiz: Amtliches PDF; geöffnet, Gliederung und Version bestätigt (76 Seiten).
+  - datum: 2026-02-18
+    typ: pressemitteilung
+    titel: La Agencia publica unas orientaciones sobre Inteligencia Artificial agéntica desde la perspectiva
+      de protección de datos
+    url: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-publica-unas-orientaciones-sobre-inteligencia
+    sprache: es
+    urheber: Agencia Española de Protección de Datos
+    verifiziert: true
+    notiz: Amtliche Bekanntgabe mit Datum.
+  - datum: 2021-01-12
+    typ: leitlinie
+    titel: Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial
+    url: https://www.aepd.es/documento/requisitos-auditorias-tratamientos-incluyan-ia.pdf
+    sprache: es
+    urheber: Agencia Española de Protección de Datos
+    verifiziert: false
+    notiz: PDF-Adresse aus der amtlichen Pressemitteilung entnommen; nicht selbst geöffnet.
+  - datum: 2020-02-01
+    typ: leitlinie
+    titel: Guía de adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial
+    url: https://www.aepd.es/documento/adecuacion-rgpd-ia.pdf
+    sprache: es
+    urheber: Agencia Española de Protección de Datos
+    verifiziert: false
+    notiz: PDF-Adresse aus der amtlichen Pressemitteilung entnommen; Datum nicht verifiziert.
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: Guías y herramientas de la AEPD (Übersicht)
+    url: https://www.aepd.es/en/guides-and-tools/guides
+    sprache: es
+    urheber: Agencia Española de Protección de Datos
+    verifiziert: false
+    notiz: Laufend aktualisierte Übersichtsseite; Ausgangspunkt für die Beobachtung.
+  offene_punkte:
+  - Das Erscheinungsdatum der Guía de adecuación al RGPD ist nicht verifiziert.
+  - Ob die AEPD bereits Bußgeldbescheide mit ausdrücklichem KI-Bezug erlassen hat, wurde nicht geprüft.
+  monitoring_quellen:
+  - https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa
+  - https://www.aepd.es/en/guides-and-tools/guides
+  - https://www.aepd.es/en/areas/innovation-and-technology
+  bezug_regelwerke:
+  - es-lo-gobernanza-ia
+  - es-lo-menores-digitales
+  - es-ley-15-2022
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: es-carta-derechos-digitales
+  jurisdiktion: es
+  kurztitel: Carta de Derechos Digitales (2021)
+  offizieller_titel: Carta de Derechos Digitales
+  fundstelle: Vom Ministerrat zur Kenntnis genommen und am 14.07.2021 vorgestellt; herausgegeben von der
+    Secretaría de Estado de Digitalización e Inteligencia Artificial. Keine BOE-Veröffentlichung.
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Nicht bindend. Die Charta ist ausdrücklich als „hoja de ruta para la acción de los poderes
+    públicos“ konzipiert — ein Orientierungsrahmen ohne Rechtsanspruch, nicht im BOE verkündet und ohne
+    Gesetzesrang. Ihre Rechtswirkung ist mittelbar: Art. 23 Abs. 1 Ley 15/2022 und Art. 8 Real Decreto
+    817/2023 verweisen ausdrücklich auf sie, so dass sie als Auslegungs- und Auswahlmaßstab in geltendes
+    Recht hineinwirkt.
+
+    '
+  kurzbeschreibung: 'Erklärung digitaler Rechte in sechs Blöcken — Freiheitsrechte, Gleichheitsrechte,
+    Partizipationsrechte, Rechte im Arbeits- und Unternehmensumfeld, digitale Rechte in besonderen Umgebungen
+    sowie Garantien und Wirksamkeit. Für das KI-Recht einschlägig sind Abschnitt XXV („Derechos ante la
+    inteligencia artificial“) und Abschnitt XIX („Derechos en el ámbito laboral“). Adressat sind die öffentlichen
+    Gewalten; Sanktionen gibt es nicht.
+
+    '
+  inkrafttreten:
+    datum: 2021-07-14
+    verifiziert: true
+    quelle: https://www.lamoncloa.gob.es/presidente/actividades/Documents/2021/140721-Carta_Derechos_Digitales_RedEs.pdf
+  anwendungsdaten:
+  - datum: 2021-07-14
+    was_gilt: Vorstellung der Carta de Derechos Digitales durch die Regierung.
+    verifiziert: true
+    quelle: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/asuntos-economicos/Paginas/2021/140721-carta-derechos.aspx
+  themenachsen:
+  - grundrechte
+  - arbeit
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Abschnitt XXV „Derechos ante la inteligencia artificial“, Nr. 1: KI muss einen auf die Person und
+    ihre unveräußerliche Würde ausgerichteten Ansatz („un enfoque centrado en la persona y su inalienable
+    dignidad“) gewährleisten und dem Gemeinwohl dienen.'
+  - 'Abschnitt XXV Nr. 2: über den gesamten Entwicklungszyklus sind Diskriminierungsschutz sowie „transparencia,
+    auditabilidad, explicabilidad, trazabilidad, supervisión humana y gobernanza“ sowie Zugänglichkeit
+    und Zuverlässigkeit zu gewährleisten. Dieser Katalog nimmt die Anforderungen der Art. 9 bis 15 KI-VO
+    drei Jahre vorweg.'
+  - 'Abschnitt XXV Nr. 3: Recht auf menschliche Aufsicht und Anfechtbarkeit automatisierter Entscheidungen.'
+  - 'Abschnitt XIX „Derechos en el ámbito laboral“, Nr. 2 lit. d: Schutz vor dem Einsatz von Datenanalyseverfahren
+    und künstlicher Intelligenz durch den Arbeitgeber; Nr. 6: Datenschutz-Folgenabschätzung für Algorithmen
+    einschließlich ethischer Perspektive und Diskriminierungsvermeidung. Das ist die konzeptionelle Klammer
+    zu Art. 64.4.d) ET.'
+  - 'Rechtstechnisch bemerkenswert: eine unverbindliche Erklärung wird über Verweisungen in Ley 15/2022
+    und RD 817/2023 zum Tatbestandsmerkmal geltenden Rechts.'
+  dokumente:
+  - datum: 2021-07-14
+    typ: leitlinie
+    titel: Carta de Derechos Digitales (Volltext)
+    url: https://www.lamoncloa.gob.es/presidente/actividades/Documents/2021/140721-Carta_Derechos_Digitales_RedEs.pdf
+    sprache: es
+    urheber: Secretaría de Estado de Digitalización e Inteligencia Artificial
+    verifiziert: true
+    notiz: Amtlicher Volltext auf dem Regierungsportal; geöffnet, Abschnitte XIX und XXV im Wortlaut abgeglichen.
+  - datum: 2021-07-14
+    typ: pressemitteilung
+    titel: El Gobierno adopta la Carta de Derechos Digitales para articular un marco de referencia que
+      garantice los derechos de la ciudadanía en la nueva realidad digital
+    url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/asuntos-economicos/Paginas/2021/140721-carta-derechos.aspx
+    sprache: es
+    urheber: Gobierno de España, La Moncloa
+    verifiziert: false
+    notiz: Amtliche Bekanntgabe; nicht selbst geöffnet.
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: Carta de Derechos Digitales — Themenseite España Digital
+    url: https://espanadigital.gob.es/lineas-de-actuacion/carta-de-derechos-digitales
+    sprache: es
+    urheber: Gobierno de España
+    verifiziert: true
+    notiz: Amtliche Übersichtsseite; belegt Struktur und Rechtsnatur als Fahrplan ohne Bindungswirkung.
+  offene_punkte:
+  - Das Dokument selbst trägt kein Datum; die Datierung stützt sich auf die Vorstellung am 14.07.2021.
+  - Eine förmliche Annahme durch den Ministerrat im Sinne eines Acuerdo mit BOE-Veröffentlichung existiert
+    nicht.
+  monitoring_quellen:
+  - https://espanadigital.gob.es/lineas-de-actuacion/carta-de-derechos-digitales
+  bezug_regelwerke:
+  - es-ley-15-2022
+  - es-rd-817-2023
+  - es-ley-12-2021
+  - es-estrategia-ia-2024
+  letzte_pruefung: 2026-09-04
+- id: es-estrategia-ia-2024
+  jurisdiktion: es
+  kurztitel: Estrategia de Inteligencia Artificial 2024
+  offizieller_titel: Estrategia de Inteligencia Artificial 2024
+  fundstelle: Vom Ministerrat am 14.05.2024 gebilligt; herausgegeben vom Ministerio para la Transformación
+    Digital y de la Función Pública. Keine BOE-Veröffentlichung.
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Nicht bindend. Nachfolgerin der Estrategia Nacional de Inteligencia Artificial (ENIA)
+    von 2020. Umfang 67 Seiten. Sie ist der haushalts- und förderpolitische Rahmen, in dem die AESIA arbeitet,
+    und wird von Art. 23 Abs. 1 Ley 15/2022 („En el marco de la Estrategia Nacional de Inteligencia Artificial…“)
+    als Bezugsdokument in Bezug genommen.
+
+    '
+  kurzbeschreibung: 'Regierungsstrategie mit drei Achsen: Stärkung der Schlüsselhebel für die KI-Entwicklung,
+    Förderung der KI-Anwendung in öffentlichem und privatem Sektor sowie transparente, verantwortungsvolle
+    und humanistische KI. Sie bündelt acht Maßnahmenbereiche (palancas) — Supercomputing, Datenräume und
+    Speicher, spanische und kospanischsprachige Sprachmodelle (Projekt ALIA), Talentförderung, KI im öffentlichen
+    Sektor, KI in KMU, Cybersicherheit sowie die Aufgaben der AESIA. Volumen rund 600 Mio. Euro für Talent
+    und Infrastruktur, zusätzlich rund 300 Mio. Euro EFRE-Mittel. Die KI-Verordnung wird ausdrücklich
+    als Orientierungsrahmen benannt, die AESIA als tragender Anker für Modellvalidierung und Transparenz.
+
+    '
+  inkrafttreten:
+    datum: 2024-05-14
+    verifiziert: false
+    quelle: https://www.lamoncloa.gob.es/consejodeministros/resumenes/Documents/2024/140524-Estrategia%20de%20Inteligencia%20Artificial%202024-completa.pdf
+    fundstelle_norm: Billigung durch den Consejo de Ministros; kein Rechtsakt, keine Inkrafttretensvorschrift,
+      keine BOE-Veröffentlichung. Das Datum 14.05.2024 folgt aus der Ablage des amtlichen Dokuments unter
+      der Ministerratssitzung vom 14.05.2024 ("140524").
+  anwendungsdaten:
+  - datum: 2024-05-14
+    was_gilt: Billigung durch den Ministerrat.
+    verifiziert: false
+    quelle: https://www.lamoncloa.gob.es/consejodeministros/resumenes/Documents/2024/140524-Estrategia%20de%20Inteligencia%20Artificial%202024-completa.pdf
+  themenachsen:
+  - governance
+  - marktzugang
+  - gpai
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Eje 1: Stärkung der Schlüsselhebel (acht palancas) — Supercomputing, Datenspeicherung und Datenräume,
+    Sprachmodelle (ALIA), Talent, KI im öffentlichen Sektor, KI in KMU, Cybersicherheit, Funktionen der
+    AESIA.'
+  - 'Eje 2: Förderung der KI-Anwendung im öffentlichen und privaten Sektor.'
+  - 'Eje 3: transparente, verantwortungsvolle und humanistische KI — hier ist die AESIA als „ancla fundamental“
+    für Modellvalidierung und ethische Entwicklung verankert.'
+  - 'Mittelvolumen: rund 600 Mio. Euro für Talent- und Infrastrukturprojekte, dazu rund 300 Mio. Euro
+    aus dem EFRE.'
+  - ALIA ist das öffentliche spanischsprachige Sprachmodellprojekt; es ist der Hebel, mit dem Spanien
+    Souveränität bei Basismodellen anstrebt — regulatorisch relevant, weil ein staatlicher Anbieter zugleich
+    Adressat der GPAI-Pflichten der Art. 51 ff. KI-VO wäre.
+  - Der Text nennt die KI-Verordnung ausdrücklich als Orientierungsrahmen — die Strategie ist damit älter
+    als das nationale Durchführungsgesetz und überbrückt die Regelungslücke politisch.
+  dokumente:
+  - datum: 2024-05-14
+    typ: leitlinie
+    titel: Estrategia de Inteligencia Artificial 2024 (Volltext, 67 Seiten)
+    url: https://digital.gob.es/content/dam/portal-mtdfp/DigitalizacionIA/Estrategia_IA_2024.pdf
+    sprache: es
+    urheber: Ministerio para la Transformación Digital y de la Función Pública
+    verifiziert: true
+    notiz: Amtlicher Volltext auf dem Ministeriumsportal; geöffnet, Achsen, palancas und Mittelvolumen
+      abgeglichen. Vorwort von Minister José Luis Escrivá. Ein Datum der Ministerratsbilligung nennt das
+      Dokument selbst nicht.
+  - datum: 2024-05-14
+    typ: leitlinie
+    titel: Estrategia de Inteligencia Artificial 2024 (Fassung der Consejo-de-Ministros-Unterlagen)
+    url: https://www.lamoncloa.gob.es/consejodeministros/resumenes/Documents/2024/140524-Estrategia%20de%20Inteligencia%20Artificial%202024-completa.pdf
+    sprache: es
+    urheber: Gobierno de España, La Moncloa
+    verifiziert: true
+    notiz: Fassung aus den Ministerratsunterlagen; geöffnet. Das Dokument selbst nennt KEIN Billigungsdatum
+      — der 14.05.2024 folgt allein aus dem Dateipfad der amtlichen Unterlage. Die drei Achsen und das
+      Investitionsvolumen von 600 Mio. Euro (Stand April 2024) sind bestätigt.
+  - datum: 2024-06-05
+    typ: pressemitteilung
+    titel: 'IA: ¿qué es la Estrategia de Inteligencia Artificial 2024?'
+    url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transformacion-digital-y-funcion-publica/Paginas/2024/ia-inteligencia-artificial-estrategia-espana.aspx
+    sprache: es
+    urheber: Gobierno de España, La Moncloa
+    verifiziert: false
+    notiz: Amtliche Erläuterung; nicht selbst geöffnet.
+  offene_punkte:
+  - Das Datum der Ministerratsbilligung (14.05.2024) ist aus dem Dateinamen der amtlichen Unterlage erschlossen,
+    nicht aus dem Strategiedokument selbst.
+  - Ob eine Fortschreibung für 2026 vorliegt, wurde nicht geprüft.
+  - 'Widerspruch im amtlichen Material: Die Pressemitteilung von La Moncloa schreibt "El Consejo de Ministros
+    aprobó el 15 de mayo la Estrategia de Inteligencia Artificial 2024", während das Sitzungsdokument
+    unter dem Datum 14.05.2024 abgelegt ist. Zu klären an der Referencia del Consejo de Ministros vom
+    14.05.2024.'
+  monitoring_quellen:
+  - https://digital.gob.es/en/digitalizacion/areas-interes/inteligencia-artificial
+  - https://espanadigital.gob.es/
+  bezug_regelwerke:
+  - es-rd-729-2023
+  - es-ley-15-2022
+  - es-carta-derechos-digitales
+  - es-lo-gobernanza-ia
+  letzte_pruefung: 2026-09-05
+- id: es-estrategia-ia-sns
+  jurisdiktion: es
+  kurztitel: Estrategia de IA para el Sistema Nacional de Salud (eIASNS)
+  offizieller_titel: Estrategia de Inteligencia Artificial para el Sistema Nacional de Salud
+  fundstelle: Vom Pleno des Consejo Interterritorial del Sistema Nacional de Salud am 12.11.2025 gebilligt.
+    Keine BOE-Veröffentlichung.
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Nicht bindend. Vom Consejo Interterritorial del SNS — dem Gremium von Zentralstaat und
+    Autonomen Gemeinschaften — am 12.11.2025 angenommen. Sie ist der sektorale Governance-Rahmen für KI
+    im spanischen Gesundheitswesen und schließt die Lücke, die dadurch entsteht, dass der Estatuto der
+    AESIA die Zuständigkeit für Arzneimittel und Medizinprodukte ausdrücklich ausnimmt (Art. 4 Abs. 1
+    RD 729/2023).
+
+    '
+  kurzbeschreibung: 'Sektorstrategie für den Einsatz künstlicher Intelligenz im Nationalen Gesundheitssystem
+    mit fünf Zielen: eine gemeinsame Sicht auf die Rolle der KI im SNS, einheitliche Verfahren für Identifikation,
+    Klassifikation und Bewertung von KI-Lösungen, eigene Strukturen und Rollen für das KI-Management auf
+    autonomer und staatlicher Ebene, spezialisierte Aus- und Fortbildung sowie die koordinierte Umsetzung
+    besonders relevanter Anwendungsfälle. Handlungsfelder sind bildgestützte Diagnostik, virtuelle Assistenten,
+    Spracherkennung, Krankenhausverwaltung, personalisierte Medizin und robotergestützte Chirurgie. Adressat
+    sind die Gesundheitsverwaltungen von Zentralstaat und Autonomen Gemeinschaften; Sanktionen gibt es
+    nicht.
+
+    '
+  inkrafttreten:
+    datum: 2025-11-12
+    verifiziert: true
+    quelle: https://www.sanidad.gob.es/en/gabinete/notasPrensa.do?id=6788
+  anwendungsdaten:
+  - datum: 2025-11-12
+    was_gilt: Annahme durch das Pleno des Consejo Interterritorial del Sistema Nacional de Salud.
+    verifiziert: true
+    quelle: https://www.sanidad.gob.es/en/gabinete/notasPrensa.do?id=6788
+  themenachsen:
+  - sektor-medizin
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Fünf Ziele: gemeinsame Sicht auf die Rolle der KI im SNS; einheitliche Verfahren zur Identifikation,
+    Klassifikation und Bewertung von KI-Lösungen; eigene Strukturen und Rollen für das KI-Management auf
+    autonomer und staatlicher Ebene; spezialisierte Fortbildung; koordinierte Umsetzung hochrelevanter
+    Anwendungsfälle.'
+  - 'Handlungsfelder: bildgestützte Diagnostik, virtuelle Assistenten, Spracherkennung, Krankenhausverwaltung,
+    personalisierte Medizin, robotergestützte Chirurgie.'
+  - 'Kompetenzrechtlicher Hintergrund: das Gesundheitswesen ist in Spanien auf die Autonomen Gemeinschaften
+    übertragen. Der Consejo Interterritorial ist das einzige Koordinierungsgremium — eine bindende staatliche
+    KI-Regelung für Krankenhäuser gibt es nicht.'
+  - 'Schnittstelle zur KI-VO: KI-gestützte Medizinprodukte unterfallen als Sicherheitsbauteile Art. 6
+    Abs. 1 KI-VO in Verbindung mit den Verordnungen (EU) 2017/745 und 2017/746; Marktüberwachungsbehörde
+    ist insoweit die AEMPS, nicht die AESIA. Der Proyecto de Ley Orgánica führt die AEMPS nach den ausgewerteten
+    Zusammenfassungen NICHT unter den acht benannten Marktüberwachungsbehörden — eine mögliche Zuständigkeitslücke.'
+  dokumente:
+  - datum: 2025-11-12
+    typ: pressemitteilung
+    titel: El Consejo Interterritorial del SNS aprueba la Estrategia de Inteligencia Artificial
+    url: https://www.sanidad.gob.es/en/gabinete/notasPrensa.do?id=6788
+    sprache: es
+    urheber: Ministerio de Sanidad
+    verifiziert: true
+    notiz: Amtliche Bekanntgabe des Gesundheitsministeriums; geöffnet, Ziele und Handlungsfelder abgeglichen.
+      Ein Volltext-PDF ist nicht verlinkt.
+  - datum: 2025-11-12
+    typ: pressemitteilung
+    titel: El Consejo Interterritorial del Sistema Nacional de Salud aprueba la Estrategia de Inteligencia
+      Artificial
+    url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/paginas/2025/121125-consejo-interterritorial-estrategia-ia.aspx
+    sprache: es
+    urheber: Gobierno de España, La Moncloa
+    verifiziert: false
+    notiz: Parallele Regierungsmitteilung; nicht selbst geöffnet.
+  offene_punkte:
+  - Der Volltext der Strategie ist über die amtlichen Seiten nicht auffindbar; belegt ist bisher nur die
+    Bekanntgabe.
+  - Ob die AEMPS förmlich als Marktüberwachungsbehörde für KI-gestützte Medizinprodukte benannt wird,
+    ist offen.
+  monitoring_quellen:
+  - https://www.sanidad.gob.es/gabinete/notasPrensa.do
+  - https://www.aemps.gob.es/
+  bezug_regelwerke:
+  - es-rd-729-2023
+  - es-rd-415-2026
+  - es-lo-gobernanza-ia
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: es-rd-415-2026
+  jurisdiktion: es
+  kurztitel: Real Decreto 415/2026 — Bewertung von Gesundheitstechnologien
+  offizieller_titel: Real Decreto 415/2026, de 27 de mayo, por el que se regula la evaluación de tecnologías
+    sanitarias
+  fundstelle: BOE núm. 131, de 29 de mayo de 2026 (BOE-A-2026-11587)
+  verfahrensnummer: Real Decreto 415/2026
+  status: anwendbar
+  status_detail: 'Im BOE vom 29.05.2026 verkündet. Der KI-Bezug ist schmal, aber rechtlich konkret: Art.
+    6 Abs. 3 macht den Einsatz von KI, maschinellem Lernen oder gleichwertigen Algorithmen zu einem Priorisierungskriterium
+    für die Bewertung von Gesundheits- technologien, die keine Arzneimittel sind. Eine eigene Bewertungsmethodik
+    für KI-Systeme enthält der Rechtsakt nicht.
+
+    '
+  kurzbeschreibung: 'Verordnung über die Bewertung von Gesundheitstechnologien im Nationalen Gesundheitssystem
+    — Arzneimittel, Medizinprodukte, diagnostische Verfahren, digitale Therapien und klinische Prozeduren.
+    Für das KI-Recht einschlägig ist die Aufnahme KI-gestützter Informationssysteme in den Katalog der
+    Priorisierungskriterien: „la incorporación de sistemas de información que utilicen inteligencia artificial,
+    tecnologías de aprendizaje automático o algún algoritmo equivalente“ (Art. 6 Abs. 3). Damit rückt
+    der KI-Einsatz eine Technologie in der Bewertungsreihenfolge nach vorn. Sanktionen enthält der Rechtsakt
+    nicht.
+
+    '
+  inkrafttreten:
+    datum: 2026-06-18
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11587
+    fundstelle_norm: 'Disposición final cuarta des Real Decreto 415/2026, de 27 de mayo: "Este real decreto
+      entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado»." Veröffentlichung
+      im BOE núm. 131 vom 29.05.2026 — daher Inkrafttreten am 18.06.2026. Zuvor war kein Datum eingetragen,
+      obwohl der Status "anwendbar" lautete.'
+  anwendungsdaten:
+  - datum: 2026-05-29
+    was_gilt: Verkündung im BOE núm. 131.
+    verifiziert: true
+    quelle: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11587
+  themenachsen:
+  - sektor-medizin
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 6 Abs. 3: die Einbindung von Informationssystemen, die künstliche Intelligenz, maschinelles
+    Lernen oder einen gleichwertigen Algorithmus nutzen, ist eines der Kriterien für die Priorisierung
+    der Bewertung von Nicht-Arzneimittel-Technologien.'
+  - 'Regelungstechnisch bemerkenswert: der KI-Einsatz wird nicht als Risiko, sondern als Anlass beschleunigter
+    Bewertung behandelt — eine andere Logik als die risikobasierte Systematik der KI-VO.'
+  - 'Erfasste Technologien: Arzneimittel, Medizinprodukte, diagnostische Verfahren, digitale Therapien
+    (terapias digitales) und klinische Prozeduren.'
+  - Keine eigene Methodik für die Bewertung lernender Systeme; insbesondere fehlt eine Regelung zum Umgang
+    mit Modellaktualisierungen nach der Bewertung.
+  dokumente:
+  - datum: 2026-05-29
+    typ: endfassung
+    titel: Real Decreto 415/2026, de 27 de mayo, por el que se regula la evaluación de tecnologías sanitarias
+    url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11587
+    sprache: es
+    urheber: Ministerio de Sanidad / Boletín Oficial del Estado
+    verifiziert: true
+    notiz: Geöffnet; Art. 6 Abs. 3 im Wortlaut abgeglichen.
+  - datum: 2026-05-29
+    typ: endfassung
+    titel: Real Decreto 415/2026 — ELI-Adresse
+    url: https://www.boe.es/eli/es/rd/2026/05/27/415
+    sprache: es
+    urheber: Agencia Estatal Boletín Oficial del Estado
+    verifiziert: false
+    notiz: ELI-Adresse; in dieser Sitzung nicht selbst geöffnet.
+  offene_punkte:
+  - Das Datum des Inkrafttretens war im abgerufenen Text nicht erkennbar.
+  - Ob KI-gestützte Technologien über Art. 6 Abs. 3 hinaus einer besonderen Bewertungsmethodik unterliegen
+    sollen, ist offen.
+  monitoring_quellen:
+  - https://www.boe.es/diario_boe/
+  - https://www.sanidad.gob.es/
+  bezug_regelwerke:
+  - es-estrategia-ia-sns
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: es-dl-2-2023-extremadura
+  jurisdiktion: es
+  subjurisdiktion: es-ex
+  kurztitel: Decreto-ley 2/2023 Extremadura — KI-Förderung und KI in der Verwaltung
+  offizieller_titel: Decreto-ley 2/2023, de 8 de marzo, de medidas urgentes de impulso a la inteligencia
+    artificial en Extremadura
+  fundstelle: DOE núm. 48, de 10 de marzo de 2023; nachrichtlich BOE núm. 84, de 8 de abril de 2023, págs.
+    51175-51185 (BOE-A-2023-8795)
+  verfahrensnummer: Decreto-ley 2/2023 (Junta de Extremadura); Konvalidierung durch Resolución vom 23.03.2023
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 11.03.2023. Erster eigenständiger KI-Rechtsakt einer spanischen Autonomen
+    Gemeinschaft — mehr als fünf Monate vor dem Estatuto der AESIA und über ein Jahr vor der KI-Verordnung.
+    Vom Parlament am 23.03.2023 konvalidiert; eine Umwandlung in ein förmliches Gesetz ist nicht dokumentiert.
+
+    '
+  kurzbeschreibung: 'Dringlichkeitsverordnung mit Gesetzeskraft der Junta de Extremadura. Sie verpflichtet
+    die autonome Verwaltung, KI-Systeme einzusetzen, die die Effizienz öffentlicher Dienste verbessern,
+    den Beschäftigten zugutekommen und algorithmische Transparenz in der Entscheidungsfindung sichern;
+    sie fordert ethische, vertrauenswürdige und grundrechtskonforme KI nach europäischen Maßstäben mit
+    Qualitätsanspruch und Minimierung diskriminierender Verzerrungen. Instrumente sind digitale Alphabetisierung,
+    öffentlich-private Zusammenarbeit, ein Reallabor beim Rechenzentrum COMPUTAEX und die Einstufung unternehmerischer
+    KI-Investitionen als Vorhaben von autonomem Interesse. Eine Zusatzbestimmung gab der Regionalregierung
+    neun Monate Zeit für eine Estrategia Extremeña de Inteligencia Artificial. Sanktionen enthält der
+    Rechtsakt nicht.
+
+    '
+  inkrafttreten:
+    datum: 2023-03-11
+    verifiziert: true
+    quelle: https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8795
+  anwendungsdaten:
+  - datum: 2023-03-11
+    was_gilt: Inkrafttreten (Tag nach Veröffentlichung im DOE).
+    verifiziert: true
+    quelle: https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8795
+  - datum: 2023-03-23
+    was_gilt: Konvalidierung durch die Asamblea de Extremadura.
+    verifiziert: true
+    quelle: https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8795
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - marktzugang
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Capítulo I (Art. 1-4): Gegenstand, Anwendungsbereich, Begriffsbestimmungen, Grundsätze — ethische,
+    vertrauenswürdige und grundrechtskonforme KI nach europäischen Standards, Qualität und Minimierung
+    diskriminierender Verzerrungen.'
+  - 'Capítulo II (Art. 5-7): Aus- und Fortbildung, öffentlich-private Zusammenarbeit, entornos controlados
+    de pruebas beim Rechenzentrum COMPUTAEX. Das regionale Reallabor entstand acht Monate vor dem staatlichen
+    Reallabor des RD 817/2023.'
+  - 'Capítulo III (Art. 8-9): Einstufung von KI-Investitionsvorhaben als von allgemeinem und vorrangigem
+    autonomem Interesse — Beschleunigung von Genehmigungsverfahren als Standortinstrument.'
+  - 'Capítulo IV (Art. 10-12): Einsatz von KI in der Verwaltung, Ziele und Verfahrensgarantien einschließlich
+    algorithmischer Transparenz.'
+  - 'Disposición adicional: Auftrag zur Ausarbeitung einer Estrategia Extremeña de Inteligencia Artificial
+    binnen neun Monaten.'
+  - 'Kompetenzrechtlich bemerkenswert: eine Autonome Gemeinschaft regelt KI vor dem Zentralstaat. Der
+    Proyecto de Ley Orgánica beschränkt sich auf den „sector público estatal“ (Art. 12) und lässt den
+    autonomen Verwaltungen damit Raum — die Marktüberwachung nach der KI-VO bleibt aber staatlich.'
+  dokumente:
+  - datum: 2023-04-08
+    typ: endfassung
+    titel: Decreto-ley 2/2023, de 8 de marzo, de medidas urgentes de impulso a la inteligencia artificial
+      en Extremadura (BOE-Wiedergabe)
+    url: https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8795
+    sprache: es
+    urheber: Junta de Extremadura / Boletín Oficial del Estado
+    verifiziert: true
+    notiz: Geöffnet; Struktur, Fundstellen in DOE und BOE, Inkrafttreten und Konvalidierung abgeglichen.
+      Der BOE gibt autonomes Recht nachrichtlich wieder; amtlich ist das DOE.
+  offene_punkte:
+  - Die DOE-Adresse des Originaltextes wurde nicht abgerufen (doe.juntaex.es).
+  - Ob die Estrategia Extremeña de Inteligencia Artificial tatsächlich erlassen wurde, ist nicht belegt.
+  monitoring_quellen:
+  - https://doe.juntaex.es/
+  - https://www.boe.es/legislacion/legislacion_ca.php
+  bezug_regelwerke:
+  - es-rd-817-2023
+  - es-lo-gobernanza-ia
+  - es-catalunya-ia-2030
+  letzte_pruefung: 2026-09-04
+- id: es-catalunya-ia-2030
+  jurisdiktion: es
+  subjurisdiktion: es-ct
+  kurztitel: Estratègia Catalunya IA 2030
+  offizieller_titel: Acord GOV/262/2025, d'11 de novembre, pel qual s'aprova l'Estratègia Catalunya IA
+    2030
+  fundstelle: Acord GOV/262/2025, de 11 de noviembre, del Govern de la Generalitat de Catalunya; veröffentlicht
+    im Diari Oficial de la Generalitat de Catalunya (DOGC-Nummer nicht ermittelt)
+  verfahrensnummer: Acord GOV/262/2025
+  status: softlaw
+  status_detail: 'Regierungsbeschluss der Generalitat de Catalunya vom 11.11.2025 zur Billigung der katalanischen
+    KI-Strategie bis 2030. Nachfolgerin des Plans Catalonia.AI. Nicht bindend; sie ist ein Förder- und
+    Governance-Rahmen, kein Regelungsakt mit Pflichten für Private. ACHTUNG: Katalonien hat KEIN eigenes
+    KI-Gesetz — die vielfach behauptete katalanische KI-Regulierung besteht aus Strategie- und Verwaltungsinstrumenten.
+
+    '
+  kurzbeschreibung: 'Regionalstrategie für künstliche Intelligenz mit Zielhorizont 2030, vom Regierungsrat
+    der Generalitat am 11.11.2025 gebilligt. Sie bündelt Forschungs-, Infrastruktur-, Kompetenz- und Verwaltungsmaßnahmen
+    und knüpft an den früheren Plan Catalonia.AI an. Ergänzend hat die Generalitat im Mai 2026 Instrumente
+    zum verantwortungsvollen KI-Einsatz in der öffentlichen Verwaltung veröffentlicht. Adressat sind die
+    katalanische Verwaltung, Forschungseinrichtungen und Unternehmen; Sanktionen gibt es nicht.
+
+    '
+  inkrafttreten:
+    datum: 2025-11-11
+    verifiziert: false
+    quelle: https://portaljuridic.gencat.cat/ca/detalls/noticia/estrategia_catalunya_ia_2030_dogc
+    fundstelle_norm: Acord GOV/262/2025, de 11 de novembre, del Govern de la Generalitat de Catalunya;
+      Förderrahmen ohne Inkrafttretensvorschrift. Eingetragen ist das Datum des Regierungsbeschlusses.
+  anwendungsdaten:
+  - datum: 2025-11-11
+    was_gilt: Billigung der Estratègia Catalunya IA 2030 durch den Govern der Generalitat.
+    verifiziert: false
+    quelle: https://portaljuridic.gencat.cat/ca/detalls/noticia/estrategia_catalunya_ia_2030_dogc
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Acord GOV/262/2025 vom 11.11.2025 billigt die Estratègia Catalunya IA 2030 und ersetzt damit den bisherigen
+    Plan estratègic Catalonia.AI.
+  - 'Nachgelagert: Instrumente der Generalitat zum verantwortungsvollen KI-Einsatz in der öffentlichen
+    Verwaltung (Mai 2026), veröffentlicht über web.gencat.cat.'
+  - 'Kompetenzrechtlich: Autonome Gemeinschaften können KI in ihrer eigenen Verwaltung regeln und Förderpolitik
+    betreiben, nicht aber Marktüberwachung nach der KI-VO ausüben — diese ist im Proyecto de Ley Orgánica
+    durchgehend staatlichen Behörden zugewiesen.'
+  dokumente: []
+  sekundaerquelle_url:
+  - https://noticias.juridicas.com/base_datos/CCAA/977837-acuerdo-gov-262-2025-de-11-nov-ca-cataluna-estrategia-catalunya-ia-2030.html
+  - https://web.gencat.cat/en/ciutadania/actualitat/noticies/2026/05/us-responsable-de-la-ia-a-l-administracio-publica
+  offene_punkte:
+  - 'KEIN amtlicher Volltext abrufbar: portaljuridic.gencat.cat und web.gencat.cat sperren automatisierten
+    Abruf per robots.txt. Die DOGC-Nummer und das DOGC-Datum des Acord GOV/262/2025 konnten deshalb nicht
+    ermittelt werden; `url` und `volltext_url` bleiben leer.'
+  - Ob Katalonien über die Strategie hinaus verbindliche Regeln für den KI-Einsatz in der eigenen Verwaltung
+    erlassen hat (Instrucció, Decret), ist nicht belegt.
+  - Weitere Autonome Gemeinschaften mit KI-Regelungen wurden nicht systematisch erhoben; belegt ist nur
+    Extremadura.
+  - 'DOGC-Fundstelle des Acord GOV/262/2025 am 05.09.2026 nicht verifiziert: portaljuridic.gencat.cat
+    ist für automatisierte Abrufe durch robots.txt gesperrt. Zu prüfen sind DOGC-Nummer und Veröffentlichungsdatum.'
+  monitoring_quellen:
+  - https://dogc.gencat.cat/
+  - https://portaljuridic.gencat.cat/
+  bezug_regelwerke:
+  - es-dl-2-2023-extremadura
+  - es-lo-gobernanza-ia
+  letzte_pruefung: 2026-09-05

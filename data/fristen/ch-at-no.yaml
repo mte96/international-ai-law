@@ -1,0 +1,81 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: ch-stgb-cybermobbing-f1
+  datum: 2026-09-17
+  beschreibung: 'Ablauf der Vernehmlassungsfrist zum neuen Straftatbestand Cybermobbing (Änderung des
+    Schweizerischen Strafgesetzbuches), Vorlage der Kommission für Rechtsfragen des Nationalrates.
+
+    '
+  typ: konsultation
+  jurisdiktion: ch
+  regelwerk: ch-stgb-cybermobbing
+  adressat: Kantone, Parteien, Verbände und weitere interessierte Kreise
+  handlungsbedarf: 'Wer zur strafrechtlichen Erfassung digitaler Persönlichkeits- verletzungen — einschliesslich
+    synthetischer Inhalte — Stellung nehmen will, muss dies bis zu diesem Tag tun. Es ist die einzige
+    laufende schweizerische Vernehmlassung in diesem Feld.
+
+    '
+  quelle: https://www.admin.ch/de/newnsb/mEoKAr7v_nb0uc8IIu03A
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: ch-ki-regulierung-f1
+  datum: 2026-12-31
+  beschreibung: 'Frist des Bundesrates an das EJPD (mit UVEK und EDA), die Vernehmlassungsvorlage zur
+    Umsetzung der Europarats-KI-Konvention zu erarbeiten; parallel Frist an das UVEK für die nichtlegislativen
+    Massnahmen.
+
+    '
+  typ: einreichung
+  jurisdiktion: ch
+  regelwerk: ch-ki-regulierung-grundsatzentscheid
+  adressat: EJPD / Bundesamt für Justiz, UVEK, EDA
+  handlungsbedarf: 'Ab Eröffnung der Vernehmlassung läuft die Frist zur Stellungnahme. Der Termin ist
+    der wichtigste Beobachtungspunkt für die Schweiz.
+
+    '
+  quelle: https://www.bj.admin.ch/de/kuenstliche-intelligenz
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: no-ki-loven-f1
+  datum: 2027-12-02
+  beschreibung: 'Nach Darstellung des norwegischen Digitaliserings- og forvaltningsdepartementet durch
+    die EU-Änderungen vom Juli 2026 verschobener erster Stichtag für die Pflichten bei Hochrisiko-KI-Systemen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: 'no'
+  regelwerk: no-ki-loven
+  adressat: Anbieter und Betreiber von Hochrisiko-KI-Systemen
+  handlungsbedarf: null
+  quelle: https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: no-ki-loven-f2
+  datum: 2028-08-02
+  beschreibung: 'Zweiter durch die EU-Änderungen vom Juli 2026 verschobener Stichtag für die Pflichten
+    bei Hochrisiko-KI-Systemen (Angabe des norwegischen Ministeriums).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: 'no'
+  regelwerk: no-ki-loven
+  adressat: Anbieter und Betreiber von Hochrisiko-KI-Systemen
+  handlungsbedarf: null
+  quelle: https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30

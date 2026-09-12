@@ -1,0 +1,54 @@
+# Gepflegte Datenbasis.
+urteile:
+- id: ch-bge-151-i-137
+  jurisdiktion: ch
+  gericht: Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung
+  aktenzeichen: 1C_63/2023 (amtlich publiziert als BGE 151 I 137)
+  datum: 2024-10-17
+  volltext_url: https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=atf%3A%2F%2F151-I-137%3Ade
+  verifiziert: true
+  bedeutung: hoch
+  leitsatz: 'Abstrakte Normenkontrolle gegen das Polizeigesetz des Kantons Luzern. Das Bundesgericht hob
+    § 4quinquies (automatische Fahrzeugfahndung, AFV) und § 4octies (polizeilicher Informationssystem-Verbund)
+    als unverhältnismässig und ohne hinreichende gesetzliche Grundlage auf. Zu § 4sexies (Analysesysteme
+    für serielle Kriminalität) entschied es im Wege verfassungskonformer Auslegung: Der Einsatz "intelligenter
+    Systeme" mit algorithmischer Entscheidfindung, insbesondere automatisierter Gesichtserkennung, stellt
+    einen SCHWERWIEGENDEN GRUNDRECHTSEINGRIFF dar und bedarf einer ausdrücklichen formellgesetzlichen
+    Grundlage. Die Norm sei deshalb restriktiv zu verstehen: zulässig seien nur einfache Analysesysteme
+    mit manueller Datenauswertung durch Menschen, nicht algorithmengesteuerte Systeme. Damit ist dies
+    der Leitentscheid des schweizerischen Bundesgerichts zu algorithmischer Datenanalyse und Gesichtserkennung
+    im Polizeirecht und die wichtigste KI-Entscheidung der Schweiz überhaupt.
+
+    '
+  normen:
+  - ch-dsg-art-21
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - datenschutz
+  - governance
+  status: rechtskraeftig
+  quelle_art: amtlich
+- id: ch-4a-500-2022
+  jurisdiktion: ch
+  gericht: Schweizerisches Bundesgericht, I. zivilrechtliche Abteilung
+  aktenzeichen: 4A_500/2022
+  datum: 2023-03-28
+  volltext_url: https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza%3A%2F%2F28-03-2023-4A_500-2022
+  verifiziert: true
+  bedeutung: mittel
+  leitsatz: 'Markenrecht: Das Wortzeichen "AI Brain" ist vom Markenschutz ausgeschlossen. Die massgeblichen
+    Abnehmer verstehen "AI" unmittelbar als "artificial intelligence", weil KI "heutzutage in aller Munde
+    ist" und die entsprechenden Akronyme "wie selbstverständlich verwendet werden". Das Zeichen ist deshalb
+    beschreibend: Es charakterisiert die beanspruchten Waren und Dienstleistungen dadurch, dass sie mit
+    künstlicher Intelligenz ausgestattet sind oder diese nutzen. Beschwerde abgewiesen. Praktisch bedeutsam
+    für die Markenstrategie von KI-Unternehmen in der Schweiz und als Beleg dafür, dass das Bundesgericht
+    die Verkehrsauffassung zu "KI/AI" bereits 2023 als allgemein bekannt behandelte.
+
+    '
+  normen: []
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  status: rechtskraeftig
+  quelle_art: amtlich

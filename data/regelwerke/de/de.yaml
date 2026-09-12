@@ -1,0 +1,2769 @@
+regelwerke:
+- id: nationale-umsetzung-de-ki-mig
+  kurztitel: KI-MIG (Deutschland)
+  offizieller_titel: 'Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz
+    (KI-Marktüberwachungs- und Innovationsförderungsgesetz — KI-MIG), Art. 1 des Gesetzes zur Durchführung
+    der Verordnung (EU) 2024/1689
+
+    '
+  fundstelle: BGBl. 2026 I Nr. 233 vom 28.07.2026
+  celex: null
+  verfahrensnummer: BT-Drs. (Regierungsentwurf), Kabinettbeschluss 11.02.2026
+  status: anwendbar
+  inkrafttreten:
+    datum: 2026-07-29
+    verifiziert: true
+  anwendungsdaten:
+  - datum: 2026-07-29
+    was_gilt: Bundesnetzagentur als zentrale Marktüberwachungs- und notifizierende Behörde; Koordinierungs-
+      und Kompetenzzentrum; zentrale Anlauf- und Beschwerdestelle; mindestens ein KI-Reallabor; KMU-/Start-up-Unterstützung.
+    verifiziert: true
+  dokumente:
+  - datum: 2026-07-29
+    typ: endfassung
+    titel: KI-MIG — Volltext
+    url: https://www.gesetze-im-internet.de/ki-mig/
+    sprache: DE
+    verifiziert: false
+    hinweis: Seite gesetze-im-internet.de blockiert automatisierte Abrufe (robots); Existenz und BGBl.-Fundstelle
+      über BMDS verifiziert.
+    typ_original: Gesetzestext
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Gesetz zur Durchführung der KI-Verordnung — Verfahrensstand
+    url: https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+    sprache: DE
+    verifiziert: true
+    typ_original: Verfahrensuebersicht BMDS
+  - datum: 2025-09-12
+    typ: entwurf
+    titel: Referentenentwurf BMDS; Länder- und Verbändeanhörung
+    url: https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+    sprache: DE
+    verifiziert: true
+    typ_original: Referentenentwurf
+  - datum: 2026-02-11
+    typ: abstimmung
+    titel: Regierungsentwurf vom Bundeskabinett beschlossen
+    url: https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+    sprache: DE
+    verifiziert: true
+    typ_original: Kabinettbeschluss
+  - datum: 2026-06-11
+    typ: abstimmung
+    titel: 2./3. Lesung im Bundestag; Annahme in der Fassung des Digitalausschusses
+    url: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-ki-1183820
+    sprache: DE
+    verifiziert: true
+    typ_original: Bundestagsbeschluss
+  - datum: 2026-04-01
+    typ: stellungnahme
+    titel: Stellungnahme des Bundesrates
+    url: https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+    sprache: DE
+    verifiziert: true
+    typ_original: Stellungnahme Bundesrat
+  fristen: []
+  offene_punkte:
+  - Verordnungsermächtigungen und untergesetzliche Ausgestaltung (Reallabor-Verfahren) stehen aus.
+  monitoring_quellen:
+  - https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+  - https://www.gesetze-im-internet.de/ki-mig/
+  - https://artificialintelligenceact.eu/national-implementation-plans/
+  regelungsschwerpunkte:
+  - Bündelung der KI-Aufsicht bei der Bundesnetzagentur (subsidiär zu Fachbehörden)
+  - Sektorale Zuständigkeiten (z. B. BaFin, Landesdatenschutzbehörden) bleiben unberührt
+  - Deutschland hat die EU-Frist 02.08.2025 für die Behördenbenennung um fast ein Jahr verfehlt
+  status_detail: IN KRAFT seit 29.07.2026
+  themenachsen:
+  - governance
+  - marktzugang
+  jurisdiktion: de
+  letzte_pruefung: 2026-08-27
+- id: de-ki-vo-durchfuehrungsgesetz
+  jurisdiktion: de
+  kurztitel: KI-VO-Durchführungsgesetz (Mantelgesetz)
+  offizieller_titel: Gesetz zur Durchführung der Verordnung (EU) 2024/1689
+  fundstelle: BGBl. 2026 I Nr. 233 vom 28.07.2026
+  verfahrensnummer: BT-Drs. 21/4594 (Regierungsentwurf, 09.03.2026); Beschlussempfehlung und Bericht des
+    Ausschusses für Digitales und Staatsmodernisierung BT-Drs. 21/6407 (10.06.2026)
+  status: anwendbar
+  status_detail: 'In Kraft seit 29.07.2026. Das Mantelgesetz hat fünf Artikel: Artikel 1 ist das KI-MIG
+    (separat erfasst), die Artikel 2 bis 4 ändern das Hinweisgeberschutzgesetz, das Erste Buch Sozialgesetzbuch
+    und das Finanzdienstleistungsaufsichtsgesetz, Artikel 5 regelt das Inkrafttreten. Deutschland hat
+    damit die EU-Frist für die Behördenbenennung (02.08.2025) um knapp ein Jahr verfehlt.
+
+    '
+  kurzbeschreibung: 'Nationales Durchführungsrecht zur KI-Verordnung. Es benennt die zuständigen Marktüberwachungs-
+    und notifizierenden Behörden, bündelt die Aufsicht subsidiär bei der Bundesnetzagentur, richtet dort
+    ein Koordinierungs- und Kompetenzzentrum (KoKIVO), eine unabhängige KI-Marktüberwachungskammer und
+    mindestens ein KI-Reallabor ein und schafft eine zentrale Anlauf- und Beschwerdestelle. Die Geldbußen
+    der KI-VO selbst (Art. 99: bis 35 Mio. EUR / 7 % des weltweiten Jahresumsatzes) werden nicht national
+    nachgebildet, sondern von der jeweils sachlich zuständigen Behörde verhängt; das KI-MIG ergänzt sie
+    um eigene Ordnungswidrigkeiten bis 50.000 EUR (§ 15 KI-MIG). Adressaten sind Anbieter, Betreiber,
+    Einführer und Händler von KI-Systemen sowie die aufsichtführenden Behörden.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-29
+    verifiziert: true
+    quelle: https://www.bundesnetzagentur.de/1112336
+  anwendungsdaten:
+  - datum: 2026-06-11
+    was_gilt: 2./3. Lesung im Bundestag; Annahme in der Fassung des Ausschusses für Digitales und Staatsmodernisierung.
+    verifiziert: true
+    quelle: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-ki-1183820
+  - datum: 2026-07-29
+    was_gilt: 'Inkrafttreten: Zuständigkeitszuweisung an Bundesnetzagentur und Fachbehörden, KoKIVO, KI-Service-Desk,
+      Beschwerdestelle, Bußgeldzuständigkeiten (§ 17 Abs. 1 KI-MIG), Reallabor-Auftrag.
+
+      '
+    verifiziert: true
+    quelle: https://bmds.bund.de/aktuelles/pressemitteilungen/detail/neues-ki-gesetz-tritt-in-kraft
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-finanz
+  - sektor-oeffentlich
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Artikel 1: KI-MIG — Teil 1 Allgemeine Vorschriften, Teil 2 Zuständige Behörden und Zusammenarbeit,
+    Teil 3 Befugnisse, Teil 4 Innovationsförderung, Teil 5 Bußgeldvorschriften, Teil 6 Aufbewahrungspflichten.'
+  - 'Artikel 2: Änderung des Hinweisgeberschutzgesetzes — Verstöße gegen die KI-VO werden in den sachlichen
+    Anwendungsbereich des Hinweisgeberschutzes einbezogen (Umsetzung von Art. 87 KI-VO, der die Whistleblower-RL
+    (EU) 2019/1937 für anwendbar erklärt).'
+  - 'Artikel 3: Änderung des Ersten Buches Sozialgesetzbuch — Datenschutz beim Einsatz von KI im Sozialleistungsbereich.'
+  - 'Artikel 4: Änderung des Finanzdienstleistungsaufsichtsgesetzes — Kosten- und Gebührenregelungen für
+    die BaFin als sektorale Marktüberwachungsbehörde.'
+  - 'Artikel 5: Inkrafttreten.'
+  - '§ 15 KI-MIG: eigenständige nationale Ordnungswidrigkeitentatbestände — Verstöße gegen Informations-
+    und Dokumentationspflichten nach Art. 21 KI-VO, Zugangsverweigerung nach Art. 21 Abs. 2, unterlassene
+    Grundrechte-Folgenabschätzung nach Art. 27, unterlassene Aktualisierung/Mitteilung nach Art. 27 Abs.
+    2 und 3, Informationspflichtverletzungen gegenüber der notifizierenden Behörde nach Art. 45, Verweigerung
+    der Erläuterung gegenüber betroffenen Personen bei Hochrisiko-KI nach Anhang III Nr. 1, 3, 4, 5. Bußgeldrahmen:
+    bis zu fünfzigtausend Euro (§ 15 Abs. 3).'
+  - '§ 17 Abs. 1 KI-MIG: Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 OWiG sind die Marktüberwachungsbehörden
+    nach § 2 Abs. 1 bis 8 und die notifizierenden Behörden nach § 3 Abs. 1 und 2 Satz 1 — jeweils für
+    ihren Geschäftsbereich. Keine zentrale Bußgeldbehörde.'
+  - 'Die Geldbußen des Art. 99 KI-VO gelten unmittelbar; der Gesetzgeber hat sie NICHT in nationales OWi-Recht
+    überführt, sondern nur die zuständige Behörde bestimmt. Kritik: Doppelsanktionierungsrisiko und uneinheitliche
+    Bußgeldpraxis über die Geschäftsbereiche hinweg.'
+  - Unabhängige KI-Marktüberwachungskammer bei der Bundesnetzagentur für Hochrisiko-KI in besonders grundrechtssensiblen
+    Feldern (Strafverfolgung, Grenzkontrolle, Justiz, demokratische Prozesse) — Art. 74 Abs. 8 KI-VO verlangt
+    Unabhängigkeit.
+  - 'Sektorale Zuständigkeiten bleiben unberührt: BaFin (Finanzsektor), BfArM/PEI (Medizinprodukte und
+    Arzneimittel), BSI (Cybersicherheit), BfDI und Landesdatenschutzbehörden (Datenschutz, biometrische
+    Systeme), Landesbehörden für Landesverwaltung.'
+  - 'Ausschussänderungen gegenüber dem Regierungsentwurf: nicht-öffentliches Register für Hochrisiko-KI-Systeme;
+    Evaluierung der Aufsichtsstruktur nach 18 Monaten und nach 3 Jahren; regelmäßige Überprüfung der Beratungsangebote
+    auf Effizienz und Praxisnähe.'
+  - 'Erfüllungsaufwand: rd. 4 Mio. EUR einmalig und 15,9 Mio. EUR jährlich beim Bund, 33,1 Mio. EUR jährlich
+    bei den Ländern.'
+  - 'Sachverständigenkritik in der Anhörung (23.03.2026): bis zu hundert beteiligte Behörden, fehlende
+    formalisierte Koordinierungsmechanismen, Gefahr uneinheitlicher Durchsetzung.'
+  dokumente:
+  - datum: 2026-03-09
+    typ: entwurf
+    titel: Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/1689 — Gesetzentwurf der Bundesregierung
+    url: https://dserver.bundestag.de/btd/21/045/2104594.pdf
+    sprache: de
+    urheber: Bundesregierung / Deutscher Bundestag
+    verifiziert: true
+    notiz: Maßgeblicher Volltext mit allen fünf Artikeln, § 15 Bußgeldtatbeständen und § 17 Zuständigkeitsregelung.
+  - datum: 2026-02-09
+    typ: entwurf
+    titel: Regierungsentwurf KI-MIG (Kabinettfassung, Bearbeitungsstand 10.02.2026)
+    url: https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/260209_RegE_KI-MIG_final_barr.pdf
+    sprache: de
+    urheber: Bundesministerium für Digitales und Staatsmodernisierung
+    verifiziert: true
+    notiz: Ministerielle Fassung mit Begründung; Grundlage der Kabinettbefassung am 11.02.2026.
+  - datum: 2026-06-10
+    typ: ausschussbericht
+    titel: Beschlussempfehlung und Bericht des Ausschusses für Digitales und Staatsmodernisierung
+    url: https://dserver.bundestag.de/btd/21/064/2106407.pdf
+    sprache: de
+    urheber: Ausschuss für Digitales und Staatsmodernisierung (23. Ausschuss)
+    verifiziert: true
+    notiz: Enthält die Änderungen gegenüber dem Regierungsentwurf (Register, Evaluierungsklauseln).
+  - datum: 2026-06-10
+    typ: ausschussbericht
+    titel: Beschlussempfehlung und Bericht zum Antrag von Bündnis 90/Die Grünen zur Umsetzung der KI-Verordnung
+    url: https://dserver.bundestag.de/btd/21/064/2106404.pdf
+    sprache: de
+    urheber: Ausschuss für Digitales und Staatsmodernisierung
+    verifiziert: true
+    notiz: Ablehnung des Oppositionsantrags; dokumentiert den Streit über die Zersplitterung der Aufsicht.
+  - datum: 2026-06-11
+    typ: abstimmung
+    titel: Ja zur Durchführung der Verordnung über künstliche Intelligenz
+    url: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-ki-1183820
+    sprache: de
+    urheber: Deutscher Bundestag
+    verifiziert: true
+    notiz: Amtliche Zusammenfassung der Schlussabstimmung mit Erfüllungsaufwand und Debattenpositionen.
+  - datum: 2026-03-20
+    typ: plenarprotokoll
+    titel: Umsetzung von EU-Vorgaben im Bereich der Künstlichen Intelligenz — Erste Lesung
+    url: https://www.bundestag.de/dokumente/textarchiv/2026/kw12-de-kuenstliche-intelligenz-1151800
+    sprache: de
+    urheber: Deutscher Bundestag
+    verifiziert: true
+    notiz: Erste Lesung; Positionen der Fraktionen, u.a. Forderung der Linken nach Transparenz über Trainingsdaten.
+  - datum: 2026-03-17
+    typ: konsultation
+    titel: Öffentliche Anhörung des Digitalausschusses zur Durchführung der Verordnung über KI (Ankündigung)
+    url: https://www.bundestag.de/presse/pressemitteilungen/2026/pm-260317-oepm-digitales-1156062
+    sprache: de
+    urheber: Deutscher Bundestag
+    verifiziert: false
+    notiz: Anhörung am 23.03.2026; Stellungnahmen u.a. von GEMA und Initiative Urheberrecht. URL aus Suchtreffer,
+      nicht abgerufen.
+  - datum: 2026-07-29
+    typ: pressemitteilung
+    titel: Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung
+    url: https://www.bundesnetzagentur.de/1112336
+    sprache: de
+    urheber: Bundesnetzagentur
+    verifiziert: true
+    notiz: Bestätigt Inkrafttreten am 29.07.2026 und die operative Aufgabenverteilung.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Gesetz zur Durchführung der KI-Verordnung — Verfahrensübersicht
+    url: https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+    sprache: de
+    urheber: Bundesministerium für Digitales und Staatsmodernisierung
+    verifiziert: true
+    notiz: Laufend gepflegte Verfahrensakte mit Referentenentwurf (12.09.2025), Kabinettbeschluss (11.02.2026)
+      und Verbändestellungnahmen.
+  offene_punkte:
+  - BGBl.-Fundstelle (BGBl. 2026 I Nr. 233 vom 28.07.2026) konnte nicht direkt aus recht.bund.de bestätigt
+    werden — die BGBl-PDFs sind für automatisierte Abrufe gesperrt.
+  - Wie die Geldbußen des Art. 99 KI-VO zwischen den Geschäftsbereichen abgegrenzt und Doppelsanktionen
+    vermieden werden, ist gesetzlich nicht ausgeformt.
+  - Verordnungsermächtigungen und untergesetzliche Ausgestaltung des Reallabor-Verfahrens (§ 13 KI-MIG)
+    stehen aus.
+  - Der genaue Inhalt der Änderung des SGB I (Artikel 3) ist nur als 'Datenschutz bei KI' belegt, nicht
+    im Wortlaut geprüft.
+  - Das durch den Ausschuss eingefügte nicht-öffentliche Hochrisiko-Register überschneidet sich mit der
+    EU-Datenbank nach Art. 71 KI-VO; das Verhältnis ist ungeklärt.
+  monitoring_quellen:
+  - https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+  - https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/14_Marktueberwachung/start.html
+  - https://www.bundestag.de/dokumente/textarchiv
+  bezug_regelwerke:
+  - nationale-umsetzung-de-ki-mig
+  - ki-vo-2024-1689
+  - de-bnetza-ki-aufsicht
+  letzte_pruefung: 2026-08-27
+- id: de-bnetza-ki-aufsicht
+  jurisdiktion: de
+  kurztitel: Aufsichtspraxis der Bundesnetzagentur (KI-Service-Desk, KoKIVO, Reallabore)
+  offizieller_titel: 'Untergesetzliche Aufsichts- und Unterstützungsstrukturen der Bundesnetzagentur zur
+    Verordnung (EU) 2024/1689: Koordinierungs- und Kompetenzzentrum für die KI-Verordnung (KoKIVO), KI-Service-Desk,
+    KI-Compliance Kompass, Beschwerdestelle, KI-Reallabore
+
+    '
+  fundstelle: Keine eigene Rechtsquelle — Vollzug von §§ 2, 3, 8, 13 KI-MIG i.V.m. Art. 70, 74, 85, 57-59
+    KI-VO
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Operativ seit dem 29.07.2026, in Teilen (KI-Service-Desk, KI-Compliance Kompass, FAQ,
+    Factsheets) bereits vorher. Keine Bindungswirkung; die veröffentlichten Auslegungshilfen prägen aber
+    die Verwaltungspraxis der zentralen deutschen KI-Aufsicht.
+
+    '
+  kurzbeschreibung: 'Die Bundesnetzagentur ist Marktüberwachungsbehörde für KI in Funkanlagen (Anhang
+    I KI-VO) sowie für kritische Infrastruktur, Strafverfolgung und weitere Anhang-III-Bereiche, ist zentrale
+    Anlauf- und Beschwerdestelle nach Art. 85 KI-VO und betreibt das KoKIVO als Kompetenzzentrum für alle
+    deutschen Marktüberwachungs- und notifizierenden Behörden. Der KI-Service-Desk richtet sich niedrigschwellig
+    an KMU und Start-ups (Risikoklassifizierung, Leitlinien, Kompetenzaufbau). Mindestens ein KI-Reallabor
+    muss nach Art. 57 KI-VO bis zum 02.08.2027 betriebsbereit sein. Sanktionen verhängt die Behörde nach
+    § 15 KI-MIG und Art. 99 KI-VO.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-29
+    verifiziert: true
+    quelle: https://www.bundesnetzagentur.de/1112336
+  anwendungsdaten:
+  - datum: 2026-03-01
+    was_gilt: 'Veröffentlichung der Ergebnisse eines trilateralen Reallabor-Pilotprojekts, einschließlich
+      Handreichung zu Hochrisiko-Anforderungen bei Medizinprodukten.
+
+      '
+    verifiziert: true
+    quelle: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/5_Innovationen/start.html
+  - datum: 2027-08-02
+    was_gilt: Spätester Termin für ein betriebsbereites KI-Reallabor (Art. 57 Abs. 1 KI-VO i.V.m. § 13
+      KI-MIG).
+    verifiziert: true
+    quelle: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/5_Innovationen/start.html
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-medizin
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'KoKIVO: Unterstützung der nationalen Marktüberwachungs- und notifizierenden Behörden bei komplexen
+    Entscheidungen, Sicherung einheitlicher Auslegung übergreifender Rechtsfragen, technische Expertise
+    zu Funktionsweise und Risikobewertung, Mitwirkung in nationaler und internationaler Normung, Unterstützung
+    freiwilliger Verhaltenskodizes für Nicht-Hochrisiko-KI (Art. 95 KI-VO).'
+  - 'KI-Service-Desk: Online-Werkzeuge zur Risikoklassifizierung, Aufbereitung europäischer Leitlinien,
+    Kompetenzaufbau; ausdrücklich an KMU und Start-ups adressiert. Präsident Klaus Müller: Rolle als ''Enabler
+    und Ansprechpartner für das gesamte KI-Ökosystem''.'
+  - 'KI-Compliance Kompass: Selbsteinschätzungswerkzeug zur Anwendbarkeit der KI-VO auf eine Organisation.'
+  - 'Beschwerdestelle nach Art. 85 KI-VO: Entgegennahme und Prüfung von Beschwerden von Bürgerinnen, Bürgern
+    und Unternehmen; Berücksichtigung bei Marktüberwachungsprüfungen.'
+  - 'Reallabore: kontrollierte Entwicklung, Training und Validierung; Vorrangzugang für Forschungseinrichtungen
+    (§ 13 KI-MIG); Ziel Rechtssicherheit und beschleunigter Marktzugang.'
+  - 'WIDERSPRUCH: Die Marktüberwachungsseite der Bundesnetzagentur nennt als Geltungsdaten den 02.08.2026
+    (Anhang III) und den 02.08.2027 (Anhang I). Das entspricht dem ursprünglichen Zeitplan der KI-VO.
+    Nach der Änderung durch die VO (EU) 2026/1744 (Digital Omnibus on AI) gelten die Hochrisiko-Pflichten
+    erst ab 02.12.2027 (Anhang III) bzw. 02.08.2028 (Anhang I). Die Behördenseite ist insoweit veraltet
+    oder bezieht sich auf die Zuständigkeitsbegründung, nicht auf die Pflichtenanwendung.'
+  dokumente:
+  - datum: 2026-07-29
+    typ: pressemitteilung
+    titel: Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung
+    url: https://www.bundesnetzagentur.de/1112336
+    sprache: de
+    urheber: Bundesnetzagentur
+    verifiziert: true
+    notiz: Erste offizielle Verlautbarung zur Aufgabenübernahme.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Marktüberwachung KI
+    url: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/14_Marktueberwachung/start.html
+    sprache: de
+    urheber: Bundesnetzagentur
+    verifiziert: true
+    notiz: Zuständigkeitsabgrenzung Anhang I / Anhang III und Beschwerdeverfahren.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Koordinierungs- und Kompetenzzentrum für die KI-Verordnung (KoKIVO)
+    url: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/15_Koordinierung/start.html
+    sprache: de
+    urheber: Bundesnetzagentur
+    verifiziert: true
+    notiz: Aufgabenkatalog des Kompetenzzentrums.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: KI-Reallabore
+    url: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/5_Innovationen/start.html
+    sprache: de
+    urheber: Bundesnetzagentur
+    verifiziert: true
+    notiz: Zweck, Rechtsrahmen, Pilotprojekt 2025/2026 und EUSAiR-Programm (bis zu 90 Bewerbungen, Oktober
+      2025 bis Juni 2026).
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: KI-Service Desk der Bundesnetzagentur
+    url: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/start_ki.html
+    sprache: de
+    urheber: Bundesnetzagentur
+    verifiziert: false
+    notiz: URL aus der Navigation der Seite bundesnetzagentur.de/ki entnommen, nicht einzeln abgerufen.
+  offene_punkte:
+  - Ob und wann das erste deutsche KI-Reallabor tatsächlich eröffnet wird, ist nicht veröffentlicht; das
+    Verfahren (Antragstellung, Auswahlkriterien, Ausstiegsplan nach Art. 57 Abs. 9 KI-VO) fehlt.
+  - Kein veröffentlichtes Verwaltungsverfahren für die Zusammenarbeit mit BfDI und Landesdatenschutzbehörden
+    nach Art. 74 Abs. 8 KI-VO.
+  - Bislang keine erste Marktüberwachungsentscheidung oder Bußgeldpraxis dokumentiert.
+  - Die Datumsangaben auf der Marktüberwachungsseite widersprechen dem durch VO (EU) 2026/1744 geänderten
+    Zeitplan — Klärung durch die Behörde steht aus.
+  monitoring_quellen:
+  - https://www.bundesnetzagentur.de/ki
+  - https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/14_Marktueberwachung/start.html
+  - https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/5_Innovationen/start.html
+  bezug_regelwerke:
+  - nationale-umsetzung-de-ki-mig
+  - de-ki-vo-durchfuehrungsgesetz
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: de-urhg-tdm
+  jurisdiktion: de
+  kurztitel: TDM-Schranke §§ 44b, 60d UrhG und die deutschen KI-Urheberrechtsverfahren
+  offizieller_titel: '§§ 44b, 60d Urheberrechtsgesetz (Text und Data Mining; Text und Data Mining für
+    Zwecke der wissenschaftlichen Forschung), eingefügt durch das Gesetz zur Anpassung des Urheberrechts
+    an die Erfordernisse des digitalen Binnenmarktes vom 31. Mai 2021
+
+    '
+  fundstelle: BGBl. I 2021 S. 1204 (Umsetzung der Art. 3, 4 DSM-RL (EU) 2019/790)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Die Schranken gelten seit dem 07.06.2021 unverändert. Ihre Reichweite für generatives
+    KI-Training ist der zentrale urheberrechtliche Streitpunkt in Deutschland. Zwei Instanzenzüge laufen
+    parallel: die LAION-Sache liegt beim BGH (I ZR 281/25, Verhandlung 03.09.2026), die GEMA-Verfahren
+    gegen OpenAI und Suno beim LG bzw. OLG München. Erste- und zweitinstanzliche Rechtsprechung widersprechen
+    sich inhaltlich: Hamburg bejaht die Schranken weit, München verneint § 44b UrhG für generative Modelle.
+
+    '
+  kurzbeschreibung: '§ 44b UrhG erlaubt Vervielfältigungen rechtmäßig zugänglicher Werke zum Zweck des
+    Text und Data Mining, soweit der Rechtsinhaber sich die Nutzung nicht in maschinenlesbarer Form vorbehalten
+    hat. § 60d UrhG privilegiert Forschungsorganisationen ohne kommerziellen Zweck; ein Nutzungsvorbehalt
+    greift dort nicht. Adressaten sind Betreiber von Crawlern, Datensatzerstellern und KI-Trainingsläufen.
+    Rechtsfolge eines Verstoßes sind Unterlassung, Auskunft und Schadensersatz nach §§ 97 ff. UrhG. Der
+    Streit dreht sich um drei Fragen: ob KI-Training überhaupt TDM ist, welche Form ein maschinenlesbarer
+    Vorbehalt haben muss und ob memorisierte Werke im Modell selbst eine Vervielfältigung darstellen.
+
+    '
+  inkrafttreten:
+    datum: 2021-06-07
+    verifiziert: false
+    quelle: https://www.gesetze-im-internet.de/urhg/__44b.html
+    fundstelle_norm: 'Art. 6 Abs. 1 des Gesetzes zur Anpassung des Urheberrechts an die Erfordernisse
+      des digitalen Binnenmarktes vom 31.05.2021 (BGBl. I S. 1204) — Wortlaut am 05.09.2026 nicht an amtlicher
+      Quelle einsehbar, daher verifiziert: false.'
+  anwendungsdaten:
+  - datum: 2024-09-27
+    was_gilt: 'LG Hamburg, Urt. v. 27.09.2024 – 310 O 227/23 (Kneschke ./. LAION): Klage abgewiesen; §
+      44b UrhG offengelassen, Zulässigkeit auf § 60d UrhG gestützt.'
+    verifiziert: true
+    quelle: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026085.html
+  - datum: 2025-11-11
+    was_gilt: 'LG München I, Urt. v. 11.11.2025 – 42 O 14139/24 (GEMA ./. OpenAI): Verletzung von §§ 16,
+      19a UrhG durch Memorisierung im Modell und durch Chatbot-Ausgaben; § 44b UrhG nicht einschlägig;
+      Unterlassung, Auskunft, Schadensersatz.'
+    verifiziert: true
+    quelle: https://preubohlig.de/gema-v-openai-judgment-of-the-regional-court-of-munich-i/?lang=en
+  - datum: 2025-12-08
+    was_gilt: OpenAI legt Berufung ein — OLG München, Az. 6 U 3662/25 e.
+    verifiziert: true
+    quelle: https://urheber.info/diskurs/openai-legt-berufung-ein
+  - datum: 2025-12-10
+    was_gilt: 'OLG Hamburg, Urt. v. 10.12.2025 – 5 U 104/24: Berufung zurückgewiesen; § 44b UrhG erfasst
+      auch die Prüfung, ob ein Bild zu einer Beschreibung passt, und Vorbereitungshandlungen für späteres
+      KI-Training; der Vorbehalt in natürlicher Sprache war für 2021 nicht als maschinenlesbar nachgewiesen;
+      zusätzlich § 60d UrhG. Revision zugelassen.'
+    verifiziert: true
+    quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamburg&Datum=10.12.2025&Aktenzeichen=5+U+104%2F24
+  - datum: 2026-07-31
+    was_gilt: 'LG München I, Urt. v. 31.07.2026 – 42 O 763/25 (GEMA ./. Suno): Urheberrechtsverletzung
+      durch Training in den USA und durch Speicherung/Ausgabe in Europa; europäische Gerichtsbarkeit auch
+      für US-Training bejaht, wenn das System in Europa betrieben wird.'
+    verifiziert: true
+    quelle: https://www.gema.de/de/w/suno-entscheidung-2026
+  - datum: 2026-09-03
+    was_gilt: BGH, Verhandlungstermin I ZR 281/25 (Erstellen eines Datensatzes für KI-Training), 9:00
+      Uhr.
+    verifiziert: true
+    quelle: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026085.html
+  themenachsen:
+  - urheberrecht
+  - content
+  - gpai
+  - haftung
+  regelungsschwerpunkte:
+  - '§ 44b Abs. 3 UrhG (Nutzungsvorbehalt, maschinenlesbar): Der Streitstand hat sich durch das OLG Hamburg
+    verschoben. Maschinenlesbarkeit verlangt nach dem Berufungsurteil nicht nur technische Erfassbarkeit,
+    sondern automatisierte Interpretierbarkeit dahin, dass erfasste Inhalte nicht ausgewertet werden.
+    Ein Satz wie ''KI-Training verboten'' in natürlicher Sprache genügte für 2021 nicht; robots.txt und
+    vergleichbare Signale sind der Referenzfall. Die Beweislast für Maschinenlesbarkeit zum konkreten
+    Nutzungszeitpunkt trägt der Rechtsinhaber.'
+  - '§ 60d UrhG (Forschungsschranke): Das OLG Hamburg hat LAION e.V. als Forschungsorganisation ohne kommerziellen
+    Zweck eingeordnet, obwohl die erzeugten Datensätze faktisch kommerzielles Training ermöglichen. Das
+    ist die praktisch folgenreichste Aussage — sie eröffnet einen Weg, den Nutzungsvorbehalt zu umgehen,
+    weil § 60d ihn nicht kennt.'
+  - 'BGH I ZR 281/25: Vorlagefrage im Kern, ob der Download eines Vorschaubildes zur Erstellung eines
+    Trainingsdatensatzes (5,85 Mrd. Bild-Text-Paare) von § 44b oder § 60d UrhG gedeckt ist. Die Stockfoto-Website
+    hatte den Zugriff durch ''automatisierte Programme, Applets, Bots oder Ähnliches'' untersagt. Verhandlung
+    am 03.09.2026 — die erste höchstrichterliche Klärung der TDM-Schranke in der EU.'
+  - 'LG München I 42 O 14139/24 (GEMA ./. OpenAI), Urt. v. 11.11.2025: Memorisierungsvermutung — reproduziert
+    ein Modell komplexe geschützte Inhalte konsistent und wiederholbar ohne plausible Zufallserklärung,
+    wird Memorisierung vermutet. Das Modell selbst ist damit Vervielfältigungsstück. § 44b UrhG greift
+    nicht, weil die Ausgaben mit den Originalwerken konkurrieren und berechtigte Interessen der Rechtsinhaber
+    beeinträchtigen (Dreistufentest). Eine EuGH-Vorlage lehnte das Gericht ab.'
+  - 'LG München I 42 O 763/25 (GEMA ./. Suno), Urt. v. 31.07.2026: sechs Musikkompositionen (u.a. ''Forever
+    Young'', ''Atemlos'', ''Mambo No. 5''). Die Kammer wies den Einwand zufälliger Ähnlichkeit wegen Komplexität
+    und Länge der Werke zurück und rechnete Architektur und Memorisierung der Sphäre des Betreibers zu.
+    Zusätzlich Vorwurf des Stream-Ripping von YouTube unter Umgehung technischer Schutzmaßnahmen. Anders
+    als im OpenAI-Verfahren ging es um die Komposition, nicht um Liedtexte.'
+  - 'Widerspruch Hamburg / München: Das OLG Hamburg legt § 44b UrhG weit aus und lässt § 60d als zweiten
+    Rechtfertigungsgrund genügen; das LG München I verneint die Schranke für generative Modelle über den
+    Dreistufentest. Die Fälle sind nicht identisch (Datensatzerstellung durch einen Forschungsverein gegen
+    kommerzielles Training und Betrieb), aber die Begründungslinien sind unvereinbar.'
+  - 'Gesetzgeberische Initiative: BT-Drs. 21/4758 vom 17.03.2026 (Fraktion Die Linke, ''Gesellschaftliche
+    Risiken von KI-Anwendungen ernst nehmen'') fordert ein Opt-in-Prinzip statt des Opt-out, angemessene
+    Vergütung für Trainingsnutzungen, Transparenzregeln, Verbandsklagerechte und zweckgebundene Abgaben
+    der KI-Anbieter. Ein Regierungsentwurf zur Vergütung von Trainingsnutzungen existiert nicht.'
+  - 'Bezug zur KI-VO: Art. 53 Abs. 1 lit. c KI-VO verpflichtet GPAI-Anbieter, Nutzungsvorbehalte nach
+    Art. 4 Abs. 3 DSM-RL zu erkennen und zu beachten; Art. 53 Abs. 1 lit. d verlangt eine hinreichend
+    detaillierte Zusammenfassung der Trainingsinhalte. Der GPAI-Verhaltenskodex konkretisiert das. Damit
+    wird der urheberrechtliche Vorbehalt aufsichtsrechtlich flankiert.'
+  dokumente:
+  - datum: 2026-05-20
+    typ: pressemitteilung
+    titel: Verhandlungstermin am 3. September 2026 in Sachen I ZR 281/25 (Erstellen eines Datensatzes
+      für KI-Training)
+    url: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026085.html
+    sprache: de
+    urheber: Bundesgerichtshof
+    verifiziert: true
+    notiz: Amtliche Darstellung von Sachverhalt, Vorinstanzen und Rechtsfragen. Datum der Mitteilung nicht
+      exakt belegt, Terminsdatum verifiziert.
+  - datum: 2025-12-10
+    typ: bericht
+    titel: OLG Hamburg, Urt. v. 10.12.2025 – 5 U 104/24 (Kneschke ./. LAION), GRUR 2026, 398
+    url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamburg&Datum=10.12.2025&Aktenzeichen=5+U+104%2F24
+    sprache: de
+    urheber: dejure.org (Nachweis- und Verlinkungsdienst)
+    verifiziert: true
+    notiz: Bestätigt Gericht, Datum, Aktenzeichen, Fundstelle GRUR 2026, 398 und die geprüften Normen
+      §§ 44b, 60d UrhG.
+  - datum: 2024-09-27
+    typ: bericht
+    titel: LG Hamburg, Urt. v. 27.09.2024 – 310 O 227/23 (Kneschke ./. LAION)
+    url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=LG+Hamburg&Datum=27.09.2024&Aktenzeichen=310+O+227%2F23
+    sprache: de
+    urheber: dejure.org
+    verifiziert: false
+    notiz: Erstinstanzliches Urteil; Nachweisseite nicht einzeln abgerufen, Inhalt über die BGH-Pressemitteilung
+      verifiziert.
+  - datum: 2025-11-11
+    typ: bericht
+    titel: GEMA v. OpenAI – Judgment of the Regional Court of Munich I (42 O 14139/24)
+    url: https://preubohlig.de/gema-v-openai-judgment-of-the-regional-court-of-munich-i/?lang=en
+    sprache: en
+    urheber: Preu Bohlig & Partner
+    verifiziert: true
+    notiz: Detaillierte Wiedergabe der Memorisierungsvermutung und der Ablehnung des § 44b UrhG.
+  - datum: 2025-12-08
+    typ: bericht
+    titel: OpenAI legt Berufung ein
+    url: https://urheber.info/diskurs/openai-legt-berufung-ein
+    sprache: de
+    urheber: Initiative Urheberrecht
+    verifiziert: true
+    notiz: Belegt Berufungseinlegung am 08.12.2025 und das Aktenzeichen des OLG München (6 U 3662/25 e).
+  - datum: 2026-07-31
+    typ: pressemitteilung
+    titel: GEMA setzt sich gegen SUNO durch und definiert Maßstäbe für internationales Urheberrecht
+    url: https://www.gema.de/de/w/suno-entscheidung-2026
+    sprache: de
+    urheber: GEMA
+    verifiziert: true
+    notiz: Parteiöffentliche Darstellung des Suno-Urteils; nennt Territorialitätsaussage und Zitate von
+      Tobias Holzmüller und Kai Welp.
+  - datum: 2026-03-09
+    typ: pressemitteilung
+    titel: Pressemitteilung 6/2026 des Landgerichts München I zum Verfahren GEMA ./. Suno (42 O 763/25)
+    url: https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/6.php
+    sprache: de
+    urheber: Landgericht München I
+    verifiziert: true
+    notiz: Amtliche Quelle für Aktenzeichen und Verhandlungsverlauf. Nennt einen Verkündungstermin am
+      12.06.2026 — das Urteil erging ausweislich GEMA und LTO erst am 31.07.2026; die Verkündung wurde
+      offenbar verlegt.
+  - datum: 2026-03-17
+    typ: entwurf
+    titel: 'Antrag der Fraktion Die Linke: Gesellschaftliche Risiken von KI-Anwendungen ernst nehmen (BT-Drs.
+      21/4758)'
+    url: https://dserver.bundestag.de/btd/21/047/2104758.pdf
+    sprache: de
+    urheber: Fraktion Die Linke / Deutscher Bundestag
+    verifiziert: true
+    notiz: Einzige greifbare parlamentarische Initiative zur Vergütung von Trainingsnutzungen (Opt-in,
+      Abgaben, Verbandsklage).
+  - datum: 2026-03-23
+    typ: stellungnahme
+    titel: Stellungnahme der Initiative Urheberrecht zur Anhörung des Digitalausschusses
+    url: https://www.bundestag.de/resource/blob/1149952/Stellungnahme-Initiative-Urheberrecht.pdf
+    sprache: de
+    urheber: Initiative Urheberrecht
+    verifiziert: false
+    notiz: URL aus Suchtreffer; belegt, dass Urheberrechtsfragen in die Anhörung zum Durchführungsgesetz
+      getragen wurden.
+  - datum: 2026-03-23
+    typ: stellungnahme
+    titel: Stellungnahme der GEMA zur Anhörung des Digitalausschusses
+    url: https://www.bundestag.de/resource/blob/1149948/Stellungnahme-GEMA.pdf
+    sprache: de
+    urheber: GEMA
+    verifiziert: false
+    notiz: URL aus Suchtreffer, nicht abgerufen.
+  offene_punkte:
+  - Der BGH kann in I ZR 281/25 dem EuGH vorlegen; dann verschiebt sich die Klärung um Jahre. Das LG München
+    I hat eine Vorlage im OpenAI-Verfahren bereits abgelehnt.
+  - Ob § 60d UrhG Datensatzersteller privilegiert, deren Datensätze anschließend kommerziell genutzt werden,
+    ist der eigentliche Hebel und höchstrichterlich offen.
+  - 'Rechtskraft: Keines der vier Urteile ist rechtskräftig. Suno-Berufung nicht bestätigt.'
+  - Fundstelle des Gesetzes vom 31.05.2021 (BGBl. I 2021 S. 1204) nicht direkt verifiziert — gesetze-im-internet.de
+    blockiert automatisierte Abrufe.
+  - Ein Vergütungsmodell für Trainingsnutzungen wird politisch diskutiert, aber vom BMJV nicht als Gesetzesvorhaben
+    geführt.
+  - 'Inkrafttreten (07.06.2021) am 05.09.2026 nicht amtlich belegbar: § 44b UrhG ist auf gesetze-im-internet.de
+    im Wortlaut nachgewiesen, die Fußnote des UrhG weist nur "Textnachweis Geltung ab: 10.10.1976" aus;
+    die BGBl-Ausgabe I 2021 Nr. 27 liegt nur im bgbl.de-Archiv (Viewer, nicht auslesbar), die BMJ-Verfahrensseiten
+    sind für automatisierte Abrufe gesperrt, BT-Drs. 19/27426 bricht vor dem Inkrafttretensartikel ab.
+    Nächster Versuch: BGBl. I 2021 S. 1204 im Papierarchiv oder juris.'
+  monitoring_quellen:
+  - https://www.bundesgerichtshof.de/DE/Presse/Terminhinweise/TerminhinweiseVolltextuebersicht/terminhinweise_volltextuebersicht_node.html
+  - https://www.gema.de/de/newsroom
+  - https://urheber.info/
+  - https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-ki-vo-durchfuehrungsgesetz
+  letzte_pruefung: 2026-09-05
+- id: de-prodhaftg-modernisierung
+  jurisdiktion: de
+  kurztitel: Modernisierung des Produkthaftungsrechts (Umsetzung der PLD)
+  offizieller_titel: Entwurf eines Gesetzes zur Modernisierung des Produkthaftungsrechts
+  fundstelle: noch nicht verkündet
+  verfahrensnummer: BT-Drs. 21/4297 (Regierungsentwurf, 25.02.2026); BR-Drs. 775/25 (19.12.2025)
+  status: verfahren
+  status_detail: 'Regierungsentwurf am 25.02.2026 in den Bundestag eingebracht, erste Lesung am 04.03.2026,
+    öffentliche Anhörung des Rechtsausschusses am 13.04.2026. Stand 27.08.2026 sind zweite und dritte
+    Lesung noch nicht erfolgt; eine Beschlussempfehlung des Rechtsausschusses ist nicht nachweisbar. Die
+    Umsetzungsfrist der Richtlinie endet am 09.12.2026, zu dem Termin soll das Gesetz zugleich in Kraft
+    treten. Das ist knapp, aber nicht ausgeschlossen — die Sitzungswochen im Herbst 2026 reichen rechnerisch
+    aus.
+
+    '
+  kurzbeschreibung: 'Erste umfassende Reform des deutschen Produkthaftungsrechts seit 1989. Das ProdHaftG
+    von 1989 wird nicht geändert, sondern vollständig neu gefasst. Kern für KI: Software wird eigenständiges
+    Produkt, unabhängig von Bereitstellungsform und Speicherort, ausdrücklich einschließlich KI-Systemen
+    und cloudbasierter Bereitstellung; nicht kommerzielle Open-Source-Software bleibt ausgenommen. Hinzu
+    treten ein gerichtlicher Offenlegungsanspruch für Beweismittel und gesetzliche Fehler- und Kausalitätsvermutungen,
+    die gerade bei technisch oder wissenschaftlich komplexen Produkten greifen. Adressaten sind Hersteller,
+    Bevollmächtigte, Einführer, Fulfilment-Dienstleister, Plattformen und Anbieter erheblich veränderter
+    Produkte.
+
+    '
+  inkrafttreten:
+    datum: 2026-12-09
+    verifiziert: true
+    quelle: https://dserver.bundestag.de/btd/21/042/2104297.pdf
+  anwendungsdaten:
+  - datum: 2025-12-19
+    was_gilt: Zuleitung an den Bundesrat (BR-Drs. 775/25).
+    verifiziert: false
+    quelle: https://dserver.bundestag.de/brd/2025/0775-25.pdf
+  - datum: 2026-01-30
+    was_gilt: Stellungnahme des Bundesrates (umfangreiche Änderungswünsche).
+    verifiziert: false
+    quelle: https://www.nwb-experten-blog.de/update-novelle-zum-produkthaftungsrecht-im-bundestag/
+  - datum: 2026-02-25
+    was_gilt: Regierungsentwurf als BT-Drs. 21/4297 im Bundestag.
+    verifiziert: true
+    quelle: https://dserver.bundestag.de/btd/21/042/2104297.pdf
+  - datum: 2026-03-04
+    was_gilt: Erste Lesung im Bundestag.
+    verifiziert: true
+    quelle: https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-produkthaftungsrecht-1150448
+  - datum: 2026-04-13
+    was_gilt: Öffentliche Anhörung des Ausschusses für Recht und Verbraucherschutz.
+    verifiziert: true
+    quelle: https://www.bundestag.de/dokumente/textarchiv/2026/kw16-pa-recht-produkthaftung-1164692
+  - datum: 2026-12-09
+    was_gilt: 'Umsetzungsfrist der Richtlinie (EU) 2024/2853 (Art. 22 Abs. 1) und vorgesehenes Inkrafttreten
+      des neuen ProdHaftG. Für Produkte, die bis einschließlich zu diesem Tag in Verkehr gebracht wurden,
+      gilt weiterhin das ProdHaftG 1989.
+
+      '
+    verifiziert: true
+    quelle: https://dserver.bundestag.de/btd/21/042/2104297.pdf
+  themenachsen:
+  - haftung
+  - marktzugang
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Software als Produkt: erfasst werden Betriebssysteme, Firmware, Anwendungen und KI-Systeme, unabhängig
+    von der Art der Bereitstellung oder Nutzung; Cloud-Bereitstellung eingeschlossen. Ausnahme nur für
+    nicht kommerzielle Open-Source-Software.'
+  - '§ 19 ProdHaftG-E: gerichtliche Offenlegungsanordnung. Der Beklagte muss relevante Beweismittel offenlegen,
+    wenn der Kläger die Plausibilität seines Anspruchs hinreichend dargelegt hat. Die DIHK rügt fehlende
+    Verfahrensschutzmechanismen für Geschäftsgeheimnisse.'
+  - '§ 20 ProdHaftG-E: gesetzliche Vermutungen. Fehlervermutung bei Nichtbeachtung verbindlicher Sicherheitsanforderungen
+    oder offensichtlicher Funktionsstörung; bei technischer oder wissenschaftlicher Komplexität genügt
+    Wahrscheinlichkeit statt Vollbeweis. Das ist die für KI-Schäden entscheidende Beweiserleichterung,
+    nachdem die eigenständige KI-Haftungsrichtlinie (AILD) von der Kommission zurückgezogen wurde.'
+  - Erheblich veränderte Produkte (Upcycling, Refurbishing, wesentliche Software-Updates) begründen eine
+    neue Herstellerhaftung.
+  - Haftung von Akteuren der Lieferkette (Bevollmächtigte, Einführer, Fulfilment-Dienstleister, Online-Plattformen),
+    wenn der Hersteller außerhalb der Union sitzt.
+  - 'Anhörungskritik: DIHK sieht Überschießen über die Richtlinienvorgaben und Wettbewerbsnachteile; vzbv
+    hält den vorprozessualen Offenlegungsmechanismus für unzureichend und fordert einen Entschädigungsfonds;
+    die rechtswissenschaftlichen Sachverständigen rügen die systematische Einordnung ins Zivilrecht, die
+    Unschärfe der Softwaredefinition und die Open-Source-Ausnahme.'
+  dokumente:
+  - datum: 2026-02-25
+    typ: entwurf
+    titel: Entwurf eines Gesetzes zur Modernisierung des Produkthaftungsrechts (BT-Drs. 21/4297)
+    url: https://dserver.bundestag.de/btd/21/042/2104297.pdf
+    sprache: de
+    urheber: Bundesregierung / Deutscher Bundestag
+    verifiziert: true
+    notiz: Maßgeblicher Text mit Begründung, Inkrafttretensregelung und Übergangsrecht.
+  - datum: 2025-09-01
+    typ: entwurf
+    titel: Referentenentwurf des BMJV zur Modernisierung des Produkthaftungsrechts
+    url: https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_Produkthaftung.pdf?__blob=publicationFile&v=2
+    sprache: de
+    urheber: Bundesministerium der Justiz und für Verbraucherschutz
+    verifiziert: false
+    notiz: URL aus Suchtreffer; exaktes Datum des Referentenentwurfs nicht bestätigt (September 2025).
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: 'Gesetzgebungsverfahren: Gesetz zur Modernisierung des Produkthaftungsrechts'
+    url: https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/DE/2025_Produkthaftung.html
+    sprache: de
+    urheber: Bundesministerium der Justiz und für Verbraucherschutz
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte; nennt die Umsetzungsfrist 09.12.2026.
+  - datum: 2026-04-13
+    typ: konsultation
+    titel: Novelle des Produkthaftungsrechts unterschiedlich bewertet — Anhörung des Rechtsausschusses
+    url: https://www.bundestag.de/dokumente/textarchiv/2026/kw16-pa-recht-produkthaftung-1164692
+    sprache: de
+    urheber: Deutscher Bundestag
+    verifiziert: true
+    notiz: Amtliche Zusammenfassung der Sachverständigenpositionen.
+  - datum: 2026-04-13
+    typ: stellungnahme
+    titel: Stellungnahme Prof. Dr. Gerhard Wagner zur Anhörung im Rechtsausschuss
+    url: https://www.bundestag.de/resource/blob/1164788/74c_Stellungnahme_Wagner.pdf
+    sprache: de
+    urheber: Prof. Dr. Gerhard Wagner
+    verifiziert: false
+    notiz: URL aus Suchtreffer, nicht abgerufen; einschlägig für die Kritik an der Haftungsausweitung.
+  - datum: 2026-03-04
+    typ: plenarprotokoll
+    titel: Erste Lesung zur Modernisierung des Produkthaftungsrechts
+    url: https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-produkthaftungsrecht-1150448
+    sprache: de
+    urheber: Deutscher Bundestag
+    verifiziert: false
+    notiz: URL aus Suchtreffer; Datum über NWB-Blog bestätigt.
+  offene_punkte:
+  - Ob 2./3. Lesung vor dem 09.12.2026 stattfinden, ist offen. Bei Fristversäumnis droht ein Vertragsverletzungsverfahren
+    und die unmittelbare Wirkung richtlinienkonformer Auslegung.
+  - Der Umgang mit Geschäftsgeheimnissen im Offenlegungsverfahren (§ 19) ist der politisch strittigste
+    Punkt und kann sich noch ändern.
+  - Verhältnis der Fehlervermutung zu den Konformitätsvermutungen der KI-VO (Art. 40, 42) ist im Entwurf
+    nicht adressiert.
+  - Die Kommission hat die KI-Haftungsrichtlinie (AILD) zurückgezogen; ob Deutschland national nachsteürt,
+    ist offen.
+  monitoring_quellen:
+  - https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/DE/2025_Produkthaftung.html
+  - https://dip.bundestag.de/
+  - https://www.bundestag.de/dokumente/textarchiv
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  - de-bgb-digitale-produkte
+  - ki-vo-2024-1689
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Unverändert: Regierungsentwurf BT-Drs. 21/4297 vom 25.02.2026 weiterhin im parlamentarischen
+    Verfahren. Letzte belegte Schritte bleiben Zuleitung an den Bundesrat 19.12.2025 (BR-Drs. 775/25),
+    erster Durchgang 30.01.2026 (1061. Sitzung, TOP 38), Einbringung 25.02.2026, erste Lesung 04.03.2026,
+    öffentliche Anhörung des Rechtsausschusses 13.04.2026. Weder Beschlussempfehlung noch zweite/dritte
+    Lesung noch Gesetzesbeschluss noch zweiter Durchgang sind auffindbar. Einschränkung: Die DIP-Vorgangsseite
+    329483 ist JavaScript-getrieben und lieferte nur die Programmhülle; der Befund beruht insoweit auf
+    Negativevidenz aus gezielten Suchen über bundestag.de, dserver.bundestag.de und bundesrat.de. BEWERTUNG:
+    Die Umsetzungsfrist des Art. 22 RL (EU) 2024/2853 läuft am 09.12.2026 ab. Bei noch ausstehender Beschlussempfehlung
+    und rund dreizehn Wochen Restzeit wird die Einhaltung zunehmend unwahrscheinlich.'
+- id: de-bgb-digitale-produkte
+  jurisdiktion: de
+  kurztitel: Vertragsrecht für digitale Produkte (§§ 327 ff. BGB) und KI
+  offizieller_titel: '§§ 327 bis 327u BGB (Verträge über digitale Produkte), eingefügt durch das Gesetz
+    zur Umsetzung der Richtlinie über bestimmte vertragsrechtliche Aspekte der Bereitstellung digitaler
+    Inhalte und digitaler Dienstleistungen vom 25. Juni 2021
+
+    '
+  fundstelle: BGBl. I 2021 S. 2123
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.01.2022, unverändert. Für KI-Produkte gilt kein Sonderrecht: KI-Anwendungen
+    für Verbraucher sind digitale Produkte im Sinne des § 327 BGB, im B2B-Bereich greift das allgemeine
+    Kauf- bzw. Werkvertragsrecht. Die offene Frage ist, wie Beschaffenheitsvereinbarungen bei probabilistischen
+    Systemen aussehen und wann Halluzinationen einen Mangel begründen.
+
+    '
+  kurzbeschreibung: '§§ 327 ff. BGB regeln Verbraucherverträge über die Bereitstellung digitaler Inhalte
+    und Dienstleistungen. § 327e BGB definiert den Produktmangel über subjektive, objektive und Integrationsanforderungen,
+    § 327f BGB begründet eine Aktualisierungspflicht des Unternehmers über den Bereitstellungszeitraum.
+    Für KI-Systeme sind beide Normen einschlägig: das Modell ist ein digitales Produkt, Modell-Updates
+    fallen unter die Aktualisierungspflicht, und die objektive Beschaffenheit richtet sich nach dem, was
+    der Verbraucher bei Produkten derselben Art erwarten kann. Rechtsfolgen sind Nacherfüllung, Vertragsbeendigung
+    und Minderung (§§ 327i ff. BGB).
+
+    '
+  inkrafttreten:
+    datum: 2022-01-01
+    verifiziert: true
+    quelle: https://dejure.org/gesetze/BGB/327.html
+  anwendungsdaten:
+  - datum: 2022-01-01
+    was_gilt: Anwendung auf Verbraucherverträge über digitale Produkte, die ab diesem Tag geschlossen
+      werden.
+    verifiziert: true
+    quelle: https://dejure.org/gesetze/BGB/327.html
+  themenachsen:
+  - vertrag
+  - haftung
+  regelungsschwerpunkte:
+  - '§ 327 Abs. 1 BGB: Anwendungsbereich auf Verbraucherverträge über die Bereitstellung digitaler Inhalte
+    oder digitaler Dienstleistungen — erfasst SaaS-KI-Dienste und lokal ausgeführte Modelle gleichermaßen,
+    auch bei Bezahlung mit Daten (§ 327 Abs. 3 BGB).'
+  - '§ 327e BGB: Mangelbegriff. Praktisch offen ist, ob Halluzinationen, Bias oder Leistungsschwankungen
+    nach Modell-Update einen Mangel darstellen. Argument für Mangelfreiheit: Probabilistik ist übliche
+    Beschaffenheit generativer Systeme. Argument dagegen: die Werbeaussagen des Anbieters prägen die berechtigte
+    Erwartung (§ 327e Abs. 3 Nr. 2 BGB).'
+  - '§ 327f BGB: Aktualisierungspflicht. Für KI-Anbieter bedeutet das eine Pflicht zu Sicherheits- und
+    Funktionsupdates während der Bereitstellungsdauer. Ein Modellwechsel, der Funktionen entfernt, kann
+    als negative Änderung § 327r BGB unterfallen.'
+  - 'Abgrenzung zur Produkthaftung: §§ 327 ff. BGB betreffen das Äquivalenzinteresse (Vertragserfüllung),
+    das neue ProdHaftG das Integritätsinteresse (Schäden an Leben, Körper, Sachen, Daten). Beide erfassen
+    künftig dasselbe Objekt — Software einschließlich KI.'
+  - 'B2B: Für Unternehmensverträge über KI-Systeme gilt Kauf-, Miet- oder Werkvertragsrecht je nach Vertragsgestaltung;
+    die Rechtsprechung dazu ist noch nicht ausgebildet. Praxisrelevant sind Leistungsbeschreibungen mit
+    Genauigkeitsmetriken statt klassischer Beschaffenheitsangaben.'
+  dokumente:
+  - datum: 2022-01-01
+    typ: norm
+    titel: § 327 BGB — Anwendungsbereich (Verträge über digitale Produkte)
+    url: https://dejure.org/gesetze/BGB/327.html
+    sprache: de
+    urheber: Bundesgesetzgeber / dejure.org
+    verifiziert: true
+    notiz: Belegt Wortlaut, Inkrafttreten 01.01.2022 und das Einführungsgesetz vom 25.06.2021 (BGBl. I
+      S. 2123).
+  offene_punkte:
+  - Keine veröffentlichte deutsche Rechtsprechung zur Mangelhaftigkeit generativer KI-Ausgaben nach §§
+    327e, 327f BGB.
+  - Ob Modellversionswechsel eine Änderung nach § 327r BGB darstellt, ist ungeklärt.
+  - Der Zusammenhang zwischen den Transparenzpflichten aus Art. 50 KI-VO und der objektiven Beschaffenheit
+    nach § 327e BGB ist noch nicht dogmatisch aufgearbeitet.
+  monitoring_quellen:
+  - https://dejure.org/gesetze/BGB/327.html
+  - https://www.bmjv.de/DE/themen/verbraucherschutz/verbraucherschutz_node.html
+  bezug_regelwerke:
+  - de-prodhaftg-modernisierung
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: de-beschaeftigtendatenschutz-ki
+  jurisdiktion: de
+  kurztitel: § 26 BDSG und das Beschäftigtendatengesetz (BeschDG)
+  offizieller_titel: '§ 26 Bundesdatenschutzgesetz (Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses);
+    Entwurf eines Gesetzes zur Regelung des Beschäftigtendatenschutzes (Beschäftigtendatengesetz — BeschDG)
+
+    '
+  fundstelle: '§ 26 BDSG: BGBl. I 2017 S. 2097; BeschDG: nicht verkündet'
+  verfahrensnummer: Referentenentwurf BMI/BMAS vom 08.10.2024
+  status: anwendbar
+  status_detail: '§ 26 BDSG gilt fort, ist aber nach EuGH C-34/21 (Hessen, Urt. v. 20.03.2023) in Absatz
+    1 unionsrechtswidrig, soweit er lediglich Art. 6 DSGVO wiederholt, ohne spezifischere Vorschriften
+    im Sinne des Art. 88 Abs. 2 DSGVO zu enthalten. Der Referentenentwurf eines BeschDG vom 08.10.2024
+    wollte § 26 BDSG aufheben und ersetzen; er ist mit dem Ende der 20. Wahlperiode der Diskontinuität
+    anheimgefallen. Ob die Bundesregierung der 21. Wahlperiode einen neuen Entwurf vorgelegt hat, ließ
+    sich nicht abschließend klären — es gibt Hinweise auf einen "neuen Referentenentwurf", aber keinen
+    belastbaren Nachweis. Widersprüchliche Quellenlage.
+
+    '
+  kurzbeschreibung: '§ 26 BDSG ist die deutsche Öffnungsklausel-Norm für die Verarbeitung von Beschäftigtendaten.
+    Beim KI-Einsatz im Arbeitsverhältnis (Bewerber-Screening, Leistungsanalyse, People Analytics, automatisierte
+    Kündigungsvorbereitung) ist sie neben Art. 22 DSGVO die zentrale Rechtsgrundlage. Der Entwurf eines
+    BeschDG sah in § 10 erhöhte Prüf- und Transparenzpflichten beim Einsatz von KI-Systemen gegenüber
+    Beschäftigten vor und wäre die erste ausdrückliche deutsche Regelung des KI-Einsatzes im Beschäftigungsverhältnis
+    gewesen. Sanktion bleibt der Bußgeldrahmen des Art. 83 DSGVO sowie Schadensersatz nach Art. 82 DSGVO.
+
+    '
+  inkrafttreten:
+    datum: 2018-05-25
+    verifiziert: true
+    quelle: https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html
+    fundstelle_norm: 'Art. 8 Abs. 1 DSAnpUG-EU vom 30.06.2017 (BGBl. I S. 2097); amtliche Fußnote zum
+      BDSG auf gesetze-im-internet.de: "(+++ Textnachweis ab: 25.5.2018 +++)". § 26 BDSG gilt seither
+      unverändert fort.'
+  anwendungsdaten:
+  - datum: 2023-03-30
+    was_gilt: 'EuGH C-34/21: § 23 Abs. 1 Satz 1 HDSIG und wortgleiche Normen wie § 26 Abs. 1 BDSG genügen
+      Art. 88 Abs. 2 DSGVO nicht.'
+    verifiziert: false
+    quelle: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
+  - datum: 2024-10-08
+    was_gilt: Referentenentwurf BeschDG von BMI und BMAS; Aufhebung des § 26 BDSG vorgesehen, § 10 BeschDG-E
+      zu KI-Einsatz.
+    verifiziert: true
+    quelle: https://www.activemind.legal/de/guides/beschaeftigtendatenschutzgesetz/
+  - datum: 2025-03-25
+    was_gilt: Diskontinuität mit dem Ende der 20. Wahlperiode; kein Kabinettbeschluss zum BeschDG erfolgt.
+    verifiziert: false
+    quelle: https://www.activemind.legal/de/guides/beschaeftigtendatenschutzgesetz/
+  themenachsen:
+  - datenschutz
+  - arbeit
+  - grundrechte
+  regelungsschwerpunkte:
+  - '§ 26 Abs. 1 BDSG: Verarbeitung, soweit für Begründung, Durchführung oder Beendigung des Beschäftigungsverhältnisses
+    erforderlich. Nach EuGH C-34/21 als bloße Wiederholung des Art. 6 Abs. 1 lit. b DSGVO unionsrechtswidrig,
+    soweit keine spezifischen Schutzmaßnahmen normiert sind. Praktische Folge: unmittelbarer Rückgriff
+    auf Art. 6 DSGVO.'
+  - '§ 10 BeschDG-E: gesteigerte Prüf- und Transparenzpflichten beim Einsatz von KI-Systemen gegenüber
+    Beschäftigten — der Kern der KI-Relevanz des Vorhabens.'
+  - Art. 22 DSGVO bleibt die Schranke für vollautomatisierte Entscheidungen mit rechtlicher Wirkung oder
+    ähnlich erheblicher Beeinträchtigung (Bewerberauswahl, Kündigung, Beförderung). Beim KI-gestützten
+    Screening ist entscheidend, ob eine menschliche Letztentscheidung substanziell ist oder nur formal.
+  - Anhang III Nr. 4 KI-VO stuft KI-Systeme für Einstellung, Auswahl, Beförderung, Kündigung, Aufgabenzuweisung
+    und Leistungsüberwachung als Hochrisiko ein — die Hochrisiko-Pflichten gelten nach der Änderung durch
+    VO (EU) 2026/1744 erst ab 02.12.2027.
+  - 'Art. 26 Abs. 7 KI-VO: Betreiber, die Hochrisiko-KI am Arbeitsplatz einsetzen, müssen die betroffenen
+    Beschäftigten und ihre Vertretungen vorab informieren. Das ist eine unionsrechtliche Informationspflicht
+    neben § 90 BetrVG.'
+  - 'BAG, Urt. v. 08.05.2025 – 8 AZR 209/21: Bestätigung der Anwendung der DSGVO auf Beschäftigtendaten.'
+  dokumente:
+  - datum: 2024-12-12
+    typ: uebersicht
+    titel: 'Beschäftigtendatengesetz: Das sieht der Referentenentwurf vor'
+    url: https://www.activemind.legal/de/guides/beschaeftigtendatenschutzgesetz/
+    sprache: de
+    urheber: activeMind.legal
+    verifiziert: true
+    notiz: Beleg für Datum des Referentenentwurfs, § 10 BeschDG-E zu KI und die geplante Aufhebung des
+      § 26 BDSG.
+  - datum: 2026-02-01
+    typ: leitlinie
+    titel: Bitkom-Leitfaden Künstliche Intelligenz und Mitbestimmung
+    url: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
+    sprache: de
+    urheber: Bitkom e.V.
+    verifiziert: true
+    notiz: Enthält die Rechtsprechungsübersicht (EuGH C-34/21, BAG 8 AZR 209/21, EuGH C-65/23) zum Beschäftigtendatenschutz
+      bei KI.
+  offene_punkte:
+  - 'WIDERSPRÜCHLICH: Ob in der 21. Wahlperiode ein neuer Referentenentwurf eines BeschDG existiert, ist
+    unklar. Es gibt Sekundärhinweise auf einen ''neuen Referentenentwurf'', aber kein amtliches Verfahrensdokument.
+    Zu prüfen bei BMI und BMAS.'
+  - Solange § 26 Abs. 1 BDSG unionsrechtswidrig ist, fehlt eine belastbare nationale Rechtsgrundlage für
+    KI-gestützte Beschäftigtenanalysen.
+  - Ob Betriebsvereinbarungen als 'spezifischere Vorschriften' im Sinne des Art. 88 DSGVO taugen, ist
+    nach EuGH C-65/23 (19.12.2024) nur eingeschränkt möglich — sie müssen die Mindeststandards der DSGVO
+    einhalten.
+  - 'Statuskorrektur 05.09.2026: Status von "entwurf" auf "anwendbar" geändert — § 26 BDSG ist seit 25.05.2018
+    in Kraft und wird angewandt; der Referentenentwurf des BeschDG ist mit dem Ende der 20. Wahlperiode
+    der Diskontinuität anheimgefallen und deshalb kein eigener Rechtsetzungsstand des Regelwerks mehr.'
+  monitoring_quellen:
+  - https://www.bmi.bund.de/DE/themen/it-und-digitalpolitik/datenschutz/datenschutz-node.html
+  - https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/gesetze-und-gesetzesvorhaben.html
+  - https://www.bfdi.bund.de/
+  bezug_regelwerke:
+  - de-betrvg-ki-mitbestimmung
+  - ki-vo-2024-1689
+  - de-bdsg-scoring
+  letzte_pruefung: 2026-09-05
+- id: de-betrvg-ki-mitbestimmung
+  jurisdiktion: de
+  kurztitel: Betriebliche Mitbestimmung beim KI-Einsatz (BetrVG)
+  offizieller_titel: '§§ 80 Abs. 3, 87 Abs. 1 Nr. 6, 90, 95 Abs. 2a Betriebsverfassungsgesetz in der Fassung
+    des Betriebsrätemodernisierungsgesetzes vom 14. Juni 2021
+
+    '
+  fundstelle: BGBl. I 2021 S. 1762 (Betriebsrätemodernisierungsgesetz)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Die KI-spezifischen Ergänzungen des BetrVG gelten seit dem 18.06.2021. Es gibt bislang
+    keine höchstrichterliche BAG-Entscheidung, die ausdrücklich den Einsatz generativer KI unter § 87
+    Abs. 1 Nr. 6 BetrVG fasst; maßgeblich ist weiterhin ArbG Hamburg, Beschl. v. 16.01.2024 – 24 BVGa
+    1/24 (ChatGPT ohne Arbeitgeberzugriff nicht mitbestimmungspflichtig). Sekundärquellen behaupten für
+    2026 eine verschärfende BAG-Rechtsprechung; ein Aktenzeichen ließ sich nicht verifizieren.
+
+    '
+  kurzbeschreibung: 'Das BetrVG enthält seit 2021 drei ausdrückliche KI-Bezüge: § 80 Abs. 3 Satz 2 fingiert
+    die Erforderlichkeit eines Sachverständigen, wenn der Betriebsrat die Einführung oder Anwendung von
+    KI zu beurteilen hat; § 90 Abs. 1 Nr. 3 erstreckt die Unterrichtungs- und Beratungspflicht auf Arbeitsverfahren
+    und Arbeitsabläufe einschließlich KI; § 95 Abs. 2a stellt klar, dass Auswahlrichtlinien auch dann
+    mitbestimmt sind, wenn sie ausschließlich oder mit Hilfe von KI erstellt werden. Praktisch am wichtigsten
+    bleibt § 87 Abs. 1 Nr. 6 BetrVG: technische Einrichtungen, die zur Überwachung von Verhalten oder
+    Leistung objektiv geeignet sind, sind erzwingbar mitbestimmt — auf eine Überwachungsabsicht kommt
+    es nicht an. Rechtsfolge fehlender Mitbestimmung ist ein Unterlassungsanspruch und ein arbeitsrechtliches
+    Verwertungsverbot.
+
+    '
+  inkrafttreten:
+    datum: 2021-06-18
+    verifiziert: true
+    quelle: https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/betriebsraetemodernisierungsgesetz.html
+    fundstelle_norm: 'Art. 3 Betriebsrätemodernisierungsgesetz: "Dieses Gesetz tritt am Tag nach der Verkündung
+      in Kraft." (Wortlaut nachgewiesen in BT-Drs. 19/28899). Verkündung am 17.06.2021, BGBl. I 2021 S.
+      1762 (Angabe des BMAS) — daher Inkrafttreten am 18.06.2021.'
+  anwendungsdaten:
+  - datum: 2024-01-16
+    was_gilt: 'ArbG Hamburg, Beschl. v. 16.01.2024 – 24 BVGa 1/24: Die bloße Erlaubnis, ChatGPT über private
+      Accounts zu nutzen, ist mitbestimmungsfrei, wenn der Arbeitgeber keine eigene KI-Infrastruktur betreibt
+      und keinen Zugriff auf Nutzungsdaten hat.'
+    verifiziert: true
+    quelle: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
+  - datum: 2024-12-05
+    was_gilt: 'LAG Hessen, Beschl. v. 05.12.2024 – 5 TaBV 4/24: Datenschutzrechtliche Fragen unterliegen
+      nicht der erzwingbaren Mitbestimmung nach § 87 Abs. 1 Nr. 6 BetrVG.'
+    verifiziert: true
+    quelle: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
+  themenachsen:
+  - arbeit
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - '§ 87 Abs. 1 Nr. 6 BetrVG: objektive Eignung zur Verhaltens- oder Leistungsüberwachung genügt. Für
+    KI-Systeme mit serverseitigem Logging, Prompt-Historie oder Nutzungsauswertung ist die Mitbestimmung
+    damit praktisch immer eröffnet; die Hamburger Entscheidung betrifft den Sonderfall der Nutzung über
+    private Accounts ohne Arbeitgeberzugriff.'
+  - '§ 80 Abs. 3 Satz 2 BetrVG: Bei der Einführung oder Anwendung von KI gilt die Hinzuziehung eines Sachverständigen
+    als erforderlich — ohne die sonst notwendige Erforderlichkeitsprüfung. Der Betriebsrat muss sich nicht
+    auf eigene KI-Kenntnisse verweisen lassen. In der Gesetzesbegleitdokumentation wird ein Verhandlungsanhaltswert
+    von 833 EUR Tagessatz genannt.'
+  - '§ 90 Abs. 1 Nr. 3 BetrVG: rechtzeitige Unterrichtung über die Planung von Arbeitsverfahren und -abläufen
+    einschließlich KI, mit den erforderlichen Unterlagen, und Beratung. Vor der Einführung, nicht danach.'
+  - '§ 95 Abs. 2a BetrVG: Mitbestimmung bei Auswahlrichtlinien gilt auch, wenn diese ausschließlich oder
+    mit Hilfe von KI erstellt werden (Einstellung, Versetzung, Umgruppierung, Kündigung).'
+  - Flankierend Art. 26 Abs. 7 KI-VO (Informationspflicht gegenüber Arbeitnehmervertretungen) und Art.
+    4 KI-VO (KI-Kompetenz, seit 02.02.2025) — Letzteres begründet Schulungsansprüche, die über § 37 Abs.
+    6 BetrVG auch den Betriebsrat erfassen.
+  - 'Typische Regelungsgegenstände einer KI-Betriebsvereinbarung: zugelassene Systeme, Zweckbindung, Verbot
+    der Leistungs- und Verhaltenskontrolle, Protokollierung und Löschfristen, Human-in-the-Loop bei personellen
+    Maßnahmen, Schulung, Änderungsverfahren bei Modellwechsel.'
+  dokumente:
+  - datum: 2026-02-01
+    typ: leitlinie
+    titel: Bitkom-Leitfaden Künstliche Intelligenz und Mitbestimmung
+    url: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
+    sprache: de
+    urheber: Bitkom e.V.
+    verifiziert: true
+    notiz: Systematische Darstellung der Mitbestimmungstatbestände mit Rechtsprechungsnachweisen; Arbeitgeberperspektive.
+  - datum: 2026-04-17
+    typ: bericht
+    titel: Mitbestimmung des Betriebsrats bei KI-Nutzung (ChatGPT)
+    url: https://www.arbrb.de/blog/2026/04/17/mitbestimmung-des-betriebsrats-bei-ki-nutzung-chatgpt/
+    sprache: de
+    urheber: Arbeits-Rechtsberater (ArbRB-Blog)
+    verifiziert: true
+    notiz: Bestätigt, dass zum Stand April 2026 keine BAG- oder LAG-Entscheidung speziell zu generativer
+      KI und § 87 Abs. 1 Nr. 6 BetrVG vorliegt.
+  offene_punkte:
+  - 'WIDERSPRÜCHLICH: Mehrere Sekundärquellen behaupten für 2026 ein BAG-Urteil, das die Mitbestimmung
+    bei ''praktisch jeder KI'' begründe. Ein Aktenzeichen konnte nicht verifiziert werden; die Quellen
+    wirken automatisiert erstellt. Nicht übernehmen ohne Primärnachweis.'
+  - Das BAG-Verfahren zu Headset-Systemen (§ 87 Abs. 1 Nr. 6 BetrVG) wird in mehreren Quellen als 'Headset-Urteil'
+    geführt; das nachweisbare Aktenzeichen ist 1 ABR 16/23, das Verhältnis zu KI ist nur mittelbar. Genaues
+    Datum nicht verifiziert.
+  - Ob § 80 Abs. 3 Satz 2 BetrVG auch für die laufende Überwachung eines eingeführten KI-Systems gilt
+    oder nur für die Einführungsentscheidung, ist streitig.
+  monitoring_quellen:
+  - https://www.bundesarbeitsgericht.de/entscheidungen/
+  - https://www.bitkom.org/Themen/Kuenstliche-Intelligenz
+  - https://www.arbrb.de/blog/
+  bezug_regelwerke:
+  - de-beschaeftigtendatenschutz-ki
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: de-bdsg-scoring
+  jurisdiktion: de
+  kurztitel: Scoring und automatisierte Entscheidungen (§ 31 BDSG, § 37a BDSG-E, SCHUFA-Rechtsprechung)
+  offizieller_titel: '§ 31 Bundesdatenschutzgesetz (Schutz des Wirtschaftsverkehrs bei Scoring und Bonitätsauskünften);
+    § 37a BDSG-E (Scoring) im Entwurf eines Ersten Gesetzes zur Änderung des Bundesdatenschutzgesetzes
+
+    '
+  fundstelle: '§ 31 BDSG: BGBl. I 2017 S. 2097; § 37a BDSG-E: nicht verkündet'
+  verfahrensnummer: BT-Drs. 20/10859 (Regierungsentwurf, 27.03.2024)
+  status: entwurf
+  status_detail: 'WIDERSPRÜCHLICHE QUELLENLAGE. Der Regierungsentwurf eines Ersten Gesetzes zur Änderung
+    des BDSG (BT-Drs. 20/10859 vom 27.03.2024) enthielt § 37a BDSG-E als erste ausdrückliche nationale
+    Rechtsgrundlage für Scoring nach EuGH C-634/21. Ein Teil der Sekundärliteratur meldet, die Norm sei
+    in Kraft (Verweise auf eine Fassung mit Stand 20.11.2026 und eine Umsetzungsfrist 30.06.2026), ein
+    anderer Teil hält ausdrücklich fest, § 37a BDSG sei "noch nicht in Kraft getreten". Ein Abruf der
+    Norm bei dejure.org lieferte 404 — ein Indiz dafür, dass sie noch nicht gilt. Ohne Einsicht in das
+    BGBl nicht auflösbar; hier als `entwurf` geführt.
+
+    '
+  kurzbeschreibung: 'Scoring ist der praktisch bedeutsamste Anwendungsfall automatisierter Entscheidungsfindung
+    in Deutschland und der Testfall für Art. 22 DSGVO. Der EuGH hat mit Urt. v. 07.12.2023 – C-634/21
+    (SCHUFA Holding) entschieden, dass bereits die Errechnung eines Wahrscheinlichkeitswerts eine automatisierte
+    Entscheidung im Sinne des Art. 22 Abs. 1 DSGVO ist, wenn Dritte maßgeblich auf ihn abstellen. Der
+    BGH klärt derzeit, wie weit der Auskunftsanspruch nach Art. 15 Abs. 1 lit. h DSGVO über die Logik
+    des Scorings reicht (I ZR 226/25 bis I ZR 230/25, Verhandlung 18.06.2026, Verkündung angekündigt für
+    21.10.2026). § 37a BDSG-E soll Scoring national legitimieren und zugleich begrenzen.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2023-12-07
+    was_gilt: 'EuGH C-634/21 (SCHUFA Holding): Errechnung eines Score-Werts ist automatisierte Einzelentscheidung
+      nach Art. 22 DSGVO, wenn der Dritte maßgeblich darauf abstellt; grundsätzlich verboten ohne Rechtsgrundlage
+      oder ausdrückliche Einwilligung.'
+    verifiziert: true
+    quelle: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026052.html
+  - datum: 2024-03-27
+    was_gilt: Regierungsentwurf eines Ersten Gesetzes zur Änderung des BDSG (BT-Drs. 20/10859) mit § 37a
+      BDSG-E und § 16a BDSG-E (Institutionalisierung der DSK).
+    verifiziert: true
+    quelle: https://dserver.bundestag.de/btd/20/108/2010859.pdf
+  - datum: 2025-05-13
+    was_gilt: 'BGH, Urt. v. 13.05.2025 – VI ZR 67/23: immaterieller Schadensersatz bei voreiliger SCHUFA-Meldung.'
+    verifiziert: false
+    quelle: https://curia.europa.eu/site/jcms/p1_1000067266/de/bundesgerichtshof-urteil-vom-13-mai-2025-vi-zr-67/23
+  - datum: 2025-12-18
+    was_gilt: 'BGH, Urt. v. 18.12.2025 – I ZR 97/25: Bestätigung der SCHUFA-Praxis bei der Speicherung
+      von Daten über Zahlungsausfälle.'
+    verifiziert: false
+    quelle: https://curia.europa.eu/site/jcms/p1_1000081705/el/bundesgerichtshof-urteil-vom-18-dezember-2025-i-zr-97/25
+  - datum: 2026-06-18
+    was_gilt: BGH, Verhandlung I ZR 226/25 bis I ZR 230/25 zum Umfang des Auskunftsanspruchs über die
+      Score-Logik.
+    verifiziert: true
+    quelle: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026052.html
+  - datum: 2026-10-21
+    was_gilt: Angekündigter Verkündungstermin des BGH in den Verfahren I ZR 226/25 bis I ZR 230/25.
+    verifiziert: false
+    quelle: https://www.lto.de/recht/hintergruende/h/bgh-izr22725-izr23025-schufa-score-auskunftsanspruch
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-finanz
+  - governance
+  regelungsschwerpunkte:
+  - '§ 37a BDSG-E: erste ausdrückliche nationale Rechtsgrundlage für automatisierte Bonitäts- und Wahrscheinlichkeitsbewertungen.
+    Vorgesehen sind: nachweisbare statistische Relevanz der verwendeten Merkmale, Verbot besonderer Kategorien
+    personenbezogener Daten nach Art. 9 DSGVO, Auskunft über die wesentlichen Faktoren, Einschränkung
+    der Verwendung von Anschriftendaten (Geo-Scoring).'
+  - '§ 16a BDSG-E: gesetzliche Verankerung der Datenschutzkonferenz. Eine Regelung zur Bindungswirkung
+    der DSK-Beschlüsse wurde wegen verfassungsrechtlicher Bedenken (Mischverwaltung) nicht aufgenommen
+    — DSK-Beschlüsse bleiben rechtlich unverbindlich.'
+  - 'BGH I ZR 226/25 bis I ZR 230/25: Kernfrage ist, ob Art. 15 Abs. 1 lit. h DSGVO einen Anspruch auf
+    Offenlegung der am stärksten gewichteten Score-Kriterien, der Prognosegüte und der einbezogenen Daten
+    gibt — und ob dieser Anspruch schon bei bloßer Score-Berechnung besteht oder erst bei tatsächlicher
+    Vertragsablehnung. Das Berufungsgericht (OLG Dresden) hatte weitgehend zugunsten der Betroffenen entschieden;
+    der Senat hat in der Verhandlung eine Aufhebung angedeutet.'
+  - EuGH C-203/22 (Dun & Bradstreet Austria, Urt. v. 27.02.2025) verlangt eine Erläuterung des Verfahrens
+    und der Grundsätze in verständlicher Form — nicht die Offenlegung des Algorithmus. Die deutsche Linie
+    muss sich daran messen lassen.
+  - 'Relevanz für KI: Scoring ist der Fall, an dem sich die Reichweite von Art. 22 DSGVO und die Transparenzanforderungen
+    an intransparente Modelle entscheiden. Die Antworten strahlen auf jede risikobasierte KI-Anwendung
+    aus, die eine Person bewertet — Kreditvergabe, Versicherung, Betrugserkennung, Personalauswahl.'
+  - Anhang III Nr. 5 lit. b KI-VO stuft KI-Systeme zur Bewertung der Kreditwürdigkeit natürlicher Personen
+    als Hochrisiko ein; die BaFin ist insoweit sektorale Marktüberwachungsbehörde.
+  dokumente:
+  - datum: 2026-03-20
+    typ: pressemitteilung
+    titel: Verhandlungstermin am 18. Juni 2026 in Sachen I ZR 226/25 bis I ZR 230/25 (Auskunftsanspruch
+      gegen Wirtschaftsauskunftei)
+    url: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026052.html
+    sprache: de
+    urheber: Bundesgerichtshof
+    verifiziert: true
+    notiz: Amtliche Darstellung von Streitgegenstand, Vorinstanzen und Rechtsfragen.
+  - datum: 2024-03-27
+    typ: entwurf
+    titel: Entwurf eines Ersten Gesetzes zur Änderung des Bundesdatenschutzgesetzes (BT-Drs. 20/10859)
+    url: https://dserver.bundestag.de/btd/20/108/2010859.pdf
+    sprache: de
+    urheber: Bundesregierung / Deutscher Bundestag
+    verifiziert: false
+    notiz: URL aus Suchtreffer; enthält § 37a BDSG-E und § 16a BDSG-E.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: 'Gesetzgebungsverfahren: Erstes Gesetz zur Änderung des Bundesdatenschutzgesetzes'
+    url: https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/aendg_bdsg.html
+    sprache: de
+    urheber: Bundesministerium des Innern
+    verifiziert: true
+    notiz: Amtliche Verfahrensakte. Führt Referentenentwurf 09.08.2023 und Regierungsentwurf 07.02.2024;
+      ein Verkündungsdatum ist dort nicht ausgewiesen.
+  offene_punkte:
+  - 'WIDERSPRUCH: Ist § 37a BDSG in Kraft? Sekundärquellen behaupten Geltung (teils mit Fassungsstand
+    20.11.2026, teils mit Umsetzungsfrist 30.06.2026), andere verneinen sie ausdrücklich. Auflösung nur
+    über das Bundesgesetzblatt möglich — recht.bund.de blockiert automatisierte Abrufe.'
+  - Verkündungstermin des BGH am 21.10.2026 nur über LTO belegt, nicht über eine BGH-Terminmitteilung.
+  - BGH VI ZR 67/23 (13.05.2025) und I ZR 97/25 (18.12.2025) sind über curia.europa.eu als deutsche Entscheidungen
+    nachgewiesen, ihr Inhalt aber nicht aus der Primärquelle geprüft.
+  - 'Widerspruch aufgelöst (05.09.2026): § 37a BDSG existiert nicht. Die amtliche Inhaltsübersicht des
+    BDSG auf gesetze-im-internet.de führt § 36, § 37, § 38 ohne Zwischennorm; https://www.gesetze-im-internet.de/bdsg_2018/__37a.html
+    liefert "Not Found". Das Erste Gesetz zur Änderung des BDSG (BT-Drs. 20/10859) ist damit nicht verkündet;
+    die anderslautenden Sekundärquellen sind falsch. Kein Inkrafttretensdatum einzutragen.'
+  monitoring_quellen:
+  - https://www.bundesgerichtshof.de/DE/Presse/Terminhinweise/TerminhinweiseVolltextuebersicht/terminhinweise_volltextuebersicht_node.html
+  - https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/aendg_bdsg.html
+  - https://www.datenschutzkonferenz-online.de/
+  bezug_regelwerke:
+  - de-dsk-ki-leitlinien
+  - de-beschaeftigtendatenschutz-ki
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: de-dsk-ki-leitlinien
+  jurisdiktion: de
+  kurztitel: DSK-Orientierungshilfen zu KI und BfDI-Positionen
+  offizieller_titel: 'Orientierungshilfen der Konferenz der unabhängigen Datenschutzaufsichtsbehörden
+    des Bundes und der Länder (DSK) zu Künstlicher Intelligenz sowie Konsultationsverfahren und Positionspapiere
+    der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (BfDI)
+
+    '
+  fundstelle: Keine amtliche Fundstelle — Verwaltungsverlautbarungen ohne Rechtsnormqualität
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Drei DSK-Orientierungshilfen zu KI liegen vor (06.05.2024, Juni 2025, Oktober 2025),
+    dazu ein abgeschlossenes BfDI-Konsultationsverfahren zu KI-Modellen und personenbezogenen Daten (10.07.
+    bis 31.08.2025) mit Auswertungsbericht. Keine Bindungswirkung; § 16a BDSG-E hätte die DSK institutionalisiert,
+    ohne ihre Beschlüsse verbindlich zu machen. Faktisch bestimmen die Papiere die Prüfmaßstäbe der deutschen
+    Aufsichtsbehörden.
+
+    '
+  kurzbeschreibung: 'Die deutschen Datenschutzaufsichtsbehörden haben ihre Erwartungen an KI-Systeme in
+    drei Stufen konkretisiert: eine allgemeine Orientierungshilfe zu Auswahl und Einsatz von KI-Anwendungen
+    (2024), eine Handreichung zu technischen und organisatorischen Maßnahmen bei Entwicklung und Betrieb
+    (2025) und eine Spezialbetrachtung zu RAG-Architekturen (2025). Die BfDI hat parallel die Frage konsultiert,
+    ob und wann trainierte Modelle selbst personenbezogene Daten enthalten — die Streitfrage hinter Löschungs-
+    und Auskunftsansprüchen gegen Modellanbieter. Adressaten sind Verantwortliche und Auftragsverarbeiter;
+    die Sanktion ergibt sich nicht aus den Papieren, sondern aus Art. 83 DSGVO.
+
+    '
+  inkrafttreten:
+    datum: 2024-05-06
+    verifiziert: true
+    quelle: https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
+  anwendungsdaten:
+  - datum: 2024-05-06
+    was_gilt: DSK-Orientierungshilfe 'Künstliche Intelligenz und Datenschutz' (Auswahl, Implementierung,
+      Nutzung von KI-Anwendungen, insbesondere LLM-basierten).
+    verifiziert: true
+    quelle: https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
+  - datum: 2025-06-01
+    was_gilt: DSK-Orientierungshilfe zu empfohlenen technischen und organisatorischen Maßnahmen bei Entwicklung
+      und Betrieb von KI-Systemen.
+    verifiziert: true
+    quelle: https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
+  - datum: 2025-10-01
+    was_gilt: DSK-Orientierungshilfe zu datenschutzrechtlichen Besonderheiten generativer KI-Systeme mit
+      RAG-Methode.
+    verifiziert: true
+    quelle: https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
+  - datum: 2025-08-31
+    was_gilt: Ende des BfDI-Konsultationsverfahrens 'KI-Modelle und personenbezogene Daten'; 30 Stellungnahmen
+      aus Wirtschaft, Wissenschaft, Zivilgesellschaft und öffentlichen Stellen; Auswertungsbericht veröffentlicht.
+    verifiziert: true
+    quelle: https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/KI-Modelle-pbD/KI-Modelle-pbD_node.html
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  - gpai
+  regelungsschwerpunkte:
+  - 'DSK-Orientierungshilfe 2024: Prüfraster für Verantwortliche — Zweckbestimmung, Rechtsgrundlage, Rolle
+    (Verantwortlicher/Auftragsverarbeiter), Umgang mit Eingaben in cloudbasierte LLM, Verbot der Eingabe
+    besonderer Kategorien ohne Rechtsgrundlage, Notwendigkeit menschlicher Letztentscheidung bei Art.
+    22 DSGVO.'
+  - 'DSK-Orientierungshilfe 2025 (TOM): technische und organisatorische Maßnahmen entlang des Lebenszyklus
+    — Datenminimierung im Training, Schutz vor Extraktionsangriffen, Protokollierung, Rollen- und Rechtekonzepte,
+    Löschkonzepte.'
+  - 'DSK-Orientierungshilfe RAG 2025: Retrieval-Augmented Generation wird eigenständig behandelt, weil
+    die Wissensbasis personenbezogene Daten enthält und Auskunfts- und Löschungsansprüche dort — anders
+    als im Modellgewicht — technisch erfüllbar sind.'
+  - 'BfDI-Konsultation ''KI-Modelle und personenbezogene Daten'' (10.07.–31.08.2025): Mehrheit der Stellungnahmen
+    hält Modellanonymität unter Bedingungen für möglich; Prompt-Eingaben gelten überwiegend erst dann
+    als Verarbeitung memorierter Daten, wenn diese in der Ausgabe erscheinen; für Löschung wird ein Vorgehen
+    auf Systemebene bevorzugt, weil Machine Unlearning als unzuverlässig gilt. Eine rein quantitative
+    Betrachtung der im Modell enthaltenen personenbezogenen Daten wird abgelehnt.'
+  - BfDI-Konsultation 'KI in Strafverfolgung und Gefahrenabwehr' (30.09.–17.12.2021) mit Positionspapier
+    und Auswertungsbericht — älteste der hier erfassten Positionierungen, weiterhin Referenz für Predictive
+    Policing und biometrische Fernidentifizierung.
+  - 'Zuständigkeitsverschränkung: Nach § 2 KI-MIG bleiben BfDI und Landesdatenschutzbehörden für Datenschutz
+    und für biometrische Systeme zuständig; Art. 74 Abs. 8 KI-VO weist ihnen zusätzlich die Marktüberwachung
+    für Hochrisiko-KI in Strafverfolgung, Grenzkontrolle, Justiz und Demokratie zu. Wie sich das zur KI-Marktüberwachungskammer
+    der Bundesnetzagentur verhält, ist ungeklärt.'
+  dokumente:
+  - datum: 2024-05-06
+    typ: leitlinie
+    titel: Orientierungshilfe der DSK zu Künstlicher Intelligenz und Datenschutz
+    url: https://www.datenschutzkonferenz-online.de/media/oh/20240506_DSK_Orientierungshilfe_KI_und_Datenschutz.pdf
+    sprache: de
+    urheber: Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder
+    verifiziert: true
+    notiz: Grundlagenpapier; von der DSK-Übersichtsseite verifiziert.
+  - datum: 2025-06-01
+    typ: leitlinie
+    titel: Orientierungshilfe zu empfohlenen technischen und organisatorischen Maßnahmen bei der Entwicklung
+      und beim Betrieb von KI-Systemen
+    url: https://www.datenschutzkonferenz-online.de/media/oh/DSK-OH_KI-Systeme.pdf
+    sprache: de
+    urheber: DSK
+    verifiziert: true
+    notiz: Technische Konkretisierung der Anforderungen aus Art. 24, 25, 32 DSGVO für KI.
+  - datum: 2025-10-01
+    typ: leitlinie
+    titel: Datenschutzrechtliche Besonderheiten generativer KI-Systeme mit RAG-Methode
+    url: https://www.datenschutzkonferenz-online.de/media/oh/DSK_OH_RAG.pdf
+    sprache: de
+    urheber: DSK
+    verifiziert: true
+    notiz: Bislang die einzige aufsichtsbehördliche Handreichung zu RAG in Deutschland.
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Orientierungshilfen der DSK (Übersichtsseite)
+    url: https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
+    sprache: de
+    urheber: DSK
+    verifiziert: true
+    notiz: Laufend aktualisierte Liste aller Orientierungshilfen mit Direktlinks.
+  - datum: 2025-08-31
+    typ: konsultation
+    titel: Konsultationsverfahren KI-Modelle und personenbezogene Daten
+    url: https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/KI-Modelle-pbD/KI-Modelle-pbD_node.html
+    sprache: de
+    urheber: Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+    verifiziert: true
+    notiz: Konsultationspapier, Auswertungsbericht und 30 Stellungnahmen — die maßgebliche deutsche Positionierung
+      zur Frage der Personenbezogenheit von Modellgewichten.
+  - datum: 2021-12-17
+    typ: konsultation
+    titel: Konsultationsverfahren KI in Strafverfolgung und Gefahrenabwehr
+    url: https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html
+    sprache: de
+    urheber: BfDI
+    verifiziert: true
+    notiz: Positionspapier und Auswertungsbericht; Referenz für Predictive Policing.
+  offene_punkte:
+  - Es gibt keinen DSK-Beschluss, der die Zuständigkeitsabgrenzung zur Bundesnetzagentur nach dem KI-MIG
+    regelt.
+  - Eine DSK-Entschließung zu Anpassungsbedarf der DSGVO im Hinblick auf KI ist über die DSK-Seite auffindbar
+    (DSK_Entschließung_DSGVO_KI_Anpassungen.pdf), Datum und Inhalt wurden nicht geprüft.
+  - Ob die BfDI aus dem Konsultationsergebnis eine verbindliche Aufsichtslinie zu Modellanonymität ableitet,
+    ist offen.
+  - Datumsangaben für die Orientierungshilfen 2025 nur monatsgenau belegt (Juni bzw. Oktober 2025).
+  monitoring_quellen:
+  - https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
+  - https://www.datenschutzkonferenz-online.de/beschluesse-zur-dsgvo.html
+  - https://www.bfdi.bund.de/
+  - https://www.datenschutz-berlin.de/infothek/publikationen-der-dsk/beschluesse/
+  bezug_regelwerke:
+  - de-bdsg-scoring
+  - de-beschaeftigtendatenschutz-ki
+  - ki-vo-2024-1689
+  - de-ki-vo-durchfuehrungsgesetz
+  letzte_pruefung: 2026-08-27
+- id: de-automatisierter-verwaltungsakt
+  jurisdiktion: de
+  kurztitel: Vollautomatisierter Verwaltungsakt (§ 35a VwVfG, § 155 Abs. 4 AO, § 31a SGB X)
+  offizieller_titel: '§ 35a Verwaltungsverfahrensgesetz, § 155 Absatz 4 Abgabenordnung, § 31a Zehntes
+    Buch Sozialgesetzbuch, eingefügt durch das Gesetz zur Modernisierung des Besteuerungsverfahrens vom
+    18. Juli 2016
+
+    '
+  fundstelle: BGBl. I 2016 S. 1679
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Seit 01.01.2017 unverändert in Kraft. Die Normen sind die einzige allgemeine deutsche
+    Rechtsgrundlage für vollautomatisierte Verwaltungsentscheidungen und stammen aus der Zeit vor generativer
+    KI. Ihre Tatbestandsvoraussetzungen — kein Ermessen, kein Beurteilungsspielraum, ausdrückliche fachgesetzliche
+    Zulassung — schließen den Einsatz lernender Systeme im Ergebnis weitgehend aus. Eine Anpassung an
+    die KI-VO ist nicht erfolgt.
+
+    '
+  kurzbeschreibung: '§ 35a VwVfG erlaubt den vollständig automatisierten Erlass eines Verwaltungsakts
+    nur, wenn dies durch Rechtsvorschrift zugelassen ist und weder ein Ermessen noch ein Beurteilungsspielraum
+    besteht. § 155 Abs. 4 AO regelt die vollautomatisierte Steuerfestsetzung mit Risikomanagementsystemen
+    und einem Aussteürungsvorbehalt, § 31a SGB X die Parallelvorschrift für die Sozialverwaltung mit dem
+    Zusatz, dass für den Einzelfall bedeutsame tatsächliche Angaben des Beteiligten zu berücksichtigen
+    sind. Adressaten sind Behörden aller Ebenen. Ein Verstoß führt zur Rechtswidrigkeit des Verwaltungsakts.
+
+    '
+  inkrafttreten:
+    datum: 2017-01-01
+    verifiziert: true
+    quelle: https://dejure.org/gesetze/VwVfG/35a.html
+  anwendungsdaten:
+  - datum: 2017-01-01
+    was_gilt: Anwendbarkeit von § 35a VwVfG, § 155 Abs. 4 AO und § 31a SGB X.
+    verifiziert: true
+    quelle: https://dejure.org/gesetze/SGB_X/31a.html
+  - datum: 2027-12-02
+    was_gilt: 'Anwendungsbeginn der Hochrisiko-Pflichten für Anhang-III-Systeme (nach VO (EU) 2026/1744
+      verschoben) — betrifft u.a. KI-Systeme in Strafverfolgung, Migration, Justiz und bei wesentlichen
+      öffentlichen Diensten und damit große Teile der Verwaltungsdigitalisierung.
+
+      '
+    verifiziert: false
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - '§ 35a VwVfG: ''Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen erlassen werden,
+    sofern dies durch Rechtsvorschrift zugelassen ist und weder ein Ermessen noch ein Beurteilungsspielraum
+    besteht.'' Doppelter Vorbehalt: fachgesetzliche Zulassung plus gebundene Entscheidung. Lernende Systeme,
+    deren Ergebnis nicht vollständig determiniert ist, passen dogmatisch nicht in diesen Rahmen.'
+  - '§ 155 Abs. 4 AO: vollautomatisierte Steuerfestsetzung. Praktisch die größte Anwendung automatisierter
+    Verwaltung in Deutschland; das Risikomanagementsystem nach § 88 Abs. 5 AO steuert Fälle zur personellen
+    Bearbeitung aus. Die Auswahlkriterien dürfen nach § 88 Abs. 5 Satz 4 AO nicht veröffentlicht werden
+    — ein struktureller Transparenzkonflikt mit Art. 86 KI-VO (Recht auf Erläuterung der Einzelfallentscheidung).'
+  - '§ 31a SGB X: enthält als einzige der drei Normen ausdrücklich die Pflicht, für den Einzelfall bedeutsame
+    tatsächliche Angaben des Beteiligten zu berücksichtigen, die im automatisierten Verfahren nicht ermittelt
+    würden.'
+  - 'Verhältnis zur KI-VO: Anhang III Nr. 5 lit. a (Zugang zu wesentlichen öffentlichen Diensten und Leistungen)
+    und Nr. 8 (Rechtspflege und demokratische Prozesse) machen viele Verwaltungsanwendungen zu Hochrisiko-KI.
+    Art. 26 Abs. 9 KI-VO verlangt für Behörden zusätzlich die Registrierung in der EU-Datenbank; Art.
+    27 KI-VO die Grundrechte-Folgenabschätzung — deren Unterlassung nach § 15 KI-MIG bußgeldbewehrt ist
+    (bis 50.000 EUR).'
+  - 'Verhältnis zu Art. 22 DSGVO: § 35a VwVfG ist zugleich die mitgliedstaatliche Rechtsgrundlage im Sinne
+    des Art. 22 Abs. 2 lit. b DSGVO — allerdings nur, soweit angemessene Schutzmaßnahmen bestehen.'
+  dokumente:
+  - datum: 2017-01-01
+    typ: norm
+    titel: § 35a VwVfG — Vollständig automatisierter Erlass eines Verwaltungsaktes
+    url: https://dejure.org/gesetze/VwVfG/35a.html
+    sprache: de
+    urheber: Bundesgesetzgeber / dejure.org
+    verifiziert: true
+    notiz: Wortlaut, Inkrafttreten 01.01.2017 und Einführungsgesetz (BGBl. I 2016 S. 1679) bestätigt.
+  - datum: 2017-01-01
+    typ: norm
+    titel: § 31a SGB X — Vollständig automatisierter Erlass eines Verwaltungsakts
+    url: https://dejure.org/gesetze/SGB_X/31a.html
+    sprache: de
+    urheber: Bundesgesetzgeber / dejure.org
+    verifiziert: true
+    notiz: Enthält die Pflicht zur Berücksichtigung einzelfallbedeutsamer Angaben des Beteiligten.
+  offene_punkte:
+  - § 155 Abs. 4 AO wurde nicht aus einer Primärquelle abgerufen; Inhalt aus Vorwissen.
+  - Keine Anpassung der §§ 35a VwVfG / 31a SGB X an die KI-VO in Sicht; der Gesetzgeber hat im KI-VO-Durchführungsgesetz
+    nur das SGB I geändert.
+  - Ungeklärt, ob ein KI-gestütztes Assistenzsystem, das eine gebundene Entscheidung vorbereitet, bereits
+    einen 'vollständig automatisierten' Erlass darstellt.
+  - Das Verhältnis der Geheimhaltung der Risikoparameter (§ 88 Abs. 5 Satz 4 AO) zu Art. 86 KI-VO ist
+    ungelöst.
+  monitoring_quellen:
+  - https://dejure.org/gesetze/VwVfG/35a.html
+  - https://www.bmi.bund.de/DE/themen/moderne-verwaltung/verwaltungsrecht/verwaltungsrecht-node.html
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-ki-vo-durchfuehrungsgesetz
+  - de-bdsg-scoring
+  letzte_pruefung: 2026-08-27
+- id: de-berufsrecht-ki
+  jurisdiktion: de
+  kurztitel: Anwaltliches Berufsrecht, RDG und KI
+  offizieller_titel: '§ 43e Bundesrechtsanwaltsordnung (Inanspruchnahme von Dienstleistungen); §§ 2, 3
+    Rechtsdienstleistungsgesetz in der Auslegung durch die Rechtsprechung des Bundesgerichtshofs zu Legal-Tech-Anwendungen
+
+    '
+  fundstelle: '§ 43e BRAO: BGBl. I 2017 S. 3618 (Gesetz zur Neuregelung des Schutzes von Geheimnissen
+    bei der Mitwirkung Dritter an der Berufsausübung schweigepflichtiger Personen)'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: '§ 43e BRAO gilt seit 09.11.2017 und ist die zentrale Norm für den Einsatz externer KI-Dienstleister
+    in der Anwaltschaft. Das RDG ist unverändert; die Grenzen automatisierter Rechtsdienstleistungen sind
+    durch BGH-Rechtsprechung markiert (I ZR 113/20 — smartlaw; VIII ZR 285/18 — wenigermiete.de). Ein
+    KI-spezifisches Berufsrecht existiert nicht; die KI-VO wirkt über Anhang III Nr. 8 (Rechtspflege)
+    nur auf Justizanwendungen, nicht auf anwaltliche Arbeitsmittel.
+
+    '
+  kurzbeschreibung: 'Für Anwältinnen und Anwälte, die KI-Werkzeuge einsetzen, sind zwei Regelungskomplexe
+    maßgeblich. § 43e BRAO verlangt die sorgfältige Auswahl des Dienstleisters, eine Vereinbarung in Textform
+    mit Verschwiegenheitsverpflichtung unter Hinweis auf die Strafbewehrung (§ 203 StGB), eine Beschränkung
+    des Zugangs zu fremden Geheimnissen auf das Erforderliche, Regelungen zur Unterbeauftragung sowie
+    bei Auslandsbezug einen vergleichbaren Geheimnisschutz; für mandatsbezogene Offenbarungen ist die
+    Einwilligung des Mandanten erforderlich. Das RDG begrenzt, wieweit Softwareanbieter selbst Rechtsdienstleistungen
+    erbringen dürfen. Verstöße gegen § 43e BRAO sind berufsrechtlich sanktioniert, Verstöße gegen das
+    RDG führen zur Nichtigkeit nach § 134 BGB und zu wettbewerbsrechtlichen Ansprüchen.
+
+    '
+  inkrafttreten:
+    datum: 2017-11-09
+    verifiziert: true
+    quelle: https://dejure.org/gesetze/BRAO/43e.html
+  anwendungsdaten:
+  - datum: 2017-11-09
+    was_gilt: § 43e BRAO anwendbar — Rahmen für Auslagerung an Dienstleister einschließlich Cloud- und
+      KI-Anbieter.
+    verifiziert: true
+    quelle: https://dejure.org/gesetze/BRAO/43e.html
+  - datum: 2021-09-09
+    was_gilt: 'BGH, Urt. v. 09.09.2021 – I ZR 113/20 (smartlaw): Ein digitaler Vertragsdokumentengenerator
+      ist keine unerlaubte Rechtsdienstleistung, weil es an einer konkreten fremden Angelegenheit und
+      an individueller Rechtsberatung fehlt.'
+    verifiziert: true
+    quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.09.2021&Aktenzeichen=I%20ZR%20113/20
+  themenachsen:
+  - berufsrecht
+  - vertrag
+  - datenschutz
+  regelungsschwerpunkte:
+  - '§ 43e Abs. 2 BRAO: Textformerfordernis für den Dienstleistungsvertrag, Verschwiegenheitsverpflichtung
+    mit Hinweis auf die strafrechtlichen Folgen, Beschränkung des Zugangs auf das für die Leistungserbringung
+    Erforderliche, ausdrückliche Regelung zulässiger Unterbeauftragung. Für SaaS-KI-Dienste bedeutet das:
+    Standard-AGB großer Anbieter genügen regelmäßig nicht ohne Zusatzvereinbarung.'
+  - '§ 43e Abs. 4 BRAO: Bei Dienstleistungen im Ausland ist zusätzlich zu prüfen, ob der Geheimnisschutz
+    dem inländischen vergleichbar ist. Für US-Cloud-Anbieter ist das der neuralgische Punkt.'
+  - '§ 43e Abs. 5 BRAO: Für die Offenbarung mandatsbezogener Geheimnisse ist die Einwilligung des Mandanten
+    erforderlich — beim Hochladen von Mandatsunterlagen in ein externes KI-System die entscheidende Hürde.'
+  - § 203 StGB flankiert strafrechtlich; § 203 Abs. 3 Satz 2 StGB privilegiert mitwirkende Personen, wenn
+    die Voraussetzungen des § 43e BRAO eingehalten sind.
+  - 'RDG-Grenze: BGH I ZR 113/20 (smartlaw) erlaubt schematische Dokumentgeneratoren, BGH VIII ZR 285/18
+    (wenigermiete.de) erlaubt Inkassodienstleistern die Durchsetzung von Ansprüchen. Für generative KI,
+    die individuelle Rechtsfragen beantwortet, ist die Abgrenzung offen — die Argumentation des BGH stellt
+    auf das Fehlen individueller Prüfung ab, was bei LLM-Ausgaben gerade nicht gegeben ist.'
+  - Art. 4 KI-VO (KI-Kompetenz, anwendbar seit 02.02.2025) trifft auch Kanzleien als Betreiber von KI-Systemen
+    und begründet eine Schulungsobliegenheit.
+  - 'Anhang III Nr. 8 lit. a KI-VO: KI-Systeme, die eine Justizbehörde bei der Ermittlung des Sachverhalts
+    und der Rechtsauslegung oder bei der Rechtsanwendung unterstützen, sind Hochrisiko-KI. Das betrifft
+    Gerichte, nicht Kanzleien.'
+  dokumente:
+  - datum: 2017-11-09
+    typ: norm
+    titel: § 43e BRAO — Inanspruchnahme von Dienstleistungen
+    url: https://dejure.org/gesetze/BRAO/43e.html
+    sprache: de
+    urheber: Bundesgesetzgeber / dejure.org
+    verifiziert: true
+    notiz: Wortlaut und Inkrafttreten bestätigt; einschlägig für Cloud- und KI-Auslagerung.
+  - datum: 2021-09-09
+    typ: bericht
+    titel: BGH, Urt. v. 09.09.2021 – I ZR 113/20 (smartlaw)
+    url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.09.2021&Aktenzeichen=I%20ZR%20113/20
+    sprache: de
+    urheber: dejure.org
+    verifiziert: true
+    notiz: Grundsatzentscheidung zur RDG-Grenze automatisierter Rechtsdokumentenerstellung; zitierte Normen
+      § 3a UWG, §§ 2 Abs. 1, 3 RDG.
+  offene_punkte:
+  - Keine aktuelle BRAK- oder DAV-Stellungnahme speziell zu KI im Anwaltsberuf über die BRAK-Website auffindbar
+    (Newsroom und Stellungnahmenarchiv geprüft, Stand 26.08.2026). Möglicherweise in den Jahresarchiven;
+    die Volltextsuche war nicht abrufbar.
+  - Offen, ob der Einsatz generativer KI zur Erstellung individueller Schriftsätze durch Nichtanwälte
+    eine Rechtsdienstleistung nach § 2 RDG darstellt. Keine höchstrichterliche Entscheidung.
+  - Keine berufsrechtliche Kennzeichnungspflicht für KI-erstellte anwaltliche Arbeitsergebnisse.
+  monitoring_quellen:
+  - https://www.brak.de/interessenvertretung/stellungnahmen-der-brak/
+  - https://www.brak.de/newsroom/
+  - https://anwaltverein.de/de/interessenvertretung/stellungnahmen
+  - https://www.bundesgerichtshof.de/
+  bezug_regelwerke:
+  - de-ki-justiz
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-08-27
+- id: de-ki-justiz
+  jurisdiktion: de
+  kurztitel: KI in der Justiz (Bund-Länder-Vorhaben)
+  offizieller_titel: 'Digitalisierungsinitiative für die Justiz und Vorhaben der Länder zum Einsatz künstlicher
+    Intelligenz in der Rechtspflege
+
+    '
+  fundstelle: Keine — kein Bundesgesetz zum KI-Einsatz in der Justiz nachweisbar
+  verfahrensnummer: null
+  status: idee
+  status_detail: 'SCHWACHE QUELLENLAGE. Ein Bundesgesetz oder ein veröffentlichter Referentenentwurf speziell
+    zum Einsatz von KI in der Justiz war nicht auffindbar. Das BMJV führt die Digitalisierung der Justiz
+    und die Digitalisierungsinitiative als Themen, ohne dort ein KI-Gesetzgebungsvorhaben auszuweisen.
+    Die praktische Entwicklung findet auf Länderebene in Pilotprojekten statt und wird fachpolitisch diskutiert
+    (u.a. Veranstaltungsreihe "Justiz im Dialog" des Deutschen Richterbundes). Dieser Eintrag ist bewusst
+    als Beobachtungsposten angelegt, nicht als belegtes Regelwerk.
+
+    '
+  kurzbeschreibung: 'Der Einsatz von KI in der deutschen Justiz bewegt sich in einem normativen Vakuum:
+    Es gibt keine dem § 35a VwVfG entsprechende Rechtsgrundlage für gerichtliche Entscheidungen, das Prinzip
+    des gesetzlichen Richters (Art. 101 Abs. 1 Satz 2 GG) und der Anspruch auf rechtliches Gehör (Art.
+    103 Abs. 1 GG) setzen enge Grenzen. Zugleich stuft Anhang III Nr. 8 lit. a KI-VO Systeme, die Justizbehörden
+    bei Sachverhaltsermittlung, Rechtsauslegung oder Rechtsanwendung unterstützen, als Hochrisiko-KI ein
+    — mit Anwendungsbeginn 02.12.2027. Die Länder erproben unterdessen Assistenzsysteme für Massenverfahren
+    und Aktenauswertung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.bmjv.de/DE/themen/digitales/digitalisierung_justiz/digitalisierung_justiz_node.html
+  anwendungsdaten:
+  - datum: 2027-12-02
+    was_gilt: 'Anwendungsbeginn der Hochrisiko-Pflichten für Anhang III Nr. 8 (Rechtspflege und demokratische
+      Prozesse) nach der durch VO (EU) 2026/1744 geänderten Fassung der KI-VO. Bis dahin muss geklärt
+      sein, wer Anbieter und wer Betreiber justizieller KI-Systeme ist.
+
+      '
+    verifiziert: false
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - berufsrecht
+  - governance
+  regelungsschwerpunkte:
+  - 'Verfassungsrechtlicher Rahmen: Art. 92 GG (rechtsprechende Gewalt den Richtern anvertraut), Art.
+    97 Abs. 1 GG (richterliche Unabhängigkeit), Art. 101 Abs. 1 Satz 2 GG (gesetzlicher Richter), Art.
+    103 Abs. 1 GG (rechtliches Gehör). Sie schließen eine KI-gestützte Entscheidungsfindung ohne substanzielle
+    richterliche Verantwortung aus; Assistenzsysteme zur Aktenstrukturierung und Recherche sind davon
+    nicht betroffen.'
+  - Anhang III Nr. 8 lit. a KI-VO erfasst Systeme, die Justizbehörden bei der Ermittlung und Auslegung
+    von Sachverhalten und Rechtsvorschriften und bei der Rechtsanwendung unterstützen — nicht rein administrative
+    Hilfsmittel. Erwägungsgrund 61 KI-VO nimmt Verwaltungstätigkeiten ohne Auswirkung auf die Rechtspflege
+    aus.
+  - Nach dem KI-MIG obliegt die Marktüberwachung im Justizbereich der unabhängigen KI-Marktüberwachungskammer
+    bei der Bundesnetzagentur; Art. 74 Abs. 8 KI-VO verlangt für Anhang III Nr. 8 eine unabhängige Behörde.
+  - Art. 27 KI-VO verlangt von Behörden als Betreibern eine Grundrechte-Folgenabschätzung; ihre Unterlassung
+    ist nach § 15 KI-MIG mit bis zu 50.000 EUR bußgeldbewehrt. Das trifft Justizverwaltungen unmittelbar.
+  - 'Länderprojekte (unverifiziert, aus Vorwissen): Assistenzsysteme für Massenverfahren an Oberlandesgerichten,
+    Strukturierung umfangreicher Verfahrensakten, Anonymisierung von Entscheidungen für Veröffentlichungsdatenbanken.
+    Namen, Träger und Stand sind hier nicht belegt und vor Übernahme zu prüfen.'
+  dokumente:
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Digitalisierung der Justiz (Themenseite)
+    url: https://www.bmjv.de/DE/themen/digitales/digitalisierung_justiz/digitalisierung_justiz_node.html
+    sprache: de
+    urheber: Bundesministerium der Justiz und für Verbraucherschutz
+    verifiziert: true
+    notiz: Belegt die Themenstruktur des BMJV; ein KI-Gesetzgebungsvorhaben für die Justiz ist dort nicht
+      ausgewiesen.
+  - datum: 2026-08-27
+    typ: bericht
+    titel: 'KI in der Justiz: Fluch und / oder Segen? (Justiz im Dialog, Potsdam)'
+    url: https://www.drb.de/newsroom/presse-mediencenter/nachrichten-auf-einen-blick/nachricht/news/ki-in-der-justiz-fluch-und-oder-segen
+    sprache: de
+    urheber: Deutscher Richterbund
+    verifiziert: false
+    notiz: Beleg für die fachpolitische Debatte; Datum der Veranstaltung nicht ausgewiesen.
+  offene_punkte:
+  - 'ZU PRÜFEN: Existenz und Stand eines Gesetzes bzw. Entwurfs zum Einsatz von KI in der Justiz. Nicht
+    auffindbar; das Suchbudget war erschöpft, bevor eine gezielte Recherche möglich war.'
+  - 'ZU PRÜFEN: Namen, Träger und Stand der Länderprojekte (u.a. OLG-Assistenzsysteme) sowie Beschlüsse
+    der Justizministerkonferenz zu KI.'
+  - 'Ungeklärt: Ist ein Gericht, das ein selbst entwickeltes Assistenzsystem einsetzt, Anbieter im Sinne
+    des Art. 3 Nr. 3 KI-VO — mit den vollen Hochrisiko-Pflichten?'
+  - Kein Verfahrensrecht zur Offenlegung KI-gestützter Vorarbeiten gegenüber den Verfahrensbeteiligten
+    (Art. 103 Abs. 1 GG).
+  monitoring_quellen:
+  - https://www.bmjv.de/DE/themen/digitales/digitalisierung_justiz/digitalisierung_justiz_node.html
+  - https://www.drb.de/newsroom
+  - https://www.bundestag.de/presse/hib
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-ki-vo-durchfuehrungsgesetz
+  - de-berufsrecht-ki
+  - de-automatisierter-verwaltungsakt
+  letzte_pruefung: 2026-08-27
+- id: de-deepfake-strafrecht
+  jurisdiktion: de
+  kurztitel: Deepfake-Strafbarkeit (§ 201b StGB-E) und Gesetz gegen digitale Gewalt
+  offizieller_titel: 'Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor
+    Deepfakes (Bundesratsinitiative); Referentenentwurf eines Gesetzes gegen digitale Gewalt (GgdG) des
+    Bundesministeriums der Justiz und für Verbraucherschutz
+
+    '
+  fundstelle: nicht verkündet
+  verfahrensnummer: BR-Drs. 222/24; BT-Drs. 20/12605 (20. WP); BT-Drs. 21/1383 vom 27.08.2025; RefE GgdG,
+    Bearbeitungsstand 16.04.2026; BT-Drs. 21/4949 (Bündnis 90/Die Grünen, § 184k StGB); BT-Drs. 21/6617
+    (Antwort der Bundesregierung vom 29.06.2026)
+  status: verfahren
+  status_detail: 'Zwei parallele Stränge. Der Bundesratsentwurf (Initiative Bayern, 2024) wurde nach Diskontinuität
+    zu Beginn der 21. Wahlperiode erneut eingebracht und am 27.08.2025 als BT-Drs. 21/1383 an den Bundestag
+    übersandt; er ist dort nicht abgeschlossen. Das BMJV hat am 17.04.2026 einen eigenen Referentenentwurf
+    eines Gesetzes gegen digitale Gewalt vorgestellt (Bearbeitungsstand 16.04.2026), der einen § 201b
+    StGB neu, eine Erweiterung des § 184k StGB und einen § 202e StGB vorsieht sowie zivilrechtliche Instrumente
+    (gerichtliches Auskunftsverfahren, Accountsperre) und eine dreimonatige IP-Speicherpflicht. Der Entwurf
+    befand sich in der Länder- und Verbändebeteiligung; ein Kabinettbeschluss war für dieselbe Woche geplant,
+    ist aber nicht belegt. Stand 27.08.2026 keine Verkündung.
+
+    Stand 07.09.2026: Nach der Antwort der Bundesregierung vom 29.06.2026 (BT-Drs. 21/6617 auf die Kleine
+    Anfrage BT-Drs. 21/6286) war der Entwurf eines Gesetzes gegen digitale Gewalt zu diesem Zeitpunkt
+    weiterhin Referentenentwurf; das BMJV hatte ihn am 17.04.2026 veröffentlicht und die Länder- und Verbändebeteiligung
+    eingeleitet. Ein Kabinettbeschluss ist bis 07.09.2026 nicht belegt. Dritter, bislang nicht erfasster
+    Strang: Am 26.03.2026 (KW 13) fand die erste Lesung des Gesetzentwurfs von Bündnis 90/Die Grünen zur
+    Änderung des § 184k StGB statt (BT-Drs. 21/4949, bildbasierte sexualisierte Gewalt einschließlich
+    deepfake-generierter Darstellungen); der Entwurf wurde an die Ausschüsse überwiesen. Zum Bundesratsentwurf
+    BT-Drs. 21/1383 ist kein neuer Verfahrensschritt nachweisbar.
+
+    '
+  kurzbeschreibung: 'Deutschland hat bislang keinen eigenständigen Straftatbestand für Deepfakes. Erfasst
+    werden Einzelfälle über §§ 184b, 184c StGB, § 187 StGB (Verleumdung), § 201a StGB und § 33 KUG. Beide
+    Entwürfe wollen diese Lücke schließen. Der Bundesratsentwurf stellt das Zugänglichmachen computertechnisch
+    hergestellter oder veränderter Medieninhalte, die den Anschein einer wirklichkeitsgetreuen Bild- oder
+    Tonaufnahme erwecken, unter Strafe (Grundtatbestand bis zwei Jahre, Qualifikation bei Öffentlichkeitszugang
+    oder Betroffenheit des höchstpersönlichen Lebensbereichs bis fünf Jahre), mit Ausnahmen für Kunst,
+    Wissenschaft und Berichterstattung. Der BMJV-Entwurf setzt bei der Rufschädigungseignung an und ergänzt
+    § 184k StGB um sexualisierte Deepfakes. Adressaten sind natürliche Personen; flankierend treten Plattformpflichten
+    aus dem DSA und die Kennzeichnungspflicht aus Art. 50 KI-VO hinzu.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0417_Gesetz_gegen_digitale_Gewalt.html
+  anwendungsdaten:
+  - datum: 2024-05-01
+    was_gilt: Bundesratsentwurf BR-Drs. 222/24 (Initiative des Freistaats Bayern) zum strafrechtlichen
+      Schutz von Persönlichkeitsrechten vor Deepfakes.
+    verifiziert: true
+    quelle: https://kripoz.de/2025/12/01/strafrechtlicher-persoenlichkeitsschutz-vor-deepfakes/
+  - datum: 2025-08-27
+    was_gilt: Erneute Übersendung des Bundesratsentwurfs an den Bundestag in der 21. Wahlperiode (BT-Drs.
+      21/1383).
+    verifiziert: true
+    quelle: https://dserver.bundestag.de/btd/21/013/2101383.pdf
+  - datum: 2026-04-17
+    was_gilt: BMJV stellt Referentenentwurf eines Gesetzes gegen digitale Gewalt vor (Bearbeitungsstand
+      16.04.2026); Länder- und Verbändebeteiligung.
+    verifiziert: true
+    quelle: https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0417_Gesetz_gegen_digitale_Gewalt.html
+  - datum: 2026-12-02
+    was_gilt: 'Auf EU-Ebene treten die durch VO (EU) 2026/1744 eingefügten Verbotstatbestände des Art.
+      5 Abs. 1 lit. ba) und bb) KI-VO in Kraft (KI-generierte nicht-einvernehmliche intime Darstellungen
+      und Darstellungen sexuellen Kindesmissbrauchs). Das verschiebt den nationalen Regelungsbedarf, weil
+      das Inverkehrbringen entsprechender Systeme unionsrechtlich verboten wird.
+
+      '
+    verifiziert: false
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - '§ 201b StGB-E (Bundesratsfassung): ''Wer das Persönlichkeitsrecht verletzt, indem er einen mit computertechnischen
+    Mitteln hergestellten oder veränderten Medieninhalt, der den Anschein einer wirklichkeitsgetreuen
+    Bild- oder Tonaufnahme erweckt, einer dritten Person zugänglich macht'' — Freiheitsstrafe bis zwei
+    Jahre; Qualifikation bis fünf Jahre bei Zugänglichmachen gegenüber der Öffentlichkeit oder bei Inhalten
+    aus dem höchstpersönlichen Lebensbereich. Ausnahme: Wahrnehmung berechtigter Interessen (Kunst, Wissenschaft,
+    Berichterstattung).'
+  - '§ 201b StGB-E (BMJV-Fassung): enger gefasst auf Inhalte, die geeignet sind, dem Ansehen erheblich
+    zu schaden; Strafrahmen bis zwei Jahre, subsidiär gegenüber schärferen Vorschriften. Erfasst auch
+    nicht-sexualisierte synthetische Medien, die reale Ereignisse vorzutäuschen scheinen.'
+  - '§ 184k StGB-E: Erweiterung auf die Herstellung UND Verbreitung sexualisierter Deepfakes ohne Einwilligung
+    sowie auf voyeuristische Aufnahmen in Sauna und Umkleide; bis zwei Jahre.'
+  - '§ 202e StGB-E: digitales Stalking / heimliche Überwachung mittels Spyware oder Standortverfolgung;
+    bis zwei Jahre; erfordert die Feststellung wahrscheinlicher erheblicher Nachteile.'
+  - 'Zivilrechtlicher Teil des GgdG: gerichtliches Verfahren zur Ermittlung anonymer Accountinhaber, richterlich
+    angeordnete Accountsperre, Prozessstandschaft für gemeinnützige Organisationen.'
+  - 'STREITPUNKT: Der Entwurf verpflichtet Internetzugangsanbieter zur dreimonatigen Speicherung von IP-Adressen.
+    Die Gesellschaft für Freiheitsrechte lehnt das als anlasslose Massenspeicherung ab; die Vereinbarkeit
+    mit der EuGH-Rechtsprechung zur Vorratsdatenspeicherung ist bestritten. HateAid begrüßt die zivilrechtlichen
+    Instrumente, kritisiert aber die Kostenlast für Betroffene.'
+  - 'BRAK-Kritik (Oktober 2024) am Bundesratsentwurf: Unbestimmtheit des Merkmals ''Persönlichkeitsrecht'';
+    Vorschlag, statt eines neuen Tatbestands § 201a StGB zu ergänzen und auf die Eignung zur erheblichen
+    Ansehensschädigung abzustellen. Die damalige Bundesregierung hielt die bestehenden Vorschriften für
+    ausreichend und warnte vor Konflikten mit Art. 103 Abs. 2 GG.'
+  - Auslöser der politischen Beschleunigung 2026 war ein öffentlich gewordener Fall nicht-einvernehmlicher
+    Deepfakes einer prominenten Betroffenen.
+  dokumente:
+  - datum: 2026-04-17
+    typ: pressemitteilung
+    titel: 'Besserer Schutz vor digitaler Gewalt: Bundesjustizministerin schlägt Anpassung des Straf-
+      und Zivilrechts vor'
+    url: https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0417_Gesetz_gegen_digitale_Gewalt.html
+    sprache: de
+    urheber: Bundesministerium der Justiz und für Verbraucherschutz
+    verifiziert: true
+    notiz: Amtliche Quelle für den Referentenentwurf und die drei Straftatbestände; bestätigt den Verfahrensstand
+      'Länder- und Verbändebeteiligung'.
+  - datum: 2026-04-16
+    typ: entwurf
+    titel: Referentenentwurf eines Gesetzes gegen digitale Gewalt (GgdG), Bearbeitungsstand 16.04.2026
+    url: https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_GgdG.pdf?__blob=publicationFile&v=2
+    sprache: de
+    urheber: Bundesministerium der Justiz und für Verbraucherschutz
+    verifiziert: false
+    notiz: URL aus Suchtreffer; nicht abgerufen, aber Bearbeitungsstand im Trefferinhalt ausgewiesen.
+  - datum: 2025-08-27
+    typ: entwurf
+    titel: Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor Deepfakes
+      (BT-Drs. 21/1383)
+    url: https://dserver.bundestag.de/btd/21/013/2101383.pdf
+    sprache: de
+    urheber: Bundesrat / Bundesregierung / Deutscher Bundestag
+    verifiziert: false
+    notiz: URL aus Suchtreffer; Existenz und Datum über KriPoZ verifiziert.
+  - datum: 2026-04-17
+    typ: bericht
+    titel: 'Gesetz gegen digitale Gewalt: Diese Deepfakes sollen künftig strafbar sein'
+    url: https://netzpolitik.org/2026/gesetz-gegen-digitale-gewalt-diese-deepfakes-sollen-kuenftig-strafbar-sein/
+    sprache: de
+    urheber: netzpolitik.org
+    verifiziert: true
+    notiz: Detaillierte Darstellung der drei Tatbestände mit Strafrahmen.
+  - datum: 2026-04-17
+    typ: bericht
+    titel: 'Deepfakes, Doxing, Stalking: Mit Vorratsdatenspeicherung gegen digitale Gewalt'
+    url: https://netzpolitik.org/2026/deepfakes-doxing-stalking-mit-vorratsdatenspeicherung-gegen-digitale-gewalt/
+    sprache: de
+    urheber: netzpolitik.org
+    verifiziert: true
+    notiz: Belegt die dreimonatige IP-Speicherpflicht und die Kritik von GFF und HateAid; bestätigt, dass
+      der Kabinettbeschluss zu diesem Zeitpunkt noch ausstand.
+  - datum: 2025-12-01
+    typ: bericht
+    titel: Strafrechtlicher Persönlichkeitsschutz vor Deepfakes
+    url: https://kripoz.de/2025/12/01/strafrechtlicher-persoenlichkeitsschutz-vor-deepfakes/
+    sprache: de
+    urheber: KriPoZ — Kriminalpolitische Zeitschrift
+    verifiziert: true
+    notiz: Dokumentiert Drucksachen, Wortlaut des § 201b StGB-E, Strafrahmen und die Stellungnahmen von
+      BRAK und Bundesregierung.
+  - datum: 2025-10-02
+    typ: stellungnahme
+    titel: Bundesrat bringt erneut Gesetzentwurf gegen Deepfakes ein – BRAK skeptisch
+    url: https://www.brak.de/newsroom/newsletter/nachrichten-aus-berlin/2025/ausgabe-20-2025-v-1102025/bundesrat-bringt-erneut-gesetzentwurf-gegen-deepfakes-ein-brak-skeptisch/
+    sprache: de
+    urheber: Bundesrechtsanwaltskammer
+    verifiziert: false
+    notiz: URL aus Suchtreffer; belegt die berufsrechtliche Kritik am Bundesratsentwurf.
+  offene_punkte:
+  - Ein Kabinettbeschluss zum Gesetz gegen digitale Gewalt ist für den 29.06.2026 amtlich verneint und
+    bis 07.09.2026 nicht nachweisbar. Zu prüfen bleibt, ob das Kabinett im Herbst 2026 beschließt.
+  - Verhältnis der beiden § 201b-StGB-Fassungen (Bundesrat vs. BMJV) ist ungeklärt — sie unterscheiden
+    sich in Tatbestandsstruktur und Strafrahmen.
+  - Die IP-Speicherpflicht ist der wahrscheinlichste Bruchpunkt des Vorhabens; ohne sie fehlt dem zivilrechtlichen
+    Auskunftsverfahren die Datengrundlage.
+  - Verhältnis zu Art. 50 Abs. 4 KI-VO (Offenlegungspflicht des Betreibers bei Deepfakes, anwendbar seit
+    02.08.2026) und zu den neuen Verboten des Art. 5 Abs. 1 lit. ba, bb KI-VO, die nach Art. 113 Abs.
+    3 lit. a KI-VO erst ab dem 02.12.2026 gelten, ist im Entwurf nicht ausgearbeitet. Die Übergangsfrist
+    bis zum 02.12.2026 nach Art. 111 Abs. 4 KI-VO betrifft nur Art. 50 Abs. 2 und nur Systeme, die vor
+    dem 02.08.2026 in Verkehr gebracht wurden.
+  monitoring_quellen:
+  - https://www.bmjv.de/DE/Service/Presse/presse_node.html
+  - https://dip.bundestag.de/vorgang/gesetz-zum-strafrechtlichen-schutz-von-pers%C3%B6nlichkeitsrechten-vor-deepfakes/311898
+  - https://netzpolitik.org/
+  - https://kripoz.de/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-ki-vo-durchfuehrungsgesetz
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: hib-Kurzmeldung "Entwurf eines Digitalen Gewaltschutzgesetzes" vom 29.06.2026 gelesen;
+    sie gibt BT-Drs. 21/6617 wieder: Veröffentlichung des Referentenentwurfs am 17.04.2026 und Einleitung
+    der Länder- und Verbändebeteiligung, genannt werden die Sperrung anonymer Hass-Accounts und die Schließung
+    von Strafbarkeitslücken "zum Beispiel bei bildbasierter sexualisierter Gewalt". Ein weitergehender
+    Verfahrensschritt wird nicht berichtet; der offene Punkt zum Kabinettbeschluss ist damit für den 29.06.2026
+    amtlich verneint. Neu erfasst: BT-Drs. 21/4949, erste Lesung 26.03.2026 (Textarchiv kw13-de-strafgesetzbuch-1157670).'
+- id: de-automatisierte-datenanalyse-polizei
+  jurisdiktion: de
+  kurztitel: Automatisierte Datenanalyse durch die Polizei
+  offizieller_titel: Rechtsgrundlagen der automatisierten Datenanalyse und Datenauswertung in den Polizeigesetzen
+    der Länder und im Bundesrecht (Nachfolgeregelungen zu BVerfG, Urteil vom 16.02.2023 - 1 BvR 1547/19,
+    1 BvR 2634/20)
+  fundstelle: 'Landesrecht: § 25a HSOG (Hessen); § 23 Abs. 6, 6a, 7 PolG NRW; Art. 61a BayPAG; § 47a PolG
+    BW; ASOG Berlin (Novelle Dez. 2025). Bundesrecht im Entwurf: § 9b BKAG-E, §§ 46, 58b BPolG-E (BT-Drs.
+    21/6132); §§ 98d, 98e StPO-E (BT-Drs. 21/6806).'
+  verfahrensnummer: BT-Drs. 21/6132; BT-Drs. 21/6806
+  status: teilanwendbar
+  status_detail: 'Die Landesregelungen sind in Kraft und werden angewandt (Hessen, Bayern, Nordrhein-Westfalen,
+    Baden-Württemberg, Berlin); Hamburg hat nach der Nichtigerklärung des § 49 Abs. 1 Alt. 1 PolDVG keine
+    Nachfolgeregelung geschaffen. Die Bundesregelungen (§ 9b BKAG-E, §§ 98d, 98e StPO-E) sind Regierungsentwürfe
+    im parlamentarischen Verfahren; die Kabinettsfassungen datieren vom 20.04.2026, die Beratungen sollten
+    nach der Sommerpause 2026 beginnen. Gegen die Landesregelungen in Hessen, Bayern und Nordrhein-Westfalen
+    sind Verfassungsbeschwerden beim BVerfG anhängig, gegen das Berliner ASOG ein Normenkontrollantrag
+    beim VerfGH Berlin.
+
+    '
+  kurzbeschreibung: 'Regelungskomplex, der den Polizeibehörden erlaubt, bereits gespeicherte personenbezogene
+    Daten datenbankübergreifend automatisiert zusammenzuführen und auszuwerten - in der Praxis überwiegend
+    mit der Software Gotham bzw. VeRA des US-Anbieters Palantir. Adressaten sind die Landespolizeien sowie
+    künftig BKA, Bundespolizei und Strafverfolgungsbehörden. Das BVerfG hat die automatisierte Datenanalyse
+    als eigenständigen Grundrechtseingriff eingeordnet und verlangt je nach Eingriffsintensität eine konkretisierte
+    Gefahr bzw. einen auf bestimmte Tatsachen gestützten Verdacht. Sanktioniert wird nicht der Bürger,
+    sondern der Staat: Verstöße führen zur Verfassungswidrigkeit der Norm und - wie in Hamburg - zur Nichtigkeit.
+    Die Regelungsmodelle der Länder unterscheiden sich erheblich in Textumfang, Eingriffsschwellen und
+    Verfahrensvorschriften.
+
+    '
+  inkrafttreten:
+    datum: 2023-06-29
+    verifiziert: false
+    quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/02/rs20230216_1bvr154719.html
+    fundstelle_norm: Sammeleintrag zu Landesrecht ohne einheitliche Inkrafttretensvorschrift. Das Datum
+      bezieht sich auf die hessische Neufassung des § 25a HSOG durch das Gesetz zur Änderung sicherheitsrechtlicher
+      Vorschriften (GVBl. Hessen 2023) — Fundstelle im hessischen GVBl. am 05.09.2026 nicht verifiziert.
+  anwendungsdaten:
+  - datum: 2023-09-30
+    was_gilt: Ablauf der vom BVerfG gesetzten Frist; § 25a Abs. 1 Alt. 1 HSOG durfte bis dahin nur unter
+      verschärften Maßgaben (konkretisierte Gefahr für besonders gewichtige Rechtsgüter, dokumentierte
+      Begründung) angewandt werden.
+    verifiziert: true
+    quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/02/rs20230216_1bvr154719.html
+  - datum: 2023-06-29
+    was_gilt: 'Hessen: Neufassung des § 25a HSOG durch das Gesetz zur Änderung sicherheitsrechtlicher
+      Vorschriften und zur Umorganisation der hessischen Bereitschaftspolizei (GVBl. S. 456).'
+    verifiziert: true
+    quelle: https://freiheitsrechte.org/uploads/documents/Freiheit-im-digitalen-Zeitalter/Polizeigesetz-Hessen/Verfassungsbeschwerdeschrift-HSOG.pdf
+  - datum: 2024-12-13
+    was_gilt: 'Hessen: weitere Änderung des § 25a HSOG durch das Gesetz zur Stärkung der Inneren Sicherheit
+      in Hessen (GVBl. 2024 Nr. 83).'
+    verifiziert: true
+    quelle: https://verfassungsblog.de/palantir-grundrechtseingriff/
+  - datum: 2025-11-12
+    was_gilt: 'Baden-Württemberg: Der Landtag beschließt das neue Polizeigesetz mit § 47a PolG BW einschließlich
+      einer Experimentierklausel für Entwicklung, Training, Test, Validierung und Monitoring von KI-Systemen
+      mit Polizeidaten.'
+    verifiziert: true
+    quelle: https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/
+  - datum: 2026-04-01
+    was_gilt: 'Bayern: geltende Fassung des Art. 61a BayPAG (Besondere technische Mittel zur anlassbezogenen
+      Zusammenführung von Daten).'
+    verifiziert: true
+    quelle: https://www.gesetze-bayern.de/Content/Document/BayPAG-61a
+  - datum: 2026-04-20
+    was_gilt: 'Bund: Kabinettsfassungen der Entwürfe zu § 9b BKAG-E, §§ 46, 58b BPolG-E und §§ 98d, 98e
+      StPO-E.'
+    verifiziert: true
+    quelle: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - '§ 25a HSOG (Hessen): automatisierte Anwendung zur Datenanalyse; nach der Novelle 2023 gestufte Eingriffsschwellen
+    in § 25a Abs. 2 Satz 1 Nr. 1-3; § 25a Abs. 2 Satz 3 erlaubt die Einbeziehung externer Datenquellen.'
+  - '§ 23 Abs. 6, 6a, 7 PolG NRW: Grundlage für die Plattform DAR (Datenbankübergreifende Analyse und
+    Recherche); die Landesdatenschutzbeauftragte Bettina Gayk hält die Norm für nicht verfassungskonform,
+    weil sie den Zweckbindungsgrundsatz durchbricht, selbstlernende Systeme und KI-Training mit echten
+    Personendaten zulässt und die Anonymisierungspflicht mit einem Aufwandsvorbehalt aushöhlt.'
+  - 'Art. 61a BayPAG: Besondere technische Mittel zur anlassbezogenen Zusammenführung von Daten; erlaubt
+    das automatisierte Zusammenführen personenbezogener Daten zur Abwehr von Gefahren für Personen, den
+    Bestand des Staates und kritische Infrastrukturen; ausdrückliche Verbote automatisierter Einzelentscheidung
+    und selbstlernender Systeme, dazu Personal-, Dokumentations- und Protokollierungspflichten.'
+  - '§ 47a Abs. 3 PolG BW: Rechtsgrundlage für die Einbindung externer Datenquellen; Experimentierklausel
+    für die Verarbeitung von Polizeidaten zu Entwicklung, Training, Test, Validierung und Monitoring von
+    IT-Produkten einschließlich KI-Systemen und KI-Modellen außerhalb rein wissenschaftlicher Forschung.'
+  - 'ASOG Berlin (Novelle Dezember 2025): erlaubt der Berliner Polizei, Datenbestände auf einer Plattform
+    zusammenzuführen und KI-gestützt auszuwerten; der Senat erklärt, Palantir nicht einsetzen zu wollen,
+    die Befugnis besteht aber.'
+  - '§ 9b BKAG-E: automatisierte Datenanalyse durch das BKA, repressiv bei Verdacht einer Katalogtat nach
+    § 100a StPO, präventiv bei hinreichenden Anhaltspunkten für eine künftige Katalogtat in absehbarer
+    Zeit; flankiert von einem Diskriminierungsverbot (§ 9b Abs. 5 BKAG-E), Beschränkungen der Echtzeiteinbindung,
+    Schulungs-, Datensicherheits- und Dokumentationspflichten.'
+  - '§ 98e StPO-E: automatisierte verfahrensübergreifende Datenanalyse, Eingriffsschwelle schwere Straftat
+    nach § 100a Abs. 2 StPO; § 98e Abs. 2 und Abs. 4 StPO-E enthalten Diskriminierungsschutz.'
+  - 'Kritik am Diskriminierungsschutz: Die Formel, dass diskriminierende Algorithmen weder herausgebildet
+    noch verwendet werden dürfen, wiederholt sich in § 9b Abs. 5, § 22 Abs. 3, § 39 Abs. 5, § 63c Abs.
+    5 BKAG-E, §§ 46 Abs. 3, 58b Abs. 5 BPolG-E und § 98e Abs. 2, Abs. 4 StPO-E, bleibt aber abstrakt und
+    ohne praktische Handlungsanleitung.'
+  - 'Ungelöst nach BVerfG-Maßstab: Die Entwürfe sehen nach der Kritik im Verfassungsblog keine ausreichenden
+    Speicherfristen und keine Speicherschwellen für den Grunddatenbestand vor - die dauerhafte Datenzusammenführung
+    selbst sei bereits ein eigenständiger Grundrechtseingriff.'
+  dokumente:
+  - datum: 2023-02-16
+    typ: endfassung
+    titel: BVerfG, Urteil des Ersten Senats vom 16. Februar 2023 - 1 BvR 1547/19, 1 BvR 2634/20 (hessenDATA)
+    url: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/02/rs20230216_1bvr154719.html
+    sprache: de
+    urheber: Bundesverfassungsgericht, Erster Senat
+    verifiziert: true
+    notiz: Maßstabsentscheidung, an der sich alle Nachfolgeregelungen messen lassen müssen.
+  - datum: 2024-06-21
+    typ: stellungnahme
+    titel: Verfassungsbeschwerdeschrift gegen § 25a HSOG in der Fassung vom 29.06.2023
+    url: https://freiheitsrechte.org/uploads/documents/Freiheit-im-digitalen-Zeitalter/Polizeigesetz-Hessen/Verfassungsbeschwerdeschrift-HSOG.pdf
+    sprache: de
+    urheber: Gesellschaft für Freiheitsrechte, Prozessbevollmächtigter Prof. Dr. Tobias Singelnstein
+    verifiziert: true
+    notiz: Nennt die exakte Fundstelle der hessischen Novelle (GVBl. S. 456) und die angegriffenen Absätze;
+      die genaueste öffentlich verfügbare Analyse der Neuregelung.
+  - datum: 2026-05-26
+    typ: entwurf
+    titel: Entwurf eines Gesetzes zur Stärkung digitaler Ermittlungsbefugnisse in der Polizeiarbeit (BT-Drs.
+      21/6132) - enthält § 9b BKAG-E
+    url: https://dserver.bundestag.de/btd/21/061/2106132.pdf
+    sprache: de
+    urheber: Bundesregierung
+    verifiziert: true
+    notiz: Primärquelle für die geplante Bundesrechtsgrundlage der automatisierten Datenanalyse durch
+      das BKA.
+  - datum: 2026-07-01
+    typ: entwurf
+    titel: Entwurf eines Gesetzes zur Änderung der Strafprozessordnung - digitale Ermittlungsmaßnahmen
+      (BT-Drs. 21/6806) - enthält §§ 98d, 98e StPO-E
+    url: https://dserver.bundestag.de/btd/21/068/2106806.pdf
+    sprache: de
+    urheber: Bundesregierung
+    verifiziert: true
+    notiz: Strafprozessuales Gegenstück; § 98d betrifft den automatisierten biometrischen Abgleich mit
+      dem Internet, § 98e die verfahrensübergreifende Datenanalyse.
+  - datum: 2026-04-20
+    typ: bericht
+    titel: 'Automatisierte Datenanalyse in NRW: Palantir-Gesetz nicht verfassungskonform'
+    url: https://netzpolitik.org/2026/automatisierte-datenanalyse-in-nrw-palantir-gesetz-nicht-verfassungskonform/
+    sprache: de
+    urheber: netzpolitik.org, referiert den Tätigkeitsbericht der LDI NRW Bettina Gayk
+    verifiziert: true
+    notiz: Aufsichtsbehördliche Bewertung des § 23 Abs. 6 PolG NRW, einschließlich CLOUD-Act- und FISA-Risiken
+      bei US-Software.
+  - datum: 2026-08-26
+    typ: bericht
+    titel: Die Vermessung des Verdachts (Jana Trapp)
+    url: https://verfassungsblog.de/automatisierte-datenanalyse-palantir-sicherheitsrecht/
+    sprache: de
+    urheber: Verfassungsblog
+    verifiziert: true
+    notiz: Auftakt des Verfassungsblog-Symposiums zu Palantir; ordnet die BVerfG-Stellschrauben (Art und
+      Umfang der Daten, Komplexität der Analysemethoden, Nachvollziehbarkeit, Diskriminierungsschutz)
+      ein.
+  - datum: 2026-08-31
+    typ: bericht
+    titel: Wegducken vor den Fragen des digitalen Zeitalters (Lena Rohrbach)
+    url: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
+    sprache: de
+    urheber: Verfassungsblog
+    verifiziert: true
+    notiz: Belegt die Fundstellen der Diskriminierungsschutzklauseln in BKAG-E, BPolG-E und StPO-E und
+      datiert die Kabinettsfassungen auf den 20.04.2026.
+  - datum: 2026-09-01
+    typ: bericht
+    titel: Verfassungswidrige Superdatenbank (Jonas Botta)
+    url: https://verfassungsblog.de/palantir-superdatenbank/
+    sprache: de
+    urheber: Verfassungsblog
+    verifiziert: true
+    notiz: Argumentiert, dass die Bundesentwürfe an fehlenden Speicherfristen und Speicherschwellen für
+      den Grunddatenbestand scheitern; verbindet hessenDATA mit BKAG II (1 BvR 1160/19).
+  offene_punkte:
+  - Stand des Gesetzgebungsverfahrens zu BT-Drs. 21/6132 und 21/6806 nach der Sommerpause 2026 nicht abschließend
+    geklärt - Ausschussüberweisungen, Anhörungen und Beschlussempfehlungen ließen sich nicht verifizieren
+    (DIP-API nur mit gültigem Schlüssel abrufbar).
+  - Genaues Datum der Schaffung des Art. 61a BayPAG nicht verifiziert; die Norm bestand spätestens im
+    Juli 2025 (Zeitpunkt der Verfassungsbeschwerde), die abgerufene Fassung gilt ab 01.04.2026.
+  - Der einschlägige Paragraph des Berliner ASOG in der Fassung der Novelle vom Dezember 2025 konnte nicht
+    ermittelt werden; die Berliner Landesrechtsdatenbank ist nur mit JavaScript abrufbar.
+  - Ob Hamburg mittelfristig eine Nachfolgeregelung zu § 49 PolDVG schafft, ist offen; nach dem Urteil
+    hatte Hamburg keine Entscheidung getroffen, die Norm war ohnehin nie angewandt worden.
+  - Volltexte der Landesnormen (HSOG, PolG NRW, PolG BW, ASOG) konnten nicht im Wortlaut abgerufen werden;
+    die amtlichen Landesrechtsportale (lareda.hessenrecht.hessen.de, recht.nrw.de, landesrecht-hamburg.de)
+    sind JavaScript-gestützt oder per robots.txt gesperrt.
+  - Der NRW-Vertrag mit Palantir läuft Mitte Oktober 2026 aus; ob NRW verlängert, auf eine europäische
+    Alternative wechselt oder das Polizeigesetz zuvor ändert, ist offen.
+  - 'Inkrafttreten des Sammeleintrags nicht verifizierbar: Er bündelt fünf Landesgesetze mit je eigener
+    Inkrafttretensvorschrift. Zu prüfen ist die Fundstelle der hessischen Neufassung des § 25a HSOG im
+    GVBl. Hessen 2023 (Recherche über das hessische Landesrecht-Portal, nicht über Sekundärquellen).'
+  monitoring_quellen:
+  - https://verfassungsblog.de/tag/palantir/
+  - https://netzpolitik.org/tag/automatisierte-datenanalyse/
+  - https://netzpolitik.org/tag/palantir/
+  - https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter
+  - https://www.bundesverfassungsgericht.de/DE/Verfahren/Jahresvorausschau/jahresvorausschau_node.html
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-automatisierter-verwaltungsakt
+  - de-bdsg-scoring
+  - de-ki-migrationsverwaltungsgesetz
+  - de-stpo-digitale-ermittlungsmassnahmen
+  letzte_pruefung: 2026-09-05
+- id: de-ki-migrationsverwaltungsgesetz
+  jurisdiktion: de
+  kurztitel: KI-Migrationsverwaltungsgesetz (KIMVG)
+  offizieller_titel: Entwurf eines Gesetzes zum Einsatz künstlicher Intelligenz in der Migrationsverwaltung
+    (KI-Migrationsverwaltungsgesetz - KIMVG)
+  fundstelle: BR-Drs. 452/26 vom 14.08.2026; Referentenentwurf des BMI vom 25.06.2026. Ändert das Asylgesetz
+    (Art. 1) und das Aufenthaltsgesetz (Art. 2).
+  verfahrensnummer: BR-Drs. 452/26
+  status: verfahren
+  status_detail: 'Regierungsentwurf. Referentenentwurf des Bundesministeriums des Innern vom 25.06.2026,
+    Kabinettsbeschluss am 29.07.2026, Eingang beim Bundesrat am 14.08.2026 (BR-Drs. 452/26), dort zunächst
+    nur mit dem Status "Eingegangen", ohne angesetzte Beratung. Die Beratungen im Bundestag sollten nach
+    der Sommerpause 2026 beginnen. Das Gesetz ist noch nicht in Kraft.
+
+    '
+  kurzbeschreibung: 'Erstes deutsches Fachgesetz, das den Einsatz künstlicher Intelligenz in einem behördlichen
+    Massenverfahren ausdrücklich und bereichsspezifisch regelt. Adressaten sind das BAMF, die Ausländerbehörden,
+    das Bundesverwaltungsamt, die Auslandsvertretungen, die Bundes- und Landespolizeien, die Bundesagentur
+    für Arbeit und die Nachrichtendienste, soweit sie mit Migrationsangelegenheiten befasst sind. Das
+    Gesetz erlaubt drei Dinge: die Nutzung personenbezogener Asyl- und Aufenthaltsdaten zum Training,
+    zur Validierung und zum Test automatisierter Anwendungen, ein automatisiertes Verfahrensmonitoring
+    zur Mustererkennung im Verfahrensverlauf und den automatisierten Abgleich mit öffentlich zugänglichen
+    Internetdaten bei begründeten Zweifeln an den Angaben der Antragsteller. Eine eigene Bußgeldsanktion
+    enthält es nicht; die Steuerung erfolgt über Erforderlichkeits-, Begründungs- und Nachprüfungspflichten
+    sowie das Gebot manueller Auswertung der Abgleichsergebnisse.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://dserver.bundestag.de/brd/2026/0452-26.pdf
+  anwendungsdaten:
+  - datum: 2026-06-25
+    was_gilt: Referentenentwurf des BMI (Bearbeitungsstand 25.06.2026, 11:16 Uhr) geht in die Verbändebeteiligung.
+    verifiziert: true
+    quelle: https://cdn.netzpolitik.org/wp-upload/2026/07/260625_RefE_Einsatz_KI_in_der_Migrationsverwaltung_c.pdf
+  - datum: 2026-07-29
+    was_gilt: Kabinettsbeschluss der Bundesregierung.
+    verifiziert: true
+    quelle: https://algorithmwatch.org/de/statement-zum-ki-migrationsverwaltungsgesetz-bundeskabinett-will-menschliche-schicksale-fur-evidenzlose-ki-forschung-nutzen/
+  - datum: 2026-08-14
+    was_gilt: Zuleitung an den Bundesrat als BR-Drs. 452/26.
+    verifiziert: true
+    quelle: https://dserver.bundestag.de/brd/2026/0452-26.pdf
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Artikel 1 ändert das Asylgesetz: § 7 AsylG wird zu ''Verarbeitung personenbezogener Daten'' umbenannt
+    und um die Befugnis erweitert, personenbezogene Daten zum Training, zur Validierung und zum Test automatisierter
+    Anwendungen zu verarbeiten.'
+  - '§ 7a AsylG-E: Automatisiertes Verfahrensmonitoring in Asylverfahren - Mustererkennung im Verfahrensverlauf,
+    unter anderem zur Auffindung von Auffälligkeiten bei Ablehnungen.'
+  - '§ 7b AsylG-E: Automatisierter Abgleich mit öffentlich zugänglichen Daten aus dem Internet. Drei kumulative
+    Voraussetzungen: begründete Zweifel an der Richtigkeit entscheidungserheblicher Angaben, Erforderlichkeit
+    des Abgleichs zur Klärung dieser Zweifel, verpflichtende manuelle Auswertung und Überprüfung der Ergebnisse
+    durch die Behörde.'
+  - 'Artikel 2 ändert das Aufenthaltsgesetz spiegelbildlich: § 86 AufenthG wird zu ''Verarbeitung personenbezogener
+    Daten''; § 90d AufenthG-E regelt das automatisierte Verfahrensmonitoring in aufenthaltsrechtlichen
+    Verfahren, § 90e AufenthG-E den automatisierten Internetabgleich.'
+  - 'Artikel 3: Inkrafttreten am Tag nach der Verkündung - kein gestufter Anwendungsbeginn, keine Übergangsfrist,
+    keine Evaluierungsklausel im Entwurfstext erkennbar.'
+  - 'Kernbereichsschutz: Der Entwurf schützt den Kernbereich privater Lebensgestaltung nur, soweit Daten
+    ''ausschließlich'' diesem zuzuordnen sind. Gemischte Datenbestände - im Asylverfahren der Regelfall,
+    weil Verfolgungsschilderungen Traumata und Intimes mit verfahrenserheblichen Angaben verbinden - bleiben
+    danach ungeschützt (Kritik PRO ASYL).'
+  - 'Diskriminierungsschutz: Die Behörden haben sicherzustellen, ''dass diskriminierende Algorithmen weder
+    herausgebildet noch verwendet werden'' - wortgleich mit § 9b Abs. 5 BKAG-E und § 98e StPO-E. Die Klausel
+    bleibt abstrakt, obwohl Asyl- und Aufenthaltsverfahren gerade an geschützte Merkmale wie Ethnie, Religion
+    und Geschlecht anknüpfen.'
+  - 'Warum Fachgesetz im Massenverfahren: Anders als § 35a VwVfG, der nur den vollautomatisierten Erlass
+    gebundener Verwaltungsakte betrifft, und anders als die KI-VO, die horizontal an Risikoklassen anknüpft,
+    regelt das KIMVG erstmals bereichsspezifisch, welche konkreten KI-gestützten Arbeitsschritte in einem
+    konkreten Massenverfahren zulässig sind - einschließlich der Verwendung der Verfahrensdaten selbst
+    als Trainingsmaterial.'
+  - 'Begründung des Entwurfs: ''Die Migrationsverwaltung sieht sich seit Jahren einem stetig steigenden
+    Antragsaufkommen gegenüber. Die vorhandenen personellen und organisatorischen Kapazitäten reichen
+    vielerorts nicht aus, um die Verfahren innerhalb angemessener Fristen zu bearbeiten.'' Ziel ist ein
+    rechtssicherer und datenschutzkonformer Rahmen für effizientere, einheitlichere, qualitativ hochwertigere
+    und sicherere Verfahren.'
+  dokumente:
+  - datum: 2026-06-25
+    typ: entwurf
+    titel: 'Referentenentwurf des BMI: Entwurf eines Gesetzes zum Einsatz künstlicher Intelligenz in der
+      Migrationsverwaltung (KIMVG)'
+    url: https://cdn.netzpolitik.org/wp-upload/2026/07/260625_RefE_Einsatz_KI_in_der_Migrationsverwaltung_c.pdf
+    sprache: de
+    urheber: Bundesministerium des Innern
+    verifiziert: true
+    notiz: Volltext des Referentenentwurfs mit allen drei Artikeln; von netzpolitik.org gespiegelt, weil
+      das BMI den Entwurf zunächst nicht selbst veröffentlichte.
+  - datum: 2026-08-14
+    typ: entwurf
+    titel: Gesetzentwurf der Bundesregierung, BR-Drs. 452/26
+    url: https://dserver.bundestag.de/brd/2026/0452-26.pdf
+    sprache: de
+    urheber: Bundesregierung / Bundesrat
+    verifiziert: true
+    notiz: Amtliche Fundstelle der Kabinettsfassung mit Begründung; weist das Vorhaben als Einspruchsgesetz
+      aus.
+  - datum: 2026-07-01
+    typ: bericht
+    titel: 'Gesetzentwurf zu KI bei Asyl- und Visumsverfahren: ''Da sollten die Alarmglocken schrillen'''
+    url: https://netzpolitik.org/2026/gesetzentwurf-zu-ki-bei-asyl-und-visumsverfahren-da-sollten-die-alarmglocken-schrillen/
+    sprache: de
+    urheber: netzpolitik.org
+    verifiziert: true
+    notiz: Erste Auswertung des Referentenentwurfs; benennt den Adressatenkreis einschließlich Polizeien
+      und Nachrichtendiensten.
+  - datum: 2026-07-29
+    typ: stellungnahme
+    titel: 'Statement zum KI-Migrationsverwaltungsgesetz: Bundeskabinett will menschliche Schicksale für
+      evidenzlose KI-Forschung nutzen'
+    url: https://algorithmwatch.org/de/statement-zum-ki-migrationsverwaltungsgesetz-bundeskabinett-will-menschliche-schicksale-fur-evidenzlose-ki-forschung-nutzen/
+    sprache: de
+    urheber: AlgorithmWatch
+    verifiziert: true
+    notiz: 'Belegt das Datum des Kabinettsbeschlusses und formuliert die Kernkritik: hohe Fehlerraten,
+      fehlende Kontextdifferenzierung, unzureichender Schutz bei besonders sensiblen Daten.'
+  - datum: 2026-08-19
+    typ: bericht
+    titel: 'KI in der Migrationsverwaltung: ''Es geht um Entscheidungen über Menschenleben'''
+    url: https://netzpolitik.org/2026/ki-in-der-migrationsverwaltung-es-geht-um-entscheidungen-ueber-menschenleben/
+    sprache: de
+    urheber: netzpolitik.org
+    verifiziert: true
+    notiz: Verfahrensstand nach dem Kabinettsbeschluss; verweist auf die niederländischen und britischen
+      Diskriminierungsfälle als Warnbeispiele.
+  - datum: 2026-07-02
+    typ: stellungnahme
+    titel: Stellungnahme zum Referentenentwurf des Bundesministeriums des Innern für einen Entwurf eines
+      Gesetzes zum Einsatz Künstlicher Intelligenz in der Migrationsverwaltung (KI-Migrationsverwaltungsgesetz
+      - KIMVG)
+    url: https://www.proasyl.de/wp-content/uploads/PRO-ASYL_Stellungnahme_Entwurf-eines-Gesetzes-zum-Einsatz-kuenstlicher-Intelligenz-in-der-Migrationsverwaltung.pdf
+    sprache: de
+    urheber: PRO ASYL, Frankfurt am Main
+    verifiziert: true
+    notiz: Die juristisch dichteste Verbändestellungnahme; rügt intransparente, algorithmisch gesteuerte
+      Entscheidungsprozesse ohne effektiven Rechtsschutz, die Aushöhlung des Kernbereichsschutzes durch
+      das Merkmal 'ausschließlich' und die Untauglichkeit der abstrakten Diskriminierungsklausel gerade
+      dort, wo Ethnie, Religion und Geschlecht verfahrensprägend sind.
+  - datum: 2026-07-01
+    typ: uebersicht
+    titel: BMI-Seite zum Gesetzgebungsverfahren KIMVG
+    url: https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/MI6/kimvg.html
+    sprache: de
+    urheber: Bundesministerium des Innern
+    verifiziert: false
+    notiz: Amtliche Verfahrensseite; beim Abruf lieferte der Server einen Fehler, die URL stammt aus der
+      Verlinkung bei netzpolitik.org.
+  offene_punkte:
+  - 'Widersprüchliche Quellen zur Zustimmungsbedürftigkeit: bundestagszusammenfasser.de führt das Vorhaben
+    als Zustimmungsgesetz, die amtliche BR-Drs. 452/26 selbst als Einspruchsgesetz. Der Primärquelle wurde
+    gefolgt.'
+  - Eine Bundestags-Drucksachennummer existierte am Stichtag noch nicht; nur die Bundesratsdrucksache
+    ist belegt.
+  - Kein Inkrafttretensdatum bestimmbar - Art. 3 knüpft an die Verkündung an, die noch aussteht.
+  - Das Verhältnis zur KI-VO ist im Entwurf nicht ausdrücklich adressiert, obwohl KI-Systeme in Migration,
+    Asyl und Grenzkontrolle nach Anhang III Nr. 7 KI-VO Hochrisikosysteme sind.
+  - Verhältnis zu § 35a VwVfG und zu Art. 22 DSGVO im Entwurf nicht ausdrücklich geklärt; die Entwurfssystematik
+    setzt auf verpflichtende manuelle Auswertung, definiert aber keine Mindestanforderungen an deren Tiefe.
+  monitoring_quellen:
+  - https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/MI6/kimvg.html
+  - https://dserver.bundestag.de/brd/2026/0452-26.pdf
+  - https://netzpolitik.org/tag/bamf/
+  - https://algorithmwatch.org/de/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-automatisierter-verwaltungsakt
+  - de-automatisierte-datenanalyse-polizei
+  - de-ki-vo-durchfuehrungsgesetz
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Unverändert: BR-Drs. 452/26 vom 14.08.2026 bleibt der jüngste Verfahrensschritt; eine
+    Stellungnahme des Bundesrates im ersten Durchgang, eine Zuleitung an den Bundestag und eine BT-Drucksache
+    sind nicht nachweisbar (Sommerpause). WARNUNG — Verwechslungsgefahr: Die Abstimmung des Bundestages
+    am 09.07.2026 über "Digitalisierung in der Migrationsverwaltung" betrifft NICHT das KIMVG, sondern
+    das Migrationsverwaltungsdigitalisierungsweiterentwicklungsgesetz (MDWG), BT-Drs. 21/4080 — Datenaustausch
+    zwischen Migrationsbehörden, Speicherung biometrischer Daten aus Aufenthaltstitelanträgen, Dokumentenzugriff
+    im Visumverfahren. Die BMI-Gesetzgebungsseite war in zwei Versuchen nicht abrufbar (Serverfehler).'
+- id: de-stpo-digitale-ermittlungsmassnahmen
+  jurisdiktion: de
+  kurztitel: StPO-Novelle digitale Ermittlungsmaßnahmen (§§ 98d, 98e StPO-E)
+  offizieller_titel: Entwurf eines Gesetzes zur Änderung der Strafprozessordnung - digitale Ermittlungsmaßnahmen
+  fundstelle: BT-Drs. 21/6806 vom 01.07.2026
+  verfahrensnummer: BT-Drs. 21/6806
+  status: verfahren
+  status_detail: 'Gesetzentwurf der Bundesregierung, dem Bundestag am 01.07.2026 zugeleitet; Kabinettsfassung
+    vom 20.04.2026. Die parlamentarischen Beratungen waren am Stichtag noch nicht abgeschlossen; Ausschussberatungen
+    und Anhörungen ließen sich nicht verifizieren.
+
+    Stand 07.09.2026, amtlich belegt: Erste Lesung am 08.07.2026 (KW 28). Nach halbstündiger Aussprache
+    wurde BT-Drs. 21/6806 federführend an den Ausschuss für Recht und Verbraucherschutz überwiesen. Gemeinsam
+    beraten wurden zwei weitere Regierungsentwürfe zur Stärkung digitaler Ermittlungsbefugnisse — BT-Drs.
+    21/6132 (Polizeiarbeit) und BT-Drs. 21/6131 (internationaler Terrorismus), beide federführend Innenausschuss
+    — sowie die Anträge BT-Drs. 21/6913 (Bündnis 90/Die Grünen, Rechtsstaatlichkeit und moderne Polizeiarbeit)
+    und BT-Drs. 21/6917 (Die Linke, gegen biometrische Massenerkennung), ebenfalls federführend Innenausschuss.
+    Eine Beschlussempfehlung liegt nicht vor; eine Anhörung im Rechtsausschuss ist nicht belegt.
+
+    '
+  kurzbeschreibung: 'Führt zwei neue strafprozessuale Eingriffsbefugnisse ein, die beide auf automatisierter
+    Mustererkennung beruhen. § 98d StPO-E erlaubt den automatisierten biometrischen Abgleich von Bild-
+    und Videomaterial mit öffentlich zugänglichen Daten aus dem Internet - faktisch eine Gesichtserkennung
+    im offenen Netz. § 98e StPO-E erlaubt die automatisierte verfahrensübergreifende Datenanalyse. Adressat
+    sind Staatsanwaltschaften und Polizei als Ermittlungspersonen. Die Befugnisse sind an Katalogtatbestände
+    des § 100a Abs. 2 StPO und an Subsidiaritätsklauseln gebunden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://dserver.bundestag.de/btd/21/068/2106806.pdf
+  anwendungsdaten:
+  - datum: 2026-04-20
+    was_gilt: Kabinettsfassung des Entwurfs.
+    verifiziert: true
+    quelle: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
+  - datum: 2026-07-01
+    was_gilt: Zuleitung an den Bundestag als BT-Drs. 21/6806.
+    verifiziert: true
+    quelle: https://dserver.bundestag.de/btd/21/068/2106806.pdf
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - '§ 98d StPO-E - Automatisierter biometrischer Abgleich mit öffentlich zugänglichen Daten aus dem Internet.
+    Eingriffsschwelle: ''bestimmte Tatsachen begründen den Verdacht, dass jemand als Täter oder Teilnehmer
+    eine Straftat von auch im Einzelfall erheblicher Bedeutung, insbesondere eine in § 100a Absatz 2 bezeichnete
+    Straftat, begangen hat''; Subsidiarität, wenn die Erforschung des Sachverhalts, die Identitätsfeststellung
+    oder die Ermittlung des Aufenthaltsortes auf andere Weise wesentlich erschwert oder aussichtslos wäre.'
+  - '§ 98e StPO-E - Automatisierte verfahrensübergreifende Datenanalyse. Höhere Schwelle: schwerwiegende,
+    in § 100a Abs. 2 StPO bezeichnete schwere Straftat.'
+  - § 98e Abs. 2 und Abs. 4 StPO-E enthalten das Verbot, diskriminierende Algorithmen herauszubilden oder
+    zu verwenden - dieselbe Formel wie in § 9b Abs. 5 BKAG-E.
+  - 'Systematische Einordnung: Die Vorschriften schließen an §§ 98a bis 98c StPO (Rasterfahndung, maschineller
+    Datenabgleich) an und verlagern die Ermittlungslogik von der Abfrage einzelner Datenbestände zur musterbasierten
+    Analyse; flankiert werden sie durch §§ 161, 163, 483 StPO.'
+  dokumente:
+  - datum: 2026-07-01
+    typ: entwurf
+    titel: Entwurf eines Gesetzes zur Änderung der Strafprozessordnung - digitale Ermittlungsmaßnahmen
+      (BT-Drs. 21/6806)
+    url: https://dserver.bundestag.de/btd/21/068/2106806.pdf
+    sprache: de
+    urheber: Bundesregierung
+    verifiziert: true
+    notiz: Amtlicher Volltext mit Begründung; enthält den Wortlaut der Eingriffsschwellen.
+  - datum: 2026-08-31
+    typ: bericht
+    titel: Wegducken vor den Fragen des digitalen Zeitalters (Lena Rohrbach)
+    url: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
+    sprache: de
+    urheber: Verfassungsblog
+    verifiziert: true
+    notiz: Kritische Analyse der Diskriminierungsschutzklauseln in § 98e Abs. 2 und Abs. 4 StPO-E.
+  offene_punkte:
+  - Erste Lesung und Ausschussüberweisung sind belegt (08.07.2026, Rechtsausschuss federführend). Offen
+    bleibt, ob der Rechtsausschuss eine öffentliche Anhörung ansetzt.
+  - § 98d StPO-E ist als biometrische Fernidentifizierung zu prüfen; das Verhältnis zu Art. 5 Abs. 1 lit.
+    d und Art. 26 Abs. 10 KI-VO sowie zu Anhang III Nr. 6 KI-VO ist im Entwurf offenbar nicht ausdrücklich
+    geregelt.
+  - Unklar, ob ein Richtervorbehalt und in welcher Ausgestaltung für § 98d StPO-E vorgesehen ist; im abgerufenen
+    Auszug nicht erkennbar.
+  monitoring_quellen:
+  - https://dserver.bundestag.de/btd/21/068/2106806.pdf
+  - https://verfassungsblog.de/tag/palantir/
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  - de-deepfake-strafrecht
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Textarchiv des Bundestages zu Mittwoch, 08.07.2026, abgerufen: "Entwürfe zur Stärkung
+    der digitalen Befugnisse von Ermittlungsbehörden"; wörtlich "Nach halbstündiger Aussprache wurden
+    die Entwürfe an die Ausschüsse überwiesen". Federführung für 21/6806 beim Rechtsausschuss, für 21/6132,
+    21/6131, 21/6913 und 21/6917 beim Innenausschuss. Damit ist der bislang offene Verfahrensstand erstmals
+    amtlich belegt. Dass die biometrische Massenerkennung Gegenstand eines eigenen Antrags der Linken
+    ist, stützt die Einschätzung, dass § 98d StPO-E als biometrische Fernidentifizierung diskutiert wird.'
+- id: de-bgb-deliktsrecht-ki
+  jurisdiktion: de
+  kurztitel: Deliktische Haftung und Abwehransprüche beim KI-Einsatz (BGB)
+  offizieller_titel: §§ 134, 253, 823, 831, 1004 Bürgerliches Gesetzbuch
+  fundstelle: BGB in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S.
+    738)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. Allgemeines Deliktsrecht ohne KI-spezifische Anpassung; die Fortentwicklung
+    erfolgt durch Rechtsprechung.
+  inkrafttreten:
+    datum: '1900-01-01'
+    verifiziert: true
+    fundstelle_norm: Inkrafttreten des BGB am 1. Januar 1900; maßgeblich ist die Neubekanntmachung vom
+      2. Januar 2002.
+  themenachsen:
+  - haftung
+  - grundrechte
+  regelungsschwerpunkte:
+  - '§ 823 Abs. 1 BGB: Über das sonstige Recht laufen das allgemeine Persönlichkeitsrecht, das Unternehmenspersönlichkeitsrecht
+    und der eingerichtete und ausgeübte Gewerbebetrieb — die Anspruchsgrundlagen der deutschen Halluzinationsverfahren
+    (LG Kiel, LG Hamburg, LG München I).'
+  - '§ 1004 BGB analog: Die Gerichte tenorieren Unterlassung, nicht Schadensersatz. Offen ist, ob der
+    Betreiber Störer oder unmittelbarer Täter ist und ob ein Disclaimer die Zurechnung unterbricht.'
+  - '§ 831 BGB: Die Analogiefähigkeit für autonome Systeme ist der Kern der deutschen Zurechnungsdebatte;
+    ein KI-System ist kein anderer im Sinne der Norm, die Exkulpation nach Abs. 1 Satz 2 passt nicht auf
+    Modellverhalten.'
+  - § 253 Abs. 2 BGB begrenzt den Ersatz immateriellen Schadens; die Geldentschädigung wegen schwerer
+    Persönlichkeitsrechtsverletzung beruht deshalb auf Richterrecht, nicht auf dieser Norm.
+  - '§ 134 BGB: Nichtigkeit von Verträgen über unerlaubte Rechtsdienstleistungen — der Hebel, über den
+    die RDG-Verstöße im Legal-Tech-Bereich zivilrechtlich wirken.'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: BGB — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/bgb/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-bgb-agb-kaufrecht-ki
+  jurisdiktion: de
+  kurztitel: AGB-Kontrolle und Mängelgewährleistung bei KI-Verträgen (BGB)
+  offizieller_titel: §§ 305 bis 310, 434 Bürgerliches Gesetzbuch
+  fundstelle: BGB in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S.
+    738); §§ 434 ff. in der Fassung des Gesetzes zur Regelung des Verkaufs von Sachen mit digitalen Elementen
+    vom 25. Juni 2021 (BGBl. I S. 2133)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. Kein KI-spezifischer Anpassungsbedarf normiert; die Anwendung auf probabilistische
+    Systeme ist ungeklärt.
+  inkrafttreten:
+    datum: '2022-01-01'
+    verifiziert: true
+    fundstelle_norm: §§ 434 ff. in der Fassung vom 25.06.2021, anwendbar auf Verträge ab dem 01.01.2022.
+  themenachsen:
+  - vertrag
+  - haftung
+  regelungsschwerpunkte:
+  - '§ 307 Abs. 1 Satz 2 BGB: Das Transparenzgebot ist der praktisch schärfste Angriffspunkt gegen Anbieter-AGB,
+    die Modellwechsel, Leistungsänderungen und Trainingsnutzung von Eingaben offenlassen.'
+  - '§ 307 Abs. 2 Nr. 2 BGB: Haftungsfreizeichnungen für Halluzinationen gefährden den Vertragszweck,
+    wenn der Dienst gerade als Informationsquelle beworben wird.'
+  - '§ 434 Abs. 3 BGB: Die objektiven Anforderungen knüpfen an die übliche Beschaffenheit vergleichbarer
+    Sachen an — bei generativen Systemen ist gerade streitig, was üblich ist.'
+  - 'Abgrenzung: Für Verbraucherverträge über digitale Produkte gelten vorrangig die §§ 327 ff. BGB (eigenes
+    Regelwerk de-bgb-digitale-produkte); die §§ 305 ff. BGB gelten daneben und auch im B2B-Verkehr.'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: BGB — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/bgb/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-gg-grundrechte-ki
+  jurisdiktion: de
+  kurztitel: Grundrechtliche Maßstäbe für den KI-Einsatz (GG)
+  offizieller_titel: Art. 1, 2, 3, 5, 10, 12, 19 und 20 Grundgesetz für die Bundesrepublik Deutschland
+  fundstelle: Grundgesetz für die Bundesrepublik Deutschland vom 23. Mai 1949 (BGBl. S. 1), zuletzt geändert
+    durch das Gesetz zur Änderung des Grundgesetzes (Artikel 109, 115 und 143h) vom 22. März 2025 (BGBl.
+    2025 I Nr. 94, ausgegeben am 24.03.2025)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. Sammeleintrag für die grundrechtliche Prüfungsschicht; die Justizverfassungsnormen
+    (Art. 92, 97, 101, 103 GG) sind dem Regelwerk de-ki-justiz zugeordnet.
+  inkrafttreten:
+    datum: '1949-05-24'
+    verifiziert: true
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG: Recht auf informationelle Selbstbestimmung. Das BVerfG misst
+    daran sämtliche Befugnisse zur automatisierten Datenanalyse; die Eingriffsintensität bestimmt sich
+    nach Analysemethode und einbezogenem Datenbestand (hessenDATA).'
+  - 'Art. 19 Abs. 3 GG: Grundlage des Unternehmenspersönlichkeitsrechts — die Grundrechtsposition, auf
+    die sich Unternehmen gegen halluzinierte Tatsachenbehauptungen stützen.'
+  - 'Art. 5 Abs. 3 GG: Kunst- und Wissenschaftsfreiheit begrenzt pauschale Deepfake-Verbote und bindet
+    hochschulrechtliche Vorgaben zum KI-Einsatz in Prüfungen.'
+  - 'Art. 3 Abs. 1 und 3 GG: verfassungsrechtlicher Bezugspunkt algorithmischer Diskriminierung; das AGG
+    bleibt dahinter zurück, weil es Systemhersteller nicht erfasst.'
+  - 'Art. 20 Abs. 3 GG: Vorbehalt des Gesetzes — Grund, weshalb die Ermittlungsgeneralklauseln der §§
+    161, 163 StPO KI-gestützte Massenauswertung nicht tragen.'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: Grundgesetz — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/gg/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-10'
+- id: de-kug-bildnisschutz
+  jurisdiktion: de
+  kurztitel: Recht am eigenen Bild und an der Stimme (KUG)
+  offizieller_titel: §§ 22, 23, 33 Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und
+    der Photographie (Kunsturhebergesetz)
+  fundstelle: KunstUrhG vom 9. Januar 1907 (RGBl. S. 7), zuletzt geändert durch Gesetz vom 16. Februar
+    2001 (BGBl. I S. 266)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft seit 1907. Nur noch §§ 22 bis 24 und 33 KUG in Geltung; die übrigen Vorschriften
+    sind durch das UrhG ersetzt.
+  inkrafttreten:
+    datum: '1907-07-01'
+    verifiziert: false
+    fundstelle_norm: RGBl. 1907 S. 7; Inkrafttretensdatum nicht gegen die amtliche Fassung geprüft.
+  themenachsen:
+  - grundrechte
+  - content
+  regelungsschwerpunkte:
+  - § 22 KUG verlangt die Einwilligung des Abgebildeten für Verbreitung und öffentliche Zurschaustellung.
+    Auf KI-generierte Bildnisse, die keine Aufnahme sind, wird die Norm analog angewandt; dasselbe gilt
+    für nachgeahmte Stimmen (LG Berlin II, 2 O 202/24).
+  - § 23 Abs. 1 KUG privilegiert Bildnisse der Zeitgeschichte; die Rückausnahme des Abs. 2 (berechtigtes
+    Interesse) trägt die Abwägung bei synthetischen Darstellungen.
+  - § 33 KUG ist die einzige geltende Strafnorm des Bildnisschutzes; sie erfasst nur Verbreitung und Zurschaustellung,
+    nicht die Herstellung — dieselbe Lücke, die der Entwurf des § 201b StGB schließen soll.
+  - 'Verhältnis zur DSGVO: Für den journalistischen Bereich gilt das KUG über die Öffnungsklausel des
+    Art. 85 DSGVO fort; im Übrigen ist das Verhältnis ungeklärt.'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: KunstUrhG — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/kunsturhg/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-stgb-computerstrafrecht
+  jurisdiktion: de
+  kurztitel: Computer- und Datenstrafrecht beim KI-Einsatz (StGB)
+  offizieller_titel: §§ 202a, 263a, 269 Strafgesetzbuch
+  fundstelle: StGB in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. Keine KI-spezifische Anpassung; die Diskussion verläuft über § 201b StGB-E
+    (Regelwerk de-deepfake-strafrecht).
+  inkrafttreten:
+    datum: '1998-11-13'
+    verifiziert: true
+    fundstelle_norm: Neubekanntmachung des StGB; die Einzelnormen sind älter.
+  themenachsen:
+  - sicherheit-export
+  - haftung
+  regelungsschwerpunkte:
+  - '§ 202a StGB: Die Zugangssicherung ist das begrenzende Merkmal. Prompt Injection und Modellextraktion
+    erfüllen den Tatbestand nur, wenn eine besondere Sicherung überwunden wird — bei öffentlich zugänglichen
+    Modellendpunkten regelmäßig nicht.'
+  - § 263a StGB erfasst die unrichtige Gestaltung des Programms und die unbefugte Einwirkung auf den Verarbeitungsablauf;
+    die Manipulation von Trainings- oder Eingabedaten eines entscheidenden Systems fällt darunter.
+  - § 269 StGB ist der praktisch wichtigste Tatbestand gegen synthetisch erzeugte Urkundensurrogate, weil
+    er auf die Wahrnehmbarkeit als unechte Urkunde abstellt.
+  - 'Kein KI-spezifischer Straftatbestand: Anders als Italien mit Art. 61 Nr. 11-decies codice penale
+    kennt das deutsche Recht keinen allgemeinen Erschwerungsgrund der Tatbegehung mittels KI.'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: StGB — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/stgb/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-zpo-ki-prozessrecht
+  jurisdiktion: de
+  kurztitel: Zivilprozessrecht und KI-erzeugte Schriftsätze (ZPO)
+  offizieller_titel: §§ 138, 287, 294, 522 Zivilprozessordnung
+  fundstelle: ZPO in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431;
+    2007 I S. 1781)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. Kein KI-spezifisches Prozessrecht; Offenlegungs- und Verifikationspflichten
+    werden diskutiert, sind aber nicht normiert.
+  inkrafttreten:
+    datum: '1879-10-01'
+    verifiziert: false
+    fundstelle_norm: Maßgeblich ist die Neubekanntmachung vom 05.12.2005.
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - '§ 138 Abs. 1 ZPO: Die Wahrheitspflicht bezieht sich auf tatsächliche Umstände. Ob sie auch erfundene
+    Rechtsprechungszitate erfasst, ist die offene Frage der deutschen Halluzinationsfälle; das KG Berlin
+    (17 WF 144/25) löst sie über das Berufsrecht.'
+  - '§ 522 Abs. 2 ZPO: Der Zurückweisungsbeschluss ist der prozessuale Weg, auf dem Berufungsgerichte
+    offensichtlich aussichtslose, auf erfundene Fundstellen gestützte Rechtsmittel erledigen.'
+  - '§ 294 ZPO: Im einstweiligen Verfügungsverfahren ist die eidesstattliche Versicherung das Mittel,
+    mit dem der menschliche Schöpfungsanteil an einem teilweise KI-erzeugten Werk glaubhaft gemacht wird
+    (LG Frankfurt am Main, 2-06 O 401/25).'
+  - § 287 ZPO trägt die Schätzung der Geldentschädigung für KI-generierte Persönlichkeitsrechtsverletzungen.
+  - Keine Vorschrift verpflichtet Parteien oder Bevollmächtigte, den Einsatz generativer Systeme offenzulegen
+    — anders als in mehreren Common-Law-Jurisdiktionen.
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: ZPO — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/zpo/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-uwg-ki-lauterkeitsrecht
+  jurisdiktion: de
+  kurztitel: Lauterkeitsrecht und KI-gestützte Kommunikation (UWG)
+  offizieller_titel: §§ 3, 3a, 5, 5a, 8 Gesetz gegen den unlauteren Wettbewerb
+  fundstelle: UWG in der Fassung der Bekanntmachung vom 3. März 2010 (BGBl. I S. 254), zuletzt geändert
+    durch das Gesetz zur Stärkung des Verbraucherschutzes im Wettbewerbs- und Gewerberecht vom 10. August
+    2021 (BGBl. I S. 3504)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. Die Zurechnung von Chatbot-Aussagen ist erstmals obergerichtlich entschieden
+    (OLG Hamm, 12.05.2026).
+  inkrafttreten:
+    datum: '2004-07-08'
+    verifiziert: false
+    fundstelle_norm: Maßgeblich ist die Neubekanntmachung vom 03.03.2010.
+  themenachsen:
+  - wettbewerb
+  - content
+  regelungsschwerpunkte:
+  - '§ 5 UWG: Das OLG Hamm (I-4 UKl 3/25) rechnet unwahre Angaben eines Kundenchatbots dem Unternehmen
+    als eigene geschäftliche Handlung zu; der Chatbot ist kein unbeherrschbarer Dritter.'
+  - § 8 Abs. 2 UWG erstreckt Unterlassungs- und Beseitigungsanspruch auf den Unternehmensinhaber, wenn
+    Mitarbeiter oder Beauftragte handeln — die Zurechnungsnorm, deren Übertragung auf Softwareagenten
+    diskutiert wird.
+  - § 3a UWG ist der Transmissionsriemen, über den Verstöße gegen RDG, DSGVO und künftig die KI-VO lauterkeitsrechtlich
+    verfolgbar werden.
+  - § 5a Abs. 4 UWG verlangt die Kenntlichmachung des kommerziellen Zwecks; für KI-generierte Werbeformate
+    und Empfehlungen ist das die praktisch wichtigste Kennzeichnungspflicht neben Art. 50 KI-VO.
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: UWG — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/uwg_2004/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-gwb-algorithmen-marktmacht
+  jurisdiktion: de
+  kurztitel: Kartellrecht, algorithmische Kollusion und Plattformmacht (GWB)
+  offizieller_titel: §§ 1, 19, 19a Gesetz gegen Wettbewerbsbeschränkungen
+  fundstelle: GWB in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245); § 19a eingefügt
+    durch das GWB-Digitalisierungsgesetz vom 18. Januar 2021 (BGBl. I S. 2)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. § 19a GWB seit dem 19.01.2021; die Befristung der Verfügungen auf fünf Jahre
+    führt ab 2026 zu Verlängerungsverfahren.
+  inkrafttreten:
+    datum: '2021-01-19'
+    verifiziert: true
+    fundstelle_norm: GWB-Digitalisierungsgesetz vom 18.01.2021 (BGBl. I S. 2), Inkrafttreten am Tag nach
+      der Verkündung.
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  regelungsschwerpunkte:
+  - '§ 1 GWB: Klassische Preisabsprachen bleiben auch bei algorithmischer Umsetzung erfasst. Autonome
+    algorithmische Kollusion ohne menschliche Abstimmung entzieht sich dem Vereinbarungs- und Abstimmungsbegriff
+    — die zentrale Lücke.'
+  - § 19 Abs. 2 Nr. 4 GWB nennt den Zugang zu Daten ausdrücklich; die Norm ist der Ansatzpunkt für Zugangsansprüche
+    zu Trainingsdaten und Modellschnittstellen.
+  - '§ 19a GWB: Die Feststellung überragender marktübergreifender Bedeutung erfasst inzwischen die Anbieter
+    der wichtigsten Basismodelle; Abs. 2 Nr. 1 (Selbstbevorzugung) und Nr. 5 (Interoperabilität) sind
+    für KI-Dienste einschlägig.'
+  - 'Verhältnis zum DMA: § 19a GWB gilt neben der VO (EU) 2022/1925 und reicht sachlich weiter, weil er
+    nicht an einen abschließenden Katalog zentraler Plattformdienste gebunden ist.'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: GWB — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/gwb/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-markeng-ki-kennzeichen
+  jurisdiktion: de
+  kurztitel: Markenrechtliche Benutzung in KI-Ausgaben (MarkenG)
+  offizieller_titel: § 14 Gesetz über den Schutz von Marken und sonstigen Kennzeichen
+  fundstelle: MarkenG vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156; 1996 I S. 682), zuletzt geändert
+    durch das Markenrechtsmodernisierungsgesetz vom 11. Dezember 2018 (BGBl. I S. 2357)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft. Erste deutsche Entscheidung zur markenmäßigen Benutzung in KI-Übersichten 2026.
+  inkrafttreten:
+    datum: '1995-01-01'
+    verifiziert: true
+  themenachsen:
+  - wettbewerb
+  - content
+  regelungsschwerpunkte:
+  - 'Streitfrage: Ist die Nennung einer Marke in einer KI-generierten Suchzusammenfassung eine Benutzung
+    im geschäftlichen Verkehr und markenmäßig? Das LG Berlin II (52 O 62/26 eV) hatte darüber im Zusammenhang
+    mit Duftzwillingen zu entscheiden.'
+  - § 14 Abs. 2 Nr. 3 MarkenG (Bekanntheitsschutz) ist einschlägig, wenn ein Modell den Ruf einer bekannten
+    Marke zur Beschreibung eines Konkurrenzprodukts ausnutzt.
+  - § 14 Abs. 7 MarkenG begründet die Haftung des Betriebsinhabers für Angestellte und Beauftragte — dieselbe
+    Zurechnungsfrage wie in § 8 Abs. 2 UWG.
+  - 'Parallelnorm des Unionsrechts: Art. 9 UMV (VO (EU) 2017/1001).'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: MarkenG — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/markeng/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-mstv-medienintermediaere
+  jurisdiktion: de
+  kurztitel: 'Medienstaatsvertrag: Sorgfaltspflichten und Medienintermediäre'
+  offizieller_titel: §§ 18, 19 sowie §§ 91 bis 96 Staatsvertrag zur Modernisierung der Medienordnung in
+    Deutschland (Medienstaatsvertrag — MStV)
+  fundstelle: Medienstaatsvertrag vom 14. bis 28. April 2020, in Kraft seit dem 7. November 2020; Landesrecht
+    in allen sechzehn Ländern, zuletzt geändert durch den Fünften Medienänderungsstaatsvertrag
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft seit dem 07.11.2020. Länderrecht; die Anwendung auf generative Suchassistenten
+    ist ungeklärt.
+  inkrafttreten:
+    datum: '2020-11-07'
+    verifiziert: true
+  themenachsen:
+  - content
+  - wettbewerb
+  - governance
+  regelungsschwerpunkte:
+  - '§ 19 MStV: Journalistische Sorgfaltspflichten gelten für journalistisch-redaktionell gestaltete Telemedien.
+    Ob KI-generierte Nachrichtenzusammenfassungen und Suchübersichten darunter fallen, ist die Kernfrage
+    der deutschen Debatte um AI Overviews.'
+  - § 93 MStV verpflichtet Medienintermediäre, die Kriterien für Zugang, Aggregation, Selektion und Präsentation
+    von Inhalten sowie deren Gewichtung leicht wahrnehmbar, unmittelbar erreichbar und ständig verfügbar
+    offenzulegen — eine Transparenzpflicht mit größerer Reichweite als Art. 27 DSA.
+  - § 94 MStV verbietet die unbillige systematische Behinderung journalistisch-redaktioneller Angebote;
+    die Norm ist der medienrechtliche Gegenpart zur kartellrechtlichen Selbstbevorzugung.
+  - § 91 Abs. 2 MStV nimmt Intermediäre mit weniger als einer Million monatlichen Nutzern aus; die Schwelle
+    entscheidet über die Erfassung KI-gestützter Assistenten.
+  - 'Zuständigkeit: die Landesmedienanstalten, nicht die Bundesnetzagentur — Reibungsfläche zur KI-Aufsicht
+    nach dem KI-MIG.'
+  dokumente:
+  - datum: '2020-11-07'
+    typ: konsolidiert
+    titel: Medienstaatsvertrag — konsolidierte Fassung der Medienanstalten
+    url: https://www.die-medienanstalten.de/fileadmin/user_upload/Rechtsgrundlagen/Gesetze_Staatsvertraege/Medienstaatsvertrag_MStV.pdf
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'
+- id: de-agg-algorithmische-diskriminierung
+  jurisdiktion: de
+  kurztitel: AGG und algorithmische Benachteiligung
+  offizieller_titel: §§ 1, 3, 7, 22 Allgemeines Gleichbehandlungsgesetz
+  fundstelle: AGG vom 14. August 2006 (BGBl. I S. 1897), zuletzt geändert durch Gesetz vom 19. Dezember
+    2022 (BGBl. I S. 2510)
+  celex: null
+  status: anwendbar
+  status_detail: In Kraft seit dem 18.08.2006. Reformbedarf für algorithmische Systeme ist gutachtlich
+    festgestellt, aber nicht umgesetzt.
+  inkrafttreten:
+    datum: '2006-08-18'
+    verifiziert: true
+  themenachsen:
+  - grundrechte
+  - arbeit
+  regelungsschwerpunkte:
+  - '§ 3 AGG: Die Unterscheidung von unmittelbarer und mittelbarer Benachteiligung passt nicht auf statistisch
+    trainierte Systeme, die geschützte Merkmale über Proxy-Variablen rekonstruieren, ohne sie zu verarbeiten.'
+  - '§ 22 AGG: Die Beweislastumkehr setzt Indizien voraus, die der Betroffene beweisen muss. Ohne Einsicht
+    in die Systemlogik ist diese Hürde praktisch nicht zu nehmen — der Befund des Gutachtens von Spiecker
+    gen. Döhmann und Towfigh für die Antidiskriminierungsstelle des Bundes.'
+  - 'Adressatenlücke: Das AGG verpflichtet Arbeitgeber und Anbieter von Massengeschäften, nicht die Hersteller
+    der eingesetzten Systeme.'
+  - 'Verhältnis zur KI-VO: Art. 10 Abs. 2 und Abs. 5 KI-VO adressieren Verzerrungen im Trainingsdatensatz,
+    begründen aber keine individuellen Ansprüche; das AGG begründet Ansprüche, erreicht aber den Hersteller
+    nicht.'
+  dokumente:
+  - datum: '2026-09-06'
+    typ: konsolidiert
+    titel: AGG — konsolidierte Fassung
+    url: https://www.gesetze-im-internet.de/agg/
+    sprache: DE
+    verifiziert: true
+  fristen: []
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.gesetze-im-internet.de/
+  letzte_pruefung: '2026-09-06'

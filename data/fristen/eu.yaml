@@ -1,0 +1,296 @@
+fristen:
+- id: ki-vo-2024-1689-f1
+  datum: 2026-12-02
+  beschreibung: 'Zwei Stichtage fallen zusammen. Erstens gelten ab diesem Tag die durch die VO (EU) 2026/1744
+    eingefügten Verbote des Art. 5 Abs. 1 UAbs. 1 lit. ba (KI-erzeugte nicht einvernehmliche intime Darstellungen)
+    und lit. bb (Darstellungen sexuellen Kindesmissbrauchs) sowie Art. 5 Abs. 1a und 1b; Art. 113 Abs.
+    3 lit. a KI-VO nimmt sie ausdrücklich vom Geltungsbeginn der Kapitel I und II am 02.02.2025 aus. Zweitens
+    endet nach Art. 111 Abs. 4 KI-VO die Übergangsfrist für Anbieter von KI-Systemen einschließlich GPAI-Systemen,
+    die synthetische Audio-, Bild-, Video- oder Textinhalte erzeugen und vor dem 02.08.2026 in Verkehr
+    gebracht wurden: Sie müssen bis zu diesem Tag die maschinenlesbare Kennzeichnung nach Art. 50 Abs.
+    2 KI-VO umgesetzt haben.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: ki-vo-2024-1689
+  adressat: Anbieter und Betreiber von KI-Systemen mit den verbotenen Praktiken; Anbieter generativer
+    KI-Systeme und GPAI-Systeme, die vor dem 02.08.2026 in Verkehr gebracht wurden
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 113 Abs. 3 lit. a KI-VO (für Art. 5 Abs. 1 UAbs. 1 lit. ba, bb und Art. 5 Abs.
+    1a, 1b) sowie Art. 111 Abs. 4 KI-VO (für Art. 50 Abs. 2), beide i.d.F. der VO (EU) 2026/1744
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: ki-vo-2024-1689-f2
+  datum: 2027-08-02
+  beschreibung: 'Zwei Pflichten werden fällig. Erstens müssen Anbieter von KI-Modellen mit allgemeinem
+    Verwendungszweck, die vor dem 02.08.2025 in Verkehr gebracht wurden, bis zu diesem Tag die Pflichten
+    des Kapitels V erfüllen (Art. 111 Abs. 3 KI-VO). Zweitens muss jeder Mitgliedstaat bis dahin mindestens
+    ein nationales KI-Reallabor einsatzbereit haben (Art. 57 Abs. 1 KI-VO i.d.F. der VO (EU) 2026/1744).
+    Die Leitlinien der Kommission zur Hochrisiko-Einstufung gehören nicht hierher: Art. 6 Abs. 5 KI-VO
+    verlangt sie "spätestens bis zum 2. Februar 2026"; die Frist ist verstrichen, ohne dass eine Endfassung
+    vorliegt.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: ki-vo-2024-1689
+  adressat: GPAI-Anbieter; Mitgliedstaaten; Kommission
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 111 Abs. 3 KI-VO; Art. 57 Abs. 1 KI-VO i.d.F. der VO (EU) 2026/1744
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: ki-vo-2024-1689-f3
+  datum: 2027-12-02
+  beschreibung: 'Kapitel III Abschnitte 1 bis 3 KI-VO (Anforderungen an Hochrisiko-KI-Systeme und Pflichten
+    der Akteure) gelten ab diesem Tag für Systeme, die nach Art. 6 Abs. 2 und Anhang III als hochriskant
+    eingestuft sind — Biometrie, kritische Infrastruktur, Bildung, Beschäftigung, wesentliche private
+    und öffentliche Dienste, Strafverfolgung, Migration und Grenzkontrolle, Justiz und Demokratie. Durch
+    die VO (EU) 2026/1744 vom ursprünglichen 02.08.2026 verschoben. Ausgenommen bleibt Art. 6 Abs. 5.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: ki-vo-2024-1689
+  adressat: Anbieter/Betreiber von Anhang-III-Hochrisiko-KI
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 113 Abs. 3 lit. c Ziff. i KI-VO i.d.F. der VO (EU) 2026/1744
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: ki-vo-2024-1689-f4
+  datum: 2028-08-02
+  beschreibung: 'Kapitel III Abschnitte 1 bis 3 KI-VO gelten ab diesem Tag für KI-Systeme, die nach Art.
+    6 Abs. 1 und Anhang I als hochriskant eingestuft sind, also für KI als Sicherheitsbauteil von Produkten
+    unter den Harmonisierungsrechtsvorschriften der Union. Durch die VO (EU) 2026/1744 vom ursprünglichen
+    02.08.2027 verschoben. Zum selben Tag gelten die delegierten Rechtsakte zur Maschinen-VO (EU) 2023/1230
+    (siehe maschinenverordnung-2023-1230-f2).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: ki-vo-2024-1689
+  adressat: Produkthersteller mit KI-Sicherheitsbauteilen; Kommission
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 113 Abs. 3 lit. c Ziff. ii KI-VO i.d.F. der VO (EU) 2026/1744
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: digital-omnibus-ai-2026-1744-f1
+  datum: 2028-08-02
+  beschreibung: 'Art. 3 Nr. 1 der VO (EU) 2026/1744 fügt Art. 8 der Maschinen-VO (EU) 2023/1230 zwei Absätze
+    an: Die Kommission erlässt delegierte Rechtsakte, die Anhang III der Maschinen-VO um Sicherheits-
+    und Gesundheitsschutzanforderungen für KI-Systeme ergänzen, die nach Art. 6 Abs. 1 KI-VO als hochriskant
+    gelten. Der Verordnungstext bestimmt: ''Diese delegierten Rechtsakte gelten ab dem 2. August 2028.''
+    Präzisierung gegenüber der früheren Fassung dieses Eintrags: Der 02.08.2028 ist der Geltungsbeginn
+    der delegierten Rechtsakte, nicht eine Erlassfrist der Kommission.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: digital-omnibus-ai-2026-1744
+  adressat: Europäische Kommission
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32026R1744
+  verifiziert: true
+  fundstelle_norm: Art. 3 Nr. 1 VO (EU) 2026/1744 (angefügte Absätze zu Art. 8 VO (EU) 2023/1230)
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: durchfuehrungs-und-delegierte-rechtsakte-ki-vo-f1
+  datum: 2027-08-02
+  beschreibung: 'Der Stichtag folgt aus dem durch die VO (EU) 2026/1744 eingefügten Art. 2 Abs. 13 KI-VO:
+    Die Kommission erlässt bis zum 02.08.2027 delegierte Rechtsakte, mit denen die Anwendung der Art.
+    9 bis 15 und 17 bis 25 KI-VO auf Anhang-I-Hochrisiko-Systeme beschränkt werden kann, soweit sektorales
+    Unionsrecht ein gleichwertiges oder höheres Schutzniveau bietet. Weitere Fristen der Kommission in
+    der geltenden Fassung: Leitlinien nach Art. 96 Abs. 1 lit. g KI-VO (praktische Umsetzung von Art.
+    8 Abs. 2, Art. 9 Abs. 10, Art. 17 Abs. 3) bis zum 01.08.2027; Leitlinien einschließlich Muster für
+    den Plan der Beobachtung nach dem Inverkehrbringen nach Art. 72 Abs. 3 KI-VO bis zum 02.09.2027. Die
+    Leitlinien zur Hochrisiko-Einstufung nach Art. 6 Abs. 5 KI-VO waren dagegen ''spätestens bis zum 2.
+    Februar 2026'' zu erlassen — diese Frist ist verstrichen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: durchführungs-und-delegierte-rechtsakte-ki-vo
+  adressat: Europäische Kommission
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 2 Abs. 13 KI-VO i.d.F. der VO (EU) 2026/1744; ferner Art. 96 Abs. 1 lit. g (01.08.2027),
+    Art. 72 Abs. 3 (02.09.2027), Art. 6 Abs. 5 (02.02.2026, verstrichen)
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: harmonisierte-normen-jtc21-f1
+  datum: 2026-12-31
+  beschreibung: 'Zielhorizont Q4 2026 für die Verfügbarkeit der Schlüsselnormen zur KI-VO. CEN und CENELEC
+    haben auf der gemeinsamen Sitzung ihrer Technischen Boards vom 14. bis 16.10.2025 ein außergewöhnliches
+    Maßnahmenpaket beschlossen (u. a. Direktveröffentlichung nach positiver Umfrage ohne gesonderte Schlussabstimmung),
+    ''to ensure these standards are available by Q4 2026''. Kein Rechtsakt und keine gesetzliche Frist.
+    Verfügbarkeit ist nicht Zitierung: Die Vermutungswirkung des Art. 40 KI-VO tritt erst mit der Zitierung
+    im Amtsblatt ein, die zusätzlich die Bewertung durch die Kommission voraussetzt.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: harmonisierte-normen-jtc21
+  adressat: CEN-CENELEC JTC 21
+  handlungsbedarf: null
+  quelle: https://www.cencenelec.eu/news-events/news/2025/brief-news/2025-10-23-ai-standardization/
+  verifiziert: true
+  fundstelle_norm: 'Kein Rechtsakt — Beschluss der Technischen Boards von CEN und CENELEC vom 14.-16.10.2025,
+    veröffentlicht am 23.10.2025; rechtliche Anknüpfung: Art. 40 KI-VO'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: produkthaftungsrichtlinie-2024-2853-f1
+  datum: 2026-12-09
+  beschreibung: 'Umsetzungsfrist der Mitgliedstaaten nach Art. 22 Abs. 1 RL (EU) 2024/2853. Zugleich der
+    zeitliche Anwendungsschnitt: Die Richtlinie gilt nach Art. 2 Abs. 1 für Produkte, die nach dem 09.12.2026
+    in Verkehr gebracht oder in Betrieb genommen werden; die Richtlinie 85/374/EWG wird nach Art. 21 mit
+    Wirkung vom 09.12.2026 aufgehoben, gilt aber für vorher in Verkehr gebrachte Produkte fort. Software
+    einschließlich KI-Systemen ist Produkt im Sinne der neuen Richtlinie.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: produkthaftungsrichtlinie-2024-2853
+  adressat: Mitgliedstaaten; Hersteller, Importeure, Fulfilment-Dienstleister, Softwareanbieter
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024L2853
+  verifiziert: true
+  fundstelle_norm: Art. 22 Abs. 1 i.V.m. Art. 2 Abs. 1 und Art. 21 RL (EU) 2024/2853
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: data-act-2023-2854-f1
+  datum: 2026-09-12
+  beschreibung: 'Die Designpflicht des Art. 3 Abs. 1 Data Act (Zugänglichkeit der Produktdaten ''by design'')
+    gilt für vernetzte Produkte und die mit ihnen verbundenen Dienste, die nach dem 12.09.2026 in Verkehr
+    gebracht wurden. Die Verordnung im Übrigen gilt bereits seit dem 12.09.2025.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: data-act-2023-2854
+  adressat: Hersteller vernetzter Produkte
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854
+  verifiziert: true
+  fundstelle_norm: Art. 50 UAbs. 3 VO (EU) 2023/2854
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: cyber-resilience-act-2024-2847-f1
+  datum: 2026-09-11
+  beschreibung: 'Art. 14 CRA wird wirksam: Meldepflichten der Hersteller gegenüber CSIRT und ENISA bei
+    aktiv ausgenutzten Schwachstellen und schwerwiegenden Sicherheitsvorfällen (Frühwarnung binnen 24
+    Stunden, Meldung binnen 72 Stunden, Abschlussbericht). Die Verordnung im Übrigen gilt erst ab dem
+    11.12.2027; Kapitel IV (Art. 35 bis 51, notifizierte Stellen) gilt bereits seit dem 11.06.2026.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: cyber-resilience-act-2024-2847
+  adressat: Hersteller von Produkten mit digitalen Elementen (einschließlich KI-Software)
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024R2847
+  verifiziert: true
+  fundstelle_norm: Art. 71 Abs. 2 Satz 2 VO (EU) 2024/2847
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: cyber-resilience-act-2024-2847-f2
+  datum: 2027-12-11
+  beschreibung: 'Volle Anwendung des Cyber Resilience Act nach Art. 71 Abs. 2 Satz 1 VO (EU) 2024/2847
+    — ab diesem Tag dürfen Produkte mit digitalen Elementen nur noch in Verkehr gebracht werden, wenn
+    sie die grundlegenden Cybersicherheitsanforderungen des Anhangs I erfüllen und das Konformitätsbewertungsverfahren
+    durchlaufen haben.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: cyber-resilience-act-2024-2847
+  adressat: Hersteller, Importeure, Händler
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024R2847
+  verifiziert: true
+  fundstelle_norm: Art. 71 Abs. 2 Satz 1 VO (EU) 2024/2847
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: maschinenverordnung-2023-1230-f1
+  datum: 2027-01-20
+  beschreibung: 'Die Maschinen-VO (EU) 2023/1230 wird anwendbar; zugleich wird die Maschinenrichtlinie
+    2006/42/EG mit Wirkung vom 20.01.2027 aufgehoben (Art. 51 Abs. 2). Einzelne Vorschriften gelten früher
+    (Art. 26 bis 42 seit 20.01.2024, Art. 50 Abs. 1 seit 20.10.2026).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: maschinenverordnung-2023-1230
+  adressat: Maschinenhersteller, Systemintegratoren
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02023R1230-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 54 UAbs. 2 VO (EU) 2023/1230 (i.d.F. des Korrigendums)
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: maschinenverordnung-2023-1230-f2
+  datum: 2028-08-02
+  beschreibung: 'Geltungsbeginn der delegierten Rechtsakte, mit denen die Kommission Anhang III der Maschinen-VO
+    um Sicherheits- und Gesundheitsschutzanforderungen für Hochrisiko-KI nach Art. 6 Abs. 1 KI-VO ergänzt.
+    Grundlage sind die durch Art. 3 Nr. 1 VO (EU) 2026/1744 an Art. 8 Maschinen-VO angefügten Absätze;
+    deren Schlusssatz lautet: ''Diese delegierten Rechtsakte gelten ab dem 2. August 2028.'' Der Tag ist
+    mit Art. 113 Abs. 3 lit. c Ziff. ii KI-VO synchronisiert.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: eu
+  regelwerk: maschinenverordnung-2023-1230
+  adressat: Europäische Kommission
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02023R1230-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 8 Abs. 3 und 4 VO (EU) 2023/1230, angefügt durch Art. 3 Nr. 1 VO (EU) 2026/1744
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7

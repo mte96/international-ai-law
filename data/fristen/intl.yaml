@@ -1,0 +1,390 @@
+fristen:
+- id: kr-ai-framework-act-f1
+  datum: 2027-01-22
+  beschreibung: 'Voraussichtliches Ende der einjährigen Karenz, in der das Ministerium für Wissenschaft
+    und IKT bei Verstößen gegen das koreanische KI-Rahmengesetz beraten statt bußen will. Amtlich belegt
+    ist nur der Anknüpfungspunkt: Das 인공지능 발전과 신뢰 기반 조성 등에 관한 기본법 (Gesetz Nr. 20676, verkündet am 21.01.2025)
+    ist am 22.01.2026 in Kraft getreten. Die Karenz beruht auf einer Verwaltungsankündigung, nicht auf
+    einer Übergangsvorschrift des Gesetzes; ein Enddatum ist rechtlich nirgends fixiert. Das hier eingetragene
+    Datum ist deshalb ein abgeleiteter Beobachtungsstichtag (ein Jahr nach Inkrafttreten), kein gesetzlicher
+    Stichtag. Ab Ende der Karenz ist mit Bußgeldern bis 30 Mio. KRW und mit Abhilfeanordnungen zu rechnen.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: kr
+  regelwerk: kr-ai-framework-act
+  adressat: Alle Anbieter und Betreiber von KI-Systemen mit Wirkung auf den koreanischen Markt, insbesondere
+    ausländische Anbieter oberhalb der Schwellen für den inländischen Vertreter
+  handlungsbedarf: Prüfen, ob eigene Angebote als hochwirksame KI einzustufen sind und ob die Schwellen
+    für die Benennung eines inländischen Vertreters erreicht werden.
+  quelle: https://www.law.go.kr/lsInfoP.do?lsiSeq=268543
+  verifiziert: false
+  fundstelle_norm: 'Inkrafttreten: 부칙 (Addendum) zum Gesetz Nr. 20676, 시행일 22.01.2026 — für das Karenzende
+    selbst existiert keine Vorschrift'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+  pruefvermerk: 'Gesetzesdaten am Nationalen Rechtsinformationszentrum (law.go.kr) belegt. Eine amtliche
+    MSIT-Bekanntmachung mit dem Enddatum der Karenz war über Suche und Direktabruf nicht auffindbar; die
+    frühere Quelle war eine Kanzleiseite.
+
+    '
+- id: cn-beijing-ki-vo-f1
+  datum: 2026-12-31
+  beschreibung: 'Ende des Pekinger Gesetzgebungsjahres 2026 als Beobachtungsstichtag. Die 北京市人工智能产业发展条例
+    (Verordnung über die Entwicklung der KI-Industrie) ist im Gesetzgebungsarbeitsplan des Ständigen Ausschusses
+    des Pekinger Volkskongresses für 2026 vom 04.03.2026 als 审议项目 (Beratungsgegenstand) geführt und im
+    Gesetzgebungsarbeitsplan der Stadtregierung vom 14.05.2026 als 提请审议项目 (zur Beratung einzubringendes
+    Vorhaben, Federführung: Kommission für Entwicklung und Reform). Beide Pläne nennen keinen Termin innerhalb
+    des Jahres und behalten sich Verschiebungen ausdrücklich vor. Bis Jahresende ist mit einem Entwurfstext
+    oder einem Beschluss zu rechnen; andernfalls wandert das Vorhaben in den Plan 2027.
+
+    '
+  typ: pruefung
+  jurisdiktion: cn
+  regelwerk: cn-beijing-ki-vo
+  adressat: Anbieter mit Sitz oder Partnerstruktur in Peking
+  handlungsbedarf: Bei Veröffentlichung eines Entwurfs die Konsultationsfrist prüfen und den Eintrag fortschreiben.
+  quelle: https://www.bjrd.gov.cn/zyfb/202603/t20260304_4549664.html
+  verifiziert: false
+  fundstelle_norm: 北京市人大常委会2026年立法工作计划 vom 04.03.2026 (审议项目); 市政府2026年立法工作计划 vom 14.05.2026 (提请审议项目) —
+    keine amtliche Frist, Jahresendstichtag selbst gesetzt
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: sg-mas-ki-risiko-f1
+  datum: 2026-12-31
+  beschreibung: 'Beobachtungsstichtag für den Erlass der endgültigen MAS-Leitlinien zum KI-Risikomanagement.
+    Amtlich belegt ist der Verfahrensstand: Die Konsultation P017-2025 ''Consultation Paper on Proposed
+    Guidelines on Artificial Intelligence Risk Management for Financial Institutions'' lief vom 13.11.2025
+    bis zum 31.01.2026 und ist geschlossen; bei Rechercheschluss am 05.09.2026 liegt keine Endfassung
+    vor. Erst mit dem Erlassdatum steht fest, bis wann beaufsichtigte Institute und ihre Zulieferer die
+    Anforderungen umgesetzt haben müssen; die im Konsultationspapier vorgesehene Übergangsfrist ist hier
+    nicht am Primärtext geprüft. Das Jahresenddatum ist selbst gesetzt, keine MAS-Frist.
+
+    '
+  typ: pruefung
+  jurisdiktion: sg
+  regelwerk: sg-mas-ki-risiko
+  adressat: Von der MAS beaufsichtigte Institute und ihre KI-Zulieferer
+  handlungsbedarf: Erlass der Endfassung verfolgen und den Beginn der zwölfmonatigen Übergangsfrist eintragen.
+  quelle: https://www.mas.gov.sg/publications/consultations/2025/consultation-paper-on-guidelines-on-artificial-intelligence-risk-management
+  verifiziert: false
+  fundstelle_norm: Keine Rechtsnorm — MAS-Konsultation P017-2025 (13.11.2025 bis 31.01.2026, Status CLOSED);
+    Leitlinien der MAS sind kein Gesetz, sondern Aufsichtserwartung
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: jp-ki-basisplan-f1
+  datum: 2026-12-23
+  beschreibung: 'Erwartete erste Fortschreibung des japanischen KI-Basisplans. Der Plan sieht eine grundsätzlich
+    jährliche Revision vor; der erste Plan wurde am 23.12.2025 vom Kabinett beschlossen. Die Fortschreibung
+    ist der Ort, an dem eine japanische Hinwendung zu verbindlichen Regeln zuerst sichtbar würde. Datum
+    abgeleitet, nicht amtlich angekündigt.
+
+    '
+  typ: pruefung
+  jurisdiktion: jp
+  regelwerk: jp-ki-basisplan
+  adressat: Anbieter mit Japangeschäft; Beobachtung der Regulierungsrichtung
+  handlungsbedarf: Fortgeschriebenen Plan auf Ankündigungen verbindlicher Pflichten prüfen, insbesondere
+    zu Kennzeichnung und Urheberrecht.
+  quelle: https://www8.cao.go.jp/cstp/stmain/20260619ai/aiplan_2601_draft_en.pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: jp-appi-f1
+  datum: 2028-07-17
+  beschreibung: 'Spätestes Inkrafttreten der japanischen APPI-Novelle. Das 「個人情報の保護に関する法律等の一部を改正する法律」
+    wurde nach der Bekanntmachung der Datenschutzkommission (PPC) am 17.07.2026 verkündet. Es tritt —
+    mit Ausnahmen — an einem durch Regierungsverordnung (政令) zu bestimmenden Tag innerhalb von zwei Jahren
+    nach der Verkündung in Kraft; die äußerste Grenze ist damit der 17.07.2028. Das genaue Datum steht
+    noch nicht fest, die PPC arbeitet an Verordnungen, Regeln und Leitlinien. Mit der Novelle entfällt
+    das Einwilligungserfordernis für die Weitergabe personenbezogener Daten an Dritte zu Statistik- und
+    KI-Entwicklungszwecken, und es beginnt das neue Abschöpfungsregime der Kommission.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: jp
+  regelwerk: jp-appi
+  adressat: Verantwortliche mit Datenverarbeitung in Japan; Anbieter, die japanische Trainingsdaten beziehen
+  handlungsbedarf: Vor Inkrafttreten prüfen, ob Beschaffungswege für Trainingsdaten über Japan geführt
+    werden können, und das Sanktionsrisiko neu bewerten.
+  quelle: https://www.ppc.go.jp/personalinfo/legal/r8kaiseihogohou/
+  verifiziert: true
+  fundstelle_norm: '附則 (Inkrafttretensvorschrift) des Änderungsgesetzes: 公布の日から起算して2年以内において政令で定める日; Verkündung
+    17.07.2026 (PPC-Bekanntmachung vom 17.07.2026)'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: ca-osfi-e23-f1
+  datum: 2027-05-01
+  beschreibung: 'OSFI Guideline E-23 (Model Risk Management) wird auf alle bundesregulierten kanadischen
+    Finanzinstitute anwendbar, einschließlich aller KI- und ML-Modelle. Bis dahin müssen Modellinventar,
+    Risikoeinstufung, Lebenszyklusdokumentation und Berichtswege stehen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ca
+  regelwerk: ca-osfi-e23
+  adressat: Bundesregulierte Finanzinstitute in Kanada und ihre Modelllieferanten
+  handlungsbedarf: null
+  quelle: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: in-dpdp-rules-2025-f1
+  datum: 2026-11-13
+  beschreibung: 'Zweite Stufe des indischen DPDP-Regimes: Rule 4 der Digital Personal Data Protection
+    Rules, 2025 tritt in Kraft — Registrierungspflicht und Pflichten der Consent Manager; das Data Protection
+    Board erhält insoweit Untersuchungs- und Sanktionsbefugnisse. Die Rules sind als G.S.R. 846(E) am
+    13.11.2025 im Gazette of India veröffentlicht worden. Rule 1 bestimmt, dass Rule 4 ein Jahr nach der
+    Veröffentlichung in Kraft tritt; maßgeblich ist danach der 13.11.2026. Wer die Frist einen Tag später
+    ansetzt, liest ''one year after'' als Tagesausschluss — für die Kalenderführung ist der frühere Termin
+    der sichere.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: in
+  regelwerk: in-dpdp-rules-2025
+  adressat: Anbieter von Einwilligungsverwaltungsdiensten in Indien
+  handlungsbedarf: null
+  quelle: https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf
+  verifiziert: true
+  fundstelle_norm: Rule 1 (Short title and commencement) i.V.m. Rule 4 Digital Personal Data Protection
+    Rules, 2025, G.S.R. 846(E) vom 13.11.2025
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: in-dpdp-rules-2025-f2
+  datum: 2027-05-13
+  beschreibung: 'Dritte und letzte Stufe: Die Rules 3 und 5 bis 16 sowie 22 und 23 der Digital Personal
+    Data Protection Rules, 2025 treten achtzehn Monate nach der Veröffentlichung im Gazette (G.S.R. 846(E)
+    vom 13.11.2025) in Kraft und machen damit die materiellen Pflichten des DPDP Act 2023 anwendbar —
+    Information und Einwilligung, Meldung von Datenschutzverletzungen, Sicherheitsmaßnahmen, verifizierte
+    Einwilligung für Kinder, Pflichten der Significant Data Fiduciaries einschließlich der Sorgfaltsprüfung
+    algorithmischer Software, Betroffenenrechte und Beschränkungen der Auslandsübermittlung.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: in
+  regelwerk: in-dpdp-act-2023
+  adressat: Alle Data Fiduciaries mit Bezug zu Indien, insbesondere KI-Anbieter mit indischem Publikum
+  handlungsbedarf: null
+  quelle: https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf
+  verifiziert: true
+  fundstelle_norm: Rule 1 (Short title and commencement) i.V.m. Rules 3, 5-16, 22, 23 Digital Personal
+    Data Protection Rules, 2025, G.S.R. 846(E) vom 13.11.2025
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: br-anpd-ki-aufsicht-f1
+  datum: 2026-12-31
+  beschreibung: 'Beobachtungsstichtag für den Abschluss des brasilianischen Regulierungssandkastens zu
+    KI und Datenschutz. Amtlich belegt ist der Verfahrensstand: Die ANPD hat über das Edital Nr. 2/2025
+    drei Unternehmen (Metatext, Synapse AI, Prevvine Tecnologia) ausgewählt, die im März 2026 begonnen
+    haben, und am 02.07.2026 den 1. Teilbericht der Überwachung veröffentlicht; weitere Zyklen sollen
+    Sicherheit, Transparenz, Datengovernance und Anonymisierung vertiefen. Ein amtlich veröffentlichtes
+    Enddatum des Projekts oder ein Termin für den Abschlussbericht ist nicht auffindbar; der hier eingetragene
+    Jahresendtermin ist selbst gesetzt. Der Abschlussbericht soll die Grundlage der Regulierung automatisierter
+    Entscheidungen nach Art. 20 LGPD bilden.
+
+    '
+  typ: pruefung
+  jurisdiktion: br
+  regelwerk: br-anpd-ki-aufsicht
+  adressat: Teilnehmende Unternehmen und alle Verantwortlichen mit automatisierten Entscheidungen in Brasilien
+  handlungsbedarf: null
+  quelle: https://www.gov.br/anpd/pt-br/assuntos/projetos-acoes-iniciativas/sandbox
+  verifiziert: false
+  fundstelle_norm: 'Keine Rechtsnorm — Edital ANPD Nr. 2/2025 (Sandbox Regulatório em IA e Proteção de
+    Dados); rechtlicher Anknüpfungspunkt der späteren Regulierung: Art. 20 LGPD'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-ca-cipa-f1
+  datum: 2027-01-01
+  beschreibung: 'Geplantes Inkrafttreten der Änderung des California Invasion of Privacy Act durch SB
+    690 (Caballero): Wegfall des privaten Klagerechts für pen-register-Ansprüche nach § 638.51 aus Websites,
+    Apps und Online-Anwendungen. Stand: Die Legislative hat SB 690 verabschiedet — nach der Pressemitteilung
+    des Senatsbüros vom 31.08.2026 mit 39:0 in der Assembly —; das Gesetz lag danach beim Gouverneur zur
+    Unterzeichnung. Bei Rechercheschluss am 05.09.2026 ist keine Unterzeichnung belegt. Der 01.01.2027
+    folgt aus der allgemeinen Regel für Gesetze ohne Dringlichkeitsklausel und setzt die Unterzeichnung
+    voraus; er ist nicht am Gesetzestext belegt.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: us
+  regelwerk: us-ca-cipa
+  adressat: Betreiber von Websites und Apps mit kalifornischem Publikum
+  handlungsbedarf: null
+  quelle: https://sd14.senate.ca.gov/news/press-release/senator-caballeros-sb-690-passed-california-legislature-bipartisan-support
+  verifiziert: false
+  fundstelle_norm: Kein belegter Stichtag im Gesetzestext — Inkrafttreten nach der allgemeinen Regel des
+    Art. IV § 8 lit. c California Constitution; Gesetzentwurf SB 690 (2025-2026)
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  pruefvermerk: 'leginfo.legislature.ca.gov ist für automatisierte Abrufe gesperrt (robots.txt bzw. Domainsperre);
+    zwei Versuche, den Bill-Status und den Gesetzestext dort zu lesen, schlugen fehl. Nächster Schritt:
+    Bill-History bei leginfo von Hand prüfen.
+
+    '
+- id: uk-gdpr-f1
+  datum: 2031-12-27
+  beschreibung: 'Ablauf der am 19.12.2025 erneuerten Angemessenheitsbeschlüsse der Europäischen Kommission
+    für das Vereinigte Königreich. Der Durchführungsbeschluss (EU) 2025/2574 fasst Art. 4 des Durchführungsbeschlusses
+    (EU) 2021/1772 (DSGVO) neu: ''Die Geltungsdauer dieses Beschlusses endet am 27. Dezember 2031, sofern
+    sie nicht nach dem in Artikel 93 Absatz 2 der Verordnung (EU) 2016/679 genannten Verfahren verlängert
+    wird.'' Wortgleich für den Bereich der Richtlinie (EU) 2016/680: Art. 4 des Durchführungsbeschlusses
+    (EU) 2021/1773 i.d.F. des Durchführungsbeschlusses (EU) 2025/2571. Beide sind im Amtsblatt vom 23.12.2025
+    veröffentlicht. Die Kommission überwacht die Anwendung fortlaufend und kann die Beschlüsse aussetzen,
+    aufheben oder ändern; Änderungen des britischen Rechts durch Sekundärgesetzgebung nach dem DUAA können
+    sie vorher berühren.
+
+    '
+  typ: pruefung
+  jurisdiktion: uk
+  regelwerk: uk-gdpr
+  adressat: Alle Verantwortlichen, die personenbezogene Daten aus dem EWR in das Vereinigte Königreich
+    übermitteln
+  handlungsbedarf: null
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32025D2574
+  verifiziert: true
+  fundstelle_norm: Art. 4 Durchführungsbeschluss (EU) 2021/1772 i.d.F. des Art. 2 Durchführungsbeschluss
+    (EU) 2025/2574; Art. 4 Durchführungsbeschluss (EU) 2021/1773 i.d.F. des Durchführungsbeschlusses (EU)
+    2025/2571
+  kalender_sync: true
+  vorwarnung_tage:
+  - 365
+  - 180
+  - 90
+- id: iso-en-18286-f1
+  datum: 2026-12-31
+  beschreibung: 'Zielhorizont Q4 2026 für die Verfügbarkeit der vier Schlüsselnormen des JTC 21 (EN 18286
+    erledigt, prEN 18228, prEN 18229-1, prEN 18282 ausstehend). Verfügbarkeit heißt Veröffentlichung,
+    nicht Zitierung im Amtsblatt — die Konformitätsvermutung entsteht erst danach.
+
+    '
+  typ: sonstiges
+  jurisdiktion: iso
+  regelwerk: iso-normungsauftrag-m593-m613
+  adressat: CEN-CENELEC JTC 21; mittelbar Anbieter von Hochrisiko-KI-Systemen
+  handlungsbedarf: 'Zum Jahreswechsel prüfen, welche Normen veröffentlicht sind und ob die Kommission
+    ein Zitierungsverfahren eingeleitet hat.
+
+    '
+  quelle: https://www.cencenelec.eu/news-events/news/2025/brief-news/2025-10-23-ai-standardization/
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: oecd-haip-berichtsrahmen-f1
+  datum: 2026-09-01
+  beschreibung: 'Stichtag für die Aufnahme in die nächste analytische Auswertung des HAIP-Berichtsrahmens.
+    Über 50 Organisationen hatten Berichte zugesagt; in der ersten Runde 2025 waren es 19.
+
+    '
+  typ: einreichung
+  jurisdiktion: oecd
+  regelwerk: öcd-haip-berichtsrahmen
+  adressat: Organisationen, die fortgeschrittene KI-Systeme entwickeln oder einsetzen
+  quelle: https://oecd.ai/en/haip-2-launch
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+  notiz_erledigt: 'Nach dem Stichtag prüfen, wer tatsächlich eingereicht hat — die Differenz zwischen
+    Zusage und Einreichung ist der Gradmesser für die Belastbarkeit freiwilliger Berichtsrahmen.
+
+    '
+- id: coe-rahmenkonvention-ki-cets-225-f1
+  datum: 2026-05-15
+  beschreibung: 'Die amtliche Zeichnungs- und Ratifikationstabelle des Vertragsbüros des Europarats weist
+    mit Stand 05.09.2026 für CETS Nr. 225 genau eine Ratifikation aus: die der Europäischen Union, hinterlegt
+    am 15.05.2026. Die Spalte ''Entry into Force'' ist für die EU leer, die Zahl der Unterzeichnungen
+    ohne Ratifikation beträgt 20. Nach Art. 30 tritt das Übereinkommen erst in Kraft, wenn fünf Unterzeichner,
+    darunter mindestens drei Mitgliedstaaten des Europarats, ihre Zustimmung ausgedrückt haben; erst danach
+    greift für Nachzügler die Regel des ersten Tages des Monats nach Ablauf von drei Monaten. Das Übereinkommen
+    ist damit weder allgemein noch für die EU in Kraft. Der verbreitete Stichtag 01.09.2026 beruht auf
+    einer Berechnung von nicfab.eu, die die Eingangsbedingung des Art. 30 übergeht; er ist widerlegt.
+
+    '
+  typ: sonstiges
+  jurisdiktion: coe
+  regelwerk: cö-rahmenkonvention-ki-cets-225
+  adressat: Europäische Union und ihre Organe; mittelbar Mitgliedstaaten
+  quelle: https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=225
+  verifiziert: true
+  fundstelle_norm: 'Art. 30 CETS Nr. 225 (Inkrafttreten: fünf Ratifikationen, darunter drei Mitgliedstaaten
+    des Europarats); Ratifikationstabelle des Vertragsbüros, Stand 05.09.2026'
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+  notiz_erledigt: 'Erledigt am 05.09.2026: Die amtliche Ratifikationstabelle wurde abgerufen. Der Widerspruch
+    ist aufgelöst — die Konvention ist nicht in Kraft; nicfab.eu lag falsch. Weiter zu beobachten ist,
+    wann vier weitere Ratifikationen erreicht sind.
+
+    '
+  handlungsbedarf: null
+- id: un-res-79-325-f1
+  datum: 2027-05-03
+  beschreibung: 'Zweite Sitzung des Globalen Dialogs über KI-Governance in New York (03./04.05.2027).
+    Die Ko-Vorsitzenden führen im Vorfeld Konsultationen über vorrangige Felder der internationalen KI-Governance
+    — die einzige Stelle, an der die Resolution eine inhaltliche Weiterentwicklung anlegt.
+
+    '
+  typ: sonstiges
+  jurisdiktion: un
+  regelwerk: un-res-79-325
+  adressat: Mitgliedstaaten der Vereinten Nationen, Interessenträger
+  handlungsbedarf: null
+  quelle: https://www.un.org/global-dialogue-ai-governance/en
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: iso-normungsauftrag-m593-m613-f1
+  datum: 2027-12-02
+  beschreibung: 'Anwendungsbeginn der Hochrisiko-Pflichten für Anhang-III-Systeme nach der Verschiebung
+    durch die VO (EU) 2026/1744 (Art. 113 Abs. 3 lit. c Ziff. i KI-VO). Bis dahin müssen die harmonisierten
+    Normen aus dem Normungsauftrag M/593 (geändert durch M/613) nicht nur fertiggestellt, sondern von
+    der Kommission bewertet und im Amtsblatt zitiert sein — erst die Zitierung löst die Konformitätsvermutung
+    des Art. 40 KI-VO aus. Bei Rechercheschluss ist keine Norm zitiert.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: iso
+  regelwerk: iso-normungsauftrag-m593-m613
+  adressat: Anbieter von Hochrisiko-KI-Systemen nach Anhang III KI-VO
+  handlungsbedarf: 'Rückwärtsplanung: Zwischen Zitierung und Anwendungsbeginn muss Zeit für die Umstellung
+    des Qualitätsmanagementsystems und die Konformitätsbewertung bleiben.
+
+    '
+  quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  verifiziert: true
+  fundstelle_norm: Art. 113 Abs. 3 lit. c Ziff. i KI-VO i.d.F. der VO (EU) 2026/1744 i.V.m. Art. 40 KI-VO
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30

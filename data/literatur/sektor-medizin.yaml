@@ -1,0 +1,288 @@
+# Gepflegte Datenbasis.
+literatur:
+- id: 2024-price-gerke-cohen-liability-medicine
+  typ: aufsatz
+  autoren:
+  - Price II, W. Nicholson
+  - Gerke, Sara
+  - Cohen, I. Glenn
+  titel: Liability for Use of Artificial Intelligence in Medicine
+  fundstelle: 'in: Solaiman/Cohen (Hrsg.), Research Handbook on Health, AI and the Law, Edward Elgar 2024'
+  jahr: 2024
+  sprache: en
+  url: https://www.ncbi.nlm.nih.gov/books/NBK613216/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sektor-medizin
+  - haftung
+  bezug_urteile:
+  - us-2025-lokken-unitedhealth
+  - us-2023-kisting-leung-cigna
+  kernthese: 'Die Haftung für medizinische KI verteilt sich auf Arzt, Krankenhaus und Entwickler, und
+    das geltende Recht setzt die Anreize verkehrt: Der Arzt haftet gerade dann, wenn er von der Standardbehandlung
+    abweicht — auch wenn die KI recht hat.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der maßgebliche Text zur Arzthaftung bei KI-Einsatz und der einzige mit einem echten
+    Befund statt einer Problemliste: Weil sich die Fahrlässigkeit am ärztlichen Standard misst, ist der
+    Arzt geschützt, solange er der Standardbehandlung folgt — und haftet, wenn er der KI folgt und die
+    vom Standard abweicht. Damit belohnt das Haftungsrecht die Nichtbefolgung zutreffender KI-Empfehlungen
+    und bestraft die Befolgung. Die Autoren nennen das den "perversen Anreiz", und er gilt für § 630a
+    Abs. 2 BGB (anerkannter fachlicher Standard) unverändert. Für die europäische Seite fehlt die Auseinandersetzung
+    mit der neuen Produkthaftung: Ab 09.12.2026 haftet der Hersteller der Software verschuldens­ unabhängig,
+    was die Lastenverteilung zwischen Arzt und Entwickler verschiebt. Freier Volltext über NCBI Bookshelf.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-cohen-slottje-informed-consent-ai
+  typ: aufsatz
+  autoren:
+  - Cohen, I. Glenn
+  - Slottje, Andrew
+  titel: Artificial Intelligence and the Law of Informed Consent
+  fundstelle: 'in: Solaiman/Cohen (Hrsg.), Research Handbook on Health, AI and the Law, Edward Elgar 2024'
+  jahr: 2024
+  sprache: en
+  url: https://www.ncbi.nlm.nih.gov/books/NBK613199/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sektor-medizin
+  - grundrechte
+  kernthese: Ob der KI-Einsatz aufklärungspflichtig ist, hängt davon ab, ob man ihn als Wissensquelle
+    (nicht aufklärungspflichtig) oder als Mitentscheider (aufklärungspflichtig) einordnet; die Antwort
+    sollte nach Validierungsgrad und Autonomiegrad des Systems differenzieren.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die beste Aufbereitung der Aufklärungsfrage und für das deutsche Recht unmittelbar
+    anschlussfähig: § 630e Abs. 1 BGB verlangt Aufklärung über "sämtliche für die Einwilligung wesentlichen
+    Umstände", und die von Cohen/Slottje gestellte Frage — ist die KI ein Werkzeug oder ein zweiter Entscheider?
+    — ist genau die Subsumtionsfrage. Der vorgeschlagene abgestufte Maßstab (validiertes System: keine
+    Aufklärung; opakes oder autonom entscheidendes System: Aufklärung) ist übertragbar und besser begründet
+    als die pauschalen Forderungen der Ethikliteratur. Nicht behandelt wird die europäische Besonderheit,
+    dass Art. 86 KI-VO ein Erläuterungsrecht NACH der Entscheidung gewährt, während die Aufklärung VORHER
+    geschuldet wird — beides sind verschiedene Institute, die in der Diskussion vermengt werden. Frei
+    über NCBI Bookshelf.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-86
+- id: 2019-price-gerke-cohen-potential-liability
+  typ: aufsatz
+  autoren:
+  - Price II, W. Nicholson
+  - Gerke, Sara
+  - Cohen, I. Glenn
+  titel: Potential Liability for Physicians Using Artificial Intelligence
+  fundstelle: JAMA 322 (2019), 1765
+  jahr: 2019
+  sprache: en
+  doi: 10.1001/jama.2019.15064
+  url: https://repository.law.umich.edu/facarticles/2475/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sektor-medizin
+  - haftung
+  kernthese: Ärzte haften für KI-gestützte Fehlentscheidungen nach allgemeinem Behandlungsfehlerrecht;
+    der sicherste Weg ist, die KI nur zur Bestätigung der ohnehin getroffenen Entscheidung zu nutzen —
+    was ihren Nutzen zunichtemacht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Zwei Seiten, die den Kern des Problems festhalten, und der meistzitierte Text des
+    Feldes — die JAMA-Reichweite hat dafür gesorgt, dass diese Analyse in die medizinische Standardliteratur
+    eingegangen ist. Für Juristen ist die Kürze der Nachteil: Die Aussage wird behauptet, nicht hergeleitet.
+    Wer sie belegt braucht, nimmt den Handbuch­ beitrag von 2024. Aufgenommen, weil man den Text kennen
+    muss, um die medizinische Diskussion zu verstehen, in der er als Autorität gilt. Freier Volltext im
+    Repositorium der University of Michigan.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2022-lehner-ki-sagt-a
+  typ: blogbeitrag
+  autoren:
+  - Lehner, Roman
+  titel: Wenn die KI 'A' sagt und die Ärztin 'B'
+  fundstelle: Verfassungsblog, 24.11.2022
+  jahr: 2022
+  sprache: de
+  url: https://verfassungsblog.de/ki-sagt-a/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-medizin
+  - haftung
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  - mdr-ivdr-ki-schnittstelle
+  kernthese: 'Die Annahme, der Mensch behalte als letzter Entscheider die Kontrolle, ist unrealistisch:
+    Wer von der Empfehlung abweicht, trägt das Begründungs- und Haftungsrisiko allein, weshalb das System
+    faktisch autonom entscheidet, ohne verantwortlich zu sein.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste frei zugängliche deutsche Text zur menschlichen Aufsicht, und er ist vier
+    Jahre alt — was zugleich zeigt, wie wenig seither frei nachgekommen ist. Lehners Argument ist die
+    Umkehrung des Automatisierungsbias-Arguments: Nicht die Bequemlichkeit führt zum Abnicken, sondern
+    die Haftungsasymmetrie. Wer der Empfehlung folgt und irrt, hat den Standard eingehalten; wer abweicht
+    und irrt, haftet. Das trifft Art. 14 KI-VO ins Mark und ist auf jede Aufsichtspflicht übertragbar
+    — auf § 15 KI-MIG, auf die Grundrechte-Folgenabschätzung nach Art. 27 KI-VO, auf die Verwaltungsentscheidung
+    nach dem KIMVG. Angreifbar: Lehner belegt die Haftungsasymmetrie nicht empirisch, und im Arzthaftungsrecht
+    ist der Facharztstandard gerade nicht durch Systemempfehlungen definiert. Bezieht sich auf den KI-VO-Entwurf
+    von 2021; die Norm ist heute Art. 14, nicht Art. 14 des Vorschlags. Ersetzt Beck nicht, ist dort aber
+    auch nicht besser gesagt worden.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-14
+  - ki-vo-art-27
+- id: 2025-contreras-soto-listas-espera
+  typ: aufsatz
+  autoren:
+  - Contreras Vásquez, Pablo
+  - Soto Maturana, Karina
+  titel: 'Transparencia algorítmica y sistema de decisiones automatizadas en salud: El caso del modelo
+    de priorización de listas de espera no GES por el Ministerio de Salud'
+  titel_deutsch: 'Algorithmische Transparenz und automatisierte Entscheidungssysteme im Gesundheitswesen:
+    der Fall des Priorisierungsmodells für Nicht-GES-Wartelisten im Gesundheitsministerium'
+  fundstelle: Revista Chilena de Derecho y Tecnología 14 (2025), Artikel 75123
+  jahr: 2025
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/75123
+  doi: 10.5354/0719-2584.2025.75123
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  themenachsen:
+  - sektor-medizin
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  kernthese: 'Das vom chilenischen Gesundheitsministerium eingesetzte Priorisierungsmodell für Wartelisten
+    ausserhalb des GES-Katalogs ist ein automatisiertes Entscheidungssystem ohne algorithmische Transparenz
+    und ohne tragfähige Rechtsgrundlage.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der methodisch beste Text der ganzen Sammlung und für mich der wichtigste chilenische.
+    Contreras und Soto behaupten nicht, sie messen: Sie stellen Anträge nach dem chilenischen Informationsfreiheitsgesetz
+    (Ley 20.285), werten die Antworten aus und rekonstruieren daraus, was das Ministerium tatsächlich
+    einsetzt — mit dem ernüchternden Befund, dass es sich um einen Pilotversuch mit begrenztem Nutzen
+    handelte, dessen Bewertung selbst intransparent blieb. Genau diese Arbeit fehlt in Deutschland für
+    jedes einzelne behördliche KI-System. Wer wissen will, wie man eine algorithmische Verwaltungspraxis
+    mit den Mitteln des Informationszugangsrechts aufklärt, sollte diesen Aufsatz als Vorlage nehmen;
+    das Verfahren ist auf § 1 IFG bzw. Art. 15 DSGVO iVm Art. 22 DSGVO übertragbar. Einschränkung: Der
+    Befund ist chilenisch und trägt nicht als Rechtsvergleich. Der Wert liegt in der Methode.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-donnelly-first-do-no-harm
+  typ: aufsatz
+  autoren:
+  - Donnelly, Dusty-Lee
+  titel: 'First Do No Harm: Legal Principles Regulating the Future of Artificial Intelligence in Health
+    Care in South Africa'
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 25 (2022), 1-43
+  jahr: 2022
+  sprache: en
+  url: https://perjournal.co.za/article/view/11118
+  doi: 10.17159/1727-3781/2022/v25i0a11118
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - sektor-medizin
+  - haftung
+  - marktzugang
+  - grundrechte
+  kernthese: KI in der Gesundheitsversorgung sprengt den suedafrikanischen Rechtsrahmen an drei Stellen
+    - der Zulassung von Software als Medizinprodukt, den auf Telemedizin zugeschnittenen HPCSA-Leitlinien
+    und der verschuldensabhaengigen Arzthaftung; Donnelly plaedigt fuer Gefaehrdungshaftung mit Pflichtversicherung
+    und reformierte Produkthaftung.
+  eigene_bewertung: 'Der methodisch sauberste suedafrikanische KI-Aufsatz, den ich gefunden habe, und
+    der einzige, der die drei Ebenen Marktzugang, Berufsrecht und Haftung konsequent durchdekliniert statt
+    sie zu vermischen. Fuer den Rechtsvergleich ergiebig, weil Suedafrika die Konstellation zeigt, die
+    in der EU durch MDR plus KI-VO plus Produkthaftungsrichtlinie abgedeckt wird, aber eben nur teilweise:
+    Der Ruf nach Gefaehrdungshaftung mit Pflichtversicherung ist genau die Loesung, die die EU mit der
+    zurueckgezogenen KI-Haftungsrichtlinie nicht erreicht hat. Wer zur Frage arbeitet, ob Verschuldenshaftung
+    bei lernenden Systemen traegt, bekommt hier ein vollstaendig ausargumentiertes Gegenmodell aus einem
+    Common-Law-Mischsystem. Aeltester der hier erfassten Texte und vor dem Generative-KI-Schub geschrieben
+    - die Ausfuehrungen zu Autonomie und Unvorhersehbarkeit gelten trotzdem.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2022-naidoo-ki-gesundheitspolitik-za
+  typ: aufsatz
+  autoren:
+  - Naidoo, S.
+  - Bottomley, D.
+  - Naidoo, M.
+  - Donnelly, D.
+  - Thaldar, D. W.
+  titel: 'Artificial intelligence in healthcare: Proposals for policy development in South Africa'
+  fundstelle: South African Journal of Bioethics and Law 15 (2022), Heft 1, 11-16
+  jahr: 2022
+  sprache: en
+  doi: 10.7196/sajbl.2022.v15i1.797
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - sektor-medizin
+  - governance
+  - datenschutz
+  kernthese: Suedafrika braucht eine eigene KI-Gesundheitspolitik, die Zulassung, Haftung, Datenschutz
+    und Zugangsgerechtigkeit zusammenfuehrt, statt die Regelungslast auf die berufsrechtlichen Leitlinien
+    der HPCSA abzuwaelzen.
+  eigene_bewertung: Kurz, thesenhaft, politiknah - kein dogmatischer Text, aber die Autorengruppe um Thaldar
+    (UKZN) ist die einschlaegige in Suedafrika, und der Beitrag wird als Referenz fuer die Politikforderung
+    zitiert. Ich fuehre ihn als Ergaenzung zu Donnelly 2022, die dieselbe Frage juristisch durcharbeitet.
+    Wer nur einen der beiden liest, nimmt Donnelly.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2021-wu-aufklaerungspflicht-medizinische-ki
+  typ: aufsatz
+  autoren:
+  - 吳建昌 (Wu Jianchang)
+  titel: 醫師運用醫療人工智慧時之說明義務
+  titel_deutsch: Die Aufklaerungspflicht des Arztes beim Einsatz medizinischer kuenstlicher Intelligenz
+  fundstelle: 月旦民商法雜誌 (Yuedan Minshangfa Zazhi, Zeitschrift fuer Zivil- und Handelsrecht) 74 (Dezember
+    2021), 49-67
+  jahr: 2021
+  sprache: zh
+  doi: 10.53106/172717627403
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - sektor-medizin
+  - haftung
+  kernthese: Setzt ein Arzt ein KI-System ein, muss er den Patienten darueber und ueber die Grenzen des
+    Systems aufklaeren; Umfang und Massstab dieser Pflicht ergeben sich aus der bestehenden Aufklaerungsdogmatik,
+    bedduerfen aber der Anpassung.
+  eigene_bewertung: Wu Jianchang ist Arzt und Jurist an der National Taiwan University, was dem Text zugute
+    kommt. Fuer die Achse sektor-medizin die relevanteste taiwanische Arbeit und fuer den deutschen Leser
+    unmittelbar anschlussfaehig, weil das taiwanische Arzthaftungsrecht deutschem Vorbild folgt - die
+    Aufklaerungspflicht ist dort ebenso ausgebaut wie bei uns nach Paragraf 630e BGB. Die Frage, ob der
+    Einsatz eines Entscheidungsunterstuetzungssystems aufklaerungspflichtig ist, wird bei uns kaum diskutiert;
+    hier findet man sie durchgearbeitet. Das macht den Aufsatz fuer mich zum ergiebigsten Fund aus Taiwan
+    nach den urheberrechtlichen Arbeiten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

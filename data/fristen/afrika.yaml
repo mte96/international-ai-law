@@ -1,0 +1,176 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: ng-ndiaf-2026-f1
+  datum: 2027-01-01
+  beschreibung: 'Das National Digital Infrastructure Assurance Framework 2026 wird wirksam. Ab diesem
+    Tag müssen Anbieter von KI-Infrastruktur (Artificial Intelligence Infrastructure Providers) und Sovereign
+    Compute Providers in Nigeria die Cloud Infrastructure Provider Certification, die Cloud Service Provider
+    Certification oder beide besitzen, samt der von der NITDA vorzuschreibenden KI-Vermerke. Für die öffentliche
+    Beschaffung ist das Rahmenwerk zwingend.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ng
+  regelwerk: ng-ndiaf-2026
+  adressat: 'Anbieter von KI-Infrastruktur und Hochleistungsrechnen, Cloud- und Rechenzentrumsbetreiber,
+    Systemintegratoren, Managed-Service-Anbieter, Betreiber kritischer Informationsinfrastruktur, öffentliche
+    Stellen des Bundes, der Bundesstaaten und der Kommunen
+
+    '
+  handlungsbedarf: 'Prüfen, ob die von der NITDA angekündigten KI-spezifischen "endorsements" bis dahin
+    veröffentlicht sind — sie sind der eigentliche Regelungsgehalt und fehlen bislang.
+
+    '
+  quelle: https://nitda.gov.ng/wp-content/uploads/2026/08/NATIONAL-DIGITAL-INFRASTRUCTURE-ASSURANCE-FRAMEWORK-2026_Final.pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: ng-cloud-guideline-2026-f1
+  datum: 2027-01-01
+  beschreibung: 'Das National Guideline for Cloud Computing in Nigeria 2026 wird wirksam. Ab diesem Tag
+    gelten die Cloud-First-Pflicht für Bundesbehörden, die ausschließliche Beschaffung über NITDAs Digital
+    Regulatory Platform, die vierstufige Datenklassifikation mit Lokalisierungspflichten und der Vorrang
+    einheimischer Cloud-Anbieter.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ng
+  regelwerk: ng-cloud-guideline-2026
+  adressat: 'Bundesbehörden, Cloud-Diensteanbieter, Systemintegratoren, regulierte Sektoren und Stellen,
+    die national bedeutsame Daten verarbeiten, sowie deren Auftragnehmer und Partner
+
+    '
+  handlungsbedarf: null
+  quelle: https://nitda.gov.ng/wp-content/uploads/2026/08/NATIONAL-GUIDELINE-FOR-CLOUD-COMPUTING-IN-NIGERIA-2026_Final.pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: ng-software-testing-2026-f1
+  datum: null
+  beschreibung: 'Anwendungsbeginn der National Software Testing Guideline 2026 und der Software Testing
+    Organisations Licensing Guideline 2026. BEIDE LEITLINIEN SIND UNTERZEICHNET (14.07.2026), IHR ANWENDUNGSBEGINN
+    IST ABER NOCH NICHT BESTIMMT: Sie treten "on a date to be determined and communicated by" der NITDA
+    in Kraft; die Lizenzierungsleitlinie sieht zusätzlich eine Übergangszeit vor. Ab Wirksamkeit müssen
+    sämtliche Software — nach der Legaldefinition der Entwicklungsleitlinie einschließlich KI-Systemen
+    und algorithmischer Entscheidungswerkzeuge — vor der Bereitstellung von einer NITDA-lizenzierten Prüforganisation
+    getestet und zertifiziert werden.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: ng
+  regelwerk: ng-software-testing-2026
+  adressat: 'Softwareentwickler, Bundesbehörden und -einrichtungen, Prüforganisationen sowie alle, die
+    Software für den Einsatz in Nigeria entwickeln, ändern, integrieren oder bereitstellen — einschließlich
+    internationaler Auftragnehmer
+
+    '
+  handlungsbedarf: 'Die Bekanntgabe des Anwendungsbeginns durch die NITDA beobachten. Das ist eine echte,
+    aber noch undatierte Frist.
+
+    '
+  quelle: https://nitda.gov.ng/wp-content/uploads/2026/08/National-Software-Testing-Guideline-Signed.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: ng-nais-2025-f1
+  datum: 2029-12-31
+  beschreibung: 'Ende des Umsetzungszeitraums der Nationalen KI-Strategie Nigerias ("Strategic initiatives
+    to be implemented over five (5) years", 2025-2029). Zielmarke unter anderem: 70 % der jungen Erwerbsbevölkerung
+    (16-35 Jahre) mit KI-Kompetenzen.
+
+    '
+  typ: pruefung
+  jurisdiktion: ng
+  regelwerk: ng-nais-2025
+  adressat: Federal Ministry of Communications, Innovation and Digital Economy, NITDA, NCAIR
+  handlungsbedarf: null
+  quelle: https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+- id: au-continental-ai-strategy-2024-f1
+  datum: 2030-12-31
+  beschreibung: 'Zielhorizont der fünfzehn strategischen Ziele der Continental AI Strategy der Afrikanischen
+    Union ("by 2030"). Kein Rechtsstichtag, sondern eine politische Zielmarke ohne Bindungswirkung.
+
+    '
+  typ: pruefung
+  jurisdiktion: africa
+  regelwerk: au-continental-ai-strategy-2024
+  adressat: AU-Kommission, Regionale Wirtschaftsgemeinschaften, AU-Mitgliedstaaten
+  handlungsbedarf: null
+  quelle: https://au.int/sites/default/files/documents/44004-doc-EN-_Continental_AI_Strategy_July_2024.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+- id: ke-ai-bill-2026-f1
+  datum: null
+  beschreibung: 'Der kenianische Artificial Intelligence Bill 2026 sieht vor, dass der Cabinet Secretary
+    das Gesetz ALLE DREI JAHRE überprüft, die Beteiligten konsultiert, neue Risiken bewertet und dem Parlament
+    binnen sechs Monaten mit Änderungsvorschlägen berichtet. Die Frist läuft erst ab Inkrafttreten; da
+    der Entwurf im Verfahren steckt, ist kein Datum bestimmbar.
+
+    '
+  typ: pruefung
+  jurisdiktion: ke
+  regelwerk: ke-ai-bill-2026
+  adressat: Cabinet Secretary für Informations-, Kommunikations- und Digitalwirtschaft; Parlament
+  handlungsbedarf: 'Zunächst ist der Verfahrensstand des Entwurfs zu klären; seit der ersten Lesung am
+    02.04.2026 ist kein Fortschritt belegt.
+
+    '
+  quelle: https://www.parliament.go.ke/sites/default/files/2026-04/Bill%20Digest%20-%20The%20Artificial%20Intelligence%20Bill%2C%20No.4%20of%202026.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+- id: ke-data-protection-act-2019-f1
+  datum: null
+  beschreibung: 'Wiederkehrende Verfahrensfrist, kein einmaliger Stichtag, aber praktisch die wichtigste
+    Frist des kenianischen KI-Rechts: Nach s. 31 des Data Protection Act 2019 ist der Bericht über die
+    Datenschutz-Folgenabschätzung SECHZIG TAGE VOR Beginn einer Hochrisikoverarbeitung beim ODPC einzureichen.
+    Über Regulation 49(1)(c) der General Regulations 2021 gilt das für JEDE Verarbeitung biometrischer
+    Daten — also für jede Einführung von Gesichtserkennung oder biometrischer KI in Kenia.
+
+    '
+  typ: einreichung
+  jurisdiktion: ke
+  regelwerk: ke-data-protection-act-2019
+  adressat: Verantwortliche und Auftragsverarbeiter in Kenia, öffentlich wie privat
+  handlungsbedarf: 'Bei jedem geplanten biometrischen oder sonstigen Hochrisiko-KI-System in Kenia ist
+    der Vorlauf von sechzig Tagen einzuplanen.
+
+    '
+  quelle: https://www.odpc.go.ke/wp-content/uploads/2025/11/ODPC-–-Guidance-Note-on-Biometric-Data.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: ke-2026-wangai-ki-verfassung-f1
+  datum: 2026-06-29
+  beschreibung: Vorbehaltener Urteilstermin in Wangai u.a. gegen Cabinet Secretary ICT (Petition E003
+    of 2026) - Verfassungsbeschwerde gegen den Einsatz von KI-Systemen ohne Rechtsrahmen. Termin verstrichen,
+    Urteil auf kenyalaw am 07.09.2026 noch nicht veroeffentlicht.
+  typ: pruefung
+  jurisdiktion: ke
+  adressat: Bearbeiter
+  handlungsbedarf: Auf new.kenyalaw.org nach dem Urteil suchen. Wenn es ergangen ist, Eintrag ke-2026-wangai-ki-verfassung
+    fortschreiben und den Streitstand zur Hochrisiko-Einstufung um die kenianische Position ergaenzen.
+  quelle: https://new.kenyalaw.org/akn/ke/judgment/kehc/2026/5690/eng@2026-04-30
+  fundstelle_norm: 'Ziff. 50 (1) der Orders vom 30.04.2026: Judgment reserved for Monday 29th June 2026'
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7

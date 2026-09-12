@@ -1,0 +1,249 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: au-senate-ai-datacentres-2026-f1
+  datum: 2026-09-01
+  beschreibung: 'ABGELAUFEN. Einreichungsschluss für Submissions an die Senatsuntersuchung "Artificial
+    Intelligence and Data Centres" (Senate Environment and Communications References Committee). Die Sache
+    wurde dem Ausschuss am 13.05.2026 überwiesen; der ursprüngliche Einreichungsschluss wurde ausdrücklich
+    verlängert ("The time for making a submission to the inquiry has been extended to 1 September 2026").
+    Der Ausschuss führt die Untersuchung inzwischen als "Submissions Closed". Berichtsfrist ist der 16.11.2026;
+    öffentliche Anhörungen sind für den 22. und 23.09.2026 sowie den 01.10.2026 (Canberra) angesetzt.
+
+    '
+  typ: konsultation
+  jurisdiktion: au
+  regelwerk: au-senate-ai-datacentres-2026
+  adressat: Jedermann; insbesondere Betreiber, Kommunen, Umwelt- und Energieakteure
+  quelle: https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 7
+  - 3
+  - 1
+  notiz_erledigt: 'Erledigt: Frist am 01.09.2026 abgelaufen, Einreichungen sind geschlossen. Wer noch
+    gehört werden will, ist auf die öffentlichen Anhörungen oder eine Fristverlängerung im Einzelfall
+    über das Sekretariat (ec.sen@aph.gov.au) angewiesen.
+
+    '
+  fundstelle_norm: 'Überweisungsbeschluss des Senats vom 13.05.2026 an das Environment and Communications
+    References Committee; vom Ausschuss bekanntgegebener und verlängerter Einreichungsschluss ("Submissions
+    close: 1 September 2026"), Berichtsfrist 16.11.2026'
+- id: au-jsc-ai-2026-f1
+  datum: 2026-09-14
+  beschreibung: 'Einreichungsschluss für Submissions an den Joint Select Committee on Artificial Intelligence
+    des Commonwealth-Parlaments. Der Ausschuss wurde am 20.08.2026 durch gleichlautende Beschlüsse von
+    Repräsentantenhaus und Senat eingesetzt. Sein Auftrag umfasst nach Abs. 1 der Einsetzungsentschließung
+    unter anderem die Angemessenheit des geltenden Rechts und etwaigen Reformbedarf (lit. i), das Verhältnis
+    von KI zu Immaterialgüter- und Urheberrecht einschließlich der Nutzung australischer kreativer, kultureller
+    und medialer Inhalte für das Modelltraining (lit. j), Datensouveränität und domänenspezifische, auf
+    australischen Daten trainierte Modelle (lit. f), Risiken und Schäden einschließlich Betrug, Scams,
+    Deepfakes und Kinderschutz (lit. k) sowie Cybersicherheit, Lieferketten und kritische Infrastruktur
+    (lit. l). Der Ausschuss bittet um kurze Eingaben von etwa fünf bis sechs Seiten.
+
+    '
+  typ: einreichung
+  jurisdiktion: au
+  regelwerk: au-jsc-ai-2026
+  adressat: Jedermann — Einzelpersonen, Unternehmen, Verbände, Wissenschaft
+  handlungsbedarf: 'HANDLUNGSBEDARF FÜR DEN BEARBEITER. Dies ist das derzeit wichtigste offene Beteiligungsfenster
+    der australischen KI-Regulierung: Der Ausschuss berichtet am 30.11.2026 und wird absehbar die für
+    Anfang 2027 erwartete Gesetzgebung prägen. Wer Einfluss nehmen will, muss bis zum 14.09.2026 einreichen
+    — das sind neun Tage. Frist und Berichtstermin sind am 05.09.2026 unmittelbar auf aph.gov.au bestätigt;
+    die frühere Unsicherheit über das Datum (nur eine Sekundärquelle) besteht nicht mehr. Einreichung
+    über das Online-Formular des Ausschusses, Sekretariat ai.joint@aph.gov.au.
+
+    '
+  quelle: https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 14
+  - 7
+  - 3
+  - 1
+  fundstelle_norm: Vom Ausschuss gesetzter Einreichungsschluss ("The committee has set 14 September 2026
+    as the closing date for submissions"); Einsetzungsentschließung von Repräsentantenhaus und Senat vom
+    20.08.2026, Journals of the Senate Nr. 64 vom 20.08.2026
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Erneut geprüft. Eine Verlängerung des Einreichungsschlusses 14.09.2026 ist nicht ersichtlich;
+    die amtliche Ausschussseite auf aph.gov.au lieferte an diesem Tag bei drei Versuchen HTTP 403, sodass
+    eine unmittelbare Bestätigung nicht möglich war. Die Bestätigung vom 05.09.2026 bleibt maßgeblich.
+    Das Berichtsdatum ist aus dem Einsetzungsbeschluss beider Häuser vom 20.08.2026 auf "spätestens 30.11.2026"
+    präzisiert.'
+- id: au-sa-royal-commission-ai-2026-f1
+  datum: 2026-10-01
+  beschreibung: 'Beginn der Arbeit der Royal Commission into Artificial Intelligence in South Australia
+    — der ersten Royal Commission zu KI in Australien.
+
+    '
+  typ: sonstiges
+  jurisdiktion: au
+  regelwerk: au-sa-royal-commission-ai-2026
+  adressat: Öffentlichkeit in South Australia; mittelbar bundesweite Debatte
+  handlungsbedarf: 'Beobachten. Terms of Reference, Commissioners und Einreichungsfristen waren am 27.08.2026
+    noch nicht veröffentlicht — mit Arbeitsbeginn ist deren Bekanntgabe zu erwarten.
+
+    '
+  quelle: https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: au-jsc-ai-2026-f2
+  datum: 2026-11-30
+  beschreibung: 'Berichtsfrist des Joint Select Committee on Artificial Intelligence. Sie steht nicht
+    im Ermessen des Ausschusses, sondern folgt unmittelbar aus Abs. 2 der Einsetzungsentschließung vom
+    20.08.2026: "the committee present its final report by no later than 30 November 2026". Der Bericht
+    ist die zentrale parlamentarische Vorarbeit für die für Anfang 2027 erwartete KI-Gesetzgebung.
+
+    '
+  typ: pruefung
+  jurisdiktion: au
+  regelwerk: au-jsc-ai-2026
+  adressat: Commonwealth-Parlament; mittelbar alle KI-Akteure
+  handlungsbedarf: 'Bericht bei Erscheinen auswerten — er zeigt an, ob die Australian Standards for AI
+    auf die zehn Guardrails von 2024 zurückgreifen oder einen neuen Zuschnitt wählen.
+
+    '
+  quelle: https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  fundstelle_norm: Einsetzungsentschließung von Repräsentantenhaus und Senat vom 20.08.2026, Abs. (2)
+    ("the committee present its final report by no later than 30 November 2026"), Journals of the Senate
+    Nr. 64 vom 20.08.2026
+- id: au-privacy-act-1988-f1
+  datum: 2026-12-10
+  beschreibung: 'Anwendungsbeginn der Transparenzpflicht für automatisierte Entscheidungen (APP 1.7 Privacy
+    Act 1988). Datenschutzerklärungen müssen offenlegen, welche Arten personenbezogener Daten in automatisierte
+    Entscheidungssysteme einfließen und welche Arten von Entscheidungen ausschließlich automatisiert getroffen
+    oder durch Computerprogramme maßgeblich vorbereitet werden, soweit sie Rechte oder Interessen erheblich
+    berühren können. Der Stichtag ergibt sich aus der Commencement-Tabelle des Änderungsgesetzes: Schedule
+    1 Part 15 tritt am Tag nach Ablauf von 24 Monaten seit dem Royal Assent (10.12.2024) in Kraft. Die
+    OAIC nennt denselben Tag in ihren APP-Richtlinien zu Kapitel 1.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: au
+  regelwerk: au-privacy-act-1988
+  adressat: 'Alle APP-Entitäten: Bundesbehörden sowie Unternehmen ab 3 Mio. AUD Jahresumsatz und bestimmte
+    kleinere Unternehmen
+
+    '
+  handlungsbedarf: 'Für eine künftige Tätigkeit in Australien praktisch bedeutsam: Jede Kanzlei oder Organisation,
+    die KI in entscheidungsnahen Prozessen einsetzt, muss die Datenschutzerklärung bis zu diesem Tag angepasst
+    haben. Es ist die ERSTE bundesrechtliche KI-Transparenzpflicht Australiens überhaupt.
+
+    '
+  quelle: https://www.legislation.gov.au/C2024A00128/asmade
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+  fundstelle_norm: 'Privacy and Other Legislation Amendment Act 2024 (Cth), Nr. 128 von 2024, s 2 (Commencement-Tabelle)
+    für Schedule 1 Part 15 "Automated decisions and privacy policies": "The day after the end of the period
+    of 24 months beginning on the day this Act receives the Royal Assent"; Royal Assent am 10.12.2024,
+    daraus 10.12.2026. Eingefügte Norm: APP 1.7 in Schedule 1 zum Privacy Act 1988 (Cth)'
+- id: au-coppc-2026-f1
+  datum: 2026-12-10
+  beschreibung: 'Gesetzliche Frist, bis zu der der Children''s Online Privacy Code finalisiert und registriert
+    sein muss.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: au
+  regelwerk: au-coppc-2026
+  adressat: 'OAIC (Registrierungspflicht); anschließend Anbieter von Social Media, relevant electronic
+    services und designated internet services mit Kindernutzung
+
+    '
+  handlungsbedarf: 'Beobachten. Mit der Registrierung entstehen verbindliche Pflichten unter anderem zu
+    Profilbildung, Empfehlungsalgorithmen und Altersverifikation.
+
+    '
+  quelle: https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes/childrens-online-privacy-code
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: au-dta-ai-policy-2025-f1
+  datum: 2026-12-01
+  beschreibung: 'Wirksamwerden der übrigen Pflichtanforderungen der Policy for the responsible use of
+    AI in government (Version 2.0) für Commonwealth-Behörden. ACHTUNG: Die Quelle nennt nur "December
+    2026", keinen Tag — das Datum ist ein Platzhalter zum Monatsbeginn.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: au
+  regelwerk: au-dta-ai-policy-2025
+  adressat: Nichtkorporative und korporative Commonwealth-Behörden
+  handlungsbedarf: 'Nur mittelbar relevant. Taggenaues Datum bei der DTA nachhalten, falls für Beratung
+    von Bundesbehörden benötigt.
+
+    '
+  quelle: https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 60
+  - 30
+- id: au-wa-prisa-2024-f1
+  datum: 2027-01-01
+  beschreibung: 'Anwendungsbeginn des Notifiable Information Breach Scheme nach dem Privacy and Responsible
+    Information Sharing Act 2024 (WA) — die zweite Stufe des westaustralischen Datenschutzregimes. Die
+    erste Stufe (Datenschutzgrundsätze einschließlich IPP 10 zu automatisierten Entscheidungen) gilt seit
+    dem 01.07.2026. Ab dem 01.01.2027 müssen Behörden schwerwiegende Datenschutzverletzungen dem Information
+    Commissioner und den Betroffenen melden. Das Gesetz tritt nach s 2(c) gestaffelt an durch Proklamation
+    bestimmten Tagen in Kraft; die Staffelung ist im Umsetzungszeitplan der WA-Regierung veröffentlicht.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: au
+  subjurisdiktion: au-wa
+  regelwerk: au-wa-prisa-2024
+  adressat: 'IPP Entities in Western Australia: Ressorts, öffentliche Stellen, WA Police Force, Kommunen,
+    Justizkörperschaften, benannte Einrichtungen und vertraglich gebundene Dienstleister
+
+    '
+  handlungsbedarf: 'FÜR DEN BEARBEITER ALS KÜNFTIGEN WA-BERUFSTRÄGER RELEVANT. Wer in WA für oder gegenüber
+    öffentlichen Stellen tätig ist, muss das Meldeverfahren kennen. Zusammen mit IPP 10 (automatisierte
+    Entscheidungen, gilt bereits seit 01.07.2026) ist der PRIS Act das KI-relevanteste WA-Landesrecht.
+
+    '
+  quelle: https://www.wa.gov.au/government/privacy-and-responsible-information-sharing
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+  fundstelle_norm: 'Privacy and Responsible Information Sharing Act 2024 (WA), Nr. 51 von 2024, s 2(c)
+    ("the rest of the Act — on a day fixed by proclamation, and different days may be fixed for different
+    provisions"); amtlicher Umsetzungszeitplan der Regierung von Western Australia: Datenschutzgrundsätze
+    ab 01.07.2026, Meldepflicht bei Datenschutzverletzungen ab 01.01.2027'
+- id: au-sa-royal-commission-ai-2026-f2
+  datum: 2027-07-01
+  beschreibung: 'Frist für den Abschlussbericht der Royal Commission into Artificial Intelligence (South
+    Australia).
+
+    '
+  typ: pruefung
+  jurisdiktion: au
+  regelwerk: au-sa-royal-commission-ai-2026
+  adressat: Regierung von South Australia; mittelbar bundesweite Debatte
+  handlungsbedarf: null
+  quelle: https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30

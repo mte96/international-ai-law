@@ -1,0 +1,23 @@
+# Automatisch erzeugt von schema/validate.py.
+# Diese Regelwerke werden von Entscheidungen referenziert, sind aber
+# noch nicht erfasst. Reihenfolge nach Zahl der Verweise.
+offen:
+  - {id: eu-ki-vo, verweise: 7}
+  - {id: plattformarbeit-rl, verweise: 5}
+  - {id: oecd-ai-principles, verweise: 2}
+  - {id: fr-parcoursup, verweise: 2}
+  - {id: it-legge-241-1990, verweise: 2}
+  - {id: ar-scba-rs-870-2024, verweise: 1}
+  - {id: ar-santafe-ley-14428, verweise: 1}
+  - {id: ar-chaco-ley-4250-j, verweise: 1}
+  - {id: br-pl-2338-2023, verweise: 1}
+  - {id: dsgvo, verweise: 1}
+  - {id: co-pcsja24-12243, verweise: 1}
+  - {id: es-ley-19-2013, verweise: 1}
+  - {id: es-ley-40-2015, verweise: 1}
+  - {id: fr-loi-informatique-libertes, verweise: 1}
+  - {id: fr-open-data-justice, verweise: 1}
+  - {id: it-statuto-lavoratori, verweise: 1}
+  - {id: it-legge-633-1941, verweise: 1}
+  - {id: dsm-rl-2019-790, verweise: 1}
+  - {id: rl-2016-680, verweise: 1}

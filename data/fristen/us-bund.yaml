@@ -1,0 +1,137 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: us-eo-14409-f1
+  datum: 2026-08-01
+  beschreibung: '60-Tage-Frist aus EO 14409 Sec. 3: NSA, Finanzministerium und CISA legen das eingestufte
+    Benchmarking-Verfahren zur Bestimmung „covered frontier models" fest und richten den freiwilligen
+    Frühzugangsrahmen ein. Ob die Festlegung erfolgt ist, ist wegen der Einstufung nicht öffentlich feststellbar.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: us
+  regelwerk: us-eo-14409
+  adressat: NSA, Department of the Treasury, CISA; mittelbar Anbieter von Frontier-Modellen
+  quelle: https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+  notiz_erledigt: 'Prüfen, ob eine Teilnahme am freiwilligen Frühzugangsprogramm in Betracht kommt, und
+    die Bedingungen für die Weitergabe von Vorabmodellen an US-Sicherheitsbehörden vorab intern klären
+    (Geschäftsgeheimnisse, Exportkontrolle, europäische Zusagen).
+
+    '
+- id: us-eo-14363-f1
+  datum: 2026-08-21
+  beschreibung: '270-Tage-Frist aus EO 14363: Nachweis einer ersten Betriebsfähigkeit der American Science
+    and Security Platform für mindestens eine der benannten wissenschaftlichen Herausforderungen.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: us
+  regelwerk: us-eo-14363
+  adressat: U.S. Department of Energy; Partnerorganisationen
+  quelle: https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+  notiz_erledigt: 'Für Forschungskooperationen: Prüfen, ob mit der Betriebsaufnahme Ausschreibungen oder
+    Partnerschaftsaufrufe verbunden sind.
+
+    '
+- id: us-ftc-policy-statement-f1
+  datum: 2026-07-31
+  beschreibung: 'Ende der Kommentierungsfrist zum FTC-Entwurf „Suppression of Accuracy in Artificial Intelligence
+    Systems" (Docket FTC-2026-0859). Frist abgelaufen; die Endfassung steht aus und ist der eigentlich
+    zu beobachtende Punkt.
+
+    '
+  typ: konsultation
+  jurisdiktion: us
+  regelwerk: us-ftc-policy-statement-ai-accuracy
+  adressat: Alle Anbieter von KI-Systemen mit US-Verbrauchern
+  quelle: https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+  notiz_erledigt: 'Endfassung abwarten und prüfen, ob die eigene Offenlegung regulatorisch veranlasster
+    Modellanpassungen dem dort formulierten Maßstab genügt.
+
+    '
+- id: us-omb-m-26-04-f1
+  datum: 2027-12-11
+  beschreibung: 'Sunset des OMB-Memorandums M-26-04 („Increasing Public Trust in Artificial Intelligence
+    Through Unbiased AI Principles“). Der Abschnitt „Sunset Provision“ lautet: das Memorandum verliert
+    zwei Jahre nach seinem Erlass jede Wirkung, sofern der Direktor des OMB nichts anderes bestimmt. Erlassdatum
+    ist der 11.12.2025, der Stichtag damit der 11.12.2027.
+
+    '
+  typ: pruefung
+  jurisdiktion: us
+  regelwerk: us-omb-m-26-04
+  adressat: LLM-Anbieter mit US-Bundesverträgen
+  handlungsbedarf: 'Laufzeiten und Anpassungsklauseln in Bundesverträgen so gestalten, dass ein Auslaufen
+    oder eine Verlängerung des Memorandums vertraglich abgebildet ist.
+
+    '
+  quelle: https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf
+  fundstelle_norm: OMB-Memorandum M-26-04 vom 11.12.2025, Abschnitt „Sunset Provision“
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: us-great-american-ai-act-f1
+  datum: null
+  beschreibung: 'KEIN KALENDERFÄHIGER STICHTAG. Der am 04.06.2026 von den Abgeordneten Obernolte und Trahan
+    vorgelegte Diskussionsentwurf ist bis heute (05.09.2026) nicht als Gesetzentwurf eingebracht. Sec.
+    121(d) knüpft das Ende der Verdrängung einzelstaatlicher Gesetze nicht an ein Kalenderdatum, sondern
+    an die Verkündung: „This section shall cease to have effect 3 years after the date of enactment of
+    this Act, unless Congress acts to reauthorize it prior to that date.“ Das zuvor hier eingetragene
+    Datum 31.12.2029 stand in keinem Text; es ist entfernt. Ein Stichtag entsteht erst mit einer Verkündung.
+
+    '
+  typ: sonstiges
+  jurisdiktion: us
+  regelwerk: us-great-american-ai-act
+  adressat: Frontier-Entwickler und alle Anbieter mit US-Marktzugang
+  handlungsbedarf: null
+  quelle: https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act
+  fundstelle_norm: Sec. 121(d) des Diskussionsentwurfs „Great American AI Act“ (Obernolte/Trahan, 04.06.2026)
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+- id: us-omb-m-25-21-f1
+  datum: 2026-12-31
+  beschreibung: 'RICHTWERT, KEIN NORMFESTER STICHTAG. M-25-21 verpflichtet die Behörden in Abschn. 3(b)(v)
+    nur dazu, ihre KI-Anwendungsfälle „at least annually“ zu inventarisieren, dem OMB zu übermitteln und
+    eine öffentliche Fassung zu veröffentlichen; Abschn. 4(a)(iv) verlangt die Veröffentlichung einer
+    Zusammenfassung jeder Risikoeinstufung und jedes Waiver für high-impact AI. Das konkrete Datum setzt
+    das OMB jährlich in einer gesonderten Reporting Guidance. Für den Zyklus 2025 galt: Übermittlung an
+    das OMB bis 22.12.2025, öffentliche Veröffentlichung bis 28.01.2026; das konsolidierte Inventar 2025
+    (3.611 Anwendungsfälle) erschien erst im April 2026. Für 2026 ist eine Reporting Guidance noch nicht
+    auffindbar; der 31.12.2026 ist eine Fortschreibung des Vorjahresmusters, keine amtlich gesetzte Frist.
+
+    '
+  typ: einreichung
+  jurisdiktion: us
+  regelwerk: us-omb-m-25-21
+  adressat: Bundesbehörden; mittelbar deren KI-Lieferanten
+  handlungsbedarf: 'Inventare auswerten: Sie legen offen, welche Systeme welcher Anbieter in Bundesbehörden
+    im Einsatz sind, und sind damit zugleich Wettbewerbsinformation und Reputationsrisiko.
+
+    '
+  quelle: https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf
+  fundstelle_norm: OMB-Memorandum M-25-21, Abschn. 3(b)(v) (Inventar „at least annually“) und Abschn.
+    4(a)(iv) (Veröffentlichung von Determinations und Waivers)
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30

@@ -1,0 +1,231 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: cl-ley-21719-f1
+  datum: 2026-12-01
+  beschreibung: 'Die Ley N° 21.719 wird anwendbar: Die Neufassung der Ley N° 19.628 einschließlich Art.
+    8° bis über automatisierte Einzelentscheidungen und Profiling tritt in Kraft, ebenso die Änderungen
+    der Ley N° 20.285 und der Ley N° 19.496; die Agencia de Protección de Datos Personales nimmt ihre
+    Aufsichts- und Sanktionsbefugnisse auf. Wortlaut des Artículo primero transitorio: „el día primero
+    del mes vigésimo cuarto posterior a la publicación de esta ley en el Diario Oficial“ — Publikation
+    13.12.2024.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: cl
+  regelwerk: cl-ley-21719
+  adressat: Alle Verantwortlichen und Auftragsverarbeiter in Chile, einschließlich Anbieter und Betreiber
+    von KI-Systemen, die personenbezogene Daten verarbeiten
+  handlungsbedarf: null
+  quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: cl-ley-21719-f2
+  datum: 2027-11-30
+  beschreibung: 'Ende der zwölfmonatigen Milderungsphase nach dem Artículo sexto transitorio: Bis zu diesem
+    Tag kann die Agencia gegenüber „empresas calificadas como de menor tamaño“ statt einer Sanktion eine
+    schriftliche Verwarnung aussprechen. Danach gilt der volle Sanktionsrahmen.
+
+    '
+  typ: sonstiges
+  jurisdiktion: cl
+  regelwerk: cl-ley-21719
+  adressat: Kleinunternehmen in Chile
+  handlungsbedarf: null
+  quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: cl-apdp-f1
+  datum: 2026-06-01
+  beschreibung: 'Frist des Artículo cuarto transitorio der Ley N° 21.719 für die erstmalige Bestellung
+    der Direktoren des Consejo Directivo der Agencia de Protección de Datos Personales (sechs Monate vor
+    dem Inkrafttreten), mit gestaffelten Amtszeiten von zwei, vier und sechs Jahren und Zustimmung des
+    Senats. BEREITS ABGELAUFEN — ob die Bestellung erfolgt ist, wurde nicht geprüft.
+
+    '
+  typ: einreichung
+  jurisdiktion: cl
+  regelwerk: cl-ley-21719
+  adressat: Präsident der Republik und Senat
+  handlungsbedarf: Prüfen, ob die Direktoren bestellt und bestätigt wurden — davon hängt die Arbeitsfähigkeit
+    der Behörde am 01.12.2026 ab.
+  quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1209272
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: cl-ki-gesetz-f1
+  datum: 2026-10-01
+  beschreibung: 'Ablauf der am 01.09.2026 im Senat eingelegten Urgencia „Simple“ für den KI-Gesetzentwurf
+    (Boletín 15869-19/16821-19). Eine Urgencia simple setzt der Kammer nach chilenischem Verfassungsrecht
+    eine Frist von 30 Tagen; sie wird in der Praxis regelmäßig erneuert und selten eingehalten. BERECHNET,
+    nicht amtlich datiert.
+
+    '
+  typ: pruefung
+  jurisdiktion: cl
+  regelwerk: cl-ki-gesetz-entwurf
+  adressat: Senado de Chile, Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación
+  handlungsbedarf: Verfahrensstand über den XML-Webdienst des Senats nachziehen.
+  quelle: https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=15869
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 14
+  - 7
+- id: cl-ley-21180-f1
+  datum: 2027-12-31
+  beschreibung: 'Spätestes Datum, bis zu dem die gestaffelte Anwendung der Ley N° 21.180 (Transformación
+    Digital del Estado) für sämtliche Stellen der chilenischen Staatsverwaltung abgeschlossen sein muss.
+    Bis zu demselben Tag können Personen ohne technische Mittel nach dem Artículo sexto transitorio weiterhin
+    Eingaben auf Papier machen.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: cl
+  regelwerk: cl-ley-21180
+  adressat: Alle Organe der chilenischen Staatsverwaltung
+  handlungsbedarf: null
+  quelle: https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1138479
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: pe-ds-115-f1
+  datum: 2026-01-20
+  beschreibung: 'Inkrafttreten des Decreto Supremo N.º 115-2025-PCM und des Reglamento der Ley N.º 31814
+    nach Ablauf von 90 días hábiles seit der Veröffentlichung am 09.09.2025. BERECHNET: ohne Feiertage
+    der 13.01.2026, unter Berücksichtigung der peruanischen Feiertage der 20.01.2026. BEREITS ABGELAUFEN.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: pe
+  regelwerk: pe-ds-115-2025-pcm
+  adressat: Öffentliche Stellen, Privatwirtschaft, Hochschulen und Zivilgesellschaft in Peru
+  handlungsbedarf: Das exakte Datum an einer amtlichen Verlautbarung der SGTD verifizieren.
+  quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: pe-ds-115-f2
+  datum: 2026-09-09
+  beschreibung: 'Ein Jahr nach der Veröffentlichung: Frist der Cuarta und Quinta Disposición Complementaria
+    Final für die Billigung der Estrategia Nacional de Inteligencia Artificial (ENIA, Horizont 2030) und
+    der Estrategia Nacional de Gobierno de Datos (ENGD) durch die PCM. Beide Schlussbestimmungen galten
+    bereits ab dem 10.09.2025, weshalb die Jahresfrist von der Veröffentlichung und nicht vom Inkrafttreten
+    des Hauptteils zu rechnen ist. Bei einer Berechnung ab dem Inkrafttreten wäre der Stichtag der 20.01.2027
+    — der Widerspruch ist offen.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: pe
+  regelwerk: pe-ds-115-2025-pcm
+  adressat: Presidencia del Consejo de Ministros / SGTD
+  handlungsbedarf: Prüfen, ob ENIA und ENGD gebilligt sind — die Verlautbarung wäre in El Peruano zu suchen.
+  quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: pe-ds-115-f3
+  datum: 2026-10-12
+  beschreibung: 'Frist der Segunda Disposición Complementaria Final für die Ethik-Leitlinien der SGTD:
+    180 días hábiles. BERECHNET und WIDERSPRÜCHLICH: Gerechnet ab dem 10.09.2025 (Tag nach der Veröffentlichung,
+    ab dem diese Schlussbestimmung galt) endet die Frist ohne Feiertage am 19.05.2026 und mit Feiertagen
+    am 29.05.2026; gerechnet ab dem Inkrafttreten des Hauptteils (21.01.2026) endet sie ohne Feiertage
+    am 29.09.2026 und mit Feiertagen am 12.10.2026. Eingetragen ist das späteste dieser Daten.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: pe
+  regelwerk: pe-ds-115-2025-pcm
+  adressat: Secretaría de Gobierno y Transformación Digital (SGTD)
+  handlungsbedarf: Prüfen, ob die Resolución Secretarial mit den Ethik-Leitlinien ergangen ist.
+  quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: pe-ds-115-f4
+  datum: 2027-01-20
+  beschreibung: 'Ende der einjährigen Umsetzungsfrist der Primera Disposición Complementaria Final für
+    Exekutive, Legislative, Judikative und autonome Verfassungsorgane sowie für die Privatsektoren Gesundheit,
+    Bildung, Justiz, Sicherheit und Wirtschaft. Bezugsdatum ist das Inkrafttreten des Reglamento; dieses
+    ist selbst berechnet (siehe pe-ds-115-f1).
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: pe
+  regelwerk: pe-ds-115-2025-pcm
+  adressat: Zentralstaatliche Stellen Perus; Unternehmen der Sektoren Gesundheit, Bildung, Justiz, Sicherheit,
+    Wirtschaft
+  handlungsbedarf: null
+  quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: pe-ds-115-f5
+  datum: 2028-01-20
+  beschreibung: 'Ende der zweijährigen Umsetzungsfrist für Regionalregierungen, öffentliche Universitäten
+    und FONAFE-Unternehmen sowie für die Privatsektoren Verkehr, Handel und Arbeit.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: pe
+  regelwerk: pe-ds-115-2025-pcm
+  adressat: Regionalregierungen, öffentliche Universitäten, FONAFE-Unternehmen; Unternehmen der Sektoren
+    Verkehr, Handel, Arbeit
+  handlungsbedarf: null
+  quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: pe-ds-115-f6
+  datum: 2029-01-20
+  beschreibung: 'Ende der dreijährigen Umsetzungsfrist für die Gemeinden der Typen A bis C sowie für die
+    Privatsektoren Produktion, Landwirtschaft, Energie und Bergbau.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: pe
+  regelwerk: pe-ds-115-2025-pcm
+  adressat: Gemeinden Typ A-C; Unternehmen der Sektoren Produktion, Landwirtschaft, Energie, Bergbau
+  handlungsbedarf: null
+  quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+- id: pe-ds-115-f7
+  datum: 2030-01-20
+  beschreibung: 'Ende der vierjährigen Umsetzungsfrist für alle übrigen Privatsektoren — die letzte Stufe
+    des peruanischen Umsetzungsfahrplans.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: pe
+  regelwerk: pe-ds-115-2025-pcm
+  adressat: Alle übrigen Unternehmen in Peru
+  handlungsbedarf: null
+  quelle: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90

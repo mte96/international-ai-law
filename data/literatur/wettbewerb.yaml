@@ -1,0 +1,549 @@
+literatur:
+- id: 2025-korinek-vipra-concentrating
+  typ: aufsatz
+  autoren:
+  - Korinek, Anton
+  - Vipra, Jai
+  titel: 'Concentrating Intelligence: Scaling and Market Structure in Artificial Intelligence'
+  fundstelle: Economic Policy 40 (2025), Heft 121, 225
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5044496'
+  url: https://www.nber.org/system/files/working_papers/w33139/w33139.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - intl
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  - urheberrecht
+  - governance
+  bezug_streitstaende:
+  - fair-use-training
+  kernthese: Skalierungsgesetze führen zu natürlicher Marktkonzentration; jede zusätzliche Fixkostenschranke
+    — auch eine urheberrechtliche — verstärkt sie.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Nicht urheberrechtlich, aber die Grundlage des wichtigsten wettbewerbsrechtlichen
+    Einwands gegen Lizenzpflichten: Wer Trainingsdaten kostenpflichtig macht, zementiert die Position
+    der drei bis fünf Anbieter, die zahlen können. Dieses Argument taucht in Samülsons PNAS-Aufsatz und
+    in der CREATe-Antwort auf; hier steht seine ökonomische Herleitung.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-schrepel-decoding-ai-act
+  typ: aufsatz
+  autoren:
+  - Schrepel, Thibault
+  titel: 'Decoding the AI Act: Implications for Competition Law and Market Dynamics'
+  fundstelle: Journal of Competition Law & Economics 21 (2025), 374
+  jahr: 2024
+  sprache: en
+  ssrn_id: '4609947'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4609947
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dma-2022-1925
+  kernthese: 'Die KI-VO wirkt als Wettbewerbsrecht, ohne es zu sein: Befolgungskosten, Schwellenwerte
+    und Zertifizierungspflichten verändern die Marktstruktur zugunsten großer Anbieter, ohne dass eine
+    wettbewerbliche Folgenabschätzung stattgefunden hätte.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Arbeit zur wettbewerblichen Dimension und in der Brüsseler Debatte
+    einflussreich (3.288 Downloads auf SSRN). Das Argument ist 2026 empirisch unterfüttert worden: Kilian
+    u.a. beziffern die Befolgungskosten für KMU auf 100.000 bis 300.000 EUR jährlich, und der Omnibus
+    reagiert mit KMU-Ausnahmen bis 750 Beschäftigten. Wer die Verschiebung wettbewerbspolitisch bewerten
+    will, braucht beide Texte. Angreifbar: Schrepel argumentiert stark ökonomisch und unterschätzt, dass
+    Marktzutrittsschranken durch Zertifizierung im Produktsicherheitsrecht der Normalfall und nicht die
+    Ausnahme sind.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-meyers-cerre-tech-neutrality
+  typ: bericht
+  autoren:
+  - Meyers, Zach
+  - Schnurr, Daniel
+  - Larouche, Pierre
+  titel: The AI Act and Technological Neutrality
+  fundstelle: CERRE Issue Paper, Brüssel, November 2025
+  jahr: 2025
+  sprache: en
+  url: https://cerre.eu/wp-content/uploads/2025/11/AI-Act-Implementation-Forum-2025_-AI-Act-and-Tech-Neutrality_FINAL.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - wettbewerb
+  - gpai
+  - vertrag
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  kernthese: Die GPAI-Regeln durchbrechen die Technologieneutralität und schreiben zugleich eine lineare
+    Wertschöpfungskette Modell–System–Betreiber fest, die es so nicht gibt; statt Rollenzuweisung vor
+    Markteintritt braucht es Kooperationspflichten danach.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der originellste Beitrag zur Vertragsdimension, obwohl er als Wettbewerbspapier auftritt:
+    Der Begriff der "Wertschöpfungsketten-Neutralität" benennt genau das Problem, an dem Art. 25 KI-VO
+    scheitert — die Verordnung unterstellt eine Kettenstruktur, wo tatsächlich Netzwerke aus offenen Gewichten,
+    aufeinander aufbauenden Modellen und agentischen Systemen bestehen. Zusammen mit Ebers/Vargas Penagos
+    ergibt das die vollständige Problembeschreibung; die vertragsrechtliche Lösung liefert weder der eine
+    noch der andere. Von einem industrienahen Institut, was man mitlesen sollte — die Argumente sind davon
+    unabhängig tragfähig.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-25
+- id: 2025-meyers-cerre-cloud-ai-competition
+  typ: bericht
+  autoren:
+  - Meyers, Zach
+  - Bourreau, Marc
+  titel: A Competition Policy for Cloud and AI
+  fundstelle: CERRE Issue Paper, Brüssel, Juni 2025
+  jahr: 2025
+  sprache: en
+  url: https://cerre.eu/wp-content/uploads/2025/06/A-Competition-Policy-for-Cloud-and-AI_FINAL.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - wettbewerb
+  - gpai
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dma-2022-1925
+  - data-act-2023-2854
+  kernthese: Der Wettbewerb bei Foundation Models funktioniert derzeit besser als befürchtet; Eingriffe
+    sollten zielgenau bleiben, weil die eigentlichen Risiken (Lock-in, Datenengpässe, Schließung offener
+    Plattformen) erst künftig entstehen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die ausdrückliche Gegenposition zu Schrepel und zur Konzentrationsthese: Meyers/Bourreau
+    halten den Markt für dynamisch (drei Hyperscaler mit rund 75 % des Cloud-Markts, aber wachsender Wettbewerb
+    um KI-Lasten) und warnen vor vorsorglicher Regulierung. Als Gegenstimme unentbehrlich, weil die europäische
+    Debatte die Konzentration meist voraussetzt. Interessenlage mitlesen: CERRE ist industriefinanziert.
+    Die wettbewerbliche Ambivalenz der Compute-Schwelle des Art. 51 — sie belastet genau die Ebene, auf
+    der die Konzentration am größten ist — sprechen die Verfasser nicht an.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51
+- id: 2024-martens-bruegel-premature
+  typ: bericht
+  autoren:
+  - Martens, Bertin
+  titel: 'The European Union AI Act: Premature or Precocious Regulation?'
+  fundstelle: Bruegel Analysis, Brüssel, 07.03.2024
+  jahr: 2024
+  sprache: en
+  url: https://www.bruegel.org/analysis/european-union-ai-act-premature-or-precocious-regulation
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Ob die KI-VO verantwortliche Innovation fördert oder erstickt, ist offen; der Kernkonflikt
+    liegt darin, dass ein für Einzweckprodukte entworfener Sicherheitsrahmen auf Mehrzweckmodelle angewandt
+    wird.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Nüchterne ökonomische Einordnung ohne Lagerzugehörigkeit, und die früheste Formulierung
+    des Arguments, das der Omnibus zwei Jahre später aufgreift: Die eigentliche Regulierung findet in
+    den Leitlinien statt, nicht im Verordnungstext. Als Beleg für die Prognosefähigkeit der ökonomischen
+    Literatur brauchbar, juristisch anspruchslos.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-kuenzler-collusion-discrimination-foundations
+  typ: working-paper
+  autoren:
+  - Künzler, Adrian
+  titel: Why Algorithmic Collusion and Discrimination Upend the Foundations of Competition Law
+  fundstelle: SSRN Working Paper 5296869, 2025
+  jahr: 2025
+  sprache: en
+  doi: 10.2139/ssrn.5296869
+  ssrn_id: '5296869'
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - ch
+  themenachsen:
+  - wettbewerb
+  - grundrechte
+  - governance
+  bezug_streitstaende:
+  - preisalgorithmen-kartell
+  bezug_urteile:
+  - us-2025-doj-realpage-vergleich
+  - us-2026-realpage-mdl-vergleich
+  - us-2025-gibson-cendyn
+  kernthese: Algorithmische Absprache und algorithmische Preisdiskriminierung sind dasselbe Phänomen aus
+    zwei Blickwinkeln und stellen beide die Grundannahme des Kartellrechts in Frage, dass Wettbewerb über
+    einen einheitlichen Marktpreis stattfindet.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige gefundene Text, der die beiden Themen dieser Akte — Diskriminierung und
+    Preisalgorithmen — nicht nebeneinanderstellt, sondern zusammenführt, und deshalb hier aufgenommen,
+    obwohl es ein unbegutachtetes Working Paper ist. Die These ist stark und angreifbar zugleich: Wenn
+    personalisierte Preise der Regelfall werden, verliert der Begriff des Marktpreises seine Funktion,
+    und damit verlieren sowohl der Absprachetatbestand (Art. 101 AEUV) als auch die Missbrauchskontrolle
+    (Art. 102 AEUV lit. c: unterschiedliche Bedingungen bei gleichwertigen Leistungen) ihren Bezugspunkt.
+    Die Verbindung zum Diskriminierungsrecht ist der interessante Teil: Preisdiskriminierung nach Zahlungsbereitschaft
+    trifft systematisch dieselben Gruppen, die das Gleichbehandlungsrecht schützt (vgl. Bartlett/Morse/Stanton/Wallace
+    2022 zur Kreditbepreisung), ohne dass ein geschütztes Merkmal verwendet würde. SSRN-Volltext nicht
+    maschinell abrufbar (429).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-15-1
+- id: 2025-manikandan-algorithmic-pricing-btlj
+  typ: blogbeitrag
+  autoren:
+  - Manikandan, Sauntharya
+  titel: The Implementation of Algorithmic Pricing and Its Impact on Businesses, Consumers, and Policymakers
+  fundstelle: Berkeley Technology Law Journal Blog, 18.05.2025
+  jahr: 2025
+  sprache: en
+  url: http://btlj.org/2025/05/implementation-of-algorithmic-pricing/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - wettbewerb
+  - governance
+  bezug_streitstaende:
+  - preisalgorithmen-kartell
+  bezug_urteile:
+  - us-2025-doj-realpage-vergleich
+  - us-2026-realpage-mdl-vergleich
+  - us-2025-gibson-cendyn
+  kernthese: Stillschweigende Kollusion über Preisalgorithmen entzieht sich dem Sherman Act, weil dieser
+    den Nachweis einer ausdrücklichen Vereinbarung verlangt; ohne gesetzgeberische Anpassung bleibt die
+    Durchsetzungslücke bestehen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als knapper, geprüfter Einstieg in den Streitstand `preisalgorithmen-kartell`,
+    nicht als Autorität — studentischer Blogbeitrag. Der Befund ist der Standardbefund und wird durch
+    die RealPage-Vergleiche bestätigt: Wo eine gemeinsame Datenbasis und ein gemeinsamer Anbieter nachweisbar
+    sind (hub and spoke), greift § 1 Sherman Act; wo nur parallele Lernprozesse vorliegen, nicht. Für
+    die europäische Seite ist der Vergleichspunkt Art. 101 AEUV und der Begriff der abgestimmten Verhaltensweise,
+    der weiter reicht als das US-Recht — dieser Vergleich fehlt dem Text. Die deutsche Diskussion (§ 1
+    GWB, 11. GWB-Novelle) ist nicht erfasst.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-15-1
+- id: 2025-streitboerger-price-algorithm-cartels
+  typ: blogbeitrag
+  autoren:
+  - Streitbörger, Chiara
+  titel: Price algorithm cartels as a challenge to the EU's prohibition of anticompetitive agreements
+  fundstelle: RAILS Blog (Robotics & AI Law Society), 30.09.2025
+  jahr: 2025
+  sprache: en
+  url: https://blog.ai-laws.org/price-algorithm-cartels-as-a-challenge-to-the-eus-prohibition-of-anticompetitive-agreements/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - wettbewerb
+  - haftung
+  bezug_streitstaende:
+  - preisalgorithmen-kartell
+  kernthese: Klassische Preisabsprachen bleiben auch bei algorithmischer Umsetzung von Art. 101 Abs. 1
+    AEUV erfasst; autonome algorithmische Kollusion entzieht sich dem Vereinbarungs- und Abstimmungsbegriff,
+    weil dieser an menschliche Kommunikation anknüpft, und auch dem Verschuldenserfordernis des Art. 23
+    Abs. 2 lit. a VO 1/2003.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige Text dieser Akte zum Streitstand preisalgorithmen-kartell aus deutscher
+    Feder — Streitbörger ist wissenschaftliche Mitarbeiterin in Potsdam mit kartellrechtlicher Dissertation
+    — und die europäische Ergänzung zu der amerikanischen Debatte, die in 32_lit_haftung.yaml erfasst
+    ist. Der wichtige Punkt ist der zweite: Selbst wenn man den Abstimmungsbegriff weit fasst, scheitert
+    die Sanktion am Verschulden, weil weder Vorsatz noch Fahrlässigkeit vorliegen, wenn niemand die Kollusion
+    vorhergesehen hat. Das ist ein eigenständiges Argument, das in der deutschen Diskussion um § 1 GWB
+    fehlt. Angreifbar: Streitbörger prüft die Verantwortlichkeit für die Algorithmenauswahl (Fahrlässigkeit
+    bei der Auswahl eines kollusionsanfälligen Systems) zu knapp — genau dort liegt der praktikable Anknüpfungspunkt.
+    Englisch, aber deutsche Autorin und deutscher institutioneller Rahmen. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gwb-1
+- id: 2024-cottier-rising-costs
+  typ: working-paper
+  autoren:
+  - Cottier, Ben
+  - Rahman, Robi
+  - Fattorini, Loredana
+  - Maslej, Nestor
+  - Besiroglu, Tamay
+  - Owen, David
+  titel: The rising costs of training frontier AI models
+  fundstelle: arXiv:2405.21015 (cs.CY), 31.05.2024; Epoch AI
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2405.21015
+  url: https://arxiv.org/abs/2405.21015
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die Kosten für das Training führender Modelle wachsen seit 2016 um das 2,4-fache pro Jahr;
+    überschreiten sie wie projiziert bis 2027 die Milliardengrenze, bleibt die Entwicklung auf sehr kapitalstarke
+    Akteure beschränkt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: die Marktstrukturfrage in quantifizierter Form — ob die Entwicklung
+    von Basismodellen eine wesentliche Einrichtung im Sinne der Zugangsdoktrin darstellt, und ob die Befolgungskosten
+    der KI-VO für kleine Anbieter erheblich sind oder im Rauschen verschwinden. Der Text liefert die Zahlen,
+    die man in beide Richtungen braucht. FÜR die Marktzutrittsargumentation: Wenn ein Trainingslauf bis
+    2027 über eine Milliarde Dollar kostet, ist der Markt für Basismodelle strukturell konzentriert, und
+    zwar unabhängig von jedem Verhalten der Beteiligten — das ist ein Argument im Sinne der Marktbeherrschungsanalyse
+    und zugleich gegen den Missbrauchsvorwurf, weil die Konzentration nicht verhaltensbedingt ist. GEGEN
+    die Klage über Regulierungskosten: Gemessen an Trainingskosten dieser Größenordnung sind die Dokumentations-
+    und Bewertungspflichten der Art. 53, 55 KI-VO vernachlässigbar — ein Argument, das in der Verhältnismässigkeitsprüfung
+    trägt und in der Digital-Omnibus-Debatte kaum vorkommt. Nützliche Aufschlüsselung: Der größte Posten
+    sind Beschleuniger- Chips und Personal, nicht Energie oder Daten. Wer Lizenzkosten für Trainingsdaten
+    ins Verhältnis setzen will, hat hier den Nenner. ANGREIFBAR: Kostenmodell auf Grundlage öffentlicher
+    Angaben und Schätzungen, mit erheblicher Unsicherheit; die Extrapolation bis 2027 ist eine Fortschreibung,
+    keine Beobachtung, und die Trainingskosten sagen nichts über die Gesamtkosten (Inferenz übersteigt
+    sie inzwischen).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53
+  - ki-vo-art-55
+- id: 2024-cma-foundation-models-update
+  typ: bericht
+  autoren:
+  - Competition and Markets Authority
+  titel: 'AI Foundation Models: Update paper'
+  fundstelle: Competition and Markets Authority, London, 11.04.2024; Fortschreibung des Initial Report
+    vom 18.09.2023, nebst Technical Update Report vom 16.04.2024
+  jahr: 2024
+  sprache: en
+  url: https://www.gov.uk/government/publications/ai-foundation-models-update-paper
+  zugang: open-access
+  jurisdiktionen:
+  - uk
+  - eu
+  - us
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  - gpai
+  kernthese: Der Wettbewerb um Basismodelle wird durch drei Hebel bedroht — die Kontrolle wesentlicher
+    Einsatzgüter (Rechenleistung, Daten, Fachkräfte), Partnerschaften und Beteiligungen entlang der Wertschöpfungskette
+    sowie vertikale Integration zwischen Modell- und Anwendungsebene.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: die kartellrechtliche Marktabgrenzung im KI-Sektor — welche Stufen
+    der Wertschöpfungskette es überhaupt gibt und wo Marktmacht entsteht. Die beste frei zugängliche wettbewerbsökonomische
+    Analyse des Feldes, und sie kommt von einer Behörde, die Ermittlungsbefugnisse hat und sie genutzt
+    hat: Die CMA hat Marktteilnehmer befragt und Verträge gesehen, die kein Wissenschaftler zu Gesicht
+    bekommt. Für die deutsche und europäische Praxis ist das aus zwei Gründen wichtig. ERSTENS liefert
+    die Wertschöpfungsanalyse — Chips, Cloud, Daten, Modell, Feinabstimmung, Anwendung, Vertriebskanal
+    — die Struktur, an der sich jede Marktabgrenzung nach § 18 GWB und Art. 102 AEUV orientieren kann;
+    das Bundeskartellamt und die Kommission arbeiten mit derselben Gliederung. ZWEITENS ist die Analyse
+    der Partnerschaften (Microsoft/OpenAI, Amazon/Anthropic, Google/Anthropic) der Ausgangspunkt der Frage,
+    ob solche Beteiligungen fusionskontrollpflichtige Zusammenschlüsse sind — eine Frage, die in Deutschland
+    über § 37 Abs. 1 Nr. 4 GWB (wettbewerblich erheblicher Einfluss) anders beantwortet werden kann als
+    im Vereinigten Königreich. ANGREIFBAR: eine Behördenanalyse mit regulierungspolitischem Interesse
+    und ohne förmliche Feststellungen; die spätere Praxis der CMA ist zurückhaltender ausgefallen als
+    der Bericht erwarten ließ. Und der Stand ist April 2024 — die Marktstruktur hat sich seither erheblich
+    bewegt.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-widder-open-ai-closed
+  typ: aufsatz
+  autoren:
+  - Widder, David Gray
+  - Whittaker, Meredith
+  - Myers West, Sarah
+  titel: Why 'open' AI systems are actually closed, and why this matters
+  fundstelle: Nature 635 (2024), Nr. 8040, 827–833
+  jahr: 2024
+  sprache: en
+  doi: 10.1038/s41586-024-08141-1
+  url: https://www.nature.com/articles/s41586-024-08141-1
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - wettbewerb
+  - marktzugang
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Offenheit bei KI ist gestuft und endet dort, wo die eigentlichen Engpässe liegen — Rechenleistung,
+    Daten, Vertriebskanäle —; sie verringert die Konzentration der Branche deshalb nicht, sondern verschleiert
+    sie.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: die Reichweite der Ausnahme für freie und quelloffene Modelle
+    in Art. 2 Abs. 12 und Art. 53 Abs. 2 KI-VO — die praktisch wichtigste Abgrenzungsfrage des GPAI-Kapitels,
+    weil an ihr hängt, ob ein Anbieter Dokumentations- und Urheberrechtspflichten überhaupt unterliegt.
+    Der Text zerlegt die Voraussetzung dieser Ausnahme: Der Gesetzgeber unterstellt, dass Offenheit Nachprüfbarkeit,
+    Wettbewerb und Teilhabe schafft und deshalb geringere Regulierung rechtfertigt. Widder u.a. zeigen,
+    dass die als "offen" bezeichneten Modelle in aller Regel nur die Gewichte freigeben — nicht die Trainingsdaten,
+    nicht den Trainingscode, nicht die Rechenleistung, ohne die sich nichts nachvollziehen lässt. Damit
+    ist die Rechtfertigungsgrundlage der Ausnahme bei den meisten Adressaten nicht erfüllt, und das ist
+    ein auslegungsleitendes Argument für ein enges Verständnis des Art. 53 Abs. 2 (der die Ausnahme ohnehin
+    nicht gewährt, wenn das Modell ein systemisches Risiko birgt). In Nature erschienen, frei, sechs Seiten,
+    ohne Formeln — und deshalb ein Text, den man einer Kammer oder einem Ministerium vorlegen kann. ANGREIFBAR:
+    Die Verfasser leiten das AI Now Institute und vertreten eine ausgesprochen konzentrationskritische
+    Position; der Text ist Stellungnahme im Nature-Kommentarteil, nicht begutachtete Forschung. Die Gegenposition
+    — offene Gewichte erlauben Sicherheitsforschung und mindern Abhängigkeit — kommt zu kurz und ist ernst
+    zu nehmen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-2-abs-12
+  - ki-vo-art-53-abs-2
+- id: 2023-labbe-colusion-algoritmos
+  typ: aufsatz
+  autoren:
+  - Labbé Figueroa, María Francisca
+  titel: Remedios para la colusión por algoritmos de fijación de precios
+  titel_deutsch: Abhilfen gegen Kollusion durch Preissetzungsalgorithmen
+  fundstelle: Revista Chilena de Derecho y Tecnología 12 (2023), 1–17
+  jahr: 2023
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/69556
+  doi: 10.5354/0719-2584.2023.69556
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  themenachsen:
+  - wettbewerb
+  bezug_streitstaende:
+  - preisalgorithmen-kartell
+  kernthese: 'Die im chilenischen Kartellrecht vorgesehenen Sanktionen — Gewinnabschöpfung, Unterlassung,
+    Auflösung der beteiligten Gesellschaft, Vergabesperre, Freiheitsstrafe — greifen bei algorithmisch
+    erlernter Kollusion ins Leere; erforderlich sind Safe Harbours und strukturelle Abhilfen.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der einzige mir bekannte lateinamerikanische Aufsatz, der die Preisalgorithmus-Kollusion
+    nicht auf der Tatbestandsseite, sondern auf der Rechtsfolgenseite behandelt — und darin liegt sein
+    Wert. Die europäische und amerikanische Literatur streitet fast ausschliesslich darüber, ob abgestimmtes
+    Verhalten vorliegt; Labbé Figueroa setzt das voraus und fragt, was man dann eigentlich anordnen soll,
+    wenn der Kartellant ein Modell und kein Mensch ist. Der Vorschlag struktureller Abhilfen (Entflechtung,
+    Divestment) ist für das deutsche Recht nicht unmittelbar übertragbar — § 32 Abs. 2 GWB kennt Entflechtung
+    nur als äussersten Fall —, aber die Fragestellung ist richtig gestellt. Chile ist hier besonders instruktiv,
+    weil das Freiheitsstrafenregime des Art. 62 DL 211 ausgerechnet den Vorsatz verlangt, den ein lernendes
+    System nicht hat. Kurz, klar, 17 Seiten.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-martinez-cardenas-bozzo-consumidores-algoritmos
+  typ: aufsatz
+  autoren:
+  - Martínez-Cárdenas, Betty
+  - Bozzo, Sebastián
+  titel: 'Consumidores en riesgo: Análisis de la influencia del uso de algoritmos en beneficio del proveedor'
+  titel_deutsch: 'Verbraucher in Gefahr: Analyse des Einflusses algorithmischer Verfahren zugunsten des
+    Anbieters'
+  fundstelle: Revista Chilena de Derecho y Tecnología 13 (2024), Artikel 70418
+  jahr: 2024
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/70418
+  doi: 10.5354/0719-2584.2024.70418
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  themenachsen:
+  - wettbewerb
+  - content
+  - datenschutz
+  kernthese: 'Personalisierte Preise und algorithmische Ansprache verkürzen die Entscheidungsfreiheit
+    des Verbrauchers; die chilenische Verbraucherbehörde SERNAC hat darauf mit Marktstudien, freiwilligen
+    Vereinbarungen, Verbandsklagen und Gesetzesinitiativen reagiert.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der Wert dieses Textes liegt nicht in der Dogmatik, sondern im Behördenmaterial:
+    Die beiden Autoren werten aus, was SERNAC tatsächlich getan hat — welche Marktstudien, welche freiwilligen
+    Zusagen, welche Kollektivklagen. In Europa hat keine Verbraucherbehörde eine vergleichbar dokumentierte
+    Praxis zu Preispersonalisierung. Wer zu Art. 6 Abs. 1 lit. ea Verbraucherrechterichtlinie (Hinweispflicht
+    bei personalisierten Preisen, in Deutschland § 312d BGB iVm Art. 246a § 1 Abs. 1 Satz 1 Nr. 6 EGBGB)
+    arbeitet, findet hier die einzige mir bekannte Beschreibung einer aktiven Aufsichtspraxis. Schwäche:
+    Der Text ist deskriptiv und wertet die Wirksamkeit dieser Massnahmen nicht aus. Der Schlusssatz über
+    Chiles Vorreiterrolle in Lateinamerika ist Eigenlob.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-gal-padilla-algorithmen-wettbewerbsrecht
+  typ: aufsatz
+  autoren:
+  - Gal, Michal S.
+  - Padilla, Jorge
+  titel: A general framework for analyzing the effects of algorithms on optimal competition laws
+  fundstelle: Theoretical Inquiries in Law 26 (2025), Heft 1, 183-214
+  jahr: 2025
+  sprache: en
+  doi: 10.1515/til-2025-0008
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  - intl
+  themenachsen:
+  - wettbewerb
+  - governance
+  kernthese: Algorithmen veraendern nicht nur einzelne Verhaltensweisen, sondern die Kosten- und Nutzenfunktion
+    des Wettbewerbsrechts selbst; die Autoren entwickeln einen allgemeinen Rahmen, mit dem sich bestimmen
+    laesst, wann algorithmische Faehigkeiten eine Verschaerfung und wann eine Lockerung der Verbotsnormen
+    rechtfertigen.
+  eigene_bewertung: 'Michal Gal (Haifa) ist die international meistrezipierte israelische Wettbewerbsrechtlerin
+    und die Autorin, ohne die man die Debatte um algorithmische Kollusion nicht fuehren kann. Der Aufsatz
+    ist der begrifflich anspruchsvollste Teil des Themenhefts von Theoretical Inquiries in Law, das die
+    Tel Aviv University 2025 zu KI und Wettbewerbsrecht herausgegeben hat. Fuer den Streitstand preisalgorithmen-kartell
+    ist er die theoretische Grundlage: Gal und Padilla zeigen, dass die Frage nicht lautet, ob Algorithmen
+    Absprachen erleichtern, sondern wie sich die optimale Verbotsschwelle verschiebt, wenn Beobachtung
+    und Reaktion nahezu kostenlos werden. Das ist die praezisere Fassung dessen, was Art. 101 AEUV mit
+    dem Begriff der abgestimmten Verhaltensweise zu fassen versucht. Nicht frei verfuegbar; Metadaten
+    geprueft.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

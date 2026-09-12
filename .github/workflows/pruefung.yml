@@ -1,0 +1,51 @@
+name: Quellen-Selbsttest
+
+# In dieser Fassung ist der Zeitplan abgeschaltet: der Lauf ist im
+# Arbeitsrepo eingerichtet, wo die Zugangsdaten hinterlegt sind. Hier
+# bleibt er von Hand ausloesbar, damit der Aufbau nachvollziehbar ist.
+on:
+  # schedule:
+  #   - cron: "0 5 1 * *"    # monatlich: welche Quelle ist stillschweigend gestorben?
+  workflow_dispatch:
+    inputs:
+      alle:
+        description: "Auch abgeschaltete Quellen anrufen (zum Erproben von Kandidaten)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: {python-version: "3.12"}
+      - run: pip install pyyaml
+      - name: Alle Feeds anfassen
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 tracker/pruefe_quellen.py ${{ inputs.alle && '--alle' || '' }}
+      - uses: actions/upload-artifact@v4
+        with: {name: quellenbericht, path: tracker/quellenbericht.md}
+
+      # Zusaetzlich ins Repo zurueckschreiben. Ein Artefakt laeuft nach 90
+      # Tagen ab und ist nur ueber die Actions-Oberflaeche zu erreichen; im
+      # Repo steht der Bericht dauerhaft und ist von aussen lesbar.
+      - name: Bericht sichern
+        run: |
+          # Offizielle Kennung des Actions-Bots. In der alten Schreibweise
+          # <name>@users.noreply.github.com liest GitHub den <name> als
+          # Kontonamen — eine frei gewaehlte Kennung landet dort bei einem
+          # echten Konto. Nie erfinden.
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A tracker/quellenbericht.md
+          if git diff --staged --quiet; then
+            echo "Bericht unveraendert."
+          else
+            git commit -m "Quellenbericht $(date -u +%Y-%m-%d)"
+            git push
+          fi

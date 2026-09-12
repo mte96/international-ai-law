@@ -1,0 +1,58 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: de-automatisierte-datenanalyse-polizei-f1
+  datum: 2026-10-15
+  beschreibung: 'Beobachtungsstichtag für das Ende des nordrhein-westfälischen Palantir-Engagements (Plattform
+    DAR). AMTLICH NICHT BELEGT: Das einzige auffindbare amtliche Dokument, die Antwort der Landesregierung
+    auf die Kleine Anfrage 6414 (LT-NRW-Drs. 18/16117 vom 22.10.2025, ausgegeben 28.10.2025), nennt kein
+    Datum im Oktober 2026. Sie referiert lediglich, der Vertrag laufe nach Medienberichten Ende September
+    2025 aus, und teilt mit, das Land prüfe neben einem Beitritt zu einer gemeinsamen Analyseplattform
+    von Bund und Ländern auch eine erneute Ausschreibung. Das hier stehende Datum stammt aus einer sekundären
+    Quelle (netzpolitik.org) und ist bis zu einer amtlichen Bestätigung als unsicher zu behandeln.
+
+    '
+  typ: sonstiges
+  jurisdiktion: de
+  regelwerk: de-automatisierte-datenanalyse-polizei
+  adressat: Land Nordrhein-Westfalen, Ministerium des Innern; mittelbar die beim BVerfG anhängige Verfassungsbeschwerde
+    gegen § 23 PolG NRW
+  handlungsbedarf: null
+  quelle: https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD18-16117.pdf
+  verifiziert: false
+  fundstelle_norm: 'Keine Rechtsnorm — Vertragslaufzeit; amtliches Dokument: LT-NRW-Drs. 18/16117 (Antwort
+    der Landesregierung auf die Kleine Anfrage 6414), bestätigt den Stichtag NICHT'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  sekundaerquelle: https://netzpolitik.org/2026/gruene-palantir-nein-datenanalyse-ja/
+  pruefvermerk: 'Gesucht wurde nach Landtagsdrucksachen 2026 zum DAR-Vertrag über die Volltextsuche und
+    site-beschränkt auf landtag.nrw.de, im.nrw und nrw.de; keine amtliche Angabe zum 15.10.2026 gefunden.
+    Nächster Schritt: Kleine Anfrage 2026 im Dokumentenarchiv des Landtags NRW gezielt nachschlagen.
+
+    '
+- id: de-automatisierte-datenanalyse-polizei-f2
+  datum: 2030-12-31
+  beschreibung: 'Ende der fünfjährigen Laufzeit des Palantir-Vertrags von Baden-Württemberg, als Jahresendstichtag
+    2030 gesetzt. Amtlich belegt sind Laufzeit und Ausstiegsabsicht, nicht das Enddatum: Die Beschlussempfehlung
+    und der Bericht des Ausschusses für Inneres, Digitalisierung und Kommunen (LT-BW-Drs. 17/9670, Sitzung
+    vom 22.10.2025, ausgegeben am 05.11.2025) hält fest, die Landesregierung bezeichne Palantir als Übergangssoftware,
+    wolle die Verlängerungsoption nicht nutzen und nach fünf Jahren unmittelbar auf eine andere Software
+    wechseln; er nennt ferner ein Kostenrisiko von fast 25 Millionen Euro, das entstanden wäre, wenn die
+    Lizenzkosten Ende März 2026 vertragsgemäß um 100 Prozent gestiegen wären. Ein Vertragsbeginn und damit
+    ein exaktes Vertragsende ist amtlich nicht veröffentlicht.
+
+    '
+  typ: sonstiges
+  jurisdiktion: de
+  regelwerk: de-automatisierte-datenanalyse-polizei
+  adressat: Land Baden-Württemberg, Innenministerium
+  handlungsbedarf: null
+  quelle: https://www.landtag-bw.de/resource/blob/601316/cfc6edf191245ece07f159d2c68c06c6/17_9670_D.pdf
+  verifiziert: false
+  fundstelle_norm: 'Keine Rechtsnorm — Vertragslaufzeit; amtliches Dokument: LT-BW-Drs. 17/9670 (Beschlussempfehlung
+    und Bericht des Innenausschusses)'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30

@@ -1,0 +1,343 @@
+# Gepflegte Datenbasis.
+urteile:
+- id: ke-odpc-2025-lendplus
+  jurisdiktion: ke
+  gericht: Office of the Data Protection Commissioner (Kenia)
+  aktenzeichen: ODPC/COMP/0126/2025 — Anthony Mwenda Kinoti vs Aventus Technology Limited T/A LendPlus
+  datum: 2025-05-01
+  volltext_url: https://www.odpc.go.ke/wp-content/uploads/2025/05/ANTHONY-MWENDA-KINOTI-vs-AVENTUS-TECHNOLOGY-LIMITED-TA-LENDPLUS-2.pdf
+  verifiziert: false
+  bedeutung: mittel
+  leitsatz: 'INHALT NICHT ERMITTELT — das amtliche PDF ist ein Scan ohne Textebene. Aufgenommen, weil
+    die Beklagte eine digitale Kreditplattform ist: Die Verfahren gegen digitale Kreditgeber sind der
+    Bereich, in dem die kenianische Aufsicht algorithmische Bonitätsbewertung und den Zugriff auf Telefondaten
+    tatsächlich prüft (vgl. die ODPC Guidance Note for Digital Credit Providers, 12/2023, die Profiling
+    als "any form of automated processing of personal data consisting of the use of personal data to evaluate
+    certain personal aspects relating to a natural person" definiert). Ob s. 35 des Gesetzes hier angewandt
+    wurde, ist zu prüfen.
+
+    '
+  normen:
+  - ke-dpa-s35
+  - ke-dpa-s63
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - haftung
+  status: rechtskraeftig
+  quelle_art: amtlich
+- id: ke-odpc-2026-momentum-credit
+  jurisdiktion: ke
+  gericht: Office of the Data Protection Commissioner (Kenia)
+  aktenzeichen: ODPC/COMP/1501/2025 — Mary Ogwena Immaculate vs Momentum Credit Limited
+  datum: 2026-01-01
+  volltext_url: https://www.odpc.go.ke/wp-content/uploads/2026/01/MARY-OGWENA-IMMACULATE-VS-MOMENTUM.pdf
+  verifiziert: false
+  bedeutung: mittel
+  leitsatz: 'INHALT NICHT ERMITTELT — Scan ohne Textebene. Verfahren gegen einen digitalen Kreditgeber;
+    dieselbe Fallgruppe wie ODPC/COMP/0126/2025. Das Datum ist aus dem Ablagepfad (2026/01) erschlossen,
+    nicht aus dem Dokument.
+
+    '
+  normen:
+  - ke-dpa-s35
+  - ke-dpa-s63
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  status: rechtskraeftig
+  quelle_art: amtlich
+- id: ke-odpc-2026-lolc
+  jurisdiktion: ke
+  gericht: Office of the Data Protection Commissioner (Kenia)
+  aktenzeichen: ODPC/COMP/0213/2026 — Peter Macharia Waithira vs LOLC Kenya Microfinance Bank Limited
+  datum: 2026-04-01
+  volltext_url: https://www.odpc.go.ke/wp-content/uploads/2026/04/PETER-MACHARIA-WAITHIRA-VS-LOLC-MFB.pdf
+  verifiziert: false
+  bedeutung: mittel
+  leitsatz: 'INHALT NICHT ERMITTELT — Scan ohne Textebene. Eines der jüngsten Verfahren (Beschwerde von
+    2026) gegen eine Mikrofinanzbank. Datum aus dem Ablagepfad erschlossen.
+
+    '
+  normen:
+  - ke-dpa-s35
+  - ke-dpa-s63
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  status: rechtskraeftig
+  quelle_art: amtlich
+- id: ke-odpc-2026-suo-moto-capital-sacco
+  jurisdiktion: ke
+  gericht: Office of the Data Protection Commissioner (Kenia)
+  aktenzeichen: 'ODPC/SM/0010/2025 — Suo Moto Investigation: Capital Sacco Limited'
+  datum: 2026-02-01
+  volltext_url: https://www.odpc.go.ke/wp-content/uploads/2026/02/CAPITAL-.pdf
+  verifiziert: false
+  bedeutung: mittel
+  leitsatz: 'INHALT NICHT ERMITTELT — Scan ohne Textebene. Aufgenommen, weil es sich um eine Untersuchung
+    VON AMTS WEGEN (suo moto) handelt: Der Commissioner wird ohne Beschwerde tätig. Diese Verfahrensart
+    ist der Hebel, mit dem die kenianische Aufsicht systemische Verarbeitungen — also auch algorithmische
+    Systeme — prüfen könnte, ohne auf einen Beschwerdeführer angewiesen zu sein. WIDERSPRUCH, nicht geglättet:
+    Dasselbe Aktenzeichen erscheint auf der Übersichtsseite zweimal mit zwei verschiedenen PDF-Adressen
+    (2026/01/CAPITAL-SACCO.pdf und 2026/02/CAPITAL-.pdf) und zwei Schreibweisen des Betroffenen ("Capital
+    Sacco Limited" / "Acapital Sacco Limited").
+
+    '
+  normen:
+  - ke-dpa-s31
+  - ke-dpa-s63
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - governance
+  status: rechtskraeftig
+  quelle_art: amtlich
+- id: ke-odpc-2026-hello-tractor
+  jurisdiktion: ke
+  gericht: Office of the Data Protection Commissioner (Kenia)
+  aktenzeichen: ODPC/COMP/1289/2025 — Alexander Mwendia vs Hello Tractor Kenya Limited
+  datum: 2026-01-01
+  volltext_url: https://www.odpc.go.ke/wp-content/uploads/2026/01/ALEXANDER-MWENDIA-VS-HELLO-TRACTOR-K-LIMITED-DETERMINATION.pdf
+  verifiziert: false
+  bedeutung: gering
+  leitsatz: 'INHALT NICHT ERMITTELT — der Abruf des PDF bestätigte ausdrücklich, dass das Dokument keine
+    maschinenlesbare Textebene enthält. Aufgenommen, weil die Beklagte ein Agrartechnologieunternehmen
+    mit datengetriebenem Geschäftsmodell ist — die Fallgruppe, in der sich landwirtschaftliche KI-Anwendungen
+    datenschutzrechtlich zuerst zeigen würden.
+
+    '
+  normen:
+  - ke-dpa-s63
+  themenachsen:
+  - datenschutz
+  status: rechtskraeftig
+  quelle_art: amtlich
+- id: ke-2026-wangai-ki-verfassung
+  jurisdiktion: ke
+  gericht: High Court of Kenya at Kerugoya (Constitutional and Human Rights Division)
+  aktenzeichen: Petition E003 of 2026; [2026] KEHC 5690 (KLR)
+  datum: 2026-04-30
+  status: anhaengig
+  bedeutung: hoch
+  volltext_url: https://new.kenyalaw.org/akn/ke/judgment/kehc/2026/5690/eng@2026-04-30
+  verifiziert: true
+  sprache: en
+  parteien:
+    klaeger: Wangai u.a. (drei Petenten); Amicus curiae Ideate Tech Policy Africa Limited
+    beklagter: Cabinet Secretary, Ministry of Information, Communications and The Digital Economy u.a.;
+      National Assembly als Interested Party
+  richter: EM Muriithi
+  leitsatz: 'Ein Antrag auf einstweilige Untersagung des Einsatzes von "high-risk artificial intelligence
+    systems" ist zu unbestimmt und kann nicht in der beantragten Fassung ergehen. Das Gericht lehnt die
+    conservatory order deshalb ab, gibt der Verfassungsbeschwerde aber im Uebrigen statt und fasst als
+    Ersatz einen structural interdict: die Beklagten haben dem Gericht ueber Stand und Fortgang der Regulierung
+    des KI-Einsatzes in Kenia zu berichten.'
+  sachverhalt: Die Petenten machen geltend, Kenia setze KI-Systeme in grundrechtsrelevanten Zusammenhaengen
+    ein, ohne dass ein KI-spezifischer Rechtsrahmen bestehe, und ruegen Verstoesse gegen das Recht auf
+    Privatheit und weitere Grundrechte. Sie berufen sich auf den im Nubian-Rights-Forum-/Huduma-Namba-Verfahren
+    entwickelten Grundsatz, dass ein umfassender Rechtsrahmen vor dem Einsatz eingriffsintensiver Systeme
+    bestehen muss. Sie beantragen unter anderem eine Feststellung, dass der Einsatz von Hochrisiko-KI-Systemen
+    ohne gesetzliche Grundlage verfassungswidrig ist, sowie eine einstweilige Untersagung.
+  ergebnis: 'Anwendungsantrag teilweise erfolgreich (outcome: Allowed). Ziff. 50 der Orders: (1) vorrangige
+    Verhandlung angeordnet, Termin 16.-18. Juni 2026 taeglich, Urteil vorbehalten fuer Montag, 29. Juni
+    2026; (2) der Antrag auf eine conservatory order gegen den Einsatz von "high-risk artificial intelligence
+    systems" ist vage und kann in der beantragten Fassung nicht ergehen; (3) den Petenten wird gestattet,
+    die Petition zu ergaenzen und die konkreten Systeme zu benennen, die sie fuer Hochrisikosysteme halten;
+    (4) die Kenya National Commission on Human Rights wird beigeladen; (5) Ergaenzung binnen 14 Tagen.
+    Ziff. 48: Das Gericht haelt die vorgetragenen Tatsachen fuer hinreichend, um einen structural interdict
+    zu rechtfertigen - eine Abhilfe, die der Supreme Court in Mitubell anerkannt hat - und verpflichtet
+    die Beklagten, ueber bisherige Schritte und Fortschritte hin zu einer Regulierung des Einsatzes von
+    KI-Technologien in Kenia zu berichten.'
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - marktzugang
+  - governance
+  normen: []
+  bedeutung_begruendung: 'Die erste Entscheidung ausserhalb Europas, die den Begriff "Hochrisiko-KI-System"
+    als Anknuepfungspunkt eines gerichtlichen Verbots prueft - und ihn fuer zu unbestimmt haelt. Das trifft
+    genau die Frage, die in der EU ueber Anhang III und Art. 6 Abs. 3 KI-VO gefuehrt wird, hier aber aus
+    der Gegenrichtung: nicht ob eine Behoerde einstufen darf, sondern ob ein Gericht daran einen Tenor
+    knuepfen kann. Der structural interdict ist zugleich ein Muster fuer die Durchsetzung eines Regulierungsauftrags
+    gegen den Gesetzgeber, das in Europa keine Entsprechung hat.'
+  offene_punkte:
+  - Das fuer den 29.06.2026 vorbehaltene Urteil ist auf kenyalaw noch nicht veroeffentlicht (Stand 07.09.2026).
+    Nachverfolgen.
+  - Der Bericht der Beklagten nach dem structural interdict ist nicht oeffentlich.
+  pruefvermerk:
+  - '07.09.2026 am amtlichen Volltext auf new.kenyalaw.org geprueft: Rubrum, Aktenzeichen, Datum, Spruchkoerper
+    und der Wortlaut der Orders (Ziff. 48-50) gelesen. Ausgang und Tenor sind belegt.'
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: ke-2026-nyanjui-ki-schriftsatz
+  jurisdiktion: ke
+  gericht: Environment and Land Court at Thika
+  aktenzeichen: Land Case Appeal E009 of 2025; [2026] KEELC 3088 (KLR)
+  datum: 2026-05-21
+  status: erstinstanzlich
+  bedeutung: hoch
+  volltext_url: https://new.kenyalaw.org/akn/ke/judgment/keelc/2026/3088/eng@2026-05-21
+  verifiziert: true
+  sprache: en
+  parteien:
+    klaeger: Nyanjui u.a.
+    beklagter: Nyanjui
+  richter: JA Mogeni
+  leitsatz: Wer zur Stuetzung eines Vollstreckungsaufschubs in einer Grundstuecksache eine Entscheidung
+    zitiert, die die Grundrechte von LGBTQ-Personen und erzwungene medizinische Untersuchungen betrifft,
+    hat die menschliche rechtliche Kontrolle zugunsten automatisierten, kontextblinden Schreibens preisgegeben.
+    Der Anwalt bleibt verpflichtet, seine Fundstellen persoenlich auf Einschlaegigkeit, Richtigkeit und
+    Tragfaehigkeit zu pruefen.
+  sachverhalt: Antrag auf Aussetzung der Vollstreckung. Die Antragsteller stuetzten sich auf eine Entscheidung,
+    die mit dem Streitgegenstand nichts zu tun hatte. Das Gericht wies den Antrag zurueck, weil weder
+    ein erheblicher Schaden dargelegt noch Sicherheit geleistet war, und befasste sich in Ziff. 26 mit
+    der Herkunft des Zitats.
+  ergebnis: 'Antrag zurueckgewiesen. Ziff. 26 im Wortlaut: "I hope that this was just a human error which
+    did not involve Artificial Intelligence (herein AI). In case it is related to AI then it serves as
+    a stark cautionary tale against the uncritical use of Artificial Intelligence in legal drafting. ...
+    the Applicants have inadvertently signaled a total abdication of human legal oversight in favor of
+    automated, context-blind writing. Where AI simply hallucinates and generates non-existent cases or
+    irrelevant authorities. There is all the good in AI but it must be keenly supervised. ... advocates
+    must personally verify their authorities to ensure they are relevant, accurate, and substantively
+    sound." Eine foermliche Sanktion wurde nicht verhaengt; die Folge blieb der Glaubwuerdigkeitsverlust
+    und die Kostenlast.'
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  normen: []
+  bedeutung_begruendung: 'Erweitert die Halluzinationsrechtsprechung um eine Variante, die in den US-Faellen
+    fehlt: Das zitierte Urteil existiert, es passt nur nicht. Das Gericht behandelt die kontextblinde,
+    aber echte Fundstelle als dasselbe Versagen wie die erfundene - und knuepft die Sanktion nicht an
+    die Unwahrheit, sondern an die Preisgabe menschlicher Kontrolle. Damit ist es fuer den Streitstand
+    zur Sanktionierung halluzinierter Fundstellen die schaerfste Gegenposition zu der Ansicht, es komme
+    allein auf die Existenz der Fundstelle an. Zugleich auffaellig: Das Gericht unterstellt den KI-Einsatz
+    nicht, sondern formuliert im Konjunktiv - ein methodisch sauberer Umgang mit einem nicht beweisbaren
+    Verdacht.'
+  pruefvermerk:
+  - 07.09.2026 am amtlichen Volltext auf new.kenyalaw.org geprueft; Ziff. 25-29 im Wortlaut gelesen.
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: ke-2025-rukwaro-fiktive-entscheidungen
+  jurisdiktion: ke
+  gericht: High Court of Kenya
+  aktenzeichen: '[2025] KEHC 11317 (KLR)'
+  datum: 2025-07-28
+  status: erstinstanzlich
+  bedeutung: hoch
+  volltext_url: https://new.kenyalaw.org/akn/ke/judgment/kehc/2025/11317/eng@2025-07-28
+  verifiziert: true
+  sprache: en
+  parteien:
+    klaeger: Rukwaro
+    beklagter: Ng'ang'a
+  leitsatz: Es ist nicht hinnehmbar, dem Gericht fiktive Entscheidungen zu zitieren, die ueberwiegend
+    von kuenstlicher Intelligenz erzeugt sind.
+  ergebnis: 'Antrag zurueckgewiesen (outcome: Dismissed).'
+  themenachsen:
+  - berufsrecht
+  normen: []
+  bedeutung_begruendung: Der erste kenianische Fall erfundener Fundstellen und damit der zeitliche Vorlaeufer
+    von Nyanjui. Fuer die Frage, ab wann Gerichte ausserhalb der USA reagieren, ist das Datum wichtiger
+    als die Begruendung.
+  offene_punkte:
+  - Nur der Trefferkontext der Volltextsuche gelesen, nicht die Entscheidung. Spruchkoerper, Aktenzeichen
+    der Instanz und Rechtsfolge sind nachzutragen.
+  pruefvermerk:
+  - '07.09.2026: Zitat, Datum, Gericht und Ausgang aus der amtlichen Suchschnittstelle von kenyalaw uebernommen;
+    der Volltext wurde noch nicht gelesen.'
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: ke-2025-kagumu-manipulierte-aufnahme
+  jurisdiktion: ke
+  gericht: Employment and Labour Relations Court
+  aktenzeichen: '[2025] KEELRC 3067 (KLR)'
+  datum: 2025-11-06
+  status: erstinstanzlich
+  bedeutung: hoch
+  volltext_url: https://new.kenyalaw.org/akn/ke/judgment/keelrc/2025/3067/eng@2025-11-06
+  verifiziert: true
+  sprache: en
+  parteien:
+    klaeger: Kagumu
+    beklagter: National Cement Company
+  leitsatz: Einwand, eine als Beweis vorgelegte Aufnahme sei moeglicherweise mit Sprechern oder mit kuenstlicher
+    Intelligenz hergestellt oder manipuliert worden.
+  ergebnis: 'Klage abgewiesen (outcome: Dismissed).'
+  themenachsen:
+  - content
+  - arbeit
+  - sektor-oeffentlich
+  normen: []
+  bedeutung_begruendung: 'Beruehrt die Frage, die der Deepfake-Regulierung praktisch vorausgeht: Wer traegt
+    die Beweislast, wenn eine Partei die Echtheit einer Aufnahme mit dem Hinweis auf KI bestreitet. In
+    Kenia stellt sie sich im Arbeitsprozess und damit frueher als in den meisten Rechtsordnungen.'
+  offene_punkte:
+  - Nur der Trefferkontext gelesen. Wie das Gericht mit dem Echtheitseinwand umgegangen ist, ist am Volltext
+    zu klaeren - das ist der eigentliche Ertrag des Falls.
+  pruefvermerk:
+  - '07.09.2026: Datum, Gericht, Ausgang und Trefferkontext aus der amtlichen Suchschnittstelle von kenyalaw;
+    Volltext noch ungelesen.'
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: ke-2026-savla-ki-verwaltung
+  jurisdiktion: ke
+  gericht: High Court at Nairobi (Milimani Law Courts), Judicial Review
+  aktenzeichen: Judicial Review Miscellaneous Application E120 of 2025; [2026] KEHC 4891 (KLR)
+  datum: 2026-04-16
+  status: erstinstanzlich
+  bedeutung: mittel
+  volltext_url: https://new.kenyalaw.org/akn/ke/judgment/kehc/2026/4891/eng@2026-04-16
+  verifiziert: true
+  sprache: en
+  parteien:
+    klaeger: Commission on Administrative Justice
+    beklagter: Savla
+  richter: JM Chigiti
+  leitsatz: Das Gericht befasst sich in einem Verfahren der Verwaltungskontrolle mit Begriff und Entwicklung
+    kuenstlicher Intelligenz und haelt fest, Kenia arbeite derzeit daran, KI rechtlich einzubinden.
+  ergebnis: 'Antrag erfolgreich (outcome: Allowed).'
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  normen: []
+  bedeutung_begruendung: Obiter, aber brauchbar als Beleg, wie kenianische Gerichte den Regelungsstand
+    ihres eigenen Landes im Jahr 2026 beschreiben.
+  offene_punkte:
+  - Nur der Trefferkontext gelesen; ob KI tragend war, ist offen.
+  pruefvermerk:
+  - '07.09.2026: Metadaten und Trefferkontext aus der amtlichen Suchschnittstelle; Volltext ungelesen.'
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: ke-2025-meareg-meta
+  jurisdiktion: ke
+  gericht: High Court at Nairobi (Milimani Law Courts), Constitutional and Human Rights Division
+  aktenzeichen: Petition E541 of 2022; [2025] KEHC 4362 (KLR)
+  datum: 2025-04-03
+  status: anhaengig
+  bedeutung: hoch
+  volltext_url: https://new.kenyalaw.org/akn/ke/judgment/kehc/2025/4362/eng@2025-04-03
+  verifiziert: true
+  sprache: en
+  parteien:
+    klaeger: Meareg u.a.; Amnesty International u.a. als Interested Parties
+    beklagter: Meta Platforms, Inc.
+  richter: LN Mugambi
+  leitsatz: Zwischenentscheidung im Verfahren um die Verantwortlichkeit einer Plattform fuer Inhalte,
+    die mit einer Mischung aus kuenstlicher Intelligenz und menschlicher Moderation behandelt wurden;
+    das Gericht erteilt weitere Verfahrenshinweise.
+  ergebnis: Court issues further directions.
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  normen: []
+  bedeutung_begruendung: Das Verfahren um die Moderation aethiopischer Inhalte ist der bekannteste Fall,
+    in dem ein Gericht ausserhalb der USA und Europas ueber die Zurechnung algorithmischer Inhaltsauswahl
+    entscheidet. Fuer die Datenbasis vor allem als anhaengiges Verfahren mit Signalwirkung.
+  offene_punkte:
+  - Zwischenentscheidung. Der Verfahrensfortgang seit April 2025 ist nicht geprueft.
+  pruefvermerk:
+  - '07.09.2026: Metadaten und Trefferkontext aus der amtlichen Suchschnittstelle; Volltext ungelesen.'
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich

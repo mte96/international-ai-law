@@ -1,0 +1,2850 @@
+regelwerke:
+- id: ru-243-fz-ki
+  jurisdiktion: ru
+  kurztitel: KI-Gesetz (243-FZ)
+  offizieller_titel: Föderationsgesetz über die Unterstützung der Entwicklung von Technologien der künstlichen
+    Intelligenz in der Russischen Föderation
+  originaltitel: Федеральный закон «О поддержке развития технологий искусственного интеллекта в Российской
+    Федерации»
+  transliteration: Federal'nyj zakon «O podderžke razvitija technologij iskusstvennogo intellekta v Rossijskoj
+    Federacii»
+  fundstelle: Föderationsgesetz vom 26.07.2026 Nr. 243-FZ; amtliche Veröffentlichung publication.pravo.gov.ru,
+    Registriernummer 0001202607260003
+  verfahrensnummer: Duma-Vorlage Nr. 1271570-8
+  status: teilanwendbar
+  status_detail: 'Seit 01.09.2026 in Kraft. Die Artikel 8 bis 10 — also gerade die Bestimmungen, die tatsächlich
+    Pflichten begründen (Pflichten der Entwickler souveräner und nationaler Modelle, Kennzeichnungs- infrastruktur,
+    Nutzerinformation über Rechte an Erzeugnissen) — gelten erst ab 01.03.2027. Für Systeme, die bereits
+    ausländische Modelle einsetzen, läuft eine Übergangsfrist bis 01.09.2032. Wesentliche Konkretisierungen
+    (Verfahren der Statusfeststellung, Sektoren mit Pflicht zu inländischen Modellen, Datenzugang) sind
+    in Regierungsverordnungen verlagert, die zum Recherchestand noch nicht vorlagen.
+
+    '
+  kurzbeschreibung: 'Erstes russisches Gesetz zur künstlichen Intelligenz, 13 Artikel, Rahmengesetz. Es
+    regelt nicht KI insgesamt, sondern "große fundamentale Modelle": Programme mit mindestens einer Milliarde
+    Parametern, die auf trainierten Algorithmen beruhen, als Grundlage weiterer Software dienen und für
+    eine Vielzahl unterschiedlicher Aufgaben taugen. Kreditscoring, Betrugserkennung, Bilderkennung, Dokumentenklassifikation
+    und regelbasierte Chatbots fallen damit heraus. Das Gesetz schafft zwei privilegierte Statuskategorien
+    — "souveränes" Modell (durchgängig von russischen Rechtsträgern entwickelt, Verarbeitung in russischen
+    Rechenzentren, staatliche Konformitätsfeststellung) und "nationales" Modell (Fremdkomponenten unter
+    offener Lizenz zulässig, Steuerung der Kernmerkmale beim russischen Entwickler). An diese Kategorien
+    knüpft es Zugang zu staatlichen Daten, Fördermittel, Versicherungsmöglichkeiten und eine Trainingsschranke
+    im Urheberrecht. Sanktionen enthält das Gesetz nicht; Verstöße richten sich nach allgemeinem Recht
+    (Datenschutz, Verbraucherschutz, Deliktsrecht).
+
+    '
+  inkrafttreten:
+    datum: 2026-09-01
+    verifiziert: true
+    quelle: http://publication.pravo.gov.ru/document/0001202607260003
+  anwendungsdaten:
+  - datum: 2026-09-01
+    was_gilt: 'Grundbestimmungen: Regelungsgegenstand, Ziele, Definitionen, Grundsätze, Behördenkompetenzen,
+      Förderung, internationale Zusammenarbeit (Art. 1-7, 11-13)'
+    verifiziert: true
+    quelle: https://ria.ru/20260901/rossija-2114488668.html
+  - datum: 2027-03-01
+    was_gilt: 'Art. 8-10: Pflichten der Entwickler souveräner/nationaler Modelle (Sicherheit, Nutzungsregeln,
+      technische Dokumentation, Grenzen des Modells); Bereitstellung der Kennzeichnungsfunktion durch
+      Plattformen ab 500.000 Tagesnutzern; Informationspflicht gegenüber Nutzern über Rechte an KI-Erzeugnissen
+      und Nutzungsbedingungen'
+    verifiziert: true
+    quelle: https://mypl.pro/audit-ii/zakony/243-fz-ii
+  - datum: 2032-09-01
+    was_gilt: 'Ende der Übergangsfrist: Systeme in staatlich benannten sensiblen Anwendungsbereichen,
+      die bislang ausländische Modelle einsetzen, müssen auf souveräne oder nationale Modelle umgestellt
+      haben. Bis dahin ist der Weiterbetrieb zulässig, sofern die Datenverarbeitung ausschließlich in
+      Russland erfolgt.'
+    verifiziert: true
+    quelle: https://www.cnews.ru/news/top/2026-06-22_vlasti_skorrektirovali_zakonoproekt
+  themenachsen:
+  - gpai
+  - governance
+  - marktzugang
+  - urheberrecht
+  - content
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 3: Legaldefinition der künstlichen Intelligenz und erstmals der ''großen fundamentalen Modelle''
+    (большие фундаментальные модели) — Schwelle 1 Mrd. Parameter'
+  - 'Art. 4: Grundsätze — risikoorientierter Ansatz, technologische Unabhängigkeit, Berücksichtigung der
+    ''traditionellen russischen geistig-moralischen Werte''. Der Wertebezug ist kein Programmsatz, sondern
+    Teil der Statusprüfung für souveräne Modelle.'
+  - 'Art. 5: Kompetenzverteilung zwischen Präsident, Regierung, Bundesbehörden, Staatskorporationen und
+    Zentralbank. Der Präsident kann Besonderheiten der Anwendung in sensiblen Bereichen selbst bestimmen
+    — ohne Gesetzesvorbehalt im engeren Sinne.'
+  - 'Art. 6/7: Förderung souveräner und nationaler Modelle; Zugang der Entwickler zu staatlichen Daten
+    für Training und Entwicklung, finanzielle Unterstützung, Teilnahme an ethischer Regelsetzung, Möglichkeit
+    der Haftpflichtversicherung'
+  - 'Art. 8: Pflichten der Entwickler — Sicherheit des Modells, Nutzungsregeln, technische Dokumentation,
+    Dokumentation der Grenzen des Modells (ab 01.03.2027)'
+  - 'Art. 9 ''Маркировка информационного материала, созданного с применением больших фундаментальных моделей'':
+    Kennzeichnung ist ein Recht des Nutzers, keine Pflicht. Plattformen mit über 500.000 Tagesnutzern
+    in Russland und nutzergenerierten Inhalten müssen die technische Möglichkeit bereitstellen. Format
+    und Platzierung regelt die Vereinbarung zwischen Nutzer und Plattform. Erfasst sind nur Audio- und
+    visuelle Materialien, nicht Text.'
+  - 'Art. 10 Abs. 1: Anbieter, die Zugang zu großen fundamentalen Modellen gewähren, müssen Nutzer über
+    die Rechte an den erzeugten Ergebnissen, die Zugangs- und Nutzungsbedingungen und den Verbleib der
+    Daten nach Vertragsende informieren (ab 01.03.2027)'
+  - 'Art. 10 Abs. 2: Schrankenregelung für Trainingsdaten. Analyse rechtmäßig erlangter oder öffentlich
+    zugänglicher Werke zum Zweck der Entwicklung SOUVERÄNER UND NATIONALER Modelle gilt nicht als Verletzung
+    des ausschließlichen Rechts, solange keine technischen Zugangsbeschränkungen überwunden werden. Kein
+    Opt-out des Rechteinhabers, keine Vergütungspflicht, keine Transparenzpflicht über die Trainingskorpora.'
+  - 'Art. 11: Verantwortlichkeit — Verweisnorm ohne eigene Sanktion'
+  - 'Art. 13: gestaffeltes Inkrafttreten'
+  dokumente:
+  - datum: 2026-07-26
+    typ: endfassung
+    titel: Федеральный закон от 26.07.2026 № 243-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202607260003
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (pravo.gov.ru)
+    verifiziert: true
+    notiz: Amtliche Erstveröffentlichung; belegt Datum, Nummer und vollständigen Titel.
+  - datum: 2026-07-26
+    typ: konsolidiert
+    titel: Federationsgesetz 243-FZ, Artikelübersicht 1-13
+    url: https://www.consultant.ru/document/cons_doc_LAW_540336/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Einzige aus dieser Umgebung erreichbare Quelle für die Artikelüberschriften; belegt insbesondere
+      Art. 9 als Kennzeichnungsnorm. Kommerzielle Rechtsdatenbank, keine amtliche Quelle.
+  - datum: 2026-07-09
+    typ: plenarprotokoll
+    titel: Три чтения за два дня. Госдума приняла закон о поддержке развития технологий искусственного
+      интеллекта
+    url: https://www.comnews.ru/content/246290/2026-07-09/2026-w28/1008/tri-chteniya-za-dva-dnya-gosduma-prinyala-zakon-o-podderzhke-razvitiya-tekhnologiy-iskusstvennogo-intellekta
+    sprache: ru
+    urheber: ComNews
+    verifiziert: true
+    notiz: Verfahrensablauf und Fraktionspositionen. Wolodin kündigt an, die Duma werde zentrale Bestimmungen
+      bis Jahresende erneut prüfen; 'Gerechtes Russland' verweigerte in dritter Lesung die Stimme.
+  - datum: 2026-07-17
+    typ: abstimmung
+    titel: Совет Федерации одобрил закон о развитии технологий ИИ
+    url: https://www.rapsinews.ru/legislation_news/20260717/312044167.html
+    sprache: ru
+    urheber: RAPSI (Russische Agentur für Rechts- und Gerichtsinformation)
+    verifiziert: true
+    notiz: Billigung durch den Föderationsrat; Zusammenfassung der Modellkategorien und Fristen.
+  - datum: 2026-07-08
+    typ: bericht
+    titel: Artificial Intelligence Draft Law Passed by the State Duma
+    url: https://www.lidings.com/media/legalupdates/ai_new/
+    sprache: en
+    urheber: Lidings (russische Wirtschaftskanzlei)
+    verifiziert: true
+    notiz: Englische Kanzleianalyse; nennt die sechs kumulativen Merkmale des 'großen fundamentalen Modells'.
+  - datum: 2026-08-01
+    typ: uebersicht
+    titel: 'Закон об ИИ (243-ФЗ): что он меняет для юриста, бухгалтера, кадровика и руководителя'
+    url: https://ppt.ru/obzory/zakon-ob-ii-243-fz
+    sprache: ru
+    urheber: ppt.ru (Praktisches Rechtsportal)
+    verifiziert: true
+    notiz: Detaillierteste erreichbare Darstellung der Artikelstruktur, der Ausnahmen vom Anwendungsbereich
+      und der Fristen; nennt die Duma-Vorlagennummer 1271570-8.
+  - datum: 2026-08-20
+    typ: bericht
+    titel: 'Права на ИИ-контент: статья 10 закона 243-ФЗ и обучение моделей'
+    url: https://mypl.pro/audit-ii/zakony/ii-i-avtorskoe-pravo
+    sprache: ru
+    urheber: MAJPL (Compliance-Beratung)
+    verifiziert: true
+    notiz: 'Auslegung des Art. 10 Abs. 2: entscheidend ist die technische, nicht die vertragliche Zugangsbeschränkung;
+      die Schranke steht ausländischen Modellen nicht offen.'
+  - datum: 2026-08-14
+    typ: bericht
+    titel: Russia wants to sell 'sovereign AI' abroad. Here's what it's really selling.
+    url: https://www.atlanticcouncil.org/dispatches/russia-wants-to-sell-sovereign-ai-abroad-heres-what-its-really-selling/
+    sprache: en
+    urheber: Atlantic Council
+    verifiziert: true
+    notiz: Einordnung der Souveränitätskategorien als Exportangebot an Staaten des globalen Südens; weist
+      auf den Widerspruch hin, dass 'souveräne' Modelle auf chinesischer Hardware laufen.
+  - datum: 2026-08-05
+    typ: bericht
+    titel: Russia's AI law strips copyright barriers
+    url: https://modeldiplomat.com/story/russias-ai-law-strips-copyright-barriers
+    sprache: en
+    urheber: Model Diplomat
+    verifiziert: true
+    notiz: Vergleich der Trainingsschranke mit Art. 4 DSM-RL und US-Fair-Use; hebt das fehlende Opt-out
+      hervor. Das dort genannte Datum 18.07.2026 ist falsch.
+  - datum: 2026-05-20
+    typ: bericht
+    titel: Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions
+    url: https://www.tomshardware.com/tech-industry/artificial-intelligence/russias-sberbank-wants-chinese-chips-for-its-gigachat-ai
+    sprache: en
+    urheber: Tom's Hardware
+    verifiziert: true
+    notiz: 'Belegt die Rechenleistungsengstelle: Umstellung von GigaChat auf chinesische Beschleuniger,
+      angekündigt am 20.05.2026 in Peking; inländische Fertigung zielt auf 65 nm bis 2030. Hintergrund
+      der Entscheidung, die belastende Regulierung im Juni 2026 zu streichen.'
+  offene_punkte:
+  - Die Regierungsverordnungen zu Statusfeststellung, Datenzugang und Sektoren mit Pflicht zu inländischen
+    Modellen lagen am 03.09.2026 noch nicht vor. Ohne sie ist der operative Gehalt des Gesetzes gering.
+  - Wie die 'traditionellen geistig-moralischen Werte' in der Konformitätsfeststellung geprüft werden,
+    ist offen. Es gibt keinen Prüfmaßstab, keinen Rechtsbehelf und keine benannte Stelle.
+  - 'Das Verhältnis von Art. 10 Abs. 2 zu Art. 1229, 1270, 1274 ZGB RF ist ungeklärt: Ist die Norm eine
+    Schranke im Sinne des Teils IV oder eine Sondernorm daneben? Die Gesetzgebungsmaterialien schweigen.'
+  - Wolodin hat am 09.07.2026 eine Wiedervorlage zentraler Bestimmungen bis Jahresende 2026 angekündigt.
+    Ob das eine Nachschärfung oder eine weitere Entschärfung wird, ist offen.
+  - Ob 'Zugang zu staatlichen Daten' auch personenbezogene Daten umfasst, sagt das Gesetz nicht. Der Vorstoß
+    der Assoziation für Big Data vom 03.08.2026 (siehe ru-abd-vorstoss-pdn) zeigt, dass die Branche es
+    so nicht liest.
+  monitoring_quellen:
+  - http://publication.pravo.gov.ru/
+  - https://sozd.duma.gov.ru/bill/1271570-8
+  - https://www.comnews.ru/
+  - https://d-russia.ru/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - ru-mintsifry-entwurf-2026
+  - ru-1317978-8-markierung
+  - ru-152-fz
+  - ru-gk-teil-4
+  - ru-258-fz-epr
+  - cn-ai-labelling
+  bedeutung_eu_anbieter: 'Das Gesetz begründet für einen europäischen Anbieter kaum Pflichten — aber es
+    schließt ihn von den Privilegien aus. Die Trainingsschranke des Art. 10 Abs. 2 gilt nur für souveräne
+    und nationale Modelle; ein europäisches Modell, das an russischen Inhalten trainiert, kann sich nicht
+    darauf berufen. Der Status "national" setzt einen russischen Entwickler voraus, "souverän" zusätzlich
+    durchgängig russische Wertschöpfung — beides ist ohne russische Rechtsperson unerreichbar. Praktisch
+    relevanter ist die Übergangsfrist bis 01.09.2032: Wer heute ein europäisches Modell an russische Kunden
+    in Bereichen liefert, die die Regierung als sensibel benennt, verliert diesen Markt spätestens dann.
+    Bis dahin hängt der Weiterbetrieb daran, dass die gesamte Datenverarbeitung in Russland stattfindet
+    — was mit Art. 44 ff. DSGVO und mit den EU-Sanktionsregimen zu kollidieren droht. Die eigentliche
+    Compliance-Last liegt nicht im 243-FZ, sondern in 152-FZ, 242-FZ und 265-FZ.
+
+    '
+  quellenlage: 'Amtlicher Titel, Datum und Registriernummer aus der amtlichen Veröffentlichung verifiziert.
+    Artikelüberschriften aus KonsultantPljus. Inhaltliche Einzelheiten (Parameterschwelle, Fristen, Kennzeichnungsmechanik,
+    Schrankenregelung) aus übereinstimmenden russischen Fach- und Kanzleiquellen; der Volltext war aus
+    dieser Umgebung nicht abrufbar.
+
+    '
+  letzte_pruefung: &id001 2026-09-05
+- id: ru-mintsifry-entwurf-2026
+  jurisdiktion: ru
+  kurztitel: Mintsifry-Entwurf zur staatlichen KI-Regulierung (März 2026)
+  offizieller_titel: Entwurf eines Föderationsgesetzes über die Grundlagen der staatlichen Regulierung
+    im Bereich der künstlichen Intelligenz
+  originaltitel: Проект федерального закона «Об основах государственного регулирования в сфере искусственного
+    интеллекта»
+  transliteration: Prökt federal'nogo zakona «Ob osnovach gosudarstvennogo regulirovanija v sfere iskusstvennogo
+    intellekta»
+  fundstelle: Konsultationsentwurf des Ministeriums für digitale Entwicklung, Kommunikation und Massenmedien
+    (Minzifry), veröffentlicht 18.03.2026
+  verfahrensnummer: keine Duma-Vorlagennummer — nie in dieser Fassung eingebracht
+  status: gescheitert
+  status_detail: 'Nicht förmlich abgelehnt, sondern zwischen März und Juni 2026 entkernt. Die öffentliche
+    Konsultation lief bis 15.04.2026, am 09.04.2026 fanden Parlamentsanhörungen statt. Am 22.06.2026 billigte
+    die Regierungskommission für Gesetzgebungstätigkeit eine deutlich liberalisierte Fassung; Vizepremier
+    Grigorenko erklärte, der Hauptakzent liege nun "auf der Unterstützung russischer KI-Modelle". Das
+    Verbot ausländischer KI-Systeme wurde gestrichen, die Pflichtkennzeichnung fiel weg, aus den drei
+    Modellkategorien (souverän / national / vertrauenswürdig) wurden zwei — die Kategorie "vertrauenswürdig"
+    mit FSB- und FSTEK-Prüfung für kritische Infrastruktur verschwand. Was übrig blieb, wurde als Vorlage
+    1271570-8 eingebracht und ist heute 243-FZ. Der Entwurf gehört in den Bestand, weil er zeigt, welche
+    Regulierung Russland 2026 erwogen und dann verworfen hat.
+
+    '
+  kurzbeschreibung: 'Der Entwurf hätte Russland ein risikobasiertes KI-Regulierungsgesetz europäischen
+    Zuschnitts gegeben. Er enthielt die erste Legaldefinition der KI im russischen Recht, staffelte die
+    Anforderungen nach dem Grad der Einwirkung auf Leben und Gesellschaft, verpflichtete zur Kennzeichnung
+    aller KI-erzeugten audiovisuellen Materialien in menschen- und maschinenlesbarer Form, belegte große
+    soziale Netzwerke mit einer Prüf- und Ersatzkennzeichnungspflicht, verlangte den Ausschluss diskriminierender
+    Funktionen und die Blockade rechtswidriger Inhaltserzeugung, gab Bürgern ein außergerichtliches Anfechtungsrecht
+    gegen KI-gestützte Verwaltungsentscheidungen und einen zivilrechtlichen Schadensersatzanspruch, und
+    verteilte die Haftung verschuldensproportional auf Entwickler, Betreiber, Diensteinhaber und Nutzer.
+    Er nahm Verteidigung, Staatssicherheit, Katastrophenschutz und Strafverfolgung vom Anwendungsbereich
+    aus und sah vor, grenzüberschreitende KI-Technologien beschränken oder verbieten zu können. Geplantes
+    Inkrafttreten: 01.09.2027.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.interfax.ru/digital/1078702
+  themenachsen:
+  - gpai
+  - governance
+  - grundrechte
+  - haftung
+  - content
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Risikobasierte Staffelung: Anforderungen nach dem Grad der Einwirkung auf Leben und Gesellschaft;
+    strengere Anforderungen im staatlichen Bereich, geringere im kommerziellen'
+  - Pflichtkennzeichnung aller KI-erzeugten audiovisuellen Materialien, menschen- UND maschinenlesbar;
+    Plattformpflicht zur Verifikation, Eigenkennzeichnung oder Entfernung
+  - 'Drei Modellkategorien: souverän, national, vertrauenswürdig (letztere mit FSB-/FSTEK-Prüfung, Voraussetzung
+    für kritische Infrastruktur)'
+  - Grenzüberschreitende Modelle konnten beschränkt oder verboten werden — hierauf beruhten die Berichte
+    über eine drohende Sperre von ChatGPT, Claude und Gemini
+  - Entwicklung und Training ausschließlich auf russischem Territorium; internationale Zusammenarbeit
+    auf gemeinsame Forschung und Datenaustausch beschränkt
+  - 'Speicherpflicht: KI-Dienste mit über 500.000 Tagesnutzern hätten Nutzerdaten drei Jahre in Russland
+    vorhalten müssen'
+  - 'Bürgerrechte: außergerichtliche Anfechtung KI-gestützter Behördenentscheidungen, zivilrechtlicher
+    Ersatzanspruch, vorgerichtliche Streitbeilegung'
+  - Verschuldensproportionale Haftungsverteilung über die gesamte Wertschöpfungskette
+  - 'Infrastrukturförderung: Langfriststromverträge, Steuervergünstigungen und vereinfachter Netzanschluss
+    für benannte Rechenzentren'
+  dokumente:
+  - datum: 2026-03-18
+    typ: konsultation
+    titel: Законопроект о регулировании ИИ в РФ вынесен на общественное обсуждение
+    url: https://www.interfax.ru/digital/1078702
+    sprache: ru
+    urheber: Interfax
+    verifiziert: true
+    notiz: Belegt Konsultationsbeginn 18.03.2026, Frist 15.04.2026, Parlamentsanhörung 09.04.2026, geplantes
+      Inkrafttreten 01.09.2027.
+  - datum: 2026-03-19
+    typ: entwurf
+    titel: Минцифры опубликовало законопроект о государственном регулировании искусственного интеллекта
+      в РФ
+    url: https://habr.com/ru/news/1012026/
+    sprache: ru
+    urheber: Habr
+    verifiziert: true
+    notiz: 'Ausführlichste erreichbare Inhaltsdarstellung: Risikoansatz, drei Modellkategorien, Ausnahme
+      für Sicherheitsbehörden, Bürgerrechte, Infrastrukturförderung.'
+  - datum: 2026-03-18
+    typ: entwurf
+    titel: Минцифры РФ предложило правила регулирования ИИ с маркировкой контента
+    url: https://www.kommersant.ru/doc/8515349
+    sprache: ru
+    urheber: Kommersant
+    verifiziert: true
+    notiz: Kennzeichnungspflicht in menschen- und maschinenlesbarer Form; Einordnung als 'weiche' Regulierung
+      mit Blick auf den russischen Anteil von rund 2 % am Weltmarkt.
+  - datum: 2026-06-22
+    typ: aenderungsantrag
+    titel: Власти скорректировали законопроект об ИИ с учетом предложений бизнеса
+    url: https://www.cnews.ru/news/top/2026-06-22_vlasti_skorrektirovali_zakonoproekt
+    sprache: ru
+    urheber: CNews
+    verifiziert: true
+    notiz: 'Schlüsseldokument: belegt die Streichung des Verbots ausländischer KI-Systeme, die Übergangsfrist
+      bis 2032 und die Umsteuerung von Verboten auf Anreize.'
+  - datum: 2026-06-25
+    typ: stellungnahme
+    titel: Риски закона об искусственном интеллекте для общества и прав человека
+    url: https://ru.themoscowtimes.com/2026/06/25/riski-zakona-ob-iskusstvennom-intellekte-dlya-obschestva-i-prav-cheloveka-a199216
+    sprache: ru
+    urheber: The Moscow Times (russische Redaktion, im Exil)
+    verifiziert: true
+    notiz: 'Kritische Gegenperspektive: Ausnahme der Sicherheitsbehörden ermöglicht unkontrollierte Gesichtserkennung
+      bei Protesten; der Wertebegriff ist nicht in technische Standards übersetzbar; KI-Dienste unterfallen
+      den bestehenden Pflichten für ''Organisatoren der Informationsverbreitung'' mit FSB-Fernzugriff.'
+  - datum: 2026-07-30
+    typ: bericht
+    titel: 'Закон об ИИ – 2026: комплексное регулирование уступило место поддержке больших моделей?'
+    url: https://alrf.ru/news/zakon-ob-ii-2026-kompleksnoe-regulirovanie-ustupilo-mesto-podderzhke-bolshikh-modeley/
+    sprache: ru
+    urheber: Assoziation der Juristen Russlands (ALRF)
+    verifiziert: true
+    notiz: Berufsständische Einordnung des Wechsels von Regulierung zu Förderung; benennt die verbleibenden
+      Grauzonen (Urheberrecht, Datenschutz, Haftung, Arbeitsrecht).
+  offene_punkte:
+  - Ob die gestrichenen Elemente in einem Folgegesetz wiederkehren, ist offen. Wolodin hat eine Wiedervorlage
+    bis Ende 2026 angekündigt; die Kennzeichnungsvorlage 1317978-8 ist ein erster Versuch.
+  - Der Entwurfstext war aus dieser Umgebung nicht erreichbar (regulation.gov.ru nicht abrufbar). Die
+    Darstellung beruht durchgängig auf Fachberichten.
+  monitoring_quellen:
+  - https://regulation.gov.ru/
+  - https://d-russia.ru/
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ki-vo-2024-1689
+  - ru-1317978-8-markierung
+  bedeutung_eu_anbieter: 'Für die Beobachtung wichtiger als das geltende Recht: Der Entwurf zeigt, dass
+    die russische Verwaltung ein europäisch geprägtes Regulierungsmodell vorbereitet hatte und es aus
+    industriepolitischen Gründen zurückzog, nicht aus ordnungspolitischer Überzeugung. Die Sperrbefugnis
+    gegenüber grenzüberschreitenden KI-Diensten liegt in der Schublade; sie kann jederzeit über eine Novelle
+    zum 243-FZ oder über das Telekommunikationsrecht reaktiviert werden.
+
+    '
+  quellenlage: 'Kein Primärtext abrufbar. Alle Angaben aus Interfax, Kommersant, Habr, CNews und The Moscow
+    Times; die inhaltlichen Kernpunkte stimmen über diese Quellen hinweg überein.
+
+    '
+  letzte_pruefung: 2026-09-03
+- id: ru-1317978-8-markierung
+  jurisdiktion: ru
+  kurztitel: Vorlage 1317978-8 — Pflichtkennzeichnung von KI-Inhalten
+  offizieller_titel: Entwurf eines Föderationsgesetzes über Änderungen des Föderationsgesetzes 'Über die
+    Unterstützung der Entwicklung von Technologien der künstlichen Intelligenz in der Russischen Föderation'
+  originaltitel: Проект федерального закона «О внесении изменений в Федеральный закон «О поддержке развития
+    технологий искусственного интеллекта в Российской Федерации»
+  transliteration: Prökt federal'nogo zakona «O vnesenii izmenenij v Federal'nyj zakon 'O podderžke razvitija
+    technologij iskusstvennogo intellekta v Rossijskoj Federacii'»
+  fundstelle: Duma-Vorlage
+  verfahrensnummer: 1317978-8
+  status: verfahren
+  status_detail: 'Eingebracht am 17.08.2026 (Parlamentskaja Gazeta; ict-online nennt den 19.08.2026 als
+    Registrierungsdatum) von den KPRF-Abgeordneten Nina Ostanina, Sergej Obuchow, Alexej Kornijenko und
+    Michail Matwejew. Erste Lesung war zum Recherchestand nicht terminiert. Die Vorgeschichte ist ungünstig:
+    Ein inhaltsgleicher KPRF-Vorstoß wurde im Juli 2025 vom Informationspolitik-Ausschuss abgelehnt, ein
+    weiterer Kennzeichnungsentwurf am 10.06.2026 im Plenum.
+
+    '
+  kurzbeschreibung: 'Der Entwurf will die Freiwilligkeit des Art. 9 des 243-FZ umkehren. Anbieter, die
+    Zugang zu großen fundamentalen Modellen gewähren, sollen verpflichtet werden, Informationsmaterialien
+    zu kennzeichnen, die mit Hilfe dieser Modelle erstellt oder verändert wurden. Format, Inhalt und Platzierung
+    der Kennzeichnung soll die Regierung festlegen. Begründet wird das mit dem Schutz der Bevölkerung
+    vor Desinformation und der Verringerung von Straftaten mit KI-erzeugtem Material. Geplantes Inkrafttreten
+    nach klerk.ru: 01.03.2027, also zeitgleich mit den Art. 8-10 des 243-FZ.
+
+    '
+  themenachsen:
+  - content
+  - gpai
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Adressat ist der Anbieter des Modellzugangs, nicht der Nutzer — Umkehrung der Adressatenrichtung des
+    Art. 9 des 243-FZ
+  - Erfasst sind auch mit KI VERÄNDERTE Materialien, nicht nur erzeugte
+  - Technische Ausgestaltung vollständig in Regierungsverordnung delegiert
+  - Keine Sanktionsnorm im Entwurf; die Durchsetzung bliebe offen
+  dokumente:
+  - datum: 2026-08-19
+    typ: entwurf
+    titel: Контент, созданный фундаментальными моделями ИИ, предложили маркировать
+    url: https://www.pnp.ru/social/kontent-sozdannyy-fundamentalnymi-modelyami-ii-predlozhili-markirovat.html
+    sprache: ru
+    urheber: Parlamentskaja Gazeta (amtsnahes Parlamentsblatt)
+    verifiziert: true
+    notiz: Nennt Vorlagennummer 1317978-8, Einbringungsdatum 17.08.2026 und alle vier Initiatoren namentlich.
+  - datum: 2026-08-19
+    typ: bericht
+    titel: Госдума РФ пометит контент
+    url: https://www.comnews.ru/content/246954/2026-08-19/2026-w34/1008/gosduma-rf-pometit-kontent
+    sprache: ru
+    urheber: ComNews
+    verifiziert: true
+    notiz: 'Internationale Einordnung (EU ab 02.08.2026, China ab 01.09.2025, Südkorea Januar 2026, Indien
+      Februar 2026) und technische Kritik: sichtbare Wasserzeichen sind trivial entfernbar, Metadaten
+      gehen bei Konvertierung verloren.'
+  - datum: 2026-08-18
+    typ: bericht
+    titel: В Госдуму внесли законопроект 2026 об обязательной маркировке ИИ-контента
+    url: https://www.klerk.ru/buh/news/704942/
+    sprache: ru
+    urheber: Klerk.ru
+    verifiziert: true
+    notiz: Nennt das geplante Inkrafttreten 01.03.2027.
+  - datum: 2026-08-10
+    typ: stellungnahme
+    titel: Закон о маркировке ИИ-контента приняли, но помечать он никого не обязывает
+    url: https://www.sostav.ru/blogs/289407/99420
+    sprache: ru
+    urheber: Sostav.ru
+    verifiziert: true
+    notiz: Präziseste Analyse des Art. 9 des 243-FZ ('обеспечивается возможность разместить' — Möglichkeit,
+      nicht Pflicht) und der faktischen Selbstregulierung durch Plattformen.
+  - datum: 2026-09-05
+    typ: uebersicht
+    titel: Законопроект № 1317978-8 — Verfahrensakte der Staatsduma
+    url: https://sozd.duma.gov.ru/bill/1317978-8
+    sprache: ru
+    urheber: Staatsduma der Russischen Föderation (sozd.duma.gov.ru)
+    verifiziert: false
+    notiz: Amtliche elektronische Verfahrensakte (СОЗД). Aus dieser Arbeitsumgebung nicht abrufbar; der
+      Server verweigert sowohl WebFetch als auch das Lesen im Browser.
+  offene_punkte:
+  - Ausschussberatung und erste Lesung waren am 03.09.2026 nicht terminiert. Eine Oppositionsvorlage ohne
+    Regierungsvotum hat in der VIII. Duma geringe Aussicht.
+  - Verhältnis zur Vorlage 1288702-8 (Deepfakes im Strafrecht) ungeklärt; beide adressieren dasselbe Problem
+    mit gegenläufiger Regelungstechnik.
+  monitoring_quellen:
+  - https://sozd.duma.gov.ru/bill/1317978-8
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-markierung-abgelehnt-2026
+  - ki-vo-2024-1689
+  - cn-ai-labelling
+  quellenlage: 'Vorlagennummer und Initiatoren durch zwei unabhängige Quellen belegt (Parlamentskaja Gazeta,
+    ict-online). ComNews nennt abweichend "131978-8" — offenkundiger Zahlendreher.
+
+    '
+  letzte_pruefung: *id001
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://sozd.duma.gov.ru/bill/1317978-8
+    fundstelle_norm: Kein Inkrafttreten — Duma-Vorlage 1317978-8, eingebracht im August 2026, erste Lesung
+      nicht terminiert
+  pruefvermerk:
+  - 'Bestaetigt: kein Inkrafttretensdatum. Die im Eintrag genannten Daten (17.08.2026 Einbringung, 19.08.2026
+    Registrierung) sind Verfahrensdaten und stehen richtig im status_detail. sozd.duma.gov.ru war weder
+    per WebFetch noch im Browser auslesbar (JavaScript gesperrt), der Verfahrensstand konnte daher nicht
+    aktualisiert werden.'
+- id: ru-markierung-abgelehnt-2026
+  jurisdiktion: ru
+  kurztitel: Abgelehnte Vorlage 'Made by AI' (Juni 2026)
+  offizieller_titel: Entwurf eines Föderationsgesetzes über die obligatorische Kennzeichnung von mit künstlicher
+    Intelligenz erzeugten Inhalten
+  originaltitel: Законопроект об обязательной маркировке контента, созданного с использованием искусственного
+    интеллекта
+  transliteration: Zakonoprökt ob objazatel'noj markirovke kontenta, sozdannogo s ispol'zovaniem iskusstvennogo
+    intellekta
+  fundstelle: Duma-Vorlage; Nummer in den erreichbaren Quellen nicht genannt
+  verfahrensnummer: nicht ermittelt
+  status: gescheitert
+  status_detail: 'Am 10.06.2026 im Plenum der Staatsduma abgelehnt. Initiatoren waren die Abgeordneten
+    Dmitrij Gussew, Alexej Shurawljow und Michail Deljagin. Vorgesehen war eine Pflicht, alle KI-erzeugten
+    Inhalte — Video, Bild und ausdrücklich auch Text — mit dem Label "Сделано ИИ" ("Made by AI") zu versehen,
+    mit rechtlichen Folgen bei Verstoß. Gussew stützte sich auf Umfragen, wonach 70 % der Bürger Deepfake-Videos
+    nicht von echten unterscheiden könnten. Der Abgeordnete Anton Gorelkin — der einflussreichste Fachpolitiker
+    im Informationspolitik-Ausschuss — hielt entgegen, die Norm sei schwer vollziehbar: Es sei ungeklärt,
+    wer für die Richtigkeit der Kennzeichnung einstehe und in welcher Produktionsphase sie anzubringen
+    sei; administrative Maßnahmen könnten die KI-Entwicklung ohnehin nicht bremsen. Die Ablehnung erklärt
+    unmittelbar, warum sechs Wochen später Art. 9 des 243-FZ nur ein Kennzeichnungsrecht und keine Kennzeichnungspflicht
+    enthält.
+
+    '
+  kurzbeschreibung: 'Gescheiterter Versuch, in Russland eine Kennzeichnungspflicht nach dem Muster des
+    chinesischen Kennzeichnungsregimes und des Art. 50 KI-VO einzuführen. Die Ablehnung ist der wichtigste
+    einzelne Beleg dafür, dass die Freiwilligkeit des russischen Kennzeichnungsmodells eine bewusste gesetzgeberische
+    Entscheidung ist und kein Redaktionsversehen.
+
+    '
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Kennzeichnungslabel 'Сделано ИИ' für Video, Bild UND Text — weiter als Art. 9 des 243-FZ, der Text
+    ausklammert
+  - Ablehnungsgrund war nicht der Regelungszweck, sondern die Zurechnungs- und Vollzugsfrage
+  dokumente:
+  - datum: 2026-06-11
+    typ: abstimmung
+    titel: Госдума отклонила законопроект об обязательной маркировке ИИ-контента
+    url: https://www.sostav.ru/publication/gosduma-otklonila-zakonoproekt-ob-obyazatelnoj-markirovke-ii-kontenta-84498.html
+    sprache: ru
+    urheber: Sostav.ru
+    verifiziert: true
+    notiz: Nennt Initiatoren, Inhalt und Gorelkins Ablehnungsbegründung.
+  - datum: 2026-06-11
+    typ: abstimmung
+    titel: Госдума отказалась от обязательной маркировки нейросетевого контента
+    url: https://adindex.ru/news/right/2026/06/11/345832.phtml
+    sprache: ru
+    urheber: AdIndex
+    verifiziert: true
+    notiz: Bestätigt Initiatoren und Begründung unabhängig.
+  offene_punkte:
+  - Die Vorlagennummer konnte ohne Zugriff auf sozd.duma.gov.ru nicht ermittelt werden.
+  monitoring_quellen:
+  - https://sozd.duma.gov.ru/
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-1317978-8-markierung
+  quellenlage: Zwei unabhängige Fachmedien; keine Primärquelle erreichbar. Vorlagennummer offen.
+  letzte_pruefung: 2026-09-03
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: ''
+    fundstelle_norm: Kein Inkrafttreten — die Vorlage wurde am 10.06.2026 im Plenum der Staatsduma abgelehnt
+  pruefvermerk:
+  - 'Bestaetigt: kein Inkrafttretensdatum, Status gescheitert. Ein abgelehnter Entwurf kann kein Inkrafttreten
+    haben. Quellenfeld leer gelassen — die Vorlagennummer ist unbekannt, eine amtliche Fundstelle daher
+    nicht angebbar; die im Eintrag vorhandene Quelle bleibt unveraendert.'
+- id: ru-1288702-8-deepfake-stgb
+  jurisdiktion: ru
+  kurztitel: Vorlage 1288702-8 — Deepfake als erschwerender Umstand
+  offizieller_titel: Entwurf eines Föderationsgesetzes über Änderungen des Strafgesetzbuchs der Russischen
+    Föderation (Verschärfung der strafrechtlichen Verantwortlichkeit für unter Einsatz von Technologien
+    begangene Straftaten)
+  originaltitel: Проект федерального закона «О внесении изменений в Уголовный кодекс Российской Федерации»
+    (об ужесточении уголовной ответственности за преступления, совершённые с использованием технологий)
+  transliteration: Prökt federal'nogo zakona «O vnesenii izmenenij v Ugolovnyj kodeks Rossijskoj Federacii»
+  fundstelle: Duma-Vorlage
+  verfahrensnummer: 1288702-8
+  status: verfahren
+  status_detail: 'Eingebracht am 12.08.2026. Vorgesehen ist eine Ergänzung des Art. 63 StGB RF (Umstände,
+    die die Strafe schärfen) um den Einsatz künstlicher Intelligenz zur Erzeugung gefälschter Video-,
+    Audio- und Bildmaterialien sowie zur Schaffung fiktiver Personen. Definiert wird der Deepfake als
+    "künstliche oder veränderte Video-, Audio- oder Bildaufzeichnung, die mit neuronalen Netzen oder anderer
+    Technologie erstellt wurde" und Aussehen, Stimme oder Handlungen einer Person unzutreffend wiedergibt.
+    Erster Verfahrensschritt zum Recherchestand nicht bekannt.
+
+    '
+  kurzbeschreibung: 'Dritter Anlauf des russischen Gesetzgebers, Deepfakes strafrechtlich zu erfassen.
+    Frühere Vorstöße seit 2024 (Ergänzung der Art. 128.1, 158, 159 StGB um ein Deepfake-Qualifikationsmerkmal)
+    sind nicht Gesetz geworden. Der jetzige Ansatz ist technisch schlanker: Er schafft keinen neuen Tatbestand,
+    sondern einen allgemeinen Strafschärfungsgrund, der auf jede Straftat durchschlägt. Geltendes Recht
+    erfasst Deepfake-Betrug bislang nur über die allgemeinen Tatbestände (Art. 159 StGB — Betrug; Art.
+    128.1 — Verleumdung) und über Art. 152.1 ZGB (Bildnisschutz).
+
+    '
+  themenachsen:
+  - content
+  - haftung
+  - grundrechte
+  regelungsschwerpunkte:
+  - Ergänzung des Katalogs des Art. 63 StGB RF statt Schaffung eines Sondertatbestands
+  - Erfasst ausdrücklich auch die Schaffung fiktiver Personen, nicht nur die Nachbildung realer
+  - Anwendungsbereich damit vom Betrug bis zur Rechtspflegebehinderung
+  dokumente:
+  - datum: 2026-08-12
+    typ: entwurf
+    titel: В Госдуму внесли проект об ужесточении наказания за дипфейки
+    url: https://www.vedomosti.ru/technology/news/2026/08/12/1220651-nakazaniya-za-dipfeiki
+    sprache: ru
+    urheber: Vedomosti
+    verifiziert: true
+    notiz: Nennt Vorlagennummer 1288702-8, Einbringungsdatum und die Anknüpfung an Art. 63 StGB.
+  - datum: 2026-08-13
+    typ: bericht
+    titel: Дипфейки при совершении преступлений могут признать отягчающим обстоятельством
+    url: https://www.garant.ru/news/2168210/
+    sprache: ru
+    urheber: GARANT.RU
+    verifiziert: true
+    notiz: Enthält die im Entwurf vorgeschlagene Legaldefinition des Deepfake.
+  - datum: 2026-09-05
+    typ: uebersicht
+    titel: Законопроект № 1288702-8 — Verfahrensakte der Staatsduma
+    url: https://sozd.duma.gov.ru/bill/1288702-8
+    sprache: ru
+    urheber: Staatsduma der Russischen Föderation (sozd.duma.gov.ru)
+    verifiziert: false
+    notiz: Amtliche elektronische Verfahrensakte (СОЗД). Aus dieser Arbeitsumgebung nicht abrufbar; der
+      Server verweigert sowohl WebFetch als auch das Lesen im Browser.
+  offene_punkte:
+  - Verfahrensstand nach Einbringung nicht ermittelbar (sozd.duma.gov.ru nicht erreichbar).
+  - Verhältnis zu den seit 2024 anhängigen Deepfake-Vorlagen (Qualifikationsmerkmale in Art. 158/159 StGB)
+    unklar — möglicherweise Konkurrenzvorlagen.
+  monitoring_quellen:
+  - https://sozd.duma.gov.ru/bill/1288702-8
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-gk-teil-4
+  - ru-718834-8-stimme
+  quellenlage: Vedomosti und GARANT.RU; keine Primärquelle.
+  letzte_pruefung: *id001
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://sozd.duma.gov.ru/bill/1288702-8
+    fundstelle_norm: Kein Inkrafttreten — Duma-Vorlage 1288702-8, eingebracht am 12.08.2026, nicht verabschiedet
+  pruefvermerk:
+  - 'Bestaetigt: kein Inkrafttretensdatum. Der 12.08.2026 ist das Einbringungsdatum und steht richtig
+    im status_detail. Die angegebene sozd-Adresse ist die kanonische Vorlagenseite; sie liess sich in
+    dieser Sitzung nicht auslesen (JavaScript auf sozd.duma.gov.ru gesperrt), der Verfahrensstand wurde
+    daher nicht aktualisiert.'
+- id: ru-718834-8-stimme
+  jurisdiktion: ru
+  kurztitel: Vorlage 718834-8 — Schutz der Stimme (Art. 152.3 ZGB)
+  offizieller_titel: Entwurf eines Föderationsgesetzes über Änderungen des Teils 1 des Zivilgesetzbuchs
+    der Russischen Föderation (Schutz der Stimme eines Bürgers)
+  originaltitel: Проект федерального закона «О внесении изменений в часть первую Гражданского кодекса
+    Российской Федерации» (об охране голоса гражданина)
+  transliteration: Prökt federal'nogo zakona «O vnesenii izmenenij v čast' pervuju Graždanskogo kodeksa
+    Rossijskoj Federacii» (ob ochrane golosa graždanina)
+  fundstelle: Duma-Vorlage
+  verfahrensnummer: 718834-8
+  status: verfahren
+  status_detail: 'Eingebracht am 17.09.2024. Der Entwurf will das ZGB um einen Art. 152.3 ergänzen, der
+    die Stimme als Objekt persönlicher Immaterialgüterrechte schützt — parallel zum Bildnisschutz des
+    Art. 152.1 — und ausdrücklich auch Stimmimitation und Sprachsynthese in Echtzeit erfasst. Veröffentlichung
+    und weitere Verwendung der Stimme, einschließlich synthetisch erzeugter Aufnahmen, wären nur mit Einwilligung
+    zulässig. Im Oktober 2024 votierte der Rat für Kodifizierung beim Präsidenten negativ; im Januar 2025
+    lehnte die Regierung den Entwurf mit der Begründung ab, die Frage sei durch geltendes Recht geregelt.
+    Seither liegt die Vorlage ohne erste Lesung. Formal anhängig, praktisch erledigt.
+
+    '
+  kurzbeschreibung: 'Reaktion auf den Fall der Synchronsprecherin Aljona Andronowa, deren Stimme über
+    Tinkoff VoiceKit für Dritte zugänglich wurde. Der Entwurf schließt die Lücke, die das russische Recht
+    bei Stimmklonen lässt: Geschützt sind bislang die Aufnahme (Art. 1315 ZGB, Rechte des ausübenden Künstlers,
+    Kompensation 10.000 bis 5.000.000 RUB) und die Stimme als biometrisches Datum (152-FZ, in der Praxis
+    5.000 bis 10.000 RUB), nicht aber die synthetische Nachbildung als solche. Der Widerstand der Kodifizierungsexperten
+    hat ein dogmatisches und ein politisches Motiv: die Sorge vor einer Aufblähung des Katalogs der immateriellen
+    Güter (Art. 150 ZGB) und der Widerstand der Sprachtechnologiebranche.
+
+    '
+  themenachsen:
+  - grundrechte
+  - urheberrecht
+  - content
+  - datenschutz
+  regelungsschwerpunkte:
+  - Neuer Art. 152.3 ZGB RF nach dem Vorbild des Bildnisschutzes in Art. 152.1
+  - 'Ausdrücklich erfasst: Imitation und Echtzeit-Sprachsynthese, nicht nur die Wiedergabe vorhandener
+    Aufnahmen'
+  - Einwilligungserfordernis auch für synthetisch erzeugte Stimmaufnahmen
+  - Negativvotum des Rates für Kodifizierung (Oktober 2024) und der Regierung (Januar 2025)
+  dokumente:
+  - datum: 2024-09-17
+    typ: entwurf
+    titel: В Госдуму внесен законопроект об охране голоса гражданина
+    url: https://www.consultant.ru/law/hotdocs/86379.html
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Belegt Vorlagennummer 718834-8, Einbringungsdatum und den Wortlaut des geplanten Art. 152.3.
+      Kommerzielle Rechtsdatenbank, keine amtliche Quelle.
+  - datum: 2024-10-25
+    typ: stellungnahme
+    titel: Президентские эксперты не поддержали законопроект об охране голоса
+    url: https://www.vedomosti.ru/society/articles/2024/10/25/1070810-ne-podderzhali-zakonoproekt-ob-ohrane-golosa
+    sprache: ru
+    urheber: Vedomosti
+    verifiziert: false
+    notiz: Negativvotum des Rates für Kodifizierung. Nicht abgerufen; Angabe aus Suchergebnis und aus
+      der Sekundärdarstellung bei Moscow Digital School.
+  - datum: 2026-02-01
+    typ: bericht
+    titel: 'Кража голоса и AI-клонирование: правовая защита дикторов от синтеза речи'
+    url: https://mosdigitals.ru/blog/krazha-golosa-i-ai-klonirovanie-pravovaya-zashhita-diktorov-ot-sinteza-rechi
+    sprache: ru
+    urheber: Moscow Digital School
+    verifiziert: true
+    notiz: Belegt die Regierungsablehnung Januar 2025 und ordnet die drei bestehenden Schutzwege (Art.
+      152 ZGB analog, Art. 1315 ZGB, 152-FZ) mit ihren Kompensationsniveaus ein.
+  - datum: 2026-09-05
+    typ: uebersicht
+    titel: Законопроект № 718834-8 — Verfahrensakte der Staatsduma
+    url: https://sozd.duma.gov.ru/bill/718834-8
+    sprache: ru
+    urheber: Staatsduma der Russischen Föderation (sozd.duma.gov.ru)
+    verifiziert: false
+    notiz: Amtliche elektronische Verfahrensakte (СОЗД). Aus dieser Arbeitsumgebung nicht abrufbar; der
+      Server verweigert sowohl WebFetch als auch das Lesen im Browser.
+  offene_punkte:
+  - Ob die Vorlage im Zuge der 243-FZ-Nachbesserung reaktiviert wird, ist offen. Die Deepfake-Vorlage
+    1288702-8 adressiert dasselbe Problem strafrechtlich statt zivilrechtlich.
+  monitoring_quellen:
+  - https://sozd.duma.gov.ru/bill/718834-8
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  - ru-152-fz
+  - ru-1288702-8-deepfake-stgb
+  quellenlage: KonsultantPljus (Primärnachweis der Vorlage), Moscow Digital School für den Verfahrensstand.
+    Das Vedomosti-Dokument wurde nicht abgerufen.
+  letzte_pruefung: *id001
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://sozd.duma.gov.ru/bill/718834-8
+    fundstelle_norm: Kein Inkrafttreten — Duma-Vorlage 718834-8, eingebracht am 17.09.2024, bis 06.09.2026
+      nicht verabschiedet
+  pruefvermerk:
+  - 'Bestaetigt: kein Inkrafttretensdatum. Der 17.09.2024 ist das Einbringungsdatum. Die angegebene sozd-Adresse
+    ist die kanonische Vorlagenseite; sie liess sich in dieser Sitzung nicht auslesen, der Verfahrensstand
+    wurde daher nicht aktualisiert.'
+- id: ru-258-fz-epr
+  jurisdiktion: ru
+  kurztitel: Sandkastengesetz (258-FZ)
+  offizieller_titel: Föderationsgesetz über experimentelle Rechtsregime im Bereich digitaler und technologischer
+    Innovationen in der Russischen Föderation
+  originaltitel: Федеральный закон «Об экспериментальных правовых режимах в сфере цифровых инноваций в
+    Российской Федерации»
+  transliteration: Federal'nyj zakon «Ob ėksperimental'nych pravovych režimach v sfere cifrovych innovacij
+    v Rossijskoj Federacii»
+  fundstelle: Föderationsgesetz vom 31.07.2020 Nr. 258-FZ
+  verfahrensnummer: Vorlage 922869-7
+  status: anwendbar
+  status_detail: 'In Kraft seit 28.01.2021, zuletzt geändert durch 211-FZ vom 26.06.2026. Seit 2021 wurden
+    19 experimentelle Rechtsregime (ЭПР) eingerichtet: 11 zu unbemannten Luftfahrtsystemen, 4 zu autonomem
+    Landverkehr, 2 zur medizinischen Tätigkeit und 2 zu staatlichen Dienstleistungen. Über 225 Teilnehmer
+    — 201 Gesellschaften, 23 Einzelunternehmer, 2 Behörden — und rund 150.000 betroffene Bürger. Ein eigenständiges
+    ЭПР allein für künstliche Intelligenz gab es bis zur Novelle 2026 nicht; das war der Anlass der Novelle.
+
+    '
+  kurzbeschreibung: 'Rahmengesetz für Regulierungssandkästen. Es erlaubt der Regierung, für einzelne Vorhaben
+    durch Verordnung ein Sonderregime zu errichten, in dem benannte Vorschriften des allgemeinen Rechts
+    für die Teilnehmer suspendiert oder modifiziert werden. Zuständig für Bewertung und Registerführung
+    ist das Ministerium für wirtschaftliche Entwicklung. Teilnehmer trifft eine Versicherungspflicht für
+    Schäden aus dem Betrieb. Bis 2026 war Voraussetzung, dass geltendes Recht die Innovation unmöglich
+    macht oder erheblich erschwert — was einen KI-Sandkasten ausschloss, solange KI überhaupt nicht reguliert
+    war. Genau diese Voraussetzung hat die Novelle 2026 beseitigt.
+
+    '
+  inkrafttreten:
+    datum: 2021-01-28
+    verifiziert: true
+    quelle: https://www.consultant.ru/document/cons_doc_LAW_358738/645f22663963429826dc79a35c6014d067325527/
+    fundstelle_norm: 'Статья 20 des 258-FZ: ''Настоящий Федеральный закон вступает в силу по истечении
+      ста восьмидесяти дней после дня его официального опубликования.'' Amtliche Veroeffentlichung am
+      31.07.2020; die 180-Tage-Frist laeuft am 27.01.2021 ab, das Gesetz tritt am 28.01.2021 in Kraft'
+  themenachsen:
+  - governance
+  - marktzugang
+  - haftung
+  - sektor-medizin
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Errichtung eines ЭПР durch Regierungsverordnung; Programm bestimmt Teilnehmerkreis, suspendierte Normen
+    und Laufzeit
+  - Registerführung und Bewertung beim Ministerium für wirtschaftliche Entwicklung
+  - Haftpflichtversicherung der Teilnehmer als Kompensation für die Suspendierung des allgemeinen Rechts
+  - Laufzeit bis 2026 höchstens drei Jahre, seit 211-FZ höchstens fünf Jahre
+  dokumente:
+  - datum: 2020-07-31
+    typ: endfassung
+    titel: Федеральный закон от 31.07.2020 N 258-ФЗ (последняя редакция)
+    url: https://www.consultant.ru/document/cons_doc_LAW_358738/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: false
+    notiz: Konsolidierte Fassung. Aus dieser Umgebung nur als Suchtreffer erreichbar, nicht abgerufen.
+      Kommerzielle Rechtsdatenbank, keine amtliche Quelle.
+  - datum: 2026-06-17
+    typ: bericht
+    titel: Эксперименты с цифровыми инновациями разрешат без правового барьера
+    url: https://rapsinews.ru/digital_law_news/20260617/311935920.html
+    sprache: ru
+    urheber: RAPSI
+    verifiziert: true
+    notiz: Quelle der Bestandszahlen (19 Regime, 225 Teilnehmer, 150.000 betroffene Bürger) und der Novellierungsinhalte.
+  - datum: 2020-07-31
+    typ: endfassung
+    titel: Федеральный закон от 31.07.2020 № 258-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202007310024
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2020-07-31
+    typ: endfassung
+    titel: Федеральный закон от 31.07.2020 г. № 258-ФЗ
+    url: http://www.kremlin.ru/acts/bank/45796
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  offene_punkte:
+  - Die Seite des Ministeriums für wirtschaftliche Entwicklung zu den ЭПР war aus dieser Umgebung nicht
+    abrufbar (robots.txt). Die aktuelle Liste der Regime konnte nicht am Primärbestand verifiziert werden.
+  - Ob nach der Novelle tatsächlich ein KI-spezifisches ЭПР errichtet wurde, ließ sich bis 03.09.2026
+    nicht feststellen.
+  monitoring_quellen:
+  - https://www.economy.gov.ru/material/directions/gosudarstvennoe_upravlenie/normativnoe_regulirovanie_cifrovoy_sredy/eksperimentalnye_pravovye_rezhimy/
+  bezug_regelwerke:
+  - ru-211-fz-epr-novelle
+  - ru-123-fz-moskau
+  - ru-243-fz-ki
+  bedeutung_eu_anbieter: 'Das funktionale Gegenstück zu Art. 57 ff. KI-VO (Reallabore), aber mit umgekehrter
+    Logik: Die KI-VO suspendiert im Reallabor keine materiellen Pflichten, sondern begleitet ihre Einhaltung.
+    Das russische ЭПР suspendiert geltendes Recht. Für einen europäischen Anbieter ist die Teilnahme praktisch
+    verschlossen — Antragsteller müssen russische Rechtsträger sein und die Bewertung erfolgt ministeriell
+    und ermessensgeleitet.
+
+    '
+  quellenlage: 'Bestandszahlen und Novelleninhalt durch RAPSI belegt. Der Gesetzestext selbst und die
+    Registerdaten des Ministeriums waren nicht abrufbar; Inkrafttretensdatum daher unverifiziert.
+
+    '
+  letzte_pruefung: *id001
+  pruefvermerk:
+  - 'Bestaetigt, aber berechnet: Das Gesetz nennt kein Datum, sondern eine 180-Tage-Frist ab amtlicher
+    Veroeffentlichung (31.07.2020). Der 31.07.2020 ist die Unterzeichnung/Veroeffentlichung, nicht das
+    Inkrafttreten. Das eingetragene Datum stimmt. Novelliert durch 211-FZ vom 26.06.2026 (eigener Eintrag,
+    bereits verifiziert).'
+- id: ru-211-fz-epr-novelle
+  jurisdiktion: ru
+  kurztitel: ЭПР-Novelle 2026 (211-FZ)
+  offizieller_titel: Föderationsgesetz über Änderungen des Föderationsgesetzes 'Über experimentelle Rechtsregime
+    im Bereich digitaler und technologischer Innovationen in der Russischen Föderation'
+  originaltitel: Федеральный закон «О внесении изменений в Федеральный закон «Об экспериментальных правовых
+    режимах в сфере цифровых и технологических инноваций в Российской Федерации»
+  transliteration: Federal'nyj zakon «O vnesenii izmenenij v Federal'nyj zakon 'Ob ėksperimental'nych
+    pravovych režimach v sfere cifrovych i technologičeskich innovacij v Rossijskoj Federacii'»
+  fundstelle: Föderationsgesetz vom 26.06.2026 Nr. 211-FZ
+  verfahrensnummer: Vorlage 1158700-8
+  status: anwendbar
+  status_detail: 'Von der Staatsduma am 10.06.2026 angenommen, vom Föderationsrat am 17.06.2026 gebilligt,
+    am 26.06.2026 unterzeichnet; in Kraft mit dem Tag der amtlichen Veröffentlichung. Der zentrale Schritt
+    ist die Streichung der "Regulierungsbarriere" als Voraussetzung: Ein experimentelles Rechtsregime
+    kann seither auch in Bereichen errichtet werden, für die überhaupt keine umfassende Regulierung besteht
+    — ausdrücklich genannt: künstliche Intelligenz und industrieller Datenaustausch. Zugleich wurde die
+    Höchstlaufzeit von drei auf fünf Jahre verlängert und den Teilnehmern ein Recht zum eigenen Ausstieg
+    eingeräumt.
+
+    '
+  kurzbeschreibung: 'Technisch kleine, dogmatisch bemerkenswerte Novelle. Sie kehrt die Funktion des Sandkastens
+    um: Bislang war er ein Instrument, um bestehendes Recht punktuell auszusetzen; jetzt kann er auch
+    dort eingesetzt werden, wo es kein Recht gibt — also als Instrument vorgezogener Regelsetzung durch
+    Regierungsverordnung. Für die KI-Regulierung ist das die Ergänzung zum 243-FZ: Was das Rahmengesetz
+    offenlässt, kann exekutiv im Sandkasten erprobt und von dort in Verordnungsrecht überführt werden.
+
+    '
+  inkrafttreten:
+    datum: 2026-06-26
+    verifiziert: true
+    quelle: https://www.consultant.ru/document/cons_doc_LAW_537892/
+  anwendungsdaten:
+  - datum: 2026-06-26
+    was_gilt: Wegfall der Voraussetzung einer Regulierungsbarriere; Höchstlaufzeit fünf statt drei Jahre;
+      Ausstiegsrecht der Teilnehmer; Möglichkeit, Teilnehmerpflichten zu begründen, die das allgemeine
+      Recht nicht kennt
+    verifiziert: true
+    quelle: https://rapsinews.ru/digital_law_news/20260617/311935920.html
+  themenachsen:
+  - governance
+  - marktzugang
+  - gpai
+  regelungsschwerpunkte:
+  - Streichung des Erfordernisses, dass geltendes Recht die Innovation unmöglich macht oder erheblich
+    erschwert — der eigentliche Kern der Novelle
+  - Verlängerung der Höchstlaufzeit von drei auf fünf Jahre
+  - Selbstständiges Ausstiegsrecht der Teilnehmer
+  - Möglichkeit, im Programm Teilnehmerpflichten zu begründen, die im allgemeinen Recht nicht vorgesehen
+    sind — Verordnungsrecht ohne Parlament
+  dokumente:
+  - datum: 2026-06-26
+    typ: endfassung
+    titel: Федеральный закон от 26.06.2026 N 211-ФЗ
+    url: https://www.consultant.ru/document/cons_doc_LAW_537892/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Belegt Titel, Datum und Verfahrensdaten (Duma 10.06.2026, Föderationsrat 17.06.2026). Kommerzielle
+      Rechtsdatenbank, keine amtliche Quelle.
+  - datum: 2026-06-10
+    typ: abstimmung
+    titel: Принят закон о расширении механизма экспериментальных правовых режимов для тестирования ИИ
+    url: https://www.interfax.ru/russia/1095191
+    sprache: ru
+    urheber: Interfax
+    verifiziert: true
+    notiz: Nennt die Vorlagennummer 1158700-8 und die drei Änderungspunkte.
+  - datum: 2026-06-17
+    typ: bericht
+    titel: Эксперименты с цифровыми инновациями разрешат без правового барьера
+    url: https://rapsinews.ru/digital_law_news/20260617/311935920.html
+    sprache: ru
+    urheber: RAPSI
+    verifiziert: true
+    notiz: Zitiert die weggefallene Tatbestandsvoraussetzung im Wortlaut.
+  - datum: 2026-06-26
+    typ: endfassung
+    titel: Федеральный закон от 26.06.2026 № 211-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202606260071
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: true
+    notiz: Amtliche Erstveröffentlichung, Registriernummer 0001202606260071. Am 05.09.2026 abgerufen;
+      belegt Datum, Nummer und Titel der Novelle des Gesetzes über experimentelle Rechtsregime.
+  offene_punkte:
+  - Ob und für welche KI-Anwendungen nach der Novelle Regime errichtet wurden, war zum 03.09.2026 nicht
+    feststellbar.
+  monitoring_quellen:
+  - http://publication.pravo.gov.ru/
+  - https://www.economy.gov.ru/
+  bezug_regelwerke:
+  - ru-258-fz-epr
+  - ru-243-fz-ki
+  - ru-123-fz-moskau
+  quellenlage: KonsultantPljus für Titel und Verfahrensdaten; Interfax und RAPSI für den Inhalt. Amtliche
+    Veröffentlichung nicht direkt geprüft.
+  letzte_pruefung: *id001
+- id: ru-123-fz-moskau
+  jurisdiktion: ru
+  kurztitel: Moskauer KI-Experiment (123-FZ)
+  offizieller_titel: Föderationsgesetz über die Durchführung eines Experiments zur Einführung einer besonderen
+    Regulierung zum Zweck der Schaffung der notwendigen Bedingungen für die Entwicklung und Einführung
+    von Technologien der künstlichen Intelligenz im Subjekt der Russischen Föderation — der Stadt föderaler
+    Bedeutung Moskau, über Besonderheiten der Verarbeitung personenbezogener Daten bei der Bildung regionaler
+    Datenbestände und über Änderungen der Artikel 6 und 10 des Föderationsgesetzes 'Über personenbezogene
+    Daten'
+  originaltitel: Федеральный закон «О проведении эксперимента по установлению специального регулирования
+    в целях создания необходимых условий для разработки и внедрения технологий искусственного интеллекта
+    в субъекте Российской Федерации — городе федерального значения Москве и внесении изменений в статьи
+    6 и 10 Федерального закона «О персональных данных»
+  transliteration: Federal'nyj zakon «O provedenii ėksperimenta po ustanovleniju special'nogo regulirovanija
+    v celjach sozdanija neobchodimych uslovij dlja razrabotki i vnedrenija technologij iskusstvennogo
+    intellekta v sub''ekte Rossijskoj Federacii — gorode federal'nogo značenija Moskve…»
+  fundstelle: Föderationsgesetz vom 24.04.2020 Nr. 123-FZ
+  subjurisdiktion: ru-msk
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.07.2020. Das Experiment war auf fünf Jahre angelegt, mithin bis 01.07.2025.
+    Eine ausdrückliche Verlängerung ließ sich nicht belegen; das Beratungszentrum CPK42 hält fest, das
+    Gesetz sei "formal weiterhin gültig und nicht aufgehoben", Kontur.Normativ weist für die geltende
+    Fassung ein Wirkdatum 01.09.2025 aus. Die Novelle 233-FZ vom 08.08.2024 hat die Vorschriften über
+    anonymisierte Datenbestände zum 01.01.2025 bzw. 01.09.2025 erweitert, was gegen eine stille Erledigung
+    spricht. Der Status ist deshalb als offen zu behandeln.
+
+    '
+  kurzbeschreibung: 'Erstes russisches Gesetz mit KI-Bezug überhaupt und bis 2026 die einzige gesetzliche
+    Definition der künstlichen Intelligenz im russischen Recht: KI sind technologische Lösungen, die kognitive
+    Funktionen des Menschen nachbilden, einschließlich Selbstlernen, und dabei mit menschlicher intellektueller
+    Tätigkeit vergleichbare Ergebnisse erzielen. Kern des Gesetzes ist nicht die KI-Regulierung, sondern
+    eine datenschutzrechtliche Sonderregelung: Die Moskauer Stadtverwaltung darf aus anonymisierten personenbezogenen
+    Daten regionale Datenbestände bilden und diese Behörden sowie zertifizierten russischen Betreibern
+    zugänglich machen. Für die Erhebung biometrischer Daten gilt eine Vorankündigungsfrist von 30 Tagen
+    mit Widerspruchsmöglichkeit. Die Daten dürfen nicht an Nichtteilnehmer weitergegeben werden und sind
+    bei Verlust des Teilnehmerstatus zu vernichten. Ein Koordinierungsrat begleitet das Experiment.
+
+    '
+  inkrafttreten:
+    datum: 2020-07-01
+    verifiziert: true
+    quelle: https://www.consultant.ru/document/cons_doc_LAW_351127/
+  anwendungsdaten:
+  - datum: 2025-07-01
+    was_gilt: Ablauf der gesetzlichen Fünfjahresfrist des Experiments — Fortgeltung ungeklärt
+    verifiziert: false
+    quelle: https://normativ.kontur.ru/document?moduleId=1&documentId=501357
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 2: Legaldefinition der künstlichen Intelligenz — bis 2026 die einzige im russischen Recht'
+  - 'Art. 3: Ziele — Lebensqualität, Effizienz von Verwaltung und Wirtschaft, und ausdrücklich: Erarbeitung
+    einer umfassenden KI-Regulierung auf Grundlage der Ergebnisse'
+  - 'Art. 6.1/6.2: Bildung regionaler Datenbestände aus anonymisierten personenbezogenen Daten; Zugang
+    für Behörden und zertifizierte russische Betreiber'
+  - 'Biometrische Daten: Erhebung mit 30-tägiger Vorankündigung und Widerspruchsmöglichkeit'
+  - Weitergabeverbot an Nichtteilnehmer; Vernichtungspflicht bei Verlust des Teilnehmerstatus
+  - 'Art. 7: Änderung der Art. 6 und 10 des 152-FZ — der Sandkasten greift unmittelbar in das allgemeine
+    Datenschutzrecht durch'
+  dokumente:
+  - datum: 2020-04-24
+    typ: endfassung
+    titel: Федеральный закон от 24.04.2020 N 123-ФЗ (действующая редакция)
+    url: https://www.consultant.ru/document/cons_doc_LAW_351127/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
+      Artikelüberschriften einschließlich der Art. 6.1 und 6.2 zur Bildung regionaler Datenbestände aus
+      anonymisierten personenbezogenen Daten.
+  - datum: 2024-08-08
+    typ: konsolidiert
+    titel: Федеральный закон от 24.04.2020 N 123-ФЗ — Редакция от 08.08.2024
+    url: https://normativ.kontur.ru/document?moduleId=1&documentId=501357
+    sprache: ru
+    urheber: Kontur.Normativ
+    verifiziert: true
+    notiz: Geltende Fassung nach der Novelle 233-FZ; Grundlage für die Angaben zu Art. 6.1/6.2 und zur
+      biometrischen Vorankündigung. Kommerzielle Rechtsdatenbank, keine amtliche Quelle.
+  - datum: 2020-04-24
+    typ: endfassung
+    titel: Федеральный закон от 24.04.2020 N 123-ФЗ
+    url: https://base.garant.ru/73945195/
+    sprache: ru
+    urheber: GARANT
+    verifiziert: true
+    notiz: Zweite Datenbank zur Gegenprobe; weist die Novelle 233-FZ mit Wirkung 01.01.2025 aus. Kommerzielle
+      Rechtsdatenbank, keine amtliche Quelle.
+  - datum: 2020-04-24
+    typ: endfassung
+    titel: Федеральный закон от 24.04.2020 № 123-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202004240030
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2020-04-24
+    typ: endfassung
+    titel: Федеральный закон от 24.04.2020 г. № 123-ФЗ
+    url: http://kremlin.ru/acts/bank/45475
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  offene_punkte:
+  - 'WIDERSPRUCH: Läuft das Experiment nach dem 01.07.2025 weiter? Der Gesetzestext setzt fünf Jahre;
+    die Datenbanken führen das Gesetz als geltend; eine Verlängerungsnovelle war nicht auffindbar. Das
+    ist die größte ungeklärte Frage dieses Eintrags.'
+  - Eine Auswertung des Experiments — die das Gesetz selbst als Zweck benennt — wurde nicht veröffentlicht.
+    Das 243-FZ nimmt auf das Moskauer Experiment nicht Bezug.
+  monitoring_quellen:
+  - https://www.mos.ru/
+  - http://publication.pravo.gov.ru/
+  bezug_regelwerke:
+  - ru-233-fz-anonymisierung
+  - ru-152-fz
+  - ru-258-fz-epr
+  - ru-243-fz-ki
+  bedeutung_eu_anbieter: 'Rechtsvergleichend das interessanteste Stück des Bestands: ein territorial begrenzter
+    Sandkasten, der nicht Marktzugangsrecht, sondern Datenschutzrecht suspendiert — und zwar zugunsten
+    der Verwaltung, nicht der Unternehmen. Ein europäisches Gegenstück gibt es nicht; Art. 59 KI-VO erlaubt
+    im Reallabor die Weiterverarbeitung rechtmäßig erhobener Daten nur unter engen Voraussetzungen und
+    unter Aufsicht der Datenschutzbehörde.
+
+    '
+  quellenlage: 'Gesetzestext über zwei Rechtsdatenbanken verifiziert. Die Fortgeltung nach dem 01.07.2025
+    ist ausdrücklich NICHT verifiziert; die Quellen widersprechen sich.
+
+    '
+  letzte_pruefung: *id001
+- id: ru-233-fz-anonymisierung
+  jurisdiktion: ru
+  kurztitel: Anonymisierungsnovelle (233-FZ)
+  offizieller_titel: Föderationsgesetz über Änderungen des Föderationsgesetzes 'Über personenbezogene
+    Daten' und des Föderationsgesetzes 'Über die Durchführung eines Experiments zur Einführung einer besonderen
+    Regulierung … in der Stadt föderaler Bedeutung Moskau'
+  originaltitel: Федеральный закон «О внесении изменений в Федеральный закон «О персональных данных» и
+    Федеральный закон «О проведении эксперимента по установлению специального регулирования … в городе
+    федерального значения Москве»
+  transliteration: Federal'nyj zakon «O vnesenii izmenenij v Federal'nyj zakon 'O personal'nych dannych'
+    i Federal'nyj zakon 'O provedenii ėksperimenta…'»
+  fundstelle: Föderationsgesetz vom 08.08.2024 Nr. 233-FZ; amtliche Veröffentlichung publication.pravo.gov.ru,
+    Registriernummer 0001202408080031
+  status: anwendbar
+  status_detail: 'Gestaffelt in Kraft: Teile zum 01.01.2025, die praktisch wichtigsten Pflichten zum 01.09.2025.
+    Seither können das Ministerium für digitale Entwicklung und das Moskauer IT-Departement Datenverantwortliche
+    durch Bescheid verpflichten, personenbezogene Daten zu anonymisieren und an die Einheitliche Informationsplattform
+    des Nationalen Datenverwaltungssystems (ЕИП НСУД) zu übermitteln. Vier Anonymisierungsverfahren sind
+    zugelassen. Verstöße unterfallen Art. 13.11 KoAP.
+
+    '
+  kurzbeschreibung: 'Die eigentliche Trainingsdatenpolitik Russlands — sie steht nicht im KI-Gesetz. Das
+    Gesetz verwandelt die Anonymisierung von einer Option des Verantwortlichen in eine hoheitlich anordenbare
+    Pflicht und schafft mit der ЕИП НСУД einen staatlichen Datenpool, aus dem KI-Entwicklung gespeist
+    werden soll. Verantwortliche müssen interne Anonymisierungsrichtlinien erlassen, die Dokumentation
+    getrennt von den Ausgangsdaten aufbewahren, ein Verzeichnis der Anonymisierungsvorgänge führen und
+    Dritten den Zugang zu Verfahren und Methodik verwehren. Zugelassene Verfahren: Einführung von Identifikatoren,
+    Veränderung von Zusammensetzung und Semantik, Dekomposition (Aufteilung in getrennt gespeicherte Teilmengen)
+    und Mischen (Permutation von Datensätzen).
+
+    '
+  inkrafttreten:
+    datum: 2024-08-08
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/475798-federalnyy-zakon-ot-08-08-2024-n-233-fz
+    fundstelle_norm: 'Статья 3 часть 1 des 233-FZ: ''Настоящий Федеральный закон вступает в силу со дня
+      его официального опубликования, за исключением положений, для которых настоящей статьей установлен
+      иной срок вступления их в силу.'' Amtliche Veroeffentlichung publication.pravo.gov.ru am 08.08.2024
+      (Reg.-Nr. 0001202408080031). Часть 2 статьи 3: ''Пункты 1 - 3, 5 статьи 1, статья 2 настоящего Федерального
+      закона вступают в силу с 1 сентября 2025 года.'''
+  anwendungsdaten:
+  - datum: 2025-09-01
+    was_gilt: 'Nr. 1-3 und 5 des Art. 1 (Aenderungen des 152-FZ: Anonymisierungsanordnung, Uebermittlung
+      an die Einheitliche Informationsplattform) sowie Art. 2 (Aenderung des Moskauer KI-Experimentiergesetzes
+      123-FZ) — die praktisch wichtigsten Pflichten; Art. 3 Abs. 2 des 233-FZ'
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/475798-federalnyy-zakon-ot-08-08-2024-n-233-fz
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Hoheitliche Anordnung der Anonymisierung durch Bescheid — kein Widerspruchsrecht des Betroffenen vorgesehen
+  - Zentraler staatlicher Datenpool (ЕИП НСУД) als Infrastruktur für KI-Training
+  - Vier abschließend zugelassene Anonymisierungsverfahren
+  - Geheimhaltungspflicht bezüglich der eingesetzten Anonymisierungsmethodik gegenüber Dritten
+  - Sanktion über Art. 13.11 KoAP RF
+  dokumente:
+  - datum: 2024-08-08
+    typ: endfassung
+    titel: Федеральный закон от 08.08.2024 № 233-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202408080031
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation
+    verifiziert: false
+    notiz: Als Suchtreffer identifiziert, aus dieser Umgebung nicht abgerufen.
+  - datum: 2025-08-01
+    typ: bericht
+    titel: Федеральный закон № 233-ФЗ и новые требования к обезличиванию персональных данных с 1 сентября
+      2025 года
+    url: https://www.anti-malware.ru/analytics/Technology_Analysis/Depersonalization-of-personal-data-in-Russia-2025
+    sprache: ru
+    urheber: Anti-Malware.ru
+    verifiziert: true
+    notiz: 'Detaillierteste erreichbare Darstellung: Adressaten, ЕИП НСУД, die vier Verfahren, organisatorische
+      Pflichten, Sanktionsnorm.'
+  - datum: 2024-08-08
+    typ: konsolidiert
+    titel: Федеральный закон от 08.08.2024 N 233-ФЗ
+    url: https://base.garant.ru/409493125/
+    sprache: ru
+    urheber: GARANT
+    verifiziert: false
+    notiz: Volltext in der Rechtsdatenbank; Abruf lief in dieser Sitzung in einen Timeout. Kommerzielle
+      Rechtsdatenbank, keine amtliche Quelle.
+  offene_punkte:
+  - Ob und in welchem Umfang die ЕИП НСУД tatsächlich für das Training der 'souveränen' Modelle geöffnet
+    wurde, ist nicht belegt. Art. 6 des 243-FZ verspricht Entwicklern Zugang zu staatlichen Daten, benennt
+    die Plattform aber nicht.
+  - Ob die vier Verfahren dem Anonymisierungsbegriff des Art. 4 Nr. 1 DSGVO bzw. ErwG 26 standhalten,
+    ist offen — 'Einführung von Identifikatoren' und 'Dekomposition' sind der Sache nach Pseudonymisierungstechniken.
+  monitoring_quellen:
+  - https://rkn.gov.ru/
+  - https://digital.gov.ru/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-123-fz-moskau
+  - ru-243-fz-ki
+  - ru-abd-vorstoss-pdn
+  bedeutung_eu_anbieter: 'Praktisch die wichtigste Norm dieses Bestands für einen europäischen Verantwortlichen
+    mit russischer Tochtergesellschaft: Die Anordnung, Bestandsdaten zu anonymisieren und an eine staatliche
+    Plattform zu übermitteln, ist datenschutzrechtlich kein freiwilliger Vorgang und lässt sich gegenüber
+    der DSGVO kaum als "rechtliche Verpflichtung" im Sinne des Art. 6 Abs. 1 lit. c rechtfertigen, weil
+    Art. 48 DSGVO Drittstaatsanordnungen nur unter Rechtshilfevorbehalt anerkennt. Der Konflikt ist strukturell
+    und nicht durch Vertragsgestaltung auflösbar.
+
+    '
+  quellenlage: 'Inhalt durch eine fachlich dichte Sekundärquelle belegt und mit weiteren Fachbeiträgen
+    (habr, law.ru) im Suchergebnis konsistent. Amtliche Veröffentlichung nur als Fundstelle nachgewiesen.
+
+    '
+  letzte_pruefung: *id001
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war 01.01.2025 — dieses Datum kommt im Gesetz nicht vor. Art. 3 kennt
+    nur zwei Stufen: Inkrafttreten am Tag der amtlichen Veroeffentlichung (08.08.2024) und die spaetere
+    Stufe 01.09.2025. Der Wortlaut wurde am Volltext geprueft. status_detail des Eintrags (''Teile zum
+    01.01.2025'') ist entsprechend zu berichtigen. Vorher: 2025-01-01.'
+- id: ru-152-fz
+  jurisdiktion: ru
+  kurztitel: Datenschutzgesetz (152-FZ)
+  offizieller_titel: Föderationsgesetz über personenbezogene Daten
+  originaltitel: Федеральный закон «О персональных данных»
+  transliteration: Federal'nyj zakon «O personal'nych dannych»
+  fundstelle: Föderationsgesetz vom 27.07.2006 Nr. 152-FZ, geltende Fassung vom 26.07.2026
+  status: anwendbar
+  status_detail: 'Seit 2006 in Kraft, seither über fünfzigmal geändert. Für KI einschlägig sind vier Änderungsstränge:
+    242-FZ (2014, Lokalisierungspflicht), 123-FZ und 233-FZ (2020/2024, Art. 6 und 10 sowie anonymisierte
+    Datenbestände), 420-FZ und 421-FZ (2024, Umsatzbußgelder und Strafbarkeit), 265-FZ (2026, Drittlandtransfer).
+    Eine eigene Regelung automatisierter Einzelentscheidungen enthält Art. 16 seit 2006 — sie ist der
+    russische Vorläufer des Art. 22 DSGVO und in der Praxis ohne nennenswerte Durchsetzung geblieben.
+
+    '
+  kurzbeschreibung: 'Allgemeines Datenschutzgesetz. Verarbeitung bedarf grundsätzlich der Einwilligung;
+    biometrische Daten nach Art. 11 der schriftlichen Einwilligung — mit weiten Ausnahmen für Strafverfolgung,
+    Verteidigung, Sicherheit und die Durchsetzung von Gerichtsentscheidungen. Genau diese Ausnahmen tragen
+    die russische Gesichtserkennung. Art. 16 verbietet Entscheidungen allein aufgrund automatisierter
+    Verarbeitung, die Rechtsfolgen erzeugen oder anderweitig Rechte berühren, ohne schriftliche Einwilligung,
+    und gibt ein Widerspruchs- und Erläuterungsrecht — dogmatisch nahe an Art. 22 DSGVO, praktisch ohne
+    erkennbare Rechtsprechung. Aufsichtsbehörde ist Roskomnadsor.
+
+    '
+  inkrafttreten:
+    datum: 2007-01-26
+    verifiziert: true
+    quelle: https://www.zakonrf.info/zakon-o-personalnyh-dannyh/25/
+    fundstelle_norm: 'Статья 25 часть 1 des 152-FZ: Inkrafttreten ''по истечении ста восьмидесяти дней
+      после дня его официального опубликования''. Amtliche Veroeffentlichung ''Российская газета'' N 165
+      vom 29.07.2006; SZ RF 31.07.2006 N 31 (Teil 1) Art. 3451. Daraus folgt der 26.01.2007'
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 11: biometrische personenbezogene Daten — schriftliche Einwilligung als Regel, mit Ausnahmen
+    für Strafverfolgung, Verteidigung, Sicherheit und Vollstreckung. Trägt die Rechtmäßigkeit der Moskauer
+    Gesichtserkennung.'
+  - 'Art. 16: Verbot rein automatisierter Entscheidungen ohne schriftliche Einwilligung; Widerspruchs-
+    und Erläuterungsrecht. Russischer Vorläufer des Art. 22 DSGVO, ohne praktische Durchsetzung.'
+  - 'Art. 18.1 Abs. 5 (eingefügt durch 242-FZ): Lokalisierungspflicht für Datenbanken russischer Bürger'
+  - 'Art. 12: grenzüberschreitende Übermittlung, seit 265-FZ verschärft'
+  - 'Art. 6 und 10 in der Fassung des 123-FZ und 233-FZ: Sonderregime für anonymisierte Datenbestände'
+  dokumente:
+  - datum: 2026-07-26
+    typ: konsolidiert
+    titel: Федеральный закон от 27.07.2006 N 152-ФЗ — Редакция от 26.07.2026
+    url: https://normativ.kontur.ru/document?moduleId=1&documentId=507366
+    sprache: ru
+    urheber: Kontur.Normativ
+    verifiziert: false
+    notiz: Aktuellste konsolidierte Fassung; als Suchtreffer identifiziert, nicht abgerufen. Kommerzielle
+      Rechtsdatenbank, keine amtliche Quelle.
+  - datum: 2006-07-27
+    typ: endfassung
+    titel: Федеральный закон от 27.07.2006 г. № 152-ФЗ
+    url: http://www.kremlin.ru/acts/bank/24154
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2026-07-26
+    typ: konsolidiert
+    titel: Федеральный закон от 27.07.2006 N 152-ФЗ, Artikelverzeichnis der geltenden Fassung
+    url: https://www.consultant.ru/document/cons_doc_LAW_61801/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
+      Artikelüberschriften, insbesondere Art. 11 (biometrische Daten), Art. 12 (grenzüberschreitende Übermittlung)
+      und Art. 16 (Rechte bei ausschließlich automatisierter Verarbeitung).
+  offene_punkte:
+  - Art. 16 (automatisierte Einzelentscheidung) ist die naheliegende Anspruchsgrundlage gegen KI-gestützte
+    Verwaltungs- und Plattformentscheidungen. Veröffentlichte Rechtsprechung dazu ließ sich nicht finden
+    — der Mintsifry-Entwurf 2026 wollte deshalb ein eigenes Anfechtungsrecht schaffen; es wurde gestrichen.
+  monitoring_quellen:
+  - https://rkn.gov.ru/
+  - http://publication.pravo.gov.ru/
+  bezug_regelwerke:
+  - ru-242-fz-lokalisierung
+  - ru-265-fz-transfer
+  - ru-420-421-fz
+  - ru-572-fz-biometrie
+  - ru-233-fz-anonymisierung
+  - dsgvo-schnittstelle
+  bedeutung_eu_anbieter: 'Für die Praxis maßgeblicher als das KI-Gesetz. Wer KI-Dienste an russische Nutzer
+    erbringt, verarbeitet deren personenbezogene Daten und unterliegt damit Lokalisierungspflicht, Meldepflichten
+    gegenüber Roskomnadsor und dem seit 2024 drastisch verschärften Sanktionsregime. Der Konflikt mit
+    Kapitel V DSGVO ist nicht auflösbar.
+
+    '
+  quellenlage: 'Grundlagenwissen, durch Suchergebnisse und die Ausführungen zu den Änderungsgesetzen gestützt.
+    Der Volltext wurde nicht abgerufen; Inkrafttreten unverifiziert.
+
+    '
+  letzte_pruefung: *id001
+  pruefvermerk:
+  - 'Bestaetigt, aber berechnet: 180 Tage ab Veroeffentlichung am 29.07.2006 ergeben den 26.01.2007. Der
+    27.07.2006 ist die Unterzeichnung. Das Gesetz gilt fort; geltende Fassung vom 26.07.2026 (Kontur.Normativ),
+    bereits beschlossene Aenderung durch 200-FZ vom 07.07.2025 zum 01.03.2027.'
+- id: ru-242-fz-lokalisierung
+  jurisdiktion: ru
+  kurztitel: Datenlokalisierung (242-FZ)
+  offizieller_titel: Föderationsgesetz über Änderungen einzelner Gesetzgebungsakte der Russischen Föderation
+    hinsichtlich der Präzisierung des Verfahrens der Verarbeitung personenbezogener Daten in Informations-
+    und Telekommunikationsnetzen
+  originaltitel: Федеральный закон «О внесении изменений в отдельные законодательные акты Российской Федерации
+    в части уточнения порядка обработки персональных данных в информационно-телекоммуникационных сетях»
+  transliteration: Federal'nyj zakon «O vnesenii izmenenij v otdel'nye zakonodatel'nye akty Rossijskoj
+    Federacii v časti utočnenija porjadka obrabotki personal'nych dannych v informacionno-telekommunikacionnych
+    setjach»
+  fundstelle: Föderationsgesetz vom 21.07.2014 Nr. 242-FZ
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.09.2015. Fügt Art. 18.1 Abs. 5 in das 152-FZ ein: Erhebung personenbezogener
+    Daten russischer Bürger — einschließlich Aufzeichnung, Systematisierung, Speicherung und Aktualisierung
+    — hat unter Verwendung von Datenbanken zu erfolgen, die sich auf dem Territorium der Russischen Föderation
+    befinden. Durchsetzung über das Register der Verstöße und Zugangssperren durch Roskomnadsor; prominenteste
+    Anwendungsfälle waren LinkedIn (2016) und Meta.
+
+    '
+  kurzbeschreibung: 'Die technische Voraussetzung des ganzen Souveränitätskonzepts. Ohne 242-FZ wäre die
+    Anforderung des 243-FZ, dass souveräne und nationale Modelle in russischen Rechenzentren betrieben
+    werden, ein isolierter Programmsatz; mit ihr ist sie die Fortschreibung einer seit elf Jahren durchgesetzten
+    Grundregel. Für KI-Training bedeutet die Norm: Der Primärdatenbestand muss in Russland liegen. Ein
+    Export russischer Rohdaten zum Training eines europäischen Modells ist nur über den — seit 265-FZ
+    genehmigungspflichtigen — Weg des Art. 12 152-FZ möglich.
+
+    '
+  inkrafttreten:
+    datum: 2015-09-01
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/235427-federalnyy-zakon-ot-21-07-2014-n-242-fz
+    fundstelle_norm: 'Статья 4 des 242-FZ in der Fassung des 526-FZ vom 31.12.2014 — Inkrafttreten 01.09.2015.
+      Kontur.Normativ: ''Дата вступления в силу 01.09.2015 ... Данный документ вступил в силу с 01.09.2015
+      (статья 4)''. Amtliche Veroeffentlichung 22.07.2014 (pravo.gov.ru), ''Российская газета'' N 163
+      vom 23.07.2014'
+  themenachsen:
+  - datenschutz
+  - marktzugang
+  - gpai
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Art. 18.1 Abs. 5 152-FZ: Primärdatenbank russischer Bürger muss in Russland liegen'
+  - Spiegelung ins Ausland ist zulässig, die Primärverarbeitung nicht
+  - Durchsetzung über Register und Zugangssperre, nicht primär über Bußgeld
+  dokumente:
+  - datum: 2014-07-21
+    typ: endfassung
+    titel: Федеральный закон от 21.07.2014 N 242-ФЗ (с изменениями и дополнениями)
+    url: https://base.garant.ru/70700506/
+    sprache: ru
+    urheber: GARANT
+    verifiziert: false
+    notiz: Als Suchtreffer identifiziert, nicht abgerufen. Kommerzielle Rechtsdatenbank, keine amtliche
+      Quelle.
+  - datum: 2015-01-01
+    typ: leitlinie
+    titel: О реализации 242-го федерального закона (о локализации персональных данных на серверных мощностях,
+      расположенных в России)
+    url: https://rkn.gov.ru/news/rsoc/news40624.htm
+    sprache: ru
+    urheber: Roskomnadsor
+    verifiziert: false
+    notiz: Amtliche Auslegungshilfe der Aufsichtsbehörde; als Suchtreffer identifiziert, nicht abgerufen.
+  - datum: 2014-07-22
+    typ: endfassung
+    titel: Федеральный закон от 21.07.2014 № 242-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001201407220042
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2014-07-21
+    typ: endfassung
+    titel: Федеральный закон от 21.07.2014 г. № 242-ФЗ
+    url: http://www.kremlin.ru/acts/bank/38728
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  offene_punkte:
+  - Ob die Lokalisierungspflicht auch für Trainingskorpora gilt, die aus öffentlich zugänglichen Quellen
+    zusammengestellt wurden, ist nicht entschieden.
+  monitoring_quellen:
+  - https://rkn.gov.ru/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-265-fz-transfer
+  - ru-243-fz-ki
+  - ru-90-fz-runet
+  bedeutung_eu_anbieter: Praktisch der Grund, weshalb ein europäischer KI-Dienst russische Nutzer nur
+    über eine russische Infrastruktur bedienen kann — und weshalb er das aus EU-Sicht nicht darf.
+  quellenlage: 'Grundlagenwissen; Fundstellen als Suchtreffer nachgewiesen, nicht abgerufen. Deshalb durchgängig
+    verifiziert: false.'
+  letzte_pruefung: *id001
+  pruefvermerk:
+  - Bestaetigt. Das urspruengliche Inkrafttretensdatum (01.09.2016) wurde durch 526-FZ vom 31.12.2014
+    auf den 01.09.2015 vorgezogen; massgeblich ist die geaenderte Fassung. Die Daten 21.07.2014 / 22.07.2014
+    / 23.07.2014 sind Unterzeichnung und Veroeffentlichung, nicht Inkrafttreten.
+- id: ru-265-fz-transfer
+  jurisdiktion: ru
+  kurztitel: Drittlandtransfer-Novelle 2026 (265-FZ)
+  offizieller_titel: Föderationsgesetz über Änderungen des Artikels 12 des Föderationsgesetzes 'Über personenbezogene
+    Daten' und einzelner Gesetzgebungsakte der Russischen Föderation
+  originaltitel: Федеральный закон «О внесении изменений в статью 12 Федерального закона «О персональных
+    данных» и отдельные законодательные акты Российской Федерации»
+  transliteration: Federal'nyj zakon «O vnesenii izmenenij v stat'ju 12 Federal'nogo zakona 'O personal'nych
+    dannych' i otdel'nye zakonodatel'nye akty Rossijskoj Federacii»
+  fundstelle: Föderationsgesetz vom 26.07.2026 Nr. 265-FZ
+  status: anwendbar
+  status_detail: 'Vom Föderationsrat am 17.07.2026 gebilligt, am 26.07.2026 unterzeichnet — am selben
+    Tag wie das KI-Gesetz und Teil desselben Pakets von elf Gesetzen. Die Novelle beendet die automatische
+    Anerkennung von Staaten als angemessenes Schutzniveau allein aufgrund ihrer Mitgliedschaft in der
+    Datenschutzkonvention des Europarats von 1981 (ETS 108). Roskomnadsor muss künftig zusätzlich prüfen,
+    ob im Zielstaat tatsächlich Maßnahmen zur Einhaltung der Grundprinzipien, der Vertraulichkeit und
+    der Datensicherheit bestehen. Die bisherige Liste umfasst 89 Staaten und kann erheblich schrumpfen.
+    Für nicht gelistete Staaten gilt statt der bloßen Anzeige ein Genehmigungsverfahren mit zehntägiger
+    Wartefrist.
+
+    '
+  kurzbeschreibung: 'Die stillste, aber für europäische Anbieter folgenreichste Änderung des Juli-Pakets
+    2026. Sie verwandelt die Angemessenheitsentscheidung von einem formalen in einen politischen Akt und
+    macht jede Datenübermittlung aus Russland in die EU von einer Einzelfallbewertung durch Roskomnadsor
+    abhängig. In der Sache ist das die Spiegelbildlichkeit zum europäischen Angemessenheitsbeschluss —
+    mit dem Unterschied, dass die Bewertung nicht veröffentlicht und nicht justiziabel ist. Sanktionen
+    bis 3 Mio. RUB, in Straftatbeständen bis zehn Jahre Freiheitsstrafe.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-26
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/507345-federalnyy-zakon-ot-26-07-2026-n-265-fz
+    fundstelle_norm: 'Часть 1 статьи 7 des 265-FZ: Inkrafttreten ''со дня его официального опубликования'',
+      ausgenommen Статья 2. Amtliche Veroeffentlichung publication.pravo.gov.ru am 26.07.2026. Часть 2
+      статьи 7: Статья 2 tritt am 01.09.2027 in Kraft'
+  themenachsen:
+  - datenschutz
+  - marktzugang
+  - sicherheit-export
+  - governance
+  regelungsschwerpunkte:
+  - Wegfall der ETS-108-Mitgliedschaft als selbstständiges Angemessenheitskriterium
+  - Materielle Prüfung der tatsächlichen Schutzpraxis durch Roskomnadsor
+  - Genehmigungsverfahren mit zehntägiger Wartefrist für nicht gelistete Staaten
+  - Sanktionen bis 3 Mio. RUB; strafrechtliche Anknüpfung bis zehn Jahre
+  dokumente:
+  - datum: 2026-07-17
+    typ: bericht
+    titel: Россия ужесточает правила трансграничной передачи персональных данных
+    url: https://www.pnp.ru/social/rossiya-uzhestochaet-pravila-transgranichnoy-peredachi-personalnykh-dannykh.html
+    sprache: ru
+    urheber: Parlamentskaja Gazeta
+    verifiziert: true
+    notiz: Belegt Billigungsdatum, den Wegfall des ETS-108-Kriteriums, die Zahl von 89 gelisteten Staaten
+      und das Genehmigungsverfahren.
+  - datum: 2026-08-03
+    typ: endfassung
+    titel: Федеральный закон от 26 июля 2026 г. N 265-ФЗ
+    url: https://rg.ru/documents/2026/08/03/fz265-dok.html
+    sprache: ru
+    urheber: Rossijskaja Gazeta (amtliches Verkündungsblatt)
+    verifiziert: false
+    notiz: Amtlicher Abdruck; als Suchtreffer identifiziert, nicht abgerufen.
+  - datum: 2026-07-26
+    typ: endfassung
+    titel: Федеральный закон от 26.07.2026 № 265-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202607260024
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: true
+    notiz: Amtliche Erstveröffentlichung, Registriernummer 0001202607260024. Am 05.09.2026 abgerufen;
+      belegt Datum, Nummer und den vollständigen Titel (Änderung des Art. 12 des Gesetzes über personenbezogene
+      Daten und einzelner Gesetzgebungsakte).
+  - datum: 2026-07-26
+    typ: endfassung
+    titel: Федеральный закон от 26.07.2026 г. № 265-ФЗ
+    url: http://www.kremlin.ru/acts/bank/53487
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  offene_punkte:
+  - Ob und wann Roskomnadsor die Liste der 89 Staaten überarbeitet und ob EU-Mitgliedstaaten darauf verbleiben,
+    war zum 03.09.2026 offen. Das ist die praktisch entscheidende Frage.
+  monitoring_quellen:
+  - https://rkn.gov.ru/
+  - http://publication.pravo.gov.ru/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-242-fz-lokalisierung
+  - dsgvo-schnittstelle
+  bedeutung_eu_anbieter: 'Wer Daten aus einer russischen Tochtergesellschaft in die EU zurückführt — für
+    Konzernreporting, für Modelltraining, für Support —, braucht künftig im Zweifel eine Genehmigung von
+    Roskomnadsor. Fällt ein EU-Staat aus der Liste, ist der Datenfluss faktisch zu.
+
+    '
+  quellenlage: 'Inhalt durch die Parlamentskaja Gazeta belegt; Gesetzesnummer und Titel durch mehrere
+    Rechtsdatenbanken im Suchergebnis bestätigt. Inkrafttretensdatum nicht am Primärtext geprüft.
+
+    '
+  letzte_pruefung: *id001
+  anwendungsdaten:
+  - datum: 2027-09-01
+    was_gilt: Статья 2 des 265-FZ (Aenderung des Gesetzes der RF vom 15.04.1993 N 4802-1 ueber den Status
+      der Hauptstadt — Informationssysteme der Moskauer Behoerden); часть 2 статьи 7
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/507345-federalnyy-zakon-ot-26-07-2026-n-265-fz
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war 01.09.2026. Das Gesetz gilt seit dem Tag der amtlichen Veroeffentlichung,
+    dem 26.07.2026 (часть 1 статьи 7) — nur Статья 2 tritt erst am 01.09.2027 in Kraft. Am Kontur.Normativ-Datensatz
+    zur Fassung vom 26.07.2026 geprueft. Der 17.07.2026 (Billigung durch den Foederationsrat) und der
+    26.07.2026 (Unterzeichnung) fallen hier zusammen, weil die Veroeffentlichung am selben Tag erfolgte.
+    Vorher: 2026-09-01.'
+- id: ru-420-421-fz
+  jurisdiktion: ru
+  kurztitel: Umsatzbußgelder und Strafbarkeit für Datenlecks (420-FZ / 421-FZ)
+  offizieller_titel: Föderationsgesetz über Änderungen des Gesetzbuchs der Russischen Föderation über
+    Ordnungswidrigkeiten (420-FZ) und Föderationsgesetz über Änderungen des Strafgesetzbuchs der Russischen
+    Föderation und der Strafprozessordnung (421-FZ)
+  originaltitel: Федеральный закон «О внесении изменений в Кодекс Российской Федерации об административных
+    правонарушениях» / «О внесении изменений в Уголовный кодекс Российской Федерации и Уголовно-процессуальный
+    кодекс Российской Федерации»
+  transliteration: Federal'nyj zakon «O vnesenii izmenenij v Kodeks Rossijskoj Federacii ob administrativnych
+    pravonarušenijach» / «…v Ugolovnyj kodeks…»
+  fundstelle: Föderationsgesetze vom 30.11.2024 Nr. 420-FZ und Nr. 421-FZ
+  status: anwendbar
+  status_detail: 'In Kraft seit 30.05.2025. 420-FZ verschärft Art. 13.11 KoAP RF und führt Umsatzbußgelder
+    für wiederholte Datenlecks ein — bis 3 % des Jahresumsatzes, mindestens 20 Mio. und höchstens 500
+    Mio. RUB. 421-FZ fügt den neuen Art. 272.1 in das Strafgesetzbuch ein: rechtswidrige Nutzung, Übermittlung,
+    Erhebung und Speicherung personenbezogener Daten, im schwersten Fall mit Freiheitsstrafe bis zehn
+    Jahren. Für biometrische Daten gelten gesonderte, höhere Bußgeldrahmen.
+
+    '
+  kurzbeschreibung: 'Der eigentliche Sanktionsapparat des russischen Datenrechts. Er steht in keinem inhaltlichen
+    Zusammenhang mit dem KI-Gesetz und ist doch dessen wichtigste Flankierung: Weil das 243-FZ selbst
+    keine Sanktion kennt, wird KI-Compliance in Russland praktisch als Datenschutz-Compliance ausgetragen.
+    Die Höhe der Bußgelder entspricht der Größenordnung der DSGVO, der Strafrahmen des Art. 272.1 StGB
+    geht darüber hinaus — eine strafrechtliche Sanktionierung von Datenlecks als solcher kennt das Unionsrecht
+    nicht.
+
+    '
+  inkrafttreten:
+    datum: 2024-12-11
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/483291-federalnyy-zakon-ot-30-11-2024-n-421-fz
+    fundstelle_norm: '421-FZ (Strafbarkeit, neuer Art. 272.1 StGB RF): kein eigener Inkrafttretensartikel,
+      daher greift Art. 6 des Foederationsgesetzes vom 14.06.1994 N 5-FZ — zehn Tage nach amtlicher Veroeffentlichung.
+      Veroeffentlichung 30.11.2024, Inkrafttreten 11.12.2024 (Kontur.Normativ: ''Дата вступления в силу
+      11.12.2024'')'
+  themenachsen:
+  - datenschutz
+  - haftung
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 13.11 KoAP: gestufte Bußgelder nach Zahl der betroffenen Datensätze; Umsatzbußgeld bei Wiederholung
+    — bis 3 %, mindestens 20 Mio., höchstens 500 Mio. RUB'
+  - Erhöhte Rahmen für biometrische Daten (bis 15-20 Mio. RUB für juristische Personen bei Leck)
+  - 'Neuer Art. 272.1 StGB RF: Freiheitsstrafe bis zehn Jahre in den Qualifikationsfällen'
+  - Bußgeldminderung bei nachgewiesenen Investitionen in Informationssicherheit
+  dokumente:
+  - datum: 2024-12-02
+    typ: endfassung
+    titel: Опубликован закон об оборотных штрафах для компаний за повторную утечку персональных данных
+    url: https://www.consultant.ru/law/hotdocs/87300.html
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: false
+    notiz: Als Suchtreffer identifiziert, nicht abgerufen. Kommerzielle Rechtsdatenbank, keine amtliche
+      Quelle.
+  - datum: 2024-12-02
+    typ: pressemitteilung
+    titel: Президент РФ ужесточил ответственность за утечку персональных данных
+    url: https://www.garant.ru/news/1770029/
+    sprache: ru
+    urheber: GARANT.RU
+    verifiziert: false
+    notiz: Als Suchtreffer identifiziert, nicht abgerufen. Kommerzielle Rechtsdatenbank, keine amtliche
+      Quelle.
+  - datum: 2024-11-30
+    typ: endfassung
+    titel: Федеральный закон от 30.11.2024 № 420-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202411300011
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: true
+    notiz: Amtliche Erstveröffentlichung, Registriernummer 0001202411300011. Am 05.09.2026 abgerufen;
+      belegt Titel (Änderung des Gesetzbuchs über Ordnungswidrigkeiten), Datum und Nummer.
+  - datum: 2024-11-30
+    typ: endfassung
+    titel: Федеральный закон от 30.11.2024 № 421-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202411300012
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: true
+    notiz: Amtliche Erstveröffentlichung, Registriernummer 0001202411300012. Am 05.09.2026 abgerufen;
+      belegt Titel (Änderung des Strafgesetzbuchs), Datum und Nummer.
+  offene_punkte:
+  - Bußgeldpraxis von Roskomnadsor gegenüber KI-Diensten ließ sich nicht belegen. Bis zum Recherchestand
+    war kein Verfahren gegen einen KI-Anbieter bekannt.
+  monitoring_quellen:
+  - https://rkn.gov.ru/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-572-fz-biometrie
+  - ru-243-fz-ki
+  bedeutung_eu_anbieter: 'Die Zahlen sind DSGVO-nah, der Vollzug ist es nicht: Es gibt keine unabhängige
+    Aufsichtsbehörde und keine gerichtliche Kontrolle nach europäischem Muster.'
+  quellenlage: 'Beide Fundstellen nur als Suchtreffer nachgewiesen; Inhalte aus mehreren übereinstimmenden
+    Fachbeiträgen im Suchergebnis. Deshalb verifiziert: false.'
+  letzte_pruefung: *id001
+  anwendungsdaten:
+  - datum: 2025-05-30
+    was_gilt: '420-FZ (Umsatzbussgelder, Aenderung des Art. 13.11 KoAP RF) — Статья 2 des 420-FZ: ''вступает
+      в силу по истечении ста восьмидесяти дней после дня его официального опубликования''; Veroeffentlichung
+      30.11.2024, Inkrafttreten 30.05.2025'
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/483414-federalnyy-zakon-ot-30-11-2024-n-420-fz
+  pruefvermerk:
+  - 'DATUM KORRIGIERT/AUFGETEILT. Der Eintrag fasst zwei Gesetze zusammen, die an VERSCHIEDENEN Tagen
+    in Kraft getreten sind. Eingetragen war fuer beide der 30.05.2025; das trifft nur auf 420-FZ zu (180
+    Tage nach Veroeffentlichung). 421-FZ hat keine eigene Inkrafttretensvorschrift und ist deshalb nach
+    der Zehntagesregel des 5-FZ bereits am 11.12.2024 in Kraft getreten — die Strafbarkeit nach Art. 272.1
+    StGB RF gilt also fuenfeinhalb Monate laenger als bisher eingetragen. status_detail (''In Kraft seit
+    30.05.2025'') ist zu berichtigen. Erwaegenswert: den Eintrag in zwei Regelwerke aufteilen. Vorher:
+    2025-05-30.'
+- id: ru-572-fz-biometrie
+  jurisdiktion: ru
+  kurztitel: Biometriegesetz (572-FZ)
+  offizieller_titel: Föderationsgesetz über die Durchführung der Identifizierung und (oder) Authentifizierung
+    natürlicher Personen unter Verwendung biometrischer personenbezogener Daten, über Änderungen einzelner
+    Gesetzgebungsakte der Russischen Föderation und über das Außerkrafttreten einzelner Bestimmungen von
+    Gesetzgebungsakten der Russischen Föderation
+  originaltitel: Федеральный закон «Об осуществлении идентификации и (или) аутентификации физических лиц
+    с использованием биометрических персональных данных, о внесении изменений в отдельные законодательные
+    акты Российской Федерации и признании утратившими силу отдельных положений законодательных актов Российской
+    Федерации»
+  transliteration: Federal'nyj zakon «Ob osuščestvlenii identifikacii i (ili) autentifikacii fizičeskich
+    lic s ispol'zovaniem biometričeskich personal'nych dannych…»
+  fundstelle: Föderationsgesetz vom 29.12.2022 Nr. 572-FZ
+  status: anwendbar
+  status_detail: 'Gestaffelt seit 01.06.2023 in Kraft. Grundregel: Identifizierung — also die Feststellung,
+    WER jemand ist — darf ausschließlich über das staatliche Einheitliche Biometrische System (Единая
+    биометрическая система, ЕБС) erfolgen; die Authentifizierung — die Bestätigung einer behaupteten Identität
+    — auch über akkreditierte Systeme privater Organisationen. Private biometrische Datenbanken mussten
+    an die ЕБС übertragen oder gelöscht werden. Nötigung zur Abgabe von Biometrie ist verboten, ebenso
+    die Verweigerung einer Leistung wegen verweigerter Biometrie, soweit nicht ein Bundesgesetz etwas
+    anderes bestimmt.
+
+    '
+  kurzbeschreibung: 'Zentralisierung der Biometrie im Staat. Das Gesetz verstaatlicht die Identifizierungsfunktion
+    und macht die ЕБС zur alleinigen Infrastruktur; private Gesichtserkennung ist damit auf Authentifizierungsszenarien
+    beschränkt. Verarbeitung setzt grundsätzlich die schriftliche Einwilligung nach Art. 11 152-FZ voraus.
+    Verstöße: 300.000 bis 700.000 RUB für juristische Personen bei Verarbeitung ohne Einwilligung, 15
+    bis 20 Mio. RUB bei einem Leck biometrischer Daten. Erfasst ist jeder Einsatz, bei dem Technik Personen
+    wiedererkennt — Zutrittskontrolle, Zeiterfassung, Sprachbots, mobile Anwendungen.
+
+    '
+  inkrafttreten:
+    datum: 2023-06-01
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/494836-federalnyy-zakon-ot-29-12-2022-n-572-fz
+    fundstelle_norm: 'Статья 27 des 572-FZ (gestaffeltes Inkrafttreten). Hauptteil am 01.06.2023 — Kontur.Normativ
+      weist saemtliche Aenderungen anderer Gesetze durch dieses Gesetz mit ''(с 01.06.2023)'' aus; Пункт
+      4 статьи 27: Части 5-7, пункты 1-3 и 9 части 8, части 9-12, 15-17 статьи 5 treten erst am 01.01.2027
+      in Kraft. Amtliche Veroeffentlichung publication.pravo.gov.ru am 29.12.2022'
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - 'Trennung Identifizierung / Authentifizierung: Identifizierung ausschließlich über die staatliche
+    ЕБС'
+  - Überführungspflicht privater biometrischer Bestände in die ЕБС
+  - Verbot der Nötigung zur Biometrieabgabe und der Leistungsverweigerung — mit Bundesgesetzvorbehalt,
+    der die staatlichen Systeme ausnimmt
+  - 'Sanktionen: 300-700 Tsd. RUB (Verarbeitung ohne Einwilligung), 15-20 Mio. RUB (Leck)'
+  dokumente:
+  - datum: 2022-12-29
+    typ: endfassung
+    titel: Федеральный закон от 29.12.2022 г. № 572-ФЗ
+    url: http://kremlin.ru/acts/bank/48740
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle; robots.txt verhinderte den Abruf aus dieser Umgebung.
+  - datum: 2025-06-01
+    typ: uebersicht
+    titel: '572-ФЗ о биометрии простыми словами: ЕБС, запреты, штрафы'
+    url: https://www.credos.ru/articles-info/572-fz-biometriya/
+    sprache: ru
+    urheber: Credos
+    verifiziert: true
+    notiz: Praxisdarstellung; Grundlage für Sanktionshöhen und Anwendungsbereich.
+  offene_punkte:
+  - 'Verhältnis zu den Ausnahmen des Art. 11 152-FZ für Strafverfolgung und Sicherheit: Das Moskauer Kamerasystem
+    operiert außerhalb der ЕБС-Logik, ohne dass das Gesetz das ausdrücklich regelt.'
+  monitoring_quellen:
+  - https://rkn.gov.ru/
+  - https://digital.gov.ru/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-420-421-fz
+  - ru-gesichtserkennung-moskau
+  - ki-vo-2024-1689
+  bedeutung_eu_anbieter: 'Ein europäischer Anbieter von Gesichtserkennung oder Stimmbiometrie kann in
+    Russland faktisch nur Authentifizierungsprodukte anbieten und muss sein System akkreditieren lassen.
+    Die Identifizierungsfunktion ist staatsmonopolisiert. Das ist strenger als die KI-VO, die private
+    biometrische Identifizierung als Hochrisiko einstuft, aber nicht verstaatlicht.
+
+    '
+  quellenlage: 'Amtliche Fundstelle nachgewiesen, aber nicht abrufbar. Inhalt aus einer fachlichen Sekundärquelle,
+    konsistent mit weiteren Suchergebnissen.
+
+    '
+  letzte_pruefung: 2026-09-03
+  anwendungsdaten:
+  - datum: 2027-01-01
+    was_gilt: Art. 5 Teile 5-7, Nr. 1-3 und 9 des Teils 8, Teile 9-12 und 15-17 — die noch ausstehende
+      letzte Stufe der Pflichten akkreditierter privater biometrischer Systeme; Пункт 4 статьи 27
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/494836-federalnyy-zakon-ot-29-12-2022-n-572-fz
+  pruefvermerk:
+  - Bestaetigt. Der 29.12.2022 ist Unterzeichnung und Veroeffentlichung, nicht Inkrafttreten. Das eingetragene
+    Datum 01.06.2023 ist der Hauptteil; die noch offene Stufe zum 01.01.2027 ist ergaenzt.
+- id: ru-gesichtserkennung-moskau
+  jurisdiktion: ru
+  subjurisdiktion: ru-msk
+  kurztitel: Gesichtserkennung im Moskauer Kamerasystem
+  offizieller_titel: Einheitliches Zentrum für Datenspeicherung und -verarbeitung (ЕЦХД) der Stadt Moskau
+    mit Gesichtserkennungsmodul; Rechtsgrundlage aus Art. 11 152-FZ, 123-FZ und Regierungsverordnung Nr.
+    1641 vom 08.10.2020 (Verkehrssicherheit)
+  originaltitel: Единый центр хранения и обработки данных города Москвы (ЕЦХД); система распознавания
+    лиц «Сфера»
+  transliteration: Edinyj centr chranenija i obrabotki dannych goroda Moskvy (ECChD); sistema raspoznavanija
+    lic «Sfera»
+  fundstelle: kein eigenes Gesetz — Zusammenspiel aus Art. 11 Abs. 2 152-FZ (Ausnahmen für Strafverfolgung,
+    Verteidigung, Sicherheit), 123-FZ und untergesetzlichem Recht der Stadt Moskau
+  status: anwendbar
+  status_detail: 'Rechtlich der auffälligste Befund dieses Bestands: Das flächendeckendste biometrische
+    Überwachungssystem Europas beruht auf keiner eigenen gesetzlichen Grundlage. Die Gerichte tragen es
+    über die Ausnahmetatbestände des Art. 11 152-FZ, über Transportsicherheitsvorschriften (Regierungsverordnung
+    Nr. 1641 vom 08.10.2020) und über eine Auslegung des Obersten Gerichts, wonach für Maßnahmen zum Schutz
+    der Rechtsordnung und der Staatssicherheit keine Einwilligung erforderlich sei. Alle bekannten Klagen
+    gegen das System sind gescheitert — zuletzt vor dem Moskauer Stadtgericht im Verfahren 33а-0710/2025
+    zu den Kameras in der Metro. Der einzige gegenteilige Spruch stammt vom EGMR (Glukhin, 04.07.2023)
+    und wird nicht vollzogen; Russland ist seit dem 16.09.2022 nicht mehr Vertragspartei der EMRK.
+
+    '
+  kurzbeschreibung: 'Das Moskauer System verbindet über 200.000 Kameras mit einem zentralen Speicher-
+    und Analysezentrum und einem Gesichtserkennungsmodul. Es wird für Strafverfolgung, Ordnungswidrigkeitenfeststellung,
+    Fahndung und — dokumentiert im Verfahren Glukhin — für die Identifizierung von Teilnehmern politischer
+    Kundgebungen eingesetzt. Rechtsschutz gegen die Erfassung ist praktisch nicht zu erlangen: Klagen
+    scheitern an der Beweislast (Popowa 2019/2020), an den Ausnahmetatbeständen des Art. 11 152-FZ und
+    am Sicherheitsvorbehalt. Der bekannteste Missbrauchsfall — zwei Moskauer Polizisten verkauften 2020
+    Daten aus dem System an eine Privatperson — endete mit Geldstrafen von 10.000 und 20.000 RUB.
+
+    '
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 11 Abs. 2 152-FZ: Verarbeitung biometrischer Daten ohne Einwilligung, soweit gesetzlich für
+    Strafverfolgung, Verteidigung, Sicherheit und Vollstreckung vorgesehen'
+  - 'Regierungsverordnung Nr. 1641 vom 08.10.2020: Anforderungen an den Schutz von Verkehrsinfrastruktur,
+    tragende Grundlage für die Metro-Kameras'
+  - '123-FZ: Sonderregime für die Bildung regionaler Datenbestände in Moskau'
+  - Kein Verbot biometrischer Fernidentifizierung — Gegenmodell zu Art. 5 Abs. 1 lit. h KI-VO
+  - Kein Register, keine Folgenabschätzung, keine unabhängige Aufsicht über den Einsatz
+  dokumente:
+  - datum: 2025-08-04
+    typ: bericht
+    titel: Суд признал камеры с распознаванием лиц в метро законными — согласия граждан не нужно
+    url: https://vc.ru/legal/2136959-sud-priznal-zakonnost-kamer-s-raspoznavaniem-lits-v-metro
+    sprache: ru
+    urheber: vc.ru
+    verifiziert: true
+    notiz: Referiert das Verfahren 33а-0710/2025 des Moskauer Stadtgerichts und die drei tragenden Begründungsstränge.
+  - datum: 2019-11-06
+    typ: bericht
+    titel: Суд не признал систему распознавания лиц незаконной. Комментарий РосКомСвободы
+    url: https://roskomsvoboda.org/51831/
+    sprache: ru
+    urheber: RosKomSvoboda
+    verifiziert: true
+    notiz: Erstes Verfahren (Popowa, Sawjolowski-Bezirksgericht); dokumentiert die 32-fache Vergrößerung
+      des Gesichts in der Aufzeichnung und die Beweislastproblematik.
+  - datum: 2022-05-01
+    typ: bericht
+    titel: Торговавшие данными из системы распознавания лиц полицейские снова предстанут перед судом
+    url: https://roskomsvoboda.org/ru/post/mgs-raspoznavanie-nov-rassm/
+    sprache: ru
+    urheber: RosKomSvoboda
+    verifiziert: true
+    notiz: Dokumentiert den Datenhandel aus dem System und die geringen Sanktionen; Grundlage der Moratoriumsforderung.
+  offene_punkte:
+  - Eine gesetzliche Grundlage für die Gesichtserkennung im öffentlichen Raum als solche fehlt. Weder
+    der Märzentwurf noch das 243-FZ schaffen sie — der Märzentwurf hätte den Bereich ausdrücklich ausgenommen.
+  - Die Zahl der Kameras und der Umfang der biometrischen Datenbank sind nicht amtlich veröffentlicht.
+  monitoring_quellen:
+  - https://roskomsvoboda.org/
+  - https://bancam.ru/
+  - https://www.mos.ru/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-572-fz-biometrie
+  - ru-123-fz-moskau
+  - ki-vo-2024-1689
+  bedeutung_eu_anbieter: 'Für die rechtsvergleichende Arbeit der schärfste Kontrastpunkt: Was Art. 5 Abs.
+    1 lit. h KI-VO als verbotene Praxis einstuft, ist in Russland gerichtlich abgesegnete Verwaltungsroutine
+    — und zwar ohne dass ein KI-Gesetz sie legitimieren müsste, weil das allgemeine Datenschutzrecht die
+    Ausnahme bereits enthält.
+
+    '
+  quellenlage: 'Kein einheitlicher Rechtsakt; die Rekonstruktion beruht auf Gerichtsentscheidungen und
+    NGO-Dokumentation. Die Verordnung Nr. 1641/2020 wurde nicht im Original geprüft, sondern der Wiedergabe
+    in der Urteilsbesprechung entnommen.
+
+    '
+  letzte_pruefung: 2026-09-03
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/507366-federalnyy-zakon-ot-27-07-2006-n-152-fz
+    fundstelle_norm: Kein eigenes Regelwerk und damit kein eigenes Inkrafttreten. Die Praxis stuetzt sich
+      auf Art. 11 Abs. 2 des 152-FZ (in Kraft seit 26.01.2007), auf das 123-FZ (in Kraft seit 01.07.2020)
+      und auf untergesetzliches Moskauer Recht sowie die Regierungsverordnung Nr. 1641 vom 08.10.2020
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten bleibt null. Es gibt keine Rechtsnorm, deren Inkrafttreten eingetragen
+    werden koennte — das ist gerade der Befund des Eintrags. Die Traegernormen haben eigene Eintraege
+    mit eigenen Daten.'
+- id: ru-149-fz
+  jurisdiktion: ru
+  kurztitel: Informationsgesetz (149-FZ)
+  offizieller_titel: Föderationsgesetz über Information, Informationstechnologien und den Schutz von Information
+  originaltitel: Федеральный закон «Об информации, информационных технологиях и о защите информации»
+  transliteration: Federal'nyj zakon «Ob informacii, informacionnych technologijach i o zaščite informacii»
+  fundstelle: Föderationsgesetz vom 27.07.2006 Nr. 149-FZ; geltende Fassung mit Änderungen bis zum Föderationsgesetz
+    vom 26.06.2026 Nr. 210-FZ
+  status: anwendbar
+  status_detail: 'In Kraft seit 08.08.2006, seither vielfach geändert. Das Gesetz enthält keine KI-spezifische
+    Norm, ist aber die Trägerschicht des gesamten russischen Plattform- und Sperrrechts: Art. 10.1 zieht
+    Dienste mit Kommunikationsfunktion in das Vorratsdatenregime, Art. 10.2-2 begründet seit 2023 Transparenzpflichten
+    für Empfehlungstechnologien, Art. 15.3 trägt die außerjustizielle Sperre. Über diese Normen — nicht
+    über das KI-Gesetz — wird der Marktzugang ausländischer KI-Dienste in Russland tatsächlich gesteuert.
+
+    '
+  kurzbeschreibung: 'Das allgemeine Informationsgesetz Russlands. Für die KI-Regulierung ist es aus drei
+    Gründen zentral: Es liefert die Begriffe, auf denen alle späteren Spezialgesetze aufsetzen; es enthält
+    mit Art. 10.2-2 die einzige allgemein geltende Transparenzpflicht für algorithmische Systeme im russischen
+    Recht; und es stellt mit Art. 15.1 bis 15.9 den Sperrapparat bereit, mit dem ein ausländischer KI-Dienst
+    ohne jede Änderung des KI-Rechts unerreichbar gemacht werden kann. Das 90-FZ (souveränes Internet)
+    ist eine Novelle dieses Gesetzes und des Kommunikationsgesetzes.
+
+    '
+  inkrafttreten:
+    datum: 2006-08-09
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/501188-federalnyy-zakon-ot-27-07-2006-n-149-fz
+    fundstelle_norm: Статья 19 des 149-FZ (Вступление в силу) — zehn Tage nach der amtlichen Veroeffentlichung;
+      Veroeffentlichung 'Российская газета' N 165 vom 29.07.2006 (SZ RF 31.07.2006 N 31 Teil 1 Art. 3448).
+      Kontur.Normativ datiert die durch dieses Gesetz bewirkten Aufhebungen und Aenderungen auf '(с 09.08.2006)';
+      WIPO Lex nennt als 'Дата вступления в силу' den 09.08.2006
+  themenachsen:
+  - content
+  - governance
+  - marktzugang
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Art. 2: Legaldefinitionen des Informationsrechts — Grundlage aller späteren Plattformpflichten'
+  - 'Art. 10.1: Pflichten des Organisators der Informationsverbreitung — Registrierung, Vorratsspeicherung
+    im Inland, Herausgabe an die Sicherheitsbehörden'
+  - 'Art. 10.2-2: Transparenzpflichten beim Einsatz von Empfehlungstechnologien (seit 01.10.2023)'
+  - 'Art. 15.1 bis 15.9: Sperrregister und Verfahren der Zugangsbeschränkung'
+  - 'Art. 15.3: außerjustizielle Sperranordnung der Generalstaatsanwaltschaft über Roskomnadsor'
+  - 'Art. 17: Verantwortlichkeit einschließlich der Freistellung des Informationsvermittlers'
+  dokumente:
+  - datum: 2006-07-27
+    typ: endfassung
+    titel: Федеральный закон от 27.07.2006 г. № 149-ФЗ
+    url: http://www.kremlin.ru/acts/bank/24157
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2006-07-27
+    typ: endfassung
+    titel: Федеральный закон от 27.07.2006 г. № 149-ФЗ
+    url: http://government.ru/docs/all/98199/
+    sprache: ru
+    urheber: Regierung der Russischen Föderation (government.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2026-06-26
+    typ: konsolidiert
+    titel: Федеральный закон от 27.07.2006 N 149-ФЗ, Artikelverzeichnis der geltenden Fassung
+    url: https://www.consultant.ru/document/cons_doc_LAW_61798/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
+      Artikelüberschriften der geltenden Fassung, darunter Art. 10.2-2 zu den Empfehlungstechnologien,
+      und die letzte Änderung durch das Föderationsgesetz vom 26.06.2026 Nr. 210-FZ.
+  offene_punkte:
+  - Ob ein generativer KI-Dienst mit Dialogfunktion als Organisator der Informationsverbreitung im Sinne
+    des Art. 10.1 gilt, ist nicht entschieden. Die Einordnung hätte Vorratsspeicherpflichten und Herausgabepflichten
+    gegenüber dem FSB zur Folge.
+  - Das Verhältnis des Art. 10.2-2 (Empfehlungstechnologien) zu Art. 9 des 243-FZ (Kennzeichnung) ist
+    ungeklärt; beide Normen adressieren dieselben Plattformen mit unterschiedlichen Schwellen.
+  monitoring_quellen:
+  - http://publication.pravo.gov.ru/
+  - https://rkn.gov.ru/
+  bezug_regelwerke:
+  - ru-90-fz-runet
+  - ru-243-fz-ki
+  - ru-152-fz
+  - ru-41-fz-antifraud
+  bedeutung_eu_anbieter: 'Der praktisch wirksame Hebel gegen einen europäischen KI-Anbieter liegt nicht
+    im KI-Gesetz, sondern hier: Art. 15.3 erlaubt die Sperre ohne Gerichtsentscheidung, Art. 10.1 begründet
+    Speicher- und Herausgabepflichten, die mit Art. 48 DSGVO kollidieren.'
+  quellenlage: Artikelüberschriften und Änderungsstand aus KonsultantPljus abgerufen; die amtlichen Fundstellen
+    bei kremlin.ru und government.ru sind identifiziert, aus dieser Umgebung aber nicht abrufbar.
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'DATUM KORRIGIERT (ein Tag). Eingetragen war 08.08.2006. Zwei unabhaengige Quellen — Kontur.Normativ
+    (Wirkdatum der Aufhebungen und Aenderungen) und WIPO Lex — nennen den 09.08.2006. Die Zehntagesfrist
+    laeuft ab dem Tag nach der Veroeffentlichung (30.07.2006) und endet am 08.08.2006; das Gesetz tritt
+    am Folgetag in Kraft. Das Gesetz gilt fort; bereits beschlossene Aenderungen zum 01.01.2026 (41-FZ)
+    und 01.03.2026 (224-FZ, 324-FZ). Vorher: 2006-08-08.'
+- id: ru-90-fz-runet
+  jurisdiktion: ru
+  kurztitel: Souveränes Internet (90-FZ)
+  offizieller_titel: Föderationsgesetz über Änderungen des Föderationsgesetzes 'Über die Kommunikation'
+    und des Föderationsgesetzes 'Über Information, Informationstechnologien und den Schutz von Information'
+  originaltitel: Федеральный закон «О внесении изменений в Федеральный закон «О связи» и Федеральный закон
+    «Об информации, информационных технологиях и о защите информации»
+  transliteration: Federal'nyj zakon «O vnesenii izmenenij v Federal'nyj zakon 'O svjazi' i Federal'nyj
+    zakon 'Ob informacii, informacionnych technologijach i o zaščite informacii'»
+  fundstelle: Föderationsgesetz vom 01.05.2019 Nr. 90-FZ
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.11.2019. Verpflichtet Netzbetreiber zum Einbau technischer Mittel zur
+    Abwehr von Bedrohungen (ТСПУ) und ermächtigt Roskomnadsor zur zentralisierten Verkehrssteuerung. Zum
+    01.03.2026 traten weitere Verschärfungen in Kraft. Das ist die technische Grundlage, über die eine
+    Sperre ausländischer KI-Dienste vollzogen würde — sie bedarf keiner Änderung des KI-Rechts.
+
+    '
+  kurzbeschreibung: 'Gibt Roskomnadsor die Fähigkeit, den Datenverkehr auf Netzebene zu filtern und einzelne
+    Dienste ohne Mitwirkung der Betreiber unerreichbar zu machen. Für die KI-Regulierung ist das der stille
+    Hebel: Der Märzentwurf 2026 hätte ein ausdrückliches Verbot grenzüberschreitender KI-Dienste geschaffen;
+    dieses wurde gestrichen — die technische und rechtliche Fähigkeit zur Sperre besteht über 90-FZ ohnehin.
+    Berichte über eine drohende Unerreichbarkeit von ChatGPT, Claude und Gemini in Russland stützen sich
+    der Sache nach auf diesen Mechanismus, nicht auf das KI-Gesetz.
+
+    '
+  inkrafttreten:
+    datum: 2019-11-01
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/334782-federalnyy-zakon-ot-01-05-2019-n-90-fz
+    fundstelle_norm: 'Статья 3 пункт 1 des 90-FZ: ''Настоящий Федеральный закон вступает в силу с 1 ноября
+      2019 года, за исключением подпункта "б" пункта 3 статьи 2 настоящего Федерального закона.'' Amtliche
+      Veroeffentlichung pravo.gov.ru am 01.05.2019'
+  themenachsen:
+  - marktzugang
+  - governance
+  - grundrechte
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - Pflicht zum Einbau technischer Mittel zur Bedrohungsabwehr (ТСПУ) bei allen Netzbetreibern
+  - Zentralisierte Verkehrssteuerung durch Roskomnadsor im Bedrohungsfall
+  - Nationales Domainnamensystem
+  - Verschärfungen zum 01.03.2026
+  dokumente:
+  - datum: 2026-01-15
+    typ: uebersicht
+    titel: 'Суверенный интернет: что меняется с 1 марта 2026 года и как это затронет пользователей'
+    url: https://habr.com/ru/articles/1006424/
+    sprache: ru
+    urheber: Habr
+    verifiziert: false
+    notiz: Als Suchtreffer identifiziert, nicht abgerufen.
+  - datum: 2019-05-01
+    typ: endfassung
+    titel: Федеральный закон от 01.05.2019 № 90-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001201905010025
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2019-05-01
+    typ: endfassung
+    titel: Федеральный закон от 01.05.2019 г. № 90-ФЗ
+    url: http://www.kremlin.ru/acts/bank/44230
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  offene_punkte:
+  - Ob ausländische KI-Dienste tatsächlich gesperrt werden, war zum 03.09.2026 offen. Die Presseberichterstattung
+    im Sommer 2026 (bfm.ru, hi-tech.mail.ru) bezieht sich auf den gestrichenen Märzentwurf und ist insoweit
+    überholt.
+  monitoring_quellen:
+  - https://rkn.gov.ru/
+  bezug_regelwerke:
+  - ru-mintsifry-entwurf-2026
+  - ru-243-fz-ki
+  - ru-242-fz-lokalisierung
+  bedeutung_eu_anbieter: Der Marktzugang hängt nicht am KI-Recht, sondern an einer netzpolitischen Ermessensentscheidung,
+    gegen die es keinen effektiven Rechtsschutz gibt.
+  quellenlage: 'Grundlagenwissen; keine Quelle dieser Sitzung abgerufen. Durchgängig verifiziert: false.'
+  letzte_pruefung: *id001
+  anwendungsdaten:
+  - datum: 2021-01-01
+    was_gilt: Art. 2 Nr. 3 Buchst. b (neuer Teil 2.3 des Art. 13 des 149-FZ — Pflicht zur Verwendung nationaler
+      Kryptostandards); Статья 3 пункт 2. Ausserdem gelten nach Статья 3 пункт 3 die Vorschriften des
+      Art. 56.2 Abs. 8 Nr. 3 des 126-FZ zur Nutzung des nationalen Domainnamensystems ab dem 01.01.2021
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/334782-federalnyy-zakon-ot-01-05-2019-n-90-fz
+  pruefvermerk:
+  - 'Bestaetigt am Volltext des Art. 3. Der 01.05.2019 ist Unterzeichnung und Veroeffentlichung. Hinweis:
+    Die im status_detail genannten ''weiteren Verschaerfungen zum 01.03.2026'' stammen nicht aus dem 90-FZ,
+    sondern aus spaeteren Gesetzen (224-FZ vom 08.08.2024 und 324-FZ vom 31.07.2025, beide mit Wirkung
+    zum 01.03.2026 auf das 149-FZ).'
+- id: ru-41-fz-antifraud
+  jurisdiktion: ru
+  kurztitel: Anti-Betrugs-Informationssystem (41-FZ)
+  offizieller_titel: Föderationsgesetz über die Schaffung eines staatlichen Informationssystems zur Bekämpfung
+    von Rechtsverletzungen, die unter Verwendung von Informations- und Kommunikationstechnologien begangen
+    werden, und über Änderungen einzelner Gesetzgebungsakte der Russischen Föderation
+  originaltitel: Федеральный закон «О создании государственной информационной системы противодействия
+    правонарушениям, совершаемым с использованием информационных и коммуникационных технологий, и о внесении
+    изменений в отдельные законодательные акты Российской Федерации»
+  transliteration: Federal'nyj zakon «O sozdanii gosudarstvennoj informacionnoj sistemy protivodejstvija
+    pravonarušenijam, soveršaemym s ispol'zovaniem informacionnych i kommunikacionnych technologij…»
+  fundstelle: Föderationsgesetz vom 01.04.2025 Nr. 41-FZ
+  status: anwendbar
+  status_detail: 'Gestaffelt seit dem 01.06.2025 in Kraft. Schafft ein staatliches Informationssystem
+    gegen Telefon- und Internetbetrug, verpflichtet Banken, Telekommunikationsanbieter und Plattformen
+    zum Informationsaustausch und führt Kennzeichnungs- und Warnpflichten bei Anrufen ein. Für KI relevant,
+    weil Stimm-Deepfakes das derzeit häufigste Betrugswerkzeug in Russland sind — das Innenministerium
+    meldete im Mai 2026 die Nachbildung von Stimmen von Beamten des Ermittlungskomitees und des Innenministeriums.
+
+    '
+  kurzbeschreibung: 'Kein KI-Gesetz, aber die derzeit wirksamste Antwort des russischen Rechts auf KI-gestützte
+    Kriminalität. Statt den Deepfake zu verbieten, greift das Gesetz am Übertragungsweg an: Anrufe von
+    juristischen Personen müssen gekennzeichnet werden, verdächtige Transaktionen werden systemisch abgeglichen,
+    Nummern gesperrt. Das ist Infrastrukturregulierung statt Inhaltsregulierung — und entspricht dem Muster,
+    das auch das KI-Gesetz prägt.
+
+    '
+  inkrafttreten:
+    datum: 2025-06-01
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
+    fundstelle_norm: 'Пункт 1 статьи 16 des 41-FZ: Inkrafttreten am 01.06.2025, ausgenommen die Vorschriften,
+      fuer die andere Fristen bestimmt sind. Amtliche Veroeffentlichung pravo.gov.ru am 01.04.2025'
+  themenachsen:
+  - content
+  - sektor-finanz
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - Staatliches Informationssystem mit Meldepflichten für Banken, Telekommunikationsanbieter und Plattformen
+  - Kennzeichnungspflicht für Anrufe juristischer Personen
+  - Sperrbefugnisse für Nummern und Konten
+  dokumente:
+  - datum: 2025-04-01
+    typ: endfassung
+    titel: Федеральный закон от 01.04.2025 N 41-ФЗ (с изменениями)
+    url: https://base.garant.ru/411783215/
+    sprache: ru
+    urheber: GARANT
+    verifiziert: false
+    notiz: Als Suchtreffer identifiziert, nicht abgerufen. Kommerzielle Rechtsdatenbank, keine amtliche
+      Quelle.
+  - datum: 2025-04-01
+    typ: endfassung
+    titel: Федеральный закон от 01.04.2025 № 41-ФЗ — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202504010010
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (publication.pravo.gov.ru)
+    verifiziert: true
+    notiz: Amtliche Erstveröffentlichung, Registriernummer 0001202504010010. Am 05.09.2026 abgerufen;
+      belegt den vollständigen Titel, Datum und Nummer.
+  - datum: 2025-04-01
+    typ: endfassung
+    titel: Федеральный закон от 01.04.2025 г. № 41-ФЗ
+    url: http://government.ru/docs/all/158369/
+    sprache: ru
+    urheber: Regierung der Russischen Föderation (government.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  offene_punkte:
+  - Ob das System Deepfake-Erkennung einsetzt, ist nicht veröffentlicht.
+  monitoring_quellen:
+  - https://mvd.gov.ru/
+  - https://cbr.ru/
+  bezug_regelwerke:
+  - ru-1288702-8-deepfake-stgb
+  - ru-718834-8-stimme
+  quellenlage: Fundstelle als Suchtreffer nachgewiesen; Inhalt aus mehreren übereinstimmenden Fachbeiträgen
+    im Suchergebnis.
+  letzte_pruefung: *id001
+  anwendungsdaten:
+  - datum: 2025-08-01
+    was_gilt: Art. 9 Nr. 2; Пункт 2 статьи 16
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
+  - datum: 2025-09-01
+    was_gilt: Art. 2 Nr. 1-3, Nr. 4 Buchst. a und g-o, Nr. 5; Art. 3 Nr. 2; Art. 4-6; Art. 9 Nr. 1, 3,
+      4, Nr. 5 Buchst. a und b, Nr. 6 und 7; Art. 13 und 14 — darunter die Aenderungen des Verbraucherschutzgesetzes
+      und des Gesetzes ueber operative Ermittlungstaetigkeit; Пункт 3 статьи 16
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
+  - datum: 2026-01-01
+    was_gilt: Art. 11 Nr. 1 Buchst. a (Aenderung des 149-FZ); Пункт 4 статьи 16
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
+  - datum: 2026-03-01
+    was_gilt: Art. 1, Art. 2 Nr. 4 Buchst. v, Art. 3 Nr. 1, Art. 7, Art. 8 Nr. 1, Art. 9 Nr. 5 Buchst.
+      g, Art. 10 Nr. 2, Art. 11 Nr. 1 Buchst. v und Nr. 2-4, Art. 12, Art. 15 Teil 2 — darunter die Errichtung
+      des staatlichen Informationssystems selbst; Пункт 5 статьи 16
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
+  pruefvermerk:
+  - Bestaetigt. Das eingetragene Datum ist die erste Stufe; das Gesetz ist fuenffach gestaffelt (01.06.2025,
+    01.08.2025, 01.09.2025, 01.01.2026, 01.03.2026). Alle Stufen sind jetzt erfasst. Der 01.04.2025 ist
+    Unterzeichnung und Veroeffentlichung.
+- id: ru-gk-teil-4
+  jurisdiktion: ru
+  kurztitel: Zivilgesetzbuch Teil IV (Immaterialgüterrecht)
+  offizieller_titel: Zivilgesetzbuch der Russischen Föderation (Teil vier)
+  originaltitel: Гражданский кодекс Российской Федерации (часть четвёртая)
+  transliteration: Graždanskij kodeks Rossijskoj Federacii (čast' četvjortaja)
+  fundstelle: Föderationsgesetz vom 18.12.2006 Nr. 230-FZ, Abschnitt VII, Art. 1225-1551
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.01.2008, geltende Fassung mit Änderungen bis 04.01.2026. Enthält keine
+    KI-spezifische Norm. Die gesamte russische Rechtsprechung zu KI-Erzeugnissen wird über drei allgemeine
+    Vorschriften ausgetragen: Art. 1228 (Urheber ist der Bürger, dessen schöpferische Arbeit das Ergebnis
+    hervorgebracht hat), Art. 1257 (Urhebervermutung zugunsten des Benannten) und Art. 1259 (Schutzgegenstand;
+    kein Schutz für Ideen und Konzepte). Für Persönlichkeitsrechte gelten Art. 152 (Ehre und Ruf), Art.
+    152.1 (Bildnisschutz) und Art. 152.2 (Privatsphäre) aus Teil I. Art. 10 Abs. 2 des 243-FZ schafft
+    seit 2026 eine Trainingsschranke außerhalb des Kodex — dogmatisch ein Fremdkörper.
+
+    '
+  kurzbeschreibung: 'Der russische Werkbegriff ist personal: Urheber kann nur ein Mensch sein. Die Gerichte
+    haben daraus zwei gegenläufige Linien entwickelt. Die eine — Arbitragegerichte, Verfahren um Verletzungsansprüche
+    — behandelt die Behauptung, ein Bild sei von einer KI erzeugt, als bloßes Bestreiten, das die Urhebervermutung
+    des Art. 1257 nicht erschüttert, und stützt den Schutz auf Metadaten, Projektdateien und Arbeitsverträge.
+    Die andere — Bezirksgerichte, Verfahren des behaupteten Urhebers auf Kompensation — verlangt den positiven
+    Nachweis eines persönlichen schöpferischen Beitrags und wertet Prompt-Eingaben als rein technische
+    Handlung. Die Divergenz ist nicht aufgelöst; der Oberste Gerichtshof bereitet seit Mai 2026 eine Übersicht
+    vor.
+
+    '
+  inkrafttreten:
+    datum: 2008-01-01
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/451296-federalnyy-zakon-ot-18-12-2006-n-231-fz
+    fundstelle_norm: 'Статья 1 des Einfuehrungsgesetzes (Foederationsgesetz vom 18.12.2006 N 231-FZ):
+      ''Ввести в действие часть четвертую Гражданского кодекса Российской Федерации (далее - часть четвертая
+      Кодекса) с 1 января 2008 года.'''
+  themenachsen:
+  - urheberrecht
+  - grundrechte
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Art. 1228: Urheber ist der Bürger, durch dessen schöpferische Arbeit das Ergebnis geschaffen wurde
+    — kein Raum für maschinelle Urheberschaft'
+  - 'Art. 1257: Urhebervermutung; in den Arbitragegerichten der entscheidende Hebel zugunsten des Klägers'
+  - 'Art. 1259 Abs. 5: kein Schutz für Ideen, Konzepte, Methoden — Grundlage der Presnenski-Entscheidung
+    von 2025'
+  - 'Art. 1260: Bearbeitungen und Sammelwerke — Grundlage der Deepfake-Entscheidung von 2023'
+  - 'Art. 1270: Verwertungsrechte einschließlich Bearbeitung'
+  - 'Art. 1315 Abs. 4: Recht des ausübenden Künstlers auf Unversehrtheit der Darbietung — einzige Handhabe
+    gegen Stimmsynthese aus eigenen Aufnahmen'
+  - 'Art. 152.1 (Teil I): Bildnisschutz — Grundlage für Ansprüche gegen Deepfakes realer Personen'
+  dokumente:
+  - datum: 2026-09-05
+    typ: konsolidiert
+    titel: Кодексы Российской Федерации — Гражданский кодекс (часть четвёртая), amtliche konsolidierte
+      Fassung
+    url: http://pravo.gov.ru/codex/
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation (pravo.gov.ru)
+    verifiziert: true
+    notiz: Amtliche Kodex-Übersicht des staatlichen Rechtsinformationssystems. Am 05.09.2026 abgerufen;
+      sie führt alle vier Teile des Zivilgesetzbuchs und verweist für den vierten Teil auf die laufend
+      fortgeschriebene amtliche Fassung bei actual.pravo.gov.ru. Der Volltext selbst war aus dieser Arbeitsumgebung
+      nicht abrufbar.
+  - datum: 2026-01-04
+    typ: konsolidiert
+    titel: Гражданский кодекс Российской Федерации (часть четвёртая), действующая редакция
+    url: https://www.consultant.ru/document/cons_doc_LAW_64629/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: false
+    notiz: Als Suchtreffer identifiziert, nicht abgerufen. Kommerzielle Rechtsdatenbank, keine amtliche
+      Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen Artikelüberschriften des vierten Teils, darunter
+      Art. 1228, 1257, 1259, 1260, 1270, 1274, 1295, 1301 und 1350.
+  - datum: 2025-11-01
+    typ: bericht
+    titel: Дипфейки в контексте права интеллектуальной собственности
+    url: https://www.garant.ru/article/2025112/
+    sprache: ru
+    urheber: GARANT.RU
+    verifiziert: true
+    notiz: Ordnet Art. 1260 und Art. 152.1 ZGB im Deepfake-Kontext ein und verweist auf das Verfahren
+      A40-200471/2023.
+  - datum: 1994-11-30
+    typ: konsolidiert
+    titel: Гражданский кодекс Российской Федерации (часть первая), Artikelverzeichnis
+    url: https://www.consultant.ru/document/cons_doc_LAW_5142/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
+      Überschriften der Art. 150, 151, 152, 152.1 (Охрана изображения гражданина) und 152.2 des ersten
+      Teils, auf die dieses Regelwerk für den Persönlichkeitsschutz verweist.
+  offene_punkte:
+  - Das Verhältnis der Trainingsschranke des Art. 10 Abs. 2 des 243-FZ zum Schrankenkatalog der Art. 1273
+    ff. ZGB ist ungeklärt. Da die Schranke außerhalb des Kodex steht, greift die enge Auslegungsregel
+    für Schranken möglicherweise nicht.
+  - Kein Gericht hat bislang entschieden, ob ein KI-Erzeugnis überhaupt gemeinfrei ist oder ob es einen
+    Leistungsschutz sui generis auslöst.
+  monitoring_quellen:
+  - https://ipc.arbitr.ru/
+  - https://vsrf.ru/
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-718834-8-stimme
+  - ru-1288702-8-deepfake-stgb
+  bedeutung_eu_anbieter: 'Die russische Rechtslage ähnelt der deutschen mehr als der amerikanischen: personaler
+    Werkbegriff, keine work-made-for-hire- Konstruktion, Schutz nur bei nachweisbarem schöpferischen Beitrag.
+    Der Unterschied liegt beim Training — Art. 10 Abs. 2 des 243-FZ kennt kein Opt-out, § 44b Abs. 3 UrhG
+    und Art. 4 Abs. 3 DSM-RL schon.
+
+    '
+  quellenlage: Normbestand aus Grundlagenwissen; die Auslegungslinien aus der ausgewerteten Rechtsprechung
+    (siehe Abschnitt urteile).
+  letzte_pruefung: *id001
+  pruefvermerk:
+  - Bestaetigt am Wortlaut des Einfuehrungsgesetzes. Der 18.12.2006 ist die Ausfertigung des 230-FZ (Teil
+    IV) und des 231-FZ (Einfuehrungsgesetz); die Verkuendung erfolgte am 21./22.12.2006, das Inkrafttreten
+    am 01.01.2008.
+- id: ru-strategie-490
+  jurisdiktion: ru
+  kurztitel: Nationale KI-Strategie bis 2030 (Erlass 490 i.d.F. 124/2024)
+  offizieller_titel: Erlass des Präsidenten der Russischen Föderation 'Über die Entwicklung der künstlichen
+    Intelligenz in der Russischen Föderation' nebst der 'Nationalen Strategie zur Entwicklung der künstlichen
+    Intelligenz für den Zeitraum bis 2030'
+  originaltitel: Указ Президента Российской Федерации «О развитии искусственного интеллекта в Российской
+    Федерации» (вместе с «Национальной стратегией развития искусственного интеллекта на период до 2030
+    года»)
+  transliteration: Ukaz Prezidenta Rossijskoj Federacii «O razvitii iskusstvennogo intellekta v Rossijskoj
+    Federacii» (vmeste s «Nacional'noj strategiej razvitija iskusstvennogo intellekta na period do 2030
+    goda»)
+  fundstelle: Erlass Nr. 490 vom 10.10.2019, in der Fassung des Erlasses Nr. 124 vom 15.02.2024
+  status: softlaw
+  status_detail: 'Gilt fort. Der Erlass Nr. 124 vom 15.02.2024 hat die Strategie grundlegend neu gefasst:
+    Der Zeithorizont wurde von 2024/2030 auf 2030 vereinheitlicht, generative KI und große Sprachmodelle
+    wurden als eigener Gegenstand aufgenommen, Rechenleistung und Datenverfügbarkeit als kritische Ressourcen
+    benannt und die "technologische Souveränität" zum Leitbegriff erhoben. Die Strategie ist der Bezugsrahmen,
+    aus dem das 243-FZ seine Kategorien bezieht — der Begriff des souveränen Modells ist dort politisch
+    vorgeprägt.
+
+    '
+  kurzbeschreibung: 'Kein Gesetz, sondern Präsidialerlass mit Bindungswirkung für die Verwaltung. Die
+    Strategie definiert KI, formuliert Grundsätze (Schutz der Menschenrechte, Sicherheit, Transparenz,
+    technologische Souveränität, Integrität des Innovationszyklus, vernünftige Sparsamkeit, Unterstützung
+    des Wettbewerbs) und benennt Ziele in elf Handlungsfeldern: Grundlagenforschung, Softwareentwicklung,
+    Daten- und Hardwareverfügbarkeit, Fachkräfte, Infrastruktur, Entwicklerförderung, Kompetenzen, Einführung
+    in Wirtschaftszweigen, vertrauenswürdige KI, Regulierung und Sicherheit, internationale Zusammenarbeit.
+    Die Umsetzung erfolgt über den föderalen Projektstrang "Datenwirtschaft" und über den Analytischen
+    Zentrum bei der Regierung.
+
+    '
+  inkrafttreten:
+    datum: 2019-10-10
+    verifiziert: true
+    quelle: https://www.consultant.ru/document/cons_doc_LAW_335184/
+  anwendungsdaten:
+  - datum: 2024-02-15
+    was_gilt: 'Neufassung durch Erlass Nr. 124: generative KI und Basismodelle, Rechenleistung als kritische
+      Ressource, technologische Souveränität als Leitbegriff, Zeithorizont 2030'
+    verifiziert: true
+    quelle: http://publication.pravo.gov.ru/document/0001202402150063
+  themenachsen:
+  - governance
+  - gpai
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Definition der KI und Abgrenzung zu verwandten Technologien — bis 2026 neben 123-FZ die maßgebliche
+    Begriffsquelle
+  - Grundsatzkatalog einschließlich 'Schutz der Menschenrechte und Freiheiten' und 'Transparenz' — als
+    Programmsatz, nicht als Anspruchsgrundlage
+  - 'Neufassung 2024: generative KI, Rechenleistung, Datenverfügbarkeit, technologische Souveränität'
+  - Umsetzung über den Nationalprojektstrang 'Datenwirtschaft'
+  dokumente:
+  - datum: 2024-02-15
+    typ: konsolidiert
+    titel: Указ Президента РФ от 10.10.2019 N 490 (ред. от 15.02.2024)
+    url: https://www.consultant.ru/document/cons_doc_LAW_335184/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: Konsolidierte Fassung mit vollständiger Gliederung der Strategie. Kommerzielle Rechtsdatenbank,
+      keine amtliche Quelle.
+  - datum: 2024-02-15
+    typ: aenderungsantrag
+    titel: Указ Президента Российской Федерации от 15.02.2024 № 124 — amtliche Veröffentlichung
+    url: http://publication.pravo.gov.ru/document/0001202402150063
+    sprache: ru
+    urheber: Offizielles Internetportal für Rechtsinformation
+    verifiziert: false
+    notiz: Amtliche Fundstelle der Neufassung; als Suchtreffer identifiziert, nicht abgerufen.
+  - datum: 2019-10-10
+    typ: endfassung
+    titel: Указ Президента Российской Федерации от 10.10.2019 г. № 490
+    url: http://www.kremlin.ru/acts/bank/44731
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  - datum: 2024-02-15
+    typ: aenderungsantrag
+    titel: Указ Президента Российской Федерации от 15.02.2024 г. № 124
+    url: http://www.kremlin.ru/acts/bank/50326
+    sprache: ru
+    urheber: Präsident der Russischen Föderation (kremlin.ru)
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Aus dieser Arbeitsumgebung nicht abrufbar (robots.txt-Sperre); Fundstelle
+      über die amtliche Trefferliste identifiziert.
+  offene_punkte:
+  - Zielkennzahlen der Neufassung 2024 (Rechenleistung, Anteil KI-nutzender Unternehmen, Marktvolumen)
+    wurden nicht im Einzelnen verifiziert.
+  monitoring_quellen:
+  - http://kremlin.ru/acts/
+  - https://ac.gov.ru/
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-ukaz-116-kommission
+  - ru-ki-ethikkodex
+  quellenlage: Konsolidierte Fassung über KonsultantPljus abgerufen; amtliche Fundstelle der Neufassung
+    nachgewiesen, nicht abgerufen.
+  letzte_pruefung: *id001
+- id: ru-ukaz-116-kommission
+  jurisdiktion: ru
+  kurztitel: Präsidialkommission für KI (Erlass 116/2026)
+  offizieller_titel: Erlass des Präsidenten der Russischen Föderation 'Über die Kommission beim Präsidenten
+    der Russischen Föderation für Fragen der Entwicklung von Technologien der künstlichen Intelligenz'
+  originaltitel: Указ Президента Российской Федерации «О Комиссии при Президенте Российской Федерации
+    по вопросам развития технологий искусственного интеллекта»
+  transliteration: Ukaz Prezidenta Rossijskoj Federacii «O Komissii pri Prezidente Rossijskoj Federacii
+    po voprosam razvitija technologij iskusstvennogo intellekta»
+  fundstelle: Erlass Nr. 116 vom 26.02.2026
+  status: anwendbar
+  status_detail: 'In Kraft. Die Kommission tagt mindestens vierteljährlich. Ko-Vorsitz: Vizepremier Dmitrij
+    Grigorenko und der stellvertretende Leiter der Präsidialverwaltung Maxim Oreschkin. Mitglieder unter
+    anderem: Verteidigungsminister Beloussow, FSB-Direktor Bortnikow, Wirtschaftsminister Reschetnikow,
+    der Vorstandsvorsitzende der Sberbank German Gref, der Yandex-Berater Tigran Chudawerdjan, der Moskauer
+    Bürgermeister Sobjanin und der Gouverneur des Moskauer Gebiets.
+
+    '
+  kurzbeschreibung: 'Institutioneller Schlüssel des russischen Modells. Die Kommission versammelt Sicherheitsapparat,
+    Wirtschaftsressorts und die beiden Unternehmen, die den russischen KI-Markt beherrschen, an einem
+    Tisch beim Präsidenten. Sie ist kein Aufsichts-, sondern ein Steuerungsgremium: Sie erarbeitet strategische
+    Ansätze zu Schaffung, Entwicklung und Einführung von KI-Technologien, soll technologische Führerschaft
+    sichern und internationale Zusammenarbeit fördern. Dass Sberbank und Yandex Mitglieder eines Präsidialgremiums
+    sind, das über die Regeln entscheidet, denen sie unterliegen, ist der deutlichste Beleg dafür, dass
+    Selbstregulierung in Russland kein Ausweichen vor dem Staat ist, sondern eine Form staatlicher Organisation.
+
+    '
+  inkrafttreten:
+    datum: 2026-02-26
+    verifiziert: true
+    quelle: https://www.cnews.ru/news/top/2026-02-27_razvitiem_iskusstvennogo
+  themenachsen:
+  - governance
+  - gpai
+  - sektor-oeffentlich
+  - wettbewerb
+  regelungsschwerpunkte:
+  - Ko-Vorsitz Regierung / Präsidialverwaltung — Steuerung außerhalb des Ressortprinzips
+  - Mitgliedschaft von FSB und Verteidigungsministerium — Sicherheitsapparat in der zivilen KI-Steuerung
+  - Mitgliedschaft von Sberbank und Yandex — regulierte Unternehmen als Regelsetzer
+  - Mindestens vierteljährliche Sitzungen
+  dokumente:
+  - datum: 2026-02-26
+    typ: endfassung
+    titel: Указ Президента Российской Федерации от 26.02.2026 г. № 116
+    url: http://www.kremlin.ru/acts/bank/52999
+    sprache: ru
+    urheber: Präsident der Russischen Föderation
+    verifiziert: false
+    notiz: Amtliche Fundstelle; robots.txt verhinderte den Abruf.
+  - datum: 2026-02-27
+    typ: bericht
+    titel: Развитием искусственного интеллекта в России займутся ФСБ, Минобороны, «Яндекс» и Сбербанк
+    url: https://www.cnews.ru/news/top/2026-02-27_razvitiem_iskusstvennogo
+    sprache: ru
+    urheber: CNews
+    verifiziert: true
+    notiz: Vollständige Zusammensetzung, Ko-Vorsitz, Aufgaben und Sitzungsfrequenz.
+  offene_punkte:
+  - Protokolle und Beschlüsse der Kommission werden nicht veröffentlicht.
+  monitoring_quellen:
+  - http://kremlin.ru/acts/
+  bezug_regelwerke:
+  - ru-strategie-490
+  - ru-243-fz-ki
+  - ru-ki-ethikkodex
+  quellenlage: Amtliche Fundstelle nachgewiesen, nicht abrufbar. Inhalt durch CNews belegt, im Suchergebnis
+    durch GARANT und Expert bestätigt.
+  letzte_pruefung: 2026-09-03
+- id: ru-pp-861-zentrum
+  jurisdiktion: ru
+  kurztitel: Zentrum für KI-Entwicklung bei der Regierung (Verordnung 861/2025)
+  offizieller_titel: Verordnung der Regierung der Russischen Föderation über das Zentrum für die Entwicklung
+    der künstlichen Intelligenz bei der Regierung der Russischen Föderation
+  originaltitel: Постановление Правительства Российской Федерации от 09.06.2025 № 861 «О Центре развития
+    искусственного интеллекта при Правительстве Российской Федерации»
+  transliteration: Postanovlenie Pravitel'stva Rossijskoj Federacii ot 09.06.2025 № 861 «O Centre razvitija
+    iskusstvennogo intellekta pri Pravitel'stve Rossijskoj Federacii»
+  fundstelle: Regierungsverordnung vom 09.06.2025 Nr. 861
+  status: anwendbar
+  status_detail: 'In Kraft. Errichtet auf Grundlage des bestehenden Analytischen Zentrums bei der Regierung
+    ein Zentrum für die Entwicklung der künstlichen Intelligenz. Aufgaben: informatorisch-analytische
+    Begleitung der KI-Prioritäten, internationale Zusammenarbeit, Erarbeitung der rechtlichen Rahmenbedingungen
+    für KI-Sicherheit, Entwicklung und Verbreitung von KI-Lösungen, Umsetzung der Nationalen Strategie
+    bis 2030, Einbindung von Fachexperten. Die Verordnung regelt zudem die Zusammenarbeit von Bundes-
+    und Regionalbehörden und die Bildung von Projektgruppen.
+
+    '
+  kurzbeschreibung: 'Die exekutive Vorstufe zum KI-Gesetz. Ein Jahr vor dem 243-FZ und acht Monate vor
+    der Präsidialkommission schuf die Regierung sich den Apparat, der die Regulierung erarbeiten und die
+    Strategie umsetzen soll. Bemerkenswert ist die Aufgabenzuweisung "Erarbeitung der rechtlichen Rahmenbedingungen
+    für KI-Sicherheit": Die Rechtsetzungsvorbereitung liegt damit bei einer Regierungseinrichtung, nicht
+    beim Parlament oder bei einer unabhängigen Stelle. Zusammen mit dem Erlass 116/2026 und der Ermächtigung
+    des 243-FZ zu Regierungsverordnungen ergibt sich ein durchgehend exekutiv organisiertes Steuerungssystem.
+
+    '
+  inkrafttreten:
+    datum: 2025-06-09
+    verifiziert: true
+    quelle: http://government.ru/docs/all/159416/
+  themenachsen:
+  - governance
+  - gpai
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Errichtung des Zentrums auf Grundlage des Analytischen Zentrums bei der Regierung
+  - Zuweisung der Rechtsetzungsvorbereitung für KI-Sicherheit an eine Regierungseinrichtung
+  - Koordination zwischen Bundes- und Regionalebene über Projektgruppen
+  - Zuständigkeit für die internationale KI-Zusammenarbeit
+  dokumente:
+  - datum: 2025-06-09
+    typ: delegiert
+    titel: Постановление Правительства Российской Федерации от 09.06.2025 г. № 861
+    url: http://government.ru/docs/all/159416/
+    sprache: ru
+    urheber: Regierung der Russischen Föderation
+    verifiziert: true
+    notiz: Amtliche Fundstelle; belegt Errichtung, Trägerschaft und Aufgabenkatalog.
+  offene_punkte:
+  - Die Arbeitsergebnisse des Zentrums werden nicht systematisch veröffentlicht.
+  monitoring_quellen:
+  - http://government.ru/docs/
+  - https://ac.gov.ru/
+  bezug_regelwerke:
+  - ru-strategie-490
+  - ru-ukaz-116-kommission
+  - ru-243-fz-ki
+  quellenlage: Amtliche Regierungsquelle abgerufen und verifiziert.
+  letzte_pruefung: 2026-09-03
+- id: ru-ki-ethikkodex
+  jurisdiktion: ru
+  kurztitel: KI-Ethikkodex
+  offizieller_titel: Kodex der Ethik im Bereich der künstlichen Intelligenz
+  originaltitel: Кодекс этики в сфере искусственного интеллекта
+  transliteration: Kodeks ėtiki v sfere iskusstvennogo intellekta
+  fundstelle: 'verabschiedet auf dem I. Internationalen Forum ''Ethik der künstlichen Intelligenz: Beginn
+    des Vertrauens'' am 26.10.2021; Träger ist die Allianz im Bereich der künstlichen Intelligenz (Альянс
+    в сфере искусственного интеллекта)'
+  status: softlaw
+  status_detail: 'Bis Juni 2025 über 900 unterzeichnende Organisationen, darunter mehr als 80 ausländische.
+    Auf dem Globalen Digitalen Forum am 06.06.2025 traten 33 Organisationen aus 22 Staaten bei — unter
+    anderem Bangladesch, Burundi, Ghana, Indien, Indonesien, Irak, Kenia, Kirgisistan, Kuba, Marokko,
+    Myanmar, Niger, Nigeria, Portugal, Serbien, Saudi-Arabien, Tansania, Uganda, Philippinen, Äthiopien
+    und das Vereinigte Königreich. Generalsekretär des Allianznetzwerks ist Andrej Nesnamow, zugleich
+    Geschäftsführer des Zentrums für menschenzentrierte KI der Sberbank.
+
+    '
+  kurzbeschreibung: 'Freiwilliger Verhaltenskodex nach dem Muster einer Branchenselbstverpflichtung, getragen
+    von der Allianz im Bereich der KI — dem Verband, in dem Sberbank, Yandex, VK, MTS, Gazprom Neft und
+    die Russische Direktinvestitionsgesellschaft zusammengeschlossen sind. Grundsätze: menschenzentrierter
+    Ansatz, Risikobewusstsein, Verantwortlichkeit, Transparenz, Nichtdiskriminierung, Sicherheit, Datenschutz.
+    Eine Kommission zur Umsetzung führt ein Register der Unterzeichner und behandelt Beschwerden. Der
+    Kodex war von 2021 bis 2026 der einzige verallgemeinerte Regelbestand für KI in Russland; die Allianz
+    hat 2024 ausdrücklich die Position vertreten, ein Ethikkodex sei einem umfassenden Gesetz vorzuziehen.
+    Diese Position hat sich im Gesetzgebungsverfahren 2026 weitgehend durchgesetzt.
+
+    '
+  inkrafttreten:
+    datum: 2021-10-26
+    verifiziert: true
+    quelle: https://rg.ru/2021/10/26/v-rossii-podpisan-kodeks-etiki-iskusstvennogo-intellekta.html
+    fundstelle_norm: 'Keine Inkrafttretensvorschrift — freiwilliger Verhaltenskodex ohne Rechtsnormqualitaet.
+      Massgeblich ist die Unterzeichnung auf dem I. Internationalen Forum ''Этика искусственного интеллекта:
+      начало доверия'' am 26.10.2021; die Rossijskaja Gazeta berichtet unter dem Datum 26.10.2021 ''В
+      России подписан Кодекс этики искусственного интеллекта'''
+  themenachsen:
+  - governance
+  - grundrechte
+  - gpai
+  - wettbewerb
+  regelungsschwerpunkte:
+  - Freiwilligkeit ohne Sanktion; Durchsetzung allein über Reputation und Registerausschluss
+  - Trägerschaft bei der Allianz im Bereich der KI, faktisch bei Sberbank
+  - 'Internationalisierung als außenpolitisches Instrument: Beitritt von Organisationen aus dem globalen
+    Süden als Gegenmodell zur europäischen Regulierung'
+  - 'Politische Funktion: Argument gegen ein umfassendes KI-Gesetz'
+  dokumente:
+  - datum: 2021-10-26
+    typ: norm
+    titel: Кодекс этики в сфере искусственного интеллекта (Volltext, PDF)
+    url: https://a-ai.ru/wp-content/uploads/2021/10/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D1%8D%D1%82%D0%B8%D0%BA%D0%B8_%D0%B2_%D1%81%D1%84%D0%B5%D1%80%D0%B5_%D0%98%D0%98_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.pdf
+    sprache: ru
+    urheber: Allianz im Bereich der künstlichen Intelligenz
+    verifiziert: false
+    notiz: Primärquelle des Kodex; a-ai.ru antwortete in dieser Sitzung mit HTTP 403.
+  - datum: 2025-06-06
+    typ: bericht
+    titel: 'Кодекс этики в сфере ИИ расширил международное признание: 33 организации из 22 стран присоединились
+      к российской инициативе'
+    url: https://www.comnews.ru/content/239607/2025-06-06/2025-w23/1010/kodeks-etiki-sfere-ii-rasshiril-mezhdunarodnoe-priznanie-33-organizacii-22-stran-prisoedinilis-k-rossiyskoy-iniciative
+    sprache: ru
+    urheber: ComNews
+    verifiziert: true
+    notiz: Belegt die Zahl von über 900 Unterzeichnern, über 80 ausländischen, die 22 Beitrittsstaaten
+      und die Rolle Nesnamows.
+  - datum: 2024-09-27
+    typ: stellungnahme
+    titel: Кодекс этики в сфере искусственного интеллекта предпочтительнее комплексного закона
+    url: https://www.comnews.ru/content/235435/2024-09-27/2024-w39/1008/kodeks-etiki-sfere-iskusstvennogo-intellekta-predpochtitelnee-kompleksnogo-zakona
+    sprache: ru
+    urheber: ComNews
+    verifiziert: false
+    notiz: Belegt die Position der Branche gegen ein umfassendes Gesetz; als Suchtreffer identifiziert,
+      nicht abgerufen.
+  - datum: 2021-10-26
+    typ: uebersicht
+    titel: Кодекс этики в сфере искусственного интеллекта (Datenbankfassung)
+    url: https://www.consultant.ru/document/cons_doc_LAW_470682/
+    sprache: ru
+    urheber: KonsultantPljus
+    verifiziert: true
+    notiz: 'Die Aufnahme eines privaten Verhaltenskodex in die amtsnahe Rechtsdatenbank ist selbst ein
+      Befund: Der Kodex wird als quasi-normativer Bestand geführt. Kommerzielle Rechtsdatenbank, keine
+      amtliche Quelle.'
+  offene_punkte:
+  - Ob die Umsetzungskommission je eine Beschwerde entschieden hat, ist nicht dokumentiert.
+  - Der Volltext des Kodex war aus dieser Umgebung nicht abrufbar; die Grundsätze wurden aus Sekundärdarstellungen
+    rekonstruiert.
+  monitoring_quellen:
+  - https://a-ai.ru/
+  - https://ethics.a-ai.ru/
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-strategie-490
+  - ru-ukaz-116-kommission
+  bedeutung_eu_anbieter: 'Ein Beitritt zum Kodex ist Ausländern möglich und wird aktiv beworben. Er begründet
+    keine Rechtspflichten, ist aber als politisches Signal aufzufassen — der Kodex wird von der russischen
+    Seite ausdrücklich als Alternative zum europäischen Regulierungsmodell vermarktet.
+
+    '
+  quellenlage: 'Unterzeichnerzahlen und Internationalisierung durch ComNews belegt. Der Kodextext selbst
+    wurde nicht abgerufen (403).
+
+    '
+  letzte_pruefung: *id001
+  pruefvermerk:
+  - Bestaetigt. Fuer einen Selbstverpflichtungskodex ist der Tag der Unterzeichnung das massgebliche Datum;
+    er ist durch die Berichterstattung vom selben Tag und durch das Analytische Zentrum bei der Regierung
+    belegt. Der Kodex gilt fort und wird laufend um neue Unterzeichner erweitert.
+- id: ru-gost-ki
+  jurisdiktion: ru
+  kurztitel: GOST-Normen zur künstlichen Intelligenz (TK 164)
+  offizieller_titel: Nationale Normen der Russischen Föderation im Bereich künstliche Intelligenz, erarbeitet
+    vom Technischen Komitee für Normung Nr. 164 'Künstliche Intelligenz'
+  originaltitel: Национальные стандарты Российской Федерации в области искусственного интеллекта; Технический
+    комитет по стандартизации № 164 «Искусственный интеллект»
+  transliteration: Nacional'nye standarty Rossijskoj Federacii v oblasti iskusstvennogo intellekta; Techničeskij
+    komitet po standartizacii № 164 «Iskusstvennyj intellekt»
+  fundstelle: Erlasse von Rosstandart; Registrierung in der Datenbank rst.gov.ru
+  status: softlaw
+  status_detail: 'Freiwillig anwendbar, faktisch verbindlich über die öffentliche Auftragsvergabe (44-FZ
+    und 223-FZ) und über die Bezugnahme in Gerichtsverfahren. Das TK 164 wurde 2019 auf Grundlage des
+    RVK-Zentrums eingerichtet. Ein großer Teil des Bestands sind Übernahmen internationaler ISO/IEC-Normen.
+    Fünf zentrale Standards wurden durch Rosstandart-Erlasse vom 28.10.2024 genehmigt und traten am 01.01.2025
+    in Kraft.
+
+    '
+  kurzbeschreibung: 'Der russische Normungsbestand zu KI ist überwiegend ISO-abgeleitet und damit — bemerkenswerterweise
+    — die einzige Ebene des russischen KI-Rechts, die international anschlussfähig geblieben ist. Zentrale
+    Normen: GOST R ISO/IEC 42001-2024 (KI-Managementsystem, identische Übernahme von ISO/IEC 42001:2023),
+    GOST R 71539-2024 (Lebenszyklen von KI-Systemen, modifizierte Übernahme von ISO/IEC 5338:2023), GOST
+    R 71540-2024 (Referenzarchitektur Wissenstechnik, aus ISO/IEC 5392:2024), GOST R 71484.1-2024 und
+    71484.3-2024 (Datenqualität, aus ISO/IEC 5259-1 und -3:2024). Hinzu kommen ältere Normen der Reihe
+    GOST R 59276-2020 ff. (Vertrauenswürdigkeit), GOST R 59921.x (KI in der Medizin) und GOST R 71476-2024
+    (Begriffe). Die Normen konkretisieren, was das 243-FZ als "Sicherheit" und "technische Dokumentation"
+    nur benennt.
+
+    '
+  inkrafttreten:
+    datum: 2025-01-01
+    verifiziert: true
+    quelle: https://habr.com/ru/articles/1064494/
+  themenachsen:
+  - governance
+  - gpai
+  - sektor-medizin
+  - marktzugang
+  regelungsschwerpunkte:
+  - GOST R ISO/IEC 42001-2024 — identische Übernahme des internationalen KI-Managementsystemstandards
+  - GOST R 71539-2024 (Lebenszyklen), GOST R 71540-2024 (Referenzarchitektur), GOST R 71484.1/.3-2024
+    (Datenqualität) — modifizierte ISO-Übernahmen
+  - GOST R 59276-2020 ff. — Vertrauenswürdigkeit von KI-Systemen; GOST R 59921.x — KI in der klinischen
+    Medizin
+  - Faktische Verbindlichkeit über die öffentliche Beschaffung (44-FZ, 223-FZ) und als Auslegungsmaßstab
+    vor Gericht
+  - Norm zu KI in der kritischen Informationsinfrastruktur in Vorbereitung
+  dokumente:
+  - datum: 2026-08-20
+    typ: norm
+    titel: ГОСТы по ИИ. Разбираю 5 стандартов
+    url: https://habr.com/ru/articles/1064494/
+    sprache: ru
+    urheber: Habr (Fachbeitrag)
+    verifiziert: true
+    notiz: Detaillierte Aufschlüsselung der fünf Kernnormen mit ISO-Bezug, Genehmigungsdatum 28.10.2024
+      und Inkrafttreten 01.01.2025; erläutert den Mechanismus der faktischen Verbindlichkeit.
+  - datum: 2026-01-01
+    typ: uebersicht
+    titel: Стандарты по направлению «Искусственный интеллект» (Register)
+    url: https://www.rst.gov.ru/portal/gost/home/standarts/aistandarts
+    sprache: ru
+    urheber: Rosstandart
+    verifiziert: false
+    notiz: Amtliches Register; robots.txt verhinderte den Abruf.
+  offene_punkte:
+  - Die Gesamtzahl der GOST-Normen zu KI konnte nicht am amtlichen Register verifiziert werden.
+  - Ob und wie das 243-FZ auf GOST-Normen Bezug nimmt, ist offen — der Gesetzestext war nicht abrufbar.
+  monitoring_quellen:
+  - https://www.rst.gov.ru/portal/gost/home/standarts/aistandarts
+  - https://protect.gost.ru/
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - iso-iec-42001
+  - ru-medizin-ki
+  bedeutung_eu_anbieter: 'Die einzige Bruecke: Wer nach ISO/IEC 42001 zertifiziert ist, erfüllt materiell
+    auch GOST R ISO/IEC 42001-2024. Für die Konformitätsarbeit nach Art. 40 ff. KI-VO ist das ein Anhaltspunkt
+    dafür, dass die technische Ebene der Normung von der politischen Entkopplung noch nicht erfasst ist.
+
+    '
+  quellenlage: Normnummern, ISO-Bezüge und Daten aus einem fachlich detaillierten Habr-Beitrag; amtliches
+    Register nicht abrufbar.
+  letzte_pruefung: 2026-09-03
+- id: ru-abd-vorstoss-pdn
+  jurisdiktion: ru
+  kurztitel: 'Vorstoß der Big-Data-Assoziation: KI-Training ohne Einwilligung'
+  offizieller_titel: Vorschlag der Assoziation der Teilnehmer des Marktes für große Daten (Ассоциация
+    больших данных) an das Ministerium für digitale Entwicklung zur Änderung des Föderationsgesetzes 'Über
+    personenbezogene Daten'
+  originaltitel: Предложения Ассоциации больших данных (АБД) по изменению Федерального закона «О персональных
+    данных» в части использования персональных данных для разработки искусственного интеллекта
+  transliteration: Predloženija Associacii bol'šich dannych (ABD) po izmeneniju Federal'nogo zakona «O
+    personal'nych dannych»
+  fundstelle: Schreiben der Assoziation an das Ministerium für digitale Entwicklung, 03.08.2026
+  status: idee
+  status_detail: 'Am 03.08.2026 an das Ministerium für digitale Entwicklung übermittelt. Getragen von
+    rund 15 russischen IT- und Finanzunternehmen — Sberbank, Yandex, VK, Avito, Rostelecom, MTS, Beeline,
+    HeadHunter, T-Bank (vormals Tinkoff), Gazprombank und weitere. Kein Gesetzentwurf, keine Vorlagennummer;
+    die Reaktion des Ministeriums war zum Recherchestand nicht dokumentiert.
+
+    '
+  kurzbeschreibung: 'Die Assoziation verlangt, personenbezogene Daten russischer Bürger ohne deren Einwilligung
+    für die KI-Entwicklung nutzen zu dürfen, sofern datenschutzfreundliche Technologien (PETs) das Identifizierungsrisiko
+    auf null oder unter ein Prozent senken. Vorgeschlagen werden eine Änderung des 152-FZ, die Einführung
+    eines staatlich akkreditierten "vertrauenswürdigen Vermittlers" und eine Unterscheidung zwischen entgeltlichen
+    und unentgeltlichen Daten. Der Vorstoß ist der Beleg dafür, dass die Trainingsschranke des Art. 10
+    Abs. 2 des 243-FZ nach Auffassung der Branche nicht ausreicht — sie erfasst Urheberrechte, nicht personenbezogene
+    Daten. Er ist zugleich der wahrscheinlichste nächste Regulierungsschritt.
+
+    '
+  themenachsen:
+  - datenschutz
+  - gpai
+  - wettbewerb
+  - governance
+  regelungsschwerpunkte:
+  - Verzicht auf die Einwilligung bei Einsatz von PETs mit Restidentifizierungsrisiko unter einem Prozent
+  - Staatlich akkreditierter 'vertrauenswürdiger Vermittler' als Datentreuhänder
+  - Unterscheidung entgeltlicher und unentgeltlicher Daten — Ansatz eines Datenmarkts
+  dokumente:
+  - datum: 2026-08-06
+    typ: stellungnahme
+    titel: Сбербанк, «Авито», VK и «Яндекс» возжелали без разрешения скармливать персональные данные россиян
+      своим нейросетям
+    url: https://safe.cnews.ru/news/top/2026-08-06_sberbankavitovk_i_yandeks
+    sprache: ru
+    urheber: CNews
+    verifiziert: true
+    notiz: Nennt Datum, Adressat, beteiligte Unternehmen und die drei Vorschlagselemente.
+  offene_punkte:
+  - Reaktion des Ministeriums, der Aufsichtsbehörde und des Gesetzgebers nicht dokumentiert.
+  - Der Vorschlagstext selbst ist nicht öffentlich.
+  monitoring_quellen:
+  - https://digital.gov.ru/
+  - https://rkn.gov.ru/
+  - https://bigdataassociation.ru/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-233-fz-anonymisierung
+  - ru-243-fz-ki
+  bedeutung_eu_anbieter: 'Die Konstellation ist die Umkehrung der europäischen Debatte um Art. 6 Abs.
+    1 lit. f DSGVO als Rechtsgrundlage für KI-Training: Statt eine Interessenabwägung zu führen, soll
+    ein technischer Schwellenwert die Einwilligung ersetzen. Wird der Vorschlag Gesetz, entsteht ein Datenpool,
+    aus dem europäische Anbieter ausgeschlossen bleiben.
+
+    '
+  quellenlage: Eine Quelle (CNews/safe.cnews.ru), im Suchergebnis durch securitylab.ru bestätigt.
+  letzte_pruefung: 2026-09-03
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: ''
+    fundstelle_norm: Kein Inkrafttreten — Schreiben eines Verbandes an ein Ministerium vom 03.08.2026,
+      kein Gesetzentwurf, keine Vorlagennummer
+  pruefvermerk:
+  - 'Bestaetigt: kein Inkrafttretensdatum, Status idee. Der 03.08.2026 ist das Datum des Schreibens und
+    steht richtig im status_detail. Quellenfeld bewusst leer gelassen: Fuer den Negativbefund (kein Rechtsakt,
+    keine Vorlagennummer) gibt es keine amtliche Fundstelle; die im Eintrag vorhandene Quelle bleibt unveraendert.'
+- id: ru-medizin-ki
+  jurisdiktion: ru
+  kurztitel: KI als Medizinprodukt (Roszdravnadzor)
+  offizieller_titel: Staatliche Registrierung von Software mit Technologien der künstlichen Intelligenz
+    als Medizinprodukt
+  originaltitel: Государственная регистрация программного обеспечения с технологиями искусственного интеллекта
+    в качестве медицинского изделия
+  transliteration: Gosudarstvennaja registracija programmnogo obespečenija s technologijami iskusstvennogo
+    intellekta v kačestve medicinskogo izdelija
+  fundstelle: Föderationsgesetz vom 21.11.2011 Nr. 323-FZ (Grundlagen des Gesundheitsschutzes), Art. 38;
+    Registrierungsverfahren nach Regierungsverordnung; Normenreihe GOST R 59921.x
+  status: anwendbar
+  status_detail: 'KI-Anwendungen im Gesundheitswesen unterliegen in Russland der Registrierung als Medizinprodukt
+    bei Roszdravnadzor. Der Bestand lag 2025/2026 bei über 50 registrierten Lösungen (Angaben schwanken
+    zwischen 53 und 57), überwiegend Bildauswertung in der Radiologie. Die Registrierung folgt einem risikobasierten
+    Verfahren mit drei Kontrollstufen. Das 243-FZ regelt den Gesundheitssektor nicht; die sektorspezifische
+    KI-Regulierung wurde ausdrücklich vertagt, und die im Märzentwurf vorgesehene Kategorie des "vertrauenswürdigen"
+    Modells für Gesundheitssysteme fiel weg.
+
+    '
+  kurzbeschreibung: 'Der einzige Bereich, in dem russisches Recht KI vor Markteinführung prüft. Funktional
+    entspricht das der Konformitätsbewertung nach Anhang I der KI-VO in Verbindung mit der MDR — mit dem
+    Unterschied, dass die Prüfung nicht durch benannte Stellen, sondern durch die Bundesbehörde selbst
+    erfolgt. Nach dem Recherchestand ist damit die Registrierung als Medizinprodukt die einzige echte
+    Marktzutrittsschranke für KI in Russland.
+
+    '
+  themenachsen:
+  - sektor-medizin
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - Registrierungspflicht bei Roszdravnadzor vor Inverkehrbringen
+  - Risikobasiertes Verfahren mit drei Kontrollstufen
+  - Normenreihe GOST R 59921.x (KI-Systeme in der klinischen Medizin) und GOST R 71476-2024 (Begriffe)
+  - 243-FZ klammert den Sektor aus; sektorspezifische Regulierung vertagt
+  dokumente:
+  - datum: 2026-05-01
+    typ: bericht
+    titel: Как Россия будет регулировать ИИ в здравоохранении
+    url: https://expert.ru/analitika/iskusstvennyi-intellekt/kak-rossiya-budet-regulirovat-ii-v-zdravookhranenii
+    sprache: ru
+    urheber: Expert
+    verifiziert: true
+    notiz: Belegt die Registrierungspflicht, den Bestand von über 53 Lösungen, das dreistufige Verfahren
+      und die Bezugnahme auf GOST R 71476-2024.
+  - datum: 2026-07-30
+    typ: bericht
+    titel: New Russian law aims to boost domestic AI models in healthcare and government
+    url: https://gxpnews.net/en/2026/07/new-russian-law-aims-to-boost-domestic-ai-models-in-healthcare-and-government/
+    sprache: en
+    urheber: GxP News
+    verifiziert: true
+    notiz: Belegt, dass die sektorspezifische Regulierung des Gesundheitswesens im 243-FZ vertagt und
+      die Kategorie 'vertrauenswürdig' gestrichen wurde.
+  offene_punkte:
+  - Ob und wann die Regierung den Gesundheitssektor als Bereich mit Pflicht zu inländischen Modellen benennt,
+    ist offen — die Ermächtigung dazu enthält das 243-FZ.
+  - 'Zahl der registrierten Produkte: Quellen nennen 53 und 57. Nicht am Register verifiziert.'
+  monitoring_quellen:
+  - https://roszdravnadzor.gov.ru/
+  - https://webiomed.ru/blog/
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-gost-ki
+  - ki-vo-2024-1689
+  - mdr-ivdr-ki-schnittstelle
+  bedeutung_eu_anbieter: 'Der praktisch einzige russische Markt, auf dem ein europäisches KI-Medizinprodukt
+    zugelassen werden könnte — und derjenige, den die Umstellungspflicht auf inländische Modelle bis 01.09.2032
+    mit einiger Wahrscheinlichkeit zuerst treffen wird.
+
+    '
+  quellenlage: Zwei unabhängige Fachquellen; das Register von Roszdravnadzor wurde nicht abgefragt.
+  letzte_pruefung: 2026-09-03
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.kontur-extern.ru/info/normativ/document/1/507366-federalnyy-zakon-ot-27-07-2006-n-152-fz
+    fundstelle_norm: Kein eigenes Regelwerk und damit kein eigenes Inkrafttreten. Der Eintrag beschreibt
+      die Registrierungspraxis von Roszdravnadzor auf der Grundlage des Art. 38 des Foederationsgesetzes
+      vom 21.11.2011 N 323-FZ und untergesetzlicher Verfahrensvorschriften
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten bleibt null. Ein Datum waere hier nur mit Willkuer zu setzen; das Traegergesetz
+    323-FZ ist im Bestand nicht als eigener Eintrag gefuehrt.'

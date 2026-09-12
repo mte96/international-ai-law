@@ -1,0 +1,1439 @@
+regelwerke:
+- id: gr-n-4961-2022
+  jurisdiktion: gr
+  kurztitel: Ν. 4961/2022 — KI-Kapitel (aufgehoben)
+  offizieller_titel: Νόμος 4961/2022 «Αναδυόμενες τεχνολογίες πληροφορικής και επικοινωνιών, ενίσχυση
+    της ψηφιακής διακυβέρνησης και άλλες διατάξεις», ΜΕΡΟΣ Α΄ ΚΕΦΑΛΑΙΟ Β΄ «Ρυθμίσεις για την ανάπτυξη
+    της τεχνητής νοημοσύνης» (Άρθρα 3-14)
+  fundstelle: ΦΕΚ Α΄ 146 vom 27.07.2022
+  verfahrensnummer: null
+  status: aufgehoben
+  status_detail: 'Das KI-Kapitel ist seit dem 20.07.2026 aufgehoben. Άρθρο 26 ν. 5321/2026 bestimmt die
+    Aufhebung des gesamten Κεφάλαιο Β΄ des Μέρος Α΄, also der Άρθρα 3 bis 14. Der übrige Gesetzestext
+    (insbesondere ΜΕΡΟΣ Β΄ zu IoT, Drohnen, Blockchain, Smart Contracts und 3D-Druck sowie die Digitalisierungsvorschriften
+    der ΜΕΡΗ Γ΄-Ζ΄) gilt fort und ist unter gr-n-4961-2022-meros-b erfasst. Für die Zeit vom 01.01.2023
+    bis zum 19.07.2026 war dieses Kapitel geltendes materielles KI-Recht und ging in mehreren Punkten
+    über die KI-VO hinaus.
+
+    '
+  kurzbeschreibung: 'Erstes materielles KI-Gesetz eines EU-Mitgliedstaats, verkündet gut zwei Jahre vor
+    der KI-VO. Es band den Einsatz von KI durch öffentliche Stellen an eine ausdrückliche gesetzliche
+    Grundlage, verlangte vor Inbetriebnahme eine algorithmische Folgenabschätzung neben der DSGVO-Datenschutz-Folgenabschätzung,
+    verpflichtete zu öffentlicher Offenlegung der Systemparameter und zur Führung eines Registers und
+    zwang Auftragnehmer über das Vergaberecht zur Herausgabe der Systemlogik. Im Privatsektor musste der
+    Arbeitgeber Beschäftigte und Bewerber vor dem ersten Einsatz eines KI-Systems über die Entscheidungsparameter
+    unterrichten; mittlere und große Unternehmen mussten ein KI-Register und eine Datenethik-Leitlinie
+    führen. Sanktioniert war allein die Unterrichtungspflicht, und zwar über die Verwaltungs- und Strafsanktionen
+    der Άρθρα 24 und 28 ν. 3996/2011 durch die Arbeitsaufsicht.
+
+    '
+  inkrafttreten:
+    datum: 2023-01-01
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2022/4961/pdf
+    fundstelle_norm: Amtliche Verkündung im ΦΕΚ Α΄ 146 vom 27.07.2022 (Kopf des Gesetzblatts bestätigt).
+      Das KI-Kapitel (ΚΕΦΑΛΑΙΟ Β΄ des ΜΕΡΟΣ Α΄, Άρθρα 3-14) trat abweichend vom Verkündungstag erst am
+      01.01.2023 in Kraft; der zugrunde liegende Schlussartikel war im abrufbaren Teil der PDF nicht lesbar.
+      Aufgehoben durch Άρθρο 26 ("Καταργούμενες διατάξεις Μέρους Α΄") ν. 5321/2026, ΦΕΚ Α΄ 114 vom 20.07.2026
+      — die Existenz dieses Artikels ist im Inhaltsverzeichnis des ΦΕΚ bestätigt.
+  anwendungsdaten:
+  - datum: 2022-07-27
+    was_gilt: Verkündung des Gesetzes im ΦΕΚ Α΄ 146; die übrigen Teile treten in Kraft, das KI-Kapitel
+      noch nicht.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2022/4961/pdf
+  - datum: 2023-01-01
+    was_gilt: 'Inkrafttreten des ΚΕΦΑΛΑΙΟ Β΄ (Άρθρα 3-14): Pflichten der öffentlichen Stellen und der
+      Privatwirtschaft werden wirksam.'
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2022/4961/pdf
+  - datum: 2026-07-20
+    was_gilt: Aufhebung des gesamten ΚΕΦΑΛΑΙΟ Β΄ durch Άρθρο 26 ν. 5321/2026.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2026/5321/pdf
+  themenachsen:
+  - sektor-oeffentlich
+  - arbeit
+  - grundrechte
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - 'Άρθρο 4 Abs. 1: Öffentliche Stellen im Sinne des Άρθρο 14 Abs. 1 lit. a ν. 4270/2014 durften KI zur
+    Entscheidungsfindung oder -unterstützung nur einsetzen, «μόνον εφόσον η χρήση αυτή προβλέπεται ρητά
+    σε ειδική διάταξη νόμου που περιλαμβάνει κατάλληλες εγγυήσεις» — ein einfachgesetzlicher Gesetzesvorbehalt
+    für Verwaltungs-KI, den die KI-VO nicht kennt.'
+  - 'Άρθρο 4: Bereichsausnahme für Verteidigungsministerium, Bürgerschutzministerium, Nachrichtendienst
+    Ε.Υ.Π. und deren nachgeordnete Stellen.'
+  - 'Άρθρο 5: Algorithmische Folgenabschätzung vor Inbetriebnahme, ausdrücklich neben und nicht anstelle
+    der Datenschutz-Folgenabschätzung des Art. 35 DSGVO; sie musste den erwarteten Nutzen den Risiken
+    gegenüberstellen «ιδίως για φυλετικές, εθνοτικές, κοινωνικές ή ηλικιακές ομάδες».'
+  - 'Άρθρο 6: Öffentliche Bekanntgabe von Betriebsbeginn, Betriebsparametern, Fähigkeiten, technischen
+    Merkmalen und Entscheidungskategorien; individuelles Recht der betroffenen Person auf Kenntnis der
+    Entscheidungsparameter in verständlicher und barrierefreier Form. Beschwerdestelle war die Εθνική
+    Αρχή Διαφάνειας (Ε.Α.Δ.).'
+  - 'Άρθρο 7: Vergaberechtlicher Hebel — die Ausschreibung musste den Auftragnehmer verpflichten, Informationen
+    herauszugeben und auf Ansprüche zu verzichten, die das Informationsrecht gefährden könnten; das System
+    war so zu liefern, dass die Behörde seine Funktionsweise studieren, es verbessern und die Verbesserungen
+    veröffentlichen kann.'
+  - 'Άρθρο 8: Registerpflicht jeder öffentlichen Stelle mit jährlicher Aktualisierung zum 1. März und
+    anlassbezogener Aktualisierung bei neuen Systemen; Vorlage an die Ε.Α.Δ. auf Anforderung.'
+  - 'Άρθρο 9: Unterrichtungspflicht des privaten Arbeitgebers vor der ersten Nutzung eines KI-Systems,
+    das Entscheidungen über Beschäftigte oder Bewerber beeinflusst — mindestens über die Entscheidungsparameter;
+    ausdrücklich auch für Plattformbeschäftigte mit Werk- oder Dienstvertrag. Sanktion: Άρθρα 24 und 28
+    ν. 3996/2011, zuständig die Arbeitsaufsicht (im Text noch Σ.ΕΠ.Ε.).'
+  - 'Άρθρο 10: KI-Register und Datenethik-Leitlinie für mittlere und große Einheiten im Sinne des Άρθρο
+    2 Abs. 5 und 6 ν. 4308/2014, bei Profilbildung von Verbrauchern und bei der Bewertung von Beschäftigten
+    oder Vertragspartnern; Aktiengesellschaften mussten die Leitlinie in die Erklärung zur Unternehmensführung
+    nach Άρθρο 152 ν. 4548/2018 aufnehmen. OHNE eigenen Sanktionstatbestand.'
+  - 'Άρθρα 11-13: Συντονιστική Επιτροπή für KI, deren Zuständigkeiten und die Επιτροπή Εποπτείας der nationalen
+    KI-Strategie — eine dreistufige Gremienarchitektur, die durch das Κέντρο συντονισμού και τεχνογνωσίας
+    des Άρθρο 6 ν. 5321/2026 ersetzt wurde.'
+  - 'Άρθρο 14: Παρατηρητήριο Τεχνητής Νοημοσύνης — Vorläufer des heutigen Observatoriums nach Άρθρο 22
+    ν. 5321/2026.'
+  dokumente:
+  - datum: 2022-07-27
+    typ: endfassung
+    titel: Νόμος 4961/2022, ΦΕΚ Α΄ 146 — amtlicher Volltext
+    url: https://api.et.gr/apiLAW/1/2022/4961/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Amtliche Gesetzes-API des Εθνικό Τυπογραφείο. Der Wortlaut der Άρθρα 3-10 ist gelesen; der
+      Konverter bricht bei Άρθρο 23 ab, der Schlussartikel 116 (Έναρξη ισχύος) ist deshalb nicht im Wortlaut
+      belegt.
+  - datum: 2022-08-01
+    typ: uebersicht
+    titel: L 4961/2022 — The Greek legal framework on emerging technologies (EY Tax Alert)
+    url: null
+    sekundaerquelle_url: https://www.ey.com/el_gr/technical/tax/tax-alerts/l-4961-2022-the-greek-legal-framework-on-emerging-technologies
+    sprache: el
+    urheber: EY Ελλάδος
+    verifiziert: true
+    abruf: ok
+    notiz: Einzige erreichbare Quelle, die das Inkrafttreten des KI-Kapitels zum 01.01.2023 ausdrücklich
+      benennt, und die bestätigt, dass für Άρθρο 10 kein Sanktionstatbestand existiert. Private Quelle,
+      deshalb nur als Sekundärquelle geführt.
+  offene_punkte:
+  - Der Wortlaut des Άρθρο 116 (Έναρξη ισχύος) ist am amtlichen ΦΕΚ nicht verifiziert; das Datum 01.01.2023
+    stützt sich auf eine Sekundärquelle.
+  - Ob die nach Άρθρο 10 Abs. 4 vorgesehene gemeinsame Ministerialentscheidung zum Inhalt der Datenethik-Leitlinie
+    je ergangen ist, ließ sich nicht feststellen. Wenn nicht, war die Pflicht während ihrer gesamten Geltungsdauer
+    inhaltlich unbestimmt und zugleich sanktionslos.
+  - Ob die Συντονιστική Επιτροπή (Άρθρο 11) und die Επιτροπή Εποπτείας (Άρθρο 13) je konstituiert wurden,
+    ist nicht belegt.
+  - Ob es zu Άρθρο 9 je ein Sanktionsverfahren der Arbeitsaufsicht gab, ist nicht ermittelbar.
+  - 'Έναρξη ισχύος nicht gelesen: Die ΦΕΚ-PDF ist über die verfügbaren Werkzeuge nur bis etwa zur Mitte
+    auslesbar (WebFetch schneidet ab, api.et.gr sperrt Skriptzugriff, direkter Download ist durch die
+    Egress-Policy blockiert). Verifiziert ist damit nur die amtliche Verkündung (ΦΕΚ-Nummer und -Datum
+    aus dem Kopf des Gesetzblatts). Nächster Schritt: Schlussartikel "Έναρξη ισχύος" im ΦΕΚ-PDF prüfen,
+    weil griechische Gesetze davon abweichen können — ν. 4961/2022 tat es.'
+  monitoring_quellen:
+  - https://api.et.gr/apiLAW/1/2022/4961/pdf
+  - https://www.dpa.gr/el/enimerwtiko/prakseisArxis
+  bezug_regelwerke:
+  - gr-n-5321-2026
+  - gr-n-4961-2022-meros-b
+  - gr-n-4624-2019
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: gr-n-4961-2022-meros-b
+  jurisdiktion: gr
+  kurztitel: Ν. 4961/2022 ΜΕΡΟΣ Β΄ — IoT, Drohnen, Blockchain, Smart Contracts, 3D-Druck
+  offizieller_titel: Νόμος 4961/2022, ΜΕΡΟΣ Β΄ «Αξιοποίηση προηγμένων τεχνολογιών» (Άρθρα 28-57)
+  fundstelle: ΦΕΚ Α΄ 146 vom 27.07.2022
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Unberührt von der Aufhebung des KI-Kapitels. ΜΕΡΟΣ Β΄ gilt fort. Eine spätere Änderung
+    des ν. 4961/2022 durch Άρθρο 27 ν. 5256/2025 betrifft Άρθρο 84 (PRS/GOVSATCOM) und damit einen ganz
+    anderen Gesetzesteil; das KI-Kapitel und ΜΕΡΟΣ Β΄ waren davon nicht betroffen.
+
+    '
+  kurzbeschreibung: 'Zweiter Hauptteil desselben Gesetzes und der eigentliche Grund dafür, dass Griechenland
+    2022 als Vorreiter galt. Er regelt in einem Zug die Cybersicherheit von Geräten des Internets der
+    Dinge, den Einsatz unbemannter Luftfahrzeuge im Postdienst, Anwendungen der Distributed-Ledger-Technologie
+    einschließlich intelligenter Verträge sowie den 3D-Druck. Adressaten sind je nach Kapitel Hersteller
+    und Betreiber von IoT-Geräten, Postdiensteanbieter, Anbieter von DLT-Diensten und Betreiber von 3D-Druckern.
+    Das Kapitel Ε΄ ist der für die KI-Praxis wichtigste Teil, weil es die zivilrechtliche Behandlung intelligenter
+    Verträge betrifft.
+
+    '
+  inkrafttreten:
+    datum: 2022-07-27
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2022/4961/pdf
+    fundstelle_norm: Amtliche Verkündung im ΦΕΚ Α΄ 146 vom 27.07.2022 — Kopf des Gesetzblatts am 05.09.2026
+      bei et.gr gelesen und bestätigt. Der Schlussartikel (Schlussartikel) "Έναρξη ισχύος" war im maschinell
+      abrufbaren Teil der PDF nicht einsehbar; das eingetragene Datum entspricht dem Verkündungstag.
+  anwendungsdaten:
+  - datum: 2022-07-27
+    was_gilt: Verkündung im ΦΕΚ Α΄ 146.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2022/4961/pdf
+  - datum: 2025-12-08
+    was_gilt: Άρθρο 27 ν. 5256/2025 ändert Άρθρο 84 ν. 4961/2022 (Kubernetische Dienste PRS und Teilnahme
+      am europäischen GOVSATCOM-Programm) — kein Eingriff in ΜΕΡΟΣ Β΄.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2025/5256/pdf
+  themenachsen:
+  - governance
+  - vertrag
+  - datenschutz
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'ΚΕΦΑΛΑΙΟ Γ΄ (Άρθρα 32-42): Anwendungen der Technologie des Internets der Dinge; Άρθρο 32 verlangt
+    Cybersicherheitsmaßnahmen für IoT-Geräte.'
+  - 'ΚΕΦΑΛΑΙΟ Δ΄ (Άρθρα 43-46): Einsatz unbemannter Luftfahrzeugsysteme, insbesondere im Postdienst.'
+  - 'ΚΕΦΑΛΑΙΟ Ε΄ (Άρθρα 47-52): Anwendungen der Technologie des verteilten Kontenbuchs (κατανεμημένο καθολικό
+    / DLT) einschließlich intelligenter Verträge (έξυπνες συμβάσεις).'
+  - 'ΚΕΦΑΛΑΙΟ ΣΤ΄ (Άρθρα 53-57): Regelungen zum Verfahren des dreidimensionalen Drucks.'
+  - 'Der Zuschnitt ist bemerkenswert: Ein einziges Gesetz behandelt KI, IoT, Drohnen, Blockchain und 3D-Druck
+    als «αναδυόμενες τεχνολογίες». Diese Bündelung erklärt, warum die KI-Vorschriften technikneutral und
+    knapp gefasst waren — und warum sie sich später ohne Bruch aus dem Gesetz herauslösen ließen.'
+  dokumente:
+  - datum: 2022-07-27
+    typ: endfassung
+    titel: Νόμος 4961/2022, ΦΕΚ Α΄ 146 — amtlicher Volltext
+    url: https://api.et.gr/apiLAW/1/2022/4961/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Der ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ mit der vollständigen Kapitel- und Artikelgliederung des ΜΕΡΟΣ Β΄
+      ist gelesen; die Einzelartikel 28-57 sind es nicht.
+  - datum: 2025-12-08
+    typ: endfassung
+    titel: Νόμος 5256/2025 «Ψηφιακή ενίσχυση της οδικής ασφάλειας και λοιπές διατάξεις», ΦΕΚ Α΄ 223
+    url: https://api.et.gr/apiLAW/1/2025/5256/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok
+    notiz: Belegt, dass die einzige spätere Änderung des ν. 4961/2022 vor 2026 dessen Άρθρο 84 betraf
+      — nicht das KI-Kapitel.
+  offene_punkte:
+  - Der Wortlaut der Άρθρα 28-57 ist nicht im Volltext verifiziert; nur die amtliche Gliederung.
+  - Ob die Vorschriften über intelligente Verträge (Άρθρα 47-52) je praktisch angewandt wurden, ist nicht
+    ermittelt.
+  - 'Έναρξη ισχύος nicht gelesen: Die ΦΕΚ-PDF ist über die verfügbaren Werkzeuge nur bis etwa zur Mitte
+    auslesbar (WebFetch schneidet ab, api.et.gr sperrt Skriptzugriff, direkter Download ist durch die
+    Egress-Policy blockiert). Verifiziert ist damit nur die amtliche Verkündung (ΦΕΚ-Nummer und -Datum
+    aus dem Kopf des Gesetzblatts). Nächster Schritt: Schlussartikel "Έναρξη ισχύος" im ΦΕΚ-PDF prüfen,
+    weil griechische Gesetze davon abweichen können — ν. 4961/2022 tat es.'
+  monitoring_quellen:
+  - https://api.et.gr/apiLAW/1/2022/4961/pdf
+  bezug_regelwerke:
+  - gr-n-4961-2022
+  - gr-n-5321-2026
+  letzte_pruefung: 2026-09-05
+- id: gr-n-5321-2026
+  jurisdiktion: gr
+  kurztitel: Ν. 5321/2026 — griechisches KI-VO-Durchführungsgesetz
+  offizieller_titel: Νόμος 5321/2026 «Μέτρα εφαρμογής του Κανονισμού (ΕΕ) 2024/1689 του Ευρωπαϊκού Κοινοβουλίου
+    και του Συμβουλίου της 13ης Ιουνίου 2024 (Κανονισμός για την τεχνητή νοημοσύνη) – Τροποποίηση του
+    ν. 4961/2022 (Α΄ 146) και άλλες διατάξεις»
+  fundstelle: ΦΕΚ Α΄ 114 vom 20.07.2026
+  verfahrensnummer: Σχέδιο νόμου des Υπουργείο Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης; Parlamentsakte
+    GUID c8827c35-4399-4fbb-8ea6-aebdc768f4f7
+  status: anwendbar
+  status_detail: 'Verkündet und in Kraft. Verfahrensgang: öffentliche elektronische Konsultation auf opengov.gr
+    vom 21.06.2026, 23:10 Uhr bis 06.07.2026, 09:00 Uhr; Bericht des Γενικό Λογιστήριο του Κράτους vom
+    06.07.2026 (Nr. 97/5/2026); Gutachten der ΑΠΔΠΧ Nr. 9/2026 vom 07.07.2026; Stellungnahme der Οικονομική
+    και Κοινωνική Επιτροπή (Juli 2026); Annahme im Plenum am 16.07.2026; Verkündung im ΦΕΚ Α΄ 114 am 20.07.2026.
+    Das Gesetz hat 58 Artikel in drei Teilen; KI-Recht ist ausschließlich das ΜΕΡΟΣ Α΄ (Άρθρα 1-26).
+
+    '
+  kurzbeschreibung: 'Nationales Durchführungsgesetz zur KI-Verordnung (EU) 2024/1689. Es macht die Datenschutzbehörde
+    Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα zur zentralen Marktüberwachungsbehörde für verbotene
+    Praktiken (Art. 5 KI-VO), für Hochrisikosysteme nach Anhang III und für die Transparenzpflichten des
+    Art. 50 KI-VO und zugleich zur einzigen Anlaufstelle nach Art. 70 Abs. 2 KI-VO; die Εθνική Επιτροπή
+    Τηλεπικοινωνιών και Ταχυδρομείων wird notifizierende Behörde, beherbergt ein Κέντρο συντονισμού και
+    τεχνογνωσίας und betreibt gemeinsam mit der Datenschutzbehörde das Reallabor. Adressaten sind Anbieter,
+    Betreiber und notifizierte Stellen sowie der gesamte öffentliche Sektor. Geldbußen richten sich nach
+    Art. 99 KI-VO (bis 35 Mio. Euro bzw. 7 % des weltweiten Jahresumsatzes), flankiert von Zwangsgeldern
+    bis 2 % des durchschnittlichen weltweiten Tagesumsatzes des Vorjahres; sie können auch gegen öffentliche
+    Stellen verhängt werden. Zugleich hebt Άρθρο 26 das gesamte materielle KI-Kapitel des ν. 4961/2022
+    auf.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-20
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2026/5321/pdf
+    fundstelle_norm: Amtliche Verkündung im ΦΕΚ Α΄ 114 vom 20.07.2026 — Kopf des Gesetzblatts am 05.09.2026
+      bei et.gr gelesen und bestätigt. Der Schlussartikel Άρθρο 58 "Έναρξη ισχύος" war im maschinell abrufbaren
+      Teil der PDF nicht einsehbar; das eingetragene Datum entspricht dem Verkündungstag.
+  anwendungsdaten:
+  - datum: 2026-06-21
+    was_gilt: Beginn der öffentlichen elektronischen Konsultation auf opengov.gr (23:10 Uhr).
+    verifiziert: true
+    quelle: https://archive.opengov.gr/digitalandbrief/?p=3997
+  - datum: 2026-07-06
+    was_gilt: Ende der Konsultation (09:00 Uhr); am selben Tag Bericht des Γενικό Λογιστήριο του Κράτους
+      Nr. 97/5/2026.
+    verifiziert: true
+    quelle: https://archive.opengov.gr/digitalandbrief/?p=3997
+  - datum: 2026-07-07
+    was_gilt: Γνωμοδότηση 9/2026 der ΑΠΔΠΧ zum Gesetzentwurf.
+    verifiziert: true
+    quelle: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/gnomodotisi-gia-shn-metra-efarmogis-toy-kanonismoy-ee-20241689-toy
+  - datum: 2026-07-16
+    was_gilt: Annahme des Gesetzentwurfs im Plenum der Βουλή των Ελλήνων.
+    verifiziert: false
+    quelle: https://www.hellenicparliament.gr/UserFiles/c8827c35-4399-4fbb-8ea6-aebdc768f4f7/13353094.pdf
+  - datum: 2026-07-20
+    was_gilt: Verkündung im ΦΕΚ Α΄ 114; Behördenbenennung nach Art. 70 KI-VO wirksam; Aufhebung des ΚΕΦΑΛΑΙΟ
+      Β΄ ν. 4961/2022.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2026/5321/pdf
+  - datum: 2026-08-02
+    was_gilt: Anwendungsbeginn der Anhang-III-Hochrisikopflichten, der Governance- und der Sanktionsvorschriften
+      der KI-VO; die ΑΠΔΠΧ kann ihre Marktüberwachungsbefugnisse ausüben.
+    verifiziert: false
+    quelle: https://www.dpa.gr/el/enimerwtiko/deltia/i-arhi-prostasias-dedomenon-analambanei-kombiko-rolo-stin-efarmogi-toy
+  - datum: 2026-08-18
+    was_gilt: Die ΑΠΔΠΧ macht ihre neue Rolle öffentlich bekannt und beschreibt ihre fünf Funktionen unter
+      dem Gesetz.
+    verifiziert: true
+    quelle: https://www.dpa.gr/el/enimerwtiko/deltia/i-arhi-prostasias-dedomenon-analambanei-kombiko-rolo-stin-efarmogi-toy
+  themenachsen:
+  - marktzugang
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  - content
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Άρθρο 3 Abs. 1: «Η Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (εφεξής: Α.Π.Δ.Π.Χ.) ορίζεται ως
+    αρμόδια αρχή εποπτείας της αγοράς» — für verbotene Praktiken nach Art. 5 KI-VO, für Anhang-III-Hochrisikosysteme
+    und für die Transparenzpflichten des Art. 50 KI-VO. Griechenland wählt damit die Grundrechtsbehörde
+    und nicht, wie Spanien mit der AESIA oder Italien mit ACN/AgID, eine Digital- oder Sicherheitsagentur.'
+  - 'Άρθρο 3 Abs. 2: Sektorale Marktüberwachung durch die Behörden, die nach dem Harmonisierungsrecht
+    des Anhangs I Abschnitt A KI-VO für das jeweilige Produkt zuständig sind — ohne dass diese Behörden
+    im Gesetz namentlich benannt werden. Genau das rügt die Ο.Κ.Ε. als gefährliche Unbestimmtheit.'
+  - 'Άρθρο 4: «Η Α.Π.Δ.Π.Χ. ορίζεται ως το ενιαίο σημείο επαφής, σύμφωνα με την παρ. 2 του άρθρου 70»
+    KI-VO.'
+  - 'Άρθρο 5: «Η Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων (εφεξής: Ε.Ε.Τ.Τ.) ορίζεται ως κοινοποιούσα
+    αρχή» nach Art. 28 KI-VO. Aufsichts- und Notifizierungsschiene sind damit institutionell getrennt.'
+  - 'Άρθρο 6: «Στην Ε.Ε.Τ.Τ. συστήνεται Κέντρο συντονισμού και τεχνογνωσίας για την ΤΝ» — Unterstützung
+    der Datenschutz- und Marktüberwachungsbehörden, Schulung, Kodizes, Reallabor- und KMU-Begleitung.
+    Personal wird nicht fest eingestellt, sondern über Sachverständigenverträge nach ν. 4412/2016 beschafft;
+    Verschwiegenheit nach Art. 78 KI-VO.'
+  - 'Άρθρο 7: Einheitliches System zur Einreichung von Beschwerden nach Art. 85 KI-VO, geführt von der
+    ΑΠΔΠΧ.'
+  - 'Άρθρα 8 und 9: Zusammenarbeit der Marktüberwachungsbehörden untereinander und der ΑΠΔΠΧ mit anderen
+    Behörden.'
+  - 'Άρθρα 10 und 11: Verfahren zur Bewertung, ob bestehende notifizierte Stellen die Voraussetzungen
+    des Art. 31 KI-VO erfüllen, und Bestimmung einer notifizierten Stelle für bestimmte Hochrisikosysteme.'
+  - 'Άρθρο 12: «Στην Ε.Ε.Τ.Τ. συστήνεται ρυθμιστικό δοκιμαστήριο ΤΝ» nach Art. 57 und 58 KI-VO; ΕΕΤΤ und
+    ΑΠΔΠΧ sind gemeinsam zuständig. Die ΕΕΤΤ schreibt Teilnahmeaufrufe mit Frist, Bewertungskriterien,
+    Höchstzahl der Teilnehmer und Teilnahmegebühren aus. Kooperationspartner sind ausdrücklich die «ΦΑΡΟΣ
+    AI FACTORY» nach Άρθρο 3 ν. 5263/2025 und die Europäischen Digital Innovation Hubs.'
+  - 'Άρθρο 13: Tests von Hochrisikosystemen unter Realbedingungen außerhalb des Reallabors (Art. 60 KI-VO).'
+  - 'Άρθρο 16: Verwaltungssanktionen. Abgestufte Maßnahmen von der Verwarnung über Anordnungen bis zu
+    Geldbußen nach Art. 99 KI-VO; Zwangsgelder bis 2 % des durchschnittlichen weltweiten Tagesumsatzes
+    des Vorjahres. Ausdrücklich auch gegen Stellen des öffentlichen Sektors im Sinne des ν. 4270/2014.
+    Kriterium ist unter anderem, ob der Anbieter ausreichende Maßnahmen zur KI-Kompetenz nach Art. 4 KI-VO
+    getroffen hat; vorherige Anhörung und besonders begründete Entscheidung sind vorgeschrieben.'
+  - 'Άρθρο 16 Abs. 4 in Verbindung mit Άρθρο 24 Abs. 5: Vergleichs- bzw. Anerkenntnisverfahren für Betreiber,
+    die den Verstoß einräumen — Ausgestaltung durch Rechtsakt der ΑΠΔΠΧ.'
+  - 'Άρθρο 17: Veröffentlichung der Sanktionen. Άρθρο 18: Erstattung der Aufsichtskosten durch den Verpflichteten.
+    Άρθρο 19: Recht auf gerichtlichen Rechtsschutz.'
+  - 'Άρθρο 20: Verstöße gegen die KI-VO werden in Κεφάλαιο Γ΄ des Μέρος Ι des Anhangs zu ν. 4990/2022
+    (Hinweisgeberschutz, Richtlinie (EU) 2019/1937) aufgenommen — KI-Compliance-Verstöße genießen damit
+    denselben Repressalienschutz wie Produktsicherheitsverstöße.'
+  - 'Άρθρο 21: Einheitliches Μητρώο συστημάτων Τεχνητής Νοημοσύνης für öffentliche Stellen, geführt von
+    der Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων. Anmeldung vor Inbetriebnahme
+    mit mindestens elf Angaben, darunter Zweck und öffentliches Interesse, Datenkategorien, technische
+    Parameter einschließlich Angaben zu Universalmodellen, Entscheidungsarten, Risiken gerade für schutzbedürftige
+    Gruppen, Risikoeinstufung nach der KI-VO, Grundrechte-Folgenabschätzung und Datenschutz-Folgenabschätzung.'
+  - 'Άρθρο 22: Παρατηρητήριο ΤΝ beim Ministerium, angesiedelt bei der Ειδική Γραμματεία; Aufgaben sind
+    Beobachtung der Umsetzung der nationalen KI-Strategie, Unterstützung der Beteiligten, Prioritätensetzung
+    und Berichte, die auf der Website der Ειδική Γραμματεία zu veröffentlichen sind.'
+  - 'Άρθρο 23: «Απαγόρευση αφαίρεσης των σημάνσεων διαφάνειας του άρθρου 50 του Κανονισμού 2024/1689 για
+    περιεχόμενο βαθυπαραποίησης (deepfakes)» — im Konsultationsentwurf noch nicht enthalten, erst im parlamentarischen
+    Verfahren eingefügt. Nach übereinstimmenden Berichten strafrechtlich bewehrt; die Strafdrohung ist
+    am amtlichen Text nicht verifiziert.'
+  - 'Άρθρο 25 Abs. 1: Der Personalbedarf der ΑΠΔΠΧ aus den neuen Aufgaben wird in den ersten zwei Jahren
+    nach Άρθρο 31 ν. 4873/2021 (Mobilität in neu errichtete Dienste) gedeckt.'
+  - 'Άρθρο 25 Abs. 2: Öffentliche Stellen, die bereits vor Inkrafttreten KI-Systeme einsetzen, müssen
+    «αμελλητί και πάντως όχι πέραν της 31ης.10.2026» eine Registrierungserklärung im Register des Άρθρο
+    21 abgeben.'
+  - 'Άρθρο 26: «Από την έναρξη ισχύος του παρόντος νόμου καταργείται το Κεφάλαιο Β΄ του Μέρους Α΄ του
+    ν. 4961/2022 (Α΄ 146).» — die vollständige Aufhebung der Άρθρα 3-14, einschließlich der privatwirtschaftlichen
+    Pflichten.'
+  dokumente:
+  - datum: 2026-07-20
+    typ: endfassung
+    titel: Νόμος 5321/2026, ΦΕΚ Α΄ 114 — amtlicher Volltext
+    url: https://api.et.gr/apiLAW/1/2026/5321/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Amtliche Primärquelle. Der vollständige ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ mit allen 58 Artikelüberschriften
+      ist gelesen; der Artikelwortlaut ist bis Άρθρο 21 Abs. 3 lesbar, danach bricht die Konvertierung
+      ab.
+  - datum: 2026-06-21
+    typ: konsultation
+    titel: Δημόσια ηλεκτρονική διαβούλευση für das σχέδιο νόμου «Μέτρα εφαρμογής του Κανονισμού (ΕΕ) 2024/1689
+      ... – Τροποποίηση του ν. 4961/2022 (Α΄ 146) και άλλες διατάξεις»
+    url: https://archive.opengov.gr/digitalandbrief/?p=3997
+    sprache: el
+    urheber: Υπουργείο Ψηφιακής Διακυβέρνησης (Minister Δημήτριος Παπαστεργίου)
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Konsultationsplattform. Enthält die artikelweise Gliederung des Entwurfs mit je einer
+      eigenen Kommentarseite; die Konsultation ist inzwischen nach archive.opengov.gr verschoben, die
+      www.opengov.gr-Adresse leitet dorthin weiter.
+  - datum: 2026-06-21
+    typ: entwurf
+    titel: Σχέδιο νόμου (Konsultationsfassung, 42 Artikel) — PDF
+    url: https://archive.opengov.gr/digitalandbrief/wp-content/plugins/download-monitor/download.php?id=55
+    sprache: el
+    urheber: Υπουργείο Ψηφιακής Διακυβέρνησης
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Volltext des Entwurfs; der Konverter bricht im ΜΕΡΟΣ Β΄ bei Άρθρο 26 ab. Die Άρθρα 20, 22 und
+      23 des Entwurfs sind daraus vollständig gelesen.
+  - datum: 2026-06-21
+    typ: folgenabschaetzung
+    titel: Ανάλυση συνεπειών ρύθμισης (Konsultationsfassung) — PDF
+    url: https://archive.opengov.gr/digitalandbrief/wp-content/plugins/download-monitor/download.php?id=56
+    sprache: el
+    urheber: Υπουργείο Ψηφιακής Διακυβέρνησης
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Eigenständiges Dokument neben dem Entwurfstext; abgerufen und als Ανάλυση Συνεπειών Ρύθμισης
+      zum KI-Gesetzentwurf bestätigt. Der Konverter bricht mitten in der Erläuterung zu Άρθρο 12 (Reallabor)
+      ab.
+  - datum: 2026-07-06
+    typ: entwurf
+    titel: Σχέδιο νόμου (Parlamentsfassung, wie eingebracht)
+    url: https://www.hellenicparliament.gr/UserFiles/c8827c35-4399-4fbb-8ea6-aebdc768f4f7/13353094.pdf
+    sprache: el
+    urheber: Βουλή των Ελλήνων / Υπουργείο Ψηφιακής Διακυβέρνησης
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Quelle für den Wortlaut der Άρθρα 3, 4 und 5 (Behördenbenennung). Der Konverter bricht im ΚΕΦΑΛΑΙΟ
+      Η΄ ab.
+  - datum: 2026-07-06
+    typ: folgenabschaetzung
+    titel: Ανάλυση Συνεπειών Ρύθμισης (Parlamentsfassung)
+    url: https://www.hellenicparliament.gr/UserFiles/c8827c35-4399-4fbb-8ea6-aebdc768f4f7/13353095.pdf
+    sprache: el
+    urheber: Υπουργείο Ψηφιακής Διακυβέρνησης
+    verifiziert: true
+    abruf: ok
+    notiz: 'Enthält die Begründung für die Wahl der ΑΠΔΠΧ: verfassungsrechtliche Unabhängigkeit, bestehende
+      Vollzugserfahrung mit DSGVO und DSA, vorhandenes Instrumentarium zur Grundrechtsprüfung, und die
+      Parallele zum EDSB im Unionsrecht. Zur Aufhebung des ΚΕΦΑΛΑΙΟ Β΄ ν. 4961/2022 begnügt sie sich mit
+      der Formel, der bestehende Rahmen decke den nach Erlass der KI-VO entstandenen Bedarf nicht vollständig.'
+  - datum: 2026-07-06
+    typ: bericht
+    titel: Έκθεση Γενικού Λογιστηρίου του Κράτους Nr. 97/5/2026
+    url: https://www.hellenicparliament.gr/UserFiles/c8827c35-4399-4fbb-8ea6-aebdc768f4f7/13353096.pdf
+    sprache: el
+    urheber: Γενικό Λογιστήριο του Κράτους
+    verifiziert: true
+    abruf: ok
+    notiz: Fiskalische Folgenabschätzung; beziffert Betriebskosten der neuen KI-Aufsichtsstrukturen und
+      erwartet Einnahmen aus Geldbußen und aus der Erstattung von Aufsichtskosten nach Άρθρο 18.
+  - datum: 2026-07-01
+    typ: stellungnahme
+    titel: Γνώμη της Ο.Κ.Ε. επί του σχεδίου νόμου του Υπουργείου Ψηφιακής Διακυβέρνησης
+    url: https://www.hellenicparliament.gr/UserFiles/c8827c35-4399-4fbb-8ea6-aebdc768f4f7/13353098.pdf
+    sprache: el
+    urheber: Οικονομική και Κοινωνική Επιτροπή (Ο.Κ.Ε.)
+    verifiziert: true
+    abruf: ok
+    notiz: Die schärfste amtliche Kritik am Gesetz. Rügt, dass die sektoralen Marktüberwachungsbehörden
+      nur abstrakt über Anhang I Abschnitt A KI-VO bezeichnet und weder namentlich noch über die einschlägigen
+      griechischen Umsetzungsgesetze benannt werden; dass Arbeitsaufsicht, Τράπεζα της Ελλάδος, Cybersicherheitsbehörde
+      und Wettbewerbsbehörde auf bloße Anzeigen an die ΑΠΔΠΧ verwiesen werden; dass für sektorübergreifende
+      Verstöße keine Vorrangregel besteht; dass die Bußgeldbefugnis der einzelnen Stellen nicht hinreichend
+      gesetzlich zugewiesen ist und Entscheidungen deshalb gerichtlich angreifbar sein dürften; und dass
+      die Aufhebung des ΚΕΦΑΛΑΙΟ Β΄ ν. 4961/2022 ein «Regelungsvakuum» für den Einsatz von KI in der öffentlichen
+      Verwaltung hinterlässt. Das Datum ist nur mit Monatsgenauigkeit belegt.
+  - datum: 2026-07-07
+    typ: stellungnahme
+    titel: Γνωμοδότηση 9/2026 der ΑΠΔΠΧ zum Gesetzentwurf
+    url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/gnomodotisi-gia-shn-metra-efarmogis-toy-kanonismoy-ee-20241689-toy
+    sprache: el
+    urheber: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+    verifiziert: true
+    abruf: ok
+    notiz: Die künftige Marktüberwachungsbehörde begrüßt die Zuweisung, warnt aber ausdrücklich, die Übertragung
+      neuer Aufgaben auf eine bestehende unabhängige Behörde könne deren Funktionsfähigkeit beeinträchtigen,
+      wenn sie nicht von Personal-, Finanz- und Sachmitteln begleitet werde. Sie fordert Ausnahmen von
+      Einstellungsbeschränkungen, persönliche Gehaltszulagen für abgeordnete Beschäftigte, besondere Lohnanreize
+      wie bei anderen Marktregulierern und eine Trennung neuer und bestehender Aufgaben. Die Landeseite
+      verlinkt das PDF «ΓΝΩΜΟΔΟΤΗΣΗ 9_2026 anonym.pdf» (507,82 KB).
+  - datum: 2026-08-18
+    typ: pressemitteilung
+    titel: Η Αρχή Προστασίας Δεδομένων αναλαμβάνει κομβικό ρόλο στην εφαρμογή του Κανονισμού για την Τεχνητή
+      Νοημοσύνη
+    url: https://www.dpa.gr/el/enimerwtiko/deltia/i-arhi-prostasias-dedomenon-analambanei-kombiko-rolo-stin-efarmogi-toy
+    sprache: el
+    urheber: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+    verifiziert: true
+    abruf: ok
+    notiz: 'Die Behörde beschreibt ihre fünf Funktionen: Marktüberwachung, einzige Anlaufstelle gegenüber
+      Kommission und anderen nationalen Behörden, Beschwerdestelle, notifizierte Stelle für bestimmte
+      Hochrisikosysteme sowie gemeinsam mit der ΕΕΤΤ Trägerin des Reallabors.'
+  - datum: 2026-07-16
+    typ: uebersicht
+    titel: Bericht über die Annahme des Gesetzes im Plenum
+    url: null
+    sekundaerquelle_url: https://www.greekecommerce.gr/news/nea-toy-syndesmoy/ethniko-plaisio-efarmogis-ai-act-epixeiriseis/
+    sprache: el
+    urheber: Ελληνικός Σύνδεσμος Ηλεκτρονικού Εμπορίου (GRECA)
+    verifiziert: true
+    abruf: ok
+    notiz: Einzige erreichbare Quelle, die die «ποινική αντιμετώπιση» der Entfernung von Deepfake-Transparenzkennzeichnungen
+      ausdrücklich benennt. Verbandsquelle, deshalb nur Sekundärquelle; die Strafdrohung selbst bleibt
+      unverifiziert.
+  - datum: 2026-08-01
+    typ: uebersicht
+    titel: 'AI Act και ν. 5321/2026: Το εθνικό πλαίσιο εποπτείας, επιβολής και λογοδοσίας'
+    url: null
+    sekundaerquelle_url: https://daily.nb.org/arthrografia/arthra/ai-act-kai-n-5321-2026-to-ethniko-plaisio-epopteias-epivolis-kai-logodosias/
+    sprache: el
+    urheber: Νομική Βιβλιοθήκη (NOMIKI BIBLIOTHIKI Daily)
+    verifiziert: true
+    abruf: ok
+    notiz: Fachanalyse; Quelle für das Inkrafttreten mit der Verkündung nach Άρθρο 58 und für die Zwangsgeldhöhe
+      von 2 % des durchschnittlichen weltweiten Tagesumsatzes. Privater Verlag, deshalb nur Sekundärquelle.
+      Das genaue Datum des Beitrags ist nicht belegt.
+  - datum: 2026-07-21
+    typ: uebersicht
+    titel: 'Ν. 5321/2026: Δημοσιεύτηκε ο εθνικός νόμος για την εφαρμογή του AI Act'
+    url: null
+    sekundaerquelle_url: https://www.lawspot.gr/nomika-nea/n-53212026-demosieuteke-o-ethnikos-nomos-gia-ten-epharmoge-tou-ai-act/
+    sprache: el
+    urheber: Lawspot
+    verifiziert: true
+    abruf: ok
+    notiz: Bestätigt für die verkündete Fassung, dass das Κεφάλαιο Β΄ des Μέρος Α΄ ν. 4961/2022 aufgehoben
+      ist, und beschreibt das Deepfake-Verbot des Άρθρο 23. Private Sammlung, deshalb nur Sekundärquelle;
+      das Datum ist geschätzt.
+  offene_punkte:
+  - Der Wortlaut der Άρθρα 22 bis 26 und 58 ist am amtlichen ΦΕΚ nicht verifiziert. Άρθρο 26 und die Übergangsfrist
+    31.10.2026 stützen sich auf den amtlichen Konsultationsentwurf (dort Άρθρα 25 und 24) plus zwei unabhängige
+    Sekundärquellen.
+  - 'Die Strafdrohung des Άρθρο 23 (Entfernen der Deepfake-Kennzeichnung) ist inhaltlich unbekannt: weder
+    Straftatbestandsfassung noch Strafrahmen noch Antragserfordernis ließen sich am Normtext feststellen.
+    Das ist die größte offene Lücke dieser Datei.'
+  - Ob Griechenland die Benennung der Kommission nach Art. 70 Abs. 2 KI-VO förmlich gemeldet hat und wann,
+    konnte nicht festgestellt werden — die Kommissionsseite ist durch robots.txt gesperrt.
+  - Die sektoralen Marktüberwachungsbehörden des Άρθρο 3 Abs. 2 sind im Gesetz nicht namentlich benannt.
+    Welche griechische Stelle für welches Anhang-I-Produkt zuständig ist, bleibt Auslegungsfrage — die
+    Ο.Κ.Ε. hat genau das gerügt.
+  - Ob die Rechtsakte nach Άρθρο 24 (Muster, Beschwerdeverfahren, Kooperationsrahmen, Vergleichsverfahren)
+    inzwischen erlassen sind, ist nicht belegt; das Gesetz setzt dafür keine Frist.
+  - Ob das Reallabor nach Άρθρο 12 zum unionsrechtlichen Stichtag 02.08.2027 betriebsbereit ist, ist offen;
+    ein Teilnahmeaufruf der ΕΕΤΤ war nicht auffindbar.
+  - Ob das Μητρώο des Άρθρο 21 technisch existiert und ob die Ειδική Γραμματεία es betreibt, ist nicht
+    belegt; auf ai.gov.gr war es am 04.09.2026 nicht sichtbar.
+  - 'Έναρξη ισχύος nicht gelesen: Die ΦΕΚ-PDF ist über die verfügbaren Werkzeuge nur bis etwa zur Mitte
+    auslesbar (WebFetch schneidet ab, api.et.gr sperrt Skriptzugriff, direkter Download ist durch die
+    Egress-Policy blockiert). Verifiziert ist damit nur die amtliche Verkündung (ΦΕΚ-Nummer und -Datum
+    aus dem Kopf des Gesetzblatts). Nächster Schritt: Schlussartikel "Έναρξη ισχύος" im ΦΕΚ-PDF prüfen,
+    weil griechische Gesetze davon abweichen können — ν. 4961/2022 tat es.'
+  monitoring_quellen:
+  - https://www.dpa.gr/el/enimerwtiko/prakseisArxis
+  - https://www.dpa.gr/el/enimerwtiko/deltia
+  - https://ai.gov.gr/
+  - https://api.et.gr/apiLAW/1/2026/5321/pdf
+  bezug_regelwerke:
+  - gr-n-4961-2022
+  - gr-n-5263-2025
+  - gr-n-4990-2022
+  - gr-n-4624-2019
+  - gr-apdpx-praxeis-tn
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: gr-n-5263-2025
+  jurisdiktion: gr
+  kurztitel: Ν. 5263/2025 — ΦΑΡΟΣ AI Factory
+  offizieller_titel: Νόμος 5263/2025 «Ίδρυση Ελληνικού Εργοστασίου Τεχνητής Νοημοσύνης»
+  fundstelle: ΦΕΚ Α΄ 238 vom 19.12.2025
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Άρθρο 3 errichtet die Aktiengesellschaft «Ελληνικό Εργοστάσιο Τεχνητής Νοημοσύνης
+    Ανώνυμη Εταιρεία» mit dem Handelsnamen «ΦΑΡΟΣ AI FACTORY». Ν. 5321/2026 verweist in Άρθρο 12 Abs.
+    4 lit. a ausdrücklich auf diese Vorschrift und macht die Gesellschaft zur möglichen Kooperationspartnerin
+    des Reallabors.
+
+    '
+  kurzbeschreibung: 'Errichtungsgesetz der griechischen KI-Fabrik im Sinne der EuroHPC-Initiative. Die
+    Gesellschaft soll «ο εθνικός και περιφερειακός επιταχυντής Τεχνητής Νοημοσύνης» sein und über eine
+    einheitliche Infrastruktur Zugang zu spezialisierter Rechenleistung, Daten und Modellen eröffnen.
+    Das Gesetz enthält kein materielles KI-Aufsichtsrecht, ist für die Rechtsanwendung aber deshalb relevant,
+    weil es die institutionelle Gegenseite des Reallabors schafft: dieselbe juristische Person, die Rechenleistung
+    bereitstellt, kann Teilnehmer des aufsichtsrechtlichen Reallabors begleiten. Der zweite Teil des Gesetzes
+    betrifft die Aufsicht über die Η.Δ.Υ.Κ.Α. und hat mit KI nichts zu tun.
+
+    '
+  inkrafttreten:
+    datum: 2025-12-19
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2025/5263/pdf
+    fundstelle_norm: Amtliche Verkündung im ΦΕΚ Α΄ 238 vom 19.12.2025 — Kopf des Gesetzblatts am 05.09.2026
+      bei et.gr gelesen und bestätigt. Der Schlussartikel Άρθρο 45 "Έναρξη ισχύος" war im maschinell abrufbaren
+      Teil der PDF nicht einsehbar; das eingetragene Datum entspricht dem Verkündungstag.
+  anwendungsdaten:
+  - datum: 2025-12-19
+    was_gilt: Verkündung im ΦΕΚ Α΄ 238; Errichtung der ΦΑΡΟΣ AI FACTORY A.E.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2025/5263/pdf
+  - datum: 2026-07-20
+    was_gilt: Άρθρο 12 Abs. 4 lit. a ν. 5321/2026 benennt die Gesellschaft als Kooperationspartnerin des
+      KI-Reallabors.
+    verifiziert: true
+    quelle: https://archive.opengov.gr/digitalandbrief/?p=3985
+  themenachsen:
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Άρθρο 3: Rechtsform der Aktiengesellschaft, Handelsname «ΦΑΡΟΣ AI FACTORY», Zweckbestimmung als nationaler
+    und regionaler KI-Beschleuniger mit Zugang zu Rechenleistung, Daten und Modellen.'
+  - 'ΚΕΦΑΛΑΙΟ Α΄ (Άρθρα 1-8): Errichtung, Zweck, Organe und Finanzierung der KI-Fabrik.'
+  - Die Verzahnung mit dem Aufsichtsrecht erfolgt erst über Άρθρο 12 ν. 5321/2026 — das Errichtungsgesetz
+    selbst regelt keine Aufsichtsfragen.
+  dokumente:
+  - datum: 2025-12-19
+    typ: endfassung
+    titel: Νόμος 5263/2025, ΦΕΚ Α΄ 238 — amtlicher Volltext
+    url: https://api.et.gr/apiLAW/1/2025/5263/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok
+    notiz: Titel, ΦΕΚ-Angabe, Gliederung und der Zweck des Άρθρο 3 sind im Wortlaut belegt.
+  offene_punkte:
+  - Der ΔΑΙΔΑΛΟΣ-Supercomputer wird in diesem Gesetz nicht erwähnt; seine Rechtsgrundlage konnte nicht
+    ermittelt werden.
+  - Ob die Gesellschaft operativ tätig ist, ist nicht belegt.
+  - 'Έναρξη ισχύος nicht gelesen: Die ΦΕΚ-PDF ist über die verfügbaren Werkzeuge nur bis etwa zur Mitte
+    auslesbar (WebFetch schneidet ab, api.et.gr sperrt Skriptzugriff, direkter Download ist durch die
+    Egress-Policy blockiert). Verifiziert ist damit nur die amtliche Verkündung (ΦΕΚ-Nummer und -Datum
+    aus dem Kopf des Gesetzblatts). Nächster Schritt: Schlussartikel "Έναρξη ισχύος" im ΦΕΚ-PDF prüfen,
+    weil griechische Gesetze davon abweichen können — ν. 4961/2022 tat es.'
+  monitoring_quellen:
+  - https://ai.gov.gr/
+  bezug_regelwerke:
+  - gr-n-5321-2026
+  letzte_pruefung: 2026-09-05
+- id: gr-blueprint-ai-2024
+  jurisdiktion: gr
+  kurztitel: Blueprint for Greece's AI Transformation
+  offizieller_titel: A Blueprint for Greece's AI Transformation — Σχέδιο για τη Μετάβαση της Ελλάδας στην
+    Εποχή της Τεχνητής Νοημοσύνης
+  fundstelle: Bericht der Συμβουλευτική Επιτροπή Υψηλού Επιπέδου για την Τεχνητή Νοημοσύνη beim Ministerpräsidenten,
+    koordiniert von der Ειδική Γραμματεία Μακροπρόθεσμου Σχεδιασμού
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Kein Rechtsakt. Bericht des vom Ministerpräsidenten eingesetzten hochrangigen Beratungsgremiums,
+    veröffentlicht am 25.11.2024. Er ist die inhaltliche Grundlage der später beschlossenen nationalen
+    KI-Strategie und benennt die Vorhaben, die 2025 und 2026 in Rechtsform gegossen wurden (KI-Fabrik
+    ΦΑΡΟΣ, Ειδική Γραμματεία, mAigov).
+
+    '
+  kurzbeschreibung: 'Strategischer Grundlagenbericht ohne Bindungswirkung, der Griechenlands KI-Politik
+    auf vier Säulen stellt: Innovation und Unternehmertum, Bildung und Forschung, Regulierung und Governance
+    sowie KI-Einsatz im Staat. Für die Rechtsdokumentation ist er wichtig, weil er die Brücke zwischen
+    dem 2022 verabschiedeten materiellen Gesetz und dem 2026 verabschiedeten Durchführungsgesetz bildet:
+    Er formuliert keinen Vorschlag, ν. 4961/2022 fortzuschreiben, sondern richtet die Politik auf die
+    KI-VO und auf Infrastrukturaufbau aus.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://foresight.gov.gr/en/studies/A-Blueprint-for-Greece-s-AI-Transformation/
+  anwendungsdaten:
+  - datum: 2024-11-25
+    was_gilt: Veröffentlichung des Berichts.
+    verifiziert: true
+    quelle: https://foresight.gov.gr/en/studies/A-Blueprint-for-Greece-s-AI-Transformation/
+  themenachsen:
+  - governance
+  regelungsschwerpunkte:
+  - 'Vier Säulen: Innovation und Unternehmertum, Bildung und Forschung, Regulierungsrahmen, KI-Anwendungen
+    im Staat.'
+  - Erarbeitet von der Συμβουλευτική Επιτροπή Υψηλού Επιπέδου beim Ministerpräsidenten unter Koordination
+    der Ειδική Γραμματεία Μακροπρόθεσμου Σχεδιασμού.
+  - Bezugspunkt für die spätere Errichtung der ΦΑΡΟΣ AI Factory und der Ειδικη Γραμματεία Τεχνητής Νοημοσύνης
+    και Διακυβέρνησης Δεδομένων.
+  dokumente:
+  - datum: 2024-11-25
+    typ: bericht
+    titel: A Blueprint for Greece's AI Transformation — Projektseite
+    url: https://foresight.gov.gr/en/studies/A-Blueprint-for-Greece-s-AI-Transformation/
+    sprache: en
+    urheber: Ειδική Γραμματεία Μακροπρόθεσμου Σχεδιασμού (Special Secretariat of Foresight)
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Landeseite mit Angaben zu Gremium, Datum und PDF-Verweis.
+  - datum: 2024-11-25
+    typ: bericht
+    titel: A Blueprint for Greece's AI Transformation — Volltext-PDF
+    url: https://foresight.gov.gr/wp-content/uploads/2024/11/Blueprint_GREECES_AI_TRANSFORMATION.pdf
+    sprache: en
+    urheber: High-Level Advisory Committee on Artificial Intelligence
+    verifiziert: false
+    abruf: ok-zu-groß
+    notiz: Die Datei existiert und antwortet, überschreitet aber die Abrufgrenze von 30 MB; der Inhalt
+      ist deshalb nur über die Landeseite belegt.
+  offene_punkte:
+  - Zusammensetzung und Vorsitz des Beratungsgremiums sind nicht im Einzelnen belegt.
+  - Der Volltext konnte wegen der Dateigröße nicht gelesen werden; ob der Bericht eine bestimmte Behörde
+    für die KI-VO-Durchführung empfiehlt, ist damit offen.
+  monitoring_quellen:
+  - https://foresight.gov.gr/en/studies/
+  bezug_regelwerke:
+  - gr-ethniki-stratigiki-tn-2025
+  - gr-n-5263-2025
+  letzte_pruefung: 2026-09-04
+- id: gr-ethniki-stratigiki-tn-2025
+  jurisdiktion: gr
+  kurztitel: Εθνική Στρατηγική για την Τεχνητή Νοημοσύνη (2025)
+  offizieller_titel: Εθνική Στρατηγική για την Τεχνητή Νοημοσύνη
+  fundstelle: Beschluss des Υπουργικό Συμβούλιο vom 30.06.2025; kein ΦΕΚ nachweisbar
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Vom Ministerrat am 30.06.2025 gebilligt und in derselben Sitzung von der Umbenennung
+    des Ministeriums in «Υπουργείο Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης» sowie von der Errichtung
+    der Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων begleitet. Ein veröffentlichter
+    Volltext der Strategie war am 04.09.2026 weder auf mindigital.gr noch auf ai.gov.gr noch auf digitalstrategy.gov.gr
+    auffindbar; die dortige Projektseite zur KI-Strategie ist auf dem Stand vom 01.12.2023 stehengeblieben.
+    Rechtlich verankert wird die Strategie erst nachträglich durch Άρθρο 22 ν. 5321/2026, der dem Παρατηρητήριο
+    die Beobachtung ihrer Umsetzung aufgibt.
+
+    '
+  kurzbeschreibung: 'Regierungsstrategie ohne Bindungswirkung. Sie ist der Nachfolger der von 2020 stammenden
+    «Εθνική στρατηγική για την ανάπτυξη της τεχνητής νοημοσύνης» und setzt die Vorschläge des Blueprint
+    von 2024 um. Ihr rechtlicher Ertrag liegt weniger im Text als in den drei gleichzeitigen Organisationsentscheidungen:
+    Umbenennung des Ressorts, Errichtung einer Ειδική Γραμματεία für KI und Datenverwaltung und Aufsatz
+    der Infrastrukturvorhaben ΔΑΙΔΑΛΟΣ und ΦΑΡΟΣ. Genau diese Ειδική Γραμματεία führt heute das Register
+    des Άρθρο 21 und das Observatorium des Άρθρο 22 ν. 5321/2026.
+
+    '
+  inkrafttreten:
+    datum: 2025-06-30
+    verifiziert: true
+    quelle: https://www.government.gov.gr/anakinosi-tou-ifipourgou-para-to-prothipourgo-ke-kivernitikou-ekprosopou-pavlou-marinaki-gia-ti-sinedriasi-tou-ipourgikou-simvouliou-tis-30is-iouniou-2025/
+  anwendungsdaten:
+  - datum: 2025-06-30
+    was_gilt: Billigung der Strategie durch den Ministerrat; Umbenennung des Ministeriums; Errichtung
+      der Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων.
+    verifiziert: true
+    quelle: https://www.government.gov.gr/anakinosi-tou-ifipourgou-para-to-prothipourgo-ke-kivernitikou-ekprosopou-pavlou-marinaki-gia-ti-sinedriasi-tou-ipourgikou-simvouliou-tis-30is-iouniou-2025/
+  - datum: 2026-07-20
+    was_gilt: Άρθρο 22 ν. 5321/2026 macht die Beobachtung der Strategieumsetzung zur gesetzlichen Aufgabe
+      des Παρατηρητήριο.
+    verifiziert: true
+    quelle: https://archive.opengov.gr/digitalandbrief/?p=3975
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Umbenennung des Ressorts in «Υπουργείο Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης» — die Ministeriumsseite
+    führt diesen Namen heute.
+  - Errichtung der Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων als Kompetenzzentrum
+    nach dem Vorbild von gov.gr; sie unterstützt zugleich das KI-Gremium beim Ministerpräsidenten.
+  - Infrastrukturvorhaben ΔΑΙΔΑΛΟΣ (Supercomputer) und ΦΑΡΟΣ (AI Factory).
+  - Anders als in Italien (Art. 19 Legge 132/2025) gibt es keine gesetzliche Pflicht zur Fortschreibung
+    der Strategie in festen Zeitabständen; die Beobachtung ihrer Umsetzung ist erst durch Άρθρο 22 ν.
+    5321/2026 verrechtlicht.
+  dokumente:
+  - datum: 2025-06-30
+    typ: pressemitteilung
+    titel: Ανακοίνωση des Regierungssprechers zur Ministerratssitzung vom 30.06.2025
+    url: https://www.government.gov.gr/anakinosi-tou-ifipourgou-para-to-prothipourgo-ke-kivernitikou-ekprosopou-pavlou-marinaki-gia-ti-sinedriasi-tou-ipourgikou-simvouliou-tis-30is-iouniou-2025/
+    sprache: el
+    urheber: Ελληνική Κυβέρνηση
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Beleg für Billigung der Strategie, Umbenennung des Ministeriums und Errichtung der
+      Ειδική Γραμματεία.
+  - datum: 2025-06-30
+    typ: pressemitteilung
+    titel: Σε Υπουργείο Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης μετονομάζεται το Υπουργείο — Τη
+      στρατηγική για την ΤΝ και τη νέα Ειδική Γραμματεία παρουσίασε ο Υπουργός Δημήτρης Παπαστεργίου
+    url: https://www.mindigital.gr/archives/7693
+    sprache: el
+    urheber: Υπουργείο Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης
+    verifiziert: true
+    abruf: ok
+    notiz: Beschreibt die Aufgaben der Ειδική Γραμματεία und nennt ΔΑΙΔΑΛΟΣ und ΦΑΡΟΣ. Eine Nummer des
+      Präsidialdekrets zur Umbenennung wird nicht genannt.
+  - datum: 2023-12-01
+    typ: uebersicht
+    titel: Εθνική στρατηγική για την ανάπτυξη της τεχνητής νοημοσύνης — Projektseite (Vorgängerstrategie)
+    url: https://digitalstrategy.gov.gr/project/ethniki_stratigiki_texnitis_noimosinis
+    sprache: el
+    urheber: Υπουργείο Ψηφιακής Διακυβέρνησης
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Projektseite der älteren Strategie, letzter Stand 01.12.2023, Status «σε εξέλιξη».
+      Belegt, dass die 2025er Strategie dort nicht nachgeführt wurde.
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: ai.gov.gr — Portal der Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων
+    url: https://ai.gov.gr/
+    sprache: el
+    urheber: Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων
+    verifiziert: true
+    abruf: ok
+    notiz: 'Amtliches Portal der Stelle, die Register und Observatorium führt. Am Abruftag sichtbar: Hinweis
+      auf EN 18286:2026 zur KI-VO-Umsetzung (02.09.2026), Online-Seminare zu KI in der Justiz (02.09.2026),
+      3. Konsultationsforum zu vertrauenswürdiger KI im öffentlichen Sektor (06.08.2026) und ein Leitfaden
+      zur Datenverwaltung für Business-Intelligence-Systeme der Verwaltung (29.07.2026). Weder der Strategietext
+      noch das Μητρώο des Άρθρο 21 waren dort auffindbar.'
+  offene_punkte:
+  - Ein veröffentlichter Volltext der Strategie von 2025 wurde nicht gefunden. Titel, Zeithorizont und
+    Säulen sind deshalb nicht belegt.
+  - Die Rechtsgrundlage der Umbenennung des Ministeriums (Präsidialdekret) ist nicht ermittelt.
+  - Ob die Ειδική Γραμματεία formell errichtet wurde und durch welchen Rechtsakt, ist nicht belegt; eine
+    Sekundärquelle nennt Januar 2026 als Errichtungszeitpunkt.
+  monitoring_quellen:
+  - https://ai.gov.gr/
+  - https://www.mindigital.gr/
+  bezug_regelwerke:
+  - gr-blueprint-ai-2024
+  - gr-n-5321-2026
+  - gr-n-5263-2025
+  letzte_pruefung: 2026-09-04
+- id: gr-n-4624-2019
+  jurisdiktion: gr
+  kurztitel: Ν. 4624/2019 — DSGVO-Durchführung
+  offizieller_titel: Νόμος 4624/2019 «Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα, μέτρα εφαρμογής
+    του Κανονισμού (ΕΕ) 2016/679 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 27ης Απριλίου 2016
+    για την προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα και
+    ενσωμάτωση στην εθνική νομοθεσία της Οδηγίας (ΕΕ) 2016/680»
+  fundstelle: ΦΕΚ Α΄ 137 vom 29.08.2019
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Für das KI-Recht doppelt bedeutsam: Das Gesetz ist die Rechtsgrundlage und
+    das Statut derjenigen Behörde, die seit dem 20.07.2026 zugleich Marktüberwachungsbehörde für die KI-VO
+    ist, und es enthält das nationale Beschäftigtendatenschutzrecht (Άρθρο 27), das nach dem Wegfall des
+    Άρθρο 9 ν. 4961/2022 die verbleibende nationale Schranke für algorithmisches Personalmanagement bildet.
+
+    '
+  kurzbeschreibung: 'Griechisches DSGVO-Durchführungsgesetz und zugleich Umsetzung der Richtlinie (EU)
+    2016/680 für den Bereich Justiz und Inneres. Es regelt Zusammensetzung, Unabhängigkeit, Befugnisse
+    und Verfahren der Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα, enthält Öffnungsklauseln unter anderem
+    für die Verarbeitung besonderer Datenkategorien und für den Beschäftigungskontext und bewehrt Verstöße
+    verwaltungs- und strafrechtlich. Άρθρο 3 ν. 4961/2022 verwies für das KI-Kapitel ausdrücklich auf
+    die DSGVO und dieses Gesetz; Άρθρο 9 ν. 5321/2026 regelt heute die Zusammenarbeit der Behörde in ihren
+    beiden Rollen.
+
+    '
+  inkrafttreten:
+    datum: 2019-08-29
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2019/4624/pdf
+    fundstelle_norm: Amtliche Verkündung im ΦΕΚ Α΄ 137 vom 29.08.2019 — Kopf des Gesetzblatts am 05.09.2026
+      bei et.gr gelesen und bestätigt. Der Schlussartikel (Schlussartikel) "Έναρξη ισχύος" war im maschinell
+      abrufbaren Teil der PDF nicht einsehbar; das eingetragene Datum entspricht dem Verkündungstag.
+  anwendungsdaten:
+  - datum: 2019-08-29
+    was_gilt: Verkündung im ΦΕΚ Α΄ 137.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2019/4624/pdf
+  - datum: 2026-07-20
+    was_gilt: Die nach diesem Gesetz verfasste Behörde wird durch Άρθρα 3 und 4 ν. 5321/2026 zusätzlich
+      Marktüberwachungsbehörde und einzige Anlaufstelle nach der KI-VO.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2026/5321/pdf
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - arbeit
+  regelungsschwerpunkte:
+  - Verfassung, Unabhängigkeit und Befugnisse der Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα — die
+    Behörde, die seit 2026 auch KI-Marktüberwachung ist. Die Ανάλυση Συνεπειών Ρύθμισης zum ν. 5321/2026
+    stützt die Behördenwahl gerade auf diese verfassungsrechtliche Unabhängigkeit.
+  - 'Άρθρο 27: Verarbeitung von Beschäftigtendaten. Nach der Aufhebung des Άρθρο 9 ν. 4961/2022 ist dies
+    neben Art. 22 DSGVO die verbleibende nationale Norm gegen undurchsichtiges algorithmisches Personalmanagement.'
+  - Umsetzung der Richtlinie (EU) 2016/680 für Polizei und Justiz — Bezugsrahmen für biometrische Fernidentifizierung
+    und für die Ausnahmen des Άρθρο 4 ν. 4961/2022 zugunsten von Verteidigung, Bürgerschutz und Nachrichtendienst.
+  dokumente:
+  - datum: 2019-08-29
+    typ: endfassung
+    titel: Νόμος 4624/2019, ΦΕΚ Α΄ 137 — amtlicher Volltext
+    url: https://api.et.gr/apiLAW/1/2019/4624/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Titel und ΦΕΚ-Angabe sind belegt; der Konverter bricht bei Άρθρο 27 (Beschäftigtendaten) ab,
+      eine Vorschrift zu automatisierten Einzelentscheidungen ist im lesbaren Teil nicht enthalten.
+  offene_punkte:
+  - Ob das Gesetz eine eigene Vorschrift zu automatisierten Einzelentscheidungen im Anwendungsbereich
+    der Richtlinie (EU) 2016/680 enthält, konnte am Volltext nicht geprüft werden.
+  - Zahlreiche spätere Änderungen des Gesetzes sind nicht nachverfolgt; die zitierte Fassung ist die Ursprungsfassung
+    von 2019.
+  - 'Έναρξη ισχύος nicht gelesen: Die ΦΕΚ-PDF ist über die verfügbaren Werkzeuge nur bis etwa zur Mitte
+    auslesbar (WebFetch schneidet ab, api.et.gr sperrt Skriptzugriff, direkter Download ist durch die
+    Egress-Policy blockiert). Verifiziert ist damit nur die amtliche Verkündung (ΦΕΚ-Nummer und -Datum
+    aus dem Kopf des Gesetzblatts). Nächster Schritt: Schlussartikel "Έναρξη ισχύος" im ΦΕΚ-PDF prüfen,
+    weil griechische Gesetze davon abweichen können — ν. 4961/2022 tat es.'
+  monitoring_quellen:
+  - https://www.dpa.gr/el/enimerwtiko/prakseisArxis
+  bezug_regelwerke:
+  - gr-n-4961-2022
+  - gr-n-5321-2026
+  - gr-apdpx-praxeis-tn
+  letzte_pruefung: 2026-09-05
+- id: gr-n-4990-2022
+  jurisdiktion: gr
+  kurztitel: Ν. 4990/2022 — Hinweisgeberschutz, erweitert auf KI-VO-Verstöße
+  offizieller_titel: Νόμος 4990/2022 «Προστασία προσώπων που αναφέρουν παραβιάσεις ενωσιακού δικαίου –
+    Ενσωμάτωση της Οδηγίας (ΕΕ) 2019/1937»
+  fundstelle: ΦΕΚ Α΄ 210 vom 11.11.2022; Anhang geändert durch Άρθρο 20 ν. 5321/2026
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. Άρθρο 20 ν. 5321/2026 ändert das Κεφάλαιο Γ΄ des Μέρος Ι des Anhangs (Produktsicherheit
+    und Konformität) und nimmt die Verordnung (EU) 2024/1689 dort auf. Damit fallen Meldungen über KI-VO-Verstöße
+    seit dem 20.07.2026 in den sachlichen Anwendungsbereich des griechischen Hinweisgeberschutzes. Die
+    ΦΕΚ-Angabe zu ν. 4990/2022 stammt aus dem zitierten Änderungstext und ist nicht am Ursprungsgesetz
+    verifiziert.
+
+    '
+  kurzbeschreibung: 'Umsetzungsgesetz zur Whistleblower-Richtlinie. Sein Anhang zählt die Unionsrechtsakte
+    auf, deren Verletzung eine geschützte Meldung auslöst. Durch die Erweiterung um die KI-VO stehen Beschäftigte,
+    Auftragnehmer und Dritte, die Verstöße gegen KI-Pflichten melden, unter demselben Repressalienschutz
+    wie Hinweisgeber im Produktsicherheitsrecht. Das ist die griechische Umsetzung des Art. 87 KI-VO und
+    wirkt praktisch als Ergänzung des Beschwerdesystems nach Άρθρο 7 ν. 5321/2026.
+
+    '
+  inkrafttreten:
+    datum: 2022-11-11
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2022/4990/pdf
+    fundstelle_norm: Amtliche Verkündung im ΦΕΚ Α΄ 210 vom 11.11.2022 — Kopf des Gesetzblatts am 05.09.2026
+      bei et.gr gelesen und bestätigt. Der Schlussartikel Άρθρο 44 "Έναρξη ισχύος" war im maschinell abrufbaren
+      Teil der PDF nicht einsehbar; das eingetragene Datum entspricht dem Verkündungstag.
+  anwendungsdaten:
+  - datum: 2026-07-20
+    was_gilt: Verstöße gegen die Verordnung (EU) 2024/1689 werden in den Anhang aufgenommen; KI-Hinweisgeber
+      sind geschützt.
+    verifiziert: false
+    quelle: https://archive.opengov.gr/digitalandbrief/?p=3977
+  themenachsen:
+  - governance
+  - arbeit
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Άρθρο 20 ν. 5321/2026: «Στο Κεφάλαιο Γ΄ του Μέρους Ι του Παραρτήματος του ν. 4990/2022 (Α΄ 210),
+    περί ασφάλειας προϊόντων και συμμόρφωσης επέρχονται οι ακόλουθες τροποποιήσεις …» — Einfügung eines
+    Verweises auf die KI-VO.'
+  - 'Systematische Einordnung: Griechenland behandelt die KI-VO als Produktsicherheitsrecht, nicht als
+    eigenständige Kategorie. Das entspricht der Binnenmarktgrundlage der Verordnung, steht aber in Spannung
+    zur Wahl der Datenschutzbehörde als Marktüberwachungsbehörde, die die Ανάλυση Συνεπειών Ρύθμισης grundrechtlich
+    begründet.'
+  - 'Praktische Folge: Wer einen Verstoß gegen Art. 5 oder Art. 50 KI-VO meldet, kann sich sowohl auf
+    den Hinweisgeberschutz als auch auf das Beschwerderecht des Art. 85 KI-VO stützen.'
+  dokumente:
+  - datum: 2026-06-21
+    typ: entwurf
+    titel: Άρθρο 20 des Konsultationsentwurfs — Προσθήκη παραβάσεων του Κανονισμού για την ΤΝ στο πεδίο
+      εφαρμογής του ν. 4990/2022
+    url: https://archive.opengov.gr/digitalandbrief/?p=3977
+    sprache: el
+    urheber: Υπουργείο Ψηφιακής Διακυβέρνησης
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Entwurfstext der Änderungsvorschrift; die Artikelnummer 20 ist im verkündeten Gesetz
+      unverändert.
+  - datum: 2026-07-20
+    typ: endfassung
+    titel: Νόμος 5321/2026, ΦΕΚ Α΄ 114 — Άρθρο 20 laut ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ
+    url: https://api.et.gr/apiLAW/1/2026/5321/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok-truncated
+    notiz: Die amtliche Überschrift des Άρθρο 20 bestätigt die Änderung; der Wortlaut ist im lesbaren
+      Teil nicht enthalten.
+  offene_punkte:
+  - Der Volltext des ν. 4990/2022 wurde nicht abgerufen; ΦΕΚ-Nummer und Datum stammen aus dem Änderungstext.
+  - Der genaue Wortlaut der eingefügten Ziffer ist am verkündeten Gesetz nicht verifiziert.
+  - 'Έναρξη ισχύος nicht gelesen: Die ΦΕΚ-PDF ist über die verfügbaren Werkzeuge nur bis etwa zur Mitte
+    auslesbar (WebFetch schneidet ab, api.et.gr sperrt Skriptzugriff, direkter Download ist durch die
+    Egress-Policy blockiert). Verifiziert ist damit nur die amtliche Verkündung (ΦΕΚ-Nummer und -Datum
+    aus dem Kopf des Gesetzblatts). Nächster Schritt: Schlussartikel "Έναρξη ισχύος" im ΦΕΚ-PDF prüfen,
+    weil griechische Gesetze davon abweichen können — ν. 4961/2022 tat es.'
+  monitoring_quellen:
+  - https://api.et.gr/apiLAW/1/2026/5321/pdf
+  bezug_regelwerke:
+  - gr-n-5321-2026
+  letzte_pruefung: 2026-09-05
+- id: gr-n-4996-2022
+  jurisdiktion: gr
+  kurztitel: Ν. 4996/2022 — DSM-Umsetzung, TDM-Schranken 21Α/21Β
+  offizieller_titel: Νόμος 4996/2022 «Καθορισμός κανόνων σχετικά με την άσκηση των δικαιωμάτων πνευματικής
+    ιδιοκτησίας …» (Ενσωμάτωση της Οδηγίας (ΕΕ) 2019/790)
+  fundstelle: ΦΕΚ Α΄ 218 vom 24.11.2022
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft. ΜΕΡΟΣ Β΄ (Άρθρα 6-30) setzt die Richtlinie (EU) 2019/790 um. Άρθρο 8 fügt
+    Άρθρο 21Α, Άρθρο 9 fügt Άρθρο 21Β in das Urheberrechtsgesetz ν. 2121/1993 ein. Diese beiden Vorschriften
+    sind die griechische Rechtsgrundlage für Text- und Data-Mining und damit für das Training generativer
+    Modelle mit geschützten Werken.
+
+    '
+  kurzbeschreibung: 'Griechische Umsetzung der DSM-Richtlinie. Für das KI-Recht zählt vor allem die Einfügung
+    der beiden TDM-Schranken in das Urheberrechtsgesetz: Άρθρο 21Α ν. 2121/1993 enthält die Begriffsbestimmungen
+    des Text- und Data-Mining, der Forschungsorganisation und der Einrichtung des Kulturerbes sowie die
+    Schranke zugunsten der Wissenschaft; Άρθρο 21Β ν. 2121/1993 enthält die allgemeine TDM-Schranke für
+    rechtmäßig zugängliche Werke mit dem Rechtsvorbehalt des Art. 4 Abs. 3 DSM-Richtlinie. Über Art. 53
+    Abs. 1 lit. c KI-VO wirkt dieser Vorbehalt auf die Pflichten der Anbieter von Universalmodellen durch.
+
+    '
+  inkrafttreten:
+    datum: 2022-11-24
+    verifiziert: false
+    quelle: https://api.et.gr/apiLAW/1/2022/4996/pdf
+    fundstelle_norm: Amtliche Verkündung im ΦΕΚ Α΄ 218 vom 24.11.2022 — Kopf des Gesetzblatts am 05.09.2026
+      bei et.gr gelesen und bestätigt. Der Schlussartikel Άρθρο 56 "Έναρξη ισχύος" war im maschinell abrufbaren
+      Teil der PDF nicht einsehbar; das eingetragene Datum entspricht dem Verkündungstag.
+  anwendungsdaten:
+  - datum: 2022-11-24
+    was_gilt: Verkündung im ΦΕΚ Α΄ 218; Einfügung der Άρθρα 21Α und 21Β in ν. 2121/1993.
+    verifiziert: true
+    quelle: https://api.et.gr/apiLAW/1/2022/4996/pdf
+  themenachsen:
+  - urheberrecht
+  - gpai
+  regelungsschwerpunkte:
+  - 'Άρθρο 8 ν. 4996/2022 fügt Άρθρο 21Α ν. 2121/1993 ein: «Ορισμοί της εξόρυξης κειμένων και δεδομένων,
+    του ερευνητικού οργανισμού και του ιδρύματος πολιτιστικής κληρονομιάς – Εξαίρεση της αναπαραγωγής
+    έργων …».'
+  - 'Άρθρο 9 ν. 4996/2022 fügt Άρθρο 21Β ν. 2121/1993 ein: «Εξαίρεση της εξόρυξης κειμένων και δεδομένων
+    από την αναπαραγωγή και εξαγωγή νομίμως προσβάσιμων έργων …».'
+  - Die Schranken sind im Wortlaut nicht geprüft; ihr Zuschnitt entspricht der Systematik der Art. 3 und
+    4 DSM-Richtlinie mit der für den Modellbau entscheidenden Opt-out-Möglichkeit des Rechteinhabers.
+  dokumente:
+  - datum: 2022-11-24
+    typ: endfassung
+    titel: Νόμος 4996/2022, ΦΕΚ Α΄ 218 — amtlicher Volltext
+    url: https://api.et.gr/apiLAW/1/2022/4996/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: true
+    abruf: ok
+    notiz: Belegt Titel, ΦΕΚ-Angabe, die Umsetzung der Richtlinie (EU) 2019/790 durch ΜΕΡΟΣ Β΄ und die
+      Einfügung der Άρθρα 21Α und 21Β durch die Άρθρα 8 und 9 samt Überschriften.
+  - datum: 1993-03-04
+    typ: konsolidiert
+    titel: Νόμος 2121/1993 «Πνευματική ιδιοκτησία, συγγενικά δικαιώματα και πολιτιστικά θέματα» — amtlicher
+      Volltext (Ursprungsfassung)
+    url: https://api.et.gr/apiLAW/1/1993/2121/pdf
+    sprache: el
+    urheber: Εθνικό Τυπογραφείο
+    verifiziert: false
+    abruf: ok-kein-text
+    notiz: Die Datei ist abrufbar, aber ein Scan ohne Textebene; weder Titel noch ΦΕΚ-Angabe noch Artikelinhalte
+      ließen sich maschinell prüfen. Die Άρθρα 21Α und 21Β sind ohnehin erst 2022 eingefügt worden und
+      stehen deshalb nicht in dieser Fassung.
+  offene_punkte:
+  - Der Wortlaut der Άρθρα 21Α und 21Β ν. 2121/1993 ist nicht verifiziert; nur die Überschriften und die
+    einfügenden Vorschriften.
+  - Eine amtliche konsolidierte Fassung des ν. 2121/1993 mit Textebene war nicht auffindbar. Der Organismos
+    Pnevmatikis Idioktisias (OPI) wurde nicht geprüft.
+  - Griechische Rechtsprechung zu KI und Urheberrecht wurde nicht ermittelt.
+  - 'Έναρξη ισχύος nicht gelesen: Die ΦΕΚ-PDF ist über die verfügbaren Werkzeuge nur bis etwa zur Mitte
+    auslesbar (WebFetch schneidet ab, api.et.gr sperrt Skriptzugriff, direkter Download ist durch die
+    Egress-Policy blockiert). Verifiziert ist damit nur die amtliche Verkündung (ΦΕΚ-Nummer und -Datum
+    aus dem Kopf des Gesetzblatts). Nächster Schritt: Schlussartikel "Έναρξη ισχύος" im ΦΕΚ-PDF prüfen,
+    weil griechische Gesetze davon abweichen können — ν. 4961/2022 tat es.'
+  monitoring_quellen:
+  - https://api.et.gr/apiLAW/1/2022/4996/pdf
+  bezug_regelwerke:
+  - gr-n-5321-2026
+  letzte_pruefung: 2026-09-05
+- id: gr-apdpx-praxeis-tn
+  jurisdiktion: gr
+  kurztitel: Praxis der ΑΠΔΠΧ zur künstlichen Intelligenz
+  offizieller_titel: Πράξεις της Αρχής Προστασίας Δεδομένων Προσωπικού Χαρακτήρα με αντικείμενο συστήματα
+    τεχνητής νοημοσύνης (Γνωμοδοτήσεις 8/2026 και 9/2026)
+  fundstelle: Γνωμοδότηση 8/2026 vom 24.06.2026; Γνωμοδότηση 9/2026 vom 07.07.2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Keine Rechtsnormen, sondern Akte der Behörde, die seit dem 20.07.2026 zugleich KI-Marktüberwachungsbehörde
+    ist. Sie sind das beste Material dafür, wie die griechische Aufsicht die Schnittstelle von DSGVO und
+    KI-VO versteht, und sie liegen zeitlich unmittelbar vor dem Rollenwechsel.
+
+    '
+  kurzbeschreibung: 'Zwei Gutachten aus dem Sommer 2026. Γνωμοδότηση 8/2026 betrifft ein KI-System der
+    Εθνική Αρχή Διαφάνειας, das eingehende Beschwerden kategorisiert, bewertet und für die Prüfung priorisiert.
+    Die Behörde verlangt eine ausdrückliche Regelung, dass jeder Vorschlag des Systems von der zuständigen
+    Prüfstelle gebilligt werden muss, stützt die Verarbeitung auf Art. 6 Abs. 1 lit. c DSGVO und fordert
+    substanzielle und verständliche Information der Betroffenen über Kriterien und Logik des Systems.
+    Γνωμοδότηση 9/2026 betrifft den Entwurf des Durchführungsgesetzes und warnt vor Aufgabenübertragung
+    ohne Ressourcen. Hinzu tritt die ältere Praxis zu Gesichtserkennung, die hier nur als offener Punkt
+    geführt wird.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.dpa.gr/el/enimerwtiko/prakseisArxis
+  anwendungsdaten:
+  - datum: 2026-06-24
+    was_gilt: Γνωμοδότηση 8/2026 zum KI-gestützten Prüfsystem der Εθνική Αρχή Διαφάνειας.
+    verifiziert: true
+    quelle: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/gnomodotisi-epi-shedioy-diataxis-me-titlo-ypostirixi-toy-elegktikoy-ergoy
+  - datum: 2026-07-07
+    was_gilt: Γνωμοδότηση 9/2026 zum Entwurf des KI-VO-Durchführungsgesetzes.
+    verifiziert: true
+    quelle: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/gnomodotisi-gia-shn-metra-efarmogis-toy-kanonismoy-ee-20241689-toy
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Γνωμοδότηση 8/2026: Verlangt eine ausdrückliche gesetzliche Anordnung, dass «κάθε πρόταση ή σύσταση»
+    des KI-Systems von der zuständigen Prüfstelle gebilligt werden muss — bedeutsame menschliche Zwischenschaltung
+    als Bedingung, nicht als Empfehlung.'
+  - 'Γνωμοδότηση 8/2026: Rechtsgrundlage ist Art. 6 Abs. 1 lit. c DSGVO, weil das System nur bestehende
+    Aufgaben der Εθνική Αρχή Διαφάνειας unterstützt und keinen neuen Verarbeitungszweck einführt. Bemerkenswert:
+    Die Behörde erkennt gleichwohl einen erheblichen Einfluss auf Prüfung und Priorisierung von Beschwerden
+    und knüpft daran verschärfte Verfahrensgarantien.'
+  - 'Γνωμοδότηση 8/2026: Transparenzanforderung — Betroffene müssen «substanzielle und verständliche Information
+    über die verwendeten Kriterien und die Logik des Systems» erhalten. Das ist inhaltlich die Fortschreibung
+    des aufgehobenen Άρθρο 6 ν. 4961/2022 mit datenschutzrechtlichen Mitteln.'
+  - 'Γνωμοδότηση 9/2026: Warnung, die Übertragung neuer Aufgaben auf eine bestehende unabhängige Behörde
+    könne deren Funktionsfähigkeit beeinträchtigen, wenn Personal-, Finanz- und Sachmittel fehlen; Forderung
+    nach Ausnahmen von Einstellungsbeschränkungen und nach besonderen Lohnanreizen wie bei anderen Marktregulierern.'
+  - 'Beide Gutachten zusammen zeigen die griechische Grundentscheidung: Die KI-Aufsicht wird nicht als
+    Produktsicherheits-, sondern als Grundrechtsaufsicht organisiert.'
+  dokumente:
+  - datum: 2026-06-24
+    typ: stellungnahme
+    titel: Γνωμοδότηση 8/2026 «Υποστήριξη του ελεγκτικού έργου της Εθνικής Αρχής Διαφάνειας με τη χρήση
+      συστήματος τεχνητής νοημοσύνης»
+    url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/gnomodotisi-epi-shedioy-diataxis-me-titlo-ypostirixi-toy-elegktikoy-ergoy
+    sprache: el
+    urheber: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Landeseite der Behörde mit Nummer, Datum, Titel und Zusammenfassung.
+  - datum: 2026-07-07
+    typ: stellungnahme
+    titel: Γνωμοδότηση 9/2026 zum σχέδιο νόμου «Μέτρα εφαρμογής του Κανονισμού (ΕΕ) 2024/1689 …»
+    url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/gnomodotisi-gia-shn-metra-efarmogis-toy-kanonismoy-ee-20241689-toy
+    sprache: el
+    urheber: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Landeseite mit Verweis auf das PDF «ΓΝΩΜΟΔΟΤΗΣΗ 9_2026 anonym.pdf».
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: Πράξεις της Αρχής — Übersichtsseite
+    url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis
+    sprache: el
+    urheber: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+    verifiziert: true
+    abruf: ok
+    notiz: Laufend zu beobachtende Quelle. Am Abruftag war die jüngste Γνωμοδότηση die Nr. 10/2026 vom
+      24.08.2026 zum Ενιαίος Κόμβος Ακινήτων — ohne KI-Bezug.
+  offene_punkte:
+  - Die PDF-Volltexte der Gutachten 8/2026 und 9/2026 wurden nicht einzeln abgerufen; Inhalt nur über
+    die amtlichen Landeseiten.
+  - Die Entscheidung 35/2022 der Behörde gegen Clearview AI (Geldbuße von 20 Mio. Euro wegen Gesichtserkennungs-Scraping)
+    ist über eine Sekundärquelle bekannt, aber nicht am amtlichen Text verifiziert; eine belastbare dpa.gr-Adresse
+    wurde nicht gefunden und ist deshalb nicht eingetragen.
+  - Ob die Behörde seit dem 20.07.2026 KI-spezifische Leitlinien oder Verfahrensregeln nach Άρθρο 24 ν.
+    5321/2026 erlassen hat, ist nicht belegt.
+  monitoring_quellen:
+  - https://www.dpa.gr/el/enimerwtiko/prakseisArxis
+  - https://www.dpa.gr/el/enimerwtiko/deltia
+  bezug_regelwerke:
+  - gr-n-5321-2026
+  - gr-n-4624-2019
+  - gr-n-4961-2022
+  letzte_pruefung: 2026-09-04
+- id: gr-ypdik-epitropi-tn
+  jurisdiktion: gr
+  kurztitel: Διαρκής Επιστημονική Επιτροπή für KI beim Justizministerium
+  offizieller_titel: Διαρκής Επιστημονική Επιτροπή του Υπουργείου Δικαιοσύνης για την Τεχνητή Νοημοσύνη
+  fundstelle: Errichtet durch Ministerialentscheidungen; auf der Ministeriumsseite nur über die ΑΔΑ-Kennungen
+    6ΣΡΦΩ-198, ΩΧΓ2Ω-ΨΔΗ und ΨΡΥΕΩ-09Ν nachgewiesen
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Bestehendes Beratungsgremium ohne Regelungsbefugnis. Die Ministeriumsseite dokumentiert
+    Sitzungen vom 10.06.2021, 04.03.2024, 28.05.2024 und 19.02.2026. Förmliche Berichte oder Leitlinien
+    für den Einsatz von KI in der Justiz sind dort nicht veröffentlicht. Griechenland hat damit — anders
+    als Italien mit den Empfehlungen des CSM — bislang kein veröffentlichtes Regelwerk zum Einsatz von
+    KI durch Gerichte.
+
+    '
+  kurzbeschreibung: 'Ständige wissenschaftliche Kommission des Justizministeriums, die die Auswirkungen
+    der Einführung künstlicher Intelligenz auf das Justizsystem prüft und dem Minister Vorschläge zur
+    Modernisierung des Rechtsrahmens sowie zum Schutz der Rechte der Verfahrensbeteiligten unterbreitet.
+    Ihre dokumentierten Arbeitsschwerpunkte sind die Anonymisierung gerichtlicher Entscheidungen, Sprachverarbeitung
+    und die Erfahrungen der französischen Justiz mit Automatisierung. Für die Praxis bedeutet ihr Bestehen:
+    Der Einsatz von KI in der griechischen Justiz wird vorbereitet, ist aber nicht normiert.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://ministryofjustice.gr/?page_id=7483
+  anwendungsdaten:
+  - datum: 2021-06-10
+    was_gilt: Erste dokumentierte Sitzung der Kommission.
+    verifiziert: true
+    quelle: https://ministryofjustice.gr/?page_id=7483
+  - datum: 2026-02-19
+    was_gilt: Jüngste dokumentierte Sitzung der Kommission.
+    verifiziert: true
+    quelle: https://ministryofjustice.gr/?page_id=7483
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  - berufsrecht
+  regelungsschwerpunkte:
+  - 'Auftrag: Prüfung der Auswirkungen der KI-Einführung auf das Justizsystem und Vorschläge an den Justizminister
+    zur Anpassung des Rechtsrahmens sowie zum Schutz der Rechte der Beteiligten.'
+  - 'Arbeitsschwerpunkte laut Ministeriumsseite: Anonymisierung gerichtlicher Entscheidungen, Verarbeitung
+    natürlicher Sprache, französische Erfahrungen mit Justizautomatisierung.'
+  - Kein veröffentlichtes Regelwerk. Der Einsatz von KI durch griechische Gerichte unterliegt damit allein
+    der KI-VO, dem Datenschutzrecht und — bis zum 19.07.2026 — dem Άρθρο 4 ν. 4961/2022 mit seinem Gesetzesvorbehalt
+    für staatliche KI-Entscheidungen. Nach dessen Aufhebung entfällt auch diese Schranke.
+  dokumente:
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: Διαρκής Επιστημονική Επιτροπή του ΥΔ για την Τεχνητή Νοημοσύνη — Seite des Justizministeriums
+    url: https://ministryofjustice.gr/?page_id=7483
+    sprache: el
+    urheber: Υπουργείο Δικαιοσύνης
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliche Seite mit Auftrag, Sitzungsprotokollen und Vortragsunterlagen. Weder Errichtungsentscheidung
+      mit Nummer und ΦΕΚ noch Mitgliederliste sind dort ausgewiesen; die drei ΑΔΑ-Kennungen sind der einzige
+      Rechtsaktnachweis.
+  offene_punkte:
+  - Nummer, Datum und ΦΕΚ der Errichtungsentscheidungen sind nicht ermittelt; nur ΑΔΑ-Kennungen (Διαύγεια)
+    liegen vor. Ein Abruf über diaugeia.gov.gr wurde nicht durchgeführt.
+  - Die Zusammensetzung der Kommission ist nicht veröffentlicht.
+  - Kein Regelwerk zum Einsatz generativer KI durch Richter oder Staatsanwälte auffindbar.
+  - 'Berufsrecht der Anwaltschaft: Weder die Ολομέλεια των Προέδρων των Δικηγορικών Συλλόγων Ελλάδος noch
+    der Δικηγορικός Σύλλογος Αθηνών haben nach den durchgeführten Recherchen eigene KI-Regeln oder Leitlinien
+    erlassen; der DSA verweist auf CCBE-Material. Der Κώδικας Δικηγόρων (ν. 4194/2013) enthält keine KI-spezifische
+    Vorschrift. Dieser Befund ist ein Negativbefund und nicht abschließend gesichert.'
+  monitoring_quellen:
+  - https://ministryofjustice.gr/?page_id=7483
+  - https://ai.gov.gr/
+  bezug_regelwerke:
+  - gr-n-4961-2022
+  - gr-n-5321-2026
+  letzte_pruefung: 2026-09-04
+- id: gr-eeb-gnomi-ygeia
+  jurisdiktion: gr
+  kurztitel: Γνώμη der Bioethik-Kommission zu KI im Gesundheitswesen
+  offizieller_titel: 'Γνώμη: Για τις Εφαρμογές Τεχνητής Νοημοσύνης στην Υγεία στην Ελλάδα'
+  fundstelle: Γνώμη der Εθνική Επιτροπή Βιοηθικής & Τεχνοηθικής vom 21.12.2023
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Beratende Stellungnahme ohne Rechtsverbindlichkeit. Sie ist am Rechercheschluss das
+    einzige auffindbare griechische Dokument mit sektorspezifischen Anforderungen an KI im Gesundheitswesen.
+    Ein Gegenstück zu den Άρθρα 7 bis 10 der italienischen Legge 132/2025 gibt es im griechischen Recht
+    nicht: Weder ν. 4961/2022 noch ν. 5321/2026 enthalten Gesundheitsvorschriften.
+
+    '
+  kurzbeschreibung: 'Stellungnahme der nationalen Bioethik- und Technoethik-Kommission. Sie fordert einen
+    Governance-Rahmen für Entwicklung und Einsatz von KI im Gesundheitswesen auf der Grundlage von Autonomie,
+    Fürsorgeprinzip, Sicherheit und Gerechtigkeit, die Modernisierung des Rechtsrahmens im Gleichklang
+    mit der KI-VO, die Erarbeitung von Ethikkodizes und Folgenabschätzungen durch die einsetzenden Organisationen,
+    den Abbau digitaler Ungleichheit, die Fortbildung des Gesundheitspersonals, die Verbesserung der Interoperabilität
+    von Gesundheitsdaten sowie den erleichterten Zugang der Forschung zu Gesundheitsdatenbanken.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://bioethics.gr/api/files/download/2339/OPINION%20AI%20IN%20HEALTH%20GR.pdf
+  anwendungsdaten:
+  - datum: 2023-12-21
+    was_gilt: Verabschiedung der Stellungnahme.
+    verifiziert: true
+    quelle: https://bioethics.gr/api/files/download/2339/OPINION%20AI%20IN%20HEALTH%20GR.pdf
+  themenachsen:
+  - sektor-medizin
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - Forderung nach einem eigenen Governance-Rahmen für KI im Gesundheitswesen mit den Prinzipien Autonomie,
+    Fürsorge, Sicherheit und Gerechtigkeit.
+  - Ethikkodizes und Folgenabschätzungen durch die einsetzenden Gesundheitsorganisationen — ein Vorschlag,
+    der in der Sache dem 2026 aufgehobenen Άρθρο 10 ν. 4961/2022 entspricht, ohne dessen Verbindlichkeit.
+  - Zugang der Forschung zu Gesundheitsdatenbanken und Interoperabilität — Berührungspunkt mit dem europäischen
+    Gesundheitsdatenraum.
+  - 'Keine Umsetzung in Recht: Der Gesetzgeber hat den Vorschlag weder 2022 noch 2026 aufgegriffen.'
+  dokumente:
+  - datum: 2023-12-21
+    typ: stellungnahme
+    titel: 'Γνώμη: Για τις Εφαρμογές Τεχνητής Νοημοσύνης στην Υγεία στην Ελλάδα — Volltext-PDF'
+    url: https://bioethics.gr/api/files/download/2339/OPINION%20AI%20IN%20HEALTH%20GR.pdf
+    sprache: el
+    urheber: Εθνική Επιτροπή Βιοηθικής & Τεχνοηθικής
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Volltext der Kommission; Titel, Datum und Empfehlungen sind belegt.
+  offene_punkte:
+  - Sektorales Aufsichtsrecht für Medizin-KI (Ε.Ο.Φ. als Marktüberwachungsbehörde für Medizinprodukte
+    nach Anhang I KI-VO) ist im ν. 5321/2026 nicht namentlich zugewiesen; die Ο.Κ.Ε. hat genau das gerügt.
+  - Rechtsakte des Gesundheitsministeriums oder der Ε.Ο.Π.Υ.Υ. zu KI wurden nicht ermittelt.
+  monitoring_quellen:
+  - https://bioethics.gr/
+  bezug_regelwerke:
+  - gr-n-5321-2026
+  letzte_pruefung: 2026-09-04
+- id: gr-eeb-gnomi-scholeia
+  jurisdiktion: gr
+  kurztitel: Γνώμη der Bioethik-Kommission zu KI in der Schule
+  offizieller_titel: Γνώμη για τις εφαρμογές Τεχνητής Νοημοσύνης στο ελληνικό σχολείο
+  fundstelle: Γνώμη der Εθνική Επιτροπή Βιοηθικής & Τεχνοηθικής, März 2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Beratende Stellungnahme ohne Rechtsverbindlichkeit. Griechenland hat — anders als Italien
+    mit den Linee guida des Bildungsministeriums — kein verbindliches Regelwerk zum KI-Einsatz an Schulen.
+    Das Datum ist nur monatsgenau belegt.
+
+    '
+  kurzbeschreibung: 'Stellungnahme zur Nutzung künstlicher Intelligenz in der griechischen Schule. Kernaussagen:
+    Der pädagogische Bedarf hat Vorrang vor der Technik; KI darf die Beziehung zwischen Lehrenden und
+    Lernenden ergänzen, nicht ersetzen; neben Bildung in KI ist Bildung über KI erforderlich; Bildungsungleichheit
+    ist durch gezielte Maßnahmen zu verhindern; Verhaltensmanipulation, soziale Bewertung und Überwachungssysteme
+    sind zu untersagen; vor breitem Einsatz sind Pilotprogramme mit interdisziplinärer Begleitforschung
+    durchzuführen; Technoethik gehört in die Lehrerausbildung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://bioethics.gr/api/files/download/2412/
+  anwendungsdaten:
+  - datum: 2025-03-01
+    was_gilt: Verabschiedung der Stellungnahme (nur monatsgenau belegt).
+    verifiziert: false
+    quelle: https://bioethics.gr/api/files/download/2412/
+  themenachsen:
+  - grundrechte
+  - content
+  regelungsschwerpunkte:
+  - Vorrang des pädagogischen Bedarfs vor der Technologie; KI als Ergänzung, nicht als Ersatz der Lehrer-Schüler-Beziehung.
+  - Ausdrückliches Verbot von Verhaltensmanipulation, sozialer Bewertung und Überwachungssystemen im schulischen
+    Kontext — inhaltlich eine Anwendung des Art. 5 KI-VO auf die Schule.
+  - Pilotierung mit interdisziplinärer Begleitforschung vor breitem Einsatz; Technoethik in der Lehrerausbildung.
+  dokumente:
+  - datum: 2025-03-01
+    typ: stellungnahme
+    titel: Γνώμη για τις εφαρμογές Τεχνητής Νοημοσύνης στο ελληνικό σχολείο — Volltext-PDF
+    url: https://bioethics.gr/api/files/download/2412/
+    sprache: el
+    urheber: Εθνική Επιτροπή Βιοηθικής & Τεχνοηθικής
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Volltext der Kommission; Titel und Empfehlungen sind belegt, das Datum nur monatsgenau.
+  offene_punkte:
+  - Ein Rechtsakt oder eine Leitlinie des Bildungsministeriums zu KI an Schulen wurde nicht ermittelt.
+  monitoring_quellen:
+  - https://bioethics.gr/
+  bezug_regelwerke:
+  - gr-eeb-gnomi-ygeia
+  letzte_pruefung: 2026-09-04
+- id: gr-ai-vertrauensrahmen-oeff
+  jurisdiktion: gr
+  kurztitel: Verwaltungspraxis der Ειδική Γραμματεία (Leitfäden, Normen, Foren)
+  offizieller_titel: Πρωτοβουλίες της Ειδικής Γραμματείας Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων
+    για την αξιόπιστη τεχνητή νοημοσύνη στον δημόσιο τομέα
+  fundstelle: Veröffentlichungen auf ai.gov.gr, Stand 04.09.2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Kein Rechtsakt, sondern die laufende Verwaltungspraxis derjenigen Stelle, die nach Άρθρα
+    21 und 22 ν. 5321/2026 das KI-Register und das Observatorium führt. Nach der Aufhebung des ΚΕΦΑΛΑΙΟ
+    Β΄ ν. 4961/2022 ist dies neben dem Register die einzige Ebene, auf der Anforderungen an Verwaltungs-KI
+    formuliert werden — und sie ist unverbindlich.
+
+    '
+  kurzbeschreibung: 'Sammeleintrag für die publizierten Aktivitäten der Ειδική Γραμματεία Τεχνητής Νοημοσύνης
+    και Διακυβέρνησης Δεδομένων. Am Rechercheschluss sichtbar: ein Hinweis auf die europäische Norm EN
+    18286:2026 zur Umsetzung der KI-VO, Online-Seminare zu KI-Anwendungen in der Justiz, das dritte Konsultationsforum
+    zu vertrauenswürdiger KI im öffentlichen Sektor, ein Leitfaden zur Datenverwaltung für Business-Intelligence-Systeme
+    der Verwaltung sowie ein allgemeinverständlicher Leitfaden «Τεχνητή Νοημοσύνη για όλους». Adressat
+    ist die Verwaltung; Sanktionen gibt es nicht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://ai.gov.gr/
+  anwendungsdaten:
+  - datum: 2026-07-29
+    was_gilt: Veröffentlichung eines Leitfadens zur Datenverwaltung für Business-Intelligence-Systeme
+      der öffentlichen Verwaltung.
+    verifiziert: true
+    quelle: https://ai.gov.gr/
+  - datum: 2026-08-06
+    was_gilt: Drittes Konsultationsforum zu vertrauenswürdiger KI im öffentlichen Sektor.
+    verifiziert: true
+    quelle: https://ai.gov.gr/
+  - datum: 2026-09-02
+    was_gilt: Hinweis auf die europäische Norm EN 18286:2026 zur Umsetzung der KI-VO und Online-Seminare
+      zu KI in der Justiz.
+    verifiziert: true
+    quelle: https://ai.gov.gr/
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - EN 18286:2026 als harmonisierte bzw. europäische Norm zur KI-VO-Umsetzung wird von der Ειδική Γραμματεία
+    aktiv verbreitet — der Übergang von nationaler Regelsetzung zu europäischer Normung ist damit auch
+    praktisch vollzogen.
+  - Leitfaden «Τεχνητή Νοημοσύνη για όλους» (Mai 2026), erarbeitet mit dem Εθνικό Συμβούλιο Έρευνας, Τεχνολογίας
+    και Καινοτομίας.
+  - Konsultationsforen zu vertrauenswürdiger KI im öffentlichen Sektor als Ersatz für die aufgehobene
+    Gremienarchitektur der Άρθρα 11 bis 13 ν. 4961/2022.
+  dokumente:
+  - datum: 2026-09-04
+    typ: uebersicht
+    titel: ai.gov.gr — Portal der Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων
+    url: https://ai.gov.gr/
+    sprache: el
+    urheber: Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων
+    verifiziert: true
+    abruf: ok
+    notiz: Amtliches Portal. Die genannten Veröffentlichungen und Termine sind dort am 04.09.2026 sichtbar
+      gewesen; Einzeldokumente wurden nicht abgerufen.
+  - datum: 2026-05-20
+    typ: leitlinie
+    titel: «Τεχνητή Νοημοσύνη για Όλους» — Leitfaden für die Allgemeinheit
+    url: https://ai.gov.gr/ai-for-all-guide/
+    sprache: el
+    urheber: Ειδική Γραμματεία Τεχνητής Νοημοσύνης και Διακυβέρνησης Δεδομένων
+    verifiziert: true
+    abruf: ok
+    notiz: Amtlicher Leitfaden ohne Rechtswirkung, Stand 20.05.2026. Sechs Abschnitte von den Grundbegriffen
+      und großen Sprachmodellen über die Interaktion mit KI-Systemen und acht Anwendungsfelder bis zu
+      verantwortungsvoller Nutzung, Glossar und Quellen; über 25 Beispiele. Eine Sekundärquelle nennt
+      zusätzlich das Εθνικό Συμβούλιο Έρευνας, Τεχνολογίας και Καινοτομίας als Mitherausgeber; das ist
+      auf der Seite selbst nicht bestätigt.
+  offene_punkte:
+  - Die Einzeldokumente des Portals wurden nicht abgerufen; nur die Übersicht.
+  - Ob die Ειδική Γραμματεία verbindliche Vorgaben für den KI-Einsatz der Verwaltung erlassen darf, ist
+    ungeklärt; ν. 5321/2026 weist ihr nur Register und Observatorium zu.
+  monitoring_quellen:
+  - https://ai.gov.gr/
+  bezug_regelwerke:
+  - gr-n-5321-2026
+  - gr-ethniki-stratigiki-tn-2025
+  letzte_pruefung: 2026-09-04

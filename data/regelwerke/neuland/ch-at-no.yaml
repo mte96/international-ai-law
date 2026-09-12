@@ -1,0 +1,2888 @@
+regelwerke:
+- id: ch-ki-regulierung-grundsatzentscheid
+  jurisdiktion: ch
+  kurztitel: Grundsatzentscheid des Bundesrates zur KI-Regulierung
+  offizieller_titel: 'Bundesratsbeschluss vom 12. Februar 2025 über die Ausrichtung der KI-Regulierung
+    in der Schweiz und über die Ratifikation des Rahmenübereinkommens des Europarats über künstliche Intelligenz
+    und Menschenrechte, Demokratie und Rechtsstaatlichkeit
+
+    '
+  fundstelle: 'Kein Erlass im Sinne der Systematischen Rechtssammlung. Beschluss des Bundesrates vom 12.02.2025,
+    gestützt auf die "Auslegeordnung zu möglichen Regulierungsansätzen für künstliche Intelligenz" des
+    BAKOM vom 11.02.2025 und auf die "Rechtliche Basisanalyse" vom 31.08.2024.
+
+    '
+  verfahrensnummer: null
+  status: verfahren
+  status_detail: 'Der Beschluss ist gefasst und der Auftrag erteilt; die Vernehmlassungsvorlage ist am
+    07.09.2026 noch nicht eröffnet. Der Bundesrat hat in der Stellungnahme zur Anfrage 26.3414 (Stand
+    21.05.2026) bestätigt, dass die Vorlage bis Ende 2026 folgt.
+
+    '
+  kurzbeschreibung: 'Der Bundesrat entschied am 12.02.2025 gegen ein KI-Querschnittsgesetz nach dem Muster
+    der EU-KI-Verordnung und für einen dreigliedrigen Ansatz: (1) Ratifikation der Rahmenkonvention des
+    Europarats über KI, (2) sektorielle Anpassung des geltenden Rechts nur dort, wo die Konvention es
+    zwingend verlangt, mit Schwerpunkt auf Transparenz, Datenschutz, Nichtdiskriminierung und Aufsicht,
+    und (3) rechtlich unverbindliche Massnahmen (Selbstverpflichtungen, Branchenlösungen, Ethikkodizes)
+    im Übrigen. Federführung für die Gesetzgebungsvorlage liegt beim EJPD (Bundesamt für Justiz), für
+    die nichtlegislativen Massnahmen beim UVEK; das EDA wirkt bei der völkerrechtlichen Seite mit. Sanktionen
+    enthält der Beschluss selbst nicht — er ist ein Planungsakt der Exekutive.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.bj.admin.ch/de/kuenstliche-intelligenz
+  anwendungsdaten:
+  - datum: 2026-12-31
+    was_gilt: 'Frist des Bundesrates an das EJPD, die Vernehmlassungsvorlage zur Umsetzung der KI-Konvention
+      zu erarbeiten; parallel Frist an das UVEK für den Plan der nichtlegislativen Massnahmen.
+
+      '
+    verifiziert: true
+    quelle: https://www.bj.admin.ch/de/kuenstliche-intelligenz
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Bewusste Absage an das EU-Modell: keine horizontale Risikoklassen- systematik, keine allgemeine Konformitätsbewertung,
+    kein KI-Marktüberwachungsregime. Statt dessen Anpassung des Sektorrechts.
+
+    '
+  - 'Der Bundesrat nennt als Regelungsbereiche ausdrücklich Transparenz, Datenschutz, Nichtdiskriminierung
+    und Aufsicht — das ist der Mindestbestand, den die Konvention des Europarats verlangt.
+
+    '
+  - 'In der Stellungnahme zur Anfrage 26.3414 hält der Bundesrat fest, dass bestimmte Vorschriften, insbesondere
+    zur Transparenz, SOWOHL IM ÖFFENTLICHEN ALS AUCH IM PRIVATEN SEKTOR gelten sollen, und dass ein "mit
+    der EU gleichwertiges Schutzniveau" angestrebt wird. Das ist der Punkt, an dem die schweizerische
+    Lösung sich der KI-VO wieder annähert, obwohl sie deren Technik nicht übernimmt.
+
+    '
+  - 'Begleitgruppe aus internen und externen Fachleuten beim BJ; am 27.10.2025 partizipative Arbeitstagung
+    mit rund 60 Vertreterinnen und Vertretern von Interessengruppen.
+
+    '
+  dokumente:
+  - datum: 2024-08-31
+    typ: bericht
+    titel: Rechtliche Basisanalyse zur Regulierung von künstlicher Intelligenz
+    url: https://www.bj.admin.ch/dam/de/sd-web/nXpT9p07Cpv8/rechtliche-analyse-ki.pdf
+    sprache: de
+    urheber: Bundesamt für Justiz (BJ)
+    verifiziert: true
+    notiz: 'Die juristische Vorarbeit: prüft, welche Bestimmungen des geltenden schweizerischen Rechts
+      KI bereits erfassen und wo Lücken bestehen. Ausgangspunkt für die Frage, was überhaupt geändert
+      werden muss.
+
+      '
+  - datum: 2025-02-11
+    typ: bericht
+    titel: 'Auslegeordnung zu möglichen Regulierungsansätzen für künstliche Intelligenz
+
+      '
+    url: https://www.bj.admin.ch/dam/de/sd-web/Bu0WALkfbp1B/ber-bakom-ki.pdf
+    sprache: de
+    urheber: Bundesamt für Kommunikation (BAKOM)
+    verifiziert: true
+    notiz: 'Das Dokument, auf dem der Grundsatzentscheid vom 12.02.2025 beruht. Vergleicht KI-VO, Europaratskonvention
+      und sektorielle Ansätze und empfiehlt den schliesslich gewählten Weg.
+
+      '
+  - datum: 2025-10-27
+    typ: bericht
+    titel: 'Bericht über die partizipative Arbeitstagung zur Umsetzung der KI-Konvention
+
+      '
+    url: https://www.bj.admin.ch/dam/de/sd-web/tzVa46EVntgV/ber-partizipative-arbeitstagung-ki-konvention.pdf
+    sprache: de
+    urheber: Bundesamt für Justiz (BJ)
+    verifiziert: true
+    notiz: 'Dokumentiert die Positionen der rund 60 beteiligten Interessen- gruppen. Wer wissen will,
+      welche Streitpunkte die Vernehmlassungsvorlage prägen werden, findet sie hier.
+
+      '
+  - datum: 2025-12-17
+    typ: bericht
+    titel: Begleitgruppe Regulierung künstlicher Intelligenz
+    url: https://www.bj.admin.ch/dam/de/sd-web/gmg1MfFiw-ab/begleitgruppe-regulierung-kuenstlicher-intelligenz.pdf
+    sprache: de
+    urheber: Bundesamt für Justiz (BJ)
+    verifiziert: true
+    notiz: Zusammensetzung und Auftrag der Begleitgruppe.
+  offene_punkte:
+  - 'Der genaue Wortlaut des Bundesratsbeschlusses vom 12.02.2025 (nicht nur die Medienmitteilung) war
+    über die amtlichen Portale nicht auffindbar; Bundesratsbeschlüsse dieser Art werden regelmässig nicht
+    im Volltext publiziert. Nachzutragen, sobald die Botschaft vorliegt.
+
+    '
+  - 'Ob die Vernehmlassungsvorlage ein einziges Mantelgesetz oder mehrere Einzelrevisionen enthalten wird,
+    ist am 07.09.2026 offen.
+
+    '
+  - 'Datum der Ratifikationsurkunde und des Inkrafttretens der Europaratskonvention für die Schweiz noch
+    nicht belegt — die Unterzeichnung ist belegt (27.03.2025), die Ratifikation setzt die Genehmigung
+    durch die Bundesversammlung voraus.
+
+    '
+  monitoring_quellen:
+  - https://www.bj.admin.ch/de/kuenstliche-intelligenz
+  - https://www.fedlex.admin.ch/de/consultation-procedures/ongoing
+  - https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.html
+  bezug_regelwerke:
+  - ch-europarat-ki-konvention
+  - ch-dsg
+  - ch-urg
+  letzte_pruefung: 2026-09-07
+- id: ch-europarat-ki-konvention
+  jurisdiktion: ch
+  kurztitel: Europarats-Rahmenübereinkommen über KI (SEV Nr. 225)
+  offizieller_titel: 'Rahmenübereinkommen des Europarats über künstliche Intelligenz und Menschenrechte,
+    Demokratie und Rechtsstaatlichkeit / Council of Europe Framework Convention on Artificial Intelligence
+    and Human Rights, Democracy and the Rule of Law
+
+    '
+  fundstelle: 'Council of Europe Treaty Series No. 225 (SEV/CETS 225). Zur Unterzeichnung aufgelegt am
+    05.09.2024 in Vilnius. Für die Schweiz noch keine SR-Nummer, da noch nicht ratifiziert.
+
+    '
+  verfahrensnummer: null
+  status: verfahren
+  status_detail: 'Die Schweiz hat das Übereinkommen am 27.03.2025 UNTERZEICHNET; eine Ratifikationsurkunde
+    ist im Vertragsbüro des Europarats am 07.09.2026 nicht verzeichnet. Die Ratifikation setzt die Genehmigung
+    durch die Bundesversammlung und zuvor die Vernehmlassung über die Umsetzungsgesetzgebung voraus (siehe
+    ch-ki-regulierung-grundsatzentscheid). Norwegen hat am 05.09.2024, dem Tag der Auflegung, unterzeichnet
+    und dabei eine Erklärung abgegeben; auch dort keine Ratifikation verzeichnet. Österreich ist als EU-Mitgliedstaat
+    im Zeichnungsverzeichnis NICHT eigenständig eingetragen — für die Bereiche der Unionszuständigkeit
+    hat die Europäische Union unterzeichnet.
+
+    '
+  kurzbeschreibung: 'Erster völkerrechtlich verbindlicher Vertrag über künstliche Intelligenz. Er verpflichtet
+    die Vertragsparteien, den gesamten Lebenszyklus von KI-Systemen mit Menschenrechten, Demokratie und
+    Rechtsstaatlichkeit in Einklang zu bringen, und verlangt namentlich Transparenz und Nachvollziehbarkeit,
+    Rechenschaftspflicht, Gleichheit und Nichtdiskriminierung, Schutz der Privatsphäre, Verlässlichkeit
+    sowie wirksame Rechtsbehelfe und Verfahrensgarantien für Betroffene. Er schreibt keine Regelungstechnik
+    vor: die Parteien sind frei, ob sie ein Querschnittsgesetz erlassen oder das bestehende Recht anpassen
+    — das ist die Öffnung, auf die sich der schweizerische Grundsatzentscheid stützt. Eigene Sanktionen
+    enthält das Übereinkommen nicht; es verlangt von den Parteien wirksame Abhilfemassnahmen und Aufsicht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=225
+  anwendungsdaten:
+  - datum: 2025-03-27
+    was_gilt: 'Unterzeichnung durch die Schweiz. Damit ist die Schweiz nach Art. 18 WVK zur Unterlassung
+      vertragswidriger Handlungen verpflichtet, aber noch nicht an die materiellen Pflichten gebunden.
+
+      '
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=225
+  - datum: 2024-09-05
+    was_gilt: Unterzeichnung durch Norwegen, mit Erklärung (D.).
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=225
+  themenachsen:
+  - grundrechte
+  - governance
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Anwendungsbereich erfasst KI-Systeme im öffentlichen Sektor zwingend; für den privaten Sektor lässt
+    Art. 3 den Parteien ein Wahlrecht zwischen unmittelbarer Anwendung und anderen geeigneten Massnahmen.
+    An dieser Stelle entscheidet sich, wie weit die schweizerische Umsetzung reichen wird; der Bundesrat
+    hat sich in der Stellungnahme zu 26.3414 für Transparenzpflichten AUCH im privaten Sektor ausgesprochen.
+
+    '
+  - 'Art. 22 (Nichtberührungsklausel) und die Ausnahmen für nationale Sicherheit, Verteidigung und Forschung
+    und Entwicklung begrenzen den Vertrag erheblich — das ist der wesentliche Unterschied zur EU-KI-Verordnung,
+    die im Anwendungsbereich enger definiert, in der Regelungsdichte aber weit schärfer ist.
+
+    '
+  dokumente:
+  - datum: 2024-09-05
+    typ: endfassung
+    titel: Council of Europe Treaty Series No. 225 — Zeichnungs- und Ratifikationsstand
+    url: https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=225
+    sprache: en
+    urheber: Europarat, Vertragsbüro
+    verifiziert: true
+    notiz: 'Amtliches Zeichnungsverzeichnis. Einzige Quelle, aus der sich Unterzeichnung und Ratifikation
+      je Staat belegen lassen.
+
+      '
+  offene_punkte:
+  - 'Datum des Inkrafttretens des Übereinkommens insgesamt konnte aus dem Zeichnungsverzeichnis nicht
+    sicher ausgelesen werden (die Zeile "Entry into force" war im gerenderten Text nicht erfasst). Nachzutragen
+    aus dem Vertragsbüro des Europarats.
+
+    '
+  - 'Inhalt der norwegischen Erklärung ("D.") zum Zeitpunkt der Unterzeichnung nicht ausgelesen; im Vertragsbüro
+    unter "Declarations" nachzutragen.
+
+    '
+  monitoring_quellen:
+  - https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=225
+  bezug_regelwerke:
+  - ch-ki-regulierung-grundsatzentscheid
+  - no-ki-loven
+  letzte_pruefung: 2026-09-07
+- id: ch-dsg
+  jurisdiktion: ch
+  kurztitel: Datenschutzgesetz (DSG), revidierte Fassung
+  offizieller_titel: Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)
+  fundstelle: 'SR 235.1; AS 2022 491. Fassung: Stand am 1. September 2023.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.09.2023 (Totalrevision; ersetzt das DSG von 1992). Fassung am 07.09.2026
+    unverändert "Stand am 1. September 2023".
+
+    '
+  kurzbeschreibung: 'Das zentrale Gesetz, an dem KI-Fälle in der Schweiz tatsächlich entschieden werden.
+    Es regelt die Bearbeitung von Personendaten durch private Personen und Bundesorgane, kennt Grundsätze
+    (Art. 6), Informationspflichten (Art. 19 ff.), Auskunftsrecht (Art. 25), Datenschutz-Folgenabschätzung
+    (Art. 22) und — für KI entscheidend — Art. 21 zur automatisierten Einzelentscheidung. Sanktioniert
+    wird nicht durch Verwaltungsbussen wie in der DSGVO, sondern über Art. 60 ff. strafrechtlich: Busse
+    bis 250 000 Franken gegen die VERANTWORTLICHE NATÜRLICHE PERSON, auf Antrag. Das ist der praktisch
+    wichtigste Unterschied zur DSGVO und macht das Schweizer Datenschutzrecht für Unternehmen weniger,
+    für Einzelpersonen deutlich riskanter.
+
+    '
+  inkrafttreten:
+    datum: 2023-09-01
+    verifiziert: true
+    quelle: https://www.fedlex.admin.ch/eli/cc/2022/491/de
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 21: Informationspflicht bei einer automatisierten Einzelentscheidung. Die Schweiz hat sich damit
+    ausdrücklich GEGEN das Modell des Art. 22 DSGVO entschieden: Es gibt KEIN grundsätzliches Verbot automatisierter
+    Einzelentscheidungen mit Erlaubnisvorbehalt, sondern eine Informations- und eine Überprüfungspflicht.
+    Die betroffene Person kann verlangen, dass die Entscheidung "von einer natürlichen Person überprüft
+    wird" (Abs. 2). Ausnahmen in Abs. 3 für Vertragsabwicklung mit Stattgabe des Begehrens und für ausdrückliche
+    Einwilligung.
+
+    '
+  - 'Art. 21 Abs. 4: Bundesorgane müssen die automatisierte Einzelentscheidung KENNZEICHNEN. Das Recht
+    auf menschliche Überprüfung entfällt, soweit nach Art. 30 Abs. 2 VwVG oder einem anderen Bundesgesetz
+    keine vorgängige Anhörung nötig ist. Das ist die schweizerische Nahtstelle zwischen Datenschutz- und
+    Verwaltungsverfahrensrecht.
+
+    '
+  - 'Art. 22: Datenschutz-Folgenabschätzung bei hohem Risiko, namentlich bei Einsatz neuer Technologien;
+    Art. 23: Konsultation des EDÖB, wenn das Restrisiko hoch bleibt. Das ist der Hebel, über den der EDÖB
+    KI-Vorhaben vorab zu sehen bekommt.
+
+    '
+  - 'Art. 60 ff.: Strafbestimmungen. Vorsätzliche Verletzung von Informations-, Auskunfts- und Sorgfaltspflichten,
+    Busse bis 250 000 Franken, Antragsdelikt, gerichtet gegen die verantwortliche natürliche Person (Art.
+    64 regelt die Zurechnung im Unternehmen).
+
+    '
+  dokumente:
+  - datum: 2023-09-01
+    typ: konsolidiert
+    titel: SR 235.1 — Datenschutzgesetz, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/2022/491/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Amtlicher konsolidierter Text, Stand am 1. September 2023.
+  offene_punkte:
+  - 'Ob die KI-Umsetzungsvorlage Art. 21 DSG ändert (z.B. Ausweitung auf teilautomatisierte Entscheidungen
+    oder Begründungspflicht), ist offen und einer der wichtigsten Beobachtungspunkte.
+
+    '
+  monitoring_quellen:
+  - https://www.edoeb.admin.ch/
+  - https://www.fedlex.admin.ch/eli/cc/2022/491/de
+  bezug_regelwerke:
+  - ch-dsv
+  - ch-ki-regulierung-grundsatzentscheid
+  - ch-embag
+  letzte_pruefung: 2026-09-07
+- id: ch-dsv
+  jurisdiktion: ch
+  kurztitel: Datenschutzverordnung (DSV)
+  offizieller_titel: Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordnung, DSV)
+  fundstelle: 'SR 235.11. Fassung: Stand am 1. Dezember 2025.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.09.2023 zusammen mit dem DSG; seither geändert, Fassung am 07.09.2026
+    "Stand am 1. Dezember 2025".
+
+    '
+  kurzbeschreibung: 'Ausführungsrecht zum DSG. Konkretisiert die Mindestanforderungen an die Datensicherheit,
+    die Modalitäten des Auskunftsrechts, die Führung des Verzeichnisses der Bearbeitungstätigkeiten, die
+    Bekanntgabe ins Ausland und die Aufgaben des EDÖB. Für KI-Anwendungen relevant vor allem über die
+    Datensicherheitsanforderungen und die Protokollierungs- pflichten, die bei automatisierten Bearbeitungen
+    greifen.
+
+    '
+  inkrafttreten:
+    datum: 2023-09-01
+    verifiziert: false
+    quelle: https://www.fedlex.admin.ch/eli/cc/2022/568/de
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Protokollierungspflicht: Bei automatisierter Bearbeitung besonders schützenswerter Personendaten
+    in grossem Umfang bzw. bei Profiling mit hohem Risiko ist zu protokollieren; das ist die Norm, über
+    die sich die Nachvollziehbarkeit einer KI-gestützten Bearbeitung im Streitfall belegen lässt.
+
+    '
+  - 'Konkretisierung der Datensicherheit (Vertraulichkeit, Verfügbarkeit, Integrität, Nachvollziehbarkeit)
+    — Prüfmassstab auch für KI-Systeme.
+
+    '
+  dokumente:
+  - datum: 2025-12-01
+    typ: konsolidiert
+    titel: SR 235.11 — Datenschutzverordnung, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/2022/568/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Stand am 1. Dezember 2025.
+  offene_punkte:
+  - 'Die genauen Artikelnummern der Protokollierungs- und Datensicherheitsvorschriften sind nicht einzeln
+    am Text abgeglichen worden; nur Titel, SR-Nummer und Fassungsdatum sind verifiziert.
+
+    '
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/2022/568/de
+  bezug_regelwerke:
+  - ch-dsg
+  letzte_pruefung: 2026-09-07
+- id: ch-urg
+  jurisdiktion: ch
+  kurztitel: Urheberrechtsgesetz (URG) — Art. 24d als Schweizer TDM-Schranke
+  offizieller_titel: 'Bundesgesetz vom 9. Oktober 1992 über das Urheberrecht und verwandte Schutzrechte
+    (Urheberrechtsgesetz, URG)
+
+    '
+  fundstelle: 'SR 231.1. Fassung: Stand am 1. Juli 2025.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Die für KI entscheidende Vorschrift, Art. 24d, ist durch die URG-Revision
+    vom 27.09.2019 eingefügt worden und seit 01.04.2020 in Kraft (AS 2020 1003; BBl 2018 591).
+
+    '
+  kurzbeschreibung: 'Das schweizerische Urheberrecht kennt KEINE der EU-DSM-Richtlinie entsprechende zweistufige
+    TDM-Schranke. Art. 24d erlaubt die Vervielfältigung eines Werks NUR "zum Zweck der wissenschaftlichen
+    Forschung", und nur wenn die Vervielfältigung technisch bedingt ist und rechtmässiger Zugang besteht.
+    Es gibt weder eine allgemeine TDM-Schranke für kommerzielle Zwecke noch einen maschinenlesbaren Nutzungsvorbehalt
+    (Opt-out) wie in Art. 4 DSM-RL. Für das Training kommerzieller KI-Modelle auf urheberrechtlich geschützten
+    Werken besteht in der Schweiz damit KEINE gesetzliche Erlaubnis — das ist der praktisch wichtigste
+    Unterschied zum EU-Recht und der Punkt, an dem Schweizer Sachverhalte anders zu beurteilen sind als
+    deutsche (§ 44b UrhG) oder österreichische (§ 42h UrhG).
+
+    '
+  inkrafttreten:
+    datum: 2020-04-01
+    verifiziert: true
+    quelle: https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de
+  anwendungsdaten:
+  - datum: 2020-04-01
+    was_gilt: Art. 24d URG (Verwendung von Werken zum Zweck der wissenschaftlichen Forschung) tritt in
+      Kraft.
+    verifiziert: true
+    quelle: https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - 'Art. 24d Abs. 1: Zulässig ist die Vervielfältigung "zum Zweck der wissenschaftlichen Forschung",
+    wenn sie "durch die Anwendung eines technischen Verfahrens bedingt ist" und "zu den zu vervielfältigenden
+    Werken ein rechtmässiger Zugang besteht". Zwei kumulative Voraussetzungen, beide eng.
+
+    '
+  - 'Art. 24d Abs. 2: Die Vervielfältigungen dürfen nach Abschluss der Forschung zu Archivierungs- und
+    Sicherungszwecken aufbewahrt werden. Damit ist die Frage der Weiterverwendung eines einmal erstellten
+    Trainingskorpus jedenfalls nicht abschliessend gelöst.
+
+    '
+  - 'Art. 24d Abs. 3: Gilt NICHT für die Vervielfältigung von Computerprogrammen. Für das Training auf
+    Quellcode besteht also auch die wissenschaftliche Schranke nicht.
+
+    '
+  - 'Kein Opt-out-Mechanismus und keine Vergütungspflicht: Die Schweiz hat die Konstruktion der DSM-Richtlinie
+    bewusst nicht übernommen. Wer ausserhalb der Forschung trainiert, braucht eine Lizenz.
+
+    '
+  dokumente:
+  - datum: 2025-07-01
+    typ: konsolidiert
+    titel: SR 231.1 — Urheberrechtsgesetz, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Stand am 1. Juli 2025. Art. 24d im Volltext gelesen.
+  offene_punkte:
+  - 'Ob im Rahmen der KI-Vorlage eine Erweiterung der TDM-Schranke geplant ist, liess sich am 07.09.2026
+    nicht belegen. Die Auslegeordnung des BAKOM behandelt das Urheberrecht; ob daraus ein Änderungsvorschlag
+    folgt, ist offen.
+
+    '
+  - 'Ob Art. 24d auf das Training generativer Modelle überhaupt passt (Vervielfältigung "durch die Anwendung
+    eines technischen Verfahrens bedingt"), ist in der Schweiz noch nicht gerichtlich geklärt.
+
+    '
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de
+  - https://www.ige.ch/
+  bezug_regelwerke:
+  - at-urhg
+  - no-aandsverkloven
+  letzte_pruefung: 2026-09-07
+- id: ch-stgb
+  jurisdiktion: ch
+  kurztitel: Schweizerisches Strafgesetzbuch (StGB) — Bild- und Persönlichkeitsschutz
+  offizieller_titel: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
+  fundstelle: 'SR 311.0. Fassung: Stand am 12. Juni 2026.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht, Fassung Stand am 12.06.2026. Ein eigener Deepfake-Straftatbestand ist
+    am 07.09.2026 NICHT in Kraft; die einschlägigen Sachverhalte werden über die Tatbestände des Schutzes
+    des Geheim- und Privatbereichs (Art. 179 ff.), der Ehrverletzung (Art. 173 ff.), der Pornografie (Art.
+    197) und des Betrugs (Art. 146) erfasst.
+
+    '
+  kurzbeschreibung: 'Für KI-Sachverhalte sind vier Normengruppen einschlägig: Art. 179 ff. (Verletzung
+    des Geheim- oder Privatbereichs, insbesondere Art. 179quater für Bildaufnahmen), Art. 173 ff. (Ehrverletzung,
+    für rufschädigende Deepfakes), Art. 197 (Pornografie, für sexualisierte Deepfakes, mit besonderer
+    Schärfe bei Darstellungen mit Minderjährigen) und Art. 146 (Betrug, für Stimmklon- und Identitätsbetrug).
+    Die Schwäche des geltenden Rechts liegt darin, dass Art. 179quater eine AUFNAHME einer tatsächlichen
+    Begebenheit voraussetzt — ein synthetisch erzeugtes Bild ist keine Aufnahme einer Tatsache aus dem
+    Privatbereich. Genau an dieser Lücke setzt die politische Debatte an.
+
+    '
+  inkrafttreten:
+    datum: 1942-01-01
+    verifiziert: false
+    quelle: https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 179quater: Strafbar ist, wer eine Tatsache aus dem Geheimbereich oder eine nicht ohne weiteres
+    zugängliche Tatsache aus dem Privatbereich eines anderen ohne dessen Einwilligung "mit einem Aufnahmegerät
+    beobachtet oder auf einen Bildträger aufnimmt"; ebenso das Auswerten, Bekanntgeben, Aufbewahren und
+    Zugänglichmachen solcher Aufnahmen. Freiheitsstrafe bis zu drei Jahren oder Geldstrafe, ANTRAGSDELIKT.
+    Der Wortlaut setzt eine reale Aufnahme voraus und erfasst rein synthetische Bilder nicht.
+
+    '
+  - 'Zivilrechtlich tritt Art. 28 ZGB (Schutz der Persönlichkeit, Recht am eigenen Bild) daneben; er ist
+    in der Schweiz der praktisch wichtigere Hebel gegen Deepfakes, weil er keine reale Aufnahme voraussetzt.
+
+    '
+  dokumente:
+  - datum: 2026-06-12
+    typ: konsolidiert
+    titel: SR 311.0 — Schweizerisches Strafgesetzbuch, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Stand am 12. Juni 2026. Art. 179quater im Volltext gelesen.
+  offene_punkte:
+  - 'Ob und in welcher Form ein Deepfake-Straftatbestand kommt, war am 07.09.2026 offen. Sekundärquellen
+    (Medienberichterstattung vom 28.08.2026) berichten, der Bundesrat prüfe eine Gesetzesänderung zu sexualisierten
+    Deepfakes und das Parlament diskutiere einen neuen Straftatbestand. Ein amtlicher Beleg (Geschäftsnummer,
+    Botschaft, Vernehmlassungsvorlage) konnte NICHT gefunden werden. Das ist der erste Punkt, den der
+    nächste Bearbeiter in Curia Vista (parlament.ch) verifizieren sollte.
+
+    '
+  - 'Das Inkrafttretensdatum des StGB (1942) ist nicht am Text belegt, sondern allgemein bekannt; deshalb
+    verifiziert: false.
+
+    '
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de
+  - https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista
+  bezug_regelwerke:
+  - ch-stgb-cybermobbing
+  - ch-zgb
+  letzte_pruefung: 2026-09-07
+- id: ch-stgb-cybermobbing
+  jurisdiktion: ch
+  kurztitel: Neuer Straftatbestand Cybermobbing (StGB-Änderung, in Vernehmlassung)
+  offizieller_titel: 'Neuer Straftatbestand Cybermobbing — Änderung des Schweizerischen Strafgesetzbuches.
+    Vorentwurf und erläuternder Bericht der Kommission für Rechtsfragen des Nationalrates
+
+    '
+  fundstelle: Vernehmlassungsvorlage, fedlex-Projektnummer 2026/52 (ELI dl/proj/2026/52/cons_1).
+  verfahrensnummer: Kommission für Rechtsfragen des Nationalrates (RK-N)
+  status: entwurf
+  status_detail: 'Vernehmlassung am 27.05.2026 eröffnet, Frist 17.09.2026 — am 07.09.2026 also LAUFEND
+    und in zehn Tagen ablaufend. Kommissionsvorlage, keine Bundesratsvorlage.
+
+    '
+  kurzbeschreibung: 'Die Rechtskommission des Nationalrates will das strafrechtliche Instrumentarium gegen
+    Mobbing und Cybermobbing verstärken und den Schutz betroffener Personen verbessern. Die Vorlage betrifft
+    Deepfakes nicht ausdrücklich, ist aber die einzige am Stichtag laufende strafrechtliche Vernehmlassung
+    im Umfeld digitaler Persönlichkeitsverletzungen und deshalb der wahrscheinlichste Anknüpfungspunkt,
+    an dem ein Deepfake-Tatbestand im parlamentarischen Verfahren angehängt werden könnte.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.admin.ch/de/newnsb/mEoKAr7v_nb0uc8IIu03A
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - Neuer Straftatbestand für Mobbing und Cybermobbing im StGB.
+  - 'Abgrenzung zu den bestehenden Tatbeständen der Ehrverletzung (Art. 173 ff.) und des Schutzes des
+    Privatbereichs (Art. 179 ff.).
+
+    '
+  dokumente:
+  - datum: 2026-05-27
+    typ: konsultation
+    titel: 'Vernehmlassungseröffnung: Neuer Straftatbestand Cybermobbing'
+    url: https://www.admin.ch/de/newnsb/mEoKAr7v_nb0uc8IIu03A
+    sprache: de
+    urheber: Kommission für Rechtsfragen des Nationalrates
+    verifiziert: true
+    notiz: Medienmitteilung zur Vernehmlassungseröffnung mit Fristangabe.
+  - datum: 2026-05-27
+    typ: entwurf
+    titel: Vernehmlassungsunterlagen, fedlex-Projekt 2026/52
+    url: https://fedlex.data.admin.ch/eli/dl/proj/2026/52/cons_1
+    sprache: de
+    urheber: Kommission für Rechtsfragen des Nationalrates
+    verifiziert: false
+    notiz: 'ELI der Vernehmlassungsunterlagen, aus der Medienmitteilung entnommen; die Zielseite selbst
+      ist in dieser Sitzung nicht abgerufen worden.
+
+      '
+  offene_punkte:
+  - Vorentwurfstext und erläuternder Bericht nicht im Volltext gelesen.
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/de/consultation-procedures/ongoing
+  bezug_regelwerke:
+  - ch-stgb
+  letzte_pruefung: 2026-09-07
+- id: ch-uwg
+  jurisdiktion: ch
+  kurztitel: Bundesgesetz gegen den unlauteren Wettbewerb (UWG)
+  offizieller_titel: Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb (UWG)
+  fundstelle: 'SR 241. Fassung: Stand am 1. Januar 2025.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Der Gesetzestext enthält am 07.09.2026 KEINE Erwähnung von künstlicher
+    Intelligenz (Volltextprüfung am konsolidierten Text durchgeführt).
+
+    '
+  kurzbeschreibung: 'Das UWG ist in der Schweiz der Hebel gegen irreführende KI-Werbung, gegen unlautere
+    Chatbots und gegen die Verwendung synthetischer Inhalte im geschäftlichen Verkehr. Zentral ist die
+    Generalklausel des Art. 2 (unlauter ist jedes täuschende oder gegen Treu und Glauben verstossende
+    Verhalten, das das Verhältnis zwischen Mitbewerbern oder zwischen Anbietern und Abnehmern beeinflusst)
+    und der Katalog des Art. 3 Abs. 1, insbesondere die Irreführungstatbestände. Verstösse sind nach Art.
+    23 auf Antrag strafbar (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe); daneben stehen die zivilrechtlichen
+    Ansprüche nach Art. 9 ff.
+
+    '
+  inkrafttreten:
+    datum: 1988-03-01
+    verifiziert: false
+    quelle: https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/de
+  anwendungsdaten: []
+  themenachsen:
+  - wettbewerb
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Art. 2 Generalklausel — auffangfähig für KI-Sachverhalte, für die es keinen speziellen Tatbestand
+    gibt (z.B. nicht offengelegter Einsatz eines Chatbots als vermeintlicher Mensch).
+
+    '
+  - 'Art. 3 Abs. 1 lit. b: unrichtige oder irreführende Angaben über sich, seine Waren oder Leistungen
+    — der Tatbestand für "KI-gewaschene" Produktversprechen (AI-Washing).
+
+    '
+  - 'KEINE Kennzeichnungspflicht für KI-erzeugte Inhalte im schweizerischen Lauterkeitsrecht. Die Transparenzpflicht
+    des Art. 50 KI-VO hat in der Schweiz kein Gegenstück; ob eine solche Pflicht über die Umsetzung der
+    Europaratskonvention eingeführt wird, ist der zu beobachtende Punkt.
+
+    '
+  dokumente:
+  - datum: 2025-01-01
+    typ: konsolidiert
+    titel: SR 241 — UWG, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: 'Stand am 1. Januar 2025. Volltext auf den Begriff "künstliche Intelligenz" geprüft — kommt
+      nicht vor.
+
+      '
+  offene_punkte:
+  - 'Inkrafttretensdatum 01.03.1988 nicht am Text belegt; deshalb verifiziert: false.
+
+    '
+  - 'Ob das SECO (zuständig für die Lauterkeitsaufsicht nach Art. 10 Abs. 3 UWG) zu KI-Werbung Praxis
+    gebildet hat, ist nicht geprüft.
+
+    '
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/de
+  - https://www.seco.admin.ch/
+  bezug_regelwerke:
+  - ch-ki-regulierung-grundsatzentscheid
+  letzte_pruefung: 2026-09-07
+- id: ch-embag
+  jurisdiktion: ch
+  kurztitel: EMBAG — elektronische Mittel zur Erfüllung von Behördenaufgaben
+  offizieller_titel: 'Bundesgesetz vom 17. März 2023 über den Einsatz elektronischer Mittel zur Erfüllung
+    von Behördenaufgaben (EMBAG)
+
+    '
+  fundstelle: 'SR 172.019. Fassung: Stand am 1. Mai 2025.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.01.2024. Fassung am 07.09.2026 "Stand am 1. Mai 2025".
+
+    '
+  kurzbeschreibung: 'Das EMBAG ist die Rechtsgrundlage für den digitalen Verwaltungsvollzug des Bundes
+    und damit der Rahmen, in dem KI in der Bundesverwaltung eingesetzt wird. Es regelt die elektronische
+    Aufgabenerfüllung, die Zusammenarbeit von Bund und Kantonen bei digitalen Verwaltungs- leistungen,
+    den Betrieb gemeinsamer Infrastrukturen sowie — als international beachtete Besonderheit — den GRUNDSATZ
+    "Open Source by default" für Software, die der Bund entwickeln oder entwickeln lassen darf, und die
+    Pflicht zur Bereitstellung von Behördendaten als Open Government Data. Für KI ist das doppelt relevant:
+    als Ermächtigungsgrundlage für den Einsatz automatisierter Systeme und als Quelle offener Trainingsdaten.
+
+    '
+  inkrafttreten:
+    datum: 2024-01-01
+    verifiziert: false
+    quelle: https://www.fedlex.admin.ch/eli/cc/2023/682/de
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Offenlegung des Quellcodes von Bundessoftware ("Open Source by default") — eine im internationalen
+    Vergleich seltene gesetzliche Pflicht, die auch für KI-Komponenten des Bundes gilt, soweit keine Ausnahme
+    greift.
+
+    '
+  - 'Open Government Data: Behördendaten sind grundsätzlich maschinen- lesbar und kostenlos zur Verfügung
+    zu stellen. Das ist die Rechtsgrundlage, auf der Trainingsdaten aus der Bundesverwaltung zugänglich
+    sind.
+
+    '
+  - 'Rechtsgrundlage für Pilotversuche mit neuen Technologien in der Bundesverwaltung — der Weg, auf dem
+    KI-Anwendungen vor einer dauerhaften gesetzlichen Regelung erprobt werden.
+
+    '
+  dokumente:
+  - datum: 2025-05-01
+    typ: konsolidiert
+    titel: SR 172.019 — EMBAG, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/2023/682/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Stand am 1. Mai 2025.
+  offene_punkte:
+  - 'Die genauen Artikelnummern für Open Source, OGD und Pilotversuche sind nicht einzeln am Text abgeglichen
+    worden; Titel, SR-Nummer und Fassungsdatum sind verifiziert, die inhaltliche Zuordnung beruht auf
+    der Gesetzessystematik und ist am Volltext nachzuprüfen.
+
+    '
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/2023/682/de
+  - https://www.bk.admin.ch/
+  bezug_regelwerke:
+  - ch-dsg
+  - ch-isg
+  letzte_pruefung: 2026-09-07
+- id: ch-isg
+  jurisdiktion: ch
+  kurztitel: Informationssicherheitsgesetz (ISG)
+  offizieller_titel: 'Bundesgesetz vom 18. Dezember 2020 über die Informationssicherheit beim Bund (Informationssicherheitsgesetz,
+    ISG)
+
+    '
+  fundstelle: 'SR 128. Fassung: Stand am 1. Oktober 2025.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.01.2024; die Meldepflicht für Cyberangriffe auf kritische Infrastrukturen
+    ist später in Kraft gesetzt worden. Fassung am 07.09.2026 "Stand am 1. Oktober 2025".
+
+    '
+  kurzbeschreibung: 'Einheitliche Rechtsgrundlage für die Informationssicherheit beim Bund: Risikomanagement,
+    Klassifizierung von Informationen, Sicherheit beim Einsatz von Informatikmitteln, Personensicherheitsprüfungen,
+    Betriebssicherheitsverfahren, und die Meldepflicht für Cyberangriffe auf kritische Infrastrukturen
+    gegenüber dem Bundesamt für Cybersicherheit (BACS). Für KI ist das ISG der Rahmen, in dem Sicherheitsanforderungen
+    an KI-Systeme des Bundes und an ihre Zulieferer verankert sind.
+
+    '
+  inkrafttreten:
+    datum: 2024-01-01
+    verifiziert: false
+    quelle: https://www.fedlex.admin.ch/eli/cc/2022/232/de
+  anwendungsdaten: []
+  themenachsen:
+  - sicherheit-export
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Meldepflicht für Cyberangriffe auf kritische Infrastrukturen an das BACS — der schweizerische Gegenpart
+    zur NIS-2-Meldepflicht, ohne deren Aufsichts- und Sanktionsdichte.
+
+    '
+  - 'Sicherheitsanforderungen an Informatikmittel des Bundes; über die Beschaffung wirken sie auf Anbieter
+    von KI-Systemen durch.
+
+    '
+  dokumente:
+  - datum: 2025-10-01
+    typ: konsolidiert
+    titel: SR 128 — Informationssicherheitsgesetz, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/2022/232/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Stand am 1. Oktober 2025.
+  offene_punkte:
+  - 'Datum des Inkrafttretens der Meldepflicht für Cyberangriffe nicht am Text belegt; nachzutragen aus
+    der Inkraftsetzungsverordnung.
+
+    '
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/2022/232/de
+  - https://www.ncsc.admin.ch/
+  bezug_regelwerke:
+  - ch-embag
+  letzte_pruefung: 2026-09-07
+- id: ch-finma-am-08-2024
+  jurisdiktion: ch
+  kurztitel: FINMA-Aufsichtsmitteilung 08/2024 zu KI
+  offizieller_titel: 'FINMA-Aufsichtsmitteilung 08/2024: Governance und Risikomanagement beim Einsatz
+    von künstlicher Intelligenz
+
+    '
+  fundstelle: FINMA-Aufsichtsmitteilung 08/2024 vom 18. Dezember 2024.
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Veröffentlicht am 18.12.2024, gilt fort. Aufsichtsmitteilungen sind keine Rechtsnormen;
+    sie legen dar, wie die FINMA das geltende Aufsichtsrecht auslegt und was sie in der laufenden Aufsicht
+    beobachtet. Aufsichtsrechtlich sind sie gleichwohl massgeblich, weil die FINMA daran ihre Prüfungen
+    ausrichtet.
+
+    '
+  kurzbeschreibung: 'Die erste förmliche Äusserung der schweizerischen Finanzmarktaufsicht zu KI. Adressiert
+    sind die Beaufsichtigten (Banken, Versicherungen, Vermögensverwalter, Fondsleitungen). Die FINMA verlangt,
+    dass die mit KI verbundenen spezifischen Risiken identifiziert, begrenzt und überwacht werden, und
+    benennt dafür vier Risikofelder: operationelle Risiken einschliesslich Modellrisiko, mangelnder Robustheit
+    und Bias; datenbezogene Risiken (Sicherheit, Qualität, Verfügbarkeit); IT- und Cyberrisiken sowie
+    Abhängigkeiten von Drittanbietern; sowie Rechts- und Reputationsrisiken. Kernaussage für die Praxis:
+    die Verantwortung für KI-gestützte Entscheidungen bleibt beim beaufsichtigten Institut und lässt sich
+    nicht auf einen Anbieter auslagern.
+
+    '
+  inkrafttreten:
+    datum: 2024-12-18
+    verifiziert: true
+    quelle: https://www.finma.ch/de/news/2024/12/20241218-mm-finma-am-08-24/
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Governance: klare Zuständigkeiten und Verantwortlichkeiten für KI-Einsatz auf Leitungsebene.'
+  - Inventar der eingesetzten KI-Anwendungen und Klassifizierung nach Kritikalität.
+  - 'Modellrisikomanagement: Tests, Validierung, laufende Überwachung, Erklärbarkeit.'
+  - 'Auslagerung: die Verantwortung bleibt beim Institut; Drittanbieterrisiken sind zu steuern.'
+  dokumente:
+  - datum: 2024-12-18
+    typ: leitlinie
+    titel: FINMA-Aufsichtsmitteilung 08/2024 (PDF)
+    url: https://www.finma.ch/de/~/media/finma/dokumente/dokumentencenter/myfinma/4dokumentation/finma-aufsichtsmitteilungen/20241218-finma-aufsichtsmitteilung-08-2024.pdf
+    sprache: de
+    urheber: Eidgenössische Finanzmarktaufsicht FINMA
+    verifiziert: false
+    notiz: 'PDF-Adresse aus der Medienmitteilung der FINMA übernommen; das PDF selbst ist in dieser Sitzung
+      nicht geöffnet worden.
+
+      '
+  - datum: 2024-12-18
+    typ: pressemitteilung
+    titel: FINMA-Aufsichtsmitteilung zu Governance und Risikomanagement beim Einsatz von KI
+    url: https://www.finma.ch/de/news/2024/12/20241218-mm-finma-am-08-24/
+    sprache: de
+    urheber: Eidgenössische Finanzmarktaufsicht FINMA
+    verifiziert: true
+    notiz: Amtliche Medienmitteilung mit Zusammenfassung der vier Risikofelder.
+  offene_punkte:
+  - 'Ob die FINMA seit Dezember 2024 eine weitere KI-Äusserung veröffentlicht hat (Rundschreiben, Aufsichtsmitteilung,
+    Risikomonitor), ist nicht abschliessend geprüft. Der FINMA-Risikomonitor erscheint jährlich im November
+    und ist der wahrscheinlichste Fundort.
+
+    '
+  monitoring_quellen:
+  - https://www.finma.ch/de/dokumentation/finma-aufsichtsmitteilungen/
+  bezug_regelwerke:
+  - ch-ki-regulierung-grundsatzentscheid
+  letzte_pruefung: 2026-09-07
+- id: at-ki-servicestelle-kog-tkg
+  jurisdiktion: at
+  kurztitel: KI-Servicestelle bei der RTR (§ 20c KOG, § 194a TKG 2021)
+  offizieller_titel: 'Bundesgesetz, mit dem das KommAustria-Gesetz und das Telekommunikationsgesetz 2021
+    geändert werden (Einrichtung einer Servicestelle für Künstliche Intelligenz und eines Beirats für
+    Künstliche Intelligenz bei der Rundfunk und Telekom Regulierungs-GmbH)
+
+    '
+  fundstelle: BGBl. I Nr. 6/2024, ausgegeben am 26. Februar 2024.
+  verfahrensnummer: BGBl. I Nr. 6/2024
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.01.2024 (rückwirkende Inkraftsetzung; Kundmachung 26.02.2024). Die
+    KI-Servicestelle hat ihren Betrieb am 01.02.2024 aufgenommen. Damit hatte Österreich eine KI-Anlaufstelle,
+    BEVOR die KI-Verordnung in Kraft trat.
+
+    '
+  kurzbeschreibung: 'Österreich hat die institutionelle Vorbereitung auf die KI-Verordnung über eine Novelle
+    zweier Regulierungsgesetze geregelt. § 20c KOG beauftragt die RTR-GmbH mit dem Betrieb einer "Servicestelle
+    für Künstliche Intelligenz": Information, Web-Leitfäden und Best Practices für den Medienbereich,
+    Beratung öffentlicher und privater Rechtsträger, Studien und Analysen, Publikationen, Fachveranstaltungen
+    und ein Informationsportal für KI-Projekte. Daneben wird ein elfköpfiger "Beirat für Künstliche Intelligenz"
+    eingerichtet, dessen Mitglieder vom Bundeskanzler und vom Finanzminister bestellt werden. Finanziert
+    wird die Servicestelle mit jährlich 700 000 Euro aus dem Bundeshaushalt (Auszahlung per 31. Jänner),
+    ab 2026 inflationsangepasst. § 194a TKG 2021 ergänzt das um Beratungsleistungen zu regulatorischen
+    Rahmenbedingungen, technischer Dokumentation von KI-Systemen, Cybersicherheitsauswirkungen und KI
+    in Hochrisikobereichen. Eigene Sanktionsbefugnisse hat die Servicestelle NICHT — sie ist Service-
+    und Informationsstelle, keine Marktüberwachungsbehörde.
+
+    '
+  inkrafttreten:
+    datum: 2024-01-01
+    verifiziert: true
+    quelle: https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2024_I_6/BGBLA_2024_I_6.html
+  anwendungsdaten:
+  - datum: 2024-02-01
+    was_gilt: Betriebsaufnahme der KI-Servicestelle bei der RTR-GmbH.
+    verifiziert: true
+    quelle: https://www.rtr.at/rtr/service/ki-servicestelle/ki-servicestelle.de.html
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - '§ 20c KOG: Aufgabenkatalog der KI-Servicestelle. Kein Vollzugsauftrag, kein Bescheidrecht — bewusst
+    als Service- und Informationsstelle konstruiert, damit sie vor Geltung der KI-VO arbeiten konnte.
+
+    '
+  - '§ 20c KOG: Beirat für Künstliche Intelligenz, 11 Mitglieder, Bestellung durch Bundeskanzler und Finanzminister,
+    angesiedelt bei der RTR. Vertreten sind Universitäten, Industrie und Zivilgesellschaft.
+
+    '
+  - 'Finanzierung 700 000 Euro jährlich aus dem Bundeshaushalt, ab 2026 valorisiert. Das ist eine im europäischen
+    Vergleich ungewöhnlich transparente Budgetregelung für eine KI-Stelle.
+
+    '
+  - '§ 194a TKG 2021: Beratung zu technischer Dokumentation von KI-Systemen und zu KI in Hochrisikobereichen
+    — die inhaltliche Brücke zur KI-Verordnung.
+
+    '
+  dokumente:
+  - datum: 2024-02-26
+    typ: endfassung
+    titel: BGBl. I Nr. 6/2024 (authentische Fassung)
+    url: https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2024_I_6/BGBLA_2024_I_6.html
+    sprache: de
+    urheber: Bundeskanzleramt, Rechtsinformationssystem des Bundes
+    verifiziert: true
+    notiz: 'Authentische Kundmachung. Enthält den Wortlaut der neuen § 20c KOG und § 194a TKG 2021.
+
+      '
+  - datum: 2024-02-01
+    typ: uebersicht
+    titel: KI-Servicestelle der RTR — Aufgaben und Rechtsgrundlage
+    url: https://www.rtr.at/rtr/service/ki-servicestelle/ki-servicestelle.de.html
+    sprache: de
+    urheber: Rundfunk und Telekom Regulierungs-GmbH (RTR)
+    verifiziert: true
+    notiz: 'Amtliche Selbstdarstellung; nennt Rechtsgrundlage (§ 20c KOG, § 194a TKG, BGBl. I Nr. 6/2024)
+      und Startdatum 01.02.2024.
+
+      '
+  offene_punkte:
+  - 'Ob die KI-Servicestelle inzwischen zusätzlich als "zentrale Anlaufstelle" bzw. als Teil der Marktüberwachungsstruktur
+    nach Art. 70 KI-VO benannt worden ist, war am 07.09.2026 nicht abschliessend zu belegen — siehe at-ki-durchfuehrung.
+
+    '
+  monitoring_quellen:
+  - https://www.rtr.at/rtr/service/ki-servicestelle/
+  - https://www.ris.bka.gv.at/Bundesrecht/
+  bezug_regelwerke:
+  - at-ki-durchfuehrung
+  - at-ki-governance
+  letzte_pruefung: 2026-09-07
+  pruefvermerk:
+  - '07.09.2026 ueber die RIS-Schnittstelle data.bka.gv.at/ris/api/v2.6/judikatur geprueft: Zu ''kuenstliche
+    Intelligenz'' hat der VwGH null, der VfGH null und der OGH einen Treffer (eine Entscheidung von 1997,
+    Fehltreffer). Die Datenschutzbehoerde hat genau einen (DSBT_20250925, bereits erfasst). Das BVwG hat
+    188, ganz ueberwiegend Asylverfahren, in denen der Begriff im Laendervorbringen auftaucht. ''ChatGPT''
+    ergibt beim OGH null Treffer. Befund: Die oesterreichischen Hoechstgerichte haben bis heute keine
+    KI-spezifische Rechtsprechung; sie entsteht am BVwG und an der DSB.'
+- id: at-ki-durchfuehrung
+  jurisdiktion: at
+  kurztitel: Österreichische Durchführung der KI-VO (Marktüberwachung, Sanktionen)
+  offizieller_titel: 'Nationale Durchführungsvorschriften zur Verordnung (EU) 2024/1689 (KI-Verordnung)
+    — Benennung der Marktüberwachungsbehörden, der notifizierenden Behörde und der Sanktionsregelung
+
+    '
+  fundstelle: 'Am 07.09.2026 KEINE österreichische Fundstelle belegbar. Weder auf digitalaustria.gv.at
+    noch über die geprüften amtlichen Portale liess sich ein Bundesgesetz zur Durchführung der KI-Verordnung
+    (Marktüberwachung, Sanktionen) nachweisen.
+
+    '
+  verfahrensnummer: null
+  status: entwurf
+  status_detail: 'UNGEKLÄRT. Die amtliche Seite des Bundes (digitalaustria.gv.at) sagt lediglich, Österreich
+    habe "bereits mit der Umsetzung der KI-Verordnung begonnen", benennt aber weder ein Durchführungsgesetz
+    noch die Marktüberwachungsbehörde. Das ist bemerkenswert, weil die Frist des Art. 70 Abs. 2 KI-VO
+    zur Benennung der zuständigen Behörden am 02.08.2025 abgelaufen ist. Die Grundrechtsschutzbehörden
+    nach Art. 77 KI-VO waren bis 02.11.2024 zu benennen; dafür führt der Bund eine eigene Seite. Status
+    hier als `entwurf` geführt, weil ein Rechtsetzungsvorhaben besteht, seine Fundstelle aber nicht belegt
+    ist.
+
+    '
+  kurzbeschreibung: 'Als EU-Mitgliedstaat wendet Österreich die KI-Verordnung unmittelbar an; nationales
+    Recht ist nur für die Benennung der Behörden, die Ausgestaltung der Marktüberwachung, die Sanktionsbemessung
+    und die Verfahrensordnung nötig. Genau dieser Teil war am Stichtag nicht belegbar. Faktisch besteht
+    die österreichische KI-Governance aus vier nicht-hoheitlichen Gremien (AI Policy Forum, KI-Beirat,
+    AI Stakeholder Forum, KI-Servicestelle) plus den sektoralen Marktüberwachungsbehörden des Produktsicherheitsrechts.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/ai-act.html
+  anwendungsdaten:
+  - datum: 2026-07-24
+    was_gilt: 'Inkrafttreten des "Omnibus VII (KI)" auf EU-Ebene; nach Angabe des Bundes wurden dadurch
+      mehrere Neuerungen zur KI-Verordnung eingeführt und die Fristen für die Pflichten bei Hochrisiko-KI-Systemen
+      VERSCHOBEN.
+
+      '
+    verifiziert: true
+    quelle: https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/ai-act.html
+  themenachsen:
+  - marktzugang
+  - governance
+  - gpai
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Offene Zuständigkeitsfrage: Die KI-Servicestelle bei der RTR ist nach ihrer Rechtsgrundlage (§ 20c
+    KOG) Service- und Informationsstelle ohne Vollzugsbefugnis. Wer in Österreich Marktüberwachungsbehörde
+    nach Art. 70 KI-VO ist und wer die Bussen nach Art. 99 KI-VO verhängt, liess sich am Stichtag nicht
+    amtlich belegen.
+
+    '
+  - 'Grundrechtsschutzbehörden nach Art. 77 KI-VO: Der Bund führt dafür eine eigene Übersichtsseite (digitalaustria.gv.at/.../behoerden-art77-ai-act.html);
+    deren Inhalt ist nicht ausgelesen worden.
+
+    '
+  dokumente:
+  - datum: 2026-07-24
+    typ: uebersicht
+    titel: KI-Verordnung — amtliche Übersichtsseite des Bundes
+    url: https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/ai-act.html
+    sprache: de
+    urheber: Bundesministerium/Digital Austria
+    verifiziert: true
+    notiz: 'Amtliche Informationsseite. Nennt das Inkrafttreten des Omnibus VII (KI) am 24.07.2026 und
+      die Verschiebung der Fristen für Hochrisiko-KI-Systeme, benennt aber KEINE Marktüberwachungsbehörde.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: Behörden nach Art. 77 AI Act
+    url: https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/behoerden-art77-ai-act.html
+    sprache: de
+    urheber: Digital Austria
+    verifiziert: false
+    notiz: Seite aus der Hauptseite verlinkt, in dieser Sitzung nicht geöffnet.
+  offene_punkte:
+  - 'ZENTRALE LÜCKE DIESER DATEI FÜR ÖSTERREICH: Gibt es ein österreichisches KI-Marktüberwachungs- bzw.
+    Durchführungsgesetz zur KI-VO, und wenn ja, unter welcher BGBl-Nummer? Der Auftragstext nimmt es an;
+    belegen liess es sich nicht. Der nächste Bearbeiter sollte in ris.bka.gv.at (Bundesgesetzblätter 2025
+    und 2026, Suchwort "Künstliche Intelligenz") und in parlament.gv.at (Regierungsvorlagen XXVIII. GP)
+    gezielt suchen.
+
+    '
+  - 'Der Inhalt und die genaue Rechtsnatur des "Omnibus VII (KI)" sind hier nur nach der Angabe der amtlichen
+    österreichischen Seite wiedergegeben; der EU-Rechtsakt selbst ist nicht geprüft worden. Die dort genannten
+    neuen Fristen sind bei no-ki-loven mit den vom norwegischen Ministerium genannten Daten (02.12.2027
+    und 02.08.2028) zu vergleichen.
+
+    '
+  monitoring_quellen:
+  - https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/ai-act.html
+  - https://www.ris.bka.gv.at/Bundesgesetzblatt.wxe
+  - https://www.parlament.gv.at/gegenstand/
+  bezug_regelwerke:
+  - at-ki-servicestelle-kog-tkg
+  - at-ki-governance
+  letzte_pruefung: 2026-09-07
+  pruefvermerk:
+  - '07.09.2026 ueber die RIS-Schnittstelle data.bka.gv.at/ris/api/v2.6/judikatur geprueft: Zu ''kuenstliche
+    Intelligenz'' hat der VwGH null, der VfGH null und der OGH einen Treffer (eine Entscheidung von 1997,
+    Fehltreffer). Die Datenschutzbehoerde hat genau einen (DSBT_20250925, bereits erfasst). Das BVwG hat
+    188, ganz ueberwiegend Asylverfahren, in denen der Begriff im Laendervorbringen auftaucht. ''ChatGPT''
+    ergibt beim OGH null Treffer. Befund: Die oesterreichischen Hoechstgerichte haben bis heute keine
+    KI-spezifische Rechtsprechung; sie entsteht am BVwG und an der DSB.'
+- id: at-ki-governance
+  jurisdiktion: at
+  kurztitel: KI-Governance-Struktur des Bundes (AI Policy Forum, KI-Beirat, Stakeholder Forum)
+  offizieller_titel: 'KI-Governance in Österreich: AI Policy Forum, Beirat für Künstliche Intelligenz,
+    AI Stakeholder Forum, KI-Servicestelle
+
+    '
+  fundstelle: 'Keine eigene Fundstelle; teils gesetzlich (Beirat: § 20c KOG), teils verwaltungsintern
+    eingerichtet (AI Policy Forum, AI Stakeholder Forum).
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Bestehend seit 2023, laufend.
+  kurzbeschreibung: 'Die österreichische KI-Governance ruht auf vier Säulen: (1) das AI Policy Forum,
+    eine interministerielle Arbeitsgruppe unter Leitung des Bundeskanzleramts und des Bundesministeriums
+    für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie, die alle Ressorts koordiniert;
+    (2) der KI-Beirat mit elf Mitgliedern bei der RTR (gesetzlich verankert in § 20c KOG); (3) das AI
+    Stakeholder Forum mit 29 Verbänden und Interessenvertretungen (Stand Dezember 2024); (4) die KI-Servicestelle
+    bei der RTR. Keines dieser Gremien hat Vollzugs- oder Sanktionsbefugnisse; sie sind Koordinations-
+    und Beratungsstrukturen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/ki-organisation.html
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'AI Policy Forum: interministerielle Koordination, Leitung BKA und BMK.'
+  - 'KI-Beirat: 11 Mitglieder, Universitäten, Industrie, Zivilgesellschaft, bei der RTR.'
+  - 'AI Stakeholder Forum: 29 Verbände und Interessenvertretungen (Stand 12/2024).'
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: KI-Governance in Österreich
+    url: https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/ki-organisation.html
+    sprache: de
+    urheber: Digital Austria
+    verifiziert: true
+    notiz: Amtliche Beschreibung der vier Governance-Säulen.
+  - datum: null
+    typ: uebersicht
+    titel: Beirat für Künstliche Intelligenz
+    url: https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/ki-beirat.html
+    sprache: de
+    urheber: Digital Austria
+    verifiziert: false
+    notiz: Verlinkt, in dieser Sitzung nicht geöffnet.
+  offene_punkte:
+  - 'Die österreichische KI-Strategie (im Auftragstext als "AIM AT 2030" bezeichnet) ist NICHT am amtlichen
+    Text verifiziert worden; sie ist über digitalaustria.gv.at/downloads.html zu suchen. Bis dahin ist
+    weder ihr genauer Titel noch ihr Beschlussdatum belegt.
+
+    '
+  monitoring_quellen:
+  - https://www.digitalaustria.gv.at/themen/kuenstliche-intelligenz/
+  bezug_regelwerke:
+  - at-ki-servicestelle-kog-tkg
+  letzte_pruefung: 2026-09-07
+  pruefvermerk:
+  - '07.09.2026 ueber die RIS-Schnittstelle data.bka.gv.at/ris/api/v2.6/judikatur geprueft: Zu ''kuenstliche
+    Intelligenz'' hat der VwGH null, der VfGH null und der OGH einen Treffer (eine Entscheidung von 1997,
+    Fehltreffer). Die Datenschutzbehoerde hat genau einen (DSBT_20250925, bereits erfasst). Das BVwG hat
+    188, ganz ueberwiegend Asylverfahren, in denen der Begriff im Laendervorbringen auftaucht. ''ChatGPT''
+    ergibt beim OGH null Treffer. Befund: Die oesterreichischen Hoechstgerichte haben bis heute keine
+    KI-spezifische Rechtsprechung; sie entsteht am BVwG und an der DSB.'
+- id: at-urhg
+  jurisdiktion: at
+  kurztitel: Urheberrechtsgesetz — § 42h (Text- und Data-Mining)
+  offizieller_titel: 'Bundesgesetz über das Urheberrecht an Werken der Literatur und der Kunst und über
+    verwandte Schutzrechte (Urheberrechtsgesetz — UrhG)
+
+    '
+  fundstelle: 'RIS Gesetzesnummer 10001848 (Bundesrecht konsolidiert). § 42h eingefügt durch die Urheberrechts-Novelle
+    2021 (Umsetzung der Richtlinie (EU) 2019/790), in Geltung seit 01.01.2022.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht; § 42h in Geltung seit 01.01.2022.
+  kurzbeschreibung: 'Österreich hat die zweistufige TDM-Schranke der DSM-Richtlinie vollständig umgesetzt
+    und steht damit im Gegensatz sowohl zur Schweiz (nur enge Forschungsschranke) als auch zu Norwegen
+    (Umsetzung erst im Gesetzgebungsverfahren). § 42h Abs. 1 bis 5 regelt das wissenschaftliche TDM (Art.
+    3 DSM-RL) — vertraglich NICHT abdingbar; § 42h Abs. 6 regelt das allgemeine TDM (Art. 4 DSM-RL) mit
+    Opt-out-Vorbehalt. Für das Training kommerzieller KI-Modelle ist Abs. 6 die einschlägige Norm: zulässig,
+    "außer bei ausdrücklichem, erkennbarem Verbot" des Rechteinhabers.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-01
+    verifiziert: true
+    quelle: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=42h
+  anwendungsdaten:
+  - datum: 2022-01-01
+    was_gilt: § 42h UrhG (Text- und Data-Mining) in Geltung.
+    verifiziert: true
+    quelle: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=42h
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - '§ 42h Abs. 1: Vervielfältigung für eine Forschungseinrichtung oder eine Einrichtung des Kulturerbes
+    zur automatisierten Auswertung von Texten und Daten für die wissenschaftliche oder künstlerische Forschung,
+    bei rechtmäßigem Zugang. Einzelne Forschende bei gemeinnützigen Vorhaben ebenso.
+
+    '
+  - '§ 42h Abs. 3: Legaldefinition der Forschungseinrichtung — nicht gewinnorientiert, Gewinne werden
+    reinvestiert, kein bestimmender Unternehmenseinfluss auf die Forschungsergebnisse. Damit fallen unternehmensnahe
+    KI-Labore in der Regel heraus.
+
+    '
+  - '§ 42h Abs. 4: Gilt auch bei öffentlich-privaten Partnerschaften mit gewinnorientierten Akteuren —
+    die praktisch wichtigste Öffnung.
+
+    '
+  - '§ 42h Abs. 5: Die freie Werknutzung nach Abs. 1 bis 4 kann VERTRAGLICH NICHT ABBEDUNGEN werden.
+
+    '
+  - '§ 42h Abs. 6: Allgemeines TDM auch für Private und kommerzielle Zwecke zulässig, "außer bei ausdrücklichem,
+    erkennbarem Verbot" — das österreichische Opt-out. Der Streit, ob eine robots.txt-Anweisung oder eine
+    Klausel in den Nutzungsbedingungen "ausdrücklich und erkennbar" ist, ist auch in Österreich offen.
+
+    '
+  dokumente:
+  - datum: 2022-01-01
+    typ: konsolidiert
+    titel: § 42h UrhG — konsolidierte Fassung im RIS
+    url: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=42h
+    sprache: de
+    urheber: Bundeskanzleramt, Rechtsinformationssystem des Bundes
+    verifiziert: true
+    notiz: Amtlicher konsolidierter Text der Einzelvorschrift, im Volltext gelesen.
+  offene_punkte:
+  - 'Ob es in Österreich Rechtsprechung zu § 42h Abs. 6 (Opt-out) gibt, ist nicht geprüft; die RIS-Judikaturdatenbank
+    wäre der Ort.
+
+    '
+  monitoring_quellen:
+  - https://www.ris.bka.gv.at/Bundesrecht/
+  bezug_regelwerke:
+  - ch-urg
+  - no-aandsverkloven
+  letzte_pruefung: 2026-09-07
+- id: at-dsg
+  jurisdiktion: at
+  kurztitel: Datenschutzgesetz (DSG) — § 41 automatisierte Entscheidungsfindung
+  offizieller_titel: 'Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+    Daten (Datenschutzgesetz — DSG)
+
+    '
+  fundstelle: RIS Gesetzesnummer 10001597. Konsolidierte Fassung vom 07.09.2026.
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht, konsolidierte Fassung vom 07.09.2026 am Text geprüft. WICHTIGE KORREKTUR:
+    Das österreichische DSG enthält KEINEN § 22a. Die Vorschrift über automatisierte Entscheidungen ist
+    § 41 DSG.
+
+    '
+  kurzbeschreibung: 'Das DSG ergänzt die unmittelbar geltende DSGVO. Für KI relevant sind drei Ebenen:
+    das Grundrecht auf Datenschutz in § 1 DSG (eine Verfassungsbestimmung mit Drittwirkung, die es so
+    in Deutschland nicht gibt), die unmittelbar anwendbare DSGVO einschliesslich Art. 22, und § 41 DSG
+    für den Bereich der Strafverfolgung und Strafvollstreckung (3. Hauptstück, Umsetzung der Richtlinie
+    (EU) 2016/680). § 41 Abs. 1 stellt ein grundsätzliches VERBOT auf: Ausschliesslich auf automatischer
+    Verarbeitung beruhende Entscheidungen einschliesslich Profiling, die für die betroffene Person nachteilige
+    Rechtsfolgen haben oder sie erheblich beeinträchtigen können, sind nur zulässig, soweit sie gesetzlich
+    oder in unmittelbar anwendbaren Rechtsvorschriften mit Gesetzesrang ausdrücklich vorgesehen sind.
+    Abs. 2 verschärft für besondere Kategorien personenbezogener Daten.
+
+    '
+  inkrafttreten:
+    datum: 2018-05-25
+    verifiziert: false
+    quelle: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - '§ 1 DSG: Grundrecht auf Datenschutz im Verfassungsrang, mit Anspruch auch gegenüber Privaten. Das
+    ist der Hebel, über den in Österreich Verfassungsargumente in KI-Datenschutzfälle hineinkommen.
+
+    '
+  - '§ 41 DSG (Automatisierte Entscheidungsfindung im Einzelfall, im 3. Hauptstück): Verbot mit Gesetzesvorbehalt
+    für nachteilige vollautomatisierte Entscheidungen einschliesslich Profiling im Bereich Strafverfolgung/Strafvollzug.
+
+    '
+  - 'Ausserhalb dieses Bereichs gilt Art. 22 DSGVO unmittelbar; ein eigenständiges österreichisches Pendant
+    gibt es NICHT. Wer nach einer Norm sucht, die für die allgemeine Wirtschaft gilt, findet sie im DSG
+    nicht.
+
+    '
+  dokumente:
+  - datum: 2026-09-07
+    typ: konsolidiert
+    titel: Datenschutzgesetz — Gesamte Rechtsvorschrift, Fassung vom 07.09.2026
+    url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597
+    sprache: de
+    urheber: Bundeskanzleramt, Rechtsinformationssystem des Bundes
+    verifiziert: true
+    notiz: 'Konsolidierte Fassung; Paragrafenverzeichnis und § 41 im Volltext gelesen. Ein § 22a existiert
+      nicht.
+
+      '
+  offene_punkte:
+  - 'Inkrafttretensdatum des DSG in der aktuellen Fassung (25.05.2018) nicht am Text belegt.
+
+    '
+  - 'Entscheidungen der Datenschutzbehörde (DSB) zu KI sind nicht recherchiert worden — siehe Bericht.
+
+    '
+  monitoring_quellen:
+  - https://www.dsb.gv.at/
+  - https://www.ris.bka.gv.at/Dsk/
+  bezug_regelwerke:
+  - ch-dsg
+  - no-personopplysningsloven
+  letzte_pruefung: 2026-09-07
+- id: at-stgb-120a
+  jurisdiktion: at
+  kurztitel: StGB § 120a — Unbefugte Bildaufnahmen (die Deepfake-Lücke)
+  offizieller_titel: Bundesgesetz über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch
+    — StGB)
+  fundstelle: 'RIS Gesetzesnummer 10002296. § 120a in Geltung seit 01.01.2021, zuletzt geändert durch
+    BGBl. I Nr. 148/2020.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Ein eigener Deepfake-Straftatbestand besteht am 07.09.2026 nicht; im
+    Nationalrat liegt dazu ein Entschliessungsantrag (820/A(E) XXVIII. GP).
+
+    '
+  kurzbeschreibung: '§ 120a StGB stellt die unbefugte Herstellung von Bildaufnahmen der Genitalien, des
+    Intimbereichs, des Gesässes, der weiblichen Brust oder der diese Bereiche bedeckenden Unterwäsche
+    unter Strafe, wenn die Person diese Bereiche vor Blicken geschützt hat oder sich in einer Wohnstätte
+    oder einem besonders geschützten Raum befindet (Freiheitsstrafe bis sechs Monate oder Geldstrafe bis
+    360 Tagessätze), und das Zugänglichmachen oder Veröffentlichen solcher Aufnahmen (bis zwölf Monate
+    oder 720 Tagessätze). Verfolgung nur auf Verlangen der verletzten Person. Der Tatbestand setzt eine
+    AUFNAHME einer real existierenden Person in einer realen Situation voraus und erfasst synthetisch
+    erzeugte Bilder deshalb nicht — das ist die österreichische Deepfake-Lücke, die strukturell derjenigen
+    des schweizerischen Art. 179quater StGB entspricht.
+
+    '
+  inkrafttreten:
+    datum: 2021-01-01
+    verifiziert: true
+    quelle: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=120a
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Zwei Tatbestände: Herstellung (Abs. 1) und Verbreitung (Abs. 2), mit unterschiedlichem Strafrahmen.'
+  - Antragsdelikt — Verfolgung nur auf Verlangen der verletzten Person.
+  - 'Systematische Lücke: Erfasst werden Aufnahmen, nicht Erzeugnisse. Bei missbräuchlichen Deepfakes
+    greift in der Praxis § 107c StGB (Cybermobbing), der aber nach dem Entschliessungsantrag 820/A(E)
+    voraussetzt, dass die Handlung "für eine größere Zahl von Menschen wahrnehmbar" ist "und das für eine
+    längere Zeit" — die blosse Erstellung bleibt straflos.
+
+    '
+  dokumente:
+  - datum: 2021-01-01
+    typ: konsolidiert
+    titel: § 120a StGB — konsolidierte Fassung im RIS
+    url: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=120a
+    sprache: de
+    urheber: Bundeskanzleramt, Rechtsinformationssystem des Bundes
+    verifiziert: true
+    notiz: Amtlicher konsolidierter Text, im Volltext gelesen.
+  offene_punkte:
+  - '§ 107c StGB (Cybermobbing) ist NICHT am amtlichen Text gelesen worden; seine Voraussetzungen sind
+    hier nur nach der Darstellung im Entschliessungsantrag 820/A(E) wiedergegeben. Am Text nachzuprüfen.
+
+    '
+  monitoring_quellen:
+  - https://www.ris.bka.gv.at/Bundesrecht/
+  bezug_regelwerke:
+  - at-deepfake-antrag
+  - ch-stgb
+  letzte_pruefung: 2026-09-07
+- id: at-deepfake-antrag
+  jurisdiktion: at
+  kurztitel: Entschliessungsantrag "Missbrauchs-Deepfakes bekämpfen" (820/A(E) XXVIII. GP)
+  offizieller_titel: 'Entschliessungsantrag der Abgeordneten Meri Disoski, Süleyman Zorba und weiterer
+    Abgeordneter betreffend Missbrauchs-Deepfakes bekämpfen — Gesetzeslücken schliessen
+
+    '
+  fundstelle: 820/A(E) XXVIII. GP, eingebracht am 23.04.2026.
+  verfahrensnummer: 820/A(E) XXVIII. GP
+  status: verfahren
+  status_detail: 'Eingebracht am 23.04.2026 von Abgeordneten der Grünen. Ein Entschliessungsantrag ist
+    kein Gesetzentwurf, sondern eine Aufforderung an die Bundesregierung; er entfaltet keine unmittelbare
+    Rechtswirkung. Stand der Ausschussberatung am 07.09.2026 nicht ermittelt.
+
+    '
+  kurzbeschreibung: 'Der Antrag benennt die Strafbarkeitslücke bei missbräuchlichen Deepfakes: Der Cybermobbing-Tatbestand
+    des § 107c StGB verlangt, dass die Handlung für eine grössere Zahl von Menschen und für längere Zeit
+    wahrnehmbar ist; die blosse ERSTELLUNG missbräuchlicher Deepfakes bleibt damit straflos. Der Antrag
+    fordert, die Strafbarkeit "nicht erst ab Zeitpunkt der Veröffentlichung, sondern auch bei Erstellung
+    derartiger Inhalte" eintreten zu lassen, und verweist als Vorbild auf § 207a StGB (bildliches Kindesmissbrauchsmaterial),
+    wo bereits die Herstellung strafbar ist.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.parlament.gv.at/dokument/XXVIII/A/820/fnameorig_1756409.html
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - Forderung nach Vorverlagerung der Strafbarkeit auf die Erstellung.
+  - Vorbild § 207a StGB (Herstellung von Missbrauchsmaterial bereits strafbar).
+  - Kritik an der Wahrnehmbarkeitsschwelle des § 107c StGB.
+  dokumente:
+  - datum: 2026-04-23
+    typ: entwurf
+    titel: 820/A(E) XXVIII. GP — Antragstext
+    url: https://www.parlament.gv.at/dokument/XXVIII/A/820/fnameorig_1756409.html
+    sprache: de
+    urheber: Nationalrat der Republik Österreich
+    verifiziert: true
+    notiz: Amtlicher Antragstext auf dem Parlamentsportal.
+  offene_punkte:
+  - Stand der Ausschussberatung und Abstimmungsergebnis nicht ermittelt.
+  monitoring_quellen:
+  - https://www.parlament.gv.at/gegenstand/XXVIII/A/820
+  bezug_regelwerke:
+  - at-stgb-120a
+  letzte_pruefung: 2026-09-07
+- id: at-avg-novelle-2026
+  jurisdiktion: at
+  kurztitel: AVG-Novelle 2026 — vollständig automatisierte Erledigungen
+  offizieller_titel: 'Regierungsvorlage: Bundesgesetz, mit dem das Allgemeine Verwaltungsverfahrensgesetz
+    1991 und weitere Gesetze geändert werden
+
+    '
+  fundstelle: 539 der Beilagen XXVIII. GP, veröffentlicht am 19.06.2026.
+  verfahrensnummer: 539 d.B. XXVIII. GP (zuvor Ministerialentwurf 89/ME XXVIII. GP)
+  status: verfahren
+  status_detail: 'Ministerialentwurf 89/ME mit Begutachtungsfrist bis 24.04.2026; Regierungsvorlage am
+    17.06.2026 eingebracht und am 19.06.2026 veröffentlicht. Parlamentarische Behandlung am 07.09.2026
+    laufend. Inkrafttreten soll am Tag nach der Kundmachung erfolgen.
+
+    '
+  kurzbeschreibung: 'Die für KI wichtigste österreichische Gesetzgebungsvorlage des Jahres 2026: Sie ermöglicht
+    Behörden erstmals allgemein "vollständig automatisierte Erledigungen" im Verwaltungsverfahren. Nach
+    geltendem § 18 Abs. 3 AVG bedürfen Erledigungen einer Genehmigung durch ein Organwalter; die Novelle
+    durchbricht das. Bemerkenswert und politisch umstritten: Gegenüber dem Ministerialentwurf ENTFÄLLT
+    in der Regierungsvorlage das WIDERSPRUCHSRECHT der Empfänger gegen vollautomatisierte Bescheide. Daneben
+    werden neue Einbringungsarten zugelassen (unter anderem Anbringen über Chatbots, allerdings ohne Regelung
+    ihrer Gleichstellung mit schriftlichen Einbringungen), und Rechtsbelehrungen sollen künftig in "möglichst
+    einfacher Sprache" abgefasst werden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.parlament.gv.at/fachinfos/rlw/rechtsmonitorings/Aenderung-des-AVG-ua.-RV
+  anwendungsdaten:
+  - datum: 2026-04-24
+    was_gilt: Ende der Begutachtungsfrist für den Ministerialentwurf 89/ME XXVIII. GP.
+    verifiziert: true
+    quelle: https://www.parlament.gv.at/fachinfos/rlw/rechtsmonitorings/Aenderung-des-AVG-ua.-RV
+  - datum: 2026-06-17
+    was_gilt: Einbringung der Regierungsvorlage 539 d.B. XXVIII. GP.
+    verifiziert: true
+    quelle: https://www.parlament.gv.at/fachinfos/rlw/rechtsmonitorings/Aenderung-des-AVG-ua.-RV
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Vollständig automatisierte Erledigungen: Durchbrechung des Genehmigungserfordernisses des § 18 Abs.
+    3 AVG.
+
+    '
+  - 'WEGFALL des im Ministerialentwurf noch vorgesehenen Widerspruchsrechts gegen automatisierte Bescheide
+    — der zentrale Streitpunkt. Damit fehlt der österreichischen Lösung genau das Element, das die norwegische
+    (§ 12 Abs. 2 forvaltningsloven 2025: Recht auf Erklärung und manuelle Kontrolle) und die schweizerische
+    (Art. 21 Abs. 2 DSG: Recht auf Überprüfung durch eine natürliche Person) enthalten.
+
+    '
+  - Neue Einbringungsarten einschliesslich Chatbot-Anbringen.
+  - Rechtsbelehrungen in möglichst einfacher Sprache.
+  dokumente:
+  - datum: 2026-06-19
+    typ: ausschussbericht
+    titel: Rechtsmonitoring des Parlaments zur Regierungsvorlage 539 d.B.
+    url: https://www.parlament.gv.at/fachinfos/rlw/rechtsmonitorings/Aenderung-des-AVG-ua.-RV
+    sprache: de
+    urheber: Parlamentsdirektion, Rechts-, Legislativ- und Wissenschaftlicher Dienst
+    verifiziert: true
+    notiz: 'Amtliche Analyse des Parlamentsdienstes; benennt ausdrücklich den Wegfall des Widerspruchsrechts
+      gegenüber dem Ministerialentwurf.
+
+      '
+  - datum: 2026-06-19
+    typ: entwurf
+    titel: 539 der Beilagen XXVIII. GP — Regierungsvorlage
+    url: https://www.parlament.gv.at/gegenstand/XXVIII/I/539
+    sprache: de
+    urheber: Bundesregierung / Nationalrat
+    verifiziert: false
+    notiz: Aus dem Rechtsmonitoring verlinkt; in dieser Sitzung nicht geöffnet.
+  - datum: 2026-04-24
+    typ: entwurf
+    titel: Erläuterungen zum Ministerialentwurf 89/ME XXVIII. GP (PDF)
+    url: https://www.parlament.gv.at/dokument/XXVIII/ME/89/imfname_1745504.pdf
+    sprache: de
+    urheber: Bundesregierung
+    verifiziert: false
+    notiz: 'Erläuterungen mit dem Abschnitt zu vollständig automatisierten Erledigungen und § 18 Abs.
+      3 AVG; in dieser Sitzung nicht geöffnet.
+
+      '
+  offene_punkte:
+  - 'Ob die Novelle bis zum 07.09.2026 bereits beschlossen und kundgemacht ist, wurde nicht abschliessend
+    geprüft; das Rechtsmonitoring beschreibt sie als Regierungsvorlage.
+
+    '
+  - 'Der Gesetzestext selbst (Paragrafenwortlaut der automatisierten Erledigung) ist nicht gelesen worden.
+
+    '
+  monitoring_quellen:
+  - https://www.parlament.gv.at/gegenstand/XXVIII/I/539
+  - https://www.ris.bka.gv.at/Bundesgesetzblatt.wxe
+  bezug_regelwerke:
+  - at-dsg
+  - no-forvaltningsloven-2025
+  - ch-dsg
+  letzte_pruefung: 2026-09-07
+- id: no-ki-loven
+  jurisdiktion: 'no'
+  kurztitel: KI-loven — norwegisches Gesetz zur Durchführung der KI-Verordnung
+  offizieller_titel: 'Lov om kunstig intelligens (KI-loven) — geplantes Gesetz zur Durchführung der Verordnung
+    (EU) 2024/1689 im norwegischen Recht nach Übernahme in das EWR-Abkommen
+
+    '
+  fundstelle: 'Am 07.09.2026 kein Gesetz, keine LOV-Nummer. Erste Anhörung (høring) im Herbst 2025 mit
+    rund 150 Stellungnahmen; zweite Anhörung für Herbst 2026 angekündigt; Proposition an das Storting
+    für das Frühjahr 2027 angekündigt.
+
+    '
+  verfahrensnummer: null
+  status: entwurf
+  status_detail: 'Zuständig ist das Digitaliserings- og forvaltningsdepartementet (DFD) unter Ministerin
+    Karianne Tung. Der ursprüngliche Entwurf war im Herbst 2025 in der Anhörung; nachdem die EU im Juli
+    2026 Änderungen der KI-Verordnung beschlossen hat (Kommissionsvorschlag vom 19.11.2025), hat das Ministerium
+    am 04.08.2026 angekündigt, den überarbeiteten Entwurf im Herbst 2026 ERNEUT in die Anhörung zu geben
+    und die Proposition erst im Frühjahr 2027 vorzulegen. Die amtliche Informationsseite des Bundes (ki.norge.no)
+    sagt mit Stand Juni 2026 ausdrücklich: "Det er ikke fastsatt når KI-loven skal gjelde i Norge".
+
+    '
+  kurzbeschreibung: 'Norwegen wendet die KI-Verordnung NICHT unmittelbar an. Sie ist EWR-relevant und
+    muss zunächst durch Beschluss des Gemeinsamen EWR-Ausschusses in das EWR-Abkommen übernommen und danach
+    durch norwegisches Gesetz umgesetzt werden. Daraus folgt ein erheblicher zeitlicher Nachlauf gegenüber
+    der EU: Während in Österreich die Transparenzpflichten seit 02.08.2026 gelten, gilt in Norwegen am
+    07.09.2026 noch keine einzige Vorschrift der KI-Verordnung. Für die Praxis bedeutet das, dass norwegische
+    KI-Sachverhalte bis auf weiteres ausschliesslich nach allgemeinem Recht zu beurteilen sind — personopplysningsloven/DSGVO,
+    åndsverkloven, forvaltningsloven, markedsføringsloven, straffeloven.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://ki.norge.no/veiledning/ki-loven-informasjon
+  anwendungsdaten:
+  - datum: 2026-08-04
+    was_gilt: 'Ankündigung des DFD, den überarbeiteten KI-Gesetzentwurf wegen der EU-Änderungen erneut
+      in die Anhörung zu geben.
+
+      '
+    verifiziert: true
+    quelle: https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/
+  - datum: 2027-12-02
+    was_gilt: 'Nach Darstellung des DFD durch die EU-Änderungen vom Juli 2026 verschobene Frist für Pflichten
+      bei Hochrisiko-KI-Systemen (erster verschobener Stichtag).
+
+      '
+    verifiziert: true
+    quelle: https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/
+  - datum: 2028-08-02
+    was_gilt: 'Zweiter durch die EU-Änderungen vom Juli 2026 verschobener Stichtag für Pflichten bei Hochrisiko-KI-Systemen.
+
+      '
+    verifiziert: true
+    quelle: https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/
+  themenachsen:
+  - marktzugang
+  - governance
+  - gpai
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Nkom (Nasjonal kommunikasjonsmyndighet) ist als nationale Koordinierungsbehörde für die KI-Verordnung
+    in Norwegen benannt — eine andere Wahl als in den meisten EU-Staaten, wo Datenschutz- oder Produktsicherheitsbehörden
+    die Rolle übernehmen.
+
+    '
+  - 'Der KI-Sandkasten nach norwegischem Recht soll erst nach Inkrafttreten der KI-loven verfügbar sein;
+    bis dahin besteht nur die datenschutzrechtliche Sandkasse von Datatilsynet.
+
+    '
+  - 'Zweistufiges Anhörungsverfahren: Der erste Entwurf (Herbst 2025) erhielt rund 150 Stellungnahmen;
+    wegen der EU-Änderungen wird das Verfahren wiederholt. Das ist ein selten deutliches Beispiel dafür,
+    wie die EWR-Konstruktion nationale Gesetzgebung an den EU-Rechtsetzungsrhythmus koppelt.
+
+    '
+  dokumente:
+  - datum: 2026-08-04
+    typ: pressemitteilung
+    titel: Tung vil sende KI-loven med endringer på høring
+    url: https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/
+    sprache: 'no'
+    urheber: Digitaliserings- og forvaltningsdepartementet
+    verifiziert: true
+    notiz: 'Amtliche Mitteilung des zuständigen Ministeriums mit dem Zeitplan (neue Anhörung Herbst 2026,
+      Proposition Frühjahr 2027) und den verschobenen EU-Fristen.
+
+      '
+  - datum: 2026-06-01
+    typ: uebersicht
+    titel: Hva betyr KI-loven for norske virksomheter?
+    url: https://ki.norge.no/veiledning/ki-loven-informasjon
+    sprache: 'no'
+    urheber: KI Norge / Digitaliseringsdirektoratet
+    verifiziert: true
+    notiz: 'Amtliche Orientierungsseite. Benennt Nkom als Koordinierungs- behörde und sagt ausdrücklich,
+      dass kein Geltungsbeginn festgesetzt ist.
+
+      '
+  offene_punkte:
+  - 'Der Beschluss des Gemeinsamen EWR-Ausschusses über die Übernahme der KI-Verordnung in Anhang II des
+    EWR-Abkommens konnte NICHT belegt werden. Nummer und Datum fehlen. Der nächste Bearbeiter sollte efta.int
+    (EEA Joint Committee Decisions) und die EWR-Notifikationsdatenbank prüfen. Solange dieser Beschluss
+    fehlt, ist unklar, ob Norwegen überhaupt schon völkerrechtlich gebunden ist.
+
+    '
+  - 'Der Text des Anhörungsentwurfs vom Herbst 2025 ist nicht gelesen worden; Titel und Datum der Anhörung
+    (høringsnotat) fehlen.
+
+    '
+  - 'Die vom DFD genannten verschobenen Fristen (02.12.2027, 02.08.2028) beziehen sich auf das EU-Recht;
+    ob und wann sie für Norwegen gelten, hängt vom EWR-Übernahmebeschluss ab und ist offen.
+
+    '
+  monitoring_quellen:
+  - https://www.regjeringen.no/no/dep/dfd/id3574705/
+  - https://ki.norge.no/
+  - https://nkom.no/ki
+  bezug_regelwerke:
+  - at-ki-durchfuehrung
+  - no-personopplysningsloven
+  - no-datatilsynet-sandkasse
+  letzte_pruefung: 2026-09-07
+- id: no-forvaltningsloven-2025
+  jurisdiktion: 'no'
+  kurztitel: Neue forvaltningslov (2025) — §§ 11, 12 automatisierte Verwaltungsentscheidungen
+  offizieller_titel: 'Lov 20. juni 2025 nr. 81 om saksbehandlingen i offentlig forvaltning (forvaltningsloven)
+    — Gesetz über das Verfahren in der öffentlichen Verwaltung
+
+    '
+  fundstelle: 'LOV-2025-06-20-81, kundgemacht am 20.06.2025 um 12.45 Uhr. Prop. 79 L (2024–2025), Innst.
+    478 L (2024–2025), Lovvedtak 119 (2024–2025); erste und zweite Lesung im Storting am 11. bzw. 16.06.2025.
+    Vorgelegt vom Justis- og beredskapsdepartementet. Beruht auf der Ausarbeitung des Forvaltningslovutvalget
+    in NOU 2019:5 "Ny forvaltningslov".
+
+    '
+  verfahrensnummer: Prop. 79 L (2024–2025) / Lovvedtak 119 (2024–2025)
+  status: verabschiedet
+  status_detail: 'Beschlossen und kundgemacht, aber am 07.09.2026 NOCH NICHT IN KRAFT: Lovdata weist als
+    Ikrafttredelse "Kongen bestemmer" aus, ein Inkrafttretensbeschluss ist dort nicht vermerkt. Das Gesetz
+    ersetzt die forvaltningslov von 1967, ändert daneben LOV-1999-01-29-6 und LOV-2018-06-22-83.
+
+    '
+  kurzbeschreibung: 'Das für KI wichtigste norwegische Gesetzgebungswerk. Die neue forvaltningslov regelt
+    in §§ 11 und 12 erstmals ausdrücklich die automatisierte Sachbearbeitung in der Verwaltung. § 11 erlaubt
+    Verwaltungsorganen grundsätzlich, die Sachbearbeitung zu automatisieren und Entscheidungen automatisiert
+    zu treffen, sofern die übrigen Verfahrensanforderungen erfüllt bleiben; sie ist unzulässig, wenn die
+    materielle Rechtsgrundlage entgegensteht, und für Entscheidungen im Anwendungsbereich des Art. 22
+    DSGVO bedarf es einer besonderen gesetzlichen Ermächtigung. § 12 gibt der betroffenen Person bei solchen
+    Entscheidungen ein RECHT AUF ERKLÄRUNG UND AUF MANUELLE KONTROLLE und verpflichtet die Behörde zu
+    technisch-organisatorischen Massnahmen gegen Datenfehler, gegen sachlich nicht gerechtfertigte Ungleichbehandlung
+    und zum Einsatz geeigneter mathematischer und statistischer Verfahren, besonders beim Profiling.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2025-06-20-81
+  anwendungsdaten:
+  - datum: 2025-06-20
+    was_gilt: Sanktionierung im Staatsrat und Kundmachung; Inkrafttreten bleibt königlichem Beschluss
+      vorbehalten.
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2025-06-20-81
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - '§ 11 Abs. 1: "Et forvaltningsorgan kan automatisere saksbehandlingen, herunder treffe avgjørelser
+    automatisert, såfremt kravene som ellers stilles til saksbehandlingen, oppfylles." Grundsatzerlaubnis
+    mit Vorbehalt der übrigen Verfahrensanforderungen.
+
+    '
+  - '§ 11 Abs. 2: Automatisierung ist unzulässig, wenn die Rechtsgrundlage der Entscheidung ihr entgegensteht
+    — die Norm, über die Ermessens- und Beurteilungsspielräume gegen Vollautomatisierung geschützt werden.
+
+    '
+  - '§ 11 Abs. 3: Ohne besondere gesetzliche Ermächtigung ("uten særlig hjemmel") dürfen keine automatisierten
+    Entscheidungen getroffen werden, die unter Art. 22 DSGVO fallen. Damit übernimmt Norwegen das Verbot-mit-Erlaubnisvorbehalt-Modell
+    für den Verwaltungsbereich.
+
+    '
+  - '§ 11 Abs. 4: Verordnungsermächtigung für den König über Entwicklung und Einsatz von Systemen zur
+    automatisierten Sachbearbeitung UND ÜBER DEREN INHALT — eine bemerkenswert weit gefasste Grundlage
+    für künftiges technisches Regulierungsrecht.
+
+    '
+  - '§ 12 Abs. 1: Pflicht zu Massnahmen, die (a) sichere Verarbeitung und Fehlervermeidung/-korrektur,
+    (b) das Unterbleiben sachlich nicht gerechtfertigter Ungleichbehandlung ("usaklig forskjellsbehandling")
+    und (c) geeignete mathematische und statistische Verfahren, besonders bei Profiling, gewährleisten.
+    Das ist eine Antidiskriminierungspflicht mit technischem Inhalt.
+
+    '
+  - '§ 12 Abs. 2: "Den registrerte har rett til en forklaring og en manuell kontroll av avgjørelsen som
+    er truffet." Die Behörde hat die Erklärung und die Belehrung über das Recht auf manuelle Kontrolle
+    so bald wie möglich nach der Entscheidung zu geben, bei Einzelentscheidungen spätestens in der Mitteilung
+    über die Entscheidung (§ 59 Abs. 3 Buchst. b). Vom Akteneinsichtsrecht nach § 50 ausgenommene Angaben
+    dürfen aus der Erklärung weggelassen werden.
+
+    '
+  dokumente:
+  - datum: 2025-06-20
+    typ: endfassung
+    titel: LOV-2025-06-20-81 — forvaltningsloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2025-06-20-81
+    sprache: 'no'
+    urheber: Lovdata / Justis- og beredskapsdepartementet
+    verifiziert: true
+    notiz: Amtlicher Gesetzestext; §§ 11 und 12 im Volltext gelesen.
+  - datum: 2025-04-04
+    typ: entwurf
+    titel: Prop. 79 L (2024–2025) — Lov om saksbehandlingen i offentlig forvaltning
+    url: https://www.regjeringen.no/no/dokumenter/prop.-79-l-20242025/id3094317/
+    sprache: 'no'
+    urheber: Justis- og beredskapsdepartementet
+    verifiziert: true
+    notiz: 'Regierungsvorlage mit den Erläuterungen zu den einzelnen Vorschriften, einschliesslich der
+      Regeln über automatisierte Sachbearbeitung.
+
+      '
+  offene_punkte:
+  - 'Datum des Inkrafttretens ist offen ("Kongen bestemmer"); ob zwischenzeitlich ein königlicher Beschluss
+    ergangen ist, sollte vor jeder Verwendung geprüft werden. Bis dahin gilt die forvaltningslov von 1967
+    fort.
+
+    '
+  - 'Der Wortlaut des § 12 Abs. 3 (Verordnungsermächtigung) ist nur angeschnitten gelesen worden.
+
+    '
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/2025-06-20-81
+  - https://www.regjeringen.no/no/dep/jd/id463/
+  bezug_regelwerke:
+  - no-forvaltningsloven-1967
+  - no-personopplysningsloven
+  - at-avg-novelle-2026
+  - ch-dsg
+  letzte_pruefung: 2026-09-07
+- id: no-forvaltningsloven-1967
+  jurisdiktion: 'no'
+  kurztitel: forvaltningsloven 1967 — § 25 Begründungspflicht (noch geltendes Recht)
+  offizieller_titel: 'Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) — Gesetz über das
+    Verfahren in Verwaltungssachen
+
+    '
+  fundstelle: 'LOV-1967-02-10, in Kraft seit 01.01.1970; zuletzt geändert durch LOV-2025-04-25-12 mit
+    Wirkung vom 01.01.2026.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Bis zum Inkrafttreten der neuen forvaltningslov (LOV-2025-06-20-81) weiterhin geltendes
+    Recht. Enthält KEINE ausdrückliche Vorschrift über automatisierte Entscheidungen — Kapitel V (Om vedtaket,
+    §§ 23 ff.) wurde auf den Begriff "automatis*" geprüft, ohne Treffer.
+
+    '
+  kurzbeschreibung: 'Das geltende norwegische Verwaltungsverfahrensgesetz. Für KI-gestützte Verwaltungsentscheidungen
+    ist § 25 die tragende Norm: Die Begründung muss die angewandten Rechtsvorschriften nennen (soweit
+    die Partei sie nicht kennt), bei Bedarf deren Inhalt oder die zugrunde liegende Problemstellung wiedergeben,
+    die tatsächlichen Umstände nennen, auf denen die Entscheidung beruht, und SOLL die für die Ermessensausübung
+    massgeblichen Hauptgesichtspunkte nennen. Weil eine ausdrückliche Regelung automatisierter Entscheidungen
+    fehlt, wird § 25 in Norwegen zur Norm, an der die Erklärbarkeit algorithmischer Verwaltungs- entscheidungen
+    gemessen wird — bis §§ 11 f. der neuen forvaltningslov in Kraft treten.
+
+    '
+  inkrafttreten:
+    datum: 1970-01-01
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/1967-02-10
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - '§ 25 Abs. 1: Verweis auf die Rechtsgrundlage, bei Bedarf Wiedergabe ihres Inhalts, "i den utstrekning
+    det er nødvendig for å sette parten i stand til å forstå vedtaket" — Verständlichkeitsmassstab.
+
+    '
+  - '§ 25 Abs. 2: Nennung der tatsächlichen Verhältnisse, auf denen die Entscheidung beruht.
+
+    '
+  - '§ 25 Abs. 3: Die für die Ermessensausübung massgeblichen Hauptgesichtspunkte SOLLEN genannt werden
+    ("bør nevnes") — eine Soll-, keine Mussvorschrift. Bei Vorliegen von Richtlinien genügt in der Regel
+    ein Verweis. Genau diese Abschwächung ist der Punkt, an dem die Begründung einer algorithmischen Entscheidung
+    dünn werden kann.
+
+    '
+  dokumente:
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: LOV-1967-02-10 — forvaltningsloven, amtlicher konsolidierter Text
+    url: https://lovdata.no/dokument/NL/lov/1967-02-10
+    sprache: 'no'
+    urheber: Lovdata / Justis- og beredskapsdepartementet
+    verifiziert: true
+    notiz: Kapitel V (§§ 23–27) im Volltext gelesen; § 25 vollständig erfasst.
+  offene_punkte:
+  - 'Ob in anderen Kapiteln der forvaltningslov 1967 eine Vorschrift über automatisierte Sachbearbeitung
+    steht, ist nicht vollständig geprüft; geprüft wurde Kapitel V.
+
+    '
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/1967-02-10
+  bezug_regelwerke:
+  - no-forvaltningsloven-2025
+  letzte_pruefung: 2026-09-07
+- id: no-personopplysningsloven
+  jurisdiktion: 'no'
+  kurztitel: personopplysningsloven — DSGVO als norwegisches Recht
+  offizieller_titel: 'Lov om behandling av personopplysninger (personopplysningsloven) — Gesetz über die
+    Verarbeitung personenbezogener Daten
+
+    '
+  fundstelle: 'LOV-2018-06-15-38, kundgemacht 15.06.2018, in Kraft seit 20.07.2018; zuletzt geändert durch
+    LOV-2021-06-18-124 mit Wirkung vom 01.01.2022. EWR-Bezug: EØS-avtalen vedlegg XI nr. 5e (Verordnung
+    (EU) 2016/679).
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Berichtigung vom 09.01.2025 (Entfernung fachlicher Fussnoten). Die
+    DSGVO ist über § 1 Bestandteil des Gesetzes und gilt als norwegisches Recht.
+
+    '
+  kurzbeschreibung: 'Solange die KI-Verordnung in Norwegen nicht gilt, ist dies das zentrale Gesetz für
+    KI-Sachverhalte. Es setzt die DSGVO um, indem es sie in § 1 zum Bestandteil norwegischen Rechts erklärt
+    — Art. 22 DSGVO (automatisierte Entscheidungen einschliesslich Profiling) gilt damit unmittelbar.
+    Das Gesetz ergänzt sie um nationale Regeln (Kapitel 3: ergänzende Bearbeitungsregeln; Kapitel 4: Ausnahmen
+    von Betroffenenrechten; Kapitel 5: Datenschutzbeauftragte; Kapitel 6: Aufsicht und Beschwerde; Kapitel
+    7: Sanktionen und Zwangsgeld; Kapitel 8: unechte Kameraüberwachungsausrüstung). Aufsichtsbehörde ist
+    Datatilsynet, Beschwerdeinstanz die Personvernnemnda.
+
+    '
+  inkrafttreten:
+    datum: 2018-07-20
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2018-06-15-38
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - '§ 1: Die Datenschutz-Grundverordnung gilt als norwegisches Recht. Alle KI-Datenschutzfragen laufen
+    deshalb über die DSGVO-Dogmatik, nicht über eigenes norwegisches Recht.
+
+    '
+  - 'Kapitel 8 (§ 31, uekte kameraovervåkingsutstyr): Regelung für Attrappen von Kameraüberwachungsanlagen
+    — im Vergleich interessant, weil sie zeigt, dass der norwegische Gesetzgeber auch den blossen ANSCHEIN
+    einer Überwachung regelt.
+
+    '
+  - 'Kapitel 7: Sanktionen und Zwangsgeld (tvangsmulkt) — Norwegen kennt neben der Geldbusse das laufende
+    Zwangsgeld als Durchsetzungsmittel von Datatilsynet.
+
+    '
+  dokumente:
+  - datum: 2025-01-09
+    typ: konsolidiert
+    titel: LOV-2018-06-15-38 — personopplysningsloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2018-06-15-38
+    sprache: 'no'
+    urheber: Lovdata / Justis- og beredskapsdepartementet
+    verifiziert: true
+    notiz: Metadaten und Kapitelstruktur gelesen.
+  offene_punkte:
+  - Einzelvorschriften nicht im Volltext gelesen; Struktur und Metadaten verifiziert.
+  monitoring_quellen:
+  - https://www.datatilsynet.no/
+  - https://lovdata.no/dokument/NL/lov/2018-06-15-38
+  bezug_regelwerke:
+  - no-datatilsynet-sandkasse
+  - ch-dsg
+  - at-dsg
+  letzte_pruefung: 2026-09-07
+- id: no-aandsverkloven
+  jurisdiktion: 'no'
+  kurztitel: åndsverkloven — Urheberrecht ohne TDM-Schranke
+  offizieller_titel: 'Lov om opphavsrett til åndsverk mv. (åndsverkloven) — Gesetz über das Urheberrecht
+    an Werken
+
+    '
+  fundstelle: 'LOV-2018-06-15-40, in Kraft seit 01.07.2018; zuletzt geändert durch LOV-2024-12-13-76 mit
+    Wirkung vom 01.01.2025. Berichtigt am 28.11.2025 (Aktualisierung der EWR-Fussnoten).
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. WICHTIGER BEFUND: Kapitel 3 (Avgrensning av opphavsretten) wurde am
+    07.09.2026 auf die Begriffe "tekst- og datautvinning" und "datautvinning" geprüft — OHNE TREFFER.
+    Norwegen hatte zu diesem Zeitpunkt KEINE TDM-Schranke; sie ist erst mit Prop. 41 LS (2025–2026) im
+    Gesetzgebungsverfahren.
+
+    '
+  kurzbeschreibung: 'Das norwegische Urheberrechtsgesetz. Für KI ist der auffälligste Befund eine Abwesenheit:
+    Anders als Österreich (§ 42h UrhG) und Deutschland (§§ 44b, 60d UrhG) hat Norwegen die TDM-Schranken
+    der Art. 3 und 4 der Richtlinie (EU) 2019/790 noch nicht umgesetzt. Für das Training von KI-Modellen
+    auf urheberrechtlich geschützten Werken besteht in Norwegen damit — wie in der Schweiz — keine gesetzliche
+    Erlaubnis. Die Umsetzung ist mit Prop. 41 LS (2025–2026) beim Storting anhängig; dort sollen die TDM-Regeln
+    nach Angaben aus dem Verfahren in §§ 50 d und 50 e åndsverkloven eingefügt werden.
+
+    '
+  inkrafttreten:
+    datum: 2018-07-01
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2018-06-15-40
+  anwendungsdaten: []
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - 'Keine TDM-Schranke im geltenden Recht (Prüfung von Kapitel 3 am 07.09.2026 ohne Treffer). Wer in
+    Norwegen zu kommerziellen Zwecken trainiert, braucht Lizenzen.
+
+    '
+  - 'Norwegen arbeitet stark mit der AVTALELISENS (erweiterte kollektive Lizenz), die im Gesetzestitel
+    ausdrücklich genannt ist ("forvaltning av rettigheter ved avtalelisens mv."). Das ist der nordische
+    Sonderweg und der wahrscheinlichste Mechanismus, über den KI-Training in Norwegen lizenziert wird
+    — ein für den Rechtsvergleich sehr lohnender Punkt.
+
+    '
+  dokumente:
+  - datum: 2025-01-01
+    typ: konsolidiert
+    titel: LOV-2018-06-15-40 — åndsverkloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2018-06-15-40
+    sprache: 'no'
+    urheber: Lovdata / Kultur- og likestillingsdepartementet
+    verifiziert: true
+    notiz: 'Metadaten und Kapitel 3 (Abgrenzung des Urheberrechts) gelesen; Prüfung auf TDM-Begriffe ohne
+      Treffer.
+
+      '
+  offene_punkte:
+  - 'Die Prüfung auf eine TDM-Schranke beschränkte sich auf Kapitel 3. Sollte eine solche Vorschrift an
+    anderer Stelle stehen, wäre der Befund zu korrigieren; die Existenz von Prop. 41 LS spricht aber klar
+    dafür, dass sie fehlt.
+
+    '
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/2018-06-15-40
+  bezug_regelwerke:
+  - no-prop-41-ls
+  - ch-urg
+  - at-urhg
+  letzte_pruefung: 2026-09-07
+- id: no-prop-41-ls
+  jurisdiktion: 'no'
+  kurztitel: Prop. 41 LS (2025–2026) — Umsetzung der DSM-Richtlinie, TDM in §§ 50 d/50 e
+  offizieller_titel: 'Prop. 41 LS (2025–2026) Endringer i åndsverkloven mv. (gjennomføring av nett- og
+    videresendingsdirektivet og digitalmarkedsdirektivet) og samtykke til godkjenning av EØS-komiteens
+    beslutninger nr. 332/2023 og 333/2023
+
+    '
+  fundstelle: Prop. 41 LS (2025–2026), vorgelegt am 27.03.2026 vom Kultur- og likestillingsdepartementet.
+  verfahrensnummer: Prop. 41 LS (2025–2026)
+  status: verfahren
+  status_detail: 'Beim Storting anhängig. Sie enthält zugleich die Zustimmung zur Genehmigung der Beschlüsse
+    des Gemeinsamen EWR-Ausschusses Nr. 332/2023 und 333/2023 — das ist die EWR-rechtliche Grundlage,
+    ohne die die Richtlinien in Norwegen nicht gelten.
+
+    '
+  kurzbeschreibung: 'Setzt die Richtlinien (EU) 2019/789 (Online-Übertragungen und Weiterverbreitung)
+    und (EU) 2019/790 (Urheberrecht im digitalen Binnenmarkt) in norwegisches Recht um. Für KI zentral
+    sind die Bestimmungen über Text- und Data-Mining, die nach den Angaben aus dem Verfahren in §§ 50
+    d und 50 e åndsverkloven eingefügt werden sollen; im Anhörungsentwurf war vorgesehen, die Legaldefinition
+    des Text- und Data-Mining aus Art. 2 Nr. 2 der Richtlinie in einer eigenen Bestimmung (§ 50 d) umzusetzen.
+    Daneben Regelungen für Einrichtungen des Kulturerbes und für den Unterricht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.regjeringen.no/no/dokumenter/prop.-41-ls-20252026/id3154279/
+  anwendungsdaten: []
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - Umsetzung der TDM-Schranken der Art. 3 und 4 der Richtlinie (EU) 2019/790.
+  - 'Legaldefinition des Text- und Data-Mining (Art. 2 Nr. 2 DSM-RL) in einer eigenen Bestimmung — nach
+    dem Anhörungsentwurf § 50 d.
+
+    '
+  - 'Zugleich Zustimmung zu den EWR-Ausschussbeschlüssen Nr. 332/2023 und 333/2023. Das zeigt exemplarisch
+    den zweistufigen Weg, den auch die KI-Verordnung in Norwegen nehmen muss.
+
+    '
+  dokumente:
+  - datum: 2026-03-27
+    typ: entwurf
+    titel: Prop. 41 LS (2025–2026)
+    url: https://www.regjeringen.no/no/dokumenter/prop.-41-ls-20252026/id3154279/
+    sprache: 'no'
+    urheber: Kultur- og likestillingsdepartementet
+    verifiziert: true
+    notiz: 'Amtliche Regierungsvorlage mit den Erwägungen zu Text- und Data-Mining und den Stellungnahmen
+      der Verwertungsgesellschaften.
+
+      '
+  offene_punkte:
+  - 'Der genaue Wortlaut der vorgeschlagenen §§ 50 d und 50 e — vor allem die Ausgestaltung des Opt-out
+    nach Art. 4 Abs. 3 DSM-RL — ist NICHT gelesen worden. Das ist der wichtigste urheberrechtliche Nachtrag
+    für Norwegen.
+
+    '
+  - Stand der Ausschussberatung im Storting nicht ermittelt.
+  monitoring_quellen:
+  - https://www.regjeringen.no/no/dokumenter/prop.-41-ls-20252026/id3154279/
+  - https://www.stortinget.no/
+  bezug_regelwerke:
+  - no-aandsverkloven
+  letzte_pruefung: 2026-09-07
+- id: no-medieansvarsloven
+  jurisdiktion: 'no'
+  kurztitel: medieansvarsloven — redaktionelle Verantwortlichkeit
+  offizieller_titel: 'Lov om redaksjonell uavhengighet og ansvar i redaktørstyrte journalistiske medier
+    (medieansvarsloven) — Gesetz über redaktionelle Unabhängigkeit und Verantwortung in redaktionell geleiteten
+    journalistischen Medien
+
+    '
+  fundstelle: LOV-2020-05-29-59, kundgemacht 29.05.2020, in Kraft seit 01.07.2020.
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht.
+  kurzbeschreibung: 'Regelt die redaktionelle Unabhängigkeit und die Verantwortlichkeitsverteilung in
+    redaktionell geleiteten journalistischen Medien: Pflichten bei der Veröffentlichung (Kapitel 2, §§
+    4–6), redaktionelle Unabhängigkeit (Kapitel 3, § 7) und die Haftung des Redakteurs. Für KI ist das
+    Gesetz der Rahmen, in dem sich die Verantwortung für KI-generierte oder KI-gestützte redaktionelle
+    Inhalte bestimmt: Wer redaktionell verantwortlich ist, bleibt es auch für maschinell erzeugte Beiträge.
+
+    '
+  inkrafttreten:
+    datum: 2020-07-01
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2020-05-29-59
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - haftung
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Kapitel 2 (§§ 4–6): Pflichten bei der Veröffentlichung.'
+  - 'Kapitel 3 (§ 7): redaktionelle Unabhängigkeit.'
+  - 'Anknüpfungspunkt für die Frage, wer für KI-erzeugte redaktionelle Inhalte haftet — das Gesetz kennt
+    keine KI-spezifische Ausnahme.
+
+    '
+  dokumente:
+  - datum: 2020-07-01
+    typ: konsolidiert
+    titel: LOV-2020-05-29-59 — medieansvarsloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2020-05-29-59
+    sprache: 'no'
+    urheber: Lovdata / Kultur- og likestillingsdepartementet
+    verifiziert: true
+    notiz: Metadaten und Kapitelstruktur gelesen.
+  offene_punkte:
+  - Einzelvorschriften nicht im Volltext gelesen.
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/2020-05-29-59
+  bezug_regelwerke: []
+  letzte_pruefung: 2026-09-07
+- id: no-datatilsynet-sandkasse
+  jurisdiktion: 'no'
+  kurztitel: Regulatorische Sandkasse für KI bei Datatilsynet
+  offizieller_titel: Datatilsynets regulatoriske sandkasse for kunstig intelligens
+  fundstelle: 'Keine eigene gesetzliche Grundlage; von Datatilsynet auf Grundlage seiner Aufgaben nach
+    personopplysningsloven und DSGVO eingerichtet und aus dem Staatshaushalt finanziert.
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Bestehend und laufend. Erste Runde mit Informationsveranstaltung und Eröffnungsveranstaltung;
+    seither mehrere Projektrunden mit veröffentlichten Abschlussberichten.
+
+    '
+  kurzbeschreibung: 'Die international meistzitierte norwegische KI-Institution. Datatilsynet stellt ausgewählten
+    Unternehmen unterschiedlicher Grösse und Branchen KOSTENLOSE Beratung zur Verfügung, um KI-Systeme
+    mit Personendaten datenschutzkonform zu entwickeln, und veröffentlicht anschliessend Abschlussberichte,
+    die als Leitlinien wirken. Ziel ist es, "Innovation ethischer und verantwortungsvoller künstlicher
+    Intelligenz aus der Datenschutzperspektive zu stimulieren". Die Sandkasse ist KEINE Regulierungssandbox
+    im Sinne des Art. 57 KI-VO — jene soll in Norwegen erst nach Inkrafttreten der KI-loven entstehen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.datatilsynet.no/regelverk-og-verktoy/sandkasse-for-kunstig-intelligens/
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - Kostenlose Beratung ausgewählter Projekte durch die Aufsichtsbehörde.
+  - 'Veröffentlichte Abschlussberichte je Projekt; sie sind die eigentliche Ausbeute und werden international
+    als Auslegungshilfe zu Art. 22 DSGVO und zur Datenschutz-Folgenabschätzung bei KI herangezogen.
+
+    '
+  - 'Abzugrenzen von der KI-Sandkasse nach Art. 57 KI-VO, die nach Angaben von KI Norge erst mit der KI-loven
+    kommt.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Sandkasse for kunstig intelligens
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/sandkasse-for-kunstig-intelligens/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Amtliche Übersichtsseite der Aufsichtsbehörde.
+  - datum: '2026-05-27'
+    typ: bericht
+    titel: Samtaleroboter på offentlige virksomheters nettsider
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/samtaleroboter-pa-offentlige-virksomheters-nettsider/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: 'Helsedirektoratet: KI-gestützte Beratungschatbots öffentlicher Stellen — ob anonym möglich,
+      und wenn nicht, wie rechtmäßig.'
+  - datum: '2026-03-16'
+    typ: bericht
+    titel: 'InkludMI: Intelligent inkludering'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/inkludmi-intelligent-inkludering/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Generative KI gegen den Ausschluss junger Menschen vom Arbeitsleben; Träger, Ehrenamt, Arbeitgeber
+      und NAV.
+  - datum: '2026-02-03'
+    typ: bericht
+    titel: Informasjonsdeling for å bekjempe betalingsbedrageri
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/informasjonsdeling-for-a-bekjempe-betalingsbedrageri-med-dnb-nordea-sparebank1-eika-gruppen-og-norsk-regnesentral/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Datenteilung zwischen DNB, Nordea, SpareBank1, Eika und Norsk Regnesentral gegen Zahlungsbetrug.
+  - datum: '2026-02-03'
+    typ: bericht
+    titel: Utvidet innsamling, deling og behandling av data fra BankID
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/utvidet-innsamling-deling-og-behandling-av-data-fra-bankid/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Erweiterte Erhebung und Verarbeitung von BankID-Daten.
+  - datum: '2026-02-03'
+    typ: bericht
+    titel: Tipskanal for forsikringssvindel
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/tipskanal-med-finans-norge-forsikringsdrift-fnf/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Hinweisgeberkanal gegen Versicherungsbetrug mit Finans Norge.
+  - datum: '2026-02-03'
+    typ: bericht
+    titel: Informasjonsdeling for å styrke anti-hvitvaskingsarbeid
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/informasjonsdeling-for-a-styrke-eika-bankenes-anti-hvitvaskingsarbeid/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Datenteilung der Eika-Banken zur Geldwäschebekämpfung.
+  - datum: '2025-05-20'
+    typ: bericht
+    titel: 'Ahus: Fullmakt til bedre personvern'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/ahus-fullmakt-til-bedre-personvern/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: 'Krankenhaus Akershus: Vollmachtslösung für besseren Datenschutz.'
+  - datum: '2025-01-13'
+    typ: bericht
+    titel: 'SALT (Mobai u.a.): Sikring av digitale identiteter'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/salt-mobai-m.fl.-sikring-av-digitale-identiteter
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Biometrische Sicherung digitaler Identitäten.
+  - datum: '2024-12-11'
+    typ: bericht
+    titel: 'Juridisk ABC: Jussboten LawAi'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/juridisk-abc-jussboten-lawai/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Rechtsberatungs-Chatbot — der für das Berufsrecht einschlägigste Bericht der Reihe.
+  - datum: '2024-11-26'
+    typ: bericht
+    titel: 'NTNU: Copilot med personvernbriller på'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/ntnu-copilot-med-personvernbriller-pa/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Einsatz von Microsoft Copilot an einer Universität, datenschutzrechtlich durchgeprüft.
+  - datum: '2024-03-20'
+    typ: bericht
+    titel: 'Politihøgskolen: PrevBOT'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/politihogskolen-prevbot/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: 'Polizeihochschule: KI zur Erkennung von Grooming in Chats — grundrechtlich der heikelste Fall
+      der Reihe.'
+  - datum: '2023-04-25'
+    typ: bericht
+    titel: 'Doorkeeper: Intelligent kameraovervåking'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/doorkeeper-intelligent-kameraovervaking-med-personvern-i-fokus/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Intelligente Kameraüberwachung.
+  - datum: '2023-02-07'
+    typ: bericht
+    titel: 'Ahus: Hjerterom for etisk AI'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/ahus-hjerterom-for-etisk-ai/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Ethische KI in der Herzmedizin.
+  - datum: '2023-01-09'
+    typ: bericht
+    titel: 'Ruter: I rute med kunstig intelligens'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/ruter-i-rute-med-kunstig-intelligens/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: 'Verkehrsbetrieb Oslo: KI in der Fahrgast-App.'
+  - datum: '2023-01-05'
+    typ: bericht
+    titel: 'Simplifai og NVE: Digital medarbeider'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/simplifai-og-nve-digital-medarbeider/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Digitaler Mitarbeiter bei der Wasser- und Energiedirektion.
+  - datum: '2022-11-22'
+    typ: bericht
+    titel: 'Helse Bergen: KI i oppfølging av sårbare pasienter'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/helse-bergen-kunstig-intelligens-i-oppfolging-av-sarbare-pasienter/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Vorhersage von Rückkehrrisiken bei Patienten.
+  - datum: '2022-11-10'
+    typ: bericht
+    titel: 'Finterai: Maskinlæring uten datadeling'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/finterai-maskinlaring-uten-datadeling/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Föderiertes Lernen ohne Datenteilung — technisch der interessanteste Ansatz.
+  - datum: '2022-02-16'
+    typ: bericht
+    titel: 'AVT: Aktivitetsdata for vurdering og tilpassing'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/aktivitetsdata-for-vurdering-og-tilpassing-avt/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Lernaktivitätsdaten in der Schule.
+  - datum: '2022-02-02'
+    typ: bericht
+    titel: 'Secure Practice: Tilpasset sikkerhetsopplæring'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/secure-practice-tilpasset-sikkerhetsopplaring/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Personalisierte Sicherheitsschulung von Beschäftigten.
+  - datum: '2022-01-17'
+    typ: bericht
+    titel: 'NAV: Prediksjonsmodell for sykefravær'
+    url: https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/nav-prediksjonsmodell-for-sykefravar/
+    sprache: 'no'
+    urheber: Datatilsynet
+    verifiziert: true
+    notiz: Vorhersagemodell für Krankschreibungen bei der Arbeitsverwaltung — der erste Fall der Sandkasse.
+  offene_punkte:
+  - 'Die Liste der Projekte und die URLs der einzelnen Abschlussberichte sind NICHT erfasst worden; die
+    abgerufene Seite gab nur die allgemeine Beschreibung und Termine der ersten Runde wieder. Das ist
+    für Norwegen der lohnendste Nachtrag, weil die Berichte die eigentliche Rechtsanwendungspraxis enthalten.
+
+    '
+  - Gründungsdatum der Sandkasse nicht am amtlichen Text belegt.
+  - 'Die 20 Sandkastenberichte sind verlinkt, aber inhaltlich nicht ausgewertet. Vorrang: PrevBOT (Grooming-Erkennung
+    durch die Polizei) und Jussboten LawAi (Rechtsberatung durch einen Chatbot).'
+  monitoring_quellen:
+  - https://www.datatilsynet.no/regelverk-og-verktoy/sandkasse-for-kunstig-intelligens/
+  bezug_regelwerke:
+  - no-personopplysningsloven
+  - no-ki-loven
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Die Projektübersicht der Sandkasse im Browser aufgerufen und alle 20 abgeschlossenen
+    Projekte mit Datum und Adresse übernommen. Die Adressen stammen aus den Verweisen der Übersichtsseite,
+    nicht aus einem Muster. Die Einzelberichte selbst sind noch nicht gelesen.'
+- id: ch-zgb
+  jurisdiktion: ch
+  kurztitel: ZGB Art. 28 f. — Persönlichkeitsschutz (der Schweizer Deepfake-Rechtsbehelf)
+  offizieller_titel: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907 (ZGB)
+  fundstelle: 'SR 210. Fassung: Stand am 1. Januar 2026.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht, Fassung Stand am 01.01.2026.
+  kurzbeschreibung: 'Solange die Schweiz keinen Deepfake-Straftatbestand hat und Art. 179quater StGB an
+    das Erfordernis einer echten Aufnahme gebunden ist, ist der zivilrechtliche Persönlichkeitsschutz
+    der praktisch wichtigste Rechtsbehelf gegen KI-erzeugte Bilder, Stimmen und Texte. Art. 28 Abs. 1
+    gibt jedem, der in seiner Persönlichkeit widerrechtlich verletzt wird, einen Anspruch "gegen jeden,
+    der an der Verletzung mitwirkt" — diese Formulierung erfasst neben dem Ersteller auch Plattformen
+    und Verbreiter. Art. 28 Abs. 2 nennt die Rechtfertigungsgründe (Einwilligung, überwiegendes privates
+    oder öffentliches Interesse, Gesetz). Art. 28a gibt die Klagerechte: Verbot einer drohenden Verletzung,
+    Beseitigung einer bestehenden, Feststellung der Widerrechtlichkeit, dazu Berichtigung und Urteilsveröffentlichung;
+    Ansprüche auf Schadenersatz, Genugtuung und Gewinnherausgabe bleiben vorbehalten.
+
+    '
+  inkrafttreten:
+    datum: 1912-01-01
+    verifiziert: false
+    quelle: https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de
+  anwendungsdaten: []
+  themenachsen:
+  - grundrechte
+  - content
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 28 Abs. 1: Anspruch "gegen jeden, der an der Verletzung mitwirkt" — die Passivlegitimation ist
+    damit weit; sie erfasst auch denjenigen, der ein KI-erzeugtes Bild verbreitet, ohne es erstellt zu
+    haben.
+
+    '
+  - 'Art. 28 Abs. 2: Widerrechtlichkeit entfällt bei Einwilligung, überwiegendem privatem oder öffentlichem
+    Interesse oder gesetzlicher Rechtfertigung. Hier liegt der Streitpunkt bei Satire, Kunst und Berichterstattung
+    mit synthetischen Bildern.
+
+    '
+  - 'Art. 28a: Unterlassung, Beseitigung, Feststellung, Berichtigung, Urteilsveröffentlichung; daneben
+    Schadenersatz, Genugtuung und GEWINNHERAUSGABE. Die Gewinnherausgabe ist gegenüber kommerziellen Deepfake-Anbietern
+    der wirksamste Hebel.
+
+    '
+  - 'Kein Erfordernis einer echten Aufnahme — anders als bei Art. 179quater StGB. Deshalb greift der zivilrechtliche
+    Schutz gerade dort, wo das Strafrecht versagt.
+
+    '
+  dokumente:
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: SR 210 — Schweizerisches Zivilgesetzbuch, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: 'Stabile ELI-Adresse. Der Volltext von Art. 28 und Art. 28a ist über den Dateispeicher der
+      Fassung vom 01.01.2026 gelesen worden (siehe folgendes Dokument).
+
+      '
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: SR 210 — Fassung vom 01.01.2026 (Dateispeicher, HTML)
+    url: https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/de/html/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-de-html-4.html
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Direkt abrufbarer Volltext; Art. 28 und Art. 28a gelesen.
+  offene_punkte:
+  - 'Inkrafttreten des ZGB (01.01.1912) nicht am Text belegt.
+
+    '
+  - 'Schweizer Rechtsprechung zu Art. 28 ZGB bei KI-erzeugten Inhalten ist nicht gefunden worden.
+
+    '
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de
+  bezug_regelwerke:
+  - ch-stgb
+  - ch-dsg
+  letzte_pruefung: 2026-09-07
+- id: ch-swissmedic-ki
+  jurisdiktion: ch
+  kurztitel: Swissmedic — Rahmenbedingungen für KI in Arzneimittelentwicklung und -zulassung
+  offizieller_titel: 'Swissmedic: Rahmenbedingungen für den Einsatz künstlicher Intelligenz in der Arzneimittelentwicklung
+    und im Zulassungsverfahren
+
+    '
+  fundstelle: 'Keine Rechtsnorm. Verwaltungsinformation des Schweizerischen Heilmittelinstituts; zuletzt
+    aktualisiert unter Verweis auf internationale Dokumente bis Mai 2025.
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Laufende Verwaltungspraxis, keine Verordnung und kein Rundschreiben mit Aussenwirkung.
+    Swissmedic stützt sich ausdrücklich auf internationale Leitlinien (EMA, FDA, WHO, IMDRF) und nicht
+    auf eine eigene schweizerische KI-Rechtsgrundlage.
+
+    '
+  kurzbeschreibung: 'Swissmedic beschreibt, welche Anforderungen es an den Einsatz von KI und maschinellem
+    Lernen im Lebenszyklus von Arzneimitteln und Medizinprodukten stellt: Identifizierung neuer therapeutischer
+    Moleküle, Design klinischer Studien, freigaberelevante Analytik von Fertigarzneimitteln. Verlangt
+    werden vollständige Dokumentation nach dem aktuellen Stand von Wissenschaft und Technik, Beurteilung
+    der Datenqualität, Nachvollziehbarkeit der Modelle, Qualitätskontrolle und Bias-Management sowie enge
+    Begleitung über den gesamten Produktlebenszyklus. Sanktionen ergeben sich nicht aus diesem Dokument,
+    sondern aus dem Heilmittelgesetz und der Medizinprodukteverordnung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.swissmedic.ch/swissmedic/de/home/humanarzneimittel/authorisations/artificiel-intelligence.html
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-medizin
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - Dokumentationspflicht nach aktuellem Stand von Wissenschaft und Technik.
+  - Beurteilung der Datenqualität und Bias-Management.
+  - Nachvollziehbarkeit der Modelle über den gesamten Lebenszyklus.
+  - 'Ausdrückliche Anlehnung an internationale Referenzen (EMA Reflection Paper, FDA-Guidance, WHO, IMDRF)
+    statt an eigenes schweizerisches KI-Recht — typisch für die schweizerische Regulierungstechnik im
+    Heilmittelbereich, die dem EU-Recht autonom nachvollzieht.
+
+    '
+  dokumente:
+  - datum: 2025-05-01
+    typ: leitlinie
+    titel: Rahmenbedingungen für KI in Arzneimittelentwicklung und Zulassung
+    url: https://www.swissmedic.ch/swissmedic/de/home/humanarzneimittel/authorisations/artificiel-intelligence.html
+    sprache: de
+    urheber: Swissmedic — Schweizerisches Heilmittelinstitut
+    verifiziert: true
+    notiz: 'Amtliche Informationsseite. Das genaue Veröffentlichungs- bzw. Aktualisierungsdatum ist auf
+      der Seite nicht ausgewiesen; das hier eingetragene Datum leitet sich aus dem jüngsten dort verlinkten
+      internationalen Dokument (Mai 2025) ab und ist deshalb NICHT als amtliches Datum zu verstehen.
+
+      '
+  offene_punkte:
+  - 'Die schweizerische Medizinprodukteverordnung (MepV, SR 812.213) und die Verordnung über klinische
+    Versuche mit Medizinprodukten sind NICHT geprüft worden. Ob und wie darin KI-gestützte Medizinprodukte
+    erfasst sind (Stichwort: autonom nachvollzogene MDR-Anforderungen), ist offen.
+
+    '
+  - 'Rolle des BAG bei KI im Gesundheitswesen nicht recherchiert.
+
+    '
+  monitoring_quellen:
+  - https://www.swissmedic.ch/swissmedic/de/home/humanarzneimittel/authorisations/artificiel-intelligence.html
+  bezug_regelwerke:
+  - ch-ki-regulierung-grundsatzentscheid
+  letzte_pruefung: 2026-09-07
+- id: at-arbvg-96
+  jurisdiktion: at
+  kurztitel: ArbVG § 96 — Zustimmungspflicht des Betriebsrats bei Kontrollsystemen
+  offizieller_titel: Bundesgesetz vom 14. Dezember 1973 betreffend die Arbeitsverfassung (Arbeitsverfassungsgesetz
+    — ArbVG)
+  fundstelle: 'RIS Gesetzesnummer 10008329. § 96 in Geltung seit 01.01.2011, zuletzt geändert durch BGBl.
+    I Nr. 101/2010.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht.
+  kurzbeschreibung: 'Die für den Einsatz von KI am Arbeitsplatz zentrale österreichische Norm und zugleich
+    das schärfste Mitbestimmungsrecht des deutschsprachigen Raums. § 96 Abs. 1 macht bestimmte Massnahmen
+    von der ZUSTIMMUNG des Betriebsrats abhängig — nicht bloss von einer Verhandlung. Erfasst sind unter
+    anderem die Einführung von Personalfragebögen, die über allgemeine Angaben und fachliche Qualifikationen
+    hinausgehen, und "die Einführung von Kontrollmaßnahmen und technischen Systemen zur Kontrolle der
+    Arbeitnehmer, sofern diese Maßnahmen (Systeme) die Menschenwürde berühren". KI-gestützte Leistungs-
+    und Verhaltensüberwachung, automatisierte Bewerberauswahl und algorithmisches Scoring von Beschäftigten
+    fallen typischerweise darunter. Ohne Zustimmung ist die Massnahme unzulässig; eine Ersetzung der Zustimmung
+    durch die Schlichtungsstelle ist bei § 96 nicht vorgesehen. Betriebs- vereinbarungen hierüber können
+    von jeder Seite jederzeit schriftlich und fristlos gekündigt werden.
+
+    '
+  inkrafttreten:
+    datum: 2011-01-01
+    verifiziert: true
+    quelle: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008329&Paragraf=96
+  anwendungsdaten: []
+  themenachsen:
+  - arbeit
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Zustimmung, nicht Anhörung: Ohne Zustimmung des Betriebsrats darf das Kontrollsystem nicht eingeführt
+    werden. Das unterscheidet Österreich von § 87 Abs. 1 Nr. 6 BetrVG, wo die Einigungsstelle die Zustimmung
+    ersetzen kann.
+
+    '
+  - 'Tatbestandsmerkmal "die Menschenwürde berühren" — nicht "verletzen". Die Schwelle liegt bewusst niedrig;
+    nach herrschender Auffassung genügt die Eignung zur umfassenden Kontrolle.
+
+    '
+  - 'Jederzeitige fristlose Kündbarkeit der Betriebsvereinbarung durch jede Partei. Für Arbeitgeber, die
+    ein KI-System auf eine Betriebsvereinbarung stützen, ist das ein erhebliches Bestandsrisiko.
+
+    '
+  dokumente:
+  - datum: 2011-01-01
+    typ: konsolidiert
+    titel: § 96 ArbVG — konsolidierte Fassung im RIS
+    url: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008329&Paragraf=96
+    sprache: de
+    urheber: Bundeskanzleramt, Rechtsinformationssystem des Bundes
+    verifiziert: true
+    notiz: Amtlicher konsolidierter Text der Einzelvorschrift, gelesen.
+  offene_punkte:
+  - '§ 96a ArbVG (zustimmungs- bzw. ersetzbare Massnahmen, u.a. Systeme zur automationsunterstützten Ermittlung
+    und Verarbeitung von Arbeitnehmerdaten und Beurteilungssysteme) ist NICHT gelesen worden, obwohl er
+    für KI-Beurteilungssysteme mindestens ebenso einschlägig ist. Vorrangig nachzutragen.
+
+    '
+  - Rechtsprechung des OGH zu § 96 bei KI-Systemen nicht recherchiert.
+  monitoring_quellen:
+  - https://www.ris.bka.gv.at/Bundesrecht/
+  bezug_regelwerke:
+  - at-dsg
+  letzte_pruefung: 2026-09-07
+- id: at-egovg
+  jurisdiktion: at
+  kurztitel: E-Government-Gesetz (E-GovG)
+  offizieller_titel: 'Bundesgesetz über Regelungen zur Erleichterung des elektronischen Verkehrs mit öffentlichen
+    Stellen (E-Government-Gesetz — E-GovG)
+
+    '
+  fundstelle: 'BGBl. I Nr. 10/2004, zuletzt geändert durch BGBl. I Nr. 104/2018; RIS Gesetzesnummer 20003230.
+    § 1 in der Fassung in Kraft seit 23.09.2020.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht.
+  kurzbeschreibung: 'Rahmen für die elektronische Kommunikation mit österreichischen Behörden. § 1 nennt
+    zwei Ziele: die Förderung rechtlich relevanter elektronischer Kommunikation und die Vereinfachung
+    des elektronischen Verkehrs mit Behörden sowie — für KI der interessantere Teil — die Schaffung besonderer
+    technischer Schutzmechanismen gegen Gefahren, die durch VERSTÄRKTE AUTOMATISIERTE DATENVERARBEITUNG
+    entstehen. Das Gesetz regelt insbesondere die bereichsspezifischen Personenkennzeichen, die Identifizierung
+    und Authentifizierung (Bürgerkarte/ID Austria) und den elektronischen Datenverkehr zwischen Behörden.
+    Für automatisierte Verwaltungsentscheidungen ist es die technische Ergänzung zum AVG (siehe at-avg-novelle-2026).
+
+    '
+  inkrafttreten:
+    datum: 2004-03-01
+    verifiziert: false
+    quelle: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003230&Paragraf=1
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - '§ 1: Ausdrücklicher Auftrag, technische Schutzmechanismen gegen die Gefahren verstärkter automatisierter
+    Datenverarbeitung zu schaffen — ein bemerkenswert früher gesetzlicher Anknüpfungspunkt (2004) für
+    das, was heute KI-Governance heisst.
+
+    '
+  - 'Bereichsspezifische Personenkennzeichen als Instrument der Zweckbindung — sie begrenzen die Verkettbarkeit
+    von Datenbeständen und damit die Trainingsgrundlage behördlicher KI.
+
+    '
+  dokumente:
+  - datum: 2020-09-23
+    typ: konsolidiert
+    titel: § 1 E-GovG — konsolidierte Fassung im RIS
+    url: https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003230&Paragraf=1
+    sprache: de
+    urheber: Bundeskanzleramt, Rechtsinformationssystem des Bundes
+    verifiziert: true
+    notiz: Amtlicher konsolidierter Text des § 1, gelesen.
+  offene_punkte:
+  - Nur § 1 gelesen; die übrigen Vorschriften sind nicht geprüft.
+  - Inkrafttretensdatum des Stammgesetzes nicht am Text belegt.
+  monitoring_quellen:
+  - https://www.ris.bka.gv.at/Bundesrecht/
+  bezug_regelwerke:
+  - at-avg-novelle-2026
+  - at-dsg
+  letzte_pruefung: 2026-09-07
+- id: no-straffeloven
+  jurisdiktion: 'no'
+  kurztitel: straffeloven — norwegisches Strafgesetzbuch
+  offizieller_titel: Lov om straff (straffeloven) — Gesetz über die Strafe
+  fundstelle: 'LOV-2005-05-20-28, kundgemacht 20.05.2005, in Kraft seit 01.10.2015 (teilweise seit 07.03.2008);
+    zuletzt geändert durch LOV-2026-06-23-71 mit Wirkung vom 01.07.2026.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht in einer sehr aktuellen Fassung (Änderung mit Wirkung vom 01.07.2026).
+    Ob darin ein Deepfake-Tatbestand enthalten ist, wurde NICHT geprüft.
+
+    '
+  kurzbeschreibung: 'Das norwegische Strafgesetzbuch von 2005, das die straffelov von 1902 abgelöst hat.
+    Für KI-Sachverhalte einschlägig sind die Tatbestände zum Schutz des Privatlebens und der Ehre, zur
+    Verbreitung sexualisierter Darstellungen, zum Betrug und zur Identitätsverletzung. Es ist die Auffangebene
+    für Deepfakes, Stimmklon-Betrug und KI-gestützte Belästigung, solange die KI-Verordnung in Norwegen
+    nicht gilt.
+
+    '
+  inkrafttreten:
+    datum: 2015-10-01
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2005-05-20-28
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Auffangfunktion mangels KI-spezifischen Strafrechts. Die konkreten Paragrafen sind nicht gelesen
+    worden.
+
+    '
+  dokumente:
+  - datum: 2026-07-01
+    typ: konsolidiert
+    titel: LOV-2005-05-20-28 — straffeloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2005-05-20-28
+    sprache: 'no'
+    urheber: Lovdata / Justis- og beredskapsdepartementet
+    verifiziert: true
+    notiz: Metadaten verifiziert; Einzelvorschriften nicht gelesen.
+  offene_punkte:
+  - 'Ob die norwegische straffelov einen Deepfake- oder Bildmanipulationstatbestand enthält (und ob die
+    Änderung mit Wirkung vom 01.07.2026 einen solchen eingeführt hat), ist NICHT geprüft. Das ist der
+    wichtigste strafrechtliche Nachtrag für Norwegen.
+
+    '
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/2005-05-20-28
+  bezug_regelwerke:
+  - no-medieansvarsloven
+  letzte_pruefung: 2026-09-07
+- id: no-markedsforingsloven
+  jurisdiktion: 'no'
+  kurztitel: markedsføringsloven — Marketing- und Vertragsbedingungenkontrolle
+  offizieller_titel: 'Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven) — Gesetz
+    über die Kontrolle von Marketing und Vertragsbedingungen
+
+    '
+  fundstelle: 'LOV-2009-01-09-2, kundgemacht 09.01.2009, in Kraft seit 01.06.2009; zuletzt geändert durch
+    LOV-2026-05-07-17 mit Wirkung vom 01.07.2026. Berichtigt 25.10.2023 (Anhang zur Verordnung (EU) 2017/2394).
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht; sehr aktuelle Änderung mit Wirkung vom 01.07.2026.
+  kurzbeschreibung: 'Das norwegische Lauterkeits- und Verbraucherschutzrecht. Es ist der Hebel gegen irreführende
+    KI-Werbung, gegen manipulative Personalisierung ("dark patterns") und gegen nicht offengelegte KI-Kommunikation
+    im Geschäftsverkehr. Zuständig für den Vollzug ist Forbrukertilsynet (Verbraucherbehörde), das Verfügungen
+    und Zwangsgelder erlassen kann — anders als in der Schweiz, wo das UWG weitgehend auf Zivilklage und
+    Antragsstrafverfahren angewiesen ist. Die Anknüpfung an die Verordnung (EU) 2017/2394 zeigt, dass
+    Norwegen auch im Verbraucherschutz in die europäische Durchsetzungszusammenarbeit eingebunden ist.
+
+    '
+  inkrafttreten:
+    datum: 2009-06-01
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2009-01-09-2
+  anwendungsdaten: []
+  themenachsen:
+  - wettbewerb
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - Verbot irreführender und aggressiver Geschäftspraktiken — Auffangnorm für KI-Werbung.
+  - Behördliche Durchsetzung durch Forbrukertilsynet mit Verfügungs- und Zwangsgeldbefugnis.
+  - Einbindung in die EU-Durchsetzungszusammenarbeit nach Verordnung (EU) 2017/2394.
+  dokumente:
+  - datum: 2026-07-01
+    typ: konsolidiert
+    titel: LOV-2009-01-09-2 — markedsføringsloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2009-01-09-2
+    sprache: 'no'
+    urheber: Lovdata / Barne- og familiedepartementet
+    verifiziert: true
+    notiz: Metadaten verifiziert; Einzelvorschriften nicht gelesen.
+  offene_punkte:
+  - 'Was die Änderung mit Wirkung vom 01.07.2026 (LOV-2026-05-07-17) geändert hat, ist nicht geprüft —
+    angesichts des Datums ein naheliegender Kandidat für digitale bzw. KI-bezogene Neuerungen.
+
+    '
+  - Praxis von Forbrukertilsynet zu KI nicht recherchiert.
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/2009-01-09-2
+  - https://www.forbrukertilsynet.no/
+  bezug_regelwerke:
+  - ch-uwg
+  letzte_pruefung: 2026-09-07
+- id: no-likestillingsloven
+  jurisdiktion: 'no'
+  kurztitel: likestillings- og diskrimineringsloven — Gleichstellung und Diskriminierungsverbot
+  offizieller_titel: 'Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)
+    — Gesetz über Gleichstellung und das Verbot der Diskriminierung
+
+    '
+  fundstelle: 'LOV-2017-06-16-51, kundgemacht 16.06.2017, in Kraft seit 01.01.2018; zuletzt geändert durch
+    LOV-2024-06-14-33 mit Wirkung vom 01.07.2024.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht.
+  kurzbeschreibung: 'Das norwegische Antidiskriminierungsgesetz, das vier frühere Gesetze von 2013 zusammenführt.
+    Für KI ist es die Norm, an der algorithmische Benachteiligung gemessen wird — bei automatisierter
+    Bewerberauswahl, Kreditscoring, Versicherungstarifierung und behördlicher Risikobewertung. Es kennt
+    sowohl unmittelbare als auch mittelbare Diskriminierung; gerade die mittelbare Diskriminierung durch
+    scheinbar neutrale algorithmische Kriterien ist der praktisch relevante Anknüpfungspunkt. Durchgesetzt
+    wird es über Diskrimineringsnemnda (Diskriminierungsausschuss) und Likestillings- og diskrimineringsombudet.
+    Die Verbindung zu KI ist ausdrücklich auch in § 12 Abs. 1 Buchst. b der neuen forvaltningslov angelegt,
+    der bei automatisierten Verwaltungsentscheidungen Massnahmen gegen "usaklig forskjellsbehandling"
+    verlangt.
+
+    '
+  inkrafttreten:
+    datum: 2018-01-01
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2017-06-16-51
+  anwendungsdaten: []
+  themenachsen:
+  - grundrechte
+  - arbeit
+  - haftung
+  regelungsschwerpunkte:
+  - Unmittelbare und mittelbare Diskriminierung — letztere ist der Ansatzpunkt gegen algorithmischen Bias.
+  - Durchsetzung über Diskrimineringsnemnda und das Likestillings- og diskrimineringsombud, nicht nur
+    über Gerichte.
+  - Aktivitäts- und Berichtspflichten für Arbeitgeber, die auf KI-gestützte Personalprozesse durchschlagen.
+  dokumente:
+  - datum: 2024-07-01
+    typ: konsolidiert
+    titel: LOV-2017-06-16-51 — likestillings- og diskrimineringsloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2017-06-16-51
+    sprache: 'no'
+    urheber: Lovdata / Kultur- og likestillingsdepartementet
+    verifiziert: true
+    notiz: Metadaten verifiziert; Einzelvorschriften nicht gelesen.
+  offene_punkte:
+  - Entscheidungen von Diskrimineringsnemnda zu algorithmischer Benachteiligung nicht recherchiert.
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/2017-06-16-51
+  - https://www.diskrimineringsnemnda.no/
+  bezug_regelwerke:
+  - no-forvaltningsloven-2025
+  letzte_pruefung: 2026-09-07
+- id: no-arbeidsmiljoloven
+  jurisdiktion: 'no'
+  kurztitel: arbeidsmiljøloven — Arbeitsumfeldgesetz
+  offizieller_titel: 'Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) — Gesetz
+    über Arbeitsumfeld, Arbeitszeit und Kündigungsschutz
+
+    '
+  fundstelle: 'LOV-2005-06-17-62, kundgemacht 17.06.2005, in Kraft seit 01.01.2006; zuletzt geändert durch
+    LOV-2026-06-19-33 mit Wirkung vom 01.07.2026.
+
+    '
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht; sehr aktuelle Änderung mit Wirkung vom 01.07.2026.
+  kurzbeschreibung: 'Das norwegische Arbeitsschutz- und Arbeitsvertragsrecht. Für KI am Arbeitsplatz relevant
+    sind die Vorschriften über Kontrollmassnahmen gegenüber Arbeitnehmern (Kapitel 9), die Beteiligungsrechte
+    und die Anforderungen an ein vollständig verantwortbares Arbeitsumfeld. Anders als § 96 ArbVG in Österreich
+    kennt Norwegen kein Zustimmungserfordernis eines Betriebsrats, sondern eine Pflicht zur Erörterung
+    mit den gewählten Vertretern, verbunden mit einer Verhältnismässigkeitsprüfung und den datenschutzrechtlichen
+    Anforderungen der personopplysningsloven. Das ist beim Vergleich der drei Rechtsordnungen der Punkt,
+    an dem Österreich am schärfsten und Norwegen am flexibelsten reguliert.
+
+    '
+  inkrafttreten:
+    datum: 2006-01-01
+    verifiziert: true
+    quelle: https://lovdata.no/dokument/NL/lov/2005-06-17-62
+  anwendungsdaten: []
+  themenachsen:
+  - arbeit
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Kapitel 9: Kontrollmassnahmen gegenüber Arbeitnehmern — sachlicher Grund und Verhältnismässigkeit,
+    Erörterungspflicht.'
+  - Zusammenspiel mit der personopplysningsloven bei der Verarbeitung von Beschäftigtendaten.
+  dokumente:
+  - datum: 2026-07-01
+    typ: konsolidiert
+    titel: LOV-2005-06-17-62 — arbeidsmiljøloven, amtlicher Text
+    url: https://lovdata.no/dokument/NL/lov/2005-06-17-62
+    sprache: 'no'
+    urheber: Lovdata / Arbeids- og inkluderingsdepartementet
+    verifiziert: true
+    notiz: Metadaten verifiziert; Einzelvorschriften nicht gelesen.
+  offene_punkte:
+  - 'Kapitel 9 ist NICHT im Volltext gelesen worden; die Darstellung der Kontrollmassnahmen beruht auf
+    der Systematik des Gesetzes und ist am Text nachzuprüfen.
+
+    '
+  - Inhalt der Änderung mit Wirkung vom 01.07.2026 nicht geprüft.
+  monitoring_quellen:
+  - https://lovdata.no/dokument/NL/lov/2005-06-17-62
+  bezug_regelwerke:
+  - at-arbvg-96
+  - no-personopplysningsloven
+  letzte_pruefung: 2026-09-07
+- id: ch-or
+  jurisdiktion: ch
+  kurztitel: Obligationenrecht (OR) — Vertrags- und Deliktshaftung für KI-Schäden
+  offizieller_titel: 'Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches
+    (Fünfter Teil: Obligationenrecht)
+
+    '
+  fundstelle: 'SR 220. Fassung: Stand am 1. Januar 2026.'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht, Fassung Stand am 01.01.2026. Es gibt in der Schweiz KEINE KI-spezifische
+    Haftungsnorm; die Schweiz hat auch kein Gegenstück zur EU-Richtlinie über die Haftung für fehlerhafte
+    Produkte in ihrer neuen, KI-erfassenden Fassung übernommen.
+
+    '
+  kurzbeschreibung: 'Wer in der Schweiz Schäden aus KI-Systemen geltend macht, tut das über das allgemeine
+    Obligationenrecht. Drei Wege stehen offen: die Vertragshaftung nach Art. 97 ff. OR mit ihrer für den
+    Geschädigten günstigen Beweislastumkehr beim Verschulden, die Deliktshaftung nach Art. 41 ff. OR mit
+    Widerrechtlichkeit und Verschulden als Voraussetzungen, und die Geschäftsherrenhaftung nach Art. 55
+    OR. Die praktische Schwierigkeit liegt überall gleich: Ein KI-System ist kein Hilfsperson im Sinne
+    des Art. 101 OR und keine Person im Sinne des Art. 55 OR, so dass die Zurechnung autonomen Systemverhaltens
+    dogmatisch ungeklärt ist. Für den deutschen Juristen ist das der interessanteste Vergleichspunkt:
+    Die Schweiz hat die Debatte um eine KI-Haftungsnorm nicht geführt, weil sie die EU-Produkthaftungs-
+    und KI-Haftungsvorhaben nicht nachvollzogen hat.
+
+    '
+  inkrafttreten:
+    datum: 1912-01-01
+    verifiziert: false
+    quelle: https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de
+  anwendungsdaten: []
+  themenachsen:
+  - haftung
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Art. 97 Abs. 1 OR (im Volltext gelesen): "Kann die Erfüllung der Verbindlichkeit überhaupt nicht
+    oder nicht gehörig bewirkt werden, so hat der Schuldner für den daraus entstehenden Schaden Ersatz
+    zu leisten, sofern er nicht beweist, dass ihm keinerlei Verschulden zur Last falle." Die Exkulpationslast
+    liegt beim Schuldner — für Geschädigte einer fehlerhaften KI-Leistung der günstigste Weg, sofern ein
+    Vertrag besteht.
+
+    '
+  - 'Art. 41 ff. OR: Deliktshaftung mit Widerrechtlichkeit und Verschulden; die Beweislast liegt hier
+    beim Geschädigten.
+
+    '
+  - 'Art. 55 OR (Geschäftsherrenhaftung) und Art. 101 OR (Haftung für Hilfspersonen) knüpfen beide an
+    PERSONEN an. Ob und wie ein autonom agierendes KI-System darunter fällt, ist in der Schweiz nicht
+    gesetzlich geklärt.
+
+    '
+  dokumente:
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: SR 220 — Obligationenrecht, konsolidierte Fassung
+    url: https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: Stabile ELI-Adresse des Erlasses.
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: SR 220 — Fassung vom 01.01.2026 (Dateispeicher, HTML-Teil 4)
+    url: https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/de/html/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-de-html-4.html
+    sprache: de
+    urheber: Schweizerische Bundeskanzlei, Fedlex
+    verifiziert: true
+    notiz: 'Direkt abrufbarer Volltext-Teil; Art. 97 daraus wörtlich entnommen. ACHTUNG: Der Dateispeicher
+      zerlegt grosse Erlasse in mehrere HTML-Teile; die Teilnummer im Dateinamen ist zu beachten.
+
+      '
+  offene_punkte:
+  - 'WIDERSPRUCH, NICHT GEGLÄTTET: Beim Abruf des Dateispeicher-Teils wurde unter der Bezeichnung "Art.
+    41" ein Text über den Antrag unter Anwesenden ausgegeben, nicht die erwartete Schadenersatzpflicht
+    aus unerlaubter Handlung. Ob das an der Zerlegung des Erlasses in Teildokumente oder an einem Lesefehler
+    liegt, ist ungeklärt. Art. 41 OR ist deshalb hier NICHT als verifiziert zu behandeln; nur Art. 97
+    ist wörtlich belegt.
+
+    '
+  - 'Das Produktehaftpflichtgesetz (PrHG, SR 221.112.944) konnte nicht abgerufen werden (der vermutete
+    ELI cc/1993/3122_3122_3122 lieferte über den Dateispeicher keinen Text). Es fehlt in dieser Datei
+    und ist nachzutragen — für KI-Produkte ist es die naheliegende Anspruchsgrundlage.
+
+    '
+  - Inkrafttreten des OR (01.01.1912) nicht am Text belegt.
+  monitoring_quellen:
+  - https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de
+  bezug_regelwerke:
+  - ch-zgb
+  - ch-dsg
+  letzte_pruefung: 2026-09-07

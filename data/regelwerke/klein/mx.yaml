@@ -1,0 +1,2722 @@
+regelwerke:
+- id: mx-cpeum
+  jurisdiktion: mx
+  kurztitel: Verfassung Mexikos (CPEUM)
+  offizieller_titel: Constitución Política de los Estados Unidos Mexicanos
+  fundstelle: DOF 05-02-1917; última reforma DOF 2026 (fortlaufend konsolidierte Fassung der Cámara de
+    Diputados)
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Die Verfassung enthaelt keine KI-spezifische Vorschrift. Sie ist gleichwohl das tragende
+    Regelwerk der gesamten bislang ergangenen mexikanischen KI-Rechtsprechung: Art. 14 (taxatividad, Bestimmtheitsgrundsatz
+    im Strafrecht), Art. 16 (Begruendungs- und Rechtssicherheitsmassstab, seit 2009 ausdrueckliches Recht
+    auf Datenschutz), Art. 17 (effektiver Rechtsschutz), Art. 6 Apartado A (Transparenz und Datenschutz,
+    2024 neu gefasst) und Art. 28 (Schutzrechte des geistigen Eigentums). Eine Zustaendigkeit des Bundeskongresses
+    fuer KI besteht nach Art. 73 bislang NICHT — genau darum laufen zwei Verfassungsaenderungsvorhaben.
+
+    '
+  kurzbeschreibung: 'Bundesverfassung. Fuer das KI-Recht wirkt sie auf drei Wegen: erstens als Massstab
+    der abstrakten Normenkontrolle (acción de inconstitucionalidad), in der die SCJN 2025 dreimal ueber
+    landesrechtliche KI-Straftatbestaende entschieden hat; zweitens als Grundlage des richterlichen Begruendungs-
+    und Transparenzmassstabs, auf den die Jurisprudencia zum KI-Einsatz in der Justiz gestuetzt ist; drittens
+    als Kompetenzordnung: Weil Art. 73 keine KI-Kompetenz des Bundes kennt, regeln bislang die Bundesstaaten,
+    und der Bund kann ein allgemeines KI-Gesetz nur ueber eine Verfassungsaenderung oder ueber vorhandene
+    Annexkompetenzen stuetzen. Sanktionen enthaelt die Verfassung selbst nicht; Rechtsfolge einer Verletzung
+    ist die Ungueltigerklaerung der Norm oder der Amparo.
+
+    '
+  inkrafttreten:
+    datum: 1917-05-01
+    verifiziert: true
+    quelle: https://www.ordenjuridico.gob.mx/Documentos/Federal/CPEUM_REFORMA_15-04-2025.doc
+    fundstelle_norm: 'Artículo Primero Transitorio CPEUM: ''... con excepción de las disposiciones relativas
+      a las elecciones de los Supremos Poderes Federales y de los Estados, que desde luego entran en vigor,
+      no comenzará a regir sino desde el día 1o. de Mayo de 1917'' (DOF 05-02-1917)'
+  anwendungsdaten:
+  - datum: 1917-02-05
+    was_gilt: Sofortiges Inkrafttreten der Vorschriften ueber die Wahlen zu den Supremos Poderes Federales
+      und der Bundesstaaten (Ausnahme des Artículo Primero Transitorio) mit der Verkuendung im DOF.
+    verifiziert: true
+    quelle: https://www.ordenjuridico.gob.mx/Documentos/Federal/CPEUM_REFORMA_15-04-2025.doc
+  - datum: 2024-12-21
+    was_gilt: Inkrafttreten der Verfassungsreform in materia de simplificación orgánica; Art. 6 Apartado
+      A wird neu gefasst, das INAI als autonomes Verfassungsorgan entfaellt.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - governance
+  - sektor-oeffentlich
+  - content
+  regelungsschwerpunkte:
+  - 'Art. 6 Apartado A (Fassung 2024): Transparenz und Schutz personenbezogener Daten werden aus der Hand
+    eines autonomen Organs in die Verwaltung zurueckgeholt. Wortlaut: ''Las leyes en la materia determinarán
+    las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia
+    de las autoridades de control interno y vigilancia u homólogos en el ámbito federal y local para conocer
+    de los procedimientos de revisión contra los actos que emitan los sujetos obligados.'' Damit ersetzt
+    eine verwaltungsinterne Kontrolle die unabhaengige Aufsicht.'
+  - 'Art. 14 (taxatividad): Massstab der SCJN-Entscheidungen AI 66/2024, 80/2024 und 104/2024. Die SCJN
+    hat 2025 entschieden, dass eine funktionale, nicht technische Definition von ''inteligencia artificial''
+    dem Bestimmtheitsgebot genuegt, weil es ''por las propias características del lenguaje'' unmoeglich
+    sei, jeden Begriff eines Straftatbestands eindeutig zu definieren, und weil ''no existe una definición
+    única del concepto de Inteligencia Artificial''.'
+  - 'Art. 16: Rechtssicherheit und Begruendungspflicht. Tragender Massstab der Tesis II.2o.C. J/1 K (12a.)
+    zur Zulaessigkeit des KI-Einsatzes bei der Berechnung von Sicherheitsleistungen im Amparo-Verfahren;
+    Abs. 2 enthaelt seit 2009 das Recht auf Schutz personenbezogener Daten, Zugang, Berichtigung und Loeschung
+    (derechos ARCO).'
+  - 'Art. 17: Recht auf wirksamen und zuegigen Rechtsschutz — von den Kollegialgerichten als Argument
+    FUER den KI-Einsatz zur Verfahrensbeschleunigung herangezogen.'
+  - 'Art. 28: Zeitlich begrenzte Ausschliesslichkeitsrechte fuer Urheber und Erfinder — verfassungsrechtliche
+    Grundlage des Amparo Directo 6/2025 zur Schutzfaehigkeit von KI-Output.'
+  - 'Art. 73: Katalog der Bundeskompetenzen. Enthaelt KEINE KI-Kompetenz. Zwei Vorhaben (Sen. Saúl Monreal
+    Ávila, 03.02.2026; Dip. Gabriela Jiménez Godoy, 05.08.2026) wollen eine neue Fraktion einfuegen, die
+    dem Kongress die Gesetzgebung ueber KI zuweist. Ohne sie ist ein ''ley general'' verfassungsrechtlich
+    angreifbar — das ist der eigentliche Grund, warum Mexiko 2026 immer noch kein KI-Gesetz hat.'
+  dokumente:
+  - datum: 2024-12-20
+    typ: endfassung
+    titel: DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución
+      Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos / Presidencia de la República
+    verifiziert: true
+    notiz: Amtlicher DOF-Volltext, im Browser geoeffnet. Enthaelt die Neufassung des Art. 6 Apartado A
+      und die Transitorios, darunter die 90-Tage-Frist fuer die Ausfuehrungsgesetzgebung.
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: Constitución Política de los Estados Unidos Mexicanos — texto vigente
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+    sprache: es
+    urheber: Cámara de Diputados, Secretaría General
+    verifiziert: false
+    notiz: Amtliche konsolidierte Fassung. Datum steht fuer die jeweils aktuelle Fassung; nicht Seite
+      fuer Seite geprueft.
+  offene_punkte:
+  - Ob eine KI-Kompetenz in Art. 73 aufgenommen wird, entscheidet ueber die Verfassungsmaessigkeit jedes
+    kuenftigen Bundes-KI-Gesetzes. Beide Vorhaben liegen in den Ausschuessen.
+  - Ob die verwaltungsinterne Datenschutzkontrolle nach Art. 6 A n.F. den Unabhaengigkeitsanforderungen
+    des Uebereinkommens 108+ und des EU-Angemessenheitsdialogs genuegt, ist offen.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm
+  - https://www.dof.gob.mx
+  bezug_regelwerke:
+  - mx-reforma-simplificacion-organica
+  - mx-lfpdppp
+  - mx-reforma-art-73-ia
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Am konsolidierten amtlichen Text der Secretaría de Gobernación (Orden Jurídico Nacional) geprueft.
+    Das Datum war richtig. Neu belegt ist das gestaffelte Inkrafttreten: Die wahlrechtlichen Vorschriften
+    galten bereits ab der Verkuendung am 05.02.1917, der uebrige Text erst ab 01.05.1917. Der Zugang ueber
+    diputados.gob.mx war fuer die Pruefung nicht nutzbar (kein Volltextzugriff auf die Transitorios).'
+- id: mx-reforma-simplificacion-organica
+  jurisdiktion: mx
+  kurztitel: Verfassungsreform simplificación orgánica — Aufloesung des INAI
+  offizieller_titel: DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
+    Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica
+  fundstelle: Diario Oficial de la Federación, 20 de diciembre de 2024
+  verfahrensnummer: Iniciativa del Ejecutivo Federal (Andrés Manuel López Obrador, Februar 2024); verabschiedet
+    vom Congreso de la Unión und den Landesparlamenten im November/Dezember 2024
+  status: anwendbar
+  status_detail: 'In Kraft seit 21.12.2024. Sieben autonome Verfassungsorgane wurden aufgeloest, darunter
+    das INAI (Datenschutz und Transparenz), das IFT (Telekommunikation) und die COFECE (Wettbewerb). Die
+    Ausfuehrung erfolgte am 20.03.2025 durch drei neue Gesetze und am 16.07.2025 durch die Telekommunikationsreform.
+    Die Datenschutzaufsicht liegt seither bei der Secretaría Anticorrupción y Buen Gobierno, also bei
+    einem Ressort der Bundesverwaltung.
+
+    '
+  kurzbeschreibung: 'Kernstueck der institutionellen Umgestaltung Mexikos unter der Regierung Sheinbaum.
+    Der Beschluss beseitigt die verfassungsrechtliche Verankerung unabhaengiger Aufsichtsorgane und verlagert
+    deren Aufgaben in die zentrale Bundesverwaltung. Fuer das KI-Recht ist das die folgenreichste Aenderung
+    des mexikanischen Rechts der letzten Jahre: Die Datenschutzaufsicht, die in jeder anderen Rechtsordnung
+    die erste KI-Aufsichtsbehoerde ist, wird in Mexiko von einem weisungsgebundenen Ministerium gefuehrt.
+    Der Transitorio Segundo setzte dem Kongress eine Frist von neunzig Kalendertagen fuer die Anpassung
+    der einfachen Gesetze; sie wurde mit dem Gesetzespaket vom 20.03.2025 eingehalten. Eigene Sanktionen
+    enthaelt der Beschluss nicht.
+
+    '
+  inkrafttreten:
+    datum: 2024-12-21
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024
+  anwendungsdaten:
+  - datum: 2024-12-21
+    was_gilt: 'Inkrafttreten (Transitorio Primero: ''al día siguiente de su publicación''). Beginn der
+      90-Tage-Frist des Transitorio Segundo.'
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024
+  - datum: 2025-03-20
+    was_gilt: 'Erfuellung des Transitorio Segundo im Datenschutz- und Transparenzbereich: Erlass der LGTAIP,
+      der LGPDPPSO und der neuen LFPDPPP; Uebergang der INAI-Zustaendigkeiten auf die Secretaría Anticorrupción
+      y Buen Gobierno.'
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025
+  - datum: 2025-07-16
+    was_gilt: 'Erfuellung im Telekommunikationsbereich: Erlass der Ley en Materia de Telecomunicaciones
+      y Radiodifusión, Abloesung des IFT durch die Comisión Reguladora de Telecomunicaciones und die Agencia
+      de Transformación Digital y Telecomunicaciones.'
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025
+  themenachsen:
+  - datenschutz
+  - governance
+  - sektor-oeffentlich
+  - grundrechte
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Neufassung des Art. 6 Apartado A CPEUM: Statt eines autonomen Garantieorgans entscheiden ueber Rechtsbehelfe
+    gegen Entscheidungen der verpflichteten Stellen kuenftig ''las autoridades de control interno y vigilancia
+    u homólogos en el ámbito federal y local''. Der Wechsel von externer zu interner Kontrolle ist der
+    dogmatische Kern der Reform.'
+  - 'Transitorio Primero: Inkrafttreten am Tag nach der Verkuendung, mit Ausnahme des Transitorio Décimo.'
+  - 'Transitorio Segundo: ''El Congreso de la Unión tendrá un plazo de noventa días naturales a partir
+    de la entrada en vigor del presente Decreto para realizar las adecuaciones necesarias a las leyes
+    que correspondan.'' Zusaetzlich Auftrag an den Ejecutivo Federal, die Aufloesungsdekrete zu erlassen
+    und Doppelstrukturen zu beseitigen (Bezug auf Art. 134 Abs. 3 CPEUM).'
+  - Aufgeloest werden INAI, IFT, COFECE, CRE, CNH, MEJOREDU und CONEVAL. Fuer das KI-Recht relevant sind
+    vor allem INAI (Datenschutz), IFT (das in mehreren KI-Gesetzentwuerfen als kuenftige KI-Aufsichtsbehoerde
+    vorgesehen war und nun nicht mehr existiert) und COFECE (Marktmacht bei Rechenkapazitaeten und Modellen).
+  - 'Praktische Folge fuer die KI-Regulierung: Der 2024 in den Senat eingebrachte Entwurf eines Bundes-KI-Gesetzes
+    (Ricardo Monreal) wies die Zustaendigkeit dem IFT zu. Mit dessen Aufloesung wurde der Entwurf gegenstandslos
+    — ein selten klarer Fall, in dem eine Organisationsreform ein materielles Regulierungsvorhaben erledigt
+    hat.'
+  dokumente:
+  - datum: 2024-12-20
+    typ: endfassung
+    titel: DECRETO ... en materia de simplificación orgánica (DOF 20/12/2024)
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024
+    sprache: es
+    urheber: Presidencia de la República / Congreso General
+    verifiziert: true
+    notiz: Amtlicher Volltext einschliesslich Transitorios. Im Browser geoeffnet und im Wortlaut geprueft.
+  - datum: 2025-03-20
+    typ: endfassung
+    titel: DECRETO por el que se expiden la Ley General de Transparencia y Acceso a la Información Pública;
+      la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; la Ley Federal
+      de Protección de Datos Personales en Posesión de los Particulares; y se reforma el artículo 37,
+      fracción XV, de la Ley Orgánica de la Administración Pública Federal
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: true
+    notiz: Das Ausfuehrungspaket. Der amtliche Titel belegt, dass alle drei Gesetze in einem einzigen
+      Dekret erlassen wurden und zugleich Art. 37 Fr. XV LOAPF geaendert wurde — die Vorschrift, die der
+      Secretaría Anticorrupción y Buen Gobierno die Datenschutzaufsicht zuweist.
+  offene_punkte:
+  - 'Unabhaengigkeit der Aufsicht: Ob eine dem Praesidialkabinett angehoerende Sekretariatsbehoerde die
+    Anforderungen an eine Datenschutzaufsicht erfuellt, ist voelker- und europarechtlich ungeklaert und
+    beruehrt Mexikos Stellung im Abkommen 108+ und im modernisierten EU-Mexiko-Globalabkommen.'
+  - 'Die Landesebene: Die Landesgarantieorgane (organismos garantes locales) wurden parallel aufgeloest;
+    der Uebergang ist in mehreren Bundesstaaten noch nicht abgeschlossen.'
+  monitoring_quellen:
+  - https://www.gob.mx/buengobierno
+  - https://www.dof.gob.mx
+  bezug_regelwerke:
+  - mx-cpeum
+  - mx-lfpdppp
+  - mx-lgpdppso
+  - mx-lmtr
+  - mx-lfpdppp-2010
+  letzte_pruefung: 2026-09-05
+- id: mx-lfpdppp
+  jurisdiktion: mx
+  kurztitel: LFPDPPP 2025 — Datenschutz im Privatsektor
+  offizieller_titel: Ley Federal de Protección de Datos Personales en Posesión de los Particulares
+  fundstelle: Diario Oficial de la Federación, 20 de marzo de 2025
+  verfahrensnummer: Teil des Dekrets vom 20.03.2025 (LGTAIP, LGPDPPSO, LFPDPPP und Reform des Art. 37
+    Fr. XV LOAPF)
+  status: anwendbar
+  status_detail: 'In Kraft seit 21.03.2025 (Transitorio Primero). Die Fassung von 2010 ist abrogiert.
+    Aufsichtsbehoerde ist nicht mehr das INAI, sondern die Secretaría Anticorrupción y Buen Gobierno (Art.
+    2 Fr. XV). Eine Reform vom 14.11.2025 hat Art. 4 an das Código Nacional de Procedimientos Civiles
+    y Familiares angepasst; sie wird wirksam, sobald die Bundesstaaten das Nationale Verfahrensgesetzbuch
+    uebernehmen, spaetestens automatisch am 01.04.2027. Ein Durchfuehrungsreglement zur neuen Fassung
+    liegt bislang nicht vor; das Reglamento von 2011 gilt fort, soweit es nicht widerspricht.
+
+    '
+  kurzbeschreibung: 'Das zentrale Datenschutzgesetz fuer private Verantwortliche und damit das wichtigste
+    geltende Regelwerk fuer KI-Training und KI-gestuetzte Entscheidungen in Mexiko. Es verpflichtet Verantwortliche
+    auf die Grundsaetze licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información
+    und responsabilidad (Art. 5), verlangt fuer sensible Daten ausdrueckliche schriftliche Einwilligung
+    (Art. 8) und gibt der betroffenen Person in Art. 26 Fr. II ein Widerspruchsrecht gegen automatisierte
+    Verarbeitung, die unerwuenschte Rechtsfolgen erzeugt oder ihre Interessen, Rechte oder Freiheiten
+    erheblich beeintraechtigt — die einzige Vorschrift des geltenden mexikanischen Bundesrechts, die algorithmischen
+    Entscheidungen unmittelbar entgegentritt. Sanktionen: Geldbussen von 100 bis 160.000 UMA (Art. 59
+    Fr. I fuer die Verstoesse der Fraktionen II bis VII) und von 200 bis 320.000 UMA (Fraktionen VIII
+    bis XVIII), bei sensiblen Daten Verdoppelung; daneben Straftatbestaende von drei Monaten bis fuenf
+    Jahren Freiheitsstrafe (Art. 62 ff.).
+
+    '
+  inkrafttreten:
+    datum: 2025-03-21
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025
+  anwendungsdaten:
+  - datum: 2025-03-21
+    was_gilt: Vollstaendige Anwendbarkeit des neuen Gesetzes; Abrogation der LFPDPPP vom 05.07.2010 (Transitorio
+      Segundo).
+    verifiziert: true
+    quelle: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf
+  - datum: 2027-04-01
+    was_gilt: Spaetester Zeitpunkt, zu dem die Verfahrensverweisung des Art. 4 in der Fassung der Reform
+      vom 14.11.2025 auf das Código Nacional de Procedimientos Civiles y Familiares wirksam wird, falls
+      die Bundesstaaten es nicht frueher uebernehmen.
+    verifiziert: false
+    quelle: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 1: ''La presente Ley es de orden público y de observancia general en todo el territorio nacional
+    y tiene por objeto la protección de los datos personales en posesión de los particulares'' — Geltung
+    fuer alle privaten Verantwortlichen im Staatsgebiet; kein ausdruecklicher extraterritorialer Anwendungsbereich
+    nach dem Marktortprinzip, anders als Art. 3 DSGVO. Fuer auslaendische Modellanbieter ist das die entscheidende
+    Schwaeche des Gesetzes.'
+  - 'Art. 2 Fr. XV: ''Secretaría: Secretaría Anticorrupción y Buen Gobierno''. Diese Legaldefinition ist
+    die eigentliche Zaesur: Die Aufsicht ueber die Verarbeitung personenbezogener Daten durch Private
+    liegt bei einem weisungsgebundenen Ressort der Bundesverwaltung.'
+  - 'Art. 2 Fr. IV (consentimiento): ''Manifestación de la voluntad libre, específica e informada de la
+    persona titular''; Fr. VI: sensible Daten sind solche, die rassische oder ethnische Herkunft, Gesundheitszustand,
+    genetische Information, religioese, philosophische oder politische Ueberzeugungen oder die sexuelle
+    Praeferenz offenbaren.'
+  - 'Art. 5: Grundsatzkatalog licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad,
+    información, responsabilidad. Ein Grundsatz der Datenminimierung fehlt als eigener Punkt; er wird
+    ueber proporcionalidad und finalidad hergeleitet.'
+  - 'Art. 7 und 8: Einwilligung ist grundsaetzlich auch stillschweigend moeglich; fuer Vermoegens- und
+    Finanzdaten sowie fuer sensible Daten ist ausdrueckliche (bei sensiblen Daten schriftliche) Einwilligung
+    erforderlich. Fuer das Training generativer Modelle auf Datenbestaenden mit sensiblen Daten ist das
+    die schaerfste Schranke des Gesetzes.'
+  - 'Art. 9: Ausnahmen vom Einwilligungserfordernis, darunter Daten aus ''fuentes de acceso público''
+    und ''datos disociados''. Die Ausnahme fuer oeffentlich zugaengliche Quellen ist der Angelpunkt jeder
+    Diskussion ueber Web Scraping zu Trainingszwecken; eine Interessenabwaegung wie Art. 6 Abs. 1 lit.
+    f DSGVO kennt das Gesetz nicht.'
+  - 'Art. 18 und 19: Pflicht zu administrativen, technischen und physischen Sicherheitsmassnahmen; Sicherheitsvorfaelle,
+    die Rechte beeintraechtigen, sind ''de forma inmediata'' mitzuteilen.'
+  - 'Art. 21 bis 26 (derechos ARCO): Zugang, Berichtigung, Loeschung, Widerspruch. Art. 26 Fr. II gibt
+    das Widerspruchsrecht, wenn ''sus datos personales sean objeto de un tratamiento automatizado, el
+    cual le produzca efectos jurídicos no deseados'' oder die Interessen, Rechte oder Freiheiten erheblich
+    beeintraechtigt werden. Anders als Art. 22 DSGVO ist das kein grundsaetzliches Verbot mit Erlaubnisvorbehalt,
+    sondern ein geltendzumachendes Widerspruchsrecht — die Beweis- und Initiativlast liegt bei der betroffenen
+    Person.'
+  - 'Art. 27 bis 34: Antwortfrist von zwanzig Tagen, Umsetzungsfrist von weiteren fuenfzehn Tagen; die
+    Ausuebung ist unentgeltlich, mit Ausnahme der Kosten fuer Vervielfaeltigung und Versand.'
+  - 'Art. 59: Bussgeldrahmen. Fr. I: 100 bis 160.000 UMA; Fr. II: 200 bis 320.000 UMA; bei Wiederholung
+    zusaetzlich 100 bis 320.000 UMA; bei sensiblen Daten Verdoppelung.'
+  - 'Art. 62 bis 64: Straftatbestaende. Unbefugtes Herbeifuehren einer Sicherheitsverletzung: drei Monate
+    bis drei Jahre; taeuschungsbedingte Verarbeitung zur Gewinnerzielung: sechs Monate bis fuenf Jahre;
+    bei sensiblen Daten Verdoppelung.'
+  - 'Was FEHLT: Das Gesetz erwaehnt weder ''inteligencia artificial'' noch ''perfilamiento'' noch eine
+    ''evaluación de impacto''. Es gibt keine Datenschutz-Folgenabschaetzung fuer den Privatsektor, keine
+    Regelung des Profilings und keinen Auskunftsanspruch auf die Logik automatisierter Entscheidungen.
+    Wer in Mexiko ein Hochrisiko-KI-System betreibt, trifft im Datenschutzrecht auf keine spezifische
+    Pflicht.'
+  dokumente:
+  - datum: 2025-03-20
+    typ: endfassung
+    titel: DECRETO por el que se expiden la LGTAIP; la LGPDPPSO; la LFPDPPP; y se reforma el artículo
+      37, fracción XV, de la LOAPF
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: true
+    notiz: Amtliche Verkuendung. Im Browser geoeffnet, Titel im Wortlaut geprueft.
+  - datum: 2025-11-14
+    typ: konsolidiert
+    titel: Ley Federal de Protección de Datos Personales en Posesión de los Particulares — texto vigente
+      (última reforma DOF 14-11-2025)
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf
+    sprache: es
+    urheber: Cámara de Diputados, Secretaría General
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung; Art. 1, 2 Fr. XV, 5, 18, 20, 26 Fr. II, 59 und die Transitorios
+      im Wortlaut abgerufen.
+  - datum: 2025-03-20
+    typ: uebersicht
+    titel: Reformas a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares
+    url: https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: false
+    notiz: Amtliche Reformhistorie; als Monitoring-Anker gefuehrt.
+  offene_punkte:
+  - Kein Durchfuehrungsreglement zur Fassung 2025. Ob das Reglamento von 2011 fortgilt, ist umstritten.
+  - Reichweite der Ausnahme fuer 'fuentes de acceso público' beim Scraping fuer Modelltraining — bislang
+    keine veroeffentlichte Entscheidung der Secretaría.
+  - Ob die Secretaría Anticorrupción y Buen Gobierno eine eigene Auslegungspraxis zum Widerspruchsrecht
+    des Art. 26 Fr. II gegen KI-gestuetzte Entscheidungen entwickelt, ist offen; INAI-Kriterien aus der
+    Zeit vor 2025 sind formell nicht mehr bindend.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm
+  - https://www.gob.mx/buengobierno
+  bezug_regelwerke:
+  - mx-lfpdppp-2010
+  - mx-lgpdppso
+  - mx-reforma-simplificacion-organica
+  - mx-cpeum
+  letzte_pruefung: 2026-09-05
+- id: mx-lgpdppso
+  jurisdiktion: mx
+  kurztitel: LGPDPPSO — Datenschutz im oeffentlichen Sektor
+  offizieller_titel: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados
+  fundstelle: Diario Oficial de la Federación, 20 de marzo de 2025; última reforma DOF 14-11-2025
+  verfahrensnummer: Teil des Dekrets vom 20.03.2025
+  status: anwendbar
+  status_detail: 'In Kraft seit 21.03.2025; ersetzt das gleichnamige Gesetz von 2017. Bindet Behoerden,
+    Gerichte, Parteien, Gewerkschaften und alle Stellen, die oeffentliche Mittel verwenden — in Bund,
+    Laendern und Gemeinden. Aufsicht: Secretaría Anticorrupción y Buen Gobierno (Art. 3 Fr. XXVI, Art.
+    81) neben den ''autoridades garantes'' der Laender (Art. 83).
+
+    '
+  kurzbeschreibung: 'Das Gegenstueck zur LFPDPPP fuer den oeffentlichen Sektor und damit das Regelwerk,
+    an dem sich jeder KI-Einsatz der mexikanischen Verwaltung und Justiz messen lassen muss. Es kennt
+    — anders als das Privatsektorgesetz — eine Datenschutz-Folgenabschaetzung (Art. 68) und wiederholt
+    in Art. 41 Fr. II das Widerspruchsrecht gegen automatisierte Verarbeitung. Die Jurisprudencia zum
+    KI-Einsatz in der Justiz fordert als eines ihrer vier Mindestelemente ausdruecklich den ''Schutz der
+    personenbezogenen Daten der Gerichtsakte''; die materielle Grundlage dieses Elements ist dieses Gesetz.
+    Sanktionen richten sich gegen Amtstraeger und folgen dem Recht der administrativen Verantwortlichkeit.
+
+    '
+  inkrafttreten:
+    datum: 2025-03-21
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025
+  anwendungsdaten:
+  - datum: 2025-03-21
+    was_gilt: Anwendbarkeit; Abrogation der LGPDPPSO vom 26.01.2017.
+    verifiziert: true
+    quelle: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 3 Fr. XXVI: Legaldefinition ''Secretaría'' = Secretaría Anticorrupción y Buen Gobierno.'
+  - 'Art. 15: Einwilligungserfordernis fuer sensible Daten.'
+  - 'Art. 41 Fr. II: Widerspruchsrecht, wenn ''sus datos personales sean objeto de un tratamiento automatizado,
+    el cual le produzca efectos jurídicos no deseados o afecte de manera significativa sus intereses''.
+    Wortgleich mit Art. 26 Fr. II LFPDPPP — der mexikanische Gesetzgeber hat die Vorschrift 2025 in beide
+    Gesetze uebernommen, ohne sie an den KI-Einsatz anzupassen.'
+  - 'Art. 68: ''deberá realizar una evaluación de impacto en la protección de datos personales''. Die
+    einzige Folgenabschaetzungspflicht des mexikanischen Datenschutzrechts. Sie trifft ausschliesslich
+    oeffentliche Stellen und ist damit der einzige rechtlich greifbare Anknuepfungspunkt fuer eine Grundrechte-Folgenabschaetzung
+    beim KI-Einsatz der Verwaltung.'
+  - 'Art. 81 bis 83: Zustaendigkeiten der Secretaría und der Landesgarantiestellen; Art. 86 bis 100: Ueberpruefungsverfahren
+    (recurso de revisión).'
+  - Kein Verweis auf 'inteligencia artificial'. Wie im Privatsektorrecht fehlt jede KI-spezifische Pflicht;
+    der KI-Einsatz der Verwaltung wird ueber die allgemeinen Grundsaetze und die Folgenabschaetzung erfasst.
+  dokumente:
+  - datum: 2025-03-20
+    typ: endfassung
+    titel: DECRETO por el que se expiden la LGTAIP; la LGPDPPSO; la LFPDPPP ... (DOF 20/03/2025)
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: true
+    notiz: Amtliche Verkuendung des Pakets.
+  - datum: 2025-11-14
+    typ: konsolidiert
+    titel: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados — texto vigente
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Art. 3 Fr. XXVI, 41 Fr. II, 68, 81 und 83 abgerufen.
+  offene_punkte:
+  - Ob die Folgenabschaetzung des Art. 68 auf KI-Systeme der Justiz angewandt wird — die Jurisprudencia
+    von Januar 2026 nennt den Datenschutz als Mindestelement, ohne Art. 68 zu zitieren.
+  - Verhaeltnis der Secretaría zu den fortbestehenden Landesgarantiestellen bei laenderuebergreifenden
+    Systemen.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lgpdppso.htm
+  bezug_regelwerke:
+  - mx-lfpdppp
+  - mx-reforma-simplificacion-organica
+  - mx-lsniimsp
+  letzte_pruefung: 2026-09-05
+- id: mx-lfpdppp-2010
+  jurisdiktion: mx
+  kurztitel: LFPDPPP 2010 — abgeloestes Datenschutzgesetz
+  offizieller_titel: Ley Federal de Protección de Datos Personales en Posesión de los Particulares (05-07-2010)
+  fundstelle: Diario Oficial de la Federación, 5 de julio de 2010
+  verfahrensnummer: ''
+  status: aufgehoben
+  status_detail: 'Abrogiert mit Wirkung vom 21.03.2025 durch Transitorio Segundo des Dekrets vom 20.03.2025.
+    Zusammen mit ihr wurden die LGTAIP 2015, die LFTAIP 2016 und die LGPDPPSO 2017 aufgehoben. Bedeutung
+    heute nur noch fuer Altfaelle und fuer das Verstaendnis der Aufsichtsarchitektur: Unter ihr lag die
+    Aufsicht beim IFAI, spaeter beim INAI, also bei einem unabhaengigen Organ.
+
+    '
+  kurzbeschreibung: 'Erstes umfassendes mexikanisches Datenschutzgesetz fuer den Privatsektor. Es begruendete
+    die derechos ARCO, den Aviso de Privacidad und die Aufsicht durch ein unabhaengiges Organ. Seine Bedeutung
+    fuer das KI-Recht liegt darin, dass die gesamte Auslegungspraxis zu Trainingsdaten, Scraping und automatisierter
+    Verarbeitung, die das INAI zwischen 2010 und 2024 aufgebaut hat, auf ihm beruht — und mit der Aufloesung
+    des INAI formell den Boden verloren hat. Sanktionen entsprachen weitgehend denen der Fassung 2025.
+
+    '
+  inkrafttreten:
+    datum: 2010-07-06
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5150631&fecha=05/07/2010
+    fundstelle_norm: TRANSITORIOS PRIMERO.- 'El presente Decreto entrará en vigor al día siguiente al
+      de su publicación en el Diario Oficial de la Federación' (DOF vom 05.07.2010)
+  anwendungsdaten:
+  - datum: 2025-03-21
+    was_gilt: Ausserkrafttreten (Transitorio Segundo des Dekrets vom 20.03.2025).
+    verifiziert: true
+    quelle: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - Aufsicht durch das IFAI/INAI als autonomes Organ — der entscheidende Unterschied zur Fassung 2025.
+  - Reglamento de la LFPDPPP (DOF 21.12.2011) und die Lineamientos del Aviso de Privacidad (DOF 17.01.2013)
+    waren die praktisch wichtigsten Ausfuehrungsvorschriften; ihr Fortgelten unter der Fassung 2025 ist
+    ungeklaert.
+  dokumente:
+  - datum: 2025-03-20
+    typ: endfassung
+    titel: Transitorio Segundo des Dekrets vom 20.03.2025 (Abrogationsanordnung)
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5752569&fecha=20/03/2025
+    sprache: es
+    urheber: Congreso General
+    verifiziert: true
+    notiz: Belegt Zeitpunkt und Umfang der Aufhebung.
+  offene_punkte:
+  - Fortgeltung des Reglamento 2011 und der INAI-Kriterien.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm
+  bezug_regelwerke:
+  - mx-lfpdppp
+  - mx-reforma-simplificacion-organica
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - Am DOF-Volltext des Ursprungsdekrets geprueft. Datum richtig. Das Ausserkrafttreten am 21.03.2025
+    (Transitorio Segundo des Dekrets vom 20.03.2025) war bereits verifiziert; Status 'aufgehoben' bleibt
+    richtig.
+- id: mx-lmtr
+  jurisdiktion: mx
+  kurztitel: LMTR — Telekommunikations- und Rundfunkgesetz 2025
+  offizieller_titel: Ley en Materia de Telecomunicaciones y Radiodifusión
+  fundstelle: Diario Oficial de la Federación, 16 de julio de 2025
+  verfahrensnummer: Iniciativa del Ejecutivo Federal (April 2025); im Senat wegen der urspruenglichen
+    Sperrbefugnis fuer digitale Plattformen zurueckgezogen und im Juni/Juli 2025 neu verhandelt
+  status: anwendbar
+  status_detail: 'In Kraft seit 17.07.2025. Hebt die Ley Federal de Telecomunicaciones y Radiodifusión
+    von 2014 auf. Regulierungsbehoerde ist die Comisión Reguladora de Telecomunicaciones (CRT), die am
+    19.10.2025 ihre Arbeit aufnahm; die Agencia de Transformación Digital y Telecomunicaciones (ATDT)
+    fuehrt die Politik. Wichtigster Befund fuer dieses Projekt: Das Gesetz enthaelt NULL Fundstellen des
+    Begriffs ''inteligencia artificial''. Die im Februar 2026 im Senat eingebrachte Initiative, KI-Pflichten
+    in dieses Gesetz einzufuegen, liegt in den Ausschuessen.
+
+    '
+  kurzbeschreibung: 'Das neue Rahmengesetz fuer Telekommunikation und Rundfunk. Es setzt die Verfassungsreform
+    vom Dezember 2024 um, indem es das IFT durch die CRT ersetzt und die politische Steuerung bei der
+    ATDT buendelt. Es definiert in Art. 3 Fr. L den Begriff der ''plataforma digital'' als Internetdienst
+    von Intermediaeren zum Anbieten oder Vermitteln von Guetern, Diensten, Anwendungen, Produkten oder
+    Inhalten — eine Definition, unter die generative KI-Dienste fallen koennen, ohne dass daran materielle
+    Pflichten geknuepft waeren. Sanktionen richten sich nach dem allgemeinen Sanktionsteil des Gesetzes
+    gegen Konzessionaere und Diensteanbieter, nicht gegen Modellanbieter.
+
+    '
+  inkrafttreten:
+    datum: 2025-07-17
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025
+  anwendungsdaten:
+  - datum: 2025-07-17
+    was_gilt: Inkrafttreten; Abrogation der LFTR 2014.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025
+  - datum: 2025-10-19
+    was_gilt: Aufnahme der Taetigkeit durch die Comisión Reguladora de Telecomunicaciones als neuer Regulierer.
+    verifiziert: false
+    quelle: https://www.jornada.com.mx/noticia/2025/10/19/economia/inicia-funciones-la-crt-nuevo-regulador-en-telecomunicaciones
+  themenachsen:
+  - governance
+  - content
+  - marktzugang
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'BEFUND: Volltextsuche im amtlichen DOF-Text ergibt null Treffer fuer ''inteligencia artificial''.
+    Das Gesetz regelt KI nicht. Wer Mexiko als Beispiel fuer sektorale KI-Regulierung im Telekommunikationsrecht
+    anfuehrt, irrt — die entsprechenden Vorschriften sind Entwurfsstadium.'
+  - 'Art. 3 Fr. III: Legaldefinition ''Agencia'' = Agencia de Transformación Digital y Telecomunicaciones;
+    Fr. XVI: ''Comisión'' = Comisión Reguladora de Telecomunicaciones. Die Trennung von politischer Steuerung
+    (ATDT) und Regulierung (CRT) ersetzt das einheitliche autonome IFT.'
+  - 'Art. 3 Fr. L: ''Plataforma digital: Servicio digital que prestan intermediarios a través de Internet
+    a fin de, entre otros, ofrecer, proveer, comercializar o intermediar bienes, servicios, aplicaciones,
+    productos o contenidos.'' Anknuepfungspunkt fuer kuenftige Plattform- und KI-Pflichten.'
+  - 'Die im Entwurf enthaltene Befugnis zur voruebergehenden Sperrung digitaler Plattformen (urspruenglicher
+    Art. 109) wurde nach oeffentlicher Kritik gestrichen. Der Vorgang ist fuer die Bewertung kuenftiger
+    Content-Regulierung zu KI-Inhalten aufschlussreich: Eine Sperrbefugnis war politisch nicht durchsetzbar.'
+  dokumente:
+  - datum: 2025-07-16
+    typ: endfassung
+    titel: DECRETO por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga
+      la Ley Federal de Telecomunicaciones y Radiodifusión
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: true
+    notiz: Amtlicher Volltext. Im Browser geoeffnet; Volltextsuche nach 'inteligencia artificial' ergab
+      null Treffer.
+  - datum: 2025-07-16
+    typ: konsolidiert
+    titel: Ley en Materia de Telecomunicaciones y Radiodifusión — texto vigente
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Konsolidierte Fassung; Art. 3 Fr. III, XVI und L geprueft.
+  offene_punkte:
+  - Die Senatsinitiative vom Februar 2026, die Pflichten fuer Hochrisikosysteme, Emotionserkennung, biometrische
+    Kategorisierung und synthetische Inhalte in dieses Gesetz einfuegen will, ist nicht im amtlichen Gaceta-Text
+    geprueft (nur Sekundaerquelle).
+  - Ob die CRT sich fuer generative KI-Dienste als 'plataformas digitales' zustaendig haelt, ist ungeklaert.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lmtr.htm
+  - https://www.gob.mx/atdt
+  bezug_regelwerke:
+  - mx-lftr-2014
+  - mx-reforma-simplificacion-organica
+  - mx-plan-nacional-ia-2026
+  letzte_pruefung: 2026-09-05
+- id: mx-lftr-2014
+  jurisdiktion: mx
+  kurztitel: LFTR 2014 — abgeloestes Telekommunikationsgesetz
+  offizieller_titel: Ley Federal de Telecomunicaciones y Radiodifusión (14-07-2014)
+  fundstelle: Diario Oficial de la Federación, 14 de julio de 2014
+  verfahrensnummer: ''
+  status: aufgehoben
+  status_detail: 'Abrogiert am 17.07.2025 durch die LMTR. Sie war das Gesetz, das dem IFT seine Befugnisse
+    gab. Mehrere KI-Gesetzentwuerfe der Jahre 2023 und 2024 wiesen dem IFT die kuenftige KI-Aufsicht zu;
+    mit der Aufhebung ist diese Konstruktion entfallen.
+
+    '
+  kurzbeschreibung: 'Rahmengesetz der Telekommunikationsreform von 2013/2014. Fuer das KI-Recht nur mittelbar
+    bedeutsam: Es begruendete das Instituto Federal de Telecomunicaciones als autonomes Fachorgan mit
+    Wettbewerbsbefugnissen im Telekommunikations- und Rundfunksektor. Der Entwurf einer Ley Federal que
+    Regula la Inteligencia Artificial von 2024 sah das IFT als ''autoridad competente'' vor. Mit der Aufhebung
+    des Gesetzes und der Aufloesung des IFT wurde diese Zuweisung gegenstandslos.
+
+    '
+  inkrafttreten:
+    datum: 2014-08-13
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5352323&fecha=14/07/2014
+    fundstelle_norm: TRANSITORIOS PRIMERO.- 'El presente Decreto entrará en vigor a los treinta días naturales
+      siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto
+      en los transitorios siguientes' (DOF vom 14.07.2014)
+  anwendungsdaten:
+  - datum: 2025-07-17
+    was_gilt: Ausserkrafttreten durch die LMTR.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025
+  themenachsen:
+  - governance
+  - marktzugang
+  - wettbewerb
+  regelungsschwerpunkte:
+  - Begruendete das IFT als autonomen Regulierer mit eigener Wettbewerbszustaendigkeit — die Institution,
+    an die mehrere gescheiterte KI-Gesetzentwuerfe anknuepfen wollten.
+  dokumente:
+  - datum: 2025-07-16
+    typ: endfassung
+    titel: Abrogationsanordnung im Dekret vom 16.07.2025
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025
+    sprache: es
+    urheber: Congreso General
+    verifiziert: true
+    notiz: Der Titel des Dekrets nennt die Abrogation ausdruecklich.
+  offene_punkte: []
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lftr.htm
+  bezug_regelwerke:
+  - mx-lmtr
+  - mx-iniciativa-monreal-2024
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - Am DOF-Volltext geprueft. Datum richtig (30 natuerliche Tage ab 14.07.2014 = 13.08.2014). Status 'aufgehoben'
+    bleibt richtig; die Abrogation durch die LMTR am 17.07.2025 war bereits verifiziert.
+- id: mx-decreto-artistas-ia-2026
+  jurisdiktion: mx
+  kurztitel: Artistenreform 2026 — Stimm- und Bildklonverbot
+  offizieller_titel: DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal
+    del Trabajo y de la Ley Federal del Derecho de Autor, en materia de derechos de las personas trabajadoras
+    artistas intérpretes o ejecutantes
+  fundstelle: Diario Oficial de la Federación, 14 de mayo de 2026
+  verfahrensnummer: Beschlossen vom Congreso de la Unión am 15.04.2026 (Dip. Kenia López Rabadán, Presidenta
+    de la Cámara de Diputados; Sen. Laura Itzel Castillo Juárez, Presidenta del Senado)
+  status: anwendbar
+  status_detail: 'In Kraft seit 15.05.2026 (Transitorio Primero: Tag nach der Verkuendung). Dies ist die
+    einzige Vorschriftengruppe des geltenden mexikanischen Bundesrechts, die kuenstliche Intelligenz materiell
+    und ausdruecklich regelt. Der Transitorio Tercero verpflichtete die Exekutive, das Reglamento de la
+    Ley Federal del Derecho de Autor binnen sechzig Tagen anzupassen; diese Frist lief am 13.07.2026 ab.
+    Eine Anpassung ist bis zum 05.09.2026 nicht nachweisbar.
+
+    '
+  kurzbeschreibung: 'Das Dekret verankert im Urheber- und im Arbeitsrecht ein Zustimmungserfordernis fuer
+    die Nachbildung von Stimme und Bild ausuebender Kuenstlerinnen und Kuenstler durch KI-Systeme. Es
+    wirkt auf drei Ebenen: als Leistungsschutzrecht (Art. 118 Fr. VII LFDA: die Ersetzung der Darbietung
+    durch KI-Systeme wird zum ausschliesslichen Recht der ausuebenden Person), als Persoenlichkeitsrecht
+    (Art. 87 LFDA: der Schutz von Bild und Stimme erfasst ''los resultados generados por sistemas de inteligencia
+    artificial o cualquier otra tecnología''), und als arbeitsvertragliche Pflicht (Art. 305 Bis LFT:
+    der Arbeitsvertrag muss Bedingungen und Verguetung fuer die Nutzung von Bild oder Stimme durch KI-Systeme
+    ausdruecklich regeln). Art. 121 LFDA verlangt fuer jede Klonung oder Ersetzung von Stimme oder Bild
+    durch KI ''un acuerdo previo y por escrito entre las partes''. Sanktionsseitig greifen die urheberrechtlichen
+    Verwaltungsbussen der LFDA (fuer eine der betroffenen Fraktionen tausend bis fuenftausend Tagessaetze
+    des Mindestlohns).
+
+    '
+  inkrafttreten:
+    datum: 2026-05-15
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+  anwendungsdaten:
+  - datum: 2026-05-15
+    was_gilt: Vollstaendige Anwendbarkeit der neuen Art. 87, 118 Fr. VII, 121, 163 Fr. IX LFDA und Art.
+      304, 305 Bis, 307 bis 310 LFT.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+  - datum: 2026-07-13
+    was_gilt: Ablauf der Sechzig-Tage-Frist des Transitorio Tercero zur Anpassung des Reglamento de la
+      Ley Federal del Derecho de Autor.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+  themenachsen:
+  - urheberrecht
+  - arbeit
+  - content
+  - grundrechte
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Art. 87 LFDA n.F. Abs. 1 und 2 (woertlich): ''La imagen, incluida la voz, de las personas artistas
+    intérpretes o ejecutantes, así como de sus personajes, sólo puede ser usada o publicada, con su consentimiento
+    expreso, o bien con el de sus representantes o los titulares de los derechos correspondientes. La
+    protección a la que se refiere el párrafo anterior abarca los resultados generados por sistemas de
+    inteligencia artificial o cualquier otra tecnología.'' Damit erstreckt Mexiko den Bild- und Stimmschutz
+    ausdruecklich auf KI-Ausgaben — die Vorschrift knuepft an das ERGEBNIS an, nicht an das Verfahren,
+    und erfasst damit auch Ausgaben, die kein geschuetztes Werk reproduzieren.'
+  - 'Art. 87 LFDA n.F. Abs. 3: Die Einwilligung ist aus wichtigem Grund widerruflich, es sei denn, das
+    Recht ist nach Art. 118 letzter Absatz erschoepft; der Widerrufende haftet fuer daraus entstehende
+    Schaeden. Eine Widerrufslösung, die im europaeischen Recht kein Vorbild hat.'
+  - 'Art. 118 Fr. VII LFDA n.F. (woertlich): ''La suplantación de sus interpretaciones o ejecuciones por
+    sistemas de inteligencia artificial o cualquier otra tecnología que resulten en generación de clones
+    de sus interpretaciones...'' — die Ersetzung durch KI wird als eigenstaendige Verwertungsart in den
+    Katalog der Leistungsschutzrechte aufgenommen. Das ist mehr als ein Persoenlichkeitsschutz: Es ist
+    ein handelbares Ausschliesslichkeitsrecht.'
+  - 'Art. 121 LFDA n.F. Abs. 2 (woertlich): ''Cualquier clonación o suplantación de la voz o imagen realizada
+    con sistemas de inteligencia artificial o cualquier otra tecnología que resulten en generación de
+    clones de sus interpretaciones o que simulen su voz de manera identificable, requerirá de un acuerdo
+    previo y por escrito entre las partes.'' Schriftformerfordernis; die Wendung ''que simulen su voz
+    de manera identificable'' ist der Zurechnungsmassstab — Identifizierbarkeit, nicht Werkidentitaet.'
+  - 'Art. 102 LFDA: ''Los programas de computación, incluidos los de inteligencia artificial, se protegen
+    en los mismos términos que las obras literarias.'' Klarstellung, dass KI-Software als Computerprogramm
+    geschuetzt ist. Diese Ergaenzung stammt aus der Reihe der Reformen 2025/2026 und ist von der Frage
+    der Schutzfaehigkeit des OUTPUTS strikt zu trennen, die die SCJN im Amparo Directo 6/2025 verneint
+    hat.'
+  - 'Art. 163 Fr. IX LFDA n.F.: Vertraege ueber Interpretation, Sprechertaetigkeit, Werbesprecher, Synchronisation
+    oder Auffuehrung werden in den Katalog der beim Registro Público del Derecho de Autor eintragbaren
+    Vertraege aufgenommen — praktisch der Nachweisweg fuer die Schriftform des Art. 121.'
+  - 'Art. 305 Bis LFT n.F. (woertlich): ''En los contratos que regulen la relación laboral de las personas
+    trabajadoras artistas intérpretes o ejecutantes, se deberán estipular de manera específica las condiciones
+    y la remuneración correspondiente para la utilización de su imagen o voz a través de sistemas de inteligencia
+    artificial o cualquier otra tecnología.'' Der Arbeitsvertrag wird zum Instrument der KI-Governance;
+    fehlt die Klausel, ist der Vertrag unvollstaendig und die Nutzung nicht gedeckt.'
+  - 'Art. 304 LFT n.F.: Erweiterung des persoenlichen Anwendungsbereichs auf ''salas de doblaje'' und
+    ''cualquier otro lugar o entorno donde se lleve a cabo la interpretación y/o ejecución'' — die Synchronsprecherbranche,
+    die den politischen Druck fuer die Reform erzeugt hat, wird ausdruecklich erfasst.'
+  - 'Transitorio Tercero: ''El Reglamento de la Ley Federal del Derecho de Autor deberá ser reformado
+    y adicionado dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.'''
+  dokumente:
+  - datum: 2026-05-14
+    typ: endfassung
+    titel: DECRETO ... en materia de derechos de las personas trabajadoras artistas intérpretes o ejecutantes
+      (DOF 14/05/2026)
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: true
+    notiz: Amtlicher Volltext. Im Browser geoeffnet; Art. 87, 118 Fr. VII, 121, 163 Fr. IX LFDA, Art.
+      304 und 305 Bis LFT sowie die Transitorios woertlich entnommen.
+  - datum: 2026-05-14
+    typ: uebersicht
+    titel: Reformas a la Ley Federal del Derecho de Autor (Reform Nr. 16)
+    url: https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Amtliche Reformhistorie; belegt die Reformen vom 14.11.2025, 15.01.2026 und 14.05.2026.
+  offene_punkte:
+  - Das Reglamento LFDA ist trotz abgelaufener Frist offenbar nicht angepasst. Ohne Ausfuehrungsvorschriften
+    bleibt insbesondere die Registrierung der Vertraege nach Art. 163 Fr. IX praktisch unklar.
+  - Verhaeltnis zwischen dem Widerrufsrecht des Art. 87 Abs. 3 und der Rechtserschoepfung nach Art. 118
+    letzter Absatz.
+  - 'Keine Regelung fuer Personen, die keine ausuebenden Kuenstler sind: Der Schutz gegen Stimm- und Bildklonung
+    gilt nur fuer artistas intérpretes o ejecutantes. Fuer alle uebrigen Personen bleibt es beim allgemeinen
+    Persoenlichkeitsrecht und beim Strafrecht.'
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
+  bezug_regelwerke:
+  - mx-lfda
+  - mx-lft
+  - mx-cpf
+  letzte_pruefung: 2026-09-05
+- id: mx-lfda
+  jurisdiktion: mx
+  kurztitel: LFDA — mexikanisches Urheberrechtsgesetz
+  offizieller_titel: Ley Federal del Derecho de Autor
+  fundstelle: Diario Oficial de la Federación, 24 de diciembre de 1996; última reforma DOF 14-05-2026
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Geltende Fassung nach der Artistenreform vom 14.05.2026. Das Gesetz behaelt den strikt
+    personalen Werkbegriff bei — Art. 12: ''Autor es la persona física que ha creado una obra literaria
+    y artística'' —, auf den die SCJN im Amparo Directo 6/2025 die Verneinung der Schutzfaehigkeit von
+    KI-Output gestuetzt hat. Es enthaelt KEINE Schranke fuer Text und Data Mining. Zustaendige Behoerde
+    ist das Instituto Nacional del Derecho de Autor (INDAUTOR).
+
+    '
+  kurzbeschreibung: 'Das Urheberrechtsgesetz ist in Mexiko die Rechtsordnung, in der KI zuerst hoechstrichterlich
+    behandelt wurde. Es schuetzt Werke ''de creación original'' (Art. 3), weist die Urheberschaft ausschliesslich
+    natuerlichen Personen zu (Art. 12) und kennt Urheberpersoenlichkeitsrechte als unverzichtbar und unveraeusserlich.
+    Seit dem 15.05.2026 enthaelt es zusaetzlich das KI-Klonverbot der Art. 87, 118 Fr. VII und 121 und
+    die Klarstellung des Art. 102 zur Schutzfaehigkeit von KI-Software. Eine TDM-Schranke fehlt: Die Schrankenregelung
+    des Art. 148 ist ein enumerativer Katalog ohne Auffangtatbestand und ohne Bezug zu Analysenutzungen.
+    Wer in Mexiko ein Modell auf geschuetztem Material trainiert, kann sich auf keine ausdrueckliche gesetzliche
+    Erlaubnis stuetzen. Sanktionen: Verwaltungsbussen des Titels XII sowie die Straftatbestaende der Art.
+    424 ff. Código Penal Federal.
+
+    '
+  inkrafttreten:
+    datum: 1997-03-24
+    verifiziert: true
+    quelle: https://www.ordenjuridico.gob.mx/Documentos/Federal/wo17068.doc
+    fundstelle_norm: TRANSITORIOS PRIMERO.- 'La presente Ley entrará en vigor a los noventa días siguientes
+      a su publicación en el Diario Oficial de la Federación' (DOF vom 24.12.1996); der neunzigste Tag
+      ist der 24.03.1997
+  anwendungsdaten:
+  - datum: 2026-05-15
+    was_gilt: KI-Klonverbot der Art. 87, 118 Fr. VII und 121 anwendbar.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+  - datum: 2025-07-02
+    was_gilt: 'Auslegung der Art. 3, 11 und 12 durch die Segunda Sala der SCJN im Amparo Directo 6/2025:
+      KI kann weder Urheberin sein noch Traegerin von Urheberpersoenlichkeitsrechten.'
+    verifiziert: true
+    quelle: https://transparencia-ciudadana.scjn.gob.mx/sites/default/files/page/2025-08/scjn-ad-6-2025.pdf
+  themenachsen:
+  - urheberrecht
+  - content
+  - grundrechte
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Art. 3: ''Las obras protegidas por esta Ley son aquellas de creación original susceptibles de ser
+    divulgadas o reproducidas en cualquier forma o medio.'' Originalitaet als Schutzvoraussetzung.'
+  - 'Art. 11: Das Urheberrecht ist die staatliche Anerkennung zugunsten von Schoepfern und begruendet
+    Urheberpersoenlichkeits- und Verwertungsrechte.'
+  - 'Art. 12: ''Autor es la persona física que ha creado una obra literaria y artística.'' Der Satz, auf
+    dem die gesamte mexikanische Doktrin zur KI-Autorschaft ruht. Die SCJN hat im Amparo Directo 6/2025
+    daraus abgeleitet, dass der KI ''individualidad, originalidad, creatividad, experiencia, percepción
+    del entorno y sentimientos'' fehlen. Zugleich hat sie klargestellt, dass hybride Werke mit substanziellem
+    menschlichem Beitrag eintragungsfaehig bleiben.'
+  - 'Art. 13: Enumerativer Katalog von vierzehn geschuetzten Werkarten, darunter programas de cómputo;
+    ergaenzt durch die Analogieklausel.'
+  - 'Art. 87 n.F.: Bild- und Stimmschutz ausuebender Kuenstler einschliesslich KI-Ergebnisse (siehe mx-decreto-artistas-ia-2026).'
+  - 'Art. 102 n.F.: ''Los programas de computación, incluidos los de inteligencia artificial, se protegen
+    en los mismos términos que las obras literarias.'''
+  - 'Art. 118 Fr. VII und Art. 121 n.F.: Leistungsschutz gegen KI-Klonung, Schriftformerfordernis.'
+  - 'TDM-LUECKE: Weder Art. 148 noch eine andere Vorschrift erlaubt Vervielfaeltigungen zu Analyse- oder
+    Trainingszwecken. Es gibt in Mexiko weder eine DSM-artige Schranke noch einen Fair-Use-Auffangtatbestand.
+    Das ist der schaerfste Unterschied zum US-Recht und zugleich der Grund, warum die mexikanische Diskussion
+    sich ganz auf den Output verlagert hat.'
+  dokumente:
+  - datum: 2026-05-14
+    typ: konsolidiert
+    titel: Ley Federal del Derecho de Autor — texto vigente (última reforma DOF 14-05-2026)
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
+    sprache: es
+    urheber: Cámara de Diputados, Secretaría General
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung; Art. 3, 11, 12, 13, 87, 102, 118 und 121 abgerufen.
+  - datum: 2026-05-14
+    typ: uebersicht
+    titel: Reformas a la Ley Federal del Derecho de Autor
+    url: https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Sechzehn Reformen seit 1996; die drei juengsten datieren vom 14.11.2025, 15.01.2026 und 14.05.2026.
+  - datum: 2025-08-06
+    typ: endfassung
+    titel: Amparo Directo 6/2025 — engrose (SCJN, Segunda Sala)
+    url: https://transparencia-ciudadana.scjn.gob.mx/sites/default/files/page/2025-08/scjn-ad-6-2025.pdf
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Nación
+    verifiziert: false
+    notiz: Amtliche Fundstelle des Engrose auf dem Transparenzportal der SCJN. Ueber die Suchergebnisse
+      ermittelt, nicht selbst geoeffnet — als Verbesserung des bislang im Bestand gefuehrten Entwurfslinks
+      vermerkt.
+  offene_punkte:
+  - Keine TDM-Schranke. Ob die mexikanische Praxis den 'uso honrado' (Art. 148) analog heranzieht, ist
+    ungeklaert; eine Entscheidung dazu existiert nicht.
+  - Kein Leistungsschutz und kein Kennzeichnungsgebot fuer synthetische Inhalte ausserhalb des Kuenstlerschutzes.
+  - Reglamento LFDA noch nicht an die Reform 2026 angepasst.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm
+  - https://www.gob.mx/indautor
+  bezug_regelwerke:
+  - mx-decreto-artistas-ia-2026
+  - mx-cpf
+  - mx-lft
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - Am konsolidierten amtlichen Text der Secretaría de Gobernación geprueft. Datum richtig. Transitorio
+    Segundo abrogiert die Ley Federal sobre el Derecho de Autor vom 29.12.1956. Status 'anwendbar' bleibt
+    richtig; die Artistenreform vom 14.05.2026 ist als Anwendungsdatum bereits verifiziert.
+- id: mx-lft
+  jurisdiktion: mx
+  kurztitel: LFT — Bundesarbeitsgesetz
+  offizieller_titel: Ley Federal del Trabajo
+  fundstelle: Diario Oficial de la Federación, 1 de abril de 1970; última reforma DOF 14-05-2026
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Geltende Fassung mit dem durch die Artistenreform eingefuegten Art. 305 Bis. Ausserhalb
+    des Kapitels ueber ausuebende Kuenstler enthaelt das Gesetz keine KI-spezifische Vorschrift; insbesondere
+    gibt es keine allgemeine Unterrichtungspflicht ueber algorithmisches Management. Eine entsprechende
+    Initiative vom April 2026 liegt in den Ausschuessen.
+
+    '
+  kurzbeschreibung: 'Das Bundesarbeitsgesetz regelt seit dem 15.05.2026 in Art. 305 Bis, dass Arbeitsvertraege
+    ausuebender Kuenstlerinnen und Kuenstler die Bedingungen und die Verguetung fuer die Nutzung von Bild
+    oder Stimme durch KI-Systeme ausdruecklich festlegen muessen. Das ist der einzige arbeitsrechtliche
+    KI-Tatbestand des mexikanischen Bundesrechts. Fuer alle uebrigen Beschaeftigten gilt nur das allgemeine
+    Recht: Art. 132 (Arbeitgeberpflichten), das Verbot der Diskriminierung (Art. 2 und 3) und die Regeln
+    ueber Telearbeit (Kapitel XII Bis, Art. 330-A ff.), die eine Bereitstellungs- und Fuersorgepflicht
+    fuer eingesetzte Technik begruenden. Sanktionen richten sich nach Titel XVI (Art. 992 ff.).
+
+    '
+  inkrafttreten:
+    datum: 1970-05-01
+    verifiziert: true
+    quelle: https://www.ordenjuridico.gob.mx/Documentos/Federal/wo125151.doc
+    fundstelle_norm: TRANSITORIOS Artículo 1.- 'Esta Ley entrará en vigor el día 1o. de mayo de 1970,
+      con excepción de los artículos 71 y 87 que entrarán en vigor el día 1o. de julio de 1970, y el artículo
+      80 que entrará en vigor el día 1o. de septiembre de 1970' (DOF vom 01.04.1970)
+  anwendungsdaten:
+  - datum: 1970-07-01
+    was_gilt: Inkrafttreten der Art. 71 und 87 LFT (Ausnahme des Artículo 1 Transitorio).
+    verifiziert: true
+    quelle: https://www.ordenjuridico.gob.mx/Documentos/Federal/wo125151.doc
+  - datum: 1970-09-01
+    was_gilt: Inkrafttreten des Art. 80 LFT (Ausnahme des Artículo 1 Transitorio).
+    verifiziert: true
+    quelle: https://www.ordenjuridico.gob.mx/Documentos/Federal/wo125151.doc
+  - datum: 2026-05-15
+    was_gilt: Art. 305 Bis (KI-Klausel im Kuenstlerarbeitsvertrag) anwendbar; Erweiterung des Anwendungsbereichs
+      in Art. 304 auf Synchronstudios.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+  themenachsen:
+  - arbeit
+  - urheberrecht
+  - vertrag
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Art. 305 Bis: KI-Klausel als zwingender Vertragsinhalt (Volltext siehe mx-decreto-artistas-ia-2026).'
+  - 'Art. 304 n.F.: Erweiterung auf ''salas de doblaje'' und jeden Ort, an dem eine Darbietung stattfindet.'
+  - KEINE allgemeine Regelung des algorithmischen Managements. Es gibt keine Unterrichtungspflicht bei
+    KI-gestuetzter Aufgabenverteilung oder Leistungsbewertung und kein Recht auf menschliches Eingreifen
+    — anders als in Italien (Art. 11 legge 132/2025 mit Verweis auf das decreto trasparenza) oder Spanien
+    (Art. 64.4 lit. d ET).
+  - 'Vorhaben: Eine Initiative vom April 2026 will Beschaeftigte informieren, wenn KI-Systeme in Aufgabenzuweisung
+    und Leistungsbewertung eingreifen, und menschliches Eingreifen bei Entscheidungen mit Auswirkung auf
+    Arbeitsrechte vorschreiben. Nur ueber Sekundaerquelle belegt.'
+  dokumente:
+  - datum: 2026-05-14
+    typ: konsolidiert
+    titel: Ley Federal del Trabajo — texto vigente (última reforma DOF 14-05-2026)
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Konsolidierte Fassung; Kopfzeile mit dem Reformdatum 14-05-2026 geprueft. Der Volltext des
+      Art. 305 Bis wurde aus dem DOF-Dekret entnommen, weil die PDF-Abfrage nur den vorderen Gesetzesteil
+      erschloss.
+  - datum: 2026-05-14
+    typ: endfassung
+    titel: DECRETO ... LFT y LFDA en materia de derechos de las personas trabajadoras artistas intérpretes
+      o ejecutantes
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+    sprache: es
+    urheber: Congreso General
+    verifiziert: true
+    notiz: Enthaelt den Wortlaut der Art. 304, 305 Bis, 307 bis 310 LFT.
+  offene_punkte:
+  - Rechtsfolge einer fehlenden KI-Klausel nach Art. 305 Bis ist nicht ausdruecklich geregelt; in Betracht
+    kommen die Auslegungsregel zugunsten der beschaeftigten Person (Art. 18 LFT) und die Unwirksamkeit
+    der Nutzung.
+  - Fehlende allgemeine Regelung des algorithmischen Managements.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm
+  bezug_regelwerke:
+  - mx-decreto-artistas-ia-2026
+  - mx-lfda
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - Am konsolidierten amtlichen Text geprueft. Datum richtig. Neu belegt ist das gestaffelte Inkrafttreten
+    von 1970 (Art. 71, 87 ab 01.07.1970; Art. 80 ab 01.09.1970) — fuer das KI-Recht ohne Bedeutung, aber
+    zur Vollstaendigkeit aufgenommen.
+- id: mx-cpf
+  jurisdiktion: mx
+  kurztitel: CPF — Código Penal Federal
+  offizieller_titel: Código Penal Federal
+  fundstelle: Diario Oficial de la Federación, 14 de agosto de 1931; última reforma DOF 13-03-2026
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Das Bundesstrafgesetzbuch enthaelt bislang KEINEN Tatbestand, der kuenstliche Intelligenz
+    ausdruecklich benennt. Der Schutz vor sexualisierten Deepfakes laeuft ueber Art. 199 Nonies, der die
+    Verbreitung intimer Aufnahmen auch dann erfasst, wenn sie die als dargestellt bezeichnete Person nicht
+    wirklich zeigen — eine Vorschrift von 2021, die synthetische Inhalte tatbestandlich miterfasst, ohne
+    sie zu nennen. Eine Minuta, die Art. 199 Octies und 199 Nonies ausdruecklich um KI-Erzeugung erweitert,
+    liegt seit dem 02.09.2026 im Senat.
+
+    '
+  kurzbeschreibung: 'Bundesstrafgesetzbuch. Fuer das KI-Recht sind drei Bereiche von Bedeutung. Erstens
+    der 2021 durch die Ley Olimpia eingefuegte Capítulo II ''Violación a la Intimidad Sexual'' (Art. 199
+    Octies bis 199 Decies) mit Freiheitsstrafe von drei bis sechs Jahren und Geldstrafe von fuenfhundert
+    bis tausend UMA; Art. 199 Nonies erstreckt dieselben Strafen auf Inhalte, die der bezeichneten Person
+    nicht entsprechen — der praktisch anwendbare Deepfake-Tatbestand des geltenden Rechts. Zweitens Art.
+    202 (Kinderpornografie, sieben bis zwoelf Jahre und achthundert bis zweitausend Tagessaetze), dessen
+    Erstreckung auf vollstaendig synthetische Darstellungen in einer Initiative vom 18.02.2026 vorgeschlagen
+    wird. Drittens die urheberstrafrechtlichen Tatbestaende der Art. 424 ff. Die Zustaendigkeit des Bundes
+    ist begrenzt: Die meisten Sexualdelikte werden auf Landesebene verfolgt, weshalb die praktisch wirksamen
+    Deepfake-Tatbestaende bislang in den Landesstrafgesetzbuechern stehen.
+
+    '
+  inkrafttreten:
+    datum: 1931-09-17
+    verifiziert: true
+    quelle: https://www.ordenjuridico.gob.mx/Documentos/Federal/wo83048.doc
+    fundstelle_norm: ARTICULOS TRANSITORIOS 1.- 'Este Código comenzará a regir el día 17 de septiembre
+      de 1931' (Neuer Kodex, DOF vom 14.08.1931)
+  anwendungsdaten:
+  - datum: 2021-06-02
+    was_gilt: Anwendbarkeit des Capítulo II 'Violación a la Intimidad Sexual' (Art. 199 Octies bis 199
+      Decies), eingefuegt durch die Ley Olimpia.
+    verifiziert: true
+    quelle: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref150_01jun21.pdf
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Art. 199 Octies (woertlich, Fassung 2021): ''Comete el delito de violación a la intimidad sexual,
+    aquella persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido
+    íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o
+    su autorización.'' Erfasst auch das Aufnehmen, Aufzeichnen, Fotografieren, Drucken oder Herstellen
+    solcher Inhalte ohne Einwilligung. Strafe: ''tres a seis años de prisión y una multa de quinientas
+    a mil Unidades de Medida y Actualización.'''
+  - 'Art. 199 Nonies (woertlich): ''Se impondrán las mismas sanciones previstas en el artículo anterior
+    cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan
+    o publiquen no correspondan con la persona que es señalada o identificada en los mismos.'' Diese Vorschrift
+    ist der Schluessel: Sie loest den Tatbestand von der Echtheit der Abbildung und erfasst deshalb den
+    sexualisierten Deepfake, obwohl sie drei Jahre vor dem Durchbruch generativer Bildmodelle geschrieben
+    wurde.'
+  - 'Art. 199 Decies: Strafschaerfung bis zur Haelfte in sechs Fallgruppen — vorangegangene Vertrauens-
+    oder Liebesbeziehung, Amtstraeger in Ausuebung des Dienstes, Unfaehigkeit des Opfers zum Verstaendnis,
+    unentgeltliche Weitergabe, Gewinnerzielungsabsicht, sowie wenn das Opfer sich daraufhin selbst verletzt
+    oder toetet.'
+  - 'Art. 202: Kinderpornografie; sieben bis zwoelf Jahre Freiheitsstrafe und achthundert bis zweitausend
+    Tagessaetze. Eine Initiative des Dip. Juan Luis Carrillo Soberanis (PVEM) vom 18.02.2026 will Erzeugung,
+    Veraenderung und Simulation solcher Inhalte ''mediante inteligencia artificial, técnicas digitales
+    para la manipulación'' ausdruecklich einbeziehen.'
+  - KEIN allgemeiner KI-Erschwerungsgrund im Bundesrecht. Anders als Italien (Art. 61 Nr. 11-decies c.p.)
+    kennt Mexiko auf Bundesebene keine allgemeine KI-Qualifikation. Der Bundesstaat Quintana Roo hat einen
+    solchen eingefuehrt; der Entwurf der SCJN, ihn fuer nichtig zu erklaeren, verfehlte 2025 die qualifizierte
+    Mehrheit.
+  dokumente:
+  - datum: 2021-06-01
+    typ: endfassung
+    titel: Reforma 150 al Código Penal Federal — Ley Olimpia (DOF 01-06-2021)
+    url: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref150_01jun21.pdf
+    sprache: es
+    urheber: Cámara de Diputados / Congreso General
+    verifiziert: true
+    notiz: Amtlicher Text des Reformdekrets. Enthaelt den Wortlaut der Art. 199 Octies, 199 Nonies und
+      199 Decies.
+  - datum: 2026-03-13
+    typ: konsolidiert
+    titel: Código Penal Federal — texto vigente (última reforma DOF 13-03-2026)
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Konsolidierte Fassung; Kopfzeile mit dem Reformdatum geprueft. Der Wortlaut der Art. 199 Octies
+      ff. wurde aus dem Reformdekret 150 entnommen, weil die PDF-Abfrage den hinteren Teil des Gesetzbuchs
+      nicht erschloss.
+  - datum: 2026-02-18
+    typ: entwurf
+    titel: Gaceta Parlamentaria 6978-II-3 — Iniciativas zu Art. 199 Octies (Dip. Carlos Alberto Puente
+      Salas, PVEM) und Art. 202 CPF (Dip. Juan Luis Carrillo Soberanis, PVEM)
+    url: https://gaceta.diputados.gob.mx/Gaceta/66/2026/feb/20260218-II-3.html
+    sprache: es
+    urheber: Cámara de Diputados, Gaceta Parlamentaria
+    verifiziert: true
+    notiz: Amtliche Parlamentsdrucksache. Belegt den Wortlaut der vorgeschlagenen KI-Erweiterungen.
+  - datum: 2026-03-23
+    typ: entwurf
+    titel: Gaceta Parlamentaria 7000-II-4 — Iniciativa der Dip. Lilia Aguilar Gil (PT) zu Art. 199 Octies
+      CPF
+    url: https://gaceta.diputados.gob.mx/Gaceta/66/2026/mar/20260323-II-4.html
+    sprache: es
+    urheber: Cámara de Diputados, Gaceta Parlamentaria
+    verifiziert: true
+    notiz: 'Vorschlag eines dritten Absatzes zu Art. 199 Octies: Strafbarkeit der ''utilización de técnicas,
+      aplicaciones o programas de inteligencia artificial para la creación, manipulación y distribución''
+      intimer sexueller Inhalte ohne Einwilligung.'
+  offene_punkte:
+  - Reichweite des Art. 199 Nonies bei vollstaendig synthetischen, keiner realen Person zuzuordnenden
+    Darstellungen.
+  - Konkurrenz zwischen Bundes- und Landestatbestaenden bei denselben Handlungen.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/cpf.htm
+  - https://gaceta.diputados.gob.mx
+  bezug_regelwerke:
+  - mx-ley-olimpia
+  - mx-minuta-deepfakes-ia-2026
+  - mx-sinaloa-cp-185-bis-c
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - Am konsolidierten amtlichen Text geprueft. Datum richtig. Transitorio 2 abrogiert zum selben Zeitpunkt
+    den Código Penal vom 15.12.1929. Status 'anwendbar' bleibt richtig.
+- id: mx-ley-olimpia
+  jurisdiktion: mx
+  kurztitel: Ley Olimpia — digitale Gewalt und Intimsphaere
+  offizieller_titel: DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General
+    de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Penal Federal
+  fundstelle: Diario Oficial de la Federación, 1 de junio de 2021 (Reforma 150 des CPF)
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Sammelbezeichnung fuer ein Buendel von Reformen, die zwischen 2018 und 2021 zunaechst
+    in den Bundesstaaten und 2021 auf Bundesebene erlassen wurden. Auf Bundesebene fuegte sie den Begriff
+    der ''violencia digital'' und ''violencia mediática'' in die LGAMVLV ein und schuf den Capítulo II
+    ''Violación a la Intimidad Sexual'' im Código Penal Federal. Sie ist die dogmatische Grundlage aller
+    mexikanischen Deepfake-Strafnormen; die Landesgesetzgeber haben ihre KI-Tatbestaende durchweg an sie
+    angehaengt.
+
+    '
+  kurzbeschreibung: 'Die Ley Olimpia definiert digitale Gewalt als jede Handlung, die ueber Informations-
+    und Kommunikationstechnologien intime Inhalte verbreitet oder Personen dadurch in ihrer Wuerde verletzt,
+    und stellt sie unter Strafe. Ihre Bedeutung fuer das KI-Recht liegt in einer gesetzestechnischen Entscheidung:
+    Art. 199 Nonies CPF loest die Strafbarkeit von der Echtheit der Abbildung. Damit hatte Mexiko bereits
+    2021 einen Tatbestand, der sexualisierte Deepfakes erfasst, ohne den Begriff der kuenstlichen Intelligenz
+    zu verwenden. Die Landesgesetzgeber haben ab 2023 begonnen, diesen Tatbestand um ausdrueckliche KI-Merkmale
+    zu ergaenzen — genau diese Ergaenzungen waren Gegenstand der SCJN-Verfahren AI 66/2024 und 104/2024.
+    Sanktionen: drei bis sechs Jahre Freiheitsstrafe und fuenfhundert bis tausend UMA, mit Schaerfungen
+    nach Art. 199 Decies CPF.
+
+    '
+  inkrafttreten:
+    datum: 2021-06-02
+    verifiziert: true
+    quelle: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref150_01jun21.pdf
+  anwendungsdaten:
+  - datum: 2021-06-02
+    was_gilt: Anwendbarkeit der Straftatbestaende Art. 199 Octies bis Decies CPF und der neuen Gewaltformen
+      der LGAMVLV.
+    verifiziert: true
+    quelle: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref150_01jun21.pdf
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - Einfuehrung der Begriffe 'violencia digital' und 'violencia mediática' in die Ley General de Acceso
+    de las Mujeres a una Vida Libre de Violencia.
+  - Einfuegung des Capítulo II 'Violación a la Intimidad Sexual' (Art. 199 Octies bis 199 Decies) in den
+    Código Penal Federal.
+  - 'Art. 199 Nonies als Anknuepfungspunkt fuer synthetische Inhalte: gleiche Strafe, wenn die Aufnahmen
+    ''no correspondan con la persona que es señalada o identificada en los mismos''.'
+  - Die Bundesstaaten haben eigene Fassungen erlassen; Sinaloa etwa am 07.03.2023 (Schaffung des Art.
+    185 Bis C CP Sinaloa mit Straferhoehung von einem bis drei auf drei bis sechs Jahre), bevor am 12.02.2024
+    die KI-Absaetze hinzukamen.
+  dokumente:
+  - datum: 2021-06-01
+    typ: endfassung
+    titel: Reforma 150 al Código Penal Federal (DOF 01-06-2021)
+    url: https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref150_01jun21.pdf
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: true
+    notiz: Amtlicher Text des Reformdekrets mit dem Wortlaut der drei neuen Vorschriften.
+  - datum: 2023-03-07
+    typ: pressemitteilung
+    titel: Legisla Congreso de Sinaloa sobre violencia digital y mediática e incrementa penas
+    url: https://www.congresosinaloa.gob.mx/comunicados/legisla-congreso-de-sinaloa-sobre-violencia-digital-y-mediatica-e-incrementa-penas/
+    sprache: es
+    urheber: H. Congreso del Estado de Sinaloa
+    verifiziert: true
+    notiz: Amtliche Mitteilung des Landesparlaments; belegt Entstehung und Strafrahmen des Art. 185 Bis
+      C CP Sinaloa vor der KI-Ergaenzung.
+  offene_punkte:
+  - Uneinheitliche Umsetzung in den Bundesstaaten; Strafrahmen und Tatbestandsmerkmale weichen erheblich
+    voneinander ab.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lgamvlv.htm
+  bezug_regelwerke:
+  - mx-cpf
+  - mx-sinaloa-cp-185-bis-c
+  - mx-jalisco-cp-176-bis
+  letzte_pruefung: 2026-09-05
+- id: mx-minuta-deepfakes-ia-2026
+  jurisdiktion: mx
+  kurztitel: Minuta Deepfake-Strafrecht 2026 (im Senat)
+  offizieller_titel: Proyecto de decreto por el que se reforman y adicionan los artículos 199 Octies y
+    199 Nonies del Código Penal Federal y el artículo 16 de la Ley General para Prevenir, Sancionar y
+    Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas
+    de estos Delitos, en materia de creación de contenido íntimo mediante inteligencia artificial
+  fundstelle: Minuta der Cámara de Diputados; Eingang im Senado de la República am 02.09.2026
+  verfahrensnummer: Beschluss der Cámara de Diputados am 29.04.2026 mit 455 Stimmen; im Senat verwiesen
+    an die Comisiones Unidas de Justicia; de Análisis, Seguimiento y Evaluación sobre la Aplicación y
+    Desarrollo de la Inteligencia Artificial en México; y de Estudios Legislativos, Segunda
+  status: verfahren
+  status_detail: 'Von der Cámara de Diputados am 29.04.2026 einstimmig beschlossen und an den Senat weitergeleitet;
+    dort am 02.09.2026 eingegangen und an drei vereinigte Ausschuesse verwiesen. La Jornada berichtete
+    am 05.09.2026, der Senat wolle die Vorlage in der bis zum 15.12.2026 laufenden ordentlichen Sitzungsperiode
+    vorrangig behandeln. Zum Datum der Beschlussfassung besteht ein WIDERSPRUCH: Ein Legislativtracker
+    fuehrt eine Abstimmung vom 17.02.2026 mit 442 Stimmen; die Presseberichte nennen einhellig den 29.04.2026
+    mit 455 Stimmen. Moeglich sind zwei getrennte Vorlagen; nicht aufgeloest.
+
+    '
+  kurzbeschreibung: 'Der erste Versuch, kuenstliche Intelligenz ausdruecklich in das Bundesstrafgesetzbuch
+    zu schreiben. Strafbar sein soll, wer ohne Einwilligung mittels KI-Werkzeugen oder digitaler Bearbeitungsprogramme
+    intimes sexuelles Material einer identifizierbaren volljaehrigen Person erzeugt, simuliert oder bearbeitet,
+    sowie die Weiterverbreitung solchen Materials. Strafrahmen: vier bis acht Jahre Freiheitsstrafe und
+    vierhundert bis tausend UMA — also deutlich schaerfer als der geltende Art. 199 Octies (drei bis sechs
+    Jahre, fuenfhundert bis tausend UMA). Verschaerfte Strafen sind vorgesehen, wenn Minderjaehrige oder
+    Personen betroffen sind, die die Handlung nicht verstehen koennen, und zwar unabhaengig davon, ob
+    ein identifizierbares reales Opfer existiert. Parallel wird Art. 16 des Menschenhandelsgesetzes angepasst.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-04-29
+    was_gilt: Beschluss der Cámara de Diputados mit 455 Stimmen; Weiterleitung an den Senat.
+    verifiziert: false
+    quelle: https://sprinforma.mx/ver/destacados/aprueba-camara-de-diputados-tipificar-como-delito-uso-de-ia-para-generar-imagenes-falsas-de-contenido-sexual
+  - datum: 2026-09-02
+    was_gilt: Eingang der Minuta im Senat; Verweisung an die drei vereinigten Ausschuesse.
+    verifiziert: false
+    quelle: https://www.tallapolitica.com.mx/senado-de-la-republica-recibe-minuta-con-proyecto-de-decreto-para-tipificar-creacion-de-contenido-intimo-con-inteligencia-artificial/
+  - datum: 2026-12-15
+    was_gilt: Ende der ordentlichen Sitzungsperiode des Senats — Zeitgrenze fuer eine Verabschiedung in
+      diesem Halbjahr.
+    verifiziert: true
+    quelle: https://www.jornada.com.mx/2026/09/05/politica/010n2pol
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - Erweiterung des Art. 199 Octies CPF um die Tathandlungen 'generar, simular o editar' unter Verwendung
+    von KI-Werkzeugen oder digitalen Bearbeitungsprogrammen; Anknuepfung an die Identifizierbarkeit der
+    abgebildeten Person.
+  - 'Strafrahmen: vier bis acht Jahre Freiheitsstrafe, vierhundert bis tausend UMA (Tageswert).'
+  - Erstreckung auf Inhalte, die Minderjaehrige oder verstaendnisunfaehige Personen darstellen, 'aun cuando
+    el contenido no corresponda a hechos reales' — die Loesung vom realen Opfer wird ausdruecklich in
+    den Tatbestand geschrieben.
+  - Anpassung des Art. 16 der Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia
+    de Trata de Personas.
+  - Verweisung im Senat auch an den KI-Ausschuss — das ist die erste Gesetzgebungsvorlage, bei der die
+    Comisión de Análisis, Seguimiento y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia
+    Artificial en México foermlich mitberatend ist.
+  dokumente:
+  - datum: 2026-09-05
+    typ: bericht
+    titel: Senado priorizará ley para castigar la generación de contenido íntimo con IA
+    url: ''
+    sekundaerquelle_url: https://www.jornada.com.mx/2026/09/05/politica/010n2pol
+    sprache: es
+    urheber: La Jornada
+    verifiziert: true
+    notiz: Sekundaerquelle, am 05.09.2026 abgerufen. Belegt Strafrahmen (vier bis acht Jahre, 400 bis
+      1.000 UMA), die Behandlung als vorrangig und die Sitzungsperiode bis 15.12.2026. Amtliche Fundstelle
+      in der Gaceta del Senado nicht erreichbar (403).
+  - datum: 2026-04-29
+    typ: abstimmung
+    titel: Aprueba Cámara de Diputados tipificar como delito uso de IA para generar imágenes falsas de
+      contenido sexual
+    url: ''
+    sekundaerquelle_url: https://sprinforma.mx/ver/destacados/aprueba-camara-de-diputados-tipificar-como-delito-uso-de-ia-para-generar-imagenes-falsas-de-contenido-sexual
+    sprache: es
+    urheber: Sistema Público de Radiodifusión del Estado Mexicano (SPR Informa)
+    verifiziert: true
+    notiz: Sekundaerquelle. Nennt 455 Stimmen, die geaenderten Gesetze und die Weiterleitung an den Senat.
+      Der amtliche Beleg (Gaceta Parlamentaria, Sitzung vom 29.04.2026) wurde nicht aufgefunden.
+  offene_punkte:
+  - 'WIDERSPRUCH ungeloest: 17.02.2026 mit 442 Stimmen (Legislativtracker) gegen 29.04.2026 mit 455 Stimmen
+    (Presse). Vor jeder Verwendung an der Gaceta Parlamentaria pruefen.'
+  - Kein amtlicher Volltext der Minuta erreichbar; senado.gob.mx und comunicacionsocial.senado.gob.mx
+    antworten mit HTTP 403.
+  - Verhaeltnis zu den drei parallelen Einzelinitiativen zu Art. 199 Octies (Puente Salas, Aguilar Gil)
+    und Art. 202 CPF (Carrillo Soberanis).
+  monitoring_quellen:
+  - https://gaceta.diputados.gob.mx
+  - https://www.senado.gob.mx/66/gaceta_del_senado
+  bezug_regelwerke:
+  - mx-cpf
+  - mx-ley-olimpia
+  - mx-lgia-senado
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Kein Inkrafttreten: Minuta im Senat, an drei vereinigte Ausschuesse verwiesen. Status ''verfahren''
+    bleibt richtig. Das Inkrafttreten-Feld wird von einem Dictionary mit datum=null auf null vereinheitlicht.'
+- id: mx-lsniimsp
+  jurisdiktion: mx
+  kurztitel: LSNIIMSP — Nachrichtendienstgesetz mit KI-Klausel
+  offizieller_titel: Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad
+    Pública
+  fundstelle: Diario Oficial de la Federación, 16 de julio de 2025
+  verfahrensnummer: Iniciativa del Ejecutivo Federal; im Senat am 02.07.2025 angenommen; oeffentlich als
+    'Ley Espía' kritisiert
+  status: anwendbar
+  status_detail: 'In Kraft seit 17.07.2025. Art. 32 gestattet der Sicherheitsverwaltung ausdruecklich
+    den Einsatz von ''programas de automatización y herramientas de inteligencia artificial'' zur Erzeugung
+    von Nachrichtenprodukten. Das ist die einzige Vorschrift des geltenden mexikanischen Bundesrechts,
+    die den KI-Einsatz durch den Staat ausdruecklich erlaubt — und sie tut es ohne Risikoklassifizierung,
+    ohne Folgenabschaetzung und ohne unabhaengige Aufsicht.
+
+    '
+  kurzbeschreibung: 'Das Gesetz errichtet ein nationales Ermittlungs- und Nachrichtensystem unter Fuehrung
+    des Centro Nacional de Inteligencia (CNI) und schafft mit der Plataforma Central de Inteligencia (Art.
+    36) eine Echtzeit-Verbundplattform, die Daten aller oeffentlichen und zahlreicher privater Stellen
+    zusammenfuehrt, einschliesslich biometrischer Register (Art. 12 Fr. III, Art. 24, Art. 39 Apartado
+    A Ziff. II). Art. 32 erlaubt fuer Verarbeitung und Auswertung ausdruecklich Automatisierungsprogramme
+    und KI-Werkzeuge. Die Datenschutzbindung erfolgt nur durch Verweis auf die LGTAIP, die LGPDPPSO und
+    die LFPDPPP — also auf Gesetze, deren Aufsicht seit 2025 bei einem Ressort der Bundesverwaltung liegt.
+    Sanktionen gegen die einsetzenden Stellen enthaelt das Gesetz nicht; Rechtsschutz laeuft ueber den
+    Amparo.
+
+    '
+  inkrafttreten:
+    datum: 2025-07-17
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763160&fecha=16/07/2025
+  anwendungsdaten:
+  - datum: 2025-07-17
+    was_gilt: Inkrafttreten; Art. 32 (KI-Einsatz) und Art. 36 (Plataforma Central de Inteligencia) anwendbar.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763160&fecha=16/07/2025
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - sicherheit-export
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 32 (woertlich): ''Para el procesamiento y análisis de la información, se utilizarán sistemas
+    y programas que reciban, transcriban, conviertan, organicen, clasifiquen e interrelacionen información
+    y datos de todo tipo, incluidos programas de automatización y herramientas de inteligencia artificial,
+    a fin de generar las estrategias, acciones y los productos de inteligencia en seguridad pública.''
+    Die Vorschrift enthaelt keinerlei Bindung an Verhaeltnismaessigkeit, menschliche Aufsicht, Protokollierung
+    oder Erklaerbarkeit.'
+  - 'Art. 12 Fr. III und Art. 24: Biometrische Register gehoeren zu den Informationen, die dem System
+    zu liefern sind bzw. als Quelle zur Verfuegung stehen.'
+  - 'Art. 36: Plataforma Central de Inteligencia als ''herramienta tecnológica de interconexión del Sistema
+    Nacional, operada por el CNI en una unidad central'' zum Identifizieren, Integrieren, Erzeugen, Systematisieren,
+    Analysieren und Verwerten von Informationen in Echtzeit.'
+  - 'Art. 39 Apartado A Ziff. II: Zu verknuepfende Systeme umfassen ausdruecklich ''datos biométricos''.'
+  - 'Datenschutzverweis: Die erhobenen Daten sind ''con apego a lo dispuesto en la Ley General de Transparencia
+    y Acceso a la Información Pública, en la Ley General de Protección de Datos Personales en Posesión
+    de Sujetos Obligados y en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares''
+    zu behandeln. Damit gilt fuer die staatliche KI-gestuetzte Massenauswertung dieselbe Aufsichtsarchitektur
+    wie fuer jede Behoerde — die weisungsgebundene Secretaría Anticorrupción y Buen Gobierno.'
+  - 'Rechtsvergleichender Befund: Waehrend Art. 5 KI-VO die biometrische Fernidentifizierung in Echtzeit
+    zu Strafverfolgungszwecken grundsaetzlich verbietet und Anhang III sie als Hochrisiko einstuft, erlaubt
+    Mexiko sie im selben Zeitraum ausdruecklich und ohne Verfahrensgarantien.'
+  dokumente:
+  - datum: 2025-07-16
+    typ: endfassung
+    titel: DECRETO por el que se expide la Ley del Sistema Nacional de Investigación e Inteligencia en
+      Materia de Seguridad Pública
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5763160&fecha=16/07/2025
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: true
+    notiz: Amtlicher Volltext; Art. 32 im Browser im Wortlaut geprueft.
+  - datum: 2025-07-16
+    typ: konsolidiert
+    titel: Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública —
+      texto vigente
+    url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Konsolidierte Fassung; Art. 12, 24, 32, 36 und 39 abgerufen.
+  offene_punkte:
+  - Ob Amparo-Verfahren gegen die Plataforma Central de Inteligencia anhaengig sind, konnte nicht geklaert
+    werden.
+  - 'Verhaeltnis zur Folgenabschaetzungspflicht des Art. 68 LGPDPPSO: Das Gesetz nimmt darauf nicht Bezug.'
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lsniimsp.htm
+  bezug_regelwerke:
+  - mx-lgpdppso
+  - mx-curp-biometrica
+  - mx-cpeum
+  letzte_pruefung: 2026-09-05
+- id: mx-curp-biometrica
+  jurisdiktion: mx
+  kurztitel: CURP biométrica — biometrische Bevoelkerungskennung
+  offizieller_titel: DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
+    Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares
+    y del Sistema Nacional de Búsqueda de Personas, de la Ley General de Población y de otros ordenamientos
+  fundstelle: Diario Oficial de la Federación, 16 de julio de 2025
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Teil des Gesetzespakets vom 16.07.2025. Die Clave Única de Registro de Población wird
+    um biometrische Merkmale (Fingerabdruecke, Iris, Gesichtsbild) erweitert und zum einheitlichen Identitaetsnachweis
+    ausgebaut. Der Zeitplan fuer die verpflichtende Ausstellung ist umstritten; verbreitet genannt wird
+    Februar 2026 als Stichtag fuer Behoerden. Der Stichtag konnte nicht an einer amtlichen Quelle verifiziert
+    werden.
+
+    '
+  kurzbeschreibung: 'Fuer das KI-Recht ist die biometrische CURP der Datenbestand, auf dem jede kuenftige
+    staatliche Gesichtserkennung in Mexiko aufsetzen wird. Sie entsteht im Rahmen eines Gesetzes zur Suche
+    nach verschwundenen Personen, wird aber ueber die Plataforma Única de Identidad allgemein nutzbar
+    und ist mit der Plataforma Central de Inteligencia des LSNIIMSP verknuepfbar. Das Paket wurde am selben
+    Tag verkuendet wie das Nachrichtendienstgesetz, dessen Art. 32 den KI-Einsatz auf biometrischen Registern
+    ausdruecklich erlaubt. Beides zusammen ergibt die rechtliche Grundlage fuer eine landesweite biometrische
+    Infrastruktur ohne unabhaengige Datenschutzaufsicht. Eigene Sanktionen enthaelt das Dekret nicht.
+
+    '
+  inkrafttreten:
+    datum: 2025-07-17
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763157&fecha=16/07/2025
+    fundstelle_norm: Transitorios Primero.- 'El presente Decreto entrará en vigor el día siguiente al
+      de su publicación en el Diario Oficial de la Federación' (DOF vom 16.07.2025)
+  anwendungsdaten:
+  - datum: 2025-07-17
+    was_gilt: Inkrafttreten des Reformpakets; Aufnahme biometrischer Merkmale in die CURP.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763157&fecha=16/07/2025
+  - datum: 2025-10-15
+    was_gilt: 'Ablauf der Frist von 90 natuerlichen Tagen ab Inkrafttreten (Transitorios Primero, Segundo
+      und Cuarto zur Ley General de Población): Entwicklung der Plataforma Única de Identidad durch die
+      ATDT; Einrichtung der Abfrage-, Uebermittlungs- und Validierungsmechanismen durch die Behoerden
+      aller drei Regierungsebenen; Pflicht saemtlicher oeffentlicher und privater Stellen, die CURP als
+      Voraussetzung in ihre Verfahren und Dienstleistungen aufzunehmen (Art. 91 Sexies).'
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763157&fecha=16/07/2025
+  - datum: 2025-11-14
+    was_gilt: 'Ablauf der Frist von 120 natuerlichen Tagen ab Inkrafttreten (Transitorio Quinto): Die
+      Secretaría de Gobernación errichtet das Programa de Integración al Registro Nacional de Población
+      der biometrischen Daten von Kindern und Jugendlichen.'
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5763157&fecha=16/07/2025
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Erweiterung der CURP um biometrische Merkmale in der Ley General de Población; Aufbau der Plataforma
+    Única de Identidad.
+  - Verknuepfungsfaehigkeit mit der Plataforma Central de Inteligencia des LSNIIMSP (Art. 39 Apartado
+    A Ziff. II nennt biometrische Systeme ausdruecklich).
+  - Keine gesonderte Regelung des biometrischen Abgleichs mittels KI; die allgemeine Erlaubnis des Art.
+    32 LSNIIMSP greift.
+  dokumente:
+  - datum: 2025-07-16
+    typ: endfassung
+    titel: DECRETO ... Ley General en Materia de Desaparición Forzada de Personas ... y Ley General de
+      Población (DOF 16/07/2025)
+    url: https://www.dof.gob.mx/nota_detalle.php?codigo=5763157&fecha=16/07/2025
+    sprache: es
+    urheber: Congreso General de los Estados Unidos Mexicanos
+    verifiziert: false
+    notiz: DOF-Kennung aus dem amtlichen Tagesverzeichnis des DOF vom 16.07.2025 entnommen; der Volltext
+      selbst wurde nicht geoeffnet.
+  - datum: 2025-07-16
+    typ: uebersicht
+    titel: Reformas a la Ley General de Población (Reform Nr. 20, DOF 16-07-2025)
+    url: https://www.diputados.gob.mx/LeyesBiblio/ref/lgp.htm
+    sprache: es
+    urheber: Cámara de Diputados
+    verifiziert: true
+    notiz: Amtliche Reformhistorie; bestaetigt, dass die letzte Reform der LGP vom 16.07.2025 datiert
+      und aus dem Paket zur Suche verschwundener Personen stammt.
+  offene_punkte:
+  - Stichtag der verpflichtenden Nutzung nicht amtlich belegt.
+  - Ob und wie die biometrische CURP mit Gesichtserkennungssystemen der Bundesstaaten verknuepft wird.
+  monitoring_quellen:
+  - https://www.diputados.gob.mx/LeyesBiblio/ref/lgp.htm
+  bezug_regelwerke:
+  - mx-lsniimsp
+  - mx-lgpdppso
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Am DOF-Volltext geprueft. Das Inkrafttretensdatum war richtig. Der im Bestand gefuehrte Stichtag
+    ''Februar 2026'' hat im Dekret KEINE Grundlage und ist ersatzlos gestrichen: Das Dekret kennt nur
+    Fristen von 30 Arbeits-, 60, 90, 120 und 180 natuerlichen Tagen ab Inkrafttreten, die saemtlich 2025
+    ablaufen. Die beiden neu aufgenommenen Anwendungsdaten geben die tatsaechlichen Umsetzungsfristen
+    wieder. Vorher: Anwendungsdatum 2026-02-01 (''verbreitet genannter Stichtag fuer die behoerdliche
+    Nutzung der biometrischen CURP'') ohne Quelle — entfernt..'
+- id: mx-lgia-senado
+  jurisdiktion: mx
+  kurztitel: Ley General de IA — Senatsentwurf 2026
+  offizieller_titel: Iniciativa con proyecto de decreto por el que se expide la Ley General para Regular
+    y Fomentar la Inteligencia Artificial
+  fundstelle: Senado de la República, LXVI Legislatura; erarbeitet in der Comisión de Análisis, Seguimiento
+    y Evaluación sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México
+  verfahrensnummer: Vorsitz Sen. Rolando Zapata Bello (PRI); angekuendigte Vorlage fuer den 22.04.2026,
+    verschoben; multipartidistische Fassung vom 23./30.04.2026; Fassung vom 07.05.2026
+  status: entwurf
+  status_detail: 'Der weitreichendste mexikanische KI-Gesetzentwurf. Er wurde am 30.04.2026 von der Senatskommission
+    oeffentlich vorgestellt, aber nicht mehr im Plenum eingebracht, bevor die Sitzungsperiode endete.
+    Die urspruenglich fuer den 22.04.2026 angekuendigte Vorlage war am Vorabend von der Tagesordnung genommen
+    worden. Stand 05.09.2026 liegt kein verabschiedeter Text vor; die Kommission ist zugleich mitberatender
+    Ausschuss der Deepfake-Minuta. Vorbehalt: Alle inhaltlichen Angaben stammen aus Sekundaerquellen,
+    weil senado.gob.mx und comisiones.senado.gob.mx den automatisierten Abruf mit HTTP 403 verweigern.
+
+    '
+  kurzbeschreibung: 'Ein risikobasiertes Rahmengesetz nach europaeischem Vorbild, das nach uebereinstimmenden
+    Berichten 223 Artikel in vierzehn Titeln umfasst, dazu zehn Uebergangsvorschriften und ein Begriffsglossar.
+    Vorgesehen sind verbotene Anwendungen (kognitive, politische, wahlbezogene und soziale Manipulation
+    zu rechtswidrigen oder demokratiefeindlichen Zwecken; nicht einvernehmliche sexuelle Deepfakes; Manipulation
+    von Bild, Ton oder Video zur Demuetigung, Erpressung oder Belaestigung; anlasslose Massenueberwachung;
+    Systeme zu Betrug und Identitaetsdiebstahl; Wahldesinformation), ein Register fuer Hochrisikosysteme,
+    Reallabore und eine Autoridad Nacional de Inteligencia Artificial neben SECIHTI (Forschung) und ATDT
+    (Betrieb). Sanktionen sind dreistufig — leve, grave, gravísima — und reichen von der Verwarnung ueber
+    die Aussetzung des Systems bis zu Freiheitsstrafe in den schwersten Faellen. Bemerkenswert ist die
+    Aufnahme von fuenf Neurorechten (personale Identitaet, mentale Privatheit, kognitive Integritaet,
+    Autonomie, Schutz vor Manipulation).
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2024-10-15
+    was_gilt: Konstituierung der Comisión de Análisis, Seguimiento y Evaluación sobre la Aplicación y
+      Desarrollo de la Inteligencia Artificial en México im Senat.
+    verifiziert: false
+    quelle: https://comisiones.senado.gob.mx/inteligencia_artificial/reuniones/151024
+  - datum: 2026-04-22
+    was_gilt: Angekuendigte Vorlage des Entwurfs; am Vorabend von der Tagesordnung genommen.
+    verifiziert: true
+    quelle: https://es-us.noticias.yahoo.com/queda-fecha-presentaci%C3%B3n-ley-inteligencia-010434807.html
+  - datum: 2026-04-30
+    was_gilt: Oeffentliche Vorstellung des Marco Normativo und des Plan Nacional durch die Senatskommission.
+    verifiziert: false
+    quelle: https://www.observatorio-ia-mexico.com/proceso-legislativo
+  themenachsen:
+  - marktzugang
+  - gpai
+  - governance
+  - grundrechte
+  - content
+  - datenschutz
+  - haftung
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Risikobasierter Ansatz mit verbotenen Praktiken und einem Register fuer Hochrisikosysteme — strukturell
+    an der KI-VO orientiert.
+  - 'Verbotene Praktiken u.a.: ''manipulación cognitiva, política, electoral o social con fines ilícitos
+    o contrarios a los principios democráticos, de manera deliberada''; nicht einvernehmliche sexuelle
+    Deepfakes; anlasslose Massenueberwachung; Wahldesinformation.'
+  - 'Behoerdenarchitektur in drei Ebenen: Autoridad Nacional de Inteligencia Artificial (Koordinierung),
+    SECIHTI (Wissenschaft und Entwicklung), ATDT (Betrieb). Weil das IFT nicht mehr existiert, muss eine
+    neue Behoerde geschaffen werden — genau daran entzuendet sich die Kritik, der Entwurf raeume der kuenftigen
+    Behoerde uebermaessige Ermessensspielraeume ein (María Solange Maqueo, Universidad La Salle).'
+  - Fuenf Neurorechte — im lateinamerikanischen Vergleich die zweite Rechtsordnung nach Chile, die Neurorechte
+    in ein KI-Gesetz aufnimmt.
+  - Dreistufiges Sanktionsregime leve / grave / gravísima mit Freiheitsstrafe in den schwersten Faellen.
+    Damit wuerde Mexiko den in Europa strikt getrennten Bereich von Produktregulierung und Strafrecht
+    in einem Gesetz zusammenfuehren.
+  - 'Verfassungsrechtliche Schwaeche: Ein ''ley general'' setzt eine Bundeskompetenz voraus. Solange Art.
+    73 CPEUM keine KI-Kompetenz kennt, ist der Entwurf angreifbar. Deshalb laufen die beiden Verfassungsaenderungsvorhaben
+    parallel.'
+  dokumente:
+  - datum: 2025-12-31
+    typ: bericht
+    titel: Hacia un Marco Normativo para la Inteligencia Artificial (IA) en México — Transcripciones 2024-2025
+    url: https://comisiones.senado.gob.mx/inteligencia_artificial/images/noticias/Transcripciones_2024-2025.pdf
+    sprache: es
+    urheber: Senado de la República, Comisión de Análisis, Seguimiento y Evaluación sobre la Aplicación
+      y Desarrollo de la Inteligencia Artificial en México
+    verifiziert: false
+    notiz: Amtliches Kommissionsdokument mit den Transkripten der Anhoerungen. Abruf mit HTTP 403 gescheitert;
+      URL aus der Trefferliste uebernommen und nicht geoeffnet.
+  - datum: 2024-11-13
+    typ: bericht
+    titel: Plan de Trabajo de la Comisión Ordinaria de Análisis, Seguimiento y Evaluación sobre la Aplicación
+      y Desarrollo de la Inteligencia Artificial en México
+    url: http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/11/asun_4803911_20241113_1731604019.pdf
+    sprache: es
+    urheber: Senado de la República / Sistema de Información Legislativa (SEGOB)
+    verifiziert: false
+    notiz: Amtliche Fundstelle im SIL. Das PDF liess sich im Browser nur als Anzeige oeffnen, der Text
+      war nicht auslesbar.
+  - datum: 2026-04-22
+    typ: bericht
+    titel: Queda sin fecha presentación de ley de inteligencia artificial en el Senado
+    url: ''
+    sekundaerquelle_url: https://es-us.noticias.yahoo.com/queda-fecha-presentaci%C3%B3n-ley-inteligencia-010434807.html
+    sprache: es
+    urheber: Presseagentur (Sekundaerquelle)
+    verifiziert: true
+    notiz: Belegt die Verschiebung und die fachliche Kritik an der Behoerdenkonstruktion.
+  offene_punkte:
+  - Kein amtlicher Volltext zugaenglich. Alle Strukturangaben (223 Artikel, vierzehn Titel, Neurorechte,
+    Sanktionsstufen) beruhen auf Sekundaerquellen und sind zu verifizieren, sobald die Gaceta del Senado
+    erreichbar ist.
+  - Ob der Entwurf ohne vorherige Verfassungsaenderung eingebracht wird.
+  - Verhaeltnis zur konkurrierenden Vorlage aus der Cámara de Diputados (Ley General para la Regulación
+    y Uso Ético de la IA, 27.06.2026).
+  monitoring_quellen:
+  - https://comisiones.senado.gob.mx/inteligencia_artificial/
+  - https://www.senado.gob.mx/66/gaceta_del_senado
+  - http://sil.gobernacion.gob.mx
+  bezug_regelwerke:
+  - mx-reforma-art-73-ia
+  - mx-iniciativa-monreal-2024
+  - mx-plan-nacional-ia-2026
+  - mx-minuta-deepfakes-ia-2026
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Kein Inkrafttreten: Der Entwurf wurde am 30.04.2026 oeffentlich vorgestellt, aber nicht im Plenum
+    eingebracht. Status ''entwurf'' bleibt richtig.'
+- id: mx-reforma-art-73-ia
+  jurisdiktion: mx
+  kurztitel: Verfassungsaenderung Art. 73 — KI-Kompetenz des Bundes
+  offizieller_titel: Iniciativa con proyecto de decreto por el que se adiciona una fracción al artículo
+    73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de inteligencia artificial
+  fundstelle: Senado de la República (03.02.2026) und Cámara de Diputados (05.08.2026)
+  verfahrensnummer: 'Senat: Sen. Saúl Monreal Ávila (MORENA), 03.02.2026 — neue Fraktion XXXII des Art.
+    73. Diputados: Dip. Gabriela Jiménez Godoy (MORENA), 05.08.2026'
+  status: verfahren
+  status_detail: 'Zwei parallele Vorhaben in beiden Kammern, beide in den Ausschuessen. Sie sind die verfassungsrechtliche
+    Voraussetzung fuer jedes allgemeine KI-Gesetz des Bundes. Ohne sie kann der Kongress eine ''ley general''
+    nur auf Annexkompetenzen stuetzen, was jede Landesregierung im Wege der controversia constitucional
+    angreifen koennte.
+
+    '
+  kurzbeschreibung: 'Die Vorhaben wollen dem Congreso de la Unión die Befugnis geben, allgemeine Gesetze
+    ueber Regulierung, Governance, Entwicklung und ethische Nutzung kuenstlicher Intelligenz zu erlassen.
+    Der verfassungsrechtliche Hintergrund ist die Kompetenzordnung des mexikanischen Bundesstaates: Was
+    Art. 73 nicht ausdruecklich dem Bund zuweist, verbleibt nach Art. 124 CPEUM bei den Bundesstaaten.
+    Genau darum haben rund zweihundert KI-bezogene Vorhaben in den Landesparlamenten stattgefunden und
+    39 sind angenommen worden, waehrend der Bund nichts erlassen hat. Sanktionen enthalten die Vorhaben
+    nicht; sie sind reine Kompetenznormen.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-02-03
+    was_gilt: Einbringung im Senat durch Sen. Saúl Monreal Ávila (MORENA).
+    verifiziert: false
+    quelle: https://www.observatorio-ia-mexico.com/proceso-legislativo
+  - datum: 2026-08-05
+    was_gilt: Einbringung in der Cámara de Diputados durch Dip. Gabriela Jiménez Godoy (MORENA).
+    verifiziert: false
+    quelle: https://comunicacionsocial.diputados.gob.mx/index.php/boletines/-impulsan-reforma-constitucional-para-que-el-congreso-regule-el-uso-de-la-inteligencia-artificial-y-dispositivos-afines
+  themenachsen:
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - Einfuegung einer neuen Fraktion in Art. 73 CPEUM, die dem Kongress die Gesetzgebung ueber kuenstliche
+    Intelligenz zuweist.
+  - 'Verfassungsrechtlicher Kern: Ohne die Aenderung greift Art. 124 CPEUM — die nicht ausdruecklich dem
+    Bund zugewiesenen Befugnisse verbleiben bei den Bundesstaaten. Das erklaert, warum das mexikanische
+    KI-Recht bislang Landesstrafrecht ist.'
+  - 'Verfahrensfolge: Eine Verfassungsaenderung erfordert nach Art. 135 CPEUM Zweidrittelmehrheiten in
+    beiden Kammern und die Zustimmung der Mehrheit der Landesparlamente. Der Zeitbedarf ist erheblich.'
+  dokumente:
+  - datum: 2026-08-05
+    typ: pressemitteilung
+    titel: Impulsan reforma constitucional para que el Congreso regule el uso de la inteligencia artificial
+      y dispositivos afines
+    url: https://comunicacionsocial.diputados.gob.mx/index.php/boletines/-impulsan-reforma-constitucional-para-que-el-congreso-regule-el-uso-de-la-inteligencia-artificial-y-dispositivos-afines
+    sprache: es
+    urheber: Cámara de Diputados, Coordinación de Comunicación Social
+    verifiziert: false
+    notiz: Amtliche Fundstelle. Abruf durch WebFetch (SSL-Zertifikatsfehler) und Browser (Leseberechtigung
+      fuer die Domain verweigert) gescheitert; URL aus der Trefferliste uebernommen.
+  offene_punkte:
+  - Kein amtlicher Wortlaut der vorgeschlagenen Fraktion geprueft; die Nummerierung XXXII ist Sekundaerquelle.
+  - Ob die Vorhaben zusammengefuehrt werden.
+  monitoring_quellen:
+  - http://sil.gobernacion.gob.mx
+  - https://gaceta.diputados.gob.mx
+  bezug_regelwerke:
+  - mx-cpeum
+  - mx-lgia-senado
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Kein Inkrafttreten: zwei parallele Verfassungsaenderungsvorhaben in den Ausschuessen beider Kammern.
+    Status ''verfahren'' bleibt richtig.'
+- id: mx-iniciativa-monreal-2024
+  jurisdiktion: mx
+  kurztitel: Ley Federal que Regula la IA (2024) — gescheitert
+  offizieller_titel: Iniciativa con proyecto de decreto por el que se expide la Ley Federal que Regula
+    la Inteligencia Artificial
+  fundstelle: Senado de la República, LXV Legislatura (April 2024)
+  verfahrensnummer: Sen. Ricardo Monreal Ávila
+  status: gescheitert
+  status_detail: 'Der erste ernsthafte mexikanische Anlauf zu einem Bundes-KI-Gesetz. Er ordnete die Aufsicht
+    dem Instituto Federal de Telecomunicaciones zu. Mit der Verfassungsreform vom 20.12.2024 und der Abloesung
+    des IFT durch die LMTR im Juli 2025 wurde die Konstruktion gegenstandslos; der Entwurf gilt als desechada.
+    Ricardo Monreal hat im Februar 2026 als Fraktionsvorsitzender in der Cámara de Diputados einen neuen
+    Anlauf unternommen.
+
+    '
+  kurzbeschreibung: 'Der Entwurf sah eine Risikoklassifizierung in ''inaceptables, alto riesgo y bajo
+    riesgo'' vor, Transparenzpflichten, Zertifizierungsmechanismen und Regelungen zur zivilrechtlichen
+    Haftung; zustaendige Behoerde sollte das IFT sein. Er ist als Negativbeispiel lehrreich: Ein KI-Gesetz,
+    das seine Aufsicht an ein autonomes Fachorgan haengt, faellt mit diesem Organ. Sanktionen sah der
+    Entwurf verwaltungsrechtlich vor; ein Straftatbestand war nicht enthalten.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2024-04-01
+    was_gilt: Einbringung im Senat.
+    verifiziert: false
+    quelle: https://www.garrigues.com/es_ES/noticia/mapa-regulatorio-inteligencia-artificial-mexico
+  - datum: 2024-12-21
+    was_gilt: Verfassungsrechtliche Aufloesung des IFT — die im Entwurf vorgesehene Aufsichtsbehoerde
+      entfaellt.
+    verifiziert: true
+    quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024
+  themenachsen:
+  - marktzugang
+  - governance
+  - haftung
+  - gpai
+  regelungsschwerpunkte:
+  - Risikoklassen 'inaceptables, alto riesgo y bajo riesgo' — eine Dreiteilung, die die vierte Stufe der
+    KI-VO (minimales Risiko) weglaesst.
+  - Zuweisung der Aufsicht an das Instituto Federal de Telecomunicaciones.
+  - Zivilrechtliche Haftung, Transparenzpflichten, Zertifizierungsmechanismen.
+  - 'Lehre: Die Organisationsreform hat das Regulierungsvorhaben erledigt. Wer heute in Mexiko ein KI-Gesetz
+    schreibt, muss zugleich eine Behoerde erfinden.'
+  dokumente:
+  - datum: 2026-01-01
+    typ: uebersicht
+    titel: Mapa regulatorio de la inteligencia artificial en México
+    url: ''
+    sekundaerquelle_url: https://www.garrigues.com/es_ES/noticia/mapa-regulatorio-inteligencia-artificial-mexico
+    sprache: es
+    urheber: Garrigues (Kanzleipublikation)
+    verifiziert: true
+    notiz: SEKUNDAERQUELLE, kein Volltext. Beschreibt Inhalt und Status der beiden Bundesentwuerfe von
+      2024 und 2025. Der amtliche Gaceta-Text war nicht erreichbar.
+  offene_punkte:
+  - Amtliche Gaceta-Fundstelle und foermlicher Erledigungsvermerk (desechamiento) nicht geprueft.
+  monitoring_quellen:
+  - http://sil.gobernacion.gob.mx
+  bezug_regelwerke:
+  - mx-lftr-2014
+  - mx-reforma-simplificacion-organica
+  - mx-lgia-senado
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Kein Inkrafttreten: Der Entwurf ist gegenstandslos geworden, weil die vorgesehene Aufsichtsbehoerde
+    IFT mit der Verfassungsreform vom 20.12.2024 und der LMTR vom Juli 2025 entfallen ist. Status ''gescheitert''
+    bleibt richtig.'
+- id: mx-iniciativa-etica-ia-robotica
+  jurisdiktion: mx
+  kurztitel: Ley de Regulación Ética de la IA y la Robótica (Entwurf)
+  offizieller_titel: Iniciativa con proyecto de decreto por el que se expide la Ley de Regulación Ética
+    de la Inteligencia Artificial y la Robótica
+  fundstelle: Cámara de Diputados und Senado de la República; wiederholt eingebracht seit 2023
+  verfahrensnummer: Zuletzt aus der Comisión de Ciencia y Tecnología des Senats (April 2026)
+  status: verfahren
+  status_detail: 'Ein aelterer, ethikbasierter Regelungsansatz, der neben dem risikobasierten Senatsentwurf
+    fortbesteht. Kernstueck ist die Errichtung eines Consejo Mexicano de Ética para la Inteligencia Artificial
+    y la Robótica als dezentralisierte oeffentliche Einrichtung sowie einer Red Nacional de Estadística
+    de Uso y Monitoreo de la Inteligencia Artificial y la Robótica mit dem INEGI als datenerzeugender
+    Stelle. In den Ausschuessen.
+
+    '
+  kurzbeschreibung: 'Der Entwurf verfolgt einen Governance- statt Produktansatz: Statt Marktzugangspflichten
+    schafft er ein Ethikgremium und eine statistische Beobachtungsinfrastruktur. Er ist damit das lateinamerikanische
+    Gegenmodell zur europaeischen Konformitaetsbewertung und aehnelt eher dem japanischen Softlaw-Weg.
+    Sanktionen sind nicht der Schwerpunkt; die Steuerung erfolgt ueber Empfehlungen, Berichtspflichten
+    und Monitoring.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-04-30
+    was_gilt: Vorstellung durch die Comisión de Ciencia y Tecnología des Senats.
+    verifiziert: true
+    quelle: https://www.infobae.com/mexico/2026/04/30/desde-comision-del-senado-impulsan-iniciativa-de-ley-para-regular-el-uso-de-inteligencia-artificial-en-mexico/
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - Consejo Mexicano de Ética para la Inteligencia Artificial y la Robótica als 'organismo público descentralizado'.
+  - Red Nacional de Estadística de Uso y Monitoreo de la Inteligencia Artificial y la Robótica; INEGI
+    als 'centro generador de información'.
+  - Ausrichtung an Menschenrechten, Privatsphaere und Datenschutz; keine Risikoklassifizierung, keine
+    Konformitaetsbewertung.
+  dokumente:
+  - datum: 2026-04-30
+    typ: bericht
+    titel: Desde Comisión del Senado impulsan iniciativa de ley para regular el uso de inteligencia artificial
+      en México
+    url: ''
+    sekundaerquelle_url: https://www.infobae.com/mexico/2026/04/30/desde-comision-del-senado-impulsan-iniciativa-de-ley-para-regular-el-uso-de-inteligencia-artificial-en-mexico/
+    sprache: es
+    urheber: Infobae (Sekundaerquelle)
+    verifiziert: true
+    notiz: SEKUNDAERQUELLE. Nennt Ethikrat und Statistiknetz, aber weder Antragsteller noch Gaceta-Fundstelle.
+  - datum: 2023-01-01
+    typ: pressemitteilung
+    titel: Impulsan iniciativa para expedir la Ley de Regulación Ética de la Inteligencia Artificial y
+      la Robótica
+    url: https://comunicacionsocial.diputados.gob.mx/index.php/boletines/impulsan-iniciativa-para-expedir-la-ley-de-regulacion-tica-de-la-inteligencia-artificial-y-la-robotica
+    sprache: es
+    urheber: Cámara de Diputados, Coordinación de Comunicación Social
+    verifiziert: false
+    notiz: Amtliche Fundstelle; Abruf durch WebFetch am SSL-Zertifikat der Subdomain gescheitert.
+  offene_punkte:
+  - Antragsteller, Datum der Einbringung und Gaceta-Fundstelle nicht amtlich geprueft.
+  monitoring_quellen:
+  - http://sil.gobernacion.gob.mx
+  bezug_regelwerke:
+  - mx-lgia-senado
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - Kein Inkrafttreten; Entwurf in den Ausschuessen. Status 'verfahren' bleibt richtig.
+- id: mx-plan-nacional-ia-2026
+  jurisdiktion: mx
+  kurztitel: Plan Nacional de Inteligencia Artificial (ATDT, 2026)
+  offizieller_titel: Plan Nacional de Inteligencia Artificial
+  fundstelle: Agencia de Transformación Digital y Telecomunicaciones (ATDT), April 2026
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Im April 2026 von der Agencia de Transformación Digital y Telecomunicaciones vorgelegt
+    und flankierend zur Vorstellung des Marco Normativo der Senatskommission am 30.04.2026 praesentiert.
+    Kein Rechtsakt, keine Verkuendung im DOF, keine Bindungswirkung. Er ist damit das mexikanische Gegenstueck
+    zu einer nationalen KI-Strategie — mit dem Unterschied, dass Mexiko bis heute keine im DOF veroeffentlichte
+    Estrategia Nacional de Inteligencia Artificial besitzt.
+
+    '
+  kurzbeschreibung: 'Der Plan ruht auf drei Saeulen: ''un marco ético y legal sólido'', ''capacidades:
+    talento y software público'' und ''infraestructura estratégica para la soberanía tecnológica''. Er
+    ordnet sich in die Technologiepolitik der Regierung Sheinbaum ein, zu der die Projekte Kutsari (Halbleiterdesign),
+    Quetzal (Drohnen), Olinia (Elektrofahrzeuge) und Coatlicue gehoeren, sowie der Aufbau einer Fábrica
+    de IA mit dem nach eigenen Angaben leistungsfaehigsten Rechner Lateinamerikas. Rechtlich ist er ohne
+    Wirkung; politisch ist er der Rahmen, in dem die ATDT ihre Rolle als kuenftige Betriebsbehoerde eines
+    KI-Gesetzes begruendet.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-04-30
+    was_gilt: Oeffentliche Vorstellung im Umfeld der Praesentation des senatorischen Marco Normativo.
+    verifiziert: false
+    quelle: https://www.amcp.mx/plan-nacional-de-inteligencia-artificial-atdt-abril-2026/
+  themenachsen:
+  - governance
+  - gpai
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Saeule 1: ''Un marco ético y legal sólido'' — Bekenntnis zu einem kuenftigen Rechtsrahmen, ohne ihn
+    zu ersetzen.'
+  - 'Saeule 2: ''Capacidades: talento y software público'' — oeffentliche Software und Kompetenzaufbau
+    statt Marktregulierung.'
+  - 'Saeule 3: ''Infraestructura estratégica para la soberanía tecnológica'' — Rechenkapazitaet, Halbleiter,
+    souveraene Modelle.'
+  - 'Institutionelle Bedeutung: Der Plan positioniert die ATDT, nicht die kuenftige Autoridad Nacional
+    de IA, als operative Traegerin der KI-Politik. Das ist eine Vorentscheidung ueber die Behoerdenarchitektur,
+    die der Gesetzgeber noch nicht getroffen hat.'
+  dokumente:
+  - datum: 2026-04-30
+    typ: bericht
+    titel: Plan Nacional de Inteligencia Artificial (ATDT, abril 2026)
+    url: ''
+    sprache: es
+    urheber: Agencia de Transformación Digital y Telecomunicaciones
+    verifiziert: false
+    notiz: Keine amtliche Fundstelle auf gob.mx auffindbar. Das Dokument zirkuliert als PDF ueber Dritte
+      (u.a. amcp.mx); dort nicht als amtliche Veroeffentlichung ausgewiesen. Solange die ATDT es nicht
+      selbst veroeffentlicht, bleibt der Plan unbelegt.
+  - datum: 2026-08-01
+    typ: uebersicht
+    titel: Plan Nacional de Inteligencia Artificial. ATDT Abril 2026
+    url: ''
+    sekundaerquelle_url: https://www.amcp.mx/plan-nacional-de-inteligencia-artificial-atdt-abril-2026/
+    sprache: es
+    urheber: Asociación Mexicana de Contadores Públicos
+    verifiziert: true
+    notiz: SEKUNDAERQUELLE. Nennt die drei Saeulen; die Urheberschaft der ATDT ist dort nur im Titel behauptet.
+  offene_punkte:
+  - Amtliche Veroeffentlichung des Plans nicht auffindbar. Vor jeder Zitierung an gob.mx/atdt pruefen.
+  - Mexiko hat bis heute keine im DOF veroeffentlichte nationale KI-Strategie. Die haeufig zitierte 'Estrategia
+    Nacional de IA' von 2018 ist ein Dokument der Koalition IA2030MX, kein Regierungsakt.
+  monitoring_quellen:
+  - https://www.gob.mx/atdt
+  - https://www.informegobierno.gob.mx
+  bezug_regelwerke:
+  - mx-lgia-senado
+  - mx-lmtr
+  - mx-agenda-nacional-ia-ania
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Kein Inkrafttreten: Strategiepapier der ATDT ohne Rechtsform und ohne Verkuendung im DOF. Status
+    ''softlaw'' bleibt richtig.'
+- id: mx-agenda-nacional-ia-ania
+  jurisdiktion: mx
+  kurztitel: Agenda Nacional de IA (ANIA, 2024)
+  offizieller_titel: Agenda Nacional de Inteligencia Artificial para México
+  fundstelle: Alianza Nacional de Inteligencia Artificial (ANIA); vorgestellt im Senado de la República,
+    Mai 2024
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Nichtstaatliches Strategiepapier eines Buendnisses aus Unternehmen, Hochschulen und
+    Fachleuten, im Mai 2024 im Senat vorgestellt. Keine Bindungswirkung. Sie ist gleichwohl der Text,
+    auf den sich die mexikanische Debatte am haeufigsten beruft, weil eine Regierungsstrategie fehlt.
+    Achtung: Die Agenda wird in der Berichterstattung regelmaessig faelschlich als Regierungsdokument
+    bezeichnet.
+
+    '
+  kurzbeschreibung: 'Die Agenda buendelt Empfehlungen zu Bildung, Forschung, Regulierung und Technologietransfer
+    und formuliert einen Rahmen fuer die KI-Entwicklung Mexikos bis 2030. ANIA versteht sich als ''colaboración
+    estratégica entre organizaciones, expertos y empresas'' und ist in allen 32 Bundesstaaten praesent.
+    Rechtliche Wirkung: keine. Praktische Wirkung: erheblich, weil die Senatskommission ihre Anhoerungen
+    weitgehend mit ANIA-Vertretern bestritten hat.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2024-05-22
+    was_gilt: Vorstellung der Agenda im Senado de la República.
+    verifiziert: false
+    quelle: https://dplnews.com/ania-lanza-agenda-de-inteligencia-artificial-para-mexico/
+  themenachsen:
+  - governance
+  - gpai
+  regelungsschwerpunkte:
+  - Empfehlungsbereiche Bildung, Forschung, Regulierung, Technologietransfer.
+  - Kein Rechtsakt; keine Behoerde, keine Sanktion, keine Frist.
+  - 'Abgrenzung: Nicht zu verwechseln mit der ''Estrategia Nacional de Inteligencia Artificial'', die
+    2018 von der Koalition IA2030MX mit Unterstuetzung der britischen Botschaft und Oxford Insights erarbeitet
+    wurde, und ebenfalls nicht mit dem Plan Nacional de IA der ATDT von 2026.'
+  dokumente:
+  - datum: 2024-05-22
+    typ: bericht
+    titel: ANIA lanza agenda de Inteligencia Artificial para México
+    url: ''
+    sekundaerquelle_url: https://dplnews.com/ania-lanza-agenda-de-inteligencia-artificial-para-mexico/
+    sprache: es
+    urheber: DPL News (Sekundaerquelle)
+    verifiziert: false
+    notiz: SEKUNDAERQUELLE; nicht geoeffnet, URL aus der Trefferliste.
+  - datum: 2026-01-01
+    typ: uebersicht
+    titel: Alianza Nacional de Inteligencia Artificial — Portal
+    url: ''
+    sekundaerquelle_url: https://alianzanacionaldeinteligenciaartificial.com/
+    sprache: es
+    urheber: ANIA
+    verifiziert: true
+    notiz: Selbstdarstellung; enthaelt keine Datierung und keinen Link auf den Volltext der Agenda.
+  offene_punkte:
+  - Volltext der Agenda nicht auffindbar; ohne ihn bleibt der Inhalt unbelegt.
+  monitoring_quellen:
+  - https://www.ania.org.mx/
+  bezug_regelwerke:
+  - mx-plan-nacional-ia-2026
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Kein Inkrafttreten: nichtstaatliches Strategiepapier eines Buendnisses. Status ''softlaw'' bleibt
+    richtig.'
+- id: mx-scjn-ia-institucional
+  jurisdiktion: mx
+  kurztitel: KI-Einsatz der SCJN — Praxis ohne Regelwerk
+  offizieller_titel: Uso institucional de inteligencia artificial en la Suprema Corte de Justicia de la
+    Nación (asistente virtual JusticIA; acuerdo del Pleno de septiembre de 2026)
+  fundstelle: Comunicado de Prensa der SCJN vom 27.05.2025 (JusticIA); Beschluss des Pleno vom 03./04.09.2026
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: 'Die SCJN setzt seit Mai 2025 den Assistenten JusticIA fuer den Zugang zu Rechtsprechungsinformationen
+    ein. Am 03./04.09.2026 hat das Pleno beschlossen, KI ab der folgenden Woche als Unterstuetzungswerkzeug
+    fuer die richterliche Arbeit der Ministras und Ministros einzusetzen. Eine foermliche Regelung — ein
+    acuerdo general oder Lineamientos — ist nicht ersichtlich. Ministra Loretta Ortiz Ahlf hat dem ausdruecklich
+    widersprochen: ''Fue una decisión del Pleno, yo no estaba tan de acuerdo... primero debería de haber
+    la regulación de la utilización de la IA en los procesos más judiciales y jurídicos en la Corte.''
+
+    '
+  kurzbeschreibung: 'Der Vorgang ist juristisch bemerkenswert, weil er das Gegenstueck zur Jurisprudencia
+    der Kollegialgerichte bildet. Ein Kollegialgericht des Zweiten Kreises hat sich 2025/2026 aus eigenem
+    Antrieb Regeln fuer den KI-Einsatz gegeben (autocontención) und diese zu bindender Jurisprudencia
+    verdichtet; das Hoechstgericht fuehrt KI 2026 ohne vorherige Regelung ein. Die Jurisprudencia bindet
+    die Kollegialgerichte, nicht aber die SCJN. Sanktionen oder Rechtsfolgen sind nicht geregelt; wer
+    eine Verletzung der Jurisprudencia-Mindestelemente ruegen will, ist auf den Amparo verwiesen. Fuer
+    die Verwaltung insgesamt existiert keine KI-Regelung: Der Acuerdo General des Órgano de Administración
+    Judicial vom 17.04.2026 zum elektronischen Aktenverfahren und zur Videokonferenz enthaelt keine KI-Vorschrift.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2025-05-27
+    was_gilt: Inbetriebnahme des Asistente Virtual JusticIA fuer die Recherche in Tesis, Urteilen, Acuerdos,
+      Voten und Normenkontrollverfahren.
+    verifiziert: true
+    quelle: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8279
+  - datum: 2026-09-07
+    was_gilt: Beginn des KI-Einsatzes als Unterstuetzungswerkzeug in der richterlichen Arbeit der Ministras
+      und Ministros (Beschluss des Pleno).
+    verifiziert: false
+    quelle: https://www.cronica.com.mx/jalisco/guadalajara/2026/09/04/ministros-de-la-suprema-corte-usaran-la-inteligencia-artificial-como-herramienta-de-apoyo/
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'JusticIA: Assistent fuer den Zugang zu Justizinformationen in natuerlicher Sprache, ''a través de
+    respuestas basadas en fuentes oficiales''. Erfasst Transparenz, Justicia digital, Datenschutzpflichten
+    der SCJN, Beschwerden gegen Bedienstete sowie Kriterien und Entscheidungen der SCJN und der uebrigen
+    Organe des Bundesjustizwesens einschliesslich Tesis, Urteilen, Acuerdos, Voten, controversias constitucionales
+    und acciones de inconstitucionalidad.'
+  - 'Beschluss des Pleno vom September 2026: KI als ''herramienta de apoyo'' in der Rechtsprechungstaetigkeit,
+    ohne vorherige normative Grundlage. Abweichende Auffassung von Ministra Loretta Ortiz Ahlf.'
+  - 'Kontrast zur Jurisprudencia: Die Tesis II.2o.C. J/2 K (12a.) verlangt fuer den KI-Einsatz Verhaeltnismaessigkeit
+    und Unschaedlichkeit, Datenschutz, Transparenz und Erklaerbarkeit sowie menschliche Aufsicht — und
+    untersagt den Einsatz ausdruecklich fuer die Auslegung und Anwendung von Normen. Ob die SCJN diese
+    Grenze fuer sich uebernimmt, ist offen.'
+  - 'Órgano de Administración Judicial: Der Acuerdo General des Pleno vom 17.04.2026 zum elektronischen
+    Aktenverfahren und zu Videokonferenzen (DOF, Vespertina, 17.04.2026) regelt digitale Signatur, elektronische
+    Zustellung und technische Infrastruktur, aber keine KI-Anwendung. Nach der Justizreform 2024 ist das
+    OAJ an die Stelle des Consejo de la Judicatura Federal getreten.'
+  dokumente:
+  - datum: 2025-05-27
+    typ: pressemitteilung
+    titel: La Corte impulsa el asistente virtual JusticIA, una herramienta que usa inteligencia artificial
+      para la consulta de información relacionada con temas judiciales publicada en su portal web
+    url: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8279
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche Pressemitteilung, im Browser im Wortlaut gelesen.
+  - datum: 2026-04-17
+    typ: delegiert
+    titel: ACUERDO General del Pleno del Órgano de Administración Judicial que regula la integración y
+      trámite del expediente electrónico y el uso de videoconferencias en todos los asuntos competencia
+      de los órganos jurisdiccionales a cargo del Órgano
+    url: https://apps.cjf.gob.mx/normativa/Recursos/2026-6-11-OAJ_V01.PDF
+    sprache: es
+    urheber: Órgano de Administración Judicial
+    verifiziert: true
+    notiz: Amtlicher Text, im DOF (Edición Vespertina) vom 17.04.2026 veroeffentlicht. Geprueft und ausdruecklich
+      OHNE KI-Vorschrift — belegt, dass die Bundesjustiz den KI-Einsatz bislang nicht normativ geregelt
+      hat.
+  - datum: 2026-09-04
+    typ: bericht
+    titel: Ministros de la Suprema Corte usarán la Inteligencia Artificial como herramienta de apoyo
+    url: ''
+    sekundaerquelle_url: https://www.cronica.com.mx/jalisco/guadalajara/2026/09/04/ministros-de-la-suprema-corte-usaran-la-inteligencia-artificial-como-herramienta-de-apoyo/
+    sprache: es
+    urheber: La Crónica de Hoy (Sekundaerquelle)
+    verifiziert: true
+    notiz: SEKUNDAERQUELLE. Belegt Beschluss und Sondervotum; ein amtlicher Beschlusstext ist nicht veroeffentlicht.
+  offene_punkte:
+  - Kein amtlicher Text des Plenarbeschlusses vom September 2026. Ob ein acuerdo general folgt, ist zu
+    beobachten.
+  - Ob die SCJN die Mindestelemente der Jurisprudencia auf sich selbst anwendet — die Jurisprudencia bindet
+    nachgeordnete Gerichte, nicht das Hoechstgericht.
+  - Kein Regelwerk zum KI-Einsatz in der Bundesverwaltung insgesamt.
+  monitoring_quellen:
+  - https://www.internet2.scjn.gob.mx/red2/comunicados/
+  - https://apps.cjf.gob.mx/normativa/
+  bezug_regelwerke:
+  - mx-lgpdppso
+  - mx-cpeum
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Inkrafttreten auf null gesetzt. Der Eintrag beschreibt eine Verwaltungspraxis, kein Regelwerk mit
+    Geltungsbeginn; ein foermlicher Rechtsakt ist nicht ersichtlich. Status ''softlaw'' bleibt richtig.
+    Der Assistent JusticIA (seit 27.05.2025) ist als Anwendungsdatum bereits verifiziert und bleibt unberuehrt.
+    Vorher: 2026-09-07.'
+- id: mx-ine-lineamientos-ia
+  jurisdiktion: mx
+  kurztitel: INE-Lineamientos zum internen KI-Einsatz (2025)
+  offizieller_titel: ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE
+    SE APRUEBAN LOS LINEAMIENTOS Y PRINCIPIOS PARA EL DESARROLLO ESTRATÉGICO Y USO REGULADO DE LA INTELIGENCIA
+    ARTIFICIAL EN EL INSTITUTO NACIONAL ELECTORAL
+  fundstelle: Clave de documento INE/CG175/2025; Junta General Ejecutiva, 20 de agosto de 2025
+  verfahrensnummer: Anlagen JGEor202508-20-ap-5-2.pdf und JGEor202508-20-ap-5-2-a.pdf
+  status: anwendbar
+  status_detail: 'Vom 20.08.2025. Verwaltungsintern bindend fuer das Instituto Nacional Electoral. Es
+    ist die erste und bislang einzige mexikanische Verwaltungsvorschrift, die den KI-Einsatz einer Bundesbehoerde
+    regelt. Formaler Hinweis: Das Dokument traegt die Kennung ''INE/CG175/2025'' (CG steht sonst fuer
+    Consejo General), stammt aber ausweislich seines Titels und der Ablage in der Sammlung ''Junta General
+    Ejecutiva / Acuerdos'' von der Junta General Ejecutiva. Die Bezeichnung ist damit in sich widerspruechlich
+    und in Sekundaerquellen entsprechend uneinheitlich.
+
+    '
+  kurzbeschreibung: 'Die Lineamientos legen Grundsaetze und Verfahren fuer die strategische Entwicklung
+    und den geregelten Einsatz kuenstlicher Intelligenz innerhalb des INE fest. Ihre Bedeutung liegt weniger
+    im Inhalt als in der Rolle des Urhebers: Das INE ist die einzige grosse mexikanische Bundeseinrichtung,
+    die die Verfassungsreform von 2024 unbeschadet ueberstanden hat und ihre Autonomie behielt — und die
+    einzige, die sich selbst KI-Regeln gegeben hat, waehrend Justiz und Bundesverwaltung ohne solche arbeiten.
+    Sanktionen sind dienstrechtlich; Aussenwirkung entfalten die Lineamientos nicht.
+
+    '
+  inkrafttreten:
+    datum: 2025-08-20
+    verifiziert: true
+    quelle: https://repositoriodocumental.ine.mx/xmlui/handle/123456789/184916
+  anwendungsdaten:
+  - datum: 2025-08-20
+    was_gilt: Beschluss und Inkrafttreten der Lineamientos.
+    verifiziert: true
+    quelle: https://repositoriodocumental.ine.mx/xmlui/handle/123456789/184916
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  regelungsschwerpunkte:
+  - Grundsaetze und Verfahren fuer den geregelten Einsatz von KI im INE; verwaltungsinterne Bindung.
+  - 'Institutioneller Befund: Waehrend INAI, IFT und COFECE 2024 aufgeloest wurden, blieb das INE autonom
+    — und ist die einzige Bundeseinrichtung mit eigener KI-Governance.'
+  - 'Numerierungswiderspruch: Kennung ''INE/CG175/2025'' bei einem Acuerdo der Junta General Ejecutiva.
+    In Sekundaerquellen teils als Acuerdo des Consejo General bezeichnet.'
+  dokumente:
+  - datum: 2025-08-20
+    typ: leitlinie
+    titel: Acuerdo INE/CG175/2025 — Lineamientos y principios para el desarrollo estratégico y uso regulado
+      de la inteligencia artificial en el Instituto Nacional Electoral
+    url: https://repositoriodocumental.ine.mx/xmlui/handle/123456789/184916
+    sprache: es
+    urheber: Instituto Nacional Electoral, Junta General Ejecutiva
+    verifiziert: true
+    notiz: Amtliches Dokumentenrepositorium des INE. Im Browser geoeffnet; Kennung, Urheber, Datum und
+      die beiden Anlagen-PDF bestaetigt.
+  offene_punkte:
+  - Inhalt der Lineamientos nicht im Volltext gelesen; nur die Metadaten des Repositoriums wurden geprueft.
+  monitoring_quellen:
+  - https://repositoriodocumental.ine.mx
+  - https://centralelectoral.ine.mx
+  bezug_regelwerke:
+  - mx-ine-lineamientos-nna-2026
+  letzte_pruefung: 2026-09-05
+- id: mx-ine-lineamientos-nna-2026
+  jurisdiktion: mx
+  kurztitel: INE-Lineamientos Kinderschutz und Deepfake-Verbot (2026)
+  offizieller_titel: Lineamientos y anexos para la protección de los derechos de niñas, niños y adolescentes
+    en materia político-electoral
+  fundstelle: Consejo General del Instituto Nacional Electoral, Sesión Extraordinaria vom 3 de septiembre
+    de 2026
+  verfahrensnummer: Acuerdo-Nummer nicht ermittelt
+  status: verabschiedet
+  status_detail: 'Am 03.09.2026 vom Consejo General des INE beschlossen — zwei Tage vor dem Stichtag dieser
+    Erfassung. Die Lineamientos verbieten Deepfakes, die Minderjaehrige faelschlich darstellen, und knuepfen
+    den Einsatz synthetischer Darstellungen an Einwilligung, Kennzeichnung und Nachvollziehbarkeit. Anwendungsbereich
+    ist die politisch-wahlbezogene Propaganda; als Anlass wird die Consulta Infantil y Juvenil 2027 genannt.
+    Der amtliche Acuerdo-Text war zum Stichtag nicht ermittelbar.
+
+    '
+  kurzbeschreibung: 'Die erste mexikanische Vorschrift, die synthetische Inhalte in der politischen Kommunikation
+    ausdruecklich regelt. Verboten ist ''la simulación o creación de deepfakes que proyecten falsamente
+    la presencia de menores''. Werden synthetische Darstellungen eingesetzt, sind technische Rueckverfolgbarkeit,
+    Verfahrensdokumentation und ein sichtbares oder hoerbares digitales Transparenzkennzeichen vorgeschrieben,
+    das das Publikum auf die technologische Manipulation hinweist; zusaetzlich sind die schriftliche Einwilligung
+    der Sorgeberechtigten und die informierte Stellungnahme der Minderjaehrigen selbst erforderlich. Fehlt
+    eine wirksame Einwilligung, sind Bild und Stimme unkenntlich zu machen. Sanktionen folgen dem wahlrechtlichen
+    Sanktionsverfahren (procedimiento especial sancionador).
+
+    '
+  inkrafttreten:
+    datum: 2026-09-03
+    verifiziert: false
+    quelle: https://centralelectoral.ine.mx/2026/09/03/aprueba-ine-nuevos-lineamientos-para-proteger-los-derechos-de-ninas-ninos-y-adolescentes-en-materia-politico-electoral/
+  anwendungsdaten:
+  - datum: 2026-09-03
+    was_gilt: Beschluss durch den Consejo General in ausserordentlicher Sitzung.
+    verifiziert: true
+    quelle: https://centralelectoral.ine.mx/2026/09/03/aprueba-ine-nuevos-lineamientos-para-proteger-los-derechos-de-ninas-ninos-y-adolescentes-en-materia-politico-electoral/
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - 'Verbot: ''la simulación o creación de deepfakes que proyecten falsamente la presencia de menores''.'
+  - 'Kennzeichnungsgebot: sichtbares oder hoerbares digitales Transparenzkennzeichen bei synthetischen
+    Darstellungen — funktional das mexikanische Gegenstueck zu Art. 50 KI-VO, aber sektoral auf Wahlpropaganda
+    und Minderjaehrige begrenzt.'
+  - Technische Rueckverfolgbarkeit und Dokumentation des Erzeugungsprozesses.
+  - 'Doppeltes Zustimmungserfordernis: schriftliche Einwilligung der Sorgeberechtigten UND informierte
+    Stellungnahme der Minderjaehrigen selbst.'
+  - Verbot von Inhalten, die zu Gewalt, Diskriminierung oder Belaestigung aufrufen; Aufklaerungspflicht
+    ueber digitale Expositionsrisiken; Unkenntlichmachung von Bild und Stimme bei fehlender Einwilligung.
+  dokumente:
+  - datum: 2026-09-03
+    typ: leitlinie
+    titel: Aprueba INE nuevos Lineamientos para proteger los derechos de niñas, niños y adolescentes en
+      materia político-electoral
+    url: https://centralelectoral.ine.mx/2026/09/03/aprueba-ine-nuevos-lineamientos-para-proteger-los-derechos-de-ninas-ninos-y-adolescentes-en-materia-politico-electoral/
+    sprache: es
+    urheber: Instituto Nacional Electoral, Central Electoral
+    verifiziert: true
+    notiz: Amtliches Nachrichtenportal des INE; Inhalt der Lineamientos im Einzelnen wiedergegeben. Der
+      Acuerdo selbst ist im Repositorium noch nicht auffindbar.
+  - datum: 2026-09-03
+    typ: pressemitteilung
+    titel: INE modifica lineamientos para proteger a infancias contra mal uso de IA y deepfakes
+    url: https://centralelectoral.ine.mx/2026/09/03/ine-modifica-lineamientos-para-proteger-a-infancias-contra-mal-uso-de-la-y-deepfakes/
+    sprache: es
+    urheber: Instituto Nacional Electoral
+    verifiziert: true
+    notiz: Amtliche Meldung; nennt Consejo General, Sitzungstyp und den Bezug zur Consulta Infantil y
+      Juvenil 2027.
+  offene_punkte:
+  - Acuerdo-Nummer und Volltext nicht ermittelt; im repositoriodocumental.ine.mx zum Stichtag nicht auffindbar.
+  - Ob das Kennzeichnungsgebot auf Wahlpropaganda insgesamt ausgedehnt wird — ein entsprechender Vorstoss
+    fuer die Wahlen 2027 ist in der Diskussion, aber nicht beschlossen.
+  - 'Inkrafttreten nicht belegbar: Eingetragen ist 2026-09-03, das Datum der Beschlussfassung. Versucht:
+    Central Electoral (Mitteilung vom 03.09.2026), portal.ine.mx (Uebersichtsseite zu den Lineamientos)
+    und die amtliche Tagesordnung der Sesión Extraordinaria (ine.mx/wp-content/uploads/2026/09/ Ord-Dia-CG-EX-202609-03-.pdf).
+    NEU BELEGT ist damit der Verfahrenszusammenhang: Punkt 8 der Tagesordnung, ''Proyecto de Acuerdo ...
+    por el que se modifican los Lineamientos y anexos para la protección de los derechos de niñas, niños
+    y adolescentes en materia político-electoral'', ergangen ''en acatamiento a la sentencia dictada en
+    los recursos de revisión del procedimiento especial sancionador SUP-REP-893/2024 y su acumulado SUP-REP-900/2024''.
+    NICHT belegt sind die Acuerdo-Nummer (INE/CG...) und die Transitorio-Bestimmung zum Inkrafttreten;
+    der Volltext im Repositorio Documental des INE war nicht auffindbar. Der Status steht auf ''verabschiedet''
+    und duerfte auf ''anwendbar'' zu setzen sein, sobald die Transitorios vorliegen (INE-Acuerdos treten
+    regelmaessig mit der Beschlussfassung in Kraft) — ohne Beleg jedoch nicht geaendert.'
+  monitoring_quellen:
+  - https://repositoriodocumental.ine.mx
+  - https://centralelectoral.ine.mx
+  bezug_regelwerke:
+  - mx-ine-lineamientos-ia
+  - mx-cpf
+  letzte_pruefung: 2026-09-05
+- id: mx-sinaloa-cp-185-bis-c
+  jurisdiktion: mx
+  bundesstaat: Sinaloa
+  kurztitel: Art. 185 Bis C CP Sinaloa — KI-Deepfake-Straftatbestand
+  offizieller_titel: Código Penal para el Estado de Sinaloa, artículo 185 Bis C, párrafos quinto y sexto
+    (adicionados por decreto publicado el 12 de febrero de 2024 en el Periódico Oficial El Estado de Sinaloa)
+  fundstelle: Periódico Oficial El Estado de Sinaloa, 12 de febrero de 2024
+  verfahrensnummer: Einstimmig beschlossen vom H. Congreso del Estado de Sinaloa am 25.01.2024
+  status: anwendbar
+  status_detail: 'In Kraft und vom Pleno der SCJN am 20.02.2025 in der Acción de Inconstitucionalidad
+    66/2024 einstimmig mit neun Stimmen fuer verfassungsgemaess erklaert. Damit ist dies der erste KI-Straftatbestand
+    der Welt, dessen Vereinbarkeit mit dem strafrechtlichen Bestimmtheitsgebot hoechstrichterlich geprueft
+    und bejaht wurde.
+
+    '
+  kurzbeschreibung: 'Die Absaetze fuenf und sechs des Art. 185 Bis C erweitern den 2023 geschaffenen Tatbestand
+    der violación a la intimidad sexual: Bestraft wird auch, wer mittels kuenstlicher Intelligenz Bilder,
+    Toene oder Videos intimen sexuellen Inhalts einer Person manipuliert, um wirklichkeitsnahe falsche
+    Sachverhalte zu erzeugen, und sie ohne ausdrueckliche Einwilligung ueber Druck- oder elektronische
+    Medien zu verbreiten beabsichtigt. Der Landesgesetzgeber hat kuenstliche Intelligenz dabei ausdruecklich
+    definiert als ''las aplicaciones, programas o tecnología que analicen fotografías, audios o videos
+    y ofrezcan ajustes automáticos para hacerles alteraciones o modificaciones''. Strafrahmen: drei bis
+    sechs Jahre Freiheitsstrafe und fuenfhundert bis tausend Tagessaetze Geldstrafe. Angegriffen wurde
+    ausdruecklich die Wortfolge ''a quien haciendo uso de la Inteligencia Artificial''.
+
+    '
+  inkrafttreten:
+    datum: 2024-02-13
+    verifiziert: true
+    quelle: https://fiscaliasinaloa.mx/Contenido/Normatividad/Leyes/Codigo%20Penal%20para%20el%20Estado%20de%20Sinaloa.pdf
+    fundstelle_norm: 'Decreto No. 699 (P.O. ''El Estado de Sinaloa'' No. 019 vom 12.02.2024), TRANSITORIO
+      PRIMERO: ''El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico
+      Oficial "El Estado de Sinaloa"'''
+  anwendungsdaten:
+  - datum: 2024-01-25
+    was_gilt: Einstimmige Beschlussfassung im Landesparlament; Anordnung der Verkuendung des Dekrets.
+    verifiziert: true
+    quelle: https://www.congresosinaloa.gob.mx/comunicados/aprueba-congreso-sancionar-manipulacion-de-imagenes-con-inteligencia-artificial-que-afecte-intimidad-sexual/
+  - datum: 2024-02-12
+    was_gilt: Verkuendung des Dekrets im Periódico Oficial El Estado de Sinaloa (von der SCJN im Comunicado
+      055/2025 ausdruecklich so datiert).
+    verifiziert: true
+    quelle: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8175
+  - datum: 2025-02-20
+    was_gilt: Bestaetigung der Verfassungsmaessigkeit durch das Pleno der SCJN (Acción de Inconstitucionalidad
+      66/2024, neun Stimmen).
+    verifiziert: true
+    quelle: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8175
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Tatbestand (SCJN-Wiedergabe): ''... también será sancionado quien mediante uso de la Inteligencia
+    Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear
+    hechos falsos con apariencia real, con el propósito de difundirlos a través de medios impresos o electrónicos,
+    sin el respectivo consentimiento expreso.'''
+  - 'Legaldefinition (SCJN-Wiedergabe): ''... el legislador local definió a la Inteligencia Artificial
+    como las aplicaciones, programas o tecnología que analicen fotografías, audios o videos y ofrezcan
+    ajustes automáticos para hacerles alteraciones o modificaciones.'' Eine funktionale, wirkungsbezogene
+    Definition ohne technische Merkmale — kein Bezug auf Autonomie, Lernfaehigkeit oder Modellarchitektur,
+    anders als Art. 3 Nr. 1 KI-VO.'
+  - 'Strafrahmen: drei bis sechs Jahre Freiheitsstrafe, fuenfhundert bis tausend Tagessaetze.'
+  - 'Verfassungsrechtliche Bewertung durch die SCJN: Es sei ''imposible, por las propias características
+    del lenguaje, que el legislador defina de manera unívoca y exacta todas las palabras contenidas en
+    un tipo penal''; zudem existiere ''no ... una definición única del concepto de Inteligencia Artificial''.
+    Die Definition erlaube den Buergerinnen und Buergern, ''comprender el núcleo esencial del delito sin
+    la necesidad de utilizar un lenguaje técnico y especializado''.'
+  - 'Entstehungsgeschichte: Art. 185 Bis C wurde am 07.03.2023 im Rahmen der Sinaloa-Fassung der Ley Olimpia
+    geschaffen (Erhoehung des Strafrahmens von einem bis drei auf drei bis sechs Jahre); die KI-Absaetze
+    kamen erst 2024 hinzu.'
+  dokumente:
+  - datum: 2025-02-20
+    typ: pressemitteilung
+    titel: Comunicado No. 055/2025 — Valida la Corte definición de inteligencia artificial establecida
+      en el Código Penal del Estado de Sinaloa
+    url: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8175
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche Pressemitteilung, im Browser im Wortlaut gelesen. Belegt die angegriffenen Absaetze,
+      das Verkuendungsdatum 12.02.2024, den Tatbestand, die Legaldefinition und die tragenden Gruende.
+  - datum: 2024-01-25
+    typ: pressemitteilung
+    titel: Aprueba Congreso sancionar manipulación de imágenes con Inteligencia artificial que afecte
+      intimidad sexual
+    url: https://www.congresosinaloa.gob.mx/comunicados/aprueba-congreso-sancionar-manipulacion-de-imagenes-con-inteligencia-artificial-que-afecte-intimidad-sexual/
+    sprache: es
+    urheber: H. Congreso del Estado de Sinaloa
+    verifiziert: true
+    notiz: Amtliche Mitteilung des Landesparlaments; nennt die Absaetze fuenf und sechs, den Strafrahmen
+      und die Definition.
+  - datum: 2025-06-24
+    typ: endfassung
+    titel: Acción de Inconstitucionalidad 66/2024 — Zustellungsverfuegung (SCJN)
+    url: https://www.scjn.gob.mx/sites/default/files/acuerdos_controversias_constit/documento/2025-06-24/MP_AccInconst-66-2024.pdf
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Nación
+    verifiziert: false
+    notiz: Im Bestand bereits als Volltext-URL der Entscheidung gefuehrt; hier als Verfahrensdokument
+      uebernommen, nicht selbst erneut geoeffnet.
+  offene_punkte:
+  - Amtlicher Volltext des Periódico Oficial El Estado de Sinaloa vom 12.02.2024 nicht aufgefunden; laip.sinaloa.gob.mx
+    und congresosinaloa.gob.mx liefern die Ausgabe nicht ueber eine stabile Adresse.
+  - Ob der Tatbestand in der Praxis angewandt wird — Verurteilungszahlen liegen nicht vor.
+  monitoring_quellen:
+  - https://www.congresosinaloa.gob.mx
+  - https://laip.sinaloa.gob.mx
+  bezug_regelwerke:
+  - mx-ley-olimpia
+  - mx-cpf
+  - mx-zacatecas-ldnna-art-9
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Am konsolidierten amtlichen Text des Código Penal para el Estado de Sinaloa (Fiscalía General del
+    Estado) geprueft, der die Transitorios saemtlicher Reformdekrete fuehrt. Datum richtig. Neu belegt
+    sind Dekretnummer und Amtsblattnummer: Die KI-Absaetze des Art. 185 Bis C wurden durch das Decreto
+    No. 699, veroeffentlicht im P.O. No. 019 vom 12.02.2024, eingefuegt (bislang im Bestand ohne Dekretnummer
+    gefuehrt). Status ''anwendbar'' bleibt richtig — die Vorschrift wurde vom Pleno der SCJN in der Acción
+    de Inconstitucionalidad 66/2024 fuer verfassungsgemaess erklaert.'
+- id: mx-zacatecas-ldnna-art-9
+  jurisdiktion: mx
+  bundesstaat: Zacatecas
+  kurztitel: Art. 9 Fr. III lit. c) LDNNA Zacatecas — KI-Gewalt gegen Kinder
+  offizieller_titel: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Zacatecas, artículo
+    9, fracción III, inciso c), porción normativa 'uso de inteligencia artificial' (adicionado por Decreto
+    número 448)
+  fundstelle: Periódico Oficial del Estado de Zacatecas, Decreto número 448, publicado el 28 de febrero
+    de 2024
+  verfahrensnummer: Decreto número 448 (LXIV Legislatura del Estado de Zacatecas)
+  status: anwendbar
+  status_detail: 'In Kraft; vom Pleno der SCJN am 22.04.2025 in der Acción de Inconstitucionalidad 80/2024
+    fuer verfassungsgemaess erklaert. Die Entscheidung ergaenzt die Linie aus Sinaloa um den Fall einer
+    blossen Bezugnahme auf KI ohne jede Definition — und billigt auch diese, weil es um den Schutz besonders
+    verletzlicher Personen geht.
+
+    '
+  kurzbeschreibung: 'Die Vorschrift erweitert den Schutz von Kindern und Jugendlichen vor Cybergewalt
+    auf Gewalt, die ''mediante el uso de inteligencia artificial'' erzeugt wird, ohne den Begriff naeher
+    zu bestimmen. Der Poder Ejecutivo Federal griff die Wortfolge ueber die Consejería Jurídica an, weil
+    sie den Schutz auf KI-verursachte Gewalt ausdehne ''sin mayor especificación de lo que debe entenderse
+    al respecto'', und ruegte einen Verstoss gegen Gesetzmaessigkeit und Rechtssicherheit. Das Pleno wies
+    das zurueck: Angesichts der schnellen Entwicklung der KI sei ein Regelungsrahmen erforderlich, der
+    das Kindeswohl in den Vordergrund stelle und weit genug gefasst sei. Eine eigene Sanktion enthaelt
+    die Vorschrift nicht; sie ist Schutznorm des Kinder- und Jugendrechts, nicht Straftatbestand.
+
+    '
+  inkrafttreten:
+    datum: 2024-02-29
+    verifiziert: true
+    quelle: https://www.congresozac.gob.mx/coz/images/uploads/20240301105124.pdf
+    fundstelle_norm: 'Decreto No. 448, T R A N S I T O R I O S, Artículo primero: ''El presente Decreto
+      entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno
+      del Estado'' (Suplemento 10 al No. 17 des Periódico Oficial vom 28.02.2024)'
+  anwendungsdaten:
+  - datum: 2024-02-28
+    was_gilt: Verkuendung des Decreto número 448 im Periódico Oficial des Bundesstaates.
+    verifiziert: true
+    quelle: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8234
+  - datum: 2025-04-22
+    was_gilt: Bestaetigung der Verfassungsmaessigkeit durch das Pleno der SCJN (Acción de Inconstitucionalidad
+      80/2024).
+    verifiziert: true
+    quelle: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8234
+  themenachsen:
+  - grundrechte
+  - content
+  - governance
+  regelungsschwerpunkte:
+  - Erweiterung des Schutzes vor 'violencia cibernética' auf durch KI erzeugte Gewalt; die angegriffene
+    Wortfolge lautet schlicht 'uso de inteligencia artificial'.
+  - 'Ruege des Bundes (Consejería Jurídica del Ejecutivo Federal): Die Vorschrift dehne den Schutz aus,
+    ''sin mayor especificación de lo que debe entenderse al respecto, lo que desde su perspectiva resultaba
+    lesivo de los principios de legalidad y seguridad jurídica''.'
+  - 'Tragende Erwaegung des Pleno: ''considerando que la inteligencia artificial evoluciona rápidamente,
+    se hace evidente la necesidad de un marco regulatorio que priorice el interés superior de la infancia
+    para desarrollar protecciones integrales. Estas deben ser lo suficientemente amplias...'''
+  - 'Rechtsvergleichend: Waehrend Sinaloa eine funktionale Definition liefert und die SCJN diese billigt,
+    liefert Zacatecas gar keine — und auch das wird gebilligt. Der Massstab ist damit nicht die Definitionsdichte,
+    sondern der Schutzzweck.'
+  dokumente:
+  - datum: 2025-04-22
+    typ: pressemitteilung
+    titel: Comunicado No. 112/2025 — La Corte reconoce la validez de una disposición de la Ley de los
+      Derechos de Niñas, Niños y Adolescentes del Estado de Zacatecas, que protege en contra de la violencia
+      generada por el uso de inteligencia artificial
+    url: https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8234
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche Pressemitteilung, im Browser im Wortlaut gelesen. Belegt Vorschrift, Dekretnummer
+      448, Verkuendungsdatum 28.02.2024, Antragsteller und tragende Gruende.
+  offene_punkte:
+  - Amtlicher Volltext des Decreto 448 im Periódico Oficial de Zacatecas nicht aufgerufen.
+  - Beklagter der Acción de Inconstitucionalidad 80/2024 ist der Congreso del Estado de Zacatecas.
+  monitoring_quellen:
+  - https://www.congresozac.gob.mx
+  bezug_regelwerke:
+  - mx-sinaloa-cp-185-bis-c
+  - mx-quintanaroo-cp-ia
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - Am amtlichen Volltext des Decreto No. 448 im Periódico Oficial del Gobierno del Estado de Zacatecas
+    (Suplemento 10 al No. 17 vom 28.02.2024, bereitgestellt vom Congreso del Estado) geprueft. Datum richtig;
+    2024 ist ein Schaltjahr, der 29.02.2024 existiert. Der Bestand stuetzte sich bisher nur auf ein SCJN-Comunicado;
+    jetzt liegt die Primaerquelle vor. Status 'anwendbar' bleibt richtig.
+- id: mx-quintanaroo-cp-ia
+  jurisdiktion: mx
+  bundesstaat: Quintana Roo
+  kurztitel: KI als allgemeiner Strafschaerfungsgrund (Quintana Roo)
+  offizieller_titel: Código Penal para el Estado Libre y Soberano de Quintana Roo — Vorschrift ueber den
+    Einsatz kuenstlicher Intelligenz als Strafschaerfungsgrund (Bezeichnung nicht verifiziert)
+  fundstelle: Periódico Oficial del Estado de Quintana Roo (Datum nicht ermittelt)
+  verfahrensnummer: Gegenstand der Acción de Inconstitucionalidad 104/2024
+  status: anwendbar
+  status_detail: 'NICHT VERIFIZIERT. Die Vorschrift blieb nach dem Eintrag in Kraft, weil der Entscheidungsentwurf,
+    sie fuer nichtig zu erklaeren, die erforderliche qualifizierte Mehrheit von acht Stimmen verfehlte.
+    Weder Artikelnummer noch Verkuendungsdatum noch der Wortlaut liessen sich an einer amtlichen Quelle
+    ermitteln. Ein Engrose ist unter www2.scjn.gob.mx/juridica/engroses/3/2024/19/3_334447_7140_firmado.pdf
+    nachgewiesen, war aber nicht lesbar (Redirect-Schleife bei WebFetch, Proxy-Sperre bei curl, keine
+    Screenshot-Berechtigung fuer die Domain im Browser).
+
+    '
+  kurzbeschreibung: 'Nach der bisherigen Erfassung enthaelt das Strafgesetzbuch von Quintana Roo einen
+    allgemeinen Strafschaerfungsgrund fuer den Einsatz kuenstlicher Intelligenz, also eine Qualifikation
+    ohne Bezug zu einem bestimmten Schutzgut. Das ist die dogmatisch heikelste Konstruktion der drei mexikanischen
+    Landesregelungen: Waehrend Sinaloa KI in einen konkreten Deliktstatbestand einbaut und Zacatecas sie
+    als Schutzgrund verwendet, macht Quintana Roo den blossen Technikeinsatz zum Strafschaerfungsgrund.
+    Die Mehrheit der SCJN-Richter hielt das fuer verfassungswidrig; die Norm ueberlebte nur, weil die
+    Ungueltigerklaerung acht Stimmen erfordert. Strafrahmen und Wortlaut sind nicht belegt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: ''
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Allgemeiner Strafschaerfungsgrund fuer den Einsatz kuenstlicher Intelligenz — anders als in Sinaloa
+    nicht an ein bestimmtes Delikt gebunden. Funktional entspricht das Art. 61 Nr. 11-decies des italienischen
+    Codice penale, den die legge 132/2025 eingefuehrt hat. Die mexikanische Mehrheit hielt eine solche
+    Konstruktion fuer unvereinbar mit dem Bestimmtheitsgebot, konnte sich aber wegen des Mehrheitserfordernisses
+    nicht durchsetzen.
+  - 'Verfahrensrechtliche Besonderheit: Nach Art. 105 Fr. II letzter Absatz CPEUM bedarf die Ungueltigerklaerung
+    einer Norm in der Acción de Inconstitucionalidad einer Mehrheit von mindestens acht Stimmen. Bleibt
+    der Entwurf darunter, wird das Verfahren eingestellt und die Norm bleibt in Kraft — ohne dass die
+    Mehrheitsauffassung Bindungswirkung erlangt.'
+  dokumente:
+  - datum: 2025-01-01
+    typ: endfassung
+    titel: Acción de Inconstitucionalidad 104/2024 — engrose (SCJN)
+    url: https://www2.scjn.gob.mx/juridica/engroses/3/2024/19/3_334447_7140_firmado.pdf
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Nación
+    verifiziert: false
+    notiz: 'AMTLICHE FUNDSTELLE NACHGEWIESEN, ABER NICHT LESBAR. Der Pfad stammt aus der Trefferliste
+      einer Suche nach ''acción de inconstitucionalidad 104/2024 promovente''. Drei Abrufversuche gescheitert:
+      WebFetch meldet ''Too many redirects'', curl wird vom Egress-Proxy abgewiesen, im Browser fehlt
+      die Berechtigung fuer Screenshots auf www2.scjn.gob.mx und der PDF-Viewer ist fuer die Textextraktion
+      nicht erreichbar. Dies ist gegenueber dem bisherigen Bestand (''amtliche Fundstelle nicht auffindbar'')
+      ein Fortschritt: die Fundstelle existiert.'
+  offene_punkte:
+  - 'Artikelnummer, Wortlaut, Strafrahmen und Verkuendungsdatum der angegriffenen Vorschrift sind offen.
+    Der Eintrag mx-2024-scjn-ai-104-2024 traegt zu Recht ''zweifelhaft: true''.'
+  - Auch die Existenz eines Comunicado zu AI 104/2024 liess sich nicht bestaetigen.
+  - 'Inkrafttreten nicht belegbar: Kein Inkrafttretensdatum belegbar: congresoqroo.gob.mx ist durch Cloudflare
+    gesperrt, ein Zugang zum Periódico Oficial del Estado de Quintana Roo bestand nicht; der Transitorio
+    des Dekrets liess sich daher nicht lesen. NEU BELEGT aus dem amtlichen Engrose der SCJN (www2.scjn.gob.mx/juridica/engroses/3/2024/19/3_334447_7140_firmado.pdf)
+    ist dagegen die Identitaet der Vorschrift, die bislang vollstaendig offen war: Es handelt sich um
+    den Artículo 20 Bis des Código Penal para el Estado Libre y Soberano de Quintana Roo, eingefuegt durch
+    das Decreto número 211, veroeffentlicht am 10.04.2024 im Periódico Oficial del Estado de Quintana
+    Roo. Angreiferin war die Consejería Jurídica des Bundes, Ponentin Ministra Loretta Ortiz Ahlf. Bestaetigt
+    ist auch der Ausgang: Der Entwurf, die Vorschrift wegen Verstosses gegen das Bestimmtheitsgebot (Art.
+    14 CPEUM, Art. 9 AMRK) fuer nichtig zu erklaeren, erreichte nur fuenf Stimmen; die Norm bleibt in
+    Kraft. Status ''anwendbar'' ist damit bestaetigt.'
+  monitoring_quellen:
+  - https://www2.scjn.gob.mx/juridica/engroses/
+  - https://www.congresoqroo.gob.mx
+  bezug_regelwerke:
+  - mx-sinaloa-cp-185-bis-c
+  - mx-zacatecas-ldnna-art-9
+  letzte_pruefung: 2026-09-05
+- id: mx-jalisco-cp-176-bis
+  jurisdiktion: mx
+  bundesstaat: Jalisco
+  kurztitel: Art. 176 Bis CP Jalisco — sexuelle Deepfakes
+  offizieller_titel: Código Penal para el Estado Libre y Soberano de Jalisco, artículo 176 Bis (bzw. 176
+    Bis 3), reformiert in materia de delitos contra la intimidad sexual mediante inteligencia artificial
+  fundstelle: H. Congreso del Estado de Jalisco; Ausschussbeschluss vom 15.12.2025, Plenarbeschluss Anfang
+    Juni 2026
+  verfahrensnummer: Dekretnummer nicht ermittelt
+  status: verabschiedet
+  status_detail: 'Vom Landesparlament Anfang Juni 2026 beschlossen. Die Verkuendung im Periódico Oficial
+    El Estado de Jalisco liess sich nicht bestaetigen; der Eintrag steht deshalb auf ''verabschiedet''.
+    Widerspruechlich ist auch die Artikelnummer: Die amtliche Ausschussmitteilung vom 15.12.2025 nennt
+    Art. 176-Bis, die Presseberichterstattung vom 01.06.2026 nennt Art. 176 Bis 3.
+
+    '
+  kurzbeschreibung: 'Jalisco erweitert seine Fassung der Ley Olimpia auf Inhalte sexuellen Charakters,
+    die ''creados íntegramente mediante inteligencia artificial'' sind. Damit geht das Land weiter als
+    Sinaloa: Erfasst werden nicht nur manipulierte, sondern vollstaendig synthetisch erzeugte Darstellungen,
+    bei denen es kein Ausgangsbild einer realen Person gibt. Strafrahmen: ein bis acht Jahre Freiheitsstrafe
+    zuzueglich Geldstrafe. Das ist der weiteste Strafrahmen unter den mexikanischen Landesregelungen und
+    liegt oberhalb des Bundesrahmens des Art. 199 Octies CPF (drei bis sechs Jahre).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: ''
+  anwendungsdaten:
+  - datum: 2025-12-15
+    was_gilt: Zustimmung des zustaendigen Ausschusses zur Aufnahme des KI-Einsatzes als Tatmittel.
+    verifiziert: true
+    quelle: https://www.congresojal.gob.mx/boletines/comisi-n-avala-reformas-para-sancionar-delitos-contra-la-intimidad-sexual-mediante-ia-y
+  - datum: 2026-06-01
+    was_gilt: Beschluss im Plenum; Strafrahmen ein bis acht Jahre.
+    verifiziert: true
+    quelle: https://www.informador.mx/jalisco/jalisco-castigara-con-hasta-8-anos-de-prision-a-por-difundir-contenido-sexual-creado-con-ia-20260601-0132.html
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - Erfasst sind 'contenidos de naturaleza sexual creados íntegramente mediante inteligencia artificial'
+    ohne Einwilligung — ausdrueckliche Einbeziehung vollstaendig synthetischer Darstellungen.
+  - 'Strafrahmen: ein bis acht Jahre Freiheitsstrafe zuzueglich Geldstrafe.'
+  - Anknuepfung an die bestehende Ley-Olimpia-Struktur des Landesrechts (Delikte gegen die sexuelle Intimsphaere).
+  dokumente:
+  - datum: 2025-12-15
+    typ: ausschussbericht
+    titel: Comisión avala reformas para sancionar delitos contra la intimidad sexual mediante IA y fortalecer
+      búsqueda de personas desaparecidas
+    url: https://www.congresojal.gob.mx/boletines/comisi-n-avala-reformas-para-sancionar-delitos-contra-la-intimidad-sexual-mediante-ia-y
+    sprache: es
+    urheber: H. Congreso del Estado de Jalisco
+    verifiziert: true
+    notiz: Amtliche Mitteilung des Landesparlaments; nennt Art. 176-Bis und den KI-Einsatz als Tatmittel,
+      aber keinen Strafrahmen und keine Dekretnummer.
+  - datum: 2026-06-01
+    typ: bericht
+    titel: Jalisco castigará con hasta 8 años de prisión por difundir contenido sexual creado con IA
+    url: ''
+    sekundaerquelle_url: https://www.informador.mx/jalisco/jalisco-castigara-con-hasta-8-anos-de-prision-a-por-difundir-contenido-sexual-creado-con-ia-20260601-0132.html
+    sprache: es
+    urheber: El Informador (Sekundaerquelle)
+    verifiziert: true
+    notiz: SEKUNDAERQUELLE. Nennt Art. 176 Bis 3, den Strafrahmen und die Erfassung vollstaendig synthetischer
+      Inhalte.
+  offene_punkte:
+  - 'Artikelnummer widerspruechlich: 176-Bis (amtliche Ausschussmitteilung) gegen 176 Bis 3 (Presse).
+    Nicht aufgeloest.'
+  - Verkuendung im Periódico Oficial El Estado de Jalisco nicht bestaetigt; Dekretnummer unbekannt.
+  - 'Inkrafttreten nicht belegbar: Versucht: periodicooficial.jalisco.gob.mx (ERR_CONNECTION_RESET) und
+    congresoweb.congresojal.gob.mx/BibliotecaVirtual (Serverfehler). Weder die Verkuendung im Periódico
+    Oficial ''El Estado de Jalisco'' noch die Dekretnummer noch ein Transitorio liessen sich belegen.
+    Auch die Artikelnummer bleibt widerspruechlich (Art. 176-Bis nach der Ausschussmitteilung vom 15.12.2025,
+    Art. 176 Bis 3 nach der Presse vom 01.06.2026). Status ''verabschiedet'' und Inkrafttreten null bleiben
+    unveraendert.'
+  monitoring_quellen:
+  - https://www.congresojal.gob.mx
+  - https://periodicooficial.jalisco.gob.mx
+  bezug_regelwerke:
+  - mx-ley-olimpia
+  - mx-sinaloa-cp-185-bis-c
+  letzte_pruefung: 2026-09-05
+- id: mx-cdmx-cp-2026
+  jurisdiktion: mx
+  bundesstaat: Ciudad de México
+  kurztitel: Strafrechtsreform CDMX 2026 — digitale Erpressung
+  offizieller_titel: Dictamen por el que se reforman y adicionan diversas disposiciones del Código Penal
+    para el Distrito Federal, en materia de extorsión y hostigamiento coercitivo
+  fundstelle: Congreso de la Ciudad de México, III Legislatura; Plenarbeschluss vom 27.05.2026
+  verfahrensnummer: Dictamen aus zehn Initiativen, darunter eine der Jefa de Gobierno Clara Brugada
+  status: verabschiedet
+  status_detail: 'Am 27.05.2026 einstimmig vom Plenum des Congreso de la Ciudad de México beschlossen.
+    WICHTIGER VORBEHALT: Die amtliche Parlamentsmitteilung zu diesem Beschluss erwaehnt kuenstliche Intelligenz
+    mit keinem Wort — eine Volltextsuche der Mitteilung nach ''artificial'' bleibt ohne Treffer. Die Zuschreibung
+    von KI-Tatbestaenden (Stimmklonung, Deepfakes, Identitaetsuebernahme mittels KI) an diese Reform stammt
+    ausschliesslich aus der Presseberichterstattung. Der Widerspruch ist nicht aufgeloest.
+
+    '
+  kurzbeschreibung: 'Die Reform verschaerft die Erpressungstatbestaende des Strafgesetzbuchs der Hauptstadt
+    und fuegt neue Begehungsformen ein, darunter nach Presseberichten die Identitaetsuebernahme mittels
+    kuenstlicher Intelligenz, die Klonung von Stimmen und manipulierte Videos. Belegt sind aus amtlicher
+    Quelle nur das Datum, die Einstimmigkeit, die Zusammenfuehrung von zehn Initiativen und das Ziel,
+    das Landesrecht an den Bundesrahmen anzugleichen. Aus Presseberichten stammen die Strafrahmen: zehn
+    bis fuenfzehn Jahre Freiheitsstrafe und zweitausend bis dreitausend UMA fuer gewaltsame Beitreibung,
+    drei bis sieben Jahre und fuenfhundert bis tausend UMA fuer koerperlichen oder seelischen Zwang. Parallel
+    liegt seit dem 26.02.2026 eine Initiative der Dip. Diana Sánchez Barrios vor, Art. 188 des Strafgesetzbuchs
+    um einen Deepfake-Tatbestand zu Lasten Minderjaehriger zu ergaenzen (sieben bis zwoelf Jahre, tausend
+    bis zweitausend Tagessaetze, sowie Einziehung und Vernichtung der Tatmittel).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: ''
+  anwendungsdaten:
+  - datum: 2026-05-27
+    was_gilt: Einstimmiger Plenarbeschluss ueber den Dictamen aus zehn Initiativen.
+    verifiziert: true
+    quelle: https://www.congresocdmx.gob.mx/comsoc-da-aval-congreso-cdmx-reformas-combatir-extorsion-y-hostigamiento-coercitivo-7544-1.html
+  - datum: 2026-02-26
+    was_gilt: Einbringung der Initiative zu Art. 188 CP (Deepfakes mit Darstellung Minderjaehriger).
+    verifiziert: true
+    quelle: https://www.congresocdmx.gob.mx/comsoc-van-por-12-anos-prision-creadores-deepfakes-con-imagenes-menores-7154-1.html
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Amtlich belegt: Zusammenfuehrung von zehn Initiativen zur Erpressung, darunter eine der Jefa de Gobierno
+    Clara Brugada; Ziel ist ''la armonización de la legislación local con el marco federal'' und das Schliessen
+    von Strafbarkeitsluecken.'
+  - 'Nur presseberichtlich belegt: neue Begehungsformen der ''usurpación de identidad mediante inteligencia
+    artificial'', ''clonación de voces'', ''creación de videos manipulados (deepfakes)'' und Identitaetsuebernahme
+    in Echtzeit.'
+  - 'Initiative zu Art. 188 CP (26.02.2026, Dip. Diana Sánchez Barrios, APMCFI): sieben bis zwoelf Jahre
+    Freiheitsstrafe und tausend bis zweitausend Tagessaetze fuer die Erzeugung von Fotografien, Videos
+    oder Filmen, ''donde se simule la identidad o participación de una persona en situaciones que nunca
+    ocurrieron''; zusaetzlich Einziehung und Vernichtung der Tatmittel und Erzeugnisse.'
+  dokumente:
+  - datum: 2026-05-27
+    typ: pressemitteilung
+    titel: Da aval Congreso de la CDMX a reformas para combatir extorsión y hostigamiento coercitivo
+    url: https://www.congresocdmx.gob.mx/comsoc-da-aval-congreso-cdmx-reformas-combatir-extorsion-y-hostigamiento-coercitivo-7544-1.html
+    sprache: es
+    urheber: Congreso de la Ciudad de México
+    verifiziert: true
+    notiz: Amtliche Mitteilung, im Browser gelesen. Volltextsuche nach 'artificial' ohne Treffer — die
+      KI-Bezuege der Presseberichte finden in der amtlichen Darstellung keine Stuetze.
+  - datum: 2026-03-02
+    typ: pressemitteilung
+    titel: Van por 12 años de prisión a creadores de 'deepfakes' con imágenes de menores
+    url: https://www.congresocdmx.gob.mx/comsoc-van-por-12-anos-prision-creadores-deepfakes-con-imagenes-menores-7154-1.html
+    sprache: es
+    urheber: Congreso de la Ciudad de México
+    verifiziert: true
+    notiz: Amtliche Mitteilung, im Browser gelesen. Belegt Initiative, Antragstellerin, Datum, Artikel
+      188 CP, Strafrahmen und Einziehungsanordnung.
+  offene_punkte:
+  - 'WIDERSPRUCH: Presseberichte schreiben der Reform vom 27.05.2026 KI-Tatbestaende zu; die amtliche
+    Parlamentsmitteilung tut es nicht. Erst der Text im Gaceta Oficial de la Ciudad de México kann das
+    aufloesen.'
+  - Verkuendung im Gaceta Oficial de la Ciudad de México nicht bestaetigt.
+  - Stand der Initiative zu Art. 188 CP unbekannt.
+  - 'Inkrafttreten nicht belegbar: Versucht: data.consejeria.cdmx.gob.mx (Gaceta-Portal und konsolidierter
+    Código Penal — Zugriff auf Seiteninhalte gesperrt, WebFetch durch robots.txt blockiert) und paot.org.mx
+    (leere Seite). HINWEIS AUS SEKUNDAERQUELLE (nicht amtlich, daher nicht eingetragen): El Universal
+    berichtet, das Dekret sei am Donnerstag, dem 23.07.2026, in der Gaceta Oficial de la Ciudad de México
+    veroeffentlicht worden und gelte ab Freitag, dem 24.07.2026. Trifft das zu, waere der Status von ''verabschiedet''
+    auf ''anwendbar'' zu setzen. Ebenfalls ungeklaert bleibt der vermerkte Vorbehalt, ob die Reform ueberhaupt
+    KI-Tatbestaende (Stimmklonung, Deepfakes, Identitaetsuebernahme mittels KI) enthaelt: Die amtliche
+    Parlamentsmitteilung erwaehnt KI nicht, mehrere Presseberichte tun es.'
+  monitoring_quellen:
+  - https://www.congresocdmx.gob.mx
+  - https://data.consejeria.cdmx.gob.mx/index.php/gaceta
+  bezug_regelwerke:
+  - mx-ley-olimpia
+  - mx-cpf
+  letzte_pruefung: 2026-09-05
+- id: mx-nuevoleon-cp-ia
+  jurisdiktion: mx
+  bundesstaat: Nuevo León
+  kurztitel: Nuevo León — KI-Deepfake-Initiative (nicht erlassen)
+  offizieller_titel: Iniciativa de reforma al Código Penal para el Estado de Nuevo León en materia de
+    ataques a la intimidad mediante inteligencia artificial
+  fundstelle: H. Congreso del Estado de Nuevo León (Initiative der Fraktion MORENA)
+  verfahrensnummer: ''
+  status: entwurf
+  status_detail: 'In Nuevo León ist bislang KEINE KI-bezogene Strafvorschrift in Kraft. Es existiert eine
+    Initiative der MORENA-Fraktion, sexualisierte Gewalt mittels kuenstlicher Intelligenz unter Strafe
+    zu stellen. Weder Aktenzeichen noch Datum noch Beschlussfassung liessen sich an einer amtlichen Quelle
+    belegen. Der Eintrag dient der Vollstaendigkeit des Bundesstaatenrasters und der Klarstellung, dass
+    Nuevo León entgegen verbreiteter Darstellung kein KI-Strafrecht hat.
+
+    '
+  kurzbeschreibung: 'Nuevo León wird in Uebersichten haeufig unter den Bundesstaaten mit KI-Regeln gefuehrt.
+    Die Recherche ergibt: Es gibt eine Initiative, aber keine geltende Vorschrift. Damit stehen unter
+    den vier vom Auftrag genannten Bundesstaaten drei mit geltendem oder beschlossenem Recht (Sinaloa,
+    Jalisco, Ciudad de México) einem ohne (Nuevo León) gegenueber.
+
+    '
+  inkrafttreten: null
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - Vorgeschlagen ist ein Straftatbestand fuer sexualisierte Gewalt mittels kuenstlicher Intelligenz nach
+    dem Vorbild Sinaloas.
+  - Kein geltendes Landesrecht zur KI in Nuevo León.
+  dokumente:
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: Código Penal para el Estado de Nuevo León — texto vigente
+    url: https://www.hcnl.gob.mx/trabajo_legislativo/leyes/codigos/codigo_penal_para_el_estado_de_nuevo_leon/
+    sprache: es
+    urheber: H. Congreso del Estado de Nuevo León
+    verifiziert: false
+    notiz: Amtliche Fundstelle des Landesstrafgesetzbuchs; nicht auf KI-Vorschriften durchsucht.
+  offene_punkte:
+  - Aktenzeichen und Stand der Initiative unbekannt.
+  - Ob andere Landesgesetze in Nuevo León KI erwaehnen, wurde nicht geprueft.
+  monitoring_quellen:
+  - https://www.hcnl.gob.mx/trabajo_legislativo/
+  bezug_regelwerke:
+  - mx-sinaloa-cp-185-bis-c
+  letzte_pruefung: 2026-09-05
+  pruefvermerk:
+  - 'Kein Inkrafttreten: In Nuevo León ist keine KI-bezogene Strafvorschrift in Kraft. Status ''entwurf''
+    bleibt richtig.'

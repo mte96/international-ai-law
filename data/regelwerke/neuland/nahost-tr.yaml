@@ -1,0 +1,4130 @@
+regelwerke:
+- id: ae-ki-strategie-2031
+  jurisdiktion: ae
+  kurztitel: Nationale KI-Strategie 2031
+  offizieller_titel: 'UAE National Strategy for Artificial Intelligence 2031 / الاستراتيجية الوطنية للذكاء
+    الاصطناعي 2031 — Nationale Strategie der Vereinigten Arabischen Emirate für künstliche Intelligenz
+    2031
+
+    '
+  fundstelle: 'Herausgegeben vom Office of the Minister of State for Artificial Intelligence; angekündigt
+    auf dem World Government Summit im Februar 2018, Strategiedokument in der heute veröffentlichten Fassung
+    auf dem amtlichen Regierungsportal u.ae und auf ai.gov.ae. Keine Veröffentlichung im Amtsblatt, kein
+    Rechtsakt.
+
+    '
+  status: softlaw
+  status_detail: 'Regierungsstrategie ohne Rechtssatzform. Sie ist der politische Rahmen, auf den sich
+    sämtliche späteren KI-Dokumente der VAE berufen, begründet aber selbst keine Pflichten Privater. Das
+    Strategiedokument nennt als achtes Ziel ausdrücklich „strong governance and effective regulation"
+    und schlägt einen zwischenstaatlichen KI-Sachverständigenrat nach dem Vorbild des IPCC vor — die VAE
+    haben also von Anfang an internationale statt nationaler Regulierung angestrebt.
+
+    '
+  kurzbeschreibung: 'Acht Ziele: KI-Standortmarke („UAE AI Seal"), KI in Schwerpunktsektoren (Ressourcen,
+    Logistik, Tourismus, Gesundheit, Cybersicherheit), Ökosystem, KI in Verwaltungs- dienstleistungen,
+    Talentgewinnung, Forschung, Daten- und Infrastrukturbereitstellung („testbed nation") sowie Governance
+    und Regulierung. Adressat ist die Bundesverwaltung; Sanktionen sieht das Dokument nicht vor. Wirtschaftliches
+    Zielvolumen: bis zu 335 Mrd. AED zusätzliche Wertschöpfung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://ai.gov.ae/strategy/
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Ziel 4: Einsatz von KI in sämtlichen Verwaltungsdienstleistungen.'
+  - 'Ziel 8: „Ensure governance and effective regulation" — vorgesehen sind eine nationale Governance-Überprüfung
+    durch den KI- und Blockchain-Rat sowie ein „Intergovernmental Panel on Artificial Intelligence" nach
+    IPCC-Vorbild mit durchsetzbaren internationalen Standards. Die VAE begründen damit ausdrücklich, warum
+    sie kein eigenes horizontales KI-Gesetz erlassen.
+
+    '
+  - 'Ziel 1: „UAE AI Seal" als staatliches Gütezeichen für ethisch und qualitativ geprüfte KI-Unternehmen
+    — ein Zertifizierungs- und kein Verbotsansatz.
+
+    '
+  dokumente:
+  - datum: null
+    typ: bericht
+    titel: UAE National Strategy for Artificial Intelligence 2031 (Strategiedokument)
+    url: https://assets.u.ae/api/public/content/deed2bf9d68244ab8119c27f2c52813f?v=87559d49
+    sprache: en
+    urheber: Office of the Minister of State for Artificial Intelligence, VAE
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und gelesen. Amtliche Dateiablage des Regierungsportals u.ae. Das
+      Dokument selbst trägt kein Datum auf dem Titelblatt; die Jahresangabe 2018 ergibt sich aus dem Text
+      (World Government Summit Februar 2018).
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: UAE National Strategy for AI 2031 — Übersichtsseite des National Program for AI
+    url: https://ai.gov.ae/strategy/
+    sprache: en
+    urheber: National Program for Artificial Intelligence (ai.gov.ae)
+    verifiziert: true
+    notiz: Am 06.09.2026 abgerufen; nennt die acht Ziele und das Volumen von 335 Mrd. AED.
+  offene_punkte:
+  - 'Das exakte Beschlussdatum und die Beschlussform (Kabinettsbeschluss? bloße Ankündigung des Premierministers?)
+    sind aus den amtlichen Seiten nicht ersichtlich. Weder u.ae noch ai.gov.ae nennen eine Kabinettsentschließungsnummer.
+    Deshalb `inkrafttreten.datum: null`.
+
+    '
+  - 'Ob die Strategie 2023/2024 fortgeschrieben wurde (es kursieren Verweise auf eine „AI Strategy 2031
+    refresh"), ließ sich nicht belegen.
+
+    '
+  monitoring_quellen:
+  - https://ai.gov.ae/
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence
+  bezug_regelwerke:
+  - ae-ki-rat
+  - ae-ki-ethik-leitlinien
+  - ae-agentic-ai-rahmen
+  letzte_pruefung: 2026-09-06
+- id: ae-ki-rat
+  jurisdiktion: ae
+  kurztitel: KI- und Blockchain-Rat der VAE
+  offizieller_titel: 'UAE Council for Artificial Intelligence and Blockchain / مجلس الإمارات للذكاء الاصطناعي
+    والمعاملات الرقمية — Rat der VAE für künstliche Intelligenz und Blockchain
+
+    '
+  fundstelle: 'Kabinettsbeschluss von 2018, 2021 mit neuer Besetzung erneuert. Die Beschlussnummer ist
+    auf der amtlichen Seite nicht angegeben.
+
+    '
+  status: softlaw
+  status_detail: 'Beratungs- und Koordinierungsgremium der Bundesregierung, kein Aufsichts- oder Normsetzungsorgan
+    mit Eingriffsbefugnissen. 19 Mitglieder aus Bundesministerien und Emiratsbehörden. Der Rat ist Urheber
+    der KI-Ethik-Leitlinien von Dezember 2022.
+
+    '
+  kurzbeschreibung: 'Der Rat schlägt der Regierung Politiken für ein „KI-freundliches Ökosystem" vor,
+    fördert Forschung und koordiniert die Zusammenarbeit von öffentlichem und privatem Sektor. Er hat
+    keine Bußgeld-, Untersagungs- oder Registrierungsbefugnis; er ist damit das genaue Gegenstück zu einer
+    Marktüberwachungsbehörde nach Art. 70 KI-VO. Adressat seiner Empfehlungen ist die Regierung, nicht
+    der Markt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://ai.gov.ae/ai_council/
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Drei Phasen des Mandats: Grundlagenphase (Infrastruktur, Talente, Forschung, Daten, Governance),
+    Aktivitätsphase (Einsatz in Schwerpunktsektoren), Führungsphase (globale Führungsrolle).
+
+    '
+  - 'Keine Rechtsgrundlage in einem Gesetz: Die amtliche Seite nennt ausdrücklich keine gesetzliche Errichtungsnorm.
+    Der Rat existiert auf Kabinettsbeschluss.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: UAE Council for Artificial Intelligence and Blockchain
+    url: https://ai.gov.ae/ai_council/
+    sprache: en
+    urheber: National Program for Artificial Intelligence
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen. Nennt Gründung 2018, Erneuerung 2021, 19 Mitglieder, Mandat und Phasenmodell;
+      nennt KEINE Rechtsgrundlage.
+
+      '
+  offene_punkte:
+  - 'Die Nummer und das Datum des Kabinettsbeschlusses, mit dem der Rat errichtet wurde, konnten nicht
+    ermittelt werden. Auf uaelegislation.gov.ae war er nicht auffindbar, weil das Portal jede Suche mit
+    Query-String mit HTTP 403 beantwortet.
+
+    '
+  - 'Verhältnis zu dem im Breitenscreening behaupteten „Federal Authority for Artificial Intelligence
+    and Data" (angeblich Juni 2026) ist ungeklärt — siehe ae-bundesbehoerde-ki-daten.
+
+    '
+  monitoring_quellen:
+  - https://ai.gov.ae/ai_council/
+  bezug_regelwerke:
+  - ae-ki-strategie-2031
+  - ae-ki-ethik-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: ae-ki-ethik-leitlinien
+  jurisdiktion: ae
+  kurztitel: KI-Ethik-Leitlinien der VAE (2022)
+  offizieller_titel: 'AI Ethics: Principles and Guidelines — Grundsätze und Leitlinien zur KI-Ethik
+
+    '
+  fundstelle: 'Herausgegeben vom UAE AI and Blockchain Council beim Ministry of State for Artificial Intelligence,
+    Digital Economy and Remote Work Applications; Ausgabe Dezember 2022. Veröffentlicht auf dem amtlichen
+    Regierungsportal u.ae (assets.u.ae).
+
+    '
+  status: softlaw
+  status_detail: 'Ausdrücklich unverbindlicher Rahmen („non-binding framework"). Er richtet sich an Organisationen,
+    die KI-Systeme entwickeln oder einsetzen, die „significant decisions" treffen — also Entscheidungen
+    mit Auswirkung auf Einzelne oder die Gesellschaft. Das ist der materiell wichtigste KI-Text des VAE-Bundes,
+    weil er den Prüfungsmaßstab liefert, an dem die Verwaltung KI-Vorhaben misst.
+
+    '
+  kurzbeschreibung: 'Acht Grundsätze — Fairness, Verantwortlichkeit, Transparenz, Erklärbarkeit, Robustheit
+    und Sicherheit, menschenzentrierte Gestaltung, Nachhaltigkeit, Privatheit. Zu jedem Grundsatz formuliert
+    das Dokument Umsetzungsempfehlungen (u.a. Rückverfolgbarkeitsdokumentation, Offenlegung von Datenquellen
+    und Algorithmen, Beschwerdemechanismen, Folgenabschätzung über den Lebenszyklus). Sanktionen sind
+    nicht vorgesehen; die Einhaltung ist freiwillig.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://assets.u.ae/api/public/content/893c940c21c4403ea8df7faad66a889e?v=b2f9c1a1
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  - haftung
+  regelungsschwerpunkte:
+  - 'Fairness: gleicher Zugang, Diskriminierungsvermeidung, repräsentative Daten.'
+  - 'Verantwortlichkeit: benannte Verantwortliche, Risikominderung und ein Beschwerde-/Rechtsbehelfsmechanismus
+    („appeals mechanisms") — funktional das, was Art. 86 KI-VO als Recht auf Erläuterung regelt, hier
+    aber ohne Anspruchsqualität.
+
+    '
+  - 'Erklärbarkeit „as technically possible" gegenüber den Betroffenen: der Vorbehalt des technisch Möglichen
+    ist ausdrücklich in den Grundsatz hineingeschrieben.
+
+    '
+  - Nachhaltigkeit als eigenständiger Grundsatz mit Lebenszyklus-Folgenabschätzung.
+  dokumente:
+  - datum: 2022-12-01
+    typ: leitlinie
+    titel: 'AI Ethics: Principles and Guidelines (Ausgabe Dezember 2022)'
+    url: https://assets.u.ae/api/public/content/893c940c21c4403ea8df7faad66a889e?v=b2f9c1a1
+    sprache: en
+    urheber: UAE AI and Blockchain Council / Ministry of State for AI
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und im Volltext gelesen. Auf u.ae unter „AI resources" als „AI Ethics
+      Guide" geführt. Der Tag im Monat Dezember 2022 ist im Dokument nicht angegeben; hier auf den Monatsersten
+      normiert und deshalb `inkrafttreten` nicht gesetzt.
+
+      '
+  offene_punkte:
+  - 'Es gibt daneben eine ältere Fassung („AI Ethics Principles and Guidelines", Smart Dubai 2019) auf
+    Emiratsebene; das Verhältnis der beiden Texte ist ungeklärt (siehe dubai-ki-ethik).
+
+    '
+  - 'Ob die Leitlinien 2024 durch die „UAE Charter for the Development and Use of AI" ersetzt oder ergänzt
+    worden sind, konnte nicht geklärt werden — die Charta war auf ai.gov.ae und u.ae nicht auffindbar.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence/ai-resources
+  bezug_regelwerke:
+  - ae-ki-rat
+  - ae-ki-charta-2024
+  - dubai-ki-ethik
+  letzte_pruefung: 2026-09-06
+- id: ae-deepfake-leitfaden
+  jurisdiktion: ae
+  kurztitel: Deepfake-Leitfaden der VAE (2021)
+  offizieller_titel: 'AI Guide: Deepfakes — KI-Leitfaden: Deepfakes
+
+    '
+  fundstelle: 'National Program for Artificial Intelligence, Juli 2021. Veröffentlicht auf dem amtlichen
+    Regierungsportal u.ae (assets.u.ae), dort unter „AI resources" als „DeepFake Guide".
+
+    '
+  status: softlaw
+  status_detail: 'Aufklärungs- und Orientierungsdokument ohne Rechtssatzform. Es ist die einzige KI-spezifische
+    amtliche Äußerung der VAE zu Deepfakes; die rechtliche Sanktion läuft dagegen über Art. 44 des Cyberkriminalitätsgesetzes
+    Nr. 34/2021 und die Vorschriften über Beleidigung und Verleumdung.
+
+    '
+  kurzbeschreibung: 'Definiert Deepfakes als „manipulated visual and/or audio content based on Artificial
+    Intelligence and advanced software technology to misrepresent individuals, objects, environments,
+    and events". Unterscheidet positive Anwendungen (Medizin: synthetische Stimme für Kehlkopfpatienten,
+    MRT-Bilderzeugung für Trainingszwecke; Unterhaltung: Spezialeffekte, virtuelle Nachrichtensprecher;
+    Kundendienst) von missbräuchlichen (Rufschädigung, Manipulation der öffentlichen Meinung, fabrizierte
+    Beweismittel, Cybermobbing). Verweist auf bestehende nationale Verbote von Cybermobbing, Identitätsanmaßung
+    und Falschnachrichten.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://assets.u.ae/api/public/content/38a05cb9c7bb491b8411092b9426fef1?v=4e2a2c8a
+  themenachsen:
+  - content
+  - grundrechte
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Rechtsvergleichender Anker: Der Leitfaden zitiert als einzige ausländische Norm ausdrücklich den
+    Deepfake-Tatbestand des US-Bundesstaats Illinois (10 ILCS 5/29-21) mit dessen Täuschungsabsichtsmerkmal
+    — bemerkenswert, weil damit ein US-bundesstaatlicher Wahlrechtstatbestand zum Referenzmodell einer
+    Golfstaaten-Verwaltungsleitlinie wird.
+
+    '
+  - 'Der Leitfaden nennt die einschlägigen VAE-Gesetze NICHT mit Nummer, sondern nur pauschal („existing
+    UAE national laws"). Die Verknüpfung mit Art. 44 Bundesdekretgesetz Nr. 34/2021 muss der Rechtsanwender
+    selbst herstellen.
+
+    '
+  dokumente:
+  - datum: 2021-07-01
+    typ: leitlinie
+    titel: 'AI Guide: Deepfakes (Juli 2021)'
+    url: https://assets.u.ae/api/public/content/38a05cb9c7bb491b8411092b9426fef1?v=4e2a2c8a
+    sprache: en
+    urheber: National Program for Artificial Intelligence, VAE
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und gelesen. Monat und Jahr stehen im Dokument, der Tag nicht; deshalb
+      auf den Monatsersten normiert und `inkrafttreten` nicht gesetzt.
+
+      '
+  offene_punkte:
+  - 'Eine arabische Fassung war unter den auf u.ae verlinkten Dateien nicht auffindbar. Ob es eine gibt,
+    ist offen.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence/ai-resources
+  bezug_regelwerke:
+  - ae-cybercrime-34-2021
+  - ae-ki-ethik-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: ae-ki-einfuehrungsrichtlinie
+  jurisdiktion: ae
+  kurztitel: KI-Einführungsrichtlinie für Regierungsdienste
+  offizieller_titel: 'AI Adoption Guideline in Government Services — Richtlinie zur Einführung künstlicher
+    Intelligenz in Regierungsdienstleistungen
+
+    '
+  fundstelle: 'Ministry of Cabinet Affairs / Prime Minister''s Office, VAE. Veröffentlicht auf dem amtlichen
+    Regierungsportal u.ae (assets.u.ae). Ohne Nummer, ohne Datumsangabe im Dokument.
+
+    '
+  status: softlaw
+  status_detail: 'Verwaltungsinterne Handreichung des Kabinettsministeriums an Bundesbehörden. Kein Rechtsakt,
+    aber der Maßstab, an dem KI-Vorhaben von Bundesbehörden intern gemessen werden. Weil das Kabinettsministerium
+    zugleich die Leistungsbewertung der Bundesbehörden steuert, hat die Richtlinie faktische Steuerungs-
+    kraft, die einer Verwaltungsvorschrift nahekommt.
+
+    '
+  kurzbeschreibung: 'Verlangt von Bundesbehörden die Ausrichtung von KI-Vorhaben an der nationalen KI-Vision
+    2031, Leitungsverantwortung mit eigenem Budget und Governance-Struktur, eine systematische Priorisierung
+    von Anwendungsfällen nach Machbarkeit und Wertbeitrag, ein Datenmanagement-Regime, den Aufbau interdisziplinärer
+    Teams sowie die Übernahme ethischer Grundsätze (Fairness, Transparenz, Verantwortlichkeit) und eines
+    Risikomanagements für Privatheit, Verzerrung und Erklärbarkeit. Umsetzung in vier Stufen (discovery,
+    initiation, execution, operations); Reifegradmodell mit sechs Dimensionen und fünf Stufen (Explorer
+    bis Transformer).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://assets.u.ae/api/public/content/efd38f961c104415a22db5e177a73e02?v=57989b9e
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Reifegradmodell über sechs Dimensionen: Vision, Anwendungsfälle, Daten, Infrastruktur, Personal,
+    Governance. Das ist der einzige amtliche VAE-Text, der KI-Governance operationalisierbar macht.
+
+    '
+  - 'Risikomanagement ist ausdrücklich auf Privatheit, Verzerrung (bias) und Erklärbarkeit bezogen — dieselbe
+    Trias wie in der Ethik-Leitlinie, hier aber prozessual eingebettet.
+
+    '
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: AI Adoption Guideline in Government Services
+    url: https://assets.u.ae/api/public/content/efd38f961c104415a22db5e177a73e02?v=57989b9e
+    sprache: en
+    urheber: Ministry of Cabinet Affairs / Prime Minister's Office, VAE
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und gelesen. Das Dokument nennt weder Version noch Datum; deshalb
+      kein `inkrafttreten`.
+
+      '
+  offene_punkte:
+  - Datum und Fassung des Dokuments sind unbekannt; das Dokument selbst datiert nicht.
+  - 'Ob die Richtlinie durch den Agentic-AI-Rahmen von 2026 abgelöst oder ergänzt wird, ist offen.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence/ai-resources
+  bezug_regelwerke:
+  - ae-ki-strategie-2031
+  - ae-agentic-ai-rahmen
+  - ae-ki-ethik-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: ae-genai-leitfaden-2023
+  jurisdiktion: ae
+  kurztitel: Leitfaden generative KI (100 Anwendungsfälle)
+  offizieller_titel: '100 Practical Applications and Use Cases of Generative AI — 100 praktische Anwendungen
+    und Anwendungsfälle generativer KI
+
+    '
+  fundstelle: 'National Program for Artificial Intelligence / Ministry of State for Artificial Intelligence,
+    Digital Economy and Remote Work Applications, Ausgabe April 2023. Veröffentlicht auf ai.gov.ae.
+
+    '
+  status: softlaw
+  status_detail: 'Kein Regelwerk im engeren Sinne, sondern ein staatlicher Anwendungsleitfaden. Er ist
+    hier erfasst, weil er der einzige amtliche VAE-Text ist, der generative KI ausdrücklich zum Gegenstand
+    hat, und weil er die Haltung der Regierung zur Verantwortung der Nutzer dokumentiert.
+
+    '
+  kurzbeschreibung: 'Gliedert sich in Grundbegriffe (einschließlich Datenschutz und technischer Grenzen),
+    plattformbezogene Hinweise (ChatGPT, Midjourney), Anwendungsfälle nach Zielgruppen (Unternehmen, Studierende,
+    Berufseinsteiger, Beschäftigte) sowie Prompt-Vorlagen. Benennt ausdrücklich Zuverlässigkeitsprobleme
+    und Lücken bei der arabischen Sprachverarbeitung. Keine Pflichten, keine Sanktionen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://ai.gov.ae/wp-content/uploads/2023/04/406.-Generative-AI-Guide_ver1-EN.pdf
+  themenachsen:
+  - governance
+  - content
+  regelungsschwerpunkte:
+  - 'Amtliche Feststellung der Unzuverlässigkeit generativer Systeme und der Schwäche bei Arabisch — relevant
+    als staatliches Eingeständnis im Kontext der arabischsprachigen Modelle (Falcon, Jais).
+
+    '
+  dokumente:
+  - datum: 2023-04-01
+    typ: leitlinie
+    titel: 100 Practical Applications and Use Cases of Generative AI, Version 1 (April 2023)
+    url: https://ai.gov.ae/wp-content/uploads/2023/04/406.-Generative-AI-Guide_ver1-EN.pdf
+    sprache: en
+    urheber: National Program for Artificial Intelligence, VAE
+    verifiziert: true
+    notiz: Am 06.09.2026 abgerufen und gelesen.
+  - datum: null
+    typ: leitlinie
+    titel: 100 Practical Applications and Use Cases of Generative AI in Media
+    url: https://assets.u.ae/api/public/content/51a27b64ceb34313b6fc4543f1c3d4ed?v=f3dd1a12
+    sprache: en
+    urheber: VAE-Regierung
+    verifiziert: false
+    notiz: 'Auf u.ae unter „AI resources" verlinkt; in dieser Sitzung nicht geöffnet. Medienspezifische
+      Schwesterpublikation.
+
+      '
+  offene_punkte:
+  - Fassung 2 oder spätere Aktualisierungen nicht geprüft.
+  monitoring_quellen:
+  - https://ai.gov.ae/
+  bezug_regelwerke:
+  - ae-ki-ethik-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: ae-agentic-ai-rahmen
+  jurisdiktion: ae
+  kurztitel: Agentic-AI-Rahmen der VAE (2026)
+  offizieller_titel: 'UAE Government Agentic AI Framework — Rahmenwerk der VAE-Regierung für agentische
+    KI
+
+    '
+  fundstelle: 'Rahmenwerk der Bundesregierung auf Weisung des Präsidenten der VAE; begleitet von einem
+    einheitlichen Gestaltungsleitfaden des National Committee for Agentic AI. Amtlich dargestellt auf
+    dem Regierungsportal u.ae. Eine Kabinettsbeschlussnummer ist dort nicht angegeben.
+
+    '
+  status: softlaw
+  status_detail: 'Regierungsrahmen mit einer harten Zielquote, aber ohne erkennbare Rechtssatzform: Bis
+    2028 sollen 50 % der Sektoren, Dienstleistungen und Abläufe der Bundesverwaltung agentische KI einsetzen.
+    Das ist weltweit eine der wenigen staatlichen Vorgaben, die nicht den Einsatz von KI begrenzt, sondern
+    ihn quotenmäßig VORSCHREIBT — der regulatorische Gegenpol zur KI-VO.
+
+    '
+  kurzbeschreibung: 'Agentische KI soll Verwaltungsleistungen neu gestalten: Das System versteht das Anliegen
+    in natürlicher Sprache, ermittelt die erforderlichen Schritte, greift auf die ihm freigegebenen Informationen
+    zu, holt bei Bedarf die Zustimmung des Bürgers ein, führt die zugelassenen Handlungen aus und verfolgt
+    den Vorgang bis zum Ergebnis. Das National Committee for Agentic AI hat dazu einen einheitlichen Gestaltungsleitfaden
+    herausgegeben. Governance- Vorgaben: verantwortliche, sichere und wirksame Umsetzung sowie Qualifizierung
+    der Beschäftigten. Sanktionen sind nicht ersichtlich.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://u.ae/en/about-the-uae/digital-uae/digital-technology/Agentic-AI-for-Government-Services
+  anwendungsdaten:
+  - datum: 2028-12-31
+    was_gilt: 'Zielquote: 50 % der Sektoren, Dienstleistungen und Abläufe der Bundesverwaltung setzen
+      agentische KI ein.
+
+      '
+    verifiziert: false
+    quelle: https://u.ae/en/about-the-uae/digital-uae/digital-technology/Agentic-AI-for-Government-Services
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Zustimmungsvorbehalt: Der Rahmen sieht vor, dass das System „ask for your approval when needed" —
+    ein prozeduraler Einwilligungs- vorbehalt für autonome Verwaltungshandlungen, dessen Reichweite nicht
+    näher bestimmt ist.
+
+    '
+  - 'Beschränkung auf „authorised tasks" und „available information that it is authorised to access" —
+    die Autorisierungsgrenze ersetzt die Rechtsgrundlagenprüfung.
+
+    '
+  - 'Institutionell: National Committee for Agentic AI mit einem einheitlichen Gestaltungsleitfaden (nur
+    arabisch).
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Agentic AI for Government Services (amtliche Darstellung)
+    url: https://u.ae/en/about-the-uae/digital-uae/digital-technology/Agentic-AI-for-Government-Services
+    sprache: en
+    urheber: VAE-Regierungsportal u.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und gelesen. Nennt die 50-%-Quote bis 2028, den Präsidenten als Auftraggeber
+      und das National Committee for Agentic AI.
+
+      '
+  - datum: null
+    typ: leitlinie
+    titel: الدليل العملي للذكاء الاصطناعي الوكيل — Praktischer Leitfaden für agentische KI
+    url: https://uaemodel.egsep.ae/agentic_ai_guide_website.html
+    sprache: ar
+    urheber: National Committee for Agentic AI
+    verifiziert: false
+    notiz: 'Auf u.ae als arabischsprachiger Leitfaden verlinkt. Der Abruf scheiterte am 06.09.2026 mit
+      HTTP 403.
+
+      '
+  offene_punkte:
+  - 'Beschlussform, Datum und Nummer des Rahmenwerks sind unbekannt. u.ae verweist auf eine Kabinettsmeldung,
+    deren URL auf der Seite nur unvollständig wiedergegeben ist; wam.ae liefert seine Artikel ausschließlich
+    clientseitig und war deshalb nicht lesbar.
+
+    '
+  - 'Ob die 50-%-Quote bis „2028" das Kalenderjahresende meint, ist nicht belegt; das Datum 2028-12-31
+    ist eine Annahme und deshalb `verifiziert: false`.
+
+    '
+  - 'Das Verhältnis zu dem im Breitenscreening behaupteten Kabinettsbeschluss über KI in der exekutiven
+    Entscheidungsfindung (März 2026) ist ungeklärt. Möglicherweise handelt es sich um denselben Vorgang.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/Agentic-AI-for-Government-Services
+  - https://uaecabinet.ae/en
+  bezug_regelwerke:
+  - ae-ki-einfuehrungsrichtlinie
+  - ae-ki-exekutive-2026
+  letzte_pruefung: 2026-09-06
+- id: ae-pdpl-45-2021
+  jurisdiktion: ae
+  kurztitel: Datenschutzgesetz der VAE (Nr. 45/2021)
+  offizieller_titel: 'مرسوم بقانون اتحادي رقم (45) لسنة 2021 في شأن حماية البيانات الشخصية — Marsūm bi-qānūn
+    ittiḥādī raqm (45) li-sanat 2021 fī shaʾn ḥimāyat al-bayānāt al-shakhṣiyya — Bundesdekretgesetz Nr.
+    45 von 2021 über den Schutz personenbezogener Daten
+
+    '
+  fundstelle: 'Erlassen am 20.09.2021, veröffentlicht im Amtsblatt (الجريدة الرسمية) Nr. 712 (Beilage/ملحق)
+    vom 26.09.2021; in Kraft seit 02.01.2022.
+
+    '
+  status: anwendbar
+  status_detail: 'Das Gesetz gilt seit dem 02.01.2022. Seine Durchführungsverordnung (اللائحة التنفيذية
+    / Executive Regulations), die Art. 51 des Gesetzes binnen sechs Monaten vorsah, war am 06.09.2026
+    nach Kenntnisstand dieser Recherche NICHT erlassen. Damit ruht der Sanktionsapparat: Die Bußgeldtatbestände
+    sollen erst mit der Durchführungsverordnung wirksam werden, und die im Gesetz vorgesehenen Übergangsfristen
+    laufen erst ab deren Veröffentlichung. Das ist der zentrale Befund zum VAE-Datenschutz- recht und
+    der Grund, warum das DIFC- und ADGM-Recht in der Praxis wichtiger ist als das Bundesrecht.
+
+    '
+  kurzbeschreibung: 'Horizontal geltendes Datenschutzgesetz nach europäischem Vorbild mit Rechtmäßigkeitsgrundsatz,
+    Einwilligung, Betroffenenrechten (Auskunft, Berichtigung, Löschung, Übertragbarkeit, Widerspruch),
+    Datenschutzbeauftragtem, Meldepflicht bei Verletzungen und Regeln zum Drittlandtransfer. Für KI zentral
+    ist Art. 18: Recht, gegen Entscheidungen aus automatisierter Verarbeitung mit rechtlicher Wirkung
+    oder erheblicher Beeinträchtigung Widerspruch einzulegen, und Pflicht des Verantwortlichen, auf Verlangen
+    ein menschliches Element in die Überprüfung einzuführen. Ausgenommen sind u.a. Regierungsdaten, Gesundheits-
+    und Bankdaten, die eigenen Regimen unterliegen, sowie die Finanzfreizonen.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-02
+    verifiziert: true
+    quelle: https://assets.u.ae/api/public/content/954629a06cc64fd887771ce3273d6154?v=21d88839
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 18 Abs. 1: „يحق لصاحب البيانات الاعتراض على القرارات التي تصدر عن المعالجة المؤتمتة وتكون لها
+    تبعات قانونية أو تؤثر بشكل جسيم عليه" — der Betroffene kann Entscheidungen aus automatisierter Verarbeitung
+    widersprechen, die rechtliche Folgen haben oder ihn erheblich beeinträchtigen. Das ist die VAE-Entsprechung
+    zu Art. 22 DSGVO, aber als Widerspruchsrecht und nicht als grundsätzliches Verbot konstruiert.
+
+    '
+  - 'Art. 18 Abs. 5: „يتعين على المتحكم إدخال العنصر البشري في مراجعة قرارات المعالجة المؤتمتة بناء على
+    طلب صاحب البيانات" — der Verantwortliche MUSS auf Verlangen des Betroffenen ein menschliches Element
+    in die Überprüfung der automatisierten Entscheidung einführen. Der Anspruch entsteht also erst auf
+    Antrag, anders als bei Art. 22 Abs. 3 DSGVO.
+
+    '
+  - 'Bereichsausnahmen: Das Gesetz gilt nicht in DIFC und ADGM und nicht für Regierungsbehörden, die eigene
+    Datenbestände führen — dadurch entsteht die für die VAE typische Aufspaltung des Datenschutzrechts
+    in mindestens drei Regime.
+
+    '
+  dokumente:
+  - datum: 2021-09-20
+    typ: endfassung
+    titel: 'مرسوم بقانون اتحادي رقم (45) لسنة 2021 في شأن حماية البيانات الشخصية (arabischer Volltext)
+
+      '
+    url: https://assets.u.ae/api/public/content/954629a06cc64fd887771ce3273d6154?v=21d88839
+    sprache: ar
+    urheber: Präsident der VAE / Regierungsportal u.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; Art. 18 Abs. 1 und Abs. 5 im arabischen Wortlaut gelesen. Auf u.ae
+      unter „Data protection laws" verlinkt; das Portal weist ausdrücklich darauf hin, dass nur die arabische
+      Fassung vorliegt.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: Personal Data Protection Law — Übersichtsseite des National Program for AI
+    url: https://ai.gov.ae/personal-data-protection-law/
+    sprache: en
+    urheber: National Program for Artificial Intelligence
+    verifiziert: false
+    notiz: 'Von u.ae als amtliche Portalseite verlinkt; der Abruf scheiterte am 06.09.2026 mit HTTP 403.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: Data protection laws (Übersicht des Regierungsportals u.ae)
+    url: https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+    sprache: en
+    urheber: u.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen. Führt die Bundes-, Freizonen- und Emiratsebene des VAE-Datenschutzrechts
+      zusammen und nennt den 02.01.2022 als Inkrafttretensdatum.
+
+      '
+  offene_punkte:
+  - 'Ob die Durchführungsverordnung zwischen Mai 2026 und dem 06.09.2026 erlassen wurde, konnte NICHT
+    geprüft werden: uaelegislation.gov.ae beantwortet jede Suchanfrage mit Query-String mit HTTP 403,
+    und die Rechtsaktkennung des Portals ist nicht systematisch. Das ist der erste Punkt, den der nächste
+    Bearbeiter anfassen sollte.
+
+    '
+  - 'Die Aufsichtsbehörde ist das mit Bundesdekretgesetz Nr. 44/2021 errichtete UAE Data Office; dessen
+    Befugnisse und dessen Verhältnis zu einer etwaigen „Federal Authority for AI and Data" (2026) sind
+    nicht geklärt.
+
+    '
+  - 'Eine amtliche englische Fassung war nicht auffindbar; u.ae verlinkt ausdrücklich nur die arabische.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+  - https://uaelegislation.gov.ae/en/legislations
+  bezug_regelwerke:
+  - ae-datenamt-44-2021
+  - difc-dp-law-5-2020
+  - adgm-dp-regulations-2021
+  letzte_pruefung: 2026-09-06
+- id: ae-datenamt-44-2021
+  jurisdiktion: ae
+  kurztitel: Errichtungsgesetz UAE Data Office (Nr. 44/2021)
+  offizieller_titel: 'مرسوم بقانون اتحادي رقم (44) لسنة 2021 بشأن إنشاء مكتب الإمارات للبيانات — Bundesdekretgesetz
+    Nr. 44 von 2021 über die Errichtung des Datenamts der VAE
+
+    '
+  fundstelle: 'Erlassen im September 2021, veröffentlicht im Amtsblatt Nr. 712 (Beilage) vom 26.09.2021;
+    ergangen zusammen mit dem Datenschutzgesetz Nr. 45/2021.
+
+    '
+  status: anwendbar
+  status_detail: 'Errichtet das UAE Data Office als Bundesbehörde und Aufsichtsstelle für das Datenschutzgesetz
+    Nr. 45/2021. Das Amt ist zugleich für die Vorbereitung der Durchführungsverordnung zuständig, die
+    bis heute aussteht — die Aufsichtsstruktur besteht also, entfaltet aber wenig Wirkung.
+
+    '
+  kurzbeschreibung: 'Aufgaben des Datenamts: Entwurf von Politiken und Rechtsakten zum Datenschutz, Ausarbeitung
+    und Genehmigung von Standardklauseln und Verhaltensregeln, Führung eines Beschwerdeverfahrens, Aufsicht
+    über Verantwortliche und Auftragsverarbeiter, Zusammenarbeit mit ausländischen Aufsichtsbehörden.
+    Eigene Bußgeldbefugnisse ergeben sich erst aus der ausstehenden Durchführungsverordnung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+  themenachsen:
+  - datenschutz
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Das Datenamt ist die einzige Bundesbehörde der VAE mit einer gesetzlichen Zuständigkeit, die KI-Systeme
+    über den Datenschutz mittelbar erfassen kann. Eine KI-Marktüberwachungsbehörde gibt es im Bundesrecht
+    nicht.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Federal Decree Law No. 44 of 2021 (Erwähnung auf u.ae)
+    url: https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+    sprache: en
+    urheber: u.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; u.ae nennt das Gesetz, verlinkt aber keinen Volltext. Der Volltext
+      war in dieser Sitzung nicht auffindbar.
+
+      '
+  offene_punkte:
+  - 'Volltext und Fundstelle im Amtsblatt sind nicht verifiziert; die hier genannte Amtsblattnummer 712
+    ist aus der Parallelität zu den übrigen Dekretgesetzen vom 20.09.2021 erschlossen, NICHT belegt.
+
+    '
+  - 'Ob das Datenamt 2026 in eine „Federal Authority for Artificial Intelligence and Data" überführt wurde,
+    ist ungeklärt.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+  bezug_regelwerke:
+  - ae-pdpl-45-2021
+  - ae-bundesbehoerde-ki-daten
+  letzte_pruefung: 2026-09-06
+- id: ae-cybercrime-34-2021
+  jurisdiktion: ae
+  kurztitel: Cyberkriminalitätsgesetz der VAE (Nr. 34/2021)
+  offizieller_titel: 'مرسوم بقانون اتحادي في شأن مكافحة الشائعات والجرائم الإلكترونية — Federal Decree-Law
+    on Countering Rumours and Cybercrimes — Bundesdekretgesetz über die Bekämpfung von Gerüchten und Cyberkriminalität
+    (Nr. 34 von 2021)
+
+    '
+  fundstelle: 'Erlassen am 20.09.2021; Amtsblatt Nr. 712 (ملحق / Beilage) vom 26.09.2021; in Kraft seit
+    02.01.2022. Portalseite: uaelegislation.gov.ae/en/legislations/1526.
+
+    '
+  status: anwendbar
+  status_detail: 'Geltendes Strafrecht. Dies ist die Norm, an der Deepfake-Fälle in den VAE tatsächlich
+    entschieden werden — nicht ein KI-Gesetz. Das Gesetz kennt den Begriff „Deepfake" nicht, erfasst ihn
+    aber über Art. 44, der die Bearbeitung von Aufnahmen mit informations- technischen Mitteln zum Zweck
+    der Verunglimpfung unter Strafe stellt.
+
+    '
+  kurzbeschreibung: 'Umfassendes Cyberstrafrecht: unbefugter Zugang, Datenmanipulation, Verbreitung von
+    Gerüchten und Falschnachrichten, Verletzung der Privatsphäre, obszöne Inhalte, Betrug mit informationstechnischen
+    Mitteln. Für KI relevant sind Art. 44 (Bearbeitung von Aufnahmen zur Verunglimpfung: Freiheitsstrafe
+    nicht unter einem Jahr und/oder Geldstrafe nicht unter 250 000 AED), Art. 34 (Herstellung, Vorbereitung,
+    Gestaltung, Übermittlung oder Speicherung obszönen Materials über Informationsnetze, Strafschärfung
+    bei Kindern) sowie die Tatbestände über Falschnachrichten.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-02
+    verifiziert: true
+    quelle: https://uaelegislation.gov.ae/en/legislations/1526
+  themenachsen:
+  - content
+  - grundrechte
+  - sicherheit-export
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Art. 44 (Preisgabe von Geheimnissen und Verletzung der Privatsphäre): „whoever uses an IS or ITE
+    to modify or process any record, photo or scene with the intention of defaming or insulting another
+    person shall be punished with imprisonment for at least one year and/or a fine of not less than (AED
+    250,000)". Tatbestands- merkmal ist die Verunglimpfungsabsicht; die technische Herkunft der Bearbeitung
+    (KI oder Bildbearbeitung) ist gleichgültig.
+
+    '
+  - 'Art. 34: Herstellung, Vorbereitung, Gestaltung, Übermittlung oder Speicherung obszönen Materials
+    über Informationsnetze; Freiheitsstrafe und/oder Geldstrafe ab 250 000 AED, erhöht bei Kindesbezug.
+    Erfasst damit auch synthetisch erzeugte Darstellungen.
+
+    '
+  - 'Keine Kennzeichnungspflicht für synthetische Inhalte: Das Gesetz knüpft ausschließlich an die Absicht
+    des Täters an, nicht an die fehlende Kenntlichmachung. Darin unterscheidet es sich von Art. 50 KI-VO
+    und von den chinesischen Kennzeichnungsregeln.
+
+    '
+  dokumente:
+  - datum: 2021-09-20
+    typ: endfassung
+    titel: Federal Decree-Law on Countering Rumours and Cybercrimes (Portalfassung)
+    url: https://uaelegislation.gov.ae/en/legislations/1526
+    sprache: en
+    urheber: Generalsekretariat des VAE-Kabinetts (uaelegislation.gov.ae)
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; Art. 44 und Art. 34 im Wortlaut gelesen. Das Portal weist darauf
+      hin, dass im Auslegungsfall der arabische Originaltext maßgeblich ist.
+
+      '
+  offene_punkte:
+  - 'Ob das Gesetz seit 2024/2025 durch ein Änderungsdekretgesetz um einen ausdrücklichen Deepfake- oder
+    Kennzeichnungstatbestand ergänzt wurde, konnte nicht geprüft werden (Portalsuche 403).
+
+    '
+  - 'Der arabische Wortlaut des Art. 44 wurde nicht gelesen; die Zitate stammen aus der amtlichen englischen
+    Portalfassung.
+
+    '
+  monitoring_quellen:
+  - https://uaelegislation.gov.ae/en/legislations/1526
+  bezug_regelwerke:
+  - ae-deepfake-leitfaden
+  - ae-strafgesetz-31-2021
+  - ae-medien-dekret
+  letzte_pruefung: 2026-09-06
+- id: ae-strafgesetz-31-2021
+  jurisdiktion: ae
+  kurztitel: Strafgesetzbuch der VAE (Nr. 31/2021)
+  offizieller_titel: 'مرسوم بقانون اتحادي بإصدار قانون الجرائم والعقوبات — Federal Decree-Law Promulgating
+    the Crimes and Penalties Law — Bundesdekretgesetz zum Erlass des Gesetzes über Straftaten und Strafen
+    (Nr. 31 von 2021)
+
+    '
+  fundstelle: 'Erlassen am 20.09.2021; Amtsblatt Nr. 712 (ملحق) vom 26.09.2021; in Kraft seit 02.01.2022;
+    letzte Aktualisierung der Portalfassung 01.10.2025. Portalseite: uaelegislation.gov.ae/en/legislations/1529.
+
+    '
+  status: anwendbar
+  status_detail: 'Allgemeines Strafgesetzbuch. Es enthält keine KI-spezifische Norm, liefert aber die
+    Auffangtatbestände für KI-gestützte Täuschung (Betrug, Urkundenfälschung, Beleidigung, Verleumdung),
+    auf die zurückgegriffen wird, soweit das Cyberkriminalitätsgesetz nicht greift.
+
+    '
+  kurzbeschreibung: 'Kodifiziert das materielle Strafrecht der VAE. Für KI einschlägig sind die Tatbestände
+    über Betrug und Vermögensschädigung durch Täuschung, über Fälschung von Urkunden und Aufzeichnungen
+    sowie über Ehrverletzungsdelikte. Das Portal weist ausdrücklich darauf hin, dass im Auslegungsfall
+    der arabische Text maßgeblich ist.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-02
+    verifiziert: true
+    quelle: https://uaelegislation.gov.ae/en/legislations/1529
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Auffangfunktion gegenüber dem Cyberkriminalitätsgesetz: Wo eine KI-gestützte Täuschung nicht über
+    ein Informationsnetz begangen wird, greift das allgemeine Betrugs- und Fälschungsstrafrecht.
+
+    '
+  dokumente:
+  - datum: 2021-09-20
+    typ: endfassung
+    titel: Federal Decree-Law Promulgating the Crimes and Penalties Law
+    url: https://uaelegislation.gov.ae/en/legislations/1529
+    sprache: en
+    urheber: uaelegislation.gov.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; Datum, Inkrafttreten und Amtsblatt- angabe gelesen. Der Artikeltext
+      wurde nicht im Einzelnen ausgewertet.
+
+      '
+  offene_punkte:
+  - 'Welche konkreten Artikel bei KI-gestützter Täuschung angewandt werden, ist nicht am Text geprüft.
+    Der nächste Bearbeiter sollte die Betrugs- und Fälschungsartikel identifizieren und als eigene `normen`-Einträge
+    aufnehmen.
+
+    '
+  monitoring_quellen:
+  - https://uaelegislation.gov.ae/en/legislations/1529
+  bezug_regelwerke:
+  - ae-cybercrime-34-2021
+  letzte_pruefung: 2026-09-06
+- id: ae-urheberrecht-38-2021
+  jurisdiktion: ae
+  kurztitel: Urheberrechtsgesetz der VAE (Nr. 38/2021)
+  offizieller_titel: 'مرسوم بقانون اتحادي في شأن حقوق المؤلف والحقوق المجاورة — Federal Decree-Law on
+    Copyright and Neighbouring Rights — Bundesdekretgesetz über das Urheberrecht und die verwandten Schutzrechte
+    (Nr. 38 von 2021)
+
+    '
+  fundstelle: 'In Kraft seit 02.01.2022; ersetzt das Bundesgesetz Nr. 7 von 2002. Portalseite: uaelegislation.gov.ae/en/legislations/1534.
+
+    '
+  status: anwendbar
+  status_detail: 'Geltendes Urheberrecht. Es enthält KEINE Text- und Data-Mining- Schranke und keine Regelung
+    zu KI-erzeugten Werken. Der Schutz setzt nach der Systematik des Gesetzes einen menschlichen Urheber
+    voraus; eine ausdrückliche Aussage dazu enthält der Text nicht. Damit ist die urheberrechtliche Behandlung
+    von Trainingsdaten und KI-Erzeugnissen in den VAE ungeregelt.
+
+    '
+  kurzbeschreibung: 'Schutzgegenstände sind u.a. Bücher, Broschüren, Aufsätze, Musikwerke, audiovisuelle
+    Werke, Werke der Baukunst und Computerprogramme; geschützt sind daneben ausübende Künstler, Tonträgerhersteller
+    und Sendeunternehmen. Urheberpersönlichkeits- rechte sind unübertragbar. Schutzdauer: Urheber Leben
+    plus 50 Jahre; ausübende Künstler 50 Jahre ab der Darbietung; Tonträgerhersteller 50 Jahre; Sendeunternehmen
+    20 Jahre. Schranken für privaten Gebrauch, Unterricht, Bibliotheksarchivierung und Kritik bei Quellenangabe,
+    mit Einschränkungen für Software, bildende Kunst und Baukunst. Sanktionen: 10 000 bis 1 000 000 AED,
+    in schweren Fällen Freiheitsstrafe; zivilrechtlich Einstellung der Verwertung, Beschlagnahme und Erlösabschöpfung.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-02
+    verifiziert: true
+    quelle: https://uaelegislation.gov.ae/en/legislations/1534
+  themenachsen:
+  - urheberrecht
+  - content
+  - haftung
+  regelungsschwerpunkte:
+  - 'KEINE TDM-Schranke: Anders als Art. 4 DSM-RL, Art. 30-4 des japanischen Urheberrechtsgesetzes oder
+    Art. 23 des kasachischen KI-Gesetzes kennt das VAE-Recht keine Regelung des Text- und Data-Mining.
+    Trainingsnutzungen sind daher am allgemeinen Vervielfältigungsrecht und an den engen Schranken zu
+    messen.
+
+    '
+  - 'Die Schranke für privaten Gebrauch ist für Software, bildende Kunst und Baukunst ausdrücklich eingeschränkt
+    — was eine Analogie zugunsten des Trainings zusätzlich erschwert.
+
+    '
+  - 'Verwertungsgesellschaften: Rechteinhaber können ihre Rechte Berufsverbänden zur Wahrnehmung übertragen;
+    diese unterliegen der Aufsicht des Wirtschaftsministeriums und einem Diskriminierungsverbot.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: Federal Decree-Law on Copyright and Neighbouring Rights (Portalfassung)
+    url: https://uaelegislation.gov.ae/en/legislations/1534
+    sprache: en
+    urheber: uaelegislation.gov.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und inhaltlich ausgewertet (Schutzgegenstände, Schutzfristen, Schranken,
+      Sanktionen). Das Erlassdatum wird auf der Portalseite nicht angezeigt, nur das Inkrafttreten (02.01.2022)
+      und die Ersetzung des Gesetzes Nr. 7/2002.
+
+      '
+  offene_punkte:
+  - 'Das Erlassdatum (voraussichtlich 20.09.2021, wie bei den übrigen Dekretgesetzen desselben Pakets)
+    und die Amtsblattfundstelle sind NICHT belegt.
+
+    '
+  - 'Die Durchführungsverordnung zum Urheberrechtsgesetz (Kabinettsbeschluss) wurde nicht geprüft.
+
+    '
+  - 'Ob die Rechtsprechung der VAE eine Aussage zur Urheberschaft an KI-Erzeugnissen getroffen hat, konnte
+    nicht ermittelt werden; Urteilsdatenbanken der Bundesgerichte sind nicht öffentlich volltextrecherchierbar.
+
+    '
+  monitoring_quellen:
+  - https://uaelegislation.gov.ae/en/legislations/1534
+  bezug_regelwerke:
+  - ae-marken-36-2021
+  - difc-ip-law-4-2019
+  letzte_pruefung: 2026-09-06
+- id: ae-marken-36-2021
+  jurisdiktion: ae
+  kurztitel: Markengesetz der VAE (Nr. 36/2021)
+  offizieller_titel: 'مرسوم بقانون اتحادي رقم (36) لسنة 2021 في شأن العلامات التجارية — Federal Decree
+    by Law No. (36) of 2021 Concerning Trademarks — Bundesdekretgesetz Nr. 36 von 2021 über Marken
+
+    '
+  fundstelle: 'Erlassen am 20.09.2021; Amtsblatt Nr. 712 (Beilage); in Kraft seit 02.01.2022. Portalseite:
+    uaelegislation.gov.ae/en/legislations/1535.
+
+    '
+  status: anwendbar
+  status_detail: 'Allgemeines Markenrecht. Für KI relevant als Anspruchsgrundlage gegen die Nutzung fremder
+    Marken in KI-Erzeugnissen und in Trainingsdaten sowie als Grundlage der Stimm- und Bildrechte prominenter
+    Personen, soweit diese als Marke geschützt sind.
+
+    '
+  kurzbeschreibung: 'Regelt Eintragung, Schutz und Durchsetzung von Marken in den VAE. KI-spezifische
+    Regelungen enthält es nicht; es ist hier erfasst, weil Persönlichkeits- und Kennzeichenrechte in den
+    VAE mangels eines allgemeinen Rechts am eigenen Bild häufig über das Markenrecht durchgesetzt werden.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-02
+    verifiziert: true
+    quelle: https://uaelegislation.gov.ae/en/legislations/1535
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  - content
+  regelungsschwerpunkte:
+  - Kein KI-Bezug im Text; Bedeutung ergibt sich aus der Anwendung.
+  dokumente:
+  - datum: 2021-09-20
+    typ: endfassung
+    titel: Federal Decree by Law No. (36) of 2021 Concerning Trademarks
+    url: https://uaelegislation.gov.ae/en/legislations/1535
+    sprache: en
+    urheber: uaelegislation.gov.ae
+    verifiziert: true
+    notiz: Am 06.09.2026 abgerufen; Datum, Inkrafttreten und Amtsblattnummer gelesen.
+  offene_punkte:
+  - Artikeltext nicht ausgewertet.
+  monitoring_quellen:
+  - https://uaelegislation.gov.ae/en/legislations/1535
+  bezug_regelwerke:
+  - ae-urheberrecht-38-2021
+  letzte_pruefung: 2026-09-06
+- id: ae-etrust-46-2021
+  jurisdiktion: ae
+  kurztitel: Gesetz über elektronische Transaktionen und Vertrauensdienste (Nr. 46/2021)
+  offizieller_titel: 'مرسوم بقانون اتحادي رقم (46) لسنة 2021 في شأن المعاملات الإلكترونية وخدمات الثقة
+    — Federal Decree by Law No. 46 of 2021 on Electronic Transactions and Trust Services — Bundesdekretgesetz
+    Nr. 46 von 2021 über elektronische Transaktionen und Vertrauensdienste
+
+    '
+  fundstelle: 'Erlassen am 20.09.2021; Amtsblatt Nr. 712 (ملحق 1); in Kraft seit 02.01.2022; Portalfassung
+    zuletzt aktualisiert am 30.12.2024. Portalseite: uaelegislation.gov.ae/en/legislations/1539.
+
+    '
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Es ist die zentrale vertragsrechtliche Norm für automatisierte Willenserklärungen:
+    Die VAE haben — anders als die meisten Rechtsordnungen — die Wirksamkeit von Verträgen, die durch
+    „automated electronic agents" geschlossen werden, ausdrücklich normiert. Damit ist die vertragsrechtliche
+    Behandlung KI-gestützter Agenten in den VAE ausdrücklich geregelt und nicht nur Auslegungsfrage.
+
+    '
+  kurzbeschreibung: 'Regelt Wirksamkeit und Beweiswert elektronischer Dokumente und Signaturen, führt
+    Vertrauensdienste ein und unterstellt deren Anbieter der Zulassung durch die Telecommunications and
+    Digital Government Regulatory Authority (TDRA); für den Regierungssektor ist die Federal Authority
+    for Identity, Citizenship, Customs and Port Security (ICP) zuständig. Zugelassene Anbieter erhalten
+    ein Vertrauenszeichen („trust mark"). Ziel ist die Stärkung des Rechtsvertrauens im elektronischen
+    Geschäftsverkehr.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-02
+    verifiziert: true
+    quelle: https://uaelegislation.gov.ae/en/legislations/1539
+  themenachsen:
+  - vertrag
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - 'Aufsicht: TDRA für den Privatsektor, ICP für den Regierungssektor — eine geteilte Zuständigkeit,
+    die bei KI-Agenten in Verwaltungsverfahren praktisch bedeutsam wird.
+
+    '
+  - 'Vertrauenszeichen als marktordnendes Instrument statt Verbot.
+
+    '
+  dokumente:
+  - datum: 2021-09-20
+    typ: endfassung
+    titel: Federal Decree by Law on Electronic Transactions and Trust Services
+    url: https://uaelegislation.gov.ae/en/legislations/1539
+    sprache: en
+    urheber: uaelegislation.gov.ae
+    verifiziert: true
+    notiz: Am 06.09.2026 abgerufen; Datum, Inkrafttreten, Amtsblattbeilage gelesen.
+  - datum: null
+    typ: uebersicht
+    titel: Electronic Transactions and Trust Services Law (Übersicht u.ae)
+    url: https://u.ae/en/about-the-uae/digital-uae/regulatory-framework/electronic-transactions-and-trust-services-law
+    sprache: en
+    urheber: u.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; nennt Nummer 46/2021, TDRA und ICP als Aufsichtsstellen und das Vertrauenszeichen.
+      Stand der Seite: 30.12.2024.
+
+      '
+  offene_punkte:
+  - 'Der Artikel über „automated electronic agents" wurde NICHT im Wortlaut gelesen; die Aussage im `status_detail`
+    beruht auf der Systematik des Gesetzes und ist am arabischen Text zu prüfen.
+
+    '
+  monitoring_quellen:
+  - https://uaelegislation.gov.ae/en/legislations/1539
+  bezug_regelwerke:
+  - ae-agentic-ai-rahmen
+  letzte_pruefung: 2026-09-06
+- id: ae-verbraucherschutz-15-2020
+  jurisdiktion: ae
+  kurztitel: Verbraucherschutzgesetz der VAE (Nr. 15/2020)
+  offizieller_titel: 'قانون اتحادي رقم (15) لسنة 2020 في شأن حماية المستهلك — Federal Law No. 15 of 2020
+    on Consumer Protection — Bundesgesetz Nr. 15 von 2020 über den Verbraucherschutz
+
+    '
+  fundstelle: 'Portalseite: uaelegislation.gov.ae/en/legislations/1455.'
+  status: anwendbar
+  status_detail: 'Allgemeines Verbraucherschutzrecht. Es ist die Norm, an der irreführende KI-gestützte
+    Werbung, dynamische Preisgestaltung und Chatbot-Zusagen gegenüber Verbrauchern zu messen sind. Von
+    u.ae ausdrücklich in die Liste der datenschutzrelevanten Gesetze aufgenommen, weil es Regelungen zum
+    Umgang mit Verbraucherdaten enthält.
+
+    '
+  kurzbeschreibung: 'Schützt Verbraucher gegen irreführende Angaben, mangelhafte Waren und unlautere Geschäftspraktiken;
+    enthält Vorgaben zum Umgang mit Verbraucherdaten. Zuständig ist das Wirtschaftsministerium.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://uaelegislation.gov.ae/en/legislations/1455
+  themenachsen:
+  - vertrag
+  - datenschutz
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Vom Regierungsportal u.ae ausdrücklich als Bestandteil des Datenschutzrahmens der VAE geführt — die
+    verbraucherrechtliche Datenschutzspur läuft in den VAE also parallel zum PDPL.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: Federal Law No. 15 of 2020 on Consumer Protection
+    url: https://uaelegislation.gov.ae/en/legislations/1455
+    sprache: en
+    urheber: uaelegislation.gov.ae
+    verifiziert: false
+    notiz: 'Die Portalkennung 1455 stammt aus der amtlichen Verlinkung auf u.ae („Data protection laws"),
+      die am 06.09.2026 gelesen wurde; die Portalseite selbst wurde nicht geöffnet.
+
+      '
+  offene_punkte:
+  - Erlassdatum, Inkrafttreten und Artikelinhalte nicht geprüft.
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+  bezug_regelwerke:
+  - ae-pdpl-45-2021
+  letzte_pruefung: 2026-09-06
+- id: ae-gesundheits-ict-2-2019
+  jurisdiktion: ae
+  kurztitel: Gesetz über IKT im Gesundheitswesen (Nr. 2/2019)
+  offizieller_titel: 'قانون اتحادي رقم (2) لسنة 2019 في شأن استخدام تقنية المعلومات والاتصالات في مجالات
+    الصحة — Federal Law No. 2 of 2019 Concerning the Use of Information and Communication Technology in
+    Health Fields — Bundesgesetz Nr. 2 von 2019 über den Einsatz von Informations- und Kommunikationstechnik
+    im Gesundheitswesen
+
+    '
+  fundstelle: 'Portalseite: uaelegislation.gov.ae/en/legislations/1209.'
+  status: anwendbar
+  status_detail: 'Sektorales Gesundheitsdatenrecht. Es ist für KI im Gesundheitswesen die vorrangige Norm:
+    Gesundheitsdaten sind aus dem Anwendungsbereich des allgemeinen Datenschutzgesetzes Nr. 45/2021 ausgenommen
+    und unterliegen diesem Gesetz. Es enthält ein grundsätzliches Verbot der Speicherung und Verarbeitung
+    von VAE-Gesundheitsdaten im Ausland (Datenlokalisierung), von dem die Gesundheitsbehörde Ausnahmen
+    zulassen kann.
+
+    '
+  kurzbeschreibung: 'Regelt den Einsatz von IKT im Gesundheitswesen, die Errichtung eines zentralen Gesundheitsdatensystems
+    beim Gesundheitsministerium und die Vertraulichkeit von Gesundheitsdaten. Es ist die Norm, an der
+    KI-gestützte Diagnostik, Telemedizin und Gesundheits-Apps in den VAE gemessen werden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://uaelegislation.gov.ae/en/legislations/1209
+  themenachsen:
+  - sektor-medizin
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Datenlokalisierung für Gesundheitsdaten — die schärfste Datenlokalisierungsnorm des VAE-Rechts und
+    praktisch die größte Hürde für den Einsatz cloudbasierter medizinischer KI.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: Federal Law No. 2 of 2019 on the Use of ICT in Health Fields
+    url: https://uaelegislation.gov.ae/en/legislations/1209
+    sprache: en
+    urheber: uaelegislation.gov.ae
+    verifiziert: false
+    notiz: 'Portalkennung 1209 aus der amtlichen Verlinkung auf u.ae („Data protection laws") vom 06.09.2026;
+      Portalseite nicht geöffnet.
+
+      '
+  offene_punkte:
+  - 'Die Datenlokalisierungsnorm (Art. 13 nach verbreiteter Zählung) wurde nicht am Text geprüft.
+
+    '
+  - 'Der Kabinettsbeschluss Nr. 32 von 2020 über die Durchführungsbestimmungen wurde nicht geprüft.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+  bezug_regelwerke:
+  - ae-pdpl-45-2021
+  letzte_pruefung: 2026-09-06
+- id: ae-ki-wahlen-2026
+  jurisdiktion: ae
+  kurztitel: Regelung des KI-Einsatzes im Wahlverfahren (2026)
+  offizieller_titel: 'Nicht belegt. Nach dem Breitenscreening ein Beschluss des Ministerrats (مجلس الوزراء
+    / UAE Cabinet) über den Einsatz künstlicher Intelligenz im Wahlverfahren, März 2026.
+
+    '
+  fundstelle: 'NICHT BELEGT. Das Breitenscreening (96_weltscreening.yaml) stützt sich allein auf den Global
+    Legal Monitor der Library of Congress vom 25.03.2026; diese Seite antwortete am 06.09.2026 mit HTTP
+    403. Eine Beschlussnummer ist dort nach dem Screening nicht genannt.
+
+    '
+  verfahrensnummer: null
+  status: verabschiedet
+  status_detail: 'UNVERIFIZIERT. Die Existenz dieses Beschlusses ließ sich an keiner amtlichen Quelle
+    nachweisen: uaelegislation.gov.ae beantwortet jede Suchanfrage mit Query-String mit HTTP 403, u.ae
+    führt keine Wahlrechtsseite zu KI, wam.ae liefert seine Artikel nur clientseitig und ist deshalb nicht
+    lesbar, loc.gov antwortet 403. Der Eintrag ist als HINWEIS für den nächsten Bearbeiter aufgenommen,
+    nicht als belegter Befund.
+
+    '
+  kurzbeschreibung: 'Nach dem (ungeprüften) Screeningbefund soll der Ministerrat im März 2026 verbindliche
+    Regelungen über den Einsatz künstlicher Intelligenz im Wahlprozess erlassen haben. Die VAE wählen
+    den Bundesrat (المجلس الوطني الاتحادي / Federal National Council) teilweise über ein Wahlkollegium;
+    zuständig ist die Nationale Wahlkommission. Inhalt, Adressaten und Sanktionen sind unbekannt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - content
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Falls der Befund zutrifft, wären die VAE eine der ersten Rechtsordnungen, die den KI-Einsatz im Wahlverfahren
+    nicht über ein Deepfake-Verbot, sondern über eine positive Verfahrensregel erfassen.
+
+    '
+  dokumente:
+  - datum: 2026-03-25
+    typ: bericht
+    titel: '„United Arab Emirates: Government Adopts Measures Regulating AI in Elections and Executive
+      Decision-Making" (Global Legal Monitor)
+
+      '
+    url: https://www.loc.gov/item/global-legal-monitor/2026-03-25/united-arab-emirates-government-adopts-measures-regulating-ai-in-elections-and-executive-decision-making/
+    sprache: en
+    urheber: Library of Congress, Global Legal Monitor
+    verifiziert: false
+    notiz: 'Am 06.09.2026 zweimal abgerufen, beide Male HTTP 403. Dies ist eine SEKUNDÄRQUELLE; sie ersetzt
+      den amtlichen Text nicht.
+
+      '
+  sekundaerquelle_url: https://www.loc.gov/item/global-legal-monitor/2026-03-25/united-arab-emirates-government-adopts-measures-regulating-ai-in-elections-and-executive-decision-making/
+  offene_punkte:
+  - 'Beschlussnummer, Datum, Wortlaut und Amtsblattfundstelle sind vollständig unbekannt. ZUERST ANFASSEN:
+    uaelegislation.gov.ae nach Kabinettsbeschlüssen des Jahres 2026 durchsuchen (das Portal ist über /en/legislations/<numerische
+    ID> ohne Query-String erreichbar) und die Amtsblätter des Jahres 2026 durchgehen.
+
+    '
+  - 'Prüfen, ob es sich um einen Beschluss der Nationalen Wahlkommission (اللجنة الوطنية للانتخابات) und
+    nicht des Ministerrats handelt.
+
+    '
+  monitoring_quellen:
+  - https://uaelegislation.gov.ae/en/legislations
+  - https://uaecabinet.ae/en
+  bezug_regelwerke:
+  - ae-ki-exekutive-2026
+  - ae-cybercrime-34-2021
+  letzte_pruefung: 2026-09-06
+- id: ae-ki-exekutive-2026
+  jurisdiktion: ae
+  kurztitel: Regelung des KI-Einsatzes in der exekutiven Entscheidungsfindung (2026)
+  offizieller_titel: 'Nicht belegt. Nach dem Breitenscreening ein Beschluss des Ministerrats über den
+    Einsatz künstlicher Intelligenz in der Entscheidungsvorbereitung der Exekutive, März 2026.
+
+    '
+  fundstelle: NICHT BELEGT — wie bei ae-ki-wahlen-2026.
+  status: verabschiedet
+  status_detail: 'UNVERIFIZIERT. Möglicherweise identisch mit oder Vorläufer des Agentic-AI-Rahmens (ae-agentic-ai-rahmen),
+    der auf u.ae belegt ist und den KI-Einsatz in Verwaltungsverfahren mit einer Zielquote von 50 % bis
+    2028 vorgibt. Ob es daneben einen eigenständigen Beschluss über KI in der Willensbildung der Exekutive
+    gibt, war nicht feststellbar.
+
+    '
+  kurzbeschreibung: 'Nach dem Screeningbefund soll die Regierung im März 2026 verbindliche Regelungen
+    über den Einsatz von KI in der Entscheidungsvorbereitung der Exekutive erlassen haben. Das wäre ein
+    Regelungsgegenstand, den bislang keine der in dieser Datenbasis erfassten Rechtsordnungen normiert
+    hat — der staatliche Eigengebrauch von KI ist etwa in der KI-VO weitgehend ausgespart.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Falls zutreffend: Zugriff auf KI in der Willensbildung der Exekutive — der methodische Gegenpol zur
+    EU, die den Markt und nicht den Staat reguliert.
+
+    '
+  dokumente:
+  - datum: 2026-03-25
+    typ: bericht
+    titel: Global Legal Monitor, 25.03.2026 (siehe ae-ki-wahlen-2026)
+    url: https://www.loc.gov/item/global-legal-monitor/2026-03-25/united-arab-emirates-government-adopts-measures-regulating-ai-in-elections-and-executive-decision-making/
+    sprache: en
+    urheber: Library of Congress
+    verifiziert: false
+    notiz: Abruf am 06.09.2026 mit HTTP 403 gescheitert. Sekundärquelle.
+  sekundaerquelle_url: https://www.loc.gov/item/global-legal-monitor/2026-03-25/united-arab-emirates-government-adopts-measures-regulating-ai-in-elections-and-executive-decision-making/
+  offene_punkte:
+  - 'Vollständig unbelegt. Zu klären ist zuerst, ob dieser Beschluss und der auf u.ae belegte Agentic-AI-Rahmen
+    derselbe Vorgang sind.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/Agentic-AI-for-Government-Services
+  - https://uaelegislation.gov.ae/en/legislations
+  bezug_regelwerke:
+  - ae-agentic-ai-rahmen
+  - ae-ki-wahlen-2026
+  letzte_pruefung: 2026-09-06
+- id: ae-bundesbehoerde-ki-daten
+  jurisdiktion: ae
+  kurztitel: Bundesbehörde für KI und Daten (2026)
+  offizieller_titel: 'Nicht belegt. Nach dem Breitenscreening eine „Federal Authority for Artificial Intelligence
+    and Data", errichtet im Juni 2026.
+
+    '
+  fundstelle: NICHT BELEGT.
+  status: verabschiedet
+  status_detail: 'UNVERIFIZIERT. Das Breitenscreening nennt für Juni 2026 die Errichtung einer Bundesbehörde
+    für KI und Daten mit Zuständigkeit für Normsetzungsvorbereitung und Compliance-Aufsicht über Bundesstellen;
+    als Beleg dient dort ein Kanzleimonitor. Die amtlichen Portale u.ae und ai.gov.ae erwähnen eine solche
+    Behörde am 06.09.2026 nicht; ai.gov.ae führt weiterhin den KI- und Blockchain-Rat als zuständiges
+    Gremium. Falls die Behörde besteht, wäre zu klären, ob sie das mit Bundesdekretgesetz Nr. 44/2021
+    errichtete UAE Data Office aufnimmt oder neben ihm steht.
+
+    '
+  kurzbeschreibung: 'Angeblich eine Bundesbehörde mit Zuständigkeit für die Vorbereitung von KI- und Datenrecht
+    sowie für die Aufsicht über die Einhaltung durch Bundesstellen. Umfang, Befugnisse und Rechtsgrundlage
+    sind unbekannt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Falls zutreffend, wäre dies die erste KI-Aufsichtsbehörde der VAE. Bislang gibt es nur den KI- und
+    Blockchain-Rat (beratend) und das Datenamt (datenschutzrechtlich).
+
+    '
+  dokumente: []
+  offene_punkte:
+  - 'Existenz, Name, Rechtsgrundlage und Befugnisse sind unbelegt. ZUERST ANFASSEN: uaelegislation.gov.ae
+    nach Bundesdekretgesetzen und Kabinettsbeschlüssen des Jahres 2026 durchsuchen und ai.gov.ae sowie
+    u.ae auf eine neue Behördenseite prüfen.
+
+    '
+  - 'Widerspruch: Das Screening behauptet die Errichtung im Juni 2026; die amtlichen Seiten kennen sie
+    am 06.09.2026 nicht. Beide Angaben stehen unaufgelöst nebeneinander.
+
+    '
+  monitoring_quellen:
+  - https://ai.gov.ae/
+  - https://u.ae/en/about-the-uae/digital-uae
+  bezug_regelwerke:
+  - ae-datenamt-44-2021
+  - ae-ki-rat
+  letzte_pruefung: 2026-09-06
+- id: ae-ki-charta-2024
+  jurisdiktion: ae
+  kurztitel: KI-Charta der VAE (2024)
+  offizieller_titel: 'UAE Charter for the Development and Use of Artificial Intelligence / ميثاق الإمارات
+    لتطوير واستخدام الذكاء الاصطناعي — Charta der VAE für die Entwicklung und Nutzung künstlicher Intelligenz
+
+    '
+  fundstelle: 'NICHT BELEGT. Auf u.ae und ai.gov.ae war die Charta am 06.09.2026 nicht auffindbar; die
+    Linkliste der amtlichen KI-Seite von u.ae (vollständig ausgelesen) enthält sie nicht.
+
+    '
+  status: softlaw
+  status_detail: 'UNVERIFIZIERT. Nach dem Auftragstext eine 2024 verkündete Charta mit zwölf Grundsätzen
+    für Entwicklung und Nutzung von KI. Sie wird in der Sekundärliteratur regelmäßig zitiert, war aber
+    an keiner amtlichen Quelle nachweisbar. Möglich ist, dass sie nur als Pressemitteilung des Kabinetts
+    und nicht als eigenständiges Dokument veröffentlicht wurde.
+
+    '
+  kurzbeschreibung: 'Nach der Sekundärliteratur zwölf Grundsätze (u.a. menschliche Aufsicht, Sicherheit,
+    Datenschutz, Transparenz, Fairness, Rechenschaft, gesellschaftlicher Nutzen, technologische Führung).
+    Sie hätte den Charakter einer politischen Selbstverpflichtung ohne Rechtsfolgen und stünde neben den
+    KI-Ethik-Leitlinien von 2022.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - Nicht am Text geprüft.
+  dokumente: []
+  offene_punkte:
+  - 'Existenz und Wortlaut sind unbelegt. Auf u.ae ist unter „AI resources" KEINE Charta verlinkt; dort
+    stehen nur KI-Ethik-Leitfaden, Deepfake-Leitfaden, KI-Einführungsrichtlinie, Reifegradwerkzeug, Metaverse-Rahmen
+    und die Generative-KI-Leitfäden.
+
+    '
+  - 'ZUERST ANFASSEN: uaecabinet.ae und die Pressemitteilungen des Kabinetts aus dem Jahr 2024 durchsuchen.
+
+    '
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence/ai-resources
+  - https://ai.gov.ae/
+  bezug_regelwerke:
+  - ae-ki-ethik-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: dubai-ki-ethik
+  jurisdiktion: ae
+  subjurisdiktion: ae-du
+  kurztitel: Dubaier KI-Ethikgrundsätze und -Leitlinien
+  offizieller_titel: 'Dubai AI Principles and Ethics Guidelines (ursprünglich: Smart Dubai — AI Ethics
+    Principles & Guidelines) — Grundsätze und Leitlinien zur KI-Ethik des Emirats Dubai
+
+    '
+  fundstelle: 'Initiative der Dubai Digital Authority (Digital Dubai, vormals Smart Dubai). Amtliche Initiativenseite:
+    digitaldubai.ae/initiatives/ai-principles-ethics — am 06.09.2026 ABGERUFEN, liefert aber eine 404-Fehlerseite,
+    obwohl die Initiativenübersicht digitaldubai.ae/initiatives den Link weiter führt.
+
+    '
+  status: softlaw
+  status_detail: 'Freiwilliger Ethikrahmen des Emirats Dubai, erstmals 2019 von Smart Dubai veröffentlicht;
+    er umfasste vier Grundsätze (ethisch, transparent, verantwortlich, verständlich) mit einer Reihe von
+    Leitlinien und einem Selbstbewertungswerkzeug für Entwickler. der Text konnte NICHT abgerufen werden:
+    die verlinkte Seite ist tot.
+
+    '
+  kurzbeschreibung: 'Vier Grundsätze nebst Leitlinien für Entwickler, Betreiber und Beschaffungsstellen;
+    ergänzt durch ein Selbstbewertungswerkzeug („AI Ethics Self-Assessment Tool"). Adressaten sind Behörden
+    des Emirats und Unternehmen, die für sie arbeiten; Sanktionen sind nicht vorgesehen, die Bindung erfolgt
+    über die Vergabe.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.digitaldubai.ae/initiatives/ai-principles-ethics
+  themenachsen:
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Dubai war 2019 die erste Verwaltungseinheit des Nahen Ostens mit einem veröffentlichten KI-Ethikrahmen
+    — zeitlich vor dem Bundesrahmen von 2022.
+
+    '
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: AI Principles & Ethics (Initiativenseite Digital Dubai)
+    url: https://www.digitaldubai.ae/initiatives/ai-principles-ethics
+    sprache: en
+    urheber: Dubai Digital Authority
+    verifiziert: false
+    notiz: 'Am 06.09.2026 abgerufen: HTTP 200, aber inhaltlich eine 404-Seite. Der Link steht gleichwohl
+      auf der amtlichen Initiativenübersicht digitaldubai.ae/initiatives, die am 06.09.2026 gelesen wurde.
+
+      '
+  offene_punkte:
+  - 'Der Volltext der Grundsätze und des Selbstbewertungswerkzeugs war nicht auffindbar. Die alte Domain
+    smartdubai.ae wurde nicht geprüft.
+
+    '
+  - 'Ob die Grundsätze durch das AI Integration Matrix Framework (28.04.2026) abgelöst worden sind, ist
+    offen.
+
+    '
+  monitoring_quellen:
+  - https://www.digitaldubai.ae/initiatives
+  - https://www.digitaldubai.ae/knowledge-hub/references
+  bezug_regelwerke:
+  - dubai-ai-matrix-2026
+  - ae-ki-ethik-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: dubai-ai-matrix-2026
+  jurisdiktion: ae
+  subjurisdiktion: ae-du
+  kurztitel: AI Integration Matrix Framework (Dubai, 2026)
+  offizieller_titel: 'The AI Integration Matrix Framework for Government Organizations — Rahmenwerk zur
+    KI-Integrationsmatrix für Regierungsorganisationen
+
+    '
+  fundstelle: 'Herausgegeben von der Dubai Digital Authority (هيئة دبي الرقمية), veröffentlicht am 28.04.2026
+    im Publikationsbereich von digitaldubai.ae.
+
+    '
+  status: softlaw
+  status_detail: 'Aktuellstes KI-Regelwerk des Emirats Dubai. Es richtet sich an Regierungsorganisationen
+    und beschreibt eine Matrix zur Einordnung und Steuerung von KI-Integrationsvorhaben. Bindungswirkung
+    ist auf der Publikationsseite nicht angegeben; als Dokument der Dubai Digital Authority wirkt es über
+    die Steuerung der Digitalisierungsvorhaben des Emirats.
+
+    '
+  kurzbeschreibung: 'Rahmenwerk für die Integration von KI in Organisationen der Dubaier Verwaltung. Der
+    Volltext (PDF, ca. 122 MB) war wegen seiner Größe nicht auswertbar; erfasst sind Titel, Urheber, Datum
+    und Fundstelle.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-28
+    verifiziert: true
+    quelle: https://www.digitaldubai.ae/knowledge-hub/publications/ai-integration-matrix-framework-for-government-organizations
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Inhalt nicht ausgewertet — siehe offene_punkte.
+  dokumente:
+  - datum: 2026-04-28
+    typ: leitlinie
+    titel: The AI Integration Matrix Framework (PDF)
+    url: https://www.digitaldubai.ae/docs/default-source/publications/the-ai-integration-matrix-framework-1.pdf?sfvrsn=820a85b0_2
+    sprache: en
+    urheber: Dubai Digital Authority
+    verifiziert: true
+    notiz: 'Die Publikationsseite wurde am 06.09.2026 abgerufen; sie nennt Datum, Urheber und die PDF-Adresse
+      mit Größenangabe („THE AI INTEGRATION MATRIX FRAMEWORK 121.9mb"). Das PDF selbst wurde wegen seiner
+      Größe nicht geladen.
+
+      '
+  - datum: 2026-04-28
+    typ: uebersicht
+    titel: Publikationsseite des Rahmenwerks
+    url: https://www.digitaldubai.ae/knowledge-hub/publications/ai-integration-matrix-framework-for-government-organizations
+    sprache: en
+    urheber: Dubai Digital Authority
+    verifiziert: true
+    notiz: Am 06.09.2026 abgerufen.
+  offene_punkte:
+  - 'Der Inhalt ist ungeprüft. Der nächste Bearbeiter sollte das PDF lokal laden und auswerten; es ist
+    mit rund 122 MB das umfangreichste KI-Dokument einer arabischen Verwaltungseinheit, das in dieser
+    Recherche aufgetaucht ist.
+
+    '
+  - Verhältnis zu den Dubaier KI-Ethikgrundsätzen von 2019 ungeklärt.
+  monitoring_quellen:
+  - https://www.digitaldubai.ae/knowledge-hub/publications
+  bezug_regelwerke:
+  - dubai-ki-ethik
+  - ae-ki-einfuehrungsrichtlinie
+  letzte_pruefung: 2026-09-06
+- id: dubai-datengesetz-26-2015
+  jurisdiktion: ae
+  subjurisdiktion: ae-du
+  kurztitel: Dubaier Datengesetz (Nr. 26/2015)
+  offizieller_titel: 'قانون رقم (26) لسنة 2015 بشأن تنظيم نشر وتبادل البيانات في إمارة دبي — Law No. (26)
+    of 2015 Regulating Data Dissemination and Exchange in the Emirate of Dubai — Gesetz Nr. 26 von 2015
+    über die Regelung der Veröffentlichung und des Austauschs von Daten im Emirat Dubai
+
+    '
+  fundstelle: 'Gesetz des Herrschers von Dubai; amtliche Fassung im Rechtsvorschriftenportal der Regierung
+    von Dubai (dlp.dubai.gov.ae).
+
+    '
+  status: anwendbar
+  status_detail: 'Emiratsrecht Dubais. Es begründet die Pflicht öffentlicher und bestimmter privater Stellen,
+    Daten zu klassifizieren, offene Daten bereitzustellen und geteilte Daten zu schützen. Für KI ist es
+    die Grundlage der Datenbereitstellung an Dubaier Verwaltungs-KI und zugleich die Grenze ihrer Weitergabe.
+
+    '
+  kurzbeschreibung: 'Unterscheidet offene und geteilte Daten, verpflichtet Datenanbieter zur Klassifizierung
+    und regelt Zugang, Nutzung und Weitergabe. Verstöße werden durch den Dubai Data Establishment (heute
+    Teil der Dubai Digital Authority) verfolgt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://dlp.dubai.gov.ae/Legislation%20Reference/2015/Law%20No.%20(26)%20of%202015.pdf
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Klassifizierungspflicht als Vorbedingung jeder Datennutzung — der Dubaier Ansatz stellt die Datenordnung
+    vor die KI-Ordnung.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: Law No. (26) of 2015 (PDF des Dubaier Rechtsportals)
+    url: https://dlp.dubai.gov.ae/Legislation%20Reference/2015/Law%20No.%20(26)%20of%202015.pdf
+    sprache: en
+    urheber: Regierung von Dubai, Legal Affairs Department
+    verifiziert: false
+    notiz: 'Die URL stammt aus der amtlichen Verlinkung auf u.ae („Data protection laws"), die am 06.09.2026
+      gelesen wurde; das PDF selbst wurde nicht geöffnet.
+
+      '
+  offene_punkte:
+  - Volltext und Inkrafttreten nicht geprüft.
+  monitoring_quellen:
+  - https://dlp.dubai.gov.ae/
+  bezug_regelwerke:
+  - ae-pdpl-45-2021
+  - dubai-ai-matrix-2026
+  letzte_pruefung: 2026-09-06
+- id: difc-dp-law-5-2020
+  jurisdiktion: ae
+  subjurisdiktion: ae-difc
+  kurztitel: DIFC-Datenschutzgesetz (DIFC Law No. 5 of 2020)
+  offizieller_titel: 'Data Protection Law, DIFC Law No. 5 of 2020 — Datenschutzgesetz, DIFC-Gesetz Nr.
+    5 von 2020
+
+    '
+  fundstelle: 'Gesetz des Herrschers von Dubai für das DIFC; amtliche Rechtsdatenbank difc.ae/business/laws-and-regulations/legal-database
+    (Rubrik „DIFC Laws"). Es ersetzt das DIFC-Datenschutzgesetz Nr. 1 von 2007.
+
+    '
+  status: anwendbar
+  status_detail: 'FREIZONENRECHT. Es gilt ausschließlich im DIFC und verdrängt dort das Bundesdatenschutzgesetz
+    Nr. 45/2021, das die Finanzfreizonen ausdrücklich ausnimmt. Nach der amtlichen Darstellung des DIFC
+    verkörpert es „international best practice and is consistent with EU and UK data protection regulations"
+    — es ist also bewusst als DSGVO-Äquivalent gebaut, mit eigener Aufsicht (Commissioner of Data Protection)
+    und eigenem Gerichtszug (DIFC Courts).
+
+    '
+  kurzbeschreibung: 'Vollständiges Datenschutzgesetz mit Rechtmäßigkeitsgrundsätzen, Betroffenenrechten,
+    Datenschutzbeauftragtem, Meldepflichten, Drittlandtransfer über Angemessenheitsliste (Art. 26) und
+    Standardvertragsklauseln (Art. 27 Abs. 2 Buchst. c) sowie einer besonderen Vorschrift über die Weitergabe
+    an staatliche Stellen (Art. 28 Government Data Sharing). Definiert personenbezogene Daten als „any
+    information relating to a living individual, that specifically identifies him or her" und erfasst
+    ausdrücklich biometrische Daten, Fotografien und IP-Adressen. Besondere Kategorien: u.a. ethnische
+    Herkunft, Religion, politische oder weltanschauliche Überzeugungen. Sanktionen setzt der Commissioner
+    fest; die Regulations bestimmen Bußgeldrahmen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.difc.ae/business/operating/data-protection
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 10 der DIFC Data Protection Regulations („Processing of Personal Data through Autonomous and
+    Semi-Autonomous Systems") ist die international meistzitierte KI-Norm der VAE — siehe das eigene Regelwerk
+    difc-dp-regulations.
+
+    '
+  - 'Art. 26: Angemessenheitsliste des Commissioner (List of Adequate Data Protection Regimes) — ein eigener,
+    vom EU-Angemessenheits- beschluss unabhängiger Mechanismus.
+
+    '
+  - 'Art. 28: Government Data Sharing — eine ausdrückliche Vorschrift über die Weitergabe personenbezogener
+    Daten an Behörden mit Prüfpflicht des Verantwortlichen. Das ist in dieser Schärfe im europäischen
+    Recht ohne Entsprechung und wird für KI-gestützte Sicherheitsanalysen praktisch.
+
+    '
+  - 'Fotografien und biometrische Daten sind ausdrücklich als personenbezogene Daten benannt — Grundlage
+    für die Beurteilung von Gesichtserkennung im DIFC.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Data Protection (amtliche Übersichtsseite des DIFC)
+    url: https://www.difc.ae/business/operating/data-protection
+    sprache: en
+    urheber: DIFC Authority / Commissioner of Data Protection
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und gelesen. Nennt das DP Law 2020 und die DIFC Data Protection Regulations
+      2020 sowie die Artikel 26, 27 Abs. 2 Buchst. c und 28. Die Seite selbst enthält keine Angabe zum
+      Inkrafttreten; spätere Abrufe derselben Domain wurden mit HTTP 403 abgewiesen.
+
+      '
+  - datum: null
+    typ: konsolidiert
+    titel: Data Protection Law, DIFC Law No. 5 of 2020 (Rechtsdatenbank)
+    url: https://www.difc.ae/business/laws-and-regulations/legal-database/difc-laws/data-protection-law-difc-law-no-5-2020
+    sprache: en
+    urheber: DIFC Authority
+    verifiziert: false
+    notiz: 'Die Rubrikseite difc.ae/business/laws-and-regulations/legal-database wurde am 06.09.2026 abgerufen
+      und führt die Rubrik „DIFC Laws"; die hier angegebene Einzeldokument-URL folgt dem Muster der Datenbank,
+      wurde aber in vier Abrufversuchen jeweils mit HTTP 403 abgewiesen. Sie ist deshalb NICHT verifiziert.
+
+      '
+  offene_punkte:
+  - 'Inkrafttreten (nach verbreiteter Angabe 01.07.2020 mit Übergangsfrist bis 01.10.2020) ist NICHT am
+    amtlichen Text belegt.
+
+    '
+  - 'Art. 22 des DP Law 2020 (Recht bei ausschließlich automatisierter Entscheidungsfindung) wurde nicht
+    im Wortlaut gelesen; die Übersichtsseite nennt ihn nicht.
+
+    '
+  - 'difc.ae wehrt wiederholte Abrufe mit HTTP 403 ab. Der nächste Bearbeiter sollte einzeln und mit Abstand
+    abrufen.
+
+    '
+  monitoring_quellen:
+  - https://www.difc.ae/business/laws-and-regulations/legal-database
+  - https://www.difc.ae/business/operating/data-protection
+  bezug_regelwerke:
+  - difc-dp-regulations
+  - ae-pdpl-45-2021
+  - adgm-dp-regulations-2021
+  letzte_pruefung: 2026-09-06
+- id: difc-dp-regulations
+  jurisdiktion: ae
+  subjurisdiktion: ae-difc
+  kurztitel: DIFC-Datenschutzverordnung, insbesondere Regulation 10
+  offizieller_titel: 'DIFC Data Protection Regulations (2020), einschließlich Regulation 10 — Processing
+    of Personal Data through Autonomous and Semi-Autonomous Systems — Verarbeitung personenbezogener Daten
+    durch autonome und teilautonome Systeme
+
+    '
+  fundstelle: 'Verordnung des DIFC Board of Directors zum DIFC Law No. 5 of 2020; Rubrik „DIFC Regulations"
+    der amtlichen Rechtsdatenbank difc.ae/business/laws-and-regulations/legal-database. Regulation 10
+    wurde durch eine Änderung von 2023 eingefügt.
+
+    '
+  status: anwendbar
+  status_detail: 'FREIZONENRECHT und international die meistzitierte KI-Regelung der VAE. Regulation 10
+    verpflichtet Verantwortliche und Auftragsverarbeiter, die personenbezogene Daten durch autonome oder
+    teilautonome Systeme verarbeiten, zu Transparenz, Rechenschaft und Risikobewertung; sie ist damit
+    eine der weltweit ersten KI-spezifischen Normen innerhalb eines Datenschutzgesetzes. Der Text konnte
+    NICHT abgerufen werden (difc.ae antwortet auf Einzeldokumente mit HTTP 403); der Eintrag beruht auf
+    der amtlichen Rubrikstruktur und ist im Übrigen unverifiziert.
+
+    '
+  kurzbeschreibung: 'Die Regulations konkretisieren Verfahren und Pflichten des DP Law 2020 (Meldungen
+    an den Commissioner, Bußgelder und Sanktionen, internationale Datentransfers). Regulation 10 ergänzt
+    dies um ein eigenes Regime für autonome und teilautonome Systeme: Offenlegung des Einsatzes, Angabe
+    von Zweck und Logik, Bewertung der Auswirkungen auf Betroffene sowie besondere Anforderungen, wenn
+    das System Entscheidungen mit erheblicher Wirkung trifft.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Regulation 10 ist der Anknüpfungspunkt, an dem das DIFC KI reguliert, ohne ein KI-Gesetz zu erlassen:
+    Der Hebel ist das Datenschutzrecht, nicht das Produktsicherheitsrecht. Das ist der methodische Gegenentwurf
+    zur KI-VO.
+
+    '
+  - 'Die Norm erfasst „autonomous and semi-autonomous systems" und nicht „KI" — eine Begriffswahl, die
+    technologieneutral bleibt und die Definitionsprobleme des Art. 3 Nr. 1 KI-VO vermeidet.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: DIFC Data Protection Regulations (Rubrik DIFC Regulations)
+    url: https://www.difc.ae/business/laws-and-regulations/legal-database
+    sprache: en
+    urheber: DIFC Authority
+    verifiziert: false
+    notiz: 'Die Rubrikseite wurde am 06.09.2026 abgerufen und listet „DIFC Regulations" als eigene Kategorie;
+      die Einzeldokumente waren nicht erreichbar (HTTP 403).
+
+      '
+  offene_punkte:
+  - 'WICHTIGSTER OFFENER PUNKT DIESER DATEI FÜR DIE VAE: Der Wortlaut von Regulation 10, sein Erlassdatum,
+    sein Inkrafttreten und die Änderungsverordnung von 2023 sind NICHT belegt. Ohne diesen Text lässt
+    sich die international geführte Diskussion über die DIFC-Regelung nicht überprüfen.
+
+    '
+  - 'Ebenfalls zu prüfen: die Änderungen der Regulations nach dem DIFC-Konsultationspapier zur Datenschutznovelle
+    2025.
+
+    '
+  monitoring_quellen:
+  - https://www.difc.ae/business/laws-and-regulations/legal-database
+  - https://www.difc.ae/business/operating/data-protection
+  bezug_regelwerke:
+  - difc-dp-law-5-2020
+  - ae-pdpl-45-2021
+  letzte_pruefung: 2026-09-06
+- id: difc-pgn-2-2023
+  jurisdiktion: ae
+  subjurisdiktion: ae-difc
+  kurztitel: DIFC-Courts-Leitlinie zu LLM und generativer KI (PGN 2/2023)
+  offizieller_titel: 'Practical Guidance Note No. 2 of 2023: Guidelines on the use of large language models
+    and generative AI in proceedings before the DIFC Courts — Praxisleitlinie Nr. 2 von 2023: Leitlinien
+    für die Verwendung großer Sprachmodelle und generativer KI in Verfahren vor den DIFC-Gerichten
+
+    '
+  fundstelle: 'DIFC Courts, Practice Directions; difccourts.ae/rules-decisions/practice-directions. Erlassen
+    und in Kraft am 21.12.2023. Zitierweise nach dem Text selbst: „PGN 2/2023".
+
+    '
+  status: anwendbar
+  status_detail: 'Geltende Verfahrensleitlinie der DIFC-Gerichte. Sie ist die ausführlichste berufs- und
+    verfahrensrechtliche KI-Regelung des arabischen Raums und einer der frühesten Gerichtserlasse dieser
+    Art weltweit (drei Wochen nach den englischen „AI Guidance for Judicial Office Holders" vom Dezember
+    2023). Sie richtet sich an die Parteien, nicht an die Richter.
+
+    '
+  kurzbeschreibung: 'Regelt die Verwendung großer Sprachmodelle (LLM) und generativer Inhaltserzeuger
+    („Generative Content Generators", GCG) durch Verfahrensbeteiligte. Vier Grundsätze — Transparenz,
+    Richtigkeit und Verlässlichkeit, berufsrechtliche und gesetzliche Pflichten, Vermeidung übermäßigen
+    Vertrauens — und fünf Best Practices: Überprüfung an unabhängigen Quellen, frühzeitige Offenlegung
+    der KI-Nutzung, Auswahl geeigneter Systeme, Aufklärung und Einwilligung des Mandanten sowie Wahrung
+    der Vertraulichkeit. Sanktionsanker: Rule 29.10 (Zurückweisung KI-erzeugter Inhalte) und Rule 29.137
+    (Ungehorsamsverfahren wegen falscher Wahrheitsversicherung).
+
+    '
+  inkrafttreten:
+    datum: 2023-12-21
+    verifiziert: true
+    quelle: https://www.difccourts.ae/rules-decisions/practice-directions/practical-guidance-note-no-2-2023-guidelines-use-large-language-models-and-generative-ai-proceedings-difc-courts
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Ziff. 2 (Citation): „This Practical Guidance Note will come into effect from 21 December 2023. It
+    may be cited as Practical Guidance Note No. 2 of 2023 Guidelines on the use of AI in Court proceedings
+    and may be abbreviated as PGN 2/2023."
+
+    '
+  - 'Grundsatz 2 (Accuracy and Reliability): „The Courts have the power to reject any content generated
+    through AI-systems under Rule 29.10." — eine ausdrückliche Zurückweisungsbefugnis, die in den meisten
+    Gerichtsleitlinien anderer Rechtsordnungen fehlt. WICHTIG: Rule 29.10 der Rules of the DIFC Courts
+    lautet nach dem am 06.09.2026 gelesenen Wortlaut lediglich „The Court may use its power under Rule
+    29.9 to exclude evidence that would otherwise be admissible." Die KI-bezogene Zurückweisungsbefugnis
+    ist also nicht normiert, sondern von den DIFC Courts aus der allgemeinen Beweisausschlussbefugnis
+    abgeleitet worden. Das ist für die Streitstände zur Halluzination und zum Umgang der Gerichte mit
+    KI-Erzeugnissen der eigentlich interessante Punkt.
+
+    '
+  - 'Zeugenaussagen: Rule 29.24 verlangt, dass eine Zeugenaussage „must, if practicable, be in the intended
+    witness''s own words". Eine von einem Generator erzeugte Zeugenaussage MUSS vor der Wahrheitsversicherung
+    so geändert werden, dass sie die Stimme des Zeugen wiedergibt. Das ist die schärfste Aussage einer
+    Gerichtsleitlinie zur KI-gestützten Zeugenaussage, die in dieser Datenbasis erfasst ist.
+
+    '
+  - 'Rule 29.137: Wegen einer ohne ehrliche Überzeugung abgegebenen Wahrheitsversicherung kann ein Ungehorsamsverfahren
+    („contempt of court") eingeleitet werden — die Sanktionsbrücke zwischen Halluzination und Prozessrecht.
+
+    '
+  - 'Offenlegungszeitpunkt: Die KI-Nutzung ist „at the earliest opportunity" anzuzeigen, spätestens bis
+    zur Case Management Conference; „Parties should not wait until shortly before trial or the trial itself
+    to declare that they intend to use AI-generated content."
+
+    '
+  - 'Systemauswahl: Es sollen spezialisierte juristische Generatoren und nicht frei zugängliche Konversationswerkzeuge
+    verwendet werden; die Partei muss Grenzen, Trainingsdaten, Algorithmen und mögliche Verzerrungen kennen.
+
+    '
+  - 'Mandantenaufklärung und Einwilligung vor dem Einsatz; Wahrung der Vertraulichkeit und Prüfung der
+    Vereinbarkeit mit dem Datenschutzgesetz 2020 und dem DIFC-Immaterialgüterrechtsgesetz von 2019.
+
+    '
+  dokumente:
+  - datum: 2023-12-21
+    typ: leitlinie
+    titel: Practical Guidance Note No. 2 of 2023 (Volltext)
+    url: https://www.difccourts.ae/rules-decisions/practice-directions/practical-guidance-note-no-2-2023-guidelines-use-large-language-models-and-generative-ai-proceedings-difc-courts
+    sprache: en
+    urheber: DIFC Courts
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und im Volltext gelesen; sämtliche wörtlichen Zitate dieses Eintrags
+      stammen aus diesem Abruf.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: DIFC Courts — Practice Directions (Verzeichnis)
+    url: https://www.difccourts.ae/rules-decisions/practice-directions
+    sprache: en
+    urheber: DIFC Courts
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; die Leitlinie steht dort als einziger KI-Erlass zwischen PGN 1/2023
+      und PD 2/2023.
+
+      '
+  offene_punkte:
+  - 'Ob die DIFC Courts seit 2023 eine Folgeleitlinie oder eine Richterleitlinie erlassen haben, ist nach
+    dem Verzeichnisstand vom 06.09.2026 zu verneinen: Das Verzeichnis endet mit PD 1/2026 (Vertagung von
+    Terminen) und enthält keinen weiteren KI-Erlass.
+
+    '
+  - 'Eine Entscheidung, die PGN 2/2023 anwendet, war über die Volltextsuche der DIFC Courts nicht auffindbar;
+    die Suche (difccourts.ae/search) indexiert offenbar keine Urteilstexte (Abfragen zu „artificial intelligence",
+    „artificial", „ChatGPT" und „generative" ergaben je null Treffer).
+
+    '
+  monitoring_quellen:
+  - https://www.difccourts.ae/rules-decisions/practice-directions
+  bezug_regelwerke:
+  - difc-dp-law-5-2020
+  - difc-ip-law-4-2019
+  - difc-digital-economy-court
+  letzte_pruefung: 2026-09-06
+- id: difc-ip-law-4-2019
+  jurisdiktion: ae
+  subjurisdiktion: ae-difc
+  kurztitel: DIFC-Immaterialgüterrechtsgesetz (DIFC Law No. 4 of 2019)
+  offizieller_titel: 'Intellectual Property Law, DIFC Law No. 4 of 2019 — Immaterialgüterrechtsgesetz,
+    DIFC-Gesetz Nr. 4 von 2019
+
+    '
+  fundstelle: 'Rubrik „DIFC Laws" der amtlichen Rechtsdatenbank difc.ae/business/laws-and-regulations/legal-database.
+
+    '
+  status: anwendbar
+  status_detail: 'FREIZONENRECHT. Es begründet im DIFC ein eigenes Immaterialgüterrechtsregime neben dem
+    Bundesrecht und wird in der KI-Leitlinie der DIFC Courts (PGN 2/2023) ausdrücklich als eine der Rechtsgrundlagen
+    genannt, deren Einhaltung Verfahrensbeteiligte bei der Verwendung generativer Systeme sicherstellen
+    müssen.
+
+    '
+  kurzbeschreibung: 'Regelt Urheberrecht, Marken, Patente und Geschäftsgeheimnisse im DIFC sowie deren
+    Durchsetzung vor den DIFC Courts und durch den Commissioner of Intellectual Property. KI-spezifische
+    Vorschriften enthält es nicht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.difccourts.ae/rules-decisions/practice-directions/practical-guidance-note-no-2-2023-guidelines-use-large-language-models-and-generative-ai-proceedings-difc-courts
+  themenachsen:
+  - urheberrecht
+  - haftung
+  - berufsrecht
+  regelungsschwerpunkte:
+  - 'Bedeutung für KI ergibt sich mittelbar aus PGN 2/2023: Wer generative Systeme im Verfahren einsetzt,
+    muss deren Vereinbarkeit mit diesem Gesetz vor der Eingabe von Mandanteninformationen prüfen.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: Intellectual Property Law, DIFC Law No. 4 of 2019
+    url: https://www.difc.ae/business/laws-and-regulations/legal-database
+    sprache: en
+    urheber: DIFC Authority
+    verifiziert: false
+    notiz: 'Die Existenz und die Bezeichnung des Gesetzes sind durch die wörtliche Nennung in PGN 2/2023
+      belegt (am 06.09.2026 gelesen); der Gesetzestext selbst war nicht abrufbar.
+
+      '
+  offene_punkte:
+  - Volltext, Erlassdatum und Inkrafttreten nicht geprüft.
+  monitoring_quellen:
+  - https://www.difc.ae/business/laws-and-regulations/legal-database
+  bezug_regelwerke:
+  - difc-pgn-2-2023
+  - ae-urheberrecht-38-2021
+  letzte_pruefung: 2026-09-06
+- id: difc-digital-economy-court
+  jurisdiktion: ae
+  subjurisdiktion: ae-difc
+  kurztitel: Digital Economy Court der DIFC Courts
+  offizieller_titel: 'Digital Economy Court (DEC) of the DIFC Courts — Gericht für die digitale Wirtschaft
+    der DIFC-Gerichte
+
+    '
+  fundstelle: 'Spruchkörper der DIFC Courts; Entscheidungsverzeichnis unter difccourts.ae/rules-decisions/judgments-orders/digital-economy-court.
+    Verfahrensrechtliche Grundlage u.a. Practice Direction Nr. 1 von 2022 über die in einer DEC-Sache
+    in der Case Management Conference zu behandelnden Fragen.
+
+    '
+  status: anwendbar
+  status_detail: 'Eigener Spruchkörper für Streitigkeiten der digitalen Wirtschaft (Aktenzeichen „DEC").
+    Er ist der einzige spezialisierte Technologiespruchkörper der Region und damit der wahrscheinliche
+    Ort künftiger KI-Rechtsprechung in den VAE. Bis zum 06.09.2026 ist im amtlichen Verzeichnis keine
+    Entscheidung mit KI-Bezug veröffentlicht; die vier dort geführten Entscheidungen betreffen Kryptowährungs-
+    und Bankensachverhalte.
+
+    '
+  kurzbeschreibung: 'Zuständig für Streitigkeiten mit Bezug zu digitalen Technologien (u.a. Blockchain,
+    Kryptowerte, Fintech, KI). Verfahrenssprache ist Englisch; die Entscheidungen werden im Volltext veröffentlicht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.difccourts.ae/rules-decisions/judgments-orders/digital-economy-court
+  themenachsen:
+  - governance
+  - haftung
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Practice Direction Nr. 1 von 2022 („Matters to be considered at Case Management Conference in a DEC
+    Claim", 09.12.2022) — Verfahrensregelung für DEC-Sachen.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Digital Economy Court — Entscheidungsverzeichnis
+    url: https://www.difccourts.ae/rules-decisions/judgments-orders/digital-economy-court
+    sprache: en
+    urheber: DIFC Courts
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; vier veröffentlichte Entscheidungen, keine mit KI-Bezug.
+
+      '
+  - datum: 2022-12-09
+    typ: leitlinie
+    titel: 'Practice Direction No. 1 of 2022: Matters to be considered at Case Management Conference in
+      a DEC Claim
+
+      '
+    url: https://www.difccourts.ae/rules-decisions/practice-directions/practice-direction-nox-2022-matters-be-considered-case-management-conference-dec-claim
+    sprache: en
+    urheber: DIFC Courts
+    verifiziert: true
+    notiz: Am 06.09.2026 im Verzeichnis der Practice Directions gelesen.
+  offene_punkte:
+  - 'Errichtungsdatum und Errichtungsakt des DEC wurden nicht ermittelt.
+
+    '
+  monitoring_quellen:
+  - https://www.difccourts.ae/rules-decisions/judgments-orders/digital-economy-court
+  bezug_regelwerke:
+  - difc-pgn-2-2023
+  letzte_pruefung: 2026-09-06
+- id: adgm-dp-regulations-2021
+  jurisdiktion: ae
+  subjurisdiktion: ae-adgm
+  kurztitel: ADGM-Datenschutzverordnung 2021
+  offizieller_titel: 'Data Protection Regulations 2021 (Abu Dhabi Global Market) — Datenschutzverordnung
+    2021 des Abu Dhabi Global Market
+
+    '
+  fundstelle: 'Verordnung des ADGM Board of Directors; sie ersetzt die Data Protection Regulations 2015.
+    Vorbereitet durch das Konsultations- papier Nr. 6 von 2020 („New Data Protection Regulatory Framework",
+    Konsultation geschlossen am 19.12.2020), geändert nach dem Konsultationspapier Nr. 6 von 2025 („Substantial
+    Public Interest Rules", geschlossen am 02.07.2025).
+
+    '
+  status: anwendbar
+  status_detail: 'FREIZONENRECHT. Zweites, vom DIFC unabhängiges DSGVO-Äquivalent in den VAE, mit eigener
+    Aufsicht (ADGM Office of Data Protection). Anders als das DIFC hat das ADGM KEINE KI-spezifische Norm
+    in sein Datenschutzrecht aufgenommen; das ist der wesentliche Unterschied zwischen beiden Freizonen
+    und ein Argument gegen die Annahme, die Freizonen zögen einheitlich nach.
+
+    '
+  kurzbeschreibung: 'Vollständiges Datenschutzregime für das ADGM: Rechtmäßigkeit, besondere Datenkategorien,
+    Betroffenenrechte, Datenschutz- beauftragter, Meldepflichten, Drittlandtransfer, Sanktionen. Die Änderung
+    von 2025 fügt weitere Tatbestände des „substantial public interest" als Rechtsgrundlage für die Verarbeitung
+    besonderer Datenkategorien ein.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.adgm.com/legal-framework/public-consultations
+  anwendungsdaten:
+  - datum: 2025-07-02
+    was_gilt: 'Ende der Konsultation zum Konsultationspapier Nr. 6 von 2025 über zusätzliche Verarbeitungsgrundlagen
+      aus überwiegendem öffentlichem Interesse.
+
+      '
+    verifiziert: true
+    quelle: https://www.adgm.com/legal-framework/public-consultations
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Kein Gegenstück zu Regulation 10 des DIFC: Das ADGM regelt autonome Systeme datenschutzrechtlich
+    nicht gesondert.
+
+    '
+  - 'Konsultationspapier Nr. 6 von 2020 hat die Ablösung der Verordnung von 2015 vorbereitet; die Konsultation
+    lief bis zum 19.12.2020.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsultation
+    titel: 'Consultation Paper No. 6 of 2020 — New Data Protection Regulatory Framework (Konsultation
+      geschlossen 19.12.2020)
+
+      '
+    url: https://www.adgm.com/legal-framework/public-consultations
+    sprache: en
+    urheber: ADGM
+    verifiziert: true
+    notiz: 'Am 06.09.2026 im amtlichen Konsultationsverzeichnis gelesen; beschreibt ausdrücklich den Ersatz
+      der Data Protection Regulations 2015.
+
+      '
+  - datum: 2025-07-02
+    typ: konsultation
+    titel: 'Consultation Paper No. 6 of 2025 — Substantial Public Interest Rules (Änderung der Data Protection
+      Regulations 2021)
+
+      '
+    url: https://www.adgm.com/legal-framework/public-consultations
+    sprache: en
+    urheber: ADGM Registration Authority
+    verifiziert: true
+    notiz: 'Am 06.09.2026 gelesen; belegt zugleich, dass die Data Protection Regulations 2021 in Kraft
+      sind.
+
+      '
+  offene_punkte:
+  - 'Der Verordnungstext selbst war nicht abrufbar: adgm.com leitet unbekannte Dokumentpfade auf das Document
+    Repository um, dessen Suche nur Cyber-Sicherheitswarnungen zurückgab. Der Volltext liegt im ADGM-Rulebook
+    (en.adgm.thomsonreuters.com), das durch robots.txt für den Abruf gesperrt ist.
+
+    '
+  - Erlassdatum und Inkrafttreten nicht belegt.
+  monitoring_quellen:
+  - https://www.adgm.com/legal-framework/public-consultations
+  - https://www.adgm.com/operating-in-adgm/office-of-data-protection
+  bezug_regelwerke:
+  - difc-dp-regulations
+  - ae-pdpl-45-2021
+  letzte_pruefung: 2026-09-06
+- id: adgm-enabling-technologies-2021
+  jurisdiktion: ae
+  subjurisdiktion: ae-adgm
+  kurztitel: ADGM-Leitlinien für Finanzinstitute zu neuen Technologien (2021)
+  offizieller_titel: 'Guidelines for Financial Institutions adopting Enabling Technologies — Leitlinien
+    für Finanzinstitute, die Ermöglichungstechnologien einsetzen
+
+    '
+  fundstelle: 'Financial Services Regulatory Authority (FSRA) des ADGM, veröffentlicht am 14.11.2021;
+    geführt im amtlichen Verzeichnis adgm.com/legal-framework/guidance-and-policy-statements.
+
+    '
+  status: softlaw
+  status_detail: 'Aufsichtsleitlinie der FSRA. Sie ist die einzige KI-nahe Aufsichtsäußerung des ADGM:
+    Sie behandelt den Einsatz von KI und maschinellem Lernen, APIs, Cloud und verteilten Registern durch
+    beaufsichtigte Finanzinstitute und formuliert Erwartungen an Governance, Modellrisiko, Erklärbarkeit,
+    Datenqualität und Auslagerung. Leitlinien der FSRA sind formal unverbindlich, werden aber in Aufsichtsverfahren
+    als Maßstab herangezogen.
+
+    '
+  kurzbeschreibung: 'Erwartungen der Aufsicht an Finanzinstitute, die KI, maschinelles Lernen, Cloud-Dienste,
+    APIs und Distributed-Ledger-Technologie einsetzen: Verantwortung der Geschäftsleitung, Risikobewertung
+    vor Einführung, Modellvalidierung, Nachvollziehbarkeit von Entscheidungen, Umgang mit Verzerrungen
+    und Auslagerungs- anforderungen.
+
+    '
+  inkrafttreten:
+    datum: 2021-11-14
+    verifiziert: true
+    quelle: https://www.adgm.com/legal-framework/guidance-and-policy-statements
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Die Leitlinie ist eine der frühesten sektoralen KI-Aufsichts- äußerungen des Golfraums (14.11.2021)
+    und liegt zeitlich vor dem KI-Ethikrahmen des VAE-Bundes (Dezember 2022).
+
+    '
+  dokumente:
+  - datum: 2021-11-14
+    typ: leitlinie
+    titel: Guidelines for Financial Institutions adopting Enabling Technologies
+    url: https://www.adgm.com/legal-framework/guidance-and-policy-statements
+    sprache: en
+    urheber: ADGM Financial Services Regulatory Authority
+    verifiziert: true
+    notiz: 'Am 06.09.2026 im amtlichen Verzeichnis mit Titel und Datum gelesen; die Einzeldokument-URL
+      gibt das Verzeichnis nicht preis, das PDF wurde nicht geöffnet.
+
+      '
+  offene_punkte:
+  - Volltext nicht ausgewertet; direkte Dokument-URL unbekannt.
+  monitoring_quellen:
+  - https://www.adgm.com/legal-framework/guidance-and-policy-statements
+  bezug_regelwerke:
+  - adgm-it-risk-2024
+  letzte_pruefung: 2026-09-06
+- id: adgm-it-risk-2024
+  jurisdiktion: ae
+  subjurisdiktion: ae-adgm
+  kurztitel: ADGM-Leitlinie zum IT-Risikomanagement (2024)
+  offizieller_titel: 'Information Technology Risk Management Guidance — Leitlinie zum Management von Informationstechnologierisiken
+
+    '
+  fundstelle: 'FSRA des ADGM, veröffentlicht am 20.11.2024; geführt im amtlichen Verzeichnis adgm.com/legal-framework/guidance-and-policy-statements.
+
+    '
+  status: softlaw
+  status_detail: 'Jüngste technologiebezogene Aufsichtsleitlinie des ADGM. Sie tritt neben die Leitlinie
+    von 2021 und dürfte die dortigen Anforderungen an Modell- und Systemrisiken fortschreiben; der Inhalt
+    wurde nicht ausgewertet.
+
+    '
+  kurzbeschreibung: 'Erwartungen der FSRA an das IT-Risikomanagement beaufsichtigter Unternehmen. Der
+    Bezug zu KI ergibt sich aus dem Gegenstand (Modell-, System- und Auslagerungsrisiken) und ist am Text
+    zu prüfen.
+
+    '
+  inkrafttreten:
+    datum: 2024-11-20
+    verifiziert: true
+    quelle: https://www.adgm.com/legal-framework/guidance-and-policy-statements
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - Inhalt nicht ausgewertet.
+  dokumente:
+  - datum: 2024-11-20
+    typ: leitlinie
+    titel: Information Technology Risk Management Guidance
+    url: https://www.adgm.com/legal-framework/guidance-and-policy-statements
+    sprache: en
+    urheber: ADGM Financial Services Regulatory Authority
+    verifiziert: true
+    notiz: Am 06.09.2026 im amtlichen Verzeichnis mit Titel und Datum gelesen.
+  offene_punkte:
+  - Volltext nicht ausgewertet; enthält möglicherweise ausdrückliche KI-Vorgaben.
+  monitoring_quellen:
+  - https://www.adgm.com/legal-framework/guidance-and-policy-statements
+  bezug_regelwerke:
+  - adgm-enabling-technologies-2021
+  letzte_pruefung: 2026-09-06
+- id: sa-pdpl
+  jurisdiktion: sa
+  kurztitel: Saudisches Datenschutzgesetz (PDPL)
+  offizieller_titel: 'نظام حماية البيانات الشخصية — Niẓām ḥimāyat al-bayānāt al-shakhṣiyya — Gesetz über
+    den Schutz personenbezogener Daten
+
+    '
+  fundstelle: 'Königliches Dekret Nr. م/19 (M/19); geändert durch Königliches Dekret Nr. م/148 (M/148).
+    Veröffentlicht im Amtsblatt „أم القرى" (Umm al-Qurā). Amtliche Textausgabe: laws.boe.gov.sa (Expertenkommission
+    beim Ministerrat) und sdaia.gov.sa.
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Nach dem Kenntnisstand bis Mai 2026 gilt das Gesetz seit dem 14.09.2023,
+    nachdem eine Übergangsfrist zunächst bis 14.09.2024 lief. Zuständige Aufsichtsbehörde ist die Saudi
+    Data and AI Authority (SDAIA); der Übergang der Zuständigkeit auf die National Data Management Office
+    bzw. eine eigene Datenschutzbehörde war vorgesehen. Weder das Erlassdatum noch das Inkrafttreten konnten
+    an einer amtlichen Quelle geprüft werden.
+
+    '
+  kurzbeschreibung: 'Horizontales Datenschutzgesetz mit Einwilligungserfordernis, Zweckbindung, Betroffenenrechten
+    (Auskunft, Berichtigung, Löschung, Datenübertragbarkeit), Meldepflicht bei Datenschutzverletzungen,
+    Registrierungspflicht für Verantwortliche und Beschränkungen des Datentransfers ins Ausland. Sanktionen
+    reichen nach dem Gesetz bis zu Freiheitsstrafe (bei der Offenlegung sensibler Daten in Schädigungsabsicht)
+    und Geldbußen bis 5 Mio. SAR, im Wiederholungsfall verdoppelt. Für KI ist das Gesetz die einzige verbindliche
+    Rechtsgrundlage, an der Trainings- und Anwendungsdatenverarbeitung gemessen wird.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Der Auftragstext dieser Recherche nennt „Art. 20 der Durchführungsverordnung" als die Norm über automatisierte
+    Entscheidungen. Diese Zuordnung konnte NICHT geprüft werden und ist ausdrücklich als ungesicherte
+    Angabe gekennzeichnet.
+
+    '
+  - 'Das PDPL kennt — anders als Art. 22 DSGVO und Art. 18 des VAE-Datenschutzgesetzes — im Gesetzestext
+    selbst kein eigenständiges Recht gegen automatisierte Einzelentscheidungen; die Regelung soll auf
+    Verordnungsebene stehen. Auch diese Aussage ist zu prüfen.
+
+    '
+  - 'Datenlokalisierung: Die Übermittlung ins Ausland ist nur unter engen Voraussetzungen und nach gesonderter
+    Verordnung zulässig; das ist für cloudbasierte KI-Dienste die praktisch schärfste Schranke des saudischen
+    Rechts.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: نظام حماية البيانات الشخصية (amtliche Textausgabe)
+    url: https://laws.boe.gov.sa/BoeLaws/Laws/
+    sprache: ar
+    urheber: هيئة الخبراء بمجلس الوزراء — Expertenkommission beim Ministerrat
+    verifiziert: false
+    notiz: 'Der Host laws.boe.gov.sa war am 06.09.2026 nicht erreichbar (Verbindungsabbruch bei jedem
+      Abruf, sowohl über HTTP-Client als auch über WebFetch). Die URL zeigt auf das Verzeichnis, nicht
+      auf das Einzeldokument, weil die Dokumentkennung nicht ermittelt werden konnte.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: SDAIA — Regulations and Policies (Verzeichnis)
+    url: https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+    sprache: en
+    urheber: Saudi Data and Artificial Intelligence Authority
+    verifiziert: false
+    notiz: 'Am 06.09.2026 dreimal abgerufen (englisch und arabisch); jedes Mal antwortete eine Web Application
+      Firewall mit „The requested URL was rejected."
+
+      '
+  offene_punkte:
+  - 'Königliche Dekretnummern (M/19, M/148), Hidschri- und Gregorianische Daten, Inkrafttreten und Übergangsfristen
+    sind NICHT belegt.
+
+    '
+  - 'Ob die Zuständigkeit inzwischen von der SDAIA auf eine eigenständige Datenschutzbehörde übergegangen
+    ist, ist offen.
+
+    '
+  - 'ZUERST ANFASSEN: laws.boe.gov.sa aus einer Umgebung mit Zugang abrufen und die Dokumentkennung des
+    Gesetzes sowie der Durchführungsverordnung notieren.
+
+    '
+  monitoring_quellen:
+  - https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+  - https://laws.boe.gov.sa/
+  - https://www.uqn.gov.sa/decisions
+  bezug_regelwerke:
+  - sa-pdpl-ir
+  - sa-sdaia
+  - sa-ki-ethik
+  letzte_pruefung: 2026-09-06
+- id: sa-pdpl-ir
+  jurisdiktion: sa
+  kurztitel: Durchführungsverordnung zum saudischen Datenschutzgesetz
+  offizieller_titel: 'اللائحة التنفيذية لنظام حماية البيانات الشخصية — al-Lāʾiḥa al-tanfīdhiyya li-niẓām
+    ḥimāyat al-bayānāt al-shakhṣiyya — Durchführungsverordnung zum Gesetz über den Schutz personenbezogener
+    Daten
+
+    '
+  fundstelle: 'Erlassen von der SDAIA; veröffentlicht auf sdaia.gov.sa und im Amtsblatt Umm al-Qurā. Daneben
+    besteht eine gesonderte Verordnung über die Übermittlung personenbezogener Daten ins Ausland (ضوابط
+    نقل البيانات الشخصية خارج المملكة).
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Sie konkretisiert das PDPL und enthält nach dem Auftragstext dieser Recherche
+    in Art. 20 die Regelung über automatisierte Entscheidungen. Der Text war nicht abrufbar.
+
+    '
+  kurzbeschreibung: 'Konkretisiert Einwilligung, berechtigtes Interesse, Datenschutz- Folgenabschätzung,
+    Pflicht zur Bestellung eines Datenschutz- beauftragten, Registrierung im nationalen Register, Meldefristen
+    bei Verletzungen und Anforderungen an die Auslandsübermittlung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 20 soll nach dem Auftragstext die ausschließlich automatisierte Entscheidung regeln — UNGEPRÜFT.
+    Falls das zutrifft, wäre Saudi-Arabien eine der wenigen Rechtsordnungen, die diese Frage nicht im
+    Gesetz, sondern auf Verordnungsebene regelt.
+
+    '
+  dokumente:
+  - datum: null
+    typ: delegiert
+    titel: اللائحة التنفيذية لنظام حماية البيانات الشخصية
+    url: https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+    sprache: ar
+    urheber: SDAIA
+    verifiziert: false
+    notiz: Nicht abrufbar (WAF-Ablehnung), siehe sa-pdpl.
+  offene_punkte:
+  - 'Wortlaut, Datum, Fundstelle und insbesondere der Inhalt des Art. 20 sind unbelegt. Das ist der wichtigste
+    offene Punkt für Saudi-Arabien, weil er die einzige verbindliche saudische KI-Norm wäre.
+
+    '
+  monitoring_quellen:
+  - https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+  bezug_regelwerke:
+  - sa-pdpl
+  letzte_pruefung: 2026-09-06
+- id: sa-sdaia
+  jurisdiktion: sa
+  kurztitel: SDAIA — Saudische Daten- und KI-Behörde
+  offizieller_titel: 'الهيئة السعودية للبيانات والذكاء الاصطناعي — al-Hayʾa al-Suʿūdiyya lil-bayānāt wa-l-dhakāʾ
+    al-iṣṭināʿī — Saudi Data and Artificial Intelligence Authority (SDAIA)
+
+    '
+  fundstelle: 'Errichtet durch Königliche Anordnung (أمر ملكي). Behördenseite: sdaia.gov.sa. Unter dem
+    Dach der SDAIA stehen das National Data Management Office (NDMO), das National Center for AI (NCAI)
+    und das National Information Center (NIC).
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT im Detail. Die SDAIA ist die zentrale Stelle des saudischen KI- und Datenrechts:
+    sie ist zugleich Datenschutz- aufsicht (PDPL), Normgeber der Datengovernance und Urheber sämtlicher
+    KI-Leitlinien. Diese Ämterhäufung ist der Grund, warum saudisches KI-Soft-Law faktisch bindend wirkt:
+    Wer die KI-Leitlinien der SDAIA missachtet, riskiert die datenschutzrechtliche Aufsicht derselben
+    Behörde.
+
+    '
+  kurzbeschreibung: 'Zuständig für die nationale Datenstrategie, die KI-Strategie, die Datengovernance
+    des öffentlichen Sektors, die Aufsicht über das Datenschutzgesetz und die Herausgabe der KI-Ethikgrundsätze
+    und KI-Leitlinien. Sie betreibt zugleich staatliche KI-Vorhaben (u.a. das arabische Sprachmodell ALLaM),
+    ist also Aufsicht und Entwickler in einer Hand.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - governance
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Personalunion von Datenschutzaufsicht, KI-Normgeber und KI-Entwickler — institutionell das Gegenteil
+    der in Art. 70 KI-VO geforderten Unabhängigkeit der Marktüberwachungsbehörde.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: SDAIA — Regulations and Policies
+    url: https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+    sprache: en
+    urheber: SDAIA
+    verifiziert: false
+    notiz: WAF-Ablehnung bei jedem Abruf am 06.09.2026.
+  offene_punkte:
+  - Nummer und Datum der königlichen Errichtungsanordnung sind unbelegt.
+  - 'Ob die Datenschutzaufsicht 2024/2025 auf eine eigene Behörde übergegangen ist, konnte nicht geklärt
+    werden.
+
+    '
+  monitoring_quellen:
+  - https://sdaia.gov.sa/
+  bezug_regelwerke:
+  - sa-pdpl
+  - sa-ki-ethik
+  - sa-genai-leitlinien
+  - sa-deepfake-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: sa-ki-ethik
+  jurisdiktion: sa
+  kurztitel: Saudische KI-Ethikgrundsätze
+  offizieller_titel: 'مبادئ أخلاقيات الذكاء الاصطناعي — Mabādiʾ akhlāqiyyāt al-dhakāʾ al-iṣṭināʿī — AI
+    Ethics Principles
+
+    '
+  fundstelle: Herausgegeben von der SDAIA; veröffentlicht auf sdaia.gov.sa.
+  status: softlaw
+  status_detail: 'UNVERIFIZIERT. Freiwilliger Ethikrahmen der SDAIA; nach dem Kenntnisstand bis Mai 2026
+    in der Fassung 1.0 aus dem Jahr 2023. Er ist bislang das zentrale KI-spezifische Dokument Saudi-Arabiens.
+    Bindungswirkung entfaltet er nicht unmittelbar, wohl aber über die Vergabe und über die Doppelrolle
+    der SDAIA als Datenschutzaufsicht.
+
+    '
+  kurzbeschreibung: 'Grundsätze für die Entwicklung und den Einsatz von KI (u.a. Fairness und Diskriminierungsfreiheit,
+    Privatheit und Sicherheit, Menschenzentrierung, Verlässlichkeit und Sicherheit, Transparenz und Erklärbarkeit,
+    Rechenschaft und Verantwortung, gesellschaftlicher und ökologischer Nutzen) nebst einem risikobasierten
+    Bewertungs- ansatz für KI-Anwendungen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Der Rahmen ordnet KI-Anwendungen nach Risikograden ein — insofern strukturell der KI-VO ähnlich,
+    aber ohne Rechtsfolgen.
+
+    '
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: مبادئ أخلاقيات الذكاء الاصطناعي / AI Ethics Principles
+    url: https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+    sprache: ar
+    urheber: SDAIA
+    verifiziert: false
+    notiz: Nicht abrufbar (WAF).
+  offene_punkte:
+  - Fassung, Datum und Wortlaut sind unbelegt.
+  - 'Ob die Grundsätze durch den Ministerrat gebilligt wurden (was ihnen eine andere Qualität gäbe), ist
+    offen.
+
+    '
+  monitoring_quellen:
+  - https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+  bezug_regelwerke:
+  - sa-sdaia
+  - sa-nsdai
+  letzte_pruefung: 2026-09-06
+- id: sa-genai-leitlinien
+  jurisdiktion: sa
+  kurztitel: Saudische Leitlinien zur generativen KI
+  offizieller_titel: 'مبادئ توجيهية لاستخدام الذكاء الاصطناعي التوليدي — Generative Artificial Intelligence
+    Guidelines (getrennte Fassungen für Beschäftigte des öffentlichen Sektors und für die Allgemeinheit)
+
+    '
+  fundstelle: SDAIA; veröffentlicht auf sdaia.gov.sa.
+  status: softlaw
+  status_detail: 'UNVERIFIZIERT. Nach dem Kenntnisstand bis Mai 2026 hat die SDAIA zwei Leitlinienfassungen
+    veröffentlicht: eine für Beschäftigte staatlicher Stellen und eine für die Allgemeinheit. Beide sind
+    unverbindlich, für den öffentlichen Sektor aber praktisch verbindlich, weil die SDAIA die Datengovernance
+    der Behörden steuert.
+
+    '
+  kurzbeschreibung: 'Behandeln zulässige und unzulässige Anwendungsfälle generativer Systeme, den Umgang
+    mit vertraulichen und personenbezogenen Daten bei der Eingabe, Prüfpflichten für Ausgaben, Kennzeichnung
+    KI-erzeugter Inhalte und Haftungsfragen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - content
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Getrennte Adressatenkreise (Verwaltung / Allgemeinheit) — eine Regelungstechnik, die sonst kaum vorkommt
+    und den saudischen Ansatz kennzeichnet, KI zuerst im Staat und dann in der Gesellschaft zu ordnen.
+
+    '
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: Generative AI Guidelines (SDAIA)
+    url: https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+    sprache: ar
+    urheber: SDAIA
+    verifiziert: false
+    notiz: Nicht abrufbar (WAF).
+  offene_punkte:
+  - Titel, Fassungen, Daten und Inhalte sind unbelegt.
+  monitoring_quellen:
+  - https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+  bezug_regelwerke:
+  - sa-ki-ethik
+  - sa-sdaia
+  letzte_pruefung: 2026-09-06
+- id: sa-deepfake-leitlinien
+  jurisdiktion: sa
+  kurztitel: Saudische Deepfake-Leitlinien
+  offizieller_titel: 'الدليل الإرشادي للتزييف العميق — Deepfakes Guideline
+
+    '
+  fundstelle: SDAIA; veröffentlicht auf sdaia.gov.sa.
+  status: softlaw
+  status_detail: 'UNVERIFIZIERT. Nach dem Kenntnisstand bis Mai 2026 eine Leitlinie der SDAIA aus dem
+    Jahr 2024, die Deepfakes definiert, Erkennungsmerkmale beschreibt, zulässige von unzulässigen Anwendungen
+    abgrenzt und auf die Straftatbestände des Gesetzes zur Bekämpfung von Informationsdelikten verweist.
+
+    '
+  kurzbeschreibung: 'Aufklärungs- und Orientierungsdokument zu synthetischen Medien. Rechtliche Sanktion
+    erfolgt nicht durch die Leitlinie, sondern über das Anti-Cyber-Crime-Gesetz und das Strafrecht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - content
+  - grundrechte
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Saudi-Arabien und die VAE haben beide Deepfake-Leitlinien statt Deepfake-Straftatbeständen erlassen
+    — ein gemeinsames Muster der Golfstaaten, das den Unterschied zur europäischen und US-amerikanischen
+    Regelungstechnik markiert.
+
+    '
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: Deepfakes Guideline (SDAIA)
+    url: https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+    sprache: ar
+    urheber: SDAIA
+    verifiziert: false
+    notiz: Nicht abrufbar (WAF).
+  offene_punkte:
+  - Datum, Fassung und Inhalt sind unbelegt.
+  monitoring_quellen:
+  - https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+  bezug_regelwerke:
+  - sa-cybercrime
+  - sa-ki-ethik
+  letzte_pruefung: 2026-09-06
+- id: sa-nsdai
+  jurisdiktion: sa
+  kurztitel: Nationale Daten- und KI-Strategie (NSDAI)
+  offizieller_titel: 'الاستراتيجية الوطنية للبيانات والذكاء الاصطناعي — National Strategy for Data and
+    Artificial Intelligence
+
+    '
+  fundstelle: SDAIA; vorgestellt auf dem Global AI Summit in Riad.
+  status: softlaw
+  status_detail: 'UNVERIFIZIERT. Nationale Strategie ohne Rechtssatzform, nach dem Kenntnisstand bis Mai
+    2026 im Oktober 2020 vorgestellt. Sie ist Teil der Vision 2030 und formuliert das Ziel, Saudi-Arabien
+    bis 2030 unter die führenden Datennationen zu bringen.
+
+    '
+  kurzbeschreibung: 'Sechs Handlungsfelder (u.a. Ausbildung, Forschung, Regulierung, Investition, Daten
+    und Infrastruktur, internationale Zusammenarbeit) mit quantifizierten Zielen bis 2030.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Die Strategie kündigt einen Regulierungsrahmen an, der bis heute nicht als Gesetz vorliegt — Saudi-Arabien
+    ist damit die größte Volkswirtschaft der Region ohne KI-Gesetz und ohne KI-Gesetzentwurf.
+
+    '
+  dokumente:
+  - datum: null
+    typ: bericht
+    titel: National Strategy for Data and AI
+    url: https://sdaia.gov.sa/
+    sprache: en
+    urheber: SDAIA
+    verifiziert: false
+    notiz: Nicht abrufbar (WAF).
+  offene_punkte:
+  - Datum und Inhalt unbelegt.
+  monitoring_quellen:
+  - https://sdaia.gov.sa/
+  bezug_regelwerke:
+  - sa-sdaia
+  - sa-ki-ethik
+  letzte_pruefung: 2026-09-06
+- id: sa-global-ai-hub
+  jurisdiktion: sa
+  kurztitel: Global-AI-Hub-Gesetzgebung (2025/2026)
+  offizieller_titel: 'Nicht belegt. Nach dem Auftragstext eine „Global AI Hub"-Gesetzgebung der Jahre
+    2025/2026.
+
+    '
+  fundstelle: NICHT BELEGT.
+  status: entwurf
+  status_detail: 'UNVERIFIZIERT UND MÖGLICHERWEISE NICHT EXISTENT. Saudi-Arabien hat 2025 das Vorhaben
+    eines „Global AI Hub" angekündigt, bei dem ausländische Staaten und Unternehmen Rechenzentren unter
+    einem besonderen, vom saudischen Recht teilweise abweichenden Rechtsregime („data embassies") betreiben
+    können sollen. Ob dazu ein Gesetz, ein Entwurf oder nur eine Ankündigung vorliegt, war NICHT feststellbar.
+    Der Eintrag ist als Rechercheauftrag und nicht als Befund aufgenommen.
+
+    '
+  kurzbeschreibung: 'Angekündigt ist ein Rahmen mit mehreren Betreibermodellen (eigenständige, erweiterte
+    und virtuelle Rechenzentren ausländischer Träger) und einem besonderen Datenzugriffsregime. Ein Gesetzestext
+    liegt dieser Recherche nicht vor.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - marktzugang
+  - datenschutz
+  - sicherheit-export
+  - governance
+  regelungsschwerpunkte:
+  - 'Falls es das Vorhaben gibt, wäre es der weltweit erste Versuch, Rechenzentrumsstandorte durch eine
+    Exterritorialisierung des Datenrechts zu gewinnen — juristisch das Gegenstück zur Datenlokalisierung.
+
+    '
+  dokumente: []
+  offene_punkte:
+  - 'Existenz, Rechtsform, Datum und Inhalt sind unbelegt. ZUERST ANFASSEN: istitlaa.ncc.gov.sa (amtliche
+    Konsultationsplattform des National Competitiveness Center) nach einem Entwurf durchsuchen; die Wurzelseite
+    war am 06.09.2026 erreichbar, die Projektübersicht nicht.
+
+    '
+  monitoring_quellen:
+  - https://istitlaa.ncc.gov.sa/en
+  - https://sdaia.gov.sa/
+  bezug_regelwerke:
+  - sa-pdpl
+  - sa-nsdai
+  letzte_pruefung: 2026-09-06
+- id: sa-urheberrecht
+  jurisdiktion: sa
+  kurztitel: Saudisches Urheberrechtsgesetz
+  offizieller_titel: 'نظام حماية حقوق المؤلف — Niẓām ḥimāyat ḥuqūq al-muʾallif — Gesetz zum Schutz des
+    Urheberrechts
+
+    '
+  fundstelle: 'Königliches Dekret Nr. م/41 (M/41) nebst Durchführungsverordnung. Zuständig ist heute die
+    Saudi Authority for Intellectual Property (SAIP); Sammelausgabe der Immaterialgüterrechtsvorschriften
+    auf saip.gov.sa.
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT im Detail. Das Gesetz ist die Grundlage für die urheberrechtliche Beurteilung
+    von Trainingsdaten und KI-Erzeugnissen in Saudi-Arabien. Eine Text- und Data-Mining-Schranke ist nach
+    dem Kenntnisstand bis Mai 2026 nicht vorhanden; ebenso wenig eine Regelung über die Urheberschaft
+    an KI-Erzeugnissen.
+
+    '
+  kurzbeschreibung: 'Schützt Werke der Literatur, Kunst und Wissenschaft einschließlich Computerprogrammen;
+    regelt Urheberpersönlichkeits- und Verwertungsrechte, Schutzdauer, Schranken sowie Sanktionen. Vollzug
+    durch die SAIP mit Beschlagnahme-, Schließungs- und Bußgeldbefugnissen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - urheberrecht
+  - content
+  regelungsschwerpunkte:
+  - Keine TDM-Schranke nach derzeitigem Kenntnisstand — zu prüfen.
+  dokumente:
+  - datum: 2022-03-13
+    typ: konsolidiert
+    titel: 'أنظمة ولوائح الملكية الفكرية في المملكة العربية السعودية — Sammelausgabe der saudischen Immaterialgüterrechtsvorschriften
+
+      '
+    url: https://www.saip.gov.sa/ar/resources/lows-and-regulations/systems-and-regulations
+    sprache: ar
+    urheber: Saudi Authority for Intellectual Property (SAIP)
+    verifiziert: true
+    notiz: 'Das VERZEICHNIS wurde am 06.09.2026 abgerufen und nennt die Sammelausgabe mit dem Veröffentlichungsdatum
+      13.03.2022 sowie weitere 17 Dokumente, darunter die „لائحة التسجيل الاختياري لمصنفات حقوق المؤلف"
+      (Verordnung über die freiwillige Registrierung urheberrechtlicher Werke, 18.02.2022). Die PDF-Datei
+      selbst wurde vom Egress-Proxy mit HTTP 403 abgewiesen; der Inhalt ist deshalb NICHT geprüft, und
+      die Dekretnummer M/41 ist nicht belegt.
+
+      '
+  offene_punkte:
+  - 'Dekretnummer, Hidschri-Datum, Fassung und Wortlaut sind unbelegt. Die SAIP-Sammelausgabe ist der
+    schnellste Zugriffsweg, sobald der Netzzugang besteht.
+
+    '
+  monitoring_quellen:
+  - https://www.saip.gov.sa/ar/resources/lows-and-regulations/systems-and-regulations
+  bezug_regelwerke:
+  - sa-pdpl
+  letzte_pruefung: 2026-09-06
+- id: sa-cybercrime
+  jurisdiktion: sa
+  kurztitel: Saudisches Gesetz zur Bekämpfung von Informationsdelikten
+  offizieller_titel: 'نظام مكافحة الجرائم المعلوماتية — Niẓām mukāfaḥat al-jarāʾim al-maʿlūmātiyya — Gesetz
+    zur Bekämpfung von Informationsdelikten (Anti-Cyber Crime Law)
+
+    '
+  fundstelle: 'Königliches Dekret Nr. م/17 (M/17). Amtliche Textausgabe: laws.boe.gov.sa.
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT im Detail. Es ist die Norm, an der Deepfakes, KI-gestützte Erpressung
+    und Rufschädigung in Saudi-Arabien strafrechtlich gemessen werden. Der Tatbestand der Verletzung des
+    Privatlebens durch Mobiltelefone mit Kamera und ähnliche Geräte sowie der Tatbestand der Verleumdung
+    über Informationsnetze sind die praktischen Anknüpfungspunkte.
+
+    '
+  kurzbeschreibung: 'Stellt unbefugten Zugang, Abfangen von Daten, Datenmanipulation, Verletzung des Privatlebens
+    durch technische Mittel, Verleumdung über Informationsnetze sowie die Herstellung und Verbreitung
+    sittenwidriger Inhalte unter Strafe; Freiheitsstrafen und Geldstrafen gestaffelt nach Tatbestand.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - content
+  - grundrechte
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Kein ausdrücklicher Deepfake-Tatbestand; die Erfassung erfolgt über die Tatbestände der Privatlebensverletzung
+    und der Verleumdung.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: نظام مكافحة الجرائم المعلوماتية
+    url: https://laws.boe.gov.sa/BoeLaws/Laws/
+    sprache: ar
+    urheber: هيئة الخبراء بمجلس الوزراء
+    verifiziert: false
+    notiz: Host am 06.09.2026 nicht erreichbar.
+  offene_punkte:
+  - Dekretnummer, Datum und Artikelnummern sind unbelegt.
+  - 'Ob das Gesetz seit 2023 novelliert wurde (etwa um einen Kennzeichnungs- oder Deepfake-Tatbestand),
+    ist offen.
+
+    '
+  monitoring_quellen:
+  - https://laws.boe.gov.sa/
+  - https://www.uqn.gov.sa/decisions
+  bezug_regelwerke:
+  - sa-deepfake-leitlinien
+  - sa-pdpl
+  letzte_pruefung: 2026-09-06
+- id: sa-nca-controls
+  jurisdiktion: sa
+  kurztitel: Cybersicherheitsvorgaben der NCA
+  offizieller_titel: 'الضوابط الأساسية للأمن السيبراني وضوابط أمن البيانات — Essential Cybersecurity Controls
+    (ECC), Data Cybersecurity Controls (DCC), Cloud Cybersecurity Controls (CCC) und Operational Technology
+    Cybersecurity Controls (OTCC) der National Cybersecurity Authority
+
+    '
+  fundstelle: 'الهيئة الوطنية للأمن السيبراني — National Cybersecurity Authority (NCA); amtliches Dokumentenverzeichnis
+    nca.gov.sa/en/regulatory-documents.
+
+    '
+  status: anwendbar
+  status_detail: 'Die NCA-Vorgaben sind für staatliche Stellen und Betreiber kritischer Infrastrukturen
+    verbindlich. KI-spezifische Vorgaben enthalten sie nach dem Verzeichnisstand vom 06.09.2026 NICHT;
+    sie sind gleichwohl der Rahmen, in dem KI-Systeme im saudischen öffentlichen Sektor betrieben werden
+    müssen (insbesondere die Cloud- und Datenvorgaben).
+
+    '
+  kurzbeschreibung: 'Verbindliche Kontrollkataloge für Cybersicherheit: Grundkontrollen (ECC), Datensicherheitskontrollen
+    (DCC), Cloud-Kontrollen (CCC), Betriebstechnik (OTCC); dazu Rahmenwerke für Risikomanagement (NFCRM),
+    Personalqualifikation (SCyWF) und die Lizenzierung von Sicherheitsleitstellen sowie Leitlinien für
+    E-Commerce und IoT.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://nca.gov.sa/en/regulatory-documents/controls-list/ecc/
+  themenachsen:
+  - sicherheit-export
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Die Cloud Cybersecurity Controls sind die praktische Schranke für den Betrieb ausländischer KI-Dienste
+    in saudischen Behörden.
+
+    '
+  dokumente:
+  - datum: null
+    typ: norm
+    titel: Essential Cybersecurity Controls (ECC)
+    url: https://nca.gov.sa/en/regulatory-documents/controls-list/ecc/
+    sprache: en
+    urheber: National Cybersecurity Authority, Saudi-Arabien
+    verifiziert: true
+    notiz: 'Verzeichnis am 06.09.2026 abgerufen; Titel und URL amtlich belegt, Inhalte nicht ausgewertet.
+
+      '
+  - datum: null
+    typ: norm
+    titel: Data Cybersecurity Controls (DCC)
+    url: https://nca.gov.sa/en/regulatory-documents/controls-list/dcc/
+    sprache: en
+    urheber: National Cybersecurity Authority
+    verifiziert: true
+    notiz: Verzeichnis am 06.09.2026 abgerufen.
+  - datum: null
+    typ: norm
+    titel: Cloud Cybersecurity Controls (CCC)
+    url: https://nca.gov.sa/en/regulatory-documents/controls-list/ccc/
+    sprache: en
+    urheber: National Cybersecurity Authority
+    verifiziert: true
+    notiz: Verzeichnis am 06.09.2026 abgerufen.
+  offene_punkte:
+  - 'Ob die NCA inzwischen eigene KI-Sicherheitsvorgaben erlassen hat, ist am Verzeichnis nicht erkennbar;
+    das Verzeichnis nennt keine.
+
+    '
+  monitoring_quellen:
+  - https://nca.gov.sa/en/regulatory-documents
+  bezug_regelwerke:
+  - sa-pdpl
+  letzte_pruefung: 2026-09-06
+- id: tr-yz-kanun-teklifi-2234
+  jurisdiktion: tr
+  kurztitel: Türkischer KI-Gesetzentwurf (2/2234)
+  offizieller_titel: 'Yapay Zekâ Kanun Teklifi — Gesetzesvorschlag über künstliche Intelligenz
+
+    '
+  fundstelle: 'Türkiye Büyük Millet Meclisi (TBMM), 28. Wahlperiode, Esas-Nr. 2/2234. Amtliche Vorgangsdatenbank:
+    tbmm.gov.tr/yasama/kanun-teklifleri (Suchformular; die Suche ist ohne Query-String nicht bedienbar).
+
+    '
+  verfahrensnummer: TBMM Esas No. 2/2234 (28. Dönem)
+  status: verfahren
+  status_detail: 'UNVERIFIZIERT. Nach dem Kenntnisstand bis Mai 2026 ein Gesetzesvorschlag von Abgeordneten
+    (kein Regierungsentwurf; die türkische Verfassung kennt seit 2018 nur noch den Abgeordneten- vorschlag
+    als Gesetzesinitiative), eingebracht im Jahr 2024, ausschussüberwiesen und bis heute nicht verabschiedet.
+    Er ist an der KI-VO orientiert: Risikoklassen, Transparenzpflichten, Aufsichtsbehörde. Weder Einbringungsdatum
+    noch Ausschuss noch Textfassung konnten belegt werden.
+
+    '
+  kurzbeschreibung: 'Kurzer Rahmenentwurf (nach dem Kenntnisstand rund ein Dutzend Artikel) mit Begriffsbestimmungen,
+    allgemeinen Grundsätzen (Sicherheit, Transparenz, Fairness, Rechenschaft, Datenschutz), einer risikobasierten
+    Einstufung nach dem Vorbild der KI-VO, Pflichten der Anbieter, einer Aufsichts- und Zertifizierungsstelle
+    sowie Bußgeldvorschriften. Der Entwurf ist erkennbar eine gekürzte Übernahme der KI-VO-Systematik
+    und nicht deren vollständige Umsetzung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - marktzugang
+  - governance
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Risikoklassifizierung nach dem Vorbild der Art. 5 und 6 KI-VO — der Entwurf ist damit einer der frühesten
+    außereuropäischen Brüssel-Effekt-Fälle im Gesetzgebungsverfahren.
+
+    '
+  - 'Aufsicht: Der Entwurf sieht nach dem Kenntnisstand eine eigene Stelle vor; das Verhältnis zur KVKK
+    (Datenschutzbehörde) und zur BTK (Telekommunikationsbehörde) ist ungeklärt.
+
+    '
+  dokumente:
+  - datum: null
+    typ: entwurf
+    titel: Yapay Zekâ Kanun Teklifi (Esas No. 2/2234)
+    url: https://www.tbmm.gov.tr/yasama/kanun-teklifleri
+    sprache: tr
+    urheber: Türkiye Büyük Millet Meclisi
+    verifiziert: false
+    notiz: 'Das Suchformular wurde am 06.09.2026 abgerufen; es besteht aus den Feldern Aranacak Kelime,
+      Dönemi ve Yasama Yılı, Kanun Grubu, Teklif Sahibi, Son Durumu, Esas Numarası und Datumsbereich.
+      JEDE Abfrage mit Query-String wird vom Server mit „Request Rejected" beantwortet; die Trefferliste
+      war deshalb nicht erreichbar und der Entwurfstext nicht lesbar.
+
+      '
+  sekundaerquelle_url: https://www.cbclaw.com.tr/en/yapay-zeka-kanun-teklifi-gundemde
+  offene_punkte:
+  - 'Einbringungsdatum, Antragsteller, Ausschuss, Verfahrensstand und Wortlaut sind unbelegt. ZUERST ANFASSEN:
+    tbmm.gov.tr aus einer Umgebung ohne WAF-Sperre mit /yasama/kanun-teklifleri?EsasNo=2%2F2234 abfragen
+    und die Vorgangs- und Textseite sichern.
+
+    '
+  - 'Widerspruch: Das Breitenscreening datiert den Entwurf auf November 2025, der Auftragstext dieser
+    Recherche nennt 2/2234 als den ersten Entwurf und daneben einen Änderungsentwurf 2/3358 sowie einen
+    weiteren Entwurf vom November 2025. Welche Nummer zu welchem Datum gehört, ist unaufgelöst.
+
+    '
+  monitoring_quellen:
+  - https://www.tbmm.gov.tr/yasama/kanun-teklifleri
+  - https://www.tbmm.gov.tr/yasama/komisyon-raporlari
+  bezug_regelwerke:
+  - tr-yz-kanun-teklifi-weitere
+  - tr-kvkk-6698
+  - tr-nais
+  letzte_pruefung: 2026-09-06
+- id: tr-yz-kanun-teklifi-weitere
+  jurisdiktion: tr
+  kurztitel: Weitere türkische KI-Gesetzentwürfe (2/3358 u.a.)
+  offizieller_titel: 'Nicht belegt. Nach dem Auftragstext ein Änderungsentwurf mit der Esas-Nr. 2/3358
+    sowie ein weiterer Gesetzesvorschlag vom November 2025.
+
+    '
+  fundstelle: TBMM, 28. Wahlperiode, Esas-Nr. 2/3358 (nicht belegt).
+  verfahrensnummer: TBMM Esas No. 2/3358 (nicht belegt)
+  status: verfahren
+  status_detail: 'UNVERIFIZIERT. Die Existenz dieser Entwürfe ließ sich nicht nachweisen. Auf der Seite
+    des Ausschusses für digitale Medien (Dijital Mecralar Komisyonu), die am 06.09.2026 abgerufen wurde,
+    ist kein KI-Vorgang genannt; die Rubrik „KOMİSYONA HAVALE EDİLEN İŞLER" wird auf der Seite zwar geführt,
+    ihr Inhalt wurde aber nicht ausgeliefert.
+
+    '
+  kurzbeschreibung: 'Nach dem Auftragstext konkurrierende beziehungsweise ändernde Gesetzesvorschläge
+    zur KI-Regulierung. Inhalt unbekannt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - Unbekannt.
+  dokumente: []
+  offene_punkte:
+  - 'Existenz, Nummern, Daten und Inhalte sind unbelegt. Der nächste Bearbeiter sollte im TBMM-Portal
+    die Esas-Nummern 2/3358 und die Vorgänge aus November 2025 einzeln aufrufen.
+
+    '
+  monitoring_quellen:
+  - https://www.tbmm.gov.tr/yasama/kanun-teklifleri
+  bezug_regelwerke:
+  - tr-yz-kanun-teklifi-2234
+  letzte_pruefung: 2026-09-06
+- id: tr-kvkk-6698
+  jurisdiktion: tr
+  kurztitel: Türkisches Datenschutzgesetz (Nr. 6698)
+  offizieller_titel: 'Kişisel Verilerin Korunması Kanunu, Kanun No. 6698 — Gesetz über den Schutz personenbezogener
+    Daten Nr. 6698
+
+    '
+  fundstelle: 'Kanun No. 6698; veröffentlicht im Resmî Gazete. Konsolidierte Fassung: mevzuat.gov.tr,
+    Dokumentkennung 1.5.6698 (https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6698.pdf); Behördenfassung:
+    kvkk.gov.tr.
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT im Detail. Geltendes Datenschutzrecht der Türkei, an der Datenschutzrichtlinie
+    95/46/EG und nicht an der DSGVO orientiert; durch das Änderungsgesetz Nr. 7499 (2024) teilweise an
+    die DSGVO angeglichen. Es ist die Norm, an der KI-Fälle in der Türkei tatsächlich entschieden werden
+    — die Bußgeldpraxis der KVKK ist der einzige nennenswerte Vollzugskanal.
+
+    '
+  kurzbeschreibung: 'Regelt Grundsätze der Verarbeitung, Rechtsgrundlagen, besondere Datenkategorien,
+    Übermittlung ins Ausland, Informations- und Auskunftsrechte, das Register der Verantwortlichen (VERBİS),
+    die Kişisel Verileri Koruma Kurumu (KVKK) als Aufsichtsbehörde und deren Bußgeldbefugnisse. Für KI
+    zentral ist Art. 11 Buchst. g: das Recht, gegen ein Ergebnis Einspruch zu erheben, das gegen den Betroffenen
+    ausschließlich durch automatisierte Systeme analysiert wurde („münhasıran otomatik sistemler vasıtasıyla
+    analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme").
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6698.pdf
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Art. 11 Buchst. g gewährt dem Betroffenen ein Einspruchsrecht gegen nachteilige Ergebnisse ausschließlich
+    automatisierter Analyse. Das ist die türkische Parallelnorm zu Art. 22 DSGVO, aber deutlich schwächer:
+    Sie kennt weder ein Verbot noch einen Anspruch auf menschliches Eingreifen; sie gibt nur ein Widerspruchsrecht.
+
+    '
+  - 'Der Text spricht von „münhasıran otomatik sistemler" — der Ausschließlichkeitsvorbehalt eröffnet
+    dieselbe Umgehungsfrage wie Art. 22 DSGVO.
+
+    '
+  - 'Auslandsübermittlung: bis 2024 nur mit ausdrücklicher Einwilligung oder Verpflichtungserklärung mit
+    Genehmigung der Behörde; das Gesetz Nr. 7499 hat Standardvertragsklauseln und verbindliche Unternehmensregeln
+    eingeführt.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: 6698 sayılı Kişisel Verilerin Korunması Kanunu (konsolidierte Fassung)
+    url: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6698.pdf
+    sprache: tr
+    urheber: Mevzuat Bilgi Sistemi, Cumhurbaşkanlığı
+    verifiziert: false
+    notiz: 'Der Abruf ist am 06.09.2026 fünfmal gescheitert: WebFetch bricht die robots.txt-Prüfung von
+      mevzuat.gov.tr mit „[SSL: CERTIFICATE_VERIFY_FAILED]" bzw. „Failed to fetch or parse robots.txt"
+      ab; der HTTP-Client wird vom Egress-Proxy mit 403 abgewiesen. Die Dokumentkennung 1.5.6698 folgt
+      dem Aufbau des Portals (Tertip.Kategorie.Nummer) und ist NICHT verifiziert.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: Kişisel Verilerin Korunması Kanunu (Behördenseite der KVKK)
+    url: https://www.kvkk.gov.tr/Icerik/6649/Kisisel-Verilerin-Korunmasi-Kanunu
+    sprache: tr
+    urheber: Kişisel Verileri Koruma Kurumu
+    verifiziert: false
+    notiz: Am 06.09.2026 dreimal abgerufen, jedes Mal robots.txt-Fehler.
+  offene_punkte:
+  - 'Kabul Tarihi, Resmî-Gazete-Datum und -Nummer sowie der Wortlaut des Art. 11 sind NICHT belegt.
+
+    '
+  - 'Ob das Gesetz nach 7499/2024 weiter geändert wurde, ist offen.
+
+    '
+  - kvkk.gov.tr nicht erreichbar (07.09.2026) - Ersatzfundstelle suchen, etwa ueber das Resmi Gazete oder
+    das Webarchiv.
+  monitoring_quellen:
+  - https://www.kvkk.gov.tr/
+  - https://www.mevzuat.gov.tr/
+  bezug_regelwerke:
+  - tr-7499
+  - tr-kvkk-yz-tavsiyeler
+  - tr-kvkk-kurum
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - '07.09.2026: kvkk.gov.tr ist im Browser des Bearbeiters nicht aufloesbar (DNS_PROBE_FINISHED_NXDOMAIN,
+    mit und ohne www). Ob die Behoerde die Domaene gewechselt hat oder ob es sich um eine Namensaufloesung
+    von aussen handelt, ist ungeklaert. Alle Verweise auf kvkk.gov.tr in diesem Eintrag sind bis zur Klaerung
+    als moeglicherweise tot zu behandeln.'
+- id: tr-7499
+  jurisdiktion: tr
+  kurztitel: Änderungsgesetz zum türkischen Datenschutzgesetz (Nr. 7499)
+  offizieller_titel: 'Ceza Muhakemesi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun, Kanun
+    No. 7499 — Gesetz zur Änderung der Strafprozessordnung und einiger anderer Gesetze, Nr. 7499
+
+    '
+  fundstelle: 'Kanun No. 7499; veröffentlicht im Resmî Gazete im März 2024 (Archivadresse des Amtsblatts
+    nach dem Portalschema: resmigazete.gov.tr/eskiler/2024/03/20240312-1.htm).
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Das Gesetz ist ein Artikelgesetz („torba kanun"); seine datenschutzrechtlich
+    einschlägigen Artikel ändern das Gesetz Nr. 6698 in den Vorschriften über besondere Datenkategorien
+    (Art. 6), über die Übermittlung ins Ausland (Art. 9) und fügen eine Übergangsvorschrift ein. Es ist
+    die bislang einzige größere Angleichung des türkischen Datenschutzrechts an die DSGVO.
+
+    '
+  kurzbeschreibung: 'Neufassung der Rechtsgrundlagen für die Verarbeitung besonderer Datenkategorien (Abkehr
+    vom bisherigen Einwilligungsmonopol), Einführung von Standardvertragsklauseln, verbindlichen Unternehmensregeln
+    und Angemessenheitsbeschlüssen für den Drittlandtransfer sowie Übergangsregelungen. Für KI bedeutsam,
+    weil biometrische und genetische Daten als besondere Kategorien erfasst sind und Trainingsdatensätze
+    regelmäßig solche Daten enthalten.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.resmigazete.gov.tr/eskiler/2024/03/20240312-1.htm
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Die Neufassung des Art. 6 KVKK ist die praktisch wichtigste Änderung für KI: Biometrische Daten dürfen
+    seither auch ohne ausdrückliche Einwilligung verarbeitet werden, wenn ein gesetzlicher Erlaubnistatbestand
+    greift.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: 7499 sayılı Kanun (Resmî Gazete)
+    url: https://www.resmigazete.gov.tr/eskiler/2024/03/20240312-1.htm
+    sprache: tr
+    urheber: Resmî Gazete
+    verifiziert: false
+    notiz: 'Am 06.09.2026 fünfmal abgerufen; jedes Mal scheiterte die robots.txt-Prüfung von resmigazete.gov.tr.
+      Die Archiv-URL folgt dem Portalschema /eskiler/JJJJ/MM/JJJJMMTT-N.htm und ist NICHT verifiziert;
+      auch das Veröffentlichungsdatum 12.03.2024 ist NICHT belegt.
+
+      '
+  offene_punkte:
+  - 'Kanun-Nummer, Kabul Tarihi, Resmî-Gazete-Datum und -Nummer, geänderte Artikel und Inkrafttretensdatum
+    sind unbelegt.
+
+    '
+  - kvkk.gov.tr nicht erreichbar (07.09.2026) - Ersatzfundstelle suchen, etwa ueber das Resmi Gazete oder
+    das Webarchiv.
+  monitoring_quellen:
+  - https://www.resmigazete.gov.tr/
+  - https://www.kvkk.gov.tr/
+  bezug_regelwerke:
+  - tr-kvkk-6698
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - '07.09.2026: kvkk.gov.tr ist im Browser des Bearbeiters nicht aufloesbar (DNS_PROBE_FINISHED_NXDOMAIN,
+    mit und ohne www). Ob die Behoerde die Domaene gewechselt hat oder ob es sich um eine Namensaufloesung
+    von aussen handelt, ist ungeklaert. Alle Verweise auf kvkk.gov.tr in diesem Eintrag sind bis zur Klaerung
+    als moeglicherweise tot zu behandeln.'
+- id: tr-kvkk-yz-tavsiyeler
+  jurisdiktion: tr
+  kurztitel: KVKK-Empfehlungen zum Datenschutz im KI-Bereich
+  offizieller_titel: 'Yapay Zekâ Alanında Kişisel Verilerin Korunmasına Dair Tavsiyeler — Empfehlungen
+    zum Schutz personenbezogener Daten im Bereich der künstlichen Intelligenz
+
+    '
+  fundstelle: 'Kişisel Verileri Koruma Kurumu (KVKK); kvkk.gov.tr/Icerik/7048/Yapay-Zeka-Alaninda-Kisisel-Verilerin-Korunmasina-Dair-Tavsiyeler
+
+    '
+  status: softlaw
+  status_detail: 'VERIFIZIERT (Text am 06.09.2026 abgerufen und gelesen; das Veröffentlichungsdatum steht
+    nicht auf der Seite). Dies ist das EINZIGE KI-spezifische Dokument einer türkischen Aufsichtsbehörde,
+    das im Volltext belegt werden konnte, und zugleich das materiell dichteste türkische KI-Dokument überhaupt.
+    Es ist unverbindlich, wird aber von der KVKK in Verfahren als Auslegungsmaßstab herangezogen. Es stützt
+    sich ausdrücklich auf die Leitlinien des Europarats zu KI und Datenschutz, die OECD-Empfehlung, die
+    Ethik-Leitlinien der EU-Expertengruppe, das KI-Weißbuch der Europäischen Kommission und die Stellungnahme
+    4/2020 des EDSB — der türkische Text ist damit vollständig europäisch abgeleitet.
+
+    '
+  kurzbeschreibung: 'Drei Adressatenkreise: allgemeine Empfehlungen, Empfehlungen für Entwickler, Hersteller
+    und Diensteanbieter sowie Empfehlungen für Entscheidungsträger. Inhaltlich: Achtung der Grund- und
+    Menschenrechte, Rechtmäßigkeit, Redlichkeit, Verhältnismäßigkeit, Rechenschaft und Transparenz, Fokus
+    auf Risikoprävention, Datenschutz-Folgenabschätzung („mahremiyet etki değerlendirmesi"), Datenschutz
+    durch Technikgestaltung, verschärfte Maßnahmen bei besonderen Datenkategorien, Vorrang der Anonymisierung,
+    frühzeitige Bestimmung der Rollen von Verantwortlichem und Auftragsverarbeiter.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.kvkk.gov.tr/Icerik/7048/Yapay-Zeka-Alaninda-Kisisel-Verilerin-Korunmasina-Dair-Tavsiyeler
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - haftung
+  regelungsschwerpunkte:
+  - 'Für Entwickler: „Münhasıran otomatik işlemeye dayalı kararlardan korunma sağlanmalıdır" — Schutz
+    vor ausschließlich auf automatisierter Verarbeitung beruhenden Entscheidungen; „Bireylere itiraz hakkı
+    tanınmalıdır" — den Betroffenen ist ein Einspruchsrecht einzuräumen; „Veri işleme faaliyetini durdurabilme
+    hakkı tanınmalıdır" — ein Recht, die Verarbeitung anzuhalten.
+
+    '
+  - 'Für Entwickler: Vermeidung von Diskriminierungsrisiken und Verzerrungen; Datenminimierung; fortlaufende
+    Überwachung der Modellgenauigkeit; sorgfältige Bewertung aus ihrem Kontext gelöster Algorithmen; Einbindung
+    akademischer Einrichtungen und unabhängiger Sachverständiger; aktive Beteiligung der betroffenen Personen
+    und Gruppen an der Risikobewertung.
+
+    '
+  - 'Für Entscheidungsträger: Rechenschaft auf allen Stufen, Risikobewertungsverfahren, Verhaltensregeln
+    und Zertifizierungsmechanismen, Festlegung der Rolle menschlichen Eingreifens, Schutz der Freiheit
+    des Einzelnen, den Empfehlungen der KI NICHT zu vertrauen („Bireylerin yapay zekâ önerilerine güvenmeme
+    özgürlüğü korunmalıdır") — eine bemerkenswerte, in europäischen Texten so nicht formulierte Ausprägung
+    des Automatisierungsverzerrungsproblems.
+
+    '
+  - 'Für Entscheidungsträger: Anrufung der Aufsichtsbehörden bei erheblicher Beeinträchtigung von Grundrechten
+    und Förderung der Zusammenarbeit zwischen Aufsichtsbehörden.
+
+    '
+  - 'Allgemein: Vorrang der Anonymisierung, wenn dasselbe Ergebnis ohne Verarbeitung personenbezogener
+    Daten erreichbar ist.
+
+    '
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: Yapay Zekâ Alanında Kişisel Verilerin Korunmasına Dair Tavsiyeler
+    url: https://www.kvkk.gov.tr/Icerik/7048/Yapay-Zeka-Alaninda-Kisisel-Verilerin-Korunmasina-Dair-Tavsiyeler
+    sprache: tr
+    urheber: Kişisel Verileri Koruma Kurumu (KVKK)
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen und im Volltext gelesen; sämtliche türkischen Zitate dieses Eintrags
+      stammen aus diesem Abruf. Die Seite nennt KEIN Veröffentlichungsdatum; das in der Literatur genannte
+      Datum (September 2021) ist deshalb hier NICHT eingetragen.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: 'Guidelines on Artificial Intelligence and Data Protection (Europarat) — von der KVKK als Grundlage
+      zitiert
+
+      '
+    url: https://rm.coe.int/guidelines-on-artificial-intelligence-and-data-protection/168091f9d8
+    sprache: en
+    urheber: Europarat, Konsultativausschuss zur Konvention 108
+    verifiziert: true
+    notiz: 'Diese und vier weitere europäische Quellen (OECD-Empfehlung OECD-LEGAL-0449, Ethik-Leitlinien
+      der Hochrangigen Expertengruppe, KI-Weißbuch der Kommission, EDSB-Stellungnahme 4/2020) werden im
+      türkischen Text ausdrücklich als Grundlage angeführt; die Links stehen im Quellenverzeichnis der
+      KVKK-Seite und wurden von dort übernommen.
+
+      '
+  offene_punkte:
+  - 'Das Veröffentlichungsdatum ist auf der amtlichen Seite nicht angegeben und deshalb offen.
+
+    '
+  - 'Ob die KVKK nach 2021 weitere KI-Dokumente veröffentlicht hat (etwa zu generativer KI), konnte nicht
+    geprüft werden: die Übersichtsseiten der Behörde waren nicht erreichbar.
+
+    '
+  - kvkk.gov.tr nicht erreichbar (07.09.2026) - Ersatzfundstelle suchen, etwa ueber das Resmi Gazete oder
+    das Webarchiv.
+  monitoring_quellen:
+  - https://www.kvkk.gov.tr/
+  bezug_regelwerke:
+  - tr-kvkk-6698
+  - tr-kvkk-kurum
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - '07.09.2026: kvkk.gov.tr ist im Browser des Bearbeiters nicht aufloesbar (DNS_PROBE_FINISHED_NXDOMAIN,
+    mit und ohne www). Ob die Behoerde die Domaene gewechselt hat oder ob es sich um eine Namensaufloesung
+    von aussen handelt, ist ungeklaert. Alle Verweise auf kvkk.gov.tr in diesem Eintrag sind bis zur Klaerung
+    als moeglicherweise tot zu behandeln.'
+- id: tr-kvkk-kurum
+  jurisdiktion: tr
+  kurztitel: Türkische Datenschutzbehörde (KVKK)
+  offizieller_titel: 'Kişisel Verileri Koruma Kurumu / Kişisel Verileri Koruma Kurulu — Behörde bzw. Ausschuss
+    zum Schutz personenbezogener Daten
+
+    '
+  fundstelle: 'Errichtet durch das Gesetz Nr. 6698 (Art. 19 ff.); Behördenseite kvkk.gov.tr, Entscheidungszusammenfassungen
+    unter kvkk.gov.tr/Icerik/7104/Karar-Ozetleri.
+
+    '
+  status: anwendbar
+  status_detail: 'Die KVKK ist die einzige türkische Behörde, die KI-Sachverhalte bislang tatsächlich
+    entschieden hat — über das Datenschutzrecht. Ihre Entscheidungszusammenfassungen sind die einzige
+    öffentlich zugängliche türkische Entscheidungssammlung mit KI-Bezug. Sie waren NICHT abrufbar.
+
+    '
+  kurzbeschreibung: 'Aufsichts- und Bußgeldbehörde für das Gesetz Nr. 6698; führt das Register VERBİS,
+    entscheidet über Beschwerden, erlässt Grundsatzentscheidungen („ilke kararı") und veröffentlicht Entscheidungszusammenfassungen.
+    Urheberin der KI-Empfehlungen von 2021.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Grundsatzentscheidungen (ilke kararı) sind das schärfste Instrument: Sie binden alle Verantwortlichen
+    und sind die wahrscheinlichste Form, in der die Türkei KI-Praktiken (Gesichtserkennung, Scoring, Trainingsdatennutzung)
+    verbindlich regeln wird, solange kein KI-Gesetz besteht.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Karar Özetleri (Entscheidungszusammenfassungen der KVKK)
+    url: https://www.kvkk.gov.tr/Icerik/7104/Karar-Ozetleri
+    sprache: tr
+    urheber: Kişisel Verileri Koruma Kurumu
+    verifiziert: false
+    notiz: 'Am 06.09.2026 sechsmal abgerufen; jedes Mal scheiterte die robots.txt-Prüfung. Ein anderer
+      Pfad derselben Domain (/Icerik/7048/…) war einmal erreichbar — die Sperre ist also nicht pfadbezogen,
+      sondern sporadisch.
+
+      '
+  offene_punkte:
+  - 'WICHTIGSTER OFFENER PUNKT FÜR DIE TÜRKEI: Die KVKK-Entscheidungszusammenfassungen sind auf KI-Bezug
+    durchzusehen (Gesichtserkennung, biometrische Zeiterfassung, Scoring, Chatbots, Trainingsdaten). Ohne
+    sie enthält diese Datei keine einzige türkische Entscheidung.
+
+    '
+  - kvkk.gov.tr nicht erreichbar (07.09.2026) - Ersatzfundstelle suchen, etwa ueber das Resmi Gazete oder
+    das Webarchiv.
+  monitoring_quellen:
+  - https://www.kvkk.gov.tr/Icerik/7104/Karar-Ozetleri
+  - https://www.kvkk.gov.tr/
+  bezug_regelwerke:
+  - tr-kvkk-6698
+  - tr-kvkk-yz-tavsiyeler
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - '07.09.2026: kvkk.gov.tr ist im Browser des Bearbeiters nicht aufloesbar (DNS_PROBE_FINISHED_NXDOMAIN,
+    mit und ohne www). Ob die Behoerde die Domaene gewechselt hat oder ob es sich um eine Namensaufloesung
+    von aussen handelt, ist ungeklaert. Alle Verweise auf kvkk.gov.tr in diesem Eintrag sind bis zur Klaerung
+    als moeglicherweise tot zu behandeln.'
+- id: tr-fsek-5846
+  jurisdiktion: tr
+  kurztitel: Türkisches Urheberrechtsgesetz (Nr. 5846)
+  offizieller_titel: 'Fikir ve Sanat Eserleri Kanunu, Kanun No. 5846 — Gesetz über Werke der Wissenschaft
+    und Kunst Nr. 5846
+
+    '
+  fundstelle: 'Kanun No. 5846; konsolidierte Fassung auf mevzuat.gov.tr (Dokumentkennung 1.3.5846). Zuständig
+    ist die Generaldirektion für Urheberrecht des Kultur- und Tourismusministeriums (telifhaklari.gov.tr).
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Geltendes Urheberrecht der Türkei von 1951, seither vielfach geändert.
+    Es enthält KEINE Text- und Data-Mining-Schranke und keine Regelung über KI-Erzeugnisse. Nach Art.
+    1/B Buchst. a setzt der Werkbegriff die „Eigenart des Urhebers" („sahibinin hususiyetini taşıyan")
+    voraus — das wird einhellig als Erfordernis einer menschlichen Schöpfung gelesen, sodass KI-Erzeugnisse
+    ohne menschlichen Gestaltungsbeitrag schutzlos sind.
+
+    '
+  kurzbeschreibung: 'Regelt Werkarten (Wissenschaft und Literatur einschließlich Computerprogrammen, Musik,
+    bildende Kunst, Filmwerke), Urheberpersönlichkeits- und Verwertungsrechte, Schranken, Dauer (Leben
+    plus 70 Jahre), verwandte Schutzrechte, Verwertungs- gesellschaften sowie zivil- und strafrechtliche
+    Sanktionen (Art. 71 ff.).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5846.pdf
+  themenachsen:
+  - urheberrecht
+  - content
+  - haftung
+  regelungsschwerpunkte:
+  - 'Werkbegriff mit Eigenartserfordernis („sahibinin hususiyetini taşıyan") — die Norm, an der die Schutzfähigkeit
+    von KI-Erzeugnissen in der Türkei scheitert.
+
+    '
+  - 'Keine TDM-Schranke: Trainingsnutzungen sind am Vervielfältigungsrecht (Art. 22) und an der engen
+    Schranke für den persönlichen Gebrauch (Art. 38) zu messen; Art. 38 schließt eine gewerbliche Nutzung
+    ausdrücklich aus.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: 5846 sayılı Fikir ve Sanat Eserleri Kanunu
+    url: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5846.pdf
+    sprache: tr
+    urheber: Mevzuat Bilgi Sistemi
+    verifiziert: false
+    notiz: 'Nicht abrufbar (robots.txt-Fehler bei mevzuat.gov.tr, siehe Kopfkommentar). Die Dokumentkennung
+      1.3.5846 folgt dem Portalschema und ist NICHT verifiziert.
+
+      '
+  - datum: null
+    typ: uebersicht
+    titel: Telif Hakları Genel Müdürlüğü (Generaldirektion Urheberrecht)
+    url: https://www.telifhaklari.gov.tr/
+    sprache: tr
+    urheber: Kültür ve Turizm Bakanlığı
+    verifiziert: false
+    notiz: Am 06.09.2026 abgerufen; robots.txt-Prüfung mit Timeout gescheitert.
+  offene_punkte:
+  - 'Kabul Tarihi, Resmî-Gazete-Fundstelle und die Artikelwortlaute sind unbelegt.
+
+    '
+  - 'Ob die Türkei einen TDM-Schrankenentwurf im Verfahren hat, ist nicht geprüft.
+
+    '
+  monitoring_quellen:
+  - https://www.telifhaklari.gov.tr/
+  - https://www.mevzuat.gov.tr/
+  bezug_regelwerke:
+  - tr-tck-5237
+  letzte_pruefung: 2026-09-06
+- id: tr-tck-5237
+  jurisdiktion: tr
+  kurztitel: Türkisches Strafgesetzbuch (Nr. 5237)
+  offizieller_titel: 'Türk Ceza Kanunu, Kanun No. 5237 — Türkisches Strafgesetzbuch Nr. 5237
+
+    '
+  fundstelle: 'Kanun No. 5237; konsolidierte Fassung auf mevzuat.gov.tr (Dokumentkennung 1.5.5237).
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Es ist die Norm, an der Deepfakes in der Türkei strafrechtlich gemessen
+    werden. Ein eigener Deepfake-Tatbestand besteht nach dem Kenntnisstand bis Mai 2026 NICHT; erfasst
+    wird über die Tatbestände der Verletzung der Privatsphäre, der unbefugten Aufzeichnung und Weitergabe
+    personenbezogener Daten, der Beleidigung, der Obszönität und der öffentlichen Verbreitung irreführender
+    Informationen.
+
+    '
+  kurzbeschreibung: 'Für KI einschlägig sind namentlich Art. 134 (Verletzung der Privatsphäre, mit Qualifikation
+    bei Bild- und Tonaufzeichnung), Art. 135 (unbefugtes Aufzeichnen personenbezogener Daten), Art. 136
+    (unbefugte Weitergabe oder Erlangung personenbezogener Daten), Art. 138 (Nichtlöschung von Daten),
+    Art. 125 (Beleidigung), Art. 226 (Obszönität, mit besonderem Kinderschutztatbestand) und Art. 217/A
+    (öffentliche Verbreitung irreführender Informationen, eingefügt 2022).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf
+  themenachsen:
+  - content
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Art. 226 (müstehcenlik) erfasst nach seinem Wortlaut auch Darstellungen, die keine reale Person abbilden
+    — damit ist er der Anknüpfungspunkt für synthetische Missbrauchsdarstellungen.
+
+    '
+  - 'Art. 136 ist die in der türkischen Praxis am häufigsten angewandte Datenschutzstrafnorm und der Kanal,
+    über den Trainingsdatenbeschaffung strafrechtlich relevant werden kann.
+
+    '
+  - 'Art. 217/A wurde durch das Gesetz Nr. 7418 (2022) eingefügt und ist der türkische Desinformationstatbestand;
+    er wird in der Praxis auch auf KI-erzeugte Falschinformationen angewandt.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: 5237 sayılı Türk Ceza Kanunu
+    url: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf
+    sprache: tr
+    urheber: Mevzuat Bilgi Sistemi
+    verifiziert: false
+    notiz: Nicht abrufbar (siehe Kopfkommentar).
+  offene_punkte:
+  - 'Artikelnummern und -wortlaute sind unbelegt; insbesondere ist zu prüfen, ob seit 2024/2025 ein ausdrücklicher
+    Deepfake-Tatbestand eingefügt wurde. Der Auftragstext nennt eine „Novelle zum Deepfake-Straftatbestand,
+    falls erlassen" — das konnte weder bestätigt noch ausgeschlossen werden.
+
+    '
+  monitoring_quellen:
+  - https://www.mevzuat.gov.tr/
+  - https://www.resmigazete.gov.tr/
+  bezug_regelwerke:
+  - tr-5651
+  - tr-7418
+  letzte_pruefung: 2026-09-06
+- id: tr-5651
+  jurisdiktion: tr
+  kurztitel: Türkisches Internetgesetz (Nr. 5651)
+  offizieller_titel: 'İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen
+    Suçlarla Mücadele Edilmesi Hakkında Kanun, Kanun No. 5651 — Gesetz über die Regelung von Veröffentlichungen
+    im Internet und die Bekämpfung der dadurch begangenen Straftaten
+
+    '
+  fundstelle: 'Kanun No. 5651; konsolidierte Fassung auf mevzuat.gov.tr (Dokumentkennung 1.5.5651). Vollzug
+    durch die Bilgi Teknolojileri ve İletişim Kurumu (BTK) und die Erişim Sağlayıcıları Birliği.
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Es ist der zentrale Durchsetzungsmechanismus gegen KI-erzeugte Inhalte
+    in der Türkei: Sperr- und Löschanordnungen ergehen binnen Stunden, seit 2020 auch gegen ausländische
+    Plattformen mit Vertretungspflicht, Bandbreitendrosselung und Bußgeldern. Wer in der Türkei gegen
+    einen Deepfake vorgeht, geht praktisch über dieses Gesetz und nicht über das Strafrecht.
+
+    '
+  kurzbeschreibung: 'Regelt Verantwortlichkeit von Zugangs-, Hosting- und Inhalteanbietern, Sperr- und
+    Löschverfahren (Art. 8, 8/A, 9, 9/A), Vertretungspflicht ausländischer sozialer Netzwerke, Datenlokalisierung
+    für Nutzerdaten sowie Bußgelder und Bandbreitendrosselung. Art. 9 ermöglicht die Löschung persönlichkeitsrechtsverletzender
+    Inhalte binnen 24 Stunden, Art. 9/A die Sperrung bei Verletzung des Privatlebens binnen vier Stunden.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5651.pdf
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 9 und 9/A sind die schnellsten Rechtsbehelfe gegen Deepfakes im türkischen Recht — schneller
+    als jedes zivilrechtliche Eilverfahren.
+
+    '
+  - 'Die 2020 eingeführte Vertretungspflicht macht die Anordnungen gegenüber ausländischen Plattformen
+    faktisch durchsetzbar.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: 5651 sayılı Kanun
+    url: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5651.pdf
+    sprache: tr
+    urheber: Mevzuat Bilgi Sistemi
+    verifiziert: false
+    notiz: Nicht abrufbar (siehe Kopfkommentar).
+  - datum: null
+    typ: uebersicht
+    titel: BTK — Kurul Kararları (Vollzugsentscheidungen der Aufsichtsbehörde)
+    url: https://www.btk.gov.tr/kurul-kararlari
+    sprache: tr
+    urheber: Bilgi Teknolojileri ve İletişim Kurumu
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; die Entscheidungsliste ist mit Nummern, Daten und PDF-Adressen öffentlich.
+      Sie enthält nach dem Stand dieses Abrufs KEINE KI-bezogene Entscheidung. Die BTK ist einer der wenigen
+      türkischen Behördenserver, die aus dieser Umgebung erreichbar waren.
+
+      '
+  offene_punkte:
+  - Artikelwortlaute und Fassungsstand sind unbelegt.
+  monitoring_quellen:
+  - https://www.btk.gov.tr/kurul-kararlari
+  - https://www.btk.gov.tr/duyurular
+  bezug_regelwerke:
+  - tr-tck-5237
+  - tr-7418
+  letzte_pruefung: 2026-09-06
+- id: tr-7418
+  jurisdiktion: tr
+  kurztitel: Türkisches Desinformationsgesetz (Nr. 7418)
+  offizieller_titel: 'Basın Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun, Kanun No. 7418
+    — Gesetz zur Änderung des Pressegesetzes und einiger anderer Gesetze
+
+    '
+  fundstelle: Kanun No. 7418; Resmî Gazete, Oktober 2022.
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Artikelgesetz, das unter anderem den Tatbestand der öffentlichen Verbreitung
+    irreführender Informationen (Art. 217/A TCK) eingeführt und das Internetgesetz Nr. 5651 verschärft
+    hat. Es ist die Norm, unter der KI-erzeugte Falschinformationen in der Türkei strafrechtlich verfolgt
+    werden können.
+
+    '
+  kurzbeschreibung: 'Führt Art. 217/A TCK ein (Freiheitsstrafe von einem bis drei Jahren für die öffentliche
+    Verbreitung unwahrer Informationen über die innere und äußere Sicherheit, die öffentliche Ordnung
+    oder die allgemeine Gesundheit in einer Weise, die geeignet ist, die öffentliche Ruhe zu stören; Strafschärfung
+    bei Verschleierung der Identität oder Handeln im Rahmen einer Organisation) und ändert das Internet-
+    und das Pressegesetz.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Art. 217/A TCK ist die einzige türkische Strafnorm, die inhaltlich auf Desinformation zielt und deshalb
+    auf Deepfake-Kampagnen unmittelbar anwendbar ist.
+
+    '
+  dokumente: []
+  offene_punkte:
+  - 'Gesetzesnummer, Kabul Tarihi, Resmî-Gazete-Fundstelle und der Wortlaut des Art. 217/A sind unbelegt.
+
+    '
+  - 'Die Verfassungsmäßigkeit des Art. 217/A war Gegenstand eines Normenkontrollverfahrens vor dem Anayasa
+    Mahkemesi; der Ausgang konnte nicht geprüft werden, weil anayasa.gov.tr aus dieser Umgebung nicht
+    erreichbar war.
+
+    '
+  monitoring_quellen:
+  - https://www.resmigazete.gov.tr/
+  - https://www.anayasa.gov.tr/
+  bezug_regelwerke:
+  - tr-tck-5237
+  - tr-5651
+  letzte_pruefung: 2026-09-06
+- id: tr-nais
+  jurisdiktion: tr
+  kurztitel: Nationale KI-Strategie der Türkei
+  offizieller_titel: 'Ulusal Yapay Zekâ Stratejisi 2021–2025 — Nationale Strategie für künstliche Intelligenz
+    2021–2025
+
+    '
+  fundstelle: 'Herausgegeben vom Digitalisierungsamt des Präsidialamts (Cumhurbaşkanlığı Dijital Dönüşüm
+    Ofisi, CBDDO) gemeinsam mit dem Ministerium für Industrie und Technologie; nach dem Kenntnisstand
+    durch ein Präsidialrundschreiben (Cumhurbaşkanlığı Genelgesi) im Resmî Gazete bekanntgemacht. Portal:
+    cbddo.gov.tr.
+
+    '
+  status: softlaw
+  status_detail: 'UNVERIFIZIERT. Strategie ohne Rechtssatzform mit sechs strategischen Prioritäten und
+    Maßnahmenpaketen bis 2025; als Ziel unter anderem ein Anteil der KI-Wertschöpfung von 5 % am BIP und
+    50 000 Beschäftigte im KI-Bereich. Ob eine Fortschreibung (2026 ff.) beschlossen wurde, war nicht
+    feststellbar; cbddo.gov.tr war aus dieser Umgebung nicht erreichbar.
+
+    '
+  kurzbeschreibung: 'Sechs Prioritäten: Ausbildung von KI-Fachkräften und Beschäftigung, Förderung von
+    Forschung und Innovation, Zugang zu hochwertigen Daten und technischer Infrastruktur, Regulierung
+    zur Beschleunigung sozioökonomischer Anpassung, internationale Zusammenarbeit, Beschleunigung struktureller
+    und arbeitsmarktbezogener Umgestaltung. Rechtsfolgen entstehen nicht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://cbddo.gov.tr/
+  themenachsen:
+  - governance
+  - arbeit
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Die Strategie kündigt Regulierung ausdrücklich als eigenes Handlungsfeld an; der Gesetzentwurf 2/2234
+    ist deren bislang einziger sichtbarer Niederschlag.
+
+    '
+  dokumente:
+  - datum: null
+    typ: bericht
+    titel: Ulusal Yapay Zekâ Stratejisi 2021–2025
+    url: https://cbddo.gov.tr/
+    sprache: tr
+    urheber: Cumhurbaşkanlığı Dijital Dönüşüm Ofisi
+    verifiziert: false
+    notiz: 'cbddo.gov.tr war am 06.09.2026 in zwei Versuchen nicht erreichbar (robots.txt-Prüfung mit
+      ConnectTimeout). Die Direktadresse des Strategiedokuments ist deshalb unbekannt.
+
+      '
+  offene_punkte:
+  - 'Datum, Rundschreibennummer, Fundstelle im Resmî Gazete und der Text sind unbelegt; ebenso, ob es
+    eine Fortschreibung für die Zeit nach 2025 gibt.
+
+    '
+  monitoring_quellen:
+  - https://cbddo.gov.tr/
+  - https://www.resmigazete.gov.tr/
+  bezug_regelwerke:
+  - tr-yz-kanun-teklifi-2234
+  letzte_pruefung: 2026-09-06
+- id: tr-dijital-mecralar-komisyonu
+  jurisdiktion: tr
+  kurztitel: Ausschuss für digitale Medien des TBMM
+  offizieller_titel: 'Dijital Mecralar Komisyonu — Ausschuss für digitale Medien der Großen Türkischen
+    Nationalversammlung
+
+    '
+  fundstelle: 'Errichtet durch das Gesetz Nr. 7252 vom 23.07.2020. Ausschussseite: tbmm.gov.tr/ihtisas-komisyonlari/…/dijital-mecralar-komisyonu
+
+    '
+  status: anwendbar
+  status_detail: 'VERIFIZIERT hinsichtlich Errichtungsgesetz und Mandat (am 06.09.2026 auf der amtlichen
+    Ausschussseite gelesen). Der Ausschuss ist der wahrscheinliche Ort der parlamentarischen Behandlung
+    von KI-Vorlagen mit Inhaltsbezug; ein KI-Vorgang war auf der Seite jedoch nicht ausgewiesen.
+
+    '
+  kurzbeschreibung: 'Ständiger Fachausschuss mit dem Auftrag, die rechtswidrige Nutzung des Internets
+    zu untersuchen — namentlich Verstöße gegen Gesetze, Verletzungen von Persönlichkeitsrechten und der
+    Privatsphäre, Beeinträchtigungen der Grundrechte und Gefährdungen der körperlichen und seelischen
+    Entwicklung von Kindern. Er prüft Gesetzesvorlagen, gibt Empfehlungen und verfolgt internationale
+    Entwicklungen zur rechtmäßigen Internetnutzung.
+
+    '
+  inkrafttreten:
+    datum: 2020-07-23
+    verifiziert: true
+    quelle: https://www.tbmm.gov.tr/ihtisas-komisyonlari/Icerik/ihtisas-komisyonlari-dijital-mecralar-komisyonu-hakkinda/dijital-mecralar-komisyonu/f72877d1-b4c7-037b-e050-007f01005610
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Das Errichtungsgesetz Nr. 7252 vom 23.07.2020 ist zugleich das Gesetz, mit dem die Vertretungspflicht
+    sozialer Netzwerke in das Internetgesetz Nr. 5651 eingefügt wurde.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Dijital Mecralar Komisyonu (amtliche Ausschussseite)
+    url: https://www.tbmm.gov.tr/ihtisas-komisyonlari/Icerik/ihtisas-komisyonlari-dijital-mecralar-komisyonu-hakkinda/dijital-mecralar-komisyonu/f72877d1-b4c7-037b-e050-007f01005610
+    sprache: tr
+    urheber: Türkiye Büyük Millet Meclisi
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; nennt das Errichtungsgesetz Nr. 7252 vom 23.07.2020 und das Mandat.
+      Die Rubrik „KOMİSYONA HAVALE EDİLEN İŞLER" ist auf der Seite angelegt, wurde aber ohne Inhalt ausgeliefert.
+
+      '
+  offene_punkte:
+  - 'Ob dem Ausschuss ein KI-Gesetzentwurf überwiesen wurde, ist offen.
+
+    '
+  monitoring_quellen:
+  - https://www.tbmm.gov.tr/ihtisas-komisyonlari/liste
+  bezug_regelwerke:
+  - tr-5651
+  - tr-yz-kanun-teklifi-2234
+  letzte_pruefung: 2026-09-06
+- id: tr-btk
+  jurisdiktion: tr
+  kurztitel: Türkische Telekommunikations- und Internetaufsicht (BTK)
+  offizieller_titel: 'Bilgi Teknolojileri ve İletişim Kurumu (BTK) — Behörde für Informationstechnologien
+    und Kommunikation
+
+    '
+  fundstelle: 'Behördenseite btk.gov.tr; Entscheidungen unter btk.gov.tr/kurul-kararlari, Bekanntmachungen
+    unter btk.gov.tr/duyurular.
+
+    '
+  status: anwendbar
+  status_detail: 'Vollzugsbehörde des Internetgesetzes Nr. 5651 und des Gesetzes über die elektronische
+    Kommunikation. Sie ist damit die Stelle, die KI-erzeugte Inhalte in der Türkei tatsächlich sperrt.
+    Eigene KI-Regelungen hat sie nach dem Stand ihrer amtlichen Entscheidungs- und Bekanntmachungsliste
+    vom 06.09.2026 NICHT erlassen.
+
+    '
+  kurzbeschreibung: 'Reguliert elektronische Kommunikation, Netz- und Informationssicherheit, Verbraucherrechte
+    im Telekommunikations- bereich sowie den Vollzug des Internetgesetzes; erlässt Kurul-Entscheidungen
+    mit Nummern nach dem Muster JJJJ/DK- bzw. İK-<Abteilung>/<lfd. Nr.>.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.btk.gov.tr/kurul-kararlari
+  themenachsen:
+  - content
+  - governance
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Die zehn jüngsten veröffentlichten Kurul-Entscheidungen (04.08.2026 bis 06.02.2026) betreffen Dienstqualität,
+    Marktanalysen, Nummerierung, Netz- und Informationssicherheit — keine einzige betrifft KI. Das ist
+    ein belastbarer Negativbefund.
+
+    '
+  dokumente:
+  - datum: 2026-08-04
+    typ: bericht
+    titel: 'Kurul Kararı 2026/İK-THD/186 — Geçici 8. Madde Usul ve Esasları ile 2009/DK-10/552 sayılı
+      Kurul Kararı Tadili
+
+      '
+    url: https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/08/3f301285-460a-4fbc-95b0-7d137b64a8d0.pdf
+    sprache: tr
+    urheber: BTK
+    verifiziert: true
+    notiz: 'Beispielhaft aufgenommen, um die amtliche Adressstruktur der BTK-Entscheidungen für den nächsten
+      Bearbeiter zu dokumentieren (btk.gov.tr/s3/web-btk-site/<uuid>/<jahr>/<monat>/<uuid>.pdf). Am 06.09.2026
+      aus der Entscheidungsliste übernommen.
+
+      '
+  - datum: 2026-03-24
+    typ: bericht
+    titel: 'Kurul Kararı 2026/DK-YED/71 — Yetkilendirme Mevzuatı ve Şebeke ve Bilgi Güvenliğine İlişkin
+      Düzenlemeler
+
+      '
+    url: https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/af26a6a3-a505-406c-9785-67c08abccbc3.pdf
+    sprache: tr
+    urheber: BTK
+    verifiziert: true
+    notiz: Am 06.09.2026 aus der amtlichen Entscheidungsliste übernommen.
+  offene_punkte:
+  - 'Die Entscheidungsliste wurde nur auf der ersten Seite gesichtet; ältere Jahrgänge sind nicht durchgesehen.
+
+    '
+  - 'Die in der Liste mehrfach genannte „7571 sayılı Kanun" konnte nicht identifiziert werden, weil mevzuat.gov.tr
+    nicht erreichbar war. Der nächste Bearbeiter sollte prüfen, ob es sich um eine Novelle des Gesetzes
+    über die elektronische Kommunikation handelt und ob sie KI-Bezüge enthält.
+
+    '
+  monitoring_quellen:
+  - https://www.btk.gov.tr/kurul-kararlari
+  - https://www.btk.gov.tr/duyurular
+  bezug_regelwerke:
+  - tr-5651
+  letzte_pruefung: 2026-09-06
+- id: ae-aiatc
+  jurisdiktion: ae
+  subjurisdiktion: ae-az
+  kurztitel: Abu Dhabis KI- und Fortschrittstechnologierat (AIATC)
+  offizieller_titel: 'Artificial Intelligence and Advanced Technology Council (AIATC) — Rat für künstliche
+    Intelligenz und fortgeschrittene Technologien des Emirats Abu Dhabi
+
+    '
+  fundstelle: 'Errichtet durch Beschluss des Exekutivrats des Emirats Abu Dhabi; auf dem Bundesportal
+    u.ae als eines der KI-Gremien der VAE geführt.
+
+    '
+  status: softlaw
+  status_detail: 'Emiratsgremium Abu Dhabis. Es ist kein Aufsichts-, sondern ein Struktur- und Investitionsgremium:
+    Es entwickelt die KI-Standortstrategie Abu Dhabis und die Finanzierungs- und Investitionspläne (unter
+    anderem für die Beteiligungsgesellschaft MGX und die Modellfamilie Falcon des Technology Innovation
+    Institute). Rechtsetzungsbefugnisse sind nicht ersichtlich.
+
+    '
+  kurzbeschreibung: 'Zuständig für die KI-Strategie des Emirats Abu Dhabi, die Bündelung staatlicher KI-Beteiligungen
+    und die Ansiedlung von Rechenzentrums- und Modellkapazität. Er steht neben dem Bundes-KI-Rat und ist
+    von ihm unabhängig.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence/artificial-intelligence-in-government-policies
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Die VAE haben drei nebeneinanderstehende KI-Gremien — Bundesrat für KI und Blockchain, Abu Dhabis
+    AIATC und die Dubai Digital Authority. Eine Zuständigkeitsabgrenzung ist nicht veröffentlicht.
+
+    '
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Artificial Intelligence in government policies (u.ae)
+    url: https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence/artificial-intelligence-in-government-policies
+    sprache: en
+    urheber: u.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen; die Seite nennt den AIATC mit dem Aufgabenkreis „Abu Dhabi''s AI
+      hub strategy" und „financing and investment plans for AI".
+
+      '
+  offene_punkte:
+  - Errichtungsakt, Datum und Besetzung sind unbelegt.
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence
+  bezug_regelwerke:
+  - ae-ki-rat
+  letzte_pruefung: 2026-09-06
+- id: ae-metaverse-rahmen
+  jurisdiktion: ae
+  kurztitel: Selbstregulierungsrahmen für ein verantwortliches Metaverse
+  offizieller_titel: 'Responsible Metaverse Self-governance Framework — Rahmenwerk zur Selbstregulierung
+    eines verantwortlichen Metaverse
+
+    '
+  fundstelle: 'VAE-Regierung; veröffentlicht auf dem amtlichen Regierungsportal u.ae (assets.u.ae), dort
+    unter „AI resources" geführt.
+
+    '
+  status: softlaw
+  status_detail: 'Selbstregulierungsrahmen ohne Rechtsfolgen. Er ist hier erfasst, weil er zusammen mit
+    dem KI-Ethikrahmen die Regelungstechnik der VAE belegt: Statt Gesetzgebung wird ein Rahmen zur freiwilligen
+    Selbstbindung veröffentlicht.
+
+    '
+  kurzbeschreibung: 'Grundsätze für Betreiber und Nutzer virtueller Welten (u.a. Identität, Sicherheit,
+    Datenschutz, Inhalte, digitale Vermögenswerte). Inhalt nicht ausgewertet.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://assets.u.ae/api/public/content/fe9b4c8a77964b9cb3121f58423f08d8?v=c0ce4c96
+  themenachsen:
+  - governance
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - Nicht ausgewertet.
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: Responsible Metaverse Self-governance Framework
+    url: https://assets.u.ae/api/public/content/fe9b4c8a77964b9cb3121f58423f08d8?v=c0ce4c96
+    sprache: en
+    urheber: VAE-Regierung
+    verifiziert: false
+    notiz: 'Die Adresse stammt aus der am 06.09.2026 vollständig ausgelesenen Linkliste der amtlichen
+      Seite „AI resources" auf u.ae; die Datei selbst wurde nicht geöffnet.
+
+      '
+  offene_punkte:
+  - Datum, Urheber und Inhalt nicht geprüft.
+  monitoring_quellen:
+  - https://u.ae/en/about-the-uae/digital-uae/digital-technology/artificial-intelligence/ai-resources
+  bezug_regelwerke:
+  - ae-ki-ethik-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: sa-ecommerce
+  jurisdiktion: sa
+  kurztitel: Saudisches E-Commerce-Gesetz
+  offizieller_titel: 'نظام التجارة الإلكترونية — Niẓām al-tijāra al-iliktrūniyya — Gesetz über den elektronischen
+    Handel
+
+    '
+  fundstelle: Königliches Dekret; amtliche Textausgabe laws.boe.gov.sa.
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Es regelt Informationspflichten, Werbung, Vertragsschluss und Datenschutz
+    im elektronischen Handel und ist damit die Norm, an der KI-gestützte Empfehlungssysteme, Preisgestaltung
+    und Chatbots gegenüber saudischen Verbrauchern zu messen sind.
+
+    '
+  kurzbeschreibung: 'Pflichten des elektronischen Anbieters (Identität, Produktinformation, Preisangabe),
+    Regelungen zu Werbung und unlauteren Praktiken, Rücktrittsrechte, Datenschutzpflichten und Bußgelder;
+    Vollzug durch das Handelsministerium.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  themenachsen:
+  - vertrag
+  - wettbewerb
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Die Informations- und Wahrheitspflichten sind der praktische Ansatzpunkt gegen irreführende KI-gestützte
+    Werbung, solange kein KI-Gesetz besteht.
+
+    '
+  dokumente:
+  - datum: null
+    typ: endfassung
+    titel: نظام التجارة الإلكترونية
+    url: https://laws.boe.gov.sa/BoeLaws/Laws/
+    sprache: ar
+    urheber: هيئة الخبراء بمجلس الوزراء
+    verifiziert: false
+    notiz: Host am 06.09.2026 nicht erreichbar.
+  offene_punkte:
+  - Dekretnummer, Datum und Artikelinhalte unbelegt.
+  monitoring_quellen:
+  - https://laws.boe.gov.sa/
+  bezug_regelwerke:
+  - sa-pdpl
+  letzte_pruefung: 2026-09-06
+- id: tr-6563
+  jurisdiktion: tr
+  kurztitel: Türkisches E-Commerce-Gesetz (Nr. 6563)
+  offizieller_titel: 'Elektronik Ticaretin Düzenlenmesi Hakkında Kanun, Kanun No. 6563 — Gesetz über die
+    Regelung des elektronischen Handels Nr. 6563
+
+    '
+  fundstelle: 'Kanun No. 6563; konsolidierte Fassung auf mevzuat.gov.tr (Dokumentkennung 1.5.6563). Vollzug
+    durch das Handelsministerium.
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Nach der Novelle von 2022 enthält das Gesetz Vorgaben für Vermittlungsdienstleister
+    und Marktplätze, unter anderem zur Transparenz von Rangfolgekriterien und zur Nutzung von Daten aus
+    dem Marktplatzbetrieb — die praktisch nächstliegende türkische Norm für algorithmische Empfehlungs-
+    und Ranking-Systeme.
+
+    '
+  kurzbeschreibung: 'Regelt Informationspflichten, kommerzielle Kommunikation, Verantwortlichkeit von
+    Vermittlungsdienstleistern und — seit 2022 — besondere Pflichten für elektronische Marktplätze (Rangfolgetransparenz,
+    Datennutzungsverbote, Werbe- und Rabattgrenzen, Lizenzpflicht ab Umsatzschwellen).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6563.pdf
+  themenachsen:
+  - vertrag
+  - wettbewerb
+  - content
+  regelungsschwerpunkte:
+  - 'Rangfolgetransparenz für Marktplätze — funktional das türkische Gegenstück zu Art. 27 DSA und Art.
+    5 P2B-VO und damit die einzige geltende türkische Norm, die algorithmische Ordnung ausdrücklich erfasst.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun
+    url: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6563.pdf
+    sprache: tr
+    urheber: Mevzuat Bilgi Sistemi
+    verifiziert: false
+    notiz: Nicht abrufbar (siehe Kopfkommentar). Dokumentkennung nicht verifiziert.
+  offene_punkte:
+  - Kabul Tarihi, Fundstelle und Artikelinhalte unbelegt.
+  monitoring_quellen:
+  - https://www.mevzuat.gov.tr/
+  - https://ticaret.gov.tr/
+  bezug_regelwerke:
+  - tr-5651
+  letzte_pruefung: 2026-09-06
+- id: tr-6112
+  jurisdiktion: tr
+  kurztitel: Türkisches Rundfunkgesetz (Nr. 6112)
+  offizieller_titel: 'Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanun, Kanun No. 6112
+    — Gesetz über die Errichtung von Radio- und Fernsehanstalten und über Rundfunkdienste Nr. 6112
+
+    '
+  fundstelle: 'Kanun No. 6112; konsolidierte Fassung auf mevzuat.gov.tr (Dokumentkennung 1.5.6112). Vollzug
+    durch den Radyo ve Televizyon Üst Kurulu (RTÜK).
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT. Seit der Novelle von 2018 und der zugehörigen Verordnung erfasst das
+    Gesetz auch Rundfunkdienste im Internet (einschließlich Abrufdiensten). Damit ist RTÜK die Behörde,
+    die über KI-erzeugte oder KI-moderierte audiovisuelle Inhalte in der Türkei entscheidet — etwa über
+    synthetische Nachrichtensprecher und manipulierte Beiträge.
+
+    '
+  kurzbeschreibung: 'Regelt Zulassung, Programmgrundsätze, Werbung, Jugendschutz und Sanktionen für Rundfunkdienste;
+    seit 2018 auch für Internet- Rundfunk. Sanktionen: Verwarnung, Bußgeld, Programmaussetzung, Lizenzentzug,
+    Sperrung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6112.pdf
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Programmgrundsätze mit Wahrheits- und Sorgfaltsgebot sind der Ansatzpunkt gegen synthetische Bewegtbildinhalte
+    im lizenzierten Rundfunk und in Abrufdiensten.
+
+    '
+  dokumente:
+  - datum: null
+    typ: konsolidiert
+    titel: 6112 sayılı Kanun
+    url: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6112.pdf
+    sprache: tr
+    urheber: Mevzuat Bilgi Sistemi
+    verifiziert: false
+    notiz: Nicht abrufbar; Dokumentkennung nicht verifiziert.
+  offene_punkte:
+  - 'Ob RTÜK zu KI-erzeugten Inhalten Grundsatzentscheidungen erlassen hat, konnte nicht geprüft werden:
+    rtuk.gov.tr war am 06.09.2026 nicht erreichbar (Serverfehler beim Abruf).
+
+    '
+  monitoring_quellen:
+  - https://www.rtuk.gov.tr/
+  - https://www.mevzuat.gov.tr/
+  bezug_regelwerke:
+  - tr-5651
+  - tr-7418
+  letzte_pruefung: 2026-09-06
+- id: ae-medien-dekret
+  jurisdiktion: ae
+  kurztitel: Mediengesetz der VAE
+  offizieller_titel: 'مرسوم بقانون اتحادي في شأن تنظيم الإعلام — Federal Decree by Law Concerning Media
+    Regulation — Bundesdekretgesetz über die Regelung der Medien
+
+    '
+  fundstelle: 'NUMMER UND JAHR NICHT BELEGT. Das Gesetz wird auf der Startseite des amtlichen Rechtsportals
+    uaelegislation.gov.ae unter „Latest legislation" an erster Stelle geführt (Abruf 06.09.2026); eine
+    Nummer nennt die Startseite nicht, und die Portalsuche antwortet auf jede Anfrage mit Query-String
+    mit HTTP 403.
+
+    '
+  status: anwendbar
+  status_detail: 'UNVERIFIZIERT bis auf die Existenz. Das Mediengesetz und die Rechtsakte des Media Regulatory
+    Office sind für KI-erzeugte Medieninhalte in den VAE die vorrangige verwaltungsrechtliche Ebene: Medieninhalte
+    unterliegen einer Zulassungs- und Inhaltskontrolle, die neben das Cyberstrafrecht tritt. Der Text
+    wurde nicht gelesen.
+
+    '
+  kurzbeschreibung: 'Regelt die Medientätigkeit in den VAE — Zulassung von Medienunternehmen und -tätigkeiten,
+    Inhaltsstandards, Werbung und Sanktionen. Ob es Kennzeichnungspflichten für KI-erzeugte Inhalte enthält,
+    ist ungeprüft.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://uaelegislation.gov.ae/en
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Nicht ausgewertet.
+  dokumente:
+  - datum: null
+    typ: uebersicht
+    titel: Federal Decree by Law Concerning Media Regulation (Nachweis auf der Portalstartseite)
+    url: https://uaelegislation.gov.ae/en
+    sprache: en
+    urheber: uaelegislation.gov.ae
+    verifiziert: true
+    notiz: 'Am 06.09.2026 abgerufen: Die Startseite des amtlichen Rechtsportals führt das Gesetz unter
+      „Latest legislation". Damit ist seine Existenz belegt, nicht aber Nummer, Datum, Fundstelle oder
+      Inhalt.
+
+      '
+  offene_punkte:
+  - 'Nummer, Jahr, Erlassdatum, Amtsblattfundstelle und Inhalt sind unbelegt. Ebenso ungeprüft sind die
+    Ausführungsrechtsakte des Media Regulatory Office und die Frage, ob sie Kennzeichnungspflichten für
+    KI-erzeugte Medieninhalte enthalten.
+
+    '
+  monitoring_quellen:
+  - https://uaelegislation.gov.ae/en/legislations
+  bezug_regelwerke:
+  - ae-cybercrime-34-2021
+  - ae-deepfake-leitfaden
+  letzte_pruefung: 2026-09-06

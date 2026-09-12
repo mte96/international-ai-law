@@ -1,0 +1,2710 @@
+regelwerke:
+- id: il-ki-politik-2023
+  jurisdiktion: il
+  kurztitel: Israelische KI-Politik 2023 (Grundsatzdokument)
+  offizieller_titel: 'עקרונות מדיניות, רגולציה ואתיקה בתחום הבינה המלאכותית — Ikronot mediniut, regulatsia
+    ve-etika be-tchum ha-bina ha-melachutit / "Israel''s Policy on Artificial Intelligence Regulation
+    and Ethics" (Untertitel der englischen Fassung: "Responsible Innovation")'
+  fundstelle: Regierungsdokument ohne Gesetzblattfundstelle; herausgegeben vom משרד החדשנות, המדע והטכנולוגיה
+    (Ministerium fuer Innovation, Wissenschaft und Technologie) gemeinsam mit dem משרד המשפטים, ייעוץ
+    וחקיקה (Justizministerium, Abteilung Beratung und Gesetzgebung), Jerusalem, 14.12.2023; veroeffentlicht
+    am 18.12.2023
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Nach wie vor das massgebliche Grundsatzdokument der israelischen KI-Regulierung und
+    bis heute nicht durch ein Gesetz abgeloest. Seine institutionelle Traegerschaft hat sich jedoch verschoben:
+    Mit Regierungsbeschluss 3375 vom 21.09.2025 wurde das Handlungsfeld "Politik und Regulierung der kuenstlichen
+    Intelligenz" vom Innovationsministerium in das Amt des Ministerpraesidenten verlagert. Die zentrale
+    institutionelle Empfehlung des Dokuments — ein staatliches KI-Wissens- und Koordinierungszentrum —
+    wurde in der urspruenglich vorgesehenen Form nie umgesetzt; der Staatskontrolleur hat das im November
+    2024 ausdruecklich geruegt.'
+  kurzbeschreibung: 'Das Dokument ist Israels bewusste Absage an ein Horizontalgesetz nach europaeischem
+    Muster. Es empfiehlt der Regierung, KI nicht durch ein uebergreifendes Gesetz, sondern durch die vorhandenen
+    Fachaufsichten sektoral zu regeln, sich dabei an den OECD-KI-Grundsaetzen zu orientieren, risikobasiert
+    vorzugehen, Regulierungsexperimente (Sandkaesten) zu nutzen und vorrangig weiche Instrumente einzusetzen
+    — nicht bindende ethische Grundsaetze, Standards und Empfehlungen zur freiwilligen Uebernahme. Es
+    benennt sieben Problemfelder (Diskriminierung, menschliche Beteiligung, Erklaerbarkeit, Offenlegung
+    der KI-Interaktion, Verlaesslichkeit und Sicherheit, Verantwortlichkeit und Haftung, Privatheit) und
+    spricht sieben Empfehlungen aus. Sanktionen enthaelt es keine: Es ist kein Rechtsakt, sondern eine
+    Regierungsposition. Seine praktische Wirkung liegt darin, dass die israelischen Fachaufsichten — Bankenaufsicht,
+    Wertpapieraufsicht, Kapitalmarktaufsicht, Gesundheitsministerium, Datenschutzbehoerde — ihre KI-Arbeit
+    ausdruecklich darauf stuetzen.'
+  inkrafttreten:
+    datum: 2023-12-18
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/news/most-news20231218/he/2023%20Artificial%20Intelligence%20Regulation%20and%20Ethics%20Policy%20Principles%20Document.pdf
+  anwendungsdaten:
+  - datum: 2022-11-17
+    was_gilt: 'Vorlaeufer: Weissbuch "עקרונות מדיניות, רגולציה ואתיקה בבינה מלאכותית" (Grundsaetze der
+      Politik, Regulierung und Ethik bei kuenstlicher Intelligenz) zur oeffentlichen Konsultation.'
+    verifiziert: false
+    quelle: https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf
+  - datum: 2023-12-14
+    was_gilt: Datum des hebraeischen Grundsatzdokuments (im PDF gedruckt).
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/news/most-news20231218/he/2023%20Artificial%20Intelligence%20Regulation%20and%20Ethics%20Policy%20Principles%20Document.pdf
+  - datum: 2024-11-01
+    was_gilt: Sonderbericht des Staatskontrolleurs stellt fest, dass keine eigene nationale KI-Verwaltungseinheit
+      eingerichtet wurde und die Fuehrungsverantwortung ohne klare Zurechnung auf mehrere Stellen verteilt
+      bleibt.
+    verifiziert: true
+    quelle: https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2024/2024.11-Cyber/2024.11-Cyber-107-AI.pdf
+  - datum: 2025-09-21
+    was_gilt: Regierungsbeschluss 3375 verlagert das Handlungsfeld "Politik und Regulierung der KI" aus
+      dem Innovationsministerium in das Amt des Ministerpraesidenten (Nationaler KI-Stab).
+    verifiziert: false
+    quelle: https://www.gov.il/he/pages/dec4255-2026
+  themenachsen:
+  - governance
+  - marktzugang
+  - grundrechte
+  - datenschutz
+  - haftung
+  - sektor-finanz
+  - sektor-medizin
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Aufbau des Dokuments: (1) Hintergrund und KI-Begriff, (2) geltende Rechts- und Regulierungslage in
+    Israel, (3) internationale Entwicklung (OECD, EU, Vereinigtes Koenigreich, USA, Kanada), (4) Problemfelder,
+    (5) Loesungsansaetze, (6) sieben Empfehlungen.'
+  - 'Empfehlung 1 (die tragende): Israel soll eine SEKTORALE Regulierungspolitik verfolgen. Der Regulierungsbedarf
+    ist von der jeweils zustaendigen Fachaufsicht anhand konkreter Bedarfe zu beurteilen, nicht durch
+    ein uebergreifendes Gesetz. Ausdruecklich offen gehalten: Der Bedarf an einer Horizontalgesetzgebung
+    ist periodisch neu zu bewerten. Das ist keine Ablehnung fuer alle Zeit, sondern eine Verschiebung
+    der Beweislast auf denjenigen, der ein Gesetz will.'
+  - 'Empfehlung 2: Uebernahme ethischer Grundsaetze fuer KI auf Grundlage der OECD-Empfehlung — mit den
+    Leitprinzipien menschenzentrierter Ansatz, Gleichheit und Nichtdiskriminierung, Transparenz und Erklaerbarkeit,
+    Verlaesslichkeit und Sicherheit, Rechenschaft, Schutz der Privatheit.'
+  - 'Empfehlung 3: Einrichtung eines staatlichen KI-Wissens- und Koordinierungszentrums (in der englischen
+    Fassung "AI Policy Coordination Center") mit Steuerungsausschuss unter Vorsitz des Innovationsministeriums
+    und Beteiligung von Justizministerium, Finanzministerium und Datenschutzbehoerde. Aufgaben: Beratung
+    der Fachaufsichten, ressortuebergreifende Kohaerenz, internationale Vertretung Israels in KI-Regulierungsfragen.'
+  - 'Empfehlung 4 (Sofortmassnahme): Regierungsstellen und Fachaufsichten sollen unverzueglich die konkreten
+    KI-Anwendungen und die damit verbundenen Risiken in ihrem Sektor kartieren.'
+  - 'Empfehlung 5: Einrichtung eines Regulierungsforums der Aufsichtsbehoerden sowie eines Forums fuer
+    die interessierte Oeffentlichkeit (Industrie, Wissenschaft, Zivilgesellschaft).'
+  - 'Empfehlung 6: Aktive Beteiligung an der internationalen Regulierungsentwicklung — Interoperabilitaet
+    mit den fuehrenden Rechtsordnungen als eigenstaendiges Politikziel (Israel ist OECD-Mitglied und hat
+    2018 die Angemessenheitsentscheidung der EU-Kommission zur Datenuebermittlung).'
+  - 'Empfehlung 7: Bereitstellung praktischer Werkzeuge — insbesondere eines Risikomanagementrahmens,
+    der eine gemeinsame Terminologie fuer die Aufsichtsbehoerden schafft, damit Regulierer und Private
+    Risiken einheitlich bewerten und mindern.'
+  - 'Die sieben identifizierten Problemfelder: Diskriminierung durch Verzerrungen in Trainingsdaten; Ausmass
+    menschlicher Beteiligung an automatisierten Entscheidungen; Erklaerbarkeit (Black-Box-Problem); Offenlegung,
+    dass man mit einem KI-System interagiert; Verlaesslichkeit, Robustheit, Sicherheit; Rechenschaft und
+    rechtliche Haftung; Schutz der Privatheit.'
+  - 'Was das Dokument NICHT tut: Es definiert kein KI-System rechtsverbindlich, kennt keine Risikoklassen
+    mit Rechtsfolgen, keine Konformitaetsbewertung, keine Registrierung, keine Marktueberwachungsbehoerde
+    und keine Sanktion. Wer in Israel nach dem Aequivalent zu Art. 6 und Anhang III der KI-VO sucht, findet
+    nichts — und das ist die Aussage.'
+  dokumente:
+  - datum: 2023-12-18
+    typ: leitlinie
+    titel: Israel's Policy on Artificial Intelligence Regulation and Ethics (englische Fassung)
+    url: https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf
+    sprache: en
+    urheber: Ministry of Innovation, Science and Technology; Ministry of Justice, Office of Legal Counsel
+      and Legislative Affairs
+    verifiziert: true
+    notiz: Die englische Fassung ist die international zitierte. Sie enthaelt die sechs Leitprinzipien
+      und die sieben Empfehlungen; das Vorwort verweist auf das Weissbuch vom 17.11.2022.
+  - datum: 2023-12-14
+    typ: leitlinie
+    titel: עקרונות מדיניות, רגולציה ואתיקה בתחום הבינה המלאכותית (hebraeisches Original)
+    url: https://www.gov.il/BlobFolder/news/most-news20231218/he/2023%20Artificial%20Intelligence%20Regulation%20and%20Ethics%20Policy%20Principles%20Document.pdf
+    sprache: he
+    urheber: משרד החדשנות, המדע והטכנולוגיה; משרד המשפטים
+    verifiziert: true
+    notiz: Traegt als Datum den 14.12.2023. Massgeblich fuer den genauen Wortlaut der sieben Empfehlungen.
+  - datum: 2023-12-18
+    typ: uebersicht
+    titel: Landing-Page des Innovationsministeriums zur KI-Politik
+    url: https://www.gov.il/en/pages/ai_2023
+    sprache: en
+    urheber: Ministry of Innovation, Science and Technology
+    verifiziert: false
+    notiz: Amtliche Uebersichtsseite. Konnte am 05.09.2026 weder mit WebFetch noch im Browser gerendert
+      werden (gov.il liefert nur die Anwendungshuelle); die verlinkten PDF sind dagegen abrufbar.
+  - datum: 2024-11-01
+    typ: bericht
+    titel: ההיערכות הלאומית בתחום הבינה המלאכותית — דוח מיוחד (Nationale Aufstellung im Bereich der kuenstlichen
+      Intelligenz, Sonderbericht des Staatskontrolleurs)
+    url: https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2024/2024.11-Cyber/2024.11-Cyber-107-AI.pdf
+    sprache: he
+    urheber: מבקר המדינה — Staatskontrolleur und Ombudsmann des Staates Israel
+    verifiziert: true
+    notiz: 'Der schaerfste amtliche Befund zur israelischen KI-Politik: Israel fiel im Tortoise-Index
+      von Platz 5 (2020) auf Platz 9 (2024), im Oxford-Index von Platz 20 auf Platz 30; weder die nationale
+      Initiative von 2020 noch die Empfehlungen des KI- und Data-Science-Ausschusses von Dezember 2020
+      wurden je als einheitliche Strategie von der Regierung beschlossen; es fehlt an einer eigenen nationalen
+      KI-Verwaltungseinheit und an umfassender KI-Gesetzgebung. Der Bericht ist die Vorgeschichte des
+      Nagel-Ausschusses und des Nationalen KI-Stabs.'
+  offene_punkte:
+  - Das Dokument kuendigt eine periodische Ueberpruefung des Bedarfs an Horizontalgesetzgebung an, nennt
+    aber keinen Turnus und keine zustaendige Stelle. Bis September 2026 ist keine solche Ueberpruefung
+    veroeffentlicht worden.
+  - Ob das empfohlene Koordinierungszentrum durch den Nationalen KI-Stab im Amt des Ministerpraesidenten
+    (Beschluss 3375/2025) funktional ersetzt wurde, ist nicht amtlich geklaert. Der Stab ist ein Beschleunigungs-
+    und Infrastrukturorgan; die im Dokument vorgesehene Beratungs- und Kohaerenzfunktion gegenueber den
+    Fachaufsichten ist ihm nicht ausdruecklich zugewiesen.
+  - 'Der empfohlene Risikomanagementrahmen (Empfehlung 7) mit gemeinsamer Terminologie fuer alle Aufsichtsbehoerden
+    ist bis heute nicht veroeffentlicht. Die Folge ist sichtbar: Bankenaufsicht, Datenschutzbehoerde und
+    Gesundheitsministerium arbeiten mit unterschiedlichen Risikobegriffen.'
+  monitoring_quellen:
+  - https://www.gov.il/he/pages/aipage
+  - https://www.gov.il/en/pages/ai_2023
+  - https://www.law.co.il/knowledge-centers/Artifical-Intelligence/ai-guidelines-reports-and-publications/
+  bezug_regelwerke:
+  - il-reg-3375-2025
+  - il-reg-4255-2026
+  - il-nagel-bericht-2025
+  - il-ppa-ki-leitlinie-2025
+  - il-finanzsektor-taskforce
+  - coe-rahmenkonvention-ki-cets-225
+  letzte_pruefung: &id001 2026-09-05
+- id: il-reg-3375-2025
+  jurisdiktion: il
+  kurztitel: Regierungsbeschluss 3375/2025 — Nationaler KI-Stab
+  offizieller_titel: הקמת המטה הלאומי לבינה מלאכותית בישראל, תיקון החלטות ממשלה והעברת שטח פעולה ממשרד
+    למשרד — Hakamat ha-mate ha-leumi le-bina melachutit be-Israel, tikun hachlatot memshala ve-haavarat
+    shetach peula mi-misrad le-misrad (Errichtung des Nationalen Stabes fuer kuenstliche Intelligenz in
+    Israel, Aenderung von Regierungsbeschluessen und Uebertragung eines Handlungsfelds von einem Ministerium
+    auf ein anderes)
+  fundstelle: החלטת ממשלה מס' 3375 מיום 21.09.2025 (Regierungsbeschluss Nr. 3375 vom 21.09.2025), 37.
+    Regierung
+  verfahrensnummer: '3375'
+  status: anwendbar
+  status_detail: In Kraft. Der Beschluss aendert die Regierungsbeschluesse 212 (01.08.2021), 173 (24.02.2023),
+    1700 (17.04.2024) und 2762 (16.02.2025) und ueberfuehrt das Handlungsfeld "Politik und Regulierung
+    im Bereich der kuenstlichen Intelligenz" samt der zugehoerigen leitenden Planstelle vom Ministerium
+    fuer Innovation, Wissenschaft und Technologie in das Amt des Ministerpraesidenten. Leiter des Stabes
+    ist Brigadegeneral d.R. Erez Askal (ernannt Oktober 2025).
+  kurzbeschreibung: Der Beschluss ist der institutionelle Bruch in der israelischen KI-Governance. Er
+    nimmt die Zustaendigkeit fuer KI-Politik und KI-Regulierung dem Fachministerium, das 2023 das Grundsatzdokument
+    verantwortet hatte, und zieht sie in das Amt des Ministerpraesidenten. Damit wird die KI-Regulierung
+    in Israel zur Chefsache und rueckt aus der Ressortlogik in die Logik nationaler Sicherheits- und Infrastrukturpolitik.
+    Der Stab soll den nationalen Beschleunigungsplan erarbeiten, die Ressorts in Regulierungsfragen unterstuetzen
+    und fortgeschrittene Infrastruktur (Energieanlagen, Hochleistungsrechnen) aufbauen. Sanktionen enthaelt
+    der Beschluss nicht; er ist ein Organisationsakt der Exekutive. Ausgestattet wurde er nach Presseberichten
+    mit rund 120 Mio. NIS ueberwiegend fuer 2026 und 20 Planstellen, ab 2027 mit rund 13 Mio. NIS jaehrlich.
+  inkrafttreten:
+    datum: 2025-09-21
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/dec3375-2025
+    fundstelle_norm: החלטת ממשלה מס' 3375 מיום 21.09.2025 — Regierungsbeschluesse der israelischen Regierung
+      wirken mit ihrer Annahme; der Beschluss selbst enthaelt keine abweichende Inkrafttretensklausel,
+      sondern nur Umsetzungsfristen (Ernennung des Stabsleiters binnen 14 Tagen, Aufbau des Stabes binnen
+      45 Tagen, nationale KI-Strategie binnen 120 Tagen)
+  anwendungsdaten:
+  - datum: 2025-10-19
+    was_gilt: Ernennung von Brigadegeneral d.R. Erez Askal zum Leiter des Nationalen KI-Stabes (ohne Ausschreibung).
+    verifiziert: false
+    quelle: https://www.calcalistech.com/ctechnews/article/ab6v2b1ra
+  - datum: 2026-06-16
+    was_gilt: Der Stab legt der Regierung die Nationale KI-Strategie vor; sie wird als Beschluss 4255
+      angenommen.
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/spoke-ai160626
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - Errichtung des המטה הלאומי לבינה מלאכותית (Nationaler Stab fuer kuenstliche Intelligenz) im Amt des
+    Ministerpraesidenten.
+  - Uebertragung des Handlungsfelds "מדיניות ורגולציה בבינה מלאכותית" (Politik und Regulierung der kuenstlichen
+    Intelligenz) vom Innovationsministerium auf das Amt des Ministerpraesidenten — einschliesslich der
+    leitenden Planstelle. Damit wird die Zustaendigkeit fuer die Antwort auf die Frage, ob Israel ein
+    KI-Gesetz braucht, aus dem Fachressort herausgeloest.
+  - Aenderung der Regierungsbeschluesse 212 vom 01.08.2021 (Nationale KI-Initiative), 173 vom 24.02.2023
+    (Nationales KI-Programm), 1700 vom 17.04.2024 und 2762 vom 16.02.2025.
+  - 'Aufgaben des Stabes nach der Beschlusslage: Erarbeitung des nationalen Beschleunigungsplans, Unterstuetzung
+    der Ressorts in Regulierungsfragen, Aufbau fortgeschrittener Infrastruktur (Energiekomplexe, Hochleistungsrechenzentren).'
+  - Bindeglied zum Nagel-Bericht vom 05.08.2025, der genau diesen "schlanken nationalen Stab" unmittelbar
+    unter dem Ministerpraesidenten empfohlen hatte.
+  dokumente:
+  - datum: 2025-09-21
+    typ: uebersicht
+    titel: Regierungsbeschluss 3375 (amtliche Beschlussseite)
+    url: https://www.gov.il/he/pages/dec3375-2025
+    sprache: he
+    urheber: משרד ראש הממשלה — Amt des Ministerpraesidenten
+    verifiziert: false
+    notiz: 'Vermutete amtliche Adresse nach dem Schema gov.il/he/pages/dec<Nr>-<Jahr>. Am 05.09.2026 nicht
+      ueberpruefbar: gov.il-Beschlussseiten liefern in dieser Sitzung weder ueber WebFetch noch im Browser
+      Inhalt. Der Beschlussinhalt ist ueber eine Sekundaerquelle (ceci.org.il) belegt.'
+  - datum: 2025-10-19
+    typ: pressemitteilung
+    titel: Netanyahu's office takes direct control of Israel's AI policy (Calcalist/Ctech)
+    url: https://www.calcalistech.com/ctechnews/article/ab6v2b1ra
+    sprache: en
+    urheber: Calcalist / Ctech
+    verifiziert: true
+    notiz: Sekundaerquelle. Nennt Beschlussdatum (25.09.2025 fuer die Regierungsbilligung), Budget, Planstellen
+      und die Aufhebung der Zustaendigkeitsordnung von 2021.
+  offene_punkte:
+  - Der Volltext des Beschlusses 3375 konnte nicht an einer amtlichen Quelle geprueft werden. Datum (21.09.2025)
+    und aufgehobene bzw. geaenderte Beschluesse stammen aus einer Sekundaerquelle; eine zweite Sekundaerquelle
+    nennt den 25.09.2025 als Datum der Regierungsbilligung. Der Widerspruch ist nicht aufgeloest.
+  - Unklar ist, ob mit der Uebertragung des Handlungsfelds auch die im Grundsatzdokument 2023 vorgesehene
+    Beratungsfunktion gegenueber den Fachaufsichten uebergegangen ist oder ersatzlos entfallen ist.
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/prime_ministers_office
+  - https://www.gov.il/he/pages/spoke-ai160626
+  bezug_regelwerke:
+  - il-ki-politik-2023
+  - il-reg-4255-2026
+  - il-nagel-bericht-2025
+  letzte_pruefung: *id001
+  pruefvermerk:
+  - 'Bestaetigt. Datum des Beschlusses = Datum der Wirksamkeit. HINWEIS FUER DIE FORTSCHREIBUNG: Es gibt
+    einen juengeren Regierungsbeschluss Nr. 4255 (2026) — ''האצת בינה מלאכותית בישראל וביסוס מובילות עולמית
+    — עקרונות אסטרטגיים וכיווני פעולה ותיקון החלטת ממשלה'' (gov.il/he/pages/dec4255-2026), der einen KI-Regierungsbeschluss
+    aendert. Sein Datum und sein Verhaeltnis zu 3375 liess sich nicht ermitteln, weil gov.il-Beschlussseiten
+    weder per WebFetch noch im Browser Text ausliefern. Der Eintrag sollte darauf geprueft werden.'
+- id: il-reg-4255-2026
+  jurisdiktion: il
+  kurztitel: Regierungsbeschluss 4255/2026 — Nationales KI-Programm
+  offizieller_titel: האצת בינה מלאכותית בישראל וביסוס מובילות עולמית — עקרונות אסטרטגיים וכיווני פעולה
+    ותיקון החלטת ממשלה — Haatzat bina melachutit be-Israel u-vissus movilut olamit (Beschleunigung der
+    kuenstlichen Intelligenz in Israel und Begruendung weltweiter Fuehrerschaft — strategische Grundsaetze
+    und Handlungsrichtungen sowie Aenderung eines Regierungsbeschlusses)
+  fundstelle: החלטת ממשלה מס' 4255 מיום 16.06.2026 (Regierungsbeschluss Nr. 4255 vom 16.06.2026), 37.
+    Regierung
+  verfahrensnummer: '4255'
+  status: anwendbar
+  status_detail: 'Am 16.06.2026 von der Regierung auf Vorschlag des Ministerpraesidenten angenommen; erarbeitet
+    vom Nationalen KI-Stab im Amt des Ministerpraesidenten. Die Umsetzung hat am 04.08.2026 begonnen:
+    Der Sonderausschuss fuer Ausschreibungen bei der Generalrechnungsfuehrerin des Finanzministeriums
+    hat die ersten drei Verfahren freigegeben (Ausschreibung "Projekt Nexus" fuer eine nationale Quantenrechenplattform
+    sowie zwei Informationsabfragen zu Physical-AI-Infrastruktur und zu Basismodellen).'
+  kurzbeschreibung: 'Der Beschluss ist Israels Antwort auf die Frage, wie ein Staat KI regelt, der kein
+    KI-Gesetz will: durch Industriepolitik statt durch Marktzugangsrecht. Er setzt acht Handlungsstraenge
+    — souveraene Recheninfrastruktur mit dem Ziel von 100.000 Prozessoreinheiten fuer israelische Anwendungen,
+    ein nationaler Quantenrechner moeglichst aus israelischer Entwicklung, internationale Allianzen, Humankapital
+    und Ausbildung, ein nationaler Mechanismus fuer die Folgen im Arbeitsmarkt, ein Nationales KI-Institut
+    samt "Beschleunigungsreaktoren", ein nationaler Schwerpunkt auf Cyber AI, Physical AI und der Abwehr
+    von Deepfake-Bedrohungen sowie der Einsatz von KI in der Buergerdienstleistung. Sanktionen und Pflichten
+    fuer Private enthaelt der Beschluss nicht; er bindet die Verwaltung. Rechtlich bedeutsam ist er als
+    Umschlagpunkt: Der einzige Strang mit unmittelbar rechtlichem Bezug ist die Deepfake-Abwehr — und
+    die wurde vier Wochen spaeter tatsaechlich Gesetz, im Wahlrecht.'
+  inkrafttreten:
+    datum: 2026-06-16
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/spoke-ai160626
+  anwendungsdaten:
+  - datum: 2026-06-16
+    was_gilt: Annahme des Beschlusses durch die Regierung; amtliche Sprechermitteilung des Amtes des Ministerpraesidenten
+      mit den acht Kernpunkten.
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/spoke-ai160626
+  - datum: 2026-08-04
+    was_gilt: 'Beginn der Umsetzung: Freigabe der Ausschreibung "פרויקט נקסוס" (Projekt Nexus, nationale
+      Quantenrechenplattform) und zweier Informationsabfragen (RFI) zu Physical AI und zu Basismodellen
+      durch den Sonderausschuss fuer Ausschreibungen bei der Generalrechnungsfuehrerin.'
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/spoke-ai040826
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - arbeit
+  - content
+  - sicherheit-export
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Punkt 1: Souveraene KI-Infrastruktur — Ausbau der nationalen Rechenkapazitaeten, Aufbau souveraener
+    Faehigkeiten bei Infrastruktur und Halbleitern; nationales Ziel von 100.000 Prozessoreinheiten fuer
+    Anwendungen des Staates Israel.'
+  - 'Punkt 2: Errichtung eines nationalen Quantenrechners, soweit moeglich auf israelischem Wissen und
+    israelischen Technologien ("כחול-לבן", blau-weiss).'
+  - 'Punkt 3: Internationale Buendnisse und Partnerschaften in KI und fortgeschrittener Technologie.'
+  - 'Punkt 4: Humankapital — Ausbildung ueber alle Bevoelkerungsschichten hinweg, vom Schulwesen ueber
+    die Hochschulen bis in den Arbeitsmarkt.'
+  - 'Punkt 5: Nationale Vorbereitung auf die Veraenderungen des Arbeitsmarktes; Einrichtung eines nationalen
+    Mechanismus fuer eine langfristige Politik. Der Beschluss enthaelt aber keine Beteiligungsrechte von
+    Arbeitnehmer- und Arbeitgeberseite und keine Regeln fuer den KI-Einsatz in der Personalfuehrung —
+    ein Kritikpunkt der arbeitsrechtlichen Stellungnahmen.'
+  - 'Punkt 6: Nationales KI-Institut als Bindeglied zwischen Regierung, Wissenschaft, Industrie und Investoren,
+    daneben "כורי האצה" (Beschleunigungsreaktoren) zur Umsetzung nationaler und globaler Herausforderungen
+    in Anwendungen.'
+  - 'Punkt 7: Nationaler Schwerpunkt auf Cyber AI und Physical AI sowie auf der Abwehr von Deepfake-Bedrohungen
+    — der einzige regulatorisch anschlussfaehige Strang des Beschlusses.'
+  - 'Punkt 8: Verbesserung der Buergerdienstleistung durch KI in der oeffentlichen Verwaltung (Verkuerzung
+    von Bearbeitungs- und Wartezeiten, Informationszugang).'
+  - 'Umsetzungsinstrument ist das Vergaberecht, nicht das Ordnungsrecht: Der Sonderausschuss fuer Ausschreibungen
+    bei der Generalrechnungsfuehrerin ist die Stelle, ueber die der Beschluss Wirkung nach aussen entfaltet.'
+  dokumente:
+  - datum: 2026-06-16
+    typ: pressemitteilung
+    titel: הממשלה אישרה את התכנית הלאומית לבינה מלאכותית (Die Regierung hat das Nationale KI-Programm
+      gebilligt)
+    url: https://www.gov.il/he/pages/spoke-ai160626
+    sprache: he
+    urheber: משרד ראש הממשלה — Amt des Ministerpraesidenten
+    verifiziert: true
+    notiz: Amtliche Sprechermitteilung mit den acht Kernpunkten des Beschlusses im Wortlaut. Ersatzquelle,
+      weil die Beschlussseite dec4255-2026 nicht auslesbar ist.
+  - datum: 2026-08-04
+    typ: pressemitteilung
+    titel: הודעה משותפת למטה הלאומי לבינה מלאכותית ולאגף החשבת הכללית (Gemeinsame Mitteilung des Nationalen
+      KI-Stabes und der Abteilung der Generalrechnungsfuehrerin)
+    url: https://www.gov.il/he/pages/spoke-ai040826
+    sprache: he
+    urheber: משרד ראש הממשלה; משרד האוצר — Amt des Ministerpraesidenten und Finanzministerium
+    verifiziert: true
+    notiz: Belegt die Beschlussnummer 4255 im amtlichen Text und den Uebergang in die Umsetzung ueber
+      das Vergaberecht.
+  - datum: 2026-06-16
+    typ: uebersicht
+    titel: Amtliche Beschlussseite zu Beschluss 4255
+    url: https://www.gov.il/he/pages/dec4255-2026
+    sprache: he
+    urheber: משרד ראש הממשלה
+    verifiziert: false
+    notiz: Existiert, war aber am 05.09.2026 weder ueber WebFetch noch im Browser auslesbar (gov.il liefert
+      nur die Anwendungshuelle ohne Inhalt). Der Beschlusstext selbst ist damit nicht am Primaerdokument
+      geprueft.
+  - datum: 2025-04-01
+    typ: bericht
+    titel: National Program for Artificial Intelligence — Program and Snapshot, April 2025
+    url: https://innovationisrael.org.il/wp-content/uploads/2025/05/AI-National-Program-en-14.5.25.pdf
+    sprache: en
+    urheber: Regierung Israels, Koordinierung ueber das Telem-Forum; veroeffentlicht ueber die Israel
+      Innovation Authority
+    verifiziert: true
+    notiz: Bestandsaufnahme des Vorlaeuferprogramms (Beschluss 212/2021 und 173/2023), Volumen rund 1
+      Mrd. NIS ueber 2021 bis 2026, fuenf Saeulen. Bestaetigt ausdruecklich die sektorale statt horizontale
+      Regulierungslinie und die Foerderung von Regulierungssandkaesten.
+  offene_punkte:
+  - Der amtliche Volltext des Beschlusses 4255 ist nicht geprueft; belegt sind Nummer, Datum und die acht
+    Kernpunkte ueber zwei amtliche Sprechermitteilungen.
+  - 'Budgetvolumen des Beschlusses: In der Presse kursiert eine Sofortinvestition von rund 2,6 Mrd. NIS;
+    der Nagel-Ausschuss hatte rund 25 Mrd. NIS ueber fuenf Jahre gefordert. Welche Summe der Beschluss
+    tatsaechlich bindet, ist unbelegt.'
+  - Der Beschluss kuendigt einen nationalen Mechanismus fuer die Arbeitsmarktfolgen an, ohne ihn auszugestalten.
+    Ob daraus arbeitsrechtliche Regelungen werden, ist offen.
+  monitoring_quellen:
+  - https://www.gov.il/he/pages/spoke-ai160626
+  - https://www.gov.il/he/departments/prime_ministers_office
+  bezug_regelwerke:
+  - il-reg-3375-2025
+  - il-nagel-bericht-2025
+  - il-ki-politik-2023
+  - il-wahlgesetz-26-2026
+  letzte_pruefung: *id001
+- id: il-nagel-bericht-2025
+  jurisdiktion: il
+  kurztitel: Nagel-Bericht 2025 (Nationaler KI-Beschleunigungsausschuss)
+  offizieller_titel: דין וחשבון של הוועדה הלאומית להאצת תחום הבינה המלאכותית — Din ve-cheshbon shel ha-vaada
+    ha-leumit le-haatzat tchum ha-bina ha-melachutit (Bericht des Nationalen Ausschusses zur Beschleunigung
+    des Bereichs der kuenstlichen Intelligenz)
+  fundstelle: Bericht vom 05.08.2025 (י"א באב התשפ"ה), veroeffentlicht ueber gov.il
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Empfehlungsbericht ohne Bindungswirkung. Seine zentrale institutionelle Empfehlung —
+    ein schlanker nationaler Stab unmittelbar unter dem Ministerpraesidenten — wurde sechs Wochen spaeter
+    mit Regierungsbeschluss 3375 vom 21.09.2025 umgesetzt; die inhaltlichen Empfehlungen sind in Beschluss
+    4255 vom 16.06.2026 eingegangen.
+  kurzbeschreibung: 'Der Bericht des von Prof. Jacob Nagel geleiteten Ausschusses ist das Dokument, das
+    Israels KI-Politik von einer Ressortangelegenheit in eine Angelegenheit nationaler Machtpolitik ueberfuehrt
+    hat. Er verlangt einen schlanken nationalen Stab mit eigenstaendiger Befugnis unmittelbar unter dem
+    Ministerpraesidenten, massive Investitionen in Humankapital, den Aufbau eines nationalen Hochleistungsrechenzentrums
+    mit 60.000 fortgeschrittenen Grafikprozessoren binnen zwei Jahren (Energiebedarf rund 130 Megawatt),
+    die Oeffnung staatlicher Datenbestaende fuer Forschung und Industrie unter Wahrung der Privatheit
+    sowie eine eigene Energiestrategie fuer Rechenzentren. Volumen: rund 25 Mrd. NIS ueber fuenf Jahre,
+    etwa 0,25 Prozent des jaehrlichen Bruttoinlandsprodukts. Rechtlich bemerkenswert ist, was fehlt: Der
+    Bericht behandelt Regulierung fast ausschliesslich als Standortfaktor, nicht als Grundrechtsschutz.'
+  inkrafttreten:
+    datum: 2025-08-05
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/news/event-ai050825/he/ai050825.pdf
+  anwendungsdaten:
+  - datum: 2025-09-21
+    was_gilt: 'Umsetzung der Kernempfehlung: Errichtung des Nationalen KI-Stabes im Amt des Ministerpraesidenten
+      (Beschluss 3375).'
+    verifiziert: false
+    quelle: https://www.gov.il/he/pages/spoke-ai160626
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Empfehlung: Errichtung eines "schlanken" nationalen KI-Stabes unmittelbar unter dem Ministerpraesidenten
+    mit eigenstaendiger Befugnis zur ressortuebergreifenden Koordinierung.'
+  - 'Empfehlung: Aufbau eines nationalen Hochleistungsrechenzentrums mit 60.000 fortgeschrittenen Grafikprozessoren
+    binnen zwei Jahren; Energiebedarf rund 130 Megawatt; eigene Energiestrategie fuer KI-Rechenzentren.'
+  - 'Empfehlung: Oeffnung staatlicher Datenbestaende (Gesundheits-, Verwaltungs- und Registerdaten) fuer
+    Forschung und Industrie unter Wahrung der Privatheit. Das ist der Punkt, an dem der Bericht auf die
+    Datenschutzbehoerde und auf Tikkun 13 trifft.'
+  - 'Empfehlung: intensive Entwicklung des Humankapitals in Zusammenarbeit mit Hochschulen und Bildungseinrichtungen.'
+  - 'Volumen: rund 25 Mrd. NIS ueber fuenf Jahre (rund 0,25 Prozent des jaehrlichen Bruttoinlandsprodukts).'
+  - 'Ausschussmitglieder: Prof. Jacob Nagel (Vorsitz), Eti Ben Zeev, Prof. Sarit Kraus und weitere.'
+  dokumente:
+  - datum: 2025-08-05
+    typ: bericht
+    titel: דין וחשבון של הוועדה הלאומית להאצת תחום הבינה המלאכותית (Bericht des Nagel-Ausschusses)
+    url: https://www.gov.il/BlobFolder/news/event-ai050825/he/ai050825.pdf
+    sprache: he
+    urheber: הוועדה הלאומית להאצת תחום הבינה המלאכותית — Nationaler Ausschuss zur Beschleunigung der kuenstlichen
+      Intelligenz
+    verifiziert: true
+    notiz: Amtliches PDF auf gov.il, hebraeisch, mit Datum 05.08.2025 (י"א באב התשפ"ה).
+  offene_punkte:
+  - Der Bericht behandelt Datenzugang als Infrastrukturfrage. Wie sich die Oeffnung staatlicher Datenbestaende
+    zu dem seit 14.08.2025 geltenden Tikkun 13 und zur Einwilligung als praktisch einziger Rechtsgrundlage
+    des israelischen Datenschutzrechts verhaelt, laesst er offen.
+  monitoring_quellen:
+  - https://www.gov.il/he/pages/aipage
+  bezug_regelwerke:
+  - il-reg-3375-2025
+  - il-reg-4255-2026
+  - il-privacy-law-1981
+  letzte_pruefung: *id001
+- id: il-privacy-law-1981
+  jurisdiktion: il
+  kurztitel: Protection of Privacy Law 5741-1981 (Datenschutzgesetz)
+  offizieller_titel: חוק הגנת הפרטיות, התשמ"א-1981 — Chok haganat ha-pratiut, ha-tashma-1981 (Gesetz zum
+    Schutz der Privatheit)
+  fundstelle: ס"ח (Sefer ha-Chukkim, Gesetzblatt) התשמ"א, עמ' 128 und 174; zahlreiche Aenderungen, zuletzt
+    ס"ח התשפ"ד, עמ' 1430 (Tikkun 13, 2024)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht in der Fassung des Tikkun 13 (Aenderungsgesetz Nr. 13) vom 14.08.2024,
+    das am 14.08.2025 in Kraft getreten ist. Das Gesetz ist Israels einziges allgemeines Datenschutzgesetz
+    und zugleich die einzige Rechtsgrundlage, aus der die Datenschutzbehoerde ihre KI-Aufsicht ableitet
+    — ein KI-Gesetz gibt es nicht. Das Gesetz kennt bis heute KEINE Vorschrift ueber automatisierte Einzelentscheidungen
+    oder Profiling; ein Aequivalent zu Art. 22 DSGVO fehlt.
+  kurzbeschreibung: 'Das Gesetz schuetzt in Kapitel A die Privatheit als solche (§ 1 Verbot der Verletzung,
+    § 2 abschliessender Katalog von elf bzw. inzwischen mehr Verletzungstatbestaenden, § 4 unerlaubte
+    Handlung, § 5 Straftat) und regelt in Kapitel B den Umgang mit personenbezogenen Daten in Datenbanken.
+    Nach Tikkun 13 lauten die Grundbegriffe מידע אישי (personenbezogene Daten), עיבוד (Verarbeitung),
+    בעל שליטה (Verantwortlicher) und מידע בעל רגישות מיוחדת (Daten besonderer Sensibilitaet); sie stehen
+    in § 3. Zentral fuer KI sind § 8 (Verarbeitung nur zum ordnungsgemaess festgelegten Zweck der Datenbank),
+    § 11 (Hinweispflicht dessen, der Daten erhebt), §§ 13 und 14 (Einsicht und Berichtigung), § 17 (Datensicherheit),
+    §§ 17ב1 bis 17ב3 (betrieblicher Datenschutzbeauftragter) und § 15א (pauschalierter Schadensersatz
+    bis 10.000 NIS ohne Schadensnachweis). Sanktionen: Geldbussen der Datenschutzbehoerde in einem achtstufigen
+    System mit einer Obergrenze von 5 Prozent des Jahresumsatzes bei schweren Verstoessen, dazu Straftatbestaende
+    bis zu drei Jahren Freiheitsstrafe. Die praktisch wichtigste Eigenheit: Israel kennt keinen Katalog
+    von Rechtsgrundlagen wie Art. 6 DSGVO — die Einwilligung ist im Ergebnis die einzige tragfaehige Grundlage.
+    Genau daran haengt die gesamte israelische Diskussion ueber das Trainieren von Modellen mit Daten
+    aus dem Netz.'
+  inkrafttreten:
+    datum: 1981-03-11
+    verifiziert: true
+    quelle: https://law.tau.ac.il/sites/law.tau.ac.il/files/law_lgbt/%D7%97%D7%95%D7%A7_%D7%94%D7%92%D7%A0%D7%AA_%D7%94%D7%A4%D7%A8%D7%98%D7%99%D7%95%D7%AA_0.pdf
+    fundstelle_norm: 'ס"ח תשמ"א מס'' 1011 מיום 11.3.1981 עמ'' 128 — Veroeffentlichung in Reshumot; nach
+      der allgemeinen Regel des israelischen Rechts (Auslegungsgesetz) tritt ein Gesetz am Tag der Veroeffentlichung
+      in Kraft, soweit nichts anderes bestimmt ist. § 37 des Gesetzes bestimmt abweichend: ''תחילתו של
+      פרק ב'' ששה חודשים מיום פרסומו של חוק זה'' (Kapitel B tritt sechs Monate nach der Veroeffentlichung
+      in Kraft)'
+  anwendungsdaten:
+  - datum: 1981-09-11
+    was_gilt: Kapitel B (פרק ב') — Datenbankenrecht, Registrierungs- und Sicherungspflichten; sechs Monate
+      nach der Veroeffentlichung, § 37 des Gesetzes
+    verifiziert: true
+    quelle: https://ics.uci.edu/~kobsa/privacy/israel.htm
+  - datum: 2025-08-14
+    was_gilt: Tikkun 13 (חוק הגנת הפרטיות (תיקון מס' 13), התשפ"ד-2024) — Aufsichts- und Sanktionsbefugnisse
+      der Datenschutzbehoerde, Pflicht zur Bestellung eines Datenschutzbeauftragten, verlaengerte Verjaehrung;
+      ein Jahr nach der Ausfertigung vom 14.08.2024
+    verifiziert: true
+    quelle: https://www.loc.gov/item/global-legal-monitor/2025-11-17/israel-amendment-to-privacy-protection-law-goes-into-effect/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - '§ 1: Verbot der Verletzung der Privatheit eines anderen ohne dessen Einwilligung — die Generalklausel,
+    aus der die israelische Rechtsprechung auch dort schoepft, wo das Gesetz keine besondere Vorschrift
+    kennt.'
+  - '§ 2: abschliessender Katalog der Verletzungstatbestaende (Beschatten, unerlaubtes Abhoeren, Aufnahme
+    im privaten Bereich, Veroeffentlichung eines Bildnisses und anderes). Fuer KI von Bedeutung, weil
+    das israelische Recht keinen allgemeinen Persoenlichkeitsschutz kennt, der Deepfakes unabhaengig von
+    diesen Tatbestaenden erfasste.'
+  - '§ 3: Begriffsbestimmungen in der Fassung des Tikkun 13 — מידע אישי (personenbezogene Daten: Daten
+    ueber eine bestimmte oder mit vertretbarem Aufwand unmittelbar oder mittelbar bestimmbare Person),
+    עיבוד (Verarbeitung: jede Handlung an personenbezogenen Daten), בעל שליטה (Verantwortlicher), מחזיק
+    (Auftragsverarbeiter/Besitzer), מידע בעל רגישות מיוחדת (Daten besonderer Sensibilitaet, u.a. Gesundheit,
+    Genetik, Biometrie, Vorstrafen, politische und religiose Ueberzeugungen, Standort- und Finanzdaten),
+    מזהה ביומטרי (biometrischer Identifikator).'
+  - '§ 8: Fuehrung einer Datenbank und rechtmaessige Verarbeitung. § 8(b) enthaelt die Zweckbindung: Personenbezogene
+    Daten in einer Datenbank duerfen nicht ausserhalb des ordnungsgemaess bestimmten Zwecks der Datenbank
+    verarbeitet werden. Dies ist die Vorschrift, an der die Datenschutzbehoerde das Trainieren von Modellen
+    mit fuer andere Zwecke erhobenen Daten misst.'
+  - '§ 8א: Registrierungs- oder Meldepflicht in der Fassung des Tikkun 13. Registrierung nur noch fuer
+    Datenbanken, deren Hauptzweck die Weitergabe von Daten an Dritte im geschaeftlichen Verkehr ist (ab
+    10.000 Betroffenen), sowie fuer Datenbanken oeffentlicher Stellen; Meldepflicht binnen 30 Tagen bei
+    Datenbanken mit Daten besonderer Sensibilitaet ueber mehr als 100.000 Personen.'
+  - '§ 11: Pflicht dessen, der personenbezogene Daten verlangt — Hinweis darauf, ob eine Rechtspflicht
+    zur Auskunft besteht, auf den Zweck, den Verantwortlichen, die Empfaenger und auf die Rechte auf Einsicht
+    und Loeschung. Die Datenschutzbehoerde leitet daraus die Pflicht ab, offenzulegen, dass das Gegenueber
+    ein KI-System ist.'
+  - '§ 13 und § 13א: Einsichtsrecht in die eigenen personenbezogenen Daten, auch gegenueber Stellen, die
+    die Daten nicht selbst halten.'
+  - '§ 14: Berichtigung unrichtiger, unvollstaendiger, unklarer oder veralteter Daten. Die Datenschutzbehoerde
+    vertritt die Auffassung, dieses Recht koenne in KI-Systemen auch die Berichtigung des Algorithmus
+    erfassen, der die unrichtige Angabe erzeugt hat — ein bemerkenswert weiter Ansatz ohne Vorbild im
+    Gesetzeswortlaut.'
+  - '§ 15א: pauschalierter Schadensersatz (פיצויים לדוגמה) bis 10.000 NIS ohne Nachweis eines Schadens,
+    eingefuehrt durch Tikkun 13, unter anderem bei Verstoessen gegen die Hinweispflicht und bei Verweigerung
+    von Einsicht und Berichtigung.'
+  - '§ 17: Verantwortlichkeit fuer die Datensicherheit; naeher ausgestaltet durch die Datensicherheitsverordnung
+    von 2017.'
+  - '§§ 17ב1 bis 17ב3: Pflicht zur Bestellung eines ממונה על הגנת הפרטיות (Datenschutzbeauftragter), dessen
+    Aufgaben und Qualifikation. Erfasst sind oeffentliche Stellen, Datenhaendler, Stellen mit systematischer
+    Beobachtung sowie Stellen, deren Haupttaetigkeit die Verarbeitung von Daten besonderer Sensibilitaet
+    in grossem Umfang ist. Die Datenschutzbehoerde hat angekuendigt, gerade im KI-Kontext auf die Einhaltung
+    dieser Pflicht zu achten.'
+  - '§ 17ט1: gesetzliche Verankerung der הרשות להגנת הפרטיות (Datenschutzbehoerde) als eigenstaendige
+    Einheit mit Budgetautonomie im Justizministerium — vorher beruhte sie nur auf Regierungsbeschluessen.'
+  - '§ 17ט2: verbindliche Vorabauskunft (חוות דעת מקדמית) auf Antrag von Verantwortlichen; die Behoerde
+    kann sie anonymisiert veroeffentlichen. Das ist das israelische Gegenstueck zum Konsultationsverfahren
+    und der praktisch wichtigste Weg, KI-Vorhaben abzusichern.'
+  - '§ 23ב: Verbot der Weitergabe personenbezogener Daten durch oeffentliche Stellen; Ausnahmen in § 23ג.
+    Massgeblich fuer die vom Nagel-Ausschuss geforderte Oeffnung staatlicher Datenbestaende fuer KI-Training.'
+  - 'Kapitel D3: Verwaltungssanktionen. Achtstufiges Bussgeldsystem, teils pro betroffener Person bemessen;
+    Obergrenze bei schweren Verstoessen 5 Prozent des Jahresumsatzes — nominell strenger als Art. 83 DSGVO.
+    Verdopplung bei Wiederholung binnen zwei Jahren; Beschwerde zum Amtsgericht binnen 45 Tagen.'
+  - 'WAS FEHLT: keine Vorschrift ueber automatisierte Einzelentscheidungen, kein Profilingbegriff, kein
+    Katalog von Rechtsgrundlagen. Die Einwilligung ist im Ergebnis die einzige Grundlage der Verarbeitung.
+    Fuer KI ist das die zentrale Systemfrage des israelischen Rechts.'
+  dokumente:
+  - datum: 2025-08-14
+    typ: konsolidiert
+    titel: חוק הגנת הפרטיות, התשמ"א-1981 — konsolidierte Fassung nach Tikkun 13
+    url: https://fs.knesset.gov.il/25/law/25_ls_bk_4668331.pdf
+    sprache: he
+    urheber: כנסת ישראל — Knesset
+    verifiziert: true
+    notiz: Konsolidierter Text auf dem Dateiserver der Knesset. Enthaelt bereits die Begriffe מידע אישי,
+      בעל שליטה und עיבוד, also die Fassung nach Tikkun 13.
+  - datum: 2025-08-14
+    typ: konsolidiert
+    titel: חוק הגנת הפרטיות — laufend gepflegte Textfassung mit Aenderungsnachweisen
+    url: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%92%D7%A0%D7%AA_%D7%94%D7%A4%D7%A8%D7%98%D7%99%D7%95%D7%AA
+    sprache: he
+    urheber: ויקיטקסט
+    verifiziert: true
+    notiz: 'NICHT amtlich, aber die einzige frei zugaengliche Fassung mit vollstaendiger Paragrafenuebersicht
+      und Aenderungsvermerken. Am 05.09.2026 daraus geprueft: § 3 Begriffsbestimmungen (Aenderung תשפ"ד),
+      § 8, § 8א, § 11, § 13, § 14, § 15א, § 17, §§ 17ב1-17ב3, §§ 17ט1-17ט3, § 23ב. Kopfzeile nennt als
+      letzte Fundstelle ס"ח תשפ"ד, 1430.'
+  - datum: 1981-01-01
+    typ: konsolidiert
+    titel: Protection of Privacy Law 5741-1981 — englische Uebersetzung (Fassung vor Tikkun 13)
+    url: http://www.financeisrael.mof.gov.il/FinanceIsrael/Docs/En/legislation/LaborSocialPolicy/5741-1981_Protection_of_Privacy_Law.pdf
+    sprache: en
+    urheber: משרד האוצר — Finanzministerium
+    verifiziert: false
+    notiz: Amtlich bereitgestellte, aber veraltete englische Uebersetzung; sie gibt den Stand vor Tikkun
+      13 wieder und ist fuer die Paragrafenzaehlung nach 2025 unbrauchbar.
+  offene_punkte:
+  - Es fehlt eine amtliche englische Fassung des Gesetzes nach Tikkun 13. Wer auf Englisch zitiert, zitiert
+    derzeit einen ueberholten Stand.
+  - Die genaue Fundstelle des Tikkun 13 im Gesetzblatt (ס"ח התשפ"ד, עמ' 1430) stammt aus der Kopfzeile
+    einer nicht amtlichen Textsammlung und ist nicht am Gesetzblatt geprueft.
+  - Ob das Berichtigungsrecht nach § 14 tatsaechlich einen Anspruch auf Anpassung des Algorithmus traegt,
+    ist eine Rechtsauffassung der Behoerde ohne gerichtliche Bestaetigung.
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/the_privacy_protection_authority
+  - https://main.knesset.gov.il/APPS/legislation/main/laws
+  bezug_regelwerke:
+  - il-privacy-tikkun-13
+  - il-ppa-ki-leitlinie-2025
+  - il-datensicherheits-vo-2017
+  letzte_pruefung: &id002 2026-09-05
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war der 11.05.1981; die amtliche Fundstelle lautet ס"ח תשמ"א מס'' 1011
+    מיום 11.3.1981 עמ'' 128 — Veroeffentlichung am 11.03.1981, nicht am 11.05.1981 (offenbar Verwechslung
+    von Monat und Tag in der Zaehlweise 11.3. / 11.5.). Kapitel B trat nach § 37 erst sechs Monate spaeter
+    in Kraft. Das Gesetz gilt fort; Tikkun 13 seit 14.08.2025 (die Ausfertigung vom 14.08.2024 ist ein
+    Vorakt und gehoert nicht in das Datumsfeld). Vorher: 1981-05-11.'
+- id: il-privacy-tikkun-13
+  jurisdiktion: il
+  kurztitel: Tikkun 13 — Aenderungsgesetz Nr. 13 zum Datenschutzgesetz
+  offizieller_titel: חוק הגנת הפרטיות (תיקון מס' 13), התשפ"ד-2024 — Chok haganat ha-pratiut (tikkun mis.
+    13), ha-tashpad-2024 (Gesetz zum Schutz der Privatheit, Aenderung Nr. 13)
+  fundstelle: ס"ח (Sefer ha-Chukkim) התשפ"ד, עמ' 1430; verkuendet am 14.08.2024
+  verfahrensnummer: Regierungsentwurf; Schlussabstimmung in der Knesset am 05.08.2024
+  status: anwendbar
+  status_detail: Am 05.08.2024 in dritter Lesung angenommen, am 14.08.2024 verkuendet, am 14.08.2025 in
+    Kraft getreten (ein Jahr nach Verkuendung). Die groesste Reform des israelischen Datenschutzrechts
+    seit 1996. Erste Bussgeldentscheidungen unter dem neuen Regime sind seit August 2025 ergangen.
+  kurzbeschreibung: 'Tikkun 13 verwandelt das israelische Datenschutzrecht von einem Registrierungsregime
+    in ein Aufsichtsregime nach europaeischem Vorbild — ohne allerdings dessen materielle Kernstuecke
+    zu uebernehmen. Neu sind: eine an die Datenschutz-Grundverordnung angelehnte Begrifflichkeit (personenbezogene
+    Daten, Verarbeitung, Verantwortlicher, Daten besonderer Sensibilitaet, biometrischer Identifikator);
+    die Ablosung der allgemeinen Registrierungspflicht durch eine Meldepflicht; die Pflicht zur Bestellung
+    eines Datenschutzbeauftragten fuer oeffentliche Stellen, Datenhaendler, Stellen mit systematischer
+    Beobachtung und Stellen mit umfangreicher Verarbeitung sensibler Daten; die gesetzliche Verankerung
+    der Datenschutzbehoerde mit Ermittlungs-, Durchsuchungs- und Sanktionsbefugnissen; ein achtstufiges
+    Bussgeldsystem mit einer Obergrenze von 5 Prozent des Jahresumsatzes; pauschalierter Schadensersatz
+    bis 10.000 NIS ohne Schadensnachweis; Verlaengerung der Verjaehrung zivilrechtlicher Anspruechhe von
+    zwei auf sieben Jahre. Was Tikkun 13 NICHT bringt: keine Vorschrift zu automatisierten Entscheidungen,
+    kein Profiling, keinen Katalog von Rechtsgrundlagen neben der Einwilligung, keine gesetzlich verankerte
+    Datenschutz-Folgenabschaetzung. Fuer die KI-Aufsicht ist das die entscheidende Leerstelle.'
+  inkrafttreten:
+    datum: 2025-08-14
+    verifiziert: true
+    quelle: https://www.loc.gov/item/global-legal-monitor/2025-11-17/israel-amendment-to-privacy-protection-law-goes-into-effect/
+  anwendungsdaten:
+  - datum: 2024-08-05
+    was_gilt: Annahme in dritter Lesung durch die Knesset.
+    verifiziert: false
+    quelle: https://www.law.co.il/en/news/2024/08/05/knesset-enacts-comprehensive-amendment-privacy-protection/
+  - datum: 2024-08-14
+    was_gilt: Verkuendung in Reshumot; Beginn der einjaehrigen Uebergangsfrist.
+    verifiziert: true
+    quelle: https://www.law.co.il/legislation/2024/08/14/privacy-protection-law-amendment-13/
+  - datum: 2025-08-14
+    was_gilt: Vollstaendiges Inkrafttreten. Ab diesem Tag gilt fuer Verstoesse die siebenjaehrige Verjaehrung;
+      Bussgeldtatbestaende und Pflicht zur Bestellung eines Datenschutzbeauftragten werden anwendbar.
+    verifiziert: true
+    quelle: https://www.loc.gov/item/global-legal-monitor/2025-11-17/israel-amendment-to-privacy-protection-law-goes-into-effect/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Begriffsreform in § 3: מידע אישי ersetzt das alte מידע; neu sind עיבוד, בעל שליטה und מידע בעל רגישות
+    מיוחדת. Der Begriff der Datenbank erfasst nur noch digitale Sammlungen und nimmt Kleinstsammlungen
+    aus.'
+  - 'Registrierung wird zur Ausnahme (§ 8א): Registrierungspflichtig sind nur noch Datenbanken oeffentlicher
+    Stellen und solche, deren Hauptzweck die Weitergabe von Daten im geschaeftlichen Verkehr ist (ab 10.000
+    Betroffenen). Fuer Datenbanken mit sensiblen Daten ueber mehr als 100.000 Personen tritt eine blosse
+    Meldepflicht an die Stelle der Registrierung.'
+  - Pflicht zur Bestellung eines Datenschutzbeauftragten (§§ 17ב1 bis 17ב3) fuer oeffentliche Stellen,
+    Datenhaendler, Stellen mit systematischer Beobachtung und Stellen mit umfangreicher Verarbeitung sensibler
+    Daten. Anders als Art. 38 Abs. 3 DSGVO enthaelt das israelische Recht keinen Abberufungsschutz und
+    keine ausdrueckliche Weisungsfreiheit.
+  - Gesetzliche Verankerung der Datenschutzbehoerde (§ 17ט1) mit Budgetautonomie im Justizministerium;
+    Aufsichts- und Ermittlungsbefugnisse einschliesslich Durchsuchungsanordnungen und Anordnungen zum
+    Eindringen in Rechner.
+  - Vorabauskunft (§ 17ט2) und jaehrliche Berichtspflicht an den Verfassungsausschuss der Knesset (§ 17ט3).
+  - 'Verwaltungssanktionen: achtstufiges System, teils nach Zahl der Betroffenen bemessen; Obergrenze
+    bei schweren Verstoessen 5 Prozent des Jahresumsatzes; Verdopplung bei Wiederholung binnen zwei Jahren;
+    Ermaessigung bis zu 70 Prozent moeglich; verpflichtende Veroeffentlichung verhaengter Sanktionen.'
+  - Pauschalierter Schadensersatz bis 10.000 NIS ohne Schadensnachweis (§ 15א) — unter anderem bei unterlassener
+    Registrierung nach schriftlicher Aufforderung, fehlerhafter Hinweiserteilung und Verweigerung von
+    Einsicht oder Berichtigung.
+  - 'Verjaehrung: Verlaengerung von zwei auf sieben Jahre fuer Verstoesse nach dem 14.08.2025.'
+  - 'Straftatbestaende: bis zu drei Jahren Freiheitsstrafe fuer irrefuehrende Hinweise nach § 11 und fuer
+    die unbefugte Weitergabe von Daten durch oeffentliche Stellen; Wegfall der verschuldensunabhaengigen
+    Strafbarkeit.'
+  - 'LEERSTELLE MIT FOLGEN: Der Gesetzgeber hat die Reform bewusst nicht genutzt, um automatisierte Entscheidungen
+    zu regeln. Die Datenschutzbehoerde musste die gesamte KI-Aufsicht daher ueber Zweckbindung (§ 8),
+    Hinweispflicht (§ 11), Berichtigung (§ 14) und Rechenschaft konstruieren.'
+  dokumente:
+  - datum: 2025-11-17
+    typ: bericht
+    titel: 'Israel: Amendment to Privacy Protection Law Goes into Effect (Global Legal Monitor)'
+    url: https://www.loc.gov/item/global-legal-monitor/2025-11-17/israel-amendment-to-privacy-protection-law-goes-into-effect/
+    sprache: en
+    urheber: Law Library of Congress
+    verifiziert: true
+    notiz: Verlaessliche Zusammenfassung einer staatlichen Bibliothek mit Datum des Inkrafttretens (14.08.2025)
+      und den Kernaenderungen. Kein Volltext.
+  - datum: 2024-10-01
+    typ: bericht
+    titel: Overview of Amendment No. 13 to the Israeli Privacy Law (Issue Brief)
+    url: https://techpolicy.org.il/wp-content/uploads/2024/10/Overview-of-Amendment-no-13-FINAL-FINAL-FOR-UPLOAD-FOR-WEBSITE-COLLATED-1.pdf
+    sprache: en
+    urheber: Israel Tech Policy Institute / Future of Privacy Forum
+    verifiziert: true
+    notiz: Die ausfuehrlichste englischsprachige Darstellung mit Paragrafenzuordnung und vollstaendiger
+      Bussgeldtabelle. Sekundaerquelle, aber mit Abstand die genaueste; benennt ausdruecklich die Leerstellen
+      gegenueber der DSGVO (keine Vorschrift zu automatisierten Entscheidungen, kein Katalog von Rechtsgrundlagen,
+      kein Abberufungsschutz fuer den Datenschutzbeauftragten).
+  - datum: 2025-05-01
+    typ: leitlinie
+    titel: 'מדריך מקצועי: תיקון מס'' 13 לחוק הגנת הפרטיות (Fachleitfaden der Datenschutzbehoerde zu Tikkun
+      13)'
+    url: https://www.gov.il/he/pages/guide_tikon13_professional
+    sprache: he
+    urheber: הרשות להגנת הפרטיות — Privacy Protection Authority
+    verifiziert: false
+    notiz: Amtlicher Leitfaden der Behoerde. Die Seite war am 05.09.2026 weder ueber WebFetch noch im
+      Browser auslesbar.
+  offene_punkte:
+  - Die exakte Gesetzblattfundstelle (ס"ח התשפ"ד, עמ' 1430) ist nur mittelbar belegt; die Seite des nationalen
+    Gesetzgebungsregisters zu diesem Aenderungsgesetz war am 05.09.2026 nicht erreichbar (Fehler 474 bzw.
+    Weiterleitung auf die Startseite).
+  - Die Zaehlung der Sanktionsvorschriften (Kapitel D3) beruht auf einer Sekundaerquelle; einzelne Paragrafenbezeichnungen
+    konnten nicht am Gesetzestext geprueft werden.
+  - Ob die Datenschutzbehoerde die Bussgeldobergrenze von 5 Prozent des Jahresumsatzes gegenueber einem
+    Modellanbieter je anwenden wird, ist offen — bis September 2026 ist kein KI-bezogenes Bussgeldverfahren
+    bekannt.
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/the_privacy_protection_authority
+  bezug_regelwerke:
+  - il-privacy-law-1981
+  - il-ppa-ki-leitlinie-2025
+  letzte_pruefung: *id002
+- id: il-ppa-ki-leitlinie-2025
+  jurisdiktion: il
+  kurztitel: PPA-Leitlinie zur Anwendung des Datenschutzgesetzes auf KI-Systeme (Entwurf)
+  offizieller_titel: 'טיוטת הנחיית הרשות להגנת הפרטיות: תחולת הוראות חוק הגנת הפרטיות על מערכות בינה מלאכותית
+    — Tiyutat hanchayat ha-rashut le-haganat ha-pratiut: techulat horaot chok haganat ha-pratiut al maarachot
+    bina melachutit (Entwurf einer Leitlinie der Datenschutzbehoerde: Anwendung der Vorschriften des Datenschutzgesetzes
+    auf Systeme kuenstlicher Intelligenz)'
+  fundstelle: Veroeffentlicht am 28.04.2025 (ל' בניסן התשפ"ה) als Entwurf zur oeffentlichen Anhoerung;
+    gov.il-Vorgang ai_reg
+  verfahrensnummer: null
+  status: entwurf
+  status_detail: Am 28.04.2025 als Entwurf veroeffentlicht. Die Anhoerungsfrist lief zunaechst bis 05.06.2025
+    und wurde bis 31.07.2025, 12:00 Uhr verlaengert (Seitenaktualisierung 29.06.2025). Der Vorgang ist
+    auf gov.il als geschlossen ausgewiesen. Eine Endfassung war am 05.09.2026 nicht auffindbar — die Leitlinie
+    ist damit seit ueber einem Jahr Entwurf. Im August 2025 haben das Finanzministerium und Verbaende
+    der Hochtechnologie oeffentlich gegen den Entwurf Stellung genommen.
+  kurzbeschreibung: 'Der Entwurf ist der wichtigste Text des israelischen KI-Rechts, weil er die einzige
+    Stelle ist, an der eine israelische Behoerde verbindliche Aussagen zu Training, Scraping und Chatbots
+    trifft. Er stellt fest: Das Datenschutzgesetz gilt fuer KI-Systeme und auch fuer die Daten, die ein
+    System aus den Eingaben ABLEITET (Schlussfolgerungen, Vorhersagen, Klassifizierungen sind selbst personenbezogene
+    Daten); fuer jede Phase des Lebenszyklus — Entwicklung, Training, Einsatz — bedarf es einer Rechtsgrundlage;
+    die Einwilligung ist nur wirksam, wenn die Funktionsweise des Systems in der zur Willensbildung noetigen
+    Tiefe beschrieben wird; wer mit einem Bot spricht, ist darueber zu unterrichten, wenn das fuer die
+    Einwilligung wesentlich ist; das Abgreifen personenbezogener Daten aus dem Netz zum Training bedarf
+    der informierten Einwilligung, und die blosse Veroeffentlichung eigener Daten im Netz oder in sozialen
+    Netzwerken belegt eine solche Einwilligung gerade nicht; Plattformen muessen unerlaubtes Scraping
+    technisch verhindern, und unerlaubtes Scraping ist ein schweres Sicherheitsereignis mit sofortiger
+    Meldepflicht nach der Datensicherheitsverordnung. Sanktionsbewehrt ist der Text nicht selbst — er
+    legt aus, wovon die Bussgelder des Gesetzes abhaengen.'
+  inkrafttreten:
+    datum: 2025-04-28
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai_reg
+  anwendungsdaten:
+  - datum: 2025-04-28
+    was_gilt: Veroeffentlichung des Entwurfs mit Frist zur Stellungnahme bis 05.06.2025.
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/rfp/ai_reg/he/ai_regu_draft.pdf
+  - datum: 2025-06-29
+    was_gilt: Verlaengerung der Anhoerungsfrist bis 31.07.2025, 12:00 Uhr (Aktualisierungsdatum der amtlichen
+      Seite).
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai_reg
+  - datum: 2025-07-31
+    was_gilt: Ende der Anhoerungsfrist; Stellungnahmen an ppa@justice.gov.il mit dem Betreff "התייחסות
+      - הנחיה בנושא בינה מלאכותית".
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai_reg
+  - datum: 2025-08-12
+    was_gilt: 'Oeffentlicher Widerstand: Finanzministerium, Verband der Industriellen und ein Forum von
+      rund 25 Wachstumsunternehmen wenden sich gegen den Entwurf, insbesondere gegen die Behandlung des
+      Scrapings und gegen die Uebertragung der Logik alter Datenbankregulierung auf Modelle.'
+    verifiziert: true
+    quelle: https://www.law.co.il/news/2025/08/12/industry-and-mof-against-ppa-ai-privacy-guidelines/
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Grundsatz 1 — Reichweite: Das Datenschutzgesetz gilt nicht nur fuer die in ein KI-System eingegebenen
+    personenbezogenen Daten, sondern auch fuer personenbezogene Daten, die das System aus den Eingaben
+    ableitet. Damit werden Inferenzen, Vorhersagen und Klassifizierungen selbst zu geschuetzten Daten.'
+  - 'Grundsatz 2 — Rechtsgrundlage in jeder Phase: Fuer jede Phase des Lebenszyklus (Entwicklung und Training
+    der Modelle, tatsaechlicher Einsatz) ist eine Rechtsgrundlage erforderlich. Da das israelische Recht
+    keinen Katalog wie Art. 6 DSGVO kennt, laeuft das praktisch auf die Einwilligung hinaus.'
+  - 'Grundsatz 3 — Einwilligung und Aufklaerung: Wirksame Einwilligung setzt eine Beschreibung der Arbeitsweise
+    des Systems in der zur Willensbildung erforderlichen Detailtiefe voraus (unter Beruecksichtigung technischer
+    Grenzen). Wer mit einem automatisierten System ("בוט") und nicht mit einem Menschen spricht, ist darauf
+    hinzuweisen, wenn das fuer die Einwilligung wesentlich ist.'
+  - 'Grundsatz 4 — Scraping: Das Abgreifen personenbezogener Daten aus dem Netz zum Training bedarf der
+    informierten Einwilligung des Betroffenen. Die Behoerde betont ausdruecklich, dass die Veroeffentlichung
+    eigener Daten im Netz und in sozialen Netzwerken NICHT ohne Weiteres auf eine Einwilligung zur Nutzung
+    fuer die Entwicklung von KI-Systemen schliessen laesst. Beispiel im Text: Name und Bild aus einem
+    persoenlichen Profil duerfen nicht zum Training eines Gesichtserkennungsalgorithmus oder zum Aufbau
+    einer entsprechenden Datenbank verwendet werden.'
+  - 'Grundsatz 5 — Pflichten der Plattformen: Digitale Dienste, die das Teilen personenbezogener Daten
+    ermoeglichen, muessen Massnahmen gegen unerlaubtes Scraping ergreifen. Unerlaubtes Scraping aus einer
+    Datenbank ist ein "אירוע אבטחה חמור" (schweres Sicherheitsereignis) und daher nach der Datensicherheitsverordnung
+    unverzueglich der Datenschutzbehoerde zu melden.'
+  - 'Grundsatz 6 — Berichtigung: Das Recht auf Berichtigung unrichtiger Daten nach § 14 kann in KI-Systemen
+    auch die Berichtigung des Algorithmus erfassen, der die unrichtige Angabe erzeugt hat.'
+  - 'Grundsatz 7 — Rechenschaft: Die Behoerde kuendigt an, die Pflicht zur Bestellung eines Datenschutzbeauftragten
+    gerade im KI-Kontext durchzusetzen, und wirbt weiter fuer die Datenschutz-Folgenabschaetzung (תסקיר
+    השפעה על הפרטיות) — die im israelischen Recht anders als in Art. 35 DSGVO NICHT gesetzlich vorgeschrieben,
+    sondern nur empfohlen ist.'
+  - 'Kapitelfolge des Entwurfs: Einleitung; die Leitlinie und der KI-Begriff; informierte Einwilligung
+    und Transparenz; Rechenschaft (Datenschutzbeauftragter, Folgenabschaetzung); Datenrichtigkeit und
+    Betroffenenrechte; Datensicherheit; Scraping; Registrierungspflichten nach Tikkun 13.'
+  dokumente:
+  - datum: 2025-04-28
+    typ: entwurf
+    titel: 'טיוטת הנחיית הרשות להגנת הפרטיות: תחולת הוראות חוק הגנת הפרטיות על מערכות בינה מלאכותית'
+    url: https://www.gov.il/BlobFolder/rfp/ai_reg/he/ai_regu_draft.pdf
+    sprache: he
+    urheber: הרשות להגנת הפרטיות — Privacy Protection Authority
+    verifiziert: true
+    notiz: Amtliches PDF, hebraeisch, mit Datum ל' בניסן התשפ"ה / 28.04.2025. Der eigentliche Regelungstext.
+  - datum: 2025-04-28
+    typ: konsultation
+    titel: הנחיה – תחולת חוק הגנת הפרטיות על מערכות בינה מלאכותית (amtliche Vorgangsseite)
+    url: https://www.gov.il/he/pages/ai_reg
+    sprache: he
+    urheber: הרשות להגנת הפרטיות
+    verifiziert: true
+    notiz: Am 05.09.2026 im Browser ausgelesen. Belegt Veroeffentlichungsdatum 28.04.2025, Aktualisierung
+      29.06.2025, Fristende 31.07.2025 12:00 und den Status "geschlossen fuer Eingaben". Die Seite bezeichnet
+      den Text ausdruecklich als erste umfassende Leitlinie der Behoerde zu KI. Die Kurzadresse gov.il/he/pages/ai_234
+      leitet auf diese Seite weiter.
+  - datum: 2025-08-12
+    typ: stellungnahme
+    titel: האוצר והתעשייה נגד טיוטת הנחיית רשות הפרטיות על בינה מלאכותית (Finanzministerium und Industrie
+      gegen den Entwurf)
+    url: https://www.law.co.il/news/2025/08/12/industry-and-mof-against-ppa-ai-privacy-guidelines/
+    sprache: he
+    urheber: law.co.il (Bericht ueber Stellungnahmen des Finanzministeriums, des Verbandes der Industriellen
+      und des Forums der Wachstumsunternehmen)
+    verifiziert: true
+    notiz: 'Sekundaerquelle. Belegt den innerstaatlichen Konflikt: Das Finanzministerium warnt vor einem
+      negativen Signal an den Markt und an internationale Unternehmen mit Regierungsvertraegen; die Industrie
+      wirft der Behoerde vor, die Logik alter Datenbankregulierung auf eine neue Technologie zu uebertragen.'
+  offene_punkte:
+  - 'Seit dem Ende der Anhoerung am 31.07.2025 sind mehr als dreizehn Monate vergangen, ohne dass eine
+    Endfassung veroeffentlicht worden waere. Ob die Leitlinie noch kommt, in welcher Fassung und ob die
+    Verlagerung der KI-Zustaendigkeit in das Amt des Ministerpraesidenten (Beschluss 3375/2025) daran
+    Anteil hat, ist offen. Der Entwurf hat gleichwohl faktische Wirkung: Er ist die einzige veroeffentlichte
+    Rechtsauffassung der zustaendigen Behoerde.'
+  - 'Der Entwurf verlangt eine Rechtsgrundlage in jeder Lebenszyklusphase, ohne die Systemfrage zu beantworten:
+    Das israelische Recht kennt neben der Einwilligung keine praktikable Grundlage. Ein berechtigtes Interesse
+    wie in Art. 6 Abs. 1 lit. f DSGVO gibt es nicht. Damit stellt die Leitlinie an das Training aus Daten
+    des offenen Netzes eine Anforderung, die kaum je erfuellbar ist.'
+  - Das Verhaeltnis zur Rechtsauffassung des Justizministeriums vom 18.12.2022 zum Urheberrecht ist ungeklaert.
+    Dort wurde das Trainieren mit fremden Inhalten grosszuegig erlaubt; hier wird dasselbe Training datenschutzrechtlich
+    weitgehend untersagt, soweit personenbezogene Daten betroffen sind. Israel hat damit zwei gegenlaeufige
+    Verwaltungspositionen zum selben Vorgang.
+  monitoring_quellen:
+  - https://www.gov.il/he/pages/ai_reg
+  - https://www.gov.il/he/departments/the_privacy_protection_authority
+  bezug_regelwerke:
+  - il-privacy-law-1981
+  - il-privacy-tikkun-13
+  - il-datensicherheits-vo-2017
+  - il-moj-tdm-2022
+  letzte_pruefung: *id002
+- id: il-datensicherheits-vo-2017
+  jurisdiktion: il
+  kurztitel: Datensicherheitsverordnung 2017
+  offizieller_titel: תקנות הגנת הפרטיות (אבטחת מידע), התשע"ז-2017 — Takanot haganat ha-pratiut (avtachat
+    meida), ha-tashaz-2017 (Verordnung zum Schutz der Privatheit — Datensicherheit)
+  fundstelle: ק"ת (Kovets ha-Takanot, Verordnungsblatt) התשע"ז; in Kraft seit 08.05.2018
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Seit dem 08.05.2018 anwendbar. Die Verordnung stuft Datenbanken in vier Sicherheitsstufen
+    ein und knuepft daran gestufte technische und organisatorische Pflichten. Fuer KI ist sie ueber zwei
+    Wege bedeutsam: als Massstab fuer die Sicherheit von Trainings- und Modelldaten und als Grundlage
+    der Meldepflicht bei schweren Sicherheitsereignissen, zu denen die Datenschutzbehoerde ausdruecklich
+    das unerlaubte Abgreifen von Daten aus einer Datenbank (Scraping) zaehlt.'
+  kurzbeschreibung: 'Die Verordnung ist Israels technisches Datenschutzrecht. Sie verpflichtet Verantwortliche
+    zur Erstellung eines Datenbankverzeichnisses und einer Sicherheitsvorschrift, zur Zugriffskontrolle,
+    Protokollierung, Trennung von Systemen, regelmaessigen Risikopruefung und — bei den hoeheren Sicherheitsstufen
+    — zu Penetrationstests und Audits. Verstoesse sind seit Tikkun 13 mit Geldbussen bewehrt, deren Hoehe
+    sich nach der Sicherheitsstufe richtet (Anlage 3 zum Datenschutzgesetz). Die praktische KI-Relevanz:
+    Wer ein Modell auf personenbezogenen Daten trainiert, unterhaelt in aller Regel eine Datenbank im
+    Sinne des Gesetzes und unterliegt dieser Verordnung; und wer eine Plattform betreibt, von der Dritte
+    Daten fuer Trainingszwecke abgreifen, hat nach Auffassung der Behoerde ein meldepflichtiges schweres
+    Sicherheitsereignis.'
+  inkrafttreten:
+    datum: 2018-05-08
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/data_security_regulation
+    fundstelle_norm: '§ 22 der Verordnung (תחילה): ''תחילתן של תקנות אלה שנה מיום פרסומן'' — ein Jahr
+      nach der Veroeffentlichung. Veroeffentlichung ק"ת תשע"ז, עמ'' 1022 am 08.05.2017 (gov.il: ''תאריך
+      פרסום: 08.05.2017''); daraus folgt der 08.05.2018'
+  anwendungsdaten:
+  - datum: 2025-04-28
+    was_gilt: Die Datenschutzbehoerde stellt im Entwurf ihrer KI-Leitlinie klar, dass unerlaubtes Scraping
+      aus einer Datenbank ein schweres Sicherheitsereignis im Sinne dieser Verordnung ist und unverzueglich
+      zu melden ist.
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai_reg
+  themenachsen:
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - Vier Sicherheitsstufen (Grundstufe, mittlere, hohe Stufe sowie eine Sonderstufe fuer Datenbanken einzelner
+    Verantwortlicher) mit gestuften Pflichten.
+  - Pflicht zur Fuehrung eines Datenbankverzeichnisses und zur schriftlichen Sicherheitsvorschrift.
+  - Meldepflicht bei schweren Sicherheitsereignissen — nach Auffassung der Datenschutzbehoerde erfasst
+    das das unerlaubte Abgreifen personenbezogener Daten (Scraping) durch Dritte.
+  - Bussgelder nach Tikkun 13, gestaffelt nach Sicherheitsstufe (Anlage 3 zum Datenschutzgesetz), bis
+    640.000 NIS.
+  dokumente:
+  - datum: 2017-05-01
+    typ: leitlinie
+    titel: המדריך המלא ליישום תקנות הגנת הפרטיות (אבטחת מידע) — Vollstaendiger Leitfaden zur Umsetzung
+      der Datensicherheitsverordnung
+    url: https://foi.gov.il/sites/default/files/%D7%94%D7%9E%D7%93%D7%A8%D7%99%D7%9A%20%D7%94%D7%9E%D7%9C%D7%90%20%D7%9C%D7%99%D7%99%D7%A9%D7%95%D7%9D%20%D7%AA%D7%A7%D7%A0%D7%95%D7%AA%20%D7%90%D7%91%D7%98%D7%97%D7%AA%20%D7%9E%D7%99%D7%93%D7%A2%20-%20PDF%20%D7%9C%D7%94%D7%93%D7%A4%D7%A1%D7%94.pdf
+    sprache: he
+    urheber: הרשות להגנת הפרטיות
+    verifiziert: false
+    notiz: Amtlicher Umsetzungsleitfaden der Behoerde. Nicht am Dokument geprueft.
+  offene_punkte:
+  - Der Verordnungstext selbst wurde nicht an einer amtlichen Quelle geprueft; Datum des Inkrafttretens
+    und Stufensystem beruhen auf Sekundaerangaben.
+  - Ob das unerlaubte Scraping durch Dritte tatsaechlich ein meldepflichtiges Sicherheitsereignis des
+    Plattformbetreibers ist, ist eine Rechtsauffassung der Behoerde aus einem Entwurf, nicht geklaertes
+    Recht.
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/the_privacy_protection_authority
+  bezug_regelwerke:
+  - il-privacy-law-1981
+  - il-ppa-ki-leitlinie-2025
+  letzte_pruefung: *id002
+  pruefvermerk:
+  - Bestaetigt. Das eingetragene Datum ist das Inkrafttreten, nicht die Veroeffentlichung (08.05.2017).
+    Die Verordnung gilt fort; sie ist die Grundlage der Meldepflicht bei schweren Sicherheitsereignissen.
+- id: il-copyright-act-2007
+  jurisdiktion: il
+  kurztitel: Copyright Act 5768-2007 (Urheberrechtsgesetz)
+  offizieller_titel: חוק זכות יוצרים, התשס"ח-2007 — Chok zchut yotsrim, ha-tashach-2007 (Urheberrechtsgesetz)
+  fundstelle: 'ס"ח (Sefer ha-Chukkim) התשס"ח, עמ'' 38 und 82 (verkuendet 25.11.2007, Heft 2199, S. 34);
+    spaetere Aenderungen: תשע"א עמ'' 993; תשע"ד עמ'' 458; תשע"ז עמ'' 504 und 1201; תשע"ט עמ'' 187; תשפ"ו
+    עמ'' 593 und 1030'
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Verabschiedet am 19.11.2007, in Kraft seit 25.05.2008. Mehrfach geaendert, zuletzt 2025/26
+    (תשפ"ו) unter anderem bei der oeffentlichen Auffuehrung (§ 13), der Anpassung fuer Menschen mit Behinderungen
+    (§ 28א) und der Auffuehrung in Bildungseinrichtungen (§ 29). Eine KI-bezogene Aenderung ist bis September
+    2026 nicht ergangen: Es gibt weder eine Text- und Data-Mining-Schranke noch eine Vorschrift ueber
+    computererzeugte Werke noch eine Kennzeichnungs- oder Offenlegungspflicht fuer Trainingsdaten.'
+  kurzbeschreibung: 'Das israelische Urheberrecht ist der Grund, weshalb Israel im internationalen Streit
+    um Trainingsdaten eine Sonderstellung einnimmt. § 19 kennt eine Fair-Use-Schranke nach amerikanischem
+    Vorbild mit einer OFFENEN Zweckliste ("למטרות כגון אלה" — fuer Zwecke wie diese) und den vier bekannten
+    Abwaegungsfaktoren; anders als die geschlossenen Schrankenkataloge des kontinentaleuropaeischen Rechts
+    kann sie neue Nutzungsarten aufnehmen, ohne dass der Gesetzgeber taetig wird. Genau darauf stuetzt
+    sich die Rechtsauffassung des Justizministeriums vom 18.12.2022, wonach das Trainieren von Modellen
+    mit geschuetzten Inhalten ausser in Ausnahmefaellen keine Rechtsverletzung ist. Daneben stehen § 22
+    (beilaeufige Nutzung) und § 26 (voruebergehende Vervielfaeltigung), auf die die Stellungnahme hilfsweise
+    abstellt. Nach § 33 Nr. 1 ist der Urheber (היוצר) erster Inhaber des Rechts; eine Vorschrift ueber
+    computererzeugte Werke wie s. 9(3) des britischen CDPA fehlt, ebenso eine Legaldefinition des Urhebers.
+    Sanktionen: zivilrechtlich Unterlassung, Schadensersatz und pauschalierter Schadensersatz bis 100.000
+    NIS je Verletzung ohne Schadensnachweis (§ 56), strafrechtlich Freiheitsstrafe bei gewerbsmaessiger
+    Verletzung (§ 61).'
+  inkrafttreten:
+    datum: 2008-05-25
+    verifiziert: true
+    quelle: https://www.wipo.int/wipolex/en/legislation/details/11509
+  anwendungsdaten:
+  - datum: 2007-11-25
+    was_gilt: Verkuendung in Reshumot, Sefer ha-Chukkim Heft 2199, S. 34.
+    verifiziert: true
+    quelle: https://www.wipo.int/wipolex/en/legislation/details/11509
+  - datum: 2022-12-18
+    was_gilt: Das Justizministerium legt die §§ 19, 22 und 26 fuer das maschinelle Lernen aus und erklaert
+      das Training mit geschuetzten Inhalten ausser in Ausnahmefaellen fuer zulaessig.
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/legalinfo/machine-learning/he/18-12-2022.pdf
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  regelungsschwerpunkte:
+  - '§ 4: Werke, an denen Urheberrecht besteht (Original-Werke der Literatur, Kunst, Dramatik und Musik
+    sowie Tontraeger). Das Erfordernis der Originalitaet ist die Schwelle, an der in Israel — wie anderswo
+    — die Schutzfaehigkeit rein maschinell erzeugter Ausgaben scheitert; eine ausdrueckliche gesetzliche
+    Regelung fehlt.'
+  - '§ 11: Inhalt des Urheberrechts (Vervielfaeltigung, oeffentliche Auffuehrung, Sendung, Zugaenglichmachung,
+    Bearbeitung, Vermietung).'
+  - '§ 18 und § 19: Erlaubte Nutzungen; § 19(a) — "שימוש הוגן ביצירה מותר למטרות כגון אלה: לימוד עצמי,
+    מחקר, ביקורת, סקירה, דיווח עיתונאי, הבאת מובאות, או הוראה ובחינה על ידי מוסד חינוך" (Die faire Nutzung
+    eines Werkes ist erlaubt fuer Zwecke WIE DIESE: Selbststudium, Forschung, Kritik, Rezension, journalistische
+    Berichterstattung, Zitat oder Unterricht und Pruefung durch eine Bildungseinrichtung). Die Wendung
+    "כגון אלה" macht die Liste offen — das ist der entscheidende Unterschied zu Art. 5 InfoSoc-RL und
+    zu §§ 44a ff. UrhG.'
+  - '§ 19(b): Abwaegungsfaktoren — Zweck und Charakter der Nutzung; Art des genutzten Werkes; Umfang der
+    Nutzung qualitativ und quantitativ im Verhaeltnis zum ganzen Werk; Auswirkung der Nutzung auf den
+    Wert des Werkes und seinen potentiellen Markt. Wortgleich mit 17 U.S.C. § 107.'
+  - '§ 19(c): VERORDNUNGSERMAECHTIGUNG — "השר רשאי לקבוע תנאים שבהתקיימם ייחשב שימוש לשימוש הוגן" (Der
+    Minister kann Bedingungen bestimmen, bei deren Vorliegen eine Nutzung als faire Nutzung gilt). Israel
+    hat damit seit 2007 ein Instrument, um die Trainingsfrage durch Rechtsverordnung zu klaeren. Es ist
+    bis September 2026 nicht benutzt worden. Wer die israelische Lage beurteilt, sollte das wissen: Der
+    Verzicht auf eine TDM-Regelung ist eine Entscheidung, kein Versaeumnis des Gesetzgebers.'
+  - '§ 22: beilaeufige Nutzung eines Werkes durch Einbeziehung in ein anderes Werk — vom Justizministerium
+    fuer solche Trainingsvorhaben herangezogen, in denen das einzelne Werk im Gesamtsystem verschwindet.'
+  - '§ 26: voruebergehende Vervielfaeltigung. Sie ist erlaubt, wenn sie untrennbarer Teil eines technischen
+    Vorgangs ist, dessen EINZIGER Zweck die Uebermittlung des Werkes zwischen Parteien in einem Kommunikationsnetz
+    durch einen Vermittler oder die Ermoeglichung einer anderen rechtmaessigen Nutzung ist, und der Vervielfaeltigung
+    kein eigener wirtschaftlicher Wert zukommt. Das Justizministerium raeumt selbst ein, seine Anwendung
+    auf geloeschte Trainingsdatensaetze sei eine weite Auslegung.'
+  - '§ 33 Nr. 1: Der Urheber eines Werkes ist erster Inhaber des Urheberrechts. Das Gesetz definiert den
+    Urheber nicht; §§ 34 (Arbeitnehmerwerk), 35 (Auftragswerk) und 36 (Werke des Staates) setzen durchweg
+    eine Person voraus.'
+  - '§§ 38 ff.: Schutzdauer, bemessen nach dem Tod des Urhebers — eine weitere Vorschrift, die eine natuerliche
+    Person voraussetzt und einer Zuordnung maschinell erzeugter Ausgaben entgegensteht.'
+  - '§§ 45 f.: Urheberpersoenlichkeitsrecht als persoenliches Recht.'
+  - '§ 56: pauschalierter Schadensersatz bis 100.000 NIS je Verletzung ohne Schadensnachweis — in der
+    israelischen Praxis das schaerfste Schwert und der Grund, weshalb die Rechtssicherheit der Ministeriumsauffassung
+    fuer Anbieter erheblichen wirtschaftlichen Wert hat.'
+  dokumente:
+  - datum: 2007-11-19
+    typ: konsolidiert
+    titel: Copyright Act 5768-2007 — WIPO Lex Eintrag mit Volltexten
+    url: https://www.wipo.int/wipolex/en/legislation/details/11509
+    sprache: en
+    urheber: WIPO Lex nach amtlicher israelischer Vorlage
+    verifiziert: true
+    notiz: Belegt Annahme am 19.11.2007, Verkuendung am 25.11.2007 in Sefer ha-Chukkim 2199 S. 34 und
+      Inkrafttreten am 25.05.2008.
+  - datum: 2026-01-01
+    typ: konsolidiert
+    titel: חוק זכות יוצרים, התשס"ח-2007 — laufend gepflegte Textfassung mit Aenderungsnachweisen
+    url: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%96%D7%9B%D7%95%D7%AA_%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D
+    sprache: he
+    urheber: ויקיטקסט
+    verifiziert: true
+    notiz: 'NICHT amtlich. Am 05.09.2026 daraus im Wortlaut geprueft: § 19 (mit der offenen Zweckformel
+      und der Verordnungsermaechtigung in Absatz c), § 20, § 21, § 22, § 26, §§ 33 bis 36. Die Kopfzeile
+      weist Aenderungen bis תשפ"ו (S. 593 und 1030) aus und verweist ausserdem auf ein Verfahren בג"ץ
+      49765-07-26, dessen Gegenstand nicht geprueft wurde.'
+  offene_punkte:
+  - Die Kopfzeile der konsolidierten Fassung verweist neben den Aenderungen von תשפ"ו auf ein Verfahren
+    des Obersten Gerichtshofs (בג"ץ 49765-07-26), das offenbar Auswirkungen auf den Gesetzestext hat.
+    Gegenstand und Tragweite sind nicht geprueft; ein KI-Bezug ist nicht erkennbar, aber auch nicht ausgeschlossen.
+  - Es gibt bis September 2026 keine israelische Gerichtsentscheidung zum Training mit geschuetzten Inhalten.
+    Die Rechtsauffassung des Justizministeriums ist unbestaetigt.
+  - Die Verordnungsermaechtigung des § 19(c) ist nicht ausgeuebt. Ob die Regierung sie fuer eine Trainingsschranke
+    nutzen will, ist offen und waere der einfachste Weg zu Rechtssicherheit ohne Gesetzgebungsverfahren.
+  - Zur Schutzfaehigkeit maschinell erzeugter Ausgaben liegt keine israelische Entscheidung und keine
+    Verwaltungsposition vor; die Stellungnahme von 2022 nimmt die Ausgabeseite ausdruecklich aus.
+  monitoring_quellen:
+  - https://main.knesset.gov.il/APPS/legislation/main/laws
+  - https://www.gov.il/he/Departments/General/intellectual-property-cluster
+  bezug_regelwerke:
+  - il-moj-tdm-2022
+  letzte_pruefung: &id003 2026-09-05
+- id: il-moj-tdm-2022
+  jurisdiktion: il
+  kurztitel: Stellungnahme des Justizministeriums zu Text- und Data-Mining (2022)
+  offizieller_titel: 'חוות דעת: שימושים בתכנים מוגנים בזכויות יוצרים לצורך למידת מכונה — Chavat daat:
+    shimushim be-tchanim muganim be-zchuyot yotsrim le-tsorech limudat mechona / "Opinion: Uses of Copyrighted
+    Materials for Machine Learning"'
+  fundstelle: Rechtsgutachten der Verwaltung vom 18.12.2022 (כ"ה כסלו תשפ"ג), משרד המשפטים, ייעוץ וחקיקה
+    (משפט אזרחי); Aktualisierung der amtlichen Seite am 11.05.2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Weiterhin die massgebliche Verwaltungsposition. Sie bindet Gerichte nicht und ist bis
+    September 2026 durch keine israelische Entscheidung bestaetigt worden. Sie ist die weltweit erste
+    behoerdliche Positionierung zur Zulaessigkeit des KI-Trainings und wird international — unter anderem
+    in der Untersuchung des US Copyright Office — als Referenz zitiert. Die amtliche Seite wurde zuletzt
+    am 11.05.2025 aktualisiert; eine inhaltliche Fortschreibung ist damit nicht verbunden.
+  kurzbeschreibung: 'Die von Adv. Dr. Lital Helman verfasste, von Adv. Howard Poliner (Leiter des Bereichs
+    geistiges Eigentum) begleitete und unter Anleitung von Adv. Carmit Yulis, stellvertretende Rechtsberaterin
+    der Regierung fuer Zivilrecht, ergangene Stellungnahme kommt zu dem Ergebnis, dass das Trainieren
+    von Modellen des maschinellen Lernens mit urheberrechtlich geschuetzten Inhalten ausser in Ausnahmefaellen
+    von den Schranken des israelischen Urheberrechts gedeckt ist. Drei Wege: erstens in aller Regel die
+    Fair-Use-Schranke des § 19; zweitens bei einem Teil der Vorhaben die beilaeufige Nutzung nach § 22,
+    weil das einzelne Werk nur Mittel zum Erlernen einer Aufgabe ist; drittens, soweit die Lerndaten am
+    Ende geloescht werden, die voruebergehende Vervielfaeltigung nach § 26 — was die Stellungnahme selbst
+    als weite Auslegung bezeichnet. Ausdrueckliche Ausnahmen: Datensaetze, die keine breite Vielfalt an
+    Inhalten umfassen, sondern aus Werken einzelner Urheber bestehen und die Grundlage eines Systems bilden,
+    das mit eben diesen Urhebern in ihren Maerkten konkurriert; ferner nicht transformative und zugleich
+    kommerzielle Vorhaben. Die Stellungnahme erstreckt sich ausdruecklich NICHT auf die Ausgabe ("This
+    Opinion does not apply to ML-based products, but only to the learning process itself"); ob eine Ausgabe
+    verletzt, ist im Einzelfall nach allgemeinem Urheberrecht zu pruefen. Erklaerter Zweck: Beseitigung
+    rechtlicher Unsicherheit als Standortpolitik.'
+  inkrafttreten:
+    datum: 2022-12-18
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/machine-learning
+  anwendungsdaten:
+  - datum: 2022-12-18
+    was_gilt: Veroeffentlichung der Stellungnahme.
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/legalinfo/machine-learning/he/18-12-2022.pdf
+  - datum: 2025-05-11
+    was_gilt: Aktualisierungsdatum der amtlichen Seite des Justizministeriums (ohne erkennbare inhaltliche
+      Aenderung der Stellungnahme).
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/machine-learning
+  themenachsen:
+  - urheberrecht
+  - gpai
+  regelungsschwerpunkte:
+  - 'Grundaussage: "מלבד מקרים חריגים, שימוש בתכנים מוגנים בזכויות יוצרים לצורך אימון מכונה חוסה תחת הסדרי
+    השימושים המותרים בדיני זכויות היוצרים ולכן אינו מהווה הפרה" — ausser in Ausnahmefaellen faellt die
+    Nutzung geschuetzter Inhalte zum Maschinentraining unter die erlaubten Nutzungen und ist daher keine
+    Verletzung.'
+  - 'Erster Weg — § 19 Fair Use: Das Training ist in aller Regel faire Nutzung. Die offene Zweckliste
+    des § 19(a) traegt die Subsumtion; die vier Faktoren des § 19(b) fallen typischerweise zugunsten des
+    Trainings aus, weil das Vorhaben transformativ ist und den Markt des Einzelwerks nicht ersetzt.'
+  - 'Zweiter Weg — § 22 beilaeufige Nutzung: Die Werke im Datensatz dienen als Mittel, dem Rechner eine
+    Aufgabe beizubringen; Zweck der Nutzung ist die Aufgabe, nicht das Werk. Anwendbar, wenn dem Einzelwerk
+    im Gesamtsystem nur ein verschwindendes Gewicht zukommt.'
+  - 'Dritter Weg — § 26 voruebergehende Vervielfaeltigung: anwendbar, wenn der Datensatz nach dem Training
+    geloescht wird. Die Stellungnahme raeumt ein, dies sei eine weite Auslegung ("admittedly a broad interpretation").'
+  - 'Ausnahme 1: Datensaetze, die ausschliesslich aus Werken eines einzelnen Urhebers bestehen, um mit
+    diesem Urheber in seinen bestehenden Maerkten zu konkurrieren (Beispiel im Text: ein System, das den
+    Stil einer bestimmten Fotografin nachahmt).'
+  - 'Ausnahme 2: nicht transformative Vorhaben, insbesondere wenn sie zugleich kommerziell sind.'
+  - 'Ausdrueckliche Beschraenkung auf die Eingabeseite: Die Stellungnahme betrifft nur den Lernvorgang,
+    nicht die Erzeugnisse. Fuer die Ausgabe schafft sie keinen sicheren Hafen; sie verlangt eine Pruefung
+    im Einzelfall.'
+  - 'Verfahrensvorgeschichte: Der Stellungnahme ging ein oeffentlicher Aufruf zur Stellungnahme ("קול
+    קורא לשימוש בתכנים מוגנים בזכויות יוצרים לצורך למידת מכונה") voraus, der von der amtlichen Seite des
+    Ministeriums weiterhin verlinkt ist. Er ist das israelische Gegenstueck zur Konsultation der Rechteinhaber.'
+  - 'Erklaerte Zielsetzung: "הסרת החסם של עמימות משפטית ... נועדה לתמרץ פעילות רצויה בשוק למידת המכונה
+    ולמקסם את התחרותיות של חברות ישראליות" — die Beseitigung des Hemmnisses rechtlicher Unklarheit soll
+    erwuenschte Taetigkeit im Markt des maschinellen Lernens anreizen und die Wettbewerbsfaehigkeit israelischer
+    Unternehmen sowohl in der Inhalte- als auch in der KI-Industrie maximieren. Urheberrechtspolitik als
+    Industriepolitik, offen ausgesprochen.'
+  dokumente:
+  - datum: 2022-12-18
+    typ: stellungnahme
+    titel: 'חוות דעת: שימושים בתכנים מוגנים בזכויות יוצרים לצורך למידת מכונה (hebraeisches Original)'
+    url: https://www.gov.il/BlobFolder/legalinfo/machine-learning/he/machine-learning.pdf
+    sprache: he
+    urheber: משרד המשפטים, ייעוץ וחקיקה (משפט אזרחי) — Justizministerium, Abteilung Beratung und Gesetzgebung
+      (Zivilrecht)
+    verifiziert: false
+    notiz: Amtliches PDF; im Browser oeffnet es sich im internen Betrachter und war nicht auswertbar.
+      Der Inhalt ist ueber die amtliche Zusammenfassung und die englische Fassung geprueft.
+  - datum: 2022-12-18
+    typ: stellungnahme
+    titel: 'Opinion: Uses of Copyrighted Materials for Machine Learning (englische Fassung)'
+    url: https://www.gov.il/BlobFolder/legalinfo/machine-learning/he/18-12-2022.pdf
+    sprache: en
+    urheber: Ministry of Justice, Deputy Attorney General (Civil Law)
+    verifiziert: true
+    notiz: Am 05.09.2026 im Volltext ausgewertet. Enthaelt die drei Schrankenwege, die beiden Ausnahmen
+      und den ausdruecklichen Ausschluss der Ausgabeseite.
+  - datum: 2022-12-18
+    typ: uebersicht
+    titel: Amtliche Seite des Justizministeriums zur Stellungnahme
+    url: https://www.gov.il/he/pages/machine-learning
+    sprache: he
+    urheber: משרד המשפטים
+    verifiziert: true
+    notiz: Am 05.09.2026 im Browser ausgelesen. Nennt Verfasserin und Begleitung, Veroeffentlichungsdatum
+      18.12.2022, Aktualisierung 11.05.2025 und verlinkt den vorausgegangenen oeffentlichen Aufruf sowie
+      eine arabische Fassung.
+  - datum: 2022-01-01
+    typ: konsultation
+    titel: קול קורא לשימוש בתכנים מוגנים בזכויות יוצרים לצורך למידת מכונה (Oeffentlicher Aufruf zur Stellungnahme)
+    url: https://www.gov.il/he/departments/publications/Call_for_bids/zoom-04-07
+    sprache: he
+    urheber: משרד המשפטים
+    verifiziert: false
+    notiz: Von der amtlichen Seite verlinkte Konsultation, die der Stellungnahme vorausging. Die Adresse
+      traegt beim Ministerium zusaetzliche Abfrageparameter; ohne sie laeuft der Aufruf am 05.09.2026
+      auf die Fehlerseite. Datum und Frist der Konsultation sind daher unbelegt.
+  - datum: 2022-12-18
+    typ: stellungnahme
+    titel: 'رأي قانوني: استخدامات المحتوى المحمي بحقوق النشر لأغراض تعلم الآلة (arabische Fassung)'
+    url: https://www.gov.il/ar/pages/machine-learning
+    sprache: ar
+    urheber: وزارة العدل — Justizministerium
+    verifiziert: false
+    notiz: Amtliche arabische Fassung, von der hebraeischen Seite verlinkt.
+  offene_punkte:
+  - Die Stellungnahme ist nicht bindend und bis heute gerichtlich unbestaetigt. Wer sie zitiert, sollte
+    das offenlegen.
+  - Der vorausgegangene oeffentliche Aufruf (die Konsultation der Rechteinhaber) konnte nicht abgerufen
+    werden; Datum, Frist und Zahl der Eingaben sind unbelegt. Die Namen der beteiligten Verwertungsgesellschaften
+    und Verbaende sind nicht dokumentiert.
+  - Eine Fortschreibung nach dem Aufkommen generativer Systeme mit erkennbarer Reproduktion von Trainingsinhalten
+    ist nicht ergangen. Die Stellungnahme beantwortet die heute streitige Frage — die Ausgabeseite — ausdruecklich
+    nicht.
+  - 'Das Verhaeltnis zum Entwurf der Datenschutzleitlinie vom 28.04.2025 ist ungeklaert: Was urheberrechtlich
+    erlaubt ist, ist datenschutzrechtlich weitgehend untersagt, soweit personenbezogene Daten im Datensatz
+    stecken.'
+  monitoring_quellen:
+  - https://www.gov.il/he/pages/machine-learning
+  - https://www.gov.il/he/Departments/General/intellectual-property-cluster
+  bezug_regelwerke:
+  - il-copyright-act-2007
+  - il-ppa-ki-leitlinie-2025
+  letzte_pruefung: *id003
+- id: il-patents-law
+  jurisdiktion: il
+  kurztitel: Patents Law 5727-1967 (Patentgesetz)
+  offizieller_titel: חוק הפטנטים, התשכ"ז-1967 — Chok ha-patentim, ha-tashkaz-1967 (Patentgesetz)
+  fundstelle: Gesetz vom 08.08.1967, mehrfach geaendert; konsolidierte englische Fassung Stand 2014 von
+    der WIPO bereitgestellt
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Geltendes Recht. Der Patentkommissar hat am 15.03.2023 in den Anmeldungen 268604 und
+    268605 (DABUS) entschieden, dass ein KI-System nicht als Erfinder benannt werden kann; das Bezirksgericht
+    Tel Aviv-Jaffa hat diese Entscheidung am 31.12.2025 in עש"א 33353-05-23 bestaetigt. Eine Gesetzesaenderung
+    ist nicht in Vorbereitung; beide Instanzen haben die Frage ausdruecklich dem Gesetzgeber zugewiesen.
+  kurzbeschreibung: 'Das Patentgesetz enthaelt keine Definition des Erfinders. Genau daran ist das israelische
+    DABUS-Verfahren gescheitert — nicht an einer ausdruecklichen Beschraenkung auf Menschen, sondern an
+    der Systematik: § 1 definiert den "Inhaber einer Erfindung" als den Erfinder selbst oder denjenigen,
+    der von ihm kraft Gesetzes, durch Uebertragung oder durch Vereinbarung ableitet; § 2 gibt nur dem
+    Inhaber einer patentfaehigen Erfindung das Recht, ein Patent zu beantragen; § 11(b) verlangt von einem
+    Anmelder, der nicht der Erfinder ist, die Darlegung, wie er die Rechte erworben hat; § 39 gibt dem
+    Erfinder ODER SEINEN HINTERBLIEBENEN das Recht, die Nennung des Namens zu verlangen; § 42 erklaert
+    einen Verzicht darauf fuer nichtig; § 76 vermutet die Inhaberschaft des Anmelders. Aus dieser Kette
+    folgerten Kommissar und Gericht, dass nur eine Person Erfinder sein kann: Eine Maschine hat keine
+    Hinterbliebenen, kann nichts verlangen und auf nichts verzichten und kann keine Rechte uebertragen.
+    Sanktionen im engeren Sinn gibt es hier nicht; Rechtsfolge ist die Zurueckweisung der Anmeldung.'
+  inkrafttreten:
+    datum: 1967-08-08
+    verifiziert: true
+    quelle: https://www.jpo.go.jp/e/system/laws/gaikoku/document/index/israel-e_tokkyo.pdf
+  anwendungsdaten:
+  - datum: 2023-03-15
+    was_gilt: 'Entscheidung des Patentkommissars (Ophir Alon) in den Anmeldungen 268604 und 268605: Der
+      Begriff des Erfinders erfasst nur Menschen; die Anerkennung eines KI-Systems als Erfinder wirft
+      rechtspolitische Fragen auf, die dem Gesetzgeber zustehen.'
+    verifiziert: false
+    quelle: https://www.law.co.il/computer-law/2023/03/15/thaler-patent-registration-requests-268604-268605/
+  - datum: 2025-12-31
+    was_gilt: 'Das Bezirksgericht Tel Aviv-Jaffa (Richterin Tamar Avraham) weist die Berufung עש"א 33353-05-23
+      zurueck und bestaetigt: Eine Maschine kann nach dem Patentgesetz nicht Erfinderin sein; die Rechtspolitik
+      ist Sache des Gesetzgebers.'
+    verifiziert: true
+    quelle: https://www.law.co.il/media/computer-law/thaler1.pdf
+  themenachsen:
+  - urheberrecht
+  - governance
+  regelungsschwerpunkte:
+  - '§ 1 (Begriffsbestimmungen): "owner of an invention" — der Erfinder selbst oder derjenige, der von
+    ihm kraft Gesetzes, durch Uebertragung oder durch Vereinbarung ableitet. Der Erfinder selbst wird
+    NICHT definiert.'
+  - '§ 2: Nur der Inhaber einer patentfaehigen Erfindung ist berechtigt, die Erteilung eines Patents zu
+    beantragen.'
+  - '§ 3: patentfaehige Erfindung — Erzeugnis oder Verfahren auf einem beliebigen Gebiet der Technik,
+    neu, nuetzlich, gewerblich anwendbar und auf erfinderischer Taetigkeit beruhend.'
+  - '§ 11: Die Anmeldung muss den Namen des Anmelders, eine Zustellanschrift in Israel und eine Beschreibung
+    der Erfindung enthalten; nach § 11(b) hat ein Anmelder, der nicht der Erfinder ist, darzulegen, wie
+    er die Rechte erworben hat. An dieser Vorschrift scheiterte Thaler: Er konnte keinen Erwerbsvorgang
+    von DABUS darlegen, weil eine Maschine nichts uebertragen kann.'
+  - '§ 39: Der Erfinder, fuer dessen Erfindung ein Patent beantragt wurde, ODER SEINE HINTERBLIEBENEN
+    koennen verlangen, dass der Name des Erfinders in der Beschreibung, im Register und in der Patenturkunde
+    genannt wird. Die Erwaehnung der Hinterbliebenen war fuer das Gericht ein tragendes Wortlautargument.'
+  - '§ 42: Eine Vereinbarung, mit der der Erfinder auf das Recht auf Namensnennung verzichtet, ist nichtig.
+    Auch das setzt Rechtsfaehigkeit voraus.'
+  - '§ 76: Vermutung, dass der Anmelder Inhaber der Erfindung ist, solange nichts anderes bewiesen wird.'
+  - 'Auslegungsmethode des Bezirksgerichts: Wortlaut im Kontext, sodann subjektiver Zweck aus der Entstehungsgeschichte
+    von 1967 (Betonung der Einzigartigkeit des Erfinders und des vorrangigen Schutzes des Erfinders).
+    Ergebnis: Der Gesetzgeber hat nur Menschen vor Augen gehabt; die Ausweitung ist rechtspolitisch und
+    daher dem Gesetzgeber vorbehalten, auch mit Blick auf internationale Harmonisierung.'
+  dokumente:
+  - datum: 2014-01-01
+    typ: konsolidiert
+    titel: Patents Law 5727-1967 as consolidated 2014 (englische Fassung, von der WIPO erstellt)
+    url: https://www.jpo.go.jp/e/system/laws/gaikoku/document/index/israel-e_tokkyo.pdf
+    sprache: en
+    urheber: WIPO nach amtlicher israelischer Vorlage; Spiegel beim japanischen Patentamt
+    verifiziert: true
+    notiz: Am 05.09.2026 ausgewertet; enthaelt den Wortlaut der §§ 1, 2, 3, 11, 39 und 42. Der Zugriff
+      auf die WIPO-eigene Adresse wipo.int/edocs/lexdocs/laws/en/il/il040en.pdf wird durch robots.txt
+      verweigert; der Spiegel des japanischen Patentamts ist identisch.
+  - datum: 2025-12-31
+    typ: endfassung
+    titel: עש"א 33353-05-23 ת'אלר נ' רשם הפטנטים, המדגמים וסימני המסחר (Urteil des Bezirksgerichts Tel
+      Aviv-Jaffa)
+    url: https://www.law.co.il/media/computer-law/thaler1.pdf
+    sprache: he
+    urheber: בית המשפט המחוזי תל אביב-יפו, השופטת תמר אברהם — Bezirksgericht Tel Aviv-Jaffa, Richterin
+      Tamar Avraham
+    verifiziert: true
+    notiz: Volltext des Urteils, ueber eine private Sammlung abrufbar. Belegt Aktenzeichen, Spruchkoerper,
+      Datum und die herangezogenen Vorschriften (§§ 1, 2, 11(b), 39, 40, 76).
+  offene_punkte:
+  - Die Entscheidung des Patentkommissars vom 15.03.2023 wurde nicht an einer amtlichen Quelle geprueft;
+    die Entscheidungssammlung des israelischen Patentamts war nicht erreichbar.
+  - Ob gegen das Urteil vom 31.12.2025 ein Rechtsmittel zum Obersten Gerichtshof eingelegt wurde, ist
+    nicht ermittelt.
+  - Zur Frage, ob eine mit KI-Unterstuetzung gemachte Erfindung mit dem menschlichen Beitragenden als
+    Erfinder patentierbar ist (die praktisch weit wichtigere Frage), gibt es in Israel weder eine Entscheidung
+    noch eine Amtsrichtlinie.
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/israel_patent_office
+  - https://main.knesset.gov.il/APPS/legislation/main/laws
+  bezug_regelwerke:
+  - il-copyright-act-2007
+  letzte_pruefung: *id003
+- id: il-wahlgesetz-26-2026
+  jurisdiktion: il
+  kurztitel: Wahlgesetz zur 26. Knesset 2026 (Deepfake-Offenlegungspflicht)
+  offizieller_titel: חוק הבחירות לכנסת העשרים ושש (הוראות מיוחדות ותיקוני חקיקה), התשפ"ו-2026 — Chok ha-bechirot
+    la-Knesset ha-esrim ve-shesh (horaot meyuchadot ve-tikkunei chakika), ha-tashpav-2026 (Gesetz ueber
+    die Wahlen zur sechsundzwanzigsten Knesset — Sondervorschriften und Gesetzesaenderungen)
+  fundstelle: 'ספר החוקים (Sefer ha-Chukkim) Nr. 3546 vom 16.07.2026, ב'' באב התשפ"ו, S. 762 ff.; die
+    Deepfake-Vorschrift auf S. 768 f. Erste Lesung: הצעות חוק הכנסת Nr. 1209 vom 06.07.2026, S. 302'
+  verfahrensnummer: Ausschussentwurf der 25. Knesset, Verfassungs-, Rechts- und Justizausschuss; angenommen
+    in dritter Lesung, Wirksamkeitsbeginn 16.07.2026
+  status: anwendbar
+  status_detail: In Kraft seit dem 16.07.2026. Die Deepfake-Offenlegungspflicht ist als הוראת שעה (befristete
+    Vorschrift) ausgestaltet und gilt vom siebten Tag nach Verkuendung — also ab dem 23.07.2026 — bis
+    zum Ablauf eines Jahres nach dem Wahltag der 26. Knesset. Die Wahl ist auf den 27.10.2026 terminiert;
+    die Vorschrift laeuft danach voraussichtlich am 27.10.2027 aus. Die Ausfuehrungsregeln des Vorsitzenden
+    des Zentralen Wahlausschusses datieren vom 26.07.2026.
+  kurzbeschreibung: 'Israel hat Deepfakes nicht in einem KI-Gesetz und nicht im Strafgesetzbuch geregelt,
+    sondern im Wahlrecht — und dort technologieneutral. Das Sammelgesetz zur Wahl der 26. Knesset fuegt
+    in das Wahlgesetz (Wahlwerbung) von 1959 einen neuen § 2א2 ein. Danach hat, wer Wahlwerbung veroeffentlicht,
+    die eine נחזות עמוקה ("nechzut amuka", tiefe Scheinbarkeit — die hebraeische Praegung fuer Deepfake)
+    ist, ihr eine klare und deutliche Offenlegung beizufuegen, die besagt, dass der Inhalt nicht im Original
+    aufgezeichnet wurde. Die Legaldefinition knuepft nicht an KI an, sondern an das digitale Mittel: "אמצעי
+    דיגיטלי" ist Software im Sinne des Computergesetzes von 1995, EINSCHLIESSLICH kuenstlicher Intelligenz,
+    die Informationen oder Inhalte erzeugen, bearbeiten oder veraendern kann; "נחזות עמוקה" ist visueller
+    oder akustischer Inhalt mit einer Person, einem Ort, einem Ereignis, einem Dokument oder einem anderen
+    Gegenstand, die als im Original aufgezeichnet erscheinen koennen, tatsaechlich aber mit einem digitalen
+    Mittel erzeugt oder damit wesentlich veraendert wurden. Der Gesetzgeber hat damit die Definitionsprobleme
+    des KI-Begriffs vollstaendig umgangen. Daneben enthaelt das Gesetz Sondervorschriften fuer die Stimmabgabe
+    evakuierter Einwohner, Sonderbefugnisse des Wahlausschussvorsitzenden fuer den Notstand sowie Daueraenderungen,
+    darunter die Ausdehnung der Transparenzpflicht ueber die Identitaet des Werbenden auf die Zeit ausserhalb
+    des Wahlkampfs.'
+  inkrafttreten:
+    datum: 2026-07-16
+    verifiziert: true
+    quelle: https://main.knesset.gov.il/APPS/legislation/main/bills/2244462
+  anwendungsdaten:
+  - datum: 2026-06-22
+    was_gilt: Beginn der Beratungen im Verfassungs-, Rechts- und Justizausschuss zur Vorbereitung der
+      ersten Lesung (weitere Sitzungen am 28.06., 29.06., 30.06., 01.07. und 06.07.2026; am 29.06.2026
+      lag dem Ausschuss eine eigene Praesentation des Forschungs- und Informationszentrums der Knesset
+      zur kuenstlichen Intelligenz vor).
+    verifiziert: true
+    quelle: https://main.knesset.gov.il/APPS/legislation/main/bills/2244462
+  - datum: 2026-07-08
+    was_gilt: Erste Lesung im Plenum.
+    verifiziert: true
+    quelle: https://main.knesset.gov.il/APPS/legislation/main/bills/2244462
+  - datum: 2026-07-13
+    was_gilt: Zweite und dritte Lesung im Plenum.
+    verifiziert: true
+    quelle: https://main.knesset.gov.il/APPS/legislation/main/bills/2244462
+  - datum: 2026-07-16
+    was_gilt: Verkuendung in Sefer ha-Chukkim 3546, S. 762; Wirksamkeitsbeginn des Gesetzes.
+    verifiziert: true
+    quelle: https://fs.knesset.gov.il/25/law/25_lsr_14147458.pdf
+  - datum: 2026-07-23
+    was_gilt: 'Beginn der Offenlegungspflicht fuer Deepfake-Wahlwerbung: eine Woche nach Verkuendung des
+      Gesetzes (§ 2א2 als befristete Vorschrift).'
+    verifiziert: true
+    quelle: https://fs.knesset.gov.il/25/law/25_lsr_14147458.pdf
+  - datum: 2026-07-26
+    was_gilt: Der Vorsitzende des Zentralen Wahlausschusses erlaesst die Ausfuehrungsregeln zur Form der
+      Offenlegung; nach Presseberichten wird die Kennzeichnungspflicht ab diesem Tag praktisch durchgesetzt.
+    verifiziert: true
+    quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
+  - datum: 2026-10-27
+    was_gilt: Wahltag der 26. Knesset; von diesem Tag an laeuft die Jahresfrist, nach deren Ablauf die
+      befristete Deepfake-Vorschrift ausser Kraft tritt.
+    verifiziert: false
+    quelle: https://en.wikipedia.org/wiki/2026_Israeli_legislative_election
+  themenachsen:
+  - content
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - '§ 2א2(a) Wahlgesetz (Wahlwerbung) 1959 in der Fassung dieses Gesetzes: "אדם המפרסם תעמולת בחירות
+    שהיא נחזות עמוקה יצרף לה גילוי המציין באופן ברור ובולט כי התוכן שבה לא תועד במקור" — wer Wahlwerbung
+    veroeffentlicht, die eine tiefe Scheinbarkeit ist, hat ihr eine Offenlegung beizufuegen, die klar
+    und deutlich angibt, dass der darin enthaltene Inhalt nicht im Original aufgezeichnet wurde.'
+  - '§ 2א2(d) Legaldefinition "אמצעי דיגיטלי" (digitales Mittel): "תוכנה כהגדרתה בחוק המחשבים, התשנ"ה-1995,
+    לרבות בינה מלאכותית, המסוגלת ליצור מידע או תוכן, לעורכו או לשנותו" — Software im Sinne des Computergesetzes
+    1995, EINSCHLIESSLICH kuenstlicher Intelligenz, die Informationen oder Inhalte erzeugen, bearbeiten
+    oder veraendern kann. Die kuenstliche Intelligenz ist damit nur ein Unterfall; das Gesetz erfasst
+    auch klassische Bildbearbeitung.'
+  - '§ 2א2(d) Legaldefinition "נחזות עמוקה": "תוכן חזותי או קולי הכולל דמות, מקום, אירוע, מסמך או חפץ
+    אחר אשר עשויים להיחזות ככאלה שתועדו במקור, אולם נוצרו באמצעי דיגיטלי, או נערכו באמצעי כאמור באופן
+    ששינה אותם שינוי מהותי" — visueller oder akustischer Inhalt mit Person, Ort, Ereignis, Dokument oder
+    anderem Gegenstand, die als im Original aufgezeichnet erscheinen koennen, aber mit einem digitalen
+    Mittel erzeugt oder damit wesentlich veraendert wurden. Anknuepfungspunkt ist die TAEUSCHUNGSEIGNUNG,
+    nicht die Erzeugungstechnik.'
+  - '§ 2א2(b): Ermaechtigung des Vorsitzenden des Zentralen Wahlausschusses, Regeln ueber die Erfuellung
+    der Offenlegungspflicht zu erlassen. Auf dieser Grundlage ergingen die Regeln vom 26.07.2026.'
+  - 'Befristung: Die Vorschrift gilt "בתקופה שתחילתה שבוע מיום פרסומו של חוק זה ועד תום שנה מיום הבחירות
+    לכנסת העשרים ושש" — vom siebten Tag nach Verkuendung bis zum Ablauf eines Jahres nach dem Wahltag.
+    Israel hat den Deepfake also ausdruecklich befristet geregelt und die Dauerregelung offengelassen.'
+  - 'Weitere geaenderte Gesetze (indirekte Aenderungen): חוק הבחירות לכנסת [נוסח משולב], התשכ"ט-1969 (Aenderungen
+    79 und 80, S. 763 und 767); חוק הבחירות (דרכי תעמולה), התשי"ט-1959 (Aenderungen 42 und 43, S. 767
+    und 768); חוק המפלגות, התשנ"ב-1992 (Aenderung 31); חוק מיסוי תשלומים בתקופת בחירות, התשנ"ו-1996 (Aenderung
+    11); חוק המרכז לגביית קנסות, אגרות והוצאות, התשנ"ה-1995 (Aenderung 30).'
+  - 'Daueraenderung im Wahlwerberecht: Die Transparenzpflicht ueber die Identitaet des Veroeffentlichenden
+    einer Wahlanzeige gilt kuenftig jederzeit und nicht nur im Wahlkampfzeitraum; ferner gilt das blosse
+    Fotografieren im Buero eines gewaehlten Amtstraegers nicht mehr als unerlaubte Nutzung oeffentlichen
+    Eigentums.'
+  - 'Kontext: Der Gesetzentwurf war ein Ausschussentwurf vor dem Hintergrund der besonderen Sicherheitslage.
+    Zu den Hintergrundmaterialien des Ausschusses gehoert ein Positionspapier des Schamgar-Zentrums zum
+    "Einsatz kuenstlicher Intelligenz und synthetischer Inhalte in der Wahlwerbung".'
+  dokumente:
+  - datum: 2026-07-16
+    typ: endfassung
+    titel: חוק הבחירות לכנסת העשרים ושש (הוראות מיוחדות ותיקוני חקיקה), התשפ"ו-2026 — Verkuendung in Reshumot,
+      ספר החוקים 3546
+    url: https://fs.knesset.gov.il/25/law/25_lsr_14147458.pdf
+    sprache: he
+    urheber: כנסת ישראל / רשומות — Knesset, amtliches Gesetzblatt
+    verifiziert: true
+    notiz: 'Amtlicher Verkuendungstext. Am 05.09.2026 daraus im Wortlaut geprueft: § 2א2 mit Offenlegungspflicht,
+      beiden Legaldefinitionen und der Befristungsklausel (S. 768 f.).'
+  - datum: 2026-07-16
+    typ: uebersicht
+    titel: Verfahrensakte im nationalen Gesetzgebungsregister der Knesset
+    url: https://main.knesset.gov.il/APPS/legislation/main/bills/2244462
+    sprache: he
+    urheber: כנסת ישראל — מאגר החקיקה הלאומי
+    verifiziert: true
+    notiz: Am 05.09.2026 im Browser ausgelesen. Enthaelt saemtliche Verfahrensdaten, die Fundstellen in
+      Reshumot, die Liste der geaenderten Gesetze mit Aenderungsnummern und Seitenzahlen, die Ausschussprotokolle
+      und die amtliche Kurzfassung des Gesetzes, die die Deepfake-Vorschrift ausdruecklich mit der leichten
+      Zugaenglichkeit von Erzeugungs- und Bearbeitungswerkzeugen "unter anderem unter Einsatz kuenstlicher
+      Intelligenz" begruendet.
+  - datum: 2026-07-06
+    typ: entwurf
+    titel: Entwurf fuer die erste Lesung (הצעות חוק הכנסת 1209, S. 302)
+    url: https://fs.knesset.gov.il/25/law/25_ls1_13951724.pdf
+    sprache: he
+    urheber: כנסת ישראל
+    verifiziert: false
+    notiz: Amtlicher Entwurfstext fuer die erste Lesung; Adresse aus der Verfahrensakte entnommen, nicht
+      abgerufen.
+  - datum: 2026-07-13
+    typ: entwurf
+    titel: Entwurf fuer die zweite und dritte Lesung
+    url: https://fs.knesset.gov.il/25/law/25_ls2_14110686.pdf
+    sprache: he
+    urheber: כנסת ישראל
+    verifiziert: false
+    notiz: Adresse aus der Verfahrensakte entnommen, nicht abgerufen.
+  - datum: 2026-07-16
+    typ: konsolidiert
+    titel: Gesetzestext in nicht amtlicher Fassung (Word-Datei der Knesset)
+    url: https://fs.knesset.gov.il/25/law/25_lsh_14185834.docx
+    sprache: he
+    urheber: כנסת ישראל
+    verifiziert: false
+    notiz: Von der Knesset bereitgestellte, ausdruecklich nicht amtliche Textfassung.
+  offene_punkte:
+  - Die Sanktion ist unklar. Der Verkuendungstext enthaelt in § 2א2 selbst keine Strafdrohung; ob und
+    wie § 17 des Wahlwerbegesetzes (Straftatbestaende) oder die Befugnisse des Wahlausschussvorsitzenden
+    greifen, ist am Gesetzestext nicht geprueft. Die Presse berichtet lediglich, ein Verstoss koenne als
+    Gesetzesverstoss gewertet werden und die Verantwortung treffe den Veroeffentlichenden.
+  - 'Widerspruch zum Beginn der Pflicht: Aus dem Gesetzeswortlaut ergibt sich der 23.07.2026 (eine Woche
+    nach Verkuendung). Mehrere Medien nennen den 26.07.2026 — den Tag der Ausfuehrungsregeln — als Beginn
+    der Kennzeichnungspflicht. Der Widerspruch ist nicht aufgeloest; wahrscheinlich ist die Pflicht am
+    23.07. entstanden und ab dem 26.07. in der Form der Regeln zu erfuellen.'
+  - Ob die befristete Vorschrift nach Ablauf verlaengert oder in Dauerrecht ueberfuehrt wird, ist offen.
+    Vier private Gesetzentwuerfe zu Deepfake-Straftatbestaenden liegen seit 2025 vor, keiner ist verabschiedet.
+  monitoring_quellen:
+  - https://main.knesset.gov.il/APPS/legislation/main/bills/2244462
+  - https://www.bechirot.gov.il/home/
+  bezug_regelwerke:
+  - il-tameola-1959
+  - il-wahl-deepfake-regeln-2026
+  - il-deepfake-strafentwuerfe
+  - il-reg-4255-2026
+  letzte_pruefung: &id004 2026-09-05
+- id: il-tameola-1959
+  jurisdiktion: il
+  kurztitel: Wahlgesetz (Wahlwerbung) 5719-1959
+  offizieller_titel: חוק הבחירות (דרכי תעמולה), התשי"ט-1959 — Chok ha-bechirot (darchei taamula), ha-tashyat-1959
+    (Wahlgesetz — Arten der Wahlwerbung)
+  fundstelle: ס"ח התשי"ט; zuletzt geaendert durch die Aenderungen Nr. 42 und 43 im Gesetz ueber die Wahlen
+    zur 26. Knesset (ס"ח 3546 vom 16.07.2026, S. 767 f.)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Das Stammgesetz des israelischen Wahlwerberechts. Es traegt seit dem 16.07.2026 mit §
+    2א2 die einzige Vorschrift des israelischen Rechts, die synthetische Inhalte einer Kennzeichnungspflicht
+    unterwirft. Die Vorschrift ist befristet; die uebrigen Aenderungen (unter anderem die zeitlich unbeschraenkte
+    Transparenzpflicht ueber die Identitaet des Werbenden) sind Dauerrecht.
+  kurzbeschreibung: 'Das Gesetz regelt Zulaessigkeit, Formen und Grenzen der Wahlwerbung und gibt dem
+    Vorsitzenden des Zentralen Wahlausschusses — traditionell ein Richter des Obersten Gerichtshofs —
+    weitreichende Anordnungs- und Regelungsbefugnisse. Es ist damit in Israel das funktionale Aequivalent
+    zu einem Medienaufsichtsrecht fuer Wahlkampfzeiten. Fuer die KI-Regulierung ist es deshalb bedeutsam,
+    weil der israelische Gesetzgeber die Deepfake-Frage hier und nicht im allgemeinen Recht angesiedelt
+    hat: Der Anwendungsbereich ist auf Wahlwerbung beschraenkt, die Durchsetzung liegt bei einem Einzelrichter
+    mit Eilbefugnissen, und die Rechtsfolge ist eine Offenlegung, nicht ein Verbot.'
+  inkrafttreten:
+    datum: 1959-07-06
+    verifiziert: true
+    quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_(%D7%93%D7%A8%D7%9B%D7%99_%D7%AA%D7%A2%D7%9E%D7%95%D7%9C%D7%94)
+    fundstelle_norm: '§ 21 des Gesetzes (תחילה): ''תחילתו של חוק זה היא מיום קבלתו בכנסת'' — Inkrafttreten
+      am Tag der Annahme in der Knesset; Schlussvermerk des amtlichen Textes: ''נתקבל בכנסת ביום ל׳ בסיון
+      תשי"ט (6 ביולי 1959)''. Fundstelle: ס"ח תשי"ט מס'' 284, עמ'' 138'
+  anwendungsdaten:
+  - datum: 2026-07-23
+    was_gilt: '§ 2א2 חוק הבחירות (דרכי תעמולה) — Kennzeichnungspflicht fuer Wahlwerbung, die eine ''נחזות
+      עמוקה'' (Deepfake) ist. Eingefuegt als הוראת שעה (befristete Vorschrift) durch § 12 des חוק הבחירות
+      לכנסת העשרים ושש (הוראות מיוחדות ותיקוני חקיקה), התשפ"ו-2026: ''הנוסח שולב בחוק הבחירות (דרכי תעמולה),
+      התשי"ט-1959 כהוראת שעה מיום 23.7.2026 ועד יום 26.10.2027''. Die Befristung endet am 26.10.2027.'
+    verifiziert: true
+    quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%D7%9C%D7%9B%D7%A0%D7%A1%D7%AA_%D7%94%D7%A2%D7%A9%D7%A8%D7%99%D7%9D_%D7%95%D7%A9%D7%A9_(%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA_%D7%95%D7%AA%D7%99%D7%A7%D7%95%D7%A0%D7%99_%D7%97%D7%A7%D7%99%D7%A7%D7%94)
+  - datum: 2026-07-26
+    was_gilt: כללי הבחירות (דרכי תעמולה) (עמידה בחובת הגילוי לגבי תעמולת בחירות שהיא נחזות עמוקה), התשפ"ו-2026
+      — Ausfuehrungsregeln des Vorsitzenden der Zentralen Wahlkommission (Richter Noam Sohlberg) nach
+      § 2א2(ב); sie gelten fuer Inhalte, die erstmals ab dem 26.07.2026 veroeffentlicht werden
+    verifiziert: true
+    quelle: https://www.mako.co.il/news-israel-elections/2026/Article-155d34c185e9f91027.htm
+  - datum: 2027-10-26
+    was_gilt: Ende der Befristung des § 2א2 (הוראת שעה laeuft bis einschliesslich 26.10.2027)
+    verifiziert: true
+    quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%D7%9C%D7%9B%D7%A0%D7%A1%D7%AA_%D7%94%D7%A2%D7%A9%D7%A8%D7%99%D7%9D_%D7%95%D7%A9%D7%A9_(%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA_%D7%95%D7%AA%D7%99%D7%A7%D7%95%D7%A0%D7%99_%D7%97%D7%A7%D7%99%D7%A7%D7%94)
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - '§ 2א2 (eingefuegt 2026, befristet): Offenlegungspflicht fuer Wahlwerbung, die eine נחזות עמוקה ist;
+    Legaldefinitionen von "digitalem Mittel" und "tiefer Scheinbarkeit"; Ermaechtigung des Wahlausschussvorsitzenden
+    zum Erlass von Regeln ueber die Erfuellung der Pflicht.'
+  - 'Transparenz der Werbenden: Die Pflicht, die Identitaet des Veroeffentlichenden einer Wahlanzeige
+    anzugeben, gilt seit 2026 jederzeit und nicht mehr nur waehrend des Wahlkampfzeitraums.'
+  - 'Institutionelle Besonderheit: Der Vorsitzende des Zentralen Wahlausschusses ist Richter des Obersten
+    Gerichtshofs (fuer die 26. Knesset Vizepraesident Noam Sohlberg) und entscheidet in einem eigenen,
+    schnellen Verfahren ueber Verstoesse. Das ist der Grund, weshalb die Kennzeichnungspflicht binnen
+    Tagen durchgesetzt werden konnte.'
+  dokumente:
+  - datum: 2026-07-16
+    typ: konsolidiert
+    titel: חוק הבחירות (דרכי תעמולה) — laufend gepflegte Textfassung
+    url: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_(%D7%93%D7%A8%D7%9B%D7%99_%D7%AA%D7%A2%D7%9E%D7%95%D7%9C%D7%94)
+    sprache: he
+    urheber: ויקיטקסט
+    verifiziert: false
+    notiz: NICHT amtlich. Nicht ausgewertet; als Einstieg in den konsolidierten Text vermerkt.
+  offene_punkte:
+  - Der konsolidierte Text des Stammgesetzes wurde nicht geprueft; insbesondere ist offen, welche Straf-
+    oder Ordnungswidrigkeitenvorschrift auf § 2א2 anwendbar ist.
+  monitoring_quellen:
+  - https://www.bechirot.gov.il/home/
+  - https://main.knesset.gov.il/APPS/legislation/main/laws
+  bezug_regelwerke:
+  - il-wahlgesetz-26-2026
+  - il-wahl-deepfake-regeln-2026
+  letzte_pruefung: *id004
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war 01.01.1959 — ein Platzhalter (1. Januar des Jahres), kein Inkrafttreten.
+    § 21 des Gesetzes stellt auf den Tag der Annahme in der Knesset ab; das ist nach dem amtlichen Schlussvermerk
+    der 06.07.1959. Zusaetzlich korrigiert: Die KI-Kennzeichnungspflicht des § 2א2 gilt NICHT seit dem
+    16.07.2026 — der 16.07.2026 ist nur der Tag der Annahme des Aenderungsgesetzes in der Knesset (ס"ח
+    תשפ"ו, 762) und damit ein Vorakt. § 12 des Aenderungsgesetzes setzt die befristete Vorschrift ausdruecklich
+    vom 23.07.2026 bis 26.10.2027 in Kraft; die Ausfuehrungsregeln des Wahlkommissionsvorsitzenden gelten
+    ab 26.07.2026. status_detail des Eintrags ist entsprechend zu berichtigen. Vorher: 1959-01-01.'
+- id: il-wahl-deepfake-regeln-2026
+  jurisdiktion: il
+  kurztitel: Deepfake-Kennzeichnungsregeln des Wahlausschussvorsitzenden 2026
+  offizieller_titel: כללי הבחירות (דרכי תעמולה)(עמידה בחובת הגילוי לגבי תעמולת בחירות שהיא נחזות עמוקה),
+    התשפ"ו-2026 — Klalei ha-bechirot (darchei taamula)(amida be-chovat ha-giluy legabei taamulat bechirot
+    she-hi nechzut amuka), ha-tashpav-2026 (Wahlregeln — Erfuellung der Offenlegungspflicht bei Wahlwerbung,
+    die eine tiefe Scheinbarkeit ist)
+  fundstelle: רשומות, ילקוט הפרסומים Nr. 12484; erlassen am 26.07.2026 (י"ב באב התשפ"ו)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: Erlassen am 26.07.2026 von Noam Sohlberg, Vizepraesident des Obersten Gerichtshofs und
+    Vorsitzender des Zentralen Wahlausschusses fuer die 26. Knesset, auf Grundlage des § 2א2(b) des Wahlgesetzes
+    (Wahlwerbung) 5719-1959. Gilt fuer Inhalte, die ab dem Stichtag erstmals verbreitet werden; auf vor
+    dem Stichtag veroeffentlichte Wahlwerbung findet die Pflicht keine Anwendung.
+  kurzbeschreibung: 'Die Regeln bestimmen, wie die gesetzliche Offenlegungspflicht bei Deepfake-Wahlwerbung
+    praktisch zu erfuellen ist. Zulaessig sind zwei Formen: ein Texthinweis, wonach der Inhalt mit einem
+    digitalen Mittel erzeugt und nicht im Original aufgezeichnet beziehungsweise wesentlich digital bearbeitet
+    wurde, oder ein KI-Logo mit der Kennzeichnung "AI" nebst dem Satz "התוכן נוצר באמצעי דיגיטלי ולא תועד
+    במקור" (der Inhalt wurde mit einem digitalen Mittel erzeugt und nicht im Original aufgezeichnet) oder
+    einer entsprechenden Fassung fuer bearbeitete Inhalte. Die Formvorgaben sind ungewoehnlich konkret:
+    klarer Hintergrund, kontrastreiche Farbe, auffaellige Platzierung, lesbare und nicht gestauchte Schrift,
+    gleiche Sprache wie der Inhalt; bei Bild und Druck mindestens fuenf Prozent der Inhaltshoehe beziehungsweise
+    zehn Punkt, je nachdem was groesser ist; bei Video durchgehend waehrend der gesamten Laufzeit und
+    mindestens fuenf Prozent der Bildhoehe; bei Ton am Anfang und am Ende der Aufnahme in gleicher Lautstaerke
+    und Geschwindigkeit wie der uebrige Inhalt. Damit hat Israel — anders als der Kennzeichnungsartikel
+    50 der KI-Verordnung, der die Form offenlaesst — quantitative Formvorgaben fuer die Kennzeichnung
+    synthetischer Inhalte in Kraft.'
+  inkrafttreten:
+    datum: 2026-07-26
+    verifiziert: true
+    quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
+  anwendungsdaten:
+  - datum: 2026-07-26
+    was_gilt: Erlass und Beginn der Anwendung; erfasst Inhalte, die ab diesem Tag erstmals verbreitet
+      werden.
+    verifiziert: true
+    quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Zwei zulaessige Offenlegungsformen: Texthinweis oder KI-Logo mit der Kennzeichnung "AI" nebst erlaeuterndem
+    Satz.'
+  - 'Formvorgaben (Regel 3): klarer Hintergrund, kontrastreiche Farbe, auffaellige Platzierung, lesbare
+    und klare, nicht gestauchte Schrift in einem der Groesse und dem Hintergrund angemessenen Verhaeltnis,
+    in derselben Sprache wie der Inhalt der Wahlwerbung.'
+  - 'Bild und Druck: Groesse der Kennzeichnung mindestens fuenf Prozent der Hoehe des Inhalts oder zehn
+    Punkt, je nachdem was groesser ist.'
+  - 'Video: Offenlegung waehrend der gesamten Laufzeit sichtbar, mindestens fuenf Prozent der Bildhoehe
+    beziehungsweise -breite.'
+  - 'Ton: Offenlegung am Anfang und am Ende der Aufnahme, in Lautstaerke und Sprechgeschwindigkeit dem
+    uebrigen Inhalt entsprechend.'
+  - 'Zeitliche Anwendung: nur auf Inhalte, die ab dem Stichtag erstmals verbreitet werden.'
+  dokumente:
+  - datum: 2026-07-26
+    typ: delegiert
+    titel: כללי הבחירות (דרכי תעמולה)(עמידה בחובת הגילוי לגבי תעמולת בחירות שהיא נחזות עמוקה), התשפ"ו-2026
+    url: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
+    sprache: he
+    urheber: נעם סולברג, המשנה לנשיא בית המשפט העליון, יו"ר ועדת הבחירות המרכזית — Noam Sohlberg, Vizepraesident
+      des Obersten Gerichtshofs, Vorsitzender des Zentralen Wahlausschusses
+    verifiziert: true
+    notiz: Am 05.09.2026 im Volltext ausgewertet. Nennt als Rechtsgrundlage § 2א2(b) des Wahlgesetzes
+      (Wahlwerbung) 1959, das Datum י"ב באב התשפ"ו und die Fundstelle ילקוט הפרסומים Nr. 12484. Die Adresse
+      ist eine private Sammlung; eine amtliche Fundstelle im Netz wurde nicht gefunden.
+  - datum: 2026-07-26
+    typ: uebersicht
+    titel: Entscheidungen und Anordnungen der Vorsitzenden des Zentralen Wahlausschusses
+    url: https://bechirot24.bechirot.gov.il/election/Decisions/AllDecisions/Pages/Guidelines-and-previous-decisions.aspx
+    sprache: he
+    urheber: ועדת הבחירות המרכזית לכנסת — Zentraler Wahlausschuss
+    verifiziert: false
+    notiz: Amtliche Sammlung der Anordnungen der Ausschussvorsitzenden. Nicht abgerufen; hier als Fundort
+      der amtlichen Fassung vermerkt.
+  offene_punkte:
+  - Eine amtliche Netzfundstelle der Regeln (Wahlausschuss oder Reshumot) wurde nicht gefunden; ausgewertet
+    ist eine Kopie in einer privaten Sammlung. Die dort genannte Fundstelle ילקוט הפרסומים 12484 ist nicht
+    am Publikationsblatt geprueft.
+  - 'Die Durchsetzungspraxis ist noch jung: Nach Presseberichten wurde bereits kurz nach Inkrafttreten
+    die Entfernung eines Videos eines Ministers verlangt. Ob daraus eine veroeffentlichte Entscheidung
+    des Ausschussvorsitzenden geworden ist, wurde nicht geprueft.'
+  monitoring_quellen:
+  - https://bechirot24.bechirot.gov.il/election/Decisions/AllDecisions/Pages/Guidelines-and-previous-decisions.aspx
+  - https://www.bechirot.gov.il/home/
+  bezug_regelwerke:
+  - il-tameola-1959
+  - il-wahlgesetz-26-2026
+  letzte_pruefung: *id004
+- id: il-deepfake-strafentwuerfe
+  jurisdiktion: il
+  kurztitel: Private Gesetzentwuerfe zu Deepfakes und KI-Werbung (2025/2026)
+  offizieller_titel: הצעת חוק העונשין (תיקון — עבירות זיוף עמוק) und weitere private Gesetzentwuerfe —
+    Strafgesetzentwuerfe zu Deepfake-Straftatbestaenden sowie Entwuerfe zur Kennzeichnung von Werbung
+    und digitaler Wahlwerbung
+  fundstelle: 'Private Gesetzentwuerfe der 25. Knesset: פ/5411/25 vom 27.01.2025; פ/5600/25 vom 10.03.2025;
+    פ/5677/25 vom 31.03.2025; פ/6312/25 vom 26.11.2025; פ/6651/25 vom 15.05.2026'
+  verfahrensnummer: פ/5411/25, פ/5600/25, פ/5677/25, פ/6312/25, פ/6651/25
+  status: entwurf
+  status_detail: Sämtlich private Gesetzentwuerfe der 25. Knesset; keiner ist verabschiedet worden. Statt
+    ihrer hat der Gesetzgeber im Juli 2026 den befristeten wahlrechtlichen Weg gewaehlt. Mit dem Ende
+    der 25. Knesset im Vorfeld der Wahl vom 27.10.2026 verfallen sie, soweit die naechste Knesset nicht
+    das Kontinuitaetsverfahren beschliesst.
+  kurzbeschreibung: 'Israel hat seit Anfang 2025 mehrere Anlaeufe erlebt, Deepfakes strafrechtlich und
+    werberechtlich zu erfassen. Der weitestgehende Entwurf, פ/6312/25 des Abgeordneten Yasser Khogairat
+    vom 26.11.2025, wuerde das Strafgesetzbuch um Deepfake-Straftatbestaende ergaenzen: Verbreitung zur
+    Rufschaedigung oder zur Erregung oeffentlicher Furcht zwei Jahre Freiheitsstrafe; sexuelle Deepfake-Inhalte
+    fuenf Jahre; taeuschende Verbreitung zur Erlangung eines Vorteils sieben Jahre; Deepfakes zur Beeinflussung
+    von Wahlen zehn Jahre. Daneben stehen ein Entwurf zur Kennzeichnung von mit KI erzeugter oder bearbeiteter
+    Werbung (פ/5600/25) und ein Entwurf zur digitalen und KI-gestuetzten Wahlwerbung mit Strafschaerfungen
+    (פ/6651/25 des Abgeordneten Ethan Ginzburg). Der Befund ist aussagekraeftig: Israel hat die schaerferen
+    Instrumente erwogen und sich fuer die mildeste Variante entschieden — eine befristete Offenlegungspflicht
+    ohne ausdrueckliche Strafdrohung, beschraenkt auf Wahlwerbung.'
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%D7%9C%D7%9B%D7%A0%D7%A1%D7%AA_%D7%94%D7%A2%D7%A9%D7%A8%D7%99%D7%9D_%D7%95%D7%A9%D7%A9_(%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA_%D7%95%D7%AA%D7%99%D7%A7%D7%95%D7%A0%D7%99_%D7%97%D7%A7%D7%99%D7%A7%D7%94)
+    fundstelle_norm: Kein Inkrafttreten — keiner der privaten Gesetzentwuerfe der 25. Knesset ist verabschiedet
+      worden. Der Gesetzgeber hat stattdessen den befristeten wahlrechtlichen Weg gewaehlt (§ 2א2 חוק
+      הבחירות (דרכי תעמולה), הוראת שעה vom 23.07.2026 bis 26.10.2027)
+  anwendungsdaten:
+  - datum: 2025-01-27
+    was_gilt: 'פ/5411/25 — הצעת חוק העונשין (תיקון — עבירות זיוף עמוק), התשפ"ה-2025: Verbot der Veroeffentlichung
+      von Deepfakes.'
+    verifiziert: false
+    quelle: https://www.law.co.il/legislation/2025/02/05/deep-fake-penal-code-amendment-private-bill/
+  - datum: 2025-03-10
+    was_gilt: 'פ/5600/25 — הצעת חוק סימון פרסומות המכילות תוכן שנוצר או נערך באמצעות בינה מלאכותית (תיקוני
+      חקיקה), התשפ"ה-2025: Kennzeichnungspflicht fuer mit KI erzeugte oder bearbeitete Werbung im Rundfunk.'
+    verifiziert: false
+    quelle: https://www.law.co.il/media/computer-law/marking_of_ai_created_ads_5600_bill.pdf
+  - datum: 2025-03-31
+    was_gilt: פ/5677/25 — zweite Fassung des Deepfake-Strafgesetzentwurfs.
+    verifiziert: false
+    quelle: https://www.law.co.il/knowledge-centers/Artifical-Intelligence/ai-israel-legislation-jurisprudence/
+  - datum: 2025-11-26
+    was_gilt: 'פ/6312/25 — הצעת חוק העונשין (תיקון — עבירות זיוף עמוק), התשפ"ו-2025 (MdK Yasser Khogairat):
+      abgestufte Straftatbestaende von zwei bis zehn Jahren Freiheitsstrafe.'
+    verifiziert: true
+    quelle: https://www.law.co.il/legislation/2025/11/26/deep-fake-penal-code-amendment-6312-private-bill/
+  - datum: 2026-05-15
+    was_gilt: פ/6651/25 — הצעת חוק הבחירות (דרכי תעמולה)(תיקון — תעמולה דיגיטלית, תעמולה מבוססת בינה מלאכותית
+      והחמרת ענישה), התשפ"ו-2026 (MdK Ethan Ginzburg).
+    verifiziert: true
+    quelle: https://www.law.co.il/legislation/2026/05/15/digital-election-campaign-6651-private-bill/
+  themenachsen:
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'פ/6312/25 Definition: "Ton- oder Bildinhalt, der mit digitaler Technologie erzeugt oder veraendert
+    wurde und dazu bestimmt ist, es der Oeffentlichkeit zu erschweren, ihn als gefaelscht zu erkennen."'
+  - 'פ/6312/25 Strafrahmen: Rufschaedigung oder Erregung oeffentlicher Furcht zwei Jahre; sexuelle Inhalte
+    fuenf Jahre; taeuschende Verbreitung zur Erlangung einer Sache sieben Jahre; Beeinflussung von Wahlen
+    zehn Jahre.'
+  - 'פ/5600/25: Kennzeichnungspflicht fuer ausgestrahlte Werbung, die mit kuenstlicher Intelligenz erzeugt
+    oder bearbeitet wurde — der einzige Entwurf, der ueber den Wahlkampf hinaus in den allgemeinen Werbemarkt
+    greift.'
+  - 'פ/6651/25: Modernisierung des Wahlwerbegesetzes von 1959 fuer soziale Netzwerke und KI-gestuetzte
+    Werbung; Staerkung von Transparenz- und Verantwortlichkeitspflichten der Veroeffentlichenden bei ausdruecklicher
+    Schonung der Inhalte politischer Botschaften; Strafschaerfung.'
+  - 'Gemeinsames Merkmal: Alle Entwuerfe stammen von einzelnen Abgeordneten, keiner von der Regierung.
+    Die Regierung hat in der KI-Frage bis September 2026 keinen einzigen Gesetzentwurf eingebracht.'
+  dokumente:
+  - datum: 2025-11-26
+    typ: entwurf
+    titel: הצעת חוק העונשין (תיקון — עבירות זיוף עמוק), התשפ"ו-2025 (פ/6312/25)
+    url: https://www.law.co.il/legislation/2025/11/26/deep-fake-penal-code-amendment-6312-private-bill/
+    sprache: he
+    urheber: law.co.il (Wiedergabe des Knesset-Entwurfs)
+    verifiziert: true
+    notiz: Sekundaerquelle mit Wiedergabe des Entwurfstextes. Eine amtliche Adresse im Gesetzgebungsregister
+      der Knesset wurde nicht ermittelt.
+  - datum: 2025-03-10
+    typ: entwurf
+    titel: הצעת חוק סימון פרסומות המכילות תוכן שנוצר או נערך באמצעות בינה מלאכותית (תיקוני חקיקה), התשפ"ה-2025
+      (פ/5600/25)
+    url: https://www.law.co.il/media/computer-law/marking_of_ai_created_ads_5600_bill.pdf
+    sprache: he
+    urheber: כנסת ישראל (Wiedergabe bei law.co.il)
+    verifiziert: false
+    notiz: Entwurfstext als PDF in einer privaten Sammlung; nicht abgerufen.
+  - datum: 2026-05-15
+    typ: entwurf
+    titel: הצעת חוק הבחירות (דרכי תעמולה)(תיקון — תעמולה דיגיטלית, תעמולה מבוססת בינה מלאכותית והחמרת
+      ענישה), התשפ"ו-2026 (פ/6651/25)
+    url: https://www.law.co.il/legislation/2026/05/15/digital-election-campaign-6651-private-bill/
+    sprache: he
+    urheber: law.co.il (Wiedergabe des Knesset-Entwurfs)
+    verifiziert: true
+    notiz: Sekundaerquelle. Amtliche Adresse nicht ermittelt.
+  offene_punkte:
+  - Amtliche Adressen im Gesetzgebungsregister der Knesset konnten fuer keinen der fuenf Entwuerfe ermittelt
+    werden; die Entwurfsnummern und Daten stammen aus einer privaten, aber gut gepflegten Sammlung.
+  - Ob die 26. Knesset das Kontinuitaetsverfahren fuer einen dieser Entwuerfe beschliesst, ist offen.
+  monitoring_quellen:
+  - https://main.knesset.gov.il/APPS/legislation/main/laws
+  - https://www.law.co.il/knowledge-centers/Artifical-Intelligence/ai-israel-legislation-jurisprudence/
+  bezug_regelwerke:
+  - il-wahlgesetz-26-2026
+  - il-tameola-1959
+  letzte_pruefung: *id004
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten null, Status entwurf. Geprueft wurde am Text des einzigen 2026 verabschiedeten
+    Gesetzes, dass keiner der Deepfake-Strafentwuerfe in ihm aufgegangen ist. Mit dem Ende der 25. Knesset
+    vor der Wahl vom 27.10.2026 verfallen sie vorbehaltlich des Kontinuitaetsverfahrens.'
+- id: il-boi-nbt-369
+  jurisdiktion: il
+  kurztitel: Bankenaufsichtsrichtlinie 369 — Modellrisikomanagement
+  offizieller_titel: 'הוראת ניהול בנקאי תקין מס'' 369: ניהול סיכוני מודלים — Horaat nihul bankai takin
+    mis. 369: nihul sikunei modelim (Richtlinie ueber ordnungsgemaesse Bankfuehrung Nr. 369: Management
+    von Modellrisiken)'
+  fundstelle: Rundschreiben der Bankenaufsicht der Bank von Israel vom 21.08.2024 (h2792)
+  verfahrensnummer: '369'
+  status: anwendbar
+  status_detail: Erlassen am 21.08.2024, anwendbar ein Jahr nach Veroeffentlichung, also seit dem 21.08.2025.
+    Dies ist die einzige BINDENDE israelische Aufsichtsvorschrift, die KI-Systeme ausdruecklich erfasst
+    — und sie tut es nicht ueber einen KI-Begriff, sondern ueber den Modellbegriff.
+  kurzbeschreibung: 'Die Richtlinie verpflichtet Bankinstitute zu einem Rahmen fuer das Management von
+    Modellrisiken ueber den gesamten Lebenszyklus: Bestandsverzeichnis, Entwicklung, unabhaengige Validierung,
+    Freigabe, laufende Ueberwachung, Dokumentation und Governance auf Vorstands- und Aufsichtsratsebene.
+    Fuer die KI-Regulierung entscheidend ist ihr § 5: "כל האמור בהוראה זו חל גם על מודלים הכוללים שימוש
+    או התבססות על בינה מלאכותית" — alles in dieser Richtlinie Bestimmte gilt auch fuer Modelle, die kuenstliche
+    Intelligenz einsetzen oder auf ihr beruhen. Ergaenzend verlangt sie fuer KI-Modelle besondere Aufmerksamkeit
+    fuer Fairness und die Vermeidung unbeabsichtigter Verzerrung und Diskriminierung, eine an die Lernmechanik
+    angepasste Verantwortlichkeit mit menschlicher Aufsicht, die Gestaltung von Kontrollen fuer KI-gestuetzte
+    Entscheidungen sowie Transparenz und Erklaerbarkeit der Ergebnisse mit umfassender Dokumentation;
+    ein eigener Anhang enthaelt Umsetzungsbeispiele. Sanktion ist die aufsichtsrechtliche Durchsetzung
+    durch die Bankenaufsicht bis hin zu Anordnungen und Verwaltungsmassnahmen.'
+  inkrafttreten:
+    datum: 2025-08-21
+    verifiziert: true
+    quelle: https://www.boi.org.il/media/mcyfqkkp/h2792.pdf
+  anwendungsdaten:
+  - datum: 2024-08-21
+    was_gilt: Erlass der Richtlinie 369 durch den Bankenaufseher; Beginn der einjaehrigen Umsetzungsfrist.
+    verifiziert: true
+    quelle: https://www.boi.org.il/media/mcyfqkkp/h2792.pdf
+  - datum: 2025-08-21
+    was_gilt: Anwendbarkeit der Richtlinie einschliesslich ihrer ausdruecklichen Erstreckung auf KI-Modelle.
+    verifiziert: true
+    quelle: https://www.boi.org.il/media/mcyfqkkp/h2792.pdf
+  - datum: 2026-05-17
+    was_gilt: 'Die Bankenaufsicht veroeffentlicht Ergebnisse einer Erhebung zur Reife der KI-Governance
+      in den Bankinstituten: breite Governance-Rahmen vorhanden, aber Luecken auf uebergreifender Ebene,
+      die bei zunehmendem Einsatz zu beruecksichtigen sind.'
+    verifiziert: true
+    quelle: https://boi.org.il/publications/pressreleases/17-5-26/
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - '§ 5: ausdrueckliche Erstreckung der gesamten Richtlinie auf Modelle, die kuenstliche Intelligenz
+    einsetzen oder auf ihr beruhen. Das ist der technisch eleganteste Weg, KI zu regeln, ohne KI zu definieren:
+    Wer ein Modell einsetzt, unterliegt dem Modellrisikoregime, gleich ob es sich um eine Regression oder
+    um ein neuronales Netz handelt.'
+  - 'Anforderungen fuer KI-Modelle: Fairness und Vermeidung unbeabsichtigter Verzerrung und Diskriminierung;
+    an die Lernmechanik angepasste Verantwortlichkeit mit menschlicher Aufsicht; Gestaltung von Kontrollen
+    fuer KI-gestuetzte Entscheidungsfindung; Transparenz und Erklaerbarkeit der Ergebnisse mit umfassender
+    Dokumentation.'
+  - Eigener Anhang mit Umsetzungsbeispielen fuer die Governance von KI-Modellen.
+  - 'Governance: Verantwortung des Verwaltungsrats fuer den Modellrisikorahmen; unabhaengige Validierung;
+    Bestandsverzeichnis aller Modelle.'
+  - 'Vergleichspunkt: Waehrend die KI-Verordnung Kreditwuerdigkeitspruefung ueber Anhang III als Hochrisiko
+    einstuft und ein eigenes Konformitaetsregime aufsetzt, erreicht Israel dasselbe Ergebnis durch Erweiterung
+    einer bestehenden Aufsichtsrichtlinie um einen einzigen Satz.'
+  dokumente:
+  - datum: 2024-08-21
+    typ: leitlinie
+    titel: הוראת ניהול בנקאי תקין מס' 369 — ניהול סיכוני מודלים
+    url: https://www.boi.org.il/media/mcyfqkkp/h2792.pdf
+    sprache: he
+    urheber: בנק ישראל, הפיקוח על הבנקים — Bank von Israel, Bankenaufsicht
+    verifiziert: true
+    notiz: Amtliches Rundschreiben. Am 05.09.2026 ausgewertet; § 5 mit der Erstreckung auf KI-Modelle
+      im Wortlaut geprueft.
+  - datum: 2026-05-17
+    typ: bericht
+    titel: 'שימוש ב-AI: התפתחויות בבנקים בעולם ובישראל (Kasten aus der Uebersicht ueber das israelische
+      Bankensystem 2025)'
+    url: https://boi.org.il/publications/pressreleases/17-5-26/
+    sprache: he
+    urheber: בנק ישראל — Bank von Israel
+    verifiziert: true
+    notiz: Belegt, dass die Aufsicht 2025/26 eine Erhebung zur Reife der KI-Governance durchgefuehrt hat
+      und den Zeitpunkt fuer angemessen haelt, die KI-Governance im Bankensystem zu pruefen.
+  offene_punkte:
+  - Ob die Bankenaufsicht eine eigene KI-Richtlinie neben Nr. 369 plant, ist offen. Der Abschlussbericht
+    des ressortuebergreifenden Teams vom Dezember 2025 empfiehlt ausdruecklich weiche Instrumente statt
+    bindender Vorgaben.
+  monitoring_quellen:
+  - https://www.boi.org.il/roles/supervisionregulation/area/technologyninnovation/
+  - https://www.boi.org.il/
+  bezug_regelwerke:
+  - il-finanzsektor-taskforce
+  letzte_pruefung: &id005 2026-09-05
+- id: il-finanzsektor-taskforce
+  jurisdiktion: il
+  kurztitel: Ressortuebergreifendes Team KI im Finanzsektor (Zwischen- und Abschlussbericht)
+  offizieller_titel: בינה מלאכותית בסקטור הפיננסי — Bina melachutit ba-sector ha-financi / "AI in the
+    Financial Sector — Israel's Interagency Taskforce on AI in Finance"
+  fundstelle: Zwischenbericht zur oeffentlichen Anhoerung Oktober 2024 (Anhoerungsfrist bis 15.12.2024);
+    Abschlussbericht Dezember 2025, englische Fassung Mai 2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Der Abschlussbericht liegt seit Dezember 2025 vor. Er empfiehlt ausdruecklich KEINE bindende
+    KI-Regulierung fuer den Finanzsektor, sondern flexible, prinzipienbasierte Instrumente, die bei Bedarf
+    schrittweise ergaenzt werden. Bindende Rechtsakte sind nicht angekuendigt; benannt sind Auslegungspapiere,
+    Vorabauskuenfte, Frage-und-Antwort-Veroeffentlichungen, Regulierungssandkaesten und Innovationszentren.
+  kurzbeschreibung: 'Das Team aus Justizministerium, Finanzministerium, Bankenaufsicht, Kapitalmarkt-,
+    Versicherungs- und Sparaufsicht, Wertpapieraufsicht und Wettbewerbsbehoerde ist die genaueste Ausformulierung
+    der israelischen Regulierungsphilosophie, die es gibt — genauer als das Grundsatzdokument von 2023.
+    Neun Leitgrundsaetze: flexible und anpassungsfaehige Regulierung; Anschluss an internationale Rahmenwerke;
+    Innovationsfoerderung; Erprobungsinstrumente; neue Massnahmen nur, wo die Umstaende es rechtfertigen;
+    Risikobasierung; Verbraucherschutz und Menschenrechte; Einheitlichkeit fuer gleichartige Dienste und
+    Risiken; Technologieneutralitaet. Materiell schlaegt der Bericht eine zweistufige Risikoklassifizierung
+    vor (niedrig bis mittel, hoch), bei der die beaufsichtigte Stelle zunaechst selbst einstuft und die
+    Aufsicht umstufen kann. Erklaerbarkeit wird nur fuer hochriskante Systeme mit wesentlicher Kundenwirkung
+    und nur fuer nachteilige Entscheidungen verlangt; kompensierende Massnahmen koennen sie ersetzen.
+    Menschliche Beteiligung in Echtzeit ist nur verlangt, wenn die Entscheidung wesentlich, hochriskant,
+    technologiegetragen ist UND keine angemessene Alternative besteht — pauschale Anforderungen werden
+    als Marktzutrittsschranke ausdruecklich abgelehnt. Die Haftung gegenueber dem Kunden bleibt bei der
+    beaufsichtigten Stelle; der Einsatz eines KI-Systems wird wie Auslagerung behandelt, Haftungsbeschraenkungen
+    gegenueber Kunden sind untersagt.'
+  inkrafttreten:
+    datum: 2025-12-01
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/reports/report_0013/he/AI%20in%20the%20Financial%20Sector%20-%20Final%20Report%20Dec2025.pdf
+  anwendungsdaten:
+  - datum: 2022-07-18
+    was_gilt: 'Vorlaeufer: Bericht des Justizministeriums ueber den Einsatz kuenstlicher Intelligenz im
+      Finanzsektor.'
+    verifiziert: false
+    quelle: https://www.gov.il/BlobFolder/news/ai_report/he/AI_report.pdf
+  - datum: 2024-10-01
+    was_gilt: Veroeffentlichung des Zwischenberichts zur oeffentlichen Anhoerung.
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/reports/report-06-11-24/he/ArtificialIntelligenceReport.pdf
+  - datum: 2024-12-15
+    was_gilt: Ende der Anhoerungsfrist zum Zwischenbericht.
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/reports/report-06-11-24/he/ArtificialIntelligenceReport.pdf
+  - datum: 2025-12-01
+    was_gilt: Abschlussbericht mit neun Leitgrundsaetzen, zweistufiger Risikoklassifizierung und drei
+      vertieften Anwendungsfeldern (Anlageberatung und Portfolioverwaltung, Verbraucherkredit, Versicherungszeichnung).
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/reports/report_0013/he/AI%20in%20the%20Financial%20Sector%20-%20Final%20Report%20Dec2025.pdf
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - haftung
+  - grundrechte
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Neun Leitgrundsaetze: Flexibilitaet und Anpassungsfaehigkeit; internationale Anschlussfaehigkeit;
+    Innovationsfoerderung; Erprobungsinstrumente (Sandkaesten); neue Massnahmen nur bei Bedarf; Risikobasierung;
+    Verbraucherschutz und Menschenrechte; Einheitlichkeit fuer gleichartige Dienste und Risiken; Technologieneutralitaet.'
+  - 'Zweistufige Risikoklassifizierung: niedrig bis mittel und hoch. Erstbewertung durch die beaufsichtigte
+    Stelle selbst; die Aufsicht kann umstufen oder ein System als hochriskant bestimmen. Die Maßnahmen
+    folgen verhaeltnismaessig der Stufe.'
+  - 'Erklaerbarkeit: keine allgemeine Pflicht. Verlangt nur bei hochriskanten Systemen mit wesentlicher
+    Kundenwirkung und nur bei NACHTEILIGEN Entscheidungen (Kreditablehnung, nicht Kreditgewaehrung). Kompensierende
+    Massnahmen (Systemkontrollen, alternative Servicewege) koennen an ihre Stelle treten; eine teilweise
+    Einzelfallerklaerung kann genuegen; keine Pflicht, wenn die KI nur unterstuetzt. Die Stelle muss aber
+    ihr eigenes System verstehen.'
+  - 'Menschliche Beteiligung: nur wenn die Entscheidung den Einzelnen wesentlich betrifft UND hochriskant
+    ist UND die Technologie eine wesentliche Rolle spielt UND keine angemessene Alternative besteht. Nicht
+    verlangt bei Entscheidungsunterstuetzung, bei geringem Risiko und wenn ein menschlicher Servicekanal
+    offensteht. Pauschale Anforderungen werden als Marktzutrittsschranke ausdruecklich abgelehnt.'
+  - 'Offenlegung: dreiteilig — Pflichthinweis auf den Einsatz eines KI-Systems (jedenfalls in der Einfuehrungsphase,
+    spaeter zu ueberpruefen); Integration von Angaben zu den Systemeigenschaften in die bestehenden Produktinformationen;
+    Verbot irrefuehrender KI-Werbung ("AI washing"). Ausnahme, wo der Einsatz offensichtlich ist.'
+  - 'Haftung: Die beaufsichtigte Stelle haftet dem Kunden gegenueber unveraendert; der Einsatz eines KI-Systems
+    wird wie Auslagerung behandelt; der Verwaltungsrat bleibt fuer Einbindung und Risikomanagement verantwortlich;
+    Haftungsbeschraenkungen gegenueber Kunden sind unzulaessig, ausser bei missbraeuchlicher Nutzung oder
+    uebernommenem Risiko.'
+  - 'Diskriminierung: Die bestehenden Antidiskriminierungsvorschriften gelten unveraendert auch fuer KI-Systeme;
+    Ueberwachung ueber den gesamten Lebenszyklus.'
+  - 'Drei vertiefte Anwendungsfelder: Anlageberatung und Portfolioverwaltung (aktive Foerderung, Aktualisierung
+    der Richtlinie ueber digitale Werkzeuge, Klaerung der Behandlung von Chatbots und Allzwecksystemen);
+    Verbraucherkredit (bestehende Rahmen anwenden, Klarstellung der Geltung des Diskriminierungsverbots,
+    Erwaegung einer Offenlegungspflicht bei KI-gestuetzter Kreditvermarktung); Versicherungszeichnung
+    (technologieneutrale Risikoregulierung anwenden, Anpassung bei Modellrisiko, Erklaerbarkeit und Hinweispflichten).'
+  - 'Selbsteinschaetzung des Berichts: "Dieser Bericht ist nur ein Ausgangspunkt fuer die Behandlung des
+    Themas." Regelmaessige Aktualisierung angekuendigt.'
+  dokumente:
+  - datum: 2025-12-01
+    typ: bericht
+    titel: AI in the Financial Sector — Israel's Interagency Taskforce on AI in Finance, Final Report
+    url: https://www.gov.il/BlobFolder/reports/report_0013/he/AI%20in%20the%20Financial%20Sector%20-%20Final%20Report%20Dec2025.pdf
+    sprache: en
+    urheber: Justizministerium, Finanzministerium, Bankenaufsicht, Kapitalmarkt-, Versicherungs- und Sparaufsicht,
+      Wertpapieraufsicht, Wettbewerbsbehoerde
+    verifiziert: true
+    notiz: Amtliches PDF auf gov.il, englische Fassung des Abschlussberichts. Am 05.09.2026 vollstaendig
+      ausgewertet; die genaueste Darstellung der israelischen Regulierungsphilosophie.
+  - datum: 2024-10-01
+    typ: konsultation
+    titel: בינה מלאכותית בסקטור הפיננסי — דוח ביניים להערות הציבור (Zwischenbericht zur oeffentlichen
+      Anhoerung)
+    url: https://www.gov.il/BlobFolder/reports/report-06-11-24/he/ArtificialIntelligenceReport.pdf
+    sprache: he
+    urheber: הצוות הבין-משרדי לבחינת שימושי בינה מלאכותית במגזר הפיננסי
+    verifiziert: true
+    notiz: Amtliches PDF; Anhoerungsfrist bis 15.12.2024. Enthaelt bereits die Risikostufung und die differenzierte
+      Erklaerbarkeit.
+  - datum: 2024-11-05
+    typ: pressemitteilung
+    titel: Gemeinsame Pressemitteilung zum Zwischenbericht
+    url: https://www.boi.org.il/publications/pressreleases/05-11-24/
+    sprache: he
+    urheber: בנק ישראל und die uebrigen beteiligten Behoerden
+    verifiziert: false
+    notiz: Amtliche Ankuendigung der Anhoerung.
+  - datum: 2022-07-18
+    typ: bericht
+    titel: דוח בנושא השימוש בבינה מלאכותית במגזר הפיננסי (Bericht des Justizministeriums)
+    url: https://www.gov.il/BlobFolder/news/ai_report/he/AI_report.pdf
+    sprache: he
+    urheber: משרד המשפטים
+    verifiziert: false
+    notiz: Vorlaeuferdokument von 2022. Adresse aus einer Sammlung uebernommen, nicht abgerufen.
+  offene_punkte:
+  - Die hebraeische Fassung des Abschlussberichts (Dezember 2025) wurde nicht geprueft; ausgewertet ist
+    die englische Fassung.
+  - Der Bericht kuendigt Auslegungspapiere, Vorabauskuenfte und Sandkaesten an, nennt aber keine Fristen.
+    Ob und wann die einzelnen Aufsichtsbehoerden liefern, ist offen.
+  - Die Wertpapieraufsicht (רשות ניירות ערך) hat bis September 2026 kein eigenes KI-Papier veroeffentlicht;
+    ihre Position ergibt sich nur aus dem gemeinsamen Bericht.
+  monitoring_quellen:
+  - https://www.boi.org.il/
+  - https://www.gov.il/he/departments/israel_securities_authority
+  - https://www.gov.il/he/departments/capital_market_authority
+  bezug_regelwerke:
+  - il-boi-nbt-369
+  - il-ki-politik-2023
+  letzte_pruefung: *id005
+- id: il-moh-ki-sandkasten-2026
+  jurisdiktion: il
+  kurztitel: Regulierungssandkasten fuer KI im Gesundheitswesen (2026)
+  offizieller_titel: ארגז חול רגולטורי לטכנולוגיות AI פורצות דרך בבריאות — Argaz chol regulatori le-technologiot
+    AI portsot derech be-briut (Regulierungssandkasten fuer bahnbrechende KI-Technologien im Gesundheitswesen)
+  fundstelle: קול קורא (Aufruf) des Gesundheitsministeriums vom 07.01.2026, aktualisiert am 17.03.2026;
+    Einreichungsfrist 14.04.2026; gemeinsames Verfahren mit der Israel Innovation Authority
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Der Aufruf lief vom 07.01.2026 bis zum 14.04.2026 und ist geschlossen. Die ausgewaehlten
+    Vorhaben werden von einem Expertenteam des Ministeriums begleitet. Der Sandkasten ist kein Rechtsakt
+    und begruendet keinen Anspruch auf Zulassung; er ist ein Begleitverfahren, aus dem heraus das Ministerium
+    seine kuenftige Regulierungspolitik entwickeln will.
+  kurzbeschreibung: 'Das israelische Gesundheitsministerium hat den weltweit ersten auf medizinische KI
+    zugeschnittenen Regulierungssandkasten aufgesetzt. Bemerkenswert ist die Auswahl der Themen: Der Sandkasten
+    richtet sich ausdruecklich NICHT an blosse Entscheidungsunterstuetzungssysteme, sondern an zwei Felder,
+    in denen die Rechtslage wirklich unklar ist — die vollstaendige Automatisierung von Aufgaben, die
+    heute das Behandlungsteam ausfuehrt, und die Neuverteilung von Aufgaben zwischen den Angehoerigen
+    der Gesundheitsberufe einschliesslich der Schaffung neuer Berufsbilder. Als zu bearbeitende regulatorische
+    Herausforderungen nennt der Aufruf ausdruecklich: die Notwendigkeit, Verfahrensvorschriften oder Gesetze
+    zu aendern, um klinische Behandlungsbefugnisse zu verschieben; Fragen der rechtlichen und beruflichen
+    Verantwortung, wenn ein KI-System Handlungen ausfuehrt; das Risikomanagement bei der Verteilung dieser
+    Verantwortung; und die Zulassung von Werkzeugen auf Grundlage generativer KI. Ausgenommen sind Vorhaben,
+    die nur eine Medizinproduktzulassung (אמ"ר) oder nur eine Genehmigung fuer eine klinische Pruefung
+    brauchen, sowie reine Datenschutz- und Datenzugangsfragen.'
+  inkrafttreten:
+    datum: 2026-01-07
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai-tech-health-reg
+  anwendungsdaten:
+  - datum: 2026-01-07
+    was_gilt: Veroeffentlichung des Aufrufs durch die Abteilung Wirtschaft, Regulierung und Innovation
+      sowie die Abteilung Medizintechnologien, Information und Forschung des Gesundheitsministeriums.
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai-tech-health-reg
+  - datum: 2026-03-17
+    was_gilt: Aktualisierung des Aufrufs.
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai-tech-health-reg
+  - datum: 2026-04-14
+    was_gilt: Ende der Einreichungsfrist.
+    verifiziert: true
+    quelle: https://www.gov.il/he/pages/ai-tech-health-reg
+  themenachsen:
+  - sektor-medizin
+  - governance
+  - haftung
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Zwei Schwerpunktfelder: (1) אוטומציה — vollstaendige Automatisierung von Aufgaben, die heute das
+    Behandlungsteam ausfuehrt; (2) שינוי משימות — Neuverteilung der Arbeit zwischen den Mitgliedern des
+    Behandlungsteams einschliesslich der Entwicklung neuer Berufsbilder.'
+  - 'Vier ausdruecklich benannte regulatorische Herausforderungen: Aenderung von Verfahrensvorschriften
+    oder Gesetzen zur Verschiebung klinischer Behandlungsbefugnisse; Fragen rechtlicher und beruflicher
+    Verantwortung, wenn ein KI-System handelt; Risikomanagement bei der Verteilung dieser Verantwortung;
+    Zulassung generativer KI-Werkzeuge.'
+  - 'Ausdrueckliche Negativabgrenzung: reine Entscheidungsunterstuetzung ohne Verantwortungsuebernahme
+    oder Befugnisverschiebung; Produkte, die nur eine Medizinproduktzulassung oder eine Genehmigung fuer
+    eine klinische Pruefung benoetigen; reine Datenschutz-, Datensicherheits- oder Datenzugangsfragen.'
+  - 'Reifegrad: ab TRL 6; Umsetzung im israelischen Gesundheitssystem binnen etwa zwei Jahren nach Pilotbeginn;
+    verpflichtende Begleitung durch eine Regulierungsberatung mit Erfahrung in internationalen Zulassungsverfahren
+    fuer Medizinsoftware.'
+  - 'Bewertungskriterien: systemische Wirkung (Behandlungsqualitaet, Entlastung des Personals, Verfuegbarkeit),
+    klinische und technische Machbarkeit, vorhandene Regulierungsstrategie und Risikomanagementplan, Bereitschaft
+    zur kuenftigen Verbreitung in Israel einschliesslich attraktiver Preise fuer den israelischen Markt.'
+  - 'Verfahren: individuelle Begleitplanung, Expertengremium aus Regulierung, Ethik, Klinik und Technologie,
+    feste Ansprechperson (SPOC) im Ministerium, zweimonatliche Fortschrittsberichte, vierteljaehrliche
+    Sitzungen; systemische Erkenntnisse fliessen in die kuenftige Regulierungspolitik ein.'
+  - 'Ausdruecklicher Vorbehalt: Die Teilnahme begruendet keine Zusage einer Zulassung.'
+  dokumente:
+  - datum: 2026-01-07
+    typ: konsultation
+    titel: ארגז חול רגולטורי לטכנולוגיות AI פורצות דרך בבריאות (amtliche Aufrufseite)
+    url: https://www.gov.il/he/pages/ai-tech-health-reg
+    sprache: he
+    urheber: משרד הבריאות — Gesundheitsministerium, Abteilung Wirtschaft, Regulierung und Innovation sowie
+      Abteilung Medizintechnologien, Information und Forschung
+    verifiziert: true
+    notiz: Am 05.09.2026 im Browser vollstaendig ausgelesen. Enthaelt Schwerpunktfelder, Negativabgrenzung,
+      Reifegradanforderung, Bewertungskriterien und Verfahren im Wortlaut.
+  - datum: 2026-01-07
+    typ: konsultation
+    titel: קול קורא לארגז חול רגולטורי לטכנולוגיות AI פורצות דרך בבריאות (Aufruf der Innovationsbehoerde
+      mit Foerderspur)
+    url: https://innovationisrael.org.il/kol_kore/ai-in-health-sandbox/
+    sprache: he
+    urheber: רשות החדשנות — Israel Innovation Authority
+    verifiziert: false
+    notiz: Paralleler Aufruf mit Foerdermoeglichkeit; im Konfliktfall geht nach der Ministeriumsseite
+      der Aufruf der Innovationsbehoerde vor.
+  - datum: 2024-12-01
+    typ: leitlinie
+    titel: מדריך משפטי לעיצוב "ארגזי חול" רגולטוריים (Rechtsleitfaden zur Gestaltung von Regulierungssandkaesten)
+    url: https://www.gov.il/BlobFolder/reports/sandbox/he/Sandbox.pdf
+    sprache: he
+    urheber: משרד המשפטים, המחלקה למשפט כלכלי, אשכול רגולציה, ייעוץ וחקיקה — Justizministerium, Abteilung
+      Wirtschaftsrecht
+    verifiziert: true
+    notiz: Amtlicher Leitfaden vom Dezember 2024 (כסלו התשפ"ה). Grundlage aller israelischen Sandkastenverfahren;
+      nennt kuenstliche Intelligenz ausdruecklich unter den Technologien, die regulatorische Anpassung
+      erfordern, und enthaelt einen Gesetzgebungsmusterentwurf.
+  offene_punkte:
+  - Welche Vorhaben aufgenommen wurden und mit welchen Erkenntnissen, ist nicht veroeffentlicht.
+  - Der Sandkasten hat keine gesetzliche Grundlage. Der Rechtsleitfaden des Justizministeriums von Dezember
+    2024 empfiehlt gerade eine gesetzliche Verankerung; ob das Gesundheitsministerium diesen Weg gehen
+    will, ist offen. Ohne sie kann der Sandkasten von geltendem Recht nicht befreien — er kann nur beraten.
+  monitoring_quellen:
+  - https://www.gov.il/he/pages/ai-tech-health-reg
+  - https://www.gov.il/he/departments/ministry_of_health
+  bezug_regelwerke:
+  - il-moh-klinische-pruefung-2024
+  - il-ki-politik-2023
+  letzte_pruefung: *id005
+- id: il-moh-klinische-pruefung-2024
+  jurisdiktion: il
+  kurztitel: Pruefkriterien fuer klinische Pruefungen mit KI (Helsinki-Kommissionen, 2024)
+  offizieller_titel: סוגיות לבחינת ניסויים קליניים התערבותיים בכלי בינה מלאכותית עבור ועדות הלסינקי —
+    Sugyot le-vchinat nisuyim kliniim hitarvutiim be-klei bina melachutit avur vaadot Helsinki (Fragen
+    zur Pruefung interventioneller klinischer Studien mit Werkzeugen kuenstlicher Intelligenz fuer die
+    Helsinki-Kommissionen)
+  fundstelle: Dokument des Gesundheitsministeriums vom 10.10.2024, veroeffentlicht ueber gov.il
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Anwendungsleitfaden fuer die institutionellen Ethikkommissionen (Helsinki-Kommissionen).
+    Er hat keine Rechtsnormqualitaet, praegt aber die Genehmigungspraxis fuer jede interventionelle klinische
+    Pruefung mit KI in Israel.
+  kurzbeschreibung: 'Das Dokument ist die erste israelische Vorgabe fuer die ethische Vorpruefung von
+    KI in der klinischen Forschung. Es verlangt von den Antragstellern die Offenlegung der Trainingsdatenquellen,
+    der algorithmischen Verfahren, der Modellgrenzen und der bisherigen Leistungsgeschichte, die Beschreibung
+    der Mensch-System-Interaktion und der erforderlichen Anwenderqualifikation, die Bewertung der Datenqualitaet
+    und der Verzerrung ueber Teilpopulationen hinweg, einen Plan zur laufenden Leistungsueberwachung samt
+    dokumentierter Fehlererkennung, die Pruefung der Integration in die vorhandene klinische Infrastruktur
+    einschliesslich Cybersicherheit sowie eine ausdrueckliche Aufklaerung der Teilnehmenden darueber,
+    dass die Intervention kuenstliche Intelligenz einsetzt. Der Ansatz ist ausdruecklich verhaeltnismaessig:
+    unterschiedliche Risikoprofile, unterschiedliche Anforderungen.'
+  inkrafttreten:
+    datum: 2024-10-10
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/news/ct-19112024/he/units_clinical-trials_Key_Principles_for_Evaluating_AI-Driven_Interventional_Trials-he.pdf
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-medizin
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Transparenz: Offenlegung von Trainingsdatenquellen, algorithmischen Verfahren, Modellgrenzen und
+    Leistungsgeschichte.'
+  - 'Mensch-System-Interaktion: Darstellung des klinischen Entscheidungsprozesses und der erforderlichen
+    Anwenderqualifikation.'
+  - 'Datenqualitaet und Verzerrung: Bewertung ueber Teilpopulationen hinweg; Risikominderung fuer die
+    Integritaet der Eingangsdaten.'
+  - Laufende Leistungsueberwachung waehrend der Studie mit dokumentierter Fehlererkennung.
+  - 'Integrationssicherheit: Vertraeglichkeit mit der bestehenden klinischen Infrastruktur, Cybersicherheit.'
+  - 'Aufklaerung: Die Teilnehmenden sind ausdruecklich darueber zu unterrichten, dass die Intervention
+    kuenstliche Intelligenz einsetzt.'
+  dokumente:
+  - datum: 2024-10-10
+    typ: leitlinie
+    titel: סוגיות לבחינת ניסויים קליניים התערבותיים בכלי בינה מלאכותית עבור ועדות הלסינקי
+    url: https://www.gov.il/BlobFolder/news/ct-19112024/he/units_clinical-trials_Key_Principles_for_Evaluating_AI-Driven_Interventional_Trials-he.pdf
+    sprache: he
+    urheber: משרד הבריאות — Gesundheitsministerium
+    verifiziert: true
+    notiz: Amtliches PDF, am 05.09.2026 ausgewertet. Das Dokument selbst traegt kein Datum im Text; der
+      10.10.2024 stammt aus der Uebersicht von law.co.il, die Veroeffentlichung auf gov.il ist vom 19.11.2024
+      (Adressbestandteil ct-19112024).
+  offene_punkte:
+  - Das Dokument traegt im Text kein Datum; die Datierung auf den 10.10.2024 stammt aus einer Sekundaeruebersicht
+    und ist nicht am Dokument geprueft.
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/ministry_of_health
+  bezug_regelwerke:
+  - il-moh-ki-sandkasten-2026
+  letzte_pruefung: *id005
+- id: il-moh-ki-sperre-2026
+  jurisdiktion: il
+  kurztitel: Sperrung offener KI-Werkzeuge in israelischen Krankenhaeusern (2026)
+  offizieller_titel: Weisung des Gesundheitsministeriums zur Einstellung der Nutzung oeffentlicher und
+    kostenfreier externer KI-Werkzeuge in den Netzen der Gesundheitsorganisationen (Maerz 2026), verschaerft
+    durch technische Sperrung in staatlichen Krankenhaeusern (Juni 2026)
+  fundstelle: Weisung vom Maerz 2026; Schreiben des Leiters Informationssicherheit und Cyber im Gesundheitsministerium
+    (Reuven Eliyahu). Ein Rundschreibenzeichen ist nicht bekannt.
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Nach Presseberichten seit Maerz 2026 als verbindliche Weisung gegenueber allen Gesundheitsorganisationen
+    in Kraft; im Juni 2026 wurde der Zugang zu externen KI-Werkzeugen auf den Rechnern staatlicher Krankenhaeuser
+    technisch gesperrt. Eine amtliche Fundstelle konnte nicht ermittelt werden; die Einordnung als softlaw
+    ist ein Behelf, weil die Rechtsform der Weisung unbekannt ist.
+  kurzbeschreibung: 'Waehrend die Regierung im Juni 2026 den Einsatz von KI in der oeffentlichen Verwaltung
+    zum nationalen Ziel erklaerte, hat das Gesundheitsministerium den Beschaeftigten des Gesundheitswesens
+    die Nutzung offener KI-Werkzeuge untersagt. Begruendet wird die Weisung mit dem starken Anstieg von
+    Cyberbedrohungen: KI-Werkzeuge seien ein zentraler Angriffsvektor fuer komplexe Angriffe, Social Engineering
+    und den Abfluss sensibler Daten aus Gesundheitsorganisationen. Verlangt werden die Einstellung der
+    Nutzung externer KI-Werkzeuge in den Organisationsnetzen, der Umstieg auf gesicherte Werkzeuge und
+    ein angemessenes Risikomanagement. Der Vorgang ist juristisch aufschlussreich, weil er zeigt, wie
+    ein Staat ohne KI-Gesetz reguliert: nicht durch Verbotsnormen mit Rechtsschutz, sondern durch verwaltungsinterne
+    Weisung und technische Sperre.'
+  inkrafttreten:
+    datum: 2026-03-01
+    verifiziert: false
+    quelle: https://www.ynet.co.il/news/article/hkmpj3jmmg
+  anwendungsdaten:
+  - datum: 2026-06-01
+    was_gilt: Technische Sperrung des Zugangs zu externen KI-Werkzeugen auf den Rechnern staatlicher Krankenhaeuser.
+    verifiziert: false
+    quelle: https://www.ynet.co.il/news/article/hkmpj3jmmg
+  themenachsen:
+  - sektor-medizin
+  - datenschutz
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - Einstellung der Nutzung oeffentlicher, kostenfreier externer KI-Werkzeuge in den Netzen der Gesundheitsorganisationen.
+  - Umstieg auf ausschliesslich gesicherte Werkzeuge.
+  - Angemessenes Risikomanagement in den Organisationen.
+  - 'Begruendung: Anstieg der Cyberbedrohungen; KI-Werkzeuge als zentraler Angriffsvektor fuer komplexe
+    Angriffe, Social Engineering und den Abfluss sensibler Daten.'
+  dokumente:
+  - datum: 2026-06-01
+    typ: pressemitteilung
+    titel: '"מחשש לחשיפת מידע רגיש": משרד הבריאות חסם כלי AI בבתי חולים בארץ'
+    url: https://www.ynet.co.il/news/article/hkmpj3jmmg
+    sprache: he
+    urheber: ynet
+    verifiziert: true
+    notiz: Sekundaerquelle. Belegt Weisung (Maerz 2026), technische Sperrung (Juni 2026), den Verfasser
+      des Schreibens und die Begruendung. Ein Rundschreibenzeichen wird nicht genannt.
+  offene_punkte:
+  - Weder Rechtsform noch Zeichen noch Wortlaut der Weisung konnten an einer amtlichen Quelle ermittelt
+    werden. Der Eintrag beruht ausschliesslich auf Presseberichten.
+  - Das Verhaeltnis zu Regierungsbeschluss 4255 (Einsatz von KI in der Buergerdienstleistung) und zum
+    Sandkasten des eigenen Hauses ist ungeklaert und in der Sache widerspruechlich.
+  - 'Inkrafttreten nicht belegbar: gov.il/health (kein Rundschreiben auffindbar), Times of Israel, Ynet.
+    Belegt ist nur ''In March 2026, the Health Ministry published guidelines obligating all health organizations
+    to stop using these tools'' — Monat ohne Tag; die technische Sperrung in den staatlichen Krankenhaeusern
+    erfolgte in der Woche des 26.06.2026. Ein Rundschreibenzeichen und eine amtliche Fundstelle gibt es
+    nicht; die Rechtsform der Weisung bleibt unbekannt. Der eingetragene 01.03.2026 ist ein Monatsplatzhalter,
+    kein belegtes Datum; verifiziert bleibt false.'
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/ministry_of_health
+  bezug_regelwerke:
+  - il-moh-ki-sandkasten-2026
+  - il-reg-4255-2026
+  letzte_pruefung: *id005
+- id: il-anwaltskammer-ki-2024
+  jurisdiktion: il
+  kurztitel: Berufsrechtliche Stellungnahme der Anwaltskammer zum KI-Einsatz (2024)
+  offizieller_titel: גילוי דעת מקדים בעניין שימוש בבינה מלאכותית (AI) בעבודת עורכי הדין — Giluy daat mukdam
+    be-inyan shimush be-bina melachutit (AI) be-avodat orchei ha-din (Vorlaeufige Stellungnahme zum Einsatz
+    kuenstlicher Intelligenz in der Arbeit von Rechtsanwaeltinnen und Rechtsanwaelten)
+  fundstelle: Stellungnahme des Nationalen Ethikausschusses der israelischen Anwaltskammer; Ethikbeschluss
+    vom 07.05.2024, veroeffentlichte Stellungnahme vom 19.08.2024
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Berufsrechtliche Auslegungshilfe ohne unmittelbare Gesetzeskraft, aber mit disziplinarrechtlicher
+    Wirkung: Der Ethikausschuss legt die Standesregeln aus, an denen sich das Disziplinarverfahren orientiert.
+    Sie ist der israelische Hintergrund fuer die inzwischen 57 in Israel erfassten Faelle erfundener Fundstellen
+    — nach den USA, Kanada, Australien und dem Vereinigten Koenigreich die fuenftaktivste Jurisdiktion.'
+  kurzbeschreibung: Die Stellungnahme verpflichtet Rechtsanwaeltinnen und Rechtsanwaelte, von KI erzeugte
+    Inhalte vor der Verwendung kritisch zu pruefen und Tatsachen anhand externer Quellen zu verifizieren;
+    vor der Eingabe personenbezogener Mandantendaten in offene KI-Systeme die ausdrueckliche schriftliche
+    Einwilligung der Mandantschaft einzuholen und dabei Dokumentarten und Sicherheitsmassnahmen zu benennen;
+    und auf die Eingabe persoenlicher oder sensibler Mandantendaten in offene Systeme zu verzichten, insbesondere
+    identifizierender Angaben wie Namen und Anschriften. Es handelt sich um die erste standesrechtliche
+    Positionierung einer israelischen Berufsorganisation zu generativer KI.
+  inkrafttreten:
+    datum: 2024-08-19
+    verifiziert: false
+    quelle: https://www.pearlcohen.com/israeli-bar-associations-ethical-guidelines-on-using-ai/
+  anwendungsdaten:
+  - datum: 2024-05-07
+    was_gilt: Beschluss des Nationalen Ethikausschusses der Anwaltskammer.
+    verifiziert: false
+    quelle: https://www.pearlcohen.com/israeli-bar-associations-ethical-guidelines-on-using-ai/
+  - datum: 2024-08-19
+    was_gilt: Datum der veroeffentlichten Stellungnahme nach der Uebersicht von law.co.il.
+    verifiziert: false
+    quelle: https://www.law.co.il/knowledge-centers/Artifical-Intelligence/ai-guidelines-reports-and-publications/
+  - datum: 2026-08-23
+    was_gilt: Das Bezirksgericht Tel Aviv-Jaffa verhaengt in ת"צ 6989-05-25 (Adibi gegen AIG Israel) Kosten
+      von 20.000 NIS wegen fuenf erfundener Entscheidungen — die praktische Kehrseite der Stellungnahme.
+    verifiziert: true
+    quelle: https://www.damiencharlotin.com/documents/2957/adiby1.pdf
+  themenachsen:
+  - berufsrecht
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Pruefpflicht: kritische Durchsicht und Verifikation KI-erzeugter Inhalte anhand externer Quellen
+    vor jeder Verwendung.'
+  - 'Einwilligung: ausdrueckliche schriftliche Einwilligung der Mandantschaft vor der Nutzung ihrer personenbezogenen
+    Daten in offenen KI-Systemen, unter Benennung der Dokumentarten und der Sicherheitsmassnahmen.'
+  - 'Verschwiegenheit: kein Eingeben persoenlicher oder sensibler Mandantendaten in offene Systeme; keine
+    identifizierenden Angaben wie Namen oder Anschriften.'
+  - 'Zusammenhang mit dem Datenschutzrecht: Die Kanzlei ist in aller Regel Verantwortliche im Sinne des
+    Datenschutzgesetzes; die Anforderungen des Entwurfs der KI-Leitlinie der Datenschutzbehoerde treten
+    neben die Standesregeln.'
+  dokumente:
+  - datum: 2024-08-19
+    typ: stellungnahme
+    titel: גילוי דעת בעניין שימוש בבינה מלאכותית בעבודת עורכי הדין (2024)
+    url: https://www.israelbar.org.il/UpLoadFiles/ai_memorandom_full.pdf
+    sprache: he
+    urheber: לשכת עורכי הדין בישראל, הוועדה הארצית לאתיקה מקצועית — Israelische Anwaltskammer, Nationaler
+      Ethikausschuss
+    verifiziert: false
+    notiz: Volltext auf der Seite der Anwaltskammer; nicht abgerufen. Eine gespiegelte Fassung liegt auch
+      auf gov.il unter dem Vorgang ai_info_law, die Adresse enthaelt hebraeische Zeichen und war ueber
+      den Proxy nicht abrufbar.
+  - datum: 2024-05-07
+    typ: stellungnahme
+    titel: Israeli Bar Association's Ethical Guidelines on Using AI (Zusammenfassung)
+    url: https://www.pearlcohen.com/israeli-bar-associations-ethical-guidelines-on-using-ai/
+    sprache: en
+    urheber: Pearl Cohen
+    verifiziert: true
+    notiz: Sekundaerquelle. Nennt als Datum den 07.05.2024 und den Nationalen Ethikausschuss als Urheber
+      und fasst die drei Pflichten zusammen.
+  offene_punkte:
+  - 'Datumswiderspruch: Eine Sekundaerquelle nennt den 07.05.2024, eine amtsnahe Uebersicht den 19.08.2024.
+    Wahrscheinlich handelt es sich um Beschluss und Veroeffentlichung; belegt ist keines von beidem am
+    Dokument.'
+  - Der Volltext der Stellungnahme wurde nicht ausgewertet; eine Nummer der Stellungnahme ist nicht bekannt.
+  - Ob die Kammer nach den israelischen Halluzinationsfaellen nachgeschaerft hat, ist nicht ermittelt.
+  - 'Inkrafttreten nicht belegbar: israelbar.org.il (Ethikstellungnahmen nicht frei zugaenglich), Pearl
+    Cohen, Lexology (403), DataGuidance (nur Metadaten). Widerspruch, der ohne den hebraeischen Originaltext
+    nicht aufzuloesen ist: Pearl Cohen schreibt ausdruecklich ''On May 7, 2024, the National Ethics Committee
+    of the Israeli Bar Association published guidelines on lawyers'' use of artificial intelligence''
+    — also Veroeffentlichung am 07.05.2024. Eingetragen ist der 19.08.2024, der eher das Erscheinungsdatum
+    des Kanzleibeitrags sein duerfte. Das entspricht dem bekannten Fehlermuster (Datum der Sekundaerquelle
+    statt des Rechtsakts), liess sich aber nicht am Original belegen. Empfehlung: am hebraeischen גילוי
+    דעת der Lishkat Orchei ha-Din pruefen; verifiziert bleibt false.'
+  monitoring_quellen:
+  - https://www.israelbar.org.il/
+  - https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke:
+  - il-ppa-ki-leitlinie-2025
+  letzte_pruefung: &id006 2026-09-05
+- id: il-dual-use-entwurf-2026
+  jurisdiktion: il
+  kurztitel: Entwurf eines Aussenhandels- und Dual-Use-Kontrollgesetzes 2026
+  offizieller_titel: 'תזכיר חוק להסדרת הסחר החוץ: פיקוח על יצוא דו-שימושי אזרחי ויצוא בתחומי כימיה, ביולוגיה,
+    רדיולוגיה וגרעין, התשפ"ו-2026 — Gesetzesentwurf (Memorandum) zur Regelung des Aussenhandels: Kontrolle
+    des zivilen Dual-Use-Exports und der Ausfuhr im Bereich Chemie, Biologie, Radiologie und Nuklearmaterial'
+  fundstelle: תזכיר חוק (Gesetzesmemorandum) des Wirtschafts- und Industrieministeriums, Abteilung Kontrolle
+    des Dual-Use-Exports, veroeffentlicht am 26.03.2026 zur oeffentlichen Anhoerung; Frist bis 25.04.2026
+  verfahrensnummer: null
+  status: entwurf
+  status_detail: Gesetzesmemorandum im Anhoerungsverfahren; die Anhoerungsfrist endete am 25.04.2026.
+    Ein Regierungsentwurf ist bis September 2026 nicht in der Knesset eingebracht. Wegen der Aufloesung
+    der 25. Knesset vor der Wahl vom 27.10.2026 ist mit einer Verabschiedung in dieser Legislaturperiode
+    nicht mehr zu rechnen.
+  kurzbeschreibung: Der Entwurf ist Israels bislang einziger Anlauf, den Export fortgeschrittener Technologie
+    mit Dual-Use-Charakter auf eine eigene gesetzliche Grundlage zu stellen statt auf Anordnungen nach
+    der Kontrolle-von-Waren-und-Diensten-Ordnung. Vorgesehen sind Genehmigungspflichten fuer Vermittlung,
+    Durchfuhr und technische Unterstuetzung, ein Auffangtatbestand ("catch-all") fuer nicht gelistete
+    Gueter bei Verdacht auf Massenvernichtungswaffen, Sanktionsumgehung oder terroristische Verwendung
+    sowie verwaltungs- und strafrechtliche Sanktionen einschliesslich persoenlicher Verantwortlichkeit
+    von Organen. KI wird im Entwurf nicht ausdruecklich als eigene Kontrollkategorie genannt; ueber den
+    Auffangtatbestand und ueber die Wassenaar-Listen koennen fortgeschrittene Rechenleistung, Modelle
+    und zugehoerige Software jedoch erfasst werden. Das ist der Punkt, an dem israelisches KI-Recht mit
+    der amerikanischen Exportkontrolle fuer Rechenbeschleuniger zusammentrifft.
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.shibolet.com/en/q1-2026-international-trade-regulation-update-key-developments-and-new-israeli-dual-use-export-control-bill/
+    fundstelle_norm: Kein Inkrafttreten — תזכיר חוק (Gesetzesmemorandum) im Anhoerungsverfahren, veroeffentlicht
+      26.03.2026, Anhoerungsfrist bis 25.04.2026; bis 06.09.2026 kein Regierungsentwurf in der Knesset
+      eingebracht
+  anwendungsdaten:
+  - datum: 2026-03-26
+    was_gilt: Veroeffentlichung des Gesetzesmemorandums zur oeffentlichen Anhoerung.
+    verifiziert: false
+    quelle: https://www.shibolet.com/en/q1-2026-international-trade-regulation-update-key-developments-and-new-israeli-dual-use-export-control-bill/
+  - datum: 2026-04-25
+    was_gilt: Ende der Anhoerungsfrist.
+    verifiziert: false
+    quelle: https://www.shibolet.com/en/q1-2026-international-trade-regulation-update-key-developments-and-new-israeli-dual-use-export-control-bill/
+  themenachsen:
+  - sicherheit-export
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - Genehmigungspflichten fuer Vermittlung (brokering), Durchfuhr (transshipment) und technische Unterstuetzung
+    — bisher nur unvollstaendig geregelte Taetigkeiten.
+  - Auffangtatbestand fuer nicht gelistete Gueter bei Verdacht auf Verwendung fuer Massenvernichtungswaffen,
+    Umgehung von Sanktionen oder terroristische Zwecke.
+  - Verwaltungs- und Strafsanktionen einschliesslich persoenlicher Verantwortlichkeit von Organen.
+  - KI ist nicht ausdrueckliche Kontrollkategorie; die Erfassung fortgeschrittener Rechenleistung und
+    Modelle liefe ueber Listen und Auffangtatbestand.
+  - 'Fuer die Praxis wichtiger als der Entwurf ist derzeit die auslaendische Regulierung: Israelische
+    KI-Unternehmen sind von den amerikanischen Ausfuhrbeschraenkungen fuer fortgeschrittene Rechenbeschleuniger
+    unmittelbar betroffen; Israel hat 2025 Beschaffungen vorgezogen, um Beschraenkungen zuvorzukommen.'
+  dokumente:
+  - datum: 2026-03-26
+    typ: entwurf
+    titel: Q1 2026 International Trade Regulation Update — New Israeli Dual-Use Export Control Bill
+    url: https://www.shibolet.com/en/q1-2026-international-trade-regulation-update-key-developments-and-new-israeli-dual-use-export-control-bill/
+    sprache: en
+    urheber: Shibolet & Co. (Kanzleibericht ueber das Gesetzesmemorandum)
+    verifiziert: true
+    notiz: Sekundaerquelle. Nennt Bezeichnung, Datum, Anhoerungsfrist, federfuehrendes Ministerium und
+      Regelungsinhalt sowie die amtliche Adresse im Anhoerungsportal tazkirim.gov.il.
+  - datum: 2026-03-26
+    typ: konsultation
+    titel: Anhoerungsvorgang im Regierungsportal fuer Gesetzesmemoranden
+    url: https://www.tazkirim.gov.il/s/legislativeworkactivity
+    sprache: he
+    urheber: ממשלת ישראל — Regierung Israels
+    verifiziert: false
+    notiz: Einstiegsadresse des amtlichen Anhoerungsportals. Die vollstaendige Vorgangsadresse enthaelt
+      hebraeische Zeichen und eine Vorgangskennung (a13Qu00000c7thqIAA) und wurde nicht abgerufen.
+  - datum: 2007-01-01
+    typ: uebersicht
+    titel: Defense Export Control Law (Uebersichtsseite der Abteilung Kontrolle des Verteidigungsexports)
+    url: https://exportctrl.mod.gov.il/English/Pages/Defense-Export-Control-Law-.aspx
+    sprache: en
+    urheber: אגף הפיקוח על היצוא הביטחוני, משרד הביטחון — Verteidigungsministerium
+    verifiziert: false
+    notiz: Das Verteidigungsexportkontrollgesetz 5767-2007 erfasst Ruestungsguetertransfers einschliesslich
+      Cyberprodukten; eine ausdrueckliche KI-Kategorie ist nicht bekannt. Nicht abgerufen.
+  offene_punkte:
+  - Der amtliche Text des Gesetzesmemorandums wurde nicht abgerufen; alle Angaben stammen aus einem Kanzleibericht.
+  - Ob KI-Modelle, Modellgewichte oder Rechenleistung in den Kontrolllisten ausdruecklich erfasst werden
+    sollen, ist unbekannt.
+  - Das Verhaeltnis zum Verteidigungsexportkontrollgesetz 5767-2007 und zur Cyberexportkontrolle ist nicht
+    geprueft. Militaerische und nachrichtendienstliche KI-Anwendungen — in Israel ein bedeutender Anwendungsbereich
+    — sind rechtlich weitgehend unerschlossenes Gebiet; das Grundsatzdokument von 2023 klammert sie ebenso
+    aus wie die Datenschutzleitlinie.
+  monitoring_quellen:
+  - https://www.tazkirim.gov.il/s/legislativeworkactivity
+  - https://exportctrl.mod.gov.il/
+  bezug_regelwerke: []
+  letzte_pruefung: *id006
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten null, Status entwurf. Die Daten 26.03.2026 und 25.04.2026 sind Verfahrensdaten
+    und stehen richtig im Fundstellen- bzw. status_detail-Feld, nicht im Datumsfeld.'
+- id: il-incd-secure-ai-2023
+  jurisdiktion: il
+  kurztitel: Leitlinien zur sicheren Entwicklung von KI-Systemen (2023, mitgezeichnet)
+  offizieller_titel: Guidelines for Secure AI System Development — gemeinsame Leitlinien des britischen
+    NCSC, der amerikanischen CISA und 21 weiterer Stellen, darunter das israelische מערך הסייבר הלאומי
+    (National Cyber Directorate)
+  fundstelle: Veroffentlicht am 27.11.2023; israelische Fassung ueber gov.il am 28.11.2023 bereitgestellt
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Nicht bindende internationale Leitlinien, die das israelische Nationale Cyberdirektorat
+    mitgezeichnet und auf gov.il veroeffentlicht hat. Sie sind der einzige Text, mit dem sich Israel an
+    einer internationalen KI-Sicherheitsvereinbarung beteiligt hat.
+  kurzbeschreibung: 'Die Leitlinien richten sich an Anbieter von Systemen, die kuenstliche Intelligenz
+    einsetzen, und ordnen Sicherheitsempfehlungen vier Lebenszyklusphasen zu: sichere Gestaltung, sichere
+    Entwicklung, sichere Bereitstellung sowie sicherer Betrieb und Wartung. Der Ansatz ist "secure by
+    design" und orientiert sich an NIST und NCSC. Fuer Israel sind sie deshalb wichtig, weil sie die einzige
+    veroeffentlichte Position des Nationalen Cyberdirektorats zur KI-Sicherheit sind — und weil Regierungsbeschluss
+    4255 Cyber AI zu einem der nationalen Schwerpunkte erklaert hat.'
+  inkrafttreten:
+    datum: 2023-11-27
+    verifiziert: true
+    quelle: https://www.gov.il/BlobFolder/news/ai_2811/he/Guidelines-for-secure-AI-system-development.pdf
+  anwendungsdaten: []
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  regelungsschwerpunkte:
+  - 'Vier Lebenszyklusphasen: sichere Gestaltung, sichere Entwicklung, sichere Bereitstellung, sicherer
+    Betrieb und Wartung.'
+  - Grundsatz "secure by design"; Anschluss an die Rahmenwerke von NIST und NCSC.
+  - Mitzeichnung durch das israelische Nationale Cyberdirektorat neben 22 weiteren staatlichen Stellen;
+    beteiligt an der Erarbeitung waren auch Unternehmen (unter anderem Google, Microsoft, OpenAI, Anthropic).
+  dokumente:
+  - datum: 2023-11-27
+    typ: leitlinie
+    titel: Guidelines for Secure AI System Development
+    url: https://www.gov.il/BlobFolder/news/ai_2811/he/Guidelines-for-secure-AI-system-development.pdf
+    sprache: en
+    urheber: UK NCSC, US CISA und 21 weitere Stellen einschliesslich מערך הסייבר הלאומי (Israel National
+      Cyber Directorate)
+    verifiziert: true
+    notiz: Am 05.09.2026 abgerufen; auf gov.il bereitgestellte Fassung des internationalen Dokuments.
+      TLP:CLEAR, Open Government Licence v3.0.
+  offene_punkte:
+  - Eine eigene israelische Umsetzung oder Konkretisierung durch das Nationale Cyberdirektorat ist nicht
+    bekannt.
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/israel_national_cyber_directorate
+  bezug_regelwerke:
+  - il-reg-4255-2026
+  letzte_pruefung: *id006
+- id: il-bildung-genki-2023
+  jurisdiktion: il
+  kurztitel: Politik des Bildungsministeriums zur generativen KI (2023)
+  offizieller_titel: מדיניות והמלצות משרד החינוך לשימוש אחראי בכלי בינה מלאכותית יוצרת במוסדות החינוך
+    — Mediniut ve-hamlatsot misrad ha-chinuch le-shimush achrai be-klei bina melachutit yotseret be-mosdot
+    ha-chinuch (Politik und Empfehlungen des Bildungsministeriums fuer den verantwortlichen Einsatz generativer
+    KI-Werkzeuge in Bildungseinrichtungen)
+  fundstelle: 'Politikdokument des Bildungsministeriums, September 2023; vorausgegangen: erste Hinweise
+    vom 31.08.2023'
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Politik- und Empfehlungsdokument ohne Rechtsnormqualitaet, das den Einsatz generativer
+    KI-Werkzeuge im israelischen Schulwesen ordnet. Eine Fortschreibung nach der Verbreitung multimodaler
+    Systeme ist nicht bekannt.
+  kurzbeschreibung: 'Das Bildungsministerium hat noch vor dem KI-Grundsatzdokument der Regierung Vorgaben
+    fuer den Einsatz generativer Werkzeuge in Schulen veroeffentlicht. Es ist das frueheste sektorale
+    israelische KI-Dokument ueberhaupt und ein gutes Beispiel fuer die israelische Methode: kein Gesetz,
+    keine Verordnung, sondern eine Ressortempfehlung, die ueber die Dienstaufsicht wirkt.'
+  inkrafttreten:
+    datum: 2023-09-01
+    verifiziert: false
+    quelle: https://meyda.education.gov.il/files/Pop/0files/Annual-theme/tashpad/Responsible-Use-policy.pdf
+  anwendungsdaten:
+  - datum: 2023-08-31
+    was_gilt: Erste Hinweise "בינה מלאכותית יוצרת בבתי ספר — הנחיות ראשוניות" (Generative KI in Schulen,
+      erste Hinweise).
+    verifiziert: false
+    quelle: https://meyda.education.gov.il/files/Mazkirut_Pedagogit/Ivrit/instructionsai.pdf
+  themenachsen:
+  - governance
+  - content
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Verantwortlicher Einsatz generativer KI-Werkzeuge in Bildungseinrichtungen; paedagogische statt ordnungsrechtliche
+    Steuerung.
+  - 'Zeitliche Einordnung: veroeffentlicht drei Monate vor dem nationalen KI-Grundsatzdokument — das Bildungsressort
+    war schneller als die Regierung.'
+  dokumente:
+  - datum: 2023-09-01
+    typ: leitlinie
+    titel: מדיניות והמלצות משרד החינוך לשימוש אחראי בכלי בינה מלאכותית יוצרת במוסדות החינוך
+    url: https://meyda.education.gov.il/files/Pop/0files/Annual-theme/tashpad/Responsible-Use-policy.pdf
+    sprache: he
+    urheber: משרד החינוך — Bildungsministerium
+    verifiziert: false
+    notiz: Amtliches PDF auf dem Server des Bildungsministeriums; Adresse aus der Uebersicht von law.co.il,
+      nicht abgerufen.
+  - datum: 2023-08-31
+    typ: leitlinie
+    titel: בינה מלאכותית יוצרת בבתי ספר — הנחיות ראשוניות
+    url: https://meyda.education.gov.il/files/Mazkirut_Pedagogit/Ivrit/instructionsai.pdf
+    sprache: he
+    urheber: משרד החינוך, המזכירות הפדגוגית
+    verifiziert: false
+    notiz: Nicht abgerufen.
+  offene_punkte:
+  - Beide Dokumente wurden nicht abgerufen; Datierung und Inhalt beruhen auf einer Sekundaeruebersicht.
+  - 'Inkrafttreten nicht belegbar: meyda.education.gov.il (das im Eintrag verlinkte PDF), pop.education.gov.il,
+    Knesset-MMM-Papier. BEFUND MIT FOLGEN FUER DEN EINTRAG: Unter der im Eintrag zitierten URL liegt heute
+    NICHT mehr das Politikdokument von September 2023, sondern eine Neufassung ''הנחיות שימוש בכלי בינה
+    מלאכותית יוצרת במערכת החינוך'', datiert ''ינואר 2026 | שבט התשפ"ו'' (Januar 2026), herausgegeben vom
+    Paedagogischen Verwaltungsbereich und der Abteilung Innovation und Technologie. Das Dokument von 2023
+    ist damit ersetzt. Ein taggenaues Datum traegt weder die alte noch die neue Fassung; der eingetragene
+    01.09.2023 ist ein Monatsplatzhalter. Der Eintrag ist inhaltlich fortzuschreiben (Fassung Januar 2026);
+    verifiziert bleibt false.'
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/ministry_of_education
+  bezug_regelwerke:
+  - il-ki-politik-2023
+  letzte_pruefung: *id006
+- id: il-impa-genai-2025
+  jurisdiktion: il
+  kurztitel: Typologiepapier zu generativer KI in Betrug und Geldwaesche (2025)
+  offizieller_titel: ניצול לרעה של בינה מלאכותית יוצרת ("GenAI") למטרות הונאה והלבנת הון — Nitsul le-raa
+    shel bina melachutit yotseret le-matrot honaa ve-halbanat hon (Missbrauch generativer kuenstlicher
+    Intelligenz zu Zwecken des Betrugs und der Geldwaesche)
+  fundstelle: Dokument der israelischen Behoerde zur Verhinderung von Geldwaesche und Terrorismusfinanzierung,
+    September 2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: Typologie- und Warnpapier ohne Rechtsnormqualitaet; richtet sich an die meldepflichtigen
+    Stellen des Geldwaescherechts. Nicht am Dokument geprueft.
+  kurzbeschreibung: Das Papier beschreibt Erscheinungsformen des Missbrauchs generativer KI fuer Betrug
+    und Geldwaesche — insbesondere Stimm- und Videofaelschungen zur Umgehung von Identifizierungsverfahren,
+    synthetische Identitaeten und automatisierte Betrugsansprachen — und leitet daraus Erwartungen an
+    die Risikoerkennung der meldepflichtigen Stellen ab. Es ergaenzt den Deepfake-Strang der israelischen
+    Regulierung um die finanzaufsichtliche Perspektive.
+  inkrafttreten:
+    datum: 2025-09-01
+    verifiziert: false
+    quelle: https://www.gov.il/BlobFolder/dynamiccollectorresultitem/impa_doc_ai_deepake_fraud/he/impa_doc_ai_deepfake_fraud.pdf
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-finanz
+  - content
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - Typologien des Missbrauchs generativer KI in Betrug und Geldwaesche.
+  - Bezug zur Identifizierung von Kunden (Umgehung biometrischer und videobasierter Verfahren durch synthetische
+    Medien).
+  dokumente:
+  - datum: 2025-09-01
+    typ: bericht
+    titel: ניצול לרעה של בינה מלאכותית יוצרת למטרות הונאה והלבנת הון
+    url: https://www.gov.il/BlobFolder/dynamiccollectorresultitem/impa_doc_ai_deepake_fraud/he/impa_doc_ai_deepfake_fraud.pdf
+    sprache: he
+    urheber: הרשות לאיסור הלבנת הון ומימון טרור — Israel Money Laundering and Terror Financing Prohibition
+      Authority
+    verifiziert: false
+    notiz: Amtliches PDF auf gov.il. Die tatsaechliche Adresse enthaelt den hebraeischen Dokumenttitel
+      als Dateinamen und war ueber den Proxy nicht abrufbar (HTTP 403); die hier eingetragene Adresse
+      ist eine Vereinfachung und nicht geprueft.
+  offene_punkte:
+  - Weder Datum noch Inhalt am Dokument geprueft; die Adresse ist rekonstruiert. Vor Verwendung ist das
+    Dokument ueber die Suche auf gov.il neu zu beschaffen.
+  - 'Inkrafttreten nicht belegbar: gov.il (die im Eintrag hinterlegte PDF-URL liefert 404), Suche nach
+    dem IMPA-Typologiepapier. Das Dokument war unter der angegebenen Adresse nicht mehr abrufbar; ein
+    taggenaues Datum ist nicht belegbar, der eingetragene 01.09.2025 ist ein Monatsplatzhalter (''September
+    2025''). Verifiziert bleibt false; die URL im Eintrag ist tot und sollte ersetzt werden.'
+  monitoring_quellen:
+  - https://www.gov.il/he/departments/impa
+  bezug_regelwerke:
+  - il-finanzsektor-taskforce
+  - il-wahlgesetz-26-2026
+  letzte_pruefung: *id006
+- id: il-coe-cets225-zeichnung
+  jurisdiktion: il
+  kurztitel: Israels Zeichnung der Europarats-Rahmenkonvention ueber KI
+  offizieller_titel: Council of Europe Framework Convention on Artificial Intelligence and Human Rights,
+    Democracy and the Rule of Law (CETS Nr. 225) — Zeichnung durch den Staat Israel
+  fundstelle: 'Vertragsbuero des Europarats, Zeichnungs- und Ratifikationstabelle zu CETS Nr. 225, Stand
+    06.09.2026: Israel, Zeichnung am 05.09.2024, keine Ratifikation'
+  verfahrensnummer: CETS 225
+  status: verabschiedet
+  status_detail: Israel hat die Konvention am 05.09.2024 in Vilnius am Tag ihrer Oeffnung zur Zeichnung
+    unterzeichnet — als einer von sechs Nichtmitgliedstaaten des Europarats neben den Vereinigten Staaten,
+    Kanada, Japan, Uruguay und (spaeter) weiteren. Ratifiziert hat Israel nicht. Die Konvention ist mangels
+    der erforderlichen fuenf Ratifikationen (darunter drei Europaratsmitglieder) bis zum 06.09.2026 nicht
+    in Kraft; ratifiziert hat bislang allein die Europaeische Union (15.05.2026). Fuer Israel begruendet
+    die Zeichnung damit keine Umsetzungspflicht, wohl aber die voelkerrechtliche Pflicht, Handlungen zu
+    unterlassen, die Ziel und Zweck des Vertrags vereiteln wuerden.
+  kurzbeschreibung: 'Die Zeichnung ist der einzige voelkerrechtliche Anker der israelischen KI-Politik
+    und juristisch der interessanteste Widerspruch im israelischen Befund: Ein Staat, der ein nationales
+    KI-Gesetz ausdruecklich ablehnt, hat den einzigen voelkerrechtlich verbindlichen KI-Vertrag am Tag
+    seiner Oeffnung gezeichnet. Die Konvention verpflichtet die Vertragsparteien, Taetigkeiten im Lebenszyklus
+    von KI-Systemen mit Menschenrechten, Demokratie und Rechtsstaatlichkeit in Einklang zu bringen, und
+    ueberlaesst ihnen die Wahl der Mittel — Gesetzgebung, Verwaltungsmassnahmen oder andere. Genau diese
+    Offenheit macht sie fuer Israel zeichnungsfaehig: Der sektorale Weg ist nach der Konvention zulaessig.
+    Ohne Ratifikation entstehen jedoch weder Berichtspflichten noch eine Konferenz der Vertragsparteien
+    mit Wirkung fuer Israel.'
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/conventions/cets-number-/-abridged-title-known?module=signatures-by-treaty&treatynum=225
+  anwendungsdaten:
+  - datum: 2024-09-05
+    was_gilt: Zeichnung durch Israel in Vilnius am Tag der Oeffnung des Vertrags zur Zeichnung.
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/conventions/cets-number-/-abridged-title-known?module=signatures-by-treaty&treatynum=225
+  - datum: 2026-05-15
+    was_gilt: 'Einzige Ratifikation bislang: Europaeische Union (mit Erklaerung). Die Konvention ist damit
+      weiterhin nicht in Kraft.'
+    verifiziert: true
+    quelle: https://www.coe.int/en/web/conventions/cets-number-/-abridged-title-known?module=signatures-by-treaty&treatynum=225
+  themenachsen:
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Zeichnung ohne Ratifikation: keine Umsetzungspflicht, aber Bindung an das voelkerrechtliche Vereitelungsverbot.'
+  - Die Konvention laesst die Wahl der Umsetzungsmittel offen; der israelische sektorale Ansatz ist mit
+    ihr vereinbar. Sie ist damit kein Argument fuer ein israelisches KI-Gesetz.
+  - 'Stand der Zeichnungen zum 06.09.2026: 20 Zeichnungen ohne Ratifikation, eine Ratifikation (Europaeische
+    Union). Neben Israel haben von den Nichtmitgliedstaaten Kanada (11.02.2025), Japan (11.02.2025), die
+    Vereinigten Staaten (05.09.2024) und Uruguay (02.09.2025) gezeichnet.'
+  dokumente:
+  - datum: 2026-09-06
+    typ: uebersicht
+    titel: Chart of signatures and ratifications of Treaty 225
+    url: https://www.coe.int/en/web/conventions/cets-number-/-abridged-title-known?module=signatures-by-treaty&treatynum=225
+    sprache: en
+    urheber: Council of Europe Treaty Office
+    verifiziert: true
+    notiz: Am 05.09.2026 im Browser ausgelesen; Statuszeile des Vertragsbueros "Status as of 06/09/2026".
+      Belegt Israels Zeichnung am 05.09.2024 und das Fehlen einer Ratifikation.
+  - datum: 2024-09-05
+    typ: pressemitteilung
+    titel: Israel signs the CoE AI convention
+    url: https://embassies.gov.il/multilateral-organizations-france/en/news/israel-signs-coe-ai-convention
+    sprache: en
+    urheber: משרד החוץ — Aussenministerium Israels
+    verifiziert: false
+    notiz: Amtliche israelische Mitteilung zur Zeichnung. Der Abruf scheiterte am 05.09.2026 an der robots.txt
+      der Domain.
+  offene_punkte:
+  - Ob Israel eine Ratifikation vorbereitet, ist nicht ermittelt. Ohne Ratifikation bleibt die Zeichnung
+    ein aussenpolitisches Signal.
+  - Ob Israel bei der Zeichnung Erklaerungen abgegeben hat, weist die Tabelle des Vertragsbueros nicht
+    aus (Erklaerungen sind fuer Norwegen, die Ukraine und die Europaeische Union vermerkt, nicht fuer
+    Israel).
+  monitoring_quellen:
+  - https://www.coe.int/en/web/conventions/full-list
+  - https://www.gov.il/he/departments/ministry_of_foreign_affairs
+  bezug_regelwerke:
+  - coe-rahmenkonvention-ki-cets-225
+  - il-ki-politik-2023
+  letzte_pruefung: *id006

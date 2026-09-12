@@ -1,0 +1,2216 @@
+regelwerke:
+- id: ar-acuerdo-plenario-5435-2025
+  jurisdiktion: ar
+  provinz: Chubut
+  kurztitel: Acuerdo Plenario 5435/2025 — KI-Directivas des STJ Chubut
+  offizieller_titel: Acuerdo Plenario N.º 5435/2025 del Superior Tribunal de Justicia de la Provincia
+    del Chubut — "Aprueba documento 'Directivas para el Uso Ético y Responsable de Inteligencia Artificial
+    Generativa en el Poder Judicial de Chubut'"
+  fundstelle: 'Acuerdo STJ Nro./Año 5435/2025, Organismo: Administración General, Fecha de firma 01/04/2025;
+    Eureka — Centro de Jurisprudencia y Documentación Jurídica del STJ del Chubut, idDocumento 1D426CB2CE9847A80CEC9C55EC12E2A0
+    (5 Seiten). Nicht im Boletín Oficial veröffentlicht ("Publicado en boletín: No").'
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit 01.04.2025 in Kraft und geltendes Binnenrecht des Poder Judicial del Chubut. Der
+    Superior Tribunal de Justicia hat am 13.03.2026 in "PROV. DEL CHUBUT c/ PAYALEF" ausdrücklich klargestellt,
+    dass das Acuerdo zwar Handlungsmassstäbe für Verwaltungs- und Rechtsprechungstätigkeit setzt, aber
+    KEINE eigenständigen Nichtigkeitsgründe schafft und das abschliessende Nichtigkeitsregime der Strafprozessordnung
+    nicht ändert.
+  kurzbeschreibung: 'Erstes und bis heute meistzitiertes argentinisches Justizregelwerk zur generativen
+    KI. Es bindet den KI-Einsatz im Poder Judicial del Chubut an wirksame menschliche Kontrolle, kritische
+    Überprüfung jedes Ergebnisses, Anonymisierung und Schutz personenbezogener Daten sowie Transparenz
+    über den Einsatz dieser Werkzeuge; die Delegation der Entscheidung an ein automatisiertes System ist
+    untersagt. Adressat ist das gesamte Personal des Poder Judicial einschliesslich der Richterschaft.
+    Sanktion ist keine prozessuale, sondern eine disziplinarische: Der STJ hat die Verletzung des Acuerdo
+    am 13.03.2026 ausdrücklich von der Nichtigkeitsfolge entkoppelt. Das Acuerdo ist die Norm, gegen die
+    im Verfahren Payalef verstossen wurde — und damit die weltweit erste Justiz-KI-Regel, deren Verletzung
+    höchstrichterlich auf ihre prozessualen Folgen hin geprüft worden ist.'
+  inkrafttreten:
+    datum: 2025-04-01
+    verifiziert: true
+    quelle: https://apps1cloud.juschubut.gov.ar/Eureka/Acordadas/VistaPublicable?idDocumento=1D426CB2CE9847A80CEC9C55EC12E2A0
+  anwendungsdaten:
+  - datum: 2025-04-01
+    was_gilt: Unterzeichnung ("Fecha de firma") und Genehmigung des Dokuments "Directivas para el Uso
+      Ético y Responsable de Inteligencia Artificial Generativa en el Poder Judicial de Chubut" durch
+      das Plenum des STJ.
+    verifiziert: true
+    quelle: https://apps1cloud.juschubut.gov.ar/Eureka/Acordadas/VistaPublicable?idDocumento=1D426CB2CE9847A80CEC9C55EC12E2A0
+  - datum: 2025-10-15
+    was_gilt: Die Cámara Penal de Esquel stützt die Nichtigerklärung eines Strafurteils erstmals auf einen
+      Verstoss gegen die Directivas des Acuerdo 5435/2025.
+    verifiziert: true
+    quelle: https://www.pensamientopenal.com.ar/fallos/91822-chubut-anulan-fallo-delegacion-jurisdiccional-ia
+  - datum: 2026-03-13
+    was_gilt: Der STJ Chubut hebt diese Nichtigerklärung auf und stellt fest, das Acuerdo regele "estándares
+      de actuación administrativa y jurisdiccional, pero no erige causales autónomas de nulidad ni modifica
+      el régimen taxativo y restrictivo previsto en el Código Procesal Penal".
+    verifiziert: true
+    quelle: https://jusnoticias.juschubut.gov.ar/polemica-por-el-uso-de-ia-el-stj-revirtio-un-fallo-de-camara-y-valido-lo-actuado-por-richeri/
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Gegenstand: generative KI ("inteligencia artificial generativa"), nicht KI schlechthin. Der Zuschnitt
+    ist enger als der der späteren Provinzakte (SCBA 2026, MPF 2026), die den gesamten KI-Lebenszyklus
+    erfassen.'
+  - Wirksame menschliche Kontrolle ("control humano efectivo") als Kernpflicht — vom STJ am 13.03.2026
+    als tragender Inhalt des Acuerdo benannt.
+  - Kritische Überprüfung jedes KI-Ergebnisses vor Verwendung ("revisión crítica").
+  - Anonymisierung und Schutz personenbezogener Daten vor Eingabe in KI-Systeme ("anonimización de datos").
+  - Transparenz über den Einsatz der Werkzeuge ("transparencia sobre el empleo de estas herramientas").
+  - Verbot der Delegation richterlicher Entscheidungen an automatisierte Systeme. Der STJ hat den Grundsatz
+    am 13.03.2026 in die Formel gefasst, KI sei "una herramienta de apoyo y nunca una fuente autónoma
+    de decisión".
+  - KEINE eigenständige Nichtigkeitsfolge. Das ist die dogmatisch wichtigste Aussage über das Acuerdo
+    — sie stammt allerdings nicht aus dem Acuerdo selbst, sondern aus seiner Auslegung durch den STJ am
+    13.03.2026.
+  dokumente:
+  - datum: 2025-04-01
+    typ: leitlinie
+    titel: Acuerdo Plenario N.º 5435/2025 — Aprueba documento "Directivas para el Uso Ético y Responsable
+      de Inteligencia Artificial Generativa en el Poder Judicial de Chubut"
+    url: https://apps1cloud.juschubut.gov.ar/Eureka/Acordadas/VistaPublicable?idDocumento=1D426CB2CE9847A80CEC9C55EC12E2A0
+    sprache: es
+    urheber: Superior Tribunal de Justicia de la Provincia del Chubut
+    verifiziert: true
+    notiz: 'Amtliche Fundstelle in der Eureka-Datenbank des STJ. Der Datensatz weist aus: Tipo de Norma
+      "Acuerdo STJ", Organismo "Administración General", Publicable "Sí", Publicado en boletín "No", Fecha
+      de firma 01/04/2025, Dokument mit fünf Seiten, Titelzeile "APRUEBA DOCUMENTO ''DIRECTIVAS PARA EL
+      USO ÉTICO Y RESPONSABLE DE INTELIGENCIA ARTIFICIAL GENERATIVA EN EL PODER JUDICIAL DE CHUBUT''".
+      Der Fliesstext des PDF liess sich mit den verfügbaren Werkzeugen nicht auslesen — die Artikelgliederung
+      ist deshalb nicht erfasst.'
+  - datum: 2026-03-13
+    typ: pressemitteilung
+    titel: 'Polémica por el uso de IA: el STJ revocó un fallo de Cámara y validó lo actuado por Richeri'
+    url: https://jusnoticias.juschubut.gov.ar/polemica-por-el-uso-de-ia-el-stj-revirtio-un-fallo-de-camara-y-valido-lo-actuado-por-richeri/
+    sprache: es
+    urheber: Jusnoticias — Poder Judicial de la Provincia del Chubut
+    verifiziert: true
+    notiz: 'Amtliche Mitteilung des Poder Judicial. Sie nennt die fünf entscheidenden Ministros (Camila
+      Banfi Saavedra, Silvia Bustos, Andrés Giacomone, Javier Raidan, Mario Vivas) und referiert die Anforderungen
+      des Acuerdo 5435/2025 wörtlich: "exige control humano efectivo, anonimización de datos y transparencia
+      sobre el empleo de estas herramientas".'
+  offene_punkte:
+  - Volltext und Artikelgliederung des Acuerdo sind nicht erfasst — die Eureka-Oberfläche gibt das PDF
+    nicht heraus. Für die Normebene sind die Ziffern deshalb inhaltlich, nicht nach Artikelnummern gebildet.
+  - Unklar bleibt, ob das Acuerdo ein förmliches Disziplinarverfahren vorsieht oder nur auf das allgemeine
+    Superintendenzrecht verweist. Der gegen Richter Richeri eingeleitete Vorgang lief parallel zum Strafverfahren.
+  - Ob der STJ das Acuerdo nach der Entscheidung vom 13.03.2026 nachschärft — etwa um eine ausdrückliche
+    Erklärungspflicht im Urteil —, ist offen.
+  monitoring_quellen:
+  - https://apps1cloud.juschubut.gov.ar/Eureka/ (Vista de Resoluciones y Acordadas, anonymer Zugang)
+  - https://jusnoticias.juschubut.gov.ar/
+  - https://www.mpfchubut.gov.ar/centro-de-noticias/
+  bezug_regelwerke:
+  - ar-scba-reglamento-ia-2026
+  - ar-pgn-64-2026
+  - co-acuerdo-pcsja24-12243
+  letzte_pruefung: 2026-09-06
+- id: ar-scba-reglamento-ia-2026
+  jurisdiktion: ar
+  provinz: Provincia de Buenos Aires
+  kurztitel: SCBA-Reglamento zum verantwortlichen KI-Einsatz (Res. SC 1.719/26)
+  offizieller_titel: Reglamento para el Desarrollo y Uso Responsable de la Inteligencia Artificial en
+    el Poder Judicial de la Provincia de Buenos Aires, aprobado por Resolución SC 1.719/26 de la Suprema
+    Corte de Justicia de la Provincia de Buenos Aires
+  fundstelle: 'Resolución SC 1.719/26 (Expte. N.º 3000-21862-2026); Konsultationsverfahren eröffnet durch
+    Resolución RP 747/26, ratifiziert durch Resolución SC 2.020/26. Umfang der Vorlage: 45 Seiten.'
+  verfahrensnummer: Expte. N.º 3000-21862-2026 (SCBA)
+  status: entwurf
+  status_detail: Von der Suprema Corte am 23.06.2026 als Projekt beschlossen und zugleich für eine partizipative
+    Konsultation vom 24.06. bis 07.08.2026 geöffnet. Bis zur förmlichen Genehmigung hat der Text nach
+    eigener Anordnung nur orientierenden, nicht bindenden Charakter. Zum Stichtag 06.09.2026 ist eine
+    Endfassung nicht veröffentlicht; das Verfahren ist damit seit Fristablauf einen Monat ohne erkennbaren
+    Fortgang.
+  kurzbeschreibung: Das mit Abstand ausführlichste argentinische Justizregelwerk zur KI und das einzige,
+    das eine ausdrückliche Risikoklassifizierung nach dem Muster der KI-VO in die Justizverwaltung einzieht.
+    Es unterscheidet verwaltungsnahe Anwendungen mit geringem Risiko (Dokumentenverwaltung, Terminierung,
+    Transkription, Statistik) von rechtsprechungsnahen Hochrisikoanwendungen (Auslegungsunterstützung,
+    Beweiswürdigung, Ergebnisprognose), die eine förmliche Genehmigung, eine Algorithmenfolgenabschätzung
+    und wiederkehrende Audits verlangen. Verboten sind die vollständige Automatisierung richterlicher
+    Entscheidungen, unbeaufsichtigte Systeme, diskriminierende Werkzeuge und die Erzeugung synthetischer
+    Beweismittel. Richterinnen und Richter müssen Systemname, Anbieter, Zeitpunkt und Umfang des Einsatzes
+    in der Akte dokumentieren. Sanktionen enthält der Text nicht; er wirkt über Genehmigungsvorbehalt,
+    Registerpflicht und Audit.
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2026-06-23
+    was_gilt: Beschluss der Resolución SC 1.719/26 mit dem Reglamento-Entwurf und Einsetzung der Comisión
+      de Gobernanza y Uso de Inteligencia Artificial (Secretarías de Planificación, de Tecnología Informática
+      und de Servicios Jurisdiccionales).
+    verifiziert: true
+    quelle: https://www.scba.gov.ar/institucional/nota.asp?id=59397&veradjuntos=no
+  - datum: 2026-06-24
+    was_gilt: Beginn der partizipativen Konsultation (Resolución RP 747/26, ratifiziert durch SC 2.020/26)
+      für Richterschaft, Personal, Anwaltskammern, Hochschulen und interessierte Dritte.
+    verifiziert: true
+    quelle: https://www.scba.gov.ar/institucional/nota.asp?id=59397&veradjuntos=no
+  - datum: 2026-08-07
+    was_gilt: Ende der Konsultationsfrist.
+    verifiziert: true
+    quelle: https://www.scba.gov.ar/institucional/nota.asp?id=59397&veradjuntos=no
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - marktzugang
+  - grundrechte
+  - datenschutz
+  - berufsrecht
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Grundsatz: "la función jurisdiccional es indelegable" — die Rechtsprechungsfunktion ist unübertragbar
+    und durch kein automatisiertes System ersetzbar. Die Verantwortung für Entscheidung, Beweiswürdigung
+    und Begründung bleibt ungeteilt bei der Richterin oder dem Richter, unabhängig vom Einsatz eines Werkzeugs.'
+  - 'Risikoklassifizierung in Anlehnung an die KI-VO: Anwendungen mit geringem Risiko in der Justizverwaltung
+    (Aktenverwaltung, Terminierung, Transkription, Statistik) gegenüber Hochrisikoanwendungen zur Unterstützung
+    der Rechtsprechung (Auslegung, Beweiswürdigung, Ergebnisprognose).'
+  - Hochrisikoanwendungen erfordern förmliche Genehmigung, Algorithmenfolgenabschätzung und laufende Audits;
+    halbjährliche Auditpflicht für Hochrisiko-, jährliche für Niedrigrisikosysteme.
+  - 'Ausdrückliche Verbote: vollständige Automatisierung richterlicher Entscheidungen; unbeaufsichtigte
+    KI-Systeme; diskriminierende Werkzeuge; Erzeugung "synthetischer" oder automatisiert generierter Beweismittel;
+    Rückfallprognosesysteme mit bindender Wirkung auf Haftentscheidungen; Gutachten ohne aktive Beteiligung
+    und kritische Validierung durch eine qualifizierte sachverständige Person.'
+  - 'Werkzeugverbot für vertrauliche Justizdaten: Es ist untersagt, vertrauliche Daten in kommerzielle
+    KI-Systeme mit weitreichenden Datenverwertungsklauseln einzugeben (adressiert werden ausdrücklich
+    frei zugängliche Chatbots).'
+  - 'Dokumentationspflicht in der Akte: Name des Systems, verwendetes Modell, Anbieter, Zeitpunkt und
+    die konkret KI-gestützt erzeugten Teile des Dokuments. Das ist die weitgehendste Transparenzpflicht
+    im argentinischen Justizrecht — sie geht über die blosse Offenlegung des Einsatzes hinaus und verlangt
+    eine Zuordnung nach Textteilen.'
+  - Öffentliches Register der genehmigten KI-Systeme mit Folgenabschätzungen, Angaben zu Trainingsdaten
+    und Auditierbarkeitsmechanismen.
+  - 'Datenschutz: Verarbeitung personenbezogener Daten über KI-Systeme unterliegt uneingeschränkt der
+    Ley 25.326.'
+  dokumente:
+  - datum: 2026-06-23
+    typ: pressemitteilung
+    titel: Proyecto de IA para la labor judicial y consulta participativa
+    url: https://www.scba.gov.ar/institucional/nota.asp?id=59397&veradjuntos=no
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Provincia de Buenos Aires
+    verifiziert: true
+    notiz: Amtliche Mitteilung mit den drei Resolutionsnummern (SC 1.719/26, RP 747/26, SC 2.020/26),
+      der Konsultationsfrist und dem Hinweis auf den vorläufig nur orientierenden Charakter des Textes.
+  - datum: 2026-06-19
+    typ: entwurf
+    titel: Resolución SC 1.719/26 — Reglamento para el Desarrollo y Uso Responsable de la Inteligencia
+      Artificial (Expte. N.º 3000-21862-2026)
+    url: https://www.scba.gov.ar/includes/descarga.asp?id=59397&n=ver%20resolucion%201719.pdf
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Provincia de Buenos Aires
+    verifiziert: true
+    notiz: 'Volltext der Resolución samt Reglamento (45 Seiten). WIDERSPRUCH IN DEN DATEN: Das PDF trägt
+      ausweislich des Google-Index und der Textextraktion das Datum 19.06.2026, die amtliche Mitteilung
+      der SCBA nennt den 23.06.2026 als Beschlussdatum. Wahrscheinlich Datum der Vorlage gegenüber Datum
+      des Acuerdo-Beschlusses; nicht aufgelöst.'
+  - datum: 2026-06-24
+    typ: konsultation
+    titel: Resolución RP 747/26 (ratificada por Resolución SC 2.020/26)
+    url: https://www.scba.gov.ar/includes/descarga.asp?id=59397&n=ver%20resolucion%20747.pdf
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Provincia de Buenos Aires
+    verifiziert: true
+    notiz: Eröffnet das Konsultationsverfahren und bestimmt Frist und Formular.
+  offene_punkte:
+  - Endfassung steht aus. Seit Ablauf der Konsultationsfrist am 07.08.2026 ist kein Genehmigungsakt veröffentlicht.
+  - Datumswiderspruch 19.06. gegen 23.06.2026 nicht aufgelöst.
+  - Verhältnis zur SCBA-Resolución RS 870/24 (automatisiertes erstes Despacho in Apremios-Verfahren) ist
+    im Reglamento nicht ausdrücklich geregelt.
+  monitoring_quellen:
+  - https://www.scba.gov.ar/novedades.asp?id=1&clase=0
+  - https://www.scba.gov.ar/institucional/nota.asp?id=59397&veradjuntos=si
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  - ar-pgn-64-2026
+  - ar-scba-rs-870-2024
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - An der amtlichen Mitteilung der Suprema Corte de Justicia de la Provincia de Buenos Aires (scba.gov.ar,
+    Nota 59397) erneut geprueft. Status 'entwurf' und fehlendes Inkrafttreten bleiben richtig; der Text
+    hat nach eigener Anordnung bis zur foermlichen Genehmigung nur orientierenden Charakter.
+- id: ar-pgn-64-2026
+  jurisdiktion: ar
+  kurztitel: Resolución PGN 64/2026 — KI-Lineamientos des MPF de la Nación
+  offizieller_titel: Resolución PGN N.º 64/2026 — Lineamientos institucionales para el uso e implementación
+    de herramientas de inteligencia artificial en el Ministerio Público Fiscal de la Nación
+  fundstelle: 'Resolución PGN 64/2026 vom 04.09.2026, Procuración General de la Nación, Buenos Aires;
+    Aktenzeichen der Veröffentlichung PGN-0064-2026-001 (32 Seiten). Rechtsgrundlagen: Art. 120 CN, Leyes
+    24.946 y 27.148, Resolución PGN 14/2025.'
+  verfahrensnummer: PGN-0064-2026-001
+  status: anwendbar
+  status_detail: Am 04.09.2026 vom interimistischen Procurador General de la Nación Eduardo Casal unterzeichnet
+    und für alle Angehörigen des MPF und seiner Kontrollorgane verbindlich gestellt. Zwei Tage vor dem
+    Stichtag dieser Erfassung erlassen; der jüngste KI-Rechtsakt Argentiniens.
+  kurzbeschreibung: 'Erstes bundesweites KI-Regelwerk einer argentinischen Justizinstitution. Es gilt
+    für die gesamte Bundesstaatsanwaltschaft, ordnet den KI-Einsatz einem institutionellen Genehmigungskreislauf
+    unter, übernimmt die vierstufige Risikoklassifizierung der KI-VO (inakzeptabel, hoch, begrenzt, minimal)
+    und verbietet vorläufig die Eingabe reservierter Informationen, laufender Verfahrensdokumente sowie
+    personenbezogener und sensibler Daten in öffentlich zugängliche KI-Modelle. Grundsatz: KI ist ein
+    ergänzendes Werkzeug, das die juristische Beurteilung und die Entscheidung über menschliche Konflikte
+    nicht ersetzen kann. Sanktionen sind nicht ausdrücklich geregelt; die Bindung erfolgt über die Dienstaufsicht
+    und die Unidad de Auditoría Interna.'
+  inkrafttreten:
+    datum: 2026-09-04
+    verifiziert: true
+    quelle: https://www.fiscales.gob.ar/wp-content/uploads/2026/09/PGN-0064-2026-001.pdf
+  anwendungsdaten:
+  - datum: 2025-05-14
+    was_gilt: Resolución PGN 14/2025 schafft das Programa de Inteligencia Artificial des MPF mit Erhebungs-
+      und Standardsetzungsauftrag.
+    verifiziert: true
+    quelle: https://www.fiscales.gob.ar/wp-content/uploads/2026/09/PGN-0064-2026-001.pdf
+  - datum: 2026-08-06
+    was_gilt: Veröffentlichung des institutionellen KI-Relevamiento (Kenntnis, Nutzung und Wahrnehmung
+      des Personals, 41 Seiten) als empirische Grundlage der Lineamientos.
+    verifiziert: false
+    quelle: https://www.fiscales.gob.ar/
+  - datum: 2026-09-04
+    was_gilt: Erlass der Lineamientos; verbindliche Anwendung auf alle Angehörigen des MPF; sofortiges
+      Verbot der Eingabe reservierter oder personenbezogener Daten in öffentlich zugängliche KI-Werkzeuge.
+    verifiziert: true
+    quelle: https://www.fiscales.gob.ar/procuracion-general/el-ministerio-publico-fiscal-aprobo-los-lineamientos-institucionales-para-el-uso-e-implementacion-de-inteligencia-artificial/
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  - grundrechte
+  - berufsrecht
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Art. I: Genehmigung der Lineamientos als Anexo. Art. II: verbindliche Anwendung auf alle Angehörigen.
+    Art. III: Verbot der Eingabe reservierter Daten in öffentliche Modelle. Art. IV: dauerhaftes praktisches
+    Fortbildungsprogramm. Art. V: Entwicklung eigener, sicherer Werkzeuge. Art. VI: Protokollierung und
+    Archivierung.'
+  - 'Risikoklassifizierung nach dem Muster der KI-VO: INAKZEPTABLES RISIKO (Massenüberwachung, Verhaltensmanipulation,
+    Social Scoring); HOHES RISIKO (biometrische Systeme, Personalauswahl — förmliche Genehmigung erforderlich);
+    BEGRENZTES RISIKO (Chatbots, Inhaltsgeneratoren — Transparenzpflicht); MINIMALES RISIKO (Routineanwendungen
+    ohne Grundrechtsbezug). Bemerkenswert: eine Staatsanwaltschaft verbietet sich selbst Echtzeit-Massenüberwachung,
+    während das Sicherheitsressort der Exekutive mit der UIAAS (Resolución 710/2024) genau darauf hinarbeitet.'
+  - Verbot automatisierter Entscheidungen als alleinige Grundlage ("decisiones automatizadas como único
+    fundamento").
+  - Vorläufiges Verbot, "información reservada o documentos de casos en trámite, datos personales y/o
+    sensibles" in öffentlich zugängliche KI-Modelle oder -Werkzeuge wie offene Chatbots einzugeben — bis
+    eine künftige Regelung des Einzelgebrauchs ergeht.
+  - 'Zehn Leitgrundsätze: Legalität, Gerechtigkeit, öffentlicher Zweck, technologische Governance, bedeutsame
+    menschliche Aufsicht ("supervisión humana significativa"), Transparenz, Verhältnismässigkeit, Datenschutz,
+    Verlässlichkeit und institutionelle Verantwortlichkeit.'
+  - 'Geregelter Lebenszyklus: Bedarfsermittlung — Planung und Risikobewertung — Implementierung — Wartung
+    und Aufsicht. Das Programa de IA prüft jede Neuentwicklung und Beschaffung; die Unidad de Auditoría
+    Interna übernimmt die nachlaufende Kontrolle.'
+  - 'Datenschutz: ausdrückliche Anbindung an die Ley 25.326 für die Verarbeitung sensibler Informationen.'
+  dokumente:
+  - datum: 2026-09-04
+    typ: leitlinie
+    titel: Resolución PGN N.º 64/2026 — Lineamientos institucionales para el uso e implementación de inteligencia
+      artificial
+    url: https://www.fiscales.gob.ar/wp-content/uploads/2026/09/PGN-0064-2026-001.pdf
+    sprache: es
+    urheber: Procuración General de la Nación (Ministerio Público Fiscal)
+    verifiziert: true
+    notiz: Volltext, 32 Seiten. Enthält den Resolutionsteil (sechs Artikel) und die Lineamientos als Anexo
+      mit Risikoklassifizierung, Leitgrundsätzen und Lebenszyklusregelung.
+  - datum: 2026-09-04
+    typ: pressemitteilung
+    titel: El Ministerio Público Fiscal aprobó los lineamientos institucionales para el uso e implementación
+      de Inteligencia Artificial
+    url: https://www.fiscales.gob.ar/procuracion-general/el-ministerio-publico-fiscal-aprobo-los-lineamientos-institucionales-para-el-uso-e-implementacion-de-inteligencia-artificial/
+    sprache: es
+    urheber: Ministerio Público Fiscal de la Nación
+    verifiziert: true
+    notiz: Amtliche Mitteilung; nennt Eduardo Casal als unterzeichnenden Procurador General interino und
+      zitiert die Formel vom "herramienta complementaria que no puede reemplazar el criterio jurídico".
+  offene_punkte:
+  - Die angekündigte Regelung des individuellen Gebrauchs (die das vorläufige Verbot ablösen soll) steht
+    aus.
+  - Verhältnis zur Defensoría General de la Nación und zum Consejo de la Magistratura de la Nación ungeklärt
+    — beide haben kein vergleichbares Regelwerk.
+  - Ob die Corte Suprema de Justicia de la Nación nachzieht, ist offen; sie setzt KI bislang nur produktseitig
+    ein (Suchmaschine, Zusammenfassungen in klarer Sprache) und hat keine Acordada zum KI-Einsatz erlassen.
+  monitoring_quellen:
+  - https://www.fiscales.gob.ar/
+  - https://www.mpf.gob.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  - ar-scba-reglamento-ia-2026
+  - ar-res-710-2024-uiaas
+  - ar-ley-25326
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-06
+- id: ar-sanluis-acuerdo-202-2024
+  jurisdiktion: ar
+  provinz: San Luis
+  kurztitel: Acuerdo 202-STJSL-SA-2024 — KI-Programm des STJ San Luis
+  offizieller_titel: Acuerdo N.º 202-STJSL-SA-2024 del Superior Tribunal de Justicia de la Provincia de
+    San Luis — Programa de Inteligencia Artificial en el Poder Judicial
+  fundstelle: Acuerdo 202-STJSL-SA-2024 vom 21.08.2024, Superintendencia Administrativa
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: 'Ältester der argentinischen Justizakte zur KI. Er ist kein Verhaltenskodex, sondern
+    ein Implementierungsprogramm: San Luis führte mit "Iurix Mind" ein eigenes KI-Werkzeug in die Gerichtsverwaltung
+    ein. Das macht ihn zum Gegenstück zu den späteren Protokollen, die den Einsatz begrenzen statt ihn
+    zu ermöglichen.'
+  kurzbeschreibung: Der Acuerdo richtet ein Programm zur Einführung von KI im Poder Judicial de San Luis
+    ein und autorisiert das Werkzeug Iurix Mind. Adressat ist die Justizverwaltung. Sanktionen enthält
+    der Akt nicht; er ist ein Organisationsakt der Superintendencia Administrativa.
+  inkrafttreten:
+    datum: 2024-08-21
+    verifiziert: false
+    quelle: https://acuerdos.justiciasanluis.gov.ar/wp-content/uploads/2024/11/Acuerdo-202-STJSL-SA-2024_2024_ac_adm.pdf
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Einrichtung eines Programa de Inteligencia Artificial im Poder Judicial.
+  - Einführung des eigenentwickelten Werkzeugs Iurix Mind.
+  - 'Kein Verhaltensprotokoll: San Luis regelt die Einführung, nicht die Grenzen des Einsatzes. Die Reihenfolge
+    ist bemerkenswert — Argentinien hat zuerst implementiert und erst danach reguliert.'
+  dokumente:
+  - datum: 2024-08-21
+    typ: norm
+    titel: Acuerdo N.º 202-STJSL-SA-2024
+    url: https://acuerdos.justiciasanluis.gov.ar/wp-content/uploads/2024/11/Acuerdo-202-STJSL-SA-2024_2024_ac_adm.pdf
+    sprache: es
+    urheber: Superior Tribunal de Justicia de San Luis
+    verifiziert: false
+    notiz: URL aus der amtlichen Übersicht des Ministerio de Justicia (justicia.ar/iniciativas/inteligencia-artificial)
+      übernommen; das PDF selbst wurde nicht abgerufen. Datum aus dem CETyS-Länderbericht.
+  offene_punkte:
+  - Volltext nicht geprüft.
+  - 'Inkrafttreten nicht belegbar: acuerdos.justiciasanluis.gov.ar liefert fuer die Acuerdo-PDF und fuer
+    die Startseite HTTP 403 (CloudFront). Das eingetragene Datum 2024-08-21 (Datum des Acuerdo 202-STJSL-SA-2024)
+    ist nicht am amtlichen Text geprueft.'
+  monitoring_quellen:
+  - https://acuerdos.justiciasanluis.gov.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  letzte_pruefung: 2026-09-06
+- id: ar-rionegro-acordada-15-2024
+  jurisdiktion: ar
+  provinz: Río Negro
+  kurztitel: Acordada 15/2024 STJ Río Negro — KI-Protokoll, 2025 auf die Anwaltschaft erstreckt
+  offizieller_titel: Acordada N.º 15/2024 del Superior Tribunal de Justicia de Río Negro — Protocolo de
+    Buenas Prácticas para el uso de Inteligencia Artificial Generativa
+  fundstelle: Acordada 15/2024 vom 01.10.2024; erweiternde Acordada vom 01.10.2025 (Nummer nicht ermittelt).
+    Abrufbar über SAIJ (Sistema Argentino de Información Jurídica), Ministerio de Justicia.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit 01.10.2024 in Kraft. Am 01.10.2025 hat der STJ Río Negro das Protokoll erweitert
+    und für externe Hilfspersonen verbindlich gestellt — damit erstmals in Argentinien mit ausdrücklicher
+    Sanktionsandrohung gegenüber der Anwaltschaft für Schriftsätze mit erfundenen Fundstellen oder erfundener
+    Rechtsprechung.
+  kurzbeschreibung: Zweitältestes argentinisches Justizprotokoll zur generativen KI und das einzige, das
+    den Adressatenkreis über die Justiz hinaus auf die Anwaltschaft erstreckt. Die Fassung 2025 ermöglicht
+    gerichtliche Ordnungsstrafen und die Abgabe an die Anwaltskammern zur disziplinarischen Behandlung,
+    wenn Schriftsätze KI-erfundene Zitate enthalten. Damit ist Río Negro die argentinische Parallele zu
+    den US-amerikanischen standing orders und zur mexikanischen Rechtsprechung zum Halluzinationsproblem.
+  inkrafttreten:
+    datum: 2024-10-01
+    verifiziert: false
+    quelle: https://www.saij.gob.ar/descarga-archivo?guid=klmnoprs-tuvw-nove-dade-sac152024pdf&name=ac-15-2024.pdf
+  anwendungsdaten:
+  - datum: 2025-10-01
+    was_gilt: 'Erweiterung des Protokolls: Bindungswirkung auch für externe Hilfspersonen; Sanktionen
+      gegen die Anwaltschaft bei "escritos con citas falsas o jurisprudencia inventada mediante inteligencia
+      artificial"; Verweisung an die Colegios de Abogados.'
+    verifiziert: true
+    quelle: https://comunicacionjudicial.jusrionegro.gov.ar/una-nueva-acordada-habilita-sanciones-a-la-abogacia-por-uso-indebido-de-inteligencia-artificial/
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - governance
+  regelungsschwerpunkte:
+  - Protocolo de Buenas Prácticas für generative KI im Poder Judicial (2024).
+  - Erweiterung 2025 auf "auxiliares externos" — Anwältinnen und Anwälte, Sachverständige — mit ausdrücklicher
+    Sanktionsgrundlage für erfundene Zitate und erfundene Rechtsprechung.
+  - 'Zweistufige Sanktion: gerichtliche Ordnungsstrafe (sanciones tribunalicias) und Verweisung an die
+    Anwaltskammern zur Disziplinarbehandlung.'
+  dokumente:
+  - datum: 2024-10-01
+    typ: leitlinie
+    titel: Acordada N.º 15/2024 — Protocolo de Buenas Prácticas IA Generativa
+    url: https://www.saij.gob.ar/descarga-archivo?guid=klmnoprs-tuvw-nove-dade-sac152024pdf&name=ac-15-2024.pdf
+    sprache: es
+    urheber: Superior Tribunal de Justicia de Río Negro
+    verifiziert: false
+    notiz: URL aus der amtlichen Übersicht justicia.ar. Der Abruf über SAIJ wurde mit HTTP 403 abgewiesen;
+      Existenz und Datum sind über die amtliche Übersicht und den CETyS-Länderbericht belegt.
+  - datum: 2025-10-01
+    typ: pressemitteilung
+    titel: Una nueva acordada habilita sanciones a la abogacía por uso indebido de inteligencia artificial
+    url: https://comunicacionjudicial.jusrionegro.gov.ar/una-nueva-acordada-habilita-sanciones-a-la-abogacia-por-uso-indebido-de-inteligencia-artificial/
+    sprache: es
+    urheber: Poder Judicial de Río Negro
+    verifiziert: true
+    notiz: Amtliche Mitteilung des Poder Judicial de Río Negro, verlinkt auch über justicia.ar (Ministerio
+      de Justicia).
+  offene_punkte:
+  - Nummer und Volltext der Acordada vom 01.10.2025 nicht ermittelt.
+  - Volltext der Acordada 15/2024 nicht geprüft (SAIJ blockiert den Abruf).
+  - 'Inkrafttreten nicht belegbar: Der hinterlegte SAIJ-Downloadlink (saij.gob.ar/descarga-archivo) liefert
+    HTTP 403. Das eingetragene Datum 2024-10-01 (Datum der Acordada 15/2024) ist nicht am amtlichen Text
+    geprueft; ebenso wenig die Nummer der erweiternden Acordada vom 01.10.2025.'
+  monitoring_quellen:
+  - https://comunicacionjudicial.jusrionegro.gov.ar/
+  - https://www.saij.gob.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  letzte_pruefung: 2026-09-06
+- id: ar-sanjuan-acuerdo-102-2024
+  jurisdiktion: ar
+  provinz: San Juan
+  kurztitel: Acuerdo General 102/2024 — Protocolo de Uso Aceptable de IAGen (San Juan)
+  offizieller_titel: Acuerdo General N.º 102/2024 de la Corte de Justicia de San Juan — Protocolo de Uso
+    Aceptable de Inteligencia Artificial Generativa
+  fundstelle: Acuerdo General N.º 102 vom 31.10.2024, Corte de Justicia de San Juan
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit 31.10.2024 in Kraft.
+  kurzbeschreibung: Protokoll über den zulässigen Gebrauch generativer KI im Poder Judicial de San Juan.
+    Adressat ist das Justizpersonal einschliesslich der Richterschaft.
+  inkrafttreten:
+    datum: 2024-10-31
+    verifiziert: false
+    quelle: https://www.jussanjuan.gov.ar/acuerdos/acuerdos-generales/acuerdo-general-n-102-2024/
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - berufsrecht
+  regelungsschwerpunkte:
+  - Protokoll des zulässigen Gebrauchs ('uso aceptable') generativer KI.
+  - 'In der argentinischen Literatur wird der Acuerdo als erlaubnisorientiert gelesen: er autorisiert
+    den Einsatz unter Bedingungen, statt ihn zu beschränken (Rubinzal, RC D 106/2025 — nicht im Volltext
+    geprüft).'
+  dokumente:
+  - datum: 2024-10-31
+    typ: leitlinie
+    titel: Acuerdo General N.º 102/2024 — Protocolo de Uso Aceptable de IAGen
+    url: https://www.jussanjuan.gov.ar/acuerdos/acuerdos-generales/acuerdo-general-n-102-2024/
+    sprache: es
+    urheber: Corte de Justicia de San Juan
+    verifiziert: false
+    notiz: URL aus der amtlichen Übersicht justicia.ar. Der direkte Abruf wurde mit HTTP 418 abgewiesen.
+      Datum aus dem CETyS-Länderbericht.
+  offene_punkte:
+  - Volltext nicht geprüft.
+  - 'Inkrafttreten nicht belegbar: jussanjuan.gov.ar wird von einer Web Application Firewall abgewiesen
+    (''The access is blocked'', Event ID 32-nil). Das eingetragene Datum 2024-10-31 (Datum des Acuerdo
+    General 102/2024) ist nicht am amtlichen Text geprueft.'
+  monitoring_quellen:
+  - https://www.jussanjuan.gov.ar/acuerdos/acuerdos-generales/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  letzte_pruefung: 2026-09-06
+- id: ar-neuquen-acuerdo-6453-2025
+  jurisdiktion: ar
+  provinz: Neuquén
+  kurztitel: Acuerdo 6453/2025 — Recomendaciones de Uso de IAGen (Neuquén)
+  offizieller_titel: Acuerdo N.º 6453 del Tribunal Superior de Justicia del Neuquén — Recomendaciones
+    de Uso de Inteligencia Artificial Generativa
+  fundstelle: Acuerdo N.º 6453 vom 26.02.2025, Tribunal Superior de Justicia del Neuquén
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: Empfehlungscharakter ("Recomendaciones"), kein bindendes Protokoll. Damit ist Neuquén
+    der schwächste der argentinischen Justizakte.
+  kurzbeschreibung: Empfehlungen zum Gebrauch generativer KI im Poder Judicial del Neuquén.
+  inkrafttreten:
+    datum: 2025-02-26
+    verifiziert: false
+    quelle: https://cetys.lat/
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Unverbindliche Empfehlungen statt bindender Vorgaben.
+  dokumente:
+  - datum: 2025-02-26
+    typ: leitlinie
+    titel: Acuerdo N.º 6453 — Recomendaciones de Uso de IAGen
+    url: ''
+    sekundaerquelle_url: https://cetys.lat/wp-content/uploads/2025/10/ARG-final-3_compressed.pdf
+    sprache: es
+    urheber: Tribunal Superior de Justicia del Neuquén
+    verifiziert: false
+    notiz: Nur über den CETyS-Länderbericht Argentinien belegt (Nummer und Datum); amtliche Fundstelle
+      nicht ermittelt.
+  offene_punkte:
+  - Amtliche Fundstelle und Volltext nicht ermittelt.
+  - 'Inkrafttreten nicht belegbar: Als Quelle liegt nur cetys.lat hinterlegt, also keine amtliche Stelle.
+    Ein amtlicher Text des Acuerdo 6453 des Tribunal Superior de Justicia del Neuquén liess sich nicht
+    erreichen. Das eingetragene Datum 2025-02-26 ist nicht am amtlichen Text geprueft.'
+  monitoring_quellen:
+  - https://www.jusneuquen.gov.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  letzte_pruefung: 2026-09-06
+- id: ar-santafe-acta-6-2025
+  jurisdiktion: ar
+  provinz: Santa Fe
+  kurztitel: Acta N.º 6/2025 — KI-Autorisierung der Corte Suprema de Santa Fe
+  offizieller_titel: Acta N.º 6 del 06.03.2025 de la Corte Suprema de Justicia de la Provincia de Santa
+    Fe — Acuerdo sobre el uso de inteligencia artificial generativa en el ámbito judicial
+  fundstelle: Acta Nro. 6/2025 vom 06.03.2025, Corte Suprema de Justicia de Santa Fe
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit 06.03.2025 in Kraft. Der Akt AUTORISIERT den Einsatz generativer KI durch Richterschaft
+    und Verteidigung — er ist damit, anders als der Chubuter Acuerdo, primär ermächtigend und nicht begrenzend.
+  kurzbeschreibung: Die Corte Suprema de Justicia de Santa Fe erlaubt Richterinnen, Richtern und Verteidigern
+    den Einsatz generativer KI und schafft dafür einen Autorisierungsmechanismus. In der argentinischen
+    Literatur wird der Akt als "Corte provincial habilita el uso de IA por parte del juez" rezipiert.
+  inkrafttreten:
+    datum: 2025-03-06
+    verifiziert: false
+    quelle: https://cetys.lat/wp-content/uploads/2025/10/ARG-final-3_compressed.pdf
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - berufsrecht
+  regelungsschwerpunkte:
+  - Autorisierungsmechanismus statt Verbotskatalog — der Gegenpol zur Chubuter Linie im selben Jahr.
+  - Adressaten sind ausdrücklich auch die Defensores, nicht nur die Richterschaft.
+  dokumente:
+  - datum: 2025-03-06
+    typ: norm
+    titel: Acta Nro. 6/2025 — Corte Suprema de Justicia de Santa Fe
+    url: ''
+    sekundaerquelle_url: https://cetys.lat/wp-content/uploads/2025/10/ARG-final-3_compressed.pdf
+    sprache: es
+    urheber: Corte Suprema de Justicia de la Provincia de Santa Fe
+    verifiziert: false
+    notiz: Über den CETyS-Länderbericht und die Fachpresse (Rubinzal Online, RC D 106/2025) belegt; amtliche
+      Fundstelle nicht ermittelt.
+  offene_punkte:
+  - Amtliche Fundstelle und Volltext nicht ermittelt.
+  - Verhältnis zum Art. 5 der Ley 14.428 (Verwaltungsverfahren, 26.12.2025) ungeklärt — beide Regelungen
+    stammen aus derselben Provinz und behandeln denselben Grundkonflikt für unterschiedliche Gewalten.
+  - 'Inkrafttreten nicht belegbar: Als Quelle liegt nur ein PDF von cetys.lat hinterlegt, also keine amtliche
+    Stelle. Ein amtlicher Text der Acta N.º 6/2025 der Corte Suprema de Justicia de Santa Fe war nicht
+    erreichbar. Das eingetragene Datum 2025-03-06 ist nicht am amtlichen Text geprueft.'
+  monitoring_quellen:
+  - https://www.justiciasantafe.gov.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  - ar-santafe-ley-14428
+  letzte_pruefung: 2026-09-06
+- id: ar-caba-cm-res-206-2025
+  jurisdiktion: ar
+  provinz: Ciudad Autónoma de Buenos Aires
+  kurztitel: Res. Presidencia 206/2025 — KI-Guía des Consejo de la Magistratura CABA
+  offizieller_titel: 'Resolución de Presidencia N.º 206/2025 del Consejo de la Magistratura de la Ciudad
+    Autónoma de Buenos Aires — Anexo I: Guía de uso responsable y sustentable de la inteligencia artificial
+    y de los agentes de IA, ratificada por Resolución CM N.º 95/2025'
+  fundstelle: Res. Presidencia N.º 206/2025 vom 26.02.2025 (Buenos Aires), Anexo I; ratifiziert durch
+    Resolución CM N.º 95/2025
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit 26.02.2025 in Kraft, durch Plenarbeschluss (Res. CM 95/2025) ratifiziert. Am 24.09.2025
+    hat der Consejo zusätzlich ein Comité de Estandarización en Inteligencia Artificial eingerichtet.
+  kurzbeschreibung: Leitlinie des Consejo de la Magistratura der Stadt Buenos Aires für den verantwortlichen
+    und nachhaltigen Einsatz von KI und KI-Agenten in der Stadtjustiz. Sie ist der einzige argentinische
+    Justizakt, der ausdrücklich auch "agentes de IA" (agentische Systeme) erfasst, und der einzige, der
+    Nachhaltigkeit als Kriterium führt. Die Stadt Buenos Aires ist zugleich die argentinische Jurisdiktion
+    mit der längsten KI-Einsatzgeschichte in der Justiz (Prometea, seit 2017; MIA für Vollstreckungsverfahren).
+  inkrafttreten:
+    datum: 2025-02-26
+    verifiziert: true
+    quelle: https://consejo.jusbaires.gob.ar/
+  anwendungsdaten:
+  - datum: 2025-09-24
+    was_gilt: Einsetzung des Comité de Estandarización en Inteligencia Artificial des Consejo de la Magistratura
+      CABA unter Bezugnahme auf die Res. 206/2025.
+    verifiziert: false
+    quelle: https://consejo.jusbaires.gob.ar/
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - vertrag
+  regelungsschwerpunkte:
+  - Allgemeine und besondere Leitlinien für den verantwortlichen und nachhaltigen Einsatz von KI und KI-AGENTEN
+    — die bislang einzige argentinische Norm, die agentische Systeme ausdrücklich benennt.
+  - Ausgangspunkt sind ausweislich des Visto-Teils die internationalen KI-Prinzipien (OECD/UNESCO).
+  - Institutionelle Fortführung durch ein Comité de Estandarización (24.09.2025) — Standardisierung statt
+    blosser Empfehlung.
+  dokumente:
+  - datum: 2025-02-26
+    typ: leitlinie
+    titel: Res. Presidencia N.º 206/2025 — Anexo I, Guía de uso responsable y sustentable de la inteligencia
+      artificial y de los agentes de IA
+    url: ''
+    sekundaerquelle_url: https://allende.com/
+    sprache: es
+    urheber: Consejo de la Magistratura de la Ciudad Autónoma de Buenos Aires
+    verifiziert: false
+    notiz: 'Die amtliche PDF liegt unter consejo.jusbaires.gob.ar/download; die Deep-Link-URL liess sich
+      nicht auflösen. Nummer, Datum ("Buenos Aires, 26 de febrero de 2025 RES. PRESIDENCIA N° 206/2025")
+      und Eingangsformel ("VISTO: Los Principios de Inteligencia ...") sind über den indexierten Volltext
+      der amtlichen Datei belegt; die Ratifikation durch Res. CM 95/2025 über eine Publikation des CPACF.'
+  offene_punkte:
+  - Deep-Link zur amtlichen PDF nicht aufgelöst; Volltext nicht geprüft.
+  - Nummer und Fundstelle des Comité-Beschlusses vom 24.09.2025 nicht ermittelt.
+  monitoring_quellen:
+  - https://consejo.jusbaires.gob.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  - ar-scba-reglamento-ia-2026
+  letzte_pruefung: 2026-09-06
+- id: ar-chaco-res-stj-961-2025
+  jurisdiktion: ar
+  provinz: Chaco
+  kurztitel: Resolución STJ 961/2025 — Guía para el Uso de IA (Chaco)
+  offizieller_titel: Resolución N.º 961/2025 del Superior Tribunal de Justicia del Chaco — Guía para el
+    Uso de Inteligencia Artificial
+  fundstelle: Resolución STJ N.º 961/2025 vom 14.11.2025, gültig ab 17.11.2025
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Am 14.11.2025 beschlossen, ab 17.11.2025 anwendbar.
+  kurzbeschreibung: Leitfaden des chaqueñischen Höchstgerichts zum KI-Einsatz. Er verbietet die Delegation
+    von Entscheidungen, verlangt menschliche Aufsicht, die Verifikation aller KI-generierten Informationen
+    und Transparenz in gerichtlichen Beschlüssen. Chaco ist damit die einzige argentinische Provinz, die
+    sowohl ein Justizprotokoll (2025) als auch ein materielles KI-Gesetz (Ley 4250-J, 2026) hat.
+  inkrafttreten:
+    datum: 2025-11-17
+    verifiziert: false
+    quelle: https://www.diariojudicial.com/news-102634-jueces-frente-a-la-inteligencia-artificial-entre-la-innovacion-la-etica-y-la-regulacion
+  anwendungsdaten:
+  - datum: 2025-11-14
+    was_gilt: Beschlussfassung durch das Plenum des STJ Chaco.
+    verifiziert: false
+    quelle: https://www.diariojudicial.com/news-102634-jueces-frente-a-la-inteligencia-artificial-entre-la-innovacion-la-etica-y-la-regulacion
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - berufsrecht
+  regelungsschwerpunkte:
+  - Verbot der Delegation von Entscheidungen an KI-Systeme.
+  - Pflicht zu menschlicher Aufsicht über jeden KI-Einsatz.
+  - Pflicht zur Verifikation aller durch KI erzeugten Informationen — die deutlichste Antwort einer argentinischen
+    Justizverwaltung auf das Halluzinationsproblem.
+  - Transparenzpflicht in den gerichtlichen Beschlüssen selbst.
+  dokumente:
+  - datum: 2025-11-14
+    typ: leitlinie
+    titel: Resolución STJ N.º 961/2025 — Guía para el Uso de Inteligencia Artificial
+    url: ''
+    sekundaerquelle_url: https://www.diariojudicial.com/news-102634-jueces-frente-a-la-inteligencia-artificial-entre-la-innovacion-la-etica-y-la-regulacion
+    sprache: es
+    urheber: Superior Tribunal de Justicia del Chaco
+    verifiziert: false
+    notiz: Nur über die Fachpresse (Diario Judicial) belegt; amtliche Fundstelle auf justiciachaco.gov.ar
+      nicht ermittelt.
+  offene_punkte:
+  - Amtliche Fundstelle und Volltext nicht ermittelt.
+  - 'Inkrafttreten nicht belegbar: justiciachaco.gov.ar liess kein Auslesen der Seiteninhalte zu; Als
+    Quelle liegt nur diariojudicial.com hinterlegt, also keine amtliche Stelle. Die Angabe, die Resolución
+    STJ 961/2025 sei am 14.11.2025 beschlossen worden und gelte ab 17.11.2025, ist nicht am amtlichen
+    Text geprueft.'
+  monitoring_quellen:
+  - https://www.justiciachaco.gov.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  - ar-chaco-ley-4250-j
+  letzte_pruefung: 2026-09-06
+- id: ar-weitere-justizakte-ia
+  jurisdiktion: ar
+  kurztitel: Weitere argentinische Justizakte zur KI (Jujuy, La Pampa, Formosa, SCBA-RS 870/24)
+  offizieller_titel: 'Sammeleintrag: Acordada N.º 31/2025 (Jujuy); Acuerdo N.º 3804 (La Pampa); Acuerdo
+    N.º 3234 (Formosa); Resolución SC 870/24 (Suprema Corte de Buenos Aires)'
+  fundstelle: 'Jujuy: Acordada 31/2025, justiciajujuy.gov.ar. La Pampa: Acuerdo N.º 3804, justicia.lapampa.gob.ar.
+    Formosa: Acuerdo N.º 3234. Buenos Aires: Resolución SC 870/24, scba.gov.ar.'
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Sammeleintrag für vier weitere Akte, die einzeln nicht die Erfassungstiefe der Hauptregelwerke
+    rechtfertigen, für das Bild der Regelungsdichte aber unverzichtbar sind. Zusammen mit Chubut, San
+    Luis, Río Negro, San Juan, Neuquén, Santa Fe, CABA, Chaco und der SCBA-Vorlage ergeben sich elf argentinische
+    Gerichtsbarkeiten mit eigenen KI-Akten — weltweit die höchste subnationale Regelungsdichte in diesem
+    Feld.
+  kurzbeschreibung: 'Jujuy: Acordada 31/2025 schafft das Laboratorio de Innovación Judicial (INLAB) und
+    genehmigt zugleich das Protocolo para el Uso de la Inteligencia Artificial en el Poder Judicial. La
+    Pampa: Acuerdo 3804 übernimmt Empfehlungen der Comisión de Ética des Poder Judicial zum Gebrauch digitaler
+    Plattformen (weiter gefasst als KI). Formosa: Acuerdo 3234. Provincia de Buenos Aires: Resolución
+    SC 870/24 automatisiert das erste Despacho in Apremios-Verfahren — kein Protokoll, sondern ein Einsatzbeschluss
+    und damit der Vorläufer des Reglamento-Entwurfs 2026.'
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.justicia.ar/iniciativas/inteligencia-artificial
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Jujuy (Acordada 31/2025): Doppelakt aus Organisationsentscheidung (INLAB) und Verhaltensprotokoll
+    — das argentinische Muster, Implementierung und Begrenzung im selben Akt zu regeln.'
+  - 'La Pampa (Acuerdo 3804): Zuständigkeit der Comisión de Ética; nicht KI-spezifisch, sondern auf digitale
+    Plattformen insgesamt bezogen.'
+  - 'Provincia de Buenos Aires (RS 870/24): automatisiertes erstes Despacho in Apremios — der einzige
+    argentinische Justizakt, der eine automatisierte Verfahrenshandlung mit Aussenwirkung anordnet statt
+    sie zu beschränken.'
+  - 'Programa Piloto de Uso Estratégico y Responsable de IA Generativa der JuFeJus (Junta Federal de Cortes
+    y Superiores Tribunales) gemeinsam mit dem UBA-IALAB: Chaco, Formosa, Mendoza, Salta und Santa Cruz
+    nehmen teil, über 4.500 Justizangehörige freiwillig einbezogen. Mendoza ist damit über das Pilotprogramm
+    eingebunden, hat aber keinen eigenen Rechtsakt.'
+  dokumente:
+  - datum: 2025-01-01
+    typ: uebersicht
+    titel: Inteligencia artificial — Iniciativas (amtliche Übersicht)
+    url: https://www.justicia.ar/iniciativas/inteligencia-artificial
+    sprache: es
+    urheber: Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche Sammelseite des Justizministeriums. Sie führt RS 870/24 (Buenos Aires), Acuerdo 3804
+      (La Pampa), Acordada 15/2024 (Río Negro), Acuerdo General 102/2024 (San Juan) und Acuerdo 202-STJSL-SA-2024
+      (San Luis) mit Direktlinks sowie das JuFeJus-Pilotprogramm. Das angegebene Datum ist ein Platzhalter
+      — die Seite trägt kein Datum.
+  - datum: 2025-01-01
+    typ: norm
+    titel: Acordada N.º 31/2025 — Creación del Laboratorio de Innovación Judicial (INLAB) y aprobación
+      del Protocolo para el uso de la Inteligencia Artificial en el Poder Judicial
+    url: https://www.justiciajujuy.gov.ar/acordadas/acordada-n-31-2025-protocolo-para-el-uso-de-la-inteligencia-artificial-en-el-poder-judicial/
+    sprache: es
+    urheber: Superior Tribunal de Justicia de Jujuy
+    verifiziert: false
+    notiz: Amtliche URL des Poder Judicial de Jujuy; Datum der Acordada nicht ermittelt (das angegebene
+      Datum ist ein Platzhalter).
+  - datum: 2024-01-01
+    typ: norm
+    titel: Resolución SC 870/24 — automatización del primer despacho en apremios
+    url: https://www.scba.gov.ar/includes/descarga.asp?id=54480&n=Ver%20Resolucion%20870-24.pdf
+    sprache: es
+    urheber: Suprema Corte de Justicia de la Provincia de Buenos Aires
+    verifiziert: false
+    notiz: Amtliche URL aus der Übersicht justicia.ar; genaues Datum nicht ermittelt (Platzhalter).
+  offene_punkte:
+  - Daten und Volltexte der Akte aus Jujuy, La Pampa und Formosa nicht ermittelt.
+  - Nummer des Formosa-Akts (Acuerdo 3234) nur über Sekundärquelle belegt.
+  - Córdoba und Mendoza haben nach dem Stand dieser Recherche KEINEN eigenen Justizakt zur KI; Mendoza
+    ist nur über das JuFeJus-Pilotprogramm eingebunden. Córdoba tritt stattdessen publizistisch hervor
+    (Revista Argumentos des Poder Judicial de Córdoba).
+  - 'Inkrafttreten nicht belegbar: Sammeleintrag ohne eigenes Inkrafttretensdatum (Jujuy Acordada 31/2025,
+    La Pampa Acuerdo 3804, Formosa Acuerdo 3234, SCBA Resolución SC 870/24). Die als Quelle hinterlegte
+    Seite justicia.ar/iniciativas/inteligencia-artificial ist eine redaktionelle Uebersicht ohne Normdaten
+    und ohne Verweise auf die einzelnen Akte. Einzelne Inkrafttretensdaten waeren nur ueber die jeweiligen
+    Provinzgerichte zu erheben; ein Sammeleintrag kann ohnehin kein einheitliches Datum tragen.'
+  monitoring_quellen:
+  - https://www.justicia.ar/iniciativas/inteligencia-artificial
+  - https://jufejus.org.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  - ar-scba-reglamento-ia-2026
+  letzte_pruefung: 2026-09-06
+- id: ar-disposicion-2-2023
+  jurisdiktion: ar
+  kurztitel: Disposición 2/2023 — Recomendaciones para una IA fiable
+  offizieller_titel: Disposición N.º 2/2023 de la Subsecretaría de Tecnologías de la Información, Jefatura
+    de Gabinete de Ministros — Apruébanse las "Recomendaciones para una Inteligencia Artificial Fiable"
+  fundstelle: Boletín Oficial de la República Argentina, 02.06.2023, ID 287679; InfoLEG ID 384656; DI-2023-2-APN-SSTI#JGM
+  verfahrensnummer: DI-2023-2-APN-SSTI#JGM
+  status: softlaw
+  status_detail: Am 01.06.2023 erlassen, am 02.06.2023 im Boletín Oficial veröffentlicht. Nach dem Regierungswechsel
+    im Dezember 2023 nicht aufgehoben, aber auch nicht fortentwickelt. Es ist bis heute der einzige KI-spezifische
+    Rechtsakt der argentinischen Bundesexekutive mit horizontalem Anspruch — und er bindet nur den öffentlichen
+    Sektor.
+  kurzbeschreibung: Der Anhang "Recomendaciones para una Inteligencia Artificial Fiable" (RIAF) richtet
+    sich ausdrücklich an "quienes forman parte del sector público", gleich ob sie Innovationsprojekte
+    leiten, Technologien entwickeln oder extern entwickelte Lösungen einsetzen. Er gliedert den Lebenszyklus
+    in vier Phasen — Design und Datenmodellierung, Verifikation und Validierung, Implementierung, Betrieb
+    und Wartung — und formuliert für jede Phase Anforderungen an menschliche Aufsicht, Transparenz und
+    Erklärbarkeit, Nichtdiskriminierung, Datenschutz, Rechenschaft und Sicherheit. Bezugsrahmen sind die
+    UNESCO-Empfehlung zur Ethik der KI (2021) und die OECD-KI-Grundsätze (2019). Sanktionen enthält der
+    Akt nicht; er ist reines Verwaltungsinnenrecht ohne Aussenwirkung gegenüber Privaten.
+  inkrafttreten:
+    datum: 2023-06-02
+    verifiziert: true
+    quelle: https://www.boletinoficial.gob.ar/detalleAviso/primera/287679/20230602
+  anwendungsdaten:
+  - datum: 2023-06-01
+    was_gilt: Erlass der Disposición durch die Subsecretaría de Tecnologías de la Información.
+    verifiziert: true
+    quelle: https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2-2023-384656/texto
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Adressatenkreis ausschliesslich öffentlicher Sektor. Das ist die entscheidende Begrenzung: Argentinien
+    hat für private KI-Anbieter bislang keinerlei horizontale Vorgabe.'
+  - 'Vierphasiger Lebenszyklus: (1) Diseño y modelado de datos — diverse Teams, ethische Datenpraxis;
+    (2) Verificación y validación — Prototypen testen, Bewertungen dokumentieren; (3) Implementación —
+    Sicherheit, Auditierbarkeit, Barrierefreiheit; (4) Operación y mantenimiento — laufende Überwachung,
+    Vorfallsreaktion.'
+  - 'Zurechnungsgrundsatz im Wortlaut sinngemäss: Algorithmen handeln ohne Selbstbestimmung, die Verantwortung
+    bleibt bei den Menschen, die sie entwerfen, trainieren und einsetzen. Diese Formel ist der argentinische
+    Referenzsatz und taucht in den späteren Justizakten wieder auf.'
+  - 'Materielle Grundsätze: menschliche Aufsicht und Entscheidungshoheit, Transparenz und Erklärbarkeit,
+    Nichtdiskriminierung und Gleichheit, Datenschutz und Privatheit, Rechenschaftsmechanismen, Sicherheit
+    über den gesamten Lebenszyklus.'
+  - Anbindung an UNESCO (2021) und OECD (2019) — Argentinien ist beiden Instrumenten beigetreten; die
+    Disposición ist ihre nationale Umsetzung im Verwaltungsinnenrecht.
+  dokumente:
+  - datum: 2023-06-02
+    typ: endfassung
+    titel: Disposición 2/2023 — Jefatura de Gabinete de Ministros, Subsecretaría de Tecnologías de la
+      Información
+    url: https://www.boletinoficial.gob.ar/detalleAviso/primera/287679/20230602
+    sprache: es
+    urheber: Boletín Oficial de la República Argentina
+    verifiziert: true
+    notiz: Amtliche Verkündung.
+  - datum: 2023-06-01
+    typ: konsolidiert
+    titel: TEXTO ORIGINAL — Disposición 2/2023 mit Anexo (Recomendaciones)
+    url: https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2-2023-384656/texto
+    sprache: es
+    urheber: Ministerio de Justicia — Sistema Argentino de Información Jurídica
+    verifiziert: true
+    notiz: Volltext einschliesslich Anexo. Bestätigt Adressatenkreis (öffentlicher Sektor), die vier Lebenszyklusphasen
+      und die Bezugnahme auf UNESCO und OECD.
+  - datum: 2023-06-01
+    typ: konsolidiert
+    titel: Recomendaciones para una inteligencia artificial fiable (InfoLEG)
+    url: https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=384656
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia
+    verifiziert: false
+    notiz: Zweite amtliche Fundstelle; nicht gesondert abgerufen.
+  offene_punkte:
+  - Ob die Regierung Milei die RIAF fortführt, ist offen. Ein förmlicher Aufhebungsakt ist nicht ersichtlich;
+    eine Neufassung ebenfalls nicht.
+  - Die Disposición hat keine Aufsichtsbehörde und kein Verfahren — es fehlt jede Durchsetzungsschiene.
+  monitoring_quellen:
+  - https://www.boletinoficial.gob.ar/
+  - https://www.argentina.gob.ar/normativa
+  bezug_regelwerke:
+  - ar-aaip-res-161-2023
+  - ar-plan-nacional-ia-2019
+  - oecd-ai-principles
+  letzte_pruefung: 2026-09-06
+- id: ar-aaip-res-161-2023
+  jurisdiktion: ar
+  kurztitel: Resolución AAIP 161/2023 — Programa Nacional Transparencia und KI
+  offizieller_titel: Resolución N.º 161/2023 de la Agencia de Acceso a la Información Pública — Créase
+    el Programa de Transparencia y Protección de Datos Personales en el uso de la Inteligencia Artificial
+  fundstelle: Boletín Oficial N.º 35247 vom 04.09.2023; erlassen am 30.08.2023
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit 04.09.2023 in Kraft. Das Programm besteht fort; die AAIP hat es international mehrfach
+    präsentiert (zuletzt 2025/2026) und daraus im September 2024 eine Guía für öffentliche und private
+    Stellen entwickelt. Vorläufer ist die Resolución AAIP 94/2023 vom 23.05.2023 (Programa de Inteligencia
+    Artificial y Gobernanza de Datos).
+  kurzbeschreibung: Die argentinische Datenschutz- und Informationsfreiheitsbehörde schafft ein Programm
+    zur Analyse, Regulierungsvorbereitung und Stärkung staatlicher Kapazitäten für KI im öffentlichen
+    wie im privaten Sektor. Bestandteile sind ein Observatorium der KI-Entwicklungen, eine partizipative
+    Governance über multidisziplinäre Beratungsgremien sowie Schulungs- und Best-Practice-Programme zu
+    Transparenz und Datenschutz. Grundlage sind die OECD- und UNESCO-Standards. Das Programm ist die einzige
+    argentinische KI-Struktur mit einer Behörde dahinter, die auch gegenüber Privaten Befugnisse hat —
+    die Durchsetzung läuft aber über die Ley 25.326, nicht über KI-spezifisches Recht.
+  inkrafttreten:
+    datum: 2023-09-04
+    verifiziert: true
+    quelle: https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-161-2023-389231/texto
+  anwendungsdaten:
+  - datum: 2023-05-23
+    was_gilt: Resolución AAIP 94/2023 — Diseño e implementación del Programa de Inteligencia Artificial
+      y Gobernanza de Datos.
+    verifiziert: false
+    quelle: https://www.argentina.gob.ar/normativa
+  - datum: 2023-08-30
+    was_gilt: Erlass der Resolución 161/2023.
+    verifiziert: true
+    quelle: https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-161-2023-389231/texto
+  - datum: 2024-09-27
+    was_gilt: Veröffentlichung der "Guía para entidades públicas y privadas en materia de Transparencia
+      y Protección de Datos Personales para una Inteligencia Artificial responsable".
+    verifiziert: true
+    quelle: https://www.argentina.gob.ar/
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Programm mit drei Säulen: Observatorium, partizipative Governance über multidisziplinäre Beratungsgremien,
+    Schulung und Best Practices.'
+  - Reichweite ausdrücklich öffentlicher UND privater Sektor — anders als die Disposición 2/2023.
+  - Die Guía vom 27.09.2024 adressiert Risiken sowohl bei Systemen zur Personalisierung als auch bei automatisierten
+    Entscheidungen und verlangt Sicherheitsmassnahmen für die korrekte Verarbeitung personenbezogener
+    Daten.
+  - Die AAIP koordiniert seit 2025 die einschlägige Arbeitsgruppe der iberoamerikanischen Datenschutzbehörden
+    und leitet das Comité des Übereinkommens 108 (50. Plenarsitzung, 06.07.2026) — der Hebel für die argentinische
+    KI-Aufsicht liegt damit datenschutzrechtlich und international, nicht KI-rechtlich und national.
+  dokumente:
+  - datum: 2023-08-30
+    typ: endfassung
+    titel: Resolución 161/2023 — Programa de Transparencia y Protección de Datos Personales en el uso
+      de la Inteligencia Artificial
+    url: https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-161-2023-389231/texto
+    sprache: es
+    urheber: Agencia de Acceso a la Información Pública
+    verifiziert: true
+    notiz: Volltext. Nennt Datum, Boletín-Nummer und die Programmbestandteile.
+  - datum: 2023-05-23
+    typ: endfassung
+    titel: Resolución 94/2023 — Diseño e implementación del Programa de Inteligencia Artificial y Gobernanza
+      de Datos
+    url: ''
+    sekundaerquelle_url: https://www.argentina.gob.ar/normativa
+    sprache: es
+    urheber: Agencia de Acceso a la Información Pública
+    verifiziert: false
+    notiz: Über den Index von argentina.gob.ar/normativa als "TEXTO ORIGINAL — Resolución 94/2023 — AGENCIA
+      DE ..." mit Datum 23.05.2023 belegt; der Volltextabruf wurde mit HTTP 403 abgewiesen.
+  offene_punkte:
+  - Volltext der Guía vom 27.09.2024 nicht abgerufen (Deep-Link nicht aufgelöst).
+  - Volltext der Resolución 94/2023 nicht abgerufen.
+  - Ob die AAIP unter der geltenden Ley 25.326 überhaupt eine KI-Aufsichtsbefugnis hat, ist ungeklärt;
+    die Reformentwürfe würden ihr erstmals ausdrückliche Befugnisse zu automatisierten Entscheidungen
+    geben.
+  monitoring_quellen:
+  - https://www.argentina.gob.ar/aaip
+  - https://www.boletinoficial.gob.ar/
+  bezug_regelwerke:
+  - ar-ley-25326
+  - ar-disposicion-2-2023
+  - ar-reforma-datos-personales
+  letzte_pruefung: 2026-09-06
+- id: ar-res-710-2024-uiaas
+  jurisdiktion: ar
+  kurztitel: Resolución 710/2024 — Unidad de IA Aplicada a la Seguridad (UIAAS)
+  offizieller_titel: Resolución N.º 710/2024 del Ministerio de Seguridad — Créase la Unidad de Inteligencia
+    Artificial Aplicada a la Seguridad (UIAAS) en el ámbito de la Dirección de Ciberdelito y Asuntos Cibernéticos
+  fundstelle: Boletín Oficial de la República Argentina, 29.07.2024, ID 311381; argentina.gob.ar/normativa
+    ID 402139; erlassen am 26.07.2024
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Am 26.07.2024 von Ministerin Patricia Bullrich erlassen, am 29.07.2024 verkündet. Der
+    einzige KI-Akt der Regierung Milei mit unmittelbarer Grundrechtsrelevanz — und zugleich der einzige,
+    der KI nicht begrenzt, sondern für den Staat operativ erschliesst. Zivilgesellschaftliche Organisationen
+    halten ihn für unvereinbar mit der Ley de Inteligencia Nacional 25.520 und der Ley 25.326; eine gerichtliche
+    Klärung ist im Rahmen dieser Recherche nicht nachweisbar.
+  kurzbeschreibung: Die Resolución schafft im Sicherheitsministerium eine KI-Einheit für Prävention, Erkennung,
+    Ermittlung und Verfolgung von Straftaten. Zu ihren Aufgaben zählen die Überwachung sozialer Netzwerke
+    und des Darknet, Gesichtserkennung und Bildanalyse, Echtzeitauswertung von Überwachungskameras, prädiktive
+    Kriminalitätsalgorithmen, Erkennung von Cyberbedrohungen, Identifikation von Finanzbetrug, Drohnenpatrouillen
+    und die Koordinierung zwischen den Bundeskräften. Die UIAAS untersteht der Dirección de Ciberdelito
+    y Asuntos Cibernéticos und ist mit Vertretern der Bundespolizei und der Sicherheitskräfte besetzt.
+    Der Akt zitiert die Ley de Ministerios, die Decisión Administrativa 340/2024 und die Resolución 428/2024,
+    NICHT jedoch die Ley 25.326 (Datenschutz), die Ley 25.520 (Nachrichtendienste) oder die Ley 24.059
+    (innere Sicherheit) — genau darin liegt der Kern der Kritik.
+  inkrafttreten:
+    datum: 2024-07-29
+    verifiziert: true
+    quelle: https://www.boletinoficial.gob.ar/detalleAviso/primera/311381/20240729
+  anwendungsdaten:
+  - datum: 2024-07-26
+    was_gilt: Erlass durch die Ministerin für Sicherheit.
+    verifiziert: true
+    quelle: https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-710-2024-402139/texto
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - sicherheit-export
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - 'Aufgabenkatalog des Anexo: Überwachung sozialer Netzwerke und des Darknet; Gesichtserkennung und
+    Bildanalyse; Echtzeitauswertung von Überwachungskameras; prädiktive Kriminalitätsalgorithmen; Erkennung
+    von Cyberbedrohungen; Aufdeckung von Finanzbetrug; Drohnenpatrouillen; behördenübergreifende Koordinierung.'
+  - Der Akt nennt als Rechtsgrundlagen nur die Ley de Ministerios (1992), die Decisión Administrativa
+    340/2024 und die Resolución 428/2024 (Ciberpatrullaje-Richtlinien). Weder Ley 25.326 noch Ley 25.520
+    noch Ley 24.059 werden zitiert. Für eine Einheit, die biometrische Erkennung und prädiktive Polizeiarbeit
+    betreiben soll, ist das die auffälligste Lücke im argentinischen KI-Recht.
+  - 'Organisatorisch nachgeordnete Einheit ohne eigene gesetzliche Grundlage: Die UIAAS ist durch Ministerialresolution
+    errichtet, nicht durch Gesetz oder Dekret. Das ist der Gegenpol zur europäischen Anforderung einer
+    gesetzlichen Grundlage für biometrische Fernidentifizierung (Art. 5 Abs. 1 lit. h, Abs. 2-5 KI-VO).'
+  - 'Bemerkenswerter Binnenwiderspruch der argentinischen Bundesorgane: Die Procuración General de la
+    Nación stuft in ihren Lineamientos vom 04.09.2026 Echtzeit-Massenüberwachung als "riesgo inaceptable"
+    ein und verbietet sie sich selbst, während die Exekutive sie als Aufgabe einer eigenen Einheit definiert.'
+  dokumente:
+  - datum: 2024-07-29
+    typ: endfassung
+    titel: Resolución 710/2024 — Ministerio de Seguridad
+    url: https://www.boletinoficial.gob.ar/detalleAviso/primera/311381/20240729
+    sprache: es
+    urheber: Boletín Oficial de la República Argentina
+    verifiziert: true
+    notiz: Amtliche Verkündung.
+  - datum: 2024-07-26
+    typ: konsolidiert
+    titel: TEXTO ORIGINAL — Resolución 710/2024 mit Anexo
+    url: https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-710-2024-402139/texto
+    sprache: es
+    urheber: Ministerio de Justicia — Sistema Argentino de Información Jurídica
+    verifiziert: true
+    notiz: 'Volltext mit Aufgabenkatalog. Bestätigt: keine Bezugnahme auf Ley 25.520, Ley 25.326 oder
+      Ley 24.059.'
+  offene_punkte:
+  - Ob gegen die Resolución ein Amparo oder eine Verfassungsklage anhängig ist, konnte nicht geklärt werden.
+  - Ob die UIAAS operativ aufgebaut wurde und welche Systeme sie einsetzt, ist nicht öffentlich dokumentiert.
+  - Ein Rechtsrahmen für biometrische Fernidentifizierung fehlt in Argentinien vollständig; die Entwürfe
+    des Abgeordneten Yeza (Genehmigungsvorbehalt der AAIP, Folgenabschätzung, Verbot der Massenüberwachung)
+    liegen im Ausschuss.
+  monitoring_quellen:
+  - https://www.boletinoficial.gob.ar/
+  - https://www.argentina.gob.ar/seguridad
+  bezug_regelwerke:
+  - ar-ley-25326
+  - ar-pgn-64-2026
+  - ar-proyectos-ia-congreso
+  letzte_pruefung: 2026-09-06
+- id: ar-plan-nacional-ia-2019
+  jurisdiktion: ar
+  kurztitel: Plan Nacional de Inteligencia Artificial (ArgenIA, 2019)
+  offizieller_titel: Plan Nacional de Inteligencia Artificial (ArgenIA) — Secretaría de Gobierno de Ciencia,
+    Tecnología e Innovación Productiva
+  fundstelle: 'Politikdokument ohne Verkündung; 2019 vorgestellt, Planungshorizont 2019-2030. Verwandte
+    Rechtsakte: Decreto 996/2018 (Agenda Digital Argentina); Resolución 90/2021 der Secretaría de Asuntos
+    Estratégicos (Programa de Inteligencia Artificial).'
+  verfahrensnummer: ''
+  status: softlaw
+  status_detail: Nie in eine Rechtsnorm überführt und faktisch aufgegeben. Die Regierung Milei hat keine
+    eigene KI-Strategie formuliert; ihre KI-Politik besteht aus Standortpolitik (Rechenzentren, RIGI-Anreize,
+    "Argentinien als KI-Pol"), dem Sicherheitsakt Resolución 710/2024 und Personalentscheidungen — im
+    August 2026 wurde mit Adriana Baravalle erstmals eine KI-Spezialistin an die Spitze der Secretaría
+    de Innovación, Ciencia y Tecnología berufen (Decreto 730/2026, Meldungen vom 13.08.2026). Ein Strategiedokument
+    dieser Regierung existiert nicht.
+  kurzbeschreibung: 'ArgenIA war der erste lateinamerikanische nationale KI-Plan neben dem kolumbianischen
+    und wurde international breit rezipiert (OECD-OPSI, CIPPEC). Er formulierte Ziele zu Talentbildung,
+    Daten, Infrastruktur, Anwendung im öffentlichen Sektor und Ethik, blieb aber ein Planungspapier ohne
+    Rechtsverbindlichkeit und ohne Umsetzungsinstrument. Für die Rechtsdatenbank ist er vor allem als
+    Erklärung dafür wichtig, warum Argentinien 2026 keine Bundes-KI-Politik hat: Die Strategieebene ist
+    zwischen zwei Regierungswechseln verlorengegangen, während die Justiz die Regelung an sich gezogen
+    hat.'
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2018-11-01
+    was_gilt: Decreto 996/2018 — Agenda Digital Argentina als Grundlagenakt der Digitalstrategie mit KI-Bezug.
+    verifiziert: false
+    quelle: https://cetys.lat/wp-content/uploads/2025/10/ARG-final-3_compressed.pdf
+  - datum: 2021-01-01
+    was_gilt: Resolución 90/2021 der Secretaría de Asuntos Estratégicos — Schaffung eines Programa de
+      Inteligencia Artificial.
+    verifiziert: false
+    quelle: https://cetys.lat/wp-content/uploads/2025/10/ARG-final-3_compressed.pdf
+  - datum: 2026-08-13
+    was_gilt: Ernennung von Adriana Baravalle zur Secretaria de Innovación, Ciencia y Tecnología (Decreto
+      730/2026) — erste Ressortleitung mit KI-Profil unter Milei.
+    verifiziert: false
+    quelle: https://www.infobae.com/
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Reines Politikdokument ohne Rechtsverbindlichkeit; kein Umsetzungsinstrument.
+  - 'Argentiniens internationale Bindungen bestehen fort: OECD-KI-Empfehlung (2019), UNESCO-Empfehlung
+    zur Ethik der KI (2021), UNESCO-Toolkit zu KI und Rechtsstaatlichkeit (2023), GPAI.'
+  - Die Regierung Milei betreibt KI-Politik als Standort- und Investitionspolitik, nicht als Regulierungspolitik.
+    Eine Nachfolgestrategie zu ArgenIA gibt es nicht.
+  dokumente:
+  - datum: 2019-01-01
+    typ: bericht
+    titel: Plan Nacional de Inteligencia Artificial (ArgenIA)
+    url: https://oecd-opsi.org/wp-content/uploads/2021/02/Argentina-National-AI-Strategy.pdf
+    sprache: es
+    urheber: Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva (Fassung über OECD-OPSI)
+    verifiziert: false
+    notiz: Das Dokument trägt kein Erlassdatum; das angegebene Datum ist ein Platzhalter für das Vorstellungsjahr.
+      Nicht gesondert abgerufen.
+  offene_punkte:
+  - Genaues Vorstellungsdatum und amtliche Fundstelle nicht ermittelt.
+  - Ob unter Baravalle eine neue Strategie vorbereitet wird, ist zum Stichtag nicht erkennbar.
+  monitoring_quellen:
+  - https://www.argentina.gob.ar/ciencia
+  - https://oecd.ai/en/dashboards/countries/Argentina
+  bezug_regelwerke:
+  - ar-disposicion-2-2023
+  - oecd-ai-principles
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Kein Inkrafttreten: Der Plan wurde nie in eine Rechtsnorm ueberfuehrt. Status ''softlaw'' bleibt
+    richtig.'
+- id: ar-mjus-res-111-2024
+  jurisdiktion: ar
+  kurztitel: Resolución 111/2024 — Programa Nacional Integral de IA en la Justicia
+  offizieller_titel: Resolución N.º 111/2024 del Ministerio de Justicia — Programa Nacional Integral de
+    Inteligencia Artificial en la Justicia
+  fundstelle: Resolución 111/2024, Ministerio de Justicia de la Nación (argentina.gob.ar/normativa ID
+    397074)
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Bundesprogramm des Justizministeriums zur KI in der Justiz. Es ergänzt die Portalarbeit
+    (Justicia.ar, entwickelt auf Grundlage der Resolución 2512/2024 der Corte Suprema de Justicia de la
+    Nación) und die JuFeJus-Pilotprogramme. Es enthält keine Verhaltensvorgaben für Richterinnen und Richter
+    — die Bundesebene reguliert nicht, sie fördert.
+  kurzbeschreibung: Das Programm bündelt die Bundesinitiativen zur KI in der Justiz und stellt über Justicia.ar
+    eine amtliche Übersicht über die Provinzakte bereit. Es ist der einzige KI-bezogene Akt des Bundesjustizministeriums.
+  inkrafttreten:
+    datum: 2024-04-20
+    verifiziert: true
+    quelle: https://www.boletinoficial.gob.ar/detalleAviso/primera/305645/20240411
+    fundstelle_norm: 'Die Resolución 111/2024 enthaelt keine Vigencia-Klausel (Art. 8: ''Comuníquese,
+      y archívese''). Fuer Verwaltungsakte allgemeiner Reichweite gilt Art. 11 der Ley 19.549 (LNPA) i.V.m.
+      Art. 103 des Reglamento de la LNPA (Decreto 1759/72, t.o. 2017): Wirksamkeit acht Tage nach dem
+      Tag der Veroeffentlichung im Boletín Oficial. Veroeffentlichung im B.O. vom 11.04.2024, Aviso N°
+      20091/24.'
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - Bündelung der Bundesinitiativen zur KI in der Justiz.
+  - Resolución 2512/2024 der Corte Suprema de Justicia de la Nación als Grundlage des Portals Justicia.ar.
+  - 'Die CSJN selbst hat KEINE Acordada zum KI-Einsatz durch Richterinnen und Richter erlassen. Sie setzt
+    KI produktseitig ein: modernisierte Fallsuchmaschine (März 2026) und automatisch erzeugte Urteilszusammenfassungen
+    in klarer Sprache. Das ist die auffälligste Leerstelle im argentinischen Befund — das Höchstgericht
+    des Bundes regelt nicht, was elf Provinzgerichtsbarkeiten geregelt haben.'
+  dokumente:
+  - datum: 2024-01-01
+    typ: norm
+    titel: Resolución 111/2024 — Programa Nacional Integral de Inteligencia Artificial en la Justicia
+    url: ''
+    sekundaerquelle_url: https://cetys.lat/wp-content/uploads/2025/10/ARG-final-3_compressed.pdf
+    sprache: es
+    urheber: Ministerio de Justicia de la Nación
+    verifiziert: false
+    notiz: Nummer und Gegenstand über den CETyS-Länderbericht belegt; der Abruf über argentina.gob.ar/normativa
+      wurde mit HTTP 403 abgewiesen. Datum ist ein Platzhalter.
+  - datum: 2026-03-02
+    typ: pressemitteilung
+    titel: La Corte Suprema moderniza su buscador de fallos con inteligencia artificial
+    url: https://www.csjn.gov.ar/novedades/detalle/12109
+    sprache: es
+    urheber: Corte Suprema de Justicia de la Nación
+    verifiziert: false
+    notiz: Beleg dafür, dass die CSJN KI produktseitig einsetzt, ohne sie zu regeln. Datum aus der Fachpresse;
+      die URL wurde nicht gesondert abgerufen.
+  offene_punkte:
+  - Volltext und Datum der Resolución 111/2024 nicht ermittelt.
+  - Ob die CSJN eine Acordada zum KI-Einsatz vorbereitet, ist nicht erkennbar. Sie hat weder das Halluzinationsproblem
+    noch die Offenlegungsfrage geregelt.
+  monitoring_quellen:
+  - https://www.justicia.ar/iniciativas/inteligencia-artificial
+  - https://www.csjn.gov.ar/novedades
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  - ar-pgn-64-2026
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Am amtlichen Volltext im Boletín Oficial geprueft. Die Resolución 111/2024 des Ministerio de Justicia
+    schafft das ''Programa Nacional Integral de Inteligencia Artificial en la Justicia'' in der Unidad
+    Gabinete de Asesores und bestellt Diego Carlos Guerendiain zum Koordinator; sie enthaelt keine eigene
+    Vigencia-Bestimmung, so dass die Achttagesregel greift. Das Veroeffentlichungsdatum 11.04.2024 ist
+    unmittelbar belegt; das Wirksamkeitsdatum ist daraus abgeleitet und in der fundstelle_norm offengelegt.
+    Status ''anwendbar'' bleibt richtig. Vorher: null (kein Datum eingetragen).'
+- id: ar-proyectos-ia-congreso
+  jurisdiktion: ar
+  kurztitel: KI-Gesetzentwürfe im argentinischen Kongress (2024-2026)
+  offizieller_titel: Proyectos de ley sobre inteligencia artificial en la Honorable Cámara de Diputados
+    y el Honorable Senado de la Nación
+  fundstelle: 'Cámara de Diputados: Expedientes 4079-D-2024 (Giudici), 3955-D-2024, 3900-D-2024, 3003-D-2024,
+    1013-D-2024, Proyecto Gollán ("Marco Normativo y de Desarrollo de los Sistemas de IA", hcdn.gob.ar/proyectos/284321).
+    Senado: 1370-S-2024, 1368-S-2024, S-0222/2026. Weitere Entwürfe 2026 (u.a. Brügge, 15.07.2026).'
+  verfahrensnummer: Dictamen de mayoría der Comisión de Ciencia, Tecnología e Innovación Productiva vom
+    11./12.11.2025 (Vorsitz Daniel Gollán, UxP)
+  status: verfahren
+  status_detail: Zum 06.09.2026 hat KEIN argentinischer KI-Gesetzentwurf das Plenum erreicht; ein Bundesgesetz
+    zur KI existiert nicht. Der weitestgehende Vorgang ist das Mehrheitsgutachten der Comisión de Ciencia,
+    Tecnología e Innovación Productiva der Cámara de Diputados vom 11./12.11.2025 zum Entwurf Gollán.
+    Die Behandlung im Plenum wurde mehrfach verschoben; die Unternehmerkammer Argencon hat den Entwurf
+    öffentlich als "antecedente negativo" bezeichnet, der den KI-Einsatz gefährde. Nach Angaben einer
+    Auswertung wurden zwischen 2016 und September 2025 allein 62 Gesetzesinitiativen zu KI und Justiz
+    eingebracht, von denen keine Gesetz wurde.
+  kurzbeschreibung: 'Argentinien verhandelt seit 2024 über ein horizontales KI-Gesetz. Der Leitentwurf
+    (Gollán) folgt strukturell der KI-VO: Risikoklassen mit Verbotskatalog, Betroffenenrechte, eine neue
+    Behörde und Sanktionsbefugnisse. Er ist zugleich das Gegenmodell zur Position der Regierung Milei,
+    die Regulierung als Standortnachteil ansieht. Die Blockade ist damit nicht technisch, sondern wirtschaftspolitisch.
+    Neben dem horizontalen Strang laufen sektorale Vorhaben: Gesichtserkennung (Yeza), Strafrecht und
+    Deepfakes (3955-D-2024), ein Observatorium (3900-D-2024) sowie systematische Anpassungen von Zivilrecht,
+    Urheberrecht und Datenschutz (1013-D-2024).'
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2025-11-11
+    was_gilt: 'Mehrheitsgutachten der Comisión de Ciencia, Tecnología e Innovación Productiva zum Rahmengesetz.
+      WIDERSPRUCH: Die amtliche Pressemitteilung der Cámara datiert die Sitzung auf den 11.11.2025, eine
+      Fachmeldung auf Dienstag, den 12.11.2025.'
+    verifiziert: true
+    quelle: https://www.hcdn.gob.ar/prensa/noticia/COMISION-DE-CIENCIA-TECNOLOGIA-E-INNOVACION-PRODUCTIVA-AVANZO-EN-UN-MARCO-REGULATORIO-PARA-LA-IA/
+  - datum: 2026-07-15
+    was_gilt: Einbringung eines weiteren umfassenden Regulierungsentwurfs (Abgeordneter Brügge) mit Risikoklassifizierung
+      und Verbotskatalog.
+    verifiziert: false
+    quelle: https://www.parlamentario.com/tag/inteligencia-artificial/
+  themenachsen:
+  - marktzugang
+  - governance
+  - grundrechte
+  - gpai
+  - haftung
+  - datenschutz
+  - content
+  regelungsschwerpunkte:
+  - 'Entwurf Gollán ("Marco Normativo y de Desarrollo de los Sistemas de IA"), sechs Kapitel: Marco General
+    (Art. 1-5), De los Derechos (Art. 6-16), Clasificación de los Sistemas de IA (Art. 17-22), Gobernanza
+    (Art. 23-29), Fomento de la Innovación (Art. 30-34), Modificaciones Jurídicas (Art. 35-43).'
+  - 'Art. 17 Verbotskatalog: unterschwellige Techniken zur Verhaltensmanipulation; Ausnutzung der Schutzbedürftigkeit
+    bestimmter Gruppen; Social Scoring durch staatliche Akteure ohne gesetzliche Grundlage. Struktur und
+    Reihenfolge folgen Art. 5 KI-VO.'
+  - 'Risikoklassen: inakzeptabel (verboten); hoch (Gesundheit, Justiz, Beschäftigung, Biometrie); begrenzt.'
+  - 'Betroffenenrechte: Anspruch auf Erklärung, Anspruch auf menschliche Überprüfung, Auskunfts- und Berichtigungsfristen
+    (Höchstfrist 15 Tage).'
+  - 'Governance: neue "Agencia de Gestión del Conocimiento" (A.G.C.) als autonome Einrichtung im Innovationsressort,
+    mit föderalem Beirat, Direktorium, Exekutivleitung und Fachausschüssen; Zuständigkeiten für Politik,
+    technische Standards, Zertifizierung, Audits und Sanktionen.'
+  - 'Art. 29 Sanktionen: Geldbussen, Aussetzung, bei schweren Verstössen Untersagung des KI-Einsatzes.'
+  - Regulatorisches Sandbox; steuerliche Anreize; Zertifizierungsgebühren.
+  - 'Entwurf Giudici (4079-D-2024, verfallen): "Presupuestos mínimos" zur Förderung der KI; Erklärung
+    der KI-Entwicklung zum nationalen strategischen Interesse; Verbot diskriminierender biometrischer
+    Systeme (Art. 6-7); Kennzeichnungspflicht für KI-generierte Inhalte (Art. 8-9); Förderrat und jährliche
+    Evaluierung (Art. 10-12).'
+  - 'Gesichtserkennung (Yeza): Rahmen zur Zulassung biometrischer Erkennung für die öffentliche Sicherheit
+    mit Folgenabschätzung vor Einsatz, Genehmigungsvorbehalt der AAIP, Verbot der Massenüberwachung und
+    der routinemässigen Verfolgung sowie zwingender menschlicher Kontrolle jeder automatisierten Identifizierung.
+    Das ist die direkte gesetzgeberische Antwort auf die UIAAS.'
+  - 'Weitere Entwürfe: Sapag (Senat) und Gollán mit risikobasierter Klassifizierung und Verbot von Verhaltensmanipulation
+    und diskriminierendem Social Scoring; 1013-D-2024 mit systematischen Anpassungen von Zivilrecht, Urheberrecht
+    und Datenschutz; 3900-D-2024 Observatorio Federal sobre IA (OFIA); 1370-S-2024 KI in der Bildung;
+    1368-S-2024 Rahmen für Forschung und Regulierung.'
+  dokumente:
+  - datum: 2025-11-11
+    typ: ausschussbericht
+    titel: Comisión de Ciencia, Tecnología e Innovación Productiva avanzó en un marco regulatorio para
+      la IA
+    url: https://www.hcdn.gob.ar/prensa/noticia/COMISION-DE-CIENCIA-TECNOLOGIA-E-INNOVACION-PRODUCTIVA-AVANZO-EN-UN-MARCO-REGULATORIO-PARA-LA-IA/
+    sprache: es
+    urheber: Honorable Cámara de Diputados de la Nación
+    verifiziert: true
+    notiz: Amtliche Mitteilung über das Mehrheitsgutachten. Sie hält auch die Kritik mehrerer Abgeordneter
+      fest, es fehle an Zeit für eine pluralistische Debatte und es sei sinnvoller, bestehende Gesetze
+      zu aktualisieren als neu zu regulieren.
+  - datum: 2024-01-01
+    typ: entwurf
+    titel: Proyecto de Ley Marco Normativo y de Desarrollo de los Sistemas de IA
+    url: https://rest.hcdn.gob.ar/web/proyectos/284321/adjuntos/19654
+    sprache: es
+    urheber: Diputado Nacional Daniel Gollán
+    verifiziert: true
+    notiz: Volltext des Leitentwurfs, 43 Artikel in sechs Kapiteln. Die Expediente-Nummer geht aus dem
+      PDF nicht hervor; das Datum ist ein Platzhalter für das Einbringungsjahr.
+  - datum: 2024-01-01
+    typ: entwurf
+    titel: Proyecto de Ley — Presupuestos mínimos para la promoción de la inteligencia artificial (Expte.
+      4079-D-2024)
+    url: https://rest.hcdn.gob.ar/web/tramites-parlamentarios/render/adjunto/69a578608bd48.pdf
+    sprache: es
+    urheber: Diputada Nacional Silvana Giudici
+    verifiziert: true
+    notiz: Volltext. Der Entwurf ist inzwischen verfallen (pérdida de estado parlamentario); Datum ist
+      ein Platzhalter.
+  - datum: 2025-04-04
+    typ: uebersicht
+    titel: Dossier Legislativo — Inteligencia Artificial
+    url: https://bcn.gob.ar/biblioteca-digital/dossier-legislativo-inteligencia-artificial---abril-2025
+    sprache: es
+    urheber: Biblioteca del Congreso de la Nación
+    verifiziert: false
+    notiz: Amtliche Zusammenstellung der Bibliothek des Kongresses; nicht gesondert abgerufen.
+  offene_punkte:
+  - Expediente-Nummer des Entwurfs Gollán nicht ermittelt; die HCDN-Projektsuche liess sich nicht abfragen.
+  - Datumswiderspruch 11./12.11.2025 zum Dictamen nicht aufgelöst.
+  - 'Ob der Entwurf Gollán nach dem Dictamen noch parlamentarischen Status hat, ist zu prüfen: Nach argentinischem
+    Recht verfallen Entwürfe nach zwei ordentlichen Sitzungsperioden, ein Dictamen verlängert um ein weiteres
+    Jahr. Der Entwurf müsste danach bis 28.02.2027 laufen.'
+  - Die Position der Regierung Milei ist nicht in einem förmlichen Dokument niedergelegt, sondern nur
+    über Presse und Verbandsäusserungen rekonstruierbar.
+  monitoring_quellen:
+  - https://www.hcdn.gob.ar/proyectos/
+  - https://www.senado.gob.ar/parlamentario/parlamentaria/
+  - https://www.parlamentario.com/tag/inteligencia-artificial/
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - br-pl-2338-2023
+  - ar-res-710-2024-uiaas
+  - ar-reforma-datos-personales
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Kein Inkrafttreten: Zum 06.09.2026 hat kein argentinischer KI-Gesetzentwurf das Plenum erreicht.
+    Status ''verfahren'' bleibt richtig.'
+- id: ar-ley-25326
+  jurisdiktion: ar
+  kurztitel: Ley 25.326 — Protección de los Datos Personales
+  offizieller_titel: Ley N.º 25.326 de Protección de los Datos Personales (Habeas Data)
+  fundstelle: 'Ley 25.326, sancionada 04.10.2000, promulgada parcialmente 30.10.2000 (Decreto 995/2000),
+    Boletín Oficial 02.11.2000; Reglamentierung durch Decreto 1558/2001. Aufsichtsbehörde: Agencia de
+    Acceso a la Información Pública (AAIP), Ley 27.275.'
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit dem Jahr 2000 unverändert in Kraft und damit die älteste noch geltende umfassende
+    Datenschutzordnung Lateinamerikas. Sie kennt weder Rechenschaftspflicht noch Privacy by Design, weder
+    Datenübertragbarkeit noch ein eigenes Recht gegen automatisierte Einzelentscheidungen nach dem Vorbild
+    des Art. 22 DSGVO, und sie verlangt weiterhin die Registrierung von Datenbanken. Argentinien hält
+    den Angemessenheitsbeschluss der Kommission von 2003 gleichwohl bis heute. Reformentwürfe liegen seit
+    2023 im Kongress.
+  kurzbeschreibung: 'Die Ley 25.326 ist der einzige geltende Rechtsrahmen, der KI-Anwendungen in Argentinien
+    materiell erfasst — über die Zulässigkeit der Verarbeitung (Art. 5: Rechtmässigkeit nur bei freier,
+    ausdrücklicher und informierter Einwilligung), die Zweckbindung, die Betroffenenrechte und die Sanktionsbefugnisse
+    der AAIP. Alle argentinischen KI-Akte — die Disposición 2/2023, die AAIP-Programme, das SCBA-Reglamento,
+    die Lineamientos PGN 64/2026 — knüpfen ihre Datenschutzanforderungen an dieses Gesetz an. Es ist damit
+    die faktische KI-Norm Argentiniens, obwohl es KI nicht erwähnt.'
+  inkrafttreten:
+    datum: 2000-11-11
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/norma.htm
+    fundstelle_norm: 'Die Ley 25.326 enthaelt KEINE Vigencia-Klausel (Art. 44 orden público, Art. 45 Reglamentierungsauftrag,
+      Art. 46 disposiciones transitorias, Art. 47 Kreditdatenbanken, Art. 48 ''Comuníquese al Poder Ejecutivo'').
+      Es gilt daher Art. 2 des Código Civil (Ley 340 i.d.F. der Ley 16.504): ''Si no designan tiempo,
+      serán obligatorias después de los ocho días siguientes al de su publicación oficial.'' Boletín Oficial
+      vom 02.11.2000; die acht folgenden Tage laufen vom 03. bis 10.11.2000, verbindlich ab dem 11.11.2000.'
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. 5: Verarbeitung nur bei freier, ausdrücklicher und informierter Einwilligung ("consentimiento
+    libre, expreso e informado") — der engste Rechtsgrundlagenkatalog der Region und der eigentliche Engpass
+    für das Training von Modellen auf argentinischen Daten.'
+  - Kein eigenständiges Recht gegen automatisierte Einzelentscheidungen; die argentinische Praxis behilft
+    sich mit dem Auskunftsrecht und dem Habeas-Data-Verfahren der Art. 33 ff.
+  - Registrierungspflicht für Datenbanken — in den Reformentwürfen gestrichen.
+  - Aufsicht durch die AAIP mit Sanktionsbefugnis. Die AAIP ist die einzige argentinische Behörde, die
+    gegenüber privaten KI-Anbietern durchgreifen kann; sie tut es bislang nicht KI-spezifisch.
+  dokumente:
+  - datum: 2000-11-02
+    typ: endfassung
+    titel: Ley 25.326 — Protección de los Datos Personales
+    url: https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64790
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia
+    verifiziert: false
+    notiz: Amtliche Fundstelle bei InfoLEG; die InfoLEG-ID ist aus der Praxis übernommen und wurde im
+      Rahmen dieser Recherche nicht abgerufen.
+  offene_punkte:
+  - InfoLEG-Fundstelle nicht abgerufen; ID zu verifizieren.
+  - Ob der EU-Angemessenheitsbeschluss von 2003 die Überprüfung nach Art. 45 Abs. 4 DSGVO überstehen wird,
+    ist offen — mit Folgen für den Datentransfer in argentinische Rechenzentren.
+  monitoring_quellen:
+  - https://www.argentina.gob.ar/aaip
+  - https://servicios.infoleg.gob.ar/
+  bezug_regelwerke:
+  - ar-aaip-res-161-2023
+  - ar-reforma-datos-personales
+  - ar-pgn-64-2026
+  - dsgvo
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'FEHLER KORRIGIERT. Eingetragen war das Datum der Veroeffentlichung im Boletín Oficial. Am amtlichen
+    InfoLEG-Text (Ursprungsfassung und texto actualizado) wurde geprueft, dass das Gesetz keine eigene
+    Vigencia-Bestimmung enthaelt; massgeblich ist die allgemeine Regel des Art. 2 Código Civil in der
+    im Jahr 2000 geltenden Fassung. Sanktion 04.10.2000, teilweise Promulgation durch Decreto 995/2000
+    vom 30.10.2000, B.O. 02.11.2000. Status ''anwendbar'' bleibt richtig; das Gesetz ist unveraendert
+    in Kraft. Vorher: 2000-11-02.'
+- id: ar-reforma-datos-personales
+  jurisdiktion: ar
+  kurztitel: Reformentwürfe zur Ley 25.326 (seit 2023)
+  offizieller_titel: Proyectos de ley de protección de datos personales — sustitución de la Ley 25.326
+  fundstelle: Entwürfe u.a. des Diputado Pablo Carro und des Senador Martín Doñate; Volltext eines Entwurfs
+    unter rest.hcdn.gob.ar (26 Seiten, "PROYECTO LEY DE DATOS PERSONALES").
+  verfahrensnummer: ''
+  status: verfahren
+  status_detail: Seit 2023 anhängig, zum 06.09.2026 nicht verabschiedet. Die Entwürfe orientieren sich
+    an der DSGVO und an der brasilianischen LGPD.
+  kurzbeschreibung: 'Die Reform würde erstmals ein Recht gegen automatisierte Entscheidungen, Rechenschaftspflicht,
+    Privacy by Design, Datenübertragbarkeit, Datenschutzbeauftragte und Meldepflichten bei Sicherheitsvorfällen
+    in das argentinische Recht einführen und die Registrierungspflicht für Datenbanken streichen. Für
+    die KI-Regulierung ist sie der wahrscheinlichere Weg als ein eigenes KI-Gesetz: Sie schafft das Instrument,
+    das in Argentinien heute fehlt — einen einklagbaren Anspruch gegen die algorithmische Entscheidung.'
+  inkrafttreten: null
+  anwendungsdaten: []
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Neue Grundsätze: proaktive Rechenschaftspflicht, Privacy by Design.'
+  - 'Neue Rechte: Datenübertragbarkeit und Widerspruch gegen automatisierte Entscheidungen — die argentinische
+    Entsprechung zu Art. 20 und Art. 22 DSGVO.'
+  - 'Neue Mechanismen: Datenschutzbeauftragte, Meldung von Sicherheitsvorfällen; Streichung der Registrierungspflicht.'
+  - 'Kritik aus der Praxis: Die Zehn-Tage-Frist zur Erfüllung von Betroffenenanfragen gilt als praktisch
+    kaum einhaltbar; für KMU werden differenzierte Anforderungen gefordert.'
+  dokumente:
+  - datum: 2025-06-18
+    typ: stellungnahme
+    titel: Novedades legislativas en Argentina sobre protección de datos personales e inteligencia artificial
+    url: https://iapp.org/news/a/novedades-legislativas-en-argentina-sobre-protecci-n-de-datos-personales-e-inteligencia-artificial
+    sprache: es
+    urheber: International Association of Privacy Professionals (IAPP)
+    verifiziert: true
+    notiz: Sekundärquelle, aber die einzige systematische Übersicht über die parallel laufenden Datenschutz-
+      und KI-Entwürfe. Das Datum ist der in der Suchmaschine ausgewiesene Publikationszeitpunkt einer
+      vergleichbaren Fassung und nicht am Dokument selbst verifiziert.
+  offene_punkte:
+  - Expediente-Nummern der Entwürfe nicht ermittelt.
+  - Verfahrensstand 2026 nicht ermittelt; kein Dictamen ersichtlich.
+  monitoring_quellen:
+  - https://www.hcdn.gob.ar/proyectos/
+  - https://www.senado.gob.ar/
+  bezug_regelwerke:
+  - ar-ley-25326
+  - ar-proyectos-ia-congreso
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Kein Inkrafttreten; Entwuerfe seit 2023 anhaengig. Status 'verfahren' bleibt richtig.
+- id: ar-ccyc
+  jurisdiktion: ar
+  kurztitel: Código Civil y Comercial de la Nación
+  offizieller_titel: Ley N.º 26.994 — Código Civil y Comercial de la Nación
+  fundstelle: Ley 26.994, sancionada 01.10.2014, promulgada 07.10.2014, Boletín Oficial 08.10.2014 (Suplemento);
+    in Kraft seit 01.08.2015 (vorgezogen durch Ley 27.077). InfoLEG ID 235975.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Seit 01.08.2015 anwendbar. Enthält keine KI-spezifische Vorschrift; die argentinische
+    Literatur und Rechtsprechung führen KI-Schäden über die Gefährdungshaftung der Art. 1757 f. und die
+    Persönlichkeitsrechte der Art. 51 bis 53. Der Entwurf 1013-D-2024 will das Buch ändern.
+  kurzbeschreibung: 'Die zivilrechtliche Grundordnung Argentiniens. Für KI sind drei Blöcke einschlägig:
+    die Persönlichkeitsrechte der Art. 51 bis 53 (Würde, Bildnis- und Stimmrecht — die Grundlage jedes
+    argentinischen Deepfake-Anspruchs, weil das Strafrecht hier eine Lücke lässt), die Präventionspflicht
+    der Art. 1710 f. (Unterlassungsanspruch ohne Verschulden) und die verschuldensunabhängige Haftung
+    für "riesgo o vicio de las cosas" und für "actividades riesgosas o peligrosas" nach Art. 1757 f. Letztere
+    ist die zentrale argentinische Anspruchsgrundlage für KI-Schäden: Sie erfasst ausdrücklich auch Tätigkeiten,
+    die "por los medios empleados" gefährlich sind, und schliesst die behördliche Genehmigung wie die
+    Einhaltung von Präventionstechniken als Entlastungsgrund aus. Halter und Eigentümer haften nebeneinander
+    (Art. 1758).'
+  inkrafttreten:
+    datum: 2015-08-01
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/texact.htm
+  anwendungsdaten:
+  - datum: 2015-08-01
+    was_gilt: Inkrafttreten des einheitlichen Zivil- und Handelsgesetzbuchs; Ablösung des Código Civil
+      (Vélez Sarsfield) und des Código de Comercio.
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/texact.htm
+  themenachsen:
+  - haftung
+  - grundrechte
+  - content
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Art. 51: "La persona humana es inviolable y en cualquier circunstancia tiene derecho al reconocimiento
+    y respeto de su dignidad." Die argentinische Generalklausel des Persönlichkeitsschutzes — Anker für
+    Deepfake-Ansprüche, solange das Strafrecht keinen Tatbestand kennt.'
+  - 'Art. 52: Wer in seiner persönlichen Intimsphäre, seiner Ehre, seinem Bildnis oder seiner Identität
+    beeinträchtigt wird, kann Prävention und Ersatz des Schadens nach den Vorschriften des Buches Drittes
+    verlangen.'
+  - 'Art. 53: Zustimmungserfordernis für die Aufnahme oder Wiedergabe des Bildnisses oder der Stimme einer
+    Person ("captar o reproducir la imagen o la voz de una persona"). Die ausdrückliche Nennung der STIMME
+    ist für Voice-Cloning entscheidend — Argentinien braucht dafür kein Sondergesetz nach dänischem Muster.
+    Ausnahmen: Teilnahme an öffentlichen Ereignissen, wissenschaftliches/kulturelles/ journalistisches
+    Interesse, aktuelles Geschehen. Nach dem Tod Zustimmung der Erben.'
+  - 'Art. 1710 f.: Präventionspflicht und "acción preventiva" — Unterlassungsklage ohne Verschulden, bei
+    blosser Gefahr eines Schadens. Der praktisch wichtigste Rechtsbehelf gegen laufende KI-Anwendungen.'
+  - 'Art. 1757: "Toda persona responde por el daño causado por el riesgo o vicio de las cosas, o de las
+    actividades que sean riesgosas o peligrosas por su naturaleza, por los medios empleados o por las
+    circunstancias de su realización. La responsabilidad es objetiva. No son eximentes la autorización
+    administrativa para el uso de la cosa o la realización de la actividad, ni el cumplimiento de las
+    técnicas de prevención." Amtlich geprüft. Die Variante "por los medios empleados" ist die Brücke zur
+    Software; die ausdrückliche Absage an die behördliche Genehmigung als Entlastungsgrund ist der Gegenpol
+    zur europäischen Konformitätsvermutung des Art. 6 KI-VO.'
+  - 'Art. 1758: "El dueño y el guardián son responsables concurrentes del daño causado por las cosas."
+    Guardián ist, wer sich der Sache bedient, die Kontrolle über sie ausübt oder aus ihr Nutzen zieht.
+    Entlastung nur bei Gebrauch gegen den Willen. Für KI heisst das: Betreiber und Anbieter haften nebeneinander,
+    ohne dass es einer Rollenverteilung nach dem Muster der KI-VO bedarf.'
+  dokumente:
+  - datum: 2014-10-08
+    typ: endfassung
+    titel: Ley 26.994 — Código Civil y Comercial de la Nación (texto actualizado)
+    url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/texact.htm
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung. Art. 51 bis 55 im Wortlaut geprüft.
+  - datum: 2015-08-01
+    typ: konsolidiert
+    titel: Código Civil y Comercial de la Nación, artículos 1757 a 1759
+    url: https://www.rpba.gob.ar/files/Normas/Leyes/CCCN1757-1759.pdf
+    sprache: es
+    urheber: Registro de la Propiedad Inmueble de la Provincia de Buenos Aires
+    verifiziert: true
+    notiz: Amtliche Wiedergabe der Haftungsvorschriften; Wortlaut der Art. 1757 bis 1759 geprüft. Der
+      InfoLEG-Volltext bricht in der abrufbaren Fassung vor Buch III ab.
+  offene_punkte:
+  - Es gibt bislang keine veröffentlichte argentinische Entscheidung, die Art. 1757 auf einen von einem
+    KI-System verursachten Schaden anwendet. Die Anwendung ist Literaturmeinung, nicht Rechtsprechung.
+  - Ob ein Softwaresystem "cosa" im Sinne des Art. 1757 ist oder nur über die Alternative "actividad riesgosa"
+    erfasst wird, ist in Argentinien ungeklärt und wird unterschiedlich beantwortet.
+  monitoring_quellen:
+  - https://servicios.infoleg.gob.ar/
+  - https://www.csjn.gov.ar/
+  bezug_regelwerke:
+  - ar-codigo-penal
+  - ar-ley-25326
+  - ar-proyectos-ia-congreso
+  letzte_pruefung: 2026-09-06
+- id: ar-codigo-penal
+  jurisdiktion: ar
+  kurztitel: Código Penal de la Nación
+  offizieller_titel: Ley N.º 11.179 — Código Penal de la Nación Argentina (texto ordenado por Decreto
+    3992/84)
+  fundstelle: Ley 11.179 (1921), texto ordenado Decreto 3992/1984; InfoLEG ID 16546. Für KI einschlägig
+    in der Fassung der Ley 26.388 (Delitos Informáticos, B.O. 25.06.2008) und der Ley 27.436 (B.O. 23.04.2018).
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Anwendbar. Kein KI-spezifischer Straftatbestand. Die Rechtsprechung erfasst KI-generierte
+    Missbrauchsdarstellungen über den Begriff der "representación" in Art. 128 (Cámara Penal de Zárate-Campana,
+    Juni 2025); für nicht einvernehmliche Deepfake-Pornografie Erwachsener besteht dagegen eine anerkannte
+    Strafbarkeitslücke, zu der seit Dezember 2024 mehrere Entwürfe vorliegen.
+  kurzbeschreibung: 'Das argentinische Strafgesetzbuch enthält keinen KI-Tatbestand. Für die KI-Praxis
+    tragen drei Blöcke: Art. 128 (Darstellungen sexueller Handlungen mit Minderjährigen) in der Fassung
+    der Ley 26.388 und der Ley 27.436, den ein argentinisches Berufungsgericht 2025 ausdrücklich auf vollständig
+    KI-generierte Bilder erstreckt hat; die durch Ley 26.388 eingefügten Computerdelikte (Art. 153, 153
+    bis, 155, 157 bis, 173 Nr. 16, 183, 184, 197, 255); und der Betrugstatbestand des Art. 172 als Auffangnorm
+    für KI-gestützte Täuschung. Die nicht einvernehmliche Erstellung sexueller Deepfakes Erwachsener ist
+    nicht strafbar.'
+  inkrafttreten:
+    datum: 1922-04-29
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/norma.htm
+    fundstelle_norm: 'DISPOSICIONES COMPLEMENTARIAS, Art. 303: ''El presente código regirá como ley de
+      la nación seis meses después de su promulgación.'' Promulgation am 29.10.1921 (Buenos Aires, 29
+      de octubre de 1921); sechs Monate spaeter = 29.04.1922'
+  anwendungsdaten:
+  - datum: 2008-06-25
+    was_gilt: Ley 26.388 (Delitos Informáticos) tritt in Kraft und schreibt Art. 128 neu, fügt Art. 153
+      bis, 157 bis, 173 Nr. 16 und 183 Abs. 2 ein.
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141790/norma.htm
+  - datum: 2018-04-23
+    was_gilt: Ley 27.436 stellt den blossen Besitz von Darstellungen sexueller Handlungen mit Minderjährigen
+      unter Strafe (Art. 128 Abs. 5).
+    verifiziert: false
+    quelle: https://www.argentina.gob.ar/normativa/nacional/ley-11179-16546/actualizacion
+  - datum: 2025-06-26
+    was_gilt: Die Cámara Penal de Zárate-Campana wendet Art. 128 auf vollständig KI-generierte Missbrauchsdarstellungen
+      an; der Einwand, es gebe kein reales Opfer, wird verworfen.
+    verifiziert: false
+    quelle: https://www.diarioconstitucional.cl/2025/06/27/tribunal-argentino-dictamina-que-pornografia-infantil-generada-con-inteligencia-artificial-tambien-es-delito/
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Art. 128: Herstellung, Veröffentlichung, Verbreitung, Beschaffung und Besitz jeder "representación"
+    sexueller Handlungen mit oder von Minderjährigen. Der Wortlaut knüpft an die DARSTELLUNG an, nicht
+    an ein reales Opfer — genau daran hat die argentinische Rechtsprechung 2025 die Strafbarkeit vollständig
+    synthetischer Bilder festgemacht, gestützt zusätzlich auf das Fakultativprotokoll zum Kinderrechtsübereinkommen
+    ("reales o simuladas").'
+  - 'Art. 153 (Ley 26.388): unbefugtes Öffnen oder Zugreifen auf elektronische Kommunikation.'
+  - 'Art. 153 bis (Ley 26.388): unbefugter Zugang zu einem informationstechnischen System.'
+  - 'Art. 157 bis (Ley 26.388): unbefugter Zugriff auf eine Datenbank personenbezogener Daten; die strafrechtliche
+    Flanke der Ley 25.326.'
+  - 'Art. 173 Nr. 16 (Ley 26.388): "defraudación informática" — Vermögensschädigung durch technische Manipulation
+    eines Datenverarbeitungssystems. Die einzige argentinische Norm, die Vermögensschäden durch automatisierte
+    Vorgänge ohne Täuschung eines Menschen erfasst; für autonome Agentensysteme die dogmatisch interessanteste
+    Vorschrift.'
+  - 'Art. 183 Abs. 2 (Ley 26.388): Datenveränderung und Einschleusen von Schadprogrammen.'
+  - 'LÜCKE: Es fehlt jeder Tatbestand für nicht einvernehmliche sexuelle Deepfakes Erwachsener und für
+    Identitätsmissbrauch durch Stimm- oder Bildklonung. Betroffene sind auf den zivilrechtlichen Weg über
+    Art. 52 f. CCyC verwiesen. Entwürfe seit Dezember 2024 anhängig.'
+  dokumente:
+  - datum: 1984-01-01
+    typ: konsolidiert
+    titel: Código Penal de la Nación Argentina — Ley 11.179 (texto actualizado)
+    url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung. Die abrufbare Fassung bricht im Rahmen dieser Sitzung nach
+      Art. 105 ab; der Wortlaut des Art. 128 konnte über InfoLEG nicht unmittelbar geprüft werden.
+  - datum: 2008-06-25
+    typ: endfassung
+    titel: Ley 26.388 — Delitos Informáticos (modificación del Código Penal)
+    url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141790/norma.htm
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtlicher Volltext. Vierzehn Artikel; Änderungsprogramm im Wortlaut geprüft.
+  offene_punkte:
+  - Der Wortlaut des Art. 128 in der geltenden Fassung ist an amtlicher Quelle nicht vollständig geprüft
+    worden — die InfoLEG-Seite gab nur Art. 1 bis 105 heraus.
+  - Ob die Rechtsprechung von Zárate-Campana rechtskräftig geworden oder von einem Kassationsgericht bestätigt
+    worden ist, war nicht zu ermitteln.
+  monitoring_quellen:
+  - https://servicios.infoleg.gob.ar/
+  - https://www.mpf.gob.ar/
+  bezug_regelwerke:
+  - ar-ccyc
+  - ar-ley-25326
+  - ar-proyectos-ia-congreso
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - Am amtlichen InfoLEG-Text der Ley 11.179 geprueft. Datum richtig. Die Frist laeuft nach dem Wortlaut
+    ab der Promulgation, nicht ab der Veroeffentlichung im Boletín Oficial (03.11.1921). Status 'anwendbar'
+    bleibt richtig.
+- id: ar-ley-11723
+  jurisdiktion: ar
+  kurztitel: Ley 11.723 — Régimen Legal de la Propiedad Intelectual
+  offizieller_titel: Ley N.º 11.723 — Régimen Legal de la Propiedad Intelectual
+  fundstelle: Ley 11.723, Boletín Oficial 30.09.1933 (Sanktion 26.09.1933); InfoLEG ID 42755. Zahlreiche
+    Änderungen, zuletzt u.a. Ley 25.036 (Software), Ley 24.870 (Schutzfrist 70 Jahre), Ley 27.588.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Anwendbar. Kein Text- und Data-Mining-Ausnahmetatbestand, keine Regelung zu KI-generierten
+    Erzeugnissen, kein Kennzeichnungsgebot. Argentinien hat damit weder eine TDM-Schranke nach europäischem
+    noch eine Fair-Use-Doktrin nach US-amerikanischem Muster.
+  kurzbeschreibung: 'Das argentinische Urheberrechtsgesetz von 1933. Es knüpft den Schutz in Art. 1 an
+    "producciones científicas, literarias, artísticas o didácticas" und weist das Recht in Art. 4 ausschliesslich
+    natürlichen Personen sowie — für Software — dem Arbeitgeber der Programmiererin zu. Ein Werkbegriff
+    ohne menschliche Schöpfung ist im Gesetz nicht vorgesehen; die argentinische Lehre leitet daraus ab,
+    dass rein KI-generierte Erzeugnisse schutzlos sind. Für das Training fehlt jede Schranke: Es gibt
+    keine TDM-Ausnahme, keine Forschungsschranke nach europäischem Zuschnitt und keine Generalklausel.
+    Die Strafnorm des Art. 71 verweist auf die Strafdrohung des Art. 172 CP.'
+  inkrafttreten:
+    datum: 1933-09-30
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm
+  anwendungsdaten:
+  - datum: 1998-11-11
+    was_gilt: Ley 25.036 stellt Computerprogramme und Datenbanken ausdrücklich unter den Werkbegriff des
+      Art. 1 und weist in Art. 4 lit. d das Recht an im Arbeitsverhältnis geschaffener Software dem Arbeitgeber
+      zu.
+    verifiziert: false
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm
+  themenachsen:
+  - urheberrecht
+  - gpai
+  regelungsschwerpunkte:
+  - 'Art. 1: offener Werkkatalog ("los escritos de toda naturaleza y extensión ... toda producción científica,
+    literaria, artística o didáctica"); seit Ley 25.036 ausdrücklich Computerprogramme und Datenbanken.
+    Amtlich geprüft.'
+  - 'Art. 2: Verwertungsrechte des Urhebers — verfügen, veröffentlichen, aufführen, darstellen, öffentlich
+    ausstellen, veräussern, übersetzen, bearbeiten. Amtlich geprüft.'
+  - 'Art. 4: Rechtsinhaberschaft — Urheber, Erben und Rechtsnachfolger, Übersetzer und Bearbeiter, sowie
+    für Software der Arbeitgeber. Der Katalog kennt KEINE Zuweisung an einen Systembetreiber oder Auftraggeber;
+    genau das ist die argentinische Leerstelle bei KI-Erzeugnissen. Amtlich geprüft.'
+  - 'Art. 5: Schutzdauer siebzig Jahre post mortem auctoris. Eine Frist, die an den Tod einer natürlichen
+    Person anknüpft, setzt einen menschlichen Urheber voraus — das systematische Argument gegen den Schutz
+    KI-generierter Erzeugnisse. Amtlich geprüft.'
+  - 'Art. 34: zwanzig Jahre ab Erstveröffentlichung für Fotografien — für KI-generierte Bilder wäre das
+    die nächstliegende Analogie, sie ist in Argentinien aber nicht gezogen worden.'
+  - 'Art. 71: Verletzungen werden mit der Strafe des Art. 172 Código Penal geahndet. Amtlich geprüft.'
+  - KEINE TDM-Schranke, KEINE Fair-Use-Klausel, KEINE Opt-out-Regelung. Wer in Argentinien auf geschützten
+    Werken trainiert, kann sich auf keine gesetzliche Ausnahme berufen.
+  dokumente:
+  - datum: 1933-09-30
+    typ: konsolidiert
+    titel: Ley 11.723 — Régimen Legal de la Propiedad Intelectual (texto actualizado)
+    url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung; Art. 1, 2, 4, 5, 12, 34 und 71 im Wortlaut geprüft. Fundstelle
+      B.O. 26.09.1933 bestätigt.
+  offene_punkte:
+  - Es ist keine argentinische Entscheidung zur Schutzfähigkeit KI-generierter Erzeugnisse bekannt.
+  - Ob die Dirección Nacional del Derecho de Autor KI-generierte Werke registriert, ist nicht ermittelt.
+  monitoring_quellen:
+  - https://www.argentina.gob.ar/justicia/derechodeautor
+  - https://servicios.infoleg.gob.ar/
+  bezug_regelwerke:
+  - ar-codigo-penal
+  - ar-proyectos-ia-congreso
+  letzte_pruefung: 2026-09-06
+- id: ar-ley-26388
+  jurisdiktion: ar
+  kurztitel: Ley 26.388 — Delitos Informáticos
+  offizieller_titel: Ley N.º 26.388 — Modificación del Código Penal (Delitos Informáticos)
+  fundstelle: Ley 26.388, sancionada 04.06.2008, promulgada de hecho 24.06.2008, Boletín Oficial 25.06.2008;
+    InfoLEG ID 141790
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Anwendbar; vollständig in den Código Penal eingearbeitet. Ihre Vorschriften sind bis
+    heute die einzigen argentinischen Straftatbestände, die technisch vermittelte Vermögens- und Datenschädigungen
+    erfassen.
+  kurzbeschreibung: 'Vierzehn Artikel, die den Código Penal an die Informationstechnik anpassen. Für die
+    KI-Praxis relevant sind vor allem drei: die Neufassung des Art. 128 (Darstellungen sexueller Handlungen
+    mit Minderjährigen), an deren Begriff der "representación" die Rechtsprechung 2025 die Strafbarkeit
+    KI-generierter Bilder festgemacht hat; der neu eingefügte Art. 173 Nr. 16 (defraudación informática),
+    der Vermögensschädigung durch Manipulation eines Datenverarbeitungssystems erfasst, ohne dass ein
+    Mensch getäuscht werden müsste; und Art. 157 bis, die strafrechtliche Flanke der Ley 25.326.'
+  inkrafttreten:
+    datum: 2008-06-25
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141790/norma.htm
+  anwendungsdaten:
+  - datum: 2008-06-25
+    was_gilt: Inkrafttreten; Neufassung von Art. 77, 128, 153, 155, 157, 157 bis, 184, 197 und 255 CP,
+      Einfügung von Art. 153 bis, 173 Nr. 16 und 183 Abs. 2, Aufhebung von Art. 78 bis und 117 bis Nr.
+      1.
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141790/norma.htm
+  themenachsen:
+  - content
+  - haftung
+  - sicherheit-export
+  regelungsschwerpunkte:
+  - 'Art. 1: Erweiterung des Dokumentenbegriffs in Art. 77 CP auf elektronische Dokumente und digitale
+    Signaturen — die Grundlage jeder Urkundendelikts-Anwendung auf KI-erzeugte Dateien.'
+  - 'Art. 2: Neufassung des Art. 128 CP; Anknüpfung an die "representación", nicht an ein reales Opfer.'
+  - 'Art. 9: Einfügung des Art. 173 Nr. 16 CP (defraudación informática).'
+  - 'Art. 14: Aufhebung des Art. 117 bis Nr. 1 CP — damit entfiel die Strafbarkeit der wissentlich falschen
+    Eintragung in eine Datenbank; die Ley 25.326 verlor ihre schärfste strafrechtliche Flanke.'
+  dokumente:
+  - datum: 2008-06-25
+    typ: endfassung
+    titel: Ley 26.388 — Delitos Informáticos
+    url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141790/norma.htm
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtlicher Volltext; Änderungsprogramm aller vierzehn Artikel geprüft.
+  offene_punkte:
+  - Das Boletín-Oficial-Datum (25.06.2008) ist aus der Sekundärliteratur übernommen; die InfoLEG-Seite
+    nennt Sanktion (04.06.2008) und faktische Promulgation (24.06.2008).
+  monitoring_quellen:
+  - https://servicios.infoleg.gob.ar/
+  bezug_regelwerke:
+  - ar-codigo-penal
+  - ar-ley-25326
+  letzte_pruefung: 2026-09-06
+- id: ar-ley-24240
+  jurisdiktion: ar
+  kurztitel: Ley 24.240 — Defensa del Consumidor
+  offizieller_titel: Ley N.º 24.240 de Defensa del Consumidor
+  fundstelle: Ley 24.240, Boletín Oficial 15.10.1993 (Teilpromulgation 13.10.1993 durch Decreto 2089/93);
+    InfoLEG ID 638. Wesentliche Änderungen durch Ley 26.361 (2008) und Ley 26.994.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Anwendbar. Kein KI-spezifischer Tatbestand, aber die praktisch wichtigste Haftungsgrundlage
+    Argentiniens gegenüber Anbietern digitaler Produkte, weil Art. 40 die gesamte Vertriebskette gesamtschuldnerisch
+    und verschuldensunabhängig haften lässt.
+  kurzbeschreibung: 'Das argentinische Verbraucherschutzgesetz. Für KI-Produkte tragen vier Vorschriften:
+    die Informationspflicht des Art. 4, die Sicherheitsanforderung des Art. 5, die Bindung an Werbeaussagen
+    nach Art. 8 — für KI-Marketingversprechen die naheliegendste Norm — und vor allem Art. 40, der bei
+    einem Schaden aus dem "vicio o riesgo de la cosa o de la prestación del servicio" Hersteller, Importeur,
+    Vertreiber, Anbieter, Verkäufer und Markeninhaber gesamtschuldnerisch haften lässt; entlastet wird
+    nur, wer eine fremde Schadensursache nachweist. Art. 52 bis ermöglicht daneben eine zivilrechtliche
+    Strafzahlung (daño punitivo).'
+  inkrafttreten:
+    datum: 1993-10-15
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/638/texact.htm
+  anwendungsdaten:
+  - datum: 2008-04-07
+    was_gilt: Ley 26.361 erweitert den Verbraucherbegriff und führt in Art. 52 bis den daño punitivo ein.
+    verifiziert: false
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/638/texact.htm
+  themenachsen:
+  - haftung
+  - vertrag
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Art. 4: Informationspflicht — "en forma cierta, clara y detallada" über alle wesentlichen Merkmale.
+    Die argentinische Entsprechung der Transparenzpflichten des Art. 50 KI-VO, ohne KI-Bezug.'
+  - 'Art. 5: Waren und Dienstleistungen müssen bei bestimmungsgemässer Verwendung sicher sein.'
+  - 'Art. 8: Werbeaussagen binden den Anbieter und werden Vertragsinhalt — die praktisch schärfste argentinische
+    Norm gegen überzogene KI-Leistungsversprechen.'
+  - 'Art. 40: gesamtschuldnerische, verschuldensunabhängige Haftung der gesamten Wertschöpfungskette für
+    Schäden aus "vicio o riesgo de la cosa o de la prestación del servicio"; Entlastung nur bei Nachweis
+    einer fremden Ursache. Für KI-Systeme ist das der Gegenentwurf zur europäischen Rollenverteilung:
+    Argentinien braucht keine Unterscheidung zwischen Anbieter, Betreiber und Einführer, weil alle nebeneinander
+    haften.'
+  - 'Art. 52 bis: daño punitivo — im Fall M.J.L. c/ Peugeot Citroën (2025) zugesprochen.'
+  dokumente:
+  - datum: 1993-10-15
+    typ: konsolidiert
+    titel: Ley 24.240 — Defensa del Consumidor (texto actualizado)
+    url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/638/texact.htm
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung; Art. 1, 4, 5, 8, 17, 40 und 52 bis geprüft.
+  offene_punkte:
+  - Es ist keine argentinische Entscheidung bekannt, die Art. 40 auf ein KI-System angewendet hätte.
+  monitoring_quellen:
+  - https://servicios.infoleg.gob.ar/
+  - https://www.argentina.gob.ar/produccion/defensadelconsumidor
+  bezug_regelwerke:
+  - ar-ccyc
+  letzte_pruefung: 2026-09-06
+- id: ar-ley-27078
+  jurisdiktion: ar
+  kurztitel: Ley 27.078 — Argentina Digital
+  offizieller_titel: Ley N.º 27.078 — Tecnologías de la Información y las Comunicaciones (Argentina Digital)
+  fundstelle: Ley 27.078, sancionada 16.12.2014, Boletín Oficial 19.12.2014; InfoLEG ID 239771. Erheblich
+    geändert durch Decreto de Necesidad y Urgencia 267/2015 und durch DNU 70/2023 (B.O. 21.12.2023); Art.
+    15 aufgehoben durch Decreto 302/2024.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Anwendbar, aber durch die Deregulierungsdekrete der Regierung Milei erheblich entkernt.
+    Kein KI-Bezug; einschlägig ist das Gesetz für KI nur mittelbar über das Fernmeldegeheimnis, die Netzneutralität
+    und die Datenschutzpflichten der Diensteanbieter.
+  kurzbeschreibung: 'Das argentinische Telekommunikations- und IKT-Rahmengesetz. Es erklärt die Entwicklung
+    der IKT zum öffentlichen Interesse und garantiert die "completa neutralidad de las redes". Für KI
+    ist es aus drei Gründen einschlägig: Art. 5 stellt jede IKT-Kommunikation unter Richtervorbehalt und
+    ist damit die Grenze jeder Kommunikationsanalyse durch KI-Systeme; Art. 56 f. verbieten Blockade,
+    Diskriminierung und willkürliche Drosselung von Inhalten und Anwendungen — relevant für den Zugang
+    zu KI-Diensten; Art. 59 lit. f und Art. 62 lit. f verpflichten die Anbieter zum Schutz personenbezogener
+    Daten und zur Wahrung des Kommunikationsgeheimnisses. Ein KI-spezifischer Regelungsgehalt fehlt vollständig.'
+  inkrafttreten:
+    datum: 2014-12-19
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/239771/texact.htm
+  anwendungsdaten:
+  - datum: 2023-12-21
+    was_gilt: DNU 70/2023 ändert die Ley 27.078 erheblich; die konsolidierte Fassung datiert seither auf
+      diesen Tag.
+    verifiziert: true
+    quelle: https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/239771/texact.htm
+  themenachsen:
+  - datenschutz
+  - wettbewerb
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Art. 1: öffentliches Interesse an der IKT-Entwicklung; Garantie der vollständigen Netzneutralität.'
+  - 'Art. 5: Unverletzlichkeit der Kommunikation; Abfangen nur auf Anordnung eines zuständigen Richters.
+    Die Norm, an der jede automatisierte Kommunikationsanalyse — auch die der UIAAS — zu messen wäre.'
+  - 'Art. 56 f.: Netzneutralität; Verbot von Blockade, Diskriminierung, willkürlicher Drosselung und preislicher
+    Differenzierung nach Inhaltstyp.'
+  - 'Art. 59 lit. f und Art. 62 lit. f: Pflicht der Anbieter zum Schutz personenbezogener Daten und zur
+    Wahrung des Kommunikationsgeheimnisses.'
+  - KEIN KI-Bezug. Das Gesetz kennt weder algorithmische Systeme noch automatisierte Entscheidungen. Die
+    argentinischen KI-Gesetzentwürfe knüpfen dementsprechend nicht an es an.
+  dokumente:
+  - datum: 2014-12-19
+    typ: konsolidiert
+    titel: Ley 27.078 — Argentina Digital (texto actualizado)
+    url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/239771/texact.htm
+    sprache: es
+    urheber: InfoLEG — Ministerio de Justicia de la Nación
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung; Art. 1, 2, 5, 56, 57, 59, 62, 64 und 68 geprüft. Art. 15 ist
+      durch Decreto 302/2024 aufgehoben.
+  offene_punkte:
+  - Der Umfang der durch DNU 70/2023 und Decreto 302/2024 bewirkten Entkernung ist nicht im Einzelnen
+    erfasst.
+  monitoring_quellen:
+  - https://www.enacom.gob.ar/
+  - https://servicios.infoleg.gob.ar/
+  bezug_regelwerke:
+  - ar-ley-25326
+  - ar-res-710-2024-uiaas
+  letzte_pruefung: 2026-09-06
+- id: ar-caba-ley-5688-srfp
+  jurisdiktion: ar
+  provinz: Ciudad Autónoma de Buenos Aires
+  kurztitel: Ley 5688 CABA i.d.F. der Ley 6339 — Sistema de Reconocimiento Facial de Prófugos
+  offizieller_titel: Ley N.º 5688 de la Ciudad Autónoma de Buenos Aires (Sistema Integral de Seguridad
+    Pública), modificada por la Ley N.º 6339
+  fundstelle: Ley 5688 CABA (2016); Ley 6339, sancionada 22.10.2020, Boletín Oficial de la Ciudad Autónoma
+    de Buenos Aires 19.11.2020. Durchführung durch Resolución N.º 398/MJYSGC/2019.
+  verfahrensnummer: ''
+  status: teilanwendbar
+  status_detail: Die Rechtsgrundlage besteht fort; der Betrieb des Sistema de Reconocimiento Facial de
+    Prófugos ist seit 2022 gerichtlich ausgesetzt. Die Cámara de Apelaciones CAyTyRC hat am 28.04.2023
+    die Wiederinbetriebnahme von drei Bedingungen abhängig gemacht (funktionierende Kontrollorgane, Bias-Prüfung,
+    Bürgerbeteiligung). Ob diese erfüllt und das System wieder in Betrieb genommen wurde, ist nicht ermittelt.
+  kurzbeschreibung: 'Die Ley 6339 fügte 2020 in das Sicherheitsgesetz der Stadt Buenos Aires die Rechtsgrundlage
+    für das Sistema de Reconocimiento Facial de Prófugos (SRFP) ein — biometrische Gesichtserkennung im
+    öffentlichen Raum zum Abgleich mit dem nationalen Fahndungsbestand CONARC. Art. 480 bis begrenzt den
+    Einsatz auf richterlich angeforderte Aufgaben und auf die Identifizierung der im CONARC registrierten
+    Gesuchten; Art. 490 bis errichtet bei der Legislatur eine Comisión Especial de Seguimiento de los
+    Sistemas de Video Vigilancia. Der Fall O.D.I.A. hat gezeigt, dass beide Sicherungen leerliefen: Der
+    Kontrollausschuss war nicht funktionsfähig, und tatsächlich wurden Daten von mehr als 15.000 Personen
+    ausserhalb des CONARC verarbeitet.'
+  inkrafttreten:
+    datum: 2020-11-19
+    verifiziert: true
+    quelle: https://boletinoficial.buenosaires.gob.ar/normativaba/norma/533894
+  anwendungsdaten:
+  - datum: 2019-04-24
+    was_gilt: Inbetriebnahme des SRFP auf Grundlage der Resolución N.º 398/MJYSGC/2019 — anderthalb Jahre
+      VOR der gesetzlichen Grundlage.
+    verifiziert: false
+    quelle: https://www.cels.org.ar/web/wp-content/uploads/2022/09/reconocimientofacialsentencia070922.pdf
+  - datum: 2020-11-19
+    was_gilt: Ley 6339 fügt Art. 480 bis und 490 bis in die Ley 5688 ein und schafft damit nachträglich
+      die gesetzliche Grundlage.
+    verifiziert: true
+    quelle: https://boletinoficial.buenosaires.gob.ar/normativaba/norma/533894
+  - datum: 2022-04-12
+    was_gilt: Der Juez Andrés Gallardo (Juzgado CAyT N.º 2) setzt den Betrieb des SRFP vorläufig aus.
+    verifiziert: false
+    quelle: https://ijudicial.gob.ar/2022/suspenden-el-sistema-de-reconocimiento-facial-de-profugos/
+  - datum: 2022-09-07
+    was_gilt: Die Jueza Elena Liberatori (Juzgado CAyT N.º 4) erklärt das SRFP für verfassungswidrig.
+    verifiziert: false
+    quelle: https://www.cels.org.ar/web/wp-content/uploads/2022/09/reconocimientofacialsentencia070922.pdf
+  - datum: 2023-04-28
+    was_gilt: Die Cámara CAyTyRC, Sala I, macht die Wiederinbetriebnahme von funktionierenden Kontrollorganen,
+      einer Bias-Prüfung und Bürgerbeteiligung abhängig.
+    verifiziert: false
+    quelle: https://juristeca.jusbaires.gov.ar/fallos/51869.pdf
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 480 bis Ley 5688: Zweckbindung — das SRFP darf nur für richterlich angeforderte Aufgaben und
+    zur Identifizierung der im CONARC registrierten Gesuchten eingesetzt werden.'
+  - 'Art. 490 bis Ley 5688: Comisión Especial de Seguimiento de los Sistemas de Video Vigilancia bei der
+    Legislatur — die parlamentarische Kontrolle, deren Nichtkonstituierung das Gericht als Legalitätsverstoss
+    gewertet hat.'
+  - 'Die Reihenfolge ist der eigentliche Befund: Betrieb ab April 2019, gesetzliche Grundlage ab November
+    2020, gerichtliche Aussetzung ab April 2022. Argentinien hat die biometrische Fernidentifizierung
+    zuerst eingeführt, dann legalisiert und schliesslich gestoppt.'
+  dokumente:
+  - datum: 2020-11-19
+    typ: endfassung
+    titel: Ley 6339 — Sistema Integral de Seguridad Pública. Modificación
+    url: https://boletinoficial.buenosaires.gob.ar/normativaba/norma/533894
+    sprache: es
+    urheber: Boletín Oficial del Gobierno de la Ciudad Autónoma de Buenos Aires
+    verifiziert: true
+    notiz: Amtlicher Volltext; Sanktionsdatum 22.10.2020, Veröffentlichung 19.11.2020, Wortlaut der Art.
+      480 bis und 490 bis geprüft.
+  - datum: 2020-11-19
+    typ: konsolidiert
+    titel: Ley 6339 (CEDOM — Dirección General de Información y Archivo Legislativo)
+    url: http://www2.cedom.gov.ar/es/legislacion/normas/leyes/ley6339.html
+    sprache: es
+    urheber: CEDOM — Legislatura de la Ciudad Autónoma de Buenos Aires
+    verifiziert: false
+    notiz: Amtliche Normensammlung der Legislatur; in dieser Sitzung durch robots.txt nicht abrufbar.
+  offene_punkte:
+  - Ob das SRFP nach der Entscheidung der Cámara vom 28.04.2023 unter Auflagen wieder in Betrieb genommen
+    wurde, ist offen.
+  - Ob der Tribunal Superior de Justicia der Stadt in der Sache entschieden hat, ist nicht ermittelt.
+  monitoring_quellen:
+  - https://boletinoficial.buenosaires.gob.ar/
+  - https://juristeca.jusbaires.gob.ar/
+  bezug_regelwerke:
+  - ar-ley-25326
+  - ar-res-710-2024-uiaas
+  letzte_pruefung: 2026-09-06
+- id: ar-cpp-chubut
+  jurisdiktion: ar
+  provinz: Chubut
+  kurztitel: Código Procesal Penal del Chubut (Ley XV N.º 9)
+  offizieller_titel: Ley XV N.º 9 — Código Procesal Penal de la Provincia del Chubut
+  fundstelle: Ley XV N.º 9 (Digesto Jurídico de la Provincia del Chubut; ursprünglich Ley 5478), einschliesslich
+    der Ley de Juicio por Jurados. Amtlicher Text über das Ministerio Público Fiscal del Chubut.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Anwendbar. Massgeblich für das KI-Recht durch die Entscheidung des STJ vom 13.03.2026,
+    die das Nichtigkeitsregime der Art. 161 bis 164 gegen die Ableitung von Nichtigkeitsfolgen aus einer
+    KI-Richtlinie in Stellung gebracht hat.
+  kurzbeschreibung: 'Die Strafprozessordnung der Provinz Chubut. Für das argentinische KI-Recht ist sie
+    zur Schlüsselnorm geworden: Der Superior Tribunal de Justicia hat am 13.03.2026 entschieden, dass
+    das abschliessende und restriktive Nichtigkeitsregime der Art. 161 bis 164 durch das Acuerdo Plenario
+    5435/2025 zum KI-Einsatz nicht erweitert wird. Art. 25 verlangt die Begründung jeder gerichtlichen
+    Entscheidung nach den Regeln der sana crítica; Art. 27 stellt die Beratung unter die Sanktion der
+    unheilbaren Nichtigkeit und begründet zugleich das Beratungsgeheimnis, aus dem der STJ ableitet, dass
+    die verwendeten "insumos" im Urteil nicht anzugeben sind.'
+  inkrafttreten:
+    datum: 2006-10-31
+    verifiziert: false
+    quelle: https://www.mpfchubut.gov.ar/images/pdf/Ley_XV_N_9con_31pdf.pdf
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Art. 6: Unparteilichkeit und Unabhängigkeit der Richterschaft in allen Verfahrensabschnitten.'
+  - 'Art. 25: Begründungspflicht — jede gerichtliche Entscheidung ist logisch und rechtlich zu begründen,
+    unter Angabe des jeder Beweisquelle beigemessenen Werts; Beweiswürdigung nach der sana crítica.'
+  - 'Art. 27: Beratungspflicht "bajo sanción de nulidad insanable"; die Beratung ist unmittelbar, fortlaufend
+    und unter aktiver Mitwirkung aller Mitglieder zu führen. Aus dem Beratungsgeheimnis leitet der STJ
+    ab, dass die verwendeten Hilfsmittel nicht offenzulegen sind.'
+  - 'Art. 161 bis 164 (Libro III, Título II — Invalidez de los actos procesales): abschliessendes und
+    restriktives Nichtigkeitsregime. Unwirksamkeit nur bei Berührung einer Verfassungsgarantie oder konkretem
+    Nachteil (Trascendencia-Grundsatz).'
+  dokumente:
+  - datum: 2013-09-03
+    typ: konsolidiert
+    titel: Código Procesal Penal de la Provincia del Chubut y Ley de Juicio por Jurados (Ley XV N.º 9,
+      texto actualizado)
+    url: https://www.mpfchubut.gov.ar/images/pdf/Ley_XV_N_9con_31pdf.pdf
+    sprache: es
+    urheber: Ministerio Público Fiscal de la Provincia del Chubut
+    verifiziert: true
+    notiz: Amtliche konsolidierte Fassung; Art. 6, 25 und 27 im Wortlaut geprüft. Der Wortlaut der Art.
+      161 bis 164 war im abrufbaren Teil nicht enthalten — die Zuordnung zu Libro III, Título II "Invalidez
+      de los Actos Procesales" ist am Inhaltsverzeichnis geprüft.
+  offene_punkte:
+  - Der Wortlaut der Art. 161 bis 164 ist nicht am amtlichen Text geprüft.
+  - 'Inkrafttreten nicht belegbar: Versucht: mpfchubut.gov.ar (konsolidierter Digesto-Text der Ley XV
+    N.º 9 — enthaelt die Uebergangs- und Inkrafttretensbestimmungen der Ursprungsfassung Ley 5478 nicht
+    mehr, weil der Digesto sie konsolidiert hat) und juschubut.gov.ar (PDF nicht abrufbar). Das eingetragene
+    Datum 2006-10-31 liess sich nicht am amtlichen Text der Ley 5478 verifizieren.'
+  monitoring_quellen:
+  - https://www.mpfchubut.gov.ar/
+  - https://www.juschubut.gov.ar/
+  bezug_regelwerke:
+  - ar-acuerdo-plenario-5435-2025
+  letzte_pruefung: 2026-09-06
+- id: ar-const-chubut
+  jurisdiktion: ar
+  provinz: Chubut
+  kurztitel: Constitución de la Provincia del Chubut (Ley V N.º 67)
+  offizieller_titel: Constitución de la Provincia del Chubut (Digesto Jurídico, Ley V N.º 67)
+  fundstelle: Constitución de la Provincia del Chubut, Fassung 1994; im Digesto Jurídico Provincial als
+    Ley V N.º 67 geführt.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: Anwendbar. Für das KI-Recht einschlägig über Art. 169 (Begründung gerichtlicher Entscheidungen),
+    an dem der STJ die exteriorisierte Begründung misst, und über Art. 178 Nr. 3, auf den der STJ seine
+    Befugnis zum Erlass des Acuerdo Plenario 5435/2025 stützt.
+  kurzbeschreibung: 'Die Provinzverfassung Chubuts. Zwei Vorschriften tragen das dortige KI-Recht: Art.
+    169 ("Resoluciones judiciales. Fundamentación") verlangt die Begründung gerichtlicher Entscheidungen
+    und ist der Massstab, an dem der STJ am 13.03.2026 die nach aussen tretende Begründung — und nur sie
+    — gemessen hat. Art. 178 Nr. 3 gibt dem Superior Tribunal de Justicia die Befugnis, die Rechtsprechung
+    zu organisieren; auf ihn und auf Art. 20 lit. q sowie Art. 22 lit. a, f, g und h der Ley V N.º 174
+    stützt sich das Acuerdo Plenario 5435/2025 ausdrücklich.'
+  inkrafttreten:
+    datum: 1994-10-15
+    verifiziert: true
+    quelle: https://www.argentina.gob.ar/sites/default/files/01-constitucion_de_chubut.pdf
+    fundstelle_norm: 'DISPOSICIONES FINALES, Artículo 271 PRIMERA: ''El texto constitucional sancionado
+      por esta Convención Constituyente reemplaza al hasta ahora vigente. Esta Constitución rige a partir
+      del día 15 de octubre de 1994.'''
+  anwendungsdaten:
+  - datum: 1995-12-10
+    was_gilt: Inkrafttreten des Art. 156 der Verfassung mit dem Beginn der Verfassungsperiode 1995/1999
+      (Disposición Transitoria DECIMA). Bis dahin galt die bisherige Regelung.
+    verifiziert: false
+    quelle: https://www.argentina.gob.ar/sites/default/files/01-constitucion_de_chubut.pdf
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Art. 169: "Resoluciones judiciales. Fundamentación" — Begründungspflicht gerichtlicher Entscheidungen.'
+  - 'Art. 178 Nr. 3: Befugnisse des Superior Tribunal de Justicia; Rechtsgrundlage des Acuerdo Plenario
+    5435/2025 (im Acuerdo selbst ausdrücklich zitiert).'
+  dokumente:
+  - datum: 1994-10-11
+    typ: konsolidiert
+    titel: Constitución de la Provincia del Chubut
+    url: https://www.argentina.gob.ar/sites/default/files/01-constitucion_de_chubut.pdf
+    sprache: es
+    urheber: Ministerio del Interior de la Nación
+    verifiziert: false
+    notiz: Amtliche Sammlung der Provinzverfassungen; in dieser Sitzung durch robots.txt nicht abrufbar.
+      Die Überschriften der Art. 169 und 178 stammen aus einer nichtamtlichen Sammlung; die Zitierung
+      des Art. 178 Nr. 3 als Rechtsgrundlage ist im Volltext des Acuerdo Plenario 5435/2025 (amtliche
+      Eureka-Fassung) belegt.
+  offene_punkte:
+  - Der Wortlaut der Art. 169 und 178 ist nicht an amtlicher Quelle geprüft.
+  monitoring_quellen:
+  - https://www.juschubut.gov.ar/index.php/informacion/marco-normativo/constituciones
+  bezug_regelwerke:
+  - ar-cpp-chubut
+  - ar-acuerdo-plenario-5435-2025
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'FEHLER KORRIGIERT. Eingetragen war das Datum der Sanktion durch die Convención Constituyente (11.10.1994);
+    die Verfassung selbst bestimmt in der Disposición Final Primera ausdruecklich den 15.10.1994 als Geltungsbeginn.
+    Am amtlichen Volltext (argentina.gob.ar) geprueft. Der Termin der Disposición Transitoria DECIMA (Art.
+    156 ab Beginn der Periode 1995/1999) ist als Anwendungsdatum aufgenommen, das genaue Tagesdatum des
+    Periodenbeginns ist nicht aus der Verfassung selbst belegt und daher nicht verifiziert. Status ''anwendbar''
+    bleibt richtig. Vorher: 1994-10-11.'
+- id: ar-rionegro-fallos-automatizados
+  jurisdiktion: ar
+  provinz: Río Negro
+  kurztitel: Automatisierte Entscheidungen im Poder Judicial de Río Negro (Prometea-Nachfolge)
+  offizieller_titel: Programa de automatización del dictado de sentencias en procesos de apremio fiscal
+    del Poder Judicial de la Provincia de Río Negro (Unidades de Procesos Contencioso Administrativos
+    de Viedma, General Roca y Cipolletti)
+  fundstelle: Kein veröffentlichter Rechtsakt ermittelt. Belegt über die amtliche Nachrichtenstelle des
+    Poder Judicial de Río Negro (Comunicación Judicial) und die Berichterstattung von September/ Oktober
+    2023.
+  verfahrensnummer: ''
+  status: anwendbar
+  status_detail: In Betrieb seit Dezember 2021 (Viedma), Juni 2022 (General Roca) und September 2022 (Cipolletti).
+    Bis September 2023 waren nahezu 6.000 automatisiert erzeugte Entscheidungen gezählt. Eine veröffentlichte
+    Rechtsgrundlage — Acordada, Acuerdo oder Resolución — wurde nicht gefunden.
+  kurzbeschreibung: 'Das grösste bekannte System automatisierter Entscheidungserzeugung in der argentinischen
+    Justiz. In den Unidades de Procesos Contencioso Administrativos prüft das System die Vollständigkeit
+    der von der Steuerverwaltung eingereichten Vollstreckungsforderungen, legt die Akte an und erzeugt
+    einen Entscheidungsvorschlag; dieser "debe ser verificada y luego firmada" — er ist zu prüfen und
+    anschliessend zu unterschreiben. Der Zuschnitt ist bewusst auf standardisierte und repetitive Massenverfahren
+    begrenzt. Rechtlich ist das Vorhaben der eigentliche argentinische Testfall für Art. 20 Ley 25.326:
+    Die Norm erklärt gerichtliche Entscheidungen, die menschliches Verhalten bewerten und sich allein
+    auf automatisierte Datenverarbeitung stützen, für unheilbar nichtig. Der Vorbehalt der Prüfung und
+    Unterschrift ist genau die Konstruktion, die diese Folge vermeiden soll — geprüft worden ist sie gerichtlich
+    noch nie.'
+  inkrafttreten: null
+  anwendungsdaten:
+  - datum: 2021-12-01
+    was_gilt: Beginn in der Unidad de Procesos Contencioso Administrativos de Viedma.
+    verifiziert: false
+    quelle: https://palabrasdelderecho.com.ar/articulo/4553/Inteligencia-Artificial-El-Poder-Judicial-de-Rio-Negro-dicto-casi-6.000-fallos-con-sistemas-automatizados
+  - datum: 2022-06-01
+    was_gilt: Ausweitung auf General Roca.
+    verifiziert: false
+    quelle: https://palabrasdelderecho.com.ar/articulo/4553/Inteligencia-Artificial-El-Poder-Judicial-de-Rio-Negro-dicto-casi-6.000-fallos-con-sistemas-automatizados
+  - datum: 2022-09-01
+    was_gilt: Ausweitung auf Cipolletti.
+    verifiziert: false
+    quelle: https://palabrasdelderecho.com.ar/articulo/4553/Inteligencia-Artificial-El-Poder-Judicial-de-Rio-Negro-dicto-casi-6.000-fallos-con-sistemas-automatizados
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Anwendungsbereich: apremios fiscales — Massenverfahren der Steuervollstreckung; ausdrücklich als
+    "estandarizadas y repetitivas" beschrieben. Keine Anwendung auf Verfahren mit Beweiswürdigungsbedarf.'
+  - 'Kontrollvorbehalt: Das System erzeugt den Entwurf, die Entscheidung ist zu verifizieren und zu unterschreiben.
+    Das ist die argentinische Antwort auf Art. 20 Ley 25.326 — ob sie trägt, ist ungeklärt, weil die Vorschrift
+    auf die alleinige Stützung auf die automatisierte Verarbeitung abstellt und nicht auf die formale
+    Unterschrift.'
+  - 'KORREKTUR zum Bestand: Der Eintrag ar-weitere-justizakte-ia bezeichnet die Resolución SC 870/24 der
+    Provinz Buenos Aires als "den einzigen argentinischen Justizakt, der eine automatisierte Verfahrenshandlung
+    mit Aussenwirkung anordnet". Río Negro betreibt seit Dezember 2021 — also drei Jahre früher — ein
+    weitergehendes System, das nicht nur das erste Despacho, sondern den Entscheidungsentwurf selbst erzeugt.
+    Der Unterschied liegt in der Form: Buenos Aires hat es normiert, Río Negro hat es eingeführt.'
+  dokumente:
+  - datum: 2023-09-29
+    typ: bericht
+    titel: 'Inteligencia Artificial: El Poder Judicial de Río Negro dictó casi 6.000 fallos con sistemas
+      automatizados'
+    url: https://palabrasdelderecho.com.ar/articulo/4553/Inteligencia-Artificial-El-Poder-Judicial-de-Rio-Negro-dicto-casi-6.000-fallos-con-sistemas-automatizados
+    sprache: es
+    urheber: Palabras del Derecho (Fachpresse), auf Grundlage von Angaben des Poder Judicial de Río Negro
+    verifiziert: true
+    notiz: Nennt Einführungsdaten der drei Standorte, Verfahrensart, Umfang und den Kontrollvorbehalt
+      ("debe ser verificada y luego firmada"). Die amtliche Mitteilung des Poder Judicial de Río Negro
+      war unter der aufgefundenen Adresse nicht mehr abrufbar (404).
+  offene_punkte:
+  - Es ist kein veröffentlichter Rechtsakt gefunden worden, der das System anordnet oder begrenzt. Das
+    ist der auffälligste Befund — das grösste automatisierte Entscheidungssystem der argentinischen Justiz
+    läuft ohne veröffentlichte Rechtsgrundlage.
+  - Aktuelle Zahlen nach 2023 sind nicht ermittelt.
+  - Ob das System jemals am Massstab des Art. 20 Ley 25.326 geprüft worden ist, ist offen; eine einschlägige
+    Entscheidung wurde nicht gefunden.
+  monitoring_quellen:
+  - https://comunicacionjudicial.jusrionegro.gov.ar/
+  - https://fallos.jusrionegro.gov.ar/
+  bezug_regelwerke:
+  - ar-ley-25326
+  - ar-rionegro-acordada-15-2024
+  - ar-weitere-justizakte-ia
+  letzte_pruefung: 2026-09-06
+  pruefvermerk:
+  - 'Inkrafttreten auf null gesetzt. Der Eintrag beschreibt eine Verwaltungspraxis ohne publizierte Rechtsgrundlage;
+    ein Inkrafttretensdatum im Rechtssinne existiert nicht. Die Betriebsaufnahmedaten bleiben als (unverifizierte)
+    Anwendungsdaten erhalten. Status ''anwendbar'' bleibt sachlich richtig (das Programm ist in Betrieb).
+    Vorher: 2021-12-01.'

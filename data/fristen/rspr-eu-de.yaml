@@ -1,0 +1,164 @@
+fristen:
+- id: de-2026-laion-bgh-f1
+  datum: 2026-09-03
+  beschreibung: BGH, I. Zivilsenat, Verhandlungstermin in I ZR 281/25 (Kneschke ./. LAION — Erstellen
+    eines Datensatzes für KI-Training), 9:00 Uhr. Erste höchstrichterliche Verhandlung zur TDM-Schranke
+    in der EU. Akkreditierung bis 02.09.2026, 10:00 Uhr; Kameras zugelassen.
+  typ: pruefung
+  jurisdiktion: de
+  verfahren: de-2026-laion-bgh
+  adressat: Betreiber von Crawlern und Trainingsdatensätzen; Bildagenturen und Fotografen; Verlage mit
+    Nutzungsvorbehalt
+  handlungsbedarf: Bestehende Nutzungsvorbehalte vor dem Termin auf maschinenlesbare Form (robots.txt,
+    TDM Reservation Protocol, Meta-Tags) umstellen und den Umstellungszeitpunkt beweissicher dokumentieren.
+  quelle: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026085.html
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  - 1
+- id: eu-2025-like-company-google-f1
+  datum: 2026-09-03
+  beschreibung: 'EuGH, Rs. C-250/25 (Like Company ./. Google Ireland): Schlussanträge des Generalanwalts
+    Maciej Szpunar zu Training als Vervielfältigung, Art. 4 DSM-RL und Chatbot-Ausgabe als öffentliche
+    Wiedergabe. Terminkollision mit dem BGH-Termin in I ZR 281/25.'
+  typ: pruefung
+  jurisdiktion: eu
+  verfahren: eu-2025-like-company-google
+  adressat: Anbieter generativer Modelle mit EU-Bezug; Presseverlage; Rechteinhaber
+  handlungsbedarf: null
+  quelle: https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/cjeu-grand-chamber-rules-music-sampling-and-pastiche-first-cjeu-hearing-generative-ai-and-copyright-2026-04-24_en
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  - 1
+- id: de-2026-bgh-schufa-auskunft-f1
+  datum: 2026-10-21
+  beschreibung: 'Verkündungstermin des I. Zivilsenats des Bundesgerichtshofs um 8.45 Uhr in Sachen I ZR
+    227/25 bis I ZR 230/25 (Auskunftsanspruch gegen Wirtschaftsauskunftei). KORREKTUR des Aktenzeichens:
+    Nach den Terminhinweisen des BGH ist im Verfahren I ZR 226/25 die Klage zurückgenommen worden; verkündet
+    wird nur noch in den vier Verfahren I ZR 227/25 bis I ZR 230/25. Verhandelt wurde am 18.06.2026 (Pressemitteilung
+    Nr. 52/2026). Vorinstanzen: Landgerichte Leipzig, Chemnitz und Görlitz, Oberlandesgericht Dresden
+    (Urteile vom 07.10.2025). Es geht um Umfang und Tiefe der Auskunft über die Berechnung von Bonitätsscores
+    nach Art. 15 Abs. 1 lit. h DSGVO; das Berufungsgericht hatte eine laienverständliche Information verlangt,
+    die eine Prüfung des Scorewerts auf Fehler und mangelnde Plausibilität ermöglicht.
+
+    '
+  typ: pruefung
+  jurisdiktion: de
+  verfahren: de-2026-bgh-schufa-auskunft
+  adressat: Auskunfteien; Banken und Versicherer; Betreiber algorithmischer Bewertungssysteme; Betroffenenvertreter
+  handlungsbedarf: Auskunftstexte zu automatisierten Bewertungen bis zum Termin auf die Formel aus C-203/22
+    prüfen (Verfahren und Grundsätze, kontrafaktische Nachvollziehbarkeit) und die Umstellung auf die
+    ab November 2026 geltenden Transparenzvorgaben vorbereiten.
+  quelle: https://www.bundesgerichtshof.de/DE/Presse/Terminhinweise/terminhinweise_node.html
+  verifiziert: true
+  fundstelle_norm: Terminhinweise des Bundesgerichtshofs (Verkündungstermin 21.10.2026, 8.45 Uhr, I ZR
+    227/25 bis I ZR 230/25); Pressemitteilung Nr. 52/2026 zum Verhandlungstermin
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  - 1
+  uhrzeit: 08:45
+- id: de-2025-gema-openai-olg-f1
+  datum: 2026-12-31
+  beschreibung: 'OLG München, 6 U 3662/25 e (GEMA ./. OpenAI): Termin noch nicht veröffentlicht. Datum
+    geschätzt zum Jahresende als Überwachungsanlass, kein gerichtlich gesetzter Termin. Hier trifft die
+    deutsche TDM-Divergenz zweitinstanzlich aufeinander.'
+  typ: sonstiges
+  jurisdiktion: de
+  verfahren: de-2025-gema-openai-olg
+  adressat: Anbieter generativer Modelle mit deutschem Marktbezug; Verwertungsgesellschaften
+  handlungsbedarf: null
+  quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=6+U+3662%2F25
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: de-2026-gema-suno-lg-f1
+  datum: 2027-02-01
+  beschreibung: 'Gesetzliche Höchstfrist für die Berufung gegen LG München I, Urteil vom 31.07.2026 –
+    42 O 763/25 (GEMA ./. Suno Inc.). Die Pressemitteilung des Landgerichts München I (Nr. 16/2026) weist
+    das Urteil aus und hält ausdrücklich fest: ''Das Urteil ist nicht rechtskräftig.'' Nach § 517 ZPO
+    beträgt die Berufungsfrist einen Monat und beginnt mit der Zustellung des in vollständiger Form abgefassten
+    Urteils, spätestens aber mit dem Ablauf von fünf Monaten nach der Verkündung — hier also spätestens
+    mit Ablauf des 31.12.2026. Die Monatsfrist endet danach am 31.01.2027; weil das ein Sonntag ist, tritt
+    nach § 222 Abs. 2 ZPO der 01.02.2027 an seine Stelle. Der tatsächliche Fristablauf kann früher liegen,
+    weil das Zustellungsdatum nicht veröffentlicht ist; eingetragen ist deshalb die Höchstfrist.
+
+    '
+  typ: einreichung
+  jurisdiktion: de
+  verfahren: de-2026-gema-suno-lg
+  adressat: Anbieter von Musikgeneratoren; Verwertungsgesellschaften; Musikverlage
+  handlungsbedarf: null
+  quelle: https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/16.php
+  verifiziert: false
+  fundstelle_norm: '§ 517 ZPO i.V.m. § 222 Abs. 2 ZPO; Anknüpfungstatsache: Verkündung am 31.07.2026 (LG
+    München I, 42 O 763/25), Pressemitteilung Nr. 16/2026 des LG München I'
+  kalender_sync: true
+  vorwarnung_tage:
+  - 14
+- id: de-2026-olg-hamm-chatbot-uwg-f1
+  datum: 2026-10-15
+  beschreibung: Überwachung, ob gegen OLG Hamm, Urt. v. 12.05.2026 – I-4 UKl 3/25 Revision zum BGH eingelegt
+    wurde (Revision wurde zugelassen). Datum als Prüfanlass gesetzt, keine gerichtliche Frist.
+  typ: pruefung
+  jurisdiktion: de
+  verfahren: de-2026-olg-hamm-chatbot-uwg
+  adressat: Unternehmen mit Kundendialog-Chatbots; Heilberufe; Verbraucherverbände
+  handlungsbedarf: Chatbot-Ausgaben zu Qualifikationen, Zulassungen und Produkteigenschaften auf Richtigkeit
+    prüfen und Freitextantworten zu regulierten Bezeichnungen sperren.
+  quelle: https://www.justiz.nrw/presse/2026-05-12
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: de-2025-vg-bremen-automatisierter-va-f1
+  datum: 2026-11-30
+  beschreibung: 'OVG Bremen, 2 LA 227/25: Entscheidung über den Antrag auf Zulassung der Berufung gegen
+    VG Bremen, Urt. v. 14.07.2025 – 2 K 763/23 (Grenzen automatisierter Verwaltungsakte). Datum geschätzt,
+    kein gesetzter Termin.'
+  typ: sonstiges
+  jurisdiktion: de
+  verfahren: de-2025-vg-bremen-automatisierter-va
+  adressat: Behörden mit vollautomatisierten Bescheidverfahren; kommunale Gebührenstellen; Finanzverwaltung
+  handlungsbedarf: null
+  quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=VG+Bremen&Datum=14.07.2025&Aktenzeichen=2+K+763%2F23
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: eu-2026-xai-holdings-kommission-f1
+  datum: 2026-09-15
+  beschreibung: Klärung des Streitgegenstands von EuG, T-120/26 (X.AI Holdings ./. Kommission, Klage v.
+    16.02.2026) über den Volltext der ABl-Bekanntmachung C/2026/2391. Bis dahin unverifizierte Spur ohne
+    belegten KI-VO-Bezug.
+  typ: pruefung
+  jurisdiktion: eu
+  verfahren: eu-2026-xai-holdings-kommission
+  adressat: — (interner Recherchevorbehalt)
+  handlungsbedarf: 'ENTSCHEIDUNG DES BEARBEITERS NÖTIG. Zwei Prüfläufe haben den Sachtext der Bekanntmachung
+    C/2026/2391 nicht beschaffen können. Amtlich belegt sind nur die Metadaten: CELEX 62026TN0120, Rechtssache
+    T-120/26, X.AI Holdings ./. Kommission, Klagedatum 16.02.2026. Angefochtener Rechtsakt, Klagegründe
+    und Verfahrensstand bleiben unbelegt, ein Bezug zur KI-VO ist nicht belegt. Entweder Eintrag und Frist
+    streichen oder den Prüftermin verlegen und über einen anderen Zugang (Amtsblatt-PDF, Curia mit JavaScript)
+    erneut versuchen.'
+  quelle: https://eur-lex.europa.eu/eli/C/2026/2391/oj/eng
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 7
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Zweiter Prüflauf ohne Ergebnis. EUR-Lex führt unter CELEX 62026TN0120 die Bekanntmachung
+    C/2026/2391 mit Aktenzeichen, Parteien und Dokumentdatum 16.02.2026, liefert aber ausschließlich diese
+    Metadaten; die Abschnitte "Form of order sought" und "Pleas in law and main arguments" fehlen. PDF-,
+    HTML- und DE-Sprachfassung waren nicht erreichbar, eine Abfrage über Curia oder InfoCuria nach Rechtssachennummer
+    ebenfalls nicht. NICHT BELEGT und ausdrücklich nicht übernommen: Dass die Klägerin nach der Fusion
+    vom März 2025 Holdinggesellschaft von xAI und X Corp. ist, legt einen DSA- oder DMA-Kontext nahe —
+    das ist eine Vermutung ohne Fundstelle.'

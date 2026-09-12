@@ -1,0 +1,193 @@
+# Gepflegte Datenbasis.
+urteile:
+- id: at-2020-bvwg-ams-algorithmus
+  jurisdiktion: at
+  gericht: Bundesverwaltungsgericht (BVwG), Wien
+  aktenzeichen: W256 2235360-1
+  datum: 2020-12-18
+  status: rechtsmittel
+  bedeutung: hoch
+  volltext_url: https://www.ris.bka.gv.at/Dokumente/Bvwg/BVWGT_20201218_W256_2235360_1_00/BVWGT_20201218_W256_2235360_1_00.html
+  verifiziert: true
+  sprache: de
+  parteien:
+    klaeger: Arbeitsmarktservice Österreich (AMS)
+    beklagter: Datenschutzbehörde
+  leitsatz: 'Das BVwG hob den Bescheid der Datenschutzbehörde, mit dem der Einsatz des Arbeitsmarktchancen-Assistenz-Systems
+    (AMAS, "AMS-Algorithmus") untersagt worden war, ersatzlos auf. Art. 22 DSGVO setze voraus, dass eine
+    Entscheidung AUSSCHLIESSLICH auf automatisierter Verarbeitung beruht; eine automatisierte Verarbeitung,
+    die eine menschliche Entscheidung lediglich vorbereitet und unterstützt, fällt nicht darunter. Eine
+    ausreichende gesetzliche Grundlage für die Verarbeitung arbeitsmarktbezogener Daten einschließlich
+    Gesundheitsdaten liege in § 25 AMSG i.V.m. Art. 9 Abs. 2 lit. g DSGVO.
+
+    '
+  sachverhalt: 'Das AMS wollte ab 2020 für alle Arbeitsuchenden ein statistisches Modell einsetzen, das
+    die Wiedereingliederungschancen in Gruppen prognostiziert und die Zuteilung von Fördermitteln steuert.
+    Das Modell gewichtete unter anderem Geschlecht, Alter, Staatsangehörigkeit, Betreuungspflichten und
+    gesundheitliche Beeinträchtigung. Die Datenschutzbehörde untersagte den Einsatz wegen fehlender Rechtsgrundlage
+    und wegen Verstoßes gegen Art. 22 DSGVO. Das BVwG gab der Beschwerde des AMS statt und hob die Untersagung
+    auf.
+
+    '
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  - arbeit
+  - governance
+  normen:
+  - dsgvo-art-22
+  - dsgvo-art-9
+  - dsgvo-art-6
+  regelwerk: at-dsg
+  bedeutung_begruendung: 'Der international meistzitierte österreichische Fall zu algorithmischer Verwaltungsentscheidung
+    und einer der frühesten europäischen Rechtsstreite über ein staatliches Profilingsystem im Arbeitsmarkt.
+    Die Abgrenzung "vorbereitende automatisierte Verarbeitung" gegen "ausschließlich automatisierte Entscheidung"
+    ist die Weichenstellung, an der sich die spätere europäische Debatte zu Art. 22 DSGVO abarbeitet;
+    sie steht in erkennbarem Spannungsverhältnis zur späteren EuGH-Linie in C-634/21 (SCHUFA). Für die
+    Datenbasis der Referenzfall zu sektor-oeffentlich außerhalb des Sicherheitsrechts.
+
+    '
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: at-2025-vwgh-scoring-auskunft
+  jurisdiktion: at
+  gericht: Verwaltungsgerichtshof (VwGH)
+  aktenzeichen: Ro 2020/04/0010
+  datum: 2025-08-20
+  status: rechtskraeftig
+  bedeutung: hoch
+  volltext_url: https://www.ris.bka.gv.at/Dokumente/Vwgh/JWT_2020040010_20250820J00/JWT_2020040010_20250820J00.html
+  sekundaerquelle_url: https://www.ris.bka.gv.at/Dokumente/Vwgh/JWR_2020040010_20250820J06/JWR_2020040010_20250820J06.html
+  verifiziert: true
+  sprache: de
+  parteien:
+    klaeger: B GmbH (Wirtschaftsauskunftei, Revisionswerberin)
+    beklagter: Datenschutzbehörde, mitbeteiligte Partei G W
+  leitsatz: 'Die Verantwortliche hat in Erfüllung ihrer Auskunftspflicht nach Art. 15 Abs. 1 lit. h DSGVO
+    die Art und Weise der automatisierten Verarbeitung zu erläutern, und zwar in Bezug auf die Bedeutung
+    der einzelnen verarbeiteten personenbezogenen Daten für den errechneten Score, damit die Betroffene
+    ihre Rechte, insbesondere nach Art. 22 Abs. 3 DSGVO, ausüben kann. Einer ausführlichen Erläuterung
+    der verwendeten Algorithmen oder einer Offenlegung des gesamten Algorithmus bedarf es hingegen nicht.
+    Der pauschale Hinweis auf eine "gleichwertige" Gewichtung genügt nicht; die pauschale Berufung auf
+    Geschäftsgeheimnisse rechtfertigt keine vollständige Verweigerung.
+
+    '
+  sachverhalt: 'Eine Wirtschaftsauskunftei hatte für die mitbeteiligte Partei einen Bonitätsscore von
+    2,6 errechnet. Auf das Auskunftsverlangen teilte sie lediglich mit, die verarbeiteten Daten (unter
+    anderem Alter, Anschrift, Haushaltszusammensetzung) seien "gleichwertig" gewichtet worden. Die Datenschutzbehörde
+    sah darin keine ausreichende Auskunft. Der VwGH legte dem EuGH vor; dieser entschied am 27.02.2025,
+    C-203/22 (Dun & Bradstreet Austria). Der VwGH wies die Revision danach als unbegründet ab.
+
+    '
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-finanz
+  - governance
+  normen:
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22
+  - dsgvo-art-15
+  regelwerk: at-dsg
+  bedeutung_begruendung: 'Die Schlussentscheidung im Ausgangsverfahren zu EuGH C-203/22 (Dun & Bradstreet
+    Austria) und damit der praktisch wichtigste europäische Maßstab dafür, wie weit ein "Recht auf Erklärung"
+    algorithmischer Entscheidungen reicht. Die Formel "Erläuterung der Bedeutung der Daten ja, Offenlegung
+    des Algorithmus nein" ist der Satz, an dem sich Auskunfteien, Scoring-Anbieter und Kreditinstitute
+    im gesamten EWR ausrichten. Ohne diesen Eintrag fehlt der Datenbasis der nationale Endpunkt eines
+    der zentralen KI-Vorlageverfahren des EuGH.
+
+    '
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: at-2026-vwgh-score-geschaeftsgeheimnis
+  jurisdiktion: at
+  gericht: Verwaltungsgerichtshof (VwGH)
+  aktenzeichen: Ro 2024/04/0003
+  datum: 2026-03-06
+  status: rechtskraeftig
+  bedeutung: mittel
+  volltext_url: https://www.ris.bka.gv.at/Dokumente/Vwgh/JWR_2024040003_20260306J05/JWR_2024040003_20260306J05.html
+  verifiziert: true
+  sprache: de
+  parteien:
+    klaeger: Nicht namentlich ausgewiesen (Auskunftsverfahren
+    beklagter: eine Auskunftei; belangte Behörde Datenschutzbehörde)
+  leitsatz: 'Zwischen dem Auskunftsrecht der betroffenen Person und dem Schutz von Geschäftsgeheimnissen
+    ist im jeweiligen Einzelfall abzuwägen. Es ist nicht zu beanstanden, die bei der Ermittlung des Scores
+    angewendete Berechnungsmethode als Geschäftsgeheimnis anzusehen. Die bloße Behauptung eines Geschäftsgeheimnisses
+    und ein pauschaler Hinweis auf Gefährdungen genügen dafür aber nicht; eine vollständige Offenlegung
+    des Algorithmus ist umgekehrt nicht geschuldet.
+
+    '
+  sachverhalt: 'Fortsetzung der Linie aus Ro 2020/04/0010: Streit über den Umfang der nach Art. 15 Abs.
+    1 lit. h DSGVO geschuldeten Auskunft über die Logik eines Bonitätsscores und über die Frage, ob und
+    wie weit die Berechnungsmethode als Geschäftsgeheimnis zurückgehalten werden darf.
+
+    '
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - wettbewerb
+  - governance
+  normen:
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22
+  regelwerk: at-dsg
+  bedeutung_begruendung: 'Präzisiert die Gegenseite der Auskunftsformel: Das Geschäftsgeheimnis ist ein
+    zulässiger, aber begründungsbedürftiger Einwand. Damit ist für die Datenbasis der österreichische
+    Instanzenzug zur Algorithmentransparenz vollständig (BVwG 2020 — EuGH C-203/22 — VwGH 2025 — VwGH
+    2026). Verifiziert am amtlichen Rechtssatz; der Entscheidungstext (JWT_) war unter der konstruierten
+    Adresse nicht abrufbar, weshalb hier ausnahmsweise der Rechtssatz als volltext_url steht.
+
+    '
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich
+- id: at-2025-dsb-riskscore-verarbeitungsverbot
+  jurisdiktion: at
+  gericht: Datenschutzbehörde (DSB), Wien
+  aktenzeichen: 2025-0.355.103
+  datum: 2025-09-25
+  status: erstinstanzlich
+  bedeutung: hoch
+  volltext_url: https://www.ris.bka.gv.at/Dokumente/Dsk/DSBT_20250925_2025_0_355_103_00/DSBT_20250925_2025_0_355_103_00.html
+  verifiziert: true
+  sprache: de
+  parteien:
+    klaeger: Mag. Markus A*** (vertreten durch einen Datenschutzverband)
+    beklagter: N*** Datenverarbeitung GmbH (Auskunftei) und ***eco-Energie GmbH und Co KG (Energieversorger)
+  leitsatz: 'Die Datenschutzbehörde stellte gegenüber der Auskunftei Verletzungen von Art. 22 Abs. 1,
+    Art. 14 Abs. 2 lit. g und Art. 15 DSGVO fest und verhängte ein sofort wirksames Verarbeitungsverbot
+    für die automatisierte Score-Berechnung. Gegenüber dem Energieversorger wurde keine Verletzung von
+    Art. 22 DSGVO festgestellt, weil die vollautomatisierte Bonitätsprüfung bei 6.000 bis 10.000 Vertragsanträgen
+    im Monat nach Art. 22 Abs. 2 lit. a DSGVO für den Vertragsschluss erforderlich sei; wohl aber Verletzungen
+    der Informations- und Auskunftspflichten nach Art. 13, 14 und 15 DSGVO.
+
+    '
+  sachverhalt: 'Der Beschwerdeführer beantragte einen Energieliefervertrag und wurde binnen einer Minute
+    nach Antragstellung abgelehnt; der gesamte Vorgang lief ohne Eingreifen einer natürlichen Person ab.
+    Grundlage war ein von der Auskunftei berechneter RiskScore, der auch vollständig automatisiert ohne
+    menschliches Zutun ermittelt werden kann. Die Behörde wandte die EuGH-Auslegung an, wonach eine automatisierte
+    Entscheidung schon dann vorliegt, wenn ein Wahrscheinlichkeitswert automatisiert erstellt wird und
+    maßgeblich davon abhängt, ob ein Dritter ein Vertragsverhältnis begründet.
+
+    '
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - vertrag
+  - grundrechte
+  normen:
+  - dsgvo-art-22-abs-1
+  - dsgvo-art-15
+  - dsgvo-art-13
+  regelwerk: at-dsg
+  bedeutung_begruendung: 'Die erste österreichische Aufsichtsentscheidung, die ein Verarbeitungsverbot
+    gegen ein automatisiertes Scoringsystem ausspricht, und zugleich die erste, die die SCHUFA-Rechtsprechung
+    des EuGH (C-634/21) auf die Kette Auskunftei — Vertragspartner anwendet. Praktisch bedeutsam ist die
+    Zweiteilung: der Score-Ersteller haftet nach Art. 22, der Score-Verwender kann sich auf die Erforderlichkeitsausnahme
+    berufen. Damit steht sie in erkennbarem Gegensatz zur Abgrenzungslinie des BVwG im AMAS-Fall von 2020.
+
+    '
+  letzte_pruefung: 2026-09-07
+  quelle_art: amtlich

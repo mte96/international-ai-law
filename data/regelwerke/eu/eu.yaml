@@ -1,0 +1,1835 @@
+# Gepflegte Datenbasis.
+regelwerke:
+- id: ki-vo-2024-1689
+  kurztitel: KI-VO / AI Act
+  offizieller_titel: 'Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni
+    2024 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der Verordnungen
+    (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144
+    sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Verordnung über künstliche Intelligenz)
+
+    '
+  fundstelle: ABl. L, 2024/1689, 12.7.2024
+  celex: 32024R1689
+  eli: http://data.europa.eu/eli/reg/2024/1689/oj
+  verfahrensnummer: 2021/0106(COD)
+  status: teilanwendbar
+  inkrafttreten:
+    datum: 2024-08-01
+    verifiziert: true
+    quelle: https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act
+  anwendungsdaten:
+  - datum: 2024-08-01
+    was_gilt: Inkrafttreten (Art. 113 KI-VO).
+    verifiziert: true
+  - datum: 2025-02-02
+    was_gilt: 'Kapitel I (Allgemeine Bestimmungen, Begriffsbestimmungen Art. 3, KI-Kompetenz Art. 4) und
+      Kapitel II (verbotene Praktiken Art. 5).
+
+      '
+    verifiziert: true
+  - datum: 2025-08-02
+    was_gilt: 'Kapitel III Abschnitt 4 (notifizierende Behörden/notifizierte Stellen), Kapitel V (GPAI-Modelle),
+      Kapitel VII (Governance: KI-Büro, KI-Board, wissenschaftliches Gremium, Beratungsforum), Art. 78
+      (Vertraulichkeit), Kapitel XII (Sanktionen) mit Ausnahme von Art. 101 (Geldbußen für GPAI-Anbieter).
+      Mitgliedstaaten: Benennung der zuständigen nationalen Behörden und Mitteilung der Sanktionsvorschriften.
+
+      '
+    verifiziert: true
+  - datum: 2026-08-02
+    was_gilt: 'Allgemeiner Anwendungsbeginn der übrigen Verordnung (Art. 113 Abs. 1), insbesondere Transparenzpflichten
+      Art. 50, Kapitel VI (Innovationsförderung), Kapitel IX (Marktüberwachung/Beobachtung nach Inverkehrbringen,
+      Meldung schwerwiegender Vorfälle Art. 73 - soweit anwendbar), Durchsetzung auf nationaler und EU-Ebene,
+      Art. 101 (Geldbußen GPAI). NICHT MEHR: Hochrisiko-Pflichten (verschoben, s. u.).
+
+      '
+    verifiziert: true
+  - datum: 2026-12-02
+    was_gilt: 'Neue Verbotstatbestände Art. 5 Abs. 1 lit. ba) und bb) (KI-generierte nicht-einvernehmliche
+      intime Darstellungen / NCII und Darstellungen sexuellen Kindesmissbrauchs / CSAM) — eingefügt durch
+      VO (EU) 2026/1744. Zugleich Ende der Übergangsfrist des Art. 50 Abs. 2 (maschinenlesbare Kennzeichnung
+      synthetischer Inhalte) für KI-Systeme, die vor dem 02.08.2026 in Verkehr gebracht wurden (Gnadenfrist
+      von 6 auf 3 Monate verkürzt).
+
+      '
+    verifiziert: true
+  - datum: 2027-08-02
+    was_gilt: '(a) GPAI-Modelle, die vor dem 02.08.2025 in Verkehr gebracht wurden, müssen Kapitel V erfüllen
+      (Art. 111 Abs. 3); (b) Mitgliedstaaten müssen mindestens ein KI-Reallabor in Betrieb haben (durch
+      Omnibus von 02.08.2026 verschoben); (c) Frist der Kommission für Leitlinien zur Einstufung als Hochrisiko
+      (Art. 6 Abs. 5) sowie Leitlinien zu Art. 8 Abs. 2, Art. 9 Abs. 10, Art. 17 Abs. 3.
+
+      '
+    verifiziert: true
+  - datum: 2027-12-02
+    was_gilt: 'Kapitel III Abschnitte 1-3 (Anforderungen an Hochrisiko-KI und Pflichten der Akteure) für
+      Hochrisiko-KI nach ANHANG III (Biometrie, kritische Infrastruktur, Bildung, Beschäftigung, wesentliche
+      Dienste, Strafverfolgung, Migration/Asyl/Grenzkontrolle, Justiz/Demokratie). VERSCHOBEN von ursprünglich
+      02.08.2026.
+
+      '
+    verifiziert: true
+  - datum: 2028-08-02
+    was_gilt: 'Kapitel III Abschnitte 1-3 für Hochrisiko-KI als Sicherheits- bauteil von Produkten nach
+      ANHANG I (Unionsharmonisierungs- rechtsvorschriften). VERSCHOBEN von ursprünglich 02.08.2027. Zugleich
+      Frist der Kommission für den delegierten Rechtsakt zur Integration der Hochrisiko-Anforderungen
+      in die Maschinen-VO (EU) 2023/1230.
+
+      '
+    verifiziert: true
+  - datum: 2030-08-02
+    was_gilt: 'Übergangsfrist Art. 111 Abs. 2 für Hochrisiko-KI-Systeme, die von Behörden vor Anwendungsbeginn
+      eingesetzt wurden (Altsysteme).
+
+      '
+    verifiziert: false
+    hinweis: Genaues Datum/Verschiebung durch Omnibus nicht abschließend geprüft.
+  dokumente:
+  - datum: 2021-04-21
+    typ: entwurf
+    titel: COM(2021) 206 final — Vorschlag für eine Verordnung zur Festlegung harmonisierter Vorschriften
+      für künstliche Intelligenz
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52021PC0206
+    sprache: DE/EN
+    celex: 52021PC0206
+    verifiziert: true
+    typ_original: Kommissionsvorschlag
+  - datum: 2021-04-21
+    typ: folgenabschaetzung
+    titel: SWD(2021) 84 final — Impact Assessment accompanying the AI Act proposal
+    url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021SC0084
+    sprache: EN
+    celex: 52021SC0084
+    verifiziert: true
+    typ_original: Folgenabschaetzung (SWD)
+  - datum: 2021-04-21
+    typ: folgenabschaetzung
+    titel: SWD(2021) 85 final — Executive Summary of the Impact Assessment
+    url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021SC0085
+    sprache: EN
+    verifiziert: false
+    typ_original: Folgenabschaetzung — Zusammenfassung
+  - datum: 2021-04-21
+    typ: entwurf
+    titel: COM(2021) 206 final — ANNEXES 1 to 9
+    url: https://eur-lex.europa.eu/resource.html?uri=cellar:e0649735-a372-11eb-9585-01aa75ed71a1.0019.02/DOC_2&format=PDF
+    sprache: EN
+    verifiziert: false
+    typ_original: Anhaenge zum Vorschlag
+  - datum: 2024-07-12
+    typ: uebersicht
+    titel: Procedure file 2021/0106(COD) — Artificial Intelligence Act (vollständige Dokumentenliste)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Verfahrensakte (EP Legislative Observatory)
+  - datum: 2024-07-12
+    typ: uebersicht
+    titel: Basic information 2021/0106(COD) — PDF
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file/pdf?reference=2021/0106(COD)
+    sprache: EN
+    verifiziert: false
+    typ_original: Verfahrensakte (PDF-Export)
+  - datum: 2021-06-18
+    typ: stellungnahme
+    titel: EDPB-EDPS Joint Opinion 5/2021 on the proposal for an Artificial Intelligence Act
+    url: https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-52021-proposal_en
+    sprache: EN
+    verifiziert: true
+    kernaussage: Forderung nach generellem Verbot biometrischer Fernidentifizierung im öffentlichen Raum;
+      Zuständigkeit der DSB als Marktüberwachungsbehörden.
+    typ_original: Gemeinsame Stellungnahme EDSA/EDSB
+  - datum: 2021-06-18
+    typ: stellungnahme
+    titel: EDPB-EDPS Joint Opinion 5/2021 — PDF
+    url: https://www.edps.europa.eu/system/files/2021-06/2021-06-18-edpb-edps_joint_opinion_ai_regulation_en.pdf
+    sprache: EN
+    verifiziert: true
+    typ_original: Gemeinsame Stellungnahme EDSA/EDSB (Volltext-PDF)
+  - datum: 2021-09-22
+    typ: stellungnahme
+    titel: EWSA-Stellungnahme CES2482/2021 (INT/940) zum KI-VO-Vorschlag
+    url: https://www.eesc.europa.eu/en/our-work/opinions-information-reports/opinions/regulation-artificial-intelligence
+    sprache: EN/DE
+    verifiziert: false
+    hinweis: Datum 22.09.2021 und Ref. CES2482/2021 aus OEIL verifiziert; URL nicht abgerufen.
+    typ_original: Stellungnahme EWSA
+  - datum: 2021-12-02
+    typ: stellungnahme
+    titel: AdR-Stellungnahme CDR2682/2021 zum KI-VO-Vorschlag
+    url: https://cor.europa.eu/en/our-work/opinions
+    sprache: EN/DE
+    verifiziert: false
+    hinweis: Datum 02.12.2021 und Ref. CDR2682/2021 aus OEIL verifiziert; URL nicht abgerufen.
+    typ_original: Stellungnahme AdR
+  - datum: 2021-12-29
+    typ: stellungnahme
+    titel: Stellungnahme der Europäischen Zentralbank vom 29. Dezember 2021 zu einem Vorschlag für eine
+      Verordnung zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz (CON/2021/40)
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52021AB0040
+    sprache: DE/EN
+    celex: 52021AB0040
+    verifiziert: true
+    typ_original: Stellungnahme EZB
+  - datum: 2022-11-25
+    typ: kompromiss
+    titel: ST 14954/2022 INIT — Allgemeine Ausrichtung des Rates (tschechische Präsidentschaft); COREPER-Billigung
+      18.11.2022, Annahme im TTE-Rat am 06.12.2022
+    url: https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf
+    sprache: EN
+    verifiziert: true
+    typ_original: Ratsdokument — Allgemeine Ausrichtung
+  - datum: 2022-11-11
+    typ: kompromiss
+    titel: CZ Draft General Approach, 11.11.2022
+    url: https://artificialintelligenceact.eu/wp-content/uploads/2022/11/AIA-CZ-Draft-General-Approach-11-Nov-22.pdf
+    sprache: EN
+    verifiziert: false
+    typ_original: Ratsdokument — Entwurf allgemeine Ausrichtung
+  - datum: 2022-12-06
+    typ: uebersicht
+    titel: Consilium Dokumentenregister, Volltextsuche 2021/0106(COD) (SL/PT/FR/ES-Kompromisstexte)
+    url: https://www.consilium.europa.eu/en/documents-publications/public-register/
+    sprache: EN
+    verifiziert: false
+    typ_original: Ratsdokumente — Suchmaske Praesidentschaftskompromisse
+  - datum: 2023-05-11
+    typ: abstimmung
+    titel: Gemeinsame Abstimmung IMCO/LIBE über den Berichtsentwurf (1. Lesung)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Abstimmung im Ausschuss
+  - datum: 2023-05-22
+    typ: ausschussbericht
+    titel: A9-0188/2023 — Bericht IMCO/LIBE (Berichterstatter Brando Benifei, Dragos Tudorache)
+    url: https://www.europarl.europa.eu/doceo/document/A-9-2023-0188_DE.html
+    sprache: DE/EN
+    verifiziert: false
+    hinweis: Datum und Referenz aus OEIL verifiziert; URL-Muster nicht abgerufen.
+    typ_original: Ausschussbericht
+  - datum: 2023-06-14
+    typ: kompromiss
+    titel: T9-0236/2023 / P9_TA(2023)0236 — Abänderungen des EP; Verhandlungsmandat
+    url: https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_DE.html
+    sprache: DE/EN
+    verifiziert: false
+    typ_original: Verhandlungsposition EP (1. Lesung)
+  - datum: 2023-12-09
+    typ: kompromiss
+    titel: Politische Einigung im Trilog (8./9. Dezember 2023) — Pressemitteilung Rat
+    url: https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/
+    sprache: EN
+    verifiziert: false
+    typ_original: Trilog-Ergebnis
+  - datum: 2024-02-02
+    typ: kompromiss
+    titel: Billigung des Kompromisstextes durch COREPER (einstimmig)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Interinstitutionelle Einigung
+  - datum: 2024-03-13
+    typ: abstimmung
+    titel: P9_TA(2024)0138 / T9-0138/2024 — Legislative Entschließung des EP vom 13. März 2024 (523 Ja
+      / 46 Nein / 49 Enthaltungen)
+    url: https://eur-lex.europa.eu/eli/C/2025/1027/oj/eng
+    sprache: EN
+    celex: 52024AP0138
+    verifiziert: true
+    hinweis: 'Abstimmungsergebnis 523/46/49 nicht durch Primärquelle geprüft — verifiziert: false für
+      die Zahlen.'
+    typ_original: Legislative Entschliessung EP (Plenum)
+  - datum: 2024-03-13
+    typ: abstimmung
+    titel: Angenommene Texte — P9_TA(2024)0138
+    url: https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138_DE.html
+    sprache: DE/EN
+    verifiziert: false
+    typ_original: Angenommener Text EP
+  - datum: 2024-05-21
+    typ: abstimmung
+    titel: Billigung der KI-VO durch den Rat am 21. Mai 2024
+    url: https://www.consilium.europa.eu/en/press/press-releases/2024/05/21/artificial-intelligence-ai-act-council-gives-final-green-light-to-the-first-worldwide-rules-on-ai/
+    sprache: EN
+    verifiziert: false
+    hinweis: Datum 21.05.2024 aus OEIL verifiziert; Pressemitteilungs-URL nicht abgerufen.
+    typ_original: Annahme durch den Rat
+  - datum: 2024-06-13
+    typ: endfassung
+    titel: Unterzeichnung durch EP-Präsidentin und Ratspräsidentschaft
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Unterzeichnung Schlussakt
+  - datum: 2024-07-12
+    typ: endfassung
+    titel: ABl. L, 2024/1689, 12.7.2024 — Verordnung (EU) 2024/1689
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024R1689
+    sprache: DE (alle Amtssprachen)
+    celex: 32024R1689
+    verifiziert: true
+    typ_original: Veroeffentlichung im Amtsblatt
+  - datum: 2024-04-19
+    typ: endfassung
+    titel: Corrigendum zum EP-Standpunkt vom 13.03.2024 (sprachlich-juristische Überarbeitung vor Ratsannahme)
+    url: https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_EN.pdf
+    sprache: EN
+    verifiziert: false
+    hinweis: 'Ein förmliches ABl.-Korrigendum zur VO (EU) 2024/1689 konnte in dieser Sitzung NICHT nachgewiesen
+      werden. Die im Markt zirkulierende "Corrigendum-Fassung" vom 19.04.2024 ist das EP-interne Korrigendum
+      zum angenommenen Text, nicht ein OJ-Corrigendum. Vor Zitierung prüfen.
+
+      '
+    typ_original: Korrigendum (EP)
+  - datum: 2026-07-27
+    typ: konsolidiert
+    titel: Konsolidierte Fassung der VO (EU) 2024/1689 in der ab 27.07.2026 geltenden Fassung
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+    sprache: DE/EN
+    celex: 02024R1689-20260727
+    verifiziert: true
+    typ_original: Konsolidierte Fassung
+  fristen:
+  - ki-vo-2024-1689-f1
+  - ki-vo-2024-1689-f2
+  - ki-vo-2024-1689-f3
+  - ki-vo-2024-1689-f4
+  offene_punkte:
+  - Kein einziger harmonisierter Standard ist bisher im ABl. zitiert — Konformitätsvermutung (Art. 40)
+    faktisch noch nicht verfügbar.
+  - Leitlinien zur Hochrisiko-Einstufung (Art. 6 Abs. 5) liegen nur als Entwurf vor; Endfassung ausstehend.
+  - Endfassung der Leitlinien zu schwerwiegenden Vorfällen (Art. 73) ausstehend.
+  - 'Nur ein Teil der Mitgliedstaaten hat die zuständigen Behörden vollständig benannt (Stand 06/2026:
+    9 vollständig, 12 teilweise, 6 offen).'
+  - Ein förmliches ABl.-Corrigendum zur KI-VO ist nicht belegt (s. o.).
+  - Verhältnis KI-VO / MDR-IVDR bleibt bis zum Erlass von Durchführungsrechtsakten nach VO 2026/1744 unklar.
+  monitoring_quellen:
+  - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02024R1689-20260727
+  - https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act
+  - https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+  - https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106(COD)
+  - https://artificialintelligenceact.substack.com/feed (EU AI Act Newsletter, RSS)
+  regelungsschwerpunkte:
+  - 'Risikobasierter Ansatz: verbotene Praktiken / Hochrisiko / Transparenz / minimales Risiko'
+  - Produktsicherheitsrechtliche Architektur (New Legislative Framework, CE, notifizierte Stellen)
+  - GPAI-Modelle und systemisches Risiko (Kapitel V)
+  - Grundrechte-Folgenabschätzung (Art. 27) für bestimmte Deployer
+  - 'Governance: KI-Büro, KI-Board, wissenschaftliches Gremium, Beratungsforum'
+  - Sanktionen bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz (Art. 99)
+  - Schnittstelle zur DSGVO (Art. 10 Abs. 5, Art. 26 Abs. 9, Art. 27)
+  - Normung und Konformitätsvermutung (Art. 40/41)
+  status_detail: In Kraft; gestaffelt anwendbar; geändert durch VO (EU) 2026/1744
+  themenachsen:
+  - marktzugang
+  - gpai
+  - grundrechte
+  - governance
+  - content
+  - datenschutz
+  - sektor-oeffentlich
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: digital-omnibus-ai-2026-1744
+  kurztitel: Digital Omnibus on AI
+  offizieller_titel: 'Verordnung (EU) 2026/1744 des Europäischen Parlaments und des Rates vom 8. Juli
+    2026 zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf
+    die Vereinfachung der Durchführung harmonisierter Vorschriften für künstliche Intelligenz (Digital
+    Omnibus on AI)
+
+    '
+  fundstelle: ABl. L, 2026/1744, 24.7.2026
+  celex: 32026R1744
+  eli: http://data.europa.eu/eli/reg/2026/1744/oj
+  verfahrensnummer: 2025/0359(COD) — auch 'Omnibus VII'
+  status: anwendbar
+  inkrafttreten:
+    datum: 2026-07-27
+    verifiziert: true
+    hinweis: Dritter Tag nach Veröffentlichung (Dringlichkeitsklausel, Art. 4).
+  anwendungsdaten:
+  - datum: 2026-07-27
+    was_gilt: Inkrafttreten; Art. 102-110 KI-VO (Änderungen sektoraler Rechtsakte) ausdrücklich anwendbar.
+    verifiziert: true
+  - datum: 2026-08-02
+    was_gilt: Allgemeiner Anwendungsbeginn der KI-VO bleibt unverändert.
+    verifiziert: true
+  - datum: 2026-12-02
+    was_gilt: Neue Verbote Art. 5 Abs.1 lit. ba/bb; Art. 50 Abs. 2 für Alt-Systeme.
+    verifiziert: true
+  - datum: 2027-12-02
+    was_gilt: Hochrisiko Anhang III (verschoben von 02.08.2026).
+    verifiziert: true
+  - datum: 2028-08-02
+    was_gilt: Hochrisiko Anhang I (verschoben von 02.08.2027).
+    verifiziert: true
+  dokumente:
+  - datum: 2025-11-19
+    typ: entwurf
+    titel: COM(2025) 836 final — Digital Omnibus on AI
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:52025PC0836
+    sprache: DE/EN
+    celex: 52025PC0836
+    verifiziert: true
+    typ_original: Kommissionsvorschlag
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Procedure file 2025/0359(COD)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Verfahrensakte
+  - datum: 2026-01-21
+    typ: stellungnahme
+    titel: EDPB-EDPS Joint Opinion 1/2026 on the Proposal for a Regulation (AI Omnibus)
+    url: https://www.edpb.europa.eu/system/files/2026-01/edpb_edps_jointopinion_202601_proposal_ai-omnibus_en.pdf
+    sprache: EN
+    verifiziert: true
+    typ_original: Gemeinsame Stellungnahme EDSA/EDSB
+  - datum: 2026-03-13
+    typ: kompromiss
+    titel: Allgemeine Ausrichtung / Verhandlungsmandat des Rates
+    url: https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/
+    sprache: EN
+    verifiziert: false
+    typ_original: Verhandlungsmandat Rat
+  - datum: 2026-03-19
+    typ: ausschussbericht
+    titel: A10-0073/2026 — Bericht IMCO/LIBE (Arba Kokalari EVP, Michael McNamara Renew)
+    url: https://www.europarl.europa.eu/doceo/document/A-10-2026-0073_DE.html
+    sprache: DE/EN
+    verifiziert: false
+    hinweis: Referenz A10-0073/2026 und Datum aus OEIL verifiziert.
+    typ_original: Ausschussbericht EP
+  - datum: 2026-03-26
+    typ: abstimmung
+    titel: Standpunkt des EP in erster Lesung
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: EP 1. Lesung
+  - datum: 2026-05-07
+    typ: kompromiss
+    titel: Rat und EP einigen sich auf Vereinfachung und Straffung der KI-Vorschriften — Pressemitteilung
+      des Rates
+    url: https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/
+    sprache: EN
+    verifiziert: true
+    typ_original: Vorlaeufige Einigung (Trilog)
+  - datum: 2026-06-16
+    typ: abstimmung
+    titel: Annahme des ausgehandelten Textes durch das Plenum
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Schlussabstimmung EP
+  - datum: 2026-06-29
+    typ: abstimmung
+    titel: Endgültige Annahme durch den Rat
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Annahme durch den Rat
+  - datum: 2026-07-24
+    typ: endfassung
+    titel: ABl. L, 2026/1744, 24.7.2026
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:L_202601744
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Veroeffentlichung im Amtsblatt
+  fristen:
+  - digital-omnibus-ai-2026-1744-f1
+  offene_punkte:
+  - Durchführungsrechtsakte zur Begrenzung der KI-VO-Anwendbarkeit bei äquivalentem Schutz durch MDR/IVDR
+    stehen aus.
+  - Übergangsregelung für bereits laufende Konformitätsbewertungen nach altem Zeitplan nicht abschließend
+    geprüft.
+  monitoring_quellen:
+  - https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0359(COD)
+  - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:L_202601744
+  - https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force
+  regelungsschwerpunkte:
+  - 'Fristverschiebung Hochrisiko: Anhang III 02.12.2027, Anhang I 02.08.2028'
+  - 'Neue Verbote: KI-generierte NCII und CSAM (Art. 5 Abs. 1 lit. ba, bb)'
+  - 'Art. 6: Präzisierung ''Sicherheitsbauteil''; Systeme allein zur Nutzerunterstützung, Leistungsoptimierung,
+    Effizienz, Automatisierung oder Bequemlichkeit sind nicht automatisch Hochrisiko'
+  - 'Art. 4 KI-Kompetenz abgeschwächt: von ''sicherstellen'' zu ''Maßnahmen zur Förderung ergreifen'''
+  - 'Neuer Art. 4a: Verarbeitung besonderer Kategorien personenbezogener Daten zur Bias-Erkennung für
+    ALLE KI-Systeme/-Modelle unter dem Maßstab der ''unbedingten Erforderlichkeit'''
+  - 'Art. 75 neu gefasst: ausschließliche Zuständigkeit des KI-Büro für GPAI-basierte Systeme desselben
+    Unternehmens; KI-Büro als Marktüberwachungsbehörde für VLOP/VLOSE nach DSA'
+  - 'Neue Art. 75a-75d: Untersuchungsbefugnisse (Inspektionen, Versiegelung, Zwangsgelder bis 5 % des
+    Tagesumsatzes)'
+  - Registrierungspflicht in der EU-Datenbank auch bei behaupteter Ausnahme von der Hochrisiko-Einstufung
+    (Art. 6 Abs. 3) wieder eingeführt
+  - Erleichterungen für KMU und 'small mid-caps' (< 750 Beschäftigte, Umsatz <= 150 Mio. EUR)
+  - 'Sektorale Kohärenz: Mechanismus zur Auflösung von Überschneidungen (Medizinprodukte, Maschinen)'
+  - Maschinen-VO 2023/1230 von Anhang I Abschnitt A nach Abschnitt B verschoben
+  status_detail: VERABSCHIEDET UND IN KRAFT. Verfahren abgeschlossen.
+  themenachsen:
+  - marktzugang
+  - gpai
+  - governance
+  - datenschutz
+  - content
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: digital-omnibus-daten-2025-0360
+  kurztitel: Digital Omnibus (Daten/DSGVO)
+  offizieller_titel: 'Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Vereinfachung
+    des digitalen Rechtsrahmens (Digital Omnibus)
+
+    '
+  fundstelle: COM(2025) 837 final, 19.11.2025
+  celex: 52025PC0837
+  verfahrensnummer: 2025/0360(COD) — 'Omnibus VII'
+  status: verfahren
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    hinweis: Noch nicht verabschiedet.
+  anwendungsdaten: []
+  dokumente:
+  - datum: 2025-11-19
+    typ: entwurf
+    titel: COM(2025) 837 final — Digital Omnibus Regulation
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:52025PC0837
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Kommissionsvorschlag
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Procedure file 2025/0360(COD)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Verfahrensakte
+  - datum: 2026-02-11
+    typ: stellungnahme
+    titel: EDPB-EDPS Joint Opinion 2/2026 zum Digital Omnibus
+    url: https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion_en
+    sprache: EN
+    verifiziert: false
+    hinweis: Datum 11.02.2026 aus Sekundärquelle (MediaLaws-Tracker).
+    typ_original: Gemeinsame Stellungnahme EDSA/EDSB
+  - datum: 2026-03-18
+    typ: stellungnahme
+    titel: EWSA-Stellungnahme zum Digital Omnibus
+    url: https://www.eesc.europa.eu/en/our-work/opinions-information-reports/opinions
+    sprache: EN
+    verifiziert: false
+    typ_original: Stellungnahme EWSA
+  - datum: 2026-06-22
+    typ: ausschussbericht
+    titel: Gemeinsamer Berichtsentwurf ITRE/LIBE (Aura Salla EVP, Marina Kaljurand S&D)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Berichtsentwurf EP
+  - datum: 2026-07-27
+    typ: aenderungsantrag
+    titel: Im Ausschuss eingereichte Änderungsanträge
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360(COD)
+    sprache: EN
+    verifiziert: true
+    typ_original: Aenderungsantraege
+  fristen: []
+  offene_punkte:
+  - Zeitplan für Ausschussabstimmung und Trilog offen; höchst umstritten (DSGVO-Absenkung).
+  - Auswirkungen auf Art. 10 Abs. 5 KI-VO und den neuen Art. 4a KI-VO noch nicht abgestimmt.
+  monitoring_quellen:
+  - https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360(COD)
+  - https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-digital-package
+  - https://www.medialaws.eu/digital-omnibus-legislative-tracker/
+  regelungsschwerpunkte:
+  - Änderungen der DSGVO (u. a. Definition personenbezogener Daten, berechtigtes Interesse für KI-Training,
+    besondere Kategorien, Betroffenenrechte)
+  - ePrivacy/Cookie-Regeln werden in die DSGVO überführt
+  - 'Data Act, Data Governance Act, Open-Data-RL: Konsolidierung'
+  - 'NIS2 / Cybersicherheits-Meldewege: Single Entry Point'
+  - 'ACHTUNG: Dieser Omnibus ist NICHT identisch mit dem bereits verabschiedeten Digital Omnibus on AI.'
+  status_detail: 'LAUFEND — ''Awaiting committee decision''. Kein Trilog-Ergebnis, keine allgemeine Ausrichtung
+    des Rates (Stand 27.08.2026).
+
+    Stand 07.09.2026 nach dem Legislative Observatory: Verfahren weiterhin "Awaiting committee decision".
+    Gemeinsam federführend ITRE und LIBE (Verfahren mit gemeinsamen Ausschusssitzungen), mitberatend IMCO
+    und JURI. Berichterstatter Aura Salla (EVP, ITRE) und Marina Kaljurand (S&D, LIBE), beide benannt
+    am 25.02.2026; Stellungnahmeberichterstatter Alex Agius Saliba (S&D, IMCO, 02.03.2026) und Brando
+    Benifei (S&D, JURI, 24.02.2026). Ausschussüberweisung im Plenum angekündigt am 19.01.2026, Entwurf
+    eines Berichts am 22.06.2026 eingereicht, Änderungsanträge im Ausschuss am 27.07.2026 eingebracht.
+    Kein angenommener Ausschussbericht (kein A10-Dokument), keine Ausschussabstimmung, keine Plenarabstimmung,
+    keine allgemeine Ausrichtung des Rates, kein Trilog, keine vorläufige Einigung. Auf Ratsseite sind
+    über data.consilium.europa.eu nur Arbeitsdokumente zur Interinstitutionellen Akte 2025/0360 (COD)
+    auf Arbeitsgruppenebene nachweisbar (WK 250/2026 vom 09.01.2026 bis WK 7876/2026 vom 04.06.2026).
+
+    '
+  themenachsen:
+  - datenschutz
+  - governance
+  jurisdiktion: eu
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: OEIL-Verfahrensakte 2025/0360(COD) abgerufen. Neu gegenüber dem Bestand sind Entwurfsbericht
+    (22.06.2026), Änderungsanträge (27.07.2026) und die namentliche Zuordnung der Berichterstatter; die
+    Rubrik "Documentation gateway" weist keinen angenommenen Bericht aus. WARNUNG — Verwechslungsgefahr:
+    Sekundärquellen berichten über eine Ratsposition zum Digital Omnibus ON AI, Verfahren 2025/0359(COD).
+    Das ist ein anderes Verfahren; für 2025/0360(COD) existiert keine Ratsposition. Der Legislative Train
+    Schedule des EP ist auf Stand 18.03.2026 und als Beleg für den aktuellen Stand ungeeignet.'
+- id: durchfuehrungs-und-delegierte-rechtsakte-ki-vo
+  kurztitel: Sekundärrechtsakte, Leitlinien und Codes zur KI-VO
+  offizieller_titel: Delegierte Rechtsakte, Durchführungsrechtsakte, Leitlinien und Verhaltenskodizes
+    der Kommission / des KI-Büro
+  fundstelle: diverse
+  celex: null
+  verfahrensnummer: null
+  status: teilanwendbar
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+  anwendungsdaten: []
+  dokumente:
+  - datum: 2025-03-07
+    typ: delegiert
+    titel: Durchführungsverordnung (EU) 2025/454 der Kommission vom 7. März 2025 mit Durchführungsbestimmungen
+      zur VO (EU) 2024/1689 hinsichtlich der Einrichtung eines wissenschaftlichen Gremiums unabhängiger
+      Sachverständiger (Art. 68)
+    url: https://eur-lex.europa.eu/eli/reg_impl/2025/454/oj/deu
+    sprache: DE/EN
+    celex: 32025R0454
+    verifiziert: true
+    hinweis: In Kraft seit 30.03.2025.
+    typ_original: Durchfuehrungsverordnung
+  - datum: 2025-12-02
+    typ: konsultation
+    titel: Entwurf einer Durchführungsverordnung über Einrichtung, Betrieb und Aufsicht von KI-Reallaboren
+      (Art. 58 KI-VO); Konsultation 02.12.2025-30.12.2025 bzw. 06.01.2026
+    url: https://digitalpolicyalert.org/change/17333-implementing-regulation-on-ai-regulatory-sandboxes
+    sprache: EN
+    verifiziert: true
+    hinweis: NOCH NICHT ERLASSEN (Stand 27.08.2026). EDSB-Formalbemerkungen vom 06.03.2026.
+    typ_original: Entwurf Durchfuehrungsverordnung (Konsultation)
+  - datum: 2026-03-06
+    typ: stellungnahme
+    titel: EDPS formal comments on the draft Commission Implementing Regulation on the operation and supervision
+      of AI regulatory sandboxes
+    url: https://www.edps.europa.eu/system/files/2026-03/06-03-2026_formal_comments_operation_supervision_ai_sandboxes_en.pdf
+    sprache: EN
+    verifiziert: true
+    typ_original: Formalbemerkungen EDSB
+  - datum: 2025-02-04
+    typ: leitlinie
+    titel: Leitlinien zu verbotenen KI-Praktiken (Art. 5 KI-VO)
+    url: https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act
+    sprache: EN
+    verifiziert: false
+    hinweis: Datum Februar 2025 aus offizieller Übersicht bestätigt; genaues Tagesdatum und C(2025)-Nummer
+      nicht abgerufen.
+    typ_original: Leitlinien der Kommission
+  - datum: 2025-02-06
+    typ: leitlinie
+    titel: Leitlinien zur Definition eines KI-Systems (Art. 3 Nr. 1 KI-VO)
+    url: https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application
+    sprache: EN
+    verifiziert: false
+    hinweis: Datum Februar 2025 aus offizieller Übersicht bestätigt.
+    typ_original: Leitlinien der Kommission
+  - datum: 2025-07-18
+    typ: leitlinie
+    titel: Leitlinien zum Anwendungsbereich der Pflichten für Anbieter von KI-Modellen mit allgemeinem
+      Verwendungszweck (GPAI)
+    url: https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-general-purpose-ai-models-entering-application-2-august-2025
+    sprache: EN
+    verifiziert: false
+    hinweis: Juli 2025 aus offizieller Übersicht bestätigt.
+    typ_original: Leitlinien der Kommission
+  - datum: 2026-07-01
+    typ: leitlinie
+    titel: Leitlinien zu den Transparenzpflichten für Anbieter und Betreiber bestimmter KI-Systeme (Art.
+      50 KI-VO)
+    url: https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content
+    sprache: EN
+    verifiziert: false
+    hinweis: 'Offizielle Übersicht nennt ''Juli 2026'' als Veröffentlichung der Endfassung; genaues Tagesdatum
+      nicht ermittelbar. Entwurf war vom 08.05.2026 bis 03.06.2026 in Konsultation.
+
+      '
+    typ_original: Leitlinien der Kommission (Endfassung)
+  - datum: 2026-05-19
+    typ: leitlinie
+    titel: Entwurf von Leitlinien zur Einstufung von Hochrisiko-KI-Systemen (Art. 6 KI-VO) — gezielte
+      Konsultation 19.05.2026 bis 23.07.2026
+    url: https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems
+    sprache: EN
+    verifiziert: true
+    hinweis: ENDFASSUNG STEHT AUS. Gesetzliche Frist nun 02.08.2027 (Art. 6 Abs. 5).
+    typ_original: Leitlinien der Kommission (ENTWURF)
+  - datum: 2025-09-26
+    typ: leitlinie
+    titel: Entwurf von Leitlinien und Meldeformular zur Meldung schwerwiegender Vorfälle (Art. 73 KI-VO);
+      Konsultation bis 07.11.2025
+    url: https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks
+    sprache: EN
+    verifiziert: true
+    hinweis: ENDFASSUNG STEHT AUS (Stand 27.08.2026).
+    typ_original: Leitlinien der Kommission (ENTWURF) + Meldeformular
+  - datum: 2025-11-04
+    typ: leitlinie
+    titel: Meldeformular für schwerwiegende Vorfälle bei GPAI-Modellen mit systemischem Risiko (Art. 55
+      KI-VO)
+    url: https://digital-strategy.ec.europa.eu/en/library/ai-act-commission-publishes-reporting-template-serious-incidents-involving-general-purpose-ai
+    sprache: EN
+    verifiziert: true
+    typ_original: Meldeformular
+  - datum: 2025-07-10
+    typ: leitlinie
+    titel: General-Purpose AI Code of Practice (Kapitel Transparenz, Urheberrecht, Sicherheit und Schutz)
+    url: https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai
+    sprache: EN
+    verifiziert: true
+    typ_original: Verhaltenskodex
+  - datum: 2025-07-24
+    typ: leitlinie
+    titel: Template for the public summary of training content (Art. 53 Abs. 1 lit. d KI-VO)
+    url: https://digital-strategy.ec.europa.eu/en/library/template-public-summary-training-content-general-purpose-ai-models
+    sprache: EN
+    verifiziert: false
+    hinweis: Juli 2025 bestätigt; Tagesdatum nicht geprüft.
+    typ_original: Vorlage
+  - datum: 2026-07-01
+    typ: leitlinie
+    titel: Code of Practice on Marking and Labelling of AI-Generated Content — von der Kommission als
+      'adäquat' bestätigt (Juli 2026), einschließlich Icon-Set
+    url: https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content
+    sprache: EN
+    verifiziert: false
+    hinweis: Adäquanzbestätigung 'Juli 2026' aus Sekundärquelle; Tagesdatum offen.
+    typ_original: Verhaltenskodex
+  fristen:
+  - durchfuehrungs-und-delegierte-rechtsakte-ki-vo-f1
+  offene_punkte:
+  - Durchführungsverordnung zu KI-Reallaboren (Art. 58) noch nicht erlassen, obwohl MS bis 02.08.2027
+    Reallabore betreiben müssen.
+  - Kein delegierter Rechtsakt nach Art. 7 (Änderung Anhang III), Art. 11 (technische Dokumentation),
+    Art. 43, Art. 47, Art. 51 (GPAI-Schwellenwerte), Art. 96.
+  - Endfassungen der Leitlinien zu Art. 6 und Art. 73 ausstehend.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+  - https://ai-act-service-desk.ec.europa.eu/
+  - https://digital-strategy.ec.europa.eu/en/consultations
+  - https://ec.europa.eu/info/law/better-regulation/have-your-say
+  regelungsschwerpunkte:
+  - 'BEFUND: Bis 27.08.2026 ist erst EIN förmlicher Durchführungsrechtsakt zur KI-VO im ABl. erschienen
+    (VO 2025/454, wissenschaftliches Gremium).'
+  - KEIN delegierter Rechtsakt zur KI-VO ist bisher erlassen.
+  - Die Steuerung erfolgt bislang überwiegend über rechtlich unverbindliche Leitlinien und Verhaltenskodizes.
+  status_detail: Teilweise erlassen; wesentliche Rechtsakte stehen aus
+  themenachsen:
+  - marktzugang
+  - gpai
+  - governance
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: gpai-code-of-practice
+  kurztitel: GPAI Code of Practice
+  offizieller_titel: General-Purpose AI Code of Practice (Verhaltenskodex nach Art. 56 KI-VO)
+  fundstelle: https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai
+  celex: null
+  verfahrensnummer: null
+  status: softlaw
+  inkrafttreten:
+    datum: 2025-08-02
+    verifiziert: true
+    quelle: https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai
+    fundstelle_norm: Der Kodex (veröffentlicht am 10.07.2025) hat keine eigene Inkrafttretensvorschrift.
+      Maßgeblich wird er mit dem Geltungsbeginn des Kapitels V der KI-VO am 02.08.2025 (Art. 113 UAbs.
+      2 lit. b VO (EU) 2024/1689).
+  anwendungsdaten:
+  - datum: 2025-08-02
+    was_gilt: GPAI-Pflichten (Kap. V) gelten; Code als Nachweisinstrument.
+    verifiziert: true
+  - datum: 2026-08-02
+    was_gilt: Durchsetzungsbefugnisse der Kommission gegenüber GPAI-Anbietern (Art. 101 Geldbußen) werden
+      wirksam.
+    verifiziert: true
+  dokumente:
+  - datum: 2025-07-10
+    typ: leitlinie
+    titel: General-Purpose AI Code of Practice — Volltext und Kapitel
+    url: https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai
+    sprache: EN
+    verifiziert: true
+    typ_original: Verhaltenskodex
+  - datum: 2026-01-30
+    typ: uebersicht
+    titel: Signatory Taskforce — konstituierende Sitzung
+    url: https://digital-strategy.ec.europa.eu/en/policies/signatory-taskforce-gpai-code-practice
+    sprache: EN
+    verifiziert: true
+    typ_original: Gremium
+  - datum: 2026-07-17
+    typ: uebersicht
+    titel: 'Signatory Taskforce — 4. Sitzung (weitere: 13.03.2026 Urheberrecht, 27.03.2026 Safety & Security)'
+    url: https://digital-strategy.ec.europa.eu/en/policies/signatory-taskforce-gpai-code-practice
+    sprache: EN
+    verifiziert: true
+    typ_original: Gremium
+  unterzeichner:
+    stand: 2026-08-27
+    vollstaendig_unterzeichnet:
+    - AI Studio Delta
+    - Aleph Alpha
+    - Almawave
+    - Amazon
+    - Anthropic
+    - Black Forest Labs
+    - Bria AI
+    - Cohere
+    - Domyn
+    - Dweve
+    - Fastweb
+    - Google
+    - IBM
+    - LINAGORA
+    - Microsoft
+    - Mistral AI
+    - Open Hippo
+    - OpenAI
+    - Pleias
+    - ServiceNow
+    - WRITER
+    teilweise:
+    - name: xAI
+      umfang: nur Kapitel Safety and Security
+    anzahl_vollstaendig: 21
+    verifiziert: true
+    hinweis: Meta hat den Kodex nicht unterzeichnet (öffentlich bekannt, hier nicht primärquellenverifiziert).
+  fristen: []
+  offene_punkte:
+  - Verhältnis Kodex-Konformität zu Art. 101-Geldbußen ab 02.08.2026 in der Praxis ungeklärt.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai
+  - https://digital-strategy.ec.europa.eu/en/policies/signatory-taskforce-gpai-code-practice
+  regelungsschwerpunkte:
+  - 'Drei Kapitel: Transparenz, Urheberrecht, Sicherheit und Schutz (Safety & Security)'
+  - Signatory Taskforce unter Vorsitz des KI-Büro
+  status_detail: Veröffentlicht 10.07.2025; von Kommission und KI-Board als adäquates freiwilliges Instrument
+    bestätigt; Signatory Taskforce arbeitet
+  themenachsen:
+  - gpai
+  - urheberrecht
+  - governance
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+- id: harmonisierte-normen-jtc21
+  kurztitel: Harmonisierte Normen / CEN-CENELEC JTC 21
+  offizieller_titel: Normungsauftrag M/593 (geändert durch M/613) an CEN und CENELEC zur Unterstützung
+    der KI-VO
+  fundstelle: https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/
+  celex: null
+  verfahrensnummer: M/593; Aenderung M/613
+  status: softlaw
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+  anwendungsdaten: []
+  normen_stand_2026_06:
+  - nummer: EN 18286
+    titel: Quality management system for EU AI Act regulatory purposes
+    stufe: Formal Vote / Approval
+    erwartet: Q4 2026
+    verifiziert: true
+  - nummer: prEN 18228
+    titel: AI risk management
+    stufe: Enquiry
+    erwartet: Q4 2026
+    verifiziert: true
+  - nummer: prEN 18229-1
+    titel: 'AI trustworthiness framework — Part 1: Logging'
+    stufe: Enquiry
+    erwartet: Q4 2026
+    verifiziert: true
+  - nummer: prEN 18282
+    titel: Cybersecurity specifications for AI systems
+    stufe: Enquiry
+    erwartet: Q4 2026
+    verifiziert: true
+  - nummer: prEN 18229-2
+    titel: 'AI trustworthiness framework — Part 2: Accuracy and robustness'
+    stufe: Drafting
+    erwartet: offen
+    verifiziert: true
+  - nummer: prEN 18229-3
+    titel: 'AI trustworthiness framework — Part 3: Transparency and human oversight'
+    stufe: Drafting
+    erwartet: offen
+    verifiziert: true
+  - nummer: prEN 18283
+    titel: Concepts, measures and requirements for managing bias in AI systems
+    stufe: Drafting (früheste Stufe)
+    erwartet: nach Q4 2026
+    verifiziert: true
+  - nummer: prEN 18284
+    titel: Quality and governance of datasets in AI
+    stufe: Drafting
+    erwartet: offen
+    verifiziert: true
+  - nummer: prEN 18285
+    titel: Conformity assessment framework
+    stufe: Drafting
+    erwartet: offen
+    verifiziert: true
+  dokumente:
+  - datum: 2025-10-23
+    typ: abstimmung
+    titel: Update on CEN and CENELEC's Decision to Accelerate the Development of Standards for Artificial
+      Intelligence
+    url: https://www.cencenelec.eu/news-events/news/2025/brief-news/2025-10-23-ai-standardization/
+    sprache: EN
+    verifiziert: true
+    typ_original: Beschluss der Technischen Boards
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: EU AI Act — Harmonised standards map (Stufen, Zitierstatus)
+    url: https://ai-act-standards.com/
+    sprache: EN
+    verifiziert: true
+    typ_original: Normungs-Tracker
+  - datum: 2026-08-27
+    typ: norm
+    titel: CEN-CENELEC JTC 21 — Arbeitsprogramm und Deliverables
+    url: https://jtc21.eu/
+    sprache: EN
+    verifiziert: false
+    typ_original: Arbeitsprogramm
+  fristen:
+  - harmonisierte-normen-jtc21-f1
+  offene_punkte:
+  - Nach Fertigstellung folgt noch die Bewertung durch die Kommission (HAS-Consultants) und die ABl.-Zitierung
+    — realistisch nicht vor 2027.
+  - Ohne harmonisierte Normen bleiben Anbieter auf gemeinsame Spezifikationen nach Art. 41 KI-VO angewiesen;
+    solche existieren bisher nicht.
+  monitoring_quellen:
+  - https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/
+  - https://ai-act-standards.com/
+  - https://jtc21.eu/
+  - https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards_en
+  regelungsschwerpunkte:
+  - Ohne ABl.-Zitierung keine Konformitätsvermutung nach Art. 40 KI-VO
+  - 'CEN/CENELEC haben am 14.-16.10.2025 ein ''außergewöhnliches Massnahmenpaket'' beschlossen: Direktveröffentlichung
+    nach positiver Umfrage ohne separate Schlussabstimmung (Art. 11.2 Interne Regeln)'
+  - 'Zielhorizont für Schlüsselnormen: Q4 2026'
+  status_detail: KRITISCH VERZÖGERT — kein einziger Standard im ABl. zitiert (Stand 27.08.2026); keine
+    Konformitätsvermutung verfügbar
+  themenachsen:
+  - governance
+  - marktzugang
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: governance-ki-buero-board-gremien
+  kurztitel: KI-Büro, KI-Board, Wissenschaftliches Gremium, Beratungsforum
+  offizieller_titel: Governance-Struktur nach Kapitel VII KI-VO
+  fundstelle: https://digital-strategy.ec.europa.eu/en/policies/ai-office
+  celex: null
+  verfahrensnummer: null
+  status: anwendbar
+  inkrafttreten:
+    datum: 2025-08-02
+    verifiziert: true
+  anwendungsdaten: []
+  dokumente:
+  - datum: 2024-01-24
+    typ: abstimmung
+    titel: Beschluss der Kommission zur Einrichtung des Europäischen KI-Büro
+    url: https://digital-strategy.ec.europa.eu/en/library/commission-decision-establishing-european-ai-office
+    sprache: EN
+    verifiziert: false
+    hinweis: Datum 24.01.2024 aus Erinnerung/Sekundärquelle — VOR ZITIERUNG PRÜFEN.
+    typ_original: Kommissionsbeschluss
+  - datum: 2025-03-07
+    typ: delegiert
+    titel: Durchführungsverordnung (EU) 2025/454 — wissenschaftliches Gremium (Art. 68)
+    url: https://eur-lex.europa.eu/eli/reg_impl/2025/454/oj/deu
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Durchfuehrungsverordnung
+  - datum: 2026-06-01
+    typ: pressemitteilung
+    titel: AI Act enforcement gets independent expert support — Benennung von 60 Sachverständigen im wissenschaftlichen
+      Gremium und der Mitglieder des Beratungsforums
+    url: https://digital-strategy.ec.europa.eu/en/news/ai-act-enforcement-gets-independent-expert-support
+    sprache: EN
+    verifiziert: true
+    typ_original: Pressemitteilung / Benennung
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: AI Act Scientific Panel — Mitgliederliste, Aufgaben
+    url: https://digital-strategy.ec.europa.eu/en/policies/ai-scientific-panel
+    sprache: EN
+    verifiziert: true
+    typ_original: Uebersichtsseite
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: AI Act Advisory Forum
+    url: https://digital-strategy.ec.europa.eu/en/policies/ai-advisory-forum
+    sprache: EN
+    verifiziert: false
+    typ_original: Uebersichtsseite
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: European AI Office
+    url: https://digital-strategy.ec.europa.eu/en/policies/ai-office
+    sprache: EN
+    verifiziert: true
+    typ_original: Uebersichtsseite
+  fristen: []
+  offene_punkte:
+  - Vorsitz und stellvertretender Vorsitz des wissenschaftlichen Gremiums werden von den Mitgliedern nominiert
+    und von der Kommission ausgewählt — Stand offen.
+  - Erste Sitzung des wissenschaftlichen Gremiums nicht dokumentiert.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/ai-office
+  - https://digital-strategy.ec.europa.eu/en/policies/ai-scientific-panel
+  - https://digital-strategy.ec.europa.eu/en/policies/ai-advisory-forum
+  regelungsschwerpunkte:
+  - 'KI-Büro (DG CNECT): > 125 Mitarbeitende, sechs Referate (A1 Excellence in AI and Robotics, A2 Regulation
+    and Compliance, A3 AI Safety, A4 AI Innovation and Policy Coordination, A5 AI for Societal Good, A6
+    AI in Health and Life Science) plus Lead Scientific Adviser und International Affairs Adviser'
+  - 'Erweiterte Befugnisse durch VO (EU) 2026/1744: Art. 75 neu, Art. 75a-75d (Inspektionen, Versiegelung,
+    Zwangsgelder bis 5 % Tagesumsatz); KI-Büro als Marktüberwachungsbehörde für VLOP/VLOSE'
+  - 'Wissenschaftliches Gremium: 60 unabhängige Sachverständige, 24 Monate, verlängerbar; max. 3 Staatsangehörige
+    je Land; Geschlechterbalance'
+  - 'Beratungsforum: benannt am 01.06.2026'
+  status_detail: Operativ; Gremien seit 01.06.2026 vollständig besetzt
+  themenachsen:
+  - governance
+  - marktzugang
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: produkthaftungsrichtlinie-2024-2853
+  kurztitel: Neue Produkthaftungsrichtlinie (PLD)
+  offizieller_titel: 'Richtlinie (EU) 2024/2853 des Europäischen Parlaments und des Rates vom 23. Oktober
+    2024 über die Haftung für fehlerhafte Produkte und zur Aufhebung der Richtlinie 85/374/EWG des Rates
+
+    '
+  fundstelle: ABl. L, 2024/2853, 18.11.2024
+  celex: 32024L2853
+  eli: http://data.europa.eu/eli/dir/2024/2853/oj
+  verfahrensnummer: 2022/0302(COD)
+  status: verabschiedet
+  inkrafttreten:
+    datum: 2024-12-08
+    verifiziert: true
+  anwendungsdaten:
+  - datum: 2026-12-09
+    was_gilt: 'Umsetzungsfrist für die Mitgliedstaaten (Art. 22). Zugleich gilt die Richtlinie nur für
+      Produkte, die NACH dem 09.12.2026 in Verkehr gebracht oder in Betrieb genommen werden (Art. 2 Abs.
+      1). Richtlinie 85/374/EWG wird mit Wirkung vom 09.12.2026 aufgehoben (Art. 21).
+
+      '
+    verifiziert: true
+  dokumente:
+  - datum: 2024-11-18
+    typ: endfassung
+    titel: Richtlinie (EU) 2024/2853 — Volltext
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024L2853
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Richtlinientext
+  - datum: 2022-09-28
+    typ: entwurf
+    titel: COM(2022) 495 final — Vorschlag für eine Richtlinie über die Haftung für fehlerhafte Produkte
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52022PC0495
+    sprache: DE/EN
+    verifiziert: false
+    typ_original: Kommissionsvorschlag
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Procedure file 2022/0302(COD)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0302(COD)
+    sprache: EN
+    verifiziert: false
+    typ_original: Verfahrensakte
+  - datum: 2026-08-27
+    typ: bericht
+    titel: BMJV — Gesetz zur Modernisierung des Produkthaftungsrechts (Umsetzungsfrist 09.12.2026)
+    url: https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/DE/2025_Produkthaftung.html
+    sprache: DE
+    verifiziert: true
+    typ_original: Nationale Umsetzung DE
+  - datum: 2025-01-01
+    typ: entwurf
+    titel: Referentenentwurf des BMJ — Gesetz zur Modernisierung des Produkthaftungsrechts
+    url: https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_Produkthaftung.pdf?__blob=publicationFile&v=2
+    sprache: DE
+    verifiziert: false
+    hinweis: Datum des RefE nicht ermittelt.
+    typ_original: Referentenentwurf DE
+  - datum: 2026-02-25
+    typ: bericht
+    titel: BT-Drs. 21/4297 vom 25.02.2026 (Produkthaftungsrecht)
+    url: https://dserver.bundestag.de/btd/21/042/2104297.pdf
+    sprache: DE
+    verifiziert: false
+    hinweis: Aus Suchtreffer; Inhalt nicht abgerufen.
+    typ_original: Bundestagsdrucksache DE
+  fristen:
+  - produkthaftungsrichtlinie-2024-2853-f1
+  offene_punkte:
+  - Deutsches Umsetzungsgesetz zum Rechercheschluss noch nicht verkündet — Fristablauf 09.12.2026 in gut
+    drei Monaten.
+  - Verhältnis Art. 9/10 PLD (Offenlegung, Vermutungen) zu den Dokumentationspflichten der KI-VO praktisch
+    ungeklärt.
+  monitoring_quellen:
+  - https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/DE/2025_Produkthaftung.html
+  - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024L2853
+  - https://eur-lex.europa.eu/legal-content/DE/NIM/?uri=CELEX:32024L2853 (nationale Umsetzungsmassnahmen)
+  regelungsschwerpunkte:
+  - Software (einschließlich KI-Systemen) ist ausdrücklich 'Produkt' i. S. d. Richtlinie
+  - Fehlerbegriff erfasst Selbstlernverhalten, Cybersicherheitslücken und unterbliebene Updates
+  - 'Beweiserleichterungen: Offenlegungspflicht (Art. 9) und widerlegbare Vermutungen (Art. 10) bei technischer/wissenschaftlicher
+    Komplexität'
+  - 'Erweiterter Schadensbegriff: Datenverlust/-korruption, medizinisch anerkannte psychische Gesundheitsschäden'
+  - Wegfall der Selbstbehalte/Höchstgrenzen; verlängerte Ausschlussfrist (25 Jahre bei Spätschäden)
+  - Schließt DIE LÜCKE, die die Rücknahme der KI-Haftungsrichtlinie hinterlässt
+  status_detail: In Kraft seit 08.12.2024; Umsetzungsfrist läuft
+  themenachsen:
+  - haftung
+  - marktzugang
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: ki-haftungsrichtlinie-zurueckgezogen
+  kurztitel: KI-Haftungsrichtlinie (AILD) — ZURÜCKGEZOGEN
+  offizieller_titel: 'Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Anpassung
+    der Vorschriften über außervertragliche Haftung an künstliche Intelligenz (Richtlinie über KI-Haftung)
+
+    '
+  fundstelle: COM(2022) 496 final, 28.09.2022
+  celex: 52022PC0496
+  verfahrensnummer: 2022/0303(COD)
+  status: gescheitert
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+  anwendungsdaten: []
+  dokumente:
+  - datum: 2022-09-28
+    typ: entwurf
+    titel: COM(2022) 496 final — AI Liability Directive
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52022PC0496
+    sprache: DE/EN
+    verifiziert: false
+    typ_original: Kommissionsvorschlag
+  - datum: 2025-10-06
+    typ: endfassung
+    titel: Rücknahme von Vorschlägen der Kommission — ABl. C/2025/5423
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:C_202505423
+    sprache: DE/EN
+    verifiziert: false
+    hinweis: Referenz C/2025/5423 und Datum 06.10.2025 aus EP Legislative Train verifiziert; ABl.-URL
+      nicht abgerufen.
+    typ_original: Ruecknahme (ABl. C)
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: AI liability directive — Statusseite des EP
+    url: https://www.europarl.europa.eu/legislative-train/theme-a-europe-fit-for-the-digital-age/file-ai-liability-directive
+    sprache: EN
+    verifiziert: true
+    typ_original: Legislative Train
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Procedure file 2022/0303(COD)
+    url: https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0303(COD)
+    sprache: EN
+    verifiziert: false
+    typ_original: Verfahrensakte
+  fristen: []
+  offene_punkte:
+  - EDSB Wiewiorowski hat KI-Haftung (insb. außervertragliche Haftung, Art. 25 KI-VO) als klärungsbedürftig
+    bezeichnet; gemeinsame Leitlinien EDSA/Kommission zur DSGVO-KI-VO-Schnittstelle angekündigt.
+  - 'Beobachten: mögliche Wiederaufnahme im Rahmen der Evaluierung der PLD oder eines Digital Fairness
+    Act.'
+  monitoring_quellen:
+  - https://www.europarl.europa.eu/legislative-train/theme-a-europe-fit-for-the-digital-age/file-ai-liability-directive
+  - https://commission.europa.eu/strategy-documents/commission-work-programme_de
+  regelungsschwerpunkte:
+  - 'Vorgesehen waren: Offenlegungsanordnung für Beweismittel zu Hochrisiko-KI (Art. 3) und widerlegbare
+    Kausalitätsvermutung (Art. 4)'
+  - 'Ankündigung der Rücknahme im Arbeitsprogramm der Kommission 2025 (11.02.2025) — Begründung: ''keine
+    absehbare Einigung'''
+  - 'IMCO-Stellungnahme (Mai 2025): Annahme einer AILD ''verfrüht und nicht erforderlich''; Aufforderung
+    an JURI, Ablehnung vorzuschlagen'
+  - JURI-Berichterstatter Axel Voss (EVP) hatte sich gegen die Rücknahme gewandt
+  - KEINE Nachfolgeinitiative angekündigt (Stand 27.08.2026)
+  - 'Regelungslücke wird faktisch aufgefangen durch: PLD (EU) 2024/2853, nationales Delikts-/Vertragsrecht,
+    Art. 25 KI-VO (Verantwortlichkeiten in der Wertschöpfungskette), Art. 82 DSGVO'
+  status_detail: ZURÜCKGEZOGEN. Förmliche Rücknahme im ABl. C/2025/5423 vom 06.10.2025.
+  themenachsen:
+  - haftung
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: dsgvo-schnittstelle
+  kurztitel: DSGVO / KI-Schnittstelle
+  offizieller_titel: Verordnung (EU) 2016/679 (DSGVO), insbesondere Art. 22, Art. 5, Art. 6, Art. 9, Art.
+    35
+  fundstelle: ABl. L 119 vom 4.5.2016, S. 1
+  celex: 32016R0679
+  verfahrensnummer: 2012/0011(COD)
+  status: anwendbar
+  inkrafttreten:
+    datum: 2016-05-24
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679
+    fundstelle_norm: Art. 99 Abs. 1 VO (EU) 2016/679 (zwanzigster Tag nach Veröffentlichung im ABl. L
+      119 vom 4.5.2016)
+  anwendungsdaten:
+  - datum: 2018-05-25
+    was_gilt: Anwendbarkeit der DSGVO (Art. 99 Abs. 2).
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679
+  dokumente:
+  - datum: 2024-12-17
+    typ: stellungnahme
+    titel: Opinion 28/2024 on certain data protection aspects related to the processing of personal data
+      in the context of AI models
+    url: https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf
+    sprache: EN
+    verifiziert: true
+    hinweis: Genaues Annahmedatum (17.12.2024) nicht primärquellenverifiziert.
+    typ_original: Stellungnahme EDSA
+  - datum: 2024-07-16
+    typ: bericht
+    titel: Statement 3/2024 on data protection authorities' role in the AI Act framework
+    url: https://www.edpb.europa.eu/system/files/2024-07/edpb_statement_202403_dpasroleaiact_en.pdf
+    sprache: EN
+    verifiziert: true
+    hinweis: Datum 16.07.2024 nicht primärquellenverifiziert.
+    typ_original: Erklaerung EDSA
+  - datum: 2021-06-18
+    typ: stellungnahme
+    titel: EDPB-EDPS Joint Opinion 5/2021 zum KI-VO-Vorschlag
+    url: https://www.edps.europa.eu/system/files/2021-06/2021-06-18-edpb-edps_joint_opinion_ai_regulation_en.pdf
+    sprache: EN
+    verifiziert: true
+    typ_original: Gemeinsame Stellungnahme
+  - datum: 2026-01-21
+    typ: stellungnahme
+    titel: EDPB-EDPS Joint Opinion 1/2026 zum Digital Omnibus on AI
+    url: https://www.edpb.europa.eu/system/files/2026-01/edpb_edps_jointopinion_202601_proposal_ai-omnibus_en.pdf
+    sprache: EN
+    verifiziert: true
+    typ_original: Gemeinsame Stellungnahme
+  - datum: 2026-02-11
+    typ: stellungnahme
+    titel: EDPB-EDPS Joint Opinion 2/2026 zum Digital Omnibus (Daten/DSGVO)
+    url: https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion_en
+    sprache: EN
+    verifiziert: false
+    typ_original: Gemeinsame Stellungnahme
+  fristen: []
+  offene_punkte:
+  - 'ANGEKÜNDIGT, NOCH NICHT ERSCHIENEN: gemeinsame Leitlinien EDSA/Kommission zum Zusammenspiel DSGVO
+    und KI-VO (vom EDSB für ''Anfang 2026'' angekündigt, Stand 27.08.2026 nicht veröffentlicht).'
+  - Ausgang des Digital Omnibus (Daten) entscheidet über Rechtsgrundlage für KI-Training.
+  monitoring_quellen:
+  - https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en
+  - https://www.edps.europa.eu/data-protection/our-work/publications_en
+  - https://curia.europa.eu/
+  regelungsschwerpunkte:
+  - 'Art. 22 DSGVO: Verbot ausschließlich automatisierter Einzelentscheidungen mit rechtlicher/ähnlicher
+    Wirkung; EuGH C-634/21 (SCHUFA, 07.12.2023) weitet ''Entscheidung'' auf Scoring aus'
+  - 'Rechtsgrundlage für KI-Training: berechtigtes Interesse (Art. 6 Abs. 1 lit. f) — EDSA Opinion 28/2024'
+  - 'Anonymität von Modellen: EDSA verneint pauschale Anonymität; Einzelfallprüfung'
+  - Art. 10 Abs. 5 KI-VO als Erlaubnistatbestand für besondere Kategorien zur Bias-Erkennung; erweitert
+    durch neuen Art. 4a KI-VO (VO 2026/1744) auf ALLE KI-Systeme unter Maßstab der 'unbedingten Erforderlichkeit'
+  - DSFA (Art. 35 DSGVO) neben Grundrechte-Folgenabschätzung (Art. 27 KI-VO)
+  status_detail: In Kraft; Änderung durch Digital Omnibus 2025/0360(COD) vorgeschlagen (offen)
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+- id: dsm-richtlinie-tdm-urheberrecht-ki
+  kurztitel: DSM-RL Art. 3/4 (TDM) und KI-Urheberrecht
+  offizieller_titel: 'Richtlinie (EU) 2019/790 des Europäischen Parlaments und des Rates vom 17. April
+    2019 über das Urheberrecht und die verwandten Schutzrechte im digitalen Binnenmarkt und zur Änderung
+    der Richtlinien 96/9/EG und 2001/29/EG
+
+    '
+  fundstelle: ABl. L 130 vom 17.5.2019, S. 92
+  celex: 32019L0790
+  verfahrensnummer: 2016/0280(COD)
+  status: anwendbar
+  inkrafttreten:
+    datum: 2019-06-06
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32019L0790
+    fundstelle_norm: Art. 31 RL (EU) 2019/790 (zwanzigster Tag nach Veröffentlichung im ABl. L 130 vom
+      17.5.2019)
+  anwendungsdaten:
+  - datum: 2021-06-07
+    was_gilt: Umsetzungsfrist der Mitgliedstaaten.
+    verifiziert: false
+  dokumente:
+  - datum: 2019-05-17
+    typ: endfassung
+    titel: Richtlinie (EU) 2019/790 (DSM-RL)
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790
+    sprache: DE/EN
+    verifiziert: false
+    typ_original: Richtlinientext
+  - datum: 2026-01-28
+    typ: bericht
+    titel: 'A10-0019/2026 — Bericht über Urheberrecht und generative künstliche Intelligenz: Chancen und
+      Herausforderungen (JURI, Berichterstatter Axel Voss), Verfahren 2025/2058(INI)'
+    url: https://www.europarl.europa.eu/doceo/document/A-10-2026-0019_EN.html
+    sprache: EN
+    verifiziert: true
+    kernforderungen:
+    - Angemessene Vergütung für Rechteinhaber bei GenAI-Training; Ablehnung pauschaler globaler Lizenzen
+    - Standardisierte, maschinenlesbare Opt-out-Formate; EUIPO als vertrauenswürdiger Intermediär/Opt-out-Register
+    - Detaillierte Offenlegung der genutzten Werke (Training, Inferenz, RAG)
+    - Prüfung eines eigenen Rechtsrahmens KI/Urheberrecht, ggf. mit widerlegbarer Verletzungsvermutung
+      bei Transparenzverstößen
+    typ_original: EP-Initiativbericht
+  - datum: 2025-12-01
+    typ: konsultation
+    titel: Konsultation zu maschinenlesbaren, standardisierten Protokollen für den TDM-Vorbehalt nach
+      Art. 4 Abs. 3 DSM-RL (im Kontext Art. 53 Abs. 1 lit. c KI-VO); Frist 09.01.2026
+    url: https://www.insideprivacy.com/artificial-intelligence/european-commission-launches-consultations-on-the-eu-ai-acts-copyright-provisions-and-ai-regulatory-sandboxes/
+    sprache: EN
+    verifiziert: true
+    typ_original: Konsultation (abgeschlossen)
+  - datum: 2026-05-18
+    typ: konsultation
+    titel: Überprüfung der EU-Urheberrechtsvorschriften — Call for evidence und Konsultation, Frist 25.06.2026;
+      adressiert generative KI, Lizenzierung, Rechtedurchsetzung, Vergütung
+    url: https://digital-strategy.ec.europa.eu/en/news/commission-seeks-views-review-eu-copyright-rules
+    sprache: EN
+    verifiziert: true
+    typ_original: Konsultation / Sondierung (abgeschlossen)
+  fristen: []
+  offene_punkte:
+  - Ob und wann die Kommission einen 'gezielten Rechtsakt zu Urheberrecht und KI' vorlegt, ist offen —
+    keine Verfahrensnummer, kein Datum.
+  - Auswertung der Konsultation vom Mai/Juni 2026 steht aus.
+  - Kollektive Lizenzierungsmodelle für GenAI-Training werden diskutiert, aber nicht normiert.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/copyright
+  - https://ec.europa.eu/info/law/better-regulation/have-your-say
+  - https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2058(INI)
+  regelungsschwerpunkte:
+  - 'Art. 3 DSM-RL: TDM-Ausnahme für wissenschaftliche Forschung (nicht abdingbar)'
+  - 'Art. 4 DSM-RL: allgemeine TDM-Ausnahme mit maschinenlesbarem Opt-out (Art. 4 Abs. 3) — Kern der Debatte
+    um KI-Training'
+  - 'Art. 53 Abs. 1 lit. c KI-VO: GPAI-Anbieter müssen eine Urheberrechts-Policy einführen, die Art. 4
+    Abs. 3 DSM-RL respektiert'
+  - 'Art. 53 Abs. 1 lit. d KI-VO: öffentliche Zusammenfassung der Trainingsinhalte'
+  - 'Deutschland: Paragraph 44b UrhG (TDM), Paragraph 60d UrhG (Forschung); LG Hamburg, Urt. v. 27.09.2024
+    — 310 O 227/23 (LAION)'
+  status_detail: In Kraft; Umsetzung in DE über Paragraphen 44b, 60d UrhG. Überprüfung durch die Kommission
+    läuft; möglicher Rechtsakt zu KI und Urheberrecht.
+  themenachsen:
+  - urheberrecht
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+- id: data-act-2023-2854
+  kurztitel: Data Act
+  offizieller_titel: 'Verordnung (EU) 2023/2854 des Europäischen Parlaments und des Rates vom 13. Dezember
+    2023 über harmonisierte Vorschriften für einen fairen Datenzugang und eine faire Datennutzung sowie
+    zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie (EU) 2020/1828 (Datenverordnung)
+
+    '
+  fundstelle: ABl. L, 2023/2854, 22.12.2023
+  celex: 32023R2854
+  verfahrensnummer: 2022/0047(COD)
+  status: anwendbar
+  inkrafttreten:
+    datum: 2024-01-11
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R2854
+    fundstelle_norm: Art. 50 UAbs. 1 VO (EU) 2023/2854 (zwanzigster Tag nach Veröffentlichung im ABl.
+      L, 2023/2854 vom 22.12.2023)
+  anwendungsdaten:
+  - datum: 2025-09-12
+    was_gilt: 'Allgemeiner Geltungsbeginn (Art. 50 UAbs. 2: "Sie gilt ab dem 12. September 2025").'
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R2854
+  - datum: 2026-09-12
+    was_gilt: Art. 3 Abs. 1 (Datenzugang "by design") gilt für vernetzte Produkte und verbundene Dienste,
+      die nach dem 12.09.2026 in Verkehr gebracht werden (Art. 50 UAbs. 3).
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R2854
+  - datum: 2027-01-12
+    was_gilt: Wegfall der Wechselentgelte für Cloud-Switching (Art. 29).
+    verifiziert: false
+  dokumente:
+  - datum: 2023-12-22
+    typ: endfassung
+    titel: Verordnung (EU) 2023/2854 — Volltext
+    url: https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Verordnungstext
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Data Act — Kommission
+    url: https://digital-strategy.ec.europa.eu/en/policies/data-act
+    sprache: EN
+    verifiziert: false
+    typ_original: Politikseite
+  fristen:
+  - data-act-2023-2854-f1
+  offene_punkte:
+  - Konsolidierung von Data Act, DGA und Open-Data-RL im Digital Omnibus offen.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/data-act
+  regelungsschwerpunkte:
+  - 'KI-Relevanz: Zugang zu IoT-/Nutzungsdaten als Trainings- und Betriebsdatenquelle'
+  - 'Kapitel VI: Cloud-Switching — relevant für KI-Infrastruktur'
+  - 'Kapitel VIII: Interoperabilität und Datenräume'
+  - Schutz von Geschäftsgeheimnissen bei Datenzugang (Art. 4 Abs. 6 ff.)
+  status_detail: Anwendbar seit 12.09.2025; Änderungen durch Digital Omnibus (2025/0360) vorgeschlagen
+  themenachsen:
+  - vertrag
+  - wettbewerb
+  - datenschutz
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+- id: data-governance-act-2022-868
+  kurztitel: Data Governance Act (DGA)
+  offizieller_titel: 'Verordnung (EU) 2022/868 des Europäischen Parlaments und des Rates vom 30. Mai 2022
+    über europäische Daten-Governance und zur Änderung der Verordnung (EU) 2018/1724 (Daten-Governance-Rechtsakt)
+
+    '
+  fundstelle: ABl. L 152 vom 3.6.2022, S. 1
+  celex: 32022R0868
+  verfahrensnummer: 2020/0340(COD)
+  status: anwendbar
+  inkrafttreten:
+    datum: 2022-06-23
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32022R0868
+    fundstelle_norm: Art. 38 UAbs. 1 VO (EU) 2022/868 (zwanzigster Tag nach Veröffentlichung im ABl. L
+      152 vom 3.6.2022)
+  anwendungsdaten:
+  - datum: 2023-09-24
+    was_gilt: 'Volle Anwendbarkeit (Art. 38 UAbs. 2: "Sie gilt ab dem 24. September 2023").'
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32022R0868
+  - datum: 2025-09-24
+    was_gilt: 'Ende der Übergangsfrist des Art. 37 Abs. 2: Anbieter, die am 23.06.2022 bereits Datenvermittlungsdienste
+      erbrachten, müssen die Pflichten des Kapitels III erfüllen.'
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32022R0868
+  dokumente:
+  - datum: 2022-06-03
+    typ: endfassung
+    titel: Verordnung (EU) 2022/868 — Volltext
+    url: https://eur-lex.europa.eu/eli/reg/2022/868/oj/deu
+    sprache: DE/EN
+    verifiziert: false
+    typ_original: Verordnungstext
+  fristen: []
+  offene_punkte:
+  - Konsolidierung im Digital Omnibus (2025/0360) vorgeschlagen.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/data-governance-act
+  regelungsschwerpunkte:
+  - 'KI-Relevanz: Weiterverwendung geschützter Daten des öffentlichen Sektors als Trainingsdatenquelle'
+  - Datenvermittlungsdienste (Notifizierungspflicht) und Datenaltruismus
+  - Grundlage für europäische Datenräume (Health Data Space etc.)
+  status_detail: Anwendbar seit 24.09.2023
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+- id: dsa-2022-2065
+  kurztitel: Digital Services Act (DSA)
+  offizieller_titel: 'Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober
+    2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG (Gesetz
+    über digitale Dienste)
+
+    '
+  fundstelle: ABl. L 277 vom 27.10.2022, S. 1
+  celex: 32022R2065
+  verfahrensnummer: 2020/0361(COD)
+  status: anwendbar
+  inkrafttreten:
+    datum: 2022-11-16
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32022R2065
+    fundstelle_norm: Art. 93 Abs. 1 VO (EU) 2022/2065 (zwanzigster Tag nach Veröffentlichung im ABl. L
+      277 vom 27.10.2022)
+  anwendungsdaten:
+  - datum: 2022-11-16
+    was_gilt: Vorgezogener Geltungsbeginn für Art. 24 Abs. 2, 3 und 6, Art. 33 Abs. 3 bis 6, Art. 37 Abs.
+      7, Art. 40 Abs. 13 sowie Kapitel IV Abschnitte 4, 5 und 6 (Art. 93 Abs. 2 UAbs. 2) — Grundlage der
+      VLOP/VLOSE-Benennungen.
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32022R2065
+  - datum: 2023-08-25
+    was_gilt: Pflichten für benannte VLOP/VLOSE.
+    verifiziert: false
+  - datum: 2024-02-17
+    was_gilt: Volle Anwendbarkeit für alle Vermittlungsdienste.
+    verifiziert: true
+  dokumente:
+  - datum: 2022-10-27
+    typ: endfassung
+    titel: Verordnung (EU) 2022/2065 — Volltext
+    url: https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Verordnungstext
+  fristen: []
+  offene_punkte:
+  - Abgrenzung DSA-Risikominderung / KI-VO-Pflichten bei generativer KI auf Plattformen.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package
+  regelungsschwerpunkte:
+  - 'KI-Relevanz: Empfehlungssysteme (Art. 27, 38), Risikobewertung und -minderung für systemische Risiken
+    einschließlich generativer KI (Art. 34/35)'
+  - Datenzugang für Forschende (Art. 40) — Delegierte VO zum Datenzugang
+  - 'NEU durch VO (EU) 2026/1744: Das KI-Büro wird Marktüberwachungsbehörde nach KI-VO für VLOP/VLOSE
+    — Bündelung der Aufsicht'
+  - Dark Patterns (Art. 25), Werbetransparenz (Art. 26/39)
+  status_detail: Voll anwendbar seit 17.02.2024
+  themenachsen:
+  - content
+  - grundrechte
+  - wettbewerb
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+- id: dma-2022-1925
+  kurztitel: Digital Markets Act (DMA)
+  offizieller_titel: 'Verordnung (EU) 2022/1925 des Europäischen Parlaments und des Rates vom 14. September
+    2022 über bestreitbare und faire Märkte im digitalen Sektor und zur Änderung der Richtlinien (EU)
+    2019/1937 und (EU) 2020/1828 (Gesetz über digitale Märkte)
+
+    '
+  fundstelle: ABl. L 265 vom 12.10.2022, S. 1
+  celex: 32022R1925
+  verfahrensnummer: 2020/0374(COD)
+  status: anwendbar
+  inkrafttreten:
+    datum: 2022-11-01
+    verifiziert: true
+  anwendungsdaten:
+  - datum: 2023-05-02
+    was_gilt: Anwendbarkeit.
+    verifiziert: false
+  - datum: 2024-03-07
+    was_gilt: Compliance-Frist der benannten Gatekeeper.
+    verifiziert: false
+  dokumente:
+  - datum: 2022-10-12
+    typ: endfassung
+    titel: Verordnung (EU) 2022/1925 — Volltext
+    url: https://eur-lex.europa.eu/eli/reg/2022/1925/oj/deu
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Verordnungstext
+  fristen: []
+  offene_punkte:
+  - Ergebnis des DMA-Review zur Einbeziehung von KI-Diensten offen.
+  monitoring_quellen:
+  - https://digital-markets-act.ec.europa.eu/
+  regelungsschwerpunkte:
+  - 'KI-Relevanz: Bislang keine ausdrückliche Erfassung von KI-Assistenten/Cloud-KI als zentrale Plattformdienste;
+    Überprüfung der Dienstliste läuft'
+  - Selbstbevorzugung (Art. 6 Abs. 5), Datenkombination (Art. 5 Abs. 2), Interoperabilität (Art. 6 Abs.
+    7)
+  - 'DMA-Review 2026: Debatte um Einbeziehung generativer KI-Dienste'
+  status_detail: In Kraft seit 01.11.2022; anwendbar seit 02.05.2023; Compliance-Pflichten der Gatekeeper
+    seit 07.03.2024
+  themenachsen:
+  - wettbewerb
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: cyber-resilience-act-2024-2847
+  kurztitel: Cyber Resilience Act (CRA)
+  offizieller_titel: 'Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober
+    2024 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung
+    der Verordnungen (EU) Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienzgesetz)
+
+    '
+  fundstelle: ABl. L, 2024/2847, 20.11.2024
+  celex: 32024R2847
+  verfahrensnummer: 2022/0272(COD)
+  status: teilanwendbar
+  inkrafttreten:
+    datum: 2024-12-10
+    verifiziert: true
+  anwendungsdaten:
+  - datum: 2026-06-11
+    was_gilt: Pflichten für notifizierende Behörden / Konformitätsbewertungsstellen (Kapitel IV).
+    verifiziert: false
+  - datum: 2026-09-11
+    was_gilt: 'Meldepflichten der Hersteller (Art. 14): aktiv ausgenutzte Schwachstellen und schwerwiegende
+      Sicherheitsvorfälle — Frühwarnung binnen 24 h, Meldung binnen 72 h, Abschlussbericht binnen 14 Tagen.'
+    verifiziert: true
+  - datum: 2027-12-11
+    was_gilt: Volle Anwendung aller übrigen Pflichten (grundlegende Cybersicherheitsanforderungen, Konformitätsbewertung,
+      CE).
+    verifiziert: true
+  dokumente:
+  - datum: 2024-11-20
+    typ: endfassung
+    titel: Verordnung (EU) 2024/2847 — Volltext
+    url: https://eur-lex.europa.eu/eli/reg/2024/2847/oj/deu
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Verordnungstext
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Cyber Resilience Act — Fristen und Meldepflichten
+    url: https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
+    sprache: EN
+    verifiziert: true
+    typ_original: Politikseite
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Cyber Resilience Act — Reporting obligations
+    url: https://digital-strategy.ec.europa.eu/en/policies/cra-reporting
+    sprache: EN
+    verifiziert: false
+    typ_original: Politikseite
+  fristen:
+  - cyber-resilience-act-2024-2847-f1
+  - cyber-resilience-act-2024-2847-f2
+  offene_punkte:
+  - Harmonisierte Normen zum CRA ebenfalls verzögert.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
+  regelungsschwerpunkte:
+  - 'Schnittstelle zur KI-VO: Art. 15 KI-VO (Genauigkeit, Robustheit, Cybersicherheit); Hochrisiko-KI-Systeme,
+    die zugleich Produkte mit digitalen Elementen sind, gelten bei CRA-Konformität als konform mit Art.
+    15 KI-VO (Art. 12 CRA)'
+  - Ein CE-Kennzeichen, kombinierte Konformitätsbewertung
+  - Support-Zeitraum und Sicherheitsupdates — Bezug zur PLD (Fehlerbegriff)
+  status_detail: In Kraft seit 10.12.2024; gestaffelte Anwendung
+  themenachsen:
+  - sicherheit-export
+  - marktzugang
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27
+- id: maschinenverordnung-2023-1230
+  kurztitel: Maschinenverordnung
+  offizieller_titel: 'Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates vom 14. Juni
+    2023 über Maschinen und zur Aufhebung der Richtlinie 2006/42/EG des Europäischen Parlaments und des
+    Rates und der Richtlinie 73/361/EWG des Rates
+
+    '
+  fundstelle: ABl. L 165 vom 29.6.2023, S. 1
+  celex: 32023R1230
+  verfahrensnummer: 2021/0105(COD)
+  status: teilanwendbar
+  inkrafttreten:
+    datum: 2023-07-19
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R1230
+    fundstelle_norm: Art. 54 UAbs. 1 VO (EU) 2023/1230 (zwanzigster Tag nach Veröffentlichung im ABl.
+      L 165 vom 29.6.2023)
+  anwendungsdaten:
+  - datum: 2023-07-13
+    was_gilt: Vorgezogener Geltungsbeginn für Art. 6 Abs. 7, Art. 48 und Art. 52 (Art. 54 UAbs. 3 lit.
+      c).
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R1230
+  - datum: 2023-10-14
+    was_gilt: Art. 50 Abs. 1 (Notifizierung der Konformitätsbewertungsstellen) gilt (Art. 54 UAbs. 3 lit.
+      b).
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R1230
+  - datum: 2024-01-14
+    was_gilt: Art. 26 bis 42 (Notifizierung und Benannte Stellen) gelten (Art. 54 UAbs. 3 lit. a).
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R1230
+  - datum: 2024-07-14
+    was_gilt: Art. 6 Abs. 2 bis 6 und 11 sowie Art. 47 und Art. 53 Abs. 3 gelten (Art. 54 UAbs. 3 lit.
+      d).
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R1230
+  - datum: 2027-01-14
+    was_gilt: 'Volle Anwendung der Maschinenverordnung; Ablösung der Maschinenrichtlinie 2006/42/EG (Art.
+      54 UAbs. 2: "Sie gilt ab dem 14. Januar 2027").'
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R1230
+  dokumente:
+  - datum: 2023-06-29
+    typ: endfassung
+    titel: Verordnung (EU) 2023/1230 — Volltext
+    url: https://eur-lex.europa.eu/eli/reg/2023/1230/oj/deu
+    sprache: DE/EN
+    verifiziert: false
+    typ_original: Verordnungstext
+  - datum: 2026-07-24
+    typ: delegiert
+    titel: Art. 3 der VO (EU) 2026/1744 — Änderung der Maschinen-VO
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:L_202601744
+    sprache: DE/EN
+    verifiziert: true
+    typ_original: Aenderungsrechtsakt
+  fristen:
+  - maschinenverordnung-2023-1230-f1
+  - maschinenverordnung-2023-1230-f2
+  monitoring_quellen:
+  - https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/machinery_en
+  regelungsschwerpunkte:
+  - Sicherheitsbauteile mit selbstentwickelndem Verhalten sind in Anhang I Teil A (Hochrisiko-Maschinenprodukte)
+    gelistet
+  - 'ÄNDERUNG DURCH VO (EU) 2026/1744: Maschinen-VO wird in Anhang I der KI-VO von Abschnitt A nach Abschnitt
+    B verschoben — d. h. sektorspezifischer Ansatz: die Hochrisiko-Anforderungen der KI-VO werden per
+    delegiertem Rechtsakt (Frist 02.08.2028) in Anhang III der Maschinen-VO integriert'
+  - 'Folge: EINE Konformitätsbewertung für KI-gestützte Maschinenkomponenten statt zweier paralleler Verfahren'
+  - 'Brückenregel: bis zur Verabschiedung eigener harmonisierter Normen können Hersteller die Normen der
+    KI-VO für die Konformitätsvermutung heranziehen'
+  status_detail: In Kraft; anwendbar ab 20.01.2027; geändert durch VO (EU) 2026/1744
+  themenachsen:
+  - marktzugang
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+  offene_punkte:
+  - Zwischen 14.01.2027 (volle Anwendung Maschinen-VO) und 02.08.2028 (Anhang-I-Hochrisikopflichten der
+    KI-VO) besteht eine Regelungslücke für KI-Sicherheitsbauteile.
+- id: mdr-ivdr-ki-schnittstelle
+  kurztitel: MDR / IVDR und KI
+  offizieller_titel: 'Verordnung (EU) 2017/745 über Medizinprodukte (MDR) und Verordnung (EU) 2017/746
+    über In-vitro-Diagnostika (IVDR)
+
+    '
+  fundstelle: ABl. L 117 vom 5.5.2017
+  celex: 32017R0745 / 32017R0746
+  verfahrensnummer: 2012/0266(COD) / 2012/0267(COD)
+  status: anwendbar
+  inkrafttreten:
+    datum: 2017-05-25
+    verifiziert: true
+    quelle: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32017R0745
+    fundstelle_norm: Art. 123 Abs. 1 VO (EU) 2017/745 (MDR) — zwanzigster Tag nach Veröffentlichung im
+      ABl. L 117 vom 5.5.2017. Die IVDR (VO (EU) 2017/746) trat am selben Tag in Kraft (Art. 113 Abs.
+      1 IVDR).
+  anwendungsdaten:
+  - datum: 2021-05-26
+    was_gilt: MDR anwendbar.
+    verifiziert: false
+  - datum: 2022-05-26
+    was_gilt: IVDR anwendbar.
+    verifiziert: false
+  dokumente:
+  - datum: 2025-12-16
+    typ: entwurf
+    titel: COM(2025) 1023 final — Reform von MDR und IVDR
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:52025PC1023
+    sprache: DE/EN
+    verifiziert: false
+    hinweis: COM-Nummer und Datum aus Kanzleianalyse (Gleiss Lutz) verifiziert; EUR-Lex-URL nicht abgerufen.
+    typ_original: Kommissionsvorschlag
+  - datum: 2026-05-07
+    typ: bericht
+    titel: Radical simplification of the MDR and IVDR and broad inapplicability of the AI Act to medical
+      devices and IVDs (Gleiss Lutz)
+    url: https://www.gleisslutz.com/en/know-how/radical-simplification-mdr-and-ivdr-and-broad-inapplicability-ai-act-medical-devices-and-ivds
+    sprache: EN
+    verifiziert: true
+    typ_original: Analyse zum Verhandlungsergebnis
+  fristen: []
+  offene_punkte:
+  - 'Förmliche Verabschiedung der MDR/IVDR-Reform steht aus; Verfahrensnummer nicht ermittelt (verifiziert:
+    false).'
+  - Erlass der Durchführungsrechtsakte nach VO 2026/1744 zur Begrenzung der KI-VO-Anwendbarkeit offen.
+  monitoring_quellen:
+  - https://health.ec.europa.eu/medical-devices-sector_en
+  - https://oeil.europarl.europa.eu/oeil/en/home
+  regelungsschwerpunkte:
+  - MDR/IVDR sind in Anhang I Abschnitt A der KI-VO gelistet — KI-basierte Medizinprodukte sind Hochrisiko-KI
+    (ab 02.08.2028)
+  - 'KOMMISSIONSVORSCHLAG COM(2025) 1023 final (16.12.2025): Medizinprodukte und IVD sollten von Abschnitt
+    A nach Abschnitt B verschoben werden — damit wären die materiellen KI-VO-Anforderungen weitgehend
+    entfallen'
+  - 'ERGEBNIS DES AI-OMNIBUS (Kompromiss 07.05.2026): Medizinprodukte werden NICHT verschoben. Stattdessen
+    kann die Kommission die Anwendbarkeit der KI-VO per DURCHFÜHRUNGSRECHTSAKT begrenzen, soweit MDR/IVDR
+    gleichwertigen Schutz bieten — bedingte statt pauschaler Ausnahme'
+  - Doppelte Konformitätsbewertung (benannte Stelle nach MDR + KI-VO) bleibt vorerst
+  status_detail: In Kraft; Reformvorschlag COM(2025) 1023 final vom 16.12.2025 in Verhandlung
+  themenachsen:
+  - sektor-medizin
+  - marktzugang
+  jurisdiktion: eu
+  letzte_pruefung: 2026-09-05
+- id: ai-continent-apply-ai
+  kurztitel: AI Continent Action Plan / Apply AI Strategy / AI Factories
+  offizieller_titel: 'Mitteilung der Kommission "AI Continent Action Plan" (2025) und Mitteilung "Apply
+    AI Strategy" (2025); AI Factories / AI Gigafactories im Rahmen des EuroHPC-Gemeinsamen Unternehmens
+
+    '
+  fundstelle: COM(2025) 165 final (AI Continent, 09.04.2025); COM(2025) 723 final (Apply AI)
+  celex: 52025DC0723 (Apply AI)
+  verfahrensnummer: nicht-legislativ (Mitteilungen)
+  status: softlaw
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+  anwendungsdaten: []
+  dokumente:
+  - datum: 2025-04-09
+    typ: pressemitteilung
+    titel: AI Continent Action Plan — COM(2025) 165 final
+    url: https://digital-strategy.ec.europa.eu/en/factpages/ai-continent-action-plan
+    sprache: EN
+    verifiziert: false
+    hinweis: COM-Nummer 165 final und Datum 09.04.2025 NICHT primärquellenverifiziert.
+    typ_original: Mitteilung
+  - datum: 2025-10-08
+    typ: pressemitteilung
+    titel: Apply AI Strategy — CELEX 52025DC0723
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52025DC0723
+    sprache: DE/EN
+    verifiziert: true
+    hinweis: CELEX verifiziert; Tagesdatum 08.10.2025 aus Kommissions-Newsroom, nicht primärquellenverifiziert.
+    typ_original: Mitteilung
+  - datum: 2025-10-08
+    typ: leitlinie
+    titel: Questions and answers on the Apply AI Strategy
+    url: https://ec.europa.eu/commission/presscorner/detail/en/qanda_25_2300
+    sprache: EN
+    verifiziert: false
+    typ_original: Q&A der Kommission
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Apply AI Strategy — Kommission
+    url: https://digital-strategy.ec.europa.eu/en/policies/apply-ai
+    sprache: EN
+    verifiziert: true
+    typ_original: Politikseite
+  - datum: 2026-08-27
+    typ: uebersicht
+    titel: Cloud and AI Development Act (CADA)
+    url: https://digital-strategy.ec.europa.eu/en/policies/cloud-and-ai-development-act
+    sprache: EN
+    verifiziert: true
+    hinweis: COM-Nummer, Verfahrensnummer und Stand des CADA konnten NICHT ermittelt werden.
+    typ_original: Politikseite
+  fristen: []
+  offene_punkte:
+  - 'CADA: COM-Nummer, Verfahrensnummer und Verfahrensstand offen — vorrangig nachzurecherchieren.'
+  - AI Continent Action Plan COM-Nummer bestätigen.
+  monitoring_quellen:
+  - https://digital-strategy.ec.europa.eu/en/policies/apply-ai
+  - https://commission.europa.eu/topics/competitiveness/ai-continent_en
+  - https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-ai-continent-action-plan
+  regelungsschwerpunkte:
+  - 'Rechtlich relevanteste Bausteine: AI Act Service Desk (Art. 62 KI-VO-Umfeld, zentrale Auskunftsstelle),
+    KI-Reallabore, Apply AI Alliance, AI Observatory'
+  - '''AI First Policy'': KI als Standardoption bei strategischen Entscheidungen'
+  - 'Zehn Sektoren: Gesundheit, Mobilität, Robotik, Fertigung, Klima, Energie, Agrar-/Lebensmittel, Verteidigung/Sicherheit/Raumfahrt,
+    Kommunikation, Kultur-/Kreativ-/Medienwirtschaft'
+  - AI Factories und AI Gigafactories (EuroHPC) — Rechenkapazität, Beihilfe- und Vergaberechtsfragen
+  - Cloud and AI Development Act (CADA) als geplanter Rechtsakt
+  - AI in Science Strategy (RAISE)
+  status_detail: Politische Strategien, rechtlich nicht bindend; teilweise Grundlage für Rechtsakte (CADA)
+  themenachsen:
+  - governance
+  - wettbewerb
+  jurisdiktion: eu
+  letzte_pruefung: 2026-08-27

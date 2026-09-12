@@ -1,0 +1,88 @@
+name: Tracker
+
+# In dieser Fassung ist der Zeitplan abgeschaltet: der Lauf ist im
+# Arbeitsrepo eingerichtet, wo die Zugangsdaten hinterlegt sind. Hier
+# bleibt er von Hand ausloesbar, damit der Aufbau nachvollziehbar ist.
+on:
+  # schedule:
+  #   # Zweimal taeglich. Der Morgenlauf liegt so, dass Europa den Vortag
+  #   # abgeschlossen hat.
+  #   - cron: "0 6,18 * * *"
+  workflow_dispatch:
+    inputs:
+      alle:
+        description: "Alle Quellen abrufen, Intervalle ignorieren"
+        type: boolean
+        default: false
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  lauf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: {python-version: "3.12"}
+      - run: pip install pyyaml
+
+      - name: Quellen abrufen
+        env:
+          NTFY_TOPIC:      ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN:      ${{ secrets.NTFY_TOKEN }}
+          PUSHOVER_TOKEN:  ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER:   ${{ secrets.PUSHOVER_USER }}
+          KEY_US_COURTLISTENER_API: ${{ secrets.KEY_US_COURTLISTENER_API }}
+          KEY_US_CONGRESS_API:      ${{ secrets.KEY_DATA_GOV }}
+          KEY_US_GOVINFO_API:       ${{ secrets.KEY_DATA_GOV }}
+          KEY_US_REGULATIONS_GOV_API: ${{ secrets.KEY_DATA_GOV }}
+          KEY_US_LEGISCAN_API:      ${{ secrets.KEY_US_LEGISCAN_API }}
+          KEY_DE_BUNDESTAG_DIP_API: ${{ secrets.KEY_DE_BUNDESTAG_DIP_API }}
+        run: python3 tracker/watch.py ${{ inputs.alle && '--alle' || '' }}
+
+      - name: Literatur suchen
+        env:
+          NTFY_TOPIC:     ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN:     ${{ secrets.NTFY_TOKEN }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER:  ${{ secrets.PUSHOVER_USER }}
+          KONTAKT_MAIL:   ${{ secrets.KONTAKT_MAIL }}
+        run: python3 tracker/literatur.py
+
+      - name: Fristen prüfen
+        env:
+          NTFY_TOPIC:     ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN:     ${{ secrets.NTFY_TOKEN }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER:  ${{ secrets.PUSHOVER_USER }}
+        run: python3 tracker/fristen.py
+
+      - name: Ergebnisse sichern
+        run: |
+          # Die offizielle Kennung des Actions-Bots, nicht irgendeine erfundene.
+          #
+          # Merksatz: in der alten GitHub-Schreibweise <name>@users.noreply.
+          # github.com liest GitHub den <name> als Kontonamen und schreibt den
+          # Commit diesem Konto zu. Eine hier frei gewaehlte Kennung landet
+          # also bei irgendeinem echten Menschen. Nie erfinden - nur die
+          # numerische Bot-Adresse unten oder die eigene.
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # -A statt einer Pfadliste: Fehlt auch nur einer der genannten
+          # Pfade, fuegt git gar nichts hinzu — und tracker/eingang/ gibt
+          # es erst, wenn der erste Treffer da ist. Ohne das bleibt der
+          # Zustand ungespeichert, und jeder Lauf waere wieder ein Erstlauf.
+          git add -A tracker/
+          echo "--- Was gesichert wird ---"
+          git status --short tracker/
+          if git diff --staged --quiet; then
+            echo "Nichts zu sichern."
+          else
+            git commit -m "Tracker $(date -u +%Y-%m-%d\ %H:%M)"
+            git push
+          fi

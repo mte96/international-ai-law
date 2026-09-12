@@ -1,0 +1,363 @@
+fristen:
+- datum: offen (Entwurf; Bestätigung des Erarbeitungsstands 20.04.2026)
+  id: asien-latam-termin-t1
+  beschreibung: 'CHINA — Der Oberste Volksgerichtshof (最高人民法院) erarbeitet ein Dokument mit dem Arbeitstitel
+    "Meinung über die rechtmäßige und sachgerechte Behandlung von Zivilsachen mit Bezug zu künstlicher
+    Intelligenz" (关于依法妥善审理涉人工智能纠纷民事案件的意见). Das Vorhaben ist auf der Pressekonferenz des Gerichts zur Woche
+    des geistigen Eigentums am 20.04.2026 amtlich bestätigt worden: Der Bericht zur Pressekonferenz gibt
+    Vizepräsidentin Tao Kaiyuan (陶凯元) mit der Aussage wieder, das Gericht arbeite mit Nachdruck an dem
+    Entwurf ("最高人民法院正在抓紧起草关于依法妥善审理涉人工智能纠纷案件的意见"). Ein Veröffentlichungstermin ist nicht genannt. Zum 05.09.2026
+    ist weder eine justizielle Auslegung (司法解释) noch ein Leitfall (指导性案例) speziell zur künstlichen Intelligenz
+    erlassen. DAS IST DIE WICHTIGSTE OFFENE FRIST DIESER DATEI.
+
+    '
+  urteil: cn-2025-suzhou-berufung
+  jurisdiktion: cn
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.court.gov.cn/zixun/xiangqing/497931.html
+  fundstelle_norm: 'Kein Stichtag. Amtlich belegt ist allein der Erarbeitungsstand: Bericht des Obersten
+    Volksgerichtshofs über die Pressekonferenz zur Woche des geistigen Eigentums vom 20.04.2026 (Vizepräsidentin
+    Tao Kaiyuan)'
+- datum: offen
+  id: asien-latam-termin-t2
+  beschreibung: 'INDIEN — High Court of Delhi, Hauptsacheverfahren ANI Media Pvt. Ltd. ./. Open AI OPCO
+    LLC, CS(COMM) 1028/2024. Nach Abweisung des Antrags auf einstweilige Verfügung durch Beschluss vom
+    24.07.2026 bleiben Memorisierung, substanzielle Übernahme in den Ausgaben und die Frage der öffentlichen
+    Wiedergabe durch Live-Abruf (Sec. 2(ff) Copyright Act 1957) für die Hauptsache offen. Ein Rechtsmittel
+    gegen den Beschluss ist zum 05.09.2026 nicht bekannt; ein Termin für die Hauptsache ist nicht veröffentlicht.
+
+    '
+  urteil: in-2026-ani-openai
+  jurisdiktion: in
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://indiankanoon.org/doc/93327052/
+  fundstelle_norm: Kein Stichtag. Bezugspunkt ist der Beschluss des High Court of Delhi vom 24.07.2026
+    in CS(COMM) 1028/2024 über den Antrag auf einstweilige Verfügung
+- datum: offen
+  id: asien-latam-termin-t3
+  beschreibung: 'JAPAN — Bezirksgericht Tokio, Nikkei Inc. und The Asahi Shimbun Company ./. Perplexity
+    AI, Inc. (Klage vom 26.08.2025) sowie The Yomiuri Shimbun ./. Perplexity AI, Inc. Erste gerichtliche
+    Auslegung des Art. 30-4 japanisches Urheberrechtsgesetz und seiner Ausnahmeklausel zu erwarten. Ein
+    Termin ist nicht zu ermitteln: Japanische Gerichte veröffentlichen zu anhängigen Zivilverfahren weder
+    Terminlisten noch Verfahrensstände; amtlich zugänglich wird erst die Entscheidung über die Entscheidungsdatenbank
+    der Gerichte (裁判例検索). Dort ist zum 05.09.2026 keine Entscheidung eingestellt.
+
+    '
+  urteil: jp-2025-nikkei-asahi-perplexity
+  jurisdiktion: jp
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.courts.go.jp/app/hanrei_jp/search1
+  fundstelle_norm: Kein Stichtag. Amtlicher Beobachtungspunkt ist die Entscheidungsdatenbank der japanischen
+    Gerichte; anhängige Verfahren werden dort nicht geführt
+- datum: offen
+  id: asien-latam-termin-t4
+  beschreibung: 'SÜDKOREA — Oberster Gerichtshof (대법원), Revision Thaler, Aktenzeichen 2024두45177. Letzter
+    noch offener DABUS-Instanzenzug weltweit. Vorinstanzen: Verwaltungsgericht Seoul (Urteil vom 30.06.2023,
+    Bestätigung der Zurückweisung der Anmeldung mit einer KI als Erfinder) und Obergericht Seoul, das
+    die erstinstanzliche Entscheidung bestätigt hat. Ein Verkündungstermin ist nicht veröffentlicht; der
+    koreanische Oberste Gerichtshof gibt Termine anhängiger Revisionen nicht bekannt.
+
+    '
+  urteil: kr-2024-dabus-obergericht
+  jurisdiktion: kr
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.kipo.go.kr/ko/kpoContentView.do?menuCd=SCD0201238
+  fundstelle_norm: Kein Stichtag. Amtliche Darstellung des Verfahrensgangs beim koreanischen Amt für geistiges
+    Eigentum (Erstinstanzliches Urteil vom 30.06.2023); Revisionsverfahren 2024두45177 beim Obersten Gerichtshof
+    anhängig
+- datum: offen
+  id: asien-latam-termin-t5
+  beschreibung: 'SÜDKOREA — Zentrales Bezirksgericht Seoul, 2025가합5105, drei Rundfunkveranstalter ./.
+    NAVER. Erste Anwendung der koreanischen fair-use-Generalklausel (Art. 35-5 UrhG) auf Trainingsdaten.
+    Ein Termin ist amtlich nicht zu ermitteln: Die Verfahrensauskunft (나의 사건검색) des Gerichts setzt Aktenzeichen
+    und Parteinamen voraus und ist nicht öffentlich abrufbar; Terminlisten werden nicht veröffentlicht.
+
+    '
+  urteil: kr-2025-rundfunk-naver
+  jurisdiktion: kr
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://seoul.scourt.go.kr/
+  fundstelle_norm: Kein Stichtag. Amtlicher Beobachtungspunkt ist die Verfahrensauskunft des Zentralen
+    Bezirksgerichts Seoul zum Aktenzeichen 2025가합5105
+- datum: 2026-01-22 (in Kraft) / Vollzugsschonfrist nach Ankündigung des Ministeriums
+  id: asien-latam-termin-t6
+  beschreibung: 'SÜDKOREA — Das KI-Rahmengesetz (인공지능 발전과 신뢰 기반 조성 등에 관한 기본법, AI Framework Act), Gesetz
+    Nr. 20676, wurde am 21.01.2025 verkündet und ist nach seiner Ergänzungsbestimmung ein Jahr später,
+    am 22.01.2026, in Kraft getreten; das amtliche Rechtsinformationszentrum führt es mit dem Vermerk
+    [시행 2026. 1. 22.]. Die Durchführungsverordnung ist zum selben Tag in Kraft gesetzt worden. Die vielfach
+    genannte einjährige Vollzugsschonfrist ohne Bußgelder (계도기간) steht NICHT im Gesetz: Sie beruht auf
+    einer Ankündigung des Ministeriums für Wissenschaft und IKT aus dem Dezember 2025 ("mindestens ein
+    Jahr") und ließ sich an einer amtlichen Bekanntmachung nicht nachweisen — die einschlägige Pressemitteilung
+    verweist auf einen Anhang, der nicht abrufbar war. Erste Vollzugsentscheidungen sind daher frühestens
+    2027 zu erwarten, ohne dass dafür ein gesetzlicher Stichtag bestünde.
+
+    '
+  urteil: kr-2025-rundfunk-naver
+  jurisdiktion: kr
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://www.law.go.kr/lsInfoP.do?lsiSeq=268543
+  fundstelle_norm: '인공지능 발전과 신뢰 기반 조성 등에 관한 기본법, Gesetz Nr. 20676 vom 21.01.2025, Ergänzungsbestimmung
+    (부칙) zum Inkrafttreten: [시행 2026. 1. 22.]. Für die Vollzugsschonfrist besteht keine Norm'
+- datum: 2026-07-15 (in Kraft)
+  id: asien-latam-termin-t7
+  beschreibung: 'CHINA — Interimsmaßnahmen zur Verwaltung anthropomorpher interaktiver KI-Dienste (人工智能拟人化互动服务管理暂行办法),
+    am 10.04.2026 gemeinsam von fünf Behörden erlassen (Staatliches Internetinformationsamt, Nationale
+    Entwicklungs- und Reformkommission, Ministerium für Industrie und Informationstechnologie, Ministerium
+    für öffentliche Sicherheit, Staatliche Marktaufsichtsverwaltung) und nach ihrem Art. 32 seit dem 15.07.2026
+    in Kraft. Pflichten: wirksame Hinweise, dass der Nutzer mit einem KI-Dienst und nicht mit einem Menschen
+    interagiert; Inhaltssicherheit einschließlich des Verbots von Inhalten, die zu Selbstschädigung anleiten
+    oder emotionale Abhängigkeit erzeugen; Risikomanagement mit Erkennung extremer Gefühlslagen und Noteingriffen;
+    besonderer Minderjährigenschutz (keine virtuellen Familien- oder Liebesbeziehungen für Minderjährige,
+    Einwilligung der Sorgeberechtigten unter 14 Jahren, verpflichtender Minderjährigenmodus mit Nutzungszeitgrenzen);
+    Sicherheitsbewertung und Meldung an die Provinzbehörden ab einer Million registrierter oder 100.000
+    monatlich aktiver Nutzer. Erste Streitigkeiten zu Begleit-Chatbots sind zu erwarten.
+
+    '
+  urteil: cn-2024-ultraman-gz
+  jurisdiktion: cn
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm
+  fundstelle_norm: 'Art. 32 der 人工智能拟人化互动服务管理暂行办法: "本办法自2026年7月15日起施行"; erlassen am 10.04.2026 von fünf
+    Behörden, amtliche Veröffentlichung durch das Staatliche Internetinformationsamt'
+- datum: 2026-03-20 (erlassen; veröffentlicht 02.04.2026)
+  id: asien-latam-termin-t8
+  beschreibung: 'CHINA — Maßnahmen für die wissenschaftlich-technische Ethikprüfung und die zugehörigen
+    Dienstleistungen im Bereich künstliche Intelligenz (Versuch) (人工智能科技伦理审查与服务办法（试行）), erlassen als 工信部联科〔2026〕75号
+    gemeinsam von zehn Stellen unter Federführung des Ministeriums für Industrie und Informationstechnologie.
+    DATUM PRÄZISIERT: Die Mitteilung trägt das Ausfertigungsdatum 20.03.2026, die amtlichen Metadaten
+    nennen den 30.03.2026 als Erstellungs- und den 02.04.2026 als Veröffentlichungsdatum. Die frühere
+    Angabe "in Kraft seit 20.03.2026" verwechselt das Erlassdatum mit einem Inkrafttretenstag; ein gesonderter
+    Inkrafttretenstag ist im amtlichen Text der Mitteilung nicht ausgewiesen und ließ sich auch aus den
+    amtlichen Erläuterungen nicht ermitteln. Inhalt: Verfahren der Ethikprüfung von KI-Tätigkeiten (Antrag,
+    Annahme, allgemeines, vereinfachtes oder Eilverfahren, Expertennachprüfung für die Tätigkeiten der
+    Nachprüfungsliste, Entscheidung, Beschwerde, Nachverfolgung in Abständen von höchstens zwölf, bei
+    Listentätigkeiten sechs Monaten). Art. 26 nimmt Tätigkeiten aus, die bereits Registrierungs-, Anzeige-
+    oder Genehmigungsverfahren zu Deep Synthesis, Algorithmenempfehlung oder generativer KI unterliegen;
+    Art. 32 verweist für Verstöße auf Cybersicherheitsgesetz, Datensicherheitsgesetz, Gesetz zum Schutz
+    personenbezogener Informationen und Wissenschaftsfortschrittsgesetz.
+
+    '
+  urteil: cn-2024-ultraman-gz
+  jurisdiktion: cn
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_2995f16b28504ddcbb604e918eb15759.html
+  fundstelle_norm: 'Mitteilung des Ministeriums für Industrie und Informationstechnologie und neun weiterer
+    Stellen über den Erlass der 人工智能科技伦理审查与服务办法（试行）, 工信部联科〔2026〕75号, ausgefertigt am 20.03.2026, amtliche
+    Metadaten: 成文日期 30.03.2026, 发布日期 02.04.2026; ein eigener Inkrafttretenstag ist nicht ausgewiesen'
+- datum: 2026 (Gesetzgebungsplan des Staatsrats, 国办发〔2026〕14号 vom 08.05.2026)
+  id: asien-latam-termin-t9
+  beschreibung: 'CHINA — Der Gesetzgebungsarbeitsplan des Staatsrats für 2026 (国务院2026年度立法工作计划, erlassen
+    als 国办发〔2026〕14号 am 08.05.2026) nennt die KI-Gesetzgebung ausdrücklich: Unter der Rubrik zur beschleunigten
+    wissenschaftlich-technischen Eigenständigkeit heißt es, die KI-Governance sei zu vervollständigen
+    und eine umfassende Gesetzgebung für die gesunde Entwicklung der künstlichen Intelligenz beschleunigt
+    voranzutreiben ("完善人工智能治理，加快推进人工智能健康发展综合性立法"); ergänzend soll die Gesetzgebung zu den gemeinsamen
+    Elementen Daten, Rechenleistung, Algorithmen, Eigentumsrechte, Netzsicherheit und Lieferkettensicherheit
+    sowie zu wichtigen Anwendungsszenarien vervollständigt werden. Ein KI-Gesetz war bereits in den Plänen
+    2024 und 2025 vorgesehen, ist aber bis zum 05.09.2026 nicht erlassen. Der Plan setzt keinen Stichtag,
+    sondern nur ein Arbeitsziel für das Kalenderjahr.
+
+    '
+  urteil: cn-2023-li-liu
+  jurisdiktion: cn
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://www.mee.gov.cn/zcwj/gwywj/202605/t20260514_1152263.shtml
+  fundstelle_norm: '国务院2026年度立法工作计划, Mitteilung des Büros des Staatsrats 国办发〔2026〕14号 vom 08.05.2026,
+    Abschnitt zur wissenschaftlich-technischen Eigenständigkeit: "完善人工智能治理，加快推进人工智能健康发展综合性立法"'
+- datum: 2026-02-20 (Anwendungsbeginn) / 2026-02-10 (notifiziert)
+  id: asien-latam-termin-t10
+  beschreibung: 'INDIEN — Information Technology (Intermediary Guidelines and Digital Media Ethics Code)
+    Amendment Rules 2026, notifiziert als G.S.R. 120(E) mit Datum vom 10.02.2026; die amtliche konsolidierte
+    Fassung des MeitY weist alle Neuregelungen mit der Fußnote "Ins. by G.S.R. 120(E), dated 10.02.2026"
+    aus. Der Anwendungsbeginn liegt nach übereinstimmenden Kanzleiberichten zehn Tage später, am 20.02.2026;
+    Notifizierung und Inkrafttreten fallen nicht zusammen. Inhalt: gesetzliche Definition der "synthetically
+    generated information" (künstlich oder algorithmisch erzeugte, veränderte oder bearbeitete Inhalte,
+    die von einer echten Person oder einem realen Vorgang nicht zu unterscheiden sind, mit Ausnahmen für
+    routinemäßige Bearbeitung und Barrierefreiheit), Kennzeichnungspflicht mit dauerhaften Metadaten oder
+    anderen Herkunftsnachweisen einschließlich eindeutiger Kennung, Erklärungspflicht der Nutzer und technische
+    Überprüfung durch bedeutende Social-Media-Vermittler sowie Verkürzung der Löschfrist von 36 Stunden
+    auf DREI STUNDEN. Eine "automatisierte Prüfung mit mindestens 50 % Trefferquote" enthält die notifizierte
+    Fassung nicht; auch die im Entwurf vom Oktober 2025 vorgesehene Kennzeichnung auf mindestens 10 %
+    der Anzeigefläche ist durch einen qualitativen Maßstab ersetzt worden. Auswirkungen auf die Verfügungspraxis
+    der High Courts sind zu beobachten.
+
+    '
+  urteil: in-2026-yuvraj-singh
+  jurisdiktion: in
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.meity.gov.in/static/uploads/2026/02/550681ab908f8afb135b0ad42816a1c9.pdf
+  fundstelle_norm: 'G.S.R. 120(E) vom 10.02.2026 (Änderung der Information Technology (Intermediary Guidelines
+    and Digital Media Ethics Code) Rules 2021), nachgewiesen in den Fußnoten der amtlichen konsolidierten
+    Fassung des MeitY. Der Anwendungsbeginn 20.02.2026 ist am amtlichen Notifikationstext nicht belegt:
+    Die Änderungsnotifikation selbst war über egazette.gov.in nicht abrufbar (403 bzw. Zertifikatsfehler,
+    zwei Versuche); die konsolidierte Fassung führt keinen "w.e.f."-Vermerk'
+- datum: offen
+  id: asien-latam-termin-t11
+  beschreibung: 'INDIEN — High Court of Gujarat: Popularklage (PIL) zur Zunahme von Deepfakes und KI-generierten
+    Falschinhalten. Das Gericht hat den Vermittlern (Meta, X, Google, Reddit, Scribd) Zustellungen aufgegeben,
+    strikte Einhaltung der IT Rules in der Fassung von 2026 verlangt und die Anbindung an das SAHYOG-Portal
+    angeordnet; die Sachentscheidung steht aus. Parallel dazu das Verfahren X Corp. zur Zwangsanbindung
+    an SAHYOG (Antrag auf Abänderung vom 14.08.2026). NICHT AMTLICH BELEGT: Ein Aktenzeichen der PIL und
+    die Beschlussdaten ließen sich am amtlichen Portal des High Court of Gujarat nicht verifizieren; die
+    Berichterstattung datiert die Zustellungsanordnung an die Vermittler auf April 2026, andere Ueberlieferung
+    auf den 06.03.2026. Beides kann sich auf verschiedene Beschlüsse beziehen — vor Verwendung am Gericht
+    klären.
+
+    '
+  urteil: in-2026-gujarat-deepfake-pil
+  jurisdiktion: in
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://hcservices.ecourts.gov.in/hcservices/
+  fundstelle_norm: Kein Stichtag. Aktenzeichen und Beschlussdaten der Popularklage waren am amtlichen
+    Verfahrensportal der High Courts (eCourts) nicht zu verifizieren; amtlicher Beobachtungspunkt ist
+    die Verfahrensauskunft des High Court of Gujarat dort
+- datum: 2026-06-20 (Stellungnahmefrist abgelaufen)
+  id: asien-latam-termin-t12
+  beschreibung: 'INDIEN — Entwurf "Regulations for Use of Artificial Intelligence (AI) in Courts, 2026"
+    des Supreme Court of India für die eigene Justiz. Der Member Secretary des AI Committee des Supreme
+    Court hat den Entwurf mit Bekanntmachung vom 03.06.2026 veröffentlicht und alle Beteiligten sowie
+    die Öffentlichkeit um Stellungnahmen an office.regcc@sci.nic.in bis zum 20.06.2026 gebeten; der Entwurf
+    beruht ausweislich der Bekanntmachung auf den Grundsätzen menschlichen Vorrangs, der Transparenz,
+    der Rechenschaft, des Datenschutzes und der richterlichen Unabhängigkeit. DIE FRIST IST ABGELAUFEN.
+    Die Vereinigung der Advocates-on-Record (SCAORA) hat nach eigenen Angaben am 18.07.2026 — also nach
+    Fristablauf — eine Eingabe mit Bedenken nachgereicht. Ein Termin für die Verabschiedung der Endfassung
+    ist nicht veröffentlicht.
+
+    '
+  urteil: in-2026-sc-goswami-ki-regulierung
+  jurisdiktion: in
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf
+  fundstelle_norm: 'Bekanntmachung des Member Secretary, AI Committee, Supreme Court of India vom 03.06.2026
+    zum Entwurf der "Regulations for Use of Artificial Intelligence (AI) in Courts, 2026": Stellungnahmen
+    bis zum 20.06.2026'
+- datum: 2026-01-22 (Reglamento, Datum nicht amtlich bestätigt) / 2026-05-01 (Strategie ENIA)
+  id: asien-latam-termin-t13
+  beschreibung: 'PERU — Die Durchführungsverordnung zum KI-Rahmengesetz (Ley N.° 31814) wurde mit Decreto
+    Supremo N.° 115-2025-PCM vom 08.09.2025 erlassen und am 09.09.2025 im Diario Oficial El Peruano veröffentlicht;
+    sie umfasst sechs Titel, 36 Artikel und sechs Schlussbestimmungen. Sie tritt nach ihrer Vigencia-Bestimmung
+    NEUNZIG WERKTAGE nach der Veröffentlichung in Kraft ("a partir de los noventa (90) días hábiles siguientes
+    de su publicación"); ausgenommen sind die erste, zweite, vierte und fünfte Schlussbestimmung, die
+    am Tag nach der Veröffentlichung gelten. DATUM NICHT AMTLICH BESTÄTIGT: Die Neunzig-Werktage-Frist
+    führt je nach zugrunde gelegtem Feiertagskalender auf Mitte bis Ende Januar 2026; der überlieferte
+    22.01.2026 ließ sich an keiner amtlichen Quelle taggenau nachweisen. Die Nationale KI-Strategie ENIA
+    2026-2030 wurde mit Resolución Ministerial N.° 152-2026-PCM am 01.05.2026 gebilligt; auch dieses Datum
+    ist nicht amtlich gegengeprüft. Es existiert bis zum 05.09.2026 KEINE peruanische Entscheidung, die
+    diese Vorschriften anwendet.
+
+    '
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.gob.pe/institucion/pcm/normas-legales/7133522-115-2025-pcm
+  fundstelle_norm: 'Decreto Supremo N.° 115-2025-PCM vom 08.09.2025, veröffentlicht am 09.09.2025; Schlussbestimmung
+    zur Vigencia: Inkrafttreten 90 Werktage nach der Veröffentlichung, mit Ausnahme der ersten, zweiten,
+    vierten und fünften Schlussbestimmung'
+- datum: 2026-09-01 (in Kraft)
+  id: asien-latam-termin-t14
+  beschreibung: 'CHINA — Beschluss des Obersten Volksgerichtshofs zur Änderung der Auslegung über Rechtsfragen
+    bei der Behandlung urheberrechtlicher Zivilstreitigkeiten (法释〔2026〕18号). Der Beschluss wurde am 25.05.2026
+    in der 1976. Sitzung des Richterausschusses angenommen, am 20.08.2026 veröffentlicht und gilt ab dem
+    01.09.2026 (自2026年9月1日起施行). Er betrifft die Ausdehnung des Nachdruckbegriffs auf digitale Ausgaben,
+    NICHT künstliche Intelligenz, und wird gelegentlich fälschlich als KI-Auslegung berichtet. Nicht zu
+    verwechseln mit dem gesondert erarbeiteten Dokument zu KI-Zivilsachen (siehe asien-latam-termin-t1).
+
+    '
+  urteil: cn-2023-li-liu
+  jurisdiktion: cn
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://www.court.gov.cn/search.html?content=%E8%91%97%E4%BD%9C%E6%9D%83%E6%B0%91%E4%BA%8B%E7%BA%A0%E7%BA%B7
+  fundstelle_norm: '最高人民法院关于修改《最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释》的决定, 法释〔2026〕18号, angenommen am 25.05.2026
+    durch die 1976. Sitzung des Richterausschusses des Obersten Volksgerichtshofs, veröffentlicht am 20.08.2026:
+    "自2026年9月1日起施行"'
+- datum: 2026-08-07
+  id: asien-latam-termin-t15
+  beschreibung: 'JAPAN — Das Justizministerium (法務省, Zivilrechtsabteilung) hat am 07.08.2026 den zusammenfassenden
+    Bericht seines Studienkreises zur zivilrechtlichen Verantwortlichkeit bei unbefugter Nutzung von Bildnis,
+    Stimme und dergleichen veröffentlicht — Untertitel: "Auslegungsleitlinien zur Verletzung von Publizitätsrechten
+    und dergleichen durch generative KI" (肖像、声等の無断利用による民事責任の在り方に関する検討会 取りまとめ報告書 ―生成AIによるパブリシティ権侵害等に関する解釈指針―).
+    Der Bericht stellt klar, dass auch die Stimme einer Person vom Schutz der Publizitätsrechte erfasst
+    ist und das Klonen einer Stimme ohne Einwilligung eine zivilrechtliche Verletzung darstellen kann.
+    Es handelt sich um eine Auslegungshilfe zum geltenden Deliktsrecht, nicht um eine Norm und nicht um
+    eine Gerichtsentscheidung; sie ist hier nur nachrichtlich geführt und noch nicht gerichtlich angewandt.
+
+    '
+  urteil: jp-2025-nikkei-asahi-perplexity
+  jurisdiktion: jp
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://www.moj.go.jp/MINJI/minji05_00778.html
+  fundstelle_norm: Bekanntmachung des japanischen Justizministeriums (Zivilrechtsabteilung) vom 07.08.2026
+    über die Veröffentlichung des zusammenfassenden Berichts des Studienkreises "肖像、声等の無断利用による民事責任の在り方に関する検討会"
+    — Auslegungsleitlinien, keine Rechtsnorm

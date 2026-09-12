@@ -1,0 +1,2011 @@
+literatur:
+- id: 2023-kaminski-regulating-risks
+  typ: aufsatz
+  autoren:
+  - Kaminski, Margot E.
+  titel: Regulating the Risks of AI
+  fundstelle: Boston University Law Review 103 (2023), 1347
+  jahr: 2023
+  sprache: en
+  ssrn_id: '4195066'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4195066
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die Entscheidung, KI-Schäden als Risiken zu beschreiben, importiert die Instrumente und die
+    Pathologien der Risikoregulierung — vier unterschiedliche Modelle konkurrieren dabei unausgesprochen
+    miteinander.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der theoretische Unterbau, den die europäische Debatte meist voraussetzt, ohne ihn
+    zu zitieren: Kaminski zeigt, dass "Risiko" keine neutrale Beschreibung ist, sondern eine Vorentscheidung
+    über Quantifizierbarkeit, Abwägbarkeit und Beteiligung. 8.029 Downloads, 31 Zitationen auf SSRN. Für
+    die europäische Arbeit besonders brauchbar, weil das Vier-Modelle-Raster erklärt, warum Ebers und
+    Almada/Petit aneinander vorbeireden: Sie meinen unterschiedliche Risikomodelle. Schwäche aus europäischer
+    Sicht: Der Text ist an amerikanischen Verwaltungsrechtsdebatten geschult und behandelt die KI-VO nur
+    als eines von mehreren Beispielen.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-rangone-megale-risks-without-rights
+  typ: aufsatz
+  autoren:
+  - Rangone, Nicoletta
+  - Megale, Luca
+  titel: Risks Without Rights? The EU AI Act's Approach to AI in Law and Rule-Making
+  fundstelle: European Journal of Risk Regulation 16 (2025), Heft 3 (Sonderheft Rule of Law)
+  jahr: 2025
+  sprache: en
+  doi: 10.1017/err.2025.13
+  url: https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risks-without-rights-the-eu-ai-acts-approach-to-ai-in-law-and-rulemaking/3AD4822C291C6591BAFD26524CD44C12
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: KI-Einsatz in Gesetzgebung und Rechtsetzung fällt durch das Raster der KI-VO, obwohl er das
+    rechtsstaatlich riskanteste Anwendungsfeld ist.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Zeigt eine echte Lücke im Anhang III: Wer mit KI Gesetze entwirft oder Folgenabschätzungen
+    erstellt, unterliegt keiner Hochrisikoeinstufung. Die Lösungsvorschläge (freiwillige Verhaltenskodizes,
+    nationale Regeln) fallen hinter die Analyse zurück und laufen dem Vollharmonisierungsgedanken zuwider.
+    Für die eigene Arbeit vor allem als Beleg brauchbar, dass die Anhang-III-Liste nicht risikologisch,
+    sondern politisch zustande kam. CC BY.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-6-abs-2
+- id: 2024-novelli-hacker-robust-governance
+  typ: aufsatz
+  autoren:
+  - Novelli, Claudio
+  - Hacker, Philipp
+  - Morley, Jessica
+  - Trondal, Jarle
+  - Floridi, Luciano
+  titel: 'A Robust Governance for the AI Act: AI Office, AI Board, Scientific Panel, and National Authorities'
+  fundstelle: European Journal of Risk Regulation 16 (2025), 566
+  jahr: 2024
+  sprache: en
+  url: https://arxiv.org/abs/2407.10369
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - marktzugang
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - governance-ki-buero-board-gremien
+  kernthese: Die Durchsetzungsarchitektur der KI-VO ist funktionsfähig, aber nur, wenn KI-Büro, KI-Gremium,
+    wissenschaftliches Gremium und nationale Behörden nach einem normativen Modell koordiniert werden,
+    das die Verordnung selbst nicht liefert.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einzige durchgearbeitete Darstellung der Governance-Ebene vor dem Omnibus und
+    deshalb die Referenz, gegen die man die Zentralisierungsschritte von 2026 (Art. 75a–75d, erweiterte
+    Zuständigkeit des KI-Büros für in sehr große Online-Plattformen eingebettete Systeme) halten muss.
+    Die Verfasser plädierten 2024 für stärkere Zentralisierung — sie haben sie 2026 bekommen, und zwar
+    mit kartellrechtlichen Instrumenten, die sie nicht vorgeschlagen hatten. Genau diese Differenz ist
+    ein Aufsatzthema. Frei über arXiv; die Druckfassung im EJRR ist ebenfalls Open Access.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-paul-technological-solutionism
+  typ: aufsatz
+  autoren:
+  - Paul, Regine
+  titel: What Problems Is the AI Act Solving? Technological Solutionism, Fundamental Rights, and Trustworthiness
+    in European AI Policy
+  fundstelle: Critical Policy Studies (2024), online first
+  jahr: 2024
+  sprache: en
+  doi: 10.1080/19460171.2024.2373786
+  zugang: unklar
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die KI-VO formuliert Grundrechtsschutz als technisches Problem und schafft damit die Lösung,
+    die zur Regulierungstechnik passt, statt die Technik am Problem auszurichten.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Politikwissenschaftliche Außenperspektive, die der juristischen Debatte guttut: Sie
+    erklärt, warum "Vertrauenswürdigkeit" zum Leitbegriff wurde und was dabei verloren geht. Der Beitrag
+    ist auf der Verlagsseite als Open Access ausgewiesen, tandfonline beantwortet automatisierte Abrufe
+    jedoch mit 403; deshalb ohne `url` erfasst. Im Browser frei abrufbar — KEINE Bezahlschranke.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-hofmann-not-simplification
+  typ: blogbeitrag
+  autoren:
+  - Hofmann, Herwig C. H.
+  titel: 'This Is Not Simplification: How to Simplify the Digital Acquis Without Undermining Rights'
+  fundstelle: Verfassungsblog, 03.01.2026
+  jahr: 2026
+  sprache: en
+  url: https://verfassungsblog.de/this-is-not-simplification/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - datenschutz
+  - marktzugang
+  bezug_regelwerke:
+  - digital-omnibus-ai-2026-1744
+  - digital-omnibus-daten-2025-0360
+  - dsgvo-schnittstelle
+  kernthese: Der Omnibus vereinfacht nicht, sondern erhöht die Komplexität durch subjektive Kriterien
+    und zusätzliche Ermächtigungen — und begünstigt dadurch gerade die großen Anbieter, die er entlasten
+    soll.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Von einem der führenden europäischen Verwaltungsrechtler und deshalb der methodisch
+    strengste Beitrag der Kritikerseite: Der zentrale Vorwurf ist nicht Deregulierung, sondern die fehlende
+    Folgenabschätzung und die Verlagerung von Wertungen in unbestimmte Begriffe und Durchführungsrechtsakte.
+    Das ist ein Argument über Rechtsetzungsqualität, nicht über politische Richtung, und deshalb schwerer
+    zu entkräften als die NGO-Positionen. Bezieht sich schwerpunktmäßig auf den Datenteil; für die KI-VO
+    überträgt sich das Argument auf die neuen Kommissionsermächtigungen.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-bieker-nolan-ai-fomo
+  typ: blogbeitrag
+  autoren:
+  - Bieker, Felix
+  - Nolan, Katherine
+  titel: 'European AI FOMO: The European Commission Sacrifices the Digital Acquis at the Altar of AI Hype'
+  fundstelle: Verfassungsblog, 29.01.2026
+  jahr: 2026
+  sprache: en
+  url: https://verfassungsblog.de/eu-digital-law-ai-fomo-omnibus/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - datenschutz
+  - marktzugang
+  - gpai
+  bezug_regelwerke:
+  - digital-omnibus-ai-2026-1744
+  - digital-omnibus-daten-2025-0360
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Der Omnibus ist keine Vereinfachung, sondern die Umwidmung des Datenschutzrechts zugunsten
+    des KI-Trainings, getrieben von Wettbewerbsangst gegenüber den USA und China.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die pointierteste Formulierung der Kapitulationsthese aus wissenschaftlicher Feder
+    (Bieker ist beim ULD). Die vier benannten Punkte — Pseudonymisierung, Zweckbindung, Trainingserlaubnis
+    für besondere Datenkategorien, Bestandsschutz für bereits im Verkehr befindliche Hochrisikosysteme
+    — sind präzise und nachprüfbar. Schwäche: Der Beitrag erklärt die Motive (FOMO) besser als die Rechtsfolgen;
+    die marktzugangsrechtliche Seite bleibt unbearbeitet. Für die eigene Arbeit als Gegenposition zu DIGITALEUROPE
+    unentbehrlich.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-9
+  - dsgvo-art-5-abs-1-lit-b
+- id: 2026-edri-ecnl-ai-omnibus-rollback
+  typ: bericht
+  autoren:
+  - European Digital Rights (EDRi)
+  - Access Now
+  - AlgorithmWatch
+  - Amnesty International
+  - European Center for Not-for-profit Law (ECNL)
+  - ARTICLE 19
+  titel: 'The AI Omnibus: A Rollback of AI Safeguards Before They Even Apply'
+  fundstelle: Gemeinsame Analyse, Juni 2026
+  jahr: 2026
+  sprache: en
+  url: https://ecnl.org/sites/default/files/2026-06/AI-Omnibus-analysis%20June%202026.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  - maschinenverordnung-2023-1230
+  bezug_streitstaende:
+  - ki-csam-besitz
+  kernthese: Der Omnibus baut Schutzmechanismen ab, bevor sie überhaupt gegolten haben, und normalisiert
+    das Wiederaufschnüren ausverhandelter Kompromisse.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einzige Analyse, die den Omnibus norm für norm durchgeht — zehn Kritikpunkte
+    von Art. 6 Abs. 3 (Registerpflicht) über die Verschiebung der Maschinen-KI von Anhang I Abschnitt
+    A nach B bis zur KMU-Schwelle von 750 Beschäftigten und 150 Mio. EUR Umsatz. Methodisch NGO-Papier,
+    sachlich präziser als die meisten Kanzleimemoranden. Bemerkenswert und diskussionswürdig: Auch die
+    neuen NCII/CSAM-Verbote werden kritisiert — nicht inhaltlich, sondern wegen des Verfahrensbruchs und
+    der Overblocking-Gefahr. Wer diese Verbote als unstreitigen Fortschritt darstellt, sollte das gelesen
+    haben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-6-abs-3
+- id: 2025-edri-point-of-no-return
+  typ: blogbeitrag
+  autoren:
+  - European Digital Rights (EDRi)
+  titel: Forthcoming Digital Omnibus Would Mark Point of No Return
+  fundstelle: EDRi, offener Brief von 133 Organisationen, 13.11.2025
+  jahr: 2025
+  sprache: en
+  url: https://edri.org/our-work/forthcoming-digital-omnibus-would-mark-point-of-no-return/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - digital-omnibus-ai-2026-1744
+  - digital-omnibus-daten-2025-0360
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Der Omnibus wäre der größte Rückbau digitaler Grundrechte in der Geschichte der Union.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das Dokument, mit dem die zivilgesellschaftliche Front sich formierte — sechs Tage
+    vor Veröffentlichung des Vorschlags, 133 Unterzeichner. Kein Argument, sondern ein politisches Signal;
+    als Beleg für den Verlauf der Debatte zu erfassen, nicht als Analyse zu lesen. Wichtig für die Chronologie:
+    Die Kritik stand fest, bevor der Text vorlag.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-naranjo-liberties-fast-tracking
+  typ: blogbeitrag
+  autoren:
+  - Naranjo, Diego
+  titel: 'The AI Omnibus: Fast-Tracking Deregulation, Weakening Digital Rights'
+  fundstelle: Civil Liberties Union for Europe (Liberties), 17.06.2026
+  jahr: 2026
+  sprache: en
+  url: https://www.liberties.eu/en/stories/ai-omnibus-ep-vote/45715
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  kernthese: Das Parlament hat den Omnibus am 16.06.2026 in einem Siebenmonatsverfahren ohne Folgenabschätzung
+    und ohne belastbare Konsultation gebilligt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der prozedurale Vorwurf in seiner zugespitzten Form, dazu das exakte Abstimmungsdatum.
+    Sachlich richtig ist der Hinweis auf die vereinfachte technische Dokumentation; der Beitrag unterschlägt
+    aber, dass die Verzögerung der Normung ein realer, nicht erfundener Grund war. Als Quelle für das
+    Datum und die Verfahrenskritik brauchbar, nicht als Analyse.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-eu-edsa-edsb-joint-opinion-omnibus
+  typ: bericht
+  autoren:
+  - Europäischer Datenschutzausschuss
+  - Europäischer Datenschutzbeauftragter
+  titel: Gemeinsame Stellungnahme zum Vorschlag für eine Verordnung zur Vereinfachung der Durchführung
+    der harmonisierten Vorschriften über künstliche Intelligenz (Digital Omnibus on AI)
+  fundstelle: EDSA/EDSB, Gemeinsame Stellungnahme, 20.01.2026
+  jahr: 2026
+  sprache: en
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - datenschutz
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  - dsgvo-schnittstelle
+  kernthese: Die neue Erlaubnisnorm zur Verarbeitung besonderer Datenkategorien für die Bias-Erkennung
+    und die Verschränkung von Grundrechte-Folgenabschätzung und Datenschutz-Folgenabschätzung bedürfen
+    engerer Grenzen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche behördliche Stellungnahme und der Text, den man zu Art. 4a n.F. zwingend
+    heranziehen muss. edps.europa.eu beantwortet automatisierte Abrufe mit 403, deshalb ohne `url` erfasst
+    — es handelt sich NICHT um eine Bezahlschranke, das Dokument ist frei abrufbar (Suchpfad: edps.europa.eu
+    → Publications → EDPS-EDPB Joint Opinions → 20.01.2026). Für die eigene Arbeit der Ausgangspunkt zu
+    der Frage, die noch niemand gestellt hat: Ist Art. 4a eine datenschutzrechtliche Erlaubnisnorm im
+    Gewand des Produktsicherheitsrechts, und wer beaufsichtigt sie dann?
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-4a
+  - ki-vo-art-27
+  - dsgvo-art-9
+- id: 2023-galvagna-inclusive-ai-governance
+  typ: bericht
+  autoren:
+  - Galvagna, Christine
+  titel: 'Inclusive AI Governance: Civil Society Participation in Standards Development'
+  fundstelle: Ada Lovelace Institute, London, 30.03.2023
+  jahr: 2023
+  sprache: en
+  url: https://www.adalovelaceinstitute.org/report/inclusive-ai-governance/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - uk
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - harmonisierte-normen-jtc21
+  kernthese: Zivilgesellschaftliche Beteiligung an der KI-Normung scheitert an Zeitaufwand, Zulassungskriterien
+    und Stimmgewichten; ohne institutionalisierte Unterstützung bleibt die Grundrechtsexpertise in den
+    Gremien strukturell unterrepräsentiert.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die empirische Grundlage der Beteiligungskritik: zwei bis fünf Jahre Entwicklungsdauer,
+    zwei bis zehn Stunden monatlich pro Norm, Zulassung nur bei Vertretung in mehreren Mitgliedstaaten.
+    Die drei Vorschläge (Erweiterung des Anhangs III der Normungsverordnung, StandICT-Förderung für Einzelexperten,
+    dedizierte Koordinierungsstelle) sind konkret genug, um Gegenstand eines rechtspolitischen Beitrags
+    zu sein. Von 2023 und damit vor der Normungskrise — die Prognose hat sich bestätigt, was den Text
+    aufwertet.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-veale-matus-gorwa-global-governance
+  typ: aufsatz
+  autoren:
+  - Veale, Michael
+  - Matus, Kira
+  - Gorwa, Robert
+  titel: 'AI and Global Governance: Modalities, Rationales, Tensions'
+  fundstelle: Annual Review of Law and Social Science 19 (2023), 255–275
+  jahr: 2023
+  sprache: en
+  doi: 10.1146/annurev-lawsocsci-020223-040749
+  ssrn_id: '4605727'
+  url: https://discovery.ucl.ac.uk/id/eprint/10171121/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - harmonisierte-normen-jtc21
+  kernthese: KI-Governance läuft über vier Modalitäten — Recht, Normung, Marktmacht und Infrastruktur
+    —, die unterschiedliche Legitimationsansprüche haben und sich wechselseitig unterlaufen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der theoretische Rahmen, der die Normungsdebatte über den europäischen Sonderfall
+    hinaushebt: Normung ist danach kein technisches Hilfsmittel, sondern eine eigenständige Regierungsform
+    mit eigener politischer Ökonomie. Für eine Arbeit zur demokratischen Legitimation privater Normsetzung
+    die begriffliche Grundlage. Volltext im UCL-Repositorium.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-eu-itre-aiact-dsa-interplay
+  typ: bericht
+  autoren:
+  - Europäisches Parlament, Ausschuss für Industrie, Forschung und Energie (ITRE)
+  titel: 'Two Pillars, One Ecosystem: The AI Act–DSA Interplay in EU Digital Governance'
+  fundstelle: ITRE-Auftragsstudie, Oktober 2025; Nachdruck auf MediaLaws — Rivista di diritto dei media
+  jahr: 2025
+  sprache: en
+  url: https://www.medialaws.eu/two-pillars-one-ecosystem-the-ai-act-dsa-interplay-in-eu-digital-governance/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - content
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  kernthese: KI-VO und DSA konvergieren an vier Punkten — Risikobewertung, Transparenz, Inhaltemoderation,
+    Aufsichtsstruktur — und erzeugen dort Doppelpflichten und Verfahrensreibung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Parlamentsstudie, kein Zeitschriftenaufsatz — die auf der MediaLaws-Seite abrufbare
+    Fassung nennt keine Verfasser. Der Zuschnitt trifft die praktisch wichtigste Kollision: Der Omnibus
+    erweitert die Zuständigkeit des KI-Büros gerade auf in sehr große Online-Plattformen eingebettete
+    KI-Systeme, womit die Abgrenzung zum DSA-Aufsichtsregime von der akademischen zur Zuständigkeitsfrage
+    wird. Die Studie fordert Koordinierung und gemeinsame Leitlinien, beantwortet die Kollisionsfrage
+    aber nicht: Wer entscheidet, wenn Kommission (DSA) und KI-Büro (KI-VO) denselben Anbieter unterschiedlich
+    beurteilen?
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-eu-eprs-enforcement-ai-act
+  typ: bericht
+  autoren:
+  - Marcelin, Tristan Jacques Marcel
+  titel: Enforcement of the AI Act
+  fundstelle: EPRS At a Glance, PE 785670, 17.03.2026 (Blogfassung 18.03.2026, aktualisiert 25.03.2026)
+  jahr: 2026
+  sprache: en
+  url: https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2026)785670
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - marktzugang
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  - governance-ki-buero-board-gremien
+  kernthese: Die Durchsetzung folgt einem hybriden Modell aus nationaler Marktüberwachung und zentraler
+    Aufsicht des KI-Büros über GPAI-Modelle; der Omnibus zentralisiert weiter.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die knappste zuverlässige Darstellung der Durchsetzungsarchitektur nach dem Omnibus
+    und der beste Einstieg, bevor man sich in Art. 70 ff. und die neuen Art. 75a–75d einliest. Als At-a-Glance-Papier
+    bewusst kurz; es ersetzt keine Analyse, aber es ist zitierfähig und tagesaktuell. Zusammen mit Novelli
+    u.a. (2024) hat man den Vorher-Nachher-Vergleich.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-70
+- id: 2026-eu-bnetza-ki-aufsicht
+  typ: bericht
+  autoren:
+  - Bundesnetzagentur
+  titel: Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung
+  fundstelle: Bundesnetzagentur, Pressemitteilung vom 29.07.2026
+  jahr: 2026
+  sprache: de
+  url: https://www.bundesnetzagentur.de/1112336
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - nationale-umsetzung-de-ki-mig
+  - governance-ki-buero-board-gremien
+  kernthese: Mit Inkrafttreten des KI-MIG am 29.07.2026 wird die Bundesnetzagentur nationale Marktüberwachungsbehörde,
+    zentrale Beschwerdestelle und Betreiberin des KI-Reallabors; die Sektorregulierer behalten ihre Zuständigkeiten.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Primärquelle zur deutschen Umsetzung, keine Literatur, aber der Nachweis für zwei
+    Daten, die man braucht: Inkrafttreten des KI-MIG am 29.07.2026 und das hybride Aufsichtsmodell (Bundesnetzagentur
+    als Koordinatorin, Sektorregulierer unberührt). Erfasst, weil die Zuständigkeitsentscheidung — Regulierungs-
+    statt Datenschutzbehörde — die zentrale rechtspolitische Weichenstellung des KI-MIG ist und in der
+    Literatur bislang nur von AlgorithmWatch kritisch aufgegriffen wurde.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-70
+- id: 2026-algorithmwatch-ki-gesetz-grundrechte
+  typ: blogbeitrag
+  autoren:
+  - AlgorithmWatch
+  titel: Bundestag beschließt KI-Gesetz — Grundrechte und Transparenz stehen hinten an
+  fundstelle: AlgorithmWatch, 12.06.2026
+  jahr: 2026
+  sprache: de
+  url: https://algorithmwatch.org/de/ki-gesetz-grundrechte-und-transparenz/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  bezug_regelwerke:
+  - nationale-umsetzung-de-ki-mig
+  - ki-vo-2024-1689
+  kernthese: Dem deutschen Durchführungsgesetz fehlt ein verpflichtendes KI-Transparenzregister; die Aufsicht
+    liegt bei der Bundesnetzagentur statt bei den grundrechtsnäheren Datenschutzbehörden, und der KI-Beirat
+    ist rechtlich unverbindlich.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einzige substantiierte Kritik am KI-MIG aus der Zivilgesellschaft und derzeit
+    überhaupt die einzige öffentlich verfügbare kritische Auseinandersetzung mit dem deutschen Ausführungsgesetz.
+    Die drei Punkte — Transparenzregister, Behördenwahl, Beiratsstellung — sind genau die, an denen eine
+    verwaltungsrechtliche Arbeit ansetzen müsste. Dass es dazu noch keine gibt, ist eine erhebliche Lücke
+    im deutschen Schrifttum.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-eu-clark-prohibited-practices
+  typ: working-paper
+  autoren:
+  - Clark, Michael
+  titel: 'Prohibited AI Practices Under Article 5 of the EU AI Act: Scope, Enforcement, and Compliance
+    Methodology'
+  fundstelle: SSRN Working Paper 6973579
+  jahr: 2026
+  sprache: en
+  ssrn_id: '6973579'
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - digital-omnibus-ai-2026-1744
+  bezug_streitstaende:
+  - ki-csam-besitz
+  kernthese: Die Verbotstatbestände des Art. 5 sind seit dem 02.02.2025 anwendbar, aber ihre Reichweite
+    bleibt ohne Verwaltungspraxis unbestimmt; die durch den Omnibus eingefügten NCII- und CSAM-Verbote
+    verschärfen das Bestimmtheitsproblem.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Erfasst, weil zu den ab 02.12.2026 geltenden Verboten KI-generierter nicht-einvernehmlicher
+    intimer Darstellungen und Missbrauchsdarstellungen sonst nur Kanzleiliteratur vorliegt. SSRN-Working-Paper
+    ohne Begutachtung; die Delivery-Adresse war nicht stabil abrufbar, deshalb ohne `url`. Das Thema ist
+    unterbearbeitet: Ein Verbot im Marktzugangsrecht, das faktisch Strafrechtsfunktion erfüllt, wirft
+    Fragen nach Art. 49 GRCh auf, die niemand stellt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-5
+- id: 2025-crum-brussels-effect-experimentalism
+  typ: aufsatz
+  autoren:
+  - Crum, Ben
+  titel: Brussels Effect or Experimentalism? The EU AI Act and Global Standard-Setting
+  fundstelle: Internet Policy Review 14 (2025), Heft 3
+  jahr: 2025
+  sprache: en
+  doi: 10.14763/2025.3.2032
+  url: https://policyreview.info/articles/analysis/brussels-effect-or-experimentalism
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - harmonisierte-normen-jtc21
+  kernthese: Der Brüsseler Effekt greift bei KI nicht, weil die Marktstruktur Produktdifferenzierung erlaubt
+    und die KI-VO selbst prozedural und offen ist; die globale Koordination läuft über experimentalistisches
+    Lernen, nicht über Normexport.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die theoretisch anspruchsvollste Gegenposition zu Siegmann/ Anderljung und der Text,
+    der die Debatte auf ein neues Fundament stellt: Der Befund ist nicht "der Effekt bleibt aus", sondern
+    "es handelt sich um ein anderes Governance-Muster". Das ist anschlussfähig an die Normungsfrage, wird
+    von Crum aber nicht ausgeführt — die naheliegende These, dass die fehlende Konformitätsinfrastruktur
+    den Export verhindert, formuliert niemand. Publikationslücke.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-bologa-burying-brussels-effect
+  typ: blogbeitrag
+  autoren:
+  - Bologa, Anda
+  titel: Burying the Brussels Effect? AI Act Inspires Few Copycats
+  fundstelle: Center for European Policy Analysis (CEPA), 23.04.2025
+  jahr: 2025
+  sprache: en
+  url: https://cepa.org/article/burying-the-brussels-effect-ai-act-inspires-few-copycats/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - governance
+  - marktzugang
+  - wettbewerb
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Nur Brasilien, Kanada und Peru orientieren sich am AI Act, und die ersten beiden stecken
+    im Gesetzgebungsverfahren fest; Vereinigtes Königreich, Australien, Japan und Singapur haben sich
+    bewusst dagegen entschieden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der empirische Gegenbeweis in Kurzform, mit den drei Gründen, die man zitieren kann:
+    Komplexität, zu frühe Verabschiedung vor den multilateralen Prozessen, hohe Konformitätsbewertungskosten.
+    Der dritte Grund ist der interessanteste und wird nirgends vertieft — Länder ohne Notifizierungsinfrastruktur
+    können den AI Act gar nicht kopieren, weil ihnen die notifizierten Stellen fehlen. Kurzer Think-Tank-Beitrag,
+    transatlantisch grundiert; die Zahlen sollten gegen den IAPP-Tracker gegengeprüft werden.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-bengio-international-ai-safety-report
+  typ: bericht
+  autoren:
+  - Bengio, Yoshua
+  titel: International AI Safety Report 2026
+  fundstelle: International AI Safety Report, herausgegeben von einem Expertengremium unter Vorsitz von
+    Yoshua Bengio, über 100 Sachverständige aus mehr als 30 Staaten und internationalen Organisationen,
+    03.02.2026
+  jahr: 2026
+  sprache: en
+  url: https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026_1.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - cn
+  - eu
+  - uk
+  - us
+  themenachsen:
+  - governance
+  - gpai
+  - grundrechte
+  - sicherheit-export
+  bezug_regelwerke:
+  - gpai-code-of-practice
+  - ki-vo-2024-1689
+  - us-ai-action-plan
+  kernthese: Der Bericht fasst den wissenschaftlichen Kenntnisstand zu Fähigkeiten und Risiken von Allzweck-KI
+    zusammen und bildet dabei Dissens ausdrücklich ab, statt einen Konsens zu behaupten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das Dokument, auf das sich Gesetzgebung und Aufsicht berufen, wenn sie eine wissenschaftliche
+    Grundlage brauchen — funktional der IPCC-Bericht dieses Feldes —, und deshalb unabhängig von der eigenen
+    Position zu kennen. Sein methodischer Vorzug ist die Kennzeichnung von Unsicherheit und Meinungsverschiedenheit;
+    wer eine Aussage daraus zitiert, sollte die zugehörige Konfidenzangabe mitzitieren, was in der juristischen
+    Rezeption fast nie geschieht. Die Fassung 2026 ist gegenüber 2025 vor allem bei den Kapiteln zu Cyberfähigkeiten
+    und zur Manipulation fortgeschrieben. Angreifbar ist die Zusammensetzung des Gremiums und die staatliche
+    Trägerschaft: Der Bericht ist zwischenstaatlich beauftragt und formuliert entsprechend vorsichtig;
+    Positionen, die eine der beteiligten Regierungen ablehnt, erscheinen abgeschwächt. Ergänzendes Schlüsselupdate
+    vom 25.11.2025 zu technischen Schutzmaßnahmen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  bezug_streitstaende: []
+  bezug_urteile: []
+  auch_erfasst_in:
+  - 33_lit_datenschutz
+  - 35_lit_technik
+- id: 2026-rudl-digitaler-omnibus-wunschliste
+  typ: bericht
+  autoren:
+  - Rudl, Tomas
+  titel: 'Digitaler Omnibus: Direkt von Big Techs Wunschliste'
+  fundstelle: netzpolitik.org, 16.01.2026
+  jahr: 2026
+  sprache: de
+  url: https://netzpolitik.org/2026/digitaler-omnibus-direkt-von-big-techs-wunschliste/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - governance
+  - datenschutz
+  - marktzugang
+  bezug_regelwerke:
+  - digital-omnibus-ai-2026-1744
+  - digital-omnibus-daten-2025-0360
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Der Digital-Omnibus übernimmt in weiten Teilen wörtlich die Deregulierungsforderungen amerikanischer
+    Technologiekonzerne, insbesondere bei der Behandlung pseudonymisierter Daten und den Schutzvorkehrungen
+    für automatisierte Entscheidungen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Wert liegt im Abgleich zwischen Lobbypositionen und Entwurfstext — eine Arbeit,
+    die die Rechtswissenschaft selten leistet und die für die Auslegung nach dem Willen des Gesetzgebers
+    relevant sein kann. Methodisch ist der Vergleich nicht offengelegt (welche Positionspapiere, welche
+    Textstellen), das macht ihn zitierschwach. Als Beleg für die politische Genese des Omnibus brauchbar,
+    als Rechtsanalyse nicht. Gegenposition ausdrücklich mitzulesen: die Vereinfachungsargumentation der
+    Kommission und die Wettbewerbsfähigkeitsdebatte, die in 31_lit_eu.yaml erfasst ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-22
+  - dsgvo-art-4-nr-5
+- id: 2026-algorithmwatch-ki-omnibus
+  typ: bericht
+  autoren:
+  - AlgorithmWatch
+  - European Digital Rights
+  - Access Now
+  - ARTICLE 19
+  - Amnesty International
+  titel: 'Der KI-Omnibus: Schutzmaßnahmen abschwächen, bevor sie überhaupt in Kraft treten'
+  fundstelle: AlgorithmWatch, Berlin, 18.06.2026
+  jahr: 2026
+  sprache: de
+  url: https://algorithmwatch.org/de/der-ki-omnibus-schutzmasnahmen-abschwachen-bevor-sie-uberhaupt-in-kraft-treten/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  bezug_regelwerke:
+  - digital-omnibus-ai-2026-1744
+  - ki-vo-2024-1689
+  - governance-ki-buero-board-gremien
+  kernthese: Der KI-Omnibus ist keine technische Vereinfachung, sondern eine Rücknahme von Grundrechtsschutz
+    vor dessen Wirksamwerden, und schafft den Präzedenzfall, dass frisch beschlossenes Digitalrecht in
+    der Umsetzungsphase wieder aufgeweicht werden kann.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einzige frei zugängliche deutschsprachige Analyse, die die vier Änderungsstränge
+    des Omnibus (Transparenzregister, Fristen, eingebettete KI in Maschinen, Verarbeitung besonderer Kategorien
+    zur Bias-Erkennung) nebeneinander legt. Der letzte Punkt ist der juristisch interessanteste und wird
+    auch in der Fachliteratur unterschätzt: eine neue Erlaubnis für Art.-9- DSGVO-Daten zum Zweck der
+    Verzerrungserkennung. Zu lesen als Advocacy — der Text ist von einem Bündnis unterzeichnet und argumentiert
+    einseitig —, aber die Normzitate stimmen und die Fristangaben decken sich mit der Trilogberichterstattung.
+    Ersetzt keine Kommentierung; als Problemaufriss und Fundstellensammlung nützlich.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-9
+  - ki-vo-art-4a
+- id: 2023-ruschemeier-muehlhoff-daten-werte-ai-act
+  typ: blogbeitrag
+  autoren:
+  - Ruschemeier, Hannah
+  - Mühlhoff, Rainer
+  titel: Daten, Werte und der AI Act
+  fundstelle: Verfassungsblog, 15.12.2023
+  jahr: 2023
+  sprache: de
+  url: https://verfassungsblog.de/daten-werte-und-der-ai-act/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - harmonisierte-normen-jtc21
+  - dsgvo-schnittstelle
+  kernthese: Ethik und Regulierung sind keine Gegensätze; die Alternative zur ethischen Deliberation ist
+    nicht das Recht, sondern die epistemische Vereinnahmung der Regulierung durch die Forschungsproduktion
+    der großen Anbieter.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Begriff der "epistemischen Vereinnahmung" ist der Beitrag, der über den Anlass
+    hinausträgt: nicht Regulatory Capture durch Lobbyarbeit, sondern durch die Dominanz der Anbieter in
+    der wissenschaftlichen Wissensproduktion, auf die sich die Regulierung stützt. Das trifft die Normung
+    nach Art. 40 KI-VO unmittelbar, wo JTC21 auf Vorarbeiten angewiesen ist, die überwiegend von Herstellern
+    stammen. Angreifbar: Der Befund bleibt Behauptung, es fehlt die bibliometrische Grundlage, die etwa
+    Zehlike/Hacker liefern würden. Als Denkfigur für die Normungskritik einschlägig und in dieser Zuspitzung
+    frei nirgends sonst. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-40
+- id: 2022-engelhard-schiemann-ki-vo-kriminalpolitik
+  typ: aufsatz
+  autoren:
+  - Engelhard, Jana
+  - Schiemann, Anja
+  titel: Der EU-Kommissionsvorschlag einer Verordnung für künstliche Intelligenz aus rechts- und kriminalpolitischer
+    Perspektive — Zur unumgänglichen aber nachbesserungsbedürftigen Harmonisierung
+  fundstelle: KriPoZ 2022, 393
+  jahr: 2022
+  sprache: de
+  url: https://kripoz.de/wp-content/uploads/2022/11/engelhard-schiemann-eu-kommissionsvorschlag-einer-verordnung-fuer-kuenstliche-intelligenz.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die Harmonisierung durch die KI-VO ist unumgänglich, ihr risikobasierter Ansatz aber wegen
+    des Übermaßes an Selbstregulierung, unklarer Risikoeinstufungen und schwacher Durchsetzung gerade
+    im Bereich der Strafverfolgung nachbesserungsbedürftig.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Bezieht sich auf den Kommissionsvorschlag von 2021, nicht auf die verabschiedete
+    Verordnung — vieles ist überholt, die Risikoeinstufungen haben sich verschoben, die Strafverfolgungsausnahmen
+    sind erweitert worden. Aufgenommen aus zwei Gründen: als Beleg, dass die deutsche Strafrechtswissenschaft
+    die KI-VO früh und kritisch begleitet hat, und weil KriPoZ eine der wenigen deutschen Fachzeitschriften
+    mit vollständigem freien Volltextzugang ist, was man sich merken sollte. Fachlich heute nur noch dogmengeschichtlich
+    interessant.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-bnetza-factsheet-ki-servicedesk
+  typ: bericht
+  autoren:
+  - Bundesnetzagentur
+  titel: 'Factsheet: KI-Verordnung und KI-Service Desk'
+  fundstelle: Bundesnetzagentur, Bonn (o. D., abgerufen 09/2026)
+  jahr: 2026
+  sprache: de
+  url: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/_functions/factsheet.pdf?__blob=publicationFile&v=1
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - nationale-umsetzung-de-ki-mig
+  kernthese: Die Bundesnetzagentur beschreibt ihre Rolle als nationale Koordinierungsstelle nach dem KI-MIG
+    und den KI-Service-Desk als niedrigschwellige Anlaufstelle für Unternehmen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Zwei Seiten Behördenselbstdarstellung, kein wissenschaftlicher Gehalt. Erfasst, weil
+    es die einzige amtliche deutsche Kurzdarstellung der Aufsichtsarchitektur nach dem KI-MIG ist und
+    weil man in Mandantengesprächen darauf verweisen kann. Die eigentliche Frage — wie sich die Zuständigkeit
+    der KI-Marktüberwachungskammer zu der von BfDI und Landesdatenschutzbehörden nach Art. 74 Abs. 8 KI-VO
+    verhält — beantwortet das Papier nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-74-abs-8
+- id: 2019-datenethikkommission-gutachten
+  typ: bericht
+  autoren:
+  - Datenethikkommission der Bundesregierung
+  titel: Gutachten der Datenethikkommission
+  fundstelle: Bundesministerium des Innern / Bundesministerium der Justiz und für Verbraucherschutz, Berlin
+    2019, 240 S.
+  jahr: 2019
+  sprache: de
+  url: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/it-digitalpolitik/gutachten-datenethikkommission.pdf?__blob=publicationFile&v=9
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  - haftung
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Algorithmische Systeme sind nach ihrem Schädigungspotenzial in fünf Kritikalitätsstufen einzuteilen,
+    an die abgestufte regulatorische Anforderungen von der Kennzeichnungspflicht bis zum vollständigen
+    Verbot anknüpfen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die deutsche Vorarbeit zum risikobasierten Ansatz der KI-VO und der Grund, warum
+    das europäische Modell so aussieht, wie es aussieht — die Fünfstufigkeit der Datenethikkommission
+    ist in der Kommissionsarbeit rezipiert und auf vier Stufen verdichtet worden. Wer die Genese des Art.
+    6 KI-VO argumentativ braucht, braucht dieses Gutachten. Sieben Jahre alt und in den Einzelaussagen
+    überholt; die Kritikalitätspyramide, das Konzept der Algorithmen-Folgenabschätzung und der Vorschlag
+    einer Kennzeichnungspflicht sind es nicht. Angreifbar ist die Kritikalitätsstufung selbst — sie knüpft
+    an das Schädigungspotenzial des Systems an, nicht an den Verwendungszusammenhang, und genau diesen
+    Fehler hat die KI-VO geerbt. 240 Seiten, frei, und in der aktuellen Debatte unterzitiert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-6
+- id: 2019-martini-blackbox-algorithmus
+  typ: monographie
+  autoren:
+  - Martini, Mario
+  titel: Blackbox Algorithmus — Grundfragen einer Regulierung Künstlicher Intelligenz
+  fundstelle: Springer, Berlin/Heidelberg 2019
+  jahr: 2019
+  sprache: de
+  doi: 10.1007/978-3-662-59010-2
+  isbn: 978-3-662-59009-6
+  zugang: bezahlt
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  - haftung
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  - de-automatisierter-verwaltungsakt
+  kernthese: Die Regulierung algorithmischer Systeme braucht einen abgestuften Instrumentenkasten von
+    Transparenz- über Prüf- bis zu Zulassungspflichten, der an der Eingriffsintensität und nicht an der
+    Technik ansetzt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das deutsche Standardwerk vor der KI-VO und der Text, auf den sich die deutsche Verwaltungsrechtswissenschaft
+    zum Thema durchgehend bezieht. Ich habe ausdrücklich geprüft, ob es — wie oft behauptet — Open Access
+    ist: Es ist es nicht. Springer verlangt 109 US-Dollar für das E-Book. Das ist der schmerzhafteste
+    Einzelbefund dieser Recherche, weil Martini im Auftrag ausdrücklich genannt ist und weil sein Werk
+    die Lücke füllen würde, die diese Akte im Verwaltungsrecht und in der Regulierungstheorie lässt. Über
+    die Universitätsbibliothek zugänglich; für eine beckfreie, aber nicht bibliotheksfreie Arbeitsweise
+    also erreichbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-zfdr-jahrgang
+  typ: aufsatz
+  autoren:
+  - Zeitschrift für Digitalisierung und Recht (ZfDR)
+  titel: Zeitschrift für Digitalisierung und Recht — Jahrgänge 2021 ff.
+  fundstelle: C.H.BECK, München
+  jahr: 2026
+  sprache: de
+  zugang: bezahlt
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - governance
+  - datenschutz
+  - urheberrecht
+  - haftung
+  - vertrag
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Die zentrale deutschsprachige Fachzeitschrift zum Digitalisierungsrecht ist vollständig kostenpflichtig.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kein einzelner Text, sondern ein Sammeleintrag, und ausnahmsweise so geführt, weil
+    das Ergebnis der Prüfung selbst der Befund ist. Der Auftrag nannte die ZfDR als Open-Access-Kandidatin.
+    Sie ist es nicht: Es gibt keine Zeitschrift dieses Namens bei Mohr Siebeck — geprüft am Zeitschriftenverzeichnis
+    —, sie erscheint bei C.H.BECK und ist ausschließlich über Beck-Online zugänglich. Dasselbe gilt für
+    RDi, MMR, ZD und ZUM einschließlich der als "Aktuell"-Dienste geführten Kurzbeiträge. Damit ist der
+    gesamte deutsche zeitschriftengebundene Diskurs zum KI-Vertragsrecht, KI-Haftungsrecht und KI-Datenschutzrecht
+    für diese Akte unzugänglich; die Lücken bei Haftung, Vertragsrecht und Berufsrecht sind unmittelbare
+    Folge davon.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2016-lipton-mythos
+  typ: aufsatz
+  autoren:
+  - Lipton, Zachary C.
+  titel: The Mythos of Model Interpretability
+  fundstelle: ICML Workshop on Human Interpretability in Machine Learning (WHI 2016), New York; später
+    Communications of the ACM 61 (2018), Nr. 10, 36; arXiv:1606.03490 (cs.LG), 10.06.2016
+  jahr: 2016
+  sprache: en
+  doi: 10.48550/arXiv.1606.03490
+  url: https://arxiv.org/abs/1606.03490
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: '"Deutbarkeit" bezeichnet mindestens fünf verschiedene Eigenschaften mit verschiedenen Zwecken
+    — Vertrauen, Ursächlichkeit, Übertragbarkeit, Auskunftsfähigkeit, faire Entscheidung —; wer sie nicht
+    unterscheidet, führt Scheinstreitigkeiten.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: welches der fünf Ziele die jeweilige Norm eigentlich verfolgt
+    — Art. 13 KI-VO (Betreiber soll das System bedienen können), Art. 86 KI-VO (Betroffener soll widersprechen
+    können) und Art. 15 DSGVO (Betroffener soll prüfen können) meinen erkennbar Verschiedenes, werden
+    aber unter demselben Wort "Transparenz" geführt. Der begrifflich sauberste Text des Blocks und die
+    beste Vorarbeit für jede Auslegung einer Transparenznorm: Lipton zeigt, dass die Forderung nach Deutbarkeit
+    ohne Angabe des Zwecks leer ist, und liefert die Typologie, mit der man einer Norm ansehen kann, was
+    sie verlangt. Nebenbei zerlegt er die verbreitete Annahme, lineare Modelle seien deutbar und tiefe
+    Netze nicht — ein lineares Modell mit zehntausend konstruierten Merkmalen ist unlesbar, ein kleines
+    Netz auf Rohdaten unter Umständen lesbar. Wer diese Unterscheidung in einem Verfahren sauber vorträgt,
+    entzieht dem Gegner die Standardformel. ANGREIFBAR: Der Text analysiert, ohne zu entscheiden; wer
+    aus ihm eine Handlungsanweisung ziehen will, findet keine. Und er ist zehn Jahre alt — die Debatte
+    über mechanistische Interpretierbarkeit gibt es hier noch nicht. Acht Seiten.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-13
+  - ki-vo-art-86
+  - dsgvo-art-15
+- id: 2024-barroso-mello-ia-promessas-riscos
+  typ: aufsatz
+  autoren:
+  - Barroso, Luís Roberto
+  - Perrone Campos Mello, Patrícia
+  titel: 'Inteligência artificial: promessas, riscos e regulação. Algo de novo debaixo do sol'
+  titel_deutsch: 'Künstliche Intelligenz: Versprechen, Risiken und Regulierung. Etwas Neues unter der
+    Sonne'
+  fundstelle: Revista Direito e Práxis (2024), 1–45
+  jahr: 2024
+  sprache: pt
+  url: https://www.e-publicacoes.uerj.br/revistaceaju/article/view/84479
+  doi: 10.1590/2179-8966/2024/84479
+  zugang: open-access
+  jurisdiktionen:
+  - br
+  themenachsen:
+  - governance
+  - grundrechte
+  - marktzugang
+  - arbeit
+  kernthese: 'KI ist eine Technologie mit hohem Potenzial, deren tatsächliche Wirkung von ihrem Gebrauch
+    abhängt; das Recht muss ein institutionelles Design finden, das den nützlichen Gebrauch fördert und
+    den Missbrauch eindämmt.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der wichtigste brasilianische Text — nicht wegen seiner Originalität, sondern weil
+    ihn ein amtierender Richter des Supremo Tribunal Federal geschrieben hat, der 2023 bis 2025 dessen
+    Präsident war, gemeinsam mit einer Verfassungsrechtlerin, die zugleich seine Kabinettsleiterin war.
+    Wenn in Brasilien über die verfassungsrechtlichen Grenzen der KI-Regulierung gestritten wird, ist
+    das der Aufsatz, aus dem beide Seiten zitieren, und er wirkt sichtbar auf die Beratungen zum PL 2.338/2023
+    ein. Inhaltlich ist er breit und referierend: vierte industrielle Revolution, Nutzen, Risiken, Prinzipienkatalog
+    — nichts, was ein deutscher Leser nicht schon kennt. Der Wert liegt darin, dass diese Allgemeinplätze
+    aus dieser Feder stammen. Wer die brasilianische Rechtslage einordnen will, muss ihn gelesen haben;
+    wer neue Argumente sucht, nicht. Der volle Untertitel "Algo de novo debaixo do sol" antwortet auf
+    Kohelet 1,9 und ist programmatisch gemeint: Barroso hält KI ausdrücklich für einen Bruch und nicht
+    für einen weiteren Technikschub.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-cebri-itsrio-ai-safety-institute-brasil
+  typ: bericht
+  autoren:
+  - Centro Brasileiro de Relações Internacionais (CEBRI)
+  - Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS Rio)
+  titel: 'Um AI Safety and Opportunities Institute para o Brasil: um desenho de características, funções
+    e potenciais desafios'
+  titel_deutsch: 'Ein KI-Sicherheits- und Chanceninstitut für Brasilien: Entwurf von Merkmalen, Funktionen
+    und möglichen Schwierigkeiten'
+  fundstelle: CEBRI und ITS Rio, Rio de Janeiro 2025
+  jahr: 2025
+  sprache: pt
+  url: https://itsrio.org/wp-content/uploads/2017/01/AISOInstituteparaoBrasil.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - br
+  - uk
+  - us
+  - eu
+  - jp
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - gpai
+  kernthese: 'Brasilien sollte ein technisch-beratendes, unabhängiges und multisektorales KI-Sicherheitsinstitut
+    nach dem Vorbild der britischen, amerikanischen, europäischen und japanischen Institute schaffen,
+    das ausdrücklich keine Aufsichtsbefugnisse erhält.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Interessant wegen der institutionellen Grundentscheidung: Der Vorschlag trennt die
+    Sicherheitsforschung ausdrücklich von der Aufsicht und begründet das damit, dass beides in Brasilien
+    sonst in derselben Behörde landen würde. Das ist genau die Frage, die sich in Deutschland bei der
+    Benennung der Marktüberwachungs- behörden nach Art. 70 KI-VO und beim Verhältnis zur Bundesnetzagentur
+    stellt, und ich habe zu ihr in der deutschen Literatur wenig gefunden. Der rechtsvergleichende Teil
+    (Vereinigtes Königreich, USA, EU, Japan) ist knapp, aber korrekt. Schwäche: Der Bericht sagt nichts
+    dazu, woher ein solches Institut in Brasilien technisches Personal nehmen soll — das ist in einem
+    Land ohne eigene Modellentwicklung die eigentliche Frage.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-franco-pinheiro-lhano-governanca-corporativa
+  typ: aufsatz
+  autoren:
+  - Franco, Brenda Dutra
+  - Pinheiro, Caroline da Rosa
+  - Del Lhano, Larissa Almeida
+  titel: 'A integração da inteligência artificial na governança corporativa: enfoque ético e regulatório'
+  titel_deutsch: 'Die Einbindung künstlicher Intelligenz in die Unternehmensführung: ethischer und regulatorischer
+    Blickwinkel'
+  fundstelle: Revista de Direito, Governança e Novas Tecnologias 10 (2024), Nr. 2
+  jahr: 2024
+  sprache: pt
+  url: https://www.indexlaw.org/index.php/revistadgnt/article/view/11034
+  doi: 10.26668/IndexLawJournals/2526-0049/2024.v10i2.11034
+  zugang: open-access
+  jurisdiktionen:
+  - br
+  themenachsen:
+  - governance
+  - sektor-finanz
+  - vertrag
+  kernthese: 'KI verbessert die Unternehmensführung nur bei ethisch und regulatorisch eingebettetem Einsatz;
+    Massstab sind die OECD-Grundsätze und der PL 2.338/2023.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Aufgenommen, weil die Sammlung sonst keinen Text zur gesellschaftsrechtlichen Seite
+    hätte, nicht weil der Aufsatz besonders wäre. Er ist Literaturbericht plus Normreferat und arbeitet
+    die eigentlich interessante Frage — ob der Vorstand für den Einsatz eines Modells nach den Sorgfaltsmassstäben
+    des Art. 153 der brasilianischen Aktiengesetzes (Lei 6.404/76) haftet — nicht aus. Wer zur Business
+    Judgment Rule bei KI-gestützten Vorstandsentscheidungen (§ 93 Abs. 1 Satz 2 AktG) arbeitet, findet
+    hier nur einen Anknüpfungspunkt, keine Argumentation.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-juri-soberania-datismo
+  typ: aufsatz
+  autoren:
+  - Juri, Yamila Eliana
+  titel: La soberanía en crisis. Del estado de excepción en Carl Schmitt al estado de dataísmo como elemento
+    de poder
+  titel_deutsch: Die Souveränität in der Krise. Vom Ausnahmezustand bei Carl Schmitt zum Datenstaat als
+    Machtelement
+  fundstelle: Prudentia Iuris 94 (2022), 225–239
+  jahr: 2022
+  sprache: es
+  url: https://erevistas.uca.edu.ar/index.php/PRUDENTIA/es/article/view/4347
+  doi: 10.46553/prudentia.94.2022.pp.225-239
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  themenachsen:
+  - governance
+  - grundrechte
+  - sicherheit-export
+  kernthese: 'Die Souveränität verlagert sich vom Schmittschen Ausnahmezustand zur Verfügung über Daten;
+    wer die Daten hat, entscheidet.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Für einen deutschen Juristen zunächst reizvoll, weil Schmitt hier von einer argentinischen
+    Autorin gelesen wird und die Rezeption Schmitts in Lateinamerika eine eigene, ungebrochenere Geschichte
+    hat als bei uns. Der Ertrag ist am Ende gering: Die Gleichsetzung von Datenverfügung und Souveränität
+    wird behauptet, nicht entwickelt, und der Bezug zu KI beschränkt sich auf ein paar Absätze über autonome
+    Waffensysteme. Ich führe den Text als Randlage, weil er zeigt, in welchem theoretischen Rahmen die
+    argentinische Debatte über technologische Souveränität geführt wird — das erklärt einiges an der Tonlage
+    der Fundación Vía Libre —, aber wer Zeit sparen will, überspringt ihn.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-delapena-guerrero-rodriguez-algocracia-sur-global
+  typ: aufsatz
+  autoren:
+  - De la Peña, Nicolás
+  - Guerrero Sierra, Hugo Fernando
+  - Rodríguez Benavidez, Iván Ramón
+  titel: 'Algocracia en el sur global: La amenaza de una nueva dependencia'
+  titel_deutsch: 'Algokratie im globalen Süden: die Gefahr einer neuen Abhängigkeit'
+  fundstelle: Revista Chilena de Derecho y Tecnología 14 (2025), Artikel 74784
+  jahr: 2025
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/74784
+  doi: 10.5354/0719-2584.2025.74784
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  - co
+  themenachsen:
+  - governance
+  - grundrechte
+  - sicherheit-export
+  - marktzugang
+  kernthese: 'Der Einsatz von KI in staatlichen Funktionen ("Algokratie") importiert im globalen Süden
+    die Verzerrungen der Anbieter, schmälert die Souveränität und eröffnet den Herkunftsstaaten der Technologie
+    einen Einflusskanal über die Grenze hinaus.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Das ist die Perspektive, die in der europäischen Debatte vollständig fehlt und die
+    man kennen muss, wenn man verstehen will, warum lateinamerikanische Regierungen den Brüssel-Effekt
+    teils begrüssen und teils fürchten. Die These lautet: Ein Staat, der seine Verwaltung mit Systemen
+    betreibt, die er weder baut noch prüfen kann, gibt Hoheitsgewalt ab — nicht rechtlich, aber faktisch.
+    Das ist eine Souveränitätsthese, keine grundrechtliche, und sie ist präziser formuliert als die übliche
+    Rede vom digitalen Kolonialismus, weil die Autoren die Übertragungskanäle benennen (Anbieterverzerrung,
+    Beschaffungsabhängigkeit, extraterritoriale Einflussnahme). Für die deutsche Diskussion um digitale
+    Souveränität und um Abhängigkeit von US-Hyperscalern in der Verwaltung ist das die schärfste mir bekannte
+    Formulierung. Politikwissenschaftlich mehr als juristisch, ohne Normanalyse; man liest es für die
+    Fragestellung.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-aguerre-etica-emprendedor-latam
+  typ: bericht
+  autoren:
+  - Aguerre, Carolina
+  - Ferracutti, Delfina
+  - Kirschbaum, Iván
+  - Levy Daniel, Maia
+  - Perini, Antonella
+  titel: El papel de la ética en el desarrollo de sistemas de inteligencia artificial en el sector emprendedor
+    en América Latina
+  titel_deutsch: Die Rolle der Ethik bei der Entwicklung von KI-Systemen im Gründersektor Lateinamerikas
+  fundstelle: Proyecto GuIA (CETyS, Universidad de San Andrés), Ausgabe 2021, veröffentlicht 2022
+  jahr: 2022
+  sprache: es
+  url: https://proyectoguia.lat/wp-content/uploads/2022/04/El-papel-de-la-etica-Paper.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  themenachsen:
+  - governance
+  - marktzugang
+  kernthese: 'Ethische Selbstverpflichtungen spielen bei lateinamerikanischen KI-Startups eine geringe
+    und vor allem von Investorenanforderungen getriebene Rolle.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Empirisch angelegt und deshalb aufgenommen, obwohl "Ethik" als Thema für einen Juristen
+    wenig hergibt. Der Befund ist der brauchbare Teil: Wenn ethische Selbstregulierung im Gründersektor
+    nur greift, soweit Kapitalgeber sie verlangen, dann ist die Selbstregulierung eine Funktion des Kapitalmarkts
+    und nicht der Einsicht. Das ist ein Argument gegen den Regulierungsverzicht, den ITS Rio und Ordelin
+    Font aus anderen Gründen empfehlen, und es sollte in der Sammlung stehen, damit die Gegenposition
+    nicht fehlt. Sonst wenig.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-abdulrauf-au-ki-vertrag
+  typ: aufsatz
+  autoren:
+  - Abdulrauf, Lukman
+  titel: 'Towards an African Union Treaty on Artificial Intelligence: Reconciling African Values with
+    Global Standards'
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 29 (2026), Beitrag a23877
+  jahr: 2026
+  sprache: en
+  url: https://perjournal.co.za/article/view/23877
+  doi: 10.17159/1727-3781/2026/v29i0a23877
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  - intl
+  themenachsen:
+  - governance
+  - grundrechte
+  kernthese: Der Uebergang der Afrikanischen Union von Soft Law zu einem verbindlichen KI-Vertrag scheitert
+    weniger an der Kodifikationstechnik als an der normativen Versoehnung afrikanischer Werte mit global
+    gesetzten, eurozentrisch gepraegten Standards; noetig sei ein hybrider Ansatz, der technische Interoperabilitaet
+    wahrt und zugleich Ubuntu, Solidaritaet und Fairness in die Rechtsarchitektur einschreibt.
+  eigene_bewertung: 'Fuer die rechtsvergleichende Arbeit der interessanteste Text des PER-Sonderhefts,
+    weil er die Bruesseler Effekt-These aus der Empfaengerperspektive angreift. Abdulrauf beschreibt praezise,
+    was passiert, wenn die KI-VO als Modell exportiert wird: Man uebernimmt die Risikoklassen, nicht aber
+    die Aufsichtskapazitaet, und erzeugt Regulierung auf dem Papier. Die Ubuntu-Passagen sind mir zu weich
+    - sie liefern ein Vokabular, keinen Tatbestand. Aber wer verstehen will, warum die AU-Strategie 2024
+    ausdruecklich nicht die EU kopiert, sollte das hier lesen statt der ueblichen Kommentare aus Bruessel.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-okorie-transdisziplinaere-governance
+  typ: aufsatz
+  autoren:
+  - Okorie, Chijioke I.
+  titel: Towards a Transdisciplinary Governance of Artificial Intelligence in Africa
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 29 (2026), Beitrag a25147
+  jahr: 2026
+  sprache: en
+  url: https://perjournal.co.za/article/view/25147
+  doi: 10.17159/1727-3781/2026/v29i0a25147
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - governance
+  - datenschutz
+  kernthese: KI-Governance in Afrika findet bereits statt, aber verteilt auf Datenschutzgesetze, Fintech-Richtlinien,
+    Cybersicherheitsrahmen und die Moderationsregeln globaler Plattformen; noetig sei ein Analyseraster
+    "legal-technical governance", das Rechtsnorm und technische Operation (Datenlabeling, Modelltraining,
+    algorithmisches Audit) als wechselseitig konstitutiv begreift.
+  eigene_bewertung: Der konzeptionelle Grundlagentext des Sonderhefts. Die Beobachtung, dass die eigentliche
+    KI-Regulierung Afrikas nicht in KI-Gesetzen steht, sondern in POPIA, in Fintech-Leitlinien und in
+    den AGB von Meta, ist richtig und uebertragbar - sie gilt fuer Deutschland vor Geltung der KI-VO genauso.
+    Der Rueckgriff auf Dooyeweerds Modalitaetenlehre als philosophische Linse ist eine Eigenwilligkeit,
+    die ich fuer entbehrlich halte und die den Text unnoetig schwer zugaenglich macht. Ich wuerde die
+    Einleitung und den Abschnitt zur institutionellen Fragmentierung lesen und den philosophischen Mittelteil
+    ueberspringen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-okorie-marivate-editorial-sonderheft
+  typ: aufsatz
+  autoren:
+  - Okorie, Chijioke
+  - Marivate, Vukosi
+  titel: 'Editorial: Legal-Technical Governance and Regulation of Artificial Intelligence in Africa'
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 29 (2026), Beitrag a27950
+  jahr: 2026
+  sprache: en
+  url: https://perjournal.co.za/article/view/27950
+  doi: 10.17159/1727-3781/2026/v29i0a27950
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - governance
+  kernthese: Das Editorial fuehrt in das Sonderheft des Data Science Law Lab und der Gruppe Data Science
+    for Social Impact der University of Pretoria ein und ordnet die fuenf begutachteten Beitraege in einen
+    legal-technischen Governance-Ansatz ein.
+  eigene_bewertung: 'Als eigenstaendiger Text belanglos, als Wegweiser sehr nuetzlich: Es sagt in zwei
+    Seiten, welche fuenf Aufsaetze das Heft traegt und wie sie aufeinander aufbauen - von der Begriffsbildung
+    ueber die AU-Vertragsfrage und die IP-Strategien bis zu Ueberwachung und Predictive Policing. Ich
+    habe das Heft ueber dieses Editorial erschlossen und wuerde es jedem als erste Seite empfehlen, der
+    sich Suedafrika und die AU-Ebene neu erarbeitet. Zitierfaehig ist es allenfalls fuer die Feststellung,
+    dass es 2026 erstmals ein begutachtetes Sonderheft zu KI-Governance in Afrika gibt.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-vandermerwe-ueberblick-ki-recht
+  typ: aufsatz
+  autoren:
+  - Van der Merwe, Daniel
+  titel: A Local, Continental (African) and International Overview of the Law as it relates (or tries
+    to relate) to Artificial Intelligence (AI)
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 27 (2024), Beitrag a18498
+  jahr: 2024
+  sprache: en
+  url: https://perjournal.co.za/article/view/18498
+  doi: 10.17159/1727-3781/2024/v27i0a18498
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - governance
+  - grundrechte
+  kernthese: Suedafrika sitzt bei der Anpassung an KI zwischen den Stuehlen, weil es materielles roemisch-hollaendisches
+    Recht mit englischem Prozess- und Beweisrecht verbindet; deshalb sei die Orientierung an UK und USA
+    naeher als die an der AU, deren Arbeiten auf dem franzoesisch-inquisitorischen Modell beruhen.
+  eigene_bewertung: Ich fuehre den Text, weil er in der suedafrikanischen Diskussion als Ueberblick zitiert
+    wird, halte ihn aber fuer schwach. Der Hinweis auf die Mischrechtsordnung und die daraus folgende
+    Orientierung am Common Law ist der einzige eigenstaendige Gedanke und er ist richtig - er erklaert,
+    warum suedafrikanische Autoren beim Beweisrecht regelmaessig nach London und nicht nach Bruessel schauen.
+    Der lange philosophische Teil ueber Orwells 1984 ist Fuellmaterial. Wer den Ueberblick braucht, nimmt
+    besser das PER-Sonderheft 2026.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-krafzik-corporate-governance-ki
+  typ: aufsatz
+  autoren:
+  - Krafzik, Sebastian
+  titel: 'Corporate governance and artificial intelligence: The emerging legal challenges in South Africa''s
+    boardrooms'
+  fundstelle: South African Law Journal 143 (2026), Heft 2, 251-282
+  jahr: 2026
+  sprache: en
+  doi: 10.47348/salj/v143/i2a3
+  zugang: bezahlt
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - governance
+  - haftung
+  kernthese: Der Einsatz von KI in der Vorstands- und Aufsichtsarbeit stellt die Sorgfalts- und Treuepflichten
+    des Companies Act 71 of 2008 vor neue Fragen, weil Verantwortungszurechnung, Business Judgment Rule
+    und Informationsgrundlage bei algorithmisch vorbereiteten Entscheidungen anders liegen als bei rein
+    menschlichen.
+  eigene_bewertung: 'Der einzige mir bekannte Beitrag im South African Law Journal - der Leitzeitschrift
+    des Landes -, der KI dogmatisch und nicht bloss ueberblicksartig behandelt. Fuer die Achse Organhaftung
+    ist er das suedafrikanische Gegenstueck zu unserer Diskussion um Paragraf 93 Abs. 1 Satz 2 AktG und
+    die Frage, ob und wann sich ein Vorstand auf KI-gestuetzte Informationen verlassen darf. Section 76(4)
+    Companies Act ist der Business Judgment Rule nachgebildet, dadurch ist der Vergleich unmittelbar ergiebig.
+    Nachteil: nicht frei verfuegbar, ich konnte nur die Crossref-Metadaten pruefen, nicht den Text. Fuer
+    die Bibliothek vormerken.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2021-lco-regulating-ai-issues
+  typ: bericht
+  autoren:
+  - Law Commission of Ontario
+  titel: 'Regulating AI: Critical Issues and Choices'
+  fundstelle: Law Commission of Ontario, Toronto, 2021 (Issues Paper)
+  jahr: 2021
+  sprache: en
+  url: https://lco-cdo.org/en/publications/regulating-ai-critical-issues-and-choices-issues-paper/
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - grundrechte
+  kernthese: Das Papier ordnet die Regulierungsoptionen fuer KI und automatisierte Entscheidungsfindung
+    im kanadischen Recht und stellt die Grundentscheidungen - sektoral oder horizontal, risikobasiert
+    oder rechtebasiert, Selbstregulierung oder Aufsicht - als bewusst zu treffende Weichenstellungen dar.
+  eigene_bewertung: Die Vorstufe zu "Accountable AI" und als Systematisierung teilweise besser als der
+    Endbericht, weil sie die Alternativen offenlaesst, statt sie zu entscheiden. Wer eine saubere Gegenueberstellung
+    des risikobasierten (EU) und des rechtebasierten (kanadisch-menschenrechtlichen) Ansatzes braucht,
+    findet sie hier auf wenigen Seiten. Ich verwende das Papier als Argumentationsraster, wenn ich begruenden
+    muss, warum die Risikoklassifikation der KI-VO eine Entscheidung und keine Naturnotwendigkeit ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-raso-interoperable-ai-regulation
+  typ: aufsatz
+  autoren:
+  - Raso, Jennifer
+  titel: Interoperable AI Regulation
+  fundstelle: Canadian Journal of Law and Technology 23 (2026), Heft 2, 207
+  jahr: 2026
+  sprache: en
+  url: https://digitalcommons.schulichlaw.dal.ca/cjlt/vol23/iss2/4
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  - intl
+  themenachsen:
+  - governance
+  - marktzugang
+  kernthese: Interoperabilität als Leitziel der KI-Regulierung trägt eine verdeckte Politik in sich -
+    den Vorrang von Harmonie vor Dissens und von Konsistenz vor Vielfalt - und steht damit im Widerspruch
+    zur demokratischen Funktion des Gesetzes, das gerade Meinungsverschiedenheit organisiert und auflöst.
+  eigene_bewertung: Der beste kanadische Aufsatz des Jahrgangs und der einzige, der die Interoperabilitaetsrhetorik
+    grundsaetzlich angreift. Raso trifft damit genau den Nerv der Debatte um den Brussels Effect, um die
+    G7-Hiroshima-Prozesse und um die Frage, ob das kanadische AIDA sich an der KI-VO orientieren sollte
+    - eine Frage, die sich mit dem Scheitern von Bill C-27 im Januar 2025 neu stellt. Ihr Argument, das
+    Gesetz sei ein Informationssystem, in dem Gemeinschaften ueber komplexe Phaenomene streiten, ist theoretisch
+    anspruchsvoll und fuer mich der brauchbarste Einwand gegen die Vorstellung, Regulierungsangleichung
+    sei per se ein Wert. Wer zum Verhaeltnis KI-VO/Drittstaaten arbeitet, sollte den Text kennen. Aus
+    dem We-Robot-Sonderheft, also mit dem dortigen interdisziplinaeren Zuschnitt.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2024-turnbull-framework-is-the-message
+  typ: aufsatz
+  autoren:
+  - Turnbull, Amanda
+  titel: 'The Framework is the Message: Legal and Ethical Implications of ChatGPT'
+  fundstelle: Canadian Journal of Law and Technology 22 (2024), Heft 1
+  jahr: 2024
+  sprache: en
+  url: https://digitalcommons.schulichlaw.dal.ca/cjlt/vol22/iss1/1
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - governance
+  - content
+  kernthese: Die rechtliche und ethische Bewertung von ChatGPT wird durch den gewaehlten Deutungsrahmen
+    vorentschieden; wer das System als Werkzeug, als Sprecher oder als Infrastruktur beschreibt, gelangt
+    zu unterschiedlichen Zurechnungen.
+  eigene_bewertung: Ein Metatext ueber die Rahmung, kein dogmatischer Beitrag - und in dieser Funktion
+    nuetzlich, weil er offenlegt, dass die deutsche Diskussion sich weitgehend fuer den Werkzeugrahmen
+    entschieden hat, ohne diese Entscheidung zu begruenden (sichtbar etwa an der Selbstverstaendlichkeit,
+    mit der Paragraf 2 Abs. 2 UrhG die Schoepfungsfrage erledigt). Wer die Grundannahmen der eigenen Argumentation
+    pruefen will, liest den Text als Kontrollfrage. Fuer die konkrete Rechtsanwendung gibt er nichts her.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-tse-rezension-legal-singularity
+  typ: aufsatz
+  autoren:
+  - Tse, Matthew
+  titel: Considering the Concept of Law in the Legal Singularity
+  fundstelle: Canadian Journal of Law and Technology 23 (2025), Heft 1 (Rezension zu Abdi Aidid/Benjamin
+    Alarie, The Legal Singularity, University of Toronto Press 2023)
+  jahr: 2025
+  sprache: en
+  url: https://digitalcommons.schulichlaw.dal.ca/cjlt/vol23/iss1/5
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - governance
+  - berufsrecht
+  kernthese: Die von Aidid und Alarie beschriebene "legal singularity" - ein durch algorithmische Vorhersage
+    vollstaendig bestimmter Rechtszustand - erbt die Schwaechen der analytischen Rechtstheorie, auf die
+    sie sich stillschweigend stuetzt.
+  eigene_bewertung: Die beste Kurzkritik an der einflussreichsten kanadischen KI-Rechtsmonographie. Aidid
+    und Alarie (Toronto, Gruender von Blue J Legal) behaupten, vollstaendige Vorhersagbarkeit mache das
+    Recht besser; Tse haelt dagegen, dass Unbestimmtheit keine Fehlfunktion, sondern Funktionsbedingung
+    des Rechts ist. Das ist im Kern die Auseinandersetzung, die bei uns als Streit um die Subsumtionsautomatentheorie
+    seit den sechziger Jahren gefuehrt wird, und Tse fuehrt sie auf aktuellem Stand. Ich nutze den Text
+    als Einstieg in die Monographie, weil er sie fair referiert und angreift.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2023-aidid-alarie-legal-singularity
+  typ: monographie
+  autoren:
+  - Aidid, Abdi
+  - Alarie, Benjamin
+  titel: 'The Legal Singularity: How Artificial Intelligence Can Make Law Radically Better'
+  fundstelle: University of Toronto Press, Toronto 2023
+  jahr: 2023
+  sprache: en
+  zugang: bezahlt
+  jurisdiktionen:
+  - ca
+  - us
+  themenachsen:
+  - governance
+  - berufsrecht
+  - sektor-oeffentlich
+  kernthese: Wenn KI die Anwendung des Rechts nahezu vollstaendig vorhersagbar macht, verschwindet die
+    Rechtsunsicherheit als Ressource der Maechtigen, und das Recht kann seine Verteilungsversprechen erstmals
+    einloesen.
+  eigene_bewertung: 'Die kanadische Gegenposition zur europaeischen Skepsis und deshalb unverzichtbar,
+    auch wenn ich sie fuer falsch halte. Alarie ist nicht nur Professor in Toronto, sondern Gruender eines
+    Legal-Tech-Unternehmens; das erklaert den Optimismus und schmaelert ihn zugleich. Der starke Teil
+    ist die Beobachtung, dass Rechtsunsicherheit systematisch die begueterte Partei beguenstigt - das
+    ist zutreffend und in Deutschland unterbelichtet. Der schwache Teil ist die Gleichsetzung von Vorhersagbarkeit
+    mit Richtigkeit: Ein Modell, das die bisherige Rechtsprechung perfekt vorhersagt, schreibt deren Fehler
+    fort. Wer die Debatte um KI in der Justiz fuehrt, braucht dieses Buch als Zielscheibe. Ich habe nur
+    die Verlagsangaben und die Rezension geprueft, nicht das Buch selbst.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-vidhi-participatory-ai
+  typ: bericht
+  autoren:
+  - Vidhi Centre for Legal Policy
+  - Centre for Responsible AI, IIT Madras
+  titel: Participatory AI Approaches in AI Development and Governance
+  fundstelle: Vidhi Centre for Legal Policy, Neu-Delhi, 17. April 2024
+  jahr: 2024
+  sprache: en
+  url: https://vidhilegalpolicy.in/research/participatory-ai-approaches-in-ai-development-and-governance/
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - governance
+  - grundrechte
+  kernthese: KI-Entwicklung und -Governance in Indien sollten Betroffenenbeteiligung institutionalisieren,
+    statt sie als nachtraegliche Konsultation zu behandeln.
+  eigene_bewertung: Vidhi ist der einflussreichste unabhaengige Rechtspolitik-Thinktank Indiens und arbeitet
+    regelmaessig fuer Ministerien; deshalb fuehre ich den Bericht, obwohl er programmatisch bleibt. Der
+    Beteiligungsansatz ist die indische Antwort auf die Frage, die in Europa ueber Art. 27 KI-VO und die
+    Konsultation Betroffener gestellt wird, und er ist ambitionierter als unsere Loesung. Belastbare rechtliche
+    Analyse enthaelt das Papier kaum; es ist Politikberatung. Fuer den Kontext des indischen Regulierungsdiskurses
+    nuetzlich, als Argumentationsquelle nicht.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2023-shwartz-altshuler-cahane-human-machine-state
+  typ: monographie
+  autoren:
+  - Shwartz Altshuler, Tehilla
+  - Cahane, Amir
+  titel: 'Human, Machine, State: Toward the Regulation of Artificial Intelligence'
+  fundstelle: Israel Democracy Institute, Jerusalem 2023
+  jahr: 2023
+  sprache: en
+  url: https://en.idi.org.il/media/24562/human-machine-state_web.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - il
+  themenachsen:
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  kernthese: Die Regulierung von KI muss in Israel vom staatlichen Einsatz her gedacht werden - Nachrichtendienste,
+    Polizei, Sozialverwaltung -, weil dort die Grundrechtsgefaehrdung am groessten und die demokratische
+    Kontrolle am schwaechsten ist.
+  eigene_bewertung: 'Das einzige mir bekannte israelische Buch, das die Regulierungsfrage im Ganzen stellt,
+    und der Referenztext der dortigen Debatte. Shwartz Altshuler leitet am Israel Democracy Institute
+    das Programm Demokratie im digitalen Zeitalter und beraet die Knesset; das Buch hat entsprechend Gewicht.
+    Fuer den Rechtsvergleich ist Israel ein Sonderfall: hoch entwickelte KI-Industrie, keine Verfassung
+    im foermlichen Sinn, ein Grundgesetz Menschenwuerde und Freiheit ohne ausdruecklichen Datenschutzartikel,
+    und ein Sicherheitsapparat mit weiten Befugnissen. Genau diese Kombination macht den Text lehrreich
+    fuer die Frage, was Grundrechtsschutz gegen KI ohne dichte Verfassungsdogmatik leisten kann. Die hebraeische
+    Originalausgabe erschien ebenfalls beim IDI; ich habe nur die englische Fassung geprueft. Schwaeche:
+    politikberatend, nicht dogmatisch; wer Subsumtionsmaterial sucht, findet es hier nicht.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2025-hacohen-user-based-algorithmic-auditing
+  typ: aufsatz
+  autoren:
+  - Hacohen, Uri Y.
+  titel: User-based algorithmic auditing
+  fundstelle: Theoretical Inquiries in Law 26 (2025), Heft 1, 287-311
+  jahr: 2025
+  sprache: en
+  doi: 10.1515/til-2025-0012
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  kernthese: Algorithmische Pruefung sollte nicht allein Aufsichtsbehoerden und beauftragten Pruefstellen
+    vorbehalten bleiben, sondern nutzerbasiert organisiert werden, weil nur die Betroffenen ueber die
+    Beobachtungen verfuegen, die systematische Abweichungen sichtbar machen.
+  eigene_bewertung: Der Gegenentwurf zum institutionalisierten Audit, wie es Art. 43 KI-VO und Art. 37
+    DSA vorsehen. Hacohen argumentiert, dass zentralisierte Pruefung an der Skalierung und am Informationszugang
+    scheitert und dass verteilte, von Nutzern getragene Pruefung die bessere Erkennungsleistung erbringt.
+    Das ist eine ernstzunehmende Kritik am europaeischen Konformitaetsbewertungsmodell, und sie kommt
+    aus der Rechtsordnung mit der dichtesten Technologiebranche. Wer zur Frage arbeitet, ob die Marktueberwachung
+    nach Kapitel IX KI-VO leistungsfaehig sein kann, sollte diesen Einwand kennen. Fuer die Uebertragung
+    fehlt der Datenzugangsanspruch, den Art. 40 DSA nur Forschenden gibt - das schwaecht das Modell in
+    Europa.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2022-hod-data-science-meets-law
+  typ: aufsatz
+  autoren:
+  - Hod, Shlomi
+  - Chagal-Feferkorn, Karni
+  - Elkin-Koren, Niva
+  - Gal, Avigdor
+  titel: Data science meets law
+  fundstelle: Communications of the ACM 65 (2022), Heft 2, 35-39
+  jahr: 2022
+  sprache: en
+  doi: 10.1145/3506575
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  themenachsen:
+  - governance
+  - berufsrecht
+  kernthese: Rechtswissenschaft und Datenwissenschaft arbeiten mit unvereinbaren Begriffen von Genauigkeit,
+    Erklaerung und Fairness; produktive Zusammenarbeit setzt voraus, diese Unvereinbarkeit zu benennen
+    statt sie zu ueberspielen.
+  eigene_bewertung: 'Kurz, in einer Informatikzeitschrift erschienen, und gerade deshalb aufschlussreich:
+    Man sieht, wie israelische Juristinnen ihren Gegenstand Informatikern erklaeren. Fuer die eigene Arbeit
+    nuetzlich, weil der Text die Uebersetzungsprobleme benennt, die bei der Auslegung technischer Begriffe
+    in Art. 3 KI-VO und in den harmonisierten Normen tatsaechlich auftreten - etwa dass "accuracy" in
+    Art. 15 KI-VO ein informatischer Begriff mit mehreren nicht gleichzeitig erfuellbaren Definitionen
+    ist. Kein Rechtstext, aber ein hilfreicher.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-wasserman-rozen-chagal-feferkorn-lawyers-mars
+  typ: sammelband
+  autoren:
+  - Wasserman-Rozen, Hofit
+  - Chagal-Feferkorn, Karni
+  titel: 'Lawyers are from Mars, data scientists are from Venus: promoting responsible AI on Earth'
+  fundstelle: 'in: Research Handbook on the Law of Artificial Intelligence, Edward Elgar, Cheltenham 2025,
+    177-193'
+  jahr: 2025
+  sprache: en
+  doi: 10.4337/9781035316496.00016
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  themenachsen:
+  - governance
+  - berufsrecht
+  kernthese: Verantwortliche KI scheitert regelmaessig nicht an fehlenden Normen, sondern an der Uebersetzung
+    zwischen juristischer und technischer Fachsprache; die Autorinnen schlagen ein Verfahren vor, das
+    die Uebersetzung institutionalisiert.
+  eigene_bewertung: Aktualisierte und ausgebaute Fassung des CACM-Beitrags von 2022, in einem Elgar-Handbuch.
+    Praktisch orientiert, fuer die Ausgestaltung von Compliance-Prozessen nach Art. 17 KI-VO (Qualitaetsmanagementsystem)
+    brauchbar. Wissenschaftlich wenig neu. Ich fuehre den Beitrag, weil er die aktuellste Fundstelle der
+    Autorinnen zum Thema ist.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-hsu-ki-regulierung-taiwan-stand
+  typ: aufsatz
+  autoren:
+  - Hsu, C.
+  titel: 'Taiwan: The Current Status and Prospects of Artificial Intelligence Regulations in Taiwan'
+  fundstelle: AIRe - Journal of AI Law and Regulation 1 (2024), Heft 1, 150-154
+  jahr: 2024
+  sprache: en
+  doi: 10.21552/aire/2024/1/18
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - governance
+  - marktzugang
+  kernthese: Taiwan verfolgt bislang einen sektoralen und weitgehend nicht bindenden Ansatz; ein KI-Grundlagengesetz
+    ist in Vorbereitung, die eigentliche Steuerung erfolgt ueber Behoerdenrichtlinien und das Datenschutzrecht.
+  eigene_bewertung: 'Kurzer Laenderbericht in der Lexxion-Zeitschrift, fuenf Seiten, aber die einzige
+    mir zugaengliche englischsprachige Bestandsaufnahme der taiwanischen Rechtslage in einer begutachteten
+    Zeitschrift. Genau dafuer nuetzlich: Wer sich Taiwan erschliessen will und kein Chinesisch liest,
+    faengt hier an und geht dann zu den Beitraegen in 月旦法學雜誌 ueber. Wissenschaftlicher Eigenwert gering,
+    Orientierungswert hoch. Autorenvorname aus den Metadaten nicht ermittelbar.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2021-zerilli-citizens-guide-ai
+  typ: monographie
+  autoren:
+  - Zerilli, John
+  - Danaher, John
+  - Maclaurin, James
+  - Gavaghan, Colin
+  - Knott, Alistair
+  - Liddicoat, Joy
+  - Noorman, Merel
+  titel: A Citizen's Guide to Artificial Intelligence
+  fundstelle: MIT Press, Cambridge (Mass.) 2021, ISBN 9780262361323
+  jahr: 2021
+  sprache: en
+  doi: 10.7551/mitpress/12518.001.0001
+  isbn: '9780262361323'
+  zugang: bezahlt
+  jurisdiktionen:
+  - nz
+  - intl
+  themenachsen:
+  - governance
+  - grundrechte
+  - arbeit
+  - haftung
+  kernthese: Die zentralen gesellschaftlichen Fragen der KI - Transparenz, Verzerrung, Verantwortung,
+    Kontrolle, Arbeit, Privatheit - lassen sich fuer ein allgemeines Publikum ohne Vereinfachung darstellen,
+    wenn man sie an den bestehenden rechtlichen und ethischen Kategorien entlangfuehrt.
+  eigene_bewertung: Aus dem neuseelaendischen Otago-Projekt hervorgegangen und international das sichtbarste
+    Ergebnis der dortigen Forschung. Es ist ein Einfuehrungsbuch, kein Fachbuch; man liest es nicht wegen
+    neuer Argumente, sondern weil es die Argumente der Gruppe um Gavaghan, Knott und Maclaurin gebuendelt
+    enthaelt und weil die Kapitel zu Transparenz und Kontrolle die Aufsaetze von 2019 zugaenglich machen.
+    Fuer mich der schnellste Weg, den neuseelaendischen Diskussionsstand zu erfassen, ohne drei Berichte
+    zu lesen. Kein Ersatz fuer die Fachliteratur zu einzelnen Rechtsfragen. Nur Verlagsangaben geprueft.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2023-mulopulos-ki-agenda-nz
+  typ: aufsatz
+  autoren:
+  - Mulopulos, Sam
+  titel: 'An Artificial Intelligence Agenda for New Zealand: Lessons from the United States'
+  fundstelle: Policy Quarterly 19 (2023), Heft 4, 65-72
+  jahr: 2023
+  sprache: en
+  doi: 10.26686/pq.v19i4.8569
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  - us
+  themenachsen:
+  - governance
+  - marktzugang
+  kernthese: Neuseeland sollte sich bei der KI-Regulierung am amerikanischen, innovationsoffenen Modell
+    orientieren und nicht am europaeischen Verordnungsansatz.
+  eigene_bewertung: Die Gegenposition zur europaeischen Regulierungslogik, formuliert fuer eine kleine
+    offene Volkswirtschaft - genau die Konstellation, in der das Argument des Regulierungsstandortnachteils
+    am staerksten wiegt. Ich fuehre den Beitrag, weil er belegt, dass die neuseelaendische Diskussion
+    nicht europaeisch determiniert ist; die Regierung hat 2024/2025 tatsaechlich einen leichten, nicht
+    gesetzgeberischen Ansatz gewaehlt. Policy Quarterly ist eine begutachtete Politikzeitschrift des Institute
+    for Governance and Policy Studies, keine Rechtszeitschrift - entsprechend ist die rechtliche Analyse
+    duenn. Als Beleg fuer die Debattenlage nuetzlich, als juristische Quelle nicht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2023-bun-radikale-unsicherheit-ki-nz
+  typ: aufsatz
+  autoren:
+  - Bun, Sokny
+  titel: 'Radical Uncertainty and Artificial Intelligence: Policy Issues for Aotearoa New Zealand'
+  fundstelle: Policy Quarterly 19 (2023), Heft 4, 73-76
+  jahr: 2023
+  sprache: en
+  doi: 10.26686/pq.v19i4.8570
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - governance
+  kernthese: KI-Politik muss unter radikaler Unsicherheit entscheiden; Instrumente, die auf Risikoquantifizierung
+    beruhen, sind dafuer ungeeignet.
+  eigene_bewertung: 'Kurzbeitrag, vier Seiten, und methodisch der interessanteste Einwand gegen den risikobasierten
+    Ansatz: Risikoklassifikation setzt voraus, dass sich Eintrittswahrscheinlichkeit und Schadensausmass
+    abschaetzen lassen; bei Grundmodellen mit unbestimmtem Verwendungszweck ist das gerade nicht der Fall.
+    Genau diese Schwaeche versucht die KI-VO mit der Rechenoperationsschwelle des Art. 51 Abs. 2 zu ueberspielen.
+    Als Denkanstoss brauchbar, als Beleg zu duenn.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-pendleton-regulierung-neuseeland
+  typ: sammelband
+  autoren:
+  - Pendleton, Michael D.
+  titel: Regulation, New Zealand
+  fundstelle: 'in: Elgar Concise Encyclopedia of Artificial Intelligence and the Law, Edward Elgar, Cheltenham
+    2025, 361-363'
+  jahr: 2025
+  sprache: en
+  doi: 10.4337/9781035336906.00094
+  zugang: bezahlt
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - governance
+  - marktzugang
+  kernthese: Neuseeland hat sich gegen ein KI-Gesetz entschieden und steuert den Einsatz ueber bestehendes
+    Recht - Privacy Act 2020, Human Rights Act 1993, Fair Trading Act - ergaenzt um den unverbindlichen
+    Algorithm Charter.
+  eigene_bewertung: Drei Seiten Lexikonartikel, kein wissenschaftlicher Beitrag - ich fuehre ihn ausschliesslich,
+    weil er die einzige zitierfaehige Kurzdarstellung der neuseelaendischen Rechtslage in einem internationalen
+    Nachschlagewerk ist und man ihn deshalb als Beleg fuer den Regulierungsansatz anfuehren kann. Wer
+    mehr braucht, muss auf die Berichte des Otago-Projekts und die Verlautbarungen des Privacy Commissioner
+    zurueckgreifen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2021-chesterman-we-the-robots
+  typ: monographie
+  autoren:
+  - Chesterman, Simon
+  titel: We, the Robots? Regulating Artificial Intelligence and the Limits of the Law
+  fundstelle: Cambridge University Press, Cambridge 2021
+  jahr: 2021
+  sprache: en
+  doi: 10.1017/9781009047081
+  zugang: bezahlt
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - governance
+  - haftung
+  - grundrechte
+  - marktzugang
+  kernthese: KI stellt das Recht nicht vor voellig neue Fragen, sondern an drei Stellen vor Grenzen -
+    Geschwindigkeit, Autonomie und Undurchsichtigkeit -, und die Antwort liegt nicht in einer Rechtspersoenlichkeit
+    fuer Maschinen, sondern in der Zuordnung von Verantwortung zu Menschen und Organisationen.
+  eigene_bewertung: 'Die beste Gesamtdarstellung zum Thema aus Asien und in meiner Einschaetzung eine
+    der drei besten weltweit. Simon Chesterman ist Dekan der NUS-Rechtsfakultaet und zugleich Senior Director
+    von AI Singapore; er hat die singapurische Politik mitgestaltet und schreibt entsprechend aus der
+    Naehe zum Regulierungsgeschehen. Fuer meine Arbeit ist das Buch aus zwei Gruenden wichtig: Erstens
+    ist es die belastbarste Widerlegung der Rechtspersoenlichkeitsloesung, die in Europa mit der Entschliessung
+    des Parlaments von 2017 kurz Konjunktur hatte. Zweitens beschreibt es das singapurische Modell - Model
+    AI Governance Framework, AI Verify, keine bindenden Regeln - aus der Innenperspektive und begruendet,
+    warum ein kleiner Staat mit hoher Regulierungskapazitaet sich gegen Gesetzgebung entscheiden kann.
+    Das ist die interessanteste Alternative zum europaeischen Ansatz, die ich kenne. Bei CUP erschienen,
+    Metadaten geprueft.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2021-chesterman-through-a-glass-darkly
+  typ: aufsatz
+  autoren:
+  - Chesterman, Simon
+  titel: 'Through a Glass, Darkly: Artificial Intelligence and the Problem of Opacity'
+  fundstelle: The American Journal of Comparative Law 69 (2021), Heft 2, 271-294
+  jahr: 2021
+  sprache: en
+  doi: 10.1093/ajcl/avab012
+  zugang: bezahlt
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - governance
+  - grundrechte
+  - haftung
+  kernthese: Undurchsichtigkeit von KI-Systemen hat drei verschiedene Ursachen - technische Komplexitaet,
+    rechtlichen Geheimnisschutz und bewusste Verschleierung -, und nur die erste rechtfertigt eine Nachsicht
+    des Rechts; die beiden anderen sind Regelungsentscheidungen.
+  eigene_bewertung: 'Die begrifflich schaerfste Behandlung der Blackbox-Frage, die ich kenne, und fuer
+    die Praxis unmittelbar nuetzlich: Chesterman zwingt dazu, bei jeder Berufung auf Undurchsichtigkeit
+    zu fragen, welche Art gemeint ist. In der europaeischen Diskussion wird technische und geschaeftsgeheimnisbedingte
+    Opazitaet regelmaessig vermengt - etwa bei Art. 78 KI-VO, der den Schutz von Geschaeftsgeheimnissen
+    gegenueber Behoerden ausdruecklich anordnet, und in der Auseinandersetzung um Art. 22 DSGVO. Wer den
+    Einwand "das laesst sich technisch nicht erklaeren" entkraeften will, findet hier das Werkzeug. Rechtsvergleichend
+    angelegt, in der fuehrenden Zeitschrift des Fachs erschienen.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-chesterman-silicon-sovereigns
+  typ: aufsatz
+  autoren:
+  - Chesterman, Simon
+  titel: 'Silicon Sovereigns: Artificial Intelligence, International Law, and the Tech-Industrial Complex'
+  fundstelle: American Journal of International Law 120 (2026), Heft 1, 44-62
+  jahr: 2026
+  sprache: en
+  doi: 10.1017/ajil.2025.10125
+  zugang: bezahlt
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - governance
+  - sicherheit-export
+  - marktzugang
+  kernthese: Die grossen KI-Unternehmen erlangen Faehigkeiten und Verhandlungsmacht, die sie in die Naehe
+    voelkerrechtlicher Akteure ruecken; das Voelkerrecht hat dafuer keine Kategorien und muss sie entwickeln,
+    ohne den Staaten die Verantwortung abzunehmen.
+  eigene_bewertung: Der aktuellste Chesterman und der ehrgeizigste. Fuer die Achse marktzugang und fuer
+    alles, was mit Rechenkapazitaet, Exportkontrolle und der Frage nach der Souveraenitaet ueber Modelle
+    zu tun hat, der weiterfuehrende Text - er verbindet die Debatte um Compute Governance mit klassischer
+    Voelkerrechtsdogmatik. Erschienen im American Journal of International Law, was fuer die Rezeption
+    spricht. Ich habe nur die Metadaten geprueft; es gibt eine SSRN-Fassung von 2025 unter derselben Ueberschrift.
+    Der Titel ist griffiger als das Argument; ob die Analogie zu voelkerrechtlichen Akteuren traegt, wuerde
+    ich erst nach der Lektuere beurteilen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-petrin-ki-corporate-governance
+  typ: aufsatz
+  autoren:
+  - Petrin, Martin
+  titel: The Impact of AI and New Technologies on Corporate Governance and Regulation
+  fundstelle: Singapore Journal of Legal Studies 2024 (Maerz), 90
+  jahr: 2024
+  sprache: en
+  url: https://law.nus.edu.sg/sjls/all-issues/
+  zugang: open-access
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - governance
+  - haftung
+  kernthese: KI veraendert Unternehmensfuehrung und Unternehmensregulierung an drei Stellen - Entscheidungsvorbereitung
+    im Leitungsorgan, Ueberwachung durch Aufsichtsorgane und Aufsichtstechnik der Behoerden - und verlangt
+    an jeder eine andere rechtliche Antwort.
+  eigene_bewertung: 'Systematischer als Krafzik 2026 aus Suedafrika und breiter angelegt, weil Petrin
+    nicht nur die Organpflichten, sondern auch die Aufsichtsseite behandelt. Fuer die Frage, wann ein
+    Vorstand sich auf KI-gestuetzte Informationen verlassen darf, ist der Beitrag die international besser
+    rezipierte Fundstelle. Frei zugaenglich ueber die SJLS. Der Nachteil ist die Breite: Wer eine Antwort
+    auf eine konkrete Pflichtenfrage sucht, findet Systematisierung statt Subsumtion.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07

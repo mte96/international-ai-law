@@ -1,0 +1,49 @@
+name: Benachrichtigung testen
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: "Text der Testmeldung"
+        default: "Test aus GitHub Actions."
+
+permissions:
+  contents: read
+
+jobs:
+  senden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: {python-version: "3.12"}
+
+      - name: Kanaele pruefen
+        env:
+          NTFY_TOPIC:     ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN:     ${{ secrets.NTFY_TOKEN }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER:  ${{ secrets.PUSHOVER_USER }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          t = os.environ.get("NTFY_TOPIC", "")
+          print(f"NTFY_TOPIC gesetzt      : {bool(t)}")
+          print(f"  Laenge                : {len(t)}")
+          print(f"  gueltige Topic-Form   : {bool(re.fullmatch(r'[-_A-Za-z0-9]{1,64}', t))}   (nur A-Z a-z 0-9 - _)")
+          print(f"  Rand ohne Leerzeichen : {t == t.strip()}")
+          print(f"  enthaelt 'http'       : {'http' in t.lower()}   (dann steht die volle Adresse drin, das ist falsch)")
+          print(f"  Grossbuchstaben darin : {any(c.isupper() for c in t)}   (ntfy unterscheidet Gross- und Kleinschreibung)")
+          print(f"NTFY_TOKEN gesetzt      : {bool(os.environ.get('NTFY_TOKEN'))}")
+          print(f"PUSHOVER_TOKEN gesetzt  : {bool(os.environ.get('PUSHOVER_TOKEN'))}")
+          print(f"PUSHOVER_USER gesetzt   : {bool(os.environ.get('PUSHOVER_USER'))}")
+          PY
+
+      - name: Testmeldung senden
+        env:
+          NTFY_TOPIC:     ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN:     ${{ secrets.NTFY_TOKEN }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER:  ${{ secrets.PUSHOVER_USER }}
+          TEXT:           ${{ inputs.text }}
+        run: python3 tracker/notify.py "Testmeldung" "$TEXT"

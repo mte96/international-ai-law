@@ -1,0 +1,2143 @@
+literatur:
+- id: 2024-mantelero-fria
+  typ: aufsatz
+  autoren:
+  - Mantelero, Alessandro
+  titel: 'The Fundamental Rights Impact Assessment (FRIA) in the AI Act: Roots, Legal Obligations and
+    Key Elements for a Model Template'
+  fundstelle: Computer Law & Security Review 54 (2024), 106020
+  jahr: 2024
+  sprache: en
+  doi: 10.1016/j.clsr.2024.106020
+  ssrn_id: '4782126'
+  url: https://arxiv.org/abs/2411.15149
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - grundrechte
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Die Grundrechte-Folgenabschätzung nach Art. 27 KI-VO ist keine Datenschutz-Folgenabschätzung
+    mit erweitertem Prüfprogramm, sondern ein eigenständiges Instrument mit eigener Methodik.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Arbeit zu Art. 27 und die Grundlage aller kursierenden FRIA-Vorlagen.
+    Durch den Omnibus unmittelbar betroffen: Die neue Verschränkung von Grundrechte- und Datenschutz-Folgenabschätzung
+    geht in die Gegenrichtung dessen, wofür Mantelero argumentiert — EDRi nennt das eine "prozedurale
+    Abkürzung". Wer zu Art. 27 n.F. schreibt, hat hier den dogmatischen Maßstab und zugleich den Beleg
+    dafür, dass die Änderung nicht bloß redaktionell ist. Volltext frei über arXiv.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-27
+  - dsgvo-art-35
+- id: 2023-volokh-lemley-henderson-freedom-speech-ai
+  typ: aufsatz
+  autoren:
+  - Volokh, Eugene
+  - Lemley, Mark A.
+  - Henderson, Peter
+  titel: Freedom of Speech and AI Output
+  fundstelle: Journal of Free Speech Law 3 (2023), 651
+  jahr: 2023
+  sprache: en
+  ssrn_id: '4531003'
+  url: https://www.journaloffreespeechlaw.org/volokhlemleyhenderson.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - content
+  - haftung
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - us-cda-230
+  bezug_urteile:
+  - us-2025-garcia-character
+  - us-2025-walters-openai
+  kernthese: KI-Output ist von der Redefreiheit erfasst, weil der Erste Zusatzartikel Rede schützt und
+    nicht nur Sprecher; Träger des Schutzes sind die Nutzer und Hörer, nicht die Maschine.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, an dem sich alles Weitere abarbeitet, und zugleich der kürzeste der Pflichtlektüre
+    — neun Seiten, die den gesamten Streitstand aufspannen. Entscheidend ist die Verlagerung der Frage:
+    Wer nach den Rechten der Maschine fragt, hat schon verloren; die Autoren fragen nach den Rechten der
+    Nutzer und stützen sich auf die Hörerrechtsjudikatur (Lamont, Virginia Pharmacy, Citizens United).
+    Das ist die Argumentationslinie, mit der Character Technologies und OpenAI in den anhängigen Verfahren
+    operieren. Angreifbar an einer Stelle, die Salib genau trifft: Die Hörerrechtsjudikatur setzt voraus,
+    dass es am anderen Ende einen Sprecher mit einer Botschaft gibt — bei einem System, das "alles sagen
+    kann", fehlt die Botschaft, deren Empfang geschützt würde. Wer den Streitstand referiert, muss diesen
+    Text und Salib nebeneinanderlegen; alles andere ist Sekundärliteratur.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2024-salib-ai-outputs-not-speech
+  typ: aufsatz
+  autoren:
+  - Salib, Peter N.
+  titel: AI Outputs Are Not Protected Speech
+  fundstelle: Washington University Law Review 102 (2024), 83–152
+  jahr: 2024
+  sprache: en
+  ssrn_id: '4687558'
+  url: https://wustllawreview.org/wp-content/uploads/2024/11/11_Salib_FINAL-10.2.24-1.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - content
+  - haftung
+  - governance
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_urteile:
+  - us-2025-garcia-character
+  - us-2026-character-vergleich
+  kernthese: KI-Output ist keine geschützte Rede, weil weder Entwickler noch Nutzer den konkreten Inhalt
+    beabsichtigen oder sich zu eigen machen; Regulierung ist deshalb nicht an strict scrutiny, sondern
+    an milderen Maßstäben zu messen.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Gegenposition und der dogmatisch anspruchsvollste Text des Feldes.
+    Salibs Zug ist elegant: Er bestreitet nicht die Hörerrechte, sondern zeigt, dass sie hier nicht das
+    leisten, was Volokh/Lemley/Henderson verlangen — geschützt ist der Zugang zu ungeschützter Rede, und
+    der Zugang lässt sich regulieren, wo die Rede selbst nicht geschützt ist. Damit gewinnt der Gesetzgeber
+    Handlungsspielraum für Sicherheitsauflagen, ohne dass die Nutzer rechtlos gestellt würden. Zwei Schwächen:
+    Erstens trägt die Intentionalitätsvoraussetzung nicht, sobald Anbieter ihre Systeme durch RLHF und
+    Systemprompts sehr wohl auf bestimmte Botschaften hin ausrichten — Salib unterschätzt, wie stark heutige
+    Modelle kuratiert sind. Zweitens ist der Text vor Garcia geschrieben und behandelt die Produktspur
+    nicht. Trotzdem: Wer nur einen Text zur Frage liest, liest diesen, weil er beide Seiten referiert.
+    Freier Volltext bei der Zeitschrift.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2024-manheim-atik-limited-reach
+  typ: aufsatz
+  autoren:
+  - Manheim, Karl
+  - Atik, Jeffery
+  titel: AI Outputs and the Limited Reach of the First Amendment
+  fundstelle: Washburn Law Journal 63 (2024), 159–180
+  jahr: 2024
+  sprache: en
+  ssrn_id: '4626235'
+  url: https://contentdm.washburnlaw.edu/digital/api/collection/wlj/id/7680/download
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - content
+  bezug_streitstaende:
+  - chatbot-output-speech
+  kernthese: Autonom erzeugter Output ist mangels menschlicher Kommunikationsabsicht schon begrifflich
+    keine Rede, sondern 'not-speech', und fällt deshalb unabhängig von seiner Menschenähnlichkeit aus
+    dem Schutzbereich.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kommt zum selben Ergebnis wie Salib, aber auf dem kürzeren und angreifbareren Weg:
+    über den Redebegriff statt über die Schutzbereichsdogmatik. Der Vorteil für den europäischen Leser
+    ist gerade diese Verkürzung — die Intentionalitätsfrage ist in Art. 5 Abs. 1 GG und Art. 11 GRCh die
+    gleiche und dort dogmatisch vertrauter als die amerikanische Hörerrechtsjudikatur. Wer die Frage für
+    das deutsche Recht aufbereiten will, findet hier die anschlussfähigere Vorlage. Der Preis ist Angreifbarkeit:
+    Wenn Intentionalität konstitutiv wäre, entfiele der Schutz auch für automatisierte Übersetzungen,
+    Suchergebnisse und algorithmische Kuratierung — eine Folge, die die Autoren nicht ziehen wollen und
+    nicht begründen. Frei über das Digitalarchiv der Washburn Law School.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2026-aswad-new-frontier-generative-ai
+  typ: aufsatz
+  autoren:
+  - Aswad, Evelyn Mary
+  titel: 'A New Frontier for an International Right with No Frontiers: Freedom of Expression & Generative
+    AI Outputs'
+  fundstelle: Journal of Free Speech Law 6 (2026), 1115
+  jahr: 2026
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/aswad.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - content
+  - governance
+  bezug_streitstaende:
+  - chatbot-output-speech
+  kernthese: Art. 19 des Zivilpakts schützt den Empfang von Informationen unabhängig von der Quelle und
+    liefert damit einen völkerrechtlichen Prüfungsmaßstab für KI-Regulierung, der weder auf einen Sprecher
+    noch auf Intentionalität abstellt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige Text, der die Streitfrage aus dem US-Verfassungsrecht herauslöst, und
+    deshalb für den europäischen Leser der Schlüssel: Die Intentionalitätsdebatte (Salib, Manheim/Atik)
+    ist ein Spezialproblem des Ersten Zusatzartikels; Art. 19 IPbpR und in seinem Gefolge Art. 10 EMRK
+    und Art. 11 GRCh schützen die Informationsfreiheit ausdrücklich quellenunabhängig. Wer die Frage für
+    Europa beantworten will, kommt damit zu einem anderen Ergebnis als Salib — der Schutzbereich ist eröffnet,
+    der Streit verlagert sich auf die Schranke. Diese Verschiebung auszuformulieren, ist die naheliegendste
+    Publikationsmöglichkeit des gesamten Feldes; Aswad selbst führt sie nicht durch.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2024-salib-bloomfield-rozenshtein-ai-safety-first-amendment
+  typ: blogbeitrag
+  autoren:
+  - Salib, Peter N.
+  - Bloomfield, Doni
+  - Rozenshtein, Alan Z.
+  titel: AI Safety Laws Are Not (Necessarily) a First Amendment Problem
+  fundstelle: Lawfare, 07.06.2024
+  jahr: 2024
+  sprache: en
+  url: https://lawfaremedia.org/article/ai-safety-laws-are-not-%28necessarily%29-a-first-amendment-problem
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - governance
+  - sicherheit-export
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - us-ca-sb1047
+  - us-ca-sb53
+  kernthese: Sicherheitsauflagen für Basismodelle berühren den Ersten Zusatzartikel nicht, weil Modellgewichte
+    von keinem Menschen geschrieben und von keinem gelesen werden können und der Output kein Ausdruck
+    einer Absicht des Entwicklers ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Übertragung von Salibs Schutzbereichsthese auf die Gesetzgebung — und damit der
+    Text, der zeigt, worum es in dem Streit praktisch geht: Wenn Output geschützte Rede ist, steht jedes
+    KI-Sicherheitsgesetz von SB 1047 bis SB 53 unter strict scrutiny und fällt. Bemerkenswert ist das
+    Modellgewichte-Argument, das den Bogen zu einem anderen Streitstand des Projekts schlägt (`modellgewichte-kopie`):
+    Wer Gewichte für unlesbar und damit für nichtexpressiv hält, kann sie schlecht als Vervielfältigungsstück
+    eines Werkes behandeln. Diese Verbindung zieht niemand. Kurz, gut argumentiert, klar interessengeleitet
+    — Rozenshtein und Salib gehören zum Lager, das KI-Sicherheitsgesetzgebung für möglich hält.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+  - cal-bpc-22757-12
+- id: 2026-branum-who-has-to-prove-human
+  typ: blogbeitrag
+  autoren:
+  - Branum, Becca
+  titel: If AI Outputs Aren't Speech, Who Has to Prove They're Human?
+  fundstelle: Lawfare, 03.08.2026
+  jahr: 2026
+  sprache: en
+  url: https://www.lawfaremedia.org/article/if-ai-outputs-aren-t-speech--who-has-to-prove-they-re-human
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - content
+  - datenschutz
+  bezug_streitstaende:
+  - chatbot-output-speech
+  kernthese: Wer KI-Output vom Schutzbereich ausnimmt, muss maschinelle von menschlicher Äußerung unterscheiden
+    können — das leisten Detektoren nicht, sodass der Ausschluss praktisch nur über Identitätsnachweise
+    durchsetzbar wäre und damit menschliche Rede belastet.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste Einwand gegen Salib und der aktuellste Text des Feldes (August 2026), und
+    er ist bemerkenswert, weil er nicht dogmatisch, sondern vollzugspraktisch argumentiert: Eine Schutzbereichsgrenze,
+    die sich nur durch Ausweiskontrolle operationalisieren lässt, kostet mehr Freiheit, als sie schützt.
+    Das ist unmittelbar auf die europäische Kennzeichnungspflicht des Art. 50 KI-VO übertragbar und der
+    stärkste Grund, dort Zurückhaltung zu üben — eine Verbindung, die Branum nicht zieht, weil sie aus
+    dem US-Verfassungsrecht schreibt. Sie ist bei CDT tätig; das erklärt die bürgerrechtliche Stoßrichtung
+    und ist mitzulesen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50
+  - us-const-amend-1
+- id: 2025-hlr-resetting-antidiscrimination
+  typ: aufsatz
+  autoren:
+  - Harvard Law Review (Developments in the Law)
+  titel: Resetting Antidiscrimination Law in the Age of AI
+  fundstelle: Harvard Law Review 138 (2025), 1562–1584 (Developments in the Law — Artificial Intelligence,
+    Kap. 1)
+  jahr: 2025
+  sprache: en
+  url: https://harvardlawreview.org/wp-content/uploads/2025/03/138-Harv.-L.-Rev.-1562-1.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - arbeit
+  - sektor-finanz
+  bezug_urteile:
+  - us-2024-mobley-workday-agent
+  - us-2025-mobley-workday-collective
+  - us-2022-louis-saferent
+  bezug_regelwerke:
+  - us-ny-ll144
+  - us-il-hb3773
+  - us-co-sb24-205
+  - us-ca-feha-ads
+  kernthese: Die Landesgesetze zu automatisierten Auswahlsystemen setzen faktisch auf Ergebniskontrolle
+    (Bias-Audits, Testpflichten) und offenbaren damit eine normative Präferenz für disparate impact; Ricci
+    und SFFA sind eng zu lesen, damit systemische Abhilfe zulässig bleibt.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der den amerikanischen Streitstand definiert, und der einzige, der die
+    beiden Bewegungen zusammenbringt, die sonst getrennt behandelt werden: den Aufstieg der Audit-Gesetzgebung
+    in den Bundesstaaten und den Rückbau der disparate-impact-Doktrin durch Executive Order 14281 (23.04.2025)
+    und die Rücknahme der EEOC-Leitlinien. Die Pointe ist präzise: Wenn der Bund die Wirkungshaftung zurückfährt,
+    während die Länder Bias-Tests vorschreiben, entsteht ein Zustand, in dem Arbeitgeber zur Messung verpflichtet
+    sind, die gemessene Ungleichheit aber nicht beheben dürfen, ohne Ricci-Risiken einzugehen. Genau dieses
+    Paradox ist das eigentliche Thema. Für den europäischen Leser lohnt der Vergleich zu Art. 10 Abs.
+    5 KI-VO, der die Verarbeitung besonderer Datenkategorien zur Bias-Erkennung erlaubt und damit dieselbe
+    Zwickmühle regelungstechnisch entschärft — ein Vorteil des europäischen Rechts, der in Europa niemandem
+    auffällt. Einschränkung: studentisch verfasst und anonym; für die Autoritätskette zitiert man die
+    dort nachgewiesenen Primärarbeiten.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-10-abs-5
+  - usc-42-2000e-2-a
+  - usc-42-2000e-2-k
+  - ilcs-775-5-2-102-l
+  - nyc-admin-20-871
+  - ccr-2-11009-f
+- id: 2016-barocas-selbst-disparate-impact
+  typ: aufsatz
+  autoren:
+  - Barocas, Solon
+  - Selbst, Andrew D.
+  titel: Big Data's Disparate Impact
+  fundstelle: California Law Review 104 (2016), 671
+  jahr: 2016
+  sprache: en
+  doi: 10.15779/Z38BG31
+  ssrn_id: '2477899'
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - arbeit
+  kernthese: Datengetriebene Auswahlverfahren diskriminieren, ohne dass jemand diskriminieren will, weil
+    Zielvariablendefinition, Labelrauschen, Merkmalsauswahl und Stichprobenverzerrung historische Ungleichheit
+    reproduzieren; das US-Diskriminierungsrecht erfasst das nur unvollkommen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Gründungsarbeit des gesamten Feldes; wer sie nicht kennt, zitiert unbemerkt ihre
+    Taxonomie. Ihr bleibender Wert ist nicht die rechtliche Analyse — die ist auf Title VII vor Inclusive
+    Communities zugeschnitten und teilweise überholt —, sondern die fünffache Ursachengliederung, die
+    inzwischen Standard ist und sich unverändert auf § 3 Abs. 2 AGG und Art. 2 Abs. 2 lit. b RL 2000/43/EG
+    übertragen lässt. Wer die mittelbare Benachteiligung bei KI dogmatisch bearbeiten will, braucht diese
+    Gliederung, um überhaupt sagen zu können, WORAN die Benachteiligung anknüpft. Auf SSRN frei, aber
+    nicht maschinell abrufbar (429); die Zeitschriftenfassung ist bei der California Law Review offen,
+    die dortige Adresse hat sich geändert und war nicht auffindbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-42-2000e-2-a
+  - usc-42-2000e-2-k
+- id: 2020-prince-schwarcz-proxy-discrimination
+  typ: aufsatz
+  autoren:
+  - Prince, Anya E. R.
+  - Schwarcz, Daniel
+  titel: Proxy Discrimination in the Age of Artificial Intelligence and Big Data
+  fundstelle: Iowa Law Review 105 (2020), 1257–1318
+  jahr: 2020
+  sprache: en
+  url: https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2022-10/Proxy%20Discrimination%20in%20the%20Age%20of%20Artificial%20Intelligence%20and%20Big%20Data%20.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - sektor-finanz
+  - sektor-medizin
+  kernthese: Wo ein verbotenes Merkmal selbst prädiktiv ist und sich nicht durch zulässige Daten ersetzen
+    lässt, wird jedes hinreichend leistungsfähige Modell Stellvertretermerkmale finden; das Verbot der
+    Merkmalsnutzung läuft deshalb systematisch leer.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der schärfste theoretische Beitrag zum Thema und der einzige, der eine überprüfbare
+    Bedingung nennt: Stellvertreter­ diskriminierung ist nicht immer zu erwarten, sondern genau dann,
+    wenn das verbotene Merkmal "directly predictive" ist. Das ist die Unterscheidung, mit der man Versicherung
+    (Geschlecht ist direkt prädiktiv für Lebenserwartung) von Personalauswahl (Geschlecht ist es meist
+    nicht) trennt — und sie erklärt, warum das Verbot der Merkmalsverwendung in der Versicherungswirtschaft
+    strukturell scheitert, im Arbeitsrecht aber nicht. Für das europäische Recht heißt das: Art. 5 der
+    Gender-Richtlinie 2004/113/EG (Test-Achats) ist der Fall, in dem das Argument beißt. Kein europäischer
+    Autor hat das aufgegriffen. Frei bei der Iowa Law Review.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-42-2000e-2-k
+- id: 2026-manasturean-mobley-workday
+  typ: blogbeitrag
+  autoren:
+  - Manasturean, Lorena
+  titel: 'Help Wanted, Screened by Algorithms: Mobley v. Workday and the Legal Limits of AI Hiring'
+  fundstelle: University of Miami Law Review Online, 06.02.2026
+  jahr: 2026
+  sprache: en
+  url: https://lawreview.law.miami.edu/help-wanted-screened-by-algorithms-mobley-v-workday-and-the-legal-limits-of-ai-hiring/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - arbeit
+  bezug_urteile:
+  - us-2024-mobley-workday-agent
+  - us-2025-mobley-workday-collective
+  - us-2026-mobley-workday-sac
+  kernthese: 'Mobley zeigt die Arbeitsteilung der Doktrin: Der Wirkungstatbestand trägt die Klage, der
+    Absichtstatbestand nicht — und die Ausdehnung auf den Systemanbieter über die agent-Konstruktion ist
+    die eigentliche Neuerung.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die brauchbarste kompakte Aufarbeitung des Verfahrens, das für die gesamte US-Debatte
+    zum Testfall geworden ist — insbesondere weil sie den Schritt sauber herausarbeitet, auf den es ankommt:
+    Workday wird nicht als Arbeitgeber, sondern als dessen Agent belangt (42 U.S.C. § 2000e(b)). Damit
+    haftet erstmals der Anbieter des Auswahlsystems unmittelbar. Genau diese Konstruktion fehlt dem europäischen
+    Recht: § 6 Abs. 2, § 15 AGG adressieren den Arbeitgeber, nicht den Softwareanbieter, und Art. 25 KI-VO
+    regelt Pflichten, keine Ansprüche. Wer eine Publikationslücke sucht, findet hier eine. Studentische
+    Online-Publikation, deshalb nur als Einstieg zu zitieren; die Verfahrensakte steht in 21_us_übrige.yaml.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-25
+  - usc-42-2000e-2-a
+  - usc-42-2000e-b
+  - usc-29-623-a
+- id: 2025-chang-algorithm-as-agent
+  typ: working-paper
+  autoren:
+  - Chang, Cheng-chi (Kirin)
+  titel: 'Algorithm as Agent: AI Vendor Liability for Title VII Hiring Discrimination After Loper Bright'
+  fundstelle: SSRN Working Paper 6835178, 2025/2026
+  jahr: 2025
+  sprache: en
+  ssrn_id: '6835178'
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - arbeit
+  - governance
+  bezug_urteile:
+  - us-2024-mobley-workday-agent
+  - us-2026-mobley-workday-sac
+  kernthese: Nach dem Wegfall der Chevron-Deference müssen Gerichte die Agenteneigenschaft von KI-Anbietern
+    selbst bestimmen, ohne sich auf EEOC-Auslegung stützen zu können; das macht die Mobley-Konstruktion
+    angreifbarer, als sie erscheint.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Verbindung zweier Entwicklungen, die sonst getrennt behandelt werden — algorithmische
+    Diskriminierung und der Abbau behördlicher Auslegungsprärogativen (Loper Bright, 2024) —, und deshalb
+    aufgenommen, obwohl es ein unbegutachtetes Working Paper ist. Der Befund ist für die Prognose wichtig:
+    Die agent-Theorie ist keine gesicherte Rechtslage, sondern eine erstinstanzliche Auslegung ohne behördliche
+    Rückendeckung. Wer Mobley als entschieden behandelt, überzieht. SSRN-Volltext nicht maschinell abrufbar
+    (429).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-42-2000e-2-a
+  - usc-42-2000e-b
+  - usc-5-706
+- id: 2022-gillis-input-fallacy
+  typ: aufsatz
+  autoren:
+  - Gillis, Talia B.
+  titel: The Input Fallacy
+  fundstelle: Minnesota Law Review 106 (2022), 1175
+  jahr: 2022
+  sprache: en
+  doi: 10.24926/265535.4355
+  url: https://scholarship.law.umn.edu/minnlrev/vol106/iss3/2
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - sektor-finanz
+  kernthese: 'Die Kontrolle der Eingabemerkmale ist der falsche Ansatzpunkt des Kreditdiskriminierungsrechts:
+    Der Ausschluss geschützter Merkmale verhindert ungleiche Ergebnisse nicht und kann sie verschärfen;
+    zu prüfen sind die Ergebnisse.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die amerikanische Kreditdiskriminierungsdebatte gedreht hat, und derjenige
+    mit der unmittelbarsten europäischen Relevanz: Gillis zeigt simulationsgestützt an Hypothekendaten,
+    dass das Verbot der Merkmalsverwendung wirkungslos bleibt — und begründet damit genau die Regelungstechnik,
+    für die sich der europäische Gesetzgeber mit Art. 10 Abs. 5 KI-VO entschieden hat (Verarbeitung besonderer
+    Kategorien zur Bias-Erkennung ERLAUBT statt verboten). Gillis lehrt in Columbia und ist Ökonomin und
+    Juristin; das erklärt die methodische Qualität. Wer die Antidiskriminierungsdogmatik gegen die Datenschutzdogmatik
+    abwägen muss — der zentrale Konflikt bei Art. 9 DSGVO —, findet hier die belastbarste Grundlage. Frei
+    im Repositorium der University of Minnesota.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-10-abs-5
+  - dsgvo-art-9
+- id: 2025-sargeant-estimation-to-discrimination
+  typ: aufsatz
+  autoren:
+  - Sargeant, Holli
+  titel: 'From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination
+    Law'
+  fundstelle: The Modern Law Review 88 (2025)
+  jahr: 2025
+  sprache: en
+  doi: 10.1111/1468-2230.70045
+  zugang: unklar
+  jurisdiktionen:
+  - uk
+  - eu
+  themenachsen:
+  - grundrechte
+  - sektor-finanz
+  bezug_regelwerke:
+  - uk-equality-act-2010
+  - ki-vo-2024-1689
+  kernthese: Algorithmische Benachteiligung entsteht nicht nur aus verzerrten Daten, sondern aus der ungleich
+    verteilten Prognoseunsicherheit selbst; das Diskriminierungsrecht kennt für diese Form der Ungleichbehandlung
+    keine Kategorie.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der originellste Beitrag der jüngeren Zeit, weil er eine dritte Kategorie neben unmittelbare
+    und mittelbare Benachteiligung setzt: Wenn ein Modell für eine Gruppe systematisch unsicherer prognostiziert
+    — weil sie in den Trainingsdaten unterrepräsentiert ist —, werden ihre Mitglieder bei jeder risikoaversen
+    Schwellenwahl schlechter behandelt, ohne dass ein Merkmal oder ein Stellvertreter im Spiel wäre. Das
+    trifft weder § 3 Abs. 1 noch § 3 Abs. 2 AGG sauber, und Sargeant sagt das auch. Der Text ist zugleich
+    die Brücke zu Kapitel VII: Prognoseunsicherheit ist der technische Grund hinter den Unmöglichkeitsresultaten.
+    Wiley-Verlagsseite beantwortet automatisierte Abrufe mit 403; MLR ist hybrid, der Zugang deshalb nicht
+    gesichert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - uk-equality-act-2010-s-19
+- id: 2021-wachter-mittelstadt-russell-fairness-not-automated
+  typ: aufsatz
+  autoren:
+  - Wachter, Sandra
+  - Mittelstadt, Brent
+  - Russell, Chris
+  titel: 'Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI'
+  fundstelle: Computer Law & Security Review 41 (2021), 105567; arXiv:2005.05906
+  jahr: 2021
+  sprache: en
+  doi: 10.1016/j.clsr.2021.105567
+  ssrn_id: '3547922'
+  url: https://arxiv.org/abs/2005.05906
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Das europäische Diskriminierungsrecht ist bewusst kontextabhängig und unbestimmt und lässt
+    sich deshalb nicht in eine Fairness-Metrik übersetzen; als Anknüpfungspunkt für die Prima-facie-Feststellung
+    eignet sich allein die 'conditional demographic disparity'.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, an dem die europäische Diskussion hängt, und der einzige, der die Übersetzung
+    zwischen Rechtsbegriff und Metrik ernsthaft versucht statt sie zu behaupten. Zwei Leistungen: Erstens
+    die Analyse der EuGH-Rechtsprechung zur mittelbaren Benachteiligung mit dem Befund, dass der Gerichtshof
+    KEINEN Schwellenwert und KEIN statistisches Verfahren vorgibt — anders als das US-Recht mit seiner
+    Vier-Fünftel-Regel. Zweitens der Vorschlag der conditional demographic disparity als "Goldstandard",
+    der inzwischen in Fairness-Bibliotheken implementiert ist und damit die seltene Umkehrung darstellt:
+    eine Rechtswissenschaftlerin definiert eine Metrik, die Informatiker übernehmen. Angreifbar bleibt
+    der Kern: Die conditional demographic disparity setzt voraus, dass die "zulässigen" Kontrollvariablen
+    feststehen — und genau darüber wird gestritten. Wachter selbst nennt das offen. Freie arXiv-Fassung
+    inhaltsgleich.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-spiecker-towfigh-automatisch-benachteiligt
+  typ: bericht
+  autoren:
+  - Spiecker genannt Döhmann, Indra
+  - Towfigh, Emanuel V.
+  titel: Automatisch benachteiligt — Das Allgemeine Gleichbehandlungsgesetz und der Schutz vor Diskriminierung
+    durch algorithmische Entscheidungssysteme
+  fundstelle: Rechtsgutachten im Auftrag der Antidiskriminierungsstelle des Bundes, Berlin 2023
+  jahr: 2023
+  sprache: de
+  url: https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/Rechtsgutachten/schutz_vor_diskriminierung_durch_KI.html
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - grundrechte
+  - arbeit
+  - sektor-finanz
+  bezug_regelwerke:
+  - de-bdsg-scoring
+  - ki-vo-2024-1689
+  kernthese: Das AGG schützt vor algorithmischer Diskriminierung nur unzureichend, weil die Unterscheidung
+    von unmittelbarer und mittelbarer Benachteiligung nicht passt, § 22 AGG keine wirksame Beweiserleichterung
+    bietet und Systemhersteller nicht erfasst werden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das maßgebliche deutsche Dokument und die Grundlage aller seither geführten Reformdiskussionen
+    — zugleich der Text, an dem sich zeigt, wie weit die deutsche Debatte hinter der amerikanischen liegt:
+    Was Mobley v. Workday über die agent-Konstruktion prozessual erreicht, will das Gutachten legislatorisch
+    erreichen, weil das AGG dogmatisch keinen Weg zum Hersteller kennt. Die Forderungen (Ausweitung des
+    Anwendungsbereichs, echte Beweislastumkehr, Verbandsklagerecht, Auskunftsanspruch) sind seit 2023
+    unverändert unerfüllt; die Koalitionsvorhaben zur AGG-Reform betreffen andere Punkte. Wer den deutschen
+    Rechtszustand darstellen muss, kommt an diesem Gutachten nicht vorbei — kritisch zu lesen ist die
+    Prognose, die KI-VO werde die Lücken schließen: Sie tut es nicht, weil sie Marktzugangs- und kein
+    Individualschutzrecht ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - agg-1
+  - agg-22
+  - agg-3
+  - agg-7
+  - gg-art-3-abs-1
+- id: 2021-gerards-xenidis-algorithmic-discrimination-europe
+  typ: bericht
+  autoren:
+  - Gerards, Janneke
+  - Xenidis, Raphaële
+  titel: Algorithmic Discrimination in Europe — Challenges and Opportunities for Gender Equality and Non-Discrimination
+    Law
+  fundstelle: Europäische Kommission, GD Justiz und Verbraucher / European Equality Law Network, Luxemburg
+    2021
+  jahr: 2021
+  sprache: en
+  url: https://dspace.library.uu.nl/handle/1874/415402
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - grundrechte
+  - arbeit
+  kernthese: 'Das europäische Gleichbehandlungsrecht weist bei algorithmischer Diskriminierung vier Lücken
+    auf: den geschlossenen Merkmalskatalog, die Bindung an begrenzte Lebensbereiche, die Unerfassbarkeit
+    intersektionaler und proxybasierter Benachteiligung sowie die Beweisnot.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Bestandsaufnahme, auf die sich die europäische Literatur seither bezieht, und
+    in ihrer Lückenliste bis heute nicht überholt — was sie zugleich zu einem Armutszeugnis für die Rechtsentwicklung
+    macht: Keine der vier Lücken ist durch die KI-VO geschlossen worden. Besonders wichtig ist die zweite:
+    Anders als das US-Recht kennt das Unionsrecht keinen allgemeinen Diskriminierungsschutz, sondern schützt
+    je nach Merkmal in unterschiedlichen Bereichen (RL 2000/43 breit, RL 2000/78 nur Beschäftigung). Ein
+    diskriminierender Empfehlungsalgorithmus außerhalb von Beschäftigung und Güterversorgung ist damit
+    unionsrechtlich schlicht nicht erfasst. Als `url` ist das Repositorium der Universität Utrecht erfasst;
+    die amtliche Seite des Amts für Veröffentlichungen (op.europa.eu, Publikationsnummer 082f1dbc-821d-11eb-9ac9-01aa75ed71a1)
+    beantwortete den Abruf wiederholt mit 429, der Spiegel bei equineteurope mit 403.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-lamprinoudis-two-to-tango
+  typ: aufsatz
+  autoren:
+  - Lamprinoudis, Konstantinos
+  titel: 'It Takes (At Least) Two to Tango in the Rhythm of AI-Enabled Discrimination: How the AI Act
+    Complements EU Nondiscrimination Law'
+  fundstelle: Croatian Yearbook of European Law and Policy 21 (2025), 77–123
+  jahr: 2025
+  sprache: en
+  url: https://www.cyelp.com/index.php/cyelp/article/download/615/303
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - grundrechte
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die KI-Verordnung ergänzt das Gleichbehandlungsrecht in drei Funktionen — Verbot, Risikosteuerung
+    und Ermöglichung von Rechtsschutz — und geht namentlich mit Art. 5 Abs. 1 lit. b über den geschlossenen
+    Merkmalskatalog hinaus.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die gründlichste Arbeit zum Verhältnis beider Regime und die wichtigste Gegenstimme
+    zu der verbreiteten Annahme, die KI-VO leiste für den Diskriminierungsschutz nichts. Der stärkste
+    Punkt ist Art. 5 Abs. 1 lit. b: Das Verbot der Ausnutzung von Schutzbedürftigkeit knüpft an Alter,
+    Behinderung UND soziale oder wirtschaftliche Lage an und erfasst damit ein Merkmal, das die Gleichbehandlungs­
+    richtlinien nicht kennen — kontextabhängige Verletzlichkeit statt fester Kategorie. Das ist die einzige
+    substanzielle Erweiterung des unionsrechtlichen Schutzniveaus seit 2008. Der Aufsatz überzeichnet
+    allerdings die "enabling function": Die KI-VO gewährt keine Individualansprüche, und Art. 85 (Beschwerderecht)
+    ist ein Aufsichtsanstoß, kein Rechtsbehelf. Frei bei CYELP.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-5-abs-1-lit-b
+  - ki-vo-art-85
+- id: 2024-mantelero-fria-model-template
+  typ: aufsatz
+  autoren:
+  - Mantelero, Alessandro
+  titel: 'The Fundamental Rights Impact Assessment (FRIA) in the AI Act: Roots, Legal Obligations and
+    Key Elements for a Model Template'
+  fundstelle: Computer Law & Security Review 54 (2024), 106020; arXiv:2411.15149
+  jahr: 2024
+  sprache: en
+  doi: 10.1016/j.clsr.2024.106020
+  url: https://arxiv.org/abs/2411.15149
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-oeffentlich
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die Grundrechte-Folgenabschätzung nach Art. 27 KI-VO ist keine Neuerfindung, sondern die
+    Fortschreibung der menschenrechtlichen Folgenabschätzung; sie verlangt eine Bewertung der Eingriffsschwere
+    anhand von Wahrscheinlichkeit, Reversibilität und Betroffenenzahl.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Referenztext zu Art. 27 und die Grundlage der meisten in Umlauf befindlichen
+    Vorlagen. Mantelero war an den Europaratsarbeiten zur HUDERIA beteiligt, was die methodische Kontinuität
+    erklärt und zugleich die Schwäche begründet: Der Text behandelt die FRIA als Governance-Instrument,
+    nicht als Rechtsnorm. Was passiert, wenn sie unterbleibt oder erkennbar unzureichend ist — ist sie
+    drittschützend, begründet ihr Fehlen ein Beweiserleichterung, ist sie im Verfahren verwertbar? —,
+    bleibt offen. Das ist die größte Lücke des Kapitels und in der gesamten Literatur unbesetzt. Zu beachten:
+    Art. 27 verpflichtet nur öffentliche Stellen und bestimmte private Anbieter (Kreditwürdigkeitsprüfung,
+    Lebens- und Krankenversicherung); die Reichweite ist schmaler, als die Diskussion suggeriert. Freie
+    arXiv-Fassung.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-27
+- id: 2025-russo-scott-fria-implementation
+  typ: bericht
+  autoren:
+  - Russo Botero, Mayra
+  - Scott, Kristen M.
+  - IA Ciudadana
+  - CECU
+  titel: 'Towards a Meaningful Implementation of Article 27 under the AI Act: Participation in Fundamental
+    Rights Impact Assessments (FRIAs) & Effective Transparency Mechanisms for Their Oversight and Enforcement'
+  fundstelle: IA Ciudadana / Federación de Consumidores y Usuarios (CECU), Madrid, September 2025
+  jahr: 2025
+  sprache: en
+  url: https://cecu.es/wp-content/uploads/2025/09/Towards-a-meaningful-implementation-of-Article-27-under-the-IAACT.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - es
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-oeffentlich
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die Grundrechte-Folgenabschätzung bleibt wirkungslos, solange sie nicht veröffentlicht wird
+    und Betroffene keine Beteiligungsrechte haben; die Verordnung sieht beides nicht vor.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Position eines Bündnisses von 17 Zivilgesellschafts­ organisationen, deshalb interessengeleitet,
+    aber an einer Stelle unwiderlegt: Art. 27 Abs. 3 verlangt die Mitteilung an die Marktüberwachungsbehörde,
+    nicht die Veröffentlichung — die FRIA ist ein internes Dokument. Damit kann kein Betroffener sie kennen,
+    geschweige denn sich auf sie berufen. Wer über die Rechtsfolgenlücke schreibt (s. `forschungslücken`),
+    findet hier die praktische Seite des Arguments. Die vier Forderungen (Beteiligung Betroffener, Anfechtbarkeit
+    des Ergebnisses, Ressourcen, Anreize) laufen auf eine Umdeutung der FRIA vom Selbstprüfungsinstrument
+    zum Verwaltungsverfahren hinaus — dogmatisch heikel, weil Art. 27 keinen Verfahrensbeteiligten kennt,
+    aber genau der Punkt, an dem die Rechtsfolgenfrage entschieden würde. Als Beleg für die zivilgesellschaftliche
+    Position brauchbar, als Dogmatik nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-27
+  - ki-vo-art-27-abs-3
+- id: 2016-kleinberg-mullainathan-raghavan-inherent-tradeoffs
+  typ: aufsatz
+  autoren:
+  - Kleinberg, Jon
+  - Mullainathan, Sendhil
+  - Raghavan, Manish
+  titel: Inherent Trade-Offs in the Fair Determination of Risk Scores
+  fundstelle: Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS 2017);
+    arXiv:1609.05807
+  jahr: 2016
+  sprache: en
+  doi: 10.48550/arXiv.1609.05807
+  url: https://arxiv.org/abs/1609.05807
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - governance
+  kernthese: Kalibrierung, gleiche Falsch-Negativ-Rate und gleiche Falsch-Positiv-Rate lassen sich außer
+    in eng begrenzten Sonderfällen nicht gleichzeitig erfüllen; jede Fairness-Definition schließt die
+    anderen aus.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Faktisch Pflichtlektüre für den technischen Teil dieses Feldes; nicht als solche
+    markiert, weil die Quote von sieben Einträgen durch die juristischen Grundlagentexte erschöpft ist.
+    Wer die Diskriminierungsdebatte führt, ohne dieses Ergebnis zu kennen, fordert Unmögliches. Der Satz
+    ist mathematisch trivial und juristisch verheerend: Wenn die Basisraten zweier Gruppen differieren
+    — und das tun sie in jedem realen Datensatz —, kann ein Score nicht zugleich kalibriert und fehlerratengleich
+    sein. Für die deutsche Praxis heißt das: Der Nachweis, dass ein System "unfair" ist, gelingt IMMER,
+    wenn man die passende Metrik wählt. Damit ist die Vermutungsregel des § 22 AGG entweder trivial erfüllbar
+    oder das Recht muss die maßgebliche Metrik benennen. Es tut weder das eine noch das andere. Zehn Seiten,
+    formal, ohne juristische Vorkenntnisse lesbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2016-chouldechova-fair-prediction-disparate-impact
+  typ: aufsatz
+  autoren:
+  - Chouldechova, Alexandra
+  titel: 'Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments'
+  fundstelle: Big Data 5 (2017), 153; arXiv:1610.07524
+  jahr: 2016
+  sprache: en
+  doi: 10.48550/arXiv.1610.07524
+  url: https://arxiv.org/abs/1610.07524
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  kernthese: Ein Rückfallprognoseinstrument, das den Testgütestandards der Psychometrie genügt, erzeugt
+    bei unterschiedlicher Rückfallprävalenz zwangsläufig ungleiche Fehlerraten — Fairness im Sinne der
+    Testtheorie und Fairness im Sinne gleicher Fehlerlast schließen einander aus.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das zweite Unmöglichkeitsresultat, unabhängig von Kleinberg u.a. und an einem konkreten
+    Fall entwickelt (COMPAS), was es für Juristen zugänglicher macht. Der praktische Ertrag: Es erklärt,
+    warum ProPublica und Northpointe beide recht hatten — sie maßen verschiedene Größen. Wer die Sachverständigenauseinandersetzung
+    in einem Diskriminierungsprozess einschätzen muss, braucht genau diese Einsicht, weil Parteigutachter
+    regelmäßig unterschiedliche Metriken zugrunde legen, ohne das offenzulegen. Kurz, mit einer Ableitung
+    von einer halben Seite, die man nachvollziehen kann.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-zehlike-hacker-beyond-incompatibility
+  typ: aufsatz
+  autoren:
+  - Zehlike, Meike
+  - Loosley, Alex
+  - Jonsson, Håkan
+  - Wiedemann, Emil
+  - Hacker, Philipp
+  titel: 'Beyond Incompatibility: Trade-offs between Mutually Exclusive Fairness Criteria in Machine Learning
+    and Law'
+  fundstelle: Artificial Intelligence (Elsevier) 2025; arXiv:2212.00469
+  jahr: 2025
+  sprache: en
+  doi: 10.1016/j.artint.2024.104280
+  ssrn_id: '4279866'
+  url: https://arxiv.org/abs/2212.00469
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  - us
+  themenachsen:
+  - grundrechte
+  - governance
+  kernthese: Zwischen den unvereinbaren Fairness-Kriterien lässt sich stufenlos interpolieren; das erlaubt
+    es, den rechtlich geforderten Ausgleich (Verhältnismäßigkeit statt Entweder-oder) technisch abzubilden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der wichtigste Text dieses Kapitels für Juristen, weil er der einzige ist, der aus
+    dem Unmöglichkeitsergebnis eine juristisch brauchbare Konsequenz zieht statt es zu beklagen: Wenn
+    die Kriterien einander ausschließen, aber stetig ineinander überführbar sind, dann ist die Wahl des
+    Punktes auf dem Kontinuum eine Abwägungsentscheidung — und Abwägungsentscheidungen kann das Recht
+    strukturieren. Hacker ist Mitautor, was den Bogen zu seiner Haftungsarbeit (Kap. I) schließt und die
+    These stützt, dass Haftung und Fairness bei ihm ein Problem sind. Angreifbar: Das FAIM-Verfahren interpoliert
+    zwischen genau drei Kriterien und setzt voraus, dass die geschützte Gruppe bekannt und binär ist —
+    beides ist im Anwendungsfall regelmäßig nicht gegeben. Die juristische Anschlussfrage — wer den Punkt
+    auf dem Kontinuum bestimmt und nach welchem Maßstab — stellen die Autoren, beantworten sie aber nicht.
+    Freie arXiv-Fassung (v4).
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2022-green-escaping-impossibility
+  typ: aufsatz
+  autoren:
+  - Green, Ben
+  titel: 'Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness'
+  fundstelle: Philosophy & Technology 35 (2022), Art. 90; arXiv:2107.04642
+  jahr: 2022
+  sprache: en
+  doi: 10.1007/s13347-022-00584-6
+  url: https://arxiv.org/abs/2107.04642
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - governance
+  kernthese: Die Unmöglichkeit der Fairness ist ein Artefakt der formalen Betrachtung, die den Entscheidungsvorgang
+    isoliert; wer den sozialen Kontext einbezieht, ersetzt die Frage 'welche Metrik?' durch die Frage
+    'welche Ungleichheit soll das Verfahren abbauen?'.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die philosophisch anspruchsvollste Gegenposition zum Unmöglichkeitsdiskurs und der
+    Text, der dem europäischen Rechtsdenken am nächsten kommt, ohne es zu kennen: Greens "substantive
+    fairness" ist der Sache nach das, was der EuGH bei der mittelbaren Benachteiligung tut — er fragt
+    nicht nach der Metrik, sondern nach der Rechtfertigung des Unterschieds im Kontext. Wer Wachter/Mittelstadt/Russell
+    und Green nebeneinanderlegt, sieht dieselbe These aus zwei Traditionen. Schwäche: Green sagt, was
+    NICHT zu tun ist, und bleibt bei der Operationalisierung vage — für ein Gericht, das einen Fall entscheiden
+    muss, ist das zu wenig. Springer-Fassung offen (CC BY), arXiv-Fassung geprüft.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-bell-stoyanovich-possibility-of-fairness
+  typ: aufsatz
+  autoren:
+  - Bell, Andrew
+  - Bynum, Lucius
+  - Drushchak, Nazarii
+  - Herasymova, Tetiana
+  - Rosenblatt, Lucas
+  - Stoyanovich, Julia
+  titel: 'The Possibility of Fairness: Revisiting the Impossibility Theorem in Practice'
+  fundstelle: ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023); arXiv:2302.06347
+  jahr: 2023
+  sprache: en
+  doi: 10.1145/3593013.3594007
+  url: https://arxiv.org/abs/2302.06347
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  - governance
+  kernthese: Lockert man die Unmöglichkeitsbedingungen um ein praxisübliches Toleranzmaß, findet man auf
+    realen Datensätzen zahlreiche Modelle, die mehrere Fairness-Kriterien zugleich näherungsweise erfüllen
+    — die Unmöglichkeit ist theoretisch richtig und praktisch überschätzt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Ausdrücklich als Gegenposition aufgenommen und die wichtigste Korrektur des Kapitels:
+    Das Unmöglichkeitsresultat gilt exakt, nicht approximativ, und das Recht arbeitet ohnehin nie exakt
+    — § 22 AGG verlangt Indizien, keine Beweise, und die Vier-Fünftel-Regel des US-Rechts ist selbst eine
+    Toleranzschwelle. Damit verschiebt sich die juristische Frage von "welche Metrik?" zu "welche Abweichung
+    ist hinnehmbar?", und das ist eine Frage, die Gerichte beantworten können. Zu prüfen ist die Verallgemeinerbarkeit:
+    Die Autoren testen fünf Datensätze mit moderat unterschiedlichen Basisraten; bei stark divergierenden
+    Prävalenzen — dem Regelfall bei seltenen Ereignissen — greift der Befund nicht. Stoyanovich leitet
+    das NYU Center for Responsible AI und berät den Gesetzgeber von New York City zu LL 144; der Text
+    ist deshalb regulatorisch geerdet.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2020-hellman-measuring-algorithmic-fairness
+  typ: aufsatz
+  autoren:
+  - Hellman, Deborah
+  titel: Measuring Algorithmic Fairness
+  fundstelle: Virginia Law Review 106 (2020), 811
+  jahr: 2020
+  sprache: en
+  ssrn_id: '3418528'
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - grundrechte
+  kernthese: 'Die Streitfrage, welche Fairness-Metrik die richtige ist, lässt sich nicht statistisch entscheiden,
+    sondern nur moralphilosophisch: Kalibrierung und Fehlerratengleichheit drücken verschiedene Vorstellungen
+    davon aus, worin das Unrecht der Diskriminierung besteht.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die technische Debatte in die Gleichheitsdogmatik zurückholt, und der
+    beste Beleg dafür, dass die Metrikwahl eine Wertungsfrage ist — was für den Juristen die entscheidende
+    Erkenntnis ist, weil Wertungsfragen in seine und nicht in die Zuständigkeit des Sachverständigen fallen.
+    Hellman ist die maßgebliche Diskriminierungstheoretikerin der USA ("When Is Discrimination Wrong?"),
+    und sie zeigt, dass Fehlerratengleichheit ein anti-subordinatives, Kalibrierung ein anti-klassifikatorisches
+    Gleichheitsverständnis voraussetzt. Genau diese Unterscheidung strukturiert auch die europäische Debatte
+    um formelle und materielle Gleichheit. Der Aufsatz ist über SSRN und die Virginia Law Review frei;
+    SSRN war maschinell nicht abrufbar (429), eine geprüfte Ausweichadresse wurde nicht gefunden.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-hahn-biometrie-ai-act-anfang
+  typ: blogbeitrag
+  autoren:
+  - Hahn, Johanna
+  titel: Ein Anfang, mehr nicht. Die Regelungen der KI-Verordnung zur biometrischen Fernidentifizierung
+  fundstelle: Verfassungsblog, 11.12.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/ein-anfang-mehr-nicht/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-automatisierte-datenanalyse-polizei
+  kernthese: Das Verbot biometrischer Echtzeit-Fernidentifizierung in Art. 5 KI-VO wird durch seine Ausnahmen
+    entwertet, enthält keine materiellen Umsetzungsstandards und lässt die Diskriminierungsrisiken und
+    die Datenbankauswahl vollständig dem nationalen Gesetzgeber.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Hahn liefert die Vorarbeit zu ihrem späteren Text über § 98d StPO-E und benennt genau
+    die Leerstelle, die der deutsche Gesetzgeber 2026 füllen muss: Art. 5 KI-VO verbietet Echtzeitidentifizierung,
+    sagt aber nichts über die nachträgliche, nichts über die Datenbasis, nichts über Fehlerquoten. Wer
+    die deutsche Gesichtserkennungsdebatte führt, braucht diese Kartierung. Angreifbar ist die Wertung
+    "mehr nicht" — Art. 26 Abs. 10 KI-VO und die Pflicht zur Doppelverifikation nach Art. 14 Abs. 5 sind
+    mehr, als das deutsche Recht vorher kannte. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-5
+  - ki-vo-art-26-abs-10
+  - ki-vo-art-14-abs-5
+- id: 2018-froehlich-spiecker-koennen-algorithmen-diskriminieren
+  typ: blogbeitrag
+  autoren:
+  - Fröhlich, Wiebke
+  - Spiecker genannt Döhmann, Indra
+  titel: Können Algorithmen diskriminieren?
+  fundstelle: Verfassungsblog, 26.12.2018
+  jahr: 2018
+  sprache: de
+  url: https://verfassungsblog.de/koennen-algorithmen-diskriminieren/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  - at
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - arbeit
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - de-bdsg-scoring
+  kernthese: Nicht Algorithmen diskriminieren, sondern die Organisationen, die sie ungeprüft einsetzen;
+    das Datenschutzrecht muss deshalb schon vor der Entscheidung ansetzen, weil die algorithmische Fremdkonstruktion
+    der Persönlichkeit die informationelle Selbstbestimmung bereits verletzt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Gründungstext der deutschen Debatte über algorithmische Diskriminierung, geschrieben
+    am AMS-Algorithmus und bis heute der meistzitierte deutsche Blogbeitrag zum Thema. Der dogmatische
+    Beitrag ist die Verschiebung vom Antidiskriminierungsrecht zum Datenschutzrecht: Weil das AGG an eine
+    Benachteiligung anknüpft, greift es erst nach der Entscheidung; die informationelle Selbstbestimmung
+    greift früher. Das ist die Argumentationslinie, die später bei SCHUFA (EuGH C-634/21) und in § 37a
+    BDSG-E wieder auftaucht. Angreifbar ist die Gegenüberstellung selbst — Wachter/ Mittelstadt und die
+    neuere Literatur zeigen, dass beide Regime an denselben Kausalitätsproblemen scheitern. Acht Jahre
+    alt und trotzdem wichtig, weil er den deutschen Zugriff prägt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - agg-3
+  - dsgvo-art-22
+- id: 2020-froehlich-diskriminierende-facebook-algorithmen
+  typ: blogbeitrag
+  autoren:
+  - Fröhlich, Wiebke
+  titel: Männer fahren LKW, Frauen erziehen Kinder
+  fundstelle: Verfassungsblog, 06.11.2020
+  jahr: 2020
+  sprache: de
+  url: https://verfassungsblog.de/diskriminierende-facebook-algorithmen/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - grundrechte
+  - arbeit
+  - content
+  kernthese: Die geschlechtsspezifische Ausspielung von Stellenanzeigen durch Plattformalgorithmen ist
+    eine Benachteiligung im Zugang zur Erwerbstätigkeit, für die das AGG keinen passenden Adressaten kennt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die Trefferliste des Verfassungsblogs belegt, Volltext nicht gelesen. Erfasst,
+    weil die Konstellation — die Plattform, nicht der Arbeitgeber, verteilt diskriminierend — die deutsche
+    Entsprechung zu Mobley v. Workday ist und in der deutschen Literatur kaum bearbeitet wird. Vor Zitierung
+    selbst lesen; die Rechtslage hat sich durch Art. 26 Abs. 7 KI-VO und Anhang III Nr. 4 seither geändert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - agg-22
+  - agg-3
+  - agg-7
+  - ki-vo-art-26-abs-7
+- id: 2026-rachut-ki-verbot-verbot
+  typ: blogbeitrag
+  autoren:
+  - Rachut, Sarah
+  titel: Warum ein 'KI-Verbot-Verbot' nicht verfassungswidrig ist
+  fundstelle: Verfassungsblog, 10.08.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/warum-ein-ki-verbot-verbot-nicht-verfassungswidrig-ist/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  kernthese: Art. 84 Abs. 3 Satz 1 Nr. 9 BayHIG-E, der Hochschulen verpflichtet, die Zulässigkeit von
+    KI-Hilfsmitteln in Prüfungsordnungen zu regeln, ist verfassungsgemäß, weil die Undurchsetzbarkeit
+    von KI-Verboten in unbeaufsichtigten Prüfungen die Chancengleichheit aus Art. 3 Abs. 1 und Art. 12
+    Abs. 1 GG verletzt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das Prüfungsrecht ist die erste Rechtsmaterie, in der sich der KI-Einsatz massenhaft
+    und gerichtsfest auswirkt, und Bayern hat 2026 die erste ausdrückliche Landesregelung vorgelegt. Rachuts
+    Argument ist ungewöhnlich und stark: Nicht das Verbot ist rechtfertigungsbedürftig, sondern der Zustand,
+    in dem ein Verbot besteht, aber nicht durchgesetzt werden kann — dieser Zustand verletzt die Chancengleichheit
+    derjenigen, die sich daran halten. Das ist auf jede Verbotsnorm übertragbar, deren Verstoß nicht nachweisbar
+    ist, und deshalb über das Hochschulrecht hinaus interessant. Angreifbar ist die Verhältnismäßigkeit:
+    Die Undurchsetzbarkeit lässt sich auch durch Änderung des Prüfungsformats beheben, was der mildere
+    Eingriff wäre. Genau das trägt die Gegenposition vor.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gg-art-12-abs-1
+  - gg-art-3-abs-1
+  - gg-art-5-abs-3
+- id: 2026-elmentaler-hof-ai-way-or-the-highway
+  typ: blogbeitrag
+  autoren:
+  - Elmentaler, Stella
+  - Hof, Linus
+  titel: AI Way or the Highway
+  fundstelle: Verfassungsblog, 27.07.2026
+  jahr: 2026
+  sprache: en
+  url: https://verfassungsblog.de/ai-way-or-the-highway/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  kernthese: Die bayerische Regelung, die es Hochschulen verbietet, KI in unbeaufsichtigten Prüfungen
+    zu untersagen, verletzt die Lehrfreiheit aus Art. 5 Abs. 3 GG, kehrt die Darlegungslast um und ist
+    Symbolpolitik ohne Wirksamkeitsnachweis.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die direkte Gegenposition zu Rachut, zwei Wochen früher erschienen, und die beiden
+    Texte zusammen sind das beste Beispiel dieser Akte dafür, dass der Verfassungsblog echte Kontroversen
+    austrägt statt Meinungen zu sammeln. Elmentaler und Hof setzen an der Lehrfreiheit an und unterscheiden
+    zwischen tiefen und peripheren Eingriffen — dieselbe Unterscheidung, die Würtenberger in Ordnung der
+    Wissenschaft entwickelt, dort aber zugunsten der Regelungsbefugnis wendet. Wer die Frage bearbeitet,
+    hat mit Rachut, Elmentaler/Hof und Würtenberger drei frei zugängliche Positionen und braucht Beck
+    dafür nicht. Angreifbar ist der Wirksamkeitseinwand: Symbolpolitik ist kein verfassungsrechtlicher
+    Maßstab, und die Geeignetheitsprüfung ist großzügig.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gg-art-5-abs-3
+- id: 2025-wuertenberger-lehrfreiheit-ki
+  typ: aufsatz
+  autoren:
+  - Würtenberger, Thomas
+  titel: Wandel der Lehrfreiheit durch Digitalisierung und Künstliche Intelligenz
+  fundstelle: Ordnung der Wissenschaft 2025, 15–26
+  jahr: 2025
+  sprache: de
+  url: https://ordnungderwissenschaft.de/2024/wandel-der-lehrfreiheit-durch-digitalisierung-und-kuenstliche-intelligenz/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  kernthese: Die Lehrfreiheit schützt den wissenschaftlichen Inhalt, nicht die Methodenwahl; tiefe Eingriffe
+    wie die Vorgabe wissenschaftlicher Ergebnisse sind unzulässig, periphere Vorgaben zu digitalen Lehrformaten
+    dagegen durch den Ausbildungsauftrag und Art. 3 GG gerechtfertigt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Würtenberger liefert die Dogmatik, die dem Verfassungsblog-Streit zwischen Rachut
+    und Elmentaler/Hof fehlt: die Unterscheidung zwischen tiefen und peripheren Eingriffen in die Lehrfreiheit.
+    Sie wendet sich hier zugunsten der Regelungsbefugnis der Hochschule, wäre aber auch gegen die staatliche
+    Vorgabe zu wenden — der bayerische Landesgesetzgeber greift in die Hochschulautonomie ein, nicht die
+    Hochschule in die Lehrfreiheit. Diese Unterscheidung macht Würtenberger nicht, und darin liegt die
+    Schwäche des Textes für die aktuelle Debatte. Trotzdem der einzige frei zugängliche dogmatische Zugriff.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gg-art-3-abs-1
+  - gg-art-5-abs-3
+- id: 2016-kleinberg-inherent-tradeoffs
+  typ: aufsatz
+  autoren:
+  - Kleinberg, Jon
+  - Mullainathan, Sendhil
+  - Raghavan, Manish
+  titel: Inherent Trade-Offs in the Fair Determination of Risk Scores
+  fundstelle: 8th Innovations in Theoretical Computer Science Conference (ITCS 2017), 43:1; arXiv:1609.05807
+    (cs.LG), 19.09.2016
+  jahr: 2016
+  sprache: en
+  doi: 10.48550/arXiv.1609.05807
+  url: https://arxiv.org/abs/1609.05807
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - de
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-finanz
+  - arbeit
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Kalibrierung, gleiche Falsch-Negativ-Rate und gleiche Falsch-Positiv-Rate lassen sich außer
+    in zwei entarteten Sonderfällen — identische Basisraten oder perfekte Vorhersage — nicht gleichzeitig
+    erfüllen; jede Fairness-Definition schließt die anderen aus.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was Art. 10 Abs. 2 lit. f, g KI-VO ("mögliche Verzerrungen ...
+    die sich negativ auf die Grundrechte auswirken") und § 22 AGG vom Verpflichteten überhaupt verlangen
+    können — und dass die Antwort nicht "alles zugleich" lauten kann. PFLICHT. Doppelt geführt: In 32_lit_haftung.yaml
+    steht der Text als `wichtig` mit dem ausdrücklichen Vermerk, er sei "faktisch Pflichtlektüre für den
+    technischen Teil dieses Feldes", dort aber nicht so markiert, weil die Quote von juristischen Grundlagentexten
+    aufgebraucht war. Diese Akte holt es nach — hier ist der Text die technische Primärquelle und gehört
+    zu den drei Unmöglichkeitsergebnissen, die den Kern dieser Sammlung bilden. Der Beweis ist zehn Seiten
+    lang, elementar und ohne Vorkenntnisse nachvollziehbar; das ist ungewöhnlich und macht ihn für die
+    mündliche Verhandlung brauchbar. Die juristische Konsequenz, die im deutschen Schrifttum kaum gezogen
+    wird: Solange das Antidiskriminierungsrecht nicht sagt, WELCHE Fairnessgrösse es meint, ist der Nachweis
+    der Benachteiligung immer führbar (man wählt die passende Metrik) und der Nachweis der Rechtmäßigkeit
+    nie (man kann nicht alle erfüllen). Das ist keine Beweislastfrage, sondern ein Definitionsdefizit
+    — und es ist im Zweifel der wirksamste Angriff auf jede algorithmische Compliance-Behauptung. ANGREIFBAR:
+    Der Satz gilt für Risikoscores mit Gruppenvergleich; er sagt nichts über Einzelfallgerechtigkeit und
+    nichts darüber, welche Metrik normativ vorzugswürdig ist. Wer ihn als Beleg dafür zitiert, Fairness
+    sei unmöglich, missbraucht ihn — er zeigt, dass eine WAHL nötig ist, nicht dass jede Wahl gleich gut
+    wäre.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-10-abs-2
+- id: 2016-chouldechova-fair-prediction
+  typ: aufsatz
+  autoren:
+  - Chouldechova, Alexandra
+  titel: 'Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments'
+  fundstelle: Big Data 5 (2017), 153; arXiv:1610.07524 (stat.AP), 24.10.2016
+  jahr: 2016
+  sprache: en
+  doi: 10.48550/arXiv.1610.07524
+  url: https://arxiv.org/abs/1610.07524
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  kernthese: Ein Prognoseinstrument, das den Gütestandards der Testtheorie genügt, erzeugt bei unterschiedlicher
+    Prävalenz zwangsläufig ungleiche Fehlerraten zwischen den Gruppen — testtheoretische Fairness und
+    Fairness gleicher Fehlerlast schließen einander aus.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: warum zwei Sachverständige über dasselbe System zu entgegengesetzten
+    Ergebnissen kommen können, ohne dass einer von beiden irrt — die häufigste Verständnisfalle in Diskriminierungsverfahren
+    mit algorithmischer Grundlage. Doppelt geführt mit 32_lit_haftung.yaml, dort mit der rechtlichen Einbettung.
+    Das zweite Unmöglichkeitsresultat, unabhängig von Kleinberg u.a. entwickelt und am konkreten Fall
+    (COMPAS, ProPublica gegen Northpointe), was es für Juristen zugänglicher macht als die abstrakte Fassung.
+    Die Ableitung ist eine halbe Seite. Der praktische Ertrag für die Beweisaufnahme: Jedes Parteigutachten
+    in diesem Feld ist zuerst danach zu befragen, welche Fairnessgrösse es zugrunde legt und ob es diese
+    Wahl offenlegt — tut es das nicht, ist es wertlos, gleich wie das Ergebnis lautet. ANGREIFBAR: Die
+    Arbeit ist auf binäre Klassifikation mit einem binären geschützten Merkmal zugeschnitten; für mehrdimensionale
+    oder intersektionale Merkmale ist die Lage komplizierter, nicht einfacher.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2016-hardt-equality-of-opportunity
+  typ: aufsatz
+  autoren:
+  - Hardt, Moritz
+  - Price, Eric
+  - Srebro, Nathan
+  titel: Equality of Opportunity in Supervised Learning
+  fundstelle: Advances in Neural Information Processing Systems 29 (NIPS 2016), 3315; arXiv:1610.02413
+    (cs.LG), 07.10.2016
+  jahr: 2016
+  sprache: en
+  doi: 10.48550/arXiv.1610.02413
+  url: https://arxiv.org/abs/1610.02413
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - sektor-finanz
+  - arbeit
+  kernthese: Ein Prädiktor ist fair im Sinne gleicher Chancen, wenn seine Fehlerraten in beiden Gruppen
+    für die tatsächlich Geeigneten übereinstimmen; jeder bereits gelernte Prädiktor lässt sich nachträglich
+    so anpassen, dass er diese Bedingung erfüllt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was ein Sachverständiger meint, wenn er von "equalized odds"
+    oder "gleicher Chance" spricht, und welche Nachbesserung technisch geschuldet sein kann, wenn ein
+    System als benachteiligend erkannt ist. Die Definitionsquelle, ohne die die Unmöglichkeitssätze nicht
+    lesbar sind — Kleinberg und Chouldechova zeigen, dass man dieses Kriterium nicht mit Kalibrierung
+    verbinden kann; man muss also wissen, was es besagt. Der zweite, praktisch wichtigere Beitrag wird
+    im Schrifttum fast übersehen: Die Autoren geben ein Verfahren an, jeden vorhandenen Prädiktor NACHTRÄGLICH
+    anzupassen, ohne ihn neu zu trainieren. Das ist für die Frage der Zumutbarkeit von Abhilfe erheblich
+    — der Einwand, ein Modell lasse sich nicht ohne Neutraining korrigieren, ist seit 2016 widerlegt.
+    Die Autoren formulieren dazu ein Argument, das ein Jurist unmittelbar verwenden kann: Ihr Kriterium
+    verlagert die Kosten der Fehlklassifikation vom Betroffenen auf den Entscheider und setzt damit Anreize
+    zu besserer Datengrundlage — genau die Logik, die hinter der Verteilung der Darlegungslast in § 22
+    AGG steht. ANGREIFBAR: Das Kriterium ist "blind" — es betrachtet nur die gemeinsame Verteilung von
+    Vorhersage, Ziel und geschütztem Merkmal, nicht die Merkmale selbst. Damit erfasst es Stellvertretermerkmale
+    nur, soweit sie sich in den Fehlerraten niederschlagen. Für die mittelbare Benachteiligung ist das
+    zu wenig.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2018-corbett-davies-measure-mismeasure
+  typ: aufsatz
+  autoren:
+  - Corbett-Davies, Sam
+  - Gäbler, Johann D.
+  - Nilforoshan, Hamed
+  - Shroff, Ravi
+  - Göl, Sharad
+  titel: The Measure and Mismeasure of Fairness
+  fundstelle: Journal of Machine Learning Research 24 (2023), Nr. 312, 1; arXiv:1808.00023 (cs.CY), 31.07.2018
+  jahr: 2018
+  sprache: en
+  doi: 10.48550/arXiv.1808.00023
+  url: https://arxiv.org/abs/1808.00023
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - sektor-finanz
+  kernthese: Die beiden großen Familien formaler Fairnessdefinitionen führen regelmäßig zu Entscheidungsregeln,
+    die schlechter sind als eine unbeschränkte Optimierung — die Durchsetzung formaler Fairness kann gerade
+    den Gruppen schaden, die sie schützen soll.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob die Vorgabe einer Fairnesskennzahl ein taugliches Regulierungsinstrument
+    ist — die Frage, die hinter jedem Vorschlag steht, Art. 10 KI-VO um messbare Schwellen zu ergänzen.
+    Die schärfste GEGENPOSITION im Fairness-Block und der Text, der die naheliegende juristische Reaktion
+    auf Kleinberg ("dann schreibt der Gesetzgeber eben eine Metrik vor") erledigt. Die Autoren zeigen
+    an Beispielen aus Kreditvergabe und Strafjustiz, dass Gleichheitsauflagen auf der Ebene der Kennzahl
+    zu Entscheidungsregeln führen, die Kreditwürdige ablehnen und Ungeeignete annehmen, und dass der Schaden
+    bei der geschützten Gruppe anfällt. Ihr Gegenvorschlag — an den Politikzielen und den tatsächlichen
+    Folgen ansetzen statt an der Metrik — ist juristisch anschlussfähiger, als er klingt: Er entspricht
+    der Struktur der Rechtfertigungsprüfung bei mittelbarer Benachteiligung (§ 3 Abs. 2 AGG, Art. 2 Abs.
+    1 lit. b RL 2000/78/EG), die ebenfalls auf Zweck und Erforderlichkeit abstellt und nicht auf Ergebnisgleichheit.
+    Wer diese Parallele ausarbeitet, hat ein originelles Argument. ANGREIFBAR: Das Argument setzt voraus,
+    dass die Zielgröße korrekt gemessen wird — genau das bestreiten die Kritiker (Verzerrung liegt oft
+    schon im Label, nicht erst im Modell). Die JMLR-Fassung von 2023 geht darauf ein, ohne es aufzulösen.
+    Und: Die Autoren argumentieren utilitaristisch; wer Diskriminierungsschutz deontologisch begründet,
+    wird ihre Prämisse nicht teilen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-10
+- id: 2023-barocas-hardt-narayanan-fairml
+  typ: monographie
+  autoren:
+  - Barocas, Solon
+  - Hardt, Moritz
+  - Narayanan, Arvind
+  titel: 'Fairness and Machine Learning: Limitations and Opportunities'
+  fundstelle: MIT Press, Cambridge (Maß.) 2023; Volltext frei unter fairmlbook.org (CC BY-NC-ND 4.0)
+  jahr: 2023
+  sprache: en
+  isbn: '9780262048613'
+  url: https://fairmlbook.org/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - governance
+  - arbeit
+  - sektor-finanz
+  kernthese: Verzerrung in maschinellem Lernen ist kein Datenfehler, der sich technisch beheben ließe,
+    sondern die Abbildung struktureller Ungleichheit; Fairnesskriterien sind deshalb Entscheidungen darüber,
+    welche Ungleichheit man in Kauf nimmt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: praktisch jede Vorfrage des Diskriminierungsrechts, die technisches
+    Verständnis voraussetzt — und zwar in einer Form, die für Leser ohne Vorbildung geschrieben ist. Das
+    beste Lehrbuch des Feldes, vollständig frei, von den drei Autoren, die es geprägt haben, und mit einem
+    eigenen Kapitel zum Antidiskriminierungsrecht (Barocas ist Mitverfasser von "Big Data''s Disparate
+    Impact", das in 32_lit_haftung.yaml steht). Für den Auftraggeber ist es der wirtschaftlichste Einstieg
+    in den gesamten Fairness-Komplex: Kapitel 3 (Klassifikation) und Kapitel 6 (Antidiskriminierungsrecht)
+    ersetzen ein Semester. Es ist hier bewusst nicht `pflicht`, weil ein 300-Seiten-Buch kein Pflichttext
+    für eine Akte ist, deren Pflichtquote acht Aufsätze umfasst — aber wer Zeit für genau EINEN längeren
+    Text hat, sollte diesen nehmen und die Aufsätze von Kleinberg und Chouldechova hinterher lesen. ANGREIFBAR:
+    Das Rechtskapitel ist US-zentriert (Title VII, disparate impact); die europäische Struktur — unmittelbare
+    und mittelbare Benachteiligung, Rechtfertigung, Beweislast — ist anders und wird nicht behandelt.
+    Die Übertragung muss der Leser selbst leisten.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2018-rudin-stop-explaining
+  typ: aufsatz
+  autoren:
+  - Rudin, Cynthia
+  titel: Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable
+    Models Instead
+  fundstelle: Nature Machine Intelligence 1 (2019), 206; arXiv:1811.10154 (stat.ML), 26.11.2018
+  jahr: 2018
+  sprache: en
+  doi: 10.48550/arXiv.1811.10154
+  url: https://arxiv.org/abs/1811.10154
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - sektor-medizin
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Nachträgliche Erklärungen für undurchschaubare Modelle sind notwendigerweise ungenau — wären
+    sie genau, wären sie das Modell —; bei Entscheidungen mit hohem Einsatz ist deshalb nicht die Erklärung
+    zu verbessern, sondern von vornherein ein deutbares Modell zu verwenden, das in der Regel nicht schlechter
+    abschneidet.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob die Transparenzpflichten der Art. 13, 14 KI-VO und das Auskunftsrecht
+    über die "involvierte Logik" (Art. 15 Abs. 1 lit. h DSGVO, dazu EuGH C-203/22 Dun & Bradstreet) durch
+    eine post-hoc-Erklärung erfüllbar sind — und wenn nicht, was der Verpflichtete stattdessen schuldet.
+    PFLICHT, weil dieser Text die Grundunterscheidung setzt, ohne die die gesamte Transparenzdiskussion
+    im Ungefähren bleibt: DEUTBARKEIT (das Modell ist so gebaut, dass man es lesen kann) gegen ERKLÄRUNG
+    (ein zweites Verfahren behauptet etwas über das erste). Rudins Argument ist kein empirisches, sondern
+    ein logisches, und deshalb im Rechtsstreit belastbar: Eine nachträgliche Erklärung, die dem Modell
+    exakt entspräche, wäre mit dem Modell identisch; jede Erklärung, die einfacher ist als das Modell,
+    weicht notwendig von ihm ab. Für Art. 86 KI-VO — das Recht auf Erläuterung der Einzelfallentscheidung
+    — folgt daraus die unbequeme Frage, was genau erläutert wird: das Modell oder eine Erzählung über
+    das Modell. Der zweite, empirische Teil ist juristisch mindestens so wichtig: Rudin bestreitet den
+    angeblichen Zielkonflikt zwischen Genauigkeit und Deutbarkeit für strukturierte Daten. Trifft das
+    zu, ist der Einsatz eines undurchschaubaren Modells in der Kreditvergabe oder Strafzumessung nicht
+    alternativlos, sondern eine Wahl — und Wahlen sind rechtfertigungspflichtig. Das ist der schärfste
+    verfügbare Angriff auf die Verhältnismäßigkeit im Hochrisikobereich. ANGREIFBAR: Der empirische Teil
+    ist für tabellarische Daten gut belegt und für Sprache und Bild nicht; bei generativen Modellen ist
+    "stattdessen ein deutbares Modell" keine Option. Wer Rudin auf große Sprachmodelle anwendet, überträgt
+    ein Argument über Rückfallprognosen auf einen Gegenstand, für den es nicht geschrieben wurde. Zehn
+    Seiten, polemisch, ohne Formeln.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-13
+  - ki-vo-art-86
+  - dsgvo-art-15-abs-1-lit-h
+- id: 2019-slack-fooling-lime-shap
+  typ: aufsatz
+  autoren:
+  - Slack, Dylan
+  - Hilgard, Sophie
+  - Jia, Emily
+  - Singh, Sameer
+  - Lakkaraju, Himabindu
+  titel: 'Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods'
+  fundstelle: AAAI/ACM Conference on AI, Ethics, and Society (AIES 2020), 180; arXiv:1911.02508 (cs.LG),
+    06.11.2019
+  jahr: 2019
+  sprache: en
+  doi: 10.48550/arXiv.1911.02508
+  url: https://arxiv.org/abs/1911.02508
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-finanz
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Ein rassistisch entscheidendes Modell lässt sich so einhüllen, dass LIME und SHAP — die beiden
+    meistverwendeten Erklärungsverfahren — harmlose Erklärungen ausgeben, ohne dass sich das Entscheidungsverhalten
+    ändert.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: welchen Beweiswert eine vom Verpflichteten vorgelegte Erklärung
+    hat — die Frage, die sich in jedem Verfahren stellt, in dem ein Anbieter seine Erklärungsausgaben
+    als Compliance-Nachweis anbietet. Die Antwort ist: keinen, solange die Erklärung vom Verpflichteten
+    selbst erzeugt wurde und die Gegenseite das Modell nicht prüfen kann. Der Angriff funktioniert, weil
+    LIME und SHAP das Modell mit synthetischen, aus der Datenverteilung herausfallenden Punkten abfragen;
+    das Modell kann diese Prüfabfragen erkennen und sich in ihnen anders verhalten als im Echtbetrieb.
+    Das ist der Abgasskandal in algorithmischer Form, und die Parallele trägt bis in die Rechtsfolgen:
+    Es geht um eine Prüfstandserkennung. Praktischer Ertrag: (a) Für Art. 13, 14 und 86 KI-VO folgt, dass
+    eine Erklärungsausgabe ohne Prüfmöglichkeit am Modell selbst wertlos ist — die Zugangsrechte der Art.
+    92 KI-VO und die Offenlegungsanordnung der Produkthaftungsrichtlinie sind deshalb nicht Nebensache,
+    sondern Voraussetzung. (b) Für die Beratung folgt, dass ein Anbieter, der die Manipulierbarkeit kennt
+    und trotzdem Erklärungen als Nachweis vorlegt, sich einem Vorwurf der arglistigen Täuschung nähert.
+    LIME (Ribeiro u.a. 2016) und SHAP (Lundberg/Lee 2017) sind die beiden Verfahren, die in praktisch
+    jedem Gutachten auftauchen; wer sie nicht kennt, kennt diesen Angriff nicht. ANGREIFBAR: Der Angriff
+    setzt voraus, dass der Angreifer den Erklärungsmechanismus kennt und das Modell entsprechend baut
+    — er zeigt Manipulierbarkeit bei Vorsatz, nicht Unzuverlässigkeit im Normalfall. Für die Unzuverlässigkeit
+    im Normalfall siehe 2022-bilodeau-impossibility-attribution.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-86
+  - ki-vo-art-92
+  - pld-art-9
+- id: 2022-bilodeau-impossibility-attribution
+  typ: aufsatz
+  autoren:
+  - Bilodeau, Blair
+  - Jaques, Natasha
+  - Koh, Pang Wei
+  - Kim, Been
+  titel: Impossibility Theorems for Feature Attribution
+  fundstelle: Proceedings of the National Academy of Sciences 121 (2024), Nr. 2, e2304406120; arXiv:2212.11870
+    (cs.LG), 22.12.2022
+  jahr: 2022
+  sprache: en
+  doi: 10.1073/pnas.2304406120
+  url: https://arxiv.org/abs/2212.11870
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-medizin
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Für eine breite Klasse von Endaufgaben — etwa die Frage, ob ein Merkmal die Entscheidung
+    getragen hat — sind die verbreiteten Zuschreibungsverfahren wie Integrated Gradients und SHAP beweisbar
+    nicht besser als Raten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob die Aussage "Merkmal X war für diese Entscheidung ausschlaggebend"
+    mit den üblichen Verfahren überhaupt begründbar ist — die Kernfrage jeder Kausalitätsbehauptung im
+    algorithmischen Diskriminierungsprozess und jeder Auskunft nach Art. 15 Abs. 1 lit. h DSGVO. Das dritte
+    Unmöglichkeitsergebnis dieser Akte und das am wenigsten rezipierte. Anders als Slack u.a. zeigt es
+    keine Manipulierbarkeit bei Vorsatz, sondern eine strukturelle Grenze: Für vollständig verbundene
+    neuronale Netze und Aufgaben wie "hätte das Modell bei geändertem Merkmal anders entschieden?" ist
+    die Leistung der Zuschreibungsverfahren nachweislich nicht besser als eine Münze. In PNAS veröffentlicht,
+    mitverfasst von Been Kim, die selbst führende Erklärbarkeitsforscherin ist — die Kritik kommt aus
+    dem Feld, nicht von außen, was ihr im Streit Gewicht gibt. Für die Praxis: Wenn ein Sachverständiger
+    SHAP-Werte vorlegt, um zu zeigen, dass das Geschlecht nicht ausschlaggebend war, ist mit dieser Arbeit
+    zu erwidern, dass das Verfahren diese Aussage nicht tragen kann. Der Gegenvorschlag der Autoren ist
+    juristisch brauchbar: erst die Endaufgabe präzise benennen, dann prüfen, ob wiederholte Modellabfragen
+    (also: Gegenprobe mit geänderten Eingaben) die Frage nicht direkter beantworten. Das ist genau die
+    Struktur des Vergleichspersonentests im Diskriminierungsrecht. ANGREIFBAR: Die Unmöglichkeit gilt
+    für bestimmte Modellklassen und bestimmte Endaufgaben; für andere Zwecke — etwa Modelldebugging —
+    können die Verfahren nützlich sein, und die Autoren sagen das. Wer den Text als pauschale Absage an
+    Erklärbarkeit zitiert, überdehnt ihn.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-15-abs-1-lit-h
+- id: 2026-hernandez-torruco-libertad-conciencia-ai-act
+  typ: aufsatz
+  autoren:
+  - Hernández Torruco, Paulina
+  titel: ¿La misma libertad de conciencia? Manipulación, engaño y explotación de vulnerabilidades en el
+    AI Act
+  titel_deutsch: Dieselbe Gewissensfreiheit? Manipulation, Täuschung und Ausnutzung von Schutzbedürftigkeit
+    in der KI-Verordnung
+  fundstelle: Cuestiones Constitucionales. Revista Mexicana de Derecho Constitucional 27 (2026), Nr. 55,
+    Artikel e21270
+  jahr: 2026
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/cuestiones-constitucionales/article/view/21270
+  doi: 10.22201/iij.24484881e.2026.55.21270
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  - eu
+  themenachsen:
+  - grundrechte
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - eu-ki-vo
+  kernthese: 'Die Verbotstatbestände des Art. 5 Abs. 1 lit. a und b KI-VO schützen der Sache nach die
+    Gewissensfreiheit gegenüber Privaten — eine Schutzrichtung, die das mexikanische Verfassungsrecht
+    bisher nur gegenüber der Staatsgewalt kennt.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der intellektuell stärkste mexikanische Text zur KI-VO, den ich gefunden habe, und
+    für einen deutschen Leser aus einem unerwarteten Grund lohnend: Hernández Torruco liest Art. 5 Abs.
+    1 lit. a und b nicht als Verbraucherschutz, sondern als grundrechtliche Norm mit Drittwirkung, und
+    fragt dann, ob eine Rechtsordnung, die Gewissensfreiheit rein abwehrrechtlich denkt, diese Norm überhaupt
+    rezipieren kann. Das ist genau die Frage, die man auch an Art. 4 GG und die mittelbare Drittwirkung
+    stellen müsste, und ich kenne keinen deutschen Aufsatz, der sie stellt. Erschienen 2026, also nach
+    Anwendbarkeit der Verbotstatbestände seit dem 02.02.2025 — sie kann die ersten Anwendungsfragen mitverarbeiten.
+    Als "pflicht" eingestuft nicht wegen des mexikanischen Rechts, sondern wegen des dogmatischen Zugriffs.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-urzua-reincidencia
+  typ: aufsatz
+  autoren:
+  - Urzúa Urzúa, Manuel
+  titel: 'Herramientas predictivas del riesgo de reincidencia criminal basadas en inteligencia artificial:
+    hacia su compatibilidad con la intimidad y la defensa del procesado'
+  titel_deutsch: 'KI-gestützte Rückfallprognoseinstrumente: zur Vereinbarkeit mit dem Recht auf Privatheit
+    und der Verteidigung des Beschuldigten'
+  fundstelle: Revista Chilena de Derecho y Tecnología 13 (2024), Artikel 72923
+  jahr: 2024
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/72923
+  doi: 10.5354/0719-2584.2024.72923
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  kernthese: 'Rückfallprognosesoftware verletzt in der Hauptverhandlung sowohl das Recht auf Privatheit
+    als auch das Verteidigungsrecht, solange der Beschuldigte die Prognose nicht angreifen kann; der Einsatz
+    ist nur unter benannten Verfahrensbedingungen zulässig.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der lateinamerikanische Gegenpart zur COMPAS-Diskussion, und zwar der prozessual
+    sauberste, den ich gefunden habe: Urzúa Urzúa begrenzt die Untersuchung ausdrücklich auf das "juicio
+    oral" und fragt dann, wie sich eine nicht angreifbare Prognose zur Waffengleichheit verhält. Das ist
+    enger und deshalb ergiebiger als die üblichen Aufsätze, die Ermittlungsverfahren, Haftentscheidung
+    und Strafzumessung in einen Topf werfen. Für die deutsche Debatte um Art. 6 Abs. 3 EMRK und das Recht
+    auf Akteneinsicht bei algorithmischen Beweismitteln unmittelbar anschlussfähig. Nachteil: Chile setzt
+    solche Software real bislang kaum ein, der Text ist also vorsorglich und nicht empirisch.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2021-landa-constitucion-ia-algoritmos
+  typ: aufsatz
+  autoren:
+  - Landa Arroyo, César
+  titel: Constitución, Derechos Fundamentales, Inteligencia Artificial y Algoritmos
+  titel_deutsch: Verfassung, Grundrechte, künstliche Intelligenz und Algorithmen
+  fundstelle: THEMIS Revista de Derecho 79 (2021), 37–50
+  jahr: 2021
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/themis/article/view/24863
+  doi: 10.18800/themis.202101.002
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  themenachsen:
+  - grundrechte
+  - governance
+  kernthese: 'Der Staat ist im demokratischen Verfassungsstaat verpflichtet, algorithmische Praktiken
+    zu regulieren, sobald sie Grundrechte gefährden; technologische Anwendungen ohne verfassungsrechtliche
+    Absicherung sind grundrechtswidrig.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Ich stufe diesen Text nicht wegen seines Inhalts als Pflicht ein — er ist ein programmatischer
+    Aufsatz von vierzehn Seiten ohne dogmatische Feinarbeit —, sondern wegen des Autors. César Landa Arroyo
+    war Präsident des peruanischen Verfassungsgerichts und später Aussenminister; wenn er 2021 eine staatliche
+    Regulierungspflicht aus der Verfassung ableitet, ist das der Satz, auf den sich die peruanische Debatte
+    seither beruft, und es ist auch der Satz, der der Ley 31814 von 2023 vorausgeht. Wer wissen will,
+    warum Peru als erstes Land der Region ein KI-Gesetz erlassen hat und warum dieses Gesetz so grundrechtlich
+    formuliert ist, fängt hier an. Für die Sache selbst gibt der Text wenig her; als Autorität für die
+    peruanische Rechtslage ist er unentbehrlich.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-romero-santome-imagen-personal
+  typ: aufsatz
+  autoren:
+  - Romero Herrera, Julia
+  - Santome Sánchez, Aldo
+  titel: 'La protección de la imagen personal frente a la Inteligencia Artificial: Apuntes desde el derecho
+    constitucional y el derecho civil peruano'
+  titel_deutsch: 'Der Schutz des eigenen Bildes gegenüber künstlicher Intelligenz: Anmerkungen aus dem
+    peruanischen Verfassungs- und Zivilrecht'
+  fundstelle: IUS ET VERITAS 71 (2025), 1–19
+  jahr: 2025
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/iusetveritas/article/view/33516
+  doi: 10.18800/iusetveritas.202502.017
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  themenachsen:
+  - grundrechte
+  - content
+  - haftung
+  kernthese: 'Deepfakes zwingen dazu, den Wesensgehalt des Rechts am eigenen Bild neu zu bestimmen; das
+    peruanische Recht schützt bisher nur die Verbreitung des tatsächlichen, nicht des synthetisierten
+    Abbilds.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Nützlich, weil er die beiden Schutzschichten sauber trennt, die im deutschen Recht
+    auch auseinanderfallen: den verfassungsrechtlichen Persönlichkeitsschutz (bei uns Art. 2 Abs. 1 iVm
+    Art. 1 Abs. 1 GG) und den zivilrechtlichen Bildnisschutz (bei uns §§ 22 f. KUG). Die peruanische Ausgangslage
+    ist strenger als unsere — Art. 15 Código Civil verlangt Einwilligung ohne die Ausnahmen des § 23 KUG
+    —, und gerade deshalb ist interessant, dass die Autoren trotzdem eine Schutzlücke bei rein synthetischen
+    Abbildungen bejahen: Das Einwilligungserfordernis greift nach ihrer Lesart nicht, weil kein Abbild
+    "entnommen" wird. Genau dieser Einwand trifft auch § 22 KUG. Kurz und ohne grosse Theorie, aber der
+    Kerngedanke ist übertragbar.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-grosso-madrid-resurreccion-digital
+  typ: aufsatz
+  autoren:
+  - Grosso, Claudio Pablo
+  - Madrid Ramírez, Raúl
+  titel: 'Identidad y resurrección digital: Una aproximación jurídico-filosófica'
+  titel_deutsch: 'Identität und digitale Auferstehung: eine rechtsphilosophische Annäherung'
+  fundstelle: Prudentia Iuris 101 (2026)
+  jahr: 2026
+  sprache: es
+  url: https://erevistas.uca.edu.ar/index.php/PRUDENTIA/es/article/view/5455
+  doi: 10.46553/pi.2026.5455
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  - cl
+  themenachsen:
+  - grundrechte
+  - content
+  - datenschutz
+  kernthese: 'Die "digitale Auferstehung" — ein Chatbot mit Bild und Stimme einer verstorbenen Person
+    — bricht die Kontinuität zwischen realer und digitaler Identität und verlangt nach einem eigenen Schutzrahmen.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Ungewöhnlich, aktuell (2026) und für das deutsche Recht direkt anschlussfähig: Die
+    Frage ist funktional unser postmortales Persönlichkeitsrecht (Mephisto, BVerfGE 30, 173) in einer
+    neuen Erscheinungsform. Grosso und Madrid Ramírez argumentieren naturrechtlich-personalistisch — die
+    Zeitschrift gehört zur Katholischen Universität Argentiniens, und das merkt man —, was ein deutscher
+    Leser als Fremdheit empfinden wird; die Schlussfolgerung, dass der Schutz des Verstorbenen nicht am
+    Datenschutz hängen kann, weil dieser mit dem Tod endet, ist trotzdem richtig und für § 22 Satz 3 KUG
+    und die Zehnjahresfrist erhellend. Rechtsphilosophie mit dünner Normanbindung; man liest ihn für die
+    Fragestellung, nicht für die Subsumtion.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2021-munoz-discriminacion-sociedad-automatizada
+  typ: aufsatz
+  autoren:
+  - Muñoz Gutiérrez, Catherine
+  titel: 'La discriminación en una sociedad automatizada: Contribuciones desde América Latina'
+  titel_deutsch: 'Diskriminierung in einer automatisierten Gesellschaft: Beiträge aus Lateinamerika'
+  fundstelle: Revista Chilena de Derecho y Tecnología 10 (2021), Nr. 1, 271–307
+  jahr: 2021
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/58793
+  doi: 10.5354/0719-2584.2021.58793
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  - cl
+  themenachsen:
+  - grundrechte
+  - governance
+  kernthese: 'Die lateinamerikanischen Gleichheitssätze erfassen algorithmische Diskriminierung nicht,
+    weil sie individuell und merkmalsbezogen gedacht sind; erforderlich ist ein relationales, kollektivbezogenes
+    Verständnis von Gleichheit.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der theoretisch ambitionierteste Text der Sammlung und der einzige, der etwas genuin
+    Regionales anzubieten hat. Muñoz Gutiérrez sagt: Die Diskriminierungsverbote europäischer Prägung
+    — geschlossene Merkmalskataloge, individueller Rechtsschutz — passen nicht auf lateinamerikanische
+    Ungleichheitslagen, in denen Zugehörigkeit relational und kollektiv organisiert ist, und algorithmische
+    Systeme reproduzieren gerade diese Struktur. Daraus leitet sie ein "relationales Prinzip" ab. Für
+    einen deutschen Leser ist das doppelt interessant: erstens, weil dasselbe Problem bei uns unter dem
+    Stichwort der statistischen Diskriminierung diskutiert wird und § 3 AGG damit erkennbar überfordert
+    ist; zweitens, weil es ein seltenes Beispiel dafür ist, dass lateinamerikanische Rechtswissenschaft
+    nicht rezipiert, sondern etwas Eigenes vorschlägt. Ob das relationale Prinzip trägt, halte ich für
+    offen — es bleibt unterbestimmt, und die Autorin sagt nicht, wie ein Gericht damit arbeiten soll.
+    Als Pflicht eingestuft wegen des Eigenbeitrags, nicht wegen der Durchführung.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-florez-diaz-videovigilancia-reconocimiento-facial
+  typ: bericht
+  autoren:
+  - Flórez Ruiz, José Fernando
+  - Díaz Benito, César Orlando
+  titel: Videovigilancia con reconocimiento facial, inteligencia artificial y derechos humanos
+  titel_deutsch: Videoüberwachung mit Gesichtserkennung, künstliche Intelligenz und Menschenrechte
+  fundstelle: Proyecto GuIA (CETyS, Universidad de San Andrés), Ausgabe 2021, veröffentlicht 2022
+  jahr: 2022
+  sprache: es
+  url: https://proyectoguia.lat/wp-content/uploads/2022/08/reconocimiento-facial-V5.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  - co
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - datenschutz
+  kernthese: 'Biometrische Videoüberwachung im öffentlichen Raum Lateinamerikas findet ohne hinreichende
+    gesetzliche Grundlage und ohne wirksame Kontrolle statt.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der einzige regionale Beitrag zur biometrischen Fernidentifizierung, den ich in verwertbarer
+    Form gefunden habe. Er ist für die europäische Debatte deshalb interessant, weil Art. 5 Abs. 1 lit.
+    h KI-VO die biometrische Echtzeit-Fernidentifizierung im öffentlichen Raum grundsätzlich verbietet,
+    während mehrere lateinamerikanische Städte — Buenos Aires, Bogotá, São Paulo — sie ohne Ermächtigungsgrundlage
+    betreiben. Flórez Ruiz lehrt am Externado und schreibt hier ausserhalb der für mich gesperrten Zeitschriften;
+    das macht den Text auch als Zugang zur Externado-Schule wertvoll. Politikpapier, keine Dogmatik, aber
+    mit Fallmaterial. Wer die Argumentation der Klägerseite im Verfahren gegen das Buenos-Aires-System
+    nachvollziehen will, findet hier den Rahmen.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-lungu-ki-ueberwachung-datensouveraenitaet
+  typ: aufsatz
+  autoren:
+  - Lungu, Maria
+  titel: 'Bridging the Legal-technical Gap: AI Surveillance and Data Sovereignty in Africa'
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 29 (2026), Beitrag a23860
+  jahr: 2026
+  sprache: en
+  url: https://perjournal.co.za/article/view/23860
+  doi: 10.17159/1727-3781/2026/v29i0a23860
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - datenschutz
+  kernthese: Zwischen den Privatheits- und Verfahrensgarantien der suedafrikanischen und nigerianischen
+    Verfassung und der Betriebswirklichkeit herstellergesteuerter Ueberwachungssysteme klafft eine "algorithmic
+    sovereignty gap"; sie werde nur durch verpflichtende KI-Folgenabschaetzungen, Auditrechte, Quellcode-Hinterlegung,
+    Datenlokalisierung und Beschaffungstransparenz geschlossen.
+  eigene_bewertung: Der Text mit dem groessten Uebertragungswert. Lungu zeigt an Beschaffungsvorgaengen,
+    dass Grundrechtsschutz gegenueber KI-Ueberwachung nicht am materiellen Recht scheitert, sondern an
+    der Unzugaenglichkeit des Systems - Betriebsgeheimnis plus Sicherheitsvorbehalt ergeben faktische
+    Kontrollfreiheit. Das ist genau die Konstellation, die Art. 6 i.V.m. Anhang III KI-VO und die Ausnahmen
+    fuer Strafverfolgung bei uns erzeugen, nur ohne die dortigen Marktueberwachungsstrukturen. Der Vorschlag
+    der Quellcode-Hinterlegung ist praktisch kaum durchsetzbar, aber als Argumentationsfigur gegen den
+    Betriebsgeheimnis-Einwand brauchbar. Fuer die Achse Biometrie/Predictive Policing im Rechtsvergleich
+    Pflichtlektuere.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-lco-human-rights-ai-impact-assessment
+  typ: bericht
+  autoren:
+  - Law Commission of Ontario
+  titel: Human Rights AI Impact Assessment (HRIA)
+  fundstelle: Law Commission of Ontario, Toronto, 2024 (Guide; Backgrounder 2025)
+  jahr: 2024
+  sprache: en
+  url: https://lco-cdo.org/en/publications/human-rights-ai-impact-assessment-hria/
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  kernthese: Die LCO legt ein operationalisierbares Instrument vor, mit dem Behoerden und Unternehmen
+    die menschenrechtlichen Auswirkungen eines KI-Systems vor und waehrend des Einsatzes strukturiert
+    pruefen koennen.
+  eigene_bewertung: 'Praktisch das interessanteste Stueck aus Kanada, weil es die Luecke fuellt, die Art.
+    27 KI-VO bei uns offenlaesst: Die Grundrechte-Folgenabschaetzung ist dort angeordnet, aber inhaltlich
+    nicht ausgestaltet. Die LCO liefert genau die Pruefschritte, die die Verordnung schuldig bleibt, und
+    zwar auf Basis des kanadischen Menschenrechtsrechts (Ontario Human Rights Code, Charter). Wer ein
+    Muster fuer eine FRIA sucht, das nicht aus dem Beratungsmarkt kommt, nimmt dieses. Grenze: Die materiellen
+    Diskriminierungsmassstaebe sind kanadisch und nicht ohne Weiteres auf Art. 3 GG und das AGG uebertragbar.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-ramaswamy-evidence-machine
+  typ: aufsatz
+  autoren:
+  - Ramaswamy, Samyukta
+  titel: 'The Evidence Machine: Rethinking Admissibility and Privacy in India''s AI Surveillance State'
+  fundstelle: Indian Journal of Law and Technology 20 (2024), Heft 2, Beitrag 4
+  jahr: 2024
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol20/iss2/4
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - datenschutz
+  kernthese: Erkenntnisse aus KI-gestuetzter Ueberwachung gelangen in indische Strafverfahren, ohne dass
+    Beweisrecht oder Verfassungsrecht die Zuverlaessigkeit des erzeugenden Systems pruefen; noetig sei
+    ein eigener Zulaessigkeitsmassstab.
+  eigene_bewertung: 'Der interessanteste Beitrag zur Frage, die mich am meisten beschaeftigt: Was macht
+    das Beweisrecht mit Modellausgaben? Ramaswamy zeigt, dass die indischen Regeln zu elektronischen Beweismitteln
+    (frueher section 65B Indian Evidence Act, jetzt section 63 Bharatiya Sakshya Adhiniyam 2023) auf Datentraeger
+    zugeschnitten sind und bei probabilistischen Systemen leerlaufen - das Zertifikat bescheinigt die
+    korrekte Kopie, nicht die Richtigkeit der Inferenz. Dieselbe Luecke besteht bei uns im Freibeweis
+    des Paragraf 261 StPO, nur unbemerkter. Fuer die Achse grundrechte und fuer alles, was mit Gesichtserkennung
+    in der Strafverfolgung zu tun hat, ein sehr brauchbarer Text.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-dancy-algorithmen-begruendungspflicht
+  typ: aufsatz
+  autoren:
+  - Dancy, Tatiana
+  titel: Algorithms and the Duty to Explain
+  fundstelle: Indian Journal of Law and Technology 22 (2026), Heft 1, Beitrag 1
+  jahr: 2026
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol22/iss1/1
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  - uk
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  kernthese: Die Pflicht, algorithmisch gestuetzte Entscheidungen zu erklaeren, laesst sich nicht aus
+    einem technischen Transparenzbegriff ableiten, sondern nur aus dem Grund, aus dem wir ueberhaupt Begruendungen
+    verlangen - der Ermoeglichung von Widerspruch.
+  eigene_bewertung: 'Der theoretisch sauberste Beitrag zur Erklaerbarkeitsfrage in diesem Konvolut. Dancy
+    dreht die uebliche Reihenfolge um: nicht was ein Modell erklaeren kann, sondern wozu Begruendungen
+    da sind. Damit trifft sie die Schwaeche von Art. 86 KI-VO und Art. 15 Abs. 1 lit. h DSGVO, die beide
+    ein Recht auf Erlaeuterung anordnen, ohne den Massstab zu benennen, an dem sich die Erlaeuterung messen
+    lassen muss. Dass der Text in einer indischen Zeitschrift erscheint, aber im Wesentlichen englisches
+    Verwaltungsrecht verarbeitet, mindert seinen Wert fuer die Jurisdiktion Indien; ich fuehre ihn dennoch,
+    weil er ueber die IJLT rezipiert wird.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-packin-paywalling-humans
+  typ: aufsatz
+  autoren:
+  - Packin, Nizan Geslevich
+  titel: Paywalling humans
+  fundstelle: Theoretical Inquiries in Law 26 (2025), Heft 1, 215-238
+  jahr: 2025
+  sprache: en
+  doi: 10.1515/til-2025-0009
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  themenachsen:
+  - grundrechte
+  - vertrag
+  - wettbewerb
+  kernthese: Wenn Unternehmen den Zugang zu menschlichen Ansprechpartnern hinter eine Bezahlschranke stellen
+    und die kostenlose Variante der KI-Bearbeitung vorbehalten, entsteht eine neue Ungleichheitsdimension,
+    die weder das Verbraucher- noch das Diskriminierungsrecht bislang erfasst.
+  eigene_bewertung: 'Die originellste Beobachtung des Themenhefts und praktisch hochrelevant: Menschliche
+    Bearbeitung wird zum Premiumgut. Packin (Bar-Ilan und CUNY) trifft damit eine Luecke, die auch Art.
+    22 DSGVO und Art. 86 KI-VO offenlassen - beide gewaehren ein Recht auf menschliches Eingreifen, sagen
+    aber nichts darueber, ob dieses Recht bepreist werden darf. Fuer mich ist das die praktisch wichtigste
+    offene Frage des Rechts auf menschliche Ueberpruefung, und ich habe zu ihr sonst nichts Brauchbares
+    gefunden. Der Aufsatz bleibt bei der Problembeschreibung stehen und liefert keinen ausformulierten
+    Anspruch; das mindert den Wert, hebt ihn aber nicht auf.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-piao-ki-diskriminierung-erklaerbarkeit-kredit
+  typ: aufsatz
+  autoren:
+  - 朴昱平 (Piao Yuping)
+  titel: 人工智慧歧視與可解釋人工智慧——以人工智慧金融信貸為例
+  titel_deutsch: KI-Diskriminierung und erklaerbare KI - am Beispiel der KI-gestuetzten Kreditvergabe
+  fundstelle: 月旦法學雜誌 (Yuedan Faxue Zazhi, The Taiwan Law Review) 372 (Mai 2026), 32-49
+  jahr: 2026
+  sprache: zh
+  doi: 10.53106/1025593137202
+  zugang: bezahlt
+  jurisdiktionen:
+  - tw
+  themenachsen:
+  - grundrechte
+  - sektor-finanz
+  - datenschutz
+  kernthese: Erklaerbarkeit ist kein Selbstzweck, sondern das Instrument, mit dem sich algorithmische
+    Diskriminierung bei der Kreditvergabe ueberhaupt erst feststellen laesst; das taiwanische Recht stellt
+    dafuer bislang kein Verfahren bereit.
+  eigene_bewertung: Der einzige mir bekannte taiwanische Aufsatz, der Diskriminierung und Erklaerbarkeit
+    zusammen behandelt, und damit fuer die Achse grundrechte der ergiebigste. Kreditvergabe ist in Anhang
+    III Nr. 5 lit. b KI-VO als Hochrisikoanwendung eingestuft; hier sieht man denselben Sachverhalt in
+    einer Rechtsordnung, die weder eine Hochrisikoklassifikation noch ein allgemeines zivilrechtliches
+    Benachteiligungsverbot nach Art des AGG kennt. Aktuell (Mai 2026) und damit auf dem Stand der taiwanischen
+    Gesetzgebungsdiskussion zum KI-Grundlagengesetz. Nur ueber den Verlag.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2020-lynch-gesichtserkennung-nz
+  typ: bericht
+  autoren:
+  - Lynch, Nessa
+  - Campbell, Liz
+  - Purshouse, Joe
+  - Betkier, Marcin
+  titel: 'Facial Recognition Technology in New Zealand: Towards a Legal and Ethical Framework'
+  fundstelle: Victoria University of Wellington / New Zealand Law Foundation, Wellington, November 2020
+  jahr: 2020
+  sprache: en
+  url: https://www.wgtn.ac.nz/__data/assets/pdf_file/0010/1913248/Facial-Recognition-Technology-in-NZ.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  kernthese: Der neuseelaendische Rechtsrahmen erfasst Gesichtserkennung nur unzureichend; die Autoren
+    fordern in fuenfzehn Empfehlungen unter anderem eine eigene Kategorie biometrischer Daten, einen Biometrics
+    Commissioner, einen verbindlichen Verhaltenskodex und ein Moratorium fuer den Live-Einsatz durch die
+    Polizei.
+  eigene_bewertung: 'Der beste Bericht zur Gesichtserkennung, den ich ausserhalb Europas und der USA gefunden
+    habe, und methodisch vorbildlich: Rechtslage, empirische Erhebung des tatsaechlichen Polizeieinsatzes,
+    dann Empfehlungen. Fuer die Achse Biometrie unmittelbar ergiebig, weil er den Vergleich mit Art. 5
+    Abs. 1 lit. h KI-VO erlaubt - die Forderung nach einem Moratorium fuer live automated facial recognition
+    ist genau das, was die Verordnung mit ihrem Grundsatz-Ausnahme-Verhaeltnis abbildet, hier aber ohne
+    Rechtsakt, sondern als Empfehlung. Bemerkenswert ist auch, dass die Empfehlungen tatsaechlich gewirkt
+    haben: Der neuseelaendische Privacy Commissioner hat 2024/2025 einen Biometric Processing Privacy
+    Code erlassen. Damit ist der Bericht ein seltener Fall belegbaren Einflusses von Rechtswissenschaft
+    auf Rechtsetzung. Titelseite und Empfehlungen am Volltext geprueft.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2019-zerilli-transparenz-doppelter-massstab
+  typ: aufsatz
+  autoren:
+  - Zerilli, John
+  - Knott, Alistair
+  - Maclaurin, James
+  - Gavaghan, Colin
+  titel: 'Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard?'
+  fundstelle: Philosophy & Technology 32 (2019), Heft 4, 661-683
+  jahr: 2019
+  sprache: en
+  doi: 10.1007/s13347-018-0330-6
+  zugang: bezahlt
+  jurisdiktionen:
+  - nz
+  - intl
+  themenachsen:
+  - grundrechte
+  - governance
+  - sektor-oeffentlich
+  kernthese: An algorithmische Entscheidungen werden Transparenzanforderungen gestellt, die menschliche
+    Entscheider nie erfuellen muessten; dieser doppelte Massstab ist nur teilweise gerechtfertigt und
+    muss fuer jede Anforderung eigens begruendet werden.
+  eigene_bewertung: 'Der am haeufigsten zitierte Aufsatz der neuseelaendischen Gruppe und das beste Gegenargument
+    gegen die Selbstverstaendlichkeit, mit der Erklaerbarkeit gefordert wird. Das Argument ist unbequem
+    und richtig: Wir verlangen von einem Modell die Offenlegung des Entscheidungswegs, akzeptieren beim
+    Menschen aber die nachgeschobene Begruendung, die mit dem tatsaechlichen Entscheidungsvorgang wenig
+    zu tun hat. Fuer die Auslegung von Art. 86 KI-VO und Art. 15 Abs. 1 lit. h DSGVO heisst das: Der Massstab
+    kann nicht die vollstaendige Nachvollziehbarkeit sein, sondern nur die Erreichung des Zwecks, dem
+    die Begruendung dient. Damit trifft sich der Aufsatz mit Dancy 2026 aus der IJLT, von der anderen
+    Seite her. Philosophisch, nicht juristisch geschrieben; man muss die Rechtsfolge selbst ziehen.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2020-brownlie-encoding-equality
+  typ: aufsatz
+  autoren:
+  - Brownlie, Ella
+  titel: 'Encoding Equality: The Case for Greater Regulation of Artificial Intelligence and Automated
+    Decision Making in New Zealand'
+  fundstelle: Victoria University of Wellington Law Review 51 (2020), Heft 1, 1-26
+  jahr: 2020
+  sprache: en
+  url: https://ojs.victoria.ac.nz/vuwlr/article/view/6515
+  doi: 10.26686/vuwlr.v51i1.6515
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - governance
+  kernthese: Der neuseelaendische Rechtsrahmen schuetzt gegen diskriminierende automatisierte Entscheidungen
+    nicht ausreichend; auch Art. 22 DSGVO als naechstliegendes Vorbild weist erhebliche Schwaechen auf,
+    weshalb ein eigenes Modell erforderlich sei.
+  eigene_bewertung: 'Der einzige Aufsatz in einer neuseelaendischen Rechtszeitschrift, der die Regulierungsfrage
+    im Ganzen stellt - das sagt viel ueber den Zustand der dortigen Literatur. Fuer den Rechtsvergleich
+    ist die Kritik an Art. 22 DSGVO interessant, weil sie von aussen kommt und deshalb die Punkte trifft,
+    die in Europa als gesetzt gelten: die Beschraenkung auf ausschliesslich automatisierte Entscheidungen,
+    die Rechtsfolgenschwelle, die Erlaubnistatbestaende. Brownlie schreibt als Studentin (der Beitrag
+    geht auf eine Abschlussarbeit zurueck), was man an der Belegdichte merkt; die Analyse ist trotzdem
+    sauber. Frei verfuegbar mit DOI, am Objekt geprueft.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07

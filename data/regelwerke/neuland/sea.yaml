@@ -1,0 +1,3051 @@
+regelwerke:
+- id: vn-ki-gesetz-134-2025
+  jurisdiktion: vn
+  kurztitel: KI-Gesetz Vietnam (Luật Trí tuệ nhân tạo)
+  offizieller_titel: 'Luật Trí tuệ nhân tạo (Gesetz über künstliche Intelligenz), Luật số 134/2025/QH15
+
+    '
+  fundstelle: 'Quốc hội khóa XV, kỳ họp thứ 10; ausgefertigt am 10.12.2025, unterzeichnet vom Vorsitzenden
+    der Nationalversammlung Trần Thanh Mẫn. Verkündet im Công báo (Amtsblatt) Nr. 40 vom 22.01.2026.
+
+    '
+  verfahrensnummer: Luật số 134/2025/QH15
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 01.03.2026 (Điều 34). Erstes umfassendes KI-Gesetz Südostasiens und
+    eines der weltweit ersten außerhalb der EU, das ein risikobasiertes Modell mit Verbotskatalog, Konformitätsbewertung
+    und Kennzeichnungspflicht verbindet. Die Durchführungsverordnung Nghị định 142/2026/NĐ-CP ist ergangen;
+    der Umsetzungsplan der Regierung steht in Quyết định 367/QĐ-TTg vom 03.03.2026. Für Systeme, die vor
+    dem 01.03.2026 in Betrieb waren, gelten nach Điều 35 Übergangsfristen.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt Forschung, Entwicklung, Bereitstellung, Einsatz und Nutzung von
+    KI-Systemen in Vietnam. Es ordnet KI-Systeme in drei Risikostufen (hoch, mittel, gering) ein und knüpft
+    daran abgestufte Pflichten: Hochrisikosysteme unterliegen einer Konformitätsbewertung vor Inbetriebnahme,
+    einer Dokumentations- und Aufsichtspflicht sowie der Eintragung in eine nationale Datenbank. Anbieter
+    müssen offenlegen, dass ein Nutzer mit einem KI-System interagiert; KI-erzeugte Audio-, Bild- und
+    Videoinhalte, die über echte Personen täuschen können, sind maschinenlesbar zu kennzeichnen. Điều
+    7 enthält einen Katalog verbotener Praktiken (systematische Täuschung und Manipulation der menschlichen
+    Wahrnehmung, Ausnutzung schutzbedürftiger Gruppen, Desinformation zulasten der nationalen Sicherheit).
+    Verstöße ziehen nach Điều 29 verwaltungs-, zivil- und strafrechtliche Folgen nach sich; der Betreiber
+    haftet für Schäden aus dem Betrieb von Hochrisikosystemen, mit Entlastung bei Nutzerverschulden und
+    höherer Gewalt. Zuständig ist das Bộ Khoa học và Công nghệ (Ministerium für Wissenschaft und Technologie).
+
+    '
+  inkrafttreten:
+    datum: 2026-03-01
+    verifiziert: true
+    quelle: https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm
+  anwendungsdaten:
+  - datum: 2026-03-01
+    was_gilt: 'Gesetz tritt in Kraft (Điều 34), mit Ausnahme der in Điều 35 geregelten Übergangstatbestände.
+
+      '
+    verifiziert: true
+    quelle: https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm
+  - datum: 2027-03-01
+    was_gilt: 'Ablauf der 12-Monats-Übergangsfrist nach Điều 35 für KI-Systeme außerhalb der Sektoren
+      Gesundheit, Bildung und Finanzen, die vor dem 01.03.2026 in Betrieb genommen wurden.
+
+      '
+    verifiziert: false
+    quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Law-134-2025-QH15-Artificial-Intelligence-689735.aspx
+  - datum: 2027-09-01
+    was_gilt: 'Ablauf der 18-Monats-Übergangsfrist nach Điều 35 für KI-Systeme in den Sektoren Gesundheit,
+      Bildung und Finanzen, die vor dem 01.03.2026 in Betrieb genommen wurden.
+
+      '
+    verifiziert: false
+    quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Law-134-2025-QH15-Artificial-Intelligence-689735.aspx
+  themenachsen:
+  - marktzugang
+  - governance
+  - content
+  - haftung
+  - grundrechte
+  - datenschutz
+  - gpai
+  regelungsschwerpunkte:
+  - 'Aufbau: 8 Kapitel (Chương I-VIII), 35 Artikel (Điều 1-35).'
+  - 'Điều 1: Regelungsgegenstand — nghiên cứu, phát triển, cung cấp, triển khai và sử dụng hệ thống trí
+    tuệ nhân tạo (Forschung, Entwicklung, Bereitstellung, Einsatz und Nutzung von KI-Systemen).'
+  - 'Điều 3: Begriffsbestimmungen — KI, KI-System, Entwickler, Anbieter (nhà cung cấp), Betreiber (bên
+    triển khai), Nutzer, betroffene Person, schwerer Vorfall.'
+  - 'Điều 7 ''Các hành vi bị nghiêm cấm'': Verbotskatalog mit sechs Gruppen; erfasst u.a. Deepfakes zur
+    systematischen Täuschung, Ausnutzung schutzbedürftiger Gruppen, rechtswidrige Datenverarbeitung und
+    Desinformation zulasten der nationalen Sicherheit.'
+  - 'Điều 8: Einheitliches KI-Portal (cổng thông tin điện tử một cửa) und nationale KI-Datenbank.'
+  - 'Điều 9 ''Phân loại mức độ rủi ro'': drei Risikostufen. Hochrisiko = erhebliche Schäden an Leben,
+    Gesundheit, legitimen Rechten; mittleres Risiko = Verwechslungsgefahr über die Interaktion mit KI;
+    geringes Risiko = Auffangkategorie. Kriterien sind Sektorsensibilität und Nutzerkreis.'
+  - 'Điều 11 ''Trách nhiệm minh bạch'': Anbieter müssen interaktive KI als solche offenlegen; Betreiber
+    müssen KI-erzeugte Inhalte kennzeichnen, wenn Verwechslungsgefahr über die Echtheit besteht; Audio
+    und Video, die reale Personen nachbilden, brauchen leicht erkennbare Kennzeichen und maschinenlesbare
+    Formate.'
+  - 'Điều 13/14: Konformitätsbewertung (đánh giá sự phù hợp) vor Inbetriebnahme von Hochrisikosystemen;
+    technische Dokumentation; Sicherstellung menschlicher Aufsicht; Erläuterungspflicht auf beschreibender
+    Ebene ohne Offenlegung von Algorithmen oder Geschäftsgeheimnissen.'
+  - 'Điều 29 ''Xử lý vi phạm'': verwaltungs- und strafrechtliche Verantwortlichkeit; Betreiberhaftung
+    für Schäden aus dem Betrieb von Hochrisikosystemen mit Entlastung bei Nutzerverschulden und höherer
+    Gewalt; bei Angriffen Dritter haftet der Angreifer.'
+  - 'Điều 30: Bộ Khoa học và Công nghệ (Ministerium für Wissenschaft und Technologie) als federführende
+    Behörde gegenüber der Regierung.'
+  - 'Điều 33: hebt khoản 9 Điều 3, khoản 7 Điều 4, khoản 6 Điều 12, điểm đ khoản 2 Điều 34 und das gesamte
+    CHƯƠNG IV des Luật Công nghiệp công nghệ số auf — damit wird das KI-Recht aus dem Digitaltechnikindustriegesetz
+    in das KI-Gesetz überführt.'
+  - 'Điều 35: Übergangsvorschrift für vor Inkrafttreten in Betrieb genommene Systeme (18 Monate Gesundheit/Bildung/Finanzen,
+    sonst 12 Monate).'
+  dokumente:
+  - datum: 2026-01-22
+    typ: endfassung
+    titel: Luật số 134/2025/QH15 luật Trí tuệ nhân tạo — Công báo số 40
+    url: https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm
+    sprache: vi
+    urheber: Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam / Công báo Chính phủ
+    verifiziert: true
+    notiz: 'Amtsblattfundstelle. Die Seite verweist auf die amtliche DOCX- und PDF-Fassung (Dateiname
+      2026_40_134/2025/QH15) über den CDN g7.cdnchinhphu.vn; dieser Host war in dieser Sitzung durch die
+      Egress-Politik gesperrt, die Metadaten (Nr. 134/2025/QH15, 10.12.2025, Trần Thanh Mẫn, Công báo
+      Nr. 40 vom 22.01.2026, Wirksamkeit 01.03.2026) sind der Amtsblattseite selbst entnommen.
+
+      '
+  - datum: 2025-12-10
+    typ: konsolidiert
+    titel: Luật Trí tuệ nhân tạo 2025 số 134/2025/QH15 — Volltext
+    url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Tri-tue-nhan-tao-2025-so-134-2025-QH15-679013.aspx
+    sprache: vi
+    urheber: Thư viện Pháp luật (privat)
+    verifiziert: true
+    notiz: 'Nichtamtliche Volltextfassung, hier als Arbeitsgrundlage für die Artikelstruktur benutzt,
+      weil die amtliche PDF nicht erreichbar war. Nicht als Fundstelle zitieren — die amtliche Fundstelle
+      ist Công báo Nr. 40/2026.
+
+      '
+  - datum: 2025-12-10
+    typ: uebersicht
+    titel: Law No. 134/2025/QH15 on Artificial Intelligence — englische Übersetzung
+    url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Law-134-2025-QH15-Artificial-Intelligence-689735.aspx
+    sprache: en
+    urheber: Thư viện Pháp luật (privat)
+    verifiziert: true
+    notiz: 'Nichtamtliche englische Übersetzung. Nur als Verständnishilfe; die Übergangsfristen (18/12
+      Monate) stammen aus dieser Fassung und sind deshalb als verifiziert: false geführt.
+
+      '
+  offene_punkte:
+  - Amtliche PDF/DOCX unter g7.cdnchinhphu.vn war wegen der Egress-Politik dieser Sitzung nicht abrufbar;
+    der Wortlaut von Điều 7, 9, 11, 13, 14 ist nur mittelbar belegt.
+  - Der genaue Wortlaut von Điều 35 (Übergangsfristen) ist nicht am amtlichen Text geprüft; die Angaben
+    18 bzw. 12 Monate stammen aus der englischen Übersetzung bei Thư viện Pháp luật.
+  - Ob eine amtliche englische Fassung existiert (das vietnamesische Recht kennt keine verbindlichen Übersetzungen),
+    ist offen.
+  - 'Bußgeldrahmen: Điều 29 verweist auf das allgemeine Ordnungswidrigkeitenrecht; die konkreten Sätze
+    müssen aus einem Sanktions-Nghị định kommen, das noch nicht auffindbar war.'
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  - https://vanban.chinhphu.vn/
+  - https://mst.gov.vn/van-ban-phap-luat/du-thao/2294.htm
+  bezug_regelwerke:
+  - vn-nd-142-2026
+  - vn-digitaltechnikindustrie-71-2025
+  - vn-qd-367-2026
+  - vn-pdpl-91-2025
+  - vn-cybersecurity-116-2025
+  letzte_pruefung: 2026-09-06
+- id: vn-nd-142-2026
+  jurisdiktion: vn
+  kurztitel: KI-Durchführungsverordnung Vietnam (Nghị định 142/2026)
+  offizieller_titel: 'Nghị định số 142/2026/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
+    Luật Trí tuệ nhân tạo (Verordnung zur näheren Regelung einzelner Vorschriften und zu Durchführungsmaßnahmen
+    des KI-Gesetzes)
+
+    '
+  fundstelle: 'Chính phủ (Regierung), Nghị định số 142/2026/NĐ-CP vom 30.04.2026; amtliche PDF: datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/142-2026-ndcp.signed.pdf
+
+    '
+  verfahrensnummer: 142/2026/NĐ-CP
+  status: anwendbar
+  status_detail: 'Ergangen am 30.04.2026 auf Grundlage des Luật Trí tuệ nhân tạo. Das Wirksamkeitsdatum
+    ist widersprüchlich belegt: vanban.chinhphu.vn nennt den 01.05.2026, die staatliche Nachrichtenagentur
+    VietnamPlus den 09.05.2026. Die Verordnung konkretisiert die Risikoeinstufung, das einheitliche KI-Portal
+    und die nationale KI-Datenbank.
+
+    '
+  kurzbeschreibung: 'Die Verordnung führt das dreistufige Risikomodell des KI-Gesetzes aus. Hochrisikosysteme
+    sind diejenigen, die in einer vom Ministerpräsidenten zu erlassenden „Danh mục hệ thống trí tuệ nhân
+    tạo có rủi ro cao" (Liste der Hochrisiko-KI-Systeme) nach Điều 13 Abs. 4 des KI-Gesetzes aufgeführt
+    sind. Systeme mittleren Risikos bestimmen sich nach den Kriterien des Điều 9 der Verordnung, alle
+    übrigen gelten als geringes Risiko. Anbieter müssen die Einstufung vor Inbetriebnahme selbst vornehmen
+    („thực hiện phân loại hệ thống trí tuệ nhân tạo trước khi đưa hệ thống vào sử dụng") und haften rechtlich
+    für ihre Richtigkeit und Wahrhaftigkeit. Wer ein System ändert oder seinen Verwendungszweck so verschiebt,
+    dass höhere Risiken entstehen, muss mit dem Anbieter eine Neueinstufung abstimmen. Das Ministerium
+    für Wissenschaft und Technologie stellt ein elektronisches Bewertungswerkzeug bereit, dessen Nutzung
+    ausdrücklich freiwillig ist („không bắt buộc") und kein zusätzliches Verwaltungsverfahren begründet.
+    Das Ministerium betreibt zudem das einheitliche KI-Portal und die nationale KI-Systemdatenbank.
+
+    '
+  inkrafttreten:
+    datum: 2026-05-01
+    verifiziert: false
+    quelle: https://vanban.chinhphu.vn/?pageid=27160&docid=218029
+  themenachsen:
+  - marktzugang
+  - governance
+  - content
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Einstufungspflicht des Anbieters vor Inbetriebnahme, mit gesetzlicher Verantwortlichkeit für die Richtigkeit
+    der Einstufung.
+  - Hochrisiko = Aufnahme in die vom Ministerpräsidenten zu erlassende 'Danh mục hệ thống trí tuệ nhân
+    tạo có rủi ro cao' (Điều 13 Abs. 4 KI-Gesetz).
+  - 'Điều 9 der Verordnung: Kriterien für die mittlere Risikostufe.'
+  - Pflicht zur Neueinstufung bei Änderung des Systems oder des Verwendungszwecks, in Abstimmung mit dem
+    Anbieter.
+  - Freiwilliges elektronisches Selbstbewertungswerkzeug des Bộ Khoa học và Công nghệ; ausdrücklich kein
+    neues Verwaltungsverfahren.
+  - Betrieb des 'Cổng thông tin điện tử một cửa về trí tuệ nhân tạo' (einheitliches elektronisches KI-Portal)
+    und der nationalen KI-Systemdatenbank durch das Ministerium; Ausnahmen für vertrauliche und rein interne
+    Systeme.
+  dokumente:
+  - datum: 2026-04-30
+    typ: endfassung
+    titel: Nghị định số 142/2026/NĐ-CP — amtliche unterzeichnete Fassung (PDF)
+    url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/142-2026-ndcp.signed.pdf
+    sprache: vi
+    urheber: Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam
+    verifiziert: false
+    notiz: 'Die Datei existiert und ist über vanban.chinhphu.vn amtlich verlinkt, enthält aber keinen
+      maschinenlesbaren Text (Scan). Inhalt daher nicht unmittelbar am amtlichen Text prüfbar.
+
+      '
+  - datum: 2026-04-30
+    typ: endfassung
+    titel: Nghị định số 142/2026/NĐ-CP — Eintrag in der Regierungsdatenbank
+    url: https://vanban.chinhphu.vn/?pageid=27160&docid=218029
+    sprache: vi
+    urheber: Văn phòng Chính phủ
+    verifiziert: true
+    notiz: 'Amtlicher Metadatensatz: Nummer, Titel, Ausfertigungsdatum, Unterzeichner, Verweis auf die
+      PDF.'
+  - datum: 2026-05
+    typ: uebersicht
+    titel: Giới thiệu Nghị định số 142/2026/NĐ-CP — Einführung des Justizministeriums
+    url: https://khpl.moj.gov.vn/portal/tin-tuc/chi-tiet/gioi-thieu-nghi-inh-so-1422026n-cp-quy-inh-chi-tiet-mot-so-ieu-va-bien-phap-thi-hanh-luat-tri-tue-nhan-tao-th2pbneb5f.html
+    sprache: vi
+    urheber: Bộ Tư pháp — Vụ Phổ biến, giáo dục pháp luật
+    verifiziert: false
+    notiz: 'Amtliche Erläuterung des Justizministeriums. Der Abruf schlug in dieser Sitzung mit HTTP 403
+      fehl; die URL ist über die Suchindexierung belegt, der Inhalt nicht geprüft.
+
+      '
+  offene_punkte:
+  - 'WIDERSPRUCH Wirksamkeitsdatum: 01.05.2026 (vanban.chinhphu.vn) gegen 09.05.2026 (vietnamplus.vn).
+    Nicht auflösbar, weil die amtliche PDF ein Scan ohne Textebene ist.'
+  - Kapitel- und Artikelzahl der Verordnung nicht belegt.
+  - Die 'Danh mục hệ thống trí tuệ nhân tạo có rủi ro cao' (Hochrisikoliste des Ministerpräsidenten) war
+    nicht auffindbar — sie ist der eigentliche Schlüssel zum Anwendungsbereich und muss zuerst nachrecherchiert
+    werden.
+  - khpl.moj.gov.vn antwortete mit 403; die amtliche Erläuterung des Justizministeriums ist ungelesen.
+  monitoring_quellen:
+  - https://vanban.chinhphu.vn/
+  - https://congbao.chinhphu.vn/
+  bezug_regelwerke:
+  - vn-ki-gesetz-134-2025
+  - vn-qd-367-2026
+  letzte_pruefung: 2026-09-06
+- id: vn-qd-367-2026
+  jurisdiktion: vn
+  kurztitel: Umsetzungsplan KI-Gesetz Vietnam (Quyết định 367/QĐ-TTg)
+  offizieller_titel: 'Quyết định số 367/QĐ-TTg ban hành Kế hoạch triển khai thi hành Luật Trí tuệ nhân
+    tạo (Entscheidung über den Plan zur Durchführung des KI-Gesetzes)
+
+    '
+  fundstelle: Thủ tướng Chính phủ, Quyết định số 367/QĐ-TTg vom 03.03.2026, gezeichnet Phó Thủ tướng Nguyễn
+    Chí Dũng
+  verfahrensnummer: 367/QĐ-TTg
+  status: anwendbar
+  status_detail: 'Regierungsinterner Umsetzungsplan, erlassen zwei Tage nach Inkrafttreten des KI-Gesetzes.
+    Er verteilt die Durchführungsaufgaben auf die Ressorts und setzt Termine für die Rechtsetzungsarbeiten.
+
+    '
+  kurzbeschreibung: 'Der Plan weist dem Ministerium für Wissenschaft und Technologie den Aufbau des einheitlichen
+    KI-Portals, der nationalen KI-Systemdatenbank, der KI-Infrastruktur als öffentliche Leistung, des
+    nationalen KI-Entwicklungsfonds und eines Netzes von KI-Clustern zu. Das Bildungsministerium hat 2026
+    das nationale KI-Fachkräfteprogramm vorzulegen, das Justizministerium wirkt an den Rechtsetzungsdokumenten
+    und an der Rechtsverbreitung mit, das Ministerium für öffentliche Sicherheit verantwortet nationale
+    Rechenzentren und deren Sicherheit. Alle Ressorts und Provinzen müssen ihr bestehendes Recht auf Vereinbarkeit
+    mit dem KI-Gesetz prüfen, Durchführungsvorschriften anpassen und die KI-Strategie in ihre Fachplanungen
+    aufnehmen. Als Termine nennt der Plan die Fertigstellung des nationalen KI-Ethikrahmens und der Hochrisikoliste
+    sowie den Aufbau des KI-Entwicklungsfonds in den Jahren 2026 und 2027.
+
+    '
+  inkrafttreten:
+    datum: 2026-03-03
+    verifiziert: false
+    quelle: https://baochinhphu.vn/ban-hanh-ke-hoach-trien-khai-thi-hanh-luat-tri-tue-nhan-tao-102260303114127072.htm
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Termin: nationaler KI-Ethikrahmen und Liste der Hochrisiko-KI-Systeme — Zieltermin nach der Darstellung
+    von Báo Chính phủ Februar 2026 (also faktisch verspätet, weil der Plan selbst erst am 03.03.2026 erging).'
+  - '2026-2027: Errichtung des nationalen KI-Entwicklungsfonds (Quỹ phát triển trí tuệ nhân tạo quốc gia).'
+  - 'Bộ Khoa học và Công nghệ: KI-Portal, nationale KI-Datenbank, KI-Infrastruktur als öffentliche Leistung,
+    KI-Cluster.'
+  - 'Bộ Giáo dục và Đào tạo: nationales KI-Fachkräfteprogramm 2026.'
+  - 'Bộ Công an: nationale Rechenzentren und deren Sicherheit.'
+  - 'Alle Ressorts und Provinzen: Prüfung des Bestandsrechts auf Vereinbarkeit, Anpassung der Durchführungsvorschriften.'
+  dokumente:
+  - datum: 2026-03-03
+    typ: bericht
+    titel: Ban hành Kế hoạch triển khai thi hành Luật Trí tuệ nhân tạo
+    url: https://baochinhphu.vn/ban-hanh-ke-hoach-trien-khai-thi-hanh-luat-tri-tue-nhan-tao-102260303114127072.htm
+    sprache: vi
+    urheber: Báo Điện tử Chính phủ (amtliches Regierungsorgan)
+    verifiziert: true
+    notiz: 'Amtliche Regierungszeitung, nicht das Dokument selbst. Der Volltext der Quyết định 367/QĐ-TTg
+      wurde in dieser Sitzung nicht gefunden.
+
+      '
+  offene_punkte:
+  - Volltext der Quyết định 367/QĐ-TTg nicht gefunden; die Aufgabenverteilung ist nur über Báo Chính phủ
+    belegt.
+  - Der Zieltermin 'Februar 2026' für Ethikrahmen und Hochrisikoliste liegt vor dem Erlassdatum des Plans
+    (03.03.2026) — entweder ein Fehler der Berichterstattung oder ein rückwirkend gesetzter Termin. Ungeklärt.
+  monitoring_quellen:
+  - https://vanban.chinhphu.vn/
+  - https://baochinhphu.vn/
+  bezug_regelwerke:
+  - vn-ki-gesetz-134-2025
+  - vn-nd-142-2026
+  letzte_pruefung: 2026-09-06
+- id: vn-digitaltechnikindustrie-71-2025
+  jurisdiktion: vn
+  kurztitel: Digitaltechnikindustriegesetz Vietnam (Luật Công nghiệp công nghệ số)
+  offizieller_titel: 'Luật Công nghiệp công nghệ số (Gesetz über die Digitaltechnikindustrie), Luật số
+    71/2025/QH15
+
+    '
+  fundstelle: Quốc hội khóa XV; Công báo Nr. 965+966 vom 24.07.2025
+  verfahrensnummer: Luật số 71/2025/QH15
+  status: teilanwendbar
+  status_detail: 'In Kraft seit dem 01.01.2026, für Điều 11, 28 und 29 bereits seit dem 01.07.2025 (Điều
+    50). Das ursprünglich hier verortete KI-Recht ist NICHT MEHR IN KRAFT: Điều 33 des KI-Gesetzes 134/2025/QH15
+    hat mit Wirkung vom 01.03.2026 das gesamte Chương IV (Điều 41-45) sowie khoản 9 Điều 3, khoản 7 Điều
+    4, khoản 6 Điều 12 und điểm đ khoản 2 Điều 34 aufgehoben. Das Gesetz bleibt im Übrigen anwendbar (Digitaltechnikindustrie,
+    Halbleiter, digitale Vermögenswerte).
+
+    '
+  kurzbeschreibung: 'Das Gesetz ordnet die vietnamesische Digitaltechnikindustrie: Förderung, digitale
+    Vermögenswerte, Halbleiter, digitale Infrastruktur und Arbeitskräfte. Es enthielt in Chương IV („TRÍ
+    TUỆ NHÂN TẠO") die erste gesetzliche KI-Regelung Vietnams — Grundsätze der KI-Entwicklung (Điều 41),
+    nationale KI-Strategie (Điều 42), Verwaltung von KI-Systemen mit einer Kategorie der Hochrisiko- und
+    der „wirkungsstarken" Systeme (Điều 43), Kennzeichnungspflicht für KI-Systeme und KI-erzeugte digitale
+    Produkte (Điều 44) und die Verantwortlichkeiten von Entwicklern, Anbietern und Betreibern (Điều 45).
+    Diese Vorschriften galten nur vom 01.01.2026 bis zum 28.02.2026 und wurden dann durch das KI-Gesetz
+    ersetzt. Das ist rechtshistorisch bedeutsam: Vietnam hat sein KI-Recht binnen zweier Monate aus dem
+    Industriegesetz herausgelöst und verselbständigt.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-01
+    verifiziert: true
+    quelle: https://congbao.chinhphu.vn/van-ban/luat-so-71-2025-qh15-45555.htm
+  anwendungsdaten:
+  - datum: 2025-07-01
+    was_gilt: Điều 11, 28 und 29 treten vorzeitig in Kraft (Điều 50 khoản 2).
+    verifiziert: false
+    quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Cong-nghiep-cong-nghe-so-2025-so-71-2025-QH15-621341.aspx
+  - datum: 2026-01-01
+    was_gilt: Gesetz tritt im Übrigen in Kraft, einschließlich Chương IV (KI).
+    verifiziert: true
+    quelle: https://congbao.chinhphu.vn/van-ban/luat-so-71-2025-qh15-45555.htm
+  - datum: 2026-03-01
+    was_gilt: 'Chương IV (Điều 41-45, KI) und die begleitenden Vorschriften werden durch Điều 33 des KI-Gesetzes
+      134/2025/QH15 aufgehoben.
+
+      '
+    verifiziert: true
+    quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Tri-tue-nhan-tao-2025-so-134-2025-QH15-679013.aspx
+  themenachsen:
+  - marktzugang
+  - governance
+  - content
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'AUFGEHOBEN zum 01.03.2026 — Điều 41 ''Nguyên tắc phát triển, cung cấp, triển khai sử dụng trí tuệ
+    nhân tạo'': Grundsätze menschenzentrierter, transparenter, sicherer KI im Einklang mit Datenschutz-
+    und Verbraucherschutzrecht.'
+  - 'AUFGEHOBEN — Điều 42 ''Chiến lược nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo'': nationale
+    KI-Strategie.'
+  - 'AUFGEHOBEN — Điều 43 ''Quản lý hệ thống trí tuệ nhân tạo'': Hochrisikosysteme (schwere Schäden für
+    Gesundheit, Menschenrechte, öffentliche Ordnung) und ''wirkungsstarke'' Systeme (tác động lớn); Anforderungen
+    an technische Spezifikationen, Transparenz, Data Governance, Cybersicherheit.'
+  - 'AUFGEHOBEN — Điều 44 ''Quy định dấu hiệu nhận dạng đối với hệ thống trí tuệ nhân tạo'': Offenlegungspflicht
+    bei direkter Nutzerinteraktion und Kennzeichnungspflicht für KI-erzeugte digitale Produkte.'
+  - 'AUFGEHOBEN — Điều 45: Verantwortlichkeiten von Entwicklern, Anbietern, Betreibern.'
+  - 'AUFGEHOBEN — khoản 9 Điều 3: Legaldefinition ''Hệ thống trí tuệ nhân tạo là hệ thống dựa trên máy
+    móc được thiết kế để hoạt động với các mức độ tự chủ khác nhau...'' (maschinengestütztes System mit
+    unterschiedlichen Autonomiegraden, das Vorhersagen oder Entscheidungen mit Wirkung auf physische oder
+    digitale Umgebungen erzeugt) — wörtlich an die OECD-Definition angelehnt.'
+  - 'AUFGEHOBEN — khoản 6 Điều 12: Verbot, KI-Systeme zur Verletzung nationaler, Sicherheits- oder öffentlicher
+    Interessen oder zur Schädigung kultureller Traditionen einzusetzen.'
+  - 'AUFGEHOBEN — điểm đ khoản 2 Điều 34: Aufnahme von Hochrisiko- und wirkungsstarken KI-Systemen in
+    die nationale Datenbank.'
+  - 'IN KRAFT geblieben: Digitaltechnikindustrie, digitale Vermögenswerte (tài sản số), Halbleiter, Steuervergünstigungen
+    für hochqualifizierte Digitalfachkräfte (Điều 49).'
+  dokumente:
+  - datum: 2025-07-24
+    typ: endfassung
+    titel: Luật số 71/2025/QH15 luật Công nghiệp công nghệ số — Công báo Nr. 965+966
+    url: https://congbao.chinhphu.vn/van-ban/luat-so-71-2025-qh15-45555.htm
+    sprache: vi
+    urheber: Quốc hội / Công báo Chính phủ
+    verifiziert: true
+    notiz: Amtsblattfundstelle.
+  - datum: 2025-07-24
+    typ: endfassung
+    titel: Luật số 71/2025/QH15 — amtliche PDF im Công báo
+    url: https://congbao.chinhphu.vn/tai-ve-van-ban-so-71-2025-qh15-45555-57751?format=pdf
+    sprache: vi
+    urheber: Công báo Chính phủ
+    verifiziert: true
+    notiz: Direkte PDF-Fundstelle des Amtsblatts (Số 965+966/Ngày 24-7-2025, S. 39 ff.).
+  - datum: 2025-06-14
+    typ: konsolidiert
+    titel: Luật 71/2025/QH15 — Văn bản gốc in der nationalen Rechtsdatenbank
+    url: https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179989
+    sprache: vi
+    urheber: Bộ Tư pháp — Cơ sở dữ liệu quốc gia về văn bản pháp luật
+    verifiziert: false
+    notiz: Amtliche nationale Rechtsdatenbank des Justizministeriums; Abruf in dieser Sitzung nicht durchgeführt.
+  offene_punkte:
+  - Das genaue Ausfertigungsdatum des Gesetzes (14.06.2025 nach vbpl.vn-Indexierung) ist nicht am amtlichen
+    Text geprüft.
+  - Ob zwischen dem 01.01.2026 und dem 28.02.2026 unter Chương IV bereits Verwaltungspraxis entstanden
+    ist (Registrierungen, Kennzeichnungsauflagen), war nicht feststellbar.
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  - https://vbpl.vn/
+  bezug_regelwerke:
+  - vn-ki-gesetz-134-2025
+  letzte_pruefung: 2026-09-06
+- id: vn-pdpl-91-2025
+  jurisdiktion: vn
+  kurztitel: Datenschutzgesetz Vietnam (Luật Bảo vệ dữ liệu cá nhân)
+  offizieller_titel: 'Luật Bảo vệ dữ liệu cá nhân (Gesetz über den Schutz personenbezogener Daten), Luật
+    số 91/2025/QH15
+
+    '
+  fundstelle: 'Quốc hội khóa XV, ausgefertigt 26.06.2025, unterzeichnet Trần Thanh Mẫn; Công báo Nr. 971+972
+    vom 24.07.2025
+
+    '
+  verfahrensnummer: Luật số 91/2025/QH15
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 01.01.2026. Es ersetzt das bisherige Verordnungsregime des Nghị định
+    13/2023/NĐ-CP, das mit demselben Tag außer Kraft trat. Durchführungsverordnung ist Nghị định 356/2025/NĐ-CP
+    vom 31.12.2025. Für KI ist das Gesetz die praktisch wichtigste Norm: Điều 30 regelt die Verarbeitung
+    personenbezogener Daten in Big-Data-, KI-, Blockchain-, Metaverse- und Cloud-Umgebungen ausdrücklich
+    und verlangt für KI-gestützte Verarbeitung eine risikobasierte Klassifizierung.
+
+    '
+  kurzbeschreibung: 'Das Gesetz gliedert sich in 5 Kapitel mit 39 Artikeln. Es begründet Betroffenenrechte,
+    Pflichten von Verantwortlichen und Auftragsverarbeitern, Vorgaben für grenzüberschreitende Übermittlung
+    und eine Folgenabschätzungspflicht. Für KI einschlägig ist vor allem Điều 30 („Bảo vệ dữ liệu cá nhân
+    trong hoạt động dữ liệu lớn, trí tuệ nhân tạo, chuỗi khối, vũ trụ ảo, điện toán đám mây"), der die
+    Zweckbindung auch in KI-Umgebungen festschreibt, technische Sicherungsmaßnahmen verlangt und ausdrücklich
+    anordnet, dass die Verarbeitung personenbezogener Daten mittels künstlicher Intelligenz eine risikostufenbasierte
+    Einordnung anwenden muss. Điều 31 regelt Standort- und biometrische Daten mit physischen Sicherungs-,
+    Zugriffsbeschränkungs- und Überwachungspflichten — die Grundlage für Gesichtserkennungsfälle. Der
+    Bußgeldrahmen des Điều 8 ist scharf: Kauf und Verkauf personenbezogener Daten das Zehnfache des erlangten
+    Vorteils, Verstöße gegen die Regeln zur grenzüberschreitenden Übermittlung bis 5 % des Vorjahresumsatzes,
+    sonstige Verstöße bis 3 Mrd. VND, für natürliche Personen die Hälfte.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-01
+    verifiziert: true
+    quelle: https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - gpai
+  regelungsschwerpunkte:
+  - 'Điều 8: Sanktionen — 10-facher Vorteil bei Datenhandel, 5 % Vorjahresumsatz bei rechtswidriger Auslandsübermittlung,
+    bis 3 Mrd. VND sonst, 50 % für natürliche Personen.'
+  - 'Điều 30: KI, Big Data, Blockchain, Metaverse, Cloud. Zweckbindung; eingebaute Datensicherheitsmaßnahmen;
+    ausdrückliche Pflicht zur risikostufenbasierten Klassifizierung bei KI-gestützter Verarbeitung personenbezogener
+    Daten — die inhaltliche Brücke zum KI-Gesetz.'
+  - 'Điều 31: Standortdaten und biometrische Daten; Legaldefinition biometrischer Daten; physische Sicherung
+    von Speicher- und Übertragungsgeräten; Zugriffsbeschränkung; Überwachungssystem zur Erkennung von
+    Verletzungen.'
+  - 5 Kapitel, 39 Artikel; Ablösung des Nghị định 13/2023/NĐ-CP zum 01.01.2026.
+  dokumente:
+  - datum: 2025-07-24
+    typ: endfassung
+    titel: Luật số 91/2025/QH15 luật Bảo vệ dữ liệu cá nhân — Công báo Nr. 971+972
+    url: https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm
+    sprache: vi
+    urheber: Quốc hội / Công báo Chính phủ
+    verifiziert: true
+    notiz: Amtsblattfundstelle mit Verweis auf die amtliche PDF- und DOC-Fassung.
+  - datum: 2025-06-26
+    typ: konsolidiert
+    titel: Luật Bảo vệ dữ liệu cá nhân — Fassung in der Rechtsdatenbank des Ministeriums für öffentliche
+      Sicherheit
+    url: https://vanban.bocongan.gov.vn/co-so-du-lieu-van-ban/luat-bao-ve-du-lieu-ca-nhan-1753688803
+    sprache: vi
+    urheber: Bộ Công an (Ministerium für öffentliche Sicherheit)
+    verifiziert: false
+    notiz: 'Das Ministerium für öffentliche Sicherheit ist die vietnamesische Datenschutzaufsicht; seine
+      Rechtsdatenbank ist die behördliche Primärquelle. Abruf in dieser Sitzung nicht durchgeführt.
+
+      '
+  - datum: 2025-06-26
+    typ: uebersicht
+    titel: Law on Personal Data Protection No. 91/2025/QH15 — englische Übersetzung
+    url: https://english.luatvietnam.vn/dan-su/law-on-personal-data-protection-law-no-91-2025-qh15-405135-d1.html
+    sprache: en
+    urheber: LuatVietnam (privat)
+    verifiziert: true
+    notiz: Nichtamtliche Übersetzung; Grundlage der Inhaltsangabe zu Điều 30 und 31.
+  offene_punkte:
+  - Der vietnamesische Wortlaut von Điều 30 und 31 ist nur mittelbar über eine Übersetzung belegt; die
+    amtliche PDF unter g7.cdnchinhphu.vn war gesperrt.
+  - Ob das Gesetz ein Recht auf Nichtunterwerfung unter ausschließlich automatisierte Entscheidungen (Art.
+    22 DSGVO) kennt, konnte nicht geklärt werden — in den ausgewerteten Darstellungen taucht keine entsprechende
+    Vorschrift auf. Das wäre der erste Punkt für den nächsten Bearbeiter.
+  - 'Verhältnis der Risikoklassifizierung nach Điều 30 PDPL zur Risikoklassifizierung nach Điều 9 KI-Gesetz:
+    zwei getrennte Systeme oder eines? Ungeklärt.'
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  - https://bocongan.gov.vn/chinh-sach-phap-luat/co-so-du-lieu-van-ban/
+  bezug_regelwerke:
+  - vn-ki-gesetz-134-2025
+  - vn-nd-356-2025
+  - vn-nd-13-2023
+  letzte_pruefung: 2026-09-06
+- id: vn-nd-356-2025
+  jurisdiktion: vn
+  kurztitel: Datenschutz-Durchführungsverordnung Vietnam (Nghị định 356/2025)
+  offizieller_titel: 'Nghị định số 356/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
+    Luật Bảo vệ dữ liệu cá nhân (Verordnung zur näheren Regelung einzelner Vorschriften und zu Durchführungsmaßnahmen
+    des Datenschutzgesetzes)
+
+    '
+  fundstelle: Chính phủ, Nghị định số 356/2025/NĐ-CP vom 31.12.2025
+  verfahrensnummer: 356/2025/NĐ-CP
+  status: anwendbar
+  status_detail: 'Durchführungsverordnung zum Datenschutzgesetz 91/2025/QH15, ergangen am 31.12.2025,
+    einen Tag vor dessen Inkrafttreten. Sie tritt an die Stelle des Nghị định 13/2023/NĐ-CP.
+
+    '
+  kurzbeschreibung: 'Die Verordnung konkretisiert die Pflichten des Datenschutzgesetzes: Einwilligung,
+    Datenschutz-Folgenabschätzung (hồ sơ đánh giá tác động xử lý dữ liệu cá nhân), Anzeige grenzüberschreitender
+    Übermittlungen und Verfahren gegenüber dem Ministerium für öffentliche Sicherheit. Für KI-Sachverhalte
+    ist sie die Ebene, auf der sich entscheidet, ob eine KI-gestützte Verarbeitung eine Folgenabschätzung
+    auslöst und wie deren Unterlagen auszusehen haben.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-01
+    verifiziert: false
+    quelle: https://vanban.chinhphu.vn/?pageid=27160&docid=216387
+  themenachsen:
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - Ersetzt Nghị định 13/2023/NĐ-CP.
+  - Verfahren der Datenschutz-Folgenabschätzung und der Anzeige grenzüberschreitender Übermittlung gegenüber
+    dem Bộ Công an.
+  dokumente:
+  - datum: 2025-12-31
+    typ: endfassung
+    titel: Nghị định số 356/2025/NĐ-CP — Eintrag in der Regierungsdatenbank
+    url: https://vanban.chinhphu.vn/?pageid=27160&docid=216387
+    sprache: vi
+    urheber: Văn phòng Chính phủ
+    verifiziert: false
+    notiz: Amtlicher Metadatensatz; Abruf in dieser Sitzung nicht durchgeführt, URL aus der Suchindexierung.
+  - datum: 2025-12-31
+    typ: uebersicht
+    titel: Decree No. 356/2025/ND-CP — englische Übersetzung
+    url: https://english.luatvietnam.vn/decree-no-356-2025-nd-cp-dated-december-31-2025-of-the-government-detailing-a-number-of-articles-and-measures-for-the-implementation-of-the-law-on-p-422896-doc1.html
+    sprache: en
+    urheber: LuatVietnam (privat)
+    verifiziert: false
+    notiz: Nichtamtliche Übersetzung.
+  offene_punkte:
+  - Inhalt nicht am amtlichen Text geprüft; Kapitel-/Artikelstruktur unbekannt.
+  - Ob die Verordnung eigene Vorschriften zu KI-gestützter Verarbeitung oder Profiling enthält, ist ungeklärt.
+  monitoring_quellen:
+  - https://vanban.chinhphu.vn/
+  - https://congbao.chinhphu.vn/
+  bezug_regelwerke:
+  - vn-pdpl-91-2025
+  - vn-nd-13-2023
+  letzte_pruefung: 2026-09-06
+- id: vn-nd-13-2023
+  jurisdiktion: vn
+  kurztitel: Datenschutzverordnung Vietnam 2023 (Nghị định 13/2023) — aufgehoben
+  offizieller_titel: 'Nghị định số 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân (Verordnung über den Schutz
+    personenbezogener Daten)
+
+    '
+  fundstelle: Chính phủ, Nghị định số 13/2023/NĐ-CP vom 17.04.2023
+  verfahrensnummer: 13/2023/NĐ-CP
+  status: aufgehoben
+  status_detail: 'Vietnams erstes umfassendes Datenschutzinstrument, in Kraft vom 01.07.2023 bis zum 31.12.2025.
+    Außer Kraft getreten mit dem Inkrafttreten des Datenschutzgesetzes 91/2025/QH15 am 01.01.2026. Bleibt
+    für Altfälle und für das Verständnis der vietnamesischen Datenschutzdogmatik (Einwilligungszentrierung,
+    Anzeigepflichten, Zuständigkeit des Ministeriums für öffentliche Sicherheit) maßgeblich.
+
+    '
+  kurzbeschreibung: 'Die Verordnung führte erstmals ein vollständiges Datenschutzregime ein: Legaldefinitionen
+    sensibler Daten, Einwilligungserfordernis, Betroffenenrechte, Pflicht zur Datenschutz-Folgenabschätzung
+    und Anzeige grenzüberschreitender Übermittlungen an das Ministerium für öffentliche Sicherheit. Sie
+    enthielt keine KI-spezifische Norm; KI-Fälle waren nach ihr über die allgemeinen Regeln zu Einwilligung
+    und Zweckbindung zu lösen. Sie ist damit der Kontrast, an dem sich Điều 30 des Nachfolgegesetzes messen
+    lässt.
+
+    '
+  inkrafttreten:
+    datum: 2023-07-01
+    verifiziert: false
+    quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-13-2023-ND-CP-bao-ve-du-lieu-ca-nhan-465185.aspx
+  anwendungsdaten:
+  - datum: 2026-01-01
+    was_gilt: Außerkrafttreten mit Inkrafttreten des Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15.
+    verifiziert: false
+    quelle: https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chinh-sach-moi/102230/nghi-dinh-13-2023-nd-cp-ve-bao-ve-du-lieu-ca-nhan-het-hieu-luc-tu-01-01-2026
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - Erstes vollständiges Datenschutzregime Vietnams; Einwilligungszentrierung.
+  - Datenschutz-Folgenabschätzung und Anzeige der Auslandsübermittlung beim Bộ Công an.
+  - KEINE KI-spezifische Vorschrift — KI-Fälle liefen über Einwilligung und Zweckbindung.
+  dokumente:
+  - datum: 2023-04-17
+    typ: konsolidiert
+    titel: Nghị định 13/2023/NĐ-CP bảo vệ dữ liệu cá nhân
+    url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-13-2023-ND-CP-bao-ve-du-lieu-ca-nhan-465185.aspx
+    sprache: vi
+    urheber: Thư viện Pháp luật (privat)
+    verifiziert: false
+    notiz: Nichtamtliche Fassung; die amtliche Công-báo-Fundstelle wurde in dieser Sitzung nicht ermittelt.
+  offene_punkte:
+  - Amtliche Công-báo-Fundstelle des Nghị định 13/2023/NĐ-CP nicht ermittelt.
+  - Genaues Datum des Außerkrafttretens nur über eine Sekundärdarstellung belegt.
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  bezug_regelwerke:
+  - vn-pdpl-91-2025
+  - vn-nd-356-2025
+  letzte_pruefung: 2026-09-06
+- id: vn-cybersecurity-116-2025
+  jurisdiktion: vn
+  kurztitel: Cybersicherheitsgesetz Vietnam 2025 (Luật An ninh mạng)
+  offizieller_titel: Luật An ninh mạng (Cybersicherheitsgesetz), Luật số 116/2025/QH15
+  fundstelle: 'Quốc hội khóa XV, ausgefertigt 10.12.2025, unterzeichnet Trần Thanh Mẫn; Công báo Nr. 35
+    vom 21.01.2026
+
+    '
+  verfahrensnummer: Luật số 116/2025/QH15
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 01.07.2026. Am selben Tag wie das KI-Gesetz ausgefertigt (10.12.2025).
+    Es tritt an die Stelle des Luật An ninh mạng 24/2018/QH14; die Amtsblattseite selbst weist allerdings
+    null ersetzte Dokumente aus, sodass das Verhältnis zum Gesetz von 2018 am amtlichen Text noch zu prüfen
+    ist. Für KI entscheidend: Điều 7 khoản 2 điểm g verbietet ausdrücklich, künstliche Intelligenz oder
+    neue Technologien zur Fälschung von Videos, Bildern oder Stimmen zu verwenden — Vietnams zentrale
+    Deepfake-Strafnorm im Gesetzesrang.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt die Sicherheit im Cyberraum, Pflichten von Diensteanbietern, Datenlokalisierung,
+    kritische Informationsinfrastruktur und verbotene Handlungen im Netz. Für die KI-Praxis ist der Verbotskatalog
+    des Điều 7 maßgeblich. Điều 7 khoản 2 điểm g untersagt „Sử dụng trí tuệ nhân tạo hoặc công nghệ mới
+    để giả mạo video, hình ảnh, giọng nói" — die Verwendung künstlicher Intelligenz oder neuer Technologien,
+    um Videos, Bilder oder Stimmen anderer rechtswidrig zu fälschen. Điều 13 khoản 3 điểm h flankiert
+    das mit dem Verbot der Identitätsanmaßung und der Fälschung von Informationen, Bildern und Stimmen
+    einer Person. Damit hat Vietnam die Deepfake-Verbotsnorm nicht im KI-Gesetz, sondern im Cybersicherheitsrecht
+    verortet — dort, wo das Ministerium für öffentliche Sicherheit zuständig ist.
+
+    '
+  inkrafttreten:
+    datum: 2026-07-01
+    verifiziert: true
+    quelle: https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm
+  themenachsen:
+  - content
+  - sicherheit-export
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Điều 7 khoản 2 điểm g: ''Sử dụng trí tuệ nhân tạo hoặc công nghệ mới để giả mạo video, hình ảnh,
+    giọng nói'' — Verbot des Einsatzes von KI oder neuer Technologien zur rechtswidrigen Fälschung von
+    Videos, Bildern und Stimmen. Vietnams Deepfake-Verbot im Gesetzesrang.'
+  - 'Điều 13 khoản 3 điểm h: ''Mạo danh, giả mạo thông tin, hình ảnh, giọng nói của cá nhân'' — Identitätsanmaßung
+    und Fälschung von Informationen, Bild und Stimme einer Person.'
+  - 'Zuständigkeit: Bộ Công an (Ministerium für öffentliche Sicherheit) — anders als beim KI-Gesetz (Bộ
+    Khoa học và Công nghệ). Die Doppelzuständigkeit ist die zentrale Strukturfrage des vietnamesischen
+    KI-Rechts.'
+  dokumente:
+  - datum: 2026-01-21
+    typ: endfassung
+    titel: Luật số 116/2025/QH15 luật An ninh mạng — Công báo Nr. 35
+    url: https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm
+    sprache: vi
+    urheber: Quốc hội / Công báo Chính phủ
+    verifiziert: true
+    notiz: Amtsblattfundstelle mit Metadaten (10.12.2025, Trần Thanh Mẫn, Wirksamkeit 01.07.2026).
+  - datum: 2026-06-29
+    typ: uebersicht
+    titel: Những nội dung mới trong Luật An ninh mạng số 116/2025/QH15
+    url: https://xaydungchinhsach.chinhphu.vn/nhung-noi-dung-moi-trong-luat-an-ninh-mang-so-116-2025-qh15-119260629145615168.htm
+    sprache: vi
+    urheber: Cổng Thông tin điện tử Chính phủ — Xây dựng chính sách, pháp luật
+    verifiziert: false
+    notiz: Amtliche Regierungsdarstellung der Neuerungen; Abruf in dieser Sitzung nicht durchgeführt.
+  - datum: 2025-12-10
+    typ: konsolidiert
+    titel: Luật An ninh mạng 2025 số 116/2025/QH15 — Volltext
+    url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-An-ninh-mang-2025-so-116-2025-QH15-666020.aspx
+    sprache: vi
+    urheber: Thư viện Pháp luật (privat)
+    verifiziert: true
+    notiz: Nichtamtliche Volltextfassung; Grundlage für den Wortlaut von Điều 7 khoản 2 điểm g und Điều
+      13 khoản 3 điểm h.
+  offene_punkte:
+  - Die Amtsblattseite weist NULL ersetzte Dokumente aus, obwohl das Gesetz nach der Sekundärliteratur
+    das Luật An ninh mạng 24/2018/QH14 ablöst. Widerspruch nicht aufgelöst; die Schlussvorschriften des
+    Gesetzes sind am amtlichen Text zu prüfen.
+  - Verhältnis zum Luật An toàn thông tin mạng (Gesetz über Netzinformationssicherheit) ungeklärt.
+  - Sanktionsrahmen für Verstöße gegen Điều 7 khoản 2 điểm g nicht ermittelt.
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  - https://bocongan.gov.vn/
+  bezug_regelwerke:
+  - vn-ki-gesetz-134-2025
+  - vn-cybersecurity-24-2018
+  - vn-nd-147-2024
+  letzte_pruefung: 2026-09-06
+- id: vn-cybersecurity-24-2018
+  jurisdiktion: vn
+  kurztitel: Cybersicherheitsgesetz Vietnam 2018 (Luật An ninh mạng 2018)
+  offizieller_titel: Luật An ninh mạng (Cybersicherheitsgesetz), Luật số 24/2018/QH14
+  fundstelle: Quốc hội khóa XIV, Luật số 24/2018/QH14 vom 12.06.2018
+  verfahrensnummer: Luật số 24/2018/QH14
+  status: aufgehoben
+  status_detail: 'In Kraft seit dem 01.01.2019, abgelöst durch das Luật An ninh mạng 116/2025/QH15 zum
+    01.07.2026. Es enthielt keine KI-spezifische Vorschrift; Deepfake-Sachverhalte waren über die allgemeinen
+    Verbote falscher Information und der Verletzung der Ehre zu lösen. Es begründete die Datenlokalisierungspflicht
+    und die Zuständigkeit des Ministeriums für öffentliche Sicherheit, die bis heute die Aufsichtsstruktur
+    prägt.
+
+    '
+  kurzbeschreibung: 'Das Gesetz von 2018 war Vietnams erstes Cybersicherheitsgesetz. Es verpflichtete
+    inländische und ausländische Diensteanbieter zur Datenspeicherung in Vietnam und zur Einrichtung einer
+    Niederlassung, verbot bestimmte Inhalte (Propaganda gegen den Staat, Falschinformation, Ehrverletzung)
+    und begründete Löschungs- und Auskunftspflichten gegenüber dem Ministerium für öffentliche Sicherheit.
+    Ohne KI-spezifische Norm war es bis 2026 die Auffangnorm für Deepfake-Sachverhalte.
+
+    '
+  inkrafttreten:
+    datum: 2019-01-01
+    verifiziert: false
+    quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-an-ninh-mang-2018-351416.aspx
+  themenachsen:
+  - content
+  - sicherheit-export
+  - grundrechte
+  regelungsschwerpunkte:
+  - Datenlokalisierung und Niederlassungspflicht für ausländische Diensteanbieter.
+  - Inhaltsverbote und Löschungspflichten gegenüber dem Bộ Công an.
+  - Keine KI-spezifische Vorschrift — Auffangregime für Deepfakes bis 2026.
+  dokumente:
+  - datum: 2018-06-12
+    typ: konsolidiert
+    titel: Luật An ninh mạng 2018 số 24/2018/QH14
+    url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-an-ninh-mang-2018-351416.aspx
+    sprache: vi
+    urheber: Thư viện Pháp luật (privat)
+    verifiziert: false
+    notiz: Nichtamtliche Fassung; amtliche Công-báo-Fundstelle nicht ermittelt.
+  offene_punkte:
+  - Amtliche Fundstelle (Công báo) nicht ermittelt.
+  - Genaues Datum und Rechtsgrundlage der Aufhebung sind am Text des Gesetzes 116/2025/QH15 zu prüfen.
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  bezug_regelwerke:
+  - vn-cybersecurity-116-2025
+  letzte_pruefung: 2026-09-06
+- id: vn-nd-147-2024
+  jurisdiktion: vn
+  kurztitel: Internet- und Online-Inhalte-Verordnung Vietnam (Nghị định 147/2024)
+  offizieller_titel: 'Nghị định số 147/2024/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ internet và thông
+    tin trên mạng (Verordnung über Verwaltung, Bereitstellung und Nutzung von Internetdiensten und Informationen
+    im Netz)
+
+    '
+  fundstelle: Chính phủ, Nghị định số 147/2024/NĐ-CP vom 09.11.2024
+  verfahrensnummer: 147/2024/NĐ-CP
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 25.12.2024. NEGATIVBEFUND: Die Verordnung enthält entgegen der Erwartung
+    KEINE KI-spezifische Vorschrift — weder zur Kennzeichnung KI-erzeugter Inhalte noch zu Empfehlungssystemen
+    noch zu Deepfakes. Sie ist gleichwohl der prozedurale Rahmen, in dem KI-erzeugte rechtswidrige Inhalte
+    in Vietnam behandelt werden: Kontoverifizierung, Melde- und Löschungspflichten, Verantwortlichkeit
+    grenzüberschreitender Diensteanbieter.
+
+    '
+  kurzbeschreibung: 'Die Verordnung regelt Internetdienste, Domainverwaltung (.vn), Internetzugangspunkte,
+    Informationssicherheit im Netz, Online-Spiele und Domainstreitigkeiten. Sie verpflichtet Plattformen
+    zur Verifizierung von Nutzerkonten (Telefonnummer oder Personalausweis) und zur Entfernung rechtswidriger
+    Inhalte binnen kurzer Fristen nach Aufforderung. KI-erzeugte Inhalte werden nicht gesondert erfasst;
+    sie unterliegen denselben Melde- und Löschungspflichten wie andere Inhalte. Für die Praxis heißt das:
+    Die Kennzeichnungspflicht für KI-Inhalte ergibt sich in Vietnam allein aus Điều 11 des KI-Gesetzes,
+    ihre Durchsetzung gegenüber Plattformen aber aus dieser Verordnung.
+
+    '
+  inkrafttreten:
+    datum: 2024-12-25
+    verifiziert: true
+    quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-147-2024-ND-CP-quan-ly-cung-cap-su-dung-dich-vu-Internet-thong-tin-tren-mang-480755.aspx
+  themenachsen:
+  - content
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'NEGATIVBEFUND: keine KI-, Deepfake- oder Kennzeichnungsvorschrift; keine Regelung von Empfehlungssystemen.'
+  - Kontoverifizierung von Nutzern sozialer Netzwerke.
+  - Melde- und Löschungspflichten für rechtswidrige Inhalte; Verantwortlichkeit grenzüberschreitender
+    Diensteanbieter.
+  - Regelung von Online-Spielen und Domainverwaltung.
+  dokumente:
+  - datum: 2024-11-09
+    typ: endfassung
+    titel: Nghị định số 147/2024/NĐ-CP — amtliche PDF im Công báo
+    url: https://congbao.chinhphu.vn/tai-ve-van-ban-so-147-2024-nd-cp-43155-52693?format=pdf
+    sprache: vi
+    urheber: Công báo Chính phủ
+    verifiziert: true
+    notiz: Direkte PDF-Fundstelle des Amtsblatts.
+  - datum: 2024-11-09
+    typ: endfassung
+    titel: Nghị định số 147/2024/NĐ-CP — Eintrag in der Regierungsdatenbank
+    url: https://vanban.chinhphu.vn/?pageid=27160&docid=211654
+    sprache: vi
+    urheber: Văn phòng Chính phủ
+    verifiziert: false
+    notiz: Amtlicher Metadatensatz.
+  - datum: 2024-11-28
+    typ: pressemitteilung
+    titel: 'Thông cáo báo chí: Chính phủ ban hành Nghị định 147/2024/NĐ-CP'
+    url: https://mic.gov.vn/thong-cao-bao-chi-chinh-phu-ban-hanh-nghi-dinh-147-2024-nd-cp-ngay-09-11-2024-ve-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-197241128090616239.htm
+    sprache: vi
+    urheber: Bộ Thông tin và Truyền thông (heute Bộ Khoa học và Công nghệ)
+    verifiziert: false
+    notiz: Amtliche Pressemitteilung des zuständigen Ministeriums.
+  offene_punkte:
+  - Welche früheren Verordnungen (Nghị định 72/2013, 27/2018) aufgehoben wurden, ist am amtlichen Text
+    zu prüfen.
+  - Ob nach Inkrafttreten des KI-Gesetzes eine Änderungsverordnung zur Kennzeichnung KI-erzeugter Inhalte
+    ergangen ist, war nicht feststellbar.
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  - https://mic.gov.vn/
+  bezug_regelwerke:
+  - vn-ki-gesetz-134-2025
+  - vn-cybersecurity-116-2025
+  letzte_pruefung: 2026-09-06
+- id: vn-nd-134-2026-urheberrecht
+  jurisdiktion: vn
+  kurztitel: KI-Urheberrechtsverordnung Vietnam (Nghị định 134/2026)
+  offizieller_titel: 'Nghị định số 134/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 17/2023/NĐ-CP
+    ngày 26 tháng 4 năm 2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Sở
+    hữu trí tuệ về quyền tác giả, quyền liên quan (Verordnung zur Änderung und Ergänzung der Verordnung
+    17/2023/NĐ-CP über Urheberrecht und verwandte Schutzrechte)
+
+    '
+  fundstelle: 'Chính phủ, Nghị định số 134/2026/NĐ-CP vom 06.04.2026, unterzeichnet Mai Văn Chính; Công
+    báo Nr. 256 vom 29.04.2026
+
+    '
+  verfahrensnummer: 134/2026/NĐ-CP
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 09.04.2026. Eine der weltweit ersten ausdrücklichen Kodifikationen
+    des Urheberrechts an KI-erzeugten Werken UND einer Text- und Data-Mining-Schranke mit Opt-out. Sie
+    fügt in die Urheberrechtsverordnung 17/2023/NĐ-CP die neuen Điều 5a (Schutz KI-gestützt geschaffener
+    Werke), Điều 37a (Bedingungen der Nutzung geschützter Werke zum KI-Training) und Điều 37b (Rechtsvorbehalt
+    / Opt-out) ein.
+
+    '
+  kurzbeschreibung: 'Điều 5a bestimmt, dass ein mit Hilfe von KI geschaffenes Werk nur dann urheberrechtlich
+    geschützt ist, wenn der Mensch „đóng góp đáng kể và mang tính quyết định" (einen erheblichen und entscheidenden
+    Beitrag) zur Schöpfung geleistet hat. Als solche Beiträge nennt die Vorschrift das Einbringen von
+    Eingabedaten, technischen Parametern oder Entwurfsmaterial, das Setzen von Steuerbefehlen („thiết
+    lập các câu lệnh để điều khiển hệ thống trí tuệ nhân tạo"), das Bewerten, Auswählen, Bearbeiten, Eingreifen
+    oder Auslegen der Ergebnisse sowie Entscheidungen, die künstlerische Absicht, ästhetisches Urteil
+    oder fachliches Können ausdrücken; das Ergebnis muss die Vorstellung des Menschen und nicht algorithmische
+    Zufälligkeit widerspiegeln. Der Mensch ist Urheber und trägt die Verantwortung für Inhalt und Rechtmäßigkeit.
+    Werke, die „hoàn toàn do hệ thống trí tuệ nhân tạo tạo ra" (vollständig von einem KI-System geschaffen)
+    sind, genießen keinen Schutz. Điều 37a erlaubt die Nutzung geschützter Werke zum KI-Training unter
+    drei Bedingungen: rechtmäßige Veröffentlichung und rechtmäßiger Zugang ohne Umgehung technischer Schutzmaßnahmen;
+    Zweck der wissenschaftlichen Forschung, des Versuchs oder des Trainings ohne kommerziellen Zweck,
+    wobei das Ergebnis die normale Verwertung nicht ersetzen und keinen unlauteren Wettbewerb begründen
+    darf; sowie eine Aufbewahrungspflicht für technische Aufzeichnungen, Trainings- und Nutzungsdaten
+    mit Auskunftspflicht gegenüber staatlichen Stellen. Điều 37b gibt Urhebern, ausübenden Künstlern und
+    Rechtsinhabern ein Vorbehaltsrecht („quyền bảo lưu"): Sie können die Nutzung zum KI-Training ausschließen,
+    indem sie einen maschinenlesbaren Vorbehalt in Metadaten, technischen Schutzmaßnahmen oder Rechteverwaltungsinformationen
+    setzen und veröffentlichen oder den Vorbehalt auf der Website einer zugelassenen Verwertungsgesellschaft
+    öffentlich erklären.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-09
+    verifiziert: true
+    quelle: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-134-2026-nd-cp-469388.htm
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Điều 5a (neu): Schutz KI-gestützt geschaffener Werke nur bei erheblichem und entscheidendem menschlichem
+    Beitrag; Aufzählung der anerkannten Beitragsformen (Eingabedaten, Parameter, Entwurfsmaterial, Steuerbefehle/Prompts,
+    Bewertung, Auswahl, Bearbeitung, Auslegung); Mensch ist Urheber und haftet für Inhalt und Rechtmäßigkeit.'
+  - 'Điều 5a: Ausschluss vollständig maschinell erzeugter Werke vom Schutz (''hoàn toàn do hệ thống trí
+    tuệ nhân tạo tạo ra'').'
+  - 'Điều 5a: Die Nutzung darf bestehende Urheberrechte an den Eingabedaten nicht verletzen — Verknüpfung
+    von Schutzfähigkeit und Rechtmäßigkeit der Trainingsdaten.'
+  - 'Điều 37a (neu): TDM-/Trainingsschranke. Voraussetzungen — (1) rechtmäßig veröffentlichtes Werk, rechtmäßiger
+    Zugang, keine Umgehung technischer Schutzmaßnahmen; (2) Zweck Forschung, Versuch oder KI-Training
+    ohne kommerziellen Zweck, kein Ersatz der normalen Verwertung, kein unlauterer Wettbewerb; (3) Aufbewahrung
+    technischer Aufzeichnungen, Trainings- und Nutzungsdaten sowie Auskunft an staatliche Stellen zur
+    Prüfung und Streitbeilegung.'
+  - 'Điều 37b (neu): Vorbehaltsrecht (quyền bảo lưu) für Urheber, ausübende Künstler und Rechtsinhaber;
+    Ausübung durch maschinenlesbaren Vorbehalt in Metadaten, technischen Schutzmaßnahmen oder Rechteverwaltungsinformationen
+    mit Veröffentlichung, oder durch öffentliche Erklärung auf der Website einer zugelassenen Verwertungsgesellschaft.'
+  - 'Systematisch bemerkenswert: Vietnam kombiniert eine enge, nichtkommerzielle Trainingsschranke MIT
+    einem Opt-out — anders als Art. 4 DSM-RL, wo die kommerzielle TDM-Schranke das Opt-out trägt.'
+  dokumente:
+  - datum: 2026-04-29
+    typ: endfassung
+    titel: Nghị định số 134/2026/NĐ-CP — Công báo Nr. 256
+    url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-134-2026-nd-cp-469388.htm
+    sprache: vi
+    urheber: Chính phủ / Công báo Chính phủ
+    verifiziert: true
+    notiz: Amtsblattfundstelle; Metadaten (06.04.2026, Mai Văn Chính, Công báo 256 vom 29.04.2026, Wirksamkeit
+      09.04.2026) hier geprüft.
+  - datum: 2026-04-06
+    typ: endfassung
+    titel: Nghị định số 134/2026/NĐ-CP — Eintrag in der Regierungsdatenbank
+    url: https://vanban.chinhphu.vn/?classid=1&docid=217833&pageid=27160&typegroupid=4
+    sprache: vi
+    urheber: Văn phòng Chính phủ
+    verifiziert: false
+    notiz: Amtlicher Metadatensatz; nicht abgerufen.
+  - datum: 2026-04
+    typ: uebersicht
+    titel: Giới thiệu Nghị định số 134/2026/NĐ-CP quy định về quyền tác giả, quyền liên quan
+    url: https://cov.gov.vn/tin-tuc/gioi-thieu-nghi-dinh-so-1342026ndcp-quy-dinh-ve-quyen-tac-gia-quyen-lien-quan-168925.html
+    sprache: vi
+    urheber: Cục Bản quyền tác giả (Copyright Office of Vietnam)
+    verifiziert: false
+    notiz: 'Amtliche Erläuterung der zuständigen Fachbehörde. Der Abruf schlug in dieser Sitzung fehl
+      (robots.txt-Timeout); die URL ist über die Suchindexierung belegt.
+
+      '
+  - datum: 2026-04-15
+    typ: bericht
+    titel: Điều kiện để tác phẩm do AI hỗ trợ tạo ra được pháp luật bảo hộ quyền tác giả
+    url: https://baochinhphu.vn/dieu-kien-de-tac-pham-do-ai-ho-tro-tao-ra-duoc-phap-luat-bao-ho-quyen-tac-gia-102260415163902936.htm
+    sprache: vi
+    urheber: Báo Điện tử Chính phủ (amtliches Regierungsorgan)
+    verifiziert: true
+    notiz: Amtliche Darstellung des Điều 5a mit wörtlichen Zitaten; Grundlage der Inhaltsangabe.
+  - datum: 2026-04-06
+    typ: konsolidiert
+    titel: Nghị định 134/2026/NĐ-CP sửa đổi Nghị định 17/2023/NĐ-CP — Volltext
+    url: https://thuvienphapluat.vn/van-ban/So-huu-tri-tue/Nghi-dinh-134-2026-ND-CP-sua-doi-Nghi-dinh-17-2023-ND-CP-huong-dan-Luat-So-huu-tri-tue-696079.aspx
+    sprache: vi
+    urheber: Thư viện Pháp luật (privat)
+    verifiziert: true
+    notiz: Nichtamtliche Volltextfassung; Grundlage für den Inhalt von Điều 37a und 37b.
+  offene_punkte:
+  - Der genaue Wortlaut von Điều 37a und 37b ist nur über eine nichtamtliche Volltextfassung belegt; die
+    amtliche PDF war über den gesperrten CDN nicht erreichbar.
+  - Ob 'không có mục đích thương mại' (ohne kommerziellen Zweck) das Training kommerzieller Modelle vollständig
+    ausschließt oder nur die Verwertung des Ergebnisses, ist eine Auslegungsfrage von erheblicher Tragweite
+    und in den ausgewerteten Quellen nicht behandelt.
+  - Verhältnis der Aufbewahrungspflicht des Điều 37a zur Transparenzpflicht des Điều 11 KI-Gesetz ungeklärt.
+  - Ob die Verwertungsgesellschaften bereits ein Vorbehaltsregister nach Điều 37b eingerichtet haben,
+    war nicht feststellbar.
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  - https://cov.gov.vn/
+  bezug_regelwerke:
+  - vn-ki-gesetz-134-2025
+  - vn-ip-gesetz
+  letzte_pruefung: 2026-09-06
+- id: vn-ip-gesetz
+  jurisdiktion: vn
+  kurztitel: Gesetz über geistiges Eigentum Vietnam (Luật Sở hữu trí tuệ)
+  offizieller_titel: 'Luật Sở hữu trí tuệ số 50/2005/QH11, geändert durch Luật số 36/2009/QH12, Luật số
+    42/2019/QH14 und Luật số 07/2022/QH15
+
+    '
+  fundstelle: Quốc hội, Luật số 50/2005/QH11 vom 29.11.2005 in der Fassung von 2022
+  verfahrensnummer: 50/2005/QH11 i.d.F. 07/2022/QH15
+  status: anwendbar
+  status_detail: 'Das Stammgesetz des vietnamesischen Rechts des geistigen Eigentums. Es enthält selbst
+    keine KI-Vorschrift; die KI-bezogenen Regeln zu Urheberschaft und Training stehen erst in der Durchführungsverordnung
+    17/2023/NĐ-CP in der Fassung des Nghị định 134/2026/NĐ-CP. Das ist dogmatisch heikel: Der Ausschluss
+    vollständig maschinell erzeugter Werke vom Schutz und die Trainingsschranke werden auf Verordnungsebene
+    geregelt, obwohl das Gesetz den Werkbegriff und die Schranken selbst normiert.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt Urheberrecht und verwandte Schutzrechte, gewerbliche Schutzrechte
+    und Sortenschutz. Der Werkbegriff knüpft an eine persönliche geistige Schöpfung an; Urheber kann nur
+    eine natürliche Person sein. Die Schranken des Urheberrechts sind abschließend geregelt. Die 2022
+    eingefügten Vorschriften zu technischen Schutzmaßnahmen und zur Verantwortlichkeit von Vermittlern
+    sind die Anknüpfungspunkte, an denen der Rechtsvorbehalt des neuen Điều 37b der Durchführungsverordnung
+    hängt.
+
+    '
+  inkrafttreten:
+    datum: 2006-07-01
+    verifiziert: false
+    quelle: https://thuvienphapluat.vn/phap-luat/so-huu-tri-tue
+  themenachsen:
+  - urheberrecht
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Werkbegriff und Urheberschaft: nur natürliche Personen; Grundlage des Ausschlusses vollständig maschinell
+    erzeugter Werke.'
+  - Abschließender Schrankenkatalog — dogmatische Grundfrage, ob Điều 37a der Verordnung 17/2023 (i.d.F.
+    134/2026) davon gedeckt ist.
+  - Technische Schutzmaßnahmen und Rechteverwaltungsinformationen (Novelle 2022) als Träger des maschinenlesbaren
+    Opt-out.
+  dokumente:
+  - datum: 2022-06-16
+    typ: uebersicht
+    titel: Luật Sở hữu trí tuệ mới nhất 2026 und Verzeichnis der Durchführungsvorschriften
+    url: https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chinh-sach-moi/106042/luat-so-huu-tri-tue-moi-nhat-2026-va-tong-hop-van-ban-huong-dan
+    sprache: vi
+    urheber: Thư viện Pháp luật (privat)
+    verifiziert: true
+    notiz: Wegweiser zu den geltenden Fassungen und Durchführungsvorschriften; keine amtliche Quelle.
+  offene_punkte:
+  - Amtliche Fundstellen (Công báo) der Stammfassung und der drei Novellen nicht ermittelt.
+  - Konsolidierte Fassung (văn bản hợp nhất) nicht beschafft.
+  - Die Frage der Verordnungsermächtigung für Điều 37a/37b ist ungeprüft und der wichtigste dogmatische
+    Streitpunkt.
+  monitoring_quellen:
+  - https://congbao.chinhphu.vn/
+  - https://cov.gov.vn/
+  bezug_regelwerke:
+  - vn-nd-134-2026-urheberrecht
+  letzte_pruefung: 2026-09-06
+- id: th-ai-act-entwurf
+  jurisdiktion: th
+  kurztitel: KI-Gesetzentwurf Thailand (ร่างพระราชบัญญัติว่าด้วยปัญญาประดิษฐ์)
+  offizieller_titel: '(ร่าง) พระราชบัญญัติว่าด้วยปัญญาประดิษฐ์ พ.ศ. .... ((Entwurf) Gesetz über künstliche
+    Intelligenz, B.E. ....)
+
+    '
+  fundstelle: 'Konsultationsfassung der สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) unter dem กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
+    (Ministerium für digitale Wirtschaft und Gesellschaft), veröffentlicht am 09.07.2026; Konsultation
+    über das ระบบกลางทางกฎหมาย (zentrales Rechtsportal) law.go.th
+
+    '
+  verfahrensnummer: law.go.th survey_id=NzU4MERHQV9MQVdfRlJPTlRFTkQ=
+  status: entwurf
+  status_detail: 'KEIN GELTENDES RECHT. Die Konsultationsfassung wurde am 09.07.2026 veröffentlicht, die
+    Kommentierungsfrist lief bis zum 14.08.2026. Danach geht der Entwurf an das สำนักงานคณะกรรมการกฤษฎีกา
+    (Staatsrat) und das Kabinett; die Regierung strebte nach Darstellung von Thai PBS Policy Watch an,
+    ihn im September 2569 (2026) ins Parlament einzubringen. Der Entwurf führt zwei ältere Vorhaben zusammen:
+    den Entwurf einer Königlichen Verordnung der ONDE von 2022 und den Entwurf eines KI-Förderungsgesetzes
+    der ETDA von 2023.
+
+    '
+  kurzbeschreibung: 'Der Entwurf folgt dem risikobasierten Modell der EU-KI-Verordnung. Er unterscheidet
+    verbotene KI, Hochrisiko-KI, erlaubnispflichtige KI und KI mit bloßen Transparenzpflichten (Deepfakes,
+    Chatbots, generative Systeme). Verboten werden sollen unter anderem unfaire Diskriminierung durch
+    massenhafte Datenverarbeitung und „เทคนิคสื่อสารแบบแฝง" (verdeckte Kommunikationstechniken) zur Manipulation
+    von Entscheidungen; weitere Verbotstatbestände sollen durch Königliche Verordnungen nachgeschoben
+    werden. Betreiber von Systemen mittleren Risikos müssen angemessene Vorsorgemaßnahmen treffen und
+    KI-erzeugte Inhalte maschinenlesbar kennzeichnen. Für Entscheidungen mit KI-Beteiligung sind Hinweis-,
+    Begründungs- und Widerspruchsrechte vorgesehen. Der Entwurf enthält eine urheberrechtliche Text- und
+    Data-Mining-Ausnahme sowie ein Reallabor (Regulatory Sandbox). Bemerkenswert ist die Aufsichtsstruktur:
+    Es gibt bewusst KEINE zentrale KI-Behörde, sondern eine dezentrale Aufsicht durch die jeweiligen Fachaufsichten
+    (Wertpapieraufsicht, Zentralbank, Versicherungsaufsicht), flankiert vom ศูนย์ธรรมาภิบาลปัญญาประดิษฐ์
+    (AI Governance Center) bei der ETDA und einem nationalen KI-Ausschuss für die Gesamtpolitik. Der Entwurf
+    gilt extraterritorial für Entwickler, Anbieter, Betreiber und Plattformbetreiber einschließlich ausländischer
+    Akteure und sieht strenge und gesamtschuldnerische Haftung sowie Befugnisse zur Untersagung, zum Rückruf
+    und zur Sperrung von KI-Systemen in Thailand vor.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://law.go.th/listeningDetail?survey_id=NzU4MERHQV9MQVdfRlJPTlRFTkQ=
+  anwendungsdaten:
+  - datum: 2026-08-14
+    was_gilt: Ende der öffentlichen Konsultation zum Entwurf.
+    verifiziert: false
+    quelle: https://www.bakermckenzie.com/en/insight/publications/2026/07/thailand-draft-ai-act--seven-key-implications
+  themenachsen:
+  - marktzugang
+  - governance
+  - content
+  - haftung
+  - grundrechte
+  - urheberrecht
+  - gpai
+  regelungsschwerpunkte:
+  - 'Vier Kategorien: verbotene KI (ห้าม), Hochrisiko-KI (ความเสี่ยงสูง), erlaubnispflichtige KI, KI mit
+    Transparenzpflicht (Deepfakes, Chatbots, generative KI).'
+  - 'Verbotstatbestände: unfaire Diskriminierung durch massenhafte Datenverarbeitung; ''เทคนิคสื่อสารแบบแฝง''
+    (verdeckte Kommunikationstechniken) zur Manipulation der Entscheidungsfindung; weitere Tatbestände
+    durch Königliche Verordnung.'
+  - 'Kennzeichnungspflicht: maschinenlesbare Kennzeichnung KI-erzeugter Inhalte bereits ab mittlerem Risiko.'
+  - 'Betroffenenrechte bei KI-gestützten Entscheidungen: Hinweis, Begründung, Anfechtung.'
+  - 'Urheberrecht: ausdrückliche Ausnahme für Text- und Data-Mining.'
+  - Reallabor (Regulatory Sandbox).
+  - DEZENTRALE AUFSICHT — bewusst keine zentrale KI-Behörde. Sektorale Regulierer (ก.ล.ต. Wertpapieraufsicht,
+    ธปท. Bank of Thailand, คปภ. Versicherungsaufsicht) entwickeln ihre eigenen KI-Anforderungen; das AI
+    Governance Center bei der ETDA koordiniert; ein nationaler KI-Ausschuss setzt die Politik.
+  - 'Extraterritorialität: erfasst auch ausländische Entwickler, Anbieter, Betreiber und Plattformbetreiber.'
+  - 'Durchsetzung: strenge und gesamtschuldnerische Haftung; Untersagung, Rückruf, Sperrung von KI-Systemen
+    in Thailand.'
+  dokumente:
+  - datum: 2026-07-09
+    typ: konsultation
+    titel: (ร่าง) พระราชบัญญัติว่าด้วยปัญญาประดิษฐ์ พ.ศ. .... — Konsultation im zentralen Rechtsportal
+    url: https://law.go.th/listeningDetail?survey_id=NzU4MERHQV9MQVdfRlJPTlRFTkQ=
+    sprache: th
+    urheber: ETDA / กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
+    verifiziert: false
+    notiz: 'AMTLICHE Konsultationsseite (ระบบกลางทางกฎหมาย, betrieben von der DGA nach Art. 77 der Verfassung).
+      Der direkte Abruf schlug in dieser Sitzung mit HTTP 403 fehl; die URL ist über Thai PBS Policy Watch
+      belegt, die sie als amtlichen Konsultationslink führt.
+
+      '
+  - datum: 2026-08-01
+    typ: bericht
+    titel: เปิดร่างกฏหมาย AI ฉบับแรก มุ่งคุมใช้งานมีความเสี่ยงสูง
+    url: https://policywatch.thaipbs.or.th/article/government-364
+    sprache: th
+    urheber: Thai PBS Policy Watch (öffentlich-rechtlicher Rundfunk)
+    verifiziert: true
+    notiz: 'Ausführlichste thailändischsprachige Darstellung mit dem amtlichen Titel, den Risikostufen,
+      den Verbotstatbeständen und dem Konsultationslink. Nennt als Veröffentlichungsdatum den 01.08.2569
+      — siehe offene_punkte.
+
+      '
+  - datum: 2026-07
+    typ: uebersicht
+    titel: 'Thailand: Draft AI Act — Seven Key Implications'
+    url: https://www.bakermckenzie.com/en/insight/publications/2026/07/thailand-draft-ai-act--seven-key-implications
+    sprache: en
+    urheber: Baker McKenzie (Kanzleimonitor)
+    verifiziert: true
+    notiz: Sekundärquelle; Grundlage für die vier Risikokategorien, die Extraterritorialität und die Durchsetzungsbefugnisse.
+  - datum: 2026-07-28
+    typ: uebersicht
+    titel: 'Thailand''s Proposed AI Law: Moving Towards a Risk-Based Regulatory Framework'
+    url: https://aitoolkit.rajahtannasia.com/2026/07/28/thailands-proposed-ai-law-moving-towards-a-risk-based-regulatory-framework/
+    sprache: en
+    urheber: Rajah & Tann Asia (Kanzleimonitor)
+    verifiziert: true
+    notiz: Sekundärquelle; belegt Veröffentlichung 09.07.2026 und Konsultationsende 14.08.2026 sowie die
+      dezentrale Aufsicht.
+  - datum: 2026-07
+    typ: uebersicht
+    titel: 'Thailand''s draft AI law: A new era for governance and innovation'
+    url: https://www.nortonrosefulbright.com/en/knowledge/publications/0fec663b/thailands-draft-ai-law-a-new-era-for-governance-and-innovation
+    sprache: en
+    urheber: Norton Rose Fulbright (Kanzleimonitor)
+    verifiziert: true
+    notiz: Sekundärquelle; belegt die Zusammenführung der Entwürfe von 2022 und 2023, die TDM-Ausnahme,
+      die Sandbox und die Rolle des AI Governance Center.
+  offene_punkte:
+  - Der Volltext des Entwurfs wurde NICHT beschafft. law.go.th und ratchakitcha.soc.go.th antworteten
+    mit HTTP 403. Der Paragraphenbestand (มาตรา), die Bußgeldhöhen und die Übergangsfristen sind deshalb
+    unbekannt.
+  - 'DATUMSWIDERSPRUCH: Baker McKenzie und Rajah & Tann nennen den 09.07.2026 als Veröffentlichungsdatum
+    und den 14.08.2026 als Konsultationsende; Thai PBS Policy Watch nennt den 01.08.2569 (2026). Möglicherweise
+    zwei Fassungen oder ein Berichtsdatum. Nicht aufgelöst.'
+  - Ob der Entwurf tatsächlich im September 2026 ins Parlament eingebracht wurde, ist zum Stichtag dieser
+    Recherche (06.09.2026) offen.
+  - Verhältnis der TDM-Ausnahme zum พระราชบัญญัติลิขสิทธิ์ (Urheberrechtsgesetz) ungeklärt.
+  monitoring_quellen:
+  - https://law.go.th/
+  - https://www.etda.or.th/th/pr-news/
+  - https://ratchakitcha.soc.go.th/
+  bezug_regelwerke:
+  - th-ai-grundsaetze-2025
+  - th-ai-entwurf-2022-onde
+  - th-ai-entwurf-2023-etda
+  - th-pdpa
+  - th-royal-decree-digital-platform
+  letzte_pruefung: 2026-09-06
+- id: th-ai-grundsaetze-2025
+  jurisdiktion: th
+  kurztitel: KI-Gesetzesgrundsätze Thailand 2025 ((ร่าง) หลักการของกฎหมาย AI)
+  offizieller_titel: '(ร่าง) หลักการของกฎหมายว่าด้วยปัญญาประดิษฐ์ ((Entwurf) Grundsätze des Gesetzes über
+    künstliche Intelligenz)
+
+    '
+  fundstelle: ETDA / กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม, Konsultation 11.06.2568 bis 24.06.2568 (2025)
+  verfahrensnummer: Konsultation über law.go.th, Juni 2568
+  status: entwurf
+  status_detail: 'Vorstufe des KI-Gesetzentwurfs von 2026. Am 11.06.2025 als Grundsatzpapier veröffentlicht,
+    Konsultation bis zum 24.06.2025. Es führte erstmals zwei getrennte Regelungsansätze zusammen und legte
+    die Struktur fest, die der Entwurf von 2026 übernimmt: Fokus auf Hochrisiko-KI, mehrstufige Governance
+    von weichen Leitlinien bis zu verbindlichem Recht, Genehmigungsverfahren für Text- und Data-Mining
+    sowie ein Reallabor.
+
+    '
+  kurzbeschreibung: 'Das Grundsatzpapier beschreibt die Leitentscheidungen für ein thailändisches KI-Gesetz:
+    risikoproportionale Aufsicht mit Schwerpunkt auf „ความเสี่ยงสูง" (hohes Risiko), Transparenz des KI-Betriebs,
+    Verantwortlichkeit für KI-verursachte Schäden, verantwortungsvolle Nutzung über alle Sektoren, Mechanismen
+    für Text- und Data-Mining und ein Regulierungs-Reallabor. Es wählt ausdrücklich einen abgestuften
+    Ansatz von Soft Law zu Hard Law statt einheitlicher Vorgaben. Es enthält zwei Risikostufen — verbotene
+    Risiken, bei denen der Schaden nicht gemindert werden kann und deren Einsatz kriminalisiert werden
+    soll, und Hochrisiko-Systeme, die Grundrechte oder öffentliche Sicherheit berühren und nur unter strengen
+    Pflichten zulässig sind.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.etda.or.th/th/pr-news/law_ai.aspx
+  anwendungsdaten:
+  - datum: 2025-06-24
+    was_gilt: Ende der Konsultation über das Grundsatzpapier.
+    verifiziert: true
+    quelle: https://www.etda.or.th/th/pr-news/law_ai.aspx
+  themenachsen:
+  - governance
+  - marktzugang
+  - urheberrecht
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Zwei Risikostufen: verbotene Risiken (nicht minderbarer Schaden, Kriminalisierung) und Hochrisiko-KI
+    (Grundrechte, öffentliche Sicherheit) unter strengen Pflichten.'
+  - Abgestufte Governance von Soft Law zu Hard Law statt einheitlicher Vorgaben.
+  - Genehmigungsmechanismen für Text- und Data-Mining.
+  - Regulierungs-Reallabor (Regulatory Sandbox).
+  - Zusammenführung des ONDE-Verordnungsentwurfs (2022) und des ETDA-Gesetzentwurfs (2023).
+  dokumente:
+  - datum: 2025-06-11
+    typ: konsultation
+    titel: ครั้งแรกของไทย! 'ดีอี – ETDA' เปิด (ร่าง) หลักการกฎหมาย AI เน้นคุมความเสี่ยงสูง
+    url: https://www.etda.or.th/th/pr-news/law_ai.aspx
+    sprache: th
+    urheber: สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA)
+    verifiziert: true
+    notiz: 'AMTLICHE Verlautbarung der ETDA mit dem thailändischen Titel, dem Konsultationszeitraum (11.-24.06.2568)
+      und dem Verweis auf das zentrale Rechtsportal.
+
+      '
+  offene_punkte:
+  - Volltext des Grundsatzpapiers nicht beschafft; der Kurzlink der ETDA (bit.ly) wurde nicht aufgelöst.
+  - Ob die Konsultationsergebnisse veröffentlicht wurden, ist offen.
+  monitoring_quellen:
+  - https://www.etda.or.th/th/pr-news/
+  - https://law.go.th/
+  bezug_regelwerke:
+  - th-ai-act-entwurf
+  - th-ai-entwurf-2022-onde
+  - th-ai-entwurf-2023-etda
+  letzte_pruefung: 2026-09-06
+- id: th-ai-entwurf-2022-onde
+  jurisdiktion: th
+  kurztitel: KI-Verordnungsentwurf Thailand 2022 (ONDE)
+  offizieller_titel: '(ร่าง) พระราชกฤษฎีกาการประกอบธุรกิจซึ่งให้บริการเกี่ยวกับระบบปัญญาประดิษฐ์ พ.ศ.
+    .... ((Entwurf) Königliche Verordnung über den Betrieb von Unternehmen, die Dienste im Zusammenhang
+    mit KI-Systemen erbringen)
+
+    '
+  fundstelle: สำนักงานคณะกรรมการดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งชาติ (ONDE), Entwurf Oktober 2565 (2022)
+  verfahrensnummer: null
+  status: gescheitert
+  status_detail: 'Nicht weiterverfolgt. Der Entwurf von 2022 sollte KI-Dienste als anzeige- und aufsichtspflichtiges
+    Geschäft nach dem Muster der Königlichen Verordnung über digitale Plattformdienste regeln. Er wurde
+    2025 in das Grundsatzpapier für ein KI-Gesetz überführt und damit aufgegeben. Er ist gleichwohl wichtig:
+    Er zeigt, dass Thailand zunächst den Weg über eine Königliche Verordnung (untergesetzlich, schnell
+    erlassbar) und nicht über ein Parlamentsgesetz gehen wollte.
+
+    '
+  kurzbeschreibung: 'Der Entwurf sah vor, den Betrieb von KI-Diensten als eigenes, anzeigepflichtiges
+    Geschäft zu erfassen und der Aufsicht der ONDE bzw. ETDA zu unterstellen. Er wählte damit die Rechtsform
+    der พระราชกฤษฎีกา (Königliche Verordnung) auf Grundlage des Gesetzes über elektronische Transaktionen
+    — dieselbe Konstruktion wie bei der Plattformregulierung von 2022. Zusammen mit dem konkurrierenden
+    ETDA-Gesetzentwurf von 2023 bildete er den Ausgangspunkt der Vereinheitlichung von 2025.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://bact.cc/2022/thailand-ai-regulations/
+  themenachsen:
+  - marktzugang
+  - governance
+  regelungsschwerpunkte:
+  - Rechtsform Königliche Verordnung auf Grundlage des Gesetzes über elektronische Transaktionen — untergesetzlich,
+    ohne Parlamentsverfahren.
+  - KI-Dienste als anzeigepflichtiges Geschäft nach dem Muster der Plattformregulierung.
+  - 2025 zugunsten eines Parlamentsgesetzes aufgegeben.
+  dokumente:
+  - datum: 2022-10
+    typ: entwurf
+    titel: รวมเอกสารข้อเสนอการกำกับกิจการ AI ของไทย (ต.ค. 2565 / มิ.ย. 2568)
+    url: https://bact.cc/2022/thailand-ai-regulations/
+    sprache: th
+    urheber: Arthit Suriyawongkul (Dokumentensammlung, privat)
+    verifiziert: true
+    notiz: 'Private, aber sorgfältige Dokumentensammlung der thailändischen KI-Regulierungsentwürfe. Die
+      amtliche Konsultationsseite von 2022 war nicht mehr auffindbar.
+
+      '
+  offene_punkte:
+  - Amtliche Fundstelle des Entwurfs von 2022 nicht ermittelt; nur über eine private Dokumentensammlung
+    belegt.
+  - Ob und wann der Entwurf förmlich zurückgezogen wurde, ist unklar.
+  monitoring_quellen:
+  - https://www.onde.go.th/
+  - https://law.go.th/
+  bezug_regelwerke:
+  - th-ai-grundsaetze-2025
+  - th-ai-act-entwurf
+  - th-royal-decree-digital-platform
+  letzte_pruefung: 2026-09-06
+- id: th-ai-entwurf-2023-etda
+  jurisdiktion: th
+  kurztitel: KI-Förderungsgesetzentwurf Thailand 2023 (ETDA)
+  offizieller_titel: '(ร่าง) พระราชบัญญัติว่าด้วยการส่งเสริมและสนับสนุนนวัตกรรมปัญญาประดิษฐ์แห่งประเทศไทย
+    พ.ศ. .... ((Entwurf) Gesetz über die Förderung und Unterstützung der KI-Innovation Thailands)
+
+    '
+  fundstelle: ETDA, Entwurf vom 29.03.2566 (2023)
+  verfahrensnummer: null
+  status: gescheitert
+  status_detail: 'Nicht weiterverfolgt. Der Entwurf von 2023 war ein Förder- und kein Aufsichtsgesetz:
+    Er sollte KI-Innovation unterstützen, nicht Risiken begrenzen. Zusammen mit dem ONDE-Verordnungsentwurf
+    von 2022 wurde er 2025 in das Grundsatzpapier überführt. Der Gegensatz der beiden Entwürfe — Förderung
+    gegen Aufsicht — erklärt, warum der heutige Entwurf beide Elemente enthält.
+
+    '
+  kurzbeschreibung: 'Der Entwurf zielte auf Förderung und Unterstützung von KI-Innovation: Aufbau von
+    Infrastruktur, Kompetenzentwicklung, Reallabore, Anreizstrukturen. Verhaltenspflichten und Sanktionen
+    für Anbieter waren nicht sein Schwerpunkt. Er stand damit in unmittelbarem Gegensatz zum gleichzeitig
+    verfolgten Verordnungsentwurf der ONDE, der KI-Dienste einer Anzeige- und Aufsichtspflicht unterwerfen
+    wollte.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://bact.cc/f/2023/04/20230329-national-ai-promotion-bill.pdf
+  themenachsen:
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Förderansatz statt Aufsichtsansatz: Infrastruktur, Kompetenzen, Reallabore, Anreize.'
+  - Gegenentwurf zum ONDE-Verordnungsentwurf von 2022.
+  - 2025 in das Grundsatzpapier überführt.
+  dokumente:
+  - datum: 2023-03-29
+    typ: entwurf
+    titel: (ร่าง) พระราชบัญญัติ ว่าด้วยการส่งเสริมและสนับสนุนนวัตกรรมปัญญาประดิษฐ์แห่งประเทศไทย พ.ศ. ....
+    url: https://bact.cc/f/2023/04/20230329-national-ai-promotion-bill.pdf
+    sprache: th
+    urheber: ETDA (Entwurfstext, gespiegelt in privater Sammlung)
+    verifiziert: true
+    notiz: 'Volltext-PDF des Entwurfs vom 29.03.2023, gespiegelt in einer privaten Dokumentensammlung.
+      Amtliche Fundstelle nicht mehr auffindbar.
+
+      '
+  offene_punkte:
+  - Amtliche Fundstelle nicht ermittelt.
+  - Volltext nicht ausgewertet — der Entwurf liegt als PDF vor und sollte vom nächsten Bearbeiter artikelweise
+    erfasst werden.
+  monitoring_quellen:
+  - https://www.etda.or.th/
+  bezug_regelwerke:
+  - th-ai-grundsaetze-2025
+  - th-ai-act-entwurf
+  letzte_pruefung: 2026-09-06
+- id: th-royal-decree-digital-platform
+  jurisdiktion: th
+  kurztitel: Plattformverordnung Thailand (พระราชกฤษฎีกาแพลตฟอร์มดิจิทัล)
+  offizieller_titel: 'พระราชกฤษฎีกาการประกอบธุรกิจบริการแพลตฟอร์มดิจิทัลที่ต้องแจ้งให้ทราบ พ.ศ. 2565 (Königliche
+    Verordnung über anzeigepflichtige digitale Plattformdienstleistungsgeschäfte, B.E. 2565 / 2022)
+
+    '
+  fundstelle: ราชกิจจานุเบกษา (Königliches Amtsblatt), verkündet 2565 (2022); in Kraft ab 21.08.2566 (2023)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 21.08.2023, Anmeldefrist für Plattformen bis zum 18.11.2566 (2023).
+    WICHTIG FÜR DIE IM AUFTRAG GENANNTE WIDERSPRUCHSKLÄRUNG: Diese Verordnung ist NICHT am 01.03.2026
+    in Kraft getreten und enthält keine KI-spezifische Vorschrift. Sie wird fortlaufend durch ETDA-Bekanntmachungen
+    (ประกาศ) nach มาตรา 18(2) ergänzt; für 2026 sind das Zusatzpflichten für Online-Marktplätze (seit
+    31.12.2025, 21 benannte Plattformen) und eine Frist für Ride-Sharing-Plattformen zum 31.03.2026.
+
+    '
+  kurzbeschreibung: 'Die Verordnung ergeht auf Grundlage des Gesetzes über elektronische Transaktionen
+    und verpflichtet Betreiber digitaler Plattformdienste, ihre Tätigkeit der ETDA anzuzeigen und laufend
+    Informationen zu übermitteln. Größere Plattformen unterliegen gestuften Zusatzpflichten (Transparenz
+    der Geschäftsbedingungen, Beschwerdemanagement, Identifizierung von Händlern). Sie ist damit der thailändische
+    Gegenpart zum europäischen Digital Services Act — und der prozedurale Rahmen, in dem KI-erzeugte Inhalte
+    und algorithmische Systeme heute in Thailand behandelt werden, solange es kein KI-Gesetz gibt. Eine
+    ausdrückliche Regelung von Empfehlungssystemen oder der Kennzeichnung KI-erzeugter Inhalte enthält
+    sie nach den ausgewerteten Quellen nicht.
+
+    '
+  inkrafttreten:
+    datum: 2023-08-21
+    verifiziert: true
+    quelle: https://www.nstda.or.th/opr/dpslaw/
+  anwendungsdaten:
+  - datum: 2023-11-18
+    was_gilt: Ablauf der Anzeigefrist für bestehende Plattformbetreiber.
+    verifiziert: true
+    quelle: https://www.nstda.or.th/opr/dpslaw/
+  - datum: 2025-12-31
+    was_gilt: 'Inkrafttreten der ETDA-Bekanntmachung über Zusatzmaßnahmen für Online-Marktplätze nach
+      มาตรา 18(2); 21 benannte Marktplätze müssen Händler und Produkte verifizieren.
+
+      '
+    verifiziert: false
+    quelle: https://www.tilleke.com/insights/thailands-digital-platform-services-regulatory-roadmap-for-2026/
+  - datum: 2026-03-31
+    was_gilt: Umsetzungsfrist der ETDA-Bekanntmachung für Ride-Sharing-Plattformen.
+    verifiziert: false
+    quelle: https://www.tilleke.com/insights/thailands-digital-platform-services-regulatory-roadmap-for-2026/
+  themenachsen:
+  - content
+  - marktzugang
+  - governance
+  - wettbewerb
+  regelungsschwerpunkte:
+  - Anzeigepflicht digitaler Plattformdienste bei der ETDA; gestufte Zusatzpflichten nach Größe.
+  - 'มาตรา 18(2): Ermächtigung der ETDA zu Bekanntmachungen mit Zusatzpflichten für einzelne Plattformkategorien.'
+  - KEINE KI-spezifische Vorschrift, keine Kennzeichnungspflicht für KI-Inhalte, keine Regelung von Empfehlungssystemen.
+  - Selbstbewertungswerkzeug (Digital Platform Assessment Tool) und Registrierungsportal der ETDA.
+  dokumente:
+  - datum: 2022
+    typ: uebersicht
+    titel: พระราชกฤษฎีกาการประกอบธุรกิจบริการแพลตฟอร์มดิจิทัลที่ต้องแจ้งให้ทราบ พ.ศ. 2565 — Darstellung
+      des NSTDA
+    url: https://www.nstda.or.th/opr/dpslaw/
+    sprache: th
+    urheber: สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (NSTDA, staatliche Forschungsagentur)
+    verifiziert: true
+    notiz: Staatliche Quelle mit dem amtlichen Titel und dem Datum des Inkrafttretens (21.08.2566).
+  - datum: 2022
+    typ: konsolidiert
+    titel: พระราชกฤษฎีกาการประกอบธุรกิจบริการแพลตฟอร์มดิจิทัลที่ต้องแจ้งให้ทราบ พ.ศ. 2565 — Parlamentsbibliothek
+    url: https://dl.parliament.go.th/handle/20.500.13072/606867
+    sprache: th
+    urheber: หอสมุดรัฐสภา (Parlamentsbibliothek Thailand)
+    verifiziert: false
+    notiz: Amtliche Parlamentsbibliothek; Abruf in dieser Sitzung nicht durchgeführt.
+  - datum: 2026
+    typ: uebersicht
+    titel: Thailand's Digital Platform Services Regulatory Roadmap for 2026
+    url: https://www.tilleke.com/insights/thailands-digital-platform-services-regulatory-roadmap-for-2026/
+    sprache: en
+    urheber: Tilleke & Gibbins (Kanzleimonitor)
+    verifiziert: true
+    notiz: 'Sekundärquelle; ausgewertet zur Klärung der Auftragsfrage, ob am 01.03.2026 etwas in Kraft
+      trat. ERGEBNIS: nein — die Fristen 2026 sind der 31.12.2025 (Marktplätze) und der 31.03.2026 (Ride-Sharing).
+      Der Beitrag bestätigt ausdrücklich, dass die Plattformregeln keine KI-Vorschriften enthalten.
+
+      '
+  offene_punkte:
+  - Die genaue Amtsblattfundstelle (เล่ม/ตอน/หน้า/วันที่) wurde nicht ermittelt — ratchakitcha.soc.go.th
+    antwortete durchgehend mit HTTP 403.
+  - Die ETDA-Bekanntmachungen nach มาตรา 18(2) sind einzeln nicht erfasst.
+  monitoring_quellen:
+  - https://www.etda.or.th/th/regulator/Digitalplatform/index.aspx
+  - https://ratchakitcha.soc.go.th/
+  bezug_regelwerke:
+  - th-ai-act-entwurf
+  - th-ai-entwurf-2022-onde
+  - th-computer-crime-act
+  letzte_pruefung: 2026-09-06
+- id: th-pdpa
+  jurisdiktion: th
+  kurztitel: Datenschutzgesetz Thailand (PDPA, พ.ร.บ.คุ้มครองข้อมูลส่วนบุคคล)
+  offizieller_titel: 'พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. ๒๕๖๒ (Gesetz über den Schutz personenbezogener
+    Daten, B.E. 2562 / 2019)
+
+    '
+  fundstelle: ราชกิจจานุเบกษา เล่ม ๑๓๖ ตอนที่ ๖๙ ก หน้า ๕๒, 27.05.2562 (2019)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Verkündet am 27.05.2019, nach mehrfacher Verschiebung vollständig in Kraft seit dem
+    01.06.2022. Aufsicht ist die สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล (PDPC, Office of the Personal
+    Data Protection Commission) unter dem Ministerium für digitale Wirtschaft und Gesellschaft. Das PDPA
+    ist bis zum Inkrafttreten eines KI-Gesetzes die zentrale Norm, an der KI-Fälle in Thailand entschieden
+    werden: Trainingsdaten, Gesichtserkennung, Profiling.
+
+    '
+  kurzbeschreibung: 'Das Gesetz ist eng an die DSGVO angelehnt: Rechtsgrundlagen der Verarbeitung, besondere
+    Kategorien personenbezogener Daten (einschließlich biometrischer Daten), Betroffenenrechte, Datenschutzbeauftragte,
+    Meldung von Verletzungen, Regeln für die Übermittlung ins Ausland und ein dreispuriges Sanktionssystem
+    aus Verwaltungsbußgeld, zivilrechtlichem Strafschadensersatz und Strafvorschriften. Für KI ist entscheidend,
+    dass biometrische Daten zu den besonderen Kategorien zählen und ihre Verarbeitung grundsätzlich ausdrückliche
+    Einwilligung verlangt — die praktische Schranke für Gesichtserkennung. Ob das Gesetz ein eigenständiges
+    Recht auf Nichtunterwerfung unter automatisierte Einzelentscheidungen nach dem Vorbild des Art. 22
+    DSGVO kennt, ließ sich nicht am amtlichen Text prüfen.
+
+    '
+  inkrafttreten:
+    datum: 2022-06-01
+    verifiziert: false
+    quelle: https://www.pdpc.or.th/1540/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Biometrische Daten als besondere Kategorie — praktische Schranke für Gesichtserkennung und biometrische
+    KI.
+  - Einwilligungserfordernis, Zweckbindung, Betroffenenrechte nach DSGVO-Muster.
+  - 'Dreispuriges Sanktionssystem: Verwaltungsbußgeld, Strafschadensersatz, Strafvorschriften.'
+  - 'Aufsicht: PDPC (สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล).'
+  - 'UNGEPRÜFT: ob eine Vorschrift zu automatisierten Einzelentscheidungen (Art. 22 DSGVO) existiert.'
+  dokumente:
+  - datum: 2019-05-27
+    typ: endfassung
+    titel: พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. ๒๕๖๒ — Königliches Amtsblatt
+    url: https://www.ratchakitcha.soc.go.th/DATA/PDF/2562/A/069/T_0052.PDF
+    sprache: th
+    urheber: ราชกิจจานุเบกษา (Königliches Amtsblatt Thailands)
+    verifiziert: false
+    notiz: 'AMTLICHE Fundstelle (เล่ม 136 ตอนที่ 69 ก หน้า 52). Der Abruf schlug in dieser Sitzung mit
+      HTTP 403 fehl; die URL ist über die Suchindexierung und die Zitierweise mehrerer Behördenseiten
+      belegt.
+
+      '
+  - datum: 2019-05-27
+    typ: endfassung
+    titel: พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 — Seite der Datenschutzaufsicht
+    url: https://www.pdpc.or.th/1540/
+    sprache: th
+    urheber: สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล (PDPC)
+    verifiziert: false
+    notiz: 'Seite der zuständigen Aufsichtsbehörde mit dem Gesetzestext. Abruf in dieser Sitzung mit HTTP
+      403 gescheitert.
+
+      '
+  - datum: 2019-05-27
+    typ: konsolidiert
+    titel: พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 — Fassung im Rechtsportal der Regierungssprecherbehörde
+    url: https://law.prd.go.th/th/content/article/detail/id/2475/iid/234607
+    sprache: th
+    urheber: กรมประชาสัมพันธ์ (Government Public Relations Department)
+    verifiziert: false
+    notiz: Behördliche Zweitveröffentlichung; nicht abgerufen.
+  offene_punkte:
+  - ratchakitcha.soc.go.th und pdpc.or.th antworteten beide mit HTTP 403 — der amtliche Wortlaut konnte
+    NICHT gelesen werden.
+  - Ob eine Vorschrift zu automatisierten Einzelentscheidungen existiert, ist der wichtigste offene Punkt
+    für den nächsten Bearbeiter.
+  - PDPC-Bußgeldentscheidungen zu KI-Sachverhalten wurden nicht gefunden; ob die Behörde ihre Entscheidungen
+    überhaupt veröffentlicht, ist ungeklärt.
+  - Die Königlichen Verordnungen über Ausnahmen vom PDPA (u.a. ฉบับที่ 2 พ.ศ. 2564) sind nicht erfasst.
+  monitoring_quellen:
+  - https://www.pdpc.or.th/
+  - https://ratchakitcha.soc.go.th/
+  bezug_regelwerke:
+  - th-ai-act-entwurf
+  - th-computer-crime-act
+  letzte_pruefung: 2026-09-06
+- id: th-computer-crime-act
+  jurisdiktion: th
+  kurztitel: Computerstrafgesetz Thailand (พ.ร.บ.คอมพิวเตอร์)
+  offizieller_titel: 'พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. ๒๕๕๐ แก้ไขเพิ่มเติมโดยพระราชบัญญัติ
+    (ฉบับที่ ๒) พ.ศ. ๒๕๖๐ (Gesetz über Computerstraftaten B.E. 2550 / 2007, geändert durch das Gesetz
+    Nr. 2 B.E. 2560 / 2017)
+
+    '
+  fundstelle: ราชกิจจานุเบกษา, Stammgesetz 2550 (2007), Novelle 2560 (2017)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Für die KI-Praxis ist มาตรา 16 die zentrale Norm: Sie stellt es unter
+    Strafe, ein Bild einer anderen Person, das durch Erzeugung, Montage, Hinzufügung oder Veränderung
+    entstanden ist, in ein öffentlich zugängliches Computersystem einzustellen, wenn dadurch die abgebildete
+    Person in ihrem Ruf verletzt, herabgewürdigt, gehasst oder beschämt wird. Weil der Tatbestand die
+    Erzeugungsweise offenlässt („ด้วยวิธีการใด" — auf welche Weise auch immer), erfasst er nach Auffassung
+    des thailändischen Anti-Fake-News-Zentrums auch KI-erzeugte Deepfakes. Das ist Thailands geltende
+    Deepfake-Strafnorm — und der Grund, warum das Fehlen eines KI-Gesetzes praktisch weniger wiegt, als
+    es scheint.
+
+    '
+  kurzbeschreibung: 'Das Gesetz stellt unbefugten Zugang, Abfangen, Beeinträchtigung und Verfälschung
+    von Computerdaten unter Strafe. มาตรา 14 erfasst die Eingabe verfälschter, gefälschter oder falscher
+    Daten in ein Computersystem, wenn dadurch ein Schaden für die Öffentlichkeit entstehen kann, sowie
+    die Weiterverbreitung in Kenntnis der Unrichtigkeit (มาตรา 14(5)); Strafrahmen bis zu fünf Jahren
+    Freiheitsstrafe und bis zu 100.000 Baht Geldstrafe. มาตรา 16 erfasst manipulierte Personenbilder —
+    Strafrahmen bis zu drei Jahren Freiheitsstrafe oder bis zu 200.000 Baht Geldstrafe. Flankierend greift
+    die Beleidigung nach dem Strafgesetzbuch (bis zu zwei Jahre und bis zu 200.000 Baht).
+
+    '
+  inkrafttreten:
+    datum: 2007-07-18
+    verifiziert: false
+    quelle: https://techno.coj.go.th/th/content/page/index/id/15429
+  anwendungsdaten:
+  - datum: 2017-05-24
+    was_gilt: Inkrafttreten der Novelle B.E. 2560, die u.a. มาตรา 14 neu fasste.
+    verifiziert: false
+    quelle: https://www.it.chula.ac.th/เปรียบเทียบพ-ร-บ-คอมฯ-พ-ศ-๒/
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'มาตรา 16: ''นำเข้าสู่ระบบคอมพิวเตอร์ที่ประชาชนทั่วไปอาจเข้าถึงได้ ซึ่งข้อมูลคอมพิวเตอร์ที่ปรากฏเป็นภาพของผู้อื่น
+    และภาพนั้นเกิดจากการสร้างขึ้น ตัดต่อ เติม หรือดัดแปลง'' — Einstellen erzeugter, montierter, ergänzter
+    oder veränderter Personenbilder in ein öffentlich zugängliches Computersystem. Strafrahmen: bis 3
+    Jahre Freiheitsstrafe ODER bis 200.000 Baht. THAILANDS DEEPFAKE-STRAFNORM.'
+  - มาตรา 16 ist technologieoffen formuliert ('ด้วยวิธีการใด') und erfasst deshalb KI-erzeugte Bilder
+    — so ausdrücklich das ศูนย์ต่อต้านข่าวปลอม (Anti-Fake-News-Zentrum) im Juni 2026.
+  - 'มาตรา 14: Eingabe verfälschter oder falscher Daten mit Schadenseignung für die Öffentlichkeit; มาตรา
+    14(5) Weiterverbreitung in Kenntnis der Unrichtigkeit. Strafrahmen bis 5 Jahre und bis 100.000 Baht.'
+  - 'Flankierend: Beleidigung nach dem Strafgesetzbuch, bis 2 Jahre und bis 200.000 Baht.'
+  dokumente:
+  - datum: 2017
+    typ: konsolidiert
+    titel: พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. 2560 — Seite des Gerichtshofs
+    url: https://techno.coj.go.th/th/content/page/index/id/15429
+    sprache: th
+    urheber: สำนักงานศาลยุติธรรม (Office of the Judiciary Thailand)
+    verifiziert: false
+    notiz: Amtliche Justizquelle; Abruf in dieser Sitzung nicht durchgeführt.
+  - datum: 2017
+    typ: konsolidiert
+    titel: พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. 2560 (PDF)
+    url: https://www.dga.or.th/upload/download/file_f25fbbe0bec0652cdeaa31f2b3ba81a6.pdf
+    sprache: th
+    urheber: สำนักงานพัฒนารัฐบาลดิจิทัล (DGA, Digital Government Development Agency)
+    verifiziert: false
+    notiz: Behördliche Volltext-PDF; nicht abgerufen.
+  - datum: 2026-06-15
+    typ: bericht
+    titel: Anti-Fake News Centre warns AI deepfake images breach Thai law
+    url: https://www.nationthailand.com/news/general/40067426
+    sprache: en
+    urheber: The Nation Thailand (Presse)
+    verifiziert: false
+    notiz: 'Belegt die Rechtsauffassung des staatlichen Anti-Fake-News-Zentrums, dass มาตรา 16 KI-Deepfakes
+      erfasst. Presse, keine amtliche Quelle.
+
+      '
+  - datum: 2026-06
+    typ: bericht
+    titel: Thailand tightens AI deepfake control
+    url: https://en.vietnamplus.vn/thailand-tightens-ai-deepfake-control-post344608.vnp
+    sprache: en
+    urheber: VietnamPlus (staatliche vietnamesische Nachrichtenagentur)
+    verifiziert: true
+    notiz: Belegt die Strafrahmen (3 Jahre/200.000 Baht nach มาตรา 16; 5 Jahre/100.000 Baht nach มาตรา
+      14; 2 Jahre/200.000 Baht Beleidigung).
+  offene_punkte:
+  - Amtsblattfundstelle (เล่ม/ตอน/หน้า) von Stammgesetz und Novelle nicht ermittelt — ratchakitcha.soc.go.th
+    HTTP 403.
+  - Der genaue thailändische Wortlaut von มาตรา 16 stammt aus einer Kanzleidarstellung, nicht aus dem
+    amtlichen Text.
+  - Es wurde KEINE veröffentlichte thailändische Gerichtsentscheidung gefunden, die มาตรา 16 auf ein KI-erzeugtes
+    Bild anwendet.
+  monitoring_quellen:
+  - https://ratchakitcha.soc.go.th/
+  - https://deka.supremecourt.or.th/
+  bezug_regelwerke:
+  - th-ai-act-entwurf
+  - th-pdpa
+  - th-notdekret-technologiekriminalitaet
+  letzte_pruefung: 2026-09-06
+- id: th-notdekret-technologiekriminalitaet
+  jurisdiktion: th
+  kurztitel: Notdekret Technologiekriminalität Thailand (พ.ร.ก.อาชญากรรมทางเทคโนโลยี ฉบับที่ 2)
+  offizieller_titel: 'พระราชกำหนดมาตรการป้องกันและปราบปรามอาชญากรรมทางเทคโนโลยี (ฉบับที่ ๒) พ.ศ. ๒๕๖๘
+    (Notverordnung über Maßnahmen zur Verhütung und Bekämpfung von Technologiekriminalität (Nr. 2), B.E.
+    2568 / 2025)
+
+    '
+  fundstelle: ราชกิจจานุเบกษา, verkündet 12.04.2568 (2025); in Kraft ab 13.04.2568 (2025)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 13.04.2025. Die Notverordnung ändert das Notdekret von B.E. 2566 (2023)
+    und macht Finanzinstitute, Telekommunikations- anbieter und Betreiber sozialer Netzwerke für Schäden
+    aus Technologiekriminalität mitverantwortlich, sofern sie nicht nachweisen, dass sie die vorgeschriebenen
+    Maßnahmen eingehalten haben. Für die KI-Praxis ist das die wirtschaftlich schärfste thailändische
+    Norm: KI-gestützte Betrugsmaschen (Stimmklone, Deepfake-Videoanrufe, Call-Center-Betrug) lösen eine
+    Einstandspflicht der Intermediäre aus.
+
+    '
+  kurzbeschreibung: 'Die Notverordnung reagiert auf die Welle technologiegestützter Betrugsdelikte. Sie
+    verpflichtet Banken, Mobilfunkanbieter und Anbieter sozialer Netzwerke zu Präventions- und Sperrmaßnahmen
+    und kehrt die Beweislast um: Wer die vorgeschriebenen Maßnahmen nicht nachweisen kann, haftet für
+    den Schaden des Geschädigten mit. Die Bank of Thailand hat eigene Bekanntmachungen zur Konkretisierung
+    der Pflichten der Finanzinstitute erlassen. Eine ausdrückliche Nennung von KI oder Deepfakes enthält
+    die Verordnung nach den ausgewerteten Quellen nicht; sie wirkt aber unmittelbar auf KI-gestützte Betrugsformen,
+    weil sie an das Ergebnis und nicht an die Technik anknüpft.
+
+    '
+  inkrafttreten:
+    datum: 2025-04-13
+    verifiziert: false
+    quelle: https://www.bot.or.th/th/news-and-media/news/news-20250413.html
+  themenachsen:
+  - haftung
+  - sektor-finanz
+  - content
+  - governance
+  regelungsschwerpunkte:
+  - Mitverantwortung von Finanzinstituten, Telekommunikationsanbietern und Betreibern sozialer Netzwerke
+    für Schäden aus Technologiekriminalität.
+  - 'Beweislastumkehr: Entlastung nur bei Nachweis der Einhaltung der vorgeschriebenen Maßnahmen.'
+  - Konkretisierung durch Bekanntmachungen der ธนาคารแห่งประเทศไทย (Bank of Thailand).
+  - KEINE ausdrückliche KI- oder Deepfake-Vorschrift, aber unmittelbare Wirkung auf KI-gestützten Betrug
+    (Stimmklone, Deepfake-Videoanrufe).
+  dokumente:
+  - datum: 2025-04-13
+    typ: konsolidiert
+    titel: พระราชกำหนดมาตรการป้องกันและปราบปรามอาชญากรรมทางเทคโนโลยี (ฉบับที่ 2) พ.ศ. 2568 — Parlamentsrepositorium
+    url: https://prt.parliament.go.th/items/7ba0b4e2-bc90-4c7e-abcd-a7a79b825002
+    sprache: th
+    urheber: รัฐสภา (Parlament Thailand), Parliamentary Repository
+    verifiziert: false
+    notiz: 'AMTLICHES Parlamentsrepositorium. Der Abruf lieferte in dieser Sitzung nur Seitenmetadaten,
+      keinen Volltext.
+
+      '
+  - datum: 2025-04-13
+    typ: pressemitteilung
+    titel: พ.ร.ก.มาตรการป้องกันและปราบปรามอาชญากรรมทางเทคโนโลยี (ฉบับที่ 2) พ.ศ. 2568 ได้ประกาศในราชกิจจานุเบกษาแล้ว
+    url: https://www.bot.or.th/th/news-and-media/news/news-20250413.html
+    sprache: th
+    urheber: ธนาคารแห่งประเทศไทย (Bank of Thailand)
+    verifiziert: false
+    notiz: Amtliche Mitteilung der Zentralbank über die Verkündung und die eigenen Folgebekanntmachungen.
+  - datum: 2025-04-13
+    typ: konsolidiert
+    titel: พระราชกำหนดมาตรการป้องกันและปราบปรามอาชญากรรมทางเทคโนโลยี (ฉบับที่ 2) พ.ศ. 2568 — Wikisource
+    url: https://th.wikisource.org/wiki/พระราชกำหนดมาตรการป้องกันและปราบปรามอาชญากรรมทางเทคโนโลยี_(ฉบับที่_2)_พ.ศ._2568
+    sprache: th
+    urheber: Wikisource (Abschrift des Amtsblatts)
+    verifiziert: false
+    notiz: Nichtamtliche Abschrift; nur als Notbehelf, weil ratchakitcha.soc.go.th nicht erreichbar war.
+  offene_punkte:
+  - Amtsblattfundstelle (เล่ม/ตอน/หน้า) nicht ermittelt.
+  - Volltext nicht ausgewertet; ob eine KI- oder Deepfake-Vorschrift enthalten ist, wurde nur mittelbar
+    verneint.
+  - Die Bekanntmachungen der Bank of Thailand zur Konkretisierung sind nicht erfasst.
+  monitoring_quellen:
+  - https://ratchakitcha.soc.go.th/
+  - https://www.bot.or.th/
+  bezug_regelwerke:
+  - th-computer-crime-act
+  - th-royal-decree-digital-platform
+  letzte_pruefung: 2026-09-06
+- id: th-nationaler-ki-plan
+  jurisdiktion: th
+  kurztitel: Nationaler KI-Aktionsplan Thailand 2022–2027
+  offizieller_titel: 'แผนปฏิบัติการด้านปัญญาประดิษฐ์แห่งชาติเพื่อการพัฒนาประเทศไทย (พ.ศ. 2565 – 2570)
+    (Nationaler Aktionsplan für künstliche Intelligenz zur Entwicklung Thailands, B.E. 2565–2570 / 2022–2027)
+
+    '
+  fundstelle: Kabinettsbeschluss (มติคณะรัฐมนตรี), 2564/2565; getragen von MHESI, MDES, NECTEC/NSTDA
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Vom Kabinett beschlossener Aktionsplan ohne Bindungswirkung gegenüber Privaten. Er ist
+    der politische Rahmen, in dem die Gesetzgebungsarbeit steht, und begründet den คณะกรรมการเฉพาะด้านการขับเคลื่อนแผนด้านปัญญาประดิษฐ์แห่งชาติ
+    (nationaler KI-Ausschuss), dem der Gesetzentwurf von 2026 die Gesamtpolitik zuweist.
+
+    '
+  kurzbeschreibung: 'Der Plan hat fünf Handlungsstränge: ethische und rechtliche Grundlagen, Infrastruktur,
+    Kompetenzentwicklung, KI-Innovation in Wirtschaft und Verwaltung sowie Förderung des KI-Ökosystems.
+    Der erste Strang ist der Ursprung sowohl der ETDA-Leitlinien zu generativer KI als auch der Gesetzgebungsvorhaben.
+    Träger sind das Ministerium für Hochschulwesen, Wissenschaft, Forschung und Innovation und das Ministerium
+    für digitale Wirtschaft und Gesellschaft, operativ NECTEC und NSTDA.
+
+    '
+  inkrafttreten:
+    datum: 2022-01-01
+    verifiziert: false
+    quelle: https://www.ai.in.th/en/about-ai-thailand/
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - arbeit
+  regelungsschwerpunkte:
+  - Fünf Handlungsstränge; Strang 1 (Ethik und Recht) ist der Ursprung der Gesetzgebungsvorhaben.
+  - Begründet den nationalen KI-Ausschuss (คณะกรรมการเฉพาะด้านการขับเคลื่อนแผนด้านปัญญาประดิษฐ์แห่งชาติ),
+    dem der Gesetzentwurf 2026 die Gesamtpolitik zuweist.
+  - Keine Bindungswirkung gegenüber Privaten.
+  dokumente:
+  - datum: 2022
+    typ: leitlinie
+    titel: แผนปฏิบัติการด้านปัญญาประดิษฐ์แห่งชาติเพื่อการพัฒนาประเทศไทย (พ.ศ. 2565 – 2570)
+    url: https://www.ai.in.th/en/about-ai-thailand/
+    sprache: th
+    urheber: AI Thailand (NECTEC/NSTDA, staatlich)
+    verifiziert: false
+    notiz: Amtliches Portal des Plans; Abruf in dieser Sitzung nicht durchgeführt.
+  - datum: 2022
+    typ: uebersicht
+    titel: แผนปฏิบัติการด้านปัญญาประดิษฐ์แห่งชาติ — Darstellung der Parlamentsbibliothek
+    url: https://library.parliament.go.th/en/radioscript/rr2566-oct1
+    sprache: th
+    urheber: หอสมุดรัฐสภา (Parlamentsbibliothek Thailand)
+    verifiziert: false
+    notiz: Amtliche Parlamentsquelle; nicht abgerufen.
+  offene_punkte:
+  - Datum und Nummer des Kabinettsbeschlusses nicht ermittelt.
+  - Volltext des Plans nicht beschafft.
+  monitoring_quellen:
+  - https://www.ai.in.th/
+  - https://www.nectec.or.th/
+  bezug_regelwerke:
+  - th-ai-act-entwurf
+  - th-etda-genai-leitlinie
+  letzte_pruefung: 2026-09-06
+- id: th-etda-genai-leitlinie
+  jurisdiktion: th
+  kurztitel: ETDA-Leitlinie generative KI (แนวทางประยุกต์ใช้ Generative AI)
+  offizieller_titel: 'แนวทางประยุกต์ใช้ Generative AI อย่างมีธรรมาภิบาลสำหรับองค์กร (Leitlinie für die
+    Anwendung generativer KI in Organisationen nach den Grundsätzen guter Regierungsführung)
+
+    '
+  fundstelle: กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม / ETDA, AI Governance Center (AIGC)
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Unverbindliche Leitlinie der ETDA. Sie ist derzeit das einzige veröffentlichte thailändische
+    KI-Governance-Instrument mit Adressatenbezug zu Unternehmen. Getragen wird sie vom AI Governance Clinic
+    by ETDA (AIGC), das die ETDA gemeinsam mit NECTEC, dem Department of Medical Services und dem Department
+    of Health Service Support eingerichtet hat — mit einem Schwerpunkt auf KI im Gesundheitswesen.
+
+    '
+  kurzbeschreibung: 'Die Leitlinie beschreibt, wie Organisationen generative KI verantwortungsvoll einsetzen:
+    Governance-Strukturen, Risikobewertung, Datenschutz, Umgang mit Halluzinationen und Urheberrechtsfragen,
+    Schulung. Sie ist rechtlich unverbindlich, wird aber im Gesetzentwurf von 2026 als Baustein des abgestuften
+    Ansatzes von Soft Law zu Hard Law vorausgesetzt. Das AIGC betreibt daneben ein Schulungsprogramm für
+    die öffentliche Verwaltung (AI Governance for Government Program).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.etda.or.th/th/pr-news/AI_Gov_Anual.aspx
+  themenachsen:
+  - governance
+  - sektor-medizin
+  - sektor-oeffentlich
+  - gpai
+  regelungsschwerpunkte:
+  - Unverbindliche Governance-Leitlinie für den Unternehmenseinsatz generativer KI.
+  - 'Trägerstruktur: AI Governance Clinic by ETDA (AIGC), gemeinsam mit NECTEC, กรมการแพทย์ und กรมสนับสนุนบริการสุขภาพ
+    — Schwerpunkt medizinische KI.'
+  - 'AI Governance for Government Program: Schulung der öffentlichen Verwaltung.'
+  - Im Gesetzentwurf 2026 als unterste Stufe des Soft-Law-zu-Hard-Law-Ansatzes vorausgesetzt.
+  dokumente:
+  - datum: null
+    typ: leitlinie
+    titel: ดีอี จับมือ ETDA ประกาศ Guideline ใหม่! 'แนวทางประยุกต์ใช้ Generative AI อย่างมีธรรมาภิบาลสำหรับองค์กร'
+    url: https://www.etda.or.th/th/pr-news/AI_Gov_Anual.aspx
+    sprache: th
+    urheber: ETDA / กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
+    verifiziert: false
+    notiz: Amtliche ETDA-Verlautbarung; Abruf in dieser Sitzung nicht durchgeführt, Datum unbekannt.
+  - datum: null
+    typ: pressemitteilung
+    titel: ETDA เปิดตัวศูนย์ 'AI Governance Clinic by ETDA (AIGC)'
+    url: https://www.etda.or.th/th/pr-news/AI-Governance.aspx
+    sprache: th
+    urheber: ETDA
+    verifiziert: false
+    notiz: Amtliche Verlautbarung zur Gründung des AIGC; nicht abgerufen.
+  - datum: null
+    typ: uebersicht
+    titel: AIGC — Dienstleistungsseite der ETDA
+    url: https://www.etda.or.th/th/Our-Service/AIGC/index.aspx
+    sprache: th
+    urheber: ETDA
+    verifiziert: false
+    notiz: Amtliche Seite des AI Governance Center; nicht abgerufen.
+  offene_punkte:
+  - Datum der Leitlinie nicht ermittelt; sie erschien nach der OECD.AI-Erfassung im Umfeld 2024/2025.
+  - Volltext der Leitlinie nicht beschafft.
+  - Ob das AIGC eine Rechtsgrundlage im Gesetz über elektronische Transaktionen hat oder rein organisatorisch
+    eingerichtet ist, ist ungeklärt.
+  monitoring_quellen:
+  - https://www.etda.or.th/th/Our-Service/AIGC/index.aspx
+  - https://oecd.ai/en/dashboards/policy-initiatives/ai-governance-center-3150
+  bezug_regelwerke:
+  - th-ai-act-entwurf
+  - th-nationaler-ki-plan
+  letzte_pruefung: 2026-09-06
+- id: my-ai-governance-bill
+  jurisdiktion: my
+  kurztitel: KI-Governance-Gesetzentwurf Malaysia (AI Governance Bill)
+  offizieller_titel: 'Rang Undang-Undang Tadbir Urus Kecerdasan Buatan (AI) — Artificial Intelligence
+    (AI) Governance Bill
+
+    '
+  fundstelle: 'Konsultationspapier des National AI Office (NAIO) unter dem Kementerian Digital (Ministry
+    of Digital), veröffentlicht am 10.07.2026; Konsultation über das Unified Public Consultation Portal
+    upc.mpc.gov.my
+
+    '
+  verfahrensnummer: Public Consultation Paper des NAIO, 10.07.2026
+  status: entwurf
+  status_detail: 'KEIN GELTENDES RECHT. Konsultationspapier vom 10.07.2026, Stellungnahmefrist bis zum
+    31.07.2026. Die Einbringung ins Parlament war für das Jahr 2026 angekündigt; ob sie bis zum Stichtag
+    dieser Recherche (06.09.2026) erfolgt ist, war nicht feststellbar. Es wäre Malaysias erster horizontaler
+    KI-Rechtsrahmen.
+
+    '
+  kurzbeschreibung: 'Der Entwurf verfolgt einen risikobasierten Ansatz über den gesamten Lebenszyklus
+    eines KI-Systems. Er erfasst KI-Systeme, die in Malaysia in Verkehr gebracht oder in Betrieb genommen
+    werden oder dort entwickelt wurden, unabhängig vom Ort des Hostings — also extraterritorial. KI wird
+    definiert als funktionale Fähigkeit, die einem System erlaubt, Funktionen zu erfüllen, die menschlichen
+    kognitiven Funktionen ähneln; unterschieden werden „developer" (wer Fähigkeiten, Funktion oder Leistung
+    des Systems prägt) und „deployer" (wer das System unter realen Bedingungen betreibt). Es gibt drei
+    Risikostufen, bemessen nach Eintrittswahrscheinlichkeit, Schwere bzw. Ausmaß und Dauer bzw. Umkehrbarkeit
+    des Schadens: Stufe 1 (unacceptable — Absicht, Schaden zuzufügen), Stufe 2 (high risk — Möglichkeit
+    unbeabsichtigten Schadens), Stufe 3 (low risk — kein absehbarer wesentlicher Schaden). Entwickler
+    und Betreiber müssen fünf Governance-Grundsätze beachten: Schutz der Menschenwürde, Transparenz und
+    Erklärbarkeit, klare Verantwortlichkeit, Sicherheit sowie verantwortungsvolle Data Governance. Vorgesehen
+    sind eine zentrale KI-Behörde (Central AI Authority) mit Sicherheits-, Ermittlungs-, Durchsetzungs-
+    und Förderfunktionen, die Befugnisse an sektorale Aufsichten delegieren kann, eine Meldepflicht für
+    Vorfälle (jedes Versagen, jede Schwäche, jeder Missbrauch, jede unerwartete Wirkung und jedes Beinahe-Ereignis)
+    und ein KI-Reallabor. Der Digitalminister Gobind Singh Deo hat ausdrücklich klargestellt, dass das
+    Gesetz die AUSGABEN von KI nicht unmittelbar regeln soll — dafür bleiben die bestehenden Gesetze zuständig.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.digital.gov.my/en-GB/siaran/Kementerian-Digital-Mulakan-Libat-Urus-Cadangan-Rang-Undang-Undang-Tadbir-Urus-Kecerdasan-Buatan-(AI)
+  anwendungsdaten:
+  - datum: 2026-07-31
+    was_gilt: Ende der öffentlichen Konsultation über das NAIO-Konsultationspapier.
+    verifiziert: false
+    quelle: https://www.rahmatlim.com/perspectives/articles/33264/mykh-national-ai-office-issues-public-consultation-paper-on-proposed-artificial-intelligence-ai-governance-bill
+  themenachsen:
+  - marktzugang
+  - governance
+  - haftung
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Anwendungsbereich extraterritorial: KI-Systeme, die in Malaysia in Verkehr gebracht, in Betrieb genommen
+    oder dort entwickelt wurden, unabhängig vom Hosting-Ort.'
+  - 'KI-Definition: ''a functional capability ... that enables a system to perform functions that resemble
+    human cognitive functions'' — funktional, nicht technikbezogen.'
+  - 'Rollen: developer (prägt Fähigkeiten, Funktion, Leistung) und deployer (betreibt unter realen Bedingungen).'
+  - 'Drei Risikostufen nach Eintrittswahrscheinlichkeit, Schwere/Ausmaß und Dauer/Umkehrbarkeit: Tier
+    1 unacceptable (Schädigungsabsicht), Tier 2 high risk (unbeabsichtigter Schaden möglich), Tier 3 low
+    risk.'
+  - 'Fünf Governance-Grundsätze, die mit ''due regard'' zu beachten sind: Menschenwürde, Transparenz/Erklärbarkeit,
+    klare Verantwortlichkeit, Sicherheit, verantwortungsvolle Data Governance.'
+  - Central AI Authority mit Sicherheits-, Ermittlungs-, Durchsetzungs- und Förderfunktion; Delegation
+    an sektorale Aufsichten.
+  - 'Meldepflicht für Vorfälle: ''any failure, weakness, misuse, unexpected effect, or near-miss event''
+    samt Angaben zu Schaden, Eindämmung und Abhilfe.'
+  - KI-Reallabor, zentral oder dezentral.
+  - 'AUSDRÜCKLICHE ABGRENZUNG: Das Gesetz soll die Ausgaben von KI nicht unmittelbar regeln; rechtswidrige
+    Inhalte bleiben Sache des Online Safety Act und des Communications and Multimedia Act.'
+  - Das Konsultationspapier enthält keine Bußgeldvorschriften.
+  dokumente:
+  - datum: 2026-07-10
+    typ: konsultation
+    titel: Kementerian Digital Mulakan Libat Urus Cadangan Rang Undang-Undang Tadbir Urus Kecerdasan Buatan
+      (AI)
+    url: https://www.digital.gov.my/en-GB/siaran/Kementerian-Digital-Mulakan-Libat-Urus-Cadangan-Rang-Undang-Undang-Tadbir-Urus-Kecerdasan-Buatan-(AI)
+    sprache: ms
+    urheber: Kementerian Digital Malaysia (Ministry of Digital)
+    verifiziert: true
+    notiz: 'AMTLICHE Verlautbarung des zuständigen Ministeriums mit dem malaiischen Titel, dem Startdatum
+      der Konsultation (10.07.2026), dem Verweis auf das Unified Public Consultation Portal (https://upc.mpc.gov.my)
+      und der Aussage des Ministers zur Nichtregelung der KI-Ausgaben.
+
+      '
+  - datum: 2026-07-10
+    typ: konsultation
+    titel: Unified Public Consultation Portal (UPC) — Konsultationsportal der malaysischen Regierung
+    url: https://upc.mpc.gov.my
+    sprache: en
+    urheber: Malaysia Productivity Corporation (MPC)
+    verifiziert: false
+    notiz: Amtliches Konsultationsportal; das Konsultationspapier selbst wurde in dieser Sitzung nicht
+      beschafft.
+  - datum: 2026-07
+    typ: uebersicht
+    titel: National AI Office issues public consultation paper on proposed AI Governance Bill
+    url: https://www.rahmatlim.com/perspectives/articles/33264/mykh-national-ai-office-issues-public-consultation-paper-on-proposed-artificial-intelligence-ai-governance-bill
+    sprache: en
+    urheber: Rahmat Lim & Partners (Kanzleimonitor)
+    verifiziert: true
+    notiz: 'Ausführlichste Auswertung des Konsultationspapiers; Grundlage für Definitionen, Risikostufen,
+      Governance-Grundsätze, Behördenstruktur, Vorfallmeldung und Sandbox sowie für die Frist 31.07.2026.
+
+      '
+  - datum: 2026-07
+    typ: uebersicht
+    titel: 'Malaysia: Public Consultation on the AI Governance Bill'
+    url: https://www.bakermckenzie.com/en/insight/publications/2026/07/malaysia-public-consultation-on-the-ai-governance-bill
+    sprache: en
+    urheber: Baker McKenzie (Kanzleimonitor)
+    verifiziert: false
+    notiz: Sekundärquelle; in dieser Sitzung nicht abgerufen.
+  - datum: 2026-07
+    typ: stellungnahme
+    titel: 'Malaysia''s AI Governance Bill: Our Submission to the Consultation'
+    url: https://lpplaw.my/ai-governance-malaysia/
+    sprache: en
+    urheber: Edwin Lee & Partners (Kanzlei)
+    verifiziert: false
+    notiz: Veröffentlichte Konsultationsstellungnahme; nützlich zur Streitstandserfassung, nicht abgerufen.
+  offene_punkte:
+  - Das Konsultationspapier selbst wurde NICHT beschafft; upc.mpc.gov.my wurde nicht abgerufen. Alle inhaltlichen
+    Angaben stammen aus Kanzleiauswertungen.
+  - Ob der Gesetzentwurf bis zum 06.09.2026 ins Parlament eingebracht wurde, ist offen — parlimen.gov.my
+    wurde nicht abgefragt (Suchbudget erschöpft).
+  - Bußgeldrahmen und Durchsetzungsbefugnisse sind unbekannt; das Konsultationspapier enthält sie nach
+    Rahmat Lim & Partners nicht.
+  - Verhältnis zur PDPA, zum Online Safety Act und zum Communications and Multimedia Act ist im Konsultationspapier
+    nicht ausgeführt.
+  - Rechtsgrundlage und Rechtsform des National AI Office (NAIO) sind ungeklärt — es scheint eine Verwaltungseinheit
+    ohne eigene gesetzliche Grundlage zu sein.
+  monitoring_quellen:
+  - https://www.digital.gov.my/
+  - https://upc.mpc.gov.my
+  - https://www.parlimen.gov.my/
+  - https://lom.agc.gov.my/
+  bezug_regelwerke:
+  - my-aige-leitlinien
+  - my-pdpa-2010
+  - my-online-safety-act
+  - my-cma-1998
+  letzte_pruefung: 2026-09-06
+- id: my-aige-leitlinien
+  jurisdiktion: my
+  kurztitel: Nationale KI-Governance-Leitlinien Malaysia (AIGE)
+  offizieller_titel: 'The National Guidelines on AI Governance & Ethics (AIGE) — Garis Panduan Kebangsaan
+    mengenai Tadbir Urus dan Etika Kecerdasan Buatan
+
+    '
+  fundstelle: 'Kementerian Sains, Teknologi dan Inovasi (MOSTI, Ministry of Science, Technology and Innovation),
+    veröffentlicht September 2024
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Freiwillige, nicht rechtsverbindliche Leitlinien. Sie sind seit September 2024 das einzige
+    veröffentlichte nationale KI-Governance-Instrument Malaysias und bilden die Grundlage, auf der der
+    AI Governance Bill aufsetzt. Sie gehen auf die im August 2022 veröffentlichte nationale KI-Roadmap
+    zurück.
+
+    '
+  kurzbeschreibung: 'Die Leitlinien formulieren sieben KI-Grundsätze und richten sich in drei getrennten
+    Teilen an drei Adressatengruppen: Endnutzer (Teil A), politische Entscheidungsträger und Regulierungsbehörden
+    (Teil B) sowie Entwickler und Gestalter (Teil C). Die sieben Grundsätze sind: Fairness (Vermeidung
+    von Verzerrung und Diskriminierung), Zuverlässigkeit, Sicherheit und Kontrolle, Privatheit und Datensicherheit
+    (Einwilligung vor der Nutzung personenbezogener Daten, Schutz über den gesamten Lebenszyklus), Inklusivität
+    (kein ungleicher Zugang), Transparenz (Erklärbarkeit der Algorithmen), Rechenschaftspflicht (Entwickler
+    und Eigentümer verantworten Erfolg und Misserfolg) sowie das Streben nach menschlichem Nutzen und
+    Wohlergehen. Das Dokument bezeichnet sich ausdrücklich als freiwillig zu übernehmen und als Unterstützung
+    von Selbstregulierungsmechanismen.
+
+    '
+  inkrafttreten:
+    datum: 2024-09-20
+    verifiziert: false
+    quelle: https://mastic.mosti.gov.my/storage/2024/09/THE-NATIONAL-GUIDELINES-ON-AI-GOVERNANCE-ETHICS.pdf
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Sieben Grundsätze: Fairness; Reliability, Safety and Control; Privacy and Security; Inclusiveness;
+    Transparency; Accountability; Pursuit of Human Benefit and Happiness.'
+  - 'Dreiteiliger Aufbau nach Adressaten: Teil A Endnutzer, Teil B politische Entscheidungsträger und
+    Regulierer, Teil C Entwickler und Gestalter.'
+  - Ausdrücklich freiwillig ('intended to be voluntarily adopted'), Unterstützung von Selbstregulierung.
+  - Grundsatz Privacy and Security verlangt Einwilligung vor der Nutzung personenbezogener Daten — Anknüpfung
+    an die PDPA.
+  dokumente:
+  - datum: 2024-09
+    typ: leitlinie
+    titel: THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS (Volltext-PDF)
+    url: https://mastic.mosti.gov.my/storage/2024/09/THE-NATIONAL-GUIDELINES-ON-AI-GOVERNANCE-ETHICS.pdf
+    sprache: en
+    urheber: Kementerian Sains, Teknologi dan Inovasi (MOSTI)
+    verifiziert: true
+    notiz: 'AMTLICHE Volltext-PDF auf dem Server der MOSTI-Fachstelle MASTIC. Hier abgerufen; die sieben
+      Grundsätze und der Freiwilligkeitsvorbehalt sind unmittelbar dem Text entnommen.
+
+      '
+  - datum: 2024-09
+    typ: uebersicht
+    titel: National Guidelines on Artificial Intelligence Governance and Ethics (AIGE) — Regierungsportal
+    url: https://www.malaysia.gov.my/en/my-initiative/whole-government-digital-services/tadbir-urus/national-guidelines-on-artificial-intelligence-governance-and-ethics-aige
+    sprache: en
+    urheber: Regierungsportal Malaysia (MyGovernment)
+    verifiziert: false
+    notiz: Amtliche Zweitveröffentlichung; nicht abgerufen.
+  offene_punkte:
+  - Das genaue Veröffentlichungsdatum (in der Literatur wird der 28.09.2024 genannt) ist am Dokument nicht
+    geprüft.
+  - Ob die Leitlinien nach Erlass des AI Governance Bill fortgelten oder ersetzt werden, ist offen.
+  monitoring_quellen:
+  - https://mastic.mosti.gov.my/
+  - https://www.mosti.gov.my/
+  bezug_regelwerke:
+  - my-ai-governance-bill
+  - my-pdpa-2010
+  letzte_pruefung: 2026-09-06
+- id: my-pdpa-2010
+  jurisdiktion: my
+  kurztitel: Datenschutzgesetz Malaysia (PDPA 2010, Act 709)
+  offizieller_titel: 'Personal Data Protection Act 2010 [Act 709] — Akta Perlindungan Data Peribadi 2010,
+    in der Fassung des Personal Data Protection (Amendment) Act 2024 [Act A1727]
+
+    '
+  fundstelle: Laws of Malaysia, Act 709; Änderungsgesetz Act A1727 (2024)
+  verfahrensnummer: Act 709 / Act A1727
+  status: anwendbar
+  status_detail: 'Das Stammgesetz gilt seit 2013. Die Novelle Act A1727 erhielt am 09.10.2024 die königliche
+    Zustimmung, wurde am 17.10.2024 im Gazette verkündet und tritt nach Section 1(2) gestaffelt an vom
+    Minister bekanntzumachenden Tagen in Kraft; die erste Stufe lief zum 01.01.2025 an. Aufsicht ist das
+    Jabatan Perlindungan Data Peribadi (JPDP / Personal Data Protection Department) unter dem Kementerian
+    Digital. Das Gesetz kennt bisher KEINE ausdrückliche Vorschrift zu automatisierten Einzelentscheidungen;
+    die Behörde hat dazu 2025 ein Konsultationspapier vorgelegt (siehe my-pdp-admp-leitlinie).
+
+    '
+  kurzbeschreibung: 'Die PDPA folgt einem Sieben-Grundsätze-Modell (General, Notice and Choice, Disclosure,
+    Security, Retention, Data Integrity, Access). Die Novelle 2024 ersetzt durchgehend den Begriff „data
+    user" durch „data controller", führt eine Meldepflicht für Datenschutzverletzungen und die Pflicht
+    zur Bestellung eines Datenschutzbeauftragten ein, liberalisiert die grenzüberschreitende Übermittlung,
+    erstreckt Pflichten auf Auftragsverarbeiter und ergänzt ein Recht auf Datenübertragbarkeit. Für KI
+    ist das Gesetz doppelt einschlägig: als Rechtsgrundlage für die Verarbeitung von Trainingsdaten und
+    als Schranke für biometrische Systeme. Die Behörde hat 2025 drei Leitlinien-Konsultationen durchgeführt
+    — Datenschutz-Folgenabschätzung, Data Protection by Design und automatisierte Entscheidungsfindung
+    und Profiling — und damit die Lücke zu schließen begonnen, die das Gesetz gegenüber der DSGVO lässt.
+
+    '
+  inkrafttreten:
+    datum: 2013-11-15
+    verifiziert: false
+    quelle: https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-amendment-act-2024/
+  anwendungsdaten:
+  - datum: 2025-01-01
+    was_gilt: Erste Stufe des Inkrafttretens des Personal Data Protection (Amendment) Act 2024 [Act A1727].
+    verifiziert: false
+    quelle: https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-amendment-act-2024/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - Sieben Datenschutzgrundsätze; Section 5 PDPA ist die Grundnorm, enthält aber KEINE Regelung automatisierter
+    Entscheidungen.
+  - 'Act A1727: königliche Zustimmung am 09.10.2024, Verkündung im Gazette am 17.10.2024. Section 1(2):
+    Inkrafttreten an einem vom Minister durch Bekanntmachung im Gazette zu bestimmenden Tag, mit der Möglichkeit
+    unterschiedlicher Daten für einzelne Vorschriften.'
+  - 'Neue Section 12A: Pflicht von Verantwortlichen und Auftragsverarbeitern, einen oder mehrere Datenschutzbeauftragte
+    zu bestellen.'
+  - 'Neue Section 12B: Meldung von Datenschutzverletzungen an den Commissioner ''as soon as practicable''
+    und an die Betroffenen ohne unnötige Verzögerung, wenn erheblicher Schaden droht.'
+  - 'Neue Section 43A: Recht auf Datenübertragbarkeit — Übermittlung an einen anderen Verantwortlichen,
+    soweit technisch machbar.'
+  - 'Geänderte Section 129: Auslandsübermittlung nicht mehr durch Ministerliste, sondern nach Einschätzung
+    des Verantwortlichen, ob die Zielrechtsordnung gleichwertigen Schutz bietet.'
+  - Begriffswechsel 'data user' zu 'data controller' durchgehend.
+  - 'NEGATIVBEFUND: Das Änderungsgesetz enthält KEINE Vorschrift zu automatisierter Entscheidungsfindung
+    oder Profilbildung — die Lücke, die die ADMP-Leitlinie schließen soll, bleibt auf Gesetzesebene bestehen.'
+  - 'Leitlinien-Programm der Behörde 2025: DPIA, Data Protection by Design, Automated Decision Making
+    and Profiling, Cross-Border Transfer, DPO.'
+  dokumente:
+  - datum: 2024-11
+    typ: endfassung
+    titel: Personal Data Protection (Amendment) Act 2024 [Act A1727] — amtliche PDF
+    url: https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/11/Act-A1727.pdf
+    sprache: en
+    urheber: Jabatan Perlindungan Data Peribadi (JPDP) / Attorney General's Chambers
+    verifiziert: true
+    notiz: 'AMTLICHE Volltext-PDF des Änderungsgesetzes auf dem Server der Datenschutzbehörde. Hier abgerufen;
+      königliche Zustimmung 09.10.2024, Verkündung 17.10.2024, Section 1(2) Inkrafttretensvorbehalt, neue
+      Sections 12A, 12B, 43A und Änderung der Section 129 sind dem Text entnommen. Der Negativbefund zu
+      automatisierter Entscheidungsfindung ebenfalls.
+
+      '
+  - datum: 2024
+    typ: uebersicht
+    titel: Personal Data Protection (Amendment) Act 2024 — Seite der Datenschutzbehörde
+    url: https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-amendment-act-2024/
+    sprache: en
+    urheber: Jabatan Perlindungan Data Peribadi (JPDP)
+    verifiziert: true
+    notiz: Amtliche Behördenseite; belegt die Aktennummer A1727 und den Begriffswechsel.
+  offene_punkte:
+  - Das genaue Datum des Inkrafttretens des Stammgesetzes (15.11.2013) ist nicht am amtlichen Text geprüft.
+  - Die gestaffelten Inkrafttretensdaten der Novelle sind nicht vollständig ermittelt; die maßgeblichen
+    Ministerbekanntmachungen im Gazette wurden nicht beschafft, lom.agc.gov.my war nicht abrufbar (robots.txt-Fehler
+    HTTP 500).
+  - Bußgeldrahmen nach der Novelle nicht erfasst.
+  - Konsolidierte Fassung des Act 709 in der Fassung des Act A1727 nicht beschafft; die Angaben zum Stammgesetz
+    beruhen auf dem Änderungsgesetz und auf Sekundärquellen.
+  - Ob die Datenschutzbehörde Entscheidungen zu KI-Sachverhalten veröffentlicht hat, war nicht feststellbar.
+  monitoring_quellen:
+  - https://www.pdp.gov.my/
+  - https://lom.agc.gov.my/
+  bezug_regelwerke:
+  - my-pdp-admp-leitlinie
+  - my-ai-governance-bill
+  - my-aige-leitlinien
+  letzte_pruefung: 2026-09-06
+- id: my-pdp-admp-leitlinie
+  jurisdiktion: my
+  kurztitel: Leitlinie automatisierte Entscheidungen Malaysia (ADMP Guideline)
+  offizieller_titel: 'Public Consultation Paper No. 3/2025: Automated Decision Making and Profiling Guideline
+
+    '
+  fundstelle: 'Jabatan Perlindungan Data Peribadi (JPDP), Konsultationspapier Nr. 3/2025, Konsultation
+    vom 20.03.2025 bis 19.05.2025
+
+    '
+  verfahrensnummer: Public Consultation Paper No. 3/2025
+  status: entwurf
+  status_detail: 'Konsultationsfassung. Für die KI-Praxis ist das das wichtigste malaysische Dokument
+    überhaupt, weil es KI und generative KI AUSDRÜCKLICH als „automated decision making"-Werkzeug einordnen
+    und damit unter die Betroffenenrechte des Datenschutzrechts stellen will. Ob die Leitlinie inzwischen
+    in Endfassung ergangen ist, war nicht feststellbar.
+
+    '
+  kurzbeschreibung: 'Das Konsultationspapier stellt fest, dass Section 5 PDPA 2010 die Datenschutzgrundsätze
+    regelt, automatisierte Entscheidungsfindung und Profiling aber nicht ausdrücklich erfasst. Es definiert
+    automatisierte Entscheidungsfindung als Entscheidungsfindung durch automatisierte Mittel ohne jede
+    menschliche Beteiligung und Profiling als jede Form automatisierter Verarbeitung personenbezogener
+    Daten zur Bewertung bestimmter persönlicher Aspekte. Es schlägt drei Betroffenenrechte vor: ein Recht
+    auf Information mit aussagekräftigen Angaben zur involvierten Logik und zu den Auswirkungen; ein Recht,
+    eine ausschließlich auf automatisierter Entscheidungsfindung beruhende Entscheidung mit rechtlicher
+    oder erheblicher Wirkung abzulehnen; und ein Recht auf menschliche Überprüfung durch eine Person mit
+    Befugnis zur Änderung der Entscheidung, mit einer Antwortfrist von 21 Tagen, verlängerbar um 14 Tage
+    bei Komplexität. Als Schutzmaßnahmen nennt es ausdrückliche Einwilligung, Folgenabschätzung vor dem
+    Einsatz, tatsächliche (nicht nur formale) menschliche Beteiligung, Beschränkungen für biometrische
+    Daten sowie Transparenz und Zugangskontrolle bei Videoüberwachung. Entscheidend: Das Papier verlangt,
+    KI und generative KI ausdrücklich als Instrument automatisierter Entscheidungsfindung zu benennen
+    und Beschränkungen zu unterwerfen, wenn sie Betroffene erheblich berühren.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/JPDP-FSB-200325-ADMP-PCP-ENG-TC.pdf
+  anwendungsdaten:
+  - datum: 2025-05-19
+    was_gilt: Ende der öffentlichen Konsultation über die ADMP-Leitlinie.
+    verifiziert: true
+    quelle: https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/JPDP-FSB-200325-ADMP-PCP-ENG-TC.pdf
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - arbeit
+  regelungsschwerpunkte:
+  - 'Ausgangsbefund: Section 5 PDPA 2010 erfasst automatisierte Entscheidungsfindung und Profiling NICHT
+    ausdrücklich.'
+  - 'Definition automatisierte Entscheidungsfindung: ''process of making decisions by automated means
+    without any human involvement''.'
+  - 'Definition Profiling: ''any form of automated processing of personal data consisting of the use of
+    personal data to evaluate certain personal aspects''.'
+  - 'Recht auf Information: ''meaningful information about the logic'' und Erläuterung der Auswirkungen.'
+  - Recht auf Ablehnung einer ausschließlich automatisierten Entscheidung mit rechtlicher oder erheblicher
+    Wirkung.
+  - Recht auf menschliche Überprüfung durch eine änderungsbefugte Person; Antwortfrist 21 Tage, verlängerbar
+    um 14 Tage.
+  - 'KERNPUNKT: KI und generative KI sollen AUSDRÜCKLICH als ''automated decision making''-Werkzeug benannt
+    und Beschränkungen unterworfen werden, wenn sie Betroffene erheblich berühren.'
+  - 'Schutzmaßnahmen: ausdrückliche Einwilligung, Folgenabschätzung vor dem Einsatz, tatsächliche statt
+    perfunktorischer menschlicher Beteiligung, Beschränkungen für biometrische Daten, Transparenz und
+    Zugangskontrolle bei Videoüberwachung.'
+  dokumente:
+  - datum: 2025-03-20
+    typ: konsultation
+    titel: 'PUBLIC CONSULTATION PAPER NO. 3/2025: AUTOMATED DECISION MAKING AND PROFILING (Volltext-PDF)'
+    url: https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/JPDP-FSB-200325-ADMP-PCP-ENG-TC.pdf
+    sprache: en
+    urheber: Jabatan Perlindungan Data Peribadi (JPDP)
+    verifiziert: true
+    notiz: 'AMTLICHE Volltext-PDF der Datenschutzbehörde. Hier abgerufen; alle Angaben zu Definitionen,
+      Rechten, Fristen und zur ausdrücklichen Einbeziehung generativer KI sind dem Text entnommen.
+
+      '
+  - datum: 2025-03-20
+    typ: konsultation
+    titel: Public Consultation Paper No. 3/2025 — Behördenseite
+    url: https://www.pdp.gov.my/ppdpv1/en/akta/public-consultation-paper-no-3-2025-automated-decision-making-and-profiling-guideline/
+    sprache: en
+    urheber: Jabatan Perlindungan Data Peribadi (JPDP)
+    verifiziert: false
+    notiz: Amtliche Übersichtsseite; nicht abgerufen.
+  - datum: 2025-03-20
+    typ: konsultation
+    titel: 'Public Consultation Paper No. 1/2025: Data Protection Impact Assessment Guideline'
+    url: https://www.pdp.gov.my/ppdpv1/en/akta/public-consultation-paper-no-1-2025-data-protection-impact-assessment-guideline/
+    sprache: en
+    urheber: Jabatan Perlindungan Data Peribadi (JPDP)
+    verifiziert: false
+    notiz: Schwesterkonsultation zur Datenschutz-Folgenabschätzung; für KI-Systeme der Auslöser der DPIA-Pflicht.
+  - datum: 2025-03-20
+    typ: konsultation
+    titel: 'Public Consultation Paper No. 2/2025: Data Protection By Design Guideline'
+    url: https://www.pdp.gov.my/ppdpv1/en/akta/public-consultation-paper-no-2-2025-data-protection-by-design-guideline/
+    sprache: en
+    urheber: Jabatan Perlindungan Data Peribadi (JPDP)
+    verifiziert: false
+    notiz: Schwesterkonsultation zu Data Protection by Design.
+  offene_punkte:
+  - OB DIE ENDFASSUNG ERGANGEN IST, IST UNGEKLÄRT — das ist der wichtigste malaysische Punkt für den nächsten
+    Bearbeiter. Die Konsultation endete am 19.05.2025.
+  - Die Rechtsnatur der Leitlinie (bindend oder auslegend) ist ungeklärt; die PDPA kennt Commissioner's
+    Guidelines mit unklarer Bindungswirkung.
+  - 'Verhältnis zum geplanten AI Governance Bill: Das Bill soll KI-Ausgaben nicht regeln, die ADMP-Leitlinie
+    greift dagegen auf KI-Entscheidungen durch. Mögliche Doppelregelung, im Konsultationspapier nicht
+    behandelt.'
+  monitoring_quellen:
+  - https://www.pdp.gov.my/ppdpv1/en/akta/
+  bezug_regelwerke:
+  - my-pdpa-2010
+  - my-ai-governance-bill
+  letzte_pruefung: 2026-09-06
+- id: my-online-safety-act
+  jurisdiktion: my
+  kurztitel: Online Safety Act Malaysia 2025 (Act 866)
+  offizieller_titel: Online Safety Act 2025 [Act 866] — Akta Keselamatan Dalam Talian 2025
+  fundstelle: Laws of Malaysia, Act 866
+  verfahrensnummer: Act 866
+  status: anwendbar
+  status_detail: 'In Kraft seit dem 01.01.2026; die Durchsetzung durch die Suruhanjaya Komunikasi dan
+    Multimedia Malaysia (MCMC) begann im Januar 2026. Das Gesetz verpflichtet lizenzierte Anbieter von
+    Anwendungsdiensten und Inhaltsanwendungsdiensten zu Maßnahmen gegen schädliche Inhalte. Es ist der
+    praktische Rahmen, in dem in Malaysia KI-erzeugte rechtswidrige Inhalte behandelt werden — der Digitalminister
+    hat bei Vorstellung des AI Governance Bill ausdrücklich darauf verwiesen, dass die KI-AUSGABEN von
+    diesem Gesetz und nicht vom künftigen KI-Gesetz erfasst werden.
+
+    '
+  kurzbeschreibung: 'Das Gesetz verpflichtet Betreiber von Plattformdiensten mit erheblicher Nutzerzahl
+    in Malaysia zu Vorkehrungen gegen „harmful content" — dazu zählen unter anderem Inhalte über sexuellen
+    Missbrauch von Kindern, Finanzbetrug, Aufforderung zu Selbstverletzung und Inhalte, die zu Gewalt
+    aufstacheln. Vorgesehen sind Melde- und Entfernungsmechanismen, Nutzersicherheitspläne, Berichtspflichten
+    gegenüber der MCMC und Sanktionen. Die MCMC hat 2025 nachgelagerte Rechtsakte (subsidiary legislation)
+    erlassen, unter anderem zur Altersgrenze für soziale Medien. Ob das Gesetz KI-erzeugte oder synthetische
+    Inhalte ausdrücklich erfasst, konnte nicht am Gesetzestext geprüft werden.
+
+    '
+  inkrafttreten:
+    datum: 2026-01-01
+    verifiziert: true
+    quelle: https://www.roedl.com/en/insights/malaysia-online-safety-act-2025/
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Anwendungsbereich: Applications Service Providers, Content Applications Service Providers, Network
+    Service Providers sowie lizenzpflichtige soziale Netzwerke und Nachrichtendienste mit mehr als 8 Millionen
+    Nutzern in Malaysia.'
+  - Neun Kategorien 'harmful content'; als 'priority harmful content' gelten Darstellungen sexuellen Kindesmissbrauchs
+    und Finanzbetrug — sie sind 'with utmost urgency' zu entfernen oder zu sperren.
+  - 'Weitere Kategorien: obszöne und unanständige Inhalte, Inhalte, die Gewalt, Terrorismus oder Drogenkonsum
+    fördern, Inhalte, die ein Kind zur Selbstschädigung verleiten können, sowie Inhalte, die den öffentlichen
+    Frieden bedrohen oder Feindseligkeit schüren.'
+  - 'Pflichten lizenzierter Anbieter: proaktive Schutzmaßnahmen, Gemeinschaftsstandards, Schutzwerkzeuge,
+    Melde- und Entfernungsmechanismen, Nutzersicherheitspläne, Berichtspflichten gegenüber der MCMC.'
+  - Nachgelagerte Rechtsakte der MCMC, u.a. Altersgrenze für soziale Medien (Dezember 2025).
+  - 'ABGRENZUNG: Nach der Aussage des Digitalministers vom 10.07.2026 sollen KI-Ausgaben von diesem Gesetz
+    und nicht vom künftigen AI Governance Bill erfasst werden.'
+  - 'UNGEPRÜFT: ob das Gesetz KI-erzeugte oder synthetische Inhalte ausdrücklich erfasst.'
+  dokumente:
+  - datum: 2025
+    typ: endfassung
+    titel: LAWS OF MALAYSIA Act 866 — ONLINE SAFETY ACT 2025 (amtliche PDF)
+    url: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2867049_BI/Act%20866-Online%20Safety%20Act%202025.pdf
+    sprache: en
+    urheber: Attorney General's Chambers of Malaysia (Laws of Malaysia)
+    verifiziert: false
+    notiz: 'AMTLICHE Volltext-PDF der Laws of Malaysia. Der Abruf schlug in dieser Sitzung fehl (robots.txt-Fehler
+      HTTP 500 auf lom.agc.gov.my); die URL ist über die Suchindexierung mit dem korrekten Aktentitel
+      belegt.
+
+      '
+  - datum: 2025
+    typ: endfassung
+    titel: Malaysia Federal Legislation — Act 866 (Metadatenseite)
+    url: https://lom.agc.gov.my/act-detail.php?act=866
+    sprache: en
+    urheber: Attorney General's Chambers of Malaysia
+    verifiziert: false
+    notiz: Amtliche Metadatenseite; Abruf wegen robots.txt gescheitert.
+  - datum: 2025-11
+    typ: bericht
+    titel: 'Azalina: Online Safety Act to take effect Jan 1, 2026'
+    url: https://www.nst.com.my/news/nation/2025/11/1314384/azalina-online-safety-act-take-effect-jan-1-2026
+    sprache: en
+    urheber: New Straits Times (Presse)
+    verifiziert: false
+    notiz: Beleg für das Inkrafttretensdatum; Presse, keine amtliche Quelle.
+  - datum: 2026-01
+    typ: bericht
+    titel: MCMC begins enforcing Online Safety Act for platforms
+    url: https://www.malaysianwireless.com/2026/01/mcmc-enforcing-online-safety-act-platforms/
+    sprache: en
+    urheber: MalaysianWireless (Fachpresse)
+    verifiziert: false
+    notiz: Beleg für den Beginn der Durchsetzung durch die MCMC.
+  - datum: 2026
+    typ: uebersicht
+    titel: 'Malaysia: The Online Safety Act 2025'
+    url: https://www.roedl.com/en/insights/malaysia-online-safety-act-2025/
+    sprache: en
+    urheber: Rödl & Partner (Kanzleimonitor)
+    verifiziert: true
+    notiz: 'Sekundärquelle; hier abgerufen. Belegt Inkrafttreten 01.01.2026, den Anwendungsbereich (lizenzpflichtige
+      Plattformen über 8 Mio. Nutzer in Malaysia), die neun Kategorien schädlicher Inhalte und die Einstufung
+      von Kindesmissbrauchsdarstellungen und Finanzbetrug als ''priority harmful content''. Der Beitrag
+      nennt WEDER eine KI- noch eine Deepfake-Vorschrift — konsistent damit, dass Act 866 synthetische
+      Inhalte nicht gesondert erfasst, aber kein Beweis dafür.
+
+      '
+  offene_punkte:
+  - Der Gesetzestext wurde NICHT gelesen — lom.agc.gov.my war wegen eines robots.txt-Fehlers (HTTP 500)
+    nicht abrufbar. Ob und wo das Gesetz synthetische oder KI-erzeugte Inhalte erfasst, ist deshalb offen.
+    Zwei ausgewertete Sekundärdarstellungen (Rödl & Partner, Rahmat Lim) nennen keine solche Vorschrift;
+    das ist ein Indiz, kein Beweis. Das ist der erste Punkt, den der nächste Bearbeiter prüfen sollte.
+  - Datum der königlichen Zustimmung und der Verkündung im Gazette nicht ermittelt.
+  - Der Wortlaut der neun Kategorien 'harmful content' ist nicht am Gesetzestext geprüft; die Aufzählung
+    stammt aus der Darstellung von Rödl & Partner.
+  - Die Nutzerschwelle von 8 Millionen ist nicht am amtlichen Text geprüft; sie folgt vermutlich aus der
+    Lizenzierungsregelung nach dem Communications and Multimedia Act, nicht aus Act 866 selbst.
+  - Die nachgelagerten Rechtsakte der MCMC sind nicht erfasst.
+  - Das Verhältnis zur Section 233 Communications and Multimedia Act 1998 ist ungeklärt.
+  monitoring_quellen:
+  - https://lom.agc.gov.my/
+  - https://www.mcmc.gov.my/
+  bezug_regelwerke:
+  - my-ai-governance-bill
+  - my-cma-1998
+  letzte_pruefung: 2026-09-06
+- id: my-cma-1998
+  jurisdiktion: my
+  kurztitel: Kommunikations- und Multimediagesetz Malaysia (CMA 1998, Act 588)
+  offizieller_titel: 'Communications and Multimedia Act 1998 [Act 588] — Akta Komunikasi dan Multimedia
+    1998, geändert durch den Communications and Multimedia (Amendment) Act 2025
+
+    '
+  fundstelle: Laws of Malaysia, Act 588; Änderungsgesetz 2025
+  verfahrensnummer: Act 588
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Für KI-erzeugte Inhalte ist Section 233(1)(a) die praktisch am häufigsten
+    angewandte Norm: Sie stellt die Übermittlung von Mitteilungen unter Strafe, die obszön, unanständig,
+    falsch, bedrohlich oder beleidigend („offensive") sind und mit der Absicht übermittelt werden, eine
+    andere Person zu belästigen, zu missbrauchen, zu bedrohen oder zu belästigen. Die Vorschrift ist verfassungsrechtlich
+    umstritten: Das Court of Appeal hat 2025 über die Verfassungsmäßigkeit der Merkmale „offensive" und
+    „with intention to annoy" entschieden, die Regierung hat Rechtsmittel eingelegt. Der Communications
+    and Multimedia (Amendment) Act 2025 hat das Gesetz geändert.
+
+    '
+  kurzbeschreibung: 'Das CMA ist das Rahmengesetz für Telekommunikation, Rundfunk und Onlinedienste in
+    Malaysia und begründet die Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC) als Aufsichtsbehörde.
+    Section 233 ist die zentrale Inhaltsstrafnorm; sie wird auf Deepfakes, KI-erzeugte Falschinformationen
+    und manipulierte Bilder angewandt, ohne diese ausdrücklich zu nennen. Die Novelle 2025 erweiterte
+    unter anderem die Durchsetzungsbefugnisse. Das Zusammenspiel von Section 233 CMA, Online Safety Act
+    2025 und dem geplanten AI Governance Bill ist die zentrale Strukturfrage des malaysischen KI-Inhaltsrechts:
+    Die Regierung will KI-Ausgaben ausdrücklich NICHT im KI-Gesetz, sondern hier regeln.
+
+    '
+  inkrafttreten:
+    datum: 1999-04-01
+    verifiziert: false
+    quelle: https://www.lhlow.com.my/the-cost-of-a-comment-when-online-speech-becomes-a-crime/
+  themenachsen:
+  - content
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Section 233(1)(a): Übermittlung obszöner, unanständiger, falscher, bedrohlicher oder beleidigender
+    Mitteilungen mit Belästigungsabsicht. Die Auffangnorm für KI-erzeugte rechtswidrige Inhalte.'
+  - 'VERFASSUNGSSTREIT: Das Court of Appeal hat 2025 über die Verfassungsmäßigkeit der Merkmale ''offensive''
+    und ''with intention to annoy'' entschieden; die Regierung hat im Oktober 2025 Rechtsmittel eingelegt.
+    Verfahren offen.'
+  - 'Communications and Multimedia (Amendment) Act 2025: Änderung des Gesetzes, u.a. Erweiterung der Durchsetzungsbefugnisse.'
+  - Begründet die MCMC als Aufsichtsbehörde — dieselbe Behörde, die den Online Safety Act durchsetzt.
+  - KEINE ausdrückliche KI- oder Deepfake-Vorschrift.
+  dokumente:
+  - datum: 2025
+    typ: uebersicht
+    titel: Court of Appeal Delivers Landmark Ruling on the Constitutionality of Section 233(1)(a) CMA
+      1998
+    url: https://www.lexology.com/library/detail.aspx?g=6132aec7-5341-4a0d-a6bc-8fb79aac3328
+    sprache: en
+    urheber: Lexology (Kanzleimonitor)
+    verifiziert: false
+    notiz: 'Bericht über die Entscheidung des Court of Appeal. Das Aktenzeichen und der Volltext wurden
+      in dieser Sitzung nicht ermittelt; siehe offene_punkte.
+
+      '
+  - datum: 2025-10-29
+    typ: bericht
+    titel: Government appeals 'offensive' phrase decision
+    url: https://www.thestar.com.my/news/nation/2025/10/29/government-appeals-offensive-phrase-decision
+    sprache: en
+    urheber: The Star (Presse)
+    verifiziert: false
+    notiz: Beleg für das Rechtsmittel der Regierung gegen die Entscheidung.
+  - datum: 2025
+    typ: uebersicht
+    titel: Overview on Malaysia's Communications and Multimedia (Amendment) Act 2025
+    url: https://www.hg.org/legal-articles/overview-on-malaysia-s-communications-and-multimedia-amendment-act-2025-69789
+    sprache: en
+    urheber: HG.org (Sekundärquelle)
+    verifiziert: false
+    notiz: Sekundärdarstellung der Novelle 2025; amtliche Fundstelle nicht ermittelt.
+  offene_punkte:
+  - Amtlicher Text (lom.agc.gov.my, Act 588) NICHT abgerufen — robots.txt-Fehler.
+  - Aktenzeichen, Datum und Volltext der Court-of-Appeal-Entscheidung zu Section 233(1)(a) nicht ermittelt;
+    ejudgment.kehakiman.gov.my wurde nicht abgefragt (Suchbudget erschöpft). Das ist die wichtigste offene
+    Recherche für Malaysia.
+  - Nummer und Inkrafttreten des Communications and Multimedia (Amendment) Act 2025 nicht ermittelt.
+  monitoring_quellen:
+  - https://lom.agc.gov.my/
+  - https://www.mcmc.gov.my/
+  - https://ejudgment.kehakiman.gov.my/
+  bezug_regelwerke:
+  - my-online-safety-act
+  - my-ai-governance-bill
+  letzte_pruefung: 2026-09-06
+- id: id-se-9-2023
+  jurisdiktion: id
+  kurztitel: KI-Ethik-Rundschreiben Indonesien (Surat Edaran 9/2023)
+  offizieller_titel: 'Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika
+    Kecerdasan Artifisial (Rundschreiben des Ministers für Kommunikation und Informatik Nr. 9 von 2023
+    über die Ethik künstlicher Intelligenz)
+
+    '
+  fundstelle: 'Kementerian Komunikasi dan Informatika (heute Kementerian Komunikasi dan Digital, Komdigi),
+    Surat Edaran Nr. 9 Tahun 2023
+
+    '
+  verfahrensnummer: SE Menkominfo No. 9 Tahun 2023
+  status: softlaw
+  status_detail: 'Ein Rundschreiben (Surat Edaran) ist im indonesischen Rechtsquellensystem KEIN Rechtsakt
+    mit Außenwirkung, sondern eine Verwaltungsmitteilung ohne Bindungswirkung gegenüber Privaten. Es ist
+    gleichwohl bis heute Indonesiens einziges eigenständiges KI-Instrument. Die UNESCO empfiehlt in ihrem
+    Länderprofil ausdrücklich, das Rundschreiben an internationale Maßstäbe (Verhältnismäßigkeit, menschliche
+    Aufsicht, Rechenschaft) anzupassen — ein Hinweis darauf, dass es hinter dem gegenwärtigen Standard
+    zurückbleibt.
+
+    '
+  kurzbeschreibung: 'Das Rundschreiben gibt Behörden und Anbietern elektronischer Systeme Orientierung
+    für den ethischen Einsatz künstlicher Intelligenz. Es benennt Wertmaßstäbe für Entwicklung und Nutzung
+    und stellt klar, dass KI die bestehenden Pflichten aus dem Datenschutz- und dem Informations- und
+    Transaktionsrecht nicht verdrängt. Weil es keine Rechtsverordnung ist, begründet es weder Pflichten
+    noch Sanktionen; es wirkt allein über die Verwaltungspraxis und als Auslegungshilfe. Der Inhalt konnte
+    NICHT am amtlichen Text geprüft werden (siehe offene_punkte).
+
+    '
+  inkrafttreten:
+    datum: 2023-12-19
+    verifiziert: false
+    quelle: https://www.unesco.org/ethics-ai/en/indonesia
+  themenachsen:
+  - governance
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Rechtsform Surat Edaran: Verwaltungsmitteilung ohne Außenwirkung, keine Pflichten, keine Sanktionen.'
+  - 'Adressaten: Behörden und Anbieter elektronischer Systeme (penyelenggara sistem elektronik).'
+  - Ethische Wertmaßstäbe für Entwicklung und Nutzung von KI.
+  - Klarstellung, dass Datenschutz- und ITE-Recht unberührt bleiben.
+  - 'UNESCO-Empfehlung 2025/2026: Anpassung an Verhältnismäßigkeit, menschliche Aufsicht und Rechenschaftspflicht.'
+  dokumente:
+  - datum: 2023
+    typ: leitlinie
+    titel: Indonesien — Länderprofil im Global AI Ethics and Governance Observatory
+    url: https://www.unesco.org/ethics-ai/en/indonesia
+    sprache: en
+    urheber: UNESCO
+    verifiziert: true
+    notiz: 'Belegt Existenz, Nummer, Gegenstand und Urheber des Rundschreibens sowie die Empfehlung zur
+      Überarbeitung. Internationale Organisation, keine indonesische amtliche Quelle.
+
+      '
+  - datum: 2023
+    typ: leitlinie
+    titel: Surat Edaran Menteri Kominfo Nomor 9 Tahun 2023 — Rechtsdokumentationsportal des Ministeriums
+    url: https://jdih.komdigi.go.id/
+    sprache: id
+    urheber: Kementerian Komunikasi dan Digital (Komdigi), JDIH
+    verifiziert: false
+    notiz: 'AMTLICHES Rechtsdokumentationsportal des zuständigen Ministeriums. Alle Abrufversuche in dieser
+      Sitzung endeten mit HTTP 403; der Volltext des Rundschreibens wurde NICHT gelesen.
+
+      '
+  offene_punkte:
+  - DER VOLLTEXT WURDE NICHT GELESEN. jdih.komdigi.go.id antwortete durchgehend mit HTTP 403. Die Aufzählung
+    der ethischen Wertmaßstäbe fehlt deshalb; sie ist zuerst nachzuholen.
+  - 'Das Ausstellungsdatum (19.12.2023 nach verbreiteter Sekundärangabe) ist nicht belegt und deshalb
+    als verifiziert: false geführt.'
+  - Ob das Rundschreiben nach der Umbenennung des Ministeriums in Komdigi fortgilt oder ersetzt wurde,
+    ist ungeklärt.
+  - Das Rundschreiben taucht in der BPK-Rechtsdatenbank (peraturan.bpk.go.id) NICHT auf — konsistent damit,
+    dass Surat Edaran dort nicht geführt werden.
+  monitoring_quellen:
+  - https://jdih.komdigi.go.id/
+  - https://www.komdigi.go.id/berita/siaran-pers
+  bezug_regelwerke:
+  - id-uu-pdp-27-2022
+  - id-uu-ite-1-2024
+  - id-stranas-ka
+  - id-perpres-ki-geplant
+  letzte_pruefung: 2026-09-06
+- id: id-stranas-ka
+  jurisdiktion: id
+  kurztitel: Nationale KI-Strategie Indonesien (Stranas KA)
+  offizieller_titel: 'Strategi Nasional Kecerdasan Artifisial Indonesia 2020–2045 (Nationale Strategie
+    für künstliche Intelligenz Indonesiens 2020–2045)
+
+    '
+  fundstelle: 'Vorgestellt am 10.08.2020 zum Hari Kebangkitan Teknologi Nasional (Nationaler Tag des technologischen
+    Erwachens); getragen von BPPT/BRIN und dem Kommunikationsministerium
+
+    '
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Strategiepapier ohne Rechtsform. Es war von Anfang an vorgesehen, die Strategie in eine
+    Peraturan Presiden (Präsidialverordnung) zu überführen; das ist bis zum Stichtag dieser Recherche
+    (06.09.2026) NICHT geschehen. Die Strategie ist damit seit sechs Jahren das politische Leitdokument
+    ohne normative Verankerung — der Kern des indonesischen Befunds.
+
+    '
+  kurzbeschreibung: 'Die Strategie legt einen 25-Jahres-Horizont bis 2045 (dem hundertsten Jahrestag der
+    Unabhängigkeit) fest. Sie benennt Handlungsfelder für Ethik und Politik, Talententwicklung, Infrastruktur
+    und Daten sowie Forschung und Industrie und definiert prioritäre Anwendungsbereiche. Sie ist Grundlage
+    der angekündigten Präsidialverordnungen und des Rundschreibens 9/2023. Weil sie keine Rechtsform hat,
+    begründet sie keine Pflichten.
+
+    '
+  inkrafttreten:
+    datum: 2020-08-10
+    verifiziert: true
+    quelle: https://ai-innovation.id/strategi
+  themenachsen:
+  - governance
+  - arbeit
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Zeithorizont 2020–2045; vorgestellt am 10.08.2020 zum Nationalen Tag des technologischen Erwachens.
+  - 'Vier Handlungsfelder: Ethik und Politik, Talent, Infrastruktur und Daten, Forschung und Industrie.'
+  - Ausdrücklich als Vorstufe einer Peraturan Presiden konzipiert ('input from stakeholders is needed'
+    zur Vorbereitung der förmlichen Verordnung) — die bis heute nicht ergangen ist.
+  - Keine Rechtsform, keine Pflichten, keine Sanktionen.
+  dokumente:
+  - datum: 2020-08-10
+    typ: leitlinie
+    titel: Strategi Nasional Kecerdasan Artifisial — Portal des Indonesia AI Innovation Center
+    url: https://ai-innovation.id/strategi
+    sprache: id
+    urheber: Indonesia Center for Artificial Intelligence Innovation (KORIKA / BPPT-BRIN-Umfeld)
+    verifiziert: true
+    notiz: 'Trägerportal der Strategie; belegt Vorstellungsdatum, Zeithorizont und die Absicht, sie in
+      eine Perpres zu überführen. Kein Amtsblatt.
+
+      '
+  - datum: 2020
+    typ: uebersicht
+    titel: Indonesia — National AI Strategy (Stranas KA) im OECD.AI-Länderdashboard
+    url: https://oecd.ai/en/dashboards/countries/Indonesia
+    sprache: en
+    urheber: OECD.AI Policy Observatory
+    verifiziert: true
+    notiz: 'Belegt, dass die Strategie die EINZIGE von der OECD erfasste indonesische KI-Politikinitiative
+      ist — kein Präsidialdekret, keine Verordnung.
+
+      '
+  offene_punkte:
+  - Der Volltext der Strategie wurde nicht beschafft; die vier Handlungsfelder sind aus der Trägerdarstellung
+    und der OECD-Erfassung rekonstruiert und nicht am Dokument geprüft.
+  - Die prioritären Anwendungsbereiche (in der Literatur werden Gesundheit, Verwaltungsreform, Bildung,
+    Ernährungssicherheit und Mobilität genannt) sind nicht belegt.
+  monitoring_quellen:
+  - https://ai-innovation.id/
+  - https://oecd.ai/en/dashboards/countries/Indonesia
+  bezug_regelwerke:
+  - id-se-9-2023
+  - id-perpres-ki-geplant
+  letzte_pruefung: 2026-09-06
+- id: id-perpres-ki-geplant
+  jurisdiktion: id
+  kurztitel: Geplante KI-Präsidialverordnungen Indonesien (Perpres KA)
+  offizieller_titel: 'Rancangan Peraturan Presiden tentang Peta Jalan Kecerdasan Artifisial Nasional und
+    Rancangan Peraturan Presiden tentang Keamanan dan Etika Kecerdasan Artifisial (Entwurf einer Präsidialverordnung
+    über die nationale KI-Roadmap und Entwurf einer Präsidialverordnung über Sicherheit und Ethik künstlicher
+    Intelligenz)
+
+    '
+  fundstelle: 'Ankündigung des Kementerian Komunikasi dan Digital (Komdigi); Entwürfe 2025 erstellt, Unterzeichnung
+    durch den Präsidenten für 2026 angekündigt
+
+    '
+  verfahrensnummer: null
+  status: entwurf
+  status_detail: 'NICHT ERLASSEN. Beide Präsidialverordnungen wurden nach Angaben der damaligen Kommunikationsministerin
+    Meutya V. Hafid im Jahr 2025 entworfen und sollten 2026 vom Präsidenten unterzeichnet werden. Eine
+    Suche in der Rechtsdatenbank des Rechnungshofs (peraturan.bpk.go.id) nach „kecerdasan artifisial"
+    und „kecerdasan buatan" am 06.09.2026 hat KEINE Präsidialverordnung zu künstlicher Intelligenz aus
+    2025 oder 2026 ergeben; auch die UNESCO und die OECD verzeichnen keine. Der Befund ist also: angekündigt,
+    entworfen, bis zum Stichtag nicht in Kraft.
+
+    '
+  kurzbeschreibung: 'Vorgesehen sind zwei Präsidialverordnungen: eine über die nationale KI-Roadmap (Überführung
+    der Stranas KA in eine Rechtsform) und eine über Sicherheit und Ethik künstlicher Intelligenz. Nach
+    Darstellung des Ministeriums soll jedes Ressort anschließend eigene abgeleitete Vorschriften erlassen;
+    die erste Ministerialverordnung soll digitale Plattformen zur Kennzeichnung oder Wasserzeichnung KI-erzeugter
+    Inhalte verpflichten. Damit wäre die Kennzeichnungspflicht in Indonesien — anders als in Vietnam —
+    auf Verordnungsebene und nicht im Gesetz verankert.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: https://indonesiabusinesspost.com/5992/cyber-and-espionage/indonesia-prioritizes-ai-regulation-in-2026-says-communications-minister
+  themenachsen:
+  - governance
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Zwei Perpres: nationale KI-Roadmap und KI-Sicherheit/-Ethik.'
+  - Abgeleitete Ressortverordnungen als zweite Ebene.
+  - 'Erste geplante Ministerialverordnung: Pflicht digitaler Plattformen zur Kennzeichnung oder Wasserzeichnung
+    KI-erzeugter Inhalte.'
+  - 'NEGATIVBEFUND 06.09.2026: keine KI-Perpres in peraturan.bpk.go.id auffindbar; UNESCO und OECD verzeichnen
+    ebenfalls keine.'
+  dokumente:
+  - datum: 2026
+    typ: bericht
+    titel: Indonesia prioritizes AI regulation in 2026, says communications minister
+    url: https://indonesiabusinesspost.com/5992/cyber-and-espionage/indonesia-prioritizes-ai-regulation-in-2026-says-communications-minister
+    sprache: en
+    urheber: Indonesia Business Post (Presse)
+    verifiziert: true
+    notiz: 'Einzige greifbare Quelle für Inhalt und Zeitplan. Zitiert die Ministerin: die Entwürfe seien
+      2025 erstellt worden und sollten 2026 vom Präsidenten unterzeichnet werden; die erste Ministerialverordnung
+      solle die Kennzeichnung KI-erzeugter Inhalte vorschreiben. Presse, keine amtliche Quelle.
+
+      '
+  - datum: 2026-09-06
+    typ: bericht
+    titel: Suchergebnis 'kecerdasan artifisial' in der Rechtsdatenbank des BPK
+    url: https://peraturan.bpk.go.id/Search?keywords=kecerdasan+artifisial
+    sprache: id
+    urheber: Badan Pemeriksa Keuangan (BPK), Database Peraturan
+    verifiziert: true
+    notiz: 'AMTLICHE Rechtsdatenbank. Die Suche ergab am 06.09.2026 nur drei Treffer ohne KI-Bezug im
+      Regelungsgegenstand (Permenkes 62/2015, Perda DIY 3/2022, Peraturan BRIN 10/2022 — letztere nennt
+      lediglich ein ''Pusat Riset Kecerdasan Artifisial dan Keamanan Siber''). Beleg des Negativbefunds.
+
+      '
+  offene_punkte:
+  - Ob die Entwürfe öffentlich konsultiert wurden und ob Entwurfstexte vorliegen, war nicht feststellbar.
+  - peraturan.go.id und jdih.setneg.go.id waren nicht durchsuchbar (robots.txt-Timeout bzw. HTTP 404);
+    der Negativbefund stützt sich allein auf peraturan.bpk.go.id.
+  - Die genauen indonesischen Titel der beiden Entwürfe sind nicht belegt; die hier angegebenen sind aus
+    der englischen Berichterstattung rückübersetzt und deshalb als Arbeitsbezeichnung zu behandeln.
+  - Ob nach dem Ministerwechsel (Komdigi) das Vorhaben fortgeführt wird, ist offen.
+  monitoring_quellen:
+  - https://peraturan.bpk.go.id/
+  - https://jdih.setneg.go.id/
+  - https://www.komdigi.go.id/berita/siaran-pers
+  bezug_regelwerke:
+  - id-stranas-ka
+  - id-se-9-2023
+  - id-uu-ite-1-2024
+  letzte_pruefung: 2026-09-06
+- id: id-uu-pdp-27-2022
+  jurisdiktion: id
+  kurztitel: Datenschutzgesetz Indonesien (UU PDP 27/2022)
+  offizieller_titel: 'Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (Gesetz Nr. 27
+    von 2022 über den Schutz personenbezogener Daten)
+
+    '
+  fundstelle: Lembaran Negara RI Tahun 2022 Nomor 196, Tambahan Lembaran Negara Nomor 6820
+  verfahrensnummer: UU No. 27 Tahun 2022
+  status: anwendbar
+  status_detail: 'Ausgefertigt und verkündet am 17.10.2022, in Kraft mit dem Tag der Verkündung. Die zweijährige
+    Übergangsfrist endete am 17.10.2024; seither gilt das Gesetz uneingeschränkt. Die vorgesehene eigenständige
+    Datenschutzbehörde (Lembaga PDP) ist bis heute NICHT errichtet; die Aufgaben nimmt übergangsweise
+    das Kementerian Komunikasi dan Digital (Komdigi) wahr. Die Errichtung war für 2026 angekündigt. Für
+    KI ist das Gesetz die zentrale Norm: Es gewährt ein Recht, gegen ausschließlich automatisierte Entscheidungen
+    Einwände zu erheben.
+
+    '
+  kurzbeschreibung: 'Das Gesetz folgt dem DSGVO-Muster: Rechtsgrundlagen der Verarbeitung, besondere Kategorien
+    personenbezogener Daten, Betroffenenrechte, Pflichten von Verantwortlichen und Auftragsverarbeitern,
+    Meldepflicht bei Verletzungen, Regeln zur Auslandsübermittlung und ein zweispuriges Sanktionssystem.
+    Zu den Betroffenenrechten zählt nach übereinstimmender Darstellung ein Recht, gegen eine ausschließlich
+    auf automatisierter Verarbeitung einschließlich Profilbildung beruhende Entscheidung Einwände zu erheben
+    — die indonesische Entsprechung zu Art. 22 DSGVO und die Norm, an der KI-Entscheidungen in Indonesien
+    heute zu messen sind. Verwaltungssanktionen reichen bis zu 2 % des Jahresumsatzes bzw. -einkommens;
+    die Strafvorschriften sehen für natürliche Personen vier bis sechs Jahre Freiheitsstrafe und Geldstrafe
+    bis 500 Mio. IDR vor, für juristische Personen das Zehnfache.
+
+    '
+  inkrafttreten:
+    datum: 2022-10-17
+    verifiziert: true
+    quelle: https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022
+  anwendungsdaten:
+  - datum: 2024-10-17
+    was_gilt: 'Ablauf der zweijährigen Übergangsfrist; das Gesetz gilt seither uneingeschränkt und ist
+      vollständig durchsetzbar.
+
+      '
+    verifiziert: false
+    quelle: https://www.dlapiperdataprotection.com/index.html?t=law&c=ID
+  - datum: 2026-12-31
+    was_gilt: 'Angekündigte Errichtung der eigenständigen Datenschutzbehörde (Lembaga Pelindungan Data
+      Pribadi); bis dahin nimmt Komdigi die Aufgaben übergangsweise wahr.
+
+      '
+    verifiziert: false
+    quelle: https://www.dlapiperdataprotection.com/index.html?t=law&c=ID
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  - arbeit
+  regelungsschwerpunkte:
+  - Recht, gegen eine ausschließlich auf automatisierter Verarbeitung einschließlich Profilbildung beruhende
+    Entscheidung Einwände zu erheben — die indonesische Art.-22-DSGVO-Entsprechung und der Anknüpfungspunkt
+    für KI-Entscheidungen.
+  - 'Weitere Betroffenenrechte: Information, Berichtigung, Auskunft, Löschung, Widerruf der Einwilligung,
+    Einschränkung der Verarbeitung, Datenübertragbarkeit.'
+  - Verwaltungssanktionen bis 2 % des Jahresumsatzes bzw. -einkommens des Verantwortlichen.
+  - 'Strafvorschriften: 4 bis 6 Jahre Freiheitsstrafe und bis 500 Mio. IDR für natürliche Personen; für
+    juristische Personen das Zehnfache.'
+  - 'AUFSICHTSLÜCKE: Die Lembaga PDP ist nicht errichtet; Komdigi handelt übergangsweise. Das ist die
+    zentrale Schwäche des indonesischen Datenschutzrechts und damit auch der KI-Aufsicht.'
+  dokumente:
+  - datum: 2022-10-17
+    typ: endfassung
+    titel: Undang-undang (UU) Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi
+    url: https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022
+    sprache: id
+    urheber: Badan Pemeriksa Keuangan (BPK), Database Peraturan
+    verifiziert: true
+    notiz: 'AMTLICHE Rechtsdatenbank. Hier abgerufen; belegt Titel, Daten (Festsetzung und Verkündung
+      je 17.10.2022), die Fundstelle LN.2022/No.196, TLN No.6820 und das Inkrafttreten mit dem Tag der
+      Verkündung.
+
+      '
+  - datum: 2022-10-17
+    typ: endfassung
+    titel: UU Nomor 27 Tahun 2022 — amtliche Volltext-PDF
+    url: https://peraturan.bpk.go.id/Download/224884/UU%20Nomor%2027%20Tahun%202022.pdf
+    sprache: id
+    urheber: Badan Pemeriksa Keuangan (BPK)
+    verifiziert: false
+    notiz: 'AMTLICHE Volltext-PDF (34 Seiten Normtext, S. 35-50 Begründung). Der Abruf lieferte in dieser
+      Sitzung Binärdaten ohne verwertbare Textebene; die Artikelnummern der Betroffenenrechte konnten
+      deshalb NICHT geprüft werden.
+
+      '
+  - datum: 2025
+    typ: uebersicht
+    titel: Data protection laws in Indonesia — Data Protection Laws of the World
+    url: https://www.dlapiperdataprotection.com/index.html?t=law&c=ID
+    sprache: en
+    urheber: DLA Piper (Kanzleimonitor)
+    verifiziert: true
+    notiz: 'Sekundärquelle; Grundlage für die Auflistung der Betroffenenrechte einschließlich des Rechts
+      gegen automatisierte Entscheidungen, für den Ablauf der Übergangsfrist am 17.10.2024, für den Übergangsstatus
+      der Aufsicht bei Komdigi und für die Sanktionshöhen.
+
+      '
+  offene_punkte:
+  - DIE ARTIKELNUMMER DES RECHTS GEGEN AUTOMATISIERTE ENTSCHEIDUNGEN IST NICHT BELEGT. Die amtliche PDF
+    war nicht textlesbar, hukumonline lieferte HTTP 404. Diese Nummer (vermutlich im Bereich Pasal 8 bis
+    15) ist der erste Punkt, den der nächste Bearbeiter beschaffen muss — ohne sie lässt sich die Norm
+    nicht zitieren.
+  - Zahl der BAB und Pasal nicht belegt.
+  - Die Durchführungsverordnung zum UU PDP (Peraturan Pelaksana) und der Errichtungsakt der Lembaga PDP
+    sind nicht ermittelt.
+  - Ob Komdigi als Übergangsaufsicht Entscheidungen zu KI-Sachverhalten getroffen und veröffentlicht hat,
+    war nicht feststellbar.
+  monitoring_quellen:
+  - https://peraturan.bpk.go.id/
+  - https://jdih.komdigi.go.id/
+  bezug_regelwerke:
+  - id-se-9-2023
+  - id-uu-ite-1-2024
+  - id-perpres-ki-geplant
+  letzte_pruefung: 2026-09-06
+- id: id-uu-ite-1-2024
+  jurisdiktion: id
+  kurztitel: ITE-Gesetz Indonesien in der Fassung 2024 (UU ITE)
+  offizieller_titel: 'Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor
+    11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Gesetz Nr. 1 von 2024 über die zweite Änderung
+    des Gesetzes Nr. 11 von 2008 über elektronische Information und elektronische Transaktionen)
+
+    '
+  fundstelle: Lembaran Negara RI Tahun 2024 Nomor 1, Tambahan Lembaran Negara Nomor 6905
+  verfahrensnummer: UU No. 1 Tahun 2024
+  status: anwendbar
+  status_detail: 'Ausgefertigt und verkündet am 02.01.2024, in Kraft mit dem Tag der Verkündung. Zweite
+    Novelle des ITE-Stammgesetzes von 2008 nach der ersten Novelle durch UU 19/2016. Das ITE-Gesetz ist
+    Indonesiens zentrales Inhaltsstrafgesetz für den digitalen Raum und damit die Norm, an der Deepfakes
+    und KI-erzeugte Falschinformationen heute entschieden werden — es nennt künstliche Intelligenz allerdings
+    nicht.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt elektronische Informationen, elektronische Dokumente und elektronische
+    Transaktionen sowie verbotene Handlungen im Netz. Die Novelle 2024 hat die Straftatbestände neu geordnet:
+    Pasal 27A mit Pasal 45 Abs. 4 erfasst ehrverletzende Inhalte gegen einzelne Personen, Pasal 28 Abs.
+    2 mit Pasal 45A Abs. 2 die Verbreitung von Inhalten, die Hass oder Feindschaft gegen Gruppen schüren,
+    und Pasal 28 Abs. 3 mit Pasal 45A Abs. 3 Aufwiegelungstatbestände. Diese Vorschriften sind die Auffangnormen
+    für KI-erzeugte Bild-, Ton- und Videomanipulationen; eine ausdrückliche Deepfake- oder KI-Norm enthält
+    das Gesetz nicht. Zusammen mit dem Datenschutzgesetz bildet es den geltenden Rahmen, in dem KI-Sachverhalte
+    in Indonesien zu lösen sind, solange die Präsidialverordnungen ausstehen.
+
+    '
+  inkrafttreten:
+    datum: 2024-01-02
+    verifiziert: true
+    quelle: https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Pasal 27A i.V.m. Pasal 45 Abs. 4: ehrverletzende Inhalte gegen einzelne Personen.'
+  - 'Pasal 28 Abs. 2 i.V.m. Pasal 45A Abs. 2: Verbreitung von Inhalten, die Hass oder Feindschaft gegen
+    Gruppen schüren.'
+  - 'Pasal 28 Abs. 3 i.V.m. Pasal 45A Abs. 3: Aufwiegelung.'
+  - KEINE ausdrückliche KI-, Deepfake- oder Kennzeichnungsvorschrift — die geplante Kennzeichnungspflicht
+    soll erst über eine Ministerialverordnung nach den Präsidialverordnungen kommen.
+  - Ändert UU 11/2008 (Stammgesetz) und UU 19/2016 (erste Novelle).
+  dokumente:
+  - datum: 2024-01-02
+    typ: endfassung
+    titel: Undang-undang (UU) Nomor 1 Tahun 2024 tentang Perubahan Kedua atas UU Nomor 11 Tahun 2008
+    url: https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024
+    sprache: id
+    urheber: Badan Pemeriksa Keuangan (BPK), Database Peraturan
+    verifiziert: true
+    notiz: 'AMTLICHE Rechtsdatenbank. Hier abgerufen; belegt Titel, Daten (02.01.2024), Fundstelle LN
+      2024/1, TLN 6905, die geänderten Gesetze und die genannten Straftatbestände.
+
+      '
+  - datum: 2024-01-02
+    typ: endfassung
+    titel: UU Nomor 1 Tahun 2024 — amtliche Volltext-PDF
+    url: https://peraturan.bpk.go.id/Download/332870/UU%20Nomor%201%20Tahun%202024.pdf
+    sprache: id
+    urheber: Badan Pemeriksa Keuangan (BPK)
+    verifiziert: false
+    notiz: Amtliche Volltext-PDF; in dieser Sitzung nicht ausgewertet.
+  offene_punkte:
+  - Der Wortlaut von Pasal 27A, 28 Abs. 2 und 3 sowie der Strafrahmen wurde nicht am Text geprüft.
+  - Die konsolidierte Fassung des ITE-Gesetzes (UU 11/2008 i.d.F. 19/2016 und 1/2024) wurde nicht beschafft.
+  - Die Durchführungsverordnung PP 71/2019 über die Durchführung elektronischer Systeme und Transaktionen
+    (Penyelenggaraan Sistem dan Transaksi Elektronik) ist NICHT erfasst — sie regelt die Pflichten der
+    Betreiber elektronischer Systeme und ist für KI-Dienste vermutlich einschlägig. Nachzuholen.
+  - Ob nach der Novelle 2024 Gerichtsentscheidungen zu KI-erzeugten Inhalten ergangen sind, war nicht
+    feststellbar.
+  monitoring_quellen:
+  - https://peraturan.bpk.go.id/
+  - https://putusan3.mahkamahagung.go.id/
+  bezug_regelwerke:
+  - id-uu-pdp-27-2022
+  - id-se-9-2023
+  - id-perpres-ki-geplant
+  letzte_pruefung: 2026-09-06
+- id: id-uu-hak-cipta-28-2014
+  jurisdiktion: id
+  kurztitel: Urheberrechtsgesetz Indonesien (UU Hak Cipta 28/2014)
+  offizieller_titel: 'Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta (Gesetz Nr. 28 von 2014 über
+    das Urheberrecht)
+
+    '
+  fundstelle: Lembaran Negara RI Tahun 2014 Nomor 266, Tambahan Lembaran Negara Nomor 5599
+  verfahrensnummer: UU No. 28 Tahun 2014
+  status: anwendbar
+  status_detail: 'Ausgefertigt und verkündet am 16.10.2014, in Kraft mit dem Tag der Verkündung; ersetzt
+    UU 19/2002. Es enthält keine Vorschrift zu KI-erzeugten Werken und keine Text- und Data-Mining-Schranke.
+    Damit steht Indonesien im Gegensatz zu Vietnam, das beides 2026 auf Verordnungsebene geregelt hat.
+
+    '
+  kurzbeschreibung: 'Das Gesetz regelt Urheberrecht und verwandte Schutzrechte. Der Werkbegriff knüpft
+    an eine persönliche Schöpfung an; Urheber (Pencipta) ist die natürliche Person, die das Werk geschaffen
+    hat. KI-erzeugte Erzeugnisse sind damit nach allgemeiner Auffassung nicht schutzfähig, ohne dass das
+    Gesetz das ausspricht. Eine Schranke für Text- und Data-Mining zu Trainingszwecken fehlt; das Training
+    an geschützten Werken ist deshalb nach den allgemeinen Regeln zu beurteilen.
+
+    '
+  inkrafttreten:
+    datum: 2014-10-16
+    verifiziert: true
+    quelle: https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014
+  themenachsen:
+  - urheberrecht
+  regelungsschwerpunkte:
+  - Urheber (Pencipta) ist die natürliche Person, die das Werk geschaffen hat — Grundlage der herrschenden
+    Auffassung, dass KI-Erzeugnisse nicht schutzfähig sind.
+  - KEINE Vorschrift zu KI-erzeugten Werken.
+  - KEINE Text- und Data-Mining-Schranke — Gegensatz zu Vietnams Điều 37a/37b.
+  - Ersetzt UU 19/2002.
+  dokumente:
+  - datum: 2014-10-16
+    typ: endfassung
+    titel: Undang-undang (UU) Nomor 28 Tahun 2014 tentang Hak Cipta
+    url: https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014
+    sprache: id
+    urheber: Badan Pemeriksa Keuangan (BPK), Database Peraturan
+    verifiziert: true
+    notiz: 'AMTLICHE Rechtsdatenbank. Hier abgerufen; belegt Titel, Daten (16.10.2014), Fundstelle LN.2014/No.
+      266, TLN No. 5599 und die Aufhebung von UU 19/2002.
+
+      '
+  - datum: 2014-10-16
+    typ: endfassung
+    titel: UU Nomor 28 Tahun 2014 — amtliche Volltext-PDF
+    url: https://peraturan.bpk.go.id/Download/28018/UU%20Nomor%2028%20Tahun%202014.pdf
+    sprache: id
+    urheber: Badan Pemeriksa Keuangan (BPK)
+    verifiziert: false
+    notiz: Amtliche Volltext-PDF; in dieser Sitzung nicht ausgewertet.
+  offene_punkte:
+  - Der Wortlaut der Legaldefinitionen in Pasal 1 (Pencipta, Ciptaan) wurde NICHT gelesen; die Aussage
+    zum Erfordernis eines menschlichen Urhebers ist deshalb nicht am Text belegt.
+  - Ob in Indonesien ein Reformvorhaben zum Urheberrecht an KI-Erzeugnissen läuft, war nicht feststellbar.
+  - Der Schrankenkatalog (Pasal 43 ff.) ist nicht ausgewertet — ob eine der bestehenden Schranken auf
+    Trainingszwecke passt, ist offen.
+  monitoring_quellen:
+  - https://peraturan.bpk.go.id/
+  - https://dgip.go.id/
+  bezug_regelwerke:
+  - id-uu-ite-1-2024
+  letzte_pruefung: 2026-09-06

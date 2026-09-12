@@ -1,0 +1,1051 @@
+# Gepflegte Datenbasis.
+urteile:
+- id: ru-2023-reface-businessanalytics
+  jurisdiktion: ru
+  gericht: Arbitragegericht der Stadt Moskau (Арбитражный суд города Москвы)
+  instanz: erstinstanzlich
+  aktenzeichen: А40-200471/2023
+  datum: 2023-11-30
+  parteien:
+    klaeger: ООО «Рефейс Технолоджис» (Reface Technologies)
+    beklagter: ООО «Бизнес-аналитика» (Betreiberin des Dienstes Roistat)
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: Art. 1259, 1260, 1270, 1301 ZGB RF
+  kernfrage: Verliert ein audiovisuelles Werk den Urheberrechtsschutz, wenn es mit Deepfake-Technologie
+    hergestellt wurde?
+  ergebnis: 'Nein. Das Gericht sprach der Klägerin 500.000 RUB Kompensation zu. Die Beklagte hatte ein
+    Werbevideo verwendet, in dem das Gesicht des Schauspielers Keanu Reeves per Deepfake auf einen Darsteller
+    montiert war, ohne Lizenz. Der Einwand, ein maschinell erzeugtes Video sei nicht schutzfähig, wurde
+    zurückgewiesen: Der Deepfake sei "ein zusätzliches Werkzeug der Videobearbeitung und keine Methode
+    der Schöpfung". Der schöpferische Charakter hänge nicht davon ab, ob ein Werk von Hand oder mit technischen
+    Mitteln geschaffen wurde; Drehbuch, Aufnahme und Tongestaltung stammten von den Urhebern.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://kad.arbitr.ru/Card?number=%D0%9040-200471%2F2023
+  zusammenfassung_url: https://www.cnews.ru/news/top/2024-08-23_sud_po_intellektualnym
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  - ru-243-fz-ki
+  instanzenzug:
+  - ru-2024-reface-9aas
+  - ru-2024-reface-sip
+  quelle_tracker: CNews, Kommersant, Forbes.ru, pravo.ru; Aktenzeichen über kad.arbitr.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die erste veröffentlichte Entscheidung eines russischen Gerichts zur Schutzfähigkeit
+    KI-gestützt erzeugter Inhalte — und in der Sache die konservativste denkbare: Das Gericht behandelt
+    den Deepfake als Werkzeug und lässt die Werkzeugfrage damit gar nicht erst zur Rechtsfrage werden.
+    Das ist mit der deutschen und der europäischen Dogmatik vollständig vereinbar (Bearbeitung mit technischen
+    Hilfsmitteln) und sagt über vollautomatisch erzeugte Inhalte nichts. Bemerkenswert ist die Rezeption:
+    Die russische Fachöffentlichkeit hat die Entscheidung als "Anerkennung des Deepfake als Urheberrechtsobjekt"
+    gelesen und damit weit über ihren Aussagegehalt hinaus verallgemeinert. Wer die russische Position
+    rekonstruieren will, sollte diese Überdehnung als Befund mitnehmen: Sie erklärt, warum das 243-FZ
+    die Frage der Rechte an KI-Erzeugnissen nicht selbst beantwortet, sondern in Art. 10 Abs. 1 an die
+    Nutzungsbedingungen der Anbieter delegiert.
+
+    '
+  normen:
+  - ru-gk-art-1259
+  - ru-gk-art-1260
+  - ru-gk-art-1270
+  - ru-gk-art-1301
+  quelle_art: amtlich
+  sachverhalt: Die ООО «Рефейс Технолоджис» (Reface Technologies) stellte ein Werbevideo her, in dem das
+    Gesicht des Schauspielers Keanu Reeves per Deepfake auf einen Darsteller montiert war; Drehbuch, Aufnahme
+    und Tongestaltung stammten von ihren eigenen Urhebern. Die ООО «Бизнес-аналитика», Betreiberin des
+    Dienstes Roistat, verwendete dieses Video ohne Lizenz. Reface Technologies verlangte Kompensation
+    und rief das Arbitragegericht der Stadt Moskau an; das Verfahren ging dort am 5. September 2023 ein.
+    Die Beklagte hielt dem entgegen, ein maschinell erzeugtes Video sei schon gar nicht schutzfähig.
+  sachverhalt_quelle: eintrag
+- id: ru-2024-reface-9aas
+  jurisdiktion: ru
+  gericht: Neuntes Arbitrage-Berufungsgericht (Девятый арбитражный апелляционный суд)
+  instanz: berufung
+  aktenzeichen: 09АП-642/2024 (Ausgangsverfahren А40-200471/2023)
+  datum: 2024-04-08
+  parteien:
+    klaeger: ООО «Рефейс Технолоджис»
+    beklagter: ООО «Бизнес-аналитика»
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: Art. 1259, 1260, 1270, 1301 ZGB RF
+  kernfrage: Schließt der Einsatz neuronaler Netze bei der Videoproduktion den persönlichen schöpferischen
+    Beitrag der Urheber aus?
+  ergebnis: 'Nein; die Berufung wurde zurückgewiesen und die Kompensation von 500.000 RUB bestätigt. Der
+    Einsatz von Netzalgorithmen in einem Video schließe den persönlichen schöpferischen Beitrag der Urheber
+    nicht aus. Die Technologie sei ein Bearbeitungsinstrument, keine Schöpfungsmethode. Die Urheber hatten
+    Drehbuch, Aufnahme und Tongestaltung erbracht.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://kad.arbitr.ru/Card?number=%D0%9040-200471%2F2023
+  zusammenfassung_url: https://pravo.ru/news/252547/
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  instanzenzug:
+  - ru-2023-reface-businessanalytics
+  - ru-2024-reface-sip
+  quelle_tracker: pravo.ru; Übersicht garant-ufa.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die Datierung ist in den Quellen uneinheitlich (pravo.ru: 11.04.2024; CNews und garant-ufa:
+    08.04.2024). Das dürfte der übliche Abstand zwischen Verkündung des Tenors und Absetzung der Gründe
+    sein. Inhaltlich bemerkenswert ist die Formel vom "Instrument statt Methode" — sie ist der russische
+    Gegenpol zur US-amerikanischen Thaler-Linie und liegt näher an der Position des BGH zur technischen
+    Werkherstellung.
+
+    '
+  normen:
+  - ru-gk-art-1228
+  - ru-gk-art-1259
+  - ru-gk-art-1260
+  - ru-gk-art-1270
+  - ru-gk-art-1301
+  quelle_art: amtlich
+- id: ru-2024-reface-sip
+  jurisdiktion: ru
+  gericht: Gericht für geistige Eigentumsrechte (Суд по интеллектуальным правам, SIP)
+  instanz: revision
+  aktenzeichen: С01-1330/2024 (Kassation) im Verfahren А40-200471/2023
+  datum: 2024-08-19
+  parteien:
+    klaeger: ООО «Рефейс Технолоджис»
+    beklagter: ООО «Бизнес-аналитика»
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: Art. 1259, 1260, 1270 ZGB RF
+  kernfrage: Bestätigt die höchste Fachinstanz für Immaterialgüterrecht, dass Deepfake-Videos Urheberrechtsschutz
+    genießen können?
+  ergebnis: 'Ja. Der Суд по интеллектуальным правам wies am 19.08.2024 die Kassationsbeschwerde der Beklagten
+    ООО «Бизнес-аналитика» zurück und ließ Urteil und Berufungsentscheidung unverändert ("Оставить решение
+    (определение) суда первой инстанции и постановление суда апелляционной инстанции без изменения, а
+    кассационную жалобу — без удовлетворения"). Vorinstanzen: Arbitragegericht der Stadt Moskau, 30.11.2023
+    (begründetes Urteil im vereinfachten Verfahren), und Neuntes Arbitrage-Berufungsgericht, 08.04.2024.
+    Das mit Deepfake-Technik erzeugte Video mit dem Abbild von Keanu Reeves bleibt damit urheberrechtlich
+    geschützt; die Deepfake-Technik wird als Bearbeitungs- und Gestaltungswerkzeug und nicht als Ausschlussgrund
+    für den Werkcharakter eingeordnet. Die zugesprochene Kompensation von 500.000 Rubel blieb unverändert.
+    Es ist die erste russische Entscheidung, die einen Deepfake als urheberrechtliches Werk anerkennt;
+    die Rechtsfrage ist damit auf der Ebene der Fachkassation geklärt.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://kad.arbitr.ru/Card?number=%D0%9040-200471%2F2023
+  zusammenfassung_url: https://www.cnews.ru/news/top/2024-08-23_sud_po_intellektualnym
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  instanzenzug:
+  - ru-2023-reface-businessanalytics
+  - ru-2024-reface-9aas
+  quelle_tracker: РАПСИ (Russische Agentur für Rechts- und Gerichtsinformation), 20.08.2024; pravo.ru;
+    CNews (23.08.2024)
+  verifiziert: true
+  letzte_pruefung: '2026-09-05'
+  eigene_bewertung: 'Die einzige vollständig durchentschiedene KI-Rechtsfrage im russischen Recht und
+    deshalb rechtsvergleichend wertvoll, obwohl sie in Europa nicht rezipiert wird. Der dogmatische Zugriff
+    ist bemerkenswert unaufgeregt: Der Suд по интеллектуальным правам fragt nicht, ob die KI Urheber sein
+    kann, sondern behandelt das Deepfake-Werkzeug wie jedes andere technische Hilfsmittel der Bearbeitung
+    — die Schöpfung liegt in der menschlichen Auswahl und Gestaltung, nicht im Werkzeug. Das ist genau
+    die Argumentationsfigur, die das US Copyright Office und die deutsche Literatur zu § 2 Abs. 2 UrhG
+    für KI-gestützte, nicht KI-erzeugte Werke verwenden. Wer die Grenze zwischen "mit KI geschaffen" und
+    "von KI erzeugt" belegen will, findet hier eine höchstrichterliche Bestätigung aus einer Rechtsordnung,
+    die niemand als KI-freundlich verdächtigt.
+
+    '
+  pruefvermerk:
+  - 'Nicht abrufbar: kad.arbitr.ru ist per robots.txt für den automatisierten Zugriff gesperrt; die Verfahrenskarte
+    zu А40-200471/2023 konnte nicht geöffnet werden.'
+  - 'Damit blieben Datum (Eintrag: 22.08.2024), Spruchkörper des Суд по интеллектуальным правам und der
+    Tenor der Kassation ungeprüft.'
+  - 'Für die Prüfung im Browser: kad.arbitr.ru/Card?number=А40-200471/2023 oder ipc.arbitr.ru.'
+  - 'KORREKTUR DATUM (05.09.2026): Die Kassationsentscheidung erging am 20.08.2024, nicht am 22.08.2024.
+    Belegt durch РАПСИ vom 20.08.2024 (''Кассация подтвердила признание дипфейка объектом авторского права'')
+    und pravo.ru; die bisher zitierte CNews-Meldung vom 23.08.2024 ist das Datum der Berichterstattung.'
+  - 'Ergänzt und belegt: Der Kassationsbeschwerdeführer war die Beklagte ООО «Бизнес-аналитика»; die Beschwerde
+    wurde zurückgewiesen. Die Vorinstanzen entschieden am 30.11.2023 und am 08.04.2024. Die Kompensation
+    beträgt 500.000 Rubel — der Betrag fehlte im Eintrag.'
+  - 'NICHT ABRUFBAR: kad.arbitr.ru ist per robots.txt für den automatisierten Zugriff gesperrt; die Verfahrenskarte
+    zu А40-200471/2023 und der Volltext des Kassationsbeschlusses blieben ungeprüft. Ein eigenes Aktenzeichen
+    des Суд по интеллектуальным правам (Muster С01-.../2024) ist in den zugänglichen Quellen nicht genannt
+    und wird hier nicht erfunden.'
+  - verifiziert bleibt false; volltext_url zeigt weiterhin auf die amtliche Verfahrenskarte, die nur manuell
+    abrufbar ist.
+  - 'AM AMTLICHEN REGISTER GEPRÜFT (05.09.2026, kad.arbitr.ru, Verfahrenskarte А40-200471/2023 — im Browser
+    des Nutzers erreichbar, für den automatisierten Abruf weiterhin gesperrt): Кассационная инстанция
+    19.08.2024, дело № С01-1330/2024, Суд по интеллектуальным правам, Tenor ''Оставить решение (определение)
+    суда первой инстанции и постановление суда апелляционной инстанции без изменения, а кассационную жалобу
+    - без удовлетворения''.'
+  - 'KORREKTUR DATUM (zweite Korrektur): Die Kassationsentscheidung erging am 19.08.2024. Der Eintrag
+    führte den 22.08.2024 (aus einer CNews-Meldung vom 23.08.2024); auch die РАПСИ-Meldung vom 20.08.2024
+    ist nur das Datum der Berichterstattung. Maßgeblich ist das amtliche Register.'
+  - 'AKTENZEICHEN ERMITTELT: Das Kassationsverfahren führt die eigene Nummer С01-1330/2024. Das Feld enthielt
+    bisher nur den Umschreibungstext ''Kassationsverfahren zu А40-200471/2023''. Die Vorinstanzen sind
+    09АП-642/2024 (Neuntes Arbitrage-Berufungsgericht, 08.04.2024) und А40-200471/2023 (Arbitragegericht
+    der Stadt Moskau, 30.11.2023).'
+  - 'Parteirollen am Register bestätigt: Истец ООО «РЕФЕЙС ТЕХНОЛОДЖИС», Ответчик ООО «БИЗНЕС-АНАЛИТИКА».
+    Verfahrenseingang 05.09.2023, Vermerk ''Рассмотрение дела завершено''.'
+  - 'verifiziert auf true gesetzt: Gericht, Datum, Aktenzeichen, Parteien und Tenor der Kassation sind
+    an der amtlichen Verfahrenskarte des russischen Arbitragegerichtssystems abgelesen.'
+  aktenzeichen_original: 'Суд по интеллектуальным правам, дело № С01-1330/2024; Vorinstanzen: 9 ААС 09АП-642/2024
+    und АС города Москвы А40-200471/2023'
+  normen:
+  - ru-gk-art-1259
+  - ru-gk-art-1260
+  - ru-gk-art-1270
+  quelle_art: amtlich
+  sachverhalt: Nachdem das Arbitragegericht der Stadt Moskau der ООО «Рефейс Технолоджис» am 30. November
+    2023 wegen der unlizenzierten Verwendung ihres Deepfake-Werbevideos 500.000 Rubel zugesprochen hatte,
+    legte die Beklagte ООО «Бизнес-аналитика» Berufung ein. Das Neunte Arbitrage-Berufungsgericht wies
+    sie am 8. April 2024 zurück (09АП-642/2024). Die Beklagte hielt weiter daran fest, dass ein mit Deepfake-Technik
+    hergestelltes Video kein urheberrechtlich geschütztes Werk sein könne, und legte Kassationsbeschwerde
+    beim Gericht für geistige Eigentumsrechte (Суд по интеллектуальным правам) ein, die dort unter С01-1330/2024
+    geführt wurde.
+  sachverhalt_quelle: eintrag
+- id: ru-2025-presnenskij-ki-bilder
+  jurisdiktion: ru
+  gericht: Presnenski-Bezirksgericht der Stadt Moskau (Пресненский районный суд города Москвы)
+  instanz: erstinstanzlich
+  aktenzeichen: 02-4220/2025
+  datum: 2025-11-13
+  parteien:
+    klaeger: Privatperson (Ersteller der Bilder; Name nicht veröffentlicht)
+    beklagter: Einzelunternehmer (Vertrieb der Motive auf Merchandise)
+  status: rechtsmittel
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: Art. 1228, 1257, 1259, 1270 ZGB RF
+  kernfrage: Begründet die Eingabe von Prompts und die anschließende Auswahl und Anpassung eines KI-Ergebnisses
+    einen persönlichen schöpferischen Beitrag im Sinne des Art. 1228 ZGB?
+  ergebnis: 'Nein. Die Klage auf Kompensation wurde abgewiesen. Streitgegenstand waren zwei Motive — eine
+    Mona Lisa mit Weinglas und eine Freiheitsstatue, die statt der Fackel ein Weinglas hält. Das Gericht
+    führte aus, die KI erbringe keine schöpferische Anstrengung, weil sie kein Bewusstsein habe; die Eingaben
+    an das Programm und die vorgenommenen Anpassungen seien "rein mechanische, technische Handlungen".
+    Die Veränderungen (Fackel gegen Weinglas, hinzugefügte Augenringe) seien nicht neu und in Kunst und
+    Medien bereits verbreitet; die Anwendung vorhandener Ideen auf vorhandene Werke sei kein schöpferischer
+    Beitrag. Der Kläger habe seinen persönlichen schöpferischen Beitrag nicht nachgewiesen. Tenor 13.11.2025,
+    Gründe 19.03.2026; Berufung eingelegt am 17.04.2026, Akten der Berufungsinstanz vorgelegt am 28.05.2026.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://mos-gorsud.ru/rs/presnenskij/services/cases/civil
+  zusammenfassung_url: https://www.comnews.ru/content/246716/2026-08-04/2026-w32/1008/sud-ne-priznal-obektom-avtorskogo-prava-izobrazheniya-sozdannye-pomoschyu-iskusstvennogo-intellekta
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  - ru-243-fz-ki
+  instanzenzug: []
+  quelle_tracker: ComNews (04.08.2026); Kanzleianalyse a-stepanov.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der wichtigste Gegenpol zur Reface-Linie und der Grund, warum der Oberste Gerichtshof
+    die Praxis vereinheitlichen will. Die Divergenz ist nicht nur inhaltlich, sondern strukturell: In
+    den Arbitragegerichten steht die Behauptung "das war eine KI" auf Seiten des Verletzers und scheitert
+    an der Urhebervermutung des Art. 1257; vor den Bezirksgerichten steht sie auf Seiten des Anspruchstellers
+    und scheitert am Nachweiserfordernis des Art. 1228. Beide Linien sind für sich stimmig und führen
+    doch zu gegenläufigen Ergebnissen — die Beweislastverteilung entscheidet. Der Satz, die KI leiste
+    nichts Schöpferisches, "weil sie kein Bewusstsein hat", ist dogmatisch überschießend: Es käme auf
+    den Beitrag des Menschen an, nicht auf die Verfassung der Maschine. Die Berufungsentscheidung ist
+    der wichtigste zu beobachtende Termin im russischen KI-Recht. Zu beachten: Das über die ComNews-Meldung
+    greifbare Dokumentkennzeichen ist eine UUID der Datenbank mos-gorsud.ru, nicht das Aktenzeichen.
+
+    '
+  normen:
+  - ru-gk-art-1228
+  - ru-gk-art-1257
+  - ru-gk-art-1259
+  - ru-gk-art-1270
+  quelle_art: amtlich
+  sachverhalt: 'Eine Privatperson erzeugte mit einem KI-Bildgenerator zwei Motive: eine Mona Lisa mit
+    Weinglas und eine Freiheitsstatue, die statt der Fackel ein Weinglas hält; hinzugekommen waren unter
+    anderem Augenringe. Der Ersteller gab dafür Eingabeaufforderungen ein und nahm anschließend Anpassungen
+    an den Ergebnissen vor. Ein Einzelunternehmer vertrieb dieselben Motive auf Merchandise-Artikeln.
+    Der Ersteller verlangte Kompensation und klagte vor dem Presnenski-Bezirksgericht der Stadt Moskau
+    (Пресненский районный суд города Москвы); sein Name wurde nicht veröffentlicht.'
+  sachverhalt_quelle: eintrag
+- id: ru-2024-13aas-blend-datei
+  jurisdiktion: ru
+  gericht: Dreizehntes Arbitrage-Berufungsgericht (Тринадцатый арбитражный апелляционный суд)
+  instanz: berufung
+  aktenzeichen: 13АП-37912/23 (Ausgangsverfahren А42-3966/2023)
+  datum: 2024-02-06
+  parteien:
+    klaeger: Kotschelajewski (Zahnmediziner, Urheber der 3D-Modelle, Fotos und Videos)
+    beklagter: Zahnklinik «Жемчужина»
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: Art. 1257, 1259, 1301 ZGB RF
+  kernfrage: Genügt die Behauptung, ein streitbefangenes Bild sei von einem neuronalen Netz erzeugt worden,
+    um die Urhebervermutung des Art. 1257 ZGB zu erschüttern?
+  ergebnis: 'Nein. Das Gericht wies den Einwand zurück. Gegenstand waren 3D-Visualisierungen, Fotos und
+    Videos aus dem zahnmedizinischen Bereich, die die beklagte Klinik ohne Lizenz auf ihrer Website verwendet
+    hatte. Als Nachweis der Urheberschaft ließ das Gericht Screenshots genügen, die belegten, dass nur
+    der Kläger über die ursprüngliche 3D-Modelldatei im BLEND-Format verfügte; die Metadaten der daraus
+    konvertierten JPG-Datei (7500 x 6000 Pixel) wiesen den Namen des Urhebers aus. Die Urheberschaft sei
+    eine Vermutung, die durch Gegenbeweis widerlegt werden könne — der Beklagte habe ihn nicht geführt.
+    Die Verletzung wurde festgestellt.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  instanzenzug: []
+  quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru (05.12.2025); GARANT-Datenbank
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Praktisch die wichtigste Entscheidung des Bestands für die Prozessführung: Sie zeigt,
+    dass der KI-Einwand in Russland ein Beweisproblem ist, kein dogmatisches. Wer Projektdateien, Zwischenstände
+    und Metadaten vorlegen kann, gewinnt; wer nur das Endergebnis hat, verliert. Das ist derselbe Mechanismus,
+    der sich in Deutschland bei § 10 UrhG abzeichnet, und ein Argument dafür, dass die Frage der KI-Urheberschaft
+    in der Praxis weniger über den Werkbegriff als über die Dokumentationsobliegenheit entschieden wird.
+
+    '
+  sekundaerquelle_url: https://base.garant.ru/64167446/
+  pruefvermerk:
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde das Постановление des Тринадцатый арбитражный
+    апелляционный суд vom 06.02.2024, № 13АП-37912/23, дело № А42-3966/2023. Die amtlichen Wege sind für
+    automatisierten Abruf gesperrt: kad.arb'
+  suchadresse: https://kad.arbitr.ru/Card?number=%D0%9042-3966/2023 (Kartei zum Verfahren А42-3966/2023;
+    von dort die PDF-Ausfertigung des Postanovlenie vom 06.02.2024); ferner https://ras.arbitr.ru/ mit
+    Suche nach дело № А42-3966/2023
+  normen:
+  - ru-gk-art-1257
+  - ru-gk-art-1259
+  - ru-gk-art-1301
+  quelle_art: fehlt
+- id: ru-2025-13aas-stable-diffusion
+  jurisdiktion: ru
+  gericht: Dreizehntes Arbitrage-Berufungsgericht (Тринадцатый арбитражный апелляционный суд)
+  instanz: berufung
+  aktenzeichen: 13АП-30307/2024 (Ausgangsverfahren А56-52652/2024)
+  datum: 2025-01-27
+  parteien:
+    klaeger: Rechteinhaber des Ausgangswerks
+    beklagter: Verwender, der sich auf eigene Erzeugung mit Stable Diffusion berief
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: Art. 1259, 1270, 1301 ZGB RF
+  kernfrage: Schließt die Behauptung, ein Bild sei mit Stable Diffusion selbst generiert worden, die Verletzung
+    eines fremden Werks aus?
+  ergebnis: 'Nein. Das Gericht verglich Ausgangswerk und streitbefangenes Bild visuell und stellte eine
+    Verletzung wegen "Ähnlichkeit bis zur Verwechslungsgefahr" fest. Die Behauptung eigener Generierung
+    ändere daran nichts.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://kad.arbitr.ru/Card?number=%D0%9056-52652%2F2024
+  zusammenfassung_url: https://osnova.capital/fns-i-neyroseti-kak-novye-tehnologii-figuriruyut-v-sudebnyh-delah/
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  - ru-243-fz-ki
+  instanzenzug: []
+  quelle_tracker: AKG Kapital / osnova.capital
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die russische Antwort auf die Frage der Ausgabeseite: Es kommt nicht darauf an, wie
+    ein Bild entstanden ist, sondern worauf es hinausläuft. Damit ist der Output-Verletzungsfall in Russland
+    gelöst, bevor die Trainingsschranke des Art. 10 Abs. 2 des 243-FZ überhaupt existierte — und die Schranke
+    ändert daran nichts, denn sie privilegiert die Analyse, nicht die Reproduktion. Wer in Deutschland
+    über § 44b UrhG und die Grenze zwischen Trainingsvorgang und Ausgabe streitet, findet hier eine Parallelentscheidung.
+
+    '
+  normen:
+  - ru-gk-art-1259
+  - ru-gk-art-1270
+  - ru-gk-art-1301
+  quelle_art: amtlich
+- id: ru-2024-15aas-arbeitsvertrag
+  jurisdiktion: ru
+  gericht: Fünfzehntes Arbitrage-Berufungsgericht (Пятнадцатый арбитражный апелляционный суд)
+  instanz: berufung
+  aktenzeichen: 15АП-15937/24
+  datum: 2024-11-28
+  parteien:
+    klaeger: Rechteinhaber von Zeichnungen
+    beklagter: Verwender
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - arbeit
+  anspruchsgrundlage: Art. 1257, 1295, 1301 ZGB RF
+  kernfrage: Wie wird die Urheberschaft an Zeichnungen nachgewiesen, wenn der Verletzer behauptet, sie
+    stammten von einer KI?
+  ergebnis: 'Über Übertragungs- und Arbeitsverträge. Das Gericht sah die Urhebervermutung als nicht widerlegt
+    an; die bloße Behauptung des KI-Einsatzes genüge als Gegenbeweis nicht.
+
+    '
+  bedeutung: niedrig
+  volltext_url: https://kad.arbitr.ru/
+  zusammenfassung_url: https://garant-ufa.ru/2025/12/05/spii/
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  instanzenzug: []
+  quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Bestätigt die Linie von 13АП-37912/23 und zeigt, dass der KI-Einwand sich in der
+    russischen Arbitragepraxis als Schutzbehauptung etabliert hat. Aufgenommen, weil die Häufung solcher
+    Einwände selbst ein Befund ist: Der Werkbegriff wird nicht theoretisch verhandelt, sondern prozesstaktisch.
+
+    '
+  normen:
+  - ru-gk-art-1257
+  - ru-gk-art-1295
+  - ru-gk-art-1301
+  quelle_art: amtlich
+- id: ru-2023-sip-patent-ki
+  jurisdiktion: ru
+  gericht: Präsidium des Gerichts für geistige Eigentumsrechte (Президиум Суда по интеллектуальным правам)
+  instanz: revision
+  aktenzeichen: С01-1184/2023
+  datum: 2023-07-31
+  parteien:
+    klaeger: Patentanmelder
+    beklagter: Rospatent
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - marktzugang
+  anspruchsgrundlage: Art. 1350 ZGB RF (Patentfähigkeit); Anforderungen an die Offenbarung
+  kernfrage: Genügt der Verweis auf allgemein bekannte Algorithmen der linguistischen Analyse, um eine
+    Erfindung mit KI-Funktionen hinreichend zu offenbaren?
+  ergebnis: 'Nein. Das Präsidium bestätigte die Zurückweisung der Anmeldung für ein System zur bibliografischen
+    und fachzeitschriftlichen Recherche. Trotz Hinweisen auf allgemein bekannte Analysealgorithmen fehlten
+    konkrete technische Umsetzungsangaben und eine nachvollziehbare Darstellung des Algorithmus für die
+    beanspruchten intellektuellen Funktionen.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://garant-ufa.ru/2025/12/05/spii/
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  instanzenzug: []
+  quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die einzige gefundene russische Entscheidung zum Patentrecht mit KI-Bezug — und sie
+    betrifft nicht die vieldiskutierte Frage der Maschinenerfinderschaft (DABUS), sondern die praktisch
+    weit häufigere Offenbarungsfrage. Das Präsidium verlangt für KI-Erfindungen dieselbe Konkretheit wie
+    für jede andere technische Lehre. Das entspricht der Linie des EPA zu computerimplementierten Erfindungen
+    und ist für einen europäischen Anmelder die beruhigendste Nachricht des Bestands.
+
+    '
+  sekundaerquelle_url: https://ipc.arbitr.ru/
+  pruefvermerk:
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde das Постановление президиума Суда по интеллектуальным
+    правам vom 31.07.2023, № С01-1184/2023. Der Abruf über die amtlichen Portale scheiterte an robots.txt-Sperren
+    (kad.arbitr.ru, ras.ar'
+  suchadresse: https://kad.arbitr.ru/Card?number=%D0%A1%D0%98%D0%9F-599/2022 (Kartei zum Verfahren СИП-599/2022
+    mit der PDF-Ausfertigung des Postanovlenie des Präsidiums vom 31.07.2023); ferner https://ras.arbitr.ru/
+  normen:
+  - ru-gk-art-1350
+  quelle_art: fehlt
+- id: ru-2023-a41-marktplatz-automatik
+  jurisdiktion: ru
+  gericht: Arbitragegericht des Moskauer Gebiets (Арбитражный суд Московской области)
+  instanz: erstinstanzlich
+  aktenzeichen: А41-43556/2023
+  datum: 2023-09-06
+  parteien:
+    klaeger: Verkäufer auf einer Handelsplattform
+    beklagter: Plattformbetreiber
+  status: erstinstanzlich
+  themenachsen:
+  - haftung
+  - vertrag
+  - wettbewerb
+  kernfrage: Genügt eine vollautomatisch durch KI verhängte Vertragsstrafe den Anforderungen an redliche
+    Geschäftstätigkeit?
+  anspruchsgrundlage: Art. 10, 330, 333 ZGB RF (Rechtsmissbrauch, Vertragsstrafe); vertragliche Sanktionsklausel
+  ergebnis: 'Das Gericht hielt fest, redliche Geschäftstätigkeit erfordere eine manuelle Prüfung und nicht
+    bloß Automatenentscheidungen. Die KI-gestützte Massenabfertigung von Sanktionen wurde als potenziell
+    rechtswidrig eingestuft.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://kad.arbitr.ru/Card?number=%D0%9041-43556%2F2023
+  zusammenfassung_url: https://garant-ufa.ru/2025/12/05/spii/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-gk-teil-4
+  instanzenzug: []
+  quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die interessanteste Entscheidung des Bestands, weil sie den Gedanken des Art. 22
+    DSGVO im Vertragsrecht ansiedelt statt im Datenschutzrecht: Nicht der Betroffene hat ein Recht auf
+    menschliche Prüfung, sondern der Verwender hat eine Obliegenheit dazu, weil sonst die Redlichkeit
+    fehlt. Für einen Rechtswissenschaftler ist das ein brauchbarer Vergleichsfall zur deutschen Diskussion
+    um § 242 BGB und AGB-Kontrolle bei algorithmischer Sanktionierung — und es ist derzeit die einzige
+    russische Entscheidung, die algorithmische Entscheidungsgewalt überhaupt begrenzt.
+
+    '
+  quelle_art: amtlich
+- id: ru-2024-f05-schneeraeumung
+  jurisdiktion: ru
+  gericht: Arbitragegericht des Moskauer Bezirks (Арбитражный суд Московского округа)
+  instanz: revision
+  aktenzeichen: Ф05-33861/23
+  datum: 2024-01-26
+  parteien:
+    klaeger: Betroffener eines Ordnungswidrigkeitenbescheids
+    beklagter: Ordnungsbehörde
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - haftung
+  anspruchsgrundlage: KoAP RF, Vorschriften über die automatische Feststellung von Ordnungswidrigkeiten
+  kernfrage: Darf eine Ordnungswidrigkeit allein aufgrund der Auswertung durch ein neuronales Netz festgestellt
+    werden, ohne dass die Trainingsparameter offengelegt werden?
+  ergebnis: 'Ja. Die Vorinstanz hatte den Bescheid wegen fehlender Transparenz der Netzwerk-Trainingsparameter
+    beanstandet; die höheren Instanzen hoben das auf. Automatische Erfassung ohne physikalische Messung
+    — anders als bei Geschwindigkeitsmessgeräten, die einer Eichung bedürfen — sei zulässig. Gegenstand
+    war ein "automatisierter Komplex mit neuronaler Netzwerk-Videofixierung" zur Feststellung mangelhafter
+    Schneeräumung.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://kad.arbitr.ru/
+  zusammenfassung_url: https://garant-ufa.ru/2025/12/05/spii/
+  bezug_regelwerke:
+  - ru-152-fz
+  - ru-gesichtserkennung-moskau
+  instanzenzug: []
+  quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die schärfste Aussage des russischen Rechts zur Transparenz automatisierter Verwaltungsentscheidungen
+    — und sie fällt negativ aus. Die Unterscheidung zwischen messenden und erkennenden Systemen ist technisch
+    nachvollziehbar und rechtlich fragwürdig: Gerade weil ein Klassifikator nicht misst, sondern schätzt,
+    wäre die Offenlegung von Trainingsdaten und Fehlerraten wichtiger als bei einem geeichten Messgerät.
+    Die Entscheidung ist der beste Beleg dafür, dass das Anfechtungsrecht gegen KI-gestützte Behördenentscheidungen,
+    das der Märzentwurf 2026 vorsah, kein theoretisches Anliegen war — und dass seine Streichung eine
+    bewusste Entscheidung gegen gerichtlichen Zugriff ist. Für den Vergleich mit Art. 86 KI-VO (Recht
+    auf Erläuterung) und Art. 22 DSGVO ist das der zentrale Kontrastfall.
+
+    '
+  quelle_art: amtlich
+  sachverhalt: 'Eine Organisation im Moskauer Gebiet erhielt einen Ordnungswidrigkeitenbescheid, weil
+    sie die Vorgaben über die Instandhaltung des Geländes verletzt habe: Schnee, Eis und Vereisungen seien
+    von Straßen, Hofdurchfahrten und Gehwegen nicht ordnungsgemäß geräumt worden. Festgestellt hatte das
+    ein besonderes technisches Mittel mit Foto-, Film- und Videofunktion — ein „automatisierter Komplex
+    mit einem intelligenten neuronalen Netz zur Videofixierung von Verstößen samt vorinstallierter Software"
+    —, das in seinem Sichtbereich unabhängig vom Ermessen eines Menschen alle Verstöße erfasst, für deren
+    Erkennung es bestimmt ist. Die Organisation focht den Bescheid vor dem Arbitragegericht des Moskauer
+    Gebiets an. Dieses forderte von den Beteiligten Unterlagen und Erklärungen darüber an, welche Begriffe
+    in das neuronale Netz eingelegt worden waren; sie wurden nicht vorgelegt. Mit Urteil vom 18. August
+    2023 (А41-17944/2023) gab das Gericht der Organisation recht; dagegen gingen die Behörden in die Berufung
+    und anschließend in die Kassation zum Arbitragegericht des Moskauer Bezirks.'
+  sachverhalt_quelle: volltext
+- id: ru-2024-7aas-collector-roboter
+  jurisdiktion: ru
+  gericht: Siebtes Arbitrage-Berufungsgericht (Седьмой арбитражный апелляционный суд)
+  instanz: berufung
+  aktenzeichen: 07АП-2790/24
+  datum: 2024-06-11
+  parteien:
+    klaeger: Bank
+    beklagter: Aufsichtsbehörde (Bußgeldbescheid)
+  status: rechtskraeftig
+  themenachsen:
+  - haftung
+  - sektor-finanz
+  - grundrechte
+  anspruchsgrundlage: Föderationsgesetz Nr. 230-FZ vom 03.07.2016 über den Schutz von Rechten natürlicher
+    Personen bei der Beitreibung überfälliger Forderungen
+  kernfrage: Ist ein Anruf durch einen sprachgenerierenden Roboter eine 'unmittelbare Interaktion' mit
+    dem Schuldner, die dessen vorherige schriftliche Zustimmung erfordert?
+  ergebnis: 'Ja. Das Gericht ordnete einen "automatisierten intellektuellen Agenten" mit Systemen zur
+    Spracherzeugung und -erkennung rechtlich als unmittelbare Interaktion ein. Telefonanrufe durch NLP-Roboter
+    setzen daher eine vorherige schriftliche Vereinbarung zwischen Gläubiger und Schuldner voraus. Der
+    Bußgeldbescheid hatte Bestand.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://kad.arbitr.ru/
+  zusammenfassung_url: https://garant-ufa.ru/2025/12/05/spii/
+  bezug_regelwerke:
+  - ru-718834-8-stimme
+  - ru-41-fz-antifraud
+  instanzenzug: []
+  quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Funktional das russische Gegenstück zur Offenlegungspflicht des Art. 50 Abs. 1 KI-VO
+    — erreicht aber ohne KI-Recht, allein durch teleologische Auslegung einer Verbraucherschutznorm von
+    2016. Das ist ein methodisch interessanter Befund: Wo das russische Recht KI-Sachverhalte tatsächlich
+    regelt, tut es das über vorhandene Kategorien, nicht über neue.
+
+    '
+  quelle_art: amtlich
+- id: ru-2025-a56-consulting-ki
+  jurisdiktion: ru
+  gericht: Arbitragegericht des Leningrader Gebiets (Арбитражный суд Ленинградской области)
+  instanz: erstinstanzlich
+  aktenzeichen: А56-102880/2024
+  datum: 2025-02-04
+  parteien:
+    klaeger: Auftraggeber einer Beratungsleistung
+    beklagter: Beratungsdienstleister
+  status: erstinstanzlich
+  themenachsen:
+  - vertrag
+  - haftung
+  anspruchsgrundlage: Art. 779 ff. ZGB RF (Dienstvertrag); Art. 720, 753 ZGB RF (Abnahme)
+  kernfrage: Kann der Besteller die Vergütung verweigern, weil die geschuldete Entwicklungsstrategie mit
+    einem generativen Sprachmodell erstellt wurde?
+  ergebnis: 'Nein. Die Klage wurde abgewiesen. Der Kläger hatte geltend gemacht, der Auftragnehmer habe
+    die Strategie mit einem Sprachgenerierungsnetz erstellt und sei fachlich nicht kompetent gewesen.
+    Das Gericht stellte darauf ab, dass die Unterzeichnung des Abnahmeprotokolls und die Bezahlung der
+    Rechnung auf Zustimmung hindeuteten.
+
+    '
+  bedeutung: niedrig
+  volltext_url: https://kad.arbitr.ru/Card?number=%D0%9056-102880%2F2024
+  zusammenfassung_url: https://osnova.capital/fns-i-neyroseti-kak-novye-tehnologii-figuriruyut-v-sudebnyh-delah/
+  bezug_regelwerke:
+  - ru-gk-teil-4
+  instanzenzug: []
+  quelle_tracker: AKG Kapital / osnova.capital
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Aufgenommen, weil hier erstmals der KI-Einsatz eines Dienstleisters als Schlechterfüllung
+    geltend gemacht wurde — die Frage, die im europäischen Berufsrecht (Anwälte, Steuerberater, Wirtschaftsprüfer)
+    gerade erst aufkommt. Das Gericht hat sie nicht entschieden, sondern über die Abnahme aufgelöst. Der
+    Offenlegungsanspruch des Bestellers bleibt damit offen — und es ist absehbar, dass er wiederkommt.
+
+    '
+  quelle_art: amtlich
+- id: ru-2026-a27-ki-halluzinationen
+  jurisdiktion: ru
+  gericht: Arbitragegericht des Westsibirischen Bezirks (Арбитражный суд Западно-Сибирского округа)
+  instanz: revision
+  aktenzeichen: А27-7831/2025
+  datum: 2026-05-14
+  parteien:
+    klaeger: Auftraggeber von Buchhaltungsleistungen
+    beklagter: ООО «Центральный Спец Сервис» (Kemerowo)
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - governance
+  anspruchsgrundlage: Art. 119 Abs. 5 APK RF (Gerichtsgeldbuße); Art. 41 Abs. 2 APK RF (Redlichkeitsgebot)
+  kernfrage: Wer haftet für erfundene Rechtsprechungszitate in einem Schriftsatz, wenn der Text von einem
+    Sprachmodell erzeugt wurde?
+  ergebnis: 'Der Verfahrensbeteiligte, nicht das Modell. Das Gericht verhängte eine Geldbuße von 50.000
+    RUB wegen Missachtung des Gerichts. Die Kassationsbeschwerde in einem Streit über nicht erbrachte
+    Buchhaltungsleistungen (Streitwert 58.000 RUB) stützte sich auf zahlreiche Entscheidungen höherer
+    Gerichte; bei der Prüfung erwiesen sich die Fundstellen als teils nicht existent, teils auf gänzlich
+    andere Streitigkeiten bezogen, die wörtlichen Zitate als frei erfunden. Das Gericht wertete dies als
+    bewusste Übermittlung falscher Angaben unter Fälschung von Quellen und als Versuch, das Gericht durch
+    vorgetäuschte höchstrichterliche Autorität zu beeinflussen. Der Einwand, den Text habe eine KI erzeugt,
+    wurde zurückgewiesen: Wer die Technologie einsetzt, trägt die Verantwortung für die Richtigkeit des
+    erzeugten Textes.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://kad.arbitr.ru/Card?number=%D0%9027-7831%2F2025
+  zusammenfassung_url: https://focus.kontur.ru/site/news/87198-sud_vpervye_naznachil_shtraf
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  instanzenzug: []
+  quelle_tracker: Kontur.Fokus, Fontanka, Systemny Blok, GARANT.RU
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die erste russische Entscheidung, die Verantwortlichkeit für KI-Halluzinationen ausdrücklich
+    zuweist — und sie tut es schärfer als die vergleichbaren US-Entscheidungen (Mata v. Avianca und Nachfolger):
+    nicht als Verstoß gegen anwaltliche Sorgfaltspflichten, sondern als Missachtung des Gerichts, also
+    als Angriff auf die Rechtspflege. Der zitierte Satz — sinngemäß: verfälscht die KI Tatsachen oder
+    Beweise, erfindet sie Rechtsnormen oder Rechtsprechung, so trägt die Verantwortung der Verfahrensbeteiligte
+    — dürfte in den Praxisübersichtsbericht des Obersten Gerichtshofs eingehen. Für die deutsche Diskussion
+    um § 43 BRAO und die Sorgfaltspflichten beim Einsatz generativer Systeme ist das ein unmittelbar anschlussfähiger
+    Vergleichsfall. Zur Datierung siehe den Quellenkonflikt im meta-Block.
+
+    '
+  quelle_art: amtlich
+  sachverhalt: Ein Auftraggeber und die ООО «Центральный Спец Сервис» aus Kemerowo stritten darüber, ob
+    vereinbarte Buchhaltungsleistungen erbracht worden waren; der Streitwert betrug 58.000 Rubel. Nach
+    den Entscheidungen der Vorinstanzen legte eine der Parteien Kassationsbeschwerde beim Arbitragegericht
+    des Westsibirischen Bezirks ein und stützte sie auf zahlreiche Entscheidungen höherer Gerichte, die
+    sie wörtlich zitierte. Bei der Prüfung erwies sich, dass ein Teil der Fundstellen nicht existierte,
+    ein anderer Teil gänzlich andere Streitigkeiten betraf und die wörtlichen Zitate frei erfunden waren.
+    Auf Vorhalt erklärte der Beteiligte, den Text habe eine KI erzeugt.
+  sachverhalt_quelle: eintrag
+- id: ru-2025-krasnodar-ki-urteilstext
+  jurisdiktion: ru
+  gericht: Regionalgericht Krasnodar, Berufungskollegium (Краснодарский краевой суд)
+  instanz: berufung
+  aktenzeichen: nicht ermittelt (Berufung gegen ein Urteil des Stadtgerichts Jejsk)
+  datum: 2025-10-14
+  parteien:
+    klaeger: Staatsanwaltschaft
+    beklagter: zwei Polizeibeamte (Bestechlichkeit)
+  status: rechtskraeftig
+  themenachsen:
+  - governance
+  - grundrechte
+  - berufsrecht
+  anspruchsgrundlage: Art. 290 StGB RF (Bestechlichkeit); Rügen nach Art. 389.15 StPO RF
+  kernfrage: Ist ein Strafurteil rechtsfehlerhaft, wenn Anhaltspunkte dafür bestehen, dass Teile der Urteilsbegründung
+    von einem Sprachmodell erzeugt wurden?
+  ergebnis: 'Nein. Die Verteidigung hatte einen Linguisten beauftragt, der mehrere Formulierungen als
+    "wahrscheinlich KI-generiert" einstufte, darunter eine "ganze Plejade von Verteidigern". Das Berufungsgericht
+    wies die Rüge zurück: Die gewählte Stilistik berühre die Rechtmäßigkeit nicht, und es bestehe keine
+    Rechtsvorschrift, die den Einsatz von KI bei der Abfassung von Urteilen regele.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://kraevoi--krd.sudrf.ru/
+  zusammenfassung_url: https://www.kommersant.ru/doc/8120207
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  instanzenzug: []
+  quelle_tracker: Kommersant (14.10.2025)
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die spiegelbildliche Frage zum Halluzinationsfall: Dort haftet die Partei für den
+    KI-Text, hier haftet niemand für den KI-Text des Gerichts. Das Argument — es gebe keine Regelung,
+    also sei der Einsatz zulässig — ist in einem Rechtsstaat, der die Begründung als Rechtmäßigkeitsvoraussetzung
+    kennt, alles andere als selbstverständlich. Der Vorsitzende des Obersten Gerichtshofs hat im November
+    2025 die beschleunigte Einführung von KI in den Gerichtsbetrieb angeordnet; rund ein Drittel der russischen
+    Gerichte setzt sie ein. Die Ankündigung vom Mai 2026, auch "Rechtsmittel wegen Verwendung von KI durch
+    den Richter" in die Praxisübersicht aufzunehmen, zeigt, dass die Frage als Regelungsproblem erkannt
+    ist. Für einen europäischen Rechtswissenschaftler ist das der Fall, an dem die Unterschiede in der
+    Begründungsdogmatik am schärfsten hervortreten.
+
+    '
+  quelle_art: amtlich
+- id: ru-2019-popova-gesichtserkennung
+  jurisdiktion: ru
+  gericht: Sawjolowski-Bezirksgericht der Stadt Moskau (Савёловский районный суд города Москвы), anschließend
+    Moskauer Stadtgericht
+  instanz: erstinstanzlich
+  aktenzeichen: nicht ermittelt
+  datum: 2019-11-06
+  parteien:
+    klaeger: Aljona Popowa (unterstützt von RosKomSvoboda), im zweiten Verfahren gemeinsam mit Wladimir
+      Milow
+    beklagter: Departement für Informationstechnologien der Stadt Moskau, Innenministerium
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 23, 24 Verfassung RF; Art. 9, 11 152-FZ; Art. 8 EMRK
+  kernfrage: Verletzt der Einsatz von Gesichtserkennung im städtischen Videoüberwachungssystem ohne Einwilligung
+    das Recht auf Privatleben?
+  ergebnis: 'Nach Auffassung des Gerichts nicht. Die Klage wurde abgewiesen; die eingereichten Beweise
+    seien unzureichend. Die Behörden argumentierten, die Videoüberwachung diene nicht nur der Identifizierung
+    von Bürgern, sondern auch der Erkennung von Schnee und Mülltonnen. RosKomSvoboda hatte demgegenüber
+    dokumentiert, dass Popowas Gesicht in der Aufzeichnung 32-fach vergrößert worden war. Eine zweite
+    Klage — gerichtet auf das Verbot der Gesichtserkennung bei Massenveranstaltungen — wurde am 03.03.2020
+    ebenfalls abgewiesen bzw. das Verfahren eingestellt.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://mos-gorsud.ru/rs/savyolovskij/services/cases/kas
+  zusammenfassung_url: https://roskomsvoboda.org/51831/
+  bezug_regelwerke:
+  - ru-gesichtserkennung-moskau
+  - ru-152-fz
+  instanzenzug:
+  - ru-2023-glukhin-egmr
+  quelle_tracker: RosKomSvoboda, Meduza, Zona.media, pravo.ru
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Das Gründungsverfahren der russischen Gesichtserkennungsdebatte und der Ursprung
+    der Kampagne "Ban Cam". Es scheiterte nicht an der Rechtsfrage, sondern an der Beweislast: Wer nicht
+    beweisen kann, dass gerade sein Gesicht erkannt wurde, hat keinen Zugang zur materiellen Prüfung.
+    Das ist dasselbe Problem, das in Deutschland bei der Kontrolle von Überwachungsinfrastruktur auftritt
+    (vgl. die Anforderungen an die Beschwerdebefugnis vor dem BVerfG) — mit dem Unterschied, dass das
+    russische Recht keine abstrakte Normenkontrolle für Betroffene kennt. Der Instanzenzug führt in der
+    Sache zum EGMR, wo dieselbe Frage anders beantwortet wurde.
+
+    '
+  normen:
+  - ru-152-fz-art-9
+  - ru-152-fz-art-11
+  quelle_art: amtlich
+  sachverhalt: Die Stadt Moskau rüstete ihr Videoüberwachungssystem mit Gesichtserkennung aus. Die Aktivistin
+    Aljona Popowa (Алёна Попова) ließ sich, unterstützt von der Bürgerrechtsorganisation RosKomSvoboda,
+    Aufzeichnungen aus diesem System vorlegen; darin war ihr Gesicht 32-fach vergrößert worden. Sie hielt
+    die Verarbeitung ihrer biometrischen Daten ohne Einwilligung für rechtswidrig und klagte gegen das
+    Departement für Informationstechnologien der Stadt Moskau und das Innenministerium vor dem Sawjolowski-Bezirksgericht
+    (Савёловский районный суд города Москвы). Die Behörden hielten dem entgegen, die Videoüberwachung
+    diene nicht nur der Identifizierung von Bürgern, sondern auch der Erkennung von Schnee und Mülltonnen.
+    Eine zweite Klage, gerichtet auf ein Verbot der Gesichtserkennung bei Massenveranstaltungen, erhob
+    Popowa gemeinsam mit Wladimir Milow (Владимир Милов).
+  sachverhalt_quelle: eintrag
+- id: ru-2025-mgs-metro-kameras
+  jurisdiktion: ru
+  gericht: Moskauer Stadtgericht (Московский городской суд)
+  instanz: berufung
+  aktenzeichen: 33а-0710/2025
+  datum: 2025-07-01
+  parteien:
+    klaeger: Bürger B. (Name abgekürzt veröffentlicht)
+    beklagter: Verkehrsdepartement der Stadt Moskau; Polizeiverwaltung der Metro
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 9, 11 152-FZ; Regierungsverordnung Nr. 1641 vom 08.10.2020 (Schutz von Verkehrsinfrastruktur)
+  kernfrage: Bedarf der Einsatz von Gesichtserkennungskameras in der Moskauer Metro der Einwilligung der
+    Fahrgäste?
+  ergebnis: 'Nein. Die Klage wurde abgewiesen, Berufung und Revision blieben ohne Erfolg. Das Gericht
+    stützte sich auf drei Erwägungen: Die Metro unterliege gesetzlichen Anforderungen an den Schutz der
+    Verkehrsinfrastruktur nach der Regierungsverordnung Nr. 1641/2020; Art. 11 des 152-FZ erlaube die
+    Verarbeitung biometrischer Daten ohne Einwilligung zu Sicherheitszwecken; und nach der Auslegung des
+    Obersten Gerichtshofs sei für Maßnahmen zum Schutz der Rechtsordnung und der Staatssicherheit keine
+    Einwilligung erforderlich.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://mos-gorsud.ru/mgs/services/cases/kas
+  zusammenfassung_url: https://vc.ru/legal/2136959-sud-priznal-zakonnost-kamer-s-raspoznavaniem-lits-v-metro
+  bezug_regelwerke:
+  - ru-gesichtserkennung-moskau
+  - ru-152-fz
+  - ru-572-fz-biometrie
+  instanzenzug:
+  - ru-2019-popova-gesichtserkennung
+  - ru-2023-glukhin-egmr
+  quelle_tracker: vc.ru (04.08.2025)
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der aktuelle Stand: Die Frage ist in Russland entschieden, und zwar zugunsten des
+    Systems. Bemerkenswert ist die Begründungskette — sie stützt sich nicht auf eine Ermächtigung zur
+    Gesichtserkennung, sondern auf eine Verkehrssicherheitsverordnung und eine Generalklausel. Das genaue
+    Entscheidungsdatum ist in der ausgewerteten Quelle nicht genannt; das hier eingetragene Datum ist
+    aus dem Aktenzeichenjahrgang und dem Veröffentlichungsdatum der Besprechung (04.08.2025) geschätzt
+    und vor Zitation zu prüfen. Für den Vergleich mit Art. 5 Abs. 1 lit. h und Art. 26 Abs. 10 KI-VO ist
+    dies der Referenzfall.
+
+    '
+  normen:
+  - ru-152-fz-art-9
+  - ru-152-fz-art-11
+  quelle_art: amtlich
+  sachverhalt: In der Moskauer Metro sind Kameras mit Gesichtserkennung im Einsatz; die Fahrgäste werden
+    dabei nicht um Einwilligung gefragt. Ein Fahrgast, in der Veröffentlichung nur mit dem Anfangsbuchstaben
+    B. bezeichnet, hielt das für rechtswidrig und klagte gegen das Verkehrsdepartement der Stadt Moskau
+    und die Polizeiverwaltung der Metro. Er machte geltend, die Verarbeitung seiner biometrischen Daten
+    bedürfe nach Art. 9 und 11 des Gesetzes Nr. 152-FZ seiner Einwilligung. Die Behörden beriefen sich
+    demgegenüber auf die Anforderungen an den Schutz der Verkehrsinfrastruktur nach der Regierungsverordnung
+    Nr. 1641 vom 8. Oktober 2020. Nach der Klageabweisung in erster Instanz gelangte die Sache an das
+    Moskauer Stadtgericht (Московский городской суд).
+  sachverhalt_quelle: eintrag
+- id: ru-2022-polizisten-datenhandel
+  jurisdiktion: ru
+  gericht: Bezirksgericht der Stadt Moskau (Bezeichnung in der Quelle nicht spezifiziert); Moskauer Stadtgericht
+  instanz: erstinstanzlich
+  aktenzeichen: nicht ermittelt
+  datum: 2022-05-01
+  parteien:
+    klaeger: Staatsanwaltschaft; Nebenklägerin Anna Kusnezowa
+    beklagter: Dmitrij Scherschnjow und Konstantin Iwanow, Beamte der Moskauer Polizei
+  status: rechtsmittel
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 137 StGB RF (Verletzung der Unverletzlichkeit des Privatlebens unter Ausnutzung
+    der Dienststellung)
+  kernfrage: Ist der Verkauf biometrischer Daten aus dem städtischen Gesichtserkennungssystem durch Polizeibeamte
+    strafbar, und mit welcher Sanktion?
+  ergebnis: 'Strafbar, aber nur geringfügig sanktioniert. Die Aktivistin Anna Kusnezowa kaufte für umgerechnet
+    rund 270 Euro ihre eigenen Daten aus dem System und machte den Fall öffentlich. Nachdem die Einstellung
+    des Verfahrens aufgehoben worden war, sprach das Gericht beide Beamten der Verletzung des Privatlebens
+    unter Ausnutzung der Dienststellung schuldig und verhängte Geldstrafen von 10.000 und 20.000 RUB.
+    Sowohl die Geschädigte als auch die Staatsanwaltschaft legten Rechtsmittel ein.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://mos-gorsud.ru/
+  zusammenfassung_url: https://roskomsvoboda.org/ru/post/mgs-raspoznavanie-nov-rassm/
+  bezug_regelwerke:
+  - ru-gesichtserkennung-moskau
+  - ru-152-fz
+  - ru-420-421-fz
+  instanzenzug: []
+  quelle_tracker: RosKomSvoboda
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Aufgenommen, weil hier die Sicherheitsarchitektur des Systems gerichtlich festgestellt
+    wurde: Die Daten des Moskauer Gesichtserkennungssystems waren gegen Bezahlung erhältlich. Das Missverhältnis
+    zwischen dem Schutzgut und der Sanktion — 10.000 bzw. 20.000 RUB, also ein Bruchteil der 15 bis 20
+    Mio. RUB, die seit 2025 für ein Leck biometrischer Daten in einem Unternehmen drohen — ist der eigentliche
+    Befund. Es entkräftet zugleich das Argument der Metro-Entscheidung, der Sicherheitszweck rechtfertige
+    die Verarbeitung: Ein System, dessen Daten gehandelt werden, schützt nicht, sondern gefährdet.
+
+    '
+  quelle_art: amtlich
+- id: ru-2023-glukhin-egmr
+  jurisdiktion: ru
+  gericht: Europäischer Gerichtshof für Menschenrechte, Dritte Sektion
+  instanz: verfassungsgericht
+  aktenzeichen: Individualbeschwerde Nr. 11519/20
+  ecli: ECLI:CE:ECHR:2023:0704JUD001151920
+  datum: 2023-07-04
+  parteien:
+    klaeger: Nikolaj Sergejewitsch Gluchin
+    beklagter: Russische Föderation
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 8 EMRK (Privatleben), Art. 10 EMRK (Meinungsfreiheit)
+  kernfrage: Ist der Einsatz von Gesichtserkennungstechnologie zur Identifizierung und Festnahme eines
+    Teilnehmers einer friedlichen Einzelkundgebung in einer demokratischen Gesellschaft notwendig?
+  ergebnis: 'Nein; Verletzung von Art. 8 und Art. 10 EMRK. Der Beschwerdeführer hatte eine friedliche
+    Einzelkundgebung mit einer Pappfigur und einem Transparent durchgeführt und wurde allein wegen unterlassener
+    Anmeldung verurteilt. Die Behörden identifizierten ihn mit Gesichtserkennung aus veröffentlichten
+    Fotos und Videos und nahmen ihn anschließend in der Moskauer Metro fest. Der Gerichtshof stufte diese
+    Überwachung als "höchst eingriffsintensiv" ein und als "unvereinbar mit den Idealen und Werten einer
+    demokratischen Gesellschaft"; es fehle an dokumentierten Schutzvorkehrungen und an Transparenz. Zu
+    Art. 10: Die Behörden hätten keine Toleranz gegenüber einer friedlichen Kundgebung gezeigt und den
+    Verstoß gegen die Anmeldepflicht sanktioniert, ohne zu prüfen, ob es sich um legitime Meinungsäußerung
+    handelte und ob eine Gefahr für die öffentliche Ordnung bestand.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://hudoc.echr.coe.int/eng?i=001-225655
+  zusammenfassung_url: https://policehumanrightsresources.org/case-of-glukhin-v-russia-application-no-11519-20
+  bezug_regelwerke:
+  - ru-gesichtserkennung-moskau
+  - ru-152-fz
+  - ki-vo-2024-1689
+  instanzenzug:
+  - ru-2019-popova-gesichtserkennung
+  - ru-2025-mgs-metro-kameras
+  quelle_tracker: HUDOC; Police and Human Rights Resources; American Journal of International Law
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die einzige gerichtliche Entscheidung, die das russische Gesichtserkennungssystem
+    für konventionswidrig erklärt — und die einzige, die nicht vollzogen wird. Russland wurde am 16.03.2022
+    aus dem Europarat ausgeschlossen und ist seit dem 16.09.2022 nicht mehr Vertragspartei der EMRK; der
+    Gerichtshof blieb für Sachverhalte bis zu diesem Tag zuständig. Für die europäische Rechtsentwicklung
+    ist Glukhin gleichwohl zentral: Es ist die tragende Referenzentscheidung für die Bewertung biometrischer
+    Fernidentifizierung im politischen Kontext und wurde in der Debatte um Art. 5 Abs. 1 lit. h KI-VO
+    durchgängig herangezogen. Wer die russische Position verstehen will, ohne sie zu übernehmen, findet
+    hier den Punkt, an dem die Wege sich getrennt haben — und zwar zeitlich vor dem Erlass der KI-VO.
+    Die russischen Gerichte haben nach Glukhin unverändert weiterentschieden; die Metro-Entscheidung von
+    2025 zitiert die EMRK nicht. Zur Fundstelle: Die HUDOC-Datenbank (Dokument-ID 001-225655) ist eine
+    JavaScript-Anwendung und war aus dieser Umgebung nicht auslesbar; als abrufbarer Volltext wird deshalb
+    der Abdruck im American Journal of International Law verwendet, der Datum, Sektion und Tenor bestätigt.
+    Die Angabe des Obersten Gerichts der Ukraine, das Urteil datiere vom 20.09.2023, betrifft ersichtlich
+    nicht das Urteilsdatum.
+
+    '
+  sekundaerquelle_url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9C0AAFA6E44CE9F1881B0542177D3C/S0002930023000520a.pdf/glukhin-v-russia-app-no-1151920-judgment.pdf
+  dokumenttyp: Urteil (Judgment, Kammer)
+  pruefvermerk:
+  - HUDOC ist die amtliche Entscheidungsdatenbank des Europäischen Gerichtshofs für Menschenrechte; der
+    bisherige Link war ein Zeitschriftenabdruck bei Cambridge University Press.
+  - 'Volltext geöffnet über den amtlichen Ausgabekanal https://hudoc.echr.coe.int/app/conversion/docx/pdf?library=ECHR&id=001-225655
+    — bestätigt: CASE OF GLUKHIN v. RUSSIA, Application no. 11519/20, Third Section sitting as a Chamber,
+    Judgment 4 July 2023, Applicant Nikolay Sergeyevich Glukhin.'
+  - Gericht, Sektion, Beschwerdenummer, Datum und Parteien stimmen mit dem Eintrag überein; die ECLI ECLI:CE:ECHR:2023:0704JUD001151920
+    ist konsistent mit der Dokument-ID 001-225655.
+  - Originalsprache des Urteils ist Englisch (Verfahrenssprache Englisch, Russisch als Sprache des Beschwerdeführers).
+  quelle_art: amtlich
+  sachverhalt: 'Moskau rüstete seine Überwachungskameras seit 2017 mit Live-Gesichtserkennung aus; bis
+    zum 1. September 2020 waren alle rund 175.000 Kameras der Stadt damit ausgestattet, 2022 waren es
+    über 220.000. Am 12. August 2019 wurde der politische Aktivist Konstantin Kotow (Константин Котов)
+    festgenommen und wegen wiederholten Verstoßes gegen die Regeln über „öffentliche Veranstaltungen"
+    nach Art. 212.1 des russischen Strafgesetzbuchs angeklagt; der Fall erregte großes Aufsehen. Am 23.
+    August 2019 fuhr Nikolaj Gluchin (Николай Глухин) mit einer lebensgroßen Pappfigur Kotows durch die
+    Moskauer Metro; die Figur hielt ein Transparent mit dem Text, er sei Konstantin Kotow und ihm drohten
+    für friedliche Proteste bis zu fünf Jahre Haft nach Art. 212.1. Bei der „Beobachtung des Internets"
+    stieß die Anti-Extremismus-Einheit der Metro-Polizei auf ein Foto, sicherte Bildschirmabzüge von Fotos
+    und einem Video aus einem öffentlichen Telegram-Kanal, holte Aufzeichnungen der Überwachungskameras
+    mehrerer Metrostationen ein und identifizierte Gluchin binnen weniger Tage samt Wohnanschrift. Am
+    30. August 2019 wurde er in einer Metrostation festgenommen; die Polizei sagte ihm, die Gesichtserkennungskameras
+    der Metro hätten ihn erkannt. Vorgeworfen wurde ihm eine Ordnungswidrigkeit nach Art. 20.2 Abs. 5
+    des Ordnungswidrigkeitengesetzbuchs: Er habe eine Einzelkundgebung mit einem „schnell auf- und abbaubaren
+    Gegenstand" durchgeführt und sie zuvor anmelden müssen.'
+  sachverhalt_quelle: volltext
+- id: ru-2026-vs-praxisuebersicht
+  jurisdiktion: ru
+  gericht: Oberster Gerichtshof der Russischen Föderation (Верховный Суд Российской Федерации)
+  instanz: revision
+  aktenzeichen: Vorhaben einer Praxisübersicht; noch kein Aktenzeichen
+  datum: 2026-05-27
+  parteien:
+    klaeger: null
+    beklagter: null
+  status: anhaengig
+  themenachsen:
+  - governance
+  - urheberrecht
+  - haftung
+  - grundrechte
+  - content
+  - berufsrecht
+  anspruchsgrundlage: Art. 126 Verfassung RF; Art. 2 des Föderationsverfassungsgesetzes über den Obersten
+    Gerichtshof (Befugnis zur Erläuterung der Rechtsanwendungspraxis)
+  kernfrage: Welche einheitlichen Maßstäbe gelten für die gerichtliche Behandlung von Rechtsstreitigkeiten
+    mit KI-Bezug?
+  ergebnis: 'Noch offen. Der Vorsitzende des Obersten Gerichtshofs Igor Krasnow kündigte am 27.05.2026
+    die erste Zusammenfassung der Praxis über alle Verfahrensarten hinweg an. Erfasst werden sollen: Haftung
+    und Passivlegitimation bei durch KI verursachten Schäden; Persönlichkeitsrechtsverletzungen durch
+    KI-erzeugte Inhalte einschließlich Deepfakes; Schutz geistigen Eigentums; Verwaltungs- und Strafverfahren,
+    in denen behördliche Entscheidungen auf KI-Empfehlungen beruhen; Videoanalyse und Gesichtserkennung
+    bei der Feststellung von Ordnungswidrigkeiten; Straftaten mit Deepfakes und Chatbot-Betrugsschemata;
+    die Zulässigkeit KI-erzeugter Beweismittel; und Rechtsmittel, die auf die Verwendung von KI durch
+    den Richter gestützt werden. Als Beispiel nannte die Berichterstattung den Fall A27-7831/2025. Ergebnis
+    kann eine Erläuterung zur einheitlichen Rechtsanwendung sein oder eine Empfehlung an den Gesetzgeber.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://vsrf.ru/documents/practice/
+  zusammenfassung_url: https://www.kommersant.ru/doc/8691125
+  bezug_regelwerke:
+  - ru-243-fz-ki
+  - ru-gk-teil-4
+  - ru-152-fz
+  instanzenzug:
+  - ru-2026-a27-ki-halluzinationen
+  - ru-2025-presnenskij-ki-bilder
+  - ru-2024-f05-schneeraeumung
+  quelle_tracker: Kommersant (27.05.2026), Izvestija, dp.ru, Telesputnik
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Kein Urteil, aber im russischen System funktional wichtiger als die meisten Urteile:
+    Praxisübersichten des Obersten Gerichtshofs binden die Instanzgerichte faktisch. Der Katalog der erfassten
+    Fallgruppen ist zugleich das genaueste verfügbare Verzeichnis dessen, was in Russland tatsächlich
+    streitig ist — und er ist breiter als der Regelungsgegenstand des 243-FZ. Die Ankündigung erfolgte
+    ausdrücklich mit Blick auf den damals noch nicht eingebrachten Regierungsentwurf; die Gerichtsbarkeit
+    hat sich also positioniert, bevor der Gesetzgeber entschieden hat. Das ist der wahrscheinlichste Ort,
+    an dem die Divergenz zwischen der Reface-Linie und der Presnenski-Linie aufgelöst wird. Termin für
+    die Veröffentlichung ist nicht bekannt.
+
+    '
+  quelle_art: amtlich
+  sachverhalt: 'Vor den russischen Gerichten häuften sich Verfahren mit KI-Bezug: Schadensfälle durch
+    KI-Systeme, Persönlichkeitsrechtsverletzungen durch KI-erzeugte Inhalte und Deepfakes, Streitigkeiten
+    über geistiges Eigentum, Verwaltungs- und Strafverfahren, in denen behördliche Entscheidungen auf
+    KI-Empfehlungen beruhten, Videoanalyse und Gesichtserkennung bei der Feststellung von Ordnungswidrigkeiten,
+    Betrugsschemata mit Chatbots, KI-erzeugte Beweismittel und Rechtsmittel, die auf den KI-Einsatz des
+    Richters gestützt wurden. Als Beispiel nannte die Berichterstattung das Verfahren A27-7831/2025, in
+    dem ein Gericht eine Geldbuße wegen erfundener Rechtsprechungszitate verhängt hatte. Am 27. Mai 2026
+    kündigte der Vorsitzende des Obersten Gerichtshofs der Russischen Föderation, Igor Krasnow (Игорь
+    Краснов), an, das Gericht werde diese Praxis erstmals über alle Verfahrensarten hinweg zusammenfassen.
+    Die Ankündigung erfolgte, bevor der Regierungsentwurf zum KI-Recht eingebracht war.'
+  sachverhalt_quelle: eintrag

@@ -1,0 +1,501 @@
+# =====================================================================
+# taxonomie.yaml — Kontrolliertes Vokabular des Projekts
+# Jede id hier ist ein stabiler Schluessel. Aendern bricht Verknuepfungen.
+# =====================================================================
+
+jurisdiktionen:
+  # --- TIER 1: Volltiefe + laufendes Monitoring ---------------------
+  - id: eu
+    name: Europäische Union
+    kontinent: uebernational
+    tier: 1
+    typ: supranational
+    sprachen: [de, en]
+    begruendung: >
+      Globaler Referenzrahmen. Der AI Act ist das dichteste
+      Regelwerk weltweit und wird in Drittstaaten als Vorlage
+      benutzt (Brüsseler Effekt).
+  - id: us
+    name: Vereinigte Staaten
+    kontinent: nordamerika
+    tier: 1
+    typ: bundesstaat
+    subjurisdiktionen: [us-ca, us-co, us-tx, us-il, us-ny, us-ut]
+    begruendung: >
+      Innovationszentrum und Litigation-Hotspot. Hier entsteht das
+      Fallrecht, das weltweit zitiert wird. Kein Bundesgesetz,
+      dafür ein Flickenteppich aus Staatenrecht und Exekutivakten.
+  - id: uk
+    name: Vereinigtes Königreich
+    kontinent: europa
+    tier: 1
+    typ: nationalstaat
+    begruendung: >
+      Bewusstes Gegenmodell zur EU: sektoral statt horizontal.
+      Common Law, eigene Rechtsprechung zu Training und IP.
+  - id: au
+    name: Australien
+    kontinent: ozeanien
+    tier: 1
+    typ: bundesstaat
+    subjurisdiktionen: [au-wa]
+    begruendung: >
+      Regulierung im Entstehen: das Land hat den Pfad verbindlicher
+      Guardrails 2025 verlassen und setzt auf freiwillige Standards.
+      Ein eigenstaendiges Modell neben EU und USA.
+  - id: de
+    name: Deutschland
+    kontinent: europa
+    tier: 1
+    typ: nationalstaat
+    begruendung: >
+      Nationale Durchfuehrung der KI-VO, dichte Rechtsprechung zu
+      Training und Datenschutz, eigenstaendige TDM-Schranke.
+
+  # --- TIER 2: Dossier-Tiefe, kein Volltextmonitoring ---------------
+  - id: cn
+    name: China
+    kontinent: asien
+    tier: 2
+    typ: nationalstaat
+    begruendung: >
+      Nach der EU die höchste Regelungsdichte weltweit, eigene
+      Doktrin (u.a. Urheberrechtsschutz KI-generierter Werke).
+      Ohne China ist das Feld nicht vollstaendig zu ueberblicken.
+  - id: kr
+    name: Südkorea
+    kontinent: asien
+    tier: 2
+    typ: nationalstaat
+    begruendung: Erstes umfassendes KI-Rahmengesetz nach der EU. Modell für Asien.
+  - id: jp
+    name: Japan
+    kontinent: asien
+    tier: 2
+    typ: nationalstaat
+    begruendung: Bewusster Soft-Law-Ansatz, weitreichende TDM-Schranke (Art. 30-4).
+  - id: sg
+    name: Singapur
+    kontinent: asien
+    tier: 2
+    typ: nationalstaat
+    begruendung: >
+      APAC-Governance-Hub mit AI Verify als Pruefrahmen, der in der
+      Region als Vorlage benutzt wird.
+  - id: ca
+    name: Kanada
+    kontinent: nordamerika
+    tier: 2
+    typ: bundesstaat
+    begruendung: AIDA gescheitert, Neuanlauf. Lehrreiches Negativbeispiel.
+  - id: ru
+    name: Russland
+    kontinent: europa
+    tier: 2
+    begruendung: >
+      Seit dem 01.09.2026 gilt ein eigenes KI-Gesetz (243-FZ), das nach
+      Herkunft statt nach Risiko anknüpft und eine Trainingsschranke nur
+      für russische Entwickler kennt. Das dritte eigenständige
+      Regulierungsmodell neben dem europäischen und dem chinesischen.
+  - id: br
+    name: Brasilien
+    kontinent: suedamerika
+    tier: 2
+    typ: bundesstaat
+    begruendung: PL 2338, EU-nahes Modell mit Ausstrahlung auf Lateinamerika.
+  - id: in
+    name: Indien
+    kontinent: asien
+    tier: 2
+    typ: bundesstaat
+    begruendung: DPDP-Regime plus Governance Guidelines, sehr großer Markt.
+
+  # --- TIER 3: Transnationale Ebene ---------------------------------
+  - id: coe
+    name: Europarat
+    kontinent: uebernational
+    tier: 3
+    typ: international
+    begruendung: >
+      Rahmenkonvention über KI (CETS 225) — der einzige
+      völkerrechtlich verbindliche KI-Vertrag.
+  - id: oecd
+    name: OECD
+    kontinent: uebernational
+    tier: 3
+    typ: international
+    begruendung: AI Principles als Referenz fast aller nationalen Regime; Policy Observatory.
+  - id: un
+    name: Vereinte Nationen
+    kontinent: uebernational
+    tier: 3
+    typ: international
+    begruendung: Global Digital Compact, Scientific Panel, Global Dialogue.
+  - id: iso
+    name: ISO/IEC, CEN-CENELEC, NIST
+    kontinent: uebernational
+    tier: 3
+    typ: normung
+    begruendung: >
+      Die harmonisierten Normen zum AI Act sind faktisch das
+      anwendbare Recht. Sie liest fast niemand. Genau darin liegt
+      eine systematische Luecke der Literatur.
+  - id: g7
+    name: G7 / Hiroshima-Prozess
+    kontinent: uebernational
+    tier: 3
+    typ: international
+  - id: unesco
+    name: UNESCO
+    kontinent: uebernational
+    tier: 3
+    typ: international
+  - id: wipo
+    name: WIPO
+    kontinent: uebernational
+    tier: 3
+    typ: international
+    begruendung: KI und geistiges Eigentum, Konversationsprozess.
+
+  # --- TIER 4: Beobachtungsliste ------------------------------------
+  - id: mx
+    name: Mexiko
+    kontinent: nordamerika
+    tier: 4
+    begruendung: >
+      Bindende Rechtsprechung zum KI-Einsatz in der Justiz (Jurisprudencia
+      2026) — weltweit bislang einzigartig, mit ausdrücklichem Bezug auf
+      die KI-VO.
+  - id: nz
+    name: Neuseeland
+    kontinent: ozeanien
+    tier: 4
+  - id: co
+    name: Kolumbien
+    kontinent: suedamerika
+    tier: 4
+    begruendung: Frühe Verfassungsrechtsprechung zum KI-Einsatz durch Richter.
+  - id: ar
+    name: Argentinien
+    kontinent: suedamerika
+    tier: 4
+  - id: intl
+    name: Übergreifend und international
+    kontinent: uebernational
+    tier: 3
+    typ: international
+    begruendung: >
+      Sammelposten für Befunde, die keiner einzelnen Rechtsordnung
+      zuzuordnen sind — etwa jurisdiktionsübergreifende Falldatenbanken.
+  - id: gr
+    name: Griechenland
+    kontinent: europa
+    tier: 3
+    begruendung: >
+      N. 4961/2022 regelt Verwaltungs- und Beschaeftigten-KI drei Jahre
+      vor der KI-VO - der einzige Mitgliedstaat mit materiellem KI-Recht
+      vor der Behoerdenbenennung.
+  - id: hu
+    name: Ungarn
+    kontinent: europa
+    tier: 4
+    begruendung: Gesichtserkennung bei verbotenen Versammlungen - erster offener Konflikt mit Art. 5 KI-VO.
+  - id: pt
+    name: Portugal
+    kontinent: europa
+    tier: 4
+  - id: fi
+    name: Finnland
+    kontinent: europa
+    tier: 4
+  - id: ie
+    name: Irland
+    kontinent: europa
+    tier: 4
+  - id: ro
+    name: Rumaenien
+    kontinent: europa
+    tier: 4
+  - id: mt
+    name: Malta
+    kontinent: europa
+    tier: 4
+  - id: nl
+    name: Niederlande
+    kontinent: europa
+    tier: 4
+    begruendung: SyRI-Urteil und Kinderopvangtoeslag-Affäre als europäische Referenzfälle automatisierter Verwaltung.
+  - id: fr
+    name: Frankreich
+    kontinent: europa
+    tier: 3
+  - id: es
+    name: Spanien
+    kontinent: europa
+    tier: 3
+  - id: it
+    name: Italien
+    kontinent: europa
+    tier: 3
+    begruendung: Garante-Verfahren gegen OpenAI und deren Aufhebung durch das Tribunale di Roma.
+  - id: at
+    name: Österreich
+    kontinent: europa
+    tier: 4
+  - id: dk
+    name: Dänemark
+    kontinent: europa
+    tier: 3
+    begruendung: Eigenständiges Modell zum Schutz vor Deepfakes über das Urheberrecht.
+  - id: 'no'
+    name: Norwegen
+    kontinent: europa
+    tier: 4
+  - id: ch
+    name: Schweiz
+    kontinent: europa
+    tier: 4
+  - id: ae
+    name: Vereinigte Arabische Emirate
+    kontinent: asien
+    tier: 4
+    begruendung: DIFC/ADGM mit eigenen Regeln zu autonomen Systemen.
+  - id: sa
+    name: Saudi-Arabien
+    kontinent: asien
+    tier: 4
+  - id: il
+    name: Israel
+    kontinent: asien
+    tier: 4
+  - id: vn
+    name: Vietnam
+    kontinent: asien
+    tier: 4
+  - id: africa
+    name: Afrikanische Union
+    kontinent: uebernational
+    tier: 4
+  - id: za
+    name: Südafrika
+    kontinent: afrika
+    tier: 4
+  - id: cl
+    name: Chile
+    kontinent: suedamerika
+    tier: 4
+  - id: tw
+    name: Taiwan
+    kontinent: asien
+    tier: 4
+  - id: latam
+    name: Lateinamerika (übergreifend)
+    kontinent: uebernational
+    tier: 4
+  - id: uy
+    name: Uruguay
+    kontinent: suedamerika
+    tier: 4
+  - id: kz
+    name: Kasachstan
+    kontinent: asien
+    tier: 4
+  - id: uz
+    name: Usbekistan
+    kontinent: asien
+    tier: 4
+  - id: pe
+    name: Peru
+    kontinent: suedamerika
+    tier: 4
+  - id: tr
+    name: Tuerkei
+    kontinent: asien
+    tier: 4
+  - id: th
+    name: Thailand
+    kontinent: asien
+    tier: 4
+  - id: my
+    name: Malaysia
+    kontinent: asien
+    tier: 4
+  - id: ng
+    name: Nigeria
+    kontinent: afrika
+    tier: 4
+  - id: ke
+    name: Kenia
+    kontinent: afrika
+    tier: 4
+  - id: id
+    name: Indonesien
+    kontinent: asien
+    tier: 4
+
+# --- Gliederung der Rechtsordnungen fuer die Auswahl -------------------
+# Die Reihenfolge hier ist die Reihenfolge in der App. Uebernationales
+# zuerst, weil dort das Recht entsteht, das die uebrigen uebernehmen.
+# Transkontinentale Faelle: Russland steht bei Europa (Gesetzgeber und
+# Gerichte sitzen in Moskau), Tuerkei und die Golfstaaten bei Asien
+# (UN-Gliederung: Westasien), Kasachstan und Usbekistan ebenso.
+kontinente:
+  - {id: uebernational, name: Übernational}
+  - {id: europa,        name: Europa}
+  - {id: nordamerika,   name: Nordamerika}
+  - {id: suedamerika,   name: Südamerika}
+  - {id: asien,         name: Asien}
+  - {id: afrika,        name: Afrika}
+  - {id: ozeanien,      name: Ozeanien}
+
+literatur:
+  typen:
+    - {id: aufsatz,       name: Zeitschriftenaufsatz}
+    - {id: monographie,   name: Monographie}
+    - {id: sammelband,    name: Sammelbandbeitrag}
+    - {id: kommentar,     name: Kommentierung}
+    - {id: handbuch,      name: Handbuchbeitrag}
+    - {id: dissertation,  name: Dissertation}
+    - {id: working-paper, name: Working Paper oder Preprint}
+    - {id: bericht,       name: Bericht, Studie oder Gutachten}
+    - {id: blogbeitrag,   name: Fachblog mit Redaktion}
+  prioritaeten:
+    - {id: pflicht,  name: Pflichtlektüre}
+    - {id: wichtig,  name: Wichtig}
+    - {id: optional, name: Optional}
+  zugang:
+    - {id: open-access, name: Frei zugänglich}
+    - {id: bezahlt,     name: Kostenpflichtig}
+    - {id: bibliothek,  name: Nur über Bibliothek}
+    - {id: unklar,      name: Zugang ungeprüft}
+
+subjurisdiktionen:
+  - {id: ae-du, parent: ae, name: Dubai}
+  - {id: ae-az, parent: ae, name: Abu Dhabi}
+  - {id: ae-difc, parent: ae, name: Dubai International Financial Centre}
+  - {id: ae-adgm, parent: ae, name: Abu Dhabi Global Market}
+  - {id: es-ct, parent: es, name: Katalonien}
+  - {id: es-ex, parent: es, name: Extremadura}
+  - {id: us-ca, parent: us, name: Kalifornien}
+  - {id: us-co, parent: us, name: Colorado}
+  - {id: us-tx, parent: us, name: Texas}
+  - {id: us-il, parent: us, name: Illinois}
+  - {id: us-ny, parent: us, name: New York}
+  - {id: us-ut, parent: us, name: Utah}
+  - {id: au-wa, parent: au, name: Western Australia}
+  - {id: ca-qc, parent: ca, name: Québec}
+  - {id: ca-ab, parent: ca, name: Alberta}
+  - {id: ca-bc, parent: ca, name: British Columbia}
+  - {id: us-ky, parent: us, name: Kentucky}
+  - {id: us-tn, parent: us, name: Tennessee}
+  - {id: au-vic, parent: au, name: Victoria}
+  - {id: au-nsw, parent: au, name: New South Wales}
+  - {id: au-sa, parent: au, name: South Australia}
+  - {id: cn-sh, parent: cn, name: Shanghai}
+  - {id: cn-sz, parent: cn, name: Shenzhen}
+  - {id: cn-bj, parent: cn, name: Peking}
+  - {id: ru-msk, parent: ru, name: Moskau}
+
+# =====================================================================
+# THEMENACHSEN — die zweite Dimension. Ohne sie entstehen
+# Ländermonographien statt vergleichbarer Expertise.
+# =====================================================================
+themenachsen:
+  - id: marktzugang
+    name: Marktzugang und Produktregulierung
+    beschreibung: >
+      Risikoklassifizierung, Konformitätsbewertung, CE-Kennzeichnung,
+      notifizierte Stellen, Registrierung, Marktüberwachung.
+  - id: gpai
+    name: GPAI und Basismodelle
+    beschreibung: >
+      Transparenzpflichten, systemische Risiken, Compute-Schwellen,
+      Modelldokumentation, Code of Practice, Evaluierungspflichten.
+  - id: urheberrecht
+    name: Urheberrecht und Trainingsdaten
+    beschreibung: >
+      TDM-Schranken, Fair Use, Opt-out, Lizenzmärkte, Schutzfähigkeit
+      von Output, Leistungsschutz. Der aktivste Streitgegenstand weltweit.
+  - id: datenschutz
+    name: Datenschutz und automatisierte Entscheidungen
+    beschreibung: >
+      Rechtsgrundlagen für Training, Zweckbindung, Betroffenenrechte,
+      Art. 22 DSGVO und Äquivalente, grenzüberschreitende Transfers.
+  - id: haftung
+    name: Haftung
+    beschreibung: >
+      Produkthaftung, Deliktsrecht, Vertragshaftung, Beweislast,
+      Kausalität bei opaken Systemen, Versicherbarkeit.
+  - id: grundrechte
+    name: Grundrechte und Diskriminierung
+    beschreibung: >
+      Antidiskriminierung bei Beschäftigung, Kredit und Wohnraum,
+      biometrische Erkennung, Überwachung, Rechtsschutz.
+  - id: sektor-medizin
+    name: Gesundheit und Medizinprodukte
+  - id: sektor-finanz
+    name: Finanzdienstleistungen
+  - id: sektor-oeffentlich
+    name: Öffentliche Verwaltung und Justiz
+  - id: berufsrecht
+    name: Anwaltliches Berufsrecht und KI in Gerichtsverfahren
+    beschreibung: >
+      Sorgfaltspflichten beim KI-Einsatz, Sanktionen wegen erfundener
+      Fundstellen, Gerichtsverfügungen zur KI-Nutzung, unerlaubte
+      Rechtsberatung durch Software.
+  - id: sicherheit-export
+    name: Sicherheit, Exportkontrolle und Dual Use
+  - id: wettbewerb
+    name: Wettbewerb und Marktmacht
+  - id: arbeit
+    name: Arbeitsrecht und Mitbestimmung
+  - id: content
+    name: Content, Deepfakes, Wahlen und Kennzeichnung
+  - id: vertrag
+    name: Vertragsgestaltung und Beschaffung
+    beschreibung: >
+      KI-Klauseln, Rollenverteilung in der Wertschöpfungskette,
+      Musterklauseln für öffentliche Beschaffung, Haftungsallokation.
+  - id: governance
+    name: Governance, Normung und Compliance-Praxis
+    beschreibung: >
+      ISO/IEC 42001, NIST AI RMF, harmonisierte Normen, Audits,
+      KI-Kompetenz, interne Verantwortlichkeiten.
+
+statuswerte:
+  regelwerk:
+    - {id: idee, name: Angekündigt oder in Vorbereitung}
+    - {id: entwurf, name: Entwurf veröffentlicht}
+    - {id: verfahren, name: Im Gesetzgebungsverfahren}
+    - {id: verabschiedet, name: Verabschiedet, noch nicht anwendbar}
+    - {id: teilanwendbar, name: Gestaffelt anwendbar}
+    - {id: anwendbar, name: Vollständig anwendbar}
+    - {id: gescheitert, name: Gescheitert oder zurückgezogen}
+    - {id: aufgehoben, name: Aufgehoben oder ersetzt}
+    - {id: softlaw, name: Nicht bindend (Kodex, Norm, Strategie)}
+  verfahren:
+    - {id: anhaengig, name: Anhängig}
+    - {id: erstinstanzlich, name: Erstinstanzlich entschieden}
+    - {id: rechtsmittel, name: In der Rechtsmittelinstanz}
+    - {id: rechtskraeftig, name: Rechtskräftig}
+    - {id: vergleich, name: Vergleich}
+    - {id: erledigt, name: Anderweitig erledigt}
+
+dokumenttypen:
+  - {id: entwurf, name: Gesetzentwurf oder Vorschlag}
+  - {id: folgenabschaetzung, name: Folgenabschätzung}
+  - {id: stellungnahme, name: Stellungnahme}
+  - {id: konsultation, name: Konsultation}
+  - {id: ausschussbericht, name: Ausschussbericht}
+  - {id: aenderungsantrag, name: Änderungsanträge}
+  - {id: plenarprotokoll, name: Plenarprotokoll oder Aussprache}
+  - {id: abstimmung, name: Abstimmungsergebnis}
+  - {id: kompromiss, name: Kompromisstext oder Trilogergebnis}
+  - {id: endfassung, name: Verkündete Endfassung}
+  - {id: konsolidiert, name: Konsolidierte Fassung}
+  - {id: delegiert, name: Delegierter Rechtsakt oder Durchführungsrechtsakt}
+  - {id: leitlinie, name: Leitlinie oder Auslegungshilfe}
+  - {id: norm, name: Technische Norm}
+  - {id: bericht, name: Bericht oder Evaluierung}
+  - {id: pressemitteilung, name: Pressemitteilung}
+  - {id: uebersicht, name: Verfahrensakte oder Übersichtsseite}

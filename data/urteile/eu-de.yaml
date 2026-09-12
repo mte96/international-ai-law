@@ -1,0 +1,2536 @@
+urteile:
+- id: eu-2023-schufa-scoring
+  jurisdiktion: eu
+  gericht: Gerichtshof der Europäischen Union (Erste Kammer)
+  instanz: berufung
+  aktenzeichen: C-634/21
+  ecli: ECLI:EU:C:2023:957
+  datum: 2023-12-07
+  parteien:
+    klaeger: OQ
+    beklagter: 'Land Hessen, Streithelferin: SCHUFA Holding AG'
+  status: rechtskraeftig
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  - governance
+  anspruchsgrundlage: Art. 22 Abs. 1 DSGVO (Verordnung (EU) 2016/679); Vorlage des VG Wiesbaden
+  kernfrage: Ist die automatisierte Erstellung eines Wahrscheinlichkeitswerts über die künftige Zahlungsfähigkeit
+    durch eine Auskunftei bereits selbst eine automatisierte Entscheidung im Einzelfall nach Art. 22 Abs.
+    1 DSGVO, wenn ein Dritter diesen Wert seiner Vertragsentscheidung maßgeblich zugrunde legt?
+  ergebnis: 'Ja. Die Erstellung des Scorewerts durch die Auskunftei ist selbst eine automatisierte Entscheidung
+    im Sinne des Art. 22 Abs. 1 DSGVO, sofern der Score dem Dritten gegenüber eine maßgebliche Rolle spielt.
+    Der Gerichtshof begründet das mit einer Schutzlücke: Würde man erst die Entscheidung der Bank erfassen,
+    könnte sich der Betroffene die Auskunfts- und Erläuterungsrechte aus Art. 15 Abs. 1 lit. h DSGVO gegenüber
+    der Auskunftei nicht verschaffen, weil diese die Entscheidung nicht trifft, und gegenüber der Bank
+    nicht, weil diese die Logik nicht kennt. Der Gerichtshof stellte zugleich fest, dass § 31 BDSG als
+    nationale Ausnahmeregelung an Art. 22 Abs. 2 lit. b DSGVO zu messen ist.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=07.12.2023&Aktenzeichen=C-634%2F21
+  zusammenfassung_url: https://cms.law/de/deu/legal-updates/das-schufa-urteil-des-eugh-und-dessen-auswirkungen
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - de-bdsg-scoring
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2025-dun-bradstreet
+  - de-2026-bgh-schufa-auskunft
+  - de-2025-lg-bamberg-scoring
+  quelle_tracker: EUR-Lex, CELEX 62021CJ0634 (amtliche Fassung des Gerichtshofs); dejure.org als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: &id001 2026-09-05
+  eigene_bewertung: 'Die eigentliche Leistung des Urteils ist nicht das Ergebnis, sondern die Zurechnungsfigur:
+    Der Gerichtshof verlagert die Verantwortung an die Stelle, an der das Modell steht, nicht an die,
+    an der der Mensch unterschreibt. Genau diese Figur taucht seit 2025 in der deutschen KI-Haftungsrechtsprechung
+    wieder auf — LG Hamburg zu Grok und LG München I zu AI Overviews argumentieren strukturgleich, ohne
+    SCHUFA zu zitieren. Übersehen wird, dass der Gerichtshof das Verhältnis von Art. 22 DSGVO zu Art.
+    86 KI-VO nicht berührt hat; die KI-VO-Erläuterung tritt daneben, nicht an die Stelle.
+
+    '
+  normen:
+  - dsgvo-art-22-abs-1
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22-abs-2-lit-b
+  - ki-vo-art-86
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Die Entscheidung liegt bei EUR-Lex unter CELEX 62021CJ0634
+    vor; die dortigen Angaben bestätigen Rechtssache C-634/21, Urteil des Gerichtshofs (Erste Kammer)
+    vom 07.12.2023, Parteien OQ gegen Land Hessen, vorlegendes Gericht Verwaltungsgericht Wiesbaden. Gericht,
+    Spruchkörper, Datum, Aktenzeichen und Parteien des Eintrags sind richtig. Die dejure-Adresse steht
+    jetzt als sekundaerquelle_url.'
+  - '05.09.2026: Die InfoCuria-Oberfläche von curia.europa.eu liefert ohne JavaScript keinen Inhalt; deshalb
+    wurde die amtliche EUR-Lex-Fassung als volltext_url gewählt.'
+  - '05.09.2026: Nicht geändert — instanz steht auf ''berufung''. Es handelt sich um ein Vorabentscheidungsverfahren;
+    die Taxonomie kennt dafür keinen eigenen Wert.'
+  quelle_art: amtlich
+  sachverhalt: Die SCHUFA Holding AG versorgt ihre Vertragspartner mit Informationen über die Kreditwürdigkeit
+    Dritter; dazu errechnet sie mit mathematisch-statistischen Verfahren für eine Person die Wahrscheinlichkeit
+    eines künftigen Verhaltens, etwa der Rückzahlung eines Kredits. Nachdem die SCHUFA eine negative Auskunft
+    über OQ erteilt hatte, verweigerte ein Dritter ihr den Kredit. OQ verlangte von der SCHUFA Auskunft
+    über die gespeicherten personenbezogenen Daten und Löschung der aus ihrer Sicht unrichtigen; die SCHUFA
+    nannte die Höhe des Scorewerts und erläuterte die Berechnung in groben Zügen, verweigerte aber unter
+    Berufung auf das Betriebs- und Geschäftsgeheimnis die Angabe der einzelnen berücksichtigten Informationen
+    und ihrer Gewichtung — im Übrigen beschränke sie sich darauf, ihre Vertragspartner zu informieren,
+    die eigentlichen Vertragsentscheidungen träfen diese. Am 18. Oktober 2018 beschwerte sich OQ beim
+    Hessischen Beauftragten für Datenschutz und Informationsfreiheit; dieser lehnte den Antrag mit Bescheid
+    vom 3. Juni 2020 ab. Dagegen klagte OQ vor dem Verwaltungsgericht Wiesbaden, das die Sache dem Gerichtshof
+    der Europäischen Union vorlegte.
+  sachverhalt_quelle: volltext
+- id: eu-2025-dun-bradstreet
+  jurisdiktion: eu
+  gericht: Gerichtshof der Europäischen Union (Erste Kammer)
+  instanz: berufung
+  aktenzeichen: C-203/22
+  ecli: ECLI:EU:C:2025:117
+  datum: 2025-02-27
+  parteien:
+    klaeger: CK
+    beklagter: Dun & Bradstreet Austria GmbH; Magistrat der Stadt Wien
+  status: rechtskraeftig
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  - governance
+  anspruchsgrundlage: Art. 15 Abs. 1 lit. h DSGVO; Art. 22 DSGVO; Art. 47 GRCh; § 4 Abs. 6 österr. DSG
+  kernfrage: Was schuldet der Verantwortliche, wenn der Betroffene aussagekräftige Informationen über
+    die involvierte Logik einer automatisierten Entscheidung verlangt, und wie ist der Konflikt mit Geschäftsgeheimnissen
+    aufzulösen?
+  ergebnis: 'Der Verantwortliche muss das Verfahren und die angewandten Grundsätze so erläutern, dass
+    der Betroffene nachvollziehen kann, welche seiner personenbezogenen Daten wie verwendet wurden und
+    wie eine Änderung dieser Daten zu einem anderen Ergebnis geführt hätte. Der Algorithmus selbst, seine
+    Formel oder der Quellcode müssen nicht offengelegt werden; eine bloße Übermittlung des Algorithmus
+    wäre ohnehin nicht "aussagekräftig". Bei Kollision mit Geschäftsgeheimnissen darf der Verantwortliche
+    die Auskunft nicht schlicht verweigern: Er hat die behaupteten geschützten Informationen der Aufsichtsbehörde
+    oder dem Gericht vorzulegen, die dann abwägen. § 4 Abs. 6 österr. DSG, der das Auskunftsrecht bei
+    Geschäftsgeheimnissen pauschal ausschloss, ist unionsrechtswidrig.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62022CJ0203
+  zusammenfassung_url: https://curia.europa.eu/site/upload/docs/application/pdf/2025-02/cp250022en.pdf
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - de-bdsg-scoring
+  instanzenzug:
+  - eu-2023-schufa-scoring
+  - de-2026-bgh-schufa-auskunft
+  - de-2026-olg-stuttgart-scoring
+  quelle_tracker: EUR-Lex CELEX 62022CJ0203; curia Pressemitteilung 22/25
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Das ist die praktisch wichtigste Transparenzentscheidung für KI in Europa, und sie
+    wird regelmäßig falsch zitiert. Der Gerichtshof hat KEIN Recht auf Erklärung der Modelllogik geschaffen,
+    sondern ein Recht auf kontrafaktische Nachvollziehbarkeit der eigenen Daten — "hätte ich X geändert,
+    wäre Y herausgekommen". Das ist deutlich weniger, als die Explainable-AI-Literatur hineinliest, und
+    deutlich mehr, als die Auskunfteien anbieten. Die deutschen Oberlandesgerichte haben daraus gegensätzliche
+    Schlüsse gezogen; der BGH entscheidet am 21.10.2026. Der zweite, unterschätzte Satz ist der verfahrensrechtliche:
+    Geschäftsgeheimnis ist kein Verweigerungsgrund, sondern ein Grund für ein In-camera-Verfahren.
+
+    '
+  normen:
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22
+  quelle_art: amtlich
+  sachverhalt: Einer Kundin, im Verfahren CK genannt, verweigerte ein österreichischer Mobilfunkbetreiber
+    Abschluss und Verlängerung eines Mobilfunkvertrags über zehn Euro im Monat, weil eine von der Dun
+    & Bradstreet Austria GmbH automatisiert durchgeführte Bonitätsbeurteilung ihr keine ausreichende finanzielle
+    Bonität bescheinigte. CK wandte sich an die österreichische Datenschutzbehörde; diese trug D & B auf,
+    ihr aussagekräftige Informationen über die involvierte Logik dieser automatisierten Entscheidungsfindung
+    zu übermitteln. D & B berief sich auf ein Geschäftsgeheimnis und focht das an, unterlag aber vor dem
+    Bundesverwaltungsgericht, das mit Erkenntnis vom 23. Oktober 2019 einen Verstoß gegen Art. 15 Abs.
+    1 lit. h DSGVO feststellte. Weitere Auskünfte erteilte D & B danach nicht; den Antrag auf Vollstreckung
+    des Erkenntnisses wies der Magistrat der Stadt Wien gleichwohl mit der Begründung ab, D & B sei ihrer
+    Informationspflicht bereits ausreichend nachgekommen. Dagegen erhob CK Beschwerde an das Verwaltungsgericht
+    Wien, das zur Bestimmung der geschuldeten Handlungen einen Sachverständigen bestellte und die Sache
+    dem Gerichtshof der Europäischen Union vorlegte.
+  sachverhalt_quelle: volltext
+- id: eu-2025-like-company-google
+  jurisdiktion: eu
+  gericht: Gerichtshof der Europäischen Union (Große Kammer)
+  instanz: berufung
+  aktenzeichen: C-250/25
+  ecli: null
+  datum: 2025-04-03
+  parteien:
+    klaeger: Like Company
+    beklagter: Google Ireland Limited
+  status: anhaengig
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - haftung
+  anspruchsgrundlage: Art. 2 und Art. 3 Abs. 2 RL 2001/29/EG (InfoSoc); Art. 4 und Art. 15 RL (EU) 2019/790
+    (DSM)
+  kernfrage: Ist das Training eines Sprachmodells auf Presseinhalten eine Vervielfältigung nach Art. 2
+    InfoSoc-RL, greift dafür die TDM-Schranke des Art. 4 DSM-RL, und ist die Ausgabe eines Chatbots, die
+    geschützte Presseinhalte teilweise wiedergibt, öffentliche Wiedergabe nach Art. 3 Abs. 2 InfoSoc-RL?
+  ergebnis: 'Noch nicht entschieden. Vorlage des Budapest Környéke Törvényszék (Ungarn), eingegangen am
+    03.04.2025. Vier Vorlagefragen: (1) Ausgabe des Chatbots als öffentliche Wiedergabe, auch angesichts
+    des prädiktiven Erzeugungsverfahrens; (2) Training des Sprachmodells als Vervielfältigung; (3) falls
+    ja, Anwendbarkeit der TDM-Schranke des Art. 4 DSM-RL; (4) Einordnung, wenn der Nutzer den Chatbot
+    mit passendem Text zu einer Pressepublikation promptet und der Chatbot deren Inhalt anzeigt. Mündliche
+    Verhandlung am 10.03.2026 — die erste Verhandlung des Gerichtshofs zu generativer KI und Urheberrecht
+    überhaupt. Schlussanträge des Generalanwalts Maciej Szpunar angekündigt für den 03.09.2026. Stand
+    07.09.2026: Schlussanträge sind weiterhin nicht nachweisbar (zweite Prüfung vier Tage nach dem angekündigten
+    Termin). Bei EUR-Lex existiert kein Dokument zu CELEX 62025CC0250, und der Gerichtshof hat für den
+    03.09.2026 nur die Pressemitteilungen 117/26 (Rs. C-661/24, Schlussanträge Szpunar) und 118/26 (Rs.
+    C-320/25) veröffentlicht — keine zu C-250/25. Ob die Schlussanträge verschoben wurden oder ohne Pressemitteilung
+    ergangen sind, ist offen. Ein Urteil liegt nicht vor.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://eur-lex.europa.eu/eli/C/2025/3039/oj
+  zusammenfassung_url: https://www.odipi.si/en/like-company-v-google-ireland-ltd-c-250-25/
+  bezug_regelwerke:
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - ki-vo-2024-1689
+  instanzenzug:
+  - de-2026-laion-bgh
+  - de-2025-gema-openai-lg
+  quelle_tracker: EUR-Lex CELEX 62025CN0250; curia.europa.eu (Pressemitteilungen September 2026); EU IP
+    Helpdesk; ODIPI
+  verifiziert: true
+  letzte_pruefung: '2026-09-07'
+  eigene_bewertung: 'Dies ist das Verfahren, das die deutschen Divergenzen erledigen wird — nicht der
+    BGH. Die Fragen 2 und 3 sind exakt der Münchner Streit, die Frage 1 exakt die Output-Frage. Bemerkenswert
+    und in der deutschen Diskussion noch nicht verarbeitet ist die Wendung in der Verhandlung: Generalanwalt
+    Szpunar hat erwogen, die Trennung von Input und Output aufzugeben und die Gesamtheit der zur Verletzung
+    führenden Handlungen einheitlich zu prüfen, unter Hinweis auf Acacia (C-421/20). Würde der Gerichtshof
+    dem folgen, wäre die deutsche Dogmatik in beiden Lagern hinfällig: Hamburg prüfte nur den Input, München
+    begründete den Input aus dem Output. Die Terminkollision ist bemerkenswert — am 03.09.2026 verhandelt
+    der BGH in Karlsruhe und legt Szpunar in Luxemburg vor, am selben Tag zur selben Frage.
+
+    '
+  hinweis_widerspruch: 'Der EU IP Helpdesk bezeichnet das vorlegende Gericht als slowakisch und die Spruchkörperbesetzung
+    als Plenum. EUR-Lex und die Fachliteratur nennen übereinstimmend das ungarische Budapest Környéke
+    Törvényszék; die European Copyright Society und CREATe sprechen von der Großen Kammer. Der Eintrag
+    folgt EUR-Lex.
+
+    '
+  normen:
+  - dsm-rl-art-4
+  - dsm-rl-art-15
+  pruefvermerk:
+  - 'Verweis auf de-urhg-tdm am 2026-09-03 entfernt: im Eintrag nicht belegt.'
+  - '05.09.2026: Amtliche Fundstelle geprüft. Die im Eintrag geführte Adresse eur-lex.europa.eu/eli/C/2025/3039/oj
+    ist abrufbar und weist Rechtssache C-250/25, Like Company gegen Google Ireland Limited, vorlegendes
+    Gericht Budapest Környéki Törvényszék, Eingang 03.04.2025 aus. Aktenzeichen, Parteien und Eingangsdatum
+    stimmen.'
+  - '05.09.2026: Verfahrensstand geprüft. Der EU IP Helpdesk der Kommission bestätigt die mündliche Verhandlung
+    am 10.03.2026 und die Ankündigung der Schlussanträge für den 03.09.2026. Für diesen Tag hat der Gerichtshof
+    die Pressemitteilungen 117/26 und 118/26 veröffentlicht, die andere Rechtssachen betreffen; cp260116
+    und cp260119 existieren nicht. EUR-Lex kennt zu CELEX 62025CC0250 kein Dokument. Die Schlussanträge
+    sind damit am 05.09.2026 nicht veröffentlicht; der Eintrag wurde entsprechend fortgeschrieben.'
+  - '05.09.2026: Große Kammer als Spruchkörper an zweiter Quelle bestätigt (Bird & Bird, CREATe / European
+    Copyright Society). Am amtlichen Dokument war das nicht nachprüfbar, weil InfoCuria ohne JavaScript
+    leer bleibt.'
+  - '07.09.2026: Zweite Prüfung des Schlussantragstermins. Weder EUR-Lex (kein Dokument zu CELEX 62025CC0250)
+    noch eine Fachquelle weist Schlussanträge des Generalanwalts Szpunar in C-250/25 aus; InfoCuria bleibt
+    ohne JavaScript inhaltsleer, die Trefferseite liefert nur "RPEX". Vier Tage nach dem angekündigten
+    Termin 03.09.2026 ist damit weder eine Verlesung noch eine förmliche Verlegung belegt. Das ist der
+    auffälligste offene Punkt im Bestand: Der BGH hat am selben Tag verhandelt und verkündet am 17.12.2026
+    — ob er dabei die Schlussanträge kennt, ist offen.'
+  - '07.09.2026: Der Eintrag schreibt im Ergebnis ''Budapest Koernyeke Toervenyszek'', der eigene Pruefvermerk
+    und EUR-Lex dagegen ''Budapest Koernyeki Toervenyszek''. Die EUR-Lex-Schreibung ist massgeblich.'
+  quelle_art: amtlich
+  sachverhalt: Die Google Ireland Limited betreibt einen auf einem großen Sprachmodell beruhenden Chatbot.
+    Die ungarische Like Company, die sich auf das Leistungsschutzrecht der Presseverleger beruft, beanstandete,
+    dass der Chatbot in seinen Antworten Text sichtbar macht, der mit dem Inhalt von Websites von Presseverlagen
+    übereinstimmt — auch dann, wenn ein Nutzer eine Eingabe macht, die dem Text einer Presseveröffentlichung
+    entspricht oder auf ihn Bezug nimmt. Zum Training war das Modell mit rechtmäßig zugänglichen Inhalten
+    gespeist worden, damit es linguistische Muster erkennen lernt. Like Company klagte gegen Google Ireland
+    vor dem Budapest Környéki Törvényszék; dieses setzte das Verfahren aus und legte dem Gerichtshof der
+    Europäischen Union am 3. April 2025 vier Fragen vor.
+  sachverhalt_quelle: volltext
+- id: eu-2026-yettel-bulgaria
+  jurisdiktion: eu
+  gericht: Gerichtshof der Europäischen Union (Neunte Kammer)
+  instanz: berufung
+  aktenzeichen: C-806/24
+  ecli: null
+  datum: 2026-06-03
+  parteien:
+    klaeger: YETTEL BULGARIA EAD
+    beklagter: FB
+  status: erledigt
+  themenachsen:
+  - governance
+  - datenschutz
+  - haftung
+  - marktzugang
+  anspruchsgrundlage: Art. 86 Abs. 1 Verordnung (EU) 2024/1689 (KI-VO); RL 93/13/EWG; RL 2011/83/EU; Art.
+    38, 47 GRCh
+  kernfrage: Kann ein Verbraucher nach Art. 86 Abs. 1 KI-VO verlangen, dass ihm der konkrete Algorithmus
+    und die Parameter offengelegt werden, mit denen eine automatisierte Rechnung erzeugt wurde, und darf
+    ein Gericht die Offenlegung von Quellcode und Black Box anordnen?
+  ergebnis: 'Keine Sachentscheidung. Der Gerichtshof hat mit Beschluss vom 03.06.2026 festgestellt, dass
+    der Ausgangsrechtsstreit gegenstandslos geworden ist, und die Erledigung ausgesprochen (Renvoi prejudiciel
+    — Litige au principal devenu sans objet — Non-lieu a statür). Das Vorabentscheidungsersuchen des Sofiyski
+    rayonen sad vom 25.11.2024 umfasste siebzehn Fragen: Transparenz und Überprüfbarkeit automatisierter
+    Entscheidungen, gerichtliche Anordnung der Offenlegung von Quellcode und Algorithmus, Recht auf menschliche
+    Überprüfung, Missbräuchlichkeit von Entschädigungsklauseln und Kostentragung.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CO0806
+  zusammenfassung_url: https://www.julia-project.eu/database/case-law/294
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  instanzenzug:
+  - eu-2023-schufa-scoring
+  quelle_tracker: EUR-Lex CELEX 62024CO0806; dejure.org; JuLIA-Projekt; ECER (NL)
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Das erste Vorabentscheidungsersuchen zur KI-Verordnung überhaupt ist ohne Sachentscheidung
+    geendet — das ist die Nachricht. Das Erläuterungsrecht des Art. 86 KI-VO gilt seit dem 02.08.2026
+    und bleibt damit ungeklärt; insbesondere die praktisch entscheidende Frage, ob es einen prozessualen
+    Offenlegungsanspruch auf Quellcode trägt oder nur einen materiellen Erläuterungsanspruch nach dem
+    Muster von C-203/22. Die Vorlage war überdehnt — siebzehn Fragen, davon der größere Teil zu Verbrauchervertragsrecht
+    ohne KI-Bezug — und beruhte auf der zweifelhaften Prämisse, eine Rechnungsberechnungssoftware sei
+    ein Hochrisiko-KI-System. Dass die Erledigung ausgerechnet drei Wochen vor Geltungsbeginn des Art.
+    86 KI-VO erging, ist ein Zufall mit Wirkung: Der nächste Vorlagefall wird Jahre brauchen.
+
+    '
+  normen:
+  - ki-vo-art-86-abs-1
+  quelle_art: amtlich
+- id: eu-2026-xai-holdings-kommission
+  jurisdiktion: eu
+  gericht: Gericht der Europäischen Union (EuG)
+  instanz: erstinstanzlich
+  aktenzeichen: T-120/26
+  ecli: null
+  datum: 2026-02-16
+  parteien:
+    klaeger: X.AI Holdings
+    beklagter: Europäische Kommission
+  status: anhaengig
+  themenachsen:
+  - governance
+  - marktzugang
+  - gpai
+  anspruchsgrundlage: Art. 263 AEUV (Nichtigkeitsklage); angefochtener Rechtsakt nicht ermittelt
+  kernfrage: Nicht ermittelbar — der angefochtene Rechtsakt und die Klagegründe gehen aus dem veröffentlichten
+    Klagehinweis nicht hervor.
+  ergebnis: 'Anhängig. Klageerhebung am 16.02.2026, veröffentlicht im Amtsblatt (ABl. C/2026/2391). Ob
+    der Rechtsstreit die KI-Verordnung, den Digital Services Act, das Wettbewerbsrecht oder eine Beihilfeentscheidung
+    betrifft, war nicht feststellbar. Ein Bezug zur Verordnung (EU) 2024/1689 ist NICHT belegt.
+
+    '
+  bedeutung: niedrig
+  volltext_url: https://eur-lex.europa.eu/eli/C/2026/2391/oj/eng
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - dsa-2022-2065
+  instanzenzug: []
+  quelle_tracker: EUR-Lex CELEX 62026TN0120
+  verifiziert: false
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Als Spur aufgenommen, nicht als Befund. Der Auftrag verlangte die Suche nach Nichtigkeitsklagen
+    gegen die KI-VO; dies ist das einzige EuG-Verfahren eines KI-Unternehmens gegen die Kommission, das
+    auffindbar war. Der Klagegegenstand muss über den ABl-Volltext nachgeholt werden, bevor der Eintrag
+    belastbar ist. Der belastbare Befund lautet: Eine Nichtigkeitsklage gegen die KI-Verordnung SELBST
+    existiert am 27.08.2026 nicht.
+
+    '
+  pruefvermerk:
+  - 'Verweis auf ki-vo-2024-1689 am 2026-09-03 entfernt: im Eintrag nicht belegt.'
+  quelle_art: amtlich
+- id: de-2024-laion-lg
+  jurisdiktion: de
+  gericht: Landgericht Hamburg, 310. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 310 O 227/23
+  ecli: null
+  datum: 2024-09-27
+  parteien:
+    klaeger: Robert Kneschke (Fotograf)
+    beklagter: LAION e.V.
+  status: rechtsmittel
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  anspruchsgrundlage: §§ 97, 16 UrhG; Schranken §§ 44b, 60d UrhG (Art. 3, 4 RL (EU) 2019/790)
+  kernfrage: Ist der Download eines Vorschaubildes von einer Stockfoto-Website zur automatisierten Prüfung,
+    ob Bild und Bildbeschreibung zusammenpassen, und zum Aufbau eines Trainingsdatensatzes von §§ 44b
+    oder 60d UrhG gedeckt?
+  ergebnis: 'Klage abgewiesen. Die Kammer stützte die Zulässigkeit tragend auf § 60d UrhG: LAION e.V.
+    sei eine Forschungsorganisation ohne kommerziellen Zweck, der erstellte Datensatz werde unentgeltlich
+    veröffentlicht. Zu § 44b UrhG äußerte sich die Kammer nur hilfsweise. In einem vielbeachteten obiter
+    dictum hielt sie es für möglich, dass ein in natürlicher Sprache formulierter Nutzungsvorbehalt maschinenlesbar
+    sein könne, weil moderne Sprachmodelle natürliche Sprache verstehen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=LG+Hamburg&Datum=27.09.2024&Aktenzeichen=310+O+227%2F23
+  zusammenfassung_url: https://www.recht-im-internet.de/presseanfragen/pressemeldung-laion
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  instanzenzug:
+  - de-2025-laion-olg
+  - de-2026-laion-bgh
+  quelle_tracker: dejure.org (Entscheidungsnachweis, NJW 2024, 3383; GRUR 2024, 1710; MMR 2024, 973; K&R
+    2024, 758); amtliche Bestätigung der Eckdaten im BGH-Terminhinweis zu I ZR 281/25
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Das erste Urteil eines europäischen Gerichts zur TDM-Schranke beim KI-Training. Sein
+    obiter dictum zur natürlichen Sprache hat die gesamte Opt-out-Praxis der Verlage geprägt — und ist
+    von der Berufungsinstanz genau dort korrigiert worden, wo es wirkte. Wer die Entscheidung heute zitiert,
+    muss sie zusammen mit dem OLG lesen: Was das LG für möglich hielt, hat das OLG für das Jahr 2021 verneint
+    und für die Gegenwart offengelassen.
+
+    '
+  normen:
+  - dsm-rl-art-3
+  - dsm-rl-art-4
+  - urhg-16
+  - urhg-44b
+  - urhg-44b-abs-1
+  - urhg-44b-abs-2
+  - urhg-44b-abs-3
+  - urhg-60d
+  - urhg-60d-abs-2
+  - urhg-72
+  - urhg-97
+  pruefvermerk:
+  - '05.09.2026: Amtliche Volltextquelle gesucht und nicht gefunden. Die Hamburger Rechtsprechungsdatenbank
+    (landesrecht-hamburg.de) und das Justizportal justiz.hamburg.de sind aus dieser Umgebung per robots.txt
+    gesperrt; eine amtliche Volltextfassung war nicht abrufbar. quelle_art bleibt deshalb ''datenbank''.'
+  - '05.09.2026: Eckdaten dennoch amtlich bestätigt. Der Terminhinweis des BGH zu I ZR 281/25 nennt als
+    erste Instanz LG Hamburg, Urteil vom 27.09.2024, Az. 310 O 227/23 — Gericht, Datum und Aktenzeichen
+    des Eintrags sind damit an amtlicher Quelle geprüft.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist LG Hamburg,
+    310. Zivilkammer, Urteil vom 27.09.2024 – 310 O 227/23 aus, Gegenstand Zulässigkeit von Vervielfältigungen
+    durch Forschungsorganisationen zum KI-Training, Normen §§ 44a, 44b, 60d UrhG, Verfahrensgang OLG Hamburg
+    5 U 104/24 und BGH I ZR 281/25. Der Eintrag stimmt.'
+  quelle_art: datenbank
+- id: de-2025-laion-olg
+  jurisdiktion: de
+  gericht: Hanseatisches Oberlandesgericht Hamburg, 5. Zivilsenat
+  instanz: berufung
+  aktenzeichen: 5 U 104/24
+  ecli: null
+  datum: 2025-12-10
+  parteien:
+    klaeger: Robert Kneschke (Fotograf)
+    beklagter: LAION e.V.
+  status: rechtsmittel
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  anspruchsgrundlage: §§ 97, 16 UrhG; Schranken §§ 44b, 60d UrhG; Art. 3, 4 RL (EU) 2019/790; Dreistufentest
+  kernfrage: Welche Anforderungen stellt § 44b Abs. 3 Satz 2 UrhG an die Maschinenlesbarkeit eines Nutzungsvorbehalts,
+    und privilegiert § 60d UrhG einen Verein, dessen Datensätze anschließend kommerziell genutzt werden?
+  ergebnis: 'Berufung zurückgewiesen, auf zwei selbständig tragenden Begründungen. Erstens § 44b UrhG:
+    Das Herunterladen und die automatisierte Prüfung der Bild-Text-Übereinstimmung ist Text und Data Mining,
+    ebenso Vorbereitungshandlungen für ein späteres Training. Der Vorbehalt der Stockfoto-Agentur war
+    unwirksam: Maschinenlesbar ist ein Vorbehalt nur, wenn er automatisiert nicht nur erfasst, sondern
+    auch so interpretiert werden kann, dass die erfassten Inhalte bei automatisiertem Vorgehen nicht ausgewertet
+    werden. Der Maßstab ist technikoffen, natürliche Sprache nicht generell ausgeschlossen — für das Jahr
+    2021 hat der Senat sie aber verneint und ausdrücklich offengelassen, ob heute anders zu entscheiden
+    wäre. Hinzu kam, dass der Vorbehalt nur die "automatische Auswertung" untersagte, nicht Text und Data
+    Mining. Die Darlegungs- und Beweislast für die Maschinenlesbarkeit zum konkreten Nutzungszeitpunkt
+    trägt der Rechtsinhaber. Zweitens § 60d UrhG: LAION e.V. ist Forschungsorganisation ohne kommerziellen
+    Zweck; die Open-Source-Weitergabe an kommerzielle Unternehmen schadet nicht, weil auch die Weiterentwicklung
+    von KI-Modellen durch Unternehmen angewandte Forschung sei. Revision wegen grundsätzlicher Bedeutung
+    zugelassen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamburg&Datum=10.12.2025&Aktenzeichen=5+U+104%2F24
+  zusammenfassung_url: https://www.insidetechlaw.com/blog/2025/12/machine-readable-opt-outs-and-ai-training-hamburg-court-clarifies-copyright-exceptions
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - ki-vo-2024-1689
+  instanzenzug:
+  - de-2024-laion-lg
+  - de-2026-laion-bgh
+  quelle_tracker: dejure.org (Entscheidungsnachweis, GRUR 2026, 398); amtliche Bestätigung der Eckdaten
+    im BGH-Terminhinweis zu I ZR 281/25
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Der wichtigste Satz steht nicht bei § 44b, sondern bei § 60d UrhG. Wenn die kommerzielle
+    Weiterentwicklung von KI-Modellen durch Unternehmen als angewandte Forschung gilt und die Weitergabe
+    des Datensatzes an genau diese Unternehmen dem Open-Source-Ansatz immanent ist, dann lässt sich jeder
+    kommerzielle Trainingsdatensatz über einen vorgeschalteten gemeinnützigen Verein beschaffen — und
+    § 60d UrhG kennt keinen Nutzungsvorbehalt. Die VG Bild-Kunst nennt das eine Handlungsanleitung zur
+    Umgehung, und sie hat recht. Der zweite unterschätzte Punkt ist die Beweislastverteilung: Der Rechtsinhaber
+    muss beweisen, dass sein Vorbehalt zum Nutzungszeitpunkt — nicht heute — maschinenlesbar war. Das
+    ist bei Crawls, die Jahre zurückliegen, praktisch kaum zu führen. Beide Punkte liegen dem BGH vor.
+
+    '
+  normen:
+  - dsm-rl-art-3
+  - dsm-rl-art-4
+  - urhg-16
+  - urhg-44b
+  - urhg-44b-abs-1
+  - urhg-44b-abs-2
+  - urhg-44b-abs-3
+  - urhg-60d
+  - urhg-60d-abs-2
+  - urhg-72
+  - urhg-97
+  pruefvermerk:
+  - '05.09.2026: Amtliche Volltextquelle gesucht und nicht gefunden. landesrecht-hamburg.de und justiz.hamburg.de
+    sind per robots.txt gesperrt; die dort nachgewiesene Pressemitteilung des Hanseatischen OLG war nicht
+    abrufbar. quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Eckdaten amtlich bestätigt. Der BGH-Terminhinweis zu I ZR 281/25 nennt als Berufungsinstanz
+    OLG Hamburg, Urteil vom 10.12.2025, Az. 5 U 104/24. Gericht, Datum und Aktenzeichen stimmen.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist OLG Hamburg,
+    5. Zivilsenat, Urteil vom 10.12.2025 – 5 U 104/24, GRUR 2026, 398 aus, Vorinstanz LG Hamburg 310 O
+    227/23, Revision beim BGH unter I ZR 281/25 anhängig. Der Status ''rechtsmittel'' ist damit richtig.'
+  quelle_art: datenbank
+- id: de-2026-laion-bgh
+  jurisdiktion: de
+  gericht: Bundesgerichtshof, I. Zivilsenat
+  instanz: revision
+  aktenzeichen: I ZR 281/25
+  ecli: null
+  datum: 2026-09-03
+  parteien:
+    klaeger: Robert Kneschke (Fotograf)
+    beklagter: LAION e.V.
+  status: anhaengig
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  anspruchsgrundlage: §§ 97, 16 UrhG; §§ 44b, 60d UrhG; Art. 3, 4 RL (EU) 2019/790
+  kernfrage: Ist der Download eines Vorschaubildes zur Erstellung eines Trainingsdatensatzes von § 44b
+    oder § 60d UrhG gedeckt, und wann ist ein Nutzungsvorbehalt maschinenlesbar?
+  ergebnis: 'Noch nicht entschieden. Verhandlungstermin am 03.09.2026, 9:00 Uhr; Akkreditierungsschluss
+    02.09.2026, 10:00 Uhr, Kameras zugelassen. Nach der amtlichen Terminvorschau geht es um den Download
+    eines Vorschaubildes von einer Fotoagentur-Website, die den Zugriff durch "Programme, Applets, Bots
+    oder Ähnliches" untersagte, sowie um die automatisierte Prüfung von Bild-Text-Paaren zum Aufbau eines
+    Datensatzes von 5,85 Mrd. Bild-Text-Paaren; gespeichert wurden nur URLs und Metadaten, nicht die Bilder.
+    Beide Vorinstanzen haben die Nutzung sowohl nach § 44b als auch nach § 60d UrhG und unter Berücksichtigung
+    des Dreistufentests für zulässig gehalten. Hinweisbeschlüsse sind nicht veröffentlicht. Stand 07.09.2026:
+    Die Verhandlung hat am 03.09.2026 stattgefunden. Nach der amtlichen Terminübersicht des BGH ist Verkündungstermin
+    am 17.12.2026, 8:45 Uhr. Eine Entscheidung ist noch nicht ergangen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026085.html
+  zusammenfassung_url: https://www.bundesgerichtshof.de/SharedDocs/Termine/DE/Termine/IZR281-25.html
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - ki-vo-2024-1689
+  instanzenzug:
+  - de-2024-laion-lg
+  - de-2025-laion-olg
+  - eu-2025-like-company-google
+  quelle_tracker: bundesgerichtshof.de (Terminhinweis zu I ZR 281/25; Pressemitteilung 085/2026 vom 20.05.2026);
+    dejure.org
+  verifiziert: true
+  letzte_pruefung: '2026-09-07'
+  eigene_bewertung: 'Die erste höchstrichterliche Entscheidung zur TDM-Schranke in der Europäischen Union
+    — und zugleich eine mit begrenzter Reichweite. Vorgelegt ist nur die Datensatzerstellung durch einen
+    Verein, nicht das Training eines kommerziellen Modells und nicht die Memorisierung. Der Senat kann
+    §§ 44b/60d UrhG klären, ohne die Münchner Fragen zu berühren. Die eigentliche Weichenstellung ist
+    prozessual: Legt der BGH dem EuGH vor, verschmilzt das Verfahren faktisch mit C-250/25 und die Klärung
+    dauert bis 2029; entscheidet er selbst, bekommt Deutschland eine Leitlinie, die der EuGH später kassieren
+    kann. Dass Generalanwalt Szpunar seine Schlussanträge in C-250/25 für denselben Tag angekündigt hat,
+    macht die zweite Variante riskant.
+
+    '
+  normen:
+  - dsm-rl-art-3
+  - dsm-rl-art-4
+  - urhg-16
+  - urhg-44b
+  - urhg-44b-abs-1
+  - urhg-44b-abs-2
+  - urhg-44b-abs-3
+  - urhg-60d
+  - urhg-60d-abs-2
+  - urhg-72
+  - urhg-97
+  pruefvermerk:
+  - '05.09.2026: Amtlicher Terminhinweis bundesgerichtshof.de/SharedDocs/Termine/DE/Termine/IZR281-25.html
+    gelesen. Er weist aus: I. Zivilsenat, I ZR 281/25, Verhandlung 03.09.2026, Verkündungstermin 17.12.2026,
+    8:45 Uhr. Der Verkündungstermin ist neu und wurde nachgetragen; zusammenfassung_url zeigt jetzt auf
+    diese Seite statt auf die allgemeine Terminübersicht.'
+  - '05.09.2026: Die im Eintrag geführte Pressemitteilung 085/2026 vom 20.05.2026 ist abrufbar und betrifft
+    dieses Verfahren (Fotograf gegen gemeinnützigen Verein, Datensatz mit 5,85 Mrd. Bild-Text-Paaren).'
+  - '05.09.2026: Der amtliche Terminhinweis nennt die Vorinstanzen LG Hamburg, Urteil vom 27.09.2024 –
+    310 O 227/23, und OLG Hamburg, Urteil vom 10.12.2025 – 5 U 104/24, sowie die Normen § 16 Abs. 1, §
+    44b, § 60d UrhG und Art. 5 Abs. 5 RL 2001/29/EG. Damit sind die Angaben der beiden Vorinstanz-Einträge
+    amtlich bestätigt.'
+  - '05.09.2026: Nicht geändert — datum führt den Verhandlungstermin 03.09.2026. Solange kein Urteil ergangen
+    ist, gibt es kein Entscheidungsdatum.'
+  - '07.09.2026: Amtlicher Terminhinweis bundesgerichtshof.de/SharedDocs/Termine/DE/Termine/IZR281-25.html
+    erneut abgerufen. Überschrift jetzt: "Verkündungstermin am 17. Dezember 2026 um 8:45 Uhr in Sachen
+    I ZR 281/25 (Erstellen eines Datensatzes für KI-Training) (Verhandlung: 3.9.2026)", Akkreditierungsschluss
+    16.12.2026, 10:00 Uhr. Die Seite enthält keinen Hinweis auf eine Vorlage an den EuGH und keine Angabe
+    zum Verlauf der Verhandlung. Unverändert; kein Entscheidungsdatum, solange nicht verkündet ist.'
+  quelle_art: amtlich
+  sachverhalt: Der Fotograf Robert Kneschke stellte fest, dass der gemeinnützige Verein LAION e.V. ein
+    Vorschaubild von der Website einer Fotoagentur heruntergeladen hatte, um maschinell zu prüfen, ob
+    Bild und Bildbeschreibung übereinstimmen. Die Nutzungsbedingungen dieser Website untersagten den Zugriff
+    durch „Programme, Applets, Bots oder Ähnliches". Aus solchen Prüfungen entstand ein Datensatz von
+    5,85 Milliarden Bild-Text-Paaren; gespeichert wurden am Ende nur Adressen und Metadaten, nicht die
+    Bilder selbst. Kneschke klagte vor dem Landgericht Hamburg, das die Klage am 27. September 2024 abwies
+    (310 O 227/23); das Oberlandesgericht Hamburg bestätigte das am 10. Dezember 2025 (5 U 104/24). Über
+    die Revision verhandelte der I. Zivilsenat des Bundesgerichtshofs am 3. September 2026.
+  sachverhalt_quelle: eintrag
+- id: de-2025-gema-openai-lg
+  jurisdiktion: de
+  gericht: Landgericht München I, 42. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 42 O 14139/24
+  ecli: null
+  datum: 2025-11-11
+  parteien:
+    klaeger: GEMA
+    beklagter: OpenAI OpCo LLC; OpenAI Ireland Ltd.
+  status: rechtsmittel
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - haftung
+  anspruchsgrundlage: §§ 97, 16, 19a UrhG; § 44b UrhG; Dreistufentest (Art. 5 Abs. 5 RL 2001/29/EG)
+  kernfrage: Ist ein Sprachmodell, das geschützte Liedtexte auf einfache Prompts hin wiedergibt, selbst
+    ein Vervielfältigungsstück, und deckt § 44b UrhG das Training generativer Modelle?
+  ergebnis: 'Der Klage wurde weitgehend stattgegeben: Unterlassung, Auskunft, Schadensersatz wegen neun
+    Liedtexten aus dem GEMA-Repertoire. Die Kammer nimmt eine Memorisierungsvermutung an — gibt ein Modell
+    komplexe geschützte Inhalte auf sehr einfach gehaltene Prompts hin konsistent und wiederholbar wieder,
+    ohne plausible Zufallserklärung, sind die Werke in den Modellparametern verkörpert; das Modell selbst
+    ist Vervielfältigungsstück nach § 16 UrhG. Die Unterscheidung zwischen "1:1 gespeichert" und "nur
+    reflektiert" ist unerheblich. Die Ausgabe ist zusätzlich öffentliche Wiedergabe nach § 19a UrhG. §
+    44b UrhG greift nicht: Die Vervielfältigungen im Modell dienen nicht der Gewinnung weiterer Informationen,
+    und der Dreistufentest steht entgegen, weil die Ausgaben mit den Originalwerken konkurrieren. OpenAI
+    ist keine privilegierte Forschungsorganisation. Die Verantwortung liegt beim Betreiber, der Trainingsdaten,
+    Architektur und Filter kontrolliert, nicht beim promptenden Nutzer. Eine EuGH-Vorlage lehnte die Kammer
+    ab, obwohl beide Parteien sie gemeinsam angeregt hatten.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2025/11.php
+  zusammenfassung_url: https://verfassungsblog.de/lg-munchen-gema-open-ai/
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  - ki-vo-2024-1689
+  instanzenzug:
+  - de-2025-gema-openai-olg
+  - de-2026-gema-suno-lg
+  - eu-2025-like-company-google
+  quelle_tracker: justiz.bayern.de; Verfassungsblog; Preu Bohlig; GEMA-Pressemitteilung; MediaLaws
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Die erste europäische Grundsatzentscheidung zu generativer KI und Urheberrecht, und
+    die dogmatisch angreifbarste. Die Memorisierungsvermutung ist abduktiv gebaut: Weil das Werk herauskommt,
+    muss es drin sein. Das ist als Beweisfigur nachvollziehbar und als Rechtsfolge binär — es kennt keine
+    Abstufung zwischen einem Werk, das auf "gib mir den Text von X" erscheint, und einem, das nur über
+    einen konstruierten Extraktionsangriff rekonstruierbar ist. Die Literatur schlägt eine teleologische
+    Reduktion auf mit vertretbarem Aufwand extrahierbare Memorisierungen vor; die Kammer hat diese Frage
+    nicht gestellt. Bemerkenswert ist auch die Ablehnung der Vorlage gegen den übereinstimmenden Willen
+    beider Parteien — der EuGH entscheidet die Frage nun ohnehin, nur ohne den deutschen Sachverhalt.
+
+    '
+  normen:
+  - urhg-16
+  - urhg-19a
+  - urhg-44b
+  - urhg-44b-abs-2
+  - urhg-44b-abs-3
+  - urhg-97
+  quelle_art: amtlich
+  sachverhalt: Nach dem Vortrag der GEMA gab der Chatbot ChatGPT auf einfache Anfragen hin die Texte bekannter
+    deutscher Lieder in weiten Teilen originalgetreu aus — darunter „Atemlos" von Kristina Bach und „Wie
+    schön, dass du geboren bist" von Rolf Zuckowski; in anderen Fällen gab er veränderte Fassungen aus
+    und schrieb sie den Urhebern gleichwohl zu. Neun solcher Liedtexte machte die GEMA als Verwertungsgesellschaft
+    zum Gegenstand einer Klage gegen zwei Unternehmen der OpenAI-Gruppe vor der 42. Zivilkammer des Landgerichts
+    München I und verlangte Unterlassung, Auskunft und Schadensersatz sowie Ersatz wegen der fehlerhaften
+    Zuschreibung veränderter Texte. Sie stützte sich darauf, die Texte seien in den Sprachmodellen memorisiert.
+    Die Beklagten hielten dem entgegen, ihre Modelle speicherten oder kopierten keine spezifischen Trainingsdaten,
+    sondern spiegelten in ihren Parametern nur wider, was sie aus dem Gesamtdatensatz gelernt hätten;
+    für die Ausgaben sei der promptende Nutzer verantwortlich, und im Übrigen greife die Schranke für
+    Text und Data Mining.
+  sachverhalt_quelle: volltext
+- id: de-2025-gema-openai-olg
+  jurisdiktion: de
+  gericht: Oberlandesgericht München, 6. Zivilsenat
+  instanz: berufung
+  aktenzeichen: 6 U 3662/25 e
+  ecli: null
+  datum: 2025-12-08
+  parteien:
+    klaeger: GEMA
+    beklagter: OpenAI OpCo LLC; OpenAI Ireland Ltd.
+  status: anhaengig
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - haftung
+  anspruchsgrundlage: §§ 97, 16, 19a UrhG; § 44b UrhG
+  kernfrage: Halten die Memorisierungsvermutung und die Verneinung des § 44b UrhG durch das LG München
+    I der Berufungsprüfung stand?
+  ergebnis: 'Anhängig. OpenAI hat am 08.12.2025 Berufung gegen das Urteil des LG München I vom 11.11.2025
+    eingelegt. Ein Verhandlungs- oder Verkündungstermin ist auch am 05.09.2026 nicht veröffentlicht. Das
+    Verfahren ist bei dejure.org als anhängiges Verfahren geführt.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=6+U+3662%2F25
+  zusammenfassung_url: https://urheber.info/diskurs/openai-legt-berufung-ein
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  instanzenzug:
+  - de-2025-gema-openai-lg
+  - de-2026-laion-bgh
+  - eu-2025-like-company-google
+  quelle_tracker: Initiative Urheberrecht; dejure.org
+  verifiziert: true
+  letzte_pruefung: '2026-09-07'
+  eigene_bewertung: 'Das ist der Instanzenzug, in dem die deutsche TDM-Divergenz tatsächlich aufeinandertrifft
+    — der BGH bekommt in I ZR 281/25 nur den Hamburger Strang. Für die Mandatspraxis heißt das: Der Münchner
+    Maßstab ist bis auf Weiteres nicht zweitinstanzlich bestätigt, aber auch nicht ausgesetzt. Ein Termin
+    ist zu überwachen; er kann nach dem BGH-Termin vom 03.09.2026 gesetzt werden, weil der Senat dessen
+    Ergebnis abwarten dürfte.
+
+    '
+  normen:
+  - urhg-16
+  - urhg-19a
+  - urhg-44b
+  - urhg-44b-abs-2
+  - urhg-44b-abs-3
+  - urhg-97
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht gefunden. In der bayerischen Rechtsprechungsdatenbank
+    (gesetze-bayern.de) ist zu 6 U 3662/25 nichts veröffentlicht; dort steht nur die erste Instanz, LG
+    München I, Endurteil vom 11.11.2025 – 42 O 14139/24. Das ist folgerichtig, weil im Berufungsverfahren
+    noch keine Entscheidung ergangen ist. quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. dejure.org führt 6 U 3662/25 als anhängiges
+    Verfahren des OLG München mit Vorinstanz LG München I, Urteil vom 11.11.2025 – 42 O 14139/24. Aktenzeichen,
+    Gericht und Verfahrensstand des Eintrags stimmen.'
+  - '07.09.2026: Sauberer Negativbefund. Die amtliche Pressemitteilungsübersicht des OLG München (justiz.bayern.de)
+    weist als jüngste Einträge den 03.09., 02.09., 26.08. und 24.08.2026 aus, sämtlich Strafverfahren;
+    nichts zum 6. Zivilsenat, zu GEMA, OpenAI oder Urheberrecht. Das OLG München unterhält keine öffentliche
+    Terminübersicht mit Aktenzeichen. Ein Verhandlungs- oder Verkündungstermin in 6 U 3662/25 e ist damit
+    auch am 07.09.2026 nicht veröffentlicht; eine Entscheidung ist nicht ergangen.'
+  quelle_art: datenbank
+- id: de-2026-gema-suno-lg
+  jurisdiktion: de
+  gericht: Landgericht München I, 42. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 42 O 763/25
+  ecli: null
+  datum: 2026-07-31
+  parteien:
+    klaeger: GEMA
+    beklagter: Suno Inc.
+  status: erstinstanzlich
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  - haftung
+  anspruchsgrundlage: §§ 97, 16, 15 Abs. 2, 19a UrhG; § 44b UrhG; § 95a UrhG (Umgehung technischer Schutzmaßnahmen)
+  kernfrage: Erstreckt sich deutsches Urheberrecht auf ein in den USA durchgeführtes Training, wenn das
+    Modell in Europa betrieben wird, und ist die Memorisierung von Musikkompositionen eine Vervielfältigung?
+  ergebnis: 'Der Klage wurde weitgehend stattgegeben: Unterlassung der unberechtigten Vervielfältigung
+    und der Nutzung der Werke zum Training, Auskunft über Umsätze, Schadensersatz. Gegenstand waren sechs
+    Kompositionen, darunter "Forever Young", "Atemlos durch die Nacht", "Mambo No. 5", "Cheri Cheri Lady"
+    und "Daddy Cool". Die Kammer bejahte Memorisierung: Übereinstimmungen in Melodie, Harmonie und Rhythmus
+    seien wegen Komplexität und Länge der Werke zu umfangreich und zu spezifisch, um zufällig zu sein.
+    § 44b UrhG greift nicht, weil die Memorisierung über den Analysezweck hinausgeht; US-amerikanisches
+    Fair Use ist unanwendbar, wo die Werke im Output wiedererkennbar erscheinen. Zurechnung: Nutzer, die
+    einfache offene Prompts eingeben, kontrollieren das System nicht — Suno tut es über Architektur und
+    Betrieb. Hinzu kam der Vorwurf des Stream-Ripping von YouTube unter Umgehung technischer Schutzmaßnahmen.
+    Nicht rechtskräftig; Suno hat erklärt, alle Optionen einschließlich einer Berufung zu prüfen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/16.php
+  zusammenfassung_url: https://www.juve-patent.com/cases/munich-regional-court-stops-suno-using-gema-protected-music/
+  bezug_regelwerke:
+  - de-urhg-tdm
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  instanzenzug:
+  - de-2025-gema-openai-lg
+  quelle_tracker: justiz.bayern.de PM 16/2026; JUVE Patent; LTO; beck-aktuell; GEMA; MusikWoche
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Die international folgenreichste deutsche Aussage steckt nicht im Urheberrecht, sondern
+    im Kollisionsrecht: Ein in den USA durchgeführtes Training wird erfasst, wenn das Modell anschließend
+    in Europa betrieben wird. Damit lässt sich die US-Fair-Use-Doktrin nicht mehr als Standortvorteil
+    nutzen — genau der Punkt, an dem die Kammer sich ausdrücklich von Bartz und Kadrey absetzt. Zweitens
+    verschiebt das Urteil den Gegenstand von Text auf Komposition; die Zufallsverteidigung, die bei kurzen
+    Textfragmenten noch trug, wird bei Melodie, Harmonie und Rhythmus statistisch unhaltbar. Drittens
+    ist der § 95a-Vorwurf der eigentliche Hebel: Er trifft die Beschaffung, nicht das Training, und ist
+    schrankenfest.
+
+    '
+  normen:
+  - urhg-15
+  - urhg-16
+  - urhg-19a
+  - urhg-44b
+  - urhg-95a
+  - urhg-97
+  quelle_art: amtlich
+  sachverhalt: Die GEMA stellte fest, dass der Musikdienst Suno auf einfache Eingaben hin Tonaufnahmen
+    ausgab, in denen Melodie, Harmonie und Rhythmus geschützter Kompositionen ihres Repertoires wiederzuerkennen
+    waren — darunter „Forever Young", „Atemlos durch die Nacht", „Mambo No. 5", „Cheri Cheri Lady" und
+    „Daddy Cool". Das Training des Modells hatte Suno Inc. in den Vereinigten Staaten durchgeführt; angeboten
+    wird der Dienst auch in Europa. Nach dem Vortrag der GEMA hatte Suno zum Aufbau der Trainingsdaten
+    außerdem Tonspuren von YouTube mitgeschnitten und dabei technische Schutzmaßnahmen umgangen. Die GEMA
+    klagte vor der 42. Zivilkammer des Landgerichts München I; Streitgegenstand waren sechs Kompositionen.
+  sachverhalt_quelle: eintrag
+- id: de-2026-ag-muenchen-ki-logos
+  jurisdiktion: de
+  gericht: Amtsgericht München
+  instanz: erstinstanzlich
+  aktenzeichen: 142 C 9786/25
+  ecli: null
+  datum: 2026-02-13
+  parteien:
+    klaeger: Nutzer eines Bildgenerators
+    beklagter: Verwender der Logos
+  status: erstinstanzlich
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: § 2 Abs. 1 Nr. 4, Abs. 2 UrhG (persönliche geistige Schöpfung); § 97 UrhG
+  kernfrage: Sind mit generativer KI erzeugte Logos persönliche geistige Schöpfungen, wenn sich der menschliche
+    Beitrag auf die Auswahl und Formulierung von Prompts beschränkt?
+  ergebnis: 'Nein. Einfache KI-generierte Logos genießen keinen Urheberrechtsschutz. Der menschliche Einfluss
+    muss den softwaregesteürten Prozess substantiell beherrschen; rein beschreibende Prompts wie "Briefumschlag
+    vor Gebäude" tragen keine individuelle schöpferische Aussage. Die Persönlichkeit des Schöpfers muss
+    sich objektiv und deutlich im Ergebnis wiederfinden. Zeit- und Mühewaltung beim Prompten genügen nicht.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=142+C+9786%2F25
+  zusammenfassung_url: https://www.fachanwalt.de/ratgeber/bewertung-von-ki-generierten-logos-amtsgericht-muenchen-lehnt-urheberrechtlichen-schutz-ab
+  bezug_regelwerke:
+  - de-urhg-tdm
+  instanzenzug:
+  - de-2026-olg-duesseldorf-ki-bild
+  - de-2025-lg-frankfurt-ki-liedtext
+  quelle_tracker: BAYERN.RECHT / gesetze-bayern.de (amtliche Rechtsprechungsdatenbank des Freistaats Bayern);
+    dejure.org als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Amtsgerichtliche Entscheidung mit überraschender Zitierkarriere — sie wird in den
+    GRUR-Reihen geführt und von obergerichtlichen Entscheidungen aufgegriffen. Praktisch bedeutet sie:
+    Wer KI-Erzeugnisse kommerziell verwertet, hat keinen urheberrechtlichen Ausschließlichkeitsschutz
+    und muss auf Marken-, Design- und Lauterkeitsrecht ausweichen. Für Agenturverträge heißt das, dass
+    die übliche Rechteeinräumungsklausel bei reinem KI-Output ins Leere geht.
+
+    '
+  normen:
+  - urhg-2
+  - urhg-7
+  - urhg-97
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Der Volltext steht in der bayerischen Rechtsprechungsdatenbank
+    gesetze-bayern.de unter Y-300-Z-BECKRS-B-2026-N-1513. Das Dokument weist aus: AG München, Endurteil
+    vom 13.02.2026, Az. 142 C 9786/25, Klage abgewiesen, Streitwert 10.000 Euro, Normen § 2 Abs. 1 Nr.
+    4 und § 97 UrhG. Gericht, Datum, Aktenzeichen und Ergebnis des Eintrags sind richtig. Die dejure-Adresse
+    steht jetzt als sekundaerquelle_url.'
+  - '05.09.2026: Am amtlichen Dokument bestätigt sich auch die Kernaussage — KI-Erzeugnisse brauchen einen
+    hinreichend identifizierbaren menschlichen schöpferischen Einfluss; die im Prompting eingeflossenen
+    kreativen Elemente müssen den Output prägen. Eine ECLI weist das Dokument nicht aus, das Feld bleibt
+    deshalb leer.'
+  quelle_art: fehlt
+- id: de-2026-olg-duesseldorf-ki-bild
+  jurisdiktion: de
+  gericht: Oberlandesgericht Düsseldorf, 20. Zivilsenat
+  instanz: berufung
+  aktenzeichen: I-20 W 2/26
+  ecli: ECLI:DE:OLGD:2026:0402.20W2.26.00
+  datum: 2026-04-02
+  parteien:
+    klaeger: Fotograf (Unterwasseraufnahme)
+    beklagter: Verwender einer KI-Umgestaltung
+  status: erstinstanzlich
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: §§ 23, 97 UrhG; § 2 Abs. 2 UrhG
+  kernfrage: Verletzt die KI-gestützte Umgestaltung eines Fotos in einen Comic das Urheberrecht am Original,
+    und genießt das KI-Erzeugnis selbst Schutz?
+  ergebnis: 'Keine Verletzung. Die schutzbegründenden Merkmale des Originalfotos wurden nicht wiedererkennbar
+    übernommen; Maßstab ist nach EuGH (verb. Rs. C-580/23 und C-795/23 vom 04.12.2025) die wiedererkennbare
+    Übernahme konkreter schöpferischer Elemente, nicht der abstrakte Gesamteindruck. Zur Schutzfähigkeit
+    des KI-Erzeugnisses: Ein ausschließlich durch automatisierte Softwareprozesse erzeugtes Bild ist nicht
+    selbständig schutzfähig. Wer sich auf Werkqualität beruft, muss die konkreten schöpferischen Entscheidungen
+    darlegen, die dem Output die persönliche Prägung des Prompters geben; auch zahlreiche allgemein gehaltene
+    Anweisungen genügen nicht, und die bloße Auswahl aus mehreren KI-Vorschlägen ebenfalls nicht. Verfahren
+    des einstweiligen Rechtsschutzes.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://nrwe.justiz.nrw.de/olgs/duesseldorf/j2026/20_W_2_26_Urteil_20260402.html
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=20+W+2%2F26
+  zusammenfassung_url: https://alro-recht.de/2026/04/23/olg-duesseldorf-ein-ki-generiertes-bild-geniesst-keinen-schutz-ueber-das-urheberrecht-als-werk-sofern-kein-nachweis-des-massgeblichen-menschlichen-einflusses-auf-die-generierung-gelingt/
+  bezug_regelwerke:
+  - de-urhg-tdm
+  instanzenzug:
+  - de-2026-ag-muenchen-ki-logos
+  - de-2025-lg-frankfurt-ki-liedtext
+  quelle_tracker: NRWE — Rechtsprechungsdatenbank des Landes Nordrhein-Westfalen (nrwe.justiz.nrw.de);
+    dejure.org als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die bislang klarste obergerichtliche Aussage zur Schutzfähigkeit von KI-Output in
+    Deutschland, und sie fällt in einem Nebensatz eines Verfügungsverfahrens. Wichtiger als das Ergebnis
+    ist die Beweislastregel: Nicht der Angreifer muss die Maschinenerzeugung beweisen, sondern der Schutzrechtsinhaber
+    die menschliche Schöpfung — und zwar konkret, prompt- und entscheidungsbezogen. Das kehrt die übliche
+    Vermutung zugunsten des Urhebers um und ist für Bild- und Stockagenturen praktisch einschneidender
+    als jede Trainingsdatenfrage.
+
+    '
+  normen:
+  - urhg-2
+  - urhg-23
+  - urhg-7
+  - urhg-97
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Volltext in der NRW-Rechtsprechungsdatenbank NRWE unter
+    nrwe.justiz.nrw.de/olgs/duesseldorf/j2026/20_W_2_26_Urteil_20260402.html. Das Dokument bestätigt OLG
+    Düsseldorf, 20. Zivilsenat, 02.04.2026, Az. 20 W 2/26. Die dejure-Adresse steht jetzt als sekundaerquelle_url.'
+  - '05.09.2026: ECLI ergänzt. Das amtliche Dokument trägt ECLI:DE:OLGD:2026:0402.20W2.26.00; das Feld
+    war leer.'
+  - '05.09.2026: Verfahrensart am Dokument geklärt. Es handelt sich um eine sofortige Beschwerde gegen
+    den Beschluss der 12. Zivilkammer des Landgerichts Düsseldorf vom 22.12.2025, Az. 12 O 282/25; die
+    Beschwerde wurde zurückgewiesen. Vorinstanz und Verfahrensart waren bisher nicht erfasst.'
+  - '05.09.2026: Nicht geändert — instanz steht auf ''berufung''. Für ein Beschwerdeverfahren gibt die
+    Taxonomie keinen eigenen Wert her; ''berufung'' bleibt der nächstliegende Wert.'
+  quelle_art: amtlich
+- id: de-2025-lg-frankfurt-ki-liedtext
+  jurisdiktion: de
+  gericht: Landgericht Frankfurt am Main, 6. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 2-06 O 401/25
+  ecli: null
+  datum: 2025-12-17
+  parteien:
+    klaeger: Textdichter
+    beklagter: Verwender
+  status: erstinstanzlich
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: § 2 Abs. 2 UrhG; § 97 UrhG; § 294 ZPO (eidesstattliche Versicherung)
+  kernfrage: Bleibt ein menschlich verfasster Liedtext geschützt, wenn die Musik mit KI ergänzt wird,
+    und wie ist der menschliche Schöpfungsanteil im Eilverfahren glaubhaft zu machen?
+  ergebnis: 'Der menschlich verfasste Text bleibt geschützt, auch wenn die Musik per KI hinzugefügt wurde.
+    Bestreitet der Gegner die menschliche Urheberschaft, muss der Anspruchsteller darlegen, welche Gestaltungselemente
+    auf menschlicher Tätigkeit beruhen. Im Eilverfahren genügt hierfür eine eidesstattliche Versicherung.
+    Abgegrenzt wird zwischen menschlich geschaffenem Text mit KI-Unterstützung (schutzfähig) und reinem
+    Prompt-Output (nicht schutzfähig).
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2-06+O+401%2F25
+  zusammenfassung_url: https://www.beyer.law/2026/07/10/lg-frankfurt-zum-schutzumfang-ki-bearbeiteter-produktfotos/
+  bezug_regelwerke:
+  - de-urhg-tdm
+  instanzenzug:
+  - de-2026-ag-muenchen-ki-logos
+  - de-2026-olg-duesseldorf-ki-bild
+  quelle_tracker: Bürgerservice Hessenrecht / rv.hessenrecht.hessen.de (amtliche Rechtsprechungsdatenbank
+    des Landes Hessen), Dokument LARE260000287; dejure.org (GRUR 2026, 992) als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die Gegenprobe zu Düsseldorf und München: Hybride Werke bleiben schutzfähig, und
+    die Darlegungslast ist im Eilverfahren handhabbar. Damit zeichnet sich eine konsistente deutsche Linie
+    ab — nicht das Werkzeug entscheidet, sondern der nachweisbare Gestaltungsanteil. Die praktische Konsequenz
+    für Mandanten ist dokumentarisch: Wer KI einsetzt, muss den eigenen schöpferischen Beitrag protokollieren,
+    bevor der Streit entsteht.
+
+    '
+  normen:
+  - urhg-2
+  - urhg-7
+  - urhg-97
+  - zpo-294
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Die hessische Rechtsprechungsdatenbank führt die Entscheidung
+    unter rv.hessenrecht.hessen.de/bshe/document/LARE260000287; der Trefferdatensatz des amtlichen Portals
+    lautet ''2-06 O 401/25 | LG Frankfurt 6. Zivilkammer | 17.12.2025 | Urteil'' und deckt sich mit Gericht,
+    Kammer, Datum, Aktenzeichen und Entscheidungsart des Eintrags.'
+  - '05.09.2026: Einschränkung — das Dokument selbst konnte nicht gelesen werden. rv.hessenrecht.hessen.de
+    und lareda.hessenrecht.hessen.de sind aus dieser Umgebung per robots.txt gesperrt. Geprüft ist damit
+    der amtliche Nachweis, nicht der amtliche Volltext; Ergebnis und Begründung des Eintrags stammen weiterhin
+    aus der früheren Prüfung an der Datenbankfundstelle.'
+  quelle_art: fehlt
+- id: de-2026-bgh-schufa-auskunft
+  jurisdiktion: de
+  gericht: Bundesgerichtshof, I. Zivilsenat
+  instanz: revision
+  aktenzeichen: I ZR 227/25, I ZR 228/25, I ZR 229/25, I ZR 230/25 (zuvor auch I ZR 226/25 — dort Klage
+    zurückgenommen)
+  ecli: null
+  datum: 2026-06-18
+  parteien:
+    klaeger: Vier betroffene Verbraucher
+    beklagter: SCHUFA Holding AG
+  status: anhaengig
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  - governance
+  anspruchsgrundlage: Art. 15 Abs. 1 lit. h DSGVO; Art. 22 DSGVO; Art. 4 Nr. 4 DSGVO (Profiling)
+  kernfrage: Ob und in welchem Umfang muss eine Wirtschaftsauskunftei den von automatisierter Datenverarbeitung
+    Betroffenen Auskunft über die ihren Scorewerten zugrunde liegenden Verfahren erteilen?
+  ergebnis: 'Noch nicht entschieden. Verhandlung am 18.06.2026, 9:00 Uhr. Verkündungstermin amtlich bestimmt
+    auf den 21.10.2026, 8.45 Uhr, in Sachen I ZR 227/25 bis I ZR 230/25; im fünften Verfahren ist die
+    Klage zurückgenommen worden. Nach dem Sitzungsbericht signalisierte der Vorsitzende Jörn Feddersen,
+    der Senat werde dem weiten Ansatz des OLG Dresden voraussichtlich nicht folgen: Art. 15 Abs. 1 lit.
+    h DSGVO setze eine automatisierte Entscheidungsfindung voraus, und das sei mehr als die bloße Berechnung
+    eines Scores. Zur Zurechnung verwies er auf C-634/21: Wenn der Score die Ablehnung durch die Bank
+    maßgeblich verursacht, ist die Entscheidung der Auskunftei zuzurechnen — das Dreipersonenverhältnis
+    habe das OLG Dresden ausgeblendet. Eine Offenlegung des Algorithmus hält der Senat nicht für geschuldet.
+    Die SCHUFA hat am 17.03.2026 ein neues Scoreverfahren mit zwölf gewichteten Kriterien eingeführt.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026052.html
+  zusammenfassung_url: https://www.lto.de/recht/hintergruende/h/bgh-izr22725-izr23025-schufa-score-auskunftsanspruch
+  bezug_regelwerke:
+  - de-bdsg-scoring
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2023-schufa-scoring
+  - eu-2025-dun-bradstreet
+  - de-2025-olg-dresden-scoring
+  - de-2026-olg-stuttgart-scoring
+  - de-2026-olg-bamberg-scoring
+  quelle_tracker: bundesgerichtshof.de PM 52/2026; LTO; beck-aktuell
+  verifiziert: true
+  letzte_pruefung: '2026-09-07'
+  eigene_bewertung: 'Das ist die deutsche Umsetzungsentscheidung zu C-203/22 und damit die praktisch wichtigste
+    Transparenzentscheidung für jedes KI-gestützte Bewertungsverfahren — nicht nur für Bonität. Wenn der
+    Senat wie angedeutet entscheidet, gilt: Auskunft nur über Verfahren und Grundsätze, keine Gewichtungsangaben,
+    und Art. 15 Abs. 1 lit. h DSGVO greift erst, wenn eine Entscheidung ergangen ist. Der zweite Halbsatz
+    ist der gefährlichere: Er würde die präventive Funktion der Auskunft — Fehler finden, bevor sie schaden
+    — entwerten und steht in Spannung zu C-634/21, das die Auskunftei gerade deshalb einbezog, weil die
+    Bank die Logik nicht kennt. Hinzu tritt ein Zeitproblem: Ab November 2026 gelten neue bundesrechtliche
+    Transparenzvorgaben zum Scoring, die die Entscheidung teilweise überholen können.
+
+    '
+  hinweis_widerspruch: 'Der Widerspruch zwischen beck-aktuell (vier Verfahren) und der BGH-Pressemitteilung
+    52/2026 (fünf Verfahren, I ZR 226/25 bis I ZR 230/25) ist am 07.09.2026 aufgelöst: Die amtliche Terminhinweis-Volltextübersicht
+    führt für den Verkündungstermin nur noch I ZR 227/25 bis I ZR 230/25 und vermerkt, in einem Verfahren
+    sei die Klage zurückgenommen worden. Verbleibende Unschärfen zweiter Ordnung: (1) Das abgerufene Textstück
+    bezeichnet das weggefallene Verfahren als "I ZR 226/26"; da die Reihe I ZR 226/25 bis I ZR 230/25
+    lautet, kann nur I ZR 226/25 gemeint sein — "/26" ist mit hoher Wahrscheinlichkeit ein Schreibfehler
+    und vor einer Zitierung am Dokument nachzuprüfen. (2) In einem Revisionsverfahren wäre die Rücknahme
+    der Revision zu erwarten, nicht der Klage; der amtliche Text spricht von Klagerücknahme. Beides bleibt
+    so stehen.'
+  normen:
+  - bdsg-31
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22
+  - dsgvo-art-4-nr-4
+  pruefvermerk:
+  - '07.09.2026: Amtliche Terminhinweis-Volltextübersicht des BGH (Zeitraum September bis Oktober 2026)
+    abgerufen. Überschrift: "Verkündungstermin am 21. Oktober 2026, 8.45 Uhr in Sachen I ZR 227/25 bis
+    I ZR 230/25 (Auskunftsanspruch gegen Wirtschaftsauskunftei)". Der bislang nur nach LTO geführte Verkündungstermin
+    ist damit amtlich belegt; volltext_url zeigt jetzt auf diese Übersicht statt auf die Pressemitteilung
+    052/2026 vom 20.03.2026, die nur den Verhandlungstermin betrifft und nicht fortgeschrieben wurde.
+    Eine Entscheidung ist nicht ergangen.'
+  - '07.09.2026 nachgezogen: Die Terminuebersicht des BGH ist eine rollierende Seite - sie fuehrt den
+    Fall nur, solange der Termin aussteht. Als volltext_url steht daher wieder die stabile Pressemitteilung
+    052/2026; die Uebersicht ist unter terminuebersicht_url als Beleg fuer den Verkuendungstermin 21.10.2026
+    gefuehrt und vor dem 21.10.2026 zu sichern.'
+  terminuebersicht_url: https://www.bundesgerichtshof.de/DE/Presse/Terminhinweise/TerminhinweiseVolltextuebersicht/terminhinweise_volltextuebersicht_node.html
+  quelle_art: amtlich
+  sachverhalt: 'Die SCHUFA Holding AG betreibt ein Bonitätsinformationssystem: Aus den über eine Person
+    gespeicherten Wirtschaftsdaten errechnet sie mit einem mathematisch-statistischen Verfahren Wahrscheinlichkeitswerte
+    (Scorewerte), die ihren Kunden — vor allem Kreditgebern — eine Einschätzung des zu erwartenden Zahlungsverhaltens
+    erlauben sollen. Vier Privatpersonen erhielten von ihr im Jahr 2023 Auskunft über die zu ihnen gespeicherten
+    Daten und über die in den vorangegangenen zwölf Monaten auf Bonitätsanfragen hin übermittelten Scorewerte:
+    Tabellen mit Scorewerten, Ratingstufen, Erfüllungswahrscheinlichkeiten und den nach Darstellung der
+    SCHUFA verwendeten Datenarten, ergänzt um Erläuterungen am Tabellenende und einen Verweis auf weitere
+    Informationen im Internet. Die vier hielten das Scoring-Verfahren für intransparent und die Auskunft
+    für unzureichend und verlangten Auskunft darüber, wie die Scorewerte berechnet werden. Die Landgerichte
+    wiesen die Auskunftsanträge ab; das Berufungsgericht gab ihnen teilweise recht und verurteilte die
+    SCHUFA zur Auskunft über die Gewichtung der am stärksten wirkenden Kriterien, über die Aussagekraft
+    des konkret ermittelten Scorewerts und über die für den Basisscore genutzten Daten und Kriterien.
+    Am 17. März 2026 führte die SCHUFA ein neues Scoreverfahren mit zwölf gewichteten Kriterien ein; über
+    die Revisionen verhandelte der I. Zivilsenat des Bundesgerichtshofs am 18. Juni 2026.'
+  sachverhalt_quelle: volltext
+- id: de-2025-olg-dresden-scoring
+  jurisdiktion: de
+  gericht: Oberlandesgericht Dresden, 4. Zivilsenat
+  instanz: berufung
+  aktenzeichen: '4 U 884/24 (parallel: 4 U 144/25, 4 U 883/24, 4 U 1492/24, 4 U 615/25)'
+  ecli: null
+  datum: 2025-10-07
+  parteien:
+    klaeger: Betroffene Verbraucher
+    beklagter: SCHUFA Holding AG
+  status: rechtsmittel
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  anspruchsgrundlage: Art. 15 Abs. 1 lit. h DSGVO; Art. 22 DSGVO; Art. 4 Nr. 4 DSGVO
+  kernfrage: Muss eine Auskunftei die Gewichtung der wichtigsten Scorekriterien offenlegen, damit der
+    Betroffene die Plausibilität seines Scores prüfen kann?
+  ergebnis: 'Teilweise zugunsten der Kläger. Der Senat bejahte eine automatisierte Entscheidungsfindung
+    einschließlich Profiling nach Art. 4 Nr. 4 DSGVO und verurteilte die Beklagte zu ergänzenden Angaben
+    über die Gewichtung der wichtigsten Scorekriterien. Der Auskunftsanspruch reicht so weit, wie er die
+    Prüfung von Richtigkeit und Plausibilität des Scores ermöglicht; die Informationen müssen für Laien
+    verständlich sein. Eine mathematische Erläuterung der statistischen Berechnung oder die Offenlegung
+    des Algorithmus ist nicht geschuldet. Zwischen dem angewandten Verfahren und den verwendeten Kriterien
+    einerseits und dem automatisierten Ergebnis andererseits muss aber eine objektiv nachprüfbare Entsprechung
+    und Kausalität bestehen. Revision zum BGH (I ZR 226/25 bis I ZR 230/25).
+
+    '
+  bedeutung: hoch
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Dresden&Datum=07.10.2025&Aktenzeichen=4+U+884%2F24
+  zusammenfassung_url: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026052.html
+  bezug_regelwerke:
+  - de-bdsg-scoring
+  - dsgvo-schnittstelle
+  instanzenzug:
+  - de-2026-bgh-schufa-auskunft
+  - eu-2025-dun-bradstreet
+  - de-2026-olg-stuttgart-scoring
+  quelle_tracker: dejure.org (Entscheidungsnachweis; Vorinstanz LG Leipzig, 29.05.2024 – 7 O 2658/23;
+    Revisionsverfahren beim BGH)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Der Dresdner Senat hat als einziges Oberlandesgericht die kontrafaktische Logik aus
+    C-203/22 ernst genommen: Ohne Kenntnis der Gewichtung kann der Betroffene nicht nachvollziehen, wie
+    eine Änderung seiner Daten das Ergebnis verschoben hätte. Vorinstanzen waren LG Leipzig (07 O 2658/23
+    und 07 O 2599/23), LG Chemnitz (1 O 1454/23) und LG Görlitz (1 O 100/24, 1 O 261/24). Dass ausgerechnet
+    dieser Senat vom BGH kassiert zu werden droht, wäre die dogmatisch schwächere Lösung — aber die praktisch
+    erwartete.
+
+    '
+  normen:
+  - bdsg-31
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22
+  - dsgvo-art-4-nr-4
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht gefunden. Die sächsische Justiz (justiz.sachsen.de,
+    ESAMOSplus) weist zu 4 U 884/24 keinen Volltext nach; eine amtliche Rechtsprechungsdatenbank mit dieser
+    Entscheidung war nicht auffindbar. quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist OLG Dresden,
+    4. Zivilsenat, 07.10.2025 – 4 U 884/24 aus, Gegenstand Umfang der Auskunft über eine automatisierte
+    Bonitätsbeurteilung nach Art. 15 DSGVO. Gericht, Senat, Datum und Aktenzeichen stimmen.'
+  - '05.09.2026: Verfahrensgang ergänzt — nach dejure ist Vorinstanz das LG Leipzig, Urteil vom 29.05.2024
+    – 7 O 2658/23, und ein Revisionsverfahren beim BGH ist anhängig (dort als I ZR 226/25 geführt). Das
+    Aktenzeichen des Revisionsverfahrens ist nur an der Datenbankfundstelle belegt und deshalb nicht in
+    die Felder übernommen. Der Status ''rechtsmittel'' ist bestätigt.'
+  quelle_art: datenbank
+- id: de-2026-olg-stuttgart-scoring
+  jurisdiktion: de
+  gericht: Oberlandesgericht Stuttgart, 9. Zivilsenat
+  instanz: berufung
+  aktenzeichen: 9 U 148/25
+  ecli: null
+  datum: 2026-02-03
+  parteien:
+    klaeger: Betroffener Verbraucher
+    beklagter: Wirtschaftsauskunftei
+  status: rechtskraeftig
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  anspruchsgrundlage: Art. 15 Abs. 1 lit. h, Art. 22 DSGVO; Art. 6 Abs. 1 UAbs. 1 lit. f DSGVO
+  kernfrage: Genügt für den Auskunftsanspruch die Angabe des konkret angewandten Verfahrens und seiner
+    Grundsätze, oder muss die Gewichtung der Kriterien offengelegt werden?
+  ergebnis: 'Der Bonitätsscore ist nicht rechtswidrig. Die Datenverarbeitung der Auskunftei ist nach Art.
+    6 Abs. 1 UAbs. 1 lit. f DSGVO gerechtfertigt; berechtigte Interessen überwiegen. Zur Auskunft genügen
+    Angaben über das konkret angewandte Verfahren und die zugrunde liegenden Grundsätze; eine vollständige
+    Offenlegung des Algorithmus ist nicht geschuldet. Der Senat setzt sich ausdrücklich von OLG Dresden
+    und VG Wiesbaden ab: Die Forderung nach klareren Gewichtungsangaben laufe im Ergebnis auf die verbotene
+    Algorithmusoffenlegung hinaus. Gestützt auf EuGH C-203/22, wonach der Betroffene Verfahren und Grundsätze
+    kennen muss, um Richtigkeit und Rechtmäßigkeit zu prüfen.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Stuttgart&Datum=03.02.2026&Aktenzeichen=9+U+148%2F25
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - de-bdsg-scoring
+  - dsgvo-schnittstelle
+  instanzenzug:
+  - eu-2025-dun-bradstreet
+  - de-2025-olg-dresden-scoring
+  - de-2026-bgh-schufa-auskunft
+  quelle_tracker: dejure.org (Entscheidungsnachweis; Vorinstanz LG Heilbronn – 3 O 11/25)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die Gegenposition zu Dresden, und die vom BGH voraussichtlich bestätigte. Der argumentative
+    Kern ist ein Slippery-Slope-Argument: Jede Gewichtungsangabe sei ein Schritt zur Algorithmusoffenlegung.
+    Das ist nicht zwingend — C-203/22 verlangt gerade eine Erläuterung, die die Formel nicht preisgibt,
+    und der Gerichtshof hält den Konflikt für im In-camera-Verfahren auflösbar. Der Stuttgarter Senat
+    übergeht diesen prozessualen Ausweg. Vorbefasst mit derselben Frage: OLG Stuttgart, 24.03.2025 – 9
+    U 176/24.
+
+    '
+  normen:
+  - bdsg-31
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22
+  - dsgvo-art-6-abs-1-lit-f
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht gefunden. In der Rechtsprechungsdatenbank des Landes
+    Baden-Württemberg (landesrecht-bw.de) ist zu 9 U 148/25 nichts veröffentlicht. quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist OLG Stuttgart,
+    9. Zivilsenat, Urteil vom 03.02.2026 – 9 U 148/25 aus, Gegenstand Auskunftsanspruch gegenüber einer
+    Wirtschaftsauskunftei bei automatisierter Bonitätsbeurteilung, Vorinstanz LG Heilbronn – 3 O 11/25.
+    Gericht, Senat, Datum und Aktenzeichen stimmen; die Vorinstanz war bisher nicht erfasst.'
+  - '05.09.2026: Nicht geändert — der Status ''rechtskraeftig'' ließ sich weder am amtlichen noch am Datenbanknachweis
+    belegen und bleibt offen.'
+  quelle_art: datenbank
+- id: de-2025-lg-bamberg-scoring
+  jurisdiktion: de
+  gericht: Landgericht Bamberg
+  instanz: erstinstanzlich
+  aktenzeichen: 41 O 749/24 KOIN
+  ecli: null
+  datum: 2025-03-26
+  parteien:
+    klaeger: Betroffener Verbraucher
+    beklagter: SCHUFA Holding AG
+  status: rechtsmittel
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  anspruchsgrundlage: Art. 22 Abs. 1 DSGVO; §§ 823 Abs. 2, 1004 BGB
+  kernfrage: Ist bereits die automatisierte Berechnung und Mitteilung eines Bonitätsscores an potentielle
+    Vertragspartner eine verbotene automatisierte Entscheidung nach Art. 22 Abs. 1 DSGVO?
+  ergebnis: 'Ja. Der Kammer folgend ist der Begriff der automatisierten Entscheidung nach C-634/21 so
+    weit auszulegen, dass er das Ergebnis der Berechnung der Fähigkeit einer Person zur Erfüllung künftiger
+    Zahlungsverpflichtungen in Form eines Wahrscheinlichkeitswerts erfasst. Die Mitteilung automatisiert
+    berechneter Scores an potentielle Vertragspartner stelle einen erheblich größeren Eingriff dar als
+    die vom BGH in VI ZR 10/24 behandelte Konstellation. Unterlassungsanspruch bejaht.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=LG+Bamberg&Datum=26.03.2025&Aktenzeichen=41+O+749%2F24
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - de-bdsg-scoring
+  - dsgvo-schnittstelle
+  instanzenzug:
+  - eu-2023-schufa-scoring
+  - de-2026-olg-bamberg-scoring
+  quelle_tracker: BAYERN.RECHT / gesetze-bayern.de (amtliche Rechtsprechungsdatenbank des Freistaats Bayern);
+    dejure.org und openJur als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die weitestgehende deutsche Entscheidung zu Art. 22 DSGVO — sie verbietet der Auskunftei
+    die automatisierte Scoreerstellung selbst, nicht nur die Auskunftsverweigerung. Berufung ist beim
+    OLG Bamberg unter 1 U 65/25 anhängig; das parallel geführte Verfahren 10 U 61/25 ist am 21.01.2026
+    gegenteilig entschieden worden. Die Instanzrechtsprechung im OLG-Bezirk Bamberg widerspricht sich
+    damit intern.
+
+    '
+  normen:
+  - bdsg-31
+  - bgb-1004
+  - bgb-823-abs-2
+  - dsgvo-art-22-abs-1
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Volltext in der bayerischen Rechtsprechungsdatenbank
+    gesetze-bayern.de unter Y-300-Z-GRURRS-B-2025-N-7269. Das Dokument weist aus: LG Bamberg, Endurteil
+    vom 26.03.2025, Az. 41 O 749/24 KOIN; die Beklagte wird verurteilt, den Bonitätsscore nicht ausschließlich
+    automatisiert zu erstellen, dazu 1.000 Euro Schadensersatz. Normen: § 823 Abs. 2, § 1004 BGB, Art.
+    22 Abs. 1 und Art. 82 DSGVO, § 31 BDSG. Datum, Aktenzeichen und Ergebnis stimmen.'
+  - '05.09.2026: Nicht geändert — das Feld gericht nennt nur das Landgericht Bamberg. Die Kammerbezeichnung
+    ließ sich am Dokument nicht zweifelsfrei ablesen; die im Aktenzeichen geführte Ziffer 41 allein trägt
+    keine Ergänzung.'
+  quelle_art: fehlt
+- id: de-2026-olg-bamberg-scoring
+  jurisdiktion: de
+  gericht: Oberlandesgericht Bamberg, 10. Zivilsenat
+  instanz: berufung
+  aktenzeichen: 10 U 61/25 e
+  ecli: null
+  datum: 2026-01-21
+  parteien:
+    klaeger: Betroffener Verbraucher
+    beklagter: Wirtschaftsauskunftei
+  status: rechtsmittel
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  anspruchsgrundlage: Art. 15 Abs. 1 lit. h, Art. 22 Abs. 1 DSGVO; Art. 82 DSGVO
+  kernfrage: Setzt Art. 22 Abs. 1 DSGVO voraus, dass der automatisiert erzeugte Wert die Entscheidung
+    eines Dritten maßgeblich bestimmt, oder genügt die interne Scoreerstellung?
+  ergebnis: 'Hinweisbeschluss nach § 522 Abs. 2 ZPO, kein Endurteil: Der Senat beabsichtigt einstimmig,
+    die Berufung zurückzuweisen, weil sie offensichtlich keine Aussicht auf Erfolg hat und weder grundsätzliche
+    Bedeutung noch Fortbildungsbedarf besteht. In der Sache: keine Ansprüche gegen die Auskunftei aus
+    der automatischen Scoreerstellung. Art. 22 Abs. 1 DSGVO schützt nur vor automatisierten Entscheidungen
+    mit unmittelbarer rechtlicher Wirkung ohne Einschaltung eines Dritten; die bloße Scoreerstellung genügt
+    nicht. Art. 15 Abs. 1 lit. h DSGVO verlangt keine vollständige Offenlegung des Algorithmus.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Bamberg&Datum=21.01.2026&Aktenzeichen=10+U+61%2F25
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - de-bdsg-scoring
+  - dsgvo-schnittstelle
+  instanzenzug:
+  - de-2025-lg-bamberg-scoring
+  - eu-2023-schufa-scoring
+  - de-2026-bgh-schufa-auskunft
+  quelle_tracker: BAYERN.RECHT / gesetze-bayern.de (amtliche Rechtsprechungsdatenbank des Freistaats Bayern);
+    dejure.org als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Genau die Auslegung, die der BGH-Vorsitzende in der Verhandlung vom 18.06.2026 angedeutet
+    hat, und genau die, die C-634/21 vermeiden wollte: Wenn nur die äußere Anwendung zählt, läuft der
+    Auskunftsanspruch gegen die Auskunftei wieder leer, weil sie nicht entscheidet. Für KI-Bewertungssysteme
+    jenseits der Bonität — Bewerberauswahl, Versicherungstarifierung, Betrugserkennung — ist diese Weichenstellung
+    folgenreicher als der Bonitätsfall selbst.
+
+    '
+  normen:
+  - bdsg-31
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22-abs-1
+  - dsgvo-art-82
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Volltext in der bayerischen Rechtsprechungsdatenbank
+    gesetze-bayern.de unter Y-300-Z-BECKRS-B-2026-N-770.'
+  - '05.09.2026: Aktenzeichen korrigiert. Das amtliche Dokument führt ''10 U 61/25 e''; der Eintrag hatte
+    ''10 U 61/25'' ohne den Zusatz.'
+  - '05.09.2026: Entscheidungsart korrigiert. Es handelt sich um einen Hinweisbeschluss nach § 522 Abs.
+    2 ZPO vom 21.01.2026, nicht um eine Sachentscheidung. Der Eintrag beschrieb das Ergebnis wie ein Endurteil;
+    ergebnis wurde entsprechend neu gefasst.'
+  - '05.09.2026: Status korrigiert von ''rechtskraeftig'' auf ''rechtsmittel''. Mit einem Hinweisbeschluss
+    ist das Berufungsverfahren nicht abgeschlossen; ob die Berufung anschließend zurückgewiesen oder zurückgenommen
+    wurde, ist nicht belegt.'
+  - '05.09.2026: Vorinstanz am amtlichen Dokument bestätigt und ergänzt: LG Würzburg, Endurteil vom 16.07.2025,
+    Az. 21 O 999/24. Eine ECLI weist das Dokument nicht aus.'
+  quelle_art: fehlt
+- id: de-2025-vg-bremen-automatisierter-va
+  jurisdiktion: de
+  gericht: Verwaltungsgericht Bremen, 2. Kammer
+  instanz: erstinstanzlich
+  aktenzeichen: 2 K 763/23
+  ecli: null
+  datum: 2025-07-14
+  parteien:
+    klaeger: Gebührenschuldner
+    beklagter: Bremer Entsorgungsträger
+  status: rechtsmittel
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - governance
+  - grundrechte
+  anspruchsgrundlage: Art. 22 DSGVO; § 35a VwVfG (bzw. landesrechtliche Entsprechung); § 86 VwGO
+  kernfrage: Wo liegen die Grenzen des vollständig automatisierten Erlasses eines Verwaltungsakts, wenn
+    die Gebührenberechnung ohne menschliche Einzelfallprüfung erfolgt?
+  ergebnis: 'Die Kammer hat die Rechtmäßigkeit eines automatisiert erlassenen Abfallgebührenbescheids
+    geprüfte und dabei Art. 22 DSGVO sowie die Anforderungen an den vollständig automatisierten Verwaltungsakt
+    herangezogen. Gegenstand waren zugleich die Wirksamkeit der Gebührensatzung und die Berechnung. Berufungszulassungsantrag
+    beim OVG Bremen unter 2 LA 227/25 anhängig.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=VG+Bremen&Datum=14.07.2025&Aktenzeichen=2+K+763%2F23
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - de-automatisierter-verwaltungsakt
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2023-schufa-scoring
+  quelle_tracker: dejure.org (Entscheidungsnachweis; Berufungszulassungsverfahren beim OVG Bremen – 2
+    LA 227/25)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die bislang einzige auffindbare deutsche Gerichtsentscheidung, die § 35a VwVfG und
+    Art. 22 DSGVO an einem realen automatisierten Verwaltungsakt zusammenführt. Das Feld ist auffallend
+    leer: Die Massenverfahren der Finanzverwaltung nach § 155 Abs. 4 AO werden praktisch nicht unter dem
+    Gesichtspunkt der Automatisierung angegriffen, sondern materiell. Mit dem Geltungsbeginn des Art.
+    86 KI-VO am 02.08.2026 ändert sich die Angriffsrichtung — und C-806/24 hätte sie geklärt, wenn der
+    EuGH entschieden hätte. Der Berufungszulassungsantrag ist zu überwachen.
+
+    '
+  normen:
+  - dsgvo-art-22
+  - ki-vo-art-86
+  - vwvfg-24
+  - vwvfg-35a
+  - vwvfg-39
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht gefunden. Die Entscheidungsübersicht des Verwaltungsgerichts
+    Bremen ist abrufbar, führt 2 K 763/23 aber nicht; die Volltextsuche des Gerichts lief in einen Zeitüberschreitungsfehler.
+    quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist VG Bremen,
+    2. Kammer, Urteil vom 14.07.2025 – 2 K 763/23 aus, Gegenstand die Rechtmäßigkeit eines automatisiert
+    erlassenen Gebührenbescheids. Gericht, Kammer, Datum und Aktenzeichen stimmen.'
+  - '05.09.2026: Verfahrensgang ergänzt — nach dejure ist beim OVG Bremen ein Berufungszulassungsverfahren
+    unter 2 LA 227/25 anhängig. Der Status ''rechtsmittel'' ist damit bestätigt.'
+  quelle_art: datenbank
+- id: de-2024-lg-kiel-ki-falschinfo
+  jurisdiktion: de
+  gericht: Landgericht Kiel, 6. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 6 O 151/23
+  ecli: null
+  datum: 2024-02-29
+  parteien:
+    klaeger: Betroffenes Unternehmen
+    beklagter: Betreiber eines Wirtschaftsinformationsportals
+  status: erstinstanzlich
+  themenachsen:
+  - haftung
+  - content
+  - wettbewerb
+  anspruchsgrundlage: §§ 823 Abs. 1, 1004 BGB analog (Unternehmenspersönlichkeitsrecht, eingerichteter
+    und ausgeübter Gewerbebetrieb)
+  kernfrage: Haftet der Betreiber eines Portals, das amtliche Registerdaten per Software automatisiert
+    auswertet und verknüpft, als unmittelbarer Täter für eine dadurch erzeugte Falschinformation über
+    ein Unternehmen?
+  ergebnis: 'Ja. Der Beklagte hatte bewusst eine Software für die Beantwortung von Suchanfragen eingesetzt,
+    die unzureichend programmiert war, um Zuordnungsfehler zu erkennen; dem Kläger wurde fälschlich die
+    Löschungsmitteilung eines anderen Unternehmens zugeordnet. Der Einwand vollautomatisierter Prozesse
+    entlastet nicht. Durch die Bündelung und Verknüpfung amtlicher Bekanntmachungen habe der Betreiber
+    erkennbar Verantwortung für den Inhalt übernommen. Die Wiederholungsgefahr entfiel trotz Löschung
+    nicht, weil das fehleranfällige System unverändert weiterbetrieben wurde.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=LG+Kiel&Datum=29.02.2024&Aktenzeichen=6+O+151%2F23
+  zusammenfassung_url: https://www.dr-bahr.com/news/wirtschaftsdienst-haftet-fuer-ki-verursachte-falschinformationen.html
+  bezug_regelwerke:
+  - de-prodhaftg-modernisierung
+  instanzenzug:
+  - de-2025-lg-hamburg-grok
+  - de-2026-lg-muenchen-ai-overviews
+  quelle_tracker: dejure.org; Kanzlei Dr. Bahr; ESV
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die älteste deutsche Entscheidung dieser Linie und dogmatisch die saubere Wurzel:
+    Wer ein automatisiertes System bewusst einsetzt, haftet als Täter für dessen Ausgaben, nicht als Störer.
+    Der entscheidende Satz betrifft die Wiederholungsgefahr — Löschen des Einzelfalls genügt nicht, solange
+    das System unverändert weiterläuft. Übertragen auf Sprachmodelle heißt das: Ein Unterlassungstitel
+    gegen eine halluzinierte Aussage ist praktisch nur durch Filter oder Unlearning erfüllbar. Genau daran
+    hängt die Vollstreckung aller späteren Entscheidungen.
+
+    '
+  pruefvermerk:
+  - 'Verweis auf produkthaftungsrichtlinie-2024-2853 am 2026-09-03 entfernt: im Eintrag nicht belegt.'
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht sicher zuzuordnen. Das schleswig-holsteinische
+    Portal gesetze-rechtsprechung.sh.juris.de führt die Entscheidung nach dem dejure-Nachweis im Volltext,
+    ist aus dieser Umgebung aber per robots.txt gesperrt; welche Dokumentnummer zu 6 O 151/23 gehört,
+    ließ sich nicht belegen. Es wurde deshalb keine amtliche Adresse eingetragen, quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist LG Kiel,
+    6. Zivilkammer, Urteil vom 29.02.2024 – 6 O 151/23 aus, Gegenstand die Haftung für Falschangaben wegen
+    unzureichend programmierter KI, Normen § 823 Abs. 1, § 1004 BGB, Art. 2 Abs. 1, Art. 5 Abs. 1 Satz
+    1, Art. 12 Abs. 1 Satz 2 GG. Gericht, Kammer, Datum, Aktenzeichen und Ergebnis stimmen.'
+  - '05.09.2026: volltext_url technisch korrigiert — der Schrägstrich im Aktenzeichen war unkodiert und
+    wurde durch %2F ersetzt.'
+  normen:
+  - bgb-1004
+  - bgb-823-abs-1
+  - gg-art-19-abs-3
+  - gg-art-2-abs-1
+  quelle_art: datenbank
+- id: de-2025-lg-hamburg-grok
+  jurisdiktion: de
+  gericht: Landgericht Hamburg, 24. Zivilkammer (Pressekammer)
+  instanz: erstinstanzlich
+  aktenzeichen: 324 O 461/25
+  ecli: null
+  datum: 2025-09-23
+  parteien:
+    klaeger: Campact e.V.
+    beklagter: X.AI LLC (Betreiber des Chatbots Grok)
+  status: erstinstanzlich
+  themenachsen:
+  - haftung
+  - content
+  - grundrechte
+  anspruchsgrundlage: §§ 823 Abs. 1, 1004 BGB analog i.V.m. Art. 2 Abs. 1, 19 Abs. 3 GG (Unternehmenspersönlichkeitsrecht);
+    unwahre Tatsachenbehauptung
+  kernfrage: Haftet der Betreiber eines Sprachmodells auf Unterlassung für eine halluzinierte unwahre
+    Tatsachenbehauptung, und entlastet ihn ein Disclaimer über die Fehleranfälligkeit der KI?
+  ergebnis: 'Der Betreiber haftet. Grok hatte behauptet, Campact e.V. erhalte erhebliche Mittel aus dem
+    Bundeshaushalt — eine frei erfundene Tatsachenbehauptung. Die Kammer rechnete die Äußerung dem Betreiber
+    als eigene zu, nicht dem Nutzer, der den Prompt eingab. Ein Warnhinweis auf mögliche Fehler der KI
+    genügt nicht, um die Haftung auszuschließen; Unterlassung zugesprochen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=LG+Hamburg&Datum=23.09.2025&Aktenzeichen=324+O+461%2F25
+  zusammenfassung_url: https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/lg-hamburg-324o46125x-x-ki-bot-aussage-haftung-halluzination-unterlassung-2025-10-20
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - de-prodhaftg-modernisierung
+  - ki-vo-2024-1689
+  instanzenzug:
+  - de-2024-lg-kiel-ki-falschinfo
+  - de-2026-lg-muenchen-ai-overviews
+  - de-2026-olg-hamm-chatbot-uwg
+  quelle_tracker: dejure.org (Entscheidungsnachweis, GRUR-RR 2026, 78)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die erste deutsche Entscheidung, die einen Modellanbieter — nicht einen Plattformbetreiber,
+    nicht den Nutzer — für die Ausgabe eines Sprachmodells äußerungsrechtlich haften lässt. Die Absage
+    an den Disclaimer ist der praktisch wichtigste Satz: Die gesamte Nutzungsbedingungsarchitektur der
+    Anbieter beruht darauf, dass der Hinweis auf Halluzinationen die Zurechnung unterbricht. Er tut es
+    nicht. Bemerkenswert ist die Klägerseite — eine juristische Person, die sich auf das Unternehmenspersönlichkeitsrecht
+    stützt; für natürliche Personen ist die Schwelle noch niedriger.
+
+    '
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht gefunden. landesrecht-hamburg.de und justiz.hamburg.de
+    sind aus dieser Umgebung per robots.txt gesperrt; eine amtliche Volltextfassung zu 324 O 461/25 war
+    nicht abrufbar. quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist LG Hamburg,
+    324. Zivilkammer, Urteil vom 23.09.2025 – 324 O 461/25 aus, GRUR-RR 2026, 78, Gegenstand die Betreiberhaftung
+    für unrichtige KI-Aussagen. Datum, Aktenzeichen und Gegenstand stimmen.'
+  - '05.09.2026: Nicht geändert — der Entscheidungsnachweis führt die Kammer als ''324. Zivilkammer'',
+    der Eintrag als ''24. Zivilkammer (Pressekammer)''. Das ist dieselbe Kammer; die 324 ist die aus dem
+    Aktenzeichen abgeleitete Schreibweise. Die Bezeichnung des Eintrags bleibt stehen.'
+  normen:
+  - bgb-1004
+  - bgb-823-abs-1
+  - gg-art-1-abs-1
+  - gg-art-19-abs-3
+  - gg-art-2-abs-1
+  quelle_art: datenbank
+- id: de-2026-lg-muenchen-ai-overviews
+  jurisdiktion: de
+  gericht: Landgericht München I, 26. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 26 O 869/26
+  ecli: null
+  datum: 2026-05-28
+  parteien:
+    klaeger: Zwei Unternehmen
+    beklagter: Google (Betreiberin der AI Overviews)
+  status: vergleich
+  themenachsen:
+  - haftung
+  - content
+  - grundrechte
+  - wettbewerb
+  anspruchsgrundlage: §§ 823 Abs. 1, 1004 BGB analog i.V.m. Art. 2 Abs. 1, 19 Abs. 3 GG; Art. 6 VO (EU)
+    2022/2065 (DSA)
+  kernfrage: Sind KI-generierte Suchzusammenfassungen eigene Inhalte der Suchmaschine mit der Folge unmittelbarer
+    Täterhaftung, oder greifen die Haftungsprivilegien für die Vermittlung fremder Inhalte?
+  ergebnis: 'KI-Zusammenfassungen sind eigene Inhalte der Suchmaschine. Weil Google Fremdinformationen
+    zu eigenen synthetisierten Aussagen verdichtet, haftet es als unmittelbarer Täter und nicht als neutraler
+    Vermittler. Die herkömmlichen Haftungsprivilegien für Suchergebnisse und Art. 6 DSA greifen nicht,
+    weil es sich um originären redaktionellen Inhalt und nicht um das bloße Hosten fremden Materials handelt.
+    Die Zusammenfassungen hatten die Klägerinnen mit Betrugsmaschen, "Abo-Fallen" und unseriösen Geschäftspraktiken
+    in Verbindung gebracht. Teilweise stattgebendes Endurteil im Verfahren der einstweiligen Verfügung:
+    Google wurde untersagt, die durch Nutzerbewertungen oder prüfbare Quellen nicht gedeckten Behauptungen
+    zu verbreiten.
+
+    RECHTSMITTELSTAND: Die Verfügungsbeklagte hat Berufung eingelegt (OLG München, Az. 18 U 1744/26 Pre
+    e). Die Parteien haben den Rechtsstreit sodann durch VERGLEICH beendet; das Urteil des LG München
+    I ist damit nach dem amtlichen Hinweis in BAYERN.RECHT GEGENSTANDSLOS. Es entfaltet keine Bindungswirkung
+    mehr und ist nur noch als Argumentationsmaterial verwertbar.
+
+    '
+  bedeutung: hoch
+  volltext_url: null
+  zusammenfassung_url: https://www.heise.de/en/news/LG-Munich-I-Google-ordered-to-pay-for-false-statements-in-AI-summaries-11327217.html
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - ki-vo-2024-1689
+  - de-prodhaftg-modernisierung
+  instanzenzug:
+  - de-2025-lg-hamburg-grok
+  - de-2026-lg-berlin-ai-overviews-marke
+  - de-2024-lg-kiel-ki-falschinfo
+  quelle_tracker: BAYERN.RECHT (gesetze-bayern.de), amtliches Rechtsprechungsportal der Bayerischen Staatsregierung
+    — Volltext und weiterführende Hinweise
+  verifiziert: true
+  letzte_pruefung: '2026-09-05'
+  eigene_bewertung: 'Die meistzitierte deutsche KI-Haftungsentscheidung des Jahres — und zugleich diejenige,
+    deren prozessualer Wert am gründlichsten überschätzt wird. Sie erging im einstweiligen Verfügungsverfahren,
+    wurde mit der Berufung angegriffen und ist durch den Vergleich vor dem OLG München gegenstandslos
+    geworden. Wer sie als "Urteil des LG München I" zitiert, muss diesen Zusatz mitführen; eine obergerichtliche
+    Bestätigung gibt es gerade nicht, und der Vergleich hat die Klärung verhindert.
+
+    Inhaltlich bleibt die Formel wertvoll: Verdichtung fremder Information zu eigener Aussage begründet
+    Eigeninhalt. Sie ist auf jedes RAG-System übertragbar und entzieht generativen Suchfunktionen die
+    Berufung auf Art. 6 DSA. Sie steht in offenem Widerspruch zur vier Tage späteren Berliner Formel,
+    Google schaffe nur die technischen Voraussetzungen. Dass beide Kammern denselben Dienst gegensätzlich
+    einordnen, ist kein Zufall der Anspruchsgrundlage, sondern eine echte Zurechnungsdivergenz — und sie
+    bleibt nach dem Vergleich ungeklärt. Die nächste Kammer, die damit befasst wird, entscheidet auf unverändert
+    offenem Feld.
+
+    '
+  sekundaerquelle_url: https://www.ra-plutte.de/lg-munchen-google-haftet-fur-falschaussagen-in-ai-overviews/
+  dokumenttyp: Endurteil im Verfahren der einstweiligen Verfügung, nicht Hauptsacheurteil
+  parteien_klaeger: Zwei Verlagsunternehmen als Verfügungsklägerinnen (Verfügungsklägerin zu 2 mit dem
+    Verlagsbereich GeraMond)
+  parteien_beklagter: Google (Betreiberin der Suchmaschine google.de, Verfügungsbeklagte)
+  pruefvermerk:
+  - BAYERN.RECHT (gesetze-bayern.de) ist das amtliche Bürgerservice-Portal der Bayerischen Staatsregierung
+    und stellt die bayerische Rechtsprechung im Volltext kostenfrei bereit; der bisherige Link war eine
+    Kanzleiseite (ra-plutte.de).
+  - 'Volltext geöffnet: Landgericht München I, 26. Zivilkammer, Endurteil vom 28.05.2026, Az. 26 O 869/26
+    — Gericht, Spruchkörper, Aktenzeichen und Datum stimmen mit dem Eintrag überein.'
+  - 'Inhalt bestätigt: Haftung des Suchmaschinenbetreibers für KI-generierte Zusammenfassungen (AI Overviews)
+    als eigene Äußerung; keine Berufung auf das Hostprovider-Privileg; Verletzung des Unternehmenspersönlichkeitsrechts
+    durch unwahre Tatsachenbehauptungen über Abo-Fallen.'
+  - 'WICHTIG für den Aufruf: Der Parameter ?hl=true ist erforderlich. Ohne ihn liefert gesetze-bayern.de
+    für diese Dokument-ID eine Fehlerseite (''Es ist ein unerwarteter Fehler aufgetreten'').'
+  - Dokument-ID Y-300-Z-BECKRS-B-2026-N-11860 (BeckRS-Fundstelle 2026, 11860).
+  - 'AM VOLLTEXT GEPRÜFT (05.09.2026, BAYERN.RECHT, Dokument-ID Y-300-Z-BECKRS-B-2026-N-11860, Aufruf
+    nur mit dem Parameter ?hl=true): Landgericht München I, 26. Zivilkammer, Endurteil vom 28.05.2026,
+    Az. 26 O 869/26 — Gericht, Spruchkörper, Aktenzeichen und Datum stimmen mit dem Eintrag überein.'
+  - 'NEUER RECHTSMITTELSTAND — WESENTLICHE ÄNDERUNG: Die weiterführenden Hinweise des Volltextes lauten:
+    ''Die Parteien haben nach Einlegung der Berufung durch die Verfügungsbeklagtenseite (Az. 18 U 1744/26
+    Pre e) den Rechtsstreit durch Vergleich beendet. Das Urteil zum Az. 26 O 869/26 ist damit gegenstandslos.''
+    Der Eintrag führte das Urteil bisher als geltende erstinstanzliche Entscheidung.'
+  - status von 'erstinstanzlich' auf 'vergleich' geändert; das Berufungsaktenzeichen des OLG München (18
+    U 1744/26 Pre e) und der Gegenstandslosigkeitsvermerk sind im Ergebnisfeld nachgetragen.
+  - 'volltext_url auf BAYERN.RECHT gesetzt und quelle_art von ''fehlt'' auf ''amtlich'' geändert; der
+    bisherige Link war eine Kanzleiseite (ra-plutte.de). Fundstellen ergänzt: BeckRS 2026, 11860 = NJW
+    2026, 2271 = K&R 2026, 519; Praxishinweis Veelken, GRUR-Prax 2026, 426.'
+  - verifiziert bleibt true — der Volltext einschließlich der Kopfzeile, des Untersagungstenors und der
+    weiterführenden Hinweise wurde gelesen.
+  fundstelle: BeckRS 2026, 11860 = NJW 2026, 2271 = K&R 2026, 519 = LSK 2026, 11860
+  normen:
+  - bgb-1004
+  - bgb-823-abs-1
+  - gg-art-19-abs-3
+  - gg-art-2-abs-1
+  quelle_art: fehlt
+- id: de-2026-lg-berlin-ai-overviews-marke
+  jurisdiktion: de
+  gericht: Landgericht Berlin II, 52. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 52 O 62/26 eV
+  ecli: null
+  datum: 2026-06-01
+  parteien:
+    klaeger: Duft- und Kosmetikunternehmen
+    beklagter: Google
+  status: erstinstanzlich
+  themenachsen:
+  - content
+  - haftung
+  - wettbewerb
+  anspruchsgrundlage: § 14 MarkenG; Art. 9 UMV — markenmäßige Benutzung
+  kernfrage: Benutzt eine Suchmaschine eine Marke markenmäßig, wenn ihre KI-Übersicht auf Anbieter von
+    Duftzwillingen verweist und dabei die Marke nennt?
+  ergebnis: 'Nein. Google benutzt die Marken nicht markenmäßig; es schaffe lediglich die technischen Voraussetzungen
+    dafür, dass die Inhalte Dritter im jeweiligen Text dargestellt werden. Markenmäßige Benutzung erfordere
+    ein aktives Verhalten; die Verkehrskreise verstünden die Übersichten als aggregierte Suchergebnisse,
+    nicht als eigene kommerzielle Aussage der Suchmaschine. Antrag auf einstweilige Verfügung zurückgewiesen.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://www.dr-bahr.com/news/inhalte-in-ki-uebersicht-keine-markenmaessige-nutzung-keine-haftung-von-google.html
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - ki-vo-2024-1689
+  instanzenzug:
+  - de-2026-lg-muenchen-ai-overviews
+  quelle_tracker: rewis.io; dejure.org; Kanzlei Dr. Bahr; Kanzlei Plutte
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der Gegenpol zu München — und die schwächere Begründung. Dass die Verkehrskreise
+    KI-Übersichten als bloße Aggregation verstehen, ist eine empirische Behauptung, die die Kammer nicht
+    belegt und die der Funktionsweise widerspricht: Die Übersicht formuliert neu, sie listet nicht. Markenrechtlich
+    mag das Ergebnis tragfähig sein, weil das Erfordernis der markenmäßigen Benutzung eine eigene Schwelle
+    kennt. Als Zurechnungsaussage taugt es nicht, und es wird zitiert werden, als täte es das.
+
+    '
+  sekundaerquelle_url: https://rewis.io/urteile/urteil/wcj-01-06-2026-52-o-6226/
+  pruefvermerk:
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde der amtliche Volltext des Urteils des Landgerichts
+    Berlin II, 52. Zivilkammer, vom 01.06.2026, Az. 52 O 62/26 eV (keine markenmäßige Benutzung durch
+    KI-generierte Google-Suchübersichten,'
+  suchadresse: https://gesetze.berlin.de/bsbe/search (Suche '52 O 62/26'); ferner https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2026/
+  normen:
+  - markeng-14
+  quelle_art: fehlt
+- id: de-2026-olg-hamm-chatbot-uwg
+  jurisdiktion: de
+  gericht: Oberlandesgericht Hamm, 4. Zivilsenat
+  instanz: erstinstanzlich
+  aktenzeichen: I-4 UKl 3/25
+  ecli: ECLI:DE:OLGHAM:2026:0512.4UKL3.25.00
+  datum: 2026-05-12
+  parteien:
+    klaeger: Verbraucherzentrale Nordrhein-Westfalen e.V.
+    beklagter: Aesthetify GmbH
+  status: rechtsmittel
+  themenachsen:
+  - wettbewerb
+  - haftung
+  - content
+  - sektor-medizin
+  anspruchsgrundlage: §§ 3, 5 Abs. 1, Abs. 2 Nr. 3, 8 UWG; § 2 UWG
+  kernfrage: Sind unwahre Angaben eines KI-Chatbots auf der Unternehmenswebsite dem Unternehmen als irreführende
+    geschäftliche Handlung zuzurechnen, oder ist der Chatbot ein nicht beherrschbarer Dritter?
+  ergebnis: 'Zurechnung bejaht. Der Chatbot der Beklagten hatte zwei Ärzte als "Facharzt für plastische
+    und ästhetische Chirurgie" und "Facharzt für ästhetische Medizin" bezeichnet — Bezeichnungen, die
+    es so nicht gibt und die die Ärzte nicht führen. Der Senat wertete das als unwahre Angabe über die
+    berufliche Qualifikation nach § 5 Abs. 1, Abs. 2 Nr. 3 UWG. Der Chatbot ist kein Dritter im Sinne
+    des Gesetzes, sondern Teil der geschäftlichen Organisation des Unternehmens; die Verantwortung besteht
+    unabhängig davon, ob das System ursprünglich mit zutreffenden Daten bespielt wurde. Unterlassung zugesprochen.
+    Revision zum BGH wegen der grundsätzlichen Frage der Zurechnung von KI-Aussagen zugelassen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://nrwe.justiz.nrw.de/olgs/hamm/j2026/4_UKl_3_25_Urteil_20260512.html
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamm&Datum=12.05.2026&Aktenzeichen=4+UKl+3%2F25
+  zusammenfassung_url: https://www.justiz.nrw/presse/2026-05-12
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  instanzenzug:
+  - de-2025-lg-hamburg-grok
+  - de-2026-lg-muenchen-ai-overviews
+  quelle_tracker: NRWE — Rechtsprechungsdatenbank des Landes Nordrhein-Westfalen (nrwe.justiz.nrw.de);
+    Pressemitteilung der NRW-Justiz vom 12.05.2026; dejure.org als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: '2026-09-07'
+  eigene_bewertung: 'Die erste obergerichtliche deutsche Entscheidung zur Zurechnung von KI-Ausgaben überhaupt,
+    und mit zugelassener Revision der wahrscheinlichste Weg, auf dem die Frage zum BGH gelangt — früher
+    als über die Münchner und Hamburger Äußerungsfälle. Die Formel "der Chatbot ist kein Dritter, sondern
+    Teil der geschäftlichen Organisation" ist bewusst schlicht und deshalb weit übertragbar: Sie trifft
+    Kundenservice-Bots, Produktberater und automatisierte Angebotserstellung gleichermaßen. Praktisch
+    bedeutet sie, dass die Exkulpation über den Modellanbieter ausscheidet — der Verwender haftet dem
+    Markt gegenüber und muss im Innenverhältnis Regress suchen.
+
+    '
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Volltext in der NRW-Rechtsprechungsdatenbank NRWE unter
+    nrwe.justiz.nrw.de/olgs/hamm/j2026/4_UKl_3_25_Urteil_20260512.html. Das Dokument bestätigt OLG Hamm,
+    4. Zivilsenat, Urteil vom 12.05.2026, Az. 4 UKl 3/25, Klage eines nach § 4 UKlaG eingetragenen Verbraucherverbands,
+    Unterlassung der Bezeichnung der Geschäftsführer als Fachärzte, Ordnungsmittelandrohung bis 250.000
+    Euro und 260 Euro Abmahnkosten. Die dejure-Adresse steht jetzt als sekundaerquelle_url.'
+  - '05.09.2026: ECLI ergänzt. Das amtliche Dokument trägt ECLI:DE:OLGHAM:2026:0512.4UKL3.25.00; das Feld
+    war leer.'
+  - '05.09.2026: instanz korrigiert von ''berufung'' auf ''erstinstanzlich''. Das Urteil sagt wörtlich:
+    ''Der Senat ist für die vorliegende - erstinstanzliche - Unterlassungsklage gemäß § 6 Abs. 1 Satz
+    1 UKlaG in der seit dem 13.10.2023 geltenden Fassung sachlich und örtlich ausschließlich zuständig.''
+    Eine Vorinstanz gibt es nicht; das OLG entscheidet hier als erstes Gericht.'
+  - '05.09.2026: Der Senat hat die Revision zugelassen. Ob sie eingelegt wurde, ist nicht belegt; der
+    Status ''rechtsmittel'' wurde deshalb nicht angetastet und ist zu prüfen.'
+  - '07.09.2026: Amtliche Pressemitteilung des OLG Hamm vom 12.05.2026 über justiz.nrw.de erneut gelesen:
+    Sie sagt allein "hat der Senat die Revision zum Bundesgerichtshof zugelassen" und trifft zur Einlegung
+    und zur Rechtskraft keine Aussage. Die Einzelseite olg-hamm.nrw.de/.../16_26_PE_KI-Chatbot/ lieferte
+    eine Fehlerseite. Der Widerspruch zur Angabe der Verbraucherzentrale NRW ist dokumentiert und nicht
+    aufgelöst; die Frist de-2026-olg-hamm-chatbot-uwg-f1 (15.10.2026) bleibt der richtige Aufhänger für
+    die nächste Prüfung an den BGH-Terminhinweisen.'
+  normen:
+  - uwg-3
+  - uwg-5
+  - uwg-5a
+  - uwg-8
+  hinweis_widerspruch: 'Der Status "rechtsmittel" ist am 07.09.2026 nicht belegt. Amtlich belegt ist allein,
+    dass der Senat die Revision zugelassen hat (Pressemitteilung des OLG Hamm vom 12.05.2026 über justiz.nrw.de)
+    — nicht, dass sie eingelegt wurde. Die Verbraucherzentrale NRW als Klägerin schreibt dagegen auf ihrer
+    Urteilsseite mit Stand 01.06.2026, das Urteil sei rechtskräftig. Das ist fristrechtlich zweifelhaft:
+    Die Revisionsfrist beträgt nach § 548 ZPO einen Monat ab Zustellung des vollständigen Urteils, war
+    am 01.06.2026 also auch bei sofortiger Zustellung nicht abgelaufen; "rechtskräftig" setzt daher einen
+    Rechtsmittelverzicht voraus oder ist ungenau. Ein BGH-Aktenzeichen ist über dejure, justiz.nrw.de,
+    LTO und medien-internet-und-recht.de nicht auffindbar.'
+  quelle_art: amtlich
+  sachverhalt: Die Aesthetify GmbH bietet ästhetisch-medizinische Behandlungen an und ließ auf ihrer Website
+    einen KI-Chatbot Auskunft über das Unternehmen geben. Der Chatbot bezeichnete die beiden Geschäftsführer
+    als „Facharzt für plastische und ästhetische Chirurgie" und als „Facharzt für ästhetische Medizin"
+    — Bezeichnungen, die es so nicht gibt und die die beiden auch nicht führen. Die Verbraucherzentrale
+    Nordrhein-Westfalen e.V., ein nach § 4 UKlaG eingetragener Verband, mahnte das Unternehmen ab. Sie
+    erhob anschließend Unterlassungsklage und verlangte daneben 260 Euro Abmahnkosten; für eine solche
+    Klage ist nach § 6 Abs. 1 Satz 1 UKlaG das Oberlandesgericht Hamm in erster Instanz ausschließlich
+    zuständig.
+  sachverhalt_quelle: eintrag
+- id: de-2025-lg-berlin-ki-stimme
+  jurisdiktion: de
+  gericht: Landgericht Berlin II, 2. Zivilkammer
+  instanz: erstinstanzlich
+  aktenzeichen: 2 O 202/24
+  ecli: null
+  datum: 2025-08-20
+  parteien:
+    klaeger: Manfred Lehmann (Synchronsprecher)
+    beklagter: Betreiber eines YouTube-Kanals
+  status: erstinstanzlich
+  themenachsen:
+  - grundrechte
+  - content
+  - haftung
+  anspruchsgrundlage: Allgemeines Persönlichkeitsrecht (Art. 2 Abs. 1, 1 Abs. 1 GG); § 823 BGB; §§ 22,
+    23 KUG analog; § 287 Abs. 2 ZPO
+  kernfrage: Schützt das allgemeine Persönlichkeitsrecht die Stimme auch gegen eine KI-generierte Nachahmung,
+    und wie bemisst sich der Schadensersatz?
+  ergebnis: 'Das allgemeine Persönlichkeitsrecht schützt die Stimme als Merkmal der Persönlichkeit. Es
+    macht keinen Unterschied, ob eine wiedererkennbare Stimme imitiert oder mithilfe von KI nachgeahmt
+    wird. Der Beklagte hatte zwei Videos mit einer KI-Nachahmung der bekannten Synchronstimme vertont,
+    ohne Einwilligung und ohne Kennzeichnung als KI-generiert. Auch bei analoger Anwendung des § 23 Abs.
+    1 KUG bleibt die Nutzung rechtswidrig; weder zeitgeschichtliche Relevanz noch legitime künstlerische
+    Zwecke lagen vor. Fiktive Lizenzgebühr nach § 287 Abs. 2 ZPO: mindestens 2.000 Euro je Video, insgesamt
+    4.000 Euro, bemessen nach Bekanntheit des Klägers, Reichweite des Kanals (rund 190.000 Abonnenten)
+    und vergleichbaren Mindesthonoraren.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=LG+Berlin+II&Datum=20.08.2025&Aktenzeichen=2+O+202%2F24
+  zusammenfassung_url: https://kremer.legal/das-lg-berlin-spricht-klartext-zum-recht-an-der-eigenen-stimme/
+  bezug_regelwerke:
+  - de-deepfake-strafrecht
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: dejure.org (Entscheidungsnachweis, NJW 2025, 3514; GRUR-RR 2025, 472)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die deutsche Antwort auf die amerikanische Right-of-Publicity-Debatte — und sie kommt
+    ohne neues Recht aus. Der Satz, es mache keinen Unterschied, ob imitiert oder KI-generiert werde,
+    entzieht der Verteidigung "es ist ja nicht seine Stimme, sondern eine Nachbildung" den Boden. Praktisch
+    relevant ist die Bemessung: 2.000 Euro je Video ist niedrig genug, um Massenverstöße nicht zu verhindern,
+    aber hoch genug, um Abmahnungen wirtschaftlich zu machen. Für Synchron- und Werbesprecher ist das
+    die derzeit einzige belastbare Grundlage; ein Leistungsschutzrecht an der Stimme existiert nicht.
+
+    '
+  hinweis_datenqualitaet: 'Die volltext_url verweist auf eine Sammelseite, die das Urteil nachweist; ein
+    amtlicher Volltext war nicht frei abrufbar. Die Wiedergabe beruht auf übereinstimmenden Fachberichten.
+
+    '
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht gefunden. Die Berliner Vorschriften- und Rechtsprechungsdatenbank
+    (gesetze.berlin.de) ist per robots.txt gesperrt und weist zu 2 O 202/24 auch keinen auffindbaren Datensatz
+    aus; eine Pressemitteilung der Berliner Gerichte zu dem Verfahren gibt es nicht. quelle_art bleibt
+    ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist LG Berlin
+    II, 2. Zivilkammer, Urteil vom 20.08.2025 – 2 O 202/24 aus, NJW 2025, 3514 und GRUR-RR 2025, 472,
+    Gegenstand Ansprüche bei Verwendung einer KI-generierten Stimme zu Werbezwecken ohne Einwilligung.
+    Datum, Aktenzeichen und Gegenstand stimmen.'
+  - '05.09.2026: Kammer ergänzt — 2. Zivilkammer; das Feld gericht nannte bisher nur das Landgericht Berlin
+    II.'
+  normen:
+  - bgb-253
+  - bgb-823-abs-1
+  - gg-art-1-abs-1
+  - gg-art-2-abs-1
+  - kug-22
+  - kug-23
+  - zpo-287
+  quelle_art: datenbank
+- id: de-2024-arbg-hamburg-chatgpt
+  jurisdiktion: de
+  gericht: Arbeitsgericht Hamburg, 24. Kammer
+  instanz: erstinstanzlich
+  aktenzeichen: 24 BVGa 1/24
+  ecli: null
+  datum: 2024-01-16
+  parteien:
+    klaeger: Konzernbetriebsrat
+    beklagter: Arbeitgeberin
+  status: erstinstanzlich
+  themenachsen:
+  - arbeit
+  - governance
+  - datenschutz
+  anspruchsgrundlage: § 87 Abs. 1 Nr. 1 und Nr. 6 BetrVG; § 85 Abs. 2 ArbGG (einstweilige Verfügung)
+  kernfrage: Ist die Erlaubnis, ChatGPT und vergleichbare KI-Anwendungen über private Accounts im Browser
+    zu nutzen, samt zugehöriger Nutzungsrichtlinie mitbestimmungspflichtig?
+  ergebnis: 'Nein; sämtliche Anträge des Konzernbetriebsrats zurückgewiesen. Zu § 87 Abs. 1 Nr. 1 BetrVG:
+    Die Arbeitgeberin hatte den Beschäftigten lediglich ein neues Arbeitsmittel unter bestimmten Bedingungen
+    zur Verfügung gestellt; das betrifft das mitbestimmungsfreie Arbeitsverhalten, nicht das Ordnungsverhalten.
+    Vorgaben und Hinweise zur Nutzung eines neuen Arbeitsmittels unterfallen damit nicht der Mitbestimmung.
+    Zu § 87 Abs. 1 Nr. 6 BetrVG: Kein Mitbestimmungsrecht, weil die Beschäftigten private Accounts nutzten,
+    die Anwendungen browserbasiert ohne Installation auf Firmenhardware liefen und der Arbeitgeber keinen
+    Zugriff auf Nutzungsdaten hatte — es fehlt an einer zur Überwachung bestimmten technischen Einrichtung.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=ArbG+Hamburg&Datum=16.01.2024&Aktenzeichen=24+BVGa+1%2F24
+  zusammenfassung_url: https://www.kuhlen-berlin.de/news/2024/kein-mitbestimmungsrecht-des-betriebsrats-bei-der-nutzungserlaubnis-von-ki-anwendungen-arbg-hamburg-urteil-vom-16-01-2024-az-az-24-bvga-1-24
+  bezug_regelwerke:
+  - de-betrvg-ki-mitbestimmung
+  - de-beschaeftigtendatenschutz-ki
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: dejure.org (Entscheidungsnachweis, ZIP 2024, 589; NZA 2024, 426; NZA-RR 2024, 137)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Nach wie vor die einzige veröffentlichte deutsche Gerichtsentscheidung zur Mitbestimmung
+    beim KI-Einsatz — und sie ist schmal. Sie trägt genau eine Konstellation: private Accounts, browserbasiert,
+    kein Arbeitgeberzugriff auf Nutzungsdaten. Kehrt der Arbeitgeber auch nur eines dieser Merkmale um
+    — Unternehmenslizenz, SSO, Protokollierung — greift § 87 Abs. 1 Nr. 6 BetrVG wieder. Als Argument
+    gegen jede KI-Mitbestimmung wird die Entscheidung regelmäßig überdehnt zitiert. Eine BAG-Entscheidung
+    zu KI existiert am 27.08.2026 nicht, auch wenn mehrere Sekundärquellen das behaupten; die arbeitsrechtliche
+    Fachliteratur vom 17.04.2026 nennt ausdrücklich keine.
+
+    '
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht und nicht abrufbar. Der dejure-Nachweis verweist auf einen
+    Volltext bei der Hamburger Justiz; landesrecht-hamburg.de und justiz.hamburg.de sind aus dieser Umgebung
+    per robots.txt gesperrt, eine konkrete amtliche Dokumentadresse ließ sich nicht belegen. quelle_art
+    bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist ArbG
+    Hamburg, 24. Kammer, Beschluss im einstweiligen Rechtsschutz vom 16.01.2024 – 24 BVGa 1/24 aus, ZIP
+    2024, 589, NZA 2024, 426, NZA-RR 2024, 137, Gegenstand das beantragte Verbot des Einsatzes von ChatGPT
+    und Mitbestimmung des Betriebsrats. Gericht, Kammer, Datum und Aktenzeichen stimmen; es handelt sich
+    um ein Eilverfahren, nicht um ein Hauptsacheurteil.'
+  normen:
+  - betrvg-87-abs-1-nr-1
+  - betrvg-87-abs-1-nr-6
+  quelle_art: datenbank
+- id: de-2025-kg-ki-halluzination
+  jurisdiktion: de
+  gericht: Kammergericht Berlin, 17. Senat für Familiensachen
+  instanz: berufung
+  aktenzeichen: 17 WF 144/25
+  ecli: null
+  datum: 2025-11-20
+  parteien:
+    klaeger: Antragstellerin (Kindesmutter)
+    beklagter: Antragsgegner
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - governance
+  - haftung
+  anspruchsgrundlage: § 43 BRAO (allgemeine Berufspflicht, Organ der Rechtspflege); Wahrheitspflicht im
+    Verfahren
+  kernfrage: Verletzt eine Rechtsanwältin ihre Berufspflichten, wenn sie einen mit KI erstellten Schriftsatz
+    einreicht, ohne die darin enthaltenen Rechtsprechungszitate zu überprüfen?
+  ergebnis: 'Ja. Im Beschwerdeverfahren gegen die Ablehnung von Verfahrenskostenhilfe hatte die Verfahrensbevollmächtigte
+    mehrere Entscheidungen zitiert, darunter einen angeblichen Beschluss "BGH, Beschl. v. 14.11.2007 –
+    XII ZB 183/07, FamRZ 2008, 137". Der Senat stellte fest, dass beide zitierten Entscheidungen weder
+    in juristischen Datenbanken noch auf der Website des BGH existieren — Ergebnis einer fantasierenden
+    KI. Die Schriftsätze seien offensichtlich mithilfe von KI verfasst und die eingefügten Zitate nicht
+    überprüft worden; das verstoße gegen die Pflicht aus § 43 BRAO, die sowohl aus dem Mandatsverhältnis
+    als auch aus der Stellung als Organ der Rechtspflege folge. Der Senat erteilte eine vorsorgliche Verwarnung
+    mit der Aufforderung, künftig KI-generierte Schriftsätze und insbesondere Zitate gewissenhaft zu prüfen.
+    Die Beschwerde blieb in der Sache erfolglos.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=KG&Datum=20.11.2025&Aktenzeichen=17+WF+144%2F25
+  zusammenfassung_url: https://www.brak.de/newsroom/news/ki-halluzination-kg-ermahnt-anwaeltin-wegen-erfundener-urteile-im-schriftsatz/
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  - de-ki-justiz
+  instanzenzug: []
+  quelle_tracker: dejure.org (Entscheidungsnachweis; Verfahrensgang AG Berlin-Kreuzberg, 19.09.2025 –
+    130 F 12281/25); BRAK-Newsroom
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die erste veröffentlichte deutsche Gerichtsentscheidung zu halluzinierten Fundstellen
+    im anwaltlichen Schriftsatz. Anders als in den USA, wo Gerichte Ordnungsgelder und Zulassungsverfahren
+    verhängen, bleibt es hier bei einer Verwarnung ohne berufsrechtliches Verfahren — das Kammergericht
+    hat die Sache nicht an die Rechtsanwaltskammer abgegeben. Dogmatisch bemerkenswert ist die Verankerung:
+    nicht § 138 ZPO, sondern § 43 BRAO, also Berufsrecht statt Prozessrecht. Damit ist die Frage der prozessualen
+    Sanktion — Zurückweisung, Kostentragung, Verzögerung — weiter offen. Für Kanzleien folgt daraus eine
+    Organisationspflicht: Zitatprüfung ist nicht delegierbar an das Werkzeug, das die Zitate erzeugt hat.
+
+    '
+  pruefvermerk:
+  - '05.09.2026: Amtliche Fundstelle gesucht, aber nicht sicher zuzuordnen. Die Berliner Rechtsprechungsdatenbank
+    führt unter gesetze.berlin.de/bsbe/document/NJRE001640995 einen Beschluss des KG, 17. Senat für Familiensachen,
+    vom 20.11.2025; das Aktenzeichen ist im Trefferdatensatz nicht ausgewiesen und das Portal per robots.txt
+    gesperrt, sodass die Zuordnung zu 17 WF 144/25 nicht belegbar war. Es wurde deshalb keine amtliche
+    Adresse eingetragen, quelle_art bleibt ''datenbank''.'
+  - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist KG, 20.11.2025
+    – 17 WF 144/25 aus, Gegenstand KI-generierte, erfundene Rechtsprechungszitate im anwaltlichen Schriftsatz,
+    Verfahrensgang AG Berlin-Kreuzberg, 19.09.2025 – 130 F 12281/25. Datum, Aktenzeichen und Gegenstand
+    stimmen; die Vorinstanz war bisher nicht erfasst.'
+  - '05.09.2026: Spruchkörper präzisiert. Der Eintrag nannte den ''17. Zivilsenat (Familiensenat)''; das
+    Kammergericht führt ihn als 17. Senat für Familiensachen. Die Entscheidung ist ein Beschluss, kein
+    Urteil.'
+  normen:
+  - brao-43
+  - brao-43a
+  - zpo-138
+  quelle_art: datenbank
+- id: eu-2024-garante-openai
+  jurisdiktion: eu
+  gericht: Garante per la protezione dei dati personali (Italien)
+  instanz: behörde
+  aktenzeichen: Provvedimento vom 02.11.2024 (veröffentlicht 20.12.2024)
+  ecli: null
+  datum: 2024-11-02
+  parteien:
+    klaeger: Garante per la protezione dei dati personali
+    beklagter: OpenAI
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  - governance
+  anspruchsgrundlage: Art. 5 Abs. 1 lit. a, Art. 6, Art. 12, Art. 13, Art. 33 DSGVO; Art. 8 GRCh (Minderjährigenschutz)
+  kernfrage: Verfügt der Anbieter eines generativen Sprachmodells über eine taugliche Rechtsgrundlage
+    für die Verarbeitung personenbezogener Daten zu Trainingszwecken und genügt er den Transparenz- und
+    Altersverifikationspflichten?
+  ergebnis: 'Bußgeld von 15 Mio. EUR sowie Anordnung einer sechsmonatigen Informationskampagne in italienischen
+    Medien. Festgestellt wurden: fehlende Rechtsgrundlage für die Verarbeitung zu Trainingszwecken, unzureichende
+    Transparenz (Art. 12, 13 DSGVO), Verstoß gegen die Meldepflicht nach Art. 33 DSGVO im Zusammenhang
+    mit einem Datenleck im März 2023 sowie das Fehlen jeder Altersverifikation. Vollständig aufgehoben
+    durch Tribunale di Roma am 18.03.2026 — siehe eu-2026-tribunale-roma-openai.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.garanteprivacy.it/web/garante-privacy-en/press-room
+  zusammenfassung_url: https://www.lewissilkin.com/en/insights/2025/01/14/openai-faces-15-million-fine-as-the-italian-garante-strikes-again-102jtqc
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2026-tribunale-roma-openai
+  - eu-2024-edsa-opinion-28
+  quelle_tracker: garanteprivacy.it; Lewis Silkin; Cross-Border Data Forum; GDPRfine.com
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Bis zur Aufhebung das einzige Bußgeld weltweit, das die Rechtsgrundlage für KI-Training
+    zum Gegenstand hatte. Es ist nie materiell überprüft worden. Wer heute die europäische Datenschutzaufsicht
+    über generative KI beschreiben will, muss feststellen: viel Verfahren, ein Bußgeld, dieses aufgehoben.
+
+    '
+  normen:
+  - dsgvo-art-6
+  - dsgvo-art-12
+  - dsgvo-art-13
+  - dsgvo-art-33
+  quelle_art: amtlich
+- id: eu-2026-tribunale-roma-openai
+  jurisdiktion: eu
+  gericht: Tribunale Ordinario di Roma, Sezione diritti della persona e immigrazione (Italien)
+  instanz: erstinstanzlich
+  aktenzeichen: R.G. 4785/2025; sentenza n. 4153/2026, pubbl. 18.03.2026
+  ecli: null
+  datum: 2026-03-18
+  parteien:
+    klaeger: OpenAI
+    beklagter: Garante per la protezione dei dati personali
+  status: erstinstanzlich
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  - marktzugang
+  anspruchsgrundlage: Art. 56 Abs. 1 DSGVO (One-Stop-Shop, federführende Aufsichtsbehörde); EDSA-Stellungnahme
+    8/2019
+  kernfrage: Bleibt eine nationale Aufsichtsbehörde für ein bereits eingeleitetes Verfahren zuständig,
+    wenn der Verantwortliche während des laufenden Verfahrens eine Hauptniederlassung in einem anderen
+    Mitgliedstaat begründet?
+  ergebnis: 'Nein; die Sanktionsentscheidung des Garante — Provvedimento n. 755 vom 02.11.2024 mit einer
+    Geldbuße von 15 Mio. Euro — wurde vollständig aufgehoben, allein aus Zuständigkeitsgründen und ohne
+    materielle Prüfung der DSGVO-Verstöße. Nachdem OpenAI Ireland Ltd. am 15.02.2024 als einzige Niederlassung
+    im EWR anerkannt worden war, sei nach dem One-Stop-Shop-Mechanismus (Art. 55, 56, 60 DSGVO) die irische
+    Aufsichtsbehörde federführend und der Garante nicht mehr zuständig gewesen. Die federführende Zuständigkeit
+    könne bis zum Erlass einer endgültigen Entscheidung auf eine neu zuständige Behörde übergehen; maßgeblich
+    sei das Kriterium der endgültigen Entscheidung, nicht die Art des Verstoßes. Die Unterscheidung des
+    Garante zwischen fortdauernden und abgeschlossenen Verstößen wies das Gericht zurück. Tenor am 18.03.2026
+    veröffentlicht, vollständige Gründe am 28.05.2026. Die materiellen Fragen — Rechtsgrundlage des KI-Trainings,
+    Transparenz, Altersprüfung — blieben unentschieden. Der Garante hat das aufgehobene Provvedimento
+    daraufhin von seiner Website entfernt.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10085455
+  zusammenfassung_url: https://www.freevacy.com/news/reuters/italian-court-overturns-eur15m-gdpr-fine-against-openai/7241
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2024-garante-openai
+  quelle_tracker: Garante per la protezione dei dati personali, docweb 10085455 (amtlicher Entfernungsvermerk);
+    Il Sole 24 Ore NT+ Diritto; Iusletter; European Law Blog
+  verifiziert: true
+  letzte_pruefung: '2026-09-05'
+  eigene_bewertung: 'Die wichtigste europäische Aufsichtsentscheidung des Jahres, und sie stammt nicht
+    von einer Aufsichtsbehörde. Das Gericht hat eine Vollzugslücke aufgezeigt, die strukturell ist: Ein
+    Anbieter kann ohne Niederlassung in den Markt eintreten, die während dieser Phase verhängten vorläufigen
+    Maßnahmen absorbieren und sich dann, wenn er sich niederlässt, die anhängigen Sanktionen in ein Forum
+    seiner Wahl verlagern, bevor eine von ihnen abgeschlossen ist. Für die deutsche Praxis heißt das:
+    Verfahren deutscher Aufsichtsbehörden gegen KI-Anbieter ohne EWR-Niederlassung sind mit dem Risiko
+    behaftet, durch eine spätere Niederlassungsentscheidung entwertet zu werden. Ob die Entscheidung Bestand
+    hat, ist offen; eine Rechtsmitteleinlegung war nicht feststellbar. Materiell ist zur Rechtsgrundlage
+    des KI-Trainings weiterhin nichts entschieden.
+
+    '
+  normen:
+  - dsgvo-art-56-abs-1
+  sekundaerquelle_url: https://www.europeanlawblog.eu/pub/92oig1ws
+  pruefvermerk:
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde das Urteil des Tribunale Ordinario di Roma, Sezione
+    diritti della persona e immigrazione, R.G. 4785/2025 (OpenAI gegen den Garante per la protezione dei
+    dati personali; Aufhebung der Gel'
+  - 'AN AMTLICHER QUELLE GEPRÜFT (05.09.2026): Der Garante per la protezione dei dati personali hat den
+    docweb-Eintrag 10085455 mit folgendem Vermerk versehen: ''Il provvedimento n. 755 del 2 novembre 2024
+    è stato temporaneamente rimosso dal sito web del Garante per la protezione dei dati personali a seguito
+    della sentenza del Tribunale di Roma n. 4153/2026, pubbl. il 18/03/2026, con la quale è stata accolta
+    l''opposizione proposta avverso il provvedimento del Garante.'''
+  - Damit sind Gericht, Sentenza-Nummer (4153/2026), Veröffentlichungsdatum (18.03.2026) und Ergebnis
+    (Stattgabe der opposizione, Aufhebung) an einer amtlichen Quelle belegt. Die R.G.-Nummer 4785/2025
+    ist durch die ausgewertete Fachberichterstattung gedeckt.
+  - 'Bezeichnung des Spruchkörpers: Der Eintrag führt ''Sezione diritti della persona e immigrazione'';
+    die Fachberichterstattung schreibt ''Sezione Diritti Umani e Immigrazione''. Beide Bezeichnungen kursieren;
+    der amtliche Vermerk nennt keinen Spruchkörper. Nicht geändert.'
+  - 'AMTLICHER URTEILSVOLLTEXT NICHT AUFFINDBAR: tribunale.roma.giustizia.it veröffentlicht keine Zivilurteile
+    im Volltext; erstinstanzliche Sentenze sind in Italien nur über die Kanzlei oder kommerzielle Sammlungen
+    zugänglich. volltext_url zeigt deshalb auf den amtlichen Entfernungsvermerk des Garante, der Nummer,
+    Datum und Tenor bestätigt.'
+  - Ein Rechtsmittel des Garante gegen das Urteil war auch am 05.09.2026 nicht feststellbar.
+  suchadresse: https://www.garanteprivacy.it/home/docweb (docweb-Suche 'OpenAI'/'Tribunale di Roma');
+    ferner https://www.tribunale.roma.giustizia.it/ und Italgiure https://www.italgiure.giustizia.it/sncass/
+    (nur für den Fall einer Kassationsentscheidung)
+  dokumenttyp: Amtlicher Entfernungsvermerk des Garante per la protezione dei dati personali zum aufgehobenen
+    Provvedimento n. 755 vom 02.11.2024 (docweb 10085455); der Volltext des Urteils selbst ist nicht amtlich
+    veröffentlicht
+  quelle_art: amtlich
+  sachverhalt: OpenAI bot ChatGPT in Italien an, ohne im Europäischen Wirtschaftsraum eine Niederlassung
+    zu haben; der Garante per la protezione dei dati personali leitete deshalb ein eigenes Verfahren ein
+    und prüfte Rechtsgrundlage des Trainings, Transparenz und Altersprüfung. Am 15. Februar 2024 wurde
+    OpenAI Ireland Ltd. als einzige Niederlassung des Unternehmens im EWR anerkannt. Der Garante führte
+    sein Verfahren gleichwohl zu Ende und verhängte mit dem Provvedimento Nr. 755 vom 2. November 2024
+    eine Geldbuße von 15 Millionen Euro; er hielt sich weiter für zuständig, weil ein Teil der beanstandeten
+    Verstöße abgeschlossen gewesen sei, bevor die irische Niederlassung entstand. OpenAI legte dagegen
+    Opposition beim Tribunale Ordinario di Roma ein (R.G. 4785/2025).
+  sachverhalt_quelle: eintrag
+- id: eu-2025-garante-replika
+  jurisdiktion: eu
+  gericht: Garante per la protezione dei dati personali (Italien)
+  instanz: behörde
+  aktenzeichen: Provvedimento vom 10.04.2025 (Luka Inc.)
+  ecli: null
+  datum: 2025-04-10
+  parteien:
+    klaeger: Garante per la protezione dei dati personali
+    beklagter: Luka Inc. (Replika)
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  - content
+  anspruchsgrundlage: Art. 5 Abs. 1 lit. a, Art. 6, Art. 12, Art. 13, Art. 24, Art. 25 Abs. 1 DSGVO
+  kernfrage: Auf welche Rechtsgrundlage kann ein Anbieter eines KI-Begleiters die Verarbeitung stützen,
+    und welche Anforderungen gelten für die Altersverifikation, wenn Minderjährige vom Dienst ausgeschlossen
+    sein sollen?
+  ergebnis: 'Bußgeld von 5 Mio. EUR. Festgestellt wurden das Fehlen einer Rechtsgrundlage für die Verarbeitungen
+    bis Februar 2023, eine in mehrfacher Hinsicht mangelhafte Datenschutzerklärung (Art. 12, 13 DSGVO)
+    sowie das vollständige Fehlen von Altersverifikations- mechanismen bei Registrierung und Nutzung,
+    obwohl Minderjährige ausgeschlossen sein sollten; auch das später eingeführte System bleibt mängelbehaftet.
+    Der Garante hat sich ausdrücklich vorbehalten, die Rechtmäßigkeit der Verarbeitungen für das dem Dienst
+    zugrunde liegende generative Modell in einem gesonderten, eigenständigen Verfahren zu prüfen.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.edpb.europa.eu/news/ai-the-italian-supervisory-authority-fines-company-behind-chatbot-replika_en
+  zusammenfassung_url: https://www.dataguidance.com/news/italy-garante-fines-luka-inc-eu5m-lack-legal-bases
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  instanzenzug:
+  - eu-2024-garante-openai
+  - eu-2024-edsa-opinion-28
+  quelle_tracker: EDPB News; DataGuidance; 2B Advice; CommLaw Group
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Die erste Sanktion gegen einen KI-Begleiter und die einzige, die den Minderjährigenschutz
+    zum tragenden Punkt macht — das ist die Brücke zu Art. 5 Abs. 1 lit. b KI-VO (Ausnutzung der Schutzbedürftigkeit)
+    und zu den Jugendschutzpflichten des DSA. Der strategisch interessanteste Satz ist die Vorbehaltsklausel:
+    Der Garante hat die Modellfrage bewusst abgetrennt und nicht mitentschieden. Ob das gesonderte Verfahren
+    jemals geführt wurde, war nicht feststellbar.
+
+    '
+  normen:
+  - dsgvo-art-6
+  - dsgvo-art-13
+  - ki-vo-art-5-abs-1-lit-b
+  quelle_art: amtlich
+- id: eu-2025-garante-deepseek
+  jurisdiktion: eu
+  gericht: Garante per la protezione dei dati personali (Italien)
+  instanz: behörde
+  aktenzeichen: Provvedimento vom 30.01.2025 (limitazione provvisoria)
+  ecli: null
+  datum: 2025-01-30
+  parteien:
+    klaeger: Garante per la protezione dei dati personali
+    beklagter: Hangzhou DeepSeek Artificial Intelligence; Beijing DeepSeek Artificial Intelligence
+  status: anhaengig
+  themenachsen:
+  - datenschutz
+  - gpai
+  - marktzugang
+  - sicherheit-export
+  anspruchsgrundlage: Art. 58 Abs. 2 lit. f DSGVO (vorläufige Beschränkung der Verarbeitung); Art. 3 DSGVO
+    (räumlicher Anwendungsbereich)
+  kernfrage: Unterliegt ein außerhalb der EU ansässiger Anbieter eines Sprachmodells der DSGVO, wenn er
+    den Dienst europäischen Nutzern anbietet, und rechtfertigt die Verweigerung der Auskunft eine sofortige
+    Verarbeitungsbeschränkung?
+  ergebnis: 'Vorläufige Beschränkung der Verarbeitung personenbezogener Daten italienischer Nutzer mit
+    sofortiger Wirkung, verbunden mit der Eröffnung eines förmlichen Untersuchungsverfahrens. Die Antworten
+    der beiden Gesellschaften auf den Auskunftsersuchen des Garante waren nach dessen Feststellung vollständig
+    unzureichend; die Unternehmen hatten geltend gemacht, nicht in Italien tätig zu sein und europäischem
+    Datenschutzrecht nicht zu unterliegen — eine Position, die der Garante zurückwies. Der Dienst ist
+    in Italien faktisch nicht verfügbar.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10097450
+  zusammenfassung_url: https://privacy.it/2025/01/30/intelligenza-artificiale-deepseek/
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2024-garante-openai
+  quelle_tracker: garanteprivacy.it; privacy.it; ANSA; Federprivacy
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Der schnellste Marktzugangsstopp gegen ein KI-Modell in Europa — binnen Tagen nach
+    dem Markteintritt, gestützt auf eine Verfahrensbefugnis, nicht auf eine materielle Feststellung. Genau
+    darin liegt die Verwundbarkeit: Das Muster wiederholt die ChatGPT-Sperre von 2023, und die Rom-Entscheidung
+    vom 18.03.2026 zeigt, was am Ende davon übrig bleiben kann, wenn der Anbieter sich später im EWR niederlässt.
+    Bemerkenswert ist, dass der Garante die Durchsetzung über Internetzugangsanbieter suchte — ein Vorgehen,
+    das in Italien selbst als kompetenzrechtlich zweifelhaft kritisiert wurde.
+
+    '
+  normen:
+  - dsgvo-art-58-abs-2-lit-f
+  - dsgvo-art-3
+  quelle_art: amtlich
+- id: eu-2025-garante-clothoff
+  jurisdiktion: eu
+  gericht: Garante per la protezione dei dati personali (Italien)
+  instanz: behörde
+  aktenzeichen: Provvedimento Nr. 10174164 vom 01.10.2025
+  ecli: null
+  datum: 2025-10-01
+  parteien:
+    klaeger: Garante per la protezione dei dati personali
+    beklagter: Betreibergesellschaft der App Clothoff (Britische Jungferninseln)
+  status: anhaengig
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - content
+  - sicherheit-export
+  anspruchsgrundlage: Art. 58 Abs. 2 lit. f DSGVO (vorläufige Beschränkung); Art. 9 DSGVO; Menschenwürde
+  kernfrage: Rechtfertigt der Betrieb einer App, die aus beliebigen Fotos ohne Einwilligung sexualisierte
+    Deepfakes erzeugt, eine sofortige Verarbeitungsbeschränkung wegen Gefährdung von Würde und Rechten
+    der Betroffenen, insbesondere Minderjähriger?
+  ergebnis: 'Vorläufige Beschränkung der Verarbeitung mit sofortiger Wirkung gegen die auf den Britischen
+    Jungferninseln ansässige Betreibergesellschaft. Die App erzeugt "Deep Nudes" — gefälschte Bilder und
+    Videos, die reale Personen nackt oder in sexuell expliziten Posen zeigen — ohne Einwilligungsprüfung
+    und ohne Kennzeichnung der künstlichen Herkunft. Der Garante stützte sich auf schwere Risiken für
+    Menschenwürde, Privatsphäre und Datenschutz, insbesondere im Hinblick auf Minderjährige, und verwies
+    auf zahlreiche in italienischen Medien berichtete Vorfälle. Bekanntgabe durch Pressemitteilung am
+    03.10.2025. Flankierend hat der Garante 2025 eine Verwarnung gegenüber Nutzern von Plattformen wie
+    Grok, ChatGPT und Clothoff wegen der Erstellung und Verbreitung nicht einvernehmlicher Deepfakes ausgesprochen.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10174320
+  zusammenfassung_url: https://privacy.it/2025/10/03/deepfake-clothoff/
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - de-deepfake-strafrecht
+  - dsa-2022-2065
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: garanteprivacy.it (Provvedimento 10174164, PM 10174320); privacy.it; L'Espresso
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Die praktisch wirksamste Maßnahme gegen Nudify-Dienste in Europa — und sie kommt
+    aus dem Datenschutzrecht, nicht aus dem Strafrecht und nicht aus der KI-VO. Das ist bezeichnend: Art.
+    50 KI-VO verlangt nur Kennzeichnung, verbietet nicht; das deutsche Strafrecht erfasst die Verbreitung,
+    nicht das Werkzeug. Der Datenschutzhebel greift am Betreiber und am Betrieb. Für deutsche Mandanten
+    ist das der Hinweis, dass Beschwerden bei der Aufsichtsbehörde derzeit schneller wirken als Strafanzeigen.
+
+    '
+  normen:
+  - dsgvo-art-58-abs-2-lit-f
+  - dsgvo-art-9
+  - ki-vo-art-50
+  quelle_art: amtlich
+- id: eu-2024-edsa-opinion-28
+  jurisdiktion: eu
+  gericht: Europäischer Datenschutzausschuss (EDSA/EDPB)
+  instanz: behörde
+  aktenzeichen: Opinion 28/2024
+  ecli: null
+  datum: 2024-12-17
+  parteien:
+    klaeger: Irische Datenschutzkommission (antragstellende Aufsichtsbehörde)
+    beklagter: — (Stellungnahme nach Art. 64 Abs. 2 DSGVO)
+  status: rechtskraeftig
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  - grundrechte
+  anspruchsgrundlage: Art. 64 Abs. 2 DSGVO; Art. 4 Nr. 1, Art. 6 Abs. 1 lit. f DSGVO
+  kernfrage: Wann ist ein auf personenbezogenen Daten trainiertes KI-Modell anonym, unter welchen Voraussetzungen
+    trägt das berechtigte Interesse Entwicklung und Betrieb, und welche Folgen hat eine rechtswidrige
+    Verarbeitung in der Entwicklungsphase für den späteren Betrieb?
+  ergebnis: 'Vier Antworten. Erstens Anonymität: Auf personenbezogenen Daten trainierte Modelle können
+    nicht in allen Fällen als anonym gelten; die Bewertung ist einzelfallbezogen. Anonym ist ein Modell
+    nur, wenn sowohl die Wahrscheinlichkeit der Extraktion personenbezogener Daten als auch die ihrer
+    Erlangung über Abfragen unerheblich ist, gemessen an allen vernünftigerweise verfügbaren Mitteln;
+    der Verantwortliche muss Designentscheidungen, Testergebnisse und die Widerstandskraft gegen Extraktionsangriffe
+    dokumentieren. Zweitens und drittens berechtigtes Interesse: dreistufige kumulative Prüfung — Identifikation
+    eines rechtmäßigen, klar formulierten, tatsächlichen Interesses; Erforderlichkeitsprüfung unter Wahrung
+    der Datenminimierung; Abwägung gegen Grundrechte, vernünftige Erwartungen und Auswirkungen, wobei
+    mildernde Maßnahmen berücksichtigt werden. Viertens Folgen rechtswidriger Entwicklung: drei Szenarien
+    — Weiterverwendung durch denselben Verantwortlichen (Einzelfallprüfung), Einsatz durch einen anderen
+    Verantwortlichen (Sorgfaltspflicht zur Prüfung der rechtmäßigen Entwicklung) und tatsächlich anonymisiertes
+    Modell (DSGVO unanwendbar unabhängig von der vorangegangenen Rechtswidrigkeit).
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf
+  zusammenfassung_url: https://www.europeanlawblog.eu/pub/zh4uxsfq
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - gpai-code-of-practice
+  instanzenzug:
+  - eu-2024-garante-openai
+  - eu-2025-garante-replika
+  quelle_tracker: edpb.europa.eu; European Law Blog; IAPP; Hunton; William Fry
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Formal eine Stellungnahme nach Art. 64 Abs. 2 DSGVO ohne Bindungswirkung gegenüber
+    Verantwortlichen, faktisch der Maßstab jeder europäischen Aufsichtspraxis zu KI-Modellen. Die dritte
+    Antwort ist die wirtschaftlich schärfste: Wer ein fremdes Modell einsetzt, muss die Rechtmäßigkeit
+    seiner Entwicklung prüfen — eine Sorgfaltspflicht, die in Lizenzverträgen über Zusicherungen und Freistellungen
+    abgebildet werden muss und in der Praxis meist nicht ist. Die vierte Variante — Anonymisierung heilt
+    die vorangegangene Rechtswidrigkeit — ist der Fluchtweg, den die Anbieter suchen; die Beweislast dafür
+    trägt nach der ersten Antwort aber der Anbieter, und sie ist hoch.
+
+    '
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  - dsgvo-art-4-nr-1
+  - dsgvo-art-64-abs-2
+  quelle_art: amtlich
+  sachverhalt: Die irische Datenschutzaufsicht legte dem Europäischen Datenschutzausschuss nach Art. 64
+    Abs. 2 DSGVO Fragen zu KI-Modellen zur Stellungnahme von allgemeiner Geltung vor. Sie wollte geklärt
+    wissen, wann ein auf personenbezogenen Daten trainiertes Modell als anonym angesehen werden kann,
+    unter welchen Voraussetzungen sich Entwicklung und Betrieb eines solchen Modells auf das berechtigte
+    Interesse stützen lassen und welche Folgen es für den späteren Betrieb hat, wenn die Daten in der
+    Entwicklungsphase rechtswidrig verarbeitet wurden. Weil dieselben Modelle grenzüberschreitend angeboten
+    werden, stellten sich diese Fragen in mehreren Mitgliedstaaten gleichermaßen. Der Ausschuss nahm die
+    Stellungnahme 28/2024 am 17. Dezember 2024 an.
+  sachverhalt_quelle: eintrag
+- id: eu-2024-dpc-x-grok
+  jurisdiktion: eu
+  gericht: Data Protection Commission (Irland); Verfahren vor dem High Court (Ms Justice Reynolds)
+  instanz: behörde
+  aktenzeichen: — (Verfahren nach Section 134 Data Protection Act 2018)
+  ecli: null
+  datum: 2024-08-08
+  parteien:
+    klaeger: Data Protection Commission
+    beklagter: Twitter International Unlimited Company (X)
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  anspruchsgrundlage: Section 134 Data Protection Act 2018 (Irland); Art. 6 Abs. 1 lit. f DSGVO
+  kernfrage: Darf ein Plattformbetreiber öffentliche Beiträge seiner Nutzer ohne gesonderte Rechtsgrundlage
+    zum Training eines Sprachmodells verwenden, und rechtfertigt das gerichtliche Eilmaßnahmen der Aufsichtsbehörde?
+  ergebnis: 'Die irische Aufsichtsbehörde erwirkte im August 2024 ein gerichtliches Verfahren, das die
+    Nutzung der Beiträge von EU-Nutzern zum Training von Grok stoppte. X sagte die Aussetzung dauerhaft
+    zu; das Verfahren wurde im September 2024 beendet. Eine materielle Entscheidung über die Rechtsgrundlage
+    erging nicht.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  instanzenzug:
+  - eu-2024-dpc-meta-llm
+  - eu-2024-edsa-opinion-28
+  quelle_tracker: Cross-Border Data Forum
+  verifiziert: false
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Aufgenommen, weil der Auftrag Vergleiche und Verfahrensbeendigungen ausdrücklich
+    einschließt — sie zeigen, was die Parteien für riskant hielten. X hat die Trainingsnutzung dauerhaft
+    aufgegeben, statt die Rechtsgrundlage streitig zu stellen. Das ist die aussagekräftigere Information
+    als jede Entscheidung, die nicht ergangen ist. Nicht durch eine Primärquelle der DPC verifiziert;
+    Aktenzeichen unbekannt.
+
+    '
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  sekundaerquelle_url: https://www.crossborderdataforum.org/generative-ai-and-gdpr-enforcement-in-europe-a-lot-of-noise-one-fine-zero-survivors/
+  dokumenttyp: Pressemitteilung der Aufsichtsbehörde (Data Protection Commission)
+  pruefvermerk:
+  - Amtliche Pressemitteilung der irischen Data Protection Commission vom 08.08.2024 — Datum deckungsgleich
+    mit dem Eintrag. Der bisherige Link war ein Blogbeitrag des Cross-Border Data Forum.
+  - 'Volltext geöffnet und inhaltlich bestätigt: dringlicher Antrag der DPC beim High Court nach Section
+    134 Data Protection Act 2018, verhandelt vor Ms Justice Reynolds; betroffen ist die Verarbeitung öffentlicher
+    Beiträge von EU/EWR-Nutzern zwischen 07.05.2024 und 01.08.2024 zum Training von ''Grok''; erstmalige
+    Anwendung von Section 134 durch eine federführende Aufsichtsbehörde; X sagte die Aussetzung der Verarbeitung
+    zu (Erklärung von Commissioner Dr. Des Hogan).'
+  - 'Ergänzende amtliche Fundstelle zum Verfahrensabschluss (Klagerücknahme nach Zusage): Pressemitteilung
+    der DPC vom 04.09.2024, https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-welcomes-conclusion-proceedings-relating-xs-ai-tool-grok'
+  - Ein schriftliches Urteil des High Court ist nicht ergangen und daher auf courts.ie nicht auffindbar;
+    der Rechtsstreit endete durch Zusage und Verfahrensbeendigung.
+  quelle_art: fehlt
+- id: eu-2024-dpc-meta-llm
+  jurisdiktion: eu
+  gericht: Data Protection Commission (Irland)
+  instanz: behörde
+  aktenzeichen: — (informelle Aufsichtsmaßnahme)
+  ecli: null
+  datum: 2024-06-14
+  parteien:
+    klaeger: Data Protection Commission
+    beklagter: Meta Platforms Ireland Ltd.
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  anspruchsgrundlage: Art. 6 Abs. 1 lit. f DSGVO; Art. 58 DSGVO
+  kernfrage: Kann das berechtigte Interesse die Verwendung öffentlich geteilter Nutzerinhalte zum Training
+    großer Sprachmodelle tragen, und welche Schutzmaßnahmen sind erforderlich?
+  ergebnis: 'Die irische Aufsichtsbehörde erreichte im Juni 2024 die Zusage Metas, das Training großer
+    Sprachmodelle auf öffentlichen Inhalten europäischer Nutzer auszusetzen. Die Aussetzung dauerte knapp
+    ein Jahr. Im Mai 2025 nahm Meta das Training mit zusätzlichen Schutzmaßnahmen wieder auf: verbesserte
+    Transparenz, wirksamere Widerspruchsmechanismen und De-Identifizierung der Daten. Eine förmliche Abhilfeentscheidung
+    erging nicht.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2024-edsa-opinion-28
+  - eu-2024-dpc-x-grok
+  quelle_tracker: Cross-Border Data Forum
+  verifiziert: false
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der Vorgang, der EDSA-Stellungnahme 28/2024 ausgelöst hat: Die DPC legte die Frage
+    des berechtigten Interesses dem Ausschuss vor, statt sie selbst zu entscheiden. Das Ergebnis — Wiederaufnahme
+    mit Schutzmaßnahmen — ist die faktische Blaupause für die Trainingspraxis aller großen Anbieter in
+    Europa geworden, ohne dass je ein Gericht oder eine Behörde die Rechtsgrundlage festgestellt hätte.
+    Nicht durch eine Primärquelle der DPC verifiziert.
+
+    '
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  sekundaerquelle_url: https://www.crossborderdataforum.org/generative-ai-and-gdpr-enforcement-in-europe-a-lot-of-noise-one-fine-zero-survivors/
+  dokumenttyp: Mitteilung der Aufsichtsbehörde ('The DPC's Engagement with Meta on AI')
+  pruefvermerk:
+  - Amtliche Verlautbarung der Data Protection Commission vom 14.06.2024 — Datum deckungsgleich mit dem
+    Eintrag; ersetzt den bisherigen Blogbeitrag des Cross-Border Data Forum.
+  - 'Der Vorgang ist, wie im Eintrag zutreffend vermerkt, eine informelle Aufsichtsmaßnahme ohne förmlichen
+    Bescheid: Meta Platforms Ireland verschob nach Intervention der DPC (in Abstimmung mit den anderen
+    europäischen Aufsichtsbehörden) das Training seines LLM mit Inhalten erwachsener Nutzer aus EU/EWR.'
+  - 'Weiterführend amtlich zur Rechtsauffassung der DPC: ''AI, Large Language Models and Data Protection''
+    vom 18.07.2024, https://www.dataprotection.ie/en/dpc-guidance/blogs/AI-LLMs-and-Data-Protection ;
+    zur späteren Freigabe: ''DPC statement on Meta AI'' vom 21.05.2025.'
+  quelle_art: fehlt
+- id: de-2024-dsk-ki-orientierungshilfen
+  jurisdiktion: de
+  gericht: Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (DSK)
+  instanz: behörde
+  aktenzeichen: Orientierungshilfe KI und Datenschutz (06.05.2024) nebst Fortschreibungen
+  ecli: null
+  datum: 2024-05-06
+  parteien:
+    klaeger: DSK
+    beklagter: — (Verwaltungsvorschrift ohne Außenwirkung)
+  status: rechtskraeftig
+  themenachsen:
+  - datenschutz
+  - governance
+  - gpai
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 5, 6, 22, 25, 32, 35 DSGVO
+  kernfrage: Welche datenschutzrechtlichen Anforderungen stellen die deutschen Aufsichtsbehörden an Auswahl,
+    Entwicklung und Betrieb von KI-Systemen?
+  ergebnis: 'Die DSK hat drei aufeinander aufbauende Dokumente veröffentlicht: die Orientierungshilfe
+    "Künstliche Intelligenz und Datenschutz" vom 06.05.2024 (Grundanforderungen an den Einsatz von KI-Systemen
+    unter der DSGVO), die Orientierungshilfe zu empfohlenen technischen und organisatorischen Maßnahmen
+    bei Entwicklung und Betrieb von KI-Systemen (Juni 2025) sowie das Papier zu den datenschutzrechtlichen
+    Besonderheiten generativer KI-Systeme mit RAG-Methode (Oktober 2025). Fassungen aus 2026 sind nicht
+    veröffentlicht.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
+  zusammenfassung_url: null
+  bezug_regelwerke:
+  - de-dsk-ki-leitlinien
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug:
+  - eu-2024-edsa-opinion-28
+  quelle_tracker: datenschutzkonferenz-online.de
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Aufgenommen, weil der Auftrag deutsche Aufsichtsentscheidungen verlangt — der Befund
+    ist aber ein Negativbefund und als solcher wichtig: Bis zum 27.08.2026 hat KEINE deutsche Datenschutzaufsichtsbehörde
+    eine veröffentlichte Abhilfe- oder Bußgeldentscheidung gegen einen Anbieter generativer KI-Modelle
+    erlassen. Die deutsche Aufsicht arbeitet ausschließlich mit Orientierungshilfen, während Italien Verfahren
+    führt und Irland verhandelt. Für die Mandatsberatung heißt das: Die deutschen Papiere sind der praktische
+    Prüfmaßstab, aber sie sind nicht justitiabel, und sie sind gegenüber EDSA 28/2024 in Teilen überholt.
+
+    '
+  normen:
+  - dsgvo-art-22
+  - dsgvo-art-25
+  - dsgvo-art-32
+  - dsgvo-art-35
+  - dsgvo-art-5
+  - dsgvo-art-6
+  dokumenttyp: Orientierungshilfe der Datenschutzkonferenz (Verwaltungsvorschrift ohne Außenwirkung)
+  pruefvermerk:
+  - Der bisherige Link führte nur auf die Übersichtsseite der DSK, also auf eine Trefferliste. Ersetzt
+    durch die PDF-Datei des Dokuments selbst.
+  - 'Dokument: ''Orientierungshilfe der DSK zu Künstlicher Intelligenz und Datenschutz'', Stand 06.05.2024
+    — Datum deckungsgleich mit dem Eintrag.'
+  - 'Fortschreibung, wie im Eintrag angedeutet (''nebst Fortschreibungen''): ''Orientierungshilfe zu empfohlenen
+    technischen und organisatorischen Maßnahmen bei der Entwicklung und beim Betrieb von KI-Systemen'',
+    Juni 2025, https://www.datenschutzkonferenz-online.de/media/oh/DSK-OH_KI-Systeme.pdf'
+  - Herausgeberin ist die Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder;
+    die Seite datenschutzkonferenz-online.de ist deren amtliches Publikationsorgan.
+  quelle_art: amtlich

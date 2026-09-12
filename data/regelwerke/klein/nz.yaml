@@ -1,0 +1,2992 @@
+# Gepflegte Datenbasis.
+regelwerke:
+- id: nz-cabinet-ai-approach-2024
+  jurisdiktion: nz
+  kurztitel: Kabinettsbeschluss 2024 — kein eigenes KI-Gesetz
+  offizieller_titel: Cabinet paper "Approach to work on Artificial Intelligence"; Cabinet Economic Policy
+    Committee minute ECO-24-MIN-0119
+  fundstelle: Cabinet Economic Policy Committee, ECO-24-MIN-0119, 25.07.2024; proaktive Veröffentlichung
+    durch MBIE
+  verfahrensnummer: ECO-24-MIN-0119
+  status: softlaw
+  status_detail: 'Der tragende Grundsatzbeschluss. Er ist nicht aufgehoben und wird durch den Kabinettsbeschluss
+    vom 30.06.2025 (Going for Growth) und die KI-Strategie vom Juli 2025 fortgeschrieben. Ministerin war
+    Judith Collins KC (Science, Innovation and Technology; zugleich Ministerin für die Digitalisierung
+    der Verwaltung).
+
+    '
+  kurzbeschreibung: 'Mit diesem Beschluss hat das neuseeländische Kabinett die Grundentscheidung gegen
+    ein Horizontalgesetz getroffen. Empfehlung 2 lautet im Wortlaut: "agree that New Zealand will take
+    a proportionate and risk-based approach to AI regulation where needed, using agile approaches, and
+    leveraging existing mechanisms in preference to developing a standalone AI Act." Regulatorische Eingriffe
+    sollen nur "acute risks" adressieren; im Übrigen sollen die vorhandenen Rahmen (Datenschutz, Verbraucherschutz,
+    Menschenrechte) fortgeschrieben werden. Der Beschluss enthält keine Sanktionen und keine Rechtspflichten;
+    seine Wirkung liegt darin, dass er die Beweislast umkehrt: Wer ein KI-Gesetz will, muss die Lücke
+    im geltenden Recht nachweisen.
+
+    '
+  inkrafttreten:
+    datum: 2024-07-25
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/dmsdocument/28913-approach-to-work-on-artificial-intelligence-proactiverelease-pdf
+  anwendungsdaten:
+  - datum: 2024-06-01
+    was_gilt: Kabinett stimmt der Übernahme der OECD-KI-Grundsätze als Orientierungsrahmen zu (Juni 2024,
+      genauer Beschlusstag nicht am Primärdokument geprüft).
+    verifiziert: false
+    quelle: https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/overview
+  - datum: 2024-07-25
+    was_gilt: 'Beschluss ECO-24-MIN-0119: verhältnismässiger, risikobasierter Ansatz, Rückgriff auf vorhandene
+      Mechanismen statt eines eigenständigen AI Act.'
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/dmsdocument/28913-approach-to-work-on-artificial-intelligence-proactiverelease-pdf
+  - datum: 2024-09-11
+    was_gilt: Ministerin Collins kündigt AI Activator (Callaghan Innovation) und den GovGPT-Pilotbetrieb
+      an — Förderung der Anwendung, keine Regulierung.
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/government-unlocking-potential-ai
+  themenachsen:
+  - governance
+  - marktzugang
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Empfehlung 2 (der Kernsatz): "a proportionate and risk-based approach to AI regulation where needed,
+    using agile approaches, and leveraging existing mechanisms in preference to developing a standalone
+    AI Act". Das ist die neuseeländische Gegenposition zum Brüsseler Modell — nicht als Ablehnung von
+    Regulierung formuliert, sondern als Rangfolge: vorhandene Mechanismen zuerst.'
+  - 'Beschränkung auf "acute risks": Neue Regulierung soll nur dort ansetzen, wo ein akutes Risiko festgestellt
+    ist. Ein Auffangtatbestand für diffuse oder erst künftige Risiken fehlt bewusst.'
+  - 'Ressortübergreifendes Arbeitsprogramm: Zulieferungen der Ressorts an MBIE bis Ende August 2024; Rückberichterstattung
+    der Ministerin mit einem integrierten Arbeitsprogramm im September 2024; Fortschrittsprüfung Mitte
+    2025.'
+  - 'Institutionell: Keine KI-Behörde, keine KI-Aufsicht, kein Register. Zuständig bleiben die Fachressorts
+    und die vorhandenen Aufsichten (Privacy Commissioner, Commerce Commission, Human Rights Commission,
+    FMA, RBNZ).'
+  dokumente:
+  - datum: 2024-07-25
+    typ: bericht
+    titel: 'Cabinet paper: Approach to work on Artificial Intelligence (proactive release)'
+    url: https://www.mbie.govt.nz/dmsdocument/28913-approach-to-work-on-artificial-intelligence-proactiverelease-pdf
+    sprache: en
+    urheber: Hon Judith Collins KC / Ministry of Business, Innovation and Employment
+    verifiziert: true
+    notiz: Das Primärdokument der neuseeländischen Grundentscheidung gegen ein KI-Gesetz. Empfehlung 2
+      ist der meistzitierte Satz des neuseeländischen KI-Rechts.
+  - datum: 2024-09-11
+    typ: pressemitteilung
+    titel: Government unlocking potential of AI
+    url: https://www.beehive.govt.nz/release/government-unlocking-potential-ai
+    sprache: en
+    urheber: Hon Judith Collins KC
+    verifiziert: true
+    notiz: Belegt die Förderlinie (AI Activator, GovGPT) neben der Regulierungsabstinenz.
+  offene_punkte:
+  - Der genaue Kabinettsbeschluss zur Übernahme der OECD-KI-Grundsätze (Juni 2024) wurde nicht am Primärdokument
+    geprüft; belegt ist bislang nur der Verweis in der GCDO-Leitlinie.
+  - Ob die für Mitte 2025 vorgesehene Fortschrittsprüfung als eigenes Dokument veröffentlicht wurde, liess
+    sich nicht klären.
+  monitoring_quellen:
+  - https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy
+  - https://www.beehive.govt.nz/
+  bezug_regelwerke:
+  - nz-ki-strategie-2025
+  - nz-cabinet-going-for-growth-ai-2025
+  - nz-public-service-ai-framework-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Wer den neuseeländischen Ansatz rechtsvergleichend darstellt, sollte nicht die Strategie
+    von 2025, sondern diesen Beschluss von 2024 zitieren: Er ist das Dokument, in dem die Entscheidung
+    tatsächlich getroffen wurde, und er formuliert sie präziser. Bemerkenswert ist die Konstruktion als
+    Rangfolge ("in preference to") statt als Verbot: Ein KI-Gesetz ist nicht ausgeschlossen, es muss nur
+    begründet werden. Das unterscheidet Neuseeland von Staaten, die sich rhetorisch festlegen, und macht
+    den Ansatz reversibel — was die Empfehlungen der Human Rights Commission von 2026 praktisch relevant
+    macht.
+
+    '
+- id: nz-cabinet-going-for-growth-ai-2025
+  jurisdiktion: nz
+  kurztitel: Kabinettsbeschluss 2025 — Going for Growth, KI-Verbreitung
+  offizieller_titel: Cabinet paper "Going for Growth — Enabling AI uptake across the economy"; Cabinet
+    minute CAB-25-MIN-0216
+  fundstelle: Cabinet Economic Policy Committee / Cabinet, CAB-25-MIN-0216, Kabinettsminute vom 30.06.2025;
+    proaktive Veröffentlichung durch MBIE am 07.08.2025
+  verfahrensnummer: CAB-25-MIN-0216
+  status: softlaw
+  status_detail: 'Der Beschluss, mit dem die KI-Strategie freigegeben wurde. Er bestätigt den "light touch,
+    principle-based approach" und legt fest, dass Neuseeland nicht restriktiver regulieren soll als vergleichbare
+    OECD-Staaten. Ministerlich verantwortlich Hon Dr Shane Reti (Science, Innovation and Technology).
+
+    '
+  kurzbeschreibung: 'Das Kabinett beschliesst, öffentlich zu signalisieren, dass Neuseeland einen "light
+    touch, principle-based approach to AI" verfolgt, das Regulierungsumfeld nicht restriktiver zu gestalten
+    als bei OECD-Vergleichsstaaten, international an KI-Governance-Standards mitzuarbeiten und KI-Investitionen
+    über die vorhandenen Rahmen zu unterstützen. Ausdrücklich wird die Präferenz für bestehende Rahmen
+    gegenüber eigenständigen KI-Gesetzen wiederholt. Es werden keine Rechtspflichten begründet und keine
+    Haushaltsmittel gebunden; Gesetzesänderungen sind nicht vorgesehen.
+
+    '
+  inkrafttreten:
+    datum: 2025-06-30
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/dmsdocument/31026-going-for-growth-enabling-ai-uptake-across-the-economy-proactiverelease-pdf
+  anwendungsdaten:
+  - datum: 2025-06-30
+    was_gilt: Kabinettsminute CAB-25-MIN-0216 — Freigabe der KI-Strategie, Bestätigung des Light-Touch-Ansatzes.
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/dmsdocument/31026-going-for-growth-enabling-ai-uptake-across-the-economy-proactiverelease-pdf
+  - datum: 2025-07-08
+    was_gilt: Veröffentlichung der Strategie und der Responsible AI Guidance for Businesses.
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/government-ai-strategy-boost-productivity
+  - datum: 2025-08-07
+    was_gilt: Proaktive Veröffentlichung des Kabinettspapiers durch MBIE.
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/dmsdocument/31026-going-for-growth-enabling-ai-uptake-across-the-economy-proactiverelease-pdf
+  themenachsen:
+  - governance
+  - marktzugang
+  - wettbewerb
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Regulatorischer Massstab: Das Regelungsumfeld soll "no more restrictive than OECD comparators" sein.
+    Das ist eine Standstill-Klausel eigener Art — sie bindet Neuseeland an den Median der OECD statt an
+    ein eigenes Schutzniveau.'
+  - 'Präferenzregel wiederholt: Anwendung vorhandener Rahmen (Datenschutz, Verbraucherschutz, Menschenrechte)
+    "in preference to developing standalone AI laws".'
+  - 'Arbeitsteilung: Die Responsible AI Guidance for Businesses wird gemeinsam mit der Strategie veröffentlicht;
+    das Public Service AI Framework verantwortet der Minister for Digitising Government; ein weiteres
+    Kabinettspapier zur KI im öffentlichen Sektor wird angekündigt.'
+  - 'Keine Haushaltswirkung, kein Gesetzgebungsbedarf: Das Papier stellt ausdrücklich fest, dass keine
+    unmittelbaren finanziellen Folgen und keine Gesetzesänderungen erforderlich sind.'
+  dokumente:
+  - datum: 2025-06-30
+    typ: bericht
+    titel: 'Cabinet paper: Going for Growth — Enabling AI uptake across the economy (proactive release)'
+    url: https://www.mbie.govt.nz/dmsdocument/31026-going-for-growth-enabling-ai-uptake-across-the-economy-proactiverelease-pdf
+    sprache: en
+    urheber: Hon Dr Shane Reti / MBIE
+    verifiziert: true
+    notiz: Belegt, dass die Strategie eine Kabinettsentscheidung mit ausdrücklicher Absage an ein KI-Gesetz
+      trägt.
+  offene_punkte:
+  - Das angekündigte weitere Kabinettspapier des Minister for Digitising Government zur KI-Umsetzung im
+    öffentlichen Sektor wurde nicht aufgefunden.
+  monitoring_quellen:
+  - https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy/new-zealands-ai-strategy-investing-with-confidence
+  bezug_regelwerke:
+  - nz-cabinet-ai-approach-2024
+  - nz-ki-strategie-2025
+  - nz-responsible-ai-guidance-business-2025
+  - nz-public-service-ai-framework-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die Formel "no more restrictive than OECD comparators" ist die interessanteste Einzelaussage.
+    Sie macht das neuseeländische Schutzniveau von fremden Entscheidungen abhängig und enthält zugleich
+    einen eingebauten Nachvollzugsmechanismus: Verschärft die Mehrheit der OECD-Staaten, verliert die
+    Zurückhaltung ihre Begründung. Für eine rechtsvergleichende Arbeit ist das ein Beleg dafür, dass "kein
+    KI-Gesetz" hier keine Grundsatzposition ist, sondern eine Positionierung im Standortwettbewerb.
+
+    '
+- id: nz-ki-strategie-2025
+  jurisdiktion: nz
+  kurztitel: Neuseeländische KI-Strategie 2025
+  offizieller_titel: 'New Zealand''s Strategy for Artificial Intelligence: Investing with confidence'
+  fundstelle: Ministry of Business, Innovation and Employment (Hikina Whakatutuki), Juli 2025; veröffentlicht
+    am 08.07.2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Erste nationale KI-Strategie Neuseelands, veröffentlicht am 08.07.2025 durch Hon Dr
+    Shane Reti. Sie enthält keine Rechtspflichten. Bis zum 06.09.2026 ist ihr keine Umsetzungsverordnung,
+    kein Gesetzentwurf und keine Nachfolgestrategie gefolgt; die Kritik daran ist im August 2026 öffentlich
+    geworden.
+
+    '
+  kurzbeschreibung: 'Die Strategie ist ein Anwendungs- und Investitionsprogramm, kein Regulierungsprogramm.
+    Sie benennt fünf Hemmnisse für die KI-Verbreitung (regulatorische Unsicherheit, wahrgenommene Komplexität
+    und Risiken, fehlendes Verständnis des Nutzens, fehlende Kompetenzen, internationale Anbindung) und
+    beantwortet sie mit Orientierung, Leitfäden, Bildung und Investitionsförderung. Zur Regulierung heisst
+    es, Neuseeland verfolge einen "light-touch and principles-based approach" und verfüge bereits über
+    weitgehend prinzipienbasierte und technologieneutrale Rahmen (Datenschutz, Verbraucherschutz, Menschenrechte);
+    die Übernahme der OECD-KI-Grundsätze erfordere "no additional regulatory overlay beyond existing law".
+    Sanktionen enthält die Strategie keine. Sie beziffert den möglichen Beitrag von KI zum Bruttoinlandsprodukt
+    auf 76 Milliarden neuseeländische Dollar bis 2038.
+
+    '
+  inkrafttreten:
+    datum: 2025-07-08
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/government-ai-strategy-boost-productivity
+  anwendungsdaten:
+  - datum: 2025-07-08
+    was_gilt: Veröffentlichung der Strategie und der Responsible AI Guidance for Businesses; Ministererklärung
+      "taking a light-touch approach" und Verweis auf "existing legislation and regulations such as privacy,
+      consumer protection and human rights".
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/government-ai-strategy-boost-productivity
+  - datum: 2026-04-01
+    was_gilt: Der Wirtschaftsausschuss des Parlaments bestätigt in seinem Briefing on artificial intelligence,
+      dass Neuseeland auf Grundgesetze wie den Privacy Act 2020 und den Commerce Act 1986 setzt statt
+      auf ein KI-Gesetz (Monat belegt, Tag nicht).
+    verifiziert: false
+    quelle: https://selectcommittees.parliament.nz/view/SelectCommitteeReport/847a8886-a31a-4af8-6d95-08dea647243b
+  - datum: 2026-08-05
+    was_gilt: Öffentliche Bilanz nach dreizehn Monaten — keine KI-spezifische Regulierung, keine Regeln
+      für Rechenzentren, Wasser- oder Stromverbrauch; nur die Grünen und Labour haben eigene KI-Politik
+      vorgelegt. NUR SEKUNDÄR BELEGT (Presse).
+    verifiziert: false
+    quelle: https://thespinoff.co.nz/politics/05-08-2026/if-ai-is-about-to-upend-everything-wheres-all-the-ai-policy
+  themenachsen:
+  - governance
+  - marktzugang
+  - datenschutz
+  - grundrechte
+  - arbeit
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Kernsatz zum Regulierungsansatz: "New Zealand is taking a light-touch and principles-based approach
+    to AI policy. New Zealand has existing regulatory frameworks (e.g., privacy, consumer protection,
+    human rights) which are largely principles-based and technology-neutral."'
+  - 'Ausdrückliche Absage an einen Regulierungsaufbau: Die Übernahme der OECD-KI-Grundsätze erfordere
+    "no additional regulatory overlay beyond existing law".'
+  - 'Positionierung als "smart adopter": Die Strategie betont ausdrücklich die Anwendung und Anpassung
+    von KI, nicht die Entwicklung von Basismodellen. Damit entfällt in Neuseeland die gesamte GPAI-Debatte
+    — es gibt keine inländischen Anbieter, an die sich Transparenz- oder Evaluierungspflichten richten
+    könnten.'
+  - 'Begleitprodukt: Responsible AI Guidance for Businesses (MBIE), freiwillig, mit Schwerpunkten Cybersicherheit,
+    Datenschutz und geistiges Eigentum.'
+  - 'Investitionsseite: Active Investor Plus Visa (Änderungen ab 01.04.2025), Budget 2025 (213 Mio. NZD
+    Studiengebühren, 64 Mio. NZD MINT, 111 Mio. NZD Einschreibungen), Vorsitz der Digital Nations 2027,
+    gemeinsames Programm mit Singapur zu KI und gesundem Altern (12 Mio. NZD).'
+  - 'Selbstauskunft: Die Strategie ist nach eigener Angabe unter menschlicher Aufsicht mit KI-Unterstützung
+    erstellt worden.'
+  dokumente:
+  - datum: 2025-07-08
+    typ: uebersicht
+    titel: 'New Zealand''s Strategy for Artificial Intelligence: Investing with confidence'
+    url: https://www.mbie.govt.nz/assets/new-zealands-strategy-for-artificial-intelligence.pdf
+    sprache: en
+    urheber: Ministry of Business, Innovation and Employment
+    verifiziert: true
+    notiz: Der Volltext der Strategie. Enthält den Kernsatz zum Light-Touch-Ansatz.
+  - datum: 2025-07-08
+    typ: pressemitteilung
+    titel: Government AI Strategy to boost productivity
+    url: https://www.beehive.govt.nz/release/government-ai-strategy-boost-productivity
+    sprache: en
+    urheber: Hon Dr Shane Reti
+    verifiziert: true
+    notiz: Die ministerielle Erklärung, dass statt neuer Gesetze das vorhandene Recht (Datenschutz, Verbraucherschutz,
+      Menschenrechte) angewandt wird.
+  - datum: 2025-07-08
+    typ: uebersicht
+    titel: New Zealand's AI Strategy — Investing with confidence (Übersichtsseite MBIE)
+    url: https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy/new-zealands-ai-strategy-investing-with-confidence
+    sprache: en
+    urheber: MBIE
+    verifiziert: true
+    notiz: Verzeichnet die Begleitdokumente (One-Pager, AI Ecosystem Map, Responsible AI Guidance).
+  offene_punkte:
+  - Ob es eine Fortschreibung oder Evaluierung der Strategie gibt, ist offen; bis 06.09.2026 wurde keine
+    aufgefunden.
+  - Der Wahlkampf 2026 könnte die Linie ändern; Labour hat KI-Regulierung für Rechenzentren angekündigt,
+    die Grünen ein einjähriges Moratorium für Rechenzentrums-Genehmigungen.
+  monitoring_quellen:
+  - https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy/new-zealands-ai-strategy-investing-with-confidence
+  - https://www.beehive.govt.nz/
+  bezug_regelwerke:
+  - nz-cabinet-ai-approach-2024
+  - nz-cabinet-going-for-growth-ai-2025
+  - nz-responsible-ai-guidance-business-2025
+  - nz-privacy-act-2020
+  - nz-fair-trading-act-1986
+  - nz-human-rights-act-1993
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die Strategie ist juristisch dünner, als ihr Ruf vermuten lässt: Sie verweist auf
+    "privacy, consumer protection, human rights", ohne ein einziges Gesetz namentlich zu nennen. Wer wissen
+    will, welches Recht in Neuseeland auf KI angewandt wird, findet es dort nicht — er muss die Kabinettspapiere
+    und den Ausschussbericht von 2026 heranziehen. Der interessanteste Befund ist die Selbstbeschränkung
+    auf die Anwenderrolle: Weil in Neuseeland keine Basismodelle entwickelt werden, fehlt der Adressat
+    für den gesamten Regelungsstoff, um den in der EU gestritten wird. Neuseeland ist damit kein Beleg
+    dafür, dass ein Staat ohne KI-Gesetz auskommt, sondern dafür, dass ein reiner Anwenderstaat andere
+    Regelungsprobleme hat als ein Entwicklerstaat.
+
+    '
+- id: nz-responsible-ai-guidance-business-2025
+  jurisdiktion: nz
+  kurztitel: Responsible AI Guidance for Businesses (MBIE)
+  offizieller_titel: Responsible AI Guidance for Businesses
+  fundstelle: Ministry of Business, Innovation and Employment, Juli 2025 (Begleitprodukt der KI-Strategie,
+    Teil des Programms "Going for Growth")
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Freiwilliger Leitfaden ohne Bindungswirkung, veröffentlicht gemeinsam mit der KI-Strategie
+    am 08.07.2025. Ein Publikationsdatum ist auf der MBIE-Seite selbst nicht ausgewiesen; belegt ist die
+    gleichzeitige Veröffentlichung mit der Strategie.
+
+    '
+  kurzbeschreibung: 'Der Leitfaden richtet sich an neuseeländische Unternehmen, die KI einsetzen oder
+    entwickeln. Er gliedert sich in die Abschnitte "Understanding your why for AI", "Good business foundations
+    for responsible AI", "AI system specific considerations" (Daten und Modellierung, Nutzung und Ergebnisse)
+    und "Continuing the conversation", ergänzt um ein Glossar. Adressiert werden Governance, Umgang mit
+    Beschäftigten und Kundschaft, Cybersicherheit, Datenschutz und geistiges Eigentum. Der Leitfaden ist
+    ausdrücklich freiwillig; er begründet keine Pflichten und sieht keine Sanktionen vor. Beigegeben ist
+    ein Kurzformat "Quickstart: Businesses using AI tools".
+
+    '
+  inkrafttreten:
+    datum: 2025-07-08
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/government-ai-strategy-boost-productivity
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - datenschutz
+  - urheberrecht
+  - sicherheit-export
+  - vertrag
+  regelungsschwerpunkte:
+  - 'Rechtsnatur: "a voluntary resource to help businesses ... realise AI''s benefits through using and
+    developing AI systems in a trustworthy way". Keine Pflicht, keine Sanktion, keine Aufsicht.'
+  - 'Funktion im Gesamtsystem: Die Guidance ersetzt in Neuseeland das, was in der EU der Hochrisiko-Pflichtenkatalog
+    leistet — mit dem Unterschied, dass niemand ihre Einhaltung prüfen kann.'
+  - Materiell behandelt sie Cybersicherheit, Datenschutz und geistiges Eigentum. Zum Urheberrecht kann
+    sie nur auf das ungeklärte geltende Recht verweisen (kein TDM-Ausnahmetatbestand, keine Rechtsprechung).
+  dokumente:
+  - datum: 2025-07-08
+    typ: leitlinie
+    titel: Responsible AI Guidance for Businesses (Übersichtsseite mit PDF)
+    url: https://www.mbie.govt.nz/business-and-employment/business/support-for-business/responsible-ai-guidance-for-businesses
+    sprache: en
+    urheber: MBIE
+    verifiziert: true
+    notiz: Enthält den vollständigen Leitfaden (PDF, 1,1 MB) und den Quickstart (PDF, 159 KB).
+  - datum: 2025-07-08
+    typ: uebersicht
+    titel: Other artificial intelligence guidance and resources
+    url: https://www.mbie.govt.nz/business-and-employment/business/support-for-business/responsible-ai-guidance-for-businesses/other-ai-guidance-and-resources
+    sprache: en
+    urheber: MBIE
+    verifiziert: false
+    notiz: Verweisliste auf die übrigen neuseeländischen KI-Materialien; nicht am Dokument geprüft.
+  offene_punkte:
+  - Ein ausgewiesenes Publikationsdatum und eine Versionsangabe fehlen auf der MBIE-Seite; das Datum 08.07.2025
+    stützt sich auf die Beehive-Mitteilung.
+  monitoring_quellen:
+  - https://www.mbie.govt.nz/business-and-employment/business/support-for-business/responsible-ai-guidance-for-businesses
+  bezug_regelwerke:
+  - nz-ki-strategie-2025
+  - nz-privacy-act-2020
+  - nz-copyright-act-1994
+  - nz-fair-trading-act-1986
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Für die Praxis der wichtigste Punkt ist, dass die Guidance beim Urheberrecht nicht
+    weiterhelfen kann: Neuseeland hat weder eine TDM-Schranke noch Rechtsprechung, und die Regierung hat
+    die Frage ausdrücklich auf 2027 vertagt. Ein Unternehmen, das nach dem Leitfaden handelt, ist bei
+    Trainingsdaten genauso ungeschützt wie ohne ihn.
+
+    '
+- id: nz-public-service-ai-framework-2025
+  jurisdiktion: nz
+  kurztitel: Public Service AI Framework
+  offizieller_titel: Public Service Artificial Intelligence Framework
+  fundstelle: Government Chief Digital Officer (GCDO) / Department of Internal Affairs, Fassung Januar
+    2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Rahmenwerk für die neuseeländische Kernverwaltung (Public Service agencies). Ausdrücklich
+    nicht bindend: "Agencies are encouraged to align with the direction set by this Framework, however
+    it''s not binding." Stand der Seite zuletzt 29.01.2025; im Juli 2025 gemeinsam mit der KI-Strategie
+    beworben.
+
+    '
+  kurzbeschreibung: 'Das Rahmenwerk gibt der Kernverwaltung fünf Grundsätze vor (inklusive und nachhaltige
+    Entwicklung, menschenzentrierte Werte, Transparenz und Erklärbarkeit, Sicherheit, Rechenschaft) und
+    ordnet das Arbeitsprogramm in sechs Säulen (Governance, Leitplanken, Fähigkeiten, Innovation, soziale
+    Akzeptanz, internationale Stimme). Es stützt sich auf die OECD-KI-Grundsätze und nennt den Algorithm
+    Charter for Aotearoa New Zealand als eine der Grundlagen. Rechtspflichten oder Sanktionen begründet
+    es nicht; die Verantwortung für den KI-Einsatz bleibt bei der jeweiligen Behörde.
+
+    '
+  inkrafttreten:
+    datum: 2025-01-29
+    verifiziert: true
+    quelle: https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/public-service-artificial-intelligence-framework
+    fundstelle_norm: 'Keine Inkrafttretensvorschrift — ausdruecklich nicht bindend: ''Agencies are encouraged
+      to align with the direction set by this Framework, however it''s not binding.'' Massgeblich ist
+      der Stand der amtlichen Seite des Government Chief Digital Officer: zuletzt aktualisiert am 29.01.2025'
+  anwendungsdaten:
+  - datum: 2025-02-01
+    was_gilt: Öffentliche Einordnung als erstes ressortübergreifendes KI-Rahmenwerk der neuseeländischen
+      Verwaltung (Monat belegt, Tag nicht).
+    verifiziert: false
+    quelle: https://www.beehive.govt.nz/release/guidance-safe-use-ai-public-sector
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Fünf Grundsätze nach OECD-Vorbild: inclusive sustainable development, human-centred values, transparency
+    and explainability, safety and security, accountability.'
+  - 'Sechs Säulen des Arbeitsprogramms: governance, guardrails, capability, innovation, social licence,
+    global voice.'
+  - Ausdrückliche Unverbindlichkeit — der entscheidende Unterschied zu vergleichbaren Rahmen etwa in Kanada
+    (Directive on Automated Decision-Making) oder der EU (Art. 26 KI-VO).
+  - 'Verhältnis zum Algorithm Charter: Der Charter wird als eine von mehreren Grundlagen geführt, nicht
+    aufgehoben; ein klares Abläuferverhältnis ist nirgends geregelt.'
+  dokumente:
+  - datum: 2025-01-29
+    typ: leitlinie
+    titel: Public Service AI Framework
+    url: https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/public-service-artificial-intelligence-framework
+    sprache: en
+    urheber: Government Chief Digital Officer
+    verifiziert: true
+    notiz: Enthält den Wortlaut der Unverbindlichkeitsklausel und die A3-Übersicht als PDF.
+  - datum: 2025-01-29
+    typ: uebersicht
+    titel: Artificial intelligence (Übersichtsseite NZ Digital government)
+    url: https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence
+    sprache: en
+    urheber: GCDO
+    verifiziert: false
+    notiz: Sammelseite der Verwaltungsleitlinien zu KI; nicht im Einzelnen geprüft.
+  offene_punkte:
+  - Das genaue Veröffentlichungsdatum ist unklar; die Seite weist den 29.01.2025 als Stand aus, die Bewerbung
+    erfolgte im Juli 2025.
+  - Das Verhältnis zum Algorithm Charter (Fortgeltung, Aufhebung, Aufgehen) ist amtlich nirgends geklärt.
+  monitoring_quellen:
+  - https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence
+  bezug_regelwerke:
+  - nz-algorithm-charter-2020
+  - nz-genai-guidance-public-service-2023
+  - nz-cabinet-going-for-growth-ai-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Das Rahmenwerk ist der Punkt, an dem der neuseeländische Ansatz am deutlichsten an
+    Grenzen stösst: Die Verwaltung setzt KI ein, unterwirft sich aber nur unverbindlichen Grundsätzen,
+    während die einzige verbindliche Regel zum automatisierten Verwaltungshandeln (s. 363A Social Security
+    Act 2018) in einem Fachgesetz steht und nur einen Ressortbereich erfasst. Zwischen beiden klafft eine
+    Lücke, die die Human Rights Commission 2026 mit dem Vorschlag eines nationalen Algorithmenregisters
+    zu schliessen versucht.
+
+    '
+  pruefvermerk:
+  - 'Bestaetigt, soweit fuer ein nicht bindendes Rahmenwerk moeglich: Das Dokument selbst (Public Service
+    AI Framework A3) traegt kein Datum; belegt ist nur der Seitenstand 29.01.2025. Status softlaw bestaetigt.'
+- id: nz-genai-guidance-public-service-2023
+  jurisdiktion: nz
+  kurztitel: GenAI-Leitlinie für die neuseeländische Verwaltung
+  offizieller_titel: 'Responsible AI Guidance for the Public Service: GenAI'
+  fundstelle: Government Chief Digital Officer (GCDO), Fassung mit Stand 03.02.2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Leitlinie für Führungskräfte und Entscheidungsträger der neuseeländischen Kernverwaltung
+    zum Einsatz generativer KI. Nicht bindend; die Verantwortung bleibt bei der Behörde ("agencies are
+    responsible for their use of GenAI systems"). Zuletzt aktualisiert am 03.02.2025.
+
+    '
+  kurzbeschreibung: 'Die Leitlinie gliedert sich in "GenAI Foundations" (Governance, Sicherheit, Beschaffung,
+    Kompetenzen, Fehlinformation, Rechenschaft) und "GenAI and Customer Experience" (Transparenz, Verzerrung,
+    Barrierefreiheit, Datenschutz). Sie ist zusammen mit dem Public Service AI Framework und dem OECD-KI-Lebenszyklus
+    zu lesen und beruft sich auf die vom Kabinett im Juni 2024 übernommenen OECD-KI-Grundsätze. Rechtsfolgen
+    oder Sanktionen enthält sie nicht.
+
+    '
+  inkrafttreten:
+    datum: 2025-02-03
+    verifiziert: true
+    quelle: https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/overview
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - datenschutz
+  - content
+  regelungsschwerpunkte:
+  - 'Zwei Teile: GenAI Foundations und GenAI and Customer Experience.'
+  - Ausdrücklicher Bezug auf die vom Kabinett im Juni 2024 beschlossenen OECD-KI-Grundsätze ("innovative,
+    trustworthy AI that respects human rights and democratic values").
+  - Unverbindlichkeit und Behördenverantwortung ausdrücklich festgehalten.
+  dokumente:
+  - datum: 2025-02-03
+    typ: leitlinie
+    titel: 'Responsible AI Guidance for the Public Service: GenAI — Overview'
+    url: https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/overview
+    sprache: en
+    urheber: Government Chief Digital Officer
+    verifiziert: true
+    notiz: Enthält Struktur, Unverbindlichkeitsklausel und den Verweis auf den Kabinettsbeschluss zu den
+      OECD-Grundsätzen.
+  offene_punkte:
+  - Der Kabinettsbeschluss vom Juni 2024 zur Übernahme der OECD-KI-Grundsätze wurde nur mittelbar belegt.
+  monitoring_quellen:
+  - https://standards.digital.govt.nz/collections/generative-ai-guidance-gcdo/
+  bezug_regelwerke:
+  - nz-public-service-ai-framework-2025
+  - nz-algorithm-charter-2020
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Praktisch relevant ist die Leitlinie vor allem als Beleg dafür, dass Neuseeland die
+    OECD-Grundsätze förmlich durch Kabinettsbeschluss übernommen hat. Das ist der einzige Anknüpfungspunkt
+    für die Behauptung, das Land verfüge über einen KI-Governance-Rahmen — er ist allerdings nirgends
+    justiziabel.
+
+    '
+- id: nz-algorithm-charter-2020
+  jurisdiktion: nz
+  kurztitel: Algorithm Charter for Aotearoa New Zealand
+  offizieller_titel: Algorithm Charter for Aotearoa New Zealand
+  fundstelle: Stats NZ (Tatauranga Aotearoa) für die neuseeländische Regierung, Juli 2020
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Freiwillige Selbstverpflichtung von Behörden, in Kraft seit Juli 2020, unterzeichnet
+    von 29 Stellen. Nicht aufgehoben, aber seit 2023 nicht mehr fortgeschrieben; die zugehörige Seite
+    ist zuletzt am 15.06.2023 geprüft worden. Das Public Service AI Framework (2025) führt den Charter
+    als eine Grundlage, ersetzt ihn aber nicht förmlich. Der Status ist damit ungeklärt.
+
+    '
+  kurzbeschreibung: 'Der Charter verpflichtet die unterzeichnenden Behörden freiwillig auf sechs Zusagen
+    für den Einsatz von Algorithmen: Transparenz (Erläuterung in einfacher Sprache, Angaben zur Datenverarbeitung),
+    Partnerschaft (Einbeziehung von te ao Māori im Lichte der Grundsätze des Vertrags von Waitangi), Menschen
+    (Ermittlung und Einbeziehung betroffener Gruppen), Daten (Kenntnis der Grenzen der Daten, Erkennung
+    und Steuerung von Verzerrung), Datenschutz, Ethik und Menschenrechte (Peer Review auf unbeabsichtigte
+    Folgen) sowie menschliche Aufsicht (benannte Ansprechstelle, Beschwerdemöglichkeit, Erläuterung der
+    Rolle des Menschen in der Entscheidung). Anwendbar sind die Zusagen nach einer Risikomatrix, also
+    abgestuft nach Auswirkung und Wahrscheinlichkeit. Sanktionen bestehen nicht.
+
+    '
+  inkrafttreten:
+    datum: 2020-07-28
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/new-algorithm-charter-world-first
+    fundstelle_norm: 'Keine Inkrafttretensvorschrift — freiwillige Selbstverpflichtung ohne Rechtsnormqualitaet.
+      Massgeblich ist der Tag der Vorstellung: Ministerielle Mitteilung vom 28.07.2020, ''Minister James
+      Shaw today launched the Algorithm Charter'''
+  anwendungsdaten:
+  - datum: 2021-12-01
+    was_gilt: Erste unabhängige Überprüfung (Taylor Fry) mit Befragung von Unterzeichnern, Nichtunterzeichnern
+      und Fachleuten.
+    verifiziert: true
+    quelle: https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-Year-1-Review-FINAL.pdf
+  - datum: 2023-06-15
+    was_gilt: Letzter Prüfstand der amtlichen Charter-Seite; danach keine Fortschreibung mehr nachweisbar.
+    verifiziert: true
+    quelle: https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter
+  themenachsen:
+  - governance
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Sechs Zusagen: Transparency, Partnership, People, Data, Privacy ethics and human rights, Human oversight.'
+  - Die Zusage "Partnership" verankert te ao Māori und die Grundsätze des Vertrags von Waitangi im Algorithmeneinsatz
+    der Verwaltung. Das ist weltweit die früheste ausdrückliche Verknüpfung von indigenen Vertragsrechten
+    mit algorithmischer Verwaltung und der eigentliche neuseeländische Beitrag zur internationalen Debatte.
+  - 'Risikomatrix statt fester Schwellen: Die Zusagen greifen abgestuft nach Auswirkung und Wahrscheinlichkeit
+    — eine Vorwegnahme des risikobasierten Ansatzes vier Jahre vor der KI-VO, aber ohne Rechtsfolge.'
+  - 29 unterzeichnende Stellen, darunter Corrections, Health, Police, Stats NZ, Ministry of Education
+    und Inland Revenue. Nichtunterzeichner sind nicht gebunden; eine Beitrittspflicht besteht nicht.
+  dokumente:
+  - datum: 2020-07-28
+    typ: norm
+    titel: An Algorithm Charter for Aotearoa New Zealand
+    url: https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf
+    sprache: en
+    urheber: Stats NZ / New Zealand Government
+    verifiziert: true
+    notiz: Der Wortlaut der sechs Zusagen.
+  - datum: 2020-07-28
+    typ: norm
+    titel: Algorithm Charter for Aotearoa New Zealand (te reo Māori)
+    url: https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020-Final-Te-Reo-Maori.pdf
+    sprache: mi
+    urheber: Stats NZ
+    verifiziert: false
+    notiz: Amtliche Māori-Fassung; nicht im Einzelnen geprüft.
+  - datum: 2021-12-01
+    typ: bericht
+    titel: Algorithm Charter for Aotearoa New Zealand — Year 1 Review
+    url: https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-Year-1-Review-FINAL.pdf
+    sprache: en
+    urheber: Taylor Fry für Stats NZ
+    verifiziert: true
+    notiz: Die einzige unabhängige Evaluierung; Grundlage jeder Aussage zur tatsächlichen Wirkung des
+      Charters.
+  - datum: 2020-01-01
+    typ: konsultation
+    titel: Developing the Charter — Konsultationsunterlagen
+    url: https://data.govt.nz/docs/algorithm-charter-draft-sub
+    sprache: en
+    urheber: Stats NZ
+    verifiziert: false
+    notiz: Entstehungsgeschichte; nicht im Einzelnen geprüft.
+  offene_punkte:
+  - 'Der aktuelle Status ist ungeklärt: Der Charter ist nicht aufgehoben, wird aber seit 2023 nicht mehr
+    gepflegt, während das Public Service AI Framework (2025) denselben Gegenstand behandelt.'
+  - Ob und wie viele Behörden die Zusagen 2025/2026 noch anwenden, ist nicht ermittelbar; ein öffentliches
+    Register fehlt.
+  monitoring_quellen:
+  - https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter
+  bezug_regelwerke:
+  - nz-public-service-ai-framework-2025
+  - nz-privacy-act-2020
+  - nz-social-security-act-2018-adm
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Der Charter ist das Lehrstück des neuseeländischen Modells. Er war 2020 international
+    führend — vor der KI-VO, vor dem NIST-Rahmen, mit einem ausdrücklichen Vertragsbezug, den kein anderer
+    Staat kennt. Und er ist genau daran gescheitert, woran freiwillige Instrumente scheitern: Nach der
+    ersten Evaluierung 2021 gibt es keine zweite, keine Sanktion, kein Register und seit 2023 keine Pflege.
+    Wer den Satz "Neuseeland kommt ohne KI-Gesetz aus" prüfen will, sollte hier ansetzen: Das Instrument,
+    das die Lücke schliessen sollte, ist ohne förmliche Aufhebung eingeschlafen.
+
+    '
+  pruefvermerk:
+  - Bestaetigt. Der Charter gilt fort und ist nicht foermlich aufgehoben; data.govt.nz weist ihn mit Stand
+    15.06.2023 als geltend aus und nennt inzwischen 30 unterzeichnende Stellen (der Eintrag nennt 29 —
+    pruefen). Eine unabhaengige Ueberpruefung wurde im Dezember 2021 abgeschlossen.
+- id: nz-select-committee-ai-briefing-2026
+  jurisdiktion: nz
+  kurztitel: Ausschuss-Briefing zu KI (2026)
+  offizieller_titel: Briefing on artificial intelligence — Report of the Economic Development, Science
+    and Innovation Committee
+  fundstelle: New Zealand House of Representatives, Economic Development, Science and Innovation Committee,
+    vorgelegt im April 2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Bericht eines Fachausschusses des Repräsentantenhauses. Er empfiehlt dem Haus lediglich,
+    den Bericht zur Kenntnis zu nehmen ("recommends that the House take note of its report"), enthält
+    aber die derzeit klarste amtliche Darstellung des neuseeländischen Regulierungsansatzes.
+
+    '
+  kurzbeschreibung: 'Der Ausschuss hat sich mit den Leitlinien für den KI-Einsatz in der Verwaltung, mit
+    der Orientierung für die Privatwirtschaft, mit dem Vertrauen der Bevölkerung in KI und mit der Frage
+    befasst, ob das geltende Recht die von KI ausgehenden Herausforderungen erfasst. Ergebnis: Neuseeland
+    verzichtet auf ein eigenes KI-Gesetz und stützt sich auf Grundgesetze, ausdrücklich genannt werden
+    der Privacy Act 2020 und der Commerce Act 1986. Die Regierung will prüfen, ob das vorhandene Recht
+    "fit for AI" bleibt, und die internationale Entwicklung beobachten, einschliesslich der urheberrechtlichen
+    Verfahren zu generativer KI, um daraus Folgerungen für das Wettbewerbsrecht und weitere Rahmen zu
+    ziehen.
+
+    '
+  inkrafttreten:
+    datum: 2026-04-01
+    verifiziert: false
+    quelle: https://selectcommittees.parliament.nz/view/SelectCommitteeReport/847a8886-a31a-4af8-6d95-08dea647243b
+  anwendungsdaten: []
+  themenachsen:
+  - governance
+  - wettbewerb
+  - datenschutz
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Amtliche Bestätigung der Linie: Statt eines AI Act stützt sich Neuseeland auf "fundamental legislation,
+    such as the Privacy Act 2020 and the Commerce Act 1986".'
+  - Erstmals wird das Wettbewerbsrecht (Commerce Act 1986) ausdrücklich als KI-Instrument benannt — bis
+    dahin sprachen die Regierungsdokumente nur von Datenschutz, Verbraucherschutz und Menschenrechten.
+  - 'Beobachtungsauftrag: Die ausländischen Urheberrechtsverfahren zu generativer KI sollen ausgewertet
+    werden. Das ist die parlamentarische Entsprechung zu der auf 2027 vertagten Copyright-Entscheidung.'
+  - Gegenstand des Briefings waren auch das geringe Vertrauen der neuseeländischen Bevölkerung in KI und
+    die Frage der sozialen Akzeptanz.
+  dokumente:
+  - datum: 2026-04-01
+    typ: ausschussbericht
+    titel: Briefing on artificial intelligence — Report of the Economic Development, Science and Innovation
+      Committee
+    url: https://selectcommittees.parliament.nz/view/SelectCommitteeReport/847a8886-a31a-4af8-6d95-08dea647243b
+    sprache: en
+    urheber: Economic Development, Science and Innovation Committee, New Zealand House of Representatives
+    verifiziert: true
+    notiz: Die klarste amtliche Zusammenfassung des neuseeländischen Ansatzes und die einzige parlamentarische
+      Befassung mit KI als solcher.
+  offene_punkte:
+  - Der genaue Vorlagetag im April 2026 wurde nicht ermittelt; das Dokument selbst nennt nur den Monat.
+  - Ob die Regierung auf den Bericht geantwortet hat (Government Response), wurde nicht geprüft.
+  - 'Inkrafttreten nicht belegbar: selectcommittees.parliament.nz (die im Eintrag hinterlegte URL, JavaScript
+    dort gesperrt), parliament.nz, Websuche. Die verlinkte Datei traegt den Titel ''Draft report (Briefing
+    on artificial intelligence).docx'' — es handelt sich also um einen ENTWURF des Berichts, nicht um
+    den dem Haus vorgelegten Bericht. Ein Datum der Vorlage (presented to the House) liess sich nicht
+    ermitteln; der eingetragene 01.04.2026 ist ein Monatsplatzhalter. Verifiziert bleibt false. Empfehlung:
+    Vorlagedatum aus dem Journal of the House pruefen und ggf. auf den endgueltigen Bericht statt auf
+    den Entwurf verlinken.'
+  monitoring_quellen:
+  - https://www.parliament.nz/en/pb/sc/scl/economic-development-science-and-innovation/
+  bezug_regelwerke:
+  - nz-ki-strategie-2025
+  - nz-privacy-act-2020
+  - nz-copyright-reform-2026
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Für die Zitierfähigkeit ist dieser Bericht wertvoll: Er ist die einzige Aussage eines
+    parlamentarischen Organs zur neuseeländischen KI-Politik und bestätigt den Regierungsansatz über Parteigrenzen
+    hinweg. Bemerkenswert ist die Nennung des Commerce Act 1986 — sie zeigt, dass die wettbewerbsrechtliche
+    Dimension von KI in Neuseeland erst 2026 in den amtlichen Sprachgebrauch gelangt ist, drei Jahre nach
+    den entsprechenden Untersuchungen in der EU und im Vereinigten Königreich.
+
+    '
+- id: nz-hrc-ai-tiriti-2026
+  jurisdiktion: nz
+  kurztitel: Diskussionspapier der Menschenrechtskommission zu KI (2026)
+  offizieller_titel: 'AI and Digital Technologies: A Human Rights and Te Tiriti o Waitangi Approach'
+  fundstelle: Te Kāhui Tika Tangata Human Rights Commission, veröffentlicht am 07.08.2026; Arbeitsprogramm
+    "Artificial Intelligence, Emerging Digital Technologies and Human Rights" mit Expert Advisory Group
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Diskussionspapier der nationalen Menschenrechtsinstitution, veröffentlicht am 07.08.2026,
+    begleitet von einer Kurzfassung. Die Kommission hat dafür eine Expert Advisory Group eingesetzt. Das
+    Papier ist die derzeit gewichtigste institutionelle Gegenposition zum Regierungsansatz.
+
+    '
+  kurzbeschreibung: 'Die Kommission behandelt KI und digitale Technologien nicht als Marktprodukte, sondern
+    als Infrastruktur, die bewusst gestaltet und öffentlich verantwortet werden muss. Als Risiken benennt
+    sie Datenschutzverletzungen, Diskriminierung bei automatisierten Entscheidungen, digitale Ausgrenzung,
+    fehlende Transparenz, Verdrängung von Arbeit und den Missbrauch von Māori-Daten; als Chancen den Zugang
+    zur Gesundheitsversorgung, die Barrierefreiheit für behinderte Menschen und die Revitalisierung von
+    te reo Māori. Empfehlung eins verlangt eine nationale Strategie für digitale Infrastruktur mit ausdrücklicher
+    menschenrechtlicher und Tiriti-Grundlage einschliesslich Māori-Datensouveränität; Empfehlung zwei
+    einen nationalen menschenrechts- und Tiriti-basierten Risikobewertungsrahmen für den öffentlichen
+    wie den privaten Sektor, dessen Entwicklung die Kommission gemeinsam mit Māori führen soll. Weiter
+    fordert das Papier ein nationales Algorithmenregister für den öffentlichen Sektor, ein AI Safety Institute
+    für technische Evaluierungen, Gesetzgebung gegen nicht einvernehmliche Deepfakes, verschärfte Transparenzpflichten
+    für automatisierte Entscheidungen und Anforderungen an die Barrierefreiheit. Rechtsverbindlichkeit
+    hat das Papier nicht.
+
+    '
+  inkrafttreten:
+    datum: 2026-08-07
+    verifiziert: true
+    quelle: https://tikatangata.org.nz/our-work/artificial-intelligence-emerging-digital-technologies-and-human-rights
+  anwendungsdaten:
+  - datum: 2026-03-06
+    was_gilt: Stand der Projektseite; Einsetzung und Zusammensetzung der Expert Advisory Group zu KI,
+      digitalen Technologien und Menschenrechten.
+    verifiziert: true
+    quelle: https://tikatangata.org.nz/our-work/artificial-intelligence-emerging-digital-technologies-and-human-rights
+  - datum: 2026-06-25
+    was_gilt: Ankündigung des Diskussionspapiers für Anfang August 2026 im Zusammenhang mit der Beratung
+      zum Deepfake-Gesetzentwurf.
+    verifiziert: false
+    quelle: https://lawnews.nz/criminal/deepfake-bill-wont-hold-nudify-platforms-to-account-says-tlanz-committee/
+  - datum: 2026-08-07
+    was_gilt: Veröffentlichung des Papiers und der Kurzfassung; öffentlicher Aufruf zu einem menschenrechts-
+      und Tiriti-zentrierten Ansatz.
+    verifiziert: true
+    quelle: https://tikatangata.org.nz/news/commission-calls-for-human-rights-centred-approach-to-ai-and-digital-technologies
+  themenachsen:
+  - grundrechte
+  - governance
+  - datenschutz
+  - sektor-oeffentlich
+  - arbeit
+  - content
+  regelungsschwerpunkte:
+  - 'Grundthese: KI und digitale Technologien sind Infrastruktur, nicht Produkt — und damit Gegenstand
+    öffentlicher Verantwortung statt reiner Marktaufsicht.'
+  - 'Empfehlung 1: nationale Strategie für digitale Infrastruktur auf menschenrechtlicher und Tiriti-Grundlage,
+    einschliesslich Māori-Datensouveränität und Rechenschaftsmechanismen.'
+  - 'Empfehlung 2: nationaler menschenrechts- und Tiriti-basierter Risikobewertungsrahmen für öffentlichen
+    UND privaten Sektor; die Kommission soll dafür ausgestattet werden und die Entwicklung gemeinsam mit
+    Māori führen.'
+  - 'Konkrete Einzelforderungen: nationales Algorithmenregister für den öffentlichen Sektor, AI Safety
+    Institute für technische Evaluierung, Gesetzgebung gegen nicht einvernehmliche Deepfakes, verschärfte
+    Transparenzpflichten bei automatisierten Entscheidungen, Barrierefreiheitsanforderungen.'
+  - 'Institutioneller Konflikt: Die Forderung nach einem Risikobewertungsrahmen für den privaten Sektor
+    steht in unmittelbarem Widerspruch zu Empfehlung 2 des Kabinettsbeschlusses ECO-24-MIN-0119 und zur
+    Vorgabe, nicht restriktiver zu regulieren als OECD-Vergleichsstaaten.'
+  dokumente:
+  - datum: 2026-08-07
+    typ: bericht
+    titel: 'AI and Digital Technologies: A Human Rights and Te Tiriti o Waitangi Approach'
+    url: https://tikatangata.org.nz/cms/assets/Documents/General/AI-and-Digital-Tech/AI-and-Digital-Technologies-A-Human-Rights-and-Te-Tiriti-o-Waitangi-Approach.pdf
+    sprache: en
+    urheber: Te Kāhui Tika Tangata Human Rights Commission
+    verifiziert: true
+    notiz: Das vollständige Diskussionspapier. Amtliche Fundstelle der Forderungen nach Algorithmenregister
+      und AI Safety Institute.
+  - datum: 2026-08-07
+    typ: bericht
+    titel: 'AI and Digital Technologies: A Human Rights and Te Tiriti o Waitangi Approach — Executive
+      Summary'
+    url: https://tikatangata.org.nz/cms/assets/Documents/General/AI-and-Digital-Tech/AI-and-Digital-Technologies-A-Human-Rights-and-Te-Tiriti-o-Waitangi-Approach-Executive-Summary.pdf
+    sprache: en
+    urheber: Human Rights Commission
+    verifiziert: true
+    notiz: Kurzfassung mit den beiden Hauptempfehlungen im Wortlaut.
+  - datum: 2026-03-06
+    typ: uebersicht
+    titel: Artificial Intelligence, Emerging Digital Technologies and Human Rights (Projektseite, Expert
+      Advisory Group)
+    url: https://tikatangata.org.nz/our-work/artificial-intelligence-emerging-digital-technologies-and-human-rights
+    sprache: en
+    urheber: Human Rights Commission
+    verifiziert: true
+    notiz: Belegt das Arbeitsprogramm und die Expert Advisory Group.
+  offene_punkte:
+  - Eine Konsultationsfrist oder ein Verfahren zur Stellungnahme ist im Papier nicht ausgewiesen.
+  - Eine Reaktion der Regierung auf die Empfehlungen war bis 06.09.2026 nicht auffindbar.
+  monitoring_quellen:
+  - https://tikatangata.org.nz/our-work/artificial-intelligence-emerging-digital-technologies-and-human-rights
+  bezug_regelwerke:
+  - nz-human-rights-act-1993
+  - nz-privacy-act-2020
+  - nz-algorithm-charter-2020
+  - nz-deepfake-bill-2025
+  - nz-cabinet-ai-approach-2024
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Dies ist der Punkt, an dem der neuseeländische Verzicht auf ein KI-Gesetz institutionell
+    angegriffen wird — und zwar nicht von der Zivilgesellschaft, sondern von der nach dem Human Rights
+    Act 1993 errichteten Menschenrechtskommission. Rechtsvergleichend besonders interessant ist die Verknüpfung
+    von KI-Governance mit Te Tiriti o Waitangi: Wenn die Krone vertragliche Pflichten gegenüber Māori
+    hat und Verwaltungsentscheidungen zunehmend algorithmisch fallen, lässt sich der Vertragsbezug nicht
+    mit freiwilligen Zusagen erfüllen. Das ist ein Argument, das kein anderer Staat in dieser Form hat,
+    und es könnte am Ende der Hebel sein, über den Neuseeland doch noch verbindliche Regeln bekommt.
+
+    '
+- id: nz-privacy-act-2020
+  jurisdiktion: nz
+  kurztitel: Privacy Act 2020
+  offizieller_titel: Privacy Act 2020
+  fundstelle: 2020 No 31; Royal assent 30.06.2020; verwaltet vom Ministry of Justice (Te Tahu o te Ture);
+    konsolidierte Fassung mit Stand 01.05.2026
+  verfahrensnummer: Privacy Bill 34 (52. Parlament)
+  status: anwendbar
+  status_detail: 'Vollständig in Kraft seit 01.12.2020. Seit 01.05.2026 gilt zusätzlich IPP 3A (eingefügt
+    durch den Privacy Amendment Act 2025). Das Gesetz ist die tragende Norm des neuseeländischen KI-Rechts:
+    Da kein KI-Gesetz besteht, laufen praktisch alle KI-bezogenen Rechtsfragen mit Personenbezug über
+    die Information Privacy Principles.
+
+    '
+  kurzbeschreibung: 'Der Privacy Act 2020 bindet jede "agency" — Behörden wie Private, mit engen Ausnahmen
+    — an dreizehn (seit 01.05.2026 vierzehn) Information Privacy Principles für Erhebung, Speicherung,
+    Zugang, Berichtigung, Richtigkeit, Aufbewahrung, Nutzung, Weitergabe, Auslandsübermittlung und eindeutige
+    Kennungen. Die IPPs sind nach s. 31 Abs. 1 grundsätzlich NICHT gerichtlich einklagbar; einzige Ausnahme
+    ist der Auskunftsanspruch nach IPP 6 Abs. 1 gegenüber Stellen des öffentlichen Sektors. Durchgesetzt
+    wird das Gesetz stattdessen über Beschwerde beim Privacy Commissioner (Te Mana Matapono Matatapu),
+    Untersuchung, Vergleich, Compliance Notices und Verfahren vor dem Human Rights Review Tribunal, das
+    nach s. 102 Feststellungen, Unterlassungsanordnungen, Schadensersatz nach s. 103 und weitere Anordnungen
+    aussprechen kann. Meldepflichtig sind Datenschutzverletzungen mit ernsthaftem Schaden (Part 6). Der
+    Strafrahmen des Gesetzes ist ausgesprochen niedrig: s. 212 sieht für Behinderung des Commissioners,
+    falsche Angaben oder Identitätstäuschung Geldstrafen von höchstens 10.000 NZD vor.
+
+    '
+  inkrafttreten:
+    datum: 2020-12-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html
+  anwendungsdaten:
+  - datum: 2020-12-01
+    was_gilt: Vollständiges Inkrafttreten; Ablösung des Privacy Act 1993.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html
+  - datum: 2025-09-24
+    was_gilt: Inkrafttreten von Part 2 des Privacy Amendment Act 2025 (u.a. neuer s. 18 Abs. 3 zu Angemessenheitsfeststellungen
+      für Staaten und Staatengruppen).
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+  - datum: 2026-05-01
+    was_gilt: 'IPP 3A gilt: Informationspflicht bei Erhebung personenbezogener Daten aus anderen Quellen
+      als bei der betroffenen Person. Nach s. 25A gilt IPP 3A nicht für vor dem 01.05.2026 erhobene Daten.'
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'IPP 1 bis 13 samt IPP 3A stehen vollständig in s. 22. Die amtlichen Überschriften lauten: 1 Purpose
+    of collection of personal information; 2 Source of personal information; 3 Collection of personal
+    information from individual concerned; 3A Collection of personal information other than from individual
+    concerned; 4 Manner of collection of personal information; 5 Storage and security of personal information;
+    6 Access to personal information; 7 Correction of personal information; 8 Accuracy, etc, of personal
+    information to be checked before use or disclosure; 9 Agency not to keep personal information for
+    longer than necessary; 10 Limits on use of personal information; 11 Limits on disclosure of personal
+    information; 12 Disclosure of personal information outside New Zealand; 13 Unique identifiers.'
+  - 'ZENTRALER BEFUND: Die Wörter "automated", "automated decision" und "profiling" kommen im gesamten
+    Privacy Act 2020 NICHT vor (Volltextprüfung am 06.09.2026 an der konsolidierten Fassung). Ein Gegenstück
+    zu Art. 22 DSGVO existiert nicht. Automatisierte Einzelentscheidungen werden ausschliesslich mittelbar
+    erfasst — über IPP 8 (Richtigkeit vor Nutzung und Weitergabe) und IPP 10 (Zweckbindung).'
+  - 'IPP 4 lautet: "An agency may collect personal information only — (a) by a lawful means; and (b) by
+    a means that, in the circumstances of the case (particularly in circumstances where personal information
+    is being collected from children or young persons), — (i) is fair; and (ii) does not intrude to an
+    unreasonable extent upon the personal affairs of the individual concerned." Das ist die Norm, an der
+    Web-Scraping für Trainingszwecke in Neuseeland zu messen ist.'
+  - 'IPP 8 lautet: "An agency that holds personal information must not use or disclose that information
+    without taking any steps that are, in the circumstances, reasonable to ensure that the information
+    is accurate, up to date, complete, relevant, and not misleading." Das ist die schärfste Waffe gegen
+    Halluzinationen mit Personenbezug — eine Pflicht, die anders als Art. 5 Abs. 1 lit. d DSGVO ausdrücklich
+    an Nutzung UND Weitergabe anknüpft.'
+  - 's. 24 Abs. 2: Eine Massnahme verstösst nicht gegen die IPPs 1 bis 5, 7 bis 10 oder 13, wenn sie durch
+    neuseeländisches Recht erlaubt oder gefordert ist. Diese Klausel erklärt, warum s. 363A Social Security
+    Act 2018 den automatisierten Verwaltungsvollzug datenschutzrechtlich absichert.'
+  - 's. 31 Abs. 1: "Except as provided in subsection (2), the IPPs do not confer on any person any right
+    that is enforceable in a court of law." Abs. 2 nimmt nur IPP 6 Abs. 1 gegenüber dem öffentlichen Sektor
+    aus. Der Privatrechtsweg ist damit versperrt; alles läuft über Commissioner und Tribunal.'
+  - 's. 32: Ermächtigung des Commissioners, Codes of Practice zu erlassen, die die IPPs strenger oder
+    milder fassen, ausnehmen oder ihre Anwendung näher regeln können — die Rechtsgrundlage des Biometric
+    Processing Privacy Code 2025 und des Health Information Privacy Code 2020.'
+  - 's. 69: Definition der "interference with the privacy of an individual" — Verstoss gegen eine IPP
+    plus Schaden, Nachteil, Beeinträchtigung von Rechten oder erhebliche Demütigung. Nur ein so qualifizierter
+    Verstoss öffnet den Weg zum Tribunal.'
+  - 's. 212: Straftatbestände mit einem Höchstmass von 10.000 NZD. Im internationalen Vergleich ist das
+    der niedrigste Sanktionsrahmen einer entwickelten Datenschutzordnung — und der Grund, warum die neuseeländische
+    Durchsetzung faktisch auf Kooperation beruht.'
+  dokumente:
+  - datum: 2026-05-01
+    typ: konsolidiert
+    titel: Privacy Act 2020 (konsolidierte Fassung mit Stand 01.05.2026)
+    url: https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext einschliesslich s. 22 mit allen IPPs und IPP 3A.
+  - datum: 2020-12-01
+    typ: uebersicht
+    titel: Privacy principles (Office of the Privacy Commissioner)
+    url: https://www.privacy.org.nz/privacy-act-2020/privacy-principles/
+    sprache: en
+    urheber: Office of the Privacy Commissioner / Te Mana Matapono Matatapu
+    verifiziert: true
+    notiz: Die amtliche Kurzfassung der IPPs in einfacher Sprache; weicht in der Formulierung der Überschriften
+      vom Gesetzestext ab.
+  offene_punkte:
+  - Ob das Fehlen einer Art.-22-DSGVO-Entsprechung im Rahmen der Angemessenheitsentscheidung der Europäischen
+    Kommission zugunsten Neuseelands (2012) überprüft wird, war nicht zu klären; der Privacy Amendment
+    Act 2025 hat mit s. 18 Abs. 3 gerade erst ein eigenes Angemessenheitsinstrument geschaffen.
+  - Ob die Regierung eine weitere Novelle zum automatisierten Entscheiden plant, ist offen; die Human
+    Rights Commission fordert sie seit 07.08.2026.
+  monitoring_quellen:
+  - https://www.privacy.org.nz/publications/
+  - https://www.justice.govt.nz/justice-sector-policy/key-initiatives/enhancing-the-privacy-act/
+  bezug_regelwerke:
+  - nz-privacy-amendment-act-2025
+  - nz-biometric-processing-privacy-code-2025
+  - nz-health-information-privacy-code-2020
+  - nz-opc-ai-guidance-2023
+  - nz-human-rights-act-1993
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Der Privacy Act 2020 trägt in Neuseeland die Last, die anderswo ein KI-Gesetz trägt,
+    und man sieht ihm an, dass er dafür nicht gebaut wurde. Zwei Bruchstellen sind entscheidend. Erstens
+    fehlt jede Regel zu automatisierten Entscheidungen — kein Verbot, kein Auskunftsanspruch über die
+    Logik, kein Recht auf menschliches Eingreifen. Zweitens sind die IPPs nach s. 31 nicht einklagbar,
+    und der Strafrahmen liegt bei 10.000 NZD. Wer also in Neuseeland durch ein KI-System geschädigt wird,
+    hat weder einen materiellen Anspruch aus dem Datenschutzrecht noch eine abschreckende Sanktion hinter
+    sich — er hat eine Beschwerde. Das ist die präzise Antwort auf die Frage, wo der neuseeländische Weg
+    an seine Grenze stösst.
+
+    '
+- id: nz-privacy-amendment-act-2025
+  jurisdiktion: nz
+  kurztitel: Privacy Amendment Act 2025 (IPP 3A)
+  offizieller_titel: Privacy Amendment Act 2025
+  fundstelle: 2025 No 53; Royal assent 23.09.2025; verwaltet vom Ministry of Justice
+  verfahrensnummer: Privacy Amendment Bill 292 (Einbringung 06.09.2023; erste Lesung und Überweisung an
+    den Justice Committee 02.05.2024; Ausschussbericht 25.10.2024 als 292-2; zweite Lesung 18.02.2025;
+    Ausschuss des ganzen Hauses 27.03.2025 als 292-3; dritte Lesung 18.09.2025)
+  status: anwendbar
+  status_detail: 'Part 2 in Kraft seit 24.09.2025, Part 1 (die materielle Änderung mit IPP 3A) seit 01.05.2026.
+    Nach dem neu eingefügten s. 25A Privacy Act 2020 gilt IPP 3A nicht für personenbezogene Daten, die
+    vor dem 01.05.2026 erhoben wurden.
+
+    '
+  kurzbeschreibung: 'Das Änderungsgesetz fügt in s. 22 Privacy Act 2020 nach IPP 3 den neuen IPP 3A ein:
+    Erhebt eine Stelle personenbezogene Daten über eine Person aus anderen Quellen als bei dieser Person
+    selbst, muss sie die in den Umständen angemessenen Schritte unternehmen, damit die betroffene Person
+    von der Erhebung, ihrem Zweck, den vorgesehenen Empfängern, Namen und Anschrift der erhebenden und
+    der speichernden Stelle, der etwaigen gesetzlichen Grundlage und den Rechten auf Zugang und Berichtigung
+    Kenntnis erlangt. Die Schritte sind so bald wie vernünftigerweise praktikabel nach der Erhebung zu
+    unternehmen. Eine Pflicht entfällt, wenn die Person bereits auf andere Weise über alle Punkte in Kenntnis
+    gesetzt worden ist. Weiter passt das Gesetz ss. 25, 27, 28 an und ergänzt s. 18 um eine Befugnis zu
+    Feststellungen über Staaten und Staatengruppen mit vergleichbarem Datenschutzniveau.
+
+    '
+  inkrafttreten:
+    datum: 2026-05-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+  anwendungsdaten:
+  - datum: 2025-09-23
+    was_gilt: Royal assent (2025 No 53).
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+  - datum: 2025-09-24
+    was_gilt: Part 2 in Kraft (u.a. s. 18 Abs. 3 Privacy Act 2020).
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+  - datum: 2026-05-01
+    was_gilt: Part 1 in Kraft — IPP 3A gilt für ab diesem Tag erhobene Daten.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'IPP 3A ist für KI unmittelbar einschlägig: Wer Trainings- oder Anreicherungsdaten aus Drittquellen
+    (Datenhändler, Web-Scraping, verbundene Unternehmen) erhebt, muss die betroffenen Personen benachrichtigen,
+    soweit dies in den Umständen angemessen ist.'
+  - 'Zeitpunkt: "as soon as is reasonably practicable after the information has been collected (unless
+    taken sooner)" — anders als bei IPP 3 also nachträglich, nicht vorab.'
+  - Ausnahme bei bereits erfolgter Kenntnis (IPP 3A Abs. 3) samt gesetzlichem Beispiel.
+  - 'Stichtagsregel in s. 25A Privacy Act 2020: keine Rückwirkung auf vor dem 01.05.2026 erhobene Daten
+    — praktisch bedeutsam, weil damit bestehende Trainingsdatenbestände ausgenommen bleiben.'
+  - 's. 28 Privacy Act 2020 neu gefasst: IPPs 2, 3, 3A und 4 lit. b gelten nicht für die Erhebung durch
+    Nachrichten- und Sicherheitsdienste.'
+  - 'Ungewöhnlich langes Verfahren: Einbringung 06.09.2023, dritte Lesung 18.09.2025 — mehr als zwei Jahre
+    für eine einzige neue Vorschrift.'
+  dokumente:
+  - datum: 2025-09-23
+    typ: endfassung
+    titel: Privacy Amendment Act 2025 (2025 No 53)
+    url: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext mit Wortlaut des IPP 3A und der Inkrafttretensregelung.
+  - datum: 2026-05-01
+    typ: pressemitteilung
+    titel: New privacy information principle now in force
+    url: https://www.justice.govt.nz/about/news-and-media/news/new-privacy-information-principle-in/
+    sprache: en
+    urheber: Ministry of Justice
+    verifiziert: false
+    notiz: Amtliche Mitteilung zum Anwendungsbeginn; nicht am Dokument geprüft.
+  - datum: 2026-05-01
+    typ: uebersicht
+    titel: Enhancing the Privacy Act (Vorhabenseite)
+    url: https://www.justice.govt.nz/justice-sector-policy/key-initiatives/enhancing-the-privacy-act/
+    sprache: en
+    urheber: Ministry of Justice
+    verifiziert: false
+    notiz: Verfahrensakte des Vorhabens; nicht am Dokument geprüft.
+  offene_punkte:
+  - Ob der Privacy Commissioner zu IPP 3A eine eigene Leitlinie für KI-Trainingsdaten erlassen hat, wurde
+    nicht abschliessend geprüft.
+  monitoring_quellen:
+  - https://www.privacy.org.nz/publications/
+  bezug_regelwerke:
+  - nz-privacy-act-2020
+  - nz-biometric-processing-privacy-code-2025
+  - nz-health-information-privacy-code-2020
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'IPP 3A ist der einzige neuseeländische Rechtsakt seit 2020, der die Datenlage generativer
+    KI unmittelbar berührt — und er tut es unbeabsichtigt. Der Gesetzentwurf stammt aus 2023 und zielt
+    auf Datenhandel, nicht auf Modelltraining. Praktisch bedeutsam ist die Stichtagsregel: Wer seinen
+    Datenbestand vor dem 01.05.2026 zusammengetragen hat, muss niemanden benachrichtigen. Das ist eine
+    Amnestie für die bereits gebauten Korpora.
+
+    '
+- id: nz-biometric-processing-privacy-code-2025
+  jurisdiktion: nz
+  kurztitel: Biometric Processing Privacy Code 2025
+  offizieller_titel: Biometric Processing Privacy Code 2025
+  fundstelle: New Zealand Gazette, Notice 2025-sl4213, ausgegeben am 21.07.2025, veröffentlicht am 06.08.2025;
+    erlassen nach s. 32 Privacy Act 2020; sekundäres Recht im Sinne des Legislation Act 2019
+  verfahrensnummer: 2025-sl4213
+  status: anwendbar
+  status_detail: 'Seit 03.11.2025 in Kraft für neu aufgenommene biometrische Verarbeitung, seit 03.08.2026
+    auch für vor dem 03.11.2025 begonnene Verarbeitung. Die Übergangsfrist ist damit abgelaufen; der Kodex
+    gilt vollständig. Amendment No 1 vom 25.03.2026 hat Rule 3A eingefügt (Wirkung 01.05.2026 bzw. 03.08.2026).
+
+    '
+  kurzbeschreibung: 'Der Kodex des Privacy Commissioner modifiziert die IPPs für die "biometric processing",
+    also für den Vergleich oder die Analyse biometrischer Informationen durch ein technisches System zum
+    Zweck der Identifizierung, Verifizierung oder Kategorisierung. Erfasst sind Gesichtserkennung, Fingerabdrücke,
+    Stimme, Tastaturanschlagsmuster und Gangbild; ausgenommen sind biologisches und genetisches Material,
+    Hirnaktivität und Daten des Nervensystems. Kernstück ist Rule 1: Eine Stelle darf biometrische Informationen
+    nur erheben, wenn die Verarbeitung einem rechtmässigen Zweck dient, dafür erforderlich ist, wirksam
+    ist, keine weniger eingriffsintensive Alternative besteht, angemessene Schutzvorkehrungen bestehen
+    und die Verarbeitung "proportionate to the likely impacts on individuals" ist; bei der Abwägung sind
+    ausdrücklich die "cultural impacts and effects of biometric processing on Māori" zu berücksichtigen.
+    Rule 10 Abs. 5 verbietet die biometrische Kategorisierung zur Ableitung von Persönlichkeit, Stimmung,
+    Emotion, Geisteszustand, Ermüdung, Wachheit oder Aufmerksamkeit sowie nach verbotenen Diskriminierungsgründen,
+    mit engen Ausnahmen für Barrierefreiheit, Gefahrenabwehr, Forschung, Altersschätzung und Ermüdungserkennung
+    aus Sicherheitsgründen. Durchgesetzt wird der Kodex wie die IPPs — Verstösse sind "interference with
+    privacy" nach s. 69 Privacy Act 2020.
+
+    '
+  inkrafttreten:
+    datum: 2025-11-03
+    verifiziert: true
+    quelle: https://gazette.govt.nz/notice/id/2025-sl4213
+  anwendungsdaten:
+  - datum: 2025-07-21
+    was_gilt: Ausgabe des Kodex durch den Privacy Commissioner nach s. 32 Privacy Act 2020.
+    verifiziert: true
+    quelle: https://gazette.govt.nz/notice/id/2025-sl4213
+  - datum: 2025-11-03
+    was_gilt: Inkrafttreten für biometrische Verarbeitung, die nach diesem Tag aufgenommen wird.
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Biometrics-Processing-Privacy-Code-2025-website-version.pdf
+  - datum: 2026-03-25
+    was_gilt: Ausgabe von Amendment No 1 — Einfügung der Rule 3A (Information bei Erhebung aus anderen
+      Quellen), Anpassung der Überschrift von Rule 3, redaktionelle Änderungen.
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Amendment-No-1-to-Biometrics-Processing-Privacy-Code-2025.pdf
+  - datum: 2026-05-01
+    was_gilt: Rule 3A gilt für biometrische Verarbeitung, die nach dem 03.11.2025 aufgenommen wurde.
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Amendment-No-1-to-Biometrics-Processing-Privacy-Code-2025.pdf
+  - datum: 2026-08-03
+    was_gilt: Ende der Übergangsfrist — der Kodex gilt auch für biometrische Verarbeitung, die am oder
+      vor dem 03.11.2025 begonnen hatte.
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/privacy-principles/codes-of-practice/biometric-processing-privacy-code/
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - marktzugang
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Rechtsgrundlage s. 32 Privacy Act 2020; der Kodex ist sekundäres Recht nach dem Legislation Act 2019
+    und damit die einzige verbindliche, KI-nahe Regelungsschicht Neuseelands unterhalb des Gesetzes.
+  - Rules 1 bis 13 entsprechen in Aufbau und Überschriften den IPPs, jeweils auf biometrische Informationen
+    umgestellt (Rule 1 Purpose of collection of biometric information; Rule 2 Source of biometric sample;
+    Rule 3 Collection of biometric information from individual concerned; Rule 3A Collection of biometric
+    information other than from individual concerned; Rule 4 Manner of collection; Rule 5 Storage and
+    security; Rule 6 Access; Rule 7 Correction; Rule 8 Accuracy; Rule 9 Retention; Rule 10 Limits on use;
+    Rule 11 Limits on disclosure; Rule 12 Disclosure outside New Zealand; Rule 13 Unique identifiers).
+  - 'Rule 1 — Verhältnismässigkeitsprüfung: rechtmässiger Zweck, Erforderlichkeit, Wirksamkeit, keine
+    weniger risikoreiche Alternative, angemessene Schutzvorkehrungen, Abwägung von Nutzen und Eingriff.
+    Berücksichtigungspflicht für "cultural impacts and effects of biometric processing on Māori" — weltweit
+    die einzige Verhältnismässigkeitsklausel eines Datenschutzkodex mit ausdrücklichem indigenen Bezugspunkt.'
+  - Rule 10 Abs. 5 — Verbot der biometrischen Kategorisierung nach Persönlichkeit, Stimmung, Emotion,
+    Geisteszustand, Ermüdung, Wachheit, Aufmerksamkeit sowie nach verbotenen Diskriminierungsgründen;
+    Ausnahmen für Barrierefreiheit, Gefahrenabwehr, Forschung, Altersschätzung, Ermüdungs- und Wachheitserkennung
+    aus Sicherheitsgründen. Sachlich das neuseeländische Gegenstück zu Art. 5 Abs. 1 lit. f und Art. 5
+    Abs. 1 lit. g KI-VO — allerdings nur als Datenschutzregel, nicht als Marktverbot.
+  - 'Begriffe: "biometric information" (personenbezogene Daten zu einem biometrischen Merkmal einschliesslich
+    Proben und Templates, ohne biologisches und genetisches Material, Hirnaktivität und Nervensystemdaten),
+    "biometric processing" (Vergleich oder Analyse durch ein technisches System mittels Identifizierung,
+    Verifizierung oder Kategorisierung), "biometric sample", "biometric identification", "biometric categorisation".'
+  - 'Bereichsausnahmen: Gesundheitsstellen bei der Verarbeitung von Gesundheitsinformationen (Rule 4 Abs.
+    2); Nachrichten- und Sicherheitsdienste hinsichtlich der Rules 2, 3, 3A, 4 lit. b und 10 Abs. 5 (Rule
+    4 Abs. 3).'
+  - Zwei gestaffelte Anwendungszeitpunkte (03.11.2025 und 03.08.2026) mit einer neunmonatigen Übergangsfrist
+    für Bestandssysteme.
+  dokumente:
+  - datum: 2025-07-21
+    typ: endfassung
+    titel: Biometric Processing Privacy Code 2025 (Gazette-Bekanntmachung)
+    url: https://gazette.govt.nz/notice/id/2025-sl4213
+    sprache: en
+    urheber: Privacy Commissioner / New Zealand Gazette
+    verifiziert: true
+    notiz: Amtliche Fundstelle mit Ausgabedatum und den beiden Anwendungszeitpunkten.
+  - datum: 2026-05-01
+    typ: konsolidiert
+    titel: Biometric Processing Privacy Code 2025 (Website-Fassung, Stand Mai 2026)
+    url: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Biometrics-Processing-Privacy-Code-2025-website-version.pdf
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: true
+    notiz: Volltext mit Rules 1 bis 13 einschliesslich Rule 3A und Rule 10 Abs. 5.
+  - datum: 2026-03-25
+    typ: delegiert
+    titel: Amendment No 1 to the Biometric Processing Privacy Code 2025
+    url: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Amendment-No-1-to-Biometrics-Processing-Privacy-Code-2025.pdf
+    sprache: en
+    urheber: Privacy Commissioner
+    verifiziert: true
+    notiz: Fügt Rule 3A ein und passt den Kodex an IPP 3A an.
+  - datum: 2025-07-21
+    typ: uebersicht
+    titel: Biometric Processing Privacy Code (Übersichtsseite mit sechs Factsheets)
+    url: https://www.privacy.org.nz/privacy-principles/codes-of-practice/biometric-processing-privacy-code/
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: true
+    notiz: Enthält die Übergangsdaten und die amtlichen Erläuterungen.
+  - datum: 2025-07-21
+    typ: pressemitteilung
+    titel: Privacy Commissioner announces new rules for biometrics
+    url: https://www.privacy.org.nz/tuhono-connect/statements-media-releases/privacy-commissioner-announces-new-rules-for-biometrics/
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: false
+    notiz: Begleitende Mitteilung; nicht am Dokument geprüft.
+  offene_punkte:
+  - Ob der Commissioner seit dem 03.08.2026 Compliance Notices oder Untersuchungen auf Grundlage des Kodex
+    eingeleitet hat, war nicht zu ermitteln.
+  - Das Verhältnis der Rule 10 Abs. 5 zu den Ausnahmen für Ermüdungserkennung im Arbeitsverhältnis ist
+    ungeklärt; ein Anwendungsfall ist nicht bekannt.
+  monitoring_quellen:
+  - https://www.privacy.org.nz/privacy-principles/codes-of-practice/biometric-processing-privacy-code/
+  - https://gazette.govt.nz/
+  bezug_regelwerke:
+  - nz-privacy-act-2020
+  - nz-privacy-amendment-act-2025
+  - nz-opc-frt-inquiry-2025
+  - nz-human-rights-act-1993
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Der Kodex ist die einzige Stelle, an der Neuseeland KI verbindlich und materiell
+    reguliert — und er zeigt zugleich, was der Verzicht auf ein Gesetz kostet. Inhaltlich reicht Rule
+    10 Abs. 5 nahe an die verbotenen Praktiken des Art. 5 KI-VO heran: Emotionserkennung und biometrische
+    Kategorisierung nach geschützten Merkmalen sind untersagt. Formal aber ist das kein Marktverbot, sondern
+    eine Datenschutzregel: Sie greift nur bei Personenbezug, sie ist nach s. 31 Privacy Act 2020 nicht
+    einklagbar, und ihre Verletzung führt allenfalls über s. 69 zu einem Tribunalverfahren. Der Anbieter
+    eines Emotionserkennungssystems darf es in Neuseeland weiter verkaufen; nur der Anwender trägt das
+    Risiko. Rechtsvergleichend ist das der Unterschied zwischen Produktregulierung und Verhaltensregulierung
+    — in einem einzigen Dokument sichtbar.
+
+    '
+- id: nz-health-information-privacy-code-2020
+  jurisdiktion: nz
+  kurztitel: Health Information Privacy Code 2020
+  offizieller_titel: Health Information Privacy Code 2020
+  fundstelle: Erlassen nach s. 32 Privacy Act 2020 durch den Privacy Commissioner; in Kraft seit 01.12.2020;
+    Amendment No 1 in Kraft 01.07.2022, Amendment No 2 in Kraft 01.05.2026
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 01.12.2020, zuletzt geändert durch Amendment No 2 mit Wirkung vom 01.05.2026
+    (Einfügung der Rule 3A entsprechend IPP 3A). Amendment No 1 (in Kraft 01.07.2022) hat den Kodex an
+    die Reform des Gesundheitssektors angepasst (Wegfall der District Health Boards, Aufnahme von Health
+    New Zealand und des Ministeriums für behinderte Menschen).
+
+    '
+  kurzbeschreibung: 'Der Kodex ersetzt für Gesundheitsinformationen die IPPs durch dreizehn (seit 01.05.2026
+    vierzehn) Rules mit gleichem Aufbau. Gebunden sind Gesundheits- und Behinderten-Dienstleister — Ärztinnen
+    und Ärzte, Zahnärzte, Apotheken, Pflegeeinrichtungen, primary health organisations — sowie ACC, das
+    Gesundheitsministerium, Krankenversicherer und Berufsdisziplinargremien. Für KI im Gesundheitswesen
+    ist der Kodex die massgebliche Norm; er verdrängt insoweit den Biometric Processing Privacy Code,
+    der Gesundheitsstellen bei der Verarbeitung von Gesundheitsinformationen ausnimmt.
+
+    '
+  inkrafttreten:
+    datum: 2020-12-01
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Health-Information-Privacy-Code-2020-website-version.pdf
+  anwendungsdaten:
+  - datum: 2022-07-01
+    was_gilt: Amendment No 1 in Kraft — Anpassung an die Struktur des Gesundheitssektors.
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Health-Information-Privacy-Code-2020-website-version.pdf
+  - datum: 2026-05-01
+    was_gilt: Amendment No 2 in Kraft — Rule 3A (Information bei Erhebung aus anderen Quellen).
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Health-Information-Privacy-Code-2020-website-version.pdf
+  themenachsen:
+  - datenschutz
+  - sektor-medizin
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Rules 1 bis 13 mit den Überschriften: Purpose of collection of health information; Source of health
+    information; Collection of health information from individual concerned; Manner of collection of health
+    information; Storage and security of health information; Access to personal health information; Correction
+    of health information; Accuracy, etc, of health information to be checked before use or disclosure;
+    Retention of health information; Limits on use of health information; Limits on disclosure of health
+    information; Disclosure of health information outside New Zealand; Unique identifiers.'
+  - Rule 8 (Richtigkeit vor Nutzung und Weitergabe) ist die zentrale Norm für klinische Entscheidungsunterstützung
+    und diagnostische KI.
+  - 'Verhältnis zum Biometrics Code: Gesundheitsstellen sind bei der Verarbeitung von Gesundheitsinformationen
+    vom Biometrics Code ausgenommen; damit gilt für biometrische Verfahren in der Gesundheitsversorgung
+    ausschliesslich der HIPC — ohne die Verhältnismässigkeitsprüfung der Rule 1 Biometrics Code.'
+  dokumente:
+  - datum: 2026-05-01
+    typ: konsolidiert
+    titel: Health Information Privacy Code 2020 (Website-Fassung)
+    url: https://www.privacy.org.nz/assets/Codes-of-Practice-2020/Health-Information-Privacy-Code-2020-website-version.pdf
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: true
+    notiz: Volltext mit Zitierklausel, Inkrafttreten und den beiden Änderungen.
+  offene_punkte:
+  - Eine eigene OPC-Leitlinie zu KI im Gesundheitswesen wurde nicht aufgefunden.
+  - Die produktrechtliche Seite (Software als Medizinprodukt) ist in Neuseeland im Umbruch; der Therapeutic
+    Products Act 2023 ist nicht in Kraft getreten und ein Medical Products Bill in Vorbereitung. Das wurde
+    nicht abschliessend geprüft und ist hier bewusst nicht als eigenes Regelwerk geführt.
+  monitoring_quellen:
+  - https://www.privacy.org.nz/privacy-act-2020/codes-of-practice/hipc2020/
+  bezug_regelwerke:
+  - nz-privacy-act-2020
+  - nz-biometric-processing-privacy-code-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die Bereichsausnahme des Biometrics Code zugunsten des HIPC ist ein unterschätztes
+    Detail: Gerade im Gesundheitswesen, wo biometrische Verfahren (Gesichtsanalyse zur Schmerzerkennung,
+    Gangbildanalyse, Stimmbiomarker) am schnellsten wachsen, gilt der strengere Kodex mit der Verhältnismässigkeitsprüfung
+    NICHT. Wer die neuseeländische Lage darstellt, sollte diese Lücke benennen.
+
+    '
+- id: nz-opc-ai-guidance-2023
+  jurisdiktion: nz
+  kurztitel: OPC-Leitlinien zu generativer KI und den IPPs
+  offizieller_titel: Privacy Commissioner's expectations for agencies considering the use of generative
+    artificial intelligence; Artificial Intelligence and the Information Privacy Principles
+  fundstelle: Office of the Privacy Commissioner / Te Mana Matapono Matatapu; Erwartungen vom 15.06.2023,
+    Leitfaden "AI and the Information Privacy Principles" vom September 2023, laufend fortgeschrieben
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Verwaltungsvorschrift ohne Bindungswirkung, aber vom Commissioner als Massstab seiner
+    eigenen Beschwerdepraxis verwendet. Die Erwartungen datieren vom 15.06.2023, der Grundsatzleitfaden
+    vom September 2023; die Seite trägt den Vorbehalt "The evolving nature of generative AI is such that
+    the material on this page is subject to change".
+
+    '
+  kurzbeschreibung: 'Der Commissioner formuliert acht Erwartungen an Stellen, die generative KI einsetzen
+    wollen: ausdrückliche Genehmigung durch die Leitungsebene nach voller Würdigung von Risiken und Gegenmassnahmen;
+    Prüfung von Erforderlichkeit und Verhältnismässigkeit einschliesslich Alternativen; Durchführung einer
+    Privacy Impact Assessment und gegebenenfalls einer Algorithmic Impact Assessment vor dem Einsatz;
+    Transparenz gegenüber betroffenen Kundinnen und Kunden über Art, Zeitpunkt und Grund des Einsatzes;
+    Einbeziehung von Māori zu den Auswirkungen auf ihre Gemeinschaften und auf taonga-Informationen; Verfahren
+    für Richtigkeit sowie für Auskunfts- und Berichtigungsbegehren; menschliche Überprüfung der Ausgaben
+    vor jeder Massnahme; und das Verbot, personenbezogene oder vertrauliche Informationen einzugeben,
+    sofern nicht ausdrücklich bestätigt ist, dass Eingaben nicht gespeichert oder offengelegt werden.
+    Der Leitfaden "AI and the Information Privacy Principles" ordnet dieselben Fragen den einzelnen IPPs
+    zu.
+
+    '
+  inkrafttreten:
+    datum: 2023-06-15
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/resources-and-learning/a-z-topics/ai/generative-artificial-intelligence/
+  anwendungsdaten:
+  - datum: 2023-09-01
+    was_gilt: Veröffentlichung des Leitfadens "Artificial Intelligence and the Information Privacy Principles"
+      samt einseitiger Kurzfassung (Monat belegt, Tag nicht).
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/resources-and-learning/a-z-topics/ai/
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  regelungsschwerpunkte:
+  - 'Acht Erwartungen, darunter wörtlich: "Only use a generative AI tool after conducting a Privacy Impact
+    Assessment (and/or Algorithmic Impact Assessment) to help identify and mitigate privacy and wider
+    risks."'
+  - 'Māori-Bezug wörtlich: "You should engage with Māori about the potential impacts of the generative
+    AI tool on their communities and taonga - information." Damit wird die Datensouveränität in eine aufsichtsbehördliche
+    Erwartung übersetzt.'
+  - 'Eingabeverbot: "Do not input into a generative AI tool personal or confidential information, unless
+    it has been explicitly confirmed that inputted information is not retained or disclosed."'
+  - 'Zum Training: Der Leitfaden warnt, dass aus dem Internet gesammelte Trainingsdaten Quellen enthalten
+    können, die nur nach Anmeldung zugänglich sind (etwa Profile sozialer Netzwerke); solche Daten dürfen
+    nicht ohne Weiteres als "publicly available information" im Sinne der IPP-2-Ausnahme behandelt werden.'
+  - 'Zu Halluzinationen: "Generative AI tools produce confident errors of fact and logic, so you cannot
+    rely on their apparent performance or self-declared capabilities as evidence of accuracy" — unabhängige
+    Prüfung und Auditierung seien erforderlich (IPP 8).'
+  - 'Zu automatisierten Entscheidungen: Menschliche Überprüfung sei notwendig, aber nicht hinreichend;
+    der Leitfaden benennt ausdrücklich das Problem der "automation blindness".'
+  - 'Zu IPP 12: Ausländische Technologieanbieter gelten nicht als Empfänger einer Weitergabe, wenn sie
+    die Daten nicht eigenständig nutzen — die Verantwortung für den Schutz bleibt jedoch bei der neuseeländischen
+    Stelle.'
+  dokumente:
+  - datum: 2023-06-15
+    typ: leitlinie
+    titel: Generative Artificial Intelligence — expectations for agencies
+    url: https://www.privacy.org.nz/resources-and-learning/a-z-topics/ai/generative-artificial-intelligence/
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: true
+    notiz: Wortlaut der acht Erwartungen; die von der Aufsicht selbst angelegte Messlatte.
+  - datum: 2023-09-01
+    typ: leitlinie
+    titel: Artificial Intelligence and the Information Privacy Principles
+    url: https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: true
+    notiz: IPP-für-IPP-Zuordnung der KI-Fragen einschliesslich Trainingsdaten, Scraping und Halluzinationen.
+  - datum: 2023-09-01
+    typ: leitlinie
+    titel: One-page summary of AI and the IPPs
+    url: https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/One-page-summary-of-AI-IPP.pdf
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: false
+    notiz: Kurzfassung; nicht am Dokument geprüft.
+  - datum: 2023-09-01
+    typ: uebersicht
+    titel: Artificial Intelligence and the Information Privacy Principles (Themenseite)
+    url: https://www.privacy.org.nz/resources-and-learning/a-z-topics/ai/
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: true
+    notiz: Verzeichnet alle KI-Materialien des Amtes und den Hinweis auf IPP 3A ab März 2026.
+  offene_punkte:
+  - Eine förmliche Neufassung der Leitlinien nach Inkrafttreten des Biometrics Code und des IPP 3A wurde
+    nicht aufgefunden; die Seite trägt weiterhin den Stand September 2023 mit laufenden Ergänzungen.
+  monitoring_quellen:
+  - https://www.privacy.org.nz/resources-and-learning/a-z-topics/ai/
+  bezug_regelwerke:
+  - nz-privacy-act-2020
+  - nz-biometric-processing-privacy-code-2025
+  - nz-opc-frt-inquiry-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die Erwartungen des Commissioners sind die praktisch wichtigste KI-Handlungsanleitung
+    Neuseelands — und sie stammen aus Juni 2023, also aus einer Zeit vor GPT-4-Turbo, vor Agentensystemen
+    und vor dem Biometrics Code. Dass sie seither nur fortgeschrieben, nicht neu gefasst wurden, ist dieselbe
+    Schwäche, die auch die Gerichtsleitlinien aufweisen: Soft Law altert schneller als Gesetzesrecht,
+    weil niemand eine Novellierungspflicht hat.
+
+    '
+- id: nz-opc-frt-inquiry-2025
+  jurisdiktion: nz
+  kurztitel: OPC-Untersuchung zum Gesichtserkennungsversuch von Foodstuffs
+  offizieller_titel: Inquiry into Foodstuffs North Island trial use of facial recognition technology
+  fundstelle: Office of the Privacy Commissioner, Bericht A1082856, veröffentlicht am 03./04.06.2025
+  verfahrensnummer: A1082856
+  status: softlaw
+  status_detail: 'Abgeschlossene aufsichtsbehördliche Untersuchung mit Bericht vom Juni 2025. Keine gerichtliche
+    Entscheidung und keine Verfügung, aber der einzige ausführlich begründete neuseeländische Massstab
+    für die Anwendung der IPPs auf ein biometrisches KI-System. Ergangen vor Inkrafttreten des Biometric
+    Processing Privacy Code 2025.
+
+    '
+  kurzbeschreibung: 'Der Privacy Commissioner hat den Versuchsbetrieb von Gesichtserkennung in Supermärkten
+    der Foodstuffs North Island untersucht und ist zu dem Ergebnis gekommen, dass das eingesetzte Betriebsmodell
+    dem Privacy Act 2020 entsprach, vor einem Dauerbetrieb oder einer Ausweitung aber verbessert werden
+    muss. Geprüft wurden IPP 1 (rechtmässiger Zweck und Erforderlichkeit), IPP 3 und 4 (Transparenz und
+    Art der Erhebung), IPP 5 (Sicherheit), IPP 8 (Richtigkeit) und IPP 9 (Aufbewahrung). Zur Richtigkeit
+    verlangte der Commissioner die Anhebung der Alarmschwelle von 90 auf mindestens 92,5 Prozent. Weiter
+    forderte er, die Beobachtungsliste auf qualifizierende Delikte (Gewalt, Aggression, Einschüchterung,
+    Diebstahl in erheblicher Höhe) zu beschränken, Hausverbote nur dafür auszusprechen, die Datenschutzfolgenabschätzung
+    an die tatsächliche Praxis anzupassen und das System fortlaufend zu überprüfen. Zu den Auswirkungen
+    auf Māori stellte der Bericht fest, dass eine ethnische Auswertung von Treffern und Fehlern an der
+    Datenlage scheiterte; das Māori Reference Panel lehnte den Einsatz ab und verwies auf Überwachungsrisiken,
+    Stereotypisierung und die Erfassung von mataora und moko kauae. Ausdrücklich heisst es: "This report
+    is not a green light for more general use of FRT."
+
+    '
+  inkrafttreten:
+    datum: 2025-06-03
+    verifiziert: true
+    quelle: https://www.privacy.org.nz/assets/DOCUMENTS/20250603-FRT-Inquiry-Report-A1082856.pdf
+  anwendungsdaten:
+  - datum: 2024-09-01
+    was_gilt: Ende des Versuchsbetriebs bei Foodstuffs North Island (Monat belegt, Tag nicht).
+    verifiziert: false
+    quelle: https://www.scoop.co.nz/stories/SC2409/S00053/foodstuffs-north-islands-facial-recognition-trial-ends-with-early-results-showing-success-in-reducing-harm.htm
+  - datum: 2025-06-04
+    was_gilt: Bekanntgabe des Untersuchungsergebnisses. Der Bericht selbst trägt das Datum 03.06.2025;
+      der Tag der öffentlichen Bekanntgabe ist nur sekundär belegt.
+    verifiziert: false
+    quelle: https://www.privacy.org.nz/assets/DOCUMENTS/20250603-FRT-Inquiry-Report-A1082856.pdf
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Ergebnis: Das Betriebsmodell entsprach dem Privacy Act 2020, bedarf aber vor Dauerbetrieb oder Ausweitung
+    der Nachbesserung.'
+  - 'IPP 8: Anhebung der Schwelle des Abgleichsalgorithmus von 90 auf mindestens 92,5 Prozent — soweit
+    ersichtlich die erste behördliche Festlegung eines konkreten Schwellenwerts für ein KI-System in Neuseeland.'
+  - 'IPP 9: Nicht getroffene Bilder werden sofort gelöscht, Treffer ohne Massnahme am selben Tag.'
+  - 'Auflagen: Beschränkung der Beobachtungsliste auf qualifizierende Delikte, Überprüfung der Hausverbote,
+    Aktualisierung der Datenschutzfolgenabschätzung, fortlaufende Systemprüfung.'
+  - 'Māori: Keine ethnische Auswertung möglich; das Māori Reference Panel lehnte den Einsatz ab. Der Commissioner
+    verwies auf die bekannten höheren Fehlerraten bei dunkleren Hauttönen, konnte sie für diese Population
+    aber nicht verifizieren. Genau diese Lücke hat später Eingang in Rule 1 des Biometrics Code gefunden.'
+  - 'Ausdrücklicher Vorbehalt: "This report is not a green light for more general use of FRT" — jede Einsatzsituation
+    ist gesondert auf Erforderlichkeit, Wirksamkeit und Verhältnismässigkeit zu prüfen.'
+  dokumente:
+  - datum: 2025-06-03
+    typ: bericht
+    titel: Inquiry into Foodstuffs North Island trial use of facial recognition technology (A1082856)
+    url: https://www.privacy.org.nz/assets/DOCUMENTS/20250603-FRT-Inquiry-Report-A1082856.pdf
+    sprache: en
+    urheber: Office of the Privacy Commissioner
+    verifiziert: true
+    notiz: Der einzige ausführlich begründete neuseeländische Massstab für biometrische KI im Privatsektor.
+  offene_punkte:
+  - Ob Foodstuffs den Betrieb nach Inkrafttreten des Biometrics Code fortgesetzt und die Rule-1-Prüfung
+    dokumentiert hat, wurde nicht ermittelt.
+  - Der Bericht erging vor dem Biometrics Code; wie sich seine Auflagen zur Verhältnismässigkeitsprüfung
+    der Rule 1 verhalten, ist nicht amtlich geklärt.
+  monitoring_quellen:
+  - https://www.privacy.org.nz/publications/
+  bezug_regelwerke:
+  - nz-privacy-act-2020
+  - nz-biometric-processing-privacy-code-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Dieser Bericht ist der neuseeländische Gegenpol zur australischen Bunnings-Entscheidung:
+    Dieselbe Technologie, derselbe Einzelhandelskontext, dasselbe Jahr — und ein gegenläufiges Ergebnis,
+    weil der neuseeländische Betreiber die Verhältnismässigkeit vorab dokumentiert und die Verweildauer
+    minimiert hatte. Wer zu Gesichtserkennung im Handel arbeitet, sollte beide Fälle nebeneinanderlegen;
+    der Unterschied liegt nicht im Recht, sondern in der Dokumentation. Die Schwellenwert-Auflage (92,5
+    Prozent) ist zugleich das erste Beispiel dafür, dass eine Datenschutzaufsicht einen technischen Modellparameter
+    regulatorisch festsetzt.
+
+    '
+- id: nz-copyright-act-1994
+  jurisdiktion: nz
+  kurztitel: Copyright Act 1994
+  offizieller_titel: Copyright Act 1994
+  fundstelle: 1994 No 143; verwaltet vom Ministry of Business, Innovation and Employment; konsolidierte
+    Fassung mit Stand 13.11.2025
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'In Kraft seit 1995, zuletzt konsolidiert mit Stand 13.11.2025. Neuseeland gehört zu
+    den wenigen Rechtsordnungen, die computererzeugte Werke ausdrücklich schützen (s. 5 Abs. 2 lit. a).
+    Eine Schranke für Text- und Data-Mining besteht NICHT; eine Reform ist beschlossen, die KI-Frage aber
+    bis 31.03.2027 vertagt.
+
+    '
+  kurzbeschreibung: 'Das Gesetz schützt literarische, dramatische, musikalische und künstlerische Werke,
+    Tonaufnahmen, Filme, Kommunikationswerke und typografische Anordnungen. Für KI zentral ist die Zuweisung
+    der Urheberschaft bei computererzeugten Werken: Nach s. 2 bedeutet "computer-generated" in Bezug auf
+    ein Werk, "that the work is generated by computer in circumstances such that there is no human author
+    of the work"; nach s. 5 Abs. 2 lit. a gilt bei einem computererzeugten literarischen, dramatischen,
+    musikalischen oder künstlerischen Werk als Urheber "the person by whom the arrangements necessary
+    for the creation of the work are undertaken". Die Schutzdauer beträgt nach s. 22 Abs. 2 fünfzig Jahre
+    ab dem Ende des Kalenderjahres, in dem das Werk geschaffen wurde. Die Schranken sind als eng gefasste
+    fair dealings ausgestaltet (s. 42 Kritik, Besprechung, Nachrichten; s. 43 Forschung oder privates
+    Studium; s. 43A vorübergehende Vervielfältigung); eine allgemeine fair-use-Klausel und eine TDM-Schranke
+    fehlen. Sanktionen: zivilrechtliche Ansprüchen sowie Straftatbestände bei gewerbsmässiger Verletzung.
+
+    '
+  inkrafttreten:
+    datum: 1995-01-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html
+    fundstelle_norm: 's. 1(2) Copyright Act 1994: ''Except as provided in sections 27(2) and 144(5), this
+      Act shall come into force on 1 January 1995.'' Kopfzeile von legislation.govt.nz: ''Date of assent
+      15 December 1994 — Commencement see section 1(2)'''
+  anwendungsdaten:
+  - datum: 2008-10-31
+    was_gilt: Copyright (New Technologies) Amendment Act 2008 — Einfügung u.a. der vorübergehenden Vervielfältigung
+      (s. 43A) und der Kommunikationswerke.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html
+  - datum: 2025-11-13
+    was_gilt: Stand der konsolidierten Fassung, an der die Prüfung erfolgt ist.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html
+  themenachsen:
+  - urheberrecht
+  - content
+  - vertrag
+  regelungsschwerpunkte:
+  - 's. 2 (Definition, Wortlaut): "computer-generated, in relation to a work, means that the work is generated
+    by computer in circumstances such that there is no human author of the work". Neuseeland setzt also
+    das Fehlen eines menschlichen Urhebers voraus — die Norm greift gerade dort, wo andere Rechtsordnungen
+    den Schutz versagen.'
+  - 's. 5 Abs. 2 lit. a (Wortlaut): "in the case of a literary, dramatic, musical, or artistic work that
+    is computer-generated, the person by whom the arrangements necessary for the creation of the work
+    are undertaken". Entsprechung zu s. 9 Abs. 3 CDPA 1988 (Vereinigtes Königreich), s. 21 Abs. 1 Copyright
+    Act (Irland) und s. 11 Copyright Ordinance (Hongkong).'
+  - 's. 22 Abs. 2 (Wortlaut): "If the work is computer-generated, copyright expires at the end of the
+    period of 50 years from the end of the calendar year in which the work is made." Eigenständige, vom
+    Todeszeitpunkt gelöste Schutzfrist.'
+  - 'ZENTRALER NEGATIVBEFUND: Die Wortfolgen "text and data" und "data mining" kommen im gesamten Copyright
+    Act 1994 NICHT vor (Volltextprüfung am 06.09.2026). Es gibt weder eine TDM-Schranke nach Art. 3 und
+    4 DSM-Richtlinie noch ein Gegenstück zu Art. 30-4 des japanischen Urheberrechtsgesetzes. Modelltraining
+    mit geschützten Werken ist in Neuseeland folglich nur über die engen fair dealings oder über Lizenz
+    zulässig.'
+  - 's. 43 Abs. 1: "Fair dealing with a work for the purposes of research or private study does not infringe
+    copyright in the work." Abs. 3 nennt als Abwägungskriterien Zweck, Art des Werks, Verfügbarkeit zu
+    einem marktüblichen Preis, Auswirkung auf den Markt und Umfang der Entnahme. Kommerzielles Modelltraining
+    lässt sich darunter kaum fassen; der Kaufbarkeitstest (lit. c) und der Markttest (lit. d) sprechen
+    gerade dagegen.'
+  - 's. 21 Abs. 1 bis 3: Erstinhaber ist der Urheber; bei Arbeitnehmerwerken der Arbeitgeber; bei Auftragswerken
+    (Fotografie, Computerprogramm, Gemälde, Zeichnung, Diagramm, Karte, Plan, Stich, Modell, Skulptur,
+    Film, Tonaufnahme) der Auftraggeber. Die Auftragsregel des Abs. 3 soll durch die Reform 2026 umgekehrt
+    werden.'
+  - 's. 43A: vorübergehende Vervielfältigung — die einzige technikbezogene Schranke, gedacht für Caching
+    und Übertragung, nicht für Trainingskorpora.'
+  dokumente:
+  - datum: 2025-11-13
+    typ: konsolidiert
+    titel: Copyright Act 1994 (konsolidierte Fassung mit Stand 13.11.2025)
+    url: https://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext; Grundlage der Prüfung von s. 2, s. 5, s. 21, s. 22, s. 43, s. 43A und der
+      Negativkontrolle zu TDM.
+  offene_punkte:
+  - Es existiert keine neuseeländische Entscheidung zu s. 5 Abs. 2 lit. a im Zusammenhang mit generativer
+    KI. Die Norm ist seit 1994 unangewandt geblieben.
+  - Ungeklärt ist, wer bei generativer KI "the arrangements necessary" trifft — der Nutzer, der Betreiber
+    oder der Modellentwickler. Die neuseeländische Rechtsprechung schweigt; die englische Diskussion zu
+    s. 9 Abs. 3 CDPA ist nicht übertragbar, weil das Vereinigte Königreich die Abschaffung der Norm erwägt.
+  - Ob die Reform 2026/2027 die s. 5 Abs. 2 lit. a berührt, ist offen; die Kabinettsbeschlüsse vom Mai
+    und Juni 2026 erwähnen sie nicht.
+  monitoring_quellen:
+  - https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/updates-to-the-copyright-act
+  bezug_regelwerke:
+  - nz-copyright-reform-2026
+  - nz-consumer-guarantees-act-1993
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Neuseeland ist die interessanteste Rechtsordnung des Commonwealth zur Schutzfähigkeit
+    von KI-Ausgaben, und zwar aus einem paradoxen Grund: Die Norm, die den Schutz gewährt, ist noch nie
+    angewandt worden. s. 5 Abs. 2 lit. a weist computererzeugten Werken einen Urheber zu, während Australien
+    (Acohs, Telstra) und die Vereinigten Staaten (Thaler) den Schutz versagen und das Vereinigte Königreich
+    die Abschaffung der Parallelnorm konsultiert hat. Der zweite, in der Literatur unterschätzte Punkt
+    ist die Kombination aus s. 5 Abs. 2 lit. a und dem Fehlen jeder TDM-Schranke: Neuseeland schützt den
+    Output grosszügiger als fast alle Vergleichsordnungen und den Input strenger. Das ist genau die Konstellation,
+    in der Rechteinhaber ihre Klagen anstrengen sollten — und der Grund, warum das Fehlen jeder Rechtsprechung
+    so auffällig ist.
+
+    '
+  pruefvermerk:
+  - Bestaetigt. Der 15.12.1994 ist die Ausfertigung (Royal assent), nicht das Inkrafttreten. Das Gesetz
+    gilt fort (Fassung mit Stand 13.11.2025).
+- id: nz-copyright-reform-2026
+  jurisdiktion: nz
+  kurztitel: Copyright-Reform 2026 und die vertagte KI-Frage
+  offizieller_titel: Policy decisions on copyright including free trade agreement obligations; Cabinet
+    invitation to report back by 31 March 2027 on a possible copyright framework for GenAI
+  fundstelle: Kabinettsbeschlüsse Mai/Juni 2026; Ankündigungen der Regierung vom 26.05.2026 und 03.06.2026;
+    proaktive Veröffentlichung des Kabinettspapiers, zweier Minutes und einer Regulatory Impact Statement
+    durch MBIE
+  verfahrensnummer: null
+  status: idee
+  status_detail: 'Politikentscheidungen sind getroffen, ein Gesetzentwurf ist bis 06.09.2026 nicht eingebracht.
+    Zeitrahmen ist die Umsetzung der Freihandelsabkommen: Änderungen des Copyright Act 1994 müssen für
+    das Abkommen mit der Europäischen Union bis 01.05.2028 und für das Abkommen mit dem Vereinigten Königreich
+    bis 31.05.2028 in Kraft sein; die Regierung fasst beide Fristen zum früheren Termin zusammen. Die
+    KI-Frage ist ausdrücklich ausgeklammert und dem Minister of Commerce and Consumer Affairs zur Rückberichterstattung
+    bis 31.03.2027 aufgegeben.
+
+    '
+  kurzbeschreibung: 'Die Regierung hat am 26.05.2026 die Verlängerung der Schutzfristen um zwanzig Jahre
+    und am 03.06.2026 ein Paket weiterer Änderungen angekündigt: Erleichterungen für gemeinnützige Galerien,
+    Bibliotheken, Archive und Museen einschliesslich verwaister Werke und digitaler Erhaltungskopien;
+    eine neue fair-dealing-Schranke für Parodie und Satire; ein gerichtlicher Rahmen für Sperranordnungen
+    gegen ausländische Piraterieseiten; die Aufhebung des überholten Filesharing-Regimes; kollektive Rechtsdurchsetzung
+    durch Verwertungsgesellschaften; Klarstellung der Erschöpfung des Erstverbreitungsrechts; Umkehr der
+    Auftragswerksregel des s. 21 Abs. 3 zugunsten der Urheber; sowie die Verlängerung des Folgerechts
+    für bildende Künstler um zwanzig Jahre. Zu generativer KI heisst es amtlich: "GenAI raises complex
+    copyright questions. Countries are taking different approaches to address these issues. Cabinet has
+    invited the Minister of Commerce and Consumer Affairs to report back by 31 March 2027 on a possible
+    copyright framework for GenAI in New Zealand." Eine TDM-Schranke ist nicht Teil des Pakets.
+
+    '
+  inkrafttreten:
+    datum: 2026-06-03
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/creative-and-cultural-sector-gets-further-copyright-support
+  anwendungsdaten:
+  - datum: 2026-05-26
+    was_gilt: Ankündigung der zwanzigjährigen Schutzfristverlängerung und der Stärkung der Umgehungsschutzvorschriften
+      ("Keeping Kiwi music in Kiwi hands").
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/updates-to-the-copyright-act
+  - datum: 2026-06-03
+    was_gilt: Ankündigung des Modernisierungspakets; Bekanntgabe der Rückberichterstattung zur KI bis
+      31.03.2027 durch Minister Hon Cameron Brewer.
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/creative-and-cultural-sector-gets-further-copyright-support
+  - datum: 2026-08-07
+    was_gilt: Stand der MBIE-Vorhabenseite mit den Links auf Kabinettspapier, zwei Minutes und Regulatory
+      Impact Statement.
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/updates-to-the-copyright-act
+  - datum: 2027-03-31
+    was_gilt: Frist für die Rückberichterstattung des Ministers of Commerce and Consumer Affairs an das
+      Kabinett zu einem möglichen Urheberrechtsrahmen für generative KI.
+    verifiziert: true
+    quelle: https://www.beehive.govt.nz/release/creative-and-cultural-sector-gets-further-copyright-support
+  - datum: 2028-05-01
+    was_gilt: Äusserste Frist für das Inkrafttreten der Änderungen nach dem Freihandelsabkommen Neuseeland
+      — Europäische Union.
+    verifiziert: true
+    quelle: https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/updates-to-the-copyright-act
+  themenachsen:
+  - urheberrecht
+  - content
+  - wettbewerb
+  regelungsschwerpunkte:
+  - Die KI-Frage ist ausdrücklich ausgeklammert und auf den 31.03.2027 vertagt — das ist die einzige amtliche
+    neuseeländische Festlegung zu KI und Urheberrecht überhaupt.
+  - Keine TDM-Schranke im Paket. Während das Vereinigte Königreich (Konsultation 2024/2025) und die Europäische
+    Union (Art. 3, 4 DSM-Richtlinie) den Input regeln, bleibt Neuseeland ohne Regelung.
+  - Schutzfristverlängerung um zwanzig Jahre auf 70 Jahre post mortem beziehungsweise ab Veröffentlichung
+    — mittelbar KI-relevant, weil dadurch der Bestand gemeinfreier Trainingswerke für zwei Jahrzehnte
+    einfriert.
+  - 'Umkehr der Auftragswerksregel (s. 21 Abs. 3 Copyright Act 1994): künftig ist der Schaffende Erstinhaber,
+    sofern nichts anderes vereinbart ist. Für KI-gestützte Auftragsproduktion ändert das die Ausgangslage
+    der Vertragsgestaltung.'
+  - Neue fair-dealing-Schranke für Parodie und Satire — die einzige Schrankenerweiterung des Pakets; sie
+    berührt Deepfake-Inhalte mittelbar, weil sie Persiflagen erlaubt, während das Deepfake-Gesetzgebungsvorhaben
+    intime Darstellungen kriminalisiert.
+  - Sperranordnungen gegen ausländische Piraterieseiten; kollektive Rechtsdurchsetzung durch Verwertungsgesellschaften
+    — Instrumente, die später auf KI-Trainingsdienste angewandt werden könnten.
+  dokumente:
+  - datum: 2026-06-03
+    typ: pressemitteilung
+    titel: Creative and cultural sector gets further copyright support
+    url: https://www.beehive.govt.nz/release/creative-and-cultural-sector-gets-further-copyright-support
+    sprache: en
+    urheber: Hon Cameron Brewer, Minister of Commerce and Consumer Affairs
+    verifiziert: true
+    notiz: Enthält den Wortlaut der Vertagung der KI-Frage auf den 31.03.2027.
+  - datum: 2026-08-07
+    typ: uebersicht
+    titel: Updates to the Copyright Act (Vorhabenseite MBIE)
+    url: https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/updates-to-the-copyright-act
+    sprache: en
+    urheber: MBIE
+    verifiziert: true
+    notiz: Amtliche Darstellung des Pakets, der FTA-Fristen und des Abschnitts "Copyright and GenAI".
+  - datum: 2026-06-03
+    typ: bericht
+    titel: Policy decisions on copyright including free trade agreement obligations (Cabinet paper)
+    url: https://www.mbie.govt.nz/dmsdocument/32052-policy-decisions-on-copyright-including-free-trade-agreement-obligations-proactiverelease-pdf
+    sprache: en
+    urheber: Minister of Commerce and Consumer Affairs / MBIE
+    verifiziert: false
+    notiz: Das Kabinettspapier selbst; nur die Verlinkung, nicht der Inhalt wurde geprüft.
+  - datum: 2026-06-03
+    typ: abstimmung
+    titel: Policy decisions on copyright including free trade agreement obligations — Minute of Decision
+    url: https://www.mbie.govt.nz/dmsdocument/32053-policy-decisions-on-copyright-including-free-trade-agreement-obligations-minute-of-decision-proactiverelease-pdf
+    sprache: en
+    urheber: Cabinet Economic Policy Committee
+    verifiziert: false
+    notiz: Ausschussminute; nur die Verlinkung geprüft.
+  - datum: 2026-06-03
+    typ: abstimmung
+    titel: Policy decisions on copyright including free trade agreement obligations — Cabinet Minute of
+      Decision
+    url: https://www.mbie.govt.nz/dmsdocument/32054-policy-decisions-on-copyright-including-free-trade-agreement-obligations-cabinet-minute-of-decision-proactiverelease-pdf
+    sprache: en
+    urheber: Cabinet
+    verifiziert: false
+    notiz: Kabinettsminute; nur die Verlinkung geprüft. Hier dürfte die Einladung zur KI-Rückberichterstattung
+      im Wortlaut stehen.
+  - datum: 2026-06-03
+    typ: folgenabschaetzung
+    titel: 'Regulatory Impact Statement: Updates to the Copyright Act 1994'
+    url: https://www.mbie.govt.nz/dmsdocument/32335-regulatory-impact-statement-updates-to-the-copyright-act-1994-pdf
+    sprache: en
+    urheber: MBIE
+    verifiziert: false
+    notiz: Folgenabschätzung; nur die Verlinkung geprüft.
+  offene_punkte:
+  - Der Wortlaut der Kabinettsentscheidung zur KI-Rückberichterstattung wurde nur über die Beehive-Mitteilung
+    und die MBIE-Seite belegt, nicht am Kabinettspapier selbst.
+  - Ob die Rückberichterstattung eine öffentliche Konsultation einschliesst, ist nicht bekanntgegeben.
+  - Ein Gesetzentwurf ist noch nicht eingebracht; ob KI-Regelungen im selben Gesetz mitgeführt werden,
+    ist offen.
+  monitoring_quellen:
+  - https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/updates-to-the-copyright-act
+  - https://www.beehive.govt.nz/
+  bezug_regelwerke:
+  - nz-copyright-act-1994
+  - nz-select-committee-ai-briefing-2026
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die Vertagung auf den 31.03.2027 ist der wichtigste Einzeltermin des neuseeländischen
+    KI-Rechts und gehört in jeden Fristenkalender. Sie zeigt zugleich die Grenze des Modells: Ein Staat,
+    der auf vorhandenes Recht setzt, kann eine Regelungslücke nicht durch Auslegung schliessen, wenn das
+    vorhandene Recht die Frage schlicht nicht kennt. Beim Urheberrecht ist die Lücke offensichtlich —
+    kein TDM-Tatbestand, keine Rechtsprechung, keine Lizenzinfrastruktur — und die Regierung hat sie eingeräumt,
+    indem sie eine Frist gesetzt hat. Auffällig ist ausserdem, dass das Paket den Schutzumfang zugunsten
+    der Rechteinhaber ausbaut, während die Trainingsfrage offen bleibt: Damit verschiebt sich die Verhandlungsposition
+    zulasten der Modellanbieter, ohne dass eine Entscheidung getroffen wäre.
+
+    '
+- id: nz-courts-genai-guidelines-2023
+  jurisdiktion: nz
+  kurztitel: Gerichtsleitlinien zu generativer KI (2023)
+  offizieller_titel: Guidelines for Use of Generative Artificial Intelligence in Courts and Tribunals
+    — drei Fassungen für (1) Judges, Judicial Officers, Tribunal Members and Support Staff, (2) Lawyers,
+    (3) Non-Lawyers
+  fundstelle: Courts of New Zealand / Ngā Kōti o Aotearoa; erarbeitet von der Artificial Intelligence
+    Advisory Group, gebilligt vom Heads of Bench Committee, von Tribunals Aotearoa Executive und den Vorsitzenden
+    der Tribunale und Behörden; ausgegeben am 07.12.2023
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'KORREKTUR ZUR AUSGANGSANNAHME: Die Leitlinien sind seit ihrer Ausgabe am 07.12.2023
+    NICHT aktualisiert worden. Die PDF-Fassungen tragen ausdrücklich "First Issued 7 December 2023" und
+    "Last Updated 7 December 2023". Das Office of the Chief Justice hat gegenüber RNZ am 28.07.2026 selbst
+    erklärt, die Leitlinien seien 2023 ergangen "and need updating"; eine überarbeitete Fassung werde
+    auf Grundlage laufender Erprobungen vorbereitet. Der Supreme Court hat die Leitlinien in Jones v Family
+    Court at Whangārei [2026] NZSC 1 ausdrücklich in Bezug genommen.
+
+    '
+  kurzbeschreibung: 'Die drei Leitlinien richten sich an unterschiedliche Adressatenkreise und behandeln
+    in sieben Abschnitten das Verständnis generativer KI und ihrer Grenzen, Vertraulichkeit, Namensunterdrückung
+    und Datenschutz, Rechenschaft und Richtigkeit, ethische Fragen, Sicherheit, die Offenlegung des KI-Einsatzes
+    sowie den Umgang mit KI-Nutzung durch andere. Kernpflicht ist die eigenverantwortliche Überprüfung:
+    Wer Angaben aus einem GenAI-Chatbot verwendet, muss ihre Richtigkeit vor der Verwendung prüfen. Grundsätzlich
+    sollen keine Informationen eingegeben werden, die nicht bereits öffentlich zugänglich sind. Richterinnen
+    und Richter müssen den Einsatz nicht offenlegen; Unterstützungspersonal muss ihn mit dem aufsichtsführenden
+    Richter besprechen. Die Leitlinien haben keine Rechtsnormqualität, sind aber vom Supreme Court als
+    Praxismassstab behandelt worden.
+
+    '
+  inkrafttreten:
+    datum: 2023-12-07
+    verifiziert: true
+    quelle: https://www.courtsofnz.govt.nz/going-to-court/practice-directions/practice-guidelines/all-benches/guidelines-for-use-of-generative-artificial-intelligence-in-courts-and-tribunals
+  anwendungsdaten:
+  - datum: 2023-12-07
+    was_gilt: Ausgabe der drei Fassungen; Medienmitteilung des Office of the Chief Justice vom selben
+      Tag.
+    verifiziert: true
+    quelle: https://www.courtsofnz.govt.nz/assets/7-Publications/OCJ-Media/20231207-MR-publication-guidelines-for-use-of-Generative-AI.pdf
+  - datum: 2026-02-11
+    was_gilt: Der Supreme Court zitiert die Leitlinien in Jones v Family Court at Whangārei [2026] NZSC
+      1 und behandelt sie als Sorgfaltsmassstab auch für nicht vertretene Parteien.
+    verifiziert: true
+    quelle: https://www.courtsofnz.govt.nz/assets/cases/2026/2026-NZSC-1.pdf
+  - datum: 2026-07-28
+    was_gilt: Das Office of the Chief Justice bestätigt, dass die Leitlinien seit 2023 unverändert sind
+      und überarbeitet werden müssen; eine begrenzte Zahl von Richterinnen und Richtern erprobt unter
+      Aufsicht der Judicial AI Advisory Group GenAI-Werkzeuge.
+    verifiziert: true
+    quelle: https://www.rnz.co.nz/news/science-and-technology/811971/guidelines-for-ai-use-in-courts-need-updating-some-academics-say
+  themenachsen:
+  - berufsrecht
+  - governance
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - Drei getrennte Fassungen — für die Richterschaft (9 Seiten), für die Anwaltschaft (7 Seiten) und für
+    nicht vertretene Parteien (6 Seiten). Neuseeland war damit die erste Common-Law-Jurisdiktion mit einer
+    eigenen Fassung für Laien; genau dieser Personenkreis hat die späteren Verfahren verursacht.
+  - 'Sieben Abschnitte: (1) Understand GenAI and limitations, (2) Uphold confidentiality, suppression
+    and privacy, (3) Ensure accountability and accuracy, (4) Be aware of ethical issues, (5) Maintain
+    security, (6) Disclosing GenAI use, (7) Be aware of GenAI use by others; dazu Anwendungsbeispiele
+    und ein Fragenkatalog.'
+  - 'Prüfpflicht (Wortlaut Richterfassung): "must check the accuracy of any information you have been
+    provided by a GenAI chatbot before it is relied upon."'
+  - 'Vertraulichkeit (Wortlaut): "Generally, you should not enter any information into an AI chatbot that
+    is not already in the public domain."'
+  - 'Offenlegung: Richterinnen und Richter müssen den Einsatz nicht offenlegen — der Punkt, den die Wissenschaft
+    2026 am schärfsten kritisiert.'
+  - 'Kultureller Vorbehalt: Die Leitlinien warnen selbst, dass GenAI-Chatbots den neuseeländischen kulturellen
+    Kontext sowie die Werte und Praktiken von Māori und Pasifika nicht angemessen abbilden.'
+  - 'Selbstverpflichtung zur Fortschreibung: "This information will be updated as further risks or mitigation
+    strategies are identified" — bis 06.09.2026 nicht eingelöst.'
+  dokumente:
+  - datum: 2023-12-07
+    typ: leitlinie
+    titel: Guidelines for use of generative artificial intelligence in Courts and Tribunals (Übersichtsseite)
+    url: https://www.courtsofnz.govt.nz/going-to-court/practice-directions/practice-guidelines/all-benches/guidelines-for-use-of-generative-artificial-intelligence-in-courts-and-tribunals
+    sprache: en
+    urheber: Courts of New Zealand
+    verifiziert: true
+    notiz: Amtliche Sammelseite mit allen drei Fassungen.
+  - datum: 2023-12-07
+    typ: leitlinie
+    titel: Guidelines for Use of Generative Artificial Intelligence — Judges, Judicial Officers, Tribunal
+      Members and Support Staff
+    url: https://www.courtsofnz.govt.nz/assets/6-Going-to-Court/practice-directions/practice-guidelines/all-benches/20231207-GenAI-Guidelines-Judicial.pdf
+    sprache: en
+    urheber: Artificial Intelligence Advisory Group; Heads of Bench Committee
+    verifiziert: true
+    notiz: 9 Seiten; enthält die Versionsangabe "First Issued 7 December 2023 / Last Updated 7 December
+      2023".
+  - datum: 2023-12-07
+    typ: leitlinie
+    titel: Guidelines for Use of Generative Artificial Intelligence — Lawyers
+    url: https://www.courtsofnz.govt.nz/assets/6-Going-to-Court/practice-directions/practice-guidelines/all-benches/20231207-GenAI-Guidelines-Lawyers.pdf
+    sprache: en
+    urheber: Courts of New Zealand
+    verifiziert: true
+    notiz: 7 Seiten; erinnert daran, dass die vorhandenen Berufspflichten für die neue Technik gelten.
+  - datum: 2023-12-07
+    typ: leitlinie
+    titel: Guidelines for Use of Generative Artificial Intelligence — Non-Lawyers
+    url: https://www.courtsofnz.govt.nz/assets/6-Going-to-Court/practice-directions/practice-guidelines/all-benches/20231207-GenAI-Guidelines-Non-Lawyers.pdf
+    sprache: en
+    urheber: Courts of New Zealand
+    verifiziert: true
+    notiz: 6 Seiten; Adressaten sind nicht vertretene Parteien, McKenzie friends und Laienvertreter. Aus
+      dieser Fassung stammt die vom Supreme Court in Jones zitierte Passage.
+  - datum: 2023-12-07
+    typ: pressemitteilung
+    titel: Media release — publication of guidelines for use of Generative AI
+    url: https://www.courtsofnz.govt.nz/assets/7-Publications/OCJ-Media/20231207-MR-publication-guidelines-for-use-of-Generative-AI.pdf
+    sprache: en
+    urheber: Office of the Chief Justice
+    verifiziert: true
+    notiz: Belegt Datum und Urheberschaft.
+  - datum: 2023-12-07
+    typ: uebersicht
+    titel: Spiegelung der Leitlinien beim Ministry of Justice (Tribunale)
+    url: https://www.justice.govt.nz/tribunals/motor-vehicle-dealer-disputes/guidelines-for-use-of-generative-artificial-intelligence-in-courts-and-tribunals/
+    sprache: en
+    urheber: Ministry of Justice
+    verifiziert: false
+    notiz: Belegt die Geltung auch für Tribunale; nicht im Einzelnen geprüft.
+  offene_punkte:
+  - Der Zeitpunkt der angekündigten Überarbeitung ist nicht bekannt.
+  - Die Zusammensetzung und der Auftrag der Judicial AI Advisory Group sind nicht öffentlich dokumentiert.
+  - Welche GenAI-Werkzeuge in der richterlichen Erprobung eingesetzt werden, ist nicht bekanntgegeben.
+  monitoring_quellen:
+  - https://www.courtsofnz.govt.nz/going-to-court/practice-directions/practice-guidelines/all-benches/guidelines-for-use-of-generative-artificial-intelligence-in-courts-and-tribunals
+  bezug_regelwerke:
+  - nz-nzls-genai-guidance-2024
+  - nz-lawyers-conduct-rules-2008
+  - nz-contempt-of-court-act-2019
+  - nz-crimes-act-1961
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die Leitlinien sind der Kern der neuseeländischen KI-Rechtspraxis und zugleich ihr
+    deutlichstes Alterungsproblem. Zwei Punkte sind für eine rechtsvergleichende Darstellung wichtig.
+    Erstens hat der Supreme Court in Jones ein reines Soft-Law-Dokument zum Massstab strafrechtlich relevanten
+    Verhaltens gemacht: Wer die dort formulierte Prüfpflicht verletzt, kann nach ss. 116, 117 lit. e Crimes
+    Act 1961 und im Kontempt-Recht belangt werden. Damit erhält eine unverbindliche Leitlinie mittelbar
+    Sanktionskraft — ein Mechanismus, den man in dieser Klarheit sonst nirgends findet. Zweitens hat die
+    Justiz die Selbstverpflichtung zur Fortschreibung nicht eingelöst; das Office of the Chief Justice
+    räumt das ein. Wenn ein Staat ohne KI-Gesetz auskommen will, muss sein Soft Law gepflegt werden —
+    hier liegt zweieinhalb Jahre nichts vor.
+
+    '
+- id: nz-nzls-genai-guidance-2024
+  jurisdiktion: nz
+  kurztitel: NZLS-Leitfaden zu generativer KI für Anwältinnen und Anwälte
+  offizieller_titel: Generative AI guidance for lawyers (New Zealand Law Society / Te Kāhui Ture o Aotearoa)
+  fundstelle: New Zealand Law Society Te Kāhui Ture o Aotearoa, März 2024 (Lawyers and AI Guidance, Mar
+    2024), zuletzt aktualisiert am 24.02.2026
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Berufsrechtlicher Leitfaden ohne unmittelbare Bindungswirkung, der die Anwendung der
+    Lawyers and Conveyancers Act (Lawyers: Conduct and Client Care) Rules 2008 auf generative KI erläutert.
+    Erstfassung März 2024; Stand der Seite 24.02.2026. Er ist damit — anders als die Gerichtsleitlinien
+    — fortgeschrieben worden.
+
+    '
+  kurzbeschreibung: 'Der Leitfaden gliedert sich in acht Abschnitte: Begriff der generativen KI, regulatorischer
+    Rahmen, Chancen, Risiken, Qualitätssicherung und Kompetenz, Datenschutz, Datensicherheit und Cybersicherheit,
+    geistiges Eigentum sowie berufliche und ethische Pflichten; abgeschlossen wird er durch eine Umsetzungscheckliste.
+    Er ordnet den KI-Einsatz ausdrücklich den geltenden Berufsregeln zu: Rule 3 (Kompetenz), Rule 10.9
+    (irreführendes und täuschendes Verhalten), Rule 13.1 (Treuepflicht gegenüber dem Gericht), Rules 11
+    und 11.1 (ordnungsgemässe Berufsausübung), Kapitel 8 (Privileg und Vertraulichkeit), Rules 3.5 und
+    7.1 (Mandantenbetreuung und Konsultation) sowie Kapitel 9 (Abrechnung). Sanktionen ergeben sich nicht
+    aus dem Leitfaden, sondern aus dem Disziplinarrecht nach dem Lawyers and Conveyancers Act 2006.
+
+    '
+  inkrafttreten:
+    datum: 2024-03-11
+    verifiziert: true
+    quelle: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
+  anwendungsdaten:
+  - datum: 2026-02-24
+    was_gilt: Letzte Aktualisierung der Leitlinienseite.
+    verifiziert: true
+    quelle: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
+  themenachsen:
+  - berufsrecht
+  - governance
+  - datenschutz
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Zuordnung zu den RCCC 2008: Rule 3 (Kompetenz) trägt die Prüfpflicht bei KI-Recherche; Rule 13.1
+    (Treuepflicht gegenüber dem Gericht) trägt die Verantwortung für eingereichte Fundstellen; Rule 10.9
+    erfasst irreführende Angaben; Kapitel 8 die Vertraulichkeit bei Eingaben in fremde Systeme; Kapitel
+    9 die Abrechnung KI-gestützter Arbeit.'
+  - 'Abrechnungsfrage: Der Leitfaden behandelt ausdrücklich, wie Zeit- und Wertabrechnung bei KI-gestützter
+    Arbeit zu handhaben ist — ein Punkt, den die Gerichtsleitlinien nicht berühren.'
+  - Beigefügte Umsetzungscheckliste (Lawyers and AI Checklist, März 2024).
+  dokumente:
+  - datum: 2024-03-11
+    typ: leitlinie
+    titel: Generative AI guidance for lawyers (Übersichtsseite)
+    url: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
+    sprache: en
+    urheber: New Zealand Law Society Te Kāhui Ture o Aotearoa
+    verifiziert: true
+    notiz: Amtliche Seite mit Stand 24.02.2026 und Verweis auf die einschlägigen RCCC-Regeln.
+  - datum: 2024-03-11
+    typ: leitlinie
+    titel: Lawyers and AI — Guidance (PDF)
+    url: https://www.lawsociety.org.nz/assets/Professional-practice-docs/Rules-and-Guidelines/Lawyers-and-AI-Guidance-Mar-2024.pdf
+    sprache: en
+    urheber: New Zealand Law Society
+    verifiziert: false
+    notiz: Volltext des Leitfadens; über die Übersichtsseite belegt, nicht selbst abgerufen.
+  - datum: 2024-03-11
+    typ: leitlinie
+    titel: Lawyers and AI — Checklist (PDF)
+    url: https://www.lawsociety.org.nz/assets/Professional-practice-docs/Rules-and-Guidelines/Lawyers-and-AI-Checklist-Mar-2024.pdf
+    sprache: en
+    urheber: New Zealand Law Society
+    verifiziert: false
+    notiz: Umsetzungscheckliste; über die Übersichtsseite belegt.
+  offene_punkte:
+  - Was die Aktualisierung vom 24.02.2026 inhaltlich geändert hat, ist aus der Seite nicht ersichtlich;
+    die PDF-Dateien tragen weiterhin den Stand März 2024.
+  - Ob das NZLS nach Jones v Family Court at Whangārei eine gesonderte Mitteilung erlassen hat, wurde
+    nicht geprüft.
+  monitoring_quellen:
+  - https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
+  bezug_regelwerke:
+  - nz-lawyers-conduct-rules-2008
+  - nz-courts-genai-guidelines-2023
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Der Vergleich mit den Gerichtsleitlinien ist aufschlussreich: Die Berufsorganisation
+    hat ihren Leitfaden 2026 fortgeschrieben, die Justiz den ihren nicht. Wo Soft Law das Gesetz ersetzt,
+    entscheidet die Pflegebereitschaft der herausgebenden Stelle über die Aktualität des geltenden Massstabs
+    — ein struktureller Nachteil des neuseeländischen Modells.
+
+    '
+- id: nz-lawyers-conduct-rules-2008
+  jurisdiktion: nz
+  kurztitel: Anwaltliche Berufsregeln (RCCC 2008)
+  offizieller_titel: 'Lawyers and Conveyancers Act (Lawyers: Conduct and Client Care) Rules 2008'
+  fundstelle: SR 2008/214, erlassen aufgrund des Lawyers and Conveyancers Act 2006
+  verfahrensnummer: SR 2008/214
+  status: anwendbar
+  status_detail: 'Geltendes Berufsrecht. Die Regeln enthalten keine KI-spezifische Vorschrift; sie werden
+    durch den NZLS-Leitfaden von 2024 auf generative KI angewandt. Verstösse führen über die Standards
+    Committees und das Lawyers and Conveyancers Disciplinary Tribunal zu Disziplinarmassnahmen.
+
+    '
+  kurzbeschreibung: 'Die Regeln binden neuseeländische Anwältinnen und Anwälte an Kompetenz (Rule 3),
+    ordnungsgemässe Berufsausübung (Rules 11, 11.1), das Verbot irreführenden und täuschenden Verhaltens
+    (Rule 10.9), die vorrangige Treuepflicht gegenüber dem Gericht (Rule 13.1), Vertraulichkeit und Privileg
+    (Kapitel 8), Information und Konsultation der Mandantschaft (Rules 3.5, 7.1) sowie an angemessene
+    Abrechnung (Kapitel 9). Für den KI-Einsatz sind diese Regeln die eigentliche Sanktionsgrundlage; eine
+    eigene KI-Vorschrift existiert nicht.
+
+    '
+  inkrafttreten:
+    datum: 2008-08-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/regulation/public/2008/0214/latest/whole.html
+    fundstelle_norm: 'r. 2 Lawyers and Conveyancers Act (Lawyers: Conduct and Client Care) Rules 2008
+      (SR 2008/214): ''These rules come into force on 1 August 2008.'' Erlassen von der New Zealand Law
+      Society mit Zustimmung des Justizministers nach s. 100 Lawyers and Conveyancers Act 2006'
+  anwendungsdaten: []
+  themenachsen:
+  - berufsrecht
+  regelungsschwerpunkte:
+  - 'Rule 3 — Kompetenz: trägt die Pflicht, die Grenzen eines eingesetzten Werkzeugs zu kennen und seine
+    Ergebnisse zu prüfen.'
+  - 'Rule 13.1 — vorrangige Pflicht gegenüber dem Gericht: die Grundlage jeder Sanktion wegen erfundener
+    Fundstellen.'
+  - Rule 10.9 — Verbot irreführenden und täuschenden Verhaltens.
+  - 'Kapitel 8 — Vertraulichkeit und Privileg: Grenze für die Eingabe von Mandatsinformationen in fremde
+    Systeme.'
+  - 'Kapitel 9 — Abrechnung: Massstab für die Vergütung KI-gestützter Arbeit.'
+  dokumente:
+  - datum: 2024-03-11
+    typ: uebersicht
+    titel: Zuordnung der RCCC-Regeln zum KI-Einsatz (NZLS-Leitfaden)
+    url: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
+    sprache: en
+    urheber: New Zealand Law Society
+    verifiziert: true
+    notiz: Amtliche Zuordnung der einzelnen Regeln zum KI-Einsatz; die Regeln selbst wurden nicht am Volltext
+      geprüft.
+  offene_punkte:
+  - Der Volltext der RCCC 2008 wurde nicht am Primärdokument geprüft; die Regelnummern stammen aus der
+    amtlichen Zuordnung des NZLS.
+  - Disziplinarentscheidungen zu KI-Nutzung durch neuseeländische Anwältinnen und Anwälte wurden nicht
+    aufgefunden.
+  monitoring_quellen:
+  - https://www.lawsociety.org.nz/
+  bezug_regelwerke:
+  - nz-nzls-genai-guidance-2024
+  - nz-courts-genai-guidelines-2023
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Bemerkenswert ist, dass Neuseelands einzige KI-Rechtsprechung bislang nicht das anwaltliche
+    Berufsrecht betrifft, sondern eine nicht vertretene Partei. Während in England (Ayinde, Al-Haroun)
+    und Australien die Anwaltschaft im Mittelpunkt steht, hat der neuseeländische Supreme Court den Laien
+    adressiert — und dafür nicht das Berufsrecht, sondern das Straf- und Kontemptrecht herangezogen.
+
+    '
+  pruefvermerk:
+  - Bestaetigt am amtlichen Text. Fassung mit Stand 01.07.2021, weiterhin in Kraft.
+- id: nz-contempt-of-court-act-2019
+  jurisdiktion: nz
+  kurztitel: Contempt of Court Act 2019
+  offizieller_titel: Contempt of Court Act 2019
+  fundstelle: 2019 No 44; verwaltet vom Ministry of Justice
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Der Supreme Court hat in Jones v Family Court at Whangārei [2026] NZSC
+    1 ausdrücklich s. 26 Abs. 2 und Abs. 4 herangezogen, um klarzustellen, dass die Vorlage erfundener
+    KI-Fundstellen in schweren Fällen als Kontempt geahndet werden kann.
+
+    '
+  kurzbeschreibung: 'Das Gesetz kodifiziert Teile des Kontemptrechts (Veröffentlichungsverbote im Strafverfahren,
+    störendes Verhalten, Geschworene, Vollstreckung von Anordnungen, falsche Aussagen über Richter und
+    Gerichte) und regelt in s. 26 das Verhältnis zur fortbestehenden inhärenten Zuständigkeit. Nach s.
+    26 Abs. 2 lässt das Gesetz jede Befugnis eines Gerichts unberührt, einschliesslich der inhärenten
+    Zuständigkeit des High Court, eine Person wegen Kontempts in Fällen zu bestrafen, auf die das Gesetz
+    nicht anwendbar ist; nach s. 26 Abs. 4 haben Supreme Court und Court of Appeal dieselben Befugnisse.
+    s. 27 begrenzt die Strafe bei Kontempt aus inhärenter Zuständigkeit auf sechs Monate Freiheitsstrafe.
+    s. 22 stellt die Veröffentlichung falscher Aussagen über Richter oder Gerichte unter Strafe (Einzelperson
+    bis sechs Monate Freiheitsstrafe oder 25.000 NZD; juristische Person bis 100.000 NZD).
+
+    '
+  inkrafttreten:
+    datum: 2020-08-26
+    verifiziert: true
+    quelle: https://www.justice.govt.nz/about/news-and-media/media-centre/media-information/media-guide-for-reporting-the-courts-and-tribunals-edition-4-1/media-in-court/4-10-reporting-restrictions/
+    fundstelle_norm: 's. 2(1) Contempt of Court Act 2019: ''This Act comes into force on the earlier of
+      - (a) a date appointed by the Governor-General by Order in Council; and (b) the date that is 1 year
+      after the date on which this Act receives the Royal assent.'' Royal assent 26.08.2019; eine Order
+      in Council ist nicht ergangen, sodass s. 2(1)(b) greift. Das Justizministerium bestaetigt: ''The
+      Contempt of Court Act 2019 came into effect on 26 August 2020.'''
+  anwendungsdaten:
+  - datum: 2026-02-11
+    was_gilt: Der Supreme Court benennt in Jones v Family Court at Whangārei s. 26 Abs. 2 und Abs. 4 als
+      Grundlage einer möglichen Kontemptahndung bei erfundenen KI-Fundstellen.
+    verifiziert: true
+    quelle: https://www.courtsofnz.govt.nz/assets/cases/2026/2026-NZSC-1.pdf
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 's. 26 Abs. 2 (Wortlaut): "Nothing in this Act limits or affects any authority or power of a court,
+    including the authority of the High Court under its inherent jurisdiction, to punish any person for
+    contempt of court in any circumstances to which this Act does not apply." Das ist die Norm, über die
+    KI-Halluzinationen überhaupt erst kontemptfähig werden — das Gesetz selbst kennt keinen einschlägigen
+    Tatbestand.'
+  - 's. 26 Abs. 4: dieselben Befugnisse für Supreme Court und Court of Appeal.'
+  - 's. 27 Abs. 1: Höchststrafe bei Kontempt aus inhärenter Zuständigkeit sechs Monate Freiheitsstrafe.'
+  - 's. 22: Straftatbestand für die Veröffentlichung falscher Aussagen über Richter oder Gerichte, wenn
+    dadurch das Vertrauen in Unabhängigkeit, Integrität, Unparteilichkeit oder Autorität der Justiz real
+    gefährdet wird. Praktisch relevant für KI-erzeugte Falschbehauptungen über Gerichte.'
+  dokumente:
+  - datum: 2019-11-27
+    typ: konsolidiert
+    titel: Contempt of Court Act 2019 (konsolidierte Fassung)
+    url: https://www.legislation.govt.nz/act/public/2019/0044/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext; Grundlage der Prüfung von ss. 22, 26 und 27.
+  offene_punkte:
+  - Das genaue Inkrafttretensdatum wurde nicht am Primärdokument geprüft.
+  - Ein neuseeländisches Kontemptverfahren wegen KI-erzeugter Fundstellen ist bislang nicht durchgeführt
+    worden; Jones enthält nur die Warnung.
+  monitoring_quellen:
+  - https://www.courtsofnz.govt.nz/judgments/
+  bezug_regelwerke:
+  - nz-crimes-act-1961
+  - nz-courts-genai-guidelines-2023
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die neuseeländische Konstruktion ist elegant und zugleich verräterisch: Weil das
+    kodifizierte Kontemptrecht die Vorlage erfundener Fundstellen nicht erfasst, greift der Supreme Court
+    über s. 26 Abs. 2 auf die inhärente Zuständigkeit zurück. Genau das ist das Muster des gesamten neuseeländischen
+    KI-Rechts: Wo die geschriebene Norm fehlt, wird auf die ungeschriebene Reservekompetenz ausgewichen.
+    Das funktioniert im Prozessrecht, weil es die inhärente Zuständigkeit gibt — im Verwaltungsrecht und
+    im Urheberrecht gibt es sie nicht.
+
+    '
+  pruefvermerk:
+  - 'DATUM KORRIGIERT. Eingetragen war 27.11.2019 — dieses Datum laesst sich am Gesetz nicht belegen.
+    Das Gesetz ist nach s. 2(1)(b) erst ein Jahr nach der Ausfertigung, also am 26.08.2020 in Kraft getreten;
+    die Notes von legislation.govt.nz weisen keine Commencement Order aus. Der 26.08.2019 ist die Ausfertigung.
+    Vorher: 2019-11-27.'
+- id: nz-crimes-act-1961
+  jurisdiktion: nz
+  kurztitel: Crimes Act 1961 (KI-relevante Tatbestände)
+  offizieller_titel: Crimes Act 1961
+  fundstelle: 1961 No 43; verwaltet vom Ministry of Justice
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Strafrecht ohne KI-spezifische Tatbestände. Der Supreme Court hat in Jones
+    v Family Court at Whangārei [2026] NZSC 1 die ss. 116 und 117 lit. e als mögliche Grundlage bei der
+    Vorlage erfundener KI-Fundstellen benannt. s. 216G (Begriff der intimate visual recording) soll durch
+    den Deepfake Digital Harm and Exploitation Bill auf synthetische Darstellungen erstreckt werden.
+
+    '
+  kurzbeschreibung: 'Für KI einschlägig sind vor allem drei Normkomplexe. s. 116 stellt die Verabredung
+    zur Behinderung, Verhinderung, Verkehrung oder Vereitelung des Laufs der Rechtspflege unter Strafe
+    (bis sieben Jahre Freiheitsstrafe); s. 117 erfasst die Beeinflussung von Geschworenen und Zeugen sowie
+    in lit. e weitere Handlungen zur Vereitelung der Rechtspflege (bis sieben Jahre). ss. 216G bis 216N
+    regeln intime Bildaufnahmen; s. 216G definiert die "intimate visual recording", ss. 216H bis 216J
+    stellen Herstellung, Besitz und Veröffentlichung unter Strafe. Diese Vorschriften greifen derzeit
+    nur bei Aufnahmen realer Vorgänge; synthetische Darstellungen sind nicht erfasst — die Lücke, die
+    der Gesetzentwurf 213-1 schliessen soll.
+
+    '
+  inkrafttreten:
+    datum: 1962-01-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html
+    fundstelle_norm: 's. 1(2) Crimes Act 1961: ''This Act shall come into force on 1 January 1962.'' Kopfzeile:
+      ''Date of assent 1 November 1961 — Commencement see section 1(2)'''
+  anwendungsdaten:
+  - datum: 2026-02-11
+    was_gilt: Der Supreme Court benennt ss. 116 und 117 lit. e als mögliche Grundlage bei der Vorlage
+      erfundener KI-Fundstellen durch eine Partei.
+    verifiziert: true
+    quelle: https://www.courtsofnz.govt.nz/assets/cases/2026/2026-NZSC-1.pdf
+  themenachsen:
+  - berufsrecht
+  - content
+  - grundrechte
+  regelungsschwerpunkte:
+  - 's. 116 (Wortlaut): "Every one is liable to imprisonment for a term not exceeding 7 years who conspires
+    to obstruct, prevent, pervert, or defeat the course of justice in New Zealand or the course of justice
+    in an overseas jurisdiction."'
+  - 's. 117 (Wortlaut Einleitung): "Every one is liable to imprisonment for a term not exceeding 7 years
+    who — ..."; lit. e ist der Auffangtatbestand, auf den sich der Supreme Court in Jones bezieht.'
+  - 's. 216G: Begriff der "intimate visual recording" für die ss. 216H bis 216N. Erfasst derzeit nur Aufnahmen
+    tatsächlicher Vorgänge; der Gesetzentwurf 213-1 will einen Abs. 1A einfügen, der auch "created, synthesised,
+    or altered" Darstellungen erfasst.'
+  - 'KEIN KI-spezifischer Tatbestand: Weder Deepfakes noch KI-gestützter Betrug noch die Manipulation
+    von Beweismitteln durch generative Systeme sind eigens geregelt.'
+  dokumente:
+  - datum: 2026-09-06
+    typ: konsolidiert
+    titel: Crimes Act 1961 (konsolidierte Fassung)
+    url: https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext; Grundlage der Prüfung von ss. 116, 117 und 216G.
+  offene_punkte:
+  - Ein Strafverfahren wegen KI-erzeugter Falschangaben gegenüber einem neuseeländischen Gericht ist bislang
+    nicht bekannt geworden.
+  - Die Reichweite des s. 117 lit. e auf fahrlässig eingereichte Halluzinationen ist ungeklärt; der Supreme
+    Court hat sie nur für "schwerwiegende Fälle" angedeutet.
+  monitoring_quellen:
+  - https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html
+  bezug_regelwerke:
+  - nz-contempt-of-court-act-2019
+  - nz-harmful-digital-communications-act-2015
+  - nz-deepfake-bill-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Die Heranziehung der ss. 116 und 117 durch den Supreme Court ist die schärfste Aussage
+    eines obersten Gerichts im Commonwealth zu KI-Fundstellen. Sie ist zugleich rechtsdogmatisch heikel:
+    Beide Vorschriften setzen Vorsatz voraus — s. 116 sogar eine Verabredung. Wer aus Unkenntnis eine
+    halluzinierte Fundstelle einreicht, erfüllt sie nicht. Die praktische Wirkung liegt deshalb weniger
+    in der Strafbarkeit als in der Warnung; das sollte man beim Zitieren nicht verwischen.
+
+    '
+  pruefvermerk:
+  - Bestaetigt. Ausfertigung 01.11.1961, Inkrafttreten 01.01.1962. Das Gesetz gilt fort; die Deepfake-relevanten
+    ss. 216G-216N (intimate visual recording) sollen durch den Deepfake Digital Harm and Exploitation
+    Bill geaendert werden, der bis 06.09.2026 nicht Gesetz ist.
+- id: nz-fair-trading-act-1986
+  jurisdiktion: nz
+  kurztitel: Fair Trading Act 1986
+  offizieller_titel: Fair Trading Act 1986
+  fundstelle: 1986 No 121; durchgesetzt von der Commerce Commission (Te Komihana Tauhokohoko)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Die Regierung nennt den Verbraucherschutz ausdrücklich als einen der
+    drei Rahmen, die KI-Risiken abdecken sollen. Das Gesetz enthält keine KI-spezifische Vorschrift; die
+    Wörter "artificial intelligence" und "algorithm" kommen darin nicht vor (Volltextprüfung am 06.09.2026).
+
+    '
+  kurzbeschreibung: 'Das Gesetz verbietet irreführendes und täuschendes Verhalten im geschäftlichen Verkehr.
+    s. 9 lautet: "No person shall, in trade, engage in conduct that is misleading or deceptive or is likely
+    to mislead or deceive" — das neuseeländische Gegenstück zu s. 18 des australischen Australian Consumer
+    Law und historisch aus s. 52 Trade Practices Act 1974 (Australien) übernommen. ss. 10 und 11 verbieten
+    irreführendes Verhalten in Bezug auf Waren und Dienstleistungen; s. 13 verbietet in einem detaillierten
+    Katalog falsche oder irreführende Angaben über Art, Standard, Qualität, Güte, Menge, Zusammensetzung,
+    Herkunft, Vorgeschichte und Eigenschaften. Anwendungsfälle im KI-Kontext sind übertriebene Leistungsversprechen
+    für KI-Produkte ("AI washing"), nicht offengelegte synthetische Werbeinhalte und irreführende Angaben
+    über die Genauigkeit von Modellen. Durchgesetzt wird das Gesetz durch die Commerce Commission sowie
+    durch Privatklagen.
+
+    '
+  inkrafttreten:
+    datum: 1987-03-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html
+    fundstelle_norm: 's. 1(2) Fair Trading Act 1986: ''Except as provided in section 49(3), this Act shall
+      come into force on 1 March 1987.'' Kopfzeile: ''Date of assent 17 December 1986'''
+  anwendungsdaten: []
+  themenachsen:
+  - content
+  - wettbewerb
+  - haftung
+  - vertrag
+  regelungsschwerpunkte:
+  - 's. 9 (Wortlaut): "No person shall, in trade, engage in conduct that is misleading or deceptive or
+    is likely to mislead or deceive." Kein Verschuldenserfordernis, kein Vorsatz — deshalb der praktisch
+    wichtigste Hebel gegen übertriebene KI-Werbung.'
+  - 's. 10: irreführendes Verhalten in Bezug auf Waren (Art, Herstellungsverfahren, Eigenschaften, Eignung,
+    Menge).'
+  - 's. 11: irreführendes Verhalten in Bezug auf Dienstleistungen.'
+  - 's. 13: Katalog falscher oder irreführender Angaben, u.a. zu Art, Standard, Qualität, Güte, Zusammensetzung,
+    Vorgeschichte und zur Person des Erbringers — einschlägig, wenn ein Dienst als menschlich erbracht
+    dargestellt wird, obwohl er automatisiert ist.'
+  - 'NEGATIVBEFUND: Weder "artificial intelligence" noch "algorithm" kommen im Gesetz vor. Eine Kennzeichnungspflicht
+    für KI-erzeugte Inhalte, wie sie Art. 50 KI-VO vorsieht, existiert in Neuseeland nicht. Ob unterlassene
+    Kennzeichnung "misleading" im Sinne des s. 9 ist, hat kein neuseeländisches Gericht entschieden.'
+  dokumente:
+  - datum: 2026-09-06
+    typ: konsolidiert
+    titel: Fair Trading Act 1986 (konsolidierte Fassung)
+    url: https://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext; Grundlage der Prüfung von ss. 9, 10, 11, 13 und der Negativkontrolle.
+  offene_punkte:
+  - Eine Verlautbarung der Commerce Commission zu KI-Werbung ("AI washing") wurde nicht aufgefunden.
+  - Ob eine unterlassene Kennzeichnung KI-erzeugter Inhalte s. 9 verletzt, ist ungeklärt.
+  monitoring_quellen:
+  - https://comcom.govt.nz/
+  bezug_regelwerke:
+  - nz-consumer-guarantees-act-1993
+  - nz-ki-strategie-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 's. 9 ist die einzige neuseeländische Norm, die ohne Änderung auf KI-Werbung passt,
+    und sie ist scharf: kein Verschulden, weite Auslegung, Klagebefugnis auch für Mitbewerber. Wenn die
+    Regierung sagt, der Verbraucherschutz decke KI-Risiken ab, meint sie im Kern diese Vorschrift. Sie
+    deckt jedoch nur die Aussage über das Produkt, nicht das Produkt selbst — ein KI-System darf in Neuseeland
+    schlecht sein, es darf nur nicht falsch beworben werden.
+
+    '
+  pruefvermerk:
+  - Bestaetigt. Ausfertigung 17.12.1986, Inkrafttreten 01.03.1987.
+- id: nz-consumer-guarantees-act-1993
+  jurisdiktion: nz
+  kurztitel: Consumer Guarantees Act 1993
+  offizieller_titel: Consumer Guarantees Act 1993
+  fundstelle: 1993 No 91
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Es begründet gesetzliche Garantien für Waren und Dienstleistungen gegenüber
+    Verbrauchern, die vertraglich nicht abbedungen werden können. KI-spezifische Vorschriften enthält
+    es nicht. Das Gesetz wurde in dieser Recherche nicht am Volltext geprüft.
+
+    '
+  kurzbeschreibung: 'Das Gesetz gewährt Verbrauchern gesetzliche Garantien, unter anderem für annehmbare
+    Qualität von Waren und für die Erbringung von Dienstleistungen mit angemessener Sorgfalt und Sachkunde.
+    Für KI ist es dort einschlägig, wo ein KI-gestützter Dienst an Verbraucher erbracht wird: Fehlerhafte
+    Ausgaben können einen Verstoss gegen die Sorgfaltsgarantie begründen. Rechtsprechung dazu gibt es
+    in Neuseeland nicht.
+
+    '
+  inkrafttreten:
+    datum: 1994-04-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html
+    fundstelle_norm: 's. 1(2) Consumer Guarantees Act 1993: ''This Act shall come into force on 1 April
+      1994.'' Kopfzeile: ''Date of assent 20 August 1993'''
+  anwendungsdaten: []
+  themenachsen:
+  - haftung
+  - vertrag
+  regelungsschwerpunkte:
+  - Gesetzliche, nicht abdingbare Garantien für Waren und Dienstleistungen gegenüber Verbrauchern.
+  - Für KI relevant ist die Garantie der Erbringung mit angemessener Sorgfalt und Sachkunde; sie erfasst
+    KI-gestützte Beratungs- und Analysedienste.
+  - Keine Regelung zur Zurechnung von Fehlern autonom arbeitender Systeme.
+  dokumente:
+  - datum: 2026-09-06
+    typ: konsolidiert
+    titel: Consumer Guarantees Act 1993 (konsolidierte Fassung)
+    url: https://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: false
+    notiz: Nicht am Volltext geprüft; als Rahmennorm geführt, weil die Regierung den Verbraucherschutz
+      ausdrücklich als KI-Instrument benennt.
+  offene_punkte:
+  - Der Volltext wurde nicht geprüft; die Paragrafenangaben sind daher bewusst offen gehalten.
+  - Ob KI-gestützte Dienste als "services" im Sinne des Gesetzes gelten, ist nicht entschieden.
+  monitoring_quellen:
+  - https://comcom.govt.nz/
+  bezug_regelwerke:
+  - nz-fair-trading-act-1986
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Der Consumer Guarantees Act ist die einzige neuseeländische Norm, die einer Produkthaftung
+    für KI nahekommt — und sie greift nur im Verbrauchergeschäft und nur gegen den unmittelbaren Anbieter.
+    Ein Gegenstück zur neuen EU-Produkthaftungsrichtlinie (EU) 2024/2853, die Software ausdrücklich einbezieht,
+    fehlt.
+
+    '
+  pruefvermerk:
+  - Bestaetigt. Ausfertigung 20.08.1993, Inkrafttreten 01.04.1994.
+- id: nz-contract-and-commercial-law-act-2017
+  jurisdiktion: nz
+  kurztitel: Contract and Commercial Law Act 2017
+  offizieller_titel: Contract and Commercial Law Act 2017
+  fundstelle: 2017 No 5
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Part 4 ("Electronic transactions") übernimmt die Regeln des früheren
+    Electronic Transactions Act 2002. KI-spezifische Vorschriften fehlen vollständig; die Wörter "automated",
+    "electronic agent" und "artificial intelligence" kommen im Gesetz NICHT vor (Volltextprüfung am 06.09.2026).
+
+    '
+  kurzbeschreibung: 'Das Gesetz fasst das neuseeländische Vertrags- und Handelsrecht zusammen. Part 4
+    regelt elektronische Transaktionen: Zweck (s. 207), Übersicht (s. 208), Auslegung (ss. 209, 210),
+    Gültigkeit von Informationen (s. 211), Regeln zu Absendung und Zugang elektronischer Mitteilungen
+    (ss. 212 bis 216), Zeitpunkt der Übermittlung einer Annahme (s. 217) sowie die Erfüllung gesetzlicher
+    Formerfordernisse in elektronischer Form (ss. 218 ff.). Eine Regelung zu automatisiert abgeschlossenen
+    Verträgen oder zur Zurechnung von Erklärungen autonomer Systeme fehlt.
+
+    '
+  inkrafttreten:
+    datum: 2017-09-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2017/0005/latest/whole.html
+    fundstelle_norm: 's. 2 Contract and Commercial Law Act 2017: ''This Act comes into force immediately
+      after the expiry of the 6-month period that starts on the date of Royal assent.'' Royal assent 01.03.2017;
+      die Sechsmonatsfrist laeuft mit Ablauf des 31.08.2017 ab, das Gesetz tritt am 01.09.2017 in Kraft'
+  anwendungsdaten: []
+  themenachsen:
+  - vertrag
+  - haftung
+  regelungsschwerpunkte:
+  - 'Part 4 Subpart 1 (ss. 207 bis 210): Zweck, Übersicht, Auslegung.'
+  - 'Part 4 Subpart 2 (ss. 211 bis 217): Gültigkeit elektronischer Informationen, Standardregeln zu Zeitpunkt
+    und Ort von Absendung und Zugang, Zeitpunkt der Annahmeerklärung.'
+  - 'Part 4 Subpart 3 (ab s. 218): Erfüllung gesetzlicher Formerfordernisse in elektronischer Form.'
+  - 'ZENTRALER NEGATIVBEFUND: Kein Gegenstück zu s. 15C Electronic Transactions Act 1999 (Australien)
+    oder zu § 14 UETA (Vereinigte Staaten), die Verträge durch "electronic agents" ausdrücklich anerkennen.
+    Wer in Neuseeland einen von einem KI-Agenten geschlossenen Vertrag durchsetzen will, muss auf allgemeine
+    Stellvertretungs- und Zurechnungsgrundsätze zurückgreifen; höchstrichterliche Klärung fehlt.'
+  dokumente:
+  - datum: 2026-09-06
+    typ: konsolidiert
+    titel: Contract and Commercial Law Act 2017 (konsolidierte Fassung)
+    url: https://www.legislation.govt.nz/act/public/2017/0005/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext; Grundlage der Prüfung von Part 4 und der Negativkontrolle zu automatisierten
+      Verträgen.
+  offene_punkte:
+  - Ob die neuseeländische Rechtsprechung Erklärungen autonomer Systeme dem Betreiber zurechnet, ist ungeklärt;
+    einschlägige Entscheidungen wurden nicht gefunden.
+  - Eine Reform des Part 4 ist nicht angekündigt.
+  monitoring_quellen:
+  - https://www.legislation.govt.nz/act/public/2017/0005/latest/whole.html
+  bezug_regelwerke:
+  - nz-fair-trading-act-1986
+  - nz-consumer-guarantees-act-1993
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Dies ist die stillste, aber praktisch bedeutsamste Lücke des neuseeländischen Rechts:
+    Agentische KI schliesst bereits Verträge, und das Gesetz, das elektronische Transaktionen regelt,
+    kennt den Begriff nicht einmal. Australien hat mit s. 15C ETA 1999 eine ausdrückliche Regel, die Vereinigten
+    Staaten mit § 14 UETA ebenfalls. Wer die These prüfen will, Neuseeland komme mit vorhandenem Recht
+    aus, findet hier den klarsten Gegenbeleg — nicht weil ein Risiko unreguliert wäre, sondern weil eine
+    Rechtssicherheitsfrage schlicht offen ist.
+
+    '
+  pruefvermerk:
+  - 'Bestaetigt, aber berechnet: Das Gesetz nennt kein Datum, sondern eine Frist. Ausfertigung 01.03.2017
+    + 6 Monate = Inkrafttreten 01.09.2017. Das eingetragene Datum stimmt.'
+- id: nz-human-rights-act-1993
+  jurisdiktion: nz
+  kurztitel: Human Rights Act 1993
+  offizieller_titel: Human Rights Act 1993
+  fundstelle: 1993 No 82; verwaltet vom Ministry of Justice; konsolidierte Fassung mit Stand 27.11.2025
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Es ist der dritte der drei von der Regierung benannten Rahmen. KI-spezifische
+    Vorschriften fehlen; die Wörter "artificial intelligence", "algorithm" und "automated" kommen im Gesetz
+    NICHT vor (Volltextprüfung am 06.09.2026). Die nach dem Gesetz errichtete Human Rights Commission
+    hat am 07.08.2026 verbindliche Regeln für KI gefordert.
+
+    '
+  kurzbeschreibung: 'Das Gesetz verbietet Diskriminierung wegen der in s. 21 abschliessend aufgezählten
+    Gründe — unter anderem Geschlecht (einschliesslich Schwangerschaft und Geburt), Familienstand, religiöse
+    Überzeugung, ethische Überzeugung, Hautfarbe, Rasse, ethnische oder nationale Herkunft einschliesslich
+    Staatsangehörigkeit sowie Behinderung — in den Bereichen Beschäftigung (s. 22), Zugang zu Orten und
+    Verkehrsmitteln, Bildung, Wohnen und Bereitstellung von Waren, Einrichtungen und Dienstleistungen
+    (s. 44). s. 65 erfasst mittelbare Diskriminierung: Ein Verhalten, eine Praxis, ein Erfordernis oder
+    eine Bedingung, die nicht offensichtlich gegen das Gesetz verstösst, ist gleichwohl rechtswidrig,
+    wenn sie Personen oder Gruppen wegen eines verbotenen Grundes unterschiedlich behandelt, es sei denn,
+    der Handelnde weist einen guten Grund nach. Durchgesetzt wird das Gesetz über die Human Rights Commission
+    und das Human Rights Review Tribunal.
+
+    '
+  inkrafttreten:
+    datum: 1994-02-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1993/0082/latest/whole.html
+    fundstelle_norm: 's. 1(2) Human Rights Act 1993: ''This Act shall come into force on 1 February 1994.''
+      Kopfzeile: ''Date of assent 10 August 1993'''
+  anwendungsdaten:
+  - datum: 2026-08-07
+    was_gilt: Die Human Rights Commission veröffentlicht ihr Diskussionspapier zu KI und Te Tiriti o Waitangi
+      und fordert einen nationalen Risikobewertungsrahmen.
+    verifiziert: true
+    quelle: https://tikatangata.org.nz/our-work/artificial-intelligence-emerging-digital-technologies-and-human-rights
+  themenachsen:
+  - grundrechte
+  - arbeit
+  - sektor-finanz
+  - governance
+  regelungsschwerpunkte:
+  - 's. 21: abschliessender Katalog der verbotenen Diskriminierungsgründe. Er ist die Bezugsgrösse für
+    Rule 10 Abs. 5 des Biometric Processing Privacy Code, der die biometrische Kategorisierung nach eben
+    diesen Gründen untersagt.'
+  - 's. 22: Diskriminierungsverbot im Beschäftigungsverhältnis — einschlägig für algorithmische Bewerberauswahl
+    und Leistungsbewertung.'
+  - 's. 44: Diskriminierungsverbot bei der Bereitstellung von Waren, Einrichtungen und Dienstleistungen
+    an die Öffentlichkeit; Abs. 2 stellt klar, dass "facilities" auch Bank- und Versicherungsdienstleistungen
+    umfasst — die Norm für algorithmisches Scoring.'
+  - 's. 65 (mittelbare Diskriminierung): Die entscheidende Norm für algorithmische Benachteiligung. Sie
+    verlangt keinen Vorsatz und kehrt die Beweislast für die Rechtfertigung um ("unless the person ...
+    establishes good reason"). Damit ist sie das schärfste vorhandene Instrument gegen diskriminierende
+    Modelle — es fehlt allerdings jede Auskunftspflicht über die Funktionsweise, sodass der Nachweis der
+    unterschiedlichen Wirkung praktisch schwer zu führen ist.'
+  - 'NEGATIVBEFUND: keine Vorschrift zu automatisierten Entscheidungen, keine Erklärungspflicht, kein
+    Auskunftsanspruch über die Logik.'
+  dokumente:
+  - datum: 2025-11-27
+    typ: konsolidiert
+    titel: Human Rights Act 1993 (konsolidierte Fassung mit Stand 27.11.2025)
+    url: https://www.legislation.govt.nz/act/public/1993/0082/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext; Grundlage der Prüfung von ss. 21, 22, 44 und 65 sowie der Negativkontrolle.
+  offene_punkte:
+  - Eine neuseeländische Entscheidung zu algorithmischer Diskriminierung nach s. 65 wurde nicht gefunden.
+  - Ob die Human Rights Commission ihre Empfehlungen in ein Gesetzgebungsvorhaben überführen kann, ist
+    offen.
+  monitoring_quellen:
+  - https://tikatangata.org.nz/
+  - https://www.justice.govt.nz/tribunals/human-rights/
+  bezug_regelwerke:
+  - nz-hrc-ai-tiriti-2026
+  - nz-biometric-processing-privacy-code-2025
+  - nz-privacy-act-2020
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 's. 65 ist die stärkste ungenutzte Norm des neuseeländischen KI-Rechts. Sie erfasst
+    mittelbare Diskriminierung ohne Verschulden und legt die Rechtfertigungslast dem Handelnden auf —
+    dogmatisch günstiger als Art. 21 Abs. 1 der Charta oder das deutsche AGG. Sie scheitert allein an
+    der Beweisebene: Ohne Transparenzpflicht kann eine betroffene Person die unterschiedliche Wirkung
+    eines Modells nicht darlegen. Genau hier setzt der Vorschlag der Human Rights Commission für ein nationales
+    Algorithmenregister an. Wer den neuseeländischen Fall untersucht, findet hier den präzisesten Beleg
+    dafür, dass materielles Recht ohne Verfahrensrecht leerläuft.
+
+    '
+  pruefvermerk:
+  - Bestaetigt. Ausfertigung 10.08.1993, Inkrafttreten 01.02.1994.
+- id: nz-bill-of-rights-act-1990
+  jurisdiktion: nz
+  kurztitel: New Zealand Bill of Rights Act 1990
+  offizieller_titel: New Zealand Bill of Rights Act 1990
+  fundstelle: 1990 No 109
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht ohne Verfassungsrang im formellen Sinne: Nach s. 4 dürfen Gerichte andere
+    Gesetze nicht wegen Unvereinbarkeit unangewandt lassen. Für KI relevant sind vor allem die Meinungsfreiheit
+    (s. 14) und das Diskriminierungsverbot (s. 19). Das Gesetz wurde in dieser Recherche nicht am Volltext
+    geprüft.
+
+    '
+  kurzbeschreibung: 'Der Bill of Rights Act bindet die drei Staatsgewalten und Stellen, die öffentliche
+    Aufgaben wahrnehmen. s. 14 schützt die Freiheit der Meinungsäusserung einschliesslich der Freiheit,
+    Informationen jeder Art zu suchen, zu empfangen und weiterzugeben; s. 19 gewährleistet die Freiheit
+    von Diskriminierung nach den Gründen des Human Rights Act 1993. s. 5 lässt Einschränkungen zu, die
+    durch Recht vorgesehen und in einer freien und demokratischen Gesellschaft nachweislich gerechtfertigt
+    sind. Für KI ist das Gesetz vor allem als Massstab für staatliche Überwachung, für Inhaltsregulierung
+    und für die geplante Deepfake-Strafnorm bedeutsam.
+
+    '
+  inkrafttreten:
+    datum: 1990-09-25
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html
+    fundstelle_norm: 's. 1(2) New Zealand Bill of Rights Act 1990: ''This Act shall come into force on
+      the 28th day after the date on which it receives the Royal assent.'' Royal assent 28.08.1990; 28.
+      Tag danach ist der 25.09.1990'
+  anwendungsdaten: []
+  themenachsen:
+  - grundrechte
+  - content
+  regelungsschwerpunkte:
+  - s. 14 Meinungsfreiheit — Massstab für jede Inhaltsregulierung, auch für die geplante Ausweitung der
+    Strafbarkeit synthetischer Darstellungen.
+  - s. 19 Diskriminierungsverbot mit Verweis auf die Gründe des Human Rights Act 1993.
+  - s. 5 Schrankenvorbehalt; s. 4 Vorrang des einfachen Gesetzes.
+  - Gesetzentwürfe werden vom Attorney-General auf Vereinbarkeit geprüft (s. 7); eine solche Prüfung ist
+    auch für den Deepfake Digital Harm and Exploitation Bill zu erwarten.
+  dokumente:
+  - datum: 2026-09-06
+    typ: konsolidiert
+    titel: New Zealand Bill of Rights Act 1990 (konsolidierte Fassung)
+    url: https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: false
+    notiz: Nicht am Volltext geprüft; als Rahmennorm geführt.
+  offene_punkte:
+  - Der Volltext wurde nicht geprüft.
+  - Eine s.-7-Erklärung des Attorney-General zum Deepfake-Gesetzentwurf wurde nicht aufgefunden.
+  monitoring_quellen:
+  - https://www.justice.govt.nz/justice-sector-policy/constitutional-issues-and-human-rights/
+  bezug_regelwerke:
+  - nz-human-rights-act-1993
+  - nz-deepfake-bill-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Der Bill of Rights Act ist in Neuseeland kein Prüfungsmassstab mit Verwerfungskompetenz.
+    Für KI heisst das: Anders als in Mexiko oder Kolumbien kann ein neuseeländisches Gericht ein KI-freundliches
+    Gesetz nicht an Grundrechten scheitern lassen. Das erklärt, warum die grundrechtliche Auseinandersetzung
+    dort über die Human Rights Commission und nicht über die Gerichte läuft.
+
+    '
+  pruefvermerk:
+  - 'Bestaetigt, aber berechnet: Das Gesetz nennt kein Datum, sondern eine Frist von 28 Tagen ab Ausfertigung
+    (28.08.1990). Das ergibt den 25.09.1990; das eingetragene Datum stimmt.'
+- id: nz-harmful-digital-communications-act-2015
+  jurisdiktion: nz
+  kurztitel: Harmful Digital Communications Act 2015
+  offizieller_titel: Harmful Digital Communications Act 2015
+  fundstelle: 2015 No 63; verwaltet vom Ministry of Justice; konsolidierte Fassung mit Stand 09.03.2022
+  verfahrensnummer: null
+  status: teilanwendbar
+  status_detail: 'Geltendes Recht. Es ist das einzige neuseeländische Gesetz, das schädigende digitale
+    Inhalte allgemein erfasst — enthält aber KEINE Regelung zu synthetischen Inhalten. Die Wörter "artificial
+    intelligence", "synthetic", "deepfake" und "digitally altered" kommen darin NICHT vor (Volltextprüfung
+    am 06.09.2026). Die Lücke soll durch den Deepfake Digital Harm and Exploitation Bill geschlossen werden.
+
+    '
+  kurzbeschreibung: 'Das Gesetz stellt in s. 6 zehn Kommunikationsgrundsätze auf (unter anderem: keine
+    Offenlegung sensibler persönlicher Tatsachen, keine Drohung oder Einschüchterung, keine grob beleidigenden,
+    unanständigen oder obszönen Mitteilungen, kein Belästigen, keine falschen Behauptungen, keine Verletzung
+    von Vertraulichkeit, keine Aufforderung zu Schädigung oder Selbsttötung, kein Blossstellen wegen Hautfarbe,
+    Rasse, ethnischer oder nationaler Herkunft, Religion, Geschlecht, sexueller Orientierung oder Behinderung).
+    Verfahrensrechtlich gibt es ein niedrigschwelliges Verfahren über die zugelassene Stelle (Netsafe)
+    und den District Court. s. 22 stellt das absichtliche schädigende Posten unter Strafe; s. 22A (eingefügt
+    am 09.03.2022) erfasst das unbefugte Posten intimer Bildaufnahmen mit einem Strafrahmen von bis zu
+    zwei Jahren Freiheitsstrafe oder 50.000 NZD für natürliche und bis zu 200.000 NZD für juristische
+    Personen; ss. 22B und 24 sehen zivilrechtliche Anordnungen und Take-down-Anordnungen vor.
+
+    '
+  inkrafttreten:
+    datum: 2015-07-03
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2015/0063/latest/whole.html
+    fundstelle_norm: 's. 2(1) Harmful Digital Communications Act 2015: ''Sections 22 to 25 and Part 2
+      come into force on the day after the date on which this Act receives the Royal assent.'' Royal assent
+      02.07.2015, also 03.07.2015 fuer die Straftatbestaende (u. a. s. 22 causing harm by posting digital
+      communication) und Part 2. Der Rest trat nach s. 2(2) gestuft durch Order in Council in Kraft'
+  anwendungsdaten:
+  - datum: 2015-11-27
+    was_gilt: ss. 3, 4, 5 und 6 (Zweck, Auslegung, Bindung der Krone, Kommunikationsgrundsaetze); Harmful
+      Digital Communications Act Commencement Order 2015 (LI 2015/248), cl. 2
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2015/0063/latest/whole.html
+  - datum: 2016-05-20
+    was_gilt: s. 7 (Approved Agency — Netsafe); Harmful Digital Communications Act Commencement Order
+      2016 (LI 2016/90), cl. 2
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2015/0063/latest/whole.html
+  - datum: 2016-11-21
+    was_gilt: ss. 8-21 und 26-28 — das zivilrechtliche Durchsetzungsverfahren vor dem District Court;
+      Harmful Digital Communications Act Commencement Order (No 2) 2016 (LI 2016/226), cl. 2
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2015/0063/latest/whole.html
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - s. 6 — zehn Kommunikationsgrundsätze; Grundsatz 6 ("A digital communication should not make a false
+    allegation") ist der einzige Ansatzpunkt für KI-erzeugte Falschbehauptungen über Personen.
+  - s. 22 — Straftatbestand des absichtlichen schädigenden Postens; verlangt Schädigungsabsicht, objektive
+    Eignung zur Schädigung und tatsächlich eingetretenen Schaden. Die kumulative Fassung macht die Norm
+    für massenhaft erzeugte synthetische Inhalte schwer handhabbar.
+  - s. 22A — unbefugtes Posten intimer Bildaufnahmen; Strafrahmen zwei Jahre oder 50.000 NZD (natürliche
+    Person), 200.000 NZD (juristische Person). Erfasst nach geltender Fassung nur Aufnahmen realer Vorgänge.
+  - ss. 22B und 24 — zivilrechtliche Anordnungen während und nach dem Verfahren sowie Take-down-Anordnungen.
+  - 'ZENTRALER NEGATIVBEFUND: kein Begriff und keine Regelung für synthetische, generierte oder veränderte
+    Inhalte. Neuseeland hat bis heute keine Deepfake-Vorschrift.'
+  dokumente:
+  - datum: 2022-03-09
+    typ: konsolidiert
+    titel: Harmful Digital Communications Act 2015 (konsolidierte Fassung)
+    url: https://www.legislation.govt.nz/act/public/2015/0063/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Volltext; Grundlage der Prüfung von ss. 6, 22, 22A, 22B und der Negativkontrolle
+      zu synthetischen Inhalten.
+  offene_punkte:
+  - Ob Grundsatz 6 des s. 6 auf KI-erzeugte Falschbehauptungen angewandt worden ist, wurde nicht ermittelt.
+  - Die Rolle von Netsafe als zugelassener Stelle bei KI-erzeugten Inhalten wurde nicht geprüft.
+  monitoring_quellen:
+  - https://www.justice.govt.nz/justice-sector-policy/key-initiatives/harmful-digital-communications/
+  bezug_regelwerke:
+  - nz-deepfake-bill-2025
+  - nz-crimes-act-1961
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Das Gesetz gilt international als vorbildlich, weil es 2015 ein niedrigschwelliges
+    Verfahren gegen digitale Schädigung geschaffen hat. Für KI zeigt es die Grenze technikneutraler Regelung:
+    Der Tatbestand des s. 22 verlangt Schädigungsabsicht gegenüber einem bestimmten Opfer und tatsächlich
+    eingetretenen Schaden. Wer mit einer Anwendung tausend synthetische Darstellungen erzeugt, erfüllt
+    das nicht ohne Weiteres. Genau deshalb liegt seit 2025 ein Gesetzentwurf vor — der beste Beleg dafür,
+    dass "vorhandenes Recht reicht aus" in Neuseeland nicht durchgehalten wird, sobald ein konkreter Schadensfall
+    politisch sichtbar wird.
+
+    '
+  pruefvermerk:
+  - 'Bestaetigt und praezisiert. Der 03.07.2015 ist richtig, betrifft aber nur ss. 22-25 und Part 2 (Straftatbestaende).
+    Das Gesetz ist gestuft in Kraft getreten; alle drei weiteren Stufen sind jetzt erfasst. Status auf
+    teilanwendbar zu setzen ist nicht zwingend — seit 21.11.2016 ist das Gesetz vollstaendig in Kraft;
+    wenn der Bestand ''teilanwendbar'' nur fuer aktuell unvollstaendig geltende Regelwerke verwendet,
+    sollte der Status bei ''anwendbar'' bleiben. Empfehlung: anwendbar.'
+- id: nz-deepfake-bill-2025
+  jurisdiktion: nz
+  kurztitel: Deepfake Digital Harm and Exploitation Bill
+  offizieller_titel: Deepfake Digital Harm and Exploitation Bill (Member's Bill), Bill 213—1
+  fundstelle: New Zealand Parliament, Bill 213—1 (2025); Einbringung am 23.10.2025; erste Lesung am 20.05.2026;
+    Überweisung an das Social Services and Community Committee
+  verfahrensnummer: 213—1
+  status: verfahren
+  status_detail: 'Abgeordnetenentwurf (Member''s Bill) von Laura McClure (ACT). Eingebracht am 23.10.2025,
+    erste Lesung am 20.05.2026 einstimmig angenommen, Überweisung an das Social Services and Community
+    Committee, öffentliche Einreichungen bis 19.06.2026, 23.59 Uhr. Ein Berichtstermin des Ausschusses
+    war bis zum 06.09.2026 nicht auffindbar. Der Entwurf ist das einzige KI-bezogene Gesetzgebungsvorhaben
+    im neuseeländischen Parlament.
+
+    '
+  kurzbeschreibung: 'Der Entwurf erweitert die Definition der "intimate visual recording" im Crimes Act
+    1961 und im Harmful Digital Communications Act 2015 auf Darstellungen, die ohne Kenntnis oder Einwilligung
+    der abgebildeten Person erzeugt, synthetisiert oder verändert wurden. Klausel 4 fügt in s. 216G Crimes
+    Act 1961 einen neuen Abs. 1A ein, wonach für die ss. 216H bis 216N als intime Bildaufnahme auch eine
+    Aufnahme gilt, die "created, synthesised, or altered without the knowledge or consent of the person
+    who is the subject of the recording" wurde und die Person nackt beziehungsweise mit entblösstem oder
+    teilweise entblösstem Genital-, Scham-, Gesäss- oder Brustbereich oder nur in Unterwäsche, bei einer
+    intimen sexuellen Handlung oder beim Duschen, bei der Notdurft oder einer anderen persönlichen körperlichen
+    Verrichtung mit An- oder Auskleiden zu zeigen scheint. Klausel 6 fügt eine entsprechende Bestimmung
+    in s. 4 des Harmful Digital Communications Act 2015 ein. Eigene Strafrahmen schafft der Entwurf nicht;
+    er lässt die vorhandenen Strafdrohungen greifen. Inkrafttreten am Tag nach der königlichen Zustimmung.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/bill/member/2025/0213/latest/whole.html
+    fundstelle_norm: 'cl. 2 Deepfake Digital Harm and Exploitation Bill (213-1): ''This Act comes into
+      force on the day after Royal assent.'' Ein Royal assent ist bis 06.09.2026 nicht erfolgt, ein Inkrafttretensdatum
+      gibt es daher nicht'
+  anwendungsdaten:
+  - datum: 2025-10-23
+    was_gilt: Einbringung als Bill 213—1.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/bill/member/2025/0213/latest/whole.html
+  - datum: 2026-05-20
+    was_gilt: 'Erste Lesung, einstimmig angenommen; Überweisung an den Ausschuss. NUR SEKUNDÄR BELEGT:
+      Das Datum stammt aus einer Presseveröffentlichung der Parlamentsmitteilung, nicht aus dem amtlichen
+      Verfahrensverzeichnis.'
+    verifiziert: false
+    quelle: https://www.scoop.co.nz/stories/PA2605/S00169/deepfake-bill-passes-first-reading-now-its-time-for-kiwis-to-have-their-say.htm
+  - datum: 2026-05-22
+    was_gilt: Aufruf des Social Services and Community Committee zu öffentlichen Einreichungen.
+    verifiziert: true
+    quelle: https://www3.parliament.nz/en/pb/sc/committees-press-releases/have-your-say-on-the-deepfake-digital-harm-and-exploitation-bill/
+  - datum: 2026-06-19
+    was_gilt: Ablauf der Einreichungsfrist (23.59 Uhr).
+    verifiziert: true
+    quelle: https://www3.parliament.nz/en/pb/sc/make-a-submission/document/54SCSSC_SCF_41586B19-BECE-4E53-94EB-08DE11D86E7A/deepfake-digital-harm-and-exploitation-bill
+  themenachsen:
+  - content
+  - grundrechte
+  - haftung
+  regelungsschwerpunkte:
+  - 'Regelungstechnik: Der Entwurf schafft keinen neuen Straftatbestand, sondern erweitert eine Legaldefinition.
+    Damit greifen alle vorhandenen Tatbestände (Herstellung, Besitz, Veröffentlichung) automatisch auch
+    für synthetische Darstellungen. Das ist die sparsamste denkbare Umsetzung und zugleich die konsequenteste
+    Anwendung des neuseeländischen Grundsatzes, vorhandenes Recht zu nutzen.'
+  - 'Wortlaut des neuen s. 216G Abs. 1A: "intimate visual recording includes a visual recording that has
+    been created, synthesised, or altered without the knowledge or consent of the person who is the subject
+    of the recording, and appears to show the person — (a) naked or with their genitals, pubic area, buttocks,
+    or female breasts exposed, partially exposed, or clad solely in undergarments; or (b) engaged in an
+    intimate sexual activity; or (c) engaged in showering, toileting, or other personal bodily activity
+    that involves dressing or undressing."'
+  - Zusätzlich wird in s. 216G ein neuer Abs. 4 eingefügt, der den Begriff "subject" für die ss. 216G
+    und 216N definiert.
+  - 'Allgemeine Begründung: Die Verbreitung sexuell expliziter Deepfakes verletze Selbsteigentum und persönliche
+    Autonomie; die falsche Darstellung einer Person in intimem Zusammenhang sei ebenso ein Rechtsverstoss
+    wie das Verbreiten echter intimer Aufnahmen.'
+  - 'KRITIK (Technology and Law Committee der Law Association, Juni 2026): Der Entwurf enthält keinen
+    Mechanismus, mit dem Angebot, Bereitstellung oder Entwicklung von Bildgenerierungstechnologie überwacht
+    oder reguliert werden könnte; die Verantwortung werde vollständig auf die Opfer verlagert. Betreiber
+    von "Nudify"-Anwendungen blieben wirtschaftlich unbehelligt. Ausserhalb sexualisierter Deepfakes blieben
+    Identitätsbetrug, politische Täuschung und synthetische Beweismittel ungeregelt.'
+  dokumente:
+  - datum: 2025-10-23
+    typ: entwurf
+    titel: Deepfake Digital Harm and Exploitation Bill 213—1 (Member's Bill)
+    url: https://www.legislation.govt.nz/bill/member/2025/0213/latest/whole.html
+    sprache: en
+    urheber: Laura McClure MP / Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Amtlicher Entwurfstext mit allgemeiner Begründung und den Klauseln 4 und 6.
+  - datum: 2026-05-22
+    typ: konsultation
+    titel: Have your say on the Deepfake Digital Harm and Exploitation Bill
+    url: https://www3.parliament.nz/en/pb/sc/committees-press-releases/have-your-say-on-the-deepfake-digital-harm-and-exploitation-bill/
+    sprache: en
+    urheber: Social Services and Community Committee
+    verifiziert: true
+    notiz: Amtlicher Konsultationsaufruf mit Einreichungsfrist.
+  - datum: 2026-05-22
+    typ: uebersicht
+    titel: Deepfake Digital Harm and Exploitation Bill — Seite zur Einreichung
+    url: https://www3.parliament.nz/en/pb/sc/make-a-submission/document/54SCSSC_SCF_41586B19-BECE-4E53-94EB-08DE11D86E7A/deepfake-digital-harm-and-exploitation-bill
+    sprache: en
+    urheber: New Zealand Parliament
+    verifiziert: true
+    notiz: Belegt Ausschuss, Frist und Gegenstand.
+  offene_punkte:
+  - Ein Berichtstermin des Social Services and Community Committee wurde nicht aufgefunden; nach der Standardfrist
+    von sechs Monaten wäre der 20.11.2026 zu erwarten. NICHT BELEGT.
+  - Ob die Regierung den Entwurf übernimmt oder eine eigene Vorlage einbringt, ist offen.
+  - Ob eine Erklärung des Attorney-General nach s. 7 New Zealand Bill of Rights Act 1990 ergangen ist,
+    wurde nicht ermittelt.
+  monitoring_quellen:
+  - https://www.legislation.govt.nz/bill/member/2025/0213/latest/whole.html
+  - https://www.parliament.nz/en/pb/sc/scl/social-services-and-community/
+  bezug_regelwerke:
+  - nz-crimes-act-1961
+  - nz-harmful-digital-communications-act-2015
+  - nz-hrc-ai-tiriti-2026
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Der Entwurf ist der Testfall des neuseeländischen Modells und fällt zwiespältig aus.
+    Positiv: Er zeigt, dass ein Staat ohne KI-Gesetz auf eine konkrete Gefahr sehr sparsam reagieren kann
+    — eine erweiterte Definition statt eines neuen Regelungswerks, und alle vorhandenen Tatbestände greifen
+    mit. Negativ: Er erfasst ausschliesslich den Verbreiter, nicht den Technologieanbieter. Damit wiederholt
+    sich auf der Ebene der Deepfakes genau das Problem, das auf der Ebene der Emotionserkennung schon
+    der Biometrics Code hat: Neuseeland reguliert Verhalten, nicht Produkte. Für eine Rechtsordnung ohne
+    inländische Modellanbieter mag das folgerichtig sein; wirksam ist es nicht, weil die betreffenden
+    Dienste ohnehin im Ausland betrieben werden.
+
+    '
+  pruefvermerk:
+  - 'Bestaetigt: inkrafttreten null, Status verfahren. Am amtlichen Entwurfstext geprueft, dass der Entwurf
+    nach cl. 2 erst am Tag nach der Ausfertigung in Kraft traete. Kein Datum erfunden.'
+- id: nz-social-security-act-2018-adm
+  jurisdiktion: nz
+  kurztitel: Automatisierte Entscheidungen in der Sozialverwaltung (s. 363A Social Security Act 2018)
+  offizieller_titel: Social Security Act 2018, s. 363A (Use of automated electronic systems to make decisions,
+    exercise powers, comply with obligations, and take related actions), in der Fassung des Social Security
+    (Modernisation) Amendment Act 2026
+  fundstelle: Social Security Act 2018 (2018 No 32), s. 363A, eingefügt am 01.07.2023 durch s. 34 des
+    Child Support (Pass On) Acts Amendment Act 2023 (2023 No 27), geändert am 01.07.2026 durch s. 36 des
+    Social Security (Modernisation) Amendment Act 2026 (2026 No 27)
+  verfahrensnummer: Social Security (Modernisation) Amendment Bill 313—1
+  status: anwendbar
+  status_detail: 'Die einzige verbindliche neuseeländische Rechtsvorschrift zum automatisierten Verwaltungsentscheiden.
+    Die Änderungen des Jahres 2026 sind am 01.07.2026 in Kraft getreten. Der Änderungsentwurf wurde am
+    28.05.2026 eingebracht und am selben Tag in erster, zweiter und dritter Lesung sowie im Ausschuss
+    des ganzen Hauses behandelt; die königliche Zustimmung erfolgte am 05.06.2026. Ein Ausschussverfahren
+    mit öffentlichen Einreichungen fand nicht statt.
+
+    '
+  kurzbeschreibung: 'Nach s. 363A Abs. 1 kann das Ministry of Social Development den Einsatz eines automatisierten
+    elektronischen Systems durch eine benannte Person genehmigen, um im Rahmen bestimmter Vorschriften
+    Entscheidungen zu treffen, Befugnisse auszuüben, Pflichten zu erfüllen oder damit zusammenhängende
+    Handlungen vorzunehmen. Der Social Security (Modernisation) Amendment Act 2026 erweitert den Anwendungsbereich
+    auf "administrative programmes", also auf Programme der sozialen Unterstützung, die NICHT in oder
+    aufgrund von Rechtsvorschriften bestehen, und hebt den bisherigen Abs. 3 samt Überschrift auf. Die
+    Genehmigung setzt nach Abs. 4 voraus, dass das System der Kontrolle des Ressorts unterliegt, mit angemessener
+    Zuverlässigkeit arbeitet, dem genehmigten Standard entspricht und dass stets eine oder mehrere Personen
+    als Alternative zur Verfügung stehen. Nach Abs. 5 muss jederzeit ein genehmigter Standard für den
+    Einsatz automatisierter elektronischer Systeme in Kraft sein; er ist nach Abs. 6 vom Ministerium im
+    Benehmen mit dem Privacy Commissioner und der Human Rights Commission zu beschliessen, mindestens
+    alle drei Jahre zu überprüfen, im Gazette zu veröffentlichen und kostenfrei im Internet bereitzustellen.
+    Abs. 6A verlangt, dass der Standard Regelungen zu Genauigkeit und Zuverlässigkeit, Verzerrung und
+    Diskriminierung, rechtlichen und politischen Erwägungen, Betrugsaspekten, Transparenz, menschlicher
+    Aufsicht sowie Einhaltung und Sicherung enthält. Nach Abs. 7 gilt eine so getroffene Entscheidung
+    für alle Zwecke als von der zuständigen Person getroffen.
+
+    '
+  inkrafttreten:
+    datum: 2023-07-01
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2018/0032/latest/whole.html
+  anwendungsdaten:
+  - datum: 2023-07-01
+    was_gilt: Einfügung des s. 363A durch s. 34 Child Support (Pass On) Acts Amendment Act 2023.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2018/0032/latest/whole.html
+  - datum: 2026-05-28
+    was_gilt: Einbringung des Social Security (Modernisation) Amendment Bill 313—1 und Durchlauf aller
+      Lesungen an einem Tag (Dringlichkeit).
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2026/27/en/latest/
+  - datum: 2026-06-05
+    was_gilt: Königliche Zustimmung zum Social Security (Modernisation) Amendment Act 2026 (2026 No 27).
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2026/27/en/latest/
+  - datum: 2026-07-01
+    was_gilt: Inkrafttreten der Änderungen des s. 363A (Ausweitung auf administrative programmes, Aufhebung
+      des Abs. 3, Konsultationspflicht gegenüber Privacy Commissioner und Human Rights Commission).
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2026/27/en/latest/
+  - datum: 2026-09-04
+    was_gilt: Inkrafttreten der Vorschriften zum Erreichen des 18. Lebensjahres eines Kindes.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2026/27/en/latest/
+  - datum: 2026-11-30
+    was_gilt: Inkrafttreten der Vorschriften zu medizinischen Nachweisen.
+    verifiziert: true
+    quelle: https://www.legislation.govt.nz/act/public/2026/27/en/latest/
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  - governance
+  regelungsschwerpunkte:
+  - 's. 363A Abs. 1 (Wortlaut): "MSD may approve the use of an automated electronic system by a specified
+    person to make any decision, exercise any power, comply with any obligation, or take any other related
+    action under any specified provision."'
+  - 'AUSWEITUNG 2026: Die neue Begriffsbestimmung "administrative programme" erfasst Programme der sozialen
+    Unterstützung, die NICHT in oder aufgrund von Rechtsvorschriften bestehen. Damit wird automatisiertes
+    Entscheiden auf untergesetzliche Verwaltungsprogramme erstreckt — der eigentliche Kern der Änderung
+    und der Grund der Kritik.'
+  - Aufhebung des bisherigen Abs. 3 samt Überschrift (Inhalt der aufgehobenen Beschränkung nicht mehr
+    aus der konsolidierten Fassung ersichtlich).
+  - 'Abs. 4 lit. d — Vorbehalt der menschlichen Alternative: "1 or more persons are always available,
+    as an alternative, to make the decision, exercise the power, comply with the obligation, or take the
+    related action." Das ist die einzige gesetzliche Verankerung eines Rechts auf menschliche Bearbeitung
+    im neuseeländischen Recht.'
+  - Abs. 6 lit. a — der Standard ist im Benehmen mit dem Privacy Commissioner UND der Human Rights Commission
+    zu beschliessen (durch die Änderung 2026 eingefügt); Überprüfung mindestens alle drei Jahre; Veröffentlichung
+    im Gazette und kostenfrei im Internet.
+  - 'Abs. 6A — Pflichtinhalte des Standards: (a) accuracy and reliability, (b) bias and discrimination,
+    (c) legal and policy considerations, (d) fraud considerations, (e) transparency, (f) human oversight,
+    (g) compliance and assurance. Das ist der einzige verbindliche neuseeländische Pflichtenkatalog für
+    ein algorithmisches System und liest sich wie eine Kurzfassung des Art. 9 KI-VO.'
+  - 'Abs. 7 — Zurechnungsfiktion: Die automatisiert getroffene Entscheidung gilt für alle Zwecke als von
+    der zuständigen Person getroffen. Rechtsschutz richtet sich damit gegen das Ministerium wie bei jeder
+    anderen Entscheidung.'
+  - 'VERFAHRENSKRITIK: Der Entwurf durchlief alle Stadien an einem Tag (28.05.2026) ohne Ausschussverfahren
+    und ohne öffentliche Einreichungen. Die Regulatory Impact Statement war nach Angaben der Opposition
+    in wesentlichen Teilen geschwärzt. Nach Angaben des Ministeriums soll ausschliesslich regelbasiert
+    entschieden werden, nicht mit generativer KI.'
+  dokumente:
+  - datum: 2026-07-10
+    typ: konsolidiert
+    titel: Social Security Act 2018 (konsolidierte Fassung mit Stand 10.07.2026), s. 363A
+    url: https://www.legislation.govt.nz/act/public/2018/0032/latest/whole.html
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Geltende Fassung des s. 363A einschliesslich Abs. 6A (Pflichtinhalte des Standards).
+  - datum: 2026-06-05
+    typ: endfassung
+    titel: Social Security (Modernisation) Amendment Act 2026 (2026 No 27)
+    url: https://www.legislation.govt.nz/act/public/2026/27/en/latest/
+    sprache: en
+    urheber: Parliamentary Counsel Office
+    verifiziert: true
+    notiz: Änderungsgesetz mit s. 36 (Änderung des s. 363A) und der Gesetzgebungsgeschichte an einem Tag.
+  - datum: 2026-07-01
+    typ: uebersicht
+    titel: Modernising our processes (Work and Income)
+    url: https://www.workandincome.govt.nz/about-work-and-income/news/2026/modernising-our-processes.html
+    sprache: en
+    urheber: Ministry of Social Development / Work and Income
+    verifiziert: true
+    notiz: Amtliche Darstellung der Anwendungsfälle (Wiederbewilligung von Jobseeker Support, Überprüfungen,
+      Kindergeldwegfall mit 18) und der Zusicherung, keine generative KI einzusetzen.
+  offene_punkte:
+  - Der Wortlaut des aufgehobenen s. 363A Abs. 3 wurde nicht ermittelt; er ist in der konsolidierten Fassung
+    nur als "[Repealed]" ausgewiesen.
+  - Der genehmigte Standard für den Einsatz automatisierter elektronischer Systeme (Abs. 5 und 6) wurde
+    im Gazette nicht aufgesucht; sein aktueller Stand ist unbekannt.
+  - Ob Privacy Commissioner und Human Rights Commission bereits zu einer Neufassung des Standards angehört
+    wurden, ist offen.
+  monitoring_quellen:
+  - https://gazette.govt.nz/
+  - https://www.msd.govt.nz/about-msd-and-our-work/about-msd/legislation/
+  bezug_regelwerke:
+  - nz-privacy-act-2020
+  - nz-human-rights-act-1993
+  - nz-algorithm-charter-2020
+  - nz-public-service-ai-framework-2025
+  letzte_pruefung: 2026-09-06
+  eigene_bewertung: 'Dies ist der wichtigste und am wenigsten beachtete Befund der neuseeländischen Recherche.
+    Während die Regierung erklärt, KI brauche kein eigenes Gesetz, hat dasselbe Parlament am 28.05.2026
+    in einem einzigen Sitzungstag ohne Ausschussverfahren die gesetzliche Grundlage für automatisierte
+    Entscheidungen über Sozialleistungen erweitert — und zwar ausdrücklich auf Programme, die nicht in
+    Rechtsvorschriften geregelt sind. Der Vorgang ist in zweifacher Hinsicht lehrreich. Erstens zeigt
+    er, dass Neuseeland durchaus KI-bezogen legiferiert, nur eben ermöglichend statt begrenzend. Zweitens
+    enthält s. 363A Abs. 4 lit. d und Abs. 6A den einzigen verbindlichen Pflichtenkatalog des Landes für
+    ein algorithmisches System — Genauigkeit, Verzerrung und Diskriminierung, Transparenz, menschliche
+    Aufsicht — samt Anhörungsrecht von Datenschutz- und Menschenrechtsaufsicht. Wer wissen will, wie ein
+    KI-Recht ohne KI-Gesetz aussieht, findet es hier: verstreut in einem Sozialgesetz, für einen einzigen
+    Ressortbereich, beschlossen in einem Tag.
+
+    '

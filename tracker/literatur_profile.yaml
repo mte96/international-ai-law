@@ -1,0 +1,301 @@
+# Suchprofile der Literaturpipeline.
+#
+# Ein Profil je Themenachse (breit, alle 14 Tage) und je Streitstand
+# (eng, woechentlich). Die Streitstandprofile sind die wertvollen: Sie
+# finden genau das, was die offenen Rechtsfragen betrifft.
+#
+# Neue Profile einfach anhaengen. `dienste` waehlt die Schnittstellen:
+#   openalex  - 250 Mio. Werke, beste Metadaten, Standardwahl
+#   crossref  - DOI-Register, faengt Verlagsveroeffentlichungen
+#   arxiv     - Preprints an der Schnittstelle Technik/Recht
+#   dnb       - Deutsche Nationalbibliothek, Dissertationen und Monografien
+
+profile:
+- id: achse-marktzugang
+  name: Marktzugang und Produktregulierung
+  suche: AI Act conformity assessment high-risk AI system market surveillance
+  themenachsen:
+  - marktzugang
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-gpai
+  name: GPAI und Basismodelle
+  suche: general purpose AI foundation model regulation systemic risk transparency
+  themenachsen:
+  - gpai
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-urheberrecht
+  name: Urheberrecht und Trainingsdaten
+  suche: generative AI copyright training data text and data mining fair use
+  themenachsen:
+  - urheberrecht
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-datenschutz
+  name: Datenschutz und automatisierte Entscheidungen
+  suche: artificial intelligence data protection GDPR automated decision-making
+  themenachsen:
+  - datenschutz
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-haftung
+  name: Haftung
+  suche: artificial intelligence liability product liability algorithmic harm
+  themenachsen:
+  - haftung
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-grundrechte
+  name: Grundrechte und Diskriminierung
+  suche: algorithmic discrimination fundamental rights AI bias fairness law
+  themenachsen:
+  - grundrechte
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-sektor-medizin
+  name: Gesundheit und Medizinprodukte
+  suche: artificial intelligence medical devices regulation clinical software law
+  themenachsen:
+  - sektor-medizin
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-sektor-finanz
+  name: Finanzdienstleistungen
+  suche: artificial intelligence financial services regulation algorithmic trading law
+  themenachsen:
+  - sektor-finanz
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-sektor-oeffentlich
+  name: Öffentliche Verwaltung und Justiz
+  suche: artificial intelligence public administration automated decision government
+  themenachsen:
+  - sektor-oeffentlich
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-berufsrecht
+  name: Anwaltliches Berufsrecht und KI in Gerichtsverfahren
+  suche: artificial intelligence legal profession courts hallucination sanctions ethics
+  themenachsen:
+  - berufsrecht
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-sicherheit-export
+  name: Sicherheit, Exportkontrolle und Dual Use
+  suche: AI export control compute governance model weights national security
+  themenachsen:
+  - sicherheit-export
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-wettbewerb
+  name: Wettbewerb und Marktmacht
+  suche: algorithmic pricing collusion antitrust artificial intelligence competition
+  themenachsen:
+  - wettbewerb
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-arbeit
+  name: Arbeitsrecht und Mitbestimmung
+  suche: artificial intelligence employment law workplace monitoring algorithmic management
+  themenachsen:
+  - arbeit
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-content
+  name: Content, Deepfakes, Wahlen und Kennzeichnung
+  suche: deepfake synthetic media law labelling provenance election disinformation
+  themenachsen:
+  - content
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-vertrag
+  name: Vertragsgestaltung und Beschaffung
+  suche: AI contract clauses procurement value chain allocation liability
+  themenachsen:
+  - vertrag
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: achse-governance
+  name: Governance, Normung und Compliance-Praxis
+  suche: AI governance standards ISO 42001 conformity auditing compliance
+  themenachsen:
+  - governance
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: streit-fair-use-training
+  name: Fair Use beim Training generativer Modelle
+  suche: fair use large language model training copyright transformative
+  themenachsen:
+  - urheberrecht
+  - gpai
+  streitstaende:
+  - fair-use-training
+  dienste:
+  - openalex
+  - arxiv
+  - crossref
+  intervall_tage: 7
+- id: streit-tdm-schranke-de
+  name: Reichweite der deutschen TDM-Schranke beim KI-Training
+  suche: Text und Data Mining Schranke Urheberrecht KI Training Nutzungsvorbehalt
+  themenachsen:
+  - urheberrecht
+  streitstaende:
+  - tdm-schranke-de
+  dienste:
+  - openalex
+  - arxiv
+  - crossref
+  intervall_tage: 7
+- id: streit-schutzfaehigkeit-output
+  name: Schutzfähigkeit KI-generierter Erzeugnisse
+  suche: copyrightability AI generated works human authorship protection
+  themenachsen:
+  - urheberrecht
+  streitstaende:
+  - schutzfaehigkeit-output
+  dienste:
+  - openalex
+  - arxiv
+  - crossref
+  intervall_tage: 7
+- id: streit-preisalgorithmen-kartell
+  name: Gemeinsame Algorithmusnutzung als Kartellabsprache
+  suche: algorithmic pricing hub and spoke conspiracy Sherman Act
+  themenachsen:
+  - wettbewerb
+  streitstaende:
+  - preisalgorithmen-kartell
+  dienste:
+  - openalex
+  - arxiv
+  - crossref
+  intervall_tage: 7
+- id: streit-chatbot-output-speech
+  name: Ist der Output eines Sprachmodells geschützte Rede?
+  suche: chatbot output First Amendment speech product liability AI
+  themenachsen:
+  - haftung
+  - grundrechte
+  - content
+  streitstaende:
+  - chatbot-output-speech
+  dienste:
+  - openalex
+  - arxiv
+  - crossref
+  intervall_tage: 7
+- id: streit-ki-csam-besitz
+  name: Strafbarkeit des Besitzes rein KI-generierter Missbrauchsdarstellungen
+  suche: AI generated child sexual abuse material criminal law possession
+  themenachsen:
+  - content
+  - grundrechte
+  streitstaende:
+  - ki-csam-besitz
+  dienste:
+  - openalex
+  - arxiv
+  - crossref
+  intervall_tage: 7
+- id: streit-modellgewichte-kopie
+  name: Sind Modellgewichte eine Vervielfältigung?
+  suche: model weights memorization copyright reproduction neural network
+  themenachsen:
+  - urheberrecht
+  - gpai
+  streitstaende:
+  - modellgewichte-kopie
+  dienste:
+  - openalex
+  - arxiv
+  - crossref
+  intervall_tage: 7
+- id: de-monografien
+  name: Deutschsprachige Monografien und Dissertationen
+  suche: Künstliche Intelligenz Recht
+  themenachsen:
+  - governance
+  dienste:
+  - dnb
+  intervall_tage: 30
+- id: de-aufsaetze
+  name: Deutschsprachige Aufsätze
+  suche: Künstliche Intelligenz Regulierung Haftung Urheberrecht KI-Verordnung
+  themenachsen:
+  - governance
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: technisch
+  name: Technische Grundlagen mit Rechtsbezug
+  suche: memorization extraction training data large language model evaluation
+  themenachsen:
+  - gpai
+  - urheberrecht
+  dienste:
+  - arxiv
+  - openalex
+  intervall_tage: 14
+- id: welt-neue-gesetze
+  name: Neue KI-Gesetze weltweit
+  suche: national artificial intelligence law adopted parliament enacted
+  themenachsen:
+  - governance
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 7
+- id: welt-vergleichend
+  name: Rechtsvergleichende Länderstudien
+  suche: comparative artificial intelligence regulation country national approach
+  themenachsen:
+  - governance
+  dienste:
+  - openalex
+  - crossref
+  intervall_tage: 14
+- id: welt-globaler-sueden
+  name: KI-Regulierung im globalen Süden
+  suche: artificial intelligence regulation Africa Latin America Southeast Asia governance
+  themenachsen:
+  - governance
+  - grundrechte
+  dienste:
+  - openalex
+  - arxiv
+  intervall_tage: 14

@@ -1,0 +1,174 @@
+# Gepflegte Datenbasis.
+fristen:
+- datum: offen (Termin nicht veröffentlicht)
+  id: commonwealth-termin-t1
+  beschreibung: 'Court of Appeal (England und Wales) — Getty Images ./. Stability AI, Berufung gegen die
+    Abweisung der mittelbaren Urheberrechtsverletzung. Erstinstanzliches Urteil: [2025] EWHC 2863 (Ch)
+    vom 04.11.2025, Mrs Justice Joanna Smith, High Court of Justice, Business and Property Courts, Intellectual
+    Property List. Die Zulassung der Berufung wurde im Dezember 2025 erteilt. Ein Verhandlungstermin ist
+    zum 05.09.2026 weder auf der amtlichen Entscheidungsseite der Judiciary noch sonst veröffentlicht;
+    die frühere Angabe "später im Jahr 2026" stammt aus der Fachpresse und ist kein Termin.
+
+    '
+  urteil: uk-2025-getty-stability
+  jurisdiktion: uk
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.judiciary.uk/judgments/getty-images-v-stability-ai/
+  fundstelle_norm: 'Kein Stichtag. Bezugsentscheidung: Getty Images (US) Inc u.a. ./. Stability AI Ltd,
+    [2025] EWHC 2863 (Ch) vom 04.11.2025'
+- datum: offen (Termin nicht veröffentlicht)
+  id: commonwealth-termin-t2
+  beschreibung: 'Court of Appeal (England und Wales) — Clearview AI Inc ./. Information Commissioner.
+    Vorinstanz: The Information Commissioner ./. Clearview AI Incorporated (Privacy International intervening),
+    [2025] UKUT 319 (AAC); das Upper Tribunal gab dem Rechtsmittel des Information Commissioner statt
+    und bejahte die Zuständigkeit nach der UK-DSGVO. Das Upper Tribunal hat Clearview am 19.12.2025 die
+    Berufung zum Court of Appeal zugelassen. Ein Verhandlungstermin ist zum 05.09.2026 nicht veröffentlicht.
+
+    '
+  urteil: uk-2025-clearview-ut
+  jurisdiktion: uk
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://caselaw.nationalarchives.gov.uk/ukut/aac/2025/319
+  fundstelle_norm: 'Kein Stichtag. Bezugsentscheidung: [2025] UKUT 319 (AAC); Zulassung der Berufung durch
+    das Upper Tribunal am 19.12.2025'
+- datum: offen
+  id: commonwealth-termin-t3
+  beschreibung: 'First-tier Tribunal (General Regulatory Chamber) — Zurückverweisung in Sachen Clearview
+    nach der Entscheidung des Upper Tribunal [2025] UKUT 319 (AAC): Sachentscheidung über das Bußgeld
+    von 7.552.800 GBP und die Enforcement Notice des Information Commissioner. Ein Termin ist zum 05.09.2026
+    nicht veröffentlicht; das Tribunal gibt Termine anhängiger Verfahren nicht bekannt.
+
+    '
+  urteil: uk-2025-clearview-ut
+  jurisdiktion: uk
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/10/uk-upper-tribunal-hands-down-judgment-on-clearview-ai-inc/
+  fundstelle_norm: 'Kein Stichtag. Bezugspunkt: Zurückverweisung durch das Upper Tribunal, [2025] UKUT
+    319 (AAC); amtliche Mitteilung des Information Commissioner'
+- datum: offen
+  id: commonwealth-termin-t4
+  beschreibung: 'Ontario Superior Court of Justice — Toronto Star Newspapers Ltd u.a. ./. OpenAI: Hauptsache
+    nach Zurückweisung der Zuständigkeitsrüge durch Toronto Star Newspapers Limited v. OpenAI Inc., 2025
+    ONSC 4685. Erste mögliche Common-Law-Sachentscheidung zum Urheberrecht an Trainingsdaten. Ein Termin
+    ist zum 05.09.2026 nicht veröffentlicht.
+
+    '
+  urteil: ca-2025-canadian-news-openai
+  jurisdiktion: ca
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.canlii.org/en/on/onsc/doc/2025/2025onsc4685/2025onsc4685.html
+  fundstelle_norm: 'Kein Stichtag. Bezugsentscheidung: Toronto Star Newspapers Limited v. OpenAI Inc.,
+    2025 ONSC 4685 (Zuständigkeit bejaht)'
+- datum: 2026-12-10
+  id: commonwealth-termin-t5
+  beschreibung: 'Australien — Inkrafttreten der Transparenzpflicht für automatisierte Entscheidungen (APP
+    1.7 Privacy Act 1988 (Cth)): Datenschutzerklärungen müssen offenlegen, welche Arten personenbezogener
+    Daten in automatisierte Entscheidungen einfließen und welche Arten von Entscheidungen ausschließlich
+    automatisiert getroffen oder maßgeblich vorbereitet werden. Der Stichtag folgt aus der Commencement-Tabelle
+    des Änderungsgesetzes: Schedule 1 Part 15 des Privacy and Other Legislation Amendment Act 2024 tritt
+    am Tag nach Ablauf von 24 Monaten seit dem Royal Assent vom 10.12.2024 in Kraft. Das ist die unmittelbare
+    gesetzgeberische Antwort auf Robodebt.
+
+    '
+  urteil: au-2023-robodebt-royal-commission
+  jurisdiktion: au
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://www.legislation.gov.au/C2024A00128/asmade
+  fundstelle_norm: 'Privacy and Other Legislation Amendment Act 2024 (Cth), Nr. 128 von 2024, s 2 (Commencement-Tabelle)
+    für Schedule 1 Part 15 "Automated decisions and privacy policies": "The day after the end of the period
+    of 24 months beginning on the day this Act receives the Royal Assent"; Royal Assent am 10.12.2024,
+    daraus 10.12.2026. Eingefügte Norm: APP 1.7 in Schedule 1 zum Privacy Act 1988 (Cth)'
+- datum: offen
+  id: commonwealth-termin-t6
+  beschreibung: 'Supreme Court of Western Australia — Erlass einer Practice Direction zur künstlichen
+    Intelligenz. Das Gericht hat dazu bisher nur eine Konsultationsnotiz veröffentlicht ("Artificial Intelligence
+    practice direction: Consultation note"), in der es erklärt, den Erlass einer Practice Direction zu
+    erwägen, und zu Fragen der Regulierung generativer KI durch die Anwaltschaft um Stellungnahme bittet;
+    die Stellungnahmefrist lief am 31.03.2025 ab. Zum 05.09.2026 ist keine Practice Direction erlassen
+    — das Dokument ist ausdrücklich keine verbindliche Regelung. FÜR PERTH LAUFEND ZU PRÜFEN.
+
+    '
+  urteil: au-2025-scwa-consultation
+  jurisdiktion: au
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://www.supremecourt.wa.gov.au/_files/AI_practice_direction.pdf
+  fundstelle_norm: Kein Stichtag. Konsultationsnotiz des Supreme Court of Western Australia zu einer möglichen
+    Practice Direction zu künstlicher Intelligenz, Stellungnahmefrist bis 31.03.2025; keine Practice Direction
+    erlassen
+- datum: offen (Überarbeitung angekündigt)
+  id: commonwealth-termin-t7
+  beschreibung: 'Supreme Court of New South Wales — Überarbeitung der Practice Note SC Gen 23 zu generativer
+    künstlicher Intelligenz. In Kraft ist weiterhin die am 28.01.2025 geänderte Fassung; nach ihrer Klausel
+    26 wird die Practice Note wegen der raschen Entwicklung regelmäßig überprüft. Der Chief Justice hat
+    die Anwaltschaft um Stellungnahmen zur Überarbeitung gebeten; die Frist lief am 18.12.2025 ab. Eine
+    überarbeitete Fassung ist zum 05.09.2026 nicht veröffentlicht.
+
+    '
+  urteil: au-2024-nsw-pn-sc-gen-23
+  jurisdiktion: au
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: false
+  quelle: https://supremecourt.nsw.gov.au/content/dcj/ctsd/supreme-court/supreme-court-home/practice-procedure/generative-artificial-intelligence.html
+  fundstelle_norm: Kein Stichtag. Practice Note SC Gen 23 (Use of Generative Artificial Intelligence)
+    in der Fassung vom 28.01.2025, Klausel 26 (regelmäßige Überprüfung); Stellungnahmefrist des Chief
+    Justice bis 18.12.2025
+- datum: vierteljährlich ab 06.05.2026
+  id: commonwealth-termin-t8
+  beschreibung: 'Kanada — In der gemeinsamen Untersuchung der Datenschutzaufsichtsbehörden von Kanada,
+    Québec, British Columbia und Alberta zu ChatGPT (PIPEDA Findings #2026-002 vom 06.05.2026) hat OpenAI
+    zehn Maßnahmen zugesagt und sich verpflichtet, den Behörden vierteljährlich Bericht zu erstatten:
+    "It will provide the Offices with quarterly reports to confirm and demonstrate, with detailed submissions
+    and corroborating evidence, compliance with the above commitments until all have been met." Die Berichtspflicht
+    endet nicht zu einem festen Datum, sondern mit der vollständigen Umsetzung. Für einzelne Zusagen laufen
+    gestufte Fristen von drei Monaten (erweiterte Transparenzangaben, Hinweis vor der Anmeldung) und sechs
+    Monaten (verbessertes Datenexportformat, Erprobung von Kinderschutzmaßnahmen, Bestätigung der Aufbewahrungspolitik
+    für Altdatenbestände) ab Veröffentlichung der Feststellungen.
+
+    '
+  urteil: ca-2026-opc-openai
+  jurisdiktion: ca
+  typ: sonstiges
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  verifiziert: true
+  quelle: https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-002-overview/
+  fundstelle_norm: 'PIPEDA Findings #2026-002 vom 06.05.2026 (gemeinsame Untersuchung des Office of the
+    Privacy Commissioner of Canada mit den Aufsichtsbehörden von Québec, British Columbia und Alberta),
+    Zusagen von OpenAI: vierteljährliche Berichte bis zur vollständigen Umsetzung; gestufte Fristen von
+    drei und sechs Monaten'

@@ -1,0 +1,1805 @@
+literatur:
+- id: 2021-vanbekkum-borgesius-syri
+  typ: aufsatz
+  autoren:
+  - van Bekkum, Marvin
+  - Zuiderveen Borgesius, Frederik
+  titel: Digital Welfare Fraud Detection and the Dutch SyRI Judgment
+  fundstelle: European Journal of Social Security 23 (2021), 323–340; arXiv:2509.23843
+  jahr: 2021
+  sprache: en
+  doi: 10.1177/13882627211031257
+  url: https://arxiv.org/abs/2509.23843
+  zugang: open-access
+  jurisdiktionen:
+  - nl
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  kernthese: Das SyRI-Urteil erklärt die niederländische Sozialbetrugsaufdeckung wegen Verstoßes gegen
+    Art. 8 EMRK für rechtswidrig, weil es an Transparenz und Nachprüfbarkeit fehlte; der Rechtssatz ist
+    schmal, die Signalwirkung erheblich.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der maßgebliche Aufsatz zum ersten europäischen Urteil, das ein staatliches Risikoprofilierungssystem
+    gestoppt hat, und die notwendige Ergänzung zur deutschen Debatte um § 35a VwVfG: Das Gericht stützte
+    sich nicht auf Datenschutzrecht, sondern auf Art. 8 EMRK, und die tragende Erwägung war die fehlende
+    Erkennbarkeit des Risikomodells. Für Palantir-artige Verbundsysteme in Deutschland ist das der unmittelbare
+    Maßstab — der Bezug zur Entscheidung des BVerfG vom 16.02.2023 (1 BvR 1547/19, automatisierte Datenanalyse)
+    liegt auf der Hand und wird von den Autoren nicht gezogen, weil sie vorher schreiben. Wichtige Einschränkung,
+    die die Autoren selbst betonen: Das Urteil beanstandet nicht die Automatisierung, sondern die Intransparenz.
+    Wer es als Verbot algorithmischer Verwaltung liest, überzieht. Zeitschriftenfassung bei Sage (Bot-Sperre),
+    geprüft ist die 2025 hinterlegte arXiv-Fassung.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-hannah-botterill-avoiding-the-brakes
+  typ: aufsatz
+  autoren:
+  - Hannah, Adam
+  - Botterill, Linda Courtenay
+  titel: 'Avoiding the Brakes: Malign Policy and Legal Advice in the Robodebt Scandal'
+  fundstelle: Policy and Society 44 (2025), Heft 2, 229–241
+  jahr: 2025
+  sprache: en
+  doi: 10.1093/polsoc/puaf018
+  url: https://academic.oup.com/policyandsociety/article/44/2/229/8246832
+  zugang: open-access
+  jurisdiktionen:
+  - au
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - au-adm-reform-robodebt
+  - au-social-security-act-1991
+  kernthese: 'Robodebt scheiterte nicht an der Technik, sondern an der Organisation: Rechtsrat wurde von
+    Nichtjuristen gefiltert, unterdrückt und umgedeutet, und die Hausjuristen hatten keine institutionelle
+    Stellung, um das zu verhindern.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der wichtigste Text zum wichtigsten Fall automatisierten Verwaltungsversagens — und
+    der einzige, der die richtige Lehre zieht. Robodebt war kein Algorithmenproblem: Das "Averaging" der
+    Einkommensdaten war rechtswidrig, bevor es automatisiert wurde; die Automatisierung hat den Rechtsverstoß
+    nur skaliert und die Beweislast faktisch umgekehrt. Für die deutsche Diskussion um § 35a VwVfG folgt
+    daraus die unangenehme Frage, die niemand stellt: Die Norm verlangt, dass kein Ermessen und kein Beurteilungsspielraum
+    besteht — sie sagt nichts darüber, ob die zugrunde liegende Rechtsauffassung zutrifft. Genau daran
+    ist Robodebt gescheitert. Der Aufsatz ist politikwissenschaftlich, nicht rechtsdogmatisch; die juristische
+    Übersetzung fehlt und ist eine Publikationsmöglichkeit. Frei zugänglich, CC BY-NC.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - au-social-security-act-1991-s-1223
+  - au-social-security-administration-act-1999-s-6a
+  - au-public-service-act-1999-s-13
+- id: 2025-pavlidis-kastanas-algorithmic-administration
+  typ: aufsatz
+  autoren:
+  - Pavlidis, Georgios
+  - Kastanas, Ioannis
+  titel: 'Algorithmic Administration and the EU AI Act: Legal Principles for Public Sector Use of AI'
+  fundstelle: Journal of Ethics and Legal Technologies 7 (2025), Heft 2, 59–79; arXiv:2604.22765
+  jahr: 2025
+  sprache: en
+  url: https://arxiv.org/abs/2604.22765
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Die KI-Verordnung überschneidet sich mit den Grundsätzen des Verwaltungsrechts — Ermessen,
+    Begründungspflicht, Verhältnismäßigkeit —, ohne sie zu adressieren; der risikobasierte Ansatz bildet
+    die verwaltungsrechtliche Verhältnismäßigkeit nur unvollkommen ab.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste verfügbare Text zur Schnittstelle von KI-VO und Verwaltungsrecht und ein
+    guter Beleg für den Zustand des Feldes: Er kommt aus Griechenland, erscheint in einer kleinen Zeitschrift
+    und wird über arXiv verbreitet, weil es keinen etablierten Ort für diese Frage gibt. Inhaltlich am
+    wichtigsten ist die Begründungspflicht: Art. 86 KI-VO gewährt ein Recht auf Erläuterung der Einzelfallentscheidung,
+    aber nur bei Systemen des Anhangs III und nur bei Entscheidungen mit erheblichen Auswirkungen — der
+    deutsche § 39 VwVfG verlangt mehr, was zu der bislang unbeantworteten Frage führt, ob eine Begründung,
+    die das Modell nicht erklären kann, formell ordnungsgemäß ist. Für die deutsche Dogmatik zu wenig
+    ausgearbeitet, als Ausgangspunkt brauchbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-86
+- id: 2023-guckelberger-ki-oeffentliche-verwaltung
+  typ: aufsatz
+  autoren:
+  - Guckelberger, Annette
+  titel: Künstliche Intelligenz in der Öffentlichen Verwaltung
+  fundstelle: Universitätsverlag Göttingen 2023, 64–88
+  jahr: 2023
+  sprache: de
+  doi: 10.17875/gup2023-2495
+  url: https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-612-7.2/muriel_spindler_02_guckelberger.pdf?sequence=1&isAllowed=y
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - de-automatisierter-verwaltungsakt
+  - ki-vo-2024-1689
+  kernthese: Der vollautomatisierte Verwaltungsakt nach § 35a VwVfG ist auf gebundene Entscheidungen beschränkt;
+    lernende Systeme lassen sich deshalb nur als Entscheidungsvorbereitung einsetzen, was die Frage nach
+    der Verantwortung des entscheidenden Amtswalters verschärft statt löst.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche deutsche Verwaltungsrechtlerin zu dieser Frage, und einer der wenigen
+    ihrer Beiträge, die frei zugänglich sind — die einschlägigen Aufsätze in DÖV, NVwZ und VerwArch stehen
+    hinter beck-online. Der Kern ist die Scheinlösung, die § 35a VwVfG anbietet: Wer das lernende System
+    zur Vorbereitung einsetzt und den Menschen entscheiden lässt, hat die Automatisierungsschranke formal
+    gewahrt und materiell nichts gewonnen, weil die Übernahme des Vorschlags ohne eigene Sachprüfung genau
+    der Fall ist, den die Norm verhindern soll. Das ist dieselbe Struktur wie beim automation bias in
+    Art. 14 KI-VO, und die Verbindung zieht Guckelberger nicht. Stand 2023, also vor Anwendbarkeit der
+    KI-VO; die dortigen Aussagen zum Unionsrecht sind zu aktualisieren.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-14
+  - vwvfg-24
+  - vwvfg-35a
+  - vwvfg-39
+- id: 2019-zalnieriute-bennettmoses-williams-rule-of-law
+  typ: aufsatz
+  autoren:
+  - Zalnieriute, Monika
+  - Bennett Moses, Lyria
+  - Williams, George
+  titel: The Rule of Law and Automation of Government Decision-Making
+  fundstelle: The Modern Law Review 82 (2019), 425
+  jahr: 2019
+  sprache: en
+  doi: 10.1111/1468-2230.12412
+  ssrn_id: '3348831'
+  zugang: open-access
+  jurisdiktionen:
+  - au
+  - uk
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  kernthese: 'Automatisierung staatlicher Entscheidungen wirkt auf die Rechtsstaatlichkeit ambivalent:
+    Sie erhöht Konsistenz und Vorhersehbarkeit, senkt aber Transparenz, Begründbarkeit und Anfechtbarkeit
+    — die Bilanz hängt vom Systemtyp ab, nicht von der Automatisierung als solcher.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der begrifflich sauberste Text des Kapitels und der einzige, der die Rechtsstaatlichkeitsfrage
+    in prüfbare Einzelkriterien zerlegt, statt sie zu beschwören. Er ist vor Robodebts Aufarbeitung geschrieben
+    und liest sich rückblickend als Prognose. Für den deutschen Leser wertvoll wegen der Unterscheidung
+    zwischen regelbasierten Systemen (Konsistenzgewinn, geringes Transparenzproblem) und lernenden Systemen
+    (umgekehrt) — eine Unterscheidung, die § 35a VwVfG nicht trifft und die KI-VO nur über den Risikobegriff
+    annähert. Zeitschrift bei Wiley (Verlagsseite beantwortet automatisierte Abrufe mit 403); SSRN-Fassung
+    frei, nicht maschinell abrufbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-ameen-judicial-review-algorithmic
+  typ: aufsatz
+  autoren:
+  - Ameen, Khalid Saleem
+  - Towfiq, Tavga Abbas
+  - Mousa, Kawar Mohammed
+  - Pooyanmehr, Mahrokh
+  titel: 'Judicial Review of Algorithmic Administrative Systems: Legality, Evidence and Remedies in the
+    Smart City State'
+  fundstelle: Frontiers in Artificial Intelligence 9 (2026), Art. 1802986, 13.04.2026
+  jahr: 2026
+  sprache: en
+  doi: 10.3389/frai.2026.1802986
+  url: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1802986/full
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  kernthese: 'Der Rechtsschutz gegen algorithmische Verwaltungsentscheidungen scheitert weniger an der
+    Klagebefugnis als am Beweisrecht: Ohne Zugang zu Modell, Trainingsdaten und Schwellenwerten kann der
+    Kläger die Rechtswidrigkeit nicht darlegen.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen, weil es der aktuellste Text zur Rechtsschutzfrage ist und die richtige
+    Diagnose stellt — die Parallele zum Haftungsrecht (Kap. I: Beweisnot bei opaken Systemen) ist exakt,
+    und beide Debatten laufen unverbunden nebeneinander. Wer die Verbindung herstellt, hat einen Aufsatz.
+    Der brauchbarste Einzelvorschlag ist die abgestufte Offenlegung ("tiered access") — Modellzugang für
+    das Gericht, nicht für die Öffentlichkeit —, was strukturell dem in-camera-Verfahren des § 99 Abs.
+    2 VwGO entspricht und dessen Übertragung auf Modellparameter naheliegt. Einschränkung: Die Verfasser
+    sind Völkerrechtler und Betriebswirte an Universitäten in Nordzypern, das Bezugsrecht ist common law,
+    und Frontiers hat eine umstrittene Begutachtungspraxis. Als Ideengeber brauchbar, als Autorität nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-rohrbach-automatisierte-datenanalyse
+  typ: blogbeitrag
+  autoren:
+  - Rohrbach, Lena
+  titel: 'Wegducken vor den Fragen des digitalen Zeitalters: Die automatisierte Datenanalyse braucht menschenrechtliche
+    Grenzen, weil menschliche Grenzen obsolet werden'
+  fundstelle: Verfassungsblog, 31.08.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-automatisierter-verwaltungsakt
+  kernthese: Die Gesetzentwürfe zur automatisierten Datenanalyse bei den Bundespolizeibehörden enthalten
+    keine wirksamen Vorkehrungen gegen algorithmische Diskriminierung, überschätzen die menschliche Aufsicht
+    und geben den Verdachtsbezug preis.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der aktuellste deutsche Text dieser Liste (31.08.2026) und der einzige, der die Diskriminierungsfrage
+    im Sicherheitsrecht stellt — dem Bereich, in dem sie praktisch am folgenreichsten und rechtlich am
+    schlechtesten geregelt ist, weil die KI-VO für Strafverfolgung weitreichende Ausnahmen kennt und das
+    AGG dort ohnehin nicht gilt. Die Kritik an der menschlichen Aufsicht ist der stärkste Punkt und deckt
+    sich mit dem, was Kapitel VIII zum Automatisierungsbias sagt: Ein Beamter, der einen Trefferhinweis
+    bestätigt, prüft nicht, er nickt ab. Rohrbach ist bei Amnesty International; der Text ist Advocacy
+    und als solche zu lesen, aber er benennt die Normen und die Fundstellen. Anschlusspunkt ist die Entscheidung
+    des BVerfG vom 16.02.2023 (1 BvR 1547/19), die Rohrbach als Maßstab nimmt und deren Diskriminierungsdimension
+    das Gericht selbst nicht ausgeführt hat — dort liegt eine Publikationsmöglichkeit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gg-art-2-abs-1
+  - gg-art-3-abs-3
+- id: 2024-schoendorf-haubold-giogios-ki-sicherheit
+  typ: blogbeitrag
+  autoren:
+  - Schöndorf-Haubold, Bettina
+  - Giogios, Christopher
+  titel: KI im Einsatz für die Sicherheit
+  fundstelle: Verfassungsblog, 10.12.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/ki-im-einsatz-fur-die-sicherheit/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-automatisierte-datenanalyse-polizei
+  kernthese: Die KI-VO greift nicht unzulässig in die mitgliedstaatliche Zuständigkeit für die nationale
+    Sicherheit ein, weil sie auf Art. 114 und Art. 16 Abs. 2 AEUV gestützt ist, und sie lässt den Mitgliedstaaten
+    über Art. 5 Abs. 5 Raum für strengere Standards.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die kompetenzrechtliche Grundfrage des deutschen Sicherheitsrechts unter der KI-VO,
+    in der frei zugänglichen Literatur sonst nirgends so knapp beantwortet. Wichtig, weil die Gegenposition
+    — Art. 4 Abs. 2 EUV sperre die Unionsregelung — in Anhörungen zu den Landespolizeigesetzen immer wieder
+    vorgetragen wird. Schöndorf-Haubold entkräftet sie mit der Binnenmarkt- und Datenschutzkompetenz;
+    das ist dogmatisch solide, aber sie unterschätzt, wie weit die Bereichsausnahme des Art. 2 Abs. 3
+    KI-VO für die nationale Sicherheit tatsächlich trägt. Der Text ist vom Dezember 2024 und kennt weder
+    das KI-MIG noch die Omnibus-Fristen. Ergänzt Beck; ersetzt es nicht, weil die Kompetenzdiskussion
+    in den Kommentaren seither weitergegangen ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-2-abs-3
+  - ki-vo-art-5-abs-5
+- id: 2024-buchmann-kugelmann-big-brother
+  typ: blogbeitrag
+  autoren:
+  - Buchmann, Antonia
+  - Kugelmann, Dieter
+  titel: Big Brother Is Analyzing You. Die KI-Verordnung als Maßstab für die automatisierte Datenanalyse
+  fundstelle: Verfassungsblog, 11.12.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/big-brother-is-analyzing-you/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-automatisierte-datenanalyse-polizei
+  - dsgvo-schnittstelle
+  kernthese: Automatisierte Datenanalyse durch Sicherheitsbehörden ist regelmäßig Hochrisiko-KI nach Anhang
+    III, und der Gesetzgeber sollte die Anforderungen an Transparenz, Dokumentation und menschliche Aufsicht
+    bereits jetzt umsetzen, statt die Übergangsfristen abzuwarten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Geschrieben aus der Aufsichtsbehörde — Kugelmann ist Landesbeauftragter für den Datenschutz
+    in Rheinland-Pfalz —, und das ist der Wert: eine Behördenposition zur Frage, wie KI-VO, DSGVO und
+    JI-Richtlinie beim Polizeieinsatz übereinanderliegen. Die stärkste Passage ist die zur menschlichen
+    Aufsicht, die nach Auffassung der Autoren mehr verlangt als die Kontrolle des Ergebnisses. Die Empfehlung,
+    nicht auf die Fristen zu warten, hat sich nach der Omnibus-Verschiebung auf Dezember 2027 in ihr Gegenteil
+    verkehrt: Die Behörden warten. Der Text bleibt lesenswert als Maßstab, nicht als Zeitplan. Ergänzt
+    Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - hsog-25a
+  - ki-vo-art-14
+  - ki-vo-art-6-abs-2
+- id: 2026-trapp-vermessung-des-verdachts
+  typ: blogbeitrag
+  autoren:
+  - Trapp, Jana
+  titel: Die Vermessung des Verdachts. Automatisierte Datenanalyse und die neue Sicherheitsarchitektur
+  fundstelle: Verfassungsblog, 26.08.2026 (Einführung zum gleichnamigen Symposium)
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/automatisierte-datenanalyse-palantir-sicherheitsrecht/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  - datenschutz
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  bezug_urteile:
+  - de-2023-hessendata-bverfg
+  kernthese: Wo der Staat seine Analysefähigkeit an private Anbieter auslagert, gibt er die Kontrolle
+    darüber ab, wie staatliche Institutionen Wirklichkeit wahrnehmen und Prioritäten setzen — und damit
+    eine Frage demokratischer Zurechenbarkeit, nicht bloß des Datenschutzes.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Einführungstext zu dem Symposium, das im Spätsommer 2026 die deutsche Debatte
+    über automatisierte Datenanalyse strukturiert hat, und zugleich der Zugang zu allen weiteren Beiträgen
+    dieser Reihe (Bergemann/Kinz, Rohrbach, Struck/Bürkert). Warum Pflicht: Weil hier die Bundesgesetzgebung
+    von 2026 — § 9b BKAG-E, §§ 98d bis 98e StPO-E — zum ersten Mal in einen Zusammenhang gestellt wird,
+    der über die Einzelnorm hinausgeht, und weil das Verfassungsblog für dieses Thema die vollständige
+    Sammlung der frei zugänglichen deutschen Beiträge bereithält, die es sonst nirgends gibt. Trapp verlagert
+    die Frage vom Datenschutz zur Souveränität: Nicht ob die Daten geschützt sind, sondern wer bestimmt,
+    wie der Staat sieht. Angreifbar ist genau diese Verlagerung — sie ist rhetorisch stark, dogmatisch
+    aber unbestimmt, weil das Grundgesetz für Wahrnehmungshoheit keinen Maßstab bereithält. Ausdrücklich
+    zu ergänzen um die Gegenposition, dass die Alternative zu Palantir nicht die analoge Polizei ist,
+    sondern eine schlechtere Software; das trägt Struck/Bürkert vor. Ersetzt Beck nicht — es gibt zu diesem
+    Gesetzgebungsvorhaben schlicht noch keine Kommentarliteratur, weder frei noch bezahlt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - hsog-25a
+- id: 2026-bergemann-kinz-analyse-vergisst-nichts
+  typ: blogbeitrag
+  autoren:
+  - Bergemann, Nils
+  - Kinz, Christoph
+  titel: Die Analyse vergisst nichts
+  fundstelle: Verfassungsblog, 01.09.2026 (Symposium 'Die Vermessung des Verdachts')
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/palantir-grundrechtseingriff/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  bezug_urteile:
+  - de-2023-hessendata-bverfg
+  kernthese: Das BVerfG hat in HessenDATA zwei Stellschrauben zur Steuerung der Eingriffsintensität benannt
+    — Analysemethode und Datenbestand —, und die Entwürfe von 2026 nutzen die zweite gar nicht, weil sie
+    Zeugen-, Opfer- und Verkehrsdaten sowie Beweismittelakten einbeziehen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aus dem Haus des Bundesbeauftragten für den Datenschutz geschrieben und deshalb doppelt
+    zu lesen: als Analyse und als Signal, wie die Aufsicht die Entwürfe bewerten wird. Der Beitrag leistet,
+    was der Rest der Debatte nicht leistet — er nimmt die Zweckbindung ernst und zeigt, dass die Datenbestandsfrage
+    (§ 483 StPO, §§ 100g, 161, 163 StPO) die eigentliche Weichenstellung ist, nicht die Methodenfrage,
+    um die sich alles dreht. Der Begriff der "Superdatenbank" ist polemisch, die Herleitung aber sauber.
+    Angreifbar: Die Autoren sagen nicht, welcher Datenbestand zulässig wäre; die Kritik bleibt negativ.
+    Ergänzt Beck, ersetzt es hier faktisch, weil es zu §§ 98d f. StPO-E noch keine Kommentierung gibt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - gg-art-2-abs-1
+  - hsog-25a
+- id: 2026-struck-buerkert-presse-palantir
+  typ: blogbeitrag
+  autoren:
+  - Struck, Jens
+  - Bürkert, Rebekka
+  titel: Keine Software ist keine Alternative. Der Palantir-Diskurs in der deutschen Presse
+  fundstelle: Verfassungsblog, 27.08.2026 (Symposium 'Die Vermessung des Verdachts')
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/presse-palantir-ki-automatisierte-datenanalyse/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  bezug_urteile:
+  - de-2023-hessendata-bverfg
+  kernthese: Die deutsche Presseberichterstattung über Palantir verhandelt nur, wie und mit welchem Anbieter
+    automatisierte Polizeianalyse stattfindet, nie ob sie stattfinden soll — die Prämisse, dass die Polizei
+    solche Software braucht, bleibt unbefragt.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Diskursanalyse von 21 Presseartikeln, kriminologisch, nicht dogmatisch. Als Rechtsquelle
+    wertlos, als Korrektiv wertvoll: Der Text macht sichtbar, dass die Alternative zur Palantir-Software
+    in der Debatte nie benannt wird, und liefert damit das Gegenargument zu Trapps Souveränitätsthese.
+    Die Stichprobe ist klein und nicht offengelegt begründet. Aufgenommen wegen der Gegenposition, nicht
+    wegen der Methode.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-hahn-gesichtserkennung-98d-stpo
+  typ: blogbeitrag
+  autoren:
+  - Hahn, Johanna
+  titel: '''Aber die Journalisten dürfen das doch auch''. Zum Referentenentwurf für § 98d StPO'
+  fundstelle: Verfassungsblog, 31.03.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/gesichtserkennung-referentenentwurf-strafprozessrecht/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Der Entwurf des § 98d StPO erlaubt den biometrischen Abgleich mit öffentlich zugänglichen
+    Internetdaten, ohne Datenquellen, Trefferschwellen, Qualifikation der Auswerter oder Grenzen der Profilbildung
+    zu bestimmen, und verfehlt damit die Anforderungen aus Art. 5 Abs. 1, Art. 14 Abs. 5 und Art. 26 Abs.
+    10 KI-VO.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die genaueste frei zugängliche Auseinandersetzung mit dem zentralen Umsetzungsproblem:
+    Art. 5 Abs. 1 lit. e KI-VO verbietet den ungezielten Aufbau von Gesichtserkennungsdatenbanken durch
+    Web-Scraping, § 98d StPO-E setzt einen Abgleich mit dem Internet voraus. Hahn zeigt die Spannung,
+    ohne sie aufzulösen; die Auflösung liefert erst das Gutachten von Lewandowski für AlgorithmWatch,
+    das die technische Unmöglichkeit eines datenbankfreien Abgleichs belegt. Beide zusammen ergeben ein
+    belastbares Argument gegen die Norm. Angreifbar ist Hahns Zuspitzung auf den Journalistenvergleich
+    im Titel — der Vergleich trägt rechtlich nicht, weil die Presse nicht hoheitlich handelt. Ergänzt
+    Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-14-abs-5
+  - ki-vo-art-26-abs-10
+  - ki-vo-art-5-abs-1-lit-e
+  - stpo-98d-e
+- id: 2026-lenschow-polizeigesetz-sachsen
+  typ: blogbeitrag
+  autoren:
+  - Lenschow, Eyk
+  titel: Allwissende Polizei? Zum Referentenentwurf des sächsischen Polizeivollzugsdienstgesetzes
+  fundstelle: Verfassungsblog, 07.01.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/polizeigesetz-sachsen-referentenentwurf/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  bezug_urteile:
+  - de-2023-hessendata-bverfg
+  kernthese: Die §§ 57a, 62a und 62b SächsPVDG-E verlagern die Eingriffsschwelle in das Vorfeld der Gefahr,
+    überantworten wesentliche Entscheidungen der Verwaltung statt dem Parlament und begegnen dem Diskriminierungsrisiko
+    nur mit einer Programmsatzformel in § 79c Abs. 1 Satz 2.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Landesrecht, aber exemplarisch: Sachsen zieht die drei Instrumente — automatisierte
+    Datenanalyse, intelligente Videoüberwachung, biometrischer Abgleich — in einem Gesetz zusammen, wie
+    es die anderen Länder nachziehen werden. Der stärkste Punkt ist der Wesentlichkeitseinwand gegen die
+    Verordnungsermächtigungen; das ist eine Argumentationslinie, die vor dem BVerfG tragen könnte und
+    in der Datenschutzliteratur untergeht. Schwächer ist die Diskriminierungsanalyse, die über den Verweis
+    auf § 79c SächsPVDG-E nicht hinauskommt. Zusammen mit Sußner zu Berlin ergibt sich der Länderquerschnitt,
+    den es sonst nirgends frei gibt. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-sussner-berlin-asog-kbos
+  typ: blogbeitrag
+  autoren:
+  - Sußner, Petra
+  titel: Try harder hilft selten. Zur Berliner ASOG-Novelle und den kriminalitätsbelasteten Orten
+  fundstelle: Verfassungsblog, 08.01.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/berlin-asog-novelle-kbos/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  kernthese: § 24e ASOG erlaubt an kriminalitätsbelasteten Orten KI-gestützte Verhaltenserkennung, deren
+    Diskriminierungsschutz sich in unbestimmten Programmsätzen erschöpft und deren Wirksamkeit nicht belegt
+    ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der interessanteste Befund ist technischer Art und wird juristisch unterschätzt:
+    Die Software erfasst Personen als Strichmännchen mit Knotenpunkten, arbeitet also formal ohne biometrische
+    Identifizierung und entgeht damit Art. 5 KI-VO, erzeugt aber dieselben Verhaltensinferenzen. Das ist
+    die Umgehungsfigur, die die Kategorien der KI-VO nicht fassen, und Sußner ist die einzige, die sie
+    in der frei zugänglichen deutschen Literatur benennt. Angreifbar: Sußner leitet aus Art. 3 Abs. 3
+    GG mehr ab, als die Rechtsprechung bisher hergibt, und die Verhältnismäßigkeitsprüfung bleibt behauptend.
+    Ergänzt Beck, hat aber bei der Skelett-Erkennungs-Lücke einen Vorsprung.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-5
+- id: 2026-pschorr-blocher-handyblitzer-monocam
+  typ: blogbeitrag
+  autoren:
+  - Pschorr, Simon
+  - Blocher, Janine
+  titel: Handyblitzer powered by KI
+  fundstelle: Verfassungsblog, 01.07.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/handyblitzer-powered-by-ki/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  kernthese: Der Beschluss des OLG Koblenz zur MonoCam begrenzt den KI-gestützten Handyverstoßabgleich,
+    verbietet KI-gestützte Ermittlungen aber nicht kategorisch — verfassungsrechtlich entscheidend ist
+    nicht, ob KI eingesetzt wird, sondern wie sie im konkreten Kontext funktioniert.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige frei zugängliche deutsche Text, der eine obergerichtliche Entscheidung
+    zum KI-Einsatz im Ordnungswidrigkeitenrecht bespricht — und damit die einzige Entscheidungsbesprechung
+    dieser Akte, die praktisch unmittelbar relevant ist. Die dogmatische Pointe ist die Verdachtslosigkeit:
+    § 100h StPO über § 46 OWiG trägt eine anlasslose Massenerfassung nicht, auch nicht bei Bagatellverstößen.
+    Wer den Fall in einem Bußgeldverfahren führt, braucht diesen Text. Angreifbar ist die Verallgemeinerung
+    "nicht ob, sondern wie" — sie stimmt für MonoCam, verdeckt aber, dass Art. 5 KI-VO manche Verfahren
+    eben kategorisch verbietet. Ergänzt Beck; die Entscheidungsanmerkungen in den Beck-Zeitschriften dürften
+    inzwischen weiter sein.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-5
+- id: 2024-thoennes-klette-vergiftete-maschine
+  typ: blogbeitrag
+  autoren:
+  - Thönnes, Christian
+  titel: Daniela Klette und die Frucht der vergifteten Maschine
+  fundstelle: Verfassungsblog, 22.03.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/klette-und-die-frucht-der-vergifteten-maschine/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  kernthese: Der Einsatz offensichtlich rechtswidriger Gesichtserkennungssoftware wie PimEyes im Strafverfahren
+    begründet ein Beweisverwertungsverbot mit Fernwirkung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die schärfste These der deutschen KI-Beweisrechtsdebatte, und sie ist bewusst weit:
+    Fernwirkung ist im deutschen Strafprozessrecht der Ausnahmefall, Thönnes (MPI Freiburg) will sie hier
+    zur Regel machen, weil die Umgehung der Richtervorbehalte systematisch sei. Das ist angreifbar und
+    soll es sein. Wer zum Verwertungsverbot bei KI-gestützter Beweisgewinnung arbeitet, muss diesen Text
+    kennen und widerlegen oder sich ihm anschließen — eine dritte Möglichkeit gibt es nicht, weil es in
+    der freien Literatur keine Alternativposition gibt. Das ist zugleich die Schwäche der Akte: Die Gegenposition
+    steht in den Beck-Zeitschriften.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stpo-161
+  - stpo-163
+- id: 2024-zoeller-gesichtserkennung-inpol-z
+  typ: blogbeitrag
+  autoren:
+  - Zöller, Mark A.
+  titel: Und (fast) täglich grüßt das Murmeltier. Gesichtserkennung, Datenschutz und INPOL-Z
+  fundstelle: Verfassungsblog, 31.05.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/gesichtserkennung-datenschutz-sicherheitsbehorden-inpol-z/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  kernthese: Der biometrische Abgleich in den polizeilichen Verbunddateien ist seit Jahren ohne tragfähige
+    Rechtsgrundlage im Einsatz, und der Gesetzgeber wiederholt denselben Fehler bei jeder Novelle.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die Trefferliste des Verfassungsblogs belegt, Volltext nicht gelesen — Titel,
+    Autor, Datum und URL stammen von der Anbieterseite. Zöller ist einer der profiliertesten deutschen
+    Sicherheitsrechtler; der Beitrag dürfte für die INPOL-Vorgeschichte der heutigen § 98d StPO-Debatte
+    einschlägig sein. Vor Zitierung selbst lesen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - bkag-18
+  - bkag-20
+- id: 2024-bovermann-fink-mutter-pimeyes-raf
+  typ: blogbeitrag
+  autoren:
+  - Bovermann, Marc
+  - Fink, Johanna
+  - Mutter, Jakob
+  titel: PimEyes User auf den Spuren der RAF
+  fundstelle: Verfassungsblog, 22.03.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/pimeyes-user-auf-raf-spuren/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  kernthese: Die private Nutzung von Gesichtssuchmaschinen durch Journalisten und Privatpersonen und ihre
+    anschließende Verwertung durch Ermittlungsbehörden schafft eine Umgehungslage, die weder das Datenschutzrecht
+    noch die KI-VO erfassen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die Trefferliste des Verfassungsblogs belegt, Volltext nicht gelesen. Erfasst
+    als Gegenstück zu Thönnes: dieselbe Fallkonstellation, vermutlich abweichende Bewertung der privaten
+    Vorfeldnutzung. Wer die Frage bearbeitet, sollte beide Beiträge desselben Tages nebeneinander legen.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2021-rueckert-ki-verbrecherjagd
+  typ: blogbeitrag
+  autoren:
+  - Rückert, Christian
+  titel: Mit künstlicher Intelligenz auf Verbrecherjagd
+  fundstelle: Verfassungsblog, 22.01.2021
+  jahr: 2021
+  sprache: de
+  url: https://verfassungsblog.de/ki-verbrecherjagd/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  - us
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  kernthese: Automatisierte Open-Source-Ermittlungen und Gesichtserkennung haben im deutschen Recht keine
+    Ermächtigungsgrundlage; die Ermittlungsgeneralklauseln der §§ 161, 163 StPO tragen sie nicht.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Ausgangspunkt der deutschen Debatte, geschrieben nach dem Kapitolsturm und noch
+    vor dem KI-VO-Vorschlag. Die These — Ermittlungsgeneralklauseln tragen automatisierte Verfahren nicht
+    — ist inzwischen weitgehend Konsens und in die Gesetzentwürfe von 2026 eingegangen. Nur noch als Ausgangspunkt
+    zu lesen, nicht mehr als Argument; die Rechtslage hat sich vollständig verschoben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stpo-161
+  - stpo-163
+  - stpo-98c
+- id: 2025-algorithmwatch-predictive-policing-de
+  typ: bericht
+  autoren:
+  - Vieth-Ditlmann, Kilian
+  titel: 'Automatisierte Polizeiarbeit: Wie Algorithmen in Deutschland Straftaten ''voraussehen'' sollen'
+  fundstelle: AlgorithmWatch (Reihe 'Automating Injustice'), Berlin, 28.03.2025
+  jahr: 2025
+  sprache: de
+  url: https://algorithmwatch.org/de/predictive-policing-deutschland/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  kernthese: Prognosesysteme bei Polizei, Staatsanwaltschaften und im Justizvollzug sind in Deutschland
+    vielfach ohne Rechtsgrundlage im Einsatz und verstärken Diskriminierung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die einzige frei zugängliche empirische Bestandsaufnahme der in Deutschland tatsächlich
+    eingesetzten Prognosesysteme — geographisch wie personenbezogen, einschließlich der Anwendungen im
+    Justizvollzug, die in der Rechtsliteratur praktisch nicht vorkommen. Für die Rechtsanwendung ist die
+    Bestandsaufnahme wichtiger als die Bewertung: Man kann nicht über die Rechtsgrundlage streiten, wenn
+    man nicht weiß, was läuft. Als NGO-Bericht argumentativ einseitig; die Fallbeschreibungen sind aber
+    belegt und nachprüfbar. Ergänzt Beck um etwas, das Beck nicht leistet.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-lewandowski-gutachten-biometrie-datenbank
+  typ: bericht
+  autoren:
+  - Lewandowski, Dirk
+  titel: Braucht die Polizei eine Datenbank zum biometrischen Abgleich?
+  fundstelle: Gutachten im Auftrag von AlgorithmWatch, Berlin, 15.10.2025
+  jahr: 2025
+  sprache: de
+  url: https://algorithmwatch.org/de/gutachten-datenbank-biometrie-gesichtserkennung/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  - ki-vo-2024-1689
+  kernthese: Es ist technisch nicht möglich, frei verfügbare Internetbilder praktikabel durchsuchbar zu
+    machen, ohne eine Datenbank anzulegen — der geplante biometrische Internetabgleich setzt damit zwingend
+    eine nach Art. 5 KI-VO verbotene Datenbank voraus.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das inhaltlich stärkste Einzelstück dieser Akte, und es ist kein juristischer Text.
+    Lewandowski (HAW Hamburg, Suchmaschinenforschung) beantwortet die technische Vorfrage, an der die
+    gesamte deutsche Debatte um § 98d StPO-E hängt: Der Gesetzgeber behauptet, kein Datenbankaufbau, sondern
+    ein Abgleich mit dem offenen Netz; Lewandowski zeigt, dass die Unterscheidung technisch nicht existiert,
+    weil Indexierung und Vorverarbeitung notwendig sind. Wenn das stimmt, kollidiert die Norm mit Art.
+    5 Abs. 1 lit. e KI-VO, und zwar nicht graduell, sondern kategorisch. Angreifbar ist der Auftraggeberbezug
+    — ein Gutachten für AlgorithmWatch ist Parteivortrag — und die Frage, ob eine flüchtige, nicht persistierte
+    Indexierung anders zu beurteilen wäre. Genau dieses Gutachten würde ich einem Beck-Aufsatz vorziehen;
+    es liefert die Prämisse, die die Juristen sich sonst ausdenken.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-5-abs-1-lit-e
+- id: 2024-schiemann-rezension-peters-verdachtsgewinnung
+  typ: aufsatz
+  autoren:
+  - Schiemann, Anja
+  titel: Besprechung von Amadeus Peters, Smarte Verdachtsgewinnung. Eine strafprozessuale und verfassungsrechtliche
+    Untersuchung der Verdachtsgewinnung mittels künstlicher Intelligenz
+  fundstelle: KriPoZ, 31.05.2024
+  jahr: 2024
+  sprache: de
+  url: https://kripoz.de/2024/05/31/amadeus-peters-smarte-verdachtsgewinnung-eine-strafprozessuale-und-verfassungsrechtliche-untersuchung-der-verdachtsgewinnung-mittels-kuenstlicher-intelligenz/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - de-automatisierte-datenanalyse-polizei
+  kernthese: Peters' Dissertation untersucht die KI-gestützte Verdachtsgewinnung strafprozessual und verfassungsrechtlich
+    und arbeitet die Anforderungen an eine Ermächtigungsgrundlage heraus.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die KriPoZ-Trefferliste belegt, Volltext nicht gelesen. Erfasst als Zugang zu
+    einer Dissertation, die für die §§ 98d f. StPO-Debatte einschlägig sein dürfte und die selbst nicht
+    frei ist. Der Wert der Rezension steht und fällt damit, ob sie den Gedankengang wiedergibt; das ist
+    bei Schiemann meist der Fall, aber ungeprüft.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - stpo-161
+  - stpo-163
+- id: 2022-bock-hoeffler-ki-kriminalitaet
+  typ: aufsatz
+  autoren:
+  - Bock, Hauke
+  - Höffler, Katrin
+  titel: Künstliche Intelligenz und Kriminalität
+  fundstelle: KriPoZ 2022, 227
+  jahr: 2022
+  sprache: de
+  url: https://kripoz.de/2022/07/28/kuenstliche-intelligenz-und-kriminalitaet/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sektor-oeffentlich
+  - haftung
+  kernthese: KI verändert Kriminalitätsformen und Kriminalitätskontrolle zugleich, und die kriminologische
+    Forschung hinkt beiden hinterher.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die KriPoZ-Trefferliste belegt, Volltext nicht gelesen. Erfasst wegen Höffler
+    (Göttingen), die zu den wenigen deutschen Kriminologinnen gehört, die das Feld systematisch bearbeiten.
+    Vermutlich überholt, was die Technik angeht; kriminologische Grundlagenarbeit altert aber langsamer
+    als dogmatische.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-priebe-kaenner-kimvg
+  typ: blogbeitrag
+  autoren:
+  - Priebe, Anna-Lena
+  - Känner, Lise
+  titel: Lieber schlecht als recht. Zum Entwurf eines KI-Migrationsverwaltungsgesetzes
+  fundstelle: Verfassungsblog, 27.08.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/lieber-schlecht-als-recht/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - de-ki-migrationsverwaltungsgesetz
+  - ki-vo-2024-1689
+  - de-automatisierter-verwaltungsakt
+  - dsgvo-schnittstelle
+  kernthese: Das KIMVG schafft drei neue automatisierte Befugnisse — Training an Asyl- und Aufenthaltsdaten,
+    automatisierte Verfahrensbeobachtung und automatisierter Internetdatenabgleich —, ohne die versprochenen
+    rechtssicheren, datenschutzkonformen und diskriminierungsfesten Vorkehrungen tatsächlich zu treffen.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das KIMVG (Kabinettbeschluss 29.07.2026) ist das erste deutsche Fachgesetz, das KI-Einsatz
+    in einem Massenverwaltungsverfahren ausdrücklich regelt, und es betrifft die verletzlichste Betroffenengruppe,
+    die das Verwaltungsrecht kennt. Es gibt dazu keine Kommentierung, keine Monografie und keinen Zeitschriftenaufsatz
+    — es gibt zwei Verfassungsblog-Beiträge, und dieser ist der vollständigere, weil er alle drei Befugnisse
+    und die Änderungen in AufenthG und AsylG durchgeht. Deshalb Pflicht: Wer zum KI-Verwaltungsrecht in
+    Deutschland arbeitet, hat derzeit keine Alternative. Die stärkste Passage ist die Verbindung von Art.
+    27 KI-VO (Grundrechte-Folgenabschätzung, deren Unterlassung nach § 15 KI-MIG bußgeldbewehrt ist) mit
+    Anhang III Nr. 5 und 7 — die Autorinnen zeigen, dass die Behörde als Betreiberin eigene Pflichten
+    trifft, die der Entwurf nicht abbildet. Angreifbar: Der Text ist Entwurfskritik, nicht Auslegung;
+    er sagt, was fehlt, nicht, wie die vorhandenen Normen zu lesen sind. Und er behandelt die Kernfrage
+    — ob das Training an Bestandsdaten überhaupt auf Art. 6 Abs. 1 lit. e DSGVO gestützt werden kann —
+    zu knapp. Ersetzt Beck faktisch, weil Beck hier noch nichts hat; das wird sich binnen eines Jahres
+    ändern.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - asylg-7
+  - dsgvo-art-6-abs-1-lit-e
+  - ki-vo-art-27
+- id: 2026-henning-kimvg-computer-says-no
+  typ: blogbeitrag
+  autoren:
+  - Henning, Arian
+  titel: Computer Says No. Das KI-Migrationsverwaltungsgesetz
+  fundstelle: Verfassungsblog, 10.08.2026
+  jahr: 2026
+  sprache: de
+  url: https://verfassungsblog.de/computer-says-no/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - de-ki-migrationsverwaltungsgesetz
+  - ki-vo-2024-1689
+  - de-automatisierter-verwaltungsakt
+  kernthese: Das KIMVG erlaubt BAMF, Ausländerbehörden und Auswärtigem Amt, personenbezogene Daten aus
+    Asylverfahren zum Training von Entscheidungsunterstützungsmodellen zu verwenden, ohne die menschliche
+    Entscheidungsautonomie und die algorithmische Nachvollziehbarkeit wirksam zu sichern.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die erste Analyse des Kabinettsentwurfs, drei Wochen vor Priebe/Känner, und in einem
+    Punkt schärfer: Henning konzentriert sich auf die Trainingsbefugnis und die Frage, was mit der Zweckbindung
+    geschieht, wenn Asylakten zu Trainingsdaten werden. Das ist die datenschutzrechtliche Kernfrage, die
+    auch beim KIMVG über die Rechtmäßigkeit entscheidet. Wer die Automatisierungsbias-Frage bearbeitet,
+    findet hier die verwaltungsrechtliche Anschlussstelle zu Lehners medizinrechtlicher These. Schwächer
+    bei der Diskriminierungsdimension, die Priebe/Känner besser abdecken. Beide zusammen lesen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - asylg-7
+  - dsgvo-art-5-abs-1-lit-b
+- id: 2025-vieth-ditlmann-ki-transparenzregister
+  typ: bericht
+  autoren:
+  - Vieth-Ditlmann, Kilian
+  titel: Ein verbindliches KI-Transparenzregister für Deutschland
+  fundstelle: AlgorithmWatch, Berlin, 13.05.2025
+  jahr: 2025
+  sprache: de
+  url: https://algorithmwatch.org/de/ki-transparenzregister-dtl/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - nationale-umsetzung-de-ki-mig
+  - de-automatisierter-verwaltungsakt
+  kernthese: Bund und Länder sollten ein rechtlich verbindliches, einheitliches Register aller in der
+    Verwaltung eingesetzten KI-Systeme schaffen; die föderale Kompetenzordnung steht dem entgegen und
+    macht möglicherweise eine Grundgesetzänderung erforderlich.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige frei zugängliche deutsche Text, der die föderalismusrechtliche Seite
+    der KI-Transparenz durchdenkt. Das ist die unterschätzte Frage: Art. 71 KI-VO verlangt eine EU-Datenbank
+    für Hochrisiko-Systeme, Art. 49 Abs. 3 KI-VO eine Registrierung durch Behörden als Betreiber — aber
+    ein nationales Register über alle Verwaltungsebenen hat im Grundgesetz keine Grundlage, und Art. 91c
+    GG trägt es nicht ohne Weiteres. Vieth-Ditlmann sagt das offen und schlägt eine Verfassungsänderung
+    vor; das ist mutiger als die Fachliteratur. Als NGO-Papier interessengeleitet, in der Kompetenzanalyse
+    aber redlich. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-71
+  - ki-vo-art-49-abs-3
+- id: 2025-freitas-santillan-contratacion-publica
+  typ: aufsatz
+  autoren:
+  - Freitas Cabanillas, Rodrigo Andrés
+  - Santillán Crosby, Pedro Eduardo
+  titel: 'El Equilibrio Perfecto: Eficiencia Algorítmica vs. Garantías Procedimentales en la Contratación
+    Pública Peruana'
+  titel_deutsch: 'Das perfekte Gleichgewicht: algorithmische Effizienz gegen Verfahrensgarantien im peruanischen
+    Vergaberecht'
+  fundstelle: IUS ET VERITAS 71 (2025) — Themenheft "Derecho administrativo y nuevas tecnologías", 222–246
+  jahr: 2025
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/iusetveritas/article/view/33512
+  doi: 10.18800/iusetveritas.202502.013
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  themenachsen:
+  - sektor-oeffentlich
+  - marktzugang
+  - governance
+  kernthese: 'Der Einsatz von KI im peruanischen Vergabeverfahren ist nur in einem hybriden Automatisierungsmodell
+    zulässig, das Begründungspflicht, rechtliches Gehör und Verteidigungsrechte erhält.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der beste Text zum peruanischen Verwaltungsverfahren mit KI, und der einzige, der
+    die Frage konkret am Vergaberecht durchspielt. Die rechtsvergleichende Auswahl ist ungewöhnlich brauchbar
+    — Estland, Frankreich, Singapur, Portugal, Ukraine —, weil sie Rechtsordnungen mit tatsächlich laufender
+    Verwaltungsautomation nimmt statt der üblichen Verweise auf die EU. Für einen deutschen Leser ist
+    der Anschluss über § 35a VwVfG naheliegend: Freitas und Santillán landen im Ergebnis bei einer ähnlichen
+    Grenze (vollautomatisierter Erlass nur ohne Ermessens- und Beurteilungsspielraum), begründen sie aber
+    verfassungsrechtlich statt einfachgesetzlich. Schwäche: Der Titel verspricht eine Abwägung, geliefert
+    wird eine Aufzählung von Garantien.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-limberger-judges-machines-brazil
+  typ: aufsatz
+  autoren:
+  - Limberger, Têmis
+  - Giannakos, Demétrio Beck da Silva
+  - Szinvelski, Mártin M.
+  titel: Can Judges be Replaced by Machines? The Brazilian Case
+  titel_deutsch: Können Richter durch Maschinen ersetzt werden? Der brasilianische Fall
+  fundstelle: Mexican Law Review XIV (2022), Nr. 2, 53–81
+  jahr: 2022
+  sprache: en
+  url: https://revistas.juridicas.unam.mx/index.php/mexican-law-review/article/view/16568
+  doi: 10.22201/iij.24485306e.2022.2.16568
+  zugang: open-access
+  jurisdiktionen:
+  - br
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  - grundrechte
+  kernthese: 'KI senkt die Kosten der Justiz, indem sie einfache Massenvorgänge beschleunigt; eine Ersetzung
+    des Richters setzt zwei Bedingungen voraus, die derzeit nicht erfüllt sind — Ergebnisadäquanz und
+    die Fähigkeit des Systems, menschliche Korrekturen aufzunehmen.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Auf Englisch und deshalb der leichteste Zugang zur brasilianischen Justizautomatisierung
+    — dem weltweit grössten Feldversuch dieser Art. Brasilien setzt über den Conselho Nacional de Justiça
+    seit Jahren KI in praktisch allen Landesgerichten ein (Victor beim STF, Sinapses, Elis in Pernambuco);
+    wer sich für die praktische Seite von KI in der Justiz interessiert, kommt an Brasilien nicht vorbei.
+    Der Text ist rechtsdogmatisch dünn — er formuliert zwei Bedingungen und begründet sie kaum —, aber
+    Limberger ist eine etablierte Autorin, und die Bestandsaufnahme der brasilianischen Systeme ist brauchbar.
+    Für die deutsche Debatte um KI-Unterstützung bei der Bewältigung von Massenverfahren der beste empirische
+    Anknüpfungspunkt. Vorsicht: Der Text ist von 2022 und kennt die 2025 beschlossene Neufassung der CNJ-Resolution
+    zum KI-Einsatz in der brasilianischen Justiz noch nicht (Nachfolgerin der Resolução CNJ 332/2020;
+    die Nummer der Neufassung vor Zitat prüfen).
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-castrillon-garcia-politica-publica-ia-justicia
+  typ: aufsatz
+  autoren:
+  - Castrillón García, Eddison David
+  titel: Fortalecimiento institucional del Estado para la implementación de la política pública de Inteligencia
+    Artificial en la administración de justicia
+  titel_deutsch: Institutionelle Stärkung des Staates für die Umsetzung der KI-Politik in der Justizverwaltung
+  fundstelle: Revista de la Facultad de Derecho y Ciencias Políticas (UPB) 55 (2025), Nr. 143, 1–29
+  jahr: 2025
+  sprache: es
+  url: https://revistas.upb.edu.co/index.php/derecho/es/article/view/inteligencia-artificial-administracion-justicia-politica-publica
+  doi: 10.18566/rfdcp.v55n143.a1
+  zugang: open-access
+  jurisdiktionen:
+  - co
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  kernthese: 'Die kolumbianische KI-Politik für die Justiz scheitert nicht am Konzept, sondern an der
+    Verwaltungskapazität; erforderlich sind Gegensteuerung zur Rezentralisierung, bessere Governance und
+    passende Politikinstrumente.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Verwaltungswissenschaft mehr als Rechtsdogmatik — Neoinstitutio- nalismus, Politikinstrumente,
+    territoriale Entwicklung —, und wer eine juristische Argumentation sucht, wird enttäuscht. Der Wert
+    liegt in dem, was der Text nebenbei dokumentiert: Kolumbien hat seit dem CONPES 3975 (2019) eine ausgearbeitete
+    nationale KI-Politik, die für die Justiz konkrete Vorgaben macht, und trotzdem entscheidet der Kapazitätsmangel
+    der Gerichte, was tatsächlich passiert. Das ist der Befund, den man gegen jede Regulierungshoffnung
+    halten sollte, und er gilt für Deutschland ebenso. Für die Rechtslage nach der Entscheidung des kolumbianischen
+    Verfassungsgerichts T-323/2024 (ChatGPT-Nutzung durch einen Richter in Cartagena) gibt der Text nichts
+    her — er erwähnt sie nicht.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-vargas-jaramillo-razonamiento-probatorio
+  typ: aufsatz
+  autoren:
+  - Vargas, Orión
+  - Jaramillo Restrepo, Andrés Felipe
+  titel: Razonamiento probatorio e inteligencia artificial en la valoración de la prueba judicial
+  titel_deutsch: Beweiswürdigendes Schliessen und künstliche Intelligenz bei der richterlichen Beweiswürdigung
+  fundstelle: Opinión Jurídica 21 (2022), Nr. 46, 1–25
+  jahr: 2022
+  sprache: es
+  url: https://revistas.udem.edu.co/index.php/opinion/es/article/view/4041
+  doi: 10.22395/ojum.v21n46a3
+  zugang: open-access
+  jurisdiktionen:
+  - co
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  kernthese: 'Ein Expertensystem ("Juez Inteligente") kann den Richter beim Aufbau beweisrechtlicher Schlüsse
+    unterstützen, indem es dessen Erfahrung mit maschineller Präzision verbindet — ersetzen soll es ihn
+    nicht.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der interessanteste kolumbianische Text, den ich frei zugänglich gefunden habe, weil
+    er nicht über KI in der Justiz spricht, sondern ein konkretes System beschreibt und dessen Inferenzschritte
+    offenlegt. Das erlaubt eine Prüfung, die bei der üblichen Prinzipienliteratur nicht möglich ist. Mein
+    Vorbehalt ist grundsätzlicher Art: Die Autoren bauen ein regelbasiertes Expertensystem und nennen
+    es künstliche Intelligenz — das ist Technik der achtziger Jahre und hat mit dem, worüber der Gesetzgeber
+    heute streitet, wenig zu tun. Genau deshalb ist der Text aber lehrreich: Er zeigt, dass die Formalisierung
+    beweisrechtlichen Schliessens auch ohne maschinelles Lernen möglich ist und dass die eigentliche Schwierigkeit
+    nicht in der Technik, sondern in der Explizierung der Erfahrungssätze liegt. Für die freie Beweiswürdigung
+    nach § 286 ZPO ein instruktiver Kontrast.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-diaz-diez-ia-contratacion-publica
+  typ: aufsatz
+  autoren:
+  - Díaz Díez, Cristian Andrés
+  titel: 'Inteligencia artificial en la contratación pública: instrumento y objeto de adquisición'
+  titel_deutsch: 'Künstliche Intelligenz im Vergaberecht: Werkzeug und Beschaffungsgegenstand'
+  fundstelle: IUS ET VERITAS 71 (2025), 136–159
+  jahr: 2025
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/iusetveritas/article/view/33508
+  doi: 10.18800/iusetveritas.202502.009
+  zugang: open-access
+  jurisdiktionen:
+  - co
+  themenachsen:
+  - sektor-oeffentlich
+  - marktzugang
+  - governance
+  kernthese: 'Der Einsatz und die Beschaffung von KI durch die kolumbianische Verwaltung sind bereits
+    nach geltendem Recht zulässig — die Normen zur digitalen Transformation des öffentlichen Sektors und
+    zu elektronischen Mitteln im Vergabeverfahren tragen sie.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der beste kolumbianische Text der Sammlung, obwohl er in einer peruanischen Zeitschrift
+    steht — Díaz Díez lehrt an der EAFIT in Medellín und schreibt über kolumbianisches Recht. Er macht
+    die Unterscheidung, an der die meisten anderen vorbeigehen: KI als Instrument des Vergabeverfahrens
+    einerseits, KI als beschaffter Gegenstand andererseits. Das sind zwei völlig verschiedene Rechtsfragen,
+    und im deutschen Recht liegen sie ebenfalls auseinander (§ 97 GWB und die Verfahrensgestaltung einerseits,
+    die Leistungsbeschreibung und die Anforderungen aus Art. 25 ff. KI-VO an den öffentlichen Beschaffer
+    andererseits). Er beantwortet die Zulässigkeitsfrage bejahend und ohne den in Lateinamerika üblichen
+    Reflex, nach einem neuen Gesetz zu rufen — begründet mit der bestehenden Digitalisierungsgesetzgebung.
+    Das ist eine These, an der man sich reiben kann, und der Schlussteil über die "cautelas" zum Schutz
+    von Demokratie und Rechtsstaat ist ehrlich genug, die Gegenargumente zu benennen. Als Pflicht eingestuft,
+    weil Kolumbien sonst kaum verwertbar vertreten wäre.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2019-corvalan-prometea-organizaciones-publicas
+  typ: monographie
+  autoren:
+  - Corvalán, Juan Gustavo
+  titel: Prometea. Inteligencia artificial para transformar organizaciones públicas
+  titel_deutsch: Prometea. Künstliche Intelligenz zur Umgestaltung öffentlicher Organisationen
+  fundstelle: Editorial Astrea, Buenos Aires, und Editorial Universidad del Rosario, Bogotá, 1. Auflage
+    2019; Volltext frei über UBA IALAB
+  jahr: 2019
+  sprache: es
+  url: https://www.web.ialab.com.ar/webia/wp-content/uploads/2023/03/Libro-Prometea.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  - co
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - arbeit
+  kernthese: 'KI kann die aktenzentrierte Bürokratie in eine "intelligente Bürokratie" überführen; Automatisierung
+    soll die Arbeit vermenschlichen, indem sie Routine beseitigt und Personal für komplexe Fälle freistellt,
+    bei fortdauernder menschlicher Kontrolle.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Das Gründungsdokument der lateinamerikanischen Debatte über KI in der Verwaltung,
+    und die einzige Monographie dieser Sammlung, die bei einem klassischen juristischen Verlag (Astrea)
+    erschienen und trotzdem frei verfügbar ist. Corvalán leitet das IALAB an der Rechtsfakultät der UBA
+    und war zugleich stellvertretender Generalstaatsanwalt der Stadt Buenos Aires, wo Prometea 2017 entstand
+    — er beschreibt also ein System, das er selbst gebaut hat, und das ist zugleich die Stärke und die
+    Schwäche des Buches. Stärke: Kein anderer Autor kann so genau sagen, was ein KI-System in einer Staatsanwaltschaft
+    tatsächlich tut. Schwäche: Es ist eine Werbeschrift. Die Erfolgszahlen sind vom Autor selbst erhoben,
+    die Grenzen des Systems werden nicht ernsthaft diskutiert, und die verfassungsrechtlichen Einwände
+    gegen automatisierte Antragsbescheidung kommen nur als zu überwindende Bedenken vor. Man liest das
+    Buch als Primärquelle für den Prometea-Ansatz und nimmt die Bewertung woanders her — etwa aus dem
+    IDB-Bericht von Estevez u.a., der dieselbe Anwendung von aussen untersucht. Für die deutsche Diskussion
+    um § 35a VwVfG und um KI im Justizbetrieb ist das der wichtigste lateinamerikanische Referenztext.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2020-estevez-fillottrani-linares-prometea-bid
+  typ: bericht
+  autoren:
+  - Estevez, Elsa
+  - Fillottrani, Pablo
+  - Linares Lejarraga, Sebastián
+  titel: 'PROMETEA: Transformando la administración de justicia con herramientas de inteligencia artificial'
+  titel_deutsch: 'PROMETEA: Die Umgestaltung der Justizverwaltung mit Werkzeugen der künstlichen Intelligenz'
+  fundstelle: Banco Interamericano de Desarrollo (BID), Washington D.C., 10.06.2020
+  jahr: 2020
+  sprache: es
+  url: https://publications.iadb.org/es/prometea-transformando-la-administracion-de-justicia-con-herramientas-de-inteligencia-artificial
+  doi: 10.18235/0002378
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  kernthese: 'Prometea senkte in der Staatsanwaltschaft der Stadt Buenos Aires die Bearbeitungszeit für
+    Vertragsgutachten von 90 auf 1 Minute und die Dauer gerichtlicher Anforderungen von 167 auf 38 Tage.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Die externe Gegenprobe zu Corvalán und deshalb der Bericht, den man vor dem Buch
+    lesen sollte. Estevez, Fillottrani und Linares Lejarraga sind Informatiker und Politikwissenschaftler
+    aus Bahía Blanca und Salamanca, nicht Teil des IALAB, und sie messen die Produktivitätsgewinne selbst.
+    Die Zahlen sind spektakulär und werden weltweit zitiert; ich lese sie mit Vorbehalt, weil die Vergleichsbasis
+    (die Zeit vor Prometea) aus derselben Behörde stammt, die den Erfolg belegen wollte, und weil "90
+    Minuten auf 1 Minute" nur die Erstellungszeit des Entwurfs misst und nicht die Prüfzeit des Staatsanwalts.
+    Trotzdem: Es ist die einzige quantifizierte Wirkungsmessung eines KI-Systems in einer Justizbehörde,
+    die ich kenne, und wer in Deutschland über Effizienzgewinne durch KI in der Justiz argumentiert —
+    in beide Richtungen —, sollte diese Zahlen und ihre Entstehung kennen.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-corvalan-papini-alfonsin-agentes-ia
+  typ: monographie
+  autoren:
+  - Corvalán, Juan Gustavo
+  - Papini, Carina M.
+  - Alfonsín, Ignacio
+  titel: Agentes de IA y derecho administrativo
+  titel_deutsch: KI-Agenten und Verwaltungsrecht
+  fundstelle: UBA IALAB, Buenos Aires, erste digitale Auflage 24.08.2026
+  jahr: 2026
+  sprache: es
+  url: https://cdn.prod.website-files.com/68a59c363779dabb2e263134/6a90d76d7e82f5ce7e82489f_Corvalan-Papini-Alfonsin%20I%20Agentes%20de%20IA%20y%20Derecho%20Administrativo.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - haftung
+  kernthese: 'Agentische KI verdrängt die Kategorien des Verwaltungsrechts nicht, sondern verlangt ihre
+    Neuauslegung; die Agenten sind im "Spiegeldesign" nach Zuständigkeit, Hierarchie und Verantwortung
+    der Behörde zu konfigurieren.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der aktuellste Text der ganzen Sammlung (August 2026) und der einzige, der agentische
+    Systeme — also KI, die Handlungsketten plant und ausführt — verwaltungsrechtlich durchdenkt. Der Gedanke
+    des "Spiegeldesigns" ist der eigentliche Ertrag: Der Agent soll die Zuständigkeitsordnung der Behörde
+    nachbilden, damit die Zurechnungskette nicht reisst. Für das deutsche Recht ist das unmittelbar anschlussfähig
+    — die Frage, welcher Amtswalter für die Handlung eines autonom planenden Systems einsteht, ist mit
+    § 35a VwVfG nicht beantwortet, und die Kategorie der "Shadow AI" (unautorisierte Nutzung durch Bedienstete)
+    ist ein Problem, das in der deutschen Literatur bisher nur beiläufig vorkommt. Der Dreistufenaufbau
+    (Assistenz, regelbasierte Automatisierung, autonome Agentik) ist eine brauchbare Prüfungsordnung.
+    Einschränkung: Corvalán ist Partei — er baut solche Systeme —, der Text ist folglich lösungsoptimistisch
+    und die Grenzen des Spiegeldesigns bleiben unerörtert. Und er ist kein Verlagsbuch: keine ISBN, kein
+    Peer Review, Selbstverlag des Labors.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-ojeda-guervos-preciado-gestion-tributaria
+  typ: aufsatz
+  autoren:
+  - Ojeda Pérez, Fabián
+  - Guervós Maíllo, María Ángeles
+  - Preciado Álvarez, Francisco
+  titel: Los medios electrónicos y la inteligencia artificial en la gestión tributaria en México
+  titel_deutsch: Elektronische Mittel und künstliche Intelligenz in der mexikanischen Steuerverwaltung
+  fundstelle: Boletín Mexicano de Derecho Comparado 58 (2025), Nr. 172, Artikel e19577
+  jahr: 2025
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/19577
+  doi: 10.22201/iij.24484873e.2025.172.19577
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  themenachsen:
+  - sektor-oeffentlich
+  - sektor-finanz
+  - datenschutz
+  kernthese: 'Das mexikanische Recht der elektronischen Rechnungsstellung (CFDI) trägt den KI-Einsatz
+    der Steuerverwaltung bereits; es enthält die Rechtsgrundlagen dafür, dass die Behörde eigene Technologien
+    zur Überwachung der Steuerpflichtigen entwickelt.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der praktisch folgenreichste mexikanische Text der Sammlung, auch wenn er sich unscheinbar
+    gibt. Mexiko hat mit dem CFDI eines der weltweit dichtesten Systeme elektronischer Rechnungspflicht
+    — jede einzelne Rechnung wird in Echtzeit an den SAT übermittelt —, und das ergibt einen Datenbestand,
+    mit dem sich Steuerverhalten lückenlos modellieren lässt. Die Autoren stellen fest, dass die Rechtsgrundlage
+    dafür bereits besteht, und sie stellen die Grundrechtsfrage nicht. Genau deshalb sollte man den Text
+    lesen: Er dokumentiert eine Verwaltungspraxis, die in Deutschland mit der E-Rechnungspflicht seit
+    01.01.2025 (§ 14 UStG n.F.) und dem geplanten Meldesystem gerade erst entsteht, und er zeigt, welche
+    Fragen dabei ungestellt bleiben. Steuerrechtlich solide, verfassungs- rechtlich blind — und als Beleg
+    dafür brauchbar.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-makowiecky-cruz-jurisdiccion-ia
+  typ: aufsatz
+  autoren:
+  - Makowiecky Salles, Bruno
+  - Cruz, Paulo Márcio
+  titel: 'Jurisdicción e inteligencia artificial: reflexiones y algunas aplicaciones en los tribunales
+    brasileños'
+  titel_deutsch: 'Rechtsprechung und künstliche Intelligenz: Überlegungen und einige Anwendungen an brasilianischen
+    Gerichten'
+  fundstelle: Opinión Jurídica 21 (2022), Nr. 46, 1–20
+  jahr: 2022
+  sprache: es
+  url: https://revistas.udem.edu.co/index.php/opinion/es/article/view/3963
+  doi: 10.22395/ojum.v21n46a6
+  zugang: open-access
+  jurisdiktionen:
+  - br
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  kernthese: 'Die Rechtsprechungsfunktion verändert sich unter dem Einsatz von KI an den brasilianischen
+    Gerichten, ohne dass die Rechtswissenschaft dafür bisher eine Kategorie hätte.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Brasilianische Autoren der UNIVALI, spanische Sprache, kolumbianische Zeitschrift
+    — für die Region typisch und ein Grund, bei der Zuordnung nach Autor und Gegenstand zu gehen, nicht
+    nach dem Publikationsort. Inhaltlich ist der Text schwächer als Limberger u.a.: Er referiert die Anwendungen
+    an den brasilianischen Gerichten, ohne sie zu prüfen, und die "Reflexionen" bleiben allgemein. Ich
+    führe ihn als Randlage, brauchbar allenfalls als spanischsprachiger Zugang zum brasilianischen Justizmaterial
+    für Leser, die kein Portugiesisch lesen.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-diaz-bustamante-odr-colombia
+  typ: aufsatz
+  autoren:
+  - Díaz Bolívar, Sebastián
+  - Bustamante Rúa, Mónica María
+  titel: Análisis de los sistemas de solución de conflictos en línea en el mundo y propuesta para su implementación
+    en Colombia
+  titel_deutsch: Analyse der Online-Streitbeilegungssysteme weltweit und Vorschlag für ihre Einführung
+    in Kolumbien
+  fundstelle: Revista Chilena de Derecho y Tecnología 11 (2022), Nr. 2, 245–276
+  jahr: 2022
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/66688
+  doi: 10.5354/0719-2584.2022.66688
+  zugang: open-access
+  jurisdiktionen:
+  - co
+  themenachsen:
+  - sektor-oeffentlich
+  - vertrag
+  kernthese: 'ODR-Systeme sind gegen Überlastung und Verzögerung der Justiz wirksam, aber nur, wenn sie
+    auf die Bedürfnisse der jeweiligen Gesellschaft zugeschnitten werden; für Kolumbien wird ein eigenes
+    Modell vorgeschlagen.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Zwei Autoren der Universidad de Medellín, sauber gearbeitet, und inhaltlich der Punkt,
+    an dem sich die lateinamerikanische Debatte von der europäischen unterscheidet: In Kolumbien ist ODR
+    keine Verbraucherschutzfrage, sondern eine Antwort auf einen Justizrückstand, der die Rechtsschutzgarantie
+    faktisch aushöhlt. Der Vergleichsteil (Alibaba, Rechtwijzer, British Columbia CRT, staatliche Programme)
+    ist gründlich, das kolumbianische Modell am Ende eher skizziert. Für die deutsche Diskussion um Online-Verfahren
+    nach dem Gesetz zur Einführung eines Online-Verfahrens in der Zivilgerichtsbarkeit ist die lateinamerikanische
+    Begründungsfigur — Zugang zum Recht statt Verfahrensökonomie — der interessantere Gedanke. KI kommt
+    nur am Rande vor; ich führe den Text als Kontextliteratur.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2023-sanroman-aranda-juez-ia
+  typ: aufsatz
+  autoren:
+  - Sanromán Aranda, Roberto
+  titel: ¿Viabilidad del cambio de un juez por la inteligencia artificial?
+  titel_deutsch: Ist die Ersetzung eines Richters durch künstliche Intelligenz möglich?
+  fundstelle: Revista de Derecho Privado (UNAM) 1 (2023), Nr. 23, 61–80
+  jahr: 2023
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-privado/article/view/18922
+  doi: 10.22201/iij.24487902e.2023.23.18922
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  themenachsen:
+  - sektor-oeffentlich
+  - berufsrecht
+  kernthese: 'KI kann alltägliche, nicht wertungsbedürftige Streitigkeiten und die alternative Streitbeilegung
+    übernehmen; die eigentliche richterliche Entscheidung bleibt vorerst dem Menschen vorbehalten.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der Autor sagt selbst, das Ziel sei, dem Leser den Einfluss der KI bewusst zu machen
+    — das ist ein Sensibilisierungstext, kein wissenschaftlicher Beitrag, und er liest sich auch so. Ich
+    nehme ihn nur auf, weil er in der Revista de Derecho Privado der UNAM steht und damit den Stand der
+    mexikanischen Zivilrechtsdebatte dokumentiert: Sie ist über die Frage "kann die Maschine den Richter
+    ersetzen" noch nicht hinaus. Wer Argumente sucht, liest Becerril Torres; wer den Diskussionsstand
+    belegen will, zitiert diesen Text.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2023-carvalho-viana-camara-tj-maranhao
+  typ: aufsatz
+  autoren:
+  - Porto de Carvalho, Márcia Haydée
+  - Moreira Viana, Pedro Nilson
+  - Cardoso Câmara, David Elias
+  titel: Software de decisão automatizada como ferramenta de compliance no Tribunal de Justiça do Maranhão
+  titel_deutsch: Software für automatisierte Entscheidungen als Compliance-Werkzeug am Gerichtshof von
+    Maranhão
+  fundstelle: Revista de Direito, Governança e Novas Tecnologias 9 (2023), Nr. 1, 57–73
+  jahr: 2023
+  sprache: pt
+  url: https://www.indexlaw.org/index.php/revistadgnt/article/view/9601
+  doi: 10.26668/IndexLawJournals/2526-0049/2023.v9i1.9601
+  zugang: open-access
+  jurisdiktionen:
+  - br
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - berufsrecht
+  kernthese: 'Automatisierte Entscheidungssoftware lässt sich am Gerichtshof von Maranhão als Instrument
+    des digitalen Compliance einsetzen, um Konflikte zwischen Rechten und technischen Möglichkeiten zu
+    entschärfen.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der Titel verspricht eine Fallstudie zu einem konkreten Landgerichtshof; das Abstract
+    liefert stattdessen eine Erörterung von Kybernetik, Legaltech und digitalem Compliance, in der der
+    Tribunal de Justiça do Maranhão kaum vorkommt. Ich erfasse den Text als Randlage und ausdrücklich
+    mit dieser Warnung: Wer die brasilianische Gerichtsautomatisierung an einem Einzelfall untersuchen
+    will, sollte hier nicht anfangen. Belegwert hat er dafür, dass die brasilianische Landesjustiz solche
+    Systeme tatsächlich betreibt — die belastbaren Zahlen dazu stehen aber in den Berichten des Conselho
+    Nacional de Justiça, nicht hier.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2021-cetys-preparacion-sector-judicial-ia
+  typ: bericht
+  autoren:
+  - Aguerre, Carolina (Leitung)
+  - Bustos, Lex (stellv. Leitung)
+  - Gorgone, Bruno
+  - Amunátegui, Carlos
+  - Aranguis, Matías
+  - Madrid, Raúl
+  - Castaño, Daniel
+  - Moreno González, Jimena
+  - Maqueo, María Solange
+  - Rentería Marín, César
+  - Mendoza Enríquez, Olivia Andrea
+  - Lens, Julio
+  - Segredo, Sandra
+  - Vargas, Fernando
+  titel: Preparación del sector judicial para la inteligencia artificial en América Latina
+  titel_deutsch: Die Vorbereitung des Justizsektors auf die künstliche Intelligenz in Lateinamerika
+  fundstelle: CETyS (Centro de Estudios en Tecnología y Sociedad, Universidad de San Andrés), Buenos Aires
+    2021; Kompendium plus fünf Länderstudien zu Argentinien, Chile, Kolumbien, Mexiko und Uruguay; gefördert
+    von der Tinker Foundation
+  jahr: 2021
+  sprache: es
+  url: https://cetys.lat/wp-content/uploads/2021/10/CompiladoV4.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  - ar
+  - cl
+  - co
+  - mx
+  - uy
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  kernthese: 'Der Justizsektor der fünf untersuchten Länder wird anhand von sechs Dimensionen und fünfzig
+    Indikatoren vermessen; die digitale Transformation der Gerichte läuft überall deutlich langsamer als
+    die der Exekutive, und funktionierende KI-Vorhaben entstehen nur dort, wo mehrere Akteursgruppen zusammenwirken.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Von allen Fundstellen dieser Datei ist das die, mit der ich anfangen würde. Es ist
+    die einzige systematische, mit einem offengelegten Indikatorenraster arbeitende Fünfländerstudie zur
+    KI in der lateinamerikanischen Justiz, sie ist frei zugänglich, und die Länderstudien sind von jeweils
+    einheimischen Autoren geschrieben — Castaño (Externado) für Kolumbien, Amunátegui und Madrid für Chile,
+    Maqueo und Rentería (CIDE) für Mexiko. Die kolumbianische Studie allein umfasst rund 92 Seiten und
+    dokumentiert Prometea und Pretoria am Verfassungsgericht, Siarelis bei der Superintendencia de Sociedades
+    und Fiscal Watson bei der Staatsanwaltschaft — das ist die einzige zusammenhängende Bestandsaufnahme
+    dieser Systeme, die ich gefunden habe, und sie ersetzt für Kolumbien das, was die blockierten Externado-Zeitschriften
+    geliefert hätten. Zwei Einschränkungen: Der Stand ist 2021, also vor der generativen Wende und vor
+    der kolumbianischen Entscheidung T-323/2024; und es ist ein Politikbericht, keine Dogmatik — Normen
+    kommen als Kontext vor, nicht als Prüfungsmassstab. Trotzdem Pflichtlektüre, weil es die Faktenbasis
+    ist, auf der alles andere aufsetzt.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2021-simon-castellano-valoracion-prueba
+  typ: aufsatz
+  autoren:
+  - Simón Castellano, Pere
+  titel: 'Inteligencia Artificial y valoración de la prueba: las garantías jurídico-constitucionales del
+    órgano de control'
+  titel_deutsch: 'Künstliche Intelligenz und Beweiswürdigung: die verfassungsrechtlichen Garantien der
+    Kontrollinstanz'
+  fundstelle: THEMIS Revista de Derecho 79 (2021), 283–297
+  jahr: 2021
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/themis/article/view/24878
+  doi: 10.18800/themis.202101.015
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  - es
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  kernthese: 'KI kann die freie richterliche Beweiswürdigung stützen — gerade dort, wo das menschliche
+    Urteil nachweislich unzuverlässig ist, etwa bei der Bewertung von Bestätigungsindizien —, sie aber
+    nicht ersetzen.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Spanischer Autor (UNIR) in einer peruanischen Zeitschrift; der Gegenstand ist überwiegend
+    spanisches Prozessrecht, die Rezeption aber peruanisch, und deshalb steht der Text in der peruanischen
+    Debatte. Der Gedanke, der ihn von der übrigen Justizliteratur abhebt: Simón Castellano argumentiert
+    nicht defensiv (KI gefährdet die Beweiswürdigung), sondern offensiv (die menschliche Beweiswürdigung
+    ist an bestimmten Stellen erratisch, und dort kann KI korrigieren). Für die deutsche Diskussion um
+    § 261 StPO und § 286 ZPO ist das die produktivere Fragestellung, und sie ist bei uns selten. Der Text
+    ist von 2021 und pandemiegeprägt — die Effizienzargumente sind zeitgebunden —, der Kerngedanke aber
+    nicht.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-barrenechea-certificacion-ambiental
+  typ: aufsatz
+  autoren:
+  - Barrenechea Sangama, Jaquelin
+  titel: Una aproximación a los retos para la implementación de la inteligencia artificial en el proceso
+    de certificación ambiental
+  titel_deutsch: Annäherung an die Herausforderungen der KI-Einführung im Umweltzertifizierungsverfahren
+  fundstelle: IUS ET VERITAS 71 (2025), 201–221
+  jahr: 2025
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/iusetveritas/article/view/33511
+  doi: 10.18800/iusetveritas.202502.012
+  zugang: open-access
+  jurisdiktionen:
+  - pe
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  kernthese: 'Vertrauenswürdige KI im peruanischen Umweltzertifizierungsverfahren scheitert nicht an der
+    Technik, sondern an fehlender behördenübergreifender Koordination, an einer nicht systematisierten
+    Umweltdatenbank, an veralteter Infrastruktur und an verstreuter Regelung.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der handfesteste Text der peruanischen Auswahl, weil er ein konkretes Verwaltungsverfahren
+    nimmt (die Umweltverträglichkeits- prüfung nach dem SEIA) und die Vorbedingungen der Automatisierung
+    benennt statt ihrer Chancen. Die Reihenfolge der Hindernisse — erst Datenlage, dann Infrastruktur,
+    dann Recht — ist die richtige und in der Literatur ungewöhnlich; die meisten Beiträge fangen beim
+    Recht an und tun so, als sei der Rest gelöst. Für die deutsche Diskussion um die Beschleunigung von
+    Genehmigungsverfahren durch KI ist das eine nützliche Ernüchterung. Keine Grundrechtsprüfung, keine
+    Rechtsprechung; Verwaltungspraxis pur.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-lco-accountable-ai
+  typ: bericht
+  autoren:
+  - Law Commission of Ontario
+  titel: 'Accountable AI: Final Report'
+  fundstelle: Law Commission of Ontario, Toronto, Juni 2022
+  jahr: 2022
+  sprache: en
+  url: https://lco-cdo.org/en/publications/accountable-ai-final-report/
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  kernthese: Der Einsatz von KI und automatisierter Entscheidungsfindung durch die oeffentliche Verwaltung
+    in Kanada braucht keine neuen Prinzipien, sondern die Uebersetzung bestehender verwaltungsrechtlicher
+    und menschenrechtlicher Bindungen in nachpruefbare Verfahren - Folgenabschaetzung, Begruendung, Beteiligung
+    und gerichtliche Kontrolle.
+  eigene_bewertung: 'Der wichtigste kanadische Bericht zum Thema und der Bezugspunkt, an dem sich in Kanada
+    alles abarbeitet. Fuer mich ist er deshalb wertvoll, weil die LCO die Frage nicht als Regulierungs-,
+    sondern als Verwaltungsrechtsfrage stellt: Was folgt aus den Grundsaetzen der Rechtmaessigkeit, der
+    Begruendungspflicht und des fairen Verfahrens, wenn die Behoerde ein Modell einsetzt? Das ist die
+    Perspektive, die in der deutschen Debatte um Paragraf 35a VwVfG und Art. 22 DSGVO zu kurz kommt, weil
+    wir vom Datenschutz her denken statt vom Verfahrensrecht. Die LCO liefert ausserdem konkretes Material
+    zu kanadischen Praxisfaellen (Risikoscores in Einwanderung und Kinderschutz), das man als Anschauungsmaterial
+    verwenden kann. Kein dogmatischer Text, aber die Dokumentation, die man zuerst liest.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07
+- id: 2025-garg-lanka-automating-the-state
+  typ: aufsatz
+  autoren:
+  - Garg, Medha
+  - Lanka, Shravani Nag
+  titel: 'Automating the State: Public Sector AI in India and the Challenge of Rights-Based Regulation'
+  fundstelle: Indian Journal of Law and Technology 21 (2025), Heft 1, Beitrag 5
+  jahr: 2025
+  sprache: en
+  url: https://repository.nls.ac.in/ijlt/vol21/iss1/5
+  zugang: open-access
+  jurisdiktionen:
+  - in
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  kernthese: Der Einsatz von KI in der indischen Verwaltung - von Sozialleistungsscoring bis Gesichtserkennung
+    - laesst sich mit einem rechtebasierten Regulierungsansatz nur schwer einhegen, weil das indische
+    Verwaltungsrecht keine allgemeine Begruendungspflicht und keine wirksame Folgenabschaetzung kennt.
+  eigene_bewertung: 'Das indische Gegenstueck zum LCO-Bericht und der beste Ueberblick ueber den staatlichen
+    KI-Einsatz in Indien, den ich frei zugaenglich gefunden habe. Was ihn fuer den Rechtsvergleich wertvoll
+    macht: Indien setzt Gesichtserkennung und algorithmische Sozialverwaltung in einem Ausmass ein, das
+    in Europa nach Art. 5 Abs. 1 lit. h KI-VO grossenteils verboten waere, und tut das ohne Datenschutzaufsicht
+    - der Digital Personal Data Protection Act 2023 ist zwar erlassen, die Regeln dazu kamen erst 2025.
+    Die Autorinnen zeigen, dass ein rechtebasierter Ansatz institutionelle Voraussetzungen hat, die man
+    in Europa fuer selbstverstaendlich haelt. Genau deshalb lesenswert.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2019-gavaghan-staatlicher-ki-einsatz-nz
+  typ: bericht
+  autoren:
+  - Gavaghan, Colin
+  - Knott, Alistair
+  - Maclaurin, James
+  - Zerilli, John
+  - Liddicoat, Joy
+  titel: 'Government Use of Artificial Intelligence in New Zealand: Final Report on Phase 1 of the New
+    Zealand Law Foundation''s Artificial Intelligence and Law in New Zealand Project'
+  fundstelle: New Zealand Law Foundation / University of Otago, Wellington 2019
+  jahr: 2019
+  sprache: en
+  url: https://www.lawfoundation.org.nz/wp-content/uploads/2019/05/2016_ILP_10_AILNZ-Report-released-27.5.2019.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  kernthese: Neuseeland gehoert weltweit zu den Vorreitern beim behoerdlichen Algorithmeneinsatz, verfuegt
+    aber ueber keine unabhaengige Aufsicht; noetig seien ein Regulator, verbindliche Transparenzpflichten
+    und Vorkehrungen gegen Verzerrung und Fehlerfortpflanzung.
+  eigene_bewertung: 'Der Gruendungstext der neuseelaendischen Debatte und der einzige umfassende Bestandsaufnahmenbericht,
+    den das Land hat. Auf ihm beruht der Algorithm Charter for Aotearoa New Zealand von 2020, also das
+    zentrale neuseelaendische Regelwerk - wer den Charter verstehen will, muss diesen Bericht kennen.
+    Fuer den Rechtsvergleich ist Neuseeland deshalb interessant, weil es ein Land ohne geschriebene Verfassung
+    und ohne Verwaltungsgerichtsbarkeit kontinentaler Praegung ist: Die Kontrolle des Algorithmeneinsatzes
+    laeuft ueber judicial review nach Common-Law-Grundsaetzen und ueber den Privacy Act. Der Bericht zeigt
+    schonungslos, wie wenig das traegt. Wichtig auch die Ausfuehrungen zu Maori-Daten und zum Vertrag
+    von Waitangi - eine Dimension, die kein europaeischer Text hat. Aeltester Text der neuseelaendischen
+    Auswahl, aber unverzichtbar.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-seow-pistorius-automatisierte-strassennutzungsgebuehren
+  typ: aufsatz
+  autoren:
+  - Seow, Isa
+  - Pistorius, Tana
+  titel: Automated Traffic Congestion Charging Systems
+  fundstelle: Policy Quarterly 20 (2024), Heft 3, 69-77
+  jahr: 2024
+  sprache: en
+  doi: 10.26686/pq.v20i3.9559
+  zugang: open-access
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - grundrechte
+  kernthese: Automatisierte Systeme zur Erhebung von Stauabgaben werfen in Neuseeland Datenschutz-, Verhaeltnismaessigkeits-
+    und Gleichbehandlungsfragen auf, die im Gesetzgebungsverfahren bislang nicht beantwortet sind.
+  eigene_bewertung: 'Konkreter Anwendungsfall statt Grundsatzdebatte, und deshalb lehrreich: Kennzeichenerfassung
+    im oeffentlichen Raum ist der Standardfall, an dem sich die Verhaeltnismaessigkeit biometrischer und
+    quasi-biometrischer Massenerfassung praktisch entscheidet. Tana Pistorius ist Immaterialgueter- und
+    Technologierechtlerin (frueher Suedafrika, jetzt Auckland), was dem Beitrag juristische Substanz gibt,
+    die andere Policy-Quarterly-Beitraege vermissen lassen. Fuer die Achse sektor-oeffentlich ein brauchbarer
+    Fallbezug, mehr nicht.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2022-zerilli-algorithmische-strafzumessung
+  typ: sammelband
+  autoren:
+  - Zerilli, John
+  titel: Algorithmic Sentencing
+  fundstelle: 'in: Jesper Ryberg/Julian V. Roberts (Hrsg.), Sentencing and Artificial Intelligence, Oxford
+    University Press, New York 2022, 165-183'
+  jahr: 2022
+  sprache: en
+  doi: 10.1093/oso/9780197539538.003.0009
+  isbn: '9780197539538'
+  zugang: bezahlt
+  jurisdiktionen:
+  - nz
+  - intl
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  kernthese: Algorithmische Strafzumessung ist nicht schon deshalb unzulaessig, weil sie statistisch arbeitet;
+    entscheidend sind die Bedingungen, unter denen der Richter das Ergebnis noch verantworten kann.
+  eigene_bewertung: 'Zerilli fuehrt hier sein Kontrollproblem-Argument in das Strafzumessungsrecht ueber,
+    und das ist die praktisch wichtigste Anwendung: Wenn menschliche Aufsicht durch Automatisierungsverzerrung
+    entwertet wird, dann trifft das die Strafzumessung haerter als jeden anderen Bereich. Fuer die deutsche
+    Diskussion um Paragraf 46 StGB und den Einsatz von Zumessungsdatenbanken unmittelbar anschlussfaehig.
+    Der Beitrag steht in einem Sammelband, der insgesamt die beste Zusammenstellung zum Thema ist. Neuseelandbezug
+    nur ueber den Autor.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

@@ -1,0 +1,1619 @@
+literatur:
+- id: 2024-edsa-opinion-28-2024
+  typ: bericht
+  autoren:
+  - Europäischer Datenschutzausschuss
+  titel: Opinion 28/2024 on certain data protection aspects related to the processing of personal data
+    in the context of AI models
+  fundstelle: EDSA, Stellungnahme nach Art. 64 Abs. 2 DSGVO, angenommen am 18.12.2024
+  jahr: 2024
+  sprache: en
+  url: https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Ein KI-Modell ist nur dann anonym, wenn die Wahrscheinlichkeit sowohl der Extraktion personenbezogener
+    Trainingsdaten als auch ihrer Preisgabe über Abfragen 'insignifikant' ist; das ist von der Aufsichtsbehörde
+    einzelfallbezogen zu prüfen, nicht zu vermuten.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, ohne den man in diesem Teilgebiet nicht mitreden kann — jede europäische
+    Aufsichtsbehörde, jeder Compliance-Vermerk und jede Gegenschrift setzt hier an. Drei Punkte tragen:
+    erstens die Absage an eine pauschale Anonymitätsvermutung für Modelle (Rn. 30 ff.), zweitens der dreistufige
+    Prüfaufbau zum berechtigten Interesse mit den "vernünftigen Erwartungen" als Schwerpunkt, drittens
+    die differenzierte Antwort auf die Frage, ob rechtswidriges Training die spätere Nutzung infiziert
+    — sie tut es grundsätzlich nicht, wenn das Modell anonymisiert wurde. Angreifbar ist genau die Mitte:
+    Der EDSA definiert "insignifikant" nicht operationalisierbar und schiebt die Beweislast dem Verantwortlichen
+    zu, ohne einen Maßstab zu nennen, den ein Gericht nachrechnen könnte. Wer die Gegenposition sucht,
+    findet sie im Hamburger Diskussionspapier (2024-hmbbfdi-llm-personenbezug); wer die technische Grundlage
+    sucht, bei Nasr u.a. 2023 und Lukas u.a. 2023. Die Stellungnahme ist überdies das Dokument, gegen
+    das der Digital Omnibus argumentiert: Die dort vorgeschlagene relative Fassung des Personenbezugsbegriffs
+    würde ihr die Grundlage entziehen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  - dsgvo-art-4-nr-1
+- id: 2026-edsa-leitlinien-03-2026-scraping
+  typ: bericht
+  autoren:
+  - Europäischer Datenschutzausschuss
+  titel: Guidelines 03/2026 on web scraping in the context of generative AI
+  fundstelle: EDSA, Leitlinien 03/2026, Version 1.0, angenommen am 07.07.2026
+  jahr: 2026
+  sprache: en
+  url: https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_2020603_webscraping_v1_en_0.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - digital-omnibus-daten-2025-0360
+  kernthese: Scraping öffentlich zugänglicher personenbezogener Daten ist nicht per se verboten, sondern
+    über Art. 6 Abs. 1 lit. f DSGVO rechtfertigungsfähig; entscheidend sind die vernünftigen Erwartungen
+    der Betroffenen sowie Datenminimierungsmassnahmen vor und nach der Erhebung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die aktuellste unionsrechtliche Positionsbestimmung zum Trainingsdatenerwerb und
+    der Text, an dem sich die Praxis ab sofort ausrichtet. Wichtig ist die Verschiebung gegenüber Opinion
+    28/2024: Der EDSA arbeitet die Abwägung nicht mehr abstrakt, sondern über Plattformkontext und Anti-Scraping-Vorkehrungen
+    — wer auf einer Plattform veröffentlicht, die Dritten das Auslesen ausdrücklich ankündigt, kann mit
+    einer Trainingsnutzung rechnen. Das ist eine erhebliche Entlastung der Anbieter und wird von der Zivilgesellschaft
+    entsprechend kritisiert. Die zweite Neuerung ist die Ausweitung der GC-u.a.-Rechtsprechung (C-136/17)
+    auf inzidentell erfasste besondere Kategorien: Sie greift nur, soweit der Verantwortliche im Rahmen
+    seiner Möglichkeiten Maßnahmen trifft — eine Formel, die Filterpflichten begründet, aber ihren Umfang
+    offenlässt. Angreifbar ist die Transparenzlösung: Die Befreiung von der Einzelbenachrichtigung nach
+    Art. 14 Abs. 5 lit. b DSGVO wird großzügig gehandhabt, obwohl gerade sie das Betroffenenrechte-Problem
+    erzeugt, das Kapitel III dieser Akte behandelt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  - dsgvo-art-9
+  - dsgvo-art-14-abs-5-lit-b
+- id: 2024-hmbbfdi-llm-personenbezug
+  typ: bericht
+  autoren:
+  - Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit
+  titel: 'Discussion Paper: Large Language Models and Personal Data'
+  fundstelle: HmbBfDI, Diskussionspapier, Juli 2024 (deutsche und englische Fassung)
+  jahr: 2024
+  sprache: en
+  url: https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Discussion_Paper_Hamburg_DPA_KI_Models.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - de-dsk-ki-leitlinien
+  kernthese: In einem LLM sind keine personenbezogenen Daten gespeichert; die bloße Vorhaltung des Modells
+    ist deshalb keine Verarbeitung, und Betroffenenrechte können sich nicht gegen das Modell, sondern
+    nur gegen Input und Output des Systems richten.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die schärfste Gegenposition zum EDSA und der Grund, warum die Frage nach dem Personenbezug
+    von Modellgewichten überhaupt streitig ist. Hamburg argumentiert technisch: Tokens und Gewichte seien
+    mathematische Relationen, keine Informationen über eine bestimmbare Person; wer aus einem Modell etwas
+    extrahiert, erzeuge die Information erst. Der Text ist die dogmatisch mutigste Aufsichtsäußerung Europas
+    und zugleich die angreifbarste. Drei Einwände: Erstens ist die Prämisse empirisch überholt — Nasr
+    u.a. 2023 extrahieren wörtliche Trainingsdaten aus Produktionsmodellen, Lukas u.a. 2023 messen PII-Leakage
+    auch unter differentieller Privatheit. Zweitens verwechselt These 1 Speicherung mit Wiederauffindbarkeit;
+    die DSGVO knüpft an Information über eine bestimmbare Person, nicht an ein Dateiformat. Drittens führt
+    These 3 (Trainingsverstöße infizieren den späteren Betrieb nicht) zu einem Rechtsfolgenloch, das der
+    EDSA wenigstens an die Anonymisierung koppelt. Trotzdem Pflicht: Ohne diesen Text versteht man weder
+    die deutsche Aufsichtspraxis noch, warum die Frage rechtspolitisch offen ist. Er ist auch der Steinbruch,
+    aus dem die Omnibus-Begründung ihre Argumente nimmt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-4-nr-1
+- id: 2025-cnil-fiches-ia
+  typ: bericht
+  autoren:
+  - Commission nationale de l'informatique et des libertés
+  titel: AI how-to sheets — Recommendations on the development of artificial intelligence systems
+  fundstelle: CNIL, Reihe von Praxisblättern (Sheets 1–7 ff.), Paris, ab 2024, laufend fortgeschrieben
+  jahr: 2025
+  sprache: en
+  url: https://www.cnil.fr/en/ai-how-sheets
+  zugang: open-access
+  jurisdiktionen:
+  - fr
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Die DSGVO ist auf KI-Entwicklung anwendbar, aber praktikabel handhabbar, wenn Zweck, Rolle
+    und Rechtsgrundlage vorab bestimmt und Datenschutz in die Systemarchitektur und die Datenerhebung
+    eingebaut werden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die CNIL ist die einzige große europäische Aufsichtsbehörde, die statt eines Grundsatzpapiers
+    eine fortlaufende Handreichungsreihe pflegt, und sie ist deutlich innovationsfreundlicher als der
+    EDSA. Für die rechtsvergleichende Arbeit ist das der Kontrapunkt zu Hamburg auf der anderen Seite:
+    Hamburg bestreitet den Anwendungsbereich, die CNIL bejaht ihn und macht ihn beherrschbar. Praktisch
+    wertvoll sind Blatt 2 (Zweckbestimmung bei Allzweckmodellen — die CNIL lässt eine abstrakte Zweckbeschreibung
+    genügen, was mit Art. 5 Abs. 1 lit. b DSGVO in Spannung steht) und Blatt 4 (Rechtsgrundlage). Schwäche:
+    Die Blätter sind Verwaltungspraxis ohne Bindungswirkung, und die englische Fassung hinkt der französischen
+    nach. Wer die französische Position zitiert, sollte gegen die Originalfassung prüfen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-5-abs-1-lit-b
+  - dsgvo-art-6
+- id: 2021-finck-biega-zweckbindung-datenminimierung
+  typ: aufsatz
+  autoren:
+  - Finck, Michèle
+  - Biega, Asia J.
+  titel: Reviving Purpose Limitation and Data Minimisation in Data-Driven Systems
+  fundstelle: Technology and Regulation 2021, 44–61
+  jahr: 2021
+  sprache: en
+  url: https://techreg.org/article/view/10986
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: 'Zweckbindung und Datenminimierung sind beim maschinellen Lernen nicht undurchführbar, sondern
+    unterreguliert: Empirisch kommen Systeme mit deutlich weniger Daten aus, als sie verarbeiten, weshalb
+    der Grundsatz technisch operationalisierbar wäre.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der beste verfügbare Text zu der Frage, die in der deutschen Debatte meist mit einem
+    Achselzucken abgetan wird ("beim Training geht das nicht"). Finck und Biega zeigen mit Experimenten
+    aus dem Empfehlungssystembereich, dass Leistungseinbussen bei drastischer Datenreduktion oft gering
+    sind — das verschiebt die Argumentationslast: Nicht der Datenschutz muss beweisen, dass weniger geht,
+    sondern der Verantwortliche, dass mehr nötig ist. Für die Erforderlichkeitsprüfung nach Art. 6 Abs.
+    1 lit. f DSGVO und für die Verhältnismäßigkeit im Rahmen von Opinion 28/2024 ist das die zentrale
+    empirische Referenz. Angreifbar ist die Übertragbarkeit: Die Befunde stammen aus Personalisierungssystemen,
+    nicht aus dem Vortraining großer Sprachmodelle, wo Skalengesetze gerade die Datenmenge belohnen. Diese
+    Übertragung nehmen die Autorinnen selbst nicht vor; sie ist die offene Anschlussfrage.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-5-abs-1-lit-b
+  - dsgvo-art-5-abs-1-lit-c
+  - dsgvo-art-6-abs-1-lit-f
+- id: 2017-zarsky-incompatible-gdpr-big-data
+  typ: aufsatz
+  autoren:
+  - Zarsky, Tal Z.
+  titel: 'Incompatible: The GDPR in the Age of Big Data'
+  fundstelle: Seton Hall Law Review 47 (2017), Heft 4, Art. 2
+  jahr: 2017
+  sprache: en
+  url: https://scholarship.shu.edu/shlr/vol47/iss4/2/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Die tragenden Prinzipien der DSGVO — Zweckbindung, Datenminimierung, Einwilligung, Transparenz
+    — sind mit datengetriebener Analyse strukturell unvereinbar, und dieser Konflikt ist im Text der Verordnung
+    nicht aufgelöst, sondern verdeckt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Grundsatzkritik, auf die sich die gesamte Deregulierungsargumentation des Digital
+    Omnibus letztlich stützt, neun Jahre bevor die Kommission sie aufgriff — und geschrieben von einem
+    Autor, der aus der Unvereinbarkeit keine Deregulierungsforderung ableitet, sondern eine Warnung vor
+    der Selbsttäuschung des Gesetzgebers. Wer den Omnibus fachlich einordnen will, sollte diesen Text
+    vorher lesen, weil er zeigt, dass die Diagnose alt und richtig, die politische Schlussfolgerung aber
+    keineswegs zwingend ist. Angreifbar: Zarsky schreibt vor der Rechtsprechung des EuGH zur Zweckvereinbarkeit
+    und vor Art. 89 DSGVO in der Auslegung, die er inzwischen erfahren hat; einige seiner Unvereinbarkeitsbehauptungen
+    sind entschärft. Gegenposition ist Finck/Biega 2021.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-5-abs-1-lit-b
+  - dsgvo-art-89
+- id: 2019-wachter-mittelstadt-reasonable-inferences
+  typ: aufsatz
+  autoren:
+  - Wachter, Sandra
+  - Mittelstadt, Brent
+  titel: 'A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and
+    AI'
+  fundstelle: Columbia Business Law Review 2019, Heft 2, 494–620
+  jahr: 2019
+  sprache: en
+  url: https://journals.library.columbia.edu/index.php/CBLR/article/view/3424
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Die DSGVO behandelt Schlussfolgerungen als Daten zweiter Klasse und schützt die Eingabedaten
+    statt der Bewertung; nötig wäre ein Recht auf vertretbare Schlussfolgerungen mit Begründungspflicht
+    für risikoreiche Inferenzen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die Lücke benennt, die generative Modelle heute zur Hauptbaustelle
+    machen: Nicht das Trainingsdatum ist das Problem, sondern die aus ihm erzeugte Aussage über eine Person.
+    Wachter und Mittelstadt haben das 2019 an Scoring und Profiling entwickelt; Staab u.a. 2023 zeigen
+    empirisch, dass Sprachmodelle genau das mit hoher Genauigkeit und zu vernachlässigbaren Kosten tun.
+    Die Verbindung beider Texte ist die stärkste verfügbare Begründung dafür, dass die Halluzinationsbeschwerden
+    von noyb keine Randfrage sind, sondern das Zentrum. Angreifbar ist der Vorschlag selbst: Ein "Recht
+    auf vertretbare Schlussfolgerungen" braucht einen Vertretbarkeitsmassstab, den die Autoren den Gerichten
+    überlassen; die deutsche Diskussion um § 31 BDSG zeigt, wohin das führt. Nach SCHUFA (C-634/21) ist
+    der Aufsatz teilweise überholt und teilweise bestätigt — die Auseinandersetzung damit fehlt und wäre
+    eine Publikationsmöglichkeit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-22
+  - dsgvo-art-4-nr-1
+- id: 2018-purtova-law-of-everything
+  typ: aufsatz
+  autoren:
+  - Purtova, Nadezhda
+  titel: The Law of Everything. Broad Concept of Personal Data and Future of EU Data Protection Law
+  fundstelle: Law, Innovation and Technology 10 (2018), 40–81
+  jahr: 2018
+  sprache: en
+  doi: 10.1080/17579961.2018.1452176
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Der weite Personenbezugsbegriff macht die DSGVO zum Recht von allem und damit unanwendbar;
+    ihre Reichweite muss über eine risikobasierte Abstufung der Pflichten statt über den Anwendungsbereich
+    begrenzt werden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der meistzitierte Text zur Frage, wie weit "personenbezogen" reicht, und die theoretische
+    Grundlage beider Lager im Modellgewichte-Streit: Wer Modelle für personenbezogen hält, beruft sich
+    auf Purtovas Befund; wer es bestreitet, beruft sich auf ihre Warnung vor den Folgen. Für den Digital
+    Omnibus ist er unmittelbar einschlägig, weil die dort vorgeschlagene relative Fassung des Art. 4 Nr.
+    1 DSGVO genau die Begrenzung versucht, die Purtova für nötig hält — nur am Anwendungsbereich statt
+    an den Pflichten, also auf dem Weg, den sie ausdrücklich verwirft. Diese Pointe hat, soweit ersichtlich,
+    noch niemand ausgeschrieben. KEINE `url`: Der Aufsatz ist bei Taylor & Francis frei zugänglich, der
+    Verlagsserver verweigert aber automatisierte Abrufe; über den DOI erreichbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-4-nr-1
+- id: 2018-veale-binns-edwards-algorithms-remember
+  typ: aufsatz
+  autoren:
+  - Veale, Michael
+  - Binns, Reuben
+  - Edwards, Lilian
+  titel: 'Algorithms That Remember: Model Inversion Attacks and Data Protection Law'
+  fundstelle: Philosophical Transactions of the Royal Society A 376 (2018), 20180083; arXiv:1807.04644
+  jahr: 2018
+  sprache: en
+  doi: 10.1098/rsta.2018.0083
+  url: https://arxiv.org/abs/1807.04644
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - sicherheit-export
+  - governance
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Weil sich aus trainierten Modellen über Modellinversions- und Mitgliedschaftsangriffe Trainingsdaten
+    rekonstruieren lassen, sind die Modelle selbst als personenbezogene Daten zu behandeln — mit der Folge,
+    dass Auskunfts- und Löschungsrechte an ihnen ansetzen.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Gründungstext der Frage, die der Auftrag zu Recht die dogmatisch spannendste
+    nennt, und der einzige, der sie vollständig durchdenkt: Wenn ein Modell personenbezogene Daten enthält,
+    kollidiert das Betroffenenrecht unmittelbar mit dem Geschäftsgeheimnis am Modell — Veale, Binns und
+    Edwards sagen als Erste, dass diese Kollision zugunsten des Datenschutzes aufzulösen ist und dass
+    Modelle deshalb nicht als reines Immaterialgut behandelt werden dürfen. Acht Jahre später ist genau
+    das die Streitfrage zwischen EDSA (Opinion 28/2024, im Ergebnis zustimmend, aber mit Anonymitätsvorbehalt)
+    und Hamburg (ablehnend). Der Text ist Pflicht, weil beide Seiten ihn zitieren und beide ihn verkürzen:
+    Der EDSA übergeht, dass die Autoren die Frage nicht am Extraktionsrisiko, sondern am Informationsgehalt
+    festmachen; Hamburg übergeht, dass der Befund empirisch und nicht spekulativ ist. Angreifbar ist die
+    Reichweite: Die untersuchten Angriffe stammen aus der Zeit vor den großen Sprachmodellen und betreffen
+    kleine, überwachte Modelle mit wenigen Klassen — die Übertragung auf Modelle mit hunderten Milliarden
+    Parametern ist plausibel, aber nicht belegt. Diese Lücke schließen Nasr u.a. 2023 und Lukas u.a. 2023.
+    Zweiter Anschlusspunkt: Wenn Modelle personenbezogene Daten enthalten, sind sie zugleich Kopien im
+    Sinne des Streitstands `modellgewichte-kopie` — dieselbe technische Prämisse trägt zwei völlig verschiedene
+    Rechtsfolgen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-4-nr-1
+  - dsgvo-art-15
+  - dsgvo-art-17
+- id: 2023-nasr-scalable-extraction
+  typ: working-paper
+  autoren:
+  - Nasr, Milad
+  - Carlini, Nicholas
+  - Hayase, Jonathan
+  - Jagielski, Matthew
+  - Cooper, A. Feder
+  - Ippolito, Daphne
+  - Choquette-Choo, Christopher A.
+  - Wallace, Eric
+  - Tramèr, Florian
+  - Lee, Katherine
+  titel: Scalable Extraction of Training Data from (Production) Language Models
+  fundstelle: arXiv:2311.17035, 28.11.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2311.17035
+  url: https://arxiv.org/abs/2311.17035
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - datenschutz
+  - gpai
+  - sicherheit-export
+  - urheberrecht
+  bezug_streitstaende:
+  - fair-use-training
+  - modellgewichte-kopie
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Aus produktiv eingesetzten, ausgerichteten Sprachmodellen lassen sich mit einem einfachen
+    Divergenzangriff gigabyteweise wörtliche Trainingsdaten extrahieren, mit einer 150-fach erhöhten Ausgaberate
+    gegenüber dem regulären Betrieb.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die empirische Widerlegung der Hamburger These 1 und die Studie, auf die sich der
+    EDSA bei der Bestimmung des Extraktionsrisikos stützt. Für Juristen ist der wichtigste Befund nicht
+    die Datenmenge, sondern dass der Angriff trivial ist — die Wiederholung eines Wortes — und dass er
+    gegen ein ausgerichtetes Produktionsmodell funktioniert. Damit fällt das Argument, Extraktion sei
+    nur unter Laborbedingungen möglich. Angreifbar ist die Verallgemeinerung in die Gegenrichtung: Die
+    Autoren extrahieren einen winzigen Bruchteil des Trainingskorpus, überwiegend häufig wiederholte Passagen;
+    für die Frage, ob ein bestimmter Betroffener im Modell "enthalten" ist, taugt der Befund nicht. Wer
+    die Anonymitätsfrage mit dieser Studie erschlagen will, überdehnt sie. Der Angriff ist inzwischen
+    gepatcht; die Autoren sagen selbst, dass das die zugrundeliegende Memorisierung nicht beseitigt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  bezug_urteile: []
+  auch_erfasst_in:
+  - 33_lit_datenschutz
+  - 35_lit_technik
+  normen:
+  - dsgvo-art-4-nr-1
+  - cal-civ-1798-140-v-4-c
+- id: 2023-lukas-pii-leakage
+  typ: aufsatz
+  autoren:
+  - Lukas, Nils
+  - Salem, Ahmed
+  - Sim, Robert
+  - Tople, Shruti
+  - Wutschitz, Lukas
+  - Zanella-Bégülin, Santiago
+  titel: Analyzing Leakage of Personally Identifiable Information in Language Models
+  fundstelle: IEEE Symposium on Security and Privacy (S&P) 2023; arXiv:2302.00539
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2302.00539
+  url: https://arxiv.org/abs/2302.00539
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - sicherheit-export
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Auch Sprachmodelle, die mit satzweiser differentieller Privatheit trainiert wurden, geben
+    noch rund drei Prozent der personenbezogenen Sequenzen preis; Scrubbing und differentielle Privatheit
+    schützen weniger, als sie zu schützen versprechen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die für die Rechtsanwendung wichtigste der technischen Arbeiten dieser Akte, weil
+    sie genau die Maßnahmen misst, die Aufsichtsbehörden und Anbieter als Anonymisierung anbieten. Der
+    Befund ist unbequem für beide Seiten: Er widerlegt die Behauptung, differentielle Privatheit löse
+    das Problem, und er zeigt zugleich, dass die Restleckage quantifizierbar ist — also genau das liefert,
+    was der EDSA mit "insignifikant" meint, aber nicht beziffert. Wer die Schwelle operationalisieren
+    will, hat hier eine Messlatte. Angreifbar ist der Aufbau: feinabgestimmte GPT-2-Modelle auf drei Korpora,
+    nicht Vortraining im heutigen Maßstab; die Übertragung auf Frontier-Modelle ist Extrapolation. Die
+    Arbeit ist außerdem älter als die inzwischen üblichen Deduplizierungspipelines.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-4-nr-1
+  - cal-civ-1798-140-v-4-c
+- id: 2022-brown-language-model-privacy
+  typ: aufsatz
+  autoren:
+  - Brown, Hannah
+  - Lee, Katherine
+  - Mireshghallah, Fatemehsadat
+  - Shokri, Reza
+  - Tramèr, Florian
+  titel: What Does it Mean for a Language Model to Preserve Privacy?
+  fundstelle: FAccT '22 — Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency;
+    arXiv:2202.05520
+  jahr: 2022
+  sprache: en
+  doi: 10.48550/arXiv.2202.05520
+  url: https://arxiv.org/abs/2202.05520
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Datenbereinigung und differentielle Privatheit können den Schutz der Privatheit bei Sprachmodellen
+    grundsätzlich nicht leisten, weil sie kontextuelle Integrität nicht abbilden; zulässig sei nur Training
+    auf Text, der ausdrücklich zur Veröffentlichung erzeugt wurde.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der konzeptionell radikalste Text dieser Akte und die eigentliche Herausforderung
+    an das europäische Datenschutzrecht: Nicht die Rechtsgrundlage sei falsch gewählt, sondern die Kategorie
+    — Privatheit in Sprache sei kontextabhängig und deshalb weder durch Anonymisierung noch durch Einwilligung
+    erfassbar. Wer Nissenbaums kontextuelle Integrität als Maßstab akzeptiert, kommt zu dem Ergebnis,
+    dass der weitaus größte Teil des heutigen Trainingskorpus unzulässig ist; das ist eine Position, die
+    in Europa niemand vertritt und die deshalb die produktivste Provokation liefert. Für die Praxis ist
+    der Vorschlag unbrauchbar — ein Korpus aus ausdrücklich zur Veröffentlichung bestimmten Texten gibt
+    es nicht, und die Autoren sagen nicht, wer das feststellt. Als Maßstab für die Abwägung nach Art.
+    6 Abs. 1 lit. f DSGVO und für die "vernünftigen Erwartungen" der EDSA-Leitlinien 03/2026 ist er dagegen
+    unmittelbar brauchbar und deutlich präziser als alles, was die Aufsichtspraxis anbietet.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+- id: 2023-staab-beyond-memorization
+  typ: aufsatz
+  autoren:
+  - Staab, Robin
+  - Vero, Mark
+  - Balunović, Mislav
+  - Vechev, Martin
+  titel: 'Beyond Memorization: Violating Privacy Via Inference with Large Language Models'
+  fundstelle: ICLR 2024; arXiv:2310.07298
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2310.07298
+  url: https://arxiv.org/abs/2310.07298
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Sprachmodelle erschließen aus unauffälligem Text persönliche Merkmale wie Wohnort und Einkommen
+    mit bis zu 85 Prozent Treffergenauigkeit, schneller und um Größenordnungen billiger als Menschen —
+    die Datenschutzgefahr liegt in der Inferenz, nicht in der Memorisierung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die Debatte an der richtigen Stelle verschiebt. Die gesamte europäische
+    Diskussion — EDSA, Hamburg, Omnibus — dreht sich um die Frage, ob Trainingsdaten im Modell stecken.
+    Staab u.a. zeigen, dass das für den Grundrechtsschutz zweitrangig ist: Ein Modell, das gar nichts
+    memorisiert hat, kann aus drei Sätzen eines Forenbeitrags die Herkunft, das Geschlecht und das Einkommen
+    der schreibenden Person erschließen. Damit ist die Anonymitätsfrage entkoppelt vom eigentlichen Risiko,
+    und die Kategorie der besonderen Datenarten nach Art. 9 DSGVO wird prekär — was den Digital-Omnibus-Vorschlag,
+    den Schutz auf "unmittelbar offenbarende" Daten zu beschränken, besonders angreifbar macht (so Ruschemeier
+    2025). Angreifbar ist die Übertragung ins Recht: Die Autoren messen Trefferquoten gegen Reddit-Profile,
+    nicht gegen Ground Truth; Falschinferenzen sind datenschutzrechtlich ein anderes Problem (Richtigkeit,
+    Art. 5 Abs. 1 lit. d) als Richtiginferenzen. Beides kommt vor, der Text trennt es nicht sauber.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-9
+  - dsgvo-art-5-abs-1-lit-d
+  - cal-civ-1798-140-v-4-c
+- id: 2025-edsa-leitlinien-01-2025-pseudonymisierung
+  typ: bericht
+  autoren:
+  - Europäischer Datenschutzausschuss
+  titel: Guidelines 01/2025 on Pseudonymisation
+  fundstelle: EDSA, Leitlinien 01/2025, Fassung für die öffentliche Konsultation vom 17.01.2025
+  jahr: 2025
+  sprache: en
+  url: https://www.edpb.europa.eu/system/files/2025-01/edpb_guidelines_202501_pseudonymisation_en.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - digital-omnibus-daten-2025-0360
+  kernthese: Pseudonymisierte Daten bleiben für den Verantwortlichen und für jeden, der über zusätzliche
+    Informationen verfügen kann, personenbezogen; die Pseudonymisierung ist Schutzmaßnahme, nicht Bereichsausnahme.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Für die Modellgewichte-Frage ist das der methodisch einschlägigste Text des EDSA,
+    obwohl er von KI kaum spricht: Er legt den absoluten beziehungsweise relativ-weiten Maßstab der Identifizierbarkeit
+    fest, an dem sich entscheidet, ob ein Modell anonym sein kann. Wer die Leitlinien und Opinion 28/2024
+    nebeneinanderlegt, sieht die Systematik: Modellgewichte sind nach EDSA-Logik der Pseudonymisierung
+    strukturell näher als der Anonymisierung, weil der Anbieter die Zusatzinformation — den Trainingskorpus
+    — regelmäßig noch hat. Genau dieser Maßstab ist es, den der Digital Omnibus mit der empfängerbezogenen
+    Fassung des Art. 4 Nr. 1 DSGVO kippen würde; die Leitlinien sind damit unfreiwillig das Referenzdokument
+    der Omnibus-Kritik. Angreifbar: Es ist die Konsultationsfassung; die Endfassung ist gegen sie zu prüfen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-4-nr-1
+  - dsgvo-art-4-nr-5
+- id: 2024-cooper-unlearning-doesnt-do
+  typ: working-paper
+  autoren:
+  - Cooper, A. Feder
+  - Choquette-Choo, Christopher A.
+  - Bogen, Miranda
+  - Klyman, Kevin
+  - Jagielski, Matthew
+  titel: 'Machine Unlearning Doesn''t Do What You Think: Lessons for Generative AI Policy and Research'
+  fundstelle: arXiv:2412.06966, 09.12.2024 (Fassung v2 vom 31.10.2025); insgesamt 31 Verfasser
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2412.06966
+  url: https://arxiv.org/abs/2412.06966
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: 'Maschinelles Verlernen leistet nicht, was Gesetzgeber und Aufsicht sich davon versprechen:
+    Es kann Wissen im Modell nicht zuverlässig entfernen und taugt deshalb weder als Erfüllung des Löschungsanspruchs
+    noch als Sicherheitsmaßnahme.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der wichtigste Dämpfer für die bequemste Antwort auf das Betroffenenrechte-Problem.
+    Die Vorstellung, ein Modell könne einzelne Personen "vergessen", trägt einen erheblichen Teil der
+    Compliance-Literatur und taucht auch in Aufsichtsäußerungen auf; die Autoren — darunter mehrere, die
+    selbst Unlearning-Verfahren entwickelt haben — zeigen, dass Zielsetzung und technische Leistungsfähigkeit
+    systematisch auseinanderfallen: Verlernte Inhalte lassen sich rekonstruieren, das Verlernen beschädigt
+    benachbartes Wissen, und es gibt keine überprüfbare Erfolgsdefinition. Für die Praxis heißt das: Wer
+    den Löschungsanspruch aus Art. 17 DSGVO mit Unlearning erfüllen will, verspricht mehr, als er halten
+    kann; das Retraining bleibt die einzige belastbare Erfüllung, und dessen Unzumutbarkeit ist dann offen
+    darzulegen statt zu verdecken. Angreifbar ist die Reichweite der Aussage: Der Text ist kein Beweis
+    der Unmöglichkeit, sondern eine Bestandsaufnahme der Verfahren von 2024; Fortschritte sind nicht ausgeschlossen.
+    Gegenstück und Ausgangspunkt ist Liu u.a. 2024.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-17
+  - cal-civ-1798-105
+- id: 2024-liu-rethinking-unlearning-llm
+  typ: aufsatz
+  autoren:
+  - Liu, Sijia
+  - Yao, Yuanshun
+  - Jia, Jinghan
+  - Casper, Stephen
+  - Baracaldo, Nathalie
+  - Hase, Peter
+  titel: Rethinking Machine Unlearning for Large Language Models
+  fundstelle: Nature Machine Intelligence (angenommen); arXiv:2402.08787, 13.02.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2402.08787
+  url: https://arxiv.org/abs/2402.08787
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - sicherheit-export
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Verlernen bei großen Sprachmodellen braucht einen eigenen Bewertungsrahmen, weil unerwünschtes
+    Wissen selektiv entfernt werden muss, ohne die erwünschten Fähigkeiten zu beschädigen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als die maßgebliche Bestandsaufnahme der Gegenseite: Wer nach Cooper
+    u.a. wissen will, was Unlearning inzwischen kann, findet hier den Rahmen und die Metriken. Für die
+    juristische Arbeit ist der Text nur mittelbar brauchbar, aber er liefert das Vokabular (targeted unlearning,
+    utility preservation), mit dem sich ein Löschungsbegehren technisch präzise fassen lässt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-17
+  - cal-civ-1798-105
+- id: 2023-genicot-to-score-is-to-decide
+  typ: blogbeitrag
+  autoren:
+  - Genicot, Nathan
+  titel: To Score Is to Decide. Some Remarks on the SCHUFA Judgment of the Court of Justice
+  fundstelle: Verfassungsblog, 14.12.2023
+  jahr: 2023
+  sprache: en
+  url: https://verfassungsblog.de/to-score-is-to-decide/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-finanz
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - de-bdsg-scoring
+  kernthese: Mit der Gleichsetzung von Score und Entscheidung erweitert der EuGH Art. 22 DSGVO von einer
+    selten anwendbaren Sondervorschrift zu einem allgemeinen Verbot automatisierter Bewertung mit erheblicher
+    Außenwirkung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die knappste und schärfste frei zugängliche Besprechung von C-634/21 und der Ausgangspunkt
+    für alles, was danach kommt: Wenn schon die Erstellung eines Werts eine Entscheidung im Sinne des
+    Art. 22 DSGVO ist, sobald ein Dritter ihm maßgeblich folgt, dann erfasst die Norm die halbe Modellwirtschaft
+    — Bonitäts-, Betrugs-, Risiko- und Empfehlungsscores. Genicot arbeitet heraus, dass der Gerichtshof
+    damit die "Umgehungsgefahr" zum tragenden Auslegungsargument macht, und benennt die offene Anschlussfrage:
+    Was gilt, wenn zwischen Score und Entscheidung ein Mensch sitzt, der ihn nur abnickt? Angreifbar ist
+    die Prognose einer weitreichenden Wirkung: Die Öffnungsklausel des Art. 22 Abs. 2 lit. b DSGVO und
+    § 31 BDSG entschärfen den Befund im deutschen Recht erheblich, und der Gerichtshof hat die Mitgliedstaatenkompetenz
+    in derselben Entscheidung bestätigt. Anschlusspunkt ist C-203/22 (Dun & Bradstreet Austria, 27.02.2025)
+    zur Reichweite der Auskunft über die Logik — dort ist die Literatur noch dünn, was eine Publikationsmöglichkeit
+    ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - bdsg-31
+  - dsgvo-art-22
+  - dsgvo-art-22-abs-2-lit-b
+- id: 2024-noyb-chatgpt-false-information
+  typ: bericht
+  autoren:
+  - noyb — European Center for Digital Rights
+  titel: ChatGPT Provides False Information About People, and OpenAI Can't Correct It
+  fundstelle: noyb, Beschwerde und Pressemitteilung, 29.04.2024
+  jahr: 2024
+  sprache: en
+  url: https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - at
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Der Grundsatz der Richtigkeit nach Art. 5 Abs. 1 lit. d DSGVO gilt auch für generative Ausgaben,
+    und ein Anbieter, der falsche Angaben über eine Person weder berichtigen noch löschen kann, verletzt
+    Art. 16 DSGVO.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Beschwerde, die das Betroffenenrechte-Problem aus der Theorie in die Verfahrenspraxis
+    geholt hat, und der präziseste Angriffspunkt der gesamten Debatte: Die Unmöglichkeit der Berichtigung
+    ist kein Argument gegen den Anspruch, sondern ein Argument gegen die Verarbeitung. Wer auf Anbieterseite
+    argumentiert, muss erklären, warum ein Datum, das nicht berichtigt werden kann, überhaupt verarbeitet
+    werden darf. noyb ist Partei, und die Pressemitteilung ist Advocacy — sie benennt aber Normen und
+    Sachverhalt sauber, und die Verfahren sind anhängig. Wer dagegenhält, wird auf die Hamburger These
+    2 zurückgreifen (Betroffenenrechte richten sich gegen Input und Output, nicht gegen das Modell) —
+    womit der Anspruch nicht entfällt, sondern sich nur verlagert. Anschlussentscheidung ist der norwegische
+    Fall von 2025.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-5-abs-1-lit-d
+  - dsgvo-art-16
+- id: 2025-noyb-hallucination-child-murderer
+  typ: bericht
+  autoren:
+  - noyb — European Center for Digital Rights
+  titel: 'AI Hallucinations: ChatGPT Created a Fake Child Murderer'
+  fundstelle: noyb, Beschwerde gegen OpenAI bei Datatilsynet (Norwegen), Pressemitteilung vom 20.03.2025
+  jahr: 2025
+  sprache: en
+  url: https://noyb.eu/en/ai-hallucinations-chatgpt-created-fake-child-murderer
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - 'no'
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Ein Haftungsausschluss ('ChatGPT kann Fehler machen') beseitigt die Rechtsverletzung nicht;
+    wer eine Person fälschlich als Kindermörder ausgibt, verletzt Art. 5 Abs. 1 lit. d DSGVO unabhängig
+    von jedem Hinweistext.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Zuspitzung des Richtigkeitsarguments auf einen Sachverhalt, der jede Abwägung
+    erübrigt, und deshalb der Fall, an dem sich die Aufsichtspraxis entscheiden wird. Rechtlich interessant
+    ist die Kombination aus wahren und falschen Elementen — richtige Heimatstadt, richtige Kinderzahl,
+    erfundene Verurteilung —, weil sie den Personenbezug zweifelsfrei macht und zugleich zeigt, dass Halluzination
+    und Memorisierung ineinandergreifen. Für die deutsche Diskussion ist das der Anschlusspunkt zum Persönlichkeitsrecht:
+    § 823 Abs. 1 BGB und die Verdachtsberichterstattungsgrundsätze führen zu Ergebnissen, die der DSGVO-Anspruch
+    nicht braucht. Advocacy-Quelle, entsprechend zu lesen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-5-abs-1-lit-d
+- id: 2025-noyb-meta-cease-and-desist-ki-training
+  typ: bericht
+  autoren:
+  - noyb — European Center for Digital Rights
+  titel: noyb Sends Meta 'Cease and Desist' Letter Over AI Training — European Class Action as Potential
+    Next Step
+  fundstelle: noyb, Pressemitteilung, 14.05.2025
+  jahr: 2025
+  sprache: en
+  url: https://noyb.eu/en/noyb-sends-meta-cease-and-desist-letter-over-ai-training-european-class-action-potential-next-step
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  - ie
+  themenachsen:
+  - datenschutz
+  - gpai
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Das berechtigte Interesse trägt die Verarbeitung jahrelang gesammelter Nutzerdaten zu KI-Trainingszwecken
+    nicht, wenn eine Einwilligungslösung technisch möglich und zumutbar wäre.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als Beleg für den Durchsetzungsweg, nicht für die Dogmatik: noyb kündigt
+    hier erstmals eine Unterlassungsklage nach der Verbandsklagenrichtlinie an und beziffert das Prozessrisiko
+    — das ist die praktisch wirksamste Drohung gegenüber Trainingsvorhaben und erklärt, warum die Anbieter
+    die Widerspruchslösung ausgebaut haben. Für die deutsche Praxis ist der Anschlusspunkt das OLG-Köln-Verfahren
+    zur Meta-Trainings- widerspruchslösung. Reine Advocacy-Quelle, keine Analyse.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+- id: 2021-mahieu-right-of-access-genealogy
+  typ: aufsatz
+  autoren:
+  - Mahieu, René
+  titel: 'The Right of Access to Personal Data: A Genealogy'
+  fundstelle: Technology and Regulation 2021, 62–75
+  jahr: 2021
+  sprache: en
+  url: https://techreg.org/article/view/11001
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: Das Auskunftsrecht ist historisch nicht als individueller Informationsanspruch, sondern als
+    Instrument kollektiver Kontrolle über Datenverarbeiter entstanden, und dieser Zweck bestimmt seine
+    Auslegung.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als Fundament für Mahieus Omnibus-Kritik (2025-mahieu-ominous-omnibus):
+    Wer das Auskunftsrecht als Kontrollinstrument versteht, kann die geplante Zweckbeschränkung auf datenschutzbezogene
+    Anliegen nicht für eine Klarstellung halten. Für KI-Modelle ist der Aufsatz mittelbar einschlägig
+    — er liefert das Argument, warum ein Auskunftsanspruch gegen ein Modell auch dann Sinn ergibt, wenn
+    die Antwort für den Einzelnen wenig bringt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-15
+- id: 2025-ruschemeier-omnibus-kill-data-protection
+  typ: blogbeitrag
+  autoren:
+  - Ruschemeier, Hannah
+  titel: 'The Omnibus Package of the EU Commission: Or How to Kill Data Protection Fast'
+  fundstelle: Verfassungsblog, 17.11.2025
+  jahr: 2025
+  sprache: en
+  url: https://verfassungsblog.de/the-omnibus-package-of-the-eu-commission/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - digital-omnibus-daten-2025-0360
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Die Neufassung des Personenbezugsbegriffs, die Verengung des Art. 9 DSGVO auf unmittelbar
+    offenbarende Daten und die neue KI-Ausnahme legalisieren bestehende rechtswidrige Geschäftsmodelle,
+    statt die Rechtsanwendung zu vereinfachen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche akademische Kritik am Datenschutzteil des Omnibus und der Text, der
+    die drei Angriffspunkte sortiert, um die künftig gestritten wird. Der stärkste Punkt ist die Verantwortungsdiffusion:
+    Wenn Personenbezug empfängerbezogen bestimmt wird, lässt sich die Anwendbarkeit der Verordnung durch
+    Aufspaltung der Verarbeitungskette herbeiführen — ein Ergebnis, das der EuGH in Breyer und die EDSA-Leitlinien
+    01/2025 gerade verhindern wollten. Der zweite Punkt betrifft diese Akte unmittelbar: Art. 9 DSGVO
+    würde Inferenzen aus dem Schutz entlassen, obwohl Staab u.a. 2023 zeigen, dass die Inferenz das eigentliche
+    Risiko ist. Angreifbar ist der Ton — "how to kill data protection fast" ist Polemik, und der Text
+    unterschätzt, dass ein Teil der Änderungen Rechtsprechung kodifiziert. Wer eine ausgewogenere Fassung
+    derselben Kritik sucht, findet sie bei Ruschemeier selbst (Juli 2025).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-9
+  - dsgvo-art-4-nr-1
+- id: 2025-mahieu-ominous-omnibus
+  typ: blogbeitrag
+  autoren:
+  - Mahieu, René
+  titel: 'The Ominous Omnibus: Dismantling the Right of Access to Personal Data'
+  fundstelle: Verfassungsblog, 03.12.2025
+  jahr: 2025
+  sprache: en
+  url: https://verfassungsblog.de/digital-omnibus-right-of-access-to-personal-data/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - digital-omnibus-daten-2025-0360
+  - dsgvo-schnittstelle
+  kernthese: Der Vorschlag, Auskunftsersuchen auf datenschutzbezogene Zwecke zu beschränken und dem Betroffenen
+    eine Spezifizierungslast aufzuerlegen, widerspricht der ausdrücklich zweckneutralen Rechtsprechung
+    des EuGH und beseitigt das wirksamste Aufklärungsinstrument des Datenschutzrechts.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der spezialisierte Gegenpart zu Ruschemeier und für diese Akte der wichtigere Text,
+    weil das Auskunftsrecht der einzige praktikable Hebel ist, um überhaupt festzustellen, ob eine Person
+    in einem Trainingskorpus vorkommt. Wird die Spezifizierungslast eingeführt, läuft der Anspruch gegen
+    Modellanbieter faktisch leer — man kann nicht angeben, was man sucht, wenn man nicht weiß, was verarbeitet
+    wurde. Mahieu belegt außerdem, dass die Formulierungen aus Lobbypapieren stammen; das ist für die
+    Gesetzgebungsgeschichte verwertbar. Angreifbar: Der Missbrauchseinwand — Auskunftsersuchen als Druckmittel
+    in Arbeits- und Mietstreitigkeiten — ist real und wird von Mahieu nur abgetan.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-15
+- id: 2025-noyb-edri-offener-brief-omnibus
+  typ: bericht
+  autoren:
+  - noyb
+  - European Digital Rights
+  - Irish Council for Civil Liberties
+  titel: 'Open Letter: Digital Omnibus Brings Deregulation, Not Simplification'
+  fundstelle: noyb u.a., Offener Brief an die Europäische Kommission, 11.11.2025 (Folgebrief mit 127 Unterzeichnern,
+    13.11.2025)
+  jahr: 2025
+  sprache: en
+  url: https://noyb.eu/en/open-letter-digital-omnibus-brings-deregulation-not-simplification
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - digital-omnibus-daten-2025-0360
+  - digital-omnibus-ai-2026-1744
+  kernthese: Der Entwurf ändert Kernelemente — Personenbezugsbegriff, Betroffenenrechte, besondere Datenkategorien,
+    Zugriff auf Endgeräte — ohne Folgenabschätzung und ohne Konsultation und ist deshalb keine Vereinfachung,
+    sondern Deregulierung.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Sammelpunkt der zivilgesellschaftlichen Position und als solcher zitierfähig,
+    weil er die Unterzeichnerbasis dokumentiert; inhaltlich bringt er gegenüber Ruschemeier und Mahieu
+    nichts Neues. Der eigenständige Punkt ist verfahrensrechtlich: das Fehlen einer Folgenabschätzung.
+    Das ist der einzige Einwand, der vor dem EuGH tragen könnte, und er wird in der akademischen Literatur
+    bislang kaum verfolgt — dort liegt eine Publikationsmöglichkeit.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-4-nr-1
+  - dsgvo-art-9
+- id: 2025-ruschemeier-reforming-the-gdpr
+  typ: blogbeitrag
+  autoren:
+  - Ruschemeier, Hannah
+  titel: 'Reforming the GDPR: Dilution or Progress?'
+  fundstelle: Verfassungsblog, 10.07.2025
+  jahr: 2025
+  sprache: en
+  url: https://verfassungsblog.de/reforming-the-gdpr/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - digital-omnibus-daten-2025-0360
+  kernthese: Reformbedarf besteht bei Durchsetzung, Kohärenz der Rechtsakte und Einwilligungspraxis, nicht
+    bei der Absenkung des Schutzniveaus; Grundrechtsschutz ist eine normative und keine Größenklassenfrage.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die ruhigere, vier Monate ältere Fassung derselben Position und deshalb die zitierfähigere:
+    Ruschemeier benennt hier die strukturellen Defizite, die sie anerkennt, bevor sie den Omnibus verwirft
+    — dysfunktionale Einwilligung, Abgrenzungsprobleme der Datenkategorien im KI-Zeitalter, mangelnde
+    Koordination der Rechtsakte. Wer argumentieren will, dass Reformkritik nicht Reformverweigerung ist,
+    zitiert diesen Text und nicht den November-Beitrag.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-garante-chatgpt-provvedimento
+  typ: bericht
+  autoren:
+  - Garante per la protezione dei dati personali
+  titel: 'ChatGPT: il Garante privacy chiude l''istruttoria — sanzione di 15 milioni di euro e campagna
+    informativa'
+  fundstelle: Garante per la protezione dei dati personali, Pressemitteilung und Verfügung, 20.12.2024
+  jahr: 2024
+  sprache: it
+  url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10085432
+  zugang: open-access
+  jurisdiktionen:
+  - it
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: OpenAI hat personenbezogene Daten ohne taugliche Rechtsgrundlage zu Trainingszwecken verarbeitet,
+    eine Datenpanne nicht gemeldet, Transparenzpflichten verletzt und keine Alterssicherung vorgehalten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die erste und bislang schwerste Sanktion einer europäischen Aufsichtsbehörde gegen
+    einen Anbieter generativer Modelle und der Ausgangspunkt der italienischen Verfahrensreihe (Replika,
+    DeepSeek, Clothoff). Für die Dogmatik ist der interessanteste Teil die Ablehnung des berechtigten
+    Interesses für die Trainingsphase — der Garante geht weiter als der EDSA in Opinion 28/2024, die diese
+    Rechtsgrundlage grundsätzlich offenhält. WICHTIGE EINSCHRÄNKUNG: Der Auftrag geht von einer Aufhebung
+    dieser Verfügung durch das Tribunale di Roma aus. Diese Entscheidung war aus dieser Sitzung nicht
+    verifizierbar (s. Kopfnote und `meta.offene_verifikation`); wer den Garante zitiert, muss den Verfahrensstand
+    prüfen, bevor er sich auf ihn stützt. Sollte die Aufhebung bestätigt werden, ist sie die wichtigste
+    europäische Entscheidung zur Rechtsgrundlage des Trainings und gehört nach 22_eu_de.yaml.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  - dsgvo-art-13
+  - dsgvo-art-33
+- id: 2024-dsk-orientierungshilfe-ki-datenschutz
+  typ: bericht
+  autoren:
+  - Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder
+  titel: 'Orientierungshilfe: Künstliche Intelligenz und Datenschutz, Version 1.0'
+  fundstelle: DSK, 06.05.2024
+  jahr: 2024
+  sprache: de
+  url: https://www.datenschutzkonferenz-online.de/media/oh/20240506_DSK_Orientierungshilfe_KI_und_Datenschutz.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - de-dsk-ki-leitlinien
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Die deutschen Aufsichtsbehörden ordnen den KI-Einsatz entlang der drei Phasen Konzeption,
+    Implementierung und Nutzung und verlangen dabei geschlossene Systeme statt Cloud-Lösungen, dokumentierte
+    Rechtsgrundlagen, Folgenabschätzung und eine menschliche Kontrolle, die über die Ergebnisdurchsicht
+    hinausgeht.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige Text dieser Akte, der in Deutschland unmittelbar handlungsleitend ist:
+    Wer einen KI-Einsatz datenschutzrechtlich begleitet, wird an dieser Orientierungshilfe gemessen, weil
+    die Aufsichtsbehörde nach ihr prüft. Das macht sie wichtiger als jeden Aufsatz, unabhängig von ihrer
+    wissenschaftlichen Qualität — und die ist mittelmäßig: Die Orientierungshilfe ordnet, ohne zu begründen;
+    sie sagt, was zu tun ist, nicht warum; und sie umgeht die eigentlich streitige Frage, ob und unter
+    welchen Voraussetzungen Art. 6 Abs. 1 lit. f DSGVO das Training an öffentlich zugänglichen Daten trägt.
+    Die Empfehlung, geschlossene Systeme zu bevorzugen, ist praktisch kaum umsetzbar und wird von der
+    Praxis ignoriert. Wer die Begründung sucht, findet sie bei Krönke (2023) und in den EDSA-Stellungnahmen.
+    Zu ergänzen um die beiden Nachfolgedokumente zu technischen Maßnahmen (Juni 2025) und zu RAG (Oktober
+    2025). Ersetzt Beck vollständig: Diese drei Dokumente sind die deutsche Datenschutzpraxis für KI,
+    und sie sind frei.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-22
+  - dsgvo-art-35
+  - dsgvo-art-5
+  - dsgvo-art-6-abs-1-lit-f
+- id: 2025-dsk-oh-tom-ki-systeme
+  typ: bericht
+  autoren:
+  - Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder
+  titel: Orientierungshilfe zu empfohlenen technischen und organisatorischen Maßnahmen bei der Entwicklung
+    und beim Betrieb von KI-Systemen
+  fundstelle: DSK, Juni 2025
+  jahr: 2025
+  sprache: de
+  url: https://www.datenschutzkonferenz-online.de/media/oh/DSK-OH_KI-Systeme.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - datenschutz
+  - governance
+  bezug_regelwerke:
+  - de-dsk-ki-leitlinien
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Die Aufsichtsbehörden konkretisieren Art. 25 und Art. 32 DSGVO für Entwicklung und Betrieb
+    von KI-Systemen entlang des Lebenszyklus.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die DSK-Orientierungshilfenliste belegt, Volltext nicht gelesen. Das ist die
+    technisch- organisatorische Ergänzung zur Grundlagen-Orientierungshilfe von 2024 und der praktisch
+    relevantere Teil, weil er die Schnittstelle zu Art. 15 KI-VO (Genauigkeit, Robustheit, Cybersicherheit)
+    bedient — dort, wo Datenschutzrecht und KI-VO sich überlagern und die Zuständigkeit ungeklärt ist
+    (§ 2 KI-MIG gegen Art. 74 Abs. 8 KI-VO). Ergänzt das BSI-Material, das dieselben Fragen ohne datenschutzrechtliche
+    Einbettung behandelt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-25
+  - dsgvo-art-32
+  - ki-vo-art-15
+- id: 2025-dsk-oh-rag
+  typ: bericht
+  autoren:
+  - Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder
+  titel: Orientierungshilfe zu datenschutzrechtlichen Besonderheiten generativer KI-Systeme mit RAG-Methode,
+    Version 1.0
+  fundstelle: DSK, Oktober 2025
+  jahr: 2025
+  sprache: de
+  url: https://www.datenschutzkonferenz-online.de/media/oh/DSK_OH_RAG.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - de-dsk-ki-leitlinien
+  - dsgvo-schnittstelle
+  kernthese: RAG-Architekturen entschärfen einzelne Datenschutzrisiken, weil Berichtigung und Löschung
+    in Referenzdokumenten und Vektordatenbank durchsetzbar sind, lösen aber weder die Rechtmäßigkeit des
+    Modelltrainings noch die Zweckbindung zwischen externer Quelle und eingebettetem Modellwissen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das aktuellste und praktisch wichtigste der drei DSK-Dokumente, weil RAG die Architektur
+    ist, mit der Unternehmen und Behörden generative KI tatsächlich einsetzen. Der entscheidende Satz
+    ist die Zweckbindungsaussage: Die Betroffenenrechte lassen sich in der Vektordatenbank durchsetzen,
+    im Modell nicht — daraus folgt, dass die Rechtmäßigkeit des Trainings eine eigenständige, ungelöste
+    Frage bleibt, die RAG nur verdeckt. Wer einem Mandanten RAG als datenschutzfreundliche Lösung verkauft,
+    muss diese Einschränkung kennen. Ersetzt insoweit die Beck-Literatur; die Aufsicht prüft danach.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-5-abs-1-lit-b
+  - dsgvo-art-16
+  - dsgvo-art-17
+- id: 2023-kroenke-attention-is-all-you-need
+  typ: blogbeitrag
+  autoren:
+  - Krönke, Christoph
+  titel: Attention Is All You Need. Zur datenschutzrechtlichen Zulässigkeit generativer KI-Dienste
+  fundstelle: Verfassungsblog, 14.04.2023
+  jahr: 2023
+  sprache: de
+  url: https://verfassungsblog.de/attention-is-all-you-need/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  - it
+  themenachsen:
+  - datenschutz
+  - gpai
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  kernthese: 'Die DSGVO steht generativen KI-Diensten nicht grundsätzlich entgegen: Das Training an öffentlich
+    zugänglichen Daten lässt sich auf Art. 6 Abs. 1 lit. f DSGVO stützen, die Verwendung von Nutzungsdaten
+    zum Training dagegen nicht, und der Richtigkeitsgrundsatz ist bei erkennbar unzuverlässigen Systemen
+    anders zu handhaben als bei Suchmaschinen.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die deutsche datenschutzrechtliche Position zu generativer KI formuliert
+    hat, und die Begründung, die die DSK-Orientierungshilfe schuldig bleibt. Die Unterscheidung zwischen
+    Trainingsdaten und Nutzungsdaten trägt bis heute und hat sich in der Aufsichtspraxis durchgesetzt.
+    Das schwächste Argument ist das zum Richtigkeitsgrundsatz: Krönke meint, ein System dürfe unrichtig
+    sein, wenn es das dazusagt — das wäre eine Disponibilität des Art. 5 Abs. 1 lit. d DSGVO, die der
+    Wortlaut nicht hergibt und die nach den Halluzinationsverfahren (noyb gegen OpenAI) auch nicht mehr
+    vertretbar ist. Geschrieben zur italienischen ChatGPT-Sperre und insoweit zeitgebunden. Ergänzt Beck;
+    für die Frage nach lit. f ist er die frei zugängliche Referenzstelle.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  - dsgvo-art-5-abs-1-lit-d
+- id: 2026-piltz-edsa-leitlinien-scraping
+  typ: blogbeitrag
+  autoren:
+  - Piltz, Carlo
+  titel: 'EDSA-Leitlinien 3/2026: Scraping bleibt möglich — die ''vernünftigen Erwartungen'' werden zum
+    zentralen Prüfstein'
+  fundstelle: de lege data, 02.08.2026
+  jahr: 2026
+  sprache: de
+  url: https://www.delegedata.de/2026/08/edsa-leitlinien-3-2026-scraping-bleibt-moeglich-die-vernuenftigen-erwartungen-werden-zum-zentralen-pruefstein/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - datenschutz
+  - gpai
+  - urheberrecht
+  bezug_streitstaende:
+  - tdm-schranke-de
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Nach den EDSA-Leitlinien 3/2026 bleibt Web-Scraping für KI-Training auf Art. 6 Abs. 1 lit.
+    f DSGVO stützbar, entscheidet sich aber an den vernünftigen Erwartungen der betroffenen Person.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Carlo Piltz führt den einzigen deutschsprachigen Datenschutzblog mit durchgehend
+    belastbarem juristischem Niveau; die Beiträge sind kurz, quellennah und zitieren die Randnummern.
+    Dieser Text ist die aktuellste frei zugängliche Auseinandersetzung mit der datenschutzrechtlichen
+    Seite des Trainingsdatenproblems — der Seite, die neben der urheberrechtlichen TDM-Frage steht und
+    in der deutschen Diskussion regelmäßig untergeht. Wichtig für die Doppelprüfung: § 44b UrhG erlaubt
+    das Vervielfältigen, Art. 6 DSGVO nicht notwendig das Verarbeiten. Einschränkung: Blogbeitrag ohne
+    Apparat, und die Leitlinien selbst waren zum Zeitpunkt des Beitrags in Konsultation. Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-6-abs-1-lit-f
+  - urhg-44b
+- id: 2024-seckelmann-horstmann-ki-hochschule-datenschutz
+  typ: aufsatz
+  autoren:
+  - Seckelmann, Margrit
+  - Horstmann, Jan
+  titel: Künstliche Intelligenz im Hochschulbereich und Datenschutz
+  fundstelle: Ordnung der Wissenschaft 2024, 169–184
+  jahr: 2024
+  sprache: de
+  url: https://ordnungderwissenschaft.de/2024/kuenstliche-intelligenz-im-hochschulbereich-und-datenschutz/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: Das Datenschutzrecht setzt dem KI-Einsatz an Hochschulen wesentliche Grenzen, insbesondere
+    durch das Verbot automatisierter Einzelentscheidungen, kann die gesellschaftlichen Wirkungen aber
+    nicht allein auffangen; Hochschulen brauchen eigene Ordnungen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Seckelmann (Hannover, vormals Deutsches Forschungsinstitut für öffentliche Verwaltung
+    Speyer) ist eine der wenigen deutschen Verwaltungsrechtlerinnen, die zum KI-Einsatz im öffentlichen
+    Sektor kontinuierlich publizieren. Der Text ist als Modell für institutionelle Regelwerke brauchbar
+    und überträgt sich auf Behörden allgemein — die Argumentation zu Art. 22 DSGVO bei Zulassungs- und
+    Prüfungsentscheidungen ist dieselbe wie bei Verwaltungsakten nach § 35a VwVfG. Als eigenständiger
+    dogmatischer Beitrag dünn. Aufgenommen auch, um Ordnung der Wissenschaft als frei zugängliche Zeitschrift
+    sichtbar zu machen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-22
+  - vwvfg-35a
+- id: 2017-wachter-counterfactual-explanations
+  typ: aufsatz
+  autoren:
+  - Wachter, Sandra
+  - Mittelstadt, Brent
+  - Russell, Chris
+  titel: 'Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR'
+  fundstelle: Harvard Journal of Law & Technology 31 (2018), 841; arXiv:1711.00399 (cs.AI), 01.11.2017
+  jahr: 2017
+  sprache: en
+  doi: 10.48550/arXiv.1711.00399
+  url: https://arxiv.org/abs/1711.00399
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - uk
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-finanz
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  kernthese: 'Eine Erklärung muss das Modell nicht offenlegen, um dem Betroffenen zu nützen: Die Angabe,
+    welche kleinste Änderung der Eingabe das gewünschte Ergebnis herbeigeführt hätte, erfüllt Verstehen,
+    Anfechtbarkeit und Handlungsanleitung — ohne Geschäftsgeheimnisse preiszugeben.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: wie sich der Konflikt zwischen Auskunftsanspruch und Geschäftsgeheimnisschutz
+    auflösen lässt, den der EuGH in C-203/22 (Dun & Bradstreet, Februar 2025) dem nationalen Gericht überantwortet
+    hat. Der einzige Text dieser Akte, der von Juristen für Juristen geschrieben und zugleich technisch
+    umsetzbar ist — die Verfasser sind Oxforder Rechtswissenschaftler, Russell ist Informatiker, und der
+    Vorschlag ist implementiert. Der juristische Kunstgriff: Wachter u.a. lösen die Frage "wie viel Modell
+    muss offengelegt werden?" auf, indem sie zeigen, dass die drei Zwecke des Auskunftsrechts — verstehen,
+    anfechten, künftig anders handeln — sämtlich ohne Modelloffenlegung erreichbar sind. Für die deutsche
+    Praxis ist das der praktikabelste Vorschlag zur Ausfüllung des "aussagekräftige Informationen über
+    die involvierte Logik" und zugleich der Maßstab, an dem sich SCHUFA-artige Auskünfte messen lassen
+    müssen. ANGREIFBAR, und die Kritik ist gewichtig: (a) Eine kontrafaktische Angabe sagt nichts über
+    Diskriminierung — sie kann lauten "mit 20.000 Euro mehr Einkommen hätten Sie den Kredit bekommen"
+    und dabei verschweigen, dass die Postleitzahl den Ausschlag gab. Barocas, Selbst und Raghavan haben
+    das ausgearbeitet. (b) Es gibt in aller Regel viele kontrafaktische Erklärungen, und die Auswahl trifft
+    der Verpflichtete — also derselbe, dessen Verhalten geprüft werden soll. Wer den Vorschlag als Erfüllung
+    des Art. 15 DSGVO anbietet, muss diese Auswahl regeln. Der Text ist juristisch, nicht technisch, und
+    steht hier, weil er die Brücke bildet.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - dsgvo-art-15-abs-1-lit-h
+  - dsgvo-art-22
+- id: 2024-sanchez-diaz-ia-generativa-datos
+  typ: aufsatz
+  autoren:
+  - Sánchez Díaz, María Fernanda
+  titel: Inteligencia artificial generativa y los retos en la protección de los datos personales
+  titel_deutsch: Generative künstliche Intelligenz und die Herausforderungen für den Schutz personenbezogener
+    Daten
+  fundstelle: Estudios en Derecho a la Información 9 (2024), Nr. 18, 179–205
+  jahr: 2024
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-informacion/article/view/18852
+  doi: 10.22201/iij.25940082e.2024.18.18852
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  kernthese: 'Die Staaten haben den Datenschutz gegenüber generativer KI faktisch der Selbstregulierung
+    der Anbieter überlassen; das unterläuft den menschenrechtlichen Schutzauftrag.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Solide, aber nicht originell — eine menschenrechtlich grundierte Bestandsaufnahme,
+    wie man sie so ähnlich auch in europäischen Zeitschriften findet. Ich nehme sie auf, weil sie 2024
+    erschien, also vor der mexikanischen Verfassungsreform zur organischen Vereinfachung, in deren Vollzug
+    2025 das INAI aufgelöst und der Datenschutz in die Exekutive verlagert wurde. Wer den Aufsatz gegen
+    die heutige Rechtslage hält, sieht, wie schnell die mexikanische Datenschutzarchitektur weggebrochen
+    ist — als Zeitschnitt also brauchbar, als Darstellung des geltenden Rechts nicht mehr.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-deleon-berrocal-datos-colombia
+  typ: aufsatz
+  autoren:
+  - de León Llanos, Alejandro Abraham
+  - Berrocal Durán, Juan Carlos
+  titel: La protección de datos personales en Colombia y el constitucionalismo transnacional latinoamericano
+  titel_deutsch: Der Schutz personenbezogener Daten in Kolumbien und der transnationale lateinamerikanische
+    Konstitutionalismus
+  fundstelle: Estudios en Derecho a la Información 11 (2026), Nr. 21, Artikel e19768
+  jahr: 2026
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-informacion/article/view/19768
+  doi: 10.22201/iij.25940082e.2026.21.19768
+  zugang: open-access
+  jurisdiktionen:
+  - co
+  - latam
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - governance
+  kernthese: 'Der nationalstaatliche Datenschutz Kolumbiens ist gegenüber grenzüberschreitendem Datenverkehr
+    überfordert; die Antwort liegt in einem gemeinsamen lateinamerikanischen Schutzrahmen, nicht in der
+    Übernahme fremder Modelle.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der Satz, wegen dessen ich den Text aufnehme, steht im Abstract und ist gegen Europa
+    gerichtet: "evitar la simple importación de modelos foráneos" — die einfache Einfuhr fremder Modelle
+    sei zu vermeiden. Das ist die kolumbianische Gegenposition zum Brüssel-Effekt, und man sollte sie
+    kennen, bevor man annimmt, die DSGVO sei in Lateinamerika unumstritten Vorbild. Kolumbien hat mit
+    der Ley 1581/2012 und der Habeas-Data-Rechtsprechung des Verfassungsgerichts eine eigene, ältere Tradition,
+    die die Autoren gegen die europäische Vereinnahmung verteidigen. Der Aufsatz ist begrifflich unscharf
+    ("transnationaler Konstitutionalismus" bleibt Schlagwort) und liefert keine Normanalyse; als Positionsbestimmung
+    und als Beleg für die regionale Debattenlage ist er trotzdem brauchbar. Erschienen in einer mexikanischen
+    Zeitschrift — auch hier gilt: der Publikationsort sagt nichts über den Gegenstand.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-azuaje-coddou-contreras-viollier-control-humano
+  typ: aufsatz
+  autoren:
+  - Azuaje Pirela, Michelle Carolina
+  - Coddou Mc Manus, Alberto
+  - Contreras Vásquez, Pablo
+  - Viollier Bonvin, Pablo
+  titel: Intervención, supervisión y control humano en las decisiones automatizadas
+  titel_deutsch: Eingriff, Aufsicht und menschliche Kontrolle bei automatisierten Entscheidungen
+  fundstelle: Derecho PUCP 95 (2025), 189–226
+  jahr: 2025
+  sprache: es
+  url: https://revistas.pucp.edu.pe/index.php/derechopucp/article/view/30443
+  doi: 10.18800/derechopucp.202502.006
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  - eu
+  themenachsen:
+  - datenschutz
+  - arbeit
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - eu-ki-vo
+  kernthese: 'Menschliche Aufsicht wird in drei Regelungsfeldern — Datenschutz, KI-Regulierung, Plattformarbeit
+    — mit jeweils unterschiedlichen Begründungen verlangt; diese Begründungen sind nicht deckungsgleich
+    und die Umsetzung stösst überall auf dieselben Grenzen.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Für mich der beste Text zur menschlichen Aufsicht, den ich in der spanischsprachigen
+    Literatur gefunden habe, und der einzige, der die drei Regelungsfelder nebeneinanderlegt statt eines
+    herauszugreifen. Die Konstellation ist im deutschen Recht dieselbe: Art. 22 DSGVO verlangt menschliche
+    Beteiligung als Schutz vor der Automatisierung als solcher, Art. 14 KI-VO verlangt sie als Risikominderung,
+    und die Plattformarbeitsrichtlinie (EU) 2024/2831 verlangt sie in Art. 10 als Schutz der Arbeitnehmerautonomie.
+    Diese drei Begründungen fallen auseinander, und die Autoren zeigen, dass die Rechtsfolgen deshalb
+    nicht austauschbar sind — ein Punkt, den die deutsche Literatur zu Art. 14 KI-VO meines Erachtens
+    zu wenig beachtet. Vier Autoren, alle chilenisch, alle mit Praxisbezug (Viollier Bonvin kommt von
+    Derechos Digitales). Peer reviewed, 38 Seiten, in Derecho PUCP, der angesehensten Rechtszeitschrift
+    der Region. Als Pflicht eingestuft wegen der Systematik, nicht wegen des chilenischen Rechts.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-veronese-cultura-proteccion-datos-latam
+  typ: aufsatz
+  autoren:
+  - Veronese, Alexandre
+  - Silveira, Alessandra
+  - Braga, Amanda
+  - Espiñeira Lemos, Amanda
+  - Costa Almeida, Eduarda
+  - Mendonça Santos, Luiza
+  - Peixoto Veiga, Luiza
+  - Iorio Aranha, Marcio
+  - Moutinho Fonseca, Mariana
+  - Lemos Igreja, Rebecca
+  - Guimarães Moraes, Thiago
+  - Bragança Sernégio, Vitória
+  titel: Una investigación empírica de la cultura de protección de datos personales y la actuación de
+    las autoridades nacionales en Latinoamérica
+  titel_deutsch: Eine empirische Untersuchung der Datenschutzkultur und des Handelns der nationalen Aufsichtsbehörden
+    in Lateinamerika
+  fundstelle: Revista Chilena de Derecho y Tecnología 14 (2025), Artikel 73836
+  jahr: 2025
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/73836
+  doi: 10.5354/0719-2584.2025.73836
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  - br
+  themenachsen:
+  - datenschutz
+  - governance
+  kernthese: 'Die lateinamerikanischen Datenschutzbehörden unterscheiden sich in Ausstattung, Unabhängigkeit
+    und Durchsetzungspraxis so stark, dass von einer gemeinsamen Datenschutzkultur nicht gesprochen werden
+    kann.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Zwölf Autorinnen und Autoren aus Brasília und Braga, ein empirisch-vergleichender
+    Zuschnitt und die Frage nach der tatsächlichen Behördenpraxis statt der Gesetzeslage — das ist genau
+    die Untersuchung, die man braucht, wenn man wissen will, was ein Angemessenheitsbeschluss nach Art.
+    45 DSGVO für ein lateinamerikanisches Land bedeuten würde. Argentinien und Uruguay haben einen, Brasilien
+    nicht, und diese Arbeit erklärt warum. HINWEIS ZUR PRÜFUNG: Titel, Autorschaft, Fundstelle und DOI
+    habe ich am 07.09.2026 auf der Zeitschriftenseite verifiziert; die Abstract-Anzeige der Landing-Page
+    lieferte beim Abruf einen offensichtlich fremden Text (über chilenische Desinformationsgesetzentwürfe).
+    Die hier formulierte Kernthese ist deshalb aus Titel und Anlage erschlossen, nicht aus dem gelesenen
+    Abstract — vor Zitat den Volltext prüfen.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2026-calderon-marenco-smart-contracts-datos
+  typ: aufsatz
+  autoren:
+  - Calderón Marenco, Eduardo Andrés
+  - Sánchez Silveyra, Romina M.
+  - Rodrigo, Juan Manuel
+  - Ravelo-Franco, Gabriel
+  titel: La protección de datos a partir de la implementación de IA en smart contracts
+  titel_deutsch: Datenschutz beim Einsatz künstlicher Intelligenz in Smart Contracts
+  fundstelle: Estudios en Derecho a la Información 11 (2026), Nr. 21, Artikel e20059
+  jahr: 2026
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-informacion/article/view/20059
+  doi: 10.22201/iij.25940082e.2026.21.20059
+  zugang: open-access
+  jurisdiktionen:
+  - latam
+  - ar
+  - pe
+  - co
+  - eu
+  themenachsen:
+  - datenschutz
+  - vertrag
+  - governance
+  kernthese: 'Argentinien, Peru, Kolumbien und Ecuador haben keinen Rechtsrahmen für die Datenverarbeitung
+    in blockchain-basierten Verträgen; die "lex cryptographica" der Selbstregulierung tritt an die Stelle
+    des Rechts.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Einer der wenigen echten Vier-Länder-Vergleiche, die ich gefunden habe, und deshalb
+    hier trotz seines engen Gegenstands. Der Kerngedanke — die Unvereinbarkeit von Unveränderlichkeit
+    der Blockchain und Löschungsanspruch — ist in Europa längst durchdiskutiert (Art. 17 DSGVO, CNIL-Leitlinien
+    2018), und die Autoren bringen dazu nichts Neues. Der Wert liegt in der Kartierung: Man erfährt, welche
+    der vier Rechtsordnungen welche Norm hat und welche gar keine. Der Begriff "lex cryptographica" wird
+    ohne Quellenangabe zu De Filippi/Wright benutzt, was ich unschön finde. Als Nachschlagewerk für die
+    regionale Rechtslage brauchbar, als Beitrag zur Sache nicht.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-davis-trott-ki-datenschutzrecht
+  typ: aufsatz
+  autoren:
+  - Davis, Tara
+  - Trott, Wendy
+  titel: 'The regulation of artificial intelligence through data protection laws: Insights from South
+    Africa'
+  fundstelle: African Journal on Privacy and Data Protection 1 (2024), 194
+  jahr: 2024
+  sprache: en
+  doi: 10.29053/ajpdp.v1i1.0010
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  kernthese: Solange Suedafrika kein KI-Gesetz hat, ist der Protection of Personal Information Act 4 of
+    2013 das faktische KI-Regulierungsinstrument; seine Vorschriften zu automatisierten Einzelfallentscheidungen
+    und zur Zweckbindung leisten das aber nur unvollstaendig.
+  eigene_bewertung: 'Das suedafrikanische Gegenstueck zu der Frage, die bei uns vor Geltung der KI-VO
+    die ganze Debatte trug: Wie weit traegt Art. 22 DSGVO als KI-Regulierung? Section 71 POPIA ist Art.
+    22 DSGVO nachgebildet, aber enger gefasst, und die Autorinnen zeigen die Bruchstellen - Profiling
+    ohne Entscheidungswirkung, Trainingsdatenverarbeitung, Sekundaernutzung. Fuer den Rechtsvergleich
+    der Datenschutz-Achse das nuetzlichste suedafrikanische Stueck, zumal frei verfuegbar (Pretoria University
+    Law Press). Schwaeche: Die Information Regulator hatte 2024 noch kaum Praxis, der Text ist deshalb
+    norm- und nicht anwendungsbezogen.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2025-dolny-sinnadurai-ki-privatsphaere-kanada
+  typ: aufsatz
+  autoren:
+  - Dolny, Tamie
+  - Sinnadurai, Methura
+  titel: 'Balancing the Use of AI with Canadian Privacy Rights: An Analysis of Personal Information Collection
+    through Emerging AI Tools'
+  fundstelle: Canadian Journal of Law and Technology 23 (2025), Heft 1, 107
+  jahr: 2025
+  sprache: en
+  url: https://digitalcommons.schulichlaw.dal.ca/cjlt/vol23/iss1/4
+  zugang: open-access
+  jurisdiktionen:
+  - ca
+  themenachsen:
+  - datenschutz
+  - sektor-oeffentlich
+  kernthese: Der Einsatz KI-gestuetzter Werkzeuge - im Ausgangsfall automatisierte Pruefungsueberwachung
+    an der McMaster University - erhebt regelmaessig biometrische Daten ohne wirksame Einwilligung und
+    verstoesst damit gegen die Informationsfreiheits- und Datenschutzgesetze Ontarios (FIPPA/MFIPPA).
+  eigene_bewertung: 'Praxisnaher Beitrag mit einem konkreten Aufhaenger - der Beschwerde der Information
+    and Privacy Commissioner of Ontario gegen McMaster von Februar 2024 wegen Proctoring-Software. Fuer
+    mich vor allem als Fallmaterial wertvoll: Proctoring ist in Anhang III Nr. 3 lit. c KI-VO als Hochrisikoanwendung
+    erfasst, und hier sieht man, wie derselbe Sachverhalt in einer Rechtsordnung ohne KI-Gesetz allein
+    ueber Datenschutzrecht abgearbeitet wird - mit dem Ergebnis, dass die Einwilligung zur zentralen und
+    zugleich schwaechsten Stelle wird. Der Beitrag ist eher Praxishinweis als Wissenschaft; der Abschnitt
+    "best practices" liest sich wie eine Kanzleimemo. Trotzdem brauchbar.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  letzte_pruefung: 2026-09-07

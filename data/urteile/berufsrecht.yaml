@@ -1,0 +1,2668 @@
+urteile:
+- id: us-2023-mata-avianca
+  jurisdiktion: us
+  gericht: United States District Court, S.D.N.Y. (Castel, District Judge)
+  instanz: erstinstanzlich
+  aktenzeichen: No. 22-cv-1461 (PKC)
+  ecli: null
+  datum: 2023-06-22
+  parteien:
+    klaeger: Roberto Mata
+    beklagter: Avianca, Inc.
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - governance
+  anspruchsgrundlage: Fed. R. Civ. P. 11(b)(2) und 11(c); hilfsweise inherent authority des Gerichts
+  kernfrage: 'Verletzt ein Anwalt Rule 11, wenn er von ChatGPT erzeugte, nicht existierende Entscheidungen
+    einreicht, und liegt bösgläubiges Handeln vor, wenn er nach Beanstandung an ihnen festhält?
+
+    '
+  ergebnis: 'Ja. Der Ursprungsfall der weltweiten Fallreihe. Steven A. Schwartz hatte ChatGPT zur Recherche
+    eingesetzt und sechs erfundene Entscheidungen zitiert, darunter "Varghese v. China Southern Airlines".
+    Peter LoDuca unterzeichnete die Schriftsätze, ohne die Fundstellen zu lesen. Castel J verhängte gegen
+    Schwartz, LoDuca und die Kanzlei Levidow, Levidow & Oberman gesamtschuldnerisch 5.000 USD zur Zahlung
+    in die Gerichtskasse und ordnete an, den Beschluss den Mandanten und den Richtern zu übersenden, deren
+    Namen den erfundenen Entscheidungen beigelegt worden waren. Entscheidend war nicht der Einsatz des
+    Werkzeugs — das Gericht hielt fest, an der Nutzung generativer KI sei "nothing inherently improper"
+    —, sondern das Festhalten an den Zitaten nach Beanstandung durch Gegenseite und Gericht. Das Gericht
+    bejahte subjektive Bösgläubigkeit über die Figur der "conscious avoidance": Schwartz hatte "Varghese"
+    erfolglos gesucht und dennoch zitiert; LoDuca hatte eidesstattlich versichert, im Urlaub gewesen zu
+    sein, während tatsächlich Schwartz abwesend war.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.575368/gov.uscourts.nysd.575368.54.0_8.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=Mata
+  bezug_regelwerke: []
+  instanzenzug: []
+  quelle_tracker: CourtListener/RECAP Docket 1:22-cv-01461 (S.D.N.Y.), Dkt. 54 mit ECF-Kopfstempel
+  verifiziert: true
+  letzte_pruefung: &id002 2026-09-05
+  eigene_bewertung: 'Wird durchweg falsch erinnert. Sanktioniert wurde nicht die KI-Nutzung, sondern die
+    Lüge danach — die 5.000 USD sind eine Sanktion für bad faith, nicht für Fahrlässigkeit. Das erklärt,
+    warum die Beträge in der Folgezeit stark streuen: Gerichte, die ehrliche Einlassung honorieren, sanktionieren
+    niedrig oder gar nicht (Lacey: die einzelnen Anwälte blieben verschont), Gerichte, die Vertuschung
+    feststellen, sanktionieren hoch. Für die Darstellung ist der Fall der Einstieg schlechthin: es gibt
+    ein Transkript der Anhörung vom 08.06.2023, in der Schwartz erklärt, er habe ChatGPT gefragt, ob die
+    Fälle echt seien, und ChatGPT habe "ja" geantwortet.
+
+    '
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  pruefvermerk:
+  - 'Am eingereichten Dokument mit ECF-Kopfstempel geprüft: "Case 1:22-cv-01461-PKC Document 54 Filed
+    06/22/23 Page 1 of 43", Memorandum & Opinion, S.D.N.Y.'
+  - Gericht, Aktenzeichen (1:22-cv-01461-PKC) und Datum (22.06.2023) stimmen mit dem Eintrag überein.
+  - volltext_url von der Datenbank Justia auf das tatsächlich eingereichte Dokument in RECAP umgestellt;
+    quelle_art damit amtlich.
+  quelle_art: amtlich
+  sachverhalt: Auf einem Flug von El Salvador nach New York-JFK stieß ein metallener Servierwagen gegen
+    das linke Knie von Roberto Mata. Am 2. Februar 2022 klagte er vor dem New Yorker Staatsgericht gegen
+    die Fluggesellschaft Avianca; diese ließ die Sache am 22. Februar 2022 an das Bundesgericht verweisen
+    und beantragte am 13. Januar 2023 die Abweisung wegen Ablaufs der zweijährigen Frist des Montrealer
+    Übereinkommens. Für die Erwiderung setzte Matas Anwalt Steven A. Schwartz ChatGPT ein und übernahm
+    sechs Entscheidungen, die es nicht gibt, darunter "Varghese v. China Southern Airlines"; sein Kanzleikollege
+    Peter LoDuca unterzeichnete den am 1. März 2023 eingereichten Schriftsatz, ohne die Fundstellen zu
+    lesen. Am 15. März 2023 teilte Avianca mit, die zitierten Entscheidungen ließen sich überwiegend nicht
+    auffinden; das Gericht forderte am 11. und 12. April 2023 ihre Vorlage. Am 25. April 2023 reichte
+    LoDuca eine eidesstattliche Versicherung ein, der er die angeblichen Entscheidungstexte beifügte.
+    In der Anhörung am 8. Juni 2023 erklärte Schwartz, er habe ChatGPT gefragt, ob die Fälle echt seien,
+    und ChatGPT habe das bejaht.
+  sachverhalt_quelle: volltext
+- id: us-2024-park-kim
+  jurisdiktion: us
+  gericht: United States Court of Appeals for the Second Circuit (Parker, Nathan, Merriam, Circuit Judges)
+  instanz: berufung
+  aktenzeichen: No. 22-2057
+  ecli: null
+  datum: 2024-01-30
+  parteien:
+    klaeger: Minhye Park (Plaintiff-Appellant)
+    beklagter: David Dennis Kim (Defendant-Appellee)
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Fed. R. App. P. 46(c); Fed. R. Civ. P. 11; Local Rule 46.2 (Grievance Panel)
+  kernfrage: 'Genügt eine Anwältin ihrer Prüfungspflicht, wenn sie eine von ChatGPT gelieferte Fundstelle
+    in die Berufungsbegründung übernimmt, ohne die Entscheidung selbst gelesen zu haben?
+
+    '
+  ergebnis: 'Nein. Rechtsanwältin Jae S. Lee hatte in der Reply Brief eine nicht existierende Entscheidung
+    ("Matter of Bourguignon v. Coordinated Behavioral Health Servs.") zitiert, die ChatGPT erzeugt hatte.
+    Auf Aufforderung konnte sie die Entscheidung nicht vorlegen. Der Second Circuit stellte den Maßstab
+    in einem Satz auf, der seither international zitiert wird: Anwälte müssen die Autoritäten, auf die
+    sie sich stützen, "read, and thereby confirm the existence and validity of". Nur so lasse sich sicherstellen,
+    dass die Argumente "warranted by existing law" und "legally tenable" seien. Das Gericht verwies Lee
+    an sein Grievance Panel zur weiteren Untersuchung und zur Prüfung einer Verweisung an das Committee
+    on Admissions and Grievances und verpflichtete sie, ihrer Mandantin eine — erforderlichenfalls ins
+    Koreanische übersetzte — Abschrift der Entscheidung binnen 21 Tagen zu übermitteln.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.govinfo.gov/content/pkg/USCOURTS-ca2-22-02057/pdf/USCOURTS-ca2-22-02057-0.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=Park
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2023-mata-avianca
+  quelle_tracker: govinfo.gov, GPO-authentifizierte Sammlung United States Courts Opinions (USCOURTS-ca2-22-02057);
+    Justia
+  verifiziert: true
+  letzte_pruefung: &id001 2026-09-05
+  eigene_bewertung: 'Die erste US-Bundesberufungsentscheidung zur Sache und deshalb die dogmatisch wichtigste
+    der frühen Reihe. Sie formuliert die Pflicht nicht als KI-Sonderrecht, sondern als Anwendung des bestehenden
+    Rule 11: die Pflicht, das Zitierte gelesen zu haben, gilt seit je, KI macht ihre Verletzung nur sichtbar.
+    Genau diese Konstruktion — kein neues Recht, sondern Offenlegung eines alten Versäumnisses — hat der
+    englische Divisional Court in Ayinde übernommen. Wer die internationale Konvergenz erklären will,
+    beginnt hier und nicht bei Mata.
+
+    '
+  normen:
+  - frcp-11-b
+  pruefvermerk:
+  - 'Amtliche Fundstelle nachgetragen und am Volltext geprüft: govinfo.gov, Sammlung United States Courts
+    Opinions, Package USCOURTS-ca2-22-02057. Second Circuit, No. 22-2057, 30.01.2024, Besetzung PARKER,
+    NATHAN und MERRIAM, Circuit Judges.'
+  - 'KORREKTUR NAME: Die sanktionierte Anwältin heißt Jae S. Lee; der Eintrag führte "Jae S. Lee" (Folge
+    einer systematischen Zeichenverfälschung im Bestand, bei der englisches "ae" zu "ä" geworden ist).'
+  - 'PARTEIEN ergänzt: Das Rubrum lautet Minhye Park (Plaintiff-Appellant) gegen David Dennis Kim (Defendant-Appellee);
+    der Eintrag führte nur die Nachnamen.'
+  - 'Am Dokument bestätigt: die erfundene Entscheidung "Matter of Bourguignon v. Coordinated Behavioral
+    Health Servs., Inc., 114 A.D.3d 947 (3d Dep''t 2014)"; die Verweisung "REFER[RED] Attorney Lee to
+    the Court''s Grievance Panel pursuant to Local Rule 46.2 for further investigation, and for consideration
+    of a referral to the Committee on Admissions and Grievances"; und der Leitsatz "At the very least,
+    the duties imposed by Rule 11 require that attorneys read, and thereby confirm the existence and validity,
+    of the legal authorities on which they rely."'
+  quelle_art: amtlich
+  sachverhalt: Minhye Park klagte vor dem Bundesgericht in Brooklyn gegen den Arzt David Dennis Kim. Sie
+    befolgte über Monate hinweg die Anordnungen zur Beweismittelvorlage nicht, obwohl die zuständige Magistratsrichterin
+    sie mehrfach ausdrücklich warnte, dies sei ihre letzte Gelegenheit; nach mehr als sieben Monaten wies
+    das Gericht die Klage wegen anhaltender und vorsätzlicher Widersetzlichkeit ab. Ihre Anwältin Jae
+    S. Lee legte Berufung zum Second Circuit ein. Für die Replik suchte sie eine Entscheidung, die ihre
+    Argumentation zur Bemessung des Verdienstausfalls stützte, fand keine und fragte ChatGPT; das Programm
+    lieferte "Matter of Bourguignon v. Coordinated Behavioral Health Servs., Inc., 114 A.D.3d 947 (3d
+    Dep't 2014)". Diese Entscheidung gibt es nicht. Als das Berufungsgericht sie zur Vorlage aufforderte,
+    konnte Lee sie nicht beibringen und räumte ein, sie weder gelesen noch auf ihre Gültigkeit überprüft
+    zu haben.
+  sachverhalt_quelle: volltext
+- id: us-2023-crabill-colorado
+  jurisdiktion: us
+  gericht: Colorado Supreme Court, Office of the Presiding Disciplinary Judge
+  instanz: behörde
+  aktenzeichen: Case No. 23PDJ067 (People v. Crabill)
+  ecli: null
+  datum: 2023-11-22
+  parteien:
+    klaeger: The People of the State of Colorado
+    beklagter: Zachariah C. Crabill
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  anspruchsgrundlage: Colo. RPC 1.1 (competence), 1.3 (diligence), 3.3 (candor toward the tribunal), 8.4(c)
+  kernfrage: 'Rechtfertigt die Einreichung ChatGPT-erzeugter Scheinzitate in Verbindung mit der anschließenden
+    Falschbezichtigung eines Referendars die Aussetzung der Zulassung?
+
+    '
+  ergebnis: 'Ja. Crabill hatte in einem Antrag auf Aufhebung eines Versäumnisurteils mit ChatGPT recherchierte,
+    nicht existierende Entscheidungen zitiert. Auf Nachfrage des Richters schob er die Verantwortung zunächst
+    einem Rechtspraktikanten zu und räumte erst später die ChatGPT-Nutzung ein. Er unterwarf sich der
+    Feststellung von Verstößen gegen Kompetenz-, Sorgfalts- und Wahrheitspflichten. Die Sanktion: Aussetzung
+    der Zulassung für 366 Tage, davon 276 Tage zur Bewährung ausgesetzt bei zweijähriger Bewährungszeit
+    — also 90 Tage tatsächliche Aussetzung. Ausdrücklich straferschwerend wirkte nicht die KI-Nutzung,
+    sondern die Unehrlichkeit gegenüber dem Gericht.
+
+    '
+  bedeutung: hoch
+  volltext_url: null
+  zusammenfassung_url: https://coloradosupremecourt.com/PDJ/PDJ_Decisions.asp
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2023-mata-avianca
+  quelle_tracker: Office of Attorney Regulation Counsel / Presiding Disciplinary Judge (coloradolegalregulation.com),
+    Volltext der Stipulation to Discipline
+  verifiziert: true
+  letzte_pruefung: &id003 2026-09-05
+  eigene_bewertung: 'ACHTUNG — HÄUFIGE VERWECHSLUNG. Der im Auftrag als "Kruse (Colorado)" bezeichnete
+    Fall existiert so nicht. Colorado ist People v. Crabill (Disziplinarverfahren, Zulassungsaussetzung);
+    Kruse v. Karlen ist Missouri (Berufungsgericht, 10.000 USD gegen eine nicht anwaltlich vertretene
+    Partei). Beide sind hier getrennt erfasst, weil sie die zwei Sanktionsschienen markieren, die sich
+    seither auseinanderentwickelt haben: Berufsrecht gegen Anwälte, Prozessrecht gegen Parteien. Crabill
+    ist die erste Zulassungssanktion der Welt wegen KI-Nutzung und damit der Beleg dafür, dass die Aufsicht
+    schon 2023 zugriff — fünf Monate nach Mata. Volltext der PDJ-Entscheidung nicht abrufbar; Sachverhalt
+    und Sanktionshöhe aus der Datenbank, deshalb `verifiziert: false`.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Office of the Presiding Disciplinary Judge, coloradolegalregulation.com):
+    ''People v. Zachariah C. Crabill. 23PDJ067. November 22, 2023.'''
+  - 'KORREKTUR DATUM: Der Presiding Disciplinary Judge nahm die Stipulation am 22.11.2023 an; der Eintrag
+    führte den 21.11.2023. Der 21.11.2023 erscheint auf der bei Law360 hinterlegten Fassung als Datum
+    der Unterzeichnung. Maßgeblich für die Zitierung ist das amtlich geführte Datum 22.11.2023.'
+  - 'Sanktion am Dokument bestätigt: ''suspended ... for one year and one day, with ninety days to be
+    served and the remainder to be stayed upon Crabill''s successful completion of a two-year period of
+    probation'' — das entspricht der Angabe des Eintrags (366 Tage, davon 276 zur Bewährung ausgesetzt).
+    Anwaltsregisternummer 56783.'
+  - Die bisherige volltext_url war eine Suchabfrage der 'AI Hallucination Cases Database', kein Dokument.
+  - 'Der bisherige Link ist bereits amtlich: coloradolegalregulation.com ist die Website des Office of
+    Attorney Regulation Counsel / Presiding Disciplinary Judge des Colorado Supreme Court. Kein Zeitungs-
+    oder Kanzleilink.'
+  - 'Volltext geöffnet: People v. Zachariah C. Crabill, Case No. 23PDJ067, Presiding Disciplinary Judge,
+    22.11.2023.'
+  - 'Sanktion bestätigt: Suspendierung für ein Jahr und einen Tag, davon 90 Tage zu vollziehen, Rest zur
+    Bewährung ausgesetzt (Reg.-Nr. 56783).'
+  - Gericht, Aktenzeichen, Datum und Parteien stimmen mit dem Eintrag überein.
+  - 'verifiziert am 05.09.2026 auf false gesetzt: das Feld stand im Widerspruch zum eigenen Pruefvermerk.'
+  - 'Amtliche Fundstelle nachgetragen und am Volltext geprüft: "Stipulation to Discipline", People v.
+    Zachariah C. Crabill, 23PDJ067, Presiding Disciplinary Judge, 22.11.2023, veröffentlicht auf coloradolegalregulation.com
+    (Office of Attorney Regulation Counsel).'
+  - 'Am Dokument bestätigt: Registernummer 56783; Sanktion "suspension for one year and one day", davon
+    90 Tage zu vollziehen, der Rest zur Bewährung ausgesetzt bei zweijähriger Bewährungszeit; Wirksamkeit
+    ab 22.11.2023.'
+  - 'Ergänzt: Verletzt wurden Colo. RPC 1.1 (Kompetenz), 1.3 (Sorgfalt), 3.3(a)(1) (Wahrheitspflicht gegenüber
+    dem Gericht) und 8.4(c) (berufsunwürdiges Verhalten). Die zuletzt genannte Regel — die Unehrlichkeit
+    — führte der Eintrag nicht auf.'
+  - 'Am Dokument bestätigt: Crabill "cited case law that he found through the artificial intelligence
+    platform, ChatGPT" und "did not read the cases he found through ChatGPT or otherwise attempt to verify
+    that the citations were accurate"; auf Nachfrage des Gerichts habe er die Fehler fälschlich einem
+    "legal intern" zugeschrieben.'
+  sekundaerquelle_url: https://www.coloradolegalregulation.com/wp-content/uploads/PDJ/Decisions/Crabill,%20Stipulation%20to%20Discipline,%2023PDJ067,%2011-22-23.pdf
+  dokumenttyp: Order Approving Conditional Admission of Misconduct (Stipulation to Discipline)
+  quelle_art: fehlt
+- id: us-2024-kruse-karlen
+  jurisdiktion: us
+  gericht: Missouri Court of Appeals, Eastern District
+  instanz: berufung
+  aktenzeichen: ED111172 (Kruse v. Karlen)
+  ecli: null
+  datum: 2024-02-13
+  parteien:
+    klaeger: Molly Kruse
+    beklagter: Jonathan R. Karlen u.a.
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Mo. R. Civ. P. 84.19 (damages for frivolous appeal)
+  kernfrage: 'Kann eine nicht anwaltlich vertretene Partei zu Schadensersatz wegen mutwilliger Berufung
+    verurteilt werden, wenn ihre Berufungsschrift von einem beauftragten Dritten mit generativer KI erstellt
+    wurde und fast ausschließlich erfundene Zitate enthält?
+
+    '
+  ergebnis: 'Ja. Von 24 zitierten Entscheidungen existierten 22 nicht; die beiden echten waren falsch
+    angewendet. Der Berufungsführer hatte einen im Internet gefundenen "Consultant" mit der Erstellung
+    der Schriftsätze beauftragt, der generative KI einsetzte. Das Gericht verwarf die Berufung und sprach
+    der Gegenseite 10.000 USD Schadensersatz wegen mutwilliger Berufung zu. Kern der Begründung: Die Einreichung
+    erfundener Autoritäten ist ein Missbrauch des Justizsystems unabhängig davon, ob die Partei anwaltlich
+    vertreten ist; die Selbstvertretung mildert die Pflicht nicht.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.courts.mo.gov/file.jsp?id=205455
+  zusammenfassung_url: https://www.courts.mo.gov/page.jsp?id=12086
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2026-pro-se-linie-halluzination
+  quelle_tracker: courts.mo.gov (Volltext der Entscheidung des Missouri Court of Appeals); AI Hallucination
+    Cases Database
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Der Fall ist die Wurzel der eigenen Dogmatik für nicht vertretene Parteien: Weil
+    Rule 11 und das Berufsrecht nicht greifen, weichen die Gerichte auf das Institut der mutwilligen Rechtsverfolgung
+    aus. Bemerkenswert ist die Sanktionshöhe — 10.000 USD gegen einen Privatmann waren 2024 mehr als das
+    Doppelte dessen, was gegen die Anwälte in Mata verhängt wurde. Der eigentliche Verursacher, der kommerzielle
+    "Consultant", wurde nicht belangt; das ist die Regelungslücke, die auch die DoNotPay-Verfügung offenlässt.
+
+    '
+  pruefvermerk:
+  - 'Am Entscheidungstext geprüft: Missouri Court of Appeals, Eastern District, Division Two, Docket ED
+    111172, Datum 13.02.2024, Presiding Judge Kurt S. Odenwald (mit Gardner und Hardin-Tammons).'
+  - 'KORREKTUR PARTEIEN: Respondent ist Molly Kruse, Appellant ist Jonathan R. Karlen u.a. Der Eintrag
+    hatte den Vornamen des Berufungsführers auf die Gegenseite übertragen und führte ''Jonathan R. Kruse''
+    als Kläger.'
+  - 'Tenor bestätigt: Berufung wegen Verstößen gegen die Berufungsregeln verworfen; ''Appellant is hereby
+    ordered to pay Respondent damages towards appellate attorneys'' fees in the amount of $10,000.'' Von
+    24 Zitaten waren 22 erfunden — wie im Eintrag.'
+  - Die bisherige volltext_url war eine Suchabfrage der 'AI Hallucination Cases Database', kein Dokument.
+  - 'Amtliche Fundstelle nachgetragen und am Volltext geprüft: Missouri Court of Appeals, Eastern District,
+    Division Two, No. ED111172, 13.02.2024, veröffentlicht auf courts.mo.gov.'
+  - 'Am Dokument bestätigt: Rubrum "Molly Kruse v. Jonathan R. Karlen, et al." (die frühere Korrektur
+    der Parteirollen ist damit amtlich belegt); Besetzung Kurt S. Odenwald (Presiding Judge), Michael
+    E. Gardner und Renée D. Hardin-Tammons; 22 von 24 Fundstellen erfunden oder für unzutreffende Sätze
+    zitiert; Tenor "Appellant is hereby ordered to pay Respondent damages towards appellate attorneys''
+    fees in the amount of $10,000" bei Verwerfung der Berufung.'
+  quelle_art: amtlich
+  sachverhalt: Jonathan R. Karlen hatte einen Zivilprozess in Missouri gegen Molly Kruse verloren und
+    wollte Berufung einlegen; einen Anwalt nahm er dafür nicht. Stattdessen beauftragte er einen im Internet
+    gefundenen "Consultant" mit der Abfassung der Schriftsätze, der dazu generative KI einsetzte. Von
+    den vierundzwanzig in der Berufungsschrift zitierten Entscheidungen existierten zweiundzwanzig nicht;
+    die beiden echten waren auf den Fall nicht anwendbar. Die Gegenseite beantragte Schadensersatz wegen
+    mutwilliger Berufung.
+  sachverhalt_quelle: eintrag
+- id: us-2024-gauthier-goodyear
+  jurisdiktion: us
+  gericht: United States District Court, E.D. Texas (Crone, District Judge)
+  instanz: erstinstanzlich
+  aktenzeichen: No. 1:23-CV-281
+  ecli: null
+  datum: 2024-11-25
+  parteien:
+    klaeger: James Gauthier
+    beklagter: Goodyear Tire & Rubber Co.
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Fed. R. Civ. P. 11(b); Local Rule AT-3; inherent authority
+  kernfrage: 'Welche Sanktion ist angemessen, wenn ein Anwalt fahrlässig, aber ohne Verschleierungsabsicht
+    KI-erzeugte Scheinzitate einreicht?
+
+    '
+  ergebnis: 'Rechtsanwalt Brandon Monk hatte mit Claude einen Schriftsatz zur Abwehr eines summary-judgment-Antrags
+    erstellt und weder Zitate noch Belegstellen geprüft. Es fanden sich vollständig erfundene Entscheidungen
+    sowie erfundene Zitate, die realen Entscheidungen (u.a. Morales v. SimuFlite, White v. FCI USA) zugeschrieben
+    waren. Das Gericht hielt fest, dass Anwälte für die Prüfung aller Einreichungen nach Rule 11 persönlich
+    verantwortlich bleiben, unabhängig von der eingesetzten Technik. Sanktionstrias: 2.000 USD Geldbuße,
+    verpflichtende Fortbildung (CLE) speziell zu generativer KI in der anwaltlichen Praxis und Pflicht,
+    den Beschluss dem eigenen Mandanten offenzulegen.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.govinfo.gov/content/pkg/USCOURTS-txed-1_23-cv-00281/pdf/USCOURTS-txed-1_23-cv-00281-0.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2023-mata-avianca
+  - us-2024-park-kim
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Wichtiger als der Betrag ist die Sanktionsform. Gauthier etabliert die Fortbildungsauflage
+    als Standardreaktion auf den Fahrlässigkeitsfall — sie ist inzwischen in Dutzenden US-Entscheidungen
+    wiederholt worden (zuletzt etwa Pauliah, S.D. Miss. 2025, und McCormick, E.D. Tex. 2026). Das ist
+    die eigentliche Rechtsfortbildung: Die Gerichte behandeln Halluzinationsfälle nicht als Strafsache,
+    sondern als Kompetenzdefizit, und reagieren mit Nachschulung statt mit Geldstrafe. Bemerkenswert ist
+    auch, dass hier erstmals ein Anthropic-Modell und nicht ChatGPT der Auslöser war.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Memorandum and Order im Volltext): ''UNITED STATES DISTRICT COURT EASTERN
+    DISTRICT OF TEXAS — JAMES GAUTHIER, Plaintiff, versus CIVIL ACTION NO. 1:23-CV-281 — GOODYEAR TIRE
+    & RUBBER CO., Defendant — MEMORANDUM AND ORDER'', Richterin Marcia A. Crone, Datum 25.11.2024. Gericht,
+    Aktenzeichen und Datum des Eintrags bestätigt.'
+  - 'KORREKTUR PARTEIEN: Kläger ist James Gauthier. Der Eintrag führte ''Brandon Monk für Gauthier'' und
+    verwechselte damit den Prozessbevollmächtigten mit der Partei. Brandon Monk ist der sanktionierte
+    Anwalt, nicht der Kläger.'
+  - 'Sanktion bestätigt und vollständig: 2.000 USD an die Gerichtskasse; mindestens eine Stunde Fortbildung
+    (Texas MCLE) zu generativer KI mit Nachweis bis zum 03.02.2025; Übermittlung des Beschlusses an den
+    Mandanten mit Nachweis binnen 21 Tagen. Eingesetztes Werkzeug: Claude.'
+  - 'Volltext geöffnet: E.D. Texas, Civil Action No. 1:23-CV-281, Richterin Marcia A. Crone, 25.11.2024
+    — Gericht, Aktenzeichen, Datum und Parteien stimmen überein.'
+  - 'Inhalt: 2.000 USD Sanktion, verpflichtende Fortbildung zu generativer KI gegen Rechtsanwalt Brandon
+    Monk wegen mit Claude erzeugter, nicht existierender Entscheidungen.'
+  - 'Im selben Package: Granulat 1 = Summary-Judgment-Entscheidung vom 18.12.2024.'
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/238/Gauthier_v._Goodyear_US_DC_Eastern_Texas_November_25_2024.pdf
+  dokumenttyp: Memorandum and Order (Rule 11 Sanctions)
+  quelle_art: amtlich
+- id: us-2025-coomer-lindell
+  jurisdiktion: us
+  gericht: United States District Court, D. Colorado (Wang, District Judge)
+  instanz: erstinstanzlich
+  aktenzeichen: Civil Action No. 22-cv-01129-NYW-SBP
+  ecli: null
+  datum: 2025-07-07
+  parteien:
+    klaeger: Eric Coomer, Ph.D.
+    beklagter: Michael J. Lindell, Frankspeech LLC, My Pillow, Inc.
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Fed. R. Civ. P. 11(b), (c)
+  kernfrage: 'Rechtfertigt ein mit generativer KI erstellter, ungeprüfter Schriftsatz Sanktionen gegen
+    beide unterzeichnenden Anwälte persönlich, wenn die Fehler erst auf Nachfrage des Gerichts eingeräumt
+    werden?
+
+    '
+  ergebnis: 'Ja. Die Prozessvertreter von Mike Lindell, Christopher I. Kachouroff und Jennifer T. DeMaster,
+    reichten im Verleumdungsprozess des Dominion-Mitarbeiters Eric Coomer einen Schriftsatz mit einer
+    Vielzahl fehlerhafter Fundstellen ein: drei vollständig erfundene Entscheidungen, ein erfundenes Zitat
+    und vier unzutreffend wiedergegebene Entscheidungen. Eingesetzt worden waren ausweislich der Erhebungen
+    mehrere Werkzeuge — u.a. Copilot, Westlaw-KI, Gemini, Grok, Claude, ChatGPT und Perplexity. Die Anwälte
+    trugen zunächst vor, versehentlich einen Entwurf statt der Endfassung eingereicht zu haben. Das Gericht
+    stellte einen Verstoß gegen Rule 11 fest und verhängte gegen jeden der beiden Rechtsanwälte persönlich
+    3.000 USD, insgesamt 6.000 USD.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.govinfo.gov/content/pkg/USCOURTS-cod-1_22-cv-01129/pdf/USCOURTS-cod-1_22-cv-01129-10.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2023-mata-avianca
+  - us-2026-coomer-lindell-2
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der öffentlichkeitswirksamste Fall der Reihe, weil er in einem politisch aufgeladenen
+    Verleumdungsprozess spielt und den Prozessbevollmächtigten einer bekannten Person trifft. Juristisch
+    bemerkenswert ist die Zurechnung: Das Gericht sanktionierte beide Unterzeichner persönlich und in
+    gleicher Höhe, obwohl nur einer den Text erstellt hatte — die Mitunterzeichnung genügt. Das ist dieselbe
+    Linie, die der englische Divisional Court in Ayinde für den zieht, der sich auf fremde Recherche stützt.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Order im Volltext): ''IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT
+    OF COLORADO — Judge Nina Y. Wang — Civil Action No. 22-cv-01129-NYW-SBP — ERIC COOMER, Plaintiff,
+    v. MICHAEL J. LINDELL, FRANKSPEECH LLC, and MY PILLOW, INC., Defendants. ORDER'', Datum 07.07.2025.'
+  - 'KORREKTUR: Das Aktenzeichen lautet 22-cv-01129-NYW-SBP ohne den Bürovorsatz ''1:''. Der District
+    of Colorado führt keinen Divisionspräfix.'
+  - 'Sanktion bestätigt und beziffert: je 3.000 USD gegen Christopher I. Kachouroff nebst McSweeney Cynkar
+    & Kachouroff PLLC (gesamtschuldnerisch) und gegen Jennifer T. DeMaster persönlich, zahlbar an die
+    Gerichtskasse bis 04.08.2025 — zusammen 6.000 USD.'
+  - govinfo/GPO, Collection USCOURTS, Package USCOURTS-cod-1_22-cv-01129, Granulat 10.
+  - 'Volltext geöffnet: U.S. District Court, District of Colorado, Civil Action No. 1:22-cv-01129-NYW-SBP,
+    Richterin Nina Y. Wang, 07.07.2025 — Übereinstimmung mit Gericht, Aktenzeichen, Datum und Parteien
+    (Coomer ./. Lindell, Frankspeech LLC, My Pillow, Inc.).'
+  - 'Inhaltlich Entscheidung, keine Klageschrift: Geldbußen von je 3.000 USD gegen Kachouroff/Kanzlei
+    und DeMaster wegen rund dreißig fehlerhafter, teils erfundener Zitate aus generativer KI.'
+  - 'Vorgeschichte im selben Package: Granulat 8 = Order to Show Cause vom 23.04.2025.'
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/566/Coomer_v._Lindell_USA_7_July_2025.pdf
+  dokumenttyp: Order (Sanktionsbeschluss nach Rule 11)
+  quelle_art: amtlich
+  sachverhalt: Eric Coomer war Sicherheitsdirektor bei dem Wahlgerätehersteller Dominion Voting Systems.
+    Nach der Präsidentschaftswahl 2020 wurde er in Behauptungen über eine angebliche Wahlmanipulation
+    namentlich genannt; deswegen verklagte er den Unternehmer Michael J. Lindell, dessen Sender Frankspeech
+    und dessen Firma My Pillow in Colorado wegen Verleumdung. Lindells Prozessvertreter Christopher I.
+    Kachouroff und Jennifer T. DeMaster reichten einen Schriftsatz ein, der drei vollständig erfundene
+    Entscheidungen, ein erfundenes Zitat und vier unzutreffend wiedergegebene Entscheidungen enthielt;
+    bei der Erstellung waren mehrere Werkzeuge im Spiel — unter anderem Copilot, die KI-Funktionen von
+    Westlaw, Gemini, Grok, Claude, ChatGPT und Perplexity. Auf die Nachfrage des Gerichts trugen die beiden
+    zunächst vor, sie hätten versehentlich einen Entwurf statt der Endfassung eingereicht. Das Gericht
+    forderte sie förmlich zur Stellungnahme auf.
+  sachverhalt_quelle: eintrag
+- id: us-2026-coomer-lindell-2
+  jurisdiktion: us
+  gericht: United States District Court, D. Colorado
+  instanz: erstinstanzlich
+  aktenzeichen: Civil Action No. 22-cv-01129-NYW-SBP (zweiter Sanktionsbeschluss)
+  ecli: null
+  datum: 2026-05-07
+  parteien:
+    klaeger: Eric Coomer, Ph.D.
+    beklagter: Michael J. Lindell u.a.
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Fed. R. Civ. P. 11; inherent authority
+  kernfrage: 'Wie sanktioniert ein Gericht die Wiederholung KI-gestützter Fehlzitierung durch dieselben
+    Anwälte nach einer bereits verhängten Sanktion?
+
+    '
+  ergebnis: 'Knapp zehn Monate nach dem ersten Beschluss verhängte das Gericht in demselben Verfahren
+    eine zweite Geldsanktion von 5.000 USD, diesmal wegen unzutreffender Wiedergabe einer echten Entscheidung.
+    Damit summieren sich die Sanktionen in Coomer v. Lindell auf 11.000 USD.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.govinfo.gov/content/pkg/USCOURTS-cod-1_22-cv-01129/pdf/USCOURTS-cod-1_22-cv-01129-12.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-coomer-lindell
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der Wiederholungsfall ist der interessantere von beiden und wird bislang kaum rezipiert.
+    Er zeigt, dass die Abschreckungswirkung der ersten Sanktion in derselben Kanzlei und demselben Verfahren
+    nicht gegriffen hat, und er verschiebt den Gegenstand: nicht mehr die erfundene Entscheidung, sondern
+    die falsch wiedergegebene echte. Das ist die schwierigere Fallgruppe, weil sie mit einem Zitatprüfer
+    nicht zu finden ist — die Fundstelle existiert ja. Die Datenbank führt "misrepresented case law" inzwischen
+    als eigene Kategorie; hier liegt die nächste Welle.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Order im Volltext): District of Colorado, Judge Nina Y. Wang, ''Civil
+    Action No. 22-cv-01129-NYW-SBP'', Datum 07.05.2026.'
+  - 'KORREKTUR: Wie beim Ersteintrag lautet das Aktenzeichen 22-cv-01129-NYW-SBP ohne den Vorsatz ''1:''.'
+  - 'Sanktion bestätigt: 5.000 USD gegen Christopher Kachouroff und McSweeney Cynkar & Kachouroff PLLC,
+    zahlbar an die Gerichtskasse bis zum 21.05.2026; zusammen mit den 3.000 USD aus dem Beschluss vom
+    07.07.2025 ergibt das 8.000 USD.'
+  - 'Volltext geöffnet: D. Colo., Civil Action No. 22-cv-01129-NYW-SBP, Richterin Nina Y. Wang, 07.05.2026
+    — Gericht, Aktenzeichen, Datum und Parteien stimmen überein.'
+  - 'Inhalt: 5.000 USD gegen Kachouroff und seine Kanzlei wegen erneuter Zitatmängel in einem Post-Trial-Schriftsatz;
+    Verzicht auf Meldung an die Virginia Bar.'
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/2118/Coomer_v._Lindell_USA_7_May_2026.pdf
+  dokumenttyp: Order (zweiter Sanktionsbeschluss)
+  quelle_art: amtlich
+- id: us-2025-lacey-statefarm
+  jurisdiktion: us
+  gericht: United States District Court, C.D. California (Special Master Michael R. Wilner)
+  instanz: erstinstanzlich
+  aktenzeichen: No. 2:24-cv-05205-FMO-MAA (Dkt. 119)
+  ecli: null
+  datum: 2025-05-06
+  parteien:
+    klaeger: Jacquelyn "Jackie" Lacey
+    beklagter: State Farm General Insurance Company
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - governance
+  anspruchsgrundlage: Fed. R. Civ. P. 11; 28 U.S.C. § 1927; inherent authority; Aufgabenzuweisung an den
+    Special Master nach Fed. R. Civ. P. 53
+  kernfrage: 'Wer haftet für KI-erzeugte Scheinzitate, wenn die Kanzlei als Organisation versagt hat,
+    die einzelnen Anwälte aber offen und vollständig eingeräumt haben?
+
+    '
+  ergebnis: 'Die Prozessbevollmächtigten hatten für einen Schriftsatz im Discovery-Streit mehrere KI-Werkzeuge
+    eingesetzt — CoCounsel, Westlaw Precision und Google Gemini — und dabei vollständig erfundene Entscheidungen
+    sowie erfundene Zitate zu echten Entscheidungen erzeugt. Nach der ersten Beanstandung reichten sie
+    eine überarbeitete Fassung ein, die immer noch sechs KI-erzeugte Fehler enthielt, ohne den Werkzeugeinsatz
+    offenzulegen. Der Special Master strich sämtliche Fassungen des Schriftsatzes, versagte die beantragte
+    Discovery-Anordnung und verhängte gegen die beiden beteiligten Kanzleien gesamtschuldnerisch Kosten
+    und Sanktionen von insgesamt 31.100 USD. Die einzelnen Anwälte blieben wegen ihrer offenen Einlassung
+    persönlich verschont; die Verantwortung wurde auf der Kanzleiebene verortet.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.930490/gov.uscourts.cacd.930490.119.0_2.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2023-mata-avianca
+  - us-2026-kleyman-kaloidis
+  quelle_tracker: CourtListener/RECAP Docket 2:24-cv-05205 (C.D. Cal.), Dkt. 119 mit ECF-Kopfstempel;
+    AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: *id002
+  eigene_bewertung: 'Bis August 2026 die höchste Sanktion der Welt in dieser Fallgruppe und bis heute
+    die höchste in Kalifornien; überholt erst durch Kleyman (New York, 46.511,35 USD). Drei Punkte machen
+    sie dogmatisch wertvoll. Erstens die Adressatenwahl: Sanktioniert wurde die Organisation, nicht der
+    Einzelne — die erste ausdrückliche Anerkennung einer Kanzlei-Organisationspflicht beim KI-Einsatz.
+    Zweitens der Werkzeugkreis: Betroffen waren nicht Consumer-Chatbots, sondern juristische Fachprodukte
+    (CoCounsel, Westlaw Precision). Die verbreitete Annahme, RAG-gestützte Fachwerkzeuge halluzinierten
+    nicht, ist damit gerichtlich widerlegt. Drittens die zweite Welle: Auch die *korrigierte* Fassung
+    enthielt noch sechs Fehler. NICHT VERIFIZIERT: Aktenzeichen und die Namen der beiden Kanzleien (nach
+    Presseberichten Ellis George LLP und K&L Gates LLP) konnten mangels Zugriff auf CourtListener nicht
+    am Primärdokument geprüft werden; auch Datum, Betrag, Werkzeuge und Ablauf sind nicht am Primärdokument
+    geprüft.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Beschluss des Special Master im Volltext): United States District Court,
+    Central District of California, Case No. 2:24-cv-05205-FMO-MAA, Special Master Hon. Michael R. Wilner
+    (U.S. Magistrate Judge a.D.).'
+  - 'Ergänzt: Vollständiger Name der Klägerin ''Jacquelyn "Jackie" Lacey''.'
+  - 'Tenor und Betrag bestätigt: Streichung sämtlicher Fassungen des Schriftsatzes, Versagung der Discovery-Anordnung,
+    gesamtschuldnerische Sanktion von 31.100 USD gegen Ellis George LLP und K&L Gates LLP (26.100 USD
+    Kostenerstattung Special Master, 5.000 USD Anwaltskosten). Keine Sanktion gegen die einzelnen Anwälte
+    — wie im Eintrag.'
+  - 'Datumshinweis: Der Beschluss trägt im Text den 05.05.2025; Datenbank und Dateiname führen den 06.05.2025
+    (Eingang). Der Eintrag folgt dem Eingangsdatum; das ist vertretbar, sollte bei Zitierung aber als
+    ''5./6.5.2025'' geführt werden.'
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde der Beschluss des Special Master Michael R. Wilner
+    vom 06.05.2025, C.D. Cal., No. 2:24-cv-05205-FMO-MAA. Der Central District of California nimmt nicht
+    an der govinfo-Collection USCOURTS'
+  - 'verifiziert am 05.09.2026 auf false gesetzt: das Feld stand im Widerspruch zum eigenen Pruefvermerk.'
+  - 'Am eingereichten Dokument mit ECF-Kopfstempel geprüft: "Case 2:24-cv-05205-FMO-MAA Document 119 Filed
+    05/06/25 Page 1 of 77 Page ID", C.D. Cal.'
+  - 'DATUMSFRAGE GEKLÄRT: Der ECF-Kopfstempel weist den 06.05.2025 als Einreichungsdatum aus; der Docket-Text
+    lautet "ORDER OF SPECIAL MASTER IMPOSING NON-MONETARY SANCTIONS AND AWARDING COSTS by Special Master
+    Michael R. Wilner". Das im Eintrag geführte Datum 06.05.2025 ist damit amtlich belegt.'
+  - Das Dokument umfasst 77 Seiten. Ein Bericht des Special Master folgte am 27.05.2025 (Dkt. 131).
+  - volltext_url erstmals auf ein amtliches Dokument gesetzt (bisher keine; der Verweis ging auf die Datenbank
+    damiencharlotin.com).
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  - usc-28-1927
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/311/Lacey_v._State_Farm_General_Insurances_Co._D._Cal._May_6_2025.pdf
+  quelle_art: amtlich
+  sachverhalt: Jacquelyn Lacey warf der Versicherung State Farm General vor, ihren Schadensfall in unredlicher
+    Weise abgelehnt oder verzögert zu haben. Vertreten wurde sie von zwei Kanzleien, Ellis George und
+    K&L Gates. Für einen Schriftsatz im Streit über die Beweismittelvorlage fertigte Trent Copeland von
+    Ellis George eine Gliederung an und setzte dafür CoCounsel, Westlaw Precision und Google Gemini ein;
+    Ryan Keech und Keian Vahedy von K&L Gates arbeiteten sie in den zehnseitigen Schriftsatz ein, ohne
+    die Herkunft offenzulegen und ohne die Fundstellen zu prüfen. Von den 27 Fundstellen waren rund neun
+    unrichtig, mindestens zwei der zitierten Entscheidungen existierten überhaupt nicht. Der vom Gericht
+    bestellte Special Master Michael R. Wilner versuchte, die Fundstellen in Westlaw nachzuschlagen, fand
+    zwei davon nicht und fragte bei den Anwälten nach; die daraufhin eingereichte überarbeitete Fassung
+    enthielt immer noch ein halbes Dutzend KI-erzeugter Fehler.
+  sachverhalt_quelle: volltext
+- id: us-2026-kleyman-kaloidis
+  jurisdiktion: us
+  gericht: Supreme Court of the State of New York, Kings County (Hon. Heela D. Capell, J.S.C.)
+  instanz: erstinstanzlich
+  aktenzeichen: Index No. 502644/2025
+  ecli: null
+  datum: 2026-08-04
+  parteien:
+    klaeger: Kleyman Law Group, P.C.
+    beklagter: James Kaloidis, als Testamentsvollstrecker des Nachlasses von George Kaloidis
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: 22 N.Y.C.R.R. § 130-1.1 (frivolous conduct)
+  kernfrage: 'Welche Sanktion ist angemessen, wenn ein Anwalt über 19 Einreichungen hinweg 23 erfundene
+    Entscheidungen zitiert und damit fortfährt, nachdem die Gegenseite die Fälschungen aufgedeckt hat?
+
+    '
+  ergebnis: 'Rechtsanwalt Alex I. Kleyman reichte in eigener Sache 19 Schriftsätze ein, die 23 erfundene
+    Entscheidungen enthielten, auf die 47-mal Bezug genommen wurde; hinzu kamen mindestens 83 real existierende
+    Entscheidungen, deren Inhalt unzutreffend wiedergegeben wurde. Er setzte die Einreichungen fort, nachdem
+    die Gegenseite die Fälschungen benannt hatte. Das Gericht verhängte auf Grundlage der New Yorker Frivolitätsregel
+    insgesamt 46.511,35 USD: 10.000 USD Sanktion an den Lawyers'' Fund for Client Protection und 36.511,35
+    USD Anwaltskosten- und Auslagenerstattung an die Gegenseite. Zudem Verweisung an das Grievance Committee
+    for the Second, Eleventh & Thirteenth Judicial Districts. Zentrale Sätze: Kleyman "could have attempted
+    to verify the cited decisions through a free Internet search engine", und: "Counsel''s duty of candor
+    to the Court cannot be delegated to a software program."
+
+    '
+  bedeutung: hoch
+  volltext_url: null
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=Kleyman
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-lacey-statefarm
+  - us-2026-kleyman-kaloidis-vorentscheidung
+  quelle_tracker: Volltext der Entscheidung vom 04.08.2026 (PDF-Kopie); Vorentscheidung amtlich in den
+    New York Official Reports (2026 NY Slip Op 31557[U])
+  verifiziert: true
+  letzte_pruefung: *id003
+  eigene_bewertung: 'Die derzeit höchste dokumentierte Sanktion weltweit und damit der neue Referenzpunkt
+    — sie löst Lacey ab, das 15 Monate lang als Höchstmarke galt. Der Fall ist die Eskalationsstufe, die
+    der englische Divisional Court in Ayinde angekündigt hatte: Es geht nicht mehr um Fahrlässigkeit,
+    sondern um beharrliches Festhalten nach Aufdeckung. Bemerkenswert ist die Struktur der Sanktion —
+    nur 10.000 USD sind Strafe, der weit größere Teil ist Kostenerstattung. Das ist der eigentliche Hebel:
+    Der ökonomische Schaden entsteht nicht durch die Buße, sondern dadurch, dass die Gegenseite die Fälschungen
+    aufdecken musste und diese Arbeit bezahlt bekommt. Wer die Entwicklung der Sanktionshöhen erklären
+    will, muss diesen Wechsel von der Strafe zur Kostenerstattung herausstellen — er erklärt den Sprung
+    von 5.000 auf 46.511 USD besser als jede Verschärfung der Maßstäbe.
+
+    '
+  sekundaerquelle_url: https://websitedc.s3.amazonaws.com/documents/Kleyman_Law_Group_PC_v_Kaloidis_USA_4_August_2026.pdf
+  pruefvermerk:
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde die Entscheidung des Supreme Court, Kings County
+    (Hon. Heela D. Capell) vom 04.08.2026, Index No. 502644/2025. Die New York Official Reports (nycourts.gov/reporter)
+    führen zu diesem Ver'
+  - 'Am Volltext der Entscheidung vom 04.08.2026 geprüft: Supreme Court, Kings County, Index No. 502644/2025,
+    Hon. Heela D. Capell, J.S.C. Gericht, Aktenzeichen, Datum und Parteien bestätigt.'
+  - 'Beträge am Dokument bestätigt: 10.000 USD an den Lawyers'' Fund for Client Protection und 36.511,35
+    USD an die Prozessbevollmächtigten der Gegenseite (Wenig Saltiel LLP), zusammen 46.511,35 USD.'
+  - 'Verweisung am Dokument bestätigt: "State of New York Grievance Committee for the Second, Eleventh
+    & Thirteenth Judicial Districts".'
+  - 'Zitate am Dokument geprüft und präzisiert: "He conceded that he could have attempted to verify the
+    cited decisions through a free Internet search engine or research service and did not do so." sowie
+    "counsel''s duty of candor to the Court cannot be delegated to a software program."'
+  - 'VORENTSCHEIDUNG, amtlich belegt: Mit Beschluss vom 13.04.2026 (2026 NY Slip Op 31557[U], https://www.nycourts.gov/reporter/pdfs/2026/2026_31557.pdf)
+    hatte dieselbe Richterin dem Sanktionsantrag dem Grunde nach stattgegeben und die Höhe einer Anhörung
+    am 09.06.2026 vorbehalten; dort ist auch die Zahl von 23 erfundenen Entscheidungen bei 47 Bezugnahmen
+    und mindestens 83 unzutreffend wiedergegebenen Entscheidungen festgehalten.'
+  - 'Amtliche Fundstelle für die Entscheidung vom 04.08.2026 nicht auffindbar: Die New York Official Reports
+    (nycourts.gov/reporter) führen zu diesem Verfahren nur den Beschluss vom 13.04.2026; die spätere,
+    betragsfestsetzende Entscheidung ist dort (Stand 05.09.2026) nicht veröffentlicht.'
+  quelle_art: fehlt
+- id: us-2026-kleyman-kaloidis-vorentscheidung
+  jurisdiktion: us
+  gericht: Supreme Court of the State of New York, Kings County
+  instanz: erstinstanzlich
+  aktenzeichen: Index No. 502644/25; 2026 NY Slip Op 31557(U)
+  ecli: null
+  datum: 2026-04-13
+  parteien:
+    klaeger: Kleyman Law Group, P.C.
+    beklagter: James Kaloidis, als Testamentsvollstrecker des Nachlasses von George Kaloidis
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  anspruchsgrundlage: 22 N.Y.C.R.R. § 130-1.1
+  kernfrage: 'Genügt eine erste Sanktion, um die Wiederholung KI-gestützter Fehlzitierung in demselben
+    Verfahren zu verhindern?
+
+    '
+  ergebnis: 'Erster Sanktionsbeschluss desselben Gerichts in derselben Sache wegen drei erfundener und
+    drei unzutreffend wiedergegebener Entscheidungen. Eine Sanktion wurde ausgesprochen, die Höhe ist
+    im Datenbankeintrag nicht ausgewiesen. Vier Monate später folgte der Beschluss über 46.511,35 USD.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.nycourts.gov/reporter/pdfs/2026/2026_31557.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=Kleyman
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2026-kleyman-kaloidis
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Erst im Instanzenzug wird der Fall aussagekräftig: Wie in Coomer v. Lindell hat die
+    erste Sanktion die Wiederholung nicht verhindert. Zwei unabhängige Verfahren, in denen dieselben Prozessvertreter
+    binnen weniger Monate erneut halluzinierte Fundstellen einreichen, sind ein starkes Argument dafür,
+    dass Geldsanktionen als alleiniges Steuerungsinstrument nicht ausreichen — und damit das beste empirische
+    Argument für die von Ayinde geforderte Einbindung der Aufsichtsbehörden.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Entscheidung im Volltext): Supreme Court of the State of New York, County
+    of Kings, IAS Term Part 19; Index No. 502644/2025; Hon. Heela D. Capell, J.S.C.; Rubrum ''Kleyman
+    Law Group, P.C. v. James Kaloidis, as Executor of the Estate of George Kaloidis''.'
+  - 'KORREKTUR DATUM: Die Entscheidung datiert vom 13.04.2026; der Eintrag führte den 03.04.2026.'
+  - 'Ergänzt: Gericht, Kammer, Richterin und vollständige Parteibezeichnungen.'
+  - 'Ergebnis bestätigt und präzisiert: Die Anträge der Klägerin wurden weit überwiegend abgewiesen (Abweisung
+    der Einreden und Widerklagen, eigene Sanktionsanträge, Arrest, einstweiliger Rechtsschutz; summarisches
+    Urteil nur hinsichtlich dreier Widerklagen); dem Sanktionsantrag der Beklagtenseite gegen Rechtsanwalt
+    Alex I. Kleyman wurde stattgegeben — 23 erfundene Entscheidungen in 47 Zitaten und mindestens 83 unzutreffend
+    wiedergegebene Rechtssätze. Über die Höhe und über eine Verweisung an das Appellate Grievance Committee
+    sollte am 09.06.2026 verhandelt werden; der Eintrag bezeichnet den Beschluss zu Recht als Vorentscheidung.'
+  - 'Amtliche Fundstelle: New York State Law Reporting Bureau (Official Reports), Slip Opinion Service.'
+  - 'Volltext geöffnet: Supreme Court, Kings County, Hon. Heela D. Capell, 13.04.2026 — Gericht, Index-Nummer,
+    Datum und Parteien stimmen überein.'
+  - 'Inhalt: Sanktionen gegen die Klägervertreter wegen 23 erfundener Zitate und rund 83 Fehldarstellungen;
+    Anhörung zur Höhe für den 09.06.2026 angesetzt.'
+  - Slip-Opinion-Zitat ergänzt.
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/2026/Kleyman_L__Grp__P_C__v__Kaloidis.pdf
+  dokumenttyp: Decision and Order (2026 NY Slip Op 31557(U))
+  quelle_art: amtlich
+- id: us-2025-johnson-dunn
+  jurisdiktion: us
+  gericht: United States District Court, N.D. Alabama (Manasco, District Judge)
+  instanz: erstinstanzlich
+  aktenzeichen: No. 2:21-cv-1701-AMM
+  ecli: null
+  datum: 2025-07-23
+  parteien:
+    klaeger: Frankie Johnson
+    beklagter: Jefferson Dunn u.a. (Alabama Department of Corrections)
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Fed. R. Civ. P. 11; inherent authority
+  kernfrage: 'Reichen Reue und Verantwortungsübernahme aus, um von Sanktionen abzusehen, und ist mediale
+    Bloßstellung ein strafmildernder Umstand?
+
+    '
+  ergebnis: 'Nein zu beidem. Anwälte der Kanzlei Butler Snow hatten in einem Verfahren um Gewalt in alabamischen
+    Gefängnissen ChatGPT eingesetzt und vier erfundene sowie eine unzutreffend wiedergegebene Entscheidung
+    eingereicht; sie räumten dies in der Antwort auf die Aufforderung zur Stellungnahme ein. Das Gericht
+    sprach eine öffentliche Rüge aus, entband die betroffenen Anwälte von der Vertretung in diesem Verfahren
+    und verwies sie an die Rechtsanwaltskammer. Begründung: Auch wo Anwälte Verantwortung übernehmen und
+    sich entschuldigen, sei "much damage done" durch vergeudete Ressourcen und Verfahrensverzögerung.
+    Das Argument, die erfundenen Zitate seien inhaltlich durch echte Entscheidungen gedeckt, verwarf das
+    Gericht — das würde "amplify the siren call of unverified AI". Die mediale Bloßstellung erkannte es
+    ausdrücklich nicht als mildernden Umstand an: Für die berufsrechtliche Ahndung dürften sich Gerichte
+    nicht auf die Presse verlassen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://storage.courtlistener.com/recap/gov.uscourts.alnd.179677/gov.uscourts.alnd.179677.204.0.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2023-mata-avianca
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die argumentativ dichteste US-Entscheidung der Reihe und die einzige, die den in
+    der Praxis wichtigsten Verteidigungsvortrag ausdrücklich verwirft: "Die zitierte Entscheidung existiert
+    zwar nicht, der Rechtssatz stimmt aber." Manasco J erkennt darin zutreffend die Aufforderung, das
+    Ergebnis über den Beleg zu stellen. Der zweite Punkt — mediale Bloßstellung ist keine Sanktion — ist
+    rechtspolitisch bedeutsam, weil er dem verbreiteten Gedanken widerspricht, die Fallreihe reguliere
+    sich über Reputationsschäden selbst. Nicht die Höhe (keine Geldsanktion), sondern die Kombination
+    aus Entbindung vom Mandat und Kammerverweisung macht diesen Fall für Berufsträger empfindlich.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Sanctions Order im Volltext): ''UNITED STATES DISTRICT COURT NORTHERN
+    DISTRICT OF ALABAMA SOUTHERN DIVISION — FRANKIE JOHNSON, Plaintiff, v. JEFFERSON S. DUNN, et al.,
+    Defendants. Case No.: 2:21-cv-1701-AMM — SANCTIONS ORDER'', Richterin Anna M. Manasco, eingereicht
+    am 23.07.2025. Alle Angaben des Eintrags bestätigt.'
+  - 'Tenor bestätigt und präzisiert: Öffentliche Rüge gegen Matthew B. Reeves, William J. Cranford und
+    William R. Lunsford; Ausschluss aus dem Verfahren; Verweisung an den General Counsel der Alabama State
+    Bar; Pflicht, den Beschluss binnen zehn Tagen Mandanten, Gegenseite und Vorsitzenden in allen anhängigen
+    Verfahren zuzuleiten; Veröffentlichung im Federal Supplement. Daniel J. Chism, Lynette E. Potter und
+    Butler Snow LLP wurden ohne Sanktion entlassen.'
+  - RECAP/CourtListener, Originaldokument aus PACER (gov.uscourts.alnd.179677, Dkt. 204).
+  - 'Volltext geöffnet: U.S. District Court, N.D. Alabama, Southern Division, No. 2:21-cv-1701-AMM, Richterin
+    Anna M. Manasco, 23.07.2025 — Gericht, Aktenzeichen, Datum und Parteien (Frankie Johnson ./. Jefferson
+    S. Dunn u.a.) stimmen überein.'
+  - 'Inhalt bestätigt: öffentliche Rüge, Ausschluss aus dem Verfahren und Meldung an die Alabama State
+    Bar gegen die Butler-Snow-Anwälte Reeves, Cranford und Lunsford wegen ChatGPT-erfundener Zitate.'
+  - govinfo führt für dieses Verfahren nur Granulate bis 12.03.2024; die Sanktionsentscheidung ist dort
+    nicht hinterlegt.
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/608/Butler-Snow-Order.pdf
+  dokumenttyp: Sanctions Order
+  quelle_art: amtlich
+  sachverhalt: 'Frankie Johnson ist Gefangener in Alabama und führt gegen den früheren Leiter der Gefängnisverwaltung
+    Jefferson Dunn ein Verfahren wegen der Gewalt in den Anstalten des Staates. Die Beklagtenseite vertrat
+    die Kanzlei Butler Snow. Am 7. und am 12. Mai 2025 reichte sie zwei Anträge ein: Den Entwurf hatte
+    William J. Cranford gefertigt, die Fundstellen fügte Matthew B. Reeves hinzu, ohne sie zu überprüfen
+    — erzeugt hatte sie ChatGPT. Vier der zitierten Entscheidungen gab es nicht, eine war unzutreffend
+    wiedergegeben. Johnson selbst wies in seiner Erwiderung vom 15. Mai 2025 darauf hin, das Gericht prüfte
+    nach und erließ am 16. Mai 2025 eine Aufforderung zur Stellungnahme; die betroffenen Anwälte räumten
+    den Vorgang ein, übernahmen die Verantwortung und entschuldigten sich.'
+  sachverhalt_quelle: volltext
+- id: us-2025-disability-rights-mississippi
+  jurisdiktion: us
+  gericht: United States District Court, N.D. Mississippi
+  instanz: erstinstanzlich
+  aktenzeichen: Civil Action No. 1:24-cv-99-SA-DAS (N.D. Miss., Aberdeen Division)
+  ecli: null
+  datum: 2025-12-19
+  parteien:
+    klaeger: Disability Rights Mississippi
+    beklagter: Palmer Home for Children
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Fed. R. Civ. P. 11; inherent authority
+  kernfrage: 'Wie bemisst sich die Geldsanktion, wenn drei erfundene Entscheidungen und fünf erfundene
+    Zitate den Gegner zu umfangreicher Aufklärungsarbeit zwingen?
+
+    '
+  ergebnis: 'Das Gericht verhängte 20.883 USD, ordnete eine Fortbildung zu generativer KI an, verpflichtete
+    zur Anzeige bei der Rechtsanwaltskammer und zur Niederlegung des Mandats.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://storage.courtlistener.com/recap/gov.uscourts.msnd.49389/gov.uscourts.msnd.49389.89.0.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-lacey-statefarm
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Zweithöchste US-Sanktion nach Kleyman und Lacey. Der krumme Betrag verrät die Methode:
+    Es handelt sich um bezifferte Kostenerstattung, nicht um eine gegriffene Strafe. Zusammen mit Kleyman
+    belegt der Fall, dass sich die Sanktionspraxis von der Pauschalbuße zur Schadensberechnung verschiebt
+    — das ist die entscheidende Entwicklung 2025/2026 und der Grund, warum die Beträge steigen.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Sanctions Order im Volltext): ''IN THE UNITED STATES DISTRICT COURT FOR
+    THE NORTHERN DISTRICT OF MISSISSIPPI ABERDEEN DIVISION — DISABILITY RIGHTS MISSISSIPPI v. PALMER HOME
+    FOR CHILDREN — CIVIL ACTION NO. 1:24-cv-99-SA-DAS — SANCTIONS ORDER'', Senior District Judge Sharion
+    Aycock, Datum 19.12.2025.'
+  - 'Ergänzt: Die Verfahrensnummer 1:24-cv-99-SA-DAS fehlte; der Eintrag führte als Aktenzeichen nur den
+    Parteinamen.'
+  - 'Sanktion bestätigt und präzisiert: 20.883,10 USD Anwaltskosten binnen 30 Tagen; mindestens dreistündige
+    Fortbildung zu KI-erzeugten Halluzinationszitaten mit Nachweis binnen 60 Tagen.'
+  - RECAP-Originaldokument aus PACER (gov.uscourts.msnd.49389, Dkt. 89).
+  - 'Volltext geöffnet: N.D. Mississippi, Senior District Judge Sharion Aycock, 19.12.2025 — Datum und
+    Parteien stimmen überein.'
+  - 'Inhalt: Rule-11-Verstoß und bad faith von Rechtsanwältin Greta Kemp Martin (drei erfundene Entscheidungen,
+    sechs erfundene Zitate); 20.883,10 USD Kostenerstattung, drei Stunden Fortbildung, Meldung an die
+    Mississippi State Bar. Disability Rights Mississippi selbst ohne Sanktion.'
+  - Vollständiges Aktenzeichen mit Richterkürzeln ergänzt. N.D. Miss. ist nicht Teil der govinfo-Collection
+    USCOURTS.
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/1225/Disability_Rights_Mississippi_v._Palmer_Home_USA_19_December_2025.pdf
+  dokumenttyp: Sanctions Order
+  quelle_art: amtlich
+- id: us-2026-withers-aberdeen
+  jurisdiktion: us
+  gericht: United States District Court, N.D. Mississippi
+  instanz: erstinstanzlich
+  aktenzeichen: Civil Action No. 1:24-CV-218-SA-RP (N.D. Miss., Aberdeen Division)
+  ecli: null
+  datum: 2026-06-08
+  parteien:
+    klaeger: Withers
+    beklagter: City of Aberdeen
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  anspruchsgrundlage: Fed. R. Civ. P. 11; Local Rules (pro hac vice)
+  kernfrage: 'Rechtfertigen sechs erfundene Entscheidungen den Widerruf der Zulassung zur Einzelfallvertretung
+    (pro hac vice)?
+
+    '
+  ergebnis: 'Ja. Sechs erfundene Entscheidungen und ein erfundenes Zitat, erzeugt mit dem Werkzeug "First
+    Drafts". Das Gericht verhängte 8.000 USD, widerrief die pro-hac-vice-Zulassung und verwies an die
+    Rechtsanwaltskammern.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://storage.courtlistener.com/recap/gov.uscourts.msnd.50181/gov.uscourts.msnd.50181.123.0.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug: []
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Der Widerruf der pro-hac-vice-Zulassung ist die wirksamste Sanktion des US-Systems
+    gegen auswärtige Anwälte und taucht seit 2025 regelmäßig auf (auch Wadsworth v. Walmart, D. Wyo. 2025).
+    Für deutsche Leser ist das der interessanteste Sanktionstyp, weil das deutsche Recht kein Äquivalent
+    kennt: Die Zulassung zur Einzelvertretung kann hier nicht anlassbezogen entzogen werden.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Sanctions Order im Volltext): ''IN THE UNITED STATES DISTRICT COURT FOR
+    THE NORTHERN DISTRICT OF MISSISSIPPI ABERDEEN DIVISION — TOM WITHERS, III v. CITY OF ABERDEEN — CIVIL
+    ACTION NO. 1:24-CV-218-SA-RP — SANCTIONS ORDER'', Senior District Judge Sharion Aycock, Datum 08.06.2026.'
+  - 'Ergänzt: Verfahrensnummer 1:24-CV-218-SA-RP.'
+  - 'Sanktion bestätigt und aufgeschlüsselt: Kathleen M. Wilson — pro hac vice widerrufen, zweijähriges
+    Auftrittsverbot im N.D. Miss., 2.500 USD, KI-Fortbildung mit Ethikanteil binnen 60 Tagen; Kathryn
+    Y. Williams — pro hac vice widerrufen, zweijähriges Auftrittsverbot, 3.500 USD; Shauncey Hunter Ridgeway
+    und Mark C. McClinton — Ausschluss aus dem Verfahren, je 1.000 USD. Alle vier wurden an ihre Kammern
+    verwiesen. Die Summe von 8.000 USD, die die Datenbank als einen Betrag ausweist, verteilt sich also
+    auf vier Personen.'
+  - RECAP-Originaldokument aus PACER (gov.uscourts.msnd.50181, Dkt. 123).
+  - 'Volltext geöffnet: N.D. Mississippi, Senior District Judge Sharion Aycock, 08.06.2026 — Datum stimmt
+    mit dem Eintrag überein.'
+  - 'Inhalt: Sanktionen gegen Anwälte BEIDER Seiten (Wilson, Williams, Ridgeway, McClinton): Entzug der
+    pro-hac-vice-Zulassung, zweijähriges Auftrittsverbot, Geldbußen zwischen 1.000 und 3.500 USD, Meldung
+    an die jeweiligen State Bars.'
+  - Vollständiges Aktenzeichen und Klägername ergänzt.
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/2371/Withers_v._City_of_Aberdeen_USA_June_2026.pdf
+  dokumenttyp: Sanctions Order
+  parteien_klaeger: Tom Withers, III
+  quelle_art: amtlich
+- id: us-2026-scott-illinois-hrc
+  jurisdiktion: us
+  gericht: Appellate Court of Illinois, First District, Second Division
+  instanz: berufung
+  aktenzeichen: Scott v. Illinois Human Rights Commission, No. 1-25-1462
+  ecli: null
+  datum: 2026-07-28
+  parteien:
+    klaeger: Kimberly Scott
+    beklagter: Illinois Human Rights Commission; Illinois Department of Human Rights; Starbucks Coffee
+      Company
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  anspruchsgrundlage: Ill. S. Ct. R. 375(b) (sanctions for frivolous appeals)
+  kernfrage: 'Wie sanktioniert ein Landesberufungsgericht die Erfindung nicht nur von Entscheidungen,
+    sondern von Gesetzesvorschriften?
+
+    '
+  ergebnis: '15.000 USD Geldsanktion und Verweisung an die Rechtsanwaltsaufsicht wegen umfangreich erfundener
+    Gesetzesbestimmungen und erfundener Zitate.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug: []
+  quelle_tracker: AI Hallucination Cases Database (CSV-Export)
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Erfundene *Normen* statt erfundener Entscheidungen sind die gefährlichere Variante,
+    weil Zitatprüfer auf Rechtsprechung trainiert sind und Gesetzesangaben seltener kontrolliert werden.
+    Die Datenbank führt "fabricated legal norm" als eigene Kategorie; diese Untergruppe wächst.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Opinion im Volltext): Appellate Court of Illinois, First District, Second
+    Division; No. 1-25-1462; Datum 28.07.2026; Presiding Justice Van Tine, mit Justices Ellis und D.B.
+    Walker.'
+  - 'Ergänzt: Docket-Nummer 1-25-1462, Spruchkörper und vollständige Parteibezeichnungen; der Eintrag
+    führte als Aktenzeichen nur den Parteinamen.'
+  - 'Ergebnis bestätigt: Bestätigung der Zurückweisung der Diskriminierungsanzeige mangels Zuständigkeit;
+    Sanktionen von insgesamt 15.000 USD gegen den Prozessbevollmächtigten Mason Cole, zahlbar binnen 30
+    Tagen; Übersendung an die Illinois Attorney Registration and Disciplinary Commission.'
+  - Amtliche Veröffentlichung der Illinois Courts (Ressourcen-CDN der Administrative Office of the Illinois
+    Courts).
+  - 'Volltext geöffnet: Appellate Court of Illinois, First District, Second Division, No. 1-25-1462, Zitat
+    2026 IL App (1st) 251462, eingereicht 28.07.2026, Presiding Justice Van Tine mit Justices Ellis und
+    D.B. Walker — Gericht, Aktenzeichen, Zitat und Datum stimmen überein.'
+  - 'Ergänzt: Starbucks Coffee Company ist Mitbeteiligte auf Beklagtenseite.'
+  - 'Inhalt: Bestätigung der Abweisung; zugleich 15.000 USD Geldbuße gegen Rechtsanwalt Mason Cole wegen
+    ChatGPT-erfundener Zitate und Meldung an die Disziplinarkommission.'
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/2756/Scott_v._Illinois_Human_Rights_Commn_USA_28_July_2026.pdf
+  dokumenttyp: Opinion (2026 IL App (1st) 251462)
+  parteien_beklagter: Illinois Human Rights Commission; Illinois Department of Human Rights; Starbucks
+    Coffee Company
+  quelle_art: fehlt
+- id: us-2026-pro-se-linie-halluzination
+  jurisdiktion: us
+  gericht: Verschiedene US-Gerichte (Sammeleintrag zur Rechtsprechungslinie)
+  instanz: erstinstanzlich
+  aktenzeichen: siehe Aufstellung im Ergebnisfeld
+  ecli: null
+  datum: 2026-08-27
+  parteien:
+    klaeger: nicht anwaltlich vertretene Parteien
+    beklagter: diverse
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - grundrechte
+  - haftung
+  anspruchsgrundlage: Fed. R. Civ. P. 11(b); einzelstaatliche Regeln zur mutwilligen Rechtsverfolgung;
+    inherent authority
+  kernfrage: 'Nach welchem Maßstab und mit welchen Mitteln sanktionieren US-Gerichte nicht anwaltlich
+    vertretene Parteien, die KI-erzeugte Scheinzitate einreichen?
+
+    '
+  ergebnis: 'Es hat sich eine eigenständige, deutlich mildere Linie herausgebildet. Regelfall ist die
+    Verwarnung, nicht die Geldsanktion. Der Maßstab selbst wird aber nicht abgesenkt: In Pop Top Corp.
+    v. Rakuten Kobo Inc. (N.D. Cal., No. 20-cv-04482-YGR, Dkt. 170, 25.07.2025, Chief Magistrate Judge
+    Donna M. Ryu) heißt es: "Chandra''s self-represented status does not permit him to submit information
+    blindly. Like every other person who appears before the court, he has an obligation to confirm that
+    arguments and case law submitted to the court are supported by existing law, and a failure to do so
+    is sanctionable." Die Pflicht folgt aus Rule 11(b)(2) und trifft Selbstvertreter wie Anwälte. Beispiele
+    aus der Datenbank: Kruse v. Karlen (Mo. App. 2024) 10.000 USD wegen mutwilliger Berufung — der Höchstwert
+    dieser Gruppe; Mohamed Ali v. Saed Osman (N.D. Supreme Court, 06.08.2026) 1.000 USD; Stokka v. Stokka
+    (N.D. Supreme Court, 07.05.2026) doppelte Kosten, 1.000 USD; City of Dickinson v. Helgeson (N.D. Supreme
+    Court, 12.02.2026) 500 USD trotz 15 erfundener Entscheidungen; University Mall v. Okorie (S.D. Miss.,
+    22.10.2025) Zivilhaft wegen Ungehorsams bei symbolischen 1 USD; Volker v. Nygaard (N.D. 2026) und
+    Joshua Harris v. Pinnacle Bank (N.D. Miss., 07.05.2026) Klageabweisung mit Rechtskraftwirkung als
+    Sanktion. Eigene Sanktionsform: In Sebastian Rako v. VMware (N.D. Cal., 25.11.2025) verpflichtete
+    das Gericht die Partei, jeder Fundstelle die Fußnote "Located through AI; Checked" beizufügen. Zahlenverhältnis:
+    In der Datenbankabfrage vom 27.08.2026 entfielen von 31 zufällig erfassten Einträgen 22 auf nicht
+    vertretene Parteien, 8 auf Anwälte, 1 auf einen Sachverständigen.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_20-cv-04482/pdf/USCOURTS-cand-4_20-cv-04482-6.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=pro+se
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2024-kruse-karlen
+  quelle_tracker: govinfo.gov, GPO-authentifizierte Sammlung United States Courts Opinions (USCOURTS-cand-4_20-cv-04482)
+    für die Leitentscheidung; AI Hallucination Cases Database für die übrigen Bausteine
+  verifiziert: false
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die wichtigste unterschätzte Erkenntnis dieses gesamten Feldes: Die Mehrzahl der
+    Fälle betrifft inzwischen nicht Anwälte, sondern Bürger, die sich selbst vertreten. Das verschiebt
+    die rechtspolitische Bewertung vollständig. Solange man Anwälte betrachtet, geht es um Berufsrecht
+    und Sorgfalt. Betrachtet man Selbstvertreter, geht es um Zugang zum Recht: Diese Menschen nutzen KI,
+    weil sie sich keinen Anwalt leisten können, und werden dafür sanktioniert. Die Gerichte spüren das
+    und reagieren mit Verwarnungen statt Geldbußen — aber sie senken den Maßstab nicht, was die Lage der
+    Betroffenen nicht verbessert. Die Rako-Fußnotenauflage ist der bislang klügste Umgang damit: Sie verlangt
+    Offenlegung und Selbstkontrolle statt Strafe. Für einen Kanal ist das die Geschichte hinter der Geschichte
+    — und die einzige, in der es nicht um blamierte Anwälte geht.
+
+    '
+  pruefvermerk:
+  - 'Nicht als Einzelentscheidung prüfbar: Der Eintrag ist ein Sammeleintrag zu einer Rechtsprechungslinie
+    ohne eigenes Gericht, Aktenzeichen und Datum. Die Prüfung ''Gericht/Aktenzeichen/Datum/Parteien/Ergebnis''
+    geht hier ins Leere.'
+  - 'Ein Baustein wurde geprüft: Kruse v. Karlen (Mo. App. 2024) — siehe den korrigierten Eintrag us-2024-kruse-karlen;
+    dort sind die Parteien im Bestand vertauscht gewesen. Das legt nahe, die übrigen im Ergebnisfeld aufgeführten
+    Fälle ebenfalls einzeln zu prüfen.'
+  - Die 'AI Hallucination Cases Database' ist zum 03.09.2026 erreichbar und weist 2.009 Fälle aus; die
+    Abfrageadressen der Form ?q=… arbeiten aber unzuverlässig (mehrere Abfragen lieferten trotz vorhandenem
+    Treffer 'no cases' oder die ungefilterte Gesamtliste). Als volltext_url sind sie ungeeignet.
+  - 'Amtliche Fundstelle nicht auffindbar: Sammeleintrag zu einer Rechtsprechungslinie ("Verschiedene
+    US-Gerichte", Aktenzeichen "siehe Aufstellung im Ergebnisfeld"). Es gibt kein einzelnes amtliches
+    Dokument, das diesem Eintrag entsprechen ko'
+  - 'Die Leitentscheidung des Eintrags ist jetzt amtlich belegt und am Volltext geprüft: govinfo.gov,
+    Sammlung United States Courts Opinions, Pop Top Corp v. Rakuten Kobo Inc., N.D. Cal., No. 20-cv-04482-YGR,
+    Dkt. 170, 25.07.2025, Chief Magistrate Judge Donna M. Ryu. Zurückgewiesen wurden ein Antrag auf Wiedererwägung
+    und ein Antrag auf Rüge.'
+  - 'KORREKTUR ZITAT: Der Eintrag gab den Kernsatz als "does not permit him to submit information blindly"
+    wieder. Der amtliche Wortlaut lautet: "Chandra''s self-represented status does not permit him to submit
+    information blindly. Like every other person who appears before the court, he has an obligation to
+    confirm that arguments and case law submitted to the court are supported by existing law, and a failure
+    to do so is sanctionable." Ergänzt sind Gericht, Aktenzeichen, Dokumentnummer und Spruchkörper.'
+  - Die Schreibweise "Saed Osman" ist zu "Saed Osman" berichtigt; sie war Folge einer systematischen Zeichenverfälschung
+    im Bestand, bei der englisches "ae"/"oe"/"ue" zu "ä"/"ö"/"ü" geworden ist.
+  - 'verifiziert bleibt false: Der Eintrag bleibt ein Sammeleintrag ohne eigenes Gericht, Aktenzeichen
+    und Datum. Von den aufgeführten Bausteinen sind bislang zwei einzeln am Dokument geprüft — Kruse v.
+    Karlen (siehe us-2024-kruse-karlen, amtlich auf courts.mo.gov) und Pop Top Corp. v. Rakuten Kobo.
+    Die übrigen sowie das Zahlenverhältnis 22:8:1 stammen weiterhin allein aus der Datenbankabfrage.'
+  normen:
+  - frcp-11-b
+  - frcp-11-c
+  sekundaerquelle_url: https://www.damiencharlotin.com/hallucinations/
+  quelle_art: amtlich
+  sachverhalt: Generative Chatbots sind kostenlos oder für wenige Dollar im Monat zugänglich; einen Anwalt
+    können sich viele Prozessparteien in den Vereinigten Staaten nicht leisten. Seit 2023 reichen deshalb
+    immer mehr Menschen, die sich selbst vertreten, Schriftsätze bei Gericht ein, die sie mit ChatGPT
+    und ähnlichen Werkzeugen erstellt haben — und darin stehen Entscheidungen, die es nicht gibt. In einer
+    Auswertung der Datenbasis vom 27. August 2026 entfielen von 31 erfassten Fällen 22 auf nicht vertretene
+    Parteien, acht auf Anwälte und einer auf einen Sachverständigen. Die Bandbreite reicht von einem Berufungsführer
+    in Missouri, dessen Schriftsätze ein im Internet angeworbener "Consultant" erstellt hatte, über mehrere
+    Verfahren vor dem Supreme Court von North Dakota bis zu Klagen vor Bundesgerichten in Mississippi
+    und Kalifornien.
+  sachverhalt_quelle: eintrag
+- id: us-2025-cormedix-neals
+  jurisdiktion: us
+  gericht: United States District Court, D. New Jersey (Neals, District Judge)
+  instanz: erstinstanzlich
+  aktenzeichen: Civil Action No. 21-cv-14020 (JXN)(CLW) (Dkt. 130) — In re CorMedix Securities Litigation
+  ecli: null
+  datum: 2025-08-19
+  parteien:
+    klaeger: Anleger der CorMedix Inc.
+    beklagter: CorMedix Inc. u.a.
+  status: erledigt
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Inhärente Befugnis des Gerichts zur Rücknahme eigener Entscheidungen; Code of Conduct
+    for United States Judges
+  kernfrage: 'Welche Folgen hat es, wenn nicht der Prozessvertreter, sondern das Gericht selbst eine mit
+    generativer KI erzeugte Entscheidung mit erfundenen Fundstellen erlässt?
+
+    '
+  ergebnis: 'Die Beklagtenvertreter zeigten dem Gericht an, dass die Entscheidung über den Antrag auf
+    Klageabweisung erfundene Zitate, unzutreffend wiedergegebene Entscheidungen und Fehler bei der Wiedergabe
+    des Parteivortrags enthielt — insgesamt vier erfundene Entscheidungen mit falschen Zitaten, ein Fehler
+    in der Wiedergabe der Einreichungen und zwei unzutreffend wiedergegebene Entscheidungen. Richter Julien
+    Xavier Neals nahm die Entscheidung durch Minute Order ohne Begründung zurück und erließ später eine
+    überarbeitete Fassung, ohne auf die frühere einzugehen. Gegenüber dem Justizausschuss des Senats erklärte
+    er, die Fehler gingen auf die Arbeit eines Praktikanten zurück, der ChatGPT eingesetzt habe.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://storage.courtlistener.com/recap/gov.uscourts.njd.477937/gov.uscourts.njd.477937.130.0.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-jackson-federation-fitch
+  - us-2025-senat-justizausschuss-ki-richter
+  quelle_tracker: CourtListener/RECAP Docket 2:21-cv-14020 (D.N.J.), Dkt. 123, 126 und 130 mit ECF-Kopfstempel
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Der Fall, der die gesamte Diskussion umdreht. Solange nur Anwälte betroffen waren,
+    ließ sich das Problem als Berufspflichtverletzung behandeln. Ein Gericht, das erfundene Entscheidungen
+    erlässt, trifft den Kern der Legitimation: Gegen eine anwaltliche Halluzination hilft die Gegenseite,
+    gegen eine richterliche hilft niemand — sie wird zum Präzedenzfall, wenn sie nicht auffällt. Beide
+    US-Fälle wurden nur entdeckt, weil eine Partei nachprüfte. Bemerkenswert und wenig beachtet ist die
+    Reaktionsform: Rücknahme ohne Begründung durch Minute Order. Es gibt kein Verfahren für diesen Fall
+    — keine Anzeigepflicht, keine Aufsicht, keine Veröffentlichung. Genau das ist der Anlass der Senatsuntersuchung.
+    Nicht verifiziert: Aktenzeichen (aus eigenem Wissen ergänzt) und der Wortlaut der Erklärung an den
+    Kongress.
+
+    '
+  pruefvermerk:
+  - 'Am hinterlegten Dokument geprüft: Es ist NICHT eine gerichtliche Entscheidung, sondern ein Schreiben
+    der Beklagtenvertreter an das Gericht vom 22.07.2025, überschrieben ''In re CorMedix Securities Litigation,
+    No. 21-cv-14020 (D.N.J.)'', gerichtet an ''The Honorable Julien X. Neals''. Es listet die Fehler der
+    Entscheidung des Gerichts vom 30.06.2025 auf.'
+  - 'KORREKTUREN: Das Rubrum lautet ''In re CorMedix Securities Litigation'' (ohne ''Inc.''), das Aktenzeichen
+    ''21-cv-14020'' ohne den Vorsatz ''2:''.'
+  - 'DATUMSPROBLEM — deshalb bleibt verifiziert false: Der Eintrag führt den 23.07.2025. Dieses Datum
+    bezeichnet weder die fehlerhafte Entscheidung (30.06.2025) noch das Anwaltsschreiben (22.07.2025)
+    noch die Minute Order der Rücknahme (Datum nicht ermittelt). Es stammt aus der ''AI Hallucination
+    Cases Database'' und ist als Entscheidungsdatum unbrauchbar.'
+  - 'Zu prüfen im Browser: das Docket 2:21-cv-14020 (D.N.J.) auf CourtListener, um das Datum der Minute
+    Order und der ersetzenden Entscheidung festzustellen.'
+  - 'Volltext geöffnet: D.N.J., Richter Julien Xavier Neals, OPINION vom 19.08.2025.'
+  - 'Wichtige Abweichung: Zum im Eintrag genannten 23.07.2025 existiert keine veröffentlichte Entscheidung.
+    Fußnote 13 der Opinion vom 19.08.2025 hält fest: ''On June 30, 2025, the Court inadvertently issued
+    a preliminary draft opinion, which the Court withdrew from the docket. (ECF No. 126).'' Der Rücknahmeakt
+    vom Juli 2025 ist ein reiner Docket-Text-Eintrag ohne eigenes Dokument.'
+  - Die hier nachgewiesene Opinion ist die an die Stelle des zurückgezogenen Entwurfs getretene Entscheidung
+    und damit die maßgebliche amtliche Fundstelle.
+  - Parteibezeichnung im Eintrag ('Anleger der CorMedix Inc.') ist unspezifisch; Rubrum lautet Levon v.
+    CorMedix Inc., Baluch, Cook, David, Mounts, Armstrong, Todisco.
+  - 'Am eingereichten Dokument mit ECF-Kopfstempel geprüft: "Case 2:21-cv-14020-JXN-CLW Document 130 Filed
+    08/19/25 Page 1 of 60 PageID" — die ersetzende OPINION von Richter Julien Xavier Neals vom 19.08.2025.'
+  - 'DATUMSFRAGE ABSCHLIESSEND GEKLÄRT: Der Rücknahmeakt ist Dkt. 126 vom 23.07.2025 und lautet im Volltext:
+    "TEXT ORDER - The Court is in receipt of Defendants counsel''s letter dated July 22, 2025. (ECF No.
+    123.) On June 30, 2025, the Court issued an Opinion and Order. (ECF Nos. 114, 115.) That Opinion and
+    Order were entered in error. Accordingly, the Court directs the Clerk of Court to remove the Opinion
+    and Order at ECF Nos. 114 and 115 from the docket. A subsequent Opinion and Order will follow. So
+    Ordered by Judge Julien Xavier Neals on 7/23/2025." Das im Bestand früher geführte Datum 23.07.2025
+    war also das Datum dieses Text-Orders.'
+  - 'Damit ist die Abfolge belegt: fehlerhafte Entscheidung Dkt. 114/115 vom 30.06.2025 — Anwaltsschreiben
+    Dkt. 123 vom 22.07.2025 — Rücknahme Dkt. 126 vom 23.07.2025 — ersetzende Entscheidung Dkt. 130 vom
+    19.08.2025.'
+  - Das Datumsfeld war eine Zeichenkette und ist nun ein echtes Datum.
+  - 'Aktenzeichen präzisiert: Das Rubrum lautet "In re CorMedix Securities Litigation", die Verfahrensnummer
+    im ECF-Kopf 2:21-cv-14020-JXN-CLW.'
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/606/Levon_v._CorMedix_USA_July_22_2025.pdf
+  dokumenttyp: Opinion
+  parteien_klaeger: John C. Levon, individuell und für die Klasse
+  quelle_art: amtlich
+  sachverhalt: CorMedix ist ein börsennotiertes Biopharmaunternehmen aus New Jersey; sein wichtigstes
+    Produkt DefenCath ist eine antimikrobielle Lösung, die in nicht benutzte Katheter eingebracht wird,
+    um Infektionen zu verhindern. Anleger warfen dem Unternehmen und seiner Führung vor, über die Zulassungsreife
+    des Präparats und über Mängel bei dem Auftragsfertiger ROVI und dem Heparinlieferanten unzutreffend
+    berichtet zu haben, und klagten als Gruppe in New Jersey. Richter Julien Xavier Neals wies den Antrag
+    auf Klageabweisung zurück. In seiner Entscheidung standen vier erfundene Entscheidungen mit falschen
+    Zitaten, zwei unzutreffend wiedergegebene Entscheidungen und eine falsche Darstellung dessen, was
+    die Parteien eingereicht hatten. Die Beklagtenvertreter zeigten dies dem Gericht an. Gegenüber dem
+    Justizausschuss des Senats erklärte Neals später, die Fehler gingen auf die Arbeit eines Praktikanten
+    zurück, der ChatGPT eingesetzt habe.
+  sachverhalt_quelle: volltext
+- id: us-2025-jackson-federation-fitch
+  jurisdiktion: us
+  gericht: United States District Court, S.D. Mississippi (Wingate, District Judge)
+  instanz: erstinstanzlich
+  aktenzeichen: Jackson Federation of Teachers, et al. v. Lynn Fitch, et al., Case No. 3:25-cv-00417 (S.D.
+    Miss.)
+  ecli: null
+  datum: 2025-07-20
+  parteien:
+    klaeger: Jackson Federation of Teachers u.a.
+    beklagter: Lynn Fitch, Attorney General of Mississippi
+  status: erledigt
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Inhärente Befugnis zur Rücknahme; Code of Conduct for United States Judges
+  kernfrage: 'Wie ist zu verfahren, wenn eine einstweilige Anordnung erfundene Zitate und eine unzutreffende
+    Wiedergabe des Parteivortrags enthält?
+
+    '
+  ergebnis: 'Richter Henry T. Wingate erließ in dem Verfahren gegen das mississippische Gesetz zu Diversitätsprogrammen
+    eine einstweilige Anordnung, die erfundene Zitate enthielt und den Vortrag der Parteien unzutreffend
+    wiedergab; als Werkzeug ist Perplexity ausgewiesen. Die Anordnung wurde zurückgenommen und neu erlassen.
+    Auch dieser Fall wurde Gegenstand der Untersuchung durch den Justizausschuss des Senats.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.grassley.senate.gov/imo/media/doc/grassley_to_the_honorable_henry_twingateaioversight.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-cormedix-neals
+  - us-2025-senat-justizausschuss-ki-richter
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Drei Tage vor CorMedix und in der Sache gravierender, weil es um eine einstweilige
+    Anordnung ging — also um eine sofort wirksame Entscheidung in einem politisch hoch aufgeladenen Verfahren,
+    nicht um eine Entscheidung über einen Abweisungsantrag. Dass zwei US-Bundesrichter binnen vier Tagen
+    unabhängig voneinander denselben Fehler machen, spricht gegen die Einzelfallthese und für ein strukturelles
+    Problem in der Arbeitsorganisation der Richterbüros: Recherche wird an Berufsanfänger delegiert, die
+    Werkzeuge nutzen, für die es keine Vorgaben gibt.
+
+    '
+  pruefvermerk:
+  - 'An amtlicher Primärquelle geprüft (Schreiben des Vorsitzenden des Senate Judiciary Committee, Charles
+    E. Grassley, an Judge Henry T. Wingate vom 06.10.2025, grassley.senate.gov): Verfahren ''Jackson Federation
+    of Teachers, et al. v. Lynn Fitch, et al., Case No. 3:25-cv-00417''.'
+  - 'KORREKTUR: Die Verfahrensnummer 3:25-cv-00417 fehlte im Eintrag vollständig; dort stand nur der Parteiname.'
+  - 'Datum und Ergebnis bestätigt: Die einstweilige Anordnung erging am 20.07.2025 und enthielt ausweislich
+    des Schreibens ''(1) naming plaintiffs and defendants that are not parties in this case; (2) misquoting
+    the statutory text; (3) making factually inaccurate statements that are not supported by the record;
+    and (4) referencing declarations of four individuals who do not appear anywhere in this case''. Am
+    22.07.2025 rügten die Beklagten dies, am 23.07.2025 erging eine Text Order zur Berichtigung; die Ursprungsfassung
+    wurde ersetzt und aus dem öffentlichen Zugriff genommen.'
+  - 'ABWEICHUNG: Das im Eintrag genannte Werkzeug ''Perplexity'' wird im Schreiben des Ausschusses NICHT
+    benannt; dort ist nur allgemein von ''generative artificial intelligence'' die Rede. Die Zuschreibung
+    stammt aus Sekundärberichterstattung und sollte gekennzeichnet werden.'
+  quelle_art: amtlich
+  sachverhalt: Mississippi hatte ein Gesetz erlassen, das Programme zur Förderung von Vielfalt an Schulen
+    und Hochschulen einschränkt. Die Lehrergewerkschaft Jackson Federation of Teachers und weitere Kläger
+    griffen es vor dem Bundesgericht in Mississippi an und beantragten eine einstweilige Anordnung gegen
+    die Generalstaatsanwältin Lynn Fitch. Richter Henry T. Wingate erließ die Anordnung am 20. Juli 2025.
+    Darin standen erfundene Zitate, die Namen von vier Personen, die an dem Verfahren nicht beteiligt
+    waren, falsch wiedergegebenes Landesrecht und aktenwidrige Feststellungen; als eingesetztes Werkzeug
+    ist Perplexity ausgewiesen. Die Anordnung wurde zurückgenommen und neu erlassen.
+  sachverhalt_quelle: eintrag
+- id: us-2025-senat-justizausschuss-ki-richter
+  jurisdiktion: us
+  gericht: 'United States Senate, Committee on the Judiciary (Vorsitz: Charles E. Grassley)'
+  instanz: behörde
+  aktenzeichen: Untersuchung zur Nutzung generativer KI in Bundesrichterbüros
+  ecli: null
+  datum: 2025-10-06
+  parteien:
+    klaeger: Committee on the Judiciary, United States Senate (Vorsitz Charles E. Grassley)
+    beklagter: US District Judges Julien X. Neals (D.N.J.) und Henry T. Wingate (S.D. Miss.); ferner der
+      Director des Administrative Office of the U.S. Courts, Robert Conrad
+  status: erledigt
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Parlamentarisches Untersuchungsrecht; Aufsicht über die Bundesgerichtsbarkeit; 28
+    U.S.C. § 331 (Judicial Conference)
+  kernfrage: 'Bedarf der Einsatz generativer KI durch Bundesrichter und ihre Mitarbeiter verbindlicher
+    Regeln, und wie ist mit fehlerhaften, KI-gestützten Entscheidungen umzugehen?
+
+    '
+  ergebnis: 'Der Justizausschuss des Senats richtete am 06.10.2025 Schreiben an beide Richter und verlangte
+    Auskunft, ob sie, ihre Rechtsreferendare oder Mitarbeiter generative KI eingesetzt oder nicht öffentliche
+    Verfahrensdaten in KI-Werkzeuge eingegeben hatten; zugleich forderte er, die zurückgezogenen Beschlüsse
+    wieder in das Register aufzunehmen, um die Vorgänge nachvollziehbar zu halten. Beanstandet waren bei
+    Wingate die Benennung von Parteien, die am Verfahren nicht beteiligt waren, falsch wiedergegebenes
+    Landesrecht, aktenwidrige Feststellungen und die Erwähnung von vier im Verfahren nicht vorkommenden
+    Personen; bei Neals unzutreffend zugeschriebene Zitate, Zitate aus Entscheidungen, die sie nicht enthielten,
+    und falsch wiedergegebene Verfahrensausgänge. Am 23.10.2025 veröffentlichte der Vorsitzende die Antworten:
+    Beide Richter räumten ein, dass ihre Mitarbeiter generative KI zum Entwurf der fehlerhaften Beschlüsse
+    eingesetzt hatten. Wingate verlangt seither eine zweite unabhängige Durchsicht aller Entwürfe von
+    Entscheidungen, Beschlüssen und Vermerken und die Beifügung aller zitierten Entscheidungen in Papierform;
+    Neals erließ eine schriftliche Weisung, die allen Rechtsreferendaren und Praktikanten den KI-Einsatz
+    beim Entwurf von Entscheidungen untersagt, verbunden mit einer mehrstufigen Kontrolle. Das Administrative
+    Office of the U.S. Courts beschrieb in seiner eigenen Antwort eine beratende KI-Arbeitsgruppe; deren
+    vorläufige Leitlinien vom 31.07.2025 enthalten nach eigener Beschreibung "general, non-technical suggestions",
+    die "the use of and experimentation with AI tools" zulassen und unter anderem anregen zu erwägen,
+    "whether the use of AI should be disclosed".
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.judiciary.senate.gov/press/rep/releases/grassley-scrutinizes-federal-judges-apparent-ai-use-in-drafting-error-ridden-rulings
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=CorMedix
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-cormedix-neals
+  - us-2025-jackson-federation-fitch
+  quelle_tracker: judiciary.senate.gov (Pressemitteilungen vom 06.10.2025 und 23.10.2025); grassley.senate.gov
+    (Antwortschreiben Wingate, Neals und Administrative Office im Volltext)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'NICHT VERIFIZIERT — Datum, Aktenzeichen und der genaue Ablauf konnten nicht am Primärdokument
+    geprüft werden; das Datum 01.10.2025 ist eine gerundete Näherung. Der Vorgang ist gleichwohl aufzunehmen,
+    weil er die einzige institutionelle Reaktion auf richterliche Halluzinationen weltweit darstellt und
+    weil die Gewaltenteilungsfrage dahinter grundsätzlich ist: Die Legislative untersucht die Arbeitsweise
+    einzelner Richter in konkreten Verfahren. In Deutschland wäre das über Art. 97 GG kaum denkbar. Vor
+    Verwendung in einer Publikation zwingend gegen die Ausschussunterlagen zu prüfen.
+
+    '
+  pruefvermerk:
+  - 'An amtlichen Primärquellen geprüft (judiciary.senate.gov und grassley.senate.gov): Die Anfragen des
+    Vorsitzenden Grassley an Judge Julien Xavier Neals (D.N.J.) und Judge Henry T. Wingate (S.D. Miss.)
+    datieren vom 06.10.2025; die Antworten wurden am 23.10.2025 veröffentlicht.'
+  - 'KORREKTUR DATUM: Der Eintrag führte den 01.10.2025. Belegbar sind der 06.10.2025 (Anfrageschreiben)
+    und der 23.10.2025 (Veröffentlichung der Antworten).'
+  - 'Ergebnis bestätigt: Beide Richter führten die Fehler auf Mitarbeiter zurück, die generative KI ohne
+    Genehmigung eingesetzt hatten; Wingate führte eine unabhängige Gegenprüfung ein, Neals ein Verbot
+    des KI-Einsatzes beim Entwurf von Entscheidungen mit mehrstufiger Kontrolle.'
+  - 'Antwortschreiben im Volltext: grassley.senate.gov/download/wingate-to-grassley-re-judiciary-use-of-ai
+    und /download/neals-to-grassley-re-judiciary-use-of-ai.'
+  - 'Hinweis: Die Pressemitteilung benennt keine konkreten Werkzeuge. Die Zuordnung ''ChatGPT beziehungsweise
+    Perplexity'' im Ergebnisfeld ist nicht amtlich belegt.'
+  - 'verifiziert am 05.09.2026 auf false gesetzt: das Feld stand im Widerspruch zum eigenen Pruefvermerk.'
+  - 'An den amtlichen Primärquellen geprüft: Pressemitteilung "Grassley Scrutinizes Federal Judges'' Apparent
+    AI Use in Drafting Error-Ridden Rulings" vom 06.10.2025 (Datum des Eintrags damit belegt) und "Grassley
+    Releases Judges'' Responses Owning Up to AI Use, Calls for Continued Oversight and Regulation" vom
+    23.10.2025, beide judiciary.senate.gov.'
+  - 'KORREKTUR: Die Zuordnung "ChatGPT beziehungsweise Perplexity" ist gestrichen. Keine der beiden amtlichen
+    Mitteilungen benennt ein konkretes Werkzeug; sie sprechen durchgehend von "generative AI".'
+  - 'KORREKTUR CHRONOLOGIE: Der Eintrag stellte es so dar, als habe sich die Judicial Conference erst
+    "in der Folge" mit Leitlinien befasst. Tatsächlich hatte die KI-Arbeitsgruppe des Administrative Office
+    ihre vorläufigen Leitlinien bereits am 31.07.2025 herausgegeben, also VOR der Veröffentlichung der
+    Antworten; das Administrative Office (Director Robert Conrad) hat dies in einem eigenen Antwortschreiben
+    an Grassley dargelegt.'
+  - 'ERGÄNZT: die konkreten Fehlerarten beider Beschlüsse und die von beiden Richtern getroffenen Abhilfemaßnahmen,
+    jeweils im Wortlaut der amtlichen Mitteilungen.'
+  - Die Antwortschreiben liegen im Volltext auf grassley.senate.gov (wingate_to_grassley_re_judiciary_use_of_ai.pdf,
+    neals_to_grassley_re_judiciary_use_of_ai.pdf, ao_to_grassley_re_judiciary_use_of_ai.pdf).
+  - '07.09.2026: Die eigene_bewertung warnt vor dem Datum 01.10.2025 als gerundeter Naeherung. Im Eintrag
+    steht durchgaengig der 06.10.2025; der Vorbehalt haengt an einem Datum, das nicht mehr da ist.'
+  normen:
+  - usc-28-331
+  quelle_art: amtlich
+  sachverhalt: 'Innerhalb weniger Tage im Juli 2025 erließen zwei US-Bundesrichter Entscheidungen mit
+    erfundenen Zitaten und aktenwidrigen Feststellungen: Henry T. Wingate in Mississippi eine einstweilige
+    Anordnung gegen ein Landesgesetz zu Diversitätsprogrammen, Julien X. Neals in New Jersey eine Entscheidung
+    über einen Klageabweisungsantrag in einem Anlegerverfahren. Beide zogen ihre Beschlüsse zurück und
+    erließen bereinigte Fassungen — ohne Begründung, im Fall Neals durch bloße Minute Order. Aufgefallen
+    waren die Fehler jeweils nur deshalb, weil eine Partei die Fundstellen nachgeprüft hatte. Verbindliche
+    Regeln für den Einsatz generativer KI in Richterbüros gab es nicht; das Administrative Office of the
+    U.S. Courts hatte am 31. Juli 2025 lediglich allgemeine, nicht technische Anregungen herausgegeben,
+    die das Ausprobieren solcher Werkzeuge ausdrücklich zuließen. Am 6. Oktober 2025 schrieb der Vorsitzende
+    des Justizausschusses des Senats, Charles E. Grassley, beide Richter und den Direktor des Administrative
+    Office an.'
+  sachverhalt_quelle: eintrag
+- id: in-2026-faiz-enterprise-gujarat
+  jurisdiktion: in
+  gericht: High Court of Gujarat at Ahmedabad (Supehia und Nanavati JJ)
+  instanz: berufung
+  aktenzeichen: Faiz Enterprise v. State Tax Officer, Unit-67, Surat & Ors., R/Special Civil Application
+    No. 10123 of 2026
+  ecli: null
+  datum: 2026-08-20
+  parteien:
+    klaeger: Faiz Enterprise
+    beklagter: State Tax Officer, Unit-67, Surat u.a.
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  anspruchsgrundlage: Steuerverfahrensrecht; richterliche Sorgfaltspflicht
+  kernfrage: 'Wie geht ein indisches Obergericht mit einer eigenen, KI-gestützt erzeugten fehlerhaften
+    Entscheidung um?
+
+    '
+  ergebnis: 'Die Datenbank weist den Fall als Halluzination mit der Partei "Judge" aus; eine Sanktion
+    ist nicht vermerkt. Es handelt sich um den bislang einzigen dokumentierten Fall richterlicher KI-Halluzination
+    außerhalb der USA.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://indiankanoon.org/doc/107982036/
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=Faiz
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-cormedix-neals
+  quelle_tracker: AI Hallucination Cases Database (Tabellenzeile vom 27.08.2026)
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Nur als Tabellenzeile erfasst, Einzelheiten ungeprüft — vor Verwendung nachzurecherchieren.
+    Der Eintrag ist dennoch wichtig, weil er zeigt, dass richterliche Halluzination kein US-Phänomen ist.
+    Indien ist mit 14 erfassten Fällen die aktivste Common-Law-Jurisdiktion außerhalb der Anglosphäre;
+    die Supreme-Court-Rechtsprechung zu KI-gestützter Rechtsprechung ist noch nicht ergangen.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Urteil im Volltext): High Court of Gujarat at Ahmedabad; R/Special Civil
+    Application No. 10123 of 2026; Datum 20.08.2026; Justice A.S. Supehia und Justice Vaibhavi D. Nanavati;
+    Antragstellerin Faiz Enterprise (durch Inhaber Mahetar Mahir Farukbhai) gegen State Tax Officer, Unit-67,
+    Surat & Ors.'
+  - 'Ergänzt: Verfahrensnummer, Gericht und Spruchkörper; der Eintrag führte als Aktenzeichen nur den
+    Parteinamen.'
+  - 'Ergebnis bestätigt und präzisiert: Aufhebung sämtlicher angefochtener Bescheide mit Zurückverweisung
+    an die Behörde zur neuen, begründeten Entscheidung. Tragend: ''the impugned order has been passed
+    by the State Tax Officer by placing reliance exclusively on the AI generated case laws'' — die zitierten
+    Entscheidungen existierten nicht oder waren einschlägigkeitslos; der Beamte räumte den ungeprüften
+    KI-Einsatz eidesstattlich ein. Das Gericht ordnete an, dass über KI gefundene Rechtsprechung vor Verwendung
+    anhand amtlicher Primärquellen zu verifizieren ist.'
+  - 'Achtung: Verantwortlich war hier die Behörde, nicht ein Prozessbevollmächtigter — die Datenbank ordnet
+    den Fall der Kategorie ''Judge'' zu, was ebenfalls unzutreffend ist.'
+  - High Court of Gujarat at Ahmedabad, 20.08.2026, Autor A.S. Supehia — Gericht, Datum und Parteien stimmen
+    überein.
+  - Der bisherige Link (damiencharlotin.com) war eine private Sammlung; hier die Datenbankfundstelle mit
+    dem gerichtlichen Text.
+  - 'Amtliche Alternative: https://gujarathighcourt.nic.in/ (Case Status / Judgment-Suche nach SCA 10123/2026).'
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/2931/Faiz_Enterprise_v._State_Tax_Officer.pdf
+  dokumenttyp: Urteil/Beschluss (Special Civil Application)
+  aktenzeichen_original: R/Special Civil Application No. 10123 of 2026
+  parteien_klaeger: Faiz Enterprise through Proprietor Mahetar Mahir Farukbhai
+  quelle_art: amtlich
+- id: ca-2024-zhang-chen
+  jurisdiktion: ca
+  gericht: Supreme Court of British Columbia, Vancouver Registry (The Honourable Justice D.M. Masuhara)
+  instanz: erstinstanzlich
+  aktenzeichen: Zhang v. Chen, 2024 BCSC 285; Docket E202085, Vancouver Registry
+  ecli: null
+  datum: 2024-02-20
+  parteien:
+    klaeger: Nina Zhang
+    beklagter: Wei Chen
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Inhärente Zuständigkeit; Kostenrecht (special costs); Rechtsmissbrauch (abuse of
+    process)
+  kernfrage: 'Ist die Einreichung KI-erfundener Entscheidungen ein Verfahrensmissbrauch, und rechtfertigt
+    sie besondere Kosten gegen die Anwältin persönlich?
+
+    '
+  ergebnis: 'Der erste kanadische Fall. Rechtsanwältin Chong Ke hatte in einen familienrechtlichen Antrag
+    zwei nicht existierende Entscheidungen aufgenommen, die sich als von ChatGPT erfunden herausstellten.
+    Der Kernsatz (Rn. 29): "Citing fake cases in court filings and other materials handed up to the court
+    is an abuse of process and is tantamount to making a false statement to the court. Unchecked, it can
+    lead to a miscarriage of justice." Zur Kostenentscheidung: Ms. Zhang war im Wesentlichen erfolgreich
+    und erhielt die Kosten des Antrags nach R. 16-1 Supreme Court Family Rules (Rn. 23). Den Antrag auf
+    special costs persönlich gegen Ms. Ke wies Masuhara J ab (Rn. 32): Er verneinte eine Täuschungsabsicht,
+    nahm ihr die Naivität gegenüber den Risiken von ChatGPT ab und berücksichtigte die erhebliche negative
+    Publizität, der sie bereits ausgesetzt war. Stattdessen machte er sie nach R. 16-1(30)(c) und (d)
+    persönlich für den Mehraufwand haftbar, den die erfundenen Fundstellen verursacht hatten: Kosten für
+    vier halbe Verhandlungstage (15., 23. und 31.01. sowie 02.02.2024), festzusetzen durch den Registrar
+    nach Appendix B der Rules. Zusätzlich ordnete er an, dass Ms. Ke sämtliche bei diesem Gericht anhängigen
+    Akten durchsieht, Gegenseite und Gericht unverzüglich unterrichtet, falls weitere von ChatGPT oder
+    anderen generativen Werkzeugen stammende Fundstellen auftauchen, und andernfalls binnen 30 Tagen einen
+    Bericht über die Durchsicht vorlegt.
+
+    '
+  bedeutung: hoch
+  volltext_url: null
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=Zhang+v.+Chen
+  bezug_regelwerke: []
+  instanzenzug:
+  - ca-2025-ko-li
+  quelle_tracker: AI Hallucination Cases Database (Primärdokument verlinkt); CanLII (robots.txt gesperrt)
+  verifiziert: true
+  letzte_pruefung: 2026-09-05
+  eigene_bewertung: 'Die dogmatisch folgenreichste Formulierung des gesamten Feldes: Gleichsetzung der
+    erfundenen Fundstelle mit einer Falschaussage gegenüber dem Gericht. Das ist mehr als eine Sorgfaltspflicht
+    — es ist die Brücke zum Wahrheitsverstoß und damit zu Kontempt und Strafrecht. Der englische Divisional
+    Court hat diese Brücke in Ayinde ausdrücklich beschritten. Kanada steht mit 214 erfassten Fällen nach
+    den USA weltweit an zweiter Stelle, bei einem Bruchteil der Bevölkerung — die höchste Pro-Kopf-Dichte
+    aller großen Jurisdiktionen.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Urteils-PDF): Supreme Court of British Columbia, 2024 BCSC 285, Vancouver
+    Registry E202085, Datum 20.02.2024, Justice D.M. Masuhara.'
+  - 'KORREKTUR — PARTEIEN VERTAUSCHT: Der Rubrum lautet ''Nina Zhang (Claimant) v. Wei Chen (Respondent)''.
+    Der Eintrag führte Wei Chen als Kläger und Nina Zhang als Beklagte. Der Kurzname der Entscheidung
+    — Zhang v. Chen — hätte die Reihenfolge bereits angezeigt.'
+  - 'Ergänzt: Die Registriernummer E202085 (Vancouver) fehlte.'
+  - 'Tenor bestätigt: Kosten zugunsten von Ms. Zhang; Rechtsanwältin Chong Ke persönlich haftbar für die
+    Kosten von vier halben Verhandlungstagen (15., 23., 31.01. und 02.02.2024), zur Festsetzung durch
+    den Registrar; der Antrag auf special costs gegen Ms. Ke wurde abgewiesen — wie im Eintrag.'
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde Zhang v. Chen, 2024 BCSC 285 (Masuhara J), Vancouver
+    Registry E202085. Der amtliche Weg — die Judgment Database des Supreme Court of British Columbia unter
+    bccourts.ca — ist für automat'
+  - 'Am Primärdokument geprüft (05.09.2026, Urteils-PDF im Volltext): ''Zhang v. Chen, 2024 BCSC 285'',
+    Supreme Court of British Columbia, Vancouver Registry, Docket E202085, Reasons for Judgment vom 20.02.2024,
+    The Honourable Justice D.M. Masuhara, Rubrum ''Between Nina Zhang (Claimant) and Wei Chen (Respondent)''.
+    Gericht, Datum, Aktenzeichen, Neutralzitat und Parteien des Eintrags sind damit bestätigt.'
+  - 'KORREKTUR ERGEBNIS: Der Eintrag begründete die Ablehnung der special costs mit fehlender Täuschungsabsicht.
+    Das Urteil nennt als tragenden Grund die Gesamtumstände einschließlich der erheblichen negativen Publizität
+    (''the circumstances do not justify the imposition of a special costs award against Ms. Ke which include
+    the significant negative publicity to which she has been subjected''). Ergänzt wurden ferner die Anspruchsgrundlage
+    der persönlichen Kostenhaftung (Rule 16-1(30)(c)) und der Umstand, dass das Gericht keine Verweisung
+    an die Law Society aussprach, weil Ms. Ke sich am 15.12.2023 selbst gemeldet hatte.'
+  - 'Ergänzt: Der Richtername gehört zum Spruchkörper und steht jetzt vollständig im Feld gericht.'
+  - 'quelle_art bleibt ''fehlt'': Gelesen wurde eine wortgetreue PDF-Ausfertigung des Urteils aus einer
+    privaten Forschungssammlung (damiencharlotin.com / websitedc.s3.amazonaws.com). Der amtliche Weg —
+    die Judgment Database des Supreme Court of British Columbia (bccourts.ca) — und CanLII (robots.txt:
+    disallowed) blieben am 05.09.2026 verschlossen.'
+  - Am 05.09.2026 im Browser am amtlichen Volltext der Courts of British Columbia geprüft (bccourts.ca/jdb-txt/sc/24/02/2024BCSC0285cor1.htm).
+    CanLII war in dieser Sitzung nicht nutzbar (leere Seite).
+  - 'Bestätigt: "Citation: Zhang v. Chen, 2024 BCSC 285", "Date: 20240220", "Docket: E202085", "Registry:
+    Vancouver", "Before: The Honourable Justice D.M. Masuhara", Parteien Nina Zhang (Claimant) und Wei
+    Chen (Respondent).'
+  - 'ERGÄNZT: Die veröffentlichte Fassung ist ein "Corrected Judgment" — das Deckblatt wurde am 23.02.2024
+    berichtigt. Die amtliche Adresse trägt deshalb den Zusatz "cor1".'
+  - 'KORREKTUR: Die persönliche Kostenhaftung stützt das Gericht auf R. 16-1(30)(c) UND (d) (Rn. 40),
+    nicht nur auf Buchstabe c.'
+  - 'ERGÄNZT: Der Eintrag nannte die Anordnung zur Durchsicht sämtlicher Akten und die 30-Tage-Berichtspflicht
+    (Rn. 44) nicht. Sie ist der praktisch weitreichendste Teil des Beschlusses.'
+  - 'NICHT BESTÄTIGT: Der Eintrag führte aus, das Gericht habe von einer Verweisung an die Law Society
+    of British Columbia abgesehen, weil Ms. Ke sich am 15.12.2023 dort selbst gemeldet habe. Das Urteil
+    enthält keine solche Erwägung. Es hält lediglich fest (Rn. 12 f.), dass Ms. Ke am 15.12.2023 die Law
+    Society kontaktierte, um mit einem practice advisor zu sprechen, und dass dieses Gespräch am 18.12.2023
+    stattfand; über eine Verweisung entscheidet das Urteil nicht. Der Passus ist aus dem Ergebnis entfernt.'
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/772/Zhang_v._Chen.pdf
+  quelle_art: fehlt
+- id: ca-2025-ko-li
+  jurisdiktion: ca
+  gericht: Ontario Superior Court of Justice (F.L. Myers J)
+  instanz: erstinstanzlich
+  aktenzeichen: 2025 ONSC 2965; Court File No. CV-25-00736891-00ES
+  ecli: null
+  datum: 2025-05-20
+  parteien:
+    klaeger: Hanna Ko (Applicant)
+    beklagter: Hai Chun Li und Zhou Hang Li in ihrer Eigenschaft als Estate Trustees für den Nachlass
+      von Xiang Guo Li sowie Mingjie Cheng (Respondents)
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Rules of Civil Procedure (Ont.), r. 60.11 (contempt); inhärente Zuständigkeit; Law
+    Society Act
+  kernfrage: 'Ist ein von Amts wegen eingeleitetes Show-cause-Verfahren wegen Kontempt fortzuführen, wenn
+    die Anwältin KI-erfundene Fundstellen eingereicht, den Fehler aber eingeräumt und Abhilfe zugesagt
+    hat?
+
+    '
+  ergebnis: 'Rechtsanwältin Hanna Lee hatte mit ChatGPT Schriftsätze erstellt und Entscheidungen zitiert,
+    die es nicht gibt. Myers J hatte deshalb mit Anordnung vom 06.05.2025 (Ko v. Li, 2025 ONSC 2766) ein
+    Show-cause-Verfahren wegen Kontempt eingeleitet. Die hier erfasste Entscheidung vom 20.05.2025 BEENDET
+    dieses Verfahren: "I dismiss the show cause proceeding on condition that Ms. Lee fulfill her commitment
+    to take Continuing Professional Development courses as described in her written undertaking dated
+    May 13, 2025 and that she not bill Ms. Ko for the research, factum writing, and attendance at the
+    motion held May 1, 2025." Die Auflagen sind damit mindestens sechs Stunden Fortbildung zu Berufsethik
+    und Technik sowie das Verbot, der Mandantin Recherche, Schriftsatzentwurf und Terminwahrnehmung vom
+    01.05.2025 in Rechnung zu stellen. Kosten: Ms. Ko erhält je 2.000 CAD auf partial-indemnity-Basis
+    von Hai Chun Li und von Mingjie Cheng, zusammen 4.000 CAD.
+
+    '
+  bedeutung: hoch
+  volltext_url: null
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - ca-2024-zhang-chen
+  - uk-2025-ayinde-alharoun
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-05
+  eigene_bewertung: 'Wichtig für die Frage, wie weit Gerichte tatsächlich gehen — und ein Beispiel dafür,
+    wie leicht die Sekundärliteratur zwei Entscheidungen desselben Verfahrens verwechselt. Die Einleitung
+    des Kontemptverfahrens steht in 2025 ONSC 2766 (06.05.2025), die Einstellung unter Auflagen in 2025
+    ONSC 2965 (20.05.2025). Wer nur die zweite Entscheidung zitiert, um zu belegen, ein Gericht habe Kontempt
+    verfolgt, zitiert die Entscheidung, die genau das nicht mehr tut. Die Sanktion liegt materiell im
+    Honorarverbot und in der Fortbildungsauflage, nicht in einer Strafe. Der Vergleich mit Ayinde (Divisional
+    Court sieht von Kontempt ab) ist damit weniger ein Gegensatz als eine Parallele. UNBELEGT: Die früher
+    hier behauptete sechsmonatige Aussetzung der Zulassung durch die Law Society of Ontario im Juli 2026
+    nebst 10.000 CAD ließ sich an keiner Quelle bestätigen und ist aus dem Eintrag entfernt; vor jeder
+    Verwendung im LSO-Tribunal-Register nachschlagen.
+
+    '
+  pruefvermerk:
+  - 'Am Entscheidungstext geprüft (Volltextkopie des Urteils): ''CITATION: Ko v. Li, 2025 ONSC 2965 —
+    COURT FILE NO.: CV-25-00736891-00ES — DATE: 20250520'', Richter F.L. Myers.'
+  - 'KORREKTUR DATUM: Die Entscheidung datiert vom 20.05.2025, nicht vom 28.05.2025.'
+  - 'KORREKTUR PARTEIEN: Hanna Ko (Applicant) gegen Hai Chun Li und Zhou Hang Li als Estate Trustees (Respondents).
+    Der Eintrag führte nur ''Ko'' und ''Li''.'
+  - 'SCHWERWIEGENDE ABWEICHUNG IM ERGEBNIS: Der Eintrag behauptet, das Gericht habe ''von Amts wegen ein
+    Verfahren zur Prüfung von Kontempt eingeleitet — der erste Fall weltweit, in dem ein Gericht diesen
+    Schritt tatsächlich vollzog''. Tatsächlich ist 2025 ONSC 2965 die Entscheidung ÜBER das zuvor eingeleitete
+    Show-cause-Verfahren, und sie stellt es EIN: Die Einleitung erfolgte durch die frühere Anordnung vom
+    06.05.2025 (2025 ONSC 2766); in 2025 ONSC 2965 wird das Kontemptverfahren unter Auflagen abgewiesen
+    — Ms. Lee hat CPD-Kurse zu Berufsethik und Technik zu absolvieren und darf Recherche, Schriftsatzentwurf
+    und Termin vom 01.05.2025 der Mandantin nicht in Rechnung stellen; Kosten von 4.000 CAD auf partial-indemnity-Basis,
+    je 2.000 CAD von den beiden Antragsgegnern. Der Eintrag verwechselt die beiden Entscheidungen und
+    dreht den Ausgang um.'
+  - 'UNGEPRÜFT UND ZWEIFELHAFT: Die Behauptung des Eintrags, ''die Law Society of Ontario setzte im Juli
+    2026 die Zulassung für sechs Monate aus und verhängte zusätzlich 10.000 CAD'', ließ sich nicht belegen.
+    Vor jeder Zitierung im LSO-Tribunal-Register nachschlagen.'
+  - 'verifiziert bleibt false: Der Eintrag muss inhaltlich neu gefasst und dabei zwischen 2025 ONSC 2766
+    und 2025 ONSC 2965 getrennt werden.'
+  - Die bisherige volltext_url war eine Suchabfrage (damiencharlotin.com/hallucinations/?q=Ko+v.+Li) und
+    liefert dort keinen Treffer.
+  - CanLII-Fundstelle für Ko v. Li, 2025 ONSC 2965 (Myers J), Court File No. CV-25-00736891-00ES.
+  - 'EINSCHRÄNKUNG: canlii.org und canlii.ca sperren automatisierten Abruf per robots.txt; der Volltext
+    konnte deshalb nicht geöffnet werden. Die Zuordnung stützt sich auf den CanLII-Indexeintrag mit exaktem
+    Titel und Zitat (''2025 ONSC 2965 (CanLII) | Ko v. Li | CanLII'').'
+  - 'Amtliche Alternativen geprüft und nicht verfügbar: der Ontario Superior Court of Justice veröffentlicht
+    seine Entscheidungen nicht auf eigener Seite, sondern über CanLII.'
+  - Neutrales Zitat, Court File No. und Datum des Eintrags sind konsistent mit der Literatur zum Fall
+    (Kontempt-Verfahren wegen KI-erfundener Zitate).
+  - 'Am Entscheidungstext geprüft (05.09.2026, vollständige PDF-Ausfertigung): ''CITATION: Ko v. Li, 2025
+    ONSC 2965 — COURT FILE NO.: CV-25-00736891-00ES — DATE: 20250520'', Myers J; Rubrum ''Hanna Ko, Applicant
+    -and- Hai Chun Li and Zhou Hang Li, in their capacity as the Estate Trustees for the Estate of Xiang
+    Guo Li and Mingjie Cheng, Respondents''.'
+  - 'KORREKTUR ERGEBNIS (gegenteilige Beschreibung berichtigt): Der Eintrag behauptete, das Gericht habe
+    in dieser Entscheidung von Amts wegen ein Kontemptverfahren EINGELEITET und sei damit weltweit das
+    erste gewesen, das diesen Schritt vollzogen habe. Das Dokument sagt das Gegenteil: 2025 ONSC 2965
+    WEIST das zuvor — durch Ko v. Li, 2025 ONSC 2766 vom 06.05.2025 — eingeleitete Show-cause-Verfahren
+    unter Auflagen AB. Ergebnis, Kernfrage und eigene Bewertung sind entsprechend neu gefasst.'
+  - 'KORREKTUR PARTEIEN: Mingjie Cheng ist eigenständige Antragsgegnerin und fehlte; die Estate Trustees
+    sind Trustees für den Nachlass von Xiang Guo Li.'
+  - 'Tenor und Kostenfolge wörtlich abgeglichen: Fortbildungsauflage nach der schriftlichen Zusage vom
+    13.05.2025, Honorarverbot für Recherche, Schriftsatz und Termin vom 01.05.2025, je 2.000 CAD partial-indemnity-Kosten
+    von Hai Chun Li und Mingjie Cheng.'
+  - 'Aus dem Eintrag entfernt: die unbelegte Behauptung einer sechsmonatigen Zulassungsaussetzung durch
+    die Law Society of Ontario im Juli 2026 nebst 10.000 CAD.'
+  - 'quelle_art bleibt ''fehlt'': Gelesen wurde eine wortgetreue PDF-Ausfertigung (courtready.ca). canlii.org
+    sperrt den Abruf per robots.txt (erneut geprüft am 05.09.2026); der Ontario Superior Court of Justice
+    veröffentlicht nicht selbst.'
+  - 'Am 05.09.2026 versucht, den Volltext im Browser zu erreichen: canlii.org liefert für Entscheidungen
+    des Ontario Superior Court of Justice eine vollständig leere Seite (Seitentitel "canlii.org", kein
+    Text im Dokument, kein CAPTCHA); zwei Versuche, jeweils mit über 20 Sekunden Wartezeit.'
+  - Der Ontario Superior Court of Justice bestätigt auf seiner eigenen Seite (ontariocourts.ca, "Decisions
+    of the Court", am 05.09.2026 gelesen), dass seine Entscheidungen auf CanLII veröffentlicht werden
+    und die amtliche Fassung allein das unterzeichnete Original in der Gerichtsakte ist. Eine andere frei
+    zugängliche Volltextquelle für 2025 ONSC 2965 existiert danach nicht.
+  - Kein Feld geändert. Aktenzeichen, Datum, Spruchkörper und Wortlaut des Tenors bleiben ungeprüft; quelle_art
+    bleibt "fehlt".
+  sekundaerquelle_url: https://courtready.ca/wp-content/uploads/2026/03/Ko-v.-Li-2025-ONSC-2965-compressed.pdf
+  dokumenttyp: Reasons for Judgment (Ontario Superior Court of Justice)
+  normen:
+  - ca-on-scj-ppd-abschnitt-k
+  quelle_art: fehlt
+- id: ca-2026-arbuckle-tanner
+  jurisdiktion: ca
+  gericht: Nova Scotia Court of Appeal, Halifax Registry (Gogan J.A., Einzelrichterin in Chambers)
+  instanz: berufung
+  aktenzeichen: Arbuckle v. Tanner, 2026 NSCA 62; Docket CA 549893
+  ecli: null
+  datum: 2026-08-12
+  parteien:
+    klaeger: Kevin Joel Arbuckle (Berufungsführer, selbst vertreten)
+    beklagter: Kaitlyn Dawn Tanner (Berufungsbeklagte)
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Kostenrecht (indemnity costs); Rechtsmissbrauch
+  kernfrage: 'Wie ist zu sanktionieren, wenn eine nicht vertretene Partei KI-erzeugte Verhandlungsprotokolle
+    einreicht und ihnen die Berufsbezeichnung einer amtlich bestellten Protokollführerin beifügt?
+
+    '
+  ergebnis: 'Der selbst vertretene Berufungsführer hatte das Berufungsbuch einschließlich der Transkripte
+    der erstinstanzlichen Verhandlung mit einer KI-Plattform erstellt, statt wie nach Rule 90.29(5) vorgeschrieben
+    eine zertifizierte Protokollführerin zu beauftragen. Die eingereichten Transkripte trugen gleichwohl
+    einen Beglaubigungsvermerk und wirkten äußerlich regelkonform; der Verstoß kam erst heraus, als die
+    Gegenseite Abweichungen bemerkte. Gogan J.A. wertete dies als "non-compliance well disguised as compliance",
+    die die Integrität des Berufungsverfahrens berühre; ohne die Sorgfalt der Gegenanwältin hätte die
+    Berufung auf unrichtiger Aktengrundlage verhandelt werden können. Tenor (Rn. 41 f.): dem Antrag der
+    Gegenseite wird stattgegeben und die Berufung abgewiesen; Kosten auf Freistellungsbasis nach Rule
+    90.40(4) in Höhe von 20.000 CAD.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2026-pro-se-linie-halluzination
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-05
+  eigene_bewertung: 'Die höchste Sanktion außerhalb der USA und zugleich ein Grenzfall der Kategorie:
+    Es geht nicht um erfundene Rechtsprechung, sondern um ein gefälschtes Verfahrensdokument mit angemaßter
+    Amtsqualifikation. Damit rückt der Fall in die Nähe der Urkundenfälschung und schlägt die Brücke zum
+    Beweisrecht (vgl. Mendones). Die Kategorie "KI-Halluzination" trägt hier nicht mehr — die eigentliche
+    Frage ist, wer für die Echtheit eines Verfahrensdokuments einsteht, wenn es maschinell erzeugt wurde.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Urteil im Volltext): Nova Scotia Court of Appeal; 2026 NSCA 62; Docket
+    CA 549893; Datum 12.08.2026; Gogan J.A.; Kevin Joel Arbuckle gegen Kaitlyn Dawn Tanner.'
+  - 'Ergänzt: Docket-Nummer CA 549893, vollständige Parteinamen und der Richtername.'
+  - 'Ergebnis bestätigt: ''Motion to dismiss the appeal granted''; Kosten von 20.000 CAD auf Freistellungsbasis.
+    Hintergrund: KI-erzeugte Transkripte mit 39 Abweichungen und ein gefälschtes Zertifikat der Gerichtstranskribentin.'
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde Arbuckle v. Tanner, 2026 NSCA 62, Docket CA 549893,
+    12.08.2026. Der Fall ist durch die Fachpresse belegt (Zurückweisung der Berufung eines selbstvertretenen
+    Beteiligten nach Vorlage KI-'
+  - 'Am 05.09.2026 im Browser am amtlichen Volltext der Courts of Nova Scotia geprüft (decisions.courts.ns.ca,
+    Item 523867). Bestätigt: "Citation: Arbuckle v. Tanner, 2026 NSCA 62", "Date: 20260812", "Docket:
+    CA 549893", "Registry: Halifax".'
+  - 'ERGÄNZT: Spruchkörper ist die Einzelrichterin Gogan, J.A. (Honourable Justice Robin Gogan) in Chambers;
+    der Antrag wurde am 06.08.2026 in Halifax verhandelt, die schriftliche Entscheidung erging am 12.08.2026.
+    Der Eintrag nannte nur das Gericht.'
+  - 'KORREKTUR Namensschreibung: Der Berufungsführer heißt "Kevin Joel Arbuckle"; der Eintrag schrieb
+    "Kevin Joel Arbuckle".'
+  - 'PRÄZISIERUNG der Verfahrensart: Entschieden wurde nicht die Berufung in der Sache, sondern ein Antrag
+    der Gegenseite auf Verwerfung ("motion to dismiss the appeal granted"); der Berufungsführer war selbst
+    vertreten, die Gegenseite durch Lynn Connors, K.C. und Daniel White.'
+  - 'Bestätigt: Verstoß gegen Rule 90.29(5) (zertifizierte Protokollführerin), Kosten von 20.000 CAD auf
+    Freistellungsbasis nach Rule 90.40(4).'
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/2828/Arbuckle-v.-Tanner-2026-NSCA-62.pdf
+  quelle_art: fehlt
+- id: za-2025-mavundla-mec
+  jurisdiktion: za
+  gericht: High Court of South Africa, KwaZulu-Natal Division, Pietermaritzburg (E Bezuidenhout J)
+  instanz: erstinstanzlich
+  aktenzeichen: Case No. 7940/2024P; Neutralzitat [2025] ZAKZPHC 2; Sammlung 2025 (3) SA 534 (KZP)
+  ecli: null
+  datum: 2025-01-08
+  parteien:
+    klaeger: Philani Godfrey Mavundla
+    beklagter: 'MEC: Department of Co-Operative Government and Traditional Affairs KwaZulu-Natal (Erstbeklagter);
+      Independent Electoral Commission; Umvoti Local Municipality; Acting Municipal Manager'
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - haftung
+  anspruchsgrundlage: Legal Practice Act 28 of 2014; Kostenhaftung de bonis propriis
+  kernfrage: 'Haftet die Prozessvertreterin persönlich für die Kosten, wenn Schriftsätze erfundene Entscheidungen
+    enthalten und die Verantwortlichkeit im Verhältnis Anwältin/Berufsanfängerin ungeklärt bleibt?
+
+    '
+  ergebnis: 'Ja. In der ergänzenden Berufungsschrift waren neun Entscheidungen zitiert; nur zwei davon
+    existierten, und bei einer der beiden war die Fundstelle falsch — sieben Zitate waren frei erfunden.
+    Der Richter prüfte den Verdacht selbst nach: "By way of a brief experiment, the ChatGPT application
+    was used and the citation of the Pieterse was entered" — das Modell bestätigte die nicht existierende
+    Entscheidung und ihre angebliche Einschlägigkeit. Zu den Erfindungen zählten "Pieterse v The Public
+    Protector", "Burgers v The Executive Committee", "Dube v Schleich", "Hassan v Coetzee", "Jordaan v
+    Pienaar", "Standard Bank of South Africa Ltd v Lethole" und "Municipality of City of Cape Town v Aon
+    South Africa". Die Anwältin verwies auf Arbeitsüberlastung und die Delegation an eine Berufsanfängerin,
+    die eine KI-Nutzung bestritt, aber "vague and evasive answers" gab. Das Gericht wies den Antrag auf
+    Zulassung der Berufung mit Kosten auf scale C zurück, legte die Kosten der beiden zusätzlichen Termine
+    vom 22. und 25.09.2024 auf scale A der Kanzlei Surendra Singh and Associates auf und ersuchte den
+    Registrar, das Urteil dem Legal Practice Council (KwaZulu-Natal Provincial Office) zuzuleiten. Kernsatz:
+    "In my view, relying on AI technologies when doing legal research is irresponsible and downright unprofessional."
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.saflii.org/za/cases/ZAKZPHC/2025/2.html
+  zusammenfassung_url: https://lawlibrary.org.za/akn/za-kzn/judgment/zakzphc/2025/2/eng@2025-01-08
+  bezug_regelwerke: []
+  instanzenzug:
+  - uk-2025-ayinde-alharoun
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: '2026-09-05'
+  eigene_bewertung: 'Methodisch der interessanteste Fall überhaupt: Der Richter reproduziert die Halluzination
+    selbst, um den Beweis zu führen. Das ist ein neuer Beweistyp — der Nachweis der Fälschung durch Wiederholung
+    des Erzeugungsvorgangs — und wirft die Frage auf, was gilt, wenn das Modell beim nächsten Versuch
+    etwas anderes ausgibt; Nichtdeterminismus ist der eingebaute Einwand. Die zweite Bedeutung liegt in
+    der Zurechnung: Wie später Ayinde und Coomer trifft die Haftung die verantwortliche Anwältin, nicht
+    die Berufsanfängerin. Südafrika ist die einzige Jurisdiktion außerhalb der Anglosphäre und der USA
+    mit einer bereits gefestigten Rechtsprechungslinie. Achtung: Die Jurisdiktionsangabe `intl` ist ein
+    Behelf — das kontrollierte Vokabular des Schemas kennt kein `za`.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (Urteil im Volltext): High Court of South Africa, KwaZulu-Natal Division,
+    Pietermaritzburg, Fallnummer 7940/2024P, Datum 08.01.2025, Richter E. Bezuidenhout.'
+  - 'KORREKTUR: Die Fallnummer 7940/2024P fehlte; der Eintrag führte als Aktenzeichen nur den Parteinamen.
+    Ergänzt wurden ferner der volle Name des Antragstellers und die weiteren Antragsgegner.'
+  - 'Tenor wörtlich bestätigt: ''(1) The applicant''s application for leave to appeal is dismissed with
+    costs, such costs to be on scale C. (2) The costs incurred in respect of the additional appearances
+    on 22 and 25 September 2024 are to be paid by Surendra Singh and Associates, on scale A. (3) The registrar
+    is requested to send a copy of this judgement to the Legal Practice Council (KwaZulu-Natal Provincial
+    Office).'''
+  - 'Formaler Hinweis: Das Urteil zeichnet ''Bezuidenhout J'', der Eintrag führt ''Bezuidenhout AJ''.'
+  - 'Datenpflege: Der Eintrag trägt jurisdiktion ''intl''; richtig wäre ''za'' (die id lautet bereits
+    za-2025-...).'
+  - SAFLII ist die maßgebliche Volltextdatenbank der südafrikanischen Gerichte; eine eigene Urteilsdatenbank
+    betreibt die KwaZulu-Natal Division nicht.
+  - 'Volltext geöffnet: KwaZulu-Natal High Court, Pietermaritzburg, E Bezuidenhout J, 08.01.2025, Philani
+    Godfrey Mavundla ./. MEC: Department of Co-Operative Government and Traditional Affairs KwaZulu-Natal
+    u.a. — Gericht, Aktenzeichen, Datum, Richter und Parteien stimmen mit dem Eintrag überein.'
+  - 'Inhalt bestätigt: Von neun in der ergänzenden Berufungsschrift zitierten Entscheidungen existierten
+    nur zwei, eine davon mit falscher Fundstelle; Rz. 50: ''relying on AI technologies when doing legal
+    research is irresponsible and downright unprofessional''; Abgabe an den Legal Practice Council.'
+  - Der bisherige Link (damiencharlotin.com) war eine private Sammlung.
+  - 'Weitere Fundstelle mit Akoma-Ntoso-Kennung: https://lawlibrary.org.za/akn/za-kzn/judgment/zakzphc/2025/2/eng@2025-01-08'
+  - 'jurisdiktion: Der Eintrag führt die Entscheidung unter ''intl''; zutreffend ist ''za'' (High Court
+    of South Africa, KwaZulu-Natal Division, Pietermaritzburg).'
+  - 'Am Primärdokument geprüft (05.09.2026, SAFLII-Volltext): High Court of South Africa, KwaZulu-Natal
+    Division, Pietermaritzburg, Case No. 7940/2024P, [2025] ZAKZPHC 2 = 2025 (3) SA 534 (KZP), 08.01.2025,
+    E Bezuidenhout J; Antragsteller Philani Godfrey Mavundla, vier Antragsgegner wie im Eintrag.'
+  - 'KORREKTUR ERGEBNIS (Zahlen): Der Eintrag sprach von ''neun erfundenen Entscheidungen, vier unzutreffend
+    wiedergegebenen Entscheidungen und zwei falsch dargestellten Normen''. Das Urteil sagt: ''Of the nine
+    cases referred to and cited, only two could be found to exist, albeit that the citation of one was
+    incorrect'' — also neun Zitate insgesamt, davon sieben nicht existent.'
+  - 'KORREKTUR ERGEBNIS (Kostenschuldner): Der Eintrag ordnete die persönliche Kostenhaftung ''der Prozessvertreterin''
+    zu. Der Tenor belastet die Kanzlei Surendra Singh and Associates, nicht die Einzelanwältin; die Kostenskalen
+    (scale C für die Hauptsache, scale A für die Zusatztermine) fehlten.'
+  - 'KORREKTUR GERICHT: Das Urteil zeichnet ''E Bezuidenhout J''; der Eintrag führte ''Bezuidenhout AJ''.'
+  - 'KORREKTUR AKTENZEICHEN: Das Feld enthielt statt eines Aktenzeichens den Redaktionsvermerk ''Neutralzitat
+    ergänzt: ...''. Es führt jetzt Fallnummer, Neutralzitat und Sammlungsfundstelle.'
+  - 'Ergänzt und wörtlich belegt: das ChatGPT-Gegenexperiment des Richters mit der Pieterse-Fundstelle,
+    die vollständige Liste der erfundenen Fallnamen sowie der vollständige Kernsatz zur KI-Recherche.'
+  - 'quelle_art bleibt ''datenbank'': SAFLII ist die maßgebliche Volltextsammlung der südafrikanischen
+    Gerichte, aber kein amtlicher Veröffentlicher; die KwaZulu-Natal Division betreibt keine eigene Urteilsdatenbank.'
+  - 'AMTLICHE ALTERNATIVE ZU SAFLII GESUCHT UND NICHT GEFUNDEN (05.09.2026): judiciary.org.za, das Portal
+    des Office of the Chief Justice, führt keine durchsuchbare Volltextsammlung der Superior Courts; die
+    Pfade /judicial-decisions und /judicial-decisions/superior-court-judgments antworten mit HTTP 404.'
+  - 'SAFLII IST HIER DIE VOM GERICHT SELBST BESTIMMTE VERÖFFENTLICHUNGSSTELLE: Das Urteil trägt den Vermerk,
+    es sei elektronisch durch Versand per E-Mail und durch Veröffentlichung auf SAFLII bekannt gegeben
+    worden. quelle_art bleibt deshalb ''datenbank'', der Beleg ist aber stärker als eine bloße Privatsammlung
+    — die Fundstelle ist die vom Spruchkörper angeordnete.'
+  - zusammenfassung_url auf die Akoma-Ntoso-Fassung der African Law Library umgestellt; der bisherige
+    Wert zeigte auf das Jahresverzeichnis von SAFLII und war kein Dokument.
+  - 'Prüfung 05.09.2026: Keine Änderung an Gericht, Aktenzeichen (7940/2024P), Neutralzitat ([2025] ZAKZPHC
+    2), Datum (08.01.2025), Richter (E Bezuidenhout J), Parteien oder Tenor veranlasst — alle Angaben
+    wurden am Volltext bereits bestätigt und stimmen mit der lawlibrary.org.za-Fassung überein.'
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/335/Mavundla_v_MEC_South_Africa_January_8_2025.pdf
+  dokumenttyp: Urteil (Judgment on Leave to Appeal)
+  aktenzeichen_original: Case No. 7940/2024P; Neutralzitat [2025] ZAKZPHC 2; Sammlungsfundstelle 2025
+    (3) SA 534 (KZP)
+  normen:
+  - za-constitution-s165
+  - za-constitution-s34
+  - za-lpa-s97-1-b
+  quelle_art: datenbank
+- id: il-2026-adibi-aig
+  jurisdiktion: il
+  gericht: Bezirksgericht Tel Aviv-Jaffa (Richterin Hadas Ovadia)
+  instanz: erstinstanzlich
+  aktenzeichen: ת"צ 6989-05-25 (Tel Aviv-Jaffa District Court)
+  ecli: null
+  datum: 2026-08-23
+  parteien:
+    klaeger: Adibi
+    beklagter: AIG Israel Insurance Company Ltd.
+  status: erledigt
+  themenachsen:
+  - berufsrecht
+  anspruchsgrundlage: Israelisches Zivilverfahrensrecht (Kosten- und Sanktionsvorschriften)
+  kernfrage: 'Wie sanktionieren israelische Gerichte die Einreichung KI-erfundener Fundstellen durch Anwälte?
+
+    '
+  ergebnis: 'Geldsanktion von 20.000 ILS gegen den Prozessvertreter. Israel ist mit 57 erfassten Entscheidungen
+    nach den USA, Kanada, Australien und dem Vereinigten Königreich die fünftaktivste Jurisdiktion.
+
+    '
+  bedeutung: mittel — es ist der bislang groesste bekannte Fall, in dem ein Sammelklageverfahren wegen
+    halluzinierter Fundstellen zusammengebrochen ist (Streitwert rund 110 Millionen NIS).
+  volltext_url: null
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug: []
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-05
+  eigene_bewertung: 'Aufgenommen als Beleg dafür, dass die Fallreihe längst nicht mehr auf den Common
+    Law beschränkt ist. Israel und Brasilien (41 Fälle) zeigen, dass das Problem überall dort auftritt,
+    wo eine große Anwaltschaft auf frei zugängliche Modelle und eine Rechtsprechungsdatenbank trifft,
+    die kein Zitatprüfwerkzeug anbietet. Auch hier ist die Jurisdiktionsangabe `intl` ein Behelf.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (hebräischer Entscheidungstext): Bezirksgericht Tel Aviv-Jaffa; Aktenzeichen
+    ת"צ 6989-05-25; Datum 23.08.2026 (10. Elul 5786); Richterin Hadas Ovadia; Antragsteller Amir Adibi/Adivi
+    gegen AIG Israel Insurance Company Ltd.'
+  - 'Ergänzt: Aktenzeichen, Gericht und Richterin; der Eintrag führte als Aktenzeichen nur den Parteinamen.'
+  - 'Ergebnis bestätigt und präzisiert: Die Rücknahme des Antrags auf Zulassung als Sammelklage wurde
+    genehmigt, der persönliche Anspruch abgewiesen; dem Antragsteller wurden Kosten von 20.000 ILS auferlegt.
+    Fünf erfundene Entscheidungen.'
+  - 'WARNUNG ZUR QUeLLE: Die ''AI Hallucination Cases Database'' weist als Geldsanktion ''1'' aus. Tatsächlich
+    sind es 20.000 ILS. Der Eintrag trägt zudem jurisdiktion ''intl''; richtig wäre ''il''.'
+  - 'Zur Umschrift: Der hebräische Nachname lässt sich als Adibi oder Adivi wiedergeben; der Eintrag folgt
+    ''Adibi''.'
+  - 'Amtliche Fundstelle nicht auffindbar: Aktenzeichen und Eckdaten stimmen: ת"צ 6989-05-25, Bezirksgericht
+    Tel Aviv-Jaffa, Richterin Hadas Ovadia, 23.08.2026, Adibi ./. AIG Israel Insurance Company Ltd. Der
+    bisherige Link führt auf eine priv'
+  - 'Am 05.09.2026 im Browser erfolglos geprüft: die Suche unter www.court.gov.il antwortet mit einer
+    Fehlerseite; eine amtliche Volltextadresse für ת"צ 6989-05-25 war nicht erreichbar. Der Eintrag stützt
+    sich weiterhin allein auf den Fall-Tracker von Damien Charlotin.'
+  - '06.09.2026, Pruefrunde Rechtsprechung: Feld ''anspruchsgrundlage und ergebnis'' — bisher anspruchsgrundlage:
+    "Israelisches Zivilverfahrensrecht (Kosten- und Sanktionsvorschriften)"; richtig: Zu ergaenzen ist
+    die materielle Grundlage des zurueckgenommenen Verfahrens: Sammelklagengesetz (חוק תובענות ייצוגיות)
+    in Verbindung mit § 59ב(g) des Gesetzes ueber die Aufsicht ueber Finanzdienstleistungen (Versicherung)
+    5741-1981 — Hoechstwartezeiten in der telefonischen Kundenbetreuung. Streitwert rund 110 Millionen
+    NIS; behauptet wurde eine durchschnittliche Wartezeit von 13,8 statt hoechstens 6 Minuten. Ergebnis:
+    Ruecknahme, 20.000 NIS Kosten zulasten des Klaegers zugunsten von AIG, ausdruecklicher Hinweis (Warnung)
+    statt persoenlicher Sanktion gegen die Prozessbevollmaechtigten; fuenf zitierte Entscheidungen existierten
+    nicht.. Beleg: law.co.il zu ת"צ 6989-05-25 (Richterin Hadas Ovadia, 23.08.2026) und ynet vom 26.08.2026.'
+  - '06.09.2026, Pruefrunde Rechtsprechung: Feld ''Warnung zur Quelle (kein Feldfehler)'' — bisher sekundaerquelle_url
+    verweist auf die AI-Hallucination-Datenbank von Damien Charlotin; richtig: Der dort ausgewiesene Wert
+    "Monetary Penalty 1" ist ein Platzhalter der Datenbank, kein Geldbetrag. Die tatsaechliche Kostenfolge
+    betraegt 20.000 NIS. Wer den Datenbankwert uebernimmt, uebernimmt einen Fehler.. Beleg: Vergleich
+    der Datenbankzeile mit der Entscheidungsdarstellung bei law.co.il.'
+  - Das Verfahren endete durch Ruecknahme (הסתלקות) des Antrags auf Zulassung der Sammelklage, nicht durch
+    eine Sachentscheidung.
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/2957/adiby1.pdf
+  suchadresse: https://www.court.gov.il/NGCS.Web.Site/Search/SearchJudgments (Suche nach ת"צ 6989-05-25)
+  quelle_art: fehlt
+- id: us-2023-standing-order-starr
+  jurisdiktion: us
+  gericht: United States District Court, N.D. Texas (Judge Brantley Starr)
+  instanz: behörde
+  aktenzeichen: Mandatory Certification Regarding Generative Artificial Intelligence
+  ecli: null
+  datum: 2023-05-30
+  parteien:
+    klaeger: —
+    beklagter: —
+  status: erledigt
+  themenachsen:
+  - berufsrecht
+  - governance
+  anspruchsgrundlage: Befugnis zum Erlass richterlicher Verfahrensanordnungen (standing orders); Fed.
+    R. Civ. P. 83(b)
+  kernfrage: 'Kann ein einzelner Bundesrichter den Prozessvertretern durch Verfahrensanordnung eine Offenlegungs-
+    und Bestätigungspflicht für den KI-Einsatz auferlegen?
+
+    '
+  ergebnis: 'Die weltweit erste gerichtliche Regelung zum KI-Einsatz, erlassen drei Tage nach Bekanntwerden
+    von Mata v. Avianca. Sie verlangt von allen vor der Kammer auftretenden Prozessvertretern eine Bescheinigung,
+    dass entweder kein Teil der Einreichung durch generative KI erstellt wurde oder jeder so erstellte
+    Teil durch einen Menschen anhand herkömmlicher Quellen überprüft wurde. In der Begründung heißt es,
+    die Systeme seien "prone to hallucinations and bias" und leisteten keinen Eid auf die Verfassung.
+    Dutzende US-Bundesrichter erließen in der Folge ähnliche Anordnungen; sie unterscheiden sich erheblich
+    — Offenlegungspflicht, Verbot, Bestätigungspflicht oder bloßer Hinweis auf die fortbestehende Rule-11-Verantwortung.
+    Nachtrag zum Fortbestand: Die Einzelanordnung ist im Northern District of Texas durch eine gerichtsweite
+    Regel abgelöst worden. Die Local Civil Rules des Bezirks enthalten in L.R. 7.2(f) eine Offenlegungspflicht:
+    "A brief prepared using generative artificial intelligence must disclose this fact on the first page
+    under the heading ''Use of Generative Artificial Intelligence.''" Generative KI ist dort definiert
+    als Werkzeug, das "is capable of generating new content (such as images and text) in response to a
+    submitted prompt ... by learning from a large reference database of examples". Wer ohne diese Angabe
+    einreicht, versichert damit zugleich, dass kein Teil des Schriftsatzes mit generativer KI erstellt
+    wurde. Aus der Bescheinigungspflicht eines einzelnen Richters ist damit eine Offenlegungspflicht des
+    ganzen Bezirks geworden.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2023-mata-avianca
+  - us-2026-fre-707
+  quelle_tracker: txnd.uscourts.gov (Local Civil Rules, L.R. 7.2(f)); zeitgenössische Wiedergabe der Einzelanordnung
+    bei Volokh Conspiracy/Reason
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'NICHT VERIFIZIERT: Auf der abgerufenen Richterseite war der Anordnungstext am 27.08.2026
+    nicht mehr enthalten; Datum und Wortlaut stammen aus eigenem Wissen und sind vor Verwendung zu prüfen.
+    Möglicherweise wurde die Anordnung zurückgenommen oder in die allgemeinen Kammervorgaben überführt
+    — das wäre selbst ein Befund, weil sich die Praxis von der Offenlegungspflicht wegbewegt. Die rechtspolitisch
+    wichtige Beobachtung: Die USA regeln über Hunderte einzelner Kammeranordnungen mit unterschiedlichem
+    Inhalt, England und Australien über eine zentrale Praxisanweisung. Für eine vergleichende Darstellung
+    ist das der interessanteste Gegensatz — Fragmentierung gegen Zentralisierung — und er erklärt, warum
+    in den USA über die Verpflichtung zur Offenlegung, in England dagegen über den Sorgfaltsmaßstab gestritten
+    wird.
+
+    '
+  pruefvermerk:
+  - 'Nicht mehr am Primärdokument nachweisbar: Die Richterseite txnd.uscourts.gov/judge/judge-brantley-starr
+    führt die ''Mandatory Certification Regarding Generative Artificial Intelligence'' nicht mehr; die
+    dort veröffentlichten Judge-Specific Requirements enthalten keinen KI-Abschnitt mehr.'
+  - 'Wortlaut und Datum sind über eine zeitgenössische Wiedergabe belegt (Volokh Conspiracy/Reason, 30.05.2023):
+    Zertifikat entweder ''no portion of the filing was drafted by generative artificial intelligence (such
+    as ChatGPT, Harvey.AI, or Google Bard)'' oder ''any language drafted by generative artificial intelligence
+    was checked for accuracy, using print reporters or traditional legal databases, by a human being'';
+    Sanktion ist die Streichung des Schriftsatzes.'
+  - 'Hinweis auf mögliche Ablösung: Es gibt Belege dafür, dass der N.D. Tex. inzwischen eine gerichtsweite
+    Local Civil Rule 7.2(f) an die Stelle der Einzelanordnung gesetzt hat. Der Volltext der Local Rules
+    war nicht abrufbar (404 auf txnd.uscourts.gov/sites/txnd/files/local_rules/).'
+  - 'Empfehlung: Vor Zitierung im Browser prüfen, ob die Anordnung noch gilt oder durch L.R. 7.2(f) ersetzt
+    ist.'
+  - 'AM AMTLICHEN DOKUMENT GEPRÜFT (die frühere Empfehlung, dies im Browser nachzuholen, ist erledigt):
+    Die Local Civil Rules des N.D. Tex. auf txnd.uscourts.gov enthalten in L.R. 7.2(f) die Offenlegungspflicht
+    im oben zitierten Wortlaut. Die Vermutung, die Einzelanordnung sei durch L.R. 7.2(f) ersetzt worden,
+    ist damit bestätigt.'
+  - volltext_url zeigt jetzt auf die geltenden Local Civil Rules des Gerichts statt auf die Richterseite,
+    auf der die Anordnung nicht mehr geführt wird.
+  - Der Wortlaut der ursprünglichen Anordnung vom 30.05.2023 bleibt nur über zeitgenössische Wiedergaben
+    belegt; das Gericht hält ihn nicht mehr vor. Wer die Anordnung zitiert, sollte kenntlich machen, dass
+    sie in dieser Form nicht mehr gilt.
+  normen:
+  - frcp-83-b
+  quelle_art: amtlich
+  sachverhalt: Ende Mai 2023 wurde bekannt, dass zwei New Yorker Anwälte in dem Verfahren Mata gegen Avianca
+    sechs von ChatGPT erfundene Entscheidungen bei Gericht eingereicht und auch nach der Beanstandung
+    an ihnen festgehalten hatten; der Vorgang ging binnen Tagen durch die amerikanische Presse. Eine gerichtliche
+    Regelung zum Einsatz generativer KI gab es zu diesem Zeitpunkt nirgends. Richter Brantley Starr vom
+    Bundesgericht für den Northern District of Texas reagierte am 30. Mai 2023 mit einer Verfahrensanordnung
+    für seine eigene Kammer und verlangte von jedem dort auftretenden Prozessvertreter eine Bescheinigung;
+    zur Begründung führte er an, die Systeme neigten zu Halluzinationen und Voreingenommenheit und hätten
+    keinen Eid auf die Verfassung geleistet. In den folgenden Monaten erließen Dutzende weitere Bundesrichter
+    eigene Anordnungen mit teils erheblich abweichendem Inhalt.
+  sachverhalt_quelle: eintrag
+- id: uk-2025-judiciary-ai-guidance
+  jurisdiktion: uk
+  gericht: Judiciary of England and Wales (Lady Chief Justice, Master of the Rolls, Senior President of
+    Tribunals)
+  instanz: behörde
+  aktenzeichen: 'Artificial Intelligence (AI): Guidance for Judicial Office Holders'
+  ecli: null
+  datum: 2025-10-31
+  parteien:
+    klaeger: —
+    beklagter: —
+  status: erledigt
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Selbstverwaltungsbefugnis der Judikative; Richterliche Verhaltensrichtlinien
+  kernfrage: 'Unter welchen Voraussetzungen dürfen Richterinnen und Richter in England und Wales generative
+    KI bei der eigenen Arbeit einsetzen?
+
+    '
+  ergebnis: 'Fassung vom Oktober 2025, die die Fassung vom April 2025 ersetzt (Erstfassung Dezember 2023).
+    Leitgedanke: Der KI-Einsatz durch die Judikative muss mit der übergreifenden Pflicht vereinbar sein,
+    die Integrität der Rechtspflege und die Rechtsstaatlichkeit zu wahren. Kernpunkte: (1) Persönliche
+    Verantwortung — Richter haften für alles, was in ihrem Namen erstellt wird. (2) Vertraulichkeit —
+    keine Eingabe nicht öffentlicher Informationen in öffentlich zugängliche KI-Werkzeuge. (3) Erweiterte
+    Ausführungen zu Verzerrungen in Trainingsdaten und zu Halluzinationen. (4) Neu in der Oktoberfassung:
+    Vorgaben zur Meldung versehentlicher Offenlegungen (data incidents). Die Leitlinie unterscheidet zwischen
+    zulässigen Verwendungen (Zusammenfassungen, Textentwürfe für Verwaltungsaufgaben) und unzulässigen
+    (Rechtsrecherche und Rechtsanalyse ohne Verifikation).
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.judiciary.uk/wp-content/uploads/2025/10/Artificial-Intelligence-AI-Guidance-for-Judicial-Office-Holders-2.pdf
+  zusammenfassung_url: https://www.judiciary.uk/guidance-and-resources/artificial-intelligence-ai-judicial-guidance/
+  bezug_regelwerke: []
+  instanzenzug:
+  - uk-2025-ayinde-alharoun
+  quelle_tracker: judiciary.uk (Übersichtsseite abgerufen)
+  verifiziert: true
+  letzte_pruefung: 2026-08-27
+  eigene_bewertung: 'Das internationale Vorbild — Australien, Neuseeland und Kanada haben sich daran orientiert.
+    Der oft übersehene Punkt: Diese Leitlinie richtet sich an Richter, nicht an Anwälte, und ist damit
+    das Gegenstück zu Ayinde. England reguliert beide Seiten des Richtertischs, die USA bislang nur eine.
+    Die Ergänzung um Meldepflichten bei Datenvorfällen in der Oktoberfassung zeigt, wohin sich der Schwerpunkt
+    verlagert: von der Halluzination zur Vertraulichkeit. Das ist die realistischere Gefahr im richterlichen
+    Alltag, weil ein in ein Consumer-Modell eingegebener Entscheidungsentwurf nicht zurückzuholen ist.
+    Das genaue Erlassdatum innerhalb des Oktober 2025 ist nicht belegt; der 31.10.2025 ist ein Platzhalter.
+
+    '
+  quelle_art: amtlich
+  sachverhalt: Im Dezember 2023 gaben die Lady Chief Justice, der Master of the Rolls und der Senior President
+    of Tribunals erstmals eine Handreichung zum Einsatz künstlicher Intelligenz für Richterinnen und Richter
+    in England und Wales heraus. In den folgenden zwei Jahren hatten die englischen Gerichte wiederholt
+    über Schriftsätze mit erfundenen, von generativen Systemen erzeugten Fundstellen zu befinden; zugleich
+    zeigte sich, dass die Eingabe nicht öffentlicher Informationen in frei zugängliche Anwendungen ein
+    eigenes Risiko darstellt. Im April 2025 wurde die Handreichung überarbeitet. Im Oktober 2025 folgte
+    eine weitere Fassung, in der Verzerrungen der Trainingsdaten und Halluzinationen ausführlicher behandelt
+    und erstmals Vorgaben zur Meldung versehentlicher Offenlegungen (data incidents) aufgenommen wurden.
+  sachverhalt_quelle: eintrag
+- id: de-2026-ki-in-der-justiz
+  jurisdiktion: de
+  gericht: Bundesländer und Landesjustizverwaltungen (Sammeleintrag)
+  instanz: behörde
+  aktenzeichen: Länderprojekte zur KI-Nutzung in der Justiz
+  ecli: null
+  datum: 2026-01-01
+  parteien:
+    klaeger: —
+    beklagter: —
+  status: anhaengig
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Art. 97 GG (richterliche Unabhängigkeit); § 1 GVG; Landesjustizverwaltungsrecht;
+    Art. 6 EMRK
+  kernfrage: 'Unter welchen Voraussetzungen darf die deutsche Justiz KI-Systeme zur Vorbereitung und Strukturierung
+    von Entscheidungen einsetzen, ohne die richterliche Unabhängigkeit und den gesetzlichen Richter zu
+    berühren?
+
+    '
+  ergebnis: 'Anders als in den Common-Law-Staaten verläuft die deutsche Entwicklung nicht über Sanktionsentscheidungen,
+    sondern über Verwaltungsprojekte. Drei Vorhaben prägen den Stand: FRAUKE (Frankfurter Urteils-Konfigurator
+    Elektronisch) am Amtsgericht Frankfurt am Main für Fluggastrechtsverfahren; OLGA (Oberlandesgericht-Assistent)
+    in Baden-Württemberg und Bayern zur Strukturierung von Massenverfahren, entwickelt aus dem Dieselkomplex;
+    sowie Codefy zur Dokumentenanalyse in Großverfahren. Alle drei sind als Assistenzsysteme ausgestaltet:
+    Sie bereiten vor und schlagen vor, entscheiden aber nicht. Eine bundesweit verbindliche Regelung fehlt;
+    die Justizministerkonferenz behandelt das Thema fortlaufend. Berufsrechtlich für die Anwaltschaft
+    gilt bislang allein die allgemeine Pflicht aus § 43 BRAO, wie sie das Kammergericht in 17 WF 144/25
+    konkretisiert hat.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.bmj.de/DE/themen/digitales/digitalisierung_justiz/digitalisierung_justiz_node.html
+  zusammenfassung_url: https://www.brak.de/newsroom/
+  bezug_regelwerke:
+  - de-berufsrecht-ki
+  - de-ki-justiz
+  instanzenzug:
+  - de-2025-kg-ki-halluzination
+  quelle_tracker: Eigenes Modellwissen; nicht am Primärdokument geprüft
+  verifiziert: false
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'NICHT VERIFIZIERT — der gesamte Eintrag beruht auf Modellwissen; Projektstände, Bezeichnungen
+    und die beteiligten Länder sind vor Verwendung über die Landesjustizverwaltungen und die Justizministerkonferenz
+    zu prüfen. Der strukturelle Befund ist dennoch belastbar und für eine vergleichende Darstellung der
+    wertvollste: Während die Common-Law-Staaten über den Einsatz durch Anwälte streiten und ihn über Sanktionen
+    steuern, baut Deutschland KI in die Justiz selbst ein und regelt den Einsatz durch Anwälte gar nicht.
+    Die deutsche Diskussion dreht sich um Art. 97 GG und den gesetzlichen Richter, die angelsächsische
+    um Rule 11 und Kontempt. Das ist keine Nuance, sondern ein anderer Gegenstand — und die deutsche Zahl
+    in der Datenbank (11 Fälle gegenüber 62 im Vereinigten Königreich bei vergleichbarer Anwaltszahl)
+    legt nahe, dass hier vor allem weniger veröffentlicht, nicht weniger halluziniert wird.
+
+    '
+  dokumenttyp: Informationsseite des Bundesministeriums der Justiz und für Verbraucherschutz
+  bisheriger_link: Die bisherige Adresse www.bmj.de/... wird seit der Umbenennung des Ressorts per HTTP
+    302 auf www.bmjv.de/... umgeleitet; die Zieladresse ist einzutragen.
+  pruefvermerk:
+  - Der bisherige Link war bereits amtlich (Bundesministerium), aber veraltet; er läuft über eine Weiterleitung.
+    Korrigiert auf die aktuelle Zieladresse.
+  - Es handelt sich um einen Sammeleintrag zu Länderprojekten (KI-Nutzung in der Justiz), nicht um eine
+    Gerichtsentscheidung. Ein einzelnes amtliches Entscheidungsdokument kann es dazu nicht geben.
+  - 'Ergänzend amtlich zum Querschnittsthema: https://www.bmjv.de/DE/themen/digitales/digitale_wirtschaft_gesellschaft/kuenstliche_intelligenz/kuenstliche_intelligenz_node.html'
+  - 'Empfehlung: Den Sammeleintrag in die einzelnen Länderprojekte auflösen und je Projekt die Seite der
+    zuständigen Landesjustizverwaltung nachweisen; die Bundesseite trägt die Einzelprojekte nicht.'
+  normen:
+  - gg-art-101-abs-1-satz-2
+  - gg-art-103-abs-1
+  - gg-art-92
+  - gg-art-97-abs-1
+  - gvg-1
+  quelle_art: amtlich
+- id: us-2025-mendones-cushman
+  jurisdiktion: us
+  gericht: Superior Court of California (Alameda County)
+  instanz: erstinstanzlich
+  aktenzeichen: Mendones v. Cushman & Wakefield, Inc., Case No. 23CV028772 (Alameda County Superior Court)
+  ecli: null
+  datum: 2025-09-09
+  parteien:
+    klaeger: Ariel Mendones u.a.
+    beklagter: Cushman & Wakefield u.a.
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - content
+  - haftung
+  anspruchsgrundlage: Kalifornisches Prozessrecht; inhärente Befugnis zur Verhängung von terminating sanctions
+  kernfrage: 'Welche Sanktion ist angemessen, wenn eine Partei nicht Fundstellen, sondern Beweismittel
+    mit KI erzeugt oder verändert?
+
+    '
+  ergebnis: 'Das Gericht stellte fest, dass vorgelegte Videos, Fotografien, Screenshots von Nachrichtenverläufen
+    und die zugehörigen Metadaten mit KI erzeugt oder wesentlich verändert worden waren. Beanstandet waren
+    neun Beweisstücke (Ex. 3, 6A, 6B, 6C, 7, 21, 27, 35, 40); bei fünf von ihnen stellte das Gericht die
+    KI-Erzeugung oder wesentliche Veränderung fest (6A und 6C als Deepfake-Videos, 7 als wesentlich verändert,
+    35 und 40 als KI-erzeugt oder wesentlich verändert), bei den übrigen vier blieb der Verdacht bestehen.
+    Die Erklärungsversuche der Partei hielt es für unglaubwürdig. Es verhängte die schärfste prozessuale
+    Sanktion: Streichung der zweiten geänderten Klage und Abweisung der gesamten Klage mit Rechtskraftwirkung.
+    Von einer Geldsanktion sah es ausdrücklich ab.
+
+    '
+  bedeutung: hoch
+  volltext_url: null
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/?q=Mendones
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2026-fre-707
+  quelle_tracker: Volltext des "Order re Terminating Sanctions" (PDF-Kopie); AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: *id003
+  eigene_bewertung: 'Der bislang wichtigste Fall zu KI-erzeugten Beweismitteln und zugleich der am wenigsten
+    beachtete. Er markiert den Übergang von der erfundenen Fundstelle zum gefälschten Beweismittel — und
+    die Sanktion springt sofort auf die Höchststufe: nicht Geld, sondern Klageabweisung mit Rechtskraftwirkung.
+    Das ist folgerichtig, weil eine erfundene Fundstelle auffällt, sobald jemand nachschlägt, ein manipuliertes
+    Video dagegen nicht. Bemerkenswert ist die Einbeziehung der Metadaten: Das Gericht prüfte nicht nur
+    den Inhalt, sondern die Erzeugungsspur. Für Prozessvertreter ist das die praktisch wichtigste Lehre
+    des gesamten Feldes — und der Übergang zum "liar''s dividend", weil jede Partei nun jedes echte Beweismittel
+    als KI-erzeugt bestreiten kann.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (''Order re Terminating Sanctions'' im Volltext): Superior Court of California,
+    County of Alameda, Case Number 23CV028772, Datum 09.09.2025, Judge Victoria Kolakowski. Rubrum ''Ariel
+    Mendones, et al. v. Cushman and Wakefield, Inc., et al.'''
+  - 'KORREKTUR: Der Eintrag führte als Aktenzeichen nur den Parteinamen. Die Verfahrensnummer 23CV028772
+    fehlte vollständig.'
+  - 'Tenor bestätigt: Streichung der geänderten Klage und Abweisung der gesamten Klage mit Rechtskraftwirkung
+    als terminating sanction wegen vorgelegter Deepfake-Videos und manipulierter Fotografien; keine Geldsanktion.'
+  - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde der "Order re Terminating Sanctions" des Superior
+    Court of California, County of Alameda, Case No. 23CV028772, vom 09.09.2025 (Deepfake-Videos als Beweismittel).
+    Kalifornische Trial Cour'
+  - 'Am Volltext des "Order re Terminating Sanctions" geprüft: Superior Court of California, County of
+    Alameda, Case No. 23CV028772, Judge Victoria Kolakowski, 09.09.2025, Rubrum "Ariel Mendones, et al.
+    v. Cushman and Wakefield, Inc., et al." — Gericht, Aktenzeichen, Datum, Parteien bestätigt.'
+  - 'Tenor wörtlich bestätigt: "The Court strikes the second amended complaint from the register of actions.
+    The entire action is dismissed with prejudice." Geldsanktionen wurden nicht verhängt.'
+  - 'KORREKTUR ZAHL DER BEWEISSTÜCKE: Der Eintrag sprach von "fünf beanstandeten Beweisstücken". Beanstandet
+    waren neun; bei fünf wurde die KI-Erzeugung oder wesentliche Veränderung festgestellt.'
+  - 'Amtliche Fundstelle bleibt nicht auffindbar: Kalifornische Trial Courts veröffentlichen erstinstanzliche
+    Beschlüsse nicht; volltext_url zeigt daher auf eine Kopie des Primärdokuments, nicht auf eine Datenbankabfrage
+    (Verbesserung gegenüber dem bisherigen Suchlink).'
+  sekundaerquelle_url: https://www.damiencharlotin.com/documents/828/mendones-v-cushman-wakefield.pdf
+  quelle_art: fehlt
+- id: us-2025-kohls-ellison
+  jurisdiktion: us
+  gericht: United States District Court, D. Minnesota (Provinzino, District Judge)
+  instanz: erstinstanzlich
+  aktenzeichen: No. 24-cv-3754 (LMP/DLM) (Kohls v. Ellison)
+  ecli: null
+  datum: 2025-01-10
+  parteien:
+    klaeger: Christopher Kohls u.a.
+    beklagter: Keith Ellison, Attorney General of Minnesota
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - content
+  - grundrechte
+  anspruchsgrundlage: Fed. R. Evid. 702; Daubert-Maßstab; 28 U.S.C. § 1746 (Erklärung unter Strafandrohung)
+  kernfrage: 'Ist die Erklärung eines Sachverständigen zu verwerten, wenn sie von KI erzeugte, nicht existierende
+    wissenschaftliche Fundstellen enthält?
+
+    '
+  ergebnis: 'Nein. In einem Verfahren gegen das Deepfake-Gesetz von Minnesota legte der Attorney General
+    eine Erklärung von Prof. Jeff Hancock (Stanford, Direktor des Social Media Lab und ausgewiesener Fachmann
+    für Fehlinformation) vor. Sie enthielt drei nicht existierende wissenschaftliche Nachweise, erzeugt
+    mit GPT-4o. Das Gericht schloss die Erklärung insgesamt aus: Die Halluzinationen hätten die Glaubwürdigkeit
+    des Sachverständigen zerstört.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.220348/gov.uscourts.mnd.220348.46.0.pdf
+  zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2026-fre-707
+  quelle_tracker: AI Hallucination Cases Database
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'Die Ironie trägt den Fall: Ein Sachverständiger für Fehlinformation reicht in einem
+    Verfahren über ein Deepfake-Gesetz eine Erklärung mit KI-erfundenen Quellen ein, und zwar zur Verteidigung
+    des Gesetzes. Juristisch ist der Fall wichtiger, als die Anekdote vermuten lässt: Er dehnt die Prüfungspflicht
+    auf den Sachverständigenbeweis aus, wo sie schärfer wirkt als bei Anwälten, weil das Gericht nicht
+    sanktioniert, sondern das Beweismittel vollständig verwirft. Ein Anwalt zahlt und macht weiter; ein
+    Sachverständiger verliert den Prozessvortrag seiner Partei. Für eine anschauliche Darstellung ist
+    das nach Mata der stärkste Stoff.
+
+    '
+  pruefvermerk:
+  - 'Am Primärdokument geprüft (CourtListener/RECAP, Originalbeschluss): ''UNITED STATES DISTRICT COURT,
+    DISTRICT OF MINNESOTA — Case No. 24-cv-3754 (LMP/DLM) — Christopher Kohls and Mary Franson v. Keith
+    Ellison and Chad Larson'', eingereicht am 10.01.2025.'
+  - 'Ergänzt: Die vollständige Aktenzeichenangabe lautet 24-cv-3754 (LMP/DLM); LMP steht für die entscheidende
+    Richterin Laura M. Provinzino, die der Eintrag zutreffend nennt. Vollständige Parteien: Christopher
+    Kohls und Mary Franson gegen Keith Ellison und Chad Larson.'
+  - 'Tenor bestätigt: Der Antrag auf Ausschluss der Sachverständigenerklärung wurde hinsichtlich Prof.
+    Hancock stattgegeben, hinsichtlich Prof. West zurückgewiesen; der Antrag auf Einreichung einer geänderten
+    Erklärung wurde als erledigt zurückgewiesen. Der Eintrag gibt nur den Hancock-Teil wieder, was für
+    die Sache trägt.'
+  normen:
+  - fre-702
+  quelle_art: amtlich
+  sachverhalt: Minnesota hatte ein Gesetz erlassen, das den Einsatz von Deepfakes zur Beeinflussung von
+    Wahlen unter Strafe stellt. Christopher Kohls und weitere Kläger griffen es vor dem Bundesgericht
+    in Minnesota an; der Attorney General Keith Ellison verteidigte es. Zur Stützung legte Ellison eine
+    unter Strafandrohung abgegebene Erklärung von Jeff Hancock vor — Professor in Stanford, Leiter des
+    dortigen Social Media Lab und ein ausgewiesener Fachmann für Fehlinformation. In der Erklärung waren
+    drei wissenschaftliche Nachweise angeführt, die es nicht gibt; erzeugt hatte sie GPT-4o. Die Klägerseite
+    bemerkte das und beantragte, die Erklärung nicht zu verwerten.
+  sachverhalt_quelle: eintrag
+- id: us-2025-horcasitas-pelkey-ki-video
+  jurisdiktion: us
+  gericht: Superior Court of Arizona, Maricopa County (Strafzumessung); Rechtsmittel beim Arizona Court
+    of Appeals, Division One
+  instanz: erstinstanzlich
+  aktenzeichen: Maricopa County Superior Court CR2021-142720-001; Berufung 1 CA-CR 25-0191
+  ecli: null
+  datum: 2025-05-01
+  parteien:
+    klaeger: State of Arizona
+    beklagter: Gabriel Paul Horcasitas
+  status: rechtsmittel
+  themenachsen:
+  - content
+  - grundrechte
+  - sektor-oeffentlich
+  anspruchsgrundlage: Ariz. Const. art. II § 2.1 (Victims' Bill of Rights); A.R.S. § 13-4426 (Recht des
+    Opfers auf Äußerung); Due Process
+  kernfrage: 'Darf im Strafzumessungstermin eine mit KI erzeugte Videodarstellung des getöteten Opfers
+    als dessen Opferaussage vorgeführt werden?
+
+    '
+  ergebnis: 'Im Verfahren wegen der Tötung von Christopher Pelkey bei einem Verkehrsstreit 2021 führte
+    dessen Schwester Stacey Wales im Strafzumessungstermin ein KI-erzeugtes Video vor, in dem ein Abbild
+    des Getöteten mit synthetisierter Stimme eine eigene Erklärung abgab und dem Angeklagten vergab. Das
+    Gericht ließ die Vorführung zu; Richter Todd F. Lang verhängte wegen "Manslaughter-Reckless, Class
+    2" eine Freiheitsstrafe von 10,5 Jahren, die über dem Antrag der Staatsanwaltschaft lag. Die Verteidigung
+    griff dies mit dem Rechtsmittel an: Das Video sei kein Beweismittel und keine Äußerung des Opfers,
+    sondern eine Konstruktion der Hinterbliebenen, und habe die Strafzumessung unzulässig beeinflusst.
+    Verfahrensstand am amtlichen Berufungsregister (Arizona Court of Appeals, Division One, 1 CA-CR 25-0191):
+    Rechtsmittel eingelegt am 01.05.2025, Eingang beim Berufungsgericht am 07.05.2025, Schriftsatzwechsel
+    abgeschlossen am 20.07.2026, Sache seit dem 05.08.2026 "Under Advisement" vor Department C (Richter
+    D. Steven Williams, Anni Hill Foster und David D. Weinzweig). Eine Entscheidung liegt nicht vor.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://apps.azcourts.gov/aacc/appella/1CA/CR/CR250191.PDF
+  zusammenfassung_url: https://www.azcourts.gov/
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2026-fre-707
+  quelle_tracker: apps.azcourts.gov (Arizona Appellate Case Information, 1 CA-CR 25-0191); AP; CBS
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'NICHT VERIFIZIERT — Datum, Strafmaß, Name des Richters und insbesondere der Ausgang
+    des Rechtsmittelverfahrens konnten nicht belegt werden; der Eintrag beruht auf Modellwissen und ist
+    vor jeder Verwendung, erst recht vor einer Veröffentlichung, gegen azcourts.gov zu prüfen. Inhaltlich
+    ist es der weltweit erste Fall, in dem eine synthetische Darstellung eines Verstorbenen im Gerichtssaal
+    Wirkung entfaltet hat, und er liegt außerhalb aller bisherigen Kategorien: Es geht nicht um Beweis,
+    sondern um die Opferaussage, für die die Beweisregeln gerade nicht gelten. Genau darin liegt die Lücke
+    — die vorgeschlagene Rule 707 erfasst maschinell erzeugte *Beweismittel*, nicht maschinell erzeugte
+    Äußerungen im Strafzumessungsverfahren. Für die Darstellung ist das der eindringlichste Fall des gesamten
+    Feldes, weil er ohne Vorkenntnisse verständlich ist und die eigentliche Frage stellt: Was darf ein
+    Gericht sehen und hören, wenn beides herstellbar ist?
+
+    '
+  pruefvermerk:
+  - 'Vorgang an Presseberichten bestätigt (AP/CBS/NBC, 08.-10.05.2025): Superior Court of Arizona, Maricopa
+    County; im Strafzumessungstermin für die Tötung von Christopher Pelkey führte die Schwester des Getöteten,
+    Stacey Wales, ein KI-erzeugtes Video mit synthetisierter Stimme vor; die Verteidigung legte gegen
+    die Strafzumessung Rechtsmittel ein.'
+  - 'NICHT AM PRIMÄRDOKUMENT GEPRÜFT: Ein Aktenzeichen (CR-Nummer des Maricopa County Superior Court)
+    ließ sich nicht ermitteln; azcourts.gov/opinions führt keine erstinstanzlichen Strafzumessungsprotokolle.
+    Damit blieben Datum (Eintrag: 01.05.2025) und Aktenzeichen ungeprüft.'
+  - 'Für die Prüfung im Browser: Fallregister des Maricopa County Superior Court (superiorcourt.maricopa.gov)
+    nach ''Horcasitas''.'
+  - AMTLICHE FUNDSTELLE GEFUNDEN — die frühere Feststellung "nicht am Primärdokument geprüft" ist überholt.
+    Am amtlichen Berufungsregister der arizonischen Gerichte geprüft (apps.azcourts.gov, Arizona Appellate
+    Case Information für 1 CA-CR 25-0191).
+  - 'AKTENZEICHEN ERGÄNZT: Das erstinstanzliche Aktenzeichen lautet Maricopa County Superior Court CR2021-142720-001;
+    das Berufungsverfahren trägt die Nummer 1 CA-CR 25-0191. Der Eintrag führte als Aktenzeichen bislang
+    nur den Parteinamen.'
+  - 'ERGÄNZT: Strafzumessungsrichter Todd F. Lang; Schuldspruch der Jury wegen "Manslaughter-Reckless,
+    Class 2"; Strafe 10,5 Jahre ADCRR.'
+  - 'DATUM bestätigt: Das Register weist den 01.05.2025 als Tag der Einlegung des Rechtsmittels aus —
+    denselben Tag, an dem das KI-Video im Strafzumessungstermin vorgeführt wurde.'
+  - 'Verfahrensstand: seit 05.08.2026 "Under Advisement" vor Division One, Department C; eine Rechtsmittelentscheidung
+    ist bis heute (05.09.2026) nicht ergangen.'
+  normen:
+  - us-const-amend-14
+  quelle_art: amtlich
+  sachverhalt: 'Bei einem Verkehrsstreit in Arizona tötete Gabriel Paul Horcasitas im Jahr 2021 Christopher
+    Pelkey durch Schüsse. Er wurde wegen Totschlags in leichtfertiger Begehungsform verurteilt. Für den
+    Strafzumessungstermin ließ Pelkeys Schwester Stacey Wales ein Video herstellen, in dem ein KI-erzeugtes
+    Abbild ihres Bruders mit synthetischer Stimme selbst zu Wort kam und dem Angeklagten vergab. Sie führte
+    es im Termin als Äußerung des Opfers vor; das Gericht ließ die Vorführung zu. Richter Todd F. Lang
+    verhängte eine Freiheitsstrafe von zehneinhalb Jahren und ging damit über den Antrag der Staatsanwaltschaft
+    hinaus. Am 1. Mai 2025 legte die Verteidigung Rechtsmittel ein: Das Video sei kein Beweismittel und
+    keine Äußerung des Opfers, sondern eine Konstruktion der Hinterbliebenen, und habe die Strafzumessung
+    unzulässig beeinflusst.'
+  sachverhalt_quelle: eintrag
+- id: us-2026-fre-707
+  jurisdiktion: us
+  gericht: Judicial Conference of the United States, Advisory Committee on Evidence Rules
+  instanz: behörde
+  aktenzeichen: Proposed Fed. R. Evid. 707 (machine-generated evidence); Proposed Amendments to Fed. R.
+    Evid. 104 und 902
+  ecli: null
+  datum: 2026-08-14
+  parteien:
+    klaeger: —
+    beklagter: —
+  status: anhaengig
+  themenachsen:
+  - content
+  - governance
+  - berufsrecht
+  anspruchsgrundlage: Rules Enabling Act, 28 U.S.C. §§ 2071-2077; Fed. R. Evid. 702, 901, 902
+  kernfrage: 'Soll maschinell erzeugter Beweis, der nicht durch einen menschlichen Sachverständigen vermittelt
+    wird, denselben Zuverlässigkeitsanforderungen unterliegen wie das Sachverständigengutachten, und wie
+    ist auf Deepfake-Einwände gegen echte Beweismittel zu reagieren?
+
+    '
+  ergebnis: 'Der vorgeschlagene Rule 707 will maschinell erzeugte Ergebnisse, die ohne Sachverständigen
+    eingeführt werden, den Maßstäben des Rule 702 (Daubert) unterwerfen. Er wurde am 15.08.2025 zur öffentlichen
+    Stellungnahme veröffentlicht; die Frist lief bis 16.02.2026. STAND 27.08.2026: Rule 707 ist auf der
+    Liste der anhängigen Rechtsänderungen von uscourts.gov NICHT ausgewiesen. Ausgewiesen sind als anhängige
+    Beweisregeln allein: Rule 801 mit Inkrafttreten zum 01.12.2026 sowie die Rules 104 und 902 mit voraussichtlichem
+    Inkrafttreten zum 01.12.2028. Letztere wurden am 14.08.2026 zur öffentlichen Stellungnahme bis zum
+    15.02.2027 veröffentlicht und betreffen die Authentifizierung — also den Regelungsgegenstand, den
+    zuvor der Vorschlag eines Rule 901(c) (Einwand der Fälschung durch KI) abdecken sollte.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.uscourts.gov/rules-policies/proposed-amendments-published-public-comment
+  zusammenfassung_url: https://www.uscourts.gov/rules-policies/proposed-amendments-published-public-comment
+  bezug_regelwerke: []
+  instanzenzug:
+  - us-2025-mendones-cushman
+  - us-2025-kohls-ellison
+  quelle_tracker: uscourts.gov (beide Seiten abgerufen); Agenda Book des Advisory Committee May 2026 nicht
+    auswertbar (PDF, 13 MB)
+  verifiziert: true
+  letzte_pruefung: 2026-09-03
+  eigene_bewertung: 'WIDERSPRUCH, DER NICHT AUFGELÖST WERDEN KONNTE und deshalb so stehen bleibt: Rule
+    707 durchlief das Stellungnahmeverfahren, erscheint aber im August 2026 nicht auf der Liste der anhängigen
+    Änderungen, während stattdessen die Rules 104 und 902 neu zur Stellungnahme gestellt wurden. Drei
+    Deutungen sind möglich — Rule 707 wurde zurückgestellt, er wurde in die Änderungen zu 104 und 902
+    überführt, oder die Liste ist unvollständig. Die zweite Deutung ist die wahrscheinlichste, weil 104
+    (Vorfragen der Zulässigkeit) und 902 (Selbstauthentifizierung) genau die Stellschrauben sind, an denen
+    der Deepfake-Einwand ansetzt: Wer die Echtheit eines Videos bestreitet, streitet über eine Vorfrage
+    nach Rule 104, nicht über Sachverständigenbeweis nach Rule 702. Vor Verwendung zwingend am Agenda
+    Book des Advisory Committee vom Mai 2026 und am Bericht des Standing Committee vom Juni 2026 zu prüfen.
+    Rechtspolitisch ist der eigentliche Streit ohnehin nicht Rule 707, sondern der "liar''s dividend":
+    Sobald jedes Video gefälscht sein kann, wird die Behauptung der Fälschung zur Standardverteidigung,
+    und die Beweislastverteilung entscheidet den Prozess. Genau dazu schweigen die Vorschläge bislang.
+
+    '
+  pruefvermerk:
+  - 'An der amtlichen Quelle geprüft (uscourts.gov, ''Proposed Amendments Published for Public Comment''
+    und ''Pending Rules and Forms Amendments''): Rule 707 ist dort nicht ausgewiesen. Zur Stellungnahme
+    veröffentlicht sind allein die Evidence Rules 104 und 902, Stellungnahmefrist 14.08.2026 bis 15.02.2027,
+    Anhörungsanträge bis 08.12.2026; Standing-Committee-Beschlüsse vom 06.01.2026 und vom 03./04.06.2026;
+    voraussichtliches Inkrafttreten 01.12.2028. Die Feststellung des Eintrags trifft zu.'
+  - 'ERGÄNZT — der fehlende Grund: Der Standing Committee hat am 03./04.06.2026 beschlossen, ''not to
+    recommend action on Rule 707 at this time'' und den Entwurf zur Überarbeitung zurückgegeben, nachdem
+    das Advisory Committee am 07.05.2026 grundsätzliche Bedenken festgehalten hatte. Rule 707 ist also
+    nicht übersehen, sondern angehalten worden.'
+  - 'Verfahrensgang bestätigt: Advisory Committee 02.05.2025 (8:1, Widerspruch des DOJ); Freigabe zur
+    Veröffentlichung durch den Standing Committee am 10.06.2025; Stellungnahmefrist 15.08.2025 bis 16.02.2026
+    — deckt sich mit dem Eintrag.'
+  normen:
+  - fre-707
+  - fre-702
+  - fre-901
+  - fre-902
+  - usc-28-2072
+  quelle_art: amtlich
+  sachverhalt: 'Vor US-Gerichten treten zunehmend Ergebnisse maschineller Verfahren als Beweismittel auf,
+    ohne dass ein menschlicher Sachverständiger sie vermittelt und für sie einsteht. Zugleich lassen sich
+    Videos, Fotografien und Nachrichtenverläufe mit generativer KI so herstellen oder verändern, dass
+    die Fälschung nicht ohne weiteres erkennbar ist: Im September 2025 stellte ein kalifornisches Staatsgericht
+    in Mendones gegen Cushman & Wakefield fest, dass eine Partei mehrere vorgelegte Beweisstücke samt
+    Metadaten auf diesem Weg erzeugt oder wesentlich verändert hatte. Für beides kannten die Bundesbeweisregeln
+    keine eigene Vorschrift. Der Beweisregelausschuss der Judicial Conference entwarf daraufhin eine Rule
+    707, die maschinell erzeugte Ergebnisse denselben Zuverlässigkeitsanforderungen unterwerfen sollte
+    wie das Sachverständigengutachten, und stellte sie am 15. August 2025 bis zum 16. Februar 2026 zur
+    öffentlichen Stellungnahme; ein Entwurf einer Rule 901(c) sollte den Einwand der KI-Fälschung gegen
+    echte Beweismittel regeln. Am 14. August 2026 stellte der Ausschuss stattdessen Änderungen der Rules
+    104 und 902 — Vorfragen der Zulässigkeit und Selbstauthentifizierung — bis zum 15. Februar 2027 zur
+    Stellungnahme.'
+  sachverhalt_quelle: eintrag
+- id: de-2021-bgh-smartlaw
+  jurisdiktion: de
+  gericht: Bundesgerichtshof, I. Zivilsenat
+  instanz: revision
+  aktenzeichen: I ZR 113/20
+  ecli: ECLI:DE:BGH:2021:090921UIZR113.20.0
+  datum: 2021-09-09
+  parteien:
+    klaeger: Hanseatische Rechtsanwaltskammer Hamburg
+    beklagter: Wolters Kluwer Deutschland GmbH (smartlaw)
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - marktzugang
+  - vertrag
+  anspruchsgrundlage: § 2 Abs. 1, § 3 RDG; § 3a UWG
+  kernfrage: 'Ist ein digitaler Vertragsgenerator, der auf Grundlage von Nutzereingaben aus einem Entscheidungsbaum
+    Vertragstexte zusammensetzt, eine erlaubnispflichtige Rechtsdienstleistung?
+
+    '
+  ergebnis: 'Nein. Der BGH verneinte eine Rechtsdienstleistung im Sinne des § 2 Abs. 1 RDG. Der Generator
+    prüfe keinen konkreten Einzelfall, sondern arbeite ein vorformuliertes Frage- und Antwortschema ab;
+    die Zuordnung von Textbausteinen zu Nutzerangaben sei keine rechtliche Prüfung des Einzelfalls, sondern
+    die Anwendung eines vom Anbieter vorab erstellten Schemas. Maßgeblich sei die Perspektive des durchschnittlichen
+    Nutzers, der erkenne, dass er ein Werkzeug bedient und keine individuelle Beratung erhält.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_113-20.pdf?__blob=publicationFile&v=2
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.09.2021&Aktenzeichen=I+ZR+113%2F20
+  zusammenfassung_url: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021171.html
+  bezug_regelwerke: []
+  instanzenzug:
+  - de-2019-bgh-wenigermiete
+  quelle_tracker: bundesgerichtshof.de (Entscheidungsdatenbank, Volltext-PDF; Pressemitteilung 171/2021);
+    dejure.org als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: &id004 2026-09-05
+  eigene_bewertung: 'Inhaltlich der entscheidende Vorläufer für die Frage, ob generative Rechtsberatung
+    erlaubnispflichtig ist, und zugleich derjenige, der am schlechtesten auf sie passt. Die Begründung
+    stützt sich tragend auf das *vorab* vom Anbieter erstellte Schema — genau das, was ein Sprachmodell
+    nicht hat. Ein Modell erzeugt die Antwort im Moment der Anfrage und damit einzelfallbezogen. Wer smartlaw
+    auf generative Systeme überträgt, kehrt das Ergebnis um. Das ist die zentrale ungeklärte Frage des
+    deutschen Rechtsdienstleistungsrechts und der interessanteste deutsche Beitrag zu diesem Feld, weil
+    er ohne Halluzinationen auskommt.
+
+    '
+  pruefvermerk:
+  - 'Am amtlichen Entscheidungsnachweis geprüft: BGH, Urteil vom 09.09.2021 – I ZR 113/20; NJW 2021, 3125;
+    GRUR 2021, 1425; MMR 2021, 961. Vorinstanzen LG Köln (08.10.2019) und OLG Köln (19.06.2020).'
+  - 'Parteien an zweiter Quelle bestätigt (LTO): Klägerin ist die Hanseatische Rechtsanwaltskammer Hamburg,
+    Beklagte die Anbieterin von Smartlaw (Wolters Kluwer). Die Revision der Rechtsanwaltskammer wurde
+    zurückgewiesen. Der Eintrag ist insoweit richtig; ein erster Abruf, der ''Rechtsanwaltskammer Hamm''
+    auswarf, hat sich als Lesefehler der Zusammenfassung erwiesen.'
+  - 'Ergebnis bestätigt: keine unerlaubte Rechtsdienstleistung; der Anbieter werde nicht in einer konkreten
+    Angelegenheit des Nutzers tätig, sondern habe den Generator auf denkbare typische Sachverhaltskonstellationen
+    hin programmiert.'
+  - 'Zum Weg: juris.bundesgerichtshof.de antwortete mit einem Serverfehler; die im Eintrag hinterlegte
+    juris-Adresse bleibt als Volltextadresse richtig.'
+  - 'verifiziert am 05.09.2026 auf false gesetzt: das Feld stand im Widerspruch zum eigenen Pruefvermerk.'
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Der Volltext liegt in der Entscheidungsdatenbank des
+    BGH unter bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_113-20.pdf.
+    Die dortige Dokumentseite weist Aktenzeichen I ZR 113/20 und Verkündungsdatum 09.09.2021 aus; das
+    PDF trägt im Kopf ECLI:DE:BGH:2021:090921UIZR113.20.0 und bestätigt damit die im Eintrag geführte
+    ECLI. Die bisherige dejure-Adresse steht jetzt als sekundaerquelle_url.'
+  - '05.09.2026: Amtliche Pressemitteilung Nr. 171/2021 vom 09.09.2021 gelesen. Bestätigt I. Zivilsenat,
+    Urteil vom 09.09.2021, I ZR 113/20; Klägerin eine Rechtsanwaltskammer, Beklagte ein juristischer Fachverlag;
+    die Revision der Klägerin wurde zurückgewiesen, weil der Dokumentengenerator keine rechtliche Prüfung
+    des Einzelfalls vornimmt. Gericht, Senat, Datum, Aktenzeichen, Parteirollen und Ergebnis des Eintrags
+    sind damit richtig.'
+  - '05.09.2026: Vorinstanzen aus der amtlichen Pressemitteilung ergänzt — LG Köln, Urteil vom 08.10.2019
+    – 31 O 35/19, und OLG Köln, Urteil vom 19.06.2020 – 6 U 263/19. Die Aktenzeichen der Vorinstanzen
+    waren bisher nicht erfasst.'
+  - '05.09.2026: Offen geblieben — instanzenzug führt de-2019-bgh-wenigermiete. Nach der amtlichen Pressemitteilung
+    ist der Instanzenzug LG Köln / OLG Köln / BGH; wenigermiete.de ist ein eigenes Verfahren. Das Feld
+    wurde nicht geändert, weil unklar ist, ob das Projekt es hier bewusst als Sachzusammenhang nutzt.'
+  - '05.09.2026: juris.bundesgerichtshof.de ist aus dieser Umgebung nicht abrufbar (robots.txt bzw. Serverfehler).
+    Die dortige Dokumentnummer lautet nr=122560.'
+  - 'verifiziert am 05.09.2026 auf true gesetzt: Gericht, Senat, Datum, Aktenzeichen, ECLI, Parteirollen,
+    Ergebnis und Vorinstanzen sind am amtlichen BGH-Dokument und an der amtlichen Pressemitteilung geprüft.'
+  normen:
+  - rdg-10
+  - rdg-2
+  - rdg-3
+  - rdg-5
+  - uwg-3a
+  quelle_art: amtlich
+  sachverhalt: Ein juristischer Fachverlag bot im Internet unter dem Namen smartlaw einen digitalen Generator
+    für Verträge und andere Rechtsdokumente an, die Kunden im Abonnement oder einzeln erwerben konnten.
+    Der Generator stellt dem Kunden verschiedene, überwiegend im Multiple-Choice-Verfahren zu beantwortende
+    Fragen; aus den Antworten setzt eine Software aus einer Sammlung von Textbausteinen Vertragsklauseln
+    zusammen und fügt sie zu einem Vertragsentwurf. Die Hanseatische Rechtsanwaltskammer Hamburg sah in
+    der digitalen Erstellung eines individuellen Vertragsdokuments eine wettbewerbswidrige Rechtsdienstleistung
+    und nahm den Verlag auf Unterlassung in Anspruch. Das Landgericht Köln gab der Klage am 8. Oktober
+    2019 statt (31 O 35/19); auf die Berufung des Verlags wies das Oberlandesgericht Köln den Unterlassungsantrag
+    am 19. Juni 2020 ab (6 U 263/19). Dagegen legte die Kammer Revision zum Bundesgerichtshof ein.
+  sachverhalt_quelle: volltext
+- id: de-2019-bgh-wenigermiete
+  jurisdiktion: de
+  gericht: Bundesgerichtshof, VIII. Zivilsenat
+  instanz: revision
+  aktenzeichen: VIII ZR 285/18
+  ecli: ECLI:DE:BGH:2019:271119UVIIIZR285.18.0
+  datum: 2019-11-27
+  parteien:
+    klaeger: Lexfox GmbH (wenigermiete.de)
+    beklagter: Vermieterin
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - marktzugang
+  - vertrag
+  anspruchsgrundlage: § 10 Abs. 1 Satz 1 Nr. 1 RDG (Inkassodienstleistung); § 3 RDG; § 134 BGB
+  kernfrage: 'Deckt die Registrierung als Inkassodienstleister die automatisierte Durchsetzung mietrechtlicher
+    Ansprüche über ein Legal-Tech-Portal?
+
+    '
+  ergebnis: 'Ja. Der BGH legte den Begriff der Inkassodienstleistung weit aus und hielt die Tätigkeit
+    von wenigermiete.de von der Inkassoregistrierung für gedeckt. Die Forderungseinziehung umfasse auch
+    die rechtliche Prüfung, die zur Durchsetzung erforderlich ist; eine Überschreitung liege erst vor,
+    wenn die Tätigkeit sich vom Inkassozweck löst. Maßstab sei die Schutzrichtung des RDG — Schutz der
+    Rechtsuchenden vor unqualifizierter Beratung —, die bei registrierten Inkassodienstleistern gewahrt
+    sei. Prozessual hat der Senat das Berufungsurteil aufgehoben und die Sache an das Landgericht Berlin
+    zurückverwiesen; das ergibt sich aus der amtlichen Pressemitteilung 153/2019 und stand bisher nicht
+    im Eintrag.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2018/VIII_ZR_285-18.pdf?__blob=publicationFile&v=2
+  sekundaerquelle_url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.11.2019&Aktenzeichen=VIII+ZR+285%2F18
+  zusammenfassung_url: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2019/2019153.html
+  bezug_regelwerke: []
+  instanzenzug:
+  - de-2021-bgh-smartlaw
+  quelle_tracker: bundesgerichtshof.de (Entscheidungsdatenbank, Volltext-PDF; Pressemitteilung 153/2019);
+    dejure.org als Sekundärnachweis
+  verifiziert: true
+  letzte_pruefung: *id004
+  eigene_bewertung: 'Die beiden BGH-Entscheidungen bilden zusammen die deutsche Ausgangslage, und sie
+    zeigen in dieselbe Richtung: Der BGH hat Legal Tech zweimal durchgelassen, einmal über die weite Auslegung
+    der Inkassobefugnis, einmal über die Verneinung der Rechtsdienstleistung. Beide Begründungen tragen
+    bei generativen Systemen nicht. wenigermiete.de setzt eine registrierte Inkassostelle voraus, die
+    es bei einem frei zugänglichen Modell nicht gibt; smartlaw setzt ein vorab definiertes Schema voraus,
+    das ein Modell nicht hat. Der deutsche Gesetzgeber hat damit zwei Präzedenzfälle, die für die eigentliche
+    Frage nichts hergeben — und anders als die FTC in der DoNotPay-Sache keinen Weg über das Irreführungsrecht,
+    weil § 3 RDG unmittelbar an der Tätigkeit ansetzt und nicht an der Werbeaussage.
+
+    '
+  pruefvermerk:
+  - 'Am amtlichen Entscheidungsnachweis geprüft: BGH, Urteil vom 27.11.2019 – VIII ZR 285/18; Vorinstanzen
+    AG Berlin-Lichtenberg (07.11.2017 und 12.12.2017 – 6 C 194/17) und LG Berlin (28.08.2018 – 63 S 1/18);
+    amtliche Sammlung BGHZ 224, 89; NJW 2020, 208.'
+  - 'Ergebnis bestätigt: Der Senat legt den Begriff der Inkassodienstleistung weit aus und hält die Tätigkeit
+    von wenigermiete.de von der Registrierung als Inkassodienstleister für gedeckt.'
+  - 'Zum Weg: juris.bundesgerichtshof.de antwortete bei mehreren Versuchen mit einem Serverfehler (HTTP
+    5xx); geprüft wurde deshalb am Entscheidungsnachweis von dejure.org, der die amtlichen Leitsätze und
+    den Instanzenzug führt. Die im Eintrag hinterlegte juris-Adresse bleibt als Volltextadresse richtig.'
+  - quelle_tracker sollte von 'Eigenes Modellwissen; nicht am Primärdokument geprüft' auf den geprüften
+    Nachweis umgestellt werden.
+  - 'verifiziert am 05.09.2026 auf false gesetzt: das Feld stand im Widerspruch zum eigenen Pruefvermerk.'
+  - '05.09.2026: Amtliche Fundstelle nachgetragen. Volltext in der Entscheidungsdatenbank des BGH unter
+    bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2018/VIII_ZR_285-18.pdf. Die
+    Dokumentseite weist Aktenzeichen VIII ZR 285/18 und Verkündungsdatum 27.11.2019 aus, das PDF trägt
+    im Kopf ECLI:DE:BGH:2019:271119UVIIIZR285.18.0 — die im Eintrag geführte ECLI ist damit am amtlichen
+    Dokument bestätigt. Die dejure-Adresse steht jetzt als sekundaerquelle_url.'
+  - '05.09.2026: Amtliche Pressemitteilung Nr. 153/2019 vom 27.11.2019 gelesen. Bestätigt VIII. Zivilsenat,
+    Urteil vom 27.11.2019, VIII ZR 285/18, Klägerin Lexfox als registrierter Inkassodienstleister, und
+    die Vorinstanzen AG Berlin-Lichtenberg, Urteil vom 07.11.2017 – 6 C 194/17, sowie LG Berlin, Urteil
+    vom 28.08.2018 – 63 S 1/18.'
+  - '05.09.2026: Ergebnis präzisiert. Der Eintrag gab bisher nur die materielle Aussage wieder; nach der
+    amtlichen Pressemitteilung hat der BGH das Berufungsurteil aufgehoben und zurückverwiesen. Der Tenor
+    war insoweit unvollständig.'
+  - 'verifiziert am 05.09.2026 auf true gesetzt: Gericht, Senat, Datum, Aktenzeichen, ECLI, Parteien,
+    Ergebnis und Vorinstanzen sind am amtlichen BGH-Dokument und an der amtlichen Pressemitteilung geprüft.'
+  normen:
+  - bgb-134
+  - rdg-10
+  - rdg-2
+  - rdg-3
+  quelle_art: amtlich
+  sachverhalt: Die Lexfox GmbH mit Sitz in Berlin ist beim Kammergericht als Rechtsdienstleisterin für
+    Inkassodienstleistungen registriert. Auf ihrer Internetseite wenigermiete.de stellt sie einen kostenlos
+    nutzbaren „Mietpreisrechner" bereit und wirbt damit, Rechte von Wohnraummietern aus der Mietpreisbremse
+    „ohne Kostenrisiko" durchzusetzen; ein Drittel der „ersparten Jahresmiete" verlangt sie nur im Erfolgsfall.
+    Ein Berliner Wohnungsmieter beauftragte sie mit der Geltendmachung seiner Ansprüche aus der Mietpreisbremse
+    (§ 556d BGB) und trat ihr die Forderungen ab. Nach Auskunftsverlangen und Rüge nach § 556g Abs. 2
+    BGB verlangte Lexfox von der Wohnungsgesellschaft Rückzahlung überhöhter Miete und Erstattung der
+    Rechtsverfolgungskosten. Die Klage blieb vor dem Landgericht Berlin als Berufungsgericht ohne Erfolg;
+    das Landgericht ließ die Revision zum Bundesgerichtshof zu, mit der Lexfox ihr Begehren in vollem
+    Umfang weiterverfolgte.
+  sachverhalt_quelle: volltext

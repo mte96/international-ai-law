@@ -1,0 +1,1135 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: mx-reforma-simplificacion-organica-f1
+  datum: 2025-03-21
+  beschreibung: Ablauf der Neunzig-Tage-Frist des Transitorio Segundo der Verfassungsreform vom 20.12.2024
+    fuer die Anpassung der einfachen Gesetze. Im Datenschutz- und Transparenzbereich einen Tag vor Fristablauf
+    erfuellt (DOF 20.03.2025).
+  typ: umsetzungsfrist
+  jurisdiktion: mx
+  regelwerk: mx-reforma-simplificacion-organica
+  adressat: Congreso de la Unión
+  handlungsbedarf: null
+  quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5745905&fecha=20/12/2024
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: mx-decreto-artistas-ia-2026-f1
+  datum: 2026-07-13
+  beschreibung: Ablauf der Sechzig-Tage-Frist des Transitorio Tercero zur Anpassung des Reglamento de
+    la Ley Federal del Derecho de Autor an das KI-Klonverbot. Eine Anpassung ist bis zum 05.09.2026 nicht
+    nachweisbar; die Vorschriften der Art. 87, 118 Fr. VII und 121 LFDA gelten damit ohne Ausfuehrungsrecht.
+  typ: umsetzungsfrist
+  jurisdiktion: mx
+  regelwerk: mx-decreto-artistas-ia-2026
+  adressat: Ejecutivo Federal (Reglamento LFDA)
+  handlungsbedarf: Pruefen, ob das Reglamento inzwischen im DOF geaendert wurde; falls nicht, als Beispiel
+    fuer normative Luecken zwischen Gesetz und Ausfuehrungsrecht dokumentieren.
+  quelle: https://www.dof.gob.mx/nota_detalle.php?codigo=5787418&fecha=14/05/2026
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: mx-minuta-deepfakes-ia-2026-f1
+  datum: 2026-12-15
+  beschreibung: Ende der ordentlichen Sitzungsperiode des Senado de la República. Bis dahin muesste die
+    Minuta zur Strafbarkeit KI-erzeugter intimer Inhalte (Art. 199 Octies und 199 Nonies CPF, Art. 16
+    LGTrata) beschlossen werden, wenn sie in dieser Periode Gesetz werden soll.
+  typ: einreichung
+  jurisdiktion: mx
+  regelwerk: mx-minuta-deepfakes-ia-2026
+  adressat: Senado de la República, Comisiones Unidas de Justicia; de Análisis, Seguimiento y Evaluación
+    sobre la Aplicación y Desarrollo de la Inteligencia Artificial en México; y de Estudios Legislativos,
+    Segunda
+  handlungsbedarf: Abstimmungsergebnis und gegebenenfalls DOF-Verkuendung erfassen; bei Verabschiedung
+    wird Mexiko den ersten ausdruecklichen KI-Straftatbestand seines Bundesrechts haben.
+  quelle: https://www.jornada.com.mx/2026/09/05/politica/010n2pol
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: mx-scjn-ia-institucional-f1
+  datum: 2026-09-07
+  beschreibung: Beginn des KI-Einsatzes als Unterstuetzungswerkzeug in der Rechtsprechungstaetigkeit der
+    Ministras und Ministros der SCJN nach dem Plenarbeschluss vom 03./04.09.2026 — ohne vorherige normative
+    Regelung.
+  typ: anwendungsbeginn
+  jurisdiktion: mx
+  regelwerk: mx-scjn-ia-institucional
+  adressat: Suprema Corte de Justicia de la Nación, Pleno
+  handlungsbedarf: Beobachten, ob ein acuerdo general oder Lineamientos nachgeschoben werden und ob die
+    SCJN die vier Mindestelemente der Tesis II.2o.C. J/2 K (12a.) uebernimmt.
+  quelle: https://www.cronica.com.mx/jalisco/guadalajara/2026/09/04/ministros-de-la-suprema-corte-usaran-la-inteligencia-artificial-como-herramienta-de-apoyo/
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 7
+  sekundaerquelle: https://udgtv.com/noticias/la-suprema-corte-usara-ia-sin-regulacion-previa/330625
+  letzte_pruefung: '2026-09-07'
+  pruefvermerk:
+  - '07.09.2026: Kein amtlicher Beleg für einen Plenarbeschluss vom 03./04.09.2026. Geprüft: (a) Comunicados-Index
+    der SCJN — die zuletzt geführten Comunicados 117 bis 126 betreffen Wahlrecht, Wasserrechte, indigenen
+    Justizzugang und Verwaltungsverfahren, kein Comunicado zu KI; (b) Einzel-Comunicados auf internet2.scjn.gob.mx
+    antworten mit HTTP 403; (c) eine DOF-Suche nach einem acuerdo general der SCJN zu künstlicher Intelligenz
+    ergibt keinen Treffer aus 2026; (d) die Síntesis Informativa der SCJN vom 04.09.2026 nennt nur einen
+    Círculo de Estudio zu "Inteligencia artificial y su impacto en la función jurisdiccional"; (e) die
+    Síntesis Informativa vom 05.09.2026 gibt als Presseschau wieder, Ministra Loretta Ortiz habe gesagt,
+    die Institution "está implementando la IA sin haberla regulado antes". Der Sachverhalt — Einführung
+    ohne vorherige normative Regelung — ist damit doppelt sekundär belegt und wird von der eigenen amtlichen
+    Presseschau der SCJN wiedergegeben, aber nicht durch ein Rechtsdokument. Das ist genau der berichtete
+    Befund: Es gibt keine Regelung, deshalb gibt es nichts zu zitieren. volltext_url bleibt leer, verifiziert
+    bleibt false.'
+- id: mx-lfpdppp-f1
+  datum: 2027-04-01
+  beschreibung: Spaetester Zeitpunkt, zu dem die durch die Reform vom 14.11.2025 geaenderte Verfahrensverweisung
+    des Art. 4 LFPDPPP auf das Código Nacional de Procedimientos Civiles y Familiares wirksam wird, falls
+    die Bundesstaaten es nicht frueher uebernehmen.
+  typ: anwendungsbeginn
+  jurisdiktion: mx
+  regelwerk: mx-lfpdppp
+  adressat: Verantwortliche und Aufsichtsbehoerde
+  handlungsbedarf: null
+  quelle: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: mx-ine-lineamientos-nna-2026-f1
+  datum: 2027-01-01
+  beschreibung: Anwendung der INE-Lineamientos zum Schutz Minderjaehriger (Deepfake-Verbot, Kennzeichnungsgebot)
+    im Rahmen der Consulta Infantil y Juvenil 2027 und des Wahlprozesses 2027. Genaues Anwendungsdatum
+    nicht ermittelt.
+  typ: anwendungsbeginn
+  jurisdiktion: mx
+  regelwerk: mx-ine-lineamientos-nna-2026
+  adressat: Parteien, Kandidaturen und Medien in der politisch-wahlbezogenen Propaganda
+  handlungsbedarf: Acuerdo-Nummer und Volltext im repositoriodocumental.ine.mx nachtragen, sobald verfuegbar.
+  quelle: https://centralelectoral.ine.mx/2026/09/03/aprueba-ine-nuevos-lineamientos-para-proteger-los-derechos-de-ninas-ninos-y-adolescentes-en-materia-politico-electoral/
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: il-privacy-tikkun-13-f1
+  datum: 2025-08-14
+  beschreibung: 'Inkrafttreten des Tikkun 13 zum Datenschutzgesetz: neue Begrifflichkeit, Melde- statt
+    Registrierungspflicht, Pflicht zur Bestellung eines Datenschutzbeauftragten, Bussgeldregime, siebenjaehrige
+    Verjaehrung fuer Verstoesse ab diesem Tag.'
+  typ: anwendungsbeginn
+  jurisdiktion: il
+  regelwerk: il-privacy-tikkun-13
+  adressat: Alle Verantwortlichen und Auftragsverarbeiter mit Datenbanken in Israel, einschliesslich auslaendischer
+    Anbieter mit Israelbezug
+  handlungsbedarf: null
+  quelle: https://www.loc.gov/item/global-legal-monitor/2025-11-17/israel-amendment-to-privacy-protection-law-goes-into-effect/
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: il-boi-nbt-369-f1
+  datum: 2025-08-21
+  beschreibung: Anwendbarkeit der Bankenaufsichtsrichtlinie 369 einschliesslich ihrer ausdruecklichen
+    Erstreckung auf KI-Modelle (§ 5).
+  typ: anwendungsbeginn
+  jurisdiktion: il
+  regelwerk: il-boi-nbt-369
+  adressat: Israelische Bankinstitute und Kreditkartenunternehmen
+  handlungsbedarf: null
+  quelle: https://www.boi.org.il/media/mcyfqkkp/h2792.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: il-ppa-ki-leitlinie-2025-f1
+  datum: 2025-07-31
+  beschreibung: Ende der (verlaengerten) Anhoerungsfrist zum Entwurf der Leitlinie der Datenschutzbehoerde
+    ueber die Anwendung des Datenschutzgesetzes auf KI-Systeme.
+  typ: konsultation
+  jurisdiktion: il
+  regelwerk: il-ppa-ki-leitlinie-2025
+  adressat: Oeffentlichkeit, Industrie, Zivilgesellschaft
+  handlungsbedarf: null
+  quelle: https://www.gov.il/he/pages/ai_reg
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: il-finanzsektor-taskforce-f1
+  datum: 2024-12-15
+  beschreibung: Ende der Anhoerungsfrist zum Zwischenbericht des ressortuebergreifenden Teams zu KI im
+    Finanzsektor.
+  typ: konsultation
+  jurisdiktion: il
+  regelwerk: il-finanzsektor-taskforce
+  adressat: Beaufsichtigte Finanzinstitute, Fintech-Unternehmen, Oeffentlichkeit
+  handlungsbedarf: null
+  quelle: https://www.gov.il/BlobFolder/reports/report-06-11-24/he/ArtificialIntelligenceReport.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: il-wahlgesetz-26-2026-f1
+  datum: 2026-07-23
+  beschreibung: Beginn der Offenlegungspflicht fuer Wahlwerbung, die eine 'nechzut amuka' (Deepfake) ist
+    — eine Woche nach Verkuendung des Gesetzes am 16.07.2026.
+  typ: anwendungsbeginn
+  jurisdiktion: il
+  regelwerk: il-wahlgesetz-26-2026
+  adressat: Alle, die Wahlwerbung zur Wahl der 26. Knesset veroeffentlichen — Parteien, Kandidierende,
+    Dritte, Plattformnutzer
+  handlungsbedarf: null
+  quelle: https://fs.knesset.gov.il/25/law/25_lsr_14147458.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: il-wahl-deepfake-regeln-2026-f1
+  datum: 2026-07-26
+  beschreibung: Anwendungsbeginn der Regeln des Vorsitzenden des Zentralen Wahlausschusses ueber Form
+    und Groesse der Deepfake-Kennzeichnung; erfasst Inhalte, die ab diesem Tag erstmals verbreitet werden.
+  typ: anwendungsbeginn
+  jurisdiktion: il
+  regelwerk: il-wahl-deepfake-regeln-2026
+  adressat: Alle, die Wahlwerbung veroeffentlichen
+  handlungsbedarf: null
+  quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: il-wahlgesetz-26-2026-f2
+  datum: 2026-10-27
+  beschreibung: Wahltag der 26. Knesset. Von diesem Tag an laeuft die Jahresfrist, mit deren Ablauf die
+    befristete Deepfake-Offenlegungspflicht des § 2א2 Wahlwerbegesetz ausser Kraft tritt.
+  typ: sonstiges
+  jurisdiktion: il
+  regelwerk: il-wahlgesetz-26-2026
+  adressat: Gesetzgeber, Wahlausschuss, Wahlkampfakteure
+  handlungsbedarf: Beobachten, ob die befristete Vorschrift verlaengert oder in Dauerrecht ueberfuehrt
+    wird — sonst faellt Israels einzige Deepfake-Kennzeichnungspflicht ersatzlos weg.
+  quelle: https://en.wikipedia.org/wiki/2026_Israeli_legislative_election
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: il-wahlgesetz-26-2026-f3
+  datum: 2027-10-27
+  beschreibung: 'Voraussichtliches Ausserkrafttreten der befristeten Deepfake-Offenlegungspflicht (§ 2א2
+    Wahlwerbegesetz): ein Jahr nach dem Wahltag der 26. Knesset. Danach kennt das israelische Recht keine
+    Kennzeichnungspflicht fuer synthetische Inhalte mehr.'
+  typ: sonstiges
+  jurisdiktion: il
+  regelwerk: il-wahlgesetz-26-2026
+  adressat: Gesetzgeber; alle, die synthetische Inhalte in Israel verbreiten
+  handlungsbedarf: Das ist der wichtigste israelische Stichtag der kommenden Jahre. Berechnet aus dem
+    Gesetzeswortlaut und dem Wahltermin; das genaue Datum haengt vom tatsaechlichen Wahltag ab.
+  quelle: https://fs.knesset.gov.il/25/law/25_lsr_14147458.pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: il-moh-ki-sandkasten-2026-f1
+  datum: 2026-04-14
+  beschreibung: Ende der Einreichungsfrist fuer den Regulierungssandkasten des Gesundheitsministeriums
+    fuer bahnbrechende KI-Technologien.
+  typ: einreichung
+  jurisdiktion: il
+  regelwerk: il-moh-ki-sandkasten-2026
+  adressat: Unternehmen und Gesundheitsorganisationen mit KI-Loesungen ab Reifegrad TRL 6
+  handlungsbedarf: null
+  quelle: https://www.gov.il/he/pages/ai-tech-health-reg
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: il-dual-use-entwurf-2026-f1
+  datum: 2026-04-25
+  beschreibung: Ende der Anhoerungsfrist zum Gesetzesmemorandum ueber die Kontrolle des zivilen Dual-Use-Exports.
+  typ: konsultation
+  jurisdiktion: il
+  regelwerk: il-dual-use-entwurf-2026
+  adressat: Exportierende Unternehmen, darunter Anbieter fortgeschrittener Rechen- und KI-Technologie
+  handlungsbedarf: null
+  quelle: https://www.shibolet.com/en/q1-2026-international-trade-regulation-update-key-developments-and-new-israeli-dual-use-export-control-bill/
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: nz-copyright-reform-2026-f1
+  datum: 2027-03-31
+  beschreibung: 'Frist für die Rückberichterstattung des Minister of Commerce and Consumer Affairs an
+    das Kabinett zu einem möglichen urheberrechtlichen Rahmen für generative KI in Neuseeland. Die Kabinettsentscheidung
+    vom Juni 2026 hat die KI-Frage aus dem beschlossenen Copyright-Paket ausdrücklich herausgenommen und
+    auf diesen Termin vertagt: "Cabinet has invited the Minister of Commerce and Consumer Affairs to report
+    back by 31 March 2027 on a possible copyright framework for GenAI in New Zealand." Das ist der einzige
+    verbindliche Termin des neuseeländischen KI-Rechts und der Zeitpunkt, an dem über eine TDM-Schranke
+    oder ein Lizenzmodell entschieden wird.
+
+    '
+  typ: pruefung
+  jurisdiktion: nz
+  regelwerk: nz-copyright-reform-2026
+  adressat: Minister of Commerce and Consumer Affairs; mittelbar Rechteinhaber, Verwertungsgesellschaften,
+    Modellanbieter und Nutzer generativer KI in Neuseeland
+  handlungsbedarf: Beobachten, ob eine öffentliche Konsultation ausgeschrieben wird; sie wäre die einzige
+    Gelegenheit, zur neuseeländischen TDM-Frage Stellung zu nehmen.
+  quelle: https://www.beehive.govt.nz/release/creative-and-cultural-sector-gets-further-copyright-support
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+  fundstelle_norm: Kabinettsentscheidung Juni 2026, wiedergegeben in der Ministererklärung vom 03.06.2026
+    und auf der MBIE-Vorhabenseite (Stand 07.08.2026)
+- id: nz-copyright-reform-2026-f2
+  datum: 2028-05-01
+  beschreibung: 'Äusserste Frist für das Inkrafttreten der Änderungen des Copyright Act 1994 nach dem
+    Freihandelsabkommen Neuseeland — Europäische Union (Verlängerung der Schutzfristen um zwanzig Jahre,
+    erweiterter Schutz technischer Massnahmen). Die Regierung führt das gesamte Reformpaket einschliesslich
+    der Modernisierungsmassnahmen auf diesen früheren der beiden Abkommenstermine zusammen; die Frist
+    aus dem Abkommen mit dem Vereinigten Königreich läuft am 31.05.2028 ab. Ein Gesetzentwurf war am 06.09.2026
+    noch nicht eingebracht.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: nz
+  regelwerk: nz-copyright-reform-2026
+  adressat: Neuseeländischer Gesetzgeber; Rechteinhaber; Nutzer gemeinfreier Werke
+  handlungsbedarf: null
+  quelle: https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/updates-to-the-copyright-act
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+  fundstelle_norm: NZ-EU-Freihandelsabkommen (Umsetzungsfrist 01.05.2028); NZ-UK-Freihandelsabkommen (Umsetzungsfrist
+    31.05.2028)
+- id: nz-social-security-act-2018-adm-f1
+  datum: 2026-11-30
+  beschreibung: 'Inkrafttreten der Vorschriften des Social Security (Modernisation) Amendment Act 2026
+    zu medizinischen Nachweisen (u.a. neue ss. 205A bis 205I Social Security Act 2018). Sie ergänzen die
+    zum 01.07.2026 in Kraft getretene Ausweitung des automatisierten Entscheidens nach s. 363A und betreffen
+    Verfahren, in denen ärztliche Nachweise verlangt werden.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: nz
+  regelwerk: nz-social-security-act-2018-adm
+  adressat: Ministry of Social Development; Leistungsbeziehende; behandelnde Ärztinnen und Ärzte
+  handlungsbedarf: null
+  quelle: https://www.legislation.govt.nz/act/public/2026/27/en/latest/
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  fundstelle_norm: s. 2 Abs. 2 lit. b und Abs. 4 Social Security (Modernisation) Amendment Act 2026
+- id: nz-social-security-act-2018-adm-f2
+  datum: 2029-07-01
+  beschreibung: 'Spätester Termin für die nächste turnusmässige Überprüfung des genehmigten Standards
+    für den Einsatz automatisierter elektronischer Systeme durch das Ministry of Social Development. Nach
+    s. 363A Abs. 6 lit. b Social Security Act 2018 ist der Standard mindestens alle drei Jahre zu überprüfen;
+    die Überprüfung erfolgt im Benehmen mit dem Privacy Commissioner und der Human Rights Commission und
+    ist im Gazette zu veröffentlichen. Der Termin ist aus dem Inkrafttreten der Neufassung am 01.07.2026
+    errechnet; das tatsächliche Datum der letzten Standardfassung wurde nicht ermittelt.
+
+    '
+  typ: pruefung
+  jurisdiktion: nz
+  regelwerk: nz-social-security-act-2018-adm
+  adressat: Ministry of Social Development; Privacy Commissioner; Human Rights Commission
+  handlungsbedarf: Den Gazette auf die Veröffentlichung des Standards und seiner Neufassungen beobachten
+    — er ist der einzige verbindliche neuseeländische Pflichtenkatalog für ein algorithmisches System.
+  quelle: https://www.legislation.govt.nz/act/public/2018/0032/latest/whole.html
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  fundstelle_norm: s. 363A Abs. 6 lit. b Social Security Act 2018
+- id: nz-deepfake-bill-2025-f1
+  datum: 2026-06-19
+  beschreibung: 'ABGELAUFEN. Einreichungsschluss (23.59 Uhr) für öffentliche Stellungnahmen an das Social
+    Services and Community Committee zum Deepfake Digital Harm and Exploitation Bill 213—1. Der Aufruf
+    datiert vom 22.05.2026.
+
+    '
+  typ: konsultation
+  jurisdiktion: nz
+  regelwerk: nz-deepfake-bill-2025
+  adressat: Jedermann; insbesondere Betroffenenverbände, Plattformbetreiber, Berufsverbände
+  handlungsbedarf: null
+  quelle: https://www3.parliament.nz/en/pb/sc/committees-press-releases/have-your-say-on-the-deepfake-digital-harm-and-exploitation-bill/
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 7
+  notiz_erledigt: 'Erledigt. Eingegangen sind unter anderem eine Stellungnahme des Technology and Law
+    Committee der Law Association (TLANZ), die bemängelt, dass der Entwurf Anbieter von Bildgenerierungstechnologie
+    nicht erfasst.
+
+    '
+  fundstelle_norm: Aufruf des Social Services and Community Committee vom 22.05.2026
+- id: nz-deepfake-bill-2025-f2
+  datum: 2026-11-20
+  beschreibung: 'NICHT AMTLICH BELEGT. Errechneter Termin für den Bericht des Social Services and Community
+    Committee zum Deepfake Digital Harm and Exploitation Bill 213—1 nach der üblichen Sechsmonatsfrist
+    ab der ersten Lesung vom 20.05.2026. Ein amtlich bekanntgegebener Berichtstermin war am 06.09.2026
+    nicht auffindbar; der Termin ist als Beobachtungsstichtag geführt.
+
+    '
+  typ: pruefung
+  jurisdiktion: nz
+  regelwerk: nz-deepfake-bill-2025
+  adressat: Social Services and Community Committee
+  handlungsbedarf: Den Ausschussbericht beschaffen, sobald er vorliegt; er wird die einzige parlamentarische
+    Auseinandersetzung Neuseelands mit synthetischen Inhalten enthalten.
+  quelle: https://www.legislation.govt.nz/bill/member/2025/0213/latest/whole.html
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+  fundstelle_norm: Standing Orders des neuseeländischen Repräsentantenhauses (Sechsmonatsfrist); nicht
+    am Dokument geprüft
+- id: nz-biometric-processing-privacy-code-2025-f1
+  datum: 2025-11-03
+  beschreibung: 'ABGELAUFEN. Anwendungsbeginn des Biometric Processing Privacy Code 2025 für biometrische
+    Verarbeitung, die nach diesem Tag aufgenommen wird.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: nz
+  regelwerk: nz-biometric-processing-privacy-code-2025
+  adressat: Alle Stellen, die biometrische Verarbeitung neu aufnehmen
+  handlungsbedarf: null
+  quelle: https://gazette.govt.nz/notice/id/2025-sl4213
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  notiz_erledigt: 'Erledigt: Der Kodex gilt seit dem 03.11.2025 für neue Verarbeitungsvorgänge.'
+  fundstelle_norm: cl. 2 Biometric Processing Privacy Code 2025; Gazette-Notice 2025-sl4213
+- id: nz-biometric-processing-privacy-code-2025-f2
+  datum: 2026-08-03
+  beschreibung: 'ABGELAUFEN. Ende der neunmonatigen Übergangsfrist: Seit diesem Tag gilt der Biometric
+    Processing Privacy Code 2025 auch für biometrische Verarbeitung, die am oder vor dem 03.11.2025 bereits
+    begonnen hatte. Bestandssysteme — insbesondere Gesichtserkennung im Einzelhandel und in Sicherheitsanwendungen
+    — müssen seither die Verhältnismässigkeitsprüfung nach Rule 1 und die Beschränkungen der Rule 10 Abs.
+    5 erfüllen.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: nz
+  regelwerk: nz-biometric-processing-privacy-code-2025
+  adressat: Stellen mit bestehender biometrischer Verarbeitung
+  handlungsbedarf: null
+  quelle: https://www.privacy.org.nz/privacy-principles/codes-of-practice/biometric-processing-privacy-code/
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+  - 30
+  notiz_erledigt: 'Erledigt. Ab hier ist jede biometrische Verarbeitung in Neuseeland kodexpflichtig.
+    Ob der Privacy Commissioner seither Verfahren eingeleitet hat, ist offen und sollte beobachtet werden.
+
+    '
+  fundstelle_norm: cl. 2 Biometric Processing Privacy Code 2025
+- id: nz-privacy-amendment-act-2025-f1
+  datum: 2026-05-01
+  beschreibung: 'ABGELAUFEN. Inkrafttreten von Part 1 des Privacy Amendment Act 2025 und damit des IPP
+    3A (Informationspflicht bei Erhebung personenbezogener Daten aus anderen Quellen als bei der betroffenen
+    Person). Nach s. 25A Privacy Act 2020 gilt IPP 3A nicht für vor diesem Tag erhobene Daten. Am selben
+    Tag traten Amendment No 2 zum Health Information Privacy Code 2020 und Rule 3A des Biometrics Code
+    in Kraft.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: nz
+  regelwerk: nz-privacy-amendment-act-2025
+  adressat: Alle Stellen im Sinne des Privacy Act 2020, insbesondere solche, die Daten aus Drittquellen
+    erheben
+  handlungsbedarf: null
+  quelle: https://www.legislation.govt.nz/act/public/2025/0053/latest/whole.html
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
+  - 30
+  notiz_erledigt: 'Erledigt: IPP 3A gilt seit dem 01.05.2026.'
+  fundstelle_norm: s. 2 Abs. 1 Privacy Amendment Act 2025; s. 25A Privacy Act 2020
+- id: nz-courts-genai-guidelines-2023-f1
+  datum: 2026-12-31
+  beschreibung: 'BEOBACHTUNGSSTICHTAG, NICHT AMTLICH TERMINIERT. Das Office of the Chief Justice hat am
+    28.07.2026 eingeräumt, dass die Gerichtsleitlinien zu generativer KI seit dem 07.12.2023 unverändert
+    sind und überarbeitet werden müssen; die Überarbeitung stütze sich auf laufende Erprobungen unter
+    Aufsicht der Judicial AI Advisory Group. Ein Termin für die neue Fassung wurde nicht genannt. Der
+    Stichtag dient dazu, das Erscheinen zu kontrollieren.
+
+    '
+  typ: sonstiges
+  jurisdiktion: nz
+  regelwerk: nz-courts-genai-guidelines-2023
+  adressat: Richterschaft, Anwaltschaft, nicht vertretene Parteien
+  handlungsbedarf: Zum Stichtag prüfen, ob eine überarbeitete Fassung vorliegt; falls ja, alle drei Fassungen
+    erneut erfassen und die Änderungen gegen die Fassung vom 07.12.2023 dokumentieren.
+  quelle: https://www.rnz.co.nz/news/science-and-technology/811971/guidelines-for-ai-use-in-courts-need-updating-some-academics-say
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  fundstelle_norm: Keine. Selbst gesetzter Beobachtungsstichtag auf Grundlage der Erklärung des Office
+    of the Chief Justice vom 28.07.2026.
+- id: nz-hrc-ai-tiriti-2026-f1
+  datum: 2027-03-31
+  beschreibung: 'BEOBACHTUNGSSTICHTAG, NICHT AMTLICH TERMINIERT. Kontrolle, ob die Regierung auf das Diskussionspapier
+    der Human Rights Commission vom 07.08.2026 geantwortet hat — insbesondere auf die Forderungen nach
+    einem nationalen Algorithmenregister, einem AI Safety Institute und einem verbindlichen Risikobewertungsrahmen
+    für den öffentlichen und den privaten Sektor. Der Stichtag fällt bewusst mit der Rückberichterstattung
+    zum Urheberrecht zusammen und liegt nach der Parlamentswahl 2026.
+
+    '
+  typ: pruefung
+  jurisdiktion: nz
+  regelwerk: nz-hrc-ai-tiriti-2026
+  adressat: Neuseeländische Regierung; Human Rights Commission
+  handlungsbedarf: Prüfen, ob eine Regierungsantwort, ein Kabinettspapier oder ein Gesetzgebungsvorhaben
+    vorliegt.
+  quelle: https://tikatangata.org.nz/our-work/artificial-intelligence-emerging-digital-technologies-and-human-rights
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  fundstelle_norm: Keine. Selbst gesetzter Beobachtungsstichtag.
+- id: co-acuerdo-pcsja24-12243-f1
+  datum: 2024-12-16
+  beschreibung: 'Ablauf der Viermonatsfrist aus Ziff. QUINTO der Sentencia T-323/24: Der Consejo Superior
+    de la Judicatura hatte binnen vier Monaten ab Zustellung eine Leitlinie zur generativen KI in der
+    Rama Judicial zu veröffentlichen, ''en particular, con lo dispuesto en su fundamento jurídico 423''.
+    Erfüllt durch das Acuerdo PCSJA24-12243 vom 16.12.2024.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: co
+  regelwerk: co-acuerdo-pcsja24-12243
+  adressat: Consejo Superior de la Judicatura
+  handlungsbedarf: null
+  quelle: https://www.corteconstitucional.gov.co/relatoria/2024/T-323-24.htm
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: co-ley-2502-2025-f1
+  datum: 2026-07-28
+  beschreibung: 'Inkrafttreten der Strafrechtsänderung des Art. 3 Ley 2502 de 2025 (ein Jahr nach der
+    Sanktion). Seither ist der KI-Erschwerungsgrund des Art. 296 Código Penal anwendbar. Die Corte Constitucional
+    hatte ihn knapp zwei Wochen zuvor in C-212/26 für verfassungsgemäß erklärt.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: co
+  regelwerk: co-ley-2502-2025
+  adressat: Strafgerichte, Fiscalía General de la Nación
+  handlungsbedarf: null
+  quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/ley_2502_2025.htm
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: co-ley-2502-2025-f2
+  datum: 2027-07-28
+  beschreibung: 'Ablauf der Zweijahresfrist des Art. 4 Ley 2502 de 2025: Die Regierung muss bis dahin
+    Leitlinien einer öffentlichen Politik gegen den täuschenden Einsatz künstlicher Intelligenz formuliert
+    haben, mit acht inhaltlichen Vorgaben (Ethik, sektorübergreifende Zusammenarbeit, Bildung, Technologie,
+    Transparenz, internationale Kooperation, schnelle Reaktion, Außenbeziehungen).
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: co
+  regelwerk: co-ley-2502-2025
+  adressat: Gobierno Nacional (federführend voraussichtlich MinTIC und MinJusticia)
+  handlungsbedarf: Prüfen, ob die Politik erlassen wurde; falls nicht, als Beispiel für den Auseinanderfall
+    von gesetzlichem Politikauftrag und Verwaltungspraxis dokumentieren.
+  quelle: https://normograma.mintic.gov.co/mintic/compilacion/docs/ley_2502_2025.htm
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: co-pl-025-2026-f1
+  datum: 2027-06-20
+  beschreibung: 'Ende der Legislaturperiode 2026/2027. Erreicht der Proyecto de Ley 025/2026 Cámara bis
+    dahin nicht den erforderlichen Verfahrensstand, ist er nach Art. 190 Ley 5 de 1992 zu archivieren
+    — wie zuvor PL 005/2024C, 098/2025C, 384/2025C, 043/2025S-324/2025C und die Ley de Datos 447/2024C-248/2024S.
+
+    '
+  typ: einreichung
+  jurisdiktion: co
+  regelwerk: co-pl-025-2026
+  adressat: Comisión Sexta Constitucional Permanente de la Cámara de Representantes
+  handlungsbedarf: Verfahrensstand des PL 025/2026C laufend verfolgen; bei Verabschiedung würde Kolumbien
+    das erste horizontale KI-Gesetz der Andengemeinschaft erhalten.
+  quelle: https://www.camara.gov.co/inteligencia-artificial-2
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: co-resolucion-1644-2026-f1
+  datum: 2027-07-31
+  beschreibung: 'Ende der zwölfmonatigen Übergangsfrist der Resolución 1644 de 2026 des Ministerio de
+    Salud für bereits zugelassene Telegesundheits- und Telemedizindienste. Ab diesem Tag müssen auch Altdienste
+    die neuen Anforderungen erfüllen, einschließlich der Vorgaben zu KI-gestützten Plattformen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: co
+  regelwerk: co-resolucion-1644-2026
+  adressat: EPS, IPS und Anbieter digitaler Gesundheitsdienste
+  handlungsbedarf: Amtlichen Volltext der Resolución beschaffen und prüfen, welche Artikelnummer die KI-Vorgaben
+    in der Endfassung tragen.
+  quelle: https://medifolios.net/articulos/resolucion-1644-de-2026-telemedicina.php
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: za-draft-ai-policy-2026-f1
+  datum: 2026-06-10
+  uhrzeit: '16:00'
+  beschreibung: 'Ablauf der sechzigtägigen Kommentarfrist zur Draft South Africa National Artificial Intelligence
+    (AI) Policy (GN 3880 in GG 54477 vom 10.04.2026). Die Frist lief formal weiter, obwohl der Minister
+    den Entwurf bereits am 26.04.2026 politisch zurückgezogen hatte; die förmliche Aufhebung erfolgte
+    erst zwei Tage später, am 12.06.2026.
+
+    '
+  typ: konsultation
+  jurisdiktion: za
+  regelwerk: za-draft-ai-policy-2026
+  adressat: Öffentlichkeit; Einreichung beim Director-General des DCDT, aipolicy@dcdt.gov.za
+  handlungsbedarf: null
+  quelle: https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: za-draft-ai-policy-2026-f2
+  datum: 2026-06-12
+  beschreibung: 'Förmliche Aufhebung des GN 3880 durch General Notice 3978 in Government Gazette 54840.
+    Seither hat Südafrika keine gültige nationale KI-Politik ausser dem nicht bindenden Framework von
+    2024.
+
+    '
+  typ: sonstiges
+  jurisdiktion: za
+  regelwerk: za-draft-ai-policy-2026
+  adressat: Öffentlichkeit
+  handlungsbedarf: null
+  quelle: https://www.gov.za/sites/default/files/gcis_document/202606/54840gen3978.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: za-draft-ai-policy-2026-f3
+  datum: 2026-11-30
+  beschreibung: 'Angekündigter Zeitpunkt der Vorlage der überarbeiteten National AI Policy an das Kabinett.
+    Der Minister hat dem Portfolio Committee am 26.05.2026 November 2026 als Ziel genannt; ein Tagesdatum
+    ist nicht bekannt, der 30.11.2026 ist als Monatsende gesetzt.
+
+    '
+  typ: pruefung
+  jurisdiktion: za
+  regelwerk: za-draft-ai-policy-2026
+  adressat: Department of Communications and Digital Technologies; Kabinett
+  handlungsbedarf: Beobachten, ob die überarbeitete Fassung die sieben Institutionen und den AI Insurance
+    Superfund beibehält.
+  quelle: https://www.itweb.co.za/article/government-sets-target-for-revised-ai-policy/lwrKxv3Y2QyMmg1o
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: za-draft-ai-policy-2026-f4
+  datum: 2027-01-31
+  beschreibung: 'Angekündigter Zeitpunkt der erneuten Veröffentlichung der National AI Policy zur öffentlichen
+    Kommentierung. Der Minister hat Januar 2027 genannt; ein Tagesdatum ist nicht bekannt, der 31.01.2027
+    ist als Monatsende gesetzt. Ziel des Ministeriums ist eine abschliessende Politikentscheidung bis
+    zum Ende des Haushaltsjahres 2026/2027 (31.03.2027).
+
+    '
+  typ: konsultation
+  jurisdiktion: za
+  regelwerk: za-draft-ai-policy-2026
+  adressat: Öffentlichkeit
+  handlungsbedarf: Stellungnahmefähigkeit prüfen; die erste Fassung enthielt einen international beispiellosen
+    Haftungsfonds.
+  quelle: https://www.itweb.co.za/article/government-sets-target-for-revised-ai-policy/lwrKxv3Y2QyMmg1o
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: za-draft-ai-policy-2026-f5
+  datum: 2027-03-31
+  beschreibung: 'Ende des Haushaltsjahres 2026/2027 und vom Minister genanntes Ziel für ein ''policy outcome''
+    zur nationalen KI-Politik.
+
+    '
+  typ: pruefung
+  jurisdiktion: za
+  regelwerk: za-draft-ai-policy-2026
+  adressat: Department of Communications and Digital Technologies
+  handlungsbedarf: null
+  quelle: https://www.itweb.co.za/article/government-sets-target-for-revised-ai-policy/lwrKxv3Y2QyMmg1o
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+- id: za-popia-f1
+  datum: 2021-06-30
+  beschreibung: 'Ablauf der einjährigen Übergangsfrist nach s. 114(1) POPIA. Seit dem 01.07.2021 ist s.
+    71 (automatisierte Entscheidungsfindung) vollständig durchsetzbar. Bis zum 06.09.2026 — mehr als fünf
+    Jahre später — gibt es dazu weder eine Guidance Note der Information Regulator noch eine veröffentlichte
+    Entscheidung.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: za
+  regelwerk: za-popia
+  adressat: Alle Verantwortlichen (responsible parties) in Südafrika
+  handlungsbedarf: null
+  quelle: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: za-copyright-amendment-bill-f1
+  datum: 2026-06-26
+  beschreibung: 'Urteil des Verfassungsgerichts in ZACC 26. Mit ihm ist die Vorlage nach s. 79(4)(b) der
+    Verfassung erledigt; der Copyright Amendment Bill und der Performers'' Protection Amendment Bill fallen
+    an das Parlament zurück, das s. 12D(1)-(5) streichen oder neu fassen muss, bevor ein unterschriftsreifer
+    Text entstehen kann.
+
+    '
+  typ: sonstiges
+  jurisdiktion: za
+  regelwerk: za-copyright-amendment-bill
+  adressat: Parlament (Portfolio Committee on Trade, Industry and Competition)
+  handlungsbedarf: Beobachten, ob das Parlament s. 12A unverändert lässt — davon hängt ab, ob Südafrika
+    eine Fair-Use-Klausel bekommt, unter der sich KI-Training diskutieren liesse.
+  quelle: https://www.saflii.org/za/cases/ZACC/2026/26.html
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: za-mdpmi-2025-f1
+  datum: 2025-11-13
+  beschreibung: 'Veröffentlichung des MDPMI-Abschlussberichts. Mit ihr treten die KI-Abhilfemassnahmen
+    in Kraft: KI-Unternehmen müssen südafrikanischen Medien dieselben Inhaltekontrollen und Opt-out-Mechanismen
+    einräumen wie in der Europäischen Union und halbjährliche Schulungen anbieten. Die Umsetzung sollte
+    nach dem Bericht unmittelbar nach der Veröffentlichung beginnen; feste Erfüllungsfristen nennt der
+    Bericht nicht.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: za
+  regelwerk: za-mdpmi-2025
+  adressat: Google, OpenAI, Meta und weitere KI-Entwickler mit Wirkung in Südafrika
+  handlungsbedarf: null
+  quelle: https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: za-sahpra-md08-2025-f1
+  datum: 2025-08-19
+  beschreibung: 'Wirksamwerden der SAHPRA-Mitteilung MD08-2025/2026 v1 zu den regulatorischen Anforderungen
+    an KI- und ML-gestützte Medizinprodukte. Seither müssen Antragsteller die dort genannten Nachweise
+    erbringen.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: za
+  regelwerk: za-sahpra-md08-2025
+  adressat: Hersteller und Inverkehrbringer KI-gestützter Medizinprodukte
+  handlungsbedarf: null
+  quelle: https://www.sahpra.org.za/document/regulatory-requirements-of-artificial-intelligence-and-machine-learning-ai-ml-enabled-medical-devices/
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: za-cipc-sse-praxis-f1
+  datum: 2026-02-19
+  beschreibung: 'Ausweitung des Experiential Learning Programme der CIPC auf national eingereichte vollständige
+    Patentanmeldungen: freiwillige, gebührenfreie Recherche und materielle Prüfung durch Prüferanwärter.
+    Vorstufe der angekündigten Substantive Search and Examination.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: za
+  regelwerk: za-cipc-sse-praxis
+  adressat: Patentanmelder in Südafrika
+  handlungsbedarf: null
+  quelle: https://www.kisch-ip.com/Articles/Read/482/The-South-African-Patent-Office-is-offering-free-substantive-search-and-examination
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: tw-ki-basisgesetz-f1
+  datum: 2028-01-14
+  beschreibung: 'Ablauf der Zweijahresfrist des Art. 18 Abs. 1 KI-Basisgesetz. Bis zu diesem Tag hat die
+    Regierung ihr gesamtes Fachrecht und ihre Verwaltungsmassnahmen zu ueberpruefen und, soweit sie dem
+    Gesetz widersprechen oder Regelungen fehlen, die Rechtsetzung, -aenderung oder -aufhebung sowie die
+    Verbesserung der Verwaltungsmassnahmen abzuschliessen. Der Exekutiv-Yuan hat den Auftrag am 21.05.2026
+    dahin konkretisiert, dass saemtliche Fachaufsichten bis Januar 2028 fuer ihren Bereich Verwaltungsvorschriften
+    und Branchenleitlinien zu erlassen und die Rechtsanpassung abzuschliessen haben. Betroffen sind insbesondere
+    Urheberrechtsgesetz, Patentgesetz, Datenschutzgesetz, Strafgesetzbuch und das Finanz-, Gesundheits-
+    und Verkehrsrecht.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: tw
+  regelwerk: tw-ki-basisgesetz
+  fundstelle_norm: tw-ki-basisgesetz-art-18-abs-1
+  adressat: Alle zentralen Fachaufsichtsbehoerden (各目的事業主管機關), koordiniert durch NSTC und MODA
+  handlungsbedarf: 'Der wichtigste taiwanische Stichtag. Bis dahin entscheidet sich, ob Taiwan eine TDM-Schranke
+    einfuehrt, ob § 319-4 StGB ueber sexuelle Bilder hinaus erweitert wird und ob Art. 17 (Haftung) eine
+    Anspruchsgrundlage erhaelt. Quartalsweise beobachten.
+
+    '
+  quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+  - 30
+- id: tw-ki-basisgesetz-f2
+  datum: 2026-03-23
+  beschreibung: 'Ablauf der Dreimonatsfrist der ersten und zweiten begleitenden Entschliessung (附帶決議)
+    vom 23.12.2025: Der fuer Technologie zustaendige Minister ohne Geschaeftsbereich hatte das Digitalministerium
+    gemeinsam mit NSTC, Bildungs- und Gesundheitsministerium anzuweisen, binnen drei Monaten nach der
+    dritten Lesung eine Kinder- und Jugendfolgenabschaetzung sowie eine Kinderwohl-, Menschenrechts- und
+    Geschlechterfolgenabschaetzung zum KI-Einsatz abzuschliessen und zu veroeffentlichen. Nach dem Bericht
+    des Exekutiv-Yuan vom 21.05.2026 sind die Folgenabschaetzungen vorgelegt worden.
+
+    '
+  typ: einreichung
+  jurisdiktion: tw
+  regelwerk: tw-ki-basisgesetz
+  fundstelle_norm: tw-ki-basisgesetz-art-5-abs-2
+  adressat: 數位發展部 gemeinsam mit NSTC, 教育部 und 衛生福利部
+  handlungsbedarf: null
+  quelle: https://www.ey.gov.tw/Page/9277F759E41CCD91/999df6da-6539-4941-913f-5125d684c58d
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: tw-ki-basisgesetz-f3
+  datum: 2026-06-23
+  beschreibung: 'Ablauf der Sechsmonatsfrist der dritten und fuenften begleitenden Entschliessung: Saemtliche
+    staatlichen Stellen hatten binnen sechs Monaten die Risikobewertung ihrer bestehenden KI-gestuetzten
+    Dienste abzuschliessen (Art. 19 Abs. 1), und das Bildungsministerium hatte binnen sechs Monaten Leitlinien
+    zur KI-Nutzung und zum KI-Lernen fuer Schulen zu veroeffentlichen. Die Schulleitlinie ist am 05.06.2026
+    ergangen (臺教資（一）字第1152701618號函). Der Exekutiv-Yuan hat die Risikobewertungsfrist in seinem Bericht
+    vom 21.05.2026 mit ''bis Juli 2026'' angegeben — die beiden Datumsangaben stehen nebeneinander und
+    werden hier nicht geglaettet.
+
+    '
+  typ: pruefung
+  jurisdiktion: tw
+  regelwerk: tw-ki-basisgesetz
+  fundstelle_norm: tw-ki-basisgesetz-art-19
+  adressat: Alle staatlichen Stellen; 教育部
+  handlungsbedarf: null
+  quelle: https://www.ey.gov.tw/Page/9277F759E41CCD91/999df6da-6539-4941-913f-5125d684c58d
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: tw-ki-basisgesetz-f4
+  datum: 2026-12-23
+  beschreibung: 'Ablauf der Einjahresfrist der dritten begleitenden Entschliessung: Saemtliche staatlichen
+    Stellen haben binnen eines Jahres nach der dritten Lesung Nutzungsvorschriften oder interne Kontrollmechanismen
+    fuer ihren KI-Einsatz einzurichten (Art. 19 Abs. 2). Der Exekutiv-Yuan hat die Frist am 21.05.2026
+    bestaetigt. Vorbild sind die Justizleitlinie des 司法院 vom 22.04.2026 und die Leitlinie des Exekutiv-Yuan
+    vom 31.08.2023.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: tw
+  regelwerk: tw-ki-basisgesetz
+  fundstelle_norm: tw-ki-basisgesetz-art-19
+  adressat: Alle staatlichen Stellen (公務機關（構）)
+  handlungsbedarf: 'Am 06.09.2026 sind nur wenige Ressortleitlinien veroeffentlicht. Anfang Dezember 2026
+    pruefen, welche Ressorts geliefert haben — das ist der beste verfuegbare Indikator dafuer, ob Taiwan
+    die grosse Frist des Art. 18 halten wird.
+
+    '
+  quelle: https://www.ey.gov.tw/Page/9277F759E41CCD91/999df6da-6539-4941-913f-5125d684c58d
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+  - 7
+- id: tw-ki-basisgesetz-f5
+  datum: 2027-05-21
+  beschreibung: 'Faelligkeit der jaehrlichen Sitzung des 國家人工智慧戰略特別委員會 nach Art. 6 Abs. 2 KI-Basisgesetz.
+    Das Komitee wurde am 21.05.2026 vom Premierminister eingesetzt; es hat mindestens einmal jaehrlich
+    zu tagen und dabei die 國家人工智慧發展綱領 zu ueberpruefen. Das Datum ist aus der Konstituierung abgeleitet,
+    nicht amtlich terminiert.
+
+    '
+  typ: pruefung
+  jurisdiktion: tw
+  regelwerk: tw-ki-basisgesetz
+  fundstelle_norm: tw-ki-basisgesetz-art-6
+  adressat: 行政院院長 als Einberufer; Geschaeftsstelle NSTC
+  handlungsbedarf: 'Die erste 國家人工智慧發展綱領 ist am 06.09.2026 noch nicht veroeffentlicht. Sie wird das eigentliche
+    Steuerungsdokument; ihre Verabschiedung ist an eine Komiteesitzung gebunden.
+
+    '
+  quelle: https://www.ey.gov.tw/Page/9277F759E41CCD91/999df6da-6539-4941-913f-5125d684c58d
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 60
+  - 14
+- id: tw-pdpa-f1
+  datum: 2028-01-14
+  beschreibung: 'Das Datenschutzgesetz faellt unter die Zweijahresfrist des Art. 18 Abs. 1 KI-Basisgesetz.
+    Anpassungsbedarf besteht insbesondere fuer Art. 14 KI-Basisgesetz (Datenschutz durch Voreinstellung
+    und Technikgestaltung), fuer den im PDPA bislang fehlenden Schutz gegen automatisierte Einzelentscheidungen
+    und fuer die Rechtsgrundlage der Verarbeitung zu Trainingszwecken. Zusaetzlich ist die bereits am
+    11.11.2025 verkuendete Novelle in Kraft zu setzen, was die Verabschiedung des 個人資料保護委員會組織法 voraussetzt.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: tw
+  regelwerk: tw-pdpa
+  fundstelle_norm: tw-ki-basisgesetz-art-14
+  adressat: 個人資料保護委員會籌備處 / 個人資料保護委員會; 行政院
+  handlungsbedarf: 'Verfolgen, ob das Organisationsgesetz im Legislativ-Yuan verabschiedet wird. Ohne
+    es kann weder die Kommission errichtet noch die Novelle in Kraft gesetzt werden — und ohne beides
+    bleibt Taiwan ohne zentrale Datenschutzaufsicht fuer KI.
+
+    '
+  quelle: https://www.pdpc.gov.tw/News_Content/20/1001/
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+- id: tw-urhg-f1
+  datum: 2028-01-14
+  beschreibung: 'Das Urheberrechtsgesetz faellt unter die Zweijahresfrist des Art. 18 Abs. 1 KI-Basisgesetz.
+    Anknuepfungspunkt im Basisgesetz ist Art. 13 Abs. 2, wonach Training und Ausgabe die kulturelle Vielfalt
+    abbilden und das geistige Eigentum wahren sollen. Zu entscheiden ist, ob Taiwan bei der Fair-Use-Generalklausel
+    des § 65 bleibt oder eine TDM-Schranke nach europaeischem oder japanischem Vorbild einfuehrt. Das
+    TIPO hat bis zum 06.09.2026 keinen Entwurf vorgelegt.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: tw
+  regelwerk: tw-urhg
+  fundstelle_norm: tw-ki-basisgesetz-art-13-abs-2
+  adressat: 經濟部智慧財產局 (TIPO)
+  handlungsbedarf: 'Der interessanteste offene Punkt Taiwans. Ein Vorentwurf wuerde ueber das Rechtsportal
+    des Wirtschaftsministeriums oder die Vorankuendigungsseite des TIPO angekuendigt.
+
+    '
+  quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 180
+  - 90
+- id: tw-fsc-ki-leitlinie-f1
+  datum: 2028-01-14
+  beschreibung: 'Die Finanzaufsicht hat ihre nicht bindende KI-Leitlinie vom 20.06.2024 nach Art. 16 Abs.
+    2 KI-Basisgesetz in eine risikobasierte Verwaltungsvorschrift (管理規範) zu ueberfuehren und die Branche
+    bei eigenen Branchenleitlinien zu unterstuetzen; die Frist ergibt sich aus Art. 18 Abs. 1.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: tw
+  regelwerk: tw-fsc-ki-leitlinie
+  fundstelle_norm: tw-ki-basisgesetz-art-16-abs-2
+  adressat: 金融監督管理委員會 (FSC)
+  handlungsbedarf: null
+  quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: tw-mohw-genai-krankenhaus-f1
+  datum: 2028-01-14
+  beschreibung: 'Das Gesundheitsministerium hat seine Leitlinie vom 29.05.2026 nach Art. 16 Abs. 2 KI-Basisgesetz
+    in eine risikobasierte Verwaltungsvorschrift zu ueberfuehren; ausserdem ist zu klaeren, wie sich generative
+    KI in Gesundheitseinrichtungen zum Medizinprodukterecht (醫療器材管理法) verhaelt.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: tw
+  regelwerk: tw-mohw-genai-krankenhaus
+  fundstelle_norm: tw-ki-basisgesetz-art-16-abs-2
+  adressat: 衛生福利部 (MOHW), 食品藥物管理署 (TFDA)
+  handlungsbedarf: null
+  quelle: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: ar-acuerdo-plenario-5435-2025-f1
+  datum: 2025-04-01
+  beschreibung: Der Superior Tribunal de Justicia del Chubut beschliesst im Acuerdo Plenario 5435/2025
+    in Rawson die "Directivas para el Uso Ético y Responsable de Inteligencia Artificial Generativa en
+    el Poder Judicial de Chubut". Ziffer 2 des Beschlusses bindet ab diesem Tag jeden persönlichen Gebrauch
+    generativer KI durch Angehörige des Poder Judicial bei dienstlichen Aufgaben an die Directivas.
+  typ: anwendungsbeginn
+  jurisdiktion: ar
+  regelwerk: ar-acuerdo-plenario-5435-2025
+  adressat: Alle Angehörigen des Poder Judicial de la Provincia del Chubut einschliesslich der Richterschaft
+  handlungsbedarf: null
+  fundstelle_norm: Ziffer 2 des Acuerdo Plenario N.º 5435/2025 ("ESTABLECER que el uso personal de la
+    IAGen por parte de los integrantes del Poder Judicial de Chubut para el ejercicio de las funciones
+    oficiales deberá ajustarse a estas directivas")
+  quelle: https://apps1cloud.juschubut.gov.ar/Eureka/Acordadas/VistaPublicable?idDocumento=1D426CB2CE9847A80CEC9C55EC12E2A0
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: ar-rionegro-acordada-15-2024-f1
+  datum: 2025-10-01
+  beschreibung: Der Superior Tribunal de Justicia de Río Negro erstreckt mit der Acordada 22/25 das "Protocolo
+    de Buenas Prácticas para el uso de Inteligencia Artificial Generativa" auf externe Verfahrensbeteiligte
+    — Anwältinnen, Anwälte und Sachverständige. Der Tag ist praktisch bedeutsam geworden, weil die Cámara
+    del Trabajo de Viedma am 26.12.2025 von einer Sanktion absah, da das beanstandete Verhalten VOR diesem
+    Datum lag, und zugleich ankündigte, ab jetzt strikt zu sanktionieren.
+  typ: anwendungsbeginn
+  jurisdiktion: ar
+  regelwerk: ar-rionegro-acordada-15-2024
+  adressat: Anwältinnen, Anwälte, Sachverständige und sonstige auxiliares externos der Justiz von Río
+    Negro
+  handlungsbedarf: Genaues Erlassdatum der Acordada 22/25 am amtlichen Text prüfen; der Bestand nennt
+    den 01.10.2025, an amtlicher Quelle bestätigt ist bislang nur die Nummer.
+  fundstelle_norm: Acordada N.º 22/25 des Superior Tribunal de Justicia de Río Negro (Erstreckung der
+    Acordada 15/24 auf auxiliares externos)
+  quelle: https://comunicacionjudicial.jusrionegro.gov.ar/el-stj-llamo-la-atencion-a-una-abogada-por-citas-erroneas-con-ia-en-un-fallo-sobre-salud/
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: ar-chaco-res-stj-961-2025-f1
+  datum: 2025-11-17
+  beschreibung: Geltungsbeginn der "Guía para el Uso de Inteligencia Artificial" des Superior Tribunal
+    de Justicia del Chaco (Resolución STJ 961/2025 vom 14.11.2025). Ab diesem Tag gelten das Delegationsverbot,
+    die Aufsichtspflicht und die Verifikationspflicht für alle KI-Ergebnisse.
+  typ: anwendungsbeginn
+  jurisdiktion: ar
+  regelwerk: ar-chaco-res-stj-961-2025
+  adressat: Poder Judicial de la Provincia del Chaco
+  handlungsbedarf: null
+  fundstelle_norm: Resolución STJ N.º 961/2025 vom 14.11.2025, Geltung ab 17.11.2025
+  quelle: https://www.justiciachaco.gov.ar/
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: ar-scba-reglamento-ia-2026-f1
+  datum: 2026-06-24
+  beschreibung: Beginn der öffentlichen Konsultation der Suprema Corte de Justicia de la Provincia de
+    Buenos Aires zum "Reglamento para el Desarrollo y Uso Responsable de la Inteligencia Artificial".
+    Der Entwurf hat bis zum Abschluss der Konsultation ausdrücklich empfehlenden, nicht bindenden Charakter.
+  typ: konsultation
+  jurisdiktion: ar
+  regelwerk: ar-scba-reglamento-ia-2026
+  adressat: Magistrados, funcionarios, agentes judiciales, colegios profesionales und akademische Einrichtungen
+    der Provinz Buenos Aires
+  handlungsbedarf: null
+  fundstelle_norm: Resolución SC 1.719/26 in Verbindung mit Resolución RP 747/26, ratifiziert durch Resolución
+    SC 2.020/26 (Expte. N.º 3000-21862-2026)
+  quelle: https://www.scba.gov.ar/institucional/nota.asp?id=59397&veradjuntos=no
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: ar-scba-reglamento-ia-2026-f2
+  datum: 2026-08-07
+  beschreibung: Ende der öffentlichen Konsultation zum SCBA-Reglamento über den verantwortlichen KI-Einsatz.
+    Stellungnahmen waren über ein Onlineformular einzureichen. Die Endfassung stand am 06.09.2026 noch
+    aus — damit ist offen, ob die weitreichende Dokumentationspflicht (System, Modell, Anbieter, Zeitpunkt
+    und die konkret KI-erzeugten Textteile) den Konsultationsprozess übersteht.
+  typ: konsultation
+  jurisdiktion: ar
+  regelwerk: ar-scba-reglamento-ia-2026
+  adressat: Suprema Corte de Justicia de la Provincia de Buenos Aires (Auswertung); Einreichende
+  handlungsbedarf: Ab Herbst 2026 beobachten, ob und in welcher Fassung die SCBA das Reglamento endgültig
+    beschliesst.
+  fundstelle_norm: Resolución RP 747/26 (Eröffnung der consulta participativa), ratifiziert durch Resolución
+    SC 2.020/26
+  quelle: https://www.scba.gov.ar/institucional/nota.asp?id=59397&veradjuntos=no
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: ar-pgn-64-2026-f1
+  datum: 2026-09-04
+  beschreibung: Erlass und sofortige verbindliche Anwendung der Resolución PGN 64/2026. Ab diesem Tag
+    gilt für die gesamte Bundesstaatsanwaltschaft das Verbot, reservierte Informationen, Dokumente laufender
+    Verfahren sowie personenbezogene und sensible Daten in öffentlich zugängliche KI-Modelle einzugeben
+    (Art. III).
+  typ: anwendungsbeginn
+  jurisdiktion: ar
+  regelwerk: ar-pgn-64-2026
+  adressat: Alle Angehörigen des Ministerio Público Fiscal de la Nación und seiner Kontrollorgane
+  handlungsbedarf: null
+  fundstelle_norm: Art. II und III der Resolución PGN N.º 64/2026
+  quelle: https://www.fiscales.gob.ar/wp-content/uploads/2026/09/PGN-0064-2026-001.pdf
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: ar-proyectos-ia-congreso-f1
+  datum: 2026-02-28
+  beschreibung: Ablauf der Frist des Art. 1 Ley 13.640 für die im Jahr 2024 in der Cámara de Diputados
+    eingebrachten KI-Gesetzentwürfe. Ein Entwurf, der weder im Jahr seiner Einbringung noch im Folgejahr
+    die Zustimmung einer Kammer erhält, gilt als verfallen (caduco). Betroffen sind unter anderem die
+    Expedientes 4079-D-2024 (Giudici), 3955-D-2024, 3900-D-2024, 3003-D-2024 und 1013-D-2024. Damit ist
+    Argentinien nach zwei Jahren Gesetzgebungsanläufen wieder ohne anhängigen KI-Rahmenentwurf aus 2024.
+  typ: sonstiges
+  jurisdiktion: ar
+  regelwerk: ar-proyectos-ia-congreso
+  adressat: Honorable Cámara de Diputados de la Nación
+  handlungsbedarf: Prüfen, welche Entwürfe erneut eingebracht (reproducidos) worden sind; die Wiedereinbringung
+    ist in Argentinien die Regel, nicht die Ausnahme.
+  fundstelle_norm: Art. 1 Ley 13.640 ("Todo proyecto de ley ... que no obtenga sanción en una de sus Cámaras
+    durante el año parlamentario en que tuvo entrada en el cuerpo o en el siguiente, se tendrá por caducado")
+  quelle: https://www3.hcdn.gob.ar/dependencias/secparl/dgral_info_parlamentaria/dip/archivos/Ley_13640_TA.pdf
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage: []
+- id: ar-proyectos-ia-congreso-f2
+  datum: 2027-02-28
+  beschreibung: 'Nächster Verfallstermin nach Art. 1 Ley 13.640 — betroffen sind die 2025 eingebrachten
+    KI-Entwürfe, darunter der Gesichtserkennungsentwurf 4420-D-2025 und die Deepfake-Entwürfe. Für die
+    Beobachtung des argentinischen Gesetzgebungsverfahrens ist dieser Termin der eigentliche Taktgeber:
+    Argentinien scheitert an KI-Gesetzen nicht durch Ablehnung, sondern durch Fristablauf.'
+  typ: sonstiges
+  jurisdiktion: ar
+  regelwerk: ar-proyectos-ia-congreso
+  adressat: Honorable Cámara de Diputados de la Nación
+  handlungsbedarf: Im Februar 2027 prüfen, welche KI-Entwürfe verfallen sind.
+  fundstelle_norm: Art. 1 Ley 13.640
+  quelle: https://www3.hcdn.gob.ar/dependencias/secparl/dgral_info_parlamentaria/dip/archivos/Ley_13640_TA.pdf
+  verifiziert: false
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30

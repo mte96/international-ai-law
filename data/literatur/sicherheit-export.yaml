@@ -1,0 +1,786 @@
+literatur:
+- id: 2024-kapoor-open-foundation-models
+  typ: aufsatz
+  autoren:
+  - Kapoor, Sayash
+  - Bommasani, Rishi
+  - Klyman, Kevin
+  - Longpre, Shayne
+  - Ramaswami, Ashwin
+  - Cihon, Peter
+  - Biderman, Stella
+  - Bogen, Miranda
+  - Ho, Daniel E.
+  - Liang, Percy
+  - Narayanan, Arvind
+  titel: On the Societal Impact of Open Foundation Models
+  fundstelle: ICML 2024; arXiv:2403.07918, 27.02.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2403.07918
+  url: https://arxiv.org/abs/2403.07918
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - gpai
+  - governance
+  - marktzugang
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - us-eo-14110
+  - us-ai-action-plan
+  kernthese: Maßgeblich ist nicht das absolute Risiko offener Modelle, sondern ihr Grenzrisiko gegenüber
+    bestehenden Technologien; nach diesem Maßstab ist der Nachweis erhöhter Gefahr für Cyberangriffe,
+    Desinformation und Biowaffen bislang nicht geführt.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die Beweislast in der gesamten Debatte über offene Modellgewichte umgedreht
+    hat, und deshalb Pflicht: Vor ihm wurde über die Gefährlichkeit offener Modelle spekuliert, nach ihm
+    muss belegt werden, dass sie gefährlicher sind als das, was ohnehin verfügbar ist. Der Rahmen aus
+    sechs Schritten — Bedrohungsermittlung, bestehendes Risiko, Grenzrisiko, Verteidigungskosten, Unsicherheit,
+    Abwägung — ist die einzige verfügbare Methodik, mit der sich Schwellenwerte begründen ließen, und
+    er wird von der NTIA-Untersuchung, vom AI Action Plan und mittelbar von der Systemrisiko-Systematik
+    der KI-VO aufgenommen. Für die europäische Arbeit ist er das wichtigste Gegengewicht zur Ausnahmesystematik
+    des Art. 53 Abs. 2 und des Art. 54 Abs. 6 KI-VO, die offene Modelle privilegieren, ohne die Privilegierung
+    zu begründen — Kapoor u.a. liefern die fehlende Begründung, aber mit einer Einschränkung, die in Brüssel
+    gern übersehen wird: Der Befund gilt für die untersuchte Modellgeneration und ist ausdrücklich nicht
+    in die Zukunft fortgeschrieben. Angreifbar ist die Marginalrisiko-Logik selbst: Sie bewertet jede
+    Fähigkeitsstufe gegen den Status quo und kann deshalb eine schrittweise Verschlechterung nie als Sprung
+    erfassen — der Frosch-im-Wasser-Einwand, den Seger u.a. erheben. Wer eine der beiden Seiten zitiert,
+    sollte die andere kennen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-2
+  - ki-vo-art-54-abs-6
+- id: 2023-seger-open-sourcing-highly-capable
+  typ: bericht
+  autoren:
+  - Seger, Elizabeth
+  - Dreksler, Noemi
+  - Moulange, Richard
+  - Dardaman, Emily
+  - Schütt, Jonas
+  - Wei, K.
+  - Winter, Christoph
+  - Arnold, Mackenzie
+  - Anderljung, Markus
+  titel: 'Open-Sourcing Highly Capable Foundation Models: An Evaluation of Risks, Benefits, and Alternative
+    Methods for Pursuing Open-Source Objectives'
+  fundstelle: Centre for the Governance of AI (GovAI), 29.09.2023; arXiv:2311.09227
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2311.09227
+  url: https://arxiv.org/abs/2311.09227
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - uk
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - gpai
+  - governance
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Bei künftigen, besonders leistungsfähigen Modellen können die Risiken der Veröffentlichung
+    der Gewichte so groß sein, dass die Ziele quelloffener Entwicklung auf anderen Wegen — gestufter Zugang,
+    strukturierter Forschungszugang, Auditrechte — verfolgt werden sollten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Gegenposition zu Kapoor u.a. und der Text, der die Alternativen ausbuchstabiert,
+    statt nur zu warnen — das unterscheidet ihn von der übrigen Sicherheitsliteratur. Der belastbarste
+    Teil ist die Unumkehrbarkeit: Veröffentlichte Gewichte lassen sich nicht zurückholen, und Sicherheitsvorkehrungen
+    im Modell lassen sich mit geringem Rechenaufwand entfernen; das ist der Punkt, an dem die Marginalrisiko-Logik
+    strukturell versagt, weil sie Zeitpunktbetrachtungen anstellt. Für die KI-VO ist die Arbeit einschlägig,
+    weil sie die Ausnahme für freie und quelloffene Modelle in Art. 53 Abs. 2 KI-VO problematisiert, bevor
+    es sie gab. Angreifbar ist die Interessenlage — GovAI steht der Sicherheitsforschung nahe, mehrere
+    Verfasser sind bei Anbietern geschlossener Modelle tätig oder waren es —, und die Empfehlungen privilegieren
+    im Ergebnis das Geschäftsmodell, dem sie nahestehen. Das entwertet die Argumente nicht, verlangt aber
+    Offenlegung beim Zitieren.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-53-abs-2
+- id: 2024-sastry-computing-power-governance
+  typ: working-paper
+  autoren:
+  - Sastry, Girish
+  - Heim, Lennart
+  - Belfield, Haydn
+  - Anderljung, Markus
+  - Brundage, Miles
+  - Hazell, Julian
+  - O'Keefe, Cullen
+  - Hadfield, Gillian K.
+  - Trager, Robert F.
+  - Bengio, Yoshua
+  - Coyle, Diane
+  titel: Computing Power and the Governance of Artificial Intelligence
+  fundstelle: arXiv:2402.08797, 13.02.2024 (GovAI, Oxford Martin School, Cambridge u.a.)
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2402.08797
+  url: https://arxiv.org/abs/2402.08797
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - uk
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  - wettbewerb
+  bezug_regelwerke:
+  - us-bis-chip-lizenzpolitik-2026
+  - us-chip-security-act
+  - us-gain-ai-act
+  - ki-vo-2024-1689
+  kernthese: Rechenleistung ist wegen ihrer Erkennbarkeit, Ausschliessbarkeit, Quantifizierbarkeit und
+    der Konzentration ihrer Lieferkette der wirksamste Ansatzpunkt staatlicher KI-Regulierung, birgt aber
+    Risiken für Privatheit, Wettbewerb und Machtkonzentration.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Referenztext der Compute Governance und die theoretische Grundlage sowohl der
+    amerikanischen Exportkontrollpolitik als auch der 10^25-FLOP-Schwelle des Art. 51 KI-VO. Wer Exportkontrolle,
+    Meldepflichten oder Rechenzentrumsauflagen bewerten will, braucht die vier Eigenschaften als Prüfraster.
+    Bemerkenswert ist die Selbstkritik: Die Verfasser — größtenteils Befürworter — benennen die Kehrseite
+    ausdrücklich, nämlich dass eine Infrastruktur zur Überwachung von Rechenleistung zugleich eine Infrastruktur
+    zur Überwachung von Berechnungen ist und Marktkonzentration begünstigt. Diese Passage wird in der
+    Rezeption fast durchgängig ausgelassen und ist der juristisch interessanteste Teil, weil sie die Grundrechtsfrage
+    aufwirft, die weder die KI-VO noch die amerikanischen Regelungen behandeln. Angreifbar ist die Kernprämisse
+    — die Kopplung von Rechenleistung an Fähigkeit —, gegen die Hooker 2024 argumentiert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51
+- id: 2024-hooker-limitations-compute-thresholds
+  typ: working-paper
+  autoren:
+  - Hooker, Sara
+  titel: On the Limitations of Compute Thresholds as a Governance Strategy
+  fundstelle: arXiv:2407.05694, 08.07.2024 (Fassung vom 30.07.2024)
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2407.05694
+  url: https://arxiv.org/abs/2407.05694
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - us-eo-14110
+  kernthese: Rechenleistungsschwellen sind als Regulierungsinstrument untauglich, weil das Verhältnis
+    von Rechenaufwand und Risiko hochgradig unsicher und schnell veränderlich ist und Effizienzgewinne
+    die Schwellen fortlaufend entwerten.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die maßgebliche Gegenposition zu Sastry u.a. und zugleich die schärfste verfügbare
+    Kritik an Art. 51 KI-VO und der inzwischen aufgehobenen amerikanischen Schwelle aus EO 14110. Hookers
+    Argument ist technisch und deshalb schwer zu entkräften: Bei gleichbleibendem Rechenaufwand steigt
+    die Fähigkeit durch Architektur-, Daten- und Inferenzverbesserungen; ein fester Schwellenwert erfasst
+    damit im Zeitverlauf immer schwächere Modelle als "systemisch riskant" und immer stärkere gar nicht.
+    Die Reasoning-Modelle, die Rechenleistung von der Trainings- in die Inferenzphase verlagern, haben
+    ihr nachträglich recht gegeben — die Schwelle des Art. 51 KI-VO misst eine Größe, die für die Fähigkeit
+    nicht mehr allein maßgeblich ist. Angreifbar ist die Konsequenz: Hooker benennt kein Instrument, das
+    die Vorzüge der Schwelle — Rechtssicherheit, Messbarkeit, Ex-ante-Anwendbarkeit — ersetzt; Fähigkeitsbewertungen
+    sind teurer, langsamer und manipulierbar. Wer die Kritik übernimmt, muss diese Lücke füllen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51
+- id: 2024-heim-governing-through-the-cloud
+  typ: working-paper
+  autoren:
+  - Heim, Lennart
+  - Fist, Tim
+  - Egan, Janet
+  - Huang, Sihao
+  - Zekany, Stephen
+  - Trager, Robert
+  - Osborne, Michael A.
+  - Zilberman, Noa
+  titel: 'Governing Through the Cloud: The Intermediary Role of Compute Providers in AI Regulation'
+  fundstelle: arXiv:2403.08501, 13.03.2024 (GovAI, CNAS, Oxford)
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2403.08501
+  url: https://arxiv.org/abs/2403.08501
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - uk
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - us-bis-chip-lizenzpolitik-2026
+  - us-eo-14110
+  kernthese: Cloud-Anbieter sind der wirksamste regulatorische Intermediär, weil sie Sicherung, Aufzeichnung,
+    Verifikation und Durchsetzung an einem Punkt der Wertschöpfungskette bündeln können, an dem der Staat
+    ohnehin Zugriff hat.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die praktische Fortsetzung von Sastry u.a. und der Text, der die Know-Your-Customer-Pflichten
+    für Rechenanbieter begründet, die inzwischen in amerikanischen Regelungen auftauchen. Für die europäische
+    Diskussion ist die Frage offen und drängend, weil die KI-VO Rechenanbieter gar nicht adressiert: Sie
+    kennt Anbieter, Betreiber, Importeure und Händler, aber keine Infrastruktur. Wer nach der Lücke im
+    europäischen Rechtsrahmen sucht, findet sie hier. Angreifbar ist die Delegationsstruktur: Die Verfasser
+    übertragen hoheitliche Kontrollaufgaben an Private, ohne die grundrechtliche Bindung zu klären — im
+    deutschen Recht die Frage der Beleihung, im Unionsrecht die der Grundrechtsbindung Privater. Diese
+    Frage stellen sie nicht.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-anderljung-frontier-ai-regulation
+  typ: working-paper
+  autoren:
+  - Anderljung, Markus
+  - Barnhart, Joslyn
+  - Korinek, Anton
+  - Leung, Jade
+  - O'Keefe, Cullen
+  - Whittlestone, Jess
+  titel: 'Frontier AI Regulation: Managing Emerging Risks to Public Safety'
+  fundstelle: arXiv:2307.03718, 06.07.2023 (Fassung vom 07.11.2023); insgesamt 14 Verfasser
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2307.03718
+  url: https://arxiv.org/abs/2307.03718
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - uk
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  - marktzugang
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - us-eo-14110
+  - gpai-code-of-practice
+  kernthese: Für besonders leistungsfähige Modelle braucht es einen eigenen Regulierungspfad aus Standardsetzung,
+    Registrierungs- und Meldepflichten sowie Ex-ante-Risikobewertung und externer Prüfung, weil ihre gefährlichen
+    Fähigkeiten vor der Verbreitung nicht zuverlässig bekannt sind.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, aus dem die Systematik der Frontier-Regulierung stammt — Kapitel V der
+    KI-VO, die britische AI Safety Institute-Architektur, die amerikanischen Meldepflichten —, und die
+    Quelle des Begriffs "frontier AI" selbst. Für die juristische Arbeit ist das Dreiproblem-Raster maßgeblich
+    (unerwartete Fähigkeiten, schwere Missbrauchbarkeit, schnelle Verbreitung); es erklärt, warum die
+    KI-VO bei GPAI von der Produktsicherheitslogik abweicht. Angreifbar ist die institutionelle Herkunft:
+    Die Verfasserliste umfasst Beschäftigte von OpenAI, DeepMind und Anthropic; der Vorschlag begünstigt
+    Marktteilnehmer, die Compliance-Kosten tragen können, und die Kritik der Regulatory Capture ist gegen
+    diesen Text erhoben worden, seit es ihn gibt. Außerdem setzt der Ansatz voraus, dass sich gefährliche
+    Fähigkeiten vor der Freigabe messen lassen — genau das bestreiten die Evaluationsskeptiker. Gegenposition:
+    Narayanan/Kapoor 2025.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-51
+  - ki-vo-art-53
+- id: 2025-narayanan-kapoor-ai-normal-technology
+  typ: aufsatz
+  autoren:
+  - Narayanan, Arvind
+  - Kapoor, Sayash
+  titel: 'AI as Normal Technology: An Alternative to the Vision of AI as a Potential Superintelligence'
+  fundstelle: Knight First Amendment Institute at Columbia University, 15.04.2025
+  jahr: 2025
+  sprache: en
+  url: https://knightcolumbia.org/content/ai-as-normal-technology
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - grundrechte
+  - marktzugang
+  kernthese: 'KI ist als normale Technologie zu behandeln — wie Elektrizität oder das Internet —, weshalb
+    Nichtverbreitungsansätze abzulehnen sind: Sie konzentrieren Macht, schwächen die Widerstandsfähigkeit
+    und adressieren spekulative statt reale Risiken.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die grundsätzlichste Gegenposition dieser Akte und der Text, der die gesamte Compute-Governance-Literatur
+    an der Wurzel angreift: Nicht die Instrumente seien falsch, sondern das Bedrohungsmodell. Für die
+    juristische Arbeit sind zwei Argumente unmittelbar verwertbar. Erstens die Diffusionsschranke: Zwischen
+    Fähigkeit und wirtschaftlicher Wirkung liegen Jahrzehnte, weil Anwendung und Übernahme langsamer sind
+    als Methodenfortschritt — das entwertet die Dringlichkeitsprämisse, auf der Ex-ante-Regulierung beruht.
+    Zweitens die Machtkonzentration: Nichtverbreitungsregime schaffen ein Oligopol und schwächen genau
+    die Verteidiger, die Zugang zu leistungsfähigen Werkzeugen brauchen. Das ist auch das stärkste Argument
+    gegen Exportkontrolle, das nicht aus der Industrie kommt. Angreifbar ist die Behandlung der katastrophalen
+    Risiken als "spekulativ": Die Verfasser begründen das mit epistemischer Unsicherheit, was symmetrisch
+    auch gegen ihre eigene Entwarnung spricht. Wer Anderljung u.a. zitiert, muss diesen Text kennen und
+    umgekehrt.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-nevo-securing-ai-model-weights
+  typ: bericht
+  autoren:
+  - Nevo, Sella
+  - Lahav, Dan
+  - Karpur, Ajay
+  - Bar-On, Yogev
+  - Bradley, Henry Alexander
+  - Alstott, Jeff
+  titel: 'Securing AI Model Weights: Preventing Theft and Misuse of Frontier Models'
+  fundstelle: RAND Corporation, RR-A2849-1, Santa Monica 2024
+  jahr: 2024
+  sprache: en
+  url: https://www.rand.org/pubs/research_reports/RRA2849-1.html
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  bezug_streitstaende:
+  - modellgewichte-kopie
+  bezug_regelwerke:
+  - us-caisi
+  - us-chip-security-act
+  - cyber-resilience-act-2024-2847
+  kernthese: Modellgewichte sind gegen 38 identifizierte Angriffsvektoren zu sichern; die nötigen Schutzniveaus
+    reichen von einfachem Zugriffsschutz bis zu Maßnahmen gegen staatliche Angreifer, die derzeit kein
+    Anbieter erreicht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die technische Grundlage der Sicherheitsanforderungen an Modellgewichte und der Text,
+    aus dem die fünfstufige Sicherheitsniveau-Systematik stammt, die inzwischen in Anbieter-Rahmenwerken
+    und in amerikanischen Verwaltungsvorgaben auftaucht. Für diese Akte ist er doppelt einschlägig: Er
+    beschreibt Modellgewichte als Rechtsgut, das entwendet werden kann — was die Prämisse des Streitstands
+    `modellgewichte-kopie` ist —, und er liefert zugleich den Maßstab, an dem sich die Frage messen lässt,
+    ob ein Modell, aus dem sich Trainingsdaten extrahieren lassen, überhaupt "gesichert" ist. Angreifbar
+    ist der Zuschnitt auf staatliche Angreifer: Das höchste Sicherheitsniveau ist nach eigener Aussage
+    von niemandem erreichbar, was den Maßstab für die Rechtsanwendung entwertet. Für europäische Zwecke
+    fehlt der Bezug zu Art. 15 KI-VO (Genauigkeit, Robustheit, Cybersicherheit) und zum Cyber Resilience
+    Act — diese Verknüpfung ist offen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-15
+  - cal-bpc-22757-12
+- id: 2024-mouton-rand-biologische-red-team-studie
+  typ: bericht
+  autoren:
+  - Mouton, Christopher A.
+  - Lucas, Caleb
+  - Guest, Ella
+  titel: 'The Operational Risks of AI in Large-Scale Biological Attacks: Results of a Red-Team Study'
+  fundstelle: RAND Corporation, RR-A2977-2, Santa Monica 2024
+  jahr: 2024
+  sprache: en
+  url: https://www.rand.org/pubs/research_reports/RRA2977-2.html
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  kernthese: In einer kontrollierten Red-Team-Studie unterschieden sich Angriffsplanungen mit und ohne
+    Zugang zu großen Sprachmodellen nicht statistisch signifikant; die Planung biologischer Angriffe liegt
+    jenseits der Fähigkeitsgrenze heutiger Modelle.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die wichtigste empirische Gegenposition zur Biosicherheitsbegründung der Frontier-Regulierung
+    und der einzige kontrollierte Versuch dieser Art. Sie ist in der politischen Debatte konsequent unterschlagen
+    worden, weil sie das plausibelste Katastrophenszenario entkräftet. Wichtig ist die zeitliche Bindung:
+    Gemessen wurde die Modellgeneration von 2023; die Verfasser sagen ausdrücklich, dass der Befund nicht
+    fortschreibbar ist, und spätere Herstellerbewertungen kommen für neuere Modelle zu anderen Ergebnissen.
+    Wer die Studie gegen die heutige Regulierung wendet, überdehnt sie; wer sie ignoriert, argumentiert
+    ohne Empirie. Methodisch angreifbar ist die Aussagekraft des Nullbefunds: Die Stichprobe ist klein,
+    und ein nicht signifikanter Unterschied ist kein Nachweis der Gleichheit.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-sandbrink-biological-misuse
+  typ: working-paper
+  autoren:
+  - Sandbrink, Jonas B.
+  titel: 'Artificial Intelligence and Biological Misuse: Differentiating Risks of Language Models and
+    Biological Design Tools'
+  fundstelle: arXiv:2306.13952, 24.06.2023 (Fassung vom 23.12.2023)
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2306.13952
+  url: https://arxiv.org/abs/2306.13952
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - uk
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - sektor-medizin
+  kernthese: Sprachmodelle und biologische Entwurfswerkzeuge erzeugen verschiedene Risiken — erstere senken
+    die Schwelle für Laien, letztere erweitern die Fähigkeiten von Fachleuten — und verlangen deshalb
+    getrennte Regulierungsansätze.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die begriffliche Ordnung, die in der Dual-Use-Diskussion meist fehlt, und der Grund,
+    warum pauschale Aussagen über "KI und Biowaffen" unbrauchbar sind: Die RAND-Studie misst die eine
+    Kategorie und sagt über die andere nichts. Sandbrinks Unterscheidung ist auch regulatorisch folgenreich,
+    weil biologische Entwurfswerkzeuge weder von der KI-VO noch von den amerikanischen Schwellenwerten
+    erfasst werden — sie sind klein, spezialisiert und rechenarm. Das ist die größte unbeachtete Lücke
+    der geltenden Regulierung und eine Publikationsmöglichkeit. Angreifbar ist die Risikoeinschätzung
+    selbst, die auf Plausibilität und nicht auf Messung beruht.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-fist-grunewald-chip-schmuggel
+  typ: bericht
+  autoren:
+  - Fist, Tim
+  - Grunewald, Erich
+  titel: 'Preventing AI Chip Smuggling to China: A Working Paper'
+  fundstelle: Center for a New American Security (CNAS), Washington D.C., 24.10.2023
+  jahr: 2023
+  sprache: en
+  url: https://www.cnas.org/publications/reports/preventing-ai-chip-smuggling-to-china
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - cn
+  themenachsen:
+  - sicherheit-export
+  - wettbewerb
+  - governance
+  bezug_regelwerke:
+  - us-bis-chip-lizenzpolitik-2026
+  - us-chip-security-act
+  - us-gain-ai-act
+  kernthese: Der Schmuggel kontrollierter KI-Chipsätze erreicht bereits Größenordnungen im hohen Hunderter-
+    bis niedrigen Tausenderbereich jährlich und ließe sich durch ein Chipregister mit Stichprobenprüfung,
+    Endverwenderkontrollen und internationale Koordination zu überschaubaren Kosten eindämmen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Arbeit, aus der die Durchsetzungsvorschläge stammen, die seither in amerikanischen
+    Gesetzentwürfen auftauchen (Chip Security Act, Standortverifikation), und die einzige, die die Kosten
+    beziffert — rund 57 Millionen Dollar jährlich, was gemessen am Regelungsziel wenig ist und die politische
+    Untätigkeit erklärungsbedürftig macht. Für die europäische Arbeit ist der Text der Beleg dafür, dass
+    Exportkontrolle ein Vollzugs- und kein Normierungsproblem ist — eine Einsicht, die auf die Dual-Use-Verordnung
+    2021/821 übertragbar ist. Angreifbar sind die Mengenschätzungen, die auf Indizien beruhen (Preisdifferenzen,
+    Zollstatistiken, Presseberichte), und die implizite Annahme, dass sich der Nachfragedruck durch Kontrolle
+    mindern lässt statt nur zu verlagern — Narayanan/Kapoor bestreiten genau das.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-aarne-fist-withers-secure-governable-chips
+  typ: bericht
+  autoren:
+  - Aarne, Onni
+  - Fist, Tim
+  - Withers, Caleb
+  titel: 'Secure, Governable Chips: Using On-Chip Mechanisms to Manage National Security Risks from AI
+    & Advanced Computing'
+  fundstelle: Center for a New American Security (CNAS), Washington D.C., 08.01.2024
+  jahr: 2024
+  sprache: en
+  url: https://www.cnas.org/publications/reports/secure-governable-chips
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - marktzugang
+  bezug_regelwerke:
+  - us-chip-security-act
+  - us-bis-chip-lizenzpolitik-2026
+  kernthese: Statt breiter Exportverbote sollten Sicherheitsmodule auf den Chips selbst hardwaregestützte
+    Betriebslizenzen, Fernattestierung und datenschutzwahrende Nutzungsverifikation ermöglichen, weil
+    die nötige Funktionalität bereits verbaut ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der technisch konkreteste Vorschlag der Exportkontrolldebatte und derjenige, der
+    die grundrechtlich heikelste Frage aufwirft: Ein Chip, der seine Betriebserlaubnis von einer Firmware-Lizenz
+    abhängig macht und Nutzung fernattestiert, ist eine Überwachungsinfrastruktur in jedem Rechenzentrum
+    der Welt — einschließlich europäischer. Die Verfasser behandeln das als Datenschutzdetail (Trusted
+    Execution Environments), was es nicht ist: Es geht um staatlichen Fernzugriff auf Betriebsdaten privater
+    Anlagen in fremden Hoheitsgebieten. Für die europäische Souveränitätsdebatte ist das der konkreteste
+    Anlass, und ich sehe dazu keine Literatur — dort liegt eine Publikationsmöglichkeit. Angreifbar ist
+    die Machbarkeitsbehauptung: Dass vergleichbare Module bei Apple, Intel und Nvidia verbaut sind, belegt
+    nicht, dass sie manipulationssicher gegen einen staatlich unterstützten Angreifer sind, der die Hardware
+    physisch besitzt.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-manning-export-controls-promotion
+  typ: bericht
+  autoren:
+  - Manning, Sam
+  titel: Export Controls and Export Promotion
+  fundstelle: Centre for the Governance of AI (GovAI), 13.06.2025
+  jahr: 2025
+  sprache: en
+  url: https://www.governance.ai/research-paper/export-controls-and-export-promotion
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sicherheit-export
+  - wettbewerb
+  - marktzugang
+  bezug_regelwerke:
+  - us-ai-action-plan
+  - us-bis-chip-lizenzpolitik-2026
+  - us-gain-ai-act
+  kernthese: Exportbeschränkungen allein reichen nicht; die amerikanische Strategie muss sie mit aktiver
+    Exportförderung verbinden, damit amerikanische KI-Infrastruktur zum Standard in Drittmärkten wird.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als Beleg für die Wende der amerikanischen Debatte von der Beschränkung
+    zur Verbreitung, die 2025 politisch vollzogen wurde (Rücknahme der Diffusionsregel, AI Action Plan).
+    Für europäische Leser ist der Text unangenehm aufschlussreich, weil Europa in ihm als Absatzmarkt
+    und nicht als Akteur vorkommt — das ist die strategische Ausgangslage, vor der die Souveränitätsdiskussion
+    geführt wird. Als Analyse dünn, als Positionsbestimmung nützlich.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-reuel-open-problems-technical-governance
+  typ: working-paper
+  autoren:
+  - Reül, Anka
+  - Bucknall, Ben
+  - Casper, Stephen
+  - Fist, Tim
+  - Soder, Lisa
+  titel: Open Problems in Technical AI Governance
+  fundstelle: arXiv:2407.14981, 20.07.2024 (Fassung vom 16.04.2025); insgesamt 29 Verfasser
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2407.14981
+  url: https://arxiv.org/abs/2407.14981
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - uk
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  - content
+  kernthese: Technische Werkzeuge können Governance an drei Stellen stützen — Identifikation des Regelungsbedarfs,
+    Bewertung von Maßnahmen, Durchsetzung —, und für jede dieser Stellen bestehen benennbare, ungelöste
+    technische Probleme.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als Landkarte: Wer wissen will, welche Rechtspflicht technisch noch gar
+    nicht erfüllbar ist — Herkunftsnachweis, Fähigkeitsbewertung, Rechenleistungsverifikation, Datenherkunft
+    —, findet hier die vollständigste Übersicht mit Belegen. Für die Auslegung unbestimmter Rechtsbegriffe
+    der KI-VO ("Stand der Technik", "angemessene Maßnahmen") ist das unmittelbar verwertbar. Als Argumentationsquelle
+    untauglich, weil bewusst neutral gehalten.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-bsi-generative-ki-chancen-risiken
+  typ: bericht
+  autoren:
+  - Bundesamt für Sicherheit in der Informationstechnik
+  titel: Generative KI-Modelle — Chancen und Risiken für Industrie und Behörden
+  fundstelle: BSI, Bonn 2024
+  jahr: 2024
+  sprache: de
+  url: https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/kuenstliche-intelligenz_node.html
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sicherheit-export
+  - governance
+  - gpai
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - cyber-resilience-act-2024-2847
+  kernthese: Große Sprachmodelle und generative Bildsysteme erzeugen spezifische Sicherheitsrisiken —
+    Prompt Injection, Datenabfluss, Modellmanipulation —, denen Behörden und Unternehmen mit konkreten
+    technischen und organisatorischen Maßnahmen begegnen müssen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die BSI-Themenseite belegt; der Volltext des PDF wurde nicht gelesen, die Themenseite
+    selbst schon. Der juristische Wert liegt in der Konkretisierung des Art. 15 KI-VO (Genauigkeit, Robustheit,
+    Cybersicherheit) und des Standes der Technik nach Art. 32 DSGVO: Wer eine Sorgfaltspflichtverletzung
+    darlegen oder abwehren will, braucht einen Maßstab, und in Deutschland ist das faktisch das BSI-Material
+    — einschließlich der Kriterienkataloge AIC4, A5 und QUAIDAL. Das ist kein Rechtsdokument, aber es
+    wird in Haftungsprozessen wie eines wirken. Die BSI-Publikationen sind vollständig frei und in der
+    juristischen Literatur unterzitiert.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-15
+  - dsgvo-art-32
+- id: 2025-bsi-evasion-attacks-llm
+  typ: bericht
+  autoren:
+  - Bundesamt für Sicherheit in der Informationstechnik
+  titel: Evasion Attacks gegen große Sprachmodelle — praktische Gegenmaßnahmen und Härtungs-Checkliste
+  fundstelle: BSI, Bonn 2025
+  jahr: 2025
+  sprache: de
+  url: https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/kuenstliche-intelligenz_node.html
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - sicherheit-export
+  - gpai
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - cyber-resilience-act-2024-2847
+  kernthese: Angriffe zur Umgehung der Sicherheitsmechanismen von Sprachmodellen lassen sich durch eine
+    benannte Reihe technischer Härtungsmaßnahmen erschweren, aber nicht ausschließen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die BSI-Themenseite belegt, Volltext nicht gelesen. Erfasst wegen der Härtungs-Checkliste,
+    die im Haftungsprozess als Beleg für den Stand der Technik dienen kann, und weil das BSI mit der Aussage
+    "erschweren, nicht ausschließen" indirekt die Frage beantwortet, ob ein unumgehbares Sicherheitsniveau
+    geschuldet werden kann. Es kann nicht. Das ist für die Produkthaftung nach der neuen PLD relevant.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-15
+  - pld-art-7
+- id: 2021-porcelli-armas-autonomas
+  typ: aufsatz
+  autoren:
+  - Porcelli, Adriana Margarita
+  titel: La inteligencia artificial aplicada a la robótica en los conflictos armados. Debates sobre los
+    sistemas de armas letales autónomas y la (in)suficiencia de los estándares del derecho internacional
+    humanitario
+  titel_deutsch: Künstliche Intelligenz in der Robotik bewaffneter Konflikte. Debatten über letale autonome
+    Waffensysteme und die (Un-)Zulänglichkeit des humanitären Völkerrechts
+  fundstelle: Estudios Socio-Jurídicos 23 (2021), Nr. 1
+  jahr: 2021
+  sprache: es
+  url: https://revistas.urosario.edu.co/index.php/sociojuridicos/article/view/9269
+  doi: 10.12804/revistas.urosario.edu.co/sociojuridicos/a.9269
+  zugang: open-access
+  jurisdiktionen:
+  - ar
+  - intl
+  themenachsen:
+  - sicherheit-export
+  - grundrechte
+  kernthese: 'Das geltende humanitäre Völkerrecht reicht für letale autonome Waffensysteme nicht aus;
+    die Unterscheidungs- und Verhältnismässigkeitsgebote lassen sich nicht in Zielalgorithmen übersetzen.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Die argentinische Autorin (Universidad Nacional de Luján) publiziert in einer kolumbianischen
+    Zeitschrift — für die lateinamerikanische Wissenschaftslandschaft typisch und bei der Zuordnung zu
+    beachten. Inhaltlich eine gründliche, aber nicht originelle Bestandsaufnahme der LAWS-Debatte: Martens''sche
+    Klausel, Art. 36 ZP I, meaningful human control, die Positionen der CCW-Expertengruppe. Wer die Debatte
+    kennt, lernt nichts Neues. Ich nehme den Text auf, weil er der einzige belastbare lateinamerikanische
+    Beitrag zur Achse sicherheit-export ist und weil Lateinamerika in der CCW-Gruppe (mit Argentinien,
+    Brasilien, Chile und Mexiko in der Gruppe der Befürworter eines verbindlichen Instruments) eine geschlossene
+    Position vertritt, die man dokumentiert haben will. Über 2.200 Abrufe — für eine lateinamerikanische
+    Rechtszeitschrift viel.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-viveros-responsabilidad-internacional
+  typ: aufsatz
+  autoren:
+  - Viveros-Álvarez, Jimena Sofía
+  titel: La inteligencia artificial y la responsabilidad internacional de los estados
+  titel_deutsch: Künstliche Intelligenz und die völkerrechtliche Verantwortlichkeit der Staaten
+  fundstelle: Estudios en Derecho a la Información 14 (2022), Nr. 1, 83–105
+  jahr: 2022
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-informacion/article/view/16894
+  doi: 10.22201/iij.25940082e.2022.14.16894
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  - intl
+  themenachsen:
+  - sicherheit-export
+  - haftung
+  - grundrechte
+  kernthese: 'Autonome Waffensysteme erzeugen eine Verantwortungslücke, weil sich die Zurechnung zu einer
+    natürlichen Person und damit zum Staat nicht mehr herstellen lässt; die Artikel der ILC zur Staatenverantwortlichkeit
+    lassen sich aber ohne Neuregelung anwenden.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Die Autorin ist inzwischen Mitglied des wissenschaftlichen Beirats des UN-Generalsekretärs
+    zu künstlicher Intelligenz — das erhöht das Gewicht des Textes über seinen Inhalt hinaus. Die Leistung
+    liegt darin, dass Viveros-Álvarez die Verantwortungslücke nicht beklagt, sondern mit dem vorhandenen
+    Instrumentarium schliesst: über die Zurechnungsregeln der ILC-Artikel und die Sorgfaltspflicht bei
+    der Prüfung nach Art. 36 ZP I. Das ist die juristisch sparsamere Lösung als Porcellis Ruf nach neuem
+    Recht und die beiden Texte lesen sich gut gegeneinander. Für einen deutschen Leser der bessere Einstieg
+    in die lateinamerikanische LAWS-Position, weil er auf der Zurechnungsebene ansetzt, wo die eigentliche
+    Schwierigkeit liegt.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-pacholska-militaerische-ki-unterscheidungsgrundsatz
+  typ: aufsatz
+  autoren:
+  - Pacholska, Magdalena
+  titel: 'Military Artificial Intelligence and the Principle of Distinction: A State Responsibility Perspective'
+  fundstelle: Israel Law Review 56 (2022), Heft 1, 3-23
+  jahr: 2022
+  sprache: en
+  doi: 10.1017/s0021223722000188
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  - intl
+  themenachsen:
+  - sicherheit-export
+  - grundrechte
+  kernthese: Verstoesse gegen den humanitaerrechtlichen Unterscheidungsgrundsatz durch KI-gestuetzte Waffensysteme
+    lassen sich ueber die Staatenverantwortlichkeit erfassen, ohne dass es einer neuen Zurechnungsfigur
+    fuer autonome Systeme bedarf.
+  eigene_bewertung: 'Der einzige einschlaegige Beitrag, den ich in der Israel Law Review gefunden habe;
+    die Zeitschrift bringt zu KI ueberraschend wenig. Sachlich ist der Aufsatz gut gearbeitet und fuer
+    die Achse sicherheit-export brauchbar, weil er den Zurechnungsstreit entschaerft: Nicht das System
+    handelt, sondern der Staat, der es einsetzt. Angesichts der israelischen Praxis - die Berichte ueber
+    Zielauswahlsysteme im Gazakrieg ab 2023 - hat der Text nachtraeglich an Gewicht gewonnen, obwohl er
+    vor diesen Ereignissen geschrieben wurde und sie nicht behandelt. Die Autorin ist keine Israelin;
+    die Zuordnung erfolgt ueber die Fundstelle. Genau hier liegt eine Luecke: Zur israelischen Praxis
+    selbst habe ich keine juristische Aufarbeitung in einer begutachteten Zeitschrift gefunden.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

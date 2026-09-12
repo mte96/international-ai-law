@@ -1,0 +1,1752 @@
+# Gepflegte Datenbasis.
+literatur:
+- id: 2023-chamberlain-tort-law-perspective
+  typ: aufsatz
+  autoren:
+  - Chamberlain, Johanna
+  titel: 'The Risk-Based Approach of the European Union''s Proposed Artificial Intelligence Regulation:
+    Some Comments from a Tort Law Perspective'
+  fundstelle: European Journal of Risk Regulation 14 (2023), 1
+  jahr: 2023
+  sprache: en
+  doi: 10.1017/err.2022.38
+  url: https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/riskbased-approach-of-the-european-unions-proposed-artificial-intelligence-regulation-some-comments-from-a-tort-law-perspective/A996034CC512B6B8A77B73FE39E77DAE
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  - marktzugang
+  - governance
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - produkthaftungsrichtlinie-2024-2853
+  - ki-haftungsrichtlinie-zurueckgezogen
+  kernthese: Die vorab festgelegten Risikokategorien der KI-VO stehen in Spannung zur einzelfallbezogenen
+    Risikobewertung des Deliktsrechts; die Hochrisikoklasse funktioniert faktisch wie eine Gefährdungshaftungskategorie.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die produktivste Verteidigung des Risikoansatzes, weil sie ihn nicht verteidigt,
+    sondern übersetzt: Chamberlain zeigt, dass die Kategorienbildung dem deliktsrechtlichen Umgang mit
+    gefährlichen Tätigkeiten entspricht und deshalb keine regulatorische Neuerfindung ist. Das entkräftet
+    den Vorwurf der Willkür teilweise. Nach Rücknahme der KI-Haftungsrichtlinie (Februar 2025) hat der
+    Text zusätzlich Gewicht bekommen: Wenn das Haftungsregime ausfällt, trägt das Marktzugangsrecht die
+    Steuerungslast allein. CC BY.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-eu-bertolini-civil-liability
+  typ: bericht
+  autoren:
+  - Bertolini, Andrea
+  titel: Artificial Intelligence and Civil Liability — A European Perspective
+  fundstelle: Studie für den Rechtsausschuss (JURI) des Europäischen Parlaments, PE 776.426, Juli 2025
+  jahr: 2025
+  sprache: en
+  url: https://www.europarl.europa.eu/RegData/etudes/STUD/2025/776426/IUST_STU(2025)776426_EN.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  - grundrechte
+  - governance
+  bezug_regelwerke:
+  - ki-haftungsrichtlinie-zurueckgezogen
+  - produkthaftungsrichtlinie-2024-2853
+  - ki-vo-2024-1689
+  kernthese: Von vier Optionen ist die schlichte Rücknahme der AILD die schlechteste, weil sie Fragmentierung
+    und Pfadabhängigkeiten in 27 Deliktsrechten erzeugt; vorzugswürdig ist eine Gefährdungshaftung für
+    Hochrisiko-KI-Systeme.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das Dokument, an dem sich die gesamte Debatte über die Rücknahme ausrichtet, und
+    der einzige Text, der die Optionen systematisch durchspielt statt zu lamentieren. Bertolini leitet
+    EURA und war schon an den Vorarbeiten zur AILD beteiligt; die Studie ist Auftragsarbeit des JURI-Ausschusses,
+    also nicht neutral, aber offen parteiisch und dadurch brauchbar. Ihre Schwachstelle ist die vierte
+    Option: Gefährdungshaftung wird ökonomisch begründet (Risikointernalisierung, Skalierbarkeit), ohne
+    dass die Versicherungsseite durchgerechnet wird — genau die Lücke, die Geistfeld 2026 aufreißt. Wer
+    beide Texte nebeneinanderlegt, hat den Kern des Streits. Nach dieser Studie ist keine Nachfolgeinitiative
+    angekündigt worden; Stand 01.09.2026 ist sie damit ein Vorschlag ins Leere, aber der maßgebliche.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-hacker-half-hearted
+  typ: aufsatz
+  autoren:
+  - Hacker, Philipp
+  titel: The European AI Liability Directives — Critique of a Half-Hearted Approach and Lessons for the
+    Future
+  fundstelle: Computer Law & Security Review 51 (2023), 105871; arXiv:2211.13960v6
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2211.13960
+  url: https://arxiv.org/abs/2211.13960
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  - governance
+  - grundrechte
+  bezug_regelwerke:
+  - ki-haftungsrichtlinie-zurueckgezogen
+  - produkthaftungsrichtlinie-2024-2853
+  - ki-vo-2024-1689
+  kernthese: Beide Haftungsvorschläge von 2022 bleiben auf halbem Weg stehen, weil Offenlegungsanordnung
+    und eng zugeschnittene Vermutungen bei opaken Systemen leerlaufen; nötig wäre ein integrierter Rahmen
+    aus Haftung, Erklärbarkeit und Fairness.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der meistzitierte akademische Text zur AILD und der Grund, warum "half-hearted" zum
+    Schlagwort geworden ist. Wichtig ist die Richtung der Kritik: Hacker hält die Richtlinie für zu SCHWACH,
+    nicht für zu scharf — wer die Rücknahme als Sieg der Deregulierung liest, hat den Ausgangspunkt der
+    Debatte verkehrt. Der Text ist zugleich die Brücke zu Kapitel VII dieser Liste, weil Hacker Haftung
+    und algorithmische Fairness als ein Problem behandelt (vgl. Zehlike/Hacker u.a. 2025). Angreifbar
+    ist der Anhang mit den ausformulierten Änderungsvorschlägen: Er ist an einem Richtlinientext geschrieben,
+    den es seit Oktober 2025 nicht mehr gibt, und deshalb nur noch historisch zu lesen. Die Analyse der
+    Vermutungswirkungen bleibt gültig und ist auf Art. 10 PLD 2024/2853 übertragbar — diese Übertragung
+    nimmt Hacker selbst nicht vor. Freie arXiv-Fassung (v6, Juli 2023) inhaltsgleich mit der CLSR-Fassung.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-10
+- id: 2025-nannini-less-regulation-more-complexity
+  typ: aufsatz
+  autoren:
+  - Nannini, Luca
+  titel: 'When Less Regulation Means More Complexity: The EU AI Liability Directive Withdrawal and Its
+    Impact on European Technological Competitiveness'
+  fundstelle: Proceedings of the Eighth AAAI/ACM Conference on AI, Ethics, and Society (AIES 2025)
+  jahr: 2025
+  sprache: en
+  doi: 10.1609/aies.v8i2.36679
+  url: https://ojs.aaai.org/index.php/AIES/article/download/36679/38817/40754
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  - wettbewerb
+  - governance
+  bezug_regelwerke:
+  - ki-haftungsrichtlinie-zurueckgezogen
+  - produkthaftungsrichtlinie-2024-2853
+  kernthese: 'Die Rücknahme vereinfacht nicht, sondern verkompliziert: An die Stelle eines harmonisierten
+    Verfahrens treten 27 nationale Haftungsregime, was europäische KMU stärker belastet als nichteuropäische
+    Großanbieter und damit dem Wettbewerbsfähigkeitsziel zuwiderläuft.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Das beste Gegenargument zur Vereinfachungsrhetorik, weil es auf deren eigenem Terrain
+    spielt: nicht Grundrechtsschutz gegen Wettbewerbsfähigkeit, sondern Wettbewerbsfähigkeit gegen Wettbewerbsfähigkeit.
+    Wer den Digital-Omnibus-Streit aus 31_lit_eu.yaml kennt, erkennt hier dieselbe Struktur wie bei Raposo
+    ("vertane Gelegenheit"). Schwäche: Die Fragmentierungsthese ist plausibel, aber nicht empirisch belegt
+    — Nannini zeigt nicht, dass die Mitgliedstaaten tatsächlich divergierende KI-Haftungsregeln erlassen.
+    Stand 01.09.2026 hat kein Mitgliedstaat ein KI-spezifisches Haftungsgesetz; die Divergenz ist bislang
+    eine Prognose. Als Konferenzbeitrag knapp, aber sauber belegt und frei zugänglich.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-rimkute-aild-eu-law-still-matters
+  typ: blogbeitrag
+  autoren:
+  - Rimkute, Deimante
+  titel: 'AI Liability After the AILD Withdrawal: Why EU Law Still Matters?'
+  fundstelle: Oxford Business Law Blog, 01.04.2025
+  jahr: 2025
+  sprache: en
+  url: https://blogs.law.ox.ac.uk/oblb/blog-post/2025/04/ai-liability-after-aild-withdrawal-why-eu-law-still-matters
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  bezug_regelwerke:
+  - ki-haftungsrichtlinie-zurueckgezogen
+  - ki-vo-2024-1689
+  kernthese: Auch ohne AILD zwingt der unionsrechtliche Effektivitätsgrundsatz die nationalen Gerichte
+    über Crehan, Manfredi und Sanofi Pasteur zu Beweiserleichterungen, die im Ergebnis den zurückgezogenen
+    Vermutungen nahekommen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der dogmatisch interessanteste Kurztext zur Rücknahme und die einzige Position, die
+    die Lücke systematisch kleinredet — nicht politisch, sondern methodisch. Die Kette Effektivitätsgrundsatz
+    → res ipsa loquitur → faktische Vermutung ist der praktisch gangbarste Weg für einen Kläger im Jahr
+    2026 und für die deutsche Praxis unmittelbar anschlussfähig (§ 286 ZPO, Anscheinsbeweis, Beweisvereitelung).
+    Angreifbar an zwei Stellen: Sanofi Pasteur (C-621/15) betraf ein harmonisiertes Regime, hier fehlt
+    gerade die Harmonisierung; und die Übertragung kartellrechtlicher Effektivitätsjudikatur auf allgemeines
+    Deliktsrecht ist ein Sprung, den die Autorin behauptet statt begründet. Blogbeitrag einer Doktorandin,
+    also kein Autoritätsargument — aber der Gedanke trägt.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-debruyne-dheu-ducuing-extracontractual
+  typ: aufsatz
+  autoren:
+  - De Bruyne, Jan
+  - Dheu, Orian
+  - Ducuing, Charlotte
+  titel: The European Commission's Approach to Extra-Contractual Liability and AI — An Evaluation of the
+    AI Liability Directive and the Revised Product Liability Directive
+  fundstelle: Computer Law & Security Review 51 (2023), 105894
+  jahr: 2023
+  sprache: en
+  doi: 10.1016/j.clsr.2023.105894
+  ssrn_id: '4295677'
+  zugang: unklar
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  bezug_regelwerke:
+  - ki-haftungsrichtlinie-zurueckgezogen
+  - produkthaftungsrichtlinie-2024-2853
+  kernthese: AILD und revidierte Produkthaftungsrichtlinie überschneiden sich in Anwendungsbereich und
+    Beweisregeln so stark, dass ein Geschädigter zwei Regime mit unterschiedlichen Vermutungen vorfindet,
+    ohne dass ihr Verhältnis geklärt wäre.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die gründlichste Parallelanalyse beider Instrumente aus der Zeit, als es noch beide
+    gab — und deshalb heute wertvoller, nicht weniger wertvoll: Was die Autoren als Doppelregime kritisierten,
+    ist seit der Rücknahme ein Einfachregime, und ihre Analyse zeigt genau, welche Funktionen die Produkthaftungsrichtlinie
+    NICHT übernimmt (reine Vermögensschäden, Betreiber statt Hersteller, Diskriminierung). Das ist die
+    brauchbarste Lückenliste im Schrifttum. CLSR ist hybrid; die SSRN-Fassung ist frei, aber maschinell
+    nicht abrufbar (429), deshalb ohne `url`.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-mcginnis-seen-unseen-ai-liability
+  typ: blogbeitrag
+  autoren:
+  - McGinnis, John O.
+  titel: The Seen and Unseen of AI Liability
+  fundstelle: Law & Liberty, 30.10.2025
+  jahr: 2025
+  sprache: en
+  url: https://lawliberty.org/the-seen-and-unseen-of-ai-liability/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - wettbewerb
+  bezug_streitstaende:
+  - chatbot-output-speech
+  kernthese: 'Gefährdungshaftung für KI-Entwickler ist ein Bastiat-Fehler: Der sichtbare Schaden eines
+    Chatbot-Outputs wird verrechnet, der unsichtbare Nutzen für Millionen anderer Nutzer nicht, und Gerichte
+    können ihn auch nicht ermitteln.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Ausdrücklich als Gegenposition aufgenommen und ausdrücklich als die schwächere der
+    beiden Gegenpositionen. McGinnis argumentiert ordnungspolitisch (Startups gegen Konzerne, Selbstversicherung
+    der Großen) und trifft damit einen realen Punkt — Haftungsverschärfung konzentriert Märkte —, geht
+    aber der eigentlichen Frage aus dem Weg: Wenn der Geschädigte die Fahrlässigkeit nicht beweisen kann,
+    ist die Verschuldenshaftung, die er empfiehlt, keine Haftung. Wer eine substanzielle Gegenposition
+    sucht, liest Geistfeld; wer die politische Rhetorik der US-Debatte belegen will, liest McGinnis. Kurz,
+    meinungsstark, unbelegt.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-ali-civil-liability-ai
+  typ: bericht
+  autoren:
+  - American Law Institute
+  - Geistfeld, Mark A.
+  titel: Civil Liability for Artificial Intelligence — Projektseite und Materialien
+  fundstelle: The ALI Adviser / American Law Institute, laufend, Stand 07.08.2026
+  jahr: 2026
+  sprache: en
+  url: https://www.thealiadviser.org/civil-liability-for-ai/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  kernthese: Das ALI arbeitet unter Berichterstattung Geistfelds an Principles zur zivilrechtlichen Haftung
+    für KI; die Vorarbeiten stellen die Versicherbarkeit in den Mittelpunkt statt der Beweislast.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Keine Literatur im engeren Sinn, sondern die Stelle, an der in den USA das Recht
+    gemacht wird, das Gerichte in zehn Jahren zitieren werden — Restatements und Principles des ALI haben
+    in der US-Deliktsrechtspraxis eine Wirkung, für die es in Europa keine Entsprechung gibt. Wer die
+    transatlantische Divergenz einschätzen will, muss diese Seite beobachten, nicht die Gesetzgebung:
+    Während die EU ihre Haftungsrichtlinie zurückzieht, entsteht in den USA das Gegenteil einer Deregulierung,
+    nämlich eine Kodifizierung durch die Rechtswissenschaft. Die Seite ist ein laufendes Verzeichnis;
+    der Stand ist bei jeder Zitierung neu zu prüfen.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-ebers-pld-follow-on-actions
+  typ: aufsatz
+  autoren:
+  - Ebers, Martin
+  titel: 'The New Product Liability Directive: Paving the Way for Follow-On Actions in Artificial Intelligence
+    Law?'
+  fundstelle: 'in: EU Product Liability Law — Platforms, Internet of Things and Artificial Intelligence,
+    Routledge 2026'
+  jahr: 2026
+  sprache: en
+  doi: 10.4324/9781003748557-11
+  zugang: bezahlt
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  - marktzugang
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  - ki-vo-2024-1689
+  kernthese: Die neue Produkthaftungsrichtlinie ermöglicht Folgeklagen nach dem Vorbild des Kartellrechts,
+    weil ein Verstoß gegen die Pflichten der KI-Verordnung als Fehlerhaftigkeitsindiz wirkt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die These, auf die es ankommt, und zugleich die folgenreichste: Wenn die Nichteinhaltung
+    der KI-VO über Art. 7 Abs. 2 lit. f PLD ("einschlägige Produktsicherheitsanforderungen") in die Fehlerhaftigkeitsprüfung
+    durchschlägt, wird die KI-VO zivilrechtlich durchsetzbar, obwohl sie selbst keine Individualansprüche
+    gewährt. Das ist die eigentliche Antwort auf die Frage, was die AILD-Lücke füllt — und sie ist dogmatisch
+    heikel, weil das Kartellrecht mit Art. 101, 102 AEUV eine unmittelbar anwendbare Verbotsnorm hat,
+    die KI-VO aber nicht. Ebers ist einer der wenigen, die beide Materien beherrschen (vgl. seine Arbeiten
+    in 31_lit_eu.yaml). Nur im Verlagsband, kein freier Volltext gefunden.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-7-abs-2-lit-f
+- id: 2024-ulfbeck-product-liability-ai
+  typ: aufsatz
+  autoren:
+  - Ulfbeck, Vibe
+  titel: Product Liability Law and AI
+  fundstelle: 'in: The Cambridge Handbook of Private Law and Artificial Intelligence, Cambridge University
+    Press 2024, Kap. 11'
+  jahr: 2024
+  sprache: en
+  doi: 10.1017/9781108980197.011
+  zugang: unklar
+  jurisdiktionen:
+  - eu
+  - dk
+  themenachsen:
+  - haftung
+  - vertrag
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  kernthese: Die Erstreckung des Produktbegriffs auf Software löst die KI-spezifischen Probleme nicht,
+    weil der Fehlerbegriff auf einen Zustand im Zeitpunkt des Inverkehrbringens zugeschnitten ist, lernende
+    Systeme ihren Zustand aber danach ändern.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der sauberste dogmatische Einwand gegen die Grundannahme der Richtlinie, und er ist
+    nicht durch Art. 11 Abs. 2 PLD (Herstellerkontrolle über nachträgliche Änderungen) erledigt: Die Norm
+    regelt, WANN der Hersteller sich nicht entlasten kann, nicht, WORAN die Fehlerhaftigkeit zu messen
+    ist, wenn das Modell heute anders antwortet als gestern. Ulfbeck schreibt aus skandinavischer Perspektive,
+    was für den deutschen Leser den Vorteil hat, dass die Argumentation nicht an § 3 ProdHaftG hängt.
+    Handbuchbeitrag, also Überblick statt Zuspitzung. Cambridge Core, kostenpflichtig.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-7
+  - pld-art-11-abs-2
+- id: 2025-heiss-product-liability-insurance
+  typ: aufsatz
+  autoren:
+  - Heiß, Helmut
+  titel: Product Liability Insurance — New Paths for Software and Systems of Artificial Intelligence Following
+    Directive (EU) 2024/2853
+  fundstelle: 'in: Artificial Intelligence, Law and Digitalization in Law, TÜBA 2025, Kap. 4'
+  jahr: 2025
+  sprache: en
+  doi: 10.53478/tuba.978-625-6110-66-3.ch04
+  zugang: unklar
+  jurisdiktionen:
+  - eu
+  - ch
+  themenachsen:
+  - haftung
+  - sektor-finanz
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  kernthese: Die Erstreckung der Produkthaftung auf Software zwingt die Produkthaftpflichtversicherung
+    zu neuen Deckungskonzepten, weil Software-Serienschäden anders korreliert sind als Sachschäden.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als einer der wenigen europäischen Texte, die die Versicherungsseite
+    überhaupt behandeln — der Punkt, an dem die europäische Debatte gegenüber der amerikanischen (Geistfeld,
+    Lior) zurückliegt. Heiß ist Versicherungsrechtler, kein KI-Spezialist; entsprechend dünn ist die technische
+    Seite. Der brauchbare Gedanke ist die Korrelation: Ein Softwarefehler tritt bei allen Instanzen gleichzeitig
+    auf, was das versicherungstechnische Ausgleichsprinzip (Gesetz der großen Zahl) unterläuft. Das ist
+    der versicherungsmathematische Kern des Versicherbarkeitsproblems und in der Haftungsliteratur kaum
+    präsent.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-gori-ai-act-and-pld
+  typ: aufsatz
+  autoren:
+  - Gori, Gianmarco
+  titel: The AI Act and the Product Liability Directive
+  fundstelle: 'in: The EU Artificial Intelligence Act — A Commentary, Hart/Bloomsbury 2026, Kap. 36'
+  jahr: 2026
+  sprache: en
+  doi: 10.5040/9781509988570.ch-036
+  zugang: bezahlt
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  - marktzugang
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  - ki-vo-2024-1689
+  kernthese: KI-Verordnung und Produkthaftungsrichtlinie bilden ein zweistufiges System aus präventiver
+    Marktzugangskontrolle und nachgelagerter Kompensation, dessen Fugen dort liegen, wo die Verordnung
+    Pflichten kennt, die kein Produktmerkmal betreffen.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kommentarbeitrag, deshalb systematisch statt originell — aber die Fugenstelle ist
+    richtig benannt: Pflichten zur Datenqualität (Art. 10 KI-VO) oder zur menschlichen Aufsicht (Art.
+    14 KI-VO) beschreiben Verfahren, nicht Eigenschaften des Produkts; ob ihre Verletzung "Fehlerhaftigkeit"
+    im Sinne des Art. 7 PLD begründet, ist damit offen. Ergänzt Ebers (2026) um die Gegenrichtung. Nur
+    im Verlagsband.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-7
+  - ki-vo-art-10
+  - ki-vo-art-14
+- id: 2025-frei-sparzynski-open-source-pld
+  typ: working-paper
+  autoren:
+  - Frei, Tarmio
+  - Sparzynski, Greta
+  titel: Open-Source Software and Open-Source Hardware under the new European Product Liability Directive
+  fundstelle: SSRN Working Paper, 2025
+  jahr: 2025
+  sprache: en
+  doi: 10.2139/ssrn.5567258
+  ssrn_id: '5567258'
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  themenachsen:
+  - haftung
+  - gpai
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  kernthese: Die Bereichsausnahme für außerhalb einer Geschäftstätigkeit bereitgestellte freie Software
+    (Art. 2 Abs. 2, ErwGr. 14 PLD) ist enger, als die Open-Source-Gemeinde annimmt, und greift bei kommerziell
+    flankierten Projekten nicht.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen wegen der Schnittstelle zu den offenen Modellgewichten, die in 31_lit_eu.yaml
+    als eigener Streitpunkt geführt wird: Wer ein Basismodell unter Apache-2.0 veröffentlicht und gleichzeitig
+    eine gehostete Fassung verkauft, verliert die Ausnahme möglicherweise für beides. Das ist ein realer
+    Haftungsschock für den europäischen Open-Weight-Sektor und wird bislang nur hier untersucht. Working
+    Paper, nicht begutachtet; SSRN-Volltext frei, aber maschinell nicht abrufbar (429).
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-2-abs-2
+- id: 2025-cobarzan-bubel-ullrich-pld-software-engineering
+  typ: aufsatz
+  autoren:
+  - Cobârzan, Doriana
+  - Bubel, Richard
+  - Ullrich, Torsten
+  titel: The Impact of the European Product Liability Directive on Software Engineering
+  fundstelle: Proceedings of the 20th International Conference on Evaluation of Novel Approaches to Software
+    Engineering (ENASE 2025)
+  jahr: 2025
+  sprache: en
+  doi: 10.5220/0013363100003928
+  zugang: unklar
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  - cyber-resilience-act-2024-2847
+  kernthese: Die neue Produkthaftungsrichtlinie verlagert Anforderungen in den Entwicklungsprozess, weil
+    Nachweisbarkeit von Sorgfalt nur durch dokumentierte Verifikations- und Update-Prozesse herstellbar
+    ist.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aus der Informatik, nicht aus der Rechtswissenschaft, und genau deshalb aufgenommen:
+    Der Text zeigt, was die Richtlinie in der Entwicklungspraxis auslöst — die Beweisführung des Herstellers
+    zu Art. 11 PLD (Entlastung) wird zur Prozessanforderung. Für die juristische Frage, was "Fehlerhaftigkeit"
+    heißt, gibt er wenig her; für die Frage, was ein Gericht 2028 an Dokumentation vorfinden wird, viel.
+    Kurzer Konferenzbeitrag, SCITEPRESS.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-11
+- id: 2026-geistfeld-insurability
+  typ: aufsatz
+  autoren:
+  - Geistfeld, Mark A.
+  titel: Insurability and Liability for AI-Caused Harms
+  fundstelle: Connecticut Insurance Law Journal (2026); Repositorium der University of Connecticut
+  jahr: 2026
+  sprache: en
+  ssrn_id: '6174021'
+  url: https://digitalcommons.lib.uconn.edu/cilj/420/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - sektor-finanz
+  kernthese: Die herrschende Forderung nach Gefährdungshaftung für KI übersieht, dass Haftpflichtdeckung
+    die bereits bestehende Erstversicherung der Geschädigten dupliziert; die Gesamtkosten der Schadensdeckung
+    steigen dadurch so stark, dass der Sicherheitsgewinn aufgezehrt wird.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die substanziellste Gegenposition im gesamten Feld und der Grund, warum sie hier
+    Pflichtlektüre ist: Geistfeld ist Berichterstatter des ALI-Projekts "Civil Liability for Artificial
+    Intelligence", also nicht Außenseiter, sondern die Instanz, die das US-Deliktsrecht für KI formulieren
+    wird — und er argumentiert gegen die Haftungsverschärfung, ohne die Opazitätsprobleme zu bestreiten.
+    Das Argument ist versicherungsökonomisch und damit prüfbar, nicht ideologisch. Zwei Angriffspunkte:
+    Erstens setzt es voraus, dass Erstversicherung (Kranken-, Sach-, Berufsunfähigkeits-) den Schaden
+    tatsächlich deckt — bei reinen Vermögensschäden und bei Diskriminierungsschäden ist das falsch, und
+    genau dort liegen die KI-typischen Fälle. Zweitens ignoriert es die Präventionswirkung fast vollständig.
+    Für Europa ist der Text besonders interessant, weil die Sozialversicherung hier deutlich mehr abdeckt
+    als in den USA — Geistfelds Argument müsste also STÄRKER greifen. Diese Rechnung hat niemand aufgemacht.
+    Freier Volltext im UConn-Repositorium.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-geistfeld-product-liability-age-of-ai
+  typ: aufsatz
+  autoren:
+  - Geistfeld, Mark A.
+  titel: Product Liability Law in the Age of AI
+  fundstelle: SSRN Working Paper 5410103, 2025
+  jahr: 2025
+  sprache: en
+  ssrn_id: '5410103'
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  kernthese: Das US-Produkthaftungsrecht kann KI-Schäden mit dem vorhandenen Instrumentarium erfassen,
+    wenn der Konstruktionsfehlerbegriff auf die Trainings- und Testentscheidungen des Herstellers statt
+    auf das Modellverhalten bezogen wird.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der dogmatische Unterbau zur Versicherbarkeitsthese und die Antwort auf die Frage,
+    warum Geistfeld keine Gefährdungshaftung braucht: Wenn der risk-utility-Test an den Entwicklungsentscheidungen
+    ansetzt statt am Output, ist die Opazität des Modells kein Beweisproblem mehr, weil der Prozess dokumentiert
+    ist. Das ist die spiegelbildliche Struktur zu Cobârzan/Bubel/Ullrich (2025) auf der europäischen Seite
+    — beide verlagern die Prüfung vom Produkt auf den Prozess, ohne voneinander zu wissen. Diese Parallele
+    auszuformulieren, ist eine offene Publikationsmöglichkeit. SSRN-Volltext frei, maschinell nicht abrufbar
+    (429).
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-sharkey-products-liability-framework-ai
+  typ: aufsatz
+  autoren:
+  - Sharkey, Catherine M.
+  titel: A Products Liability Framework for AI
+  fundstelle: Columbia Science & Technology Law Review 25 (2024), Heft 1
+  jahr: 2024
+  sprache: en
+  url: https://www.thesedonaconference.org/sites/default/files/meeting_paper/1-2-1%20A%20Products%20Liability%20Framework_0.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  kernthese: Produkthaftung ist für KI der richtige Rahmen, weil sie anders als das Fahrlässigkeitsrecht
+    die Informationsasymmetrie zwischen Hersteller und Geschädigtem institutionell berücksichtigt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Sharkey ist die andere Stimme, die in den USA gehört wird, und sie zieht die entgegengesetzte
+    Konsequenz zu Geistfeld: nicht Zurückhaltung, sondern Ausdehnung — mit demselben Ausgangspunkt (Informationsasymmetrie).
+    Wer beide liest, hat die amerikanische Debatte in zwei Texten. Sedona-Papiere sind Praktikerdokumente,
+    also weniger streng belegt als Zeitschriftenaufsätze, aber Sharkeys Arbeiten zur Arzneimittel-Präemption
+    geben dem Argument Gewicht. Der als `url` erfasste Volltext ist die von der Sedona Conference gespiegelte
+    Tagungsfassung des in der Columbia Science & Technology Law Review erschienenen Aufsatzes; sie ist
+    frei abrufbar, während die Zeitschriftenfassung zu zitieren ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-jolt-lior-insuring-ai
+  typ: aufsatz
+  autoren:
+  - Lior, Anat
+  titel: 'Insuring AI: The Role of Insurance in Artificial Intelligence Regulation'
+  fundstelle: Harvard Journal of Law & Technology 35 (2022), 468
+  jahr: 2022
+  sprache: en
+  url: https://jolt.law.harvard.edu/assets/articlePDFs/v35/2.-Lior-Insuring-AI.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - governance
+  kernthese: Versicherer sind die praktisch wirksamsten Regulierer von KI, weil sie Risiken bepreisen
+    und Sicherheitsanforderungen über Deckungsbedingungen durchsetzen können, bevor der Gesetzgeber handelt.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die Versicherungsspur in der KI-Regulierung eröffnet hat, und der Gegenpol
+    zu Geistfeld: Lior sieht in der Versicherung ein Steuerungsinstrument, Geistfeld eine Kostenschranke.
+    Beide Perspektiven sind für die europäische Debatte neu, weil dort Versicherung fast ausschließlich
+    als Pflichtversicherungsfrage (Kfz-Modell) diskutiert wird. Die Schwäche ist empirisch: Lior schreibt
+    2022, als es kaum KI-Deckungen gab; ob der Markt die zugeschriebene Regulierungsfunktion tatsächlich
+    übernimmt, ist offen und inzwischen prüfbar. Frei bei JOLT.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-wagner-liability-rules-digital-age
+  typ: aufsatz
+  autoren:
+  - Wagner, Gerhard
+  titel: Liability Rules for the Digital Age — Aiming for the Brussels Effect
+  fundstelle: Journal of European Tort Law 13 (2022), 191–243
+  jahr: 2022
+  sprache: en
+  doi: 10.1515/jetl-2022-0012
+  url: https://d-nb.info/1280841893/34
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - de
+  - us
+  themenachsen:
+  - haftung
+  bezug_regelwerke:
+  - ki-haftungsrichtlinie-zurueckgezogen
+  - produkthaftungsrichtlinie-2024-2853
+  kernthese: Die europäischen Haftungsvorschläge zielen auf einen Brüsseler Effekt, verfehlen ihn aber,
+    weil sie das Kernproblem — die Zurechnung autonomen Systemverhaltens zum Hersteller — durch Beweisregeln
+    statt durch eine materielle Haftungsnorm zu lösen versuchen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Wagner ist im deutschsprachigen Raum die maßgebliche Stimme zur KI-Haftung, und dieser
+    Text ist die einzige seiner Arbeiten dazu, die frei zugänglich ist — die übrigen stehen in AcP, JZ
+    und VersR hinter beck-online. Die Kernkritik ist dieselbe wie bei Hacker, aber aus der Perspektive
+    des klassischen Deliktsrechts formuliert: Beweislastumkehr ersetzt keine Haftungsnorm. Zu ergänzen
+    ist, dass der Text vor der Rücknahme geschrieben ist und deshalb die Frage nicht stellt, die sich
+    heute stellt — was gilt, wenn auch die Beweisregeln wegfallen. Volltext auf dem HU-Server der Professur
+    für Volltext über die Deutsche Nationalbibliothek (d-nb.info); der Server der HU-Professur ist durch
+    einen Bot-Schutz (Anubis) gesperrt und deshalb nicht als `url` erfasst.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - bgb-823
+  - prodhaftg-1
+  - prodhaftg-3
+- id: 2026-abraham-sharkey-untangling
+  typ: aufsatz
+  autoren:
+  - Abraham, Kenneth S.
+  - Sharkey, Catherine M.
+  titel: Untangling AI Liability
+  fundstelle: Beitrag im Programm on Corporate Compliance and Enforcement, NYU School of Law, 06.05.2026
+  jahr: 2026
+  sprache: en
+  url: https://wp.nyu.edu/compliance_enforcement/2026/05/06/untangling-ai-liability/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  kernthese: 'Es gibt keine einheitliche KI-Haftung: Das Deliktsrecht muss nach Anwendungstyp und Schadensart
+    differenzieren, kommt dabei aber mit den vorhandenen Instituten aus, ergänzt allenfalls um Gefährdungshaftung
+    für klar umgrenzte Schadensereignisse.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die dritte Position der US-Debatte und die pragmatischste: weder Geistfelds Zurückhaltung
+    noch Sharkeys frühere Ausdehnungsthese, sondern Differenzierung — "designated compensable events"
+    statt Generalklausel, ein Gedanke, den Abraham aus der Versicherungs- und Entschädigungsfondsdebatte
+    mitbringt (Impfschäden, Asbest). Für die europäische Debatte ist das der interessanteste Import, weil
+    er die Frage "Verschuldens- oder Gefährdungshaftung?" als falsch gestellt zurückweist: Die Antwort
+    hängt am Schadenstyp, nicht an der Technologie. Genau diese Differenzierung fehlt sowohl der zurückgezogenen
+    AILD als auch Bertolinis Option 4. Der erfasste Beitrag ist die frei zugängliche Kurzfassung; die
+    Langfassung erscheint in einer Law Review und ist bei Zitierung nachzuprüfen.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2023-volokh-large-libel-models
+  typ: aufsatz
+  autoren:
+  - Volokh, Eugene
+  titel: Large Libel Models? Liability for AI Output
+  fundstelle: Journal of Free Speech Law 3 (2023), 489
+  jahr: 2023
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/volokh4.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  - grundrechte
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_urteile:
+  - us-2025-walters-openai
+  kernthese: Ehrverletzende Halluzinationen sind nach allgemeinem Ehrschutzrecht angreifbar, sobald der
+    Anbieter nach einer Beschwerde weiter dieselbe falsche Behauptung ausgibt — dann liegt der erforderliche
+    Verschuldensgrad vor.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die Notice-Konstruktion in die Debatte gebracht hat, und derjenige,
+    dessen Prognose sich am schnellsten bewährt hat: Walters v. OpenAI ist genau daran gescheitert, dass
+    die Kenntnis fehlte. Für die europäische Seite ist er brauchbarer als sein Gegenstand vermuten lässt,
+    weil die Notice-Struktur der Störerhaftung und Art. 6 DSA entspricht. Zu ergänzen ist, dass Volokh
+    hier eine Position vertritt, die seiner eigenen Schutzbereichsthese Grenzen zieht: Geschützte Rede
+    kann haftungsbewehrt sein. Wer ihn nur als Verteidiger der KI-Anbieter liest, liest ihn falsch.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2023-henderson-hashimoto-lemley-harmful-ai-speech
+  typ: aufsatz
+  autoren:
+  - Henderson, Peter
+  - Hashimoto, Tatsunori
+  - Lemley, Mark A.
+  titel: Where's the Liability in Harmful AI Speech?
+  fundstelle: Journal of Free Speech Law 3 (2023), 589
+  jahr: 2023
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/hendersonhashimotolemley.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - us-cda-230
+  kernthese: Die klassischen Haftungstatbestände für gefährliche Rede — Anstiftung, Drohung, Falschangabe
+    — greifen bei Sprachmodellen überwiegend nicht, weil sie auf Vorsatz oder Adressatenbezug zugeschnitten
+    sind, die das Modell nicht hat.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige Text der Gründungsdebatte, der technisch geerdet ist — Hashimoto ist
+    Informatiker, und die Autoren führen tatsächlich Modelle vor, statt über sie zu spekulieren. Die Befundlage
+    ist ernüchternd und für die Chatbot-Suizidfälle unmittelbar einschlägig: Wo Vorsatz oder ein bestimmter
+    Adressat verlangt wird, versagt die Haftung; wo nur Fahrlässigkeit verlangt wird (Produkthaftung,
+    Verkehrspflichten), greift sie. Das erklärt, warum die Klägerseite in Garcia und Raine den Produktweg
+    gewählt hat und nicht den Redeweg — eine strategische Weichenstellung, die die Literatur selten als
+    solche benennt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-47-230-c-1
+  - usc-47-230-f-3
+  - us-const-amend-1
+- id: 2023-brown-bots-behaving-badly
+  typ: aufsatz
+  autoren:
+  - Brown, Nina
+  titel: 'Bots Behaving Badly: A Products Liability Approach to Chatbot-Generated Defamation'
+  fundstelle: Journal of Free Speech Law 3 (2023), 389
+  jahr: 2023
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/brown.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_urteile:
+  - us-2025-garcia-character
+  - us-2025-walters-openai
+  kernthese: Chatbots sollten produkthaftungsrechtlich behandelt werden, weil damit die Redefreiheitsfrage
+    umgangen und der Anbieter an seinen Konstruktions- und Warnentscheidungen gemessen wird.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Zwei Jahre vor Garcia formuliert, was das Gericht dann tatsächlich getan hat — und
+    deshalb der prognostisch beste Text des Feldes. Die Pointe liegt im Verhältnis zu Kapitel I und II
+    dieser Liste: Die amerikanische Produktspur bei Chatbots und die europäische Erstreckung der Produkthaftung
+    auf Software (PLD 2024/2853) sind dieselbe Bewegung, aus entgegengesetzten Richtungen. In den USA
+    flieht man in die Produkthaftung, um dem Ersten Zusatzartikel auszuweichen; in Europa erweitert man
+    sie, um die Beweisnot zu lindern. Niemand hat diese Konvergenz beschrieben. Angreifbar ist die Prämisse,
+    dass Software überhaupt "Produkt" im Sinne des Restatement (Third) ist — genau der Punkt, den die
+    Character-Verfahren offen gelassen haben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2023-bambauer-negligent-ai-speech
+  typ: aufsatz
+  autoren:
+  - Bambaür, Jane
+  titel: 'Negligent AI Speech: Some Thoughts About Duty'
+  fundstelle: Journal of Free Speech Law 3 (2023), 343
+  jahr: 2023
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/bambauer2.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  - grundrechte
+  bezug_streitstaende:
+  - chatbot-output-speech
+  kernthese: 'Eine Fahrlässigkeitshaftung für KI-Rede scheitert weniger am Ersten Zusatzartikel als an
+    der Verkehrspflicht: Sprecher schulden dem allgemeinen Publikum traditionell keine Sorgfalt, wohl
+    aber Dienstleister ihren Kunden.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text liefert die Unterscheidung, an der die Chatbot-Suizidfälle rechtlich hängen
+    und die in der öffentlichen Diskussion regelmäßig verschwimmt: nicht Redeinhalt gegen Redefreiheit,
+    sondern Publikum gegen Vertragsverhältnis. Ein Companion-Chatbot ist gerade kein Massenmedium; das
+    Verhältnis ist individualisiert, fortlaufend und vom Anbieter gestaltet. Damit steht die Verkehrspflicht
+    auf demselben Grund wie bei Beratern und Verwahrern. Für das deutsche Recht ist das die Brücke zu
+    § 241 Abs. 2 BGB und zu den Schutzpflichten aus dem Nutzungsvertrag — ein Weg, der die Redefreiheitsfrage
+    ebenfalls umgeht und in der deutschen Literatur nicht beschritten wird.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2023-perault-section230-chatgpt
+  typ: aufsatz
+  autoren:
+  - Perault, Matt
+  titel: Section 230 Won't Protect ChatGPT
+  fundstelle: Journal of Free Speech Law 3 (2023), 365
+  jahr: 2023
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/perault.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - us-cda-230
+  kernthese: Die Haftungsfreistellung des 47 U.S.C. § 230 greift für generierten Output nicht, weil der
+    Anbieter den Inhalt ganz oder teilweise selbst entwickelt und damit 'information content provider'
+    ist.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die These, die sich durchgesetzt hat — in Garcia hat sich Character Technologies
+    erst gar nicht auf § 230 berufen —, und deshalb der Text, mit dem man die amerikanische Ausgangslage
+    in einem Satz erklären kann: Anders als bei Plattformen entfällt die Immunität, und die Anbieter müssen
+    auf den Ersten Zusatzartikel ausweichen. Genau diese Verschiebung erklärt, warum die Redefrage in
+    den USA überhaupt praktisch relevant geworden ist. Für Europa ist der Vergleichspunkt Art. 6 DSA,
+    dessen Hostingprivileg aus denselben Gründen nicht greift; Botero Arcila (2023) führt das aus. Kurz,
+    klar, unstrittig geworden.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-47-230-c-1
+  - usc-47-230-f-3
+- id: 2023-botero-arcila-platform-search-chatgpt
+  typ: aufsatz
+  autoren:
+  - Botero Arcila, Beatriz
+  titel: Is It a Platform? Is It a Search Engine? It's Chat GPT! The European Liability Regime For Large
+    Language Models
+  fundstelle: Journal of Free Speech Law 3 (2023), 455
+  jahr: 2023
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/boteroarcila.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  themenachsen:
+  - haftung
+  - content
+  - marktzugang
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - dsa-2022-2065
+  - ki-vo-2024-1689
+  kernthese: Sprachmodelle fallen weder unter das Hostingprivileg noch unter die Suchmaschinenkategorie
+    des Digitale-Dienste-Gesetzes; die europäische Haftung läuft deshalb über allgemeines Delikts- und
+    Produktrecht, nicht über das Plattformrecht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der einzige europäisch grundierte Beitrag des Gründungssymposiums und deshalb hier
+    überproportional wichtig: Er zeigt, dass die europäische und die amerikanische Debatte am selben Punkt
+    ankommen — keine Intermediärsprivilegierung — aber aus verschiedenen Gründen und mit verschiedenen
+    Folgen. Wo in den USA daraufhin der Erste Zusatzartikel als Ersatzschild dient, gibt es in Europa
+    keinen entsprechenden Schild, weshalb die europäische Auseinandersetzung sofort materiell wird. Der
+    Text ist von 2023 und damit vor Inkrafttreten der KI-VO geschrieben; die Analyse zum DSA trägt, die
+    zur KI-VO ist überholt.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-lidsky-daves-inevitable-errors
+  typ: aufsatz
+  autoren:
+  - Lidsky, Lyrissa Barnett
+  - Daves, Andrew
+  titel: 'Inevitable Errors: Defamation by Hallucination in AI Reasoning Models'
+  fundstelle: Journal of Free Speech Law 6 (2025), 477
+  jahr: 2025
+  sprache: en
+  url: https://www.journaloffreespeechlaw.org/lidskydaves.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  - grundrechte
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_urteile:
+  - us-2025-walters-openai
+  kernthese: Halluzinationen sind ein unvermeidbares technisches Artefakt und deshalb kein Indiz für Fahrlässigkeit
+    oder Vorsatz; statt Ehrschutzhaftung sollten die Anbieter gesetzlich normierte Sorgfaltspflichten
+    treffen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Fortschreibung der Volokh-Debatte auf den Stand der Technik von 2025 — und eine
+    Kehrtwende: Wo Volokh (2023) die Haftung über die Kenntnis nach Beschwerde konstruiert, halten Lidsky/Daves
+    den Ehrschutz für den falschen Weg, weil Halluzinationen systemimmanent und damit nicht vorwerfbar
+    sind; sie plädieren für gesetzliche Sorgfaltspflichten statt Deliktshaftung. Das ist die regulatorische
+    statt der deliktischen Antwort und strukturell dieselbe Bewegung wie in Europa, wo die KI-VO Pflichten
+    setzt und die Haftung dem nationalen Recht überlässt — nur dass Lidsky/Daves die Pflichten als ERSATZ
+    der Haftung denken, während die europäische Diskussion sie als deren Grundlage begreift (vgl. Ebers
+    2026). Diese Gegenüberstellung ist der Ertrag des Textes für den europäischen Leser. Lidsky ist Dekanin
+    in Florida und in der US-Ehrschutzdogmatik erstrangig; angreifbar ist die Unvermeidbarkeitsprämisse:
+    Unvermeidbar ist, DASS halluziniert wird, nicht, dass über eine bestimmte Person halluziniert wird.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - us-const-amend-1
+- id: 2025-hlr-beyond-section-230
+  typ: aufsatz
+  autoren:
+  - Harvard Law Review (Developments in the Law)
+  titel: 'Beyond Section 230: Principles for AI Governance'
+  fundstelle: Harvard Law Review 138 (2025), 1657–1680 (Developments in the Law — Artificial Intelligence,
+    Kap. 5)
+  jahr: 2025
+  sprache: en
+  url: https://harvardlawreview.org/wp-content/uploads/2025/04/138-Harv.-L.-Rev.-1657.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  - governance
+  - grundrechte
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - us-cda-230
+  kernthese: Die Freistellung des § 230 war ein Governance-Fehler, der sich bei generativer KI nicht wiederholen
+    darf; statt Immunität braucht es Deliktsrecht, Transparenzpflichten und demokratische Rückbindung
+    innerhalb der Schranken des Ersten Zusatzartikels.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Kein origineller Beitrag, aber die beste verfügbare Zusammenfassung des amerikanischen
+    Diskussionsstands, redaktionell gearbeitet und mit vollständigem Apparat — genau das, was man liest,
+    um in einem fremden Rechtskreis schnell anschlussfähig zu werden. Der Grenzwert liegt in der Anonymität:
+    Developments-Beiträge sind studentisch verfasst, werden entsprechend zitiert und sollten nicht als
+    Autoritätsargument verwendet werden. Frei als PDF.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-47-230-c-1
+  - usc-47-230-f-3
+- id: 2024-cdt-waheed-section230-genai
+  typ: bericht
+  autoren:
+  - Waheed, Noor
+  - Center for Democracy & Technology
+  titel: Section 230 and Its Applicability to Generative AI — A Legal Analysis
+  fundstelle: Center for Democracy & Technology, Washington D.C., 04.09.2024
+  jahr: 2024
+  sprache: en
+  url: https://cdt.org/insights/section-230-and-its-applicability-to-generative-ai-a-legal-analysis/
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - haftung
+  - content
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - us-cda-230
+  kernthese: Die Anwendbarkeit des § 230 auf generierte Inhalte lässt sich nicht pauschal beantworten,
+    sondern hängt davon ab, wie stark der Anbieter den konkreten Output geformt hat; Retrieval und Zitierung
+    fremder Quellen liegen anders als freie Generierung.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die differenzierteste Gegenstimme zu Peraults Pauschalthese und deshalb aufgenommen,
+    obwohl es sich um ein NGO-Positionspapier handelt: Die Unterscheidung zwischen generiertem und wiedergegebenem
+    Inhalt ist praktisch erheblich und wird in der akademischen Literatur unterschlagen. Für Systeme mit
+    Websuche — inzwischen der Regelfall — ist sie die entscheidende Weiche. Der Text arbeitet mit dem
+    material-contribution-Test aus Roommates.com und belegt nebenbei den prozesstaktischen Befund: Weder
+    OpenAI noch Microsoft haben sich in Walters bzw. Battle auf § 230 berufen. CDT vertritt bürgerrechtliche
+    Positionen und hat ein Interesse am Erhalt der Freistellung; das ist mitzulesen. Verfasst von einem
+    Praktikanten der Organisation — inhaltlich solide, aber kein Autoritätsargument.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-47-230-c-1
+  - usc-47-230-f-3
+- id: 2026-quarck-ki-strafrechtsdogmatik
+  typ: monographie
+  autoren:
+  - Quarck, Lasse Ferdinand
+  titel: Die künstliche Intelligenz in der Strafrechtsdogmatik. Zur Verantwortung beim Einsatz von intelligenten
+    Agenten und zur Strafbarkeit von e-Personen
+  fundstelle: Rezension von Gunnar Spilgies, KriPoZ 3/2026
+  jahr: 2026
+  sprache: de
+  url: https://kripoz.de/2026/06/01/lasse-ferdinand-quarck-die-kuenstliche-intelligenz-in-der-strafrechtsdogmatik-zur-verantwortung-beim-einsatz-von-intelligenten-agenten-und-zur-be-strafbarkeit-von-e-personen/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - haftung
+  - content
+  - governance
+  kernthese: Die Zurechnung strafrechtlicher Verantwortung beim Einsatz intelligenter Agenten lässt sich
+    mit den überkommenen Kategorien bewältigen; eine Strafbarkeit von e-Personen ist weder nötig noch
+    begründbar.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Aufgenommen als Zugang zur deutschen strafrechtlichen Grundlagendiskussion über eine
+    frei zugängliche Rezension — die Monografie selbst ist nur im Buchhandel. Für den Streitstand `ki-csam-besitz`
+    ist der Ertrag mittelbar: Quarck behandelt die Zurechnungsfrage, nicht die Tatbestandsfrage. Wer die
+    deutsche Seite der transatlantischen Divergenz dogmatisch ausarbeiten will, findet die einschlägige
+    Kommentarliteratur zu § 184b StGB ausschließlich bei Beck und Juris (s. `meta.nachschlageliste`);
+    frei zugänglich ist zu dieser Frage im deutschen Recht nichts von Rang, was für sich genommen ein
+    Befund ist.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-saar-character-ai-aiact
+  typ: blogbeitrag
+  autoren:
+  - Saar, Elise
+  titel: Deathly Chatbots Under the AI Act — The Case of Character.AI
+  fundstelle: RAILS Blog (Robotics & AI Law Society), 25.08.2026
+  jahr: 2026
+  sprache: en
+  url: https://blog.ai-laws.org/deathly-chatbots-under-the-ai-act-the-case-of-character-ai/
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  themenachsen:
+  - haftung
+  - grundrechte
+  - content
+  - governance
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Begleit-Chatbots wie Character.AI fallen als Systeme mit begrenztem Risiko nur unter Art.
+    50 Abs. 1 KI-VO, obwohl sie psychische Schäden verursachen; sie gehören in Anhang III und damit unter
+    Risikomanagement und menschliche Aufsicht, nicht unter das Verbot des Art. 5.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der RAILS-Blog ist der Vereinsblog der von Martin Ebers gegründeten Robotics & AI
+    Law Society, frei zugänglich, englischsprachig, aber mit deutschem institutionellem Anker. Der Beitrag
+    ist der Versuch, die amerikanischen Chatbot-Suizidverfahren (Garcia, Raine) in die Systematik der
+    KI-VO zu übersetzen — genau die Übersetzungsleistung, die in der deutschen Literatur fehlt. Schwach
+    ist die Auseinandersetzung mit Art. 5 Abs. 1 lit. b KI-VO (Ausnutzung der Schutzbedürftigkeit), die
+    Saar zu schnell verwirft. Die Autorin ist estnische Praktikerin, nicht Wissenschaftlerin; entsprechend
+    flach ist der Apparat. Ergänzt.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-50-abs-1
+  - ki-vo-art-5-abs-1-lit-b
+  - ki-vo-art-6-abs-2
+  - us-const-amend-1
+- id: 2026-spilgies-rezension-quarck-e-personen
+  typ: aufsatz
+  autoren:
+  - Spilgies, Gunnar
+  titel: Besprechung von Lasse Ferdinand Quarck, Die künstliche Intelligenz in der Strafrechtsdogmatik.
+    Zur Verantwortung beim Einsatz von intelligenten Agenten und zur (Be-)Strafbarkeit von 'e-Personen'
+  fundstelle: KriPoZ, 01.06.2026 (Rezension zu Springer, Berlin 2025, 261 S.)
+  jahr: 2026
+  sprache: de
+  url: https://kripoz.de/2026/06/01/lasse-ferdinand-quarck-die-kuenstliche-intelligenz-in-der-strafrechtsdogmatik-zur-verantwortung-beim-einsatz-von-intelligenten-agenten-und-zur-be-strafbarkeit-von-e-personen/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - haftung
+  - governance
+  kernthese: Quarcks summa cum laude bewertete Dissertation zur Strafbarkeit von 'e-Personen' scheitert
+    an der Vermischung ontologischer und soziologischer Begriffsbildung und widerlegt im Fazit ihre eigene
+    Kernthese.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Erfrischend scharfe Rezension, die zeigt, wozu freie Fachzeitschriften taugen: Spilgies
+    zerlegt eine mit Bestnote bewertete Dissertation, und zwar mit einem methodischen Argument, das über
+    den Einzelfall hinausträgt — wer die Strafbarkeit von KI-Systemen begründen will, muss sich entscheiden,
+    ob er den Personbegriff ontologisch oder zuschreibend führt, und darf nicht wechseln. Für die e-Person-Debatte
+    in Deutschland spart die Rezension die Lektüre der Monografie, die nicht frei ist. Als eigenständiger
+    Beitrag natürlich zu dünn.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2026-albach-henze-yazdanbakhsh-tagung-strafrecht-ki
+  typ: bericht
+  autoren:
+  - Albach, Veronika
+  - Henze, Selina
+  - Yazdanbakhsh, Ramona
+  titel: Strafrecht und Künstliche Intelligenz — Bericht über die Tagung des Deutsch-Georgischen Rechtsdialogs
+    'Strafrecht und Menschenrechte' in Tbilissi
+  fundstelle: KriPoZ, 02.02.2026
+  jahr: 2026
+  sprache: de
+  url: https://kripoz.de/2026/02/02/strafrecht-und-kuenstliche-intelligenz-bericht-ueber-die-tagung-des-deutsch-georgischen-rechtsdialogs-strafrecht-und-menschenrechte-in-tbilissi/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - haftung
+  - grundrechte
+  - governance
+  kernthese: Der Tagungsbericht dokumentiert den Stand der deutschsprachigen strafrechtlichen KI-Diskussion
+    zu Verantwortungszurechnung, Beweisrecht und Menschenrechtsbindung.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Über die KriPoZ-Trefferliste belegt, Volltext nicht gelesen. Tagungsberichte sind
+    wissenschaftlich zweitrangig, in einer beckfreien Recherche aber überproportional nützlich, weil sie
+    die Namen und Positionen aufführen, die man sonst nur über kostenpflichtige Tagungsbände fände. Als
+    Landkarte der Beteiligten zu lesen, nicht als Argument.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-quarck-ki-strafrechtsdogmatik
+  typ: dissertation
+  autoren:
+  - Quarck, Lasse Ferdinand
+  titel: Die künstliche Intelligenz in der Strafrechtsdogmatik. Zur Verantwortung beim Einsatz von intelligenten
+    Agenten und zur (Be-)Strafbarkeit von 'e-Personen'
+  fundstelle: Springer, Berlin 2025, 261 S.
+  jahr: 2025
+  sprache: de
+  zugang: bezahlt
+  jurisdiktionen:
+  - de
+  themenachsen:
+  - haftung
+  - governance
+  kernthese: Die strafrechtliche Verantwortung beim Einsatz intelligenter Agenten lässt sich nur klären,
+    wenn man die Frage der Straffähigkeit von 'e-Personen' eigenständig beantwortet.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Nicht frei. Nach der Rezension von Spilgies (KriPoZ 2026) methodisch verfehlt, weil
+    ontologische und zuschreibende Personbegriffe vermischt werden, und im Ergebnis selbstwidersprüchlich.
+    Erfasst, damit man weiß, dass es die Arbeit gibt, und damit man sie nicht kauft, ohne die Rezension
+    gelesen zu haben. Ein Beispiel dafür, dass die freien Rezensionen in einer beckfreien Recherche eine
+    Filterfunktion übernehmen, die sonst der Kommentarapparat leistet.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2022-yao-react
+  typ: aufsatz
+  autoren:
+  - Yao, Shunyu
+  - Zhao, Jeffrey
+  - Yu, Dian
+  - Du, Nan
+  - Shafran, Izhak
+  - Narasimhan, Karthik
+  - Cao, Yuan
+  titel: 'ReAct: Synergizing Reasoning and Acting in Language Models'
+  fundstelle: International Conference on Learning Representations (ICLR 2023); arXiv:2210.03629 (cs.CL),
+    06.10.2022
+  jahr: 2022
+  sprache: en
+  doi: 10.48550/arXiv.2210.03629
+  url: https://arxiv.org/abs/2210.03629
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - haftung
+  - gpai
+  - vertrag
+  kernthese: Ein Sprachmodell wird handlungsfähig, indem es abwechselnd Überlegungen und Werkzeugaufrufe
+    erzeugt und die Rückmeldungen der Außenwelt in den nächsten Schritt aufnimmt — der Handlungsplan entsteht
+    dabei erst zur Laufzeit.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was ein "KI-Agent" technisch ist — die Vorfrage jeder Zurechnungsdiskussion,
+    die derzeit überwiegend ohne Kenntnis des Gegenstands geführt wird. Der Text steht hier als Definitionsquelle,
+    nicht wegen seines Inhalts. Zwei Beobachtungen sind juristisch unmittelbar erheblich. ERSTENS gibt
+    es keinen "Agenten" als Artefakt: Es gibt ein Modell, eine Schleife und eine Menge von Werkzeugen,
+    und die Schleife wird typischerweise von einem anderen Akteur gebaut als das Modell. Die Zurechnungsfrage
+    ist damit von vornherein mehrpersonal — Modellanbieter, Schleifenbetreiber, Werkzeuganbieter, Einsetzender
+    —, und die KI-VO erfasst diese Kette über Art. 25 nur unvollständig. ZWEITENS entsteht der Handlungsplan
+    erst zur Laufzeit und ist vorher niemandem bekannt. Das ist der technische Kern des Problems, das
+    das Deliktsrecht als Vorhersehbarkeit behandelt: Nicht die Handlung ist unvorhersehbar, sondern die
+    HandlungsFOLGE aus einer im Voraus festgelegten Schleife. Wer diese Unterscheidung führt, kommt bei
+    der Verkehrspflichtendogmatik weiter als mit der Frage nach "Autonomie". ANGREIFBAR: technischer Aufsatz
+    von 2022, inzwischen überholt; heutige Systeme arbeiten anders. Als Begriffsquelle bleibt er brauchbar,
+    als Beschreibung des Stands der Technik nicht. Kurz und lesbar.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-25
+- id: 2023-chan-harms-agentic
+  typ: aufsatz
+  autoren:
+  - Chan, Alan
+  - Salganik, Rebecca
+  - Markelius, Alva
+  - Pang, Chris
+  - Rajkumar, Nitarshan
+  - Krasheninnikov, Dmitrii
+  - Langosco, Lauro
+  - u.a.
+  titel: Harms from Increasingly Agentic Algorithmic Systems
+  fundstelle: ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023), 651; arXiv:2302.10329
+    (cs.AI), 20.02.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2302.10329
+  url: https://arxiv.org/abs/2302.10329
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - haftung
+  - grundrechte
+  - governance
+  kernthese: Handlungsmächtigkeit ist keine Eigenschaft, die ein System hat oder nicht hat, sondern eine
+    Größe mit vier Dimensionen — Unterbestimmtheit des Ziels, Unmittelbarkeit der Wirkung, Zielgerichtetheit
+    und langfristige Planung —; die Anerkennung von Handlungsmacht der Maschine verschiebt die Verantwortung
+    des Menschen nicht.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: wie sich "Autonomie" als Tatbestandsmerkmal operationalisieren
+    lässt — Art. 3 Nr. 1 KI-VO definiert KI-Systeme über "unterschiedliche Grade von Autonomie", ohne
+    zu sagen, woran man den Grad misst. Die vier Dimensionen liefern genau das, was der Norm fehlt, und
+    sie sind einzeln subsumierbar: Wie eng ist das Ziel vorgegeben? Wirkt das System unmittelbar auf die
+    Welt oder schlägt es einem Menschen etwas vor? Verfolgt es ein Ziel über Zwischenschritte? Plant es
+    über die Einzelhandlung hinaus? Für Art. 14 KI-VO (menschliche Aufsicht) ist die zweite Dimension
+    die entscheidende, und sie wird in der Kommentierung nicht gesondert behandelt. Der zweite Satz des
+    Textes ist der juristisch wichtigere und wird in der Debatte über elektronische Personen regelmäßig
+    übergangen: Die Zuschreibung von Handlungsmacht an das System "entlastet oder verschiebt die menschliche
+    Verantwortung nicht" — die Verfasser sagen das ausdrücklich, und sie sind Informatiker, was dem Satz
+    im Streit über eine eigene Rechtspersönlichkeit Gewicht gibt. ANGREIFBAR: eine Taxonomie ohne Messvorschrift;
+    die vier Dimensionen sind einleuchtend, aber nicht quantifiziert, und der Text ist vor der agentischen
+    Praxis von 2024/25 geschrieben.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-3-nr-1
+  - ki-vo-art-14
+- id: 2024-chan-visibility-agents
+  typ: aufsatz
+  autoren:
+  - Chan, Alan
+  - Ezell, Carson
+  - Kaufmann, Max
+  - Wei, Kevin
+  - Hammond, Lewis
+  - Bradley, Herbie
+  - Blümke, Emma
+  - Rajkumar, Nitarshan
+  - u.a.
+  titel: Visibility into AI Agents
+  fundstelle: ACM Conference on Fairness, Accountability, and Transparency (FAccT 2024), 958; arXiv:2401.13138
+    (cs.CY), 23.01.2024
+  jahr: 2024
+  sprache: en
+  doi: 10.48550/arXiv.2401.13138
+  url: https://arxiv.org/abs/2401.13138
+  zugang: open-access
+  jurisdiktionen:
+  - eu
+  - us
+  - uk
+  themenachsen:
+  - haftung
+  - governance
+  - gpai
+  - vertrag
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - produkthaftungsrichtlinie-2024-2853
+  kernthese: Sichtbarkeit von Agentensystemen lässt sich über drei Maßnahmen herstellen — Agentenkennungen,
+    laufende Überwachung und Tätigkeitsprotokolle —, die sich in Eingriffstiefe und Aussagekraft unterscheiden
+    und jeweils eigene Datenschutzfolgen haben.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: wie Zurechnung bei Agentensystemen praktisch funktionieren kann
+    — die Frage, an der jede Haftungsdogmatik scheitert, solange nicht feststellbar ist, WELCHES System
+    im Auftrag WESSEN gehandelt hat. Der wichtigste Text des Agentenblocks für die Rechtspraxis, weil
+    er die drei Instrumente auseinanderhält, die im juristischen Schrifttum unter "Transparenz" zusammenfallen.
+    Die AGENTENKENNUNG ist die juristisch interessanteste: Sie würde jeder Interaktion eine dem System
+    und seinem Betreiber zurechenbare Marke geben und damit das Zurechnungsproblem in ein Identifikationsproblem
+    verwandeln — strukturell dasselbe, was das Handelsregister für die juristische Person leistet. Für
+    die deutsche Diskussion um eine Registrierung autonomer Systeme ist das die technische Grundlage,
+    die bislang fehlt. Die PROTOKOLLIERUNG schließt unmittelbar an Art. 12 und 19 KI-VO an und liefert
+    die Antwort auf die Frage, was ein Protokoll enthalten muss, damit die Offenlegungsanordnung nach
+    Art. 9 der Produkthaftungsrichtlinie 2024/2853 etwas hergibt. Die Verfasser behandeln die datenschutzrechtliche
+    Kehrseite ausdrücklich — Sichtbarkeit von Agenten heißt Sichtbarkeit ihrer Nutzer —, was den Text
+    von regulierungsfreundlicher Literatur abhebt. ANGREIFBAR: Vorschlag ohne Umsetzung; die technischen
+    Voraussetzungen (durchgängige Kennungen über Anbietergrenzen hinweg) sind 2026 nicht gegeben, und
+    die Fortsetzung der Verfasser (Infrastructure for AI Agents, TMLR 2025, arXiv:2501.10114) räumt das
+    ein.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-12
+  - ki-vo-art-19
+  - pld-art-9
+- id: 2025-cemri-multi-agent-fail
+  typ: working-paper
+  autoren:
+  - Cemri, Mert
+  - Pan, Melissa Z.
+  - Yang, Shuyi
+  - Agrawal, Lakshya A.
+  - Chopra, Bhavya
+  - Tiwari, Rishabh
+  - Keutzer, Kurt
+  - Parameswaran, Aditya
+  - u.a.
+  titel: Why Do Multi-Agent LLM Systems Fail?
+  fundstelle: arXiv:2503.13657 (cs.AI), 17.03.2025
+  jahr: 2025
+  sprache: en
+  doi: 10.48550/arXiv.2503.13657
+  url: https://arxiv.org/abs/2503.13657
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  themenachsen:
+  - haftung
+  - gpai
+  - vertrag
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  - ki-vo-2024-1689
+  kernthese: Aus über 1.600 annotierten Ausführungsprotokollen über sieben Rahmenwerke ergibt sich eine
+    Taxonomie von 14 Fehlermodi in drei Gruppen — Entwurfsfehler des Systems, Fehlabstimmung zwischen
+    den Agenten und mangelhafte Aufgabenprüfung.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: was bei einem Agentensystem der "Fehler" im Sinne des Produkthaftungsrechts
+    ist — die Frage, an der die Anwendung der Produkthaftungsrichtlinie 2024/2853 auf Agentensysteme steht
+    und fällt. Der einzige Text dieser Akte, der Fehlverhalten agentischer Systeme systematisch klassifiziert
+    statt zu illustrieren, und dadurch für die Fehlerdogmatik unmittelbar brauchbar. Die Dreiteilung entspricht
+    erstaunlich genau der produkthaftungsrechtlichen Unterscheidung: Entwurfsfehler des Systems entsprechen
+    dem Konstruktionsfehler, mangelhafte Aufgabenprüfung dem Instruktions- und Überwachungsfehler. Die
+    mittlere Gruppe — Fehlabstimmung zwischen den Agenten — hat dagegen KEIN Gegenstück im Produkthaftungsrecht,
+    weil sie einen Fehler bezeichnet, der in keinem einzelnen Bestandteil liegt, sondern in ihrem Zusammenwirken.
+    Genau dort liegt die Lücke, die nach Rücknahme der KI-Haftungsrichtlinie offen geblieben ist, und
+    dieser Text benennt sie erstmals empirisch statt spekulativ. Wer über die Anwendbarkeit des § 3 ProdHaftG
+    auf zusammengesetzte Systeme schreibt, hat hier das Material. ANGREIFBAR: Preprint, Fehlerzuordnung
+    durch menschliche Annotation mit erheblichem Beurteilungsspielraum, Auswahl der sieben Rahmenwerke
+    nicht begründet. Die Taxonomie ist eine Beobachtung, keine Theorie.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-7
+- id: 2023-kalai-vempala-must-hallucinate
+  typ: aufsatz
+  autoren:
+  - Kalai, Adam Tauman
+  - Vempala, Santosh S.
+  titel: Calibrated Language Models Must Hallucinate
+  fundstelle: 56th Annual ACM Symposium on Theory of Computing (STOC 2024), 160; arXiv:2311.14648 (cs.CL),
+    24.11.2023
+  jahr: 2023
+  sprache: en
+  doi: 10.48550/arXiv.2311.14648
+  url: https://arxiv.org/abs/2311.14648
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  - eu
+  - de
+  themenachsen:
+  - haftung
+  - berufsrecht
+  - gpai
+  - content
+  bezug_streitstaende:
+  - chatbot-output-speech
+  bezug_regelwerke:
+  - produkthaftungsrichtlinie-2024-2853
+  - ki-vo-2024-1689
+  kernthese: Für Tatsachen, die im Trainingsmaterial nur einmal vorkommen, hat ein kalibriertes Sprachmodell
+    eine untere Schranke für die Rate erfundener Aussagen, die sich nach der Good-Turing-Schätzung bemisst
+    — Halluzination ist insoweit statistisch erzwungen, nicht behebbar.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'MACHT BEANTWORTBAR: ob ein Sprachmodell, das falsche Tatsachen ausgibt, deshalb fehlerhaft
+    im Sinne des § 3 ProdHaftG beziehungsweise des Art. 7 der Produkthaftungsrichtlinie 2024/2853 ist
+    — und ob die Sicherheitserwartung, die der Verkehr berechtigterweise hegen darf, "keine erfundenen
+    Angaben" umfassen kann. Der Beweis liefert das stärkste verfügbare Argument gegen einen Fehlerbegriff,
+    der an Richtigkeit anknüpft: Ein kalibriertes Modell — also eines, dessen Wahrscheinlichkeitsangaben
+    den tatsächlichen Häufigkeiten entsprechen — MUSS bei einmalig belegten Tatsachen mit einer bezifferbaren
+    Mindestrate erfinden. Wer das abstellen will, muss die Kalibrierung aufgeben, und ein unkalibriertes
+    Modell ist an anderer Stelle schlechter. Für die Haftungsdogmatik heißt das, dass die Sicherheitserwartung
+    nicht auf Richtigkeit gerichtet sein kann, sondern nur auf Warnung, Kennzeichnung und Prüfbarkeit
+    — also auf Instruktion statt auf Konstruktion. Das ist zugleich der Grund, weshalb die Berufspflichten
+    beim KI-Einsatz (Prüfpflicht des Anwalts) nicht durch besseren Einkauf ersetzbar sind. ANGREIFBAR,
+    und die Autoren sagen es selbst: Die Schranke gilt für "willkürliche" Tatsachen mit einmaligem Vorkommen.
+    Für häufig belegte Angaben — Rechtsprechungszitate, Fundstellen, Rechenoperationen — besteht KEINE
+    statistische Notwendigkeit; dort ist Halluzination sehr wohl behebbar und ihr Fortbestehen vorwerfbar.
+    Genau diese Unterscheidung fehlt in der juristischen Diskussion, die Halluzination pauschal für unvermeidbar
+    oder pauschal für vermeidbar hält. Beides ist falsch. Der Beweis ist formal; Einleitung und Ergebnisdarstellung
+    genügen.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - pld-art-7
+- id: 2025-parra-concha-ia-explicable
+  typ: aufsatz
+  autoren:
+  - Parra Sepúlveda, Darío
+  - Concha Machuca, Ricardo
+  titel: La inteligencia artificial explicable como fundamento para la gobernanza de la IA. Sus implicancias
+    en la responsabilidad civil
+  titel_deutsch: Erklärbare künstliche Intelligenz als Grundlage der KI-Governance. Ihre Auswirkungen
+    auf die zivilrechtliche Haftung
+  fundstelle: Revista Chilena de Derecho y Tecnología 14 (2025), Artikel 74040
+  jahr: 2025
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/74040
+  doi: 10.5354/0719-2584.2025.74040
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  - eu
+  themenachsen:
+  - haftung
+  - governance
+  - gpai
+  bezug_regelwerke:
+  - eu-ki-vo
+  kernthese: 'Erklärbarkeit ist nicht nur ethische Anforderung, sondern haftungsrechtlich relevant: sie
+    entscheidet darüber, ob dem Geschädigten der Beweis des Pflichtverstosses überhaupt gelingen kann,
+    und sollte deshalb in die Haftungstatbestände selbst eingebaut werden.
+
+    '
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der wichtigste haftungsrechtliche Text aus Chile und derjenige, der einem deutschen
+    Zivilrechtler am meisten gibt. Parra Sepúlveda und Concha Machuca machen etwas, das die europäische
+    Debatte nach dem Rückzug der KI-Haftungsrichtlinie im Februar 2025 offen liegen liess: Sie behandeln
+    Erklärbarkeit nicht als Compliance- Pflicht des Anbieters, sondern als Voraussetzung der Beweisführung,
+    und leiten daraus ab, dass die Beweislast dort liegen muss, wo die Erklärbarkeit hergestellt werden
+    kann. Das ist funktional die Argumentation, mit der Art. 3 und 4 des zurückgezogenen Richtlinienvorschlags
+    begründet wurden — nur dogmatisch sauberer und ohne den Rückgriff auf eine gesetzliche Vermutung.
+    Schwach: die chilenische Anbindung. Der Text arbeitet fast ausschliesslich mit EU-Material und sagt
+    wenig darüber, wie Art. 2314 ff. Código Civil chileno damit umgehen. Wer eine Gegenposition zur Aufgabe
+    der KI-Haftungsrichtlinie sucht, findet sie hier.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2025-torres-macpherson-responsabilidad-civil-ia
+  typ: aufsatz
+  autoren:
+  - Torres Mac-Pherson, Fernanda
+  - Villarroel Contreras, Mirko
+  - Salgado Alonso, Javier
+  titel: 'Responsabilidad civil por daños provenientes de ilícitos derivados del uso de la inteligencia
+    artificial: régimen aplicable y desafíos de seguridad para su desarrollo'
+  titel_deutsch: 'Zivilrechtliche Haftung für Schäden aus unerlaubten Handlungen beim Einsatz künstlicher
+    Intelligenz: anwendbares Regime und Sicherheitsanforderungen'
+  fundstelle: Revista Chilena de Derecho y Tecnología 14 (2025), Artikel 74613
+  jahr: 2025
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/74613
+  doi: 10.5354/0719-2584.2025.74613
+  zugang: open-access
+  jurisdiktionen:
+  - cl
+  themenachsen:
+  - haftung
+  - vertrag
+  kernthese: 'Chile hat keine KI-spezifische Haftungsnorm; der einzige brauchbare Anknüpfungspunkt ist
+    das Regime der Produkthaftung für fehlerhafte Erzeugnisse, das aber an Beweis- und Zurechnungsfragen
+    scheitert.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Die nützliche Ergänzung zu Parra/Concha: wo jene das Prinzip diskutieren, kartieren
+    diese drei Autoren das geltende chilenische Recht und zeigen, an welchen Stellen es reisst. Für einen
+    deutschen Leser ist der Text vor allem als Kontrastfall interessant, weil Chile die Produkthaftungsrichtlinie
+    nie umgesetzt hat und stattdessen mit einer verbraucherschutzrechtlichen Konstruktion (Ley 19.496)
+    arbeitet — man sieht also, wie eine Rechtsordnung ohne verschuldensunabhängige Produkthaftung mit
+    Softwareschäden umgeht. Genau das ist die Frage, die sich in der EU erst mit der neuen Produkthaftungsrichtlinie
+    (EU) 2024/2853 und ihrer Einbeziehung von Software erledigt hat. Handwerklich solide, theoretisch
+    anspruchslos.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2021-nascimento-souza-oliveira-regulacao-responsabilidade
+  typ: aufsatz
+  autoren:
+  - Paes Nascimento, Hérica Cristina
+  - Barbosa de Souza, Maique
+  - da Silveira Oliveira, Patrícia
+  titel: A regulação da inteligência artificial e novos contornos para caracterização da responsabilidade
+    civil
+  titel_deutsch: Die Regulierung der künstlichen Intelligenz und neue Konturen der zivilrechtlichen Haftung
+  fundstelle: Revista de Direito, Governança e Novas Tecnologias 7 (2021), Nr. 2, 73–90
+  jahr: 2021
+  sprache: pt
+  url: https://www.indexlaw.org/index.php/revistadgnt/article/view/8371
+  doi: 10.26668/IndexLawJournals/2526-0049/2021.v7i2.8371
+  zugang: open-access
+  jurisdiktionen:
+  - br
+  themenachsen:
+  - haftung
+  - governance
+  kernthese: 'Die entstehende KI-Regulierung verändert die Konturen der zivilrechtlichen Haftung; sie
+    soll Grundrechte schützen, ohne die technologische Entwicklung zu bremsen.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der Text ist 2021 geschrieben und damit vor dem PL 2.338/2023; er bezieht sich auf
+    die inzwischen überholten Vorgängerentwürfe (PL 21/2020). Als Darstellung des geltenden Rechts unbrauchbar.
+    Ich erfasse ihn, weil die brasilianische Haftungsdiskussion sonst in dieser Sammlung nur über die
+    ITS-Berichte abgebildet wäre und weil er die Anknüpfung an Art. 927 Parágrafo único des Código Civil
+    (verschuldensunabhängige Haftung für risikobehaftete Tätigkeit) benennt — das ist die Norm, über die
+    die brasilianische KI-Haftung tatsächlich laufen wird und deren Reichweite bis heute streitig ist.
+    Für die Norm, nicht für die Argumentation.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-mukwevho-oriakhogba-patentverletzung-ki
+  typ: aufsatz
+  autoren:
+  - Mukwevho, Tshimangadzo Donald
+  - Oriakhogba, Desmond Osaretin
+  titel: Situating liability for patent infringement by Artificial Intelligence Systems in South Africa
+  fundstelle: South African Mercantile Law Journal 36 (2024), Heft 1, 41-58
+  jahr: 2024
+  sprache: en
+  doi: 10.47348/samlj/v36/i1a2
+  zugang: bezahlt
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - haftung
+  - wettbewerb
+  kernthese: Verletzt ein autonom operierendes KI-System ein Patent, laesst sich die Verletzerhaftung
+    nach dem Patents Act 57 of 1978 weder dem System noch ohne Weiteres dem Betreiber zuordnen; die Autoren
+    ordnen die Haftung ueber Zurechnungsfiguren dem Nutzer beziehungsweise Entwickler zu.
+  eigene_bewertung: 'Nischig, aber sauber gearbeitet und in der Sache interessant, weil Suedafrika mit
+    dem DABUS-Patent 2021 das weltweit erste Patent mit einer KI als benanntem Erfinder erteilt hat -
+    allerdings nur, weil das suedafrikanische Amt keine materielle Pruefung durchfuehrt. Vor diesem Hintergrund
+    ist die Frage der Verletzerhaftung die logische Fortsetzung. Fuer meine Zwecke Randlage: Das Patentrecht
+    ist nicht die Hauptachse, und die Zurechnungsargumentation ist die uebliche. Aber als Fussnote zum
+    DABUS-Komplex brauchbar.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2023-kgoale-odeku-rechenschaft-ki-finanzsektor
+  typ: aufsatz
+  autoren:
+  - Kgoale, Thupane Justice
+  - Odeku, Kola
+  titel: An analysis of legal accountability for artificial intelligence systems in the South African
+    financial sector
+  fundstelle: De Jure Law Journal 56 (2023), 191-205
+  jahr: 2023
+  sprache: en
+  doi: 10.17159/2225-7160/2023/v56a14
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - haftung
+  - sektor-finanz
+  kernthese: Fuer Schaeden durch KI-Systeme im suedafrikanischen Finanzsektor fehlt eine tragfaehige Zurechnungsgrundlage;
+    die Autoren plaedieren fuer eine gesetzliche Verantwortlichkeit des Betreibers statt fuer den Rueckgriff
+    auf allgemeine Deliktsgrundsaetze.
+  eigene_bewertung: 'Kurzer Beitrag in einer frei zugaenglichen Zeitschrift der Universitaet Pretoria.
+    Der argumentative Ertrag ist begrenzt - die Autoren stellen das Zurechnungsproblem fest und fordern
+    Gesetzgebung, ohne einen Tatbestand zu formulieren. Ich fuehre ihn, weil De Jure in Suedafrika breit
+    rezipiert wird und der Text den Diskussionsstand markiert; als Argumentationsquelle taugt er nicht.
+    Achtung bei der Zitierung: Crossref weist widerspruechlich Band 55 aus, der DOI und die Heftzaehlung
+    sprechen fuer Band 56 (2023).'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2021-chagal-feferkorn-reasonable-algorithm
+  typ: aufsatz
+  autoren:
+  - Chagal-Feferkorn, Karni
+  titel: How Can I Tell if My Algorithm Was Reasonable?
+  fundstelle: Michigan Technology Law Review 27 (2021), Heft 2, 213
+  jahr: 2021
+  sprache: en
+  doi: 10.36645/mtlr.27.2.how
+  zugang: open-access
+  jurisdiktionen:
+  - il
+  - us
+  themenachsen:
+  - haftung
+  kernthese: Der Sorgfaltsmassstab des vernuenftigen Menschen laesst sich auf autonome Systeme nicht schlicht
+    uebertragen; Chagal-Feferkorn entwickelt Kriterien, an denen sich messen laesst, ob das Verhalten
+    eines Algorithmus im haftungsrechtlichen Sinn vertretbar war.
+  eigene_bewertung: 'Karni Chagal-Feferkorn ist die israelische Autorin, an der man beim Thema Haftung
+    fuer autonome Systeme nicht vorbeikommt; sie hat die Figur des "reasonable algorithm" gepraegt und
+    ueber mehrere Arbeiten durchgefuehrt. Fuer mich ist der Text deshalb wichtig, weil er die Frage stellt,
+    die das deutsche Deliktsrecht bei Paragraf 276 Abs. 2 BGB umgeht: Wenn der Verkehr keine Erwartung
+    an das System hat, weil es neu ist, woraus speist sich dann die im Verkehr erforderliche Sorgfalt?
+    Ihr Vorschlag - Vergleich mit dem menschlichen Entscheider in derselben Rolle, nicht mit dem idealen
+    System - ist praktikabel und wird in der US-Diskussion breit aufgenommen. Frei verfuegbar ueber die
+    Michigan Technology Law Review. Der israelische Bezug ist mittelbar (Autorin, Perspektive), der Text
+    selbst argumentiert im US-Deliktsrecht.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2020-chagal-feferkorn-algorithmische-schaediger
+  typ: sammelband
+  autoren:
+  - Chagal-Feferkorn, Karni
+  titel: When Do Algorithmic Tortfeasors that Caused Damage Warrant Unique Legal Treatment?
+  fundstelle: 'in: Woodrow Barfield (Hrsg.), The Cambridge Handbook of the Law of Algorithms, Cambridge
+    University Press, Cambridge 2020, 471-492'
+  jahr: 2020
+  sprache: en
+  doi: 10.1017/9781108680844.023
+  zugang: bezahlt
+  jurisdiktionen:
+  - il
+  - intl
+  themenachsen:
+  - haftung
+  kernthese: Nicht jeder Schaden durch einen Algorithmus rechtfertigt eine Sonderbehandlung; entscheidend
+    sei, ob das System die Merkmale aufweist, die der herkoemmlichen Zurechnung den Boden entziehen -
+    Autonomie, Lernfaehigkeit, Undurchsichtigkeit und Unvorhersehbarkeit.
+  eigene_bewertung: Die knappste und klarste Fassung ihres Ansatzes. Der Beitrag ist deshalb nuetzlich,
+    weil er die in der deutschen Diskussion oft pauschale Rede vom Haftungsproblem bei KI in pruefbare
+    Merkmale zerlegt und damit erlaubt zu sagen, welche Systeme wirklich neue Fragen aufwerfen und welche
+    nicht. Das ist genau die Unterscheidung, die die zurueckgezogene KI-Haftungsrichtlinie mit ihrer Beweislastvermutung
+    nicht getroffen hat. Aus einem Handbuch, also referierend - wer die Argumentation im Detail will,
+    nimmt die Aufsaetze.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2019-zerilli-kontrollproblem
+  typ: aufsatz
+  autoren:
+  - Zerilli, John
+  - Knott, Alistair
+  - Maclaurin, James
+  - Gavaghan, Colin
+  titel: Algorithmic Decision-Making and the Control Problem
+  fundstelle: Minds and Machines 29 (2019), Heft 4, 555-578
+  jahr: 2019
+  sprache: en
+  doi: 10.1007/s11023-019-09513-7
+  zugang: bezahlt
+  jurisdiktionen:
+  - nz
+  - intl
+  themenachsen:
+  - haftung
+  - governance
+  - sektor-oeffentlich
+  kernthese: Die Forderung nach menschlicher Aufsicht ueber algorithmische Entscheidungen laeuft leer,
+    weil die aus der Automatisierungsforschung bekannten Effekte - Automatisierungsverzerrung, Aufmerksamkeitsverlust,
+    Verantwortungsdiffusion - den Aufseher systematisch entwerten.
+  eigene_bewertung: 'Fuer mich der wichtigste Text zur menschlichen Aufsicht ueberhaupt, und er stammt
+    aus Neuseeland. Art. 14 KI-VO ordnet menschliche Aufsicht an, ohne die empirische Frage zu stellen,
+    ob Menschen diese Aufsicht leisten koennen; Zerilli und Kollegen zeigen mit Belegen aus der Luftfahrt
+    und der Medizin, dass sie es regelmaessig nicht koennen. Wer begruenden will, warum der "human in
+    the loop" allein keine Rechtfertigung fuer den Einsatz eines Hochrisikosystems ist, findet hier die
+    Belege. Ich halte den Aufsatz fuer die staerkste verfuegbare Kritik an der zentralen Schutzvorkehrung
+    des europaeischen Modells. Einschraenkung: Die Autoren ziehen daraus keine Rechtsfolge, sondern belassen
+    es beim Befund.'
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2020-chesterman-grenzen-rechtspersoenlichkeit
+  typ: aufsatz
+  autoren:
+  - Chesterman, Simon
+  titel: Artificial Intelligence and the Limits of Legal Personality
+  fundstelle: International and Comparative Law Quarterly 69 (2020), Heft 4, 819-844
+  jahr: 2020
+  sprache: en
+  doi: 10.1017/s0020589320000366
+  zugang: bezahlt
+  jurisdiktionen:
+  - sg
+  - intl
+  themenachsen:
+  - haftung
+  - governance
+  kernthese: Rechtspersoenlichkeit fuer KI-Systeme loest kein bestehendes Problem und schafft zwei neue
+    - die Haftungsabschirmung der Hintermaenner und die Entwertung des Personenbegriffs; die praktischen
+    Zwecke, die sie erfuellen soll, lassen sich mit vorhandenen Rechtsfiguren erreichen.
+  eigene_bewertung: Der Aufsatz, den man zitiert, wenn jemand die elektronische Person wiederbelebt. Chesterman
+    unterscheidet sauber zwischen den drei Funktionen, die Rechtspersoenlichkeit erfuellen koennte - Haftungssubjekt,
+    Rechtsinhaber, Handlungssubjekt - und zeigt fuer jede, dass Stellvertretung, Gesellschaftsrecht und
+    Gefaehrdungshaftung dasselbe leisten. Fuer die deutsche Diskussion um die Teilrechtsfaehigkeit und
+    die Rechtsnatur autonomer Systeme ist das die international massgebliche Fundstelle. Ich halte die
+    Argumentation fuer durchschlagend; der einzige Punkt, an dem ich zoegere, ist die Behandlung von Systemen,
+    die selbst Vermoegen halten - dazu sagt er wenig.
+  prioritaet: pflicht
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

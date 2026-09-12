@@ -1,0 +1,976 @@
+# Weltraster — die Landkarte, nicht die Tiefe.
+#
+# Fuer jeden Staat der Bearbeitungsstand: Ist etwas erlassen, ist etwas im
+# Verfahren, gibt es nur eine Strategie, oder nichts? Und: haben wir es
+# erfasst oder beobachten wir es nur?
+#
+# Der Zweck ist das Gegenteil von Vollstaendigkeit. Das Raster soll
+# verhindern, dass ein Sonderweg uebersehen wird, weil das Land klein ist.
+# Albanien hat im September 2025 ein KI-System zum Regierungsmitglied
+# gemacht - das stand in keiner der grossen Uebersichten.
+#
+# `einstufung` steuert den Aufwand:
+#   erfasst    - vollstaendig in data/regelwerke/
+#   pflicht    - muss erfasst werden, noch offen
+#   beobachten - Vorhaben im Gang, Quartalspruefung genuegt
+#   nachrangig - nichts in Sicht, Jahrespruefung
+laender:
+- land: Australien
+  code: au
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 38
+  letzte_pruefung: &id001 2026-09-03
+- land: Brasilien
+  code: br
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 9
+  letzte_pruefung: *id001
+- land: China
+  code: cn
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 23
+  letzte_pruefung: *id001
+- land: Deutschland
+  code: de
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 17
+  letzte_pruefung: *id001
+- land: Europäische Union
+  code: eu
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 19
+  letzte_pruefung: *id001
+- land: Indien
+  code: in
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 10
+  letzte_pruefung: *id001
+- land: Japan
+  code: jp
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 7
+  letzte_pruefung: *id001
+- land: Kanada
+  code: ca
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 16
+  letzte_pruefung: *id001
+- land: Russland
+  code: ru
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 26
+  letzte_pruefung: *id001
+- land: Singapur
+  code: sg
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 9
+  letzte_pruefung: *id001
+- land: Südkorea
+  code: kr
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 9
+  letzte_pruefung: *id001
+- land: Vereinigte Staaten
+  code: us
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 79
+  letzte_pruefung: *id001
+- land: Vereinigtes Königreich
+  code: uk
+  status: gesetz
+  einstufung: erfasst
+  regelwerke_erfasst: 21
+  letzte_pruefung: *id001
+- land: Chile
+  code: cl
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: Proyecto de ley que regula los sistemas de inteligencia artificial (Boletin 16821-19)
+  datum: 2026-02
+  inhalt: Umfassender risikobasierter Entwurf nach EU-Vorbild, seit 2024 im Verfahren und 2026 im Senat;
+    das Wissenschaftsministerium bereitet parallel einen ueberarbeiteten Entwurf im Rahmen der Agenda
+    2026-2030 vor.
+  fundstelle: Congreso Nacional de Chile, Boletin 16821-19; Diario Constitucional 23.02.2026
+  url: https://www.diarioconstitucional.cl/2026/02/23/proyecto-de-ley-que-regula-integralmente-la-inteligencia-artificial-en-chile-prosigue-su-tramitacion-en-el-senado/
+  letzte_pruefung: *id001
+- land: Dänemark
+  code: dk
+  status: gesetz
+  einstufung: erfasst
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: true
+  kurztitel: Lov nr. 467 om supplerende bestemmelser til forordningen om kunstig intelligens
+  url: https://www.retsinformation.dk/eli/lta/2025/467
+  notiz: 'Der dogmatisch kühnste Sonderweg — und er ist bis heute nicht Gesetz geworden. Die §§ 65 a
+    und 73 a ophavsretsloven sollten Persönlichkeitsschutz gegen synthetische Medien im Gewand des
+    Urheberrechts schaffen (Gesicht, Körper, Stimme; 50 Jahre post mortem; Parodieausnahme mit
+    Rückausnahme für "misinformation"). Die Stillhaltefrist der TRIS-Notifizierung 2025/0654/DK lief am
+    03.02.2026 ohne ausführliche Stellungnahme ab — eingebracht wurde der Entwurf im Folketing nie.
+    Zweite Lücke: Lovforslag L 111 (AI-loven), das den Marktüberwachungsbehörden erstmals Befugnisse
+    und Bußgelder gegeben hätte, ist mit dem Ende der Samling weggefallen. Dänemark trifft den
+    Anwendungsbeginn des Art. 6 KI-VO mit einem reinen Behördenbenennungsgesetz.'
+  letzte_pruefung: *id001
+- land: Frankreich
+  code: fr
+  status: gesetz
+  einstufung: erfasst
+  eu_mitglied: true
+  durchfuehrung_kivo: nein
+  eigenstaendige_regelung: true
+  kurztitel: Loi n° 2023-380 du 19 mai 2023, Art. 10 (traitements algorithmiques sur images de vidéoprotection),
+    verlängert bis 31.12.2030 durch Loi n° 2026-798 du 18 août 2026 (RIPOST)
+  url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048007135
+  notiz: Frankreich verzichtet bewusst auf ein nationales KI-Horizontalgesetz und hat die
+    Marktüberwachungsbehörden nach Art. 70 KI-VO bis heute nicht benannt — es gibt nur den
+    Verwaltungsplan von DGE/DGCCRF vom 09.09.2025. Dafür zwei substanzielle eigene Regelungskomplexe.
+    Das VSA-Regime ist europaweit der Referenzfall dafür, wie ein Mitgliedstaat eine KI-Anwendung im
+    Sicherheitsbereich positiv erlaubt statt sie nur zu beaufsichtigen; der Conseil d'État hat am
+    30.01.2026 (n° 506370, Nizza) bestätigt, dass sie außerhalb dieser Erlaubnis schlicht verboten ist.
+    RIPOST hat das Experiment bis Ende 2030 verlängert, den Anwendungsbereich auf politische
+    Veranstaltungen, benannte Orte und den öffentlichen Verkehr ausgeweitet und einen zweiten,
+    CNIL-genehmigten Pfad für Einzelhandel geschaffen. Gesichtserkennung bleibt ausgeschlossen.
+  letzte_pruefung: *id001
+- land: Griechenland
+  code: gr
+  status: gesetz
+  einstufung: erfasst
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: true
+  kurztitel: Ν. 5321/2026 — Μέτρα εφαρμογής του Κανονισμού (ΕΕ) 2024/1689, ΦΕΚ Α΄ 114 vom 20.07.2026;
+    zuvor Ν. 4961/2022
+  url: https://api.et.gr/apiLAW/1/2026/5321/pdf
+  notiz: 'Umgekehrte Reihenfolge: Griechenland hatte mit Ν. 4961/2022 ein materielles KI-Gesetz, bevor
+    die KI-VO stand, versäumte aber die Behördenbenennung um knapp ein Jahr. Ν. 5321/2026 vom 20.07.2026
+    holt sie nach — und hebt in Άρθρο 26 das gesamte KI-Kapitel des alten Gesetzes auf. Die
+    Privatsektorpflichten (Unterrichtung der Beschäftigten, Unternehmens-KI-Register, Datenethik-Leitlinie)
+    entfallen ersatzlos; das neue Kapitel gilt nur für den öffentlichen Sektor. Marktüberwachung und
+    einzige Anlaufstelle ist die Datenschutzbehörde ΑΠΔΠΧ, notifizierende Behörde die ΕΕΤΤ.
+    Durchführung als Deregulierung.'
+  letzte_pruefung: *id001
+- land: Indonesien
+  code: id
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: Zwei Praesidialverordnungen (Perpres) zu KI-Ethik und nationaler KI-Roadmap
+  datum: 2026
+  inhalt: Statt eines Parlamentsgesetzes zunaechst zwei Perpres zu KI-Ethik und Roadmap, die 2026 erlassen
+    werden sollen; das Kommunikationsministerium hat KI-Regulierung zur Prioritaet 2026 erklaert, ein
+    foermliches RUU KI ist noch nicht eingebracht.
+  fundstelle: Kementerian Komdigi; Kompas und Indonesia Business Post 2026
+  url: https://indonesiabusinesspost.com/5992/cyber-and-espionage/indonesia-prioritizes-ai-regulation-in-2026-says-communications-minister
+  letzte_pruefung: *id001
+- land: Israel
+  code: il
+  status: strategie
+  einstufung: pflicht
+  kurztitel: Policy on Artificial Intelligence Regulation and Ethics (Responsible Innovation)
+  datum: 2023-12
+  inhalt: Bewusst sektoraler, regulierungszurueckhaltender Ansatz mit Ressortleitlinien statt Rahmengesetz;
+    Israel hat die Europarats-KI-Konvention gezeichnet, ein Gesetzentwurf liegt nicht vor. Fuer eine der
+    wichtigsten KI-Volkswirtschaften bemerkenswert leer.
+  fundstelle: Innovations- und Justizministerium, Dezember 2023; IAPP
+  url: https://iapp.org/news/a/proactive-caution-israels-approach-to-ai-regulation
+  letzte_pruefung: *id001
+- land: Italien
+  code: it
+  status: gesetz
+  einstufung: erfasst
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: true
+  kurztitel: Legge 23 settembre 2025, n. 132 — Disposizioni e deleghe al Governo in materia di intelligenza
+    artificiale
+  url: https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg
+  notiz: 'Der Referenzfall. Italien behandelt die KI-VO als Rahmen und legt darüber ein eigenes materielles
+    Stockwerk — Strafrecht, Berufsrecht, Verwaltungsrecht, Minderjährigenschutz. Die Behördenarchitektur
+    (ACN als Marktüberwachung, AgID als notifizierende Stelle) ist der kleinere Teil des Gesetzes. Achtung:
+    das Gesetz datiert vom 23.9.2025, nicht vom 17.9.2025.'
+  letzte_pruefung: *id001
+- land: Kasachstan
+  code: kz
+  status: gesetz
+  einstufung: pflicht
+  kurztitel: Gesetz der Republik Kasachstan 'Ueber kuenstliche Intelligenz'
+  datum: 2025-12
+  inhalt: Eigenstaendiges Vollgesetz mit Begriffsbestimmungen, Risikoklassen, Pflichten der Betreiber,
+    staatlicher Aufsichtsarchitektur und ausdruecklichen urheberrechtlichen Regelungen zu KI-erzeugten
+    Ergebnissen; erstes umfassendes KI-Gesetz Zentralasiens.
+  fundstelle: Library of Congress Global Legal Monitor 12.01.2026; EY Kasachstan Tax Alert 12/2025
+  url: https://www.loc.gov/item/global-legal-monitor/2026-01-12/kazakhstan-new-law-introduces-rules-for-ai-systems-operating-in-the-country
+  letzte_pruefung: *id001
+- land: Kenia
+  code: ke
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: The Artificial Intelligence Bill, 2026 (Senate Bills No. 4 of 2026)
+  datum: 2026-02-19
+  inhalt: Sieht eine eigene Regulierungsbehoerde, Risikoklassen, Registrierungspflichten und Sanktionen
+    vor; flankiert von einem aelteren Kenya Robotics and Artificial Intelligence Society Bill, der KI-Fachleute
+    berufsrechtlich verkammern wuerde.
+  fundstelle: Kenya Law, Senate Bills No. 4 of 2026 vom 19.02.2026
+  url: https://new.kenyalaw.org/akn/ke/bill/senate/2026-02-19/the-artificial-intelligence-bill-2026/eng@2026-02-19
+  letzte_pruefung: *id001
+- land: Malaysia
+  code: my
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: AI Governance Bill
+  datum: 2026-07
+  inhalt: Oeffentliche Konsultation ueber einen umfassenden Rechtsrahmen mit Pruef- und Testpflichten
+    fuer KI-Systeme sowie einer eigenen Governance-Struktur; erstes verbindliches KI-Gesetz Malaysias
+    in Vorbereitung.
+  fundstelle: Konsultation 2026; Baker McKenzie 07/2026, Digital Policy Alert
+  url: https://www.bakermckenzie.com/en/insight/publications/2026/07/malaysia-public-consultation-on-the-ai-governance-bill
+  letzte_pruefung: *id001
+- land: Mexiko
+  code: mx
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: Ley Nacional para Regular el Uso de la Inteligencia Artificial und weitere Initiativen
+  datum: 2026-04-30
+  inhalt: Rund 85 Initiativen sind anhaengig, darunter ein Senatsentwurf fuer ein allgemeines KI-Gesetz;
+    das Vorhaben ist mehrfach vertagt worden, waehrend sektorale Regelungen (Wahlrecht, Finanzaufsicht,
+    Urheberrecht) bereits vorankommen.
+  fundstelle: Senado de la Republica; Infobae 30.04.2026, Observatorio IA Mexico
+  url: https://www.observatorio-ia-mexico.com/proceso-legislativo
+  letzte_pruefung: *id001
+- land: Nigeria
+  code: ng
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: Bill zur Errichtung einer National Artificial Intelligence Commission (Senate Bill 731 und
+    Nachfolgeentwurf)
+  datum: 2025-11
+  inhalt: Registrierungspflicht fuer KI-Anbieter, Verhaltensstandards und Durchsetzungsbefugnisse unter
+    einer neuen Bundeskommission; waere das erste umfassende KI-Gesetz Afrikas, Verabschiedung war fuer
+    2026 angekuendigt.
+  fundstelle: Nationalversammlung Nigeria, Senate Bill 731; IAPP und TechCabal 11/2025
+  url: https://iapp.org/news/a/nigeria-moves-toward-comprehensive-ai-regulation
+  letzte_pruefung: *id001
+- land: Peru
+  code: pe
+  status: gesetz
+  einstufung: pflicht
+  kurztitel: Ley N.º 31814 (Foerderung der Nutzung kuenstlicher Intelligenz) nebst Reglamento DS 115-2025-PCM
+  datum: 2023-07-05
+  inhalt: Erstes KI-Gesetz Lateinamerikas, foerderrechtlich statt risikobasiert konzipiert; die Durchfuehrungsverordnung
+    von 2025 fuegt erstmals Pflichten, eine Risikoeinstufung und eine Zustaendigkeit der Praesidialverwaltung
+    hinzu.
+  fundstelle: Ley N.º 31814; Decreto Supremo 115-2025-PCM, El Peruano
+  url: https://busquedas.elperuano.pe/dispositivo/NL/2436426-1
+  letzte_pruefung: *id001
+- land: Saudi-Arabien
+  code: sa
+  status: strategie
+  einstufung: pflicht
+  kurztitel: 'SDAIA-Rahmenwerk: KI-Ethikgrundsaetze, Deepfake-Leitlinien, Regeln fuer generative KI'
+  datum: 2024
+  inhalt: Kein KI-Gesetz, aber ein dichtes Netz behoerdlicher Leitlinien der Saudi Data and AI Authority,
+    das ueber die Datenschutz- und Vergabegesetzgebung faktisch bindend wirkt; Deepfake-Leitlinien 2024,
+    Regeln zur generativen KI in der Verwaltung.
+  fundstelle: SDAIA, Regulations and Policies; White & Case AI Watch
+  url: https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx
+  letzte_pruefung: *id001
+- land: Schweiz
+  code: ch
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: Vorlage zur Umsetzung des Rahmenuebereinkommens des Europarats ueber KI und Menschenrechte,
+    Demokratie und Rechtsstaatlichkeit
+  datum: 2025-02-12
+  inhalt: Der Bundesrat hat sich bewusst gegen ein horizontales KI-Gesetz und fuer die Ratifikation der
+    Europarats-Konvention nebst punktuellen sektoralen Anpassungen entschieden; eine Vernehmlassungsvorlage
+    ist in Vorbereitung.
+  fundstelle: Bundesrat, Medienmitteilung vom 12.02.2025 (msg-id-104110); BAKOM
+  url: https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen/bundesrat.msg-id-104110.html
+  letzte_pruefung: *id001
+- land: Spanien
+  code: es
+  status: entwurf
+  einstufung: erfasst
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: true
+  kurztitel: Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial
+  url: https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2025/03/2025-03-11
+  notiz_stand: 'Proyecto de Ley Orgánica, BOCG Serie A núm. 97-1 vom 12.06.2026, Initiative 121/000096.
+    Seit Ablauf der Änderungsantragsfrist am 30.06.2026 kein Verfahrensschritt mehr. Folge: Die
+    Kennzeichnungspflicht des Art. 50 KI-VO ist in Spanien seit dem 02.08.2026 sanktionslos, weil
+    Art. 99 KI-VO nur Obergrenzen setzt und die Tatbestände den Mitgliedstaaten überlässt.'
+  notiz: Spanien hat institutionell vorgelegt (AESIA seit 2023) und arbeitsrechtlich den europäischen
+    Prototyp des Algorithmus-Auskunftsrechts geschaffen, ist bei der formalen Durchführung aber säumig.
+    Das Kennzeichnungsgesetz ist noch Entwurf; Spanien betreibt zudem auf EU-Ebene die Aufnahme sexueller
+    Deepfakes in den Verbotskatalog des Art. 5 KI-VO (Einigung vom 07.05.2026).
+  letzte_pruefung: *id001
+- land: Taiwan
+  code: tw
+  status: gesetz
+  einstufung: pflicht
+  kurztitel: 人工智慧基本法 — Artificial Intelligence Basic Act (KI-Grundlagengesetz)
+  datum: 2025-12-23
+  inhalt: 'Rahmengesetz nach Art eines Grundlagengesetzes: es normiert Grundsaetze (Transparenz, Sicherheit,
+    Nichtdiskriminierung, Privatheit), verpflichtet die Fachressorts zur sektoralen Ausgestaltung und
+    zur Einrichtung von Reallaboren, statt unmittelbar Pflichten fuer Unternehmen zu begruenden.'
+  fundstelle: Legislative Yuan, dritte Lesung 23.12.2025; Library of Congress Global Legal Monitor 07.05.2026
+  url: https://www.loc.gov/item/global-legal-monitor/2026-05-07/taiwan-new-law-establishes-basic-framework-on-artificial-intelligence
+  letzte_pruefung: *id001
+- land: Thailand
+  code: th
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: Draft Artificial Intelligence Act (ETDA)
+  datum: 2026-07-09
+  inhalt: Risikobasierter Entwurf nach EU-Vorbild mit drei Risikostufen, Betroffenenrechten auf Auskunft,
+    Erlaeuterung und menschliche Aufsicht sowie einem AI Governance Center bei der ETDA; Konsultation
+    lief bis 14.08.2026.
+  fundstelle: ETDA, Konsultationsfassung vom 09.07.2026; Baker McKenzie 07/2026
+  url: https://www.bakermckenzie.com/en/insight/publications/2026/07/thailand-draft-ai-act--seven-key-implications
+  letzte_pruefung: *id001
+- land: Tuerkei
+  code: tr
+  status: entwurf
+  einstufung: pflicht
+  kurztitel: Yapay Zeka Kanun Teklifi (TBMM Esas-Nr. 2/2234) sowie Aenderungsgesetzentwurf 2/3358 und
+    ein weiterer Entwurf vom November 2025
+  datum: 2025-11
+  inhalt: Mehrere konkurrierende Gesetzentwuerfe in der Grossen Nationalversammlung, ueberwiegend an der
+    KI-VO orientiert (Risikoklassen, Transparenz, Aufsichtsbehoerde); keiner ist bislang verabschiedet,
+    parallel laeuft ein Yapay Zeka Eylem Plani als Aktionsplan.
+  fundstelle: TBMM Esas-Nr. 2/2234 und 2/3358; CBC Law und Pekin Bayar Mizrahi 11/2025
+  url: https://www.cbclaw.com.tr/en/yapay-zeka-kanun-teklifi-gundemde
+  letzte_pruefung: *id001
+- land: Usbekistan
+  code: uz
+  status: gesetz
+  einstufung: pflicht
+  kurztitel: Gesetz LRU-1115 ueber Aenderungen und Ergaenzungen einzelner Rechtsakte im Zusammenhang mit
+    der Regelung von Beziehungen bei der Nutzung kuenstlicher Intelligenz
+  datum: 2026-01-21
+  inhalt: 'Kein eigenstaendiges KI-Gesetz, sondern eine Omnibus-Novelle: KI-Regelungen werden chirurgisch
+    in bestehende Informations- und Ordnungswidrigkeitengesetze eingesetzt, einschliesslich Bussgeldern
+    fuer die rechtswidrige Verarbeitung personenbezogener Daten mittels KI.'
+  fundstelle: lex.uz, LRU-1115 vom 21.01.2026
+  url: https://lex.uz/en/docs/8011930
+  letzte_pruefung: *id001
+- land: Vereinigte Arabische Emirate
+  code: ae
+  status: gesetz
+  einstufung: pflicht
+  kurztitel: Kabinettsbeschluesse zu KI in Wahlen und in exekutiver Entscheidungsfindung; Federal Authority
+    for Artificial Intelligence and Data
+  datum: 2026-03
+  inhalt: Kein horizontales KI-Gesetz, aber verbindliche Regelungen ueber den Einsatz von KI im Wahlprozess
+    und in der Entscheidungsvorbereitung der Exekutive; im Juni 2026 wurde zusaetzlich eine Bundesbehoerde
+    fuer KI und Daten mit Normsetzungsvorbereitung und Compliance-Aufsicht ueber Bundesstellen errichtet.
+  fundstelle: Library of Congress Global Legal Monitor 25.03.2026; Morgan Lewis 06/2026
+  url: https://www.loc.gov/item/global-legal-monitor/2026-03-25/united-arab-emirates-government-adopts-measures-regulating-ai-in-elections-and-executive-decision-making
+  letzte_pruefung: *id001
+- land: Vietnam
+  code: vn
+  status: gesetz
+  einstufung: pflicht
+  kurztitel: Luật Trí tuệ nhân tạo — Law on Artificial Intelligence, No. 134/2025/QH15
+  datum: 2025-12-10
+  inhalt: 'Erstes umfassendes KI-Gesetz Suedostasiens: risikobasierte Klassifizierung, Pflichten fuer
+    Entwickler und Betreiber, Kennzeichnung KI-erzeugter Inhalte, staatlicher Foerder- und Entwicklungsauftrag
+    sowie nationale Datenbestaende, verbunden mit sicherheitsrechtlicher Aufsicht.'
+  fundstelle: Nationalversammlung, Gesetz Nr. 134/2025/QH15 vom 10.12.2025
+  url: https://english.luatvietnam.vn/law-no-134-2025-qh15-dated-december-10-2025-of-the-national-assembly-on-artificial-intelligence-422299-doc1.html
+  letzte_pruefung: *id001
+- land: Albanien
+  code: al
+  status: strategie
+  einstufung: beobachten
+  kurztitel: Kein KI-Gesetz; stattdessen Diella als KI-gestuetztes Kabinettsmitglied
+  datum: 2025-09-11
+  inhalt: Albanien hat keinen KI-Rechtsrahmen, aber im September 2025 als weltweit erster Staat ein KI-System
+    foermlich als Regierungsmitglied fuer das oeffentliche Auftragswesen eingesetzt; siehe Sonderwege.
+  fundstelle: Regierung Albaniens, September 2025; EUISS-Kommentar
+  url: https://www.iss.europa.eu/publications/commentary/artificial-intelligence-real-politics-what-albanias-ai-minister-means-eu
+  letzte_pruefung: *id001
+- land: Argentinien
+  code: ar
+  status: strategie
+  einstufung: beobachten
+  kurztitel: Mehrere Gesetzesinitiativen ohne Konsolidierung; Plan Nacional de IA
+  datum: 2026
+  inhalt: Im Kongress liegen mehrere KI-Entwuerfe, keiner ist in ein Verfahren mit Aussicht auf Verabschiedung
+    gelangt; die Regierung verfolgt einen deregulierenden Kurs.
+  fundstelle: Congreso de la Nacion; iProUP 2026
+  url: https://www.iproup.com/innovacion/49858-ley-de-inteligencia-artificial-proyectos-congreso-regulacion-argentina
+  letzte_pruefung: *id001
+- land: Finnland
+  code: fi
+  status: gesetz
+  einstufung: beobachten
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: true
+  kurztitel: Laki 1377/2025 — Gesetz über die Beaufsichtigung bestimmter KI-Systeme
+  url: https://www.finlex.fi/fi/laki/alkup/2025/20251377
+  notiz: Finnland gehört zu den vier Staaten mit bereits in Kraft getretenem Durchführungsgesetz und hat
+    mit der Reform des Verwaltungsverfahrensgesetzes 2023 den in der EU ausgereiftesten allgemeinen Rahmen
+    für automatisierte Verwaltungsentscheidungen.
+  letzte_pruefung: *id001
+- land: Irland
+  code: ie
+  status: gesetz
+  einstufung: beobachten
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: true
+  kurztitel: S.I. No. 366 of 2025 — European Union (Artificial Intelligence) Regulations 2025
+  url: https://www.irishstatutebook.ie/eli/2025/si/366/made/en/print
+  notiz: Irland ist bei der Durchführung vorne (15 benannte Behörden, 9 Grundrechtsstellen), hat aber
+    materiell nur die wahlrechtliche Deepfake-Regelung — und die wahrscheinlich noch nicht in Kraft. Einstufung
+    als beachtlich daher unter Vorbehalt der Inkraftsetzungsprüfung.
+  letzte_pruefung: *id001
+- land: Kolumbien
+  code: co
+  status: entwurf
+  einstufung: beobachten
+  kurztitel: Gesetzesvorhaben zur Regulierung kuenstlicher Intelligenz
+  datum: 2026
+  inhalt: Im Kongress diskutiertes KI-Gesetz mit Streit ueber die Balance zwischen Kontrolle und Innovationsfoerderung;
+    Verabschiedung noch offen.
+  fundstelle: Congreso de Colombia; Semana 2026
+  url: https://www.semana.com/economia/empresas/articulo/mas-controles-o-mas-innovacion-el-dilema-que-abre-la-nueva-ley-de-ia/202600/
+  letzte_pruefung: *id001
+- land: Malta
+  code: mt
+  status: gesetz
+  einstufung: beobachten
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: true
+  kurztitel: Malta Digital Innovation Authority Act (Cap. 591) und Innovative Technology Arrangements
+    and Services Act (Cap. 592)
+  url: https://legislation.mt/eli/cap/591/eng
+  notiz: 'Maltas Sonderweg ist älter als die KI-VO und freiwillig: Zertifizierung statt Regulierung. Praktisch
+    heute vor allem historisch interessant, weil die MDIA dieselbe Rolle nun als Marktüberwachungsbehörde
+    nach der KI-VO ausfüllt.'
+  letzte_pruefung: *id001
+- land: Neuseeland
+  code: nz
+  status: strategie
+  einstufung: beobachten
+  kurztitel: New Zealand AI Strategy
+  datum: 2025-07
+  inhalt: Erste nationale KI-Strategie mit ausdruecklicher Absage an ein eigenes KI-Gesetz (light touch);
+    Steuerung ueber bestehendes Recht, die Menschenrechtskommission fordert eine Kurskorrektur.
+  fundstelle: MBIE, New Zealand AI Strategy Juli 2025
+  url: https://www.bellgully.com/insights/nz-s-ai-strategy-light-touch-regulation-and-opportunities-for-businesses/
+  letzte_pruefung: *id001
+- land: Norwegen
+  code: 'no'
+  status: entwurf
+  einstufung: beobachten
+  kurztitel: Nationale Umsetzung der KI-VO im Wege der EWR-Uebernahme
+  datum: 2026
+  inhalt: Die KI-VO ist EWR-relevant; Norwegen bereitet die Uebernahme in das EWR-Abkommen und ein nationales
+    Durchfuehrungsgesetz vor. Kein eigenstaendiger materieller Ansatz, daher fuer die Datenbasis nur als
+    EWR-Spiegelbild interessant.
+  fundstelle: Regulations.AI Laenderprofil Norwegen 2026
+  url: https://regulations.ai/regulations/norway-ai-act-2026
+  letzte_pruefung: *id001
+- land: Pakistan
+  code: pk
+  status: strategie
+  einstufung: beobachten
+  kurztitel: National Artificial Intelligence Policy 2025
+  datum: 2025
+  inhalt: Vom Kabinett gebilligte nationale KI-Politik mit Governance-Struktur und Foerderschwerpunkten;
+    kein Gesetzentwurf.
+  fundstelle: Ministry of IT and Telecommunication, Pakistan
+  url: https://moitt.gov.pk/SliderDetail/NWIyMzEwYzktYTIwYy00ZTk0LWI5ODUtYjg5NjZmYTYyMTg2
+  letzte_pruefung: *id001
+- land: Philippinen
+  code: ph
+  status: entwurf
+  einstufung: beobachten
+  kurztitel: Mehrere KI-Gesetzentwuerfe im 20. Kongress, u.a. zur Errichtung eines Philippine Council
+    on Artificial Intelligence
+  datum: 2026-07
+  inhalt: Buendel von Entwuerfen zu Regulierungsrat, Kennzeichnung KI-erzeugter Inhalte und Deepfake-Straftatbestaenden;
+    noch kein konsolidierter Gesetzestext.
+  fundstelle: Kongress der Philippinen; Philstar 14.07.2026, Rappler
+  url: https://www.philstar.com/business/technology/2026/07/14/2542095/proposed-ai-bill-gains-momentum-congress
+  letzte_pruefung: *id001
+- land: Portugal
+  code: pt
+  status: gesetz
+  einstufung: beobachten
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: true
+  kurztitel: Lei n.º 27/2021 — Carta Portuguesa de Direitos Humanos na Era Digital
+  url: https://diariodarepublica.pt/dr/detalhe/lei/27-2021-163442504
+  notiz: Portugal hat früh eine programmatische KI-Norm im Grundrechtsrang und eine konkrete arbeitsrechtliche
+    Transparenzpflicht, bei der KI-VO-Durchführung aber nur eine Ankündigung (ANACOM, September 2025)
+    ohne benannte notifizierende Behörde.
+  letzte_pruefung: *id001
+- land: Ruanda
+  code: rw
+  status: strategie
+  einstufung: beobachten
+  kurztitel: National AI Policy 2022; National Artificial Intelligence Agency
+  datum: 2022
+  inhalt: Am weitesten implementierter Politikrahmen Afrikas mit Ethikausschuessen und Risikobewertungsverfahren;
+    im Juni 2026 wurde eine eigene nationale KI-Agentur errichtet, ein Gesetz fehlt weiterhin.
+  fundstelle: Ministry of ICT and Innovation Ruanda; OECD AI Governance in Africa 2026
+  url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/oecd-artificial-intelligence-case-studies_71322177/strengthening-ai-governance-in-africa_812bb149/1ff55135-en.pdf
+  letzte_pruefung: *id001
+- land: Rumänien
+  code: ro
+  status: entwurf
+  einstufung: beobachten
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: true
+  kurztitel: PL-x nr. 471/2023 — Lege privind utilizarea responsabilă a tehnologiei în contextul fenomenului
+    deepfake
+  url: https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20853
+  notiz: Der einzige Mitgliedstaat mit einem seit drei Jahren blockierten eigenen Deepfake-Gesetz. Politisch
+    getrieben durch die annullierte Präsidentschaftswahl 2024, rechtsstaatlich umstritten wegen der Strafbarkeit
+    auch satirischer Inhalte.
+  letzte_pruefung: *id001
+- land: Suedafrika
+  code: za
+  status: strategie
+  einstufung: beobachten
+  kurztitel: Draft National Artificial Intelligence Policy
+  datum: 2026-03
+  inhalt: Entwurf einer nationalen KI-Politik, ausdruecklich als Mittelweg zwischen EU-Regulierung und
+    indischem Zurueckhalten angelegt; verbindliche Steuerung laeuft bislang allein ueber POPIA.
+  fundstelle: Department of Communications and Digital Technologies, Government Gazette 2026
+  url: https://www.fasken.com/en/knowledge/2026/03/ai-regulation-progress-in-south-africa-a-further-step-in-the-right-direction-2
+  letzte_pruefung: *id001
+- land: Ukraine
+  code: ua
+  status: strategie
+  einstufung: beobachten
+  kurztitel: White Paper on AI Regulation, Bottom-up-Ansatz des Digitalministeriums
+  datum: 2024-10
+  inhalt: 'Bewusst zweistufig: zunaechst Selbstregulierung, Reallabore und Handreichungen fuer Unternehmen,
+    erst danach ein an die KI-VO angelehntes Gesetz; der Zeitplan ist an den EU-Beitrittsprozess gekoppelt.'
+  fundstelle: Ministerium fuer digitale Transformation; IBA und CMS Laenderprofile
+  url: https://www.ibanet.org/Regulation-of-AI-Ukraine-current-approach
+  letzte_pruefung: *id001
+- land: Ungarn
+  code: hu
+  status: gesetz
+  einstufung: beobachten
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: true
+  kurztitel: 344/2025. (XII.) Korm. rendelet — Durchführung der KI-VO
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Ungarn ist der einzige Mitgliedstaat, dessen eigenständige KI-Regelung nicht dem Schutz vor,
+    sondern der Ermöglichung eines KI-Einsatzes dient, der nach der KI-VO verboten sein dürfte. Für die
+    Frage nach nationalen Sonderwegen der interessanteste Konfliktfall; ein Vertragsverletzungsverfahren
+    wird gefordert, ist aber nicht belegt.
+  letzte_pruefung: *id001
+- land: Aegypten
+  code: eg
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: National Artificial Intelligence Strategy, Fortschreibung 2025
+  datum: 2025
+  inhalt: Fortgeschriebene nationale KI-Strategie mit Schwerpunkt Verwaltungseinsatz; kein Gesetzesvorhaben.
+  fundstelle: Ministry of Communications and Information Technology Aegypten
+  url: https://www.techinafrica.com/ai-regulation-africa-2026-new-laws-compliance-startup-opportunities/
+  letzte_pruefung: *id001
+- land: Aethiopien
+  code: et
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Nationale KI-Strategie
+  datum: 2024
+  inhalt: Strategie ohne Gesetzgebungsvorhaben.
+  fundstelle: OECD, Strengthening AI Governance in Africa 2026
+  url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/oecd-artificial-intelligence-case-studies_71322177/strengthening-ai-governance-in-africa_812bb149/1ff55135-en.pdf
+  letzte_pruefung: *id001
+- land: Armenien
+  code: am
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Entwicklung eines KI-Regulierungsrahmens
+  datum: 2026
+  inhalt: Vorbereitende Arbeiten an einem KI-Rechtsrahmen, bislang ohne Entwurf.
+  fundstelle: LY Law Firm, Development of AI Regulation in Armenia 2026
+  url: https://lylegal.com/news/development-ai-regulation-armenia-2026
+  letzte_pruefung: *id001
+- land: Aserbaidschan
+  code: az
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Strategie zur Entwicklung kuenstlicher Intelligenz 2025-2028
+  datum: 2025
+  inhalt: Nationale KI-Strategie, von der Organisation der Turkstaaten hervorgehoben; kein Gesetz.
+  fundstelle: Regierung Aserbaidschans; Caspian Post 2025
+  url: https://caspianpost.com/azerbaijan/ots-hails-azerbaijan-s-adoption-of-ai-strategy-for-2025-2028
+  letzte_pruefung: *id001
+- land: Bahrain
+  code: bh
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: KI-Leitlinien; Steuerung ueber Datenschutzrecht
+  datum: 2024
+  inhalt: Keine KI-spezifische Gesetzgebung; Leitlinien und Datenschutzgesetz.
+  fundstelle: Bird & Bird GCC-Ueberblick 2025
+  url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
+  letzte_pruefung: *id001
+- land: Bangladesch
+  code: bd
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: National Strategy for Artificial Intelligence
+  datum: 2020
+  inhalt: Aeltere nationale Strategie ohne Rechtsverbindlichkeit; kein Gesetzentwurf erkennbar.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Belgien
+  code: be
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: nein
+  eigenstaendige_regelung: false
+  kurztitel: null
+  url: null
+  notiz: Das föderale Koalitionsabkommen 2025–2029 sieht das BIPT/IBPT als Marktüberwachungsbehörde vor;
+    benannt ist bislang niemand, ein Gesetzentwurf ist nicht veröffentlicht. Nur die Grundrechtsstellen
+    nach Art. 77 KI-VO sind designiert. Ausdrücklicher Negativbefund für eigenständiges Recht.
+  letzte_pruefung: *id001
+- land: Bulgarien
+  code: bg
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: nein
+  eigenstaendige_regelung: false
+  kurztitel: null
+  url: null
+  notiz: Das Ministerium für elektronische Verwaltung koordiniert; keine Behörden benannt, kein Gesetzentwurf.
+    Ausdrücklicher Negativbefund.
+  letzte_pruefung: *id001
+- land: Costa Rica
+  code: cr
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Estrategia Nacional de IA 2024-2027
+  datum: 2024
+  inhalt: Nationale KI-Strategie; kein Gesetz.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Ecuador
+  code: ec
+  status: entwurf
+  einstufung: nachrangig
+  kurztitel: Gesetzentwurf zur Regulierung kuenstlicher Intelligenz
+  datum: 2026
+  inhalt: Im parlamentarischen Verfahren, nach Sekundaerquellen an EU-Systematik angelehnt.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Estland
+  code: ee
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: nein
+  eigenstaendige_regelung: false
+  kurztitel: null
+  url: null
+  notiz: Wirtschafts- und Kommunikationsministerium koordiniert; keine Behörden benannt. Das früher diskutierte
+    ‚Kratt-Gesetz‘ (allgemeine Haftungsregeln für autonome Systeme) wurde nicht weiterverfolgt und ist
+    nie Gesetz geworden — der prominenteste Negativbefund dieser Übersicht.
+  letzte_pruefung: *id001
+- land: Georgien
+  code: ge
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Steuerung ueber Datenschutzrecht, keine KI-spezifische Regelung
+  datum: 2026
+  inhalt: KI wird bislang allein ueber das Datenschutzgesetz erfasst.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Ghana
+  code: gh
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: National AI Strategy 2023-2033
+  datum: 2023
+  inhalt: Zehnjahresstrategie mit Multi-Stakeholder-Governance; kein Gesetz.
+  fundstelle: Ministry of Communications and Digitalisation Ghana
+  url: https://www.techinafrica.com/ai-regulation-africa-2026-new-laws-compliance-startup-opportunities/
+  letzte_pruefung: *id001
+- land: Jordanien
+  code: jo
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: National AI Strategy 2023-2027 und Charter for AI Ethics
+  datum: 2023
+  inhalt: Strategie und Ethikcharta; kein Gesetz.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Katar
+  code: qa
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: National AI Strategy; Guidelines for Secure Adoption of AI
+  datum: 2024
+  inhalt: Strategie und behoerdliche Leitlinien zum sicheren KI-Einsatz; kein Gesetz.
+  fundstelle: Bird & Bird GCC-Ueberblick; Al Hail Law Firm 2026
+  url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
+  letzte_pruefung: *id001
+- land: Kroatien
+  code: hr
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: nein
+  eigenstaendige_regelung: false
+  kurztitel: null
+  url: null
+  notiz: Zentralstaatliches Amt für die Entwicklung der digitalen Gesellschaft koordiniert; keine Behörden
+    benannt. Kroatien hat Vorgaben der Plattformarbeitsrichtlinie in nationales Recht überführt, das ist
+    aber keine eigenständige KI-Regelung. Ausdrücklicher Negativbefund.
+  letzte_pruefung: *id001
+- land: Kuwait
+  code: kw
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: KI-Strategie; Steuerung ueber Datenschutz- und Cybersicherheitsrecht
+  datum: 2024
+  inhalt: Keine KI-spezifische Gesetzgebung.
+  fundstelle: Bird & Bird GCC-Ueberblick 2025
+  url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
+  letzte_pruefung: *id001
+- land: Lettland
+  code: lv
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: false
+  kurztitel: Umsetzungsbericht des Ministeriums für Smart Administration
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Negativbefund für eigenständiges Recht.
+  letzte_pruefung: *id001
+- land: Litauen
+  code: lt
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: false
+  kurztitel: Benennung durch die Kommunikationsregulierungsbehörde (RRT)
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Kein eigenständiges materielles KI-Recht auffindbar — Negativbefund.
+  letzte_pruefung: *id001
+- land: Luxemburg
+  code: lu
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: false
+  kurztitel: Projet de loi zur Durchführung der KI-VO
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Negativbefund für eigenständiges Recht.
+  letzte_pruefung: *id001
+- land: Marokko
+  code: ma
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Nationale KI-Ausrichtung; Steuerung ueber Datenschutzgesetz 09-08
+  datum: 2025
+  inhalt: Kein KI-Gesetz; die CNDP wendet Datenschutzrecht auf KI an.
+  fundstelle: OECD, Strengthening AI Governance in Africa 2026
+  url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/oecd-artificial-intelligence-case-studies_71322177/strengthening-ai-governance-in-africa_812bb149/1ff55135-en.pdf
+  letzte_pruefung: *id001
+- land: Mauritius
+  code: mu
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: National AI Strategy
+  datum: 2018
+  inhalt: Fruehe afrikanische KI-Strategie; kein Gesetz.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Niederlande
+  code: nl
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: false
+  kurztitel: Wetsvoorstel Uitvoeringswet AI-verordening
+  url: https://www.internetconsultatie.nl/uaiv/b1
+  notiz: Das viel zitierte Algoritmeregister der Rijksoverheid beruht auf Verwaltungspolitik, nicht auf
+    Gesetz, und zählt daher nicht als eigenständige Regelung. Kein materielles nationales KI-Recht — Negativbefund.
+  letzte_pruefung: *id001
+- land: Oman
+  code: om
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: National AI Policy und Leitlinien zum KI-Einsatz in der Verwaltung
+  datum: 2024
+  inhalt: Politikrahmen ohne bindende KI-Normen; Steuerung ueber Datenschutzgesetz.
+  fundstelle: Bird & Bird GCC-Ueberblick 2025
+  url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
+  letzte_pruefung: *id001
+- land: Polen
+  code: pl
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: false
+  kurztitel: Ustawa o systemach sztucznej inteligencji
+  url: https://eli.gov.pl/eli/DU/2026/1003
+  notiz: Umfangreiches Gesetz, aber inhaltlich Durchführung. Bemerkenswert allein die stark zentralisierte
+    Behördenlösung, die vom französischen und irischen Dezentralmodell abweicht. Kein eigenes materielles
+    KI-Recht — Negativbefund.
+  letzte_pruefung: *id001
+- land: Schweden
+  code: se
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: false
+  kurztitel: Regeringens proposition zur Durchführung der KI-VO
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Negativbefund für eigenständiges Recht.
+  letzte_pruefung: *id001
+- land: Senegal
+  code: sn
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Nationale KI-Strategie
+  datum: 2025
+  inhalt: Strategie ohne Gesetzgebungsvorhaben.
+  fundstelle: OECD, Strengthening AI Governance in Africa 2026
+  url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/oecd-artificial-intelligence-case-studies_71322177/strengthening-ai-governance-in-africa_812bb149/1ff55135-en.pdf
+  letzte_pruefung: *id001
+- land: Serbien
+  code: rs
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Strategie zur Entwicklung kuenstlicher Intelligenz; Vorbereitung der KI-VO-Angleichung
+  datum: 2025
+  inhalt: Angleichung an die KI-VO im Rahmen des Beitrittsprozesses angekuendigt, bislang Strategie und
+    Ethikleitlinien; kein Gesetzentwurf.
+  fundstelle: CMS Expert Guide Serbien 2026
+  url: https://cms.law/en/int/expert-guides/ai-regulation-scanner/serbia
+  letzte_pruefung: *id001
+- land: Slowakei
+  code: sk
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: false
+  kurztitel: Entwurf eines Durchführungsgesetzes zur KI-VO
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Negativbefund für eigenständiges Recht.
+  letzte_pruefung: *id001
+- land: Slowenien
+  code: si
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: false
+  kurztitel: Zakon o izvajanju Uredbe (EU) o umetni inteligenci
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Einer der vier Staaten mit in Kraft getretenem Durchführungsgesetz. Kein eigenständiges materielles
+    KI-Recht ersichtlich.
+  letzte_pruefung: *id001
+- land: Sri Lanka
+  code: lk
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Nationale KI-Strategie; Steuerung ueber Datenschutzgesetz
+  datum: 2025
+  inhalt: Kein KI-Gesetz erkennbar.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Tschechien
+  code: cz
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: teilweise
+  eigenstaendige_regelung: false
+  kurztitel: Návrh zákona o umělé inteligenci (Adaptationsgesetz)
+  url: https://www.weinholdlegal.com/legal-update/draft-law-on-artificial-intelligence
+  notiz: Negativbefund für eigenständiges Recht.
+  letzte_pruefung: *id001
+- land: Tunesien
+  code: tn
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Nationale KI-Ausrichtung; Steuerung ueber Datenschutzrecht
+  datum: 2025
+  inhalt: Kein KI-Gesetz erkennbar.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Uruguay
+  code: uy
+  status: strategie
+  einstufung: nachrangig
+  kurztitel: Estrategia de IA para el Gobierno Digital
+  datum: 2024
+  inhalt: KI-Strategie fuer die Verwaltung; kein Gesetz.
+  fundstelle: VerifyWise Global AI Regulations Tracker 2026
+  url: https://verifywise.ai/global-ai-regulations
+  letzte_pruefung: *id001
+- land: Zypern
+  code: cy
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: ja
+  eigenstaendige_regelung: false
+  kurztitel: Regierungsbenennung des Commissioner of Communications
+  url: https://artificialintelligenceact.eu/national-implementation-plans/
+  notiz: Frist gewahrt, sonst nichts. Kein eigenständiges nationales KI-Recht auffindbar — ausdrücklicher
+    Negativbefund.
+  letzte_pruefung: *id001
+- land: Österreich
+  code: at
+  status: strategie
+  einstufung: nachrangig
+  eu_mitglied: true
+  durchfuehrung_kivo: nein
+  eigenstaendige_regelung: false
+  kurztitel: null
+  url: null
+  notiz: KI-Servicestelle bei der RTR eingerichtet, Marktüberwachungs- und notifizierende Behörden bis
+    Stichtag nicht benannt. Kein eigenständiges nationales KI-Recht auffindbar; § 120a StGB (Bildmissbrauch)
+    erfasst synthetische Darstellungen nur mittelbar und ist nicht KI-spezifisch. Ausdrücklicher Negativbefund.
+  letzte_pruefung: *id001

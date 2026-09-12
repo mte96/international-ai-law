@@ -1,0 +1,380 @@
+literatur:
+- id: 2024-caro-gillis-nelson-modernizing-fair-lending
+  typ: working-paper
+  autoren:
+  - Caro, Spencer
+  - Gillis, Talia B.
+  - Nelson, Scott
+  titel: Modernizing Fair Lending
+  fundstelle: Becker Friedman Institute for Economics, University of Chicago, Working Paper 2024-18, August
+    2024
+  jahr: 2024
+  sprache: en
+  url: https://bfi.uchicago.edu/wp-content/uploads/2024/02/BFI_WP_2024-18-1.pdf
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sektor-finanz
+  - grundrechte
+  bezug_regelwerke:
+  - us-cfpb-rueckzug
+  kernthese: Das Kreditdiskriminierungsrecht misst nur die Ergebnisgleichheit und übersieht die Validitätsungleichheit
+    — die unterschiedliche Prognosegüte des Modells je Gruppe; beide Ziele stehen in Spannung und müssen
+    offen abgewogen werden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die Fortschreibung von Gillis'' "Input Fallacy" und die Stelle, an der die Fairness-Metrik-Debatte
+    (Kap. VII) und das Kreditrecht zusammenkommen: Gleiche Ablehnungsquoten und gleiche Prognosegüte sind
+    zwei verschiedene Gerechtigkeitsvorstellungen, und ihre Verbesserung kann sich wechselseitig ausschließen
+    — dasselbe Ergebnis wie bei Kleinberg u.a., nur ökonomisch statt informationstheoretisch hergeleitet
+    und mit Simulationen belegt. Für die europäische Seite ist der Befund unmittelbar auf die Kreditwürdigkeitsprüfung
+    als Hochrisikoanwendung (Anhang III Nr. 5 lit. b KI-VO) und auf Art. 27 KI-VO anzuwenden, der bei
+    Kreditinstituten eine Grundrechte-Folgenabschätzung verlangt, ohne den Maßstab zu nennen. Genau diesen
+    Maßstab liefert der Aufsatz. Ökonomisches Papier, formal, aber mit lesbarem Rechtsteil.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-27
+  - usc-42-3605-a
+- id: 2022-bartlett-morse-stanton-wallace-fintech-lending
+  typ: aufsatz
+  autoren:
+  - Bartlett, Robert
+  - Morse, Adair
+  - Stanton, Richard
+  - Wallace, Nancy
+  titel: Consumer-Lending Discrimination in the FinTech Era
+  fundstelle: Journal of Financial Economics 143 (2022), 30–56
+  jahr: 2022
+  sprache: en
+  doi: 10.1016/j.jfineco.2021.05.047
+  zugang: unklar
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sektor-finanz
+  - grundrechte
+  kernthese: 'Algorithmische Kreditvergabe diskriminiert bei der Bewilligung nicht mehr, bei der Bepreisung
+    aber weiterhin: Schwarze und hispanische Kreditnehmer zahlen messbar höhere Zinsen, weil die Modelle
+    Preiselastizität statt Bonität abbilden.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die empirische Grundlage der gesamten Debatte und der Grund, warum die These "Algorithmen
+    sind fairer als Menschen" differenziert werden muss: Sie stimmt für die Bewilligungsentscheidung und
+    stimmt nicht für die Preisbildung. Der Mechanismus ist entscheidend und wird selten mitzitiert — diskriminiert
+    wird nicht über die Bonität, sondern über die Zahlungsbereitschaft, was juristisch ein anderer Vorwurf
+    ist: keine Stellvertreterdiskriminierung, sondern Ausbeutungsdiskriminierung. Ob § 19 AGG bzw. die
+    Gender-Richtlinie das erfassen, ist offen; es fehlt sogar die Begriffsbildung. Elsevier, kein geprüfter
+    freier Volltext gefunden; frühere Arbeitspapierfassungen kursieren.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - usc-42-3605-a
+- id: 2018-baker-dellaert-regulating-robo-advice
+  typ: aufsatz
+  autoren:
+  - Baker, Tom
+  - Dellärt, Benedict
+  titel: Regulating Robo Advice Across the Financial Services Landscape
+  fundstelle: Iowa Law Review 103 (2018), 713
+  jahr: 2018
+  sprache: en
+  ssrn_id: '3068254'
+  zugang: open-access
+  jurisdiktionen:
+  - us
+  themenachsen:
+  - sektor-finanz
+  - berufsrecht
+  - haftung
+  kernthese: Automatisierte Finanzberatung ist besser regulierbar als menschliche, weil sie systematisch
+    geprüft werden kann; nötig ist eine Aufsicht, die den Beratungsalgorithmus selbst zertifiziert, statt
+    Verhaltenspflichten des Beraters zu formulieren.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Der Text, der die Robo-Advice-Regulierung vom Kopf auf die Füße gestellt hat, und
+    die interessanteste Gegenthese des Kapitels: Automatisierung ist eine Chance für die Aufsicht, nicht
+    nur ein Risiko, weil ein Algorithmus im Unterschied zum Menschen vollständig testbar ist. Das entspricht
+    der Logik des europäischen Konformitätsbewertungsansatzes und erklärt, warum die KI-VO für Beratungssysteme
+    relativ gut passt — anders als für generative Systeme. Zu prüfen ist, ob die These acht Jahre später
+    noch trägt: Baker/Dellärt denken an regelbasierte Empfehlungssysteme, nicht an LLM-gestützte Beratung,
+    deren Verhalten gerade nicht vollständig testbar ist. Diese Verschiebung markiert die Grenze der These
+    und ist der Ansatzpunkt für eine Fortschreibung. Volltext bei der Iowa Law Review und auf SSRN; die
+    dort geprüften Adressen waren nicht erreichbar (404 bzw. 429).
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2024-leffer-dunkelfeld-geldwaesche
+  typ: blogbeitrag
+  autoren:
+  - Leffer, Lena
+  titel: Das Dunkelfeld aufhellen. KI-gestützte Geldwäscheverdachtserkennung und die KI-Verordnung
+  fundstelle: Verfassungsblog, 30.12.2024
+  jahr: 2024
+  sprache: de
+  url: https://verfassungsblog.de/das-dunkelfeld-aufhellen/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-finanz
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  kernthese: Systeme zur Erkennung von Geldwäscheverdacht sind nach der KI-VO nicht als Hochrisiko eingestuft,
+    obwohl Banken über § 43 GwG faktisch Strafverfolgungsaufgaben wahrnehmen und ihre Fehlalarme unmittelbar
+    in Ermittlungsverfahren münden.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Die präziseste Lückenanalyse der KI-VO in der frei zugänglichen deutschen Literatur:
+    Anhang III erfasst Kreditwürdigkeitsprüfung, aber nicht die Verdachtsmeldepflicht, obwohl deren Folgen
+    für den Betroffenen härter sind. Leffer verbindet Aufsichtsrecht, Datenschutz und Strafverfahren,
+    was in der Fachliteratur selten geschieht. Angreifbar ist die Gleichsetzung des privaten Meldewesens
+    mit Strafverfolgung — die Bank entscheidet nicht, sie meldet. Der Beitrag ist die Kurzfassung ihrer
+    Dissertation (Nomos 2025, nicht frei; die Rezension ist frei, s. u.). Ergänzt Beck.
+
+    '
+  letzte_pruefung: 2026-08-27
+  normen:
+  - ki-vo-art-6-abs-2
+- id: 2026-bernhardt-rezension-leffer-suspicion-algorithms
+  typ: aufsatz
+  autoren:
+  - Bernhardt, Wilfried
+  titel: Besprechung von Lena Leffer, Automated Suspicion Algorithms — Strafverfolgung durch Künstliche
+    Intelligenz am Beispiel der Geldwäsche
+  fundstelle: Ordnung der Wissenschaft 2026, 65–66
+  jahr: 2026
+  sprache: de
+  url: https://ordnungderwissenschaft.de/2025/besprechung-von-lena-leffer-automated-suspicion-algorithms-strafverfolgung-durch-kuenstliche-intel-ligenz-am-beispiel-der-geldwaesche-nomos-2025-307-s/
+  zugang: open-access
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-finanz
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  kernthese: Leffers interdisziplinäre Dissertation verbindet technische Sachkunde mit dogmatischer Analyse
+    und beschreibt die Verschränkung von Technik und menschlicher Bewertung als Weg, rechtsstaatliche
+    Grundsätze bei KI-gestützter Strafverfolgung zu sichern.
+  prioritaet: optional
+  lesestatus: ungelesen
+  eigene_bewertung: 'Rezension, kein eigenständiger Beitrag — erfasst als Vertretungslösung für die Dissertation
+    selbst, die bei Nomos erschienen und nicht frei ist. Bernhardt (ehem. Staatssekretär im sächsischen
+    Justizministerium) rezensiert uneingeschränkt lobend, was den Erkenntniswert mindert; wer Schwachstellen
+    sucht, findet sie hier nicht. Der praktische Wert liegt in der Inhaltsangabe: Man erfährt, was in
+    der Dissertation steht, ohne sie zu kaufen. Genau dafür sind Rezensionen in einer Beck-freien Recherche
+    wertvoller, als es ihrem wissenschaftlichen Rang entspricht.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-leffer-automated-suspicion-algorithms
+  typ: dissertation
+  autoren:
+  - Leffer, Lena
+  titel: Automated Suspicion Algorithms — Strafverfolgung durch Künstliche Intelligenz am Beispiel der
+    Geldwäsche
+  fundstelle: Nomos, Baden-Baden 2025, 307 S.
+  jahr: 2025
+  sprache: de
+  zugang: bezahlt
+  jurisdiktionen:
+  - de
+  - eu
+  themenachsen:
+  - sektor-finanz
+  - sektor-oeffentlich
+  - grundrechte
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - de-automatisierte-datenanalyse-polizei
+  kernthese: KI-gestützte Verdachtsgewinnung im Geldwäscherecht verlagert Strafverfolgungsaufgaben auf
+    Private und verlangt rechtsstaatliche Sicherungen, die weder das GwG noch die KI-VO bereitstellen.
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  eigene_bewertung: 'Nach der Rezension von Bernhardt die gründlichste deutsche Arbeit zu KI in der Strafverfolgung;
+    interdisziplinär angelegt, mit technischem Teil. Nicht frei. Zugänglich sind die Rezension (Ordnung
+    der Wissenschaft 2026, 65 f.) und der Verfassungsblog-Beitrag der Autorin von 2024, die zusammen etwa
+    ein Zehntel des Inhalts abdecken. Ein guter Testfall für die Ausgangsfrage dieses Auftrags: Man erfährt,
+    dass es die Arbeit gibt und was in ihr steht, aber man kann sie nicht zitieren.
+
+    '
+  letzte_pruefung: 2026-08-27
+- id: 2025-cedillo-lazcano-cartografia-operacional
+  typ: aufsatz
+  autoren:
+  - Cedillo Lazcano, Israel
+  titel: La propiedad intelectual como herramienta de la nueva cartografía operacional
+  titel_deutsch: Das Immaterialgüterrecht als Werkzeug der neuen operationellen Kartographie
+  fundstelle: Boletín Mexicano de Derecho Comparado 58 (2025), Nr. 174, Artikel e20216
+  jahr: 2025
+  sprache: es
+  url: https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/20216
+  doi: 10.22201/iij.24484873e.2025.174.20216
+  zugang: open-access
+  jurisdiktionen:
+  - mx
+  - eu
+  themenachsen:
+  - sektor-finanz
+  - urheberrecht
+  - governance
+  kernthese: 'Immaterialgüterrechte lassen sich als Kartierungsinstrument für die Abhängigkeiten automatisierter
+    Finanzinfrastruktur nutzen; der europäische DORA-Rahmen liefert dafür die Struktur.
+
+    '
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Eigenwilliger Text, den ich nur wegen der Themenkombination aufnehme: Cedillo Lazcano
+    ist einer der ganz wenigen lateinamerikanischen Autoren, die KI-Aufsicht im Finanzsektor und Immaterialgüterrecht
+    zusammendenken, und er liest DORA sehr genau. Der Gedanke, IP-Register als Landkarte der Drittanbieter-
+    abhängigkeiten zu benutzen, ist originell, aber die Umsetzung ist spekulativ und die mexikanische
+    Anbindung dünn. Lesen, wenn man an der Schnittstelle DORA/KI arbeitet; sonst überspringen.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2022-puentes-amaya-open-banking-colombia
+  typ: aufsatz
+  autoren:
+  - Puentes Trujillo, Laura Victoria
+  - Amaya Osorio, Lucidia
+  titel: 'Open data y open banking: El derecho en el contexto de los mercados digitales. Un modelo regulatorio
+    por definir en el ordenamiento jurídico colombiano'
+  titel_deutsch: 'Open Data und Open Banking: Das Recht im Kontext digitaler Märkte. Ein noch zu bestimmendes
+    Regulierungsmodell im kolumbianischen Recht'
+  fundstelle: Revista Chilena de Derecho y Tecnología 11 (2022), Nr. 2, 211–244
+  jahr: 2022
+  sprache: es
+  url: https://rchdt.uchile.cl/index.php/RCHDT/article/view/65972
+  doi: 10.5354/0719-2584.2022.65972
+  zugang: open-access
+  jurisdiktionen:
+  - co
+  themenachsen:
+  - sektor-finanz
+  - datenschutz
+  - marktzugang
+  kernthese: 'Kolumbien hat Open Banking über die Sandkastenermächtigung der Ley 1955/2019 und das Decreto
+    1234/2020 erprobt, ohne den Datenschutz mitzuregeln; das Hauptrisiko liegt bei Privatsphäre, Habeas
+    Data und Datenqualität.
+
+    '
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: true
+  eigene_bewertung: 'Der Text ist für mich vor allem wegen des Regulierungssandkastens interessant: Kolumbien
+    hat 2019/2020 einen befristeten Sandkasten eingeführt, um vor der Modellwahl das Marktverhalten zu
+    beobachten — genau die Konstruktion, die Art. 57 ff. KI-VO nun für KI vorsehen und die der ITS-Rio-Bericht
+    für Brasilien empfiehlt. Hier kann man nachlesen, was ein solcher Sandkasten in einer Schwellenökonomie
+    tatsächlich produziert hat, nämlich: eine Erprobung ohne begleitende Datenschutzregelung. Das ist
+    der Einwand, den man gegen die Sandkastenbegeisterung führen sollte. Eine Autorin lehrt am Externado,
+    die andere in Antioquia; da der Externado-Server für mich nicht erreichbar war, ist dies der einzige
+    Weg, an Externado-nahe Arbeit zu kommen. KI ist nicht das Thema — Kontextliteratur zur Achse sektor-finanz.
+
+    '
+  letzte_pruefung: 2026-09-07
+- id: 2024-makore-ki-finanzielle-inklusion
+  typ: aufsatz
+  autoren:
+  - Makore, Shelton Tapiwa Mota
+  titel: Regulating Artificial Intelligence to Advance Financial Inclusion in South Africa
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 27 (2024), Beitrag a17488
+  jahr: 2024
+  sprache: en
+  url: https://perjournal.co.za/article/view/17488
+  doi: 10.17159/1727-3781/2024/v27i0a17488
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - marktzugang
+  kernthese: Suedafrika braucht einen eigenen Regulierungsrahmen fuer KI im Finanzsektor, der die Chancen
+    fuer finanzielle Inklusion - Kontoeroeffnung, Kreditscoring, Risikomanagement - hebt, ohne die Haftungs-
+    und Cybersicherheitsfragen unbeantwortet zu lassen; Vorbild seien in Teilen EU und Vereinigtes Koenigreich.
+  eigene_bewertung: 'Nuetzlich als Bestandsaufnahme, dogmatisch duenn. Makore referiert EU- und UK-Modelle
+    zutreffend, bleibt aber bei Empfehlungen stehen ("there is a need to develop an effective regulatory
+    framework"), ohne den Konflikt zu benennen, der den Fall interessant macht: Kreditscoring per KI ist
+    in Suedafrika zugleich das wirksamste Instrument gegen finanzielle Exklusion und das wirksamste Instrument
+    zur Reproduktion der Apartheid-Vermoegensverteilung. Wer zu Paragraf 31 POPIA und automatisierten
+    Einzelfallentscheidungen arbeitet - dem suedafrikanischen Gegenstueck zu Art. 22 DSGVO -, findet hier
+    den Aufhaenger, aber nicht die Analyse.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2024-chitimira-ki-geldwaesche
+  typ: aufsatz
+  autoren:
+  - Chitimira, Howard
+  - Torerai, Elfas
+  - Jana, Lisa
+  titel: Leveraging Artificial Intelligence to Combat Money Laundering and Related Crimes in the South
+    African Banking Sector
+  fundstelle: Potchefstroom Electronic Law Journal (PER/PELJ) 27 (2024), Beitrag a18024
+  jahr: 2024
+  sprache: en
+  url: https://perjournal.co.za/article/view/18024
+  doi: 10.17159/1727-3781/2024/v27i0a18024
+  zugang: open-access
+  jurisdiktionen:
+  - za
+  themenachsen:
+  - sektor-finanz
+  - governance
+  kernthese: KI-gestuetzte Transaktionsueberwachung, Kundensorgfalt und ergebnisorientierte Risikobewertung
+    koennen die Geldwaeschebekaempfung im suedafrikanischen Bankensektor wirksamer machen, setzen aber
+    Datenqualitaet, Integration in die bestehende Aufsicht und geklaerte ethische Rahmenbedingungen voraus.
+  eigene_bewertung: 'Solide, aber ohne eigenen dogmatischen Ertrag. Der Text ist vor allem deshalb interessant,
+    weil Suedafrika 2023 auf die FATF-Grauliste kam und der Einsatz von KI in der Geldwaeschebekaempfung
+    dadurch von einer Effizienz- zu einer Compliance-Frage wurde. Fuer die Achse sektor-finanz im Rechtsvergleich
+    zu Art. 6 Abs. 2 i.V.m. Anhang III Nr. 5 lit. b KI-VO (Kreditwuerdigkeitspruefung) taugt er nur als
+    Kontrast: Chitimira behandelt KI als Aufsichtswerkzeug, nicht als reguliertes Objekt. Lesen, wenn
+    man RegTech-Argumente sucht, sonst uebergehen.'
+  prioritaet: optional
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07
+- id: 2026-plekhanova-ki-steuerrecht-nz
+  typ: sammelband
+  autoren:
+  - Plekhanova, Victoria
+  - Pistorius, Tana
+  - Liu, Benjamin
+  titel: 'The Impact of Artificial Intelligence on Tax Law: New Zealand'
+  fundstelle: 'in: The Impact of Artificial Intelligence on Tax Law (WU Tax Law and Policy Series), IBFD,
+    Amsterdam 2026, Kapitel 25'
+  jahr: 2026
+  sprache: en
+  doi: 10.59403/1gs8pg9025
+  zugang: bezahlt
+  jurisdiktionen:
+  - nz
+  themenachsen:
+  - sektor-finanz
+  - sektor-oeffentlich
+  - governance
+  kernthese: Der Landesbericht Neuseeland ordnet den Einsatz von KI in der Steuerverwaltung und die steuerliche
+    Behandlung KI-gestuetzter Geschaeftsmodelle in das neuseelaendische Recht ein.
+  eigene_bewertung: 'Landesbericht in einem rechtsvergleichenden Sammelwerk der Wirtschaftsuniversitaet
+    Wien - die Gattung, die man fuer den systematischen Vergleich braucht und die es fuer Neuseeland sonst
+    kaum gibt. Die neuseelaendische Steuerverwaltung (Inland Revenue) gehoert zu den am staerksten automatisierten
+    der OECD, was den Bericht ueber das Steuerrecht hinaus interessant macht: Er dokumentiert den Massenbetrieb
+    automatisierter Verwaltungsentscheidungen. Fuer die Achse sektor-oeffentlich als Faktenquelle nuetzlich.
+    Nur ueber IBFD zugaenglich; Metadaten geprueft, Text nicht.'
+  prioritaet: wichtig
+  lesestatus: ungelesen
+  verifiziert: false
+  letzte_pruefung: 2026-09-07

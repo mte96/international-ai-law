@@ -1,0 +1,1716 @@
+# Gepflegte Datenbasis.
+urteile:
+- id: es-2025-bosco
+  jurisdiktion: es
+  gericht: 'Tribunal Supremo, Sala de lo Contencioso-Administrativo, Seccion Tercera (Ponente: Juan Pedro
+    Quintana Carretero)'
+  instanz: revision
+  aktenzeichen: 'STS 1119/2025; ROJ: STS 3826/2025; recurso 7878/2024'
+  ecli: ECLI:ES:TS:2025:3826
+  datum: '2025-09-11'
+  parteien:
+    klaeger: Fundación Ciudadana Civio
+    beklagter: Ministerio para la Transición Ecológica y el Reto Demográfico
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  - urheberrecht
+  anspruchsgrundlage: Art. 12 bis 16 Ley 19/2013 de transparencia; Art. 157 Abs. 2 Ley 40/2015; Art. 23
+    Abs. 2 Ley 15/2022; Art. 13 Abs. 2 lit. f, Art. 14 Abs. 2 lit. g, Art. 15 Abs. 1 lit. h DSGVO; Art.
+    5 VO (EU) 2024/903
+  kernfrage: Umfasst das Recht auf Zugang zu öffentlichen Informationen den Quellcode einer Verwaltungsanwendung,
+    die über die Berechtigung eines Bürgers entscheidet, und kann der Urheberrechtsschutz an dieser Software
+    den Zugang ausschließen?
+  ergebnis: 'Ja zum Zugang, nein zum Urheberrechtseinwand. Der Tribunal Supremo hebt die abweisenden Vorentscheidungen
+    auf und verurteilt die Verwaltung, der Klägerin den Programmcode der Anwendung BOSCO herauszugeben,
+    die über die Berechtigung zum bono social eléctrico entscheidet. Tragend ist, dass der Quellcode eines
+    Systems, das automatisiert über Rechte von Bürgern befindet, Teil der Entscheidungslogik und damit
+    ein Verwaltungsdokument ist; Art. 157 Abs. 2 Ley 40/2015, der die Verwaltungen zur Bereitstellung
+    ihrer Anwendungen an andere Verwaltungen verpflichtet, belegt, dass der Code vorhanden, dokumentiert
+    und übertragbar ist. Der Einwand des Urheberrechts kann die Transparenzpflicht nicht ausschalten,
+    soweit es um die Entscheidungslogik geht; der Einwand der öffentlichen Sicherheit greift nicht pauschal,
+    sondern nur nach konkreter Abwägung im Einzelfall.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-la-Administracion-a-facilitar-a-una-Fundacion-Ciudadana-el-codigo-fuente-de-la-aplicacion-informatica-que-acredita-a-los-beneficiarios-del-bono-social-electrico
+  zusammenfassung_url: https://civio.es/novedades/2025/09/17/civio-abre-camino-en-la-transparencia-algoritmica-el-supremo-condena-al-gobierno-a-entregar-el-codigo-fuente-de-bosco/
+  sekundaerquelle_url: null
+  bezug_regelwerke:
+  - es-ley-19-2013
+  - es-ley-40-2015
+  - es-ley-15-2022
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: civio.es (Verfahrensbeteiligte, abgerufen); 101_spanien.yaml (Vorrecherche); CGPJ-Pressemitteilung
+    (nicht abrufbar)
+  verifiziert: true
+  letzte_pruefung: '2026-09-05'
+  eigene_bewertung: 'Die erste höchstrichterliche Anerkennung eines Anspruchs auf den Quellcode einer
+    automatisiert entscheidenden Verwaltungsanwendung in der EU — und sie kommt nicht aus dem Datenschutzrecht,
+    sondern aus dem Informationsfreiheitsrecht. Das ist der eigentliche Punkt: Art. 15 Abs. 1 lit. h DSGVO
+    gibt dem einzelnen Betroffenen nach Dun & Bradstreet (C-203/22) nur die kontrafaktische Nachvollziehbarkeit
+    seiner eigenen Daten; das Transparenzgesetz gibt jedermann den Code. Wer Algorithmentransparenz durchsetzen
+    will, klagt in Spanien seit BOSCO nicht mehr als Betroffener, sondern als Bürger. Zwei Grenzen werden
+    regelmäßig übersehen. Erstens ist BOSCO eine regelbasierte Anwendung, kein lernendes System; ob der
+    Anspruch auf Modellgewichte und Trainingsdaten durchschlägt, ist offen und mit denselben Argumenten
+    kaum zu begründen — Gewichte sind keine lesbare Entscheidungslogik. Zweitens hat der Gerichtshof den
+    Urheberrechtseinwand nicht beseitigt, sondern nur überwogen; bei zugekaufter Standardsoftware kann
+    die Abwägung anders ausgehen. Für die deutsche Praxis ist die Entscheidung der stärkste Vergleichsmaßstab
+    zu § 3 IFG und zur Diskussion um § 35a VwVfG.
+
+    '
+  pruefvermerk:
+  - 'Nicht am Primärdokument verifiziert. CENDOJ (poderjudicial.es) und die CGPJ-Pressemitteilung werden
+    vom Fetch-Proxy mit HTTP 403 beantwortet; ein amtlicher Volltext war auf keinem anderen Weg erreichbar.
+    Sentencia-Nummer, Recurso-Nummer und ECLI stammen aus der eigenen Vorrecherche (101_spanien.yaml);
+    die Seite von Civio als Verfahrensbeteiligter bestätigt Gericht, Parteien und Tenor, nennt aber weder
+    Nummer noch ECLI. DATUMSDIVERGENZ: Civio schreibt, das Urteil sei am 09.09.2025 ergangen; die übrige
+    Überlieferung und die eigene Vorrecherche nennen den 11.09.2025. Der 11.09.2025 ist hier eingetragen,
+    die Divergenz ist ungeklärt.'
+  - '05.09.2026 am CENDOJ geprueft (Trefferliste zur ECLI-Suche): Datum 11.09.2025 bestaetigt — die abweichende
+    Angabe 09.09.2025 bei Civio ist unrichtig. Bestaetigt sind ferner ROJ STS 3826/2025, Nr. de Resolucion
+    1119/2025, Sala de lo Contencioso, Recurso 7878/2024, Ponente Quintana Carretero sowie der amtliche
+    Resumen: ''Acceso a la informacion relativa a la aplicacion informatica desarrollada para determinar
+    si se cumplen los requisitos para ser beneficiario del bono social. Codigo fuente.'' Der Volltext
+    (tragende Gruende) ist noch nicht gelesen.'
+  suchadresse: 'https://www.poderjudicial.es/search/indexAN.jsp — Feld ECLI: ECLI:ES:TS:2025:3826. Die
+    Trefferliste ist frei abrufbar und amtlich; der Volltextabruf ist durch ein CAPTCHA der Kontrolle
+    ''Descargas masivas'' geschuetzt.'
+  quelle_art: amtlich
+  sachverhalt: Über die Berechtigung zum bono social eléctrico — einer Ermäßigung auf die Stromrechnung
+    für Haushalte in schwieriger Lage — entscheidet die spanische Verwaltung mit der Anwendung BOSCO.
+    Die Fundación Ciudadana Civio verlangte nach dem Transparenzgesetz (Ley 19/2013) Zugang zum Programmcode
+    dieser Anwendung, um nachvollziehen zu können, wie sie zu ihren Ergebnissen kommt. Das Ministerio
+    para la Transición Ecológica y el Reto Demográfico verweigerte den Zugang und berief sich auf das
+    Urheberrecht an der Software und auf die öffentliche Sicherheit. Die Vorinstanzen wiesen die Klage
+    der Stiftung ab; sie legte Revision zum Tribunal Supremo ein.
+  sachverhalt_quelle: eintrag
+- id: es-2025-foundever
+  jurisdiktion: es
+  gericht: Audiencia Nacional, Sala de lo Social (Madrid)
+  instanz: erstinstanzlich
+  aktenzeichen: 'Sentencia núm. 101/2025; procedimiento de tutela de derechos fundamentales núm. 182/2025;
+    ROJ: SAN 2867/2025'
+  ecli: ECLI:ES:AN:2025:2867
+  datum: 2025-07-04
+  parteien:
+    klaeger: Confederación General del Trabajo (CGT)
+    beklagter: Foundever Spain S.A.
+  status: erstinstanzlich
+  themenachsen:
+  - arbeit
+  - grundrechte
+  - governance
+  - datenschutz
+  anspruchsgrundlage: Art. 64.4.d) Estatuto de los Trabajadores; Art. 28 Abs. 1 spanische Verfassung;
+    Art. 10 Abs. 3 Nr. 1 Ley Orgánica de Libertad Sindical; Art. 7 Nr. 7 und Art. 40.1.b) LISOS
+  kernfrage: Verletzt die Weigerung des Arbeitgebers, der Gewerkschaft die Parameter, Regeln und Anweisungen
+    der Algorithmen zur Zuteilung der dienstfreien Tage (libranzas) offenzulegen, nur das Informationsrecht
+    aus Art. 64.4.d) ET oder zugleich die Koalitionsfreiheit aus Art. 28 der Verfassung?
+  ergebnis: 'Zugleich die Koalitionsfreiheit. Die Audiencia Nacional stellt eine Verletzung von Art. 28
+    Abs. 1 CE fest, erklärt die Verweigerungs- praxis für nichtig, verurteilt das Unternehmen zur unverzüglichen
+    Auskunft über die Parameter der eingesetzten Algorithmen gegenüber den Gewerkschaftsdelegierten und
+    spricht 6.250 Euro immateriellen Schadensersatz zu. Berichterstatter war Ramón Gallo Llanos. Das Unternehmen
+    hatte den Einsatz von Algorithmen bestritten; ein Produktionsleiter hatte ihn in der Verhandlung bestätigt.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.poderjudicial.es/search/indexAN.jsp
+  zusammenfassung_url: https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2025-00000003064
+  bezug_regelwerke:
+  - es-rdl-9-2021
+  - plattformarbeit-rl
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  instanzenzug: []
+  quelle_tracker: CENDOJ, Buscador de jurisprudencia des Consejo General del Poder Judicial (Trefferliste
+    zu Nº Recurso 182/2025); ergänzend Faustino Cavas Martínez, Revista de Jurisprudencia Laboral 8/2025
+    (amtliche Zeitschrift der Agencia Estatal BOE)
+  verifiziert: false
+  letzte_pruefung: '2026-09-05'
+  eigene_bewertung: 'Die erste veröffentlichte Entscheidung zu Art. 64.4.d) ET — und ihre Bedeutung liegt
+    nicht im Ergebnis, sondern im gewählten Verfahrensweg. Die Gewerkschaft hat nicht die Arbeitsaufsicht
+    eingeschaltet, sondern das Grundrechtsverfahren (tutela de derechos fundamentales) gewählt. Damit
+    gilt die Beweislastumkehr, es gibt Schadensersatz, und der Verstoß wird aus dem Ordnungswidrigkeitenrecht
+    in das Verfassungsrecht gehoben. Wer die Wirksamkeit algorithmischer Transparenzpflichten im Arbeitsrecht
+    beurteilen will, muss auf die Verfahrensart schauen, nicht auf den Wortlaut der Auskunftsnorm: dieselbe
+    Norm ist als Ordnungswidrigkeit fast wirkungslos und als Grundrechtseingriff scharf. Für die Umsetzung
+    der Plattformarbeitsrichtlinie (EU) 2024/2831 bis zum 02.12.2026 ist das die praktisch wichtigste
+    Vorlage in Europa. Bemerkenswert und in der Besprechung unterschätzt ist die Beweisfrage: Das Unternehmen
+    bestritt schlicht, Algorithmen einzusetzen. Ohne die Aussage des eigenen Produktionsleiters wäre der
+    Anspruch an der Darlegungslast gescheitert. Das ist die strukturelle Schwäche aller algorithmischen
+    Auskunftsrechte.
+
+    '
+  pruefvermerk:
+  - Nicht am Urteilstext verifiziert; CENDOJ ist gesperrt. Gericht, Kammer, Datum, Sentencia-Nummer, Verfahrensnummer,
+    Parteien, Berichterstatter, angewandte Normen und Tenor einschließlich der Schadensersatzhöhe sind
+    jedoch in der amtlichen Zeitschrift des Boletín Oficial del Estado (Revista de Jurisprudencia Laboral)
+    nachgewiesen und dort in dieser Sitzung gelesen worden. Ein ECLI war nicht zu ermitteln.
+  - 'AN AMTLICHER QUELLE GEPRÜFT (05.09.2026, CENDOJ, Buscador des CGPJ, Suche nach Nº Recurso 182/2025,
+    Jurisdicción Social, Órgano Audiencia Nacional): genau ein Treffer. ''SAN, a 04 de julio de 2025 —
+    ROJ: SAN 2867/2025 — ECLI:ES:AN:2025:2867 — Nº de Resolución: 101/2025 — Municipio: Madrid — Ponente:
+    RAMON GALLO LLANOS — Nº Recurso: 182/2025 — Órgano: AUDIENCIA NACIONAL. SALA DE LO SOCIAL''. Gericht,
+    Kammer, Datum, Sentencia-Nummer, Verfahrensnummer und Berichterstatter des Eintrags sind damit amtlich
+    belegt.'
+  - 'ECLI ERGÄNZT: ECLI:ES:AN:2025:2867. Das Feld war leer; die frühere Prüfung hatte den ECLI nicht ermitteln
+    können. Ferner ergänzt: ROJ SAN 2867/2025.'
+  - 'PRÄZISIERUNG GEGENSTAND: Der amtliche Resumen des CENDOJ lautet ''Derecho de información sindical.
+    Uso de algoritmos para asignación de libranzas.'' Streitgegenstand ist damit die algorithmische Zuteilung
+    der dienstfreien Tage (libranzas), nicht — wie der Eintrag in der Kernfrage schreibt — die ''Schicht-
+    und Pausenvergabe''. Die Kernfrage ist entsprechend gefasst worden.'
+  - 'verifiziert bleibt false: Geprüft wurde die amtliche Trefferliste mit sämtlichen Metadaten, nicht
+    der Urteilstext. Der Volltextabruf über CENDOJ löst ein CAPTCHA aus; CAPTCHAs werden nicht gelöst.
+    Der Tenor (Feststellung der Verletzung von Art. 28 Abs. 1 CE, Auskunftsverurteilung, 6.250 Euro immaterieller
+    Schadensersatz) bleibt allein durch die Revista de Jurisprudencia Laboral 8/2025 gedeckt.'
+  dokumenttyp: Sentencia; geprüft an der amtlichen Trefferliste des CENDOJ — der Volltextabruf löst ein
+    CAPTCHA aus und wurde nicht durchgeführt
+  quelle_art: amtlich
+  sachverhalt: Die Foundever Spain S.A. betreibt Callcenter in Spanien. Die Zuteilung der dienstfreien
+    Tage (libranzas) an die Beschäftigten wird dort über Algorithmen gesteuert. Die Gewerkschaft Confederación
+    General del Trabajo verlangte für ihre Delegierten Auskunft über die Parameter, Regeln und Anweisungen
+    dieser Algorithmen; das Unternehmen verweigerte die Auskunft und bestritt, überhaupt Algorithmen einzusetzen.
+    Die CGT klagte daraufhin vor der Sala de lo Social der Audiencia Nacional in Madrid im besonderen
+    Verfahren zum Schutz der Grundrechte. In der Verhandlung bestätigte ein Produktionsleiter des Unternehmens
+    den Einsatz der Algorithmen.
+  sachverhalt_quelle: eintrag
+- id: es-2020-glovo-ts
+  jurisdiktion: es
+  gericht: Tribunal Supremo, Sala de lo Social (Pleno), Madrid
+  instanz: revision
+  aktenzeichen: 'Sentencia núm. 805/2020; recurso de casación para la unificación de doctrina núm. 4746/2019;
+    ROJ: STS 2924/2020'
+  ecli: ECLI:ES:TS:2020:2924
+  datum: 2020-09-25
+  parteien:
+    klaeger: Repartidor (Fahrer)
+    beklagter: Glovoapp23, S.L.
+  status: rechtskraeftig
+  themenachsen:
+  - arbeit
+  - governance
+  anspruchsgrundlage: Art. 1 Abs. 1 Estatuto de los Trabajadores (Merkmale ajenidad und dependencia)
+  kernfrage: Begründet die Steuerung von Fahrern über eine Plattform, deren algorithmisches Bewertungs-
+    und Zuteilungssystem Verfügbarkeit, Annahmeverhalten und Reihenfolge des Zugriffs auf Aufträge bestimmt,
+    ein Arbeitsverhältnis?
+  ergebnis: 'Ja. Das Plenum der Sozialkammer stuft die Fahrer als Arbeitnehmer ein. Tragend ist, dass
+    die Plattform über das algorithmische Bewertungssystem (Punktzahl aus Verfügbarkeit, Kundenbewertung
+    und Annahmequote) die Arbeitsbedingungen bestimmt und damit die für ein Arbeitsverhältnis kennzeichnende
+    Leitungsmacht ausübt: Die formale Freiheit, Aufträge abzulehnen, wird durch die algorithmischen Folgen
+    der Ablehnung entwertet. Die Entscheidung ist die Grundlage der später kodifizierten Vermutungsregel
+    (disposición adicional vigesimotercera ET, "Ley Rider") und des Auskunftsrechts aus Art. 64.4.d) ET.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.poderjudicial.es/search/indexAN.jsp
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - es-rdl-9-2021
+  - plattformarbeit-rl
+  instanzenzug:
+  - es-2024-glovo-jcca-10
+  - es-2025-an-glovo-ca
+  quelle_tracker: CENDOJ, Buscador de jurisprudencia des Consejo General del Poder Judicial (Trefferliste
+    zu Nº Recurso 4746/2019)
+  verifiziert: false
+  letzte_pruefung: '2026-09-05'
+  eigene_bewertung: 'Die Entscheidung wird meist als Plattformarbeitsurteil gelesen; sie ist aber vor
+    allem eine Zurechnungsentscheidung über Algorithmen. Der Tribunal Supremo hat als erstes Höchstgericht
+    Europas ausgesprochen, dass algorithmische Anreizsteuerung rechtlich Weisung ist, auch wenn sie formal
+    nur eine Rangfolge verändert. Genau diese Figur — die Wirkung des Systems zählt, nicht seine juristische
+    Selbstbeschreibung — kehrt in der Foundever- Entscheidung wieder und liegt der Plattformarbeitsrichtlinie
+    zugrunde. Ihre Grenze zeigt der Fall Glovo selbst: Nach einer Modelländerung hat ein Verwaltungsgericht
+    2024 gegenteilig entschieden (es-2024-glovo-jcca-10). Die Frage ist damit nicht die nach der Technik,
+    sondern die nach der Beweisführung über die tatsächliche Wirkung der Technik.
+
+    '
+  pruefvermerk:
+  - Nicht am Primärdokument verifiziert; CENDOJ gesperrt. Datum, Sentencia-Nummer und Spruchkörper stammen
+    aus der eigenen Vorrecherche; ECLI und Aktenzeichen des Rechtsmittels sind nicht gegenbelegt und mit
+    Vorbehalt zu behandeln.
+  - 'AN AMTLICHER QUELLE GEPRÜFT (05.09.2026, CENDOJ, Suche nach Nº Recurso 4746/2019, Jurisdicción Social,
+    Órgano Tribunal Supremo): genau ein Treffer. ''STS, a 25 de septiembre de 2020 — ROJ: STS 2924/2020
+    — ECLI:ES:TS:2020:2924 — Sala de lo Social — Nº de Resolución: 805/2020 — Municipio: Madrid — Ponente:
+    JUAN MOLINS GARCIA-ATANCE — Nº Recurso: 4746/2019''. Datum, Sentencia-Nummer, Aktenzeichen des Rechtsmittels
+    und ECLI des Eintrags sind damit amtlich bestätigt; der frühere Vorbehalt gegen ECLI und Aktenzeichen
+    ist erledigt.'
+  - 'Ergänzt: ROJ STS 2924/2020 und der Berichterstatter Juan Molins García-Atance. Der amtliche Resumen
+    lautet ''RCUD. GLOVO. Calificación de la relación con un repartidor. Incongruencia: Falta de contradicción.'''
+  - 'Der Zusatz ''Pleno'' ließ sich am CENDOJ nicht gegenprüfen: Eine Wiederholung der Suche mit dem Filter
+    ''Sólo pleno'' lieferte kein auswertbares Ergebnis. Die Eigenschaft als Plenarentscheidung der Sala
+    Cuarta ist durch die Fachliteratur gedeckt und wurde deshalb nicht geändert.'
+  - 'verifiziert bleibt false: Geprüft wurde die amtliche Trefferliste mit sämtlichen Metadaten, nicht
+    der Urteilstext; der Volltextabruf über CENDOJ löst ein CAPTCHA aus.'
+  dokumenttyp: Sentencia; geprüft an der amtlichen Trefferliste des CENDOJ — der Volltextabruf löst ein
+    CAPTCHA aus und wurde nicht durchgeführt
+  quelle_art: amtlich
+  sachverhalt: Ein Fahrer (repartidor) lieferte für die Plattform Glovo Bestellungen aus. Über die Anwendung
+    meldete er an, wann er verfügbar war, und griff auf die angebotenen Aufträge zu; in welcher Reihenfolge
+    er sie zu sehen bekam, richtete sich nach einer Punktzahl, die Glovo aus Verfügbarkeit, Kundenbewertung
+    und Annahmequote errechnete. Formal stand es ihm frei, Aufträge abzulehnen. Das Unternehmen behandelte
+    ihn als selbständigen Auftragnehmer; er machte geltend, in Wahrheit Arbeitnehmer zu sein. Nach gegenläufigen
+    Entscheidungen der Instanzgerichte gelangte die Frage über ein Rechtsmittel zur Vereinheitlichung
+    der Rechtsprechung (recurso de casación para la unificación de doctrina) an das Plenum der Sozialkammer
+    des Tribunal Supremo.
+  sachverhalt_quelle: eintrag
+- id: es-2024-glovo-jcca-10
+  jurisdiktion: es
+  gericht: Juzgado Central de lo Contencioso-Administrativo núm. 10 (Madrid)
+  instanz: erstinstanzlich
+  aktenzeichen: Sentencia núm. 90/2024; procedimiento ordinario núm. 34/2023
+  ecli: ECLI:ES:AN:2024:4355
+  datum: 2024-07-26
+  parteien:
+    klaeger: GLOVOAPP23, S.A.
+    beklagter: Tesorería General de la Seguridad Social
+  status: rechtsmittel
+  themenachsen:
+  - arbeit
+  - governance
+  anspruchsgrundlage: Disposición adicional vigesimotercera Estatuto de los Trabajadores (gesetzliche
+    Vermutung der Arbeitnehmereigenschaft bei Lieferplattformen)
+  kernfrage: Ist die gesetzliche Vermutung der Arbeitnehmereigenschaft bei Lieferplattformen widerlegbar,
+    und schließt algorithmische Vermittlung die tatsächliche Selbständigkeit der Fahrer aus?
+  ergebnis: 'Die Vermutung ist widerleglich, und sie wurde hier widerlegt. Das Gericht hebt Nachforderungs-
+    und Sanktionsbescheide der Sozialversicherung auf: Nach dem seit dem Urteil des Tribunal Supremo von
+    2020 geänderten Betriebsmodell könnten die Fahrer Aufträge ohne Sanktion annehmen oder ablehnen, parallel
+    für Konkurrenzplattformen arbeiten und ihre Zeiten frei wählen; die Vergütung entspreche der tatsächlich
+    erbrachten Leistung. Die bloße Vermittlung über eine Plattform beseitige die Selbständigkeit nicht,
+    wenn die gelebte Praxis erhebliche Freiräume belege.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2024-00000002734
+  bezug_regelwerke:
+  - es-rdl-9-2021
+  - plattformarbeit-rl
+  instanzenzug:
+  - es-2020-glovo-ts
+  - es-2025-an-glovo-ca
+  quelle_tracker: María Emilia Casas Baamonde, Revista de Jurisprudencia Laboral 8/2024 (amtliche Zeitschrift
+    der Agencia Estatal BOE) — abgerufen und ausgewertet
+  verifiziert: false
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Der interessante Teil ist die Divergenz, nicht das Ergebnis. In Spanien stehen seit
+    2024 zwei Gerichtsbarkeiten nebeneinander: die Sozialgerichtsbarkeit, die seit 2020 die Arbeitnehmereigenschaft
+    bejaht, und die Verwaltungsgerichtsbarkeit, die die gesetzliche Vermutung als widerlegbar behandelt
+    und im Einzelfall verneint hat. Wer über die Wirksamkeit algorithmischer Beschäftigungsvermutungen
+    schreibt, sollte diese Divergenz nicht glätten: Sie zeigt, dass die Vermutungsregel den Streit nicht
+    entscheidet, sondern nur verschiebt — von der Frage, ob der Algorithmus steuert, zu der Frage, wer
+    beweist, wie er im konkreten Zeitraum gesteuert hat.
+
+    '
+  pruefvermerk:
+  - Nicht am Urteilstext verifiziert; CENDOJ gesperrt. Gericht, Datum, Sentencia-Nummer, Verfahrensnummer,
+    ECLI, Parteien und Tenor sind in der amtlichen BOE-Zeitschrift nachgewiesen und dort gelesen.
+  quelle_art: fehlt
+- id: es-2025-an-glovo-ca
+  jurisdiktion: es
+  gericht: Audiencia Nacional, Sala de lo Contencioso-Administrativo
+  instanz: berufung
+  aktenzeichen: nicht ermittelt
+  ecli: null
+  datum: 2025-07-16
+  parteien:
+    klaeger: Tesorería General de la Seguridad Social
+    beklagter: GLOVOAPP23, S.A.
+  status: rechtsmittel
+  themenachsen:
+  - arbeit
+  - governance
+  anspruchsgrundlage: Disposición adicional vigesimotercera Estatuto de los Trabajadores
+  kernfrage: Hält die Widerlegung der gesetzlichen Vermutung der Arbeitnehmereigenschaft durch das erstinstanzliche
+    Verwaltungsgericht der Überprüfung stand?
+  ergebnis: 'Nein. Die Audiencia Nacional hebt die Entscheidung des Juzgado Central de lo Contencioso-Administrativo
+    núm. 10 vom 26.07.2024 auf und bestätigt die Arbeitnehmereigenschaft der Fahrer sowie die Bescheide
+    der Sozialversicherung. Damit ist die Divergenz zwischen Sozial- und Verwaltungsgerichtsbarkeit im
+    Ergebnis wieder geschlossen.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - es-rdl-9-2021
+  - plattformarbeit-rl
+  instanzenzug:
+  - es-2024-glovo-jcca-10
+  - es-2020-glovo-ts
+  quelle_tracker: 101_spanien.yaml (Vorrecherche); in dieser Sitzung nicht gegenbelegt
+  verifiziert: false
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Wenn sich der Befund bestätigt, ist er die Schlussfigur einer lehrreichen Kette:
+    Höchstgericht bejaht die algorithmische Weisungsmacht (2020), Gesetzgeber kodifiziert eine Vermutung
+    (2021), Verwaltungsgericht erklärt die Vermutung für widerlegt (2024), Berufungsinstanz stellt sie
+    wieder her (2025). Die Norm hat den Streit nicht beendet, sondern seinen Ort gewechselt.
+
+    '
+  pruefvermerk:
+  - SCHWÄCHSTER EINTRAG DIESER DATEI. Weder Aktenzeichen noch ECLI noch Sentencia-Nummer sind bekannt;
+    die Angabe stützt sich allein auf die eigene Vorrecherche in 101_spanien.yaml und konnte in dieser
+    Sitzung an keiner Quelle gegengeprüft werden. Der Eintrag ist aufgenommen, weil er den Instanzenzug
+    schließt, und ist vor einer Veröffentlichung zwingend nachzuverifizieren.
+  quelle_art: fehlt
+- id: fr-2018-cc-765dc
+  jurisdiktion: fr
+  gericht: Conseil constitutionnel
+  instanz: verfassungsgericht
+  aktenzeichen: Décision n° 2018-765 DC
+  ecli: ECLI:FR:CC:2018:2018.765.DC
+  datum: 2018-06-12
+  parteien:
+    klaeger: Mehr als sechzig Abgeordnete (députés)
+    beklagter: Loi relative à la protection des données personnelles
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  - datenschutz
+  anspruchsgrundlage: Art. 10 der Loi n° 78-17 (informatique et libertés) in der Fassung des angegriffenen
+    Gesetzes; Art. 21 der Déclaration von 1789; Art. 22 DSGVO
+  kernfrage: Darf die Verwaltung eine Einzelfallentscheidung allein auf eine automatisierte Verarbeitung
+    stützen, und unter welchen Bedingungen ist das mit dem Gleichheitssatz und dem Recht auf wirksamen
+    Rechtsschutz vereinbar?
+  ergebnis: 'Verfassungskonform, aber nur unter drei kumulativen Bedingungen. Erstens muss die Entscheidung
+    ausdrücklich auf die algorithmische Grundlage hinweisen, und die "principales caractéristiques de
+    mise en oeuvre" des Algorithmus müssen dem Betroffenen auf Verlangen mitgeteilt werden können; kann
+    die Verwaltung das nicht, ist die automatisierte Entscheidung unzulässig. Zweitens muss ein Verwaltungsrechtsbehelf
+    offenstehen, in dem sich die Verwaltung nicht allein auf den Algorithmus stützen darf. Drittens ist
+    die automatisierte Entscheidung bei besonderen Datenkategorien ausgeschlossen. Zentral und wörtlich:
+    Es dürfen keine Algorithmen verwendet werden, die "susceptibles de réviser eux-mêmes les règles qu''ils
+    appliquent, sans le contrôle et la validation du responsable du traitement" sind. Die Verwaltung muss
+    die Funktionsweise jederzeit erklären können.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.conseil-constitutionnel.fr/decision/2018/2018765DC.htm
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-loi-informatique-libertes
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: conseil-constitutionnel.fr — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Das ist, soweit ersichtlich, das erste Verfassungsgerichtsurteil weltweit, das lernende
+    Systeme aus der Verwaltungsentscheidung ausschließt — sechs Jahre vor der KI-Verordnung und in einer
+    Schärfe, die diese nicht erreicht. Art. 14 KI-VO verlangt menschliche Aufsicht; der Conseil verlangt,
+    dass das System seine eigenen Regeln nicht verändern darf. Das ist kein Aufsichtserfordernis, sondern
+    ein Architekturverbot, und es macht generative oder kontinuierlich nachtrainierte Systeme als alleinige
+    Entscheidungsgrundlage in der französischen Verwaltung unzulässig — unabhängig davon, wie gut ihre
+    Aufsicht organisiert ist. Die praktische Bedeutung wird regelmäßig unterschätzt: Die Erklärbarkeitsanforderung
+    ist nicht als Betroffenenrecht formuliert, sondern als Zulässigkeitsvoraussetzung. Wer den Code nicht
+    erklären kann, darf ihn nicht einsetzen. Genau darin liegt die Verbindung zur spanischen BOSCO-Entscheidung:
+    Frankreich verbietet den unerklärbaren Algorithmus, Spanien erzwingt seine Offenlegung.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: 'Frankreich passte mit der Loi relative à la protection des données personnelles sein Datenschutzrecht
+    an die Datenschutz-Grundverordnung an. Art. 21 dieses Gesetzes änderte Art. 10 der Loi n° 78-17 vom
+    6. Januar 1978 und erweiterte die Fälle, in denen eine Entscheidung mit Rechtswirkung gegenüber einer
+    Person allein auf eine automatisierte Datenverarbeitung gestützt werden darf: Bei Verwaltungseinzelentscheidungen
+    sollte das künftig zulässig sein, sofern der eingesetzte Algorithmus keine sensiblen Daten verarbeitet,
+    Verwaltungsrechtsbehelfe offenstehen und über den Einsatz des Algorithmus informiert wird. Am 16.
+    Mai 2018 riefen sechzig Senatoren um Bruno Retailleau den Conseil constitutionnel an. Sie machten
+    unter anderem geltend, es gebe „selbstlernende" Algorithmen, die die von ihnen angewandten Regeln
+    selbst verändern könnten — die Verwaltung wisse dann nicht mehr, auf welcher Grundlage ihre Entscheidung
+    tatsächlich ergangen sei.'
+  sachverhalt_quelle: volltext
+  pruefvermerk:
+  - '07.09.2026: Der Eintrag nennt als Antragsteller ''mehr als sechzig Abgeordnete''. Die amtliche Fassung
+    schreibt ''Saisine par 60 senateurs'' und durchgaengig ''Les senateurs requerants''. Zu berichtigen.'
+- id: fr-2019-cc-778dc
+  jurisdiktion: fr
+  gericht: Conseil constitutionnel
+  instanz: verfassungsgericht
+  aktenzeichen: Décision n° 2019-778 DC
+  ecli: ECLI:FR:CC:2019:2019.778.DC
+  datum: 2019-03-21
+  parteien:
+    klaeger: Abgeordnete und Senatoren
+    beklagter: Loi de programmation 2018-2022 et de réforme pour la justice
+  status: rechtskraeftig
+  themenachsen:
+  - berufsrecht
+  - grundrechte
+  - governance
+  - sektor-oeffentlich
+  anspruchsgrundlage: Art. 33 des angegriffenen Gesetzes (neuer Art. L. 111-13 code de l'organisation
+    judiciaire); Art. 6 und 11 der Déclaration von 1789
+  kernfrage: Darf der Gesetzgeber die Wiederverwendung der Identitätsdaten von Richtern zur Analyse ihrer
+    Entscheidungspraxis verbieten, wenn zugleich alle Entscheidungen frei zugänglich veröffentlicht werden?
+  ergebnis: 'Ja. Der Conseil erklärt den neuen Art. L. 111-13 COJ für verfassungskonform (Rn. 93-95).
+    Der Gesetzgeber verfolge ein legitimes Ziel: die Verhinderung von Profilbildungen über einzelne Richter,
+    die zu Druck auf die Justiz oder zu Strategien der Gerichtswahl führen könnten und damit die richterliche
+    Unabhängigkeit gefährdeten. Ein Verstoß gegen den Gleichheitssatz oder gegen die Waffengleichheit
+    liege nicht vor, da das Verbot alle Parteien gleichermaßen treffe.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.conseil-constitutionnel.fr/decision/2019/2019778DC.htm
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-open-data-justice
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: conseil-constitutionnel.fr — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Frankreich ist die einzige westliche Rechtsordnung, die die Richterprofilierung durch
+    prädiktive Analysesysteme strafbewehrt verbietet (bis zu fünf Jahre Freiheitsstrafe nach Art. 226-18
+    code pénal in Verbindung mit Art. L. 111-13 COJ) — und der Conseil constitutionnel hat das gehalten.
+    Die Entscheidung ist der schärfste europäische Gegenpol zur amerikanischen Legal-Analytics-Industrie
+    und wird in der deutschen Debatte um Legal Tech und § 5 RDG kaum wahrgenommen, obwohl sie die eigentliche
+    Grundsatzfrage stellt: Ist die Statistik über den Richter Teil der Öffentlichkeit des Verfahrens oder
+    ein Angriff auf seine Unabhängigkeit? Die schwache Stelle der Begründung ist, dass der Conseil das
+    Verbot nur am Gleichheitssatz und an der Waffengleichheit misst, nicht an der Informationsfreiheit.
+    Die Frage, ob ein Verbot der Auswertung ohnehin veröffentlichter Entscheidungen die Meinungs- und
+    Informationsfreiheit verletzt, ist damit offen geblieben.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: 'Art. 33 der Loi de programmation 2018-2022 et de réforme pour la justice änderte die Regeln
+    über die Veröffentlichung von Gerichtsentscheidungen: Alle Entscheidungen der Zivil- und der Verwaltungsgerichtsbarkeit
+    sollten der Öffentlichkeit kostenlos in elektronischer Form zugänglich sein. Zugleich bestimmte er
+    in Art. L. 10 Abs. 4 code de justice administrative und Art. L. 111-13 Abs. 3 code de l''organisation
+    judiciaire, dass die Identitätsdaten der Richterinnen und Richter sowie der Geschäftsstellenbediensteten
+    nicht wiederverwendet werden dürfen, um deren tatsächliche oder vermeintliche berufliche Praxis zu
+    bewerten, zu analysieren, zu vergleichen oder vorherzusagen; Verstöße sind straf- und verwaltungsrechtlich
+    bewehrt. Am 21. Februar 2019 riefen Abgeordnete um Christian Jacob den Conseil constitutionnel an;
+    Senatoren schlossen sich an. Sie hielten das Wiederverwendungsverbot für unvereinbar mit dem Gleichheitssatz
+    und der Waffengleichheit.'
+  sachverhalt_quelle: volltext
+- id: fr-2019-cc-796dc
+  jurisdiktion: fr
+  gericht: Conseil constitutionnel
+  instanz: verfassungsgericht
+  aktenzeichen: Décision n° 2019-796 DC
+  ecli: ECLI:FR:CC:2019:2019.796.DC
+  datum: 2019-12-27
+  parteien:
+    klaeger: Abgeordnete und Senatoren
+    beklagter: Loi de finances pour 2020, Art. 154
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - grundrechte
+  - datenschutz
+  - governance
+  anspruchsgrundlage: Art. 154 Loi de finances pour 2020; Art. 2 der Déclaration von 1789 (Recht auf Achtung
+    des Privatlebens); Art. 8 (Erforderlichkeit von Strafen)
+  kernfrage: Darf die Finanz- und Zollverwaltung öffentlich zugängliche Inhalte sozialer Netzwerke automatisiert
+    und massenhaft erheben und algorithmisch auswerten, um Steuer- und Zollverstöße aufzuspüren?
+  ergebnis: 'Im Grundsatz ja, aber mit einem Katalog von Auslegungsvorbehalten und einer Teilzensur. Verfassungskonform
+    nur unter der Bedingung, dass ausschließlich frei zugängliche und vom Nutzer bewusst öffentlich gemachte
+    Inhalte erhoben werden, dass besondere Datenkategorien nicht verarbeitet werden, dass keine Gesichtserkennung
+    eingesetzt wird, dass nur eigens ermächtigte Bedienstete ab einer bestimmten Besoldungsstufe Zugang
+    erhalten, dass nicht einschlägige Daten binnen fünf Tagen und die übrigen spätestens nach dreißig
+    Tagen gelöscht werden. Teilweise verfassungswidrig ist die Erstreckung auf bloße Verspätungen bei
+    der Steuererklärung: Für diesen Verstoß ist die massenhafte automatisierte Erhebung unverhältnismäßig.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.conseil-constitutionnel.fr/decision/2019/2019796DC.htm
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  instanzenzug: []
+  quelle_tracker: conseil-constitutionnel.fr — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die unterschätzteste der französischen KI-Entscheidungen. Sie enthält bereits 2019
+    die Prüfstruktur, die die KI-Verordnung erst 2024 kodifiziert: Zweckbindung, Verbot der Gesichtserkennung,
+    Zugriffsbeschränkung, kurze Löschfristen, Verhältnismäßigkeit zwischen Schwere des Verstoßes und Eingriffstiefe.
+    Die Teilzensur ist dabei der eigentlich interessante Satz: Nicht die Technik ist unverhältnismäßig,
+    sondern ihr Einsatz für Bagatellen. Das ist eine Verhältnismäßigkeitsprüfung nach Anlasstiefe, keine
+    nach Risikoklasse — und damit ein Prüfmaßstab, den die KI-VO gerade nicht hat.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: Art. 154 der Loi de finances pour 2020 ermächtigte Finanz- und Zollverwaltung, mit informatisierten
+    und automatisierten Mitteln die zugänglichen Inhalte auf den Websites von Vermittlungsplattformen
+    zu erheben und auszuwerten — Plattformen also, über die Waren verkauft, Dienstleistungen erbracht
+    oder Inhalte, Güter und Dienste getauscht oder geteilt werden. Die Verwaltung sollte damit undifferenziert
+    große Datenmengen über eine Vielzahl von Personen einsammeln, sie zusammenführen und miteinander abgleichen
+    dürfen, um Steuer- und Zollverstöße aufzuspüren. Erfasst waren dabei auch bloße Verspätungen bei der
+    Abgabe der Steuererklärung. Abgeordnete und Senatoren riefen den Conseil constitutionnel an und machten
+    geltend, das greife in das Recht auf Achtung des Privatlebens und in die Meinungs- und Kommunikationsfreiheit
+    ein.
+  sachverhalt_quelle: volltext
+- id: fr-2019-ce-unef-parcoursup
+  jurisdiktion: fr
+  gericht: Conseil d'État, 4ème et 1ère chambres réunies
+  instanz: revision
+  aktenzeichen: n° 427916
+  ecli: null
+  datum: 2019-06-12
+  parteien:
+    klaeger: Université des Antilles
+    beklagter: Union nationale des étudiants de France (UNEF)
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  anspruchsgrundlage: Art. L. 612-3 code de l'éducation (Sonderregelung); Art. L. 311-1 code des relations
+    entre le public et l'administration (allgemeines Zugangsrecht)
+  kernfrage: Kann ein Dritter, der sich nicht selbst beworben hat, Zugang zu den Bewertungskriterien und
+    den lokalen Algorithmen verlangen, mit denen eine Hochschule im Verfahren Parcoursup über Bewerbungen
+    entscheidet?
+  ergebnis: 'Nein. Der Conseil d''État hebt das Urteil des Verwaltungsgerichts auf und weist den Antrag
+    der UNEF ab. Die Sonderregelung des code de l''éducation, die den Zugang zu den Beratungsunterlagen
+    der Auswahlkommissionen auf die Bewerber selbst und auf ihre eigene Bewerbung beschränkt, sei als
+    Abweichung von Art. L. 311-1 CRPA gewollt: "Les dispositions spéciales doivent ainsi être regardées
+    comme ayant entendu déroger, notamment, aux dispositions de l''article L. 311-1 du code des relations
+    entre le public et l''administration." Der Gewerkschaft fehle als Nichtbewerberin der Zugangsanspruch.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2019-06-12/427916
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-parcoursup
+  instanzenzug:
+  - fr-2020-cc-834qpc
+  quelle_tracker: conseil-etat.fr ArianeWeb — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die Entscheidung ist das negative Gegenstück zu BOSCO und zeigt, wie fragil Algorithmentransparenz
+    im Verwaltungsrecht ist: Sie scheitert nicht an der Technik, sondern an der Klagebefugnis. Der Conseil
+    d''État hat den Zugang nicht inhaltlich verweigert, sondern ihn auf die individuell Betroffenen zugeschnitten
+    — mit der praktischen Folge, dass niemand das Gesamtsystem prüfen kann, weil jeder Bewerber nur seinen
+    eigenen Ausschnitt sieht. Genau diese Lücke hat der Conseil constitutionnel zehn Monate später mit
+    einem Auslegungsvorbehalt geschlossen (fr-2020-cc-834qpc). Der Instanzenzug ist deshalb die eigentliche
+    Information: Ein Höchstgericht schließt den kollektiven Zugang aus, das Verfassungsgericht macht ihn
+    nachträglich wieder auf.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: Über die Plattform Parcoursup bewerben sich Studieninteressierte in Frankreich um Studienplätze;
+    die Hochschulen prüfen die Bewerbungen nach eigenen, lokal festgelegten Verfahren. Die Studierendengewerkschaft
+    Union nationale des étudiants de France verlangte von der Université des Antilles, ihr die algorithmischen
+    Verfahren offenzulegen, die diese bei der Bearbeitung der Bachelor-Bewerbungen einsetzte, samt den
+    zugehörigen Quellcodes. Die Universität schwieg; aus diesem Schweigen entstand am 18. August 2018
+    eine stillschweigende Ablehnung. Das Verwaltungsgericht Guadeloupe hob sie mit Urteil Nr. 1801094
+    vom 4. Februar 2019 auf und gab der Universität auf, die Unterlagen binnen eines Monats herauszugeben,
+    unter Androhung eines Zwangsgelds von 100 Euro je Tag. Die Universität legte am 12. Februar 2019 Kassationsbeschwerde
+    zum Conseil d'État ein.
+  sachverhalt_quelle: volltext
+- id: fr-2020-cc-834qpc
+  jurisdiktion: fr
+  gericht: Conseil constitutionnel
+  instanz: verfassungsgericht
+  aktenzeichen: Décision n° 2020-834 QPC
+  ecli: ECLI:FR:CC:2020:2020.834.QPC
+  datum: 2020-04-03
+  parteien:
+    klaeger: Union nationale des étudiants de France (UNEF)
+    beklagter: Art. L. 612-3 code de l'éducation
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  anspruchsgrundlage: Art. L. 612-3 Abs. 6 code de l'éducation; Art. 15 der Déclaration von 1789 (Rechenschaftspflicht
+    der Verwaltung)
+  kernfrage: Verstößt der Ausschluss Dritter vom Zugang zu den Bewertungskriterien und Algorithmen der
+    Hochschulen im Verfahren Parcoursup gegen das aus Art. 15 der Erklärung von 1789 folgende Recht auf
+    Zugang zu Verwaltungsinformationen?
+  ergebnis: 'Verfassungskonform, aber nur mit einem Auslegungsvorbehalt (Rn. 17): Die Vorschrift darf
+    nicht so gelesen werden, dass die Hochschulen davon befreit wären, nach Abschluss des Zulassungsverfahrens
+    die Kriterien zu veröffentlichen, nach denen die Bewerbungen geprüft wurden, und anzugeben, in welchem
+    Umfang dabei Algorithmen eingesetzt wurden. Der Schutz der Beratungsvertraulichkeit der Auswahlkommissionen
+    rechtfertige die Geheimhaltung während des Verfahrens, nicht aber die vollständige und dauerhafte
+    Intransparenz gegenüber der Öffentlichkeit.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.conseil-constitutionnel.fr/decision/2020/2020834QPC.htm
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-parcoursup
+  instanzenzug:
+  - fr-2019-ce-unef-parcoursup
+  quelle_tracker: conseil-constitutionnel.fr — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Der Auslegungsvorbehalt ist juristisch die elegantere Lösung als ein Individualanspruch:
+    Er verlagert die Transparenz vom Zugang zur Veröffentlichung und vom Verfahren in die Nachschau. Damit
+    entsteht ein Modell, das für algorithmische Verwaltung insgesamt trägt — Vertraulichkeit während der
+    laufenden Entscheidung, Rechenschaft nach ihrem Abschluss. Wer über Art. 86 KI-VO und die Erläuterungspflicht
+    bei Hochrisikosystemen nachdenkt, findet hier die zeitliche Staffelung, die dort fehlt. Übersehen
+    wird meist, dass der Vorbehalt nur die Kriterien und das "in welchem Umfang" erfasst, nicht den Algorithmus
+    selbst. Es ist das genaue Gegenteil der spanischen BOSCO-Lösung: Frankreich gibt die Beschreibung,
+    Spanien den Code.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: Die Loi n° 2018-166 vom 8. März 2018 richtete in Art. L. 612-3 code de l'éducation ein
+    nationales Vorauswahlverfahren für die Studienzulassung ein — Parcoursup. Der letzte Absatz dieser
+    Vorschrift bestimmte zum Schutz der Beratungsvertraulichkeit der prüfenden Kommissionen, dass die
+    allgemeinen Transparenzpflichten des code des relations entre le public et l'administration bereits
+    als erfüllt gelten, sobald die Bewerber darauf hingewiesen werden, dass sie auf Antrag Auskunft über
+    die Kriterien und Modalitäten der Prüfung ihrer eigenen Bewerbung erhalten können. Dritte — etwa Verbände
+    — bekamen damit weder die Kriterien noch die Angabe, in welchem Umfang Algorithmen eingesetzt worden
+    waren. Die Union nationale des étudiants de France warf in ihrem Verfahren gegen die Université des
+    Antilles die Frage der Verfassungsmäßigkeit dieser Vorschrift auf; der Conseil d'État legte sie mit
+    den Entscheidungen Nr. 433296 und 433297 vom 15. Januar 2020 dem Conseil constitutionnel vor, wo sie
+    am 16. Januar 2020 einging.
+  sachverhalt_quelle: volltext
+- id: fr-2023-cc-850dc
+  jurisdiktion: fr
+  gericht: Conseil constitutionnel
+  instanz: verfassungsgericht
+  aktenzeichen: Décision n° 2023-850 DC
+  ecli: ECLI:FR:CC:2023:2023.850.DC
+  datum: 2023-05-17
+  parteien:
+    klaeger: Abgeordnete und Senatoren
+    beklagter: Loi relative aux jeux Olympiques et Paralympiques de 2024, Art. 10
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  - sicherheit-export
+  anspruchsgrundlage: Art. 10 des angegriffenen Gesetzes (befristetes Experiment algorithmischer Videoüberwachung);
+    Art. 2 der Déclaration von 1789
+  kernfrage: Ist die befristete Erlaubnis, Bilder aus Videoüberwachung und Drohnen algorithmisch auf vorbestimmte
+    Ereignisse auszuwerten, mit dem Recht auf Achtung des Privatlebens vereinbar?
+  ergebnis: 'Verfassungskonform mit einem Auslegungsvorbehalt; nichts wurde für verfassungswidrig erklärt.
+    Tragend sind die engen Grenzen: Einsatz nur bei Veranstaltungen mit besonderem Gefährdungsrisiko und
+    nicht bei bloßem Sachschadensrisiko (Rn. 37); präfektorale Genehmigung mit Begründung, genauen Parametern
+    und einer Höchstdauer von einem Monat (Rn. 38-39); ausdrückliches Verbot biometrischer Identifikation
+    und Gesichtserkennung sowie jeder Verknüpfung mit anderen Systemen (Rn. 42); ausschließlich automatisierte
+    Hinweismeldungen ohne eigene Entscheidungswirkung und ständige menschliche Kontrolle (Rn. 43-45).
+    Der Auslegungsvorbehalt (Rn. 39): Der Präfekt muss die Maßnahme unverzüglich beenden, sobald ihre
+    Voraussetzungen entfallen; ein bloßes Ermessen zur Aussetzung genügt nicht.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.conseil-constitutionnel.fr/decision/2023/2023850DC.htm
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - ki-vo-2024-1689
+  instanzenzug:
+  - fr-2025-cc-878dc
+  - fr-2026-cc-915dc
+  - fr-2026-ce-nice-vsa
+  quelle_tracker: conseil-constitutionnel.fr — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die Entscheidung ist die europäische Blaupause für die algorithmische Videoüberwachung,
+    und sie ist strenger als Art. 5 KI-VO. Die KI-Verordnung verbietet die biometrische Fernidentifikation
+    in Echtzeit mit Ausnahmen; der Conseil erlaubt die algorithmische Bildauswertung nur als befristetes
+    Experiment, ohne jede Biometrie, ohne Verknüpfung und ohne Entscheidungswirkung. Das ist ein anderes
+    Regulierungsmodell: nicht Risikoklassifizierung, sondern gesetzliche Einzelerlaubnis mit Verfallsdatum.
+    Der Auslegungsvorbehalt aus Rn. 39 ist der Satz, an dem sich die Praxis entscheidet — und er ist genau
+    der Punkt, an dem der Conseil d''État 2026 die Gemeinde Nizza gestoppt hat: Wo das Gesetz schweigt,
+    gibt es keine Erlaubnis.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: Art. 10 der Loi relative aux jeux Olympiques et Paralympiques de 2024 erlaubte versuchsweise,
+    die Bilder aus Videoüberwachungsanlagen und aus Kameras an Luftfahrzeugen algorithmisch auszuwerten,
+    um bestimmte vorher festgelegte Ereignisse zu erkennen und zu melden. Die Erprobung sollte bis zum
+    31. März 2025 laufen, obwohl die Spiele im September 2024 enden. Welche Ereignisse die Systeme erkennen
+    sollen, in welchen Lagen sie eingesetzt werden dürfen und wie die damit betrauten Bediensteten zu
+    ermächtigen und zu schulen sind, ließ das Gesetz weitgehend offen. Am 17. April 2023 riefen Abgeordnete
+    um Mathilde Panot den Conseil constitutionnel an und rügten neben dem Recht auf Achtung des Privatlebens
+    die Bewegungsfreiheit und das Demonstrationsrecht.
+  sachverhalt_quelle: volltext
+  pruefvermerk:
+  - '07.09.2026: Der Eintrag nennt ''Abgeordnete und Senatoren''. Angerufen haben ausweislich der amtlichen
+    Fassung nur Abgeordnete um Mathilde Panot. Zu berichtigen.'
+- id: fr-2025-cc-878dc
+  jurisdiktion: fr
+  gericht: Conseil constitutionnel
+  instanz: verfassungsgericht
+  aktenzeichen: Décision n° 2025-878 DC
+  ecli: ECLI:FR:CC:2025:2025.878.DC
+  datum: 2025-04-24
+  parteien:
+    klaeger: Abgeordnete und Senatoren
+    beklagter: Loi relative au renforcement de la sûreté dans les transports
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Art. 45 der Verfassung (Verbot des cavalier législatif); Art. 15 des angegriffenen
+    Gesetzes
+  kernfrage: Durfte der Gesetzgeber die Verlängerung des Experiments mit algorithmischer Videoüberwachung
+    über einen Änderungsantrag in ein Gesetz über die Sicherheit im öffentlichen Verkehr einfügen?
+  ergebnis: 'Nein — aus rein verfahrensrechtlichen Gründen. Der Conseil constitutionnel zensiert Art.
+    15, der die Experimentierklausel des Art. 10 der Loi JO 2023 verlängert hätte, als cavalier législatif:
+    Die Bestimmung war im ursprünglichen Senatsentwurf nicht enthalten und weist zu dessen Vorschriften
+    "aucun lien, même indirect" auf (Rn. 134-138). Sie ist deshalb "selon une procédure contraire à la
+    Constitution" eingefügt worden. Ebenso zensiert wurden die Art. 5, 12 und 22. Eine materielle Prüfung
+    der algorithmischen Videoüberwachung fand nicht statt.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.conseil-constitutionnel.fr/decision/2025/2025878DC.htm
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - fr-loi-2026-798
+  instanzenzug:
+  - fr-2023-cc-850dc
+  - fr-2026-cc-915dc
+  - fr-2026-ce-nice-vsa
+  quelle_tracker: conseil-constitutionnel.fr — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Eine der folgenreichsten Entscheidungen dieses Feldes, obwohl sie inhaltlich nichts
+    sagt. Mit dem Ablauf des 31.03.2025 endete die Experimentierklausel; neue präfektorale Genehmigungen
+    waren bis zum Inkrafttreten des RIPOST-Gesetzes 2026 nicht mehr möglich. Genau diese Lücke hat der
+    Conseil d''État in der Sache Nizza als verbindlich behandelt. Der Fall ist ein Lehrstück darüber,
+    dass Verfahrensrecht in der Technologieregulierung härter wirkt als Grundrechtsdogmatik: Nicht die
+    Verhältnismäßigkeit hat die algorithmische Videoüberwachung ein Jahr lang gestoppt, sondern Art. 45
+    der Verfassung. Anmerkung zur Randnummernzählung: Die Prüfung des Art. 15 steht in Rn. 134-138, nicht
+    — wie gelegentlich zitiert — bei Rn. 130 ff.; dort geht es um Art. 14 (Kameras im städtischen Verkehr).
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+- id: fr-2026-cc-915dc
+  jurisdiktion: fr
+  gericht: Conseil constitutionnel
+  instanz: verfassungsgericht
+  aktenzeichen: Décision n° 2026-915 DC
+  ecli: null
+  datum: 2026-08-14
+  parteien:
+    klaeger: Abgeordnete und Senatoren
+    beklagter: Loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la
+      sécurité et la tranquillité de nos concitoyens (RIPOST)
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Art. 45 der Verfassung; Art. 8 der Déclaration von 1789 (ne bis in idem, Erforderlichkeit
+    der Strafen)
+  kernfrage: Halten die Vorschriften des RIPOST-Gesetzes — darunter die Verlängerung und Ausweitung der
+    algorithmischen Videoüberwachung bis 2030 — der verfassungsgerichtlichen Prüfung stand?
+  ergebnis: 'Teilweise verfassungswidrig, die Bestimmungen zur algorithmischen Videoüberwachung bleiben
+    aber unangetastet. Für verfassungswidrig erklärt wurden unter anderem Art. 1 Abs. I und Abs. III Nr.
+    3 Unterabs. 2 (Schließung von Geschäften, Ordnungswidrigkeiten), Art. 7 Abs. I Nr. 1 und Nr. 13 (Fahrzeugkontrolle
+    und -vernichtung) sowie Art. 14 Abs. II (Doppelbestrafung). Die algorithmische Videoüberwachung erscheint
+    nur mittelbar: In den Randnummern 187-189 zieht der Conseil den Art. 19 des ursprünglichen Regierungsentwurfs,
+    der das Regime der vidéosurveillance algorithmique änderte, als Anknüpfungspunkt heran, um andere
+    Bestimmungen gegen den Vorwurf des cavalier législatif zu verteidigen. Die Antragsteller hatten die
+    VSA-Artikel nicht angegriffen; eine materielle Prüfung fand daher erneut nicht statt.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-loi-2026-798
+  - fr-loi-2023-380
+  - ki-vo-2024-1689
+  instanzenzug:
+  - fr-2023-cc-850dc
+  - fr-2025-cc-878dc
+  - fr-2026-ce-nice-vsa
+  quelle_tracker: conseil-constitutionnel.fr — Volltext abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Der eigentliche Befund ist ein Nichtereignis: Die dauerhafte Ausweitung der algorithmischen
+    Videoüberwachung bis 2030 ist ohne materielle Verfassungsprüfung in Kraft getreten, weil niemand sie
+    angegriffen hat. Zwischen 2023 und 2026 hat sich die Kontrolldichte damit umgekehrt — 2023 wurde die
+    Experimentierklausel mit einem Katalog von Vorbehalten versehen, 2026 wird ihre Verstetigung nicht
+    geprüft. Wer die Wirksamkeit verfassungsgerichtlicher Technologiekontrolle beurteilen will, sollte
+    diese Kette lesen: Sie hängt vollständig davon ab, was die Antragsteller in ihre saisine schreiben.
+    Der Randnummernbefund ist zudem ein Beleg für die Divergenz in den Materialien: Der Senatsbericht
+    spricht bei der VSA von Art. 14, der Conseil ausdrücklich vom "article 19 du projet de loi initial".
+    Maßgeblich ist der Entscheidungstext.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+- id: fr-2026-ce-nice-vsa
+  jurisdiktion: fr
+  gericht: Conseil d'État, 10ème et 9ème chambres réunies
+  instanz: erstinstanzlich
+  aktenzeichen: n° 506370
+  ecli: ECLI:FR:CECHR:2026:506370.20260130
+  datum: 2026-01-30
+  parteien:
+    klaeger: Commune de Nice
+    beklagter: Commission nationale de l'informatique et des libertés (CNIL)
+  status: rechtskraeftig
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  - datenschutz
+  anspruchsgrundlage: Art. L. 251-2 code de la sécurité intérieure; DSGVO
+  kernfrage: Erlaubt die Ermächtigung zur Videoüberwachung öffentlicher Wege in Art. L. 251-2 code de
+    la sécurité intérieure auch die algorithmische, systematische und automatisierte Auswertung der erhobenen
+    Bilder?
+  ergebnis: 'Nein. Der Conseil d''État weist die Klage der Gemeinde Nizza gegen die Stellungnahme der
+    CNIL zum System "zone intrusion entrées des écoles" (automatische Erkennung unerlaubten Parkens vor
+    Schulen) ab. Tragend ist der Satz: "les dispositions précitées de l''article L. 251-2 du code de la
+    sécurité intérieure, si elles permettent la mise en oeuvre de systèmes de vidéosurveillance des voies
+    publiques, ne sauraient, dans leur silence, être interprétées comme autorisant la mise en oeuvre de
+    traitements algorithmiques permettant une analyse systématique et automatisée des images collectées."
+    Die CNIL habe zu Recht festgestellt, dass ein solches System außerhalb der befristeten Experimentierklausel
+    keine Rechtsgrundlage hat. Vorsitz: M. Pierre Collin.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-01-30/506370
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - fr-loi-2026-798
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  instanzenzug:
+  - fr-2023-cc-850dc
+  - fr-2025-cc-878dc
+  - fr-2026-cc-915dc
+  quelle_tracker: conseil-etat.fr ArianeWeb — Volltext abgerufen; korrigiert die Formationsangabe in 103_frankreich.yaml
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die wichtigste europäische Entscheidung zur algorithmischen Videoüberwachung — und
+    ihre Bedeutung liegt in einer Auslegungsregel, nicht in einer Grundrechtsabwägung. Der Conseil d''État
+    sagt: Aus dem Schweigen des Gesetzes folgt keine Erlaubnis. Damit steht das französische Modell als
+    Gegenfigur zur KI-Verordnung: Diese verbietet bestimmte Praktiken und erlaubt den Rest unter Auflagen;
+    Frankreich erlaubt nichts, was das Gesetz nicht ausdrücklich erlaubt. Für Kommunen in der EU, die
+    KI-gestützte Kameraanalyse auf Art. 6 Abs. 1 lit. e DSGVO stützen wollen, ist das die schärfste denkbare
+    Warnung: Die DSGVO-Rechtsgrundlage ersetzt die fehlende fachgesetzliche Ermächtigung nicht. ABWEICHUNG:
+    103_frankreich.yaml führt die Entscheidung unter "4e et 1re chambres réunies". Der amtliche Text nennt
+    die 10ème und 9ème chambres réunies. Der ECLI stimmt überein; die Formationsangabe in 103_frankreich.yaml
+    ist falsch.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: Die Gemeinde Nizza betreibt eine Videoüberwachung des öffentlichen Raums und wollte deren
+    Bilder algorithmisch auswerten lassen — mit den Verarbeitungen „franchissement de ligne" und „zone
+    d'intrusion", darunter das Modul „zone intrusion entrées des écoles", das unerlaubtes Parken vor Schulen
+    automatisch erkennen soll. Nach einer Kontrolle in den Räumen der Gemeinde am 5. April 2023 forderte
+    die Präsidentin der Commission nationale de l'informatique et des libertés die Gemeinde am 13. November
+    2024 auf, für diese Verarbeitungen eine Datenschutz-Folgenabschätzung vorzulegen und die Vorhaben
+    nach Art. 90 der Loi vom 6. Januar 1978 der CNIL zur Stellungnahme zu unterbreiten. In ihrer Délibération
+    Nr. 2025-032 vom 15. Mai 2025 kam die CNIL zu dem Ergebnis, das Modul „zone intrusion entrées des
+    écoles" sei nach geltendem Recht nicht zulässig. Am 18. Juli 2025 erhob die Gemeinde Nizza dagegen
+    Anfechtungsklage (recours pour excès de pouvoir) zum Conseil d'État.
+  sachverhalt_quelle: volltext
+- id: it-2026-garante-character-ai
+  jurisdiktion: it
+  gericht: Garante per la protezione dei dati personali
+  instanz: behoerde
+  aktenzeichen: Provvedimento del 3 luglio 2026, registro dei provvedimenti n. 487 (docweb 10269571)
+  ecli: null
+  datum: 2026-07-03
+  parteien:
+    klaeger: Garante per la protezione dei dati personali
+    beklagter: Character Technologies, Inc.
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - gpai
+  - grundrechte
+  - content
+  anspruchsgrundlage: Art. 5 Abs. 2, Art. 12, Art. 13, Art. 14, Art. 21, Art. 24, Art. 25, Art. 27, Art.
+    35 DSGVO; d.lgs. 196/2003
+  kernfrage: Welche Informations-, Altersverifikations- und Risikobewertungspflichten treffen den Anbieter
+    eines Companion-Chatbots, und muss er die betroffenen Personen über das Vortraining der zugrunde liegenden
+    Modelle nach Art. 14 DSGVO unterrichten?
+  ergebnis: 'Geldbuße von 158.000 Euro nebst Anordnungen. Festgestellt wurden: unklare, unvollständige
+    und nicht verständliche Informationen zu den Verarbeitungen (Art. 12, 13, 14 DSGVO); die unterbliebene
+    Unterrichtung italienischer Betroffener über das Vortraining der KI-Modelle (Art. 14 DSGVO); unzureichende
+    technische Maßnahmen zur Altersverifikation im Zeitraum vom 08.04.2024 bis 08.04.2025 (Art. 24, 25
+    DSGVO); die verspätete Datenschutz-Folgenabschätzung (Art. 35 DSGVO, erst November 2024) und die verspätete
+    Benennung des EU-Vertreters (Art. 27 DSGVO, erst Mai 2025). Angeordnet wurden ein funktionsfähiges
+    Altersverifikationssystem, ein wirksamer "cooling-off"-Mechanismus gegen die Neuanmeldung gesperrter
+    Minderjähriger, die Voreinstellung der Profile Minderjähriger auf privat und ein Umsetzungsbericht
+    binnen 120 Tagen. Bekanntgabe durch Pressemitteilung am 09.07.2026.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.garanteprivacy.it/garante/doc.jsp?ID=10269571
+  zusammenfassung_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269594
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  instanzenzug: []
+  quelle_tracker: garanteprivacy.it — Provvedimento (doc.jsp?ID=10269571) und Pressemitteilung (docweb
+    10269594), beide abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Der juristisch bemerkenswerte Teil ist nicht der Minderjährigen- schutz, sondern
+    der eigenständige Vorwurf nach Art. 14 DSGVO für das Vortraining. Der Garante behandelt das Pre-Training
+    damit als eine Verarbeitung, über die die Betroffenen zu unterrichten sind — und umgeht die viel schwierigere
+    Frage nach der Rechtsgrundlage, indem er bei der Information ansetzt. Das ist dogmatisch eleganter
+    als die OpenAI-Entscheidung von 2024 und robuster gegen die Zuständigkeitseinwände, die diese zu Fall
+    gebracht haben: Der EU-Vertreter war hier erst im Mai 2025 benannt, eine Hauptniederlassung im EWR
+    gibt es nicht. Auffällig ist, was fehlt: Die KI-Verordnung wird im Provvedimento nicht zitiert, obwohl
+    Companion-Chatbots mit Minderjährigen der Sache nach im Anwendungsbereich von Art. 5 Abs. 1 lit. b
+    KI-VO (Ausnutzung altersbedingter Schutzbedürftigkeit) liegen. Die Aufsicht arbeitet weiter mit der
+    DSGVO, weil sie sie kennt und weil die Sanktionsarchitektur der KI-VO noch nicht steht.
+
+    '
+  quelle_art: amtlich
+  sachverhalt: Die Character Technologies, Inc. betreibt unter Character.AI einen Dienst, auf dem Nutzer
+    fortlaufend Gespräche mit Begleit-Chatbots führen; er wurde auch von Minderjährigen in Italien genutzt.
+    Das Unternehmen hat keine Hauptniederlassung im Europäischen Wirtschaftsraum; einen Vertreter in der
+    Union benannte es erst im Mai 2025, eine Datenschutz-Folgenabschätzung erstellte es erst im November
+    2024. Zwischen dem 8. April 2024 und dem 8. April 2025 arbeitete der Dienst ohne wirksame technische
+    Altersprüfung. Die Personen, deren Daten in das Vortraining der zugrunde liegenden Modelle eingeflossen
+    waren, wurden darüber nicht unterrichtet, und die Hinweise zu den Verarbeitungen waren unvollständig.
+    Der Garante per la protezione dei dati personali leitete ein Verfahren ein.
+  sachverhalt_quelle: eintrag
+- id: it-2026-garante-rti-mentana
+  jurisdiktion: it
+  gericht: Garante per la protezione dei dati personali
+  instanz: behoerde
+  aktenzeichen: Provvedimento del 23 luglio 2026, registro dei provvedimenti n. 577 (docweb 10281021)
+  ecli: null
+  datum: 2026-07-23
+  parteien:
+    klaeger: Enrico Mentana (reclamante)
+    beklagter: R.T.I. — Reti Televisive Italiane S.p.A.
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - content
+  - grundrechte
+  - haftung
+  anspruchsgrundlage: Art. 5 Abs. 1 lit. a DSGVO (Rechtmäßigkeit, Verarbeitung nach Treu und Glauben,
+    Transparenz); Art. 25 DSGVO; Art. 137 Codice privacy (journalistische Verarbeitung)
+  kernfrage: Ist die satirische Verwendung eines mit KI erzeugten Abbilds und einer synthetischen Stimme
+    einer realen Person durch das Medienprivileg gedeckt, wenn die Fälschung realistisch wirkt und der
+    Hinweis auf ihre Künstlichkeit für das Publikum nicht deutlich erkennbar ist?
+  ergebnis: 'Nein. Der Garante verwarnt R.T.I. wegen Verletzung der Grundsätze der Rechtmäßigkeit, der
+    Verarbeitung nach Treu und Glauben und der Transparenz und untersagt jede weitere Verarbeitung der
+    Daten des Beschwerdeführers in der beanstandeten Form ("divieto di ulteriore trattamento dei dati
+    del reclamante con le modalità sopra descritte"). Gegenstand waren Beiträge der Sendung "Striscia
+    la Notizia", in denen Stimme und Bild des Journalisten Enrico Mentana mit KI so manipuliert wurden,
+    dass er im Studio des TG La7 Nachrichten zu verlesen schien, die er nie gesprochen hat. Tragend: die
+    realistische Ausführung, die fehlende Erkennbarkeit der Manipulation und die für Fernsehzuschauer
+    wie für Social-Media-Nutzer unzureichend deutlichen Hinweise. Bekanntgabe am 07.08.2026.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10281021
+  zusammenfassung_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10281135
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  instanzenzug: []
+  quelle_tracker: garanteprivacy.it — Provvedimento (docweb 10281021) und Pressemitteilung (docweb 10281135),
+    beide abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die erste europäische Aufsichtsentscheidung, die satirische Deepfakes an der Kennzeichnungsfrage
+    scheitern lässt — und sie verschiebt den Streit von der Persönlichkeitsrechts- in die Datenschutzdogmatik.
+    Der Garante prüft nicht, ob die Satire zulässig ist, sondern ob die Verarbeitung transparent war.
+    Damit wird Art. 50 Abs. 4 KI-VO, der die Kennzeichnung von Deepfakes verlangt und für Kunst und Satire
+    eine Erleichterung vorsieht, faktisch über Art. 5 Abs. 1 lit. a DSGVO vorweggenommen — und strenger
+    gefasst: Nicht das Vorhandensein eines Hinweises zählt, sondern seine Wahrnehmbarkeit für das konkrete
+    Publikum, und zwar getrennt für Fernsehen und soziale Netzwerke. Für die deutsche Praxis ist das die
+    relevanteste Vorlage zur Frage, wie ein KI-Kennzeichnungshinweis beschaffen sein muss. Die Antwort
+    des Garante ist unbequem: Ein Hinweis, den man übersehen kann, ist keiner.
+
+    '
+  quelle_art: amtlich
+  sachverhalt: Die von R.T.I. — Reti Televisive Italiane S.p.A. verantwortete Sendung „Striscia la Notizia"
+    zeigte Beiträge, in denen Stimme und Bild des Journalisten Enrico Mentana mit KI so bearbeitet waren,
+    dass er im Studio des TG La7 Nachrichten zu verlesen schien, die er nie gesprochen hat. Die Nachbildung
+    war realistisch ausgeführt. Die Beiträge liefen nicht nur im Fernsehen, sondern auch in sozialen Netzwerken
+    weiter. Mentana wandte sich mit einer Beschwerde (reclamo) an den Garante per la protezione dei dati
+    personali und beanstandete, für das Publikum sei nicht deutlich erkennbar, dass es sich um eine Fälschung
+    handle.
+  sachverhalt_quelle: eintrag
+- id: it-2026-garante-ia-lavoro-stress
+  jurisdiktion: it
+  gericht: Garante per la protezione dei dati personali
+  instanz: behoerde
+  aktenzeichen: Avvertimento vom 28.05.2026 (Nummer des Provvedimento nicht veröffentlicht; docweb 10255522)
+  ecli: null
+  datum: 2026-05-28
+  parteien:
+    klaeger: Garante per la protezione dei dati personali
+    beklagter: Italienisches Start-up (Anbieter eines KI-Plug-ins für Slack und Microsoft Teams)
+  status: erledigt
+  themenachsen:
+  - arbeit
+  - datenschutz
+  - grundrechte
+  - gpai
+  anspruchsgrundlage: Art. 58 Abs. 2 lit. a DSGVO (Warnung); Art. 5, Art. 25 DSGVO; Art. 5 Abs. 1 lit.
+    f KI-VO (Verbot der Emotionserkennung am Arbeitsplatz); Art. 4 und 8 Statuto dei lavoratori
+  kernfrage: Darf ein Dienst die Chat-Kommunikation von Beschäftigten mit KI semantisch auswerten, um
+    deren psychische Belastung zu ermitteln, wenn der Arbeitgeber nur aggregierte Ergebnisse erhält?
+  ergebnis: 'Warnung (avvertimento) mit der Auflage, bereits in der Entwurfsphase Schutzvorkehrungen einzubauen,
+    die einen mittelbaren Zugriff des Arbeitgebers auf die emotionalen Zustände einzelner Beschäftigter
+    ausschließen. Das Start-up ist selbst Verantwortlicher; der Arbeitgeber erhält keinen Zugriff auf
+    Kommunikationsinhalte oder Einzelergebnisse, sondern nur aggregierte Belastungsberichte. Der Garante
+    beanstandet dennoch, dass es sich um Informationen handelt, die der Arbeitgeber nach Datenschutzrecht
+    nicht rechtmäßig erlangen und verarbeiten darf; dass das Vorhaben mit dem Verbot der KI-Verordnung
+    kollidiert, Systeme zur Emotionsanalyse im Arbeitskontext einzusetzen; und dass semantische Analysemodelle
+    intransparente und potenziell diskriminierende Ergebnisse liefern können.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10255522
+  zusammenfassung_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10255522
+  bezug_regelwerke:
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  - it-statuto-lavoratori
+  instanzenzug: []
+  quelle_tracker: garanteprivacy.it — amtliche Mitteilung docweb 10255522, abgerufen
+  verifiziert: false
+  letzte_pruefung: &id002 2026-09-05
+  eigene_bewertung: 'Die erste bekannte Anwendung des Verbots der Emotionserkennung am Arbeitsplatz durch
+    eine europäische Datenschutzbehörde — und sie trifft eine Konstellation, die auf den ersten Blick
+    unbedenklich wirkt: Der Arbeitgeber sieht nichts, die Beschäftigten nehmen freiwillig teil, die Ergebnisse
+    gehen nur an sie selbst. Der Garante durchschneidet das mit einem Argument, das für die ganze Kategorie
+    der "Wohlbefindens-KI" gilt: Wenn die aggregierte Auswertung Rückschlüsse auf Teams oder Einzelne
+    erlaubt, ist die Zwischenschaltung eines Dritten als Verantwortlichem eine Umgehungskonstruktion.
+    Bemerkenswert ist der Zeitpunkt: Die Verbotstatbestände des Art. 5 KI-VO gelten seit dem 02.02.2025,
+    die Sanktionsarchitektur greift erst später. Der Garante nutzt die Warnung nach Art. 58 Abs. 2 lit.
+    a DSGVO als Vehikel, um das KI-VO-Verbot schon jetzt durchzusetzen. Das ist die praktisch wichtigste
+    Beobachtung dieser Datei zum Verhältnis von DSGVO und KI-VO: Die Datenschutzaufsicht vollzieht die
+    KI-Verordnung, bevor die KI-Aufsicht arbeitsfähig ist.
+
+    '
+  pruefvermerk:
+  - 'An der amtlichen Mitteilung geprüft (05.09.2026): garanteprivacy.it, Doc-Web 10255522, Datum 28/05/26,
+    Tipologia ''Comunicato stampa''. Titel und Inhalt decken sich mit dem Eintrag: Avvertimento an ein
+    italienisches Start-up, das ein KI-Plug-in für Slack und Microsoft Teams anbietet, das über semantische
+    Chat-Analyse den psychischen Belastungsgrad freiwillig teilnehmender Beschäftigter ermittelt.'
+  - 'Ebenfalls in der Mitteilung belegt: Das Start-up ist Verantwortlicher; der Arbeitgeber erhält weder
+    Kommunikationsinhalte noch Einzelergebnisse, wohl aber aggregierte Berichte. Der Garante verlangt
+    Vorkehrungen ab der Entwurfsphase gegen auch nur mittelbaren Zugriff auf Informationen zur Gefühlslage
+    und stützt sich auf Datenschutzrecht, Statuto dei lavoratori und das Verbot der KI-Verordnung, Emotionen
+    im Arbeitskontext abzuleiten. Er warnt vor intransparenten, nicht erklärbaren und potenziell diskriminierenden
+    Ergebnissen semantischer Modelle.'
+  - 'verifiziert bleibt false und zweifelhaft ist gesetzt: Gelesen wurde nur die Pressemitteilung, nicht
+    das Provvedimento selbst. Der Volltext ist nicht veröffentlicht, der Adressat ist anonymisiert, und
+    eine Nummer im Registro dei provvedimenti ließ sich nicht ermitteln. Das Feld aktenzeichen bleibt
+    deshalb bei ''Nummer nicht veröffentlicht''.'
+  - Die Angaben zu den Anspruchsgrundlagen (Art. 58 Abs. 2 lit. a, Art. 5 und 25 DSGVO; Art. 5 Abs. 1
+    lit. f KI-VO; Art. 4 und 8 Statuto dei lavoratori) nennt die Mitteilung nicht als Fundstellen; sie
+    sind aus dem Sachverhalt erschlossen und bleiben unbelegt.
+  - 'Für die weitere Prüfung von Hand: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10255522
+    sowie die Rubrik ''Provvedimenti'' des Garante auf eine spätere Veröffentlichung des Volltextes hin
+    beobachten.'
+  zweifelhaft: true
+  quelle_art: amtlich
+  sachverhalt: Ein italienisches Start-up entwickelte ein KI-Plug-in für Slack und Microsoft Teams, das
+    die Chat-Kommunikation von Beschäftigten semantisch auswertet und daraus deren Grad psychischer Belastung
+    ermittelt. Die Teilnahme sollte freiwillig sein; Verantwortlicher der Verarbeitung war das Start-up
+    selbst, nicht der Arbeitgeber. Der Arbeitgeber sollte weder Kommunikationsinhalte noch Einzelergebnisse
+    erhalten, sondern nur aggregierte Belastungsberichte. Bevor der Dienst in Betrieb ging, befasste sich
+    der Garante per la protezione dei dati personali mit dem Vorhaben.
+  sachverhalt_quelle: eintrag
+- id: it-2026-garante-score-energia
+  jurisdiktion: it
+  gericht: Garante per la protezione dei dati personali
+  instanz: behoerde
+  aktenzeichen: Provvedimenti vom 21.07.2026 (Bekanntgabe; docweb 10273902)
+  ecli: null
+  datum: 2026-07-21
+  parteien:
+    klaeger: Garante per la protezione dei dati personali
+    beklagter: Hera Comm S.p.A.; EstEnergy S.p.A.; Cerved Group S.p.A.; Experian Italia S.p.A.
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - sektor-finanz
+  - grundrechte
+  - governance
+  anspruchsgrundlage: Art. 5, Art. 12 bis 15 DSGVO (Transparenz und Auskunft); Art. 22 DSGVO (automatisierte
+    Entscheidungen im Einzelfall)
+  kernfrage: Was schuldet ein Unternehmen dem Betroffenen, dem wegen eines automatisiert berechneten Zuverlässigkeitsscores
+    ein Vertrag verweigert wurde, an Auskunft über die Zustandekommenslogik dieses Scores?
+  ergebnis: 'Geldbußen zwischen 120.000 Euro und 5,8 Mio. Euro gegen vier Unternehmen sowie Anordnungen
+    zur Herstellung transparenter Verfahren und vollständiger Auskunft über den Score. Betroffene hatten
+    keine Energieversorgung erhalten, ohne über die Bewertungskriterien informiert zu werden; der Garante
+    stellte schwere Verstöße gegen die Transparenz- und Informationspflichten sowie gegen das Auskunftsrecht
+    fest.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10273902
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: garanteprivacy.it — amtliche Mitteilung docweb 10273902, abgerufen
+  verifiziert: false
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die italienische Parallele zur deutschen SCHUFA-Linie, und sie fällt strenger aus.
+    Der Gerichtshof hat in Dun & Bradstreet (C-203/22) entschieden, dass der Verantwortliche das Verfahren
+    so erläutern muss, dass der Betroffene erkennt, wie eine Änderung seiner Daten das Ergebnis verändert
+    hätte. Der Garante zieht daraus für den Energiemarkt die Konsequenz und sanktioniert nicht nur den
+    Scoring-Anbieter, sondern auch die Versorger, die den Score verwenden — beide Seiten der SCHUFA-Konstellation
+    zugleich. Das ist die konsequente Umsetzung der Zurechnungsfigur aus C-634/21 und der praktisch wichtigste
+    Hinweis für Unternehmen, die Bonitätsscores einkaufen: Der Einkauf befreit nicht von der Erläuterungspflicht.
+
+    '
+  pruefvermerk:
+  - Die einzelnen Provvedimenti sind unter der abgerufenen Adresse nicht im Volltext hinterlegt; Adressaten,
+    Bußgeldrahmen und Anordnungen sind der amtlichen Mitteilung des Garante entnommen. Nummern und genaue
+    Beträge je Adressat nicht ermittelbar.
+  quelle_art: fehlt
+- id: it-2019-cds-2270-buonascuola
+  jurisdiktion: it
+  gericht: Consiglio di Stato, Sezione VI
+  instanz: berufung
+  aktenzeichen: Sentenza n. 2270/2019, pubblicata l'8 aprile 2019 (N. 02270/2019 REG.PROV.COLL.; ricorso
+    N. 04477/2017 REG.RIC.)
+  ecli: ECLI:IT:CDS:2019:2270SENT
+  datum: 2019-04-08
+  parteien:
+    klaeger: Mariateresa Altomare und 17 weitere Lehrkräfte (appellanti; Rechtsanwalt Michele Ursini)
+    beklagter: Ministero dell'Istruzione, dell'Università e della Ricerca, Ufficio Scolastico Regione
+      Puglia — Ambito Territoriale per la Provincia di Bari
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  anspruchsgrundlage: Art. 3 Legge 241/1990 (Begründungspflicht); Art. 97 Verfassung (Grundsatz der guten
+    Verwaltung); Legge 107/2015 ('buona scuola')
+  kernfrage: Darf eine Verwaltungsentscheidung über die Versetzung von Lehrkräften durch einen Algorithmus
+    getroffen werden, und welche Anforderungen an Nachvollziehbarkeit und Begründung gelten dann?
+  ergebnis: 'Der Einsatz eines Algorithmus im Massenverfahren ist zulässig und im Grundsatz sogar begrüßenswert,
+    weil er Neutralität und Effizienz fördert; er entbindet die Verwaltung aber nicht von den Regeln des
+    Verwaltungsverfahrens. Der Algorithmus muss als Verwaltungsakt behandelt werden: Er ist ein zugängliches
+    Dokument, seine Regeln müssen für die Betroffenen erkennbar sein (conoscibilità), und die Entscheidung
+    bleibt der Verwaltung zuzurechnen, die für ihre Rechtmäßigkeit einsteht. Im entschiedenen Fall war
+    der Algorithmus weder offengelegt noch nachvollziehbar; die Versetzungsentscheidungen wurden deshalb
+    aufgehoben.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://mdp.giustizia-amministrativa.it/visualizza/?nodeRef=&schema=cds&nrg=201704477&nomeFile=201902270_11.html&subDir=Provvedimenti
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - it-legge-241-1990
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: Amtlicher Volltext auf mdp.giustizia-amministrativa.it, gefunden über Decisioni e pareri
+    (giustizia-amministrativa.it/web/guest/dcsnprr)
+  verifiziert: true
+  letzte_pruefung: &id001 2026-09-05
+  eigene_bewertung: 'Der Ausgangspunkt der gefestigten italienischen Linie, und der europäisch früheste
+    Versuch, den Algorithmus verwaltungsrechtlich einzuordnen: nicht als Werkzeug, sondern als Bestandteil
+    des Verwaltungsakts. Das ist dogmatisch mutiger als die deutsche Diskussion um § 35a VwVfG, die den
+    Algorithmus als bloßes internes Hilfsmittel behandelt. Die praktische Folge ist weitreichend — wenn
+    der Algorithmus Teil des Verwaltungsakts ist, unterliegt er der Akteneinsicht und der Begründungspflicht.
+
+    '
+  pruefvermerk:
+  - 'Am amtlichen Volltext geprüft (05.09.2026): Consiglio di Stato in sede giurisdizionale (Sezione Sesta),
+    SENTENZA, ''Pubblicato il 08/04/2019'', N. 02270/2019 REG.PROV.COLL. Nummer, Datum und Sezione des
+    Eintrags sind damit bestätigt; der frühere Vermerk ''NICHT VERIFIZIERT'' ist erledigt.'
+  - 'Parteien berichtigt: Berufungsführer waren die achtzehn Lehrkräfte (Mariateresa Altomare u. a.),
+    Berufungsgegner das MIUR / Ufficio Scolastico Regione Puglia, Ambito Territoriale Bari. Der Eintrag
+    hatte die Rollen vertauscht.'
+  - 'Gegenstand am Text bestätigt: Zuweisung von Dienstorten an Lehrkräfte, Berufung gegen T.A.R. Lazio,
+    Sede di Roma, n. 12026/2016; öffentliche Sitzung 06.12.2018, Berichterstatter Cons. Giordano Lamberti;
+    Senat unter Präsident Luigi Carbone.'
+  - 'Tenor am Text: ''accoglie l''appello e, per l''effetto, in riforma della sentenza impugnata, accoglie
+    il ricorso di primo grado''; Kostenerstattung beider Instanzen von insgesamt 6.000 Euro zulasten der
+    Verwaltung. Das Gericht rügt die Zuweisung ''al di là di automatismi informatici'' und verlangt Zuweisungen
+    nach Rangfolge und Präferenzen.'
+  - 'ECLI ergänzt: ECLI:IT:CDS:2019:2270SENT (aus der amtlichen Trefferliste).'
+  - 'instanzenzug geleert: it-2019-cds-8472-buonascuola ist ein anderes Verfahren (dort ricorso N. 02936/2019
+    gegen T.A.R. Lazio Sez. III n. 9230/2018, hier ricorso N. 04477/2017 gegen T.A.R. Lazio n. 12026/2016).
+    Beide gehören zur selben Rechtsprechungslinie, nicht zum selben Instanzenzug.'
+  - 'Nicht gegengeprüft: die im Ergebnisfeld referierten Begründungsstränge im Einzelnen sowie die Angabe
+    der Anspruchsgrundlagen (Art. 3 Legge 241/1990, Art. 97 Cost., Legge 107/2015).'
+  zweifelhaft: false
+  quelle_art: amtlich
+  sachverhalt: Nach der Schulreform „buona scuola" (Legge 107/2015) wies das Bildungsministerium Lehrkräfte
+    im Massenverfahren neuen Dienstorten zu; die Zuweisung besorgte ein Computerprogramm. Achtzehn Lehrkräfte
+    um Mariateresa Altomare beanstandeten, sie seien ohne Rücksicht auf Rangfolge und angegebene Präferenzen
+    zugewiesen worden, und die Verwaltung habe ihnen nicht mitgeteilt, wie das Programm zu diesem Ergebnis
+    gekommen sei. Sie klagten gegen das Ministero dell'Istruzione, dell'Università e della Ricerca und
+    den Ufficio Scolastico der Region Apulien, Ambito Territoriale Bari. Das T.A.R. Lazio in Rom wies
+    die Klage mit Urteil Nr. 12026/2016 ab; dagegen legten sie Berufung zum Consiglio di Stato ein.
+  sachverhalt_quelle: eintrag
+- id: it-2019-cds-8472-buonascuola
+  jurisdiktion: it
+  gericht: Consiglio di Stato, Sezione VI
+  instanz: berufung
+  aktenzeichen: Sentenza n. 8472/2019, pubblicata il 13 dicembre 2019 (N. 08472/2019 REG.PROV.COLL.; ricorso
+    N. 02936/2019 REG.RIC.)
+  ecli: ECLI:IT:CDS:2019:8472SENT
+  datum: 2019-12-13
+  parteien:
+    klaeger: Ministero dell'Istruzione, dell'Università e della Ricerca, Ufficio Scolastico Regionale
+      per la Calabria (appellante)
+    beklagter: Pasqualina Caiazza und weitere Lehrkräfte (appellati; Rechtsanwälte Michele Speranza und
+      Michele Ursini)
+  status: rechtskraeftig
+  themenachsen:
+  - sektor-oeffentlich
+  - governance
+  - grundrechte
+  anspruchsgrundlage: Art. 3 Legge 241/1990; Art. 97 Verfassung; Art. 22 DSGVO; Erwägungsgründe 71 DSGVO
+  kernfrage: Welche allgemeinen Grundsätze gelten für die algorithmische Entscheidung im Verwaltungsverfahren?
+  ergebnis: 'Der Senat formuliert die drei Grundsätze, die seither die italienische Linie tragen: conoscibilità
+    (der Algorithmus muss in allen seinen Bestandteilen erkennbar und verständlich sein, auch für den
+    Richter), non esclusività della decisione algoritmica (es muss ein Mensch im Verfahren geben, der
+    die Entscheidung kontrolliert, validiert oder verwirft — "human in the loop"), und non discriminazione
+    algoritmica (die Verwaltung muss zuverlässige Systeme verwenden, Verzerrungen minimieren und regelmäßig
+    überprüfen). Der Consiglio di Stato leitet die Grundsätze ausdrücklich aus Art. 22 DSGVO und aus dem
+    nationalen Verwaltungsverfahrensrecht her. Bestätigt und fortgeführt durch Sez. VI, sentenza n. 881
+    vom 04.02.2020.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://mdp.giustizia-amministrativa.it/visualizza/?nodeRef=&schema=cds&nrg=201902936&nomeFile=201908472_11.html&subDir=Provvedimenti
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - it-legge-241-1990
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: Amtlicher Volltext auf mdp.giustizia-amministrativa.it, gefunden über Decisioni e pareri
+    (giustizia-amministrativa.it/web/guest/dcsnprr)
+  verifiziert: true
+  letzte_pruefung: *id001
+  eigene_bewertung: 'Die drei Grundsätze sind die einflussreichste verwaltungsrechtliche Formel zur algorithmischen
+    Entscheidung in Europa und ein halbes Jahrzehnt älter als die KI-Verordnung, deren Art. 13 (Transparenz),
+    Art. 14 (menschliche Aufsicht) und Art. 10 (Datenqualität und Verzerrungen) dieselben drei Achsen
+    abbilden. Wer behauptet, die KI-VO habe Neuland betreten, sollte diese Entscheidung lesen. Ihre Schwäche
+    ist die Reichweite: Sie ist zu regelbasierten Systemen ergangen. Die conoscibilità eines neuronalen
+    Netzes ist nicht dasselbe wie die Lesbarkeit einer Zuteilungsformel, und die italienische Rechtsprechung
+    hat, soweit hier feststellbar, dazu noch nichts entschieden. Genau hier liegt die größte Lücke dieser
+    Datei (siehe meta.offene_recherchepunkte).
+
+    '
+  pruefvermerk:
+  - 'Am amtlichen Volltext geprüft (05.09.2026): Consiglio di Stato in sede giurisdizionale (Sezione Sesta),
+    SENTENZA, ''Pubblicato il 13/12/2019'', N. 08472/2019 REG.PROV.COLL., ricorso N. 02936/2019. Nummer,
+    Datum und Sezione sind bestätigt; der frühere Vermerk ''NICHT VERIFIZIERT'' ist erledigt.'
+  - 'Parteien am Text bestätigt: Berufungsführer ist das MIUR / Ufficio Scolastico Regionale per la Calabria,
+    Berufungsgegner sind die Lehrkräfte (Pasqualina Caiazza u. a.); angefochten war T.A.R. Lazio, Sezione
+    Terza, n. 9230/2018. Kammersitzung 05.12.2019, Präsident Giancarlo Montedoro, Berichterstattung im
+    Senat mit Vincenzo Lopilato und Paolo Carpentieri.'
+  - 'Tenor am Text: ''definitivamente pronunciando sull''appello, come in epigrafe proposto, lo respinge.
+    Spese compensate.'' Die Berufung des Ministeriums wurde also zurückgewiesen, die erstinstanzliche
+    Entscheidung bestätigt; Kosten gegeneinander aufgehoben.'
+  - 'Die drei Grundsätze sind wörtlich belegt: Rn. 15 leitet ''tre principi'' aus dem supranationalen
+    Recht her; 15.1 ''principio di conoscibilità'' (ergänzt um das ''principio di comprensibilità'' —
+    Recht auf ''informazioni significative sulla logica utilizzata'' —, gestützt auf Art. 42 GRCh, Recht
+    auf gute Verwaltung); 15.2 ''principio di non esclusività della decisione algoritmica'' (Art. 22 DSGVO,
+    ausdrücklich ''human in the loop'', mit Verweis auf Loomis v. Wisconsin); 15.3 ''principio di non
+    discriminazione algoritmica'' (Erwägungsgrund 71 der Verordnung 679/2016). Der bisherige Vorbehalt,
+    der Wortlaut sei nur sinngemäß wiedergegeben, ist damit ausgeräumt.'
+  - 'ECLI ergänzt: ECLI:IT:CDS:2019:8472SENT (aus der amtlichen Trefferliste).'
+  - 'NICHT geprüft: die im Aktenzeichenfeld früher mitgeführten Parallelentscheidungen nn. 8473 und 8474/2019
+    sowie die Fortführung durch Sez. VI n. 881/2020. Diese Nummern stammen weiter aus Modellwissen und
+    sind einzeln zu belegen.'
+  - 'instanzenzug geleert: it-2019-cds-2270-buonascuola ist ein anderes Verfahren (dortiger ricorso N.
+    04477/2017 gegen T.A.R. Lazio n. 12026/2016).'
+  zweifelhaft: false
+  quelle_art: amtlich
+  sachverhalt: Auch in Kalabrien wurden Lehrkräfte im Rahmen der Schulreform „buona scuola" durch ein
+    Computerprogramm neuen Dienstorten zugewiesen. Pasqualina Caiazza und weitere Betroffene beanstandeten,
+    weder die Regeln des Programms noch die Gründe ihrer konkreten Zuweisung seien ihnen zugänglich gemacht
+    worden, und klagten gegen das Ministero dell'Istruzione, dell'Università e della Ricerca und den Ufficio
+    Scolastico Regionale per la Calabria. Das T.A.R. Lazio gab ihnen mit Urteil der Sezione Terza Nr.
+    9230/2018 recht. Dagegen legte das Ministerium Berufung zum Consiglio di Stato ein, über die die Sezione
+    Sesta am 5. Dezember 2019 verhandelte.
+  sachverhalt_quelle: eintrag
+- id: it-2021-cass-mevaluate
+  jurisdiktion: it
+  gericht: Corte suprema di cassazione, Sezione I civile
+  instanz: revision
+  aktenzeichen: Ordinanza n. 14381 del 25 maggio 2021 (camera di consiglio della prima sezione civile
+    del 24 marzo 2021)
+  ecli: null
+  datum: 2021-05-25
+  parteien:
+    klaeger: Garante per la protezione dei dati personali (ricorrente)
+    beklagter: Associazione Mevaluate Onlus (controricorrente)
+  status: rechtskraeftig
+  themenachsen:
+  - datenschutz
+  - governance
+  - grundrechte
+  - arbeit
+  anspruchsgrundlage: Art. 7 und 23 des seinerzeitigen Codice privacy (d.lgs. 196/2003); Grundsatz der
+    informierten Einwilligung
+  kernfrage: Ist die Einwilligung in die Verarbeitung personenbezogener Daten durch ein algorithmisches
+    Reputationsbewertungssystem wirksam, wenn das Ausführungsschema des Algorithmus dem Betroffenen nicht
+    bekannt ist?
+  ergebnis: 'Nein. Die Einwilligung ist nur wirksam, wenn dem Betroffenen das "schema esecutivo" des Algorithmus
+    und die für die Bewertung verwendeten Elemente bekannt sind. Ohne Kenntnis der Funktionsweise fehlt
+    es an der Bestimmtheit und damit an der Wirksamkeit der Einwilligung. Die Corte di cassazione gibt
+    den ersten vier Rügen des Garante statt, erklärt die übrigen für absorbiert, hebt das Urteil des Tribunale
+    di Roma auf und verweist die Sache an dieses Gericht zurück, auch zur Kostenentscheidung. Sie entscheidet
+    also nicht selbst in der Sache und stellt die Untersagung des Garante nicht unmittelbar wieder her.
+
+    '
+  bedeutung: hoch
+  volltext_url: null
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: Volltext der Ordinanza auf misterlex.it; Eckdaten zusätzlich bei dirittodeiservizipubblici.it
+    und laleggepertutti.it
+  verifiziert: true
+  letzte_pruefung: *id002
+  eigene_bewertung: 'Die früheste höchstrichterliche Entscheidung Europas, die Algorithmentransparenz
+    zur Wirksamkeitsvoraussetzung der Einwilligung macht — und damit an einer Stelle ansetzt, die die
+    spätere Debatte fast vollständig übersehen hat. Die Diskussion um Art. 15 Abs. 1 lit. h DSGVO fragt,
+    was der Verantwortliche im Nachhinein erklären muss; die Cassazione fragt, ob die Einwilligung überhaupt
+    zustande gekommen ist. Das ist der schärfere Hebel: Eine unwirksame Einwilligung lässt die gesamte
+    Verarbeitung entfallen, während ein verletztes Auskunftsrecht sie unberührt lässt. Für generative
+    Systeme, deren Training auf Einwilligung gestützt werden soll, ist das die unbequemste Entscheidung
+    im europäischen Bestand — denn ein "schema esecutivo" eines Sprachmodells lässt sich nicht mitteilen.
+
+    '
+  pruefvermerk:
+  - 'Am Volltext der Ordinanza geprüft (05.09.2026): ''Corte di Cassazione, sez. I Civile, Ordinanza n.
+    14381 del 25/05/2021''. Nummer, Datum, Sezione und Entscheidungsform sind damit bestätigt; der frühere
+    Vermerk ''NICHT VERIFIZIERT'' ist erledigt. Beratung in der camera di consiglio der ersten Zivilsektion
+    am 24.03.2021, Berichterstatter Cons. Terrusi.'
+  - 'Die Parteien stehen entgegen der Annahme im Auftrag unpseudonymisiert im Text, weil es sich um juristische
+    Personen handelt: ricorrente ''Garante per la Protezione dei Dati Personali'', controricorrente ''Associazione
+    Mevaluate Onlus''. Beide Parteifelder sind entsprechend präzisiert.'
+  - 'Ergebnisfeld berichtigt: Der Tenor lautet ''La Corte accoglie i primi quattro motivi di ricorso,
+    assorbiti gli altri, cassa l''impugnata sentenza e rinvia al tribunale di Roma anche per le spese
+    del giudizio di legittimità''. Die Corte verweist zurück; sie stellt die Untersagung des Garante nicht
+    selbst wieder her, wie der Eintrag bisher behauptete.'
+  - 'Der tragende Satz steht im Text: bei einer Plattform zur Erstellung von Reputationsprofilen auf der
+    Grundlage eines Punktwertalgorithmus ist das Bewusstseinserfordernis der Einwilligung nicht erfüllt,
+    wenn ''lo schema esecutivo dell''algoritmo e gli elementi di cui si compone restino ignoti o non conoscibili
+    da parte degli interessati''.'
+  - Der amtliche Volltextdienst der Corte di cassazione (italgiure.giustizia.it/sncass, SentenzeWeb) ist
+    erreichbar und funktioniert — die Kontrollsuche '36754/2021' liefert das zugehörige Dokument —, gibt
+    für '14381/2021' aber 'la ricerca impostata non ha selezionato nessun documento' aus. Die Ordinanza
+    ist dort also nicht abrufbar; deshalb quelle_art 'datenbank' statt 'amtlich'.
+  - 'Für den amtlichen Beleg von Hand: https://www.italgiure.giustizia.it/sncass/ , Feld ''Parole o Numero/Anno
+    sentenza'' = 14381/2021 (Stand 05.09.2026 ohne Treffer); ersatzweise über den Massimario-Zugang der
+    Corte oder eine kostenpflichtige Datenbank.'
+  zweifelhaft: false
+  sekundaerquelle_url: https://www.misterlex.it/cassazione-civile/2021/14381/
+  quelle_art: fehlt
+- id: it-2023-cass-opera-generata
+  jurisdiktion: it
+  gericht: Corte suprema di cassazione, Sezione I civile
+  instanz: revision
+  aktenzeichen: Ordinanza n. 1107 del 16 gennaio 2023
+  ecli: null
+  datum: 2023-01-16
+  parteien:
+    klaeger: Urheberin des digitalen Bildwerks
+    beklagter: RAI — Radiotelevisione Italiana S.p.A.
+  status: rechtskraeftig
+  themenachsen:
+  - urheberrecht
+  - content
+  anspruchsgrundlage: Art. 1 und 2 Legge 633/1941 (Legge sul diritto d'autore); Art. 6 LdA
+  kernfrage: Schließt der Umstand, dass ein Bild mit Hilfe von Software erzeugt wurde, seine Schutzfähigkeit
+    als Werk aus, und wer trägt insoweit die Darlegungslast?
+  ergebnis: 'Der Einsatz von Software schließt die Schutzfähigkeit nicht von vornherein aus. Entscheidend
+    ist der Grad, in dem das Werkzeug die schöpferische Leistung ersetzt hat; das Berufungsgericht hätte
+    prüfen müssen, in welchem Umfang die Software den kreativen Beitrag der Urheberin absorbiert hat,
+    statt die Schöpfungshöhe pauschal zu bejahen oder zu verneinen. Die Sache wurde zurückverwiesen. Hintergrund
+    war die Verwendung eines digital erzeugten Blumenbildes in der Bühnengestaltung des Sanremo-Festivals.
+
+    '
+  bedeutung: mittel
+  volltext_url: null
+  zusammenfassung_url: ''
+  bezug_regelwerke:
+  - it-legge-633-1941
+  - dsm-rl-2019-790
+  instanzenzug: []
+  quelle_tracker: Eigenes Fachwissen; in dieser Sitzung NICHT am amtlichen Text gegengeprüft
+  verifiziert: false
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die Entscheidung wird häufig als "KI-Urheberrechtsurteil" zitiert, was sie nicht
+    ist: Es ging um ein fraktal erzeugtes Bild, nicht um generative KI. Interessant ist sie trotzdem,
+    weil die Cassazione die Frage richtig stellt — nicht "hat eine Maschine mitgewirkt", sondern "in welchem
+    Umfang hat das Werkzeug die schöpferische Leistung absorbiert". Das ist derselbe Maßstab, den das
+    US Copyright Office 2025 mit dem Kriterium der "human contribution" formuliert hat, nur vier Jahre
+    früher und ohne den Umweg über eine Registrierungspraxis.
+
+    '
+  pruefvermerk:
+  - NICHT VERIFIZIERT — italgiure.giustizia.it nicht erreichbar. Nummer, Datum, Sezione und Parteibezeichnung
+    sind mit Vorbehalt zu behandeln; insbesondere die Parteibezeichnung ist unsicher. Der Eintrag ist
+    aufgenommen, weil er die einzige mir bekannte höchstrichterliche italienische Aussage zur Schutzfähigkeit
+    softwaregenerierter Bilder ist, und ist vor einer Veröffentlichung zwingend nachzuverifizieren.
+  quelle_art: fehlt
+- id: gr-2022-apdpx-clearview
+  jurisdiktion: gr
+  gericht: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Ολομέλεια)
+  instanz: behoerde
+  aktenzeichen: Απόφαση 35/2022, Αριθ. Πρωτ. 1809
+  ecli: null
+  datum: 2022-07-13
+  parteien:
+    klaeger: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (auf Beschwerde von Homo Digitalis u.a.)
+    beklagter: Clearview AI, Inc.
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sicherheit-export
+  - governance
+  anspruchsgrundlage: Art. 5 Abs. 1 lit. a, Art. 6, Art. 9, Art. 12, Art. 14, Art. 15, Art. 27 DSGVO;
+    ν. 4624/2019
+  kernfrage: Unterliegt ein außerhalb der EU ansässiges Unternehmen, das Gesichtsbilder aus dem offenen
+    Internet ohne Kenntnis der Betroffenen sammelt und biometrisch auswertet, der DSGVO, und mit welchen
+    Folgen?
+  ergebnis: 'Geldbuße von 20 Mio. Euro. Festgestellt wurden Verstöße gegen die Grundsätze der Rechtmäßigkeit,
+    der Verarbeitung nach Treu und Glauben und der Transparenz (Art. 5 Abs. 1 lit. a), das Fehlen jeder
+    Rechtsgrundlage (Art. 6), die unzulässige Verarbeitung biometrischer Daten (Art. 9), Verletzungen
+    der Informations- und Auskunftspflichten (Art. 12, 14, 15) sowie das Fehlen eines Vertreters in der
+    Union (Art. 27). Angeordnet wurden die Erfüllung des Auskunftsverlangens des Beschwerdeführers, das
+    Verbot, Daten von Personen in Griechenland mit Gesichtserkennung zu erheben und zu verarbeiten, und
+    die Löschung der bereits vorhandenen Daten. Der Beschluss der Ολομέλεια datiert vom 19.04.2022, die
+    Entscheidung vom 13.07.2022; Vorsitz: Κωνσταντίνος Μενουδάκος.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.dpa.gr/sites/default/files/2022-07/35_2022%20anonym_0.pdf
+  zusammenfassung_url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-stin-etaireia-clearview-ai-inc
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - gr-n-4624-2019
+  instanzenzug: []
+  quelle_tracker: dpa.gr — Entscheidungsseite und amtliches PDF (35_2022 anonym_0.pdf), beide abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Eine von vier parallelen europäischen Höchstbußen gegen Clearview (Frankreich, Italien,
+    Griechenland, Vereinigtes Königreich) und zugleich die am schlechtesten dokumentierte: Die französische
+    Entscheidung ist auf cnil.fr inzwischen gelöscht, die griechische liegt weiter im amtlichen PDF vor.
+    Für die Rechtsdokumentation ist das der eigentliche Befund — die Aufbewahrungspraxis der Aufsichtsbehörden
+    bestimmt, welche Präzedenzfälle in zehn Jahren noch nachweisbar sind. Materiell ist die Entscheidung
+    die klarste europäische Aussage dazu, dass Scraping aus dem offenen Internet keine Rechtsgrundlage
+    schafft — ein Satz, der für das Training generativer Modelle dieselbe Sprengkraft hat und dort bisher
+    weder von einer Behörde noch von einem Gericht in dieser Deutlichkeit ausgesprochen wurde.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: Clearview AI, Inc. sammelte Gesichtsbilder aus dem offenen Internet und wertete sie biometrisch
+    aus, um daraus eine Suchdatenbank für Sicherheitsbehörden aufzubauen; die abgebildeten Personen erfuhren
+    davon nichts. Das Unternehmen hat weder eine Niederlassung noch einen Vertreter in der Union. Die
+    griechische Bürgerrechtsorganisation Homo Digitalis und weitere Beschwerdeführer wandten sich an die
+    Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα; einer von ihnen hatte bei Clearview zuvor Auskunft
+    über die zu seiner Person gespeicherten Daten verlangt und keine erhalten. Das Plenum (Ολομέλεια)
+    der Behörde unter Vorsitz von Κωνσταντίνος Μενουδάκος befasste sich am 19. April 2022 mit der Sache.
+  sachverhalt_quelle: eintrag
+- id: gr-2024-apdpx-kentauros-yperion
+  jurisdiktion: gr
+  gericht: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Ολομέλεια)
+  instanz: behoerde
+  aktenzeichen: Απόφαση 13/2024, Αριθ. Πρωτ. 1037
+  ecli: null
+  datum: 2024-04-02
+  parteien:
+    klaeger: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Untersuchung von Amts wegen)
+    beklagter: Υπουργείο Μετανάστευσης και Ασύλου (Ministerium für Migration und Asyl)
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Art. 6 Abs. 1 lit. e, Art. 9 Abs. 2 lit. g, Art. 13, Art. 14, Art. 24, Art. 25 Abs.
+    1, Art. 30, Art. 31, Art. 35 DSGVO; Art. 66 ν. 4624/2019
+  kernfrage: Welche datenschutzrechtlichen Anforderungen gelten für ein integriertes Überwachungssystem
+    in Aufnahme- und Unterbringungseinrichtungen für Drittstaatsangehörige, das Videoanalyse und biometrische
+    Zugangskontrolle verbindet?
+  ergebnis: 'Feststellung mehrerer Verstöße und Verhängung einer Verwaltungsgeldbuße gegen das Ministerium
+    sowie Anordnung, binnen drei Monaten die Pflichten aus der DSGVO zu erfüllen. Beanstandet wurden insbesondere
+    die unzureichende Zusammenarbeit mit der Behörde (Art. 31 DSGVO, Art. 66 ν. 4624/2019), erhebliche
+    Mängel der Datenschutz-Folgenabschätzungen (Art. 35), Verstöße gegen die Informationspflichten (Art.
+    13, 14) sowie Defizite bei Rechenschaftspflicht, Datenschutz durch Technikgestaltung und Verfahrensverzeichnis
+    (Art. 24, 25 Abs. 1, 30). Κένταυρος ist ein "ολοκληρωμένο ψηφιακό σύστημα διαχείρισης ηλεκτρονικής
+    και φυσικής ασφάλειας"; Υπερίων ein System der Zugangs- und Abgangskontrolle mit biometrischer Fingerabdruckerfassung.
+    Speicherdauer bei Κένταυρος 15 Tage.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.dpa.gr/sites/default/files/2024-04/13_2024%20anonym.pdf
+  zusammenfassung_url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/aytepaggelti-ereyna-gia-tin-anaptyxi-kai-egkatastasi-ton-programmaton
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - gr-n-4624-2019
+  instanzenzug: []
+  quelle_tracker: dpa.gr — Entscheidungsseite und amtliches PDF (13_2024 anonym.pdf), beide abgerufen;
+    Berichterstatter Σπυρίδων Βλαχόπουλος und Χρήστος Καλλονιάτης, Vorsitz Κωνσταντίνος Μενουδάκος
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die einzige europäische Aufsichtsentscheidung, die ein KI-gestütztes Grenz- und Lagerüberwachungssystem
+    zum Gegenstand hat — und sie fällt milder aus, als die politische Debatte erwarten ließ. Die Behörde
+    beanstandet vor allem Verfahrenspflichten: fehlende und verspätete Folgenabschätzungen, unzureichende
+    Information, mangelnde Kooperation. Zur eigentlich brisanten Frage, ob eine Videoanalyse in einer
+    Einrichtung, die Menschen faktisch nicht verlassen können, überhaupt auf Art. 6 Abs. 1 lit. e DSGVO
+    gestützt werden kann, verhält sie sich zurückhaltend. Das ist der wiederkehrende Befund dieser Datei:
+    Wo Datenschutzbehörden KI im Sicherheitsbereich prüfen, sanktionieren sie Verfahrensfehler und lassen
+    die Grundfrage offen. Die griechische Entscheidung ist dafür das reinste Beispiel — die Systeme laufen
+    weiter, nur mit besserer Dokumentation.
+
+    '
+  pruefvermerk:
+  - 'Die HÖHE der Geldbuße konnte nicht ermittelt werden: Das amtliche PDF ist so umfangreich, dass der
+    Abruf mitten in Ziffer 6 der Gründe abbricht und das διατακτικό nicht erreicht wird; die amtliche
+    Zusammenfassung bestätigt die Verhängung eines Bußgeldes, nennt aber keinen Betrag. Alle übrigen Angaben
+    sind am amtlichen Text verifiziert.'
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: 'Das griechische Ministerium für Migration und Asyl (Υπουργείο Μετανάστευσης και Ασύλου)
+    richtete in den Aufnahme- und Unterbringungseinrichtungen für Drittstaatsangehörige zwei Systeme ein:
+    «Κένταυρος», ein integriertes digitales System zur Verwaltung der elektronischen und physischen Sicherheit
+    mit Videoanalyse und einer Speicherdauer von fünfzehn Tagen, und «Υπερίων», ein System der Zugangs-
+    und Abgangskontrolle mit biometrischer Fingerabdruckerfassung. Die Untergebrachten können die Einrichtungen
+    nicht frei verlassen. Die Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα leitete von Amts wegen eine
+    Untersuchung ein und verlangte vom Ministerium Auskünfte und Unterlagen, darunter die Datenschutz-Folgenabschätzungen.
+    Das Ministerium arbeitete dabei nur eingeschränkt mit.'
+  sachverhalt_quelle: eintrag
+- id: gr-2025-apdpx-smart-policing
+  jurisdiktion: gr
+  gericht: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Ολομέλεια)
+  instanz: behoerde
+  aktenzeichen: Απόφαση 45/2025, Αριθ. Πρωτ. Γ/ΕΙΣ/4648
+  ecli: null
+  datum: 2025-12-31
+  parteien:
+    klaeger: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+    beklagter: Ελληνική Αστυνομία (ΕΛ.ΑΣ.)
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  anspruchsgrundlage: Art. 45A und Art. 46 ν. 4624/2019 (Umsetzung der Richtlinie (EU) 2016/680); Art.
+    27 der Richtlinie (EU) 2016/680 (Datenschutz-Folgenabschätzung)
+  kernfrage: Besteht für ein polizeiliches System, das im Streifendienst über mobile Endgeräte Gesichtserkennung
+    und Fingerabdruckabgleich einsetzt, eine hinreichende gesetzliche Grundlage, und wann ist die Datenschutz-Folgenabschätzung
+    durchzuführen?
+  ergebnis: 'Verwarnung (προειδοποίηση) gegen die Inbetriebnahme des Systems «Έξυπνη Αστυνόμευση». Die
+    Behörde stellt fest, dass für die beabsichtigte Verarbeitung über dieses System keine Rechtsgrundlage
+    besteht — die einschlägigen Vorschriften der Art. 45A und 46 ν. 4624/2019 sind nicht erfüllt, herangezogen
+    wurden lediglich veraltete Regelungen (ΠΔ 342/1977) — und dass die erforderliche Datenschutz-Folgenabschätzung
+    in der Pilotphase nicht durchgeführt wurde. Ein produktiver Einsatz ohne Rechtsgrundlage wäre eine
+    rechtswidrige Verarbeitung. Gegenstand des Systems sind der Bildabgleich mittels Gesichtserkennungssoftware
+    und die Fingerabdruckerfassung über Lesegeräte an Smartphones (Samsung S10e) der Streifenbeamten.
+
+    '
+  bedeutung: hoch
+  volltext_url: https://www.dpa.gr/sites/default/files/2026-01/45_2025%20anonym.pdf
+  zusammenfassung_url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/exetasi-tis-symbasis-promitheias-leitoyrgias-kai-hrisis-toy-systimatos
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  - gr-n-4624-2019
+  - rl-2016-680
+  instanzenzug: []
+  quelle_tracker: dpa.gr — Entscheidungsseite und amtliches PDF (45_2025 anonym.pdf), beide abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Der wichtigste Fund dieser Sitzung für Griechenland und der strukturell interessanteste
+    Parallelfall zur französischen Nizza-Entscheidung: Zwei Aufsichtsinstanzen in zwei Rechtsordnungen
+    kommen 2025/2026 unabhängig voneinander zu demselben Ergebnis — algorithmische Gesichtserkennung im
+    öffentlichen Raum braucht eine ausdrückliche gesetzliche Ermächtigung, und das Schweigen des Gesetzes
+    ist keine Erlaubnis. In Frankreich sagt es das oberste Verwaltungsgericht, in Griechenland die Datenschutzbehörde.
+    Die Entscheidung ist zugleich ein Lehrstück über die Reihenfolge: Das System war beschafft, vertraglich
+    gebunden und in der Pilotphase, bevor die Rechtsgrundlage geprüft wurde. Die Aufsichtsbehörde konnte
+    deshalb nur noch verwarnen. Art. 27 der Richtlinie (EU) 2016/680 und Art. 35 DSGVO verlangen die Folgenabschätzung
+    "vor" der Verarbeitung; in der Praxis der Sicherheitsbehörden ist sie regelmäßig das letzte Dokument,
+    nicht das erste.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich
+  sachverhalt: 'Die griechische Polizei (Ελληνική Αστυνομία) beschaffte das System «Έξυπνη Αστυνόμευση»
+    („Smart Policing"): Streifenbeamte sollten mit Smartphones vom Typ Samsung S10e und daran angeschlossenen
+    Lesegeräten im Einsatz Gesichtsbilder mit Gesichtserkennungssoftware abgleichen und Fingerabdrücke
+    erfassen. Der Beschaffungsvertrag war geschlossen, das System befand sich in der Pilotphase; eine
+    Datenschutz-Folgenabschätzung wurde in dieser Phase nicht durchgeführt. Als Rechtsgrundlage zog die
+    Polizei unter anderem das Präsidialdekret ΠΔ 342/1977 heran. Die Αρχή Προστασίας Δεδομένων Προσωπικού
+    Χαρακτήρα nahm den Vertrag über Beschaffung, Betrieb und Nutzung des Systems zum Gegenstand einer
+    Prüfung.'
+  sachverhalt_quelle: eintrag
+- id: gr-2025-apdpx-deepseek
+  jurisdiktion: gr
+  gericht: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Ολομέλεια)
+  instanz: behoerde
+  aktenzeichen: Απόφαση 18/2025, Αριθ. Πρωτ. 1773
+  ecli: null
+  datum: 2025-05-21
+  parteien:
+    klaeger: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+    beklagter: Hangzhou DeepSeek Artificial Intelligence Co., Ltd.
+  status: erledigt
+  themenachsen:
+  - datenschutz
+  - gpai
+  - marktzugang
+  - governance
+  anspruchsgrundlage: Art. 27 DSGVO; Art. 3 Abs. 2 lit. b DSGVO (räumlicher Anwendungsbereich); Anordnung
+    gestützt auf Art. 58 Abs. 2 lit. d DSGVO
+  kernfrage: Muss der außerhalb der Union ansässige Anbieter eines KI-Dienstes, der seine Leistungen europäischen
+    Nutzern anbietet, einen Vertreter in der Union benennen?
+  ergebnis: 'Ja. Die Behörde ordnet nach Art. 58 Abs. 2 lit. d DSGVO an, dass Hangzhou DeepSeek Artificial
+    Intelligence Co., Ltd. schriftlich einen Vertreter in der Union nach Art. 27 DSGVO benennt und die
+    Behörde hiervon unterrichtet. Das Unternehmen unterliege nach Art. 3 Abs. 2 lit. b DSGVO dem räumlichen
+    Anwendungsbereich der Verordnung, weil es KI-Dienste für in der Union befindliche betroffene Personen
+    erbringe, und sei der Pflicht aus Art. 27 DSGVO nicht nachgekommen. Vorsitz: Κωνσταντίνος Μενουδάκος.
+
+    '
+  bedeutung: mittel
+  volltext_url: https://www.dpa.gr/sites/default/files/2025-05/18_2025%20anonym.pdf
+  zusammenfassung_url: https://www.dpa.gr/el/enimerwtiko/prakseisArxis/entoli-orismoy-ekprosopoy-stin-etaireia-hangzhou-deepseek-artificial
+  bezug_regelwerke:
+  - dsgvo-schnittstelle
+  - ki-vo-2024-1689
+  instanzenzug: []
+  quelle_tracker: dpa.gr — Entscheidungsseite und amtliches PDF (18_2025 anonym.pdf), beide abgerufen
+  verifiziert: true
+  letzte_pruefung: 2026-09-04
+  eigene_bewertung: 'Die unspektakulärste und zugleich lehrreichste der drei europäischen DeepSeek-Reaktionen.
+    Italien hat die Verarbeitung gesperrt, Irland und andere haben Auskunft verlangt — Griechenland hat
+    schlicht die Vertreterbenennung nach Art. 27 DSGVO angeordnet. Das ist der niedrigschwelligste und
+    zugleich wirksamste Hebel gegenüber Anbietern ohne EU-Niederlassung: Er schafft eine Zustellanschrift
+    und beendet die Möglichkeit, sich auf fehlende Erreichbarkeit zu berufen. Nach der Aufhebung des italienischen
+    OpenAI-Bußgeldes durch das Tribunale di Roma — die genau an der Niederlassungsfrage hing — ist das
+    die aufsichtsrechtlich klügere erste Maßnahme.
+
+    '
+  sekundaerquelle_url: null
+  quelle_art: amtlich

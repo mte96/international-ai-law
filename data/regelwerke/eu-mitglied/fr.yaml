@@ -1,0 +1,2131 @@
+regelwerke:
+- id: fr-loi-2023-380
+  jurisdiktion: fr
+  kurztitel: Art. 10 loi JO 2024 — Experiment der algorithmischen Videoüberwachung (VSA)
+  offizieller_titel: LOI n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024
+    et portant diverses autres dispositions, article 10
+  fundstelle: JORF n° 0116 du 20 mai 2023, texte n° 4 (JORFTEXT000047561974)
+  verfahrensnummer: Projet de loi n° 220 (Sénat, 2022-2023); T.A. n° 106 (Assemblée nationale, 12.04.2023);
+    saisine n° 2023-850 DC
+  status: anwendbar
+  status_detail: 'In Kraft und anwendbar, aber in stark veränderter Gestalt. Die ursprüngliche Befristung
+    (31.03.2025) ist abgelaufen; zwischen dem 01.04.2025 und dem 19.08.2026 bestand keine Rechtsgrundlage
+    für neue Genehmigungen, weil der Conseil constitutionnel die erste Verlängerung am 24.04.2025 als
+    cavalier législatif zensiert hatte (Décision n° 2025-878 DC). Art. 19 der LOI n° 2026-798 du 18 août
+    2026 („RIPOST“) hat das Experiment reaktiviert, bis zum 31.12.2030 verlängert und den Anwendungsbereich
+    erweitert.
+
+    '
+  kurzbeschreibung: 'Art. 10 erlaubt versuchsweise, die von Videoüberwachungsanlagen und von Drohnen rechtmäßig
+    erhobenen Bilder durch algorithmische Verfahren in Echtzeit auszuwerten, um „événements prédéterminés“
+    zu erkennen, die auf Terrorismus oder auf schwere Gefahren für die Sicherheit von Personen hindeuten.
+    Adressaten sind die nationale Polizei und Gendarmerie, die Militärpolizei, die Feuerwehr- und Rettungsdienste,
+    die städtischen Polizeien sowie die Verkehrsunternehmen (SNCF, RATP) und ihre Sicherheitsdienste.
+    Die Verarbeitung ist nur nach Einzelgenehmigung des Präfekten zulässig, darf ausschließlich Hinweise
+    („signalements“) erzeugen und keine Entscheidung selbst treffen; biometrische Identifizierung, Gesichtserkennung
+    und der Abgleich mit anderen Dateien sind ausdrücklich untersagt. Eine eigene Sanktion enthält Art.
+    10 nicht; Verstöße unterliegen dem allgemeinen Datenschutzstrafrecht (Art. 226-16 ff. code pénal)
+    und den Befugnissen der CNIL.
+
+    '
+  inkrafttreten:
+    datum: 2023-05-20
+    verifiziert: true
+    quelle: https://www.senat.fr/dossiers-legislatifs/lois-promulguees-2023.html
+  anwendungsdaten:
+  - datum: 2023-08-29
+    was_gilt: 'Inkrafttreten des Décret n° 2023-828: erst ab jetzt sind Genehmigungen praktisch möglich,
+      weil die acht detektierbaren Ereignisse und die technischen Anforderungen feststehen.'
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048007147
+  - datum: 2025-03-31
+    was_gilt: Ablauf der ursprünglichen Befristung der Experimentierung.
+    verifiziert: true
+    quelle: https://www.vie-publique.fr/files/rapport/pdf/297322.pdf
+  - datum: 2026-08-19
+    was_gilt: Verlängerung bis 31.12.2030 und Ausweitung des Anwendungsbereichs durch die LOI n° 2026-798
+      (RIPOST).
+    verifiziert: true
+    quelle: https://www.assemblee-nationale.fr/dyn/17/amendements/2984/AN/907
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Systemstellung: Art. 10 ist eine POSITIVE ERLAUBNISNORM, keine Aufsichtsnorm. Er schafft die Rechtsgrundlage,
+    ohne die die algorithmische Auswertung von Bildern des öffentlichen Raums nach französischem Recht
+    unzulässig wäre — das hat der Conseil d''État am 30.01.2026 (n° 506370, Ville de Nice) ausdrücklich
+    bestätigt. Damit ist das französische Modell die Gegenfigur zu Art. 5 KI-VO: nicht Verbot mit Ausnahmen,
+    sondern Verbot durch Schweigen des Gesetzes mit einer befristeten, eng umgrenzten Erlaubnis.'
+  - 'Zweckbindung (Abs. I): nur Prävention terroristischer Handlungen und schwerer Gefahren für die Sicherheit
+    von Personen. Ereignisbezogen, nicht personenbezogen.'
+  - 'Genehmigungsvorbehalt: Genehmigung durch den Präfekten (in Paris: préfet de police) durch begründeten,
+    veröffentlichten arrêté; Geltungsdauer höchstens ein Monat, verlängerbar bei Fortbestehen der Voraussetzungen.'
+  - 'Réserve d''interprétation des Conseil constitutionnel (Décision n° 2023-850 DC, Rn. 39): die Genehmigung
+    MUSS unverzüglich beendet werden, sobald ihre Voraussetzungen entfallen; ein bloßes Ermessen zur Aussetzung
+    genügt nicht.'
+  - 'Absolutes Biometrieverbot: kein System biometrischer Identifizierung, keine Verarbeitung biometrischer
+    Daten, keine Gesichtserkennung, kein Abgleich mit anderen Verarbeitungen oder Dateien. Dieses Verbot
+    ist der Grund, warum das Regime nicht unter das Verbot des Art. 5 Abs. 1 lit. h KI-VO (biometrische
+    Fernidentifizierung in Echtzeit) fällt.'
+  - 'Verbot der automatisierten Einzelentscheidung: die Verarbeitung darf keine eigenständige Entscheidung
+    und keine Zwangsmaßnahme auslösen; sie erzeugt nur „signalements“, über die ein Mensch befindet.'
+  - 'Menschliche Aufsicht: ständige Überwachung durch eigens ermächtigte, geschulte und namentlich benannte
+    Bedienstete; die Beschäftigten der Verkehrsunternehmen dürfen nur unter Aufsicht handeln.'
+  - 'Transparenz: Information der Öffentlichkeit über den Einsatz, außer wenn dies dem Zweck zuwiderliefe;
+    die Genehmigungen des Präfekten sind zu veröffentlichen. Der Evaluierungsbericht rügt, dass die Veröffentlichung
+    teils verspätet erfolgte.'
+  - 'Rolle der CNIL: Anhörung vor Erlass des Durchführungsdekrets (Délibération n° 2023-068 vom 15.06.2023);
+    Datenschutz-Folgenabschätzung (AIPD) für jede Verarbeitung; Kontrollbefugnis. Die CNIL hat neun Kontrollen
+    durchgeführt — sechs während, drei nach den Spielen — und dabei die Einhaltung der gesetzlichen Anwendungsfälle
+    geprüft.'
+  - 'Evaluierung: gesetzlich vorgeschriebenes, pluridisziplinär besetztes comité d''évaluation (Zusammensetzung
+    und Arbeitsweise geregelt im Décret n° 2023-939 vom 11.10.2023); Bericht im Januar 2025 vorgelegt.'
+  - 'Ergebnis der Evaluierung: sehr uneinheitliche Erkennungsleistung — brauchbar bei Eindringen in Sperrzonen,
+    Bewegung entgegen der Fahrtrichtung und Personendichte; unsicher bei Menschenansammlungen, verlassenen
+    Gegenständen und Waffen; sehr unbefriedigend bei Brandausbruch und Person am Boden. Operativer Nutzen
+    während der Spiele „sehr begrenzt“, weil ohnehin sehr viele Kräfte vor Ort waren.'
+  - 'Anbieter: Wintics (Los Île-de-France und Verkehrsbetriebe), Videtics (Cannes, begrenzt), Chapsvision
+    (nicht praktisch eingesetzt) — der Markt ist also faktisch von einem einzigen Anbieter geprägt.'
+  dokumente:
+  - datum: 2023-05-19
+    typ: endfassung
+    titel: Article 10 — LOI n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de
+      2024 et portant diverses autres dispositions
+    url: https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047564439
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Kanonische Fundstelle des Normtextes. Légifrance beantwortet den automatisierten Abruf mit
+      HTTP 403; die Identität der Adresse (Titel „Article 10 - LOI n° 2023-380 …“) ist über die Trefferliste
+      der Websuche belegt, der Wortlaut wurde nicht selbst geöffnet.
+  - datum: 2023-05-17
+    typ: endfassung
+    titel: Décision n° 2023-850 DC du 17 mai 2023 — Loi relative aux jeux Olympiques et Paralympiques
+      de 2024 et portant diverses autres dispositions
+    url: https://www.conseil-constitutionnel.fr/decision/2023/2023850DC.htm
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: true
+    notiz: Die verfassungsrechtliche Legitimation des VSA-Regimes. Art. 10 ist konform unter dem Vorbehalt
+      der Rn. 39 (unverzügliche Beendigung der Genehmigung bei Wegfall der Voraussetzungen). Der Conseil
+      stützt sich tragend darauf, dass keine Gesichtserkennung und keine biometrische Identifizierung
+      stattfindet, dass die Verarbeitung nur meldet und nicht entscheidet und dass die Genehmigung befristet
+      und begründet ist. Zensiert wurde nur Art. 7 (Datenaustausch Dopingbekämpfung), aus Verfahrensgründen.
+  - datum: 2025-01-14
+    typ: bericht
+    titel: Expérimentation de traitements algorithmiques d'images légalement collectées au moyen de systèmes
+      de vidéoprotection — Rapport du comité d'évaluation
+    url: https://www.vie-publique.fr/files/rapport/pdf/297322.pdf
+    sprache: fr
+    urheber: Comité d'évaluation (eingesetzt nach Décret n° 2023-939)
+    verifiziert: true
+    notiz: 'Der gesetzlich vorgeschriebene Evaluierungsbericht. Kernaussage: das Dispositiv verletzt „weder
+      in seiner Konzeption noch in seiner Umsetzung die öffentlichen Freiheiten“, der operative Nutzen
+      war aber begrenzt und die Erkennungsleistung je nach Anwendungsfall sehr unterschiedlich. Der Bericht
+      ist die Tatsachengrundlage der gesamten Verlängerungsdebatte.'
+  - datum: 2025-02-19
+    typ: ausschussbericht
+    titel: 'Vidéoprotection algorithmique, sécurité privée : après les JOP, jouons les prolongations —
+      Rapport d''information n° 374 (2024-2025)'
+    url: https://www.senat.fr/rap/r24-374/r24-374-syn.pdf
+    sprache: fr
+    urheber: Sénat, commission des lois; Françoise Dumont et Marie-Pierre de La Gontrie, rapporteures
+    verifiziert: true
+    notiz: 'Der Senatsbericht, der die Verlängerung politisch vorbereitet hat. Proposition n° 1: verlängern
+      statt verstetigen. Er schlägt zugleich die später umgesetzte Ausweitung vor (Einsatz auch ohne Großveranstaltung
+      an sicherheitskritischen Orten, Erweiterung des Nutzerkreises, mehr Autonomie bei Technologiewahl)
+      und verlangt, das Evaluierungskomitee gesetzlich abzusichern. Unverrückbar bleiben nach dem Bericht
+      das Biometrieverbot, der Vorrang des Menschen und die Kontrolle durch die CNIL.'
+  - datum: 2025-02-19
+    typ: ausschussbericht
+    titel: Rapport d'information n° 374 (2024-2025), Kapitel zur Bilanz der VSA-Experimentierung
+    url: https://www.senat.fr/rap/r24-374/r24-3741.html
+    sprache: fr
+    urheber: Sénat, commission des lois
+    verifiziert: true
+    notiz: Selbst geöffnet. Quelle für die Angaben zu den präfektoralen Genehmigungen, zur verspäteten
+      Veröffentlichung der arrêtés, zu den neun Kontrollen der CNIL (sechs während, drei nach den Spielen)
+      und zur unterschiedlichen Erkennungsleistung.
+  - datum: 2026-01-30
+    typ: endfassung
+    titel: Conseil d'État, 10e et 9e chambres réunies, 30 janvier 2026, n° 506370, Commune de Nice c/
+      CNIL (ECLI:FR:CECHR:2026:506370.20260130)
+    url: https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-01-30/506370
+    sprache: fr
+    urheber: Conseil d'État
+    verifiziert: true
+    notiz: 'Der juristisch wichtigste Gegenbeweis: Art. L. 251-2 code de la sécurité intérieure erlaubt
+      zwar die Videoüberwachung des öffentlichen Raums, „ne saurait être interprété comme autorisant la
+      mise en œuvre de traitements algorithmiques“; eine andere Rechtsgrundlage gibt es nicht. Die Klage
+      der Stadt Nizza gegen die ablehnende Haltung der CNIL zum Algorithmus „Zone d''intrusion entrées
+      des écoles“ wird abgewiesen. Ohne Art. 10 loi 2023-380 ist VSA in Frankreich also schlicht verboten.'
+  offene_punkte:
+  - Der Wortlaut des Art. 10 in seiner heute geltenden Fassung konnte nicht im amtlichen Volltext geöffnet
+    werden (Légifrance-Sperre). Die Angaben zu Absatzgliederung, Genehmigungsdauer und Nutzerkreis stammen
+    aus dem Evaluierungsbericht, dem Senatsbericht und der Entscheidung 2023-850 DC.
+  - Die JORF-Fundstelle (JO n° 116 vom 20.05.2023) ist über die amtliche Liste der 2023 verkündeten Gesetze
+    des Senats bestätigt. Die Textkennung JORFTEXT000047561974 ist dagegen NICHT verifiziert; sie stammt
+    aus dem Auftrag.
+  - Das angegebene Datum ist das der Verkündung. Ob Art. 10 abweichende Inkrafttretensregeln hatte, ist
+    nicht geprüft; praktisch anwendbar wurde er erst mit dem Décret n° 2023-828 am 29.08.2023.
+  - Ob und wann nach dem 19.08.2026 die ersten neuen präfektoralen Genehmigungen ergangen sind, ist offen.
+    Für die erweiterten Anwendungsorte fehlt noch der Ministerialerlass (arrêté), der sie bezeichnet.
+  - Ob das Durchführungsdekret 2023-828 an die erweiterte Fassung angepasst wird (neue Ereignisliste?
+    Einbeziehung der Verkaufsflächen?), ist offen.
+  monitoring_quellen:
+  - https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047564439
+  - https://www.cnil.fr/fr/videoprotection
+  - https://www.senat.fr/dossier-legislatif/pjl25-472.html
+  - https://www.senat.fr/dossiers-legislatifs/lois-promulguees-2023.html
+  bezug_regelwerke:
+  - fr-decret-2023-828
+  - fr-decret-2023-939
+  - fr-loi-2026-798
+  - fr-vsa-prolongation-2025
+  - fr-ppl-verzelen-vsa
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: fr-decret-2023-828
+  jurisdiktion: fr
+  kurztitel: Décret VSA — acht detektierbare Ereignisse und technische Anforderungen
+  offizieller_titel: Décret n° 2023-828 du 28 août 2023 relatif aux modalités de mise en œuvre des traitements
+    algorithmiques sur les images collectées au moyen de systèmes de vidéoprotection et de caméras installées
+    sur des aéronefs, pris en application de l'article 10 de la loi n° 2023-380 du 19 mai 2023 relative
+    aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions
+  fundstelle: JORF n°0200 du 30 août 2023, texte n° 9 (JORFTEXT000048007135); 16 Artikel
+  verfahrensnummer: 'Décret n° 2023-828; Avis der CNIL: Délibération n° 2023-068 du 15 juin 2023'
+  status: anwendbar
+  status_detail: 'In Kraft. Das Dekret ist die eigentliche Konkretisierung des Erlaubnisregimes: es benennt
+    abschließend die acht Ereignisse, stellt Anforderungen an Entwurf, Trainingsdaten, Protokollierung
+    und menschliche Aufsicht und regelt die Betroffenenrechte. Ob es an die durch die LOI n° 2026-798
+    erweiterte Fassung des Art. 10 angepasst wird, ist bis zum Rechercheschluss offen.
+
+    '
+  kurzbeschreibung: 'Das Dekret setzt Art. 10 der loi 2023-380 um. Art. 1 legt den ausschließlichen Zweck
+    fest: Erkennung vorbestimmter Ereignisse in Echtzeit, die Risiken terroristischer Handlungen oder
+    schwerer Gefahren für die Sicherheit von Personen anzeigen oder offenlegen. Art. 3 zählt die acht
+    detektierbaren Ereignisse abschließend auf. Weitere Artikel regeln Anforderungen an Entwurf und Trainingsdaten,
+    die automatische Protokollierung, die dauerhafte menschliche Aufsicht sowie die Information der betroffenen
+    Personen und ihre Rechte. Art. 10 macht deutlich, wie eng der Betroffenenschutz ausfällt: Auskunft,
+    Berichtigung und Einschränkung nach Art. 15, 16 und 18 DSGVO bleiben, das WIDERSPRUCHSRECHT nach Art.
+    21 DSGVO ist dagegen auf der Grundlage von Art. 23 DSGVO ausgeschlossen.
+
+    '
+  inkrafttreten:
+    datum: 2023-08-31
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048007135
+    fundstelle_norm: 'Notice des Décret n° 2023-828 du 28 août 2023: "Entrée en vigueur : le texte entre
+      en vigueur le lendemain de sa publication." Veröffentlichung im JORF n°0200 vom 30.08.2023, Texte
+      n°9 — daher Inkrafttreten am 31.08.2023. Zuvor gespeichert: 29.08.2023; auch die Fundstelle "JORF
+      du 29 août 2023" war falsch.'
+  anwendungsdaten:
+  - datum: 2023-08-29
+    was_gilt: Ab Verkündung sind präfektorale Genehmigungen nach Art. 10 loi 2023-380 praktisch möglich.
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048007147
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Art. 1: Zweckfestlegung — „détecter en temps réel des événements prédéterminés susceptibles de présenter
+    ou de révéler les risques“ (Terrorismus, schwere Gefahren für die Sicherheit von Personen). Kein anderer
+    Zweck ist zulässig.'
+  - 'Art. 3: abschließende Liste der acht Ereignisse — (1) présence d''objets abandonnés; (2) présence
+    ou utilisation d''armes; (3) Nichtbeachtung der vorgeschriebenen Bewegungsrichtung durch Personen
+    oder Fahrzeuge; (4) franchissement ou présence d''une personne ou d''un véhicule dans une zone interdite
+    ou sensible; (5) présence d''une personne au sol à la suite d''une chute; (6) mouvement de foule;
+    (7) densité trop importante de personnes; (8) départs de feux.'
+  - 'Juristische Pointe der Liste: sie ist ereignisbezogen und nicht personenbezogen formuliert. Genau
+    darin liegt der Unterschied zur biometrischen Identifizierung — der Algorithmus erkennt Situationen,
+    nicht Personen. Diese Konstruktion trägt die Vereinbarkeit mit Art. 5 Abs. 1 lit. h KI-VO.'
+  - 'Anforderungen an die Entwicklung: die Trainingsdaten müssen „pertinents, adéquats et représentatifs“
+    sein; verlangt werden Maßnahmen gegen Verzerrungen und eine dokumentierte Konzeption.'
+  - 'Protokollierung: automatische Aufzeichnung der Nutzung (Zugriffe, Meldungen), damit die CNIL nachprüfen
+    kann, ob nur die gesetzlichen Anwendungsfälle bedient wurden.'
+  - Dauerhafte menschliche Aufsicht durch eigens benannte und geschulte Bedienstete; die Meldung des Systems
+    ersetzt keine Entscheidung.
+  - 'Art. 10: Betroffenenrechte — Information nach Kapitel III Abschnitt 2 DSGVO; Auskunft (Art. 15),
+    Berichtigung (Art. 16) und Einschränkung (Art. 18) gegenüber dem Verantwortlichen; das Widerspruchsrecht
+    (Art. 21 DSGVO) ist unter Berufung auf Art. 23 DSGVO ausgeschlossen. Das ist der schärfste Grundrechtseingriff
+    des Dekrets.'
+  - 'Art. 16: Schlussbestimmungen (Inkrafttreten, Vollzug).'
+  dokumente:
+  - datum: 2023-08-28
+    typ: endfassung
+    titel: Décret n° 2023-828 du 28 août 2023 (Gesamttext)
+    url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048007135
+    sprache: fr
+    urheber: Première ministre / ministre de l'intérieur et des outre-mer
+    verifiziert: false
+    notiz: Gesamttext. Der Abruf der Übersichtsseite scheitert an der Légifrance-Sperre (HTTP 403); die
+      Einzelartikel unter /jorf/article_jo/ waren dagegen abrufbar.
+  - datum: 2023-08-28
+    typ: endfassung
+    titel: Article 1 — Décret n° 2023-828 du 28 août 2023 (Zweckfestlegung)
+    url: https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048007147
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: true
+    notiz: Amtlicher Volltext des Zweckartikels; selbst geöffnet.
+  - datum: 2023-08-28
+    typ: endfassung
+    titel: Article 3 — Décret n° 2023-828 du 28 août 2023 (Liste der acht événements prédéterminés)
+    url: https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048007150
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: true
+    notiz: 'Die Kernnorm des gesamten Regimes: was der Algorithmus überhaupt erkennen darf. Selbst geöffnet,
+      Wortlaut der acht Ereignisse gesichert.'
+  - datum: 2023-08-28
+    typ: endfassung
+    titel: Article 10 — Décret n° 2023-828 du 28 août 2023 (Betroffenenrechte, Ausschluss des Widerspruchsrechts)
+    url: https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048007159
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: true
+    notiz: Selbst geöffnet. Belegt den Ausschluss des Art. 21 DSGVO über Art. 23 DSGVO.
+  - datum: 2023-08-28
+    typ: endfassung
+    titel: Article 16 — Décret n° 2023-828 du 28 août 2023
+    url: https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048007171
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Adresse aus der Trefferliste belegt, Inhalt nicht selbst geöffnet.
+  - datum: 2023-06-15
+    typ: stellungnahme
+    titel: Délibération n° 2023-068 du 15 juin 2023 portant avis sur un projet de décret relatif aux modalités
+      de mise en œuvre des traitements algorithmiques sur les images collectées au moyen de systèmes de
+      vidéoprotection et de caméras installées sur des aéronefs
+    url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048007622
+    sprache: fr
+    urheber: Commission nationale de l'informatique et des libertés (CNIL)
+    verifiziert: false
+    notiz: Die gesetzlich vorgeschriebene Anhörung der CNIL zum Entwurf des Dekrets. Adresse und Titel
+      über die Trefferliste belegt; der Volltext war wegen der Légifrance-Sperre nicht zu öffnen. Inhaltlich
+      zu erwarten sind Forderungen zu Trainingsdaten, Protokollierung und Information der Öffentlichkeit.
+  offene_punkte:
+  - Art. 2 und die Art. 4 bis 9 sowie 11 bis 15 des Dekrets sind im Wortlaut nicht gesichert; die JORFARTI-Kennungen
+    dieser Artikel konnten nicht ermittelt werden (Websuche erschöpft, Probeabrufe mit HTTP 403 beantwortet).
+  - Die Délibération n° 2023-068 der CNIL ist nicht im Volltext ausgewertet.
+  - Ob das Dekret nach der Ausweitung des Art. 10 durch die LOI n° 2026-798 geändert wird, ist offen.
+    Ein neues Dekret müsste insbesondere klären, ob die acht Ereignisse auch an den neu einbezogenen Orten
+    gelten.
+  monitoring_quellen:
+  - https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048007135
+  - https://www.cnil.fr/fr/videoprotection
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - fr-decret-2023-939
+  - fr-loi-2026-798
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: fr-decret-2023-939
+  jurisdiktion: fr
+  kurztitel: Décret Evaluierungskomitee VSA
+  offizieller_titel: Décret n° 2023-939 du 11 octobre 2023 relatif aux modalités de pilotage et d'évaluation
+    de l'expérimentation de traitements algorithmiques d'images légalement collectées au moyen de systèmes
+    de vidéoprotection et de caméras installées sur des aéronefs
+  fundstelle: JORF n°0238 du 13 octobre 2023, texte n° 9 (JORFTEXT000048197679)
+  verfahrensnummer: Décret n° 2023-939
+  status: anwendbar
+  status_detail: 'In Kraft. Das Dekret regelt Zusammensetzung und Arbeitsweise des comité d''évaluation,
+    das den gesetzlich vorgeschriebenen Evaluierungsbericht erstellt. Der Bericht wurde im Januar 2025
+    vorgelegt. Der Senat hat empfohlen, das Komitee gesetzlich statt nur durch Dekret abzusichern; ob
+    die LOI n° 2026-798 dem gefolgt ist, konnte nicht verifiziert werden.
+
+    '
+  kurzbeschreibung: 'Verfahrensdekret zur Begleitung der VSA-Experimentierung. Es errichtet ein pluridisziplinär
+    besetztes Evaluierungskomitee aus unabhängigen Sachverständigen, Parlamentariern und Vertretern der
+    einsetzenden Dienste, legt dessen Arbeitsweise fest und bestimmt, wie die Nutzung dokumentiert und
+    ausgewertet wird. Das Komitee ist das institutionelle Scharnier zwischen Erprobung und gesetzgeberischer
+    Entscheidung über eine Verstetigung.
+
+    '
+  inkrafttreten:
+    datum: 2023-10-14
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048197679
+    fundstelle_norm: 'Notice des Décret n° 2023-939 du 11 octobre 2023: "Entrée en vigueur : le texte
+      entre en vigueur le lendemain de sa publication." Veröffentlichung im JORF n°0238 vom 13.10.2023
+      — daher Inkrafttreten am 14.10.2023. Zuvor gespeichert: 12.10.2023 (falsch, ebenso die Fundstelle
+      "JORF du 12 octobre 2023").'
+  anwendungsdaten:
+  - datum: 2025-01-14
+    was_gilt: Vorlage des Evaluierungsberichts des comité d'évaluation.
+    verifiziert: true
+    quelle: https://www.vie-publique.fr/files/rapport/pdf/297322.pdf
+  themenachsen:
+  - governance
+  - grundrechte
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Errichtung und Zusammensetzung des comité d''évaluation: unabhängige Sachverständige, Parlamentarier,
+    Vertreter der einsetzenden Dienste.'
+  - 'Auftrag: Bewertung der technischen Leistungsfähigkeit, des operativen Nutzens und der Auswirkungen
+    auf die öffentlichen Freiheiten.'
+  - Das Komitee ist keine Aufsichtsbehörde; die Kontrolle bleibt bei der CNIL. Es ist ein Evaluierungs-,
+    kein Kontrollgremium — der Senatsbericht hält das für eine Schwachstelle und verlangt eine gesetzliche
+    Verankerung.
+  - Der Bericht des Komitees ist der Anknüpfungspunkt für die politische Entscheidung über Verlängerung
+    oder Verstetigung; Art. 10 loi 2023-380 verlangt ihn vor Ablauf der Experimentierung.
+  dokumente:
+  - datum: 2023-10-11
+    typ: endfassung
+    titel: Décret n° 2023-939 du 11 octobre 2023 relatif aux modalités de pilotage et d'évaluation de
+      l'expérimentation de traitements algorithmiques d'images
+    url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048197679
+    sprache: fr
+    urheber: Première ministre / ministre de l'intérieur et des outre-mer
+    verifiziert: false
+    notiz: Adresse und vollständiger Titel über die Trefferliste der Websuche belegt; der Volltext war
+      wegen der Légifrance-Sperre nicht zu öffnen.
+  - datum: 2025-01-14
+    typ: bericht
+    titel: Rapport du comité d'évaluation de l'expérimentation de traitements algorithmiques d'images
+    url: https://www.vie-publique.fr/files/rapport/pdf/297322.pdf
+    sprache: fr
+    urheber: Comité d'évaluation
+    verifiziert: true
+    notiz: Das Arbeitsergebnis des durch dieses Dekret errichteten Komitees; selbst geöffnet und ausgewertet.
+  offene_punkte:
+  - Volltext des Dekrets nicht geöffnet; Zusammensetzung des Komitees nur mittelbar (über den Evaluierungsbericht)
+    belegt.
+  - Ob die LOI n° 2026-798 das Komitee gesetzlich verankert und ihm für die verlängerte Experimentierung
+    einen neuen Auftrag erteilt, ist nicht verifiziert.
+  monitoring_quellen:
+  - https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048197679
+  - https://www.vie-publique.fr/rapports
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - fr-decret-2023-828
+  - fr-loi-2026-798
+  letzte_pruefung: 2026-09-05
+- id: fr-vsa-prolongation-2025
+  jurisdiktion: fr
+  kurztitel: Gescheiterte VSA-Verlängerung im Transportsicherheitsgesetz 2025
+  offizieller_titel: Article 15 de la loi relative au renforcement de la sûreté dans les transports (LOI
+    n° 2025-379 du 28 avril 2025), censuré par la décision n° 2025-878 DC du 24 avril 2025
+  fundstelle: LOI n° 2025-379 du 28 avril 2025, JORF n° 0101 du 29 avril 2025; Décision n° 2025-878 DC
+    du 24 avril 2025
+  verfahrensnummer: Proposition de loi relative au renforcement de la sûreté dans les transports; saisine
+    n° 2025-878 DC
+  status: gescheitert
+  status_detail: 'Der Artikel ist nie in Kraft getreten. Der Conseil constitutionnel hat ihn am 24.04.2025
+    von Amts wegen als cavalier législatif nach Art. 45 Abs. 1 der Verfassung zensiert (Rn. 137 f.): die
+    Verlängerung der VSA-Experimentierung habe „ni lien, même indirect“ mit dem eingebrachten Text zur
+    Sicherheit im Verkehr. Der Eintrag gehört in die Datenbank, weil er erklärt, warum es zwischen dem
+    01.04.2025 und dem 19.08.2026 keine Rechtsgrundlage für neue VSA-Genehmigungen gab und warum die Regierung
+    den zweiten Anlauf über einen eigenen Regierungsentwurf (RIPOST) genommen hat.
+
+    '
+  kurzbeschreibung: 'Art. 15 des Transportsicherheitsgesetzes sollte Art. 10 der loi 2023-380 ändern und
+    die Experimentierung bis zum 1. März 2027 verlängern. Der Conseil constitutionnel hat die Bestimmung
+    nicht materiell geprüft, sondern allein wegen des fehlenden Zusammenhangs mit dem ursprünglichen Text
+    gestrichen. Die Zensur ist rein verfahrensrechtlich: sie sagt nichts darüber, ob eine Verlängerung
+    materiell verfassungsgemäß gewesen wäre. Genau deshalb konnte die Regierung 2026 dasselbe Ziel — sogar
+    mit weiterem Anwendungsbereich und längerer Frist — in einem eigenen Regierungsentwurf erneut verfolgen
+    und durchsetzen.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.conseil-constitutionnel.fr/decision/2025/2025878DC.htm
+  anwendungsdaten: []
+  themenachsen:
+  - grundrechte
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Inhalt der zensierten Norm: Verlängerung der Experimentierung des Art. 10 loi 2023-380 bis zum 1.
+    März 2027.'
+  - 'Zensurgrund: Art. 45 Abs. 1 der Verfassung — jeder Änderungsantrag muss einen zumindest mittelbaren
+    Zusammenhang mit dem eingebrachten Text aufweisen. Der Conseil stellt in Rn. 137 f. fest, dass dieser
+    Zusammenhang fehlt („ne présentent pas de lien, même indirect“).'
+  - 'Verfahrensrechtliche, nicht materielle Zensur: der Conseil äußert sich NICHT zur Vereinbarkeit einer
+    Verlängerung mit dem Recht auf Achtung des Privatlebens. Das ist der Grund, warum die Zensur die Politik
+    nicht gebremst, sondern nur den Gesetzgebungsweg verändert hat.'
+  - 'Rechtsfolge in der Zwischenzeit: mit Ablauf des 31.03.2025 endete die Experimentierung; neue präfektorale
+    Genehmigungen waren bis zum Inkrafttreten der LOI n° 2026-798 nicht möglich. Die Entscheidung des
+    Conseil d''État vom 30.01.2026 (n° 506370) bestätigt für diesen Zeitraum, dass es keine alternative
+    Rechtsgrundlage gab.'
+  dokumente:
+  - datum: 2025-04-24
+    typ: endfassung
+    titel: Décision n° 2025-878 DC du 24 avril 2025 — Loi relative au renforcement de la sûreté dans les
+      transports
+    url: https://www.conseil-constitutionnel.fr/decision/2025/2025878DC.htm
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: true
+    notiz: 'Selbst geöffnet. Rn. 137 f.: Zensur des Art. 15 (Verlängerung der VSA-Experimentierung bis
+      1. März 2027) als cavalier législatif.'
+  - datum: 2025-04-24
+    typ: pressemitteilung
+    titel: Décision n° 2025-878 DC du 24 avril 2025 — Communiqué de presse
+    url: https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-878-dc-du-24-avril-2025-communique-de-presse
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: false
+    notiz: Amtliche Pressemitteilung zur Entscheidung; Adresse aus der Trefferliste, nicht selbst geöffnet.
+  sekundaerquelle_url:
+  - https://next.ink/182377/videosurveillance-algorithmique-les-sages-censurent-la-prolongation-de-lexperimentation/
+  - https://www.laquadrature.net/2025/03/05/experimentation-vsa-le-gouvernement-sur-le-point-dobtenir-trois-ans-de-rab/
+  offene_punkte:
+  - Die genaue Artikelnummerierung im verkündeten Text der LOI n° 2025-379 (nach Wegfall des zensierten
+    Artikels) ist nicht geprüft.
+  - Ob im Verfahren weitere KI-bezogene Bestimmungen (etwa zu Drohnen oder zu Kameras in Zügen) enthalten
+    waren und überlebt haben, ist nicht geprüft.
+  monitoring_quellen:
+  - https://www.conseil-constitutionnel.fr/les-decisions
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - fr-loi-2026-798
+  letzte_pruefung: 2026-09-04
+- id: fr-loi-2026-798
+  jurisdiktion: fr
+  kurztitel: Loi RIPOST — VSA bis 2030, Ausweitung, Handelsflächen-Experiment
+  offizieller_titel: LOI n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes
+    troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens
+  fundstelle: JORF n° 0192 du 19 août 2026 (JORFTEXT000054707332)
+  verfahrensnummer: Projet de loi n° 472 (Sénat, 2025-2026) / n° 2850 (Assemblée nationale, 17e législature);
+    T.A. Sénat n° 164, T.A. AN n° 340 (21.07.2026); dossier AN DLR5L17N53980; NOR INTD2604047L
+  status: anwendbar
+  status_detail: 'Verkündet und in Kraft. Der Weg: Ministerrat und Einreichung im Senat am 25.03.2026,
+    Ausschussbericht n° 601 am 06.05.2026, Annahme im Senat am 26.05.2026, Übermittlung an die Assemblée
+    nationale am 28.05.2026, Ausschussbericht n° 2984 am 24.06.2026, Annahme in erster Lesung am 15.07.2026
+    (T.A. n° 331), Einigung der paritätischen Kommission am 17.07.2026, endgültige Annahme in beiden Kammern
+    am 21.07.2026, Anrufung des Conseil constitutionnel durch zwei Gruppen von jeweils mehr als sechzig
+    Abgeordneten am 24.07.2026, Entscheidung n° 2026-915 DC vom 14.08.2026 (teilweise konform), Verkündung
+    am 18.08.2026.
+
+    '
+  kurzbeschreibung: 'Ein umfangreiches Sicherheitsgesetz („RIPOST“) mit einem für das KI-Recht zentralen
+    Teil: Art. 19 des Entwurfs verlängert die VSA-Experimentierung bis zum 31. Dezember 2030 und weitet
+    ihren Anwendungsbereich erheblich aus — von Sport-, Kultur- und Freizeitveranstaltungen auf politische
+    Veranstaltungen sowie auf öffentliche Gebäude und Orte, die dauerhaft oder aufgrund außergewöhnlicher
+    Umstände einem Risiko ausgesetzt sind und durch Ministerialerlass bezeichnet werden, ferner auf deren
+    Umfeld und die öffentlichen Verkehrsmittel. Zugleich staffelt das Gesetz die Genehmigungsdauern neu.
+    Ein weiterer, im Plenum der Assemblée nationale eingefügter Artikel (Art. 19 bis der Beratungsfassung)
+    schafft erstmals eine VSA-Erprobung im PRIVATEN Einzelhandel bis zum 31. Dezember 2027 — mit CNIL-Genehmigung
+    statt präfektoraler Genehmigung. Zweckbindung, Biometrieverbot, Verbot der automatisierten Einzelentscheidung
+    und menschliche Aufsicht bleiben unverändert.
+
+    '
+  inkrafttreten:
+    datum: 2026-08-20
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/eli/loi/2026/8/18/2026-798/jo/texte
+    fundstelle_norm: 'LOI n° 2026-798 du 18 août 2026 (RIPOST), veröffentlicht im JORF n°0192 vom 19.08.2026,
+      Texte n°5. Der Gesetzestext enthält keine Inkrafttretensbestimmung ("entre(nt) en vigueur" kommt
+      im gesamten Text nicht vor); es gilt Art. 1 Abs. 1 Code civil (Tag nach der Veröffentlichung). Zuvor
+      gespeichert: 19.08.2026 — Tag der Veröffentlichung.'
+  anwendungsdaten:
+  - datum: 2026-08-14
+    was_gilt: 'Entscheidung des Conseil constitutionnel n° 2026-915 DC: teilweise Verfassungswidrigkeit;
+      die VSA-Bestimmungen bleiben unangetastet.'
+    verifiziert: true
+    quelle: https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm
+  - datum: 2026-08-19
+    was_gilt: Verkündung im JORF; die VSA-Experimentierung ist damit wieder in Kraft, in erweiterter Fassung.
+    verifiziert: true
+    quelle: https://www.senat.fr/dossier-legislatif/pjl25-472.html
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  - governance
+  regelungsschwerpunkte:
+  - 'Verlängerung: die Experimentierung des Art. 10 loi 2023-380 läuft bis zum 31. DEZEMBER 2030. Der
+    Regierungsänderungsantrag n° 907 (eingereicht 02.07.2026, angenommen 10.07.2026) hat das Datum gegenüber
+    der Beratungsfassung (2027) auf 2030 verschoben.'
+  - 'Ausweitung der Orte: (a) Veranstaltungen, die wegen ihrer Besucherzahl oder ihrer Umstände besonders
+    gefährdet sind — ausdrücklich einschließlich politischer Veranstaltungen; (b) Gebäude und öffentliche
+    Orte, die dauerhaft oder wegen außergewöhnlicher Umstände gefährdet sind, bezeichnet durch Ministerialerlass;
+    (c) deren Umfeld; (d) öffentliche Verkehrsmittel.'
+  - 'Neue Staffelung der Genehmigungsdauern: ein Monat (verlängerbar) für Veranstaltungen; für dauerhaft
+    gefährdete Orte die Laufzeit der zugrunde liegenden vidéoprotection-Genehmigung; drei Monate (verlängerbar)
+    bei außergewöhnlichen Umständen. Das ist der eigentliche Systemwechsel: die Bindung an ein einzelnes
+    Ereignis wird gelockert und durch eine ortsbezogene Dauergenehmigung ersetzt.'
+  - 'Neu: VSA im privaten Einzelhandel (Art. 19 bis der Beratungsfassung, Amendement n° 844 Paul Midy
+    u. a., angenommen am 10.07.2026). Versuchsweise bis zum 31.12.2027 in besonders diebstahlgefährdeten
+    Geschäften, Supermärkten und Einkaufszentren; ausschließlicher Zweck ist die Diebstahlprävention durch
+    Echtzeiterkennung vorbestimmter Ereignisse. Garantien: kein System biometrischer Identifizierung,
+    keine Verarbeitung biometrischer Daten, keine Gesichtserkennung; ständige menschliche Aufsicht; keine
+    automatisierte Einzelentscheidung; Genehmigung durch die CNIL und Konformitätsnachweis; Pflicht zur
+    vorherigen Information der Öffentlichkeit.'
+  - 'Systematische Bedeutung des Handelsflächen-Experiments: es verschiebt das französische Modell von
+    einer rein hoheitlichen Erlaubnis auf private Verantwortliche und ersetzt die präfektorale durch eine
+    datenschutzbehördliche Genehmigung. Damit entsteht neben dem sicherheitsrechtlichen ein zweiter, datenschutzrechtlich
+    administrierter Erlaubnispfad.'
+  - 'Keine Gesichtserkennung: das Verbot der biometrischen Identifizierung ist in beiden Regimen ausdrücklich
+    beibehalten. Die im politischen Raum diskutierte Öffnung zur reconnaissance faciale hat NICHT stattgefunden.'
+  - 'Verfassungsgerichtliche Behandlung: der Conseil constitutionnel hat die VSA-Bestimmungen nicht materiell
+    geprüft. Sie erscheinen in der Entscheidung 2026-915 DC nur mittelbar — in Rn. 189 und 192, wo der
+    Conseil den Art. 19 des ursprünglichen Entwurfs („qui modifiait le régime de la vidéosurveillance
+    algorithmique“) als Anknüpfungspunkt heranzieht, um andere Bestimmungen gegen den Vorwurf des cavalier
+    législatif zu verteidigen. Die Antragsteller haben die VSA-Artikel nicht angegriffen.'
+  - 'Zensiert wurden: Abs. I des Art. 1 (administrative Schließung, Rn. 18), der zweite Unterabsatz des
+    3° des Abs. III des Art. 1 (Pauschalgeldstrafe, Rn. 55), das 1° des Abs. I des Art. 7 (Fahrdelikt,
+    Rn. 102), das 13° des Abs. I des Art. 7 (Fahrzeugvernichtung, Rn. 136) und Abs. II des Art. 14 (Delikte
+    bei möblierten Touristenunterkünften, Rn. 181). Vorbehalte betreffen Art. L. 211-7-1 code de la sécurité
+    intérieure (Rn. 69), Art. 38 der loi du 5 mars 2007 (Rn. 175) und Art. L. 332-16-1 A code du sport
+    (Rn. 162).'
+  dokumente:
+  - datum: 2026-08-18
+    typ: endfassung
+    titel: LOI n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant
+      l'ordre public, la sécurité et la tranquillité de nos concitoyens (1)
+    url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054707332
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Kanonische Fundstelle des verkündeten Gesetzes. Titel, Datum und JORF-Nummer sind über die
+      Trefferliste der Websuche und über das Senatsdossier belegt; der Volltext war wegen der Légifrance-Sperre
+      nicht zu öffnen. DESHALB IST DIE ARTIKELNUMMER DER VSA-BESTIMMUNGEN IM VERKÜNDETEN TEXT NICHT VERIFIZIERT
+      — im Verfahren waren es Art. 19 und Art. 19 bis.
+  - datum: 2026-07-02
+    typ: aenderungsantrag
+    titel: Amendement n° 907 (Gouvernement) à l'article 19 du projet de loi n° 2984 — vidéosurveillance
+      algorithmique
+    url: https://www.assemblee-nationale.fr/dyn/17/amendements/2984/AN/907
+    sprache: fr
+    urheber: Gouvernement (Assemblée nationale, 17e législature)
+    verifiziert: true
+    notiz: Der amtliche Text, aus dem sich Verlängerungsdatum (31.12.2030), die neuen Anwendungsorte und
+      die gestaffelten Genehmigungsdauern ergeben. Eingereicht am 02.07.2026, angenommen am 10.07.2026.
+      Wichtigste einzelne Quelle für den geltenden Rechtsstand, weil die konsolidierten Texte nicht abrufbar
+      waren.
+  - datum: 2026-07-10
+    typ: aenderungsantrag
+    titel: Amendement n° 844 (Paul Midy et 97 cosignataires) après l'article 19 — expérimentation de traitements
+      algorithmiques dans les commerces
+    url: https://www.assemblee-nationale.fr/dyn/17/amendements/2984/AN/844.pdf
+    sprache: fr
+    urheber: Assemblée nationale, 17e législature
+    verifiziert: true
+    notiz: 'Amtlicher Text des Handelsflächen-Experiments: „À titre expérimental et jusqu''au 31 décembre
+      2027“, Zweck Diebstahlprävention, ausdrückliches Verbot biometrischer Identifizierung und Gesichtserkennung,
+      ständige menschliche Aufsicht, keine Einzelentscheidung, CNIL-Genehmigung und Konformitätsnachweis,
+      Pflicht zur Vorabinformation. Angenommen am 10.07.2026.'
+  - datum: 2026-08-14
+    typ: endfassung
+    titel: Décision n° 2026-915 DC du 14 août 2026 — Loi visant à offrir des réponses immédiates aux phénomènes
+      troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens
+    url: https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: true
+    notiz: Selbst geöffnet. Fünf Teilzensuren, drei Auslegungsvorbehalte. Die VSA-Bestimmungen werden
+      nicht materiell geprüft; sie erscheinen nur in Rn. 189 und 192 als Anknüpfungspunkt der Art.-45-Prüfung.
+  - datum: 2026-05-06
+    typ: ausschussbericht
+    titel: Rapport n° 601 (2025-2026) de Mmes Lauriane Josende et Isabelle Florennes, fait au nom de la
+      commission des lois du Sénat
+    url: https://www.senat.fr/rap/l25-601/l25-6016.html
+    sprache: fr
+    urheber: Sénat, commission des lois
+    verifiziert: true
+    notiz: Selbst geöffnet. Enthält die Erklärung des Innenministers zur VSA-Ausweitung („ni reconnaissance
+      faciale, ni traitement, ni croisement avec un fichier“) und die Begründung der Ausweitung auf Orte
+      mit dauerhaftem oder außergewöhnlichem Risiko.
+  - datum: 2026-03-19
+    typ: stellungnahme
+    titel: Avis sur un projet de loi renforçant la sécurité du quotidien
+    url: https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-sur-un-projet-de-loi-renforcant-la-securite-du-quotidien
+    sprache: fr
+    urheber: Conseil d'État, assemblée générale
+    verifiziert: true
+    notiz: Amtliche Stellungnahme des Conseil d'État zum Regierungsentwurf (19.03.2026). Sie befasst sich
+      in Rn. 109-111 mit den Bildaufnahmen durch Drohnen, mahnt die Gefahr einer Massenüberwachung an
+      („un nombre très important de personnes“) und billigt die Eilvariante nur unter Bedingungen (Unterrichtung
+      des Präfekten, Vierstundengrenze).
+  - datum: 2026-03-12
+    typ: stellungnahme
+    titel: Délibération n° 2026-023 du 12 mars 2026 portant avis sur un projet de loi visant à renforcer
+      la sécurité du quotidien
+    url: https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000053716494
+    sprache: fr
+    urheber: Commission nationale de l'informatique et des libertés (CNIL)
+    verifiziert: false
+    notiz: 'Die CNIL-Stellungnahme zum RIPOST-Entwurf. Existenz, Datum und Gegenstand sind durch die Tagesordnung
+      der CNIL-Plenarsitzung vom 12.03.2026 (Punkt I.3: „avis sur un projet de loi visant à renforcer
+      la sécurité du quotidien“) und durch die Trefferliste belegt; der Volltext war wegen der Légifrance-Sperre
+      nicht zu öffnen.'
+  - datum: 2026-03-12
+    typ: uebersicht
+    titel: Ordre du jour de la séance plénière du 12 mars 2026
+    url: https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mars-2026
+    sprache: fr
+    urheber: CNIL
+    verifiziert: true
+    notiz: Selbst geöffnet; belegt, dass die CNIL am 12.03.2026 über den RIPOST-Entwurf beraten hat.
+  - datum: 2026-07-10
+    typ: plenarprotokoll
+    titel: Compte rendu de la première séance du vendredi 10 juillet 2026 (Assemblée nationale)
+    url: https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-vendredi-10-juillet-2026
+    sprache: fr
+    urheber: Assemblée nationale
+    verifiziert: true
+    notiz: Selbst geöffnet. Das Inhaltsverzeichnis weist die Beratung des Art. 19 mit dem Amendement n°
+      907, acht Unteränderungsanträgen (1040, 1012, 1091, 1100, 1092, 986, 985, 1013) und den Amendements
+      317, 19, 405, 790 sowie — nach Art. 19 — dem Amendement 844 aus. Der Debattentext selbst bricht
+      in der Konversion vorher ab.
+  sekundaerquelle_url:
+  - https://next.ink/248485/videosurveillance-algorithmique-immatriculation-la-loi-ripost-ouvre-les-vannes/
+  - https://www.publicsenat.fr/actualites/parlementaire/loi-ripost-le-senat-prolonge-et-etend-le-recours-a-la-video-surveillance-algorithmique
+  - https://www.lagazettedescommunes.com/1037046/la-videosurveillance-intelligente-tisse-sa-toile/
+  offene_punkte:
+  - Die Artikelnummern der VSA-Bestimmungen IM VERKÜNDETEN GESETZ sind nicht verifiziert. Im Verfahren
+    waren es Art. 19 (Verlängerung/Ausweitung) und Art. 19 bis (Handelsflächen); nach der paritätischen
+    Kommission wird üblicherweise neu durchnummeriert.
+  - 'Widerspruch in den Quellen: der Ausschussbericht des Senats spricht bei der VSA von „Artikel 14“,
+    der Conseil constitutionnel dagegen ausdrücklich vom „article 19 du projet de loi initial“. Der Entscheidung
+    des Conseil constitutionnel ist zu folgen; die Abweichung im Ausschussbericht ist nicht aufgeklärt.'
+  - Ob die acht Ereignisse des Décret n° 2023-828 unverändert gelten oder für die neuen Orte erweitert
+    werden, ist offen.
+  - Der Ministerialerlass, der die dauerhaft oder außergewöhnlich gefährdeten Orte bezeichnet, ist bis
+    zum Rechercheschluss nicht nachgewiesen.
+  - Für das Handelsflächen-Experiment fehlt noch das Durchführungsdekret; unklar ist insbesondere, welche
+    „événements prédéterminés“ dort zulässig sind und wie die CNIL-Genehmigung verfahrensrechtlich ausgestaltet
+    wird.
+  - Ob die Sous-amendements zum Amendement n° 907 den Text noch verändert haben, ist nicht geprüft.
+  monitoring_quellen:
+  - https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054707332
+  - https://www.senat.fr/dossier-legislatif/pjl25-472.html
+  - https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980
+  - https://www.cnil.fr/fr/videoprotection
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - fr-decret-2023-828
+  - fr-decret-2023-939
+  - fr-vsa-prolongation-2025
+  - fr-ppl-verzelen-vsa
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: fr-ppl-verzelen-vsa
+  jurisdiktion: fr
+  kurztitel: PPL Verzelen — Verallgemeinerung der vidéoprotection algorithmique
+  offizieller_titel: Proposition de loi visant à généraliser la vidéoprotection algorithmique
+  fundstelle: Sénat, texte n° 609 (2025-2026), déposé le 12 mai 2026
+  verfahrensnummer: PPL n° 609 (2025-2026); dossier législatif ppl25-609
+  status: verfahren
+  status_detail: 'Am 12.05.2026 von Pierre-Jean Verzelen und zwölf weiteren Senatoren eingereicht. Das
+    Dossier weist bis zum letzten Stand (18.06.2026) nur die Einreichung und die Zuleitung zur ersten
+    Lesung aus; eine Ausschussberatung, ein Bericht oder eine Abstimmung sind nicht verzeichnet. Der Vorstoß
+    ist durch die LOI n° 2026-798 vom 18.08.2026 politisch überholt, aber nicht erledigt: er zielt auf
+    die dauerhafte Verankerung, die das RIPOST-Gesetz gerade NICHT vorgenommen hat.
+
+    '
+  kurzbeschreibung: 'Einartikelgesetz, das die algorithmische Videoüberwachung aus dem Experimentierstadium
+    herausholen und dauerhaft im code de la sécurité intérieure verankern soll. Vorgesehen ist ein neuer
+    Art. L. 251-1-1 CSI, der den Einsatz von KI-Systemen zur Echtzeiterkennung vorbestimmter Ereignisse
+    auf den ohnehin erhobenen Bildern der vidéoprotection erlaubt, die Ausgestaltung einem Dekret überlässt,
+    die CNIL einbindet und die Anwendung vor Ort an eine präfektorale Entscheidung knüpft. Der Text hält
+    ausdrücklich am Biometrieverbot fest.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.senat.fr/dossier-legislatif/ppl25-609.html
+  anwendungsdaten: []
+  themenachsen:
+  - grundrechte
+  - datenschutz
+  - sektor-oeffentlich
+  regelungsschwerpunkte:
+  - 'Neuer Art. L. 251-1-1 code de la sécurité intérieure: dauerhafte Rechtsgrundlage statt befristeter
+    Experimentierung. Damit würde die Konstruktion des Art. 10 loi 2023-380 (Sonderregime auf Zeit) in
+    das allgemeine Sicherheitsrecht überführt.'
+  - 'Abs. III des vorgeschlagenen Art. L. 251-1-1: „n''utilisent aucun système d''identification biométrique,
+    ne traitent aucune donnée biométrique et ne mettent en œuvre aucune technique de reconnaissance faciale“
+    — das Biometrieverbot wird also auch für den Dauerzustand beibehalten.'
+  - 'Regelungstechnik: Rahmennorm mit Verweisung auf ein Regierungsdekret; Kontrolle durch die CNIL; Einzelanwendung
+    durch den Präfekten. Der Gesetzgeber gäbe damit erheblich mehr Ausgestaltungsspielraum an die Exekutive
+    ab, als Art. 10 loi 2023-380 es tut.'
+  - 'Politische Funktion: der Text ist der senatorische Gegenentwurf zur Verlängerungslogik. Der Bericht
+    n° 374 der commission des lois hatte im Februar 2025 ausdrücklich empfohlen, VOR jeder Verstetigung
+    zu verlängern; die PPL Verzelen will die Verstetigung sofort.'
+  dokumente:
+  - datum: 2026-05-12
+    typ: entwurf
+    titel: Proposition de loi visant à généraliser la vidéoprotection algorithmique, n° 609 (2025-2026)
+    url: https://www.senat.fr/leg/ppl25-609.html
+    sprache: fr
+    urheber: Sénat; MM. Pierre-Jean Verzelen, Pierre Médevielle, Jean-Pierre Grand, Cédric Chevalier u.
+      a. (13 Senatoren)
+    verifiziert: true
+    notiz: Amtlicher Volltext der Initiative; selbst geöffnet. Belegt den vorgeschlagenen Art. L. 251-1-1
+      CSI und das Festhalten am Biometrieverbot.
+  - datum: 2026-06-18
+    typ: uebersicht
+    titel: Dossier législatif — Généraliser la vidéoprotection algorithmique (ppl25-609)
+    url: https://www.senat.fr/dossier-legislatif/ppl25-609.html
+    sprache: fr
+    urheber: Sénat
+    verifiziert: true
+    notiz: Selbst geöffnet; Stand des Verfahrens (nur Einreichung, keine Ausschussbefassung).
+  offene_punkte:
+  - Ob die Initiative nach Verkündung der LOI n° 2026-798 weiterverfolgt wird oder faktisch erledigt ist,
+    ist offen; das Dossier ist seit dem 18.06.2026 nicht fortgeschrieben.
+  - Der vollständige Wortlaut des vorgeschlagenen Art. L. 251-1-1 CSI (Absätze I und II) ist nur zusammenfassend
+    erfasst.
+  monitoring_quellen:
+  - https://www.senat.fr/dossier-legislatif/ppl25-609.html
+  bezug_regelwerke:
+  - fr-loi-2023-380
+  - fr-loi-2026-798
+  letzte_pruefung: 2026-09-04
+- id: fr-loi-2024-449
+  jurisdiktion: fr
+  kurztitel: Loi SREN — Deepfake-Strafrecht und Regulierung des digitalen Raums
+  offizieller_titel: LOI n° 2024-449 du 21 mai 2024 visant à sécuriser et à réguler l'espace numérique
+  fundstelle: JORF n° 0119 du 22 mai 2024 (JORFTEXT000049563368)
+  verfahrensnummer: Projet de loi SREN; Décision n° 2024-866 DC du 17 mai 2024
+  status: anwendbar
+  status_detail: 'In Kraft. Das Gesetz ist Frankreichs Anpassungs- und Ergänzungsgesetz zum digitalen
+    Binnenmarktrecht (DSA, DMA, Data Governance Act) und enthält zugleich die beiden einzigen genuin KI-bezogenen
+    Straftatbestände des französischen Rechts: die Ergänzung des Art. 226-8 code pénal um algorithmisch
+    erzeugte Inhalte und den neuen Art. 226-8-1 code pénal für sexuelle Deepfakes. Der Conseil constitutionnel
+    hat die Deepfake-Artikel nicht geprüft — sie waren nicht angegriffen.
+
+    '
+  kurzbeschreibung: 'Die Deepfake-Vorschriften folgen einer zweistufigen Logik. Erste Stufe (Art. 226-8
+    c.p.): wer einen algorithmisch erzeugten visuellen oder akustischen Inhalt, der das Bild oder die
+    Stimme einer Person wiedergibt, ohne deren Einwilligung öffentlich zugänglich macht, macht sich strafbar,
+    WENN nicht offensichtlich ist oder ausdrücklich angegeben wird, dass der Inhalt algorithmisch erzeugt
+    wurde. Der Straftatbestand knüpft also an die fehlende KENNZEICHNUNG an, nicht an die Erzeugung. Zweite
+    Stufe (Art. 226-8-1 c.p.): bei Inhalten sexuellen Charakters entfällt die Kennzeichnungslogik vollständig
+    — hier ist bereits die Verbreitung ohne Einwilligung strafbar, auch wenn offen erklärt wird, dass
+    es sich um eine KI-Erzeugung handelt. In beiden Fällen erhöht sich der Strafrahmen, wenn die Tat über
+    einen Online-Kommunikationsdienst begangen wird. Adressat ist, wer verbreitet; Anbieter von KI-Systemen
+    werden nicht erfasst.
+
+    '
+  inkrafttreten:
+    datum: 2024-05-23
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/eli/loi/2024/5/21/2024-449/jo/texte
+    fundstelle_norm: 'LOI n° 2024-449 du 21 mai 2024 (SREN), veröffentlicht im JORF n°0117 vom 22.05.2024,
+      Texte n°2. Das Gesetz enthält keine allgemeine Inkrafttretensbestimmung; es gilt Art. 1 Abs. 1 Code
+      civil (Tag nach der Veröffentlichung). Zuvor gespeichert: 22.05.2024 — das ist der Tag der Veröffentlichung,
+      nicht des Inkrafttretens.'
+  anwendungsdaten:
+  - datum: 2024-05-17
+    was_gilt: 'Décision n° 2024-866 DC: Teilzensuren (Art. 10, 11, 18, 19, 58); die Deepfake-Vorschriften
+      bleiben unberührt.'
+    verifiziert: true
+    quelle: https://www.conseil-constitutionnel.fr/decision/2024/2024866DC.htm
+  - datum: 2024-05-22
+    was_gilt: Inkrafttreten; die neuen Straftatbestände gelten ab Verkündung.
+    verifiziert: false
+    quelle: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049563368
+  themenachsen:
+  - content
+  - haftung
+  - grundrechte
+  - datenschutz
+  - marktzugang
+  regelungsschwerpunkte:
+  - 'Art. 226-8 code pénal (ergänzt): Erweiterung des klassischen „montage“-Tatbestands auf „un contenu
+    visuel ou sonore généré par un traitement algorithmique et représentant l''image ou les paroles d''une
+    personne“. Strafbar ist die Verbreitung ohne Einwilligung, sofern die algorithmische Erzeugung nicht
+    offensichtlich ist oder nicht ausdrücklich angegeben wird. Grundstrafrahmen ein Jahr Freiheitsstrafe
+    und 15.000 Euro Geldstrafe; bei Begehung über einen Online-Kommunikationsdienst zwei Jahre und 45.000
+    Euro.'
+  - 'Art. 226-8-1 code pénal (neu): sexuelle Deepfakes. Strafbar ist bereits die Verbreitung eines „contenu
+    à caractère sexuel généré par un traitement algorithmique“ ohne Einwilligung — die Kennzeichnung entlastet
+    NICHT. Strafrahmen zwei Jahre und 60.000 Euro, bei Begehung über einen Online-Kommunikationsdienst
+    drei Jahre und 75.000 Euro.'
+  - 'Dogmatische Pointe: Frankreich löst das Deepfake-Problem nicht über ein KI-Regulierungsgesetz, sondern
+    über das Persönlichkeitsschutzstrafrecht des Kapitels „atteintes à la vie privée“. Schutzgut ist das
+    Recht am eigenen Bild und an der eigenen Stimme, nicht die Integrität des Informationsraums. Deshalb
+    gibt es keinen Anbieterbezug und keine Plattformpflicht in diesen Normen.'
+  - 'Verhältnis zu Art. 50 KI-VO: die französische Kennzeichnungslogik des Art. 226-8 c.p. ist strafrechtlich,
+    adressiert den Verbreiter und schützt individuelle Rechtsgüter; die Transparenzpflicht des Art. 50
+    KI-VO ist aufsichtsrechtlich, adressiert Anbieter und Betreiber und schützt die Allgemeinheit. Die
+    Normen laufen nebeneinander; ein Vorrang ist nicht geregelt.'
+  - 'Art. 6 SREN: Bericht der Regierung binnen sechs Monaten über eine Ausweitung der Befugnisse des OCLCTIC
+    (Löschungsanordnungen) auf Inhalte, die unmenschliche oder erniedrigende Behandlungen, Vergewaltigung
+    und Inzest darstellen — flankierender Rechtsrahmen für die Bekämpfung synthetischer Missbrauchsinhalte.'
+  - 'Art. 31 SREN: Schutz strategischer und sensibler Daten beim Einsatz privater Cloud-Dienste durch
+    die staatliche Verwaltung. Erfasst werden Daten, die dem Geheimschutz unterliegen oder wesentliche
+    Staatsfunktionen betreffen (Sicherheit, öffentliche Ordnung, Gesundheit); der Dienst muss vor dem
+    Zugriff drittstaatlicher Behörden schützen. Für KI-Beschaffungen der Verwaltung ist das die praktisch
+    wichtigste Souveränitätsnorm des Gesetzes; ein Dekret sollte binnen sechs Monaten die Modalitäten
+    und befristete Ausnahmen (höchstens 18 Monate) regeln.'
+  - 'Weitere KI-relevante Teile: Altersverifikation für pornografische Dienste (Art. 1 und 2, vom Conseil
+    constitutionnel gebilligt) — praktisch nur mit algorithmischer Altersschätzung umsetzbar; Art. 42
+    mit einem Auslegungsvorbehalt gegen Gesichtserkennung; Strafverschärfung bei Online-Sextortion (Art.
+    17).'
+  - 'Zensiert: Art. 10 und 11 (digitale Identität), Art. 18 (Mediationsexperiment), Art. 19 (délit d''outrage
+    en ligne, Art. 222-33-1-2 c.p. — Verstoß gegen die Meinungsfreiheit), Art. 58 (Statistikgeheimnis).
+    Art. 19 ist für das KI-Recht mittelbar relevant, weil damit der Versuch scheiterte, Online-Äußerungsdelikte
+    neu zu fassen.'
+  dokumente:
+  - datum: 2024-05-21
+    typ: endfassung
+    titel: LOI n° 2024-449 du 21 mai 2024 visant à sécuriser et à réguler l'espace numérique (1)
+    url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049563368
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Kanonische Fundstelle. Titel und Datum über die Trefferliste belegt; Volltext wegen der Légifrance-Sperre
+      nicht geöffnet.
+  - datum: 2024-05-21
+    typ: endfassung
+    titel: Article 226-8-1 — Code pénal (sexuelle Deepfakes)
+    url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049567458
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Kanonische Fundstelle des Einzelartikels; die Adresse ist über die Trefferliste („Article 226-8-1
+      - Code pénal - Légifrance“) belegt. Fünf Abrufversuche zu unterschiedlichen Zeitpunkten wurden mit
+      HTTP 403 beantwortet; der Wortlaut ist deshalb NICHT in dieser Sitzung am amtlichen Text geprüft.
+  - datum: 2024-05-21
+    typ: endfassung
+    titel: Article 6 — LOI n° 2024-449 du 21 mai 2024 (Bericht über die Ausweitung der OCLCTIC-Befugnisse)
+    url: https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049565876
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: true
+    notiz: Selbst geöffnet — einer der wenigen erfolgreichen Légifrance-Abrufe dieser Sitzung.
+  - datum: 2024-05-21
+    typ: endfassung
+    titel: Article 31 — LOI n° 2024-449 du 21 mai 2024 (Cloud-Souveränität für staatliche Stellen)
+    url: https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049565888
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: true
+    notiz: Selbst geöffnet. Für KI-Beschaffung der Verwaltung die zentrale Vorschrift des Gesetzes.
+  - datum: 2024-05-17
+    typ: endfassung
+    titel: Décision n° 2024-866 DC du 17 mai 2024 — Loi visant à sécuriser et à réguler l'espace numérique
+    url: https://www.conseil-constitutionnel.fr/decision/2024/2024866DC.htm
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: true
+    notiz: Selbst geöffnet. Belegt, welche Artikel zensiert wurden und dass die Deepfake-Vorschriften
+      NICHT Gegenstand der Prüfung waren — sie sind also verfassungsgerichtlich ungeprüft.
+  - datum: 2024-05-21
+    typ: endfassung
+    titel: Article 14 — LOI n° 2024-449 du 21 mai 2024
+    url: https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000049563396
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Adresse über die Trefferliste belegt; Abruf mit HTTP 403 beantwortet. Aufgenommen, weil die
+      Deepfake-Artikel im Verkündungstext in unmittelbarer Nachbarschaft stehen (Art. 14 und Art. 16 sind
+      über JORFARTI000049563396 bzw. …402 adressierbar).
+  sekundaerquelle_url:
+  - https://www.village-justice.com/articles/incrimination-des-deepfakes,56273.html
+  - https://kohenavocats.com/repression-penale-deepfake-pornographique-article-226-8-1-code-penal-chambre-criminelle-2022-2026/
+  - https://cyberjustice.blog/2025/03/17/lencadrement-legal-des-deepfakes/
+  offene_punkte:
+  - 'Der Wortlaut der Art. 226-8 und 226-8-1 code pénal konnte NICHT am amtlichen Text verifiziert werden
+    (Légifrance-Sperre). Die angegebenen Strafrahmen (226-8: ein Jahr / 15.000 Euro, online zwei Jahre
+    / 45.000 Euro; 226-8-1: zwei Jahre / 60.000 Euro, online drei Jahre / 75.000 Euro) sind deshalb als
+    unverifiziert zu behandeln.'
+  - Welche Artikelnummer des SREN-Gesetzes den Art. 226-8-1 c.p. eingefügt hat, ist nicht verifiziert;
+    in der Literatur werden Art. 15 und Art. 16 SREN genannt.
+  - Ob es seit 2024 höchstrichterliche Rechtsprechung der chambre criminelle zu Art. 226-8-1 c.p. gibt,
+    konnte nicht geprüft werden; eine Kanzleiveröffentlichung behauptet einen Überblick 2022-2026, ist
+    aber keine amtliche Quelle.
+  - Ob das Dekret zu Art. 31 SREN (Cloud) ergangen ist, wurde nicht geprüft.
+  monitoring_quellen:
+  - https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049563368
+  - https://www.courdecassation.fr/
+  - https://www.conseil-constitutionnel.fr/les-decisions
+  bezug_regelwerke:
+  - fr-cnil-recommandations-ia
+  - ki-vo-2024-1689
+  - dsa-2022-2065
+  letzte_pruefung: 2026-09-05
+- id: fr-designation-autorites-ia
+  jurisdiktion: fr
+  kurztitel: Projet de désignation der KI-VO-Behörden (DGE/DGCCRF)
+  offizieller_titel: Projet de désignation des autorités nationales compétentes pour la mise en œuvre
+    du règlement (UE) 2024/1689 (règlement sur l'intelligence artificielle)
+  fundstelle: Veröffentlichung von DGE und DGCCRF vom 9. September 2025 (kein Rechtsakt, kein JORF)
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Verwaltungspapier ohne Normqualität. DGE und DGCCRF haben am 09.09.2025 den Plan veröffentlicht,
+    wie Frankreich die nach der KI-Verordnung erforderlichen Behörden benennen will. Die verbindliche
+    Benennung soll erst durch Gesetz erfolgen (Art. 24 des DDADUE-Entwurfs), das bis zum Rechercheschluss
+    nicht verabschiedet ist. Frankreich hat die Frist des Art. 70 Abs. 2 KI-VO (2. August 2025) damit
+    verfehlt; ob und wann die Notifikation an die Kommission erfolgt ist, konnte nicht festgestellt werden.
+
+    '
+  kurzbeschreibung: 'Frankreich wählt bewusst eine dezentrale Governance: keine neue KI-Behörde, sondern
+    Zuweisung an die bestehenden Sektoraufsichten nach ihrer jeweiligen Sachkompetenz, mit der DGCCRF
+    als koordinierender Stelle und als „point de contact unique“ nach Art. 70 Abs. 2 KI-VO. Fachliche
+    Unterstützung leisten PEReN und ANSSI. Das ist das genaue Gegenmodell zur spanischen AESIA und unterscheidet
+    sich auch vom italienischen Zwei-Behörden-Modell (AgID/ACN).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-0
+  anwendungsdaten:
+  - datum: 2025-09-09
+    was_gilt: Veröffentlichung des Benennungsplans durch DGE und DGCCRF.
+    verifiziert: true
+    quelle: https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/ia-la-dgccrf-coordonnera-laction-des-autorites-de-surveillance-en-france
+  themenachsen:
+  - governance
+  - marktzugang
+  - sektor-finanz
+  - sektor-oeffentlich
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Grundentscheidung: dezentrale Organisation „fondée sur des autorités déjà existantes“. Keine neue
+    Agentur, keine Bündelung.'
+  - 'DGCCRF: koordinierende Stelle und point de contact unique; vertritt Frankreich in den europäischen
+    Marktüberwachungsgremien. Kontakt: reglement-ia@dgccrf.finances.gouv.fr; für die DGE reglement-ia.dge@finances.gouv.fr.'
+  - 'Verbotene Praktiken (Art. 5 KI-VO): subliminale/manipulative Techniken und Ausnutzung von Verletzlichkeit
+    → DGCCRF und Arcom; Social Scoring → CNIL und DGCCRF; Vorhersage von Straftaten, ungezieltes Scraping
+    von Gesichtsbildern, Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, biometrische
+    Kategorisierung und biometrische Fernidentifizierung zu Strafverfolgungszwecken → CNIL.'
+  - 'Hochrisiko nach Anhang III: CNIL für Biometrie, Beschäftigung, Migration/Grenzkontrolle, demokratische
+    Prozesse (mit Arcom), Justizverwaltung (mit Conseil d''État, Cour de cassation und Cour des comptes)
+    sowie Bildung und Berufsbildung (mit DGCCRF); ACPR für Bonitäts- und Versicherungsbewertungen; die
+    hauts fonctionnaires de défense et de sécurité für kritische Infrastrukturen.'
+  - 'Hochrisiko nach Anhang I: die jeweils produktrechtlich zuständigen Behörden (Maschinen, Spielzeug,
+    Medizinprodukte usw.). Die notifizierenden Behörden sind hier die Behörden des jeweiligen Produktrechts.'
+  - 'Transparenzpflichten (Art. 50 KI-VO): direkte Interaktion mit Menschen und synthetische Inhalte/Deepfakes
+    → DGCCRF und Arcom; Emotionserkennung → CNIL; Texte zu Fragen von öffentlichem Interesse → Arcom.'
+  - 'Technische Unterstützung: PEReN (Pôle d''expertise de la régulation numérique) und ANSSI.'
+  - 'Institutionelle Pointe: die CNIL wird faktisch zur wichtigsten KI-Aufsicht Frankreichs, ohne dies
+    förmlich zu sein. Für die grundrechtssensiblen Hochrisikofelder verlangt Art. 74 Abs. 8 KI-VO ohnehin
+    eine Behörde mit Unabhängigkeit — die CNIL erfüllt das, die DGCCRF als Verwaltungsdirektion des Wirtschaftsministeriums
+    nicht.'
+  - 'Offene Flanke: solange die Benennung nicht in einem Rechtsakt steht, fehlt den benannten Stellen
+    die Ermächtigungsgrundlage für Marktüberwachungsbefugnisse und Sanktionen nach Art. 99 KI-VO. Der
+    Plan ist ein Ankündigungsdokument, keine Kompetenznorm.'
+  dokumente:
+  - datum: 2025-09-09
+    typ: uebersicht
+    titel: Les autorités compétentes pour la mise en œuvre du règlement européen sur l'intelligence artificielle
+    url: https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-0
+    sprache: fr
+    urheber: Direction générale des Entreprises (DGE)
+    verifiziert: true
+    notiz: Selbst geöffnet. Die vollständige Zuständigkeitsmatrix (verbotene Praktiken, Anhang III, Anhang
+      I, Art. 50) mit den benannten Behörden.
+  - datum: 2025-09-09
+    typ: pressemitteilung
+    titel: 'IA : la DGCCRF coordonnera l''action des autorités de surveillance en France'
+    url: https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/ia-la-dgccrf-coordonnera-laction-des-autorites-de-surveillance-en-france
+    sprache: fr
+    urheber: Ministère de l'Économie, DGCCRF
+    verifiziert: true
+    notiz: Selbst geöffnet. Belegt die Koordinierungsrolle der DGCCRF und den Vorbehalt, dass die Governance
+      „par le biais d'un projet de loi“ dem Parlament vorgelegt werden muss.
+  - datum: 2025-09-09
+    typ: pressemitteilung
+    titel: La DGE et la DGCCRF publient le projet de désignation des autorités nationales en charge de
+      la mise en œuvre du règlement européen sur l'IA
+    url: https://www.entreprises.gouv.fr/espace-presse/la-dge-et-la-dgccrf-publient-le-projet-de-designation-des-autorites-nationales-en
+    sprache: fr
+    urheber: Direction générale des Entreprises (DGE)
+    verifiziert: true
+    notiz: Selbst geöffnet. Bestätigt Datum, Modell (dezentral, auf bestehenden Behörden aufbauend) und
+      die Notwendigkeit eines Gesetzes.
+  offene_punkte:
+  - Ob Frankreich der Europäischen Kommission die Behörden nach Art. 70 Abs. 2 KI-VO förmlich gemeldet
+    hat und wann, ist NICHT feststellbar. Weder die DGE- noch die DGCCRF-Seite nennt ein Notifikationsdatum.
+  - Ob es zu dem Benennungsplan eine förmliche öffentliche Konsultation mit Frist gab, ist nicht feststellbar.
+  - Die notifizierende Behörde nach Art. 28 KI-VO für Anhang-III-Systeme ist im Plan nicht ausdrücklich
+    benannt.
+  monitoring_quellen:
+  - https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-0
+  - https://www.economie.gouv.fr/dgccrf
+  - https://www.cnil.fr/fr/intelligence-artificielle
+  bezug_regelwerke:
+  - fr-ddadue-2026
+  - fr-cnil-recommandations-ia
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: fr-ddadue-2026
+  jurisdiktion: fr
+  kurztitel: 'DDADUE 2026 — Art. 24: gesetzliche Grundlage der KI-VO-Aufsicht'
+  offizieller_titel: Projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne
+    en matière économique, financière, environnementale, énergétique, d'information, de transport, de
+    santé, d'agriculture et de pêche
+  fundstelle: Sénat, texte n° 118 (2025-2026), déposé le 10 novembre 2025; Assemblée nationale, texte
+    n° 2518 (20 février 2026)
+  verfahrensnummer: PJL n° 118 (Sénat) / n° 2518 (AN, 17e législature); dossier AN DLR5L17N53140; procédure
+    accélérée engagée le 10.11.2025
+  status: verfahren
+  status_detail: 'Vom Senat am 18.02.2026 in erster Lesung angenommen (Text n° 63) und am 20.02.2026 an
+    die Assemblée nationale übermittelt. Dort liegt der Text seither in fünf Ausschüssen (federführend
+    commission des affaires économiques, mitberatend Rechts-, Nachhaltigkeits-, Finanz- und Kulturausschuss),
+    ohne dass ein Ausschussbericht oder eine Plenarberatung verzeichnet wäre. Der Stand ist seit über
+    sechs Monaten unverändert. Solange dieses Gesetz nicht verkündet ist, fehlt Frankreich die gesetzliche
+    Grundlage für die Benennung der Marktüberwachungsbehörden nach der KI-Verordnung.
+
+    '
+  kurzbeschreibung: 'Sammelgesetz zur Anpassung an das Unionsrecht mit rund siebzig Artikeln. Für das
+    KI-Recht sind zwei Bestimmungen einschlägig: Art. 24 unterstellt KI-Systeme den Vorgaben der Verordnung
+    (EU) 2024/1689 und soll die Zuständigkeitsverteilung zwischen Arcom, CNIL, DGE und DGCCRF regeln;
+    ein Regierungsänderungsantrag sollte die „répartition des compétences“ im Verfahren präzisieren. Art.
+    63 erweitert die Kontrollbefugnisse der Arbeitsaufsicht auf Verstöße gegen die Maschinen- und die
+    KI-Verordnung und sieht Sanktionen bis 50.000 Euro vor.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.senat.fr/dossier-legislatif/pjl25-118.html
+  anwendungsdaten:
+  - datum: 2026-02-18
+    was_gilt: Annahme in erster Lesung durch den Senat (Text n° 63).
+    verifiziert: true
+    quelle: https://www.senat.fr/dossier-legislatif/pjl25-118.html
+  - datum: 2026-02-20
+    was_gilt: Übermittlung an die Assemblée nationale (Text n° 2518); seither keine weitere Etappe.
+    verifiziert: true
+    quelle: https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140
+  themenachsen:
+  - governance
+  - marktzugang
+  - arbeit
+  - sektor-finanz
+  regelungsschwerpunkte:
+  - 'Art. 24: Unterstellung der KI-Systeme unter die Verordnung (EU) 2024/1689 und Zuweisung der Aufsicht.
+    Genannte Behörden: Arcom, CNIL, DGE, DGCCRF. Die genaue Kompetenzverteilung sollte durch Regierungsänderungsantrag
+    im Verfahren präzisiert werden.'
+  - 'Art. 63: Erweiterung der Ermittlungsbefugnisse im Arbeitsschutz auf „manquements aux règlements européens
+    sur les machines et sur l''intelligence artificielle“, mit Geldbußen bis 50.000 Euro. Das ist die
+    bislang einzige konkrete nationale Sanktionsnorm zur KI-Verordnung in einem französischen Gesetzestext.'
+  - 'Verfahrensrechtliche Pointe: die beschleunigte Verfahrensart (procédure accélérée) wurde am 10.11.2025
+    ausgelöst, hat aber nichts beschleunigt — der Text ruht seit Februar 2026 in der Assemblée nationale.
+    Der Grund dürfte in der Mehrheitslage liegen, nicht in der Sache.'
+  - 'Folge: Frankreich ist beim Anwendungsbeginn der Hochrisikovorschriften ohne benannte, mit Befugnissen
+    ausgestattete Marktüberwachungsbehörden. Die Sanktionsvorschriften des Art. 99 KI-VO verlangen von
+    den Mitgliedstaaten eigene Regeln; Frankreich hat sie nicht.'
+  dokumente:
+  - datum: 2025-11-10
+    typ: entwurf
+    titel: Projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne …,
+      n° 118 (2025-2026)
+    url: https://www.senat.fr/leg/pjl25-118.pdf
+    sprache: fr
+    urheber: Gouvernement / Sénat
+    verifiziert: false
+    notiz: Amtlicher Volltext des Entwurfs. Nicht selbst geöffnet; die inhaltlichen Angaben stammen aus
+      der amtlichen Zusammenfassung des Senats (l'essentiel).
+  - datum: 2026-02-18
+    typ: uebersicht
+    titel: L'essentiel — Ddadue 2026 (pjl25-118)
+    url: https://www.senat.fr/lessentiel/pjl25-118.pdf
+    sprache: fr
+    urheber: Sénat
+    verifiziert: true
+    notiz: Selbst geöffnet. Amtliche Kurzdarstellung; Quelle für Art. 24 (KI-VO) und Art. 63 (Arbeitsaufsicht,
+      50.000 Euro).
+  - datum: 2025-11-10
+    typ: folgenabschaetzung
+    titel: Étude d'impact du projet de loi portant diverses dispositions d'adaptation au droit de l'Union
+      européenne
+    url: https://www.senat.fr/leg/etudes-impact/pjl25-118-ei/pjl25-118-ei.pdf
+    sprache: fr
+    urheber: Gouvernement
+    verifiziert: true
+    notiz: 'Selbst geöffnet. Bemerkenswert unergiebig: zum KI-Artikel nennt die Folgenabschätzung weder
+      die zu benennenden Behörden noch die zu ändernden Vorschriften noch das Sanktionsregime, sondern
+      gibt nur den Regelungsauftrag der KI-Verordnung wieder.'
+  - datum: 2026-02-20
+    typ: uebersicht
+    titel: Dossier législatif — Adaptation au droit de l'Union européenne (Assemblée nationale)
+    url: https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140
+    sprache: fr
+    urheber: Assemblée nationale
+    verifiziert: true
+    notiz: Selbst geöffnet; belegt den Stillstand in der Assemblée nationale seit dem 20.02.2026.
+  offene_punkte:
+  - Der Wortlaut des Art. 24 in der vom Senat angenommenen Fassung (Text n° 63) ist nicht erfasst; die
+    Zuständigkeitsverteilung ist damit rechtlich nicht fixiert.
+  - Ob der angekündigte Regierungsänderungsantrag zur Kompetenzverteilung eingebracht und angenommen wurde,
+    ist nicht geprüft.
+  - Ob ein eigenes nationales Sanktionsregime nach Art. 99 KI-VO über Art. 63 hinaus vorgesehen ist, ist
+    offen.
+  monitoring_quellen:
+  - https://www.senat.fr/dossier-legislatif/pjl25-118.html
+  - https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140
+  bezug_regelwerke:
+  - fr-designation-autorites-ia
+  - fr-arbeit-cse
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: fr-cnil-recommandations-ia
+  jurisdiktion: fr
+  kurztitel: CNIL — Empfehlungen zur Entwicklung von KI-Systemen (DSGVO)
+  offizieller_titel: Recommandations de la CNIL sur le développement des systèmes d'intelligence artificielle
+    (fiches pratiques IA)
+  fundstelle: cnil.fr, fiches pratiques IA; erste Veröffentlichung 2024, Finalisierung 22. Juli 2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Fortlaufend erweiterte Empfehlungssammlung ohne Bindungswirkung. Die CNIL hat die Empfehlungen
+    in mehreren Wellen nach öffentlicher Konsultation verabschiedet: erste Merkblätter 2024, Empfehlungen
+    zu Information der Betroffenen und Ausübung der Betroffenenrechte am 07.02.2025, Empfehlungen zum
+    berechtigten Interesse einschließlich Web-Scraping, Finalisierung dreier weiterer Merkblätter am 22.07.2025
+    (DSGVO-Anwendbarkeit auf Modelle, Annotation, Sicherheit der Entwicklung). Angekündigt sind sektorale
+    Empfehlungen (Bildung, Gesundheit, Arbeitswelt) und Arbeiten zur Verantwortungsverteilung in der KI-Wertschöpfungskette.
+    Im August 2026 hat die CNIL zusätzlich ein Werkzeug zur Rückverfolgbarkeit quelloffener Modelle aktualisiert
+    und gemeinsam mit dem Conseil de l''IA et du Numérique zu agentischer KI publiziert.
+
+    '
+  kurzbeschreibung: 'Die CNIL ist faktisch Frankreichs KI-Regulierer, obwohl sie es formal nicht ist.
+    Ihre Empfehlungen führen durch elf Schritte der Entwicklungsphase — Zweckbestimmung, Rollenverteilung
+    (Verantwortlicher/Auftragsverarbeiter), Rechtsgrundlage, Zulässigkeit der Weiterverwendung, Datenminimierung,
+    Speicherdauer, Information der Betroffenen, Ermöglichung der Betroffenenrechte, Sicherheit, rechtliche
+    Einordnung des Modells selbst und Annotation — ergänzt um einen Schwerpunkt zur Datenschutz-Folgenabschätzung.
+    Die praktisch wichtigste Aussage: das berechtigte Interesse (Art. 6 Abs. 1 lit. f DSGVO) kann Rechtsgrundlage
+    für die Entwicklung von KI-Systemen sein, auch bei Web-Scraping, wenn bestimmte Garantien eingehalten
+    werden. Adressaten sind Anbieter und Entwickler; Sanktionen ergeben sich nicht aus den Empfehlungen,
+    sondern aus der DSGVO.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.cnil.fr/fr/developpement-des-systemes-dia-les-recommandations-de-la-cnil-pour-respecter-le-rgpd
+  anwendungsdaten:
+  - datum: 2025-02-07
+    was_gilt: Endgültige Empfehlungen zur Information der betroffenen Personen und zur Ausübung der Betroffenenrechte
+      nach öffentlicher Konsultation.
+    verifiziert: true
+    quelle: https://www.cnil.fr/fr/ia-et-rgpd-la-cnil-publie-ses-nouvelles-recommandations-pour-accompagner-une-innovation-responsable
+  - datum: 2025-07-22
+    was_gilt: 'Finalisierung dreier weiterer Merkblätter: Anwendbarkeit der DSGVO auf KI-Modelle, Annotation
+      der Trainingsdaten, Sicherheit der Entwicklung.'
+    verifiziert: true
+    quelle: https://www.cnil.fr/fr/ia-finalisation-recommandations-developpement-des-systemes-ia
+  themenachsen:
+  - datenschutz
+  - gpai
+  - governance
+  - urheberrecht
+  regelungsschwerpunkte:
+  - 'Berechtigtes Interesse als Rechtsgrundlage: „L''intérêt légitime est une base légale possible pour
+    le développement des systèmes d''IA“ — mit Garantien: Ausschluss bestimmter Datenkategorien schon
+    bei der Erhebung, gesteigerte Transparenz, freiwillige Widerspruchsmöglichkeit (Opt-out), Beschränkung
+    auf pseudonymisierte oder anonymisierte Daten.'
+  - 'Web-Scraping (fiche 8 bis „focus moissonnage“): die CNIL erklärt das Abgreifen öffentlich zugänglicher
+    Daten nicht pauschal für unzulässig, sondern stellt Kriterien auf. Das ist der französische Gegenpol
+    zur restriktiveren Linie mancher anderer Aufsichtsbehörden.'
+  - 'Fiche 13 „Analyser le statut d''un modèle d''IA“: Frage, ob ein trainiertes Modell selbst personenbezogene
+    Daten enthält. Die CNIL schlägt technische Lösungen wie robuste Filter auf Systemebene vor. Das ist
+    die dogmatisch heikelste Position — sie entscheidet darüber, ob Betroffenenrechte am Modell selbst
+    geltend gemacht werden können.'
+  - 'Betroffenenrechte: „Lorsque des données personnelles servent à l''entraînement d''un modèle d''IA
+    […] les personnes concernées doivent être informées.“ Auskunft, Berichtigung, Widerspruch und Löschung
+    sind zu ermöglichen; die CNIL akzeptiert Erleichterungen, wo die Ausübung technisch unmöglich oder
+    unverhältnismäßig aufwendig wäre.'
+  - 'PANAME: Projekt zur Entwicklung technischer Werkzeuge, mit denen geprüft werden kann, ob ein Modell
+    personenbezogene Daten memorisiert hat.'
+  - 'Rechtsnatur: die Empfehlungen sind nicht verbindlich; sie binden aber die CNIL selbst faktisch bei
+    der Ausübung ihrer Aufsichts- und Sanktionsbefugnisse und sind damit für die Praxis maßgeblich.'
+  - 'Institutionelle Doppelrolle: die CNIL ist zugleich Datenschutzaufsicht nach der DSGVO und — nach
+    dem Benennungsplan von DGE und DGCCRF — künftige Marktüberwachungsbehörde für die grundrechtssensiblen
+    Hochrisikofelder und für mehrere verbotene Praktiken der KI-Verordnung.'
+  dokumente:
+  - datum: 2025-07-22
+    typ: leitlinie
+    titel: Les fiches pratiques IA (Gesamtübersicht der Empfehlungen)
+    url: https://www.cnil.fr/fr/les-fiches-pratiques-ia
+    sprache: fr
+    urheber: CNIL
+    verifiziert: true
+    notiz: Selbst geöffnet. Enthält Synthesefiche, Einleitung und die Fiches 1 bis 13 einschließlich der
+      Fiche 8 bis zum Web-Scraping.
+  - datum: 2025-07-22
+    typ: pressemitteilung
+    titel: 'IA : la CNIL finalise ses recommandations sur le développement des systèmes d''IA et annonce
+      ses futurs travaux'
+    url: https://www.cnil.fr/fr/ia-finalisation-recommandations-developpement-des-systemes-ia
+    sprache: fr
+    urheber: CNIL
+    verifiziert: true
+    notiz: Selbst geöffnet. Datiert die Finalisierung und kündigt sektorale Empfehlungen (Bildung, Gesundheit,
+      Arbeit) sowie Arbeiten zur Verantwortungskette an.
+  - datum: 2025-02-07
+    typ: leitlinie
+    titel: 'IA et RGPD : la CNIL publie ses nouvelles recommandations pour accompagner une innovation
+      responsable'
+    url: https://www.cnil.fr/fr/ia-et-rgpd-la-cnil-publie-ses-nouvelles-recommandations-pour-accompagner-une-innovation-responsable
+    sprache: fr
+    urheber: CNIL
+    verifiziert: true
+    notiz: Selbst geöffnet. Endgültige Fassung der Empfehlungen zu Information und Betroffenenrechten
+      nach öffentlicher Konsultation.
+  - datum: 2025-06-19
+    typ: leitlinie
+    titel: 'Développement des systèmes d''IA : la CNIL publie ses recommandations sur l''intérêt légitime'
+    url: https://www.cnil.fr/fr/recommandations-developpement-ia-interet-legitime
+    sprache: fr
+    urheber: CNIL
+    verifiziert: true
+    notiz: Selbst geöffnet. Kernaussage zum berechtigten Interesse und zum Web-Scraping. Das genaue Veröffentlichungsdatum
+      ist auf der Seite nicht eindeutig ausgewiesen und daher nur näherungsweise angegeben.
+  - datum: 2025-07-01
+    typ: leitlinie
+    titel: 'Développement des systèmes d''IA : que faut-il vérifier ? (Prüfliste)'
+    url: https://www.cnil.fr/sites/default/files/2025-07/ia_liste_de_verification.pdf
+    sprache: fr
+    urheber: CNIL
+    verifiziert: false
+    notiz: Amtliche Prüfliste der CNIL; Adresse über die Trefferliste belegt, nicht selbst geöffnet.
+  - datum: 2026-08-01
+    typ: uebersicht
+    titel: Intelligence artificielle — Themenseite der CNIL
+    url: https://www.cnil.fr/fr/intelligence-artificielle
+    sprache: fr
+    urheber: CNIL
+    verifiziert: true
+    notiz: 'Selbst geöffnet (Stand August 2026). Belegt die jüngsten Arbeiten: Aktualisierung des Werkzeugs
+      zur Rückverfolgbarkeit quelloffener Modelle, gemeinsame Publikation mit dem Conseil de l''IA et
+      du Numérique zu agentischer KI, Arbeiten zu konversationeller KI und psychischer Gesundheit Jugendlicher.
+      Das Datum ist der Seitenstand, nicht das Datum einer einzelnen Veröffentlichung.'
+  offene_punkte:
+  - SANKTIONSENTSCHEIDUNGEN DER CNIL MIT KI-BEZUG KONNTEN NICHT ERMITTELT WERDEN. Die Seite cnil.fr/fr/deliberations
+    antwortet mit HTTP 403, das Suchkontingent war erschöpft. Ob die formation restreinte 2025 oder 2026
+    Geldbußen wegen KI-bezogener Verstöße verhängt hat, ist offen.
+  - Die angekündigten sektoralen Empfehlungen (Gesundheit, Arbeit, Bildung) sind nicht nachgewiesen; ob
+    sie erschienen sind, ist offen.
+  - Die gemeinsame Publikation mit dem „Conseil de l'IA et du Numérique“ zu agentischer KI ist nur über
+    die Themenseite belegt; Titel, Datum und Fundstelle fehlen.
+  - Das Veröffentlichungsdatum der Empfehlung zum berechtigten Interesse ist nicht gesichert.
+  monitoring_quellen:
+  - https://www.cnil.fr/fr/intelligence-artificielle
+  - https://www.cnil.fr/fr/les-fiches-pratiques-ia
+  - https://www.cnil.fr/fr/les-decisions-de-la-cnil
+  bezug_regelwerke:
+  - fr-designation-autorites-ia
+  - fr-lil-art-47
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  letzte_pruefung: 2026-09-04
+- id: fr-lil-art-47
+  jurisdiktion: fr
+  kurztitel: Art. 47 loi Informatique et Libertés — algorithmische Verwaltungsentscheidungen
+  offizieller_titel: Article 47 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers
+    et aux libertés (décision administrative individuelle prise sur le fondement d'un traitement algorithmique)
+  fundstelle: Loi n° 78-17 du 6 janvier 1978, art. 47 (Fassung nach der loi n° 2018-493 du 20 juin 2018
+    und der ordonnance n° 2018-1125 du 12 décembre 2018)
+  verfahrensnummer: null
+  status: anwendbar
+  status_detail: 'Geltendes Recht. Art. 47 setzt Art. 22 DSGVO um und lässt für die Verwaltung eine Ausnahme
+    vom Verbot der ausschließlich automatisierten Einzelentscheidung zu — unter Bedingungen, die der Conseil
+    constitutionnel in der Entscheidung n° 2018-765 DC vom 12.06.2018 präzisiert und teilweise verschärft
+    hat. Die Rechtsprechung zu Parcoursup (Conseil constitutionnel n° 2020-834 QPC; Conseil d''État n°
+    427916) bildet die praktische Anwendungslinie.
+
+    '
+  kurzbeschreibung: 'Frankreich hat mit Art. 47 loi 78-17 eine Regelung, die es in dieser Form in kaum
+    einem anderen Mitgliedstaat gibt: die Verwaltung darf Einzelentscheidungen allein auf ein algorithmisches
+    Verfahren stützen, wenn drei Bedingungen erfüllt sind — die Entscheidung nennt ausdrücklich, dass
+    ein Algorithmus verwendet wurde, gegen sie steht ein Verwaltungsrechtsbehelf offen, und der Verantwortliche
+    muss die Verarbeitung so beherrschen, dass er sie dem Betroffenen im Einzelnen und in verständlicher
+    Form erklären kann. Sensible Daten (Art. 9 DSGVO) sind ausgeschlossen. Der Conseil constitutionnel
+    hat daraus ein Verbot selbstlernender Systeme in diesem Bereich abgeleitet.
+
+    '
+  inkrafttreten:
+    datum: 2019-06-01
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/eli/ordonnance/2018/12/12/2018-1125/jo/texte
+    fundstelle_norm: 'Art. 29 der Ordonnance n° 2018-1125 du 12 décembre 2018 (JORF n°0288 vom 13.12.2018):
+      "Les dispositions de la présente ordonnance entrent en vigueur en même temps que le décret modifiant
+      le décret n° 2005-1309 ..., et au plus tard le 1er juin 2019." Erst diese Ordonnance hat die loi
+      Informatique et Libertés neu nummeriert; die Vorschrift trägt seit dem 01.06.2019 die Nummer 47.
+      Zuvor gespeichert: 21.06.2018 (Tag der Veröffentlichung der loi n° 2018-493, die die Vorgängerfassung
+      als Art. 10 LIL geändert hatte).'
+  anwendungsdaten:
+  - datum: 2018-06-12
+    was_gilt: 'Conseil constitutionnel n° 2018-765 DC: Konformität unter Auslegungsvorbehalten; Verbot
+      selbstlernender Algorithmen als alleinige Entscheidungsgrundlage.'
+    verifiziert: true
+    quelle: https://www.conseil-constitutionnel.fr/decision/2018/2018765DC.htm
+  - datum: 2020-04-03
+    was_gilt: 'Conseil constitutionnel n° 2020-834 QPC: Transparenzpflicht der Hochschulen nach Abschluss
+      des Verfahrens (réserve d''interprétation, Rn. 17).'
+    verifiziert: true
+    quelle: https://www.conseil-constitutionnel.fr/decision/2020/2020834QPC.htm
+  themenachsen:
+  - sektor-oeffentlich
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Ausnahme vom Verbot der automatisierten Einzelentscheidung für Verwaltungsakte, gebunden an drei
+    kumulative Bedingungen: ausdrückliche Nennung des algorithmischen Fundaments in der Entscheidung,
+    Eröffnung eines Verwaltungsrechtsbehelfs, Beherrschbarkeit und Erklärbarkeit der Verarbeitung.'
+  - 'Auslegungsvorbehalt des Conseil constitutionnel (n° 2018-765 DC, Rn. 71): der Verantwortliche muss
+    „la maîtrise du traitement algorithmique et de ses évolutions“ sicherstellen, um ihn „en détail et
+    sous une forme intelligible“ erklären zu können. Daraus folgt: Algorithmen, die ihre eigenen Regeln
+    ohne Kontrolle und Validierung des Verantwortlichen ändern können, dürfen NICHT alleinige Grundlage
+    einer Verwaltungsentscheidung sein.'
+  - 'Juristische Tragweite: das ist ein verfassungsrechtliches Verbot selbstlernender Systeme im Verwaltungsverfahren
+    — mehrere Jahre vor der KI-Verordnung und schärfer als deren Art. 14 (menschliche Aufsicht), weil
+    es an der Erklärbarkeit und nicht an der Aufsicht ansetzt.'
+  - 'Weitere Garantien (Rn. 70): keine ausschließlich automatisierte Entscheidung auf der Grundlage sensibler
+    Daten; im Rechtsbehelfsverfahren darf sich die Behörde nicht allein auf den Algorithmus stützen.'
+  - 'Parcoursup als Anwendungsfall: Conseil constitutionnel n° 2020-834 QPC vom 03.04.2020 zum letzten
+    Absatz des Art. L. 612-3 I code de l''éducation — konform unter dem Vorbehalt (Rn. 17), dass die Hochschulen
+    nach Abschluss des Zulassungsverfahrens die Kriterien veröffentlichen, nach denen die Bewerbungen
+    geprüft wurden, unter Angabe des Einsatzes von Algorithmen.'
+  - 'Conseil d''État, 12.06.2019, n° 427916, Université des Antilles c/ UNEF: die bildungsrechtliche Sonderregel
+    verdrängt die allgemeine Transparenzpflicht; ein Anspruch Dritter auf Offenlegung der „algorithmes
+    locaux“ und des Quellcodes besteht nicht, der Zugang ist auf die Bewerber beschränkt. Die Entscheidung
+    ist der Grund dafür, dass der Conseil constitutionnel 2020 nachsteuern musste.'
+  - 'Spannungsverhältnis: Frankreich hat damit zwei gegenläufige Linien — eine strenge Erklärbarkeitsanforderung
+    an die Verwaltung (2018) und eine enge Auslegung des Zugangsrechts Dritter zu den Algorithmen (2019),
+    abgemildert durch eine nachträgliche Veröffentlichungspflicht (2020).'
+  dokumente:
+  - datum: 2018-06-12
+    typ: endfassung
+    titel: Décision n° 2018-765 DC du 12 juin 2018 — Loi relative à la protection des données personnelles
+    url: https://www.conseil-constitutionnel.fr/decision/2018/2018765DC.htm
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: true
+    notiz: Selbst geöffnet. Rn. 66-72; Auslegungsvorbehalte zur Erklärbarkeit und das Verbot selbstlernender
+      Algorithmen als alleinige Entscheidungsgrundlage.
+  - datum: 2020-04-03
+    typ: endfassung
+    titel: Décision n° 2020-834 QPC du 3 avril 2020 — Union nationale des étudiants de France (Communicabilité
+      et publicité des algorithmes mis en œuvre par les établissements d'enseignement supérieur)
+    url: https://www.conseil-constitutionnel.fr/decision/2020/2020834QPC.htm
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: true
+    notiz: 'Selbst geöffnet. Konformität mit Vorbehalt (Rn. 17): Veröffentlichungspflicht der Prüfkriterien
+      einschließlich des Algorithmuseinsatzes nach Abschluss des Verfahrens.'
+  - datum: 2019-06-12
+    typ: endfassung
+    titel: Conseil d'État, 4e et 1re chambres réunies, 12 juin 2019, n° 427916, Université des Antilles
+      c/ UNEF (ECLI:FR:CECHR:2019:427916.20190612)
+    url: https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2019-06-12/427916
+    sprache: fr
+    urheber: Conseil d'État
+    verifiziert: true
+    notiz: Selbst geöffnet. Aufhebung des erstinstanzlichen Urteils; kein Offenlegungsanspruch Dritter
+      auf die lokalen Algorithmen von Parcoursup.
+  - datum: 2018-06-20
+    typ: endfassung
+    titel: Article 47 — Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+      libertés
+    url: https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068624/
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Kanonische Fundstelle des Stammgesetzes. Die LEGIARTI-Kennung des Art. 47 konnte nicht ermittelt
+      werden (Suchkontingent erschöpft); der Abruf von Légifrance-Übersichtsseiten scheitert an HTTP 403.
+      Der Wortlaut ist NICHT am amtlichen Text geprüft.
+  offene_punkte:
+  - Der Wortlaut des Art. 47 loi 78-17 in der geltenden Fassung ist nicht am amtlichen Text verifiziert;
+    die Darstellung stützt sich auf die Entscheidung 2018-765 DC, die die Bedingungen wiedergibt.
+  - Die LEGIARTI-Kennung des Artikels fehlt, deshalb steht in `url` nur die Adresse des Stammgesetzes.
+  - Neuere Rechtsprechung des Conseil d'État zu Art. 47 (nach 2020) wurde nicht ermittelt.
+  monitoring_quellen:
+  - https://www.conseil-constitutionnel.fr/les-decisions
+  - https://www.conseil-etat.fr/decisions-de-justice/dernieres-decisions
+  - https://www.cnil.fr/fr/les-decisions-de-la-cnil
+  bezug_regelwerke:
+  - fr-cnil-recommandations-ia
+  - ki-vo-2024-1689
+  - dsgvo-schnittstelle
+  letzte_pruefung: 2026-09-05
+- id: fr-cpi-tdm
+  jurisdiktion: fr
+  kurztitel: Art. L. 122-5-3 CPI — Text- und Data-Mining-Schranke
+  offizieller_titel: Article L. 122-5-3 du code de la propriété intellectuelle (fouille de textes et de
+    données), issu de l'ordonnance n° 2021-1518 du 24 novembre 2021 transposant la directive (UE) 2019/790
+  fundstelle: Code de la propriété intellectuelle, art. L. 122-5-3; Umsetzung des Art. 4 der Richtlinie
+    (EU) 2019/790
+  verfahrensnummer: Ordonnance n° 2021-1518 du 24 novembre 2021
+  status: anwendbar
+  status_detail: 'Geltendes Recht und derzeit die einzige urheberrechtliche Rechtsgrundlage, auf die sich
+    KI-Anbieter in Frankreich für das Training mit geschützten Werken berufen. Die Vorschrift setzt Art.
+    4 der DSM-Richtlinie um: allgemeine TDM-Schranke mit Vorbehalt eines maschinenlesbaren Nutzungsvorbehalts
+    (opt-out). Das französische Parlament arbeitet an einer Korrektur der Beweislast, nicht an einer Änderung
+    der Schranke selbst.
+
+    '
+  kurzbeschreibung: 'Die Schranke erlaubt Vervielfältigung und Extraktion geschützter Inhalte zum Zweck
+    der Text- und Datenanalyse, sofern der Rechtsinhaber die Nutzung nicht ausdrücklich und in geeigneter
+    Weise vorbehalten hat — bei online zugänglichen Inhalten insbesondere durch maschinenlesbare Verfahren.
+    Adressiert sind alle, die Inhalte automatisiert auswerten, also auch Anbieter generativer Modelle.
+    Sanktionen enthält die Norm nicht; sie wirkt als Einwendung gegen den urheberrechtlichen Unterlassungs-
+    und Schadensersatzanspruch. Der Kulturausschuss des Senats hält den opt-out-Mechanismus mangels Transparenz
+    für praktisch wirkungslos („L''opt-out n''est […] pas toujours respecté par les fournisseurs d''IA");
+    die Assemblée nationale nennt ihn im Ausschussbericht einen „doux rêve“.
+
+    '
+  inkrafttreten:
+    datum: 2021-11-26
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/eli/ordonnance/2021/11/24/2021-1518/jo/texte
+    fundstelle_norm: Ordonnance n° 2021-1518 du 24 novembre 2021, veröffentlicht im JORF n°0274 vom 25.11.2021,
+      Texte n°15. Die Ordonnance enthält keine eigene Inkrafttretensbestimmung; es gilt Art. 1 Abs. 1
+      Code civil (Inkrafttreten am Tag nach der Veröffentlichung).
+  anwendungsdaten: []
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - content
+  regelungsschwerpunkte:
+  - 'Umsetzung des Art. 4 der Richtlinie (EU) 2019/790: allgemeine TDM-Schranke für alle Nutzer, nicht
+    nur für Forschungseinrichtungen (diese sind über Art. 3 der Richtlinie und Art. L. 122-5-3 I CPI privilegiert
+    und können sich nicht durch opt-out ausschließen lassen).'
+  - 'Opt-out-Bedingung im Wortlaut der Richtlinie, den der AN-Bericht zitiert: „à condition que l''utilisation
+    des œuvres et autres objets protégés visés audit paragraphe n''ait pas été expressément réservée par
+    leurs titulaires de droits de manière appropriée, notamment par des procédés lisibles par machine
+    pour les contenus mis à la disposition du public en ligne“.'
+  - 'Strukturproblem: Ohne Transparenz über die Trainingsdaten kann der Rechtsinhaber weder feststellen,
+    ob sein Werk genutzt wurde, noch ob sein Vorbehalt beachtet wurde. Art. 53 Abs. 1 lit. c und d KI-VO
+    (Urheberrechtspolitik und hinreichend detaillierte Zusammenfassung der Trainingsdaten) soll das lösen;
+    der Senat hält das für unzureichend.'
+  - 'Französische Reaktion: nicht Abschaffung der Schranke, sondern Umkehr der Beweislast durch eine widerlegliche
+    Nutzungsvermutung (siehe fr-ppl-presomption-ia).'
+  dokumente:
+  - datum: 2021-11-24
+    typ: endfassung
+    titel: Article L. 122-5-3 du code de la propriété intellectuelle
+    url: https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414/
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Die LEGIARTI-Kennung des Einzelartikels konnte nicht ermittelt werden (Suchkontingent erschöpft);
+      Légifrance-Übersichtsseiten antworten mit HTTP 403. Angegeben ist deshalb nur die Adresse des Kodex.
+      Der Wortlaut ist NICHT am amtlichen Text geprüft.
+  - datum: 2026-04-01
+    typ: ausschussbericht
+    titel: Rapport n° 496 (2025-2026) de Mme Laure Darcos, fait au nom de la commission de la culture,
+      de l'éducation, de la communication et du sport du Sénat
+    url: https://www.senat.fr/rap/l25-496/l25-4961.pdf
+    sprache: fr
+    urheber: Sénat, commission de la culture
+    verifiziert: true
+    notiz: Selbst geöffnet. Amtliche Darstellung des geltenden TDM-Rechts und der Wirkungslosigkeit des
+      opt-out.
+  sekundaerquelle_url: []
+  offene_punkte:
+  - Der amtliche Wortlaut des Art. L. 122-5-3 CPI ist nicht verifiziert.
+  - Ob es französische Gerichtsentscheidungen zur Reichweite der TDM-Schranke gegenüber generativen Modellen
+    gibt, konnte nicht geprüft werden.
+  - Die Auswirkungen des europäischen „omnibus numérique“ auf die TDM-Schranke sind offen; der Senat rügt
+    in seinem Bericht n° 626 (13.05.2026) ausdrücklich, dass das Omnibus-Paket die Urheberrechtsfrage
+    bei KI ungeregelt lässt.
+  monitoring_quellen:
+  - https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414/
+  - https://www.senat.fr/dossier-legislatif/ppl25-220.html
+  bezug_regelwerke:
+  - fr-ppl-presomption-ia
+  - ki-vo-2024-1689
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  letzte_pruefung: 2026-09-05
+- id: fr-ppl-presomption-ia
+  jurisdiktion: fr
+  kurztitel: PPL Darcos — Nutzungsvermutung zulasten der KI-Anbieter
+  offizieller_titel: Proposition de loi relative à l'instauration d'une présomption d'exploitation des
+    contenus culturels par les fournisseurs d'intelligence artificielle
+  fundstelle: Sénat, texte n° 220 (2025-2026) du 12 décembre 2025; texte adopté n° 85 du 8 avril 2026;
+    Assemblée nationale, texte n° 2864
+  verfahrensnummer: PPL n° 220 (Sénat) / n° 2864 (AN, 17e législature); dossier AN DLR5L17N53359
+  status: verfahren
+  status_detail: 'Am 12.12.2025 von Laure Darcos und weiteren Senatoren eingebracht. Der Conseil d''État
+    hat auf Ersuchen des Senatspräsidenten am 23.03.2026 verfassungsrechtliche Bedenken ausgeräumt; der
+    Kulturausschuss hat den Text einstimmig angenommen (Bericht n° 496 vom 01.04.2026, Berichterstatterin
+    Laure Darcos), das Plenum des Senats am 08.04.2026 (Text n° 85). Übermittlung an die Assemblée nationale
+    am 09.04.2026; der Kulturausschuss der Assemblée hat den Text am 02.06.2026 ohne Änderungen angenommen
+    (Bericht n° 2864, Berichterstatter Emmanuel Maurel), sechzehn Änderungsanträge lagen vor. Die Plenarberatung
+    der Assemblée steht bis zum Rechercheschluss aus.
+
+    '
+  kurzbeschreibung: 'Einartikelgesetz mit erheblicher Sprengkraft: ein neuer Art. L. 331-4-1 CPI stellt
+    eine widerlegliche Vermutung auf, dass ein geschütztes Werk von einem Anbieter eines KI-Modells oder
+    -Systems genutzt wurde, sobald Indizien diese Nutzung wahrscheinlich machen — genannt werden die Erzeugung
+    von Inhalten „à la manière de“ einem Urheber, die Wiedergabe von Auszügen (Regurgitation) und technische
+    Gutachten. Die Beweislast kehrt sich um: nicht der Urheber muss die Nutzung nachweisen, sondern der
+    Anbieter das Gegenteil. Ergänzt wird eine Anpassung des Art. L. 811-1-1 CPI (Anwendungsbereich in
+    den Überseegebieten).
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.senat.fr/dossier-legislatif/ppl25-220.html
+  anwendungsdaten:
+  - datum: 2026-04-08
+    was_gilt: Annahme durch den Senat in erster Lesung (Text n° 85).
+    verifiziert: true
+    quelle: https://www.senat.fr/leg/tas25-085.html
+  - datum: 2026-06-02
+    was_gilt: Annahme durch den Kulturausschuss der Assemblée nationale ohne Änderungen (Bericht n° 2864).
+    verifiziert: true
+    quelle: https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b2864_rapport-fond.pdf
+  themenachsen:
+  - urheberrecht
+  - gpai
+  - haftung
+  - content
+  regelungsschwerpunkte:
+  - 'Neuer Art. L. 331-4-1 CPI: „Sauf preuve contraire, […] l''œuvre ou l''objet protégé […] est présumé
+    avoir été utilisé par le fournisseur du modèle ou du système d''intelligence artificielle, dès lors
+    qu''un indice“ die Nutzung wahrscheinlich macht.'
+  - 'Indizien nach der Ausschussbegründung: Erzeugung von Inhalten in der Manier eines bestimmten Urhebers,
+    Regurgitation von Werkauszügen, technische Sachverständigenfeststellungen.'
+  - 'Wirkung: eine „présomption simple ou réfragable“ — der Anbieter kann sie widerlegen, muss dazu aber
+    offenlegen, womit er trainiert hat. Die Norm wirkt damit mittelbar als Transparenzhebel, ohne eine
+    Transparenzpflicht zu statuieren.'
+  - 'Verfassungsrechtliche Absicherung: der Senat hat den Conseil d''État um eine Stellungnahme ersucht
+    (Ergebnis am 23.03.2026 mitgeteilt); erst danach hat der Ausschuss den Text einstimmig angenommen.
+    Das ist der seltene Fall einer parlamentarischen Initiative mit vorheriger Prüfung durch den Conseil
+    d''État nach Art. 39 Abs. 5 der Verfassung.'
+  - 'Verhältnis zum Unionsrecht: die Vermutung greift nicht in die TDM-Schranke ein, sondern in das Beweisrecht.
+    Ob das mit dem unionsrechtlichen Grundsatz der Verhältnismäßigkeit und mit Art. 53 KI-VO vereinbar
+    ist, ist die zentrale Streitfrage.'
+  - 'Kammerübergreifende Einstimmigkeit: sowohl der Senatsausschuss als auch der Ausschuss der Assemblée
+    haben den Text einstimmig bzw. unverändert angenommen — ein für dieses Parlament ungewöhnlicher Befund
+    und ein Indiz dafür, dass die Initiative Gesetz werden könnte.'
+  dokumente:
+  - datum: 2026-04-08
+    typ: abstimmung
+    titel: Proposition de loi relative à l'instauration d'une présomption d'utilisation des contenus culturels
+      par les fournisseurs d'intelligence artificielle — texte adopté n° 85
+    url: https://www.senat.fr/leg/tas25-085.html
+    sprache: fr
+    urheber: Sénat
+    verifiziert: true
+    notiz: 'Selbst geöffnet. Amtlicher Wortlaut des vom Senat angenommenen Textes: neuer Art. L. 331-4-1
+      CPI und Änderung des Art. L. 811-1-1 CPI.'
+  - datum: 2026-04-01
+    typ: ausschussbericht
+    titel: Rapport n° 496 (2025-2026) — Volltext (HTML)
+    url: https://www.senat.fr/rap/l25-496/l25-4960.html
+    sprache: fr
+    urheber: Sénat, commission de la culture
+    verifiziert: true
+    notiz: Selbst geöffnet. Enthält die Begründung, die Kritik am opt-out und den Hinweis auf die Stellungnahme
+      des Conseil d'État.
+  - datum: 2026-06-02
+    typ: ausschussbericht
+    titel: Rapport n° 2864, commission des affaires culturelles et de l'éducation de l'Assemblée nationale,
+      rapporteur Emmanuel Maurel
+    url: https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b2864_rapport-fond.pdf
+    sprache: fr
+    urheber: Assemblée nationale
+    verifiziert: true
+    notiz: Selbst geöffnet. Annahme ohne Änderungen am 02.06.2026; Zitat des Art. 4 Abs. 3 der DSM-Richtlinie
+      und die Charakterisierung des opt-out als „doux rêve“.
+  - datum: 2026-03-23
+    typ: pressemitteilung
+    titel: Le Sénat reçoit le feu vert du Conseil d'État pour instaurer une présomption d'utilisation
+      des contenus culturels par les fournisseurs d'intelligence artificielle
+    url: https://www.senat.fr/salle-de-presse/communiques-de-presse/presse/23-03-2026/le-senat-recoit-le-feu-vert-du-conseil-detat-pour-instaurer-une-presomption-dutilisation-des-contenus-culturels-par-les-fournisseurs-dintelligence-artificielle.html
+    sprache: fr
+    urheber: Sénat
+    verifiziert: false
+    notiz: Adresse aus der Trefferliste; nicht selbst geöffnet. Beleg für die Stellungnahme des Conseil
+      d'État zur Initiative.
+  offene_punkte:
+  - Der Volltext der Stellungnahme des Conseil d'État zur PPL ist nicht erfasst.
+  - Die Plenarberatung der Assemblée nationale steht aus; ein Termin ist nicht bekannt.
+  - Der genaue Wortlaut des vom AN-Ausschuss angenommenen Textes (identisch mit dem Senatstext?) ist nur
+    mittelbar belegt („Annahme ohne Änderungen“).
+  - Ob die Regierung die Initiative unterstützt, ist nicht geklärt.
+  monitoring_quellen:
+  - https://www.senat.fr/dossier-legislatif/ppl25-220.html
+  - https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53359
+  bezug_regelwerke:
+  - fr-cpi-tdm
+  - ki-vo-2024-1689
+  - dsm-richtlinie-tdm-urheberrecht-ki
+  letzte_pruefung: 2026-09-04
+- id: fr-loi-2019-222-art-33
+  jurisdiktion: fr
+  kurztitel: Art. 33 loi 2019-222 — Verbot der Analyse richterlicher Entscheidungen zur Profilbildung
+  offizieller_titel: Article 33 de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de
+    réforme pour la justice (open data des décisions de justice; interdiction de la réutilisation des
+    données d'identité des magistrats et des greffiers)
+  fundstelle: LOI n° 2019-222 du 23 mars 2019, art. 33; Décision n° 2019-778 DC du 21 mars 2019
+  verfahrensnummer: Projet de loi de programmation 2018-2022 et de réforme pour la justice; saisine n°
+    2019-778 DC
+  status: anwendbar
+  status_detail: 'Geltendes Recht und ein europäischer Sonderfall. Art. 33 regelt die Veröffentlichung
+    der Gerichtsentscheidungen als open data und verbietet zugleich, die Identitätsdaten von Richtern
+    und Geschäftsstellenbeamten mit dem Ziel oder der Wirkung wiederzuverwenden, ihre beruflichen Praktiken
+    zu bewerten, zu analysieren, zu vergleichen oder vorherzusagen. Der Conseil constitutionnel hat das
+    Verbot am 21.03.2019 gebilligt (Rn. 93-95); zensiert wurde eine andere Bestimmung des Artikels (Rn.
+    106-108).
+
+    '
+  kurzbeschreibung: 'Frankreich hat als bislang einziger Staat Europas die Richterprofilierung durch Rechtsprechungsanalyse
+    strafbewehrt untersagt. Adressat ist, wer die veröffentlichten Gerichtsentscheidungen weiterverwendet
+    — also gerade die Anbieter von legal analytics und juristischen KI-Systemen. Verboten ist die Wiederverwendung
+    der Identitätsdaten von Magistraten und Greffiers, wenn sie darauf zielt oder dazu führt, deren Berufspraxis
+    zu bewerten, zu analysieren, zu vergleichen oder vorherzusagen. Der Conseil constitutionnel begründet
+    das mit der Gefahr von Druck auf die Justiz und von Strategien der Gerichtswahl. Die Norm ist der
+    Grund, warum in Frankreich „jurimetrie“ nur ohne Richterbezug betrieben werden darf.
+
+    '
+  inkrafttreten:
+    datum: 2019-03-25
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/eli/loi/2019/3/23/2019-222/jo/texte
+    fundstelle_norm: LOI n° 2019-222 du 23 mars 2019, veröffentlicht im JORF n°0071 vom 24.03.2019, Texte
+      n°2. Das Gesetz enthält gestaffelte Inkrafttretensbestimmungen für einzelne Artikel; Art. 33 gehört
+      nicht dazu, sodass Art. 1 Abs. 1 Code civil gilt (Tag nach der Veröffentlichung).
+  anwendungsdaten:
+  - datum: 2019-03-21
+    was_gilt: 'Conseil constitutionnel n° 2019-778 DC: das Verbot der Wiederverwendung der Identitätsdaten
+      von Magistraten ist verfassungsgemäß (Rn. 93-95).'
+    verifiziert: true
+    quelle: https://www.conseil-constitutionnel.fr/decision/2019/2019778DC.htm
+  themenachsen:
+  - berufsrecht
+  - sektor-oeffentlich
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Verbotstatbestand: Wiederverwendung der Identitätsdaten von Magistraten und Greffiers mit dem Ziel
+    oder der Wirkung, ihre beruflichen Praktiken zu bewerten, zu analysieren, zu vergleichen oder vorherzusagen
+    („évaluation, analyse, comparaison ou prédiction de leurs pratiques professionnelles“).'
+  - 'Verfassungsgerichtliche Begründung (Rn. 93-95): Zweck ist die Verhinderung der Profilbildung von
+    Justizangehörigen durch Datenauswertung, die Druck erzeugen oder Strategien der Gerichtswahl begünstigen
+    könnte. Kein Verstoß gegen den Gleichheitssatz und gegen das Recht auf ein faires Verfahren.'
+  - 'Teilzensur (Rn. 106-108): das 2° des Abs. V (Beschränkung der Ausfertigung auf den Tenor bei nichtöffentlicher
+    Verhandlung) ist verfassungswidrig, weil zu pauschal und ohne Verhältnismäßigkeitsprüfung im Einzelfall.'
+  - 'Rechtsvergleichende Bedeutung: die Norm ist die schärfste Beschränkung juristischer Datenanalyse
+    in Europa und steht in unmittelbarem Spannungsverhältnis zu Anhang III Nr. 8 KI-VO, der KI-Systeme
+    in der Rechtspflege als hochriskant einstuft, sie aber nicht verbietet. Frankreich verbietet also
+    einen Anwendungsfall, den die KI-VO nur reguliert.'
+  - 'Praktische Folge: französische legal-tech-Angebote arbeiten mit anonymisierten Spruchkörpern; Auswertungen
+    nach einzelnen Richtern sind unzulässig, auch wenn die Entscheidungen öffentlich zugänglich sind.'
+  dokumente:
+  - datum: 2019-03-21
+    typ: endfassung
+    titel: Décision n° 2019-778 DC du 21 mars 2019 — Loi de programmation 2018-2022 et de réforme pour
+      la justice
+    url: https://www.conseil-constitutionnel.fr/decision/2019/2019778DC.htm
+    sprache: fr
+    urheber: Conseil constitutionnel
+    verifiziert: true
+    notiz: Selbst geöffnet. Rn. 85-108 zu Art. 33; Billigung des Verbots in Rn. 93-95, Teilzensur in Rn.
+      106-108.
+  - datum: 2019-03-23
+    typ: endfassung
+    titel: Article 33 — LOI n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour
+      la justice
+    url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038261631/
+    sprache: fr
+    urheber: République française, Légifrance
+    verifiziert: false
+    notiz: Kanonische Fundstelle des Stammgesetzes. Die JORFTEXT-Kennung ist NICHT verifiziert und die
+      LEGIARTI-Kennung des Art. 33 konnte nicht ermittelt werden; der Abruf scheitert an der Légifrance-Sperre.
+      Der Wortlaut ist nicht am amtlichen Text geprüft.
+  offene_punkte:
+  - Der Wortlaut des Art. 33 ist nicht am amtlichen Text verifiziert; die JORFTEXT-Kennung des Gesetzes
+    ist unsicher.
+  - Die Sanktion des Verstoßes (Verweis auf Art. 226-18 code pénal, fünf Jahre Freiheitsstrafe und 300.000
+    Euro) ist NICHT verifiziert worden und daher hier nur als Hinweis, nicht als Feststellung zu behandeln.
+  - Ob es Verwaltungs- oder Strafverfahren wegen Verstoßes gegen Art. 33 gegeben hat, ist nicht ermittelt.
+  - Die Durchführungsdekrete zum open data der Gerichtsentscheidungen (Zeitplan der Veröffentlichung nach
+    Gerichtsbarkeiten) sind nicht erfasst.
+  monitoring_quellen:
+  - https://www.courdecassation.fr/
+  - https://www.conseil-constitutionnel.fr/les-decisions
+  bezug_regelwerke:
+  - fr-berufsrecht-cnb
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: fr-sante-l4001-3
+  jurisdiktion: fr
+  kurztitel: Art. L. 4001-3 CSP — KI-gestützte Medizinprodukte
+  offizieller_titel: Article L. 4001-3 du code de la santé publique (recours à un dispositif médical comportant
+    un traitement de données algorithmique dont l'apprentissage a été réalisé à partir de données massives)
+  fundstelle: Code de la santé publique, art. L. 4001-3; eingefügt durch die loi n° 2021-1017 du 2 août
+    2021 relative à la bioéthique
+  verfahrensnummer: Loi n° 2021-1017 du 2 août 2021, art. 17
+  status: anwendbar
+  status_detail: 'Geltendes Recht, aber NICHT am amtlichen Text verifizierbar. Die Vorschrift ist die
+    einzige allgemeine Norm des französischen Gesundheitsrechts, die den Einsatz lernender Systeme in
+    der Versorgung adressiert. Die Zuständigkeit für die Marktüberwachung von KI-Medizinprodukten nach
+    der KI-Verordnung ist in Frankreich umstritten: der Benennungsplan von DGE und DGCCRF weist Anhang-I-Systeme
+    den produktrechtlich zuständigen Behörden zu, also für Medizinprodukte der ANSM; die CNIL ist zugleich
+    für biometrische und beschäftigungsbezogene Anwendungen zuständig.
+
+    '
+  kurzbeschreibung: 'Die Norm verlangt, dass der Patient über den Einsatz eines Medizinprodukts mit algorithmischer
+    Datenverarbeitung, dessen Training auf Massendaten beruht, informiert wird, dass die Angehörigen der
+    Gesundheitsberufe Zugang zu den Ergebnisdaten und zu den Angaben zur Funktionsweise erhalten und dass
+    die Rückverfolgbarkeit der Handlungen sichergestellt ist. Sie ist Ausdruck des französischen „garantie
+    humaine“-Konzepts: die ärztliche Entscheidungshoheit bleibt unberührt, das System ist Hilfsmittel.
+
+    '
+  inkrafttreten:
+    datum: 2021-08-04
+    verifiziert: true
+    quelle: https://www.legifrance.gouv.fr/eli/loi/2021/8/2/2021-1017/jo/texte
+    fundstelle_norm: Art. 17 der LOI n° 2021-1017 du 2 août 2021 relative à la bioéthique fügt Art. L.
+      4001-3 CSP ein. Veröffentlichung im JORF n°0178 vom 03.08.2021, Texte n°1; für Art. 17 ist keine
+      abweichende Inkrafttretensbestimmung vorgesehen, daher Art. 1 Abs. 1 Code civil (Tag nach der Veröffentlichung).
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-medizin
+  - grundrechte
+  - haftung
+  - datenschutz
+  regelungsschwerpunkte:
+  - Informationspflicht gegenüber dem Patienten über den Einsatz eines lernenden Medizinprodukts.
+  - Zugang der Gesundheitsberufe zu den Ergebnisdaten und zu Angaben über die Funktionsweise des Systems
+    („garantie humaine“).
+  - Rückverfolgbarkeit der auf das System gestützten Handlungen und der daraus resultierenden Daten.
+  - 'Verhältnis zur KI-Verordnung: KI-Medizinprodukte sind über Anhang I KI-VO in Verbindung mit der Medizinprodukteverordnung
+    (EU) 2017/745 hochriskant. Art. L. 4001-3 CSP ergänzt die unionsrechtlichen Pflichten um eine nationale
+    Informations- und Nachvollziehbarkeitspflicht im Behandlungsverhältnis; die Norm richtet sich an die
+    Anwender, nicht an die Hersteller.'
+  - 'Zuständigkeitskonflikt: welche Behörde die Marktüberwachung für KI-Medizinprodukte ausübt (ANSM als
+    Produktbehörde oder die CNIL für datenschutzsensible Anwendungen), ist im französischen Benennungsplan
+    nicht eindeutig geklärt.'
+  dokumente:
+  - datum: 2021-08-02
+    typ: endfassung
+    titel: Article L. 4001-3 du code de la santé publique
+    url: null
+    sprache: fr
+    urheber: République française
+    verifiziert: false
+    notiz: 'KEIN amtlicher Volltext abrufbar: Légifrance beantwortet Kodexartikel-Abrufe in dieser Sitzung
+      durchgängig mit HTTP 403, und die LEGIARTI-Kennung konnte mangels Suchkontingent nicht ermittelt
+      werden. `url` bleibt deshalb leer. Der Inhalt der Norm ist NICHT in dieser Sitzung geprüft.'
+  - datum: 2025-09-09
+    typ: uebersicht
+    titel: Les autorités compétentes pour la mise en œuvre du règlement européen sur l'IA (Abschnitt Anhang-I-Produkte)
+    url: https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-0
+    sprache: fr
+    urheber: Direction générale des Entreprises
+    verifiziert: true
+    notiz: Selbst geöffnet. Belegt die Zuweisung der Anhang-I-Systeme (einschließlich Medizinprodukten)
+      an die produktrechtlich zuständigen Sektorbehörden.
+  sekundaerquelle_url:
+  - https://www.houdart.org/conflit-de-competence-sur-les-sia-a-haut-risque-qui-controlera-les-dme/
+  - https://dsih.fr/articles/6369/reglement-ia-le-2-aout-2026-entree-en-application-de-nouvelles-obligations
+  offene_punkte:
+  - Der gesamte Eintrag ist unverifiziert, soweit er den Normtext betrifft. Fundstelle, Wortlaut und geltende
+    Fassung des Art. L. 4001-3 CSP müssen nachgeprüft werden.
+  - Ob die Haute Autorité de Santé (HAS) Leitlinien zu KI-gestützten Medizinprodukten erlassen hat, ist
+    nicht geprüft.
+  - Ob es weitere sektorale Normen gibt (Telemedizin, Triage, klinische Entscheidungsunterstützung), ist
+    nicht geprüft.
+  monitoring_quellen:
+  - https://ansm.sante.fr/
+  - https://www.has-sante.fr/
+  bezug_regelwerke:
+  - fr-designation-autorites-ia
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-05
+- id: fr-finanzaufsicht-ia
+  jurisdiktion: fr
+  kurztitel: ACPR und AMF — KI in der Finanzaufsicht
+  offizieller_titel: 'Autorité de contrôle prudentiel et de résolution (ACPR) und Autorité des marchés
+    financiers (AMF): Zuständigkeit und Arbeiten zur künstlichen Intelligenz'
+  fundstelle: Benennungsplan DGE/DGCCRF vom 9. September 2025 (ACPR für Bonitäts- und Versicherungsbewertungen
+    nach Anhang III KI-VO)
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Die ACPR ist im französischen Benennungsplan als Marktüberwachungsbehörde für die Hochrisikoanwendungen
+    des Finanzsektors vorgesehen (Kreditwürdigkeitsprüfung natürlicher Personen und Risikobewertung/Preisbildung
+    in der Lebens- und Krankenversicherung, Anhang III Nr. 5 lit. b und c KI-VO). Eigene französische
+    Rechtsnormen zu KI im Finanzsektor gibt es nicht; die Aufsicht arbeitet mit Diskussionspapieren und
+    Aufsichtserwartungen. Die AMF wird im Benennungsplan NICHT genannt — das ist ein bemerkenswerter Befund,
+    weil damit der Wertpapier- und Vermögensverwaltungsbereich aufsichtsrechtlich nicht ausdrücklich zugewiesen
+    ist.
+
+    '
+  kurzbeschreibung: 'Frankreich verzichtet auf eine eigene KI-Regulierung des Finanzsektors und stützt
+    sich auf die bestehende Aufsichtsarchitektur. Die ACPR (dem Banque de France angegliedert) übernimmt
+    die KI-VO-Marktüberwachung für die im Anhang III genannten Finanzanwendungen; die allgemeinen aufsichtsrechtlichen
+    Anforderungen an Governance, Auslagerung und Modellrisiko gelten unverändert. Sanktionen ergeben sich
+    aus dem code monétaire et financier, nicht aus KI-spezifischem Recht.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-0
+  anwendungsdaten: []
+  themenachsen:
+  - sektor-finanz
+  - governance
+  - marktzugang
+  regelungsschwerpunkte:
+  - ACPR als vorgesehene Marktüberwachungsbehörde für KI-Systeme in der Bonitäts- und Versicherungsrisikobewertung
+    (Anhang III KI-VO).
+  - AMF im Benennungsplan nicht genannt; für algorithmischen Handel und Anlageberatung durch KI-Systeme
+    fehlt damit eine ausdrückliche Zuweisung.
+  - Keine eigenständige nationale KI-Norm im Finanzsektor; maßgeblich bleiben die allgemeinen aufsichtsrechtlichen
+    Anforderungen und die unmittelbar geltende KI-Verordnung.
+  - 'Gleiche Schwäche wie im Gesamtsystem: solange die Benennung nicht durch Gesetz erfolgt (Art. 24 DDADUE),
+    hat die ACPR für die KI-Verordnung keine ausdrückliche Ermächtigungsgrundlage.'
+  dokumente:
+  - datum: 2025-09-09
+    typ: uebersicht
+    titel: Les autorités compétentes pour la mise en œuvre du règlement européen sur l'IA (Abschnitt Anhang
+      III, services financiers)
+    url: https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-0
+    sprache: fr
+    urheber: Direction générale des Entreprises
+    verifiziert: true
+    notiz: Selbst geöffnet. Einzige in dieser Sitzung verifizierte amtliche Quelle für die Rolle der ACPR.
+  offene_punkte:
+  - 'Die eigenen Veröffentlichungen der ACPR zu künstlicher Intelligenz (Diskussionspapiere, Aufsichtserwartungen,
+    Berichte des Pôle Fintech-Innovation) konnten NICHT ermittelt werden: acpr.banque-france.fr antwortet
+    auf die geprüften Adressen mit HTTP 404, das Suchkontingent war erschöpft.'
+  - Die Arbeiten der AMF zu KI (Berichte, Leitlinien) sind nicht erfasst.
+  - Ob die AMF im Gesetzgebungsverfahren zu Art. 24 DDADUE als zuständige Behörde ergänzt wird, ist offen.
+  monitoring_quellen:
+  - https://acpr.banque-france.fr/
+  - https://www.amf-france.org/
+  bezug_regelwerke:
+  - fr-designation-autorites-ia
+  - fr-ddadue-2026
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: fr-arbeit-cse
+  jurisdiktion: fr
+  kurztitel: Arbeitsrecht — Unterrichtung des CSE und Aufsicht über KI am Arbeitsplatz
+  offizieller_titel: Information et consultation du comité social et économique sur l'introduction de
+    nouvelles technologies (code du travail) et extension des pouvoirs de l'inspection du travail au règlement
+    (UE) 2024/1689
+  fundstelle: Code du travail, art. L. 2312-8 (attributions du CSE); Art. 63 du projet de loi DDADUE 2026
+  verfahrensnummer: PJL n° 118 (Sénat) / n° 2518 (AN), art. 63
+  status: teilanwendbar
+  status_detail: 'Zweigeteilt. Die arbeitsverfassungsrechtliche Seite ist geltendes Recht: der comité
+    social et économique ist über die Einführung neuer Technologien und über jede wichtige Änderung der
+    Arbeitsorganisation zu unterrichten und anzuhören; das erfasst die Einführung von KI-Systemen. Die
+    aufsichtsrechtliche Seite ist noch Entwurf: Art. 63 des DDADUE-Gesetzentwurfs soll die Arbeitsaufsicht
+    ermächtigen, Verstöße gegen die Maschinen- und die KI-Verordnung zu ermitteln und mit Geldbußen bis
+    50.000 Euro zu ahnden. Der Entwurf ruht seit Februar 2026 in der Assemblée nationale.
+
+    '
+  kurzbeschreibung: 'Frankreich hat kein KI-spezifisches Arbeitsrecht. Der Schutz läuft über drei bestehende
+    Schichten: die Unterrichtungs- und Anhörungsrechte des CSE bei Einführung neuer Technologien, das
+    Verbot der Emotionserkennung am Arbeitsplatz nach Art. 5 KI-VO (Aufsicht: CNIL) und die Einstufung
+    beschäftigungsbezogener Systeme als hochriskant nach Anhang III KI-VO (Aufsicht ebenfalls CNIL). Hinzu
+    treten die allgemeinen datenschutzrechtlichen Anforderungen und die angekündigten sektoralen CNIL-Empfehlungen
+    zur Arbeitswelt.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  anwendungsdaten:
+  - datum: 2026-02-18
+    was_gilt: Der Senat nimmt Art. 63 DDADUE an (Ermittlungsbefugnisse der Arbeitsaufsicht zu Maschinen-
+      und KI-Verordnung, Geldbußen bis 50.000 Euro).
+    verifiziert: true
+    quelle: https://www.senat.fr/lessentiel/pjl25-118.pdf
+  themenachsen:
+  - arbeit
+  - datenschutz
+  - grundrechte
+  - governance
+  regelungsschwerpunkte:
+  - 'Art. L. 2312-8 code du travail: Unterrichtung und Anhörung des CSE bei Einführung neuer Technologien
+    und bei jeder wichtigen Änderung von Gesundheit, Sicherheit oder Arbeitsbedingungen. Die Einführung
+    eines KI-Systems, das die Arbeitsorganisation ändert, löst diese Pflicht aus.'
+  - 'Art. 63 DDADUE (Entwurf): Ausweitung der Ermittlungsbefugnisse der Arbeitsaufsicht auf „manquements
+    aux règlements européens sur les machines et sur l''intelligence artificielle“; Geldbußen bis 50.000
+    Euro. Bislang die einzige konkret bezifferte nationale Sanktionsnorm zur KI-Verordnung in einem französischen
+    Gesetzestext.'
+  - 'CNIL als Aufsicht: nach dem Benennungsplan zuständig für das Verbot der Emotionserkennung am Arbeitsplatz
+    (Art. 5 KI-VO) und für beschäftigungsbezogene Hochrisikosysteme (Anhang III Nr. 4).'
+  - 'Angekündigt: sektorale CNIL-Empfehlungen zur KI in der Arbeitswelt (Ankündigung vom 22.07.2025);
+    bis zum Rechercheschluss nicht nachgewiesen.'
+  dokumente:
+  - datum: 2026-02-18
+    typ: uebersicht
+    titel: 'L''essentiel — Ddadue 2026 (Art. 63: Arbeitsaufsicht, Maschinen- und KI-Verordnung)'
+    url: https://www.senat.fr/lessentiel/pjl25-118.pdf
+    sprache: fr
+    urheber: Sénat
+    verifiziert: true
+    notiz: Selbst geöffnet. Einzige verifizierte Quelle dieses Eintrags.
+  - datum: null
+    typ: endfassung
+    titel: Article L. 2312-8 du code du travail
+    url: null
+    sprache: fr
+    urheber: République française
+    verifiziert: false
+    notiz: KEIN amtlicher Volltext abrufbar (Légifrance-Sperre, LEGIARTI-Kennung nicht ermittelbar). `url`
+      bleibt leer; der Wortlaut ist nicht geprüft.
+  offene_punkte:
+  - Der Wortlaut des Art. L. 2312-8 code du travail und die genaue Reichweite der Anhörungspflicht bei
+    KI-Einführung sind nicht verifiziert.
+  - Ob es französische Rechtsprechung zur Anhörungspflicht des CSE speziell bei KI-Systemen gibt, ist
+    nicht ermittelt.
+  - Ob die angekündigten sektoralen CNIL-Empfehlungen zur Arbeitswelt erschienen sind, ist offen.
+  - Ob es Tarifverträge oder Branchenvereinbarungen zu KI gibt (etwa im Rahmen des ANI zur Digitalisierung),
+    ist nicht geprüft.
+  monitoring_quellen:
+  - https://www.senat.fr/dossier-legislatif/pjl25-118.html
+  - https://www.cnil.fr/fr/intelligence-artificielle
+  bezug_regelwerke:
+  - fr-ddadue-2026
+  - fr-cnil-recommandations-ia
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: fr-berufsrecht-cnb
+  jurisdiktion: fr
+  kurztitel: Berufsrecht der Anwaltschaft und KI (CNB)
+  offizieller_titel: Arbeiten des Conseil national des barreaux (CNB) zur künstlichen Intelligenz im Anwaltsberuf
+  fundstelle: null
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'NICHT VERIFIZIERT. Der Eintrag ist bewusst als Lücke ausgewiesen. Der Conseil national
+    des barreaux ist die Berufsvertretung der französischen Anwaltschaft mit Normsetzungsbefugnis (règlement
+    intérieur national, RIN). Ob und in welcher Form er zu künstlicher Intelligenz Regeln, Resolutionen
+    oder Leitfäden erlassen hat, konnte nicht festgestellt werden: cnb.avocats.fr ist über den Abrufkanal
+    nicht erreichbar (robots.txt-Fehler) und das Suchkontingent war erschöpft.
+
+    '
+  kurzbeschreibung: 'Platzhalter für das anwaltliche Berufsrecht. Rechtlich relevant sind in Frankreich
+    vor allem drei Fragen: die Vereinbarkeit von KI-Werkzeugen mit dem Berufsgeheimnis (secret professionnel,
+    Art. 66-5 der loi n° 71-1130), die Verantwortlichkeit für KI-erzeugte Schriftsätze und das Verhältnis
+    zum Verbot der Richterprofilierung nach Art. 33 der loi n° 2019-222, das juristische Analysewerkzeuge
+    unmittelbar betrifft.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: false
+    quelle: null
+  anwendungsdaten: []
+  themenachsen:
+  - berufsrecht
+  - haftung
+  - datenschutz
+  regelungsschwerpunkte:
+  - 'Berufsgeheimnis: der Einsatz cloudbasierter KI-Werkzeuge berührt Art. 66-5 der loi n° 71-1130 (secret
+    professionnel) und die Vertraulichkeit der Korrespondenz; die praktische Konsequenz ist eine Beschränkung
+    auf Werkzeuge mit gesicherter Datenhaltung.'
+  - 'Verhältnis zum Verbot der Richterprofilierung (Art. 33 loi 2019-222): anwaltliche Nutzung von Rechtsprechungsanalysen
+    ist zulässig, die richterbezogene Auswertung nicht.'
+  - Die KI-Verordnung stuft KI-Systeme, die Justizbehörden bei der Rechtsfindung unterstützen, nach Anhang
+    III Nr. 8 als hochriskant ein; anwaltliche Werkzeuge fallen grundsätzlich nicht darunter, weil sie
+    keine Justizbehörde unterstützen.
+  dokumente: []
+  sekundaerquelle_url: []
+  offene_punkte:
+  - VOLLSTÄNDIG UNVERIFIZIERT. Es konnte keine einzige amtliche Quelle des CNB geöffnet werden. Vor Verwendung
+    des Eintrags ist eigenständig zu prüfen, ob der CNB Beschlüsse, eine Charta oder einen Leitfaden zu
+    KI erlassen hat und ob das règlement intérieur national geändert wurde.
+  - 'Ebenfalls zu prüfen: Arbeiten des Conseil d''État und des Ministère de la justice zur KI in der Justiz,
+    Stellungnahmen der Cour de cassation, und ob es berufsrechtliche Entscheidungen zu KI-erzeugten Schriftsätzen
+    gibt.'
+  monitoring_quellen:
+  - https://www.cnb.avocats.fr/
+  - https://www.justice.gouv.fr/
+  bezug_regelwerke:
+  - fr-loi-2019-222-art-33
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04
+- id: fr-strategie-nationale-ia
+  jurisdiktion: fr
+  kurztitel: Stratégie nationale pour l'IA und Rapport der Commission de l'IA
+  offizieller_titel: 'Stratégie nationale pour l''intelligence artificielle (France 2030) und Rapport
+    de la Commission de l''intelligence artificielle « IA : notre ambition pour la France » (mars 2024)'
+  fundstelle: economie.gouv.fr, Seite zur stratégie nationale pour l'intelligence artificielle, Stand
+    07.02.2025
+  verfahrensnummer: null
+  status: softlaw
+  status_detail: 'Politische Strategie ohne Bindungswirkung, aber prägend für die französische Haltung
+    in der europäischen Rechtsetzung: Frankreich versteht KI-Politik primär als Industrie- und Souveränitätspolitik
+    und hat deshalb bewusst auf ein nationales KI-Horizontalgesetz verzichtet. Der Bericht der Commission
+    de l''intelligence artificielle vom März 2024 mit 25 Empfehlungen konnte nicht an einer amtlichen
+    Quelle verifiziert werden.
+
+    '
+  kurzbeschreibung: 'Die nationale KI-Strategie läuft in drei Phasen: 2018-2022 mit rund 1,5 Milliarden
+    Euro Schwerpunkt Forschung; 2022-2025 Schwerpunkt Verbreitung in der Wirtschaft mit den drei Achsen
+    Ausbildung, Forschung und Förderung des KI-Angebots (560 Millionen Euro für Forschung und Ausbildung);
+    ab Februar 2025 eine dritte Phase mit vier Prioritäten: Recheninfrastruktur, Talente, Beschleunigung
+    der Nutzung und vertrauenswürdige KI. Insgesamt sind rund 2,5 Milliarden Euro aus dem Plan France
+    2030 vorgesehen. Die Steuerung liegt beim SGPI; nationaler KI-Koordinator ist Guillaume Avrin; seit
+    September 2023 besteht ein Ausschuss zur generativen KI.
+
+    '
+  inkrafttreten:
+    datum: null
+    verifiziert: true
+    quelle: https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle
+  anwendungsdaten:
+  - datum: 2025-02-07
+    was_gilt: Start der dritten Phase der nationalen Strategie mit vier Prioritäten (Infrastruktur, Talente,
+      Nutzung, vertrauenswürdige KI); zeitlich verbunden mit dem Pariser KI-Gipfel.
+    verifiziert: true
+    quelle: https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle
+  themenachsen:
+  - governance
+  - marktzugang
+  - wettbewerb
+  regelungsschwerpunkte:
+  - 'Grundentscheidung: kein nationales KI-Horizontalgesetz. Frankreich setzt die KI-Verordnung dezentral
+    um und regelt national nur dort, wo das Unionsrecht Spielräume lässt oder schweigt — im Sicherheitsrecht
+    (VSA), im Strafrecht (Deepfakes) und im Verfahrensrecht (Richterprofilierung, automatisierte Verwaltungsentscheidungen).'
+  - 'Industriepolitische Ausrichtung: KI-Politik ist beim Wirtschaftsministerium angesiedelt, nicht beim
+    Justiz- oder Digitalressort; die Marktüberwachung nach der KI-Verordnung wird folgerichtig von der
+    DGCCRF koordiniert.'
+  - 'Souveränität als Leitmotiv: sichtbar in Art. 31 SREN (Cloud-Anforderungen für die Verwaltung) und
+    in der dritten Strategiephase (Recheninfrastruktur).'
+  - 'Rapport der Commission de l''intelligence artificielle (März 2024, 25 Empfehlungen): Grundlage der
+    dritten Phase; er empfiehlt eine investitionsorientierte statt einer regulierungsorientierten Politik.
+    NICHT VERIFIZIERT.'
+  dokumente:
+  - datum: 2025-02-07
+    typ: uebersicht
+    titel: Stratégie nationale pour l'intelligence artificielle
+    url: https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle
+    sprache: fr
+    urheber: Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique
+    verifiziert: true
+    notiz: Selbst geöffnet. Belegt Phasen, Mittelausstattung, Prioritäten und Steuerung.
+  - datum: 2024-03-13
+    typ: bericht
+    titel: 'IA : notre ambition pour la France — Rapport de la Commission de l''intelligence artificielle'
+    url: null
+    sprache: fr
+    urheber: Commission de l'intelligence artificielle (Anne Bouverot, Philippe Aghion)
+    verifiziert: false
+    notiz: KEINE amtliche Fundstelle abrufbar. Das Suchkontingent war erschöpft, und die Adressen auf
+      vie-publique.fr und info.gouv.fr konnten nicht erraten werden. `url` bleibt leer; Datum, Verfasser
+      und Empfehlungszahl (25) stammen aus dem Modellwissen und sind ZU PRÜFEN.
+  offene_punkte:
+  - Der Rapport der Commission de l'intelligence artificielle ist nicht verifiziert — weder Fundstelle
+    noch Datum noch Inhalt.
+  - Die Ergebnisse des Pariser KI-Gipfels (Februar 2025) und etwaige daraus folgende französische Verpflichtungen
+    sind nicht erfasst.
+  - Der „Conseil de l'IA et du Numérique“, mit dem die CNIL 2026 gemeinsam publiziert hat, ist institutionell
+    nicht eingeordnet; Einsetzungsakt und Auftrag sind unbekannt.
+  monitoring_quellen:
+  - https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle
+  - https://www.entreprises.gouv.fr/
+  - https://www.vie-publique.fr/
+  bezug_regelwerke:
+  - fr-designation-autorites-ia
+  - fr-loi-2024-449
+  - ki-vo-2024-1689
+  letzte_pruefung: 2026-09-04

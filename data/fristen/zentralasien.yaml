@@ -1,0 +1,241 @@
+# Gepflegte Datenbasis.
+fristen:
+- id: kz-ki-gesetz-f1
+  datum: 2026-01-17
+  beschreibung: 'Inkrafttreten des kasachischen KI-Gesetzes Nr. 230-VIII sowie der Begleitgesetze Nr.
+    231-VIII und Nr. 232-VIII (60 Kalendertage nach der Erstveröffentlichung vom 18.11.2025). Der genaue
+    Tag (17. oder 18.01.2026) ist am amtlichen Text nicht ausgerechnet.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: kz
+  regelwerk: kz-ki-gesetz
+  adressat: 'Eigentümer, Besitzer und Nutzer von KI-Systemen in Kasachstan sowie Hersteller von Datenbibliotheken
+
+    '
+  handlungsbedarf: 'Datum am amtlichen Text bzw. an einer Verlautbarung des Justizministeriums verifizieren
+    und `verifiziert` auf true setzen.
+
+    '
+  quelle: https://adilet.zan.kz/rus/docs/Z2500000230
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: kz-anordnung-2r-f1
+  datum: 2026-01-31
+  beschreibung: 'Frist der Anordnung des Premierministers Nr. 2-р für sämtliche 23 untergesetzlichen Rechtsakte
+    zur Durchführung des KI-Pakets. ABGELAUFEN UND NUR TEILWEISE ERFÜLLT: Die Kriterien für die Einordnung
+    als KI-System ergingen erst am 01.04.2026, die Regeln über vertrauenswürdige Listen am 10.04.2026,
+    die Regeln über maschinenlesbare Formen am 15.04.2026, die Plattformregeln am 13.08.2026. Für die
+    Dokumentationsliste, die Regeln über den Zugang zu Rechenressourcen und die Liste der prioritären
+    Wirtschaftssektoren war am 06.09.2026 kein Rechtsakt auffindbar.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: kz
+  regelwerk: kz-anordnung-2r
+  adressat: 'Ministerium für künstliche Intelligenz und digitale Entwicklung (22 von 23 Akten), Finanzministerium
+    (1 Akt)
+
+    '
+  handlungsbedarf: 'Nachprüfen, ob die drei fehlenden Rechtsakte (Dokumentationsliste, Rechenressourcen-Zugangsregeln,
+    Prioritätssektorenliste) inzwischen ergangen sind. Ohne die Dokumentationsliste ist Art. 15 Abs. 2
+    Ziff. 3 KI-Gesetz nicht vollziehbar.
+
+    '
+  quelle: https://adilet.zan.kz/rus/docs/R2600000002
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: kz-digitalkodex-f1
+  datum: 2026-07-10
+  beschreibung: 'Inkrafttreten des Digitalkodex Nr. 255-VIII (Art. 106 Abs. 1: sechs Monate nach der Erstveröffentlichung
+    vom 10.01.2026), zugleich Wirksamwerden der Umbenennung des Informatisierungsgesetzes Nr. 418-V in
+    „Cybersicherheitsgesetz" durch Gesetz Nr. 256-VIII.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: kz
+  regelwerk: kz-digitalkodex
+  adressat: 'Alle Subjekte der digitalen Umgebung, insbesondere Betreiber algorithmischer Systeme (Art.
+    43)
+
+    '
+  handlungsbedarf: 'Genauen Tag verifizieren; prüfen, ob eine Übergangsregelung für Art. 43 besteht.
+
+    '
+  quelle: https://adilet.zan.kz/rus/docs/K2600000255
+  verifiziert: false
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: kz-verfassung-f1
+  datum: 2026-07-01
+  beschreibung: 'Inkrafttreten der neuen kasachischen Verfassung (Referendum vom 15.03.2026) und Außerkrafttreten
+    der Verfassung von 1995. Art. 21 Abs. 1 hebt den Schutz personenbezogener Daten gegen den Einsatz
+    digitaler Technologien in Verfassungsrang.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: kz
+  regelwerk: kz-verfassung-2026
+  adressat: alle
+  handlungsbedarf: null
+  quelle: https://adilet.zan.kz/rus/docs/K2600000000
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+- id: kz-digital-qazaqstan-f1
+  datum: 2026-09-09
+  beschreibung: 'Ablauf der Dreimonatsfrist des Präsidialerlasses Nr. 1311 vom 09.06.2026, binnen deren
+    Regierung und Behörden einen Aktionsplan zur Umsetzung der Strategie „Digital Qazaqstan" bis 2029
+    zu erarbeiten und zu billigen haben.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: kz
+  regelwerk: kz-digital-qazaqstan
+  adressat: 'Regierung, dem Präsidenten unmittelbar unterstellte Organe, zentrale und örtliche Vollzugsorgane
+
+    '
+  handlungsbedarf: 'Ab Mitte September 2026 prüfen, ob der Aktionsplan veröffentlicht ist, und ihn erfassen
+    — er wird die konkreten KI-Vorhaben der kasachischen Verwaltung enthalten.
+
+    '
+  quelle: https://adilet.zan.kz/rus/docs/U2600001311
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 7
+- id: kz-ki-gesetz-f2
+  datum: 2026-08-25
+  beschreibung: 'Wirksamwerden der Änderungen des KI-Gesetzes (Art. 1, 13, 17, 20, 28) durch Gesetz Nr.
+    326-VIII vom 24.06.2026; adilet.zan.kz führt diesen Tag als „Дата изменения акта".
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: kz
+  regelwerk: kz-ki-gesetz
+  adressat: Eigentümer und Besitzer von KI-Systemen
+  handlungsbedarf: 'Inhalt der Änderungen auswerten — in dieser Datei ist bislang nur ihre Existenz vermerkt.
+
+    '
+  quelle: https://adilet.zan.kz/rus/docs/Z2500000230/info
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 7
+- id: uz-ki-omnibus-f1
+  datum: 2026-01-21
+  beschreibung: 'Inkrafttreten des usbekischen KI-Omnibusgesetzes ЎРҚ-1115 mit dem Tag der amtlichen Veröffentlichung
+    (Art. 4). Damit gelten seither die KI-Legaldefinition, Art. 7-1 Informatisierungsgesetz (Verbot der
+    ausschließlichen Stützung auf KI bei rechtlich bedeutsamen Entscheidungen) und Art. 46-2 Abs. 2 КоАО
+    (50 bis 100 БРВ mit Einziehung).
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: uz
+  regelwerk: uz-ki-omnibus-1115
+  adressat: 'Betreiber von Informationssystemen und Informationsressourcen, Webseitenbetreiber und Blogger,
+    staatliche Organe
+
+    '
+  handlungsbedarf: null
+  quelle: https://lex.uz/ru/docs/8008401
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: uz-up189-f1
+  datum: 2026-01-22
+  beschreibung: 'Ablauf der Dreimonatsfrist des Präsidialerlasses УП-189 vom 22.10.2025 (Ziff. 17 Buchst.
+    g), binnen deren das Ministerium für digitale Technologien die Grundsätze der Schaffung, Einführung
+    und Anwendung KI-gestützter Lösungen sowie SICHERHEITS- UND ETHIKNORMEN zu billigen hatte. Ein solches
+    Dokument war am 06.09.2026 auf lex.uz nicht auffindbar.
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: uz
+  regelwerk: uz-up189
+  adressat: Министерство цифровых технологий Республики Узбекистан
+  handlungsbedarf: 'ERSTE PRIORITÄT für Usbekistan: Prüfen, ob dieses Dokument ergangen ist (ai.gov.uz,
+    digital.uz, lex.uz-Suche nach „сунъий интеллект… принциплар/этика"). Es wäre das eigentliche materielle
+    KI-Regelwerk Usbekistans.
+
+    '
+  quelle: https://lex.uz/ru/docs/7790236
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+  - 7
+- id: uz-up189-f2
+  datum: 2026-06-01
+  beschreibung: 'Ab diesem Tag darf die öffentliche Beschaffung KI-gestützter Informationssysteme nur
+    noch mit Unternehmen aus einem eigens geführten Register erfolgen (oder, bei Verträgen bis zum 2 500-fachen
+    der Basisrechengröße, im Direktvertrag). Faktische Marktzugangsregel für KI-Anbieter im öffentlichen
+    Sektor Usbekistans.
+
+    '
+  typ: anwendungsbeginn
+  jurisdiktion: uz
+  regelwerk: uz-up189
+  adressat: 'Staatliche Organe und Wirtschaftsgesellschaften mit staatlicher Beteiligung ab 50 %, KI-Anbieter
+
+    '
+  handlungsbedarf: 'Prüfen, ob das Register errichtet und veröffentlicht ist und nach welchen Kriterien
+    die Aufnahme erfolgt.
+
+    '
+  quelle: https://lex.uz/ru/docs/7790236
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 30
+- id: uz-up189-f3
+  datum: 2026-12-31
+  beschreibung: 'Bis Ende 2026: mindestens 100 Projekte zur breiten KI-Einführung in Verwaltung, Sozialbereich
+    und Wirtschaft (Ziff. 1 Buchst. a); 15 KI-Labore an Hochschulen (Ziff. 1 Buchst. g); „Korpus der usbekischen
+    Sprache" mit mindestens 15 Milliarden Parametern und dessen Einführung in mindestens fünf OFFENEN
+    großen Sprachmodellen (Ziff. 10 Buchst. b).
+
+    '
+  typ: umsetzungsfrist
+  jurisdiktion: uz
+  regelwerk: uz-up189
+  adressat: 'Ministerium für digitale Technologien, Ministerium für Hochschulbildung, Wissenschaft und
+    Innovationen
+
+    '
+  handlungsbedarf: null
+  quelle: https://lex.uz/ru/docs/7790236
+  verifiziert: true
+  kalender_sync: true
+  vorwarnung_tage:
+  - 90
+  - 30
+- id: uz-pp358-f1
+  datum: 2030-12-31
+  beschreibung: 'Zielhorizont der usbekischen KI-Strategie: 1,5 Mrd. USD Umsatz mit KI-gestützten Produkten
+    und Dienstleistungen, 10 % der Leistungen des Einheitlichen Portals interaktiver staatlicher Dienste
+    auf KI-Basis, 20 KI-Forschungslabore, Aufnahme in die Top 50 des Government AI Readiness Index; ferner
+    über 1 Mrd. USD Auslandsinvestitionen in KI-Infrastruktur (УП-189 Ziff. 1 Buchst. b).
+
+    '
+  typ: sonstiges
+  jurisdiktion: uz
+  regelwerk: uz-pp358
+  adressat: Ministerium für digitale Technologien, Koordinationskommission
+  handlungsbedarf: null
+  quelle: https://lex.uz/ru/docs/7158606
+  verifiziert: true
+  kalender_sync: false
+  vorwarnung_tage:
+  - 90
