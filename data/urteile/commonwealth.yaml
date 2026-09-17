@@ -86,7 +86,6 @@ urteile:
     Berufungsentscheidung. Eine fachanwaltliche Einschätzung vom 08.04.2026 nennt ein Erwartungsfenster
     "before December 2026"; das ist nicht am Gerichtsdokument geprüft und daher nicht als Termin übernommen.
     Nebenbefund: Chambers and Partners datiert das erstinstanzliche Urteil auf November 2024 — unzutreffend.'
-  quelle_art: amtlich
   sachverhalt: Getty Images betreibt seit 1995 ein weltweites Bildarchiv; seinen Bestand — Millionen hochwertiger
     Fotografien von Weltereignissen, Sportmomenten, Prominenten, Architektur, Natur und Reisen, über Jahre
     von Hunderttausenden Fotografen aufgenommen — bezeichnet das Unternehmen als „the lifeblood" seines
@@ -161,7 +160,6 @@ urteile:
   - 'verifiziert am 05.09.2026 auf false gesetzt: das Feld stand im Widerspruch zum eigenen Pruefvermerk.'
   normen:
   - uk-cdpa-1988-s-27-3
-  quelle_art: amtlich
 - id: uk-2025-getty-stability-csam
   jurisdiktion: uk
   gericht: Court of Appeal (Civil Division) of England and Wales
@@ -204,7 +202,6 @@ urteile:
     die praktisch wichtigste Lehre des gesamten Getty-Komplexes.
 
     '
-  quelle_art: amtlich
 - id: uk-2023-thaler-uksc
   jurisdiktion: uk
   gericht: The Supreme Court of the United Kingdom
@@ -253,7 +250,6 @@ urteile:
   normen:
   - uk-patents-act-1977-s-7
   - uk-patents-act-1977-s-13
-  quelle_art: amtlich
   sachverhalt: Im Oktober und November 2018 meldete Dr. Stephen Thaler beim britischen Patentamt zwei
     Patente an (GB18116909.4 und GB1818161.0). In den Anmeldeformularen gab er an, selbst nicht Erfinder
     zu sein. Auf die Aufforderung, binnen sechzehn Monaten nach s. 13(2) Patents Act 1977 eine Erfindererklärung
@@ -315,7 +311,6 @@ urteile:
     '
   normen:
   - uk-patents-act-1977-s-13
-  quelle_art: amtlich
 - id: uk-2022-ico-clearview-mpn
   jurisdiktion: uk
   gericht: Information Commissioner's Office
@@ -398,7 +393,6 @@ urteile:
   - uk-gdpr-art-35
   - uk-dpa-2018-s-149
   - uk-dpa-2018-s-155
-  quelle_art: amtlich
 - id: uk-2023-clearview-ftt
   jurisdiktion: uk
   gericht: First-tier Tribunal (General Regulatory Chamber), Information Rights
@@ -444,7 +438,6 @@ urteile:
   normen:
   - uk-gdpr-art-2-2-a
   - uk-gdpr-art-3-2-b
-  quelle_art: amtlich
 - id: uk-2025-clearview-ut
   jurisdiktion: uk
   gericht: Upper Tribunal (Administrative Appeals Chamber)
@@ -498,7 +491,6 @@ urteile:
   normen:
   - uk-gdpr-art-2-2-a
   - uk-gdpr-art-3-2-b
-  quelle_art: amtlich
   sachverhalt: Clearview AI Inc. ist ein in Delaware eingetragenes amerikanisches Technologieunternehmen;
     im Vereinigten Königreich hatte es zur Zeit des Aufsichtsverfahrens keine Niederlassung. Es kopierte
     Bilder aus dem Internet in eine eigene Datenbank und bot seinen Kunden — überwiegend Strafverfolgungs-
@@ -560,7 +552,6 @@ urteile:
   - uk-gdpr-art-5-1-a
   - uk-gdpr-art-6
   - uk-gdpr-art-9
-  quelle_art: amtlich
 - id: uk-2024-ico-snap-my-ai
   jurisdiktion: uk
   gericht: Information Commissioner's Office
@@ -615,7 +606,6 @@ urteile:
     liefert 404.'
   normen:
   - uk-gdpr-art-35
-  quelle_art: amtlich
 - id: uk-2019-bridges-dc
   jurisdiktion: uk
   gericht: High Court of Justice, Queen's Bench Division (Divisional Court), Cardiff
@@ -669,7 +659,6 @@ urteile:
     Camera Code) genüge, die Einsätze vom 21.12.2017 und 27.03.2018 seien verhältnismäßig.'
   normen:
   - uk-equality-act-2010-s-149
-  quelle_art: amtlich
 - id: uk-2020-bridges-ca
   jurisdiktion: uk
   gericht: Court of Appeal (Civil Division) of England and Wales
@@ -735,7 +724,6 @@ urteile:
     Der Eintrag gibt dies zutreffend wieder.'
   - 'Ergänzend: Streithelfer waren Information Commissioner, Surveillance Camera Commissioner und Police
     and Crime Commissioner for South Wales.'
-  quelle_art: amtlich
   sachverhalt: 'Die South Wales Police erprobte die automatisierte Live-Gesichtserkennung AFR Locate:
     Überwachungskameras nehmen die Gesichter von Passanten auf, das System vergleicht sie mit den Bildern
     der Personen auf einer eigens für den jeweiligen Einsatz zusammengestellten Fahndungsliste. Die Einsätze
@@ -804,7 +792,6 @@ urteile:
   normen:
   - uk-equality-act-2010-s-19
   - uk-equality-act-2010-s-29
-  quelle_art: fehlt
 - id: uk-2019-bates-post-office-horizon
   jurisdiktion: uk
   gericht: High Court of Justice, Queen's Bench Division
@@ -866,7 +853,6 @@ urteile:
   - '07.09.2026: Die gefuehrte volltext_url auf caselaw.nationalarchives.gov.uk antwortet mit ''Page not
     found''. Ersatzweise heranzuziehen: Bates (No. 3) ''Common Issues'' [2019] EWHC 606 (QB) und Hamilton
     [2021] EWCA Crim 577.'
-  quelle_art: amtlich
   sachverhalt: Die staatliche Post Office Ltd unterhält ein Netz von über 11.000 Filialen, die überwiegend
     von selbständigen sub-postmasters geführt werden. Für die Buchführung führte sie das von ICL — später
     Fujitsu — entwickelte System Horizon ein; die Filialleiter mussten es benutzen, eine Wahl gab es nicht.
@@ -932,7 +918,6 @@ urteile:
     Berufungsführern (Gruppe A) beide Anfechtungsgründe und bei 35 (Gruppe B) den ersten Grund ein und
     trat nur den 3 Berufungen der Gruppe C entgegen; 4+35 = 39. Der Dispositionsteil selbst lag im abgerufenen
     Auszug nicht vor.'
-  quelle_art: amtlich
   sachverhalt: Sub-postmasters führen die Filialen der Post Office; ihre Abrechnung lief über das Buchführungssystem
     Horizon, dessen Zahlen sie im System selbst nicht bestreiten konnten. Wies Horizon am Ende einer Abrechnungsperiode
     einen Fehlbetrag aus, mussten sie ihn ausgleichen; die Strafverfahren begannen meist damit, dass Prüfer
@@ -987,7 +972,6 @@ urteile:
     übersieht, zitiert Harber falsch.
 
     '
-  quelle_art: amtlich
 - id: uk-2025-ayinde-alharoun
   jurisdiktion: uk
   gericht: High Court of Justice, King's Bench Division (Divisional Court)
@@ -1051,7 +1035,6 @@ urteile:
     ist ausdrücklich als solche formuliert.
 
     '
-  quelle_art: amtlich
   sachverhalt: Zwei Verfahren gaben den Anlass. Im ersten hatte eine Barristerin für Frederick Ayinde
     in einem verwaltungsgerichtlichen Verfahren gegen den London Borough of Haringey fünf Entscheidungen
     zitiert, die es nicht gibt; Ritchie J hatte deswegen bereits eine wasted costs order über 2.000 Pfund
@@ -1110,7 +1093,6 @@ urteile:
     wurde wegen Rechtsfehlern aufgehoben und die Sache neu entschieden — Gunnarssons Rechtsmittel abgewiesen,
     die Rückforderung von 12.918 GBP SEISS-Zahlungen bestätigt. Der Eintrag beschreibt bislang nur die
     KI-Warnung.'
-  quelle_art: amtlich
 - id: uk-2025-ms-bangladesh
   jurisdiktion: uk
   gericht: Upper Tribunal (Immigration and Asylum Chamber)
@@ -1158,7 +1140,6 @@ urteile:
     keine Entschuldigungsgründe, nur Milderungsgründe bei der Sanktion.
 
     '
-  quelle_art: amtlich
   sachverhalt: In einem ausländerrechtlichen Verfahren eines bangladeschischen Staatsangehörigen zitierte
     der Prozessvertreter vor dem Upper Tribunal eine Entscheidung „Y (China) [2010] EWCA Civ 116", die
     es nicht gibt. Auf Vorhalt räumte er ein, ChatGPT benutzt und das Ergebnis nicht in einer Rechtsdatenbank
@@ -1212,7 +1193,6 @@ urteile:
     Hauptverhandlung bedarf. Die KI-Rüge betrifft die zweite Zeugenerklärung der Beklagten, die erfundene
     Fundstellen und ungeprüfte Ergebnisse einer Google-KI-Suche enthielt.'
   - 'verifiziert am 05.09.2026 auf false gesetzt: das Feld stand im Widerspruch zum eigenen Pruefvermerk.'
-  quelle_art: amtlich
 - id: uk-2025-d-child-recusal
   jurisdiktion: uk
   gericht: Court of Appeal (Civil Division) of England and Wales
@@ -1257,7 +1237,6 @@ urteile:
   - 'Ergebnis ergänzt: Die Berufungen des Vaters hatten in allen drei Punkten Erfolg — Aufhebung der Recusal-Anordnungen
     von District Judge Hatton vom 06.02.2025, Aufhebung der Anordnung von HH Judge Greensmith vom 21.07.2025
     und Zurückverweisung an HHJ Singleton KC. Der Eintrag beschreibt bislang nur den KI-bezogenen Obiter-Satz.'
-  quelle_art: amtlich
 - id: uk-2026-elden-hmrc
   jurisdiktion: uk
   gericht: First-tier Tribunal (Tax Chamber)
@@ -1294,7 +1273,6 @@ urteile:
     Aufgenommen als Beleg für die Fortschreibung der Linie in 2026.
 
     '
-  quelle_art: amtlich
 - id: uk-2026-mvf-family-court
   jurisdiktion: uk
   gericht: Family Court (England and Wales), sitzend in Newcastle upon Tyne (District Judge Dodsworth)
@@ -1341,7 +1319,6 @@ urteile:
   - 'Ergebnis ergänzt: Sämtliche Vorwürfe der Mutter wurden als nicht erwiesen und teilweise als unwahr
     zurückgewiesen; drei Schutzanordnungen vom 07.05.2025 wurden aufgehoben; die Sache geht zur Cafcass-Begutachtung.
     Die KI-Frage betrifft die Zurechnung als ''fictitious'' bezeichneter Äußerungen im Verfahrensmaterial.'
-  quelle_art: amtlich
 - id: uk-2026-uk-sshd-ut-iac
   jurisdiktion: uk
   gericht: Upper Tribunal (Immigration and Asylum Chamber), Field House — UTJ Lindsley, UTJ Keith, UTJ
@@ -1422,7 +1399,6 @@ urteile:
     Tahir Mehmood Mohammed, Mr Zubair Rasheed).'
   - verifiziert am 05.09.2026 auf true gesetzt; quelle_art bleibt 'amtlich' (Find Case Law, The National
     Archives).
-  quelle_art: amtlich
   sachverhalt: Zwei ausländerrechtliche Verfahren gaben den Anlass. Im ersten stützten sich die Rechtsmittelgründe,
     die Tahir Mehmood Mohammed von den TMF Immigration Lawyers verfasst hatte, auf eine Entscheidung „Horleston
     v SSHD [2007] EWCA Civ 654", die es nicht gibt — die Fundstelle gehört in Wahrheit zu einem Gleichbehandlungsverfahren
@@ -1488,7 +1464,6 @@ urteile:
   - uk-enterprise-act-2002-s-22
   - uk-enterprise-act-2002-s-23
   - uk-enterprise-act-2002-s-26
-  quelle_art: amtlich
 - id: uk-2026-deepfake-persoenlichkeitsrecht-befund
   jurisdiktion: uk
   gericht: — (Negativbefund, keine Entscheidung)
@@ -1547,7 +1522,6 @@ urteile:
   suchadresse: https://caselaw.nationalarchives.gov.uk/judgments/search?query=deepfake
   normen:
   - uk-osa-2023-s-188
-  quelle_art: fehlt
 - id: au-2021-thaler-fca
   jurisdiktion: au
   gericht: Federal Court of Australia (Einzelrichter, Beach J)
@@ -1605,7 +1579,6 @@ urteile:
     nicht.
   normen:
   - au-patents-act-1990-s-15
-  quelle_art: amtlich
   sachverhalt: 'Stephen Thaler baute ein System, das er DABUS nennt — "device for the autonomous bootstrapping
     of unified sentience". Es besteht aus mehreren parallel arbeitenden künstlichen neuronalen Netzen:
     Die einen erzeugen durch Selbstanregung neue Begriffe, die anderen bewerten diese auf Neuheit und
@@ -1669,7 +1642,6 @@ urteile:
     Text. Die Gerichtsdatenbank ist die belastbarere Adresse.'
   normen:
   - au-patents-act-1990-s-15
-  quelle_art: amtlich
   sachverhalt: 'Am 30. Juli 2021 entschied Richter Beach, ein künstliches neuronales System könne Erfinder
     im Sinne der Patentvorschriften sein, hob die Entscheidung des Deputy Commissioner auf und verwies
     die Anmeldung zur erneuten Prüfung zurück; es war die erste Gerichtsentscheidung weltweit, die eine
@@ -1745,7 +1717,6 @@ urteile:
     die ursprünglich hinterlegte amtliche Adresse des High Court existiert nicht mehr.'
   normen:
   - au-patents-act-1990-s-15
-  quelle_art: amtlich
 - id: au-2019-amato
   jurisdiktion: au
   gericht: Federal Court of Australia
@@ -1798,7 +1769,6 @@ urteile:
   normen:
   - au-social-security-act-1991-s-1223
   - au-social-security-administration-act-1999-s-6a
-  quelle_art: amtlich
   sachverhalt: Deanna Amato hatte im April bis Juni sechs Vierzehntageszahlungen der Studienbeihilfe Austudy
     bezogen; sie war zu Beginn ihres Studiums von einer Vollzeitstelle in eine gelegentliche Beschäftigung
     gewechselt. Centrelink glich ihre Angaben später maschinell mit den Jahreseinkommensdaten der Steuerbehörde
@@ -1873,7 +1843,6 @@ urteile:
   normen:
   - au-social-security-act-1991-s-1223
   - au-social-security-administration-act-1999-s-6a
-  quelle_art: amtlich
   sachverhalt: 'Vom 1. Juli 2015 bis November 2019 betrieb der Commonwealth über Services Australia ein
     automatisiertes Abgleichsverfahren: Die von Sozialleistungsempfängern gemeldeten Einkünfte wurden
     mit den Jahresdaten der Steuerbehörde verglichen, das Jahreseinkommen rechnerisch gleichmäßig auf
@@ -1976,7 +1945,6 @@ urteile:
   - au-social-security-act-1991-s-1223
   - au-social-security-administration-act-1999-s-6a
   - au-public-service-act-1999-s-13
-  quelle_art: amtlich
   sachverhalt: Zwischen Juli 2015 und November 2019 setzte der Commonwealth gegen rund 433.000 Sozialleistungsempfänger
     Rückforderungen fest, die er aus rechnerisch gemittelten Jahreseinkommensdaten der Steuerbehörde ableitete;
     insgesamt ging es um mindestens 1,763 Milliarden australische Dollar, von denen rund 751 Millionen
@@ -2047,7 +2015,6 @@ urteile:
   - au-privacy-act-1988-app-3-5
   - au-privacy-act-1988-app-5
   - au-privacy-act-1988-app-10
-  quelle_art: amtlich
   sachverhalt: 'Clearview AI, ein US-Unternehmen, sammelte mit automatischen Crawlern Fotos von öffentlich
     zugänglichen Stellen im Netz einschließlich sozialer Netzwerke und errechnete daraus biometrische
     Vektoren; die Datenbank umfasste über drei Milliarden Bilder, bis Ende 2020 sollten es dreißig Milliarden
@@ -2104,7 +2071,6 @@ urteile:
     '
   normen:
   - au-privacy-act-1988-s-96
-  quelle_art: amtlich
 - id: au-2021-oaic-7eleven
   jurisdiktion: au
   gericht: Office of the Australian Information Commissioner
@@ -2167,7 +2133,6 @@ urteile:
   - au-privacy-act-1988-s-52
   - au-privacy-act-1988-app-3-3
   - au-privacy-act-1988-app-3-5
-  quelle_art: amtlich
 - id: au-2024-oaic-bunnings
   jurisdiktion: au
   gericht: Office of the Australian Information Commissioner (Privacy Commissioner Carly Kind)
@@ -2273,7 +2238,6 @@ urteile:
   - au-privacy-act-1988-app-1-3
   - au-privacy-act-1988-app-3-3
   - au-privacy-act-1988-app-5
-  quelle_art: amtlich
 - id: au-2026-bunnings-art
   jurisdiktion: au
   gericht: Administrative Review Tribunal of Australia, Guidance and Appeals Panel (Deputy President P
@@ -2388,7 +2352,6 @@ urteile:
   - au-privacy-act-1988-app-3-3
   - au-privacy-act-1988-app-3-4
   - au-privacy-act-1988-app-5
-  quelle_art: amtlich
   sachverhalt: Bunnings betreibt in Australien Baumärkte. Vom 6. November 2018 an erprobte das Unternehmen
     zwei Monate lang in einer Filiale ein von Hitachi Kokusai Electric entwickeltes Gesichtserkennungssystem
     und setzte es dann von Januar 2019 bis zum 30. November 2021 in 62 Filialen ein — je 31 in New South
@@ -2470,7 +2433,6 @@ urteile:
   - au-acl-2010-s-18
   - au-acl-2010-s-29
   - au-acl-2010-s-34
-  quelle_art: amtlich
   sachverhalt: trivago betreibt eine Website, die Hotelpreise verschiedener Buchungsportale vergleicht.
     Von Dezember 2016 bis September 2019 warb das Unternehmen im australischen Fernsehen und auf seiner
     Startseite damit, man finde dort das ideale Hotel zum besten Preis und sehe alle Preise für dasselbe
@@ -2535,7 +2497,6 @@ urteile:
     4.900.000 AUD (13.02.2019–13.09.2019).'
   normen:
   - au-acl-2010-s-224
-  quelle_art: amtlich
 - id: au-2024-re-dayal
   jurisdiktion: au
   gericht: Federal Circuit and Family Court of Australia (Division 2), Melbourne (Judge A. Humphreys)
@@ -2601,7 +2562,6 @@ urteile:
     nicht selbst geöffnet werden.'
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/361/In_Re_Dayal_Australia_August_27_2024.pdf
   dokumenttyp: Reasons for Judgment
-  quelle_art: amtlich
   sachverhalt: In einem familienrechtlichen Vollstreckungsverfahren vor dem Federal Circuit and Family
     Court in Melbourne trat am 19. Juli 2024 ein viktorianischer Solicitor als Vertreter für eine andere
     Kanzlei auf. Er reichte dem Gericht eine Liste von Entscheidungen samt Zusammenfassungen ein. Als
@@ -2687,7 +2647,6 @@ urteile:
   - Das Feld datum enthielt eine Freitextangabe; es führt jetzt das Entscheidungsdatum 19.08.2025, das
     Veröffentlichungsdatum steht im Ergebnis. Die im Eintrag genannte allgemeine Warnung vom 03.11.2025
     ist ein anderes Dokument und bleibt ungeprüft.
-  quelle_art: amtlich
 - id: au-2025-valu-no2
   jurisdiktion: au
   gericht: Federal Circuit and Family Court of Australia (Division 2) (Skaros J)
@@ -2754,7 +2713,6 @@ urteile:
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/430/Valu_v._Minister_for_Immigration_and_Multicultural_Affairs_Australia_31_January_2025.pdf
   dokumenttyp: Reasons for Judgment
   parteien_klaeger: Im Rubrum nur 'Valu' (Anonymisierung); der volle Name erscheint im Urteil nicht
-  quelle_art: amtlich
   sachverhalt: Am 22. Juli 2020 beantragte ein Migrant, vertreten durch einen Rechtsanwalt, beim Federal
     Circuit and Family Court die gerichtliche Überprüfung einer Entscheidung des Verwaltungstribunals
     vom 18. Juni 2020. Auf Anordnung eines Registrars reichte der Anwalt am 23. Oktober 2024 eine geänderte
@@ -2816,7 +2774,6 @@ urteile:
   - 'WARNUNG ZUR QUeLLE: Die ''AI Hallucination Cases Database'' datiert diesen Fall auf den 02.07.2025
     und gibt als Sanktion ''1 AUD monetary penalty'' an. Beides ist am Primärdokument widerlegt. Die Datenbank
     führt den Fall zudem verkürzt als ''Murray v. State of Victoria''.'
-  quelle_art: amtlich
 - id: au-2025-dpp-gr
   jurisdiktion: au
   gericht: Supreme Court of Victoria, Criminal Division (Elliott J)
@@ -2927,7 +2884,6 @@ urteile:
   - Eine Verweisung an die Berufsaufsicht oder eine Kostenfolge enthält das Urteil nicht.
   dokumenttyp: Reasons for Judgment (Ruling)
   parteien_beklagter: GR (Pseudonym; jugendlicher Angeklagter)
-  quelle_art: amtlich
   sachverhalt: In der Nacht des 5. April 2023 töteten zwei Jugendliche, in den Gründen GR und XQ genannt,
     die Mutter von XQ. GR war zur Tatzeit vierzehn, XQ fünfzehn Jahre alt, die Getötete einundvierzig.
     Die beiden hatten Monate zuvor eine "Anti-Communist Front" gegründet, eine selbsternannte paramilitärische
@@ -3002,7 +2958,6 @@ urteile:
   sekundaerquelle_url: https://websitedc.s3.amazonaws.com/documents/Re_Walker_Australia_24_November_2025.pdf
   dokumenttyp: Reasons for Judgment
   parteien_beklagter: Kyriacos Toumazou
-  quelle_art: amtlich
 - id: au-2025-weitere-halluzinationsfaelle
   jurisdiktion: au
   gericht: Verschiedene (Sammel-Eintrag)
@@ -3028,7 +2983,7 @@ urteile:
     Wang v Moutidis [2025] VCC 1156 (18.08.2025, erfundene VCAT-Entscheidung); Stewart v Good Shepherd
     Australia New Zealand [2025] VSCA 206 (29.08.2025). NEW SOUTH WALES — Bottrill v Graham & Anor (No
     2) [2025] NSWDC 221 (20.06.2025); May v Costaras [2025] NSWCA 178 (08.08.2025); Gribble v Essential
-    Energy [2025] NSWDC 344 (29.08.2025); In the matter of Bayfoyle Pty Ltd [2025] NSWSC 1607 (23.12.2025
+    Energy [2025] NSWDC 344 (29.08.2025); in the matter of Bayfoyle Pty Ltd [2025] NSWSC 1607 (23.12.2025
     — Rechtsanwalt Leonardus Smits wurde persönlich zur Freistellung der Beklagten von Kosten bis zu 73.603
     AUD verurteilt; die Kläger tragen 122.673 AUD abzüglich des von Smits Erlangten). BUND — Handa & Mallick
     [2024] FedCFamC2F 957 (19.07.2024, vier nicht auffindbare Fundstellen aus einer mit der Kanzleisoftware
@@ -3055,7 +3010,7 @@ urteile:
   - au-2024-re-dayal
   - au-2025-valu-no2
   quelle_tracker: OBITER AI Hallucination Cases (Australia) — Fall-Tracker von Kirsten Groth
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Sammel-Eintrag, bewusst nicht aufgelöst: KEINE dieser Fundstellen wurde einzeln verifiziert,
     weil AustLII gesperrt war. Der Wert liegt in der Verteilung, nicht in den Einzelfällen: Der Schwerpunkt
@@ -3091,7 +3046,6 @@ urteile:
     Der Eintrag bleibt als Sammeleintrag ohne eigenes Aktenzeichen gekennzeichnet.'
   suchadresse: https://www.austlii.edu.au/cgi-bin/sinosrch.cgi?method=auto&query=artificial+intelligence+fabricated+citations&mask_path=au/cases
   zweifelhaft: true
-  quelle_art: fehlt
 - id: au-2024-hood-openai
   jurisdiktion: au
   gericht: — (angedrohte Klage, nie erhoben; Supreme Court of Victoria wäre zuständig gewesen)
@@ -3127,7 +3081,7 @@ urteile:
   - au-defamation-act-2005
   instanzenzug: []
   quelle_tracker: AI Lawsuit Tracker; The Courier (Ballarat); ABC News
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Aufgenommen, weil das Briefing Klagerücknahmen einschließt — und weil diese Rücknahme
     viel erklärt. Australien gilt als das klägerfreundlichste Verleumdungsrecht des Common Law, und dennoch
@@ -3155,7 +3109,6 @@ urteile:
   normen:
   - au-defamation-act-2005-s-10a
   - au-defamation-act-2005-s-12b
-  quelle_art: fehlt
 - id: au-2024-nsw-pn-sc-gen-23
   jurisdiktion: au
   gericht: Supreme Court of New South Wales
@@ -3202,7 +3155,6 @@ urteile:
     Erstellung einer Zeugenaussage ist ein Regelverstoß, unabhängig von der Richtigkeit des Ergebnisses.
 
     '
-  quelle_art: amtlich
   sachverhalt: Seit dem Fall Mata gegen Avianca im Sommer 2023 häuften sich weltweit Verfahren, in denen
     Prozessvertreter Gerichten von generativer KI erfundene Entscheidungen vorlegten. In Australien verwies
     der Federal Circuit and Family Court im August 2024 erstmals einen Solicitor deswegen an die Aufsichtsbehörde.
@@ -3258,7 +3210,6 @@ urteile:
     als Kanzleistandard fahren.
 
     '
-  quelle_art: amtlich
   sachverhalt: 'Der Federal Court of Australia verhandelt bundesweit Migrations-, Wettbewerbs-, Immaterialgüter-
     und Native-Title-Sachen. In genau diesen Verfahren tauchten seit 2024 wiederholt erfundene Fundstellen
     auf: im Januar 2025 in dem Migrationsverfahren Valu vor dem Federal Circuit and Family Court, im August
@@ -3315,7 +3266,6 @@ urteile:
     prüfen.
 
     '
-  quelle_art: amtlich
   sachverhalt: Während der Supreme Court of New South Wales im November 2024 eine verbindliche Praxisanweisung
     zur generativen KI erließ und andere australische Gerichte nachzogen, überlegte der Supreme Court
     of Western Australia noch. Er stellte auf seine Website ein Papier unter dem Dateinamen "AI_practice_direction.pdf"
@@ -3379,7 +3329,6 @@ urteile:
     für nicht vertretene Parteien; Vorlauf war eine Konsultation ab Mai 2025.'
   - Die Leitlinien selbst liegen nur als Download vor und wurden nicht heruntergeladen; ausgewertet ist
     die amtliche Mitteilung.
-  quelle_art: amtlich
 - id: ca-2024-moffatt-air-canada
   jurisdiktion: ca
   gericht: Civil Resolution Tribunal of British Columbia
@@ -3418,7 +3367,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: McCarthy Tetrault; WeirFoulds; American Bar Association (CanLII per robots.txt gesperrt)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Datumskonflikt: McCarthy nennt den 19.02.2024, die ABA den 14.02.2024. Der CanLII-Volltext
     war per robots.txt gesperrt; das Aktenzeichen SC-2023-002378 stammt aus Modellwissen und ist zu prüfen.
@@ -3452,7 +3401,6 @@ urteile:
     gegenstandslos und zu streichen.'
   sekundaerquelle_url: https://s3.amazonaws.com/IGG/AI+Part+1+-+Materials/Moffatt+v.+Air+Canada.pdf
   dokumenttyp: Decision (Civil Resolution Tribunal)
-  quelle_art: amtlich
   sachverhalt: Jake Moffatt wollte bei Air Canada Flüge aus Anlass eines Trauerfalls buchen und fragte
     den Chatbot auf der Website der Fluggesellschaft nach dem Trauerfalltarif. Der Chatbot antwortete,
     er könne zunächst den vollen Preis zahlen und die Ermäßigung binnen neunzig Tagen nachträglich beantragen;
@@ -3560,7 +3508,6 @@ urteile:
   - ca-copyright-s29
   - ca-copyright-s3-1
   - ca-copyright-s5-1
-  quelle_art: fehlt
 - id: ca-2021-opc-clearview
   jurisdiktion: ca
   gericht: Office of the Privacy Commissioner of Canada, gemeinsam mit CAI Quebec, OIPC British Columbia,
@@ -3628,7 +3575,6 @@ urteile:
   - ca-pipeda-s7-1
   - ca-pipeda-sch1-4-3
   - ca-pipeda-sch1-4-4
-  quelle_art: amtlich
   sachverhalt: Clearview AI, Inc. sammelte Milliarden von Gesichtsbildern von öffentlich zugänglichen
     Websites und baute daraus eine biometrische Suchdatenbank, in der sich zu einem hochgeladenen Foto
     die abgebildete Person auffinden lässt; die Betroffenen wussten davon nichts und hatten nicht eingewilligt.
@@ -3710,7 +3656,6 @@ urteile:
   - ca-pipeda-sch1-4-9
   - dsgvo-art-24
   - dsgvo-art-5-abs-1-lit-d
-  quelle_art: amtlich
   sachverhalt: OpenAI trainierte die ChatGPT zugrunde liegenden Modelle unter anderem mit Inhalten, die
     es von öffentlich zugänglichen Websites eingesammelt hatte — Blogs, Foren, soziale Medien —, und verwendete
     zusätzlich die Eingaben seiner Nutzer. Welche Quellen im Einzelnen eingeflossen waren, legte das Unternehmen
@@ -3812,7 +3757,6 @@ urteile:
   - ca-fca-s18-1-1
   - ca-fca-s18-1-4
   - ca-irpa-s11-1
-  quelle_art: amtlich
   sachverhalt: Majid Haghshenas beantragte bei der kanadischen Botschaft in Ankara ein von der Arbeitsmarktprüfung
     befreites Arbeitsvisum nach dem Programm C11. Die Bearbeitung zog sich fast fünf Monate hin; am 18.
     März 2022 lehnte ein Immigration Officer den Antrag ab. Bei der Vorbereitung der Entscheidung war
@@ -3887,7 +3831,6 @@ urteile:
     darauf hin, dass Chinook nicht dazu bestimmt ist, Anträge zu bearbeiten, Beweise zu würdigen oder
     zu entscheiden. Der Passus ist entsprechend gefasst.'
   - volltext_url von CanLII auf die amtliche Fundstelle der Federal Court of Canada umgestellt.
-  quelle_art: amtlich
 - id: ca-2023-safarian
   jurisdiktion: ca
   gericht: Federal Court of Canada (Mr. Justice Sébastien Grammond)
@@ -3967,7 +3910,6 @@ urteile:
   normen:
   - ca-fca-s18-1-4
   - ca-irpa-s11-1
-  quelle_art: amtlich
   sachverhalt: Farshid Safarian beantragte ein kanadisches Studienvisum. Ein Visa Officer lehnte den Antrag
     ab; die Ablehnung stützte sich auf drei Erwägungen zum Studienplan des Antragstellers. Die Notizen
     des Beamten bestanden weitgehend aus Textbausteinen, die offenbar von der Software Chinook erzeugt
@@ -4054,7 +3996,6 @@ urteile:
   normen:
   - ca-fca-s18-1-4
   - ca-irpa-s11-1
-  quelle_art: amtlich
   sachverhalt: 'Kimia Khosravi und Babak Ghaderi Yazdi beantragten kanadische Studienvisa. Der zuständige
     Visa Officer bearbeitete die Anträge nach dem Vermerk in der Akte „with the assistance of Chinook
     3+": Er kreuzte einige ausgewählte Tatsachen an, aus denen das Programm die Begründung als Textbausteine
@@ -4149,7 +4090,6 @@ urteile:
   - nz-contempt-s-27
   - nz-crimes-s-116
   - nz-crimes-s-117-lit-e
-  quelle_art: amtlich
   sachverhalt: Vor dem Family Court in Whangārei lief ein langwieriger, streitiger Sorgerechtsstreit um
     ein Kind zwischen John Jones und Sophie Smith. Jones beantragte dort eine „safety hearing" — ein außergesetzliches
     Verfahren, in dem das Gericht vorprüft, ob einem Elternteil unbeaufsichtigter Umgang mit dem Kind
@@ -4224,7 +4164,6 @@ urteile:
   - nz-rccc-rule-10-9
   - nz-rccc-rule-13-1
   - nz-rccc-rule-3
-  quelle_art: amtlich
 - id: nz-2026-uebriger-befund
   jurisdiktion: nz
   gericht: — (Negativbefund)
@@ -4263,7 +4202,7 @@ urteile:
   - nz-privacy-act-2020
   instanzenzug: []
   quelle_tracker: Buddle Findlay; Equal Justice Project; Regulations.ai
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Bewusst aufgenommener Negativbefund. Er beantwortet die Frage "soweit vorhanden"
     präzise: Neuseeland hat KI-Rechtsprechung ausschließlich zum Berufsrecht. Die s. 5 Copyright Act 1994
@@ -4322,4 +4261,3 @@ urteile:
   - nz-privacy-act-ipp-4
   - nz-privacy-act-ipp-8
   - nz-privacy-act-ipp-9
-  quelle_art: fehlt

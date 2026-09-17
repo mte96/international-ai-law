@@ -39,7 +39,7 @@ regelwerke:
   - datum: 2025-10-15
     was_gilt: Die Cámara Penal de Esquel stützt die Nichtigerklärung eines Strafurteils erstmals auf einen
       Verstoss gegen die Directivas des Acuerdo 5435/2025.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.pensamientopenal.com.ar/fallos/91822-chubut-anulan-fallo-delegacion-jurisdiccional-ia
   - datum: 2026-03-13
     was_gilt: Der STJ Chubut hebt diese Nichtigerklärung auf und stellt fest, das Acuerdo regele "estándares
@@ -764,7 +764,7 @@ regelwerke:
     url: https://www.justicia.ar/iniciativas/inteligencia-artificial
     sprache: es
     urheber: Ministerio de Justicia de la Nación
-    verifiziert: true
+    verifiziert: false
     notiz: Amtliche Sammelseite des Justizministeriums. Sie führt RS 870/24 (Buenos Aires), Acuerdo 3804
       (La Pampa), Acordada 15/2024 (Río Negro), Acuerdo General 102/2024 (San Juan) und Acuerdo 202-STJSL-SA-2024
       (San Luis) mit Direktlinks sowie das JuFeJus-Pilotprogramm. Das angegebene Datum ist ein Platzhalter
@@ -1451,7 +1451,7 @@ regelwerke:
     url: https://iapp.org/news/a/novedades-legislativas-en-argentina-sobre-protecci-n-de-datos-personales-e-inteligencia-artificial
     sprache: es
     urheber: International Association of Privacy Professionals (IAPP)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundärquelle, aber die einzige systematische Übersicht über die parallel laufenden Datenschutz-
       und KI-Entwürfe. Das Datum ist der in der Suchmaschine ausgewiesene Publikationszeitpunkt einer
       vergleichbaren Fassung und nicht am Dokument selbst verifiziert.
@@ -1988,7 +1988,7 @@ regelwerke:
     sprache: es
     urheber: CEDOM — Legislatura de la Ciudad Autónoma de Buenos Aires
     verifiziert: false
-    notiz: Amtliche Normensammlung der Legislatur; in dieser Sitzung durch robots.txt nicht abrufbar.
+    notiz: Amtliche Normensammlung der Legislatur;
   offene_punkte:
   - Ob das SRFP nach der Entscheidung der Cámara vom 28.04.2023 unter Auflagen wieder in Betrieb genommen
     wurde, ist offen.
@@ -2107,10 +2107,9 @@ regelwerke:
     sprache: es
     urheber: Ministerio del Interior de la Nación
     verifiziert: false
-    notiz: Amtliche Sammlung der Provinzverfassungen; in dieser Sitzung durch robots.txt nicht abrufbar.
-      Die Überschriften der Art. 169 und 178 stammen aus einer nichtamtlichen Sammlung; die Zitierung
-      des Art. 178 Nr. 3 als Rechtsgrundlage ist im Volltext des Acuerdo Plenario 5435/2025 (amtliche
-      Eureka-Fassung) belegt.
+    notiz: Amtliche Sammlung der Provinzverfassungen; die Überschriften der Art. 169 und 178 stammen aus einer
+      nichtamtlichen Sammlung; die Zitierung des Art. 178 Nr. 3 als Rechtsgrundlage ist im Volltext des Acuerdo
+      Plenario 5435/2025 (amtliche Eureka-Fassung) belegt.
   offene_punkte:
   - Der Wortlaut der Art. 169 und 178 ist nicht an amtlicher Quelle geprüft.
   monitoring_quellen:
@@ -2190,7 +2189,7 @@ regelwerke:
     url: https://palabrasdelderecho.com.ar/articulo/4553/Inteligencia-Artificial-El-Poder-Judicial-de-Rio-Negro-dicto-casi-6.000-fallos-con-sistemas-automatizados
     sprache: es
     urheber: Palabras del Derecho (Fachpresse), auf Grundlage von Angaben des Poder Judicial de Río Negro
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt Einführungsdaten der drei Standorte, Verfahrensart, Umfang und den Kontrollvorbehalt
       ("debe ser verificada y luego firmada"). Die amtliche Mitteilung des Poder Judicial de Río Negro
       war unter der aufgefundenen Adresse nicht mehr abrufbar (404).

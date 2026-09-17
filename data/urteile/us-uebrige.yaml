@@ -84,7 +84,6 @@ urteile:
   - '07.09.2026: Der Beschluss selbst datiert den Tod Sewell Setzers auf den 28.02.2025. Das kann nicht
     stimmen - die Klage wurde im Oktober 2024 erhoben. Wer die Passage zitiert, muss den Fehler des Gerichts
     kennen.'
-  quelle_art: amtlich
   sachverhalt: Am 14. April 2023 lud der vierzehnjährige Sewell Setzer III die Anwendung Character.AI
     herunter und begann, mit Chatbots zu sprechen, die Figuren aus "Game of Thrones" nachbildeten — vor
     allem Daenerys und Rhaenyra Targaryen. Die Unterhaltungen wurden romantisch und sexuell; eine Figur
@@ -174,7 +173,6 @@ urteile:
   - Nicht belegbar bleiben die Vergleichsbedingungen und die Beträge; sie sind vertraulich und ergeben
     sich aus keinem gerichtlichen Dokument. Ebenso wenig ließen sich die Parallelverfahren in Colorado,
     New York und Texas an Primärdokumenten prüfen.
-  quelle_art: amtlich
   sachverhalt: 'Nachdem das Gericht in Orlando im Mai 2025 den Klageabweisungsantrag weitgehend zurückgewiesen
     hatte, versuchten Character Technologies und Google, die Sache vor das Rechtsmittelgericht zu bringen:
     Sie beantragten die Zulassung einer Zwischenbeschwerde zum Eleventh Circuit nach 28 U.S.C. § 1292(b),
@@ -248,7 +246,6 @@ urteile:
     und der Status ''vergleich'' ließen sich am hinterlegten Dokument nicht prüfen; eine Entscheidung
     über den Schiedsantrag wurde nicht eingesehen.'
   - 'Für die Prüfung im Browser: das Docket 2:24-cv-01014 (E.D. Tex.) auf CourtListener.'
-  quelle_art: amtlich
 - id: us-2025-raine-openai
   jurisdiktion: us
   gericht: Superior Court of California, County of San Francisco
@@ -345,7 +342,6 @@ urteile:
   dokumenttyp: Koordinationsbeschluss 'ChatGPT Product Liability Cases, JCCP 5431 — Order Re Petition
     for Coordination' (Superior Court of California, County of San Francisco, Dept. 606, Hon. Stephen
     M. Murphy, 03.02.2026); in der Sache Raine selbst ist keine Entscheidung ergangen
-  quelle_art: fehlt
 - id: us-2026-jccp-5431
   jurisdiktion: us
   gericht: Superior Court of California, County of San Francisco, Department 606 (Hon. Stephen M. Murphy)
@@ -388,7 +384,7 @@ urteile:
   - us-2025-raine-openai
   - us-2025-smvlc-sieben-openai
   quelle_tracker: Volltext des Koordinationsbeschlusses (PDF-Kopie); Hunton Andrews Kurth
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'JCCP 5431 ist der Ort, an dem die in Garcia offen gebliebenen Fragen tatsächlich
     entschieden werden — und zwar von einem einzelstaatlichen Gericht in Kalifornien, dessen Entscheidungen
@@ -419,7 +415,6 @@ urteile:
     DeCruise (26CU003118C), Jacquez (26CV165635), Gray (26STCV00988).'
   - 'Amtliche Fundstelle nicht auffindbar: Kalifornische Trial Courts und der Judicial Council stellen
     Koordinationsbeschlüsse nicht frei bereit; volltext_url zeigt auf eine Kopie des Primärdokuments.'
-  quelle_art: fehlt
 - id: us-2025-smvlc-sieben-openai
   jurisdiktion: us
   gericht: Superior Court of California, County of San Francisco und County of Los Angeles
@@ -455,7 +450,7 @@ urteile:
   instanzenzug:
   - us-2026-jccp-5431
   quelle_tracker: Social Media Victims Law Center; Tech Justice Law Project
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die drei Überlebendenklagen sind dogmatisch die interessanteren. Ein Suizid liefert
     einen scharfen Kausalitätsanker; eine "KI-induzierte Wahnstörung" nicht. Die Kläger müssen dafür einen
@@ -474,7 +469,6 @@ urteile:
   - 'Am 03.09.2026 richtiggestellt: Der Eintrag betrifft die Klageerhebung, nicht eine Entscheidung. Als
     Fundstelle taugt allenfalls die Klageschrift.'
   verfahrensstadium: Klageerhebung — noch keine Entscheidung
-  quelle_art: fehlt
 - id: us-2026-lyons-openai
   jurisdiktion: us
   gericht: United States District Court, Northern District of California
@@ -537,7 +531,6 @@ urteile:
   - 'Inhalt: Antrag auf Abweisung bzw. Aussetzung nach der Colorado-River-Doktrin abgelehnt, weil das
     parallele Landesverfahren (Adams) einen anderen Schaden betrifft (Drittschädigung statt Selbstschädigung)
     und die Verfahren daher nicht hinreichend parallel sind.'
-  quelle_art: amtlich
 - id: us-2026-gavalas-google
   jurisdiktion: us
   gericht: kalifornisches Gericht (genaue Kammer nicht belegt)
@@ -586,7 +579,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Der Eintrag vermerkt selbst "Gericht: kalifornisches Gericht
     (genaue Kammer nicht belegt)" und "Aktenzeichen: nicht belegt". Der bisherige Link ist ein TechCrunch-Artikel
     vom 04.03.2026 über eine KLA'
-  quelle_art: fehlt
 - id: us-2025-peralta-character
   jurisdiktion: us
   gericht: United States District Court (Colorado; Kammer nicht belegt)
@@ -634,7 +626,6 @@ urteile:
   - 'Am 03.09.2026 richtiggestellt: Der Eintrag betrifft die Klageerhebung, nicht eine Entscheidung. Als
     Fundstelle taugt allenfalls die Klageschrift.'
   verfahrensstadium: Klageerhebung — noch keine Entscheidung
-  quelle_art: fehlt
 - id: us-2026-florida-openai
   jurisdiktion: us
   gericht: Circuit Court of the Tenth Judicial Circuit, Highlands County, Florida
@@ -677,7 +668,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: Office of the Attorney General of Florida (myfloridalegal.com), eingangsgestempelte
     Klageschrift; CNN; DataGuidance
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Der Systemwechsel: Verbraucherschutzrecht statt Deliktsrecht. Ein AG braucht keinen
     Geschädigten, keine Kausalität und keinen Schadensnachweis — nur eine irreführende Aussage. Damit
@@ -713,7 +704,6 @@ urteile:
   - 'Weiterhin KEINE ENTSCHEIDUNG: Der Eintrag betrifft die Klageerhebung. Das Datum 01.06.2026 ist amtlich
     als Einreichungsdatum belegt.'
   verfahrensstadium: Klageerhebung — noch keine Entscheidung
-  quelle_art: fehlt
 - id: us-2026-pennsylvania-character
   jurisdiktion: us
   gericht: Commonwealth Court of Pennsylvania (Klage des Pennsylvania Department of State)
@@ -764,7 +754,6 @@ urteile:
     kontrollieren, nicht nur den Inhalt.
 
     '
-  quelle_art: amtlich
   sachverhalt: Eine KI-Arbeitsgruppe des pennsylvanischen Department of State untersuchte, ob auf Chatbot-Plattformen
     angebotene Kunstfiguren sich als Angehörige der Heilberufe ausgeben. Auf Character.AI fand sie Personae
     — darunter eine namens "Emilie" —, die sich als in Pennsylvania approbierte Psychiater bezeichneten
@@ -819,7 +808,6 @@ urteile:
     scheitern dürfte, denn Datenschutz ist traditionell einzelstaatliche Polizeigewalt.
 
     '
-  quelle_art: amtlich
 - id: us-2025-ftc-6b-companion
   jurisdiktion: us
   gericht: Federal Trade Commission
@@ -866,7 +854,6 @@ urteile:
     '
   normen:
   - usc-15-46-b
-  quelle_art: amtlich
 - id: us-2025-replika-ftc-beschwerde
   jurisdiktion: us
   gericht: Federal Trade Commission
@@ -899,7 +886,7 @@ urteile:
   instanzenzug:
   - us-2025-ftc-6b-companion
   quelle_tracker: Tech Justice Law Project; TIME
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Aufgenommen, weil die Beschwerde die dogmatische Brücke gebaut hat, die die spätere
     6(b)-Untersuchung übernommen hat: Nicht der Inhalt einzelner Äußerungen ist unlauter, sondern die
@@ -918,7 +905,6 @@ urteile:
   - 'Am 03.09.2026 richtiggestellt: Der Eintrag betrifft die Klageerhebung, nicht eine Entscheidung. Als
     Fundstelle taugt allenfalls die Klageschrift.'
   verfahrensstadium: Klageerhebung — noch keine Entscheidung
-  quelle_art: fehlt
 - id: us-2025-walters-openai
   jurisdiktion: us
   gericht: Superior Court of Gwinnett County, Georgia (Judge Tracie Cason)
@@ -1011,7 +997,6 @@ urteile:
     und nicht durch den Beschlusstext gedeckt; verifiziert bleibt deshalb false.
   dokumenttyp: Order granting summary judgment; Kopie des e-eingereichten Beschlusses mit Eingangsstempel
     des Clerk of Superior Court, Gwinnett County
-  quelle_art: fehlt
 - id: us-2024-mobley-workday-agent
   jurisdiktion: us
   gericht: United States District Court, Northern District of California
@@ -1088,7 +1073,6 @@ urteile:
     auf das eingereichte Dokument umgestellt.
   - 'Schreibweise berichtigt: "amicus curiae" statt "amicus curiae" (systematische Zeichenverfälschung
     "ae" zu "ä").'
-  quelle_art: amtlich
   sachverhalt: Derek Mobley ist Afroamerikaner, über vierzig Jahre alt, leidet an Angst und Depression
     und hat einen Finanzabschluss des Morehouse College sowie Zertifikate des ITT Technical Institute;
     seit 2010 arbeitete er im Finanzwesen, im IT-Helpdesk und im Kundendienst, unter anderem bei Hewlett
@@ -1164,7 +1148,6 @@ urteile:
   - 'Inhalt: vorläufige Zertifizierung der ADEA-Kollektivklage für Bewerber ab 40 Jahren, die über Workday
     abgelehnt wurden.'
   - Der bisherige Link (clearinghouse.net) ist eine Verfahrensübersicht, kein Entscheidungstext.
-  quelle_art: amtlich
   sachverhalt: 'Nachdem das Gericht im Juli 2024 die Klage gegen Workday wegen mittelbarer Diskriminierung
     hatte passieren lassen, traten vier weitere Bewerber dem Verfahren bei. Auch sie waren über vierzig,
     hatten nach eigenem Vortrag Hunderte von Bewerbungen über Systeme von Workday eingereicht und jedes
@@ -1245,7 +1228,6 @@ urteile:
   - 'Amtliche Granulat-Beschreibung: ''Order granting in part and denying in part 301 Motion to Dismiss''
     (Richterin Rita F. Lin).'
   - Der bisherige Link war eine Kopie auf courthousenews.com.
-  quelle_art: amtlich
 - id: us-2023-eeoc-itutorgroup
   jurisdiktion: us
   gericht: United States District Court, Eastern District of New York
@@ -1292,7 +1274,6 @@ urteile:
     '
   normen:
   - usc-29-623-a
-  quelle_art: amtlich
 - id: us-2025-aclu-intuit-hirevue
   jurisdiktion: us
   gericht: Colorado Civil Rights Division; U.S. Equal Employment Opportunity Commission
@@ -1331,7 +1312,7 @@ urteile:
   - us-co-sb24-205
   instanzenzug: []
   quelle_tracker: Public Justice; ACLU; HR Dive; Proskaür
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Der dogmatisch interessanteste Diskriminierungsfall, weil er die Schwäche des disparate-impact-Ansatzes
     vermeidet. Der Vorwurf ist nicht statistisch ("Menschen über 40 werden seltener eingeladen"), sondern
@@ -1354,7 +1335,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Der Eintrag betrifft eine VERWALTUNGSBESCHWERDE (Charge) bei
     der Colorado Civil Rights Division und der EEOC vom 19.03.2025. Der Eintrag vermerkt selbst "Aktenzeichen
     nicht öffentlich". EEOC- und CCR'
-  quelle_art: fehlt
 - id: us-2022-louis-saferent
   jurisdiktion: us
   gericht: United States District Court, District of Massachusetts
@@ -1425,7 +1405,6 @@ urteile:
   - 'Ergänzt: das vollständige Aktenzeichen enthält das Richterkürzel -AK.'
   - 'Inhalt: FHA-Disparate-Impact-Klage gegen den Scoring-Algorithmus zulässig; Metropolitans Antrag abgewiesen,
     SafeRents Antrag teilweise.'
-  quelle_art: amtlich
   sachverhalt: Mary Louis, 54 Jahre alt und schwarz, bezog einen Wohngutschein, der rund 69 Prozent ihrer
     Miete deckte, und bewarb sich um eine Wohnung in der Anlage Granada Highlands der Metropolitan Management
     Group. Ihre Bewerbung wurde abgelehnt, weil der SafeRent-Score — eine Zahl zwischen 200 und 800, errechnet
@@ -1506,7 +1485,6 @@ urteile:
   - 'Inhalt: endgültige Genehmigung des Vergleichs; die Klasse erhält 23 % Eigenkapitalanteil an Clearview
     AI (Wert rund 51,75 Mio. USD), Bestellung eines Settlement Master; Einwände zurückgewiesen.'
   - govinfo führt dieses Package nur bis 2022; die Genehmigungsentscheidung ist dort nicht hinterlegt.
-  quelle_art: amtlich
 - id: us-2026-clearview-7circuit
   jurisdiktion: us
   gericht: United States Court of Appeals for the Seventh Circuit
@@ -1575,7 +1553,6 @@ urteile:
     erhielten als die Mitglieder der bevorzugten Untergruppen; an der Equity-Struktur als solcher und
     am Fehlen von Unterlassungsansprüchen nahm das Gericht keinen Anstoß.'
   - Der bisherige Link war ein Fachzeitschriftenbeitrag.
-  quelle_art: amtlich
   sachverhalt: 'Clearview AI betrieb eine Suchmaschine für Gesichter: Es sammelte Fotos von öffentlich
     zugänglichen Websites einschließlich sozialer Netzwerke, errechnete daraus Gesichtsvektoren und lieferte
     auf ein hochgeladenes Bild hin die Fundstellen der Treffer im Netz — mit den Beziehungen, politischen
@@ -1659,7 +1636,6 @@ urteile:
     erfasst. Der Eintrag hatte die Beschreibung auf alle Kläger erstreckt.'
   - Der amtliche Link wurde am 05.09.2026 abgerufen und liefert den Volltext mit dem Tenor "REVERSED AND
     REMANDED".
-  quelle_art: amtlich
   sachverhalt: 'Reginald Clay ist Lastwagenfahrer und musste sich beim Befahren und Verlassen der Anlagen
     von Union Pacific jedes Mal per Fingerabdruck ausweisen; nach seinem Vortrag wurden seine Fingerabdrücke
     etwa 1.500 Mal erfasst. John Gregg und Brandon Willis stempelten bei ihren Arbeitgebern über biometrische
@@ -1709,7 +1685,7 @@ urteile:
   instanzenzug:
   - us-2024-vance-google
   quelle_tracker: Berkeley Law (Volltexte); Perkins Coie; Biometric Update
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die Entscheidung, die den BIPA-Weg gegen Trainingsdaten versperrt hat. Sie beantwortet
     die Frage, wo eine Datenverarbeitung "stattfindet", technisch-territorial statt betroffenenbezogen
@@ -1729,7 +1705,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurden die Beschlüsse des W.D. Washington vom 17.10.2022
     in Vance v. Amazon.com (C20-1084JLR) und Vance v. Microsoft (C20-1082JLR), Richter Robart. Die govinfo-Packages
     USCOURTS-wawd-2_20-cv-'
-  quelle_art: fehlt
 - id: us-2024-vance-google
   jurisdiktion: us
   gericht: United States District Court, Northern District of California
@@ -1763,7 +1738,7 @@ urteile:
   instanzenzug:
   - us-2022-vance-amazon-microsoft
   quelle_tracker: CaseMine; Biometric Update; Covington Inside Privacy
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Bestätigt die Extraterritorialitätsschranke für einen dritten Großkonzern und damit
     die Linie: Der IBM-"Diversity in Faces"-Komplex, aus dem alle drei Verfahren stammen, ist juristisch
@@ -1778,7 +1753,6 @@ urteile:
   normen:
   - ilcs-740-14-15-b
   - ilcs-740-14-15-c
-  quelle_art: datenbank
 - id: us-2024-ftc-rytr
   jurisdiktion: us
   gericht: Federal Trade Commission
@@ -1824,7 +1798,6 @@ urteile:
   normen:
   - usc-15-45-a
   - usc-15-45-n
-  quelle_art: amtlich
 - id: us-2025-ftc-rytr-aufhebung
   jurisdiktion: us
   gericht: Federal Trade Commission
@@ -1877,7 +1850,6 @@ urteile:
   normen:
   - usc-15-45-a
   - usc-15-45-n
-  quelle_art: amtlich
   sachverhalt: Rytr LLC bot einen KI-gestützten Schreibassistenten an. Eine seiner Vorlagen, "Testimonial
     & Review", erzeugte aus wenigen Stichworten fertige Kundenbewertungen; die Federal Trade Commission
     sah darin ein Werkzeug zur massenhaften Herstellung falscher Rezensionen und nahm Rytr im September
@@ -1934,7 +1906,6 @@ urteile:
     '
   normen:
   - usc-15-45-a
-  quelle_art: amtlich
 - id: us-2024-ftc-evolv
   jurisdiktion: us
   gericht: Federal Trade Commission
@@ -1991,7 +1962,6 @@ urteile:
     hat den Stipulated Order am 11.03.2025 förmlich eingetragen. Beklagte ist Evolv Technologies HOLDINGS,
     Inc.'
   - 'Zugehörige Complaint (nicht die Entscheidung): https://www.ftc.gov/system/files/ftc_gov/pdf/EVOLVCOMPLAINTFILED.pdf'
-  quelle_art: amtlich
 - id: us-2025-ftc-intellivision
   jurisdiktion: us
   gericht: Federal Trade Commission
@@ -2037,7 +2007,6 @@ urteile:
     '
   normen:
   - usc-15-45-a
-  quelle_art: amtlich
 - id: us-2024-sec-ai-washing
   jurisdiktion: us
   gericht: U.S. Securities and Exchange Commission
@@ -2087,7 +2056,6 @@ urteile:
     US-Dollar; SEC v. Kubient, Endurteil gegen Weiß vom 08.07.2026) bestätigen die Linie ohne sie fortzüntwickeln.
 
     '
-  quelle_art: amtlich
 - id: us-2025-gibson-cendyn
   jurisdiktion: us
   gericht: United States Court of Appeals for the Ninth Circuit
@@ -2149,7 +2117,6 @@ urteile:
     Gericht, Aktenzeichen, Datum, Besetzung und Ergebnis stimmen mit dem Eintrag überein.'
   - 'Schreibweisen berichtigt: "Caesars Entertainment" statt "Caesars Entertainment", "Revenue-Management-Software"
     statt "Revenue-Management-Software" (systematische Zeichenverfälschung).'
-  quelle_art: amtlich
   sachverhalt: Die Cendyn Group vertreibt unter dem Namen Rainmaker eine Software, die Hotels Zimmerpreise
     empfiehlt. Mehrere große Kasinohotels am Las Vegas Strip — Caesars Entertainment, MGM Resorts, Treasure
     Island und Wynn Resorts — lizenzierten sie, jedes für sich. Richard Gibson und weitere Gäste, die
@@ -2193,7 +2160,7 @@ urteile:
   instanzenzug:
   - us-2026-cornish-adebiyi-3circuit
   quelle_tracker: Justia; CourtListener
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Aufgenommen als Vorinstanz, weil die Divergenz erst im Vergleich sichtbar wird: Dasselbe
     Gericht, dieselbe Software, derselbe Vortrag — und zwei Jahre später ein gegenteiliges Ergebnis in
@@ -2205,7 +2172,6 @@ urteile:
     '
   normen:
   - usc-15-1
-  quelle_art: datenbank
 - id: us-2026-cornish-adebiyi-3circuit
   jurisdiktion: us
   gericht: United States Court of Appeals for the Third Circuit
@@ -2267,7 +2233,6 @@ urteile:
   normen:
   - ki-vo-art-14
   - usc-15-1
-  quelle_art: amtlich
   sachverhalt: 'Die Kasinohotels von Atlantic City — Häuser von Caesars, Harrah''s, Tropicana, MGM und
     Hard Rock — nutzten die Preisempfehlungssoftware der Cendyn Group, eingeführt über einen Zeitraum
     von vierzehn Jahren nacheinander. Karen Cornish-Adebiyi und weitere Gäste trugen vor, die Häuser hätten
@@ -2339,7 +2304,6 @@ urteile:
     Genehmigung steht unter dem Vorbehalt des Antitrust Procedures and Penalties Act.'
   - Vollständiges Aktenzeichen mit Richterkürzeln ergänzt. Der bisherige Link war ein Kanzlei-Newsletter.
   - 'Verfahrensübersicht der Antitrust Division: https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc'
-  quelle_art: amtlich
   sachverhalt: RealPage vertreibt Software, die Vermietern von Mehrfamilienobjekten Mietpreise empfiehlt,
     darunter das Produkt AI Revenue Management. Die angeschlossenen Vermieter lieferten dafür laufend
     ihre eigenen Vertragsdaten — Laufzeiten, tatsächlich vereinbarte Mieten, Rabatte, Nachfragezahlen
@@ -2417,7 +2381,6 @@ urteile:
     Angaben stammen aus dem Vergleichsportal und sind gesondert zu prüfen.'
   - 'Schreibweise berichtigt: "Revenue-Management-Software" statt "Revenue-Management-Software" (systematische
     Zeichenverfälschung).'
-  quelle_art: amtlich
   sachverhalt: Parallel zu dem Verfahren des Justizministeriums klagten Mieter aus dem ganzen Land gegen
     RealPage und gegen die Wohnungsgesellschaften, die dessen Preisempfehlungssoftware einsetzten; das
     Judicial Panel on Multidistrict Litigation fasste diese Verfahren in Nashville zusammen. Betroffen
@@ -2489,7 +2452,6 @@ urteile:
     Act, 15 U.S.C. § 16.'
   - 'Ergänzende amtliche Dokumente: Competitive Impact Statement vom 21.05.2026 (https://www.justice.gov/atr/media/1442401/dl);
     Corrected Stipulation and Order vom 18.05.2026 (https://www.justice.gov/atr/media/1441221/dl).'
-  quelle_art: amtlich
 - id: us-2026-musk-openai
   jurisdiktion: us
   gericht: United States District Court, Northern District of California
@@ -2530,7 +2492,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: NPR; CNBC; CBC; Al Jazeera; CourtListener 4:24-cv-04722; cand.uscourts.gov
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Rechtlich ein Nichtergebnis, wirtschaftlich eine Weichenstellung. Die Frage, ob eine
     gemeinnützige Zwecksetzung bei der Entwicklung von KI über Verjährungsfristen hinaus bindet — die
@@ -2549,7 +2511,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: KEINE GERICHTLICHE ENTSCHEIDUNG. Der 18.05.2026 ist das Datum
     eines GESCHWORENENSPRUCHS (jury verdict) in Musk v. Altman, N.D. Cal., 4:24-cv-04722-YGR; das zugehörige
     Dokument wäre ein Verdict Form '
-  quelle_art: fehlt
 - id: us-2026-amazon-perplexity-9circuit
   jurisdiktion: us
   gericht: United States Court of Appeals for the Ninth Circuit
@@ -2586,7 +2547,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: Ninth Circuit (Volltext); Wilson Sonsini; Cooley; Ropes & Gray; Troutman
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Die erste Berufungsentscheidung weltweit zur Rechtsstellung agentischer KI — und
     sie beantwortet die Zurechnungsfrage genau umgekehrt zu allem, was im Haftungsrecht geschieht. Während
@@ -2604,7 +2565,6 @@ urteile:
   - usc-18-1030-a-2-c
   - usc-18-1030-e-6
   - usc-18-1030-g
-  quelle_art: datenbank
   leitsatz: Wer einen KI-Agenten benutzt, um auf eine fremde Website zuzugreifen, greift selbst zu. Der
     Anbieter des Agenten "accessed" den Rechner nicht im Sinne des Computer Fraud and Abuse Act; der Agent
     ist Werkzeug des Nutzers.
@@ -2686,7 +2646,6 @@ urteile:
     gehören zum verbundenen AB-2655-Komplex, über den mit gesondertem ''Order and Final Judgment'' vom
     20.08.2025 entschieden wurde (Granulat 24 desselben Package: https://www.govinfo.gov/content/pkg/USCOURTS-caed-2_24-cv-02527/pdf/USCOURTS-caed-2_24-cv-02527-24.pdf).'
   - 'Ergebnis: AB 2839 verstößt gegen den First Amendment; dauerhafte Untersagung der Durchsetzung.'
-  quelle_art: amtlich
   sachverhalt: 'Christopher Kohls veröffentlicht unter dem Namen "Mr Reagan" politische Satire im Netz.
     Im Wahlkampf 2024 stellte er mit generativer KI erfundene Wahlwerbespots über Kamala Harris, Gavin
     Newsom und Elizabeth Warren her, in denen deren Stimmen nachgebildet waren; der Spot über Harris verbreitete
@@ -2786,7 +2745,6 @@ urteile:
   - 'Weiterhin KEINE ENTSCHEIDUNG: volltext_url zeigt auf die eingereichte Klageschrift; das Datum des
     Eintrags ist das Datum der Klageerhebung.'
   verfahrensstadium: Klageerhebung — noch keine Entscheidung
-  quelle_art: amtlich
   sachverhalt: 'Colorado beschloss 2024 mit SB 24-205 als erster US-Bundesstaat ein allgemeines Gesetz
     gegen algorithmische Diskriminierung: Wer KI-Systeme entwickelt oder einsetzt, die über folgenreiche
     Entscheidungen mitbestimmen, sollte Diskriminierung vermeiden und die dazu getroffenen Vorkehrungen
@@ -2833,7 +2791,7 @@ urteile:
   instanzenzug:
   - us-2026-xai-weiser
   quelle_tracker: Consilium; Jenner & Block; Baker Botts; Barnes & Thornburg
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Aufgenommen als Nichtereignis mit hoher Signalwirkung. Eine Executive Order kann
     einzelstaatliches Recht nicht verdrängen — Preemption setzt ein Bundesgesetz voraus, und drei Anläufe
@@ -2852,7 +2810,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Kein Gerichtsverfahren und keine Entscheidung: Der Eintrag
     beschreibt die Einrichtung einer "AI Litigation Task Force" im U.S. Department of Justice zum 09.01.2026
     auf Grundlage einer Executive Order.'
-  quelle_art: fehlt
 - id: us-2026-netchoice-bonta-caadca
   jurisdiktion: us
   gericht: United States Court of Appeals for the Ninth Circuit
@@ -2910,7 +2867,6 @@ urteile:
   normen:
   - us-const-amend-1
   - us-const-amend-14
-  quelle_art: amtlich
 - id: us-2025-lehrman-lovo
   jurisdiktion: us
   gericht: United States District Court, Southern District of New York
@@ -2980,7 +2936,6 @@ urteile:
   - 'ABWEICHUNG: Die Entscheidung datiert vom 10.07.2025, nicht vom 17.07.2025 wie im Eintrag.'
   - 'Inhalt: Lanham-Act- und Copyright-Ansprüche abgewiesen; Vertrags-, Verbraucherschutz- und die Ansprüche
     nach N.Y. Civil Rights Law §§ 50–51 (Stimme) bleiben bestehen.'
-  quelle_art: amtlich
   sachverhalt: Am 29. Oktober 2019 sprach auf der Auftragsplattform Fiverr ein Nutzer namens "tomlsg"
     — nach dem Vortrag der Kläger der Lovo-Mitgründer Tom Lee — die Sprecherin Linnea Sage an. Auf ihre
     Frage nach der Verwendung hieß es, es handele sich um Testskripte für Radiowerbung, sie würden nicht
@@ -3064,7 +3019,6 @@ urteile:
     is ''capable of creating, recording, and retaining data for purposes other than sending the data back
     to its business client'' — not whether it actually does so." Tenor: "Based on the foregoing analysis,
     Google, LLC''s motion to dismiss (Dkt. No. 47) is DENIED."'
-  quelle_art: amtlich
   sachverhalt: Verizon, Hulu, GoDaddy und Home Depot betreiben ihre telefonischen Kundenzentren mit Google
     Cloud Contact Center AI. Der Dienst hört bei jedem Anruf mit, wandelt das Gespräch in Text um, wertet
     Anliegen und Stimmung des Anrufers in Echtzeit aus und schlägt den Mitarbeitern Antworten vor. Misael
@@ -3127,7 +3081,6 @@ urteile:
   - 'Ergänzt: Der Eintrag enthielt kein Aktenzeichen; es lautet No. 24-14.'
   - 'Inhalt: Bestätigung der Abweisung mangels Article-III-Standing; das beanstandete Tracking gleicht
     keiner der historisch anerkannten Privatsphäredelikte.'
-  quelle_art: amtlich
 - id: us-2025-gutierrez-converse
   jurisdiktion: us
   gericht: United States Court of Appeals for the Ninth Circuit
@@ -3186,7 +3139,6 @@ urteile:
     für die Zitierfähigkeit erheblich (9th Cir. R. 36-3).'
   - 'Ausgangsverfahren: C.D. Cal., No. 2:23-cv-06547-KK-MAR (Richterin Kenly Kiya Kato). Salesforce, Inc.
     ist im Rubrum des Memorandums nicht als eigene Berufungsbeklagte geführt.'
-  quelle_art: amtlich
 - id: us-2025-taylor-conversenow
   jurisdiktion: us
   gericht: United States District Court, Northern District of California
@@ -3240,7 +3192,6 @@ urteile:
     to Dismiss'' (Richterin Susan Illston).'
   - 'Rubrum laut govinfo: Taylor v. ConverseNow Technologies, Inc., N.D. Cal.'
   - Der bisherige Link war ein Kanzlei-Newsletter.
-  quelle_art: amtlich
 - id: us-2025-otter-ai
   jurisdiktion: us
   gericht: United States District Court, Northern District of California, San Jose Division
@@ -3310,7 +3261,6 @@ urteile:
   - 'Inhalt: ECPA-, BIPA-, CIPA-, Bereicherungs- und UCL-Ansprüche bleiben bestehen; CFAA-, CDAFA- und
     Washington-Privacy-Act-Ansprüche abgewiesen mit Änderungsmöglichkeit.'
   - Der bisherige Link (ailawsuittracker.com) ist eine private Verfahrensübersicht.
-  quelle_art: amtlich
 - id: us-2026-anderegg-7circuit
   jurisdiktion: us
   gericht: United States Court of Appeals for the Seventh Circuit
@@ -3384,7 +3334,6 @@ urteile:
   - 'Zitat im Eintrag vervollständigt: "the government may not prohibit speech because it increases the
     chance an unlawful act will be committed at some indefinite future time".'
   - Der amtliche Link wurde am 05.09.2026 abgerufen und liefert den Volltext der Entscheidung.
-  quelle_art: amtlich
   sachverhalt: Steven Anderegg installierte auf seinem Laptop das Bildmodell Stable Diffusion und ergänzte
     es um Komponenten, mit denen sich Geschlechtsteile darstellen ließen. Damit erzeugte er hunderte fotorealistische
     Bilder, die vorpubertäre Kinder nackt oder halb bekleidet und in sexuellen Handlungen zeigten; ein
@@ -3453,7 +3402,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde eine Entscheidung des S.D. Ohio im Strafverfahren
     United States v. James Strahler II. Der Eintrag vermerkt selbst "Aktenzeichen: nicht belegt". Auffindbar
     ist nur eine Pressemitteilung d'
-  quelle_art: fehlt
 - id: us-2026-melton-price-physics
   jurisdiktion: us
   gericht: United States District Court, Southern District of New York
@@ -3498,7 +3446,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Der Eintrag vermerkt "Aktenzeichen: nicht belegt"; der bisherige
     Link ist eine Übersichtsseite eines privaten Anbieters (vorplabs.com). Ohne Aktenzeichen und ohne
     Angabe der Kammer lässt sich im S.D'
-  quelle_art: fehlt
 - id: us-2025-lokken-unitedhealth
   jurisdiktion: us
   gericht: United States District Court, District of Minnesota
@@ -3565,7 +3512,6 @@ urteile:
     Eintrag nennt UnitedHealthcare, Inc. nicht).'
   - 'Ergebnis: Vertrags- und Treu-und-Glauben-Ansprüche zulässig; übrige Ansprüche nach dem Medicare Act
     präkludiert.'
-  quelle_art: amtlich
   sachverhalt: UnitedHealthcare bietet Tarife nach dem Medicare-Advantage-Programm an; die Tochtergesellschaft
     NaviHealth setzt dabei das Prognosewerkzeug nH Predict ein, das einen Versicherten mit ähnlich gelagerten
     Fällen vergleicht und daraus errechnet, wie viel nachstationäre Versorgung er brauchen werde. Nach
@@ -3636,4 +3582,3 @@ urteile:
     nur die Erstklägerin.'
   - Vollständiges Aktenzeichen mit Richterkürzeln ergänzt.
   - Der bisherige Link war ein Blogbeitrag.
-  quelle_art: amtlich

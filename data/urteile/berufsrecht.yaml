@@ -58,7 +58,6 @@ urteile:
   - Gericht, Aktenzeichen (1:22-cv-01461-PKC) und Datum (22.06.2023) stimmen mit dem Eintrag überein.
   - volltext_url von der Datenbank Justia auf das tatsächlich eingereichte Dokument in RECAP umgestellt;
     quelle_art damit amtlich.
-  quelle_art: amtlich
   sachverhalt: Auf einem Flug von El Salvador nach New York-JFK stieß ein metallener Servierwagen gegen
     das linke Knie von Roberto Mata. Am 2. Februar 2022 klagte er vor dem New Yorker Staatsgericht gegen
     die Fluggesellschaft Avianca; diese ließ die Sache am 22. Februar 2022 an das Bundesgericht verweisen
@@ -136,7 +135,6 @@ urteile:
     of a referral to the Committee on Admissions and Grievances"; und der Leitsatz "At the very least,
     the duties imposed by Rule 11 require that attorneys read, and thereby confirm the existence and validity,
     of the legal authorities on which they rely."'
-  quelle_art: amtlich
   sachverhalt: Minhye Park klagte vor dem Bundesgericht in Brooklyn gegen den Arzt David Dennis Kim. Sie
     befolgte über Monate hinweg die Anordnungen zur Beweismittelvorlage nicht, obwohl die zuständige Magistratsrichterin
     sie mehrfach ausdrücklich warnte, dies sei ihre letzte Gelegenheit; nach mehr als sieben Monaten wies
@@ -183,7 +181,7 @@ urteile:
   - us-2023-mata-avianca
   quelle_tracker: Office of Attorney Regulation Counsel / Presiding Disciplinary Judge (coloradolegalregulation.com),
     Volltext der Stipulation to Discipline
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: &id003 2026-09-05
   eigene_bewertung: 'ACHTUNG — HÄUFIGE VERWECHSLUNG. Der im Auftrag als "Kruse (Colorado)" bezeichnete
     Fall existiert so nicht. Colorado ist People v. Crabill (Disziplinarverfahren, Zulassungsaussetzung);
@@ -230,7 +228,6 @@ urteile:
     "legal intern" zugeschrieben.'
   sekundaerquelle_url: https://www.coloradolegalregulation.com/wp-content/uploads/PDJ/Decisions/Crabill,%20Stipulation%20to%20Discipline,%2023PDJ067,%2011-22-23.pdf
   dokumenttyp: Order Approving Conditional Admission of Misconduct (Stipulation to Discipline)
-  quelle_art: fehlt
 - id: us-2024-kruse-karlen
   jurisdiktion: us
   gericht: Missouri Court of Appeals, Eastern District
@@ -293,7 +290,6 @@ urteile:
     E. Gardner und Renée D. Hardin-Tammons; 22 von 24 Fundstellen erfunden oder für unzutreffende Sätze
     zitiert; Tenor "Appellant is hereby ordered to pay Respondent damages towards appellate attorneys''
     fees in the amount of $10,000" bei Verwerfung der Berufung.'
-  quelle_art: amtlich
   sachverhalt: Jonathan R. Karlen hatte einen Zivilprozess in Missouri gegen Molly Kruse verloren und
     wollte Berufung einlegen; einen Anwalt nahm er dafür nicht. Stattdessen beauftragte er einen im Internet
     gefundenen "Consultant" mit der Abfassung der Schriftsätze, der dazu generative KI einsetzte. Von
@@ -368,7 +364,6 @@ urteile:
   - frcp-11-c
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/238/Gauthier_v._Goodyear_US_DC_Eastern_Texas_November_25_2024.pdf
   dokumenttyp: Memorandum and Order (Rule 11 Sanctions)
-  quelle_art: amtlich
 - id: us-2025-coomer-lindell
   jurisdiktion: us
   gericht: United States District Court, D. Colorado (Wang, District Judge)
@@ -437,7 +432,6 @@ urteile:
   - frcp-11-c
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/566/Coomer_v._Lindell_USA_7_July_2025.pdf
   dokumenttyp: Order (Sanktionsbeschluss nach Rule 11)
-  quelle_art: amtlich
   sachverhalt: Eric Coomer war Sicherheitsdirektor bei dem Wahlgerätehersteller Dominion Voting Systems.
     Nach der Präsidentschaftswahl 2020 wurde er in Behauptungen über eine angebliche Wahlmanipulation
     namentlich genannt; deswegen verklagte er den Unternehmer Michael J. Lindell, dessen Sender Frankspeech
@@ -506,7 +500,6 @@ urteile:
   - frcp-11-c
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/2118/Coomer_v._Lindell_USA_7_May_2026.pdf
   dokumenttyp: Order (zweiter Sanktionsbeschluss)
-  quelle_art: amtlich
 - id: us-2025-lacey-statefarm
   jurisdiktion: us
   gericht: United States District Court, C.D. California (Special Master Michael R. Wilner)
@@ -591,7 +584,6 @@ urteile:
   - frcp-11-c
   - usc-28-1927
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/311/Lacey_v._State_Farm_General_Insurances_Co._D._Cal._May_6_2025.pdf
-  quelle_art: amtlich
   sachverhalt: Jacquelyn Lacey warf der Versicherung State Farm General vor, ihren Schadensfall in unredlicher
     Weise abgelehnt oder verzögert zu haben. Vertreten wurde sie von zwei Kanzleien, Ellis George und
     K&L Gates. Für einen Schriftsatz im Streit über die Beweismittelvorlage fertigte Trent Copeland von
@@ -642,7 +634,7 @@ urteile:
   - us-2026-kleyman-kaloidis-vorentscheidung
   quelle_tracker: Volltext der Entscheidung vom 04.08.2026 (PDF-Kopie); Vorentscheidung amtlich in den
     New York Official Reports (2026 NY Slip Op 31557[U])
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id003
   eigene_bewertung: 'Die derzeit höchste dokumentierte Sanktion weltweit und damit der neue Referenzpunkt
     — sie löst Lacey ab, das 15 Monate lang als Höchstmarke galt. Der Fall ist die Eskalationsstufe, die
@@ -676,7 +668,6 @@ urteile:
   - 'Amtliche Fundstelle für die Entscheidung vom 04.08.2026 nicht auffindbar: Die New York Official Reports
     (nycourts.gov/reporter) führen zu diesem Verfahren nur den Beschluss vom 13.04.2026; die spätere,
     betragsfestsetzende Entscheidung ist dort (Stand 05.09.2026) nicht veröffentlicht.'
-  quelle_art: fehlt
 - id: us-2026-kleyman-kaloidis-vorentscheidung
   jurisdiktion: us
   gericht: Supreme Court of the State of New York, Kings County
@@ -736,7 +727,6 @@ urteile:
   - Slip-Opinion-Zitat ergänzt.
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/2026/Kleyman_L__Grp__P_C__v__Kaloidis.pdf
   dokumenttyp: Decision and Order (2026 NY Slip Op 31557(U))
-  quelle_art: amtlich
 - id: us-2025-johnson-dunn
   jurisdiktion: us
   gericht: United States District Court, N.D. Alabama (Manasco, District Judge)
@@ -809,7 +799,6 @@ urteile:
   - frcp-11-c
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/608/Butler-Snow-Order.pdf
   dokumenttyp: Sanctions Order
-  quelle_art: amtlich
   sachverhalt: 'Frankie Johnson ist Gefangener in Alabama und führt gegen den früheren Leiter der Gefängnisverwaltung
     Jefferson Dunn ein Verfahren wegen der Gewalt in den Anstalten des Staates. Die Beklagtenseite vertrat
     die Kanzlei Butler Snow. Am 7. und am 12. Mai 2025 reichte sie zwei Anträge ein: Den Entwurf hatte
@@ -879,7 +868,6 @@ urteile:
   - frcp-11-c
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/1225/Disability_Rights_Mississippi_v._Palmer_Home_USA_19_December_2025.pdf
   dokumenttyp: Sanctions Order
-  quelle_art: amtlich
 - id: us-2026-withers-aberdeen
   jurisdiktion: us
   gericht: United States District Court, N.D. Mississippi
@@ -941,7 +929,6 @@ urteile:
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/2371/Withers_v._City_of_Aberdeen_USA_June_2026.pdf
   dokumenttyp: Sanctions Order
   parteien_klaeger: Tom Withers, III
-  quelle_art: amtlich
 - id: us-2026-scott-illinois-hrc
   jurisdiktion: us
   gericht: Appellate Court of Illinois, First District, Second Division
@@ -971,7 +958,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: AI Hallucination Cases Database (CSV-Export)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Erfundene *Normen* statt erfundener Entscheidungen sind die gefährlichere Variante,
     weil Zitatprüfer auf Rechtsprechung trainiert sind und Gesetzesangaben seltener kontrolliert werden.
@@ -999,7 +986,6 @@ urteile:
   dokumenttyp: Opinion (2026 IL App (1st) 251462)
   parteien_beklagter: Illinois Human Rights Commission; Illinois Department of Human Rights; Starbucks
     Coffee Company
-  quelle_art: fehlt
 - id: us-2026-pro-se-linie-halluzination
   jurisdiktion: us
   gericht: Verschiedene US-Gerichte (Sammeleintrag zur Rechtsprechungslinie)
@@ -1093,7 +1079,6 @@ urteile:
   - frcp-11-b
   - frcp-11-c
   sekundaerquelle_url: https://www.damiencharlotin.com/hallucinations/
-  quelle_art: amtlich
   sachverhalt: Generative Chatbots sind kostenlos oder für wenige Dollar im Monat zugänglich; einen Anwalt
     können sich viele Prozessparteien in den Vereinigten Staaten nicht leisten. Seit 2023 reichen deshalb
     immer mehr Menschen, die sich selbst vertreten, Schriftsätze bei Gericht ein, die sie mit ChatGPT
@@ -1195,7 +1180,6 @@ urteile:
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/606/Levon_v._CorMedix_USA_July_22_2025.pdf
   dokumenttyp: Opinion
   parteien_klaeger: John C. Levon, individuell und für die Klasse
-  quelle_art: amtlich
   sachverhalt: CorMedix ist ein börsennotiertes Biopharmaunternehmen aus New Jersey; sein wichtigstes
     Produkt DefenCath ist eine antimikrobielle Lösung, die in nicht benutzte Katheter eingebracht wird,
     um Infektionen zu verhindern. Anleger warfen dem Unternehmen und seiner Führung vor, über die Zulassungsreife
@@ -1266,7 +1250,6 @@ urteile:
   - 'ABWEICHUNG: Das im Eintrag genannte Werkzeug ''Perplexity'' wird im Schreiben des Ausschusses NICHT
     benannt; dort ist nur allgemein von ''generative artificial intelligence'' die Rede. Die Zuschreibung
     stammt aus Sekundärberichterstattung und sollte gekennzeichnet werden.'
-  quelle_art: amtlich
   sachverhalt: Mississippi hatte ein Gesetz erlassen, das Programme zur Förderung von Vielfalt an Schulen
     und Hochschulen einschränkt. Die Lehrergewerkschaft Jackson Federation of Teachers und weitere Kläger
     griffen es vor dem Bundesgericht in Mississippi an und beantragten eine einstweilige Anordnung gegen
@@ -1368,7 +1351,6 @@ urteile:
     steht durchgaengig der 06.10.2025; der Vorbehalt haengt an einem Datum, das nicht mehr da ist.'
   normen:
   - usc-28-331
-  quelle_art: amtlich
   sachverhalt: 'Innerhalb weniger Tage im Juli 2025 erließen zwei US-Bundesrichter Entscheidungen mit
     erfundenen Zitaten und aktenwidrigen Feststellungen: Henry T. Wingate in Mississippi eine einstweilige
     Anordnung gegen ein Landesgesetz zu Diversitätsprogrammen, Julien X. Neals in New Jersey eine Entscheidung
@@ -1413,7 +1395,7 @@ urteile:
   instanzenzug:
   - us-2025-cormedix-neals
   quelle_tracker: AI Hallucination Cases Database (Tabellenzeile vom 27.08.2026)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Nur als Tabellenzeile erfasst, Einzelheiten ungeprüft — vor Verwendung nachzurecherchieren.
     Der Eintrag ist dennoch wichtig, weil er zeigt, dass richterliche Halluzination kein US-Phänomen ist.
@@ -1445,7 +1427,6 @@ urteile:
   dokumenttyp: Urteil/Beschluss (Special Civil Application)
   aktenzeichen_original: R/Special Civil Application No. 10123 of 2026
   parteien_klaeger: Faiz Enterprise through Proprietor Mahetar Mahir Farukbhai
-  quelle_art: amtlich
 - id: ca-2024-zhang-chen
   jurisdiktion: ca
   gericht: Supreme Court of British Columbia, Vancouver Registry (The Honourable Justice D.M. Masuhara)
@@ -1490,7 +1471,7 @@ urteile:
   instanzenzug:
   - ca-2025-ko-li
   quelle_tracker: AI Hallucination Cases Database (Primärdokument verlinkt); CanLII (robots.txt gesperrt)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die dogmatisch folgenreichste Formulierung des gesamten Feldes: Gleichsetzung der
     erfundenen Fundstelle mit einer Falschaussage gegenüber dem Gericht. Das ist mehr als eine Sorgfaltspflicht
@@ -1545,7 +1526,6 @@ urteile:
     Society kontaktierte, um mit einem practice advisor zu sprechen, und dass dieses Gespräch am 18.12.2023
     stattfand; über eine Verweisung entscheidet das Urteil nicht. Der Passus ist aus dem Ergebnis entfernt.'
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/772/Zhang_v._Chen.pdf
-  quelle_art: fehlt
 - id: ca-2025-ko-li
   jurisdiktion: ca
   gericht: Ontario Superior Court of Justice (F.L. Myers J)
@@ -1588,7 +1568,7 @@ urteile:
   - ca-2024-zhang-chen
   - uk-2025-ayinde-alharoun
   quelle_tracker: AI Hallucination Cases Database
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Wichtig für die Frage, wie weit Gerichte tatsächlich gehen — und ein Beispiel dafür,
     wie leicht die Sekundärliteratur zwei Entscheidungen desselben Verfahrens verwechselt. Die Einleitung
@@ -1664,7 +1644,6 @@ urteile:
   dokumenttyp: Reasons for Judgment (Ontario Superior Court of Justice)
   normen:
   - ca-on-scj-ppd-abschnitt-k
-  quelle_art: fehlt
 - id: ca-2026-arbuckle-tanner
   jurisdiktion: ca
   gericht: Nova Scotia Court of Appeal, Halifax Registry (Gogan J.A., Einzelrichterin in Chambers)
@@ -1702,7 +1681,7 @@ urteile:
   instanzenzug:
   - us-2026-pro-se-linie-halluzination
   quelle_tracker: AI Hallucination Cases Database
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die höchste Sanktion außerhalb der USA und zugleich ein Grenzfall der Kategorie:
     Es geht nicht um erfundene Rechtsprechung, sondern um ein gefälschtes Verfahrensdokument mit angemaßter
@@ -1734,7 +1713,6 @@ urteile:
   - 'Bestätigt: Verstoß gegen Rule 90.29(5) (zertifizierte Protokollführerin), Kosten von 20.000 CAD auf
     Freistellungsbasis nach Rule 90.40(4).'
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/2828/Arbuckle-v.-Tanner-2026-NSCA-62.pdf
-  quelle_art: fehlt
 - id: za-2025-mavundla-mec
   jurisdiktion: za
   gericht: High Court of South Africa, KwaZulu-Natal Division, Pietermaritzburg (E Bezuidenhout J)
@@ -1777,7 +1755,7 @@ urteile:
   instanzenzug:
   - uk-2025-ayinde-alharoun
   quelle_tracker: AI Hallucination Cases Database
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Methodisch der interessanteste Fall überhaupt: Der Richter reproduziert die Halluzination
     selbst, um den Beweis zu führen. Das ist ein neuer Beweistyp — der Nachweis der Fälschung durch Wiederholung
@@ -1851,7 +1829,6 @@ urteile:
   - za-constitution-s165
   - za-constitution-s34
   - za-lpa-s97-1-b
-  quelle_art: datenbank
 - id: il-2026-adibi-aig
   jurisdiktion: il
   gericht: Bezirksgericht Tel Aviv-Jaffa (Richterin Hadas Ovadia)
@@ -1882,7 +1859,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: AI Hallucination Cases Database
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Aufgenommen als Beleg dafür, dass die Fallreihe längst nicht mehr auf den Common
     Law beschränkt ist. Israel und Brasilien (41 Fälle) zeigen, dass das Problem überall dort auftritt,
@@ -1926,7 +1903,6 @@ urteile:
     eine Sachentscheidung.
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/2957/adiby1.pdf
   suchadresse: https://www.court.gov.il/NGCS.Web.Site/Search/SearchJudgments (Suche nach ת"צ 6989-05-25)
-  quelle_art: fehlt
 - id: us-2023-standing-order-starr
   jurisdiktion: us
   gericht: United States District Court, N.D. Texas (Judge Brantley Starr)
@@ -2012,7 +1988,6 @@ urteile:
     sie in dieser Form nicht mehr gilt.
   normen:
   - frcp-83-b
-  quelle_art: amtlich
   sachverhalt: Ende Mai 2023 wurde bekannt, dass zwei New Yorker Anwälte in dem Verfahren Mata gegen Avianca
     sechs von ChatGPT erfundene Entscheidungen bei Gericht eingereicht und auch nach der Beanstandung
     an ihnen festgehalten hatten; der Vorgang ging binnen Tagen durch die amerikanische Presse. Eine gerichtliche
@@ -2073,7 +2048,6 @@ urteile:
     Das genaue Erlassdatum innerhalb des Oktober 2025 ist nicht belegt; der 31.10.2025 ist ein Platzhalter.
 
     '
-  quelle_art: amtlich
   sachverhalt: Im Dezember 2023 gaben die Lady Chief Justice, der Master of the Rolls und der Senior President
     of Tribunals erstmals eine Handreichung zum Einsatz künstlicher Intelligenz für Richterinnen und Richter
     in England und Wales heraus. In den folgenden zwei Jahren hatten die englischen Gerichte wiederholt
@@ -2155,7 +2129,6 @@ urteile:
   - gg-art-92
   - gg-art-97-abs-1
   - gvg-1
-  quelle_art: amtlich
 - id: us-2025-mendones-cushman
   jurisdiktion: us
   gericht: Superior Court of California (Alameda County)
@@ -2193,7 +2166,7 @@ urteile:
   instanzenzug:
   - us-2026-fre-707
   quelle_tracker: Volltext des "Order re Terminating Sanctions" (PDF-Kopie); AI Hallucination Cases Database
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id003
   eigene_bewertung: 'Der bislang wichtigste Fall zu KI-erzeugten Beweismitteln und zugleich der am wenigsten
     beachtete. Er markiert den Übergang von der erfundenen Fundstelle zum gefälschten Beweismittel — und
@@ -2227,7 +2200,6 @@ urteile:
     Beschlüsse nicht; volltext_url zeigt daher auf eine Kopie des Primärdokuments, nicht auf eine Datenbankabfrage
     (Verbesserung gegenüber dem bisherigen Suchlink).'
   sekundaerquelle_url: https://www.damiencharlotin.com/documents/828/mendones-v-cushman-wakefield.pdf
-  quelle_art: fehlt
 - id: us-2025-kohls-ellison
   jurisdiktion: us
   gericht: United States District Court, D. Minnesota (Provinzino, District Judge)
@@ -2286,7 +2258,6 @@ urteile:
     die Sache trägt.'
   normen:
   - fre-702
-  quelle_art: amtlich
   sachverhalt: Minnesota hatte ein Gesetz erlassen, das den Einsatz von Deepfakes zur Beeinflussung von
     Wahlen unter Strafe stellt. Christopher Kohls und weitere Kläger griffen es vor dem Bundesgericht
     in Minnesota an; der Attorney General Keith Ellison verteidigte es. Zur Stützung legte Ellison eine
@@ -2375,7 +2346,6 @@ urteile:
     ist bis heute (05.09.2026) nicht ergangen.'
   normen:
   - us-const-amend-14
-  quelle_art: amtlich
   sachverhalt: 'Bei einem Verkehrsstreit in Arizona tötete Gabriel Paul Horcasitas im Jahr 2021 Christopher
     Pelkey durch Schüsse. Er wurde wegen Totschlags in leichtfertiger Begehungsform verurteilt. Für den
     Strafzumessungstermin ließ Pelkeys Schwester Stacey Wales ein Video herstellen, in dem ein KI-erzeugtes
@@ -2462,7 +2432,6 @@ urteile:
   - fre-901
   - fre-902
   - usc-28-2072
-  quelle_art: amtlich
   sachverhalt: 'Vor US-Gerichten treten zunehmend Ergebnisse maschineller Verfahren als Beweismittel auf,
     ohne dass ein menschlicher Sachverständiger sie vermittelt und für sie einsteht. Zugleich lassen sich
     Videos, Fotografien und Nachrichtenverläufe mit generativer KI so herstellen oder verändern, dass
@@ -2563,7 +2532,6 @@ urteile:
   - rdg-3
   - rdg-5
   - uwg-3a
-  quelle_art: amtlich
   sachverhalt: Ein juristischer Fachverlag bot im Internet unter dem Namen smartlaw einen digitalen Generator
     für Verträge und andere Rechtsdokumente an, die Kunden im Abonnement oder einzeln erwerben konnten.
     Der Generator stellt dem Kunden verschiedene, überwiegend im Multiple-Choice-Verfahren zu beantwortende
@@ -2656,7 +2624,6 @@ urteile:
   - rdg-10
   - rdg-2
   - rdg-3
-  quelle_art: amtlich
   sachverhalt: Die Lexfox GmbH mit Sitz in Berlin ist beim Kammergericht als Rechtsdienstleisterin für
     Inkassodienstleistungen registriert. Auf ihrer Internetseite wenigermiete.de stellt sie einen kostenlos
     nutzbaren „Mietpreisrechner" bereit und wirbt damit, Rechte von Wohnraummietern aus der Mietpreisbremse

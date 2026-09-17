@@ -25,7 +25,6 @@ urteile:
   - sektor-finanz
   - haftung
   status: rechtskraeftig
-  quelle_art: amtlich
 - id: ke-odpc-2026-momentum-credit
   jurisdiktion: ke
   gericht: Office of the Data Protection Commissioner (Kenia)
@@ -46,7 +45,6 @@ urteile:
   - datenschutz
   - sektor-finanz
   status: rechtskraeftig
-  quelle_art: amtlich
 - id: ke-odpc-2026-lolc
   jurisdiktion: ke
   gericht: Office of the Data Protection Commissioner (Kenia)
@@ -66,7 +64,6 @@ urteile:
   - datenschutz
   - sektor-finanz
   status: rechtskraeftig
-  quelle_art: amtlich
 - id: ke-odpc-2026-suo-moto-capital-sacco
   jurisdiktion: ke
   gericht: Office of the Data Protection Commissioner (Kenia)
@@ -92,7 +89,6 @@ urteile:
   - sektor-finanz
   - governance
   status: rechtskraeftig
-  quelle_art: amtlich
 - id: ke-odpc-2026-hello-tractor
   jurisdiktion: ke
   gericht: Office of the Data Protection Commissioner (Kenia)
@@ -112,7 +108,6 @@ urteile:
   themenachsen:
   - datenschutz
   status: rechtskraeftig
-  quelle_art: amtlich
 - id: ke-2026-wangai-ki-verfassung
   jurisdiktion: ke
   gericht: High Court of Kenya at Kerugoya (Constitutional and Human Rights Division)
@@ -169,7 +164,6 @@ urteile:
   - '07.09.2026 am amtlichen Volltext auf new.kenyalaw.org geprueft: Rubrum, Aktenzeichen, Datum, Spruchkoerper
     und der Wortlaut der Orders (Ziff. 48-50) gelesen. Ausgang und Tenor sind belegt.'
   letzte_pruefung: 2026-09-07
-  quelle_art: amtlich
 - id: ke-2026-nyanjui-ki-schriftsatz
   jurisdiktion: ke
   gericht: Environment and Land Court at Thika
@@ -217,7 +211,6 @@ urteile:
   pruefvermerk:
   - 07.09.2026 am amtlichen Volltext auf new.kenyalaw.org geprueft; Ziff. 25-29 im Wortlaut gelesen.
   letzte_pruefung: 2026-09-07
-  quelle_art: amtlich
 - id: ke-2025-rukwaro-fiktive-entscheidungen
   jurisdiktion: ke
   gericht: High Court of Kenya
@@ -247,7 +240,6 @@ urteile:
   - '07.09.2026: Zitat, Datum, Gericht und Ausgang aus der amtlichen Suchschnittstelle von kenyalaw uebernommen;
     der Volltext wurde noch nicht gelesen.'
   letzte_pruefung: 2026-09-07
-  quelle_art: amtlich
 - id: ke-2025-kagumu-manipulierte-aufnahme
   jurisdiktion: ke
   gericht: Employment and Labour Relations Court
@@ -279,7 +271,6 @@ urteile:
   - '07.09.2026: Datum, Gericht, Ausgang und Trefferkontext aus der amtlichen Suchschnittstelle von kenyalaw;
     Volltext noch ungelesen.'
   letzte_pruefung: 2026-09-07
-  quelle_art: amtlich
 - id: ke-2026-savla-ki-verwaltung
   jurisdiktion: ke
   gericht: High Court at Nairobi (Milimani Law Courts), Judicial Review
@@ -308,7 +299,6 @@ urteile:
   pruefvermerk:
   - '07.09.2026: Metadaten und Trefferkontext aus der amtlichen Suchschnittstelle; Volltext ungelesen.'
   letzte_pruefung: 2026-09-07
-  quelle_art: amtlich
 - id: ke-2025-meareg-meta
   jurisdiktion: ke
   gericht: High Court at Nairobi (Milimani Law Courts), Constitutional and Human Rights Division
@@ -340,4 +330,3 @@ urteile:
   pruefvermerk:
   - '07.09.2026: Metadaten und Trefferkontext aus der amtlichen Suchschnittstelle; Volltext ungelesen.'
   letzte_pruefung: 2026-09-07
-  quelle_art: amtlich

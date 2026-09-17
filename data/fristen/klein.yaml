@@ -45,7 +45,7 @@ fristen:
   handlungsbedarf: Abstimmungsergebnis und gegebenenfalls DOF-Verkuendung erfassen; bei Verabschiedung
     wird Mexiko den ersten ausdruecklichen KI-Straftatbestand seines Bundesrechts haben.
   quelle: https://www.jornada.com.mx/2026/09/05/politica/010n2pol
-  verifiziert: true
+  verifiziert: false
   kalender_sync: true
   vorwarnung_tage:
   - 90
@@ -204,7 +204,7 @@ fristen:
   adressat: Alle, die Wahlwerbung veroeffentlichen
   handlungsbedarf: null
   quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
-  verifiziert: true
+  verifiziert: false
   kalender_sync: false
   vorwarnung_tage:
   - 30
@@ -717,7 +717,7 @@ fristen:
   adressat: Alle Verantwortlichen (responsible parties) in Südafrika
   handlungsbedarf: null
   quelle: https://www.saflii.org/za/legis/consol_act/popia4o2013399/
-  verifiziert: true
+  verifiziert: false
   kalender_sync: false
   vorwarnung_tage: []
 - id: za-copyright-amendment-bill-f1
@@ -735,7 +735,7 @@ fristen:
   handlungsbedarf: Beobachten, ob das Parlament s. 12A unverändert lässt — davon hängt ab, ob Südafrika
     eine Fair-Use-Klausel bekommt, unter der sich KI-Training diskutieren liesse.
   quelle: https://www.saflii.org/za/cases/ZACC/2026/26.html
-  verifiziert: true
+  verifiziert: false
   kalender_sync: false
   vorwarnung_tage: []
 - id: za-mdpmi-2025-f1

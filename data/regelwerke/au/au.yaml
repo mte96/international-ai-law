@@ -46,7 +46,7 @@ regelwerke:
     url: https://securiti.ai/blog/safe-and-responsible-ai-in-australia/
     sprache: en
     urheber: Securiti (Sekundärquelle zur Regierungsantwort)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Primärquelle industry.gov.au war nicht abrufbar; diese Sekundärquelle fasst die Interim Response
       zusammen.
 
@@ -87,19 +87,19 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-09-05
-    verifiziert: true
+    verifiziert: false
     quelle: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
   anwendungsdaten:
   - datum: 2024-09-05
     was_gilt: Veröffentlichung des VAISS mit zehn Guardrails (freiwillig).
-    verifiziert: true
+    verifiziert: false
     quelle: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
   - datum: 2025-10-21
     was_gilt: 'NAIC veröffentlicht "Guidance for AI Adoption" (AI6) mit sechs "essential practices"; verdichtet
       und aktualisiert den VAISS.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
   themenachsen:
   - governance
@@ -124,7 +124,7 @@ regelwerke:
     url: https://safeaiaus.org/safety-standards/voluntary-ai-safety-standard-10-guardrails/
     sprache: en
     urheber: SafeAI-Aus (Aufbereitung des NAIC-Standards)
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Wiedergabe der zehn Guardrails und des Aktualisierungsstands 2026.
   - datum: 2024-09-05
     typ: uebersicht
@@ -132,7 +132,7 @@ regelwerke:
     url: https://www.hsfkramer.com/insights/2024-09/australia-releases-new-mandatory-guardrails-and-voluntary-standards-on-ai
     sprache: en
     urheber: Herbert Smith Freehills Kramer
-    verifiziert: true
+    verifiziert: false
     notiz: Ordnet VAISS und Proposals Paper vom selben Tag zueinander ein.
   offene_punkte:
   - Verhältnis des VAISS zu den künftigen verbindlichen Australian Standards for AI ungeklärt.
@@ -172,19 +172,19 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.corrs.com.au/insights/australia-releases-proposed-mandatory-guardrails-for-ai-regulation
   anwendungsdaten:
   - datum: 2024-09-05
     was_gilt: Veröffentlichung des Proposals Paper, Beginn der Konsultation.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.corrs.com.au/insights/australia-releases-proposed-mandatory-guardrails-for-ai-regulation
   - datum: 2025-12-02
     was_gilt: 'National AI Plan ersetzt den Guardrails-Ansatz durch technologieneutrale Anpassung bestehenden
       Rechts — faktisches Ende des Vorhabens.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://piperalderman.com.au/insight/australia-now-has-a-national-ai-plan-now-what/
   - datum: 2026-04-01
     was_gilt: 'Regierungsantwort auf den Senate Select Committee on Adopting AI lehnt ein eigenständiges
@@ -218,17 +218,14 @@ regelwerke:
     sprache: en
     urheber: Australian Government, DISR
     verifiziert: false
-    notiz: 'Primär-PDF der Regierung. URL aus Suchergebnis, Abruf in dieser Sitzung nicht durchgeführt
-      — vor Zitat prüfen.
-
-      '
+    notiz: Primär-PDF der Regierung. URL aus Suchergebnis, Abruf nicht durchgeführt — vor Zitat prüfen.
   - datum: 2024-09-09
     typ: uebersicht
     titel: Australia releases proposed mandatory guardrails for AI regulation
     url: https://www.corrs.com.au/insights/australia-releases-proposed-mandatory-guardrails-for-ai-regulation
     sprache: en
     urheber: Corrs Chambers Westgarth
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierte Wiedergabe der zehn Guardrails, der Hochrisiko-Definition und der drei Optionen.
   - datum: 2026-04-01
     typ: stellungnahme
@@ -275,7 +272,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-12-02
-    verifiziert: true
+    verifiziert: false
     quelle: https://membership.acs.org.au/member-insight/2025-12-02-Australia-s-New-National-AI-Plan-Top-9-Highlights.html
   anwendungsdaten:
   - datum: 2025-12-02
@@ -283,7 +280,7 @@ regelwerke:
       Regulierung.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://piperalderman.com.au/insight/australia-now-has-a-national-ai-plan-now-what/
   themenachsen:
   - governance
@@ -305,7 +302,7 @@ regelwerke:
     url: https://membership.acs.org.au/member-insight/2025-12-02-Australia-s-New-National-AI-Plan-Top-9-Highlights.html
     sprache: en
     urheber: Australian Computer Society (ACS)
-    verifiziert: true
+    verifiziert: false
     notiz: Datiert die Veröffentlichung taggenau und listet die neun Kernpunkte.
   - datum: 2025-12-08
     typ: stellungnahme
@@ -313,7 +310,7 @@ regelwerke:
     url: https://piperalderman.com.au/insight/australia-now-has-a-national-ai-plan-now-what/
     sprache: en
     urheber: Piper Alderman
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt ausdrücklich, dass die 2024 zugesagten mandatory guardrails mit diesem Plan aufgegeben
       wurden.
 
@@ -324,7 +321,7 @@ regelwerke:
     url: https://www.whitecase.com/insight-alert/australias-national-ai-plan-big-ambitions-light-details
     sprache: en
     urheber: White & Case LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Kritische Einordnung; benennt die Regelungslücken des Plans.
   offene_punkte:
   - 'Der Plan wurde nach nur sieben Monaten durch die Ankündigung verbindlicher Australian Standards for
@@ -423,7 +420,7 @@ regelwerke:
     url: https://www.maddocks.com.au/insights/commonwealth-government-announces-establishment-of-australian-standards-for-ai
     sprache: en
     urheber: Maddocks
-    verifiziert: true
+    verifiziert: false
     notiz: Juristische Einordnung; bestätigt verbindlichen Charakter und Zeitplan 2027.
   - datum: 2026-07-16
     typ: uebersicht
@@ -431,7 +428,7 @@ regelwerke:
     url: https://www.gadens.com/legal-insights/prime-minister-announces-national-ai-regulation-key-takeaways-for-investors-developers-and-operators/
     sprache: en
     urheber: Gadens
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierte Aufschlüsselung der drei Rechenzentrumsauflagen und der IP-Zusagen.
   - datum: 2026-07-16
     typ: pressemitteilung
@@ -439,7 +436,7 @@ regelwerke:
     url: https://www.dundaslawyers.com.au/office-of-ai-announced-by-federal-government/
     sprache: en
     urheber: Dundas Lawyers
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Aufnahme der Tätigkeit des Office of AI am 15.07.2026 und Bezug zum AISI.
   offene_punkte:
   - 'KRITISCH: Kein Gesetzestext, kein Exposure Draft, kein Konsultationsverfahren bekannt.'
@@ -516,7 +513,7 @@ regelwerke:
     url: https://privacy108.com.au/insights/australia-ai-safety-institute/
     sprache: en
     urheber: Privacy 108
-    verifiziert: true
+    verifiziert: false
     notiz: Funktionen, Finanzierung, ausdrückliche Feststellung fehlender Regulierungsbefugnisse.
   - datum: 2026-05-29
     typ: pressemitteilung
@@ -525,7 +522,7 @@ regelwerke:
     sprache: en
     urheber: ABC News
     verifiziert: false
-    notiz: Personalie. In dieser Sitzung nicht abgerufen — vor Zitat prüfen.
+    notiz: Personalie. Nicht abgerufen — vor Zitat prüfen.
   offene_punkte:
   - Verhältnis AISI / Office of AI (PM&C) / National AI Centre nicht abschließend geklärt.
   - Ob das AISI unter den Australian Standards for AI Aufsichtsaufgaben erhält, ist offen.
@@ -586,14 +583,14 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-08-20
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
   anwendungsdaten:
   - datum: 2026-08-20
     was_gilt: 'Einsetzung durch Beschluss beider Häuser des Parlaments.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
   - datum: 2026-09-14
     was_gilt: 'Ende der Einreichungsfrist für Submissions (nur durch Sekundärquelle NAVA belegt — unbedingt
@@ -604,7 +601,7 @@ regelwerke:
     quelle: https://visualarts.net.au/news-opinion/2026/have-your-say-current-inquiries-and-consultations/
   - datum: 2026-11-30
     was_gilt: Berichtsfrist des Ausschusses.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
   themenachsen:
   - governance
@@ -631,7 +628,7 @@ regelwerke:
     url: https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy
     sprache: en
     urheber: Baker McKenzie
-    verifiziert: true
+    verifiziert: false
     notiz: 'BESTE VERFÜGBARE QUeLLE zu Einsetzungsdatum, Terms of Reference und Berichtsfrist, da aph.gov.au
       nicht abrufbar war.
 
@@ -642,7 +639,7 @@ regelwerke:
     url: https://www.liberal.org.au/2026/08/20/establishment-of-a-joint-select-committee-on-artificial-intelligence
     sprache: en
     urheber: Liberal Party of Australia (Hastie, Duniam, Violi)
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Datum und politische Genese; ohne ToR-Wortlaut und Fristen.
   - datum: 2026-08-01
     typ: uebersicht
@@ -650,7 +647,7 @@ regelwerke:
     url: https://visualarts.net.au/news-opinion/2026/have-your-say-current-inquiries-and-consultations/
     sprache: en
     urheber: National Association for the Visual Arts (NAVA)
-    verifiziert: true
+    verifiziert: false
     notiz: 'EINZIGE gefundene Quelle für die Einreichungsfrist 14.09.2026. NAVA führt zusätzlich die Schwerpunkte
       Urheberrecht, Datensouveränität, Arbeitsmarkt, Transparenz staatlicher KI-Nutzung und Deepfakes
       auf.
@@ -706,12 +703,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-11-26
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.minterellison.com/articles/increased-ai-regulation-final-senate-report-key-takeaways
   anwendungsdaten:
   - datum: 2024-11-26
     was_gilt: Vorlage des Abschlussberichts mit 13 Empfehlungen.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.minterellison.com/articles/increased-ai-regulation-final-senate-report-key-takeaways
   - datum: 2026-04-01
     was_gilt: 'Regierungsantwort: Absage an ein eigenständiges KI-Gesetz, Bekenntnis zu risikobasiertem,
@@ -746,7 +743,7 @@ regelwerke:
     url: https://www.minterellison.com/articles/increased-ai-regulation-final-senate-report-key-takeaways
     sprache: en
     urheber: MinterEllison
-    verifiziert: true
+    verifiziert: false
     notiz: Datiert die Vorlage und listet die zentralen Empfehlungen einschließlich Empfehlung 1.
   - datum: 2026-04-01
     typ: stellungnahme
@@ -766,9 +763,7 @@ regelwerke:
     sprache: en
     urheber: Analysis & Policy Observatory (Spiegelung des Berichts)
     verifiziert: false
-    notiz: 'Alternative Fundstelle, da aph.gov.au nicht abrufbar. In dieser Sitzung nicht abgerufen.
-
-      '
+    notiz: Alternative Fundstelle, da aph.gov.au nicht abrufbar.
   offene_punkte:
   - Volltext des Berichts nicht eingesehen (aph.gov.au gesperrt); Empfehlungen aus Sekundärquelle.
   - 'Zu beobachten, ob der Joint Select Committee 2026 an Empfehlung 1 anknüpft, nachdem die Regierung
@@ -806,12 +801,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-05-13
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.claytonutz.com/insights/2026/may/watts-on-the-line-unpacking-the-senates-data-centre-and-ai-inquiry
   anwendungsdaten:
   - datum: 2026-05-13
     was_gilt: Einsetzung des Untersuchungsausschusses.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.claytonutz.com/insights/2026/may/watts-on-the-line-unpacking-the-senates-data-centre-and-ai-inquiry
   - datum: 2026-09-01
     was_gilt: 'Verlängerter Einreichungsschluss für Submissions (ursprünglich 26.06.2026).
@@ -835,7 +830,7 @@ regelwerke:
     url: https://www.claytonutz.com/insights/2026/may/watts-on-the-line-unpacking-the-senates-data-centre-and-ai-inquiry
     sprache: en
     urheber: Clayton Utz
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt Einsetzung 13.05.2026, ToR und ursprünglichen Einreichungsschluss 26.06.2026.
   - datum: 2026-08-01
     typ: konsultation
@@ -843,7 +838,7 @@ regelwerke:
     url: https://www.foe.org.au/ai_datacentre_submissions
     sprache: en
     urheber: Friends of the Earth Australia
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt den verlängerten Einreichungsschluss 01.09.2026.
   offene_punkte:
   - 'WIDERSPRUCH: Einreichungsschluss 26.06.2026 (Clayton Utz) vs. 01.09.2026 (Fö, NAVA).'
@@ -881,12 +876,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-07-20
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
   anwendungsdaten:
   - datum: 2026-07-20
     was_gilt: Veröffentlichung der fünf Prioritäten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
   themenachsen:
   - governance
@@ -913,17 +908,14 @@ regelwerke:
     sprache: en
     urheber: Attorney-General's portfolio
     verifiziert: false
-    notiz: 'PRIMÄRQUELLE. Abruf in dieser Sitzung durch robots.txt blockiert; Inhalt über Sekundärquellen
-      rekonstruiert.
-
-      '
+    notiz: PRIMÄRQUELLE. Abruf durch robots.txt blockiert; Inhalt über Sekundärquellen rekonstruiert.
   - datum: 2026-07-21
     typ: uebersicht
     titel: Australia lists consumer protection and a digital duty of care as AI safety priorities
     url: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
     sprache: en
     urheber: Australasian Lawyer
-    verifiziert: true
+    verifiziert: false
     notiz: Listet alle fünf Prioritäten mit federführenden Ressorts.
   - datum: 2026-07-22
     typ: uebersicht
@@ -931,7 +923,7 @@ regelwerke:
     url: https://landers.com.au/legal-insights-news/australian-ai-regulation-what-proposed-ai-standards-and-safety-reforms-mean-for-business
     sprache: en
     urheber: Lander & Rogers
-    verifiziert: true
+    verifiziert: false
     notiz: Verbindet die fünf Prioritäten mit den Australian Standards for AI und dem Zeitplan.
   offene_punkte:
   - Keine Gesetzestexte, keine Konsultationsfristen veröffentlicht.
@@ -995,7 +987,7 @@ regelwerke:
       in Kraft.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://jws.com.au/what-we-think/practical-implications-of-new-transparency-requirements-for-automated-decision-making/
   - datum: 2025-06-10
     was_gilt: 'Statutory tort of serious invasion of privacy (Schedule 2) anwendbar: Klage wegen Eindringens
@@ -1009,7 +1001,7 @@ regelwerke:
       müssen Arten personenbezogener Daten in ADM-Systemen und Arten der betroffenen Entscheidungen offenlegen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://jws.com.au/what-we-think/practical-implications-of-new-transparency-requirements-for-automated-decision-making/
   themenachsen:
   - datenschutz
@@ -1039,7 +1031,7 @@ regelwerke:
     url: https://jws.com.au/what-we-think/practical-implications-of-new-transparency-requirements-for-automated-decision-making/
     sprache: en
     urheber: Johnson Winter Slattery
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Anwendungsbeginn 10.12.2026, Inhalt und Sanktionen der APP-1.7-Pflicht.
   - datum: 2025-06-10
     typ: leitlinie
@@ -1056,7 +1048,7 @@ regelwerke:
     sprache: en
     urheber: Norton Rose Fulbright
     verifiziert: false
-    notiz: Gesamtüberblick der Novelle. In dieser Sitzung nicht abgerufen.
+    notiz: Gesamtüberblick der Novelle.
   offene_punkte:
   - Ob das OAIC bis 10.12.2026 spezifische APP-1.7-Leitlinien veröffentlicht, ist offen.
   - Auslegung von 'substantially facilitated' bislang ungeklärt — Hauptstreitfrage der Praxis.
@@ -1158,7 +1150,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://rulesmate.com.au/insights/privacy-act-second-tranche-reforms-2026-outlook
   anwendungsdaten: []
   themenachsen:
@@ -1179,7 +1171,7 @@ regelwerke:
     url: https://rulesmate.com.au/insights/privacy-act-second-tranche-reforms-2026-outlook
     sprache: en
     urheber: Rules Mate
-    verifiziert: true
+    verifiziert: false
     notiz: 'Nüchterne Bestandsaufnahme; stellt ausdrücklich fest, dass kein Bill verabschiedet und kein
       Datum fixiert ist.
 
@@ -1317,7 +1309,7 @@ regelwerke:
       Prüfung von Lizenzmodellen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.dundaslawyers.com.au/federal-gov-rules-out-copyright-text-and-data-mining-exception-for-ai/
   themenachsen:
   - urheberrecht
@@ -1341,7 +1333,7 @@ regelwerke:
     url: https://www.dundaslawyers.com.au/federal-gov-rules-out-copyright-text-and-data-mining-exception-for-ai/
     sprache: en
     urheber: Dundas Lawyers
-    verifiziert: true
+    verifiziert: false
     notiz: Datiert die Entscheidung auf den 26.10.2025 und benennt die drei Lizenzoptionen.
   - datum: 2025-08-12
     typ: bericht
@@ -1350,14 +1342,14 @@ regelwerke:
     sprache: en
     urheber: Herbert Smith Freehills Kramer
     verifiziert: false
-    notiz: Zum Vorschlag der Productivity Commission. In dieser Sitzung nicht abgerufen.
+    notiz: Zum Vorschlag der Productivity Commission.
   - datum: 2025-11-01
     typ: uebersicht
     titel: Australia rules out a text and data mining exception for copyright infringement
     url: https://wrays.com.au/ip-now/australia-rules-out-a-text-and-data-mining-exception-for-copyright-infringement/
     sprache: en
     urheber: Wrays IP
-    verifiziert: true
+    verifiziert: false
     notiz: Ordnet Entscheidung, CAIRG-Arbeit und Lizenzkonsultation ein.
   offene_punkte:
   - Kein taggenaues Datum des Productivity-Commission-Interim-Reports ermittelt.
@@ -1395,14 +1387,14 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.minterellison.com/articles/copyright-and-ai-consultation-on-licensing-for-ai-training
   anwendungsdaten:
   - datum: 2025-10-27
     was_gilt: 'CAIRG-Sitzung am 27. und 28.10.2025 zu den drei Prioritäten.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.dundaslawyers.com.au/federal-gov-rules-out-copyright-text-and-data-mining-exception-for-ai/
   themenachsen:
   - urheberrecht
@@ -1423,7 +1415,7 @@ regelwerke:
     url: https://www.minterellison.com/articles/copyright-and-ai-consultation-on-licensing-for-ai-training
     sprache: en
     urheber: MinterEllison
-    verifiziert: true
+    verifiziert: false
     notiz: 'Beste verfügbare Darstellung der drei CAIRG-Prioritäten und der Lizenzoptionen; nennt ausdrücklich
       keinen Fristablauf.
 
@@ -1512,7 +1504,7 @@ regelwerke:
     sprache: en
     urheber: Attorney-General's Department
     verifiziert: false
-    notiz: Konsultationspapier. In dieser Sitzung nicht abgerufen.
+    notiz: Konsultationspapier.
   - datum: 2023-07-07
     typ: bericht
     titel: Royal Commission into the Robodebt Scheme — Report
@@ -1520,7 +1512,7 @@ regelwerke:
     sprache: en
     urheber: Royal Commission into the Robodebt Scheme
     verifiziert: false
-    notiz: Grundlagenbericht. In dieser Sitzung nicht abgerufen.
+    notiz: Grundlagenbericht.
   offene_punkte:
   - Seit Januar 2025 kein sichtbarer Fortschritt; kein Gesetzentwurf.
   - Verhältnis zur DTA-Policy und zur APP-1.7-Pflicht ungeklärt.
@@ -1589,7 +1581,7 @@ regelwerke:
     url: https://www.gtlaw.com.au/insights/australian-government-targets-sexually-explicit-deepfakes
     sprache: en
     urheber: Gilbert + Tobin
-    verifiziert: true
+    verifiziert: false
     notiz: Tatbestand, Strafrahmen, Qualifikationen und die Lücke beim bloßen Erstellen.
   - datum: 2024-08-21
     typ: endfassung
@@ -1598,7 +1590,7 @@ regelwerke:
     sprache: en
     urheber: Digital Policy Alert
     verifiziert: false
-    notiz: Verfahrensdatum. In dieser Sitzung nicht abgerufen — Zustimmungsdatum nicht taggenau verifiziert.
+    notiz: Verfahrensdatum. Nicht abgerufen — Zustimmungsdatum nicht taggenau verifiziert.
   offene_punkte:
   - Datum von Royal Assent und Inkrafttreten nicht taggenau verifiziert.
   - Genaue Paragrafennummern im Criminal Code nicht ermittelt.
@@ -1653,7 +1645,7 @@ regelwerke:
       Spieleplattformen und bestimmte Nachrichtendienste.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://cadeproject.org/updates/australia-expands-age-verification-rules-to-ai-chatbots-app-stores-and-online-platforms/
   themenachsen:
   - content
@@ -1681,7 +1673,7 @@ regelwerke:
     url: https://cadeproject.org/updates/australia-expands-age-verification-rules-to-ai-chatbots-app-stores-and-online-platforms/
     sprache: en
     urheber: Civil Society Alliances for Digital Empowerment (CADE)
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Inkrafttreten 09.03.2026 und die ausdrückliche Erfassung von KI-Chatbots.
   - datum: 2026-01-01
     typ: pressemitteilung
@@ -1776,7 +1768,7 @@ regelwerke:
     sprache: en
     urheber: Australian Prudential Regulation Authority (APRA)
     verifiziert: false
-    notiz: PRIMÄRQUELLE des Standards. In dieser Sitzung nicht abgerufen.
+    notiz: PRIMÄRQUELLE des Standards.
   - datum: 2026-05-27
     typ: uebersicht
     titel: Two regulators are rewriting the AI governance rules — what WA legal practitioners need to
@@ -1784,7 +1776,7 @@ regelwerke:
     url: https://briefonline.com.au/2026/05/27/two-regulators-are-rewriting-the-ai-governance-rules-what-wa-legal-practitioners-need-to-do-now/
     sprache: en
     urheber: Brief (Law Society of Western Australia)
-    verifiziert: true
+    verifiziert: false
     notiz: 'WA-BEZUG: ordnet APRA und ASIC für westaustralische Anwälte ein; nennt das APRA-Schreiben
       vom 30.04.2026.
 
@@ -1847,7 +1839,7 @@ regelwerke:
     sprache: en
     urheber: Australian Securities and Investments Commission (ASIC)
     verifiziert: false
-    notiz: PRIMÄRQUELLE. In dieser Sitzung nicht abgerufen.
+    notiz: PRIMÄRQUELLE.
   offene_punkte:
   - Taggenaues Veröffentlichungsdatum nicht verifiziert.
   - Ob ASIC 2026 KI-spezifische Regulatory Guides erlassen hat, wurde nicht ermittelt.
@@ -1900,7 +1892,7 @@ regelwerke:
     was_gilt: 'TGA-Leitlinien zur Regulierung KI-basierter Medizinproduktesoftware veröffentlicht (Monatsangabe).
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.claytonutz.com/insights/2026/july/healthcare-software-tga-clarifies-when-ai-will-be-regulated-as-a-medical-device
   themenachsen:
   - sektor-medizin
@@ -1920,7 +1912,7 @@ regelwerke:
     url: https://www.claytonutz.com/insights/2026/july/healthcare-software-tga-clarifies-when-ai-will-be-regulated-as-a-medical-device
     sprache: en
     urheber: Clayton Utz
-    verifiziert: true
+    verifiziert: false
     notiz: Aktuellste Darstellung der TGA-Leitlinien Februar 2026 und der Aufsichtsschwerpunkte.
   - datum: 2025-01-01
     typ: bericht
@@ -1932,7 +1924,7 @@ regelwerke:
     sprache: en
     urheber: Therapeutic Goods Administration (TGA)
     verifiziert: false
-    notiz: Ergebnisbericht des KI-Reviews. In dieser Sitzung nicht abgerufen.
+    notiz: Ergebnisbericht des KI-Reviews.
   offene_punkte:
   - Taggenaü Datierung der Leitlinien Februar 2026 nicht ermittelt.
   - Geplante Rechtsänderungen aus dem KI-Review und deren Zeitplan offen.
@@ -1979,12 +1971,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-10-11
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.minterellison.com/articles/ahpra-introduces-ai-guidelines-for-health-practitioners
   anwendungsdaten:
   - datum: 2024-10-11
     was_gilt: Veröffentlichung der Leitlinie.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.minterellison.com/articles/ahpra-introduces-ai-guidelines-for-health-practitioners
   themenachsen:
   - sektor-medizin
@@ -2006,7 +1998,7 @@ regelwerke:
     url: https://www.minterellison.com/articles/ahpra-introduces-ai-guidelines-for-health-practitioners
     sprache: en
     urheber: MinterEllison (zur Ahpra-Leitlinie)
-    verifiziert: true
+    verifiziert: false
     notiz: Datierung und vollständige Pflichtenliste.
   offene_punkte:
   - Primärdokument auf ahpra.gov.au nicht abgerufen.
@@ -2043,7 +2035,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2011-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Australian_Consumer_Law
     fundstelle_norm: Australian Consumer Law = Schedule 2 des Competition and Consumer Act 2010 (Cth);
       in Kraft getreten am 01.01.2011 ('The law commenced on 1 January 2011, replacing 20 different consumer
@@ -2054,7 +2046,7 @@ regelwerke:
     was_gilt: 'Ankündigung eines ACL-Review zu Surveillance Pricing und agentic commerce (Priorität 4).
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
   themenachsen:
   - haftung
@@ -2074,7 +2066,7 @@ regelwerke:
     url: https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/australia-lists-consumer-protection-and-a-digital-duty-of-care-as-ai-safety-priorities/583226
     sprache: en
     urheber: Australasian Lawyer
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt den angekündigten ACL-Review und seinen Zuschnitt.
   offene_punkte:
   - Kein Konsultationspapier, kein Zeitplan für den ACL-Review.
@@ -2158,7 +2150,7 @@ regelwerke:
     sprache: en
     urheber: Australian Human Rights Commission
     verifiziert: false
-    notiz: Stellungnahme zur ADM-Konsultation. In dieser Sitzung nicht abgerufen.
+    notiz: Stellungnahme zur ADM-Konsultation.
   offene_punkte:
   - Keine australische Leitentscheidung zu algorithmischer Diskriminierung ermittelt.
   - Ein Australian Human Rights Act existiert weiterhin nicht.
@@ -2301,7 +2293,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-07-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
   anwendungsdaten:
   - datum: 2026-07-01
@@ -2310,11 +2302,11 @@ regelwerke:
       Sharing Officer; veröffentlichte Richtlinien; PIAs; Breach-Register.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
   - datum: 2027-01-01
     was_gilt: Notifiable Information Breach Scheme anwendbar.
-    verifiziert: true
+    verifiziert: false
     quelle: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
   themenachsen:
   - datenschutz
@@ -2340,7 +2332,7 @@ regelwerke:
     url: https://hwlebsworth.com.au/expris-delivery-timetable-set-for-the-commencement-of-was-new-privacy-laws/
     sprache: en
     urheber: HWL Ebsworth
-    verifiziert: true
+    verifiziert: false
     notiz: 'BESTE QUeLLE: vollständiger Zeitplan, Adressatenkreis und ausdrückliche Darstellung von IPP
       10 und IPP 11.
 
@@ -2352,7 +2344,7 @@ regelwerke:
     sprache: en
     urheber: Parliament of Western Australia
     verifiziert: false
-    notiz: PRIMÄRTEXT. In dieser Sitzung nicht abgerufen — vor Zitat prüfen.
+    notiz: PRIMÄRTEXT. Nicht abgerufen — vor Zitat prüfen.
   - datum: 2026-07-21
     typ: uebersicht
     titel: 'Privacy, data and a new era of accountability: WA''s PRIS Act takes effect'
@@ -2360,7 +2352,7 @@ regelwerke:
     sprache: en
     urheber: Brief (Law Society of Western Australia)
     verifiziert: false
-    notiz: WA-Anwaltsperspektive. In dieser Sitzung nicht abgerufen.
+    notiz: WA-Anwaltsperspektive.
   offene_punkte:
   - Genauer Wortlaut von IPP 10 nicht im Primärtext eingesehen.
   - Schwellenwert 'significant' bei automatisierten Entscheidungen und Sanktionsregime nicht ermittelt.
@@ -2450,9 +2442,7 @@ regelwerke:
     sprache: en
     urheber: WA Cyber Security Unit (DGov Technical)
     verifiziert: false
-    notiz: 'Frühere Sicherheitswarnung zum KI-Einsatz in der WA-Verwaltung. In dieser Sitzung nicht abgerufen.
-
-      '
+    notiz: Frühere Sicherheitswarnung zum KI-Einsatz in der WA-Verwaltung.
   offene_punkte:
   - Inhalt der Änderungen vom 25.08.2026 gegenüber Version 1 nicht ermittelt.
   - Zusammensetzung und Entscheidungspraxis des AI Advisory Board unbekannt.
@@ -2496,12 +2486,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-12-06
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lpbwa.org.au/ai-guidance-to-safeguard-consumers-of-legal-services
   anwendungsdaten:
   - datum: 2024-12-06
     was_gilt: Veröffentlichung der gemeinsamen Erklärung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lpbwa.org.au/ai-guidance-to-safeguard-consumers-of-legal-services
   themenachsen:
   - berufsrecht
@@ -2527,7 +2517,7 @@ regelwerke:
     url: https://www.lpbwa.org.au/ai-guidance-to-safeguard-consumers-of-legal-services
     sprache: en
     urheber: Legal Practice Board of Western Australia
-    verifiziert: true
+    verifiziert: false
     notiz: WA-PRIMÄRQUELLE. Für den Bearbeiter als künftigen WA-Berufsträger unmittelbar einschlägig.
   - datum: 2024-12-06
     typ: leitlinie
@@ -2544,7 +2534,7 @@ regelwerke:
     url: https://briefonline.com.au/2026/05/27/two-regulators-are-rewriting-the-ai-governance-rules-what-wa-legal-practitioners-need-to-do-now/
     sprache: en
     urheber: Brief (Law Society of Western Australia)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Aktuelle WA-Perspektive: Anwälte als Berater, als Direktoren (s 180 Corporations Act) und
       als Kanzleiinhaber mit Aufsichtspflicht über KI-Ausgaben.
 
@@ -2690,7 +2680,7 @@ regelwerke:
     url: https://www.lawsociety.com.au/AI-hub/court-protocols-ai
     sprache: en
     urheber: The Law Society of New South Wales
-    verifiziert: true
+    verifiziert: false
     notiz: 'Beste Gesamtübersicht aller australischen Gerichts- und Tribunalregelungen mit Statusangabe
       (Stand 14.05.2026). ACHTUNG: führt für den SCWA aktive Guidelines, was die SCWA-Website nicht bestätigt.
 
@@ -2713,7 +2703,7 @@ regelwerke:
     sprache: en
     urheber: Supreme Court of New South Wales
     verifiziert: false
-    notiz: PRIMÄRTEXT SC Gen 23. In dieser Sitzung nicht abgerufen.
+    notiz: PRIMÄRTEXT SC Gen 23.
   - datum: 2026-08-07
     typ: bericht
     titel: 'What the Machine Doesn''t Know: Humanity, Artificial Intelligence and the Law (Minds Count
@@ -2732,7 +2722,7 @@ regelwerke:
     sprache: en
     urheber: Law Society of Western Australia
     verifiziert: false
-    notiz: Stellungnahme der WA-Anwaltschaft zur Konsultation. In dieser Sitzung nicht abgerufen.
+    notiz: Stellungnahme der WA-Anwaltschaft zur Konsultation.
   offene_punkte:
   - 'WIDERSPRUCH ZU KLÄREN: Hat der Supreme Court of WA inzwischen Guidelines erlassen? Law Society of
     NSW sagt ja, die SCWA-Website zeigt nur die Konsultation von 2025. Direkte Nachfrage bei Gericht oder
@@ -2837,7 +2827,7 @@ regelwerke:
     sprache: en
     urheber: Department of the Premier and Cabinet, South Australia
     verifiziert: false
-    notiz: Ankündigung. In dieser Sitzung nicht abgerufen.
+    notiz: Ankündigung.
   offene_punkte:
   - Terms of Reference, Commissioners und Einreichungsfristen noch nicht veröffentlicht — laufend beobachten.
   - Ankündigungsdatum 10.08.2026 nur über Sekundärquelle.

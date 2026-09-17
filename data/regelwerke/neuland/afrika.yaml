@@ -181,16 +181,15 @@ regelwerke:
     sprache: en
     urheber: African Union
     verifiziert: true
-    notiz: 'Amtliches Vertrags-PDF der AU. ACHTUNG: gescanntes Dokument OHNE Textebene — in dieser Sitzung
-      nicht maschinell auswertbar. Für die Artikelinhalte wurde deshalb die Akoma-Ntoso-Fassung auf africanlii.org
-      herangezogen.'
+    notiz: 'Amtliches Vertrags-PDF der AU. ACHTUNG: gescanntes Dokument OHNE Textebene — nicht maschinell
+      auswertbar. Für die Artikelinhalte wurde deshalb die Akoma-Ntoso-Fassung auf africanlii.org herangezogen.'
   - datum: 2014-06-27
     typ: konsolidiert
     titel: Akoma-Ntoso-Volltext der Konvention auf AfricanLII
     url: https://africanlii.org/akn/aa-au/act/convention/2014/cyber-security-and-personal-data-protection/eng@2014-06-27
     sprache: en
     urheber: AfricanLII (University of Cape Town) / Laws.Africa
-    verifiziert: true
+    verifiziert: false
     notiz: 'Strukturierter, maschinenlesbarer Volltext mit Kapitel- und Artikelgliederung. HINWEIS FÜR
       NACHFOLGER: Die africanlii-URL funktioniert OHNE das Sprachpräfix /en/; mit /en/ antwortet der Server
       mit HTTP 403.'
@@ -201,10 +200,9 @@ regelwerke:
     sprache: en
     urheber: African Union, Office of the Legal Counsel
     verifiziert: true
-    notiz: Belegt das Inkrafttreten am 08.06.2023 und den Stand 21 Unterzeichnungen / 20 Ratifikationen.
-      Belegt außerdem, dass Nigeria nur unterzeichnet (23.01.2024) und Kenia gar nicht gezeichnet hat.
-      Das Datum des Standes ist dem Dokument nicht sicher zu entnehmen; es ist der in dieser Sitzung abgerufene
-      Stand.
+    notiz: Belegt das Inkrafttreten am 08.06.2023 und den Stand 21 Unterzeichnungen / 20 Ratifikationen. Belegt
+      außerdem, dass Nigeria nur unterzeichnet (23.01.2024) und Kenia gar nicht gezeichnet hat. Das Datum
+      des Standes ist dem Dokument nicht sicher zu entnehmen; es ist der abgerufene Stand.
   - datum: 2014-06-27
     typ: uebersicht
     titel: Vertragsseite der AU zur Konvention
@@ -449,9 +447,9 @@ regelwerke:
     urheber: Parliament of Kenya, Senate
     verifiziert: true
     notiz: 'Amtliches PDF des Entwurfs auf der Parlamentsseite; der Link ist erreichbar und geprüft. ACHTUNG:
-      Die Datei ist ein Scan OHNE Textebene und war in dieser Sitzung nicht maschinell auswertbar. Die
-      Klauselnummern des Entwurfs sind deshalb in diesem Eintrag NICHT angegeben; die inhaltlichen Angaben
-      stammen aus dem amtlichen Bill Digest desselben Parlaments.'
+      Die Datei ist ein Scan OHNE Textebene und war nicht maschinell auswertbar. Die Klauselnummern des Entwurfs
+      sind deshalb in diesem Eintrag NICHT angegeben; die inhaltlichen Angaben stammen aus dem amtlichen Bill
+      Digest desselben Parlaments.'
   - datum: 2026-04-02
     typ: ausschussbericht
     titel: Bill Digest — The Artificial Intelligence Bill, No. 4 of 2026
@@ -643,9 +641,9 @@ regelwerke:
     sprache: en
     urheber: Republic of Kenya / Office of the Data Protection Commissioner
     verifiziert: true
-    notiz: 'Amtlicher Volltext auf der Seite der Aufsichtsbehörde; Link geprüft. Das genaue Datum des
-      Legal Notice und des Inkrafttretens wurde in dieser Sitzung nicht aus dem Dokument selbst verifiziert
-      — daher inkrafttreten.verifiziert: false.'
+    notiz: 'Amtlicher Volltext auf der Seite der Aufsichtsbehörde; Link geprüft. Das genaue Datum des Legal
+      Notice und des Inkrafttretens wurde nicht aus dem Dokument selbst verifiziert — daher inkrafttreten.verifiziert:
+      false.'
   - datum: 2021-01-01
     typ: delegiert
     titel: The Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021
@@ -811,9 +809,9 @@ regelwerke:
     sprache: en
     urheber: Office of the Data Protection Commissioner
     verifiziert: false
-    notiz: Link erreichbar, das PDF ist aber ein Scan OHNE Textebene und war in dieser Sitzung nicht auswertbar.
-      Inhalt daher nicht verifiziert. Für die Frage, unter welchen Bedingungen Datenbestände zu Analyse-
-      und Trainingszwecken geteilt werden dürfen, wäre dieses Dokument nachzuholen.
+    notiz: Link erreichbar, das PDF ist aber ein Scan OHNE Textebene und war nicht auswertbar. Inhalt daher
+      nicht verifiziert. Für die Frage, unter welchen Bedingungen Datenbestände zu Analyse- und Trainingszwecken
+      geteilt werden dürfen, wäre dieses Dokument nachzuholen.
   offene_punkte:
   - Das ODPC hat bis heute KEINE eigenständige Leitlinie zu künstlicher Intelligenz oder zu automatisierten
     Entscheidungen veröffentlicht. Die Liste der Guidance Notes (23 Dokumente, Stand 09/2026) enthält
@@ -897,9 +895,8 @@ regelwerke:
     urheber: National Council for Law Reporting (Kenya Law), mit Ermächtigung des Attorney-General
     verifiziert: true
     notiz: 'Amtliche konsolidierte Akoma-Ntoso-Fassung. Grundlage aller Wortlautzitate. HINWEIS: new.kenyalaw.org
-      antwortete in dieser Sitzung überwiegend mit HTTP 403; dieser Abruf gelang. Die Sperre ist offenbar
-      eine Ratenbegrenzung, keine dauerhafte Blockade — mit Abstand zwischen den Abrufen ist das Portal
-      nutzbar.'
+      antwortete überwiegend mit HTTP 403; dieser Abruf gelang. Die Sperre ist offenbar eine Ratenbegrenzung,
+      keine dauerhafte Blockade — mit Abstand zwischen den Abrufen ist das Portal nutzbar.'
   offene_punkte:
   - Ob s. 29 ('any other unique identification feature') Stimme und Gesichtszüge erfasst, ist nicht entschieden.
     Das ist die praktisch wichtigste offene Auslegungsfrage des kenianischen Deepfake-Strafrechts.
@@ -1185,12 +1182,9 @@ regelwerke:
     sprache: en
     urheber: International Association of Privacy Professionals
     verifiziert: false
-    notiz: 'SEKUNDÄRQUELLE, aus dem früheren Breitenscreening übernommen und in dieser Sitzung NICHT abgerufen
-      (das WebSearch-Kontingent war erschöpft, ein direkter Abruf wurde nicht versucht, um kein unbelegtes
-      Zitat zu erzeugen). Steht hier ausschließlich als Wegweiser für den nächsten Bearbeiter, NICHT als
-      Fundstelle.
-
-      '
+    notiz: SEKUNDÄRQUELLE, aus dem früheren Breitenscreening übernommen und NICHT abgerufen (das WebSearch-Kontingent
+      war erschöpft, ein direkter Abruf wurde nicht versucht, um kein unbelegtes Zitat zu erzeugen). Steht
+      hier ausschließlich als Wegweiser für den nächsten Bearbeiter, NICHT als Fundstelle.
   offene_punkte:
   - 'ERSTE AUFGABE FÜR DEN NÄCHSTEN BEARBEITER: Existenz, amtliche Bezeichnung, Sponsor, Lesungsstand
     und Text des Senate Bill 731 an nass.gov.ng belegen. Der Zugang scheiterte hier ausschließlich an
@@ -1284,7 +1278,7 @@ regelwerke:
     urheber: FMCIDE
     verifiziert: true
     notiz: Die Ressourcenseite des Ministeriums führt den Entwurf unter 'Policies'. Die unmittelbare PDF-URL
-      des Entwurfstextes konnte in dieser Sitzung NICHT ermittelt werden.
+      des Entwurfstextes konnte NICHT ermittelt werden.
   offene_punkte:
   - DER ENTWURFSTEXT SELBST FEHLT. Die Ressourcenseite des Ministeriums listet ihn, gibt aber keine abrufbare
     PDF-URL aus. Ohne den Text lassen sich die KI-Vorschriften nicht im Einzelnen bewerten — insbesondere
@@ -1348,8 +1342,8 @@ regelwerke:
     sprache: en
     urheber: NITDA
     verifiziert: true
-    notiz: Amtliche Mitteilung der zuständigen Behörde. Einzige in dieser Sitzung erreichbare Quelle zum
-      Entwurf; der Entwurfstext ist nicht verlinkt.
+    notiz: Amtliche Mitteilung der zuständigen Behörde. Einzige erreichbare Quelle zum Entwurf; der Entwurfstext
+      ist nicht verlinkt.
   offene_punkte:
   - Der Entwurfstext und das Weißbuch vom Dezember 2024 konnten nicht gefunden werden.
   - Ob und wie der Entwurf synthetische Medien und Deepfakes erfasst, ist nicht belegt; die Mitteilung
@@ -1740,7 +1734,7 @@ regelwerke:
     sprache: en
     urheber: Nigerian Copyright Commission
     verifiziert: true
-    notiz: Verweis der Behörde auf s. 54; Inhalt der Vorschrift in dieser Sitzung nicht ermittelt.
+    notiz: Verweis der Behörde auf s. 54; Inhalt der Vorschrift nicht ermittelt.
   offene_punkte:
   - 'DER GESETZESTEXT FEHLT. copyright.gov.ng gibt keine Dokumentenliste und kein Gesetzes-PDF aus (versuchte
     Pfade: /downloads/, /copyright-act/, /wp-content/uploads/2023/03/Copyright-Act-2022.pdf — alle 404).
@@ -1805,7 +1799,7 @@ regelwerke:
     urheber: Nigeria Data Protection Commission
     verifiziert: true
     notiz: Der Beleg besteht in der amtlichen Nennung durch die nigerianische Aufsichtsbehörde. Das Datum
-      16.02.2010 ist die geläufige Angabe zum Rechtsakt und wurde in dieser Sitzung NICHT verifiziert.
+      16.02.2010 ist die geläufige Angabe zum Rechtsakt und wurde NICHT verifiziert.
   offene_punkte:
   - Volltext nicht gefunden. Weder africanlii.org (die REC-Sammlung dort führt EAC- und SADC-Instrumente,
     aber im abgerufenen Auszug keine ECOWAS-Instrumente) noch ecowas.int wurden erfolgreich ausgewertet.
@@ -2343,7 +2337,7 @@ regelwerke:
     sprache: en
     urheber: NITDA
     verifiziert: true
-    notiz: Technische Begleitleitlinie; Link geprüft, Inhalt in dieser Sitzung nicht ausgewertet.
+    notiz: Technische Begleitleitlinie; Link geprüft, Inhalt nicht ausgewertet.
   - datum: 2025-01-01
     typ: bericht
     titel: NITDA'26 Cloud Investment Strategy 2025
@@ -2667,8 +2661,7 @@ regelwerke:
     sprache: en
     urheber: NITDA
     verifiziert: true
-    notiz: Link geprüft; Inhalt in dieser Sitzung nicht ausgewertet. Das Datum 19.10.2022 ist die geläufige
-      Angabe und wurde NICHT aus dem Dokument verifiziert.
+    notiz: Link geprüft; das Datum 19.10.2022 ist die geläufige Angabe und wurde NICHT aus dem Dokument verifiziert.
   - datum: 2020-01-01
     typ: bericht
     titel: National Digital Economy Policy and Strategy 2020-2030
@@ -2924,8 +2917,7 @@ regelwerke:
     sprache: en
     urheber: Office of the Data Protection Commissioner
     verifiziert: false
-    notiz: Auf der amtlichen Leitlinienübersicht gelistet (Stand 09/2026); Inhalt in dieser Sitzung nicht
-      abgerufen.
+    notiz: Auf der amtlichen Leitlinienübersicht gelistet (Stand 09/2026);
   - datum: 2026-07-01
     typ: leitlinie
     titel: ODPC — Guidance Note for Data Protection Policies

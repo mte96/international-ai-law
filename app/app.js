@@ -576,9 +576,15 @@ function kennzahlen(c){
   const naechste = D.fristen.find(f=>f._tage!=null && f._tage>=0);
   const felder = [
     ["Regelwerke", D.statistik.regelwerke, D.statistik.jurisdiktionen_belegt + " Rechtsordnungen"],
-    ["Verfahrensdokumente", D.statistik.dokumente, "verlinkt und geprüft"],
+    // "verlinkt und geprüft" stimmte fuer 2040 Dokumente nicht: 33 haben
+    // gar keine Adresse, 494 eine sekundaere, und geprueft ist gut die
+    // Haelfte. Der Kennzahlenblock sagt jetzt, was die Quellenlage
+    // hergibt (build.py, statistik.quellenlage).
+    ["Verfahrensdokumente", D.statistik.dokumente,
+      `${(D.statistik.quellenlage?.dokumente?.amtlich||0)
+        + (D.statistik.quellenlage?.dokumente?.urheber||0)} mit amtlicher Adresse`],
     ["Entscheidungen", D.statistik.urteile,
-      `${D.statistik.urteile_hoch} von hoher Bedeutung`],
+      `${D.statistik.urteile_amtlich} mit amtlichem Volltext`],
     ["Literatur", D.statistik.literatur,
       `${D.statistik.literatur_frei} frei zugänglich`],
     ["Offene Fristen", D.fristen.filter(f=>f._tage!=null && f._tage>=0).length, ""],

@@ -1218,7 +1218,7 @@ regelwerke:
   - datum: 2026-12-15
     was_gilt: Ende der ordentlichen Sitzungsperiode des Senats — Zeitgrenze fuer eine Verabschiedung in
       diesem Halbjahr.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.jornada.com.mx/2026/09/05/politica/010n2pol
   themenachsen:
   - content
@@ -1245,7 +1245,7 @@ regelwerke:
     sekundaerquelle_url: https://www.jornada.com.mx/2026/09/05/politica/010n2pol
     sprache: es
     urheber: La Jornada
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle, am 05.09.2026 abgerufen. Belegt Strafrahmen (vier bis acht Jahre, 400 bis
       1.000 UMA), die Behandlung als vorrangig und die Sitzungsperiode bis 15.12.2026. Amtliche Fundstelle
       in der Gaceta del Senado nicht erreichbar (403).
@@ -1257,7 +1257,7 @@ regelwerke:
     sekundaerquelle_url: https://sprinforma.mx/ver/destacados/aprueba-camara-de-diputados-tipificar-como-delito-uso-de-ia-para-generar-imagenes-falsas-de-contenido-sexual
     sprache: es
     urheber: Sistema Público de Radiodifusión del Estado Mexicano (SPR Informa)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle. Nennt 455 Stimmen, die geaenderten Gesetze und die Weiterleitung an den Senat.
       Der amtliche Beleg (Gaceta Parlamentaria, Sitzung vom 29.04.2026) wurde nicht aufgefunden.
   offene_punkte:
@@ -1508,7 +1508,7 @@ regelwerke:
     quelle: https://comisiones.senado.gob.mx/inteligencia_artificial/reuniones/151024
   - datum: 2026-04-22
     was_gilt: Angekuendigte Vorlage des Entwurfs; am Vorabend von der Tagesordnung genommen.
-    verifiziert: true
+    verifiziert: false
     quelle: https://es-us.noticias.yahoo.com/queda-fecha-presentaci%C3%B3n-ley-inteligencia-010434807.html
   - datum: 2026-04-30
     was_gilt: Oeffentliche Vorstellung des Marco Normativo und des Plan Nacional durch die Senatskommission.
@@ -1569,7 +1569,7 @@ regelwerke:
     sekundaerquelle_url: https://es-us.noticias.yahoo.com/queda-fecha-presentaci%C3%B3n-ley-inteligencia-010434807.html
     sprache: es
     urheber: Presseagentur (Sekundaerquelle)
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt die Verschiebung und die fachliche Kritik an der Behoerdenkonstruktion.
   offene_punkte:
   - Kein amtlicher Volltext zugaenglich. Alle Strukturangaben (223 Artikel, vierzehn Titel, Neurorechte,
@@ -1713,7 +1713,7 @@ regelwerke:
     sekundaerquelle_url: https://www.garrigues.com/es_ES/noticia/mapa-regulatorio-inteligencia-artificial-mexico
     sprache: es
     urheber: Garrigues (Kanzleipublikation)
-    verifiziert: true
+    verifiziert: false
     notiz: SEKUNDAERQUELLE, kein Volltext. Beschreibt Inhalt und Status der beiden Bundesentwuerfe von
       2024 und 2025. Der amtliche Gaceta-Text war nicht erreichbar.
   offene_punkte:
@@ -1755,7 +1755,7 @@ regelwerke:
   anwendungsdaten:
   - datum: 2026-04-30
     was_gilt: Vorstellung durch die Comisión de Ciencia y Tecnología des Senats.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.infobae.com/mexico/2026/04/30/desde-comision-del-senado-impulsan-iniciativa-de-ley-para-regular-el-uso-de-inteligencia-artificial-en-mexico/
   themenachsen:
   - governance
@@ -1776,7 +1776,7 @@ regelwerke:
     sekundaerquelle_url: https://www.infobae.com/mexico/2026/04/30/desde-comision-del-senado-impulsan-iniciativa-de-ley-para-regular-el-uso-de-inteligencia-artificial-en-mexico/
     sprache: es
     urheber: Infobae (Sekundaerquelle)
-    verifiziert: true
+    verifiziert: false
     notiz: SEKUNDAERQUELLE. Nennt Ethikrat und Statistiknetz, aber weder Antragsteller noch Gaceta-Fundstelle.
   - datum: 2023-01-01
     typ: pressemitteilung
@@ -1857,7 +1857,7 @@ regelwerke:
     sekundaerquelle_url: https://www.amcp.mx/plan-nacional-de-inteligencia-artificial-atdt-abril-2026/
     sprache: es
     urheber: Asociación Mexicana de Contadores Públicos
-    verifiziert: true
+    verifiziert: false
     notiz: SEKUNDAERQUELLE. Nennt die drei Saeulen; die Urheberschaft der ATDT ist dort nur im Titel behauptet.
   offene_punkte:
   - Amtliche Veroeffentlichung des Plans nicht auffindbar. Vor jeder Zitierung an gob.mx/atdt pruefen.
@@ -1928,7 +1928,7 @@ regelwerke:
     sekundaerquelle_url: https://alianzanacionaldeinteligenciaartificial.com/
     sprache: es
     urheber: ANIA
-    verifiziert: true
+    verifiziert: false
     notiz: Selbstdarstellung; enthaelt keine Datierung und keinen Link auf den Volltext der Agenda.
   offene_punkte:
   - Volltext der Agenda nicht auffindbar; ohne ihn bleibt der Inhalt unbelegt.
@@ -2028,7 +2028,7 @@ regelwerke:
     sekundaerquelle_url: https://www.cronica.com.mx/jalisco/guadalajara/2026/09/04/ministros-de-la-suprema-corte-usaran-la-inteligencia-artificial-como-herramienta-de-apoyo/
     sprache: es
     urheber: La Crónica de Hoy (Sekundaerquelle)
-    verifiziert: true
+    verifiziert: false
     notiz: SEKUNDAERQUELLE. Belegt Beschluss und Sondervotum; ein amtlicher Beschlusstext ist nicht veroeffentlicht.
   offene_punkte:
   - Kein amtlicher Text des Plenarbeschlusses vom September 2026. Ob ein acuerdo general folgt, ist zu
@@ -2231,7 +2231,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-02-13
-    verifiziert: true
+    verifiziert: false
     quelle: https://fiscaliasinaloa.mx/Contenido/Normatividad/Leyes/Codigo%20Penal%20para%20el%20Estado%20de%20Sinaloa.pdf
     fundstelle_norm: 'Decreto No. 699 (P.O. ''El Estado de Sinaloa'' No. 019 vom 12.02.2024), TRANSITORIO
       PRIMERO: ''El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico
@@ -2524,7 +2524,7 @@ regelwerke:
     quelle: https://www.congresojal.gob.mx/boletines/comisi-n-avala-reformas-para-sancionar-delitos-contra-la-intimidad-sexual-mediante-ia-y
   - datum: 2026-06-01
     was_gilt: Beschluss im Plenum; Strafrahmen ein bis acht Jahre.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.informador.mx/jalisco/jalisco-castigara-con-hasta-8-anos-de-prision-a-por-difundir-contenido-sexual-creado-con-ia-20260601-0132.html
   themenachsen:
   - content
@@ -2553,7 +2553,7 @@ regelwerke:
     sekundaerquelle_url: https://www.informador.mx/jalisco/jalisco-castigara-con-hasta-8-anos-de-prision-a-por-difundir-contenido-sexual-creado-con-ia-20260601-0132.html
     sprache: es
     urheber: El Informador (Sekundaerquelle)
-    verifiziert: true
+    verifiziert: false
     notiz: SEKUNDAERQUELLE. Nennt Art. 176 Bis 3, den Strafrahmen und die Erfassung vollstaendig synthetischer
       Inhalte.
   offene_punkte:

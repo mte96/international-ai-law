@@ -12,12 +12,12 @@ regelwerke:
   status: anwendbar
   inkrafttreten:
     datum: 2026-07-29
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten:
   - datum: 2026-07-29
     was_gilt: Bundesnetzagentur als zentrale Marktüberwachungs- und notifizierende Behörde; Koordinierungs-
       und Kompetenzzentrum; zentrale Anlauf- und Beschwerdestelle; mindestens ein KI-Reallabor; KMU-/Start-up-Unterstützung.
-    verifiziert: true
+    verifiziert: false
   dokumente:
   - datum: 2026-07-29
     typ: endfassung
@@ -425,24 +425,24 @@ regelwerke:
     was_gilt: 'LG München I, Urt. v. 11.11.2025 – 42 O 14139/24 (GEMA ./. OpenAI): Verletzung von §§ 16,
       19a UrhG durch Memorisierung im Modell und durch Chatbot-Ausgaben; § 44b UrhG nicht einschlägig;
       Unterlassung, Auskunft, Schadensersatz.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://preubohlig.de/gema-v-openai-judgment-of-the-regional-court-of-munich-i/?lang=en
   - datum: 2025-12-08
     was_gilt: OpenAI legt Berufung ein — OLG München, Az. 6 U 3662/25 e.
-    verifiziert: true
+    verifiziert: false
     quelle: https://urheber.info/diskurs/openai-legt-berufung-ein
   - datum: 2025-12-10
     was_gilt: 'OLG Hamburg, Urt. v. 10.12.2025 – 5 U 104/24: Berufung zurückgewiesen; § 44b UrhG erfasst
       auch die Prüfung, ob ein Bild zu einer Beschreibung passt, und Vorbereitungshandlungen für späteres
       KI-Training; der Vorbehalt in natürlicher Sprache war für 2021 nicht als maschinenlesbar nachgewiesen;
       zusätzlich § 60d UrhG. Revision zugelassen.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamburg&Datum=10.12.2025&Aktenzeichen=5+U+104%2F24
   - datum: 2026-07-31
     was_gilt: 'LG München I, Urt. v. 31.07.2026 – 42 O 763/25 (GEMA ./. Suno): Urheberrechtsverletzung
       durch Training in den USA und durch Speicherung/Ausgabe in Europa; europäische Gerichtsbarkeit auch
       für US-Training bejaht, wenn das System in Europa betrieben wird.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.gema.de/de/w/suno-entscheidung-2026
   - datum: 2026-09-03
     was_gilt: BGH, Verhandlungstermin I ZR 281/25 (Erstellen eines Datensatzes für KI-Training), 9:00
@@ -508,7 +508,7 @@ regelwerke:
     url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamburg&Datum=10.12.2025&Aktenzeichen=5+U+104%2F24
     sprache: de
     urheber: dejure.org (Nachweis- und Verlinkungsdienst)
-    verifiziert: true
+    verifiziert: false
     notiz: Bestätigt Gericht, Datum, Aktenzeichen, Fundstelle GRUR 2026, 398 und die geprüften Normen
       §§ 44b, 60d UrhG.
   - datum: 2024-09-27
@@ -526,7 +526,7 @@ regelwerke:
     url: https://preubohlig.de/gema-v-openai-judgment-of-the-regional-court-of-munich-i/?lang=en
     sprache: en
     urheber: Preu Bohlig & Partner
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierte Wiedergabe der Memorisierungsvermutung und der Ablehnung des § 44b UrhG.
   - datum: 2025-12-08
     typ: bericht
@@ -534,7 +534,7 @@ regelwerke:
     url: https://urheber.info/diskurs/openai-legt-berufung-ein
     sprache: de
     urheber: Initiative Urheberrecht
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Berufungseinlegung am 08.12.2025 und das Aktenzeichen des OLG München (6 U 3662/25 e).
   - datum: 2026-07-31
     typ: pressemitteilung
@@ -542,7 +542,7 @@ regelwerke:
     url: https://www.gema.de/de/w/suno-entscheidung-2026
     sprache: de
     urheber: GEMA
-    verifiziert: true
+    verifiziert: false
     notiz: Parteiöffentliche Darstellung des Suno-Urteils; nennt Territorialitätsaussage und Zitate von
       Tobias Holzmüller und Kai Welp.
   - datum: 2026-03-09
@@ -792,13 +792,13 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2022-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/gesetze/BGB/327.html
   anwendungsdaten:
   - datum: 2022-01-01
     was_gilt: Anwendung auf Verbraucherverträge über digitale Produkte, die ab diesem Tag geschlossen
       werden.
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/gesetze/BGB/327.html
   themenachsen:
   - vertrag
@@ -827,7 +827,7 @@ regelwerke:
     url: https://dejure.org/gesetze/BGB/327.html
     sprache: de
     urheber: Bundesgesetzgeber / dejure.org
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Wortlaut, Inkrafttreten 01.01.2022 und das Einführungsgesetz vom 25.06.2021 (BGBl. I
       S. 2123).
   offene_punkte:
@@ -886,7 +886,7 @@ regelwerke:
   - datum: 2024-10-08
     was_gilt: Referentenentwurf BeschDG von BMI und BMAS; Aufhebung des § 26 BDSG vorgesehen, § 10 BeschDG-E
       zu KI-Einsatz.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.activemind.legal/de/guides/beschaeftigtendatenschutzgesetz/
   - datum: 2025-03-25
     was_gilt: Diskontinuität mit dem Ende der 20. Wahlperiode; kein Kabinettbeschluss zum BeschDG erfolgt.
@@ -920,7 +920,7 @@ regelwerke:
     url: https://www.activemind.legal/de/guides/beschaeftigtendatenschutzgesetz/
     sprache: de
     urheber: activeMind.legal
-    verifiziert: true
+    verifiziert: false
     notiz: Beleg für Datum des Referentenentwurfs, § 10 BeschDG-E zu KI und die geplante Aufhebung des
       § 26 BDSG.
   - datum: 2026-02-01
@@ -929,7 +929,7 @@ regelwerke:
     url: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
     sprache: de
     urheber: Bitkom e.V.
-    verifiziert: true
+    verifiziert: false
     notiz: Enthält die Rechtsprechungsübersicht (EuGH C-34/21, BAG 8 AZR 209/21, EuGH C-65/23) zum Beschäftigtendatenschutz
       bei KI.
   offene_punkte:
@@ -993,12 +993,12 @@ regelwerke:
     was_gilt: 'ArbG Hamburg, Beschl. v. 16.01.2024 – 24 BVGa 1/24: Die bloße Erlaubnis, ChatGPT über private
       Accounts zu nutzen, ist mitbestimmungsfrei, wenn der Arbeitgeber keine eigene KI-Infrastruktur betreibt
       und keinen Zugriff auf Nutzungsdaten hat.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
   - datum: 2024-12-05
     was_gilt: 'LAG Hessen, Beschl. v. 05.12.2024 – 5 TaBV 4/24: Datenschutzrechtliche Fragen unterliegen
       nicht der erzwingbaren Mitbestimmung nach § 87 Abs. 1 Nr. 6 BetrVG.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
   themenachsen:
   - arbeit
@@ -1030,7 +1030,7 @@ regelwerke:
     url: https://www.bitkom.org/sites/main/files/2026-02/bitkom-leitfaden-kuenstliche-intelligenz-und-mitbestimmung.pdf
     sprache: de
     urheber: Bitkom e.V.
-    verifiziert: true
+    verifiziert: false
     notiz: Systematische Darstellung der Mitbestimmungstatbestände mit Rechtsprechungsnachweisen; Arbeitgeberperspektive.
   - datum: 2026-04-17
     typ: bericht
@@ -1038,7 +1038,7 @@ regelwerke:
     url: https://www.arbrb.de/blog/2026/04/17/mitbestimmung-des-betriebsrats-bei-ki-nutzung-chatgpt/
     sprache: de
     urheber: Arbeits-Rechtsberater (ArbRB-Blog)
-    verifiziert: true
+    verifiziert: false
     notiz: Bestätigt, dass zum Stand April 2026 keine BAG- oder LAG-Entscheidung speziell zu generativer
       KI und § 87 Abs. 1 Nr. 6 BetrVG vorliegt.
   offene_punkte:
@@ -1368,12 +1368,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2017-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/gesetze/VwVfG/35a.html
   anwendungsdaten:
   - datum: 2017-01-01
     was_gilt: Anwendbarkeit von § 35a VwVfG, § 155 Abs. 4 AO und § 31a SGB X.
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/gesetze/SGB_X/31a.html
   - datum: 2027-12-02
     was_gilt: 'Anwendungsbeginn der Hochrisiko-Pflichten für Anhang-III-Systeme (nach VO (EU) 2026/1744
@@ -1413,7 +1413,7 @@ regelwerke:
     url: https://dejure.org/gesetze/VwVfG/35a.html
     sprache: de
     urheber: Bundesgesetzgeber / dejure.org
-    verifiziert: true
+    verifiziert: false
     notiz: Wortlaut, Inkrafttreten 01.01.2017 und Einführungsgesetz (BGBl. I 2016 S. 1679) bestätigt.
   - datum: 2017-01-01
     typ: norm
@@ -1421,7 +1421,7 @@ regelwerke:
     url: https://dejure.org/gesetze/SGB_X/31a.html
     sprache: de
     urheber: Bundesgesetzgeber / dejure.org
-    verifiziert: true
+    verifiziert: false
     notiz: Enthält die Pflicht zur Berücksichtigung einzelfallbedeutsamer Angaben des Beteiligten.
   offene_punkte:
   - § 155 Abs. 4 AO wurde nicht aus einer Primärquelle abgerufen; Inhalt aus Vorwissen.
@@ -1469,19 +1469,19 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2017-11-09
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/gesetze/BRAO/43e.html
   anwendungsdaten:
   - datum: 2017-11-09
     was_gilt: § 43e BRAO anwendbar — Rahmen für Auslagerung an Dienstleister einschließlich Cloud- und
       KI-Anbieter.
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/gesetze/BRAO/43e.html
   - datum: 2021-09-09
     was_gilt: 'BGH, Urt. v. 09.09.2021 – I ZR 113/20 (smartlaw): Ein digitaler Vertragsdokumentengenerator
       ist keine unerlaubte Rechtsdienstleistung, weil es an einer konkreten fremden Angelegenheit und
       an individueller Rechtsberatung fehlt.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.09.2021&Aktenzeichen=I%20ZR%20113/20
   themenachsen:
   - berufsrecht
@@ -1514,7 +1514,7 @@ regelwerke:
     url: https://dejure.org/gesetze/BRAO/43e.html
     sprache: de
     urheber: Bundesgesetzgeber / dejure.org
-    verifiziert: true
+    verifiziert: false
     notiz: Wortlaut und Inkrafttreten bestätigt; einschlägig für Cloud- und KI-Auslagerung.
   - datum: 2021-09-09
     typ: bericht
@@ -1522,7 +1522,7 @@ regelwerke:
     url: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.09.2021&Aktenzeichen=I%20ZR%20113/20
     sprache: de
     urheber: dejure.org
-    verifiziert: true
+    verifiziert: false
     notiz: Grundsatzentscheidung zur RDG-Grenze automatisierter Rechtsdokumentenerstellung; zitierte Normen
       § 3a UWG, §§ 2 Abs. 1, 3 RDG.
   offene_punkte:
@@ -1691,7 +1691,7 @@ regelwerke:
   - datum: 2024-05-01
     was_gilt: Bundesratsentwurf BR-Drs. 222/24 (Initiative des Freistaats Bayern) zum strafrechtlichen
       Schutz von Persönlichkeitsrechten vor Deepfakes.
-    verifiziert: true
+    verifiziert: false
     quelle: https://kripoz.de/2025/12/01/strafrechtlicher-persoenlichkeitsschutz-vor-deepfakes/
   - datum: 2025-08-27
     was_gilt: Erneute Übersendung des Bundesratsentwurfs an den Bundestag in der 21. Wahlperiode (BT-Drs.
@@ -1776,7 +1776,7 @@ regelwerke:
     url: https://netzpolitik.org/2026/gesetz-gegen-digitale-gewalt-diese-deepfakes-sollen-kuenftig-strafbar-sein/
     sprache: de
     urheber: netzpolitik.org
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierte Darstellung der drei Tatbestände mit Strafrahmen.
   - datum: 2026-04-17
     typ: bericht
@@ -1784,7 +1784,7 @@ regelwerke:
     url: https://netzpolitik.org/2026/deepfakes-doxing-stalking-mit-vorratsdatenspeicherung-gegen-digitale-gewalt/
     sprache: de
     urheber: netzpolitik.org
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt die dreimonatige IP-Speicherpflicht und die Kritik von GFF und HateAid; bestätigt, dass
       der Kabinettbeschluss zu diesem Zeitpunkt noch ausstand.
   - datum: 2025-12-01
@@ -1793,7 +1793,7 @@ regelwerke:
     url: https://kripoz.de/2025/12/01/strafrechtlicher-persoenlichkeitsschutz-vor-deepfakes/
     sprache: de
     urheber: KriPoZ — Kriminalpolitische Zeitschrift
-    verifiziert: true
+    verifiziert: false
     notiz: Dokumentiert Drucksachen, Wortlaut des § 201b StGB-E, Strafrahmen und die Stellungnahmen von
       BRAK und Bundesregierung.
   - datum: 2025-10-02
@@ -1880,18 +1880,18 @@ regelwerke:
   - datum: 2023-06-29
     was_gilt: 'Hessen: Neufassung des § 25a HSOG durch das Gesetz zur Änderung sicherheitsrechtlicher
       Vorschriften und zur Umorganisation der hessischen Bereitschaftspolizei (GVBl. S. 456).'
-    verifiziert: true
+    verifiziert: false
     quelle: https://freiheitsrechte.org/uploads/documents/Freiheit-im-digitalen-Zeitalter/Polizeigesetz-Hessen/Verfassungsbeschwerdeschrift-HSOG.pdf
   - datum: 2024-12-13
     was_gilt: 'Hessen: weitere Änderung des § 25a HSOG durch das Gesetz zur Stärkung der Inneren Sicherheit
       in Hessen (GVBl. 2024 Nr. 83).'
-    verifiziert: true
+    verifiziert: false
     quelle: https://verfassungsblog.de/palantir-grundrechtseingriff/
   - datum: 2025-11-12
     was_gilt: 'Baden-Württemberg: Der Landtag beschließt das neue Polizeigesetz mit § 47a PolG BW einschließlich
       einer Experimentierklausel für Entwicklung, Training, Test, Validierung und Monitoring von KI-Systemen
       mit Polizeidaten.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/
   - datum: 2026-04-01
     was_gilt: 'Bayern: geltende Fassung des Art. 61a BayPAG (Besondere technische Mittel zur anlassbezogenen
@@ -1901,7 +1901,7 @@ regelwerke:
   - datum: 2026-04-20
     was_gilt: 'Bund: Kabinettsfassungen der Entwürfe zu § 9b BKAG-E, §§ 46, 58b BPolG-E und §§ 98d, 98e
       StPO-E.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
   themenachsen:
   - grundrechte
@@ -1953,7 +1953,7 @@ regelwerke:
     url: https://freiheitsrechte.org/uploads/documents/Freiheit-im-digitalen-Zeitalter/Polizeigesetz-Hessen/Verfassungsbeschwerdeschrift-HSOG.pdf
     sprache: de
     urheber: Gesellschaft für Freiheitsrechte, Prozessbevollmächtigter Prof. Dr. Tobias Singelnstein
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt die exakte Fundstelle der hessischen Novelle (GVBl. S. 456) und die angegriffenen Absätze;
       die genaueste öffentlich verfügbare Analyse der Neuregelung.
   - datum: 2026-05-26
@@ -1982,7 +1982,7 @@ regelwerke:
     url: https://netzpolitik.org/2026/automatisierte-datenanalyse-in-nrw-palantir-gesetz-nicht-verfassungskonform/
     sprache: de
     urheber: netzpolitik.org, referiert den Tätigkeitsbericht der LDI NRW Bettina Gayk
-    verifiziert: true
+    verifiziert: false
     notiz: Aufsichtsbehördliche Bewertung des § 23 Abs. 6 PolG NRW, einschließlich CLOUD-Act- und FISA-Risiken
       bei US-Software.
   - datum: 2026-08-26
@@ -1991,7 +1991,7 @@ regelwerke:
     url: https://verfassungsblog.de/automatisierte-datenanalyse-palantir-sicherheitsrecht/
     sprache: de
     urheber: Verfassungsblog
-    verifiziert: true
+    verifiziert: false
     notiz: Auftakt des Verfassungsblog-Symposiums zu Palantir; ordnet die BVerfG-Stellschrauben (Art und
       Umfang der Daten, Komplexität der Analysemethoden, Nachvollziehbarkeit, Diskriminierungsschutz)
       ein.
@@ -2001,7 +2001,7 @@ regelwerke:
     url: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
     sprache: de
     urheber: Verfassungsblog
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt die Fundstellen der Diskriminierungsschutzklauseln in BKAG-E, BPolG-E und StPO-E und
       datiert die Kabinettsfassungen auf den 20.04.2026.
   - datum: 2026-09-01
@@ -2010,7 +2010,7 @@ regelwerke:
     url: https://verfassungsblog.de/palantir-superdatenbank/
     sprache: de
     urheber: Verfassungsblog
-    verifiziert: true
+    verifiziert: false
     notiz: Argumentiert, dass die Bundesentwürfe an fehlenden Speicherfristen und Speicherschwellen für
       den Grunddatenbestand scheitern; verbindet hessenDATA mit BKAG II (1 BvR 1160/19).
   offene_punkte:
@@ -2078,11 +2078,11 @@ regelwerke:
   anwendungsdaten:
   - datum: 2026-06-25
     was_gilt: Referentenentwurf des BMI (Bearbeitungsstand 25.06.2026, 11:16 Uhr) geht in die Verbändebeteiligung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://cdn.netzpolitik.org/wp-upload/2026/07/260625_RefE_Einsatz_KI_in_der_Migrationsverwaltung_c.pdf
   - datum: 2026-07-29
     was_gilt: Kabinettsbeschluss der Bundesregierung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://algorithmwatch.org/de/statement-zum-ki-migrationsverwaltungsgesetz-bundeskabinett-will-menschliche-schicksale-fur-evidenzlose-ki-forschung-nutzen/
   - datum: 2026-08-14
     was_gilt: Zuleitung an den Bundesrat als BR-Drs. 452/26.
@@ -2134,7 +2134,7 @@ regelwerke:
     url: https://cdn.netzpolitik.org/wp-upload/2026/07/260625_RefE_Einsatz_KI_in_der_Migrationsverwaltung_c.pdf
     sprache: de
     urheber: Bundesministerium des Innern
-    verifiziert: true
+    verifiziert: false
     notiz: Volltext des Referentenentwurfs mit allen drei Artikeln; von netzpolitik.org gespiegelt, weil
       das BMI den Entwurf zunächst nicht selbst veröffentlichte.
   - datum: 2026-08-14
@@ -2152,7 +2152,7 @@ regelwerke:
     url: https://netzpolitik.org/2026/gesetzentwurf-zu-ki-bei-asyl-und-visumsverfahren-da-sollten-die-alarmglocken-schrillen/
     sprache: de
     urheber: netzpolitik.org
-    verifiziert: true
+    verifiziert: false
     notiz: Erste Auswertung des Referentenentwurfs; benennt den Adressatenkreis einschließlich Polizeien
       und Nachrichtendiensten.
   - datum: 2026-07-29
@@ -2162,7 +2162,7 @@ regelwerke:
     url: https://algorithmwatch.org/de/statement-zum-ki-migrationsverwaltungsgesetz-bundeskabinett-will-menschliche-schicksale-fur-evidenzlose-ki-forschung-nutzen/
     sprache: de
     urheber: AlgorithmWatch
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt das Datum des Kabinettsbeschlusses und formuliert die Kernkritik: hohe Fehlerraten,
       fehlende Kontextdifferenzierung, unzureichender Schutz bei besonders sensiblen Daten.'
   - datum: 2026-08-19
@@ -2171,7 +2171,7 @@ regelwerke:
     url: https://netzpolitik.org/2026/ki-in-der-migrationsverwaltung-es-geht-um-entscheidungen-ueber-menschenleben/
     sprache: de
     urheber: netzpolitik.org
-    verifiziert: true
+    verifiziert: false
     notiz: Verfahrensstand nach dem Kabinettsbeschluss; verweist auf die niederländischen und britischen
       Diskriminierungsfälle als Warnbeispiele.
   - datum: 2026-07-02
@@ -2182,7 +2182,7 @@ regelwerke:
     url: https://www.proasyl.de/wp-content/uploads/PRO-ASYL_Stellungnahme_Entwurf-eines-Gesetzes-zum-Einsatz-kuenstlicher-Intelligenz-in-der-Migrationsverwaltung.pdf
     sprache: de
     urheber: PRO ASYL, Frankfurt am Main
-    verifiziert: true
+    verifiziert: false
     notiz: Die juristisch dichteste Verbändestellungnahme; rügt intransparente, algorithmisch gesteuerte
       Entscheidungsprozesse ohne effektiven Rechtsschutz, die Aushöhlung des Kernbereichsschutzes durch
       das Merkmal 'ausschließlich' und die Untauglichkeit der abstrakten Diskriminierungsklausel gerade
@@ -2261,7 +2261,7 @@ regelwerke:
   anwendungsdaten:
   - datum: 2026-04-20
     was_gilt: Kabinettsfassung des Entwurfs.
-    verifiziert: true
+    verifiziert: false
     quelle: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
   - datum: 2026-07-01
     was_gilt: Zuleitung an den Bundestag als BT-Drs. 21/6806.
@@ -2300,7 +2300,7 @@ regelwerke:
     url: https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
     sprache: de
     urheber: Verfassungsblog
-    verifiziert: true
+    verifiziert: false
     notiz: Kritische Analyse der Diskriminierungsschutzklauseln in § 98e Abs. 2 und Abs. 4 StPO-E.
   offene_punkte:
   - Erste Lesung und Ausschussüberweisung sind belegt (08.07.2026, Rechtsausschuss federführend). Offen
@@ -2337,7 +2337,7 @@ regelwerke:
     erfolgt durch Rechtsprechung.
   inkrafttreten:
     datum: 1900-01-01
-    verifiziert: true
+    verifiziert: false
     fundstelle_norm: Inkrafttreten des BGB am 1. Januar 1900; maßgeblich ist die Neubekanntmachung vom
       2. Januar 2002.
   themenachsen:
@@ -2381,7 +2381,7 @@ regelwerke:
     Systeme ist ungeklärt.
   inkrafttreten:
     datum: 2022-01-01
-    verifiziert: true
+    verifiziert: false
     fundstelle_norm: §§ 434 ff. in der Fassung vom 25.06.2021, anwendbar auf Verträge ab dem 01.01.2022.
   themenachsen:
   - vertrag
@@ -2420,7 +2420,7 @@ regelwerke:
     (Art. 92, 97, 101, 103 GG) sind dem Regelwerk de-ki-justiz zugeordnet.
   inkrafttreten:
     datum: 1949-05-24
-    verifiziert: true
+    verifiziert: false
   themenachsen:
   - grundrechte
   - datenschutz
@@ -2500,7 +2500,7 @@ regelwerke:
     (Regelwerk de-deepfake-strafrecht).
   inkrafttreten:
     datum: 1998-11-13
-    verifiziert: true
+    verifiziert: false
     fundstelle_norm: Neubekanntmachung des StGB; die Einzelnormen sind älter.
   themenachsen:
   - sicherheit-export
@@ -2620,7 +2620,7 @@ regelwerke:
     führt ab 2026 zu Verlängerungsverfahren.
   inkrafttreten:
     datum: 2021-01-19
-    verifiziert: true
+    verifiziert: false
     fundstelle_norm: GWB-Digitalisierungsgesetz vom 18.01.2021 (BGBl. I S. 2), Inkrafttreten am Tag nach
       der Verkündung.
   themenachsen:
@@ -2660,7 +2660,7 @@ regelwerke:
   status_detail: In Kraft. Erste deutsche Entscheidung zur markenmäßigen Benutzung in KI-Übersichten 2026.
   inkrafttreten:
     datum: 1995-01-01
-    verifiziert: true
+    verifiziert: false
   themenachsen:
   - wettbewerb
   - content
@@ -2698,7 +2698,7 @@ regelwerke:
     ist ungeklärt.
   inkrafttreten:
     datum: 2020-11-07
-    verifiziert: true
+    verifiziert: false
   themenachsen:
   - content
   - wettbewerb
@@ -2722,7 +2722,7 @@ regelwerke:
     titel: Medienstaatsvertrag — konsolidierte Fassung der Medienanstalten
     url: https://www.die-medienanstalten.de/fileadmin/user_upload/Rechtsgrundlagen/Gesetze_Staatsvertraege/Medienstaatsvertrag_MStV.pdf
     sprache: DE
-    verifiziert: true
+    verifiziert: false
   fristen: []
   offene_punkte: []
   monitoring_quellen:
@@ -2740,7 +2740,7 @@ regelwerke:
     festgestellt, aber nicht umgesetzt.
   inkrafttreten:
     datum: 2006-08-18
-    verifiziert: true
+    verifiziert: false
   themenachsen:
   - grundrechte
   - arbeit

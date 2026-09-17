@@ -41,21 +41,21 @@ regelwerke:
   - datum: 2026-09-01
     was_gilt: 'Grundbestimmungen: Regelungsgegenstand, Ziele, Definitionen, Grundsätze, Behördenkompetenzen,
       Förderung, internationale Zusammenarbeit (Art. 1-7, 11-13)'
-    verifiziert: true
+    verifiziert: false
     quelle: https://ria.ru/20260901/rossija-2114488668.html
   - datum: 2027-03-01
     was_gilt: 'Art. 8-10: Pflichten der Entwickler souveräner/nationaler Modelle (Sicherheit, Nutzungsregeln,
       technische Dokumentation, Grenzen des Modells); Bereitstellung der Kennzeichnungsfunktion durch
       Plattformen ab 500.000 Tagesnutzern; Informationspflicht gegenüber Nutzern über Rechte an KI-Erzeugnissen
       und Nutzungsbedingungen'
-    verifiziert: true
+    verifiziert: false
     quelle: https://mypl.pro/audit-ii/zakony/243-fz-ii
   - datum: 2032-09-01
     was_gilt: 'Ende der Übergangsfrist: Systeme in staatlich benannten sensiblen Anwendungsbereichen,
       die bislang ausländische Modelle einsetzen, müssen auf souveräne oder nationale Modelle umgestellt
       haben. Bis dahin ist der Weiterbetrieb zulässig, sofern die Datenverarbeitung ausschließlich in
       Russland erfolgt.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.cnews.ru/news/top/2026-06-22_vlasti_skorrektirovali_zakonoproekt
   themenachsen:
   - gpai
@@ -108,7 +108,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_540336/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Einzige aus dieser Umgebung erreichbare Quelle für die Artikelüberschriften; belegt insbesondere
       Art. 9 als Kennzeichnungsnorm. Kommerzielle Rechtsdatenbank, keine amtliche Quelle.
   - datum: 2026-07-09
@@ -118,7 +118,7 @@ regelwerke:
     url: https://www.comnews.ru/content/246290/2026-07-09/2026-w28/1008/tri-chteniya-za-dva-dnya-gosduma-prinyala-zakon-o-podderzhke-razvitiya-tekhnologiy-iskusstvennogo-intellekta
     sprache: ru
     urheber: ComNews
-    verifiziert: true
+    verifiziert: false
     notiz: Verfahrensablauf und Fraktionspositionen. Wolodin kündigt an, die Duma werde zentrale Bestimmungen
       bis Jahresende erneut prüfen; 'Gerechtes Russland' verweigerte in dritter Lesung die Stimme.
   - datum: 2026-07-17
@@ -127,7 +127,7 @@ regelwerke:
     url: https://www.rapsinews.ru/legislation_news/20260717/312044167.html
     sprache: ru
     urheber: RAPSI (Russische Agentur für Rechts- und Gerichtsinformation)
-    verifiziert: true
+    verifiziert: false
     notiz: Billigung durch den Föderationsrat; Zusammenfassung der Modellkategorien und Fristen.
   - datum: 2026-07-08
     typ: bericht
@@ -135,7 +135,7 @@ regelwerke:
     url: https://www.lidings.com/media/legalupdates/ai_new/
     sprache: en
     urheber: Lidings (russische Wirtschaftskanzlei)
-    verifiziert: true
+    verifiziert: false
     notiz: Englische Kanzleianalyse; nennt die sechs kumulativen Merkmale des 'großen fundamentalen Modells'.
   - datum: 2026-08-01
     typ: uebersicht
@@ -143,7 +143,7 @@ regelwerke:
     url: https://ppt.ru/obzory/zakon-ob-ii-243-fz
     sprache: ru
     urheber: ppt.ru (Praktisches Rechtsportal)
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierteste erreichbare Darstellung der Artikelstruktur, der Ausnahmen vom Anwendungsbereich
       und der Fristen; nennt die Duma-Vorlagennummer 1271570-8.
   - datum: 2026-08-20
@@ -152,7 +152,7 @@ regelwerke:
     url: https://mypl.pro/audit-ii/zakony/ii-i-avtorskoe-pravo
     sprache: ru
     urheber: MAJPL (Compliance-Beratung)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Auslegung des Art. 10 Abs. 2: entscheidend ist die technische, nicht die vertragliche Zugangsbeschränkung;
       die Schranke steht ausländischen Modellen nicht offen.'
   - datum: 2026-08-14
@@ -161,7 +161,7 @@ regelwerke:
     url: https://www.atlanticcouncil.org/dispatches/russia-wants-to-sell-sovereign-ai-abroad-heres-what-its-really-selling/
     sprache: en
     urheber: Atlantic Council
-    verifiziert: true
+    verifiziert: false
     notiz: Einordnung der Souveränitätskategorien als Exportangebot an Staaten des globalen Südens; weist
       auf den Widerspruch hin, dass 'souveräne' Modelle auf chinesischer Hardware laufen.
   - datum: 2026-08-05
@@ -170,7 +170,7 @@ regelwerke:
     url: https://modeldiplomat.com/story/russias-ai-law-strips-copyright-barriers
     sprache: en
     urheber: Model Diplomat
-    verifiziert: true
+    verifiziert: false
     notiz: Vergleich der Trainingsschranke mit Art. 4 DSM-RL und US-Fair-Use; hebt das fehlende Opt-out
       hervor. Das dort genannte Datum 18.07.2026 ist falsch.
   - datum: 2026-05-20
@@ -179,7 +179,7 @@ regelwerke:
     url: https://www.tomshardware.com/tech-industry/artificial-intelligence/russias-sberbank-wants-chinese-chips-for-its-gigachat-ai
     sprache: en
     urheber: Tom's Hardware
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt die Rechenleistungsengstelle: Umstellung von GigaChat auf chinesische Beschleuniger,
       angekündigt am 20.05.2026 in Peking; inländische Fertigung zielt auf 65 nm bis 2030. Hintergrund
       der Entscheidung, die belastende Regulierung im Juni 2026 zu streichen.'
@@ -266,7 +266,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.interfax.ru/digital/1078702
   themenachsen:
   - gpai
@@ -301,7 +301,7 @@ regelwerke:
     url: https://www.interfax.ru/digital/1078702
     sprache: ru
     urheber: Interfax
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Konsultationsbeginn 18.03.2026, Frist 15.04.2026, Parlamentsanhörung 09.04.2026, geplantes
       Inkrafttreten 01.09.2027.
   - datum: 2026-03-19
@@ -311,7 +311,7 @@ regelwerke:
     url: https://habr.com/ru/news/1012026/
     sprache: ru
     urheber: Habr
-    verifiziert: true
+    verifiziert: false
     notiz: 'Ausführlichste erreichbare Inhaltsdarstellung: Risikoansatz, drei Modellkategorien, Ausnahme
       für Sicherheitsbehörden, Bürgerrechte, Infrastrukturförderung.'
   - datum: 2026-03-18
@@ -320,7 +320,7 @@ regelwerke:
     url: https://www.kommersant.ru/doc/8515349
     sprache: ru
     urheber: Kommersant
-    verifiziert: true
+    verifiziert: false
     notiz: Kennzeichnungspflicht in menschen- und maschinenlesbarer Form; Einordnung als 'weiche' Regulierung
       mit Blick auf den russischen Anteil von rund 2 % am Weltmarkt.
   - datum: 2026-06-22
@@ -329,7 +329,7 @@ regelwerke:
     url: https://www.cnews.ru/news/top/2026-06-22_vlasti_skorrektirovali_zakonoproekt
     sprache: ru
     urheber: CNews
-    verifiziert: true
+    verifiziert: false
     notiz: 'Schlüsseldokument: belegt die Streichung des Verbots ausländischer KI-Systeme, die Übergangsfrist
       bis 2032 und die Umsteuerung von Verboten auf Anreize.'
   - datum: 2026-06-25
@@ -338,7 +338,7 @@ regelwerke:
     url: https://ru.themoscowtimes.com/2026/06/25/riski-zakona-ob-iskusstvennom-intellekte-dlya-obschestva-i-prav-cheloveka-a199216
     sprache: ru
     urheber: The Moscow Times (russische Redaktion, im Exil)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Kritische Gegenperspektive: Ausnahme der Sicherheitsbehörden ermöglicht unkontrollierte Gesichtserkennung
       bei Protesten; der Wertebegriff ist nicht in technische Standards übersetzbar; KI-Dienste unterfallen
       den bestehenden Pflichten für ''Organisatoren der Informationsverbreitung'' mit FSB-Fernzugriff.'
@@ -348,7 +348,7 @@ regelwerke:
     url: https://alrf.ru/news/zakon-ob-ii-2026-kompleksnoe-regulirovanie-ustupilo-mesto-podderzhke-bolshikh-modeley/
     sprache: ru
     urheber: Assoziation der Juristen Russlands (ALRF)
-    verifiziert: true
+    verifiziert: false
     notiz: Berufsständische Einordnung des Wechsels von Regulierung zu Förderung; benennt die verbleibenden
       Grauzonen (Urheberrecht, Datenschutz, Haftung, Arbeitsrecht).
   offene_punkte:
@@ -420,7 +420,7 @@ regelwerke:
     url: https://www.pnp.ru/social/kontent-sozdannyy-fundamentalnymi-modelyami-ii-predlozhili-markirovat.html
     sprache: ru
     urheber: Parlamentskaja Gazeta (amtsnahes Parlamentsblatt)
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt Vorlagennummer 1317978-8, Einbringungsdatum 17.08.2026 und alle vier Initiatoren namentlich.
   - datum: 2026-08-19
     typ: bericht
@@ -428,7 +428,7 @@ regelwerke:
     url: https://www.comnews.ru/content/246954/2026-08-19/2026-w34/1008/gosduma-rf-pometit-kontent
     sprache: ru
     urheber: ComNews
-    verifiziert: true
+    verifiziert: false
     notiz: 'Internationale Einordnung (EU ab 02.08.2026, China ab 01.09.2025, Südkorea Januar 2026, Indien
       Februar 2026) und technische Kritik: sichtbare Wasserzeichen sind trivial entfernbar, Metadaten
       gehen bei Konvertierung verloren.'
@@ -438,7 +438,7 @@ regelwerke:
     url: https://www.klerk.ru/buh/news/704942/
     sprache: ru
     urheber: Klerk.ru
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt das geplante Inkrafttreten 01.03.2027.
   - datum: 2026-08-10
     typ: stellungnahme
@@ -446,7 +446,7 @@ regelwerke:
     url: https://www.sostav.ru/blogs/289407/99420
     sprache: ru
     urheber: Sostav.ru
-    verifiziert: true
+    verifiziert: false
     notiz: Präziseste Analyse des Art. 9 des 243-FZ ('обеспечивается возможность разместить' — Möglichkeit,
       nicht Pflicht) und der faktischen Selbstregulierung durch Plattformen.
   - datum: 2026-09-05
@@ -531,7 +531,7 @@ regelwerke:
     url: https://www.sostav.ru/publication/gosduma-otklonila-zakonoproekt-ob-obyazatelnoj-markirovke-ii-kontenta-84498.html
     sprache: ru
     urheber: Sostav.ru
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt Initiatoren, Inhalt und Gorelkins Ablehnungsbegründung.
   - datum: 2026-06-11
     typ: abstimmung
@@ -539,7 +539,7 @@ regelwerke:
     url: https://adindex.ru/news/right/2026/06/11/345832.phtml
     sprache: ru
     urheber: AdIndex
-    verifiziert: true
+    verifiziert: false
     notiz: Bestätigt Initiatoren und Begründung unabhängig.
   offene_punkte:
   - Die Vorlagennummer konnte ohne Zugriff auf sozd.duma.gov.ru nicht ermittelt werden.
@@ -552,7 +552,7 @@ regelwerke:
   letzte_pruefung: 2026-09-03
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: ''
     fundstelle_norm: Kein Inkrafttreten — die Vorlage wurde am 10.06.2026 im Plenum der Staatsduma abgelehnt
   pruefvermerk:
@@ -602,7 +602,7 @@ regelwerke:
     url: https://www.vedomosti.ru/technology/news/2026/08/12/1220651-nakazaniya-za-dipfeiki
     sprache: ru
     urheber: Vedomosti
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt Vorlagennummer 1288702-8, Einbringungsdatum und die Anknüpfung an Art. 63 StGB.
   - datum: 2026-08-13
     typ: bericht
@@ -610,7 +610,7 @@ regelwerke:
     url: https://www.garant.ru/news/2168210/
     sprache: ru
     urheber: GARANT.RU
-    verifiziert: true
+    verifiziert: false
     notiz: Enthält die im Entwurf vorgeschlagene Legaldefinition des Deepfake.
   - datum: 2026-09-05
     typ: uebersicht
@@ -691,7 +691,7 @@ regelwerke:
     url: https://www.consultant.ru/law/hotdocs/86379.html
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Vorlagennummer 718834-8, Einbringungsdatum und den Wortlaut des geplanten Art. 152.3.
       Kommerzielle Rechtsdatenbank, keine amtliche Quelle.
   - datum: 2024-10-25
@@ -709,7 +709,7 @@ regelwerke:
     url: https://mosdigitals.ru/blog/krazha-golosa-i-ai-klonirovanie-pravovaya-zashhita-diktorov-ot-sinteza-rechi
     sprache: ru
     urheber: Moscow Digital School
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt die Regierungsablehnung Januar 2025 und ordnet die drei bestehenden Schutzwege (Art.
       152 ZGB analog, Art. 1315 ZGB, 152-FZ) mit ihren Kompensationsniveaus ein.
   - datum: 2026-09-05
@@ -773,7 +773,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2021-01-28
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.consultant.ru/document/cons_doc_LAW_358738/645f22663963429826dc79a35c6014d067325527/
     fundstelle_norm: 'Статья 20 des 258-FZ: ''Настоящий Федеральный закон вступает в силу по истечении
       ста восьмидесяти дней после дня его официального опубликования.'' Amtliche Veroeffentlichung am
@@ -806,7 +806,7 @@ regelwerke:
     url: https://rapsinews.ru/digital_law_news/20260617/311935920.html
     sprache: ru
     urheber: RAPSI
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle der Bestandszahlen (19 Regime, 225 Teilnehmer, 150.000 betroffene Bürger) und der Novellierungsinhalte.
   - datum: 2020-07-31
     typ: endfassung
@@ -884,14 +884,14 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-06-26
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.consultant.ru/document/cons_doc_LAW_537892/
   anwendungsdaten:
   - datum: 2026-06-26
     was_gilt: Wegfall der Voraussetzung einer Regulierungsbarriere; Höchstlaufzeit fünf statt drei Jahre;
       Ausstiegsrecht der Teilnehmer; Möglichkeit, Teilnehmerpflichten zu begründen, die das allgemeine
       Recht nicht kennt
-    verifiziert: true
+    verifiziert: false
     quelle: https://rapsinews.ru/digital_law_news/20260617/311935920.html
   themenachsen:
   - governance
@@ -911,7 +911,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_537892/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Titel, Datum und Verfahrensdaten (Duma 10.06.2026, Föderationsrat 17.06.2026). Kommerzielle
       Rechtsdatenbank, keine amtliche Quelle.
   - datum: 2026-06-10
@@ -920,7 +920,7 @@ regelwerke:
     url: https://www.interfax.ru/russia/1095191
     sprache: ru
     urheber: Interfax
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt die Vorlagennummer 1158700-8 und die drei Änderungspunkte.
   - datum: 2026-06-17
     typ: bericht
@@ -928,7 +928,7 @@ regelwerke:
     url: https://rapsinews.ru/digital_law_news/20260617/311935920.html
     sprache: ru
     urheber: RAPSI
-    verifiziert: true
+    verifiziert: false
     notiz: Zitiert die weggefallene Tatbestandsvoraussetzung im Wortlaut.
   - datum: 2026-06-26
     typ: endfassung
@@ -992,7 +992,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2020-07-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.consultant.ru/document/cons_doc_LAW_351127/
   anwendungsdaten:
   - datum: 2025-07-01
@@ -1021,7 +1021,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_351127/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
       Artikelüberschriften einschließlich der Art. 6.1 und 6.2 zur Bildung regionaler Datenbestände aus
       anonymisierten personenbezogenen Daten.
@@ -1031,7 +1031,7 @@ regelwerke:
     url: https://normativ.kontur.ru/document?moduleId=1&documentId=501357
     sprache: ru
     urheber: Kontur.Normativ
-    verifiziert: true
+    verifiziert: false
     notiz: Geltende Fassung nach der Novelle 233-FZ; Grundlage für die Angaben zu Art. 6.1/6.2 und zur
       biometrischen Vorankündigung. Kommerzielle Rechtsdatenbank, keine amtliche Quelle.
   - datum: 2020-04-24
@@ -1040,7 +1040,7 @@ regelwerke:
     url: https://base.garant.ru/73945195/
     sprache: ru
     urheber: GARANT
-    verifiziert: true
+    verifiziert: false
     notiz: Zweite Datenbank zur Gegenprobe; weist die Novelle 233-FZ mit Wirkung 01.01.2025 aus. Kommerzielle
       Rechtsdatenbank, keine amtliche Quelle.
   - datum: 2020-04-24
@@ -1120,7 +1120,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-08-08
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/475798-federalnyy-zakon-ot-08-08-2024-n-233-fz
     fundstelle_norm: 'Статья 3 часть 1 des 233-FZ: ''Настоящий Федеральный закон вступает в силу со дня
       его официального опубликования, за исключением положений, для которых настоящей статьей установлен
@@ -1132,7 +1132,7 @@ regelwerke:
     was_gilt: 'Nr. 1-3 und 5 des Art. 1 (Aenderungen des 152-FZ: Anonymisierungsanordnung, Uebermittlung
       an die Einheitliche Informationsplattform) sowie Art. 2 (Aenderung des Moskauer KI-Experimentiergesetzes
       123-FZ) — die praktisch wichtigsten Pflichten; Art. 3 Abs. 2 des 233-FZ'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/475798-federalnyy-zakon-ot-08-08-2024-n-233-fz
   themenachsen:
   - datenschutz
@@ -1161,7 +1161,7 @@ regelwerke:
     url: https://www.anti-malware.ru/analytics/Technology_Analysis/Depersonalization-of-personal-data-in-Russia-2025
     sprache: ru
     urheber: Anti-Malware.ru
-    verifiziert: true
+    verifiziert: false
     notiz: 'Detaillierteste erreichbare Darstellung: Adressaten, ЕИП НСУД, die vier Verfahren, organisatorische
       Pflichten, Sanktionsnorm.'
   - datum: 2024-08-08
@@ -1171,8 +1171,8 @@ regelwerke:
     sprache: ru
     urheber: GARANT
     verifiziert: false
-    notiz: Volltext in der Rechtsdatenbank; Abruf lief in dieser Sitzung in einen Timeout. Kommerzielle
-      Rechtsdatenbank, keine amtliche Quelle.
+    notiz: Volltext in der Rechtsdatenbank; Abruf lief in einen Timeout. Kommerzielle Rechtsdatenbank, keine
+      amtliche Quelle.
   offene_punkte:
   - Ob und in welchem Umfang die ЕИП НСУД tatsächlich für das Training der 'souveränen' Modelle geöffnet
     wurde, ist nicht belegt. Art. 6 des 243-FZ verspricht Entwicklern Zugang zu staatlichen Daten, benennt
@@ -1231,7 +1231,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2007-01-26
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.zakonrf.info/zakon-o-personalnyh-dannyh/25/
     fundstelle_norm: 'Статья 25 часть 1 des 152-FZ: Inkrafttreten ''по истечении ста восьмидесяти дней
       после дня его официального опубликования''. Amtliche Veroeffentlichung ''Российская газета'' N 165
@@ -1275,7 +1275,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_61801/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
       Artikelüberschriften, insbesondere Art. 11 (biometrische Daten), Art. 12 (grenzüberschreitende Übermittlung)
       und Art. 16 (Rechte bei ausschließlich automatisierter Verarbeitung).
@@ -1338,7 +1338,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2015-09-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/235427-federalnyy-zakon-ot-21-07-2014-n-242-fz
     fundstelle_norm: 'Статья 4 des 242-FZ in der Fassung des 526-FZ vom 31.12.2014 — Inkrafttreten 01.09.2015.
       Kontur.Normativ: ''Дата вступления в силу 01.09.2015 ... Данный документ вступил в силу с 01.09.2015
@@ -1440,7 +1440,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-07-26
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/507345-federalnyy-zakon-ot-26-07-2026-n-265-fz
     fundstelle_norm: 'Часть 1 статьи 7 des 265-FZ: Inkrafttreten ''со дня его официального опубликования'',
       ausgenommen Статья 2. Amtliche Veroeffentlichung publication.pravo.gov.ru am 26.07.2026. Часть 2
@@ -1462,7 +1462,7 @@ regelwerke:
     url: https://www.pnp.ru/social/rossiya-uzhestochaet-pravila-transgranichnoy-peredachi-personalnykh-dannykh.html
     sprache: ru
     urheber: Parlamentskaja Gazeta
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Billigungsdatum, den Wegfall des ETS-108-Kriteriums, die Zahl von 89 gelisteten Staaten
       und das Genehmigungsverfahren.
   - datum: 2026-08-03
@@ -1516,7 +1516,7 @@ regelwerke:
   - datum: 2027-09-01
     was_gilt: Статья 2 des 265-FZ (Aenderung des Gesetzes der RF vom 15.04.1993 N 4802-1 ueber den Status
       der Hauptstadt — Informationssysteme der Moskauer Behoerden); часть 2 статьи 7
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/507345-federalnyy-zakon-ot-26-07-2026-n-265-fz
   pruefvermerk:
   - 'DATUM KORRIGIERT. Eingetragen war 01.09.2026. Das Gesetz gilt seit dem Tag der amtlichen Veroeffentlichung,
@@ -1554,7 +1554,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-12-11
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/483291-federalnyy-zakon-ot-30-11-2024-n-421-fz
     fundstelle_norm: '421-FZ (Strafbarkeit, neuer Art. 272.1 StGB RF): kein eigener Inkrafttretensartikel,
       daher greift Art. 6 des Foederationsgesetzes vom 14.06.1994 N 5-FZ — zehn Tage nach amtlicher Veroeffentlichung.
@@ -1626,7 +1626,7 @@ regelwerke:
     was_gilt: '420-FZ (Umsatzbussgelder, Aenderung des Art. 13.11 KoAP RF) — Статья 2 des 420-FZ: ''вступает
       в силу по истечении ста восьмидесяти дней после дня его официального опубликования''; Veroeffentlichung
       30.11.2024, Inkrafttreten 30.05.2025'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/483414-federalnyy-zakon-ot-30-11-2024-n-420-fz
   pruefvermerk:
   - 'DATUM KORRIGIERT/AUFGETEILT. Der Eintrag fasst zwei Gesetze zusammen, die an VERSCHIEDENEN Tagen
@@ -1670,7 +1670,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2023-06-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/494836-federalnyy-zakon-ot-29-12-2022-n-572-fz
     fundstelle_norm: 'Статья 27 des 572-FZ (gestaffeltes Inkrafttreten). Hauptteil am 01.06.2023 — Kontur.Normativ
       weist saemtliche Aenderungen anderer Gesetze durch dieses Gesetz mit ''(с 01.06.2023)'' aus; Пункт
@@ -1703,7 +1703,7 @@ regelwerke:
     url: https://www.credos.ru/articles-info/572-fz-biometriya/
     sprache: ru
     urheber: Credos
-    verifiziert: true
+    verifiziert: false
     notiz: Praxisdarstellung; Grundlage für Sanktionshöhen und Anwendungsbereich.
   offene_punkte:
   - 'Verhältnis zu den Ausnahmen des Art. 11 152-FZ für Strafverfolgung und Sicherheit: Das Moskauer Kamerasystem
@@ -1731,7 +1731,7 @@ regelwerke:
   - datum: 2027-01-01
     was_gilt: Art. 5 Teile 5-7, Nr. 1-3 und 9 des Teils 8, Teile 9-12 und 15-17 — die noch ausstehende
       letzte Stufe der Pflichten akkreditierter privater biometrischer Systeme; Пункт 4 статьи 27
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/494836-federalnyy-zakon-ot-29-12-2022-n-572-fz
   pruefvermerk:
   - Bestaetigt. Der 29.12.2022 ist Unterzeichnung und Veroeffentlichung, nicht Inkrafttreten. Das eingetragene
@@ -1789,7 +1789,7 @@ regelwerke:
     url: https://vc.ru/legal/2136959-sud-priznal-zakonnost-kamer-s-raspoznavaniem-lits-v-metro
     sprache: ru
     urheber: vc.ru
-    verifiziert: true
+    verifiziert: false
     notiz: Referiert das Verfahren 33а-0710/2025 des Moskauer Stadtgerichts und die drei tragenden Begründungsstränge.
   - datum: 2019-11-06
     typ: bericht
@@ -1797,7 +1797,7 @@ regelwerke:
     url: https://roskomsvoboda.org/51831/
     sprache: ru
     urheber: RosKomSvoboda
-    verifiziert: true
+    verifiziert: false
     notiz: Erstes Verfahren (Popowa, Sawjolowski-Bezirksgericht); dokumentiert die 32-fache Vergrößerung
       des Gesichts in der Aufzeichnung und die Beweislastproblematik.
   - datum: 2022-05-01
@@ -1806,7 +1806,7 @@ regelwerke:
     url: https://roskomsvoboda.org/ru/post/mgs-raspoznavanie-nov-rassm/
     sprache: ru
     urheber: RosKomSvoboda
-    verifiziert: true
+    verifiziert: false
     notiz: Dokumentiert den Datenhandel aus dem System und die geringen Sanktionen; Grundlage der Moratoriumsforderung.
   offene_punkte:
   - Eine gesetzliche Grundlage für die Gesichtserkennung im öffentlichen Raum als solche fehlt. Weder
@@ -1835,7 +1835,7 @@ regelwerke:
   letzte_pruefung: 2026-09-03
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/507366-federalnyy-zakon-ot-27-07-2006-n-152-fz
     fundstelle_norm: Kein eigenes Regelwerk und damit kein eigenes Inkrafttreten. Die Praxis stuetzt sich
       auf Art. 11 Abs. 2 des 152-FZ (in Kraft seit 26.01.2007), auf das 123-FZ (in Kraft seit 01.07.2020)
@@ -1870,7 +1870,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2006-08-09
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/501188-federalnyy-zakon-ot-27-07-2006-n-149-fz
     fundstelle_norm: Статья 19 des 149-FZ (Вступление в силу) — zehn Tage nach der amtlichen Veroeffentlichung;
       Veroeffentlichung 'Российская газета' N 165 vom 29.07.2006 (SZ RF 31.07.2006 N 31 Teil 1 Art. 3448).
@@ -1915,7 +1915,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_61798/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
       Artikelüberschriften der geltenden Fassung, darunter Art. 10.2-2 zu den Empfehlungstechnologien,
       und die letzte Änderung durch das Föderationsgesetz vom 26.06.2026 Nr. 210-FZ.
@@ -1972,7 +1972,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2019-11-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/334782-federalnyy-zakon-ot-01-05-2019-n-90-fz
     fundstelle_norm: 'Статья 3 пункт 1 des 90-FZ: ''Настоящий Федеральный закон вступает в силу с 1 ноября
       2019 года, за исключением подпункта "б" пункта 3 статьи 2 настоящего Федерального закона.'' Amtliche
@@ -2033,7 +2033,7 @@ regelwerke:
     was_gilt: Art. 2 Nr. 3 Buchst. b (neuer Teil 2.3 des Art. 13 des 149-FZ — Pflicht zur Verwendung nationaler
       Kryptostandards); Статья 3 пункт 2. Ausserdem gelten nach Статья 3 пункт 3 die Vorschriften des
       Art. 56.2 Abs. 8 Nr. 3 des 126-FZ zur Nutzung des nationalen Domainnamensystems ab dem 01.01.2021
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/334782-federalnyy-zakon-ot-01-05-2019-n-90-fz
   pruefvermerk:
   - 'Bestaetigt am Volltext des Art. 3. Der 01.05.2019 ist Unterzeichnung und Veroeffentlichung. Hinweis:
@@ -2069,7 +2069,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-06-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
     fundstelle_norm: 'Пункт 1 статьи 16 des 41-FZ: Inkrafttreten am 01.06.2025, ausgenommen die Vorschriften,
       fuer die andere Fristen bestimmt sind. Amtliche Veroeffentlichung pravo.gov.ru am 01.04.2025'
@@ -2124,23 +2124,23 @@ regelwerke:
   anwendungsdaten:
   - datum: 2025-08-01
     was_gilt: Art. 9 Nr. 2; Пункт 2 статьи 16
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
   - datum: 2025-09-01
     was_gilt: Art. 2 Nr. 1-3, Nr. 4 Buchst. a und g-o, Nr. 5; Art. 3 Nr. 2; Art. 4-6; Art. 9 Nr. 1, 3,
       4, Nr. 5 Buchst. a und b, Nr. 6 und 7; Art. 13 und 14 — darunter die Aenderungen des Verbraucherschutzgesetzes
       und des Gesetzes ueber operative Ermittlungstaetigkeit; Пункт 3 статьи 16
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
   - datum: 2026-01-01
     was_gilt: Art. 11 Nr. 1 Buchst. a (Aenderung des 149-FZ); Пункт 4 статьи 16
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
   - datum: 2026-03-01
     was_gilt: Art. 1, Art. 2 Nr. 4 Buchst. v, Art. 3 Nr. 1, Art. 7, Art. 8 Nr. 1, Art. 9 Nr. 5 Buchst.
       g, Art. 10 Nr. 2, Art. 11 Nr. 1 Buchst. v und Nr. 2-4, Art. 12, Art. 15 Teil 2 — darunter die Errichtung
       des staatlichen Informationssystems selbst; Пункт 5 статьи 16
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/492083-federalnyy-zakon-ot-01-04-2025-n-41-fz
   pruefvermerk:
   - Bestaetigt. Das eingetragene Datum ist die erste Stufe; das Gesetz ist fuenffach gestaffelt (01.06.2025,
@@ -2175,7 +2175,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2008-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/451296-federalnyy-zakon-ot-18-12-2006-n-231-fz
     fundstelle_norm: 'Статья 1 des Einfuehrungsgesetzes (Foederationsgesetz vom 18.12.2006 N 231-FZ):
       ''Ввести в действие часть четвертую Гражданского кодекса Российской Федерации (далее - часть четвертая
@@ -2225,7 +2225,7 @@ regelwerke:
     url: https://www.garant.ru/article/2025112/
     sprache: ru
     urheber: GARANT.RU
-    verifiziert: true
+    verifiziert: false
     notiz: Ordnet Art. 1260 und Art. 152.1 ZGB im Deepfake-Kontext ein und verweist auf das Verfahren
       A40-200471/2023.
   - datum: 1994-11-30
@@ -2234,7 +2234,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_5142/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Kommerzielle Rechtsdatenbank, keine amtliche Quelle. Am 05.09.2026 abgerufen; belegt die amtlichen
       Überschriften der Art. 150, 151, 152, 152.1 (Охрана изображения гражданина) und 152.2 des ersten
       Teils, auf die dieses Regelwerk für den Persönlichkeitsschutz verweist.
@@ -2298,7 +2298,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2019-10-10
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.consultant.ru/document/cons_doc_LAW_335184/
   anwendungsdaten:
   - datum: 2024-02-15
@@ -2325,7 +2325,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_335184/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: Konsolidierte Fassung mit vollständiger Gliederung der Strategie. Kommerzielle Rechtsdatenbank,
       keine amtliche Quelle.
   - datum: 2024-02-15
@@ -2396,7 +2396,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-02-26
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.cnews.ru/news/top/2026-02-27_razvitiem_iskusstvennogo
   themenachsen:
   - governance
@@ -2423,7 +2423,7 @@ regelwerke:
     url: https://www.cnews.ru/news/top/2026-02-27_razvitiem_iskusstvennogo
     sprache: ru
     urheber: CNews
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Zusammensetzung, Ko-Vorsitz, Aufgaben und Sitzungsfrequenz.
   offene_punkte:
   - Protokolle und Beschlüsse der Kommission werden nicht veröffentlicht.
@@ -2526,7 +2526,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2021-10-26
-    verifiziert: true
+    verifiziert: false
     quelle: https://rg.ru/2021/10/26/v-rossii-podpisan-kodeks-etiki-iskusstvennogo-intellekta.html
     fundstelle_norm: 'Keine Inkrafttretensvorschrift — freiwilliger Verhaltenskodex ohne Rechtsnormqualitaet.
       Massgeblich ist die Unterzeichnung auf dem I. Internationalen Forum ''Этика искусственного интеллекта:
@@ -2551,7 +2551,7 @@ regelwerke:
     sprache: ru
     urheber: Allianz im Bereich der künstlichen Intelligenz
     verifiziert: false
-    notiz: Primärquelle des Kodex; a-ai.ru antwortete in dieser Sitzung mit HTTP 403.
+    notiz: Primärquelle des Kodex; A-ai.ru antwortete mit HTTP 403.
   - datum: 2025-06-06
     typ: bericht
     titel: 'Кодекс этики в сфере ИИ расширил международное признание: 33 организации из 22 стран присоединились
@@ -2559,7 +2559,7 @@ regelwerke:
     url: https://www.comnews.ru/content/239607/2025-06-06/2025-w23/1010/kodeks-etiki-sfere-ii-rasshiril-mezhdunarodnoe-priznanie-33-organizacii-22-stran-prisoedinilis-k-rossiyskoy-iniciative
     sprache: ru
     urheber: ComNews
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt die Zahl von über 900 Unterzeichnern, über 80 ausländischen, die 22 Beitrittsstaaten
       und die Rolle Nesnamows.
   - datum: 2024-09-27
@@ -2577,7 +2577,7 @@ regelwerke:
     url: https://www.consultant.ru/document/cons_doc_LAW_470682/
     sprache: ru
     urheber: KonsultantPljus
-    verifiziert: true
+    verifiziert: false
     notiz: 'Die Aufnahme eines privaten Verhaltenskodex in die amtsnahe Rechtsdatenbank ist selbst ein
       Befund: Der Kodex wird als quasi-normativer Bestand geführt. Kommerzielle Rechtsdatenbank, keine
       amtliche Quelle.'
@@ -2637,7 +2637,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://habr.com/ru/articles/1064494/
   themenachsen:
   - governance
@@ -2660,7 +2660,7 @@ regelwerke:
     url: https://habr.com/ru/articles/1064494/
     sprache: ru
     urheber: Habr (Fachbeitrag)
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierte Aufschlüsselung der fünf Kernnormen mit ISO-Bezug, Genehmigungsdatum 28.10.2024
       und Inkrafttreten 01.01.2025; erläutert den Mechanismus der faktischen Verbindlichkeit.
   - datum: 2026-01-01
@@ -2733,7 +2733,7 @@ regelwerke:
     url: https://safe.cnews.ru/news/top/2026-08-06_sberbankavitovk_i_yandeks
     sprache: ru
     urheber: CNews
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt Datum, Adressat, beteiligte Unternehmen und die drei Vorschlagselemente.
   offene_punkte:
   - Reaktion des Ministeriums, der Aufsichtsbehörde und des Gesetzgebers nicht dokumentiert.
@@ -2756,7 +2756,7 @@ regelwerke:
   letzte_pruefung: 2026-09-03
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: ''
     fundstelle_norm: Kein Inkrafttreten — Schreiben eines Verbandes an ein Ministerium vom 03.08.2026,
       kein Gesetzentwurf, keine Vorlagennummer
@@ -2807,7 +2807,7 @@ regelwerke:
     url: https://expert.ru/analitika/iskusstvennyi-intellekt/kak-rossiya-budet-regulirovat-ii-v-zdravookhranenii
     sprache: ru
     urheber: Expert
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt die Registrierungspflicht, den Bestand von über 53 Lösungen, das dreistufige Verfahren
       und die Bezugnahme auf GOST R 71476-2024.
   - datum: 2026-07-30
@@ -2816,7 +2816,7 @@ regelwerke:
     url: https://gxpnews.net/en/2026/07/new-russian-law-aims-to-boost-domestic-ai-models-in-healthcare-and-government/
     sprache: en
     urheber: GxP News
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt, dass die sektorspezifische Regulierung des Gesundheitswesens im 243-FZ vertagt und
       die Kategorie 'vertrauenswürdig' gestrichen wurde.
   offene_punkte:
@@ -2840,7 +2840,7 @@ regelwerke:
   letzte_pruefung: 2026-09-03
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.kontur-extern.ru/info/normativ/document/1/507366-federalnyy-zakon-ot-27-07-2006-n-152-fz
     fundstelle_norm: Kein eigenes Regelwerk und damit kein eigenes Inkrafttreten. Der Eintrag beschreibt
       die Registrierungspraxis von Roszdravnadzor auf der Grundlage des Art. 38 des Foederationsgesetzes

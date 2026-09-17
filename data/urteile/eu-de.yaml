@@ -66,7 +66,6 @@ urteile:
     wurde die amtliche EUR-Lex-Fassung als volltext_url gewählt.'
   - '05.09.2026: Nicht geändert — instanz steht auf ''berufung''. Es handelt sich um ein Vorabentscheidungsverfahren;
     die Taxonomie kennt dafür keinen eigenen Wert.'
-  quelle_art: amtlich
   sachverhalt: Die SCHUFA Holding AG versorgt ihre Vertragspartner mit Informationen über die Kreditwürdigkeit
     Dritter; dazu errechnet sie mit mathematisch-statistischen Verfahren für eine Person die Wahrscheinlichkeit
     eines künftigen Verhaltens, etwa der Rückzahlung eines Kredits. Nachdem die SCHUFA eine negative Auskunft
@@ -136,7 +135,6 @@ urteile:
   normen:
   - dsgvo-art-15-abs-1-lit-h
   - dsgvo-art-22
-  quelle_art: amtlich
   sachverhalt: Einer Kundin, im Verfahren CK genannt, verweigerte ein österreichischer Mobilfunkbetreiber
     Abschluss und Verlängerung eines Mobilfunkvertrags über zehn Euro im Monat, weil eine von der Dun
     & Bradstreet Austria GmbH automatisiert durchgeführte Bonitätsbeurteilung ihr keine ausreichende finanzielle
@@ -239,7 +237,6 @@ urteile:
     — ob er dabei die Schlussanträge kennt, ist offen.'
   - '07.09.2026: Der Eintrag schreibt im Ergebnis ''Budapest Koernyeke Toervenyszek'', der eigene Pruefvermerk
     und EUR-Lex dagegen ''Budapest Koernyeki Toervenyszek''. Die EUR-Lex-Schreibung ist massgeblich.'
-  quelle_art: amtlich
   sachverhalt: Die Google Ireland Limited betreibt einen auf einem großen Sprachmodell beruhenden Chatbot.
     Die ungarische Like Company, die sich auf das Leistungsschutzrecht der Presseverleger beruft, beanstandete,
     dass der Chatbot in seinen Antworten Text sichtbar macht, der mit dem Inhalt von Websites von Presseverlagen
@@ -301,7 +298,6 @@ urteile:
     '
   normen:
   - ki-vo-art-86-abs-1
-  quelle_art: amtlich
 - id: eu-2026-xai-holdings-kommission
   jurisdiktion: eu
   gericht: Gericht der Europäischen Union (EuG)
@@ -343,7 +339,6 @@ urteile:
     '
   pruefvermerk:
   - 'Verweis auf ki-vo-2024-1689 am 2026-09-03 entfernt: im Eintrag nicht belegt.'
-  quelle_art: amtlich
 - id: de-2024-laion-lg
   jurisdiktion: de
   gericht: Landgericht Hamburg, 310. Zivilkammer
@@ -381,7 +376,7 @@ urteile:
   - de-2026-laion-bgh
   quelle_tracker: dejure.org (Entscheidungsnachweis, NJW 2024, 3383; GRUR 2024, 1710; MMR 2024, 973; K&R
     2024, 758); amtliche Bestätigung der Eckdaten im BGH-Terminhinweis zu I ZR 281/25
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Das erste Urteil eines europäischen Gerichts zur TDM-Schranke beim KI-Training. Sein
     obiter dictum zur natürlichen Sprache hat die gesamte Opt-out-Praxis der Verlage geprägt — und ist
@@ -413,7 +408,6 @@ urteile:
     310. Zivilkammer, Urteil vom 27.09.2024 – 310 O 227/23 aus, Gegenstand Zulässigkeit von Vervielfältigungen
     durch Forschungsorganisationen zum KI-Training, Normen §§ 44a, 44b, 60d UrhG, Verfahrensgang OLG Hamburg
     5 U 104/24 und BGH I ZR 281/25. Der Eintrag stimmt.'
-  quelle_art: datenbank
 - id: de-2025-laion-olg
   jurisdiktion: de
   gericht: Hanseatisches Oberlandesgericht Hamburg, 5. Zivilsenat
@@ -459,7 +453,7 @@ urteile:
   - de-2026-laion-bgh
   quelle_tracker: dejure.org (Entscheidungsnachweis, GRUR 2026, 398); amtliche Bestätigung der Eckdaten
     im BGH-Terminhinweis zu I ZR 281/25
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Der wichtigste Satz steht nicht bei § 44b, sondern bei § 60d UrhG. Wenn die kommerzielle
     Weiterentwicklung von KI-Modellen durch Unternehmen als angewandte Forschung gilt und die Weitergabe
@@ -492,7 +486,6 @@ urteile:
   - '05.09.2026: Datenbankfundstelle am Dokument geprüft. Der dejure-Entscheidungsnachweis weist OLG Hamburg,
     5. Zivilsenat, Urteil vom 10.12.2025 – 5 U 104/24, GRUR 2026, 398 aus, Vorinstanz LG Hamburg 310 O
     227/23, Revision beim BGH unter I ZR 281/25 anhängig. Der Status ''rechtsmittel'' ist damit richtig.'
-  quelle_art: datenbank
 - id: de-2026-laion-bgh
   jurisdiktion: de
   gericht: Bundesgerichtshof, I. Zivilsenat
@@ -577,7 +570,6 @@ urteile:
     I ZR 281/25 (Erstellen eines Datensatzes für KI-Training) (Verhandlung: 3.9.2026)", Akkreditierungsschluss
     16.12.2026, 10:00 Uhr. Die Seite enthält keinen Hinweis auf eine Vorlage an den EuGH und keine Angabe
     zum Verlauf der Verhandlung. Unverändert; kein Entscheidungsdatum, solange nicht verkündet ist.'
-  quelle_art: amtlich
   sachverhalt: Der Fotograf Robert Kneschke stellte fest, dass der gemeinnützige Verein LAION e.V. ein
     Vorschaubild von der Website einer Fotoagentur heruntergeladen hatte, um maschinell zu prüfen, ob
     Bild und Bildbeschreibung übereinstimmen. Die Nutzungsbedingungen dieser Website untersagten den Zugriff
@@ -650,7 +642,6 @@ urteile:
   - urhg-44b-abs-2
   - urhg-44b-abs-3
   - urhg-97
-  quelle_art: amtlich
   sachverhalt: Nach dem Vortrag der GEMA gab der Chatbot ChatGPT auf einfache Anfragen hin die Texte bekannter
     deutscher Lieder in weiten Teilen originalgetreu aus — darunter „Atemlos" von Kristina Bach und „Wie
     schön, dass du geboren bist" von Rolf Zuckowski; in anderen Fällen gab er veränderte Fassungen aus
@@ -698,7 +689,7 @@ urteile:
   - de-2026-laion-bgh
   - eu-2025-like-company-google
   quelle_tracker: Initiative Urheberrecht; dejure.org
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Das ist der Instanzenzug, in dem die deutsche TDM-Divergenz tatsächlich aufeinandertrifft
     — der BGH bekommt in I ZR 281/25 nur den Hamburger Strang. Für die Mandatspraxis heißt das: Der Münchner
@@ -727,7 +718,6 @@ urteile:
     nichts zum 6. Zivilsenat, zu GEMA, OpenAI oder Urheberrecht. Das OLG München unterhält keine öffentliche
     Terminübersicht mit Aktenzeichen. Ein Verhandlungs- oder Verkündungstermin in 6 U 3662/25 e ist damit
     auch am 07.09.2026 nicht veröffentlicht; eine Entscheidung ist nicht ergangen.'
-  quelle_art: datenbank
 - id: de-2026-gema-suno-lg
   jurisdiktion: de
   gericht: Landgericht München I, 42. Zivilkammer
@@ -787,7 +777,6 @@ urteile:
   - urhg-44b
   - urhg-95a
   - urhg-97
-  quelle_art: amtlich
   sachverhalt: Die GEMA stellte fest, dass der Musikdienst Suno auf einfache Eingaben hin Tonaufnahmen
     ausgab, in denen Melodie, Harmonie und Rhythmus geschützter Kompositionen ihres Repertoires wiederzuerkennen
     waren — darunter „Forever Young", „Atemlos durch die Nacht", „Mambo No. 5", „Cheri Cheri Lady" und
@@ -830,7 +819,7 @@ urteile:
   - de-2025-lg-frankfurt-ki-liedtext
   quelle_tracker: BAYERN.RECHT / gesetze-bayern.de (amtliche Rechtsprechungsdatenbank des Freistaats Bayern);
     dejure.org als Sekundärnachweis
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Amtsgerichtliche Entscheidung mit überraschender Zitierkarriere — sie wird in den
     GRUR-Reihen geführt und von obergerichtlichen Entscheidungen aufgegriffen. Praktisch bedeutet sie:
@@ -853,7 +842,6 @@ urteile:
     hinreichend identifizierbaren menschlichen schöpferischen Einfluss; die im Prompting eingeflossenen
     kreativen Elemente müssen den Output prägen. Eine ECLI weist das Dokument nicht aus, das Feld bleibt
     deshalb leer.'
-  quelle_art: fehlt
 - id: de-2026-olg-duesseldorf-ki-bild
   jurisdiktion: de
   gericht: Oberlandesgericht Düsseldorf, 20. Zivilsenat
@@ -918,7 +906,6 @@ urteile:
     Beschwerde wurde zurückgewiesen. Vorinstanz und Verfahrensart waren bisher nicht erfasst.'
   - '05.09.2026: Nicht geändert — instanz steht auf ''berufung''. Für ein Beschwerdeverfahren gibt die
     Taxonomie keinen eigenen Wert her; ''berufung'' bleibt der nächstliegende Wert.'
-  quelle_art: amtlich
 - id: de-2025-lg-frankfurt-ki-liedtext
   jurisdiktion: de
   gericht: Landgericht Frankfurt am Main, 6. Zivilkammer
@@ -954,7 +941,7 @@ urteile:
   - de-2026-olg-duesseldorf-ki-bild
   quelle_tracker: Bürgerservice Hessenrecht / rv.hessenrecht.hessen.de (amtliche Rechtsprechungsdatenbank
     des Landes Hessen), Dokument LARE260000287; dejure.org (GRUR 2026, 992) als Sekundärnachweis
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die Gegenprobe zu Düsseldorf und München: Hybride Werke bleiben schutzfähig, und
     die Darlegungslast ist im Eilverfahren handhabbar. Damit zeichnet sich eine konsistente deutsche Linie
@@ -977,7 +964,6 @@ urteile:
     und lareda.hessenrecht.hessen.de sind aus dieser Umgebung per robots.txt gesperrt. Geprüft ist damit
     der amtliche Nachweis, nicht der amtliche Volltext; Ergebnis und Begründung des Eintrags stammen weiterhin
     aus der früheren Prüfung an der Datenbankfundstelle.'
-  quelle_art: fehlt
 - id: de-2026-bgh-schufa-auskunft
   jurisdiktion: de
   gericht: Bundesgerichtshof, I. Zivilsenat
@@ -1061,7 +1047,6 @@ urteile:
     052/2026; die Uebersicht ist unter terminuebersicht_url als Beleg fuer den Verkuendungstermin 21.10.2026
     gefuehrt und vor dem 21.10.2026 zu sichern.'
   terminuebersicht_url: https://www.bundesgerichtshof.de/DE/Presse/Terminhinweise/TerminhinweiseVolltextuebersicht/terminhinweise_volltextuebersicht_node.html
-  quelle_art: amtlich
   sachverhalt: 'Die SCHUFA Holding AG betreibt ein Bonitätsinformationssystem: Aus den über eine Person
     gespeicherten Wirtschaftsdaten errechnet sie mit einem mathematisch-statistischen Verfahren Wahrscheinlichkeitswerte
     (Scorewerte), die ihren Kunden — vor allem Kreditgebern — eine Einschätzung des zu erwartenden Zahlungsverhaltens
@@ -1117,7 +1102,7 @@ urteile:
   - de-2026-olg-stuttgart-scoring
   quelle_tracker: dejure.org (Entscheidungsnachweis; Vorinstanz LG Leipzig, 29.05.2024 – 7 O 2658/23;
     Revisionsverfahren beim BGH)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Der Dresdner Senat hat als einziges Oberlandesgericht die kontrafaktische Logik aus
     C-203/22 ernst genommen: Ohne Kenntnis der Gewichtung kann der Betroffene nicht nachvollziehen, wie
@@ -1143,7 +1128,6 @@ urteile:
     – 7 O 2658/23, und ein Revisionsverfahren beim BGH ist anhängig (dort als I ZR 226/25 geführt). Das
     Aktenzeichen des Revisionsverfahrens ist nur an der Datenbankfundstelle belegt und deshalb nicht in
     die Felder übernommen. Der Status ''rechtsmittel'' ist bestätigt.'
-  quelle_art: datenbank
 - id: de-2026-olg-stuttgart-scoring
   jurisdiktion: de
   gericht: Oberlandesgericht Stuttgart, 9. Zivilsenat
@@ -1182,7 +1166,7 @@ urteile:
   - de-2025-olg-dresden-scoring
   - de-2026-bgh-schufa-auskunft
   quelle_tracker: dejure.org (Entscheidungsnachweis; Vorinstanz LG Heilbronn – 3 O 11/25)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die Gegenposition zu Dresden, und die vom BGH voraussichtlich bestätigte. Der argumentative
     Kern ist ein Slippery-Slope-Argument: Jede Gewichtungsangabe sei ein Schritt zur Algorithmusoffenlegung.
@@ -1206,7 +1190,6 @@ urteile:
     Gericht, Senat, Datum und Aktenzeichen stimmen; die Vorinstanz war bisher nicht erfasst.'
   - '05.09.2026: Nicht geändert — der Status ''rechtskraeftig'' ließ sich weder am amtlichen noch am Datenbanknachweis
     belegen und bleibt offen.'
-  quelle_art: datenbank
 - id: de-2025-lg-bamberg-scoring
   jurisdiktion: de
   gericht: Landgericht Bamberg
@@ -1244,7 +1227,7 @@ urteile:
   - de-2026-olg-bamberg-scoring
   quelle_tracker: BAYERN.RECHT / gesetze-bayern.de (amtliche Rechtsprechungsdatenbank des Freistaats Bayern);
     dejure.org und openJur als Sekundärnachweis
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die weitestgehende deutsche Entscheidung zu Art. 22 DSGVO — sie verbietet der Auskunftei
     die automatisierte Scoreerstellung selbst, nicht nur die Auskunftsverweigerung. Berufung ist beim
@@ -1267,7 +1250,6 @@ urteile:
   - '05.09.2026: Nicht geändert — das Feld gericht nennt nur das Landgericht Bamberg. Die Kammerbezeichnung
     ließ sich am Dokument nicht zweifelsfrei ablesen; die im Aktenzeichen geführte Ziffer 41 allein trägt
     keine Ergänzung.'
-  quelle_art: fehlt
 - id: de-2026-olg-bamberg-scoring
   jurisdiktion: de
   gericht: Oberlandesgericht Bamberg, 10. Zivilsenat
@@ -1307,7 +1289,7 @@ urteile:
   - de-2026-bgh-schufa-auskunft
   quelle_tracker: BAYERN.RECHT / gesetze-bayern.de (amtliche Rechtsprechungsdatenbank des Freistaats Bayern);
     dejure.org als Sekundärnachweis
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Genau die Auslegung, die der BGH-Vorsitzende in der Verhandlung vom 18.06.2026 angedeutet
     hat, und genau die, die C-634/21 vermeiden wollte: Wenn nur die äußere Anwendung zählt, läuft der
@@ -1334,7 +1316,6 @@ urteile:
     wurde, ist nicht belegt.'
   - '05.09.2026: Vorinstanz am amtlichen Dokument bestätigt und ergänzt: LG Würzburg, Endurteil vom 16.07.2025,
     Az. 21 O 999/24. Eine ECLI weist das Dokument nicht aus.'
-  quelle_art: fehlt
 - id: de-2025-vg-bremen-automatisierter-va
   jurisdiktion: de
   gericht: Verwaltungsgericht Bremen, 2. Kammer
@@ -1371,7 +1352,7 @@ urteile:
   - eu-2023-schufa-scoring
   quelle_tracker: dejure.org (Entscheidungsnachweis; Berufungszulassungsverfahren beim OVG Bremen – 2
     LA 227/25)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die bislang einzige auffindbare deutsche Gerichtsentscheidung, die § 35a VwVfG und
     Art. 22 DSGVO an einem realen automatisierten Verwaltungsakt zusammenführt. Das Feld ist auffallend
@@ -1396,7 +1377,6 @@ urteile:
     erlassenen Gebührenbescheids. Gericht, Kammer, Datum und Aktenzeichen stimmen.'
   - '05.09.2026: Verfahrensgang ergänzt — nach dejure ist beim OVG Bremen ein Berufungszulassungsverfahren
     unter 2 LA 227/25 anhängig. Der Status ''rechtsmittel'' ist damit bestätigt.'
-  quelle_art: datenbank
 - id: de-2024-lg-kiel-ki-falschinfo
   jurisdiktion: de
   gericht: Landgericht Kiel, 6. Zivilkammer
@@ -1434,7 +1414,7 @@ urteile:
   - de-2025-lg-hamburg-grok
   - de-2026-lg-muenchen-ai-overviews
   quelle_tracker: dejure.org; Kanzlei Dr. Bahr; ESV
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die älteste deutsche Entscheidung dieser Linie und dogmatisch die saubere Wurzel:
     Wer ein automatisiertes System bewusst einsetzt, haftet als Täter für dessen Ausgaben, nicht als Störer.
@@ -1461,7 +1441,6 @@ urteile:
   - bgb-823-abs-1
   - gg-art-19-abs-3
   - gg-art-2-abs-1
-  quelle_art: datenbank
 - id: de-2025-lg-hamburg-grok
   jurisdiktion: de
   gericht: Landgericht Hamburg, 24. Zivilkammer (Pressekammer)
@@ -1499,7 +1478,7 @@ urteile:
   - de-2026-lg-muenchen-ai-overviews
   - de-2026-olg-hamm-chatbot-uwg
   quelle_tracker: dejure.org (Entscheidungsnachweis, GRUR-RR 2026, 78)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die erste deutsche Entscheidung, die einen Modellanbieter — nicht einen Plattformbetreiber,
     nicht den Nutzer — für die Ausgabe eines Sprachmodells äußerungsrechtlich haften lässt. Die Absage
@@ -1525,7 +1504,6 @@ urteile:
   - gg-art-1-abs-1
   - gg-art-19-abs-3
   - gg-art-2-abs-1
-  quelle_art: datenbank
 - id: de-2026-lg-muenchen-ai-overviews
   jurisdiktion: de
   gericht: Landgericht München I, 26. Zivilkammer
@@ -1574,7 +1552,7 @@ urteile:
   - de-2024-lg-kiel-ki-falschinfo
   quelle_tracker: BAYERN.RECHT (gesetze-bayern.de), amtliches Rechtsprechungsportal der Bayerischen Staatsregierung
     — Volltext und weiterführende Hinweise
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die meistzitierte deutsche KI-Haftungsentscheidung des Jahres — und zugleich diejenige,
     deren prozessualer Wert am gründlichsten überschätzt wird. Sie erging im einstweiligen Verfügungsverfahren,
@@ -1628,7 +1606,6 @@ urteile:
   - bgb-823-abs-1
   - gg-art-19-abs-3
   - gg-art-2-abs-1
-  quelle_art: fehlt
 - id: de-2026-lg-berlin-ai-overviews-marke
   jurisdiktion: de
   gericht: Landgericht Berlin II, 52. Zivilkammer
@@ -1662,7 +1639,7 @@ urteile:
   instanzenzug:
   - de-2026-lg-muenchen-ai-overviews
   quelle_tracker: rewis.io; dejure.org; Kanzlei Dr. Bahr; Kanzlei Plutte
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Der Gegenpol zu München — und die schwächere Begründung. Dass die Verkehrskreise
     KI-Übersichten als bloße Aggregation verstehen, ist eine empirische Behauptung, die die Kammer nicht
@@ -1679,7 +1656,6 @@ urteile:
   suchadresse: https://gesetze.berlin.de/bsbe/search (Suche '52 O 62/26'); ferner https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2026/
   normen:
   - markeng-14
-  quelle_art: fehlt
 - id: de-2026-olg-hamm-chatbot-uwg
   jurisdiktion: de
   gericht: Oberlandesgericht Hamm, 4. Zivilsenat
@@ -1764,7 +1740,6 @@ urteile:
     am 01.06.2026 also auch bei sofortiger Zustellung nicht abgelaufen; "rechtskräftig" setzt daher einen
     Rechtsmittelverzicht voraus oder ist ungenau. Ein BGH-Aktenzeichen ist über dejure, justiz.nrw.de,
     LTO und medien-internet-und-recht.de nicht auffindbar.'
-  quelle_art: amtlich
   sachverhalt: Die Aesthetify GmbH bietet ästhetisch-medizinische Behandlungen an und ließ auf ihrer Website
     einen KI-Chatbot Auskunft über das Unternehmen geben. Der Chatbot bezeichnete die beiden Geschäftsführer
     als „Facharzt für plastische und ästhetische Chirurgie" und als „Facharzt für ästhetische Medizin"
@@ -1811,7 +1786,7 @@ urteile:
   - ki-vo-2024-1689
   instanzenzug: []
   quelle_tracker: dejure.org (Entscheidungsnachweis, NJW 2025, 3514; GRUR-RR 2025, 472)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die deutsche Antwort auf die amerikanische Right-of-Publicity-Debatte — und sie kommt
     ohne neues Recht aus. Der Satz, es mache keinen Unterschied, ob imitiert oder KI-generiert werde,
@@ -1844,7 +1819,6 @@ urteile:
   - kug-22
   - kug-23
   - zpo-287
-  quelle_art: datenbank
 - id: de-2024-arbg-hamburg-chatgpt
   jurisdiktion: de
   gericht: Arbeitsgericht Hamburg, 24. Kammer
@@ -1881,7 +1855,7 @@ urteile:
   - ki-vo-2024-1689
   instanzenzug: []
   quelle_tracker: dejure.org (Entscheidungsnachweis, ZIP 2024, 589; NZA 2024, 426; NZA-RR 2024, 137)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Nach wie vor die einzige veröffentlichte deutsche Gerichtsentscheidung zur Mitbestimmung
     beim KI-Einsatz — und sie ist schmal. Sie trägt genau eine Konstellation: private Accounts, browserbasiert,
@@ -1905,7 +1879,6 @@ urteile:
   normen:
   - betrvg-87-abs-1-nr-1
   - betrvg-87-abs-1-nr-6
-  quelle_art: datenbank
 - id: de-2025-kg-ki-halluzination
   jurisdiktion: de
   gericht: Kammergericht Berlin, 17. Senat für Familiensachen
@@ -1945,7 +1918,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: dejure.org (Entscheidungsnachweis; Verfahrensgang AG Berlin-Kreuzberg, 19.09.2025 –
     130 F 12281/25); BRAK-Newsroom
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Die erste veröffentlichte deutsche Gerichtsentscheidung zu halluzinierten Fundstellen
     im anwaltlichen Schriftsatz. Anders als in den USA, wo Gerichte Ordnungsgelder und Zulassungsverfahren
@@ -1973,7 +1946,6 @@ urteile:
   - brao-43
   - brao-43a
   - zpo-138
-  quelle_art: datenbank
 - id: eu-2024-garante-openai
   jurisdiktion: eu
   gericht: Garante per la protezione dei dati personali (Italien)
@@ -2023,7 +1995,6 @@ urteile:
   - dsgvo-art-12
   - dsgvo-art-13
   - dsgvo-art-33
-  quelle_art: amtlich
 - id: eu-2026-tribunale-roma-openai
   jurisdiktion: eu
   gericht: Tribunale Ordinario di Roma, Sezione diritti della persona e immigrazione (Italien)
@@ -2110,7 +2081,6 @@ urteile:
   dokumenttyp: Amtlicher Entfernungsvermerk des Garante per la protezione dei dati personali zum aufgehobenen
     Provvedimento n. 755 vom 02.11.2024 (docweb 10085455); der Volltext des Urteils selbst ist nicht amtlich
     veröffentlicht
-  quelle_art: amtlich
   sachverhalt: OpenAI bot ChatGPT in Italien an, ohne im Europäischen Wirtschaftsraum eine Niederlassung
     zu haben; der Garante per la protezione dei dati personali leitete deshalb ein eigenes Verfahren ein
     und prüfte Rechtsgrundlage des Trainings, Transparenz und Altersprüfung. Am 15. Februar 2024 wurde
@@ -2172,7 +2142,6 @@ urteile:
   - dsgvo-art-6
   - dsgvo-art-13
   - ki-vo-art-5-abs-1-lit-b
-  quelle_art: amtlich
 - id: eu-2025-garante-deepseek
   jurisdiktion: eu
   gericht: Garante per la protezione dei dati personali (Italien)
@@ -2224,7 +2193,6 @@ urteile:
   normen:
   - dsgvo-art-58-abs-2-lit-f
   - dsgvo-art-3
-  quelle_art: amtlich
 - id: eu-2025-garante-clothoff
   jurisdiktion: eu
   gericht: Garante per la protezione dei dati personali (Italien)
@@ -2278,7 +2246,6 @@ urteile:
   - dsgvo-art-58-abs-2-lit-f
   - dsgvo-art-9
   - ki-vo-art-50
-  quelle_art: amtlich
 - id: eu-2024-edsa-opinion-28
   jurisdiktion: eu
   gericht: Europäischer Datenschutzausschuss (EDSA/EDPB)
@@ -2339,7 +2306,6 @@ urteile:
   - dsgvo-art-6-abs-1-lit-f
   - dsgvo-art-4-nr-1
   - dsgvo-art-64-abs-2
-  quelle_art: amtlich
   sachverhalt: Die irische Datenschutzaufsicht legte dem Europäischen Datenschutzausschuss nach Art. 64
     Abs. 2 DSGVO Fragen zu KI-Modellen zur Stellungnahme von allgemeiner Geltung vor. Sie wollte geklärt
     wissen, wann ein auf personenbezogenen Daten trainiertes Modell als anonym angesehen werden kann,
@@ -2409,7 +2375,6 @@ urteile:
     der DPC vom 04.09.2024, https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-welcomes-conclusion-proceedings-relating-xs-ai-tool-grok'
   - Ein schriftliches Urteil des High Court ist nicht ergangen und daher auf courts.ie nicht auffindbar;
     der Rechtsstreit endete durch Zusage und Verfahrensbeendigung.
-  quelle_art: fehlt
 - id: eu-2024-dpc-meta-llm
   jurisdiktion: eu
   gericht: Data Protection Commission (Irland)
@@ -2467,7 +2432,6 @@ urteile:
   - 'Weiterführend amtlich zur Rechtsauffassung der DPC: ''AI, Large Language Models and Data Protection''
     vom 18.07.2024, https://www.dataprotection.ie/en/dpc-guidance/blogs/AI-LLMs-and-Data-Protection ;
     zur späteren Freigabe: ''DPC statement on Meta AI'' vom 21.05.2025.'
-  quelle_art: fehlt
 - id: de-2024-dsk-ki-orientierungshilfen
   jurisdiktion: de
   gericht: Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (DSK)
@@ -2533,4 +2497,3 @@ urteile:
     Juni 2025, https://www.datenschutzkonferenz-online.de/media/oh/DSK-OH_KI-Systeme.pdf'
   - Herausgeberin ist die Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder;
     die Seite datenschutzkonferenz-online.de ist deren amtliches Publikationsorgan.
-  quelle_art: amtlich

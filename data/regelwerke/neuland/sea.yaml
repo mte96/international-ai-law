@@ -102,19 +102,17 @@ regelwerke:
     sprache: vi
     urheber: Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam / Công báo Chính phủ
     verifiziert: true
-    notiz: 'Amtsblattfundstelle. Die Seite verweist auf die amtliche DOCX- und PDF-Fassung (Dateiname
-      2026_40_134/2025/QH15) über den CDN g7.cdnchinhphu.vn; dieser Host war in dieser Sitzung durch die
-      Egress-Politik gesperrt, die Metadaten (Nr. 134/2025/QH15, 10.12.2025, Trần Thanh Mẫn, Công báo
-      Nr. 40 vom 22.01.2026, Wirksamkeit 01.03.2026) sind der Amtsblattseite selbst entnommen.
-
-      '
+    notiz: Amtsblattfundstelle. Die Seite verweist auf die amtliche DOCX- und PDF-Fassung (Dateiname 2026_40_134/2025/QH15)
+      über den CDN g7.cdnchinhphu.vn; dieser Host war durch die Egress-Politik gesperrt, die Metadaten (Nr.
+      134/2025/QH15, 10.12.2025, Trần Thanh Mẫn, Công báo Nr. 40 vom 22.01.2026, Wirksamkeit 01.03.2026) sind
+      der Amtsblattseite selbst entnommen.
   - datum: 2025-12-10
     typ: konsolidiert
     titel: Luật Trí tuệ nhân tạo 2025 số 134/2025/QH15 — Volltext
     url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Tri-tue-nhan-tao-2025-so-134-2025-QH15-679013.aspx
     sprache: vi
     urheber: Thư viện Pháp luật (privat)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Nichtamtliche Volltextfassung, hier als Arbeitsgrundlage für die Artikelstruktur benutzt,
       weil die amtliche PDF nicht erreichbar war. Nicht als Fundstelle zitieren — die amtliche Fundstelle
       ist Công báo Nr. 40/2026.
@@ -126,7 +124,7 @@ regelwerke:
     url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Law-134-2025-QH15-Artificial-Intelligence-689735.aspx
     sprache: en
     urheber: Thư viện Pháp luật (privat)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Nichtamtliche englische Übersetzung. Nur als Verständnishilfe; die Übergangsfristen (18/12
       Monate) stammen aus dieser Fassung und sind deshalb als verifiziert: false geführt.
 
@@ -233,10 +231,8 @@ regelwerke:
     sprache: vi
     urheber: Bộ Tư pháp — Vụ Phổ biến, giáo dục pháp luật
     verifiziert: false
-    notiz: 'Amtliche Erläuterung des Justizministeriums. Der Abruf schlug in dieser Sitzung mit HTTP 403
-      fehl; die URL ist über die Suchindexierung belegt, der Inhalt nicht geprüft.
-
-      '
+    notiz: Amtliche Erläuterung des Justizministeriums. Der Abruf schlug mit HTTP 403 fehl; die URL ist über
+      die Suchindexierung belegt, der Inhalt nicht geprüft.
   offene_punkte:
   - 'WIDERSPRUCH Wirksamkeitsdatum: 01.05.2026 (vanban.chinhphu.vn) gegen 09.05.2026 (vietnamplus.vn).
     Nicht auflösbar, weil die amtliche PDF ein Scan ohne Textebene ist.'
@@ -302,11 +298,9 @@ regelwerke:
     url: https://baochinhphu.vn/ban-hanh-ke-hoach-trien-khai-thi-hanh-luat-tri-tue-nhan-tao-102260303114127072.htm
     sprache: vi
     urheber: Báo Điện tử Chính phủ (amtliches Regierungsorgan)
-    verifiziert: true
-    notiz: 'Amtliche Regierungszeitung, nicht das Dokument selbst. Der Volltext der Quyết định 367/QĐ-TTg
-      wurde in dieser Sitzung nicht gefunden.
-
-      '
+    verifiziert: false
+    notiz: Amtliche Regierungszeitung, nicht das Dokument selbst. Der Volltext der Quyết định 367/QĐ-TTg wurde
+      nicht gefunden.
   offene_punkte:
   - Volltext der Quyết định 367/QĐ-TTg nicht gefunden; die Aufgabenverteilung ist nur über Báo Chính phủ
     belegt.
@@ -365,7 +359,7 @@ regelwerke:
       134/2025/QH15 aufgehoben.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Tri-tue-nhan-tao-2025-so-134-2025-QH15-679013.aspx
   themenachsen:
   - marktzugang
@@ -418,7 +412,7 @@ regelwerke:
     sprache: vi
     urheber: Bộ Tư pháp — Cơ sở dữ liệu quốc gia về văn bản pháp luật
     verifiziert: false
-    notiz: Amtliche nationale Rechtsdatenbank des Justizministeriums; Abruf in dieser Sitzung nicht durchgeführt.
+    notiz: Amtliche nationale Rechtsdatenbank des Justizministeriums;
   offene_punkte:
   - Das genaue Ausfertigungsdatum des Gesetzes (14.06.2025 nach vbpl.vn-Indexierung) ist nicht am amtlichen
     Text geprüft.
@@ -499,17 +493,15 @@ regelwerke:
     sprache: vi
     urheber: Bộ Công an (Ministerium für öffentliche Sicherheit)
     verifiziert: false
-    notiz: 'Das Ministerium für öffentliche Sicherheit ist die vietnamesische Datenschutzaufsicht; seine
-      Rechtsdatenbank ist die behördliche Primärquelle. Abruf in dieser Sitzung nicht durchgeführt.
-
-      '
+    notiz: Das Ministerium für öffentliche Sicherheit ist die vietnamesische Datenschutzaufsicht; seine Rechtsdatenbank
+      ist die behördliche Primärquelle.
   - datum: 2025-06-26
     typ: uebersicht
     titel: Law on Personal Data Protection No. 91/2025/QH15 — englische Übersetzung
     url: https://english.luatvietnam.vn/dan-su/law-on-personal-data-protection-law-no-91-2025-qh15-405135-d1.html
     sprache: en
     urheber: LuatVietnam (privat)
-    verifiziert: true
+    verifiziert: false
     notiz: Nichtamtliche Übersetzung; Grundlage der Inhaltsangabe zu Điều 30 und 31.
   offene_punkte:
   - Der vietnamesische Wortlaut von Điều 30 und 31 ist nur mittelbar über eine Übersetzung belegt; die
@@ -568,7 +560,7 @@ regelwerke:
     sprache: vi
     urheber: Văn phòng Chính phủ
     verifiziert: false
-    notiz: Amtlicher Metadatensatz; Abruf in dieser Sitzung nicht durchgeführt, URL aus der Suchindexierung.
+    notiz: Amtlicher Metadatensatz; Abruf nicht durchgeführt, URL aus der Suchindexierung.
   - datum: 2025-12-31
     typ: uebersicht
     titel: Decree No. 356/2025/ND-CP — englische Übersetzung
@@ -635,7 +627,7 @@ regelwerke:
     sprache: vi
     urheber: Thư viện Pháp luật (privat)
     verifiziert: false
-    notiz: Nichtamtliche Fassung; die amtliche Công-báo-Fundstelle wurde in dieser Sitzung nicht ermittelt.
+    notiz: Nichtamtliche Fassung; die amtliche Công-báo-Fundstelle wurde nicht ermittelt.
   offene_punkte:
   - Amtliche Công-báo-Fundstelle des Nghị định 13/2023/NĐ-CP nicht ermittelt.
   - Genaues Datum des Außerkrafttretens nur über eine Sekundärdarstellung belegt.
@@ -707,14 +699,14 @@ regelwerke:
     sprache: vi
     urheber: Cổng Thông tin điện tử Chính phủ — Xây dựng chính sách, pháp luật
     verifiziert: false
-    notiz: Amtliche Regierungsdarstellung der Neuerungen; Abruf in dieser Sitzung nicht durchgeführt.
+    notiz: Amtliche Regierungsdarstellung der Neuerungen;
   - datum: 2025-12-10
     typ: konsolidiert
     titel: Luật An ninh mạng 2025 số 116/2025/QH15 — Volltext
     url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-An-ninh-mang-2025-so-116-2025-QH15-666020.aspx
     sprache: vi
     urheber: Thư viện Pháp luật (privat)
-    verifiziert: true
+    verifiziert: false
     notiz: Nichtamtliche Volltextfassung; Grundlage für den Wortlaut von Điều 7 khoản 2 điểm g und Điều
       13 khoản 3 điểm h.
   offene_punkte:
@@ -810,7 +802,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-12-25
-    verifiziert: true
+    verifiziert: false
     quelle: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-147-2024-ND-CP-quan-ly-cung-cap-su-dung-dich-vu-Internet-thong-tin-tren-mang-480755.aspx
   themenachsen:
   - content
@@ -954,17 +946,15 @@ regelwerke:
     sprache: vi
     urheber: Cục Bản quyền tác giả (Copyright Office of Vietnam)
     verifiziert: false
-    notiz: 'Amtliche Erläuterung der zuständigen Fachbehörde. Der Abruf schlug in dieser Sitzung fehl
-      (robots.txt-Timeout); die URL ist über die Suchindexierung belegt.
-
-      '
+    notiz: Amtliche Erläuterung der zuständigen Fachbehörde. Der Abruf schlug fehl (robots.txt-Timeout); die
+      URL ist über die Suchindexierung belegt.
   - datum: 2026-04-15
     typ: bericht
     titel: Điều kiện để tác phẩm do AI hỗ trợ tạo ra được pháp luật bảo hộ quyền tác giả
     url: https://baochinhphu.vn/dieu-kien-de-tac-pham-do-ai-ho-tro-tao-ra-duoc-phap-luat-bao-ho-quyen-tac-gia-102260415163902936.htm
     sprache: vi
     urheber: Báo Điện tử Chính phủ (amtliches Regierungsorgan)
-    verifiziert: true
+    verifiziert: false
     notiz: Amtliche Darstellung des Điều 5a mit wörtlichen Zitaten; Grundlage der Inhaltsangabe.
   - datum: 2026-04-06
     typ: konsolidiert
@@ -972,7 +962,7 @@ regelwerke:
     url: https://thuvienphapluat.vn/van-ban/So-huu-tri-tue/Nghi-dinh-134-2026-ND-CP-sua-doi-Nghi-dinh-17-2023-ND-CP-huong-dan-Luat-So-huu-tri-tue-696079.aspx
     sprache: vi
     urheber: Thư viện Pháp luật (privat)
-    verifiziert: true
+    verifiziert: false
     notiz: Nichtamtliche Volltextfassung; Grundlage für den Inhalt von Điều 37a und 37b.
   offene_punkte:
   - Der genaue Wortlaut von Điều 37a und 37b ist nur über eine nichtamtliche Volltextfassung belegt; die
@@ -1036,7 +1026,7 @@ regelwerke:
     url: https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chinh-sach-moi/106042/luat-so-huu-tri-tue-moi-nhat-2026-va-tong-hop-van-ban-huong-dan
     sprache: vi
     urheber: Thư viện Pháp luật (privat)
-    verifiziert: true
+    verifiziert: false
     notiz: Wegweiser zu den geltenden Fassungen und Durchführungsvorschriften; keine amtliche Quelle.
   offene_punkte:
   - Amtliche Fundstellen (Công báo) der Stammfassung und der drei Novellen nicht ermittelt.
@@ -1129,18 +1119,16 @@ regelwerke:
     sprache: th
     urheber: ETDA / กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
     verifiziert: false
-    notiz: 'AMTLICHE Konsultationsseite (ระบบกลางทางกฎหมาย, betrieben von der DGA nach Art. 77 der Verfassung).
-      Der direkte Abruf schlug in dieser Sitzung mit HTTP 403 fehl; die URL ist über Thai PBS Policy Watch
-      belegt, die sie als amtlichen Konsultationslink führt.
-
-      '
+    notiz: AMTLICHE Konsultationsseite (ระบบกลางทางกฎหมาย, betrieben von der DGA nach Art. 77 der Verfassung).
+      Der direkte Abruf schlug mit HTTP 403 fehl; die URL ist über Thai PBS Policy Watch belegt, die sie als
+      amtlichen Konsultationslink führt.
   - datum: 2026-08-01
     typ: bericht
     titel: เปิดร่างกฏหมาย AI ฉบับแรก มุ่งคุมใช้งานมีความเสี่ยงสูง
     url: https://policywatch.thaipbs.or.th/article/government-364
     sprache: th
     urheber: Thai PBS Policy Watch (öffentlich-rechtlicher Rundfunk)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Ausführlichste thailändischsprachige Darstellung mit dem amtlichen Titel, den Risikostufen,
       den Verbotstatbeständen und dem Konsultationslink. Nennt als Veröffentlichungsdatum den 01.08.2569
       — siehe offene_punkte.
@@ -1152,7 +1140,7 @@ regelwerke:
     url: https://www.bakermckenzie.com/en/insight/publications/2026/07/thailand-draft-ai-act--seven-key-implications
     sprache: en
     urheber: Baker McKenzie (Kanzleimonitor)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundärquelle; Grundlage für die vier Risikokategorien, die Extraterritorialität und die Durchsetzungsbefugnisse.
   - datum: 2026-07-28
     typ: uebersicht
@@ -1160,7 +1148,7 @@ regelwerke:
     url: https://aitoolkit.rajahtannasia.com/2026/07/28/thailands-proposed-ai-law-moving-towards-a-risk-based-regulatory-framework/
     sprache: en
     urheber: Rajah & Tann Asia (Kanzleimonitor)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundärquelle; belegt Veröffentlichung 09.07.2026 und Konsultationsende 14.08.2026 sowie die
       dezentrale Aufsicht.
   - datum: 2026-07
@@ -1169,7 +1157,7 @@ regelwerke:
     url: https://www.nortonrosefulbright.com/en/knowledge/publications/0fec663b/thailands-draft-ai-law-a-new-era-for-governance-and-innovation
     sprache: en
     urheber: Norton Rose Fulbright (Kanzleimonitor)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundärquelle; belegt die Zusammenführung der Entwürfe von 2022 und 2023, die TDM-Ausnahme,
       die Sandbox und die Rolle des AI Governance Center.
   offene_punkte:
@@ -1308,7 +1296,7 @@ regelwerke:
     url: https://bact.cc/2022/thailand-ai-regulations/
     sprache: th
     urheber: Arthit Suriyawongkul (Dokumentensammlung, privat)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Private, aber sorgfältige Dokumentensammlung der thailändischen KI-Regulierungsentwürfe. Die
       amtliche Konsultationsseite von 2022 war nicht mehr auffindbar.
 
@@ -1366,7 +1354,7 @@ regelwerke:
     url: https://bact.cc/f/2023/04/20230329-national-ai-promotion-bill.pdf
     sprache: th
     urheber: ETDA (Entwurfstext, gespiegelt in privater Sammlung)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Volltext-PDF des Entwurfs vom 29.03.2023, gespiegelt in einer privaten Dokumentensammlung.
       Amtliche Fundstelle nicht mehr auffindbar.
 
@@ -1410,12 +1398,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2023-08-21
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.nstda.or.th/opr/dpslaw/
   anwendungsdaten:
   - datum: 2023-11-18
     was_gilt: Ablauf der Anzeigefrist für bestehende Plattformbetreiber.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.nstda.or.th/opr/dpslaw/
   - datum: 2025-12-31
     was_gilt: 'Inkrafttreten der ETDA-Bekanntmachung über Zusatzmaßnahmen für Online-Marktplätze nach
@@ -1446,7 +1434,7 @@ regelwerke:
     url: https://www.nstda.or.th/opr/dpslaw/
     sprache: th
     urheber: สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (NSTDA, staatliche Forschungsagentur)
-    verifiziert: true
+    verifiziert: false
     notiz: Staatliche Quelle mit dem amtlichen Titel und dem Datum des Inkrafttretens (21.08.2566).
   - datum: '2022'
     typ: konsolidiert
@@ -1455,14 +1443,14 @@ regelwerke:
     sprache: th
     urheber: หอสมุดรัฐสภา (Parlamentsbibliothek Thailand)
     verifiziert: false
-    notiz: Amtliche Parlamentsbibliothek; Abruf in dieser Sitzung nicht durchgeführt.
+    notiz: Amtliche Parlamentsbibliothek;
   - datum: '2026'
     typ: uebersicht
     titel: Thailand's Digital Platform Services Regulatory Roadmap for 2026
     url: https://www.tilleke.com/insights/thailands-digital-platform-services-regulatory-roadmap-for-2026/
     sprache: en
     urheber: Tilleke & Gibbins (Kanzleimonitor)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Sekundärquelle; ausgewertet zur Klärung der Auftragsfrage, ob am 01.03.2026 etwas in Kraft
       trat. ERGEBNIS: nein — die Fristen 2026 sind der 31.12.2025 (Marktplätze) und der 31.03.2026 (Ride-Sharing).
       Der Beitrag bestätigt ausdrücklich, dass die Plattformregeln keine KI-Vorschriften enthalten.
@@ -1530,11 +1518,8 @@ regelwerke:
     sprache: th
     urheber: ราชกิจจานุเบกษา (Königliches Amtsblatt Thailands)
     verifiziert: false
-    notiz: 'AMTLICHE Fundstelle (เล่ม 136 ตอนที่ 69 ก หน้า 52). Der Abruf schlug in dieser Sitzung mit
-      HTTP 403 fehl; die URL ist über die Suchindexierung und die Zitierweise mehrerer Behördenseiten
-      belegt.
-
-      '
+    notiz: AMTLICHE Fundstelle (เล่ม 136 ตอนที่ 69 ก หน้า 52). Der Abruf schlug mit HTTP 403 fehl; die URL
+      ist über die Suchindexierung und die Zitierweise mehrerer Behördenseiten belegt.
   - datum: 2019-05-27
     typ: endfassung
     titel: พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 — Seite der Datenschutzaufsicht
@@ -1542,10 +1527,7 @@ regelwerke:
     sprache: th
     urheber: สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล (PDPC)
     verifiziert: false
-    notiz: 'Seite der zuständigen Aufsichtsbehörde mit dem Gesetzestext. Abruf in dieser Sitzung mit HTTP
-      403 gescheitert.
-
-      '
+    notiz: Seite der zuständigen Aufsichtsbehörde mit dem Gesetzestext. Abruf mit HTTP 403 gescheitert.
   - datum: 2019-05-27
     typ: konsolidiert
     titel: พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 — Fassung im Rechtsportal der Regierungssprecherbehörde
@@ -1630,7 +1612,7 @@ regelwerke:
     sprache: th
     urheber: สำนักงานศาลยุติธรรม (Office of the Judiciary Thailand)
     verifiziert: false
-    notiz: Amtliche Justizquelle; Abruf in dieser Sitzung nicht durchgeführt.
+    notiz: Amtliche Justizquelle;
   - datum: '2017'
     typ: konsolidiert
     titel: พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. 2560 (PDF)
@@ -1656,7 +1638,7 @@ regelwerke:
     url: https://en.vietnamplus.vn/thailand-tightens-ai-deepfake-control-post344608.vnp
     sprache: en
     urheber: VietnamPlus (staatliche vietnamesische Nachrichtenagentur)
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt die Strafrahmen (3 Jahre/200.000 Baht nach มาตรา 16; 5 Jahre/100.000 Baht nach มาตรา
       14; 2 Jahre/200.000 Baht Beleidigung).
   offene_punkte:
@@ -1726,10 +1708,7 @@ regelwerke:
     sprache: th
     urheber: รัฐสภา (Parlament Thailand), Parliamentary Repository
     verifiziert: false
-    notiz: 'AMTLICHES Parlamentsrepositorium. Der Abruf lieferte in dieser Sitzung nur Seitenmetadaten,
-      keinen Volltext.
-
-      '
+    notiz: AMTLICHES Parlamentsrepositorium. Der Abruf lieferte nur Seitenmetadaten, keinen Volltext.
   - datum: 2025-04-13
     typ: pressemitteilung
     titel: พ.ร.ก.มาตรการป้องกันและปราบปรามอาชญากรรมทางเทคโนโลยี (ฉบับที่ 2) พ.ศ. 2568 ได้ประกาศในราชกิจจานุเบกษาแล้ว
@@ -1801,7 +1780,7 @@ regelwerke:
     sprache: th
     urheber: AI Thailand (NECTEC/NSTDA, staatlich)
     verifiziert: false
-    notiz: Amtliches Portal des Plans; Abruf in dieser Sitzung nicht durchgeführt.
+    notiz: Amtliches Portal des Plans;
   - datum: '2022'
     typ: uebersicht
     titel: แผนปฏิบัติการด้านปัญญาประดิษฐ์แห่งชาติ — Darstellung der Parlamentsbibliothek
@@ -1866,7 +1845,7 @@ regelwerke:
     sprache: th
     urheber: ETDA / กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
     verifiziert: false
-    notiz: Amtliche ETDA-Verlautbarung; Abruf in dieser Sitzung nicht durchgeführt, Datum unbekannt.
+    notiz: Amtliche ETDA-Verlautbarung; Abruf nicht durchgeführt, Datum unbekannt.
   - datum: null
     typ: pressemitteilung
     titel: ETDA เปิดตัวศูนย์ 'AI Governance Clinic by ETDA (AIGC)'
@@ -1988,15 +1967,14 @@ regelwerke:
     sprache: en
     urheber: Malaysia Productivity Corporation (MPC)
     verifiziert: false
-    notiz: Amtliches Konsultationsportal; das Konsultationspapier selbst wurde in dieser Sitzung nicht
-      beschafft.
+    notiz: Amtliches Konsultationsportal; das Konsultationspapier selbst wurde nicht beschafft.
   - datum: 2026-07
     typ: uebersicht
     titel: National AI Office issues public consultation paper on proposed AI Governance Bill
     url: https://www.rahmatlim.com/perspectives/articles/33264/mykh-national-ai-office-issues-public-consultation-paper-on-proposed-artificial-intelligence-ai-governance-bill
     sprache: en
     urheber: Rahmat Lim & Partners (Kanzleimonitor)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Ausführlichste Auswertung des Konsultationspapiers; Grundlage für Definitionen, Risikostufen,
       Governance-Grundsätze, Behördenstruktur, Vorfallmeldung und Sandbox sowie für die Frist 31.07.2026.
 
@@ -2008,7 +1986,7 @@ regelwerke:
     sprache: en
     urheber: Baker McKenzie (Kanzleimonitor)
     verifiziert: false
-    notiz: Sekundärquelle; in dieser Sitzung nicht abgerufen.
+    notiz: Sekundärquelle;
   - datum: 2026-07
     typ: stellungnahme
     titel: 'Malaysia''s AI Governance Bill: Our Submission to the Consultation'
@@ -2357,7 +2335,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.roedl.com/en/insights/malaysia-online-safety-act-2025/
   themenachsen:
   - content
@@ -2386,11 +2364,8 @@ regelwerke:
     sprache: en
     urheber: Attorney General's Chambers of Malaysia (Laws of Malaysia)
     verifiziert: false
-    notiz: 'AMTLICHE Volltext-PDF der Laws of Malaysia. Der Abruf schlug in dieser Sitzung fehl (robots.txt-Fehler
-      HTTP 500 auf lom.agc.gov.my); die URL ist über die Suchindexierung mit dem korrekten Aktentitel
-      belegt.
-
-      '
+    notiz: AMTLICHE Volltext-PDF der Laws of Malaysia. Der Abruf schlug fehl (robots.txt-Fehler HTTP 500 auf
+      lom.agc.gov.my); die URL ist über die Suchindexierung mit dem korrekten Aktentitel belegt.
   - datum: '2025'
     typ: endfassung
     titel: Malaysia Federal Legislation — Act 866 (Metadatenseite)
@@ -2421,7 +2396,7 @@ regelwerke:
     url: https://www.roedl.com/en/insights/malaysia-online-safety-act-2025/
     sprache: en
     urheber: Rödl & Partner (Kanzleimonitor)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Sekundärquelle; hier abgerufen. Belegt Inkrafttreten 01.01.2026, den Anwendungsbereich (lizenzpflichtige
       Plattformen über 8 Mio. Nutzer in Malaysia), die neun Kategorien schädlicher Inhalte und die Einstufung
       von Kindesmissbrauchsdarstellungen und Finanzbetrug als ''priority harmful content''. Der Beitrag
@@ -2502,10 +2477,8 @@ regelwerke:
     sprache: en
     urheber: Lexology (Kanzleimonitor)
     verifiziert: false
-    notiz: 'Bericht über die Entscheidung des Court of Appeal. Das Aktenzeichen und der Volltext wurden
-      in dieser Sitzung nicht ermittelt; siehe offene_punkte.
-
-      '
+    notiz: Bericht über die Entscheidung des Court of Appeal. Das Aktenzeichen und der Volltext wurden nicht
+      ermittelt; siehe offene_punkte.
   - datum: 2025-10-29
     typ: bericht
     titel: Government appeals 'offensive' phrase decision
@@ -2599,10 +2572,8 @@ regelwerke:
     sprache: id
     urheber: Kementerian Komunikasi dan Digital (Komdigi), JDIH
     verifiziert: false
-    notiz: 'AMTLICHES Rechtsdokumentationsportal des zuständigen Ministeriums. Alle Abrufversuche in dieser
-      Sitzung endeten mit HTTP 403; der Volltext des Rundschreibens wurde NICHT gelesen.
-
-      '
+    notiz: AMTLICHES Rechtsdokumentationsportal des zuständigen Ministeriums. Alle Abrufversuche endeten mit
+      HTTP 403; der Volltext des Rundschreibens wurde NICHT gelesen.
   offene_punkte:
   - DER VOLLTEXT WURDE NICHT GELESEN. jdih.komdigi.go.id antwortete durchgehend mit HTTP 403. Die Aufzählung
     der ethischen Wertmaßstäbe fehlt deshalb; sie ist zuerst nachzuholen.
@@ -2649,7 +2620,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2020-08-10
-    verifiziert: true
+    verifiziert: false
     quelle: https://ai-innovation.id/strategi
   themenachsen:
   - governance
@@ -2668,7 +2639,7 @@ regelwerke:
     url: https://ai-innovation.id/strategi
     sprache: id
     urheber: Indonesia Center for Artificial Intelligence Innovation (KORIKA / BPPT-BRIN-Umfeld)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Trägerportal der Strategie; belegt Vorstellungsdatum, Zeithorizont und die Absicht, sie in
       eine Perpres zu überführen. Kein Amtsblatt.
 
@@ -2749,7 +2720,7 @@ regelwerke:
     url: https://indonesiabusinesspost.com/5992/cyber-and-espionage/indonesia-prioritizes-ai-regulation-in-2026-says-communications-minister
     sprache: en
     urheber: Indonesia Business Post (Presse)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Einzige greifbare Quelle für Inhalt und Zeitplan. Zitiert die Ministerin: die Entwürfe seien
       2025 erstellt worden und sollten 2026 vom Präsidenten unterzeichnet werden; die erste Ministerialverordnung
       solle die Kennzeichnung KI-erzeugter Inhalte vorschreiben. Presse, keine amtliche Quelle.
@@ -2867,18 +2838,15 @@ regelwerke:
     sprache: id
     urheber: Badan Pemeriksa Keuangan (BPK)
     verifiziert: false
-    notiz: 'AMTLICHE Volltext-PDF (34 Seiten Normtext, S. 35-50 Begründung). Der Abruf lieferte in dieser
-      Sitzung Binärdaten ohne verwertbare Textebene; die Artikelnummern der Betroffenenrechte konnten
-      deshalb NICHT geprüft werden.
-
-      '
+    notiz: AMTLICHE Volltext-PDF (34 Seiten Normtext, S. 35-50 Begründung). Der Abruf lieferte Binärdaten
+      ohne verwertbare Textebene; die Artikelnummern der Betroffenenrechte konnten deshalb NICHT geprüft werden.
   - datum: '2025'
     typ: uebersicht
     titel: Data protection laws in Indonesia — Data Protection Laws of the World
     url: https://www.dlapiperdataprotection.com/index.html?t=law&c=ID
     sprache: en
     urheber: DLA Piper (Kanzleimonitor)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Sekundärquelle; Grundlage für die Auflistung der Betroffenenrechte einschließlich des Rechts
       gegen automatisierte Entscheidungen, für den Ablauf der Übergangsfrist am 17.10.2024, für den Übergangsstatus
       der Aufsicht bei Komdigi und für die Sanktionshöhen.
@@ -2966,7 +2934,7 @@ regelwerke:
     sprache: id
     urheber: Badan Pemeriksa Keuangan (BPK)
     verifiziert: false
-    notiz: Amtliche Volltext-PDF; in dieser Sitzung nicht ausgewertet.
+    notiz: Amtliche Volltext-PDF;
   offene_punkte:
   - Der Wortlaut von Pasal 27A, 28 Abs. 2 und 3 sowie der Strafrahmen wurde nicht am Text geprüft.
   - Die konsolidierte Fassung des ITE-Gesetzes (UU 11/2008 i.d.F. 19/2016 und 1/2024) wurde nicht beschafft.
@@ -3036,7 +3004,7 @@ regelwerke:
     sprache: id
     urheber: Badan Pemeriksa Keuangan (BPK)
     verifiziert: false
-    notiz: Amtliche Volltext-PDF; in dieser Sitzung nicht ausgewertet.
+    notiz: Amtliche Volltext-PDF;
   offene_punkte:
   - Der Wortlaut der Legaldefinitionen in Pasal 1 (Pencipta, Ciptaan) wurde NICHT gelesen; die Aussage
     zum Erfordernis eines menschlichen Urhebers ist deshalb nicht am Text belegt.

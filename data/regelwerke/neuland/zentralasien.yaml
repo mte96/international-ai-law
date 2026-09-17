@@ -203,11 +203,9 @@ regelwerke:
     sprache: kk
     urheber: ИПС „Әділет"
     verifiziert: true
-    notiz: 'Kasachischsprachige Parallelfassung, abgerufen und im Titel bestätigt („Жасанды интеллект
-      туралы"); der Artikeltext wurde in dieser Sitzung nicht gelesen, weil die russischsprachige Fassung
-      in Kasachstan gleichermaßen amtlich ist.
-
-      '
+    notiz: Kasachischsprachige Parallelfassung, abgerufen und im Titel bestätigt („Жасанды интеллект туралы");
+      Der Artikeltext wurde nicht gelesen, weil die russischsprachige Fassung in Kasachstan gleichermaßen
+      amtlich ist.
   - datum: 2025-11-17
     typ: konsolidiert
     titel: Dokumentkarte („Информация") mit Veröffentlichungsangaben
@@ -1005,11 +1003,8 @@ regelwerke:
 
       '
     verifiziert: true
-    notiz: 'Der Erlass definiert den Anwendungsbereich des KI-Gesetzes. Der vollständige Kriterienkatalog
-      geht über die drei hier wiedergegebenen Gruppen hinaus; er wurde in dieser Sitzung nur bis zur dritten
-      Gruppe ausgelesen.
-
-      '
+    notiz: Der Erlass definiert den Anwendungsbereich des KI-Gesetzes. Der vollständige Kriterienkatalog geht
+      über die drei hier wiedergegebenen Gruppen hinaus; er wurde nur bis zur dritten Gruppe ausgelesen.
   offene_punkte:
   - 'Der Kriterienkatalog wurde nur teilweise erfasst (die ersten drei von mehreren Gruppen). Der Rest
     ist nachzutragen.
@@ -1172,10 +1167,7 @@ regelwerke:
     sprache: ru
     urheber: МИИЦР (Ж. Мадиев)
     verifiziert: true
-    notiz: 'In dieser Sitzung wurde nur der verfügende Teil des Erlasses gelesen, nicht die Anlage mit
-      dem Verfahren.
-
-      '
+    notiz: Wurde nur der verfügende Teil des Erlasses gelesen, nicht die Anlage mit dem Verfahren.
   offene_punkte:
   - 'Die Anlage (das eigentliche Verfahren: Antrag, Auditnachweis, Aufnahme, Streichung, Rechtsschutz)
     wurde nicht ausgewertet. Ebenso wenig ist geklärt, ob bereits Listen veröffentlicht wurden.
@@ -1243,11 +1235,9 @@ regelwerke:
     sprache: ru
     urheber: МИИЦР
     verifiziert: false
-    notiz: 'Der Erlass wurde in dieser Sitzung nur über die adilet-Volltextsuche nachgewiesen (Titel,
-      Datum, Justizregistrierungsnummer 39591 vom 14.08.2026); die Dokument-URL selbst wurde nicht aufgerufen.
-      Deshalb `verifiziert: false` und Suchtreffer statt Direktlink.
-
-      '
+    notiz: 'Der Erlass wurde nur über die adilet-Volltextsuche nachgewiesen (Titel, Datum, Justizregistrierungsnummer
+      39591 vom 14.08.2026); die Dokument-URL selbst wurde nicht aufgerufen. Deshalb `verifiziert: false`
+      und Suchtreffer statt Direktlink.'
   - datum: 2024-01-23
     typ: delegiert
     titel: 'Постановление Правительства Республики Казахстан от 23 января 2024 года № 25 „Об определении
@@ -1834,10 +1824,8 @@ regelwerke:
     sprache: ru
     urheber: ИПС „Әділет"
     verifiziert: true
-    notiz: 'Amtliche konsolidierte Fassung. In dieser Sitzung wurde nur der Kopf des Dokuments geprüft,
-      nicht der Volltext auf KI-Bezugspunkte durchsucht.
-
-      '
+    notiz: Amtliche konsolidierte Fassung. Wurde nur der Kopf des Dokuments geprüft, nicht der Volltext auf
+      KI-Bezugspunkte durchsucht.
   offene_punkte:
   - 'Volltextauswertung steht aus. Zu prüfen wäre insbesondere, ob die Liste der zwingend zu veröffentlichenden
     Informationen (offene Daten) durch den Digitalkodex um Angaben zu eingesetzten algorithmischen Systemen
@@ -2011,10 +1999,8 @@ regelwerke:
     sprache: ru
     urheber: Präsident der Republik Kasachstan (K. Tokajew)
     verifiziert: true
-    notiz: 'Umfangreiches Dokument (rund 160 000 Zeichen). In dieser Sitzung nur nach Regulierungsbezügen
-      durchsucht, nicht vollständig ausgewertet.
-
-      '
+    notiz: Umfangreiches Dokument (rund 160 000 Zeichen). Nur nach Regulierungsbezügen durchsucht, nicht vollständig
+      ausgewertet.
   - datum: 2025-10-13
     typ: leitlinie
     titel: 'Указ Президента РК от 13 октября 2025 года № 1042 „О мерах по реализации Послания Главы государства
@@ -2148,7 +2134,7 @@ regelwerke:
     der notwendigen Bedingungen für Einführung und Entwicklung der KI sowie Bestimmung der rechtlichen,
     technologischen und wirtschaftlichen Grundlagen) und Art. 6 (drei neue Zuständigkeiten der Fachbehörde:
     Bedingungen für Investitionen in die KI-Richtung schaffen; technische Infrastruktur für die KI-gestützte
-    Verarbeitung der Daten staatlicher Organe bilden; Aus-, Fort- und Weiterbildung von KI-Fachkräften
+    Verarbeitung der Daten staatlicher Organe bilden; aus-, Fort- und Weiterbildung von KI-Fachkräften
     organisieren).
 
     '
@@ -2766,9 +2752,7 @@ regelwerke:
     sprache: ru
     urheber: lex.uz
     verifiziert: false
-    notiz: 'Nur als alternativer Zugang genannt; in dieser Sitzung nicht abgerufen.
-
-      '
+    notiz: Nur als alternativer Zugang genannt;
   offene_punkte:
   - 'Die Anlagen 1 bis 3 (Strategie, Maßnahmenplan 2024–2026, Big-Data-Liste) wurden nicht im Einzelnen
     ausgewertet.
@@ -3017,10 +3001,8 @@ regelwerke:
     sprache: ru
     urheber: Präsident der Republik Usbekistan
     verifiziert: true
-    notiz: 'In dieser Sitzung nur nach KI-Bezügen durchsucht (drei Fundstellen), nicht vollständig ausgewertet.
-      Das genaue Veröffentlichungs- und Inkrafttretensdatum wurde nicht geprüft.
-
-      '
+    notiz: Nur nach KI-Bezügen durchsucht (drei Fundstellen), nicht vollständig ausgewertet. Das genaue Veröffentlichungs-
+      und Inkrafttretensdatum wurde nicht geprüft.
   offene_punkte:
   - 'Inkrafttretensdatum nicht verifiziert; die lex.uz-Karte wurde nicht abgerufen.
 
@@ -3091,9 +3073,7 @@ regelwerke:
     sprache: ru
     urheber: Präsident der Republik Usbekistan
     verifiziert: true
-    notiz: '23 Fundstellen für „искусственный интеллект". In dieser Sitzung nur Abschnitt I (Ziele) ausgewertet.
-
-      '
+    notiz: 23 Fundstellen für „искусственный интеллект". Nur Abschnitt I (Ziele) ausgewertet.
   - datum: 2026-07-06
     typ: leitlinie
     titel: 'Usbekische Fassung desselben Erlasses („Давлат аудити фаолиятида сунъий интеллект…")
@@ -3164,10 +3144,7 @@ regelwerke:
     sprache: ru
     urheber: Präsident der Republik Usbekistan
     verifiziert: true
-    notiz: 'In dieser Sitzung nur über den Verweis in ПП-358 nachgewiesen und im Titel geprüft; der Volltext
-      wurde nicht ausgewertet.
-
-      '
+    notiz: Nur über den Verweis in ПП-358 nachgewiesen und im Titel geprüft; der Volltext wurde nicht ausgewertet.
   offene_punkte:
   - 'Volltext nicht ausgewertet; Inkrafttretensdatum nicht verifiziert. Zu prüfen wäre, ob die Strategie
     selbst KI-Zielgrößen enthält, die von denen der ПП-358 abweichen.

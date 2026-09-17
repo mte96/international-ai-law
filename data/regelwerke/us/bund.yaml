@@ -31,7 +31,7 @@ regelwerke:
   anwendungsdaten:
   - datum: 2023-10-30
     was_gilt: Unterzeichnung, sofortige Wirkung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Executive_Order_14110
   - datum: 2025-01-20
     was_gilt: 'Vollständige Aufhebung durch EO 14148. Meldepflichten für Foundation-Model-Trainingsläufe
@@ -307,7 +307,7 @@ regelwerke:
       die Grundsätze gelten sofort für alle neuen LLM-Beschaffungen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawfaremedia.org/article/omb-releases-guidance-on-trump-s--woke-ai--executive-order
   themenachsen:
   - sektor-oeffentlich
@@ -359,7 +359,7 @@ regelwerke:
     url: https://www.lawfaremedia.org/article/omb-releases-guidance-on-trump-s--woke-ai--executive-order
     sprache: en
     urheber: Lawfare
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt Inhalt und Fristen von M-26-04, insbesondere die Offenlegungskataloge und die Zwei-Jahres-Sunset-Klausel.
 
       '
@@ -529,10 +529,7 @@ regelwerke:
     sprache: en
     urheber: The White House
     verifiziert: false
-    notiz: 'Über die Jahresübersicht der Executive Orders 2025 belegt; Einzeldokument in dieser Sitzung
-      nicht abgerufen.
-
-      '
+    notiz: Über die Jahresübersicht der Executive Orders 2025 belegt;
   offene_punkte:
   - Genaue Federal-Register-Fundstelle und Umsetzungsstand nicht verifiziert.
   monitoring_quellen:
@@ -703,7 +700,7 @@ regelwerke:
       kollidieren; BEAD-Mitteilung zur Förderkonditionierung; FTC-Policy-Statement; Einleitung des FCC-Verfahrens.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.whitecase.com/insight-alert/state-ai-laws-under-federal-scrutiny-key-takeaways-executive-order-establishing
   themenachsen:
   - governance
@@ -759,7 +756,7 @@ regelwerke:
     url: https://www.whitecase.com/insight-alert/state-ai-laws-under-federal-scrutiny-key-takeaways-executive-order-establishing
     sprache: en
     urheber: White & Case LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Systematische Aufbereitung der Fristen und der verfassungsrechtlichen Grenzen; hält fest,
       dass die Anordnung einzelstaatliches Recht allein nicht verdrängen kann.
 
@@ -770,7 +767,7 @@ regelwerke:
     url: https://www.jenner.com/en/news-insights/client-alerts/doj-joins-xai-in-lawsuit-challenging-colorado-ai-act
     sprache: en
     urheber: Jenner & Block LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt die erste operative Handlung der Task Force: Intervention in xAI v. Weiser, D. Colo.
       1:26-cv-01515. Klage von xAI am 09.04.2026, DOJ-Interventionsantrag am 24.04.2026.
 
@@ -782,10 +779,8 @@ regelwerke:
     sprache: en
     urheber: Lawfare
     verifiziert: false
-    notiz: 'Analysiert die Spending-Clause-Probleme der BEAD-Konditionierung. In dieser Sitzung nur über
-      Suchtreffer belegt, nicht abgerufen.
-
-      '
+    notiz: Analysiert die Spending-Clause-Probleme der BEAD-Konditionierung. Nur über Suchtreffer belegt,
+      nicht abgerufen.
   offene_punkte:
   - Liste des Handelsministeriums nach Sec. 4 bei Rechercheschluss nicht veröffentlicht — Frist 11.03.2026
     verstrichen.
@@ -906,10 +901,7 @@ regelwerke:
     sprache: en
     urheber: Congressional Research Service
     verifiziert: false
-    notiz: 'Bestätigt die EO-Nummer 14409. congress.gov ist in dieser Sitzung technisch nicht abrufbar;
-      nur über Suchtreffer belegt.
-
-      '
+    notiz: Bestätigt die EO-Nummer 14409. nur über Suchtreffer belegt.
   offene_punkte:
   - Schwellenwerte für „covered frontier models" sind eingestuft — Anbieter können nicht selbst feststellen,
     ob sie erfasst wären.
@@ -977,11 +969,8 @@ regelwerke:
     url: https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition
     sprache: en
     urheber: Mintz
-    verifiziert: true
-    notiz: 'Einzige in dieser Sitzung auffindbare Belegstelle für NSPM-11, einschließlich Datum und Ablösung
-      von NSM-25.
-
-      '
+    verifiziert: false
+    notiz: Einzige auffindbare Belegstelle für NSPM-11, einschließlich Datum und Ablösung von NSM-25.
   offene_punkte:
   - Primärquelle fehlt. Volltext, exakter Titel und Veröffentlichungsstatus unbestätigt — vor Verwendung
     zwingend nachzurecherchieren.
@@ -1052,7 +1041,7 @@ regelwerke:
     url: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
     sprache: en
     urheber: Hunton Andrews Kurth LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Datum und Ablösungsverhältnis M-24-10 → M-25-21 sowie die inhaltlichen Verschiebungen.
   offene_punkte:
   - Volltext des Memorandums über whitehouse.gov nicht abgerufen.
@@ -1095,7 +1084,7 @@ regelwerke:
   anwendungsdaten:
   - datum: 2025-04-03
     was_gilt: Ablösung durch M-25-22.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
   themenachsen:
   - sektor-oeffentlich
@@ -1156,20 +1145,20 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-04-03
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
   anwendungsdaten:
   - datum: 2025-06-02
     was_gilt: '60 Tage: Benennung der Chief AI Officers.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
   - datum: 2025-07-02
     was_gilt: '90 Tage: KI-Governance-Boards in den CFO-Act-Behörden.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
   - datum: 2025-09-30
     was_gilt: '180 Tage: Behördenstrategien zum Abbau von Hemmnissen der KI-Einführung.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
   themenachsen:
   - sektor-oeffentlich
@@ -1199,7 +1188,7 @@ regelwerke:
     url: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
     sprache: en
     urheber: Hunton Andrews Kurth LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierte Aufstellung der Fristen und der Abweichungen gegenüber M-24-10.
   - datum: 2025-04-07
     typ: stellungnahme
@@ -1208,7 +1197,7 @@ regelwerke:
     sprache: en
     urheber: Covington & Burling LLP
     verifiziert: false
-    notiz: Zweitquelle zur Absicherung der Fristen; in dieser Sitzung nicht abgerufen.
+    notiz: Zweitquelle zur Absicherung der Fristen;
   offene_punkte:
   - Volltext über whitehouse.gov nicht abgerufen; Fristen aus Sekundärquelle.
   - Wie viele Waiver für high-impact AI tatsächlich erteilt wurden — die Veröffentlichungspflicht ist
@@ -1244,12 +1233,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-04-03
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
   anwendungsdaten:
   - datum: 2025-10-20
     was_gilt: '200 Tage: Aufbau des GSA/OMB-Repositoriums für Beschaffungspraktiken.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
   themenachsen:
   - sektor-oeffentlich
@@ -1277,7 +1266,7 @@ regelwerke:
     url: https://www.hunton.com/privacy-and-cybersecurity-law-blog/omb-issues-revised-policies-on-ai-use-and-procurement-by-federal-agencies
     sprache: en
     urheber: Hunton Andrews Kurth LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Inhalt und Fristen von M-25-22.
   offene_punkte:
   - Ob und wie die Präferenz für US-Lösungen in konkreten Ausschreibungen operationalisiert wird.
@@ -1315,20 +1304,20 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-12-11
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawfaremedia.org/article/omb-releases-guidance-on-trump-s--woke-ai--executive-order
   anwendungsdaten:
   - datum: 2025-12-11
     was_gilt: Sofortige Anwendung auf alle neuen LLM-Beschaffungsaufträge.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawfaremedia.org/article/omb-releases-guidance-on-trump-s--woke-ai--executive-order
   - datum: 2026-03-11
     was_gilt: Behörden mussten ihre Beschaffungsrichtlinien angepasst haben.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawfaremedia.org/article/omb-releases-guidance-on-trump-s--woke-ai--executive-order
   - datum: 2027-12-11
     was_gilt: Sunset des Memorandums nach zwei Jahren, sofern nicht verlängert.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawfaremedia.org/article/omb-releases-guidance-on-trump-s--woke-ai--executive-order
   themenachsen:
   - sektor-oeffentlich
@@ -1360,7 +1349,7 @@ regelwerke:
     url: https://www.lawfaremedia.org/article/omb-releases-guidance-on-trump-s--woke-ai--executive-order
     sprache: en
     urheber: Lawfare
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt Datum, Unterzeichner (OMB-Direktor Vought), Offenlegungskatalog, Frist 11.03.2026 und
       Sunset nach zwei Jahren.
 
@@ -1466,7 +1455,7 @@ regelwerke:
     url: https://www.itic.org/news-events/techwonk-blog/americas-ai-action-plan-progress-priorities-and-next-steps
     sprache: en
     urheber: Information Technology Industry Council
-    verifiziert: true
+    verifiziert: false
     notiz: 'Einjahresbilanz aus Industriesicht. Benennt Umsetzungserfolge (EO 14365, EO 14409, Exportprogramm,
       Ratepayer Protection Pledge, AI Literacy Framework) und offene Punkte (gesetzliche Preemption, Genehmigungsreform).
       Keine amtliche Zählung.
@@ -1563,10 +1552,7 @@ regelwerke:
     sprache: en
     urheber: Ropes & Gray LLP
     verifiziert: false
-    notiz: 'Analyse des Gesetzesvorschlags aus EO 14365 Sec. 8. In dieser Sitzung nur über Suchtreffer
-      belegt.
-
-      '
+    notiz: Analyse des Gesetzesvorschlags aus EO 14365 Sec. 8. Nur über Suchtreffer belegt.
   offene_punkte:
   - Volltext der Gesetzesempfehlungen vom März 2026 nicht abgerufen.
   - Ob und wann OSTP eine konsolidierte Liste KI-hemmender Bundesvorschriften veröffentlicht.
@@ -1736,7 +1722,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.fisherphillips.com/en/insights/insights/congress-again-drops-bid-to-block-state-ai-laws
   anwendungsdaten:
   - datum: 2025-07-01
@@ -1771,7 +1757,7 @@ regelwerke:
     url: https://www.fisherphillips.com/en/insights/insights/congress-again-drops-bid-to-block-state-ai-laws
     sprache: en
     urheber: Fisher Phillips LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt die Chronologie beider gescheiterter Anläufe: zehnjähriges Moratorium, Abschwächung
       auf fünf Jahre, Streichung 99:1, danach NDAA-Versuch.
 
@@ -1810,19 +1796,19 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
   anwendungsdaten:
   - datum: 2025-12-04
     was_gilt: Bestätigung der Herausnahme durch die Mehrheitsführung des Repräsentantenhauses.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.fisherphillips.com/en/insights/insights/congress-again-drops-bid-to-block-state-ai-laws
   - datum: 2025-12-07
     was_gilt: 'Konferenzfassung des NDAA FY2026 vorgelegt; enthält ausdrücklich keine Verdrängung einzelstaatlicher
       KI-Gesetze und nicht den GAIN AI Act.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
   - datum: 2025-12-11
     was_gilt: Erlass von EO 14365 als exekutive Ersatzlösung.
@@ -1850,7 +1836,7 @@ regelwerke:
     url: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
     sprache: en
     urheber: Akin Gump Strauss Hauer & Feld LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Analyse der Konferenzfassung; belegt sowohl den Ausschluss der Preemption als auch den Ausschluss
       des GAIN AI Act.
 
@@ -1891,16 +1877,16 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/unpacking-the-great-american-artificial-intelligence-act-of-2026/
   anwendungsdaten:
   - datum: 2026-06-04
     was_gilt: Vorstellung des Diskussionsentwurfs.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/unpacking-the-great-american-artificial-intelligence-act-of-2026/
   - datum: 2029-12-31
     was_gilt: Vorgesehener Sunset der dreijährigen Verdrängungsregelung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/unpacking-the-great-american-artificial-intelligence-act-of-2026/
   themenachsen:
   - gpai
@@ -1944,7 +1930,7 @@ regelwerke:
     url: https://www.techpolicy.press/unpacking-the-great-american-artificial-intelligence-act-of-2026/
     sprache: en
     urheber: Tech Policy Press
-    verifiziert: true
+    verifiziert: false
     notiz: 'Ausführlichste auffindbare Analyse: Titelstruktur, Adressatenkreis, Verdrängungsumfang, Auditregime,
       CAISI-Finanzierung, Kritik.
 
@@ -2029,7 +2015,7 @@ regelwerke:
     url: https://legisletter.org/issues/ai-regulation
     sprache: en
     urheber: Legisletter
-    verifiziert: true
+    verifiziert: false
     notiz: 'Aggregierte Übersicht der KI-Vorlagen der 119. Kongressperiode mit Bill-Nummern, Antragstellern
       und Verfahrensstand. Sekundärquelle; Bill-Nummern sind vor Verwendung gegen congress.gov zu prüfen.
 
@@ -2074,22 +2060,22 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-05-19
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act
   anwendungsdaten:
   - datum: 2025-02-13
     was_gilt: Annahme im Senat durch unanimous consent.
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act
   - datum: 2025-04-28
     was_gilt: Annahme im Repräsentantenhaus mit 409 zu 2 Stimmen.
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act
   - datum: 2025-05-19
     was_gilt: 'Unterzeichnung durch den Präsidenten; Strafvorschriften sofort anwendbar. Public Law 119-12.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act
   - datum: 2026-05-19
     was_gilt: 'Ende der einjährigen Übergangsfrist: Plattformen müssen ein Melde- und Entfernungsverfahren
@@ -2154,7 +2140,7 @@ regelwerke:
     url: https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act
     sprache: en
     urheber: Wikipedia
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt Abstimmungsergebnisse, Public-Law-Nummer und die verfassungsrechtliche Kritik. Sekundärquelle;
       congress.gov war nicht abrufbar.
 
@@ -2224,7 +2210,7 @@ regelwerke:
     url: https://legisletter.org/issues/ai-regulation
     sprache: en
     urheber: Legisletter
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Bill-Nummer, Antragsteller, Senatsannahme und Inhalt.
   offene_punkte:
   - Exaktes Datum und Abstimmungsergebnis der Senatsannahme nicht verifiziert.
@@ -2317,10 +2303,8 @@ regelwerke:
     sprache: en
     urheber: U.S. Congress
     verifiziert: false
-    notiz: 'Amtliche Verfahrensakte. In dieser Sitzung nicht abrufbar (congress.gov robots.txt); URL aus
-      Suchtreffer, Struktur amtlich.
-
-      '
+    notiz: Amtliche Verfahrensakte. Nicht abrufbar (congress.gov robots.txt); URL aus Suchtreffer, Struktur
+      amtlich.
   - datum: 2026-06-01
     typ: entwurf
     titel: H.R.8915 — NO FAKES Act of 2026 (Text, introduced in House)
@@ -2429,7 +2413,7 @@ regelwerke:
     sprache: en
     urheber: Berkeley Technology Law Journal
     verifiziert: false
-    notiz: Rechtswissenschaftliche Einordnung; in dieser Sitzung nicht abgerufen.
+    notiz: Rechtswissenschaftliche Einordnung;
   offene_punkte:
   - Ausschussstand beider Fassungen unbekannt.
   - Ob die Vermutungsregel mit dem Schutz von Geschäftsgeheimnissen nach dem Defend Trade Secrets Act
@@ -2524,7 +2508,7 @@ regelwerke:
     sprache: en
     urheber: Covington & Burling LLP
     verifiziert: false
-    notiz: Inhaltliche Analyse; Abruf in dieser Sitzung wegen Weiterleitungsschleife gescheitert.
+    notiz: Inhaltliche Analyse; Abruf wegen Weiterleitungsschleife gescheitert.
   offene_punkte:
   - Exakte Daten von Einbringung und Ausschussabstimmung nicht verifiziert.
   - Verhältnis zu den einzelstaatlichen Companion-Chatbot-Gesetzen (Kalifornien SB 243) nicht geklärt.
@@ -2636,7 +2620,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://ari.us/senate-ndaa-takes-major-step-to-strengthen-ai-chip-export-controls/
     fundstelle_norm: Kein Inkrafttreten — am 14.07.2026 in das Manager's Amendment zum Senats-NDAA fuer
       das Haushaltsjahr 2027 aufgenommen; die Konferenzfassung lag am 06.09.2026 nicht vor
@@ -2646,7 +2630,7 @@ regelwerke:
       Act und MATCH Act.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://ari.us/senate-ndaa-takes-major-step-to-strengthen-ai-chip-export-controls/
   themenachsen:
   - sicherheit-export
@@ -2673,7 +2657,7 @@ regelwerke:
     url: https://ari.us/senate-ndaa-takes-major-step-to-strengthen-ai-chip-export-controls/
     sprache: en
     urheber: Americans for Responsible Innovation
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt die Aufnahme der drei Exportkontrollvorlagen in das Manager''s Amendment und beschreibt
       deren Inhalt.
 
@@ -2685,7 +2669,7 @@ regelwerke:
     sprache: en
     urheber: U.S. House Select Committee on the CCP
     verifiziert: false
-    notiz: Amtliche Ausschussmitteilung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche Ausschussmitteilung;
   offene_punkte:
   - Bill-Nummern und exakte Ausschussdaten nicht verifiziert.
   - Ob die Klauseln die NDAA-Konferenz überstehen — im Vorjahr scheiterte der GAIN AI Act an genau dieser
@@ -2728,7 +2712,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
   anwendungsdaten:
   - datum: 2025-12-07
@@ -2737,7 +2721,7 @@ regelwerke:
       AI chips to China and other arms-embargoed countries."
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
   themenachsen:
   - sicherheit-export
@@ -2762,7 +2746,7 @@ regelwerke:
     url: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
     sprache: en
     urheber: Akin Gump Strauss Hauer & Feld LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt den Ausschluss aus der Konferenzfassung im Wortlaut.
   - datum: 2025-11-01
     typ: stellungnahme
@@ -2771,7 +2755,7 @@ regelwerke:
     sprache: en
     urheber: Center for Strategic and International Studies
     verifiziert: false
-    notiz: Die einflussreichste Gegenposition; in dieser Sitzung nicht abgerufen.
+    notiz: Die einflussreichste Gegenposition;
   offene_punkte:
   - Ob H.R. 5885 als eigenständige Vorlage weiterverfolgt wird.
   monitoring_quellen:
@@ -2816,7 +2800,7 @@ regelwerke:
   anwendungsdaten:
   - datum: 2025-12-07
     was_gilt: Vorlage der Konferenzfassung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
   themenachsen:
   - sicherheit-export
@@ -2844,14 +2828,14 @@ regelwerke:
     sprache: en
     urheber: Morgan, Lewis & Bockius LLP
     verifiziert: false
-    notiz: Belegt das Inkrafttreten; in dieser Sitzung nicht abgerufen.
+    notiz: Belegt das Inkrafttreten;
   - datum: 2025-12-10
     typ: ausschussbericht
     titel: Congress Moves Forward with AI Measures in Key Defense Legislation
     url: https://www.akingump.com/en/insights/alerts/congress-moves-forward-with-ai-measures-in-key-defense-legislation
     sprache: en
     urheber: Akin Gump Strauss Hauer & Feld LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Detailanalyse der KI-Abschnitte der Konferenzfassung.
   - datum: 2026-01-01
     typ: bericht
@@ -2860,7 +2844,7 @@ regelwerke:
     sprache: en
     urheber: Congressional Research Service
     verifiziert: false
-    notiz: Amtliche Übersicht; congress.gov in dieser Sitzung nicht abrufbar.
+    notiz: Amtliche Übersicht;
   offene_punkte:
   - Public-Law-Nummer und Unterzeichnungsdatum nicht verifiziert.
   - Einzelne KI-Abschnitte nicht im Detail ausgewertet.
@@ -2955,19 +2939,17 @@ regelwerke:
     url: https://legisletter.org/issues/ai-regulation
     sprache: en
     urheber: Legisletter
-    verifiziert: true
-    notiz: 'Einzige in dieser Sitzung erreichbare zusammenfassende Übersicht der KI-Vorlagen mit Bill-Nummern
-      und Antragstellern. Sekundärquelle — Bill-Nummern und Verfahrensstände sind gegen congress.gov zu
-      prüfen, bevor sie zitiert werden.
-
-      '
+    verifiziert: false
+    notiz: Einzige erreichbare zusammenfassende Übersicht der KI-Vorlagen mit Bill-Nummern und Antragstellern.
+      Sekundärquelle — Bill-Nummern und Verfahrensstände sind gegen congress.gov zu prüfen, bevor sie zitiert
+      werden.
   - datum: 2026-07-08
     typ: bericht
     titel: 'AI: The Washington Report — July 2026 Edition'
     url: https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition
     sprache: en
     urheber: Mintz
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt die Markup-Runde des House Science Committee vom 25.06.2026 (zehn KI-Vorlagen einstimmig
       oder nahezu einstimmig angenommen) und den AI Labeling Act of 2026.
 
@@ -3035,7 +3017,7 @@ regelwerke:
       zu erhalten.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.axios.com/2026/02/13/industry-lutnick-ai-risk-framework
   - datum: 2026-04-07
     was_gilt: 'Ankündigung eines Critical Infrastructure Profile (Konzeptnotiz) für KI-Anwendungen in
@@ -3087,7 +3069,7 @@ regelwerke:
     url: https://www.axios.com/2026/02/13/industry-lutnick-ai-risk-framework
     sprache: en
     urheber: Axios
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt das Verbändeschreiben, die Unterzeichner und die Sorge vor einem „broad rewrite", der
       Compliance-Investitionen entwertet.
 
@@ -3099,7 +3081,7 @@ regelwerke:
     sprache: en
     urheber: NIST Visiting Committee on Advanced Technology
     verifiziert: false
-    notiz: Statusbericht an das Beratungsgremium; in dieser Sitzung nicht abgerufen.
+    notiz: Statusbericht an das Beratungsgremium;
   offene_punkte:
   - Zeitpunkt und Umfang der Überarbeitung offen; keine Entwurfsfassung veröffentlicht (Stand 27.08.2026).
   - Ob eine Neufassung als AI RMF 2.0 oder als Ergänzung erscheint — für vertragliche Verweise entscheidend.
@@ -3277,7 +3259,7 @@ regelwerke:
     url: https://www.beneschlaw.com/insight/one-year-in-ftcs-operation-ai-comply-continues-under-new-administration-signaling-enduring-enforcement-focus/
     sprache: en
     urheber: Benesch Friedlander Coplan & Aronoff LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Fallübersicht mit Verfahrensausgängen und dem Befund, dass die Initiative parteiübergreifend
       fortgeführt wird.
 
@@ -3531,7 +3513,7 @@ regelwerke:
     quelle: https://www.fda.gov/news-events/press-announcements/fda-issues-comprehensive-draft-guidance-developers-artificial-intelligence-enabled-medical-devices
   - datum: 2025-11-06
     was_gilt: Sitzung des Digital Health Advisory Committee zu generativer KI in der psychischen Gesundheit.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hlc.com/en/publications/fda-device-guidance-agenda-what-to-watch-in-2026
   themenachsen:
   - sektor-medizin
@@ -3579,14 +3561,14 @@ regelwerke:
     sprache: en
     urheber: FDA / CDRH
     verifiziert: false
-    notiz: Endfassung der PCCP-Leitlinie; Datum in dieser Sitzung nicht bestätigt.
+    notiz: Endfassung der PCCP-Leitlinie;
   - datum: 2026-01-01
     typ: uebersicht
     titel: 'FDA Device Guidance Agenda: What to Watch in 2026'
     url: https://www.hlc.com/en/publications/fda-device-guidance-agenda-what-to-watch-in-2026
     sprache: en
     urheber: Hogan Lovells
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt die A-/B-Listen-Einordnung: PCCP auf der A-Liste, die KI-Lifecycle-Leitlinie auf der
       B-Liste. Enthält abweichende Datierung des Entwurfs (Januar 2024) — Widerspruch vermerkt.
 
@@ -3598,7 +3580,7 @@ regelwerke:
     sprache: en
     urheber: FDA / CDRH
     verifiziert: false
-    notiz: Volltext des Entwurfs; in dieser Sitzung nicht abgerufen.
+    notiz: Volltext des Entwurfs;
   offene_punkte:
   - Widerspruch bei der Datierung des Lifecycle-Entwurfs (Januar 2025 vs. Januar 2024) — nicht aufgelöst.
   - Endfassung der Lifecycle-Leitlinie nicht absehbar (B-Liste).
@@ -3634,7 +3616,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-03-18
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.debevoise.com/insights/publications/2024/03/ai-enforcement-starts-with-washing-the-sec-charges
     fundstelle_norm: Kein Rechtsakt mit Inkrafttretensvorschrift; der Eintrag buendelt die Verfolgungspraxis
       nach Securities Act 1933, Exchange Act 1934 und Advisers Act 1940. Eingetragen ist der Tag der ersten
@@ -3688,7 +3670,7 @@ regelwerke:
     url: https://www.dlapiper.com/en-us/insights/publications/ai-outlook/2025/sec-emphasizes-focus-on-ai-washing
     sprache: en
     urheber: DLA Piper
-    verifiziert: true
+    verifiziert: false
     notiz: 'Fallübersicht mit Delphia, Global Predictions, Presto Automation und Nate sowie Beschreibung
       des CETU-Mandats.
 
@@ -3700,7 +3682,7 @@ regelwerke:
     sprache: en
     urheber: Congressional Research Service
     verifiziert: false
-    notiz: Amtliche Übersicht; congress.gov in dieser Sitzung nicht abrufbar.
+    notiz: Amtliche Übersicht;
   offene_punkte:
   - Formaler Status der 2023 vorgeschlagenen PDA-Regel (Conflicts of Interest Associated with the Use
     of Predictive Data Analytics) nicht verifiziert — Rücknahme wahrscheinlich, aber nicht belegt.
@@ -3865,7 +3847,7 @@ regelwerke:
     was_gilt: 'Dokumentation der Entfernung durch Kanzleianalysen; exakte Entfernungsdaten nicht feststellbar.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.cooley.com/news/insight/2025/2025-02-21-gone-but-not-forgotten-federal-laws-still-apply-despite-guidance-disappearance-act
   themenachsen:
   - arbeit
@@ -3900,7 +3882,7 @@ regelwerke:
     url: https://www.cooley.com/news/insight/2025/2025-02-21-gone-but-not-forgotten-federal-laws-still-apply-despite-guidance-disappearance-act
     sprache: en
     urheber: Cooley LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Vollständigste auffindbare Aufstellung der entfernten Dokumente mit Ursprungsdaten; belegt
       auch die fehlende förmliche Rücknahme.
 
@@ -4035,7 +4017,7 @@ regelwerke:
     url: https://authorsguild.org/news/us-copyright-office-ai-report-part-3-what-authors-should-know/
     sprache: en
     urheber: The Authors Guild
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt Datum, Vorabstatus, die Zusage „no substantive difference" und den zeitlichen Zusammenhang
       mit der Entlassung Perlmutters.
 
@@ -4046,7 +4028,7 @@ regelwerke:
     url: https://authorsalliance.substack.com/p/what-is-happening-with-the-register
     sprache: en
     urheber: Authors Alliance
-    verifiziert: true
+    verifiziert: false
     notiz: 'Verfahrensstand: Perlmutter v. Blanche, D.D.C. 25-cv-1659 und D.C. Cir. 25-5285; einstweilige
       Anordnung im September 2025, Zurückstellung durch den Supreme Court im Oktober 2025, Amtsausübung
       dauert an.
@@ -4058,7 +4040,7 @@ regelwerke:
     url: https://itsartlaw.org/art-law/unpacking-the-us-copyright-offices-third-report-on-generative-ai/
     sprache: en
     urheber: Center for Art Law
-    verifiziert: true
+    verifiziert: false
     notiz: 'Detailanalyse der Fair-Use-Prüfung, der Market-Dilution-Theorie und der Empfehlung erweiterter
       kollektiver Lizenzen.
 
@@ -4254,7 +4236,7 @@ regelwerke:
     sprache: en
     urheber: Wiley Rein LLP
     verifiziert: false
-    notiz: Darstellung von Rücknahme und Ersatzleitlinien; in dieser Sitzung nicht abgerufen.
+    notiz: Darstellung von Rücknahme und Ersatzleitlinien;
   - datum: 2025-06-17
     typ: stellungnahme
     titel: AI Diffusion Rule Out but BIS Increases Compliance Obligations for Companies
@@ -4362,7 +4344,7 @@ regelwerke:
     url: https://www.mayerbrown.com/en/insights/publications/2026/01/administration-policies-on-advanced-ai-chips-codified
     sprache: en
     urheber: Mayer Brown LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Detaillierteste auffindbare Darstellung des Zusicherungskatalogs einschließlich der Modellgewichts-
       und Fernzugriffsklauseln.
 

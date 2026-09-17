@@ -886,8 +886,8 @@ regelwerke:
     urheber: République française, Légifrance
     verifiziert: false
     notiz: Kanonische Fundstelle des Einzelartikels; die Adresse ist über die Trefferliste („Article 226-8-1
-      - Code pénal - Légifrance“) belegt. Fünf Abrufversuche zu unterschiedlichen Zeitpunkten wurden mit
-      HTTP 403 beantwortet; der Wortlaut ist deshalb NICHT in dieser Sitzung am amtlichen Text geprüft.
+      - Code pénal - Légifrance“) belegt. Fünf Abrufversuche zu unterschiedlichen Zeitpunkten wurden mit HTTP
+      403 beantwortet; der Wortlaut ist deshalb NICHT am amtlichen Text geprüft.
   - datum: 2024-05-21
     typ: endfassung
     titel: Article 6 — LOI n° 2024-449 du 21 mai 2024 (Bericht über die Ausweitung der OCLCTIC-Befugnisse)
@@ -1806,9 +1806,9 @@ regelwerke:
     sprache: fr
     urheber: République française
     verifiziert: false
-    notiz: 'KEIN amtlicher Volltext abrufbar: Légifrance beantwortet Kodexartikel-Abrufe in dieser Sitzung
-      durchgängig mit HTTP 403, und die LEGIARTI-Kennung konnte mangels Suchkontingent nicht ermittelt
-      werden. `url` bleibt deshalb leer. Der Inhalt der Norm ist NICHT in dieser Sitzung geprüft.'
+    notiz: 'KEIN amtlicher Volltext abrufbar: Légifrance beantwortet Kodexartikel-Abrufe durchgängig mit HTTP
+      403, und die LEGIARTI-Kennung konnte mangels Suchkontingent nicht ermittelt werden. `url` bleibt deshalb
+      leer. Der Inhalt der Norm ist NICHT geprüft.'
   - datum: 2025-09-09
     typ: uebersicht
     titel: Les autorités compétentes pour la mise en œuvre du règlement européen sur l'IA (Abschnitt Anhang-I-Produkte)
@@ -1887,7 +1887,7 @@ regelwerke:
     sprache: fr
     urheber: Direction générale des Entreprises
     verifiziert: true
-    notiz: Selbst geöffnet. Einzige in dieser Sitzung verifizierte amtliche Quelle für die Rolle der ACPR.
+    notiz: Selbst geöffnet. Einzige verifizierte amtliche Quelle für die Rolle der ACPR.
   offene_punkte:
   - 'Die eigenen Veröffentlichungen der ACPR zu künstlicher Intelligenz (Diskussionspapiere, Aufsichtserwartungen,
     Berichte des Pôle Fintech-Innovation) konnten NICHT ermittelt werden: acpr.banque-france.fr antwortet

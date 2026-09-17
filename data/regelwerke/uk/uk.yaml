@@ -206,7 +206,7 @@ regelwerke:
     url: https://chrisholmes.co.uk/hansard/artificial-intelligence-regulation-bill-hl-second-reading-lords-debates-2/
     sprache: en
     urheber: Lord Holmes of Richmond / Hansard
-    verifiziert: true
+    verifiziert: false
     notiz: Einzige inhaltliche Debatte des Entwurfs; enthält die Klausel-für-Klausel-Begründung.
   - datum: 2026-06-04
     typ: plenarprotokoll
@@ -292,7 +292,7 @@ regelwerke:
     sprache: en
     urheber: House of Lords Library
     verifiziert: false
-    notiz: Ausführliche Klauselanalyse. URL aus Suchergebnis, in dieser Sitzung nicht abgerufen.
+    notiz: Ausführliche Klauselanalyse. URL aus Suchergebnis, nicht abgerufen.
   offene_punkte:
   - Wiedereinbringung in der Session 2026-27 nicht ersichtlich.
   - Ob die Regierung die Substanz in die geplante ICO-Verhaltensregel zu KI und automatisierten Entscheidungen
@@ -386,7 +386,7 @@ regelwerke:
     url: https://www.pinsentmasons.com/out-law/news/sandboxes-central-regulating-growth-plans
     sprache: en
     urheber: Pinsent Masons
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Growth Duty, strategic steers und dass die Einbringung noch aussteht.
   - datum: 2025-10-21
     typ: konsultation
@@ -532,7 +532,7 @@ regelwerke:
     url: https://www.womblebonddickinson.com/uk/insights/articles-and-briefings/duaa-commencement-no-6-regulations-are-now-force-what-organisations
     sprache: en
     urheber: Womble Bond Dickinson
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Liste der zum 05.02.2026 in Kraft getretenen Vorschriften und der Nachzügler.
   offene_punkte:
   - Die Verordnung nach Art. 22D UK GDPR (Konkretisierung 'meaningful human involvement') ist nicht erlassen;
@@ -608,7 +608,7 @@ regelwerke:
       OSA-Pflichten zu unterwerfen; außerdem 48-Stunden-Löschpflicht für intime Bilder.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
   themenachsen:
   - content
@@ -648,7 +648,7 @@ regelwerke:
     url: https://www.lewissilkin.com/insights/2026/02/23/online-safety-reforms-to-be-fast-tracked-amid-rising-ai-risks-102mk2r
     sprache: en
     urheber: Lewis Silkin
-    verifiziert: true
+    verifiziert: false
     notiz: Chronologie der beschleunigten Reformen; Ankündigung der Chatbot-Erweiterung am 16.02.2026.
   - datum: 2026-05-01
     typ: uebersicht
@@ -656,7 +656,7 @@ regelwerke:
     url: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
     sprache: en
     urheber: Osborne Clarke
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt s.-216-OSA-Änderung, 48-Stunden-Löschpflicht, Hash-Matching-Empfehlung für Herbst 2026.
   offene_punkte:
   - Die Verordnung, die eigenständige KI-Chatbots tatsächlich unter den OSA stellt, ist noch nicht erlassen.
@@ -699,12 +699,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-04-29
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Crime_and_Policing_Act_2026
   anwendungsdaten:
   - datum: 2026-04-29
     was_gilt: Royal Assent; einzelne Vorschriften treten erst durch Commencement Orders in Kraft.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
   themenachsen:
   - content
@@ -744,7 +744,7 @@ regelwerke:
     url: https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-digital-regulation
     sprache: en
     urheber: Osborne Clarke
-    verifiziert: true
+    verifiziert: false
     notiz: Royal Assent 29.04.2026; Details der OSA-Änderung und der Löschpflichten.
   offene_punkte:
   - 'Sektionsnummern der KI-Vorschriften nicht abschließend verifiziert; eine Sekundärquelle nennt s.
@@ -856,7 +856,7 @@ regelwerke:
     url: https://ipkitten.blogspot.com/2026/01/permission-to-appeal-granted-in-getty.html
     sprache: en
     urheber: The IPKat
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Berufungszulassung, Zitat [2025] EWHC 3343 (Ch) und die Ablehnung von Stabilitys Gegenantrag.
   offene_punkte:
   - Berufungstermin des Court of Appeal in Getty v Stability nicht bekannt; die Entscheidung wird die
@@ -960,7 +960,7 @@ regelwerke:
     sprache: en
     urheber: DSIT / DCMS / Intellectual Property Office
     verifiziert: false
-    notiz: Enthält die vier Optionen. In dieser Sitzung nicht direkt abgerufen.
+    notiz: Enthält die vier Optionen.
   - datum: 2025-12-15
     typ: bericht
     titel: 'Copyright and artificial intelligence: statement of progress under Section 137 Data (Use and
@@ -1302,7 +1302,7 @@ regelwerke:
     sprache: en
     urheber: UK Government
     verifiziert: false
-    notiz: Laufendes Umsetzungs-Dashboard. In dieser Sitzung nicht abgerufen.
+    notiz: Laufendes Umsetzungs-Dashboard.
   offene_punkte:
   - Publikationsdatum des Ursprungsplans (13.01.2025) nicht durch Primärquellenabruf verifiziert.
   - Die zugesagte öffentliche Konsultation zur KI-Regulierung ist weiterhin nicht eröffnet.
@@ -1391,10 +1391,8 @@ regelwerke:
     sprache: en
     urheber: DSIT / Ministry of Justice
     verifiziert: false
-    notiz: 'Erste sektorale Umsetzung. URL aus gov.uk-Suchergebnis; die Unterseiten (Overview, Eligibility,
-      Case studies) wurden in dieser Sitzung nicht einzeln abgerufen.
-
-      '
+    notiz: Erste sektorale Umsetzung. URL aus gov.uk-Suchergebnis; die Unterseiten (Overview, Eligibility,
+      Case studies) wurden nicht einzeln abgerufen.
   offene_punkte:
   - Regierungsantwort auf den Call for Evidence steht aus.
   - Bewerbungsschluss 27.09.2026 für das Rechtsdienstleistungs-Lab nur sekundärquellenbelegt (resultsense.com);
@@ -1506,7 +1504,7 @@ regelwerke:
     url: https://www.drcf.org.uk/siteassets/drcf/pdf-files/drcf-annual-report-2025-26.pdf
     sprache: en
     urheber: Digital Regulation Cooperation Forum
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt Mitglieder, Thematic Innovation Hub, Foresight-Papier zu agentischer KI (März 2026),
       Ende des AI and Digital Hub Pilots (April 2025). Kein Hinweis auf eine Struktur namens "AIRIA".
 
@@ -1704,7 +1702,7 @@ regelwerke:
       des EDSA vom 16.10.2025 und einer Zwischenverlängerung im Juni 2025.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://eucrim.eu/news/commission-renewed-adequacy-decisions-for-data-transfers-to-the-uk/
   themenachsen:
   - datenschutz
@@ -1734,7 +1732,7 @@ regelwerke:
     url: https://eucrim.eu/news/commission-renewed-adequacy-decisions-for-data-transfers-to-the-uk/
     sprache: en
     urheber: eucrim — The European Criminal Law Associations' Forum
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Datum, Laufzeit bis 27.12.2031, Rechtsgrundlagen und EDSA-Stellungnahme.
   - datum: 2016-04-27
     typ: konsolidiert

@@ -88,7 +88,6 @@ urteile:
     (mx-2026-jurisprudencia-ki-justiz).. Beleg: Beide Tesis stammen aus derselben Queja 212/2025 und wurden
     am 22.08.2025 gemeinsam veroeffentlicht; die amtliche Nota weist die Integration in die Jurisprudencia
     II.2o.C. J/2 K (12a.) aus.'
-  quelle_art: amtlich
   sachverhalt: In einer Queja gegen eine Entscheidung eines Juzgado de Distrito in einem indirekten Amparo-Verfahren
     hatte der Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito die Höhe einer Sicherheitsleistung
     zu bestimmen, die mit der Eintragung der Klage in die Grundbuchblätter der streitgegenständlichen
@@ -136,10 +135,9 @@ urteile:
   - co-ley-2502-2025
   - co-constitucion-1991
   instanzenzug: []
-  quelle_tracker: Comunicado 23 de 2026 der Corte Constitucional (URL bestätigt, Inhalt in dieser Sitzung
-    nicht lesbar); El Tiempo vom 18.07.2026 und Diario Judicial — zwei unabhängige Sekundärquellen, die
-    in Expediente (D-17.052), Datum (15.07.2026), M.P. (Jorge Enrique Ibáñez Najar) und Tenor (exequible)
-    übereinstimmen
+  quelle_tracker: Comunicado 23 de 2026 der Corte Constitucional (URL bestätigt, Inhalt nicht lesbar); El
+    Tiempo vom 18.07.2026 und Diario Judicial — zwei unabhängige Sekundärquellen, die in Expediente (D-17.052),
+    Datum (15.07.2026), M.P. (Jorge Enrique Ibáñez Najar) und Tenor (exequible) übereinstimmen
   verifiziert: false
   letzte_pruefung: 2026-09-06
   eigene_bewertung: 'Die zweite lateinamerikanische Verfassungsgerichtsentscheidung zur Frage, ob ein
@@ -161,7 +159,6 @@ urteile:
   - co-constitucion-art-29
   - co-ley-2502-2025-art-2
   - co-ley-2502-2025-art-3
-  quelle_art: fehlt
 - id: co-2026-csj-ac739-abogado-ia
   jurisdiktion: co
   gericht: Corte Suprema de Justicia, Sala de Casación Civil, Agraria y Rural
@@ -217,7 +214,6 @@ urteile:
   - co-ley-2213-2022-art-2
   - co-ley-2213-2022-art-5
   sekundaerquelle_url: https://ccdpc.org.co/wp-content/uploads/2026/02/SANCION-ABOGADO-IA.pdf
-  quelle_art: fehlt
 - id: co-2025-csj-stc17832-sincelejo
   jurisdiktion: co
   gericht: Corte Suprema de Justicia, Sala de Casación Civil, Agraria y Rural
@@ -272,7 +268,6 @@ urteile:
   - co-constitucion-art-230
   - co-constitucion-art-29
   - co-constitucion-art-86
-  quelle_art: fehlt
 - id: co-2023-c-121-ley-2213
   jurisdiktion: co
   gericht: Corte Constitucional de Colombia, Sala Plena
@@ -325,7 +320,6 @@ urteile:
   - co-constitucion-art-29
   - co-ley-2213-2022-art-1
   - co-ley-2213-2022-art-7
-  quelle_art: amtlich
 - id: za-2023-parker-forsyth
   jurisdiktion: za
   gericht: Regional Court for the Regional Division of Gauteng, held at Johannesburg
@@ -393,7 +387,6 @@ urteile:
     Von dort stammt auch die wörtliche Einordnung ''overzealousness and carelessness rather than an intentional
     attempt to deceive''. Deshalb verifiziert: false.'
   sekundaerquelle_url: https://lawlibrary.org.za/akn/za-gp/judgment/zagprd/2023/1/eng@2023-06-29
-  quelle_art: fehlt
 - id: za-2025-northbound-processing
   jurisdiktion: za
   gericht: High Court of South Africa, Gauteng Division, Johannesburg (DJ Smit AJ)
@@ -435,7 +428,7 @@ urteile:
   - za-legal-practice-act-2014
   instanzenzug: []
   quelle_tracker: CDH Employment Law Alert 04.07.2025; SAFLII
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   eigene_bewertung: 'Die dogmatisch schärfste der südafrikanischen Halluzinationsentscheidungen. Sie formuliert
     erstens eine eigenständige Prüfpflicht als Berufspflicht — nicht als Ausfluss der Wahrheitspflicht
@@ -465,7 +458,6 @@ urteile:
   - 'quelle_art ''datenbank'': SAFLII ist die maßgebliche Volltextsammlung der südafrikanischen Gerichte
     und die vom Spruchkörper regelmäßig selbst bestimmte Veröffentlichungsstelle, aber kein amtlicher
     Verleger.'
-  quelle_art: datenbank
 - id: za-2026-molawa-matjhabeng
   jurisdiktion: za
   gericht: Labour Court of South Africa, Durban (K Allen-Yaman J)
@@ -505,7 +497,7 @@ urteile:
   - za-legal-practice-act-2014
   instanzenzug: []
   quelle_tracker: CDH Employment Law Alert 27.07.2025 [recte 2026]; SAFLII
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Der erste südafrikanische Fall, in dem nicht ein Schriftsatz, sondern eine ENTSCHEIDUNG
     halluzinierte Fundstellen enthielt — und zwar die eines Disziplinarvorsitzenden, also eines Entscheidungsträgers
@@ -541,7 +533,6 @@ urteile:
     nicht die hier erfasste Entscheidung vom 13.07.2026.'
   - 07.09.2026 am Volltext auf SAFLII geprueft (22 KB, K. Allen-Yaman J). Ziff. 22, 28, 30, 31 und der
     Tenor im Wortlaut gelesen.
-  quelle_art: datenbank
   leitsatz: Der Verdacht, dass der Vorsitzende eines Disziplinarverfahrens seine Feststellungen auf KI-erzeugte,
     nicht existente Fundstellen gestuetzt hat, rechtfertigt es, das laufende Verfahren bis zur Entscheidung
     ueber den Ueberpruefungsantrag auszusetzen - obwohl Gerichte in unabgeschlossene Disziplinarverfahren
@@ -589,7 +580,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: AI Hallucination Cases Database (Charlotin), Stand 05.09.2026; naturalandartificiallaw.com;
     GroundUp 04.08.2026
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Die weltweit interessanteste Entscheidung zur Zurechnung richterlicher KI-Halluzinationen
     und der wichtigste südafrikanische Fall überhaupt. Drei Gründe. Erstens die Konstellation: Nicht die
@@ -633,7 +624,6 @@ urteile:
     genannt.
   - 07.09.2026 am Volltext auf SAFLII geprueft (77 KB, Opperman J, REPORTABLE). Ziff. 18, 33, 119-123
     im Wortlaut gelesen.
-  quelle_art: datenbank
   leitsatz: Enthaelt nicht der Schriftsatz, sondern das angefochtene Urteil erfundene oder verfaelschte
     Fundstellen, ist das Verhalten des erkennenden Richters am Code of Judicial Conduct zu messen. Weil
     die Judicial Service Commission ueber einen acting judge nach Ablauf seiner Bestellung keine Zustaendigkeit
@@ -689,7 +679,7 @@ urteile:
   - za-copyright-act-1978
   instanzenzug: []
   quelle_tracker: SAFLII; IPKat 07/2026; Centre on Knowledge Governance
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   eigene_bewertung: 'Für das KI-Recht die folgenreichste südafrikanische Entscheidung — und zwar, ohne
     KI mit einem Wort zu erwähnen. Das Verfassungsgericht hat eine offene Fair-Use-Klausel mit Transformativitäts-
@@ -728,7 +718,6 @@ urteile:
   - Die Aussage zur geringeren Rechtfertigungsanforderung bei unkörperlichem Eigentum und die Passage
     zur ejusdem-generis-Eingrenzung der offenen Zweckliste sind über die Volltextprüfung und die IPKat-Auswertung
     doppelt belegt.
-  quelle_art: datenbank
 - id: tw-2021-ipcc-dabus-aufmerksamkeit
   jurisdiktion: tw
   gericht: 智慧財產及商業法院 — Intellectual Property and Commercial Court
@@ -796,7 +785,6 @@ urteile:
   - tw-patentgesetz-sec-5
   dokumenttyp: 行政判決 (Verwaltungsurteil), Volltext in der amtlichen Entscheidungsdatenbank
   aktenzeichen_original: 智慧財產及商業法院 110 年度行專訴字第 3 號行政判決
-  quelle_art: amtlich
   sachverhalt: Der amerikanische Erfinder Stephen L. Thaler (泰勒 史蒂芬 L.) meldete am 5. November 2019 beim
     taiwanischen Patentamt (經濟部智慧財產局, TIPO) eine Erfindung mit dem Titel 「吸引增強注意力的裝置和方法」 — Vorrichtungen
     und Verfahren zur Erregung erhöhter Aufmerksamkeit — unter der Nummer 108140133 an. Als Erfinder benannte
@@ -860,7 +848,6 @@ urteile:
   - tw-patentgesetz-sec-5
   dokumenttyp: 行政判決
   aktenzeichen_original: 智慧財產及商業法院 110 年度行專訴字第 4 號行政判決
-  quelle_art: amtlich
   sachverhalt: 'Neben der Anmeldung zur Aufmerksamkeitsvorrichtung hatte Stephen L. Thaler beim taiwanischen
     Patentamt am 17. Oktober 2019 eine zweite Erfindung angemeldet: 「食物或飲料用容器」 — Behälter für Lebensmittel
     oder Getränke, ursprünglich 「食品用容器」 — unter der Nummer 108137438. Auch hier benannte er als Erfinder
@@ -919,7 +906,6 @@ urteile:
   - tw-patentgesetz-sec-5
   dokumenttyp: 判決 (Urteil des hoechsten Verwaltungsgerichts)
   aktenzeichen_original: 最高行政法院 111 年度上字第 55 號判決
-  quelle_art: amtlich
   sachverhalt: Das 智慧財產及商業法院 wies die Klage Stephen L. Thalers gegen die Nichtannahme der Anmeldung Nr.
     108140133 (「吸引增強注意力的裝置和方法」) am 19. August 2021 ab. Thaler legte Revision zum 最高行政法院 ein. Er hielt
     daran fest, dass das von ihm entwickelte KI-System DABUS in der Anmeldung als Erfinder zu führen sei,
@@ -970,7 +956,6 @@ urteile:
   - tw-patentgesetz-sec-5
   dokumenttyp: 判決
   aktenzeichen_original: 最高行政法院 110 年度上字第 813 號判決
-  quelle_art: amtlich
 - id: tw-2026-scdm-ki-gesichtstausch-pdpa
   jurisdiktion: tw
   gericht: 臺灣新竹地方法院 — Taiwan Hsinchu District Court
@@ -1043,7 +1028,6 @@ urteile:
   - tw-strafgesetzbuch-sec-235
   dokumenttyp: 刑事判決 (Strafurteil im vereinfachten Verfahren nach Gestaendnis)
   aktenzeichen_original: 臺灣新竹地方法院 115 年度訴字第 339 號刑事判決
-  quelle_art: amtlich
   sachverhalt: Der Beamte 謝承豫 legte unter dem Namen einer Geschädigten ein Instagram-Konto an und betrieb
     es über mehr als zwei Jahre. Aus Gesichtsaufnahmen der Geschädigten erzeugte er mit KI-Gesichtstausch
     unwahre sexuelle Bilder, stellte sie dort mit sexuell anspielenden Texten ein und machte sie damit
@@ -1112,7 +1096,6 @@ urteile:
   - tw-wahlgesetz-sec-113-abs-3
   dokumenttyp: 刑事判決
   aktenzeichen_original: 臺灣臺北地方法院 115 年度訴字第 41 號刑事判決
-  quelle_art: amtlich
 - id: tw-2026-ntdm-wahlfalschbehauptung-buyingmap
   jurisdiktion: tw
   gericht: 臺灣南投地方法院 — Taiwan Nantou District Court
@@ -1170,7 +1153,6 @@ urteile:
   - tw-wahlgesetz-sec-113-abs-3
   dokumenttyp: 刑事判決
   aktenzeichen_original: 臺灣南投地方法院 115 年度選訴字第 1 號刑事判決
-  quelle_art: amtlich
 - id: tw-2026-tpba-deepfake-tonaufzeichnung
   jurisdiktion: tw
   gericht: 臺北高等行政法院 高等行政訴訟庭第一庭 — Taipei High Administrative Court
@@ -1241,7 +1223,6 @@ urteile:
     (24.02.2026). Sie wurden nicht einzeln geoeffnet.
 
     '
-  quelle_art: amtlich
   sachverhalt: In einem Verfahren nach dem 促進轉型正義條例 vor dem 臺北高等行政法院 (113年度訴字第825號) fand am 9. Juli 2026
     eine mündliche Verhandlung statt. Der Vorsitzende stellte dabei zahlreiche Fragen, die in der Vorbereitung
     teils nicht angesprochen worden waren; die Antworten fielen umfangreich aus. Die Prozessbevollmächtigten
@@ -1312,7 +1293,6 @@ urteile:
     wurde im geoeffneten Volltextausschnitt nicht erneut lokalisiert.
 
     '
-  quelle_art: amtlich
 - id: tw-2026-tphm-ki-recherche-wiederaufnahme
   jurisdiktion: tw
   gericht: 臺灣高等法院 — Taiwan High Court
@@ -1362,7 +1342,6 @@ urteile:
   normen: []
   dokumenttyp: 刑事裁定 (Beschluss ueber einen Wiederaufnahmeantrag)
   aktenzeichen_original: 臺灣高等法院 114 年度聲再字第 80 號刑事裁定
-  quelle_art: amtlich
 - id: tw-2025-tnhm-genai-screenshot-beweiswert
   jurisdiktion: tw
   gericht: 臺灣高等法院 臺南分院 — Taiwan High Court, Tainan Branch
@@ -1415,7 +1394,6 @@ urteile:
     geoeffnet, daher verifiziert: false.
 
     '
-  quelle_art: amtlich
 - id: tw-2025-ipcc-ki-video-verhandlung
   jurisdiktion: tw
   gericht: 智慧財產及商業法院 — Intellectual Property and Commercial Court
@@ -1468,7 +1446,6 @@ urteile:
     der Entscheidungsdatenbank. Daher verifiziert: false.
 
     '
-  quelle_art: amtlich
 - id: tw-2026-tpaa-pdpa-zustaendigkeit-moda
   jurisdiktion: tw
   gericht: 最高行政法院 — Supreme Administrative Court
@@ -1534,7 +1511,6 @@ urteile:
   - tw-pdpa-sec-20-1
   dokumenttyp: 判決 (Urteil des hoechsten Verwaltungsgerichts)
   aktenzeichen_original: 最高行政法院 114 年度上字第 193 號判決
-  quelle_art: amtlich
   sachverhalt: 'Die Polizei wies die 數位產業署 (Administration for Digital Industries) darauf hin, dass über
     die Handelsplattform der 旋轉拍賣有限公司 (Carousell Co., Ltd.) mutmaßlich personenbezogene Daten abgeflossen
     seien. Die 數位產業署 — eine dem Digitalministerium 數位發展部 nachgeordnete Behörde — erließ daraufhin im Januar
@@ -1608,7 +1584,6 @@ urteile:
   - tw-stgb-sec-319-4
   dokumenttyp: 刑事判決
   aktenzeichen_original: 臺灣新北地方法院 114 年度侵訴字第 101 號刑事判決
-  quelle_art: amtlich
 - id: ar-2026-stj-chubut-payalef
   jurisdiktion: ar
   gericht: Superior Tribunal de Justicia de la Provincia del Chubut (Sala Penal), Ministros Camila Banfi
@@ -1672,11 +1647,11 @@ urteile:
   - ar-codigo-penal
   instanzenzug:
   - ar-2025-esquel-ki-urteil
-  quelle_tracker: 'Amtlich: Jusnoticias (Poder Judicial del Chubut) und Ministerio Público Fiscal del
-    Chubut. Volltext über die Sammlung der Revista Pensamiento Penal (PDF) und eldial.com; eine amtliche
-    Volltextveröffentlichung in der Eureka-Datenbank des STJ war nicht auffindbar — die anonyme Fallsuche
-    der Datenbank war in dieser Sitzung nicht erreichbar.'
-  verifiziert: true
+  quelle_tracker: 'Amtlich: Jusnoticias (Poder Judicial del Chubut) und Ministerio Público Fiscal del Chubut.
+    Volltext über die Sammlung der Revista Pensamiento Penal (PDF) und eldial.com; eine amtliche Volltextveröffentlichung
+    in der Eureka-Datenbank des STJ war nicht auffindbar — die anonyme Fallsuche der Datenbank war nicht
+    erreichbar.'
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   eigene_bewertung: 'Die wichtigste lateinamerikanische Entscheidung zum KI-Einsatz durch den Richter
     — und die Gegenposition zur kolumbianischen Linie. Der STJ Chubut trennt sauber zwischen dem Herstellungsvorgang
@@ -1728,7 +1703,6 @@ urteile:
   - ar-cpp-chubut-art-162
   - ar-cpp-chubut-art-163
   - ar-cpp-chubut-art-164
-  quelle_art: fehlt
 - id: ar-2022-odia-srfp-primera-instancia
   jurisdiktion: ar
   gericht: Juzgado de Primera Instancia en lo Contencioso Administrativo y Tributario N.º 4, Secretaría
@@ -1825,7 +1799,6 @@ urteile:
   - ar-ley-25326-art-23
   - ar-ley-25326-art-5
   - ar-ley-25326-art-7
-  quelle_art: fehlt
 - id: ar-2023-odia-srfp-camara
   jurisdiktion: ar
   gericht: Cámara de Apelaciones en lo Contencioso Administrativo, Tributario y de Relaciones de Consumo
@@ -1875,9 +1848,9 @@ urteile:
   instanzenzug:
   - ar-2022-odia-srfp-primera-instancia
   quelle_tracker: Amtlicher Nachweis über Juristeca, die Rechtsprechungsdatenbank des Poder Judicial de
-    la CABA (Fallo-ID 51869, Sala I, 28.04.2023, Causa 182908-2020-0). Der amtliche Volltext-PDF war in
-    dieser Sitzung durch robots.txt gesperrt; Inhalt über eldial.com und die Analyse im Repositorio des
-    Ministerio Público de la Defensa geprüft — beide stimmen im Tenor überein.
+    la CABA (Fallo-ID 51869, Sala I, 28.04.2023, Causa 182908-2020-0). Der amtliche Volltext-PDF war durch
+    robots.txt gesperrt; Inhalt über eldial.com und die Analyse im Repositorio des Ministerio Público de
+    la Defensa geprüft — beide stimmen im Tenor überein.
   verifiziert: false
   letzte_pruefung: 2026-09-06
   eigene_bewertung: 'Diese Entscheidung wird durchweg falsch zitiert. Die argentinische und internationale
@@ -1908,7 +1881,6 @@ urteile:
   - ar-caba-ley-5688-art-480-bis
   - ar-ley-25326-art-23
   - ar-ley-25326-art-7
-  quelle_art: amtlich
   sachverhalt: Die Stadt Buenos Aires nahm auf der Grundlage der Ley 5688 in der Fassung der Ley 6339
     ein System zur biometrischen Gesichtserkennung gesuchter Personen (Sistema de Reconocimiento Facial
     de Prófugos, SRFP) in Betrieb, das die Kameras des öffentlichen Raums auswertet. Die im Gesetz vorgesehenen
@@ -1996,7 +1968,6 @@ urteile:
     Rechtssatz.'
   normen:
   - ar-cp-art-128
-  quelle_art: fehlt
 - id: ar-2025-rosario-giacomino-ia
   jurisdiktion: ar
   gericht: Cámara de Apelación en lo Civil y Comercial de Rosario, Sala II, Provincia de Santa Fe — u.a.
@@ -2054,7 +2025,6 @@ urteile:
   dokumenttyp: Sentencia der Berufungsinstanz; PDF über die Datenbank SIPLA des Max-Planck-Instituts
   normen:
   - ar-ccyc-art-1710
-  quelle_art: fehlt
 - id: ar-2025-moron-acevedo-ia
   jurisdiktion: ar
   gericht: Cámara de Apelación en lo Civil y Comercial de Morón, Sala I, Provincia de Buenos Aires — Jueza
@@ -2114,7 +2084,6 @@ urteile:
     der US-amerikanischen Halluzinationsrechtsprechung in Lateinamerika. '
   dokumenttyp: Interlocutoria der Berufungsinstanz; amtliche Mitteilung der SCBA
   normen: []
-  quelle_art: fehlt
 - id: ar-2025-general-roca-peugeot-ia
   jurisdiktion: ar
   gericht: Cámara de Apelaciones en lo Civil, Comercial, Familia y Minería de General Roca, Sala I, Provincia
@@ -2190,7 +2159,6 @@ urteile:
   normen:
   - ar-ccyc-art-1710
   - ar-rionegro-15-2024-protocolo
-  quelle_art: amtlich
   sachverhalt: 'M.J.L. kaufte ein Neufahrzeug und brachte es zwischen 2019 und 2023 neunzehnmal in die
     Vertragswerkstatt DMX2 S.A.; die Mängel stammten nach seinem Vortrag aus der Herstellung. Er klagte
     gegen die Peugeot Citroën Argentina S.A. und die Werkstatt nach dem Verbraucherschutzgesetz Ley 24.240.
@@ -2245,7 +2213,6 @@ urteile:
     hat. '
   dokumenttyp: Auto der Berufungsinstanz; nur Presseberichterstattung
   normen: []
-  quelle_art: fehlt
 - id: ar-2025-viedma-trabajo-ia
   jurisdiktion: ar
   gericht: Cámara del Trabajo de Viedma, Provincia de Río Negro
@@ -2298,7 +2265,6 @@ urteile:
   dokumenttyp: Sentencia der Cámara del Trabajo; nur Presseberichterstattung
   normen:
   - ar-rionegro-2025-auxiliares
-  quelle_art: fehlt
 - id: ar-2026-general-roca-villa-regina-ia
   jurisdiktion: ar
   gericht: Cámara de Apelaciones en lo Civil, Comercial, Familia y Minería de General Roca, Provincia
@@ -2347,7 +2313,6 @@ urteile:
   dokumenttyp: Sentencia der Berufungsinstanz; nur Presseberichterstattung
   normen:
   - ar-rionegro-2025-auxiliares
-  quelle_art: fehlt
 - id: ar-2026-stj-rionegro-ipross-ia
   jurisdiktion: ar
   gericht: Superior Tribunal de Justicia de la Provincia de Río Negro — Jueces Sergio M. Barotto, María
@@ -2407,7 +2372,6 @@ urteile:
   normen:
   - ar-rionegro-15-2024-protocolo
   - ar-rionegro-2025-auxiliares
-  quelle_art: fehlt
 - id: ar-2026-zapala-almaza-ia
   jurisdiktion: ar
   gericht: Cámara Provincial de Apelaciones en lo Civil, Comercial, Laboral, de Minería y Familia de Zapala,
@@ -2457,7 +2421,6 @@ urteile:
     nicht nur Entscheidungen, sondern ein ganzes Gericht erfunden. '
   dokumenttyp: Sentencia der Berufungsinstanz; nur Presseberichterstattung
   normen: []
-  quelle_art: fehlt
 - id: ar-2026-azul-honorarios-ia
   jurisdiktion: ar
   gericht: Cámara de Apelación en lo Civil y Comercial de Azul, Provincia de Buenos Aires
@@ -2514,7 +2477,6 @@ urteile:
     zitierfähig. Sie ist von der Entscheidung derselben Kammer vom 06.06.2026 zu unterscheiden. '
   dokumenttyp: Resolución der Berufungsinstanz; nur Presseberichterstattung
   normen: []
-  quelle_art: fehlt
 - id: ar-2026-azul-rauch-desalojo-ia
   jurisdiktion: ar
   gericht: Cámara de Apelación en lo Civil y Comercial de Azul, Sala I, Provincia de Buenos Aires — Juezas
@@ -2556,7 +2518,6 @@ urteile:
     Lateinamerikas, ohne über ein KI-Gesetz zu verfügen. '
   dokumenttyp: Sentencia der Berufungsinstanz; nur Presseberichterstattung
   normen: []
-  quelle_art: fehlt
 - id: ar-2026-scba-repartos-ya
   jurisdiktion: ar
   gericht: Suprema Corte de Justicia de la Provincia de Buenos Aires
@@ -2617,7 +2578,6 @@ urteile:
     welchem Konzern Repartos Ya S.A. zuzuordnen ist.'
   - Aktenzeichen nicht ermittelt; der Eintrag ist in dieser Form nicht zitierfähig.
   normen: []
-  quelle_art: fehlt
 - id: ar-2024-pba-worldcoin-biometria
   jurisdiktion: ar
   gericht: Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires,
@@ -2688,7 +2648,6 @@ urteile:
   normen:
   - ar-ley-24240-art-37
   - ar-ley-24240-art-4
-  quelle_art: amtlich
 - id: mx-2025-tcc-queja-212-2025-tesis-2031009
   jurisdiktion: mx
   gericht: Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito (Toluca, Estado de México)
@@ -2757,7 +2716,6 @@ urteile:
     festsetzt, entscheidet faktisch über den Zugang zum einstweiligen Rechtsschutz.
 
     '
-  quelle_art: amtlich
 - id: mx-2025-tcc-queja-404-2025
   jurisdiktion: mx
   gericht: Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito (Toluca, Estado de México);
@@ -2832,7 +2790,6 @@ urteile:
     die sie erzwingt — und die ist für die Diskussion um Art. 14 KI-VO und um § 39 VwVfG unmittelbar anschlussfähig.
 
     '
-  quelle_art: amtlich
   sachverhalt: 'In einem indirekten Amparo-Verfahren vor dem Juzgado Decimoprimero de Distrito en el Estado
     de México mit Sitz in Naucalpan de Juárez war eine Sicherheitsleistung festzusetzen: Die Hauptforderung
     belief sich auf 3.263.040,50 Pesos, die vorläufige Suspension galt elf Tage. Gegen die Entscheidung
@@ -2908,7 +2865,6 @@ urteile:
     und gerichtlich auf ihre tatsächliche Reichweite geprüft werden kann.
 
     '
-  quelle_art: amtlich
 - id: mx-2026-negativbefund-rspr
   jurisdiktion: mx
   gericht: — (Negativbefund)
@@ -2993,7 +2949,6 @@ urteile:
     lebendige Linie — KI in der Justiz — vollständig von einem einzigen Spruchkörper in Toluca getragen.
 
     '
-  quelle_art: amtlich
 - id: il-2025-bagatz-38379-12-24-scharia
   jurisdiktion: il
   gericht: בית המשפט העליון בשבתו כבית משפט גבוה לצדק — Oberster Gerichtshof Israels als Hoher Gerichtshof
@@ -3045,7 +3000,7 @@ urteile:
   quelle_tracker: law.co.il, Rubrik Computer Law / בינה מלאכותית; ergänzend Calcalist, Mako und die Mandanteninformation
     von S. Horowitz & Co.
   dokumenttyp: Urteil (פסק דין) des Obersten Gerichtshofs; als PDF-Spiegel des amtlichen Dokuments gelesen
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   pruefvermerk:
   - Am Entscheidungstext selbst geprüft (06.09.2026) — allerdings über den PDF-Spiegel bei law.co.il,
@@ -3070,7 +3025,6 @@ urteile:
     weil sie ohne Geständnis auskommt.
 
     '
-  quelle_art: fehlt
 - id: il-2026-yunes-asli
   jurisdiktion: il
   gericht: בית הדין האזורי לעבודה בחיפה — Bet ha-Din ha-Ezori la-Avoda be-Haifa (Regionales Arbeitsgericht
@@ -3128,7 +3082,6 @@ urteile:
     im Schriftsatz ist das die interessantere Konstruktion als die anglo-amerikanische Kostenerstattung.
 
     '
-  quelle_art: fehlt
 - id: il-2026-badash-ochana
   jurisdiktion: il
   gericht: בית משפט השלום בתל אביב-יפו — Amtsgericht Tel Aviv-Jaffa, Richterin רונית פינצ'וק אלט (Ronit
@@ -3188,7 +3141,6 @@ urteile:
     ist nicht zu glätten: Die israelischen Instanzgerichte antworten uneinheitlich.
 
     '
-  quelle_art: fehlt
 - id: il-2026-suki-staat
   jurisdiktion: il
   gericht: בית המשפט המחוזי מרכז-לוד — Bezirksgericht Zentrum-Lod, Richter עמית אחיקם סטולר (Amit Achikam
@@ -3239,7 +3191,6 @@ urteile:
     Die Sanktionslücke im Strafprozess ist ein Thema, das in der internationalen Diskussion bisher fehlt.
 
     '
-  quelle_art: fehlt
 - id: il-2026-tbk-73-26-deepfake-wahlvideo
   jurisdiktion: il
   gericht: יושב ראש ועדת הבחירות המרכזית — Vorsitzender des Zentralen Wahlausschusses (Richter am Obersten
@@ -3306,7 +3257,6 @@ urteile:
     nicht leisten kann.
 
     '
-  quelle_art: fehlt
 - id: il-2026-tbk-87-26-likud-eisenkot
   jurisdiktion: il
   gericht: יושב ראש ועדת הבחירות המרכזית — Vorsitzender des Zentralen Wahlausschusses (Richter am Obersten
@@ -3367,7 +3317,6 @@ urteile:
     die an den KI-Begriff anknüpft und deshalb an der Bestimmtheit scheitert.
 
     '
-  quelle_art: fehlt
 - id: il-2026-negativbefund-rspr
   jurisdiktion: il
   gericht: — (Negativbefund und Randbefunde)
@@ -3469,7 +3418,6 @@ urteile:
     gehalten wird. Wer israelische Quellen zweiter Hand auswertet, sollte darauf achten.
 
     '
-  quelle_art: fehlt
 - id: nz-2025-lmn-stc
   jurisdiktion: nz
   gericht: Employment Court of New Zealand / Te Kōti Take Mahi o Aotearoa, Auckland (Judge M S King)
@@ -3512,7 +3460,7 @@ urteile:
   quelle_tracker: Hinweis aus Kanzleiveröffentlichungen (Wilson Harle, Lane Neave, Enyo Law); Volltext
     über den PDF-Spiegel der AI-Hallucination-Datenbank von Damien Charlotin
   dokumenttyp: Interlocutory judgment des Employment Court; PDF-Spiegel und NZLII-Fassung
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   pruefvermerk:
   - 'Am Volltext geprüft (06.09.2026): Aktenzeichen EMPC 195/2024, Richter M S King, Datum 17.03.2025,
@@ -3533,7 +3481,6 @@ urteile:
     unabhängig davon, ob die Partei anwaltlich vertreten ist.
 
     '
-  quelle_art: datenbank
 - id: nz-2025-opc-foodstuffs-frt
   jurisdiktion: nz
   gericht: Office of the Privacy Commissioner / Te Mana Mātāpono Matatapu — Datenschutzbeauftragter Neuseelands
@@ -3590,7 +3537,7 @@ urteile:
   - nz-privacy-act-ipp-9
   quelle_tracker: Office of the Privacy Commissioner, Publikationsverzeichnis privacy.org.nz
   dokumenttyp: Untersuchungsbericht einer Datenschutzaufsicht nach s. 17 Abs. 1 lit. i Privacy Act 2020
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   pruefvermerk:
   - Am amtlichen PDF geprüft (06.09.2026). Bestätigt sind Titel, Rechtsgrundlage s. 17 Abs. 1 lit. i Privacy
@@ -3614,7 +3561,6 @@ urteile:
     durch biometrische Systeme nicht einmal messen.
 
     '
-  quelle_art: fehlt
 - id: nz-2026-a-v-r-namensunterdrueckung-ki
   jurisdiktion: nz
   gericht: High Court of New Zealand (Mount J)
@@ -3681,7 +3627,7 @@ urteile:
   quelle_tracker: NZLII, Volltextsuche "artificial intelligence" in der Datenbank New Zealand Cases am
     06.09.2026 (Browser)
   dokumenttyp: Judgment des High Court über ein Rechtsmittel gegen die Ablehnung der Namensunterdrückung
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   pruefvermerk:
   - Vollständiger Entscheidungstext am 06.09.2026 über NZLII gelesen und ausgewertet; Aktenzeichen, Spruchkörper,
@@ -3715,7 +3661,6 @@ urteile:
     Wer die Entscheidung als Beleg für ein Mehr an Anonymisierung zitiert, zitiert sie falsch.
 
     '
-  quelle_art: datenbank
   leitsatz: Dass grosse KI-Plattformen Informationen weiter ausgeben, die bereits Gegenstand von Loeschanordnungen
     waren, begruendet ein Risiko fuer das faire Verfahren und rechtfertigt eine Namensunterdrueckung bis
     zum Urteilsspruch der Jury. Loeschanordnungen gegen KI-Systeme sind im Grundsatz moeglich; Extraterritorialitaet,
@@ -3775,7 +3720,7 @@ urteile:
   quelle_tracker: NZLII, Volltextsuche "artificial intelligence" in der Datenbank New Zealand Cases am
     06.09.2026 (Browser)
   dokumenttyp: Judgment des High Court, amtliche Berichtsfundstelle [2023] 2 NZLR 603
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   pruefvermerk:
   - Am Entscheidungstext auf NZLII geprüft (06.09.2026); Aktenzeichen, Richter, Datum, Zusammenfassung
@@ -3802,7 +3747,6 @@ urteile:
     ohne begriffliche Sperre erreichbar ist.
 
     '
-  quelle_art: datenbank
 - id: nz-2022-thaler-ipopat
   jurisdiktion: nz
   gericht: Intellectual Property Office of New Zealand — Assistant Commissioner of Patents
@@ -3858,7 +3802,6 @@ urteile:
     diese Divergenz.
 
     '
-  quelle_art: datenbank
 - id: nz-2024-wikeley-kea
   jurisdiktion: nz
   gericht: Court of Appeal of New Zealand / Te Kōti Pīra o Aotearoa (Courtney, Muir und Cull JJ)
@@ -3903,7 +3846,7 @@ urteile:
   normen: []
   quelle_tracker: NZLII, Datenbank New Zealand Cases; Hinweis aus Kanzleiveröffentlichungen (Wilson Harle)
   dokumenttyp: Judgment des Court of Appeal; die KI-Passage steht in Fussnote 187
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   pruefvermerk:
   - Am Entscheidungstext auf NZLII geprüft (06.09.2026); die Passage steht in Fussnote 187 und wurde im
@@ -3927,7 +3870,6 @@ urteile:
     in Jones zur Sanktionsandrohung verdichtet.
 
     '
-  quelle_art: datenbank
 - id: nz-2025-cunningham-healthalliance
   jurisdiktion: nz
   gericht: Employment Court of New Zealand / Te Kōti Take Mahi o Aotearoa (Judge M S King)
@@ -3969,7 +3911,7 @@ urteile:
   normen: []
   quelle_tracker: NZLII, Datenbank New Zealand Cases
   dokumenttyp: Judgment des Employment Court
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   pruefvermerk:
   - Am Entscheidungstext auf NZLII geprüft (06.09.2026); Randnummern 35 und 36 sowie Fussnote 13 wurden
@@ -3985,7 +3927,6 @@ urteile:
     darstellt, braucht beide Pole.
 
     '
-  quelle_art: datenbank
 - id: nz-2025-odriscoll-rehab-co
   jurisdiktion: nz
   gericht: Employment Relations Authority / Te Ratonga Ahumana Taimahi (Member Sarah Kennedy-Martin)
@@ -4024,7 +3965,7 @@ urteile:
   normen: []
   quelle_tracker: NZLII, Datenbank New Zealand Employment Relations Authority Decisions
   dokumenttyp: Determination der Employment Relations Authority
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   pruefvermerk:
   - Am Entscheidungstext auf NZLII geprüft (06.09.2026); Randnummer 6 und Fussnote 1 sowie Spruchstelle,
@@ -4045,7 +3986,6 @@ urteile:
     diesen Anreizeffekt mitdenken.
 
     '
-  quelle_art: fehlt
 - id: nz-2026-noble-commissioner-police
   jurisdiktion: nz
   gericht: Court of Appeal of New Zealand / Te Kōti Pīra o Aotearoa (Ellis und Collins JJ)
@@ -4087,7 +4027,7 @@ urteile:
   normen: []
   quelle_tracker: NZLII, Datenbank New Zealand Cases
   dokumenttyp: Judgment des Court of Appeal über Anträge auf Fristverlängerung
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   pruefvermerk:
   - Am Entscheidungstext auf NZLII geprüft (06.09.2026); Randnummern 10 und 21 sowie Spruchkörper, Aktenzeichen
@@ -4110,7 +4050,6 @@ urteile:
     Sanktionsverschärfung heraus, getragen vom Rechtsschutzgedanken.
 
     '
-  quelle_art: fehlt
 - id: nz-2026-bnz-mundy
   jurisdiktion: nz
   gericht: High Court of New Zealand / Te Kōti Matua o Aotearoa (Associate Judge Sussock)
@@ -4152,7 +4091,7 @@ urteile:
   normen: []
   quelle_tracker: NZLII, Datenbank New Zealand Cases
   dokumenttyp: Judgment eines Associate Judge des High Court
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   pruefvermerk:
   - Am Entscheidungstext auf NZLII geprüft (06.09.2026); Randnummern 93 und 94 sowie Fussnoten 12 und
@@ -4166,7 +4105,6 @@ urteile:
     wie in O''Driscoll erfasst nur den ersten.
 
     '
-  quelle_art: fehlt
 - id: nz-2026-eb-india-ipt
   jurisdiktion: nz
   gericht: Immigration and Protection Tribunal / Te Taraipiunara Manene me te Whakamarumaru (Member S
@@ -4215,7 +4153,7 @@ urteile:
   normen: []
   quelle_tracker: NZLII, Datenbank New Zealand Immigration and Protection Tribunal
   dokumenttyp: Decision des Immigration and Protection Tribunal
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   pruefvermerk:
   - Am Entscheidungstext auf NZLII geprüft (06.09.2026); der gesamte Abschnitt "Use of generative artificial
@@ -4248,7 +4186,6 @@ urteile:
     worden. Sie wird kommen.
 
     '
-  quelle_art: datenbank
 - id: nz-2026-negativbefund-rspr
   jurisdiktion: nz
   gericht: — (Negativbefund und Randbefunde)
@@ -4340,7 +4277,7 @@ urteile:
   normen: []
   quelle_tracker: NZLII (Volltextsuche), privacy.org.nz (Case Notes und Tribunal Decisions)
   dokumenttyp: Negativbefund mit Angabe der Suchbegriffe, Trefferzahlen und offenen Spuren
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-06
   eigene_bewertung: 'Neuseeland hat die dichteste KI-Kasuistik der drei untersuchten Rechtsordnungen —
     und sie besteht fast vollständig aus Verfahrensrecht. Zwölf Entscheidungen zu KI in Gerichtsverfahren,
@@ -4358,4 +4295,3 @@ urteile:
     und sie stützt sich auf ein Gesetz von 2020, das KI nicht erwähnt.
 
     '
-  quelle_art: fehlt

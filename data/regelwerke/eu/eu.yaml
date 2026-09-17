@@ -20,13 +20,13 @@ regelwerke:
   anwendungsdaten:
   - datum: 2024-08-01
     was_gilt: Inkrafttreten (Art. 113 KI-VO).
-    verifiziert: true
+    verifiziert: false
   - datum: 2025-02-02
     was_gilt: 'Kapitel I (Allgemeine Bestimmungen, Begriffsbestimmungen Art. 3, KI-Kompetenz Art. 4) und
       Kapitel II (verbotene Praktiken Art. 5).
 
       '
-    verifiziert: true
+    verifiziert: false
   - datum: 2025-08-02
     was_gilt: 'Kapitel III Abschnitt 4 (notifizierende Behörden/notifizierte Stellen), Kapitel V (GPAI-Modelle),
       Kapitel VII (Governance: KI-Büro, KI-Board, wissenschaftliches Gremium, Beratungsforum), Art. 78
@@ -34,7 +34,7 @@ regelwerke:
       Mitgliedstaaten: Benennung der zuständigen nationalen Behörden und Mitteilung der Sanktionsvorschriften.
 
       '
-    verifiziert: true
+    verifiziert: false
   - datum: 2026-08-02
     was_gilt: 'Allgemeiner Anwendungsbeginn der übrigen Verordnung (Art. 113 Abs. 1), insbesondere Transparenzpflichten
       Art. 50, Kapitel VI (Innovationsförderung), Kapitel IX (Marktüberwachung/Beobachtung nach Inverkehrbringen,
@@ -42,7 +42,7 @@ regelwerke:
       Art. 101 (Geldbußen GPAI). NICHT MEHR: Hochrisiko-Pflichten (verschoben, s. u.).
 
       '
-    verifiziert: true
+    verifiziert: false
   - datum: 2026-12-02
     was_gilt: 'Neue Verbotstatbestände Art. 5 Abs. 1 lit. ba) und bb) (KI-generierte nicht-einvernehmliche
       intime Darstellungen / NCII und Darstellungen sexuellen Kindesmissbrauchs / CSAM) — eingefügt durch
@@ -51,7 +51,7 @@ regelwerke:
       von 6 auf 3 Monate verkürzt).
 
       '
-    verifiziert: true
+    verifiziert: false
   - datum: 2027-08-02
     was_gilt: '(a) GPAI-Modelle, die vor dem 02.08.2025 in Verkehr gebracht wurden, müssen Kapitel V erfüllen
       (Art. 111 Abs. 3); (b) Mitgliedstaaten müssen mindestens ein KI-Reallabor in Betrieb haben (durch
@@ -59,7 +59,7 @@ regelwerke:
       (Art. 6 Abs. 5) sowie Leitlinien zu Art. 8 Abs. 2, Art. 9 Abs. 10, Art. 17 Abs. 3.
 
       '
-    verifiziert: true
+    verifiziert: false
   - datum: 2027-12-02
     was_gilt: 'Kapitel III Abschnitte 1-3 (Anforderungen an Hochrisiko-KI und Pflichten der Akteure) für
       Hochrisiko-KI nach ANHANG III (Biometrie, kritische Infrastruktur, Bildung, Beschäftigung, wesentliche
@@ -67,7 +67,7 @@ regelwerke:
       02.08.2026.
 
       '
-    verifiziert: true
+    verifiziert: false
   - datum: 2028-08-02
     was_gilt: 'Kapitel III Abschnitte 1-3 für Hochrisiko-KI als Sicherheits- bauteil von Produkten nach
       ANHANG I (Unionsharmonisierungs- rechtsvorschriften). VERSCHOBEN von ursprünglich 02.08.2027. Zugleich
@@ -75,7 +75,7 @@ regelwerke:
       in die Maschinen-VO (EU) 2023/1230.
 
       '
-    verifiziert: true
+    verifiziert: false
   - datum: 2030-08-02
     was_gilt: 'Übergangsfrist Art. 111 Abs. 2 für Hochrisiko-KI-Systeme, die von Behörden vor Anwendungsbeginn
       eingesetzt wurden (Altsysteme).
@@ -344,24 +344,24 @@ regelwerke:
   status: anwendbar
   inkrafttreten:
     datum: 2026-07-27
-    verifiziert: true
+    verifiziert: false
     hinweis: Dritter Tag nach Veröffentlichung (Dringlichkeitsklausel, Art. 4).
   anwendungsdaten:
   - datum: 2026-07-27
     was_gilt: Inkrafttreten; Art. 102-110 KI-VO (Änderungen sektoraler Rechtsakte) ausdrücklich anwendbar.
-    verifiziert: true
+    verifiziert: false
   - datum: 2026-08-02
     was_gilt: Allgemeiner Anwendungsbeginn der KI-VO bleibt unverändert.
-    verifiziert: true
+    verifiziert: false
   - datum: 2026-12-02
     was_gilt: Neue Verbote Art. 5 Abs.1 lit. ba/bb; Art. 50 Abs. 2 für Alt-Systeme.
-    verifiziert: true
+    verifiziert: false
   - datum: 2027-12-02
     was_gilt: Hochrisiko Anhang III (verschoben von 02.08.2026).
-    verifiziert: true
+    verifiziert: false
   - datum: 2028-08-02
     was_gilt: Hochrisiko Anhang I (verschoben von 02.08.2027).
-    verifiziert: true
+    verifiziert: false
   dokumente:
   - datum: 2025-11-19
     typ: entwurf
@@ -485,7 +485,7 @@ regelwerke:
   status: verfahren
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     hinweis: Noch nicht verabschiedet.
   anwendungsdaten: []
   dokumente:
@@ -584,7 +584,7 @@ regelwerke:
   status: teilanwendbar
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten: []
   dokumente:
   - datum: 2025-03-07
@@ -604,7 +604,7 @@ regelwerke:
       (Art. 58 KI-VO); Konsultation 02.12.2025-30.12.2025 bzw. 06.01.2026
     url: https://digitalpolicyalert.org/change/17333-implementing-regulation-on-ai-regulatory-sandboxes
     sprache: EN
-    verifiziert: true
+    verifiziert: false
     hinweis: NOCH NICHT ERLASSEN (Stand 27.08.2026). EDSB-Formalbemerkungen vom 06.03.2026.
     typ_original: Entwurf Durchfuehrungsverordnung (Konsultation)
   - datum: 2026-03-06
@@ -745,11 +745,11 @@ regelwerke:
   anwendungsdaten:
   - datum: 2025-08-02
     was_gilt: GPAI-Pflichten (Kap. V) gelten; Code als Nachweisinstrument.
-    verifiziert: true
+    verifiziert: false
   - datum: 2026-08-02
     was_gilt: Durchsetzungsbefugnisse der Kommission gegenüber GPAI-Anbietern (Art. 101 Geldbußen) werden
       wirksam.
-    verifiziert: true
+    verifiziert: false
   dokumente:
   - datum: 2025-07-10
     typ: leitlinie
@@ -800,7 +800,7 @@ regelwerke:
     - name: xAI
       umfang: nur Kapitel Safety and Security
     anzahl_vollstaendig: 21
-    verifiziert: true
+    verifiziert: false
     hinweis: Meta hat den Kodex nicht unterzeichnet (öffentlich bekannt, hier nicht primärquellenverifiziert).
   fristen: []
   offene_punkte:
@@ -829,54 +829,54 @@ regelwerke:
   status: softlaw
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten: []
   normen_stand_2026_06:
   - nummer: EN 18286
     titel: Quality management system for EU AI Act regulatory purposes
     stufe: Formal Vote / Approval
     erwartet: Q4 2026
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18228
     titel: AI risk management
     stufe: Enquiry
     erwartet: Q4 2026
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18229-1
     titel: 'AI trustworthiness framework — Part 1: Logging'
     stufe: Enquiry
     erwartet: Q4 2026
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18282
     titel: Cybersecurity specifications for AI systems
     stufe: Enquiry
     erwartet: Q4 2026
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18229-2
     titel: 'AI trustworthiness framework — Part 2: Accuracy and robustness'
     stufe: Drafting
     erwartet: offen
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18229-3
     titel: 'AI trustworthiness framework — Part 3: Transparency and human oversight'
     stufe: Drafting
     erwartet: offen
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18283
     titel: Concepts, measures and requirements for managing bias in AI systems
     stufe: Drafting (früheste Stufe)
     erwartet: nach Q4 2026
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18284
     titel: Quality and governance of datasets in AI
     stufe: Drafting
     erwartet: offen
-    verifiziert: true
+    verifiziert: false
   - nummer: prEN 18285
     titel: Conformity assessment framework
     stufe: Drafting
     erwartet: offen
-    verifiziert: true
+    verifiziert: false
   dokumente:
   - datum: 2025-10-23
     typ: abstimmung
@@ -891,7 +891,7 @@ regelwerke:
     titel: EU AI Act — Harmonised standards map (Stufen, Zitierstatus)
     url: https://ai-act-standards.com/
     sprache: EN
-    verifiziert: true
+    verifiziert: false
     typ_original: Normungs-Tracker
   - datum: 2026-08-27
     typ: norm
@@ -933,7 +933,7 @@ regelwerke:
   status: anwendbar
   inkrafttreten:
     datum: 2025-08-02
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten: []
   dokumente:
   - datum: 2024-01-24
@@ -1017,7 +1017,7 @@ regelwerke:
   status: verabschiedet
   inkrafttreten:
     datum: 2024-12-08
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten:
   - datum: 2026-12-09
     was_gilt: 'Umsetzungsfrist für die Mitgliedstaaten (Art. 22). Zugleich gilt die Richtlinie nur für
@@ -1025,7 +1025,7 @@ regelwerke:
       1). Richtlinie 85/374/EWG wird mit Wirkung vom 09.12.2026 aufgehoben (Art. 21).
 
       '
-    verifiziert: true
+    verifiziert: false
   dokumente:
   - datum: 2024-11-18
     typ: endfassung
@@ -1108,7 +1108,7 @@ regelwerke:
   status: gescheitert
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten: []
   dokumente:
   - datum: 2022-09-28
@@ -1296,7 +1296,7 @@ regelwerke:
       Art. 4 Abs. 3 DSM-RL (im Kontext Art. 53 Abs. 1 lit. c KI-VO); Frist 09.01.2026
     url: https://www.insideprivacy.com/artificial-intelligence/european-commission-launches-consultations-on-the-eu-ai-acts-copyright-provisions-and-ai-regulatory-sandboxes/
     sprache: EN
-    verifiziert: true
+    verifiziert: false
     typ_original: Konsultation (abgeschlossen)
   - datum: 2026-05-18
     typ: konsultation
@@ -1472,7 +1472,7 @@ regelwerke:
     verifiziert: false
   - datum: 2024-02-17
     was_gilt: Volle Anwendbarkeit für alle Vermittlungsdienste.
-    verifiziert: true
+    verifiziert: false
   dokumente:
   - datum: 2022-10-27
     typ: endfassung
@@ -1513,7 +1513,7 @@ regelwerke:
   status: anwendbar
   inkrafttreten:
     datum: 2022-11-01
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten:
   - datum: 2023-05-02
     was_gilt: Anwendbarkeit.
@@ -1559,7 +1559,7 @@ regelwerke:
   status: teilanwendbar
   inkrafttreten:
     datum: 2024-12-10
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten:
   - datum: 2026-06-11
     was_gilt: Pflichten für notifizierende Behörden / Konformitätsbewertungsstellen (Kapitel IV).
@@ -1567,11 +1567,11 @@ regelwerke:
   - datum: 2026-09-11
     was_gilt: 'Meldepflichten der Hersteller (Art. 14): aktiv ausgenutzte Schwachstellen und schwerwiegende
       Sicherheitsvorfälle — Frühwarnung binnen 24 h, Meldung binnen 72 h, Abschlussbericht binnen 14 Tagen.'
-    verifiziert: true
+    verifiziert: false
   - datum: 2027-12-11
     was_gilt: Volle Anwendung aller übrigen Pflichten (grundlegende Cybersicherheitsanforderungen, Konformitätsbewertung,
       CE).
-    verifiziert: true
+    verifiziert: false
   dokumente:
   - datum: 2024-11-20
     typ: endfassung
@@ -1731,7 +1731,7 @@ regelwerke:
       devices and IVDs (Gleiss Lutz)
     url: https://www.gleisslutz.com/en/know-how/radical-simplification-mdr-and-ivdr-and-broad-inapplicability-ai-act-medical-devices-and-ivds
     sprache: EN
-    verifiziert: true
+    verifiziert: false
     typ_original: Analyse zum Verhandlungsergebnis
   fristen: []
   offene_punkte:
@@ -1769,7 +1769,7 @@ regelwerke:
   status: softlaw
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
   anwendungsdaten: []
   dokumente:
   - datum: 2025-04-09

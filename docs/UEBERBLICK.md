@@ -18,7 +18,7 @@ Entscheidungen, die daran hängen, Literatur, die sie kommentiert — und quer
 | | |
 |---|---|
 | Regelwerke | **861** aus 50 Rechtsordnungen |
-| Verfahrensdokumente | **2040**, 72 % am Dokument geprüft |
+| Verfahrensdokumente | **2040**, 71 % mit amtlicher Adresse, 51 % am Dokument geprüft |
 | Einzelvorschriften (Normebene) | **2068** |
 | Entscheidungen | **418**, davon 223 von hoher Bedeutung |
 | Streitstände | **24** mit **194** Positionen |
@@ -45,8 +45,9 @@ sind Verweise — id, Regelwerk, Bezeichnung, Thema — und taugen zum Verknüpf
 und Filtern, nicht zum Lesen.
 
 **3. Entscheidung** — mit Rubrum, Aktenzeichen, Tenor, tragenden Gründen und
-der Fundstelle. 66 % führen einen amtlichen Volltext, bei hoher Bedeutung
-76 %. Was nicht am Dokument geprüft ist, trägt einen Prüfvermerk, der sagt,
+der Fundstelle. 61 % führen einen amtlichen Volltext, bei hoher Bedeutung
+72 %; weitere 12 % hängen an einer Rechtsdatenbank, die den Text führt, aber
+nicht die Urschrift ist. Was nicht am Dokument geprüft ist, trägt einen Prüfvermerk, der sagt,
 was fehlt.
 
 **4. Streitstand** — die ungeklärte Rechtsfrage, mit den einander
@@ -111,7 +112,7 @@ das Gegenteil eines geglätteten Bestandes.
   tragen die Substanz; einen ausgeschriebenen Sachverhalt führen 160
   Einträge, einen förmlichen Leitsatz 23. Für ein erzählendes Format ist der
   Sachverhalt je Fall aus dem Volltext nachzulesen; der Volltextlink ist
-  bei 66 % der Entscheidungen da.
+  bei 61 % der Entscheidungen da.
 
 **Was der Reifegrad je Rechtsordnung nicht sagt:** Er misst, ob die sechs
 Ebenen tragen, nicht welchen Anteil der Grundmenge wir haben. Niemand kennt

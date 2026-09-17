@@ -159,9 +159,9 @@ regelwerke:
     sprache: es
     urheber: Ministerio para la Transformación Digital y de la Función Pública
     verifiziert: true
-    notiz: 'Einzige in dieser Sitzung zugängliche Quelle mit dem vollständigen Wortlaut des Sanktionsregimes
-      (Art. 13-27) und der Kennzeichnungspflichten (Art. 16.1.c, Art. 20.1.b). Achtung: Vorläuferfassung
-      mit vier Kapiteln und abweichender Artikelzählung.'
+    notiz: 'Einzige zugängliche Quelle mit dem vollständigen Wortlaut des Sanktionsregimes (Art. 13-27) und
+      der Kennzeichnungspflichten (Art. 16.1.c, Art. 20.1.b). Achtung: Vorläuferfassung mit vier Kapiteln
+      und abweichender Artikelzählung.'
   - datum: 2025-03-11
     typ: folgenabschaetzung
     titel: Memoria del análisis de impacto normativo del anteproyecto de ley para el buen uso y la gobernanza
@@ -170,8 +170,8 @@ regelwerke:
     sprache: es
     urheber: Ministerio para la Transformación Digital y de la Función Pública
     verifiziert: false
-    notiz: Amtliche Folgenabschätzung zum anteproyecto. In dieser Sitzung nur über die Trefferliste nachgewiesen,
-      nicht selbst geöffnet.
+    notiz: Amtliche Folgenabschätzung zum anteproyecto. Nur über die Trefferliste nachgewiesen, nicht selbst
+      geöffnet.
   - datum: 2026-05-26
     typ: pressemitteilung
     titel: Referencia del Consejo de Ministros — El Gobierno regula la inteligencia artificial para asegurar
@@ -950,7 +950,7 @@ regelwerke:
     sprache: es
     urheber: Agencia Estatal Boletín Oficial del Estado
     verifiziert: false
-    notiz: Amtliche PDF-Ausgabe; in dieser Sitzung nicht selbst geöffnet.
+    notiz: Amtliche PDF-Ausgabe;
   offene_punkte:
   - Ob und wie das in Art. 23 Abs. 4 vorgesehene „sello de calidad de los algoritmos“ umgesetzt wurde,
     ist nicht feststellbar; der freiwillige Zertifizierungsrahmen der AESIA (Art. 10 Abs. 1 lit. d RD
@@ -1202,16 +1202,16 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-03-20
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.abogacia.es/wp-content/uploads/2026/04/CIRCULAR-INTERPRETATIVA-DEL-CODIGO-DEONTOLOGICO-3-2026.pdf
   anwendungsdaten:
   - datum: 2026-03-20
     was_gilt: Beschluss des Pleno des Consejo General de la Abogacía Española.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.abogacia.es/wp-content/uploads/2026/04/CIRCULAR-INTERPRETATIVA-DEL-CODIGO-DEONTOLOGICO-3-2026.pdf
   - datum: 2026-04-10
     was_gilt: Öffentliche Bekanntgabe durch die Abogacía Española.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.abogacia.es/actualidad/noticias/la-abogacia-espanola-advierte-de-los-riesgos-de-usar-la-ia-generativa-en-textos-profesionales/
   themenachsen:
   - berufsrecht
@@ -1244,7 +1244,7 @@ regelwerke:
     url: https://www.abogacia.es/wp-content/uploads/2026/04/CIRCULAR-INTERPRETATIVA-DEL-CODIGO-DEONTOLOGICO-3-2026.pdf
     sprache: es
     urheber: Pleno del Consejo General de la Abogacía Española
-    verifiziert: true
+    verifiziert: false
     notiz: Amtlicher Volltext auf dem Portal des Berufsverbandes; geöffnet und inhaltlich abgeglichen.
   - datum: 2026-04-10
     typ: pressemitteilung
@@ -1252,7 +1252,7 @@ regelwerke:
     url: https://www.abogacia.es/actualidad/noticias/la-abogacia-espanola-advierte-de-los-riesgos-de-usar-la-ia-generativa-en-textos-profesionales/
     sprache: es
     urheber: Consejo General de la Abogacía Española
-    verifiziert: true
+    verifiziert: false
     notiz: Amtliche Bekanntgabe; belegt das Veröffentlichungsdatum 10.04.2026 und die Kernpflichten.
   offene_punkte:
   - Datierungswiderspruch 20.03.2026 (Dokument) gegen 10.04.2026 (Zitierweise in der Literatur) nicht
@@ -1730,7 +1730,7 @@ regelwerke:
     sprache: es
     urheber: Agencia Estatal Boletín Oficial del Estado
     verifiziert: false
-    notiz: ELI-Adresse; in dieser Sitzung nicht selbst geöffnet.
+    notiz: ELI-Adresse;
   offene_punkte:
   - Das Datum des Inkrafttretens war im abgerufenen Text nicht erkennbar.
   - Ob KI-gestützte Technologien über Art. 6 Abs. 3 hinaus einer besonderen Bewertungsmethodik unterliegen

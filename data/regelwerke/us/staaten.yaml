@@ -27,7 +27,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.gibsondunn.com/regulating-the-future-eight-key-takeaways-from-californias-sb-1047-vetoed-by-governor-newsom/
   anwendungsdaten: []
   themenachsen:
@@ -53,7 +53,7 @@ regelwerke:
     url: https://www.gibsondunn.com/regulating-the-future-eight-key-takeaways-from-californias-sb-1047-vetoed-by-governor-newsom/
     sprache: en
     urheber: Gibson Dunn
-    verifiziert: true
+    verifiziert: false
     notiz: 'Strukturierte Aufbereitung des Vetotextes und der acht Kernpflichten; bestätigt Vetodatum
       29.09.2024, die Doppelschwelle (10^26 Operationen UND >100 Mio. USD Entwicklungskosten, Feinabstimmung
       ab 10 Mio. USD), den Kill-Switch, den Compliance-Beauftragten und die ab 2026 vorgesehenen jährlichen
@@ -118,13 +118,13 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.whitecase.com/insight-alert/california-enacts-landmark-ai-transparency-law-transparency-frontier-artificial
   anwendungsdaten:
   - datum: 2025-09-29
     was_gilt: Unterzeichnung durch Gouverneur Newsom, Ausfertigung beim Secretary of State (Chapter 138,
       Statutes of 2025).
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/CA/text/SB53/id/3271094
   - datum: 2026-01-01
     was_gilt: 'Volle Anwendbarkeit: Transparenzbericht vor Deployment (alle frontier developers), Frontier
@@ -132,7 +132,7 @@ regelwerke:
       nach Labor Code § 1107 ff.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.whitecase.com/insight-alert/california-enacts-landmark-ai-transparency-law-transparency-frontier-artificial
   - datum: 2027-01-01
     was_gilt: 'Cal OES veröffentlicht den ersten anonymisierten Jahresbericht über eingegangene Meldungen
@@ -140,7 +140,7 @@ regelwerke:
       legt der Legislative seinen Vorschlag für den öffentlichen Rechencluster vor.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lw.com/en/insights/california-assumes-role-as-lead-us-regulator-of-ai
   - datum: 2027-01-01
     was_gilt: 'Beginn der jährlichen Überprüfung der Legaldefinitionen ("frontier model", "large frontier
@@ -148,7 +148,7 @@ regelwerke:
       Code § 11546.8). Die Compute- und Umsatzschwellen können dadurch abgesenkt werden.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Transparency_in_Frontier_Artificial_Intelligence_Act
   themenachsen:
   - gpai
@@ -182,7 +182,7 @@ regelwerke:
     url: https://legiscan.com/CA/text/SB53/id/3271094
     sprache: en
     urheber: California Legislature / LegiScan
-    verifiziert: true
+    verifiziert: false
     notiz: Ausgefertigter Gesetzestext mit Kapitelnummer und Kodifikationsangaben. Ersatzquelle, weil
       leginfo.legislature.ca.gov aus dieser Sitzung gesperrt war.
   - datum: 2025-09-29
@@ -201,7 +201,7 @@ regelwerke:
     url: https://fpf.org/blog/californias-sb-53-the-first-frontier-ai-law-explained/
     sprache: en
     urheber: Future of Privacy Forum
-    verifiziert: true
+    verifiziert: false
     notiz: Belastbarste unabhängige Aufbereitung der Pflichtenstruktur und der Abgrenzung frontier developer
       / large frontier developer.
   - datum: 2025-10-01
@@ -211,7 +211,7 @@ regelwerke:
     url: https://www.whitecase.com/insight-alert/california-enacts-landmark-ai-transparency-law-transparency-frontier-artificial
     sprache: en
     urheber: White & Case LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für das Datum des Inkrafttretens 01.01.2026 und die Definition des katastrophalen Risikos.
   - datum: 2026-01-29
     typ: uebersicht
@@ -219,7 +219,7 @@ regelwerke:
     url: https://metr.substack.com/p/2026-01-29-frontier-ai-safety-regulations
     sprache: en
     urheber: METR
-    verifiziert: true
+    verifiziert: false
     notiz: 'Praxisvergleich SB 53 / RAISE Act / EU-GPAI-Verhaltenskodex aus Sicht der Compliance-Praxis
       der Labore. Wichtig für die Frage, wie ein europäischer Anbieter beide Regime parallel bedient.
 
@@ -274,7 +274,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mofo.com/artificial-intelligence/california
   anwendungsdaten:
   - datum: 2026-01-01
@@ -283,7 +283,7 @@ regelwerke:
       Erfassung aller Systeme ab Veröffentlichung/Update 01.01.2022.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.crowell.com/en/insights/client-alerts/californias-ab-2013-requires-generative-ai-data-disclosure-by-january-1-2026
   themenachsen:
   - urheberrecht
@@ -311,7 +311,7 @@ regelwerke:
     url: https://www.crowell.com/en/insights/client-alerts/californias-ab-2013-requires-generative-ai-data-disclosure-by-january-1-2026
     sprache: en
     urheber: Crowell & Moring LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Liste der Offenlegungsposten, der Ausnahmen und der Regelungslücken bei Vollzug
       und Sanktion.
   - datum: 2026-01-15
@@ -320,7 +320,7 @@ regelwerke:
     url: https://www.mofo.com/artificial-intelligence/california
     sprache: en
     urheber: Morrison Förster
-    verifiziert: true
+    verifiziert: false
     notiz: Laufend gepflegte Übersicht aller kalifornischen KI-Gesetze mit Inkrafttretensdaten; Quelle
       für die Einordnung 'operativ 01.01.2025, Pflicht 01.01.2026'.
   offene_punkte:
@@ -364,13 +364,13 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mofo.com/artificial-intelligence/california
   anwendungsdaten:
   - datum: 2025-01-01
     was_gilt: Erweiterte Definition personenbezogener Daten gilt; KI-Systeme, die personenbezogene Daten
       ausgeben können, sind erfasst.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mofo.com/artificial-intelligence/california
   themenachsen:
   - datenschutz
@@ -397,7 +397,7 @@ regelwerke:
     url: https://fpf.org/blog/do-llms-contain-personal-information-california-ab-1008-highlights-evolving-complex-techno-legal-debate/
     sprache: en
     urheber: Future of Privacy Forum
-    verifiziert: true
+    verifiziert: false
     notiz: 'Analyse der Kernfrage, ob Modellgewichte personenbezogene Daten enthalten. Stellt die europäischen
       Gegenpositionen gegenüber: Die Hamburgische Datenschutzaufsicht und die dänische Aufsicht verneinen
       einen Personenbezug der Gewichte (Tokenisierung als abstrakte mathematische Repräsentation), während
@@ -455,18 +455,18 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.afslaw.com/perspectives/alerts/california-requires-disclaimers-health-care-providers-ai-generated-patient
   anwendungsdaten:
   - datum: 2025-01-01
     was_gilt: 'AB 3030: Kennzeichnungspflicht für GenKI-erzeugte klinische Patientenkommunikation; ebenso
       SB 1120 (KI in der Leistungsprüfung von Krankenversicherern).'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.afslaw.com/perspectives/alerts/california-requires-disclaimers-health-care-providers-ai-generated-patient
   - datum: 2026-01-01
     was_gilt: 'AB 489: Verbot der Verwendung geschützter Berufsbezeichnungen und -titel durch KI-Systeme
       im Gesundheitskontext; durchsetzbar über die berufsrechtlichen Aufsichtsgremien.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.aoshearman.com/en/insights/ao-shearman-on-tech/zooming-in-on-ai-california-evolving-ai-legal-landscape-entering-2026
   themenachsen:
   - sektor-medizin
@@ -491,7 +491,7 @@ regelwerke:
     url: https://www.afslaw.com/perspectives/alerts/california-requires-disclaimers-health-care-providers-ai-generated-patient
     sprache: en
     urheber: ArentFox Schiff LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Darstellung der Formatvorgaben je Kommunikationsmedium und der Human-Review-Ausnahme.
   - datum: 2026-01-08
     typ: uebersicht
@@ -499,7 +499,7 @@ regelwerke:
     url: https://www.aoshearman.com/en/insights/ao-shearman-on-tech/zooming-in-on-ai-california-evolving-ai-legal-landscape-entering-2026
     sprache: en
     urheber: A&O Shearman
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die zum 01.01.2026 wirksamen Gesetze einschließlich AB 489, AB 316, AB 325, SB 361,
       AB 621.
   offene_punkte:
@@ -548,20 +548,20 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-08-02
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative
   anwendungsdaten:
   - datum: 2026-01-01
     was_gilt: AB 853 selbst tritt in Kraft und verschiebt die SB-942-Pflichten vom 01.01.2026 auf den
       02.08.2026; zugleich werden Plattform- und Gerätepflichten neu eingefügt.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.aoshearman.com/en/insights/ao-shearman-on-tech/zooming-in-on-ai-california-evolving-ai-legal-landscape-entering-2026
   - datum: 2026-08-02
     was_gilt: 'Stufe 1 — GenKI-Anbieter mit über 1 Mio. monatlichen Nutzern: latente Kennzeichnung Pflicht,
       manifeste Kennzeichnung als Option anzubieten, kostenloses Erkennungswerkzeug bereitzustellen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative
   - datum: 2027-01-01
     was_gilt: 'Stufe 2 — große Online-Plattformen müssen eingebettete Provenienzdaten erkennen und dem
@@ -569,14 +569,14 @@ regelwerke:
       zum Download oder zur Nutzung anbieten.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative
   - datum: 2028-01-01
     was_gilt: 'Stufe 3 — Hersteller von Aufnahmegeräten (Kameras, Smartphones, Rekorder) müssen die Aufnahme
       von Provenienzdaten in erfasste Inhalte standardmäßig ermöglichen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative
   themenachsen:
   - content
@@ -604,7 +604,7 @@ regelwerke:
     url: https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative
     sprache: en
     urheber: Morgan, Lewis & Bockius LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Die maßgebliche Darstellung zum tatsächlichen Wirksamwerden am 02.08.2026 samt der Stufen 2027
       und 2028 und der Sanktionshöhe.
   - datum: 2025-10-15
@@ -682,11 +682,11 @@ regelwerke:
       und die zugehörige Risikobewertung umgesetzt haben.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2025/10/california-finalizes-cppa-regulations
   - datum: 2027-12-31
     was_gilt: Stichtag für die Durchführung der ersten Risikobewertungen für bereits laufende Verarbeitungstätigkeiten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2025/10/california-finalizes-cppa-regulations
   - datum: 2028-04-01
     was_gilt: 'Erste Meldung an die CPPA über die in 2026 und 2027 durchgeführten Risikobewertungen (gemeldet
@@ -694,15 +694,15 @@ regelwerke:
       für Unternehmen mit über 100 Mio. USD Umsatz im Jahr 2026.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2025/10/california-finalizes-cppa-regulations
   - datum: 2029-04-01
     was_gilt: Cybersicherheits-Audit für Unternehmen mit 50 bis 100 Mio. USD Umsatz im Jahr 2027.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2025/10/california-finalizes-cppa-regulations
   - datum: 2030-04-01
     was_gilt: Cybersicherheits-Audit für Unternehmen mit unter 50 Mio. USD Umsatz im Jahr 2028.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2025/10/california-finalizes-cppa-regulations
   themenachsen:
   - datenschutz
@@ -742,7 +742,7 @@ regelwerke:
     url: https://www.skadden.com/insights/publications/2025/10/california-finalizes-cppa-regulations
     sprache: en
     urheber: Skadden, Arps, Slate, Meagher & Flom LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Fristentabelle (01.04.2027, 31.12.2027, 01.04.2028/2029/2030) und die maßgeblichen
       Definitionen. Die belastbarste Einzelquelle für die Staffelung.
   offene_punkte:
@@ -844,7 +844,7 @@ regelwerke:
     url: https://www.littler.com/news-analysis/asap/california-approves-landmark-ai-employment-regulations
     sprache: en
     urheber: Littler Mendelson P.C.
-    verifiziert: true
+    verifiziert: false
     notiz: Nennt die geänderten Paragrafen von Titel 2 CCR im Einzelnen und die Eingrenzungen der Endfassung
       bei 'agent' und Aufbewahrung.
   - datum: 2025-09-15
@@ -853,7 +853,7 @@ regelwerke:
     url: https://ogletree.com/insights-resources/blog-posts/10-faqs-about-californias-new-algorithmic-discrimination-rules/
     sprache: en
     urheber: Ogletree Deakins
-    verifiziert: true
+    verifiziert: false
     notiz: Praxisorientierte Auslegung von ADS-Definition, Drittanbieterhaftung und Beweiswert des Anti-Bias-Testings.
   offene_punkte:
   - Der amtliche Endtext (PDF des Civil Rights Department) war beim Abruf nicht maschinenlesbar; die Paragrafenliste
@@ -902,7 +902,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ashurstperkinscoie.com/en/insights/california-companion-chatbot-law-now-in-effect/
   anwendungsdaten:
   - datum: 2026-01-01
@@ -910,14 +910,14 @@ regelwerke:
       Verbot sexueller Inhalte), Krisenprotokoll und dessen Veröffentlichung, privates Klagerecht.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ashurstperkinscoie.com/en/insights/california-companion-chatbot-law-now-in-effect/
   - datum: 2027-07-01
     was_gilt: 'Erste jährliche Meldung an das Office of Suicide Prevention: Zahl der ausgegebenen Krisendienst-Verweise
       und Beschreibung der eingesetzten Protokolle.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ashurstperkinscoie.com/en/insights/california-companion-chatbot-law-now-in-effect/
   themenachsen:
   - grundrechte
@@ -945,7 +945,7 @@ regelwerke:
     url: https://www.ashurstperkinscoie.com/en/insights/california-companion-chatbot-law-now-in-effect/
     sprache: en
     urheber: Perkins Coie LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Bestätigt Inkrafttreten 01.01.2026 und die Berichtspflicht ab 01.07.2027 im Wortlaut.
   - datum: 2025-10-20
     typ: bericht
@@ -954,7 +954,7 @@ regelwerke:
     url: https://www.skadden.com/insights/publications/2025/10/new-california-companion-chatbot-law
     sprache: en
     urheber: Skadden, Arps, Slate, Meagher & Flom LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Definitionen, Ausnahmekatalog und Sanktionsstruktur einschließlich des privaten Klagerechts.
   - datum: 2025-11-20
     typ: bericht
@@ -962,7 +962,7 @@ regelwerke:
     url: https://www.mofo.com/resources/insights/251120-new-york-and-california-enact-landmark-ai
     sprache: en
     urheber: Morrison Förster
-    verifiziert: true
+    verifiziert: false
     notiz: 'Direktvergleich SB 243 und New York GBL Art. 47. Bestätigt ausdrücklich, dass BEIDE Gesetze
       für Betreiber gelten, die Nutzer im jeweiligen Staat bedienen, UNABHÄNGIG VOM SITZ DES BETREIBERS
       — der klarste Beleg für die extraterritoriale Reichweite. Bestätigt zudem die Frequenzasymmetrie
@@ -1031,12 +1031,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.transparencycoalition.ai/news/ai-legislative-update-august21-2026
   anwendungsdaten:
   - datum: 2026-08-31
     was_gilt: Vertagung der Legislative; alle nicht verabschiedeten Vorhaben fallen für diese Sitzungsperiode.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.transparencycoalition.ai/news/ai-legislative-update-august21-2026
   - datum: 2026-09-30
     was_gilt: Ende der 30-Tage-Frist des Gouverneurs für die letzten zugeleiteten Vorlagen (Richtwert;
@@ -1074,7 +1074,7 @@ regelwerke:
     url: https://www.transparencycoalition.ai/news/ai-legislative-update-august21-2026
     sprache: en
     urheber: Transparency Coalition
-    verifiziert: true
+    verifiziert: false
     notiz: Aktuellste verfügbare Momentaufnahme der kalifornischen Sitzungsperiode mit Einzelstatus je
       Vorlage; Grundlage der obigen Aufzählung.
   - datum: 2026-08-22
@@ -1157,7 +1157,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mcdermottlaw.com/insights/colorado-ai-law-in-flux-comprehensive-replacement-bill-signed-after-federal-court-blocks-predecessors-enforcement/
   anwendungsdaten:
   - datum: 2024-05-17
@@ -1178,7 +1178,7 @@ regelwerke:
       den Antrag von xAI auf einstweilige Verfügung. Durchsetzung damit ausgesetzt.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mcdermottlaw.com/insights/colorado-ai-law-in-flux-comprehensive-replacement-bill-signed-after-federal-court-blocks-predecessors-enforcement/
   - datum: 2026-05-14
     was_gilt: Aufhebung und Neuerlass durch SB 26-189. SB 24-205 ist damit endgültig erledigt, ohne je
@@ -1221,7 +1221,7 @@ regelwerke:
     url: https://www.mcdermottlaw.com/insights/colorado-ai-law-in-flux-comprehensive-replacement-bill-signed-after-federal-court-blocks-predecessors-enforcement/
     sprache: en
     urheber: McDermott Will & Schulte
-    verifiziert: true
+    verifiziert: false
     notiz: 'Vollständige Chronologie: Klage xAI 09.04.2026, DOJ-Intervention 24.04.2026, Stipulated Order
       27.04.2026, Ersatzgesetz 14.05.2026. Die belastbarste Einzelquelle.'
   - datum: 2026-04-30
@@ -1232,11 +1232,8 @@ regelwerke:
     urheber: Jenner & Block LLP
     verifiziert: false
     notiz: 'Prozessuale Einordnung der DOJ-Intervention. NICHT ABGERUFEN: Die zunächst herangezogene Darstellung
-      von Norton Rose Fulbright ist per robots.txt für automatisierte Abrufe gesperrt; dieser Ersatzbeleg
-      wurde in dieser Sitzung ebenfalls nicht geöffnet. Der Sachverhalt selbst ist über McDermott (siehe
-      oben) verifiziert.
-
-      '
+      von Norton Rose Fulbright ist per robots.txt für automatisierte Abrufe gesperrt; der Sachverhalt selbst
+      ist über McDermott (siehe oben) verifiziert.'
   offene_punkte:
   - Ob SB 24-205 formal rückwirkend oder erst zum 01.01.2027 vollständig außer Kraft tritt, ist in den
     ausgewerteten Quellen nicht einheitlich dargestellt; praktisch ohne Folgen, da nie anwendbar.
@@ -1299,12 +1296,12 @@ regelwerke:
       durch Rechtsverordnung konkretisiert haben.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.dwt.com/blogs/privacy--security-law-blog/2026/05/colorado-ai-act-repeal-new-transparency-law
   - datum: 2030-01-01
     was_gilt: Auslaufen der 60-tägigen Heilungsfrist ('right to cure'); danach kann der Attorney General
       ohne Vorwarnung vorgehen.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.finnegan.com/en/insights/articles/colorado-replaces-landmark-ai-act-an-overview-of-the-new-sb-26-189-framework.html
   themenachsen:
   - grundrechte
@@ -1345,7 +1342,7 @@ regelwerke:
     url: https://www.finnegan.com/en/insights/articles/colorado-replaces-landmark-ai-act-an-overview-of-the-new-sb-26-189-framework.html
     sprache: en
     urheber: Finnegan, Henderson, Farabow, Garrett & Dunner
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierteste Gegenüberstellung alt/neu einschließlich Ausnahmekatalog, Haftungsverteilung
       und Heilungsfrist bis 01.01.2030.
   - datum: 2026-05-19
@@ -1355,7 +1352,7 @@ regelwerke:
     url: https://www.dwt.com/blogs/privacy--security-law-blog/2026/05/colorado-ai-act-repeal-new-transparency-law
     sprache: en
     urheber: Davis Wright Tremaine LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für den Anwendungsbeginn 01.01.2027, die Verordnungsfrist des Attorney General und den
       Fortgang des xAI-Verfahrens.
   - datum: 2026-05-26
@@ -1364,7 +1361,7 @@ regelwerke:
     url: https://www.crowell.com/en/insights/client-alerts/colorado-hits-reset-on-ai-regulation-sb-26-189-repeals-and-reenacts-the-colorado-ai-act
     sprache: en
     urheber: Crowell & Moring LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Bestätigt, dass SB 26-189 keine Größen- oder Beschäftigtenschwelle kennt — die Anwendbarkeit
       richtet sich allein nach der Art der eingesetzten Technologie.
   offene_punkte:
@@ -1417,19 +1414,19 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bakerbotts.com/thought-leadership/publications/2025/july/texas-enacts-responsible-ai-governance-act-what-companies-need-to-know
   anwendungsdaten:
   - datum: 2025-06-22
     was_gilt: Unterzeichnung durch Gouverneur Abbott.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bakerbotts.com/thought-leadership/publications/2025/july/texas-enacts-responsible-ai-governance-act-what-companies-need-to-know
   - datum: 2026-01-01
     was_gilt: 'Volle Anwendbarkeit: Verbotstatbestände, Behördenpflichten, Gesundheits-Offenlegung, Sandbox,
       Durchsetzung durch den Attorney General, Präemption lokaler Regelungen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bakerbotts.com/thought-leadership/publications/2025/july/texas-enacts-responsible-ai-governance-act-what-companies-need-to-know
   themenachsen:
   - grundrechte
@@ -1462,7 +1459,7 @@ regelwerke:
     url: https://www.bakerbotts.com/thought-leadership/publications/2025/july/texas-enacts-responsible-ai-governance-act-what-companies-need-to-know
     sprache: en
     urheber: Baker Botts L.L.P.
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Darstellung von Anwendungsbereich, Absichtserfordernis, Behördenpflichten, Sandbox
       und Sanktionsstaffel.
   - datum: 2025-06-24
@@ -1472,7 +1469,7 @@ regelwerke:
     url: https://www.klgates.com/Pared-Back-Version-of-the-Texas-Responsible-Artificial-Intelligence-Governance-Act-Signed-Into-Law-6-24-2025
     sprache: en
     urheber: K&L Gates LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Dokumentiert, was gegenüber dem Ursprungsentwurf HB 1709 gestrichen wurde: Offenlegungspflichten
       privater Arbeitgeber gegenüber Bewerbern und Beschäftigten, verpflichtende Impact Assessments zur
       Erkennung und Minderung algorithmischer Verzerrung sowie Pflicht zu Risikominderungsrichtlinien
@@ -1534,23 +1531,23 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hinshawlaw.com/en/insights/blogs/employment-law-observer/illinois-adopts-new-ai-in-employment-regulations-what-employers-need-to-know-for-2026
   anwendungsdaten:
   - datum: 2026-01-01
     was_gilt: Diskriminierungsverbot beim KI-Einsatz im Beschäftigungsverhältnis, Verbot der Postleitzahl
       als Proxy, Informationspflicht gegenüber Bewerbern und Beschäftigten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hinshawlaw.com/en/insights/blogs/employment-law-observer/illinois-adopts-new-ai-in-employment-regulations-what-employers-need-to-know-for-2026
   - datum: 2026-05-15
     was_gilt: 'Veröffentlichung der vorgeschlagenen IDHR-Regeln (''Subpart J: Use of Artificial Intelligence
       in Employment'') im Illinois Register, Bd. 50 Nr. 20; Beginn der 45-Tage-Frist.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://ogletree.com/insights-resources/blog-posts/illinois-postpones-proposed-regulations-on-ai-in-employment/
   - datum: 2026-06-02
     was_gilt: Rücknahme und Vertagung der vorgeschlagenen Regeln durch das IDHR; die Behörde verweist
       auf notwendige Abstimmung mit anderen Landesbehörden. Kein neuer Termin bekannt.
-    verifiziert: true
+    verifiziert: false
     quelle: https://ogletree.com/insights-resources/blog-posts/illinois-postpones-proposed-regulations-on-ai-in-employment/
   themenachsen:
   - arbeit
@@ -1576,7 +1573,7 @@ regelwerke:
     url: https://www.hinshawlaw.com/en/insights/blogs/employment-law-observer/illinois-adopts-new-ai-in-employment-regulations-what-employers-need-to-know-for-2026
     sprache: en
     urheber: Hinshaw & Culbertson LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Darstellung des Gesetzesinhalts und des vollständigen Hinweiskatalogs der Entwurfsregeln.
   - datum: 2026-06-08
     typ: bericht
@@ -1584,7 +1581,7 @@ regelwerke:
     url: https://ogletree.com/insights-resources/blog-posts/illinois-postpones-proposed-regulations-on-ai-in-employment/
     sprache: en
     urheber: Ogletree Deakins
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Veröffentlichung (15.05.2026) und Rücknahme (02.06.2026) der IDHR-Regeln samt Fundstelle
       im Illinois Register.
   offene_punkte:
@@ -1629,7 +1626,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2008-10-03
-    verifiziert: true
+    verifiziert: false
     quelle: https://law.justia.com/codes/illinois/chapter-740/act-740-ilcs-14/
     fundstelle_norm: 'Amtliche Quellenangabe der Illinois Compiled Statutes zu 740 ILCS 14/1: ''(Source:
       P.A. 95-994, eff. 10-3-08.)'''
@@ -1638,7 +1635,7 @@ regelwerke:
     was_gilt: Novelle durch SB 2979 (Public Act 103-769) — Begrenzung auf einen Verstoss je betroffener
       Person und je Verfahrensart (740 ILCS 14/20), Klarstellung zur elektronischen Einwilligung; mit
       sofortiger Wirkung ab Ausfertigung
-    verifiziert: true
+    verifiziert: false
     quelle: https://law.justia.com/codes/illinois/chapter-740/act-740-ilcs-14/
   themenachsen:
   - datenschutz
@@ -1665,7 +1662,7 @@ regelwerke:
     url: https://www.kslaw.com/news-and-insights/illinois-bipa-reform-takes-effect
     sprache: en
     urheber: King & Spalding LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Datum und Inhalt von SB 2979 einschließlich Rechenbeispiel zur Haftungsbegrenzung und
       Hinweis auf die Ausdehnung auf KI-Technologien.
   - datum: 2025-01-01
@@ -1726,7 +1723,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-08-04
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.bakerdonelson.com/illinois-passes-extensive-law-regulating-ai-in-behavioral-health
   anwendungsdaten:
   - datum: 2025-08-04
@@ -1770,7 +1767,7 @@ regelwerke:
     url: https://www.bakerdonelson.com/illinois-passes-extensive-law-regulating-ai-in-behavioral-health
     sprache: en
     urheber: Baker Donelson
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Darstellung von Verbotsumfang, zulässigen Nutzungen, Einwilligungserfordernis
       und Sanktionshöhe.
   offene_punkte:
@@ -1817,23 +1814,23 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2027-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2026/07/illinois-enacts-ai-safety-law-becoming-first-state
   anwendungsdaten:
   - datum: 2026-07-06
     was_gilt: Unterzeichnung durch Gouverneur Pritzker.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2026/07/illinois-enacts-ai-safety-law-becoming-first-state
   - datum: 2027-01-01
     was_gilt: Inkrafttreten des Gesetzes; Beginn der Offenlegungserklärung und der Vorfallmeldepflichten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2026/07/illinois-enacts-ai-safety-law-becoming-first-state
   - datum: 2028-01-01
     was_gilt: 'Kernpflichten: veröffentlichtes Safety Framework, Transparenzberichte und — als Erstes
       in den USA — das unabhängige Drittaudit (bzw. 90 Tage nach erstmaliger Qualifikation, falls später).
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.skadden.com/insights/publications/2026/07/illinois-enacts-ai-safety-law-becoming-first-state
   themenachsen:
   - gpai
@@ -1860,7 +1857,7 @@ regelwerke:
     url: https://www.skadden.com/insights/publications/2026/07/illinois-enacts-ai-safety-law-becoming-first-state
     sprache: en
     urheber: Skadden, Arps, Slate, Meagher & Flom LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Pflichtenbeschreibung samt Vergleichstabelle Illinois / Kalifornien / New York.
       Die beste Einzelquelle zum Drei-Staaten-Block.
   - datum: 2026-07-08
@@ -1869,7 +1866,7 @@ regelwerke:
     url: https://www.transparencycoalition.ai/news/illinois-gov-pritzker-signs-landmark-ai-safety-measures-act-into-law
     sprache: en
     urheber: Transparency Coalition
-    verifiziert: true
+    verifiziert: false
     notiz: 'Bestätigt Unterzeichnung am 06.07.2026 und die Urheberschaft (Sen. Mary Edly-Allen, Rep. Daniel
       Didech). Benennt das jährliche unabhängige Drittaudit ausdrücklich als erste derartige Pflicht in
       einem einzelstaatlichen KI-Gesetz; nennt zusätzlich einen Whistleblower-Schutz für "covered employees",
@@ -1921,7 +1918,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2023-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawandtheworkplace.com/wp-content/uploads/sites/29/2023/03/Local-Law-144.pdf
     fundstelle_norm: '§ 2 des Local Law 144 of 2021: ''This local law takes effect on January 1, 2023.''
       Beschlossen vom City Council am 10.11.2021, ohne Unterschrift des Buergermeisters am 13.12.2021
@@ -2020,7 +2017,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2027-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.wiley.law/alert-New-York-Finalizes-RAISE-Act-for-Frontier-AI-Models-Law-Takes-Effect-January-1-2027
   anwendungsdaten:
   - datum: 2025-12-19
@@ -2033,14 +2030,14 @@ regelwerke:
       kalifornische TFAIA; die 72-Stunden-Meldefrist bleibt erhalten.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.wiley.law/alert-New-York-Finalizes-RAISE-Act-for-Frontier-AI-Models-Law-Takes-Effect-January-1-2027
   - datum: 2027-01-01
     was_gilt: 'Anwendungsbeginn: Frontier AI Framework, Transparenzbericht vor Deployment, 72-Stunden-Vorfallmeldung
       an die DFS-Stelle, Offenlegungserklärung.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.wiley.law/alert-New-York-Finalizes-RAISE-Act-for-Frontier-AI-Models-Law-Takes-Effect-January-1-2027
   themenachsen:
   - gpai
@@ -2075,7 +2072,7 @@ regelwerke:
     url: https://www.wiley.law/alert-New-York-Finalizes-RAISE-Act-for-Frontier-AI-Models-Law-Takes-Effect-January-1-2027
     sprache: en
     urheber: Wiley Rein LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt den Verfahrensgang der Chapter Amendment (06.01./11.03./27.03.2026), Schwellen, Meldefristen
       und Sanktionen.
   - datum: 2025-12-19
@@ -2095,7 +2092,7 @@ regelwerke:
     url: https://www.cooley.com/news/insight/2026/2026-03-31-new-yorks-frontier-ai-law-gets-a-california-makeover-with-some-key-differences
     sprache: en
     urheber: Cooley LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Detaillierter Vergleich der verbliebenen Abweichungen gegenüber SB 53 nach der Angleichung.
       WIDERSPRUCH ZU WILEY: Cooley berichtet, die Katastrophenschwelle des geänderten RAISE Act sei mit
       der kalifornischen identisch (mehr als 50 Betroffene bzw. über 1 Mrd. USD Schaden); Wiley legt 100
@@ -2150,13 +2147,13 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-11-05
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.fenwick.com/insights/publications/new-yorks-ai-companion-safeguard-law-takes-effect
   anwendungsdaten:
   - datum: 2025-11-05
     was_gilt: 'Volle Anwendbarkeit: 3-Stunden-Offenlegung, Suizid-Erkennungs- und Verweisprotokoll, Durchsetzung
       durch den Attorney General.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.fenwick.com/insights/publications/new-yorks-ai-companion-safeguard-law-takes-effect
   - datum: 2025-11-10
     was_gilt: Anschreiben der Gouverneurin an die Companion-AI-Anbieter mit Hinweis auf die geltenden
@@ -2185,7 +2182,7 @@ regelwerke:
     url: https://www.fenwick.com/insights/publications/new-yorks-ai-companion-safeguard-law-takes-effect
     sprache: en
     urheber: Fenwick & West LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Inkrafttreten 05.11.2025, die Pflichten im Einzelnen und die Sanktionshöhe von 15.000
       USD je Tag.
   - datum: 2025-11-10
@@ -2242,20 +2239,20 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.transparencycoalition.ai/news/new-york-lawmakers-pass-kids-ai-chatbot-safety-bill-and-two-transparency-acts
   anwendungsdaten:
   - datum: 2026-06-01
     was_gilt: Ende der Sitzungsperiode; Zuleitung der verabschiedeten Vorlagen an die Gouverneurin.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.transparencycoalition.ai/news/new-york-lawmakers-pass-kids-ai-chatbot-safety-bill-and-two-transparency-acts
   - datum: 2026-12-31
     was_gilt: Ablauf der Entscheidungsfrist der Gouverneurin für Unterzeichnung oder Veto.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.transparencycoalition.ai/news/new-york-lawmakers-pass-kids-ai-chatbot-safety-bill-and-two-transparency-acts
   - datum: 2027-01-01
     was_gilt: Vorgesehener Anwendungsbeginn des Kids Chatbot Safety Act (S 9051), sofern unterzeichnet.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.transparencycoalition.ai/news/new-york-lawmakers-pass-kids-ai-chatbot-safety-bill-and-two-transparency-acts
   themenachsen:
   - content
@@ -2280,7 +2277,7 @@ regelwerke:
     url: https://www.transparencycoalition.ai/news/new-york-lawmakers-pass-kids-ai-chatbot-safety-bill-and-two-transparency-acts
     sprache: en
     urheber: Transparency Coalition
-    verifiziert: true
+    verifiziert: false
     notiz: Bill-Nummern, Abstimmungsergebnisse, vorgesehene Anwendungsdaten und Sanktionen der 2026 verabschiedeten
       New Yorker KI-Gesetze.
   - datum: 2026-01-29
@@ -2346,13 +2343,13 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-05-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://fpf.org/blog/chatbots-in-check-utahs-latest-ai-legislation/
   anwendungsdaten:
   - datum: 2024-05-01
     was_gilt: 'Inkrafttreten des Utah AI Policy Act in der Ursprungsfassung: allgemeine Offenlegungspflicht,
       Zurechnungsregel, Office of AI Policy mit Reallabor.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://fpf.org/blog/chatbots-in-check-utahs-latest-ai-legislation/
   - datum: 2025-05-07
     was_gilt: 'SB 226 und SB 332 wirksam: Beschränkung der Offenlegungspflicht auf Nachfrage und Hochrisiko-Interaktionen,
@@ -2369,7 +2366,7 @@ regelwerke:
   - datum: 2027-07-01
     was_gilt: Sonnenuntergang (Repeal Date) des Utah AI Policy Act, sofern die Legislative ihn nicht erneut
       verlängert.
-    verifiziert: true
+    verifiziert: false
     quelle: https://fpf.org/blog/chatbots-in-check-utahs-latest-ai-legislation/
   themenachsen:
   - content
@@ -2398,7 +2395,7 @@ regelwerke:
     url: https://fpf.org/blog/chatbots-in-check-utahs-latest-ai-legislation/
     sprache: en
     urheber: Future of Privacy Forum
-    verifiziert: true
+    verifiziert: false
     notiz: Beste zusammenhängende Darstellung von SB 149, SB 226, SB 332 und HB 452 samt Sonnenuntergangsdatum
       und Reallabor.
   - datum: 2025-04-15
@@ -2408,7 +2405,7 @@ regelwerke:
     url: https://www.dwt.com/blogs/artificial-intelligence-law-advisor/2025/04/utah-regulation-ai-policy-mental-health-chatbots
     sprache: en
     urheber: Davis Wright Tremaine LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Detaillierte Auslegung des Safe Harbor und des Begriffs der Hochrisiko-Interaktion.
   - datum: 2025-04-01
     typ: uebersicht
@@ -2471,7 +2468,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-05-07
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ebglaw.com/health-law-advisor/utah-law-aims-to-regulate-ai-mental-health-chatbots
   anwendungsdaten:
   - datum: 2025-05-07
@@ -2480,7 +2477,7 @@ regelwerke:
       Einrede.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ebglaw.com/health-law-advisor/utah-law-aims-to-regulate-ai-mental-health-chatbots
   - datum: 2026-03-18
     was_gilt: HB 320 (Office of Artificial Intelligence Policy Amendments) unterzeichnet.
@@ -2519,7 +2516,7 @@ regelwerke:
     url: https://utahnewsdispatch.com/2026/02/26/white-house-blocks-utah-ai-bill-as-chatbot-deepfake-regulations-advance/
     sprache: en
     urheber: Utah News Dispatch
-    verifiziert: true
+    verifiziert: false
     notiz: Dokumentiert die Blockade von HB 286 durch das Weiße Haus und den Fortgang von HB 438 und HB
       276. Der beste Beleg für die faktische Wirkung von EO 14365 auf die Landesgesetzgebung.
   - datum: 2026-03-24
@@ -2537,7 +2534,7 @@ regelwerke:
     url: https://www.ebglaw.com/health-law-advisor/utah-law-aims-to-regulate-ai-mental-health-chatbots
     sprache: en
     urheber: Epstein Becker Green
-    verifiziert: true
+    verifiziert: false
     notiz: 'Bestätigt Wirksamkeitsdatum 07.05.2025 und liefert die Utah-Code- Fundstellen (13-72a-101,
       13-72a-201 bis 203, 58-60-118). Wichtig ist die dort beschriebene Konstruktion: Die Dokumentationspflichten
       (Grundmodelle, Trainingsdaten, HIPAA-Konformität, Datenerhebung und -weitergabe) sowie die bei der
@@ -2594,7 +2591,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/where-state-ai-legislation-stands-half-way-into-2026/
   anwendungsdaten:
   - datum: 2025-12-11
@@ -2605,7 +2602,7 @@ regelwerke:
       Landesgesetze.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.whitecase.com/insight-alert/state-ai-laws-under-federal-scrutiny-key-takeaways-executive-order-establishing
   - datum: 2026-05-27
     was_gilt: 'Connecticut erlässt das umfassendste Omnibus-KI-Gesetz 2026 (Online-Sicherheit, KI-Begleiter,
@@ -2613,12 +2610,12 @@ regelwerke:
       01.10.2026, 01.01.2027, 01.10.2027 und 01.01.2028.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mofo.com/resources/insights/260608-connecticut-enacts-sweeping-ai-law
   - datum: 2026-07-20
     was_gilt: New Jersey erlässt den FAIR Act (A 3497) gegen algorithmische Mietpreisabstimmung — eine
       der ersten US-Regelungen zu KI im Wohnungsmarkt.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.transparencycoalition.ai/news/ai-legislative-update-august21-2026
   themenachsen:
   - governance
@@ -2679,7 +2676,7 @@ regelwerke:
     url: https://www.techpolicy.press/where-state-ai-legislation-stands-half-way-into-2026/
     sprache: en
     urheber: TechPolicy.Press
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belastbarste quantitative Halbjahresbilanz: 109 KI-Gesetze und 28 Rechenzentrumsgesetze in
       29 Staaten zum 01.07.2026, mit Parteienaufschlüsselung und Analyse der EO-Wirkung.'
   - datum: 2026-07-08
@@ -2688,7 +2685,7 @@ regelwerke:
     url: https://www.transparencycoalition.ai/news/tcai-report-84-new-ai-laws-enacted-in-27-states-in-2026
     sprache: en
     urheber: Transparency Coalition
-    verifiziert: true
+    verifiziert: false
     notiz: Kategorienbildung nach Regelungsmustern; nennt Connecticut als umfassendstes Gesetz und Vermont
       (Neurodaten) sowie Colorado/Maryland (Preisalgorithmen).
   - datum: 2026-03-01
@@ -2697,7 +2694,7 @@ regelwerke:
     url: https://www.multistate.ai/artificial-intelligence-ai-legislation
     sprache: en
     urheber: MultiState Associates
-    verifiziert: true
+    verifiziert: false
     notiz: Laufend gepflegter Tracker mit Karte und Bill-Zählung (1.561 Vorlagen in 45 Staaten bis März
       2026; 145 Gesetze 2025). Für die Zahlenbasis.
   - datum: 2026-04-28
@@ -2706,7 +2703,7 @@ regelwerke:
     url: https://iapp.org/resources/article/us-state-ai-governance-legislation-tracker
     sprache: en
     urheber: International Association of Privacy Professionals (IAPP)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Der methodisch sauberste Tracker: erfasst nur sektorübergreifende KI-Governance-Vorlagen mit
       Wirkung auf private Organisationen und ordnet sie nach erfasstem Systemtyp und Pflichtenart. Letzte
       Aktualisierung 28.04.2026. Teilweise mitgliedschaftspflichtig.
@@ -2718,7 +2715,7 @@ regelwerke:
     url: https://www.ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation
     sprache: en
     urheber: National Conference of State Legislatures (NCSL)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Amtsnahe Referenzzählung: alle 50 Staaten plus Puerto Rico, Virgin Islands und D.C. haben
       2025 KI-Gesetze eingebracht, 38 Staaten haben rund 100 Maßnahmen erlassen. Die NCSL führt zusätzlich
       eine durchsuchbare Datenbank (siehe monitoring_quellen).
@@ -2730,7 +2727,7 @@ regelwerke:
     url: https://www.troutman.com/state-artificial-intelligence-law-tracker/
     sprache: en
     urheber: Troutman Pepper Locke
-    verifiziert: true
+    verifiziert: false
     notiz: Interaktive 50-Staaten-Karte, gegliedert nach verbrauchergerichteter KI, Companion-Chatbots,
       automatisierten Entscheidungen und generativer KI. Frei zugänglich.
   - datum: 2025-12-11
@@ -2740,7 +2737,7 @@ regelwerke:
     url: https://www.whitecase.com/insight-alert/state-ai-laws-under-federal-scrutiny-key-takeaways-executive-order-establishing
     sprache: en
     urheber: White & Case LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Aufschlüsselung der Fristen und Instrumente von EO 14365 einschließlich der namentlich
       benannten Landesgesetze.
   - datum: 2026-06-08
@@ -2749,7 +2746,7 @@ regelwerke:
     url: https://www.mofo.com/resources/insights/260608-connecticut-enacts-sweeping-ai-law
     sprache: en
     urheber: Morrison Förster
-    verifiziert: true
+    verifiziert: false
     notiz: Das umfassendste einzelstaatliche Gesetz 2026 mit seinen vier Stufenterminen; der wichtigste
       Einzeleintrag außerhalb der sechs Schwerpunktstaaten.
   offene_punkte:
@@ -2813,7 +2810,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/where-state-ai-legislation-stands-half-way-into-2026/
   anwendungsdaten: []
   themenachsen:
@@ -2879,7 +2876,7 @@ regelwerke:
     url: https://metr.substack.com/p/2026-01-29-frontier-ai-safety-regulations
     sprache: en
     urheber: METR
-    verifiziert: true
+    verifiziert: false
     notiz: 'Der beste verfügbare Nebeneinander-Vergleich von SB 53, RAISE Act und EU-GPAI-Verhaltenskodex
       aus Sicht eines Anbieters, der alle drei Regime bedienen muss — einschließlich der abweichenden
       Meldefristen (15 Tage CA, 72 Stunden NY/IL, 10 bzw. 30 Tage EU-Kodex) und der Zugangsanforderungen
@@ -2892,7 +2889,7 @@ regelwerke:
     url: https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative
     sprache: en
     urheber: Morgan, Lewis & Bockius LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die Nutzerschwelle von 1 Mio. und die Reichweite der Provenienzpflichten auf nicht
       in Kalifornien ansässige Anbieter.
   offene_punkte:
@@ -2960,7 +2957,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-05-27
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/CT/bill/SB00005/2026
   anwendungsdaten:
   - datum: 2024-04-24
@@ -2969,30 +2966,30 @@ regelwerke:
       gesetzt (House Calendar No. 426), aber nie aufgerufen. Gescheitert.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/CT/bill/SB00002/2024
   - datum: 2025-05-14
     was_gilt: 'Zweiter Anlauf: SB 2 (2025) passiert den Senat mit 32:4, wird am 16.05.2025 im Repräsentantenhaus
       tabelliert (House Calendar No. 599) und stirbt dort. Gescheitert.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/CT/bill/SB00002/2025
   - datum: 2026-04-21
     was_gilt: SB 5 passiert den Senat mit 32:4.
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/CT/bill/SB00005/2026
   - datum: 2026-05-01
     was_gilt: Das Repräsentantenhaus nimmt SB 5 in geänderter Fassung mit 131:17 an — die Mehrheit, die
       2024 und 2025 gefehlt hatte.
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/CT/bill/SB00005/2026
   - datum: 2026-05-27
     was_gilt: 'Unterzeichnung durch Gouverneur Lamont als Public Act 26-15. Staatsorganisationsvorschriften
       gelten ab Ausfertigung.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/CT/bill/SB00005/2026
   - datum: 2026-10-01
     was_gilt: 'Erste materielle Stufe: AEDT-Rahmen, Offenlegungspflichten für abonnementbasierte generative
@@ -3000,42 +2997,42 @@ regelwerke:
       von Frontier-Entwicklern, Anforderungen an die Provenienz synthetischer Inhalte.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ropesgray.com/en/insights/alerts/2026/06/connecticut-enacts-sweeping-ai-law-covering-employment-healthcare-and-online-safety
   - datum: 2027-01-01
     was_gilt: 'Zweite Stufe: Pflichten der Betreiber von KI-Begleitern (Krisenprotokolle, Offenlegung,
       Minderjährigenschutz); große Frontier-Entwickler müssen den anonymen Meldekanal eingerichtet haben.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ropesgray.com/en/insights/alerts/2026/06/connecticut-enacts-sweeping-ai-law-covering-employment-healthcare-and-online-safety
   - datum: 2027-07-01
     was_gilt: Frist für die Vorlage des Programmplans für das KI-Reallabor.
-    verifiziert: true
+    verifiziert: false
     quelle: https://aicomplianceatlas.com/law/connecticut-sb-2
   - datum: 2027-10-01
     was_gilt: 'Dritte und für Arbeitgeber wichtigste Stufe: Die AEDT-Offenlegung bei interaktiven Werkzeugen
       und die schriftliche Vorabinformation vor der Beschäftigungsentscheidung werden wirksam.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.fisherphillips.com/en/insights/insights/connecticut-employers-need-to-prepare-for-new-workplace-ai-law
   - datum: 2027-12-31
     was_gilt: 'Ende der ermessensabhängigen 60-tägigen Heilungsmöglichkeit für AEDT-Verstöße. Danach kann
       der Attorney General ohne vorherige Gelegenheit zur Abhilfe vorgehen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ropesgray.com/en/insights/alerts/2026/06/connecticut-enacts-sweeping-ai-law-covering-employment-healthcare-and-online-safety
   - datum: 2028-01-01
     was_gilt: 'Vierte Stufe: Schutzvorschriften für Minderjährige auf sozialen Plattformen (Einwilligung
       der Eltern für algorithmische Empfehlungen, Nachtruhebeschränkungen, Warnhinweise zur psychischen
       Gesundheit).'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ropesgray.com/en/insights/alerts/2026/06/connecticut-enacts-sweeping-ai-law-covering-employment-healthcare-and-online-safety
   - datum: 2028-03-01
     was_gilt: Beginn der jährlichen öffentlichen Berichtspflichten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.ropesgray.com/en/insights/alerts/2026/06/connecticut-enacts-sweeping-ai-law-covering-employment-healthcare-and-online-safety
   themenachsen:
   - governance
@@ -3112,7 +3109,7 @@ regelwerke:
     url: https://legiscan.com/CT/bill/SB00005/2026
     sprache: en
     urheber: Connecticut General Assembly / LegiScan
-    verifiziert: true
+    verifiziert: false
     notiz: 'Maßgeblicher Beleg für Titel ("An Act Concerning Online Safety"), Abstimmungsdaten (Senat
       21.04.2026, 32:4; Repräsentantenhaus 01.05.2026, 131:17), Unterzeichnung am 27.05.2026 und Public
       Act 26-15. Ersatzquelle, weil cga.ct.gov per robots.txt nicht abrufbar war.
@@ -3124,7 +3121,7 @@ regelwerke:
     url: https://legiscan.com/CT/bill/SB00002/2024
     sprache: en
     urheber: Connecticut General Assembly / LegiScan
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt den ersten gescheiterten Anlauf: Senatspassage 24.04.2024, Tabellierung im Repräsentantenhaus
       25.04.2024, kein Aufruf.'
   - datum: 2025-05-16
@@ -3133,7 +3130,7 @@ regelwerke:
     url: https://legiscan.com/CT/bill/SB00002/2025
     sprache: en
     urheber: Connecticut General Assembly / LegiScan
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt den zweiten gescheiterten Anlauf: Senatspassage 14.05.2025 mit 32:4, Tod im Repräsentantenhaus
       am 16.05.2025.'
   - datum: 2026-06-10
@@ -3142,7 +3139,7 @@ regelwerke:
     url: https://www.ropesgray.com/en/insights/alerts/2026/06/connecticut-enacts-sweeping-ai-law-covering-employment-healthcare-and-online-safety
     sprache: en
     urheber: Ropes & Gray LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Detaillierteste Fristentabelle (01.10.2026, 01.01.2027, 01.10.2027, 31.12.2027, 01.01.2028,
       01.03.2028) und die Gesundheits-Ausnahmen. ACHTUNG: nennt als Unterzeichnungsdatum den 02.06.2026
       und weicht damit von LegiScan, Morrison Förster, WilmerHale und AI Compliance Atlas ab, die übereinstimmend
@@ -3155,7 +3152,7 @@ regelwerke:
     url: https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260604-what-companies-should-know-about-connecticuts-new-omnibus-ai-law
     sprache: en
     urheber: WilmerHale
-    verifiziert: true
+    verifiziert: false
     notiz: 'Bestätigt Unterzeichnung am 27.05.2026 und liefert die zentrale Abgrenzung: Connecticut ist
       transparenzbasiert und kennt gerade NICHT die Verbraucherrechte des neuen Colorado-Gesetzes.
 
@@ -3166,7 +3163,7 @@ regelwerke:
     url: https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/connecticut-poised-to-enact-one-of-the-nations-most-comprehensive-ai-laws-102mrpv
     sprache: en
     urheber: Freshfields
-    verifiziert: true
+    verifiziert: false
     notiz: 'Quelle für den Umfang (71 Seiten), das Reallabor und die politische Erklärung des Erfolgs
       2026: Aufnahme von Inhalten, die der Gouverneur unterstützte, nachdem ein vergleichbarer Versuch
       2025 an einer Vetodrohung gescheitert war. Ordnet den Beschäftigungsteil ausdrücklich als eng gefasste
@@ -3179,7 +3176,7 @@ regelwerke:
     url: https://www.fisherphillips.com/en/insights/insights/connecticut-employers-need-to-prepare-for-new-workplace-ai-law
     sprache: en
     urheber: Fisher & Phillips LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Praxisnächste Darstellung der AEDT-Pflichten: Definition, der "substantial factor"-Test, die
       zwei Hinweisstufen zum 01.10.2027, die vertragliche Zuweisbarkeit zwischen Entwickler und Deployer
       und die Beweisfunktion des Anti-Bias-Tests.
@@ -3191,7 +3188,7 @@ regelwerke:
     url: https://www.mofo.com/resources/insights/260608-connecticut-enacts-sweeping-ai-law
     sprache: en
     urheber: Morrison Förster
-    verifiziert: true
+    verifiziert: false
     notiz: Unabhängige Bestätigung des Unterzeichnungsdatums 27.05.2026 und der Provenienzschwelle von
       einer Million monatlichen Nutzern.
   - datum: 2026-06-20
@@ -3200,7 +3197,7 @@ regelwerke:
     url: https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ai-regulatory-roundup-recent-developments-in-colorado-connecticut-and-california
     sprache: en
     urheber: Kelley Drye & Warren LLP
-    verifiziert: true
+    verifiziert: false
     notiz: 'Einzige Quelle, die das private Klagerecht für die Chatbot-Vorschriften mit bis zu 25.000
       USD je Verstoß und das freiwillige Safe-Harbor-Programm nennt. Datiert die Provenienzkennzeichnung
       abweichend auf den 01.10.2027.
@@ -3278,16 +3275,16 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-07-20
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/NJ/bill/A3497/2026
   anwendungsdaten:
   - datum: 2026-06-30
     was_gilt: Annahme durch Assembly (57:22) und Senat (33:4).
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/NJ/bill/A3497/2026
   - datum: 2026-07-20
     was_gilt: Unterzeichnung durch den Gouverneur; Ausfertigung als P.L. 2026, c. 43.
-    verifiziert: true
+    verifiziert: false
     quelle: https://legiscan.com/NJ/bill/A3497/2026
   themenachsen:
   - wettbewerb
@@ -3316,7 +3313,7 @@ regelwerke:
     url: https://legiscan.com/NJ/bill/A3497/2026
     sprache: en
     urheber: New Jersey Legislature / LegiScan
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt Titel, Abstimmungsergebnisse vom 30.06.2026, Unterzeichnung am 20.07.2026 und die Fundstelle
       P.L. 2026, c. 43. ACHTUNG bei der Recherche: Unter derselben Nummer A 3497 lief in der Sitzungsperiode
       2024-2025 ein völlig anderer Gesetzentwurf (Förderprogramm Life Sciences), der im Ausschuss gescheitert
@@ -3329,7 +3326,7 @@ regelwerke:
     url: https://www.transparencycoalition.ai/news/ai-legislative-update-august21-2026
     sprache: en
     urheber: Transparency Coalition
-    verifiziert: true
+    verifiziert: false
     notiz: Ordnet den FAIR Act als eine der ersten US-Beschränkungen algorithmischer Mietpreisbildung
       ein.
   offene_punkte:
@@ -3382,7 +3379,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2020-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://california.public.law/codes/ca_civ_code_section_1798.140
   anwendungsdaten:
   - datum: 2023-01-01
@@ -3395,7 +3392,7 @@ regelwerke:
       die sie ausgeben können.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://california.public.law/codes/ca_civ_code_section_1798.140
   - datum: 2026-01-01
     was_gilt: ADMT-, Risikobewertungs- und Cybersicherheitsverordnung der CPPA tritt in Kraft (lange Übergangsfristen).
@@ -3437,7 +3434,7 @@ regelwerke:
     url: https://california.public.law/codes/ca_civ_code_section_1798.140
     sprache: en
     urheber: California Legislative Counsel (Wiedergabe)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Am Text geprüft: (v)(4)(C) nennt „abstract digital formats, including compressed or encrypted
       files, metadata, or artificial intelligence systems that are capable of outputting personal information“.
       leginfo.legislature.ca.gov sperrt automatisierte Abrufe.
@@ -3449,7 +3446,7 @@ regelwerke:
     url: https://california.public.law/codes/ca_civ_code_section_1798.185
     sprache: en
     urheber: California Legislative Counsel (Wiedergabe)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Am Text geprüft: (a)(14) Cybersicherheitsaudits und Risikobewertungen, (a)(15) Zugangs- und
       Widerspruchsrechte bei ADMT nebst „meaningful information about the logic“.
 

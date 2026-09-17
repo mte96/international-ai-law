@@ -65,7 +65,7 @@ regelwerke:
     url: https://www.mcinnescooper.com/publications/the-demise-of-the-artificial-intelligence-and-data-act-aida-5-key-lessons/
     sprache: en
     urheber: McInnes Cooper
-    verifiziert: true
+    verifiziert: false
     notiz: Die brauchbarste Obduktion. Nennt Definitionsdefizit, Selbstausnahme des Staates, fehlende
       Unabhängigkeit des Commissioners, Verfassungsrisiko und Forschungsausnahme.
   - datum: 2024-12-01
@@ -187,7 +187,7 @@ regelwerke:
     url: https://gowlingwlg.com/en/insights-resources/articles/2026/understanding-bill-c36
     sprache: en
     urheber: Gowling WLG
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für s. 63 (automatisierte Entscheidungen), Bußgeldstufen, Kommissionsstruktur und Abgrenzung
       zu C-27.
   - datum: 2026-06-22
@@ -196,7 +196,7 @@ regelwerke:
     url: https://www.mccarthy.ca/en/insights/blogs/techlex/bill-c-36-what-organizations-need-to-know-about-canada-s-new-privacy-reform
     sprache: en
     urheber: McCarthy Tétrault
-    verifiziert: true
+    verifiziert: false
     notiz: Zweite unabhängige Auswertung; bestätigt Transparenzpflicht für automatisierte Entscheidungssysteme
       und Wegfall des Tribunals.
   bedeutung_eu_anbieter: 'Das ist der Text, den man ab jetzt beobachtet. Wer in Kanada automatisierte
@@ -305,7 +305,7 @@ regelwerke:
     sprache: en
     urheber: Office of the Privacy Commissioner of Canada u. a.
     verifiziert: false
-    notiz: Volltext der Feststellungen; in dieser Sitzung nicht abgerufen.
+    notiz: Volltext der Feststellungen;
   - datum: 2000-04-13
     typ: konsolidiert
     titel: Personal Information Protection and Electronic Documents Act (S.C. 2000, c. 5)
@@ -464,7 +464,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2004-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://oipc.ab.ca/private-sector-privacy-laws/
     fundstelle_norm: 'Personal Information Protection Act, S.A. 2003, c. P-6.5, s. 65 (Coming into force)
       — in Kraft getreten am 01.01.2004. Die Information and Privacy Commissioner of Alberta haelt fest:
@@ -478,7 +478,7 @@ regelwerke:
       für im Internet öffentlich zugängliche Daten verletzt s. 2(b) Charter.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.blg.com/en/insights/2025/06/alberta-judgment-opens-the-door-to-the-legitimization-of-data-scraping-and-ai-model-training
   - datum: 2025-08-01
     was_gilt: 'Bericht des Information and Privacy Commissioner of Alberta: Empfehlung eines eigenständigen
@@ -486,7 +486,7 @@ regelwerke:
       Entscheidungen, Anfechtungsrecht, verständliche Erklärung, Prüf- und Untersagungsbefugnis der Behörde.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.millerthomson.com/en/insights/technology-ip-and-privacy/should-alberta-enact-a-standalone-ai-law-key-takeaways-from-the-oipc-report/
   themenachsen:
   - datenschutz
@@ -515,7 +515,7 @@ regelwerke:
     url: https://www.blg.com/en/insights/2025/06/alberta-judgment-opens-the-door-to-the-legitimization-of-data-scraping-and-ai-model-training
     sprache: en
     urheber: Borden Ladner Gervais LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Auswertung von 2025 ABKB 287 mit Blick auf Trainingsdaten.
   - datum: 2025-09-01
     typ: bericht
@@ -523,7 +523,7 @@ regelwerke:
     url: https://www.millerthomson.com/en/insights/technology-ip-and-privacy/should-alberta-enact-a-standalone-ai-law-key-takeaways-from-the-oipc-report/
     sprache: en
     urheber: Miller Thomson LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Erste Forderung einer kanadischen Aufsichtsbehörde nach einem KI-Gesetz auf Provinzebene.
   - datum: 2026-01-01
     typ: konsultation
@@ -582,7 +582,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2004-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://oipc.ab.ca/private-sector-privacy-laws/
     fundstelle_norm: Personal Information Protection Act, S.B.C. 2003, c. 63 — in Kraft getreten am 01.01.2004;
       bestaetigt durch die gemeinsame Darstellung der Datenschutzbehoerden ('In January 2004, both the
@@ -611,7 +611,7 @@ regelwerke:
     sprache: en
     urheber: Queen's Printer British Columbia
     verifiziert: false
-    notiz: Amtliche konsolidierte Fassung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche konsolidierte Fassung;
   bedeutung_eu_anbieter: 'Geringer eigenständiger Erkenntniswert, aber praktisch relevant: Wer in Kanada
     ein Datenschutzverfahren riskiert, hat es mit vier Behörden zu tun, von denen zwei (BC, Alberta) anordnen
     können und zwei (Bund, Quebec) unterschiedliche Sanktionsinstrumente haben. Eine kanadische Datenschutzstrategie,
@@ -840,7 +840,7 @@ regelwerke:
     url: https://wiki.gccollab.ca/images/f/f1/Overview_4th_review_of_the_Directive_on_Automated_Decision-Making.pdf
     sprache: en
     urheber: Treasury Board of Canada Secretariat
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die geplanten verbotenen Anwendungen und die OECD-Definition.
   - datum: 2019-02-05
     typ: konsolidiert
@@ -849,8 +849,8 @@ regelwerke:
     sprache: en
     urheber: Treasury Board of Canada Secretariat
     verifiziert: false
-    notiz: Amtlicher Volltext. In dieser Sitzung NICHT abrufbar — der Server weist automatisierte Abrufe
-      zurück ('Request Rejected'). Inhalt daher über Guide, Änderungsseite und OECD rekonstruiert.
+    notiz: Amtlicher Volltext. NICHT abrufbar — der Server weist automatisierte Abrufe zurück ('Request Rejected').
+      Inhalt daher über Guide, Änderungsseite und OECD rekonstruiert.
   - datum: 2026-01-01
     typ: uebersicht
     titel: Algorithmic Impact Assessment — offener Datensatz aller veröffentlichten AIA
@@ -1191,7 +1191,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 1924-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi?article=1654&context=scholarly_works
     fundstelle_norm: 'Copyright Act, S.C. 1921, c. 24, durch Proklamation in Kraft gesetzt am 01.01.1924
       (''It came into force on January 1, 1924''). Heutige Fassung R.S.C. 1985, c. C-42. Canadian Heritage
@@ -1200,7 +1200,7 @@ regelwerke:
   - datum: 2024-01-15
     was_gilt: Ende der Konsultation zu Urheberrecht und generativer KI; rund 1.000 Einzeleingaben, 103
       Stellungnahmen von Organisationen und Sachverständigen, 62 Beteiligte in sieben Runden Tischen.
-    verifiziert: true
+    verifiziert: false
     quelle: https://cassels.com/insights/update-from-the-government-of-canada-on-issues-of-copyright-in-the-age-of-generative-artificial-intelligence/
   - datum: 2025-05-08
     was_gilt: 'Bericht der Regierung über die Konsultation. Ergebnis: geteilte Auffassungen zu TDM, Prüfung
@@ -1208,7 +1208,7 @@ regelwerke:
       Änderung zur Urheberschaft; keine Zeitschiene.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://cassels.com/insights/update-from-the-government-of-canada-on-issues-of-copyright-in-the-age-of-generative-artificial-intelligence/
   themenachsen:
   - urheberrecht
@@ -1236,7 +1236,7 @@ regelwerke:
     url: https://cassels.com/insights/update-from-the-government-of-canada-on-issues-of-copyright-in-the-age-of-generative-artificial-intelligence/
     sprache: en
     urheber: Cassels Brock & Blackwell LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Auswertung des Regierungsberichts mit Konsultationszahlen und Ergebnis.
   - datum: 2023-11-01
     typ: konsultation
@@ -1536,7 +1536,7 @@ regelwerke:
     url: https://blog.privacylawyer.ca/2026/01/canadas-new-proposed-law-to-outlaw.html
     sprache: en
     urheber: David T.S. Fraser
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für den Wortlaut der neuen Definition, s. 162.1(1.1) und die Charter-Kritik.
   bedeutung_eu_anbieter: 'Für Anbieter generativer Bildmodelle ein Haftungsrisiko auf der Nutzerseite,
     nicht auf der Anbieterseite: Kanada bestraft die Verbreitung, nicht das Werkzeug. Wer Bildgenerierung
@@ -1587,7 +1587,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Online_Harms_Act
   anwendungsdaten: []
   themenachsen:
@@ -1616,7 +1616,7 @@ regelwerke:
     url: https://en.wikipedia.org/wiki/Online_Harms_Act
     sprache: en
     urheber: Wikipedia
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundärquelle. Für Einbringungsdatum, Inhaltskategorien und Kritik ausgewertet; kein amtlicher
       Text, deshalb nur als Übersicht geführt.
   bedeutung_eu_anbieter: 'Das Gegenstück zum DSA fehlt in Kanada. Wer dort eine Plattform oder einen Chatbot
@@ -1686,7 +1686,7 @@ regelwerke:
       und in einen einheitlichen Ersetzungstext überführt.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://convergenciadigital.com.br/governo/inteligencia-artificial-projeto-do-governo-foi-articulado-com-relator-e-entra-no-pl-2338-23/
   themenachsen:
   - marktzugang
@@ -1740,7 +1740,7 @@ regelwerke:
     url: https://desinformante.com.br/votacao-do-marco-da-ia-fica-para-2026-em-meio-a-impasses-politicos-e-criticas-ao-texto
     sprache: pt
     urheber: O Desinformante
-    verifiziert: true
+    verifiziert: false
     notiz: Belegt Vertagung und die Kritik der Coalizão Direitos na Rede (49 Organisationen) an Urheberrecht,
       Risikomodell, Gesichtserkennung und Arbeitsschutz.
   - datum: 2025-12-09
@@ -1749,7 +1749,7 @@ regelwerke:
     url: https://convergenciadigital.com.br/governo/inteligencia-artificial-projeto-do-governo-foi-articulado-com-relator-e-entra-no-pl-2338-23/
     sprache: pt
     urheber: Convergência Digital
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für SIA, CBIA und die residuale Zuständigkeit der ANPD.
   - datum: 2025-05-30
     typ: bericht
@@ -1757,7 +1757,7 @@ regelwerke:
     url: https://www.diap.org.br/index.php/noticias/noticias/92249-pl-2338-23-votacao-do-projeto-sobre-inteligencia-artificial-esta-prevista-apenas-para-dezembro
     sprache: pt
     urheber: DIAP
-    verifiziert: true
+    verifiziert: false
     notiz: Arbeitsplan des Berichterstatters und früher Hinweis auf den Wahljahreffekt.
   - datum: 2025-04-01
     typ: stellungnahme
@@ -1765,7 +1765,7 @@ regelwerke:
     url: https://www.dataprivacybr.org/comissao-especial-do-pl-de-ia-na-camara-dos-deputados/
     sprache: pt
     urheber: Data Privacy Brasil Research
-    verifiziert: true
+    verifiziert: false
     notiz: Zusammensetzung des Sonderausschusses und zivilgesellschaftliche Einschätzung.
   bedeutung_eu_anbieter: 'Es gibt in Brasilien kein KI-Gesetz, auf das man sich einstellen könnte — und
     es ist offen, ob der Senatstext oder eine deutlich abgeschwächte Fassung Gesetz wird. Wer heute plant,
@@ -1862,7 +1862,7 @@ regelwerke:
       Reichweite der menschlichen Überprüfung, Umgang mit Daten schutzbedürftiger Gruppen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://convergenciadigital.com.br/governo/anpd-avanca-na-regulacao-de-decisoes-automatizadas-por-ia/
   themenachsen:
   - datenschutz
@@ -1896,14 +1896,14 @@ regelwerke:
     sprache: pt
     urheber: Presidência da República
     verifiziert: false
-    notiz: Amtlicher Volltext; in dieser Sitzung nicht direkt abgerufen.
+    notiz: Amtlicher Volltext;
   - datum: 2025-05-20
     typ: bericht
     titel: ANPD dá prioridade à regulação de decisões automatizadas por IA
     url: https://convergenciadigital.com.br/governo/anpd-avanca-na-regulacao-de-decisoes-automatizadas-por-ia/
     sprache: pt
     urheber: Convergência Digital
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die Regulierungsagenda, die 124 Beiträge und die Streitpunkte.
   - datum: 2025-01-01
     typ: stellungnahme
@@ -1911,7 +1911,7 @@ regelwerke:
     url: https://blog.idp.edu.br/direito-digital/artigo-20-lgpd-revisao-decisoes-automatizadas/
     sprache: pt
     urheber: Instituto Brasiliense de Direito Público
-    verifiziert: true
+    verifiziert: false
     notiz: Auswertung des Wortlauts und der Streichung der menschlichen Überprüfung.
   bedeutung_eu_anbieter: 'Wer DSGVO-konform arbeitet, erfüllt die LGPD weitgehend — mit drei Abweichungen,
     die man kennen muss. Erstens: Es gibt kein Verbot automatisierter Entscheidungen, sondern nur ein
@@ -2019,15 +2019,14 @@ regelwerke:
     sprache: pt
     urheber: Autoridade Nacional de Proteção de Dados
     verifiziert: false
-    notiz: Fundstellenseite der technischen Dokumente; die Nota selbst in dieser Sitzung nicht einzeln
-      abgerufen.
+    notiz: Fundstellenseite der technischen Dokumente;
   - datum: 2026-01-01
     typ: uebersicht
     titel: 'ANPD e Regulação de IA no Brasil: Guia 2026-2027'
     url: https://confidata.com.br/blog/anpd-regulacao-ia-brasil-2026-2027
     sprache: pt
     urheber: Confidata
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundärquelle; Zeitschiene des Sandkastens und Stand der Art.-20-Verordnung.
   bedeutung_eu_anbieter: 'Praktisch: Der Sandkasten ist ein offener Zugang zur Aufsicht. Wer ein KI-Produkt
     in Brasilien einführen will und Rechtsunsicherheit beim berechtigten Interesse oder bei der Transparenz
@@ -2092,7 +2091,7 @@ regelwerke:
       Menschenhandel.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://conjur.com.br/2025-jun-26/supremo-fixa-tese-sobre-responsabilizacao-de-plataformas-por-conteudo-de-usuarios/
   - datum: 2026-06-17
     was_gilt: 'Endgültige Fassung der Leitsätze nach den Anhörungsrügen: gesamtschuldnerische Haftung
@@ -2103,7 +2102,7 @@ regelwerke:
       gegen die systematische Verbreitung schwerer rechtswidriger Inhalte.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mattosfilho.com.br/unico/stf-atualiza-teses-fixadas/
   themenachsen:
   - content
@@ -2132,7 +2131,7 @@ regelwerke:
     url: https://conjur.com.br/2025-jun-26/supremo-fixa-tese-sobre-responsabilizacao-de-plataformas-por-conteudo-de-usuarios/
     sprache: pt
     urheber: Consultor Jurídico
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Abstimmungsverhältnis (8:3) und Deliktskatalog.
   - datum: 2026-06-17
     typ: konsolidiert
@@ -2141,7 +2140,7 @@ regelwerke:
     url: https://www.mattosfilho.com.br/unico/stf-atualiza-teses-fixadas/
     sprache: pt
     urheber: Mattos Filho
-    verifiziert: true
+    verifiziert: false
     notiz: Maßgeblich für die endgültige Fassung der Leitsätze und die 60-Tage-Frist.
   - datum: 2025-06-01
     typ: uebersicht
@@ -2239,7 +2238,7 @@ regelwerke:
     sprache: pt
     urheber: Presidência da República
     verifiziert: false
-    notiz: Amtlicher Volltext; in dieser Sitzung nicht abgerufen.
+    notiz: Amtlicher Volltext;
   - datum: 2026-01-01
     typ: stellungnahme
     titel: Treinamento de IA generativa coloca direitos autorais no centro do debate jurídico
@@ -2448,7 +2447,7 @@ regelwerke:
     sprache: pt
     urheber: Presidência da República
     verifiziert: false
-    notiz: Amtlicher Volltext; in dieser Sitzung nicht abgerufen.
+    notiz: Amtlicher Volltext;
   bedeutung_eu_anbieter: 'Relevant für jede Kanzlei, die in Brasilien prozessiert oder brasilianische
     Korrespondenten steuert: Das Risiko liegt nicht in einer Offenlegungspflicht, sondern in einer scharfen
     Ergebnissanktion, die von Amts wegen ergeht und sich am Streitwert bemisst. Wer Textbausteine aus
@@ -2528,7 +2527,7 @@ regelwerke:
     sprache: pt
     urheber: Presidência da República
     verifiziert: false
-    notiz: Amtlicher Volltext; in dieser Sitzung nicht abgerufen.
+    notiz: Amtlicher Volltext;
   bedeutung_eu_anbieter: 'Für Anbieter forensischer KI-Werkzeuge eine Warnung: In Brasilien entscheidet
     nicht die Genauigkeit, sondern die Frage, wer das Gutachten erstattet. Ein Werkzeug, das amtliche
     Sachverständige unterstützt, ist verwertbar; ein Werkzeug, das sie ersetzt, ist es nicht. Dieselbe
@@ -2575,12 +2574,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-03-17
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.dataprivacybr.org/eca-digital-entra-em-vigor-o-que-a-lei-preve-e-o-que-ainda-falta-regulamentar/
   anwendungsdaten:
   - datum: 2026-03-17
     was_gilt: Vollständige Anwendung; ANPD als zuständige Behörde; Durchführungsregeln ausstehend.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.dataprivacybr.org/eca-digital-entra-em-vigor-o-que-a-lei-preve-e-o-que-ainda-falta-regulamentar/
   themenachsen:
   - content
@@ -2606,7 +2605,7 @@ regelwerke:
     url: https://www.dataprivacybr.org/eca-digital-entra-em-vigor-o-que-a-lei-preve-e-o-que-ainda-falta-regulamentar/
     sprache: pt
     urheber: Data Privacy Brasil Research
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Inkrafttreten, Anwendungsbereich, Pflichten, Sanktionen und offene Durchführungsregeln.
   - datum: 2025-09-01
     typ: uebersicht
@@ -2704,7 +2703,7 @@ regelwerke:
     sprache: en
     urheber: Government of India
     verifiziert: false
-    notiz: Amtliche Fundstelle im India Code; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche Fundstelle im India Code;
   - datum: 2021-03-30
     typ: konsolidiert
     titel: The Information Technology Act 2000 (Sammelfassung)
@@ -2784,7 +2783,7 @@ regelwerke:
   - datum: 2026-02-20
     was_gilt: 'Änderungsregeln 2026 wirksam: Kennzeichnung synthetisch erzeugter Information, Nutzererklärung,
       technische Verifikation (siehe in-it-amendment-rules-2026).'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.khaitanco.com/thought-leadership/MeitY-notifies-the-IT-Amendment-Rules-2026
   themenachsen:
   - content
@@ -2869,12 +2868,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-02-20
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.khaitanco.com/thought-leadership/MeitY-notifies-the-IT-Amendment-Rules-2026
   anwendungsdaten:
   - datum: 2026-02-20
     was_gilt: Kennzeichnungs-, Erklärungs- und Verifikationspflichten wirksam.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.khaitanco.com/thought-leadership/MeitY-notifies-the-IT-Amendment-Rules-2026
   - datum: 2026-03-02
     was_gilt: Ende der zehntägigen Umsetzungsfrist für technische und betriebliche Anpassungen (Berechnung
@@ -2912,7 +2911,7 @@ regelwerke:
     url: https://www.khaitanco.com/thought-leadership/MeitY-notifies-the-IT-Amendment-Rules-2026
     sprache: en
     urheber: Khaitan & Co
-    verifiziert: true
+    verifiziert: false
     notiz: 'Maßgebliche Auswertung: Bekanntmachungs- und Wirksamkeitsdatum, SGI-Definition, Wegfall der
       10-%-Regel, Verifikationspflicht, Zehn-Tage-Frist.'
   - datum: 2025-10-22
@@ -2993,12 +2992,12 @@ regelwerke:
   - datum: 2025-11-14
     was_gilt: Einleitungsvorschriften, Errichtung des Data Protection Board, Änderungen des RTI Act 2005
       und des TRAI Act 1997.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/
   - datum: 2026-11-14
     was_gilt: Registrierung der Consent Manager; Untersuchungs- und Sanktionsbefugnis des Board gegenüber
       Consent Managern.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/
   - datum: 2027-05-14
     was_gilt: 'Materielle Kernpflichten: Information und Einwilligung, Meldung von Datenschutzverletzungen,
@@ -3007,7 +3006,7 @@ regelwerke:
       betroffenen Personen, Beschränkungen der Auslandsübermittlung, volle Befugnisse des Board.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/
   themenachsen:
   - datenschutz
@@ -3046,7 +3045,7 @@ regelwerke:
     url: https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/
     sprache: en
     urheber: Shardul Amarchand Mangaldas & Co
-    verifiziert: true
+    verifiziert: false
     notiz: Maßgeblich für die exakte Zuordnung der Vorschriften zu den drei Stufen und für die algorithmische
       Sorgfaltspflicht.
   bedeutung_eu_anbieter: 'Zwei Dinge sind für europäische Anbieter neu. Erstens: Ohne Einwilligung geht
@@ -3100,12 +3099,12 @@ regelwerke:
   anwendungsdaten:
   - datum: 2026-11-14
     was_gilt: Registrierungspflicht der Consent Manager.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/
   - datum: 2027-05-14
     was_gilt: Alle übrigen Regeln, insbesondere Einwilligungsmitteilung, Sicherheitsmaßnahmen, Meldepflichten,
       Kinderschutz und SDF-Pflichten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/
   themenachsen:
   - datenschutz
@@ -3184,13 +3183,13 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-11-05
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.scconline.com/blog/post/2025/11/06/meity-launches-india-ai-governance-guidelines-under-indiaai-mission-2025/
   anwendungsdaten:
   - datum: 2025-11-05
     was_gilt: Veröffentlichung; keine Rechtspflichten, Orientierungsrahmen für Verwaltung, Regulierer
       und Wirtschaft.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.dsci.in/files/content/knowledge-centre/2025/summary-of-india-ai-governence-guidelines.pdf
   themenachsen:
   - governance
@@ -3222,7 +3221,7 @@ regelwerke:
     url: https://www.dsci.in/files/content/knowledge-centre/2025/summary-of-india-ai-governence-guidelines.pdf
     sprache: en
     urheber: Data Security Council of India
-    verifiziert: true
+    verifiziert: false
     notiz: Amtsnahe Zusammenfassung; Grundlage für die Wiedergabe der sieben Sutras, der Institutionen
       und des Stufenplans.
   - datum: 2025-11-06
@@ -3231,7 +3230,7 @@ regelwerke:
     url: https://www.scconline.com/blog/post/2025/11/06/meity-launches-india-ai-governance-guidelines-under-indiaai-mission-2025/
     sprache: en
     urheber: SCC Online
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Datum, Beteiligte und Entstehungszusammenhang. Die dort wiedergegebene Sutra-Liste
       weicht ab und ist nicht übernommen.
   - datum: 2026-02-15
@@ -3296,18 +3295,18 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-03-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.jsalaw.com/newsletters-and-updates/revised-meity-advisory-on-deployment-of-ai-models/
   anwendungsdaten:
   - datum: 2024-03-01
     was_gilt: 'Erste Advisory: Erlaubnisvorbehalt für unerprobte Modelle, Kennzeichnung, Einwilligungshinweis,
       Berichtspflicht.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.jsalaw.com/newsletters-and-updates/revised-meity-advisory-on-deployment-of-ai-models/
   - datum: 2024-03-15
     was_gilt: 'Revidierte Advisory: Erlaubnisvorbehalt gestrichen, stattdessen Hinweis auf Unzuverlässigkeit;
       Ausdehnung auf alle Intermediäre.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.jsalaw.com/newsletters-and-updates/revised-meity-advisory-on-deployment-of-ai-models/
   themenachsen:
   - content
@@ -3332,7 +3331,7 @@ regelwerke:
     url: https://www.jsalaw.com/newsletters-and-updates/revised-meity-advisory-on-deployment-of-ai-models/
     sprache: en
     urheber: JSA Advocates & Solicitors
-    verifiziert: true
+    verifiziert: false
     notiz: Vergleich der Fassungen vom 01. und 15.03.2024; Quelle für die gestrichene Erlaubnispflicht.
   - datum: 2024-10-11
     typ: uebersicht
@@ -3400,7 +3399,7 @@ regelwerke:
       anhängig.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://asiaiplaw.com/article/delhi-high-courts-openai-ruling-may-become-asias-most-consequential-ai-copyright-decision
   themenachsen:
   - urheberrecht
@@ -3433,7 +3432,7 @@ regelwerke:
     url: https://www.ikigailaw.com/article/655/exploring-the-dpiits-working-paper-on-generative-ai-and-copyright
     sprache: en
     urheber: Ikigai Law
-    verifiziert: true
+    verifiziert: false
     notiz: 'Maßgebliche Auswertung des Arbeitspapiers: verworfene Optionen, Hybrid Model, CRCAT, Konsultationsfrist
       07.01.2026.'
   - datum: 2026-07-24
@@ -3442,7 +3441,7 @@ regelwerke:
     url: https://asiaiplaw.com/article/delhi-high-courts-openai-ruling-may-become-asias-most-consequential-ai-copyright-decision
     sprache: en
     urheber: Asia IP
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Datum, Richter und Inhalt der Zwischenentscheidung.
   - datum: 2026-01-01
     typ: uebersicht
@@ -3538,7 +3537,7 @@ regelwerke:
     sprache: en
     urheber: Government of India
     verifiziert: false
-    notiz: Amtliche Fundstelle; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche Fundstelle;
   bedeutung_eu_anbieter: 'Für die Schutzrechtsstrategie: Indien ist beim Softwarepatent restriktiver als
     das EPA und beim computergenerierten Werk offener als jede EU-Rechtsordnung. Wer ein KI-Portfolio
     aufbaut, sollte in Indien auf Anwendungsansprüche setzen und den urheberrechtlichen Weg über s. 2(d)(vi)
@@ -3593,7 +3592,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.medianama.com/2026/04/223-parliamentary-committee-calls-comprehensive-ai-law-age-based-restrictions-social-media-platforms/
   anwendungsdaten:
   - datum: 2026-04-02
@@ -3602,7 +3601,7 @@ regelwerke:
       Anregung altersbezogener Beschränkungen für soziale Netzwerke.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.medianama.com/2026/04/223-parliamentary-committee-calls-comprehensive-ai-law-age-based-restrictions-social-media-platforms/
   themenachsen:
   - governance
@@ -3627,7 +3626,7 @@ regelwerke:
     url: https://www.medianama.com/2026/04/223-parliamentary-committee-calls-comprehensive-ai-law-age-based-restrictions-social-media-platforms/
     sprache: en
     urheber: MediaNama
-    verifiziert: true
+    verifiziert: false
     notiz: Auswertung des 18. Berichts; Quelle für Titel, Datum, Empfehlungen und den Gegensatz zur MeitY-Position.
   bedeutung_eu_anbieter: 'Wer auf ein indisches KI-Gesetz wartet, wartet vergeblich. Die Pflichten kommen
     aus Verordnungen, die binnen Wochen erlassen werden können — wie die IT-Änderungsregeln 2026 mit zehn
@@ -3687,7 +3686,7 @@ regelwerke:
       § 230 verdrängt, weil es großen Plattformen die Entfernung nutzererzeugter politischer Inhalte vorschreibt.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mediapost.com/publications/article/407997/
   themenachsen:
   - haftung
@@ -3718,14 +3717,14 @@ regelwerke:
     sprache: en
     urheber: Congressional Research Service
     verifiziert: false
-    notiz: Die maßgebliche amtliche Analyse der Frage. In dieser Sitzung nicht abrufbar (robots.txt).
+    notiz: Die maßgebliche amtliche Analyse der Frage. Nicht abrufbar (robots.txt).
   - datum: 2026-01-01
     typ: uebersicht
     titel: Section 230 immunity for AI chatbot lawsuits
     url: https://www.moodys.com/web/en/us/insights/insurance/230-immunity-for-AI-chatbot-lawsuits.html
     sprache: en
     urheber: Moody's
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die Feststellung, dass § 230 in den Chatbot-Verfahren nicht erhoben wird, und für
       die Abgrenzung Kuratierung/Erzeugung.
   - datum: 2025-08-07
@@ -3734,7 +3733,7 @@ regelwerke:
     url: https://www.mediapost.com/publications/article/407997/
     sprache: en
     urheber: MediaPost
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die Verdrängung von AB 2655 durch § 230 am 06.08.2025.
   bedeutung_eu_anbieter: 'Wer in den USA einen generativen Dienst betreibt, sollte nicht mit § 230 planen:
     Für selbst erzeugte Ausgaben greift er nach einhelliger Praxis nicht, und die Verfahren werden über
@@ -3798,7 +3797,7 @@ regelwerke:
       offen.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.enzuzo.com/blog/sb-690-and-cipa
   themenachsen:
   - datenschutz
@@ -3825,7 +3824,7 @@ regelwerke:
     url: https://calawyers.org/privacy-law/sb-690-a-potential-pause-in-cipa-litigation/
     sprache: en
     urheber: California Lawyers Association
-    verifiziert: true
+    verifiziert: false
     notiz: Struktur des CIPA, pen-register-Theorie, Klagewelle, Gesetzgebungsstand.
   - datum: 2026-08-01
     typ: uebersicht
@@ -3833,7 +3832,7 @@ regelwerke:
     url: https://www.enzuzo.com/blog/sb-690-and-cipa
     sprache: en
     urheber: Enzuzo
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die Fassung vom 02.07.2026, den Fortbestand der § 631-Ansprüche und die Zahl der
       Verfahren.
   bedeutung_eu_anbieter: 'Wer eine Website oder App mit kalifornischem Publikum betreibt und dort einen
@@ -3895,13 +3894,13 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-01-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.koleyjessen.com/insights/publications/new-state-privacy-laws-effective-january-1-2026-indiana-kentucky-and-rhode-island
   anwendungsdaten:
   - datum: 2026-01-01
     was_gilt: Vollständige Anwendung einschließlich Widerspruchsrecht gegen Profiling und Pflicht zur
       Folgenabschätzung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.koleyjessen.com/insights/publications/new-state-privacy-laws-effective-january-1-2026-indiana-kentucky-and-rhode-island
   themenachsen:
   - datenschutz
@@ -3927,7 +3926,7 @@ regelwerke:
     url: https://www.koleyjessen.com/insights/publications/new-state-privacy-laws-effective-january-1-2026-indiana-kentucky-and-rhode-island
     sprache: en
     urheber: Koley Jessen
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Verfahrensdaten, Schwellenwerte, Rechte, Durchsetzung und Bußgeldrahmen.
   - datum: 2026-01-01
     typ: uebersicht
@@ -3975,17 +3974,17 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/tracker/kohls-v-bonta/
   anwendungsdaten:
   - datum: 2024-10-02
     was_gilt: Einstweilige Verfügung gegen die Anwendung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/tracker/kohls-v-bonta/
   - datum: 2025-08-29
     was_gilt: 'Endgültige Entscheidung: Verstoß gegen den First Amendment; strenge Prüfung, kein enger
       Zuschnitt.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://reason.com/volokh/2025/08/29/california-law-restricting-materially-deceptive-election-related-deepfakes-violates-first-amendment/
   themenachsen:
   - content
@@ -4010,7 +4009,7 @@ regelwerke:
     url: https://reason.com/volokh/2025/08/29/california-law-restricting-materially-deceptive-election-related-deepfakes-violates-first-amendment/
     sprache: en
     urheber: Eugene Volokh / Reason
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Datum, Gericht, Richter und Begründung.
   - datum: 2025-01-03
     typ: uebersicht
@@ -4018,7 +4017,7 @@ regelwerke:
     url: https://www.techpolicy.press/tracker/kohls-v-bonta/
     sprache: en
     urheber: Tech Policy Press
-    verifiziert: true
+    verifiziert: false
     notiz: Vollständige Verfahrenschronologie einschließlich der Verbindung mit Babylon Bee und X Corp.
   bedeutung_eu_anbieter: 'Lehrreich, nicht verpflichtend. Wer Kennzeichnungs- und Moderationsregeln für
     Wahlkontexte entwirft, sollte inhaltsneutral arbeiten: Kennzeichnung statt Verbot, Transparenz statt
@@ -4059,16 +4058,16 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mediapost.com/publications/article/407997/
   anwendungsdaten:
   - datum: 2025-01-03
     was_gilt: Aussetzung der Vollziehung insgesamt.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.techpolicy.press/tracker/kohls-v-bonta/
   - datum: 2025-08-06
     was_gilt: 'Endgültige Entscheidung: Verdrängung durch § 230 CDA.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mediapost.com/publications/article/407997/
   themenachsen:
   - content
@@ -4094,7 +4093,7 @@ regelwerke:
     url: https://www.mediapost.com/publications/article/407997/
     sprache: en
     urheber: MediaPost
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Datum, Richter und Verdrängungsgrund.
   - datum: 2024-09-17
     typ: entwurf
@@ -4149,7 +4148,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-07-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://law.justia.com/codes/california/code-civ/division-3/part-4/title-1-81-47/section-1798-99-31/
     fundstelle_norm: 'Cal. Civ. Code § 1798.99.31(d): ''This section shall become operative on July 1,
       2024.'' Eingefuegt durch AB 2273 (Stats. 2022, ch. 320). Das Gesetz selbst ist als Statut am 01.01.2023
@@ -4161,7 +4160,7 @@ regelwerke:
       aufgehoben; Folgenabschätzung und die unbestimmten Verbote bleiben untersagt.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.hklaw.com/en/insights/publications/2026/03/ninth-circuit-issues-mixed-ruling-on-california-age-appropriate-design
   themenachsen:
   - datenschutz
@@ -4185,7 +4184,7 @@ regelwerke:
     url: https://www.hklaw.com/en/insights/publications/2026/03/ninth-circuit-issues-mixed-ruling-on-california-age-appropriate-design
     sprache: en
     urheber: Holland & Knight
-    verifiziert: true
+    verifiziert: false
     notiz: Maßgeblich für die Aufteilung zwischen weiter untersagten und freigegebenen Vorschriften.
   - datum: 2026-03-30
     typ: uebersicht
@@ -4249,12 +4248,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-07-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.proskauer.com/blog/the-king-is-back-in-the-digital-era-the-elvis-act-generative-ai-and-right-of-publicity
   anwendungsdaten:
   - datum: 2024-07-01
     was_gilt: Vollständige Anwendung einschließlich der Werkzeughaftung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.proskauer.com/blog/the-king-is-back-in-the-digital-era-the-elvis-act-generative-ai-and-right-of-publicity
   themenachsen:
   - content
@@ -4279,7 +4278,7 @@ regelwerke:
     url: https://www.proskauer.com/blog/the-king-is-back-in-the-digital-era-the-elvis-act-generative-ai-and-right-of-publicity
     sprache: en
     urheber: Proskaür Rose LLP
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für Ausfertigungs- und Inkrafttretensdatum, Stimmdefinition und Werkzeughaftung.
   - datum: 2024-04-01
     typ: uebersicht
@@ -4369,7 +4368,7 @@ regelwerke:
     sprache: en
     urheber: The National Archives
     verifiziert: false
-    notiz: Amtliche konsolidierte Fassung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche konsolidierte Fassung;
   bedeutung_eu_anbieter: 'Wer Auswahl-, Bewertungs- oder Erkennungssysteme im Vereinigten Königreich vertreibt,
     sollte davon ausgehen, dass der Kunde Nachweise zur Fehlerverteilung über geschützte Merkmale verlangen
     wird — öffentliche Stellen müssen sie nach s. 149 haben. Wer die Anforderungen des Art. 10 Abs. 2
@@ -4450,7 +4449,7 @@ regelwerke:
     sprache: en
     urheber: The National Archives
     verifiziert: false
-    notiz: Amtliche konsolidierte Fassung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche konsolidierte Fassung;
   bedeutung_eu_anbieter: 'Keine Abweichung von der europäischen Praxis bei der Erfinderbenennung; Unterschiede
     bestehen bei der Patentierbarkeit softwarebezogener Erfindungen, wo das Vereinigte Königreich strenger
     ist als das EPA. Für ein europäisches Portfolio bedeutet das getrennte Anspruchsfassungen.
@@ -4525,7 +4524,7 @@ regelwerke:
     sprache: en
     urheber: The National Archives
     verifiziert: false
-    notiz: Amtliche konsolidierte Fassung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche konsolidierte Fassung;
   bedeutung_eu_anbieter: 'Wer Bildmodelle trainiert oder vertreibt, sollte die Ausgabe auf fremde Kennzeichen
     prüfen und Wasserzeichen aus Trainingsdaten entfernen. Der Anspruch besteht in nahezu identischer
     Form nach Art. 9 UMV; das britische Verfahren zeigt nur, dass er praktisch durchsetzbar ist, wo das
@@ -4602,7 +4601,7 @@ regelwerke:
     sprache: en
     urheber: The National Archives
     verifiziert: false
-    notiz: Amtliche konsolidierte Fassung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche konsolidierte Fassung;
   bedeutung_eu_anbieter: 'Wer Kapital von einem Cloud- oder Plattformkonzern aufnimmt oder exklusive Rechenkapazität
     einkauft, sollte die britische Aufgreifschwelle im Blick behalten: "material influence" liegt deutlich
     unter der Kontrolle im Sinne der FKVO. Eine Struktur, die in Brüssel nicht anmeldepflichtig ist, kann
@@ -4646,7 +4645,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 1991-07-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://lawlex.com.au/tempstore/Consolidated120707/Social%20Security%20Act.pdf
     fundstelle_norm: 's. 2 Social Security Act 1991 (Act No. 46 of 1991): ''This Act commences on 1 July
       1991.'''
@@ -4686,7 +4685,7 @@ regelwerke:
     url: https://www.itnews.com.au/news/feds-move-to-regulate-automated-decision-making-627504
     sprache: en
     urheber: iTnews
-    verifiziert: true
+    verifiziert: false
     notiz: Stand des ADM-Rahmens im Juli 2026 und die parallelen Einzelgesetze (Aged Care, NDIS).
   - datum: 2024-11-13
     typ: konsultation
@@ -4779,7 +4778,7 @@ regelwerke:
     sprache: en
     urheber: Australian Government
     verifiziert: false
-    notiz: Amtliche Fassung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche Fassung;
   bedeutung_eu_anbieter: 'Mittelbar bedeutsam: Wer australische Behörden beliefert, hat Ansprechpartner,
     die persönlich haften. Das verändert das Beschaffungsverhalten — verlangt werden Nachweise, die der
     Beamte in einer Disziplinaruntersuchung vorlegen kann. Wer eine Konformitätsdokumentation nach Art.
@@ -4851,7 +4850,7 @@ regelwerke:
     sprache: en
     urheber: Australian Government
     verifiziert: false
-    notiz: Amtliche Fassung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche Fassung;
   bedeutung_eu_anbieter: 'Keine praktische Abweichung bei der Erfinderbenennung; erhebliche Abweichung
     bei der Patentierbarkeit computerimplementierter Erfindungen, wo Australien restriktiver ist als das
     EPA. Für KI-Portfolios bedeutet das eigene Anspruchsfassungen mit ausgeprägtem technischen Anwendungsbezug.
@@ -4943,7 +4942,7 @@ regelwerke:
     url: https://www.recordinglaw.com/news/australia-digital-intermediary-defamation-reforms-commence/
     sprache: en
     urheber: Recording Law
-    verifiziert: true
+    verifiziert: false
     notiz: Quelle für die Inkraftsetzungsdaten je Bundesstaat, ss. 10D, 31A, 39A und die abweichende Lage
       in South Australia und Western Australia.
   - datum: 2024-07-01
@@ -5133,10 +5132,8 @@ regelwerke:
     sprache: en
     urheber: Supreme Court of New South Wales
     verifiziert: false
-    notiz: 'Amtlicher Text der geltenden Fassung. Aus dem im Bestand als verifiziert geführten Eintrag
-      au-2024-nsw-pn-sc-gen-23 übernommen; in dieser Sitzung nicht erneut abgerufen.
-
-      '
+    notiz: Amtlicher Text der geltenden Fassung. Aus dem im Bestand als verifiziert geführten Eintrag au-2024-nsw-pn-sc-gen-23
+      übernommen;
   - datum: 2025-01-28
     typ: uebersicht
     titel: Generative Artificial Intelligence — Informationsseite des Gerichts
@@ -5144,10 +5141,7 @@ regelwerke:
     sprache: en
     urheber: Supreme Court of New South Wales
     verifiziert: false
-    notiz: 'Fassungsgeschichte und Konsultationshinweise. Aus dem Bestandseintrag übernommen, in dieser
-      Sitzung nicht abgerufen.
-
-      '
+    notiz: Fassungsgeschichte und Konsultationshinweise. Aus dem Bestandseintrag übernommen, nicht abgerufen.
   bedeutung_eu_anbieter: 'Für Anbieter von Kanzleisoftware die schärfste Anforderung weltweit: Ein Werkzeug,
     das bei der Erstellung von Zeugenaussagen mitwirkt, ist in New South Wales nicht einsetzbar — auch
     nicht als Transkriptions- oder Zusammenfassungshilfe. Produktseitig folgt daraus die Notwendigkeit,
@@ -5229,11 +5223,8 @@ regelwerke:
     sprache: en
     urheber: Federal Court of Australia
     verifiziert: false
-    notiz: 'Amtlicher Text; Quelle für Erlass- und Geltungsdatum sowie die Ziffern 4.10 und 5.1. Aus dem
-      im Bestand als verifiziert geführten Eintrag au-2026-fedcourt-gpn-ai übernommen; in dieser Sitzung
-      nicht erneut abgerufen.
-
-      '
+    notiz: Amtlicher Text; Quelle für Erlass- und Geltungsdatum sowie die Ziffern 4.10 und 5.1. Aus dem im
+      Bestand als verifiziert geführten Eintrag au-2026-fedcourt-gpn-ai übernommen;
   bedeutung_eu_anbieter: 'Die Offenlegungspflicht für KI-erzeugte multimediale Beweismittel ist die für
     Anbieter interessanteste Regel: Sie verlangt faktisch eine Herkunftskennzeichnung, die dem Gericht
     gegenüber belegbar ist. Wer C2PA-Herkunftsnachweise erzeugt, liefert genau das — und kann damit in
@@ -5276,7 +5267,7 @@ regelwerke:
     es nicht.'
   inkrafttreten:
     datum: 1983-07-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Privacy_Act_(Canada)
     fundstelle_norm: Privacy Act, urspruenglich erlassen als Schedule II des Access to Information Act,
       S.C. 1980-81-82-83, c. 111; in Kraft getreten am 01.07.1983. Heutige Fassung R.S.C. 1985, c. P-21
@@ -5384,7 +5375,7 @@ regelwerke:
     Citizenship and Immigration) v Vavilov, 2019 SCC 65.'
   inkrafttreten:
     datum: 1971-06-01
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Federal_Court_of_Canada
     fundstelle_norm: Federal Court Act, S.C. 1970-71-72, c. 1 — in Kraft getreten am 01.06.1971; mit diesem
       Tag wurde der Exchequer Court als Federal Court of Canada fortgefuehrt. Heutige Fassung Federal
@@ -5419,9 +5410,8 @@ regelwerke:
   letzte_pruefung: 2026-09-06
   anwendungsdaten:
   - datum: 1992-02-01
-    was_gilt: s. 18.1 Federal Courts Act (Verfahren der gerichtlichen Kontrolle) — eingefuegt 1990 durch
-      S.C. 1990, c. 8; das Inkrafttretensdatum dieser Novelle liess sich in dieser Sitzung nicht am amtlichen
-      Text belegen
+    was_gilt: s. 18.1 Federal Courts Act (Verfahren der gerichtlichen Kontrolle) — eingefuegt 1990 durch S.C.
+      1990, c. 8; das Inkrafttretensdatum dieser Novelle liess sich nicht am amtlichen Text belegen
     verifiziert: false
     quelle: https://laws-lois.justice.gc.ca/eng/acts/F-7/
   pruefvermerk:
@@ -5452,7 +5442,7 @@ regelwerke:
     Arbuckle v. Tanner (2026 NSCA 62).'
   inkrafttreten:
     datum: 2023-06-23
-    verifiziert: true
+    verifiziert: false
     quelle: https://uwindsor-law.libguides.com/AI/Regulation
   themenachsen:
   - berufsrecht
@@ -5496,7 +5486,7 @@ regelwerke:
     url: https://uwindsor-law.libguides.com/AI/Regulation
     sprache: en
     urheber: University of Windsor Law Library
-    verifiziert: true
+    verifiziert: false
     notiz: Nachweis der Titel und Daten der Praxishinweise von Ontario, Alberta, Manitoba und des BC Court
       of Appeal.
   offene_punkte:

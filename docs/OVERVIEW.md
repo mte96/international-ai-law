@@ -18,7 +18,7 @@ unsettled legal questions around which the material sorts itself.
 | | |
 |---|---|
 | Instruments | **861** across 50 jurisdictions |
-| Procedural documents | **2040**, 72 % checked against the document |
+| Procedural documents | **2040**, 71 % with an official address, 51 % checked against the document |
 | Individual provisions (norm level) | **2068** |
 | Decisions | **418**, 223 of them of high importance |
 | Controversies | **24** with **194** positions |
@@ -45,8 +45,9 @@ instrument, designation, subject — good for linking and filtering, not for
 reading.
 
 **3. Decision** — with parties, docket number, holding, operative reasoning
-and citation. 66 % carry an official full text, 76 % among those of high
-importance. Anything not checked against the document carries a verification
+and citation. 61 % carry an official full text, 72 % among those of high
+importance; a further 12 % rest on a legal database, which holds the text but
+is not the source of record. Anything not checked against the document carries a verification
 note saying what is missing.
 
 **4. Controversy** — the unsettled legal question, with the positions that
@@ -110,7 +111,7 @@ opposite of a smoothed-over collection.
   characters) carry the substance; a written-out statement of facts exists
   for 160 entries, a formal headnote for 23. For a narrative format the facts
   therefore have to be read back out of the full text case by case; the
-  full-text link is present for 66 % of the decisions.
+  full-text link is present for 61 % of the decisions.
 
 **What the maturity rating per jurisdiction does not say:** it measures
 whether the six levels hold, not what share of the total population we have.

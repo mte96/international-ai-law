@@ -53,7 +53,6 @@ urteile:
   - ru-gk-art-1260
   - ru-gk-art-1270
   - ru-gk-art-1301
-  quelle_art: amtlich
   sachverhalt: Die ООО «Рефейс Технолоджис» (Reface Technologies) stellte ein Werbevideo her, in dem das
     Gesicht des Schauspielers Keanu Reeves per Deepfake auf einen Darsteller montiert war; Drehbuch, Aufnahme
     und Tongestaltung stammten von ihren eigenen Urhebern. Die ООО «Бизнес-аналитика», Betreiberin des
@@ -107,7 +106,6 @@ urteile:
   - ru-gk-art-1260
   - ru-gk-art-1270
   - ru-gk-art-1301
-  quelle_art: amtlich
 - id: ru-2024-reface-sip
   jurisdiktion: ru
   gericht: Gericht für geistige Eigentumsrechte (Суд по интеллектуальным правам, SIP)
@@ -199,7 +197,6 @@ urteile:
   - ru-gk-art-1259
   - ru-gk-art-1260
   - ru-gk-art-1270
-  quelle_art: amtlich
   sachverhalt: Nachdem das Arbitragegericht der Stadt Moskau der ООО «Рефейс Технолоджис» am 30. November
     2023 wegen der unlizenzierten Verwendung ihres Deepfake-Werbevideos 500.000 Rubel zugesprochen hatte,
     legte die Beklagte ООО «Бизнес-аналитика» Berufung ein. Das Neunte Arbitrage-Berufungsgericht wies
@@ -261,7 +258,6 @@ urteile:
   - ru-gk-art-1257
   - ru-gk-art-1259
   - ru-gk-art-1270
-  quelle_art: amtlich
   sachverhalt: 'Eine Privatperson erzeugte mit einem KI-Bildgenerator zwei Motive: eine Mona Lisa mit
     Weinglas und eine Freiheitsstatue, die statt der Fackel ein Weinglas hält; hinzugekommen waren unter
     anderem Augenringe. Der Ersteller gab dafür Eingabeaufforderungen ein und nahm anschließend Anpassungen
@@ -300,7 +296,7 @@ urteile:
   - ru-gk-teil-4
   instanzenzug: []
   quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru (05.12.2025); GARANT-Datenbank
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Praktisch die wichtigste Entscheidung des Bestands für die Prozessführung: Sie zeigt,
     dass der KI-Einwand in Russland ein Beweisproblem ist, kein dogmatisches. Wer Projektdateien, Zwischenstände
@@ -321,7 +317,6 @@ urteile:
   - ru-gk-art-1257
   - ru-gk-art-1259
   - ru-gk-art-1301
-  quelle_art: fehlt
 - id: ru-2025-13aas-stable-diffusion
   jurisdiktion: ru
   gericht: Dreizehntes Arbitrage-Berufungsgericht (Тринадцатый арбитражный апелляционный суд)
@@ -364,7 +359,6 @@ urteile:
   - ru-gk-art-1259
   - ru-gk-art-1270
   - ru-gk-art-1301
-  quelle_art: amtlich
 - id: ru-2024-15aas-arbeitsvertrag
   jurisdiktion: ru
   gericht: Fünfzehntes Arbitrage-Berufungsgericht (Пятнадцатый арбитражный апелляционный суд)
@@ -403,7 +397,6 @@ urteile:
   - ru-gk-art-1257
   - ru-gk-art-1295
   - ru-gk-art-1301
-  quelle_art: amtlich
 - id: ru-2023-sip-patent-ki
   jurisdiktion: ru
   gericht: Präsidium des Gerichts für geistige Eigentumsrechte (Президиум Суда по интеллектуальным правам)
@@ -433,7 +426,7 @@ urteile:
   - ru-gk-teil-4
   instanzenzug: []
   quelle_tracker: Rechtsprechungsübersicht garant-ufa.ru
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die einzige gefundene russische Entscheidung zum Patentrecht mit KI-Bezug — und sie
     betrifft nicht die vieldiskutierte Frage der Maschinenerfinderschaft (DABUS), sondern die praktisch
@@ -451,7 +444,6 @@ urteile:
     mit der PDF-Ausfertigung des Postanovlenie des Präsidiums vom 31.07.2023); ferner https://ras.arbitr.ru/
   normen:
   - ru-gk-art-1350
-  quelle_art: fehlt
 - id: ru-2023-a41-marktplatz-automatik
   jurisdiktion: ru
   gericht: Arbitragegericht des Moskauer Gebiets (Арбитражный суд Московской области)
@@ -492,7 +484,6 @@ urteile:
     russische Entscheidung, die algorithmische Entscheidungsgewalt überhaupt begrenzt.
 
     '
-  quelle_art: amtlich
 - id: ru-2024-f05-schneeraeumung
   jurisdiktion: ru
   gericht: Arbitragegericht des Moskauer Bezirks (Арбитражный суд Московского округа)
@@ -537,7 +528,6 @@ urteile:
     auf Erläuterung) und Art. 22 DSGVO ist das der zentrale Kontrastfall.
 
     '
-  quelle_art: amtlich
   sachverhalt: 'Eine Organisation im Moskauer Gebiet erhielt einen Ordnungswidrigkeitenbescheid, weil
     sie die Vorgaben über die Instandhaltung des Geländes verletzt habe: Schnee, Eis und Vereisungen seien
     von Straßen, Hofdurchfahrten und Gehwegen nicht ordnungsgemäß geräumt worden. Festgestellt hatte das
@@ -590,7 +580,6 @@ urteile:
     regelt, tut es das über vorhandene Kategorien, nicht über neue.
 
     '
-  quelle_art: amtlich
 - id: ru-2025-a56-consulting-ki
   jurisdiktion: ru
   gericht: Arbitragegericht des Leningrader Gebiets (Арбитражный суд Ленинградской области)
@@ -628,7 +617,6 @@ urteile:
     Offenlegungsanspruch des Bestellers bleibt damit offen — und es ist absehbar, dass er wiederkommt.
 
     '
-  quelle_art: amtlich
 - id: ru-2026-a27-ki-halluzinationen
   jurisdiktion: ru
   gericht: Arbitragegericht des Westsibirischen Bezirks (Арбитражный суд Западно-Сибирского округа)
@@ -676,7 +664,6 @@ urteile:
     Vergleichsfall. Zur Datierung siehe den Quellenkonflikt im meta-Block.
 
     '
-  quelle_art: amtlich
   sachverhalt: Ein Auftraggeber und die ООО «Центральный Спец Сервис» aus Kemerowo stritten darüber, ob
     vereinbarte Buchhaltungsleistungen erbracht worden waren; der Streitwert betrug 58.000 Rubel. Nach
     den Entscheidungen der Vorinstanzen legte eine der Parteien Kassationsbeschwerde beim Arbitragegericht
@@ -728,7 +715,6 @@ urteile:
     Begründungsdogmatik am schärfsten hervortreten.
 
     '
-  quelle_art: amtlich
 - id: ru-2019-popova-gesichtserkennung
   jurisdiktion: ru
   gericht: Sawjolowski-Bezirksgericht der Stadt Moskau (Савёловский районный суд города Москвы), anschließend
@@ -779,7 +765,6 @@ urteile:
   normen:
   - ru-152-fz-art-9
   - ru-152-fz-art-11
-  quelle_art: amtlich
   sachverhalt: Die Stadt Moskau rüstete ihr Videoüberwachungssystem mit Gesichtserkennung aus. Die Aktivistin
     Aljona Popowa (Алёна Попова) ließ sich, unterstützt von der Bürgerrechtsorganisation RosKomSvoboda,
     Aufzeichnungen aus diesem System vorlegen; darin war ihr Gesicht 32-fach vergrößert worden. Sie hielt
@@ -840,7 +825,6 @@ urteile:
   normen:
   - ru-152-fz-art-9
   - ru-152-fz-art-11
-  quelle_art: amtlich
   sachverhalt: In der Moskauer Metro sind Kameras mit Gesichtserkennung im Einsatz; die Fahrgäste werden
     dabei nicht um Einwilligung gefragt. Ein Fahrgast, in der Veröffentlichung nur mit dem Anfangsbuchstaben
     B. bezeichnet, hielt das für rechtswidrig und klagte gegen das Verkehrsdepartement der Stadt Moskau
@@ -894,7 +878,6 @@ urteile:
     die Verarbeitung: Ein System, dessen Daten gehandelt werden, schützt nicht, sondern gefährdet.
 
     '
-  quelle_art: amtlich
 - id: ru-2023-glukhin-egmr
   jurisdiktion: ru
   gericht: Europäischer Gerichtshof für Menschenrechte, Dritte Sektion
@@ -964,7 +947,6 @@ urteile:
   - Gericht, Sektion, Beschwerdenummer, Datum und Parteien stimmen mit dem Eintrag überein; die ECLI ECLI:CE:ECHR:2023:0704JUD001151920
     ist konsistent mit der Dokument-ID 001-225655.
   - Originalsprache des Urteils ist Englisch (Verfahrenssprache Englisch, Russisch als Sprache des Beschwerdeführers).
-  quelle_art: amtlich
   sachverhalt: 'Moskau rüstete seine Überwachungskameras seit 2017 mit Live-Gesichtserkennung aus; bis
     zum 1. September 2020 waren alle rund 175.000 Kameras der Stadt damit ausgestattet, 2022 waren es
     über 220.000. Am 12. August 2019 wurde der politische Aktivist Konstantin Kotow (Константин Котов)
@@ -1037,7 +1019,6 @@ urteile:
     die Veröffentlichung ist nicht bekannt.
 
     '
-  quelle_art: amtlich
   sachverhalt: 'Vor den russischen Gerichten häuften sich Verfahren mit KI-Bezug: Schadensfälle durch
     KI-Systeme, Persönlichkeitsrechtsverletzungen durch KI-erzeugte Inhalte und Deepfakes, Streitigkeiten
     über geistiges Eigentum, Verwaltungs- und Strafverfahren, in denen behördliche Entscheidungen auf

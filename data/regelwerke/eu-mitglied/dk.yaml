@@ -191,7 +191,7 @@ regelwerke:
     url: https://prodstoragehoeringspo.blob.core.windows.net/92ca118f-cd2c-4558-a6a9-f590c111bd67/H%C3%B8ringsbrev.pdf
     sprache: da
     urheber: Kulturministeriet
-    verifiziert: true
+    verifiziert: false
     notiz: 'Amtliches Anschreiben. Nennt als geplantes Inkrafttreten den 31.03.2026 — die frühere und
       später aufgegebene Planung. Antworten an ophavsret@kum.dk bis 21.08.2025.
 
@@ -1814,7 +1814,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.advokatsamfundet.dk/
     notiz: Kein Rechtsakt; reiner Befund über den Stand des Berufsrechts.
   themenachsen:
@@ -1845,7 +1845,7 @@ regelwerke:
     url: https://www.advokatsamfundet.dk/
     sprache: da
     urheber: Advokatsamfundet
-    verifiziert: true
+    verifiziert: false
     notiz: Abgerufen am 04.09.2026; keine berufsrechtliche KI-Leitlinie auffindbar.
   offene_punkte:
   - Ob die Advokatetiske Regler oder eine Vejledning KI ansprechen — die Regelwerkseiten wurden nicht

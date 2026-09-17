@@ -19,7 +19,7 @@ from pathlib import Path
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from quellenart import art
+from quellenklasse import klasse as art   # Einstufung an einer Stelle, s. quellenklasse.py
 
 ROOT = Path(__file__).resolve().parent.parent
 tax = yaml.safe_load((ROOT / "schema/taxonomie.yaml").read_text(encoding="utf-8"))

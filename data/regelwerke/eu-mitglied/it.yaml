@@ -362,7 +362,7 @@ regelwerke:
     sekundaerquelle_url: https://www.sistemapenale.it/pdf_contenuti/1783072012_-ag-418-448483.pdf
     sprache: it
     urheber: Governo italiano / Senato della Repubblica; hier gespiegelt bei Sistema Penale
-    verifiziert: true
+    verifiziert: false
     abruf: ok
     notiz: Volltext des Dekretentwurfs (22 Artikel, zwei Titel). Die amtliche Originalfundstelle auf senato.it
       beantwortet automatisierte Abrufe mit 403, weshalb hier die Spiegelung als Sekundaerquelle gefuehrt
@@ -523,7 +523,7 @@ regelwerke:
     sekundaerquelle_url: https://www.sistemapenale.it/pdf_contenuti/1783072012_-ag-418-448483.pdf
     sprache: it
     urheber: Governo italiano / Senato della Repubblica (Spiegelung bei Sistema Penale)
-    verifiziert: true
+    verifiziert: false
     abruf: ok
     notiz: Einzige erreichbare Volltextfassung. Belegt Titel, Rechtsgrundlage, Aufbau (22 Artikel, zwei
       Titel), Art. 437-bis c.p. und Art. 359-ter c.p.p.
@@ -562,7 +562,7 @@ regelwerke:
     sekundaerquelle_url: https://www.giurisprudenzapenale.com/2026/09/02/intelligenza-artificiale-in-arrivo-nuovi-reati-e-nuove-responsabilita-per-gli-enti/
     sprache: it
     urheber: Giurisprudenza Penale
-    verifiziert: true
+    verifiziert: false
     abruf: ok
     notiz: 'Stichtagsbeleg: Am 02.09.2026 waren die neuen Straftatbestaende ausdruecklich noch ''in arrivo''.
       Der Beitrag nennt den endgueltigen Beschluss des Ministerrats vom 04.08.2026, aber keine Veroeffentlichung
@@ -1336,7 +1336,7 @@ regelwerke:
     sekundaerquelle_url: https://giuricivile.it/magistrati-e-ai-aggiornate-le-raccomandazioni-del-csm/
     sprache: it
     urheber: Giuricivile
-    verifiziert: true
+    verifiziert: false
     abruf: ok
     notiz: Einzige erreichbare Quelle fuer Datum und Inhalt der Aktualisierung vom 22.07.2026.
   - datum: 2025-10-15
@@ -1346,7 +1346,7 @@ regelwerke:
     sekundaerquelle_url: https://www.misterlex.it/doc/giudici-ia-raccomandazioni-csm/
     sprache: it
     urheber: MisterLex
-    verifiziert: true
+    verifiziert: false
     abruf: ok
     notiz: Belegt Datum (08.10.2025), beschliessendes Organ (Plenum) und Inhalt der urspruenglichen Empfehlungen.
   offene_punkte:
@@ -1396,12 +1396,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2025-10-02
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.consiglionazionaleforense.it/documents/20182/3593400/Guida+del+CCBE+sull%E2%80%99uso+dell%E2%80%99intelligenza+artificiale+generativa+da+parte+degli+avvocati.pdf/0fdee427-fb50-7e41-fbd6-5bae7acec75c?t=1763380452292
   anwendungsdaten:
   - datum: 2025-10-02
     was_gilt: Verabschiedung des Leitfadens durch den CCBE.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.consiglionazionaleforense.it/documents/20182/3593400/Guida+del+CCBE+sull%E2%80%99uso+dell%E2%80%99intelligenza+artificiale+generativa+da+parte+degli+avvocati.pdf/0fdee427-fb50-7e41-fbd6-5bae7acec75c?t=1763380452292
   themenachsen:
   - berufsrecht
@@ -1427,7 +1427,7 @@ regelwerke:
     url: https://www.consiglionazionaleforense.it/documents/20182/3593400/Guida+del+CCBE+sull%E2%80%99uso+dell%E2%80%99intelligenza+artificiale+generativa+da+parte+degli+avvocati.pdf/0fdee427-fb50-7e41-fbd6-5bae7acec75c?t=1763380452292
     sprache: it
     urheber: CCBE; italienische Uebersetzung durch das Bruesseler Buero des Consiglio Nazionale Forense
-    verifiziert: true
+    verifiziert: false
     abruf: ok
     notiz: Volltext-PDF auf der amtlichen CNF-Domain. Belegt Datum (02.10.2025), Urheberschaft und alle
       Kernpflichten.
@@ -1918,7 +1918,7 @@ regelwerke:
     sekundaerquelle_url: https://www.biodiritto.org/AI-Legal-Atlas/AI-Docs/Italia-Ministero-dell-Istruzione-e-del-Merito-Linee-guida-per-l-introduzione-dell-Intelligenza-Artificiale-nelle-Istituzioni-scolastiche
     sprache: it
     urheber: Universita di Trento — Biodiritto, AI Legal Atlas
-    verifiziert: true
+    verifiziert: false
     abruf: ok
     notiz: Einzige erreichbare Quelle zur Bestaetigung von Dekretnummer (166), Datum (09.08.2025) und
       Aufbau der Leitlinien.

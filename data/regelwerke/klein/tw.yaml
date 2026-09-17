@@ -345,10 +345,8 @@ regelwerke:
     sprache: zh
     urheber: 立法院
     verifiziert: false
-    notiz: 'Schreiben 台立院議字第1140704341號. Volltext auf ly.gov.tw in dieser Sitzung nicht erreichbar (Egress-Sperre);
-      die Fassung wurde über eine weiterleitende Behördenveröffentlichung erschlossen. Fundstelle in sekundaerquelle_url.
-
-      '
+    notiz: Schreiben 台立院議字第1140704341號. Volltext auf ly.gov.tw nicht erreichbar (Egress-Sperre); die Fassung
+      wurde über eine weiterleitende Behördenveröffentlichung erschlossen. Fundstelle in sekundaerquelle_url.
     sekundaerquelle_url: https://www.ttsh.tp.edu.tw/wp-content/uploads/doc/g151/人工智慧基本法附帶決議.pdf
   - datum: 2024-07-15
     typ: konsultation
@@ -359,11 +357,9 @@ regelwerke:
     sprache: zh
     urheber: 國家科學及技術委員會
     verifiziert: false
-    notiz: 'Konsultationsfrist 15.07.2024 bis 13.09.2024. Die Entwurfsseite des NSTC-Rechtsportals (DraftOpinionContent)
-      lieferte in dieser Sitzung einen Systemfehler; die Rechtsinhaltsseite GL000592 führt die heute geltende
-      Fassung, nicht den Entwurf von 2024. Der Entwurf ist damit nur mittelbar belegt.
-
-      '
+    notiz: Konsultationsfrist 15.07.2024 bis 13.09.2024. Die Entwurfsseite des NSTC-Rechtsportals (DraftOpinionContent)
+      lieferte einen Systemfehler; die Rechtsinhaltsseite GL000592 führt die heute geltende Fassung, nicht
+      den Entwurf von 2024. Der Entwurf ist damit nur mittelbar belegt.
   - datum: 2025-10-22
     typ: bericht
     titel: 人工智慧基本法草案評估報告 (Evaluierungsbericht, 62 Seiten)
@@ -371,12 +367,10 @@ regelwerke:
     sprache: zh
     urheber: 立法院法制局 / 立法院
     verifiziert: false
-    notiz: 'Der Bericht stellt fest: ''行政院函請本院審議之「人工智慧基本法草案」共計 17 條。經本報告研析，建議修正4 條（第3 條、第4 條、第7 條及第16
-      條）並 新增1 條'' — die Regierungsvorlage hatte 17 Artikel, empfohlen wurde die Änderung von vier Artikeln
-      und die Einfügung eines weiteren. Das verabschiedete Gesetz hat 20 Artikel. Das PDF liegt auf www.ly.gov.tw
-      und war in dieser Sitzung weder über den Agent-Proxy noch über den Browser lesbar.
-
-      '
+    notiz: 'Der Bericht stellt fest: ''行政院函請本院審議之「人工智慧基本法草案」共計 17 條。經本報告研析，建議修正4 條（第3 條、第4 條、第7 條及第16 條）並
+      新增1 條'' — die Regierungsvorlage hatte 17 Artikel, empfohlen wurde die Änderung von vier Artikeln und
+      die Einfügung eines weiteren. Das verabschiedete Gesetz hat 20 Artikel. Das PDF liegt auf www.ly.gov.tw
+      und war weder über den Agent-Proxy noch über den Browser lesbar.'
     sekundaerquelle_url: https://www.ly.gov.tw/Pages/ashx/File.ashx?FilePath=~/File/Attach/255581/File_19861327.pdf
   - datum: 2026-05-21
     typ: bericht
@@ -402,10 +396,8 @@ regelwerke:
     sprache: zh
     urheber: 數位發展部
     verifiziert: false
-    notiz: 'Sammelseite mit Volltext und begleitenden Entschließungen als PDF. In dieser Sitzung nur über
-      den IPFS-Spiegel (ipfs.moda.gov.tw) nachgewiesen; die Hauptdomain wurde nicht abgerufen.
-
-      '
+    notiz: Sammelseite mit Volltext und begleitenden Entschließungen als PDF. Nur über den IPFS-Spiegel (ipfs.moda.gov.tw)
+      nachgewiesen; die Hauptdomain wurde nicht abgerufen.
   offene_punkte:
   - 'Die 國家人工智慧發展綱領 (National AI Development Guidelines) nach Art. 6 ist am 06.09.2026 noch nicht veröffentlicht.
     Der NSTC erarbeitet sie; die Verabschiedung erfolgt durch das Strategiekomitee. Sie wird das eigentliche
@@ -522,12 +514,10 @@ regelwerke:
     sprache: zh
     urheber: 國家科學及技術委員會
     verifiziert: false
-    notiz: 'Die Rechtsinhaltsseite GL000592 des NSTC-Rechtsportals führt heute die geltende Fassung des
-      Gesetzes; die eigentliche Entwurfsseite (law.nstc.gov.tw/DraftOpinionContent.aspx) lieferte in dieser
-      Sitzung einen Systemfehler. Bekanntmachungsdatum und Aktenzeichen sind über die Konsultationsplattform
-      join.gov.tw belegt, nicht durch direkten Abruf der Entwurfsseite.
-
-      '
+    notiz: Die Rechtsinhaltsseite GL000592 des NSTC-Rechtsportals führt heute die geltende Fassung des Gesetzes;
+      Die eigentliche Entwurfsseite (law.nstc.gov.tw/DraftOpinionContent.aspx) lieferte einen Systemfehler.
+      Bekanntmachungsdatum und Aktenzeichen sind über die Konsultationsplattform join.gov.tw belegt, nicht
+      durch direkten Abruf der Entwurfsseite.
     sekundaerquelle_url: https://join.gov.tw/policies/detail/
   offene_punkte:
   - 'Der Volltext des NSTC-Entwurfs vom Juli 2024 (Artikelfassung) ließ sich nicht aus amtlicher Quelle
@@ -729,11 +719,9 @@ regelwerke:
     sprache: zh
     urheber: 數位發展部
     verifiziert: false
-    notiz: 'Verwaltungsbekanntmachung mit Erlassdatum und Aktenzeichen 數位策略字第1150015933號. Die Einzelseite
-      der Bekanntmachung war in dieser Sitzung nicht direkt adressierbar; belegt über die Übersichtsseite
-      und das Rechtsportal des Ministeriums.
-
-      '
+    notiz: Verwaltungsbekanntmachung mit Erlassdatum und Aktenzeichen 數位策略字第1150015933號. Die Einzelseite der
+      Bekanntmachung war nicht direkt adressierbar; belegt über die Übersichtsseite und das Rechtsportal des
+      Ministeriums.
   - datum: 2026-07-07
     typ: konsolidiert
     titel: 法規內容 — 人工智慧風險分類框架 (數位發展部主管法規共用系統)
@@ -741,10 +729,8 @@ regelwerke:
     sprache: zh
     urheber: 數位發展部
     verifiziert: false
-    notiz: 'Amtliches Rechtsportal des Ministeriums, Rubrik 數位策略目, unter law.moda.gov.tw. In dieser Sitzung
-      durch eine Cloudflare-Bot-Prüfung blockiert; die konkrete Dokument-id konnte nicht verifiziert werden.
-
-      '
+    notiz: Amtliches Rechtsportal des Ministeriums, Rubrik 數位策略目, unter law.moda.gov.tw. Durch eine Cloudflare-Bot-Prüfung
+      blockiert; die konkrete Dokument-id konnte nicht verifiziert werden.
     sekundaerquelle_url: https://www.leeandli.com/TW/NewslettersDetail/
   offene_punkte:
   - 'Der Rahmen trägt die Versionsnummer v1.0. Ob und in welchem Rhythmus er fortgeschrieben wird, ist
@@ -1064,7 +1050,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-06-05
-    verifiziert: true
+    verifiziert: false
     quelle: https://unfps.ntct.edu.tw/p/404-1066-499881.php
   anwendungsdaten:
   - datum: 2025-12-23
@@ -1080,7 +1066,7 @@ regelwerke:
     was_gilt: 'Erlass der Leitlinie (臺教資（一）字第1152701618號) — die Frist der Entschließung ist damit gewahrt.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://unfps.ntct.edu.tw/p/404-1066-499881.php
   themenachsen:
   - sektor-oeffentlich
@@ -1122,13 +1108,10 @@ regelwerke:
     url: https://unfps.ntct.edu.tw/p/404-1066-499881.php
     sprache: zh
     urheber: 教育部 (Ministry of Education), weitergeleitet durch eine Schulbehörde
-    verifiziert: true
-    notiz: 'Enthält Erlassdatum, Aktenzeichen und den ausdrücklichen Bezug auf die fünfte begleitende
-      Entschließung zum KI-Basisgesetz. Die Ministeriumsseite selbst war in dieser Sitzung nicht auffindbar;
-      die Weiterleitung einer öffentlichen Schule ist die belastbarste zugängliche Fundstelle für Datum
-      und Aktenzeichen.
-
-      '
+    verifiziert: false
+    notiz: Enthält Erlassdatum, Aktenzeichen und den ausdrücklichen Bezug auf die fünfte begleitende Entschließung
+      zum KI-Basisgesetz. Die Ministeriumsseite selbst war nicht auffindbar; die Weiterleitung einer öffentlichen
+      Schule ist die belastbarste zugängliche Fundstelle für Datum und Aktenzeichen.
   - datum: 2026-06-05
     typ: leitlinie
     titel: 教育部「高級中等以下學校人工智慧使用和學習指引」 (Inhaltsdarstellung)
@@ -1671,10 +1654,8 @@ regelwerke:
     sprache: en
     urheber: 法務部
     verifiziert: false
-    notiz: 'Die englische Fassung der Gesetzessammlung enthaelt nach dem Befund des Vorgaengers die Deepfake-Vorschriften
-      noch nicht. In dieser Sitzung nicht nachgeprueft.
-
-      '
+    notiz: Die englische Fassung der Gesetzessammlung enthaelt nach dem Befund des Vorgaengers die Deepfake-Vorschriften
+      noch nicht. Nicht nachgeprueft.
   offene_punkte:
   - 'Ein allgemeiner Deepfake-Straftatbestand ausserhalb des sexuellen Bereichs und des Wahlrechts fehlt.
     Wer ein Deepfake-Video eines Unternehmers oder Beamten erstellt, ist nur ueber Ehrschutzdelikte (§§
@@ -2250,10 +2231,7 @@ regelwerke:
     sprache: zh
     urheber: 金融監督管理委員會 (FSC)
     verifiziert: false
-    notiz: 'Volltext-PDF der Leitlinie. In dieser Sitzung nur ueber die Suchergebnisliste nachgewiesen,
-      nicht abgerufen.
-
-      '
+    notiz: Volltext-PDF der Leitlinie. Nur ueber die Suchergebnisliste nachgewiesen, nicht abgerufen.
   - datum: 2023-10-17
     typ: leitlinie
     titel: 金融業運用人工智慧（AI）之核心原則與相關推動政策
@@ -2359,10 +2337,8 @@ regelwerke:
     sprache: zh
     urheber: 衛生福利部
     verifiziert: false
-    notiz: 'Ergebnisbericht des Programms 負責任AI執行中心 (Responsible AI Execution Centers) mit zehn Krankenhaeusern.
-      Datum in dieser Sitzung nicht verifiziert.
-
-      '
+    notiz: Ergebnisbericht des Programms 負責任AI執行中心 (Responsible AI Execution Centers) mit zehn Krankenhaeusern.
+      Datum nicht verifiziert.
   offene_punkte:
   - 'Ob das MOHW die Leitlinie nach Art. 16 Abs. 2 KI-Basisgesetz in eine verbindliche Verwaltungsvorschrift
     ueberfuehrt, ist offen.

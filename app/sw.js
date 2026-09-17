@@ -1,4 +1,4 @@
-const VERSION = "878b0897a852";
+const VERSION = "01535fdd29dd";
 const CACHE = `ki-recht-${VERSION}`;
 // Nur die Huelle. data.json steht ABSICHTLICH nicht hier: es wird ohnehin
 // Netz-zuerst geholt und dabei in denselben Zwischenspeicher gelegt. Stuende

@@ -29,23 +29,23 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2023-05-22
-    verifiziert: true
+    verifiziert: false
     quelle: https://artificialintelligenceact.eu/standard-setting-overview/
   anwendungsdaten:
   - datum: 2023-05-22
     was_gilt: Erlass des Normungsauftrags M/593 (C(2023) 3215 final).
-    verifiziert: true
+    verifiziert: false
     quelle: https://artificialintelligenceact.eu/standard-setting-overview/
   - datum: 2025-04-30
     was_gilt: Ursprüngliche Lieferfrist des Auftrags — verstrichen ohne Lieferung.
-    verifiziert: true
+    verifiziert: false
     quelle: https://artificialintelligenceact.eu/standard-setting-overview/
   - datum: 2025-08-31
     was_gilt: 'Durch C(2025) 3871 verlängerte Lieferfrist — ebenfalls verstrichen ohne Lieferung einer
       einzigen Norm.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://artificialintelligenceact.eu/standard-setting-overview/
   - datum: 2025-10-16
     was_gilt: 'Gemeinsame Sitzung der Technischen Boards von CEN und CENELEC (14.-16.10.2025) beschließt
@@ -135,7 +135,7 @@ regelwerke:
     url: https://realaw.blog/2025/11/28/from-consensus-to-exceptionality-what-the-eus-ai-standards-crisis-reveals-about-delegated-technical-governance-by-marta-cantero-gamito/
     sprache: en
     urheber: Marta Cantero Gamito, REALaw.blog
-    verifiziert: true
+    verifiziert: false
     notiz: 'Die schärfste Legitimitätskritik am Oktober-Paket: Der Wegfall der Schlussabstimmung ändere
       die normative Bedeutung des Konsenses, ohne gleichwertige Verfahrensgarantien zu schaffen; kleine
       Redaktionsgruppen begünstigten die Vereinnahmung durch große Unternehmen und dominante nationale
@@ -149,17 +149,14 @@ regelwerke:
     sprache: en
     urheber: Information & Communications Technology Law
     verifiziert: false
-    notiz: 'Aufsatz zur Legitimität der Normungsdelegation. In dieser Sitzung nicht abrufbar (403); über
-      die Trefferliste identifiziert.
-
-      '
+    notiz: Aufsatz zur Legitimität der Normungsdelegation. Nicht abrufbar (403); über die Trefferliste identifiziert.
   - datum: 2026-06-30
     typ: uebersicht
     titel: JTC 21 Standards Tracker — CEN-CENELEC AI Act Deliverables
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: 'Vollständige Tabelle aller neun Kernnormen mit Stufe, Zielhorizont und ABl.-Zitierstatus (Stand
       Juni 2026). Die brauchbarste Einzelübersicht; Primärquellen sind daran zu prüfen.
 
@@ -232,11 +229,11 @@ regelwerke:
     quelle: https://adamleonsmith.substack.com/p/en-182862026-is-finally-published
   - datum: 2026-06-30
     was_gilt: Abschluss der Schlussabstimmung der nationalen Normungsinstitute (einstimmig, bei Enthaltungen).
-    verifiziert: true
+    verifiziert: false
     quelle: https://lawandtechnology.eu/en/en-18286-the-quality-management-system-for-article-17-of-the-ai-act-nears-publication/
   - datum: 2026-07-12
     was_gilt: Annahme durch CEN-CENELEC.
-    verifiziert: true
+    verifiziert: false
     quelle: https://adamleonsmith.substack.com/p/en-182862026-is-finally-published
   - datum: 2026-07-31
     was_gilt: Veröffentlichung als EN 18286:2026.
@@ -291,7 +288,7 @@ regelwerke:
     url: https://adamleonsmith.substack.com/p/en-182862026-is-finally-published
     sprache: en
     urheber: Adam Leon Smith (JTC 21-Mitwirkender)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Aus dem Gremium heraus geschrieben. Belegt Annahmedatum 12.07.2026, 51 Seiten, über 1.000
       Umfragekommentare und den bewussten Bruch mit ISO 9001 und EN ISO/IEC 42001.
 
@@ -302,7 +299,7 @@ regelwerke:
     url: https://lawandtechnology.eu/en/en-18286-the-quality-management-system-for-article-17-of-the-ai-act-nears-publication/
     sprache: en
     urheber: lawandtechnology.eu
-    verifiziert: true
+    verifiziert: false
     notiz: 'Juristisch präzise: trennt Veröffentlichung und ABl.-Zitierung und benennt Letztere als „the
       legally decisive point“.
 
@@ -313,7 +310,7 @@ regelwerke:
     url: https://www.lumenova.ai/blog/en-18286-eu-ai-act-standard/
     sprache: en
     urheber: Lumenova AI
-    verifiziert: true
+    verifiziert: false
     notiz: 'Beste frei zugängliche Strukturübersicht: zehn normative Abschnitte, fünf Anhänge, Abgrenzung
       zu ISO/IEC 42001 und die Feststellung, dass Anhang ZA auf Art. 17 Abs. 1 und Art. 11 Abs. 1 Satz
       1 zielt.
@@ -326,7 +323,7 @@ regelwerke:
     sprache: en
     urheber: iTeh Standards
     verifiziert: false
-    notiz: Katalognachweis der Normnummer; in dieser Sitzung nicht vollständig abrufbar (JavaScript).
+    notiz: Katalognachweis der Normnummer; nicht vollständig abrufbar (JavaScript).
   offene_punkte:
   - Kein Zeitplan für die Bewertung durch die HAS-Consultants und die Zitierung im Amtsblatt.
   - Ob die Kommission Einwände gegen den Anhang ZA erhebt — die Zuordnung zu Art. 11 Abs. 1 Satz 1 ist
@@ -366,7 +363,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten:
   - datum: 2026-05-08
@@ -381,7 +378,7 @@ regelwerke:
     quelle: https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/
   - datum: 2026-12-31
     was_gilt: Zielhorizont Q4 2026 für die Verfügbarkeit.
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   themenachsen:
   - governance
@@ -410,7 +407,7 @@ regelwerke:
     url: https://adamleonsmith.substack.com/p/pren-18228-heads-to-enquiry-the-product
     sprache: en
     urheber: Adam Leon Smith
-    verifiziert: true
+    verifiziert: false
     notiz: 'Die einzige inhaltliche Auswertung des Entwurfs aus dem Gremium. Belegt die drei Gestaltungsentscheidungen.
 
       '
@@ -431,7 +428,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Weist prEN 18228 auf der Stufe Enquiry mit Zielhorizont Q4 2026 aus, nicht zitiert.
   offene_punkte:
   - Ob CEN-CENELEC von der Direktveröffentlichung ohne Schlussabstimmung Gebrauch macht — und ob das die
@@ -472,12 +469,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten:
   - datum: 2026-12-31
     was_gilt: Zielhorizont Q4 2026 für die Verfügbarkeit.
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   themenachsen:
   - governance
@@ -501,7 +498,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Stufe Enquiry, Art. 12, Zielhorizont Q4 2026, nicht zitiert.
   - datum: 2026-05-01
     typ: uebersicht
@@ -509,7 +506,7 @@ regelwerke:
     url: https://adamleonsmith.substack.com/p/the-cen-cenelec-jtc-21-work-programme
     sprache: en
     urheber: Adam Leon Smith
-    verifiziert: true
+    verifiziert: false
     notiz: 'Ordnet prEN 18229-1 den Art. 12, 13 und 14 zu und benennt prEN ISO/IEC 24970 als paralleles
       ISO/IEC-Projekt.
 
@@ -549,7 +546,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten: []
   themenachsen:
@@ -576,7 +573,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Stufe Drafting, Art. 15, Termin evolving, nicht zitiert.
   offene_punkte:
   - Kein Termin. Nach dem Oktober-Paket war dieser Entwurf einer der sechs, für die eine kleine Redaktionsgruppe
@@ -614,7 +611,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten: []
   themenachsen:
@@ -641,7 +638,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Stufe Drafting, Art. 13 und 14, Termin evolving, nicht zitiert.
   offene_punkte:
   - Ob ISO/IEC 42105 (Human oversight) als EN übernommen wird und prEN 18229-3 dadurch entbehrlich wird.
@@ -676,7 +673,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten:
   - datum: 2026-05-08
@@ -685,7 +682,7 @@ regelwerke:
     quelle: https://jtc21.eu/new-advancements-in-european-standardization-for-artificial-intelligence/
   - datum: 2026-12-31
     was_gilt: Zielhorizont Q4 2026 für die Verfügbarkeit.
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   themenachsen:
   - governance
@@ -711,7 +708,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Stufe Enquiry, Art. 15, Zielhorizont Q4 2026, nicht zitiert.
   - datum: 2026-05-08
     typ: pressemitteilung
@@ -758,7 +755,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten: []
   themenachsen:
@@ -790,7 +787,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Stufe Drafting, Art. 10, Verfügbarkeit nach Q4 2026, nicht zitiert.
   - datum: 2026-07-15
     typ: uebersicht
@@ -838,7 +835,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten: []
   themenachsen:
@@ -867,7 +864,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Stufe Drafting, Art. 10, Termin evolving, nicht zitiert.
   offene_punkte:
   - Ob die Norm die Frage der Datenherkunft (Rechtmäßigkeit) ausspart oder aufgreift — normungspolitisch
@@ -903,7 +900,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://kla.digital/blog/jtc-21-standards-tracker
   anwendungsdaten: []
   themenachsen:
@@ -933,7 +930,7 @@ regelwerke:
     url: https://kla.digital/blog/jtc-21-standards-tracker
     sprache: en
     urheber: kla.digital
-    verifiziert: true
+    verifiziert: false
     notiz: Stufe Drafting, Art. 43/Anhang VII, Termin evolving, nicht zitiert.
   - datum: 2025-01-02
     typ: norm
@@ -1046,7 +1043,7 @@ regelwerke:
     sprache: en
     urheber: CEN-CENELEC
     verifiziert: false
-    notiz: Amtlicher Geschäftsplan des Gremiums; in dieser Sitzung nicht abgerufen.
+    notiz: Amtlicher Geschäftsplan des Gremiums;
   offene_punkte:
   - Vollständige amtliche Liste des Arbeitsprogramms nur über die CEN-CENELEC-Datenbank abrufbar, die
     JavaScript verlangt.
@@ -1149,7 +1146,7 @@ regelwerke:
     url: https://lawandtechnology.eu/en/iso-iec-42001-and-the-ai-act-why-certification-is-not-yet-a-presumption-of-conformity/
     sprache: en
     urheber: lawandtechnology.eu
-    verifiziert: true
+    verifiziert: false
     notiz: 'Die präziseste juristische Auseinandersetzung: Die Vermutung folgt nicht aus der technischen
       Beschaffenheit der Norm, sondern aus einem Verfahren. Kernsatz zur Abgrenzung von EN 18286.
 
@@ -1161,7 +1158,7 @@ regelwerke:
     sprache: en
     urheber: Cloud Security Alliance
     verifiziert: false
-    notiz: Gegenüberstellung beider Normen aus Anbietersicht; in dieser Sitzung nicht vollständig abgerufen.
+    notiz: Gegenüberstellung beider Normen aus Anbietersicht; nicht vollständig abgerufen.
   offene_punkte:
   - Ob und wann eine Revision oder ein Änderungsblatt kommt; die systematische Überprüfung läuft.
   - Ob die Kommission ISO/IEC 42001 mittelbar über eine Übernahme als EN ISO/IEC in den harmonisierten
@@ -1245,7 +1242,7 @@ regelwerke:
     sprache: en
     urheber: ANSI National Accreditation Board
     verifiziert: false
-    notiz: Akkreditierungsprogramm der US-Akkreditierungsstelle; in dieser Sitzung nicht abgerufen.
+    notiz: Akkreditierungsprogramm der US-Akkreditierungsstelle;
   offene_punkte:
   - Wie viele Stellen tatsächlich akkreditiert sind und ob die Akkreditierungslandschaft international
     einheitlich ist.
@@ -1571,7 +1568,7 @@ regelwerke:
     sprache: en
     urheber: ISO/IEC
     verifiziert: false
-    notiz: Katalogeintrag Teil 1; in dieser Sitzung nicht einzeln abgerufen, aus dem SC-42-Katalog übernommen.
+    notiz: Katalogeintrag Teil 1; nicht einzeln abgerufen, aus dem SC-42-Katalog übernommen.
   - datum: 2026-08-31
     typ: uebersicht
     titel: ISO/IEC JTC 1/SC 42 — Standardkatalog
@@ -1663,7 +1660,7 @@ regelwerke:
     url: https://www.aigl.blog/iso-iec-ai-standards-comprehensive-reference/
     sprache: en
     urheber: AI Governance Library
-    verifiziert: true
+    verifiziert: false
     notiz: 'Thematisch geordnete Landkarte des ISO/IEC-Bestands; nützlich zur Orientierung, ohne Verfahrensstufen.
 
       '
@@ -1876,7 +1873,7 @@ regelwerke:
     url: https://ethicsstandards.org/p7000/
     sprache: en
     urheber: OCEANIS
-    verifiziert: true
+    verifiziert: false
     notiz: 'Projektübersicht des Normungsobservatoriums; Bearbeitungsstände veraltet, führt bereits veröffentlichte
       Normen als in Entwicklung.
 
@@ -2075,8 +2072,7 @@ regelwerke:
     sprache: en
     urheber: Europarat
     verifiziert: false
-    notiz: Erläuternder Bericht; in dieser Sitzung nicht abgerufen. Maßgeblich für die Auslegung des Art.
-      3.
+    notiz: Erläuternder Bericht; Maßgeblich für die Auslegung des Art. 3.
   - datum: 2026-05-15
     typ: pressemitteilung
     titel: European Union ratifies the Council of Europe Framework Convention on Artificial Intelligence
@@ -2095,7 +2091,7 @@ regelwerke:
     url: https://www.nicfab.eu/en/posts/cets225-ratifica-ue/
     sprache: en
     urheber: Nicola Fabiano
-    verifiziert: true
+    verifiziert: false
     notiz: 'Nennt die Verfahrenskette (Ratsbeschluss (EU) 2022/2349 zur Aufnahme der Verhandlungen, Ratsbeschluss
       (EU) 2024/2218 zur Zeichnung, Zustimmung des EP am 11.03.2026), die EU-Erklärung zur Umsetzung über
       die KI-VO und die Berechnung des 01.09.2026.
@@ -2107,7 +2103,7 @@ regelwerke:
     url: https://www.caidp.org/resources/coe-ai-treaty/
     sprache: en
     urheber: Center for AI and Digital Policy
-    verifiziert: true
+    verifiziert: false
     notiz: 'Führt zum 02.09.2026 47 Unterzeichner und die Konvention ausdrücklich als noch nicht in Kraft.
       Widerspricht der Berechnung von nicfab.eu und der Unterzeichnerzahl des Europarats.
 
@@ -2119,7 +2115,7 @@ regelwerke:
     sprache: en
     urheber: Europäisches Parlament
     verifiziert: false
-    notiz: Parlamentarische Zustimmung; in dieser Sitzung nicht im Volltext abgerufen.
+    notiz: Parlamentarische Zustimmung; nicht im Volltext abgerufen.
   offene_punkte:
   - Ob und wann die Konvention allgemein in Kraft getreten ist — die entscheidende offene Frage dieses
     Eintrags. Die amtliche Ratifikationstabelle des Vertragsbüros ist nur mit JavaScript abrufbar.
@@ -2224,7 +2220,7 @@ regelwerke:
     sprache: en
     urheber: The Alan Turing Institute
     verifiziert: false
-    notiz: Belegt die Urheberschaft der Methodik; in dieser Sitzung nicht abgerufen.
+    notiz: Belegt die Urheberschaft der Methodik;
   offene_punkte:
   - Ob die Kommission HUDERIA in den Leitlinien zu Art. 27 KI-VO aufgreift.
   - Ob eine Vertragspartei HUDERIA verbindlich vorschreibt — bislang nicht ersichtlich.
@@ -2308,10 +2304,8 @@ regelwerke:
     sprache: en
     urheber: OECD
     verifiziert: false
-    notiz: 'Amtlicher Volltext des Rechtsinstruments. In dieser Sitzung nur als JavaScript-Gerüst abrufbar;
-      Inhalt über öcd.ai belegt.
-
-      '
+    notiz: Amtlicher Volltext des Rechtsinstruments. Nur als JavaScript-Gerüst abrufbar; Inhalt über öcd.ai
+      belegt.
   - datum: 2026-08-31
     typ: uebersicht
     titel: AI Principles Overview — OECD.AI
@@ -2330,7 +2324,7 @@ regelwerke:
     sprache: en
     urheber: OECD
     verifiziert: false
-    notiz: Primärquelle für das Revisionsdatum; in dieser Sitzung nicht abgerufen.
+    notiz: Primärquelle für das Revisionsdatum;
   offene_punkte:
   - Was die Überarbeitung 2024 im Einzelnen geändert hat — die OECD-Seite beschreibt es nur allgemein.
   - Ob nach dem Kurswechsel der US-Administration die Grundsätze erneut überarbeitet werden.
@@ -2395,7 +2389,7 @@ regelwerke:
     sprache: en
     urheber: OECD
     verifiziert: false
-    notiz: Volltext des Klassifizierungsrahmens; in dieser Sitzung nicht abgerufen.
+    notiz: Volltext des Klassifizierungsrahmens;
   - datum: 2026-08-31
     typ: uebersicht
     titel: OECD.AI Policy Observatory
@@ -2596,7 +2590,7 @@ regelwerke:
     sprache: en
     urheber: Generalversammlung der Vereinten Nationen
     verifiziert: false
-    notiz: Volltext der Resolution; in dieser Sitzung nicht einzeln abgerufen.
+    notiz: Volltext der Resolution;
   - datum: 2024-07-01
     typ: endfassung
     titel: A/RES/78/311 — Enhancing international cooperation on capacity-building of artificial intelligence
@@ -2604,7 +2598,7 @@ regelwerke:
     sprache: en
     urheber: Generalversammlung der Vereinten Nationen
     verifiziert: false
-    notiz: Volltext der Resolution; in dieser Sitzung nicht einzeln abgerufen.
+    notiz: Volltext der Resolution;
   offene_punkte:
   - Genaue Zahl der Mitträger von A/RES/78/265 nicht primärquellenbelegt.
   monitoring_quellen:
@@ -2679,7 +2673,7 @@ regelwerke:
     sprache: en
     urheber: Generalversammlung der Vereinten Nationen
     verifiziert: false
-    notiz: Volltext der Anlage; in dieser Sitzung nicht abgerufen.
+    notiz: Volltext der Anlage;
   - datum: 2026-08-31
     typ: uebersicht
     titel: Global Digital Compact — Artificial Intelligence
@@ -2743,7 +2737,7 @@ regelwerke:
     was_gilt: 'Ernennung der 40 Mitglieder des Wissenschaftlichen Ausschusses durch die Generalversammlung.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://en.wikipedia.org/wiki/Independent_International_Scientific_Panel_on_AI
   - datum: 2026-07-06
     was_gilt: Erste inhaltliche Sitzung des Globalen Dialogs in Genf (06./07.07.2026).
@@ -2812,12 +2806,9 @@ regelwerke:
     url: https://en.wikipedia.org/wiki/Independent_International_Scientific_Panel_on_AI
     sprache: en
     urheber: Wikipedia
-    verifiziert: true
-    notiz: 'Sekundärquelle für Ernennungsdatum 12.02.2026, Geschlechterverhältnis und die Ko-Vorsitzenden
-      Bengio und Ressa. Am Primärdokument (Pressemitteilung GA/12751) zu prüfen — dieses war in dieser
-      Sitzung nicht abrufbar.
-
-      '
+    verifiziert: false
+    notiz: Sekundärquelle für Ernennungsdatum 12.02.2026, Geschlechterverhältnis und die Ko-Vorsitzenden Bengio
+      und Ressa. Am Primärdokument (Pressemitteilung GA/12751) zu prüfen — dieses war nicht abrufbar.
   - datum: 2026-02-12
     typ: pressemitteilung
     titel: General Assembly Appoints Artificial Intelligence Panel (GA/12751)
@@ -2825,7 +2816,7 @@ regelwerke:
     sprache: en
     urheber: Vereinte Nationen
     verifiziert: false
-    notiz: Amtliche Sitzungsberichterstattung; in dieser Sitzung nicht abrufbar (JavaScript).
+    notiz: Amtliche Sitzungsberichterstattung; nicht abrufbar (JavaScript).
   offene_punkte:
   - Ob und wann der erste Jahresbericht des Wissenschaftlichen Ausschusses erscheint — bei Rechercheschluss
     nicht ersichtlich.
@@ -2936,7 +2927,7 @@ regelwerke:
     sprache: en
     urheber: UNESCO
     verifiziert: false
-    notiz: Jährliches Forum zur Umsetzung; in dieser Sitzung nicht abgerufen.
+    notiz: Jährliches Forum zur Umsetzung;
   offene_punkte:
   - Ob eine Überarbeitung der Empfehlung angesichts generativer KI ansteht — sie stammt aus der Zeit vor
     ChatGPT.
@@ -3014,7 +3005,7 @@ regelwerke:
     url: https://regulations.ai/regulations/RAI-XT-GO-SUMMARY-2026
     sprache: en
     urheber: Regulations.ai
-    verifiziert: true
+    verifiziert: false
     notiz: 'Sekundärquelle; nennt die einschlägigen Empfehlungen mit Nummern und Daten sowie die Fokusgruppen.
       Am ITU-Primärkatalog zu prüfen.
 
@@ -3062,12 +3053,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2023-10-30
-    verifiziert: true
+    verifiziert: false
     quelle: https://g7.utoronto.ca/summit/2023hiroshima/231030-ai-principles.html
   anwendungsdaten:
   - datum: 2023-10-30
     was_gilt: Veröffentlichung von Leitprinzipien und Verhaltenskodex.
-    verifiziert: true
+    verifiziert: false
     quelle: https://g7.utoronto.ca/summit/2023hiroshima/231030-ai-principles.html
   - datum: 2025-02-07
     was_gilt: Start des HAIP-Berichtsrahmens bei der OECD (Datum widersprüchlich).
@@ -3110,7 +3101,7 @@ regelwerke:
     url: https://g7.utoronto.ca/summit/2023hiroshima/231030-ai-principles.html
     sprache: en
     urheber: G7
-    verifiziert: true
+    verifiziert: false
     notiz: 'Volltext der elf Leitprinzipien. Die Formulierung „where technically feasible, such as watermarking“
       in Nummer 7 ist der Punkt, an dem der Kodex hinter Art. 50 KI-VO zurückbleibt.
 
@@ -3143,7 +3134,7 @@ regelwerke:
     sprache: en
     urheber: Japanisches Ministerium für Inneres und Kommunikation
     verifiziert: false
-    notiz: Amtliche Dokumentensammlung Japans zum Prozess; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche Dokumentensammlung Japans zum Prozess;
   offene_punkte:
   - Ob die vier Arbeitsstränge der Erklärung vom 29.05.2026 zu Dokumenten führen.
   - Ob die G7 den Kodex angesichts agentischer Systeme überarbeiten.
@@ -3231,7 +3222,7 @@ regelwerke:
     sprache: en
     urheber: WIPO
     verifiziert: false
-    notiz: Sitzungsseite mit Programm und Unterlagen; in dieser Sitzung nicht abgerufen.
+    notiz: Sitzungsseite mit Programm und Unterlagen;
   - datum: 2026-08-31
     typ: uebersicht
     titel: WIPO and Artificial Intelligence — AI and IP Clearing House
@@ -3288,7 +3279,7 @@ regelwerke:
       and Science.
 
       '
-    verifiziert: true
+    verifiziert: false
     quelle: https://babl.ai/international-ai-safety-coalition-renames-itself-to-emphasize-ai-evaluation-science/
   themenachsen:
   - governance
@@ -3313,7 +3304,7 @@ regelwerke:
     url: https://babl.ai/international-ai-safety-coalition-renames-itself-to-emphasize-ai-evaluation-science/
     sprache: en
     urheber: BABL AI
-    verifiziert: true
+    verifiziert: false
     notiz: 'Belegt neuen Namen, Datum der Bekanntgabe und die zehn Mitglieder. Sekundärquelle; eine amtliche
       Mitteilung des Netzwerks war nicht auffindbar.
 
@@ -3366,12 +3357,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-02-03
-    verifiziert: true
+    verifiziert: false
     quelle: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
   anwendungsdaten:
   - datum: 2026-02-03
     was_gilt: Veröffentlichung der Ausgabe 2026.
-    verifiziert: true
+    verifiziert: false
     quelle: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
   themenachsen:
   - governance
@@ -3400,7 +3391,7 @@ regelwerke:
     url: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
     sprache: en
     urheber: Yoshua Bengio (Vorsitz) und über 100 Sachverständige
-    verifiziert: true
+    verifiziert: false
     notiz: 'Primärquelle. Belegt Veröffentlichungsdatum, Beteiligung von mehr als 30 Staaten und Organisationen,
       die drei Risikogruppen und die ausdrückliche Unverbindlichkeit.
 
@@ -3412,7 +3403,7 @@ regelwerke:
     sprache: en
     urheber: Covington & Burling
     verifiziert: false
-    notiz: Anwaltliche Auswertung; in dieser Sitzung nicht abgerufen.
+    notiz: Anwaltliche Auswertung;
   offene_punkte:
   - Verhältnis zum Jahresbericht des UN-Wissenschaftsausschusses — zwei parallele Berichtswerke unter
     demselben Vorsitz.
@@ -3458,11 +3449,11 @@ regelwerke:
   anwendungsdaten:
   - datum: 2026-02-16
     was_gilt: India AI Impact Summit in Neu-Delhi (16.-21.02.2026), 118 vertretene Staaten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.visionias.in/blog/current-affairs/india-ai-impact-summit-2026-and-new-delhi-declaration-indias-leap-into-the-global-ai-order
   - datum: 2026-02-21
     was_gilt: Annahme der New Delhi Declaration durch 89 Staaten.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.visionias.in/blog/current-affairs/india-ai-impact-summit-2026-and-new-delhi-declaration-indias-leap-into-the-global-ai-order
   themenachsen:
   - governance
@@ -3492,17 +3483,14 @@ regelwerke:
     sprache: en
     urheber: Indisches Außenministerium
     verifiziert: false
-    notiz: 'Amtliche Mitteilung des Gastgebers; die tiefe Verlinkung war in dieser Sitzung nicht abrufbar
-      (403).
-
-      '
+    notiz: Amtliche Mitteilung des Gastgebers; die tiefe Verlinkung war nicht abrufbar (403).
   - datum: 2026-02-22
     typ: uebersicht
     titel: India AI Impact Summit 2026 and New Delhi Declaration
     url: https://www.visionias.in/blog/current-affairs/india-ai-impact-summit-2026-and-new-delhi-declaration-indias-leap-into-the-global-ai-order
     sprache: en
     urheber: Vision IAS
-    verifiziert: true
+    verifiziert: false
     notiz: 'Sekundärquelle; belegt Daten (16.-21.02.2026), 118 vertretene Staaten, 89 Zustimmungen, die
       sieben Ergebnisdokumente und die ausdrückliche Freiwilligkeit. Am Primärdokument zu prüfen.
 
@@ -3514,7 +3502,7 @@ regelwerke:
     sprache: en
     urheber: Press Information Bureau, Regierung Indiens
     verifiziert: false
-    notiz: Amtliche Mitteilung; in dieser Sitzung nicht abgerufen.
+    notiz: Amtliche Mitteilung;
   offene_punkte:
   - Volltext der New Delhi Declaration nicht am Primärdokument geprüft; Unterzeichnerliste unbekannt.
   - Gastgeber und Termin des nächsten Gipfels nicht ermittelbar.

@@ -29,7 +29,7 @@ urteile:
   instanzenzug:
   - us-2025-thomson-reuters-ross-fairuse
   quelle_tracker: Chat GPT Is Eating the World
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Nur deshalb hier, weil die spätere Selbstkorrektur desselben Richters die zentrale
     Pointe des gesamten Komplexes ist: Der erste US-Richter, der sich mit KI-Training befasste, kam nach
@@ -51,7 +51,6 @@ urteile:
   - usc-17-102-a
   - usc-17-106
   - usc-17-107
-  quelle_art: datenbank
 - id: us-2025-thomson-reuters-ross-fairuse
   jurisdiktion: us
   gericht: United States District Court, District of Delaware (Circuit Judge Stephanos Bibas, sitting
@@ -105,7 +104,6 @@ urteile:
   - usc-17-102-a
   - usc-17-106
   - usc-17-107
-  quelle_art: amtlich
   sachverhalt: Thomson Reuters betreibt die Rechercheplattform Westlaw. Zu jeder aufgenommenen Gerichtsentscheidung
     schreibt die Redaktion Headnotes — kurze Zusammenfassungen der tragenden Rechtssätze —, die über eine
     numerische Systematik, das Key Number System, erschlossen sind. ROSS Intelligence baute demgegenüber
@@ -170,7 +168,6 @@ urteile:
     Number System; fair use) für die Zwischenberufung sowie Aussetzung des erstinstanzlichen Verfahrens.'
   - 'Ergänzt: West Publishing Corp. ist Mitklägerin; der Eintrag nennt nur Thomson Reuters.'
   - Der bisherige Link war eine Blog-Kategorieseite.
-  quelle_art: amtlich
 - id: us-2026-ross-3circuit
   jurisdiktion: us
   gericht: United States Court of Appeals for the Third Circuit
@@ -206,7 +203,7 @@ urteile:
   - us-2025-thomson-reuters-ross-fairuse
   - us-2025-ross-1292b-certification
   quelle_tracker: Chat GPT Is Eating the World; Baker Botts; LawSites; Sterne Kessler
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Das wichtigste anhängige KI-Urheberrechtsverfahren der Welt. Die Reichweite hängt
     an einer Weichenstellung: Entscheidet der Third Circuit eng auf Faktor 1 (ROSS baute ein direktes
@@ -226,7 +223,6 @@ urteile:
     erstinstanzliche Paket USCOURTS-ded-1_20-cv-00613 mit letztem Dokument vom 11.02.2025. Die beiden
     zertifizierten Fragen bleiben offen. quelle_art von "amtlich" auf "datenbank" berichtigt — volltext_url
     zeigt auf eine CourtListener-Docketseite.'
-  quelle_art: amtlich
   sachverhalt: 'Im Februar 2025 revidierte der in Delaware tätige Berufungsrichter Stephanos Bibas seine
     eigene Entscheidung von 2023 und gab Thomson Reuters recht: Die Headnotes seien schutzfähig, die Nutzung
     durch ROSS Intelligence kein Fair Use. ROSS, dessen Geschäftsbetrieb inzwischen eingestellt war, erwirkte
@@ -297,7 +293,6 @@ urteile:
     Werke in der Zentralbibliothek nicht.'
   - Dasselbe Dokument ist auch über RECAP abrufbar (storage.courtlistener.com/recap/gov.uscourts.cand.434709/gov.uscourts.cand.434709.231.0.pdf);
     die govinfo-Fassung wurde als amtliche Quelle vorgezogen.
-  quelle_art: amtlich
   sachverhalt: Andrea Bartz schrieb vier Romane, Charles Graeber die Sachbücher "The Good Nurse" und "The
     Breakthrough", Kirk Wallace Johnson drei weitere Sachbücher, darunter "The Feather Thief". Anthropic
     lud im Januar oder Februar 2021 durch seinen Mitgründer Ben Mann den Datensatz Books3 mit 196.640
@@ -367,7 +362,6 @@ urteile:
     drei natürlichen Personen.
   - 'Ergebnis: Zertifizierung der ''LibGen & PiLiMi Pirated Books Class''; Books3- und Scanned-Books-Klassen
     abgelehnt.'
-  quelle_art: amtlich
   sachverhalt: 'Nach der Entscheidung vom 23. Juni 2025 stand nur noch der Aufbau der Raubkopiensammlung
     zur Verhandlung an; das Training selbst und das Einscannen gekaufter Bücher waren vom Tisch. Die drei
     Autoren beantragten daraufhin, für diesen verbliebenen Teil eine Schadensersatzgruppe zuzulassen:
@@ -429,7 +423,6 @@ urteile:
   - Der bisherige Link war ein Blogbeitrag der Authors Alliance.
   - 'datum: 2026-10-17 ist falsch — richtig: 2025-10-17 (schriftliche Begründung); die vorläufige Genehmigung
     selbst erging in der Anhörung vom 25.09.2025'
-  quelle_art: amtlich
 - id: us-2026-bartz-vergleich-final
   jurisdiktion: us
   gericht: United States District Court, Northern District of California (Judge Araceli Martínez-Olguín)
@@ -492,7 +485,6 @@ urteile:
   - 'Inhalt: endgültige Genehmigung des Vergleichs über 1,5 Mrd. USD für rund 482.460 Werke; Anwaltshonorar
     101.561.111 USD; Klage mit Wirkung für die Zukunft abgewiesen.'
   - govinfo führt dieses Package nur bis 17.10.2025; die Endentscheidung ist dort nicht hinterlegt.
-  quelle_art: amtlich
   sachverhalt: 'Sechs Wochen nach der Zulassung der Gruppe einigten sich die Parteien: Anthropic sagte
     1,5 Milliarden US-Dollar für die Werke einer verbindlich festzulegenden "Works List" zu und versprach,
     die Raubkopiendatensätze zu vernichten; eine Lizenz für künftiges Training enthielt die Vereinbarung
@@ -561,7 +553,6 @@ urteile:
     06/25/25 Page 1 of 40", Order, N.D. Cal.'
   - Aktenzeichen (3:23-cv-03417-VC), Dokumentnummer 598 und Datum (25.06.2025) am Dokument bestätigt;
     volltext_url von Justia auf das eingereichte Dokument umgestellt.
-  quelle_art: amtlich
   sachverhalt: Dreizehn Autoren — unter ihnen Richard Kadrey, Sarah Silverman und Ta-Nehisi Coates — schrieben
     Romane, Theaterstücke, Kurzgeschichten, Memoiren, Essays und Sachbücher, darunter mit dem Pulitzer-Preis
     ausgezeichnete Titel. Meta versuchte zunächst, Bücher für das Training seiner Llama-Modelle zu lizenzieren;
@@ -604,7 +595,7 @@ urteile:
   instanzenzug:
   - us-2025-kadrey-meta-sj
   quelle_tracker: Chat GPT Is Eating the World; McKool Smith
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Prozessual verständlich, dogmatisch teuer. Die zentrale Divergenz zwischen Alsup
     und Chhabria — trennt man Beschaffung vom Training? — bleibt damit mindestens bis 2027/2028 ungeklärt,
@@ -621,7 +612,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde der Beschluss vom 08.07.2026, mit dem Richter
     Chhabria den Antrag auf Zulassung der Zwischenberufung abgelehnt hat, N.D. Cal., 3:23-cv-03417-VC.
     Das govinfo-Package USCOURTS-cand-3_23-cv'
-  quelle_art: fehlt
 - id: us-2025-nyt-openai-mtd
   jurisdiktion: us
   gericht: United States District Court, Southern District of New York (Judge Sidney H. Stein)
@@ -687,7 +677,6 @@ urteile:
     Markenverwässerungsansprüche von New York Times und Daily News MIT Rechtskraftwirkung abgewiesen und
     ebenso die "material contribution"-Ansprüche wegen mittelbarer Verletzung gegen OpenAI und Microsoft;
     die Anträge auf Klageerweiterung gegen Microsoft (Dkt. 1590, 1598) wurden zurückgewiesen.'
-  quelle_art: amtlich
   sachverhalt: Die New York Times hält mehr als zehn Millionen eingetragene Werke, sämtlich mit Urheberrechtsangaben
     versehen. Sie warf OpenAI und Microsoft vor, ihre Artikel über die Trainingsdatensätze WebText, WebText2
     und Common Crawl in erheblichem Umfang übernommen zu haben, und legte auf über hundert Seiten Beispiele
@@ -743,7 +732,6 @@ urteile:
     '
   normen:
   - frcp-26-b-1
-  quelle_art: amtlich
   sachverhalt: 'Nachdem das Gericht im April 2025 entschieden hatte, dass die Fair-Use-Frage sich nicht
     ohne Tatsachenfeststellungen beantworten lässt, ging das Verfahren in die Beweisaufnahme. Die Zeitungskläger
     verlangten Zugriff auf Nutzergespräche mit ChatGPT: Erst daran lasse sich messen, wie oft das Modell
@@ -784,7 +772,7 @@ urteile:
   - us-2025-nyt-chatlogs-wang
   - us-2025-nyt-openai-mtd
   quelle_tracker: Bloomberg Law; Jones Walker; National Law Review
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Steins Freiwilligkeitsargument ist die eigentliche Aussage und zugleich der angreifbarste
     Punkt: Es überträgt die Third-Party- Doktrin des Verfassungsrechts unbesehen auf die zivilprozessuale
@@ -800,7 +788,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde der Beschluss von Judge Sidney H. Stein vom 05.01.2026
     in MDL No. 1:25-md-03143 (Bestätigung der Anordnung zur Herausgabe von rund 20 Mio. ChatGPT-Protokollen).
     Die S.D.N.Y. veroeffentl'
-  quelle_art: fehlt
 - id: us-2025-ziffdavis-openai-mtd
   jurisdiktion: us
   gericht: United States District Court, Southern District of New York (Judge Sidney H. Stein)
@@ -858,7 +845,6 @@ urteile:
     abgewiesen; Ansprüche 3, 6 und 7 sowie die Verwässerungsklage bezüglich der Marke MASHABLE bleiben
     bestehen; Teilaussetzung für neuere Modelle.'
   - Der bisherige Link (business.cch.com) ist eine kommerzielle Verlagskopie.
-  quelle_art: amtlich
   sachverhalt: Ziff Davis gibt IGN, Mashable, CNET und PCMag heraus. In den robots.txt-Dateien seiner
     Websites hatte das Unternehmen hinterlegt, dass die Crawler von OpenAI die Seiten nicht abrufen dürfen.
     Es trug vor, OpenAI habe sich darüber hinweggesetzt, die Artikel eingesammelt, dabei die Urheberrechtsangaben
@@ -963,7 +949,6 @@ urteile:
     zeigt auf storage.courtlistener.com — das ist zwar das eingereichte Dokument mit ECF-Kopfstempel,
     liegt aber auf einer Datenbank und nicht bei Gericht.'
   verfahrensstadium: Termin liegt in der Zukunft
-  quelle_art: amtlich
   sachverhalt: 'Im April 2025 fasste das Judicial Panel on Multidistrict Litigation sämtliche US-Urheberrechtsverfahren
     gegen OpenAI vor Richter Sidney Stein in Manhattan zusammen — die Klagen der New York Times, der acht
     Daily-News-Zeitungen, des Center for Investigative Reporting und von Ziff Davis ebenso wie die Sammelklagen
@@ -1031,7 +1016,6 @@ urteile:
   - Der im Ergebnisfeld genannte Beschluss über die Wiedererwägung vom 18.06.2025 ist Dkt. 178 desselben
     Verfahrens; er trägt bereits die Kennung SHS-OTW (Sidney H. Stein), das Verfahren war zu diesem Zeitpunkt
     an Stein gelangt.
-  quelle_art: amtlich
   sachverhalt: Raw Story Media und AlterNet Media haben mehr als 400.000 Nachrichtenstücke, Recherchen
     und Meinungsbeiträge im Netz veröffentlicht. Sie trugen vor, Tausende ihrer Artikel seien in die Trainingsdatensätze
     WebText, WebText2 und Common Crawl eingegangen, nachdem Autoren-, Titel- und Urheberrechtsangaben
@@ -1091,7 +1075,6 @@ urteile:
   - Datum (20.02.2025) und Spruchkörper (JSR = Jed S. Rakoff) am Dokument bestätigt; volltext_url von
     Justia auf das eingereichte Dokument umgestellt.
   - 'Schreibweise berichtigt: "Doe 1 v. GitHub" statt "Doe 1 v. GitHub" (systematische Zeichenverfälschung).'
-  quelle_art: amtlich
   sachverhalt: 'The Intercept Media betreibt eine Redaktion für investigativen Journalismus. Im Februar
     2024 klagte sie in Manhattan gegen OpenAI mit derselben Anspruchsgrundlage wie Raw Story und AlterNet:
     Ihre Artikel seien in die Trainingsdatensätze übernommen und dabei um Autoren- und Titelangaben gekürzt
@@ -1152,7 +1135,6 @@ urteile:
     auf das eingereichte Dokument umgestellt.
   - 'KORREKTUR NAME: Das Rubrum lautet "DOE 1 v. GitHub, Inc."; der Eintrag führte "Doe 1" (systematische
     Zeichenverfälschung "oe" zu "ö").'
-  quelle_art: amtlich
   sachverhalt: 'OpenAI entwickelte das Codemodell Codex; darauf beruht GitHub Copilot, ein Werkzeug, das
     Programmierern unmittelbar im Editor Codezeilen und ganze Funktionen vorschlägt. Trainiert wurde es
     mit öffentlich auf GitHub abgelegtem Code, der überwiegend unter Open-Source-Lizenzen steht — MIT,
@@ -1193,7 +1175,7 @@ urteile:
   instanzenzug:
   - us-2024-doe-github-tigar
   quelle_tracker: CourtListener/RECAP Appellate-Docket 9th Cir. 24-7700; Chat GPT Is Eating the World
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id002
   eigene_bewertung: 'Zusammen mit Raw Story im Second Circuit die zweite Front, an der 2026 ein Berufungsgericht
     KI-Urheberrecht entscheidet — und möglicherweise die wirtschaftlich wichtigere. Bemerkenswert: Beide
@@ -1221,7 +1203,6 @@ urteile:
     volltext_url zeigt auf das Aktenregister.'
   - 'KORREKTUR NAME: Das Rubrum des Berufungsverfahrens lautet "Doe, et al. v. Github, Inc., et al.";
     der Eintrag führte "Doe 1" (systematische Zeichenverfälschung "oe" zu "ö").'
-  quelle_art: amtlich
   sachverhalt: 'Richter Tigar wies die auf die Entfernung von Urheberrechtsangaben gestützten Ansprüche
     am 24. Juni 2024 ab: Copilot gebe in aller Regel keine identischen Codeausschnitte aus, sondern Varianten.
     Die klagenden Entwickler hielten das für den falschen Maßstab, weil damit gerade die typische Arbeitsweise
@@ -1260,7 +1241,7 @@ urteile:
   instanzenzug:
   - us-2024-rawstory-mcmahon
   quelle_tracker: CourtListener/RECAP Appellate-Docket 2d Cir. 25-1756; Chat GPT Is Eating the World
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die Standing-Frage ist die unauffälligste und zugleich durchschlagendste Weichenstellung
     des Komplexes: Sie entscheidet nicht über Fair Use, sondern darüber, ob eine ganze Anspruchsklasse
@@ -1288,7 +1269,6 @@ urteile:
   - 'Amtliche Fundstelle: Für eine noch nicht ergangene Entscheidung gibt es kein amtliches Dokument;
     volltext_url zeigt auf das Aktenregister.'
   verfahrensstadium: Termin liegt in der Zukunft
-  quelle_art: amtlich
   sachverhalt: 'Richterin McMahon wies die Klage von Raw Story und AlterNet am 7. November 2024 ab, weil
     ihnen ohne eine benannte Ausgabe kein konkreter Schaden entstanden sei; ein Antrag auf Wiedererwägung
     blieb am 18. Juni 2025 erfolglos. Die beiden Redaktionen legten Berufung zum Second Circuit ein. Sie
@@ -1354,7 +1334,6 @@ urteile:
   - 'Ergebnis: nur Andersens unmittelbarer Urheberrechtsanspruch gegen Stability AI bleibt bestehen; im
     Übrigen Abweisung mit Änderungsmöglichkeit.'
   - Der bisherige Link war eine Kanzleikopie.
-  quelle_art: amtlich
   sachverhalt: Sarah Andersen ist hauptberuflich Cartoonistin und Illustratorin in Oregon und hält Rechte
     an über zweihundert Werken, die in den Trainingsdaten steckten; Kelly McKernan arbeitet als Künstlerin
     in Tennessee und hält Rechte an über dreißig, Karla Ortiz in Kalifornien an mindestens zwölf solcher
@@ -1427,7 +1406,6 @@ urteile:
   - Gericht, Aktenzeichen (3:23-cv-00201-WHO) und Datum (12.08.2024) stimmen mit dem Eintrag überein;
     volltext_url von Justia auf das eingereichte Dokument umgestellt.
   - 'Schreibweise berichtigt: "Doe 1 v. GitHub" statt "Doe 1 v. GitHub" (systematische Zeichenverfälschung).'
-  quelle_art: amtlich
   sachverhalt: 'Nachdem Richter Orrick im Oktober 2023 von der ursprünglichen Klage nur einen einzigen
     Anspruch hatte bestehen lassen, änderten die Künstlerinnen ihren Vortrag. Sie nahmen Runway AI als
     vierte Beklagte hinzu, weil das Unternehmen an Stable Diffusion mitgewirkt hatte, und trugen nun vor,
@@ -1471,7 +1449,7 @@ urteile:
   - us-2023-andersen-mtd
   - us-2024-andersen-mtd2
   quelle_tracker: Chat GPT Is Eating the World; McKool Smith
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die Cisneros-Anordnung ist mehr als Discovery-Routine: Sie operationalisiert Faktor
     4 als Frage nach dem konkreten Absatzmarkt des Modells — wer Stability lizenziert, ist ein Kunde,
@@ -1489,7 +1467,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Der Eintrag ist ein Statuseintrag ohne konkrete Entscheidung;
     der bisherige Link ist eine Blog-Kategorieseite. Das govinfo-Package USCOURTS-cand-3_23-cv-00201 weist
     zum 30./31.03.2026 nur eine Verfüg'
-  quelle_art: fehlt
 - id: us-2025-getty-stability-delaware-dismissal
   jurisdiktion: us
   gericht: United States District Court, District of Delaware
@@ -1518,7 +1495,7 @@ urteile:
   instanzenzug:
   - us-2025-getty-stability-ndcal
   quelle_tracker: IP/DE Blog; Bloomberg Law; Chat GPT Is Eating the World
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Wird regelmäßig übersehen: Das US-Getty-Verfahren ist seit August 2025 KEIN Delaware-Verfahren
     mehr. Wer noch von "Getty v. Stability (D. Del.)" spricht, arbeitet mit veralteten Angaben. Der Gerichtsstandswechsel
@@ -1533,7 +1510,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Gesucht wurde die Klagerücknahme bzw. der zugehörige Beschluss
     vom 14.08.2025 in Getty Images (US), Inc. v. Stability AI, D. Del., 1:23-cv-00135. Das govinfo-Package
     USCOURTS-ded-1_23-cv-00135 exist'
-  quelle_art: fehlt
 - id: us-2025-getty-stability-ndcal
   jurisdiktion: us
   gericht: United States District Court, Northern District of California (Judge Trina L. Thompson)
@@ -1565,7 +1541,7 @@ urteile:
   instanzenzug:
   - us-2025-getty-stability-delaware-dismissal
   quelle_tracker: AI Lawsuit Tracker; Chat GPT Is Eating the World; CourtListener
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Der beweistechnisch stärkste Fall des gesamten Komplexes: Stable Diffusion reproduzierte
     verzerrte Getty-Wasserzeichen — ein Memorisierungsnachweis, wie ihn kein anderer Kläger vorlegen kann.
@@ -1580,7 +1556,6 @@ urteile:
   - usc-17-501-a
   - usc-17-1202-b-1
   - usc-15-1125-a
-  quelle_art: amtlich
 - id: us-2025-disney-midjourney
   jurisdiktion: us
   gericht: United States District Court, Central District of California (Judge John A. Kronstadt)
@@ -1618,7 +1593,7 @@ urteile:
   instanzenzug:
   - us-2025-warner-midjourney
   quelle_tracker: Chat GPT Is Eating the World; McKool Smith; CourtListener
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Der prozesstaktisch sauberste Fall der Klägerseite: Disney braucht keine Trainingsdaten-Discovery
     und keine Marktverwässerungstheorie, sondern legt Bilder nebeneinander. Genau deshalb ist er für die
@@ -1633,7 +1608,6 @@ urteile:
   normen:
   - usc-17-106
   - usc-17-501-a
-  quelle_art: amtlich
   sachverhalt: 'Midjourney betreibt einen Bildgenerator, der auf Texteingaben hin Bilder und seit 2025
     auch Videos erzeugt. Disney, Marvel, Lucasfilm, Universal und DreamWorks stellten fest, dass sich
     damit ihre Figuren erkennbar nachbilden lassen, und sammelten Gegenüberstellungen: erzeugte Bilder
@@ -1671,7 +1645,7 @@ urteile:
   instanzenzug:
   - us-2025-disney-midjourney
   quelle_tracker: CourtListener; Chat GPT Is Eating the World
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Wichtig nur als Beleg der Geschlossenheit: Nach Disney/Universal und Warner klagt
     praktisch die gesamte US-Filmindustrie gegen denselben Anbieter. Midjourney ist damit der Testfall
@@ -1681,7 +1655,6 @@ urteile:
   normen:
   - usc-17-106
   - usc-17-501-a
-  quelle_art: amtlich
 - id: us-2025-concord-anthropic-pi
   jurisdiktion: us
   gericht: United States District Court, Northern District of California (Judge Eumi K. Lee)
@@ -1740,7 +1713,6 @@ urteile:
   - 'Ergänzend im selben Package: Granulat 2 = Order granting Motion to Dismiss with Leave to Amend vom
     26.03.2025.'
   - Der bisherige Link war eine Universitätskopie.
-  quelle_art: amtlich
   sachverhalt: Die Musikverlage Concord Music Group, Universal Music Publishing und ABKCO halten die Rechte
     an den Texten mehrerer hundert Lieder. Sie stellten fest, dass Claude diese Texte auf entsprechende
     Aufforderung ganz oder teilweise ausgab, und führten das darauf zurück, dass Anthropic sie aus den
@@ -1788,7 +1760,7 @@ urteile:
   - us-2025-concord-anthropic-pi
   - us-2026-concord-anthropic-ii
   quelle_tracker: CourtListener/RECAP Docket 5:24-cv-03811 (N.D. Cal.); Music Business Worldwide
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Die wahrscheinlich nächste Fair-Use-Entscheidung überhaupt — und die erste seit Juni
     2025. Sie ist aus zwei Gründen ergiebiger als Bartz und Kadrey: Erstens sind Liedtexte kurze Werke,
@@ -1830,7 +1802,6 @@ urteile:
     lässt aber offen, ob in Concord I (5:24-cv-03811-EKL) oder Concord II (5:26-cv-00880-EKL) — vor einer
     Übernahme am Docket zu klären. quelle_art von "amtlich" auf "datenbank" berichtigt.'
   verfahrensstadium: Termin liegt in der Zukunft
-  quelle_art: amtlich
   sachverhalt: 'Nachdem der Antrag auf einstweilige Verfügung am 25. März 2025 abgelehnt worden war, ging
     das Verfahren in die Beweisaufnahme; Anthropic gab dabei Nutzergespräche heraus. Am 23. März 2026
     beantragten die Verlage teilweises Summary Judgment: Für 499 Musikwerke sei die Verletzung erwiesen
@@ -1876,7 +1847,7 @@ urteile:
   - us-2026-concord-anthropic-sj
   - us-2025-bartz-anthropic-fairuse
   quelle_tracker: Chat GPT Is Eating the World; TechCrunch; Music Business Worldwide
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Der Prototyp der zweiten Klagewelle: nicht "war das Training zulässig", sondern "woher
     hattet ihr die Dateien". Die Beschaffungsdogmatik aus Bartz wird hier erstmals von einer anderen Rechteinhabergruppe
@@ -1896,7 +1867,6 @@ urteile:
   - 'Am 03.09.2026 richtiggestellt: Der Eintrag betrifft die Klageerhebung, nicht eine Entscheidung. Als
     Fundstelle taugt allenfalls die Klageschrift.'
   verfahrensstadium: Klageerhebung — noch keine Entscheidung
-  quelle_art: fehlt
 - id: us-2026-suno-mtd
   jurisdiktion: us
   gericht: United States District Court, District of Massachusetts (Judge F. Dennis Saylor IV)
@@ -1953,7 +1923,6 @@ urteile:
   - 'Am selben Tag erging Granulat 4 (Stattgabe des ersten Änderungsantrags): https://www.govinfo.gov/content/pkg/USCOURTS-mad-1_24-cv-11611/pdf/USCOURTS-mad-1_24-cv-11611-4.pdf'
   - 'Parteien im Rubrum: UMG Recordings, Inc. u.a. ./. Suno, Inc. u.a. — deckungsgleich mit dem Eintrag.
     Der bisherige Link war eine Blog-Kategorieseite.'
-  quelle_art: amtlich
 - id: us-2025-dowjones-perplexity
   jurisdiktion: us
   gericht: United States District Court, Southern District of New York
@@ -1985,7 +1954,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: Justia; Loeb & Loeb; MediaPost
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Der Lanham-Act-Anspruch wegen Halluzinationen ist der eigentlich innovative Teil
     und wird meist unterschlagen: Wenn ein KI-Suchsystem erfundene Inhalte einer realen Publikation zuschreibt,
@@ -1996,7 +1965,6 @@ urteile:
   normen:
   - usc-17-106
   - usc-15-1125-a
-  quelle_art: datenbank
 - id: us-2026-reddit-anthropic-remand
   jurisdiktion: us
   gericht: United States District Court, Northern District of California (Judge Trina L. Thompson)
@@ -2057,7 +2025,6 @@ urteile:
     der Zurückverweisung.'
   - Der bisherige Link war eine Kopie auf courthousenews.com.
   - 'datum: 2026-03-20 (Zurückverweisungsbeschluss); Übermittlungsschreiben an das State Court vom 23.03.2026'
-  quelle_art: amtlich
   sachverhalt: Die Nutzungsvereinbarung von Reddit untersagt das gewerbliche Auslesen der Plattform ohne
     Lizenz; andere KI-Anbieter haben dafür Verträge geschlossen und zahlen. Reddit warf Anthropic vor,
     sich darüber hinweggesetzt und die Beiträge seiner Nutzer für das Training von Claude eingesammelt
@@ -2105,7 +2072,7 @@ urteile:
   - us-2026-reddit-anthropic-remand
   - us-2025-ziffdavis-openai-mtd
   quelle_tracker: Loeb & Loeb; MLex; Law360; RECAP
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Das Gegenstück zu Ziff Davis und damit die Konturierung der § 1201-Linie: robots.txt
     bittet, CAPTCHA sperrt. Wer sich gegen KI-Scraping wehren will, muss technisch aufrüsten — eine rechtliche
@@ -2118,7 +2085,6 @@ urteile:
   - usc-17-1201-a-1
   - usc-17-1201-a-2
   - usc-17-1201-b
-  quelle_art: amtlich
   sachverhalt: Reddit-Beiträge sind über die Google-Suche in großem Umfang erreichbar. Google schützt
     seine Suchergebnisse mit einer Vorrichtung namens SearchGuard, die automatisierte Abrufe durch JavaScript-Prüfungen
     und CAPTCHAs abwehrt. Reddit trug vor, Perplexity AI habe seine Inhalte nicht wie andere Anbieter
@@ -2159,7 +2125,7 @@ urteile:
   - us-2025-thaler-dc-circuit
   - us-2026-thaler-cert-denied
   quelle_tracker: Justia; Artificial Inventor Project
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Das prozessuale Kunststück Thalers war, die Frage so zu stellen, dass er verlieren
     musste. Indem er jede menschliche Mitwirkung bestritt, hat er die eigentlich interessante Frage —
@@ -2180,7 +2146,6 @@ urteile:
   normen:
   - usc-17-102-a
   - usc-5-706
-  quelle_art: datenbank
 - id: us-2025-thaler-dc-circuit
   jurisdiktion: us
   gericht: United States Court of Appeals for the District of Columbia Circuit
@@ -2235,7 +2200,6 @@ urteile:
   - usc-17-203
   - usc-17-204-a
   - usc-17-302-a
-  quelle_art: amtlich
   sachverhalt: Der Informatiker Stephen Thaler baut Systeme künstlicher Intelligenz; eines davon nannte
     er "Creativity Machine". Es erzeugte ein Bild, dem er den Titel "A Recent Entrance to Paradise" gab.
     In der Anmeldung zur Eintragung beim US Copyright Office trug er die Creativity Machine als alleinige
@@ -2284,7 +2248,6 @@ urteile:
     '
   normen:
   - usc-17-102-a
-  quelle_art: amtlich
 - id: us-2024-allen-perlmutter
   jurisdiktion: us
   gericht: United States District Court for the District of Colorado (Judge William J. Martínez)
@@ -2335,7 +2298,6 @@ urteile:
   normen:
   - usc-17-102-a
   - usc-5-706
-  quelle_art: amtlich
   sachverhalt: Jason M. Allen erzeugte mit Midjourney ein Bild, das er "Théâtre D'opéra Spatial" nannte,
     und gewann damit 2022 den Kunstpreis der Colorado State Fair. Nach eigener Darstellung hatte er dafür
     mindestens 624 Textanweisungen nacheinander eingegeben und das Ergebnis anschließend mit Adobe Photoshop
@@ -2372,7 +2334,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: Chat GPT Is Eating the World; Joseph Saveri Law Firm
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Eines von nur sechs Verfahren, die das Summary-Judgment-Stadium erreicht haben, und
     nach Concord Music der zweitwahrscheinlichste Kandidat für eine Fair-Use-Entscheidung 2026. Sachverhaltlich
@@ -2390,7 +2352,6 @@ urteile:
     vor. Der bis'
   - 'Am 03.09.2026 richtiggestellt: Das erfasste Datum ist ein angesetzter Termin, kein Entscheidungsdatum.'
   verfahrensstadium: Termin liegt in der Zukunft
-  quelle_art: fehlt
 - id: us-2026-google-genai
   jurisdiktion: us
   gericht: United States District Court, Northern District of California (Judge Eumi K. Lee)
@@ -2419,7 +2380,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: Chat GPT Is Eating the World; CourtListener
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-08-27
   eigene_bewertung: 'Vor derselben Richterin wie Concord Music v. Anthropic. Wenn Judge Lee im Oktober
     2026 zu Anthropic entscheidet, ist damit faktisch auch die Richtung für Google vorgezeichnet — eine
@@ -2430,7 +2391,6 @@ urteile:
   normen:
   - usc-17-106
   - usc-17-107
-  quelle_art: amtlich
 - id: us-2026-elsevier-meta
   jurisdiktion: us
   gericht: United States District Court, Southern District of New York
@@ -2477,7 +2437,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Der Eintrag vermerkt "Aktenzeichen: n/a"; der bisherige Link
     ist eine Kanzlei-Newsseite (McKool Smith). Das Datum 01.05.2026 dürfte die Klageerhebung bezeichnen.
     Ohne Aktenzeichen ist keine Fundstell'
-  quelle_art: fehlt
 - id: us-2026-cnn-perplexity
   jurisdiktion: us
   gericht: United States District Court, Southern District of New York
@@ -2507,7 +2466,7 @@ urteile:
   instanzenzug:
   - us-2025-dowjones-perplexity
   quelle_tracker: Chat GPT Is Eating the World; Press Gazette
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'RAG ist der dogmatisch eigenständigste Sachverhalt des ganzen Komplexes: Es wird
     nicht trainiert, sondern zur Laufzeit abgerufen und zusammengefasst. Damit greifen weder die Transformativitätsargumente
@@ -2524,7 +2483,6 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Der Eintrag vermerkt "Aktenzeichen: n/a"; der bisherige Link
     ist eine Blog-Monatsseite. Das Datum 29.05.2026 dürfte die Klageerhebung bezeichnen. Ohne Aktenzeichen
     keine Recherche; zu einer Klageerhe'
-  quelle_art: fehlt
 - id: us-2026-wikihow-openai
   jurisdiktion: us
   gericht: United States District Court (Bundesgericht, USA)
@@ -2552,7 +2510,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: Chat GPT Is Eating the World
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Aufgenommen als Marker für den Stand am Recherchestichtag, nicht wegen eigener Bedeutung.
     Bemerkenswert ist die Klagestruktur: Sie ist inzwischen standardisiert — Input, Output, vicarious,
@@ -2569,4 +2527,3 @@ urteile:
   - 'Amtliche Fundstelle nicht auffindbar: Der Eintrag vermerkt "Aktenzeichen: n/a" und nennt als Gericht
     nur "United States District Court (Bundesgericht, USA)"; der bisherige Link ist eine Blog-Monatsseite.
     Das Datum 22.08.2026 dürfte die K'
-  quelle_art: fehlt

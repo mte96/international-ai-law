@@ -1821,7 +1821,7 @@ regelwerke:
     was_gilt: Das Office of the Chief Justice bestätigt, dass die Leitlinien seit 2023 unverändert sind
       und überarbeitet werden müssen; eine begrenzte Zahl von Richterinnen und Richtern erprobt unter
       Aufsicht der Judicial AI Advisory Group GenAI-Werkzeuge.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.rnz.co.nz/news/science-and-technology/811971/guidelines-for-ai-use-in-courts-need-updating-some-academics-say
   themenachsen:
   - berufsrecht
@@ -1946,12 +1946,12 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2024-03-11
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
   anwendungsdaten:
   - datum: 2026-02-24
     was_gilt: Letzte Aktualisierung der Leitlinienseite.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
   themenachsen:
   - berufsrecht
@@ -1973,7 +1973,7 @@ regelwerke:
     url: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
     sprache: en
     urheber: New Zealand Law Society Te Kāhui Ture o Aotearoa
-    verifiziert: true
+    verifiziert: false
     notiz: Amtliche Seite mit Stand 24.02.2026 und Verweis auf die einschlägigen RCCC-Regeln.
   - datum: 2024-03-11
     typ: leitlinie
@@ -2054,7 +2054,7 @@ regelwerke:
     url: https://www.lawsociety.org.nz/professional-practice/rules-and-maintaining-professional-standards/generative-ai-guidance-for-lawyers/
     sprache: en
     urheber: New Zealand Law Society
-    verifiziert: true
+    verifiziert: false
     notiz: Amtliche Zuordnung der einzelnen Regeln zum KI-Einsatz; die Regeln selbst wurden nicht am Volltext
       geprüft.
   offene_punkte:

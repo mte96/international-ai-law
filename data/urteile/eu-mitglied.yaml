@@ -80,7 +80,6 @@ urteile:
   suchadresse: 'https://www.poderjudicial.es/search/indexAN.jsp — Feld ECLI: ECLI:ES:TS:2025:3826. Die
     Trefferliste ist frei abrufbar und amtlich; der Volltextabruf ist durch ein CAPTCHA der Kontrolle
     ''Descargas masivas'' geschuetzt.'
-  quelle_art: amtlich
   sachverhalt: Über die Berechtigung zum bono social eléctrico — einer Ermäßigung auf die Stromrechnung
     für Haushalte in schwieriger Lage — entscheidet die spanische Verwaltung mit der Anwendung BOSCO.
     Die Fundación Ciudadana Civio verlangte nach dem Transparenzgesetz (Ley 19/2013) Zugang zum Programmcode
@@ -169,7 +168,6 @@ urteile:
     Schadensersatz) bleibt allein durch die Revista de Jurisprudencia Laboral 8/2025 gedeckt.'
   dokumenttyp: Sentencia; geprüft an der amtlichen Trefferliste des CENDOJ — der Volltextabruf löst ein
     CAPTCHA aus und wurde nicht durchgeführt
-  quelle_art: amtlich
   sachverhalt: Die Foundever Spain S.A. betreibt Callcenter in Spanien. Die Zuteilung der dienstfreien
     Tage (libranzas) an die Beschäftigten wird dort über Algorithmen gesteuert. Die Gewerkschaft Confederación
     General del Trabajo verlangte für ihre Delegierten Auskunft über die Parameter, Regeln und Anweisungen
@@ -247,7 +245,6 @@ urteile:
     der Urteilstext; der Volltextabruf über CENDOJ löst ein CAPTCHA aus.'
   dokumenttyp: Sentencia; geprüft an der amtlichen Trefferliste des CENDOJ — der Volltextabruf löst ein
     CAPTCHA aus und wurde nicht durchgeführt
-  quelle_art: amtlich
   sachverhalt: Ein Fahrer (repartidor) lieferte für die Plattform Glovo Bestellungen aus. Über die Anwendung
     meldete er an, wann er verfügbar war, und griff auf die angebotenen Aufträge zu; in welcher Reihenfolge
     er sie zu sehen bekam, richtete sich nach einer Punktzahl, die Glovo aus Verfügbarkeit, Kundenbewertung
@@ -308,7 +305,6 @@ urteile:
   pruefvermerk:
   - Nicht am Urteilstext verifiziert; CENDOJ gesperrt. Gericht, Datum, Sentencia-Nummer, Verfahrensnummer,
     ECLI, Parteien und Tenor sind in der amtlichen BOE-Zeitschrift nachgewiesen und dort gelesen.
-  quelle_art: fehlt
 - id: es-2025-an-glovo-ca
   jurisdiktion: es
   gericht: Audiencia Nacional, Sala de lo Contencioso-Administrativo
@@ -341,7 +337,7 @@ urteile:
   instanzenzug:
   - es-2024-glovo-jcca-10
   - es-2020-glovo-ts
-  quelle_tracker: 101_spanien.yaml (Vorrecherche); in dieser Sitzung nicht gegenbelegt
+  quelle_tracker: 101_spanien.yaml (Vorrecherche); nicht gegenbelegt
   verifiziert: false
   letzte_pruefung: 2026-09-04
   eigene_bewertung: 'Wenn sich der Befund bestätigt, ist er die Schlussfigur einer lehrreichen Kette:
@@ -355,7 +351,6 @@ urteile:
     die Angabe stützt sich allein auf die eigene Vorrecherche in 101_spanien.yaml und konnte in dieser
     Sitzung an keiner Quelle gegengeprüft werden. Der Eintrag ist aufgenommen, weil er den Instanzenzug
     schließt, und ist vor einer Veröffentlichung zwingend nachzuverifizieren.
-  quelle_art: fehlt
 - id: fr-2018-cc-765dc
   jurisdiktion: fr
   gericht: Conseil constitutionnel
@@ -412,7 +407,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: 'Frankreich passte mit der Loi relative à la protection des données personnelles sein Datenschutzrecht
     an die Datenschutz-Grundverordnung an. Art. 21 dieses Gesetzes änderte Art. 10 der Loi n° 78-17 vom
     6. Januar 1978 und erweiterte die Fälle, in denen eine Entscheidung mit Rechtswirkung gegenüber einer
@@ -477,7 +471,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: 'Art. 33 der Loi de programmation 2018-2022 et de réforme pour la justice änderte die Regeln
     über die Veröffentlichung von Gerichtsentscheidungen: Alle Entscheidungen der Zivil- und der Verwaltungsgerichtsbarkeit
     sollten der Öffentlichkeit kostenlos in elektronischer Form zugänglich sein. Zugleich bestimmte er
@@ -537,7 +530,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: Art. 154 der Loi de finances pour 2020 ermächtigte Finanz- und Zollverwaltung, mit informatisierten
     und automatisierten Mitteln die zugänglichen Inhalte auf den Websites von Vermittlungsplattformen
     zu erheben und auszuwerten — Plattformen also, über die Waren verkauft, Dienstleistungen erbracht
@@ -597,7 +589,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: Über die Plattform Parcoursup bewerben sich Studieninteressierte in Frankreich um Studienplätze;
     die Hochschulen prüfen die Bewerbungen nach eigenen, lokal festgelegten Verfahren. Die Studierendengewerkschaft
     Union nationale des étudiants de France verlangte von der Université des Antilles, ihr die algorithmischen
@@ -657,7 +648,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: Die Loi n° 2018-166 vom 8. März 2018 richtete in Art. L. 612-3 code de l'éducation ein
     nationales Vorauswahlverfahren für die Studienzulassung ein — Parcoursup. Der letzte Absatz dieser
     Vorschrift bestimmte zum Schutz der Beratungsvertraulichkeit der prüfenden Kommissionen, dass die
@@ -724,7 +714,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: Art. 10 der Loi relative aux jeux Olympiques et Paralympiques de 2024 erlaubte versuchsweise,
     die Bilder aus Videoüberwachungsanlagen und aus Kameras an Luftfahrzeugen algorithmisch auszuwerten,
     um bestimmte vorher festgelegte Ereignisse zu erkennen und zu melden. Die Erprobung sollte bis zum
@@ -788,7 +777,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
 - id: fr-2026-cc-915dc
   jurisdiktion: fr
   gericht: Conseil constitutionnel
@@ -845,7 +833,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
 - id: fr-2026-ce-nice-vsa
   jurisdiktion: fr
   gericht: Conseil d'État, 10ème et 9ème chambres réunies
@@ -904,7 +891,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: Die Gemeinde Nizza betreibt eine Videoüberwachung des öffentlichen Raums und wollte deren
     Bilder algorithmisch auswerten lassen — mit den Verarbeitungen „franchissement de ligne" und „zone
     d'intrusion", darunter das Modul „zone intrusion entrées des écoles", das unerlaubtes Parken vor Schulen
@@ -972,7 +958,6 @@ urteile:
     DSGVO, weil sie sie kennt und weil die Sanktionsarchitektur der KI-VO noch nicht steht.
 
     '
-  quelle_art: amtlich
   sachverhalt: Die Character Technologies, Inc. betreibt unter Character.AI einen Dienst, auf dem Nutzer
     fortlaufend Gespräche mit Begleit-Chatbots führen; er wurde auch von Minderjährigen in Italien genutzt.
     Das Unternehmen hat keine Hauptniederlassung im Europäischen Wirtschaftsraum; einen Vertreter in der
@@ -1036,7 +1021,6 @@ urteile:
     des Garante ist unbequem: Ein Hinweis, den man übersehen kann, ist keiner.
 
     '
-  quelle_art: amtlich
   sachverhalt: Die von R.T.I. — Reti Televisive Italiane S.p.A. verantwortete Sendung „Striscia la Notizia"
     zeigte Beiträge, in denen Stimme und Bild des Journalisten Enrico Mentana mit KI so bearbeitet waren,
     dass er im Studio des TG La7 Nachrichten zu verlesen schien, die er nie gesprochen hat. Die Nachbildung
@@ -1121,7 +1105,6 @@ urteile:
     sowie die Rubrik ''Provvedimenti'' des Garante auf eine spätere Veröffentlichung des Volltextes hin
     beobachten.'
   zweifelhaft: true
-  quelle_art: amtlich
   sachverhalt: Ein italienisches Start-up entwickelte ein KI-Plug-in für Slack und Microsoft Teams, das
     die Chat-Kommunikation von Beschäftigten semantisch auswertet und daraus deren Grad psychischer Belastung
     ermittelt. Die Teilnahme sollte freiwillig sein; Verantwortlicher der Verarbeitung war das Start-up
@@ -1179,7 +1162,6 @@ urteile:
   - Die einzelnen Provvedimenti sind unter der abgerufenen Adresse nicht im Volltext hinterlegt; Adressaten,
     Bußgeldrahmen und Anordnungen sind der amtlichen Mitteilung des Garante entnommen. Nummern und genaue
     Beträge je Adressat nicht ermittelbar.
-  quelle_art: fehlt
 - id: it-2019-cds-2270-buonascuola
   jurisdiktion: it
   gericht: Consiglio di Stato, Sezione VI
@@ -1249,7 +1231,6 @@ urteile:
   - 'Nicht gegengeprüft: die im Ergebnisfeld referierten Begründungsstränge im Einzelnen sowie die Angabe
     der Anspruchsgrundlagen (Art. 3 Legge 241/1990, Art. 97 Cost., Legge 107/2015).'
   zweifelhaft: false
-  quelle_art: amtlich
   sachverhalt: Nach der Schulreform „buona scuola" (Legge 107/2015) wies das Bildungsministerium Lehrkräfte
     im Massenverfahren neuen Dienstorten zu; die Zuweisung besorgte ein Computerprogramm. Achtzehn Lehrkräfte
     um Mariateresa Altomare beanstandeten, sie seien ohne Rücksicht auf Rangfolge und angegebene Präferenzen
@@ -1335,7 +1316,6 @@ urteile:
   - 'instanzenzug geleert: it-2019-cds-2270-buonascuola ist ein anderes Verfahren (dortiger ricorso N.
     04477/2017 gegen T.A.R. Lazio n. 12026/2016).'
   zweifelhaft: false
-  quelle_art: amtlich
   sachverhalt: Auch in Kalabrien wurden Lehrkräfte im Rahmen der Schulreform „buona scuola" durch ein
     Computerprogramm neuen Dienstorten zugewiesen. Pasqualina Caiazza und weitere Betroffene beanstandeten,
     weder die Regeln des Programms noch die Gründe ihrer konkreten Zuweisung seien ihnen zugänglich gemacht
@@ -1383,7 +1363,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: Volltext der Ordinanza auf misterlex.it; Eckdaten zusätzlich bei dirittodeiservizipubblici.it
     und laleggepertutti.it
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id002
   eigene_bewertung: 'Die früheste höchstrichterliche Entscheidung Europas, die Algorithmentransparenz
     zur Wirksamkeitsvoraussetzung der Einwilligung macht — und damit an einer Stelle ansetzt, die die
@@ -1420,7 +1400,6 @@ urteile:
     Corte oder eine kostenpflichtige Datenbank.'
   zweifelhaft: false
   sekundaerquelle_url: https://www.misterlex.it/cassazione-civile/2021/14381/
-  quelle_art: fehlt
 - id: it-2023-cass-opera-generata
   jurisdiktion: it
   gericht: Corte suprema di cassazione, Sezione I civile
@@ -1452,7 +1431,7 @@ urteile:
   - it-legge-633-1941
   - dsm-rl-2019-790
   instanzenzug: []
-  quelle_tracker: Eigenes Fachwissen; in dieser Sitzung NICHT am amtlichen Text gegengeprüft
+  quelle_tracker: Eigenes Fachwissen; NICHT am amtlichen Text gegengeprüft
   verifiziert: false
   letzte_pruefung: 2026-09-04
   eigene_bewertung: 'Die Entscheidung wird häufig als "KI-Urheberrechtsurteil" zitiert, was sie nicht
@@ -1468,7 +1447,6 @@ urteile:
     sind mit Vorbehalt zu behandeln; insbesondere die Parteibezeichnung ist unsicher. Der Eintrag ist
     aufgenommen, weil er die einzige mir bekannte höchstrichterliche italienische Aussage zur Schutzfähigkeit
     softwaregenerierter Bilder ist, und ist vor einer Veröffentlichung zwingend nachzuverifizieren.
-  quelle_art: fehlt
 - id: gr-2022-apdpx-clearview
   jurisdiktion: gr
   gericht: Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Ολομέλεια)
@@ -1522,7 +1500,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: Clearview AI, Inc. sammelte Gesichtsbilder aus dem offenen Internet und wertete sie biometrisch
     aus, um daraus eine Suchdatenbank für Sicherheitsbehörden aufzubauen; die abgebildeten Personen erfuhren
     davon nichts. Das Unternehmen hat weder eine Niederlassung noch einen Vertreter in der Union. Die
@@ -1591,7 +1568,6 @@ urteile:
     Zusammenfassung bestätigt die Verhängung eines Bußgeldes, nennt aber keinen Betrag. Alle übrigen Angaben
     sind am amtlichen Text verifiziert.'
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: 'Das griechische Ministerium für Migration und Asyl (Υπουργείο Μετανάστευσης και Ασύλου)
     richtete in den Aufnahme- und Unterbringungseinrichtungen für Drittstaatsangehörige zwei Systeme ein:
     «Κένταυρος», ein integriertes digitales System zur Verwaltung der elektronischen und physischen Sicherheit
@@ -1656,7 +1632,6 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich
   sachverhalt: 'Die griechische Polizei (Ελληνική Αστυνομία) beschaffte das System «Έξυπνη Αστυνόμευση»
     („Smart Policing"): Streifenbeamte sollten mit Smartphones vom Typ Samsung S10e und daran angeschlossenen
     Lesegeräten im Einsatz Gesichtsbilder mit Gesichtserkennungssoftware abgleichen und Fingerabdrücke
@@ -1713,4 +1688,3 @@ urteile:
 
     '
   sekundaerquelle_url: null
-  quelle_art: amtlich

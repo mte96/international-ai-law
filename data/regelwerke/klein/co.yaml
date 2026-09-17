@@ -288,8 +288,8 @@ regelwerke:
     sprache: es
     urheber: Senado de la República, Secretaría General
     verifiziert: true
-    notiz: Ersatzbeleg. Der amtliche Volltext des Dekrets liegt auf suin-juriscol.gov.co, das in dieser
-      Sitzung nicht erreichbar war.
+    notiz: Ersatzbeleg. Der amtliche Volltext des Dekrets liegt auf suin-juriscol.gov.co, das nicht erreichbar
+      war.
   offene_punkte:
   - Sentencia C-420 de 2020 (automatische Kontrolle des Decreto 806) ist nicht aus der Primärquelle geprüft;
     Nummer aus Sekundärquellen.
@@ -373,8 +373,8 @@ regelwerke:
     sprache: es
     urheber: Departamento Administrativo de la Función Pública
     verifiziert: false
-    notiz: URL aus der Suche der Función Pública; der Abruf scheiterte in dieser Sitzung an robots.txt.
-      Inhalt nicht selbst geprüft.
+    notiz: URL aus der Suche der Función Pública; der Abruf scheiterte an robots.txt. Inhalt nicht selbst
+      geprüft.
   offene_punkte:
   - Datum, Diario Oficial und genauer Inhalt der Ley 2430 de 2024 sind nicht aus der Primärquelle geprüft.
     Nachzuholen über funcionpublica.gov.co/eva/gestornormativo/norma.php?i=253156 oder secretariasenado.gov.co/senado/basedoc/ley_2430_2024.html.
@@ -756,8 +756,8 @@ regelwerke:
     sprache: es
     urheber: Superintendencia de Industria y Comercio
     verifiziert: true
-    notiz: Ersatzbeleg. Der amtliche Volltext des Decreto 1074 de 2015 war in dieser Sitzung nicht abrufbar
-      (funcionpublica robots, suin-juriscol offline).
+    notiz: Ersatzbeleg. Der amtliche Volltext des Decreto 1074 de 2015 war nicht abrufbar (funcionpublica
+      robots, suin-juriscol offline).
   offene_punkte:
   - Volltext, genaue Fundstelle und Artikelnummern (Libro 2, Parte 2, Título 2, Capítulo 25) sind nachzuholen
     über funcionpublica.gov.co/eva/gestornormativo.
@@ -970,17 +970,17 @@ regelwerke:
     sprache: es
     urheber: Corte Constitucional de Colombia
     verifiziert: false
-    notiz: 'URL existiert und wurde im Browser angesteuert, der Inhalt konnte aber nicht gelesen werden:
-      PDFs von corteconstitucional.gov.co sind in dieser Sitzung durch die Egress-Politik gesperrt. Angaben
-      zu C-212/26 aus zwei unabhängigen Sekundärquellen (El Tiempo 18.07.2026; Diario Judicial), die in
-      Expediente, Datum, Berichterstatter und Tenor übereinstimmen.'
+    notiz: 'URL existiert und wurde im Browser angesteuert, der Inhalt konnte aber nicht gelesen werden: PDFs
+      von corteconstitucional.gov.co sind durch die Egress-Politik gesperrt. Angaben zu C-212/26 aus zwei
+      unabhängigen Sekundärquellen (El Tiempo 18.07.2026; Diario Judicial), die in Expediente, Datum, Berichterstatter
+      und Tenor übereinstimmen.'
   - datum: 2026-07-20
     typ: bericht
     titel: IA, suplantación y pena agravada — Bericht zur Sentencia C-212/26 (Expediente D-17.052)
     url: https://www.diariojudicial.com/news-104025-ia-suplantacion-y-pena-agravada
     sprache: es
     urheber: Diario Judicial
-    verifiziert: true
+    verifiziert: false
     notiz: SEKUNDÄRQUELLE. Nennt Expediente D-17052, Datum 15.07.2026, M.P. Jorge Enrique Ibáñez Najar
       und den Tenor der Exequibilidad; deckt sich mit El Tiempo.
   offene_punkte:
@@ -1061,8 +1061,8 @@ regelwerke:
     sprache: es
     urheber: Consejo Nacional de Política Económica y Social / Departamento Nacional de Planeación
     verifiziert: true
-    notiz: Amtliche Normensammlung der DIAN mit dem Volltext; Grundlage der Erfassung von Achsen, Budget
-      und Zeithorizont. Der PDF-Volltext auf colaboracion.dnp.gov.co war in dieser Sitzung nicht abrufbar.
+    notiz: Amtliche Normensammlung der DIAN mit dem Volltext; Grundlage der Erfassung von Achsen, Budget und
+      Zeithorizont. Der PDF-Volltext auf colaboracion.dnp.gov.co war nicht abrufbar.
   offene_punkte:
   - Das genaue Verabschiedungsdatum (8. November 2019) ist aus Sekundärquellen übernommen und nicht aus
     dem Dokumentkopf bestätigt.
@@ -1158,8 +1158,8 @@ regelwerke:
     sprache: es
     urheber: Departamento Nacional de Planeación
     verifiziert: false
-    notiz: Amtliche Primärquelle. Der Abruf scheiterte in dieser Sitzung wiederholt an robots.txt-Timeouts
-      auf colaboracion.dnp.gov.co; Investitionsvolumen und Zahl der Maßnahmen sind deshalb NICHT erfasst.
+    notiz: Amtliche Primärquelle. Der Abruf scheiterte wiederholt an robots.txt-Timeouts auf colaboracion.dnp.gov.co;
+      Investitionsvolumen und Zahl der Maßnahmen sind deshalb NICHT erfasst.
   - datum: 2025-12-25
     typ: uebersicht
     titel: National Policy on Artificial Intelligence (CONPES 4144) — OECD.AI Policy Observatory
@@ -1513,7 +1513,7 @@ regelwerke:
     sprache: es
     urheber: Ministerio de Ciencia, Tecnología e Innovación / Congreso de la República
     verifiziert: false
-    notiz: URL aus der amtlichen Verfahrensakte übernommen; PDF in dieser Sitzung nicht selbst geöffnet.
+    notiz: URL aus der amtlichen Verfahrensakte übernommen;
   - datum: 2025-12-03
     typ: ausschussbericht
     titel: Ponencia para primer debate al Proyecto de Ley 043 de 2025 Senado — 324 de 2025 Cámara (Gaceta
@@ -1522,7 +1522,7 @@ regelwerke:
     sprache: es
     urheber: Comisiones Sextas Constitucionales Permanentes
     verifiziert: false
-    notiz: URL aus der amtlichen Verfahrensakte; PDF in dieser Sitzung nicht selbst geöffnet.
+    notiz: URL aus der amtlichen Verfahrensakte;
   - datum: 2026-05-25
     typ: stellungnahme
     titel: Comentarios al PL IA 043 de 2025 Senado — 324 de 2025 Cámara, primer debate
@@ -1973,7 +1973,7 @@ regelwerke:
     url: https://www.institutoautor.com/colombia-la-dnda-deniega-el-registro-de-creaciones-desarrolladas-con-inteligencia-artificial/
     sprache: es
     urheber: Instituto de Derecho de Autor (Madrid)
-    verifiziert: true
+    verifiziert: false
     notiz: SEKUNDÄRQUELLE. Nennt drei Ablehnungsbescheide der DNDA aus 2023 mit Nummer, Datum, Gegenstand
       und Rechtsgrundlagen. Die amtlichen Resolutionen selbst sind im Bestand nicht abgerufen.
   offene_punkte:
@@ -2054,8 +2054,8 @@ regelwerke:
     sprache: es
     urheber: Comisión del Acuerdo de Cartagena; Nachweis bei der WIPO
     verifiziert: false
-    notiz: Der Datensatz existiert in WIPO Lex; der Volltextabruf schlug in dieser Sitzung fehl (404 auf
-      der Textseite). Inhaltliche Angaben stammen aus dem Gesetzentwurf PL 025/2026C und aus den DNDA-Bescheiden.
+    notiz: Der Datensatz existiert in WIPO Lex; der Volltextabruf schlug fehl (404 auf der Textseite). Inhaltliche
+      Angaben stammen aus dem Gesetzentwurf PL 025/2026C und aus den DNDA-Bescheiden.
   - datum: 2026-07-21
     typ: entwurf
     titel: PL 025/2026C — beruft sich für die TDM-Ausnahme auf Art. 9 Abs. 2 der Berner Übereinkunft und
@@ -2109,7 +2109,7 @@ regelwerke:
     '
   inkrafttreten:
     datum: 2026-07-31
-    verifiziert: true
+    verifiziert: false
     quelle: https://consultorsalud.com/wp-content/uploads/2026/08/Resolucion-No-1644-de-2026.pdf
     fundstelle_norm: 'Artículo 44. Vigencia y derogatoria: ''La presente resolución rige a partir de la
       fecha de su expedición, y deroga la Resolución 2654 de 2019.'' Ausgefertigt am 31.07.2026 (Kopfzeile:
@@ -2120,13 +2120,13 @@ regelwerke:
     was_gilt: Ablauf der Uebergangsfrist von zwoelf Monaten nach Artículo 43 (Disposición transitoria)
       fuer Leistungserbringer, die bei Inkrafttreten bereits ueber zugelassene Telemedizindienste verfuegen;
       bis dahin behalten die bestehenden habilitaciones ihre rechtliche und operative Gueltigkeit.
-    verifiziert: true
+    verifiziert: false
     quelle: https://consultorsalud.com/wp-content/uploads/2026/08/Resolucion-No-1644-de-2026.pdf
   - datum: 2027-07-31
     was_gilt: Ablauf der Frist von zwoelf Monaten ab Erlass, binnen derer das Ministerio de Salud y Protección
       Social nach Artículo 23 Parágrafo die technischen Leitlinien fuer Einfuehrung, Bewertung und Einsatz
       KI-gestuetzter Plattformen in der Telemedizin zu erlassen hat.
-    verifiziert: true
+    verifiziert: false
     quelle: https://consultorsalud.com/wp-content/uploads/2026/08/Resolucion-No-1644-de-2026.pdf
   themenachsen:
   - sektor-medizin
@@ -2151,7 +2151,7 @@ regelwerke:
     url: https://consultorsalud.com/wp-content/uploads/2026/06/PR-Telesalud-y-Telemedicina.pdf
     sprache: es
     urheber: Ministerio de Salud y Protección Social (Entwurf), gespiegelt bei Consultorsalud
-    verifiziert: true
+    verifiziert: false
     notiz: Konsultationsfassung mit dem KI-Artikel. Nicht die verkündete Endfassung; gespiegelt auf einer
       Fachplattform, nicht auf minsalud.gov.co.
   - datum: 2026-07-31

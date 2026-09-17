@@ -231,15 +231,15 @@ regelwerke:
     urheber: משרד ראש הממשלה — Amt des Ministerpraesidenten
     verifiziert: false
     notiz: 'Vermutete amtliche Adresse nach dem Schema gov.il/he/pages/dec<Nr>-<Jahr>. Am 05.09.2026 nicht
-      ueberpruefbar: gov.il-Beschlussseiten liefern in dieser Sitzung weder ueber WebFetch noch im Browser
-      Inhalt. Der Beschlussinhalt ist ueber eine Sekundaerquelle (ceci.org.il) belegt.'
+      ueberpruefbar: gov.il-Beschlussseiten liefern weder ueber WebFetch noch im Browser Inhalt. Der Beschlussinhalt
+      ist ueber eine Sekundaerquelle (ceci.org.il) belegt.'
   - datum: 2025-10-19
     typ: pressemitteilung
     titel: Netanyahu's office takes direct control of Israel's AI policy (Calcalist/Ctech)
     url: https://www.calcalistech.com/ctechnews/article/ab6v2b1ra
     sprache: en
     urheber: Calcalist / Ctech
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle. Nennt Beschlussdatum (25.09.2025 fuer die Regierungsbilligung), Budget, Planstellen
       und die Aufhebung der Zustaendigkeitsordnung von 2021.
   offene_punkte:
@@ -371,7 +371,7 @@ regelwerke:
     sprache: en
     urheber: Regierung Israels, Koordinierung ueber das Telem-Forum; veroeffentlicht ueber die Israel
       Innovation Authority
-    verifiziert: true
+    verifiziert: false
     notiz: Bestandsaufnahme des Vorlaeuferprogramms (Beschluss 212/2021 und 173/2023), Volumen rund 1
       Mrd. NIS ueber 2021 bis 2026, fuenf Saeulen. Bestaetigt ausdruecklich die sektorale statt horizontale
       Regulierungslinie und die Foerderung von Regulierungssandkaesten.
@@ -491,7 +491,7 @@ regelwerke:
     aus dem Netz.'
   inkrafttreten:
     datum: 1981-03-11
-    verifiziert: true
+    verifiziert: false
     quelle: https://law.tau.ac.il/sites/law.tau.ac.il/files/law_lgbt/%D7%97%D7%95%D7%A7_%D7%94%D7%92%D7%A0%D7%AA_%D7%94%D7%A4%D7%A8%D7%98%D7%99%D7%95%D7%AA_0.pdf
     fundstelle_norm: 'ס"ח תשמ"א מס'' 1011 מיום 11.3.1981 עמ'' 128 — Veroeffentlichung in Reshumot; nach
       der allgemeinen Regel des israelischen Rechts (Auslegungsgesetz) tritt ein Gesetz am Tag der Veroeffentlichung
@@ -502,7 +502,7 @@ regelwerke:
   - datum: 1981-09-11
     was_gilt: Kapitel B (פרק ב') — Datenbankenrecht, Registrierungs- und Sicherungspflichten; sechs Monate
       nach der Veroeffentlichung, § 37 des Gesetzes
-    verifiziert: true
+    verifiziert: false
     quelle: https://ics.uci.edu/~kobsa/privacy/israel.htm
   - datum: 2025-08-14
     was_gilt: Tikkun 13 (חוק הגנת הפרטיות (תיקון מס' 13), התשפ"ד-2024) — Aufsichts- und Sanktionsbefugnisse
@@ -585,7 +585,7 @@ regelwerke:
     url: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%92%D7%A0%D7%AA_%D7%94%D7%A4%D7%A8%D7%98%D7%99%D7%95%D7%AA
     sprache: he
     urheber: ויקיטקסט
-    verifiziert: true
+    verifiziert: false
     notiz: 'NICHT amtlich, aber die einzige frei zugaengliche Fassung mit vollstaendiger Paragrafenuebersicht
       und Aenderungsvermerken. Am 05.09.2026 daraus geprueft: § 3 Begriffsbestimmungen (Aenderung תשפ"ד),
       § 8, § 8א, § 11, § 13, § 14, § 15א, § 17, §§ 17ב1-17ב3, §§ 17ט1-17ט3, § 23ב. Kopfzeile nennt als
@@ -655,7 +655,7 @@ regelwerke:
     quelle: https://www.law.co.il/en/news/2024/08/05/knesset-enacts-comprehensive-amendment-privacy-protection/
   - datum: 2024-08-14
     was_gilt: Verkuendung in Reshumot; Beginn der einjaehrigen Uebergangsfrist.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/legislation/2024/08/14/privacy-protection-law-amendment-13/
   - datum: 2025-08-14
     was_gilt: Vollstaendiges Inkrafttreten. Ab diesem Tag gilt fuer Verstoesse die siebenjaehrige Verjaehrung;
@@ -711,7 +711,7 @@ regelwerke:
     url: https://techpolicy.org.il/wp-content/uploads/2024/10/Overview-of-Amendment-no-13-FINAL-FINAL-FOR-UPLOAD-FOR-WEBSITE-COLLATED-1.pdf
     sprache: en
     urheber: Israel Tech Policy Institute / Future of Privacy Forum
-    verifiziert: true
+    verifiziert: false
     notiz: Die ausfuehrlichste englischsprachige Darstellung mit Paragrafenzuordnung und vollstaendiger
       Bussgeldtabelle. Sekundaerquelle, aber mit Abstand die genaueste; benennt ausdruecklich die Leerstellen
       gegenueber der DSGVO (keine Vorschrift zu automatisierten Entscheidungen, kein Katalog von Rechtsgrundlagen,
@@ -793,7 +793,7 @@ regelwerke:
     was_gilt: 'Oeffentlicher Widerstand: Finanzministerium, Verband der Industriellen und ein Forum von
       rund 25 Wachstumsunternehmen wenden sich gegen den Entwurf, insbesondere gegen die Behandlung des
       Scrapings und gegen die Uebertragung der Logik alter Datenbankregulierung auf Modelle.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/news/2025/08/12/industry-and-mof-against-ppa-ai-privacy-guidelines/
   themenachsen:
   - datenschutz
@@ -858,7 +858,7 @@ regelwerke:
     sprache: he
     urheber: law.co.il (Bericht ueber Stellungnahmen des Finanzministeriums, des Verbandes der Industriellen
       und des Forums der Wachstumsunternehmen)
-    verifiziert: true
+    verifiziert: false
     notiz: 'Sekundaerquelle. Belegt den innerstaatlichen Konflikt: Das Finanzministerium warnt vor einem
       negativen Signal an den Markt und an internationale Unternehmen mit Regierungsvertraegen; die Industrie
       wirft der Behoerde vor, die Logik alter Datenbankregulierung auf eine neue Technologie zu uebertragen.'
@@ -1055,7 +1055,7 @@ regelwerke:
     url: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%96%D7%9B%D7%95%D7%AA_%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D
     sprache: he
     urheber: ויקיטקסט
-    verifiziert: true
+    verifiziert: false
     notiz: 'NICHT amtlich. Am 05.09.2026 daraus im Wortlaut geprueft: § 19 (mit der offenen Zweckformel
       und der Verordnungsermaechtigung in Absatz c), § 20, § 21, § 22, § 26, §§ 33 bis 36. Die Kopfzeile
       weist Aenderungen bis תשפ"ו (S. 593 und 1030) aus und verweist ausserdem auf ein Verfahren בג"ץ
@@ -1256,7 +1256,7 @@ regelwerke:
     was_gilt: 'Das Bezirksgericht Tel Aviv-Jaffa (Richterin Tamar Avraham) weist die Berufung עש"א 33353-05-23
       zurueck und bestaetigt: Eine Maschine kann nach dem Patentgesetz nicht Erfinderin sein; die Rechtspolitik
       ist Sache des Gesetzgebers.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/media/computer-law/thaler1.pdf
   themenachsen:
   - urheberrecht
@@ -1302,7 +1302,7 @@ regelwerke:
     sprache: he
     urheber: בית המשפט המחוזי תל אביב-יפו, השופטת תמר אברהם — Bezirksgericht Tel Aviv-Jaffa, Richterin
       Tamar Avraham
-    verifiziert: true
+    verifiziert: false
     notiz: Volltext des Urteils, ueber eine private Sammlung abrufbar. Belegt Aktenzeichen, Spruchkoerper,
       Datum und die herangezogenen Vorschriften (§§ 1, 2, 11(b), 39, 40, 76).
   offene_punkte:
@@ -1382,7 +1382,7 @@ regelwerke:
   - datum: 2026-07-26
     was_gilt: Der Vorsitzende des Zentralen Wahlausschusses erlaesst die Ausfuehrungsregeln zur Form der
       Offenlegung; nach Presseberichten wird die Kennzeichnungspflicht ab diesem Tag praktisch durchgesetzt.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
   - datum: 2026-10-27
     was_gilt: Wahltag der 26. Knesset; von diesem Tag an laeuft die Jahresfrist, nach deren Ablauf die
@@ -1515,7 +1515,7 @@ regelwerke:
     mit Eilbefugnissen, und die Rechtsfolge ist eine Offenlegung, nicht ein Verbot.'
   inkrafttreten:
     datum: 1959-07-06
-    verifiziert: true
+    verifiziert: false
     quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_(%D7%93%D7%A8%D7%9B%D7%99_%D7%AA%D7%A2%D7%9E%D7%95%D7%9C%D7%94)
     fundstelle_norm: '§ 21 des Gesetzes (תחילה): ''תחילתו של חוק זה היא מיום קבלתו בכנסת'' — Inkrafttreten
       am Tag der Annahme in der Knesset; Schlussvermerk des amtlichen Textes: ''נתקבל בכנסת ביום ל׳ בסיון
@@ -1526,17 +1526,17 @@ regelwerke:
       עמוקה'' (Deepfake) ist. Eingefuegt als הוראת שעה (befristete Vorschrift) durch § 12 des חוק הבחירות
       לכנסת העשרים ושש (הוראות מיוחדות ותיקוני חקיקה), התשפ"ו-2026: ''הנוסח שולב בחוק הבחירות (דרכי תעמולה),
       התשי"ט-1959 כהוראת שעה מיום 23.7.2026 ועד יום 26.10.2027''. Die Befristung endet am 26.10.2027.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%D7%9C%D7%9B%D7%A0%D7%A1%D7%AA_%D7%94%D7%A2%D7%A9%D7%A8%D7%99%D7%9D_%D7%95%D7%A9%D7%A9_(%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA_%D7%95%D7%AA%D7%99%D7%A7%D7%95%D7%A0%D7%99_%D7%97%D7%A7%D7%99%D7%A7%D7%94)
   - datum: 2026-07-26
     was_gilt: כללי הבחירות (דרכי תעמולה) (עמידה בחובת הגילוי לגבי תעמולת בחירות שהיא נחזות עמוקה), התשפ"ו-2026
       — Ausfuehrungsregeln des Vorsitzenden der Zentralen Wahlkommission (Richter Noam Sohlberg) nach
       § 2א2(ב); sie gelten fuer Inhalte, die erstmals ab dem 26.07.2026 veroeffentlicht werden
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.mako.co.il/news-israel-elections/2026/Article-155d34c185e9f91027.htm
   - datum: 2027-10-26
     was_gilt: Ende der Befristung des § 2א2 (הוראת שעה laeuft bis einschliesslich 26.10.2027)
-    verifiziert: true
+    verifiziert: false
     quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%D7%9C%D7%9B%D7%A0%D7%A1%D7%AA_%D7%94%D7%A2%D7%A9%D7%A8%D7%99%D7%9D_%D7%95%D7%A9%D7%A9_(%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA_%D7%95%D7%AA%D7%99%D7%A7%D7%95%D7%A0%D7%99_%D7%97%D7%A7%D7%99%D7%A7%D7%94)
   themenachsen:
   - content
@@ -1607,13 +1607,13 @@ regelwerke:
     synthetischer Inhalte in Kraft.'
   inkrafttreten:
     datum: 2026-07-26
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
   anwendungsdaten:
   - datum: 2026-07-26
     was_gilt: Erlass und Beginn der Anwendung; erfasst Inhalte, die ab diesem Tag erstmals verbreitet
       werden.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/media/computer-law/election_rules_propaganda_deep_fake2026.pdf
   themenachsen:
   - content
@@ -1639,7 +1639,7 @@ regelwerke:
     sprache: he
     urheber: נעם סולברג, המשנה לנשיא בית המשפט העליון, יו"ר ועדת הבחירות המרכזית — Noam Sohlberg, Vizepraesident
       des Obersten Gerichtshofs, Vorsitzender des Zentralen Wahlausschusses
-    verifiziert: true
+    verifiziert: false
     notiz: Am 05.09.2026 im Volltext ausgewertet. Nennt als Rechtsgrundlage § 2א2(b) des Wahlgesetzes
       (Wahlwerbung) 1959, das Datum י"ב באב התשפ"ו und die Fundstelle ילקוט הפרסומים Nr. 12484. Die Adresse
       ist eine private Sammlung; eine amtliche Fundstelle im Netz wurde nicht gefunden.
@@ -1692,7 +1692,7 @@ regelwerke:
     ohne ausdrueckliche Strafdrohung, beschraenkt auf Wahlwerbung.'
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_%D7%9C%D7%9B%D7%A0%D7%A1%D7%AA_%D7%94%D7%A2%D7%A9%D7%A8%D7%99%D7%9D_%D7%95%D7%A9%D7%A9_(%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA_%D7%95%D7%AA%D7%99%D7%A7%D7%95%D7%A0%D7%99_%D7%97%D7%A7%D7%99%D7%A7%D7%94)
     fundstelle_norm: Kein Inkrafttreten — keiner der privaten Gesetzentwuerfe der 25. Knesset ist verabschiedet
       worden. Der Gesetzgeber hat stattdessen den befristeten wahlrechtlichen Weg gewaehlt (§ 2א2 חוק
@@ -1715,12 +1715,12 @@ regelwerke:
   - datum: 2025-11-26
     was_gilt: 'פ/6312/25 — הצעת חוק העונשין (תיקון — עבירות זיוף עמוק), התשפ"ו-2025 (MdK Yasser Khogairat):
       abgestufte Straftatbestaende von zwei bis zehn Jahren Freiheitsstrafe.'
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/legislation/2025/11/26/deep-fake-penal-code-amendment-6312-private-bill/
   - datum: 2026-05-15
     was_gilt: פ/6651/25 — הצעת חוק הבחירות (דרכי תעמולה)(תיקון — תעמולה דיגיטלית, תעמולה מבוססת בינה מלאכותית
       והחמרת ענישה), התשפ"ו-2026 (MdK Ethan Ginzburg).
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.law.co.il/legislation/2026/05/15/digital-election-campaign-6651-private-bill/
   themenachsen:
   - content
@@ -1746,7 +1746,7 @@ regelwerke:
     url: https://www.law.co.il/legislation/2025/11/26/deep-fake-penal-code-amendment-6312-private-bill/
     sprache: he
     urheber: law.co.il (Wiedergabe des Knesset-Entwurfs)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle mit Wiedergabe des Entwurfstextes. Eine amtliche Adresse im Gesetzgebungsregister
       der Knesset wurde nicht ermittelt.
   - datum: 2025-03-10
@@ -1765,7 +1765,7 @@ regelwerke:
     url: https://www.law.co.il/legislation/2026/05/15/digital-election-campaign-6651-private-bill/
     sprache: he
     urheber: law.co.il (Wiedergabe des Knesset-Entwurfs)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle. Amtliche Adresse nicht ermittelt.
   offene_punkte:
   - Amtliche Adressen im Gesetzgebungsregister der Knesset konnten fuer keinen der fuenf Entwuerfe ermittelt
@@ -2238,7 +2238,7 @@ regelwerke:
     url: https://www.ynet.co.il/news/article/hkmpj3jmmg
     sprache: he
     urheber: ynet
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle. Belegt Weisung (Maerz 2026), technische Sperrung (Juni 2026), den Verfasser
       des Schreibens und die Begruendung. Ein Rundschreibenzeichen wird nicht genannt.
   offene_punkte:
@@ -2295,7 +2295,7 @@ regelwerke:
   - datum: 2026-08-23
     was_gilt: Das Bezirksgericht Tel Aviv-Jaffa verhaengt in ת"צ 6989-05-25 (Adibi gegen AIG Israel) Kosten
       von 20.000 NIS wegen fuenf erfundener Entscheidungen — die praktische Kehrseite der Stellungnahme.
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.damiencharlotin.com/documents/2957/adiby1.pdf
   themenachsen:
   - berufsrecht
@@ -2328,7 +2328,7 @@ regelwerke:
     url: https://www.pearlcohen.com/israeli-bar-associations-ethical-guidelines-on-using-ai/
     sprache: en
     urheber: Pearl Cohen
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle. Nennt als Datum den 07.05.2024 und den Nationalen Ethikausschuss als Urheber
       und fasst die drei Pflichten zusammen.
   offene_punkte:
@@ -2377,7 +2377,7 @@ regelwerke:
     der amerikanischen Exportkontrolle fuer Rechenbeschleuniger zusammentrifft.
   inkrafttreten:
     datum: null
-    verifiziert: true
+    verifiziert: false
     quelle: https://www.shibolet.com/en/q1-2026-international-trade-regulation-update-key-developments-and-new-israeli-dual-use-export-control-bill/
     fundstelle_norm: Kein Inkrafttreten — תזכיר חוק (Gesetzesmemorandum) im Anhoerungsverfahren, veroeffentlicht
       26.03.2026, Anhoerungsfrist bis 25.04.2026; bis 06.09.2026 kein Regierungsentwurf in der Knesset
@@ -2413,7 +2413,7 @@ regelwerke:
     url: https://www.shibolet.com/en/q1-2026-international-trade-regulation-update-key-developments-and-new-israeli-dual-use-export-control-bill/
     sprache: en
     urheber: Shibolet & Co. (Kanzleibericht ueber das Gesetzesmemorandum)
-    verifiziert: true
+    verifiziert: false
     notiz: Sekundaerquelle. Nennt Bezeichnung, Datum, Anhoerungsfrist, federfuehrendes Ministerium und
       Regelungsinhalt sowie die amtliche Adresse im Anhoerungsportal tazkirim.gov.il.
   - datum: 2026-03-26

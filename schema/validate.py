@@ -51,13 +51,21 @@ for _wf in sorted(glob.glob(str(ROOT / ".github/workflows/*.yml"))):
 fehler, warnungen, offen = list(_tax_fehler), [], {}
 ids_gesehen = {}
 
+# Jede Datei wird einmal geparst. Vorher lief `lade` achtmal ueber
+# dieselben 140 Dateien - 68 Sekunden je Lauf, bei jedem Push, und die
+# Actions-Minuten sind auf dem Free-Konto gezaehlt.
+_GELESEN = {}
+
+
 def lade(muster):
     for pfad in sorted(glob.glob(str(ROOT / muster), recursive=True)):
-        try:
-            doc = yaml.safe_load(Path(pfad).read_text())
-        except yaml.YAMLError as e:
-            fehler.append(f"{pfad}: YAML nicht lesbar - {e}")
-            continue
+        if pfad not in _GELESEN:
+            try:
+                _GELESEN[pfad] = yaml.safe_load(Path(pfad).read_text())
+            except yaml.YAMLError as e:
+                fehler.append(f"{pfad}: YAML nicht lesbar - {e}")
+                _GELESEN[pfad] = None
+        doc = _GELESEN[pfad]
         if doc:
             yield pfad, doc
 
@@ -232,7 +240,7 @@ for _schluessel, _c in _neu.items():
 # drinsteht, ist das kein Fehler, aber es soll sichtbar bleiben.
 import sys as _sys
 _sys.path.insert(0, "build")
-from quellenart import art as _art
+from quellenklasse import klasse as _art
 _db = [n for _p, _d in lade("data/normen/*.yaml") for n in _d.get("normen") or []
        if n.get("amtlicher_text_url") and _art(n["amtlicher_text_url"]) != "amtlich"]
 if _db:
@@ -384,6 +392,46 @@ if _mq:
     warnungen.append(f"regelwerke: {len(_mq)} Werte in 'monitoring_quellen' sind "
                      f"Adressen statt ids aus tracker/quellen.yaml - die Verbindung "
                      f"Regelwerk<->Tracker besteht damit nicht")
+
+
+# --- Die Flagge muss wieder etwas bedeuten ------------------------------
+# `verifiziert: true` heisst: an einem Dokument geprueft. Am 10.09.2026
+# stand das 981-mal da, ohne dass daneben ein Dokument stand, an dem man
+# haette pruefen koennen - 706-mal auf einer Kanzleiseite, einem
+# Presseartikel oder Wikipedia, 134-mal auf einer Rechtsdatenbank,
+# 141-mal ohne jede Adresse. Am 17.09.2026 bereinigt; ab hier ein Fehler,
+# damit es nicht wieder einlaeuft.
+#
+# Die Literatur bleibt aussen vor: fuer einen Aufsatz ist die Seite
+# seiner Zeitschrift die richtige Fundstelle, auch wenn dieser Host nach
+# juristischem Massstab "sekundaer" heisst. Die Einstufung misst die
+# Wuerde einer Rechtsquelle, nicht die eines Verlags.
+_QUELLFELDER = ("quelle", "url", "volltext_url", "amtlicher_text_url")
+_TRAEGT = ("amtlich", "urheber")
+_FLAGGE_GILT = ("regelwerke", "urteile", "fristen", "normen")
+
+
+def _flagge_pruefen(eid, obj, pfad=""):
+    if isinstance(obj, dict):
+        if obj.get("verifiziert") is True:
+            _u = next((obj[_f] for _f in _QUELLFELDER if obj.get(_f) is not None), None)
+            _k = _art(_u)
+            if _k not in _TRAEGT:
+                _wo = f"'{pfad}' " if pfad else ""
+                fehler.append(
+                    f"{eid}: {_wo}traegt verifiziert: true, die Quelle ist aber "
+                    f"{_k} ({str(_u)[:60]}) - die Flagge sagt 'am Dokument "
+                    f"geprueft'; eine Kanzleiseite oder Datenbank belegt das nicht")
+        for _k2, _v in obj.items():
+            _flagge_pruefen(eid, _v, f"{pfad}.{_k2}" if pfad else _k2)
+    elif isinstance(obj, list):
+        for _x in obj:
+            _flagge_pruefen(eid, _x, pfad)
+
+
+for _s in _FLAGGE_GILT:
+    for _pfad, _e in BESTAND.get(_s, []):
+        _flagge_pruefen(_e.get("id", _kurz(_pfad)), _e)
 
 # --- Kontrollierte Vokabeln --------------------------------------------
 # Was die App kennt, muss die Datenbasis auch schreiben. `instanz` stand

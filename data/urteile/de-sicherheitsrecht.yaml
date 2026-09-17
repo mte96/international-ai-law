@@ -76,7 +76,6 @@ urteile:
   - gg-art-2-abs-1
   - hmbpoldvg-49
   - hsog-25a
-  quelle_art: amtlich
   sachverhalt: 'Hessen erwarb bereits 2017 das Programm „Gotham" des Softwareunternehmens Palantir und
     setzte es unter dem Namen „hessenDATA" ein; eine eigene Rechtsgrundlage schuf der Landesgesetzgeber
     erst 2018 mit § 25a HSOG, unter Hinweis auf die Mordserie des „NSU". Die Vorschrift — und die ihr
@@ -164,7 +163,6 @@ urteile:
   - gg-art-1-abs-1
   - gg-art-2-abs-1
   - hsog-25a
-  quelle_art: amtlich
   sachverhalt: Nach dem hessenDATA-Urteil des Bundesverfassungsgerichts vom 16. Februar 2023 musste Hessen
     § 25a HSOG bis zum 30. September 2023 neu fassen. Der Landtag tat das mit dem Gesetz zur Änderung
     sicherheitsrechtlicher Vorschriften und zur Umorganisation der hessischen Bereitschaftspolizei vom
@@ -250,7 +248,6 @@ urteile:
   - gg-art-1-abs-1
   - gg-art-10
   - gg-art-2-abs-1
-  quelle_art: amtlich
   sachverhalt: Bayern beschaffte 2022 über einen Rahmenvertrag die Analyseplattform Gotham der Firma Palantir
     — dort unter dem Namen VeRA geführt — und zahlte jahrelang Lizenzgebühren, bevor eine Rechtsgrundlage
     für den Einsatz bestand. Erst nach dem hessenDATA-Urteil schuf der Landtag mit Art. 61a BayPAG die
@@ -320,7 +317,6 @@ urteile:
   - gg-art-1-abs-1
   - gg-art-2-abs-1
   - polg-nrw-23
-  quelle_art: fehlt
 - id: de-2026-asog-berlin-verfgh
   jurisdiktion: de
   gericht: Verfassungsgerichtshof des Landes Berlin
@@ -357,7 +353,7 @@ urteile:
   instanzenzug:
   - de-2023-hessendata-bverfg
   quelle_tracker: netzpolitik.org
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Der erste der Palantir-Folgefälle, der nicht als Individualverfassungs- beschwerde
     in Karlsruhe, sondern als abstrakte Normenkontrolle vor einem Landesverfassungsgericht geführt wird.
@@ -379,7 +375,6 @@ urteile:
   normen:
   - gg-art-1-abs-1
   - gg-art-2-abs-1
-  quelle_art: fehlt
 - id: de-2024-bkag-ii-bverfg
   jurisdiktion: de
   gericht: Bundesverfassungsgericht, Erster Senat
@@ -436,7 +431,6 @@ urteile:
   - bkag-45
   - gg-art-1-abs-1
   - gg-art-2-abs-1
-  quelle_art: amtlich
   sachverhalt: Das Gesetz zur Neustrukturierung des Bundeskriminalamtgesetzes vom 1. Juni 2017 trat am
     25. Mai 2018 in Kraft. Es erlaubt dem Bundeskriminalamt, zur Abwehr von Gefahren des internationalen
     Terrorismus auch Kontaktpersonen mit eingriffsintensiven verdeckten Mitteln zu überwachen (§ 45 Abs.

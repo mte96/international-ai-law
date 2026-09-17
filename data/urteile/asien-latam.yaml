@@ -44,7 +44,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: China Justice Observer; Kluwer Copyright Blog (Wang/Zhang, 02.02.2024); Legal 500 Country
     Comparative Guide — China, Artificial Intelligence
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: &id001 2026-09-05
   eigene_bewertung: 'Die weltweit meistzitierte und zugleich am häufigsten falsch wiedergegebene KI-Entscheidung.
     Sie ist KEINE Aussage darüber, dass KI-Erzeugnisse generell schutzfähig wären. Sie ist eine Einzelfallentscheidung
@@ -82,7 +82,6 @@ urteile:
   - cn-urhg-art-10-abs-1-nr-12
   - cn-urhg-art-53
   - cn-urhg-art-54
-  quelle_art: fehlt
 - id: cn-2024-changshu-ki-bild
   jurisdiktion: cn
   gericht: 常熟市人民法院 — Volksgericht der Stadt Changshu (Provinz Jiangsu)
@@ -134,7 +133,6 @@ urteile:
   normen:
   - cn-urhg-art-3
   - cn-urhg-art-11
-  quelle_art: fehlt
 - id: cn-2025-suzhou-berufung
   jurisdiktion: cn
   gericht: 苏州市中级人民法院 — Mittleres Volksgericht Suzhou (Provinz Jiangsu)
@@ -203,7 +201,6 @@ urteile:
   normen:
   - cn-urhg-art-3
   - cn-urhg-art-11
-  quelle_art: fehlt
 - id: cn-2026-yangzhou-spielzeug
   jurisdiktion: cn
   gericht: 扬州市中级人民法院 — Mittleres Volksgericht Yangzhou (Provinz Jiangsu); Erstinstanz Volksgericht Yizheng
@@ -281,7 +278,6 @@ urteile:
   - cn-urhg-art-11
   - cn-urhg-art-10-abs-1-nr-5
   - cn-urhg-art-10-abs-1-nr-14
-  quelle_art: fehlt
 - id: cn-2024-ultraman-gz
   jurisdiktion: cn
   gericht: 广州互联网法院 — Guangzhou Internet Court (Internetgericht Guangzhou)
@@ -329,7 +325,7 @@ urteile:
   - cn-deep-synthesis
   instanzenzug: []
   quelle_tracker: Kluwer Copyright Blog (Förg, 05.09.2024); Legal 500 Country Comparative Guide — China
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: *id001
   eigene_bewertung: 'Der eigentliche Wert dieser Entscheidung liegt nicht im Ergebnis, sondern in der
     Rechtsquelle. Das Gericht hat die Sorgfaltspflichten nicht aus dem Deliktsrecht entwickelt, sondern
@@ -376,7 +372,6 @@ urteile:
   sekundaerquelle_url: https://legalblogs.wolterskluwer.com/copyright-blog/awaken-the-warrior-of-light-what-lessons-can-we-learn-from-ultraman/
   suchadresse: https://wenshu.court.gov.cn/ — 案号 '(2024)粤0192民初113号'; alternativ https://www.gzinternetcourt.gov.cn/
     (典型案例)
-  quelle_art: fehlt
 - id: cn-2024-hangzhou-berufung
   jurisdiktion: cn
   gericht: 杭州市中级人民法院 — Mittleres Volksgericht Hangzhou (Provinz Zhejiang)
@@ -434,7 +429,6 @@ urteile:
   - cn-genai-interim-measures-art-9
   - cn-genai-interim-measures-art-14
   - cn-genai-interim-measures-art-15
-  quelle_art: fehlt
 - id: cn-2025-shanghai-lora
   jurisdiktion: cn
   gericht: 上海市金山区人民法院 — Volksgericht des Bezirks Jinshan, Shanghai
@@ -516,7 +510,6 @@ urteile:
   - cn-urhg-art-52
   - cn-genai-interim-measures-art-7
   - cn-genai-interim-measures-art-14
-  quelle_art: fehlt
 - id: cn-2024-shanghai-jiading-faceswap
   jurisdiktion: cn
   gericht: 上海市嘉定区人民法院 — Volksgericht des Bezirks Jiading, Shanghai
@@ -558,7 +551,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: China Justice Observer unter Bezug auf die Auswahl typischer IP-Fälle 2024 des Obersten
     Volksgerichtshofs (April 2025)
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Dogmatisch unspektakulär, statusrechtlich aber bedeutsam: Durch die Aufnahme in die
     typischen Fälle des Obersten Volksgerichtshofs erhält die Entscheidung faktische Leitwirkung, ohne
@@ -582,7 +575,6 @@ urteile:
     ist automatisiert nicht erreichbar.'
   suchadresse: https://wenshu.court.gov.cn/ — 案号 '(2024)沪0114民初1326号'; ferner https://www.court.gov.cn
     (SPC, 知识产权典型案例 2024)
-  quelle_art: fehlt
 - id: cn-2026-bic-faceswap-kurzdrama
   jurisdiktion: cn
   gericht: 北京互联网法院 — Beijing Internet Court (Internetgericht Peking)
@@ -665,7 +657,6 @@ urteile:
   suchadresse: https://wenshu.court.gov.cn/ — Volltextsuche '换脸' + 北京互联网法院, Zeitraum 2026; ferner https://www.bjinternetcourt.gov.cn/
     (新闻/典型案例)
   zweifelhaft: true
-  quelle_art: fehlt
 - id: cn-2024-yin-stimme
   jurisdiktion: cn
   gericht: 北京互联网法院 — Beijing Internet Court (Internetgericht Peking)
@@ -708,8 +699,7 @@ urteile:
   - cn-pipl
   instanzenzug: []
   quelle_tracker: China Justice Observer (SPC-Sammlung typischer Fälle vom 12.06.2025); Tencent News (腾讯网),
-    Fachbeitrag vom 06.07.2026. Gericht, Datum und Aktenzeichen aus Modellwissen, in dieser Sitzung NICHT
-    belegbar.
+    Fachbeitrag vom 06.07.2026. Gericht, Datum und Aktenzeichen aus Modellwissen, NICHT belegbar.
   verifiziert: false
   letzte_pruefung: *id002
   eigene_bewertung: 'Die international meistunterschätzte Entscheidung der gesamten Datei. China hat damit
@@ -752,7 +742,6 @@ urteile:
   - cn-zgb-art-1023
   - cn-zgb-art-1024
   - cn-deep-synthesis-art-14
-  quelle_art: fehlt
 - id: cn-2023-hangzhou-digital-human
   jurisdiktion: cn
   gericht: 杭州互联网法院 — Hangzhou Internet Court (Internetgericht Hangzhou)
@@ -788,7 +777,7 @@ urteile:
   - cn-urhg
   instanzenzug: []
   quelle_tracker: China Justice Observer
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die Entscheidung wird gern als "KI-Fall" verkauft, ist aber vor allem eine Abgrenzungsentscheidung:
     sie verweigert dem digitalen Menschen jede eigene Rechtsposition und verlagert alles auf die Werkebene.
@@ -810,7 +799,6 @@ urteile:
   - cn-urhg-art-11
   - cn-urhg-art-17
   - cn-urhg-art-10-abs-1-nr-12
-  quelle_art: fehlt
 - id: cn-2026-huangpu-strafurteil
   jurisdiktion: cn
   gericht: 广州市黄埔区人民法院 — Volksgericht des Bezirks Huangpu, Guangzhou
@@ -887,7 +875,6 @@ urteile:
   - cn-urhg-art-3
   - cn-urhg-art-10-abs-1-nr-5
   - cn-urhg-art-53
-  quelle_art: fehlt
 - id: in-2026-ani-openai
   jurisdiktion: in
   gericht: High Court of Delhi at New Delhi (Original Side)
@@ -979,7 +966,6 @@ urteile:
   - in-copyright-s51
   - in-copyright-s52-1-a
   - in-copyright-s62-2
-  quelle_art: amtlich
   sachverhalt: ANI Media Pvt. Ltd. ist eine Nachrichtenagentur mit Hauptsitz in Delhi. Sie stellte fest,
     dass ChatGPT auf entsprechende Eingaben hin Inhalte ihrer Meldungen wiedergab, und legte dazu neun
     Beispielartikel aus August und September 2024 vor; das Training des zugrunde liegenden Modells war
@@ -1039,7 +1025,6 @@ urteile:
     ''originator'', nicht ''intermediary'' i.S.d. IT Act; Zurückweisung des Antrags auf einstweiligen
     Rechtsschutz) ist auf indiankanoon nicht indexi'
   suchadresse: https://www.calcuttahighcourt.gov.in/Judgement-Orders/Judgement
-  quelle_art: fehlt
 - id: in-2023-anil-kapoor
   jurisdiktion: in
   gericht: High Court of Delhi at New Delhi
@@ -1102,7 +1087,6 @@ urteile:
   - in-it-rules-r3-1-b
   - in-it-rules-r3-2-b
   - in-tma-s27-2
-  quelle_art: amtlich
   sachverhalt: Der Schauspieler Anil Kapoor stellte fest, dass eine Vielzahl von Anbietern seinen Namen,
     sein Bild, seine Ähnlichkeit, seine Stimme, seine Sprechweise und seine Gestik ohne Erlaubnis verwendete
     — teils zu unmittelbarer kommerzieller Ausbeutung, teils so, dass der Eindruck einer Empfehlung durch
@@ -1148,7 +1132,7 @@ urteile:
   - in-2023-anil-kapoor
   - in-2026-alakh-pandey
   quelle_tracker: LiveLaw, Analyse vom 06.08.2026 'Regulation by Injunction'
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die erste Bremse in der indischen Linie und die dogmatische Brücke zu Alakh Pandey
     (2026). Die ausdrückliche Erwähnung von KI-Chatbots, die eine Persona nachbilden, ist der eigentlich
@@ -1169,7 +1153,6 @@ urteile:
   - in-const-art-19-1-a
   - in-const-art-21
   - in-tma-s27-2
-  quelle_art: amtlich
 - id: in-2024-arijit-singh
   jurisdiktion: in
   gericht: High Court of Judicature at Bombay
@@ -1205,7 +1188,7 @@ urteile:
   instanzenzug:
   - in-2025-asha-bhosle
   quelle_tracker: Chambers Global Practice Guide Artificial Intelligence 2026 — India; LiveLaw
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Sachlich das indische Gegenstück zur chinesischen Yin-Entscheidung, dogmatisch aber
     radikaler: China verbietet die konkrete Stimmsynthese, Indien verbietet das Werkzeug. Das ist eine
@@ -1231,7 +1214,6 @@ urteile:
   - in-const-art-21
   - in-copyright-s38b
   - in-tma-s27-2
-  quelle_art: amtlich
   sachverhalt: Der Sänger Arijit Singh stellte fest, dass im Internet Werkzeuge angeboten wurden, mit
     denen sich seine Stimme klonen und beliebige Texte in ihrem Klang wiedergeben lassen; daneben wurde
     seine Person kommerziell verwertet. Eine Erlaubnis dazu hatte er niemandem erteilt. Am 26. Juli 2024
@@ -1295,7 +1277,6 @@ urteile:
   - in-const-art-21
   - in-copyright-s38b
   - in-tma-s27-2
-  quelle_art: amtlich
 - id: in-2025-aishwarya-rai
   jurisdiktion: in
   gericht: High Court of Delhi at New Delhi
@@ -1352,7 +1333,6 @@ urteile:
   - in-it-rules-r3-1-b
   - in-it-rules-r3-2-b
   - in-tma-s27-2
-  quelle_art: amtlich
 - id: in-2025-rajat-sharma
   jurisdiktion: in
   gericht: High Court of Delhi at New Delhi
@@ -1390,7 +1370,7 @@ urteile:
   instanzenzug:
   - in-2023-anil-kapoor
   quelle_tracker: LiveLaw
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Der eigentliche Sprengsatz liegt in der Sadhguru-Anordnung: Google soll "Technologie
     einsetzen", um verletzende Inhalte zu entfernen. Das ist eine proaktive Filterpflicht, wie sie der
@@ -1417,7 +1397,6 @@ urteile:
   - in-it-rules-r3-2-a
   - in-it-rules-r3-2-b
   - in-tma-s27-2
-  quelle_art: amtlich
 - id: in-2026-vivek-oberoi
   jurisdiktion: in
   gericht: High Court of Delhi at New Delhi
@@ -1449,7 +1428,7 @@ urteile:
   instanzenzug:
   - in-2023-anil-kapoor
   quelle_tracker: LiveLaw
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Routineentscheidung, hier nur aufgenommen, um die Dichte der Linie zu dokumentieren.
     Zwischen Februar und August 2026 hat allein der Delhi High Court mindestens für Vivek Oberoi, Kajol,
@@ -1474,7 +1453,6 @@ urteile:
   - in-const-art-21
   - in-it-rules-r3-1-b
   - in-tma-s27-2
-  quelle_art: amtlich
 - id: in-2026-yuvraj-singh
   jurisdiktion: in
   gericht: High Court of Delhi at New Delhi
@@ -1508,7 +1486,7 @@ urteile:
   instanzenzug:
   - in-2023-anil-kapoor
   quelle_tracker: LiveLaw
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Erste Entscheidungen dieser Linie, die zeitlich nach dem Inkrafttreten der IT-Änderungsregeln
     2026 ergehen und deren Drei-Stunden-Löschfrist im Hintergrund haben. Die Verzahnung von zivilrechtlicher
@@ -1530,7 +1508,6 @@ urteile:
   - in-it-amend-2026-r2-1-wa
   - in-it-amend-2026-r3-3
   - in-tma-s27-2
-  quelle_art: amtlich
 - id: in-2026-preity-zinta
   jurisdiktion: in
   gericht: High Court of Judicature at Bombay
@@ -1563,7 +1540,7 @@ urteile:
   instanzenzug:
   - in-2024-arijit-singh
   quelle_tracker: LiveLaw
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die Verschiebung der Begründung von der kommerziellen Verwertung zur Privatheit ist
     der dogmatisch wichtige Schritt: Sie öffnet den Schutz für Personen ohne Vermarktungswert. Genau diese
@@ -1580,7 +1557,6 @@ urteile:
   normen:
   - in-const-art-21
   - in-it-rules-r3-1-b
-  quelle_art: fehlt
 - id: in-2026-alakh-pandey
   jurisdiktion: in
   gericht: High Court of Delhi at New Delhi
@@ -1622,7 +1598,7 @@ urteile:
   - in-2023-anil-kapoor
   - in-2024-jackie-shroff
   quelle_tracker: LiveLaw, 22.08.2026
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Die wichtigste indische Entscheidung des Jahres neben ANI. Nach drei Jahren immer
     weiter ausgreifender Verfügungen zieht der Delhi High Court die Bremse und formuliert erstmals die
@@ -1654,7 +1630,6 @@ urteile:
   - in-it-amend-2026-r2-1-wa
   - in-it-rules-r3-1-b
   - in-tma-s27-2
-  quelle_art: amtlich
   sachverhalt: 'Alakh Pandey ist Gründer der Lernplattform Physics Wallah und als Lehrer im Netz bekannt.
     Im Internet kursierten Inhalte, die seine Persona benutzten: sexualisierte Darstellungen, monetarisierte
     Angebote, die mit seiner Person beworben wurden, und Auftritte, die vorgaben, er selbst zu sein —
@@ -1700,7 +1675,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: LiveLaw, 13.08.2026
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Der wichtigste Negativbefund dieser Datei. Der indische Supreme Court — sonst das
     aktivistischste Höchstgericht der Welt, das über PIL Umwelt-, Datenschutz- und Grundrechtsstandards
@@ -1728,7 +1703,6 @@ urteile:
   - in-const-art-19-1-g
   - in-const-art-21
   - in-const-art-32
-  quelle_art: amtlich
   sachverhalt: Narendra Kumar Goswami wandte sich mit einer Popularklage (Public Interest Litigation)
     nach Art. 32 der Verfassung unmittelbar an den Supreme Court of India. Er machte geltend, Bund und
     Länder setzten künstliche Intelligenz ein, ohne dass dafür Mindestgarantien bestünden, und verlangte,
@@ -1791,7 +1765,6 @@ urteile:
     und hat einen Senior Counsel zur Unterstützung bestellt.'
   - 'Weitere Verfahrensstände desselben Verfahrens: 05.05.2026 (https://indiankanoon.org/doc/171245965/),
     26.05.2026 (https://indiankanoon.org/doc/64032081/).'
-  quelle_art: amtlich
 - id: in-2026-gujarat-deepfake-pil
   jurisdiktion: in
   gericht: High Court of Gujarat at Ahmedabad
@@ -1828,7 +1801,7 @@ urteile:
   - in-it-amendment-rules-2026
   instanzenzug: []
   quelle_tracker: LiveLaw
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Anhängig und deshalb zu verfolgen: Wenn der Gujarat High Court eine staatliche Handlungspflicht
     bejaht, entsteht in Indien verfassungsrechtlicher Druck auf ein KI-Gesetz, den der Supreme Court im
@@ -1849,7 +1822,6 @@ urteile:
   - in-it-amend-2026-r3-3
   - in-it-amend-2026-r4-1a
   - in-it-rules-r3-1-b
-  quelle_art: fehlt
 - id: in-2023-sahni-raghav-urheberamt
   jurisdiktion: in
   gericht: Copyright Office, Government of India; verbunden mit Verfahren vor dem High Court of Delhi
@@ -1904,7 +1876,6 @@ urteile:
   - in-copyright-s13
   - in-copyright-s17
   - in-copyright-s2-d
-  quelle_art: fehlt
 - id: jp-2024-dabus-tokio
   jurisdiktion: jp
   gericht: 東京地方裁判所 — Tokyo District Court (Bezirksgericht Tokio)
@@ -1961,7 +1932,6 @@ urteile:
   - jp-patg-art-2-abs-1
   - jp-patg-art-29-abs-1
   - jp-patg-art-36-abs-1-nr-2
-  quelle_art: amtlich
 - id: jp-2025-dabus-ip-obergericht
   jurisdiktion: jp
   gericht: 知的財産高等裁判所 — Intellectual Property High Court (IP-Obergericht)
@@ -2012,7 +1982,6 @@ urteile:
   - jp-patg-art-2-abs-1
   - jp-patg-art-29-abs-1
   - jp-patg-art-36-abs-1-nr-2
-  quelle_art: amtlich
 - id: jp-2026-dabus-obergerichtshof
   jurisdiktion: jp
   gericht: 最高裁判所 第二小法廷 — Supreme Court of Japan, Second Petty Bench
@@ -2101,7 +2070,6 @@ urteile:
   normen:
   - jp-patg-art-2-abs-1
   - jp-patg-art-29-abs-1
-  quelle_art: fehlt
 - id: jp-2025-nikkei-asahi-perplexity
   jurisdiktion: jp
   gericht: 東京地方裁判所 — Tokyo District Court (Bezirksgericht Tokio)
@@ -2187,7 +2155,6 @@ urteile:
   suchadresse: 'https://www.courts.go.jp/app/hanrei_jp/search1 (nach Verkündung eines Urteils; Gericht:
     東京地方裁判所)'
   verfahrensstadium: Klageerhebung — noch keine Entscheidung
-  quelle_art: fehlt
 - id: jp-2025-yomiuri-perplexity
   jurisdiktion: jp
   gericht: 東京地方裁判所 — Tokyo District Court (Bezirksgericht Tokio)
@@ -2220,7 +2187,7 @@ urteile:
   - jp-urhg-30-4
   instanzenzug:
   - jp-2025-nikkei-asahi-perplexity
-  quelle_tracker: Modellwissen; in dieser Sitzung NICHT belegbar. Vor Zitierung prüfen.
+  quelle_tracker: Modellwissen; NICHT belegbar. Vor Zitierung prüfen.
   verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Als erstes der drei japanischen Verlagsverfahren erhoben und deshalb für die zeitliche
@@ -2247,7 +2214,6 @@ urteile:
   - jp-urhg-art-30-4-vorbehalt
   - jp-urhg-art-47-5
   - jp-urhg-art-47-5-abs-1-nr-2
-  quelle_art: fehlt
 - id: kr-2023-dabus-verwaltungsgericht
   jurisdiktion: kr
   gericht: 서울행정법원 — Seoul Administrative Court (Verwaltungsgericht Seoul)
@@ -2277,7 +2243,7 @@ urteile:
   instanzenzug:
   - kr-2024-dabus-obergericht
   quelle_tracker: Chambers Global Practice Guide Artificial Intelligence 2026 — South Korea
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Ergebnisgleich mit Japan, UK und den USA.
 
@@ -2298,7 +2264,6 @@ urteile:
   normen:
   - kr-patentgesetz-art-2
   - kr-patentgesetz-art-33
-  quelle_art: fehlt
 - id: kr-2024-dabus-obergericht
   jurisdiktion: kr
   gericht: 서울고등법원 — Seoul High Court (Obergericht Seoul); Revision beim 대법원 (Obersten Gerichtshof)
@@ -2352,7 +2317,6 @@ urteile:
   normen:
   - kr-patentgesetz-art-2
   - kr-patentgesetz-art-33
-  quelle_art: fehlt
 - id: kr-2025-rundfunk-naver
   jurisdiktion: kr
   gericht: 서울중앙지방법원 제63민사부 — Seoul Central District Court, 63. Zivilkammer
@@ -2427,7 +2391,6 @@ urteile:
   - kr-urhg-art-2-nr-1
   - kr-urhg-art-22
   - kr-urhg-art-35-5
-  quelle_art: fehlt
 - id: kr-2021-pipc-scatterlab
   jurisdiktion: kr
   gericht: 개인정보보호위원회 — Personal Information Protection Commission (PIPC)
@@ -2522,7 +2485,6 @@ urteile:
   - kr-pipa-art-28-5
   - kr-pipa-art-3
   - kr-pipa-art-64-2
-  quelle_art: amtlich
   sachverhalt: Die 주식회사 스캐터랩 (ScatterLab Co., Ltd.) betrieb die Dienste 텍스트앳 (TextAt) und 연애의 과학 (Science
     of Love), in denen Nutzerinnen und Nutzer ihre KakaoTalk-Verläufe hochluden, um sie auswerten zu lassen.
     Aus diesen Nachrichten baute das Unternehmen die Trainingsdaten für den Chatbot 이루다 (Iruda, „Lee Luda"),
@@ -2588,7 +2550,6 @@ urteile:
   - tw-patentgesetz-sec-5
   - tw-urhg-sec-10
   - tw-urhg-sec-3-abs-1-nr-1
-  quelle_art: fehlt
 - id: sg-2020-quoine-b2c2
   jurisdiktion: sg
   gericht: Singapore Court of Appeal (Singapore International Commercial Court, Berufungsinstanz)
@@ -2620,7 +2581,7 @@ urteile:
   bezug_regelwerke: []
   instanzenzug: []
   quelle_tracker: Chambers Global Practice Guide Artificial Intelligence 2026 — Singapore
-  verifiziert: true
+  verifiziert: false
   letzte_pruefung: 2026-09-03
   eigene_bewertung: 'Bis heute die einzige veröffentlichte Entscheidung Singapurs mit KI-Bezug und die
     weltweit meistzitierte Entscheidung zum algorithmischen Vertragsschluss. Ihre Grenze benennt sie selbst:
@@ -2649,7 +2610,6 @@ urteile:
   - sg-eta-s15
   - sg-eta-s16
   - sg-eta-s2-automated-message-system
-  quelle_art: fehlt
 - id: sg-2025-cccs-fake-bewertungen
   jurisdiktion: sg
   gericht: Competition and Consumer Commission of Singapore (CCCS)
@@ -2703,7 +2663,6 @@ urteile:
     betroffener Kunden, Aushang, Löschung der Bewertungen).'
   - 'DOKUMENTTYP-VORBEHALT: Die CCCS hat keine förmliche Entscheidung erlassen, sondern Unterlassungserklärungen
     entgegengenommen; die Media Release ist die einzige amtliche Verlautbarung.'
-  quelle_art: amtlich
 - id: il-2026-ramat-gan
   jurisdiktion: il
   gericht: בית המשפט העליון בשבתו כבית משפט לערעורים בעניינים מנהליים — Supreme Court of Israel als Gericht
@@ -2836,7 +2795,6 @@ urteile:
   aktenzeichen_original: 'עע"מ 63194-08-25 — נבו בן כהן נ'' עיריית רמת גן ואח''; Vorinstanz: עת"מ 53460-06-25,
     Bezirksgericht Tel Aviv-Jaffa als Verwaltungsgericht, Richterin K. Wardi, Entscheidung vom 03.08.2025'
   dokumenttyp: Urteil (פסק דין) des Obersten Gerichtshofs, PDF aus der amtlichen Entscheidungssammlung
-  quelle_art: amtlich
   sachverhalt: Nevo Ben Cohen (נבו בן כהן) ist Schüler der Sonderpädagogik. Sein Vater beantragte für
     ihn bei der Stadtverwaltung Ramat Gan (עיריית רמת גן) die Schülerbeförderung von der Adresse des Vaters
     aus. Die Stadt lehnte ab und stützte ihre Begründung auf ein Rundschreiben des Bildungsministeriums,
@@ -2907,7 +2865,6 @@ urteile:
   - il-patents-law-sec-39
   - il-patents-law-sec-42
   - il-patents-law-sec-76
-  quelle_art: fehlt
 - id: il-2022-mor-tdm-stellungnahme
   jurisdiktion: il
   gericht: משרד המשפטים, ייעוץ וחקיקה (משפט אזרחי) — Ministry of Justice, Deputy Attorney General (Civil
@@ -2981,7 +2938,6 @@ urteile:
   - il-copyright-sec-19
   - il-copyright-sec-22
   - il-copyright-sec-26
-  quelle_art: amtlich
 - id: br-2024-anpd-meta
   jurisdiktion: br
   gericht: Autoridade Nacional de Proteção de Dados (ANPD) — Nationale Datenschutzbehörde Brasiliens
@@ -3095,7 +3051,6 @@ urteile:
   aktenzeichen_original: VOTO Nº 11/2024/DIR-MW/CD, PROCESSO Nº 00261.004509/2024-36; umgesetzt durch
     Despacho Decisório nº 20/2024/PR/ANPD (DOU vom 02.07.2024)
   parteien_beklagter: Meta Platforms, Inc. und Facebook Serviços Online do Brasil Ltda.
-  quelle_art: amtlich
   sachverhalt: Meta kündigte an, die personenbezogenen Daten seiner Nutzerinnen und Nutzer in Brasilien
     künftig zum Training generativer KI-Modelle zu verwenden, und änderte dafür seine Datenschutzrichtlinie.
     Betroffen waren auch Daten von Kindern und Jugendlichen sowie von Personen, die die Dienste selbst
@@ -3221,7 +3176,6 @@ urteile:
   - br-cpp-art-155
   - br-cpp-art-158
   - br-cpp-art-159
-  quelle_art: amtlich
   sachverhalt: Nach einem Fußballspiel in Mirassol im Bundesstaat São Paulo soll ein Beteiligter eine
     rassistische Beleidigung ausgesprochen haben (injúria racial). Das amtliche kriminaltechnische Institut
     wertete die Tonaufnahme aus und konnte das behauptete Schimpfwort darin nicht feststellen. Die Ermittler
@@ -3293,7 +3247,6 @@ urteile:
   - br-cpc-art-77
   - br-cpc-art-80
   - br-cpc-art-81
-  quelle_art: fehlt
 - id: br-2026-natura-ki-fundstellen
   jurisdiktion: br
   gericht: brasilianisches Gericht (Instanz und Bundesstaat nicht ermittelt)
@@ -3341,7 +3294,6 @@ urteile:
   normen:
   - br-cpc-art-80
   - br-cpc-art-81
-  quelle_art: fehlt
 - id: co-2024-t-323-chatgpt-richter
   jurisdiktion: co
   gericht: Corte Constitucional de Colombia, Sala Segunda de Revisión — Verfassungsgericht Kolumbiens,
@@ -3412,7 +3364,6 @@ urteile:
   - co-constitucion-art-29
   - co-constitucion-art-86
   - co-ley-2213-2022-art-2
-  quelle_art: amtlich
   sachverhalt: Eine Mutter, im Verfahren „Blanca" genannt, verlangte für ihr Kind mit Autismus-Spektrum-Störung
     von der Krankenkasse Salud Total EPS-S die Befreiung von Zuzahlungen und die Übernahme der Beförderungskosten
     zu den Therapien; sie erhob dafür Tutela. Über die Berufung entschied ein Juzgado del Circuito. Dieses
@@ -3515,7 +3466,6 @@ urteile:
   - co-pcsja24-12243-art-10
   - co-pcsja24-12243-art-3
   - co-pcsja24-12243-art-8
-  quelle_art: fehlt
 - id: mx-2025-scjn-amparo-6-2025
   jurisdiktion: mx
   gericht: 'Suprema Corte de Justicia de la Nación (SCJN), Segunda Sala — Oberster Gerichtshof Mexikos,
@@ -3611,7 +3561,6 @@ urteile:
     ungeeignet und erfahrungsgemaess nicht dauerhaft abrufbar. Da volltext_url auf das amtliche PDF der
     SCJN verweist, kann das Feld entfallen; sonst ist eine Fachquelle zu setzen.. Beleg: Eigener Feldbestand
     des Eintrags.'
-  quelle_art: amtlich
   sachverhalt: 'Gerald García Báez erzeugte mit dem Programm Leonardo AI einen virtuellen Avatar und meldete
     ihn beim Instituto Nacional del Derecho de Autor (INDAUTOR) zur Eintragung an. INDAUTOR wies die Anmeldung
     im August 2024 zurück. García Báez formulierte sein Begehren daraufhin um: Die Verwertungsrechte beanspruchte
@@ -3692,7 +3641,6 @@ urteile:
     Undécima Época, Libro 53, Septiembre de 2025, Tomo I, Volumen 1, página 96. Die bisher hinterlegte
     Datei aus dem Ordner acuerdos_controversias_constit ist ein Verfahrensdokument, nicht die veroeffentlichte
     Endfassung; die Fundstelle im Semanario ist die zitierfaehige.'
-  quelle_art: amtlich
 - id: mx-2024-scjn-ai-80-2024
   jurisdiktion: mx
   gericht: Suprema Corte de Justicia de la Nación (SCJN), Pleno
@@ -3753,7 +3701,6 @@ urteile:
   - mx-cpeum-art-14
   - mx-cpeum-art-16
   - mx-zacatecas-ldnna-art-9-iii-c
-  quelle_art: amtlich
 - id: mx-2024-scjn-ai-104-2024
   jurisdiktion: mx
   gericht: Suprema Corte de Justicia de la Nación (SCJN), Pleno
@@ -3825,7 +3772,6 @@ urteile:
   - mx-cpeum-art-14
   - mx-cpeum-art-16
   - mx-quintanaroo-cp-agravante-ia
-  quelle_art: amtlich
 - id: mx-2026-jurisprudencia-ki-justiz
   jurisdiktion: mx
   gericht: Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito (Toluca, Estado de México)
@@ -3975,7 +3921,6 @@ urteile:
   - mx-cpeum-art-17
   - mx-lgpdppso-art-41-fr-2
   - mx-lgpdppso-art-68
-  quelle_art: amtlich
   sachverhalt: Der Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito in Toluca hatte in
     Amparo-Verfahren wiederholt die Höhe von Sicherheitsleistungen zu bestimmen — eine Rechenaufgabe aus
     Wertfortschreibung, Zinsanwendung und Fristgewichtung. Der Spruchkörper benutzte dafür KI-Werkzeuge
@@ -4108,7 +4053,6 @@ urteile:
   - ar-cpp-chubut-art-162
   - ar-cpp-chubut-art-163
   - ar-cpp-chubut-art-164
-  quelle_art: amtlich
   sachverhalt: 'Richter Carlos Rogelio Richeri verurteilte Raúl Amelio Payalef am 4. Juni 2025 am Strafgericht
     Esquel in der Provinz Chubut zu zwei Jahren und sechs Monaten Freiheitsstrafe. Im Text des Urteils
     blieb ein Satz stehen, der nicht vom Gericht stammte, sondern von einem KI-Assistenten: „Aquí tienes

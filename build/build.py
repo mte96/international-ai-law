@@ -116,6 +116,79 @@ prio = {l["id"]: {"pflicht":0,"wichtig":1}.get(l.get("prioritaet"), 2) for l in 
 for st in streitstaende:
     st["_literatur"] = sorted(st.get("_literatur") or [], key=lambda i: prio.get(i, 2))
 
+# --- Quellenklasse je Feld -------------------------------------------
+# Eine Angabe traegt nur so weit wie die Quelle, an der sie steht. Das
+# wusste die App bisher nur fuer Entscheidungen (`quelle_art`); fuer
+# Inkrafttretensdaten, Anwendungsdaten, Verfahrensdokumente, Fristen und
+# Vorschriften stand daneben nur ein Ja/Nein, das an keine Quelle
+# gebunden war. Gemessen am 10.09.2026: 706 Felder mit `verifiziert:
+# true` auf einer Kanzleiseite, einem Presseartikel oder Wikipedia.
+#
+# Die Klasse wird hier erzeugt, nicht in data/ gefuehrt: sie ist eine
+# Ableitung aus der Adresse. Ein abgeleiteter Wert, der doppelt gefuehrt
+# wird, laeuft irgendwann auseinander - genau das ist `quelle_art`
+# passiert, das im Bestand 278 amtliche Fundstellen auswies, wo die
+# host-basierte Einstufung 257 zaehlt.
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parent))
+from quellenklasse import klasse as _klasse
+
+_RANG = {"amtlich": 0, "urheber": 1, "datenbank": 2, "sekundaer": 3, "fehlt": 4}
+
+
+def _beste(klassen):
+    """Die beste Quelle, die ein Eintrag hat - so wird er einsortiert."""
+    return min(klassen, key=lambda k: _RANG[k], default="fehlt")
+
+
+for _r in regelwerke:
+    _alle = []
+    _ik = _r.get("inkrafttreten")
+    if isinstance(_ik, dict):
+        _ik["_klasse"] = _klasse(_ik.get("quelle"))
+        _alle.append(_ik["_klasse"])
+    for _a in _r.get("anwendungsdaten") or []:
+        if isinstance(_a, dict):
+            _a["_klasse"] = _klasse(_a.get("quelle"))
+            _alle.append(_a["_klasse"])
+    for _d in _r.get("dokumente") or []:
+        if isinstance(_d, dict):
+            _d["_klasse"] = _klasse(_d.get("url"))
+            _alle.append(_d["_klasse"])
+    _r["_quellenlage"] = _beste(_alle)
+
+for _u in urteile:
+    # Ueberschreibt, was in data/ steht: das Feld ist als abgeleitet
+    # ausgewiesen (schema.yaml Z. 112) und wird nicht von Hand gesetzt.
+    _u["quelle_art"] = _klasse(_u.get("volltext_url"))
+
+for _f in fristen:
+    _f["_klasse"] = _klasse(_f.get("quelle"))
+
+for _n in normen:
+    _n["_klasse"] = _klasse(_n.get("amtlicher_text_url"))
+
+# Zaehlwerk fuer den Startbildschirm: was die Datenbasis ueber sich
+# selbst sagen darf. "2040 Verfahrensdokumente - verlinkt und geprueft"
+# stand bisher im Kennzahlenblock; 577 davon tragen `verifiziert: false`.
+def _zaehle_klassen(felder):
+    from collections import Counter as _C
+    return dict(_C(felder))
+
+
+_dok_klassen = [_d.get("_klasse", "fehlt") for _r in regelwerke
+                for _d in _r.get("dokumente") or [] if isinstance(_d, dict)]
+_ik_klassen = [_r["inkrafttreten"]["_klasse"] for _r in regelwerke
+               if isinstance(_r.get("inkrafttreten"), dict)]
+_quellenlage = {
+    "dokumente": _zaehle_klassen(_dok_klassen),
+    "inkrafttreten": _zaehle_klassen(_ik_klassen),
+    "urteile": _zaehle_klassen([_u["quelle_art"] for _u in urteile]),
+    "fristen": _zaehle_klassen([_f["_klasse"] for _f in fristen]),
+    "regelwerke_ohne_amtlich": sum(
+        1 for _r in regelwerke if _r["_quellenlage"] not in ("amtlich", "urheber")),
+}
+
 daten = {
     "erzeugt": heute.isoformat(),
     "suchfelder": SUCHFELDER,
@@ -146,6 +219,7 @@ daten = {
         "urteile_hoch": sum(1 for u in urteile if u.get("bedeutung") == "hoch"),
         "urteile_unverifiziert": sum(1 for u in urteile if u.get("verifiziert") is False),
         "urteile_amtlich": sum(1 for u in urteile if u.get("quelle_art") == "amtlich"),
+        "quellenlage": _quellenlage,
         "dokumente": sum(len(r.get("dokumente") or []) for r in regelwerke),
         "jurisdiktionen_belegt": len({r.get("jurisdiktion") for r in regelwerke}),
     },

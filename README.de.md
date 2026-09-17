@@ -37,8 +37,8 @@ Sonderweg übersehen wird, weil das Land klein ist.
 ![Rechtsprechung mit Fundstellen- und Prüfkennzeichnung](docs/bilder/04-rechtsprechung.png)
 
 Die Rechtsprechung. Jeder Eintrag sagt, ob er auf einem amtlichen Volltext
-ruht und ob er am Primärdokument geprüft ist — 418 Entscheidungen, 278 mit
-amtlicher Fundstelle, 93 nicht verifiziert.
+ruht und ob er am Primärdokument geprüft ist — 418 Entscheidungen, 257 mit
+amtlicher Fundstelle, 50 nur über eine Rechtsdatenbank, 111 ohne Volltext.
 
 ![Alle Entscheidungen zu einer Vorschrift, rechtsordnungsübergreifend](docs/bilder/06-vorschriften.png)
 
@@ -56,9 +56,9 @@ Arbeitsvorrat.
 | | |
 |---|---|
 | Regelwerke | **861** aus 50 Rechtsordnungen |
-| Verfahrensdokumente | **2040**, 72 % am Dokument geprüft |
+| Verfahrensdokumente | **2040**, 71 % mit amtlicher Adresse, 51 % am Dokument geprüft |
 | Einzelvorschriften | **2068**, davon 665 mit Wortlaut und amtlichem Link |
-| Entscheidungen | **418**, 66 % mit amtlichem Volltext |
+| Entscheidungen | **418**, 61 % mit amtlichem Volltext |
 | Streitstände | **24** mit 194 Positionen |
 | Literatur | **558** Titel |
 | Fristen | **295** mit Vorwarnung und Kalenderausgabe |

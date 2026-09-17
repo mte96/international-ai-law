@@ -37,8 +37,9 @@ path is not missed because the country is small.
 ![Case law with source and verification badges](docs/bilder/04-rechtsprechung.png)
 
 Case law. Every entry says whether it rests on an official full text and
-whether it has been checked against the primary document — 418 decisions, 278
-with an official citation, 93 not verified against the primary document.
+whether it has been checked against the primary document — 418 decisions, 257
+with an official citation, 50 held only by a legal database, 111 with no full
+text at all.
 
 ![All decisions on one provision, across jurisdictions](docs/bilder/06-vorschriften.png)
 
@@ -55,9 +56,9 @@ The coverage matrix. Empty cells are not an omission but the work queue.
 | | |
 |---|---|
 | Instruments | **861** across 50 jurisdictions |
-| Procedural documents | **2040**, 72 % checked against the document |
+| Procedural documents | **2040**, 71 % with an official address, 51 % checked against the document |
 | Individual provisions | **2068**, 665 of them with wording and an official link |
-| Decisions | **418**, 66 % with official full text |
+| Decisions | **418**, 61 % with official full text |
 | Controversies | **24** with 194 opposing positions |
 | Commentary | **558** titles |
 | Deadlines | **295** with advance warning and calendar export |

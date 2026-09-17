@@ -501,10 +501,8 @@ regelwerke:
     sprache: es
     urheber: Diario Oficial El Peruano / Presidencia del Consejo de Ministros
     verifiziert: true
-    notiz: 'Ersatzbeleg. Der amtliche Titel und der Regelungsgegenstand der Ley N.º 31814 sind hier verifiziert;
-      der Volltext des Gesetzes selbst konnte in dieser Sitzung nicht abgerufen werden (siehe offene_punkte).
-
-      '
+    notiz: Ersatzbeleg. Der amtliche Titel und der Regelungsgegenstand der Ley N.º 31814 sind hier verifiziert;
+      Der Volltext des Gesetzes selbst konnte nicht abgerufen werden (siehe offene_punkte).
   offene_punkte:
   - 'NICHT VERIFIZIERT: der Volltext und das genaue Veröffentlichungsdatum der Ley N.º 31814. Gesucht
     wurde (a) über busquedas.elperuano.pe/dispositivo/NL/<id>-1 mit rund dreißig sondierten Publikations-IDs
@@ -742,11 +740,8 @@ regelwerke:
     sprache: es
     urheber: Diario Oficial de la República de Chile
     verifiziert: false
-    notiz: 'Die URL ist von der amtlichen Seite der ANCI übernommen und dort verifiziert; der Abruf des
-      PDF selbst war in dieser Sitzung nicht möglich, weil diariooficial.interior.gob.cl das Abrufwerkzeug
-      über robots.txt sperrt.
-
-      '
+    notiz: Die URL ist von der amtlichen Seite der ANCI übernommen und dort verifiziert; der Abruf des PDF
+      selbst war nicht möglich, weil diariooficial.interior.gob.cl das Abrufwerkzeug über robots.txt sperrt.
   - datum: 2024-04-08
     typ: konsolidiert
     titel: Ley N° 21.663 — konsolidierte Fassung in LeyChile (idNorma 1202434)
@@ -754,11 +749,9 @@ regelwerke:
     sprache: es
     urheber: Biblioteca del Congreso Nacional de Chile
     verifiziert: true
-    notiz: 'Die idNorma 1202434 ist von der amtlichen ANCI-Seite übernommen und stimmt mit dem in dieser
-      Sitzung sondierten Publikationsdatum (08.04.2024) überein. Der XML-Volltext unter https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1202434
+    notiz: Die idNorma 1202434 ist von der amtlichen ANCI-Seite übernommen und stimmt mit dem sondierten Publikationsdatum
+      (08.04.2024) überein. Der XML-Volltext unter https://www.bcn.cl/leychile/consulta/obtxml?opt=7&idNorma=1202434
       war am Ende der Sitzung wegen anhaltender HTTP-429-Antworten des BCN-Dienstes nicht mehr abrufbar.
-
-      '
   - datum: 2026-09-06
     typ: uebersicht
     titel: Normativa der Agencia Nacional de Ciberseguridad zur Ley Marco
