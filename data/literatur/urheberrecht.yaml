@@ -353,13 +353,13 @@ literatur:
   - urheberrecht
   - content
   bezug_streitstaende:
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   - fair-use-training
   kernthese: 'Generative KI kehrt die urheberrechtliche Grundstruktur um: Die schöpferische Leistung liegt
     nicht mehr in der Ausführung, sondern in der Frage — und genau die schützt das Urheberrecht nicht.'
   prioritaet: wichtig
   lesestatus: ungelesen
-  eigene_bewertung: 'Die klarste Formulierung des Grundproblems hinter dem Streitstand `schutzfähigkeit-output`.
+  eigene_bewertung: 'Die klarste Formulierung des Grundproblems hinter dem Streitstand `schutzfaehigkeit-output`.
     Lemleys Befund erklärt, warum die USA (Human Authorship, Prompt genügt nicht), China (Li ./. Liu:
     Steuerungstiefe genügt) und Mexiko (kein Schutz, Gemeinfreiheit) zu drei verschiedenen Ergebnissen
     kommen können, ohne dass eine der drei Positionen dogmatisch zwingend falsch wäre: Sie gewichten dieselbe
@@ -388,7 +388,7 @@ literatur:
   - content
   bezug_streitstaende:
   - fair-use-training
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   kernthese: Die urheberrechtlichen Fragen der generativen KI zerfallen in drei getrennte Komplexe — Eingabe,
     Modell, Ausgabe —, die nicht einheitlich beantwortet werden können.
   prioritaet: wichtig
@@ -419,7 +419,7 @@ literatur:
   - urheberrecht
   - content
   bezug_streitstaende:
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   bezug_urteile:
   - us-2025-thaler-dc-circuit
   - cn-2023-li-liu
@@ -581,7 +581,7 @@ literatur:
   bezug_regelwerke:
   - us-copyright-ai-bericht
   bezug_streitstaende:
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   bezug_urteile:
   - us-2025-thaler-dc-circuit
   - us-2024-allen-perlmutter
@@ -589,7 +589,7 @@ literatur:
     Auswahl, Anordnung, Bearbeitung —, nicht das KI-generierte Material selbst.
   prioritaet: wichtig
   lesestatus: ungelesen
-  eigene_bewertung: 'Die maßgebliche Darlegung der amerikanischen Position im Streitstand `schutzfähigkeit-output`
+  eigene_bewertung: 'Die maßgebliche Darlegung der amerikanischen Position im Streitstand `schutzfaehigkeit-output`
     und der direkte Gegenpol zu Li ./. Liu. Der Bericht ist dogmatisch sorgfältiger als Teil 3 und politisch
     unbelastet. Wichtig für den Rechtsvergleich ist seine ausdrückliche Ablehnung eines Sui-generis-Rechts
     für computergenerierte Erzeugnisse — dieselbe Entscheidung, die das Vereinigte Königreich im März
@@ -1594,7 +1594,7 @@ literatur:
   - de-urhg-tdm
   bezug_streitstaende:
   - tdm-schranke-de
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   kernthese: Das Urheberrecht bewältigt die KI-Herausforderung nur, wenn es die Regulierungslast vom Ausschliesslichkeitsrecht
     auf Transparenz- und Vergütungspflichten verlagert.
   prioritaet: optional
@@ -1791,7 +1791,7 @@ literatur:
   - governance
   bezug_streitstaende:
   - modellgewichte-kopie
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   - tdm-schranke-de
   kernthese: Modellparameter sind als bloße Zahlenwerte nicht schutzfähig und enthalten keine Werkvervielfältigungen;
     erforderlich ist eine gesetzliche Lizenz mit maschinenlesbarem Opt-out.
@@ -2146,7 +2146,7 @@ literatur:
   - urheberrecht
   - content
   bezug_streitstaende:
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   bezug_urteile:
   - cn-2023-li-liu
   - us-2025-thaler-dc-circuit
@@ -2154,7 +2154,7 @@ literatur:
     an: Peking lässt iteratives Prompting genügen, Washington nicht.'
   prioritaet: wichtig
   lesestatus: ungelesen
-  eigene_bewertung: 'Die genaueste Gegenüberstellung der beiden Pole des Streitstands `schutzfähigkeit-output`.
+  eigene_bewertung: 'Die genaueste Gegenüberstellung der beiden Pole des Streitstands `schutzfaehigkeit-output`.
     Wichtig ist Suns Nachweis, dass es nicht um "Mensch oder Maschine" geht, sondern um die Frage, welche
     Art von Steuerung als schöpferisch zählt — was die vermeintliche Prinzipiendivergenz auf eine Schwellenfrage
     reduziert. Hinter Wiley-Schranke; ein Preprint war nicht auffindbar.
@@ -2184,7 +2184,7 @@ literatur:
   - urheberrecht
   - content
   bezug_streitstaende:
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   bezug_urteile:
   - cn-2023-li-liu
   - us-2025-thaler-dc-circuit
@@ -2229,7 +2229,7 @@ literatur:
   - uk-cdpa-1988
   bezug_streitstaende:
   - tdm-schranke-de
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   bezug_urteile:
   - uk-2025-getty-stability
   kernthese: Die Regierung verwirft die bevorzugte Lösung einer weiten Schranke mit Opt-out, verzichtet
@@ -2243,7 +2243,7 @@ literatur:
     technisch nicht umsetzbar. Genau das ist die Kritik, die Keller am OLG Hamburg übt. Zweitens: Die
     geplante Streichung von s. 9(3) CDPA beseitigt das einzige Sui-generis-Recht an computergenerierten
     Werken in einer großen Rechtsordnung und stellt das Vereinigte Königreich auf die amerikanische Seite
-    des Streitstands `schutzfähigkeit-output`. Die Konsultationsantworten von 2025 sind über die Regierungsseite
+    des Streitstands `schutzfaehigkeit-output`. Die Konsultationsantworten von 2025 sind über die Regierungsseite
     mitverlinkt; die wissenschaftlich gehaltvollste ist die von CREATe (gesondert erfasst).
 
     '
@@ -2390,7 +2390,7 @@ literatur:
     ein Kategorienfehler.
 
     '
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   normen:
   - urhg-16
   - uk-cdpa-1988-s-22
@@ -2502,7 +2502,7 @@ literatur:
   - ki-vo-2024-1689
   bezug_streitstaende:
   - tdm-schranke-de
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   kernthese: Das Opt-out-Regime des Art. 4 DSM-RL ist gescheitert und sollte durch harmonisierte Vorbehaltsmechanismen,
     verbindliche Transparenz und angemessene Lizenzmodelle ersetzt werden.
   prioritaet: wichtig
@@ -2621,7 +2621,7 @@ literatur:
   bezug_streitstaende:
   - fair-use-training
   - tdm-schranke-de
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   kernthese: 'Eingabe- und Ausgabeseite sind ökonomisch verkoppelt: Wer die Eingabe verteuert, verändert
     nicht nur die Kosten der Modellentwicklung, sondern auch die Anreize zur Produktion neuer Werke.'
   prioritaet: wichtig
@@ -2805,7 +2805,7 @@ literatur:
   - content
   bezug_streitstaende:
   - tdm-schranke-de
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   bezug_regelwerke:
   - dsm-richtlinie-tdm-urheberrecht-ki
   - de-urhg-tdm
@@ -2856,7 +2856,7 @@ literatur:
   - vertrag
   - governance
   bezug_streitstaende:
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   bezug_regelwerke:
   - ki-vo-2024-1689
   - dsgvo-schnittstelle
@@ -2910,7 +2910,7 @@ literatur:
   bezug_streitstaende:
   - fair-use-training
   - modellgewichte-kopie
-  - schutzfähigkeit-output
+  - schutzfaehigkeit-output
   kernthese: Die juristische Debatte über generative KI scheitert überwiegend nicht an Rechtsfragen, sondern
     daran, dass Juristen und Informatiker dieselben Wörter — Modell, Kopie, Memorisierung, Datensatz —
     für verschiedene Sachen benutzen.

@@ -240,6 +240,171 @@ if _db:
                      f"eine Datenbank statt der Urschrift - fuer eine Veroeffentlichung "
                      f"ist die amtliche Fassung heranzuziehen")
 
+# =====================================================================
+# Ab hier die Pruefungen, die der Pruefbericht vom 10./11.09.2026
+# vermisst hat (Abschnitt 3.6): von 40 Regelwerksfeldern fasste diese
+# Datei 17 an, die Pflichtfeldlisten nie, die Typen nie, die
+# verschachtelten Felder nie. Der Schaden war messbar: die frueher
+# aktive Umlaut-Heuristik hat vier Fristen- und vierzehn
+# Literaturverweise unbrauchbar gemacht ("oecd" -> "oecd" mit o-Umlaut),
+# und niemand hat es bemerkt, weil genau diese Felder ausgelassen waren.
+#
+# Grundsatz: Ein Feld ohne Pruefung laeuft irgendwann mit einem falschen
+# Wert ein. Neue Felder gehoeren ins Schema, neue Werte in die Taxonomie,
+# und beides wird hier abgefragt.
+# =====================================================================
+
+# Der Bestand einmal einlesen, statt fuer jede Pruefung neu ueber die
+# 140 Dateien zu laufen.
+BESTAND = {s: [] for s in _GATT}
+for _pfad, _doc in lade("data/**/*.yaml"):
+    for _s in _GATT:
+        for _e in _doc.get(_s) or []:
+            if isinstance(_e, dict):
+                BESTAND[_s].append((_pfad, _e))
+
+_IDS = {s: {e.get("id") for _p, e in E} for s, E in BESTAND.items()}
+
+
+def _kurz(pfad):
+    return str(Path(pfad).relative_to(ROOT))
+
+
+# --- Pflichtfelder ------------------------------------------------------
+# Standen seit je in schema.yaml und wurden nie abgefragt. Neun Fristen
+# ohne `datum` sind so durchgelaufen: build.py setzt ihnen `_tage: null`,
+# die Kalenderdatei laesst sie aus, und in der App stehen sie als Karte
+# ohne Termin - eine Frist, die keine ist.
+for _s, _gatt in _GATT.items():
+    _pflicht = (_schema.get(_gatt) or {}).get("pflichtfelder") or []
+    for _pfad, _e in BESTAND[_s]:
+        for _p in _pflicht:
+            if _e.get(_p) not in (None, "", [], {}):
+                continue
+            # Eine Frist ohne Termin ist keine Luecke, wenn der Eintrag
+            # selbst sagt, dass kein Termin veroeffentlicht ist. Was statt
+            # dessen bekannt ist, steht in datum_hinweis. Bisher stand in
+            # solchen Faellen das Wort "offen" im Datumsfeld - eine
+            # Zeichenkette, die durch jede Pruefung fiel.
+            if _gatt == "frist" and _p == "datum" and _e.get("datum_offen") is True:
+                if not _e.get("datum_hinweis"):
+                    warnungen.append(f"{_e.get('id','?')}: datum_offen gesetzt, "
+                                     f"aber kein datum_hinweis - was ist statt "
+                                     f"des Termins bekannt?")
+                continue
+            fehler.append(f"{_e.get('id', _kurz(_pfad))}: Pflichtfeld "
+                          f"'{_p}' fehlt oder ist leer ({_gatt})")
+
+# --- Datumsfelder muessen Daten sein ------------------------------------
+# YAML liest 2026-09-17 als Datum und "2026-09-17 (im Eintrag stand ...)"
+# als Zeichenkette. Beides steht im selben Feld, und nichts hat den
+# Unterschied gemeldet: build.py rechnet die Restlaufzeit nur fuer echte
+# Daten, die Fristenpruefung oben ueberspringt Zeichenketten
+# (isinstance-Abfrage), die Kalenderdatei laesst sie aus. Eine Frist mit
+# Datum als Text ist unsichtbar, ohne dass irgendwo etwas rot wird.
+# Wo ein Datum unsicher ist, gehoert die Unsicherheit in `pruefvermerk`,
+# nicht als Klammerzusatz in das Datumsfeld.
+_DATUMSFELDER = {"datum", "letzte_pruefung"}
+_re_teildatum = re.compile(r"\d{4}(-\d{2})?")
+
+
+def _datum_pruefen(eid, obj, pfad=""):
+    if isinstance(obj, dict):
+        for _k, _v in obj.items():
+            _neu = f"{pfad}.{_k}" if pfad else _k
+            if _k in _DATUMSFELDER and _v is not None and not isinstance(_v, datetime.date):
+                # Zugelassen ist genau eine Ausnahme: eine ausdruecklich
+                # unvollstaendige Angabe, "2022" oder "2022-05". Sie sagt,
+                # was bekannt ist, und erfindet keinen Tag - anders als der
+                # 1. Januar, der im Bestand elfmal als Platzhalter steht.
+                # Alles andere, vor allem ein Datum mit Klammerzusatz, macht
+                # aus dem Feld eine Zeichenkette und die Angabe unsichtbar.
+                if not _re_teildatum.fullmatch(str(_v)):
+                    fehler.append(f"{eid}: '{_neu}' ist kein Datum, sondern "
+                                  f"{type(_v).__name__} ({str(_v)[:60]!r}) - ein "
+                                  f"erlaeuternder Zusatz gehoert in datum_hinweis, "
+                                  f"eine unvollstaendige Angabe lautet '2026' "
+                                  f"oder '2026-05'")
+            else:
+                _datum_pruefen(eid, _v, _neu)
+    elif isinstance(obj, list):
+        for _x in obj:
+            _datum_pruefen(eid, _x, pfad)
+
+
+for _s in BESTAND:
+    for _pfad, _e in BESTAND[_s]:
+        _datum_pruefen(_e.get("id", _kurz(_pfad)), _e)
+
+# --- Verweise, die bisher niemand nachgegangen ist ----------------------
+# `bezug_regelwerke` darf ins Leere zeigen - das ist der Arbeitsvorrat.
+# Die hier genannten Felder duerfen es nicht: sie bezeichnen jeweils ein
+# Stueck Bestand, das es geben muss, damit die App eine Karte, einen
+# Titel oder einen Rueckweg zeigen kann. Zeigen sie daneben, entsteht
+# kein Fehler, sondern eine Luecke, die wie ein Datum aussieht.
+_VERWEISE = [
+    ("fristen", "regelwerk", "regelwerke"),
+    ("fristen", "urteil", "urteile"),
+    ("literatur", "bezug_streitstaende", "streitstaende"),
+    ("streitstaende", "bezug_streitstaende", "streitstaende"),
+    ("urteile", "bezug_streitstaende", "streitstaende"),
+    ("streitstaende", "bezug_literatur", "literatur"),
+    ("regelwerke", "fristen", "fristen"),
+]
+for _s, _feld, _ziel in _VERWEISE:
+    for _pfad, _e in BESTAND.get(_s, []):
+        _w = _e.get(_feld)
+        if _w is None:
+            continue
+        for _ref in ([_w] if isinstance(_w, str) else _w):
+            if not isinstance(_ref, str):
+                continue
+            if _ref not in _IDS[_ziel]:
+                fehler.append(f"{_e.get('id','?')}: {_feld} zeigt auf "
+                              f"'{_ref}' - kein Eintrag dieser Art im Bestand")
+
+# Freitext in Feldern, die eine id tragen sollen. Kein Fehler - das ist
+# Arbeit, nicht Schaden -, aber es soll gezaehlt und sichtbar sein.
+# `normen.via` sagt, ueber welchen Rechtsakt eine Vorschrift hereinkam,
+# `monitoring_quellen`, welche Trackerquelle sie beobachtet. Beides steht
+# heute als Prosa bzw. als Adresse da; die Verbindung Regelwerk<->Tracker
+# gibt es deshalb nicht, obwohl 1494 Werte so aussehen.
+for _s, _feld, _ziel in (("normen", "via", "regelwerke"),
+                         ("normen", "geaendertes_regelwerk", "regelwerke")):
+    _frei = [e.get("id") for _p, e in BESTAND[_s]
+             if isinstance(e.get(_feld), str) and e[_feld] not in _IDS[_ziel]]
+    if _frei:
+        warnungen.append(f"normen: {len(_frei)} Eintraege fuehren unter '{_feld}' "
+                         f"Freitext statt einer Regelwerk-id - das Schema sieht "
+                         f"eine id vor")
+_mq = [e.get("id") for _p, e in BESTAND["regelwerke"]
+       for q in (e.get("monitoring_quellen") or [])
+       if isinstance(q, str) and q.startswith("http")]
+if _mq:
+    warnungen.append(f"regelwerke: {len(_mq)} Werte in 'monitoring_quellen' sind "
+                     f"Adressen statt ids aus tracker/quellen.yaml - die Verbindung "
+                     f"Regelwerk<->Tracker besteht damit nicht")
+
+# --- Kontrollierte Vokabeln --------------------------------------------
+# Was die App kennt, muss die Datenbasis auch schreiben. `instanz` stand
+# 46-mal als "behoerde" mit Umlaut und 13-mal ohne; die App kennt nur die
+# Umschrift (app.js 1616), also blieben 46 Eintraege ohne Instanzangabe.
+_VOKABELN = [
+    ("urteile", "instanz", {i["id"] for i in tax.get("instanzen", [])}),
+    ("urteile", "bedeutung", {b["id"] for b in tax.get("bedeutungsstufen", [])}),
+    ("urteile", "quelle_art", {q["id"] for q in tax.get("quellenklassen", [])}),
+    ("fristen", "typ", {t["id"] for t in tax.get("fristtypen", [])}),
+]
+for _s, _feld, _erlaubt in _VOKABELN:
+    if not _erlaubt:
+        fehler.append(f"taxonomie: Vokabular fuer {_s}.{_feld} fehlt")
+        continue
+    for _pfad, _e in BESTAND[_s]:
+        _w = _e.get(_feld)
+        if _w is not None and _w not in _erlaubt:
+            fehler.append(f"{_e.get('id','?')}: unbekannter Wert fuer "
+                          f"'{_feld}': {str(_w)[:60]!r}")
+
 # --- Korrekturgeschichte in Anzeigefeldern --------------------------------
 # In der App soll stehen, was gilt - nicht, wie es dorthin gekommen ist.
 # "DATUM KORRIGIERT (bisher 08.08.2026)" ist eine Notiz der Pflege und
@@ -251,7 +416,8 @@ _ANZEIGE = {"kurzbeschreibung", "regelungsschwerpunkte", "offene_punkte", "statu
             "eigene_bewertung", "bedeutung_eu_anbieter", "beschreibung", "handlungsbedarf",
             "ergebnis", "leitsatz", "sachverhalt", "kernthese", "inhalt", "thema",
             "fundstelle", "fehlende_belege", "aufloesung", "stand", "frage",
-            "bedeutung_begruendung", "quellenlage", "notiz", "was_gilt", "unterfragen"}
+            "bedeutung_begruendung", "quellenlage", "notiz", "was_gilt", "unterfragen",
+            "begruendung", "quelle_tracker", "datum_hinweis", "position"}
 # Zwei Sorten: Korrekturgeschichte (was einmal falsch war) und Selbstbezug
 # (Aussagen ueber die Datenbank statt ueber das Recht). Beides gehoert nicht
 # in ein Feld, das ein Leser sieht.
@@ -269,16 +435,14 @@ _META2 = _re.compile(
 # (Art. 5 Abs. 1 lit. d DSGVO, FRCP 11(c) safe harbor) und kein Befund.
 
 _meta_treffer = []
-for _pfad, _doc in lade("data/**/*.yaml"):
-    for _schluessel in _doc:
-        if not isinstance(_doc[_schluessel], list):
-            continue
-        for _e in _doc[_schluessel]:
-            if not isinstance(_e, dict):
-                continue
-            for _k, _v in _e.items():
-                if _k not in _ANZEIGE:
-                    continue
+
+
+def _meta_suchen(eid, obj, pfad=""):
+    """Rekursiv, weil die Korrekturgeschichte eine Ebene tiefer sitzt."""
+    if isinstance(obj, dict):
+        for _k, _v in obj.items():
+            _neu = f"{pfad}.{_k}" if pfad else _k
+            if _k in _ANZEIGE:
                 _texte = [_v] if isinstance(_v, str) else (
                     [_x for _x in _v if isinstance(_x, str)] if isinstance(_v, list) else [])
                 for _tx in _texte:
@@ -287,15 +451,34 @@ for _pfad, _doc in lade("data/**/*.yaml"):
                         # kein break: ein Feld kann mehrere betroffene Elemente
                         # haben, und wer nur den ersten meldet, laesst die
                         # uebrigen nachruecken - die Pruefung wird nie leer.
-                        _meta_treffer.append((_e.get("id"), _k, _m.group(0)))
+                        _meta_treffer.append((eid, _neu, _m.group(0)))
+            _meta_suchen(eid, _v, _neu)
+    elif isinstance(obj, list):
+        for _x in obj:
+            _meta_suchen(eid, _x, pfad)
+
+
+for _pfad, _doc in lade("data/**/*.yaml"):
+    for _schluessel in _doc:
+        if not isinstance(_doc[_schluessel], list):
+            continue
+        for _e in _doc[_schluessel]:
+            if isinstance(_e, dict):
+                _meta_suchen(_e.get("id"), _e)
+_meta_nach_feld = Counter(_k for _i, _k, _w in _meta_treffer)
 for _i, _k, _w in _meta_treffer:
     warnungen.append(f"{_i}: Korrekturgeschichte im Anzeigefeld '{_k}' (\u00ab{_w}\u00bb) "
                      f"- gehoert nicht in die App")
+if _meta_treffer:
+    print(f"  SCHEMA   Korrekturgeschichte in {len(_meta_treffer)} gerenderten "
+          f"Feldern - nach Feld: "
+          + ", ".join(f"{_k} {_n}" for _k, _n in _meta_nach_feld.most_common(8)))
 
 # Schemaabweichungen zuerst und vollstaendig - sie sind die einzige
 # Warnungsart, die stillschweigend Daten unsichtbar macht.
 _wichtig = ("steht nicht im Schema", "Datenbank statt der Urschrift",
-            "Korrekturgeschichte im Anzeigefeld")
+            "Freitext statt einer Regelwerk-id", "Adressen statt ids aus tracker",
+            "datum_offen gesetzt")
 schema_warn = [w for w in warnungen if any(x in w for x in _wichtig)]
 uebrig = [w for w in warnungen if w not in schema_warn]
 for w in schema_warn:

@@ -21,7 +21,7 @@ fristen:
   - 30
   - 7
 - id: us-uebrige-termin-t2
-  datum: '2026-09-22'
+  datum: 2026-09-22
   beschreibung: 'Ausschluss- und Widerspruchsfrist im RealPage-Vergleich, jeweils bis 22.09.2026, 23:59
     Uhr EST. Der gerichtlich genehmigte Long Form Notice nennt durchgängig den 22.09.2026; die Dokumentenliste
     der Vergleichsseite führt dazu eine "Court-Approved Extension of Certain Settlement Deadlines" vom
@@ -45,7 +45,7 @@ fristen:
   - 7
   uhrzeit: '23:59'
   sekundaerquelle: https://angeion-public.s3.amazonaws.com/www.realpagerentalsettlement.com/docs/RealPage%20-%20Long%20Form%20Notice%20(Final).pdf
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: Datum von 01.09.2026 auf 22.09.2026 berichtigt. Der gerichtlich genehmigte Long Form
     Notice lautet wörtlich: Ausschluss "11:59 p.m. EST on September 22, 2026", Widerspruch "11:59 p.m.
@@ -82,7 +82,7 @@ fristen:
   - 30
   - 7
   sekundaerquelle: https://lawsuitinformer.com/raine-v-openai-lawsuit
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: Das Koordinationsdekret (JCCP 5431, "Order Re Petition for Coordination", 03.02.2026)
     nennt Gericht, JCCP-Nummer, Dept. 606 und Judge Murphy und stellt den Vorbehalt der späteren Zuweisung
@@ -113,7 +113,7 @@ fristen:
   - 7
   uhrzeit: 13:00 CT
   sekundaerquelle: https://angeion-public.s3.amazonaws.com/www.realpagerentalsettlement.com/docs/RealPage%20-%20Long%20Form%20Notice%20(Final).pdf
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: Long Form Notice wörtlich: "A Fairness Hearing will be held on October 15, 2026, at 1:00
     p.m. (CT) ... before the Honorable Waverly D. Crenshaw, Jr., in Courtroom 5D of the Fred D. Thompson
@@ -138,13 +138,15 @@ fristen:
   - 30
   - 7
   uhrzeit: 23:59 EST
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: Anmeldefrist 29.01.2027, 23:59 Uhr EST, im gerichtlich genehmigten Long Form Notice bestätigt
     und durch die Verlängerung vom 28.08.2026 nicht berührt. Verifiziert bleibt false — der Terminbeschluss
     Dkt. 1408 ist als PDF weiterhin nicht abrufbar.'
 - id: us-uebrige-termin-t6
   datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Stichtag; die Prämisse des Eintrags ist überholt."
   beschreibung: 'KEIN STICHTAG, PRÄMISSE ÜBERHOLT. Über einen Antrag auf einstweilige Verfügung ist nicht
     entschieden worden; das Docket zeigt stattdessen eine einvernehmliche vorübergehende Aussetzung der
     Durchsetzung: Am 24.04.2026 beantragten die Parteien gemeinsam, die Scheduling Conference aufzuheben,
@@ -164,12 +166,14 @@ fristen:
     Vacate Scheduling Conference and Suspend Case Deadlines and Stipulation to Temporarily Stay Enforcement;
     Verweisung an Magistrate Judge Chung)
   verifiziert: false
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
 - id: us-uebrige-termin-t7
   datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Stichtag gesetzt; Zwischenstand belegt."
   beschreibung: 'KEIN STICHTAG GESETZT — Zwischenstand belegt. Nach der Aufhebung der Vergleichsgenehmigung
     durch den Seventh Circuit (argued 28.01.2026, decided 13.07.2026) gingen Mandat und beglaubigte Abschrift
     des Urteils am 04.08.2026 beim N.D. Ill. ein (Dkt. 652 bis 654). Judge Sharon Johnson Coleman setzte
@@ -185,12 +189,14 @@ fristen:
   fundstelle_norm: N.D. Ill., No. 1:21-cv-00135, Dkt. 652 bis 654 (Mandat und beglaubigte Abschrift des
     Urteils des Seventh Circuit, No. 25-1673, vom 04.08.2026) und Dkt. 658 (Minute Entry vom 13.08.2026)
   verifiziert: false
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
 - id: us-uebrige-termin-t8
   datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Stichtag und kein zugängliches amtliches Register."
   beschreibung: 'Erwartete Entscheidungen zu demurrer, Section 230 und First Amendment in JCCP 5431. NICHT
     BELEGBAR: kein Stichtag und kein zugängliches amtliches Register. Das Verfahren läuft vor dem Superior
     Court of California, County of San Francisco; sfsuperiorcourt.org ist durch eine Bot-Prüfung gesperrt
@@ -203,7 +209,7 @@ fristen:
   quelle: null
   fundstelle_norm: null
   verifiziert: false
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7

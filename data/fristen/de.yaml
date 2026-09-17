@@ -79,7 +79,7 @@ fristen:
     '
   typ: umsetzungsfrist
   jurisdiktion: de
-  regelwerk: de-ki-vo-durchführungsgesetz
+  regelwerk: de-ki-vo-durchfuehrungsgesetz
   adressat: Bundesnetzagentur; KMU und Start-ups als potenzielle Teilnehmer
   handlungsbedarf: Verfahrensregeln beobachten — sie sind noch nicht veröffentlicht.
   quelle: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/5_Innovationen/start.html
@@ -111,7 +111,7 @@ fristen:
   - 90
   - 30
 - id: bgh-i-zr-281-25-verkuendung
-  datum: '2026-12-17'
+  datum: 2026-12-17
   beschreibung: Verkuendungstermin des Bundesgerichtshofs in der Sache LAION (I ZR 281/25), 8:45 Uhr.
     Erste hoechstrichterliche Entscheidung zur Reichweite der Text-und-Data-Mining-Schranke des § 44b
     UrhG beim KI-Training. Verhandelt am 03.09.2026.

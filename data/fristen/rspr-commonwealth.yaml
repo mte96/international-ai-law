@@ -1,6 +1,8 @@
 # Gepflegte Datenbasis.
 fristen:
-- datum: offen (Termin nicht veröffentlicht)
+- datum: null
+  datum_offen: true
+  datum_hinweis: "Termin nicht veröffentlicht."
   id: commonwealth-termin-t1
   beschreibung: 'Court of Appeal (England und Wales) — Getty Images ./. Stability AI, Berufung gegen die
     Abweisung der mittelbaren Urheberrechtsverletzung. Erstinstanzliches Urteil: [2025] EWHC 2863 (Ch)
@@ -13,7 +15,7 @@ fristen:
   urteil: uk-2025-getty-stability
   jurisdiktion: uk
   typ: sonstiges
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
@@ -21,7 +23,9 @@ fristen:
   quelle: https://www.judiciary.uk/judgments/getty-images-v-stability-ai/
   fundstelle_norm: 'Kein Stichtag. Bezugsentscheidung: Getty Images (US) Inc u.a. ./. Stability AI Ltd,
     [2025] EWHC 2863 (Ch) vom 04.11.2025'
-- datum: offen (Termin nicht veröffentlicht)
+- datum: null
+  datum_offen: true
+  datum_hinweis: "Termin nicht veröffentlicht."
   id: commonwealth-termin-t2
   beschreibung: 'Court of Appeal (England und Wales) — Clearview AI Inc ./. Information Commissioner.
     Vorinstanz: The Information Commissioner ./. Clearview AI Incorporated (Privacy International intervening),
@@ -33,7 +37,7 @@ fristen:
   urteil: uk-2025-clearview-ut
   jurisdiktion: uk
   typ: sonstiges
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
@@ -41,7 +45,9 @@ fristen:
   quelle: https://caselaw.nationalarchives.gov.uk/ukut/aac/2025/319
   fundstelle_norm: 'Kein Stichtag. Bezugsentscheidung: [2025] UKUT 319 (AAC); Zulassung der Berufung durch
     das Upper Tribunal am 19.12.2025'
-- datum: offen
+- datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Termin veröffentlicht."
   id: commonwealth-termin-t3
   beschreibung: 'First-tier Tribunal (General Regulatory Chamber) — Zurückverweisung in Sachen Clearview
     nach der Entscheidung des Upper Tribunal [2025] UKUT 319 (AAC): Sachentscheidung über das Bußgeld
@@ -52,7 +58,7 @@ fristen:
   urteil: uk-2025-clearview-ut
   jurisdiktion: uk
   typ: sonstiges
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
@@ -60,7 +66,9 @@ fristen:
   quelle: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/10/uk-upper-tribunal-hands-down-judgment-on-clearview-ai-inc/
   fundstelle_norm: 'Kein Stichtag. Bezugspunkt: Zurückverweisung durch das Upper Tribunal, [2025] UKUT
     319 (AAC); amtliche Mitteilung des Information Commissioner'
-- datum: offen
+- datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Termin veröffentlicht."
   id: commonwealth-termin-t4
   beschreibung: 'Ontario Superior Court of Justice — Toronto Star Newspapers Ltd u.a. ./. OpenAI: Hauptsache
     nach Zurückweisung der Zuständigkeitsrüge durch Toronto Star Newspapers Limited v. OpenAI Inc., 2025
@@ -71,7 +79,7 @@ fristen:
   urteil: ca-2025-canadian-news-openai
   jurisdiktion: ca
   typ: sonstiges
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
@@ -103,7 +111,9 @@ fristen:
     für Schedule 1 Part 15 "Automated decisions and privacy policies": "The day after the end of the period
     of 24 months beginning on the day this Act receives the Royal Assent"; Royal Assent am 10.12.2024,
     daraus 10.12.2026. Eingefügte Norm: APP 1.7 in Schedule 1 zum Privacy Act 1988 (Cth)'
-- datum: offen
+- datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Termin veröffentlicht."
   id: commonwealth-termin-t6
   beschreibung: 'Supreme Court of Western Australia — Erlass einer Practice Direction zur künstlichen
     Intelligenz. Das Gericht hat dazu bisher nur eine Konsultationsnotiz veröffentlicht ("Artificial Intelligence
@@ -116,7 +126,7 @@ fristen:
   urteil: au-2025-scwa-consultation
   jurisdiktion: au
   typ: sonstiges
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
@@ -125,7 +135,9 @@ fristen:
   fundstelle_norm: Kein Stichtag. Konsultationsnotiz des Supreme Court of Western Australia zu einer möglichen
     Practice Direction zu künstlicher Intelligenz, Stellungnahmefrist bis 31.03.2025; keine Practice Direction
     erlassen
-- datum: offen (Überarbeitung angekündigt)
+- datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Termin veröffentlicht; eine Überarbeitung ist angekuendigt."
   id: commonwealth-termin-t7
   beschreibung: 'Supreme Court of New South Wales — Überarbeitung der Practice Note SC Gen 23 zu generativer
     künstlicher Intelligenz. In Kraft ist weiterhin die am 28.01.2025 geänderte Fassung; nach ihrer Klausel
@@ -137,7 +149,7 @@ fristen:
   urteil: au-2024-nsw-pn-sc-gen-23
   jurisdiktion: au
   typ: sonstiges
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7
@@ -146,7 +158,9 @@ fristen:
   fundstelle_norm: Kein Stichtag. Practice Note SC Gen 23 (Use of Generative Artificial Intelligence)
     in der Fassung vom 28.01.2025, Klausel 26 (regelmäßige Überprüfung); Stellungnahmefrist des Chief
     Justice bis 18.12.2025
-- datum: vierteljährlich ab 06.05.2026
+- datum: null
+  datum_offen: true
+  datum_hinweis: "Kein einmaliger Stichtag: vierteljährlich ab 06.05.2026."
   id: commonwealth-termin-t8
   beschreibung: 'Kanada — In der gemeinsamen Untersuchung der Datenschutzaufsichtsbehörden von Kanada,
     Québec, British Columbia und Alberta zu ChatGPT (PIPEDA Findings #2026-002 vom 06.05.2026) hat OpenAI
@@ -162,7 +176,7 @@ fristen:
   urteil: ca-2026-opc-openai
   jurisdiktion: ca
   typ: sonstiges
-  kalender_sync: true
+  kalender_sync: false
   vorwarnung_tage:
   - 30
   - 7

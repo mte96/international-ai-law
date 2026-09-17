@@ -151,7 +151,7 @@ urteile:
 - id: us-2023-crabill-colorado
   jurisdiktion: us
   gericht: Colorado Supreme Court, Office of the Presiding Disciplinary Judge
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Case No. 23PDJ067 (People v. Crabill)
   ecli: null
   datum: 2023-11-22
@@ -1278,7 +1278,7 @@ urteile:
 - id: us-2025-senat-justizausschuss-ki-richter
   jurisdiktion: us
   gericht: 'United States Senate, Committee on the Judiciary (Vorsitz: Charles E. Grassley)'
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Untersuchung zur Nutzung generativer KI in Bundesrichterbüros
   ecli: null
   datum: 2025-10-06
@@ -1778,7 +1778,7 @@ urteile:
   - uk-2025-ayinde-alharoun
   quelle_tracker: AI Hallucination Cases Database
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Methodisch der interessanteste Fall überhaupt: Der Richter reproduziert die Halluzination
     selbst, um den Beweis zu führen. Das ist ein neuer Beweistyp — der Nachweis der Fälschung durch Wiederholung
     des Erzeugungsvorgangs — und wirft die Frage auf, was gilt, wenn das Modell beim nächsten Versuch
@@ -1873,8 +1873,10 @@ urteile:
     nach den USA, Kanada, Australien und dem Vereinigten Königreich die fünftaktivste Jurisdiktion.
 
     '
-  bedeutung: mittel — es ist der bislang groesste bekannte Fall, in dem ein Sammelklageverfahren wegen
-    halluzinierter Fundstellen zusammengebrochen ist (Streitwert rund 110 Millionen NIS).
+  bedeutung: mittel
+  bedeutung_begruendung: Der bislang größte bekannte Fall, in dem ein
+    Sammelklageverfahren wegen halluzinierter Fundstellen zusammengebrochen ist
+    (Streitwert rund 110 Millionen NIS).
   volltext_url: null
   zusammenfassung_url: https://www.damiencharlotin.com/hallucinations/
   bezug_regelwerke: []
@@ -1928,7 +1930,7 @@ urteile:
 - id: us-2023-standing-order-starr
   jurisdiktion: us
   gericht: United States District Court, N.D. Texas (Judge Brantley Starr)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Mandatory Certification Regarding Generative Artificial Intelligence
   ecli: null
   datum: 2023-05-30
@@ -2025,7 +2027,7 @@ urteile:
   jurisdiktion: uk
   gericht: Judiciary of England and Wales (Lady Chief Justice, Master of the Rolls, Senior President of
     Tribunals)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: 'Artificial Intelligence (AI): Guidance for Judicial Office Holders'
   ecli: null
   datum: 2025-10-31
@@ -2084,7 +2086,7 @@ urteile:
 - id: de-2026-ki-in-der-justiz
   jurisdiktion: de
   gericht: Bundesländer und Landesjustizverwaltungen (Sammeleintrag)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Länderprojekte zur KI-Nutzung in der Justiz
   ecli: null
   datum: 2026-01-01
@@ -2387,7 +2389,7 @@ urteile:
 - id: us-2026-fre-707
   jurisdiktion: us
   gericht: Judicial Conference of the United States, Advisory Committee on Evidence Rules
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Proposed Fed. R. Evid. 707 (machine-generated evidence); Proposed Amendments to Fed. R.
     Evid. 104 und 902
   ecli: null

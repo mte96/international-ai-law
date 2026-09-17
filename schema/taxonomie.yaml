@@ -499,3 +499,40 @@ dokumenttypen:
   - {id: bericht, name: Bericht oder Evaluierung}
   - {id: pressemitteilung, name: Pressemitteilung}
   - {id: uebersicht, name: Verfahrensakte oder Übersichtsseite}
+
+# Vier Vokabulare, die bis zum 17.09.2026 nicht geprüft wurden. Die
+# Werte darin sind die, die der Bestand ohnehin führt — nur eben
+# festgeschrieben, damit nicht die nächste Schreibvariante einläuft.
+# `instanz` stand 46-mal als „behörde" und 13-mal als „behoerde"; die
+# App kennt nur die Umschrift (app.js 1616), also hatten 46 Einträge in
+# der Anzeige keine Instanz.
+instanzen:
+  - {id: erstinstanzlich, name: Erstinstanzlich}
+  - {id: berufung, name: Berufung}
+  - {id: revision, name: Revision}
+  - {id: rechtsmittel, name: Rechtsmittel (Instanz nicht näher bezeichnet)}
+  - {id: verfassungsgericht, name: Verfassungsgericht}
+  - {id: behoerde, name: Behörde oder Aufsichtsstelle}
+
+bedeutungsstufen:
+  - {id: hoch, name: Hoch — trägt einen Streitstand}
+  - {id: mittel, name: Mittel — bestätigt oder verschiebt eine Linie}
+  - {id: niedrig, name: Niedrig — Einzelfall ohne Fernwirkung}
+
+# Wie viel eine Fundstelle wert ist. Erzeugt aus dem Host der Adresse,
+# nicht von Hand gesetzt: build/quellenklasse.py.
+quellenklassen:
+  - {id: amtlich, name: Amtliche Veröffentlichung oder Urschrift}
+  - {id: urheber, name: Urheber des Instruments (Normungsgremium)}
+  - {id: datenbank, name: Rechtsdatenbank — Volltext, aber nicht Urschrift}
+  - {id: sekundaer, name: Sekundär — Presse, Kanzlei, Blog, Tracker}
+  - {id: fehlt, name: Keine Fundstelle}
+
+fristtypen:
+  - {id: anwendungsbeginn, name: Geltungsbeginn einer Vorschrift}
+  - {id: umsetzungsfrist, name: Umsetzungs- oder Anpassungsfrist}
+  - {id: konsultation, name: Ende einer Konsultation}
+  - {id: einreichung, name: Einreichungs- oder Anmeldefrist}
+  - {id: pruefung, name: Eigene Wiedervorlage}
+  - {id: termin, name: Gerichts- oder Verkündungstermin}
+  - {id: sonstiges, name: Sonstiges}

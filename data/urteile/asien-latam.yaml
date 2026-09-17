@@ -1424,7 +1424,7 @@ urteile:
   instanz: erstinstanzlich
   aktenzeichen: CS(COMM) 105/2026 — im Eintrag 'nicht ermittelt'.
   ecli: ''
-  datum: '2026-02-05 (Eintrag: 07.02.2026)'
+  datum: 2026-02-05
   parteien:
     klaeger: Vivek Oberoi (Schauspieler)
     beklagter: unbekannte Beklagte (John Doe) und Plattformen
@@ -1743,7 +1743,7 @@ urteile:
   instanz: revision
   aktenzeichen: SLP(C) No. 7575/2026
   ecli: ''
-  datum: 2026-02-27 (im Eintrag nur '2026-01-01' als Platzhalter)
+  datum: 2026-02-27
   parteien:
     klaeger: Gummadi Usha Rani
     beklagter: Sure Mallikarjuna Rao
@@ -1853,7 +1853,7 @@ urteile:
 - id: in-2023-sahni-raghav-urheberamt
   jurisdiktion: in
   gericht: Copyright Office, Government of India; verbunden mit Verfahren vor dem High Court of Delhi
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Registrierung A-135120/2020 (Werk "Suryast"); Patentanmeldung 202017019068 (DABUS)
   ecli: ''
   datum: 2023-01-01
@@ -2052,7 +2052,7 @@ urteile:
   quelle_tracker: Yuasa & Hara (Aktenzeichen der Vorinstanzen), Zaikei Shimbun (06.07.2026) und Fachanalyse
     yorozuipsc.com zum Nichtannahmebeschluss
   verifiziert: false
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Japan ist damit nach dem Vereinigten Königreich die zweite Rechtsordnung, in der
     die Frage der Erfindereigenschaft von KI letztinstanzlich abgeschlossen ist — aber der Unterschied
     zum britischen Fall ist erheblich und wird regelmäßig eingeebnet: Der UK Supreme Court hat in Thaler
@@ -2140,7 +2140,7 @@ urteile:
   quelle_tracker: Pressemitteilung der Nikkei Inc. vom 26.08.2025 (nikkei.co.jp) sowie Berichte von Nikkei,
     Asahi Shimbun und Japan Times
   verifiziert: false
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Das wichtigste anhängige Verfahren Asiens. Art. 30-4 japanisches UrhG gilt als weltweit
     weiteste TDM-Schranke: Er erlaubt die Nutzung fremder Werke, soweit sie nicht auf den Genuss des Ausdrucksgehalts
     gerichtet ist, ohne Opt-out und ohne Vergütung — deutlich weiter als § 44b UrhG und Art. 4 DSM-RL.
@@ -2392,7 +2392,7 @@ urteile:
   quelle_tracker: Korea Journalists Association (journalist.or.kr) vom 10.11.2025 und 11.06.2026; Edaily;
     MBC News (imnews.imbc.com) vom 13.01.2025
   verifiziert: false
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Das koreanische Gegenstück zu ANI ./. OpenAI und zu den japanischen Perplexity-Verfahren,
     mit einem wesentlichen Unterschied: Korea hat in Art. 35-5 UrhG eine offene fair-use-Generalklausel
     nach US-Vorbild. Der Oberste Gerichtshof hat deren Kriterien am 11.07.2024 (2021다272001) für Fälle
@@ -2431,7 +2431,7 @@ urteile:
 - id: kr-2021-pipc-scatterlab
   jurisdiktion: kr
   gericht: 개인정보보호위원회 — Personal Information Protection Commission (PIPC)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: 개인정보보호위원회 의결 제2021-007-072호; 사건번호 2021조이0013
   ecli: ''
   datum: 2021-04-28
@@ -2468,7 +2468,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: Amtliche Beschlusssammlung der 개인정보보호위원회 (pipc.go.kr), Beschluss 제2021-007-072호
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Weltweit die erste Aufsichtsentscheidung gegen ein KI-Sprachmodell wegen der Herkunft
     seiner Trainingsdaten — zweieinhalb Jahre vor der italienischen Garante-Verfügung gegen OpenAI und
     vier Jahre vor den europäischen Meta-Verfahren. Der dogmatische Kern ist die Zweckbindung: Daten,
@@ -2653,10 +2653,10 @@ urteile:
 - id: sg-2025-cccs-fake-bewertungen
   jurisdiktion: sg
   gericht: Competition and Consumer Commission of Singapore (CCCS)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: nicht ermittelt
   ecli: ''
-  datum: 2025-07-03 (im Eintrag nur '2025-01-01' als Platzhalter)
+  datum: 2025-07-03
   parteien:
     klaeger: CCCS (von Amts wegen)
     beklagter: nicht namentlich veröffentlichtes Unternehmen
@@ -2752,7 +2752,7 @@ urteile:
   quelle_tracker: Amtliche Entscheidungssammlung des Obersten Gerichtshofs (supremedecisions.court.gov.il),
     NetVerdicts 2026/3/22; Volltextspiegel bei law.co.il
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die für europäische Juristen anschlussfähigste Entscheidung außerhalb Europas — und
     nach der Klärung ihrer Fundstelle auch belastbar zitierfähig. Sie formuliert für das Verwaltungsverfahren
     genau das, was Art. 22 DSGVO und Art. 14 KI-VO für automatisierte Entscheidungen verlangen — Verbot
@@ -2912,7 +2912,7 @@ urteile:
   jurisdiktion: il
   gericht: משרד המשפטים, ייעוץ וחקיקה (משפט אזרחי) — Ministry of Justice, Deputy Attorney General (Civil
     Law), Abteilung Beratung und Gesetzgebung; nicht 'Abteilung für Geistiges Eigentum'
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Legal Opinion "Uses of Copyrighted Materials for Machine Learning"
   ecli: ''
   datum: 2022-12-18
@@ -2985,7 +2985,7 @@ urteile:
 - id: br-2024-anpd-meta
   jurisdiktion: br
   gericht: Autoridade Nacional de Proteção de Dados (ANPD) — Nationale Datenschutzbehörde Brasiliens
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Despacho Decisório nº 20/2024/PR/ANPD auf der Grundlage des Voto nº 11/2024/DIR-MW/CD;
     Processo nº 00261.004509/2024-36
   ecli: ''
@@ -3028,7 +3028,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: Amtliches Voto der ANPD (SEI-Dokument 0130047), gov.br/anpd
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die einzige Aufsichtsmaßnahme weltweit, die das KI-Training eines Großkonzerns tatsächlich
     gestoppt hat — die irische DPC hat gegenüber Meta und X mit Zusagen gearbeitet, die italienische Garante
     gegen OpenAI mit einer Sperre, die aber den Dienst und nicht das Training betraf. Der dogmatische
@@ -3151,7 +3151,7 @@ urteile:
     Der Legal 500 Country Guide Brazil datiert abweichend auf den 04.08.2026 — das ist die amerikanische
     Schreibweise desselben Tages.
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die erste höchstrichterliche Entscheidung, die einen Maßstab für KI-erzeugte Beweismittel
     formuliert — und sie tut es mit einem Begriff, der in der europäischen Beweisrechtsdogmatik keine
     Entsprechung hat: "confiabilidade epistêmica mínima", epistemische Mindestverlässlichkeit. Das ist
@@ -3462,7 +3462,7 @@ urteile:
   quelle_tracker: Infobae (11.12.2025), El Tiempo (11.12.2025), Ámbito Jurídico und El Colombiano; Radicado
     nicht ermittelt
   verifiziert: false
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die Fortschreibung von T-323/24 und ihr praktischer Prüfstein. Das Verfassungsgericht
     hatte 2024 gesagt: KI darf ergänzen, nicht ersetzen, und muss offengelegt und verifiziert werden.
     Sechzehn Monate später hat ein Strafrichter genau dagegen verstoßen, und die Rechtsfolge ist die vollständige
@@ -3699,7 +3699,8 @@ urteile:
   instanz: verfassungsgericht
   aktenzeichen: Acción de Inconstitucionalidad 80/2024
   ecli: ''
-  datum: 2025-04-22 (Entscheidung des Pleno) — im Eintrag unzutreffend '2024-01-01'
+  datum: 2025-04-22
+  datum_hinweis: "Entscheidung des Pleno vom 22.04.2025."
   parteien:
     klaeger: Antragsteller der abstrakten Normenkontrolle
     beklagter: Landesgesetzgeber
@@ -3759,7 +3760,7 @@ urteile:
   instanz: verfassungsgericht
   aktenzeichen: Acción de Inconstitucionalidad 104/2024
   ecli: ''
-  datum: '2025-04-28'
+  datum: 2025-04-28
   parteien:
     klaeger: Antragsteller der abstrakten Normenkontrolle
     beklagter: Kongress des Bundesstaates Quintana Roo
@@ -3888,7 +3889,7 @@ urteile:
   quelle_tracker: Semanario Judicial de la Federación (sjf2.scjn.gob.mx), Registro digital 2031639 und
     2031640 — amtliche Rechtsprechungssammlung der SCJN
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die weltweit erste BINDENDE Rechtsprechung zum KI-Einsatz in der Justiz — Jurisprudencia
     hat in Mexiko formelle Bindungswirkung für nachgeordnete Gerichte, anders als kolumbianische Leitkriterien,
     brasilianische CNJ-Resolutionen oder englische Practice Directions. Der Ursprung ist dabei bemerkenswert
@@ -4036,7 +4037,7 @@ urteile:
   quelle_tracker: Jusnoticias (STJ Chubut) und Ministerio Público Fiscal del Chubut — beide amtlich; Volltextnachweis
     über eldial.com und Revista Pensamiento Penal
   verifiziert: false
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Der Fall ist das Gegenteil dessen, wofür er zitiert wird. Er gilt als weltweit erste
     Aufhebung eines Strafurteils wegen undeklarierten KI-Einsatzes — aber genau diese Aufhebung hat das
     Höchstgericht der Provinz fünf Monate später kassiert. Wer Esquel als Beleg dafür anführt, dass undeklarierter

@@ -197,7 +197,7 @@ urteile:
   quelle_tracker: EUR-Lex CELEX 62025CN0250; curia.europa.eu (Pressemitteilungen September 2026); EU IP
     Helpdesk; ODIPI
   verifiziert: true
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Dies ist das Verfahren, das die deutschen Divergenzen erledigen wird — nicht der
     BGH. Die Fragen 2 und 3 sind exakt der Münchner Streit, die Frage 1 exakt die Output-Frage. Bemerkenswert
     und in der deutschen Diskussion noch nicht verarbeitet ist die Wendung in der Verhandlung: Generalanwalt
@@ -536,7 +536,7 @@ urteile:
   quelle_tracker: bundesgerichtshof.de (Terminhinweis zu I ZR 281/25; Pressemitteilung 085/2026 vom 20.05.2026);
     dejure.org
   verifiziert: true
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Die erste höchstrichterliche Entscheidung zur TDM-Schranke in der Europäischen Union
     — und zugleich eine mit begrenzter Reichweite. Vorgelegt ist nur die Datensatzerstellung durch einen
     Verein, nicht das Training eines kommerziellen Modells und nicht die Memorisierung. Der Senat kann
@@ -699,7 +699,7 @@ urteile:
   - eu-2025-like-company-google
   quelle_tracker: Initiative Urheberrecht; dejure.org
   verifiziert: true
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Das ist der Instanzenzug, in dem die deutsche TDM-Divergenz tatsächlich aufeinandertrifft
     — der BGH bekommt in I ZR 281/25 nur den Hamburger Strang. Für die Mandatspraxis heißt das: Der Münchner
     Maßstab ist bis auf Weiteres nicht zweitinstanzlich bestätigt, aber auch nicht ausgesetzt. Ein Termin
@@ -1024,7 +1024,7 @@ urteile:
   - de-2026-olg-bamberg-scoring
   quelle_tracker: bundesgerichtshof.de PM 52/2026; LTO; beck-aktuell
   verifiziert: true
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Das ist die deutsche Umsetzungsentscheidung zu C-203/22 und damit die praktisch wichtigste
     Transparenzentscheidung für jedes KI-gestützte Bewertungsverfahren — nicht nur für Bonität. Wenn der
     Senat wie angedeutet entscheidet, gilt: Auskunft nur über Verfahren und Grundsätze, keine Gewichtungsangaben,
@@ -1575,7 +1575,7 @@ urteile:
   quelle_tracker: BAYERN.RECHT (gesetze-bayern.de), amtliches Rechtsprechungsportal der Bayerischen Staatsregierung
     — Volltext und weiterführende Hinweise
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die meistzitierte deutsche KI-Haftungsentscheidung des Jahres — und zugleich diejenige,
     deren prozessualer Wert am gründlichsten überschätzt wird. Sie erging im einstweiligen Verfügungsverfahren,
     wurde mit der Berufung angegriffen und ist durch den Vergleich vor dem OLG München gegenstandslos
@@ -1721,7 +1721,7 @@ urteile:
   quelle_tracker: NRWE — Rechtsprechungsdatenbank des Landes Nordrhein-Westfalen (nrwe.justiz.nrw.de);
     Pressemitteilung der NRW-Justiz vom 12.05.2026; dejure.org als Sekundärnachweis
   verifiziert: true
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Die erste obergerichtliche deutsche Entscheidung zur Zurechnung von KI-Ausgaben überhaupt,
     und mit zugelassener Revision der wahrscheinlichste Weg, auf dem die Frage zum BGH gelangt — früher
     als über die Münchner und Hamburger Äußerungsfälle. Die Formel "der Chatbot ist kein Dritter, sondern
@@ -1977,7 +1977,7 @@ urteile:
 - id: eu-2024-garante-openai
   jurisdiktion: eu
   gericht: Garante per la protezione dei dati personali (Italien)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Provvedimento vom 02.11.2024 (veröffentlicht 20.12.2024)
   ecli: null
   datum: 2024-11-02
@@ -2069,7 +2069,7 @@ urteile:
   quelle_tracker: Garante per la protezione dei dati personali, docweb 10085455 (amtlicher Entfernungsvermerk);
     Il Sole 24 Ore NT+ Diritto; Iusletter; European Law Blog
   verifiziert: true
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die wichtigste europäische Aufsichtsentscheidung des Jahres, und sie stammt nicht
     von einer Aufsichtsbehörde. Das Gericht hat eine Vollzugslücke aufgezeigt, die strukturell ist: Ein
     Anbieter kann ohne Niederlassung in den Markt eintreten, die während dieser Phase verhängten vorläufigen
@@ -2123,7 +2123,7 @@ urteile:
 - id: eu-2025-garante-replika
   jurisdiktion: eu
   gericht: Garante per la protezione dei dati personali (Italien)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Provvedimento vom 10.04.2025 (Luka Inc.)
   ecli: null
   datum: 2025-04-10
@@ -2176,7 +2176,7 @@ urteile:
 - id: eu-2025-garante-deepseek
   jurisdiktion: eu
   gericht: Garante per la protezione dei dati personali (Italien)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Provvedimento vom 30.01.2025 (limitazione provvisoria)
   ecli: null
   datum: 2025-01-30
@@ -2228,7 +2228,7 @@ urteile:
 - id: eu-2025-garante-clothoff
   jurisdiktion: eu
   gericht: Garante per la protezione dei dati personali (Italien)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Provvedimento Nr. 10174164 vom 01.10.2025
   ecli: null
   datum: 2025-10-01
@@ -2282,7 +2282,7 @@ urteile:
 - id: eu-2024-edsa-opinion-28
   jurisdiktion: eu
   gericht: Europäischer Datenschutzausschuss (EDSA/EDPB)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Opinion 28/2024
   ecli: null
   datum: 2024-12-17
@@ -2352,7 +2352,7 @@ urteile:
 - id: eu-2024-dpc-x-grok
   jurisdiktion: eu
   gericht: Data Protection Commission (Irland); Verfahren vor dem High Court (Ms Justice Reynolds)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: — (Verfahren nach Section 134 Data Protection Act 2018)
   ecli: null
   datum: 2024-08-08
@@ -2413,7 +2413,7 @@ urteile:
 - id: eu-2024-dpc-meta-llm
   jurisdiktion: eu
   gericht: Data Protection Commission (Irland)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: — (informelle Aufsichtsmaßnahme)
   ecli: null
   datum: 2024-06-14
@@ -2471,7 +2471,7 @@ urteile:
 - id: de-2024-dsk-ki-orientierungshilfen
   jurisdiktion: de
   gericht: Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (DSK)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Orientierungshilfe KI und Datenschutz (06.05.2024) nebst Fortschreibungen
   ecli: null
   datum: 2024-05-06

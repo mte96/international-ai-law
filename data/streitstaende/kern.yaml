@@ -152,7 +152,7 @@ streitstaende:
     mit Nutzungsfrage.
 
     '
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: tdm-schranke-de
   titel: Reichweite der deutschen TDM-Schranke beim KI-Training
   frage: 'Erfasst § 44b UrhG das Training generativer Modelle, und wann ist ein Nutzungsvorbehalt maschinenlesbar
@@ -233,7 +233,7 @@ streitstaende:
     Handlungsanleitung zur Umgehung. Darüber wird der BGH entscheiden müssen, nicht über die Maschinenlesbarkeit.
 
     '
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: schutzfaehigkeit-output
   titel: Schutzfähigkeit KI-generierter Erzeugnisse
   frage: Kann ein von einem generativen Modell erzeugtes Werk Urheberrechtsschutz genießen?
@@ -619,7 +619,7 @@ streitstaende:
     und in Karlsruhe strafbar sein kann.
 
     '
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: modellgewichte-kopie
   titel: Sind Modellgewichte eine Vervielfältigung?
   frage: 'Verkörpern die Parameter eines trainierten Modells die Trainingswerke so, dass sie selbst eine
@@ -976,7 +976,7 @@ streitstaende:
     ist hier nur über Sekundärquellen wiedergegeben und nicht am Primärtext geprüft.'
   - 'Normen fehlen im Verzeichnis: Art. 4 Nr. 2 DSGVO (Begriff der Verarbeitung), tragend für die erste
     Hamburger These, sowie Erwägungsgrund 26 DSGVO.'
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: ki-erfindung-patent
   titel: KI-Erfinderschaft und der hinreichende menschliche Beitrag
   frage: 'Kann ein KI-System Erfinder sein, und wie viel menschlicher Beitrag genügt für die Erfinderstellung,
@@ -1202,7 +1202,7 @@ streitstaende:
     die WIPO-Konsultationsbeiträge und die Besprechungen zu X ZB 5/22.
   - 'Korea: Das Datum der Berufungsentscheidung (Obergericht Seoul, 2023누52088) ist als unsicher vermerkt;
     der Ausgang der Revision 2024두45177 ist zu überwachen.'
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: hochrisiko-einstufung-anhang-iii
   titel: Die Ausnahme von der Hochrisiko-Einstufung nach Art. 6 Abs. 3 KI-VO
   frage: 'Wann ist ein in Anhang III genanntes System doch kein Hochrisiko-KI-System, weil es kein erhebliches
@@ -1463,7 +1463,7 @@ streitstaende:
   - Ob und wie einzelne Mitgliedstaaten die Ausnahme in ihren Durchführungsgesetzen sanktionieren, ist
     nur für Spanien (Anteproyecto, Art. 14 bis 22) abgebildet; für Deutschland, Italien und Griechenland
     fehlt die Gegenprüfung.
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: haftung-fuer-ki-ausgaben
   titel: Haftungsregime für fehlerhafte KI-Ausgaben
   frage: 'Nach welchem Regime haftet, wer eine fehlerhafte KI-Ausgabe verbreitet oder ihr folgt — und
@@ -1747,7 +1747,7 @@ streitstaende:
     BGB, § 5 UWG und Art. 6 DSA ist nicht erfasst.
   - 'Normen fehlen im Verzeichnis: §§ 823 Abs. 1, 1004 BGB analog; § 5 UWG; Art. 6 DSA; Art. 7 Abs. 1
     und Art. 22 PLD (Umsetzungsfrist und zeitlicher Anwendungsbereich).'
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: deepfake-persoenlichkeitsrecht-regime
   titel: Regimewahl beim Schutz gegen synthetische Nachbildungen
   frage: 'Über welches Rechtsgebiet wird der Schutz von Bild, Stimme und Persönlichkeit gegen KI-erzeugte
@@ -2117,7 +2117,7 @@ streitstaende:
     (us-ca-sb942-ab853); die beiden Gesetze zu digital replicas fehlen.'
   - 'Deutschland: § 201b StGB-E (Bundesratsentwurf) ist über de-deepfake-strafrecht erfasst; der Verfahrensstand
     zum 04.09.2026 wurde nicht geprüft.'
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: algorithmische-verwaltung-transparenz
   titel: Transparenz automatisierter Verwaltungsentscheidungen
   frage: 'Worauf hat der Betroffene einer automatisierten Verwaltungs- oder Bewertungsentscheidung Anspruch
@@ -2522,7 +2522,7 @@ streitstaende:
     fr-parcoursup, it-legge-241-1990, es-ley-19-2013, es-ley-40-2015, fr-loi-informatique-libertes. Ferner
     fehlen: niederländisches SyRI-Gesetz (Wet SUWI, Art. 65), Art. 8 EMRK als Norm, § 35a VwVfG als Normeintrag,
     Art. 11 KI-VO und Anhang IV KI-VO.'
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: sanktion-halluzinierte-fundstellen
   titel: Sanktionsmaßstab bei KI-erfundenen Fundstellen im Schriftsatz
   frage: 'Nach welchem Maßstab, gegen wen und mit welcher Rechtsfolge wird sanktioniert, wer dem Gericht
@@ -3231,7 +3231,7 @@ streitstaende:
     AU 110, UK 62, IL 57, BR 41, IN 14, DE 11) stammen aus 2026-charlotin-hallucination-cases, einer Einzelpersonenerhebung
     ohne institutionelle Qualitätssicherung. Sie ist die einzige verfügbare Grundlage und zugleich der
     schwächste Beleg dieses Streitstands.'
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: ki-im-spruchkoerper
   titel: Künstliche Intelligenz auf der Richterbank
   frage: 'Welche Folgen hat es, wenn nicht der Prozessvertreter, sondern das Gericht selbst künstliche
@@ -3806,7 +3806,7 @@ streitstaende:
     Carpeta Judicial 6209, 'PROV. DEL CHUBUT c/ PAYALEF s/ recurso de queja') ist bislang nur ueber Jusnoticias
     des STJ und die MPF Chubut belegt; der Volltext fehlt und ist zu beschaffen. Sie ist als eigener Eintrag
     zu erfassen — derzeit traegt ar-2025-esquel-ki-urteil beide Instanzen.
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: training-schranken-international
   titel: Das Training generativer Modelle im Rechtsvergleich
   frage: 'Darf ein generatives Modell auf urheberrechtlich geschützten Werken trainiert werden — und mit
@@ -4448,7 +4448,7 @@ streitstaende:
   - Der DPIIT-Bericht Teil II (Urheberschaft an KI-Ausgaben) und die Frage, ob das "Hybrid Model" in eine
     Novelle des Copyright Act 1957 überführt wird, sind offen. Ebenso der Verbleib des Vergütungsanspruchs
     im brasilianischen PL 2338 nach der Umarbeitung im Abgeordnetenhaus.
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: biometrische-ueberwachung-erlaubnisgrundlage
   titel: Gesichtserkennung im öffentlichen Raum — Verbot mit Ausnahme oder Verbot durch Schweigen?
   frage: 'Woraus folgt, ob eine Stelle Bilder aus dem öffentlichen Raum algorithmisch auswerten und Personen
@@ -5176,7 +5176,7 @@ streitstaende:
     Bridges), das französische décret zur Ausführung des Art. 19 bis LOI n° 2026-798 für den Einzelhandel
     (Erlassstand ungeprüft) und die aktualisierten OAIC-Leitlinien zur Gesichtserkennung im Einzelhandel,
     die die Privacy Commissioner nach der ART-Entscheidung angekündigt hat.'
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
 - id: zugangsschranken-ki-agenten
   titel: Zugangsschranken gegen KI-Agenten
   frage: Wer greift auf einen fremden Rechner zu, wenn ein KI-Agent im Auftrag eines Nutzers handelt —

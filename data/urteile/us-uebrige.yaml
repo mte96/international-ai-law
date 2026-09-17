@@ -298,7 +298,7 @@ urteile:
   quelle_tracker: Koordinationsbeschluss JCCP 5431 vom 03.02.2026 (amtliches Gerichtsdokument); Klageschrift
     über Courthouse News; Lawsuit Informer
   verifiziert: false
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Das dogmatisch schwierigere Verfahren als Garcia, weil ChatGPT kein Companion-Produkt
     ist, sondern ein Allzweckwerkzeug. Der Produktbegriff aus Garcia lässt sich darauf nicht ohne Weiteres
     übertragen: Ein Modell, das keine Rollenbeziehung anbietet, hat keine "Gestaltung", die sich vom Inhalt
@@ -481,7 +481,7 @@ urteile:
   instanz: erstinstanzlich
   aktenzeichen: No. 3:25-cv-11037-RS
   ecli: ''
-  datum: '2026-04-13'
+  datum: 2026-04-13
   parteien:
     klaeger: Emily Lyons
     beklagter: OpenAI Foundation; OpenAI, Inc.; Sam Altman; Mitarbeiter und Investoren
@@ -823,7 +823,7 @@ urteile:
 - id: us-2025-ftc-6b-companion
   jurisdiktion: us
   gericht: Federal Trade Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: 6(b) Orders, FTC Matter No. P254500
   ecli: ''
   datum: 2025-09-11
@@ -870,7 +870,7 @@ urteile:
 - id: us-2025-replika-ftc-beschwerde
   jurisdiktion: us
   gericht: Federal Trade Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Complaint and Request for Investigation (ohne Aktenzeichen)
   ecli: ''
   datum: 2025-01-28
@@ -958,7 +958,7 @@ urteile:
     Gwinnett County; übereinstimmende Analysen von Cleary Gottlieb, Loeb & Loeb, Gibson Dunn (Prozessvertreterin
     OpenAIs) und Eric Goldman
   verifiziert: false
-  letzte_pruefung: '2026-09-05'
+  letzte_pruefung: 2026-09-05
   eigene_bewertung: 'Die erste Sachentscheidung weltweit zur Haftung für Modellhalluzinationen — und sie
     beantwortet die interessante Frage gerade nicht. Das Gericht löst den Fall über Empfängerhorizont,
     Verschulden und Schaden und muss deshalb nie sagen, wer eigentlich "spricht", wenn ein Modell eine
@@ -1296,7 +1296,7 @@ urteile:
 - id: us-2025-aclu-intuit-hirevue
   jurisdiktion: us
   gericht: Colorado Civil Rights Division; U.S. Equal Employment Opportunity Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Verwaltungsbeschwerde (Charge), Aktenzeichen nicht oeffentlich
   ecli: ''
   datum: 2025-03-19
@@ -1782,7 +1782,7 @@ urteile:
 - id: us-2024-ftc-rytr
   jurisdiktion: us
   gericht: Federal Trade Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: FTC Matter No. 232-3052; Docket No. C-4806
   ecli: ''
   datum: 2024-12-18
@@ -1828,7 +1828,7 @@ urteile:
 - id: us-2025-ftc-rytr-aufhebung
   jurisdiktion: us
   gericht: Federal Trade Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: FTC Matter No. 232-3052; Docket No. C-4806
   ecli: ''
   datum: 2025-12-22
@@ -1892,7 +1892,7 @@ urteile:
 - id: us-2024-ftc-donotpay
   jurisdiktion: us
   gericht: Federal Trade Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: FTC Matter No. 232-3042
   ecli: ''
   datum: 2025-02-11
@@ -1938,7 +1938,7 @@ urteile:
 - id: us-2024-ftc-evolv
   jurisdiktion: us
   gericht: Federal Trade Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: FTC Matter No. 232-3050; gerichtliches Az. No. 1:24-cv-12940 (D. Mass.)
   ecli: ''
   datum: 2024-11-26
@@ -1995,7 +1995,7 @@ urteile:
 - id: us-2025-ftc-intellivision
   jurisdiktion: us
   gericht: Federal Trade Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: FTC Matter No. 232-3023
   ecli: ''
   datum: 2025-01-13
@@ -2041,7 +2041,7 @@ urteile:
 - id: us-2024-sec-ai-washing
   jurisdiktion: us
   gericht: U.S. Securities and Exchange Commission
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Admin. Proc. File Nos. 3-21894 (IA-6573) und 3-21895 (IA-6574)
   ecli: ''
   datum: 2024-03-18
@@ -2434,7 +2434,8 @@ urteile:
   instanz: erstinstanzlich
   aktenzeichen: No. 0:23-cv-03009-JRT-JFD (D. Minn.)
   ecli: ''
-  datum: 2026-05-07 (Einreichung des Proposed Final Judgment)
+  datum: 2026-05-07
+  datum_hinweis: "Tag der Einreichung des Proposed Final Judgment."
   parteien:
     klaeger: United States of America (DOJ Antitrust Division) und sechs Generalstaatsanwälte
     beklagter: Agri Stats, Inc.
@@ -2586,7 +2587,7 @@ urteile:
   instanzenzug: []
   quelle_tracker: Ninth Circuit (Volltext); Wilson Sonsini; Cooley; Ropes & Gray; Troutman
   verifiziert: true
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Die erste Berufungsentscheidung weltweit zur Rechtsstellung agentischer KI — und
     sie beantwortet die Zurechnungsfrage genau umgekehrt zu allem, was im Haftungsrecht geschieht. Während
     in der Produkthaftung der Anbieter für das Verhalten seines Modells einstehen soll, ist er im CFAA
@@ -2800,7 +2801,7 @@ urteile:
 - id: us-2026-doj-ai-task-force
   jurisdiktion: us
   gericht: U.S. Department of Justice
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: AI Litigation Task Force (eingerichtet auf Grundlage der Executive Order 14365 vom 11.12.2025)
   ecli: ''
   datum: 2026-01-09
@@ -2916,7 +2917,7 @@ urteile:
   instanz: erstinstanzlich
   aktenzeichen: No. 24-CV-3770 (JPO)
   ecli: ''
-  datum: '2025-07-10'
+  datum: 2025-07-10
   parteien:
     klaeger: Paul Lehrman; Linnea Sage (Sprecher)
     beklagter: Lovo, Inc.
@@ -3246,7 +3247,8 @@ urteile:
   instanz: erstinstanzlich
   aktenzeichen: 5:25-cv-06911-EKL — In re Otter.AI Privacy Litigation (Richterin Eumi K. Lee)
   ecli: ''
-  datum: 2026-08-13 (Entscheidungsdatum); 2025-08-15 im Eintrag ist das Datum der Klageerhebung
+  datum: 2026-08-13
+  datum_hinweis: "Entscheidungsdatum. Der 15.08.2025 ist der Tag der Klageerhebung."
   parteien:
     klaeger: Teilnehmer von Videokonferenzen, die Otter nicht selbst nutzten
     beklagter: Otter.ai, Inc.

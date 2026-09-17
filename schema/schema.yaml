@@ -123,6 +123,8 @@ urteil:
       Termin'
     parteien_klaeger: Zusatz zum Rubrum, wenn parteien.klaeger zu knapp ist
     bedeutung_begruendung: Warum die Entscheidung fuer die Datenbasis zaehlt
+    datum_hinweis: 'Ein Satz dazu, was das Datum bezeichnet - Entscheidung,
+      Verkuendung, Einreichung. Kein Ort fuer Korrekturgeschichte.'
     sprache: Sprache des Volltextes
     sachverhalt: Worum es tatsaechlich ging - erzaehlend, fuer Vortrag und Video
     offene_punkte: Was fehlt oder zu beobachten ist
@@ -176,7 +178,14 @@ frist:
   - beschreibung
   felder:
     id: text
-    datum: date
+    datum: 'date, oder ausdruecklich unvollstaendig als ''2026'' / ''2026-05'',
+      oder null in Verbindung mit datum_offen'
+    datum_offen: 'bool. Es gibt keinen veroeffentlichten Termin. Erfuellt das
+      Pflichtfeld datum; was statt dessen bekannt ist, gehoert in datum_hinweis.
+      Vor dem 17.09.2026 stand in diesen Faellen das Wort "offen" im Datumsfeld
+      - eine Zeichenkette, die durch jede Pruefung fiel.'
+    datum_hinweis: 'Ein Satz: was der Tag ist, oder was statt eines Termins
+      bekannt ist. Kein Ort fuer Korrekturgeschichte.'
     uhrzeit: optional
     beschreibung: Was laeuft ab
     typ: anwendungsbeginn | umsetzungsfrist | konsultation | bewerbung | einreichung | pruefung | sonstiges

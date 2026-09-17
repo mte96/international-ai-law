@@ -753,7 +753,7 @@ regelwerke:
   - produkthaftungsrichtlinie-2024-2853
   - de-bgb-digitale-produkte
   - ki-vo-2024-1689
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: Unverändert: Regierungsentwurf BT-Drs. 21/4297 vom 25.02.2026 weiterhin im parlamentarischen
     Verfahren. Letzte belegte Schritte bleiben Zuleitung an den Bundesrat 19.12.2025 (BR-Drs. 775/25),
@@ -1824,7 +1824,7 @@ regelwerke:
   bezug_regelwerke:
   - ki-vo-2024-1689
   - de-ki-vo-durchfuehrungsgesetz
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: hib-Kurzmeldung "Entwurf eines Digitalen Gewaltschutzgesetzes" vom 29.06.2026 gelesen;
     sie gibt BT-Drs. 21/6617 wieder: Veröffentlichung des Referentenentwurfs am 17.04.2026 und Einleitung
@@ -2217,7 +2217,7 @@ regelwerke:
   - de-automatisierter-verwaltungsakt
   - de-automatisierte-datenanalyse-polizei
   - de-ki-vo-durchfuehrungsgesetz
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: Unverändert: BR-Drs. 452/26 vom 14.08.2026 bleibt der jüngste Verfahrensschritt; eine
     Stellungnahme des Bundesrates im ersten Durchgang, eine Zuleitung an den Bundestag und eine BT-Drucksache
@@ -2317,7 +2317,7 @@ regelwerke:
   - de-automatisierte-datenanalyse-polizei
   - ki-vo-2024-1689
   - de-deepfake-strafrecht
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   pruefvermerk:
   - '07.09.2026: Textarchiv des Bundestages zu Mittwoch, 08.07.2026, abgerufen: "Entwürfe zur Stärkung
     der digitalen Befugnisse von Ermittlungsbehörden"; wörtlich "Nach halbstündiger Aussprache wurden
@@ -2336,7 +2336,7 @@ regelwerke:
   status_detail: In Kraft. Allgemeines Deliktsrecht ohne KI-spezifische Anpassung; die Fortentwicklung
     erfolgt durch Rechtsprechung.
   inkrafttreten:
-    datum: '1900-01-01'
+    datum: 1900-01-01
     verifiziert: true
     fundstelle_norm: Inkrafttreten des BGB am 1. Januar 1900; maßgeblich ist die Neubekanntmachung vom
       2. Januar 2002.
@@ -2357,7 +2357,7 @@ regelwerke:
   - '§ 134 BGB: Nichtigkeit von Verträgen über unerlaubte Rechtsdienstleistungen — der Hebel, über den
     die RDG-Verstöße im Legal-Tech-Bereich zivilrechtlich wirken.'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: BGB — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/bgb/
@@ -2367,7 +2367,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-bgb-agb-kaufrecht-ki
   jurisdiktion: de
   kurztitel: AGB-Kontrolle und Mängelgewährleistung bei KI-Verträgen (BGB)
@@ -2380,7 +2380,7 @@ regelwerke:
   status_detail: In Kraft. Kein KI-spezifischer Anpassungsbedarf normiert; die Anwendung auf probabilistische
     Systeme ist ungeklärt.
   inkrafttreten:
-    datum: '2022-01-01'
+    datum: 2022-01-01
     verifiziert: true
     fundstelle_norm: §§ 434 ff. in der Fassung vom 25.06.2021, anwendbar auf Verträge ab dem 01.01.2022.
   themenachsen:
@@ -2396,7 +2396,7 @@ regelwerke:
   - 'Abgrenzung: Für Verbraucherverträge über digitale Produkte gelten vorrangig die §§ 327 ff. BGB (eigenes
     Regelwerk de-bgb-digitale-produkte); die §§ 305 ff. BGB gelten daneben und auch im B2B-Verkehr.'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: BGB — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/bgb/
@@ -2406,7 +2406,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-gg-grundrechte-ki
   jurisdiktion: de
   kurztitel: Grundrechtliche Maßstäbe für den KI-Einsatz (GG)
@@ -2419,7 +2419,7 @@ regelwerke:
   status_detail: In Kraft. Sammeleintrag für die grundrechtliche Prüfungsschicht; die Justizverfassungsnormen
     (Art. 92, 97, 101, 103 GG) sind dem Regelwerk de-ki-justiz zugeordnet.
   inkrafttreten:
-    datum: '1949-05-24'
+    datum: 1949-05-24
     verifiziert: true
   themenachsen:
   - grundrechte
@@ -2438,7 +2438,7 @@ regelwerke:
   - 'Art. 20 Abs. 3 GG: Vorbehalt des Gesetzes — Grund, weshalb die Ermittlungsgeneralklauseln der §§
     161, 163 StPO KI-gestützte Massenauswertung nicht tragen.'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: Grundgesetz — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/gg/
@@ -2448,7 +2448,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-10'
+  letzte_pruefung: 2026-09-10
 - id: de-kug-bildnisschutz
   jurisdiktion: de
   kurztitel: Recht am eigenen Bild und an der Stimme (KUG)
@@ -2461,7 +2461,7 @@ regelwerke:
   status_detail: In Kraft seit 1907. Nur noch §§ 22 bis 24 und 33 KUG in Geltung; die übrigen Vorschriften
     sind durch das UrhG ersetzt.
   inkrafttreten:
-    datum: '1907-07-01'
+    datum: 1907-07-01
     verifiziert: false
     fundstelle_norm: RGBl. 1907 S. 7; Inkrafttretensdatum nicht gegen die amtliche Fassung geprüft.
   themenachsen:
@@ -2478,7 +2478,7 @@ regelwerke:
   - 'Verhältnis zur DSGVO: Für den journalistischen Bereich gilt das KUG über die Öffnungsklausel des
     Art. 85 DSGVO fort; im Übrigen ist das Verhältnis ungeklärt.'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: KunstUrhG — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/kunsturhg/
@@ -2488,7 +2488,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-stgb-computerstrafrecht
   jurisdiktion: de
   kurztitel: Computer- und Datenstrafrecht beim KI-Einsatz (StGB)
@@ -2499,7 +2499,7 @@ regelwerke:
   status_detail: In Kraft. Keine KI-spezifische Anpassung; die Diskussion verläuft über § 201b StGB-E
     (Regelwerk de-deepfake-strafrecht).
   inkrafttreten:
-    datum: '1998-11-13'
+    datum: 1998-11-13
     verifiziert: true
     fundstelle_norm: Neubekanntmachung des StGB; die Einzelnormen sind älter.
   themenachsen:
@@ -2516,7 +2516,7 @@ regelwerke:
   - 'Kein KI-spezifischer Straftatbestand: Anders als Italien mit Art. 61 Nr. 11-decies codice penale
     kennt das deutsche Recht keinen allgemeinen Erschwerungsgrund der Tatbegehung mittels KI.'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: StGB — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/stgb/
@@ -2526,7 +2526,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-zpo-ki-prozessrecht
   jurisdiktion: de
   kurztitel: Zivilprozessrecht und KI-erzeugte Schriftsätze (ZPO)
@@ -2538,7 +2538,7 @@ regelwerke:
   status_detail: In Kraft. Kein KI-spezifisches Prozessrecht; Offenlegungs- und Verifikationspflichten
     werden diskutiert, sind aber nicht normiert.
   inkrafttreten:
-    datum: '1879-10-01'
+    datum: 1879-10-01
     verifiziert: false
     fundstelle_norm: Maßgeblich ist die Neubekanntmachung vom 05.12.2005.
   themenachsen:
@@ -2557,7 +2557,7 @@ regelwerke:
   - Keine Vorschrift verpflichtet Parteien oder Bevollmächtigte, den Einsatz generativer Systeme offenzulegen
     — anders als in mehreren Common-Law-Jurisdiktionen.
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: ZPO — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/zpo/
@@ -2567,7 +2567,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-uwg-ki-lauterkeitsrecht
   jurisdiktion: de
   kurztitel: Lauterkeitsrecht und KI-gestützte Kommunikation (UWG)
@@ -2580,7 +2580,7 @@ regelwerke:
   status_detail: In Kraft. Die Zurechnung von Chatbot-Aussagen ist erstmals obergerichtlich entschieden
     (OLG Hamm, 12.05.2026).
   inkrafttreten:
-    datum: '2004-07-08'
+    datum: 2004-07-08
     verifiziert: false
     fundstelle_norm: Maßgeblich ist die Neubekanntmachung vom 03.03.2010.
   themenachsen:
@@ -2597,7 +2597,7 @@ regelwerke:
   - § 5a Abs. 4 UWG verlangt die Kenntlichmachung des kommerziellen Zwecks; für KI-generierte Werbeformate
     und Empfehlungen ist das die praktisch wichtigste Kennzeichnungspflicht neben Art. 50 KI-VO.
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: UWG — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/uwg_2004/
@@ -2607,7 +2607,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-gwb-algorithmen-marktmacht
   jurisdiktion: de
   kurztitel: Kartellrecht, algorithmische Kollusion und Plattformmacht (GWB)
@@ -2619,7 +2619,7 @@ regelwerke:
   status_detail: In Kraft. § 19a GWB seit dem 19.01.2021; die Befristung der Verfügungen auf fünf Jahre
     führt ab 2026 zu Verlängerungsverfahren.
   inkrafttreten:
-    datum: '2021-01-19'
+    datum: 2021-01-19
     verifiziert: true
     fundstelle_norm: GWB-Digitalisierungsgesetz vom 18.01.2021 (BGBl. I S. 2), Inkrafttreten am Tag nach
       der Verkündung.
@@ -2638,7 +2638,7 @@ regelwerke:
   - 'Verhältnis zum DMA: § 19a GWB gilt neben der VO (EU) 2022/1925 und reicht sachlich weiter, weil er
     nicht an einen abschließenden Katalog zentraler Plattformdienste gebunden ist.'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: GWB — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/gwb/
@@ -2648,7 +2648,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-markeng-ki-kennzeichen
   jurisdiktion: de
   kurztitel: Markenrechtliche Benutzung in KI-Ausgaben (MarkenG)
@@ -2659,7 +2659,7 @@ regelwerke:
   status: anwendbar
   status_detail: In Kraft. Erste deutsche Entscheidung zur markenmäßigen Benutzung in KI-Übersichten 2026.
   inkrafttreten:
-    datum: '1995-01-01'
+    datum: 1995-01-01
     verifiziert: true
   themenachsen:
   - wettbewerb
@@ -2674,7 +2674,7 @@ regelwerke:
     Zurechnungsfrage wie in § 8 Abs. 2 UWG.
   - 'Parallelnorm des Unionsrechts: Art. 9 UMV (VO (EU) 2017/1001).'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: MarkenG — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/markeng/
@@ -2684,7 +2684,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-mstv-medienintermediaere
   jurisdiktion: de
   kurztitel: 'Medienstaatsvertrag: Sorgfaltspflichten und Medienintermediäre'
@@ -2697,7 +2697,7 @@ regelwerke:
   status_detail: In Kraft seit dem 07.11.2020. Länderrecht; die Anwendung auf generative Suchassistenten
     ist ungeklärt.
   inkrafttreten:
-    datum: '2020-11-07'
+    datum: 2020-11-07
     verifiziert: true
   themenachsen:
   - content
@@ -2717,7 +2717,7 @@ regelwerke:
   - 'Zuständigkeit: die Landesmedienanstalten, nicht die Bundesnetzagentur — Reibungsfläche zur KI-Aufsicht
     nach dem KI-MIG.'
   dokumente:
-  - datum: '2020-11-07'
+  - datum: 2020-11-07
     typ: konsolidiert
     titel: Medienstaatsvertrag — konsolidierte Fassung der Medienanstalten
     url: https://www.die-medienanstalten.de/fileadmin/user_upload/Rechtsgrundlagen/Gesetze_Staatsvertraege/Medienstaatsvertrag_MStV.pdf
@@ -2727,7 +2727,7 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06
 - id: de-agg-algorithmische-diskriminierung
   jurisdiktion: de
   kurztitel: AGG und algorithmische Benachteiligung
@@ -2739,7 +2739,7 @@ regelwerke:
   status_detail: In Kraft seit dem 18.08.2006. Reformbedarf für algorithmische Systeme ist gutachtlich
     festgestellt, aber nicht umgesetzt.
   inkrafttreten:
-    datum: '2006-08-18'
+    datum: 2006-08-18
     verifiziert: true
   themenachsen:
   - grundrechte
@@ -2756,7 +2756,7 @@ regelwerke:
     begründen aber keine individuellen Ansprüche; das AGG begründet Ansprüche, erreicht aber den Hersteller
     nicht.'
   dokumente:
-  - datum: '2026-09-06'
+  - datum: 2026-09-06
     typ: konsolidiert
     titel: AGG — konsolidierte Fassung
     url: https://www.gesetze-im-internet.de/agg/
@@ -2766,4 +2766,4 @@ regelwerke:
   offene_punkte: []
   monitoring_quellen:
   - https://www.gesetze-im-internet.de/
-  letzte_pruefung: '2026-09-06'
+  letzte_pruefung: 2026-09-06

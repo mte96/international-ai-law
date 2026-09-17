@@ -57,7 +57,7 @@ urteile:
   - uk-2025-getty-stability-form-of-order
   quelle_tracker: Find Case Law (National Archives); judiciary.uk; IPKat
   verifiziert: true
-  letzte_pruefung: '2026-09-07'
+  letzte_pruefung: 2026-09-07
   eigene_bewertung: 'Der Fall wird durchgängig falsch berichtet. Er ist KEINE Entscheidung darüber, ob
     KI-Training Urheberrechte verletzt. Getty hat den Trainings- und Entwicklungsanspruch während des
     Verfahrens fallengelassen, weil kein Beweis dafür zu führen war, dass irgendein Trainingsvorgang im
@@ -319,7 +319,7 @@ urteile:
 - id: uk-2022-ico-clearview-mpn
   jurisdiktion: uk
   gericht: Information Commissioner's Office
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Monetary Penalty Notice und Enforcement Notice vom 18.05.2022
   ecli: ''
   datum: 2022-05-18
@@ -515,7 +515,7 @@ urteile:
 - id: uk-2024-ico-serco
   jurisdiktion: uk
   gericht: Information Commissioner's Office
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Enforcement Notice, Februar 2024
   ecli: ''
   datum: 2024-02-23
@@ -564,7 +564,7 @@ urteile:
 - id: uk-2024-ico-snap-my-ai
   jurisdiktion: uk
   gericht: Information Commissioner's Office
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Preliminary Enforcement Notice vom 06.10.2023; Abschluss Mai 2024
   ecli: ''
   datum: 2024-05-21
@@ -1440,7 +1440,7 @@ urteile:
 - id: uk-2025-cma-microsoft-openai
   jurisdiktion: uk
   gericht: Competition and Markets Authority
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: 'Merger inquiry: Microsoft Corporation / OpenAI, Inc.'
   ecli: ''
   datum: 2025-03-05
@@ -1890,7 +1890,7 @@ urteile:
 - id: au-2023-robodebt-royal-commission
   jurisdiktion: au
   gericht: Royal Commission into the Robodebt Scheme (Commissioner Catherine Holmes AC SC)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Letters Patent vom 18.08.2022; Abschlussbericht vom 07.07.2023
   ecli: ''
   datum: 2023-07-07
@@ -1932,7 +1932,7 @@ urteile:
   letzte_pruefung: 2026-09-05
   eigene_bewertung: 'ABRUFPROBLEM: robodebt.royalcommission.gov.au war nicht erreichbar (robots.txt-Timeout);
     die Angaben beruhen auf Sekundärquellen und Modellwissen und sind vor Zitierung am Bericht selbst
-    zu prüfen. Keine gerichtliche Entscheidung, aber als `instanz: behörde` erfasst, weil das Briefing
+    zu prüfen. Keine gerichtliche Entscheidung, aber als `instanz: behoerde` erfasst, weil das Briefing
     Behördenentscheidungen mit Bindungswirkung einschließt und der Bericht die materiellen Feststellungen
     enthält, die kein Gericht getroffen hat. Für die Frage nach dem wichtigsten australischen Präzedenzfall
     zu automatisierten Verwaltungsentscheidungen ist der Befund unangenehm: Der "Präzedenzfall" Robodebt
@@ -1990,7 +1990,7 @@ urteile:
 - id: au-2021-oaic-clearview
   jurisdiktion: au
   gericht: Office of the Australian Information Commissioner
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Commissioner initiated investigation into Clearview AI, Inc. (Privacy) [2021] AICmr 54
   ecli: ''
   datum: 2021-10-14
@@ -2108,7 +2108,7 @@ urteile:
 - id: au-2021-oaic-7eleven
   jurisdiktion: au
   gericht: Office of the Australian Information Commissioner
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Commissioner initiated investigation into 7-Eleven Stores Pty Ltd (Privacy) (Corrigendum
     dated 12 October 2021) [2021] AICmr 50
   ecli: ''
@@ -2171,7 +2171,7 @@ urteile:
 - id: au-2024-oaic-bunnings
   jurisdiktion: au
   gericht: Office of the Australian Information Commissioner (Privacy Commissioner Carly Kind)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Commissioner Initiated Investigation into Bunnings Group Ltd (Privacy) [2024] AICmr 230;
     Aktenzeichen CII22/00001
   ecli: ''
@@ -2615,7 +2615,7 @@ urteile:
 - id: au-2025-vlsbc-dayal
   jurisdiktion: au
   gericht: Victorian Legal Services Board and Commissioner
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: 'Ohne Aktenzeichen; Änderung des practising certificate durch das Victorian Legal Services
     Board nach dem Legal Profession Uniform Law. Zugrundeliegende Gerichtsentscheidung: Dayal [2024] FedCFamC2F
     1166'
@@ -3159,7 +3159,7 @@ urteile:
 - id: au-2024-nsw-pn-sc-gen-23
   jurisdiktion: au
   gericht: Supreme Court of New South Wales
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Practice Note SC Gen 23 — Use of Generative Artificial Intelligence (GenAI)
   ecli: ''
   datum: 2024-11-21
@@ -3215,7 +3215,7 @@ urteile:
 - id: au-2026-fedcourt-gpn-ai
   jurisdiktion: au
   gericht: Federal Court of Australia
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Use of Generative Artificial Intelligence Practice Note (GPN-AI)
   ecli: ''
   datum: 2026-04-15
@@ -3270,7 +3270,7 @@ urteile:
 - id: au-2025-scwa-consultation
   jurisdiktion: au
   gericht: Supreme Court of Western Australia
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Artificial Intelligence practice direction — Consultation note (Stellungnahmefrist 31.03.2025)
   ecli: ''
   datum: 2025-03-31
@@ -3329,7 +3329,7 @@ urteile:
 - id: au-2026-sa-genai-guidelines
   jurisdiktion: au
   gericht: Supreme Court of South Australia
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Guidelines for the Use of Generative AI
   ecli: ''
   datum: 2026-01-19
@@ -3565,7 +3565,7 @@ urteile:
   jurisdiktion: ca
   gericht: Office of the Privacy Commissioner of Canada, gemeinsam mit CAI Quebec, OIPC British Columbia,
     OIPC Alberta
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: 'PIPEDA Findings #2021-001'
   ecli: ''
   datum: 2021-02-02
@@ -3642,7 +3642,7 @@ urteile:
   jurisdiktion: ca
   gericht: Office of the Privacy Commissioner of Canada, gemeinsam mit CAI Quebec, OIPC British Columbia,
     OIPC Alberta
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: 'PIPEDA Findings #2026-002'
   ecli: ''
   datum: 2026-05-06
@@ -4165,7 +4165,7 @@ urteile:
 - id: nz-2023-courts-genai-guidelines
   jurisdiktion: nz
   gericht: Courts of New Zealand (Chief Justice)
-  instanz: behörde
+  instanz: behoerde
   aktenzeichen: Guidelines for the Use of Generative Artificial Intelligence in Courts and Tribunals (Fassungen
     fuer Richterschaft, Anwaltschaft und nicht vertretene Parteien)
   ecli: ''

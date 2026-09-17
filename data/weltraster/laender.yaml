@@ -166,7 +166,7 @@ laender:
   status: entwurf
   einstufung: pflicht
   kurztitel: Zwei Praesidialverordnungen (Perpres) zu KI-Ethik und nationaler KI-Roadmap
-  datum: 2026
+  datum: '2026'
   inhalt: Statt eines Parlamentsgesetzes zunaechst zwei Perpres zu KI-Ethik und Roadmap, die 2026 erlassen
     werden sollen; das Kommunikationsministerium hat KI-Regulierung zur Prioritaet 2026 erklaert, ein
     foermliches RUU KI ist noch nicht eingebracht.
@@ -278,7 +278,7 @@ laender:
   status: strategie
   einstufung: pflicht
   kurztitel: 'SDAIA-Rahmenwerk: KI-Ethikgrundsaetze, Deepfake-Leitlinien, Regeln fuer generative KI'
-  datum: 2024
+  datum: '2024'
   inhalt: Kein KI-Gesetz, aber ein dichtes Netz behoerdlicher Leitlinien der Saudi Data and AI Authority,
     das ueber die Datenschutz- und Vergabegesetzgebung faktisch bindend wirkt; Deepfake-Leitlinien 2024,
     Regeln zur generativen KI in der Verwaltung.
@@ -407,7 +407,7 @@ laender:
   status: strategie
   einstufung: beobachten
   kurztitel: Mehrere Gesetzesinitiativen ohne Konsolidierung; Plan Nacional de IA
-  datum: 2026
+  datum: '2026'
   inhalt: Im Kongress liegen mehrere KI-Entwuerfe, keiner ist in ein Verfahren mit Aussicht auf Verabschiedung
     gelangt; die Regierung verfolgt einen deregulierenden Kurs.
   fundstelle: Congreso de la Nacion; iProUP 2026
@@ -444,7 +444,7 @@ laender:
   status: entwurf
   einstufung: beobachten
   kurztitel: Gesetzesvorhaben zur Regulierung kuenstlicher Intelligenz
-  datum: 2026
+  datum: '2026'
   inhalt: Im Kongress diskutiertes KI-Gesetz mit Streit ueber die Balance zwischen Kontrolle und Innovationsfoerderung;
     Verabschiedung noch offen.
   fundstelle: Congreso de Colombia; Semana 2026
@@ -480,7 +480,7 @@ laender:
   status: entwurf
   einstufung: beobachten
   kurztitel: Nationale Umsetzung der KI-VO im Wege der EWR-Uebernahme
-  datum: 2026
+  datum: '2026'
   inhalt: Die KI-VO ist EWR-relevant; Norwegen bereitet die Uebernahme in das EWR-Abkommen und ein nationales
     Durchfuehrungsgesetz vor. Kein eigenstaendiger materieller Ansatz, daher fuer die Datenbasis nur als
     EWR-Spiegelbild interessant.
@@ -492,7 +492,7 @@ laender:
   status: strategie
   einstufung: beobachten
   kurztitel: National Artificial Intelligence Policy 2025
-  datum: 2025
+  datum: '2025'
   inhalt: Vom Kabinett gebilligte nationale KI-Politik mit Governance-Struktur und Foerderschwerpunkten;
     kein Gesetzentwurf.
   fundstelle: Ministry of IT and Telecommunication, Pakistan
@@ -528,7 +528,7 @@ laender:
   status: strategie
   einstufung: beobachten
   kurztitel: National AI Policy 2022; National Artificial Intelligence Agency
-  datum: 2022
+  datum: '2022'
   inhalt: Am weitesten implementierter Politikrahmen Afrikas mit Ethikausschuessen und Risikobewertungsverfahren;
     im Juni 2026 wurde eine eigene nationale KI-Agentur errichtet, ein Gesetz fehlt weiterhin.
   fundstelle: Ministry of ICT and Innovation Ruanda; OECD AI Governance in Africa 2026
@@ -589,7 +589,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: National Artificial Intelligence Strategy, Fortschreibung 2025
-  datum: 2025
+  datum: '2025'
   inhalt: Fortgeschriebene nationale KI-Strategie mit Schwerpunkt Verwaltungseinsatz; kein Gesetzesvorhaben.
   fundstelle: Ministry of Communications and Information Technology Aegypten
   url: https://www.techinafrica.com/ai-regulation-africa-2026-new-laws-compliance-startup-opportunities/
@@ -599,7 +599,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Nationale KI-Strategie
-  datum: 2024
+  datum: '2024'
   inhalt: Strategie ohne Gesetzgebungsvorhaben.
   fundstelle: OECD, Strengthening AI Governance in Africa 2026
   url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/oecd-artificial-intelligence-case-studies_71322177/strengthening-ai-governance-in-africa_812bb149/1ff55135-en.pdf
@@ -609,7 +609,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Entwicklung eines KI-Regulierungsrahmens
-  datum: 2026
+  datum: '2026'
   inhalt: Vorbereitende Arbeiten an einem KI-Rechtsrahmen, bislang ohne Entwurf.
   fundstelle: LY Law Firm, Development of AI Regulation in Armenia 2026
   url: https://lylegal.com/news/development-ai-regulation-armenia-2026
@@ -619,7 +619,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Strategie zur Entwicklung kuenstlicher Intelligenz 2025-2028
-  datum: 2025
+  datum: '2025'
   inhalt: Nationale KI-Strategie, von der Organisation der Turkstaaten hervorgehoben; kein Gesetz.
   fundstelle: Regierung Aserbaidschans; Caspian Post 2025
   url: https://caspianpost.com/azerbaijan/ots-hails-azerbaijan-s-adoption-of-ai-strategy-for-2025-2028
@@ -629,7 +629,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: KI-Leitlinien; Steuerung ueber Datenschutzrecht
-  datum: 2024
+  datum: '2024'
   inhalt: Keine KI-spezifische Gesetzgebung; Leitlinien und Datenschutzgesetz.
   fundstelle: Bird & Bird GCC-Ueberblick 2025
   url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
@@ -639,7 +639,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: National Strategy for Artificial Intelligence
-  datum: 2020
+  datum: '2020'
   inhalt: Aeltere nationale Strategie ohne Rechtsverbindlichkeit; kein Gesetzentwurf erkennbar.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -674,7 +674,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Estrategia Nacional de IA 2024-2027
-  datum: 2024
+  datum: '2024'
   inhalt: Nationale KI-Strategie; kein Gesetz.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -684,7 +684,7 @@ laender:
   status: entwurf
   einstufung: nachrangig
   kurztitel: Gesetzentwurf zur Regulierung kuenstlicher Intelligenz
-  datum: 2026
+  datum: '2026'
   inhalt: Im parlamentarischen Verfahren, nach Sekundaerquellen an EU-Systematik angelehnt.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -707,7 +707,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Steuerung ueber Datenschutzrecht, keine KI-spezifische Regelung
-  datum: 2026
+  datum: '2026'
   inhalt: KI wird bislang allein ueber das Datenschutzgesetz erfasst.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -717,7 +717,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: National AI Strategy 2023-2033
-  datum: 2023
+  datum: '2023'
   inhalt: Zehnjahresstrategie mit Multi-Stakeholder-Governance; kein Gesetz.
   fundstelle: Ministry of Communications and Digitalisation Ghana
   url: https://www.techinafrica.com/ai-regulation-africa-2026-new-laws-compliance-startup-opportunities/
@@ -727,7 +727,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: National AI Strategy 2023-2027 und Charter for AI Ethics
-  datum: 2023
+  datum: '2023'
   inhalt: Strategie und Ethikcharta; kein Gesetz.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -737,7 +737,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: National AI Strategy; Guidelines for Secure Adoption of AI
-  datum: 2024
+  datum: '2024'
   inhalt: Strategie und behoerdliche Leitlinien zum sicheren KI-Einsatz; kein Gesetz.
   fundstelle: Bird & Bird GCC-Ueberblick; Al Hail Law Firm 2026
   url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
@@ -760,7 +760,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: KI-Strategie; Steuerung ueber Datenschutz- und Cybersicherheitsrecht
-  datum: 2024
+  datum: '2024'
   inhalt: Keine KI-spezifische Gesetzgebung.
   fundstelle: Bird & Bird GCC-Ueberblick 2025
   url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
@@ -803,7 +803,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Nationale KI-Ausrichtung; Steuerung ueber Datenschutzgesetz 09-08
-  datum: 2025
+  datum: '2025'
   inhalt: Kein KI-Gesetz; die CNDP wendet Datenschutzrecht auf KI an.
   fundstelle: OECD, Strengthening AI Governance in Africa 2026
   url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/oecd-artificial-intelligence-case-studies_71322177/strengthening-ai-governance-in-africa_812bb149/1ff55135-en.pdf
@@ -813,7 +813,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: National AI Strategy
-  datum: 2018
+  datum: '2018'
   inhalt: Fruehe afrikanische KI-Strategie; kein Gesetz.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -835,7 +835,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: National AI Policy und Leitlinien zum KI-Einsatz in der Verwaltung
-  datum: 2024
+  datum: '2024'
   inhalt: Politikrahmen ohne bindende KI-Normen; Steuerung ueber Datenschutzgesetz.
   fundstelle: Bird & Bird GCC-Ueberblick 2025
   url: https://www.twobirds.com/en/insights/2025/united-arab-emirates/gcc-navigating-ai-regulations---the-current-landscape
@@ -869,7 +869,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Nationale KI-Strategie
-  datum: 2025
+  datum: '2025'
   inhalt: Strategie ohne Gesetzgebungsvorhaben.
   fundstelle: OECD, Strengthening AI Governance in Africa 2026
   url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/oecd-artificial-intelligence-case-studies_71322177/strengthening-ai-governance-in-africa_812bb149/1ff55135-en.pdf
@@ -879,7 +879,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Strategie zur Entwicklung kuenstlicher Intelligenz; Vorbereitung der KI-VO-Angleichung
-  datum: 2025
+  datum: '2025'
   inhalt: Angleichung an die KI-VO im Rahmen des Beitrittsprozesses angekuendigt, bislang Strategie und
     Ethikleitlinien; kein Gesetzentwurf.
   fundstelle: CMS Expert Guide Serbien 2026
@@ -913,7 +913,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Nationale KI-Strategie; Steuerung ueber Datenschutzgesetz
-  datum: 2025
+  datum: '2025'
   inhalt: Kein KI-Gesetz erkennbar.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -934,7 +934,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Nationale KI-Ausrichtung; Steuerung ueber Datenschutzrecht
-  datum: 2025
+  datum: '2025'
   inhalt: Kein KI-Gesetz erkennbar.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations
@@ -944,7 +944,7 @@ laender:
   status: strategie
   einstufung: nachrangig
   kurztitel: Estrategia de IA para el Gobierno Digital
-  datum: 2024
+  datum: '2024'
   inhalt: KI-Strategie fuer die Verwaltung; kein Gesetz.
   fundstelle: VerifyWise Global AI Regulations Tracker 2026
   url: https://verifywise.ai/global-ai-regulations

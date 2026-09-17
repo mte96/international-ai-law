@@ -53,6 +53,8 @@ fristen:
   - 7
 - id: ng-software-testing-2026-f1
   datum: null
+  datum_offen: true
+  datum_hinweis: "Kein Stichtag veröffentlicht."
   beschreibung: 'Anwendungsbeginn der National Software Testing Guideline 2026 und der Software Testing
     Organisations Licensing Guideline 2026. BEIDE LEITLINIEN SIND UNTERZEICHNET (14.07.2026), IHR ANWENDUNGSBEGINN
     IST ABER NOCH NICHT BESTIMMT: Sie treten "on a date to be determined and communicated by" der NITDA
@@ -115,6 +117,8 @@ fristen:
   - 90
 - id: ke-ai-bill-2026-f1
   datum: null
+  datum_offen: true
+  datum_hinweis: "Wiederkehrende Überprüfung alle drei Jahre, ohne datierten Stichtag."
   beschreibung: 'Der kenianische Artificial Intelligence Bill 2026 sieht vor, dass der Cabinet Secretary
     das Gesetz ALLE DREI JAHRE überprüft, die Beteiligten konsultiert, neue Risiken bewertet und dem Parlament
     binnen sechs Monaten mit Änderungsvorschlägen berichtet. Die Frist läuft erst ab Inkrafttreten; da
@@ -136,6 +140,8 @@ fristen:
   - 90
 - id: ke-data-protection-act-2019-f1
   datum: null
+  datum_offen: true
+  datum_hinweis: "Wiederkehrende Verfahrensfrist, kein einmaliger Stichtag."
   beschreibung: 'Wiederkehrende Verfahrensfrist, kein einmaliger Stichtag, aber praktisch die wichtigste
     Frist des kenianischen KI-Rechts: Nach s. 31 des Data Protection Act 2019 ist der Bericht über die
     Datenschutz-Folgenabschätzung SECHZIG TAGE VOR Beginn einer Hochrisikoverarbeitung beim ODPC einzureichen.
